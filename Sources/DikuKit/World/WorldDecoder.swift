@@ -16,7 +16,8 @@ class WorldDeserializer: Decoder {
 
     var userInfo: [CodingUserInfoKey: Any]
 
-    func container<Key>(keyedBy type: Key.Type) throws -> KeyedDecodingContainer<Key> where Key : CodingKey {
+    func container<Key>(keyedBy type: Key.Type) throws -> KeyedDecodingContainer<Key>
+    where Key: CodingKey {
         throw WorldDeserializationError.generic
     }
 

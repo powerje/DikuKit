@@ -47,13 +47,13 @@ public struct Room: Decodable {
     let name: String
     let description: String
     let zoneNumber: Int
-    let zoneFlags: UInt // Many games will have multiple zoneflags probably, but Diku just has the one.
+    let zoneFlags: UInt  // Many games will have multiple zoneflags probably, but Diku just has the one.
     let sectorType: Int
     let exits: [Exit]
 }
 
 public struct Exit: Decodable {
-    let exitNumber: Int // maps to a cardinal direction, game specific
+    let exitNumber: Int  // maps to a cardinal direction, game specific
     let generalDescription: String
     let keywords: [String]
     let flag: String

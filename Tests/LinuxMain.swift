@@ -1,6 +1,5 @@
-import XCTest
-
 import DikuKitTests
+import XCTest
 
 var tests = [XCTestCaseEntry]()
 tests += DikuKitTests.allTests()
