@@ -1,4 +1,4 @@
-import DikuIO
+import DikuKit
 import Foundation
 import Nimble
 import Quick
