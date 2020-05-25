@@ -4,44 +4,6 @@ public struct World: Decodable {
     public let rooms: [Room]
 }
 
-/*
-#<virtual number>
-<name>~
-<description>~
-<zone nr>
-<room_flags>
-<sector_type>
-{<direction fields and extra descriptions>}
-'S'
-#<virtual number>
-
-.
-.
-.
-
-#<arbitrary number (is ignored)>
-$~
-
- Explanation of fields:
- ----------------------
-
- <Direction fields> follow this format:
-
- D<exit number>
- <general description>~
- <keyword list>~
- <Door flag> <key number> <to_room>
-
- Extra descriptions
- ------------------
-
- Format:
-
- 'E'
- <blank separated keyword list>~
- <description>~
-*/
-
 public struct Room: Decodable {
     public let virtualNumber: Int
     public let name: String
