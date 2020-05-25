@@ -1,7 +1,7 @@
 import Foundation
 
 public struct World: Decodable {
-    let rooms: [Room]
+    public let rooms: [Room]
 }
 
 /*
@@ -43,26 +43,26 @@ $~
 */
 
 public struct Room: Decodable {
-    let virtualNumber: Int
-    let name: String
-    let description: String
-    let zoneNumber: Int
-    let zoneFlags: UInt  // Many games will have multiple zoneflags probably, but Diku just has the one.
-    let sectorType: Int
-    let exits: [Exit]
+    public let virtualNumber: Int
+    public let name: String
+    public let description: String
+    public let zoneNumber: Int
+    public let zoneFlags: Int  // Many games will have multiple zoneflags probably, but Diku just has the one.
+    public let sectorType: Int
+    public let exits: [Exit]
+    public let extraDescriptions: [ExtraDescription]
 }
 
 public struct Exit: Decodable {
-    let exitNumber: Int  // maps to a cardinal direction, game specific
-    let generalDescription: String
-    let keywords: [String]
-    let flag: String
-    let key: Int
-    let destination: Int
-    let extraDescription: ExtraDescription
+    public let exitNumber: Int  // maps to a cardinal direction, game specific
+    public let generalDescription: String
+    public let keywords: [String]
+    public let flag: Int
+    public let key: Int
+    public let destination: Int
 }
 
 public struct ExtraDescription: Decodable {
-    let keywords: [String]
-    let description: String
+    public let keywords: [String]
+    public let description: String
 }

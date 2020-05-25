@@ -5,6 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "DikuKit",
+    platforms: [.macOS(.v10_15)],
     products: [
         .library(name: "DikuKit", targets: ["DikuKit"]),
         .executable(name: "diku", targets: ["diku"]),
