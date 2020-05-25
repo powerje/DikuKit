@@ -252,6 +252,16 @@ class WorldSpec: QuickSpec {
                 }
             }
 
+            it("decodes the tinyworld distributed with diku") {
+                do {
+                    let worldData = tinyworld.data(using: .utf8)!
+                    let world: World? = try decoder.decode(World.self, from: worldData)
+                    let rooms = world!.rooms
+                    expect(rooms.count).to(equal(657))
+                } catch {
+                    expect(error).to(beNil())
+                }
+            }
         }
     }
 }

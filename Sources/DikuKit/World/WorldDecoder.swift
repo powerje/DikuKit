@@ -228,13 +228,13 @@ struct WorldUnkeyedDecodingContainer: UnkeyedDecodingContainer {
         }
         _ = scanner.scanCharacters(from: .whitespaces)
 
-        guard let name = scanner.scanUpToString("~") else {
+        guard let name = scanner.scanUpToCharacter("~") else {
             throw WorldDecodingError.unexpectedCharacter("Room \(virtualNumber) expected title but no termination character (~) found.")
         }
         _ = scanner.scanCharacter() // ~
         _ = scanner.scanCharacters(from: .newlines)
 
-        guard let description = scanner.scanUpToString("~") else {
+        guard let description = scanner.scanUpToCharacter("~") else {
             throw WorldDecodingError.unexpectedCharacter("Room \(virtualNumber) expected description but no termination character (~) found.")
         }
         _ = scanner.scanCharacter() // ~
@@ -276,7 +276,7 @@ struct WorldUnkeyedDecodingContainer: UnkeyedDecodingContainer {
             }
             _ = scanner.scanCharacters(from: .whitespacesAndNewlines)
 
-            guard let generalDescription = scanner.scanUpToString("~") else {
+            guard let generalDescription = scanner.scanUpToCharacter("~") else {
                 throw WorldDecodingError.unexpectedCharacter("Room \(virtualNumber) expected generalDescription for exit \(exitNumber) but no termination character (~) found.")
             }
             _ = scanner.scanCharacter() // ~
@@ -286,7 +286,7 @@ struct WorldUnkeyedDecodingContainer: UnkeyedDecodingContainer {
             if scanner.peekCharacter == "~" {
                 keywords = []
             } else {
-                guard let keywordList = scanner.scanUpToString("~") else {
+                guard let keywordList = scanner.scanUpToCharacter("~") else {
                     throw WorldDecodingError.unexpectedCharacter("Room \(virtualNumber) expected keyword list for exit \(exitNumber) but no termination character (~) found.")
                 }
                 keywords = keywordList.split(separator: " ").map(String.init)
@@ -326,7 +326,7 @@ struct WorldUnkeyedDecodingContainer: UnkeyedDecodingContainer {
         }
 
         guard scanner.peekCharacter == "E" else {
-            throw WorldDecodingError.unexpectedCharacter("Expected `E` but got `\(scanner.peekCharacter)`")
+            throw WorldDecodingError.unexpectedCharacter("Expected `E` but got `\(scanner.peekCharacter)` at \(currentIndex) (VNUM #\(virtualNumber))")
         }
 
         var extraDescriptions = [ExtraDescription]()
@@ -337,7 +337,7 @@ struct WorldUnkeyedDecodingContainer: UnkeyedDecodingContainer {
             if scanner.peekCharacter == "~" {
                 keywords = []
             } else {
-                guard let keywordList = scanner.scanUpToString("~") else {
+                guard let keywordList = scanner.scanUpToCharacter("~") else {
                     throw WorldDecodingError.unexpectedCharacter("Room \(virtualNumber) expected keyword list for extra description #\(extraDescriptions.count) but no termination character (~) found.")
                 }
                 keywords = keywordList.split(separator: " ").map(String.init)
@@ -345,7 +345,7 @@ struct WorldUnkeyedDecodingContainer: UnkeyedDecodingContainer {
             _ = scanner.scanCharacter() // ~
             _ = scanner.scanCharacters(from: .whitespacesAndNewlines)
 
-            guard let description = scanner.scanUpToString("~") else {
+            guard let description = scanner.scanUpToCharacter("~") else {
                 throw WorldDecodingError.unexpectedCharacter("Room \(virtualNumber) expected description for extra description #\(extraDescriptions.count) but no termination character (~) found.")
             }
             _ = scanner.scanCharacter() // ~
@@ -355,7 +355,7 @@ struct WorldUnkeyedDecodingContainer: UnkeyedDecodingContainer {
         }
 
         guard scanner.peekCharacter == "S" else {
-            throw WorldDecodingError.unexpectedCharacter("Expected `S` but got `\(scanner.peekCharacter)`")
+            throw WorldDecodingError.unexpectedCharacter("Expected `S` but got `\(scanner.peekCharacter)` at \(currentIndex) (VNUM: #\(virtualNumber)")
         }
 
         _ = scanner.scanCharacter()
@@ -408,6 +408,11 @@ extension Scanner {
     func peekCharacters(count: Int = 1) -> Substring {
         let endIndex = string.index(currentIndex, offsetBy: String.IndexDistance(count))
         return string[currentIndex..<endIndex]
+    }
+
+    func scanUpToCharacter(_ character: Character) -> String? {
+        if peekCharacter == character { return "" }
+        return scanUpToString("\(character)")
     }
 
     func whatsLeft(title: String = "") {
