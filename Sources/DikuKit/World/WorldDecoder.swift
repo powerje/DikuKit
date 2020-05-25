@@ -309,8 +309,6 @@ struct WorldUnkeyedDecodingContainer: UnkeyedDecodingContainer {
             }
             _ = scanner.scanCharacters(from: .whitespacesAndNewlines)
 
-            scanner.whatsLeft()
-
             exits.append(Exit.init(exitNumber: exitNumber, generalDescription: generalDescription, keywords: keywords, flag: flag, key: key, destination: destination))
         }
 
