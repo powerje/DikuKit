@@ -127,7 +127,7 @@ struct WorldUnkeyedDecodingContainer: UnkeyedDecodingContainer {
         guard let virtualNumber = scanner.scanInt() else {
             throw WorldDecodingError.unexpectedCharacter("Expected virtual number at \(scanner.currentIndex)")
         }
-        _ = scanner.scanCharacters(from: .whitespaces)
+        scanner.consumeWhitespace()
 
         guard let name = scanner.scanUpToCharacter("~") else {
             throw WorldDecodingError.unexpectedCharacter("Room \(virtualNumber) expected title but no termination character (~) found.")
@@ -187,9 +187,11 @@ struct WorldUnkeyedDecodingContainer: UnkeyedDecodingContainer {
             if scanner.peekCharacter == "~" {
                 keywords = []
             } else {
+                scanner.consumeWhitespace()
                 guard let keywordList = scanner.scanUpToCharacter("~") else {
                     throw WorldDecodingError.unexpectedCharacter("Room \(virtualNumber) expected keyword list for exit \(exitNumber) but no termination character (~) found.")
                 }
+
                 keywords = keywordList.split(separator: " ").map(String.init)
             }
             _ = scanner.scanCharacter() // ~
@@ -238,6 +240,7 @@ struct WorldUnkeyedDecodingContainer: UnkeyedDecodingContainer {
             if scanner.peekCharacter == "~" {
                 keywords = []
             } else {
+                scanner.consumeWhitespace()
                 guard let keywordList = scanner.scanUpToCharacter("~") else {
                     throw WorldDecodingError.unexpectedCharacter("Room \(virtualNumber) expected keyword list for extra description #\(extraDescriptions.count) but no termination character (~) found.")
                 }
@@ -305,6 +308,10 @@ enum WorldDecodingError: Error {
 
 extension Scanner {
     var peekCharacter: Character { string[currentIndex] }
+
+    func consumeWhitespace() {
+        while peekCharacter.isWhitespace { _ = scanCharacter() }
+    }
 
     func peekCharacters(count: Int = 1) -> Substring {
         let endIndex = string.index(currentIndex, offsetBy: String.IndexDistance(count))

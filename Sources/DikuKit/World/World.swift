@@ -1,10 +1,10 @@
 import Foundation
 
-public struct World: Decodable {
+public struct World: Codable {
     public let rooms: [Room]
 }
 
-public struct Room: Decodable {
+public struct Room: Codable {
     public let virtualNumber: Int
     public let name: String
     public let description: String
@@ -15,7 +15,7 @@ public struct Room: Decodable {
     public let extraDescriptions: [ExtraDescription]
 }
 
-public struct Exit: Decodable {
+public struct Exit: Codable {
     public let exitNumber: Int  // maps to a cardinal direction, game specific
     public let generalDescription: String
     public let keywords: [String]
@@ -24,7 +24,7 @@ public struct Exit: Decodable {
     public let destination: Int
 }
 
-public struct ExtraDescription: Decodable {
+public struct ExtraDescription: Codable {
     public let keywords: [String]
     public let description: String
 }
