@@ -63,204 +63,47 @@ struct WorldUnkeyedDecodingContainer: UnkeyedDecodingContainer {
         fatalError("\(#function)")
     }
 
-    mutating func decode(_ type: Bool.Type) throws -> Bool {
-        fatalError("\(#function)")
-    }
-
-    mutating func decode(_ type: String.Type) throws -> String {
-        fatalError("\(#function)")
-    }
-
-    mutating func decode(_ type: Double.Type) throws -> Double {
-        fatalError("\(#function)")
-    }
-
-    mutating func decode(_ type: Float.Type) throws -> Float {
-        fatalError("\(#function)")
-    }
-
-    mutating func decode(_ type: Int.Type) throws -> Int {
-        fatalError("\(#function)")
-    }
-
-    mutating func decode(_ type: Int8.Type) throws -> Int8 {
-        fatalError("\(#function)")
-    }
-
-    mutating func decode(_ type: Int16.Type) throws -> Int16 {
-        fatalError("\(#function)")
-    }
-
-    mutating func decode(_ type: Int32.Type) throws -> Int32 {
-        fatalError("\(#function)")
-    }
-
-    mutating func decode(_ type: Int64.Type) throws -> Int64 {
-        fatalError("\(#function)")
-    }
-
-    mutating func decode(_ type: UInt.Type) throws -> UInt {
-        fatalError("\(#function)")
-    }
-
-    mutating func decode(_ type: UInt8.Type) throws -> UInt8 {
-        fatalError("\(#function)")
-    }
-
-    mutating func decode(_ type: UInt16.Type) throws -> UInt16 {
-        fatalError("\(#function)")
-    }
-
-    mutating func decode(_ type: UInt32.Type) throws -> UInt32 {
-        fatalError("\(#function)")
-    }
-
-    mutating func decode(_ type: UInt64.Type) throws -> UInt64 {
-        fatalError("\(#function)")
-    }
-
-    mutating func decode<T>(_ type: T.Type) throws -> T where T: Decodable {
+    private func skipHash() throws {
         guard scanner.scanCharacter() == "#" else {
-            throw WorldDecodingError.unexpectedCharacter("Expected '#' to represent virtual number but got 'nil' at room index \(currentIndex)")
+            throw WorldDecodingError.unexpectedCharacter("\(currentIndex): Expected '#' to represent virtual number but got 'nil' at room index \(currentIndex)")
         }
+    }
 
-        guard let virtualNumber = scanner.scanInt() else {
-            throw WorldDecodingError.unexpectedCharacter("Expected virtual number at \(scanner.currentIndex)")
+    private func consumeInt(named name: String = "", vnum: Int = -1) throws -> Int {
+        guard let value = scanner.scanInt() else {
+            throw WorldDecodingError.unexpectedCharacter("\(currentIndex): Room \(vnum), expected int '\(name)' at \(scanner.currentIndex)")
         }
         scanner.consumeWhitespace()
+        return value
+    }
 
-        guard let name = scanner.scanUpToCharacter("~") else {
-            throw WorldDecodingError.unexpectedCharacter("Room \(virtualNumber) expected title but no termination character (~) found.")
+    private func consumeString(named name: String = "", vnum: Int = -1, scanning characterSet: CharacterSet = .whitespacesAndNewlines) throws -> String {
+        guard let value = scanner.scanUpToCharacter("~") else {
+            throw WorldDecodingError.unexpectedCharacter("\(currentIndex): Room \(vnum) expected string '\(name)' but no termination character (~) found.")
+        }
+        _ = scanner.scanCharacter()
+        _ = scanner.scanCharacters(from: characterSet)
+        return value
+    }
+
+    private func consumeStringList(named name: String = "", vnum: Int = -1) throws -> [String] {
+        let list: [String]
+        if scanner.peekCharacter == "~" {
+            list = []
+        } else {
+            scanner.consumeWhitespace()
+            guard let rawList = scanner.scanUpToCharacter("~") else {
+                throw WorldDecodingError.unexpectedCharacter("\(currentIndex): Room \(vnum) expected list '\(name)' but no termination character (~) found.")
+            }
+            list = rawList.split(separator: " ").map(String.init)
         }
         _ = scanner.scanCharacter() // ~
-        _ = scanner.scanCharacters(from: .newlines)
-
-        guard let description = scanner.scanUpToCharacter("~") else {
-            throw WorldDecodingError.unexpectedCharacter("Room \(virtualNumber) expected description but no termination character (~) found.")
-        }
-        _ = scanner.scanCharacter() // ~
         _ = scanner.scanCharacters(from: .whitespacesAndNewlines)
+        return list
+    }
 
-        guard let zoneNumber = scanner.scanInt() else {
-            throw WorldDecodingError.unexpectedCharacter("Room \(virtualNumber) expected zoneNumber but did not get an int at \(scanner.currentIndex)")
-        }
-        _ = scanner.scanCharacters(from: .whitespacesAndNewlines)
-
-        guard let zoneFlags = scanner.scanInt() else {
-            throw WorldDecodingError.unexpectedCharacter("Room \(virtualNumber) expected zoneFlags but did not get an Int at \(scanner.currentIndex)")
-        }
-        _ = scanner.scanCharacters(from: .whitespacesAndNewlines)
-
-        guard let sectorType = scanner.scanInt() else {
-            throw WorldDecodingError.unexpectedCharacter("Room \(virtualNumber) expected sectorType but did not get an Int at \(scanner.currentIndex)")
-        }
-        _ = scanner.scanCharacters(from: .whitespacesAndNewlines)
-
-        if scanner.peekCharacter == "S" {
-            _ = scanner.scanCharacter()
-            _ = scanner.scanCharacters(from: .whitespacesAndNewlines)
-
-            if WorldUnkeyedDecodingContainer.isAtEnd(scanner) {
-                isAtEnd = true
-            } else {
-                currentIndex += 1
-            }
-
-            return Room(virtualNumber: virtualNumber, name: name, description: description, zoneNumber: zoneNumber, zoneFlags: zoneFlags, sectorType: sectorType, exits: [], extraDescriptions: []) as! T
-        }
-
-        var exits = [Exit]()
-        while scanner.peekCharacter == "D" {
-            _ = scanner.scanCharacter()
-            guard let exitNumber = scanner.scanInt() else {
-                throw WorldDecodingError.unexpectedCharacter("Room \(virtualNumber) expected sectorType but did not get an Int at \(scanner.currentIndex)")
-            }
-            _ = scanner.scanCharacters(from: .whitespacesAndNewlines)
-
-            guard let generalDescription = scanner.scanUpToCharacter("~") else {
-                throw WorldDecodingError.unexpectedCharacter("Room \(virtualNumber) expected generalDescription for exit \(exitNumber) but no termination character (~) found.")
-            }
-            _ = scanner.scanCharacter() // ~
-            _ = scanner.scanCharacters(from: .whitespacesAndNewlines)
-
-            let keywords: [String]
-            if scanner.peekCharacter == "~" {
-                keywords = []
-            } else {
-                scanner.consumeWhitespace()
-                guard let keywordList = scanner.scanUpToCharacter("~") else {
-                    throw WorldDecodingError.unexpectedCharacter("Room \(virtualNumber) expected keyword list for exit \(exitNumber) but no termination character (~) found.")
-                }
-
-                keywords = keywordList.split(separator: " ").map(String.init)
-            }
-            _ = scanner.scanCharacter() // ~
-            _ = scanner.scanCharacters(from: .whitespacesAndNewlines)
-
-            guard let flag = scanner.scanInt() else {
-                throw WorldDecodingError.unexpectedCharacter("Room \(virtualNumber) expected zoneNumber but did not get an int at \(scanner.currentIndex)")
-            }
-            _ = scanner.scanCharacters(from: .whitespacesAndNewlines)
-
-            guard let key = scanner.scanInt() else {
-                throw WorldDecodingError.unexpectedCharacter("Room \(virtualNumber) expected zoneFlags but did not get an Int at \(scanner.currentIndex)")
-            }
-            _ = scanner.scanCharacters(from: .whitespacesAndNewlines)
-
-            guard let destination = scanner.scanInt() else {
-                throw WorldDecodingError.unexpectedCharacter("Room \(virtualNumber) expected sectorType but did not get an Int at \(scanner.currentIndex)")
-            }
-            _ = scanner.scanCharacters(from: .whitespacesAndNewlines)
-
-            exits.append(Exit.init(exitNumber: exitNumber, generalDescription: generalDescription, keywords: keywords, flag: flag, key: key, destination: destination))
-        }
-
-        if scanner.peekCharacter == "S" {
-            _ = scanner.scanCharacter()
-            _ = scanner.scanCharacters(from: .whitespacesAndNewlines)
-
-            if WorldUnkeyedDecodingContainer.isAtEnd(scanner) {
-                isAtEnd = true
-            } else {
-                currentIndex += 1
-            }
-
-            return Room(virtualNumber: virtualNumber, name: name, description: description, zoneNumber: zoneNumber, zoneFlags: zoneFlags, sectorType: sectorType, exits: exits, extraDescriptions: []) as! T
-        }
-
-        guard scanner.peekCharacter == "E" else {
-            throw WorldDecodingError.unexpectedCharacter("Expected `E` but got `\(scanner.peekCharacter)` at \(currentIndex) (VNUM #\(virtualNumber))")
-        }
-
-        var extraDescriptions = [ExtraDescription]()
-        while scanner.peekCharacter == "E" {
-            _ = scanner.scanCharacter()
-
-            let keywords: [String]
-            if scanner.peekCharacter == "~" {
-                keywords = []
-            } else {
-                scanner.consumeWhitespace()
-                guard let keywordList = scanner.scanUpToCharacter("~") else {
-                    throw WorldDecodingError.unexpectedCharacter("Room \(virtualNumber) expected keyword list for extra description #\(extraDescriptions.count) but no termination character (~) found.")
-                }
-                keywords = keywordList.split(separator: " ").map(String.init)
-            }
-            _ = scanner.scanCharacter() // ~
-            _ = scanner.scanCharacters(from: .whitespacesAndNewlines)
-
-            guard let description = scanner.scanUpToCharacter("~") else {
-                throw WorldDecodingError.unexpectedCharacter("Room \(virtualNumber) expected description for extra description #\(extraDescriptions.count) but no termination character (~) found.")
-            }
-            _ = scanner.scanCharacter() // ~
-            _ = scanner.scanCharacters(from: .whitespacesAndNewlines)
-
-            extraDescriptions.append(ExtraDescription(keywords: keywords, description: description))
-        }
-
-        guard scanner.peekCharacter == "S" else {
-            throw WorldDecodingError.unexpectedCharacter("Expected `S` but got `\(scanner.peekCharacter)` at \(currentIndex) (VNUM: #\(virtualNumber)")
-        }
+    private mutating func roomIfDone(vnum: Int, name: String, description: String, zoneNumber: Int, zoneFlags: Int, sectorType: Int, exits: [Exit] = [], extraDescriptions: [ExtraDescription] = []) -> Room? {
+        guard scanner.peekCharacter == "S" else { return nil }
 
         _ = scanner.scanCharacter()
         _ = scanner.scanCharacters(from: .whitespacesAndNewlines)
@@ -271,9 +114,61 @@ struct WorldUnkeyedDecodingContainer: UnkeyedDecodingContainer {
             currentIndex += 1
         }
 
-        return Room(virtualNumber: virtualNumber, name: name, description: description, zoneNumber: zoneNumber, zoneFlags: zoneFlags, sectorType: sectorType, exits: exits, extraDescriptions: extraDescriptions) as! T
+        return Room(virtualNumber: vnum, name: name, description: description, zoneNumber: zoneNumber, zoneFlags: zoneFlags, sectorType: sectorType, exits: exits, extraDescriptions: extraDescriptions)
     }
 
+    private mutating func consumeExits(vnum: Int) throws -> [Exit] {
+        var exits = [Exit]()
+        while scanner.peekCharacter == "D" {
+            _ = scanner.scanCharacter()
+            let exitNumber = try consumeInt(named: "exitNumber in exit: \(exits.count)", vnum: vnum)
+            let generalDescription = try consumeString(named: "generalDescription in exit: \(exits.count)", vnum: vnum)
+            let keywords = try consumeStringList(named: "keywords for exit: \(exits.count)", vnum: vnum)
+            let flag = try consumeInt(named: "flag in exit: \(exits.count)", vnum: vnum)
+            let key = try consumeInt(named: "key in exit: \(exits.count)", vnum: vnum)
+            let destination = try consumeInt(named: "destination in exit: \(exits.count)", vnum: vnum)
+            exits.append(Exit.init(exitNumber: exitNumber, generalDescription: generalDescription, keywords: keywords, flag: flag, key: key, destination: destination))
+        }
+        return exits
+    }
+
+    private mutating func consumeExtraDescriptions(vnum: Int) throws -> [ExtraDescription] {
+        guard scanner.peekCharacter == "E" else {
+            throw WorldDecodingError.unexpectedCharacter("\(currentIndex): Expected `E` but got `\(scanner.peekCharacter)` (VNUM #\(vnum))")
+        }
+
+        var extraDescriptions = [ExtraDescription]()
+        while scanner.peekCharacter == "E" {
+            _ = scanner.scanCharacter()
+            let keywords = try consumeStringList(named: "keywords for extra description: \(extraDescriptions.count)", vnum: vnum)
+            let description = try consumeString(named: "description for extra description: \(extraDescriptions.count)", vnum: vnum)
+            extraDescriptions.append(ExtraDescription(keywords: keywords, description: description))
+        }
+        return extraDescriptions
+    }
+
+    mutating func decode<T>(_ type: T.Type) throws -> T where T: Decodable {
+        try skipHash()
+        let vnum = try consumeInt(named: "VNUM")
+        let name = try consumeString(named: "name", vnum: vnum, scanning: .newlines)
+        let description = try consumeString(named: "description", vnum: vnum, scanning: .whitespacesAndNewlines)
+        let zoneNumber = try consumeInt(named: "zoneNumber")
+        let zoneFlags = try consumeInt(named: "zoneFlags", vnum: vnum)
+        let sectorType = try consumeInt(named: "sectorType", vnum: vnum)
+
+        if let room = roomIfDone(vnum: vnum, name: name, description: description, zoneNumber: zoneNumber, zoneFlags: zoneFlags, sectorType: sectorType) {
+            return room as! T
+        }
+
+        let exits = try consumeExits(vnum: vnum)
+        if let room = roomIfDone(vnum: vnum, name: name, description: description, zoneNumber: zoneNumber, zoneFlags: zoneFlags, sectorType: sectorType, exits: exits) {
+            return room as! T
+        }
+
+        let extraDescriptions = try consumeExtraDescriptions(vnum: vnum)
+
+        return roomIfDone(vnum: vnum, name: name, description: description, zoneNumber: zoneNumber, zoneFlags: zoneFlags, sectorType: sectorType, exits: exits, extraDescriptions: extraDescriptions) as! T
+    }
 
     private static func isAtEnd(_ scanner: Scanner) -> Bool {
         let endChecker = Scanner(string: scanner.string)
