@@ -1,6 +1,6 @@
 import Foundation
 
-// NOTE: some of the t inyworld.wld rooms do not adhere to the
+// NOTE: some of the tinyworld.wld rooms do not adhere to the
 // specification as written:
 // #7405 - no E marking its second extra description.
 // #7432 - E missing for its extra description
