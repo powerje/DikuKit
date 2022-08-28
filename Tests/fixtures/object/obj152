@@ -1,0 +1,448 @@
+#15200
+tv television~
+A television~
+{RED,red}{CYAN}An abandoned television lies here, flickering wildly{RED,red}~
+~
+27 0 0 0
+15202 0 0 0
+100 1 1
+#15201
+beer Duff~
+{RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}~
+{RED,BOLD}You can't get enough of that wonderful {RED,red}{YELLOW}Duff.{RED,red}~
+~
+10 8192 0 1
+30 28 28 16
+2 1000 1
+E
+duff bear~
+.
+Duff Beer for You
+Duff Beer for Me
+I'll Have a Duff
+And You Will Too.
+~
+E
+beer Duff~
+
+Duff Beer for Me
+Duff Beer for You
+I'll Have a Duff
+And You will too
+
+~
+#15202
+key classroom hoover~
+{CYAN,BOLD}The key to Mrs. Hoover's Room{RED,red}~
+{RED,red}{CYAN}A key with the name "Hoover" written on it lies here.{RED,red}~
+~
+18 65536 0 1
+50 0 0 1
+1 1 1
+E
+key classroom hoover~
+
+This key seems to be for Mrs. Hoover's classroom.
+~
+#15203
+key principal~
+{RED,red}{RED}The {RED,red}Principal's {BLUE}key{RED,red}~
+{RED,red}{RED}A {YELLOW}key {RED}to the {CYAN}Principal's {RED}office lies here.{RED,red}~
+~
+18 65536 0 1
+50 0 0 0
+1 1 1
+E
+key principal~
+
+You can barely make out the word written on a piece of tape
+on the key: "Skinner"
+~
+#15204
+key bathroom~
+{RED,red}{YELLOW}The Bathroom key{RED,red}~
+{RED,red}A key to the {YELLOW}bathroom {RED,red}lies on the ground here.{RED,red}~
+~
+18 65536 0 1
+50 0 0 0
+1 1 1
+E
+key bathroom~
+
+It's a key with a label that says "Boys Bathroom" on it.
+~
+#15205
+key playground~
+{GREEN,BOLD}The Playground key{RED,red}~
+{RED,red}A {GREEN,BOLD}key {RED,red}to something or other lies here...{RED,red}~
+~
+18 65536 0 1
+50 50 50 50
+1 1 1
+E
+key playground~
+
+It appears to be a key to the playground.
+~
+#15206
+key kitchen~
+{RED,red}The {RED,BOLD}Kitchen {RED,red}key{RED,red}~
+{RED,red}{GREEN}The {GREEN,BOLD}Kitchen {RED,red}{GREEN}Key lies here.{RED,red}~
+~
+18 65536 0 1
+60 50 50 50
+1 1 1
+E
+key kitchen~
+
+This key seems to be a key for one of those
+sliding kitchen doors.
+~
+#15207
+key bedroom~
+{GREEN,green}{GREEN}The {GREEN,BOLD}Bedroom {RED,red}{GREEN}key{RED,red}~
+{RED,red}A {GREEN,green}{GREEN}key {RED,red}to a {GREEN}Bedroom {RED,red}lies here.{RED,red}~
+~
+18 65536 0 1
+30 30 30 30
+1 1 1
+E
+key bedroom~
+
+There is a tag with crayon scrawled over it.
+You can make out a capital "H" and a capital "M".
+~
+#15208
+key nuclear powerplant plant~
+{RED,red}{RED}The {RED,BOLD}Nuclear Plant {RED,red}key{RED,red}~
+{RED,red}The {RED}Key {RED,red}to the Springfield {RED,BOLD}Nuclear {RED,red}Plant lies here...~
+~
+18 65536 0 1
+100 0 0 0
+1 1 1
+E
+key nuclear powerplant plant~
+
+Hey look, it has the word 'Nuclear Plant maze'
+is written on it! Maybe it'll open the key to the maze
+~
+#15209
+key burns~
+{YELLOW,BOLD}Mr. Burn's Key{RED,red}~
+{RED,red}{YELLOW}Hey look! It's {RED,BOLD}Mr. Burn's {RED,red}{YELLOW}key!!{RED,red}~
+~
+18 65536 0 1
+120 100 100 100
+1 1 1
+E
+key burns~
+
+A key that is engraved with the words, "C. M. Burns"
+~
+#15210
+key sector 7g~
+{RED,red}{WHITE}The {RED,BOLD}Key {RED,red}to {RED,BOLD}Sector {RED,red}{RED}7G{RED,red}~
+{RED,red}{RED}An ominous key with the characters, "7G" has been left here...{RED,red}~
+~
+18 65536 0 1
+15 0 0 1
+1 1 1
+E
+key sector 7g~
+
+This key is dripping wet with toxins and radioactive materials.
+You can make out the characters, "7G" scrawled upon it.
+~
+#15211
+key strange~
+{GREEN,BOLD}A {BLUE}Strange {GREEN}Lookin' {RED}key{RED,red}~
+{BLUE,BOLD}A Strange looking {MAGENTA}Key {BLUE}lies here...{RED,red}~
+~
+18 65536 0 1
+300 0 0 1
+1 1 1
+E
+key strange~
+
+All you can tell about this key is that it looks
+strange.  You wonder what wonders it might unlock...
+~
+#15212
+key strange~
+{YELLOW,BOLD}Another {BLUE}Strange {YELLOW}Lookin' {RED}key{RED,red}~
+{BLUE,BOLD}A Strange looking {MAGENTA}Key {BLUE}lies here...{RED,red}~
+~
+18 65536 0 1
+300 300 300 300
+1 1 1
+#15213
+key strange~
+{MAGENTA,BOLD}Yet Another {BLUE}Strange {MAGENTA}Lookin' {RED}key{RED,red}~
+{BLUE,BOLD}A Strange looking {MAGENTA}Key {BLUE}lies here...{RED,red}~
+~
+18 65536 0 1
+300 300 300 300
+1 1 1
+#15214
+key strange~
+{CYAN,BOLD}And another Strange Lookin' {RED}key{b}~
+{BLUE,BOLD}A Strange looking {MAGENTA}Key {BLUE}lies here...{RED,red}~
+~
+18 65536 0 1
+300 300 300 300
+1 1 1
+E
+key strange~
+
+Yes! You guessed it! it's another strange looking key!
+However, as you behold it, you sense a feeling of accomplishment...
+Maybe this is the final key... maybe not...
+~
+#15215
+sneakers shoes bart~
+{Y,BOLD}B{B}art's {BLU}Snea{bold}{BLU}kers{blue}~
+{YELLOW,BOLD}Some {RED,BOLD}Dirty {YELLOW}Sneakers lie in the corner.{RED,red}~
+~
+9 2416972289 0 65
+12 1000 0 0
+3 10000 500000
+E
+sneakers shoes bart~
+
+These sneakers look rather small, as though meant for a
+child.  Maybe you can squeeze your foot in...
+~
+A
+18 5
+A
+19 4
+B
+524288
+L
+25
+C
+7000 6
+G
+30
+M
+75
+#15216
+necklace lisa~
+{YELLOW,BOLD}Lisa {RED}Simpson{WHITE}'s {WHITE}Necklace{RED,red}~
+{WHITE,BOLD}A Pearl {YELLOW}Necklace {WHITE}lies on the ground here.{RED,red}~
+~
+9 2148536385 0 5
+11 0 0 0
+3 10000 1000000
+E
+necklace lisa~
+
+This necklace has white beads and looks a bit small,
+but you can probably squeeze it on without asphyxiating
+yourself.
+~
+A
+13 60
+A
+18 5
+B
+32
+L
+25
+C
+7000 1
+G
+80
+#15217
+shield skillet Marge~
+{BLU,BO}Mar{bo}{BLU}ge's {B,BO}Skill{G}et{bo}~
+A {BLU}{BO}Blue Baking Skillet{blu} lies here, covered in crumbs.~
+~
+9 2148536322 0 513
+16 1000 0 0
+10 20000 300000
+E
+shield skillet Marge~
+
+It's a blue baking tray that looks like it has
+been used quite a bit.  It is covered in cookie crumbs! Yum!
+Look's like it will make a decent shield also...
+~
+A
+19 6
+A
+18 6
+B
+128
+L
+25
+C
+7000 10
+G
+50
+#15218
+pacifier maggie~
+{Y,BO}Ma{bo}g{C}gi{C,BO}e's {B}Pac{BLU}ifier{bo}~
+{RED,BOLD}A Small Red {WHITE,white}Pacifier {RED,BOLD}Lies on the ground here.{RED,red}~
+~
+9 2147488771 0 19
+12 7000 0 0
+1 25000 500000
+E
+pacifier maggie~
+
+You see a small red pacifier that is covered in drool.
+What will your friends think if you use it?!?!?
+~
+A
+18 7
+A
+1 1
+B
+268435456
+L
+10
+C
+7000 1
+G
+50
+#15219
+rod uranium~
+{W,BO}A {B}Rod{W} of {G}Ura{bo}{G}nium{W} 235{bo}~
+{b}A {GREEN,BOLD}Glowing {b}{G}Uranium {b}control rod lies here, straight from the {YELLOW,BOLD}nuclear {b}reactor~
+~
+5 2147487745 0 24577
+2 9 7 6
+10 1000 1234567
+E
+rod uranium~
+
+Ahh... You can feel your celluar cohesion dissipating
+under the rod's neutron radiation.  Feels nice.
+~
+E
+rod uranium~
+Ahh... You can feel your celluar cohesion dissipating
+under the rod's neutron radiation  Feels nice.
+~
+E
+rod uranium~
+Ahh... You can feel your celluar cohesion dissipating
+under the rod's neutron radiation.  Feels nice.
+~
+A
+18 5
+A
+17 -10
+L
+5
+C
+6984 8
+G
+99
+#15220
+tuxedo rotting~
+{RED,red}A {YELLOW}Rotting {RED,red}Tuxedo~
+{RED,red}{YELLOW}The stench of decay hangs around a tuxedo lying here.{RED,red}~
+~
+9 2148536320 0 9
+16 0 0 0
+3 40000 10000
+E
+tuxedo rotting~
+
+It smells rather bad, but it looks like it's in the advanced
+stages of decay.  It's in shreds, and its pretty small.
+~
+A
+18 5
+A
+13 75
+B
+128
+L
+15
+C
+1 10
+G
+90
+M
+70
+#15221
+khaki pair fresh freshly iron ironed khakis~
+{B,BO}A freshly {W}ironed{B} pair of {bo}khakis~
+{BL}{BOL}You see a large pair of khakis freshly ironed...{bl}~
+~
+9 2148536321 0 33
+12 0 0 0
+2 34464 10000
+E
+khaki pair fresh freshly iron ironed khakis~
+{B,BO} This seems like a freshly ironed pair of khaki's! Excellet, just what you needed
+to make you look like a top of the line business man...
+BOY ARE YOU GLAD YOU FOUND THESE!!!
+{bo}
+~
+E
+khaki pair fresh freshly iron ironed khakis~
+They look like an ordinary pair of pants but..
+~
+A
+18 4
+A
+19 4
+B
+268435456
+L
+45
+C
+7000 3
+#15222
+testeq~
+Testeq~
+Testarmor~
+~
+9 0 0 1039
+0 0 0 0
+1 1 1
+A
+17 -15
+A
+13 100
+B
+67108864
+C
+7000 1
+#15223
+donut flaming~
+{Y}Homer's{y}{b} {R}F{r}{b}{R}l{r}{R}a{r}{b}{R}m{r}{R}i{r}{b}{R}n{r}{R}g{r}{b} {Y}Donut{y}{b}~
+A {R}Fire{r} scortched pastry lies here stuck to the floor..~
+~
+1 2147488801 0 1
+0 0 -1 2
+5 3392 60000
+A
+18 5
+A
+13 100
+L
+15
+G
+80
+#15224
+Cheezwiz infindibulator~
+{BLACK,BOLD}Ch{RED,red}ee{WHITE,BOLD}zw{RED,red}iz{BLACK,BOLD}'s {RED,red}In{WHITE,BOLD}fi{RED,red}nd{BLACK,BOLD}ib{RED,red}ul{WHITE,BOLD}at{RED,red}or~
+Hey Look! It's Cheezwiz's Infindibulator!~
+~
+5 25243907 0 4161535
+20 20 20 5
+0 34464 200
+A
+19 100
+A
+18 100
+C
+7000 0
+M
+51
+$~

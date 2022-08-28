@@ -1,0 +1,732 @@
+#36900
+Book~
+{B}The Metal Book{b}~
+{B}A large metal book rests open here{b}~
+~
+27 0 0 0
+36938 0 0 0
+24464 1 1
+E
+Book~
+{B}
+This large metal book seems to be the key to moving on in your adventures.  Now the
+quetions is how do you use it?
+{b}
+~
+#36901
+Mask Jester~
+{Y}A Jester's Mask{y}~
+{BOLD}{YELLOW}A bright yellow mask lies here{y}{bold}~
+~
+9 2147487744 0 4194321
+15 0 0 0
+20 10000 1000
+E
+Mask Jester~
+{Y}
+This large metal mask might not strike fear into the hearts of your opponents but it
+might just get em laughing hard enough for you to finish them off.  Two belled horns
+branch off the mask while the face of the mask has an eternal grin.
+{y)
+~
+A
+19 4
+A
+18 4
+B
+40
+L
+100
+C
+3500 1
+G
+60
+M
+70
+#36902
+Wand Tawno's~
+{Y}Tawno's Wand{y}~
+{Y}A wand lies here humming slightly{y}~
+~
+3 1052672 4 16385
+50 5 5 120
+20 1000 100
+E
+Wand Tawno's~
+{Y}
+This is the wand of the legendary artificier tawnos apprentice of Urza.  You can
+feel it's power thrumming in your hands as you lift it.  {y}
+~
+A
+18 5
+A
+12 75
+B
+1073741960
+L
+100
+G
+60
+M
+70
+#36903
+Stone Meek~
+{Y}Meekstone{y}~
+{Y}A brilliant stone lies here forgotten{y}~
+~
+18 65536 0 1
+100 0 0 0
+1 1 1
+E
+{Y}Meekstone{y}~
+{Y}
+This small stone seems to hold some powerful magics.  Perhaps it has a purpose here
+{y}
+~
+#36904
+Stone Might~
+{Y}MightStone{y}~
+{Y}A brilliant stone lies here forgotten{y}~
+~
+18 65536 0 1
+100 100 100 100
+1 1 1
+#36905
+{B}Jet{b}~
+{Y}Mox{y} {B}Jet{b}~
+{Y}Here rests a beautiful Mox{y} {B}Jet{b}~
+~
+27 0 0 0
+36951 0 0 0
+50000 1 1
+E
+{B}Jet{b}~
+{B}This Mox seems like it could take you to another place{b}
+~
+#36906
+{R}Ruby{r}~
+{Y}Mox{y} {R}Ruby{r}~
+Here rests a beautiful Mox {R}Ruby{r}~
+~
+27 0 0 0
+37100 36951 36951 36951
+50000 1 1
+E
+{R}Ruby{r}~
+{R}This Mox seems like it could take you to another place{r}
+~
+#36907
+{G}Emerald{g}~
+{Y}Mox{y} {G}Emerald{g}~
+Here rests a beautiful Mox {G}Emerald{g}~
+~
+27 0 0 0
+37150 37100 37100 37100
+50000 1 1
+E
+{G}Emerald{g}~
+{G}This Mox seems like it could take you to another place{g}
+~
+#36908
+{W}Pearl{w}~
+{W}Pearl{w}~
+Here rests a beautiful Mox {W}Pearl{w}~
+~
+27 0 0 0
+37250 37151 37151 37151
+50000 1 1
+E
+{W}Pearl{w}~
+{W}This Mox seems like it could take you to another place{w}
+~
+#36909
+{C}Sapphire{c}~
+{Y}Mox{y} {BLUE}Sapphire{blue}~
+Here rests a beautiful Mox {BLUE}Sapphire{blue}~
+~
+27 0 0 0
+37200 37200 37200 37200
+50000 1 1
+E
+{C}Sapphire{c}~
+{BLUE}This Mox seems like it could take you to another place{blue}
+~
+#36910
+{B}Lotus{b}~
+{B}Black Lotus{b}~
+{B}A Black Lotus blossom lies here.{b}~
+~
+27 0 0 0
+36950 0 0 0
+50000 1 1
+E
+{B}Lotus{b}~
+{B}
+This beautiful flower is rumoured to have great magical power. 
+{b}
+~
+#36911
+{B}Skeleton Key{b}~
+{B}Skeleton Key{b}~
+{B}A thin black key rests here.{b}~
+~
+18 0 0 1
+0 0 0 1
+1 1 1
+E
+{B}Skeleton Key{b}~
+{B}
+This small black key looks like it could fit into quite a few doors.
+{b}
+~
+#36912
+glyph doom tattoo~
+{B}Glyph of Doom{b}~
+{B} A small glyph tattoo lies rests here.{b}~
+~
+9 6656 0 524289
+10 0 0 0
+5 1000 1
+E
+glyph doom tattoo~
+{B}
+"He knows he has a short span of life, that the day will come when he must pass
+through the wall of oblivion..."
+-William Faulkner
+{b}
+~
+A
+2 2
+A
+18 3
+B
+268435456
+L
+100
+C
+7000 1
+G
+50
+M
+55
+#36913
+Sash~
+{R}Red{r} {B}S{b}{R}a{r}{B}s{b}{R}h{r}~
+{B}There is a pile of soft red fabric here.{b}~
+~
+9 6656 0 2049
+10 0 0 0
+8 7000 1
+E
+Sash~
+{B}
+Tied around your waist, this red satin sash looks great on you.
+{b}
+~
+A
+19 6
+A
+18 6
+B
+524288
+L
+500
+C
+3500 2
+G
+80
+M
+60
+#36914
+Ring Zombie Master~
+{B}Ring of the Zombie Master{b}~
+{B}A large dark ring glows ominously.{b}~
+~
+9 1055232 0 3
+15 0 0 0
+5 5000 1
+E
+Ring Zombie Master~
+{B}
+This black ring seems to be made of solid black obsidian, sturdy and heavy you can 
+feel it's power pulse through you.
+{b}
+~
+A
+18 5
+A
+19 5
+B
+544
+L
+500
+C
+4200 2
+G
+75
+#36915
+Throne~
+{B}Throne Of Bone{b}~
+{B}A gleaming white throne of Bone stands here.{b}~
+~
+27 0 0 0
+36978 0 0 0
+50000 1 1
+E
+Throne~
+{B}
+This throne seems to be holding the secrets of many rulers.
+{b}
+~
+#36916
+Glyph Destruction Badge~
+{R}Glyph Of Destruction{r}~
+{R}A glowing hot badge smolders here.{r}~
+~
+9 67112960 64 1048577
+10 0 0 0
+5 7999 50
+E
+Glyph Destruction Badge~
+{R}   This badge has been worn by countless Warlords through the history of the 
+   Keldons.  Wear it with honor and pride.{r}
+~
+A
+1 3
+A
+19 4
+B
+32768
+L
+100
+C
+7000 1
+G
+25
+M
+80
+#36917
+Glyph Reincarnation Earring~
+{G}Glyph of Reincarnation{g}~
+{G}A mossy green earring blends into the nearby grass.{g}~
+~
+9 4096 0 131073
+8 0 0 0
+5 5000 50
+E
+Glyph Reincarnation Earring~
+{G}   This earring symbolizes rank among the druid orders of the forest.  
+   The wearer of this is above reproach by lower level druids and commands
+   respect from all around him.  {g}
+~
+A
+12 75
+A
+3 3
+B
+128
+L
+100
+C
+7000 2
+G
+50
+M
+70
+#36918
+Glyph Life Brand~
+{BOLD}{W}Glyph of Life{w}{bold}~
+{W}A brightly glowing brand floats in the air before you.{w}~
+~
+9 7168 0 8388609
+10 0 0 0
+2 23456 1
+E
+Glyph Life Brand~
+{W}   This symbol is said to have been bestowed by the mighty Serra herself.
+   The meaning is long since forgotten to most mortals, but to the righteous
+   the meaning is quite powerful.{w}
+~
+A
+2 2
+A
+19 3
+B
+603988036
+L
+100
+C
+3500 1
+G
+80
+M
+22
+#36919
+Glyph Delusion Rune~
+{BLUE}Glyph of Delusion{blue}~
+{BLUE}A rune seemingly made up of water itself lies here.{blue}~
+~
+9 4096 0 262145
+10 0 0 0
+10 34464 1
+A
+12 50
+A
+18 2
+B
+2147483648
+L
+100
+C
+7000 1
+G
+60
+M
+60
+#36920
+Light Holy~
+{BOLD}{W}Holy Light{w}{bold}~
+{BOLD}{W}A small ball of light lies here emitting the light of Heaven.{w}{bold}~
+~
+1 7168 8 16777217
+-1 -1 -1 5
+20 41248 1
+E
+Light Holy~
+{BOLD}{W}  You hold in your hand the very fire of heaven, passed down from the 
+angels above to help guide you on you mortal adventures.{w}{bold}
+~
+A
+19 5
+A
+18 5
+B
+537133056
+L
+100
+G
+70
+M
+60
+#36921
+Charm Chaos~
+{BOLD}{R}C{r}{bold}{R}h{r}{BOLD}{R}a{r}{bold}{R}o{r}{BOLD}{R}s{r}{bold} {R}C{r}{BOLD}{R}h{r}{bold}{R}a{r}{BOLD}{R}r{r}{bold}{R}m{r}~
+{R}A glimmering red charm lays unused on the floor here.{r}~
+~
+9 2147487744 0 16389
+10 4200 0 0
+1 57816 1
+E
+Charm Chaos~
+{R} This small charm is said to have many magical powers.  What they are you don't
+know, but it might!{r}
+~
+A
+19 4
+A
+18 4
+B
+335544320
+L
+50
+C
+4200 1
+G
+50
+M
+85
+#36922
+Justice Hand~
+{BOLD}{W}Hand of Justice{w}{bold}~
+{BOLD}{W}A ghostly severed hand twitches here.{w}{bold}~
+~
+9 2147490816 0 129
+11 0 0 0
+20 29104 1
+E
+Justice Hand~
+{BOLD}{W}   This hand once belonged to one of the most notorious avatars in Dominaria.
+   Long after his passing, it's still able to inspire awe by it's very sight.{w}{bold}
+~
+A
+19 5
+A
+18 5
+B
+536879236
+L
+100
+C
+5600 2
+G
+75
+M
+15
+#36923
+Scale Shivan~
+{R}Scale of the Shivan Dragon{r}~
+{R}A powerful looking red dragon scale glows here.{r}~
+~
+9 2147487744 0 257
+10 0 0 0
+15 16960 1
+E
+Scale Shivan~
+{R}  This scale was found high in the mountains and shaped into the armplate you
+  see today.  It took the work of many mages and master craftsmen to forge this
+  armor.{r}
+~
+A
+17 -7
+A
+19 5
+B
+285212672
+L
+75
+C
+4900 1
+G
+80
+M
+85
+#36924
+Thorns armor~
+{BO}{G}A{bo,G}r{BO}m{bo,G}o{g}{BOLD}{G}r{g}{bold} {G}o{g}{BOLD}{G}f{g}{bold} {G}T{g}{BOLD}{G}h{g}{bold}{G}o{g}{BOLD}{G}r{g}{bold}{G}n{g}{BOLD}{G}s{g}~
+{G}A pile of mulch sits here decomposing.{g}~
+~
+9 2147487744 0 9
+20 0 0 0
+8 50712 1
+E
+Thorns armor~
+{G}  This barbed armor is grown from the forest itself to protect its champions.
+  Spikes and flowers alike grow and twist throughout this living piece.
+  Remember to water daily and give it plenty of sunlight and this armor should
+  last forever.{g}
+~
+A
+19 5
+A
+18 5
+B
+524320
+L
+100
+C
+7000 2
+G
+50
+M
+70
+#36925
+Shield Briar~
+{G}Briar Shield{g}~
+{G}A discarded mass of brambles lies here.{g}~
+~
+9 2147487744 0 513
+15 0 0 0
+1 1 1
+E
+Shield Briar~
+{G} "In all it's forms, the forest is the elves best protector." {g}
+~
+A
+19 6
+A
+18 6
+B
+33554432
+L
+50
+C
+7000 1
+G
+60
+M
+51
+#36926
+Veil Mystic~
+{BLUE}M{blue}{C}y{c}{BLUE}s{blue}{C}t{c}{BLUE}i{blue}{C}c{c} {BLUE}V{blue}{C}e{c}{BLUE}i{blue}{C}l{c}~
+{B}A delicate veil made of sea foam and determination rests here.{b}~
+~
+9 2147487744 12 17
+15 0 0 0
+5 3392 1
+E
+Veil Mystic~
+
+{BLUE}  "Magic is my thread, my will the needle.
+   I weave over you as if you never were."
+     -Poetics of Hanan {blue}
+~
+A
+18 6
+A
+12 75
+B
+1073741856
+L
+100
+C
+7000 2
+G
+60
+M
+55
+#36927
+Cloak Spectral~
+{BLUE}Spectral Cloak{blue}~
+{BLUE}A heap of shimmering blue silk lies here unused.{blue}~
+~
+9 2147487744 0 1025
+16 0 0 0
+10 50712 1
+E
+Cloak Spectral~
+{BLUE}  This cloak has been prized by wizards for many years due to its 
+  effectiveness in wizards battles.  Many a wizard has been saved just by wearing
+  this seemingly ineffectual armor.{blue}
+~
+A
+19 5
+A
+18 5
+B
+1073742336
+L
+100
+C
+7000 1
+G
+75
+M
+90
+#36928
+Strange Key~
+{R}A Strange Key{r}~
+{R}A large key seemingly made of stone lies here.{r}~
+~
+18 8454144 0 1
+100 0 0 1
+1 1 1
+E
+Strange Key~
+{R} This is a very large key but looking around you can't quite figure out where
+  it goes. Maybe with a little luck you'll figure it out.{r}
+~
+#36929
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#36930
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#36931
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#36932
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#36933
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#36934
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#36935
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#36936
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#36937
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#36938
+Fountain~
+{M}A heart shaped fountain.{m}~
+{M}A Prismatic{m} {BOLD}{R}R{r}{bold}{BOLD}{Y}a{y}{bold}{BOLD}{G}i{g}{bold}{BOLD}{BLUE}n{blue}{bold}{BOLD}{C}b{c}{bold}{M}{BOLD}o{bold}{m}{BOLD}{W}w{w}{bold} {M}{BOLD}plays lightly across the surface of this heart shaped pool.{bold}{m}~
+~
+17 0 0 0
+10000 10000 26 0
+49994 1 1
+E
+Fountain~
+      {W}This large fountain was created to represent Ray's 
+      love and devotion to Tina.  Filled with pure sweet water
+      it represents Ray and Tina's pure love for one another.
+               May they both never run dry.
+{w}
+~
+#36939
+Engagement Ring~
+{W}Quinn and Neysa's Engagement Ring{w}~
+{BOLD}{R}A beautiful diamond ring glints softly in the sunlight.{r}{bold}~
+~
+9 3 1024 3
+100 0 0 0
+1 1 1
+E
+Engagement Ring~
+This diamond ring represents Quinn's intent to marry Neysa and Ray's intent to marry
+Tina as well.  May it bring both couples the love luck and happiness they each 
+deserve.
+~
+A
+19 100
+A
+18 100
+B
+1997807802
+C
+7000 1
+G
+101
+M
+105
+$~

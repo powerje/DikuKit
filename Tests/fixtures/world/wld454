@@ -1,0 +1,2908 @@
+#45400
+Out on a Limb~
+
+  {G}You are standing on a small cypress limb. From this height you can see
+  the bottom of the marsh more clearly.  Large crocodiles and alligators
+  float in the putrid marsh awaiting their next meal.   The sun is still
+  well hidden by the thick foliage, so it makes your climb more difficult{g}.
+
+~
+454 1025 5
+D4
+~
+~
+0 -1 45401
+D5
+~
+~
+0 -1 45560
+Z0
+C-1
+R0
+S
+#45401
+Out on a Limb~
+
+  {G}You are standing on a small cypress limb. From this height you can see
+  the bottom of the marsh more clearly.  Large crocodiles and alligators
+  float in the putrid marsh awaiting their next meal.   The sun is still
+  well hidden by the thick foliage, so it makes your climb more difficult{g}.
+
+~
+454 1025 5
+D4
+~
+~
+0 -1 45402
+D5
+~
+~
+0 -1 45400
+Z0
+C-1
+R0
+S
+#45402
+Through the Foliage~
+
+  {G}You find yourself at the peek of this great cypress. To the
+  west you notice a small island, with a town at its center.
+  To the north you see a fantastic castle with buildings
+  fashioned from the ancient Greek buildings of myth. To the
+  east you notice a massive castle. It looms far overhead and
+  casts a shadow all about the top of the trees{g}.
+
+~
+454 1281 5
+D1
+~
+~
+0 -1 45403
+D5
+~
+~
+0 -1 45401
+Z0
+C-1
+R0
+S
+#45403
+Before the Tapestry~
+
+  {G}As you walk closer to the castle you notice that it is not a castle after
+  all. It appears to be a huge{g} {BO}{Y}golden{y} {BO}{R}T{W}a{BLU}p{B}e{G}s{Y}t{M}r{R}y{r}. {G}The scenes change before your
+  eyes{g}. {BO}{B}The sheer thought of the creature that created such a wonderful object
+  makes your eyes bulge{b}. {Y}You notice a small path through the leaves that lead
+  towards the tapestry{y}.
+
+~
+454 1025 5
+D1
+~
+~
+0 -1 45404
+D3
+~
+~
+0 -1 45402
+Z0
+C-1
+R0
+S
+#45404
+{G}{BO}T{Y}h{M}e {R}T{W}a{BLUE}p{BLACK}e{G}s{Y}t{M}r{R}y{r}~
+
+  {C}You have entered the world of the {BO}{R}T{W}a{BLU}p{B}e{G}s{Y}t{M}r{R}y{r}, {C}as large golden threads
+  surround you on all sides. You notice there is no wind here, no sun,
+  and no darkness. All around you can hear the roars of great beasts,
+  the constant chattering of humans, and the biblical chants of the
+  Great Gods of {BO}{Y}Northern Crossroads{y}.
+    
+  {BO}{B}You notice that a small sign has been woven into the golden threads{b}.
+
+~
+454 1025 0
+D0
+~
+~
+0 -1 9301
+D2
+~
+~
+0 -1 45404
+D5
+~
+~
+0 -1 45405
+E
+sign~
+
+  {BO}{C}The Tapestry is a Gateway into the world of the unknown. One path leads
+  to the Great Tapis, Master of the Golden Threads. All other exits will
+  take you to all corners of the world. Beware for some exits are not safe.
+  You can tell that you are on the right path by reading the signs along
+  the trail{c}.
+
+~
+Z0
+C-1
+R0
+S
+#45405
+The Icelands~
+
+  {BO}{C}Ice surrounds you on all sides.  The wind here cuts through your
+  skin like a knife.  A small lake, dark as night, stands not more
+  than twenty feet before you. You notice small footprints embedded
+  deep within the brilliant snow{c}.
+
+~
+454 1057 0
+D0
+~
+~
+0 -1 45406
+D1
+~
+~
+0 -1 45499
+D2
+~
+~
+0 -1 45499
+D3
+~
+~
+0 -1 45499
+D4
+~
+~
+0 -1 45404
+D5
+~
+~
+0 -1 45499
+Z0
+C-1
+R0
+S
+#45406
+The Crypt~
+
+  {BO}{B}You are laying on you back with your arms crossed
+  across your chest.  Large, blood red roses lay on
+  all sides of you. The strong smell of cedar floats
+  all around you. You get the sudden sensation that
+  you have been buried alive{b}!
+
+~
+454 1029 0
+D0
+~
+~
+0 -1 45499
+D1
+~
+~
+0 -1 45499
+D2
+~
+~
+0 -1 45499
+D3
+~
+~
+0 -1 45407
+D4
+~
+~
+0 -1 45499
+D5
+~
+~
+0 -1 45499
+Z0
+C-1
+R0
+S
+#45407
+The Grasslands~
+
+  {Y}The air is fresh and warm. The sun slowly crisps
+  your skin and starts to turn it a faint brownish
+  color.  A flock of ducks can be seen flying far
+  overhead, heading to the west.  The bright green
+  grass beneath your feet is soft to the touch{y}.
+
+~
+454 1041 2
+D0
+~
+~
+0 -1 45499
+D1
+~
+~
+0 -1 45499
+D2
+~
+~
+0 -1 45408
+D3
+~
+~
+0 -1 45499
+D4
+~
+~
+0 -1 45499
+D5
+~
+~
+0 -1 45499
+Z0
+C-1
+R0
+S
+#45408
+The Highway~
+
+  {BO}{BLU}A massive highway stretches to the distant north. Futuristic cars
+  zoom by you at unimaginable speeds. A large building stands behind
+  you, casting an ominous shadow across the highway{blu}.
+
+~
+454 1025 1
+D0
+~
+~
+0 -1 45499
+D1
+~
+~
+0 -1 45499
+D2
+~
+~
+0 -1 45499
+D3
+~
+~
+0 -1 45499
+D4
+~
+~
+0 -1 45499
+D5
+~
+~
+0 -1 45409
+Z0
+C-1
+R0
+S
+#45409
+The Dormitory~
+
+  {R}You are standing in the middle of a small room that stands at
+  about twenty feet by twenty feet in diameter. A small bunk-bed
+  rests along the far eastern wall. A small desk, with a computer
+  resting upon it, is flanking the bed. A very small "Fridge" is
+  in one corner, with apparently nothing inside{r}.
+
+~
+454 1160 1
+D0
+~
+~
+0 -1 45499
+D1
+~
+~
+0 -1 45410
+D2
+~
+~
+0 -1 45499
+D3
+~
+~
+0 -1 45499
+D4
+~
+~
+0 -1 45499
+D5
+~
+~
+0 -1 45499
+Z0
+C-1
+R0
+S
+#45410
+The Leather Shop~
+
+  {Y}You have entered a small shop that has pieces of leather strewn about
+  the brick floor. A large table, with large tools atop it, stands at the
+  very center of the room. Hanging upon the west wall is an odd assortment
+  of tools, apparently well used. You get the feeling that this place has
+  been deserted for quite some time{y}.
+
+~
+454 1096 0
+D0
+~
+~
+0 -1 45499
+D1
+~
+~
+0 -1 45499
+D2
+~
+~
+0 -1 45499
+D3
+~
+~
+0 -1 45499
+D4
+~
+~
+0 -1 45411
+D5
+~
+~
+0 -1 45499
+Z0
+C-1
+R0
+S
+#45411
+A Hole in Reality~
+
+  {C}You have wandered into what appears to be a hole in the very fabric of
+  reality. The golden threads have been destroyed, and show a reality that
+  is far different from that you have ever known. A kaleidoscope of colors
+  cascade down from the heavens and fill you with a sense of power and
+  pride. The hole starts to shift, to change. You begin to notice a small
+  figure in the middle of the vortex. She smiles at you and beckons you
+  onward with your journey{c}.
+
+~
+454 525317 5
+D0
+~
+~
+0 -1 45499
+D1
+~
+~
+0 -1 45499
+D2
+~
+~
+0 -1 45499
+D3
+~
+~
+0 -1 45499
+D4
+~
+~
+0 -1 45499
+D5
+~
+~
+0 -1 45412
+Z0
+C-1
+R0
+S
+#45412
+Beneath the Sun~
+
+  {BO}{Y}You are standing before a great ocean that stretches as far as
+  the eye can see. Seagulls fly far overhead. The sun seems to
+  cover the bright blue sky entirely. The warm wind makes it very
+  hot and very stuffy{y}.
+
+~
+454 33808 7
+D0
+~
+~
+0 -1 45499
+D1
+~
+~
+0 -1 45499
+D2
+~
+~
+0 -1 45413
+D3
+~
+~
+0 -1 45499
+D4
+~
+~
+0 -1 45499
+D5
+~
+~
+0 -1 45499
+Z0
+C-1
+R0
+S
+#45413
+The Seat of Law~
+
+  {BO}{C}The great domed ceiling looms far overhead. Row upon row of oak
+  crafted desks line this fantastic hall. A huge portrait of Tapis
+  has been hung upon the far eastern wall - red silk ribbons are
+  adourning it. The sweet fragrance of lilacs fills the room and
+  makes you feel quite at home{c}.
+
+~
+454 17548 1
+D0
+~
+~
+0 -1 45499
+D1
+~
+~
+0 -1 45499
+D2
+~
+~
+0 -1 45499
+D3
+~
+~
+0 -1 45499
+D4
+~
+~
+0 -1 45414
+D5
+~
+~
+0 -1 45499
+Z0
+C-1
+R0
+S
+#45414
+The Small Hill~
+
+  {Y}You stand at the peek of a small hill in the middle of a golden
+  plain. Large wheat stalks wave in the gentle breeze and fill you
+  with an inner peace. {C}The large billowy clouds cast shadows across
+  the plain, which creates a cool breeze{c}.
+
+~
+454 1056 4
+D0
+~
+~
+0 -1 45415
+D1
+~
+~
+0 -1 45499
+D2
+~
+~
+0 -1 45499
+D3
+~
+~
+0 -1 45499
+D4
+~
+~
+0 -1 45499
+D5
+~
+~
+0 -1 45499
+Z0
+C-1
+R0
+S
+#45415
+The Cell~
+
+  {BO}{B}A series of small shadows is cast across your face. You have
+  stumbled into a pitch-black, cold cell that sends shivers up
+  your spine. The faint outline of a small cot rests along the
+  back wall with a ceramic urinal beside it.  A stained mirror
+  hangs over a sink overflowing with water.  The putrid stench
+  of sweat fills you with dread, and the soft crying of another
+  inmate sends chills down your spine{b}.
+
+~
+454 1097 1
+D0
+~
+~
+0 -1 45499
+D1
+~
+~
+0 -1 45499
+D2
+~
+~
+0 -1 45499
+D3
+~
+~
+0 -1 45416
+D4
+~
+~
+0 -1 45499
+D5
+~
+~
+0 -1 45499
+Z0
+C-1
+R0
+S
+#45416
+Before the Light~
+
+  {BO}{B}You cannot move{c}.  {R}Leather straps bound your arms and legs.
+  A large steel mask has been placed over your head,  making
+  it impossible for you to speak.  A large light shines far
+  overhead,  casting dark shadows across the small chamber.
+  The clinking of tools can be heard behind you,  while the
+  constant churning of a grindstone is heard in the distance{r}.
+
+~
+454 1165 1
+D0
+~
+~
+0 -1 45499
+D1
+~
+~
+0 -1 45499
+D2
+~
+~
+0 -1 45499
+D3
+~
+~
+0 -1 45417
+D4
+~
+~
+0 -1 45499
+D5
+~
+~
+0 -1 45499
+X268435590
+Z0
+C-1
+R0
+S
+#45417
+Under the Sea~
+
+  {BO}{BLU}You seem to be standing upon a large bed of coral beneath a
+  great ocean. Large fish swim all about you, causing you to
+  sway with the current. A large seashell, with a great pearl
+  inside, can be seen in the distance. Above, you see a large
+  boat sailing across the open seas{b}.
+
+~
+454 33953 6
+D0
+~
+~
+0 -1 45499
+D1
+~
+~
+0 -1 45499
+D2
+~
+~
+0 -1 45499
+D3
+~
+~
+0 -1 45418
+D4
+~
+~
+0 -1 45499
+D5
+~
+~
+0 -1 45499
+Z0
+C-1
+R0
+S
+#45418
+The Clock Face~
+
+  {BO}{G}You seem to be standing on a massive clock face. Its large dials show
+  the current time in the world of the Northern Crossroads. The constant
+  "Tick-Tock" of the clock is almost deafening, and you feel a headache
+  start to overtake you{g}.
+
+~
+454 17544 1
+D0
+~
+~
+0 -1 45499
+D1
+~
+~
+0 -1 45419
+D2
+~
+~
+0 -1 45499
+D3
+~
+~
+0 -1 45499
+D4
+~
+~
+0 -1 45499
+D5
+~
+~
+0 -1 45499
+X268435456
+Z0
+C-1
+R0
+S
+#45419
+The trail in the Forest~
+
+  {G}You are standing on a huge path that leads down the middle of a small
+  forest. All about you can be heard the scampering of the small forest
+  animals. The thick foliage overhead casts a cool shadow, and makes your
+  journey somewhat peaceful. In the distance you notice a small cottage
+  to one side of the path. A large plume of smoke softly rises from its
+  stone chimney{g}.
+
+~
+454 1153 3
+D0
+~
+~
+0 -1 45499
+D1
+~
+~
+0 -1 45420
+D2
+~
+~
+0 -1 45499
+D3
+~
+~
+0 -1 45499
+D4
+~
+~
+0 -1 45499
+D5
+~
+~
+0 -1 45499
+Z0
+C-1
+R0
+S
+#45420
+The Library~
+
+  {Y}A beautiful engraved cherry desk is pressed against the elaborately decorated
+  south-eastern wall.  The walls are covered in silken curtains and tapestry,
+  while the sturdy bookcases hold the mysteries of the unknown.  In the northern
+  part of the room is a golden pedestal, upon which a glowing book lays.  Images
+  and apparitions appear to swirl around you as you progress closer to the center
+  of the room.  A once ethereal image forms before you into a small, young boy.
+  The boy gives you a nod, moves toward the pedestal, kneels and then disappears{y}...
+
+~
+454 1025 0
+D0
+~
+~
+0 -1 45499
+D1
+~
+~
+0 -1 45499
+D2
+~
+~
+0 -1 45499
+D3
+~
+~
+0 -1 45499
+D4
+~
+~
+0 -1 45421
+D5
+~
+~
+0 -1 45499
+Z0
+C-1
+R0
+S
+#45421
+The Waiting Room of the Gods ~
+
+  {BO}{C}You seem to be seated on a small bench in a very dark room. You can
+  see a faint light emanating from a room to the south, but that is all
+  that you can clearly see. As you stand to get up you suddenly notice
+  that your legs have been shackled to the Onyx bench{c}.
+
+~
+454 1025 0
+D0
+~
+~
+0 -1 45499
+D1
+~
+~
+0 -1 45499
+D2
+~
+~
+0 -1 45499
+D3
+~
+~
+0 -1 45499
+D4
+~
+~
+0 -1 45499
+D5
+~
+~
+0 -1 45422
+Z0
+C-1
+R0
+S
+#45422
+Within the Tube~
+
+  {BO}{R}You are standing in what looks to be a long, white tube. The inside wall
+  of the tube is smooth as silk and soft to the touch. As you look forward
+  down the tube, you notice it stretches on forever. A stream of water runs
+  the length of the tube and seems to be saturating the floor of the tube{r}!
+
+~
+454 1025 0
+D0
+~
+~
+0 -1 45499
+D1
+~
+~
+0 -1 45499
+D2
+~
+~
+0 -1 45499
+D3
+~
+~
+0 -1 45499
+D4
+~
+~
+0 -1 45499
+D5
+~
+~
+0 -1 45423
+Z0
+C-1
+R0
+S
+#45423
+The Sandy Dunes of Death~
+
+  {Y}You find yourself crawling upon your hands and knees. The bright, hot
+  sun beats down on your frail body relentlessly. Your lips are sore and
+  cracked. Your clothes are ripped and shredded beyond belief{y}. {BO}{BLU}To the
+  distance you notice a small oasis in the middle of this parched land
+  and hope fills your being{b}.
+
+~
+454 16 0
+D0
+~
+~
+0 -1 45499
+D1
+~
+~
+0 -1 45499
+D2
+~
+~
+0 -1 45499
+D3
+~
+~
+0 -1 45499
+D4
+~
+~
+0 -1 45424
+D5
+~
+~
+0 -1 45499
+Z0
+C-1
+R0
+S
+#45424
+The Cobblestone Road~
+
+  {C}Your heavy footsteps make a strange echo on the cobblestone as you
+  walk along the path.  Small buildings surround you on all sides as
+  claustrophobia grips your soul. An old man pushing a cart of corpses
+  can be seen to the north. You jump in fright as a rat scurries out
+  from a crack in the wall to the east.  The wind here is hot, and
+  unforgiving, making you wish you never entered this wasted realm{c}.
+
+~
+454 1029 1
+D0
+~
+~
+0 -1 45499
+D1
+~
+~
+0 -1 45425
+D2
+~
+~
+0 -1 45499
+D3
+~
+~
+0 -1 45499
+D4
+~
+~
+0 -1 45499
+D5
+~
+~
+0 -1 45499
+Z0
+C-1
+R0
+S
+#45425
+Within the Void~
+
+  {M}You seem to be standing in a  thick white mist.
+  Little  pinpoints of light penetrate the thick
+  darkness and fill your  body with tranquility.
+  The mist slowly cascades down your  body and
+  small goose-pimples start to show on your skin{m}.
+
+~
+454 1025 0
+D0
+~
+~
+0 -1 45499
+D1
+~
+~
+0 -1 45499
+D2
+~
+~
+0 -1 45499
+D3
+~
+~
+0 -1 45426
+D4
+~
+~
+0 -1 45499
+D5
+~
+~
+0 -1 45499
+Z0
+C-1
+R0
+S
+#45426
+The Witches Cauldron~
+
+  {BO}{B}You have entered a small cave.  Directly in the middle is a large
+  black cauldron with three hags behind it{b}.  {G}From within the cauldron,
+  the hand of a small human can be seen reaching out from within the
+  bubbling cauldron clenching a wicked potion.  The hags stare at you
+  as you enter their realm. A smile crosses their faces as you approach{g}...
+
+~
+454 1033 5
+D0
+~
+~
+0 -1 45499
+D1
+~
+~
+0 -1 45499
+D2
+~
+~
+0 -1 45499
+D3
+~
+~
+0 -1 45499
+D4
+~
+~
+0 -1 45499
+D5
+~
+~
+0 -1 45427
+X268435456
+Z0
+C-1
+R0
+S
+#45427
+The Cathedral~
+
+  {R}You stand before a large mural. All about you are pews made of the
+  finest wood in all the land{r}. {BO}{Y}A large Crucifix hangs upon the far
+  northern wall, with a small ebony pedestal below it{y}. {R}A small group
+  of monks can be seen to the west, singing old and beautiful hymns{r}.
+
+~
+454 1025 0
+D0
+~
+~
+0 -1 45428
+D1
+~
+~
+0 -1 45499
+D2
+~
+~
+0 -1 45499
+D3
+~
+~
+0 -1 45499
+D4
+~
+~
+0 -1 45499
+D5
+~
+~
+0 -1 45499
+Z0
+C-1
+R0
+S
+#45428
+Before the Gates of Tapis~
+
+  {BO}{B}You stand before a pair of old and withered gates. A large stone
+  wall runs from east to west while a small castle can be seen past
+  the gates. The land here seems to chift and change with time. From
+  second to second you notice that the land shifts from solid to mush.
+  Colors change, and all is in total chaos{b}..
+
+~
+454 1025 0
+D1
+~
+~
+0 -1 45429
+Z0
+C-1
+R0
+S
+#45429
+Behind the Castle of Tapis~
+
+  {BO}{B}You suddenly realize that you must have stepped into a small vortex.
+  Behind you stands the small castle of Tapis, but all around you are
+  small thorn bushes that block your way{b}. {C}You start to ponder, and
+  notice a small, virtually hidden path that leads back to the west{c}.
+
+~
+454 1025 0
+D0
+~
+~
+0 -1 45430
+D3
+~
+~
+0 -1 45400
+Z0
+C-1
+R0
+S
+#45430
+Beneath the Rose Bush in the Tapestry~
+
+  {G}You find yourself crawling beneath a small rose bush. The ground here
+  is moist and soft. {R}The thick foliage of the bush destroys all hope of
+  light ever reaching this small, hidden path. {Y}The thick fragrance of the
+  bush fills your mind with thoughts of love and hope. You then notice a
+  small hole in the wall. {G}The hole appears to be able ti fit one person
+  quite comfortably{g}...
+    
+  {Y}A LARGE sign has been drawn into the moist earth{y}.
+
+~
+454 1025 0
+D1
+~
+~
+0 -1 45431
+D2
+~
+~
+0 -1 45429
+E
+sign~
+
+  {R}There is only one way a mortal may pass the bush{r}. {BO}{G}It can be done{g}...
+
+~
+Z0
+C-1
+R0
+S
+#45431
+Before the Wall~
+
+  {BO}{B}A large, black wall looms over you. The black stones seem to attract
+  and emit heat at the same time. High overhead you see large vultures
+  circling. The rancid smell of death fills the room. A small hole seems
+  to have been carved out of the black wall{b}.
+
+~
+454 1025 0
+D0
+~
+~
+0 -1 45432
+D3
+~
+~
+0 -1 45430
+Z0
+C-1
+R0
+S
+#45432
+Within the Wall~
+
+  {BO}{B}The dark walls are covered in a thick black film. The stench
+  of rotting flesh fills the room and makes you very ill. A small,
+  unnatural light glows upon the high ceiling. You hear the faint
+  sound of dripping water coming out from the cracks in the walls.
+  Just standing here fills your head with thoughts of death{b}.
+
+~
+454 1057 0
+D3
+~
+~
+0 -1 45433
+Z0
+C-1
+R0
+S
+#45433
+Within the Wall~
+
+  {BO}{B}The dark walls are covered in a thick black film. The stench
+  of rotting flesh fills the room and makes you very ill. A small,
+  unnatural light glows upon the high ceiling. You hear the faint
+  sound of dripping water coming out from the cracks in the walls.
+  Just standing here fills your head with thoughts of death{b}.
+
+~
+454 1057 0
+D1
+~
+~
+0 -1 45432
+D3
+~
+~
+0 -1 45434
+Z0
+C-1
+R0
+S
+#45434
+Within the Wall~
+
+  {BO}{B}The dark walls are covered in a thick black film. The stench
+  of rotting flesh fills the room and makes you very ill. A small,
+  unnatural light glows upon the high ceiling. You hear the faint
+  sound of dripping water coming out from the cracks in the walls.
+  Just standing here fills your head with thoughts of death{b}.
+
+~
+454 1057 0
+D0
+~
+~
+0 -1 45435
+D1
+~
+~
+0 -1 45433
+Z0
+C-1
+R0
+S
+#45435
+Within the Wall~
+
+  {BO}{B}The dark walls are covered in a thick black film. The stench
+  of rotting flesh fills the room and makes you very ill. A small,
+  unnatural light glows upon the high ceiling. You hear the faint
+  sound of dripping water coming out from the cracks in the walls.
+  Just standing here fills your head with thoughts of death{b}.
+
+~
+454 1057 0
+D1
+~
+~
+0 -1 45436
+D2
+~
+~
+0 -1 45434
+Z0
+C-1
+R0
+S
+#45436
+Within the Wall~
+
+  {BO}{B}The dark walls are covered in a thick black film. The stench
+  of rotting flesh fills the room and makes you very ill. A small,
+  unnatural light glows upon the high ceiling. You hear the faint
+  sound of dripping water coming out from the cracks in the walls.
+  Just standing here fills your head with thoughts of death{b}.
+
+~
+454 1057 0
+D0
+~
+~
+0 -1 45437
+D3
+~
+~
+0 -1 45435
+Z0
+C-1
+R0
+S
+#45437
+The Threads of the Tapestry~
+
+  {C}You seem to have entered the mythical Castle of Tapis.  However,
+  this seems more like a Church than a Castle. Large stained glass
+  windows allow you to view the entire realm of Northern Crossroads.
+  Pillars, constructed of marble, reach up to a large golden dome.
+  Globes of light, which seem to burn their own fuel, cast shadows
+  across large balls of multi-colored twine{c}.
+
+~
+454 1157 0
+D2
+~
+~
+0 -1 45436
+D4
+~
+Dome~
+4 45433 45525
+Z3
+C-1
+R0
+S
+#45438
+{BO}{B}Dangling from a {W}Strand {B}of {W}White {B}Thread{b}~
+             {W}{BO}\\//
+              //
+             //\\ 
+             \\//
+              //
+             //\\
+             \\//
+              //
+             //\\
+             \\//
+              //
+             //\\ 
+             \\//
+              //
+             //\\
+             \\//
+              //
+             //\\{w}
+~
+454 1048589 1
+D0
+~
+~
+0 -1 45438
+D1
+~
+~
+0 -1 45438
+D2
+~
+~
+0 -1 45438
+D3
+~
+~
+0 -1 45445
+D4
+~
+~
+0 -1 45438
+D5
+~
+~
+0 -1 45438
+Z0
+C2
+R0
+S
+#45439
+{BO}{B}Dangling from a {REV}{B}Strand{b} {BO}{B}of {REV}{B}Black{b} {BO}{B}Thread{b}~
+             {B}{BO}\\//
+              //
+             //\\ 
+             \\//
+              //
+             //\\
+             \\//
+              //
+             //\\
+             \\//
+              //
+             //\\ 
+             \\//
+              //
+             //\\
+             \\//
+              //
+             //\\{b}
+~
+454 1048589 1
+D0
+~
+~
+0 -1 45439
+D1
+~
+~
+0 -1 45439
+D2
+~
+~
+0 -1 45459
+D3
+~
+~
+0 -1 45439
+D4
+~
+~
+0 -1 45439
+D5
+~
+~
+0 -1 45439
+Z0
+C2
+R0
+S
+#45440
+{BO}{B}Dangling from a {C}Strand {B}of {C}Cyan {B}Thread{b}~
+             {C}{BO}\\//
+              //
+             //\\ 
+             \\//
+              //
+             //\\
+             \\//
+              //
+             //\\
+             \\//
+              //
+             //\\ 
+             \\//
+              //
+             //\\
+             \\//
+              //
+             //\\{c}
+~
+454 1048589 1
+D0
+~
+~
+0 -1 45440
+D1
+~
+~
+0 -1 45440
+D2
+~
+~
+0 -1 45440
+D3
+~
+~
+0 -1 45440
+D5
+~
+~
+0 -1 45473
+Z0
+C2
+R0
+S
+#45441
+{BO}{B}Dangling from a {M}Strand {B}of {M}Magenta {B}Thread{b}~
+             {M}{BO}\\//
+              //
+             //\\ 
+             \\//
+              //
+             //\\
+             \\//
+              //
+             //\\
+             \\//
+              //
+             //\\ 
+             \\//
+              //
+             //\\
+             \\//
+              //
+             //\\{y}
+~
+454 1048589 1
+D0
+~
+~
+0 -1 45441
+D1
+~
+~
+0 -1 45441
+D2
+~
+~
+0 -1 45441
+D3
+~
+~
+0 -1 45482
+Z0
+C2
+R0
+S
+#45442
+{BO}{B}Dangling from a {Y}Strand {B}of {Y}Yellow {B}Thread{b}~
+             {Y}{BO}\\//
+              //
+             //\\ 
+             \\//
+              //
+             //\\
+             \\//
+              //
+             //\\
+             \\//
+              //
+             //\\ 
+             \\//
+              //
+             //\\
+             \\//
+              //
+             //\\{y}
+~
+454 1048589 1
+D0
+~
+~
+0 -1 45442
+D1
+~
+~
+0 -1 45442
+D2
+~
+~
+0 -1 45442
+D3
+~
+~
+0 -1 45442
+D4
+~
+~
+0 -1 45491
+Z0
+C2
+R0
+S
+#45443
+{BO}{B}Dangling from a {R}Strand {B}of {R}Red {B}Thread{b}~
+             {R}{BO}\\//
+              //
+             //\\ 
+             \\//
+              //
+             //\\
+             \\//
+              //
+             //\\
+             \\//
+              //
+             //\\ 
+             \\//
+              //
+             //\\
+             \\//
+              //
+             //\\{r}
+~
+454 1048589 1
+D0
+~
+~
+0 -1 45443
+D1
+~
+~
+0 -1 45443
+D2
+~
+~
+0 -1 45443
+D3
+~
+~
+0 -1 45443
+D4
+~
+~
+0 -1 45443
+D5
+~
+~
+0 -1 45500
+Z0
+C2
+R0
+S
+#45444
+{BO}{B}Dangling from a {G}Strand {B}of {G}Green {B}Thread{b}~
+             {G}{BO}\\//
+              //
+             //\\ 
+             \\//
+              //
+             //\\
+             \\//
+              //
+             //\\
+             \\//
+              //
+             //\\ 
+             \\//
+              //
+             //\\
+             \\//
+              //
+             //\\{g}
+~
+454 1048589 1
+D0
+~
+~
+0 -1 45444
+D1
+~
+~
+0 -1 45509
+D2
+~
+~
+0 -1 45444
+D3
+~
+~
+0 -1 45444
+D4
+~
+~
+0 -1 45444
+D5
+~
+~
+0 -1 45444
+Z0
+C2
+R0
+S
+#45445
+{BO}{B}A Dark and Musty Corridor{b}{BO}{W}*{w}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D3
+~
+~
+0 -1 45446
+X7340544
+Z0
+C3
+R0
+S
+#45446
+{BO}{B}A Dark and Musty Corridor{b}{BO}{W}*{w}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D0
+~
+~
+0 -1 45447
+D1
+~
+~
+0 -1 45445
+X7340544
+Z0
+C3
+R0
+S
+#45447
+{BO}{B}A Dark and Musty Corridor{b}{BO}{W}*{w}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D0
+~
+~
+0 -1 45448
+D2
+~
+~
+0 -1 45446
+X7340544
+Z0
+C3
+R0
+S
+#45448
+{BO}{B}A Dark and Musty Corridor{b}{BO}{W}*{w}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D2
+~
+~
+0 -1 45447
+D5
+~
+~
+0 -1 45449
+X7340544
+Z0
+C3
+R0
+S
+#45449
+{BO}{B}A Dark and Musty Corridor{b}{BO}{W}*{w}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D4
+~
+~
+0 -1 45448
+D5
+~
+~
+0 -1 45450
+X7340544
+Z0
+C3
+R0
+S
+#45450
+{BO}{B}A Dark and Musty Corridor{b}{BO}{W}*{w}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D2
+~
+~
+0 -1 45451
+D4
+~
+~
+0 -1 45449
+X7340544
+Z0
+C3
+R0
+S
+#45451
+{BO}{B}A Dark and Musty Corridor{b}{BO}{W}*{w}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D0
+~
+~
+0 -1 45450
+D1
+~
+~
+0 -1 45452
+X7340544
+Z0
+C3
+R0
+S
+#45452
+{BO}{B}A Dark and Musty Corridor{b}{BO}{W}*{w}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D3
+~
+~
+0 -1 45451
+D5
+~
+~
+0 -1 45453
+X7340544
+Z0
+C3
+R0
+S
+#45453
+{BO}{B}A Dark and Musty Corridor{b}{BO}{W}*{w}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D4
+~
+~
+0 -1 45452
+D5
+~
+~
+0 -1 45454
+X7340544
+Z0
+C3
+R0
+S
+#45454
+{BO}{B}A Dark and Musty Corridor{b}{BO}{W}*{w}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D3
+~
+~
+0 -1 45455
+D4
+~
+~
+0 -1 45453
+X7340544
+Z0
+C3
+R0
+S
+#45455
+{BO}{B}A Dark and Musty Corridor{b}{BO}{W}*{w}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D1
+~
+~
+0 -1 45454
+D3
+~
+~
+0 -1 45456
+X7340544
+Z0
+C3
+R0
+S
+#45456
+{BO}{B}A Dark and Musty Corridor{b}{BO}{W}*{w}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D1
+~
+~
+0 -1 45455
+D3
+~
+~
+0 -1 45457
+X7340544
+Z0
+C3
+R0
+S
+#45457
+{BO}{B}A Dark and Musty Corridor{b}{BO}{W}*{w}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D1
+~
+~
+0 -1 45456
+D4
+~
+~
+0 -1 45458
+X7340544
+Z0
+C2
+R0
+S
+#45458
+{BO}{W}{UND}A Fall from Grace{w}~
+
+  {R}The flesh lined walls make an uneasy feeling run up and back down your spine.
+  {Y}Huge pillars made of human bone support the golden ceiling just inches above
+  your head. {R}A small river of blood flows down the walls splashing small drops
+  of blood on your once clean boots.  {Y}The hot and musty air makes it hard for
+  you to breath from within this chamber{y}.
+    
+  {BO}{B}To the south a pillar with strange writing{b}.... {BO}{B}draws your attention{b}.
+
+~
+454 1165 1
+D5
+~
+~
+0 -1 45553
+E
+pillar~
+
+  {R}You look at the writings but have no clue as to what they mean{r}.
+
+~
+X6291456
+Z0
+C-1
+R0
+S
+#45459
+{BO}{B}A Dark and Musty Corridor{REV}{B}*{b}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D2
+~
+~
+0 -1 45460
+X7340544
+Z0
+C3
+R0
+S
+#45460
+{BO}{B}A Dark and Musty Corridor{REV}{B}*{b}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D0
+~
+~
+0 -1 45459
+D3
+~
+~
+0 -1 45461
+X7340544
+Z0
+C3
+R0
+S
+#45461
+{BO}{B}A Dark and Musty Corridor{REV}{B}*{b}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D1
+~
+~
+0 -1 45460
+D3
+~
+~
+0 -1 45462
+X7340544
+Z0
+C3
+R0
+S
+#45462
+{BO}{B}A Dark and Musty Corridor{REV}{B}*{b}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D1
+~
+~
+0 -1 45461
+D2
+~
+~
+0 -1 45463
+X7340544
+Z0
+C3
+R0
+S
+#45463
+{BO}{B}A Dark and Musty Corridor{REV}{B}*{b}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D0
+~
+~
+0 -1 45462
+D2
+~
+~
+0 -1 45464
+X7340544
+Z0
+C3
+R0
+S
+#45464
+{BO}{B}A Dark and Musty Corridor{REV}{B}*{b}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D0
+~
+~
+0 -1 45463
+D4
+~
+~
+0 -1 45465
+X7340544
+Z0
+C3
+R0
+S
+#45465
+{BO}{B}A Dark and Musty Corridor{REV}{B}*{b}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D1
+~
+~
+0 -1 45466
+D5
+~
+~
+0 -1 45464
+X7340544
+Z0
+C3
+R0
+S
+#45466
+{BO}{B}A Dark and Musty Corridor{REV}{B}*{b}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D1
+~
+~
+0 -1 45467
+D3
+~
+~
+0 -1 45465
+X7340544
+Z0
+C3
+R0
+S
+#45467
+{BO}{B}A Dark and Musty Corridor{REV}{B}*{b}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D2
+~
+~
+0 -1 45468
+D3
+~
+~
+0 -1 45466
+X7340544
+Z0
+C3
+R0
+S
+#45468
+{BO}{B}A Dark and Musty Corridor{REV}{B}*{b}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D0
+~
+~
+0 -1 45467
+D5
+~
+~
+0 -1 45469
+X7340544
+Z0
+C3
+R0
+S
+#45469
+{BO}{B}A Dark and Musty Corridor{REV}{B}*{b}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D2
+~
+~
+0 -1 45470
+D4
+~
+~
+0 -1 45468
+X7340544
+Z0
+C3
+R0
+S
+#45470
+{BO}{B}A Dark and Musty Corridor{REV}{B}*{b}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D0
+~
+~
+0 -1 45469
+D5
+~
+~
+0 -1 45471
+X7340544
+Z0
+C3
+R0
+S
+#45471
+{BO}{B}A Dark and Musty Corridor{REV}{B}*{b}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D1
+~
+~
+0 -1 45472
+D4
+~
+~
+0 -1 45470
+X7340544
+Z0
+C2
+R0
+S
+#45472
+{BO}{B}{UND}The Layer of Tapis, Master of the Golden Threads{b}~
+
+  {BO}{B}The air is  thick with the  smell of death and decay.  A large hole rests
+  in the middle of  the room with  thick black  fog rising from its massive
+  mouth.  {C}The walls seem to shift and change as you look at them.  From one
+  scene to another the walls change, showing the history of our great world{c}.
+    
+  {BO}{Y}A large golden throne floats above your head....{y}
+
+~
+454 1029 1
+D3
+~
+~
+0 -1 45471
+E
+throne~
+
+  {R}It's doing what it says it's doing, hovering right up above our head{r}! 
+
+~
+X6291456
+Z0
+C-1
+R0
+S
+#45473
+{BO}{B}A Dark and Musty Corridor{b}{BO}{C}*{c}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D0
+~
+~
+0 -1 45474
+X7340544
+Z0
+C3
+R0
+S
+#45474
+{BO}{B}A Dark and Musty Corridor{b}{BO}{C}*{c}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D2
+~
+~
+0 -1 45473
+D5
+~
+~
+0 -1 45475
+X7340544
+Z0
+C3
+R0
+S
+#45475
+{BO}{B}A Dark and Musty Corridor{b}{BO}{C}*{c}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D2
+~
+~
+0 -1 45476
+D4
+~
+~
+0 -1 45474
+X7340544
+Z0
+C3
+R0
+S
+#45476
+{BO}{B}A Dark and Musty Corridor{b}{BO}{C}*{c}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D0
+~
+~
+0 -1 45475
+D1
+~
+~
+0 -1 45477
+X7340544
+Z0
+C3
+R0
+S
+#45477
+{BO}{B}A Dark and Musty Corridor{b}{BO}{C}*{c}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D0
+~
+~
+0 -1 45478
+D3
+~
+~
+0 -1 45476
+X7340544
+Z0
+C3
+R0
+S
+#45478
+{BO}{B}A Dark and Musty Corridor{b}{BO}{C}*{c}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D2
+~
+~
+0 -1 45477
+D4
+~
+~
+0 -1 45479
+X7340544
+Z0
+C3
+R0
+S
+#45479
+{BO}{B}A Dark and Musty Corridor{b}{BO}{C}*{c}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D2
+~
+~
+0 -1 45480
+D5
+~
+~
+0 -1 45478
+X7340544
+Z0
+C3
+R0
+S
+#45480
+{BO}{B}A Dark and Musty Corridor{b}{BO}{C}*{c}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D0
+~
+~
+0 -1 45479
+D4
+~
+~
+0 -1 45481
+X7340544
+Z0
+C2
+R0
+S
+#45481
+{BO}{C}{UND}The Guests Quarters{c}~
+
+  {BO}{BLU}The room is very damp and musty and it seems as though it hasn't been cleaned
+  in ages.  The walls are covered in a blanket of green moss and the floor is
+  covered in a sludge of green goo. The only two pieces of furniture within this
+  room are a single bed which rests against the far eastern wall and a portrait
+  along the opposite. A small window above the bed allows for occupants of this
+  room to wake to a beautiful sunrise{b}!
+    
+  {C}The adourning portrait on the west wall is of Judas Iscariot{c}, the {BO}{C}Bestrayer {W}of {R}God{r}.
+
+~
+454 1029 1
+D5
+~
+~
+0 -1 45555
+E
+portrait~
+
+  A massive portrait of {C}Judas Iscariot{c}.
+
+~
+X6291456
+Z0
+C-1
+R0
+S
+#45482
+{BO}{B}A Dark and Musty Corridor{M}*{m}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D0
+~
+~
+0 -1 45483
+X7340544
+Z0
+C3
+R0
+S
+#45483
+{BO}{B}A Dark and Musty Corridor{M}*{m}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D2
+~
+~
+0 -1 45482
+D5
+~
+~
+0 -1 45484
+X7340544
+Z0
+C3
+R0
+S
+#45484
+{BO}{B}A Dark and Musty Corridor{M}*{m}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D4
+~
+~
+0 -1 45483
+D5
+~
+~
+0 -1 45485
+X7340544
+Z0
+C3
+R0
+S
+#45485
+{BO}{B}A Dark and Musty Corridor{M}*{m}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D2
+~
+~
+0 -1 45486
+D4
+~
+~
+0 -1 45484
+X7340544
+Z0
+C3
+R0
+S
+#45486
+{BO}{B}A Dark and Musty Corridor{M}*{m}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D0
+~
+~
+0 -1 45485
+D3
+~
+~
+0 -1 45487
+X7340544
+Z0
+C3
+R0
+S
+#45487
+{BO}{B}A Dark and Musty Corridor{M}*{m}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D0
+~
+~
+0 -1 45488
+D1
+~
+~
+0 -1 45486
+X7340544
+Z0
+C3
+R0
+S
+#45488
+{BO}{B}A Dark and Musty Corridor{M}*{m}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D2
+~
+~
+0 -1 45487
+D4
+~
+~
+0 -1 45489
+X7340544
+Z0
+C3
+R0
+S
+#45489
+{BO}{B}A Dark and Musty Corridor{M}*{m}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D2
+~
+~
+0 -1 45490
+D5
+~
+~
+0 -1 45488
+X7340544
+Z0
+C2
+R0
+S
+#45490
+{BO}{M}{UND}The Treasure Room{m}~
+
+  {BO}{Y}Huge mounds of gold, silver, diamonds,  rubies, and sapphire stand
+  before you.  The endless amount of treasure  here is more than you
+  have ever seen throughout your entire lifetime. A huge mirror hangs
+  far overhead reflecting your intrusion into Couatl's treasure room{y}.
+    
+  {R}A sparkling red {W}diamond{w} {R}rests on the ground, calling for its master{r}.
+
+~
+454 1029 0
+D5
+~
+~
+0 -1 45556
+E
+diamond~
+
+  {BO}{Y}A huge, heaping pile of gold rests against the east wall. Resting at 
+  the center of the pile of gold lies a sparkling {R}red {W}Diamond, {Y}and
+  it appears to be all yours for the taking{y}!
+
+~
+X6291456
+Z0
+C-1
+R0
+S
+#45491
+{BO}{B}A Dark and Musty Corridor{Y}*{y}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D0
+~
+~
+0 -1 45492
+X7340544
+Z0
+C3
+R0
+S
+#45492
+{BO}{B}A Dark and Musty Corridor{Y}*{y}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D1
+~
+~
+0 -1 45493
+D2
+~
+~
+0 -1 45491
+X7340544
+Z0
+C3
+R0
+S
+#45493
+{BO}{B}A Dark and Musty Corridor{Y}*{y}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D0
+~
+~
+0 -1 45494
+D3
+~
+~
+0 -1 45492
+X7340544
+Z0
+C3
+R0
+S
+#45494
+{BO}{B}A Dark and Musty Corridor{Y}*{y}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D1
+~
+~
+0 -1 45495
+D2
+~
+~
+0 -1 45493
+X7340544
+Z0
+C3
+R0
+S
+#45495
+{BO}{B}A Dark and Musty Corridor{Y}*{y}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D3
+~
+~
+0 -1 45494
+D4
+~
+~
+0 -1 45496
+X7340544
+Z0
+C3
+R0
+S
+#45496
+{BO}{B}A Dark and Musty Corridor{Y}*{y}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D1
+~
+~
+0 -1 45497
+D5
+~
+~
+0 -1 45495
+X7340544
+Z0
+C3
+R0
+S
+#45497
+{BO}{B}A Dark and Musty Corridor{Y}*{y}~
+
+  {C}You stand within a very {BO}{B}dark{b} {C}and{c} {BO}{B}dreary{b} {C}chamber. Spiders have made
+  their homes within every nook and cranny.  A slimy substance seems
+  to be leaking from the wooden ceiling{c}.
+    
+  {BO}{B}A rustling sound can be heard just around the bend{b}...
+
+~
+454 20987912 1
+D1
+~
+~
+0 -1 45498
+D3
+~
+~
+0 -1 45496
+X7340544
+Z0
+C2
+R0
+S
+#45498
+{BO}{Y}{UND}The Guests Quarters{y}~
+
+  {BO}{BLU}The walls are lavishly decorated with{b} {Y}seashells{y}, {W}starfish{w}, {BO}{BLU}and other ocean
+  type artifacts. Large port {BO}{B}holes{b} {BO}{BLU}lining the walls allow for water to fill
+  into the room, but not outside the chamber{b}. {BLU}In the center, a large chained,
+  dual grate is used for draining out the room{b}. {G}After a short period of time
+  you notice what was once a light waterflow{g}, {BO}{BLU}has started to pour heavily out
+  from the port {BO}{B}holes{b}. {BO}{BLU}The room rapidly begins filling with water, as you find
+  yourself fighting to keep your head above water{b}.
+    
+  {BO}{BLU}A{b} {BLU}weathered {W}glass{w} {BO}{BLU}bottle wades about the room with a{b} {Y}message{y} {BO}{BLU}inside{b}.
+
+~
+454 558085 6
+D5
+~
+~
+0 -1 45557
+E
+bottle glass message~
+
+  {BO}{BLU}Before you have a chance to grasp the bottle it floats away
+  and gets sucked out from the port hole to the north{b}.
+
+~
+X6291456
+Z0
+C-1
+R0
+S
+#45499
+{BLINK,RED}A Wrong Step...{blink,red}~
+
+  You've chosen poorly...
+
+~
+454 17850629 1
+T45437
+X6291458
+Z0
+C-1
+R0
+S
+$~

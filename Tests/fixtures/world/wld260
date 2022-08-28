@@ -1,0 +1,2706 @@
+#26000
+{BO,GR}The Land Of Calandra{bo,gr}~
+{Y}
+   The lands of Esdragon, and Calandra were about to be
+ joined in peace. For, the Princess Allaire from Esdragon
+ was to marry the King of Calandra. But through an act of
+ deception the dreaded Ice-lord Nimir had caused an abrupt
+ end to the wedding. He then captured the princess and put
+ her into an enchanted sleep. She was then exiled into the
+ dreaded Darkenkeep, while the war between the lands of
+ Calandra, to the north, and Esdragon, to the south began
+ to escalate.
+   Years later, after the fighting among the people has
+ weakened the lands defenses. Nimir has begun to move south
+ from the icy wastelands of Darkenkeep, and soon he and his
+ minions will have an icy grip on all of Calandra.
+ 
+{y}
+~
+260 4 3
+D2
+~
+~
+0 -1 2103
+D3
+Where has Princess Allaire been exiled?
+~
+darkenkeep~
+3 -1 26001
+X2147484160
+Z3
+C-1
+R70
+S
+#26001
+{BO,GR}Last Hope?{bo,gr}~
+{Y}
+  The master magician Blais is dead, defeated by The Winter
+ King Nimir. Killed for having vital knowledge of a quest
+ which might have defeated Nimir and restored the lands of
+ Calandra back to the beauty which it once possessed. His
+ only remaining hope rested in his young apprentice Tristan.
+{y}
+~
+260 0 3
+D0
+Who was Master Blais's apprentice?
+~
+Tristan~
+3 -1 26002
+D1
+~
+darkenkeep~
+1 -1 26000
+E
+river~
+ No words can describe its beauty. It looks very refreshing. 
+
+     Up for a swim?
+~
+X8
+Z3
+C-1
+R0
+S
+#26002
+{BO,GR}The Cottage{bo,gr}~
+{Y}
+   Tristan, who had been out gathering magic stones and
+ objects had no idea that his master had been slain. When
+ he returned home, he found the small cottage where he and
+ the old mage had lived empty and somewhat disturbing. He
+ searched throughout the cottage and stables and could not
+ find any trace of the master. Eventually, he gave up the
+ hunt and returned to the cottage.
+   Once back to the cottage, Tristan heard a voice softly
+ calling out to him. Through a small brass dog, the master
+ began explaining to him what had happened.
+   Blais had used the last of his power to set his young,
+ but noble apprentice out on a quest. Success would break
+ Nimir's hold on Calandra... Failure would be death.
+   Carefully hiding the spell needed to begin the journey
+ amongst the many volumes of spellbooks which were strewn
+ about the cottage. Tristan needed only to search for one
+ word.
+{y}
+~
+260 0 3
+D2
+~
+Tristan~
+1 -1 26001
+X8
+Z3
+C-1
+R0
+S
+#26003
+{BO,BLA}The Search.{bo,bla}~
+{Y}
+   The first thing needed to undertake Tristan's mission
+ is Valadan, the great war-horse of Esdragon.
+   Said to be sired by the swift west wind, so the legend
+ ran, on a bay mare belonging to some long dead Duke of
+ Esdragon. The mare had been the Duke's favorite, though
+ she was too wild to be ridden, Nor would she have any part
+ of any earthly stallion. She outran them all, until some
+ great wizard whose very name was now lost, charmed down
+ the wild wind to be her mate. She lived only a few days
+ after what had been an understandably difficult foaling,
+ but the colt himself  had thrived and soon became an even
+ greater favorite of the Duke's, and all the Dukes that had
+ followed. He, being bred by magic, had never grown old.
+ His wisdom, it was said, was beyond that of many humans.
+ He had served nobly till the last Duke lay dying at his
+ side. After that he had disappeared, supposedly captured
+ by Nimir.
+{y}
+~
+260 0 4
+D0
+{Y}
+  Find the right word, and begin your journey now...
+{y}
+~
+Valadan~
+3 -1 26004
+X8
+Z3
+C-1
+R0
+S
+#26004
+{MAGENTA} A dusty dirt road {magenta}~
+{C}
+   The spell to begin your search brings you to a broken trail
+ behind a traveling carnival. Strange, but for some reason now
+ it seems obvious. What better place could one find to hide a
+ horse than in a carnival?
+   The road looks long and rough, many wagons have left their
+ impressions upon the terrain. The weather has apparently been
+ very dry lately. Dust clouds fill the air, making it hard to
+ see very far ahead of you.
+{c}
+~
+260 1 4
+D3
+~
+~
+0 -1 26083
+T26000
+X6291464
+Z3
+C-1
+R0
+S
+#26005
+{MAGENTA} A dusty dirt road {magenta}~
+{C}
+   You walk many miles trying to catch the carnival, but are always
+ just a little behind it. The only sign that you are on the right
+ path are the remnants of festivities you see every so often along 
+ the way... a few paper streamers, flattened patches of grass along
+ the town proper, and small bits and scraps of food lying along the
+ roadway.
+{c}
+~
+260 65537 4
+D0
+~
+~
+0 -1 26006
+D1
+~
+~
+0 -1 26083
+X2097160
+Z3
+C-1
+R0
+S
+#26006
+{MAGENTA} A dusty dirt road {magenta}~
+{C}
+   You walk many miles trying to catch the carnival, but are always
+ just a little behind it. The only sign that you are on the right
+ path are the remnants of festivities you see every so often along 
+ the way... a few paper streamers, flattened patches of grass along
+ the town proper, and small bits and scraps of food lying along the
+ roadway.
+{c}
+~
+260 65537 4
+D1
+~
+~
+0 -1 26075
+D2
+~
+~
+0 -1 26005
+X2097160
+Z3
+C-1
+R0
+S
+#26007
+{MAGENTA} A dusty dirt road {magenta}~
+{C}
+   After days of traveling you have finally caught up with the 
+ carnival. Up ahead you hear laughter, music, and all the sounds
+ you would expect to hear in a carnival.
+   You get a rush of adrenaline as curiosity, and the need to
+ finish your journey, drive you onward...
+{c}
+~
+260 1 4
+D0
+~
+~
+0 -1 26076
+D3
+~
+~
+0 -1 26075
+X2097160
+Z3
+C-1
+R0
+S
+#26008
+{bo,MAG}A Crowd of Strangers{bo,mag}~
+{CYAN}
+   You are surrounded by people who are giving you strange looks
+ and talking very quickly in strange accents. You'd like to enjoy
+ the day, take a leisurely stroll and see the sights, but it might
+ be best if you find what you are looking for and get out of here.
+ You don't like the way that guy just looked at you...
+{cyan}
+~
+260 257 4
+D0
+~
+~
+0 -1 26015
+D1
+~
+~
+0 -1 26009
+D2
+~
+~
+0 -1 26012
+D3
+~
+~
+0 -1 26010
+T26019
+X2097160
+Z3
+C-1
+R0
+S
+#26009
+{bo,MAG}A Crowd of Strangers{bo,mag}~
+{CYAN}
+   You are surrounded by people who are giving you strange looks
+ and talking very quickly in strange accents. You'd like to enjoy
+ the day, take a leisurely stroll and see the sights, but it might
+ be best if you find what you are looking for and get out of here.
+ You don't like the way that guy just looked at you...
+{cyan}
+~
+260 257 4
+D0
+~
+~
+0 -1 26011
+D1
+~
+~
+0 -1 26013
+D2
+~
+~
+0 -1 26008
+D3
+~
+~
+0 -1 26010
+T26019
+X2097160
+Z3
+C-1
+R0
+S
+#26010
+{bo,MAG}A Crowd of Strangers{bo,mag}~
+{CYAN}
+   You are surrounded by people who are giving you strange looks
+ and talking very quickly in strange accents. You'd like to enjoy
+ the day, take a leisurely stroll and see the sights, but it might
+ be best if you find what you are looking for and get out of here.
+ You don't like the way that guy just looked at you...
+{cyan}
+~
+260 257 4
+D0
+~
+~
+0 -1 26009
+D1
+~
+~
+0 -1 26012
+D2
+~
+~
+0 -1 26013
+D3
+~
+~
+0 -1 26011
+T26019
+X2097176
+Z3
+C-1
+R0
+S
+#26011
+{bo,MAG}A Crowd of Strangers{bo,mag}~
+{CYAN}
+   You are surrounded by people who are giving you strange looks
+ and talking very quickly in strange accents. You'd like to enjoy
+ the day, take a leisurely stroll and see the sights, but it might
+ be best if you find what you are looking for and get out of here.
+ You don't like the way that guy just looked at you...
+{cyan}
+~
+260 257 4
+D0
+~
+~
+0 -1 26015
+D1
+~
+~
+0 -1 26014
+D2
+~
+~
+0 -1 26008
+D3
+~
+~
+0 -1 26016
+T26019
+X2097176
+Z3
+C-1
+R0
+S
+#26012
+{bo,MAG}A Crowd of Strangers{bo,mag}~
+{CYAN}
+   You are surrounded by people who are giving you strange looks
+ and talking very quickly in strange accents. You'd like to enjoy
+ the day, take a leisurely stroll and see the sights, but it might
+ be best if you find what you are looking for and get out of here.
+ You don't like the way that guy just looked at you...
+{cyan}
+~
+260 257 4
+D0
+~
+~
+0 -1 26013
+D1
+~
+~
+0 -1 26009
+D2
+~
+~
+0 -1 26011
+D3
+~
+~
+0 -1 26014
+T26019
+X2097176
+Z3
+C-1
+R0
+S
+#26013
+{bo,MAG}A Crowd of Strangers{bo,mag}~
+{CYAN}
+   You are surrounded by people who are giving you strange looks
+ and talking very quickly in strange accents. You'd like to enjoy
+ the day, take a leisurely stroll and see the sights, but it might
+ be best if you find what you are looking for and get out of here.
+ You don't like the way that guy just looked at you...
+{cyan}
+~
+260 257 4
+D0
+~
+~
+0 -1 26012
+D1
+~
+~
+0 -1 26014
+D2
+~
+~
+0 -1 26015
+D3
+~
+~
+0 -1 26016
+T26019
+X2097176
+Z3
+C-1
+R0
+S
+#26014
+{bo,MAG}A Crowd of Strangers{bo,mag}~
+{CYAN}
+   You are surrounded by people who are giving you strange looks
+ and talking very quickly in strange accents. You'd like to enjoy
+ the day, take a leisurely stroll and see the sights, but it might
+ be best if you find what you are looking for and get out of here.
+ You don't like the way that guy just looked at you...
+{cyan}
+~
+260 257 4
+D0
+~
+~
+0 -1 26012
+D1
+~
+~
+0 -1 26016
+D2
+~
+~
+0 -1 26009
+D3
+~
+~
+0 -1 26016
+T26019
+X2097176
+Z3
+C-1
+R0
+S
+#26015
+{bo,MAG}A Crowd of Strangers{bo,mag}~
+{CYAN}
+   You are surrounded by people who are giving you strange looks
+ and talking very quickly in strange accents. You'd like to enjoy
+ the day, take a leisurely stroll and see the sights, but it might
+ be best if you find what you are looking for and get out of here.
+ You don't like the way that guy just looked at you...
+{cyan}
+~
+260 257 4
+D0
+~
+~
+0 -1 26016
+D1
+~
+~
+0 -1 26017
+D2
+~
+~
+0 -1 26010
+D3
+~
+~
+0 -1 26014
+T26019
+X2097176
+Z3
+C-1
+R0
+S
+#26016
+{bo,MAG}A Crowd of Strangers{bo,mag}~
+{CYAN}
+  Too late... the strangers rip you limb from limb.
+
+ {cyan}
+~
+260 7 4
+X2097176
+Z3
+C-1
+R0
+S
+#26017
+{bo,MAG}A Crowd of Strangers{bo,mag}~
+{CYAN}
+   You are surrounded by people who are giving you strange looks
+ and talking very quickly in strange accents. You'd like to enjoy
+ the day, take a leisurely stroll and see the sights, but it might
+ be best if you find what you are looking for and get out of here.
+ You don't like the way that guy just looked at you...
+{cyan}
+~
+260 257 4
+D0
+~
+~
+0 -1 26016
+D1
+~
+~
+0 -1 26019
+D2
+~
+~
+0 -1 26011
+D3
+~
+~
+0 -1 26008
+T26019
+X4194312
+Z3
+C-1
+R0
+S
+#26018
+{M}Control Room{m}~
+{C}
+  Before you some sort of machine is giving off an awful shrieking
+ noise... the noise hurts your ears. The sound seems to be made 
+ from huge puffs of steam rising through the top of a large cluster
+ of pipes, which vary in length and thickness.
+  You must get by this dreadful thing to gain access to the control
+ panel...
+{c}
+~
+260 65685 4
+D0
+~
+door~
+1 -1 26019
+D2
+{C}
+The wire seems a little stretched near the bottom of the fence
+here. If you had some kind of long bladed weapon, you might be
+able to pull it up enough to slip underneath.
+{c}
+~
+fence~
+8 3022 26077
+D3
+~
+~
+0 -1 26016
+X4194304
+Z3
+C-1
+R0
+S
+#26019
+{M}Carrousel Entrance{m}~
+{CY}
+   The carrousel's workings consist of many whirling gears and 
+ turning rods which also seem to somehow be propelled by steam,
+ much like a water driven grain mill.
+   The workings propel a wheel, which carries perhaps two dozen
+ wooden horses. They are arrayed in a double circle about a 
+ central hub. Poles run through their middles and attach them to
+ the wheel under their feet and to something in the shadowy
+ framework above them, mostly hidden by the gaudy cloth which
+ forms a peaked canopy over them.
+{cy}
+~
+260 65540 0
+D1
+{C}
+  The entrance is closed at the moment. The ride appears to
+ still be in motion. You will have to find a way to stop the
+ wheel before you can enter.
+{c}
+~
+Entrance~
+4 26023 26020
+D2
+{C}A cracked wooden door with a rusted lock.
+
+       A sign hangs over the doorway...{c}
+
+~
+door~
+4 26034 26018
+E
+sign~
+{C}
+                Danger!!
+                Keep Out
+                Employees Only!
+{c}
+~
+X32888
+Z3
+C-1
+R0
+S
+#26020
+{bo,MAG}Onboard The Carrousel{bo,mag}~
+{C}
+  Amongst so many other horses how hard could it be to find
+ Valadan? Many of the horses are in bad need of repair, their
+ peeling paint shows many layers of color. They are decorated
+ with knife cuts and old burns. Their stirrups are mostly gone.
+ Their reins replaced with fraying rope. Some hold expressions
+ of fear or shock, others look fierce, noble, even angry.
+{c}
+~
+260 16392 4
+D0
+~
+~
+0 -1 26021
+D3
+~
+Entrance~
+1 -1 26019
+X8
+Z3
+C-1
+R0
+S
+#26021
+{bo,MAG}Onboard The Carrousel{bo,mag}~
+{C}
+  Amongst so many other horses how hard could it be to find
+ Valadan? Many of the horses are in bad need of repair, their
+ peeling paint shows many layers of color. They are decorated
+ with knife cuts and old burns. Their stirrups are mostly gone.
+ Their reins replaced with fraying rope. Some hold expressions
+ of fear or shock, others look fierce, noble, even angry.
+{c}
+~
+260 16392 4
+D2
+~
+~
+0 -1 26020
+D3
+~
+~
+0 -1 26023
+X8
+Z3
+C-1
+R0
+S
+#26022
+{bo,MAG}Onboard The Carrousel{bo,mag}~
+{C}
+  Amongst so many other horses how hard could it be to find
+ Valadan? Many of the horses are in bad need of repair, their
+ peeling paint shows many layers of color. They are decorated
+ with knife cuts and old burns. Their stirrups are mostly gone.
+ Their reins replaced with fraying rope. Some hold expressions
+ of fear or shock, others look fierce, noble, even angry.
+{c}
+~
+260 16392 4
+D1
+~
+~
+0 -1 26023
+D2
+~
+~
+0 -1 26020
+X8
+Z3
+C-1
+R0
+S
+#26023
+{BO,BLA}Valadan{bo,bla}~
+{C}
+  Although no less filthy than the rest, the black's skin
+ is whole under the dirt, and his carving is subtly fine,
+ much different than the others. His eyes seem to catch the
+ light. New suns burn and mature there, blaze then die of
+ old age. Rivers crawl under the black satin skin, forests
+ of flowers grow... This could only be Valadan, long lost
+ war-horse of Esdragon.
+{c}
+~
+260 128 4
+D1
+~
+~
+0 -1 26021
+D3
+~
+~
+0 -1 26022
+D4
+{C}
+  The canopy is made from a thickly woven canvas. It would
+ take something really sharp to cut through that.
+{c}
+~
+canopy~
+4 26012 26024
+X8
+Z3
+C-1
+R0
+S
+#26024
+{BO,GR}A Day's Rest{bo,gr}~
+{YEL}
+   After finding Valadan one part of Tristan's mission was 
+ complete. With Valadan they went back to the old mages's
+ cottage for a days rest before heading back out to begin
+ the rest of the quest. 
+   The second thing needed to defeat Nimir was the heir to
+ the throne of Calandra. So it was on to Lassair to seek
+ out King Polassar the best known heir.
+{yel}
+~
+260 4 4
+D5
+~
+canopy~
+1 -1 26023
+Z-1
+C-1
+R0
+S
+#26025
+{bo,R}The Road to Lassair{bo,r}~
+{CYAN}
+   The Road to Lassair Castle, like all the roads in Calandra,
+ was long, winding, and rutted deeply. You move crosscountry at
+ every opportunity, to save time and jolting. It seems that
+ Valadan knows the way quite well...
+{cyan}
+~
+260 4 4
+D3
+~
+~
+0 -1 26026
+X8
+Z3
+C-1
+R0
+S
+#26026
+{bo,R}The Road to Lassair{bo,r}~
+{CYAN}
+   You go slowly at first, while accustoming yourself to riding.
+ Fortunately you are very adaptable, and learn quickly. The pace
+ soon picks up, and you find yourself flying over moor and 
+ woodland, pausing only to ford streams. Even mounted, Tristan
+ finds running water unsettling (As all mages do).
+{cyan}
+~
+260 0 9
+D0
+~
+~
+0 -1 26027
+D1
+~
+~
+0 -1 26025
+X10
+Z3
+C-1
+R0
+S
+#26027
+{bo,R}The Road to Lassair{bo,r}~
+{C}
+   Despite traveling as a bird might, direct and undeterred,
+ you see few people. Incessant warring of the years past has
+ taken its toll on the population, and the harsh winters which
+ have been the norm since Nimir took interest in Calandra make
+ farming difficult here in the north. Folk live off the sea
+ where they can, and hug coastlines and roadways.
+{c}
+~
+260 1 4
+D0
+~
+~
+0 -1 26098
+D2
+~
+~
+0 -1 26026
+X8
+Z3
+C-1
+R0
+S
+#26028
+{bo,R}Approaching Castle Lassair{bo,r}~
+{CYAN}
+  Evidently the castle has just suffered another strike from someone
+seeking Polassar's throne. Polassar being the only person known who
+actually has a bloodline leading back to the old royal family of the
+past, suffers such attacks on a regular basis.
+  Three of his royal guards turn and head your way. They're probably 
+out searching for any bandits that might remain in the area...
+{cyan}
+~
+260 5 4
+D1
+~
+~
+0 -1 26029
+D5
+~
+~
+0 -1 26098
+X8
+Z3
+C-1
+R0
+S
+#26029
+{bo,R}Castle Lassair{bo,r}~
+{CYAN}
+    Polassar Castle rears itself up from a stony outcrop that
+ was long ago forested. Scrawny stumps are all that remain of
+ the trees near the rough red walls. There seems to be a large 
+ fire-blackened gap in the south wall. About a half-dozen men
+ are busy around it, carrying bricks and mortar.
+{cyan}
+~
+260 133 4
+D3
+~
+~
+0 -1 26028
+X8
+Z3
+C-1
+R0
+S
+#26030
+{R}A Small Dusty Room Inside Castle Lassair{r}~
+{C}
+   Lord Polassar is the last person who's help you must seek.
+ Although a very brave man, Polassar will not take lightly the
+ idea of undertaking a quest, which up till now, all others who
+ have attempted it have failed. The consequences being death.
+    As you enter the room you spot a man seated at a large, round
+ wooden table. It appears to be the king himself, enjoying his
+ supper. He glances over at you and sizes you up, while at the 
+ same time choking down another large piece of what appears to be
+ venison.
+{c}
+~
+260 136 0
+D3
+~
+wooden~
+1 -1 26093
+X8
+Z3
+C-1
+R0
+S
+#26031
+{bo,WH}Moonrise{bo,w}~
+{Y}
+   After meeting with King Polassar it was time to set out for
+ Darkenkeep. It was said that only one very skilled in the ways
+ of magic could safely navigate the treacherous path through the
+ Winterwaste to the Ice Lord's stronghold. Since the magic path
+ was only visible in moonlight, they would have to set out at
+ moonrise... so as to spend as little time as possible in the
+ dreaded wasteland. 
+  
+{bo,W} A magical message of {R}warning{W} glows dimly on the ground before
+ you.
+{w}
+~
+260 5 4
+D0
+~
+~
+0 -1 26032
+E
+ground~
+{bo,W}
+ Now is the time to turn back before its too late!!
+ Be warned, anything or anyone lost in the Winterwaste is gone forever!
+{bo,w}
+~
+E
+message~
+{bo,W}
+ Now is the time to turn back before its too late!!
+ Be warned, anything or anyone lost in the Winterwaste is gone forever!
+{bo,w}
+~
+E
+warning~
+{bo,W}
+ Now is the time to turn back before its too late!!
+ Be warned, anything or anyone lost in the Winterwaste is gone forever!
+{bo,w}
+~
+Z3
+C-1
+R0
+S
+#26032
+{BO}{WH} The Winterwaste {wh}{bo}~
+{C}
+    The path stretches like a silver ribbon before the eyes of
+ magic, though to others this is nothing more than cold wasteland,
+ trackless and unmarked. No trees ever grew here, or else they are
+ buried in snowdrifts. There are no landmarks, nothing to break
+ the wind's force in any direction until you reach Darkenkeep.
+{c}
+~
+260 16549 9
+D0
+~
+~
+0 -1 26033
+D1
+~
+~
+0 -1 26034
+D2
+~
+~
+0 -1 26036
+D3
+~
+~
+0 -1 26035
+T26000
+X4194312
+Z3
+C-1
+R0
+S
+#26033
+{BO}{WH} The Winterwaste {wh}{bo}~
+{C}
+    The path stretches like a silver ribbon before the eyes of
+ magic, though to others this is nothing more than cold wasteland,
+ trackless and unmarked. No trees ever grew here, or else they are
+ buried in snowdrifts. There are no landmarks, nothing to break
+ the wind's force in any direction until you reach Darkenkeep. 
+{c}
+~
+260 16545 9
+D0
+~
+~
+0 -1 26038
+D1
+~
+~
+0 -1 26037
+D2
+~
+~
+0 -1 26039
+D3
+~
+~
+0 -1 26036
+X4194314
+Z3
+C-1
+R0
+S
+#26034
+{BO}{WH} The Winterwaste {wh}{bo}~
+{C}
+    The path stretches like a silver ribbon before the eyes of
+ magic, though to others this is nothing more than cold wasteland,
+ trackless and unmarked. No trees ever grew here, or else they are
+ buried in snowdrifts. There are no landmarks, nothing to break
+ the wind's force in any direction until you reach Darkenkeep. 
+{c}
+~
+260 16545 9
+D0
+~
+~
+0 -1 26041
+D1
+~
+~
+0 -1 26042
+D2
+~
+~
+0 -1 26039
+D3
+~
+~
+0 -1 26035
+X4194306
+Z3
+C-1
+R0
+S
+#26035
+{BO}{WH} The Winterwaste {wh}{bo}~
+{C}
+    The path stretches like a silver ribbon before the eyes of
+ magic, though to others this is nothing more than cold wasteland,
+ trackless and unmarked. No trees ever grew here, or else they are
+ buried in snowdrifts. There are no landmarks, nothing to break
+ the wind's force in any direction until you reach Darkenkeep. 
+{c}
+~
+260 16545 9
+D0
+~
+~
+0 -1 26038
+D1
+~
+~
+0 -1 26032
+D2
+~
+~
+0 -1 26041
+D3
+~
+~
+0 -1 26036
+X4194306
+Z3
+C-1
+R0
+S
+#26036
+{BO}{WH} The Winterwaste {wh}{bo}~
+{C}
+    The path stretches like a silver ribbon before the eyes of
+ magic, though to others this is nothing more than cold wasteland,
+ trackless and unmarked. No trees ever grew here, or else they are
+ buried in snowdrifts. There are no landmarks, nothing to break
+ the wind's force in any direction until you reach Darkenkeep. 
+{c}
+~
+260 16545 9
+D0
+~
+~
+0 -1 26032
+D1
+~
+~
+0 -1 26038
+D2
+~
+~
+0 -1 26039
+D3
+~
+~
+0 -1 26034
+X4194306
+Z3
+C-1
+R0
+S
+#26037
+{BO}{WH} The Winterwaste {wh}{bo}~
+{C}
+    The path stretches like a silver ribbon before the eyes of
+ magic, though to others this is nothing more than cold wasteland,
+ trackless and unmarked. No trees ever grew here, or else they are
+ buried in snowdrifts. There are no landmarks, nothing to break
+ the wind's force in any direction until you reach Darkenkeep. 
+{c}
+~
+260 16545 9
+D0
+~
+~
+0 -1 26040
+D1
+~
+~
+0 -1 26036
+D2
+~
+~
+0 -1 26035
+D3
+~
+~
+0 -1 26034
+X4194314
+Z3
+C-1
+R0
+S
+#26038
+{BO}{WH} The Winterwaste {wh}{bo}~
+{C}
+    The path stretches like a silver ribbon before the eyes of
+ magic, though to others this is nothing more than cold wasteland,
+ trackless and unmarked. No trees ever grew here, or else they are
+ buried in snowdrifts. There are no landmarks, nothing to break
+ the wind's force in any direction until you reach Darkenkeep. 
+{c}
+~
+260 16545 9
+D0
+~
+~
+0 -1 26035
+D1
+~
+~
+0 -1 26032
+D2
+~
+~
+0 -1 26036
+D3
+~
+~
+0 -1 26041
+X4194306
+Z3
+C-1
+R0
+S
+#26039
+{BO}{WH} The Winterwaste {wh}{bo}~
+{C}
+    The path stretches like a silver ribbon before the eyes of
+ magic, though to others this is nothing more than cold wasteland,
+ trackless and unmarked. No trees ever grew here, or else they are
+ buried in snowdrifts. There are no landmarks, nothing to break
+ the wind's force in any direction until you reach Darkenkeep. 
+{c}
+~
+260 16545 9
+D0
+~
+~
+0 -1 26036
+D1
+~
+~
+0 -1 26032
+D2
+~
+~
+0 -1 26042
+D3
+~
+~
+0 -1 26038
+X4194306
+Z3
+C-1
+R0
+S
+#26040
+{BO}{WH} The Winterwaste {wh}{bo}~
+{C}
+    The path stretches like a silver ribbon before the eyes of
+ magic, though to others this is nothing more than cold wasteland,
+ trackless and unmarked. No trees ever grew here, or else they are
+ buried in snowdrifts. There are no landmarks, nothing to break
+ the wind's force in any direction until you reach Darkenkeep. 
+{c}
+~
+260 16545 9
+D0
+~
+~
+0 -1 26047
+D1
+The nest is hug, and must have taken a long time to build. You can
+ almost reach it from here...
+
+~
+Nest~
+4 -1 26041
+D2
+~
+~
+0 -1 26039
+D3
+~
+~
+0 -1 26043
+X4194314
+Z3
+C-1
+R0
+S
+#26041
+{BO}{WH} The Winterwaste {wh}{bo}~
+{C}
+    The path stretches like a silver ribbon before the eyes of
+ magic, though to others this is nothing more than cold wasteland,
+ trackless and unmarked. No trees ever grew here, or else they are
+ buried in snowdrifts. There are no landmarks, nothing to break
+ the wind's force in any direction until you reach Darkenkeep. 
+{c}
+~
+260 16545 9
+D0
+~
+~
+0 -1 26032
+D1
+~
+~
+0 -1 26035
+D2
+~
+~
+0 -1 26042
+D3
+~
+~
+0 -1 26043
+X4194306
+Z3
+C-1
+R0
+S
+#26042
+{BO}{WH} The Winterwaste {wh}{bo}~
+{C}
+    The path stretches like a silver ribbon before the eyes of
+ magic, though to others this is nothing more than cold wasteland,
+ trackless and unmarked. No trees ever grew here, or else they are
+ buried in snowdrifts. There are no landmarks, nothing to break
+ the wind's force in any direction until you reach Darkenkeep. 
+{c}
+~
+260 16545 9
+D0
+~
+~
+0 -1 26035
+D1
+~
+~
+0 -1 26043
+D2
+~
+~
+0 -1 26034
+D3
+~
+~
+0 -1 26036
+X4194306
+Z3
+C-1
+R0
+S
+#26043
+{BO}{WH} The Winterwaste {wh}{bo}~
+{C}
+
+  Your feet have become numb blocks of ice, and feel like they
+ weigh a ton. Your legs buckle and you fall to the ground....
+  The Winterwaste claims yet another weary soul....
+{c}
+~
+260 16547 4
+D0
+~
+~
+0 -1 26036
+D1
+~
+~
+0 -1 26038
+D2
+~
+~
+0 -1 26041
+D3
+~
+~
+0 -1 26035
+X4194306
+Z3
+C-1
+R0
+S
+#26044
+{BO,WH}The Unforgiving Cold {bo,wh}~
+{C}
+    The winds wail and shapes move within them now. It's as if
+ the snow and wind formed some evil partnership to become one 
+ being.
+   The winds pick up and howl petulantly, full of snow, choking
+ you. Snow drifts sweep across your path, rearing up as living
+ things, full of menace and closing in...
+   But do not stray from your course now, for snow is all
+ around, one false move and you may never find the path again.
+{c}
+~
+260 16544 4
+D0
+~
+~
+0 -1 26045
+D2
+~
+~
+0 -1 26043
+X4194314
+Z3
+C-1
+R0
+S
+#26045
+{BO,WH}The Unforgiving Cold {bo,wh}~
+{C}
+    The winds wail and shapes move within them now. It's as if
+ the snow and wind formed some evil partnership to become one 
+ being.
+   The winds pick up and howl petulantly, full of snow, choking
+ you. Snow drifts sweep across your path, rearing up as living
+ things, full of menace and closing in...
+   But do not stray from your course now, for snow is all
+ around, one false move and you may never find the path again.
+{c}
+~
+260 16545 4
+D0
+~
+~
+0 -1 26046
+X4194314
+Z3
+C-1
+R0
+S
+#26046
+{BO,WH}The Unforgiving Cold {bo,wh}~
+{C}
+    The winds wail and shapes move within them now. It's as if
+ the snow and wind formed some evil partnership to become one 
+ being.
+   The winds pick up and howl petulantly, full of snow, choking
+ you. Snow drifts sweep across your path, rearing up as living
+ things, full of menace and closing in...
+   But do not stray from your course now, for snow is all
+ around, one false move and you may never find the path again.
+{c}
+~
+260 16545 4
+D0
+~
+~
+0 -1 26048
+D2
+~
+~
+0 -1 26043
+X4194314
+Z3
+C-1
+R0
+S
+#26047
+{BO}{WH} The Winterwaste {wh}{bo}~
+{C}
+    The path stretches like a silver ribbon before the eyes of
+ magic, though to others this is nothing more than cold wasteland,
+ trackless and unmarked. No trees ever grew here, or else they are
+ buried in snowdrifts. There are no landmarks, nothing to break
+ the wind's force in any direction until you reach Darkenkeep. 
+{c}
+~
+260 1065125 9
+D1
+~
+~
+0 -1 26044
+D3
+~
+~
+0 -1 26032
+X4194306
+Z3
+C-1
+R0
+S
+#26048
+{BO,WH}The Unforgiving Cold {bo,wh}~
+{C}
+    The winds wail and shapes move within them now. It's as if
+ the snow and wind formed some evil partnership to become one 
+ being.
+   The winds pick up and howl petulantly, full of snow, choking
+ you. Snow drifts sweep across your path, rearing up as living
+ things, full of menace and closing in...
+   But do not stray from your course now, for snow is all
+ around, one false move and you may never find the path again.
+{c}
+~
+260 1065121 4
+D1
+~
+~
+0 -1 26049
+X4194306
+Z3
+C-1
+R0
+S
+#26049
+{bo,W}Needles of Death{bo,w}~
+{C}
+   The snow had been dry and stinging. But now it has turned
+ wet, and clings to face and clothes. Its weight has increased
+ rapidly. You have to surge forward with tremendous effort now.
+    In a flash, ice needles begin flaying your face to the bone.
+ The pain from their relentless, tearing, and piercing is the 
+ only feeling you have left, the rest of your body seems to have
+ went completely numb.
+{c}
+~
+260 1064 0
+D0
+~
+~
+0 -1 26050
+D3
+~
+~
+0 -1 26043
+X4194314
+Z3
+C-1
+R0
+S
+#26050
+{BO,WH} A Clear Path {bo,wh}~
+{Y}
+  Strange, but the wind and snow seems to have ceased. The air is
+ still and barely frosty. The ground appears to be clearer now,
+ only wind-battered stone remains, with little ripples of snow
+ wind-spread across it.
+    And the path! It spreads from your feet straight as a flung
+ dagger, wide as a doorway, to the Gates.. and beyond, Darkenkeep.
+ It seems to call to you.
+{y}
+~
+260 33 4
+D0
+~
+~
+0 -1 26051
+Z3
+C-1
+R0
+S
+#26051
+{CY,BO} The Gates of Darkenkeep {cy,bo}~
+{CYAN}
+    Its shape is that of a great fanged mouth, rimmed with teeth
+ of ice. At the sides, the ice forms mighty columns, thick as a 
+ man, higher than trees. Icicles hang down from the roof also,
+ dripping watery venom down onto the pitted snow. A gust of wind
+ whistles by, sounding like mocking laughter, and there comes a
+ tinkling from inside, as if part of the vast roof just fell in.
+{cyan}
+~
+260 33 4
+D0
+{Y}You see a massive oaken door with a golded lock.
+Perhaps with a nice daggar you could pick the lock.
+You wouldnt want to damage the lock though, mabe a 
+dagger made of similar material would be best.{y}
+
+~
+Gates~
+2 2603 26052
+X6291464
+Z3
+C-1
+R0
+S
+#26052
+{BO,CY} Entering.. {bo,cy}~
+{C}
+    Within, the ice pillars continue for some way, in double
+ rows, only their varying thickness ruining their semblance
+ to a king's throne hall. The baleful chill emanating from
+ them prompt you to pull your cloak tighter about you.. makes
+ you wish you had a were back at home by a warm fire.
+{c}
+~
+260 33 0
+D2
+~
+Gates~
+1 -1 26051
+D5
+~
+~
+0 -1 26053
+X4194312
+Z3
+C-1
+R0
+S
+#26053
+{CY,BO} The Halls of Darkenkeep {cy,bo}~
+{CYAN}
+  Few details are visible, but the place seems to be warren
+ of tunnels and archways. You sense many doorways, some quite 
+ large, none very small, opening off the main way. Icy blasts
+ issue from them, and sometimes ghastly smells. The caverns
+ are huge and spacious, every sound made is amplified down the
+ numerous and ever widening hallways. 
+{cyan}
+~
+260 33 0
+D0
+~
+~
+0 -1 26054
+D1
+~
+~
+0 -1 26055
+D3
+~
+~
+0 -1 26086
+X4194312
+Z3
+C-1
+R0
+S
+#26054
+{BO,C}A Drafty Corridor{bo,c}~
+{BO,C}
+                                    (`-.
+                                     \  ` 
+       {W} /){C}         ,   '--.           \    `
+       {W}//{C}     , '          \/          \   `   `   
+      {W}//{C}    ,'              ./         /\    \>- `   ,----------.
+    {W} ( \ {C} ,'   {W} .-.-,_ {C}       /      ,' /\    \   . `            `.
+     {W} \ \{C}'     {W}/>--< .){C}       ./   ,'  /  \     .      `           `.
+      {W} \ `{C}   -{{W}/    \ .){C}        / /   / ,' \       `     `-----. 
+        \    <\     {W} ) {W}:)     {C}  ./   /,' ,' \        `.  /\)    `.    \
+        >^,  //    {W} /..:){C}       /   //--'    \         `(         )    )
+         | ,'/    {W} /. .:){C}      /   (/         \          \       /    /
+         ( |(_   {W} (...::){C}     (                \       .-.\     /   ,'
+         (O| /    {W} \:.::)                      /{C}\    ,'   \)   /  ,'
+          \|/      /{W}`.:::)                   ,/ {C} \  /         (  /
+~
+260 35 0
+X4194304
+Z3
+C-1
+R0
+S
+#26055
+{BO,C}A Smelly Corridor{bo,c}~
+{BO,C}
+                                    (`-.
+                                     \  ` 
+       {W} /){C}         ,   '--.           \    `
+       {W}//{C}     , '          \/          \   `   `   
+      {W}//{C}    ,'              ./         /\    \>- `   ,----------.
+    {W} ( \ {C} ,'   {W} .-.-,_ {C}       /      ,' /\    \   . `            `.
+     {W} \ \{C}'     {W}/>--< .){C}       ./   ,'  /  \     .      `           `.
+      {W} \ `{C}   -{{W}/    \ .){C}        / /   / ,' \       `     `-----. 
+        \    <\     {W} ) {W}:)     {C}  ./   /,' ,' \        `.  /\)    `.    \
+        >^,  //    {W} /..:){C}       /   //--'    \         `(         )    )
+         | ,'/    {W} /. .:){C}      /   (/         \          \       /    /
+         ( |(_   {W} (...::){C}     (                \       .-.\     /   ,'
+         (O| /    {W} \:.::)                      /{C}\    ,'   \)   /  ,'
+          \|/      /{W}`.:::)                   ,/ {C} \  /         (  /
+~
+260 35 0
+X4194304
+Z3
+C-1
+R0
+S
+#26056
+{BO,C}An Icy Corridor{bo,c}~
+   {C}    You gaze upon a large pillar of clear ice. Trapped within,
+ like a fly inside amber, is a man. He is clad in silver armor
+ chased with moon crescents, stars and rainbows. There is a 
+ bursting sun picked out in gold upon his sable cape. His face
+ is high-boned and noble. His brows level and strong. His beard
+ is spun of finest gold. He holds an opal-hilted sword before him
+ in the first guard position, warding off some unseen terror.
+ Most notable is the look of absolute fear forever frozen on the
+ strangers face.
+  {bo,W} A message has been etched in the ice near the base of the figure.
+ {c}
+~
+260 161 0
+D3
+~
+~
+0 -1 26057
+E
+message~
+{C}
+ You young fool.. You may have made it this far, but you'll
+never make it out alive.
+
+    Nimir
+{c}
+~
+X8
+Z3
+C-1
+R0
+S
+#26057
+{CY,BO} Dangerous Crossings {cy,bo}~
+{CYAN}
+   The path leads you on, sometimes straight for long stretches,
+ then rising to cross slender bridges of ice. The bridges span
+ chasms toothed with spear-tall icicles, and you feel certain
+ that they intend to give way just as you try to cross.
+{cyan}
+~
+260 33 0
+D0
+~
+~
+0 -1 26059
+D1
+~
+~
+0 -1 26056
+X4194312
+Z3
+C-1
+R0
+S
+#26058
+{CY,BO} Dangerous Crossings {cy,bo}~
+{CYAN}
+   As you step out onto the ice your worst fears become reality.
+ the bridge gives way and you plummet to your death..
+{cyan}
+~
+260 1048609 0
+D3
+~
+~
+0 -1 26060
+X10
+Z3
+C-1
+R0
+S
+#26059
+{CY,BO} Dangerous Crossings {cy,bo}~
+{CYAN}
+   The path leads you on, sometimes straight for long stretches,
+ then rising to cross slender bridges of ice. The bridges span
+ chasms toothed with spear-tall icicles, and you feel certain
+ that they intend to give way just as you try to cross.
+{cyan}
+~
+260 1048609 0
+D1
+~
+~
+0 -1 26058
+D3
+~
+~
+0 -1 26061
+X4194312
+Z3
+C-1
+R0
+S
+#26060
+{BO,C}Bottom of the Chasm{bo,c}~
+{C}
+   You fall head first into the ice, but manage to keep yourself
+ from being impaled on the way down. Or did you? You suddenly feel
+ a sharp pain, and look up to see that you broke some of the ice
+ on the way down, and now you are being torn, and pierced, by sharp
+ shards of icy pain.
+{c}
+~
+260 33 0
+D3
+~
+~
+0 -1 26061
+X8
+Z3
+C-1
+R0
+S
+#26061
+{BO,BLU} Deeper .. Colder {bo,blu}~
+{C}
+   Now that you are across the chasm, the air seems to have 
+ grown colder. You shiver and pull your robe tighter around
+ youself and wonder.. how much colder could it possibly get? 
+{c}
+~
+260 33 0
+D5
+~
+~
+0 -1 26062
+X4194312
+Z3
+C-1
+R0
+S
+#26062
+{BO,BLU} Slippery Ice {bo,blu}~
+{CYAN}
+   You walk mostly in silence now. The roof is low, and the walls
+ draw close. The floor is treacherous, its surface slushy, its
+ base unyielding ice. It seems as if its sole design and purpose
+ is for promoting nasty falls, since the walls are close enough 
+ to bruise oneself against effortlessly but are too smooth to 
+ offer any type of handholds. You find yourself constantly lying
+ on the cold ice with a new bruise each time.
+{cyan}
+~
+260 16545 0
+D0
+~
+~
+0 -1 26064
+D3
+~
+~
+0 -1 26065
+D4
+~
+~
+0 -1 26061
+D5
+~
+~
+0 -1 26063
+X4194312
+Z3
+C-1
+R0
+S
+#26063
+{BO,BLU} Slippery Ice {bo,blu}~
+{CYAN}
+   You walk mostly in silence now. The roof is low, and the walls
+ draw close. The floor is treacherous, its surface slushy, its
+ base unyielding ice. It seems as if its sole design and purpose
+ is for promoting nasty falls, since the walls are close enough 
+ to bruise oneself against effortlessly but are too smooth to 
+ offer any type of handholds. You find yourself constantly lying
+ on the cold ice with a new bruise each time.
+{cyan}
+~
+260 1065121 0
+D0
+~
+~
+0 -1 26067
+D5
+~
+~
+0 -1 26066
+Z3
+C-1
+R0
+S
+#26064
+{BO,BLU} Slippery Ice {bo,blu}~
+{CYAN}
+   You walk mostly in silence now. The roof is low, and the walls
+ draw close. The floor is treacherous, its surface slushy, its
+ base unyielding ice. It seems as if its sole design and purpose
+ is for promoting nasty falls, since the walls are close enough 
+ to bruise oneself against effortlessly but are too smooth to 
+ offer any type of handholds. You find yourself constantly lying
+ on the cold ice with a new bruise each time.
+{cyan}
+~
+260 1065121 0
+D3
+~
+~
+0 -1 26067
+D5
+~
+~
+0 -1 26063
+Z3
+C-1
+R0
+S
+#26065
+{BO,BLU} Slippery Ice {bo,blu}~
+{CYAN}
+   You walk mostly in silence now. The roof is low, and the walls
+ draw close. The floor is treacherous, its surface slushy, its
+ base unyielding ice. It seems as if its sole design and purpose
+ is for promoting nasty falls, since the walls are close enough 
+ to bruise oneself against effortlessly but are too smooth to 
+ offer any type of handholds. You find yourself constantly lying
+ on the cold ice with a new bruise each time.
+{cyan}
+~
+260 1065121 0
+D3
+~
+~
+0 -1 26066
+D5
+~
+~
+0 -1 26068
+Z3
+C-1
+R0
+S
+#26066
+{BO,BLU} Slippery Ice {bo,blu}~
+{CYAN}
+   You walk mostly in silence now. The roof is low, and the walls
+ draw close. The floor is treacherous, its surface slushy, its
+ base unyielding ice. It seems as if its sole design and purpose
+ is for promoting nasty falls, since the walls are close enough 
+ to bruise oneself against effortlessly but are too smooth to 
+ offer any type of handholds. You find yourself constantly lying
+ on the cold ice with a new bruise each time.
+{cyan}
+~
+260 1065121 0
+D3
+~
+~
+0 -1 26063
+D5
+~
+~
+0 -1 26065
+Z3
+C-1
+R0
+S
+#26067
+{BO,BLU} Slippery Ice {bo,blu}~
+{CYAN}
+   You walk mostly in silence now. The roof is low, and the walls
+ draw close. The floor is treacherous, its surface slushy, its
+ base unyielding ice. It seems as if its sole design and purpose
+ is for promoting nasty falls, since the walls are close enough 
+ to bruise oneself against effortlessly but are too smooth to 
+ offer any type of handholds. You find yourself constantly lying
+ on the cold ice with a new bruise each time.
+{cyan}
+~
+260 16417 0
+D0
+~
+~
+0 -1 26069
+D5
+~
+~
+0 -1 26064
+X4194312
+Z3
+C-1
+R0
+S
+#26068
+{BO,BLU} Slippery Ice {bo,blu}~
+{CYAN}
+   You walk mostly in silence now. The roof is low, and the walls
+ draw close. The floor is treacherous, its surface slushy, its
+ base unyielding ice. It seems as if its sole design and purpose
+ is for promoting nasty falls, since the walls are close enough 
+ to bruise oneself against effortlessly but are too smooth to 
+ offer any type of handholds. You find yourself constantly lying
+ on the cold ice with a new bruise each time.
+{cyan}
+~
+260 16417 0
+D0
+~
+~
+0 -1 26065
+D5
+~
+~
+0 -1 26069
+X4194312
+Z3
+C-1
+R0
+S
+#26069
+{BO,BLU} Slippery Ice {bo,blu}~
+{CYAN}
+   You walk mostly in silence now. The roof is low, and the walls
+ draw close. The floor is treacherous, its surface slushy, its
+ base unyielding ice. It seems as if its sole design and purpose
+ is for promoting nasty falls, since the walls are close enough 
+ to bruise oneself against effortlessly but are too smooth to 
+ offer any type of handholds. You find yourself constantly lying
+ on the cold ice with a new bruise each time.
+{cyan}
+~
+260 16417 0
+D0
+~
+~
+0 -1 26070
+D3
+~
+~
+0 -1 26065
+X4194312
+Z3
+C-1
+R0
+S
+#26070
+{BO,BLU} Slippery Ice {bo,blu}~
+{CYAN}
+   You walk mostly in silence now. The roof is low, and the walls
+ draw close. The floor is treacherous, its surface slushy, its
+ base unyielding ice. It seems as if its sole design and purpose
+ is for promoting nasty falls, since the walls are close enough 
+ to bruise oneself against effortlessly but are too smooth to 
+ offer any type of handholds. You find yourself constantly lying
+ on the cold ice with a new bruise each time.
+{cyan}
+~
+260 16417 0
+D1
+~
+~
+0 -1 26071
+D2
+~
+~
+0 -1 26069
+X4194312
+Z3
+C-1
+R0
+S
+#26071
+{BO,BLU} Opening to an Underground Cavern {bo,blu}~
+{BO,C}
+   After receiving many new bumps and bruises, and using an 
+ equally new profanity for each one received, you finally seem 
+ to be regaining your footing. The ground has finally begun to
+ level out a bit. A more solid ice has begun to build up under
+ your feet. Appears as if some ancient underground stream has
+ frozen in the full course of its flow.
+   It looks as though the tunnel is widening out ahead of you.
+{c}
+~
+260 33 0
+D0
+~
+~
+0 -1 26072
+D3
+~
+~
+0 -1 26070
+X4194304
+Z3
+C-1
+R0
+S
+#26072
+{BO,BLU}The Base of An Icy Cliff{bo,blu}~
+{C}
+  Upon entering the cavern, you see the source of the frozen 
+ stream. Where a stream had once burst from an opening in a
+ glacial wall, a great waterfall of solid ice now glistens.
+ White ice, shading away to near transparency, glows blue and
+ cream in spots. It rises to what seems an impossible height,
+ up into the shadows. The whole thing seems to glow dimly.
+ You can see what appears to be a hole through the waterfall,
+ near the top, between an icy overhang and the jagged ceiling.
+   Between you and the hole.. a hundred foot sheer cliff of
+ slippery, jagged ice. The cliff also hides many other dangers
+ and obstacles. As if the cliff isn't enough of an obstacle!
+{c}
+~
+260 33 0
+D4
+~
+~
+0 -1 26087
+X4194312
+Z3
+C-1
+R0
+S
+#26073
+{BO,BL}Darkness {bo,bl}~
+{B}
+   Upon entering the hole the path begins to once again run
+ downward. As you advance onward, the air has grown dark.
+ It is impossible to see any distance in front of you, and 
+ you begin stumbling into walls that remain unseen until the
+ last painful moment.
+   The magical path on the ground is still clear enough, so 
+ you can only conclude that there is something in the air
+ itself which clouds the sight and makes the place seem so
+ dark. By paying the closest attention to the ground you find
+ you are able to proceed. You just proceed slowly...
+{b}
+~
+260 33 0
+D5
+~
+path~
+7 2051 26074
+X4194432
+Z3
+C-1
+R0
+S
+#26074
+{bo,WH}A Lighted Chamber{bo,wh}~
+{CYAN}
+   You abruptly enter a large chamber, lit by a great radiance at
+ its end.
+   Could it... already? But where were all the hazards? The great
+ perils that were promised? The tricks and traps?
+ 
+{cyan}
+~
+260 33 0
+D4
+~
+path~
+1 -1 26073
+D5
+~
+~
+0 -1 26095
+X4194440
+Z3
+C-1
+R0
+S
+#26075
+{MAGENTA} A dusty dirt road {magenta}~
+{C}
+   You walk many miles trying to catch the carnival, but are always
+ just a little behind it. The only sign that you are on the right
+ path are the remnants of festivities you see every so often along 
+ the way... a few paper streamers, flattened patches of grass along
+ the town proper, and small bits and scraps of food lying along the
+ roadway.
+{c}
+~
+260 65537 4
+D1
+~
+~
+0 -1 26007
+D3
+~
+~
+0 -1 26006
+X2097160
+Z3
+C-1
+R0
+S
+#26076
+{MAGENTA} Admission {mag}~
+{CYAN}
+   You have arrived at the entrance to the small carnival. A 
+ man wearing a checkered shirt, who faintly reminds you of a 
+ lumberjack is here collecting admission for the carnival. You
+ doubt he could be persuaded to just let you pass.
+ 
+{cyan}
+~
+260 5 4
+D0
+~
+~
+0 -1 26077
+D2
+~
+~
+0 -1 26007
+X2097152
+Z3
+C-1
+R0
+S
+#26077
+{MAGENTA}A bustling street of activity {mag}~
+{C}
+   Upon entering the carnival you are surprised at how much
+ larger it seems to be. From outside it seemed much smaller.
+ You stroll casually past piles of foodstuffs trying to quiet
+ your rumbling belly. Many peddlers are here trying to sell
+ various foods, herbs and potions.
+{c}
+~
+260 1 4
+D0
+{C}
+  You see a large chain liked gate that covers the path that
+ leads behind the tents, that make up the booths. There's a
+ large sign hanging to the right of the gate.
+{c}
+~
+gate~
+2 26016 26090
+D1
+~
+~
+0 -1 26079
+D2
+~
+~
+0 -1 26076
+D3
+~
+~
+0 -1 26078
+E
+sign~
+                    *Warning*
+      This area is off limits for your own safety!
+      Those who enter, do so at their own risk!! 
+
+                   Management
+~
+X2097176
+Z3
+C-1
+R0
+S
+#26078
+{MAGENTA}A bustling street of activity {mag}~
+{CYAN}
+   You stroll casually past piles of foodstuffs trying to quiet
+ your rumbling belly. Many peddlers are here trying to sell their
+ varying foods, herbs and potions. You somehow sense that your 
+ money would be of little use in such a strange land.
+  
+ 
+{cyan}
+~
+260 1 4
+D1
+~
+~
+0 -1 26077
+D3
+~
+~
+0 -1 26080
+X2097176
+Z3
+C-1
+R0
+S
+#26079
+{MAGENTA}A bustling street of activity {mag}~
+{CYAN}
+   You stroll casually past piles of foodstuffs trying to quiet
+ your rumbling belly. Many peddlers are here trying to sell their
+ varying foods, herbs and potions. You somehow sense that your 
+ money would be of little use in such a strange land.
+  
+ 
+{cyan}
+~
+260 1 4
+D1
+~
+~
+0 -1 26081
+D3
+~
+~
+0 -1 26077
+X2097176
+Z3
+C-1
+R0
+S
+#26080
+{MAGENTA}A bustling street of activity {mag}~
+{CYAN}
+   You stroll casually past piles of foodstuffs trying to quiet
+ your rumbling belly. Many peddlers are here trying to sell their
+ varying foods, herbs and potions. You somehow sense that your 
+ money would be of little use in such a strange land.
+  
+ 
+{cyan}
+~
+260 1 4
+D0
+A musty old curtain hangs here. It glows faintly.
+~
+curtain~
+8 26009 26082
+D1
+~
+~
+0 -1 26078
+X2097176
+Z3
+C-1
+R0
+S
+#26081
+{MAGENTA}A bustling street of activity {mag}~
+{CYAN}
+   You stroll casually past piles of foodstuffs trying to quiet
+ your rumbling belly. Many peddlers are here trying to sell their
+ varying foods, herbs and potions. You somehow sense that your 
+ money would be of little use in such a strange land.
+  
+ 
+{cyan}
+~
+260 1 4
+D0
+~
+~
+0 -1 26084
+D3
+~
+~
+0 -1 26079
+X2097176
+Z3
+C-1
+R0
+S
+#26082
+{BO,GR}A musty booth{bo,gr}~
+{C}
+  You walk into a small booth on the outer edge of the carnival.
+ Various scrolls and books are stacked all along the walls. The
+ place has a musty odor, and the lighting is dim. You see a man
+ sitting in a small work-desk in one far corner of the room.
+{c}
+~
+260 140 1
+D2
+~
+curtain~
+1 -1 26080
+X8
+Z3
+C-1
+R0
+S
+#26083
+{MAGENTA} A dusty dirt road {magenta}~
+{C}
+   You walk many miles trying to catch the carnival, but are always
+ just a little behind it. The only sign that you are on the right
+ path are the remnants of festivities you see every so often along 
+ the way... a few paper streamers, flattened patches of grass along
+ the town proper, and small bits and scraps of food lying along the
+ roadway.
+{c}
+~
+260 65537 4
+D1
+~
+~
+0 -1 26004
+D3
+~
+~
+0 -1 26005
+X2097176
+Z3
+C-1
+R0
+S
+#26084
+{MAGENTA}A bustling street of activity {mag}~
+{CYAN}
+   You stroll casually past piles of foodstuffs trying to quiet
+ your rumbling belly. Many peddlers are here trying to sell their
+ varying foods, herbs and potions. You somehow sense that your 
+ money would be of little use in such a strange land.
+  
+ 
+{cyan}
+~
+260 5 4
+D0
+~
+~
+0 -1 26008
+D1
+~
+~
+0 -1 26094
+D2
+~
+~
+0 -1 26081
+X2097176
+Z3
+C-1
+R0
+S
+#26085
+{M}A Path Between Tents{ma}~
+{C}
+   You are on a winding path around the many tents that are
+ set up here today. The tents shadow the area around you and
+ make it rather difficult to see. You feel a bit vulnerable
+ standing here. Best watch your back...
+{c}
+~
+260 129 4
+D2
+~
+~
+0 -1 26090
+D3
+~
+~
+0 -1 26089
+X2097176
+Z3
+C-1
+R0
+S
+#26086
+{BO,C}An Icy Corridor{bo,c}~
+{C}
+   After perhaps a half a mile or so of wandering through the 
+ large caverns the path bends left into a small icy corridor.
+ From here you can see that the path bends on down to your
+ left, past a great column of ice, then down out of sight.
+{c}
+~
+260 131 9
+D3
+~
+~
+0 -1 26056
+X4194328
+Z3
+C-1
+R0
+S
+#26087
+{BO,BLU}Up the Jagged Ice{bo,blu}~
+{C}
+  The slope seems to grow more deceptive as you near the top, growing
+ both steeper and slicker as you climb. Progress is slow, you pause
+ continuously to hack out shallow handholds in the ice.
+{c}
+~
+260 389 4
+D4
+{C}
+  As you peer up the wall, you can see a large slab of ice that
+ you couldn't see from the ground below. It overhangs the cliff
+ below you.. you can make out some sort of crevice on the ice
+ near the wall.
+{c}
+~
+Slab~
+4 26026 26088
+D5
+~
+~
+0 -1 26072
+T26072
+X6291608
+Z3
+C2
+R0
+S
+#26088
+{BO,BLU}Near the Top of the Icy Cliff{bo,blu}~
+{C}
+  After great difficulty you find yourself hanging just below
+ the small hole you saw from below. Now if you could just swing 
+ yourself up, and into it, without falling...
+{c}
+~
+260 385 4
+D4
+~
+~
+0 -1 26073
+D5
+~
+Slab~
+1 -1 26087
+E
+up~
+{C}
+  You see a small hole between the ceiling and the cliff wall..
+{c}
+~
+T26072
+X6291608
+Z3
+C2
+R0
+S
+#26089
+{MA}A Dead End{ma}~
+{C}
+   To your surprise the path has been halted because the area 
+ ahead is full of tents. As you turn back around to backtrack
+ your way, a tall cloaked figure steps out of the shadows. You
+ see a glint of light as he pulls a dagger on you, and snarls,
+ 'Going so soon?'
+{c}
+~
+260 129 4
+D1
+~
+~
+0 -1 26085
+X2097176
+Z3
+C-1
+R0
+S
+#26090
+{MAG}Fear of the unknown...{mag}~
+{C}
+   You are between two large carnival tents. There appears to
+ only be enough room here for two people to pass through. The
+ area ahead is hidden by another small tent up to your right.
+ You sense darkness, and an eerie feeling that something bad
+ is about to happen.
+   Your stomach tightens as you ponder your next move...
+{c}
+~
+260 16389 4
+D0
+~
+~
+0 -1 26085
+D2
+~
+gate~
+1 -1 26077
+X6291480
+Z3
+C2
+R0
+S
+#26091
+{bo,R}Disaster Strikes!{bo,r}~
+{C}
+  As you stumble through the opening you brush the edge of the wall,
+ which sends about a ton of bricks crashing down.. right on top of
+ you.
+   Ouch! This is going to hurt!
+{c}
+~
+260 129 1
+X12
+Z3
+C-1
+R0
+S
+#26092
+{R}Castle Lassair{r}~
+{C}
+  You find yourself inside the crumpled halls of Castle Lassair.
+ It seems cramped and oddly still inside here. Mold and dust cling
+ to the walls in places, undoubtedly it has been quite a while
+ since the place has had a good cleaning. But, there's little time
+ for such things when in the midst of a constant threat of battle.
+   The hallway stretches to the east, where it ends at a large
+ wooden door.
+{c}
+~
+260 1 4
+D1
+~
+~
+0 -1 26093
+X8
+Z3
+C-1
+R0
+S
+#26093
+{R}Castle Lassair{r}~
+{C}
+  It seems cramped and oddly still inside here, mold and dust
+ cling to the walls in places, undoubtedly has been quite a while
+ since the place has had a good cleaning. But, there's little time
+ for such things when in the midst of a constant threat of battle.
+   A large wooden door stands firm to the east. The smell of food
+ seems to come from the room behind it.
+{c}
+~
+260 129 4
+D1
+{C}
+This door seems to have been made from large oaken timbers. You
+can't seem to spot any lock. A dwarven axe sure would come in 
+handy right now...
+{c}
+~
+wooden~
+4 6509 26030
+D3
+~
+~
+0 -1 26092
+X6291464
+Z3
+C-1
+R0
+S
+#26094
+{M}The Food Vendor's Stand{m}~
+{C}
+   You are overwhelmed by the smell of food as you approach
+ this small stand. Your stomach growls, reminding you of how
+ hungry you are, and you can't help but take a closer look...
+   The man behind the counter seems to be busy making up some
+ concoction for the skinny guy he's waiting on...
+{c}
+~
+260 1 4
+D3
+~
+~
+0 -1 26084
+X2097176
+Z3
+C-1
+R0
+S
+#26095
+{bo,WH}A Lighted Chamber{bo,wh}~
+{BO,BLA}
+   You should have kept your thoughts shut...
+{bo,bla}
+~
+260 1048609 0
+D2
+~
+~
+0 -1 26096
+X6291584
+Z3
+C-1
+R0
+S
+#26096
+{bo,WH}A Lighted Chamber{bo,wh}~
+{CYAN}
+   A slithering sound comes, as you stand wondering, a dragging
+ that grinds the very rocks beneath Darkenkeep. A sound such as
+ a glacier might make in moving, but two hundred times faster.
+ A blur of movement comes out of the light...
+  
+{cyan}
+~
+260 37 0
+D0
+~
+~
+0 -1 26097
+D4
+{C}
+  The path to safety is well hidden.
+{c}
+~
+door~
+4 26001 2011
+X274731150
+Z3
+C-1
+R0
+S
+#26097
+{bo,WH}A Lighted Chamber{bo,wh}~
+{bo,WH}
+   The source of the light centers upon a table of solid crystal
+ on it lies a maiden, robed in white. White? She is clothed in the
+ light itself! The light comes from her hands, streaming up in rays
+ of brilliant light.
+   Finally! You have found the beloved Allaire!
+     
+{bo,wh}
+~
+260 161 0
+D2
+~
+~
+0 -1 26096
+X6291592
+Z3
+C-1
+R0
+S
+#26098
+{bo,R}Approaching Castle Lassair{bo,r}~
+{C}
+    You reach Lassair just around nightfall. For the past hour the
+ ground has been growing steadily more desolate. Current wars have 
+ stripped it barer than usual, and the fighting here has been much
+ more recent. Polassar holds claim to a poor land now, though once
+ it was vast and fruitful.
+{c}
+~
+260 5 4
+D2
+~
+~
+0 -1 26027
+D4
+~
+~
+0 -1 26028
+X8
+Z3
+C-1
+R0
+S
+#26099
+{BOLD}{BLUE}B{CYAN}u{BLUE}z{CYAN}z{BLUE}'{CYAN}s {BLUE}A{CYAN}i{BLUE}r{CYAN}l{BLUE}o{CYAN}c{BLUE}k~
+{bo,W}
+                            .oXXXXXXXXXXXXXXXXXXo.
+                          .oXXXXX/XXXXXXXX\XXXXXXXo.
+                         /XXXXXX-\XXXXXXXX/-XXXXXXXx\
+                        dXXXXXX/XX\XXXXXX/XX\XXXXXXXXb
+                       XXXXXXXXXXXX\XXXX/XXXXXXXXXXXXX   
+                       XXX'/   `OO8bXXXd8OO'   \`XXXXX
+                       9XX'   {R}+{W}    `98v8P'   {R}+{W}   `XXP' 
+                        9X.        .db|db.        .XP
+                         )b. .dbo.dP'`v'`9b.odb. .dX(
+                        dXXXXXXXXXXb     dXXXXXXXXXXb.
+                       dXXXXXXXXXP'   .   `9XXXXXXXXXb
+                      dXXXXXXXXXXb   d|b   dXXXXXXXXXXb
+                      9Xb'  `XXXXXb.dX|Xb.dXXXXX'  `dXP
+                      `'     9XXXXXX(   )XXXXXXP     `'
+                              XXXX X.`N'.X XXXX
+                              XP^X'`O   0'`X^XX
+                              X. R  `   '  9 )X
+                              `K  `       '  7'
+~
+260 196608 0
+X4
+Z3
+C0
+R0
+S
+$~

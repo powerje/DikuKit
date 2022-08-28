@@ -1,0 +1,637 @@
+#44300
+sign welcome ncmud~
+{GREEN}Welcoming Sign{g}~
+{W,BO}A Large {REVERSE}{Y}SIGN{b} stands {R}tall{b} on the {M}mountain. {REVERSE}{YELLOW}LOOK AT THIS SIGN!{b}~
+~
+16 0 0 1
+0 0 0 0
+4788 5000 1000
+E
+sign welcome ncmud~
+
+{GREEN} Welcome to NCmud. I assume that if you are reading
+{GREEN} this it means you are new. To begin your journey
+{GREEN} go north. You will learn many things such as
+{GREEN} how to attack people, level, and use the
+{GREEN} many facilities scattered throughout the mud.
+
+{GREEN} All of us here at NC hope you enjoy your stay,
+{GREEN} good mudding.
+
+~
+#44301
+manual handbook book~
+{BO,BLU}An NC handbook,{W} type: {BLU}exa book{bo}~
+An {BO,R}+{W}NC{R}+ {Y}HANDBOOK{bo} is resting here on a large wooden table.{bo}~
+~
+16 0 0 16385
+0 0 0 0
+1 1 1
+E
+page1~
+
+{M}  To read these pages type:  look #     For example:  look 01
+{M}  
+{M}    01{m} {CYAN}Getting Started
+{M}    02{m} {CYAN}Directions
+{M}    03{m} {CYAN}Exits and Auto Features
+{M}    04{m} {CYAN}Cursor Prompts
+{M}    05{M}{CYAN} Communicating
+{M}    06{M}{CYAN} Social Skills
+{M}    07{M}{CYAN} Maps
+{M}    08{M}{CYAN} Score Attribute Inventory
+{M}    09{M}{CYAN} Stats
+{M}    10{M}{CYAN} Skills{c}
+
+~
+E
+manual handbook book~
+
+{W}  Here in your hand you see a beautifully crafted book with decorative leather
+{W}  protecting its outer surface.  A tarnished brass plate reads "LOOK INTRODUCTION"
+{W}  and as you touch it, you can feel the source of knowledge pulsate in your
+{W}  hands.
+{W}    Type: LOOK INTRODUCTION{w}
+
+~
+E
+intro~
+
+{R}  Welcome young adventurer. Within the pages of this handbook is the
+{R}  knowledge you will need to be a great Warrior, cunning Thief, wise Mage
+{R}  or holy Cleric. As a new player you will need to learn the same skills
+{R}  and arts as our legendary heroes learned. May the immortals smile on you.
+{R}
+{R}    Type: LOOK {BLUE}INDEX{b}
+
+~
+E
+introduction~
+
+{R}  Welcome young adventurer. Within the pages of this handbook is the
+{R}  knowledge you will need to be a great Warrior, cunning Thief, wise Mage
+{R}  or holy Cleric. As a new player you will need to learn the same skills
+{R}  and arts as our legendary heroes learned. May the immortals smile on you.
+{R} 
+{R}    Type: LOOK {BLUE}INDEX{b}
+
+~
+E
+index~
+
+{Y}***{UNDERLINE}INDEX{b}{Y}***
+{BLUE}   look {UNDERLINE}help{b}      - {CYAN}A "how to" for using NC's useful help files.
+{BLUE}   look {UNDERLINE}commands{b}  - {CYAN}A reference of commands for getting started
+{BLUE,BOLD}     Please type help rules{b}
+
+~
+E
+help~
+
+{G}  One of the most useful resources for becoming familiar with NC's
+{G}  commands is the NC help files.  The help files cover a broad range
+{G}  of topics, from basic commands, to skill information, to rules and
+{G}  other useful information.
+{G}  
+{G}   help         {b}- {CYAN}Displays a list of basic help topics
+{G}   help <topic> {b}- {CYAN}Provides additional information for using help
+{G}  
+{G}  Help (topic) is the syntax for finding information about any given
+{G}  topic.  'help look' for instances gives the different syntax for
+{G}  using the look command.  There are help files for nearly all commands,
+{G}  so be sure to try it out whenever you need help.{g}
+
+~
+E
+command commands~
+
+{Y}  At this point, you may want to turn on your basic auto
+{Y}  commands.
+{Y}
+{Y}   auto all{b}   - {CYAN}gets gold and equipment from mobs you kill.
+{Y}   auto split{b} - {CYAN}splits gold with the players in your group.
+{Y}   auto gold{b}  - {CYAN}gets any gold from the mobs you kill.
+{Y}
+{Y}  NC can be greater appreciated in colour.  Unfortunately not all
+{Y}  telnet programs support ANSI colours, so try and see if colour
+{Y}  will work for you.
+{Y}
+{Y}   colour active{b} - {CYAN}activates colour
+{Y}   colour off{b}    - {CYAN}deactivates colour
+{Y}   colour def #{b}  - {CYAN}sets a default colour scheme  (# is 1-5)
+{Y}
+{Y}  There is also an extensive list of prompts to choose from
+{Y}  to personalize your character.  Currently, there are up to
+{Y}  28 prompts to choose from, or, make your own!
+{Y}
+{Y}   prompt #{b}      - {CYAN}sets current prompt (# is 1-28){b}
+
+~
+A
+3 3
+A
+4 3
+#44302
+sign gate~
+{RED}Sign{r}~
+{WHITE,BOLD}A Large {UNDERLINE}Sign{b} {RED}stands before the gate. {UNDERLINE}{REVERSE}{RED,BOLD}LOOK AT THIS SIGN!{b}~
+~
+16 0 0 0
+0 0 0 0
+1 1 1
+E
+sign gate~
+
+{RED}  To open this gate:
+
+{RED}  1. Look north
+
+{RED}  2. Find the door name (in this case gate)
+
+{RED}  3. open <door> <direction>
+
+
+{RED}  Here you should, Open gate north.{r}
+
+~
+#44303
+sign killing~
+{BLUE}Sign{b}~
+{BLUE}A large {UNDERLINE}Sign{b} {BLUE}stands before the city {BLUE,BOLD}{REVERSE}{UNDERLINE}LOOK AT THIS SIGN!{b}~
+~
+16 0 0 0
+0 0 0 0
+1 1 1
+E
+sign killing~
+
+{BLUE}  To kill mobs there is usually an opening attack.
+{BLUE}  At advanced levels you will be able to Assassinate,
+{BLUE}  Dimmak or other cool skills. When you begin the
+{BLUE}  only way to start attacking mobs is to use the
+{BLUE}  command <kill>  EX: kill guard
+{BLUE}
+{BLUE}  There are a few mobs to the west, as well as
+{BLUE}  more mobs to the north towards the Castle
+{BLUE}  courtyard.{b}
+
+~
+E
+sign killing~
+
+{BLUE}  To kill mobs there is usually an opening attack.
+{BLUE}  At advanced levels you will be able to Assassinate,
+{BLUE}  Dimmak or other cool skills. When you begin the
+{BLUE}  only way to start attacking mobs is to use the
+{BLUE}  command <kill>  (kill <mobile> or kill qwerty)
+
+{BLUE}  There are a few mobs to the west, as well as
+{BLUE}  more mobs to the north towards the Castle
+{BLUE}  courtyard.{b}
+
+~
+#44304
+sword imperial longsword long~
+{R}::|{BO,R}middle Sword>{bo,r}~
+A long sword has been left here.~
+~
+5 8388608 0 24577
+1 5 5 3
+1 600 100
+A
+1 2
+A
+19 2
+C
+7000 3
+#44305
+bookcase shelf book bookshelf~
+{YELLOW}A bookshelf{yel}~
+{YELLOW}A chared bookshelf sits in the corner.{ye}~
+~
+15 0 0 0
+1000 5 0 0
+1 1 1
+E
+bookcase shelf book bookshelf~
+
+{YELLOW}  A bookshelf nearly destroyed by flame, sits in the corner
+{YELLOW}  seemingly fragile. You see a few scrolls and possibly a
+{YELLOW}  knife inside. You wonder if you can still open it.{yel}
+
+~
+#44306
+knife dagger~
+{YEL}oxx)={WHITE,BOLD}Dagger-----{w}~
+{WHITE,BOLD}A very sharp dagger rests on the floor.{w}~
+~
+5 2147483648 64 8193
+2 4 4 0
+2 1000 10
+E
+knife dagger~
+
+{WHITE,BOLD}   #                              #                                          
+{WHITE,BOLD}  # #     # # ### ### # #      ## ###  ## ### ###     
+{WHITE,BOLD}  ###     # # ##  #   ###      #  # # # # #   # #        
+{WHITE,BOLD}  # #      #  ### #     #     ##  # # ### #   ###        
+{WHITE,BOLD}  # #                 ###                     #
+{WHITE,BOLD}
+{WHITE,BOLD}    #                     
+{WHITE,BOLD}  ###  ## ### ### ### ### 
+{WHITE,BOLD}  # # # # # # # # ##  #   
+{WHITE,BOLD}  ### ###  ##  ## ### #   
+{WHITE,BOLD}          ### ###{w}
+~
+A
+18 3
+A
+19 3
+B
+268435456
+C
+7000 4
+#44307
+chicken food~
+{R}A piece of chicken{r}~
+{b}{Y}A piece of chicken rests here on the table.{b}~
+~
+19 0 0 1
+2 0 0 0
+1 1 1
+E
+chicken food~
+
+{R}  A yummy piece of tender chicken!{r}
+
+~
+#44308
+speech script handwriting prompt~
+{G}The Mayor's Speech{g}~
+{G,BO}The Mayor must've dropped his speech.{g}~
+~
+12 0 64 16385
+0 0 0 0
+2 25000 10000
+E
+speech script handwriting prompt~
+
+{C}  Fourscore and seven years ago our fathers brought forth
+{C}  on this continent a new nation, conceived in liberty and 
+{C}  dedicated to the proposition that all men are created equal. 
+{C}  Now we are engaged in a great civil war, testing whether that
+{C}  nation or any nation so conceived and so dedicated can long 
+{C}  endure...{c}
+
+~
+A
+5 5
+A
+25 50
+B
+67108864
+#44309
+robe priest priests~
+{WH,BO}The Priest's Robe{b}~
+{WH,BO}The Head Priest's Robe lies neatly folded on the floor.{b}~
+~
+9 0 0 1033
+12 0 0 0
+3 25000 10000
+E
+ robe priest priests~
+
+{WH,BO}  This is the Head Priest's Robe. It sits neatly
+{WH,BO}  folded on the floor. It appears to be enchanted
+{WH,BO}  with some type of holy magic.{b}
+
+~
+A
+13 50
+A
+18 5
+B
+536871040
+C
+7000 1
+#44310
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44311
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44312
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44313
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44314
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44315
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44316
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44317
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44318
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44319
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44320
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44321
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44322
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44323
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44324
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44325
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44326
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44327
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44328
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44329
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44330
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44331
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44332
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44333
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44334
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44335
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44336
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44337
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44338
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44339
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44340
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44341
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44342
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44343
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44344
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44345
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44346
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44347
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44348
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#44349
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+$~

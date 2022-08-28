@@ -1,0 +1,1260 @@
+#42300
+Before the Tower of Lansfordia~
+
+  You are standing before the Great Tower of Lansfordia.  You can't 
+  help but wonder who would have built something so big in the middle
+  of nowhere.  There is a huge gateway in the front of the tower and 
+  corpses lay scattered about it.  You approach in fear not knowing
+  what kind of horific death awaits you!!!
+
+~
+423 0 1
+D0
+You look through the gateway and can see torches on the walls and a 
+huge circle on the center of the floor.
+~
+~
+0 -1 42301
+E
+gateway~
+
+  You see a lavishly ornate gateway with pictures of skulls and swords 
+  around it.  It seems to be made of pure gold
+
+~
+Z0
+C-1
+S
+#42301
+Main Hall Inside the Gateway~
+
+  You are standing inside the first room of the almost neverending
+  tower.  On the walls are lined torches illuminating the great hall.
+  In the center of the room lies a giant {GREEN}circle{green} carved in the ground.
+  There is strange writing around the edge of it which you can't make
+  out except for a certain few words.  You look behind and wonder if
+  leaving may be the safest option for you.  Should you turn around
+  or continue on?  Only one path can be the right way the other can
+  only mean death!
+
+~
+423 0 1
+D1
+~
+~
+0 -1 42303
+D2
+~
+~
+0 -1 42300
+D3
+~
+~
+0 -1 42302
+E
+circle~
+
+  Only the {BOLD}{BLUE}Right {b}{WHITE}path can lead you to good fortunes.  
+  So choose {BOLD}{BLUE}rightly {b}{WHITE}or die a horrible death.
+
+~
+Z0
+C-1
+S
+#42302
+The Wrong Route~
+
+  Well you have chosen the left route.  As you enter you feel the floor
+  disappear from under you and you start falling into and endless pit...
+  NOT!!!
+  You land in a pit of spikes and the rip through you body.  RIP
+  You should have chosen the {BLUE}{BOLD}right{blue}{bold} route.
+
+~
+423 2 9
+Z0
+C1
+S
+#42303
+A Cooridor~
+
+  The path continues on.  There are many floors and challenges that await.
+  The rewards are great, but the perils could be many.  Take caution and
+  know that you have taken the {BLUE}{BOLD}right{blue}{bold} route.
+
+~
+423 0 1
+D0
+~
+~
+0 -1 42304
+D3
+~
+~
+0 -1 42301
+Z0
+C-1
+S
+#42304
+Another Cooridor~
+
+  You are in another cooridor.  You see torches along the wall and a room
+  down at the end.  What lies in store for you next?
+
+~
+423 0 1
+D0
+~
+~
+0 -1 42305
+D2
+~
+~
+0 -1 42303
+Z0
+C-1
+S
+#42305
+End of the Route?!?!~
+
+  You find yourself in a room.  There is only the cooridor from which you
+  came and a set of old steps leading up to the next challenge!!!
+  Better press on!!!
+
+~
+423 0 1
+D2
+~
+~
+0 -1 42304
+D4
+~
+~
+0 -1 42306
+Z0
+C-1
+S
+#42306
+Top of the stairs. {WHITE}({GREEN}{BOLD}2nd floor{WHITE}{b})~
+
+  On the second floor finally.  To the north you see what looks like an
+  old bedroom.  God only knows what you will find in there.  To the 
+  south you see yet another cooridor.
+
+~
+423 0 1
+D0
+~
+~
+0 -1 42307
+D2
+~
+~
+0 -1 42308
+D5
+~
+~
+0 -1 42305
+Z0
+C-1
+S
+#42307
+{RED}S{YELLOW}e{RED}r{YELLOW}v{RED}a{YELLOW}n{RED}t{YELLOW}'{RED}s {YELLOW}B{RED}e{YELLOW}d{RED}r{YELLOW}o{RED}o{YELLOW}m{yellow}{red}~
+
+  You enter what appears to be a servants bedroom.  There are at least 20
+  bunk beds stuffed into this timy little room leaving you to wonder how
+  awful the servants here are treated.
+
+~
+423 0 1
+D2
+~
+~
+0 -1 42306
+Z0
+C-1
+S
+#42308
+Another Cooridor~
+
+  You find yourself in another cooridor just like the ones downstairs.
+  Unlike those however there are two doors in this one... but they appear
+  to be locked.  I wonder which {YELLOW}s{RED}e{YELLOW}r{RED}v{YELLOW}a{RED}n{YELLOW}t{red}{yellow} might have the one... and where
+  one might {GREEN}find{green} the other if he or she {GREEN}looks{green} in the right place.
+
+~
+423 0 1
+D0
+~
+~
+0 -1 42306
+D2
+~
+door~
+1 42300 42309
+D3
+~
+door~
+1 42301 42311
+Z0
+C-1
+S
+#42309
+{CYAN}The Kitchen{cyan}~
+
+  You are standing in that looks to be a kitchen.  There are several
+  large stoves on one wall and on the opposite wall huge utensils and
+  pots are hung.  There is an island in the center with bowls, utensils
+  and knives ready for use for the next meal.
+
+~
+423 0 1
+D0
+~
+door~
+1 -1 42308
+D3
+~
+~
+0 -1 42310
+Z0
+C-1
+S
+#42310
+{BOLD}{RED}The {GREEN}Pantry{green}{red}{bold}~
+
+ 
+~
+423 0 1
+D1
+~
+~
+0 -1 42309
+Z0
+C-1
+S
+#42311
+{BLUE}{BOLD}The Dining Room {WHITE}{b}~
+
+  Another puzzle solved good job!!!  You have found the key and are
+  standing in an elaborate dining room.  The places around the {RED}table {WHITE}are 
+  all set with fine {BOLD}{RED}c{GREEN}h{YELLOW}i{BLUE}n{MAGENTA}a {b}{WHITE}and servants hustle around getting everything
+  ready for the next meal.
+
+~
+423 0 1
+D0
+~
+~
+0 -1 42312
+D1
+~
+door~
+1 -1 42308
+E
+table~
+
+  You seen a hand carved {YELLOW}Oak {WHITE}table that must be centuries old.
+  You admire it's craftsmanship with awe and wonder.
+
+~
+E
+china~
+
+  Laid out on the table you see some very ancient {BOLD}{RED}c{GREEN}h{YELLOW}i{BLUE}n{MAGENTA}a{b}{WHITE}.  The pictures on 
+  the ancient plates depict rulers of the past.
+
+~
+Z0
+C-1
+S
+#42312
+{WHITE}{BOLD}Stairwell {b}~
+
+  You are standing before a beautiful set of {BOLD}Ivory {b}stairs.  The banisters
+  are all shined and everything has a glimmer to it.  You wonder what is 
+  your next encounter ahead.
+
+~
+423 0 1
+D2
+~
+~
+0 -1 42311
+D4
+~
+~
+0 -1 42313
+Z0
+C-1
+S
+#42313
+{GREEN}{BOLD}Third Floor Cooridor{WHITE}{b}~
+
+  You have climbed the {BOLD}ivory {b}steps and find yourself in another cooridor.
+  At the end of this cooridor there is another hallway and surely another
+  puzzle.  You think 'oh great another challenge.'  Better move on.
+
+~
+423 0 1
+D2
+~
+~
+0 -1 42314
+D5
+~
+~
+0 -1 42312
+Z0
+C-1
+S
+#42314
+{BOLD}{BLUE}The {RED}Hallway {MAGENTA}of {CYAN}Offices {WHITE}{b}~
+
+  You are standing in a hallway that leads to other hallways that lead
+  to offices.  Some of them are open and some of them are locked.  It
+  is always best to start with the {BLUE}{BOLD}left {WHITE}{b}and work to the right.
+  Find the correct keys to fit the correct doors to move on to the next 
+  happy challenge.  You begin to wonder 'Is all of this worth it?'
+
+~
+423 0 1
+D0
+~
+~
+0 -1 42313
+D1
+~
+~
+0 -1 42315
+D2
+~
+~
+0 -1 42319
+Z0
+C-1
+S
+#42315
+{GREEN}{BOLD}Lower Offices {WHITE}{b}~
+  You are in the lower offices chamber.  To the {GREEN}{BOLD}North {b}{WHITE}is the {BOLD}{RED}J{GREEN}e{YELLOW}s{CYAN}t{MAGENTA}e{BLUE}r{WHITE}'{RED}s
+  {b}{WHITE}Office.  To the {BOLD}{YELLOW}East {b}{WHITE}is the {YELLOW}{BOLD}O{YELLOW}{b}v{YELLOW}{BOLD}e{YELLOW}{b}r{YELLOW}{BOLD}s{YELLOW}{b}e{YELLOW}{BOLD}e{YELLOW}{b}r{YELLOW}{BOLD}'{YELLOW}{b}s {WHITE}Office. To the {BOLD}{RED}South {b}{WHITE} is the
+  {BOLD}{RED}S{b}e{RED}{BOLD}c{b}r{RED}{BOLD}e{b}t{RED}{BOLD}a{b}r{RED}{BOLD}i{b}e{RED}{BOLD}'{b}s {b}{WHITE}Office.  Where to start is the next question
+
+~
+423 0 1
+D0
+~
+~
+0 -1 42316
+D1
+~
+door~
+1 42303 42317
+D2
+~
+door~
+1 42304 42318
+D3
+~
+~
+0 -1 42314
+Z0
+C-1
+S
+#42316
+{BOLD}{RED}J{GREEN}e{YELLOW}s{CYAN}t{MAGENTA}e{BLUE}r{WHITE}'{RED}s {GREEN}O{YELLOW}f{CYAN}f{MAGENTA}i{BLUE}c{WHITE}e {b}~
+
+  You have entered the {BOLD}{RED}J{GREEN}e{YELLOW}s{CYAN}t{MAGENTA}e{BLUE}r{WHITE}'{RED}s {GREEN}O{YELLOW}f{CYAN}f{MAGENTA}i{BLUE}c{WHITE}e{b}. As you walk in you see big
+  red shoes sticking out from under the desk.  He immediately stands and tries
+  to tell you about the "chicken that crossed the road."  You are suddenly filled
+  with the desire to kill him.
+
+~
+423 0 1
+D2
+~
+~
+0 -1 42315
+Z0
+C-1
+S
+#42317
+{BOLD}{YELLOW}O{GREEN}v{YELLOW}e{GREEN}r{YELLOW}s{GREEN}e{YELLOW}e{GREEN}r{YELLOW}'{GREEN}s {green}{yellow}{b}Office~
+
+  You have entered the {YELLOW}{BOLD}O{b}v{YELLOW}{BOLD}e{b}r{YELLOW}{BOLD}s{b}e{YELLOW}{BOLD}e{b}r{YELLOW}{BOLD}'{b}s Office.  
+  You see before you an older man with 
+  geay hair who is barking orders at 
+  servants through an intercom. You can 
+  tell by his posture and tone that he
+  has been doing this job for many years.
+
+~
+423 0 1
+D3
+~
+door~
+1 -1 42315
+Z0
+C-1
+S
+#42318
+{BOLD}{RED}S{WHITE}e{RED}c{WHITE}r{RED}e{WHITE}t{RED}a{WHITE}r{RED}i{WHITE}e{RED}'{WHITE}s {red}{white}{b}Office~
+
+  You enter into the {RED}{BOLD}S{b}e{RED}{BOLD}c{b}r{RED}{BOLD}e{b}t{RED}{BOLD}a{b}r{RED}{BOLD}i{b}e{RED}{BOLD}'{b}s Office
+  and see a younger lady sitting behind a
+  desk.  There are pictures of her family
+  on the wall and a poster that reads:
+  "My paycheck won't even take me home."
+  She is busy typing at the keyboard and
+  pays no attention to you.  Her desk is 
+  neat and tidy with her papers organized
+  in her in out boxes.
+  
+~
+423 0 1
+D0
+~
+door~
+1 -1 42315
+Z0
+C-1
+S
+#42319
+{YELLOW}{BOLD}Middle Offices{WHITE}{b}~
+
+  Here is the Second block of offices
+  you get to deal with.  To the {GREEN}{BOLD}East
+  {WHITE}{b}is the {GREEN}{BOLD}T{b}r{GREEN}{BOLD}e{b}a{GREEN}{BOLD}s{b}u{GREEN}{BOLD}r{b}e{GREEN}{BOLD}r{b}.  To the {RED}{BOLD}South {WHITE}{b}is
+  the {BLUE}{BOLD}A{b}d{BLUE}{BOLD}v{b}i{BLUE}{BOLD}s{b}o{BLUE}{BOLD}r{b}.  Remember you have to
+  get the right keys.
+  
+~
+423 0 1
+D0
+~
+~
+0 -1 42314
+D1
+~
+door~
+1 42305 42320
+D2
+~
+door~
+1 42306 42321
+D3
+~
+door~
+1 42307 42322
+Z0
+C-1
+S
+#42320
+{BOLD}{GREEN}T{WHITE}r{GREEN}e{WHITE}a{GREEN}s{WHITE}u{GREEN}r{WHITE}e{GREEN}r{WHITE}'{GREEN}s {green}{white}{b}Office~
+  
+  You enter the {GREEN}{BOLD}T{b}r{GREEN}{BOLD}e{b}a{GREEN}{BOLD}s{b}u{GREEN}{BOLD}r{b}e{GREEN}{BOLD}r{b}s Office.  There  
+  is money all over.  There are counting 
+  machines hard at work, and there is a 
+  man bent over them taking the stacks 
+  when they are the right amount.  He 
+  looks up at you as you wlak in and yells
+  "Get Out!!!"
+  
+~
+423 0 1
+D3
+~
+door~
+1 -1 42319
+Z0
+C-1
+S
+#42321
+{BOLD}{BLUE}A{WHITE}d{BLUE}v{WHITE}i{BLUE}s{WHITE}o{BLUE}r{WHITE}'{BLUE}s {blue}{white}{b}Office~
+  
+  You enter the Office of the {BLUE}{BOLD}A{b}d{BLUE}{BOLD}v{b}i{BLUE}{BOLD}s{b}o{BLUE}{BOLD}r{b}.
+  This is the person who advises the 
+  Lord of the tower on what action to 
+  take.  You can tell you are getting 
+  close to the high man.  He is busy 
+  talking on the phone and writing 
+  down strategy and does not notice
+  you as you enter the room.
+  
+~
+423 0 1
+D0
+~
+door~
+1 -1 42319
+Z0
+C-1
+S
+#42322
+{RED}{BOLD}High Offices{WHITE}{b}~
+
+  You have made it to the hallway with
+  the higher-ups offices.  Will you 
+  finally get to meet the owners of 
+  this screwed up place?  To the {GREEN}{BOLD}South
+  {WHITE}{b}is the {RED}{BOLD}Prince's Office {WHITE}{b}and to the {GREEN}{BOLD}East
+  {WHITE}{b}is the {RED}{BOLD}Lord's Office.  {WHITE}{b}Wonder if they
+  are in?
+  
+~
+423 0 1
+D0
+~
+~
+0 -1 42325
+D1
+~
+door~
+1 -1 42319
+D2
+~
+door~
+1 42307 42323
+D3
+~
+door~
+1 42307 42324
+Z0
+C-1
+S
+#42323
+{BOLD}{YELLOW}Prince's Office{WHITE}{b}~
+
+  You enter an elegantly decorated office.
+  There are tapestries draping the walls 
+  and fine furniture fills the room.  On 
+  the desk is a picture of the royal family.
+  Unfortuneately the {RED}{BOLD}Prince {WHITE}{b}at his desk 
+  today.  Guess you will have to look 
+  elsewhere.
+  
+~
+423 0 1
+D0
+~
+door~
+1 -1 42322
+Z0
+C-1
+S
+#42324
+{RED}{BOLD}Lord's Office{WHITE}{b}~
+
+  You enter the most elegant office of
+  them all.  You know as you enter that 
+  this could only be the {RED}{BOLD}Lord's Office.
+  {WHITE}{b}The value of half the items in here 
+  is at least three times what you are 
+  worth. The Lord is not at his desk at 
+  this time.  Maybe he is with the 
+  Prince? Who know's with him... He is 
+  the '{RED}{BOLD}Lord of the Tower{WHITE}{b}.'
+  
+~
+423 0 1
+D1
+~
+door~
+1 -1 42322
+Z0
+C-1
+S
+#42325
+Stairwell to Relaxation~
+
+  You are yet another staircase in the 
+  Great Tower.  This on however is made
+  out of silver and has a high gloss
+  finish to it.  The reflection is almost
+  blinding as you walk up the steps.
+  
+~
+423 0 1
+D2
+~
+~
+0 -1 42322
+D4
+~
+~
+0 -1 42326
+Z0
+C-1
+S
+#42326
+{GREEN}The Landing {YELLOW}{BOLD}(4th Floor){WHITE}{b}~
+
+  The atmosphere on this floor is much
+  more relaxed then that of the last 
+  two floors.  There is laughter in the 
+  air and the smell of alcohol wafts in 
+  from the south.  Go explore and relax
+  before your next battle.
+  
+~
+423 0 1
+D0
+~
+~
+0 -1 42327
+D1
+~
+~
+0 -1 42331
+D2
+~
+~
+0 -1 42330
+D3
+~
+~
+0 -1 42328
+D5
+~
+~
+0 -1 42325
+Z0
+C-1
+S
+#42327
+{BOLD}{RED}D{CYAN}e{RED}n{WHITE}{b}~
+
+  You enter into a mid sized den.  There are 
+  fine leather couches in the shape of a U 
+  in the center of it and bookshelves line 
+  the walls.  There is a quiet atmosphere in 
+  this room, and everything is neat and in 
+  order.
+  
+~
+423 0 1
+D2
+~
+~
+0 -1 42326
+Z0
+C-1
+S
+#42328
+{YELLOW}{BOLD}S{GREEN}n{YELLOW}a{GREEN}c{YELLOW}k {GREEN}B{YELLOW}a{GREEN}r{WHITE}{b}~
+
+  You enter a room with a serving area.
+  It appears to be a {BOLD}{GREEN}S{YELLOW}n{GREEN}a{YELLOW}c{GREEN}k {YELLOW}b{GREEN}a{YELLOW}r{WHITE}{b}.  They 
+  have hot dogs and kraut, and wings, 
+  and many more things you can't begin 
+  to imagine.  Maybe you should stop 
+  for a refreshment?
+  
+~
+423 0 1
+D1
+~
+~
+0 -1 42326
+D2
+~
+~
+0 -1 42329
+Z0
+C-1
+S
+#42329
+{BOLD}{GREEN}R{CYAN}e{BLUE}c {YELLOW}R{RED}o{MAGENTA}o{GREEN}m{WHITE}{b}~
+
+  You enter into the {BOLD}{GREEN}R{CYAN}e{BLUE}c {YELLOW}R{RED}o{MAGENTA}o{GREEN}m{WHITE}{b}.  In the
+  one corner of the room sit a 68" big 
+  screen TV.  You notice your favorite 
+  sports team playing on it.  Om the  
+  one side of the room are computers 
+  running some Mud that has the name NC 
+  on it.  Maybe you should sit down and 
+  play a while.
+  
+~
+423 0 1
+D0
+~
+~
+0 -1 42328
+D1
+~
+~
+0 -1 42330
+Z0
+C-1
+S
+#42330
+{CYAN}Bar {cyan}/ {RED}{BOLD}Lounge{red}{b}~
+
+  You enter into the {BOLD}{RED}Lougne {WHITE}{b}/ {CYAN}Bar.  {WHITE}There
+  is a strong smell of alcohol in the air.
+  A bartender looks at you as you enter 
+  and asks what he can get for you.  Maybe 
+  you have time for a quick drink?
+  
+~
+423 0 1
+D0
+~
+~
+0 -1 42326
+D3
+~
+~
+0 -1 42329
+Z0
+C-1
+S
+#42331
+Side Hall~
+
+  You find yourself in another side hall 
+  away from all the laughter.  There is 
+  a more quiet but still relaxed sense 
+  from the rooms where you were.  Wonder
+  what is down here?
+  
+~
+423 0 1
+D0
+~
+~
+0 -1 42334
+D1
+~
+~
+0 -1 42333
+D2
+~
+~
+0 -1 42332
+D3
+~
+~
+0 -1 42326
+Z0
+C-1
+S
+#42332
+{YELLOW}{BOLD}Prince's Den{WHITE}{b}~
+
+  You enter into another den.  This one
+  has another big TV and there is a small
+  bar on the right side of the room.  
+  There is a very comfortable couch in 
+  the middle of the room facing the TV.
+  Maybe you should leave before the prince
+  gets back.
+  
+~
+423 0 1
+D0
+~
+~
+0 -1 42331
+Z0
+C-1
+S
+#42333
+{RED}{BOLD}Lord's Den{WHITE}{b}~
+
+  You enter into another den.  This one
+  has another big TV and there is a small
+  bar on the right side of the room.  
+  There is a very comfortable couch in 
+  the middle of the room facing the TV.
+  There is also a desk in this one, and 
+  a computer sits there turned off. Maybe 
+  you should leave before the Lord gets
+  back.
+  
+~
+423 0 1
+D3
+~
+~
+0 -1 42331
+Z0
+C-1
+S
+#42334
+{WHITE}{BOLD}Another Staircase {b}~
+
+  You are at another staircase in this 
+  giant maze of a tower.  Makes you wish 
+  the Lord had installed an elevator.  
+  This staircase however is made out of 
+  bronze.  There is a certain feeling
+  of anticipation as you realize you are 
+  near the top floor of the Tower.
+  
+~
+423 0 1
+D2
+~
+~
+0 -1 42331
+D4
+~
+~
+0 -1 42335
+Z0
+C-1
+S
+#42335
+Top of the Stairs {RED}{BOLD}(Fifth Floor){WHITE}{b}~
+
+  You are at the top of the stairs.  You 
+  hear alot of activity going on on this 
+  floor.  Wonder what all the compotion 
+  is about.  Maybe you should go in and 
+  check it out.
+  
+~
+423 0 1
+D0
+~
+~
+0 -1 42339
+D1
+~
+~
+0 -1 42338
+D2
+~
+~
+0 -1 42336
+D5
+~
+~
+0 -1 42334
+Z0
+C-1
+S
+#42336
+{RED}W{BOLD}{WHITE}a{b}{RED}r{WHITE}{BOLD} R{b}{RED}o{WHITE}{BOLD}o{b}{RED}m{red}~
+
+  Tou enter a room in the shape of a giant 
+  cirle.  There is a bounch of generals in 
+  the room arguing over fighting strategy.
+  You wonder with so many people how they 
+  ever figure out how to do anything.
+  
+~
+423 0 1
+D0
+~
+~
+0 -1 42335
+D1
+~
+~
+0 -1 42337
+Z0
+C-1
+S
+#42337
+{BLUE}W{RED}e{BLUE}a{RED}p{BLUE}o{RED}n{BLUE}s {RED}R{BLUE}o{RED}o{BLUE}m{red}{blue}~
+
+  You enter into this room and see all
+  sorts of weapons lining the wall.  To 
+  bad you can't take any of them.  Maybe
+  if you ask nicely the person here will
+  go and repair your eq for you?
+  
+~
+423 0 1
+D0
+~
+~
+0 -1 42338
+D3
+~
+~
+0 -1 42336
+Z0
+C-1
+S
+#42338
+{BOLD}{YELLOW}C{CYAN}o{YELLOW}n{CYAN}f{YELLOW}e{CYAN}r{YELLOW}e{CYAN}n{YELLOW}c{CYAN}e {YELLOW}R{CYAN}o{YELLOW}o{CYAN}m{WHITE}{b}~
+
+  Here before you lies a giant conference 
+  room.  On the one end is a dry erase 
+  board and there are two rows of tables 
+  and chairs facing it.  You can see some 
+  old writing on the board but can't really 
+  make it out.  Maybe you should look closer.
+~
+423 0 1
+D2
+~
+~
+0 -1 42337
+D3
+~
+~
+0 -1 42335
+Z0
+C-1
+S
+#42339
+{BOLD}{WHITE}Another Staircase{b}~
+
+  You enter into a room with yet another 
+  set of steps.  These are just like the 
+  others except for the fact that these
+  steps are made out of pure gold.  Surely
+  these have to be the steps that lead to
+  the very top of the tower.  What great 
+  adventures lie in wait for you?  Better 
+  climb the steps and find out.
+  
+~
+423 0 1
+D2
+~
+~
+0 -1 42335
+D4
+~
+~
+0 -1 42340
+Z0
+C-1
+S
+#42340
+Upper Hall {RED}{BOLD}(Sixth Floor){WHITE}{b}~
+
+  You are standing in the hall of the 
+  sixth floor.  There are four different 
+  directions to go here.  Only by you 
+  exploring can you figure out what is 
+  to come next better get to it.
+  
+~
+423 0 1
+D0
+~
+door~
+1 42308 42341
+D1
+~
+~
+0 -1 42343
+D2
+~
+~
+0 -1 42347
+D3
+~
+~
+0 -1 42345
+D5
+~
+~
+0 -1 42339
+Z0
+C-1
+S
+#42341
+{YELLOW}{BOLD}Prince's Vestibule{WHITE}{b}~
+
+  You have come to the Prince's Vestibule. 
+  This is a room where the prince changes 
+  and keeps his clothes.  There are several
+  dressers and a mirror and chair.  He must 
+  own every peice of clothing imaginable.
+  
+~
+423 0 1
+D0
+~
+~
+0 -1 42342
+D2
+~
+door~
+1 -1 42340
+Z0
+C-1
+S
+#42342
+{BOLD}{YELLOW}Prince's Chambers{WHITE}{b}~
+
+  You are standing in the Prince's chambers.  
+  There is a double bed sitting in the middle
+  of the room with curtains around it.  There
+  are crimson drapes on the windows and the
+  room has a certain feeling of youth in it.
+  
+~
+423 0 1
+D2
+~
+~
+0 -1 42341
+Z0
+C-1
+S
+#42343
+{RED}{BOLD}S{b}e{RED}{BOLD}c{b}r{RED}{BOLD}e{b}t{RED}{BOLD}a{b}r{RED}{BOLD}i{b}e{RED}{BOLD}s {b}V{RED}{BOLD}e{b}s{RED}{BOLD}t{b}i{RED}{BOLD}b{b}u{RED}{BOLD}l{b}e~
+
+  You are sitting in the secretaries vestibule.  
+  It is slightly smaller than the princes 
+  vestibule but has the same basic stuff in it,
+  just a few less dressers.
+  
+~
+423 0 1
+D0
+~
+~
+0 -1 42344
+D3
+~
+~
+0 -1 42340
+Z0
+C-1
+S
+#42344
+{RED}{BOLD}S{b}e{RED}{BOLD}c{b}r{RED}{BOLD}e{b}t{RED}{BOLD}a{b}r{RED}{BOLD}i{b}e{RED}{BOLD}s{b} C{RED}{BOLD}h{b}a{RED}{BOLD}m{b}b{RED}{BOLD}e{b}r~
+
+  You are in the secretaries chamber.  There 
+  is a single bed in the middle of the room 
+  and a desk on the right hand side.  There 
+  is a typewriter on this desk much like the
+  one the secretary was using in her office.
+  This room is much smaller than the Princes.
+  
+~
+423 0 1
+D2
+~
+~
+0 -1 42343
+Z0
+C-1
+S
+#42345
+{GREEN}{BOLD}T{b}r{GREEN}{BOLD}e{b}a{GREEN}{BOLD}s{b}u{GREEN}{BOLD}r{b}e{GREEN}{BOLD}r{b}'{GREEN}{BOLD}s {b}V{GREEN}{BOLD}e{b}s{GREEN}{BOLD}t{b}i{GREEN}{BOLD}b{b}u{GREEN}{BOLD}l{b}e~
+
+  You are standing in the Treasurer's 
+  Vestibule.  There is another mirror 
+  in here and two dressers on the left 
+  wall.  The treasurers wardrobe is 
+  really small and appears to be all 
+  the same type of clothing.
+  
+~
+423 0 1
+D1
+~
+~
+0 -1 42340
+D2
+~
+~
+0 -1 42346
+Z0
+C-1
+S
+#42346
+{BOLD}{GREEN}T{WHITE}{b}r{BOLD}{GREEN}e{WHITE}{b}a{BOLD}{GREEN}s{WHITE}{b}u{BOLD}{GREEN}r{WHITE}{b}e{BOLD}{GREEN}r{WHITE}{b}'{BOLD}{GREEN}s {WHITE}{b}C{BOLD}{GREEN}h{WHITE}{b}a{BOLD}{GREEN}m{WHITE}{b}b{BOLD}{GREEN}e{WHITE}{b}r{BOLD}{GREEN}s{WHITE}{b}~
+
+  You are standing in the Treasurers Chambers.
+  You see a gaint safe on one side of the room
+  and a small single bed on the left side.  Try
+  as you might you are unable to open the safe 
+  so it is just best you move on.
+  
+~
+423 0 1
+D0
+~
+~
+0 -1 42345
+Z0
+C-1
+S
+#42347
+Vestibule~
+
+  You are standing in a huge vestibule.  Dressers
+  line both walls and there are two sets of chairs 
+  and mirrors I wonder who the other person could 
+  be?  
+  
+~
+423 0 1
+D0
+~
+~
+0 -1 42340
+D1
+~
+~
+0 -1 42350
+D2
+~
+~
+0 -1 42351
+D3
+~
+door~
+1 42309 42348
+Z0
+C-1
+S
+#42348
+{MAGENTA}{BOLD}Lady Lord's Vestibule{WHITE}{b}~
+
+  You have entered a smaller Vestibule of the Lady 
+  Lord.  It has clothing all over neatly hung on 
+  hangers and there appears to be every style dress 
+  in the world hanging here.  Who would have known 
+  there were so many styles.
+  
+~
+423 0 1
+D1
+~
+door~
+1 -1 42347
+D2
+~
+~
+0 -1 42349
+Z0
+C-1
+S
+#42349
+{MAGENTA}{BOLD}Lady Lord's Chamber{WHITE}{b}~
+
+  You have entered the Lady Lord's Chambers.
+  Before you stands the Lady Lord, a beautiful 
+  lady in her mid 20's.  There is a Queen size 
+  bed in the middle of the room and fancy 
+  trinkets all about.  She looks up at you as 
+  you walk in and smiles.
+  
+~
+423 0 1
+D0
+~
+~
+0 -1 42348
+Z0
+C-1
+S
+#42350
+{WHITE}{BOLD}Doh!! The Wrong Way Again!!!{white}{b}~
+
+  You have chosen the wrong door and 
+  have fallen into the other death trap.
+  Terror fills you as a thousand daggers
+  fly out of the wall and plunge into 
+  your heart.  Death comes to us all at
+  some point.
+  
+~
+423 2 1
+D3
+~
+~
+0 -1 42347
+Z0
+C1
+S
+#42351
+{RED}{BOLD}Private Sanctuary{WHITE}{b}~
+
+  You are in the Lord of the Tower's private
+  chamber.  This is his sanctuary from everyone 
+  when he wants to get away from it all.  There 
+  is very nice furniture and his own private 
+  full wall television.  It must be nice to be 
+  the Lord!!
+  
+~
+423 0 1
+D0
+~
+~
+0 -1 42347
+D1
+~
+~
+0 -1 42352
+D2
+~
+~
+0 -1 42354
+Z0
+C-1
+S
+#42352
+Hidden Passageway~
+
+  You slip through a hidden passage in the wall
+  and find youself in a stone wall passage.  
+  There is a door at the far end of it.  What 
+  lies behind the door there is only one way to 
+  find out.
+  
+~
+423 0 1
+D2
+~
+~
+0 -1 42353
+D3
+~
+~
+0 -1 42351
+Z0
+C-1
+S
+#42353
+{YELLOW}{BOLD}Treasure Room{WHITE}{b}~
+
+  You find yourself standing in the Lord's treasure 
+  room.  There is a substantial amount of gold which
+  now belongs to you.  Better take it and run.
+  
+~
+423 0 1
+D0
+~
+~
+0 -1 42352
+Z0
+C-1
+S
+#42354
+{RED}{BOLD}Lord's Chambers{WHITE}{b}~
+
+  You are standing in the Lord's Chamber.  Here
+  you see a gigantic king size waterbed.  There
+  are fine linens covering the bed.  He stands 
+  there before you with rage on his face wondering
+  how you have made it so far.  It would be a good
+  idea to flee but if you have the courage go 
+  ahead and fight him to find what treasure he may 
+  hold.
+  
+~
+423 0 1
+D0
+~
+~
+0 -1 42351
+Z0
+C-1
+S
+$~

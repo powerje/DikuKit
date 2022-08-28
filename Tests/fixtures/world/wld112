@@ -1,0 +1,1623 @@
+#11200
+EMPTY~
+
+~
+112 4 1
+Z3
+C-1
+S
+#11201
+The Golden Temple of Midgaard~
+  You are in the southern end of the temple hall in the Temple of Midgaard.
+The temple has been constructed from giant marble blocks, eternal in 
+appearance, and most of the walls are covered by ancient wall paintings 
+depicting Gods, Giants and peasants.
+   Large steps lead down through the grand temple gate, descending the huge
+mound upon which the temple is built and ends on the temple square to the
+south.   The temple continues further to the west.
+   To the east you can see what was once the donation room. You see a note
+on the planked up door. To the north lies the the temple's altar where
+information concerning this land can be found.
+~
+112 8 0
+Z3
+C-1
+S
+#11202
+The Cleric's Guild~
+  This is the inner sanctum.  A picture of the mighty Thor, is hanging on
+the wall, just above the altar which is set against the western wall.  A well
+in the middle of the floor leads down into darkness.  Vile smells waft from
+the depths.
+~
+112 12 0
+D1
+~
+~
+0 -1 11203
+Z3
+C-1
+S
+#11203
+Cleric's Bar~
+  The bar is one of the finest in the land, lucky it is members only.  Fine
+furniture is set all around the room.  A small sign is hanging on the wall.
+~
+112 4 1
+D2
+~
+~
+0 -1 11204
+D3
+~
+~
+0 -1 11202
+E
+sign~
+The sign reads:
+Free instructions provided by the waiter:
+
+   Buy  - Buy something (drinkable) from the waiter.
+   List - The waiter will show you all the different drinks and
+          specialities, and tell the price of each.
+
+~
+E
+Inscription~
+ 
+I AM THE WAY INTO THE CITY OF WOE.
+I AM THE WAY TO A FORSAKEN PEOPLE.
+I AM THE WAY INTO ETERNAL SORROW.
+ 
+SACRED JUSTICE MOVED MY ARCHITECT.
+I WAS RAISED HERE BY DIVINE OMNIPOTENCE,
+PRIMORDIAL LOVE AND ULTIMATE INTELLECT.
+ 
+ONLY THOSE ELEMENTS TIME CANNOT WEAR
+WERE MADE BEFORE ME, AND BEYOND TIME I STAND.
+ABANDON ALL HOPE YE WHO ENTER HERE.
+~
+Z3
+C-1
+S
+#11204
+The Entrance to the Cleric's Guild~
+  The entrance hall is a small modest room, reflecting the true nature of
+the Clerics.  The exit leads east to the temple square.  A small entrance to
+the bar is in the northern wall.
+~
+112 8 0
+D0
+~
+~
+0 -1 11203
+D1
+~
+~
+0 -1 11205
+D2
+~
+~
+0 -1 11239
+Z3
+C-1
+S
+#11205
+The Temple Square~
+   You are standing on the temple square. Huge marble steps lead up to
+the temple gate. The entrance to the Clerics Guild is to the west, and the
+lavish Victor's Hotel D' Royal, is to the east. Just south of here you
+see the hustle and bustle of Market Square, the center of Midgaard.
+   There are words carefully engraved on the marble steps.
+~
+112 0 1
+D1
+~
+~
+0 -1 11206
+D2
+~
+~
+0 -1 11214
+D3
+~
+~
+0 -1 11204
+Z3
+C-1
+S
+#11206
+Entrance to Victor's Hotel D' Royal~
+   You are standing in the entrance hall of Victor's Hotel D' Royal.  The
+hall has been wisely decorated with simple but functional furniture.  A
+small staircase, constructed entirely of gold, leads up to the
+reception, and the bar is to the east.
+~
+112 8 0
+D1
+~
+~
+0 -1 11207
+D3
+~
+~
+0 -1 11205
+D4
+~
+~
+0 -1 11208
+Z3
+C-1
+S
+#11207
+The Grunting Boar~
+  You are standing in the bar.  The bar is set against the northern wall, old
+archaic writing, carvings and symbols cover its top.  A fireplace is built into
+the western wall, and through the southeastern windows you can see the temple
+square.  This place makes you feel like home.
+A small sign with big letters is fastened to the bar.
+~
+112 8 0
+D3
+~
+~
+0 -1 11206
+E
+sign~
+
+Free instructions provided by the Grunting Boar Inn.
+
+   Buy  - Buy something (drinkable) from the bartender.
+   List - The bartender will show you all the different drinks and
+          specialities, and tell the price of each.
+~
+Z3
+C-1
+S
+#11208
+Victor's Hotel D' Royal~
+   You are standing in the reception of this lavish hotel. A golden
+staircase leads down to the city of Midgaard, while an exit to the
+east leads to the Post Office. There is a small sign on the counter.
+~
+112 8200 0
+D2
+~
+~
+0 -1 11297
+D5
+~
+~
+0 -1 11206
+Z3
+C-1
+S
+#11209
+The Bakery~
+  You are standing inside the small bakery.  A sweet scent of Danish and
+fine bread fills the room.  The bread and Danish are arranged in fine order
+on the shelves, and seem to be of the finest quality.
+A small sign is on the counter.
+~
+112 8 0
+D2
+~
+~
+0 -1 11213
+Z3
+C-1
+S
+#11210
+The General Store~
+  You are inside the general store.  All sorts of items are stacked on shelves
+behind the counter, safely out of your reach.  From the looks of it, they
+sell various types of containers and light sources.
+A small note hangs on the wall.
+~
+112 8 0
+Z3
+C-1
+S
+#11211
+The Weapon Shop~
+  You are inside the weapon shop.  There is a small note on the counter.
+~
+112 8 0
+Z3
+C-1
+S
+#11212
+Main Street~
+  You are at the end of the main street of Midgaard.  South of here is the
+entrance to the Guild of Magic Users.  The street continues east towards the
+market square.  The magic shop is to the north and to the west is the city
+gate.
+~
+112 0 1
+D1
+~
+~
+0 -1 11213
+Z3
+C-1
+S
+#11213
+Main Street~
+  You are on the main street passing through the City of Midgaard.  South of
+here is the entrance to the Armoury, and the bakery is to the north.  East of
+here is the market square.
+~
+112 0 1
+D0
+~
+~
+0 -1 11209
+D1
+~
+~
+0 -1 11239
+D2
+~
+~
+0 -1 11220
+D3
+~
+~
+0 -1 11212
+Z3
+C-1
+S
+#11214
+Market Square~
+  You are standing on the market square, the famous Square of Midgaard.
+A large, peculiar looking statue is standing in the middle of the square.
+Roads lead in every direction, north to the temple square, south to the
+common square, east and westbound is the main street.
+~
+112 0 1
+D0
+~
+~
+0 -1 11205
+D1
+~
+~
+0 -1 11238
+D2
+~
+~
+0 -1 11225
+D3
+~
+~
+0 -1 11239
+D4
+~
+~
+0 -1 11236
+D5
+~
+mausuleum~
+1 -1 11255
+Z3
+C-1
+S
+#11215
+The Main Street~
+  You are on Main Street crossing through town.  To the north is the general
+store, and the main street continues east.  To the west you see and hear the
+market place and to the south is the Jewellery Shop.
+~
+112 0 1
+Z3
+C-1
+S
+#11216
+The Main Street~
+  The main street, to the north is the weapon shop and to the south is the
+Guild of Swordsmen.  To the east you leave town and to the west the street
+leads to the market square.
+~
+112 0 1
+Z3
+C-1
+S
+#11217
+Entrance to Mage's Guild~
+  The entrance hall is a small, poor lighted room.  It leads south.
+~
+112 8 0
+Z3
+C-1
+S
+#11218
+Mage's Bar~
+  The bar is one of the wierdest in the land.  Mystical images float around
+the air.  Illusions of fine furniture appear all around the room.
+~
+112 12 0
+Z3
+C-1
+S
+#11219
+Mage's Laboratory~
+  This is the Magical Experiments Laboratory.  Dark smoke-stained stones
+arch over numerous huge oaken tables, most of these cluttered with strange-
+looking pipes and flasks.  The floor is covered with half-erased pentagrams
+and even weirder symbols, and a blackboard in a dark corner has only been
+partially cleaned, some painful-looking letters faintly visible.  A well in
+the middle of the floor leads down into darkness.  Vile smells waft from the
+depths.
+~
+112 12 0
+Z3
+C-1
+S
+#11220
+The Armoury~
+  The armoury with all kinds of armours on the walls and in the window.  You
+see helmets, shields and chain mails.  To the north is the Rotenturm street.
+On the wall is a small note.
+~
+112 8 0
+D0
+~
+~
+0 -1 11213
+D2
+~
+~
+0 -1 11264
+E
+note~
+You can use these commands for trading:
+
+   value item     To get the price of an item in your possession.
+   sell item      To sell something.
+   buy item       To buy something (provided that the shop has it in store.)
+   list           Gives you a listing of the shop's inventory.
+
+         WE DON'T GIVE CREDIT, WE DON'T EXPECT TO RECEIVE CREDIT!
+                               NO HAGGLING
+
+~
+Z3
+C-1
+S
+#11221
+Entrance Hall to the Guild of Swordsmen~
+  The entrace hall to the Guild of Swordsmen.  A place where one has to be
+careful not to say something wrong (or right).  To the east is the yard and to
+the north is the main street.
+~
+112 8 0
+Z3
+C-1
+S
+#11222
+The Bar of Swordsmen~
+  The bar of swordsmen, once upon a time beautifully furnished.  But now the
+furniture is all around you in small pieces.  To the south is the yard, and
+to the west is the entrance hall.
+~
+112 12 0
+Z3
+C-1
+S
+#11223
+The Tournament and Practice Yard~
+   The practice yard of the fighters.  To the north is the bar.  A well leads
+down into darkness.
+~
+112 12 0
+Z3
+C-1
+S
+#11224
+Eastern End of Poor Alley~
+  You are at the poor alley.  South of here is the Grubby Inn and to the
+east you see common square.  The alley continues further west.  Floating
+some one and a half yard up in the air is a bright electric-blue circle,
+around two yards in diameter.
+~
+112 0 1
+D1
+~
+~
+0 -1 11264
+D2
+~
+~
+0 -1 11248
+D3
+~
+~
+0 -1 11244
+Z3
+C-1
+S
+#11225
+The Common Square~
+  The common square, people pass you, talking to each other.  To the west is
+the poor alley and to the east is the dark alley.  To the north, this square
+is connected to the market square.  From the south you notice a nasty smell.
+There is a manhole cover on the ground here.
+~
+112 0 1
+D0
+~
+~
+0 -1 11214
+D3
+~
+~
+0 -1 11264
+Z3
+C-1
+S
+#11226
+The Dark Alley~
+  The dark alley, to the west is the Graben and to the south is the
+Guild of Thieves.  The alley continues east.
+~
+112 0 1
+E
+model emerald midgaard~
+ 
+ 
+  Upon closer inspection, you see that Emerald Midgaard is divided into
+  several unique sections. You notice a large temple with words etched 
+  into it's sides, a large tower which seems to be a prison, and some
+  jade figurines which resemble some NC citizens.
+ 
+~
+E
+temple~
+ 
+ 
+  You see a message etched on the side of the temple wall. 
+  You squint your eyes and barely make out the lines:
+ 
+  "I sit alone in my chamber beneath my eastern wing, hoping that 
+  someone worthy will come and play, but who can challenge me? 
+ 
+~
+E
+tower prison jail~
+ 
+ 
+  You peer between the bars and see the ravaged bodies of the COMM. The
+  Emerald Champion must have plans to overthrow the leaders of NCMUD.
+  You wonder if he is merely an overconfident fool or something truly
+  horrific.
+ 
+~
+E
+jade figurines~
+ 
+ 
+  You see NCMUD's most powerful residents all frozen in twisted and
+  agonizing poses. Many are missing arms, legs, and even heads. It is
+  obvious that the Emerald Champion doesn't have good things in mind 
+  for Midgaard's elite.
+ 
+~
+Z3
+C-1
+S
+#11227
+Entrance Hall to the Guild of Thieves~
+  The entrace hall to the thieves' and assassins' guild.  A place where you
+can lose both your life and your money, if you are not careful.  To the north
+is the dark alley and to the east is the thieves' bar.
+~
+112 8 0
+Z3
+C-1
+S
+#11228
+The Thieves Bar~
+  The bar of the thieves.  Once upon a time this place was beautifully
+furnished, but now it seems almost empty.  To the south is the yard, and to
+the west is the entrance hall.
+   (Maybe the furniture has been stolen?!)
+~
+112 12 0
+Z3
+C-1
+S
+#11229
+The Secret Yard~
+  The secret practise yard of thieves and assassins.  To the north is the
+bar.  A well leads down into darkness.
+~
+112 12 0
+Z3
+C-1
+S
+#11230
+The City Dump~
+  The dump, where the people from the city drop their garbage.  Through the
+garbage there is a large junction of pipes, which looks like an entrance to
+the sewer system.  South of here you see a small, rickety bridge across the
+river and to the north is the common square.
+~
+112 8324 2
+X2048
+Z3
+C-1
+S
+#11231
+The Pet Shop~
+  The Pet Shop is a small crowded store, full of cages and animals of
+various sorts and sizes.  There is a sign on the wall.
+~
+112 8 0
+Z3
+C-1
+S
+#11232
+Pet Shop Store~
+  This is the small dark room in which the Pet Shop Boy keeps his pets.
+It is vital that this room's virtual number is exactly one larger than the
+Pet Shop number.
+~
+112 2056 0
+M51
+Z3
+C-1
+S
+#11233
+The Magic Shop~
+  You are in a small room that smells of rare chemicals and spices.
+Dividing the room in two is a large desk, and on the wall behind it are
+numerous shelves crammed with jars, bottles, books and scrolls of all
+sorts and sizes.
+~
+112 8 0
+Z3
+C-1
+S
+#11234
+The Jeweller's Shop~
+  You are in a small, beautifully furnished room.  The warm light emanating
+from the small oil lamps on the walls is reflected in the hard, polished
+surface of the big mahogany desk that stands in the centre of the room.
+A small sign with golden letters stands on the desk.
+~
+112 136 0
+Z3
+C-1
+S
+#11235
+The Leather Shop~
+  An acrid smell fills this large room.  Along the walls are numerous
+shelves containing all sorts of animal hide and in the crackling fireplace
+hangs a big iron pot with boiling water.  In the middle of the room is a
+large oak table.
+A wooden sign is hanging above the fireplace.
+~
+112 8 0
+D2
+~
+~
+0 -1 11244
+D3
+~
+~
+0 -1 11242
+E
+sign~
+The wooden sign says :-
+
+    Use 'list' to see what is in store,
+        'buy (item)' to buy an item,
+        'sell (item)' to sell an item and
+        'value (item)' to make the leather worker evaluate an item.
+
+~
+Z3
+C-1
+S
+#11236
+Bozo's training room~
+  You are standing in Bozo's training room.
+This is the place where you gain levels and improve your stats!
+To train for your next level, you type the following:
+
+TRAIN LEVEL W (for warrior) or TRAIN LEVEL M (for mage), etc...
+The word LEVEL will tell the trainer that you want to LEVEL, it does not
+mean that you type in a number.  ie,  TRAIN 30 W (that's a NO NO!)
+
+To improve your STATS, you do the following:
+TRAIN STR (for Strength) or TRAIN INT (for Intelligence), etc...
+It costs 4 practices to increase your main attribute and 6 for others.
+~
+112 8204 0
+D5
+~
+~
+0 -1 11214
+Z3
+C-1
+S
+#11237
+Western End of Altar~
+  You are standing west of the temple altar in the northern end of the Temple
+of Midgaard.  Twenty feet above you stand stained-glass windows depicting
+the glorious wars and benevolent acts performed by The Committee over the
+years, casting long, bright, rectangles onto the otherwise hard, stone floor.
+
+You feel a warm wind brush over your shoulder and you turn around casually.
+You are surprised to see something that you didn't notice before.  The wall
+in front of you bears the following words chiselled across its dark stone
+face in faintly glowing mystic characters:
+
+----  Ask not what NC can do for You, But what You can do for NC  ----
+~
+112 24716 0
+Z3
+C-1
+S
+#11238
+East Side of Market Square~
+You are standing on the east side of Market Square, to the west you
+see the fountain in the center of Market Square.  This part of the
+square is filled with little stalls and merchants trying to sell you the
+strangest items.  A little further to the east you can see Main Street,
+with its shops, leading to the Eastern City Gates.
+~
+112 0 1
+D3
+~
+~
+0 -1 11214
+Z3
+C-1
+S
+#11239
+West Side of Market Square~
+The west side of Market Square seems to be filled with shady looking 
+characters.  You can see stalls where they sell swords and armaments,
+the crowds bustle, and heroes seem to be pushing through the throngs
+everywhere you look.  Amazing!  A bit further to the west you see
+the west side of Main Street, leading to the Western City Gates.
+~
+112 0 1
+D0
+~
+~
+0 -1 11204
+D1
+~
+~
+0 -1 11214
+D3
+~
+~
+0 -1 11213
+Z3
+C-1
+S
+#11240
+Inside the West Gate of Midgaard~
+  You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate. Main Street leads
+east and Wall Road leads south from here.
+~
+112 0 1
+D2
+~
+~
+0 -1 11242
+D3
+The city gate is to the west.
+~
+gate~
+1 -1 11252
+D4
+~
+~
+0 -1 11298
+Z3
+C-1
+S
+#11241
+Inside the East Gate of Midgaard~
+  You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  Main Street leads
+west from here. A side street leads south.
+
+~
+112 0 1
+Z3
+C-1
+S
+#11242
+Wall Road~
+  You are walking next to the western city wall.  The road continues further
+south and the city gate is just north of here.
+~
+112 0 1
+D0
+~
+~
+0 -1 11240
+D1
+~
+~
+0 -1 11235
+D2
+~
+~
+0 -1 11243
+Z3
+C-1
+S
+#11243
+Wall Road~
+  You are walking next to the western city wall.  Wall Road continues further
+north and south.  A small, poor alley leads east.  Some letters have been 
+written on the wall here.
+~
+112 0 1
+D0
+~
+~
+0 -1 11242
+D1
+~
+~
+0 -1 11244
+D2
+~
+~
+0 -1 11247
+Z3
+C-1
+S
+#11244
+Poor Alley~
+  You are in narrow and dirty alley leading east and west.  The leather shop
+is to the north.
+~
+112 0 1
+D0
+~
+~
+0 -1 11235
+D1
+~
+~
+0 -1 11224
+D3
+~
+~
+0 -1 11243
+Z3
+C-1
+S
+#11245
+Alley at Levee~
+  You are standing in the alley which continues east and west.  South of
+here you see the Levee.
+~
+112 0 1
+Z3
+C-1
+S
+#11246
+Eastern end of Alley~
+  You are standing at the eastern end of the alley, the city wall is just
+east, blocking any further movement.  An old three-storey warehouse is
+directly south of here.
+~
+112 0 1
+Z3
+C-1
+S
+#11247
+Wall Road~
+  You are standing on the road next to the western city wall which
+continues north.  South of here is a bridge across the Danube.
+~
+112 0 1
+D0
+~
+~
+0 -1 11243
+E
+slip paper~
+ 
+  Midgaard Construction Company - Letter of apology
+ 
+Dear sir,
+ 
+ We regret to inform you that during the construction of your spiral
+staircase, the support pole fell and cracked your sapphire floor. The
+Midgaard Construction Company will be happy to pay for the damages.
+ 
+                                                   The Mayor
+ 
+~
+Z3
+C-1
+S
+#11248
+Grubby Inn~
+  You are inside the old Grubby Inn.  This place has not been cleaned for
+several decades, vile smells make you dizzy.
+~
+112 8 0
+D0
+~
+~
+0 -1 11224
+Z3
+C-1
+S
+#11249
+Levee~
+  You are at the levee.  South of here you see the river gently flowing west.
+The river bank is very low making it possible to enter the river.
+~
+112 0 1
+Z3
+C-1
+S
+#11250
+Abandoned Warehouse~
+  You are inside the only room in the old warehouse.  Only a sparse amount
+of light shines in through the boarded up windows above you.  The place is
+very dusty and appears to have been unused for many years.
+~
+112 8 0
+Z3
+C-1
+S
+#11251
+On the Bridge~
+  You are standing on the stone bridge crosses the river.  The bridge is
+built out from the western city wall and the river flows west through an
+opening in the wall ten feet below the bridge.
+~
+112 0 1
+Z3
+C-1
+S
+#11252
+Outside the West Gate of Midgaard~
+  You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  To the west you
+can see the edge of a big forest.  A small dusty trail leads north along the
+wall.
+~
+112 1024 1
+D1
+~
+gate~
+1 -1 11240
+Z3
+C-1
+S
+#11253
+Outside the East Gate of Midgaard~
+  You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  To the east the
+plains stretch out in the distance. To the north a small dusty trail follow
+the city wall.
+~
+112 1024 1
+Z3
+C-1
+S
+#11254
+By the Temple Altar~
+  You are by the temple altar in the northern end of the Temple of Midgaard.
+A huge altar made from white polished marble is standing in front of you and
+behind it is a ten foot tall sitting statue of Odin, the King of the Gods.
+~
+112 24716 0
+Z3
+C-1
+S
+#11255
+Mallin's chamber of fame~
+You are in a large chamber, made in rememberance to our former
+Implementors. On the wall you see gigantic portraits of these 
+mighty men.  Unknown, Encino, Ottomix, and Mallin himself are displayed 
+proudly as you take the time to reflect upon their contributions and 
+fight off the pangs of regret at their retirement.
+~
+112 8204 0
+D4
+~
+mausuleum~
+1 -1 11214
+Z3
+C-1
+S
+#11256
+Donation Room~
+  This room was created by the gods for all newbies.  This is a place for
+more experienced players to leave any unwanted equipment.
+~
+112 66700 0
+Z3
+C-1
+S
+#11257
+The north eastern aisle of Temple~
+  This side aisle is nearly as big as the nave. You can see a lot of
+statues of beautiful looking people. The aisle continues to the south.
+To the east, you can see a little altar room. It looks very interesting.
+~
+112 8 0
+Z3
+C-1
+S
+#11258
+The little altar room~
+  You are east of the north eastern side aisle in a little altar room.
+The walls are covered with beautiful pictures.  To the east, there is a 
+little altar.  It looks not very heavy.
+~
+112 8 0
+Z3
+C-1
+S
+#11259
+At the staircase down to the catacombs~
+  West of here, you see the backside of a little altar.  Behind you is
+a spiral staircase leading down to down to the catacombs.  Decide which way 
+you want to go.
+~
+112 9 0
+Z3
+C-1
+S
+#11260
+The spiral staircase down to the catacombs~
+  You are at the lower end of the spiral staircase.  You can go up to
+the Temple or down to the catacombs.
+~
+112 13 0
+Z3
+C-1
+S
+#11261
+The hidden Shop.~
+  You are in a very dark and dusty shop. It's a really uncomfortable place.
+~
+112 8 0
+Z3
+C-1
+S
+#11262
+The Operating Room~
+
+    You stare around in this room and shiver.  Rusty-looking
+scalpels lay scattered disorganizedly in a tray on a table.
+Flecks of dried blood is all over the floor, and even in little
+patches on the walls.  You catch sight of strange organisms
+floating in jars of formaldehye.  A hunchbacked doctor stands
+at a wooden platform with his back to you.  He is struggling
+with a patient who is trying to escape.
+
+~
+112 8200 1
+X2048
+Z3
+C-1
+S
+#11263
+The Waiting Room~
+
+     You stare around in the waiting room.  A sweet feminine
+voice speaks up from behind you, 'How may I help you?'  You
+turn around, expecting a beautiful nurse, and barely hold back
+a scream.  This is the ugliest nurse you've ever seen in your
+life!  Face covered with wrinkles and hairy moles, she scowls
+at you, looking even more hideous than ever, and speaks again
+in that strange sweet voice, 'Well?'  To the west, you can
+hear a scream of agony and a loud crack and thump.
+
+~
+112 8200 1
+X2048
+Z3
+C-1
+S
+#11264
+West Side of Common Square~
+This western part of the Common Square gives access to a small alley
+a bit further to the west.  The raucous sounds of bar music can be heard
+coming from that direction.  
+~
+112 0 1
+D0
+~
+~
+0 -1 11220
+D1
+~
+~
+0 -1 11225
+D3
+~
+~
+0 -1 11224
+Z3
+C-1
+S
+#11265
+The western side aisle of Temple~
+  This is, by far, the most beautiful part of a church you've ever 
+seen!  Look at that windows. The light floods through the windows in all 
+those lovely colours of the rainbow.  Your hard feels warm and tender. 
+This must be the most peaceful place on earth.  There is a little sign on 
+the wall.  You see the western side aisle continue to the north.  To the 
+east you see the nave.
+~
+112 1032 0
+Z3
+C-1
+S
+#11266
+The north western side aisle of Temple~
+  When you look around you, it seems, that little transparent air
+spirits are dancing in the colourful light of the Cathedral.  Alongside
+the wall are some pictures and statues of holy people.  All dead of
+course.  Only dead people are holy people.  You decide to stay what you
+are - not holy.  To the south you see the side aisle continue.  To the
+west you see the entrance to the tower of the Temple.
+~
+112 8 0
+Z3
+C-1
+S
+#11267
+The entrance to the tower of Temple~
+  This small little cabinet seems to be the entrance to the tower.  To 
+the north you can see a little narrow spiral staircase leading up.  The steps
+are made of a heavy stone and look secure.  There are no windows in the tower. 
+At least you can't see any from this position.
+~
+112 8 0
+Z3
+C-1
+S
+#11268
+The spiral staircase to the tower~
+  You are on an endless spiral staircase, leading to the top of the
+tower.  It seems to take forever to go round and round and round and 
+round ....
+You can go up or down the staircase.
+~
+112 9 0
+Z3
+C-1
+S
+#11269
+The spiral staircase to the tower~
+  You are on an endless spiral staircase, leading to the top of the
+tower.  It seems to take forever to go round and round and round and 
+round ....
+You can go up or down the staircase.
+~
+112 9 0
+Z3
+C-1
+S
+#11270
+The spiral staircase to the tower~
+  You are on an endless spiral staircase, leading to the top of the
+tower.  It seems to take forever to go round and round and round and 
+round ....
+You can go up or down the staircase.
+~
+112 8 0
+Z3
+C-1
+S
+#11271
+The spiral staircase to the tower~
+  You are on an endless spiral staircase, leading to the top of the
+tower.  It seems to take forever to go round and round and round and 
+round .... There is a little opening in the eastern wall.  You can go up 
+or down the staircase.
+~
+112 9 0
+Z3
+C-1
+S
+#11272
+The little room in the top of the tower~
+WOW! What a sight.  You can see nearly whole Midgaard from this room.
+Looking down on Temple Square you can see all those little adventurers seeking
+for fame and glory.  How nice they look from here.  Like little toy soldiers.
+Oups! Don't lean yourself too far out.  There is no balustrade here.  But you
+can go any direction, if you want.  As you look up, you enjoy the clean air of
+Midgaard. It would be nice to have the ability to fly .........
+Oh wait, what is this you see.  A rope, going up into the clouds ??
+~
+112 4 0
+Z3
+C-1
+S
+#11273
+The free fall through the air!!!~
+   This was the wrong step!!!
+	You had better brought your flight license with you.
+	You
+		fall
+			 down
+				  and
+					  die!!
+						 -- SPLAT --!!!  -  R.I.P.
+~
+112 6 9
+Z3
+C-1
+S
+#11274
+The Healer-Shop~
+  You are standing inside the Healer-Shop.  Here you can buy potions
+and mixtures which helps you to restore your health and energy.  On the
+back wall you see shelves with reagents for the potions.
+~
+112 8332 0
+Z3
+C-1
+S
+#11275
+The hole in the dimensions~
+  You are in a hole between the dimensions. You were able to enter different 
+time areas. be careful !!!!!! THERE IS A SIGN NOW.
+~
+112 8 1
+Z3
+C-1
+S
+#11276
+Inside the stay~
+  This slightly concave stay connects the tower with the nave.  You are
+suprised how neat and tidy it's in here.  As if someone would take care of
+that place.  You can crawl west to the tower or east.
+~
+112 9 0
+Z3
+C0
+S
+#11277
+At the hole in the stay~
+  As you crawl along inside the stay you discover a little hole in the
+southern wall.  Some light falls through this hole.  It is still very narrow
+in here.  But the air is getting better.  You can crawl east or west.
+~
+112 8 0
+Z3
+C0
+S
+#11278
+Eastern end of the stay~
+  The stay suddenly ends here.  It looks as if it should continue to the
+east.  As you look east you discover a huge room made of wood.  To the west
+the stay leads slightly up.
+~
+112 13 0
+Z3
+C-1
+S
+#11279
+Inside the roof of the Temple~
+  You are in something like a gigantic attic.  Above your head you can see
+the roof of the Temple.  In the middle, the room is about 10 meters high.
+To the east and west it's height is only about 2 meters.  To the south you
+cannot even guess how long it is.  Some light falls through little windows 
+in the roof.
+~
+112 8 0
+D0
+~
+~
+0 -1 11280
+Z3
+C-1
+S
+#11280
+Inside the roof of the Temple~
+  You are in something like a gigantic attic.  Above your head you can see
+the roof of the Temple.  In the middle, the room is about 10 meters high.
+To the east and west it's height is only about 2 meters.  To the south you
+cannot even guess how long it is.  Some light falls through little windows 
+in the roof.  There is a little wooden door leading east.
+~
+112 8 0
+D2
+~
+~
+0 -1 11279
+Z3
+C-1
+S
+#11281
+Inside the roof of the Temple~
+  You are in something like a gigantic attic.  Above your head you can see
+the roof of the Temple.  In the middle, the room is about 10 meters high.
+To the east and west it's height is only about 2 meters.  To the north you
+cannot even guess how long it is.  Some light falls through little windows 
+in the roof.  There is a doorway leading south.
+~
+112 8 0
+D0
+~
+~
+0 -1 11282
+Z3
+C-1
+S
+#11282
+Inside the roof of the Temple~
+  You are in something like a gigantic attic.  Above your head you can see
+the roof of the Temple.  In the middle, the room is about 10 meters high.
+To the east and west it's height is only about 2 meters.  To the north you
+cannot even guess how long it is.  Some light falls through little windows
+in the roof.
+~
+112 8 0
+D2
+~
+~
+0 -1 11281
+D4
+~
+~
+0 -1 11283
+Z3
+C-1
+S
+#11283
+The Secret Room~
+  Strange. Right here below the roof of the Temple you discover a neat 
+looking room.  There are some fine peace of furniture.  In your head you
+can hear the bell of the cash-register as you see yourself selling this
+stuff.  But look at that.  Some wary person must live here.  Each end every
+peace has been naild to the floor.
+~
+112 8 0
+D5
+~
+~
+0 -1 11282
+Z3
+C-1
+S
+#11284
+On the windy traverse~
+  So - now you have it! You are standing on a traverse at least 50 meters
+above Midgaard.  As always in this town, the wind blows.  It tugs on your
+clothes and for a moment it seems that you loose your balance!  Better get
+quick to a saver place.  But mind your steps!
+~
+112 0 1
+Z3
+C0
+S
+#11285
+On the windy traverse~
+  So - now you have it! You are standing on a traverse at least 50 meters
+above Midgaard.  As always in this town, the wind blows.  It tugs on your
+clothes and for a moment it seems that you loose your balance!  Better get
+quick to a saver place.  But mind your steps!
+~
+112 0 1
+Z3
+C0
+S
+#11286
+At the belfry~
+  You are at the belfry of the eastern side aisle.  In the middle of the
+room you can see the wooden trestle that holds the bells of the Temple.
+~
+112 8 0
+Z3
+C-1
+S
+#11287
+The huge column~
+  On the eastern side of this room you see a impressingly huge column
+made of white marble. It's surface is polished and shimmers in the light.
+As you examine it closer you can't discover even one little chamfer. You
+can go north and south.
+~
+112 0 0
+Z3
+C-1
+S
+#11288
+The clockwork of the Temple~
+  On the eastern side of this room you see a gigantic clockwork.  It's
+parts seem to be made of brass.  The golden shimmering surfaces look
+phantastic as the uncountable number of gear-wheels move.  On the west side
+of the roof you discover a little trap-door.
+~
+112 8 0
+Z3
+C-1
+S
+#11289
+On the 2nd windy traverse~
+  You're really a hopeless optimist!  Do you think you can make such a
+balance tour again?  Well, the traverse leads slightly up to the west.  The
+wind tries to help you to make your last step.
+~
+112 0 1
+Z3
+C0
+S
+#11290
+On the 2nd windy traverse~
+  You're really a hopeless optimist! Do you think you can make such a
+balance tour again? Well, the traverse leads slightly down to the east. The
+wind tries to help you to make your last step. As you look west, you see
+the roof of the nave. The shingles shimmer in all colours of the rainbow
+but don't look very inviting to walk on. They look VERY old!
+~
+112 0 1
+Z3
+C0
+S
+#11291
+Flying just above the roof of the Temple~
+  Well, you are able to fly - If not you would be dead now. The shingles
+below you are not sturdy enough by far to carry your weight. The roof
+continues to the north and looks much better there.
+~
+112 2 9
+Z3
+C-1
+S
+#11292
+On the roof of the Temple~
+  This is a saver part of the roof of the Temple.  Here you don't need
+to fly and waste your energy. The roof continues to the north and south.
+Any other direction would be dangerous.
+~
+112 0 1
+Z3
+C-1
+S
+#11293
+At the pedestal of the statue of glory~
+  You are on the very northern part of the roof. Any direction but south
+would be dangerous for your health. Right in front of you there is a huge
+pedestal made of stone.
+~
+112 0 1
+Z3
+C-1
+S
+#11294
+Flying near a windy traverse~
+  You are lucky to be able to fly! If not, you would be very flat now.
+But even flying isn't easy here because of the heavy wind. Better land
+again.
+~
+112 2 9
+Z3
+C-1
+S
+#11295
+Flying near a windy traverse~
+  You are lucky to be able to fly! If not, you would be very flat now.
+But even flying isn't easy here because of the heavy wind. Better land
+again.
+~
+112 2 9
+Z3
+C-1
+S
+#11296
+Flying near the roof of the Temple~
+  You are lucky to be able to fly! If not, you would be very flat now.
+But even flying isn't easy here because of the heavy wind. Better land
+again.
+~
+112 2 9
+Z3
+C-1
+S
+#11297
+The Flower Shop~
+  You are in a lavishly decorated shop. Flowers surround you on all
+sides. You can smell the beautiful aroma coming from the flowers
+around you....it's sooooo lovely in here.
+~
+112 8 0
+D0
+~
+~
+0 -1 11208
+E
+sign~
+The golden letters say  :
+
+    Use 'list' to see what is in store,
+        'buy <item>' to buy an item,
+        'sell <item>' to sell an item and
+        'value <item>' to make the flourist evaluate an item.
+
+~
+Z3
+C-1
+S
+#11298
+Over the west gate of Midgaard~
+  You are lucky to be able to fly! So you are flying over the west
+gate of Midgaard.
+~
+112 4 9
+D5
+~
+~
+0 -1 11240
+Z3
+C-1
+S
+#11299
+Over the east gate of Midgaard~
+  You are lucky to be able to fly! So you are flying over the east
+gate of Midgaard.
+~
+112 4 9
+E
+Forge 1~
+ 
+ 
+ 
+  As you enter Forge's sacred alter you immediately fall to your knees and
+  hope Forge isn't angry at you for violating his holy sanctuary with your
+  putrid and vile presence.  You crawl before his enormous statue and say
+  "What is thy bidding my master?"  The statue begins to glow with the his
+  power, releasing a massive bolt of red energy which sends you flying to 
+  the back wall.  When you regain consciousness, you find your extremely
+  strong and lusting for blood.  Once Forge had put his black mark on your
+  soul you realize you are his eternal slave and a happy at being so.
+ 
+~
+E
+sign~
+ 
+ 
+ 
+ Hello, this is my room. If you are here as a friend, thanks for gracing
+ it's presence :) While you are here kick back, relax, have some fun, take
+ a snooze. But if you pop my bed, I'm going to use you to fill it back up.
+ 
+ If you are not here as a friend, go ahead and kick back and relax a while 
+ too, I'll be here soon, and I've been needing some more people to...help 
+ me gain the favor of the almighty Forge and Rygar..
+ 
+                                   Bielnack, General of Hell
+ 
+~
+E
+Brandy~
+ 
+ 
+ 
+  You walk into a bar.  Here you'll find the finest Brandy in land.  When
+  you look behind the bar, you see a sign the reads:  Have a  seat and 
+  unwind!  We all deserve a shot after a long day of slaying zoning the 
+  hardest parts of the MUD.  You fell at ease knowing Brandy is somehow
+  always looking after you.
+ 
+~
+E
+Bielnack~
+ 
+ 
+ 
+  Glancing around, the room seems quite plain...for a Hell-Spawn. There are 
+  two altars on one side of the room, awaiting the daily sacrifices of 
+  enemy flesh to Forge and Rygar. On the opposite side of the room there
+  is a large oddly colored ornate waterbed. Approaching the waterbed, you
+  begin to realize why the room smells so bad...It seems that the bed 
+  itself is filled with the blood and eyeballs of the occupant's slain foe.
+  How nice...Upon the wall rest a Group portrait of some of HELL's elite 
+  members. Next to it hangs a long silver framed piece of parchment. 
+  Examining the parchment you see it is a list of rival clan members who 
+  have fallen to the iron fist of HELL. There seems to be plenty of room at
+  the end for more names. A sign seems to be hovering above the waterbed...
+  ...hmm.
+ 
+~
+E
+Forge~
+ 
+ 
+ 
+  As you enter Forge's sacred alter you immediately fall to your knees and
+  hope Forge isn't angry at you for violating his holy sanctuary with your
+  putrid and vile presence.  You crawl before his enormous statue and say
+  "What is thy bidding my master?"  The statue begins to glow with the his
+  power, releasing a massive bolt of red energy which sends you flying to 
+  the back wall.  When you regain consciousness, you find your extremely
+  strong and lusting for blood.  Once Forge had put his black mark on your
+  soul you realize you are his eternal slave and a happy at being so.
+ 
+~
+E
+directory~
+  
+To view a player's room, type: look <player name>
+ 
+ROOMS:
+1.Temple to Rygar
+2.Altar of Forge
+3.SMASH's Parlour
+4.Laya's Bondage Chamber
+5.Slaverlord's Dungeon
+6.Bandy's Bar
+7.Bielnack's Place
+~
+E
+Laya~
+ 
+ 
+ 
+  When you enter Laya's Bondage Chamber your mind becomes soft like jello
+  and you have a sudden will to submit. You are amazed at all the leather
+  ..on the couch, on the bed, in her closet, and well just about everywhere.
+  You now know why it's a bondage chamber as you see a broken down bed, and
+  not from age. The black sheets and shackles give you a provoking insight 
+  into Laya's more specialized interests. Now you just want to sit around
+  and wait for Laya to return to practice a little BONDAGE!!!
+ 
+~
+E
+Rygar~
+ 
+ 
+ 
+  As you step through the arched door you feel a powerful force surround 
+  you.  You know that Rygar, the Almighty, COMM of HELL, would be watching
+  you.  You lay the fresh corpses of your victims into the large pair of
+  outstretched hands floating here. Then realize a minor thousand kills is
+  not enough to truly honor Rygar. You desperately beg him to spare you
+  meager life.  Suddenly a strange sensation flows through and you hear the
+  word more and understand.    
+ 
+~
+E
+Slaverlord~
+ 
+ 
+ 
+  When you enter Slaverlord's Dungeon you hear the screams of some terrified
+  mindless slaves hiding in the shadows.  Their wailing begins to cease when
+  they realize you are not going to beat them with a spiked whip like
+  Slaverlord traditionally does.  You notice a pool of blood near the large
+  altar to Forge and you know a  sacrifice had recently taken place...and 
+  you don't want to be next.
+ 
+~
+E
+SMASH~
+ 
+ 
+ 
+     {BOLD}{RED}{BLINK}        SSS    MMM   MMM        A         SSS    HH  HH
+            SSSSS   MMMM MMMM       AAA       SSSSS   HH  HH
+            SSS     MMMMMMMMM      AA AA      SSS     HHHHHH
+             SSS    MMM M MMM     AAAAAAA      SSS    HHHHHH
+              SSS   MMM M MMM    AAAAAAAAA      SSS   HHHHHH
+            SSSSS   MMM   MMM   AAAAA AAAAA   SSSSS   HH  HH
+             SSS    MMM   MMM  AAAAA   AAAAA   SSS    HH  HH
+ 
+~
+Z3
+C-1
+S
+$~

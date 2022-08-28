@@ -1,0 +1,578 @@
+#30700
+guard garden~
+{C}The Balamb Garden Guard{c}~
+{C}A man here guards the enterance to the Garden.{c}
+~
+{C}
+  He is a middle aged man that guards the entrance to
+  the Garden.  He allows students and Garden staff to
+  pass, but gives you a stern look as you start to try
+  and pass him.
+{c}
+~
+336085058 1109656248 0 S
+40 -70 -2 0d0+9000 20d8+30
+10000 1200000
+8 8 1
+S 1793
+R 12
+D 20
+A 12
+#30701
+student garden female~
+{BLU}A Student{blu}~
+{BLU}A Student at the Garden rushes off to class.{blu}
+~
+{BLU,BO}
+  She is a young woman that lives and attends class
+  in Balamb Garden.  She appears quite busy with her
+  schedule.
+{blu,bo}
+~
+67109056 1107591832 100 S
+45 -75 0 0d0+8000 10d9+10
+100000 1000
+8 8 2
+D 20
+A 12
+#30702
+student garden treppie~
+{C}A Student{c}~
+{C}A Student at the Garden rushes off to class.{c}
+~
+{C}
+  He is a young man that lives and attends class
+  in Balamb Garden.  As he walks quickly towards
+  his next class, he sighs and mutters something
+  about someone name Quistis.
+{c}
+~
+67109056 1074004632 100 S
+40 -66 1 0d0+8000 10d10+12
+100000 1500000
+8 8 1
+R 256
+D 20
+A 12
+#30703
+quistis trepe teacher~
+{M,BO}Quistis Trepe{m,bo}~
+{M}A young woman teaches the students of Balamb Garden.{m}
+~
+{M,BO}
+  She is a beautiful young woman that teaches students
+  only a few years younger than her at the garden.
+  She appears quite agile, so you might not want to
+  mess with her.
+{m,bo}
+~
+1212162115 1107559356 100 C 3
+40 -80 -5 1d1+12000 5d20+70
+250000 1200000
+8 8 2
+S 525056
+R 12
+D 20
+A 12
+#30704
+headmaster cid~
+{Y}Headmaster Cid{y}~
+{Y}A middle aged man is pacing about the room here.{y}
+~
+{YE}  
+{YE}  The headmaster is a portly middle-aged man
+{YE}  who is going bald.  He wears a checked
+{YE}  vest and trousers, and generally looks
+{YE}  like an important person of authority.
+{YE}  
+~
+1208488002 35914408 200 S
+50 -160 -10 1d1+12500 10d10+50
+250000 2000000
+8 8 1
+S 7108
+R 268
+D 20
+A 14
+#30705
+ifrit demon gf guardian~
+{R,BO}Ifrit{r,bo}~
+{R,BO}A Massive Demon swims through the lava towards you!{r,bo}
+~
+{B,RE}
+{B,RE}  Ifrit is a 10-foot tall demon with two very long
+{B,RE}  horns growing from its forehead.  It has an immense
+{B,RE}  upper body and stands erect on two feet.
+{B,RE}  
+~
+192938338 1076101800 0 S
+43 -60 -8 1d1+13000 10d10+225
+50000 1000
+8 8 1
+S 70786816
+R 12
+D 20
+A 18
+#30706
+doctor dr. kadawoki~
+{C}Dr. Kadawoki{c}~
+{C}Dr. Kadawoki is sitting here at her desk.{c}
+~
+{C}
+  Doctor Kadawoki is the head physician for the
+  Garden, and a close friend of Headmaster Cid.
+{c}
+~
+1074268242 1344569992 500 S
+25 -230 -30 10000d10000+100000 1000d1000+200000
+1000000 2000000000
+6 6 2
+S 16826816
+R 412
+D 20
+A 1
+#30707
+grenade exploder~
+{R}A {BO}G{r,bo}{R}r{BO}e{r,bo}{R}n{BO}a{r,bo}{R}d{BO}e{r,bo}~
+{R,BO}A Grenade sits here, ready to explode!{r,bo}
+~
+{R,BO}
+  This Grenade is about to explode in your face,
+  watch out!
+{r,bo}
+~
+29368672 1090781736 -50 S
+40 -80 0 1d1+1750 12d20+304
+1000 2000000
+8 8 0
+S 3
+R 76
+D 18
+A 10
+#30708
+shadow goju~
+{BLA,BO}The Shadow{bla,bo}~
+{W,BO}A very {w,bo}{BLA,BO}long shadow creeps across{bla,bo}{W,BO} the floor.{w,bo}
+~
+{BLA,BO}
+  As you gaze upon the shadow, it starts to take form
+  into what appears to be a human.  Something is very
+  deeply disturbing about it, but you can't quite put
+  your figure on exactly what it is.
+{bla,bo}
+~
+318776386 3224666798 -200 S
+50 -60 -5 0d0+12500 20d10+100
+500000 2000000
+8 8 0
+S 268768
+R 4
+D 20
+A 12
+#30709
+blood speaker bloodspeaker spirit~
+{BLA,BO}The {bla,bo}{R}Spir{r}{R,BO}it of the Bloo{r,bo}{R}dspe{r}{BLA,BO}aker{bla,bo}~
+{BLA}Something has it's {bla}{R,BO}Eyes{r,bo}{BLA} on you...{bla}
+~
+{BLA,BO}
+  This damned Spirit has come here at the bidding of
+  it's master, to test your skills to make sure you
+  are worthy of wielding one of the four deadly
+  bloodswords.
+{bla,bo}
+~
+696410339 1092387512 -1000 C 4
+50 -140 -2 0d0+9500 20d10+50
+0 2000000
+8 8 0
+S 67372992
+R 272
+D 20
+A 12
+#30710
+bite bug~
+{Y}A Bite Bug{y}~
+{Y}A really big bug is flying towards you.{y}
+~
+{Y}
+  This thing looks like a pirahna with wings.  It
+  doesn't look exactly friendly...
+{y}
+~
+8288 1090781824 0 S
+38 -40 0 1d1+1500 6d6+90
+100000 1100000
+8 8 0
+S 1536
+R 1048592
+D 14
+A 10
+#30711
+glacial eye~
+{BLUE}A Gl{CYAN}aci{BLUE}al Eye{blue}~
+{BLUE}A large Gl{CYAN}aci{BLUE}al Eye floats around here...{blue}
+~
+{BLUE}  
+{BLUE}  This creature looks like a frozen, floating
+{BLUE}  eel.  It has a very large milky {CYAN}eye{cyan} {BLUE}that
+{BLUE}  leads its body randomly around.  Its touch
+{BLUE}  seems to freeze anything that it comes into
+{BLUE}  contact with.
+{BLUE}  
+~
+524864 1763967672 0 S
+40 -75 -2 1d1+6750 10d10+75
+250000 1500000
+8 8 0
+S 2944
+D 40
+A 12
+#30712
+zell dincht~
+{Y,BO}Zell Dincht{y,bo}~
+{W,BO}Zell Dincht is practicing punches and kicks here.{w,bo}
+~
+{W,BO}
+  Zell is a young kid with a spikey haircut.  His
+  constant jabber, and relentless practicing
+  indicate that he has a lot of energy.
+{w,bo}
+~
+71434435 1443627704 300 C 4
+50 -140 -10 1d1+15000 15d10+50
+500000 2000000
+8 8 1
+S 4721536
+R 256
+D 14
+A 10
+#30713
+mom dincht~
+{W,BO}Zell's Mom{w,bo}~
+{W,BO}Zell's Mom is puttering around the kitchen.{w,bo}
+~
+{W,BO}
+  She's the real friendly sort of mom that asks
+  you if you want anything to eat every few
+  minutes.  But she won't let you up in to her
+  son's room for some reason.
+{w,bo}
+~
+407371842 1074004652 200 S
+40 -110 -2 1d1+8500 1d1+90
+75000 1200000
+8 8 2
+S 18064
+R 12
+D 20
+A 12
+#30714
+child kid boy~
+{C,BO}The Child{c,bo}~
+{C}A Kid is trying to fly a kite here.{c}
+~
+{CY}  
+{CY}  A short little kid has a kite in his hand, and he is
+{CY}  running around trying to get it to fly.
+{CY}  
+~
+336068804 1074528808 50 S
+23 -65 -4 1d1+2000 1d1+40
+50000 100000
+8 8 1
+S 4995584
+R 4
+D 12
+A 9
+#30715
+tyrannosaurus rex trex~
+{Y}A Tyrannosaurus-Rex{y}~
+{Y}A Tyrannosaurus-Rex is stomping around here!{y}
+~
+{Y}
+  This huge pre-historic beast has teeth the
+  size of daggers.  It lurches around the
+  facility looking for freash meat.
+{y}
+~
+41951328 1074037376 0 S
+40 -60 -1 1d1+10000 10d10+100
+0 1200000
+8 8 0
+S 12583424
+R 2097156
+D 16
+A 12
+#30716
+dog mutt canine~
+{Y}A Dog{y}~
+{Y}A Dog is wandering around here, going wherever his nose takes him.{y}
+~
+{Y}
+  This mutt looks like he could really use
+  a bath!  His fur is partly matted, and he
+  smells terrible.
+{y}
+~
+41951392 1075052556 0 S
+35 -65 0 1d1+1500 5d10+50
+0 950000
+8 8 1
+S 1048576
+R 1048832
+D 16
+A 9
+#30717
+cactuar cactus mini~
+{G,BO}A Cactuar{g,bo}~
+{G,BO}A small Cactus is running around here!{g,bo}
+~
+{G,BO}
+  It looks like a Cactus with legs.  It runs around
+  the desert constantly, never seeming to run out
+  of energy.
+{g,bo}
+~
+16777312 3423601320 0 S
+50 -230 -5 1d1+10000 1d1+600
+500000 3000000
+8 8 0
+S 576
+R 2097152
+D 7
+A 12
+#30718
+jumbo cactuar cactus~
+{G,BO}JUMBO CACTUAR{g,bo}~
+{G,BO}A 30 foot-tall CACTUS is running around here!!!{g,bo}
+~
+{G,BO}
+  This is one MASSIVE Cactus!  It has two long slits
+  along it's head serving as it's eyes and two huge
+  legs propelling it around.
+{g,bo}
+~
+151011424 1076101820 0 S
+54 -205 0 1d1+60000 0d0+1000
+1000000 2000000
+8 8 0
+S 1574720
+R 8388876
+D 6
+A 24
+#30719
+rinoa heartilly~
+{BLU,BO}Rinoa{blu,bo}{M} Heartilly{m}~
+{M}A beautiful, spirited young woman sits here planning the liberation of Timber.{m}
+~
+{M}
+  Rinoa Heartilly is a passionate young woman who has
+  dedicated herself to the liberation of Timber from
+  the Galbadian military.  While not actually from the
+  city of Timber herself, the politics of being the
+  daughter of a general drives her to try and make a
+  difference.
+{m}
+~
+406847555 1847864252 500 C 72
+50 -105 -10 1d1+17500 10d10+60
+1000000 2000000
+8 8 2
+S 29513664
+R 12
+D 20
+A 12
+#30720
+man balamb~
+{BOLD,CY}A Man{bold,cy}~
+{CY}A man strides purposefully down the streets of Balamb.{cy}
+~
+{CY}  
+{CY}  This man looks like he's headed somewhere in a hurry.
+{CY}  
+~
+335544512 1074004008 0 S
+30 -75 -5 100d10+1500 8d5+35
+50000 700000
+8 8 1
+S 1024
+R 256
+D 15
+A 12
+#30721
+woman balamb~
+{BOLD,CY}A Woman{bold,cy}~
+{CY}A woman strolls along the streets of Balamb.{cy}
+~
+{CY}  
+{CY}  This woman looks like she doesn't have a care in the world.
+{CY}  
+~
+603979968 1076101160 0 S
+30 -80 -4 100d10+1750 7d5+30
+50000 700000
+8 8 2
+S 64
+D 15
+A 12
+#30722
+owner balamb hotel~
+{C,BO}The Balamb Hotel Owner{c,bo}~
+{CY}The owner of the Balamb Hotel welcomes you to his establishment.{cy}
+~
+{CY}  
+{CY}  An old sea dog, the owner of the Balamb Hotel would
+{CY}  be happy to complain to you about how slow business
+{CY}  has been lately.
+{CY}  
+~
+268451906 1076101800 0 S
+40 -160 0 1000d10+500 20d4+20
+10000 1200000
+8 8 1
+S 180736
+D 20
+A 12
+#30723
+garden staff faculty~
+{W,BO}One of the Garden Faculty{w,bo}~
+{W,BO}One of the Garden Staff is preventing you from continuing...{w,bo}
+~
+{W,BO}
+  The Garden Faculty are not known for being
+  particularly friendly, especially to non-
+  students.  They demand to see your student
+  identification card before letting you
+  continue through the Garden.
+{w,bo}
+~
+411042019 1109656488 -200 C 1
+46 -120 -10 1d1+9000 5d10+75
+250000 1500000
+8 8 1
+S 2703
+R 2097164
+D 20
+A 12
+#30724
+male resident timber man~
+{G}A Male Resident{g}~
+{G}A Male Resident of Timber is walking around here.{g}
+~
+{G}
+  This resident of Timber goes about his business,
+  trying to stay out of the way of the Galbadian
+  Soldiers.
+{g}
+~
+402653376 1074004776 0 S
+35 -125 -2 1d1+7500 7d7+40
+100000 950000
+8 8 1
+S 12588544
+D 20
+A 12
+#30725
+female resident timber woman~
+{G}A Female Resident{g}~
+{G}A Female Resident of Timber is walking around here.{g}
+~
+{G}
+  This Woman goes about her business, trying
+  to stay out of the way of the Galbadian
+  Soldiers.
+{g}
+~
+402653376 1074004776 0 S
+35 -130 -2 1d1+6500 5d9+45
+100000 950000
+8 8 1
+S 12588544
+D 20
+A 12
+#30726
+cafeteria lady woman~
+{W,BO}The Cafeteria Lady{w,bo}~
+{W,BO}A middle aged woman is selling hotdogs to the students from behind the counter.{w,bo}
+~
+{W,BO}
+  The Cafeteria Lady sells food to the students of the garden.  As
+  she notices you watching her she asks you "Well, what will it be?
+  A hotdog??"
+{w,bo}
+~
+138412098 1109656232 0 S
+40 -140 -4 1d1+10000 4d6+125
+250000 1200000
+8 8 2
+S 525056
+R 256
+D 20
+A 12
+#30727
+resistance member woman mom~
+{G}A Resistance Member{g}~
+{G}A Woman here is making dinner for her kids.{g}
+~
+{G}
+  This woman does everything she can to help the
+  Timber Resistance win Independance from the
+  Galbadian's so her children will have a brighter
+  future.
+{g}
+~
+675283010 1109689000 0 S
+45 -140 -10 1d1+10000 5d7+70
+250000 1450000
+8 8 0
+S 5530192
+R 12
+D 20
+A 12
+#30728
+president victor deling~
+{M}President {m}{B,BO}Victor Deling{b,bo}~
+{B,BO}The President is here, adressing the world for the first time in 17 years.{b,bo}
+~
+{W,BO}
+  President Victor Deling is a middle aged, power
+  hungry man.  He adresses the world from the old
+  TV station in Timber, the first broadcast in
+  over 17 years of radio silence across the globe.
+  Under his iron fisted reign, Galbadia has
+  conquered an entire continent, and made his
+  country a major empire.  There are rumors that
+  his regime is controlled by the all-powerful
+  Sorceress, but his administration dismisses
+  all such talk as terrorist, left wing rhetoric.
+{w,bo}
+~
+234881219 1110213288 -500 C 3
+45 -105 0 1d1+10000 1d1+150
+500000 1450000
+8 8 1
+S 3008
+R 256
+D 20
+A 10
+#30729
+garden master NORG shumi~
+{G,BO}Garden Master NORG{g,bo}~
+{G,BO}A massive creature incased in glass controls the machine here.{g,bo}
+~
+{G,BO}
+  This creature looks almost humanoid, but its body
+  appears warped and awkward.  It has incased itself
+  in a powerful machine, where it lives and
+  manipulates the outside world.
+{g,bo}
+~
+281018467 1210319544 -500 C 12
+50 -80 2 1d1+20000 10d10+100
+500000 2000000
+8 8 0
+S 67633856
+R 268
+D 20
+A 16
+$~

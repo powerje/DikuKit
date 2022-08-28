@@ -1,0 +1,3076 @@
+#3000
+The Smithy~
+
+  You are standing inside a very dark smithy. You notice the absense of
+windows, only the red light of the fireplace lightens the room. A lot of
+useless broken weapons and pieces of armour are lying around, making
+it difficult to cross the room. There is a sign up by the entrance door.
+
+~
+30 8332 0
+E
+sign~
+
+ Repairing all kids of metal equipment. Service at once.
+ Type:
+
+    OFFER <item>
+    REPAIR <item>
+
+ to order the service.
+~
+Z0
+C-1
+R0
+S
+#3001
+{Y}{BOLD}The Golden Temple of Midgaard{y}~
+  
+{YEL}   You are in the southern end of the temple hall
+   in the {BO,YE}Temple of Midgaard{bo,yel}{YEL}. The temple has been
+   constructed from giant marble blocks, eternal in 
+   appearance, and most of the walls are covered by
+   ancient wall paintings depicting Gods, Giants and
+   peasants. 
+   
+   Large steps lead down through the grand temple
+   gate, descending the huge mound upon which the
+   temple is built and ends on the temple square to
+   the south.  The temple continues further to the
+   west. To the east you can see what was once the
+   donation room. You see a {BO,GRE}note {bo,gr}{YEL}on the planked up
+   door. To the north lies the the temple's altar
+   where information concerning this land can be 
+   found.
+
+~
+30 8204 0
+D0
+~
+~
+0 -1 3054
+D1
+~
+~
+0 -1 3056
+D2
+~
+~
+0 -1 3005
+D3
+You see the western side aisle of the Cathedral.
+~
+~
+0 -1 3065
+D4
+~
+~
+0 -1 7349
+E
+note~
+
+   Zoharn and Guard were here.
+
+
+~
+E
+east~
+You see a heavy oak door locked tight by a sturdy iron lock, and completely
+boarded up by some heavy wooden planks. There is no way to get past it. No
+way to get to the many treasures that a rumored to be kept within the donation
+room. There is a note nailed to the door.
+~
+T3056
+Z-1
+C-1
+R0
+S
+#3002
+{BO,CY}The{bo,cy}{CY} Cleric's{BO,CY} Guild{bo,cy}~
+    
+   {BO,CY}This is the inner sanctum.  A picture 
+   of the mighty {bo,cy}{CY}Thor{BO,CY}, is hanging on the
+   wall, just above the altar which is set 
+   against the western wall.  A well in the 
+   middle of the floor leads down into 
+   darkness.  {BO,BLA}Vile smells waft from the depths.{bo,bla}
+
+~
+30 12 0
+D1
+You see your favorite place, the bar of divination.
+~
+~
+0 -1 3003
+D5
+You can't see what is down there, it is too dark.  Looks like it would be
+impossible to climb back up.
+~
+~
+0 -1 7026
+Z-1
+C-1
+R0
+S
+#3003
+{BO,CY}The{bo,cy}{CY} Cleric's {BO,CY}Bar{bo,cy}~
+       
+   {CY}This bar is one of the finest in the land, 
+   it's a good thing it is {MAG}members only{CY}.  Fine
+   furniture is set all around the room.  A 
+   small sign is hanging on the wall and warm
+   pints of {YEL}earthen draught{CY} echo strangely with 
+   the call of the wild.
+
+~
+30 12 0
+D2
+You see the entrance.
+~
+~
+0 -1 3004
+D3
+You see the inner sanctum.
+~
+~
+0 -1 3002
+E
+sign~
+The sign reads:
+Free instructions provided by the waiter:
+
+   Buy  - Buy something (drinkable) from the waiter.
+   List - The waiter will show you all the different drinks and
+          specialities, and tell the price of each.
+~
+Z-1
+C-1
+R0
+S
+#3004
+{BO,CY}The{bo,cy}{CY} Entrance{BO,CY} to the {bo,cy}{CY}Cleric's {BO,CY}Guild{bo,cy}~
+   
+   {CY}The entrance hall is a small modest room, 
+   reflecting the {BO,CY}true nature{bo,cy} {CY}of the {BO,CY}Clerics{bo,cy}{CY}.
+   Shoes made of {GR}earth{CY} and {YEL}rope {RE}decay{CY} in a 
+   small corner as a man begging for alms 
+   passes you on your way in. The exit leads
+   east to the temple square.  A small entrance
+   to the bar is in the northern wall.{cy}
+  
+~
+30 8 0
+D0
+You see the bar, richly decorated with really stylish furniture.
+~
+~
+0 -1 3003
+D1
+You see the Cathedral Square.
+~
+~
+0 -1 3005
+D2
+~
+~
+0 -1 2096
+Z-1
+C-1
+R0
+S
+#3005
+{Y}The Temple Square{y}~
+
+ {YEL} You are standing on the temple square. Huge
+  marble steps lead up to the temple gate. The
+  entrance to the {BO,CY}Clerics {bo,cy}{CY}Guild {YEL}is to the west,
+  and the lavish {BO,MAG}Victor's {bo,mag}{MAG}Hotel {BO,MAG}D' Royal{bo,mag}{YEL}, is to
+  the east. Just south of here you see the 
+  hustle and bustle of {BO,RE}Market{BO,BLA} Square{YEL}, the center
+  of{BO,WH} Midgaard{bo,wh}{YEL}. There are small words carefully 
+  engraved into the marble steps.{yel}
+
+~
+30 0 1
+D0
+~
+~
+0 -1 3001
+D1
+You see the good old Grunting Boar Inn.
+~
+~
+0 -1 3006
+D2
+~
+~
+0 -1 3014
+D3
+You see the entrance to the Clerics Guild.
+~
+~
+0 -1 3004
+E
+marble steps~
+         Honesty
+       Dedication
+      Friendliness
+    Blood and Sweat
+~
+Z-1
+C-1
+R0
+S
+#3006
+{MAG}Entrance to {BO,MAG}Victor's {bo,mag}{MAG}Hotel {BO,MAG}D' Royal{bo,mag}~
+
+      {BO,MA}                .-=--.--.
+                     :         )
+               .''''.\       /.- '''.
+               >       `.   .'       <
+              (        {bo,ma} {YE}.- -. {BO,MA}        )
+               `- -.-   {bo,mag}{YEL}`- -'  {BO,MA}-.- -'{BO,MA}
+                 {BO,MA}(        :        )         {bo,ma}{GR}  _ _ .-:
+                 {BO,MA} '--.    :    .--.{bo,ma}{GR}        .-'  .-=  }
+                    {BO,MA}  \..-^-.-'{bo,ma}{GR} ._      .-'.-=   .-='
+                               \ \'     \ '_ _ -'
+                                `.`.    //
+                       . -  - -.__`.`-.//
+                   .- - . -    }- - --.'-.
+                 .' .-       .--       :/''.'-./:
+                /_-_ _ . - -/                 \-./-._
+                                                 .-.<
+                        {BO,MA}Victor's {bo,ma}{MA}Hotel{BO,MA} D' Royal{bo,ma}
+                  {MA}A House of Luxury.{BO,MA} A House of Rest.{bo,ma}
+
+~
+30 8 0
+D1
+Surprise! You see the bar.
+~
+~
+0 -1 3007
+D2
+~
+~
+0 -1 2097
+D3
+You see the Cathedral Square.
+~
+~
+0 -1 3005
+D4
+~
+~
+0 -1 3008
+Z-1
+C-1
+R0
+S
+#3007
+{GRE}The Grunting {YEL}Boar{yel}~
+
+   {GRE}You are standing in the bar.  It is set against
+   the northern wall and old archaic writing, carvings
+   and symbols cover its top.  A {BO,RE}fire{bo,re}{RE}place{GRE} is built 
+   into the western wall, and through the southeastern
+   windows you can see the temple square.  This place
+   makes you feel like home.
+ 
+   {BO,GRE}A {BO,WHI}small sign{BO,GRE} with big letters is fastened to the bar.{bo,gre}
+
+~
+30 8 0
+D3
+You see the exit to the entrance hall.
+~
+~
+0 -1 3006
+E
+sign~
+The sign reads:
+Free instructions provided by the Grunting Boar Inn.
+
+   Buy  - Buy something (drinkable) from the bartender.
+   List - The bartender will show you all the different drinks and
+          specialities, and tell the price of each.
+~
+E
+writing carving carvings symbols symbol~
+Although it is very hard to understand, you think it looks a lot like beer,
+poems about beer, and small beer-mugs.
+~
+Z-1
+C-1
+R0
+S
+#3008
+{BO,MAG}Victor's {bo,mag}{MAG}Hotel {BO,MAG}D 'Royal{bo,mag}~
+
+ {MAG}  You are standing in the reception of this
+   lavish hotel. A {BO,YEL}golden staircase{bo,yel}{MAG} leads down
+   to the city of {BO,WHI}Midgaard{bo,whi}{MAG}, while an exit to the
+   east leads to the {WHI}Post{BO,WHI} Office{bo,wh}{MAG}. There is a 
+   small sign on the counter.{mag}
+
+~
+30 8200 0
+D1
+You see the post office.
+~
+~
+0 -1 2013
+D2
+You see the flower shop.
+~
+~
+0 -1 3097
+D5
+~
+~
+0 -1 3006
+E
+sign~
+Rooms are cheap and good!  You may:
+
+   Offer - get an offer on a room - Time is in Real Life days.
+   Rent  - Rent a room (saves your stuff, and quits the game).
+           Minimum charge is one day.
+
+                          MY WAY OR THE HIGHWAY
+                             PAY YOUR RENT!
+              WE WON'T THINK TWICE BEFORE KICKING YOU OUT!
+~
+Z-1
+C-1
+R0
+S
+#3009
+{YEL}The {WH}B{YEL}a{WH}k{YEL}e{WH}r{YEL}y{yel}~
+  
+  {YEL} You are standing inside the small bakery.  A sweet
+   scent of {WH}Danish {YEL}and fine {WH}bread{YEL} fills the room. The
+   {WH}bread{YEL} and {WH}Danish{YEL} are arranged in fine order on the
+   shelves, and seem to be of the finest quality.  A
+   small sign is on the counter.{yel}
+
+~
+30 8 0
+D2
+You see the main street.
+~
+~
+0 -1 3013
+E
+danish pastry~
+You see that this is truly delicious pastry.  Must be made by a Dane from
+Denmark (which surely is not the capital of Sweden!).  Former ruler of
+Scandinavia, England, Northern Germany, Northern France, Russia, Greenland,
+Iceland, Estonia etc. etc.
+   The sight of those large, wholesome chokoladeboller makes your mouth water
+and your soul sing.
+
+~
+E
+sign~
+Free instructions provided by the store:
+
+   Buy  - Will buy you some bread or pastry.
+   List - The baker will kindly tell you the price and sort of the bread in
+          his bakery.
+~
+Z-1
+C-1
+R0
+S
+#3010
+{RE}The {WH}General {BO,BLU}Store{bo,blu}~
+
+   {RE}You are inside the general store.  All sorts of items 
+   are stacked on shelves behind the counter, safely out  
+   of your reach.  From the looks of it, they sell various 
+   types of containers and light sources. A small note hangs
+   on the wall.{re}
+
+~
+30 8 0
+D2
+You see the main street.
+~
+~
+0 -1 3015
+E
+sign~
+
+  {Y}To activate {R}{BOLD}Experience Mode{bol}{Y} with {Y}{BOLD}gold{y}{bold}{Y}, simply {W}{BOLD}"{CY}push button{W}"{w}.
+
+~
+E
+note~
+The note reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+Z-1
+C-1
+R0
+S
+#3011
+{BO,RE}The {bo,re}{RE}Weapon {BO,RE}Shop{bo,re}~
+
+   {RE}You are inside the weapon shop.  Broken maces, sharp
+   knives, and tattered whips scatter the open floor. 
+   You look around for some weapon of quality and find a
+   weaponsmith cleaning up. 
+   
+   There is a small{BO,WH} note{bo,wh}{RE} on the counter.{re}
+
+~
+30 8 0
+D2
+You see the main street.
+~
+~
+0 -1 3016
+E
+note~
+The note reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+Z-1
+C-1
+R0
+S
+#3012
+{BO,BLA}Main Street{bo,bla}~
+
+  You are at the end of the main street of 
+  Midgaard. South of here is the entrance 
+  to the Guild of Magic Users. The street
+  continues east towards the Market Square.
+  The Magic Shop is t the north and to the 
+  west are the city gates. 
+
+~
+30 0 1
+D0
+You see the magic shop.
+~
+~
+0 -1 3033
+D1
+You see the main street.
+~
+~
+0 -1 3013
+D2
+You see the entrance to the Guild of Magic Users.
+~
+~
+0 -1 3017
+D3
+~
+~
+0 -1 2095
+Z-1
+C-1
+R0
+S
+#3013
+{BO,BLA}Main Street{bo,bla}~
+
+  You are on the main street passing through
+  the City of Midgaard. South of here is the
+  entrance to the Armoury, and the bakery is 
+  to the north. East of here is the Market Square. 
+
+~
+30 0 1
+D0
+You see the bakery.
+~
+~
+0 -1 3009
+D1
+~
+~
+0 -1 2096
+D2
+You see the armoury.
+~
+~
+0 -1 3020
+D3
+You see the main street.
+~
+~
+0 -1 3012
+Z-1
+C-1
+R0
+S
+#3014
+{G}{BOLD}Market Square{g}~
+
+{C}  This must be the center of Midgaard, the {G,BO}Market Square{b}{C}.
+{C}  Roads lead in all directions; to the north you can faintly
+{C}  spot the {WH,BO}temple{b}{C}. The east, west and south create the main 
+{C}  roads of Midgaard, suitable paths for any adventurer seeking
+{C}  to wander the world. A large {Y,BO}golden statue {b}{C}of a powerful
+{C}  warrior stands proud at the very heart of this area. He 
+{C}  wields a rather fierce looking spear, which is accompanied
+{C}  by the {Y,BO}lighting {b}{C}of a {Y,BO}torch {b}{C}for dark nights. Surrounding him,
+{C}  a fountain filled with {C,BO}crystal-clear cyan aqua {b}{C}splashes
+{C}  freely, several fish inhabiting the waters which rest
+{C}  perfectly still and calm.{b}
+
+~
+30 0 1
+D0
+~
+~
+0 -1 3005
+D1
+~
+~
+0 -1 2097
+D2
+~
+~
+0 -1 3025
+D3
+~
+~
+0 -1 2096
+D4
+~
+~
+0 -1 3036
+D5
+You see a hole on the sidewalk around the fountain.
+It leads to the peaceful room of Mallins.
+~
+trap~
+1 -1 2011
+E
+sign~
+
+  {Y}To activate {R}{BOLD}Experience Mode{bol}{Y} with {Y}{BOLD}gold{y}{bold}{Y}, simply {W}{BOLD}"{CY}push button{W}"{w}.
+
+~
+E
+Heathen~
+What're you looking at!!?
+~
+Z-1
+C-1
+R0
+S
+#3015
+{BO,BLA}The Main Street{bo,bla}~
+
+  You are on the Main Street crossing through
+  town. To the north is the General Store, 
+  and the Main Street continues east. To
+  the west you see and hear Market Square, 
+  and to the south is the Jewelry Shop.
+
+~
+30 0 1
+D0
+You see the general store.
+~
+~
+0 -1 3010
+D1
+You see Main Street.
+~
+~
+0 -1 3016
+D2
+You see the Jeweller's Shop.
+~
+~
+0 -1 3034
+D3
+~
+~
+0 -1 2097
+Z-1
+C-1
+R0
+S
+#3016
+{BO,BLA}The Main Street{bo,bla}~
+
+  You are standing on the Main Street in 
+  Midgaard. There is a Weapon Shop just 
+  north of you. Sounds of swordsmen 
+  practicing can be heard to the south. 
+  The eastern gates of Midgaard can
+  be seen in the distance to the east.
+
+~
+30 0 1
+D0
+You see the weapon shop.
+~
+~
+0 -1 3011
+D1
+~
+~
+0 -1 2094
+D2
+You see the swordsmen's guild.
+~
+~
+0 -1 3021
+D3
+You see the main street leading to the market square.
+~
+~
+0 -1 3015
+Z-1
+C-1
+R0
+S
+#3017
+{YEL}Entrance to the {RE}Mage's{YEL} Guild{yel}~
+    
+  {YEL} The entrance hall is a very small, poorly lit room.
+   The smell of{WH} must{YEL} and dander lead to a tiny room
+   located to the south.{yel}
+
+~
+30 8 0
+D0
+You see the main street.
+~
+~
+0 -1 3012
+D2
+You see your favourite place, the Mage's Bar.
+~
+~
+0 -1 3018
+Z-1
+C-1
+R0
+S
+#3018
+{YEL}The {RE}Mage's{YEL} Bar{yel}~
+
+   {RE}This bar is one of the strangest in the land. {BO,BLU} Mystical
+   {BO,BLA}images{bo,bla}{RE} float around in the air.  Illusions of fine 
+   furniture appear all around the room.  When you try to
+   sit on them, you fall flat on your face!
+
+~
+30 12 0
+D0
+You see the lobby.
+~
+~
+0 -1 3017
+D1
+You see the laboratory.
+~
+~
+0 -1 3019
+Z-1
+C-1
+R0
+S
+#3019
+{YEL}The {RE}Mage's{YEL} Laboratory{yel}~
+
+{YEL}  This is the Magical Experiments Laboratory.  Dark,
+   smoke-stained stones arch over numerous huge oaken
+   tables, most of these cluttered with strange-looking
+   pipes and flasks.  The floor is covered with half-erased
+   {BO,BLA}pentagrams{bo,bla}{YEL} and even wierder symbols, a blackboard in 
+   a dark corner has only been partially cleaned, and some
+   painful-looking letters are faintly visible.  A well in
+   the middle of the floor leads down into darkness.  {RE}Vile
+   smells{YEL} waft from the depths of the opening.{yel}
+
+~
+30 12 0
+D3
+You see the bar.
+~
+~
+0 -1 3018
+D5
+You can't see what is down there, it is too dark.  Looks like it would be
+impossible to climb back up.
+~
+~
+0 -1 7017
+Z-1
+C-1
+R0
+S
+#3020
+{BO,WH}The{bo,wh}{WH} Armoury{wh}~
+
+   {WH}You enter the {BO,WH}armoury{bo,wh}{WH} which has all kinds of {BO,BLA}armours{bo,bla}{WH}
+   on the walls and in the window. You see {BO,BLA}helmets{bo,bla}{WH},
+   {BO,BLA}shields{bo,bla}{WH} and {BO,BLA}chain mails{bo,bla}{WH}. To the north is the Main Street.
+   You see the local blacksmith working to the east. On 
+   the wall is a small note.{wh}
+
+~
+30 8 0
+D0
+You see the Rotenturm street.
+~
+~
+0 -1 3013
+D1
+~
+~
+0 -1 2065
+D2
+~
+~
+0 -1 2093
+E
+note~
+  You can use these commands for trading:
+
+  value <item>     To get the price of an item in your possession.
+  sell <item>      To sell something.
+  buy <item>       To buy something (provided that the shop has it in store).
+  list             Gives you a listing of the shop's inventory.
+
+        WE DON'T GIVE CREDIT; WE DON'T EXPECT TO RECEIVE CREDIT!
+                             NO HAGGLING
+~
+Z-1
+C-1
+R0
+S
+#3021
+{BO,BLU}Entrance Hall to the Guild of{bo,blu}{WH} Swordsmen{wh}~
+  
+  {BO,BLU}The entrace hall to the Guild of {bo,blu}{WH}Swordsmen{BO,BLU}. A 
+   place where one has to be careful not to say 
+   something {BO,RE}wrong{BO,BLU} (or right).  To the east is the
+   practice yard and to the north is the main street.{bo,blu}
+
+~
+30 8 0
+D0
+You see the main street.
+~
+~
+0 -1 3016
+D1
+You see the swordsmen's bar, many noises comes from there.
+~
+~
+0 -1 3022
+Z-1
+C-1
+R0
+S
+#3022
+{BO,BLU}The Bar of {bo,blu}{WH}Swordsmen{wh}~
+  
+  {BO,BLU} The bar of swordsmen, once upon a time beautifully
+   furnished.  But now the furniture is all around 
+   you in pieces.  They must practice quite hard here
+   to get {BO,RE}gashes{BO,BLU} that large!  To the south is the 
+   practice yard, and west is the entrance hall.{bo,blu}
+
+~
+30 12 0
+D2
+You see the practise yard.
+~
+~
+0 -1 3023
+D3
+You see the entrance hall to the thieves guild.
+~
+~
+0 -1 3021
+Z-1
+C-1
+R0
+S
+#3023
+{BO,BLU}The Tournament and Practice Yard{bo,blu}~
+ 
+ {BO,BLU}  This is the practice yard of the fighters.  Your {BO,WH}guildmaster{BO,BLU}
+   stands here ready to teach you things.  He is {bo,blu}{RE}temperamental{BO,BLU},
+   however and when you don't feel like practicing anymore, he
+   will not train you. To the north is the bar and a well leads
+   down into {BO,BLA}darkness{BO,BLU}.{bo,blu}
+
+~
+30 12 0
+D0
+You see the bar.
+~
+~
+0 -1 3022
+D5
+You can't see what is down there, it is too dark.  Looks like it would be
+impossible to climb back up.
+~
+~
+0 -1 7048
+Z-1
+C-1
+R0
+S
+#3024
+{BO,BLA}Eastern End of{BO,YEL} Poor Alley{bo,yel}~
+
+  You are at the Poor Alley. South of
+  here is the Grubby Inn and to the east 
+  you see Common Square. The alley 
+  continues further west. Floating in mid-air
+  is a bright electric-blue circle, 
+  almost two yards in diameter.
+
+~
+30 0 1
+D0
+~
+~
+0 -1 11360
+D1
+~
+~
+0 -1 2093
+D2
+You see the Inn.
+~
+~
+0 -1 3048
+D3
+You see the poor alley.
+~
+~
+0 -1 3044
+Z-1
+C-1
+R0
+S
+#3025
+{BO,RE}The Common Square{bo,re}~
+  
+ {BO,RE} As you can see this is the common square. People
+  pass you, talking to each other.  To the west is
+  the {YEL}poor alley{BO,RE} and to the east is the {BO,BLA}dark alley{BO,RE}.
+  To the north, this square is connected to the market
+  square.  From the south you notice a nasty smell.
+  There is a {bo,re}{WH}manhole cover{BO,RE} on the ground here.{bo,re}
+
+~
+30 0 1
+D0
+~
+~
+0 -1 3014
+D1
+~
+~
+0 -1 2092
+D2
+~
+~
+0 -1 2091
+D3
+~
+~
+0 -1 2093
+D5
+You see a common manhole cover.  City of Midgaard is emblazoned on its lid.
+~
+cover~
+1 -1 4801
+Z-1
+C-1
+R0
+S
+#3026
+{BO,BLA}The Dark {BO,BLU}Alley{bo,blu}~
+
+  You are standing in a dark alley. To
+  the west is the Graben. Judging by
+  the suspicious crowd to the south
+  the Thieves Guild is not far from
+  here. The alley continues east. 
+
+~
+30 0 1
+D1
+The alley continues east.
+~
+~
+0 -1 3045
+D2
+You see the entrance to the thieves guild.
+~
+~
+0 -1 3027
+D3
+~
+~
+0 -1 2092
+E
+guild~
+It is the thieves guild, don't enter if you care about your health or money.
+~
+Z-1
+C-1
+R0
+S
+#3027
+{BO,BLA}Entrance Hall to the Guild of {bo,bla}{RE}Thieves{re}~
+
+   {RE}This is the entrance hall to the {BO,BLA}thieves{bo,bla}{RE}' and 
+   {BO,BLA}assassins{bo,bla}{RE}' guild.  You detect this is a place 
+   where you can lose both your life and your 
+   money, if you are not careful.  To the north
+   is the dark alley and to the east is the thieves' 
+   bar.{re}
+
+~
+30 8 0
+D0
+You see the alley.
+~
+~
+0 -1 3026
+D1
+You see the thieves bar, where everything disappears.
+~
+~
+0 -1 3028
+Z-1
+C-1
+R0
+S
+#3028
+{BO,RE}The {BO,BLA}Thieves{BO,RE}' Bar{bo,re}~
+  
+   {RE}This is the bar of the {BO,BLA}thieves{bo,bla}{RE}.  Once upon a 
+   time this place was beautifully furnished, but
+   now it seems almost empty.  To the south is the
+   yard, and to the west is the entrance hall.
+   You gawk at the lack of any chairs or tables 
+   here.{re}
+
+~
+30 12 0
+D2
+You see the secret yard.
+~
+~
+0 -1 3029
+D3
+You see the entrance hall to the thieves guild.
+~
+~
+0 -1 3027
+E
+furniture~
+As you look at the furniture, the chair you sit on disappears.
+~
+Z-1
+C-1
+R0
+S
+#3029
+{BO,BLA}The Secret Yard{bo,bla}~
+
+{BO,BLA}   You are standing in the secret practice yard of
+   thieves and assassins. To the north is the bar and
+   a hole leads down into darkness.{bo,bla}
+
+~
+30 12 0
+D0
+You see the bar.
+~
+~
+0 -1 3028
+D5
+You can't see what is down there, it is too dark.  Looks like it would be
+impossible to climb back up.
+~
+~
+0 -1 7043
+Z-1
+C-1
+R0
+S
+#3030
+{GR}The City {YEL}D{GR}u{YEL}m{GR}p{gr}~
+
+   {GR}The dump, where the people from the city drop their {BO,GR}garbage{bo,gr}{GR}. Through the
+   garbage there is a large junction of pipes, which looks like an entrance to
+   the {WH}sewer system{GR}.  South of here you see a small, rickety bridge across the
+   {BLU}river{GR} and to the north is the common square. There is a warning sign posted
+   that says, {BO,RE}"Anything dropped in the dump will be lost forever."{bo,re}
+
+~
+30 8324 2
+D0
+~
+~
+0 -1 2091
+D2
+~
+~
+0 -1 1050
+D3
+~
+~
+0 -1 3063
+D5
+You see the sewers.
+~
+~
+0 -1 7030
+X3200
+Z-1
+C-1
+R0
+S
+#3031
+{BO,CY}The {BO,YEL}Pet{BO,CY} Shop{cy}~
+ 
+   {BO,CY}The {BO,YEL}Pet{BO,CY} Shop {bo,cy}{CY}is a small crowded store, full
+   of cages and animals of various sorts and sizes.
+   A small puppy bearing resemblance to roadkill 
+   with satanic eyes tries to lick your hand as you
+   pass by.  There is a sign on the wall.{cy}
+
+~
+30 8 0
+D0
+~
+~
+0 -1 2094
+D1
+~
+~
+0 -1 13024
+D2
+~
+~
+0 -1 3046
+E
+sign~
+The sign reads:
+
+  Use 'List' to see the available pets.
+  Use 'Buy <pet>' to buy yourself a pet.
+
+  Instructions for having pets:
+
+  You can use 'order <pet> <instructions>' to order your pets around.
+  If you abuse your pet, it will no longer regard you as its master.
+  If you have several pets you may use 'order followers <instructions>'
+
+  You can name the pet you buy as : "buy <pet> <name>"
+
+ Regards,
+
+   The Shopkeeper
+~
+M57
+Z-1
+C-1
+R0
+S
+#3032
+Pet Shop Store~
+  This is the small dark room in which the Pet Shop Boy keeps his pets.
+It is vital that this room's virtual number is exactly one larger than the
+Pet Shop number.
+~
+30 2056 0
+M60
+Z-1
+C-1
+R0
+S
+#3033
+{YEL}The{MAG} Magic{YEL} Shop{yel}~
+
+   {MAG}You are in a small room that smells of rare 
+   {RE}chemicals {MAG}and {RE}spices{MAG}. Dividing the room in 
+   two is a large desk, and on the wall behind 
+   it are numerous shelves crammed with jars, 
+   bottles, books and scrolls of all sorts and
+   sizes.{mag}
+
+~
+30 8 0
+D2
+You see the main street.
+~
+~
+0 -1 3012
+E
+jars bottles~
+Some of them are transparent enabling you to see that some contain coloured
+powders while others contain body parts of various animals.
+~
+E
+books~
+Most of them appear to be very old and dusty.
+~
+E
+scrolls~
+Each scroll is stored in a leather tube that protects it from moist.
+~
+Z-1
+C-1
+R0
+S
+#3034
+{CY}The{BO,MAG} Jeweller's{bo,mag}{CY} Shop{cy}~
+
+   {BO,MAG}You are in a small, beautifully furnished room.  The warm light emanating
+   from the small oil lamps on the walls is reflected in the hard, polished
+   surface of the big mahogany desk that stands in the centre of the room.
+   A small sign with golden letters stands on the desk.{bo,mag}
+
+~
+30 136 0
+D0
+You see Main Street.
+~
+~
+0 -1 3015
+D2
+~
+~
+0 -1 2092
+E
+oil lamps~
+They are made from polished gold and looks as if they are securely fastened
+to the smooth stone walls.
+~
+E
+desk~
+Your face is reflected in its surface.
+~
+E
+sign~
+The golden letters say :-
+
+    Use 'list' to see what is in store,
+        'buy <item>' to buy an item,
+        'sell <item>' to sell an item and
+        'value <item>' to make the jeweller evaluate an item.
+~
+Z-1
+C-1
+R0
+S
+#3035
+{YEL}The{BO,BLA} Leather{bo,bla}{YEL} Shop{yel}~
+  
+   {BO,BLA}An acrid smell fills this large room.  Along
+   the walls are numerous shelves containing all
+   sorts of animal hide and in the crackling 
+   fireplace hangs a big iron pot with boiling 
+   water.  In the middle of the room is a large,
+   oak table.{bo,bla}
+
+~
+30 8 0
+D0
+~
+~
+0 -1 2095
+D2
+You see the alley.
+~
+~
+0 -1 3044
+D3
+~
+~
+0 -1 3042
+E
+fireplace~
+It is a rather large fireplace made from heavy granite rocks.
+~
+E
+table~
+It is made from solid oak but appears to be very used.  Its surface is
+covered in marks and scratches.  A large burning candle stands directly on
+the table surface, tallow flowing down its sides.
+~
+E
+pot~
+Several large pieces of leather hide are boiling in the iron pot.
+~
+E
+sign~
+The wooden sign says :-
+
+    Use 'list' to see what is in store,
+        'buy <item>' to buy an item,
+        'sell <item>' to sell an item and
+        'value <item>' to make the leather worker evaluate an item.
+~
+Z-1
+C-1
+R0
+S
+#3036
+{R}{BOLD}B{Y}o{R}z{Y}o{R}'{Y}s{BLU} Training Room{blu}~
+
+   {WH}This is the place where you gain levels and improve 
+   your stats!  To train for your next level, you type 
+   the following:
+   
+   {BO,RE}TRAIN LEVEL W{bo,re}{WHI} (warrior) or {BO,RE}TRAIN LEVEL M {bo,re}{WHI}(mage), 
+   etc... The word{RE} LEVEL{WHI} will tell the trainer that you 
+   want to{RE} LEVEL{WHI}. You do not need to type in a number.
+   ie,  TRAIN 30 W. 
+   
+   To improve your STATS, you do the following:
+   {BO,RE}TRAIN STR{bo,re}{WHI} (Strength) or {BO,RE}TRAIN INT{bo,re}{WHI} (Intelligence)
+   
+        {RE}Strength        {BO,YEL}     Wisdom
+       {BO,CY} Intelligence      {BO,GRE}   Dexterity
+   {BO,BLU}     Consititution     {BO,RE}   Level{bo,re}{WHI}
+   
+   It costs 4 practices to increase your main attribute 
+   and 6 for others.{whi}
+
+~
+30 73732 1
+D5
+~
+~
+0 -1 3014
+T3065
+Z-1
+C-1
+R0
+S
+#3037
+The Western End of the Altar~
+
+  {WH} You are standing west of the temple altar in the northern end of the {BO,WH}Temple
+   of Midgaard{bo,wh}{WH}. Twenty feet above you stand {MAG}stained-glass windows{WH} depicting
+   the glorious wars and benevolent acts performed by{BO,RE} The Committee {bo,re}{WH}over the
+   years, casting long, bright rectangles onto the otherwise hard stone floor.{wh}
+
+~
+30 286860 0
+D1
+~
+~
+0 -1 3054
+Z-1
+C-1
+R0
+S
+#3038
+{WH}The{BO,WH} Healer {bo,wh}{WH}Shop{whi}~
+
+  {WH} You are standing inside {BO,WHI}the Healer Shop{bo,wh}{WH}. Here you can buy {CY}potions{WH}
+   and {CY}mixtures{WH} which help you restore your health and energy. On the
+   back wall you see some shelves with reagents for the potions.{wh}
+
+~
+30 8332 0
+Z0
+C-1
+R0
+S
+#3040
+{GRE}Inside the West Gate of{BO,WH} Midgaard{bo,wh}~
+
+   {GR}You are by two small towers that have been 
+   built into the city wall and connected with
+   a footbridge across the heavy wooden gate.  
+   The main street leads west from here. To the
+   south is Wall Road.{gr}
+
+~
+30 0 1
+D1
+~
+~
+0 -1 2095
+D2
+You see the road running along the inner side of the city wall.  You notice
+that it is called Wall Road.
+~
+~
+0 -1 3042
+D3
+The city gate is to the west.
+~
+gate~
+1 3133 3052
+D4
+~
+~
+0 -1 3098
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+Z-1
+C-1
+R0
+S
+#3041
+{GRE}Inside the East Gate of{BO,WH} Midgaard{bo,wh}~
+
+   {GR}You are by two small towers that have been
+   built into the city wall and connected with
+   a footbridge across the heavy wooden gate.  
+   The main street leads west from here. To the
+   south is Wall Road.{gr}
+
+~
+30 0 1
+D0
+~
+~
+0 -1 2013
+D1
+You see the old city gate.
+~
+gate~
+1 3133 3053
+D2
+You see a road.
+~
+~
+0 -1 13024
+D3
+~
+~
+0 -1 2094
+D4
+~
+~
+0 0 3099
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+Z-1
+C-1
+R0
+S
+#3042
+{YEL}Wall Road{bo,ye}~
+
+   {BO,YEL}You are walking next to the western city wall.  
+   The road continues further south and the city 
+   gate is just north of here.{bo,yel}
+
+~
+30 0 1
+D0
+You see the city gate.
+~
+~
+0 -1 3040
+D1
+~
+~
+0 -1 3035
+D2
+The road continues further south.
+~
+~
+0 -1 3043
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+Z-1
+C-1
+R0
+S
+#3043
+{YEL}Wall Road{bo,ye}~
+
+   {BO,YEL}You are walking next to the western city wall.  
+   The road continues further south and the city 
+   gate is just north of here.{bo,yel}
+
+~
+30 0 1
+D0
+The road continues further north.
+~
+~
+0 -1 3042
+D1
+The alley leads east.
+~
+~
+0 -1 3044
+D2
+The road continues further south.
+~
+~
+0 -1 3047
+E
+letters~
+It says 'Who watches the watchmen?'
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+Z-1
+C-1
+R0
+S
+#3044
+{BO,BLA}Poor Alley{bo,bla}~
+
+  You are in a narrow and dirty alley. 
+  As you look around you spot a leather
+  shop to the north and a road following
+  the city wall to the west. The smell
+  of rotting food breezes in from the east.
+
+~
+30 0 1
+D0
+The leather shop is to the north.
+~
+~
+0 -1 3035
+D1
+The alley leads east.
+~
+~
+0 -1 3024
+D3
+The alley leads west.
+~
+~
+0 -1 3043
+Z-1
+C-1
+R0
+S
+#3045
+{BO,CY}Alley at{BO,BLU} Levee{bo,blu}~
+
+   {BO,CY}You are standing in the alley which 
+   continues east and west. South of
+   here you see the{BO,BLU} Levee{BO,CY}.{bo,cy}
+
+~
+30 0 1
+D1
+The alley leads east.
+~
+~
+0 -1 3046
+D2
+You see the Levee.
+~
+~
+0 -1 3049
+D3
+The alley leads west.
+~
+~
+0 -1 3026
+Z-1
+C-1
+R0
+S
+#3046
+{BO,BLA}Eastern end of Alley{bo,bla}~
+
+  You are standing at the eastern end
+  of the alley. The city wall is just
+  east. An old three-story warehouse is 
+  located to the south of here.
+
+~
+30 0 1
+D0
+~
+~
+0 -1 3031
+D1
+~
+~
+0 -1 3061
+D2
+~
+~
+0 -1 18600
+D3
+You see the alley.
+~
+~
+0 -1 3045
+Z-1
+C-1
+R0
+S
+#3047
+{YEL}Wall Road{yel}~
+   
+   {BO,YEL}You are standing on the road next to 
+   the western city wall which continues 
+   north.  South of here is a bridge 
+   across the {BO,BLU}river{BO,YEL}.{bo,yel}
+
+~
+30 0 1
+D0
+You see the road.
+~
+~
+0 -1 3043
+D1
+~
+~
+0 -1 38700
+D2
+You see the bridge.
+~
+~
+0 -1 3051
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+Z-1
+C-1
+R0
+S
+#3048
+{CY}Grubby Inn{cy}~
+
+   {CY}You are inside the old {BO,CY}Grubby Inn{bo,cy}{CY}.  This
+   place has not been cleaned for several decades, 
+   and you can tell.  {RE}Vile smells{CY} make a{GR} green 
+   haze {CY}and you can detect the faint odor of smoke
+   as you rest from your dizziness.{cy}
+
+~
+30 8 0
+D0
+You see the alley.
+~
+~
+0 -1 3024
+Z-1
+C-1
+R0
+S
+#3049
+{BO,BLU}Levee{bo,blu}~
+   
+   {BO,BLU}You are at the {bo,blu}{WH}levee{BO,BLU}.  South of here you
+   see the {bo,blu}{BLU}river{BO,BLU} gently flowing west. The 
+   river bank is very low making it possible
+   to enter the river. To the immediate west
+   lie the docks of {BO,WH}Midgaard{BO,BLU}.{bo,blu}
+
+~
+30 0 1
+D0
+You see the Alley.
+~
+~
+0 -1 3045
+D1
+~
+~
+0 -1 23252
+D2
+You see the Danube flowing west.
+~
+~
+0 -1 3153
+D3
+~
+~
+0 -1 29700
+Z-1
+C-1
+R0
+S
+#3050
+{BO,BLA}Abandoned Warehouse{bo,bla}~
+  
+   {BO,BLA}You are inside the only room in the old 
+   warehouse.  Only a sparse amount of {YEL}light
+   {BO,YEL}shines{BO,BLA} in through the boarded up windows 
+   above you.  The place is very dusty and 
+   appears to have been unused for many years.{bo,bla}
+
+~
+30 8 0
+D0
+~
+~
+0 -1 18600
+D2
+~
+~
+0 -1 21090
+Z-1
+C-1
+R0
+S
+#3051
+{YEL}On the {BO,BLU}Bridge{bo,blu}~
+  
+  {WH} You are standing on the stone bridge 
+   crosses the {BO,BLU}river{bo,blu}{WH}.  The bridge is built 
+   out from the western city wall and the 
+   river flows west through an opening in 
+   the wall ten feet below the bridge.{wh}
+
+~
+30 0 1
+D0
+You see the road.
+~
+~
+0 -1 3047
+D2
+You see the Concourse.
+~
+~
+0 -1 3100
+E
+bridge~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar, just like the wall.
+~
+E
+opening~
+You cannot really see it from here as it is somewhere beneath your feet.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+Z-1
+C-1
+R0
+S
+#3052
+{GRE}Outside the West Gate of Midgaard{gre}~
+ 
+   {YEL}You are by two small towers that have been
+   built into the city wall and connected with
+   a footbridge across the heavy wooden gate.
+   To the west, the plains stretch out across 
+   the distance. To the north a small dusty trail 
+   follows the city wall.{yel}
+
+~
+30 1024 1
+D0
+The trail continues around the city.
+~
+~
+0 -1 3900
+D1
+The city gate is to the east.
+~
+gate~
+1 3133 3040
+D3
+The forest edge is to the west.
+~
+~
+0 -1 6000
+D4
+~
+~
+0 0 3098
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+Z-1
+C-1
+R0
+S
+#3053
+{GRE}Outside the East Gate of Midgaard{gre}~
+ 
+   {GR}You are by two small towers that have been
+   built into the city wall and connected with
+   a footbridge across the heavy wooden gate.
+   To the east, the plains stretch out across 
+   the distance. To the north a small dusty trail 
+   follows the city wall.{gr}
+
+~
+30 1024 1
+D0
+The trail continues around the city.
+~
+~
+0 -1 3908
+D1
+You see the plains.~
+~
+0 -1 3503
+D2
+You see a small path.
+~
+~
+0 -1 3914
+D3
+You see the city gate.
+~
+gate~
+1 3133 3041
+D4
+~
+~
+0 0 3099
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+Z-1
+C-1
+R0
+S
+#3054
+{WHI}By the Temple {BO,WH}Altar{bo,wh}~
+  
+  {WH}You are by the temple altar in the northern
+   end of the {BO,WH}Temple of Midgaard{bo,wh}{WH}. A huge altar
+   made from white polished marble is standing
+   in front of you and behind it is a ten foot
+   tall sitting statue of {BO,BLA}God.{bo,bla}
+
+~
+30 8332 0
+D2
+~
+~
+0 -1 3001
+D3
+~
+~
+0 -1 3037
+D4
+~
+~
+0 -1 2021
+E
+altar~
+Even though the altar is more than ten feet long it appears to be made from a
+single block of white virgin marble.
+~
+E
+statue odin king god~
+The statue represents the Zeus sitting on a his throne.  He has
+long, grey hair and beard and a strict look on his face.  On top of the
+throne, just above his shoulders, his two ravens Hugin and Munin are sitting
+and at his feet are his wolves Gere and Freke.
+~
+X12
+Z-1
+C-1
+R0
+S
+#3055
+Odin's Store~
+  This is the small dark room in which Odin keeps the player items that he
+takes care of.  It is vital that this room's virtual number is exactly one
+larger than the room by the temple altar.
+~
+30 8 0
+Z-1
+C-1
+R0
+S
+#3056
+{BO,RE}The Donation Room{bo,re}~
+
+   {RE}This room was created by the gods for all 
+   newbies.  This is a place for more experienced
+   players to leave any unwanted equipment. Any 
+   equipment that you want donated can be left in
+   this room. Do not donate something if you don't
+   want someone else to have it. {BO,RE}{BLINK}Enjoy!{bo,re}{blink}
+
+~
+30 66700 0
+D3
+~
+~
+0 -1 3001
+Z-1
+C-1
+R0
+S
+#3057
+{WH}The north eastern aisle of the{BO,WH} Temple{bo,wh}~
+  
+   {BO,WH}This side aisle is nearly as big as the nave. You
+   can see a lot of statues of {BO,MAG}beautiful{BO,WH} looking 
+   people. The aisle continues to the south. To the
+   east, you can see a little altar room. It looks 
+   very interesting because you can feel energy all
+   around the entrance.{bo,wh}
+
+~
+30 12 0
+D0
+You see a small road.
+~
+~
+0 -1 10001
+D1
+You see a little altar room.
+~
+~
+0 -1 3058
+D3
+You see the western side aisle.
+~
+~
+0 -1 3066
+Z-1
+C-1
+R0
+S
+#3058
+{WH}The little{BO,WH} altar{bo,wh}{WH} room{wh}~
+
+  {WH}You are east of the north eastern side aisle in a
+   little altar room. The walls are covered with
+   beautiful pictures.  To the east, your eyes catch
+   {BO,WH}a little altar{bo,whi}{WH}.  It does not look very heavy from
+   this far away.{wh}
+
+~
+30 8 0
+D1
+You see the little altar.  Between the ground and the altar there is a 
+little gap.  Maybe you can move the altar.
+~
+altar gap~
+2 -1 3059
+D3
+You see the north eastern side aisle.
+~
+~
+0 -1 3057
+E
+altar~
+This little altar is covered with nice little pictures of skeletons.
+Skeletons?  What the hell... Ooops! Not here, inside the Cathedral.
+The altar looks not very heavy.  Maybe you could move it a little bit.
+~
+Z-1
+C-1
+R0
+S
+#3059
+{BO,BLA}At the staircase down to the {bo,bla}{RE}catacombs{re}~
+
+   {BO,BLA}West of here, you see the backside of a {WHI}little altar{BO,BLA}. Behind you is
+   a spiral staircase leading down to the{BO,RE} catacombs{BO,BLA}.  Decide which way 
+   you want to go.{bo,bla}
+
+~
+30 9 0
+D3
+You see the little altar.
+~
+altar gap~
+2 -1 3058
+D5
+You see the spiral staircase leading down into darkness.
+~
+~
+0 -1 3060
+E
+altar gap~
+You see the backside of a little, very old altar.  In a little gap between
+the floor and the altar you can see flickering light
+~
+Z-1
+C-1
+R0
+S
+#3060
+{BO,BLA}The spiral staircase down to the {bo,bla}{RE}catacombs{re}~
+
+   {BO,BLA}You are at the lower end of the spiral staircase.  You can go up to
+   the Temple or down to the {BO,RE}catacombs{bo,re}{BO,BLA}.{bo,bla}
+
+~
+30 13 0
+D4
+You see the spiral staircase leading up.
+~
+~
+0 -1 3059
+D5
+You see the entrance to the catacombs.
+~
+~
+0 -1 3700
+Z-1
+C-1
+R0
+S
+#3061
+{BO,BLA}The hidden Shop{bo,bla}~
+
+  You are in a very dark and dusty shop. 
+  Despite its uncomfortable environment, 
+  you decide to take a look around. 
+
+~
+30 8 0
+D1
+~
+~
+0 -1 13025
+D3
+~
+~
+0 -1 3046
+Z-1
+C-1
+R0
+S
+#3062
+{WHI}The{BO,RE} Operating{bo,re}{WH} Room{wh}~
+
+   {WH}You stare around in this room and shiver. {YEL}Rusty-looking{WH}
+   scalpels lay scattered disorganizedly in a tray on a table.
+   Flecks of {RE}dried{BO,RE} blood {bo,re}{WH}is all over the floor, and even in little
+   patches on the walls.  You catch sight of strange organisms
+   floating in jars of formaldehye.  A hunchbacked doctor stands
+   at a wooden platform with his back to you.  He is {RE}{BLINK}struggling{re}{blink}{WH}
+   with a patient who is trying to escape.{wh}
+
+~
+30 8200 1
+D1
+~
+~
+0 -1 3063
+X2048
+Z-1
+C-1
+R0
+S
+#3063
+{WH}The{BO,RE} Waiting{bo,re}{WH} Room{wh}~
+
+   {WH}You stare around in the waiting room.  {MAG}A sweet feminine
+   voice speaks up from behind you, {BO,MAG}'How may I help you?' {bo,mag}{WH} You
+   turn around, expecting a beautiful nurse, and barely hold back
+   a {BO,RE}scream{bo,re}{WH}.  This is the ugliest nurse you've ever seen in your
+   life!  Face covered with wrinkles and hairy moles, she scowls
+   at you, looking even more hideous than ever, and speaks again
+   in that {MAG}strange sweet voice,{BO,MAG} 'Well?' {bo,mag}{WH} To the west, you can
+   hear a {RE}scream of agony{WH} and a loud crack and thump.{wh}
+
+~
+30 8200 1
+D1
+~
+~
+0 -1 3030
+D3
+~
+~
+0 -1 3062
+X2048
+Z-1
+C-1
+R0
+S
+#3065
+{WH}The western side aisle of{BO,WH} Temple{bo,whi}~
+
+   {CY}This is, by far, the most beautiful part of a
+   church you've ever seen!  Look at all of those
+   windows. The {YEL}light {BO,YEL}floods{bo,yel}{CY} through the windows
+   in all the lovely colours of the {BO,RE}r{BO,YEL}a{BO,GR}i{BLU}n{CY}b{MAG}o{RE}w{bo,re}{CY}.  Your
+   heart feels warm and tender. This must be the
+   most peaceful place on earth.  There is a little
+   sign on the wall.  You see the western side aisle
+   continue to the north.  To the east you see the
+   temple.{cy}
+
+~
+30 1032 0
+D0
+You see the side aisle continue.
+~
+~
+0 -1 3066
+D1
+You see the nave of the Temple.
+~
+~
+0 -1 3001
+E
+sign~
+Welcome to the beautiful Temple of Midgaard.  Don't miss to visit our 
+tower.  The sight is absolutly impressing.  Please mind your steps, 
+because we have no balustrade up there. 
+~
+Z-1
+C-1
+R0
+S
+#3066
+{WH}The north western side aisle of{BO,WH} Temple{bo,wh}~
+  
+  {CY} When you look around you, it seems, that little
+   transparent air spirits are dancing in the 
+   colourful light of the Cathedral.  Alongside the
+   wall are some pictures and statues of holy people.
+   All dead of course.  Only dead people are holy 
+   people.  You decide to stay what you are - not
+   holy.  To the south you see the side aisle 
+   continue.  To the west you see the entrance to the
+   tower of the Temple.{cy}
+
+~
+30 8 0
+D1
+You see the east side of the aisle.
+~
+~
+0 -1 3057
+D2
+You see the side aisle continue to the south.
+~
+~
+0 -1 3065
+D3
+You see the entrance to the tower.
+~
+~
+0 -1 3067
+Z-1
+C-1
+R0
+S
+#3067
+{WHI}The entrance to the tower of{BO,WH} Temple{bo,wh}~
+
+   {BO,BLA}This small little cabinet seems to be the entrance to the tower.  To 
+   the north you can see a little narrow spiral staircase leading up.  The steps
+   are made of a heavy stone and look secure.  There are {bo,bla}{RE}no windows{BO,BLA} in the tower. 
+   At least you can't see any from this position.{bo,bla}
+
+~
+30 8 0
+D1
+You see the north eastern side aisle of Temple.
+~
+~
+0 -1 3066
+D4
+You see the spiral staircase leading up.
+~
+~
+0 -1 3068
+Z-1
+C-1
+R0
+S
+#3068
+{BO,BLA}The spiral staircase to the tower{bo,bla}~
+
+  {RE}You are on an {BO,BLA}endless spiral staircase{bo,bla}{RE}, leading to the top of the
+  tower.  It seems to take forever to go round and round and round and 
+  round. You can go either up or down the staircase.{re}
+
+~
+30 9 0
+D4
+You see the staircase continue up.
+~
+~
+0 -1 3069
+D5
+You see the staircase continue down.
+~
+~
+0 -1 3067
+Z-1
+C-1
+R0
+S
+#3069
+{BO,BLA}The spiral staircase to the tower{bo,bla}~
+
+  {RE}You are on an {BO,BLA}endless spiral staircase{bo,bla}{RE}, leading to the top of the
+  tower.  It seems to take forever to go round and round and round and 
+  round. You can go either up or down the staircase.{re}
+
+~
+30 9 0
+D4
+You see the staircase continue up.
+~
+~
+0 -1 3070
+D5
+You see the staircase continue down.
+~
+~
+0 -1 3068
+Z-1
+C-1
+R0
+S
+#3070
+{BO,BLA}The spiral staircase to the tower{bo,bla}~
+
+  {RE}You are on an {BO,BLA}endless spiral staircase{bo,bla}{RE}, leading to the top of the
+  tower.  It seems to take forever to go round and round and round and 
+  round. You can go either up or down the staircase.{re}
+
+~
+30 9 0
+D4
+You see the staircase continue up.
+~
+~
+0 -1 3071
+D5
+You see the staircase continue down.
+~
+~
+0 -1 3069
+Z-1
+C-1
+R0
+S
+#3071
+{BO,BLA}The spiral staircase to the tower{bo,bla}~
+
+  {RE}You are on an {BO,BLA}endless spiral staircase{bo,bla}{RE}, leading to the top of the
+  tower.  It seems to take forever to go round and round and round and 
+  round. You can go either up or down the staircase.{re}
+
+~
+30 9 0
+D1
+You see a narrow dark opening.
+~
+~
+0 -1 3076
+D4
+You see the room in the top of the tower.
+~
+~
+0 -1 3072
+D5
+You see the staircase continue down.
+~
+~
+0 -1 3070
+Z-1
+C-1
+R0
+S
+#3072
+{BO,BLA}The little room in the top of the {RE}tower{bo,re}~
+
+   {CY}WOW! What a sight.  You can see nearly whole {BO,WH}Midgaard {bo,wh}{CY}from this room.
+   Looking down on Temple Square you can see all those little adventurers seeking
+   for fame and glory.  How nice they look from here.  Like little toy soldiers.
+   {BO,RE}Oops!{bo,re}{CY} Don't lean yourself too far out.  There is no balustrade here.  But you
+   can go any direction, if you want.  As you look up, you enjoy the clean air of
+   Midgaard. It would be nice to have the ability to fly. Oh wait, what is this 
+   you see? A rope going up into the {WH}clouds{CY}?{cy}
+
+~
+30 4 0
+D0
+~
+~
+0 -1 3075
+D4
+~
+~
+0 -1 12205
+D5
+You see the staircase leading down.
+~
+~
+0 -1 3071
+Z-1
+C-1
+R0
+S
+#3073
+{BO,WH}The free fall through the air!!!{bo,wh}~
+
+{BO,RE}   This was the wrong step!!!
+        You had better brought your flight license with you.
+        You
+                fall
+                         down
+                                  and
+                                          die!!
+                                                 -- SPLAT --!!! -  {BO,RE}{BLINK}R.I.P.{bo,re}{blink}
+
+~
+30 6 9
+Z-1
+C-1
+R0
+S
+#3074
+{WH}The{BO,WH} Healer {bo,wh}{WH}Shop{whi}~
+
+  {WH} You are standing inside {BO,WHI}the Healer Shop{bo,wh}{WH}. Here you can buy {CY}potions{WH}
+   and {CY}mixtures{WH} which help you restore your health and energy. On the
+   back wall you see some shelves with reagents for the potions.{wh}
+
+~
+30 8332 0
+D0
+~
+~
+0 -1 2093
+D3
+~
+~
+0 -1 3119
+Z-1
+C-1
+R0
+S
+#3075
+{BO,BLA}The {BO,WH}hole {BO,BLA}in the dimensions{bo,bla}~
+
+   {YEL}This slightly concave stay connects the tower with the nave.  You are
+   suprised how neat and tidy it's in here.  As if someone would take care of
+   that place.  You can crawl west to the tower or east.{yel}
+
+~
+30 8 1
+D1
+~
+~
+0 -1 2500
+D3
+~
+~
+0 -1 1216
+D4
+~
+~
+0 -1 2301
+D5
+~
+~
+0 -1 3072
+E
+sign~
+You will be able to enter these areas via the TIME MACHINE which opens
+soon.
+
+-the administrators
+~
+Z-1
+C-1
+R0
+S
+#3076
+{YEL}Inside the {BO,YEL}stay{bo,yel}~
+
+   {YEL}This slightly concave stay connects the tower with the nave.  You are
+   suprised how neat and tidy it's in here.  As if someone would take care of
+   that place.  You can crawl west to the tower or east.{yel}
+
+~
+30 9 0
+D1
+The stay continues.
+~
+~
+0 -1 3077
+D3
+The tower of the Temple.
+~
+~
+0 -1 3071
+Z-1
+C-1
+R0
+S
+#3077
+{YEL}At the hole in the stay{yel}~
+
+{YEL}   As you crawl along inside the stay you discover a little {BO,BLA}hole {bo,bla}{YEL}in the
+   southern wall.  Some {BO,YEL}light {bo,yel}{YEL}falls through this hole.  It is still very narrow
+   in here.  But the air is getting better.  You can crawl east or west.{yel}
+
+~
+30 8 0
+D1
+The end of the stay.
+~
+~
+0 -1 3078
+D3
+The end of the stay.
+~
+~
+0 -1 3076
+E
+hole gap~
+As you look through the hole in the stay you get a phantastic look at the
+roof of the Temple. It's shimmering in all colours of the rainbow.
+~
+Z-1
+C-1
+R0
+S
+#3078
+{YEL}Eastern end of the stay{yel}~
+
+   {BO,YEL}The stay suddenly ends here.  It looks as if it should continue to the
+   east.  As you look east you discover a huge room made of wood.  To the west
+   the stay leads slightly up.{bo,yel}
+
+~
+30 13 0
+D1
+The room inside the roof of the Temple.
+~
+~
+0 -1 3079
+D3
+The stay.
+~
+~
+0 -1 3077
+Z-1
+C-1
+R0
+S
+#3079
+{WHI}Inside the roof of the{RE} Temple{re}~
+
+ {BO,BLA}  You are in something like a gigantic attic.  Above your head you can see
+   the roof of the {BO,WH}Temple{BO,BLA}.  In the middle, the room is about ten meters high.
+   To the east and west it's height is only about two meters.  To the south you
+   cannot even guess how long it is.  Some light falls through little windows 
+   in the roof.{bo,bla}
+
+~
+30 8 0
+D1
+The attic continues.
+~
+~
+0 -1 3080
+D2
+The attic continues.
+~
+~
+0 -1 3081
+D3
+Inside the stay.
+~
+~
+0 -1 3078
+Z-1
+C-1
+R0
+S
+#3080
+{WHI}Inside the roof of the{RE} Temple{re}~
+
+ {BO,BLA}  You are in something like a gigantic attic.  Above your head you can see
+   the roof of the {BO,WH}Temple{BO,BLA}.  In the middle, the room is about ten meters high.
+   To the east and west it's height is only about two meters.  To the south you
+   cannot even guess how long it is.  Some light falls through little windows 
+   in the roof.{bo,bla}
+
+~
+30 8 0
+D1
+A little wooden door marked <Pickproofed>.
+~
+door wooden~
+2 3068 3084
+D2
+The attic continues.
+~
+~
+0 -1 3082
+D3
+The attic continues.
+~
+~
+0 -1 3079
+Z-1
+C-1
+R0
+S
+#3081
+{WHI}Inside the roof of the{RE} Temple{re}~
+
+ {BO,BLA}  You are in something like a gigantic attic.  Above your head you can see
+   the roof of the {BO,WH}Temple{BO,BLA}.  In the middle, the room is about ten meters high.
+   To the east and west it's height is only about two meters.  To the south you
+   cannot even guess how long it is.  Some light falls through little windows 
+   in the roof.{bo,bla}
+
+~
+30 8 0
+D0
+The attic continues.
+~
+~
+0 -1 3079
+D1
+The attic continues.
+~
+~
+0 -1 3082
+D2
+You see a metal door.
+~
+door metal~
+1 -1 3083
+E
+door doorway metal~
+This old metal door looks very heavy. But there is no keyhole, so it won't
+be any problem to oben it - Or not?
+~
+Z-1
+C-1
+R0
+S
+#3082
+{WHI}Inside the roof of the{RE} Temple{re}~
+
+ {BO,BLA}  You are in something like a gigantic attic.  Above your head you can see
+   the roof of the {BO,WH}Temple{BO,BLA}.  In the middle, the room is about ten meters high.
+   To the east and west it's height is only about two meters.  To the south you
+   cannot even guess how long it is.  Some light falls through little windows 
+   in the roof.{bo,bla}
+
+~
+30 8 0
+D0
+The attic continues.
+~
+~
+0 -1 3080
+D3
+The attic continues.
+~
+~
+0 -1 3081
+Z-1
+C-1
+R0
+S
+#3083
+{BO,BLA}The Secret Room{bo,bla}~
+
+  {RE}Strange.{BO,BLA} Right here below the roof of the {BO,WH}Temple{BO,BLA} you discover a neat 
+  looking room.  There are some fine peace of furniture.  In your head you
+  can hear the{YEL} bell{BO,BLA} of the cash-register as you see yourself selling this
+  stuff.  But look at that.  Some wary person must live here.  Each end every
+  piece has been nailed to the floor.{bo,bla}
+
+~
+30 8 0
+D0
+You see a metal door.
+~
+door metal~
+1 -1 3081
+Z-1
+C-1
+R0
+S
+#3084
+{BO,BLU}On the{BO,CY} windy {BO,BLU}traverse{bo,blu}~
+
+ {GRE} So - now you have it! You are standing on a traverse at least 50 meters
+  above Midgaard.  As always in this town, the wind blows.  It tugs on your
+  clothes and for a moment it seems that you loose your balance!  Better get
+  quick to a saver place.  But mind your steps!{gr}
+
+~
+30 0 1
+D0
+Just very thin air.
+~
+~
+0 -1 3094
+D1
+A very narrow traverse.
+~
+~
+0 -1 3085
+D2
+Just very thin air.
+~
+~
+0 -1 3094
+D3
+You see a little wooden door.
+~
+door wooden~
+2 3068 3080
+Z-1
+C-1
+R0
+S
+#3085
+{BO,BLU}On the{BO,CY} windy {BO,BLU}traverse{bo,blu}~
+
+ {GRE} So - now you have it! You are standing on a traverse at least 50 meters
+  above Midgaard.  As always in this town, the wind blows.  It tugs on your
+  clothes and for a moment it seems that you loose your balance!  Better get
+  quick to a saver place.  But mind your steps!{gr}
+
+~
+30 0 1
+D0
+Just very thin air.
+~
+~
+0 -1 3094
+D1
+A top-hung window in the roof of the eastern side aisle.
+~
+window top-hung~
+1 -1 3086
+D2
+Just very thin air.
+~
+~
+0 -1 3094
+D3
+A very narrow traverse.
+~
+~
+0 -1 3084
+Z-1
+C-1
+R0
+S
+#3086
+{CY}At the belfry{cy}~
+
+   {CY}You are at the belfry of the eastern side aisle.  In the middle of the
+   room you can see the wooden trestle that holds the bells of the {BO,WH}Temple{bo,wh}{CY}.{cy}
+
+~
+30 8 0
+D2
+Another room in the roof.
+~
+~
+0 -1 3087
+D3
+A top-hung window.
+~
+window top-hung~
+1 -1 3085
+E
+belfry trestle~
+The belfry is made of wood and doesn't look as if it would become much
+older. The beams groan with the high weight of the bells. Better don't
+touch them.
+~
+Z-1
+C-1
+R0
+S
+#3087
+{WH}The huge column{wh}~
+
+  {WH}On the eastern side of this room you see an impressively huge column 
+  made of what marble. It's surface is polished and shimmers in the light.
+  As you examine it closer you can't discover even one little chamber. You
+  can go north and south.{wh}
+
+~
+30 0 0
+D0
+You see a belfry.
+~
+~
+0 -1 3086
+D1
+You see a huge marble column
+~
+column huge marble~
+2 -1 -1
+D2
+You see a big clockwork.
+~
+~
+0 -1 3088
+E
+column hugh marble~
+As you go even closer to examine the column you suddenly see some VERY
+little chambers. Maybe this is a hidden door. Or just a slipshot.
+~
+Z-1
+C-1
+R0
+S
+#3088
+{YEL}The clockwork of the {WH}Temple{wh}~
+
+  {YEL}On the eastern side of this room you see a gigantic {WH}clockwork{YEL}. It's
+  parts seem to be made of brass.  The {BO,YEL}golden shimmering{bo,yel}{YEL} surfaces look
+  fantastic as the uncountable number of gear-wheels move.  On the west side
+  of the roof you discover a little trap-door.{yel}
+
+~
+30 8 0
+D0
+You see a huge column.
+~
+~
+0 -1 3087
+D3
+A trap-door in the roof.
+~
+trap-door door trap~
+2 3069 3089
+E
+clockwork clock gigantic~
+
+As you look at the clockwork you see what good old handicraft can
+make. Even now, after hundreds of years, this clock still works.
+~
+Z-1
+C-1
+R0
+S
+#3089
+{BO,BLU}On the second{CY} windy{BO,BLU} traverse{bo,blu}~
+
+  {CY}You're really a hopeless optimist!  Do you think you can make such a
+  balance tour again?  Well, the traverse leads slightly up to the west.  The
+  wind tries to help you to make your last step.{cy}
+
+~
+30 0 1
+D0
+Nothing but very thin air.
+~
+~
+0 -1 3095
+D1
+A trap-door in the roof.
+~
+trap-door door trap~
+2 3069 3088
+D2
+Nothing but very thin air.
+~
+~
+0 -1 3095
+D3
+Still a very narrow traverse.
+~
+~
+0 -1 3090
+Z-1
+C-1
+R0
+S
+#3090
+{BO,BLU}On the second{CY} windy{BO,BLU} traverse{bo,blu}~
+
+  {CY}You're really a hopeless optimist!  Do you think you can make such a
+  balance tour again?  Well, the traverse leads slightly up to the west.  The
+  wind tries to help you to make your last step.{cy}
+
+~
+30 0 1
+D0
+Nothing but very thin air.
+~
+~
+0 -1 3095
+D1
+Still a very narrow traverse.
+~
+~
+0 -1 3089
+D2
+Nothing but very thin air.
+~
+~
+0 -1 3095
+D3
+The roof of the nave.
+~
+~
+0 -1 3091
+E
+shingles shingle roof~
+Good that you have chosen the save way! As you examine the shingles you see
+they won't be sturdy enough to carry your weight. Better bring something
+along to be able to fly if you want to go further west.
+~
+Z-1
+C-1
+R0
+S
+#3091
+{YEL}Flying just above the roof of the Temple{yel}~
+
+  {YEL}Well, you are able to fly - If not you would be dead now. The shingles
+  below you are not sturdy enough by far to carry your weight. The roof
+  continues to the north and looks much better there.{yel}
+
+~
+30 2 9
+D0
+You see the roof continue
+~
+~
+0 -1 3092
+D1
+A very narrow traverse.
+~
+~
+0 -1 3090
+D2
+Nothing but very thin air.
+~
+~
+0 -1 3095
+D3
+Nothing but very thin air.
+~
+~
+0 -1 3095
+Z-1
+C-1
+R0
+S
+#3092
+{YEL}On the roof of the Temple{yel}~
+
+  {YEL}This is a safer part of the roof of the Temple.  Here you don't need
+  to fly and waste your energy. The roof continues to the north and south.
+  Any other direction would be dangerous.{yel}
+
+~
+30 0 1
+D0
+You see the roof continue.
+~
+~
+0 -1 3093
+D1
+Nothing but very thin air.
+~
+~
+0 -1 3096
+D2
+You see the roof continue.
+~
+~
+0 -1 3091
+D3
+Nothing but very thin air.
+~
+~
+0 -1 3096
+Z-1
+C-1
+R0
+S
+#3093
+{BO,RE}At the pedestal of the statue of {BO,YEL}{BLINK}glory{bo,yel}{blink}~
+
+  {YEL}You are on the very northern part of the roof. Any direction but south
+  would be dangerous for your health. Right in front of you there is a huge
+  pedestal made of stone.{yel}
+
+~
+30 0 1
+D0
+Nothing but very thin air.
+~
+~
+0 -1 3096
+D1
+Nothing but very thin air.
+~
+~
+0 -1 3096
+D2
+You see the roof continue.
+~
+~
+0 -1 3092
+D3
+Nothing but very thin air.
+~
+~
+0 -1 3096
+E
+pedestal stone~
+As you look at the pedestal you see a little sign:
+
+    In memory to all those hard working men and women who helped to built
+this phantastic Cathedral. May God bless them and protect their soles from
+the golem of glory. We fought hard to ban this creature of evel. But the
+story goes the golem lives again. Don't let the gloriol mislead you!
+~
+Z-1
+C-1
+R0
+S
+#3094
+{BO,BLU}Flying near a {BO,CY}windy {BO,BLU}traverse{bo,blue}~
+  You are lucky to be able to fly! If not, you would be very flat now.
+But even flying isn't easy here because of the heavy wind. Better land
+again.
+~
+30 2 9
+D5
+A very narrow traverse.
+~
+~
+0 -1 3084
+Z-1
+C-1
+R0
+S
+#3095
+{BO,BLU}Flying near a {BO,CY}windy {BO,BLU}traverse{bo,blue}~
+  You are lucky to be able to fly! If not, you would be very flat now.
+But even flying isn't easy here because of the heavy wind. Better land
+again.
+~
+30 2 9
+D5
+A very narrow traverse.
+~
+~
+0 -1 3089
+Z-1
+C-1
+R0
+S
+#3096
+{RE}Flying near the roof of the Temple{re}~
+
+   {RE}You are lucky to be able to fly! If not, you would be very flat now.
+   But even flying isn't easy here because of the heavy wind. Better land
+   again.{re}
+
+~
+30 2 9
+D5
+The roof of the Temple.
+~
+~
+0 -1 3092
+Z-1
+C-1
+R0
+S
+#3097
+{WH}The {MAG}F{BO,MAG}l{bo,mag}{MAG}o{BO,MAG}w{bo,mag}{MAG}e{BO,MAG}r{bo,mag}{WH} Shop{wh}~
+
+   {MAG}You are in a lavishly decorated shop. Flowers
+   surround you on all sides. You can smell the
+   beautiful aroma coming from the flowers around
+   you. As you appreciate the aroma you take time
+   out to appreciate the finer things in life -
+   Sex, drugs, and rock n roll.{mag}
+
+~
+30 8 0
+D0
+You see the reception.
+~
+~
+0 -1 3008
+E
+counter~
+You see various assortment of flowers sprayed across the counter.
+~
+E
+flowers flower~
+Flowers surround you from all sides, they seem to have a lovely aroma.
+~
+E
+sign~
+The golden letters say :
+
+    Use 'list' to see what is in store,
+        'buy <item>' to buy an item,
+        'sell <item>' to sell an item and
+        'value <item>' to make the flourist evaluate an item.
+~
+Z-1
+C-1
+R0
+S
+#3098
+{GR}Over the West Gate of Midgaard{gr}~
+ 
+   You are lucky to be able to fly! As you fly over the east
+   gate of Midgaard, you notice strange looks from birds and
+   other airborne wildlife.  They wonder what awful predator
+   has gained the ability to fly - Looks like it is you!
+   
+~
+30 4 9
+D1
+~
+~
+0 0 3040
+D3
+~
+~
+0 0 3052
+Z-1
+C-1
+R0
+S
+#3099
+{GR}Over the East Gate of Midgaard{gr}~
+ 
+   You are lucky to be able to fly! As you fly over the east
+   gate of Midgaard, you notice strange looks from birds and
+   other airborne wildlife.  They wonder what awful predator
+   has gained the ability to fly - Looks like it is you!
+   
+~
+30 4 9
+D1
+~
+~
+0 0 3053
+D3
+~
+~
+0 0 3041
+Z-1
+C-1
+R0
+S
+$~

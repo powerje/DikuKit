@@ -1,0 +1,101 @@
+#257
+Demon Spawn Pre-School(Xana)~
+25799 30 2
+*
+D 0 25700     2     0    (S:OPEN) Xana's Aviary and Gardens
+D 0 25701     0     0    (N:OPEN) The Tool Shed
+D 0 25705     0     1    (N:CLOSED) Welcome to the Demon Spawn Pre-School and Day Care!
+M 0 25701     1 25706    the playground bully
+O 0 25705    12 25708    a baby bottle
+D 0 25713     1     1    (E:CLOSED) Entryway of the Demon Spawn Pre-School and Day Care
+D 0 25713     2     1    (S:CLOSED) Entryway of the Demon Spawn Pre-School and Day Care
+D 0 25713     3     1    (W:CLOSED) Entryway of the Demon Spawn Pre-School and Day Care
+D 0 25714     1     1    (E:CLOSED) Coat Room
+O 0 25702     1 25715    the desk
+P 1 25701     1 25702    a keychain
+D 0 25715     3     1    (W:CLOSED) Office
+M 0 25708     8 25716    a rugrat
+G 1 25705    12     0    a baby bottle
+M 0 25708     8 25716    a rugrat
+G 1 25705    12     0    a baby bottle
+M 0 25707     3 25717    a mesmerized kid
+M 0 25707     3 25717    a mesmerized kid
+M 0 25707     3 25717    a mesmerized kid
+M 0 25708     8 25718    a rugrat
+G 1 25705    12     0    a baby bottle
+M 0 25708     8 25718    a rugrat
+G 1 25705    12     0    a baby bottle
+M 0 25708     8 25718    a rugrat
+D 0 25719     3     1    (W:CLOSED) Play Area
+D 0 25720     1     1    (E:CLOSED) Infant Room
+M 0 25702     4 25721    an infant
+M 0 25702     4 25721    an infant
+M 0 25702     4 25721    an infant
+M 0 25702     4 25721    an infant
+O 0 25705    12 25721    a baby bottle
+M 0 25712     1 25723    a destructive kid
+M 0 25708     8 25724    a rugrat
+M 0 25708     8 25725    a rugrat
+G 1 25705    12     0    a baby bottle
+D 0 25725     3     1    (W:CLOSED) Play Area
+M 0 25703     4 25726    a toddler
+M 0 25703     4 25726    a toddler
+G 1 25705    12     0    a baby bottle
+D 0 25726     1     1    (E:CLOSED) Toddler Room
+M 0 25703     4 25727    a toddler
+M 0 25703     4 25727    a toddler
+E 1 25708     1    12    (ABOUT) a cuddly blankie
+G 1 25705    12     0    a baby bottle
+D 0 25728     1     2    (E:LOCKED) Play Area
+M 0 25711     1 25729    the toilet monster
+E 1 25707     1     6    (HEAD) the training potty
+D 0 25729     3     2    (W:LOCKED) Potty Room
+M 0 25708     8 25730    a rugrat
+G 1 25705    12     0    a baby bottle
+D 0 25731     3     1    (W:CLOSED) Play Area
+M 0 25704     3 25732    a preschooler
+D 0 25732     1     1    (E:CLOSED) Pre-school Room
+M 0 25704     3 25733    a preschooler
+G 1 25705    12     0    a baby bottle
+M 0 25704     3 25733    a preschooler
+M 0 25706     1 25733    a preschooler
+E 1 25706     1     0    (LIGHT) the nightlight
+M 0 25713     1 25735    a milk-mustached kid
+G 1 25704     1     0    a cup of milk
+G 1 25703     4     0    a chocolate chip cookie
+G 1 25703     4     0    a chocolate chip cookie
+G 1 25703     4     0    a chocolate chip cookie
+D 0 25735     1     0    (E:OPEN) Kitchen
+M 0 25709     1 25737    the swarm of flies
+O 0 25705    12 25737    a baby bottle
+D 0 25737     4     0    (U:OPEN) Inside the Dumpster
+D 0 25739     3     1    (W:CLOSED) Play Area
+M 0 25705     4 25740    a school-aged kid
+M 0 25705     4 25740    a school-aged kid
+M 0 25705     4 25740    a school-aged kid
+M 0 25705     4 25740    a school-aged kid
+D 0 25740     1     1    (E:CLOSED) School-aged Room
+D 0 25740     3     0    (W:OPEN) School-aged Room
+D 0 25741     1     0    (E:OPEN) Broom Closet
+D 0 25742     1     2    (E:LOCKED) Play Area
+M 0 25710     3 25743    a bored caregiver
+M 0 25710     3 25743    a bored caregiver
+M 0 25710     3 25743    a bored caregiver
+D 0 25743     3     2    (W:LOCKED) Employee Lounge
+D 0 25745     3     1    (W:CLOSED) Play Area
+D 0 25746     1     1    (E:CLOSED) Back Yard
+M 0 25714     6 25772    a small brat
+M 0 25715     6 25774    a large brat
+M 0 25714     6 25776    a small brat
+M 0 25715     6 25777    a large brat
+M 0 25715     6 25777    a large brat
+M 0 25714     6 25778    a small brat
+M 0 25715     6 25779    a large brat
+M 0 25714     6 25780    a small brat
+M 0 25715     6 25780    a large brat
+M 0 25715     6 25781    a large brat
+M 0 25714     6 25781    a small brat
+M 0 25714     6 25781    a small brat
+M 0 25716     1 25782    Tim, the brat leader
+E 1 25709     1    17    (HELD) the lifelike UZI 9mm SquirtGun
+$~

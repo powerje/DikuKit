@@ -1,0 +1,2610 @@
+#8200
+{W,BO}Standing Before a Large Building{bo}~
+   
+   You are standing on a quiet road.  A cold wind blows on your back,
+causing you to shiver.  To the north stands one of the largest 
+buildings you have seen in your life.  The building's polished white 
+marble sides shine brightly before your eyes.  Light shines out of 
+the front door of the building, leaving you intrigued as to what 
+might be inside. 
+     
+~
+82 9252 1
+D0
+~
+~
+0 -1 8201
+D2
+~
+~
+0 -1 49829
+Z3
+C-1
+R0
+S
+#8201
+{W,BO}At the Entrance{bo}~
+   
+   You stand at the entrance of the building.  It seems to be a factory
+of sorts.  A sign on the door says that the show room is open, but you
+haven't seen anyone enter or exit the building so you aren't sure what
+to think.  The door doesn't appear to be locked, and the light inside at
+least suggests they are still open.  You better get inside before you
+catch a cold!
+   
+~
+82 1060 1
+D0
+{bo,C}
+The large door leading inside if made of thick steel.  Inside you
+see a small hallway and a display room.  There is an OPEN sign on the
+door.
+{bo}
+~
+Door~
+1 -1 8202
+D2
+~
+~
+0 -1 8200
+E
+sign~
+   
+   {bo,W}Welcome to the {Y,BO}(- {bo,C,UND}Robot{bo} {BO,W,UND}Factory{bo,BO,Y} -){bo,W}, where you can find all the robots
+you desire to satisfy your household needs.  Please feel free to browse
+through our display room, which is stocked with some of the finest robots
+available on the market.  Our staff will be more than willing to help
+answer all your questions, about any of our robotic products.{bo}
+   
+~
+Z3
+C-1
+R0
+S
+#8202
+{W,BO}Inside the Factory{bo}~
+   
+   You stand just inside the factory.  The display area is directly
+north of you.  Zombie-like teenagers in uniform blue shirts wander
+around stocking shelves and taking inventory.  To the west is a
+hallway where the restrooms are located.  In addition to the restroom
+doors, there is also a door which appears to lead toward a stairway.  
+Very interesting.
+   
+~
+82 1036 1
+D0
+~
+~
+0 -1 8205
+D2
+~
+Door~
+1 -1 8201
+D3
+~
+~
+0 -1 8221
+Z3
+C-1
+R0
+S
+#8203
+{Y,BO}The Display Area{bo}~
+   
+   Aisles of robot components line the room.  Parts of all types and 
+sizes are available here for sale.  Hi-tech laser and solar panels are 
+on sale today.  The robots continue to wander around, trying to impress 
+you by doing small tasks.
+    
+~
+82 1024 1
+D0
+~
+~
+0 -1 8208
+D1
+~
+~
+0 -1 8204
+Z3
+C-1
+R0
+S
+#8204
+{Y,BO}The Display Area{bo}~
+   
+   Aisles of robot components line the room.  Parts of all types and 
+sizes are available here for sale.  Hi-tech laser and solar panels are 
+on sale today.  The robots continue to wander around, trying to impress 
+you by doing small tasks.
+    
+~
+82 1024 1
+D0
+~
+~
+0 -1 8209
+D1
+~
+~
+0 -1 8205
+D3
+~
+~
+0 -1 8203
+Z3
+C-1
+R0
+S
+#8205
+{Y,BO}The Display Area{bo}~
+   
+   You are standing inside the display area.  You finally realize what
+this factory is, it's a robot factory!  Robots wander around the room
+doing tasks, trying to impress potential buyers.  You are nearly
+swamped by all the robots as they fight for your attention and try
+to calculate your price range.  The teenage clerks on the otherhand
+seem to ignore you and go about their work.  
+   
+~
+82 1024 1
+D0
+~
+~
+0 -1 8210
+D1
+~
+~
+0 -1 8206
+D2
+~
+~
+0 -1 8202
+D3
+~
+~
+0 -1 8204
+Z3
+C-1
+R0
+S
+#8206
+{Y,BO}The Display Area{bo}~
+   
+   Aisles of robot components line the room.  Parts of all types and 
+sizes are available here for sale.  Hi-tech laser and solar panels are 
+on sale today.  The robots continue to wander around, trying to impress 
+you by doing small tasks.
+    
+~
+82 1024 1
+D0
+~
+~
+0 -1 8211
+D1
+~
+~
+0 -1 8207
+D3
+~
+~
+0 -1 8205
+Z3
+C-1
+R0
+S
+#8207
+{Y,BO}The Display Area{bo}~
+   
+   Aisles of robot components line the room.  Parts of all types and 
+sizes are available here for sale.  Hi-tech laser and solar panels are 
+on sale today.  The robots continue to wander around, trying to impress 
+you by doing small tasks.
+    
+~
+82 1024 1
+D0
+~
+~
+0 -1 8212
+D3
+~
+~
+0 -1 8206
+Z3
+C-1
+R0
+S
+#8208
+{Y,BO}Deeper in the Display Area{bo}~
+   
+   The farther in you go, the more hi-tech and frightening the products
+on the shelves become.  Fusion defense systems, nuclear powered rocket
+launchers and thermal detonation systems are all available for purchase.
+The robots still wander around aimlessly, trying to impress you.  The
+clerks sneak around behind your back, so it's nearly impossible to
+find one.
+   
+~
+82 1024 1
+D0
+~
+~
+0 -1 8213
+D1
+~
+~
+0 -1 8209
+D2
+~
+~
+0 -1 8203
+Z3
+C-1
+R0
+S
+#8209
+{Y,BO}Deeper in the Display Area{bo}~
+   
+   The farther in you go, the more hi-tech and frightening the products
+on the shelves become.  Fusion defense systems, nuclear powered rocket
+launchers and thermal detonation systems are all available for purchase.
+The robots still wander around aimlessly, trying to impress you.  The
+clerks sneak around behind your back, so it's nearly impossible to
+find one.
+   
+~
+82 1024 1
+D0
+~
+~
+0 -1 8214
+D1
+~
+~
+0 -1 8210
+D2
+~
+~
+0 -1 8204
+D3
+~
+~
+0 -1 8208
+Z3
+C-1
+R0
+S
+#8210
+{Y,BO}Deeper in the Display Area{bo}~
+   
+   The farther in you go, the more hi-tech and frightening the products
+on the shelves become.  Fusion defense systems, nuclear powered rocket
+launchers and thermal detonation systems are all available for purchase.
+The robots still wander around aimlessly, trying to impress you.  The
+clerks sneak around behind your back, so it's nearly impossible to
+find one.
+   
+~
+82 1024 1
+D0
+~
+~
+0 -1 8215
+D1
+~
+~
+0 -1 8211
+D2
+~
+~
+0 -1 8205
+D3
+~
+~
+0 -1 8209
+Z3
+C-1
+R0
+S
+#8211
+{Y,BO}Deeper in the Display Area{bo}~
+   
+   The farther in you go, the more hi-tech and frightening the products
+on the shelves become.  Fusion defense systems, nuclear powered rocket
+launchers and thermal detonation systems are all available for purchase.
+The robots still wander around aimlessly, trying to impress you.  The
+clerks sneak around behind your back, so it's nearly impossible to
+find one.
+   
+~
+82 1024 1
+D0
+~
+~
+0 -1 8216
+D1
+~
+~
+0 -1 8212
+D2
+~
+~
+0 -1 8206
+D3
+~
+~
+0 -1 8210
+Z3
+C-1
+R0
+S
+#8212
+{Y,BO}Deeper in the Display Area{bo}~
+   
+   The farther in you go, the more hi-tech and frightening the products
+on the shelves become.  Fusion defense systems, nuclear powered rocket
+launchers and thermal detonation systems are all available for purchase.
+The robots still wander around aimlessly, trying to impress you.  The
+clerks sneak around behind your back, so it's nearly impossible to
+find one.
+   
+~
+82 1024 1
+D0
+~
+~
+0 -1 8217
+D2
+~
+~
+0 -1 8207
+D3
+~
+~
+0 -1 8211
+Z3
+C-1
+R0
+S
+#8213
+{bo,Y}Secret Robotic Warfare Products{bo}~
+   
+   You stand in the top secret aisle of the display room.  Something
+tells you the products back here should NOT be sold to the general
+public.  Robotic Army products and NASA prototypes line the shelves.
+Weapons of mass destruction are mixed in among thick titanium alloy 
+plates and infrared targeting systems.  Though no actual robots 
+consisting of these types of products are on display, it makes you
+wonder what they might be keeping upstairs.
+   
+~
+82 1028 1
+D0
+{bo,Y}
+The large stock door is made of thick steel and look very hard
+to break down.  Unfortunately for you, it's locked.  Maybe you
+should go get a key...
+{bo}
+~
+Door~
+2 8202 8218
+D1
+~
+~
+0 -1 8214
+D2
+~
+~
+0 -1 8208
+Z3
+C-1
+R0
+S
+#8214
+{bo,Y}Secret Robotic Warfare Products{bo}~
+   
+   You stand in the top secret aisle of the display room.  Something
+tells you the products back here should NOT be sold to the general
+public.  Robotic Army products and NASA prototypes line the shelves.
+Weapons of mass destruction are mixed in among thick titanium alloy 
+plates and infrared targeting systems.  Though no actual robots 
+consisting of these types of products are on display, it makes you
+wonder what they might be keeping upstairs.
+   
+~
+82 1024 1
+D1
+~
+~
+0 -1 8215
+D2
+~
+~
+0 -1 8209
+D3
+~
+~
+0 -1 8213
+Z3
+C-1
+R0
+S
+#8215
+{bo,Y}Secret Robotic Warfare Products{bo}~
+   
+   You stand in the top secret aisle of the display room.  Something
+tells you the products back here should NOT be sold to the general
+public.  Robotic Army products and NASA prototypes line the shelves.
+Weapons of mass destruction are mixed in among thick titanium alloy 
+plates and infrared targeting systems.  Though no actual robots 
+consisting of these types of products are on display, it makes you
+wonder what they might be keeping upstairs.
+   
+~
+82 1024 1
+D1
+~
+~
+0 -1 8216
+D2
+~
+~
+0 -1 8210
+D3
+~
+~
+0 -1 8214
+Z3
+C-1
+R0
+S
+#8216
+{bo,Y}Secret Robotic Warfare Products{bo}~
+   
+   You stand in the top secret aisle of the display room.  Something
+tells you the products back here should NOT be sold to the general
+public.  Robotic Army products and NASA prototypes line the shelves.
+Weapons of mass destruction are mixed in among thick titanium alloy 
+plates and infrared targeting systems.  Though no actual robots 
+consisting of these types of products are on display, it makes you
+wonder what they might be keeping upstairs.
+   
+~
+82 1024 1
+D1
+~
+~
+0 -1 8217
+D2
+~
+~
+0 -1 8211
+D3
+~
+~
+0 -1 8215
+Z3
+C-1
+R0
+S
+#8217
+{Y,BO}Check-Out Line{bo}~
+   
+   You are standing next to the only check out area in the whole
+place.  You haven't seen any other customers in the store, let
+alone standing in line.  Unfortunately while there are no other
+customers to wait on, there is also no cashier here to make the
+sale.  What lousy employees!
+   
+~
+82 1028 1
+D2
+~
+~
+0 -1 8212
+D3
+~
+~
+0 -1 8216
+Z3
+C-1
+R0
+S
+#8218
+{BO,B}Inside the Stock Room{bo}~
+   
+   A layer of dust carpets the entire room.  Rows of gigantic shelves
+are all over the room in a random pattern.  Surplus supplies look as
+if they have been left back here for years.  The only sign of life
+back here is the rat crap on the floor that you just stepped in.  By the
+looks of it, there must be some HUGE rats back here!
+   
+~
+82 16778240 1
+D0
+~
+~
+0 -1 8219
+D2
+~
+Door~
+1 -1 8213
+X512
+Z3
+C-1
+R0
+S
+#8219
+{BO,B}Deep within the Stock Room{bo}~
+   
+   The light is faint back here in the depths of the stock room.  The
+sound of rats can be heard as their sharp claws scurry over surplus 
+robot equipment.  The blackness of the room is broken by a flashing
+red light from the north.  In the routine blinks of the light, you
+find time to see the large shelves to your east and west.
+   
+~
+82 1024 1
+D0
+~
+~
+0 -1 8220
+D2
+~
+~
+0 -1 8218
+Z3
+C-1
+R0
+S
+#8220
+{BO,B}The end of the Stock Room{bo}~
+   
+   As you cautiously walk into the black room, lit only by  
+flashing red, you come to the back wall and realize the stock 
+room goes no farther.  As you turn to leave, you notice the 
+glowing red light blinking at an increasing rate.  A robotic 
+chirp breaks the silence before a flood light shines on you.  
+You find yourself face to face with a Securo-bot!
+   
+~
+82 1153 1
+D2
+~
+~
+0 -1 8219
+Z3
+C-1
+R0
+S
+#8221
+{W,BO}The Hallway{bo}~
+   
+   You are walking down a bright, clean hallway.  The men's and women's
+restrooms can be seen farther down the way, along with a drinking
+fountain.  At the end of the hall, beyond two large security doors,
+appears to be a staircase.
+   
+~
+82 1032 1
+D1
+~
+~
+0 -1 8202
+D3
+~
+~
+0 -1 8222
+Z3
+C-1
+R0
+S
+#8222
+{W,BO}The Hallway{bo}~
+   
+   You find it hard to believe how clean this hallway is.  It's so clean, 
+you can see your reflection peering back at you from the tiles on the floor
+below.  These cleaning robots must do a fantastic job.  To the north is the 
+door to the women's restroom.  The men's restroom is farther down.
+   
+~
+82 1024 1
+D0
+{BO,G}
+A door with the word "{M}Women{G}" on it is here, waiting for someone to need to
+open it.
+{bo}
+~
+Door~
+1 -1 8224
+D1
+~
+~
+0 -1 8221
+D3
+~
+~
+0 -1 8223
+Z3
+C-1
+R0
+S
+#8223
+{W,BO}The Hallway{bo}~
+   
+   You've come to the end of the hall.  To the north is the men's 
+restroom.  Strangely enough, you hear sounds in there, but you are 
+sure no other customers have come into the store.  How bizarre.
+To the west is a thick steel security door.  The lights are off beyond 
+the door, but you can make out a stairway leading up.
+   
+~
+82 1024 1
+D0
+{BO,G}
+A door with the word "{C}Men{G}" on it is here, waiting for someone to open it.
+{bo}
+~
+Door~
+1 -1 8226
+D1
+~
+~
+0 -1 8222
+D3
+{bo,C}
+The large steel security door looks extremely durable.  There is a small
+hole in it for a key though.
+{bo}
+~
+Door~
+2 8200 8228
+Z3
+C-1
+R0
+S
+#8224
+{BO,C}The Women's Restroom{bo}~
+   
+   Your first thought as you enter is that this is an awfully small
+restroom for a building of this size.  Then again, you haven't seen 
+any other customers in your whole visit, so you guess it doesn't
+matter.  In this part of the bathroom, there is a sink and a hand dryer.  
+The sole stall in the bathroom is to the west.
+   
+~
+82 1024 1
+D2
+~
+Door~
+1 -1 8222
+D3
+{BO,M}
+The small stall door is tightly closed, but not locked.  Better not peek!
+{bo}
+~
+stall~
+1 -1 8225
+Z3
+C-1
+R0
+S
+#8225
+{C,BO}The Stall{bo}~
+   
+   You are standing in the only stall in the bathroom.  The toilet 
+shines brightly with cleanliness.  The toilet paper rolls are
+fully stocked and the floor is swept and clean.  How nice.
+   
+~
+82 1152 1
+D1
+~
+stall~
+1 -1 8224
+X4194304
+Z3
+C1
+R0
+S
+#8226
+{Y,BO}Men's Restroom{bo}~
+   
+   This restroom is tiny.  There is only one stall and no urinals.  How
+pathetic.  It sure is clean though.  On the wall there is a sink and
+a hand dryer.  The sole stall in the bathroom is to the east.  You can
+hear a faint noise from beyond the closed stall door.  Intriguing.
+   
+~
+82 1028 1
+D1
+{BO,Y}
+The small stall door is tightly closed, but not locked.  Behind it you can hear
+some noises.  Scary!
+{bo}
+~
+Stall~
+1 -1 8227
+D2
+~
+Door~
+1 -1 8223
+Z3
+C-1
+R0
+S
+#8227
+{Y,BO}The Stall{bo}~
+   
+   You are standing in the sole stall in the restroom and it sure is
+tight in here.  As you walk in you notice the large robot doing
+cleaning work.  It sure is one tough and mean looking robot.  Cleaning
+bathrooms can make nearly everyone and everything a bit pissed off.
+Fortunately it doesn't see you though, and continues about it's work. 
+   
+~
+82 1152 1
+D3
+~
+Stall~
+1 -1 8226
+Z3
+C1
+R0
+S
+#8228
+{G,BO}At the Base of the Stairs{bo}~
+   
+   As you walk into the room, the large security bot gives the 
+electronic equivalent of a 'BANZAI!' and prepares to kill you. 
+Luckily for you he is an out dated security model, in need of some 
+oil, but he could probably still whoop you if you aren't careful.  
+The stairway leads straight up, and the hallway light quickly 
+fades the higher up on the stairs you look.
+   
+~
+82 16778240 1
+D1
+{bo,C}
+The large steel security door looks extremely durable.  There is a small
+hole in it for a key though.
+{bo}
+~
+Door~
+1 -1 8223
+D4
+~
+~
+0 -1 8229
+Z3
+C-1
+R0
+S
+#8229
+{G}On the Stairs{bo}~
+   
+   The light from the hall quickly leaves you as you trudge up the 
+stairs.  You nearly break a sweat as you haul yourself up.  After 
+your last encounter with the security robot, you aren't quite sure 
+what to expect.
+   
+~
+82 1153 1
+D4
+~
+~
+0 -1 8230
+D5
+~
+~
+0 -1 8228
+Z3
+C-1
+R0
+S
+#8230
+{BLA,BO}Up the Stairs{bo}~
+   
+   The world around you becomes a black haze as you stumble to climb
+up the stairs.  Mechanical sounds of movement and the humming of 
+electronic components seem to be coming from above.
+   
+~
+82 1153 1
+D4
+~
+~
+0 -1 8231
+D5
+~
+~
+0 -1 8229
+Z3
+C-1
+R0
+S
+#8231
+{bo,B}Up the Stairs{bo}~
+   
+   It's pitch black.  You can't see a thing.  It seems that the stairs continue
+upwards, though, into the darkness.  As you travel onward, the robotic sounds
+become increasingly louder.   
+   
+~
+82 1165 1
+D4
+~
+~
+0 -1 8232
+D5
+~
+~
+0 -1 8230
+Z3
+C-1
+R0
+S
+#8232
+{bo,R}The Top of the Stairs{bo}~
+   
+   The area around you begins to flash with the red of blinking  
+lights.  You can hear them wandering about you, chirping to each other
+and preparing to bring you death.
+   
+~
+82 1165 1
+D0
+{bo,C}
+This is a thick security door.  There is a small keyhole in it, obviously
+for a key.
+{bo}
+~
+Door~
+2 8205 8237
+D1
+~
+~
+0 -1 8233
+D5
+~
+~
+0 -1 8231
+Z3
+C-1
+R0
+S
+#8233
+{bo,R}The Hallway{bo}~
+   
+   You walk cautiously down the hallway, your heart beating in your
+throat making it hard to breath.  The agonizing sounds of robotic 
+chatter ring in your ears as you try to avoid the deadly robots.  
+Farther down the hall are a few doors leading to rooms you can only
+pray will offer you shelter from these security robots.
+     
+~
+82 1161 1
+D1
+~
+~
+0 -1 8234
+D3
+~
+~
+0 -1 8232
+Z3
+C-1
+R0
+S
+#8234
+{bo,R}The Hallway{bo}~
+   
+   The area around you begins to flash with the red of blinking  
+lights.  You can hear them wandering about you, chirping to each other
+and preparing to bring you death.
+   
+~
+82 1161 1
+D1
+~
+~
+0 -1 8235
+D3
+~
+~
+0 -1 8233
+Z3
+C-1
+R0
+S
+#8235
+{bo,R}The Hallway{bo}~
+   
+   You have reached the end of the hallway.  Large steel doors lie to 
+the north and the south.  The one to the north appears to be locked,
+but the one to the south is not.  You put your ear to the door to the
+south in hope that it will be a safe refuge from the robots.  Bizarrely 
+enough, you think you hear snoring.
+   
+~
+82 1161 1
+D0
+{BO,C}
+This is a thick steel security door.  There is a small slot in it for an access
+card key.
+{bo}
+~
+Door~
+2 8204 8256
+D2
+{bo,C}
+This is a large steel security door.  It doesn't appear to be locked though.
+{bo}
+~
+Door~
+1 -1 8236
+D3
+~
+~
+0 -1 8234
+Z3
+C-1
+R0
+S
+#8236
+{BO,R}Exterior Security Station{bo}~
+   
+   Monitors line the walls of the room along with high tech computer
+devices.  The person responsible for watching the monitors has fallen
+asleep apparently.  You think it might only be fair to wake him up
+before trying to kill him, but then you notice his buldging arms
+and nearly inhuman size and decide you might need every advantage you
+can get.
+   
+~
+82 1164 1
+D0
+~
+Door~
+1 -1 8235
+Z3
+C-1
+R0
+S
+#8237
+{Y,BO}General Assembly Area{bo}~
+   
+   Household robots are being assembled by workers in this area.  The
+finished robots are top of the line for homes.  While the robots aren't
+programmed to care whether you are in this area or not, the workers are
+starting to get pretty pissed off at you.  
+   
+~
+82 1280 1
+D0
+~
+~
+0 -1 8240
+D1
+~
+~
+0 -1 8238
+D2
+~
+Door~
+1 -1 8232
+T8243
+Z3
+C-1
+R0
+S
+#8238
+{Y,BO}General Assembly Area{bo}~
+   
+   Household robots are being assembled by workers in this area.  The
+finished robots are top of the line for homes.  While the robots aren't
+programmed to care whether you are in this area or not, the workers are
+starting to get pretty pissed off at you.  
+   
+~
+82 1280 1
+D0
+~
+~
+0 -1 8241
+D1
+~
+~
+0 -1 8239
+D3
+~
+~
+0 -1 8237
+T8243
+Z3
+C-1
+R0
+S
+#8239
+{Y,BO}General Assembly Area{bo}~
+   
+   Household robots are being assembled by workers in this area.  The
+finished robots are top of the line for homes.  While the robots aren't
+programmed to care whether you are in this area or not, the workers are
+starting to get pretty pissed off at you.  
+   
+~
+82 1280 1
+D0
+~
+~
+0 -1 8242
+D3
+~
+~
+0 -1 8238
+T8243
+Z3
+C-1
+R0
+S
+#8240
+{Y,BO}General Assembly Area{bo}~
+   
+   Household robots are being assembled by workers in this area.  The
+finished robots are top of the line for homes.  While the robots aren't
+programmed to care whether you are in this area or not, the workers are
+starting to get pretty pissed off at you.  
+   
+~
+82 1280 1
+D1
+~
+~
+0 -1 8241
+D2
+~
+~
+0 -1 8237
+T8243
+Z3
+C-1
+R0
+S
+#8241
+{Y,BO}General Assembly Area{bo}~
+   
+   Household robots are being assembled by workers in this area.  The
+finished robots are top of the line for homes.  While the robots aren't
+programmed to care whether you are in this area or not, the workers are
+starting to get pretty pissed off at you.  
+   
+~
+82 1280 1
+D1
+~
+~
+0 -1 8242
+D2
+~
+~
+0 -1 8238
+D3
+~
+~
+0 -1 8240
+T8243
+Z3
+C-1
+R0
+S
+#8242
+{Y,BO}General Assembly Area{bo}~
+   
+   Household robots are being assembled by workers in this area.  The
+finished robots are top of the line for homes.  While the robots aren't
+programmed to care whether you are in this area or not, the workers are
+starting to get pretty pissed off at you.  
+   
+~
+82 1280 1
+D0
+{BO,R}
+A Chute is here, ready to dispose of any excess waste materials.
+{bo}
+~
+Chute~
+1 -1 8245
+D2
+~
+~
+0 -1 8239
+D3
+~
+~
+0 -1 8241
+T8243
+Z3
+C-1
+R0
+S
+#8243
+{BO,G}Garbage Dump{bo}~
+   
+   This is the dumping area of the plant.  Scrap metal and defective 
+components surround you.  You wonder what is done with all this metal
+until you notice the vicious looking beast-like robots charging towards
+their next meal, which happens to be you.  
+   
+~
+82 17413 1
+D4
+~
+~
+0 -1 8244
+Z3
+C-1
+R0
+S
+#8244
+{bo,C}Inside the Chute{bo}~
+   
+   You crawl up the chute on your hands and knees, trying your best to
+keep from slipping back down.  The walls of the chute are slick and
+difficult to climb, but you feel that you can probably make it.
+   
+~
+82 17409 1
+D2
+{BO,R}
+A Chute is here, ready to dispose of any excess objects.
+You seem to be on the inside though, rather than the outside.
+{bo}
+~
+Chute~
+1 -1 8242
+D4
+~
+~
+0 -1 8246
+D5
+~
+~
+0 -1 8243
+Z3
+C1
+R0
+S
+#8245
+{bo,C}Inside the Chute{bo}~
+   
+   You are caught by surprise as you fall through the chute.  You
+try to grab only the walls and stop yourself, but nothing can stop
+you as you fall faster and faster....ahhhh!
+   
+~
+82 1049604 1
+D5
+~
+~
+0 -1 8243
+Z3
+C-1
+R0
+S
+#8246
+{bo,C}Inside the Chute{bo}~
+   
+   You crawl up the chute on your hands and knees, trying your best to
+keep from slipping back down.  The walls of the chute are slick and
+difficult to climb, but you feel that you can probably make it.
+   
+~
+82 17413 1
+D2
+{BO,R}
+Another Chute is here.  The chute door is closed tightly.  Wouldn't want any
+military grade robots to wander out and reek havoc!
+{bo}
+~
+Chute~
+1 -1 8247
+D5
+~
+~
+0 -1 8244
+X2097152
+Z3
+C1
+R0
+S
+#8247
+{R,BO}Military Robotic Assembly Area{bo}~
+   
+   You take a look around and realize this might not be the best place
+for you to be.  Robots specifically designed and perfected to seek and
+kill intruders like you are all over the room, some whole and some 
+still being assembled.  Watch out!
+   
+~
+82 1408 1
+D0
+{bo,C}
+{bo,C}The large steel chute smells a little bad, but it might just be the only
+way to get out of here!
+{bo}
+~
+chute~
+1 -1 8294
+D1
+~
+~
+0 -1 8248
+D2
+~
+~
+0 -1 8250
+T8243
+X6291456
+Z3
+C-1
+R0
+S
+#8248
+{R,BO}Military Robotic Assembly Area{bo}~
+   
+   You take a look around and realize this might not be the best place
+for you to be.  Robots specifically designed and perfected to seek and
+kill intruders like you are all over the room, some whole and some 
+still being assembled.  Watch out!
+   
+~
+82 1408 1
+D1
+~
+~
+0 -1 8249
+D2
+~
+~
+0 -1 8251
+D3
+~
+~
+0 -1 8247
+T8243
+X6291456
+Z3
+C-1
+R0
+S
+#8249
+{R,BO}Military Robotic Assembly Area{bo}~
+   
+   You take a look around and realize this might not be the best place
+for you to be.  Robots specifically designed and perfected to seek and
+kill intruders like you are all over the room, some whole and some 
+still being assembled.  Watch out!
+   
+~
+82 1408 1
+D2
+~
+~
+0 -1 8252
+D3
+~
+~
+0 -1 8248
+T8243
+X6291456
+Z3
+C-1
+R0
+S
+#8250
+{R,BO}Military Robotic Assembly Area{bo}~
+   
+   You take a look around and realize this might not be the best place
+for you to be.  Robots specifically designed and perfected to seek and
+kill intruders like you are all over the room, some whole and some 
+still being assembled.  Watch out!
+   
+~
+82 1408 1
+D0
+~
+~
+0 -1 8247
+D1
+~
+~
+0 -1 8251
+D2
+~
+~
+0 -1 8253
+T8243
+X6291456
+Z3
+C-1
+R0
+S
+#8251
+{R,BO}Military Robotic Assembly Area{bo}~
+   
+   You take a look around and realize this might not be the best place
+for you to be.  Robots specifically designed and perfected to seek and
+kill intruders like you are all over the room, some whole and some 
+still being assembled.  Watch out!
+   
+~
+82 1408 1
+D0
+~
+~
+0 -1 8248
+D1
+~
+~
+0 -1 8252
+D2
+~
+~
+0 -1 8254
+D3
+~
+~
+0 -1 8250
+T8243
+X6291456
+Z3
+C-1
+R0
+S
+#8252
+{R,BO}Military Robotic Assembly Area{bo}~
+   
+   You take a look around and realize this might not be the best place
+for you to be.  Robots specifically designed and perfected to seek and
+kill intruders like you are all over the room, some whole and some 
+still being assembled.  Watch out!
+   
+~
+82 1408 1
+D0
+~
+~
+0 -1 8249
+D1
+{BO,C}
+The large steel door looks impossible to break.  Maybe if you had a key
+you could get through!
+{bo}
+~
+Door~
+2 -1 8258
+D2
+~
+~
+0 -1 8255
+D3
+~
+~
+0 -1 8251
+T8243
+X6291456
+Z3
+C-1
+R0
+S
+#8253
+{R,BO}Military Robotic Assembly Area{bo}~
+   
+   You take a look around and realize this might not be the best place
+for you to be.  Robots specifically designed and perfected to seek and
+kill intruders like you are all over the room, some whole and some 
+still being assembled.  Watch out!
+   
+~
+82 1408 1
+D0
+~
+~
+0 -1 8250
+D1
+~
+~
+0 -1 8254
+T8243
+X6291456
+Z3
+C-1
+R0
+S
+#8254
+{R,BO}Military Robotic Assembly Area{bo}~
+   
+   You take a look around and realize this might not be the best place
+for you to be.  Robots specifically designed and perfected to seek and
+kill intruders like you are all over the room, some whole and some 
+still being assembled.  Watch out!
+   
+~
+82 1408 1
+D0
+~
+~
+0 -1 8251
+D1
+~
+~
+0 -1 8255
+D3
+~
+~
+0 -1 8253
+T8243
+X6291456
+Z3
+C-1
+R0
+S
+#8255
+{R,BO}Military Robotic Assembly Area{bo}~
+   
+   You take a look around and realize this might not be the best place
+for you to be.  Robots specifically designed and perfected to seek and
+kill intruders like you are all over the room, some whole and some 
+still being assembled.  Watch out!
+   
+~
+82 1408 1
+D0
+~
+~
+0 -1 8252
+D3
+~
+~
+0 -1 8254
+T8243
+X6291456
+Z3
+C-1
+R0
+S
+#8256
+{bo,R}Restricted Hallway{bo}~
+   
+   Security is tight in this hallway.  The mechanical sounds of moving
+robots is nearly deafening to your ears as you try to escape their
+menacing weaponry.
+   
+~
+82 1152 1
+D0
+~
+~
+0 -1 8257
+D2
+~
+Door~
+1 -1 8235
+Z3
+C-1
+R0
+S
+#8257
+{bo,R}Restricted Hallway{bo}~
+   
+   Security is tight in this hallway.  The mechanical sounds of moving
+robots is nearly deafening to your ears as you try to escape their
+menacing weaponry.
+   
+~
+82 1156 1
+D0
+~
+~
+0 -1 8258
+D1
+{bo,C}
+This large steel door looks extremely hard to break.  There is a small
+key hole though in the center of it.  Maybe that would be easier than
+trying to break it down.
+{bo}
+~
+Door~
+2 8205 8261
+D2
+~
+~
+0 -1 8256
+Z3
+C-1
+R0
+S
+#8258
+{bo,R}Restricted Hallway{bo}~
+   
+   Security is tight in this hallway.  The mechanical sounds of moving
+robots is nearly deafening to your ears as you try to escape their
+menacing weaponry.
+   
+~
+82 1156 1
+D0
+~
+~
+0 -1 8259
+D2
+~
+~
+0 -1 8257
+D3
+{BO,C}
+This large steel door look extremely hard to break.  There is a small 
+key hole though in the center of it.  Maybe that would be easier than
+trying to break it down.
+{bo}
+~
+Door~
+2 8205 8252
+Z3
+C-1
+R0
+S
+#8259
+{bo,R}Restricted Hallway{bo}~
+   
+   Security is tight in this hallway.  The mechanical sounds of moving
+robots is nearly deafening to your ears as you try to escape their
+menacing weaponry.
+   
+~
+82 1156 1
+D0
+{bo,C}The large steel security doors are very thick.  They look like they could
+weight a ton!  Fortunately though, they don't appear to be locked.{bo}
+
+~
+Door~
+2 -1 8264
+D1
+{bo,Y}The elevator door is shut firmly.  You would need a special key to
+get in there, as you can tell by the special laser key reader attached to 
+the door.{bo}
+
+~
+Door~
+2 8206 8265
+D2
+~
+~
+0 -1 8258
+Z3
+C-1
+R0
+S
+#8260
+{BO,BLU}Engineering Area{bo}~
+  
+   This is the engineering section of the building, where a few
+engineers get together to make evil creations.  The engineers look
+kinda dorky, but there are so many of them.  The robot prototypes they
+are showing off to each other don't look so weak though.
+   
+~
+82 1024 1
+D2
+~
+~
+0 -1 8261
+Z3
+C2
+R0
+S
+#8261
+{BO,BLU}Engineering Area{bo}~
+  
+   This is the engineering section of the building, where a few
+engineers get together to make evil creations.  The engineers look
+kinda dorky, but there are so many of them.  The robot prototypes they
+are showing off to each other don't look so weak though.
+   
+~
+82 1152 1
+D0
+~
+~
+0 -1 8260
+D1
+{bo,W}
+This door doesn't seem as thick or as strong as all the other steel doors, but it's
+still very strong.  Though it's shut, it isn't locked.  Behind it you can hear
+more mechanical noises from within.{bo}
+
+~
+Door~
+1 -1 8263
+D2
+~
+~
+0 -1 8262
+D3
+~
+Door~
+1 -1 8257
+Z3
+C-1
+R0
+S
+#8262
+{BO,BLU}Engineering Area{bo}~
+  
+   This is the engineering section of the building, where a few
+engineers get together to make evil creations.  The engineers look
+kinda dorky, but there are so many of them.  The robot prototypes they
+are showing off to each other don't look so weak though.
+   
+~
+82 1024 1
+D0
+~
+~
+0 -1 8261
+Z3
+C2
+R0
+S
+#8263
+{bo,W}Prototype Storage Area{bo}~
+   
+   This is where extra prototypes are kept by the engineers, to analyze 
+and to test.  Red robotic eyes pierce into you like a flaming iron as the
+prototypes stare you down.   There are some extremely evil creations back 
+here!
+   
+~
+82 1060 1
+D3
+~
+Door~
+1 -1 8261
+Z3
+C2
+R0
+S
+#8264
+{BO,R}Advanced Security Station{bo}~
+   
+   Monitors and computer equipment cover the entire wall space of this
+room.  A large monitor in the center grabs your attention.  It reads 
+'Security Breeched - Releasing SD-5s!'  As you ponder what that
+might mean, 2 large security personnel jump to their feet.  Banzai!
+   
+~
+82 1156 1
+D2
+~
+Door~
+1 -1 8259
+Z3
+C-1
+R0
+S
+#8265
+{Y,BO}Restricted Elevator{bo}~
+   
+   As you approach the small steel elevator, the robotic elevator 
+operator looks up and asks 'where to?' before looking up and realizing 
+you do not have access for this elevator.
+   
+~
+82 1152 1
+D3
+~
+Door~
+1 -1 8259
+X512
+Z3
+C1
+R0
+S
+#8266
+{R,BO}Top Secret Hallway{bo}~
+   
+   You've reached the heart of the building, the top secret hallway.
+Robots so powerful and so deadly that they can not be shown to anyone
+are kept in here.  A few large reinforced steel doors line the sides
+of the hallway.  
+   
+~
+82 17792 1
+D1
+~
+~
+0 -1 8267
+T8265
+Z3
+C-1
+R0
+S
+#8267
+{R,BO}Top Secret Hallway{bo}~
+   
+   You've reached the heart of the building, the top secret hallway.
+Robots so powerful and so deadly that they can not be shown to anyone
+are kept in here.  A few large reinforced steel doors line the sides
+of the hallway.  
+   
+~
+82 17536 1
+D1
+~
+~
+0 -1 8268
+D2
+{bo,C}
+A thick steel door with built in retinal scanner is mounted in a steel
+frame against the wall here.
+{bo}
+~
+door~
+2 8221 8280
+D3
+~
+~
+0 -1 8266
+Z3
+C-1
+R0
+S
+#8268
+{R,BO}Top Secret Hallway{bo}~
+   
+   You've reached the heart of the building, the top secret hallway.
+Robots so powerful and so deadly that they can not be shown to anyone
+are kept in here.  A few large reinforced steel doors line the sides
+of the hallway.  
+   
+~
+82 17536 1
+D0
+{bo,C}
+A thick steel door with built in retinal scanner is mounted in a steel
+frame against the wall here.
+{bo}
+~
+door~
+2 8208 8270
+D1
+{bo,R}
+This large steel door is tightly shut.  A small slot stands near the center of the
+edge for a key.
+{bo}
+~
+door~
+1 8205 8269
+D3
+~
+~
+0 -1 8267
+Z3
+C-1
+R0
+S
+#8269
+{BO,R}Sophisticated Security Outpost{bo}~
+   
+   This security outpost is even more sophisticated than the ones
+before.  A detailed map of the building indicates exactly where 
+intruders are.  The blinking red on the map must be you.  As you look
+up from the map you see the guards, who have been ready for you!
+   
+~
+82 1024 1
+D3
+~
+door~
+2 8205 8268
+Z3
+C-1
+R0
+S
+#8270
+{BO,Y,BLI}T{bo,Y,BLI}E{BO}S{bo,Y,BLI}T{BO}I{bo,Y,BLI}N{BO}G{bo,Y,BLI} A{BO}R{bo,Y,BLI}E{BO}A{bo}~
+   
+   You walk down a narrow hall that leads to the various testing and
+specialized robot construction areas.  There are thick reinforced steel
+doors lining the sides of the hallways at various points.  The hall
+is somewhat dark with the blinking of flashing warning lights, so 
+visibility is limited.  You notice the hallway narrowing to the west
+despite the darkness. 
+   
+~
+82 129 1
+D2
+~
+door~
+1 -1 8268
+D3
+~
+~
+0 -1 8271
+T8276
+Z3
+C-1
+R0
+S
+#8271
+{BO,Y,BLI}T{bo,Y,BLI}E{BO}S{bo,Y,BLI}T{BO}I{bo,Y,BLI}N{BO}G{bo,Y,BLI} A{BO}R{bo,Y,BLI}E{BO}A{bo}~
+   
+   The hallway narrows here, forcing you to try to squeeze through just
+to get both you and your equipment past.  At first it appeared that the
+hallway narrowing was natural, but you soon become aware of the grim 
+reality.  The steel door to the north has been battered so much that it
+is jutting out into the hallway, making it much tighter.  Whatever is
+going on behind that door is obviously dangerous, if not deadly!
+   
+~
+82 133 1
+D0
+{BO,C}
+The thick reinforced steel door is buldging out into the hallway.  The lock is still intact
+though, preventing the door from opening.  These things really are Tough!  There is a small
+electronic control sensor on the front of the door.  It must open electronically.
+{bo}
+~
+door~
+2 8210 8273
+D1
+~
+~
+0 -1 8270
+D3
+~
+~
+0 -1 8272
+T8276
+Z3
+C1
+R0
+S
+#8272
+{BO,Y,BLI}T{bo,Y,BLI}E{BO}S{bo,Y,BLI}T{BO}I{bo,Y,BLI}N{BO}G{bo,Y,BLI} A{BO}R{bo,Y,BLI}E{BO}A{bo}~
+   
+   You stand at the end of the hallway.  Thick steel doors line the sides of
+the hallway.  At one corner of the dead-end, you notice a large control panel
+with flashy state-of-the-art knobs and do-hickies.  Behind it is the most 
+powerful being you have ever seen.  It's no wonder that they put it here to
+make sure everything goes smoothly in the most dangerous part of the building.
+   
+~
+82 1152 1
+D1
+~
+~
+0 -1 8271
+D2
+{bo,C}
+The thick steel door looks extremely durable.  There is a small electronic control
+sensor on the front of the door.  It must open electronically.
+{bo}
+~
+door~
+2 8210 8281
+T8276
+X520
+Z3
+C-1
+R0
+S
+#8273
+{bo,W}Cyborg Creation Tank{bo}~
+   
+   You float around in a giant tank with what appears to be pieces of flesh
+and metallic robot components.  Something must be stirring the tanks, because
+there is quite a current!
+   
+~
+82 1082752 10
+D0
+~
+~
+0 -1 8278
+D1
+~
+~
+0 -1 8275
+D2
+~
+door~
+1 -1 8271
+D3
+~
+~
+0 -1 8274
+D4
+~
+~
+0 -1 8276
+D5
+~
+~
+0 -1 8277
+T8271
+X8
+Z3
+C-1
+R0
+S
+#8274
+{bo,W}Lost within the Tank{bo}~
+   
+   The pull of the current in the tank tosses you into this chamber.  You try
+to look around, but the water is thick with chunks of flesh and metal.  You have
+the strangest feeling that there is something moving around in here with you and
+you can nearly swear you hear that horrifying electric hum of robotics.
+   
+~
+82 1408 1
+D1
+{BO,BLU}
+There is a way through the thick water leading to an inner chamber.  The chamber entrance
+can be closed from this room.
+{bo}
+~
+chamber~
+1 -1 8278
+D2
+{BO,BLU}
+This way seems to lead back into the main chamber.  The current sure is strong!
+{bo}
+~
+~
+0 -1 8273
+T8276
+X8
+Z3
+C-1
+R0
+S
+#8275
+{bo,W}Lost within the Tank{bo}~
+   
+   The pull of the current in the tank tosses you into this chamber.  You try
+to look around, but the water is thick with chunks of flesh and metal.  You have
+the strangest feeling that there is something moving around in here with you and
+you can nearly swear you hear that horrifying electric hum of robotics.
+   
+~
+82 1408 1
+D2
+{BO,BLU}
+This way seems to lead back into the main chamber.  The current sure is strong!
+{bo}
+~
+~
+0 -1 8273
+D3
+{BO,BLU}
+There is a way through the thick water leading to an inner chamber.  The chamber entrance
+can be closed from this room.
+{bo}
+~
+chamber~
+1 -1 8278
+T8271
+X8
+Z3
+C-1
+R0
+S
+#8276
+{bo,W}Lost within the Tank{bo}~
+   
+   The pull of the current in the tank tosses you into this chamber.  You try
+to look around, but the water is thick with chunks of flesh and metal.  You have
+the strangest feeling that there is something moving around in here with you and
+you can nearly swear you hear that horrifying electric hum of robotics.
+   
+~
+82 1408 1
+D2
+{BO,BLU}
+This way seems to lead back into the main chamber.  The current sure is strong!
+{bo}
+~
+~
+0 -1 8273
+D5
+{BO,BLU}
+There is a way through the thick water leading to an inner chamber.  The chamber entrance
+can be closed from this room.
+{bo}
+~
+chamber~
+1 -1 8278
+T8271
+X8
+Z3
+C-1
+R0
+S
+#8277
+{bo,W}Lost within the Tank{bo}~
+   
+   The pull of the current in the tank tosses you into this chamber.  You try
+to look around, but the water is thick with chunks of flesh and metal.  You have
+the strangest feeling that there is something moving around in here with you and
+you can nearly swear you hear that horrifying electric hum of robotics.
+   
+~
+82 1408 1
+D2
+{BO,BLU}
+This way seems to lead back into the main chamber.  The current sure is strong!
+{bo}
+~
+~
+0 -1 8273
+D4
+{BO,BLU}
+There is a way through the thick water leading to an inner chamber.  The chamber entrance
+can be closed from this room.
+{bo}
+~
+chamber~
+1 -1 8278
+T8271
+X8
+Z3
+C-1
+R0
+S
+#8278
+{bo,W}A Deeper Chamber of the Cyborg Creation Tank{bo}~
+   
+   You have reached the deepest chamber of the cyborg creation proccess.  To
+the north seems to be some sort of portal leading to an even greater stage of
+the proccess.  If only you could open it...but the current is strong!  
+   
+~
+82 1082752 10
+D0
+{BO,BLU,BLINK}
+This is a rather thick glass portal that you can easily open with all the water pressure
+behind it.  As you try to peer through the glass you see many horrors inside.  Humans are being
+butchered and thrown into the solution as powerful robots adopt their flesh.  A strong
+electromagnetic field prevents anyone from entering...
+{bo}
+~
+portal~
+1 -1 8279
+D1
+~
+chamber~
+1 -1 8275
+D3
+~
+chamber~
+1 -1 8274
+D4
+~
+chamber~
+1 -1 8276
+D5
+~
+chamber~
+1 -1 8277
+T8271
+X8
+Z3
+C2
+R0
+S
+#8279
+{BO,Y}Somewhere in the vast...{bo}~
+   
+   This room won't make any sense!!!
+     It's minlevel 51!
+    talk to me (zieb) about how it works if you are confused.
+
+~
+82 1024 6
+D2
+~
+portal~
+1 -1 8278
+E
+this~
+   This room is minlevel 51 so no morts can get in.  They have to successfully
+complete the slide rooms and close the appropriate doors to open the door leading
+to this room.  Then the mobs will wander out into those rooms so that they can kill
+them.  This is not an easy task to complete.
+   The equipment in this room (the remains) each have 1 item in them (until eq is at limit)
+The powerful cyborg picks up one of these at random if all are filled.  If one is empty
+(because eq in it is at limit) then he will pick up another one (except the one with
+the FRIGGIN LASER because the weight of the laser is too much).  So instead of always getting
+the same equipment all the time mortals doing this will get a different piece each time.
+   Once equipment is at limit it will be harder to get it.  Like if all but 1 piece was at limit
+they would have a 1/6 + 1/5 chance of getting it, depending upon which container the powerful
+picks up.  If they don't get it, tough cookies :P
+~
+E
+this2~
+  The remaining object (which I ran out of free object number for) I was hoping
+to have as a hold weapon (+100hp -20armor minlevel 78: The Cracked Circuit Board)
+so that it will go along with the other eq stats.  I think the zone is difficult enough
+for this caliber of equipment, but lowering it is fine if you want to make sure (with
+mortals testing it), but I don't want anyone to save them from getting sacced...
+    Anyways,
+    -Zieb
+~
+M51
+Z3
+C-1
+R0
+S
+#8280
+{bo,Y}Entrance to the Cybernetics Laboratory{bo}~
+   
+   You stand at the entrance of a large laboratory.  Rows of cages and 
+technicians span before you.  The screams of beast and man alike ring
+in your ears like thunder as you make your way in.  The technicians
+seem aware of your presence and scramble to release their hideous 
+cybernetically enhanced creatures.
+     
+~
+82 17412 1
+D0
+~
+door~
+1 -1 8267
+D2
+~
+~
+0 -1 8283
+Z3
+C-1
+R0
+S
+#8281
+{BO,R}Incineration Chamber{bo}~
+   
+   Robots that malfunction, break or just suck are sent here to be melted
+down.  Wow, it's getting awfully HOT in here!  Oh doh!
+   
+                           {BO,R,BLI}E{Y}X{R}T{Y}R{R}A {Y}C{R}R{Y}I{R}S{Y}P{R}Y{Y}!{R}!{Y}!{bo}
+    
+~
+82 17427 9
+D0
+~
+~
+0 -1 8272
+T8296
+X6291456
+Z3
+C-1
+R0
+S
+#8282
+{bo,Y}Inside the Cybernetics Laboratory{bo}~
+   
+   You feel lost in the confusion around you.  Cages are flinging open in
+the mayhem.  Blood spurts everywhere!  Technicians are scrambling around,
+releasing all the hideous creatures they can before joining in the melee.
+BANZAIII!!!!!!!
+   
+~
+82 17536 1
+D1
+~
+~
+0 -1 8283
+D2
+~
+~
+0 -1 8285
+T8296
+X6291456
+Z3
+C-1
+R0
+S
+#8283
+{bo,Y}Inside the Cybernetics Laboratory{bo}~
+   
+   You feel lost in the confusion around you.  Cages are flinging open in
+the mayhem.  Blood spurts everywhere!  Technicians are scrambling around,
+releasing all the hideous creatures they can before joining in the melee.
+BANZAIII!!!!!!!
+   
+~
+82 17536 1
+D0
+~
+~
+0 -1 8280
+D1
+~
+~
+0 -1 8284
+D2
+~
+~
+0 -1 8286
+D3
+~
+~
+0 -1 8282
+T8296
+X6291456
+Z3
+C-1
+R0
+S
+#8284
+{bo,Y}Inside the Cybernetics Laboratory{bo}~
+   
+   You feel lost in the confusion around you.  Cages are flinging open in
+the mayhem.  Blood spurts everywhere!  Technicians are scrambling around,
+releasing all the hideous creatures they can before joining in the melee.
+BANZAIII!!!!!!!
+   
+~
+82 17536 1
+D2
+~
+~
+0 -1 8287
+D3
+~
+~
+0 -1 8283
+T8296
+X6291456
+Z3
+C-1
+R0
+S
+#8285
+{bo,Y}Inside the Cybernetics Laboratory{bo}~
+   
+   You feel lost in the confusion around you.  Cages are flinging open in
+the mayhem.  Blood spurts everywhere!  Technicians are scrambling around,
+releasing all the hideous creatures they can before joining in the melee.
+BANZAIII!!!!!!!
+   
+~
+82 17536 1
+D0
+~
+~
+0 -1 8282
+D1
+~
+~
+0 -1 8286
+D2
+~
+~
+0 -1 8288
+T8296
+X6291456
+Z3
+C-1
+R0
+S
+#8286
+{bo,Y}Inside the Cybernetics Laboratory{bo}~
+   
+   You feel lost in the confusion around you.  Cages are flinging open in
+the mayhem.  Blood spurts everywhere!  Technicians are scrambling around,
+releasing all the hideous creatures they can before joining in the melee.
+BANZAIII!!!!!!!
+   
+~
+82 17536 1
+D0
+~
+~
+0 -1 8283
+D1
+~
+~
+0 -1 8287
+D2
+~
+~
+0 -1 8289
+D3
+~
+~
+0 -1 8285
+T8296
+X6291456
+Z3
+C-1
+R0
+S
+#8287
+{bo,Y}Inside the Cybernetics Laboratory{bo}~
+   
+   You feel lost in the confusion around you.  Cages are flinging open in
+the mayhem.  Blood spurts everywhere!  Technicians are scrambling around,
+releasing all the hideous creatures they can before joining in the melee.
+BANZAIII!!!!!!!
+   
+~
+82 17536 1
+D0
+~
+~
+0 -1 8284
+D2
+~
+~
+0 -1 8290
+D3
+~
+~
+0 -1 8286
+T8296
+X6291456
+Z3
+C-1
+R0
+S
+#8288
+{bo,Y}Inside the Cybernetics Laboratory{bo}~
+   
+   You feel lost in the confusion around you.  Cages are flinging open in
+the mayhem.  Blood spurts everywhere!  Technicians are scrambling around,
+releasing all the hideous creatures they can before joining in the melee.
+BANZAIII!!!!!!!
+   
+~
+82 17536 1
+D0
+~
+~
+0 -1 8285
+D1
+~
+~
+0 -1 8289
+T8296
+X6291456
+Z3
+C-1
+R0
+S
+#8289
+{bo,Y}Inside the Cybernetics Laboratory{bo}~
+   
+   You feel lost in the confusion around you.  Cages are flinging open in
+the mayhem.  Blood spurts everywhere!  Technicians are scrambling around,
+releasing all the hideous creatures they can before joining in the melee.
+BANZAIII!!!!!!!
+   
+~
+82 17536 1
+D0
+~
+~
+0 -1 8286
+D1
+~
+~
+0 -1 8290
+D2
+~
+~
+0 -1 8291
+D3
+~
+~
+0 -1 8288
+T8296
+X6291456
+Z3
+C-1
+R0
+S
+#8290
+{bo,Y}Inside the Cybernetics Laboratory{bo}~
+   
+   You feel lost in the confusion around you.  Cages are flinging open in
+the mayhem.  Blood spurts everywhere!  Technicians are scrambling around,
+releasing all the hideous creatures they can before joining in the melee.
+BANZAIII!!!!!!!
+   
+~
+82 17536 1
+D0
+~
+~
+0 -1 8287
+D3
+~
+~
+0 -1 8289
+Z3
+C-1
+R0
+S
+#8291
+{bo,W}Entrance to the Large Operating Chamber{bo}~
+   
+   You stand before a thick steel vault leading into a large operating 
+chamber.  All the technicians and even the cybernetic beasts are afraid
+to come near the entrance of this chamber.  Strange!  Maybe you should
+just turn back now and get back to Midgaard before dark.  
+   
+~
+82 17540 1
+D0
+~
+~
+0 -1 8289
+D2
+{bo,R}
+This is no ordinary steel door, this is a real vault!  There is no way anyone
+could get in, or out, without the proper key.  This thing is probably a few feet
+thick!
+{bo}
+~
+vault~
+2 8211 8292
+Z3
+C-1
+R0
+S
+#8292
+{BO,W}Cybernetic Enhancement Lab{bo}~
+   
+   Scalpels, prongs, and bizarre tools are scattered around the room
+amongst high-tech cybernetic enhancement hardware.  In the center of
+the room is the giant operating cage.  What the hell is that inside?!?
+Dear God, it's BREAKING OUT!!!!
+      
+~
+82 17408 1
+D0
+~
+vault~
+1 -1 8291
+Z3
+C-1
+R0
+S
+#8293
+{bo,BLA}Mob Start Room{bo}~
+
+   This room is minlevel 51 :P
+   It's a mob start room.   Shhh :)
+
+~
+82 0 1
+D0
+~
+~
+0 -1 8286
+D1
+~
+~
+0 -1 8272
+D3
+~
+~
+0 -1 8279
+D4
+~
+~
+0 -1 8268
+D5
+~
+~
+0 -1 8269
+M51
+Z3
+C-1
+R0
+S
+#8294
+{bo,C}Inside the Chute{bo}~
+
+   The walls of the chute are slick as you try to keep from falling.
+It is useless though, nothing can keep you from falling now.
+
+      ARRRRRRGGGGGGHHHHHHHHH!!!!!!!
+
+~
+82 1049600 1
+D5
+~
+~
+0 -1 8243
+Z3
+C-1
+R0
+S
+#8295
+none~
+   
+   You've stumbled into a massive dungeon area.  The company president
+must cast his foes into this room and watch them die a painful death
+from the massive robot programmed to destroy.  Your only escape is to
+climb up back into the suite, but that would be impossible while the
+massive robot is around.
+   
+~
+82 1045 1
+D4
+~
+~
+0 -1 8291
+Z3
+C-1
+R0
+S
+#8296
+none~
+   
+   You stand in the center of a pit.  All kinds of junk seems to fall 
+into the pit, as the robots about brutally slay each other.  A 
+extremely vicious looking robot is hiding down here in the pit,
+sharpening it's claws and waiting to pounce on whatever helpless 
+robot might fall in.
+   
+~
+82 1044 1
+D4
+~
+~
+0 -1 8285
+Z3
+C-1
+R0
+S
+#8297
+none~
+You are standing in nowhere !!!!
+~
+82 1024 1
+Z3
+C-1
+R0
+S
+#8298
+none~
+   This is minlevel 57.  If you are a mort and you are in here that's weird.
+~
+82 1024 1
+M56
+Z3
+C-1
+R0
+S
+#8299
+!~
+-!!SOUND(NC/dc* P=100 V=50 T=combat)
+~
+82 1024 11
+D0
+~
+~
+0 -1 -1
+Y37
+Z3
+C-1
+R0
+S
+$~

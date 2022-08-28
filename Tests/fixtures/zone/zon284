@@ -1,0 +1,468 @@
+#284
+Canaltrip(Heathen)~
+28499 1440 2
+*
+X 11474
+O 0 28401     1 28400    The museum door
+O 0 28318     1 28400    A Big Warning Sign
+M 0 28400    21 28403    {BOLD,RED}The Waffen SS{bold,red}
+M 0 28400    21 28403    {BOLD,RED}The Waffen SS{bold,red}
+M 0 28400    21 28403    {BOLD,RED}The Waffen SS{bold,red}
+M 0 28400    21 28404    {BOLD,RED}The Waffen SS{bold,red}
+M 0 28400    21 28404    {BOLD,RED}The Waffen SS{bold,red}
+M 0 28400    21 28404    {BOLD,RED}The Waffen SS{bold,red}
+M 0 28400    21 28405    {BOLD,RED}The Waffen SS{bold,red}
+M 0 28400    21 28405    {BOLD,RED}The Waffen SS{bold,red}
+M 0 28400    21 28405    {BOLD,RED}The Waffen SS{bold,red}
+M 0 28400    21 28406    {BOLD,RED}The Waffen SS{bold,red}
+M 0 28400    21 28406    {BOLD,RED}The Waffen SS{bold,red}
+M 0 28400    21 28406    {BOLD,RED}The Waffen SS{bold,red}
+M 0 28400    21 28407    {BOLD,RED}The Waffen SS{bold,red}
+M 0 28400    21 28407    {BOLD,RED}The Waffen SS{bold,red}
+M 0 28400    21 28407    {BOLD,RED}The Waffen SS{bold,red}
+M 0 28400    21 28408    {BOLD,RED}The Waffen SS{bold,red}
+M 0 28400    21 28408    {BOLD,RED}The Waffen SS{bold,red}
+M 0 28400    21 28408    {BOLD,RED}The Waffen SS{bold,red}
+M 0 28400    21 28409    {BOLD,RED}The Waffen SS{bold,red}
+M 0 28400    21 28409    {BOLD,RED}The Waffen SS{bold,red}
+M 0 28400    21 28409    {BOLD,RED}The Waffen SS{bold,red}
+D 0 28409     4     0    (U:OPEN) A bedroom
+M 0 28401     2 28410    {YELLOW}An SS Officer{yellow}
+O 0 28402     1 28410    A page
+M 0 28402     7 28412    {YELLOW}A Camp Guard{yellow}
+M 0 28402     7 28412    {YELLOW}A Camp Guard{yellow}
+M 0 28403    17 28412    {RED}A Prisoner{red}
+M 0 28403    17 28412    {RED}A Prisoner{red}
+M 0 28402     7 28412    {YELLOW}A Camp Guard{yellow}
+M 0 28402     7 28412    {YELLOW}A Camp Guard{yellow}
+M 0 28403    17 28413    {RED}A Prisoner{red}
+M 0 28403    17 28413    {RED}A Prisoner{red}
+M 0 28401     2 28413    {YELLOW}An SS Officer{yellow}
+M 0 28403    17 28413    {RED}A Prisoner{red}
+M 0 28427     1 28415    {BOLD,GREEN}Gas{bold,green}
+M 0 28403    17 28416    {RED}A Prisoner{red}
+M 0 28403    17 28416    {RED}A Prisoner{red}
+M 0 28403    17 28416    {RED}A Prisoner{red}
+M 0 28403    17 28416    {RED}A Prisoner{red}
+M 0 28403    17 28416    {RED}A Prisoner{red}
+M 0 28403    17 28416    {RED}A Prisoner{red}
+M 0 28403    17 28417    {RED}A Prisoner{red}
+M 0 28403    17 28417    {RED}A Prisoner{red}
+M 0 28402     7 28417    {YELLOW}A Camp Guard{yellow}
+M 0 28403    17 28417    {RED}A Prisoner{red}
+M 0 28403    17 28417    {RED}A Prisoner{red}
+M 0 28402     7 28418    {YELLOW}A Camp Guard{yellow}
+M 0 28403    17 28418    {RED}A Prisoner{red}
+M 0 28402     7 28418    {YELLOW}A Camp Guard{yellow}
+M 0 28403    17 28418    {RED}A Prisoner{red}
+O 0 28403     1 28419    The Way Back
+M 0 28404     1 28420    {BOLD,RED}The Camp Commander{bold,red}
+E 1 28434    21    17    (HELD) A piece of crystal
+M 0 28405     1 28422    {YELLOW}Dr. Mengele{yellow}
+E 1 28435    11     5    (BODY) A dark cloak
+E 1 28434    21    17    (HELD) A piece of crystal
+G 1 28422     1     0    The Antidote
+M 0 28406     1 28422    {YELLOW}Anne Frank{yellow}
+E 1 28424    10    10    (ARMS) {BOLD,CYAN}Star {GREEN}of {YELLOW}David{yellow}
+E 1 28417     1    17    (HELD) The Key to the Treasure
+M 0 28407     7 28426    {BOLD,CYAN}The Provoost{bold,cyan}
+E 1 28434    21    17    (HELD) A piece of crystal
+O 0 28406     1 28426    A golden sarcophagus
+M 0 28407     7 28427    {BOLD,CYAN}The Provoost{bold,cyan}
+E 1 28434    21    17    (HELD) A piece of crystal
+O 0 28407     1 28427    An imitation fire
+M 0 28407     7 28428    {BOLD,CYAN}The Provoost{bold,cyan}
+E 1 28434    21    17    (HELD) A piece of crystal
+O 0 28404     1 28428    A painting of the battle at Waterloo
+D 0 28429     4     0    (U:OPEN) First Floor Lobby
+M 0 28407     7 28430    {BOLD,CYAN}The Provoost{bold,cyan}
+E 1 28434    21    17    (HELD) A piece of crystal
+O 0 28400     1 28430    A large painting
+M 0 28407     7 28431    {BOLD,CYAN}The Provoost{bold,cyan}
+E 1 28434    21    17    (HELD) A piece of crystal
+O 0 28409     1 28431    A Painting by Van Gogh
+M 0 28407     7 28432    {BOLD,CYAN}The Provoost{bold,cyan}
+E 1 28434    21    17    (HELD) A piece of crystal
+O 0 28408     1 28432    The Mirror Eye
+M 0 28407     7 28433    {BOLD,CYAN}The Provoost{bold,cyan}
+E 1 28434    21    17    (HELD) A piece of crystal
+O 0 28405     1 28433    A Mondriaan
+D 0 28435     0     1    (N:CLOSED) On a Strand of Reality
+D 0 28435     5     1    (D:CLOSED) On a Strand of Reality
+D 0 28436     1     1    (E:CLOSED) On a Strand of Reality
+D 0 28436     3     1    (W:CLOSED) On a Strand of Reality
+D 0 28437     1     1    (E:CLOSED) On a Strand of Reality
+D 0 28437     4     1    (U:CLOSED) On a Strand of Reality
+D 0 28438     2     1    (S:CLOSED) On a Strand of Reality
+D 0 28438     3     1    (W:CLOSED) On a Strand of Reality
+D 0 28439     2     1    (S:CLOSED) On a Strand of Reality
+D 0 28439     5     1    (D:CLOSED) On a Strand of Reality
+D 0 28440     3     1    (W:CLOSED) On a Strand of Reality
+D 0 28440     4     1    (U:CLOSED) On a Strand of Reality
+M 0 28415    26 28448    A {BOLD,YELLOW}Shard{CYAN} of Reality{cyan}
+M 0 28415    26 28448    A {BOLD,YELLOW}Shard{CYAN} of Reality{cyan}
+M 0 28415    26 28449    A {BOLD,YELLOW}Shard{CYAN} of Reality{cyan}
+M 0 28415    26 28449    A {BOLD,YELLOW}Shard{CYAN} of Reality{cyan}
+M 0 28415    26 28450    A {BOLD,YELLOW}Shard{CYAN} of Reality{cyan}
+M 0 28415    26 28450    A {BOLD,YELLOW}Shard{CYAN} of Reality{cyan}
+M 0 28415    26 28451    A {BOLD,YELLOW}Shard{CYAN} of Reality{cyan}
+M 0 28415    26 28451    A {BOLD,YELLOW}Shard{CYAN} of Reality{cyan}
+M 0 28415    26 28452    A {BOLD,YELLOW}Shard{CYAN} of Reality{cyan}
+M 0 28415    26 28452    A {BOLD,YELLOW}Shard{CYAN} of Reality{cyan}
+M 0 28415    26 28453    A {BOLD,YELLOW}Shard{CYAN} of Reality{cyan}
+M 0 28415    26 28453    A {BOLD,YELLOW}Shard{CYAN} of Reality{cyan}
+M 0 28428     1 28454    {BOLD,BLUE}Cloak{bold,blue}
+O 0 28436     1 28454    Picknick Basket
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28431    50 28436    A Belgian Waffle
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 28430    50 28436    A Yummie Dutch Apple Pie
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+P 1 18111   191 28436    A bottle of liquor
+M 0 28417     8 28455    {BOLD,GREEN}Twilight{bold,green}
+M 0 28417     8 28455    {BOLD,GREEN}Twilight{bold,green}
+M 0 28417     8 28456    {BOLD,GREEN}Twilight{bold,green}
+M 0 28417     8 28456    {BOLD,GREEN}Twilight{bold,green}
+M 0 28417     8 28456    {BOLD,GREEN}Twilight{bold,green}
+M 0 28417     8 28456    {BOLD,GREEN}Twilight{bold,green}
+M 0 28417     8 28456    {BOLD,GREEN}Twilight{bold,green}
+M 0 28417     8 28457    {BOLD,GREEN}Twilight{bold,green}
+M 0 28415    26 28459    A {BOLD,YELLOW}Shard{CYAN} of Reality{cyan}
+M 0 28415    26 28459    A {BOLD,YELLOW}Shard{CYAN} of Reality{cyan}
+M 0 28415    26 28459    A {BOLD,YELLOW}Shard{CYAN} of Reality{cyan}
+M 0 28415    26 28459    A {BOLD,YELLOW}Shard{CYAN} of Reality{cyan}
+M 0 28415    26 28459    A {BOLD,YELLOW}Shard{CYAN} of Reality{cyan}
+M 0 28415    26 28459    A {BOLD,YELLOW}Shard{CYAN} of Reality{cyan}
+M 0 28415    26 28459    A {BOLD,YELLOW}Shard{CYAN} of Reality{cyan}
+E 1 28426     1    18    (INSIGNIA) {RED,BOLD}Reality {YELLOW}Check......{yellow}
+M 0 28415    26 28459    A {BOLD,YELLOW}Shard{CYAN} of Reality{cyan}
+M 0 28415    26 28459    A {BOLD,YELLOW}Shard{CYAN} of Reality{cyan}
+M 0 28415    26 28459    A {BOLD,YELLOW}Shard{CYAN} of Reality{cyan}
+M 0 28415    26 28459    A {BOLD,YELLOW}Shard{CYAN} of Reality{cyan}
+M 0 28415    26 28459    A {BOLD,YELLOW}Shard{CYAN} of Reality{cyan}
+M 0 28415    26 28459    A {BOLD,YELLOW}Shard{CYAN} of Reality{cyan}
+M 0 28415    26 28459    A {BOLD,YELLOW}Shard{CYAN} of Reality{cyan}
+M 0 28416     1 28459    {BOLD,CYAN}Rembrandt's Ghost{bold,cyan}
+E 1 28425     3     0    (LIGHT) {CYAN}Rembrandt's {YELLOW}Brush{yellow}
+E 1 28435    11     5    (BODY) A dark cloak
+E 1 28415     1    17    (HELD) The Key to Reality
+M 0 28408     9 28460    {BOLD,CYAN}An {RED}English{CYAN} Soldier{bold,cyan}
+G 1 18111   191     0    A bottle of liquor
+G 1 18111   191     0    A bottle of liquor
+G 1 18111   191     0    A bottle of liquor
+M 0 28408     9 28461    {BOLD,CYAN}An {RED}English{CYAN} Soldier{bold,cyan}
+M 0 28408     9 28461    {BOLD,CYAN}An {RED}English{CYAN} Soldier{bold,cyan}
+G 1 18111   191     0    A bottle of liquor
+G 1 18111   191     0    A bottle of liquor
+G 1 18111   191     0    A bottle of liquor
+M 0 28408     9 28461    {BOLD,CYAN}An {RED}English{CYAN} Soldier{bold,cyan}
+D 0 28461     0     2    (N:LOCKED) In the Trenches
+M 0 28408     9 28462    {BOLD,CYAN}An {RED}English{CYAN} Soldier{bold,cyan}
+M 0 28408     9 28463    {BOLD,CYAN}An {RED}English{CYAN} Soldier{bold,cyan}
+M 0 28408     9 28463    {BOLD,CYAN}An {RED}English{CYAN} Soldier{bold,cyan}
+D 0 28464     2     0    (S:OPEN) On the Barricades
+M 0 28408     9 28465    {BOLD,CYAN}An {RED}English{CYAN} Soldier{bold,cyan}
+M 0 28408     9 28465    {BOLD,CYAN}An {RED}English{CYAN} Soldier{bold,cyan}
+M 0 28409     1 28465    {BOLD,CYAN}A {RED}British{bold,YELLOW} Officer{yellow}
+E 1 28418     1    17    (HELD) Charge Order
+G 1 18111   191     0    A bottle of liquor
+G 1 18111   191     0    A bottle of liquor
+G 1 18111   191     0    A bottle of liquor
+G 1 18111   191     0    A bottle of liquor
+G 1 18111   191     0    A bottle of liquor
+M 0 28410     9 28467    {BOLD,CYAN}A {BLUE}French{CYAN} Soldier{bold,cyan}
+M 0 28410     9 28468    {BOLD,CYAN}A {BLUE}French{CYAN} Soldier{bold,cyan}
+M 0 28410     9 28468    {BOLD,CYAN}A {BLUE}French{CYAN} Soldier{bold,cyan}
+M 0 28410     9 28469    {BOLD,CYAN}A {BLUE}French{CYAN} Soldier{bold,cyan}
+M 0 28410     9 28469    {BOLD,CYAN}A {BLUE}French{CYAN} Soldier{bold,cyan}
+M 0 28411     1 28470    {YELLOW}The Cannonier{yellow}
+E 1 28428     2     8    (FEET) The {CYAN,BOLD}Gunner's {RED}Boots{red}
+M 0 28410     9 28471    {BOLD,CYAN}A {BLUE}French{CYAN} Soldier{bold,cyan}
+M 0 28410     9 28471    {BOLD,CYAN}A {BLUE}French{CYAN} Soldier{bold,cyan}
+M 0 28410     9 28471    {BOLD,CYAN}A {BLUE}French{CYAN} Soldier{bold,cyan}
+M 0 28410     9 28471    {BOLD,CYAN}A {BLUE}French{CYAN} Soldier{bold,cyan}
+D 0 28471     1     1    (E:CLOSED) On the French Side
+D 0 28472     3     1    (W:CLOSED) An Officers Tent
+M 0 28412     3 28473    A {BOLD,BLUE}French {bold,YELLOW}Officer{yellow}
+G 1 18111   191     0    A bottle of liquor
+G 1 18111   191     0    A bottle of liquor
+G 1 18111   191     0    A bottle of liquor
+G 1 18111   191     0    A bottle of liquor
+G 1 18111   191     0    A bottle of liquor
+M 0 28412     3 28474    A {BOLD,BLUE}French {bold,YELLOW}Officer{yellow}
+M 0 28412     3 28474    A {BOLD,BLUE}French {bold,YELLOW}Officer{yellow}
+M 0 28413     1 28475    {BOLD,BLUE}Napoleon{bold,blue}
+E 1 28427     6     9    (HANDS) The {RED,BOLD}Severed {GREEN}Hand of {CYAN}Napoleon{cyan}
+E 1 28434    21    17    (HELD) A piece of crystal
+M 0 28414     1 28476    {CYAN}Josephine{cyan}
+E 1 28435    11     5    (BODY) A dark cloak
+E 1 28412     1    17    (HELD) The Key to Pride
+D 0 28477     4     2    (U:LOCKED) Before the Path to Enlightment
+D 0 28477     5     0    (D:OPEN) Before the Path to Enlightment
+M 0 28426    54 28478    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28478    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28478    {BOLD,RED}Hoarder{bold,red}
+M 0 28418     1 28478    {BOLD,RED}Nightmare{bold,red}
+E 1 28434    21    17    (HELD) A piece of crystal
+D 0 28478     4     2    (U:LOCKED) The First Step
+M 0 28426    54 28479    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28479    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28479    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28479    {BOLD,RED}Hoarder{bold,red}
+M 0 28419     1 28479    {BOLD,CYAN}Ignorance{bold,cyan}
+E 1 28435    11     5    (BODY) A dark cloak
+E 1 28434    21    17    (HELD) A piece of crystal
+D 0 28479     4     2    (U:LOCKED) The Second Step
+M 0 28426    54 28480    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28480    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28480    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28480    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28480    {BOLD,RED}Hoarder{bold,red}
+M 0 28420     1 28480    {BOLD,GREEN}Pride{bold,green}
+D 0 28480     4     2    (U:LOCKED) The Third Step
+M 0 28422     3 28481    {BOLD,BLUE}C{RED}H{YELLOW}A{WHITE}O{CYAN}S{bold,cyan}
+E 1 28434    21    17    (HELD) A piece of crystal
+M 0 28422     3 28481    {BOLD,BLUE}C{RED}H{YELLOW}A{WHITE}O{CYAN}S{bold,cyan}
+E 1 28434    21    17    (HELD) A piece of crystal
+M 0 28422     3 28481    {BOLD,BLUE}C{RED}H{YELLOW}A{WHITE}O{CYAN}S{bold,cyan}
+E 1 28434    21    17    (HELD) A piece of crystal
+D 0 28481     4     2    (U:LOCKED) The Step of Chaos
+M 0 28426    54 28482    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28482    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28482    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28482    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28482    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28482    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28482    {BOLD,RED}Hoarder{bold,red}
+M 0 28423     1 28482    {BOLD,CYAN}Order{bold,cyan}
+E 1 28435    11     5    (BODY) A dark cloak
+D 0 28482     4     2    (U:LOCKED) The Step of Order
+M 0 28426    54 28483    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28483    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28483    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28483    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28483    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28483    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28483    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28483    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28483    {BOLD,RED}Hoarder{bold,red}
+M 0 28424     1 28483    Reality
+E 1 28435    11     5    (BODY) A dark cloak
+D 0 28483     4     2    (U:LOCKED) The Step of Reality
+M 0 28426    54 28484    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28484    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28484    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28484    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28484    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28484    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28484    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28484    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28484    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28484    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28484    {BOLD,RED}Hoarder{bold,red}
+M 0 28425     1 28484    {BOLD,YELLOW}L{WHITE}i{YELLOW}g{WHITE}h{YELLOW}t{yellow}
+E 1 28423     4     3    (NECK) The {YELLOW}G{RED}u{BLUE}r{CYAN}u{GREEN}'s {BOLD,CYAN}Whiskers{cyan}
+E 1 28435    11     5    (BODY) A dark cloak
+E 1 28434    21    17    (HELD) A piece of crystal
+D 0 28484     4     2    (U:LOCKED) The Final Step
+M 0 28426    54 28485    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28485    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28485    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28485    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28485    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28485    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28485    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28485    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28485    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28485    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28485    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28485    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28485    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28485    {BOLD,RED}Hoarder{bold,red}
+M 0 28426    54 28485    {BOLD,RED}Hoarder{bold,red}
+O 0 28432     1 28485    A Large Treasure Chest
+P 1 28433    10 28432    Gold!
+P 1 28433    10 28432    Gold!
+P 1 28433    10 28432    Gold!
+P 1 28433    10 28432    Gold!
+P 1 28433    10 28432    Gold!
+P 1 28433    10 28432    Gold!
+P 1 28433    10 28432    Gold!
+P 1 28433    10 28432    Gold!
+P 1 28433    10 28432    Gold!
+P 1 28433    10 28432    Gold!
+P 1 28419     7 28432    {BOLD,BLUE}Crystal of {YELLOW}Light{yellow}
+D 0 28485     5     1    (D:CLOSED) In the Light
+M 0 28421    28 28493    {BOLD,CYAN}A {YELLOW}Yellow{CYAN} Flake{bold,cyan}
+M 0 28421    28 28494    {BOLD,CYAN}A {YELLOW}Yellow{CYAN} Flake{bold,cyan}
+M 0 28421    28 28494    {BOLD,CYAN}A {YELLOW}Yellow{CYAN} Flake{bold,cyan}
+M 0 28421    28 28495    {BOLD,CYAN}A {YELLOW}Yellow{CYAN} Flake{bold,cyan}
+M 0 28421    28 28495    {BOLD,CYAN}A {YELLOW}Yellow{CYAN} Flake{bold,cyan}
+M 0 28421    28 28495    {BOLD,CYAN}A {YELLOW}Yellow{CYAN} Flake{bold,cyan}
+M 0 28421    28 28496    {BOLD,CYAN}A {YELLOW}Yellow{CYAN} Flake{bold,cyan}
+M 0 28421    28 28496    {BOLD,CYAN}A {YELLOW}Yellow{CYAN} Flake{bold,cyan}
+M 0 28421    28 28496    {BOLD,CYAN}A {YELLOW}Yellow{CYAN} Flake{bold,cyan}
+M 0 28421    28 28496    {BOLD,CYAN}A {YELLOW}Yellow{CYAN} Flake{bold,cyan}
+M 0 28421    28 28497    {BOLD,CYAN}A {YELLOW}Yellow{CYAN} Flake{bold,cyan}
+M 0 28421    28 28497    {BOLD,CYAN}A {YELLOW}Yellow{CYAN} Flake{bold,cyan}
+M 0 28421    28 28497    {BOLD,CYAN}A {YELLOW}Yellow{CYAN} Flake{bold,cyan}
+M 0 28421    28 28497    {BOLD,CYAN}A {YELLOW}Yellow{CYAN} Flake{bold,cyan}
+M 0 28421    28 28497    {BOLD,CYAN}A {YELLOW}Yellow{CYAN} Flake{bold,cyan}
+M 0 28421    28 28498    {BOLD,CYAN}A {YELLOW}Yellow{CYAN} Flake{bold,cyan}
+M 0 28421    28 28498    {BOLD,CYAN}A {YELLOW}Yellow{CYAN} Flake{bold,cyan}
+M 0 28421    28 28498    {BOLD,CYAN}A {YELLOW}Yellow{CYAN} Flake{bold,cyan}
+M 0 28421    28 28498    {BOLD,CYAN}A {YELLOW}Yellow{CYAN} Flake{bold,cyan}
+M 0 28421    28 28498    {BOLD,CYAN}A {YELLOW}Yellow{CYAN} Flake{bold,cyan}
+M 0 28421    28 28498    {BOLD,CYAN}A {YELLOW}Yellow{CYAN} Flake{bold,cyan}
+M 0 28421    28 28499    {BOLD,CYAN}A {YELLOW}Yellow{CYAN} Flake{bold,cyan}
+M 0 28421    28 28499    {BOLD,CYAN}A {YELLOW}Yellow{CYAN} Flake{bold,cyan}
+M 0 28421    28 28499    {BOLD,CYAN}A {YELLOW}Yellow{CYAN} Flake{bold,cyan}
+M 0 28421    28 28499    {BOLD,CYAN}A {YELLOW}Yellow{CYAN} Flake{bold,cyan}
+M 0 28421    28 28499    {BOLD,CYAN}A {YELLOW}Yellow{CYAN} Flake{bold,cyan}
+M 0 28421    28 28499    {BOLD,CYAN}A {YELLOW}Yellow{CYAN} Flake{bold,cyan}
+M 0 28421    28 28499    {BOLD,CYAN}A {YELLOW}Yellow{CYAN} Flake{bold,cyan}
+$~

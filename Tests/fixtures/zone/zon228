@@ -1,0 +1,547 @@
+#228
+Pescadero Mental Institution(Zorro)~
+22899 150 2
+*
+X 8512
+M 0 22802    12 22803    {BO,W}The {BO,BLU}Security Officer{bo}
+E 1 22800    12     5    (BODY) a bullet-proof vest
+M 0 22802    12 22803    {BO,W}The {BO,BLU}Security Officer{bo}
+E 1 22800    12     5    (BODY) a bullet-proof vest
+O 0 28108     1 22803    A small portable television set.
+M 0 22802    12 22805    {BO,W}The {BO,BLU}Security Officer{bo}
+E 1 22800    12     5    (BODY) a bullet-proof vest
+M 0 22802    12 22805    {BO,W}The {BO,BLU}Security Officer{bo}
+E 1 22800    12     5    (BODY) a bullet-proof vest
+D 0 22807     2     0    (S:OPEN) {bo,W}the Main Hallway{bo}
+M 0 22800    41 22808    {BO,bo,W}The Crazed Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22800    41 22808    {BO,bo,W}The Crazed Patient{bo}
+M 0 22800    41 22808    {BO,bo,W}The Crazed Patient{bo}
+M 0 22800    41 22808    {BO,bo,W}The Crazed Patient{bo}
+M 0 22800    41 22808    {BO,bo,W}The Crazed Patient{bo}
+M 0 22806    14 22808    {BO,BLA}The {R}Dehumanized Psychiatrist{bo}
+M 0 22803    29 22808    {BO,bo,G}The {C}Hopeless Patient{bo}
+M 0 22801    35 22808    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+M 0 22801    35 22808    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+M 0 22803    29 22808    {BO,bo,G}The {C}Hopeless Patient{bo}
+M 0 22800    41 22808    {BO,bo,W}The Crazed Patient{bo}
+M 0 22800    41 22808    {BO,bo,W}The Crazed Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22801    35 22808    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22801    35 22808    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22806    14 22808    {BO,BLA}The {R}Dehumanized Psychiatrist{bo}
+M 0 22800    41 22808    {BO,bo,W}The Crazed Patient{bo}
+M 0 22806    14 22808    {BO,BLA}The {R}Dehumanized Psychiatrist{bo}
+D 0 22808     0     0    (N:OPEN) {bo,G}Ward {BO}S1 {bo,G}({BO}low security area{bo,G}){bo}
+M 0 22801    35 22809    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+M 0 22800    41 22809    {BO,bo,W}The Crazed Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22803    29 22809    {BO,bo,G}The {C}Hopeless Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22803    29 22809    {BO,bo,G}The {C}Hopeless Patient{bo}
+M 0 22800    41 22809    {BO,bo,W}The Crazed Patient{bo}
+M 0 22803    29 22809    {BO,bo,G}The {C}Hopeless Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22803    29 22809    {BO,bo,G}The {C}Hopeless Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22800    41 22809    {BO,bo,W}The Crazed Patient{bo}
+M 0 22801    35 22809    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22800    41 22809    {BO,bo,W}The Crazed Patient{bo}
+M 0 22805    19 22809    {BO,W}The Hardened Nurse{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+G 1  6013    31     0    the barrel
+G 1  6013    31     0    the barrel
+G 1  3022    99     0    {R}An{R}{BOLD} imperial{bold}{R} longsword{r}
+M 0 22801    35 22809    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+M 0 22800    41 22810    {BO,bo,W}The Crazed Patient{bo}
+M 0 22801    35 22810    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22805    19 22810    {BO,W}The Hardened Nurse{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+G 1  6013    31     0    the barrel
+G 1  6013    31     0    the barrel
+G 1  3022    99     0    {R}An{R}{BOLD} imperial{bold}{R} longsword{r}
+M 0 22806    14 22810    {BO,BLA}The {R}Dehumanized Psychiatrist{bo}
+M 0 22805    19 22810    {BO,W}The Hardened Nurse{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+G 1  6013    31     0    the barrel
+G 1  6013    31     0    the barrel
+M 0 22800    41 22810    {BO,bo,W}The Crazed Patient{bo}
+M 0 22801    35 22810    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+M 0 22805    19 22810    {BO,W}The Hardened Nurse{bo}
+G 1  6013    31     0    the barrel
+G 1  6013    31     0    the barrel
+G 1  3022    99     0    {R}An{R}{BOLD} imperial{bold}{R} longsword{r}
+G 1  3022    99     0    {R}An{R}{BOLD} imperial{bold}{R} longsword{r}
+G 1  3022    99     0    {R}An{R}{BOLD} imperial{bold}{R} longsword{r}
+G 1  3022    99     0    {R}An{R}{BOLD} imperial{bold}{R} longsword{r}
+M 0 22800    41 22810    {BO,bo,W}The Crazed Patient{bo}
+M 0 22800    41 22810    {BO,bo,W}The Crazed Patient{bo}
+M 0 22801    35 22810    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22800    41 22810    {BO,bo,W}The Crazed Patient{bo}
+M 0 22801    35 22810    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+O 0  6013    31 22810    the barrel
+M 0 22800    41 22811    {BO,bo,W}The Crazed Patient{bo}
+M 0 22801    35 22811    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22803    29 22811    {BO,bo,G}The {C}Hopeless Patient{bo}
+M 0 22801    35 22811    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22800    41 22811    {BO,bo,W}The Crazed Patient{bo}
+M 0 22800    41 22811    {BO,bo,W}The Crazed Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22806    14 22811    {BO,BLA}The {R}Dehumanized Psychiatrist{bo}
+M 0 22801    35 22811    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+M 0 22801    35 22811    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22805    19 22811    {BO,W}The Hardened Nurse{bo}
+G 1  6013    31     0    the barrel
+G 1  6013    31     0    the barrel
+M 0 22800    41 22811    {BO,bo,W}The Crazed Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22801    35 22811    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22801    35 22811    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22800    41 22811    {BO,bo,W}The Crazed Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22803    29 22811    {BO,bo,G}The {C}Hopeless Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22801    35 22811    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22800    41 22811    {BO,bo,W}The Crazed Patient{bo}
+D 0 22812     1     0    (E:OPEN) {bo,W}the Main Hallway{bo}
+D 0 22813     0     0    (N:OPEN) {bo,W}the Main Hallway{bo}
+O 0 22807    11 22814    a battered cylindric key
+D 0 22814     1     0    (E:OPEN) {bo,G}Checkpoint to Level 2 ({C}light security{G}){bo}
+D 0 22814     2     0    (S:OPEN) {bo,G}Checkpoint to Level 2 ({C}light security{G}){bo}
+M 0 22802    12 22815    {BO,W}The {BO,BLU}Security Officer{bo}
+E 1 22800    12     5    (BODY) a bullet-proof vest
+M 0 22802    12 22815    {BO,W}The {BO,BLU}Security Officer{bo}
+E 1 22800    12     5    (BODY) a bullet-proof vest
+D 0 22815     0     0    (N:OPEN) {Y,BO}Level 2 Guard Booth{bo}
+M 0 22803    29 22816    {BO,bo,G}The {C}Hopeless Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22803    29 22816    {BO,bo,G}The {C}Hopeless Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22803    29 22816    {BO,bo,G}The {C}Hopeless Patient{bo}
+D 0 22816     2     0    (S:OPEN) {bo,G}Ward {BO}N1 {bo,G}({BO}low security area{bo,G}){bo}
+M 0 22803    29 22817    {BO,bo,G}The {C}Hopeless Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22803    29 22818    {BO,bo,G}The {C}Hopeless Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22803    29 22818    {BO,bo,G}The {C}Hopeless Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22803    29 22819    {BO,bo,G}The {C}Hopeless Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22803    29 22819    {BO,bo,G}The {C}Hopeless Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22803    29 22819    {BO,bo,G}The {C}Hopeless Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22801    35 22820    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22800    41 22820    {BO,bo,W}The Crazed Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22800    41 22820    {BO,bo,W}The Crazed Patient{bo}
+M 0 22800    41 22820    {BO,bo,W}The Crazed Patient{bo}
+M 0 22800    41 22820    {BO,bo,W}The Crazed Patient{bo}
+M 0 22805    19 22820    {BO,W}The Hardened Nurse{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+G 1  6013    31     0    the barrel
+G 1  6013    31     0    the barrel
+M 0 22803    29 22820    {BO,bo,G}The {C}Hopeless Patient{bo}
+M 0 22801    35 22820    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22805    19 22820    {BO,W}The Hardened Nurse{bo}
+G 1  6013    31     0    the barrel
+G 1  6013    31     0    the barrel
+M 0 22805    19 22820    {BO,W}The Hardened Nurse{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+G 1  6013    31     0    the barrel
+G 1  6013    31     0    the barrel
+G 1  3022    99     0    {R}An{R}{BOLD} imperial{bold}{R} longsword{r}
+M 0 22801    35 22820    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22801    35 22820    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22805    19 22820    {BO,W}The Hardened Nurse{bo}
+G 1  6013    31     0    the barrel
+G 1  6013    31     0    the barrel
+M 0 22805    19 22820    {BO,W}The Hardened Nurse{bo}
+G 1  6013    31     0    the barrel
+G 1  6013    31     0    the barrel
+M 0 22806    14 22820    {BO,BLA}The {R}Dehumanized Psychiatrist{bo}
+M 0 22800    41 22820    {BO,bo,W}The Crazed Patient{bo}
+M 0 22800    41 22820    {BO,bo,W}The Crazed Patient{bo}
+M 0 22805    19 22821    {BO,W}The Hardened Nurse{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22805    19 22821    {BO,W}The Hardened Nurse{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22805    19 22821    {BO,W}The Hardened Nurse{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22803    29 22822    {BO,bo,G}The {C}Hopeless Patient{bo}
+M 0 22801    35 22822    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+M 0 22803    29 22822    {BO,bo,G}The {C}Hopeless Patient{bo}
+M 0 22801    35 22823    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+M 0 22801    35 22824    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+G 1 22802    59     0    un tarro de {W}Crema{Y} Sanalo{y}
+O 0 22802    59 22826    un tarro de {W}Crema{Y} Sanalo{y}
+O 0 22802    59 22826    un tarro de {W}Crema{Y} Sanalo{y}
+O 0 22802    59 22826    un tarro de {W}Crema{Y} Sanalo{y}
+O 0 22802    59 22826    un tarro de {W}Crema{Y} Sanalo{y}
+D 0 22826     3     0    (W:OPEN) {bo,G}Office Level {BO}One{bo}
+D 0 22827     2     1    (S:CLOSED) {bo,W}the Level 2 Hallway{bo}
+D 0 22827     3     0    (W:OPEN) {bo,W}the Level 2 Hallway{bo}
+M 0 22800    41 22828    {BO,bo,W}The Crazed Patient{bo}
+M 0 22805    19 22828    {BO,W}The Hardened Nurse{bo}
+D 0 22828     0     1    (N:CLOSED) {bo,G}Ward {BO}S2 {bo,G}({C}light security area{bo,G}){bo}
+M 0 22809    28 22829    {BO,bo,C}The {BO,BLU}Activist of "{bo,C}PC{BO,BLU}"{bo}
+M 0 22801    35 22829    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+M 0 22801    35 22829    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+M 0 22806    14 22829    {BO,BLA}The {R}Dehumanized Psychiatrist{bo}
+M 0 22803    29 22829    {BO,bo,G}The {C}Hopeless Patient{bo}
+M 0 22807    22 22829    {BO,C}The {bo,C}Sickening Machist{bo}
+M 0 22803    29 22830    {BO,bo,G}The {C}Hopeless Patient{bo}
+M 0 22800    41 22830    {BO,bo,W}The Crazed Patient{bo}
+M 0 22801    35 22830    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+M 0 22809    28 22830    {BO,bo,C}The {BO,BLU}Activist of "{bo,C}PC{BO,BLU}"{bo}
+M 0 22800    41 22830    {BO,bo,W}The Crazed Patient{bo}
+M 0 22801    35 22830    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+M 0 22807    22 22831    {BO,C}The {bo,C}Sickening Machist{bo}
+M 0 22803    29 22831    {BO,bo,G}The {C}Hopeless Patient{bo}
+M 0 22800    41 22831    {BO,bo,W}The Crazed Patient{bo}
+M 0 22801    35 22831    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+M 0 22806    14 22832    {BO,BLA}The {R}Dehumanized Psychiatrist{bo}
+M 0 22800    41 22832    {BO,bo,W}The Crazed Patient{bo}
+M 0 22803    29 22832    {BO,bo,G}The {C}Hopeless Patient{bo}
+M 0 22809    28 22832    {BO,bo,C}The {BO,BLU}Activist of "{bo,C}PC{BO,BLU}"{bo}
+M 0 22808    52 22832    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22800    41 22832    {BO,bo,W}The Crazed Patient{bo}
+M 0 22808    52 22832    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22805    19 22832    {BO,W}The Hardened Nurse{bo}
+D 0 22833     1     1    (E:CLOSED) {bo,W}the Level 2 Hallway{bo}
+M 0 22805    19 22834    {BO,W}The Hardened Nurse{bo}
+M 0 22801    35 22834    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+M 0 22800    41 22834    {BO,bo,W}The Crazed Patient{bo}
+M 0 22803    29 22834    {BO,bo,G}The {C}Hopeless Patient{bo}
+M 0 22803    29 22834    {BO,bo,G}The {C}Hopeless Patient{bo}
+M 0 22806    14 22834    {BO,BLA}The {R}Dehumanized Psychiatrist{bo}
+M 0 22809    28 22834    {BO,bo,C}The {BO,BLU}Activist of "{bo,C}PC{BO,BLU}"{bo}
+M 0 22805    19 22834    {BO,W}The Hardened Nurse{bo}
+D 0 22834     3     1    (W:CLOSED) {bo,G}Office {BO}Level Two{bo}
+M 0 22801    35 22835    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+M 0 22803    29 22835    {BO,bo,G}The {C}Hopeless Patient{bo}
+M 0 22809    28 22835    {BO,bo,C}The {BO,BLU}Activist of "{bo,C}PC{BO,BLU}"{bo}
+M 0 22806    14 22835    {BO,BLA}The {R}Dehumanized Psychiatrist{bo}
+M 0 22800    41 22836    {BO,bo,W}The Crazed Patient{bo}
+M 0 22807    22 22836    {BO,C}The {bo,C}Sickening Machist{bo}
+M 0 22809    28 22836    {BO,bo,C}The {BO,BLU}Activist of "{bo,C}PC{BO,BLU}"{bo}
+M 0 22808    52 22836    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22800    41 22836    {BO,bo,W}The Crazed Patient{bo}
+M 0 22803    29 22836    {BO,bo,G}The {C}Hopeless Patient{bo}
+M 0 22808    52 22837    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22806    14 22837    {BO,BLA}The {R}Dehumanized Psychiatrist{bo}
+M 0 22800    41 22837    {BO,bo,W}The Crazed Patient{bo}
+M 0 22800    41 22837    {BO,bo,W}The Crazed Patient{bo}
+M 0 22807    22 22837    {BO,C}The {bo,C}Sickening Machist{bo}
+M 0 22801    35 22837    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+M 0 22800    41 22838    {BO,bo,W}The Crazed Patient{bo}
+M 0 22801    35 22838    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+M 0 22801    35 22838    {BO,bo,Y}The {BO}Dangerous Patient{bo}
+M 0 22803    29 22838    {BO,bo,G}The {C}Hopeless Patient{bo}
+O 0 22807    11 22840    a battered cylindric key
+O 0 22807    11 22840    a battered cylindric key
+D 0 22840     1     2    (E:LOCKED) {bo,G}Checkpoint to Level 3 ({bo,Y}medium security{bo,G}){bo}
+O 0 22807    11 22841    a battered cylindric key
+D 0 22841     2     1    (S:CLOSED) {bo,W}the Level 3 Hallway{bo}
+D 0 22841     3     2    (W:LOCKED) {bo,W}the Level 3 Hallway{bo}
+M 0 22809    28 22842    {BO,bo,C}The {BO,BLU}Activist of "{bo,C}PC{BO,BLU}"{bo}
+M 0 22808    52 22842    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22809    28 22842    {BO,bo,C}The {BO,BLU}Activist of "{bo,C}PC{BO,BLU}"{bo}
+M 0 22808    52 22842    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22808    52 22842    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22807    22 22842    {BO,C}The {bo,C}Sickening Machist{bo}
+M 0 22808    52 22842    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22807    22 22842    {BO,C}The {bo,C}Sickening Machist{bo}
+M 0 22808    52 22842    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22809    28 22842    {BO,bo,C}The {BO,BLU}Activist of "{bo,C}PC{BO,BLU}"{bo}
+M 0 22808    52 22842    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22804    19 22842    {BO,bo,R}The {BO}War Criminal{bo}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+M 0 22804    19 22842    {BO,bo,R}The {BO}War Criminal{bo}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+M 0 22809    28 22842    {BO,bo,C}The {BO,BLU}Activist of "{bo,C}PC{BO,BLU}"{bo}
+M 0 22808    52 22842    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22808    52 22842    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22808    52 22842    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22809    28 22842    {BO,bo,C}The {BO,BLU}Activist of "{bo,C}PC{BO,BLU}"{bo}
+M 0 22809    28 22842    {BO,bo,C}The {BO,BLU}Activist of "{bo,C}PC{BO,BLU}"{bo}
+M 0 22808    52 22842    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22812    11 22842    {BO,W}The {Y}Criminal Psychopath{bo}
+M 0 22809    28 22842    {BO,bo,C}The {BO,BLU}Activist of "{bo,C}PC{BO,BLU}"{bo}
+M 0 22809    28 22842    {BO,bo,C}The {BO,BLU}Activist of "{bo,C}PC{BO,BLU}"{bo}
+M 0 22807    22 22842    {BO,C}The {bo,C}Sickening Machist{bo}
+M 0 22809    28 22842    {BO,bo,C}The {BO,BLU}Activist of "{bo,C}PC{BO,BLU}"{bo}
+M 0 22808    52 22842    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+O 0 22804    64 22842    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+D 0 22842     0     1    (N:CLOSED) {bo,G}Ward {BO}S3{bo,G} ({Y}medium security area{bo,G}){bo}
+M 0 22808    52 22843    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22808    52 22843    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22808    52 22843    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22807    22 22843    {BO,C}The {bo,C}Sickening Machist{bo}
+M 0 22807    22 22843    {BO,C}The {bo,C}Sickening Machist{bo}
+M 0 22807    22 22843    {BO,C}The {bo,C}Sickening Machist{bo}
+M 0 22808    52 22843    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22814    20 22843    {BO,bo,BLU}The {BO}Lunatic Killer{bo}
+M 0 22808    52 22843    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22808    52 22843    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22808    52 22843    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22804    19 22843    {BO,bo,R}The {BO}War Criminal{bo}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+M 0 22809    28 22843    {BO,bo,C}The {BO,BLU}Activist of "{bo,C}PC{BO,BLU}"{bo}
+M 0 22807    22 22843    {BO,C}The {bo,C}Sickening Machist{bo}
+M 0 22804    19 22843    {BO,bo,R}The {BO}War Criminal{bo}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+M 0 22808    52 22843    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22807    22 22843    {BO,C}The {bo,C}Sickening Machist{bo}
+M 0 22808    52 22843    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+O 0 22804    64 22843    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+O 0 22804    64 22843    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+M 0 22808    52 22844    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22808    52 22844    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22809    28 22844    {BO,bo,C}The {BO,BLU}Activist of "{bo,C}PC{BO,BLU}"{bo}
+M 0 22808    52 22844    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22807    22 22844    {BO,C}The {bo,C}Sickening Machist{bo}
+M 0 22809    28 22844    {BO,bo,C}The {BO,BLU}Activist of "{bo,C}PC{BO,BLU}"{bo}
+M 0 22808    52 22844    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22808    52 22844    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22808    52 22844    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22808    52 22844    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22808    52 22844    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22809    28 22844    {BO,bo,C}The {BO,BLU}Activist of "{bo,C}PC{BO,BLU}"{bo}
+M 0 22808    52 22844    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22808    52 22844    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22809    28 22844    {BO,bo,C}The {BO,BLU}Activist of "{bo,C}PC{BO,BLU}"{bo}
+M 0 22808    52 22845    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22808    52 22845    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22808    52 22845    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22808    52 22845    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22807    22 22845    {BO,C}The {bo,C}Sickening Machist{bo}
+M 0 22808    52 22845    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22808    52 22845    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22808    52 22845    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22808    52 22845    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22808    52 22845    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22808    52 22845    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22807    22 22845    {BO,C}The {bo,C}Sickening Machist{bo}
+M 0 22808    52 22845    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22806    14 22845    {BO,BLA}The {R}Dehumanized Psychiatrist{bo}
+M 0 22807    22 22845    {BO,C}The {bo,C}Sickening Machist{bo}
+M 0 22808    52 22845    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22812    11 22845    {BO,W}The {Y}Criminal Psychopath{bo}
+M 0 22807    22 22845    {BO,C}The {bo,C}Sickening Machist{bo}
+M 0 22812    11 22845    {BO,W}The {Y}Criminal Psychopath{bo}
+M 0 22814    20 22845    {BO,bo,BLU}The {BO}Lunatic Killer{bo}
+M 0 22808    52 22845    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22809    28 22846    {BO,bo,C}The {BO,BLU}Activist of "{bo,C}PC{BO,BLU}"{bo}
+M 0 22808    52 22846    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22808    52 22846    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22807    22 22846    {BO,C}The {bo,C}Sickening Machist{bo}
+M 0 22807    22 22846    {BO,C}The {bo,C}Sickening Machist{bo}
+M 0 22809    28 22846    {BO,bo,C}The {BO,BLU}Activist of "{bo,C}PC{BO,BLU}"{bo}
+M 0 22815    20 22846    {BO,bo,W}The Schizophrenic Criminal{bo}
+M 0 22808    52 22846    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22812    11 22846    {BO,W}The {Y}Criminal Psychopath{bo}
+M 0 22808    52 22846    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22809    28 22846    {BO,bo,C}The {BO,BLU}Activist of "{bo,C}PC{BO,BLU}"{bo}
+M 0 22809    28 22846    {BO,bo,C}The {BO,BLU}Activist of "{bo,C}PC{BO,BLU}"{bo}
+M 0 22807    22 22846    {BO,C}The {bo,C}Sickening Machist{bo}
+M 0 22809    28 22846    {BO,bo,C}The {BO,BLU}Activist of "{bo,C}PC{BO,BLU}"{bo}
+O 0 22804    64 22846    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+O 0 22804    64 22846    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+O 0  3032     5 22847    {Y}a bag{y}
+D 0 22847     1     1    (E:CLOSED) {bo,W}the Level 3 Hallway{bo}
+M 0 22805    19 22848    {BO,W}The Hardened Nurse{bo}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+M 0 22804    19 22848    {BO,bo,R}The {BO}War Criminal{bo}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+D 0 22848     3     1    (W:CLOSED) {bo,G}Office {BO}Level Three{bo}
+M 0 22808    52 22849    {BO,bo,M}The {BO}Paranoid Feminist{bo}
+M 0 22815    20 22849    {BO,bo,W}The Schizophrenic Criminal{bo}
+M 0 22804    19 22849    {BO,bo,R}The {BO}War Criminal{bo}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+M 0 22806    14 22850    {BO,BLA}The {R}Dehumanized Psychiatrist{bo}
+M 0 22815    20 22850    {BO,bo,W}The Schizophrenic Criminal{bo}
+M 0 22815    20 22851    {BO,bo,W}The Schizophrenic Criminal{bo}
+M 0 22804    19 22851    {BO,bo,R}The {BO}War Criminal{bo}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+M 0 22815    20 22852    {BO,bo,W}The Schizophrenic Criminal{bo}
+M 0 22814    20 22852    {BO,bo,BLU}The {BO}Lunatic Killer{bo}
+M 0 22807    22 22852    {BO,C}The {bo,C}Sickening Machist{bo}
+D 0 22853     0     1    (N:CLOSED) {bo,W}the Level 3 Hallway{bo}
+M 0 22804    19 22854    {BO,bo,R}The {BO}War Criminal{bo}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+M 0 22804    19 22854    {BO,bo,R}The {BO}War Criminal{bo}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+M 0 22806    14 22854    {BO,BLA}The {R}Dehumanized Psychiatrist{bo}
+M 0 22805    19 22854    {BO,W}The Hardened Nurse{bo}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+M 0 22814    20 22854    {BO,bo,BLU}The {BO}Lunatic Killer{bo}
+M 0 22815    20 22854    {BO,bo,W}The Schizophrenic Criminal{bo}
+D 0 22854     2     1    (S:CLOSED) {bo,G}Ward {BO}N3 {bo,G}({Y}medium security area{bo,G}){bo}
+M 0 22815    20 22855    {BO,bo,W}The Schizophrenic Criminal{bo}
+M 0 22812    11 22855    {BO,W}The {Y}Criminal Psychopath{bo}
+M 0 22809    28 22855    {BO,bo,C}The {BO,BLU}Activist of "{bo,C}PC{BO,BLU}"{bo}
+M 0 22814    20 22856    {BO,bo,BLU}The {BO}Lunatic Killer{bo}
+M 0 22814    20 22856    {BO,bo,BLU}The {BO}Lunatic Killer{bo}
+M 0 22809    28 22856    {BO,bo,C}The {BO,BLU}Activist of "{bo,C}PC{BO,BLU}"{bo}
+M 0 22814    20 22856    {BO,bo,BLU}The {BO}Lunatic Killer{bo}
+M 0 22815    20 22857    {BO,bo,W}The Schizophrenic Criminal{bo}
+M 0 22809    28 22857    {BO,bo,C}The {BO,BLU}Activist of "{bo,C}PC{BO,BLU}"{bo}
+M 0 22814    20 22857    {BO,bo,BLU}The {BO}Lunatic Killer{bo}
+M 0 22807    22 22857    {BO,C}The {bo,C}Sickening Machist{bo}
+M 0 22815    20 22857    {BO,bo,W}The Schizophrenic Criminal{bo}
+M 0 22814    20 22857    {BO,bo,BLU}The {BO}Lunatic Killer{bo}
+M 0 22815    20 22857    {BO,bo,W}The Schizophrenic Criminal{bo}
+M 0 22812    11 22858    {BO,W}The {Y}Criminal Psychopath{bo}
+M 0 22804    19 22858    {BO,bo,R}The {BO}War Criminal{bo}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+D 0 22859     1     1    (E:CLOSED) {bo,G}Checkpoint to Level 4 ({BO,R}high security area{bo,G}){bo}
+D 0 22860     0     0    (N:OPEN) {bo,W}the Level 4 Hallway{bo}
+D 0 22860     2     1    (S:CLOSED) {bo,W}the Level 4 Hallway{bo}
+D 0 22860     3     1    (W:CLOSED) {bo,W}the Level 4 Hallway{bo}
+M 0 22804    19 22861    {BO,bo,R}The {BO}War Criminal{bo}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+M 0 22814    20 22861    {BO,bo,BLU}The {BO}Lunatic Killer{bo}
+O 0 22804    64 22861    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+D 0 22861     0     1    (N:CLOSED) {bo,G}Ward {BO}S4 {bo,G}({BO,R}high security area{bo,G}){bo}
+M 0 22814    20 22862    {BO,bo,BLU}The {BO}Lunatic Killer{bo}
+M 0 22814    20 22862    {BO,bo,BLU}The {BO}Lunatic Killer{bo}
+M 0 22812    11 22862    {BO,W}The {Y}Criminal Psychopath{bo}
+M 0 22804    19 22862    {BO,bo,R}The {BO}War Criminal{bo}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+M 0 22815    20 22862    {BO,bo,W}The Schizophrenic Criminal{bo}
+M 0 22804    19 22862    {BO,bo,R}The {BO}War Criminal{bo}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+O 0 22804    64 22862    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+M 0 22812    11 22863    {BO,W}The {Y}Criminal Psychopath{bo}
+M 0 22812    11 22863    {BO,W}The {Y}Criminal Psychopath{bo}
+M 0 22814    20 22863    {BO,bo,BLU}The {BO}Lunatic Killer{bo}
+M 0 22814    20 22864    {BO,bo,BLU}The {BO}Lunatic Killer{bo}
+M 0 22814    20 22865    {BO,bo,BLU}The {BO}Lunatic Killer{bo}
+D 0 22866     1     1    (E:CLOSED) {bo,W}the Level 4 Hallway{bo}
+D 0 22866     2     0    (S:OPEN) {bo,W}the Level 4 Hallway{bo}
+M 0 22804    19 22867    {BO,bo,R}The {BO}War Criminal{bo}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+M 0 22815    20 22867    {BO,bo,W}The Schizophrenic Criminal{bo}
+D 0 22867     3     1    (W:CLOSED) {bo,G}Office {BO}Level Four{bo}
+M 0 22815    20 22868    {BO,bo,W}The Schizophrenic Criminal{bo}
+M 0 22804    19 22868    {BO,bo,R}The {BO}War Criminal{bo}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+M 0 22815    20 22869    {BO,bo,W}The Schizophrenic Criminal{bo}
+M 0 22804    19 22869    {BO,bo,R}The {BO}War Criminal{bo}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+M 0 22814    20 22869    {BO,bo,BLU}The {BO}Lunatic Killer{bo}
+M 0 22815    20 22870    {BO,bo,W}The Schizophrenic Criminal{bo}
+M 0 22814    20 22871    {BO,bo,BLU}The {BO}Lunatic Killer{bo}
+M 0 22812    11 22871    {BO,W}The {Y}Criminal Psychopath{bo}
+M 0 22814    20 22871    {BO,bo,BLU}The {BO}Lunatic Killer{bo}
+D 0 22872     0     1    (N:CLOSED) {bo,W}the Level 4 Hallway{bo}
+M 0 22804    19 22873    {BO,bo,R}The {BO}War Criminal{bo}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+M 0 22804    19 22873    {BO,bo,R}The {BO}War Criminal{bo}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+D 0 22873     2     1    (S:CLOSED) {bo,G}Ward {BO}N4{bo,G} ({BO,R}high security area{bo,G}){bo}
+M 0 22815    20 22874    {BO,bo,W}The Schizophrenic Criminal{bo}
+M 0 22815    20 22874    {BO,bo,W}The Schizophrenic Criminal{bo}
+M 0 22804    19 22874    {BO,bo,R}The {BO}War Criminal{bo}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+M 0 22812    11 22874    {BO,W}The {Y}Criminal Psychopath{bo}
+M 0 22815    20 22875    {BO,bo,W}The Schizophrenic Criminal{bo}
+M 0 22815    20 22875    {BO,bo,W}The Schizophrenic Criminal{bo}
+M 0 22814    20 22877    {BO,bo,BLU}The {BO}Lunatic Killer{bo}
+M 0 22815    20 22877    {BO,bo,W}The Schizophrenic Criminal{bo}
+M 0 22814    20 22877    {BO,bo,BLU}The {BO}Lunatic Killer{bo}
+O 0 22807    11 22878    a battered cylindric key
+O 0 22807    11 22878    a battered cylindric key
+O 0 22807    11 22878    a battered cylindric key
+D 0 22878     1     2    (E:LOCKED) {bo,G}Checkpoint to level 5 ({BO,BLA}high security{bo,G}){bo}
+O 0 22807    11 22879    a battered cylindric key
+O 0 22807    11 22879    a battered cylindric key
+O 0 22807    11 22879    a battered cylindric key
+D 0 22879     2     1    (S:CLOSED) {bo,W}the Level 5 Hallway{bo}
+D 0 22879     3     2    (W:LOCKED) {bo,W}the Level 5 Hallway{bo}
+D 0 22880     0     1    (N:CLOSED) {BO,R}Top Security Ward{bo}
+M 0 22816     8 22881    {BO,BLA}The Rapist{bo}
+G 1 22805    20     0    {Y}a big leather sack{y}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+M 0 22816     8 22882    {BO,BLA}The Rapist{bo}
+G 1 22805    20     0    {Y}a big leather sack{y}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+D 0 22885     1     1    (E:CLOSED) {bo,W}the Level 5 Hallway{bo}
+M 0 22816     8 22886    {BO,BLA}The Rapist{bo}
+G 1 22805    20     0    {Y}a big leather sack{y}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+M 0 22816     8 22886    {BO,BLA}The Rapist{bo}
+G 1 22805    20     0    {Y}a big leather sack{y}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+D 0 22886     3     1    (W:CLOSED) {BO,R}Top Security Ward{bo}
+M 0 22816     8 22887    {BO,BLA}The Rapist{bo}
+G 1 22805    20     0    {Y}a big leather sack{y}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+M 0 22816     8 22887    {BO,BLA}The Rapist{bo}
+G 1 22805    20     0    {Y}a big leather sack{y}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+M 0 22816     8 22887    {BO,BLA}The Rapist{bo}
+G 1 22805    20     0    {Y}a big leather sack{y}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+M 0  3062     1 22888    {C}The Beastly Fido{c}
+M 0 22816     8 22888    {BO,BLA}The Rapist{bo}
+G 1 22805    20     0    {Y}a big leather sack{y}
+P 1 22808     1 22805    a shining badge
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+D 0 22888     5     2    (D:LOCKED) {BO,R}Top Security Ward{bo}
+O 0 22807    11 22889    a battered cylindric key
+D 0 22890     0     1    (N:CLOSED) {BO,BLA}The Hole{bo}
+M 0 22810     5 22892    {BO,C}The {R}Fan{C} of {R}Jack Nicholson{bo}
+M 0 22810     5 22892    {BO,C}The {R}Fan{C} of {R}Jack Nicholson{bo}
+M 0 22810     5 22892    {BO,C}The {R}Fan{C} of {R}Jack Nicholson{bo}
+M 0 22810     5 22892    {BO,C}The {R}Fan{C} of {R}Jack Nicholson{bo}
+M 0 22810     5 22892    {BO,C}The {R}Fan{C} of {R}Jack Nicholson{bo}
+M 0 22811     1 22892    {BO,R}Jack Nicholson{bo}
+E 1 22809     1     7    (LEGS) {BO,WH}La coraza de {BO,CY}El Cid Campeador{r}
+M 0 22813     1 22893    {BO,G}Sarah Conners{bo}
+G 1 22804    64     0    {Y}a{Y}{BOLD} Mud Bottle{bold}{Y} with an{Y}{BOLD} Old Cork{y}
+M 0 22802    12 22897    {BO,W}The {BO,BLU}Security Officer{bo}
+E 1 22800    12     5    (BODY) a bullet-proof vest
+M 0 22802    12 22897    {BO,W}The {BO,BLU}Security Officer{bo}
+E 1 22800    12     5    (BODY) a bullet-proof vest
+M 0 22802    12 22898    {BO,W}The {BO,BLU}Security Officer{bo}
+E 1 22800    12     5    (BODY) a bullet-proof vest
+M 0 22802    12 22898    {BO,W}The {BO,BLU}Security Officer{bo}
+E 1 22800    12     5    (BODY) a bullet-proof vest
+M 0 22802    12 22899    {BO,W}The {BO,BLU}Security Officer{bo}
+E 1 22800    12     5    (BODY) a bullet-proof vest
+M 0 22802    12 22899    {BO,W}The {BO,BLU}Security Officer{bo}
+E 1 22800    12     5    (BODY) a bullet-proof vest
+$~

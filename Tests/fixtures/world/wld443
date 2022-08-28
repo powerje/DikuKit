@@ -1,0 +1,2509 @@
+#44300
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+443 262144 1
+D5
+~
+~
+0 -1 44301
+Z0
+C-1
+R0
+S
+#44301
+{B,G}A forest road{b,g}~
+
+{G,BO}  The forest road leads to the north. Off in the distance you
+{G,BO}  see a large city shining with glimmering lights. There appears
+{G,BO}  to be a very large gate ahead of you.{g}
+
+~
+443 0 3
+D0
+~
+~
+0 -1 44302
+Z-1
+C-1
+R0
+S
+#44302
+{B,G}A forest road{b,g}~
+
+{G,BO}  The forest road leads to the north. Off in the distance you
+{G,BO}  see a large city shining with glimmering lights. There appears
+{G,BO}  to be a very large gate ahead of you.{g}
+
+~
+443 0 3
+D0
+~
+~
+0 -1 44303
+D2
+~
+~
+0 -1 44301
+Z-1
+C-1
+R0
+S
+#44303
+{B,G}Town Gates{b,g}~
+
+{Y}               _.--X--OO--X--._
+{Y}           _.--   / \ II / \   --._
+{Y}      [].--  \   /   \||/   \   /  --.[]
+{Y}  _   ||/     \ /     ||     \ /     \||   _
+{Y} (_)  |X       X   WEL||COME  X       X|  (_)
+{Y}_---_ ||\     / \     ||     / \     /|| _---_
+{Y}||||| || \   /   \   /||\   /   \   / || |||||
+{Y}|   |_||  \ /     \ / || \ /     \ /  ||_|   |
+{Y}|   |-||   X       X T||O X       X   ||-|   |
+{Y}|   | ||  / \     / \ || / \     / \  || |   |
+{Y}|   | || /   \   /   \||/   \   /   \ || |   |
+{Y}|   | ||/     \ /     ||     \ /     \|| |   |
+{Y}|   | |X       X  NC  || MUD  X       X| |   |
+{Y}|   | ||\     / \     ||     / \     /|| |   |
+{Y}|   | || \   /   \   /||\   /   \   / || |   |
+{Y}|   | ||  \ /     \ / || \ /     \ /  || |   |
+{Y}|   | ||   X       X  ||  X       X   || |   |
+{Y}|   | ||  / \     / \ || / \     / \  || |   |
+{Y}|   |_|X       X    / II \    X       X|_|   |
+{Y}|   |-II--------------OO--------------II-|   |{b}
+
+~
+443 0 3
+D0
+~
+gate~
+1 -1 44304
+D2
+~
+~
+0 -1 44302
+Z-1
+C-1
+R0
+S
+#44304
+{B,W}Inside the gates{b,w}~
+
+{R}  Standing inside the city gates you notice it
+{R}  is well fortified with many guards on patrol.
+{R}  It looks like they are ready for an attack at
+{R}  any time. You feel safe knowning it would take
+{R}  a large force to penetrate these walls.{r}
+
+~
+443 4 1
+D0
+~
+~
+0 -1 44305
+D2
+~
+gate~
+1 -1 44303
+D3
+~
+~
+0 -1 44306
+Z-1
+C-1
+R0
+S
+#44305
+{B,G}The main road{b,g}~
+
+{G}  Here is the main road up to the city. You
+{G}  nod your head as you pass by both wagons
+{G}  and people on foot. It is laid with
+{G}  thousands of stone bricks. There are
+{G}  beggars along the way that keep running
+{G}  up as you get near, begging for some change.
+{G}  to the west you can see a bunch a thieves
+{G}  gathering to train. To the east you see
+{G}  a bunch of knuckle heads getting into a
+{G}  fight.{g}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44307
+D1
+~
+~
+0 -1 44358
+D2
+~
+~
+0 -1 44304
+D3
+~
+~
+0 -1 44349
+Z-1
+C-1
+R0
+S
+#44306
+{B,G}Guard Post{b,g}~
+
+{BLUE}  This is the main sleeping and storage for
+{BLUE}  the guard forces protecting the wall.
+{BLUE}  Standing at a table looks like a man in
+{BLUE}  charge barking out orders as runners are
+{BLUE}  bringing scrolls for him to read.{b}
+
+~
+443 0 1
+D1
+~
+~
+0 -1 44304
+Z-1
+C-1
+R0
+S
+#44307
+{B,G}The main road{b,g}~
+
+{G}  Here is the main road up to the city you
+{G}  nod your head as you pass by both wagons
+{G}  and people on foot. It is laid with
+{G}  thousands of stone bricks. There are
+{G}  beggers along the way that keep running
+{G}  up as you get near begging for some change.
+{G}  You can see busy Market Square in the
+{G}  distance. A group of acolytes are studing
+{G}  to the west. To the east you see a
+{G}  blacksmith hammering a piece of armor.{g}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44308
+D1
+~
+~
+0 -1 44313
+D2
+~
+~
+0 -1 44305
+D3
+~
+~
+0 -1 44353
+Z-1
+C-1
+R0
+S
+#44308
+{BO,G}Market Square{bo,g}~
+
+{CYAN}  Here is Market Square, the center of town.
+{CYAN}  To the east and west are shops. To the
+{CYAN}  north is the castle where all the nobility
+{CYAN}  lives. All around you are crowds of people
+{CYAN}  looking into store windows, talking, and
+{CYAN}  laughing.{c}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44309
+D1
+~
+~
+0 -1 44311
+D2
+~
+~
+0 -1 44307
+D3
+~
+~
+0 -1 44343
+D4
+~
+~
+0 -1 44342
+Z-1
+C-1
+R0
+S
+#44309
+{B,BLA}Punishment Square{b,bla}~
+
+{R}  This is wher{B}e they put al{b}{R}l the prisoners
+{R}  for petty cr{B}imes. There a{b}{R}re several people
+{R}  in pilvery. T{B}hey must hav{b}{R}e been caught
+{R}  stealing or {B}some other n{b}{R}on serious crime.
+{R}  You see seve{B}ral childre{b}{R}n taunting each of
+{R}  the prisone{B}rs. To the west{b}{R} you can see the
+{C}  Cleric's guild{R}.{b}
+
+~
+443 0 1
+D1
+~
+~
+0 -1 44312
+D2
+~
+~
+0 -1 44308
+D3
+~
+~
+0 -1 44351
+Z-1
+C-1
+R0
+S
+#44310
+{B,G}Steps to the Castle{b,g}~
+
+{YELLOW,BOLD}  Here are a huge set of marble stairs leading
+{YELLOW,BOLD}  a large hill. They look as if they could go
+{YELLOW,BOLD}  up forever. At even intervals up the stairs
+{YELLOW,BOLD}  you see men standing at attention at each
+{YELLOW,BOLD}  side of the stairs. The glare from there
+{YELLOW,BOLD}  armor makes it hard to see anything past
+{YELLOW,BOLD}  there form.{y}
+
+~
+443 0 1
+D4
+~
+~
+0 -1 44361
+Z-1
+C-1
+R0
+S
+#44311
+{B,G}East Market Street{b,g}~
+
+{GREEN}  A long street lined with shops on both
+{GREEN}  sides is in front of you. The street is
+{GREEN}  so crowded it is hard to walk through.
+{GREEN}  There are men and woman both shopping
+{GREEN}  for there daily wares. To the north is a
+{YELLO}  bakery {GREEN}and the south is the town {BLACK}blacksmith.{g}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44312
+D1
+~
+~
+0 -1 44314
+D2
+~
+~
+0 -1 44313
+D3
+~
+~
+0 -1 44308
+Z-1
+C-1
+R0
+S
+#44312
+{B,M}Bakery{b,m}~
+
+{Y}  As you walk into the shop, you smell the
+{Y}  sweet {M}aroma {Y}of warm fresh baked bread.
+{Y}  You may never want to leave this store.
+{Y}  It brings back memories of when you were
+{Y}  a child, and your mother would make freshly
+{Y}  baked bread. The baker notices you and
+{Y}  scurries over to take your order.{y}
+
+~
+443 8192 1
+D2
+~
+~
+0 -1 44311
+D3
+~
+~
+0 -1 44309
+Z-1
+C-1
+R0
+S
+#44313
+{B,BLA}Blacksmith & Stables{b,bla}~
+
+{BLACK}  Here is the town blacksmith. He is
+{BLACK}  currently trying to reshoe a stubborn
+{BLACK}  horse. He looks like a older man who
+{BLACK}  has seen much better days. He is almost
+{BLACK}  black with soot and sweat is pouring off
+{BLACK}  his head.{b}
+
+~
+443 8192 1
+D0
+~
+~
+0 -1 44311
+D3
+~
+~
+0 -1 44307
+Z-1
+C-1
+R0
+S
+#44314
+{B,G}East Market Street{b,g}~
+
+{GREEN}  A long street lined with shops on both
+{GREEN}  sides is in front of you. The street is
+{GREEN}  so crowded it is hard to walk through.
+{GREEN}  There are men and woman both shopping
+{GREEN}  for their daily wares. To the north is a
+{YELLO}  fur trader {GREEN}and the south is a {RED}candle maker{GREEN}.{g}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44316
+D1
+~
+~
+0 -1 44315
+D2
+~
+~
+0 -1 44317
+D3
+~
+~
+0 -1 44311
+Z-1
+C-1
+R0
+S
+#44315
+{B,G}East Market Street{b,g}~
+
+{G}  A long street lined with shops on both
+{G}  sides is in front of you. The street is
+{G}  so crowded it is hard to walk through.
+{G}  There are men and woman both shopping
+{G}  for their daily wares. To the north is
+{R,BO}  the butcher{b} {G}and south is the {Y}warrior
+{Y}  guild.{y}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44320
+D1
+~
+~
+0 -1 44319
+D2
+~
+~
+0 -1 44318
+D3
+~
+~
+0 -1 44314
+Z-1
+C-1
+R0
+S
+#44316
+{B,BLA}Fur Trader{b,bla}~
+
+{Y}  As you walk into this store you see the
+{Y}  fur of many exotic animals hung on the wall.
+{Y}  Raccoons, deer, bears, and squirrels. You see
+{Y}  coats and shoes made mink, and belts made from
+{G}  snake{Y}. A scruffy man walks up and asks if he
+{Y}  can help you.{y}
+
+~
+443 8192 1
+D2
+~
+~
+0 -1 44314
+Z-1
+C-1
+R0
+S
+#44317
+{B,M}Candle Maker{b,m}~
+
+{R}  You see wax candles on numerous shelves all
+{R}  over the store. There is a man in the back
+{R}  pouring {WHITE,BOLD}hot wax{w} {R}into a mold. A younger teen
+{R}  boy appears behind the counter to take your
+{R}  order.{r}
+
+~
+443 8192 1
+D0
+~
+~
+0 -1 44314
+Z-1
+C-1
+R0
+S
+#44318
+{BO,R}Warrior Guild{bo,r}~
+
+{BLU,BO}  Here is the entrance to the Warrior Guild.
+{BLU,BO}  This is the place where warriors come to
+{BLU,BO}  hone their skills from a great master. There
+{BLU,BO}  are swords lining the walls and practice
+{BLU,BO}  dummies in the courtyard. In the back stands
+{BLU,BO}  an old man, who looks like he has been through
+{BLU,BO}  several battles.{b}
+
+~
+443 4 1
+D0
+~
+~
+0 -1 44315
+D2
+~
+~
+0 -1 44341
+Z-1
+C-1
+R0
+S
+#44319
+{B,Y}Temple Square{b,y}~
+
+{G}  Leaving the busy stalls of the market you are now
+{G}  entering a crossroads. To the north is a huge
+{G}  cathedral. To the south you see some very well
+{G}  dressed individuals. To the east you see {M}The
+{M}  Knights Guilds{G}.{b}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44321
+D1
+~
+~
+0 -1 44328
+D2
+~
+~
+0 -1 44333
+D3
+~
+~
+0 -1 44315
+Z-1
+C-1
+R0
+S
+#44320
+{B,M}Butcher{b,m}~
+
+{R}  You step into a clean, but chilly shop with
+{R,BO}  a glass display case, where many different
+{b}{R}  types of select meats are piled. You see
+{R,BO}  some very tasty pork chops that catch your{b}
+{R}  eye.{b}
+
+~
+443 8192 1
+D2
+~
+~
+0 -1 44315
+Z-1
+C-1
+R0
+S
+#44321
+{B,Y}Cathedral Steps{b,y}~
+
+{R}  Standing on the cathedral steps you are awestruck by
+{R}  the intricacies of its architectures. Every aspect
+{R}  expertly done down to the engraving on the very steps.
+{R}  Several elderly citizens are nearby reading the old
+{R}  words while young children play and peddle flowers to
+{R}  passer-byes. You feel at ease and at peace here. To the
+{R}  south you can see the temple square busy with clerics
+{R}  and knights and up the steps are the massive cathedral
+{R}  doors.{b}
+
+~
+443 0 1
+D2
+~
+~
+0 -1 44319
+D4
+~
+~
+0 -1 44322
+Z-1
+C-1
+R0
+S
+#44322
+{B,Y}Cathedral Doors{b,y}~
+
+{Y}  Standing under the eaves of the cathedral you can't help
+{R}  but to examine the murals carved into its exterior. Runes
+{Y}  tell of great battles of {G,BO}good{b} {Y}verses {R,BO}evil{b} {Y}and the victory
+{R}  of the righteous. The calming feeling felt on the steps is
+{Y}  even stronger here, possibly by some magic or the power of
+{R}  faith. Through these doors lies the heart of our kingdom's
+{Y}  spiritual power, down the steps lie the temple commons.{y}
+
+~
+443 0 1
+D0
+~
+door~
+1 -1 44323
+D5
+~
+~
+0 -1 44321
+Z-1
+C-1
+R0
+S
+#44323
+{B,Y}Inside the Cathedral{b,y}~
+
+{BLU,BO}  A calm air permeates this place, putting all who enter here
+{BLU,BO}  at ease. Long rows of pews line each side of the walkway.
+{BLU,BO}  Exquisite stained glass windows give you a perplexed view
+{BLU,BO}  outside. Statues of {G,BO}Heroes {BLU,BO}and {WH,BO}Saints {BLU,BO}line the walls.
+{BLU,BO}  To the north you can see the pulpit, while to the south 
+{BLU,BO}  the closed temple doors stand sturdy in front of you.{b}
+
+~
+443 8 1
+D0
+~
+~
+0 -1 44324
+D2
+~
+door~
+1 -1 44322
+Z-1
+C-1
+R0
+S
+#44324
+{B,Y}Inside the Cathedral{b,y}~
+
+{BLU,BO}  Looking to the left and right you see many devote
+{BLU,BO}  followers of the faith, saying prayers and meditating
+{BLU,BO}  quietly. Above you, a massive chandelier of crystal
+{BLU,BO}  casts prismatic light around the room. You get the
+{BLU,BO}  faint smell of incense burning at the altars around
+{BLU,BO}  the pulpit. To the north you see {WH,BO}priests {BLU,BO}talking
+{BLU,BO}  to citizens as well as nobility. The cathedral doors
+{BLU,BO}  are to your south.{b}
+
+~
+443 8 1
+D0
+~
+~
+0 -1 44325
+D2
+~
+~
+0 -1 44323
+Z-1
+C-1
+R0
+S
+#44325
+The Pulpit~
+
+{BLU,BO}  Standing before you is a small pedestal holding an open book of
+{BLU,BO}  holy scripture. The smells of incense burning at the small altars
+{BLU,BO}  is strong here and you can't help but wonder what they are burning
+{BLU,BO}  for. You see a young acolyte helping an elderly woman light a candle
+{BLU,BO}  for her departed husband and son both lost in battle in years past.
+{BLU,BO}  To the east is the temple confessional and to the north, the area
+{BLU,BO}  behind the pulpit.{b}
+
+~
+443 12 1
+D0
+~
+door~
+1 -1 44326
+D1
+~
+~
+0 -1 44327
+D2
+~
+~
+0 -1 44324
+Z-1
+C-1
+R0
+S
+#44326
+{B,W}Behind the Pulpit{b,w}~
+
+{G,BO}  You feel uneasy standing here next to the head priest of the
+{G,BO}  cathedral, but he puts your mind at ease when he asks what is
+{G,BO}  troubling you. Before you can speak a young templar runs up
+{G,BO}  to report on a guest given to him by the church.{g}
+
+~
+443 8 1
+D2
+~
+door~
+1 -1 44325
+Z-1
+C-1
+R0
+S
+#44327
+{B,Y} Confessions Booth{b,y}~
+
+{Y}  At this time the confessional is deserted. The priest
+{Y}  is out attending to commorers. As you sit in the black
+{Y}  empty booth, you quickly realize that no human soul
+{Y}  will come to you aid. Before leaving you whisper the
+{Y}  Lord's Prayer.{y}
+
+~
+443 8 1
+D3
+~
+~
+0 -1 44325
+E
+lords prayer~
+
+{G}  Our father in heaven
+{G}  hallowed be your name.
+{G}  Your kingdom come,
+{G}  Your will be done,
+{G}  on Earth as it is in Heaven.
+{G}  Give us this day, our daily bread,
+{G}  and forgive us our debts,
+{G}  as we also have forgiven our debtors.
+{G}  And lead us not into temptation,
+{G}  but deliver us from evil.
+
+{G}  Amen.{g}
+
+~
+Z-1
+C2
+R0
+S
+#44328
+{B,M}Entrance to the Knights Guild{b,m}~
+
+{R,BO}  Welcome to the world Famous{b} {M}Knights Guild{R,BO}. As
+{R,BO}  you try to step forward, a guard blocks your
+{R,BO}  way and says 'Knights Only'. Trying to fight
+{R,BO}  your way through would be your last mistake.
+{R,BO}  Even if you were to get past the guard, you
+{R,BO}  are sure to be walking into a dozen Knights.{b}
+
+~
+443 4 1
+D1
+~
+~
+0 -1 44329
+D3
+~
+~
+0 -1 44319
+Z-1
+C-1
+R0
+S
+#44329
+{B,M}Knights Lobby{b,m}~
+
+{R,BO}  Here you are in the inner sanctum of the Knights.
+{R,BO}  This is the place where knights come after a hard
+{R,BO}  days work of slaying Vampires and other foul creatures.
+{R,BO}  To the east you see the bar, to the south the master
+{R,BO}  knight beckons you to train, and north is the trophy
+{R,BO}  room.{r}
+
+~
+443 8 1
+D0
+~
+~
+0 -1 44330
+D1
+~
+~
+0 -1 44331
+D2
+~
+~
+0 -1 44332
+D3
+~
+~
+0 -1 44328
+Z-1
+C-1
+R0
+S
+#44330
+{B,M}Knights Trophy Room{b,m}~
+
+{Y,BO}  You see huge cases lining every wall of the room.
+{Y,BO}  The cases are crammed full of trophies and metals.
+{Y,BO}  These rewards where given in service of the people
+{Y,BO}  by the king. In the corner you see an old man with
+{Y,BO}  a cloth shining some metals. He is the caretaker
+{Y,BO}  for this great treasure.{y}
+
+~
+443 8 1
+D2
+~
+~
+0 -1 44329
+Z-1
+C-1
+R0
+S
+#44331
+{B,M}Knights Bar{b,m}~
+
+{R,BO}  The bar counter reeks of whiskey and vodka. The
+{R,BO}  aroma nearly splits your nose hair. As you inhale
+{R,BO}  deeply, you can almost feel intoxicated yourself.
+{R,BO}  A few of the knights haev gathered here to discuss
+{R,BO}  their latest kills and victories.{b}
+
+~
+443 8 1
+D3
+~
+~
+0 -1 44329
+Z-1
+C-1
+R0
+S
+#44332
+{B,M}Master Knights Quarters{b,m}~
+
+{Y}  In the Master Knights Quarters, you feel honored
+{Y}  to stand nearby to some of the elder knights. One
+{Y}  of the few knights is here reading a tome about
+{Y}  the art of marksmanship, while another is striking
+{Y}  a practice dummy violently with a dull steel dagger.
+{Y}  Many of the knights are in various beds, sleeping.{y}
+
+~
+443 8 1
+D0
+~
+~
+0 -1 44329
+Z-1
+C-1
+R0
+S
+#44333
+{B,Y}Temple Commons{b,y}~
+
+{Y,BO}  People dressed in elegant clothing walk along
+{Y,BO}  the road. As they pass, you nearly choke on
+{Y,BO}  the intense scent of their expensive perfume
+{Y,BO}  and cologne. The nobles simply ignore your
+{Y,BO}  presence as if you don't even exist. To the
+{Y,BO}  south is High Street and to the north you
+{Y,BO}  see the Temple Square.{y}
+
+~
+443 4 1
+D0
+~
+~
+0 -1 44319
+D2
+~
+~
+0 -1 44334
+Z-1
+C-1
+R0
+S
+#44334
+{M}High Street{m}~
+
+{C,BO}  The rights of the nobility seem to surpass your own.
+{C,BO}  They shove you aside not even glancing in your general
+{C,BO}  direction. The exotic coats and furs on the nobles
+{C,BO}  amaze you. The nobility coming to and from High Street
+{C,BO}  are eloquently dressed. As you approach the Mayor's 
+{C,BO}  Mansion, you feel under dressed.{b}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44333
+D3
+~
+~
+0 -1 44335
+Z-1
+C-1
+R0
+S
+#44335
+{M}High Street{m}~
+
+{C,BO}  The rights of the nobility seem to surpass your own.
+{C,BO}  They shove you aside not even glancing in your general
+{C,BO}  direction. The exotic coats and furs on the nobles
+{C,BO}  amaze you. The nobility coming to and from High Street
+{C,BO}  are eloquently dressed. As you approach the Mayor's 
+{C,BO}  Mansion, you feel under dressed.{b}
+
+~
+443 0 1
+D1
+~
+~
+0 -1 44334
+D3
+~
+~
+0 -1 44336
+Z-1
+C-1
+R0
+S
+#44336
+{M}High Street{m}~
+
+{C,BO}  The rights of the nobility seem to surpass your own.
+{C,BO}  They shove you aside not even glancing in your general
+{C,BO}  direction. The exotic coats and furs on the nobles
+{C,BO}  amaze you. The nobility coming to and from High Street
+{C,BO}  are eloquently dressed. As you approach the Mayor's 
+{C,BO}  Mansion, you feel under dressed.{b}
+
+~
+443 0 1
+D1
+~
+~
+0 -1 44335
+D3
+~
+~
+0 -1 44337
+Z-1
+C-1
+R0
+S
+#44337
+{M}High Street{m}~
+
+{C,BO}  The rights of the nobility seem to surpass your own.
+{C,BO}  They shove you aside not even glancing in your general
+{C,BO}  direction. The exotic coats and furs on the nobles
+{C,BO}  amaze you. The nobility coming to and from High Street
+{C,BO}  are eloquently dressed. As you approach the Mayor's 
+{C,BO}  Mansion, you feel under dressed.{b}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44338
+D1
+~
+~
+0 -1 44336
+Z-1
+C-1
+R0
+S
+#44338
+{C}Mayors Mansion{c}~
+
+{Y,BO}  As you walk into the mansion, you cannot help but
+{Y,BO}  become awestruck by the magnificent art that graces 
+{Y,BO}  the stone walls. A beautifully crafted sculpture
+{Y,BO}  of the town is hung in the center of the room. There
+{Y,BO}  are exquisite paintings of the crossroads that reach
+{Y,BO}  so far through the hall, they withdraw from your sight.{y}
+
+~
+443 4 1
+D0
+~
+~
+0 -1 44339
+D2
+~
+~
+0 -1 44337
+Z-1
+C-1
+R0
+S
+#44339
+{C}Foyer{c}~
+
+{R,BO}  A leather couch rests in the center of the Foyer.
+{R,BO}  The marble floors have been recently polished as
+{R,BO}  you can see your reflection off the shine of the
+{R,BO}  stone. To the north you see further into the mayor's
+{R,BO}  manor.{b}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44340
+D2
+~
+~
+0 -1 44338
+Z-1
+C-1
+R0
+S
+#44340
+{C}Main Living Area{c}~
+
+{Y,BO}  The mayor is here resting on a love seat with
+{Y,BO}  a book in his hand. The mahogany table shines
+{Y,BO}  brightly with the sunlight. There is beautifully
+{Y,BO}  crafted china sitting on the mahogany table.
+{Y,BO}  A fancy oak nightstand rests empty in the corner,
+{Y,BO}  waiting for something to grasp onto. You are
+{Y,BO}  amazed by the incredible architecture of the room.{y}
+
+~
+443 0 1
+D2
+~
+~
+0 -1 44339
+Z-1
+C-1
+R0
+S
+#44341
+{R}Master Warrior{r}~
+
+{BLU}  "Given enough time, any man may master the physical. With
+{BLU}   enough knowledge, any man may become wise. It is the true
+{BLU}   warrior who can master both....and surpass the result."
+{BLU}   - Tien T'ai
+{BLU}
+{BLU}  Here stands a Tall old man who has many scars. He
+{BLU}  is willing to teach you all he knows.{b}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44318
+Z-1
+C-1
+R0
+S
+#44342
+{R}{BOLD}B{Y}o{R}z{Y}o{R}'{Y}s{BLU} Training Room{blu}~
+
+   {WH}This is the place where you gain levels and improve 
+   your stats!  To train for your next level, you type 
+   the following:
+   
+   {BO,RE}TRAIN LEVEL W{bo,re}{WHI} (warrior) or {BO,RE}TRAIN LEVEL M {bo,re}{WHI}(mage), 
+   etc... The word{RE} LEVEL{WHI} will tell the trainer that you 
+   want to{RE} LEVEL{WHI}. You do not need to type in a number.
+   ie,  TRAIN 30 W. 
+   
+   To improve your STATS, you do the following:
+   {BO,RE}TRAIN STR{bo,re}{WHI} (Strength) or {BO,RE}TRAIN INT{bo,re}{WHI} (Intelligence)
+   
+        {RE}Strength        {BO,YEL}     Wisdom
+       {BO,CY} Intelligence      {BO,GRE}   Dexterity
+   {BO,BLU}     Consititution     {BO,RE}   Level{bo,re}{WHI}
+   
+   It costs 4 practices to increase your main attribute 
+   and 6 for others.{whi}
+
+~
+443 73732 1
+D5
+~
+~
+0 -1 44308
+Z-1
+C-1
+R0
+S
+#44343
+{BO,G}West Market Street{bo,g}~
+
+{G}  A long street lined with shops on both
+{G}  sides is in front of you. The street is
+{G}  so crowded it is hard to walk through.
+{G}  There are men and woman both shopping
+{G}  for their daily wares. To the south you
+{G}  see the Sorcerer's Guild.{g}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44363
+D1
+~
+~
+0 -1 44308
+D2
+~
+~
+0 -1 44355
+D3
+~
+~
+0 -1 44344
+Z-1
+C-1
+R0
+S
+#44344
+{BO,G}West Market Street{bo,g}~
+
+{G}  A long street lined with shops on both
+{G}  sides is in front of you. The street is
+{G}  so crowded it is hard to walk through.
+{G}  There are men and woman both shopping
+{G}  for there daily wares.{g}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44364
+D1
+~
+~
+0 -1 44343
+D2
+~
+~
+0 -1 44365
+D3
+~
+~
+0 -1 44345
+Z-1
+C-1
+R0
+S
+#44345
+{BO,G}West Market Street{bo,g}~
+
+{G}  A long street lined with shops on both
+{G}  sides is in front of you. The street is
+{G}  so crowded it is hard to walk through.
+{G}  There are men and woman both shopping
+{G}  for there daily wares. To the south
+{G}  you can see the {Y}Mage's Guild{G}.{g}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44353
+D1
+~
+~
+0 -1 44344
+D2
+~
+~
+0 -1 44347
+D3
+~
+~
+0 -1 44346
+Z-1
+C-1
+R0
+S
+#44346
+{BO,G}West Market Street{bo,g}~
+
+{G}  A long street lined with shops on both
+{G}  sides is in front of you. The street is
+{G}  so crowded it is hard to walk through.
+{G}  There are men and woman both shopping
+{G}  for there daily wares.{g}
+
+~
+443 0 1
+D1
+~
+~
+0 -1 44345
+Z-1
+C-1
+R0
+S
+#44347
+{BO,R}Mages Guild{bo,r}~
+
+{Y}  The Mages Guild is a guild dedicated to the
+{Y}  collection, preservation, and distribution of
+{Y}  magical knowledge with  an emphasis on ensuring
+{Y}  that all citizens benefit from this knowledge.
+{Y}  Members of the Guild receive many benefits,
+{Y}  including training, services, and education in
+{Y}  the established laws regarding the proper use of
+{Y}  magic.{y}
+
+~
+443 4 1
+D0
+~
+~
+0 -1 44345
+D2
+~
+~
+0 -1 44348
+Z-1
+C-1
+R0
+S
+#44348
+{R}Master Archmage{r}~
+
+{Y}  As begun by Vanus Galerion, the Mages Guild as an
+{Y}  institution is presided over by a supreme council
+{Y}  of six Archmagisters, with subsequent masters over
+{Y}  certain Areas, creating a bureaucracy of sorts. One
+{Y}  need not be a member of the Mages Guild to know that
+{Y}  this carefully contrived hierarchy is often nothing
+{Y}  more than a chimera.
+{Y}
+{Y}  Here stands the Master Archmage trainer.{y}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44347
+Z-1
+C-1
+R0
+S
+#44349
+{BO,R}Thieves Guild{bo,r}~
+
+{RED}  The Thieves Guild is an organization for the gathering
+{RED}  and training of those stealthy and shadowy in nature.
+{RED}  Although criminal by its very definition, the local
+{RED}  authorities often tolerate the existence of the guild
+{RED}  as its presence often greatly decreases, if not
+{RED}  eliminates, that of the more unstable or dangerous
+{RED}  criminals. This hideout is disguised as a small bar.{r}
+
+~
+443 4 1
+D1
+~
+~
+0 -1 44305
+D2
+~
+~
+0 -1 44350
+Z-1
+C-1
+R0
+S
+#44350
+{R}Thieves Guild{r}~
+
+{R}  Like any trade guild, the Thieves Guild is an
+{R}  organization of professionals, except that in
+{R}  this case the professionals are thieves, robbers,
+{R}  pickpockets, smugglers, and other enterprising
+{R}  operators. They don't have public guild halls, but
+{R}  in large towns they do tend to gather at a single
+{R}  location, such as a cornerclub, inn, or tradehouse.
+{R}
+{R}  The master thief is sitting in a dark corner
+{R}  beckoning you to approach.{r}
+
+~
+443 8192 1
+D0
+~
+~
+0 -1 44349
+Z-1
+C-1
+R0
+S
+#44351
+{BO,CY}The{bo,cy}{CY} Entrance{BO,CY} to the {bo,cy}{CY}Cleric's {BO,CY}Guild{bo,cy}~
+
+{CYAN}  The entrance hall is a small modest room,
+{CYAN}  reflecting the {CYAN,BOLD}true nature{b} {CYAN}of the {CYAN,BOLD}Clerics{c}{CYAN}.
+{CYAN}  You notice the users of magic all practicing
+{CYAN}  To the north you can see more of the guild.{c}
+
+~
+443 4 1
+D1
+~
+~
+0 -1 44309
+D3
+~
+~
+0 -1 44352
+Z-1
+C-1
+R0
+S
+#44352
+{CY}Cleric {BO,CY}Guild{bo,cy} {CY}Master{cy}~
+
+{C}  'Cleric' is something of a misleading term as it
+{C}  suggests we are an umbrella organization for
+{C}  priests of all religions. This is not so, as we
+{C}  are all servents of the God of Light and Goodness,
+{C}  may his light shine across the land and banish the
+{C}  darkness forever! God demands much of his followers,
+{C}  but the rewards are great. Stick close to the path,
+{C}  and you will find that God can grant you great power
+{C}  to smite evil wherever it may lurk!{c}
+
+~
+443 12 0
+D1
+~
+~
+0 -1 44351
+Z-1
+C-1
+R0
+S
+#44353
+{WHITE,BOLD}Acolyte Study Hall{white}~
+
+{WHITE,BOLD}  A group of Acolytes are here studying a few books
+{WHITE,BOLD}  that a fellow monk gave them. You feel wise standing
+{WHITE,BOLD}  next to a few of what are potential monks. While
+{WHITE,BOLD}  you wait and listen to what they say, you hear one
+{WHITE,BOLD}  of them mention the various styles they have learned.
+{WHITE,BOLD}  In the corner you notices a pair of acolytes that
+{WHITE,BOLD}  strangly resemble a tiger on its hunt.
+
+{WHITE,BOLD}  The master acolyte catches your eye, and beckons
+{WHITE,BOLD}  you to come south.{white}
+
+~
+443 0 1
+D2
+~
+~
+0 -1 44345
+Z-1
+C-1
+R0
+S
+#44354
+{WHITE,BOLD}Master Acolyte{white}~
+
+{WHITE,BOLD}  A swift hush quiets the room. You hold your
+{WHITE,BOLD}  breath as the master acolyte teaches you the
+{WHITE,BOLD}  ways of the acolyte. You learn about wisdom
+{WHITE,BOLD}  and many different fighting styles. After
+{WHITE,BOLD}  training with your guildmaster, you bow slightly
+{WHITE,BOLD}  and look for the exit.{white}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44353
+Z-1
+C-1
+R0
+S
+#44355
+{MAGENTA}Sorcerer's Guild{mag}~
+
+{M}  A few sorcerers are boasting about their mastery
+{M}  of magic. A few of the casters in the room are
+{M}  bragging about their innate ability as natural
+{M}  magic users. There are a few drunk sorcerers
+{M}  muttering incantations from the south.{m}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44343
+D2
+~
+~
+0 -1 44356
+Z-1
+C-1
+R0
+S
+#44356
+{M}Sorcerer's Bar{m}~
+
+{M}  There is a group of sorcerers engaging in a dual.
+{M}  While trying to find your way through the bar,
+{M}  you have to find your way past the spells being
+{M}  flung across the hall, and the many students
+{M}  patiently waiting to train with the Master Sorcerer,
+{M}  who is to the south.{m}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44355
+D2
+~
+~
+0 -1 44357
+Z-1
+C-1
+R0
+S
+#44357
+{MAGENTA,BOLD}Master Sorcerer{m}~
+
+{M,BO}  You walk into the room with the guildmaster.
+{M,BO}  he is teaching a pair of students trying to learn
+{M,BO}  the spell 'improved identity'. As you look around
+{M,BO}  you see the room is only lit by a dim candle. The
+{M,BO}  edges of the walls are burned from badly casted
+{M,BO}  fireballs. As the other students walk out of the
+{M,BO}  room, your master approaches you.{m}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44356
+Z-1
+C-1
+R0
+S
+#44358
+{RED}Brawler Guild{r}~
+
+{R}  As you walk into the room, your adrenaline instantly
+{R}  surges, making you extremely aggressive and eager for
+{R}  a fight. The bar is to the north and off in the distance
+{R}  you can see the Master Brawler waiting for you to dual.
+{r}
+~
+443 0 1
+D0
+~
+~
+0 -1 44359
+D3
+~
+~
+0 -1 44305
+Z-1
+C-1
+R0
+S
+#44359
+{R}Brawler's Bar{r}~
+
+{R}  The very moment you enter the bar, you feel instantly
+{R}  welcomed by the noise echoing from inside. As you look
+{R}  around, the disorderly conduct of your fellow brawlers
+{R}  makes you want to join their fun. In another corner you
+{R}  see two brawlers engaging in an extremely violent brawl.
+{R}  To the north the Master Brawler beckons you to come train.{r}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44360
+D2
+~
+~
+0 -1 44358
+Z-1
+C-1
+R0
+S
+#44360
+{RED,BOLD}Brawler Master{r}~
+
+{RED,BOLD}  The Brawler Master sits here happily sipping
+{RED,BOLD}  his ale waiting for another student to train.
+{RED,BOLD}  You watch as he downs the rest of his class in
+{RED,BOLD}  one sitting as he stares at you and frowns. He
+{RED,BOLD}  stands up, only to wobble for a second, before
+{RED,BOLD}  slowly walking in your direction. He asks, 'What
+{RED,BOLD}  can I teach you my son?'{r}
+
+~
+443 0 1
+D2
+~
+~
+0 -1 44359
+Z-1
+C-1
+R0
+S
+#44361
+Castle Entrance~
+
+                         |        l-------l      |
+                        /\   l^^^^^^^^^^^^^^^l  /\
+                       /__\ _l O  O  O  O  O l_/__\
+                       l   l l               l     l
+                       l   l l               l     l
+        [^^^]          l  [^^^]             [^^^]  l          [^^^]
+        [ o ]-------------[ o ]-------------[ o ]-------------[ o ]
+        [   ]             [   ]     ___     [   ]             [   ]
+        [   ]             [   ]    /   \    [   ]             [   ]
+        [   ]             [   ]   |     |   [   ]   o         [   ]
+        [   ]             [   ]   |     |   [   ] \_|_        [   ]
+________[___]_____________[___]___|_____|___[___]_/\_/\_______[___]__
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44362
+D5
+~
+~
+0 -1 44310
+Z-1
+C-1
+R0
+S
+#44362
+Castle Foyer~
+
+{R}  The castle's floors are covered with think dark
+{R}  carpet. To the east and west you see pathways
+{R}  leading towards the servant quarters. To the north
+{R}  there is a busy path into what appears to be
+{R}  a gathering place for commoners.{r}
+
+~
+443 0 1
+D1
+~
+~
+0 -1 44368
+D2
+~
+~
+0 -1 44361
+D3
+~
+~
+0 -1 44367
+D4
+~
+~
+0 -1 44369
+Z-1
+C-1
+R0
+S
+#44363
+{BL}Armourer{bl}~
+
+{R}  Armourers can {Y}create a wide{R} variety of armour, but
+{R}  they specializ{Y}e in heavy ar{R}mour and shields. As
+{R}  capable miners{Y} and smelters{R}, they can procure and
+{R}  prepare the me{Y}tal they need{R}, they can also craft
+{R}  clothes and le{Y}ather armour.{r}
+
+~
+443 8192 1
+D2
+~
+~
+0 -1 44343
+Z-1
+C-1
+R0
+S
+#44364
+{BO,R}Weapon{bo,r}{R}smith{r}~
+
+{R}  As the name would{R,BO} suggest, the {b}{R}Weaponsmith is the
+{R}  primary source of{R,BO} melee weapons{b}{R}. Swords, daggers,
+{R}  and axes of all v{R,BO}arieties are t{b}{R}he Weaponsmith's
+{R}  purview, ranging {R,BO}from bronze tr{b}{R}aining gear to
+{R}  mighty weapons of{R,BO} ancient desig{b}{R}n and great renown.{r}
+
+~
+443 8192 1
+D2
+~
+~
+0 -1 44344
+Z-1
+C-1
+R0
+S
+#44365
+Shoemaker and Cobbler~
+
+{Y}  Originally, shoes were made one at a time by hand.
+{Y}  Shoemakers or cordwainers may produce a range of
+{Y}  footwear items, including shoes, boots, sandals,
+{Y}  clogs and moccasins. Such items are generally made
+{Y}  of leather, wood, rubber, plastic, jute or other
+{Y}  plant material, and often consist of multiple parts
+{Y}  for better durability of the sole, stitched to a
+{Y}  leather upper.{y}
+
+~
+443 8192 1
+D0
+~
+~
+0 -1 44344
+Z-1
+C-1
+R0
+S
+#44366
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+443 0 1
+Z0
+C-1
+R0
+S
+#44367
+{R}Servant Quarters{r}~
+
+{BLU,BO}  The room is completely bare. It has no artwork
+{BLU,BO}  on the walls, no carpet, and very little appliances.
+{BLU,BO}  There are a few beds packed tightly together.
+{BLU,BO}  A lot of servants are here rushing around trying
+{BLU,BO}  to get everything perfect for the king.{blu}
+
+~
+443 8 1
+D0
+~
+~
+0 -1 44812
+D1
+~
+~
+0 -1 44362
+D2
+~
+~
+0 -1 44816
+D3
+~
+~
+0 -1 44814
+Z-1
+C-1
+R0
+S
+#44368
+{R}Servant Quarters{r}~
+
+{BLU,BO}  The room is completely bare. It has no artwork
+{BLU,BO}  on the walls, no carpet, and very little appliances.
+{BLU,BO}  There are a few beds packed tightly together.
+{BLU,BO}  A lot of servants are here rushing around trying
+{BLU,BO}  to get everything perfect for the king.{blu}
+
+~
+443 8 1
+D0
+~
+~
+0 -1 44817
+D1
+~
+~
+0 -1 44819
+D2
+~
+~
+0 -1 44821
+D3
+~
+~
+0 -1 44362
+Z-1
+C-1
+R0
+S
+#44369
+{BLACK,BOLD}Stairway{b}~
+
+{BLACK,BOLD}  You walk onto a stairwell. You can barely see two feet
+{BLACK,BOLD}  in front of you. The walls are brick, covered in dust
+{BLACK,BOLD}  and dirt. You feel that at the top of the stairs your
+{BLACK,BOLD}  enemies will not be as welcoming.{b}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44370
+D5
+~
+~
+0 -1 44362
+Z-1
+C-1
+R0
+S
+#44370
+{BLUE}Second Floor{b}~
+
+{BLU,BO}  You walk onto the secon{RED}d floor. There is{BLUE} a bright red carpet
+{BLU,BO}  leading to another flig{RED}ht of stairs. To {BLUE}look to your east and
+{BLU,BO}  west there is more of t{RED}he second floor l{BLUE}eading to corridors.
+{BLU,BO}  The people in this sect{RED}ion of the castle{BLUE} do not want you here.{b}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44380
+D1
+~
+~
+0 -1 44376
+D2
+~
+~
+0 -1 44369
+D3
+~
+~
+0 -1 44371
+Z-1
+C-1
+R0
+S
+#44371
+{BLUE}Second Floor{blu}~
+
+{BLU,BO}  You walk through the {CYAN}castle looking {BLUE}at the detailed artwork
+{BLU,BO}  and beautifully const{CYAN}ructed scenery.{BLUE} Your eyes wander over
+{BLU,BO}  to a fountain running{CYAN} from a river d{BLUE}own into this room.
+{BLU,BO}  As you scan over the {CYAN}room, you see a{BLUE} corridor to the south.{b}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44381
+D1
+~
+~
+0 -1 44370
+D2
+~
+~
+0 -1 44372
+D3
+~
+~
+0 -1 44374
+Z-1
+C-1
+R0
+S
+#44372
+{R}Corridor{r}~
+
+{BLUE}  The room is filled {R}with boxes{BLU} and barrels that have been
+{BLUE}  thrown randomly thr{R}oughout th{BLU}e room. You notice a few
+{BLUE}  bookshelves full of{R} books tha{BLU}t haven't been touched in
+{BLUE}  years.{blu}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44371
+D1
+~
+~
+0 -1 44373
+Z-1
+C-1
+R0
+S
+#44373
+{R}Corridor{r}~
+
+{BLUE}  The room is filled {R}with boxes{BLU} and barrels that have been
+{BLUE}  thrown randomly thr{R}oughout th{BLU}e room. You notice a few
+{BLUE}  bookshelves full of{R} books tha{BLU}t haven't been touched in
+{BLUE}  years.{blu}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44376
+D3
+~
+~
+0 -1 44372
+E
+note~
+
+{R}  List  - Show which various items are in the store.
+{R}  Buy   - Buy an item.
+{R}  Value - The shopkeeper will (free of charge) tell how much he will
+{R}          pay for your item.
+{R}  Sell  - Sell an item.{r}
+
+~
+Z-1
+C-1
+R0
+S
+#44374
+{BLUE}Second Floor{b}~
+
+{BLUE}  The second floor looks a lot cleaner than the first. There are not
+{BLUE}  as much barrels and chests around the room. As you walk around the
+{BLUE}  people here do not seem to want you here, but will tolerate.{blu}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44375
+D1
+~
+~
+0 -1 44371
+Z-1
+C-1
+R0
+S
+#44375
+{BLUE}Second Floor{b}~
+
+{BLUE}  The second floor looks a lot cleaner than the first. There are not
+{BLUE}  as much barrels and chests around the room. As you walk around the
+{BLUE}  people here do not seem to want you here, but will tolerate.{blu}
+
+~
+443 0 1
+D1
+~
+~
+0 -1 44381
+D2
+~
+~
+0 -1 44374
+Z-1
+C-1
+R0
+S
+#44376
+{BLUE}Second Floor{blu}~
+
+{BLU,BO}  You walk through the {CYAN}castle looking {BLUE}at the detailed artwork
+{BLU,BO}  and beautifully const{CYAN}ructed scenery.{BLUE} Your eyes wander over
+{BLU,BO}  to a fountain running{CYAN} from a river d{BLUE}own into this room.
+{BLU,BO}  As you scan over the {CYAN}room, you see a{BLUE} corridor to the south.{b}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44379
+D1
+~
+~
+0 -1 44377
+D2
+~
+~
+0 -1 44373
+D3
+~
+~
+0 -1 44370
+Z-1
+C-1
+R0
+S
+#44377
+{BLUE}Second Floor{b}~
+
+{BLUE}  The second floor looks a lot cleaner than the first. There are not
+{BLUE}  as much barrels and chests around the room. As you walk around the
+{BLUE}  people here do not seem to want you here, but will tolerate.{blu}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44378
+D3
+~
+~
+0 -1 44376
+Z-1
+C-1
+R0
+S
+#44378
+{BLUE}Second Floor{b}~
+
+{BLUE}  The second floor looks a lot cleaner than the first. There are not
+{BLUE}  as much barrels and chests around the room. As you walk around the
+{BLUE}  people here do not seem to want you here, but will tolerate.{blu}
+
+~
+443 0 1
+D2
+~
+~
+0 -1 44377
+D3
+~
+~
+0 -1 44379
+Z-1
+C-1
+R0
+S
+#44379
+{BLUE}Second Floor{b}~
+
+{BLUE}  The second floor looks a lot cleaner than the first. There are not
+{BLUE}  as much barrels and chests around the room. As you walk around the
+{BLUE}  people here do not seem to want you here, but will tolerate.{blu}
+
+~
+443 0 1
+D1
+~
+~
+0 -1 44378
+D2
+~
+~
+0 -1 44376
+D3
+~
+~
+0 -1 44380
+Z-1
+C-1
+R0
+S
+#44380
+{BLUE}Second Floor{b}~
+
+{BLUE}  You are close enough to {R}see the{BLU} stairwell leading to the next
+{BLUE}  level of the castle. You{R} imagin{BLU}e that up there, they will be
+{BLUE}  even more hostile. To th{R}e east {BLU}and west there is more of the
+{BLUE}  second floor.{b}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44382
+D1
+~
+~
+0 -1 44379
+D2
+~
+~
+0 -1 44370
+D3
+~
+~
+0 -1 44381
+Z-1
+C-1
+R0
+S
+#44381
+{BLUE}Second Floor{b}~
+
+{BLUE}  The second floor looks a lot cleaner than the first. There are not
+{BLUE}  as much barrels and chests around the room. As you walk around the
+{BLUE}  people here do not seem to want you here, but will tolerate.{blu}
+
+~
+443 0 1
+D1
+~
+~
+0 -1 44380
+D2
+~
+~
+0 -1 44371
+D3
+~
+~
+0 -1 44375
+Z-1
+C-1
+R0
+S
+#44382
+{BLACK,BOLD}Stairway{b}~
+
+{BLACK,BOLD}  You walk onto a stairwell. You can barely see two feet
+{BLACK,BOLD}  in front of you. The walls are brick, covered in dust
+{BLACK,BOLD}  and dirt. You feel that at the top of the stairs your
+{BLACK,BOLD}  enemies will not be as welcoming.{b}
+
+~
+443 0 1
+D2
+~
+~
+0 -1 44380
+D4
+~
+~
+0 -1 44383
+Z-1
+C-1
+R0
+S
+#44383
+{BLUE}Third Floor{b}~
+
+{C}  This is the third room. Everything is pushed up against the
+{C}  edges of the walls. The people here look nearly angered that
+{C}  you are here. The hallway continues to the north, east, and
+{C}  west.{c}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44391
+D1
+~
+~
+0 -1 44395
+D3
+~
+~
+0 -1 44384
+D5
+~
+~
+0 -1 44382
+Z-1
+C-1
+R0
+S
+#44384
+{BLUE}Third Floor{b}~
+
+{C}  There are a few citizens and servants rushing past you impatiently.
+{C}  To the south there is a corridor. The third floor stretches throughout
+{C}  the west, north, and east. There are a few of the king's knights
+{C}  protecting the castle.{c}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44388
+D1
+~
+~
+0 -1 44383
+D2
+~
+~
+0 -1 44385
+D3
+~
+~
+0 -1 44386
+Z-1
+C-1
+R0
+S
+#44385
+{CYAN}Corridor{c}~
+
+{R}  You walk into the room and instantly want to leave. There is a rank
+{R}  smell in the air, and all of the furniture has been destroyed. There
+{R}  are chairs broken on the floor and a chared bookcase in the corner.
+{R}  Strangly enough, the bookcase seems to be mostly untouched by the
+{R}  fighting that took place in this room. You wonder if there is something
+{R}  in it.{r}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44388
+Z-1
+C-1
+R0
+S
+#44386
+{BLUE}Third Floor{b}~
+
+{C}  Servants rush around you impatiently trying to complete their days
+{C}  work. There are lots of citizens traveling through the halls. A
+{C}  few of the king's knights watch you carefully.{c}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44387
+D1
+~
+~
+0 -1 44384
+Z-1
+C-1
+R0
+S
+#44387
+{BLUE}Third Floor{b}~
+
+{C}  Servants rush around you impatiently trying to complete their days
+{C}  work. There are lots of citizens traveling through the halls. A
+{C}  few of the king's knights watch you carefully.{c}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44389
+D1
+~
+~
+0 -1 44388
+D2
+~
+~
+0 -1 44386
+Z-1
+C-1
+R0
+S
+#44388
+{BLUE}Third Floor{b}~
+
+{C}  Servants rush around you impatiently trying to complete their days
+{C}  work. There are lots of citizens traveling through the halls. A
+{C}  few of the king's knights watch you carefully.{c}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44390
+D1
+~
+~
+0 -1 44391
+D2
+~
+~
+0 -1 44384
+D3
+~
+~
+0 -1 44387
+Z-1
+C-1
+R0
+S
+#44389
+{BLUE}Third Floor{b}~
+
+{C}  Servants rush around you impatiently trying to complete their days
+{C}  work. There are lots of citizens traveling through the halls. A
+{C}  few of the king's knights watch you carefully.{c}
+
+~
+443 0 1
+D1
+~
+~
+0 -1 44390
+D2
+~
+~
+0 -1 44387
+Z-1
+C-1
+R0
+S
+#44390
+{BLUE}Third Floor{b}~
+
+{C}  Servants rush around you impatiently trying to complete their days
+{C}  work. There are lots of citizens traveling through the halls. A
+{C}  few of the king's knights watch you carefully.{c}
+
+~
+443 0 1
+D1
+~
+~
+0 -1 44392
+D2
+~
+~
+0 -1 44388
+D3
+~
+~
+0 -1 44389
+Z-1
+C-1
+R0
+S
+#44391
+{BLUE}Third Floor{b}~
+
+{C}  Servants rush around you impatiently trying to complete their days
+{C}  work. There are lots of citizens traveling through the halls. A
+{C}  few of the king's knights watch you carefully.{c}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44392
+D1
+~
+~
+0 -1 44394
+D2
+~
+~
+0 -1 44383
+D3
+~
+~
+0 -1 44388
+Z-1
+C-1
+R0
+S
+#44392
+{BLUE}Third Floor{b}~
+
+{BLU,BO}  You can see another staircase to the north. Two guards are
+{BLU,BO}  here watching you. To the west, east, and south you there
+{BLU,BO}  are impatient servants and citizens wandering about. One
+{BLU,BO}  of the knights tells you the King and Queen are at the
+{BLU,BO}  top of the stairs.{blu}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44800
+D1
+~
+~
+0 -1 44393
+D2
+~
+~
+0 -1 44391
+D3
+~
+~
+0 -1 44390
+Z-1
+C-1
+R0
+S
+#44393
+{BLUE}Third Floor{b}~
+
+{C}  Servants rush around you impatiently trying to complete their days
+{C}  work. There are lots of citizens traveling through the halls. A
+{C}  few of the king's knights watch you carefully.{c}
+
+~
+443 0 1
+D1
+~
+~
+0 -1 44399
+D2
+~
+~
+0 -1 44394
+D3
+~
+~
+0 -1 44392
+Z-1
+C-1
+R0
+S
+#44394
+{BLUE}Third Floor{b}~
+
+{C}  Servants rush around you impatiently trying to complete their days
+{C}  work. There are lots of citizens traveling through the halls. A
+{C}  few of the king's knights watch you carefully.{c}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44393
+D1
+~
+~
+0 -1 44398
+D2
+~
+~
+0 -1 44395
+D3
+~
+~
+0 -1 44391
+Z-1
+C-1
+R0
+S
+#44395
+{BLUE}Third Floor{b}~
+
+{C}  There are a few citizens and servants rushing past you impatiently.
+{C}  To the south there is a corridor. The third floor stretches throughout
+{C}  the west, north, and east. There are a few of the king's knights
+{C}  protecting the castle.{c}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44394
+D1
+~
+~
+0 -1 44397
+D2
+~
+~
+0 -1 44396
+D3
+~
+~
+0 -1 44383
+Z-1
+C-1
+R0
+S
+#44396
+{C}Corridor{c}~
+
+{R}  Inside this room there is a family sitting down for dinner. They
+{R}  obviously don't care of your presense and continue eating. There
+{R}  is some food on the table they offer to you.{r}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44395
+Z-1
+C-1
+R0
+S
+#44397
+{BLUE}Third Floor{b}~
+
+{C}  Servants rush around you impatiently trying to complete their days
+{C}  work. There are lots of citizens traveling through the halls. A
+{C}  few of the king's knights watch you carefully.{c}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44398
+D3
+~
+~
+0 -1 44395
+Z-1
+C-1
+R0
+S
+#44398
+{BLUE}Third Floor{b}~
+
+{C}  Servants rush around you impatiently trying to complete their days
+{C}  work. There are lots of citizens traveling through the halls. A
+{C}  few of the king's knights watch you carefully.{c}
+
+~
+443 0 1
+D0
+~
+~
+0 -1 44399
+D1
+~
+~
+0 -1 44823
+D2
+~
+~
+0 -1 44397
+D3
+~
+~
+0 -1 44394
+Z-1
+C-1
+R0
+S
+#44399
+{BLUE}Third Floor{b}~
+
+{C}  Servants rush around you impatiently trying to complete their days
+{C}  work. There are lots of citizens traveling through the halls. A
+{C}  few of the king's knights watch you carefully.{c}
+
+~
+443 0 1
+D2
+~
+~
+0 -1 44398
+D3
+~
+~
+0 -1 44393
+Z-1
+C-1
+R0
+S
+$~

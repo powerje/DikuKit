@@ -1,0 +1,1522 @@
+#47500
+{Y}A mysterious cave{y}~
+  
+  {Y}You find yourself in a small, chilly, damp cave.  Bats
+  flutter about in the crushing darkness, and creatures
+  of slime crawl at your feet.
+  
+  Nonetheless, you get a sneaking suspicion all is not what
+  it seems.  There are definitely signs of technology hidden
+  away in this dank cavern.  Look closely at whatver you 
+  may find...
+  
+~
+475 37 0
+D5
+~
+hatch~
+1 -1 47501
+Z10
+C-1
+S
+#47501
+{BLA,BO}A Very Mysterious Tunnel{bo,bla}~
+  
+  {BLA,BO}You are now inside a dark metal pipe that extends
+  beyond you into the darkness.  
+  
+  The walls of the tunnel are made of a dark, mettalic 
+  substance that you cannot identify.  Unlike the cave
+  above, there are no signs of life, and you can detect 
+  the eerie humming of ancient electronics in the distance.
+  
+  You see a {M}sign{BLA} engraved onto one of the metallic walls.
+  
+~
+475 16794661 0
+D2
+~
+~
+0 -1 47502
+E
+sign~
+  
+{Y,BO}         @   
+{Y} @   @@@@@@@@@   @
+{Y}  @@@@   @   @@@@     {R}Principality of Zeon
+{Y} @ @@@   @   @@@ @    {R}Laboratory #6A-BQ-5
+{Y}  @@  @  @  @  @@
+{Y}   @    @@@    @      {B}T O P     S E C R E T
+{Y}    @  @ @ @  @
+{Y}     @@@@@@@@@        {W}No admission without
+{Y}     ^---@---^        {W}proper security clearance!
+{Y}         @
+{Y}        @@@           {BLU}AUTOMATED SECURITY  
+{Y}         @            {BLU}SYSTEMS IN EFFECT!!
+~
+Z0
+C1
+S
+#47502
+{BLA,BO}A Very Mysterious Tunnel{bo,bla}~
+{BO,R}{BLINK} 
+              _      ______ _____ _______   _ _ _ 
+        /\   | |    |  ____|  __ \__   __| | | | |
+       /  \  | |    | |__  | |__) | | |    | | | |
+      / /\ \ | |    |  __| |  _  /  | |    | | | |
+     / ____ \| |____| |____| | \ \  | |    |_|_|_|
+    /_/    \_\______|______|_|  \_\ |_|    (_|_|_)  
+  
+~
+475 16794657 0
+D0
+~
+~
+0 -1 47501
+D2
+~
+~
+0 -1 47503
+Z0
+C1
+S
+#47503
+{BLA,BO}A Very Mysterious Tunnel{bo,bla}~
+{BO,R}{BLINK} 
+              _      ______ _____ _______   _ _ _ 
+        /\   | |    |  ____|  __ \__   __| | | | |
+       /  \  | |    | |__  | |__) | | |    | | | |
+      / /\ \ | |    |  __| |  _  /  | |    | | | |
+     / ____ \| |____| |____| | \ \  | |    |_|_|_|
+    /_/    \_\______|______|_|  \_\ |_|    (_|_|_)  
+  
+~
+475 16794657 0
+D0
+~
+~
+0 -1 47502
+D2
+~
+~
+0 -1 47504
+Z0
+C1
+S
+#47504
+{BLA,BO}A Very Mysterious Tunnel{bo,bla}~
+{BO,R}{BLINK} 
+              _      ______ _____ _______   _ _ _ 
+        /\   | |    |  ____|  __ \__   __| | | | |
+       /  \  | |    | |__  | |__) | | |    | | | |
+      / /\ \ | |    |  __| |  _  /  | |    | | | |
+     / ____ \| |____| |____| | \ \  | |    |_|_|_|
+    /_/    \_\______|______|_|  \_\ |_|    (_|_|_)  
+  
+~
+475 16794657 0
+D0
+~
+~
+0 -1 47503
+Z0
+C1
+S
+#47505
+{GRE,BO}A Grassy Plain{g}~
+{W}
+The sky is clear of clouds, nothing appears to be
+going wrong around here, just listen - the sound of
+a brook flowing calmly and serenly can be heard, along
+with the chirping of several species of birds, er, the
+screaching of birds, the flapping of wings..and an S2
+Jet Engine!?
+{w}
+~
+475 0 1
+D0
+~
+~
+0 -1 47508
+D1
+~
+~
+0 -1 47504
+D3
+~
+~
+0 -1 47506
+Z0
+C-1
+S
+#47506
+{GRE,BO}A Grassy Plain{g}~
+{W}
+The sky is clear of clouds, nothing appears to be
+going wrong around here, just listen - the sound of
+a brook flowing calmly and serenly can be heard, along
+with the chirping of several species of birds, er, the
+screaching of birds, the flapping of wings..and an S2
+Jet Engine!?
+{w}
+~
+475 0 1
+D0
+~
+~
+0 -1 47509
+D1
+~
+~
+0 -1 47505
+D2
+~
+~
+0 -1 47503
+D3
+~
+~
+0 -1 47504
+Z0
+C-1
+S
+#47507
+{GRE,BO}A Grassy Plain{g}~
+{W}
+The sky is clear of clouds, nothing appears to be
+going wrong around here, just listen - the sound of
+a brook flowing calmly and serenly can be heard, along
+with the chirping of several species of birds, er, the
+screaching of birds, the flapping of wings..and an S2
+Jet Engine!?
+{w}
+~
+475 0 1
+D0
+~
+~
+0 -1 47510
+D1
+~
+~
+0 -1 47509
+D2
+~
+~
+0 -1 47504
+D3
+~
+~
+0 -1 47508
+Z0
+C-1
+S
+#47508
+{GRE,BO}A Grassy Plain{g}~
+{W}
+The plain is full of grass, birds, and sparsely populated
+with trees.  Critters such as squirrels, wild hogs, oxen, 
+coyotes, and other wild life prance around in this sanctuary.
+    
+{RE,BO}*THUD THUD*{bo,W}
+     
+What could that stomping sound be?
+{w}
+~
+475 0 1
+D0
+~
+~
+0 -1 47511
+D1
+~
+~
+0 -1 47507
+D2
+~
+~
+0 -1 47505
+D3
+~
+~
+0 -1 47509
+Z0
+C-1
+S
+#47509
+{GRE,BO}A Grassy Plain{g}~
+{W}
+The plain is full of grass, birds, and sparsely populated
+with trees.  Critters such as squirrels, wild hogs, oxen, 
+coyotes, and other wild life prance around in this sanctuary.
+    
+{RE,BO}*THUD THUD*{bo,W}
+     
+What could that stomping sound be?
+{w}
+~
+475 0 1
+D0
+~
+~
+0 -1 47512
+D1
+~
+~
+0 -1 47508
+D2
+~
+~
+0 -1 47506
+D3
+~
+~
+0 -1 47507
+Z0
+C-1
+S
+#47510
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+D0
+~
+~
+0 -1 47513
+D1
+~
+~
+0 -1 47512
+D2
+~
+~
+0 -1 47507
+D3
+~
+~
+0 -1 47511
+Z0
+C-1
+S
+#47511
+{BO,G}A Grassy Plain{g}~
+{W}
+The sky is clear of clouds, nothing appears to be
+going wrong around here, just listen - the sound of
+a brook flowing calmly and serenly can be heard, along
+with the chirping of several species of birds, er, the
+screaching of birds, the flapping of wings..and an S2
+Jet Engine!?
+{w}
+~
+475 0 1
+D0
+~
+~
+0 -1 47514
+D1
+~
+~
+0 -1 47510
+D2
+~
+~
+0 -1 47508
+D3
+~
+~
+0 -1 47512
+Z0
+C-1
+S
+#47512
+{BO,G}A Grassy Plain{g}~
+{W}
+The sky is clear of clouds, nothing appears to be
+going wrong around here, just listen - the sound of
+a brook flowing calmly and serenly can be heard, along
+with the chirping of several species of birds, er, the
+screaching of birds, the flapping of wings..and an S2
+Jet Engine!?
+{w}
+~
+475 0 1
+D0
+~
+~
+0 -1 47515
+D1
+~
+~
+0 -1 47511
+D2
+~
+~
+0 -1 47509
+D3
+~
+~
+0 -1 47510
+Z0
+C-1
+S
+#47513
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+D0
+~
+~
+0 -1 47516
+D1
+~
+~
+0 -1 47515
+D2
+~
+~
+0 -1 47510
+D3
+~
+~
+0 -1 47514
+Z0
+C-1
+S
+#47514
+{BO,G}A Grassy Plain{g}~
+{W}
+The plain is full of grass, birds, and sparsely populated
+with trees.  Critters such as squirrels, wild hogs, oxen, 
+coyotes, and other wild life prance around in this sanctuary.
+    
+{RE,BO}*THUD THUD*{bo,W}
+     
+What could that stomping sound be?
+{w}
+~
+475 0 1
+D0
+~
+~
+0 -1 47517
+D1
+~
+~
+0 -1 47513
+D2
+~
+~
+0 -1 47511
+D3
+~
+~
+0 -1 47515
+Z0
+C-1
+S
+#47515
+{BO,G}A Grassy Plain{g}~
+{W}
+The plain is full of grass, birds, and sparsely populated
+with trees.  Critters such as squirrels, wild hogs, oxen, 
+coyotes, and other wild life prance around in this sanctuary.
+    
+{RE,BO}*THUD THUD*{bo,W}
+     
+What could that stomping sound be?
+{w}
+~
+475 0 1
+D0
+~
+~
+0 -1 47518
+D1
+~
+~
+0 -1 47514
+D2
+~
+~
+0 -1 47512
+D3
+~
+~
+0 -1 47513
+Z0
+C-1
+S
+#47516
+{BO,G}A Grassy Plain{g}~
+{W}
+The plain is full of grass, birds, and sparsely populated
+with trees.  Critters such as squirrels, wild hogs, oxen, 
+coyotes, and other wild life prance around in this sanctuary.
+{W}   
+{RE,BO}*THUD THUD*{bo,W}
+{W}
+What could that stomping sound be?
+{w}
+~
+475 0 1
+D1
+~
+~
+0 -1 47518
+D2
+~
+~
+0 -1 47513
+D3
+~
+~
+0 -1 47517
+Z0
+C-1
+S
+#47517
+{BO,G}A Grassy Plain{g}~
+{W}
+The sky is clear of clouds, nothing appears to be
+going wrong around here, just listen - the sound of
+a brook flowing calmly and serenly can be heard, along
+with the chirping of several species of birds, er, the
+screaching of birds, the flapping of wings..and an S2
+Jet Engine!?
+{w}
+~
+475 0 1
+D1
+~
+~
+0 -1 47516
+D2
+~
+~
+0 -1 47514
+D3
+~
+~
+0 -1 47518
+Z0
+C-1
+S
+#47518
+{BO,G}A Grassy Plain{g}~
+{W}
+The sky is clear of clouds, nothing appears to be
+going wrong around here, just listen - the sound of
+a brook flowing calmly and serenly can be heard, along
+with the chirping of several species of birds, er, the
+screaching of birds, the flapping of wings..and an S2
+Jet Engine!?
+{w}
+~
+475 0 1
+D1
+~
+~
+0 -1 47517
+D2
+~
+~
+0 -1 47515
+D3
+~
+~
+0 -1 47516
+Z0
+C-1
+S
+#47519
+{W}Within the {G,BO}Leo{bo,W} Mobile Suit{W}~
+{W}
+~
+475 33570948 1
+D0
+~
+~
+0 -1 47520
+Z0
+C-1
+S
+#47520
+{RE,BO}Charred Fields{re}~
+You are standing in nowhere !!!!
+~
+475 0 1
+D0
+~
+~
+0 -1 47521
+D2
+~
+~
+0 -1 47519
+Z0
+C-1
+S
+#47521
+{RE,BO}Charred Fields{re}~
+You are standing in nowhere !!!!
+~
+475 0 1
+D0
+~
+~
+0 -1 47522
+D2
+~
+~
+0 -1 47520
+Z0
+C-1
+S
+#47522
+{RE,BO}Charred Fields{re}~
+You are standing in nowhere !!!!
+~
+475 0 1
+D0
+~
+~
+0 -1 47523
+D2
+~
+~
+0 -1 47521
+Z0
+C-1
+S
+#47523
+{RE,BO}Charred Fields{re}~
+You are standing in nowhere !!!!
+~
+475 0 1
+D0
+~
+~
+0 -1 47524
+D2
+~
+~
+0 -1 47522
+Z0
+C-1
+S
+#47524
+{RE,BO}Charred Fields{re}~
+You are standing in nowhere !!!!
+~
+475 0 1
+D0
+~
+~
+0 -1 47525
+D2
+~
+~
+0 -1 47523
+Z0
+C-1
+S
+#47525
+{W}Before the {C}Base{c}~
+You are standing in nowhere !!!!
+~
+475 20 2
+D0
+~
+~
+0 -1 47526
+D2
+~
+~
+0 -1 47524
+Z0
+C-1
+S
+#47526
+{W}The {C}Bases{W} Defenses{w}~
+You are standing in nowhere !!!!
+~
+475 0 2
+D0
+~
+~
+0 -1 47528
+D1
+~
+~
+0 -1 47529
+D2
+~
+~
+0 -1 47525
+D3
+~
+~
+0 -1 47532
+Z0
+C-1
+S
+#47527
+{W}The {C}Bases{W} Defenses{w}~
+You are standing in nowhere !!!!
+~
+475 0 2
+D0
+~
+~
+0 -1 47530
+D1
+~
+~
+0 -1 47533
+D2
+~
+~
+0 -1 47525
+D3
+~
+~
+0 -1 47526
+Z0
+C-1
+S
+#47528
+{W}The {C}Bases{W} Defenses{w}~
+You are standing in nowhere !!!!
+~
+475 16 2
+D0
+~
+~
+0 -1 47533
+D1
+~
+~
+0 -1 47530
+D2
+~
+~
+0 -1 47533
+D3
+~
+~
+0 -1 47530
+Z0
+C-1
+S
+#47529
+{W}The {C}Bases{W} Defenses{w}~
+You are standing in nowhere !!!!
+~
+475 0 2
+D3
+~
+~
+0 -1 47526
+Z0
+C-1
+S
+#47530
+{W}The {C}Bases{W} Defenses{w}~
+You are standing in nowhere !!!!
+~
+475 0 2
+D0
+~
+~
+0 -1 47525
+D1
+~
+~
+0 -1 47525
+D2
+~
+~
+0 -1 47525
+D3
+~
+~
+0 -1 47525
+Z0
+C-1
+S
+#47531
+{W}Through the {C}Defense{c}~
+You are standing in nowhere !!!!
+~
+475 4 2
+D0
+~
+gate~
+2 47503 47538
+D1
+~
+~
+0 -1 47534
+D2
+~
+~
+0 -1 47530
+D3
+~
+~
+0 -1 47537
+Z0
+C-1
+S
+#47532
+{W}The {C}Bases{W} Defenses{w}~
+You are standing in nowhere !!!!
+~
+475 1048596 2
+D1
+~
+~
+0 -1 47525
+D3
+~
+~
+0 -1 47527
+Z0
+C-1
+S
+#47533
+{W}The {C}Bases{W} Defenses{w}~
+You are standing in nowhere !!!!
+~
+475 1048596 2
+D1
+~
+~
+0 -1 47530
+D3
+~
+~
+0 -1 47531
+Z0
+C-1
+S
+#47534
+{G}The Perimeter{g}~
+You are standing in nowhere !!!!
+~
+475 0 2
+D1
+~
+~
+0 -1 47535
+D3
+~
+~
+0 -1 47531
+Z0
+C-1
+S
+#47535
+{G}The Perimeter{g}~
+You are standing in nowhere !!!!
+~
+475 0 2
+D1
+~
+~
+0 -1 47536
+D3
+~
+~
+0 -1 47534
+Z0
+C-1
+S
+#47536
+{G}The Perimeter{g}~
+You are standing in nowhere !!!!
+~
+475 0 2
+D1
+~
+~
+0 -1 47537
+D3
+~
+~
+0 -1 47535
+Z0
+C-1
+S
+#47537
+{G}The Perimeter{g}~
+You are standing in nowhere !!!!
+~
+475 0 2
+D1
+~
+~
+0 -1 47531
+D3
+~
+~
+0 -1 47536
+Z0
+C-1
+S
+#47538
+{W}Main Hallway{w}~
+You are standing in nowhere !!!!
+~
+475 0 2
+D0
+~
+~
+0 -1 47539
+D2
+~
+gate~
+1 -1 47531
+Z0
+C-1
+S
+#47539
+{W}Main Hallway{w}~
+You are standing in nowhere !!!!
+~
+475 0 2
+D0
+~
+~
+0 -1 47540
+D2
+~
+~
+0 -1 47538
+Z0
+C-1
+S
+#47540
+{W}Main Hallway{w}~
+You are standing in nowhere !!!!
+~
+475 0 2
+D0
+~
+~
+0 -1 47541
+D1
+~
+~
+0 -1 47547
+D2
+~
+~
+0 -1 47539
+D3
+~
+~
+0 -1 47546
+Z0
+C-1
+S
+#47541
+{W}Main Hallway{w}~
+You are standing in nowhere !!!!
+~
+475 0 2
+D0
+~
+~
+0 -1 47542
+D2
+~
+~
+0 -1 47540
+D3
+~
+~
+0 -1 47553
+Z0
+C-1
+S
+#47542
+{W}Main Hallway{w}~
+You are standing in nowhere !!!!
+~
+475 0 2
+D0
+~
+~
+0 -1 47543
+D2
+~
+~
+0 -1 47541
+Z0
+C-1
+S
+#47543
+{W}Main Hallway{w}~
+You are standing in nowhere !!!!
+~
+475 0 2
+D0
+~
+~
+0 -1 47544
+D2
+~
+~
+0 -1 47542
+Z0
+C-1
+S
+#47544
+{W}Main Hallway{w}~
+You are standing in nowhere !!!!
+~
+475 0 2
+D0
+~
+~
+0 -1 47545
+D2
+~
+~
+0 -1 47543
+Z0
+C-1
+S
+#47545
+{W}Main Hallway{w}~
+You are standing in nowhere !!!!
+~
+475 0 2
+D2
+~
+~
+0 -1 47544
+Z0
+C-1
+S
+#47546
+Vice Minister Dorlian's Office~
+You are standing in nowhere !!!!
+~
+475 132 2
+D1
+~
+~
+0 -1 47540
+Z0
+C-1
+S
+#47547
+{W}Eastern Corridor{w}~
+You are standing in nowhere !!!!
+~
+475 0 2
+D0
+~
+~
+0 -1 47548
+D3
+~
+~
+0 -1 47540
+Z0
+C-1
+S
+#47548
+{W}Eastern Corridor{w}~
+You are standing in nowhere !!!!
+~
+475 0 2
+D0
+~
+~
+0 -1 47549
+D2
+~
+~
+0 -1 47547
+Z0
+C-1
+S
+#47549
+{W}Eastern Corridor{w}~
+You are standing in nowhere !!!!
+~
+475 0 2
+D0
+~
+~
+0 -1 47550
+D2
+~
+~
+0 -1 47548
+Z0
+C-1
+S
+#47550
+{W}Eastern Corridor{w}~
+You are standing in nowhere !!!!
+~
+475 0 2
+D0
+~
+~
+0 -1 47551
+D2
+~
+~
+0 -1 47549
+Z0
+C-1
+S
+#47551
+{W}Eastern Corridor{w}~
+You are standing in nowhere !!!!
+~
+475 0 2
+D0
+~
+~
+0 -1 47552
+D2
+~
+~
+0 -1 47550
+Z0
+C-1
+S
+#47552
+{W}Eastern Corridor{w}~
+You are standing in nowhere !!!!
+~
+475 0 2
+D2
+~
+~
+0 -1 47551
+Z0
+C-1
+S
+#47553
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+D0
+~
+~
+0 -1 47554
+D1
+~
+~
+0 -1 47541
+Z0
+C-1
+S
+#47554
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+D0
+~
+~
+0 -1 47555
+D2
+~
+~
+0 -1 47553
+Z0
+C-1
+S
+#47555
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+D0
+~
+~
+0 -1 47556
+D2
+~
+~
+0 -1 47554
+Z0
+C-1
+S
+#47556
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+D0
+~
+~
+0 -1 47557
+D2
+~
+~
+0 -1 47555
+Z0
+C-1
+S
+#47557
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+D2
+~
+~
+0 -1 47556
+Z0
+C-1
+S
+#47558
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47559
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47560
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47561
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47562
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47563
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47564
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47565
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47566
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47567
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47568
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47569
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47570
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47571
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47572
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47573
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47574
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47575
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47576
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47577
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47578
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47579
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47580
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47581
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47582
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47583
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47584
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47585
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47586
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47587
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47588
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47589
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47590
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47591
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47592
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47593
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47594
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47595
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47596
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47597
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 0 1
+Z0
+C-1
+S
+#47598
+{BO,G}A Grassy Plain{g}~
+You are standing in nowhere !!!!
+~
+475 262144 1
+Z0
+C-1
+S
+#47599
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+475 262144 1
+Z0
+C-1
+S
+$~

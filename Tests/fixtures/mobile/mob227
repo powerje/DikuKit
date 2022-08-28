@@ -1,0 +1,145 @@
+#22701
+prisoner slave~
+slave~
+{CY}A slave is thrown on the ground in front of you{cy}
+~
+
+  An old man has been thrown at your feet. Badly beaten and 
+  does not pose any real threat. This man looks like everything 
+  has been taken from him and he is begging you to kill him.
+
+~
+66 1073741824 0 S
+5 20 10 0d0+40 0d0+2
+0 200
+8 8 0
+R 64
+D 20
+A 12
+#22702
+thief slave~
+Thief~
+{BO,CY}A thief sentenced to death stands before you{bo,cy}
+~
+
+  A thief sentenced to die has been thrown in front of you.
+  Both his hands have been broken and he also poses no 
+  threat to you. If this is the best they can do this will 
+  be a cake walk.
+
+~
+192 17039528 0 C 4
+11 10 5 0d0+62 0d0+4
+100000 40000
+8 8 1
+R 64
+D 20
+A 12
+#22703
+murderer slave murder~
+Murderer~
+{CY}A man condemned to die for murder stands before you.{cy}
+~
+
+  A murderer sentenced to die has been thrown in front of you.
+  He has been beaten but is still able to stand and fight. He 
+  poses very little threat as he has no training and can 
+  barely stand.
+
+~
+68 0 350 S
+25 1 7 2d3+320 3d7+3
+10000 35650
+8 8 0
+R 64
+D 20
+A 12
+#22704
+deserter slave~
+{BOLD,RED}A Bat{bold,red}~
+{CY}A man who deserted military training stands ready to fight you to the death{cy}
+~
+
+  Here is a man who deserted while he was early in training. 
+  He has very little training but he is ready to fight for
+  his life. Kill him to make it to the next level.
+
+~
+66 1157636668 0 S
+25 -25 3 28d28+28 5d6+10
+5000 155000
+8 8 0
+R 64
+D 20
+A 12
+#22705
+soldier~
+Soldier~
+{CY}A Soldier is coming at you to kill you{cy}
+~
+
+  A very young soldier who looks like he is not even 
+  out of training charges at you to take you out. 
+
+~
+134217794 1745093176 500 S
+42 -25 -1 1d1+1450 9d9+5
+50000 1200000
+8 8 2
+R 64
+D 20
+A 12
+#22706
+Lion~
+{BOLD,YELLOW}A Fierce Lion{bold,yellow}~
+{BOLD,YELLOW}A male lion paces around you, saliva dripping from its mouth.{bold,yellow}
+~
+{WHITE}
+   The immense beast stalks you from the other side of the room. As
+   he approaches you can feel his hot, rancid breath on your flesh. 
+{white}
+~
+98 1141121596 0 S
+26 -25 -1 1d1+1800 5d10+15
+50000 155000
+8 8 0
+R 64
+D 20
+A 12
+#22707
+slave greek~
+Greek Slave~
+{CY}A Greek Slave comes at you trying to earn his freedom{cy}
+~
+
+  A Greek slave attempting to earn his freedom comes after
+  you. The Greeks are powerful warriors with there Phalanx
+  But there is no spear wall here to protect him.
+
+~
+524352 1074561064 200 S
+42 -30 0 10d10+4500 7d7+20
+4000 1000
+8 8 1
+R 64
+D 20
+A 12
+#22708
+boar wild animal~
+Wild Boar~
+{CY}A very large Wild Boar charges at you.{cy}
+~
+
+  Wild boar (Sus scrofa), also known as wild pig, his body is 
+  compact, the head is large, the legs relatively short. This 
+  large pig has been known to maul to death tigers. He is 
+  charging at you.
+
+~
+134217795 2105916 0 S
+40 -25 -1 1d1+4399 1d8+56
+50000 3000000
+8 8 1
+D 20
+A 12
+$~

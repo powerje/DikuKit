@@ -1,0 +1,214 @@
+#208
+ Alcatraz(Mute)~
+20899 500 1
+*
+X 9212
+M 0 10910    13 20801    an assistant guard
+M 0 10910    13 20801    an assistant guard
+M 0 10910    13 20801    an assistant guard
+M 0 20811    17 20801    the Alcatraz Guard
+D 0 20801     0     2    (N:LOCKED) Gates to Alcatraz
+D 0 20801     2     0    (S:OPEN) Gates to Alcatraz
+D 0 20802     2     0    (S:OPEN) Between two guard towers
+M 0 20811    17 20805    the Alcatraz Guard
+E 1 10910     7    17    (HELD) A sleek black {BLACK}rifle{black}
+G 1 10911    23     0    A clip of rifle ammunition
+G 1 10911    23     0    A clip of rifle ammunition
+G 1 10911    23     0    A clip of rifle ammunition
+G 1 10911    23     0    A clip of rifle ammunition
+G 1 10911    23     0    A clip of rifle ammunition
+M 0 10910    13 20805    an assistant guard
+E 1 10910     7    17    (HELD) A sleek black {BLACK}rifle{black}
+G 1 10911    23     0    A clip of rifle ammunition
+G 1 10911    23     0    A clip of rifle ammunition
+G 1 10911    23     0    A clip of rifle ammunition
+M 0 10910    13 20805    an assistant guard
+E 1 10910     7    17    (HELD) A sleek black {BLACK}rifle{black}
+G 1 10911    23     0    A clip of rifle ammunition
+G 1 10911    23     0    A clip of rifle ammunition
+G 1 10911    23     0    A clip of rifle ammunition
+M 0 20811    17 20807    the Alcatraz Guard
+E 1 10910     7    17    (HELD) A sleek black {BLACK}rifle{black}
+G 1 10911    23     0    A clip of rifle ammunition
+G 1 10911    23     0    A clip of rifle ammunition
+G 1 10911    23     0    A clip of rifle ammunition
+G 1 10911    23     0    A clip of rifle ammunition
+G 1 10911    23     0    A clip of rifle ammunition
+M 0 10910    13 20807    an assistant guard
+E 1 10910     7    17    (HELD) A sleek black {BLACK}rifle{black}
+G 1 10911    23     0    A clip of rifle ammunition
+G 1 10911    23     0    A clip of rifle ammunition
+G 1 10911    23     0    A clip of rifle ammunition
+M 0 10910    13 20807    an assistant guard
+E 1 10910     7    17    (HELD) A sleek black {BLACK}rifle{black}
+G 1 10911    23     0    A clip of rifle ammunition
+G 1 10911    23     0    A clip of rifle ammunition
+G 1 10911    23     0    A clip of rifle ammunition
+M 0 20811    17 20809    the Alcatraz Guard
+G 1 10901     1     0    the key to the Warden's office
+M 0 20811    17 20809    the Alcatraz Guard
+D 0 20809     3     2    (W:LOCKED) Hallway
+M 0 20812     1 20810    The prison warden
+G 1 10902     1     0    the key to the Wardon's safe
+D 0 20810     0     2    (N:LOCKED) Wardon's office
+D 0 20810     1     1    (E:CLOSED) Wardon's office
+O 0 10905     1 20812    Pman's rules to survival
+O 0 10904     1 20812    the key to freedom
+O 0 10903     2 20812    a key ring
+D 0 20812     2     1    (S:CLOSED) Safe
+D 0 20813     0     2    (N:LOCKED) Intersection
+D 0 20813     1     0    (E:OPEN) Intersection
+D 0 20813     3     0    (W:OPEN) Intersection
+D 0 20813     5     2    (D:LOCKED) Intersection
+D 0 20814     2     1    (S:CLOSED) Population
+M 0 20811    17 20823    the Alcatraz Guard
+D 0 20823     0     2    (N:LOCKED) Guard station
+D 0 20823     1     0    (E:OPEN) Guard station
+D 0 20823     5     2    (D:LOCKED) Guard station
+M 0 20811    17 20824    the Alcatraz Guard
+D 0 20824     0     2    (N:LOCKED) Guard Station
+D 0 20824     3     0    (W:OPEN) Guard Station
+D 0 20825     2     0    (S:OPEN) Staircase
+D 0 20826     2     1    (S:CLOSED) Staircase
+D 0 20829     3     0    (W:OPEN) walkway
+M 0 20813    26 20830    One of lifes mistakes
+G 1 20812    41     0    A vial of holy water
+G 1 20812    41     0    A vial of holy water
+M 0 20813    26 20830    One of lifes mistakes
+D 0 20830     1     0    (E:OPEN) Cell
+D 0 20831     3     0    (W:OPEN) walkway
+M 0 20813    26 20832    One of lifes mistakes
+G 1 20812    41     0    A vial of holy water
+G 1 20812    41     0    A vial of holy water
+M 0 20813    26 20832    One of lifes mistakes
+D 0 20832     1     0    (E:OPEN) Cell
+M 0 20811    17 20833    the Alcatraz Guard
+D 0 20833     3     0    (W:OPEN) Staircase
+D 0 20833     4     2    (U:LOCKED) Staircase
+M 0 20813    26 20834    One of lifes mistakes
+G 1 20812    41     0    A vial of holy water
+G 1 20812    41     0    A vial of holy water
+M 0 20813    26 20834    One of lifes mistakes
+D 0 20834     1     0    (E:OPEN) Cell
+D 0 20835     0     0    (N:OPEN) Walkway
+M 0 20813    26 20836    One of lifes mistakes
+G 1 20812    41     0    A vial of holy water
+G 1 20812    41     0    A vial of holy water
+M 0 20813    26 20836    One of lifes mistakes
+D 0 20836     2     0    (S:OPEN) Cell
+D 0 20837     0     0    (N:OPEN) Walkway
+M 0 20813    26 20838    One of lifes mistakes
+G 1 20812    41     0    A vial of holy water
+G 1 20812    41     0    A vial of holy water
+M 0 20813    26 20838    One of lifes mistakes
+D 0 20838     2     0    (S:OPEN) Cell
+D 0 20839     0     0    (N:OPEN) Walkway
+D 0 20840     0     0    (N:OPEN) Walkway
+M 0 20813    26 20841    One of lifes mistakes
+G 1 20812    41     0    A vial of holy water
+G 1 20812    41     0    A vial of holy water
+M 0 20813    26 20841    One of lifes mistakes
+D 0 20841     2     0    (S:OPEN) Cell
+M 0 20813    26 20843    One of lifes mistakes
+G 1 20812    41     0    A vial of holy water
+M 0 20813    26 20843    One of lifes mistakes
+M 0 20813    26 20844    One of lifes mistakes
+G 1 20812    41     0    A vial of holy water
+G 1 20812    41     0    A vial of holy water
+M 0 20813    26 20844    One of lifes mistakes
+D 0 20844     2     0    (S:OPEN) Cell
+M 0 20811    17 20845    the Alcatraz Guard
+D 0 20845     4     2    (U:LOCKED) Staircase
+M 0 20813    26 20846    One of lifes mistakes
+G 1 20812    41     0    A vial of holy water
+G 1 20812    41     0    A vial of holy water
+M 0 20813    26 20848    One of lifes mistakes
+G 1 20812    41     0    A vial of holy water
+G 1 20812    41     0    A vial of holy water
+M 0 20813    26 20850    One of lifes mistakes
+G 1 20812    41     0    A vial of holy water
+G 1 20812    41     0    A vial of holy water
+D 0 20853     5     0    (D:OPEN) Third floor walkway
+D 0 20854     5     1    (D:CLOSED) Death row
+M 0 20811    17 20858    the Alcatraz Guard
+M 0 10910    13 20858    an assistant guard
+M 0 10910    13 20858    an assistant guard
+D 0 20858     3     2    (W:LOCKED) Guard room
+M 0 20809     1 20859    {BLA,BO}Dr. Kevorkian{bla,bo}
+E 1 20810     1     0    (LIGHT) ECT PROBE
+D 0 20859     1     1    (E:CLOSED) Doctor's office
+M 0 20811    17 20863    the Alcatraz Guard
+D 0 20863     1     2    (E:LOCKED) Halls of the Insane
+M 0 20801     1 20864    Lizzy Borden
+E 1 20801     1    17    (HELD) {RED,BO}Bloody {BLA}Hatchet{bla,bo}
+D 0 20864     3     1    (W:CLOSED) Padded cell
+D 0 20867     1     2    (E:LOCKED) Halls of the Insane
+M 0 20800     1 20868    Charles Manson
+E 1 20802     1     2    (FINGER) A {RED}Diabolical{red} {CYAN}ring{cyan} of {WHITE,BO}Immorality{white,bo}
+M 0 10901     1 20868    Susan Atkinson
+M 0 10902     1 20868    Leslie Van Houtan
+M 0 10903     1 20868    Patricia Kremwinkle
+D 0 20868     3     2    (W:LOCKED) Manson's Cell
+M 0 20811    17 20872    the Alcatraz Guard
+M 0 10910    13 20872    an assistant guard
+M 0 10910    13 20872    an assistant guard
+D 0 20872     1     2    (E:LOCKED) Death Row
+M 0 20814     1 20873    the priest
+G 1 20812    41     0    A vial of holy water
+G 1 20812    41     0    A vial of holy water
+G 1 20812    41     0    A vial of holy water
+G 1 20812    41     0    A vial of holy water
+G 1 20812    41     0    A vial of holy water
+G 1 20812    41     0    A vial of holy water
+G 1 20812    41     0    A vial of holy water
+G 1 20812    41     0    A vial of holy water
+G 1 20812    41     0    A vial of holy water
+G 1 20812    41     0    A vial of holy water
+G 1 20812    41     0    A vial of holy water
+G 1 20812    41     0    A vial of holy water
+G 1 20812    41     0    A vial of holy water
+G 1 20812    41     0    A vial of holy water
+G 1 20812    41     0    A vial of holy water
+G 1 20812    41     0    A vial of holy water
+G 1 20812    41     0    A vial of holy water
+G 1 20812    41     0    A vial of holy water
+G 1 20812    41     0    A vial of holy water
+G 1 20812    41     0    A vial of holy water
+D 0 20873     3     1    (W:CLOSED) Last rights.
+D 0 20877     3     1    (W:CLOSED) Quiet hallway
+M 0 20813    26 20878    One of lifes mistakes
+D 0 20878     1     1    (E:CLOSED) Cell
+M 0 20811    17 20880    the Alcatraz Guard
+M 0 20811    17 20880    the Alcatraz Guard
+D 0 20881     3     2    (W:LOCKED) Death row
+M 0 20808     1 20882    The Boston {RED,BO}Strangler{red,bo}
+E 1 20808     1     9    (HANDS) {RED,BO}Blood{red} stained {BLACK,BO}black{bla} {YEL}leather{yel} gloves
+D 0 20882     1     0    (E:OPEN) Holding cell
+D 0 20883     4     1    (U:CLOSED) Spiral Staircase
+D 0 20884     1     2    (E:LOCKED) Spiral Stairway
+D 0 20884     5     2    (D:LOCKED) Spiral Stairway
+D 0 20885     4     1    (U:CLOSED) Spiral Stairway
+D 0 20890     2     2    (S:LOCKED) Infront of a door
+M 0 20811    17 20891    the Alcatraz Guard
+M 0 10910    13 20891    an assistant guard
+M 0 10910    13 20891    an assistant guard
+D 0 20891     0     1    (N:CLOSED) Guard room
+D 0 20892     2     1    (S:CLOSED) Infront of a cell
+M 0 20813    26 20893    One of lifes mistakes
+M 0 20813    26 20893    One of lifes mistakes
+D 0 20893     0     1    (N:CLOSED) Dirty cell
+D 0 20894     2     1    (S:CLOSED) Infront of a cell
+M 0 20813    26 20895    One of lifes mistakes
+M 0 20813    26 20895    One of lifes mistakes
+D 0 20895     0     1    (N:CLOSED) Dirty cell
+D 0 20896     2     1    (S:CLOSED) Infront of a cell
+M 0 20813    26 20897    One of lifes mistakes
+M 0 20813    26 20897    One of lifes mistakes
+D 0 20897     0     1    (N:CLOSED) Dirty cell
+M 0 20811    17 20898    the Alcatraz Guard
+M 0 20811    17 20898    the Alcatraz Guard
+D 0 20898     2     2    (S:LOCKED) End of the hallway
+M 0 20802     1 20899    Dr. Hannible Lector
+E 1 20800     1     6    (HEAD) {RED,BO}Flesh Mask{red,bo}
+D 0 20899     0     2    (N:LOCKED) Hannibal Lector's cell
+$~

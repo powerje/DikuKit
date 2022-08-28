@@ -1,0 +1,870 @@
+#2900
+crocodile croc~
+{G}{BOLD}The crocodile{g}{bold}~
+{G}{BOLD}A large Crocodile{g}{bold}{G} lies here, awaiting its next meal.{g}
+~
+
+
+  {G}{BOLD}Gnawing on the carcass of a fish, a much larger than average
+  crocodile appears to be concealed by the muddy water.  As you
+  take a few steps forward, the head of the beast turns toward
+  your flesh and bones as he sizes up his next meal. {g}{bold}
+
+
+~
+427819043 3256124328 -400 C 3
+50 -230 -6 0d0+2000 20d20+50
+1000 11000
+8 8 1
+S 783
+D 20
+A 11
+#2901
+crocodile giant~
+{GR}{BOL}The Giant Crocodile{gr}{bold}~
+{CY}A{G}{BOLD} Giant Crocodile{g}{bold}{CY} lies here, {R}{BOLD}blood{r}{bold}{CY} dripping from its powerful teeth.{cy}
+~
+{GREEN}{BOLD}
+  The huge reptilian creature seems to be staring at you,
+  drooling as you enter his sacred lair.  In a fraction of a
+  second, his massive tail strikes you in the face and combat
+  ensues...
+
+~
+1266720807 3223094184 500 C 4
+55 -100 -12 0d0+30000 40d15+27
+500000 40000000
+8 8 1
+S 67897936
+R 284
+D 20
+A 12
+#2902
+aucan canoe artisan art~
+{Y}The {Y}{BOLD}Aucan{BLU}{BOLD} Canoe{W}{BOLD} A{BLU}{BOLD}r{W}{BOLD}t{BLU}{BOLD}i{W}{BOLD}s{BLU}{BOLD}a{W}{BOLD}n{w}~
+{Y}The {Y}{BOLD}Aucan{BLU}{BOLD} Canoe{W}{BOLD} A{BLU}{BOLD}r{W}{BOLD}t{BLU}{BOLD}i{W}{BOLD}s{BLU}{BOLD}a{W}{BOLD}n{w} is sitting here, working on a {Y}canoe{y}.
+~
+
+
+{YE}   He is an old fellow with rough, strong hands.  He has been working
+   on the {Y}{BO}Aucan{y}{bo}{Y} canoes since he was old enough to walk.  He
+   is a nice guy to do business with.{y}
+
+
+~
+1241513990 1074037408 1000 C 43
+60 -155 -10 600d100+500 39d13+24
+1000000 130000
+8 8 1
+S 524672
+R 12
+D 20
+A 11
+#2903
+aucan villager~
+{Y}An {Y}{BOLD}Aucan{G} Villager{g}~
+{Y}An{Y}{BOLD} Aucan{y}{bold}{G}{BOLD} Villager{g}{bold}{Y} is standing here, conducting it's daily business.{y}
+~
+
+
+{Y}   Dressed in buckskin acquired from the latest deer hunt, this 
+   humble-looking villager hurries by you.  The {Y}{BOLD}Aucan{y}{bold}{Y} warriors provide
+   the skin to create shirts, leggings, and moccasins for the tribe.{y} 
+
+
+~
+1073742069 1074012984 700 C 3
+25 -25 -1 0d0+1200 6d6+10
+250000 3000
+8 8 2
+S 512
+R 15
+D 20
+A 12
+#2904
+aucan child~
+An{Y}{BOLD} Aucan{y}{bold}{BLU}{BOLD} Child{blu}{bold}~
+An {Y}{BO}Aucan{y} {BLU}{BO}Child{blu} runs about here, breaking anything he touches.
+~
+
+
+{Y}  The child before you is a happy one, not a care in the world.  Curiously
+  the naked child searches for new and amusing things to play with and
+  hopefully not destroy.  Placing your items in the hands of these innocent
+  children will surely cause harm upon them.{y}
+
+
+~
+2097348 1074004480 1000 S
+8 -30 5 0d0+1000 0d0+80
+100 1000
+8 8 1
+D 20
+A 12
+#2905
+aucan mother~
+{Y}The{Y}{BOLD} Aucan{y}{bold}{Y} Mother{y}~
+{Y}An{Y}{BOLD} Aucan{y}{bold}{Y} Mother{y} sits here nursing her children.
+~
+
+
+ {Y} Wearing a simple skirt made from {G}{BOLD}leaves{g}{bold}{Y}, the {Y}{BOLD}Aucan{y}{bold}{Y} mother takes
+  great care in watching over the infants of the village.  She spends
+  a large amount of her time gathering {Y}{BOLD}nuts{y}{bold}{Y} and {R}{BOLD}berries{r}{bold}{Y} from the 
+  nearby bushes.  She ignores your presence, hoping you will not
+  cause any harm upon her, or the children.{y}  
+
+
+~
+268468227 1074012824 1000 C 1
+35 -40 -3 0d0+2800 10d20+50
+150000 14500
+6 6 2
+D 20
+A 12
+#2906
+aucan guard~
+An{Y}{BOLD} Aucan{y}{bold} Village{RED}{BOLD} Guard{red}{bold}~
+An {Y}{BO}Aucan{y} Village {R}{BO}Guard{r} stands here, guarding his village from other tribes.
+~
+
+
+  {Y}Being an Aucan warrior is an all day role. A warrior is a warrior
+  whether he is out on a raid, defending his camp or even staying
+  in camp and providing for his family. He is a man who could stop
+  an enemy cold with his war whoop, but could also soothe a hurt
+  child with that same voice. He is a man who can use his hands
+  to destroy an enemy or provide sustenance for his family.{y}
+
+
+~
+1233125475 1109402044 0 C 4
+50 -160 -6 6000d1+0 10d15+50
+50000 17000
+8 8 1
+S 11
+R 72
+D 20
+A 12
+#2907
+aucan guard~
+The{YE}{BOLD} Aucan{ye}{bold} Village{RED}{BOLD} Guard{red}{bold}~
+An {Y}{BO}Aucan{y} Village {R}{BO}Guard{r} stands here, looking after the {GR}{BO}Villagers{gr}.
+~
+
+
+  {Y}Being an Aucan warrior is an all day role. A warrior is a warrior
+  whether he is out on a raid, defending his camp or even staying
+  in camp and providing for his family. He is a man who could stop
+  an enemy cold with his war whoop, but could also soothe a hurt
+  child with that same voice. He is a man who can use his hands
+  to destroy an enemy or provide sustenance for his family.{y}
+
+
+~
+1233125410 1109427112 0 S
+50 -50 -7 0d0+5000 0d0+150
+50000 17000
+8 8 1
+S 523
+R 76
+D 20
+A 12
+#2908
+aucan medicine man~
+{CY}An{cy}{bol} {Y}{BO}Aucan{y}{bo}{R}{BOL} M{W}{BO}e{R}{BOL}d{W}{BOL}i{R}{BOL}c{W}{BOL}i{R}{BOL}n{WH}{BOLD}e{wh}{bol}{CY}{BOLD} Man{cy}{bold}{CY}{cy}~
+{CY}An{cy}{bol} {Y}{BO}Aucan{y}{bo}{R}{BOL} M{W}{BO}e{R}{BOL}d{W}{BOL}i{R}{BOL}c{W}{BOL}i{R}{BOL}n{WH}{BOLD}e{wh}{bol}{CY}{BOLD} Man{cy}{bold}{CY} stands here, waiting to serve you.{cy}
+~
+
+
+{Y}   He is an old, wise man.  He is very experienced in the ways of {Y}{BOL}Aucan{y}{bol}{Y}
+   magic, and can kill anyone who attempts to fight him.{y}
+
+
+~
+1073774595 1644429992 1000 S
+1 -50 -10 200d300+500 20d20+40
+100000 600000
+8 8 1
+S 1073742400
+R 22
+D 20
+A 12
+#2909
+giant sloth~
+A Giant Sloth~
+A Giant Sloth hanging from a tree barely notices your presence..
+~
+
+
+  {G}{BOLD}The sloth is a tree-dwelling mammal related to the armadillo and 
+  anteater. Their body is usually from 60-70 cm (24-27 inches) long and
+  generally weigh about 10 pounds.  However, in this case, it is a _giant_
+  sloth, so its about 3x the normal height and weight!!  The size is
+  deceptive due to the thick fur which is rough and greenish due to a thin
+  coating of algae which grows during wet seasons. The fur provides
+  camouflage among the leaves and provides some buoyancy when the animal
+  is in the water. Sloths are excellent swimmers and can stay underwater 
+  for quite some time if threatened.{g}{bold}
+
+
+~
+729808935 1108607656 0 C 4
+60 -100 -6 0d0+25000 0d0+297
+100000 12500
+8 8 0
+S 68453256
+R 8389132
+D 20
+A 12
+#2910
+master aucan warrior~
+{Y}The {R}{BOLD}M{BL}a{R}{BOLD}s{BL}t{R}{BOLD}e{BL}r{Y}{BOLD} Aucan{Y}{bold} {Y}Warrior{y}~
+{Y}The {R}{BOLD}M{BL}a{R}{BOLD}s{BL}t{R}{BOLD}e{BL}r{Y}{BOLD} Aucan{Y}{bold} {Y}Warrior{y} stands here, awaiting his next student.
+~
+
+
+{Y}   He is a large, weathered man who has taught all the{y}{Y}{BOLD} Aucan{y}{bold}{Y} warrriors
+   how to fight.  He has killed over one-hundred men of other warring tribes.{y}
+
+
+~
+1300283431 1108640680 250 C 64
+57 -155 -10 0d0+44444 40d25+3
+5000 32000
+8 8 1
+S 3973779407
+R 7199
+D 20
+A 12
+#2911
+young aucan warrior~
+A{Y} young{y}{Y}{BOLD} Aucan{y}{bold} {Y}Warrior{y}~
+A{Y} young{y}{Y}{BOLD} Aucan{y}{bold} {Y}Warrior{y} stands here, practicing his fighting skills.
+~
+
+
+{Y}   He is a young fellow of a medium build.  Although he is weak compared to
+   the other {y}{Y}{BOLD}Aucan{y}{bold}{Y} warriors, his fighting ability is surprisingly keen.{y}
+
+
+~
+277348514 1074004512 0 S
+27 -40 2 0d0+1500 10d10+100
+100000 13000
+8 8 1
+S 512
+R 12
+D 20
+A 12
+#2912
+aucan warrior~
+{Y}An {Y,BO}Aucan{y,bold}{Y} Warrior{y}~
+An {Y}{BO}Aucan Warrior{y} stands here, wondering what you are up to.
+~
+
+
+   {Y}Standing before you is a true Aucan man.  He stands tall and proud 
+   and is willing to die for his people at any given moment. Definitely 
+   someone you do {R}NOT{r}{Y} want to mess with.{y}
+
+
+~
+411041826 1074561576 0 S
+51 -35 -7 9d9+5000 20d16+50
+7000 25000
+8 8 1
+D 20
+A 12
+#2913
+aucan elder~
+{M}{BOLD}An Aucan Elder{m}~
+{M}{BOLD}An Aucan Elder sits here in deep meditation.{m}
+~
+
+
+{W}  A very old and wrinkled Aucan leader sits here.  He appears to be puffing
+  on some type of peace-pipe and relaxing.  {w}
+
+
+~
+755007491 1745093544 0 C 12
+55 -176 -7 0d0+30000 20d10+100
+7000 25000
+8 8 1
+S 4194752
+D 20
+A 12
+#2914
+aucan medicine man~
+{CY}An{cy}{bol} {Y}{BO}Aucan{y}{bo}{R}{BOL} M{W}{BO}e{R}{BOL}d{W}{BOL}i{R}{BOL}c{W}{BOL}i{R}{BOL}n{WH}{BOLD}e{wh}{bol}{CY}{BOLD} Man{cy}{bold}{CY}{cy}~
+{CY}An{cy}{bol} {Y}{BO}Aucan{y}{bo}{R}{BOL} M{W}{BO}e{R}{BOL}d{W}{BOL}i{R}{BOL}c{W}{BOL}i{R}{BOL}n{WH}{BOLD}e{wh}{bol}{CY}{BOLD} Man{cy}{bold}{CY} stands here, waiting to serve you.{cy}
+~
+
+
+ {Y} Old and feeble, this fellow was once a great magician for the {Y}{BOLD}Aucan{y}{bold}{Y}
+  army.  He now lives his life in reclusion, studying old books and 
+  pamphlets.{y}  
+
+
+~
+1073774595 1644429992 1000 C 84
+55 -50 -10 0d0+22500 20d20+40
+100000 600000
+8 8 1
+S 4194752
+D 20
+A 12
+#2915
+aucan baker~
+{Y,BOLD}The Aucan Baker{y,bold}~
+{Y,BOLD}The Aucan Baker{y,bold} stands here, sifting flour.
+~
+
+
+{Y}   She is a portly{Y,BOLD} Aucan{y,bold}{Y} who bakes the finest of{Y,BOLD} Aucan{y,bold}{Y} breads.  She
+   is very proud of her work, and sells it to all the weary adventurers who
+   cross her path.{y}
+
+
+~
+18 40 1000 S
+50 -5 0 0d0+30000 24d26+4
+7000 130000
+8 8 2
+R 140
+D 20
+A 12
+#2916
+aucan craftsman craft~
+The{Y}{BOLD} Aucan{y}{bold}{G}{BOLD} Crafstmen{g}{bold}~
+The {Y}{BO}Aucan{y} {GR}{BO}Craftsman{gr} is standing here, waiting to serve you.
+~
+
+
+{Y}   The man before you comes from a long line of{Y}{BOLD} Aucan{y}{bold}{Y}{GR}{BOLD} Crafstmen{g}{bold}{Y}.  His 
+   father before him sold to adventurers in this land, and he continues his
+   father's trade.
+
+
+~
+18 262184 1000 S
+50 0 0 0d0+30000 24d26+4
+70000 130000
+8 8 1
+R 128
+D 20
+A 12
+#2917
+royal guard~
+{R}{BOLD}A Royal{R} Guard{bold}~
+{R}{BOLD}A{BLU} Royal{R} Guard{bold} stands here, keeping a close eye out for intruders.
+~
+
+
+  {Y}When the Aucan Chieftain took the throne nearly 400 years ago, he saw,
+  rightfully, the need to create a body of loyal soldiers to act as 
+  his bodyguards and even extensions of his will. Thus, the Chieftain's
+  Royal Guard was born. These elite troops were trained in the harsh
+  city of Yichorr where they were taught the art of fighting known as
+  Echani, and became masters with countless weapons. {y}
+
+
+~
+2709544997 1375765416 -1000 C 43
+50 -105 -7 80d200+50 20d20+50
+100000 18000
+8 8 1
+S 71435008
+R 4
+D 20
+A 12
+#2918
+tribal diplomat~
+{BLUE}{BOLD}A Tribal Diplomat{blu}~
+A {BLU}{BO}Tribal Diplomat{blu} sits here, waiting to talk with the {Y}{BO}Aucan{y} Chieftain.
+~
+He is a slick-looking fellow, probably use to be a used hut salesman.
+~
+352452660 1075315208 -1000 S
+50 -40 -1 0d0+12500 0d0+200
+1000000 14000
+6 6 1
+S 75759616
+R 16
+D 20
+A 12
+#2919
+aucan chieftain~
+{Y}The Aucan Chieftain{y}~
+{Y}The powerful {y}{Y}{BOLD}Aucan Chieftain{y}{bold}{Y} stands here, wondering why you have disturbed him.{y}
+~
+
+
+  {Y}Standing before you is a hefty figure dressed in fine cloth and 
+  silk. Heavy animal pelts are placed around his massive neck.  He
+  stands at least seven feet tall and must weigh somehwere around 400 
+  pounds. He cracks his knuckles, flashes you a slight grin and 
+  proceeds to walk toward you.{y}
+
+
+~
+1333821479 1712587434 800 C 62
+55 -230 -15 200d300+1000 30d30+10
+3000000 82000
+8 8 1
+S 2353006528
+R 8388611
+D 20
+A 12
+#2920
+belly dancer~
+{RED}{BOLD}A Belly Dancer{red}~
+{M}{BOLD}A B{C}e{c}{M}{BOLD}lly Danc{C}e{c}{M}{BOLD}r{m}{bold} jiggles her bum around the room in a vain attempt to seduce you.
+~
+
+
+{Y}  She is a very sleek and beautiful Aucan woman.  Her gaze is the 
+  definition of seduction.{y}
+
+
+~
+786514 1074004480 -800 S
+10 -20 2 0d0+1000 0d0+70
+1000 9000
+8 8 2
+D 20
+A 12
+#2921
+aucan battlemaster battle master~
+{W}The{Y}{BOLD} Aucan{R} Battlemaster{r}~
+{W}The{Y}{BOLD} Aucan{R} Battlemaster{r} {G}stands here, awaiting your next move.{g}
+~
+
+
+  {Y}He is a strong fellow, schooled in the ways of weapons and armor.{y}
+
+
+~
+402702339 1074037390 1000 C 4
+55 -5 -10 0d0+30000 25d25+100
+1 800000
+8 8 1
+S 786560
+R 28
+D 20
+A 12
+#2922
+child ghost~
+{Y}The{Y}{BOLD} Aucan{y}{bold}{Y} Child's{W}{BOLD} Ghost{w}~
+{G}The{W}{BOLD} Ghost{w}{bold}{G} of an{Y}{BOLD} Aucan{y}{bold}{G} child floats here, in search of it's mother.{g}
+~
+
+
+{Y}  Before you is a pale, translucent child.  It appears to not take
+  notice, or care of its condition and glances briefly at you.  The child
+  maintains a bright smile as it plays with anything that happens to be
+  within reach.{y}
+
+
+~
+2097348 1074004480 0 S
+10 -40 3 0d0+1000 0d0+100
+900 6500
+8 8 0
+D 20
+A 12
+#2923
+aucan ghost transparent figure~
+{W}A{W}{BOLD} Ghost{w}{bold}~
+{W}{BOLD}A transparent figure{w}{bold}{W} floats here, blending with the {BL}shadows of the graves.{bl}
+~
+
+
+{W}{BOLD}  It is not pleased that you have disturbed its home, it would
+  be wise to leave him alone and let him roam in peace.{w}
+
+
+~
+293609571 1074004520 -800 C 3
+50 -75 -4 0d0+5000 20d10+50
+250000 17000
+8 8 0
+S 67109391
+R 4
+D 20
+A 12
+#2924
+ghost tjowi~
+The{W}{BOLD} Ghost{w}{bold} of {R}{BOLD}Tjowi{r}{bold}~
+{W}The{w}{W}{BOLD} Ghost{w}{bold} of {R}{BOLD}Tjowi{r}{bold} peers around, looking for her children.
+~
+
+
+   The apparition before you appears strong and fierce.  He was once a
+   great {Y}{BOLD}Aucan{y}{bold} Warrior.
+
+
+~
+1098956835 1074004618 -1000 C 41
+55 -110 -7 100d150+2000 0d0+225
+2000000 29500
+8 8 1
+S 520
+R 4
+D 20
+A 12
+#2925
+ghost bawji~
+{CY}{BOLD}The{W}{BOLD} Ghost{w}{bold} of {G}{BOLD}Bawji{g}{bold}~
+{CY}{BOLD}The{W}{BOLD} Ghost{w}{bold} of {G}{BOLD}Bawji{g}{bold} roams around the room, flickering in and out of existence.
+~
+
+
+ {Y} Before you stands one of the largest and most powerful Aucan warriors 
+  to ever exist.  His translucent figure stands nearly 8 feet tall and
+  every inch is of pure muscle.  His weapons of choice are his fists, 
+  which are scarred and calloused.  His dark-tanned complexion, size 
+  and attitude make him a fierce individual.{y}
+
+
+~
+553701955 1243349640 600 C 14
+52 -160 -8 0d0+17500 0d0+350
+3000 19000
+8 8 2
+S 587
+R 4
+D 20
+A 12
+#2926
+ghost adjitu~
+{W}The{w}{W}{BOLD} Ghost{w}{bold}{W} of{w}{BLU}{BOLD} Adjitu{blu}{bold}~
+The {W}{BO}Ghost{w} of {BLU}{BO}Adjitu{blu} sits here, pondering his death.
+~
+
+
+{Y}   He appears old and feeble, not much of a challenge for many adventurers.{y}
+
+
+~
+327155746 1074004616 0 S
+50 -100 -5 0d0+8500 0d0+225
+900 2500
+8 8 1
+S 520
+R 4
+D 4
+A 4
+#2927
+ghost racikol~
+The{W}{BOLD} Ghost{w} of{BL} Racikol{bl}~
+{CY}{BOLD}The{WH}{BOLD} Ghost{wh}{bold} of{BL} Racikol{bl} is sitting here, sharpening a sword.
+~
+
+
+{W}{BOLD}   He is a wise-looking fellow with a studious aura about him.{w}{bold}
+
+
+~
+1073741827 1342440074 0 S
+53 -160 -5 0d0+6000 0d0+225
+100000 14000
+8 8 1
+S 517
+R 4
+D 20
+A 12
+#2928
+ghost owgi~
+The{W,BOLD} Ghost{w,bold} of{CY,BOLD} Owgi{cy,bold}~
+The {W}{BO}Ghost{w} of {C}{BO}Owgi{c} is standing here glaring at you.
+~
+
+
+{Y}  He is a headstrong aggressive fellow, and doesn't take kindly to
+  strangers wandering about his{W}{BOLD} Burial Ground.{w}{bold}
+
+
+~
+276996263 1343488650 -1000 C 53
+50 -120 -5 0d0+7500 0d0+400
+5000 26000
+8 8 1
+D 20
+A 12
+#2929
+skeleton~
+{WH}{BO}A skeleton{wh}~
+{WH}{BO}A large mass of bones seems to be lurking toward you.{wh}
+~
+
+
+  {W}A collection of bones is formed into a lurking figure wielding a
+  very large sword.  Remnants of flesh hang loosely from the 
+  decomposing body.  A mystical evil energy bounds this vile
+  creature to a life of the undead. {w}
+
+
+~
+494936103 1107297192 -1000 C 4
+40 -80 -2 0d0+500 40d20+52
+500000 22000
+8 8 0
+S 9437824
+R 4
+D 20
+A 12
+#2930
+ancient chieftain chief~
+The {W}{BOLD}Ghost{w}{bold} of the {W}{BOLD}A{G}n{W}c{G}i{G}e{W}n{G}t{BLACK} Chieftain{black}~
+The {W}{BOLD}Ghost{w}{bold} of the {W}{BOLD}A{G}n{W}c{G}i{G}e{W}n{G}t{BLACK} Chieftain{black}{G} stands here, {R}{BOLD}glaring{r}{bold}{G} into your inner soul!
+~
+
+{YE}   He is a great and mighty warrior who has killed many people just
+   for looking at him.  It is now {WH}{BO}{RE}{BO}YOUR{bo}{re}{wh}{YE} turn to die! {ye}
+
+
+~
+763396131 1731469992 -1000 C 42
+58 -130 -10 0d0+40000 20d15+201
+10000 52000
+8 8 1
+S 4390927
+R 20
+D 20
+A 12
+#2931
+rat~
+{W}A{BL} Rat{bl}~
+{W}{BOLD}A{BL} rat{bl}{W}{BOLD} scurries about here, looking for something to eat.{w}{bold}
+~
+
+
+  {Y}A small rodent with beady red eyes.  It scurries across the
+  floor looking for any remnants of food that may exist.{y}
+
+
+~
+68 524296 1000 S
+15 -10 0 0d0+750 1d5+0
+34 100
+8 8 1
+D 20
+A 12
+#2932
+monkey~
+The {Y,BO}Monk{B}ey{b}~
+A loyal {Y,BO}Monk{B}ey{b} stands here.
+~
+
+
+  {Y}Monkeys have often been associated with mischevious behavior, 
+  cunning and sometimes malice. They can be clever or dirty. Since
+  monkeys can appear to incessantly chatter, they represent the 
+  distracted mind that needs to be focused through meditation and 
+  other disciplines. When tamed the monkey is then capable of great 
+  loyalty and intelligence.{y}
+
+
+~
+4194336 0 0 S
+3 18 1 500d1+1 5d10+10
+25000 600
+8 8 0
+D 20
+A 12
+#2933
+tree snake~
+The {Y,BO}Tree{y} {G,BO}S{Y}n{W}a{G}k{Y}e{y}~
+A loyal {Y}{BOLD}Tree {G}S{Y}n{W}a{G}k{Y}e{y}{bold} slithers around the area.
+~
+
+
+  {Y}The Tree Snake doesn't take well to handling, and it has the 
+  dentition to inflict a serious bite. If taming and handling does 
+  happen, beware of people passing by you, as the animal may be 
+  tempted to strike. It does not eat well in captivity, and will 
+  generally consume chicks or rodents. It can grow to well over six 
+  feet in length, this snake is not to be considered as a pet by the 
+  inexperienced handler. {y}
+
+
+~
+16777216 4227384 0 S
+4 17 1 300d1+1 5d8+15
+30000 1600
+8 8 0
+D 20
+A 12
+#2934
+aucan child~
+{Y}The{Y}{BOLD} Aucan{bold}{y}{BLU}{BOLD} Child{blu}{bold}~
+An {Y}{BO}Aucan{y} {BLU}{BO}Child{blu} runs about here, breaking anything he touches.
+~
+
+
+{Y}  The child before you is a happy one, not a care in the world.  Curiously  
+  the naked child searches for new and amusing things to play with and
+  hopefully not destroy.  Placing your items in the hands of these innocent
+  children will surely cause harm upon them.{y}
+
+
+~
+270532806 1074004736 1000 S
+15 -70 0 0d0+1000 0d0+80
+100 1000
+8 8 1
+S 67371520
+R 4
+D 20
+A 12
+#2935
+puma~
+{BL}A Puma{bl}~
+A loyal {BL}Puma{bl} stands here.
+~
+
+
+  {Y}A lithe, slender animal, the puma has strong and very muscular 
+  limbs. The neck is comparatively long and the body rather elongate. 
+  They have relatively small heads with short faces. The dark ears 
+  are rounded, and not tufted. Characteristically the puma's hind 
+  legs are longer than the front. This difference, which elevates 
+  the rump, is the greatest in the cats, and is believed to be an
+  adaptation for jumping. A long heavy cylindrical tail is used as 
+  a counterbalance.{y}
+
+
+~
+0 4194304 0 S
+7 14 4 1d12+85 3d4+2
+0 20000
+8 8 0
+D 20
+A 12
+#2936
+tiger~
+The {R,BO}T{r}{R}i{R,BO}g{r}{R}e{R,BO}r{r}~
+A loyal {R,BO}T{r}{R}i{R,BO}g{r}{R}e{R,BO}r{r} stands here.
+~
+
+
+  {Y}Aucan tigers have short, dense fur which holds a deep orange, and 
+  carries darker and fewer stripes than the other subspecies. The 
+  stripes are wide and tend to branch out,  between them small black 
+  spots appear. Light areas are a clear white and there are unusual 
+  bars on the head. {y}
+
+
+~
+262144 37781672 0 S
+8 0 0 400d1+1 3d4+4
+30000 25000
+8 8 0
+D 20
+A 12
+#2937
+water moccasin snake~
+{BLU}{BOLD}A water moccassin{blu}{bold}~
+{BLU}{BOLD}A water moccassin{blu}{bold} slithers up to you, poised to strike!
+~
+
+
+{BLU}{BOLD}   It is a shy, sly, slippery guy ! {blu}{bold}
+
+
+~
+16785504 3256615722 -1000 S
+45 -230 -6 0d0+1000 20d30+25
+40000 2800
+8 8 0
+S 201327360
+R 36
+D 20
+A 12
+#2938
+aucan warrior~
+{Y} An{Y,BOLD} Aucan{y}{Y} Warrior{y}~
+A member of the Aucan Warring Party stands here, poised to attack.
+~
+
+
+{Y}  He is a mighty warrior trained in the art of killing and
+  mutilation.  Definitely not someone you want to tangle with !!{y}
+
+
+~
+293609568 1443136042 -1000 C 4
+50 -230 -5 0d0+2500 0d0+250
+200000 10000
+8 8 1
+S 783
+D 20
+A 10
+#2939
+aucan general~
+{BL}The{BOLD}{Y} Aucan{BL} General{bl}~
+{BL}The{BOLD}{Y} Aucan{BL} General{bl} sits here reviewing his next plan of attack.
+~
+
+
+{Y}  He is the leader of the{Y,BO} Aucan{y}{Y} Warring party.  He had to kill{W} five{w}{Y}
+  tribal chieftains and {W}fifty{w}{Y} adventurers to obtain this position.  You
+  have picked the wrong guy to mess with.{y}
+
+
+~
+729825315 1377075880 -1000 C 59
+58 -160 -10 0d0+30000 45d20+125
+1000000 21000
+6 6 1
+S 8389056
+R 8388628
+D 20
+A 12
+#2940
+gazelle gaz~
+{Y}The Gazelle{y}~
+{Y}{BOLD}A Gazelle{y}{bold}{G} is {R}annoyed{r}{G} by your presence, as it peacefully grazes on some{G}{BOLD} grass{g},
+~
+
+
+  {Y}A full grown male measures about 25 in (65 cm) at the shoulder 
+  and weighs about 50 lbs (23 kg). They are of slender graceful 
+  build. The body above is light chestnut, the colour deepening 
+  where it joins the white of the underparts on the flanks and
+  buttocks. A {W}{BOLD}white{w}{bold}{Y} streak is present on each
+  side of it's face.  The horns of male's are slightly S-shaped in
+  profile with 15-25 rings. Horns of female's are smooth. {y}
+
+
+~
+293601505 1075577512 1000 S
+50 -100 -4 0d0+2500 0d0+400
+1200 5000
+8 8 0
+S 12583823
+D 12
+A 14
+#2941
+holder swordholder~
+{WH,BO}The H{CY}older of the Sw{WH}ord{wh}~
+{W}{BOLD}The H{CY}{BOLD}older of the Sw{cy}{W}{BOLD}ord{w}{bold}{G} stands proudly, ready to {W}defend{w} his honor.{g}
+~
+
+
+{WH}{BO}   He is strong, quick and agile.  He is ready to defend his honor
+   at any time.  You had better not mess with this giant.{wh}{bo}
+
+
+~
+755023939 1074004650 1000 C 64
+51 -84 -10 0d0+40000 30d30+50
+100000 100000
+9 9 0
+S 2152203208
+R 20
+D 20
+A 12
+$~

@@ -1,0 +1,616 @@
+#38700
+sign warning~
+A Sign~
+A Condemned Building Sign sits staked before the building.~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+E
+sign warning~
+ 
+   This building is indefinitely closed, pending a 
+   full investigation by the Midgaard authorities.
+ 
+        Midgaard Police
+        September 1, 1989
+ 
+~
+#38701
+Key Manager~
+{RED}The Manager's Key{red}~
+The Arcade Manager's key dangles from a chain...~
+~
+18 65536 0 1
+500 0 0 0
+0 0 1
+E
+Key Manager~
+ 
+   Looks like this key will open up the doors
+   in this place.
+ 
+~
+#38702
+Machine Token Vending~
+{W,BO}The{w,bo} {Y}Token{y} {W,BO}Machine{w,bo}~
+{Y,BO}A Token Vending Machine sits quietly in the corner.{y,bo}~
+~
+15 0 0 0
+40 5 0 0
+1 1 1
+E
+Machine Token Vending~
+ 
+   Looks like the machine is broken.  The cover seems to
+   be unlocked though.  Perhaps you could just pry it
+   {M}open{m}.
+ 
+~
+#38703
+Token Arcade~
+{Y,BO}Midgaard Game Token{y,bo}~
+{W,BO}A quarter-sized piece of tin rolls on the ground.{w,bo}~
+~
+18 1 0 1
+-1 0 0 1
+0 0 1
+E
+Token Arcade~
+ 
+   A simple little piece of tin, shaped just like a quarter.
+ 
+~
+#38704
+Headband Ryu~
+{WHITE}Ryu's{white} {RED,BOLD}Headband{red,bold}~
+{WHI,BO}A long piece of{whi,bo} {RED,BO}red{red,bo} {WHI,BO}cotton blows in the wind...{whi,bo}~
+~
+9 1024 64 17
+10 3500 0 0
+1 1 1
+E
+Headband Ryu~
+ 
+   This piece of fabric was torn from {R,BO}Ken Masters{r,bo} gi,
+   after he accidentally cut Ryu during a sparring match.
+ 
+~
+A
+18 3
+A
+13 50
+B
+8
+C
+3500 5
+G
+1
+#38705
+window open~
+An Open Window~
+{WHI,BO}A tiny{whi,bo}{CYAN,BO} window{cya,bo} {WHI,BO}is carelessly left open here.{whi,bo}~
+~
+15 0 0 0
+1000 1 0 0
+800 1 1
+E
+window open~
+ 
+   As you peek inside, you see dozens of scared 
+   people!  
+ 
+   Yum!
+ 
+~
+#38706
+human person snack~
+{CYAN}A Tiny Person{cyan}~
+A 3-inch tall person runs around in a panic!~
+~
+19 0 0 1
+1 0 0 0
+2 0 0
+E
+human person snack~
+ 
+   Please don't eat meee!!!!
+ 
+~
+#38707
+BuildingSmashers smashers hands~
+{WHITE,BOLD}Bui{white,bold}{WHITE}ldi{white}{BLACK}ngS{black}{RED}mas{red}{RED,BOLD}hers!{red,bold}~
+Some giant monster was disarmed here.~
+~
+9 512 64 129
+5 0 0 0
+15 50000 50000
+E
+BuildingSmashers smashers hands~
+ 
+   Eww, these giant monster paws were freshly removed
+   from the monster.  Yuck!
+ 
+~
+A
+19 3
+A
+18 3
+B
+32768
+C
+6300 1
+G
+10
+#38708
+Smoke Screen Cloud~
+{WHITE,BOLD}Smok{white,bold}{WHITE}escr{white}{BLACK}een{black}~
+{WHI}A cloud of smoke obscures your view. {whi}~
+~
+9 0 64 1025
+12 0 0 0
+0 0 0
+E
+Smoke Screen Cloud~
+ 
+This smoke cloud is so thick, you can barely see
+through it!
+ 
+~
+A
+18 3
+A
+19 3
+B
+262144
+C
+7000 2
+G
+30
+#38709
+boots zero g~
+{MAGENTA,BOLD}Zero{mag,bo}{WHI}-{whi}{MAG}G{mag} {MAG,BO}Boots{mag,bo}~
+{M,BO}Gravity-defying boots{m,bo} {Y,BO,BLIN}hover{y,bo,blin} {M,BO}here!{m,bo}~
+~
+9 0 0 65
+10 0 0 0
+2 10000 10000
+E
+boots zero g~
+ 
+   Nike Air Zero-Gravity Boots.
+ 
+   Made in Thailand.
+ 
+~
+A
+19 3
+A
+14 75
+B
+16779264
+C
+5250 5
+G
+20
+#38710
+Ninja Short Sword~
+{BLACK}A Ninja{bla} {WHITE}Short{whi} {WHITE,BO}Sword{whi,bo}~
+An {BLACK}Assassin's{black} weapon is stuck in the ground.~
+~
+5 1025 64 8193
+2 6 6 5
+4 1000 1
+E
+Ninja Short Sword~
+ 
+This dangerous weapon is a ninja-to, the short sword
+used by Shinobi's ninja clan.  The blade is razor sharp,
+and the light reflects off the edge nicely.
+ 
+~
+A
+19 3
+A
+18 3
+B
+268435456
+C
+7000 2
+G
+50
+#38711
+diskarmor shield disk~
+{WHI}Di{whi}{RED,BO}skArm{re,bo}{WHI}or{whi}~
+A bladed frisbee on a chain whizzes past your head.~
+~
+5 129 0 49665
+1 5 7 2
+10 1000 10000
+E
+diskarmor shield disk~
+ 
+   This is the fabled DiskArmor, a powerful
+   combination of shield and weapon.  It's
+   legendary power can only be harnessed by
+   a great warrior.
+ 
+~
+A
+19 3
+A
+18 3
+B
+1073741824
+C
+5250 2
+G
+75
+#38712
+Tire Burning~
+The {RED,BO}Burning{red,bo} {BLACK,BO}Tire{bla,bo}~
+{WHI,BO}A hunk of{whit,bo} {BLACK}rubber{black} {RED,BO}burns{red,bo} {WHI,BO}as it rolls past you...{whi,bo}~
+~
+3 67108864 0 16385
+15 3 3 101
+12 0 100
+E
+Tire Burning~
+ 
+Burn rubber, baby!  Ha!
+ 
+~
+A
+19 2
+A
+12 35
+G
+20
+#38713
+Legs Frog~
+{GREEN,BO}Frog Legs{gree,bo}~
+{WHI,BO}A pair of{whi,bo} {GREE,BO}frog legs{gree,bo} {WHI,BO}hops around the room.{whi,bo}~
+~
+19 0 0 33
+1 0 0 1
+4 0 2
+E
+Legs Frog~
+ 
+Fresh frog legs.  Poor frog.
+ 
+~
+A
+19 3
+A
+18 4
+B
+134217728
+G
+1
+#38714
+Koopa Shell~
+{G,BO}K{g,bo}{G}oop{g}{G,BO}a S{g,bo}{G}hel{g}{G,BO}l{g,bo}~
+A shell lies here, begging for you to kick it.~
+~
+15 8192 0 33570817
+100 5 0 0
+0 500 10000
+E
+Koopa Shell~
+ 
+   As you peer into this shell, you notice that there's quite
+   alot of room inside!  No wonder turtles like living in them.
+ 
+~
+A
+4 2
+A
+3 2
+G
+50
+#38715
+Chainmail Tunic Dirk~
+{RED,BO}Dirk's{red,bo} {YELLOW}Chainmail{yellow} {WHITE}Tunic{whit}~
+{R,BO}Dirk the Daring's{r,bo} {Y}armor{y} {W}lies in a heap.{w}~
+~
+9 0 0 9
+12 0 0 0
+1 10000 10000
+E
+Chainmail Tunic Dirk~
+ 
+   This shirt of chainmail is so light and
+   comfortable, just what a young knight 
+   needs on dangerous adventures!
+ 
+~
+A
+18 4
+A
+2 2
+B
+128
+C
+4200 5
+G
+90
+#38716
+carcass singe corpse~
+{RED}The Corpse of Singe{red}~
+{YELLOW}The huge carcass of a dragon{yellow} {RED,BO}bleeds{red,bo} {YELL,BO}onto your shoes.{yell,bo}~
+~
+15 0 0 0
+100 1 0 0
+1 1 1
+E
+carcass singe corpse~
+ 
+   The remains of the nefarious {R}Singe{r}, scourge of these lands,
+   lies here.  It appears to be skewered by some sort of 
+   weapon, wedged so deep that you can barely see it...
+ 
+~
+#38717
+Singing Sword Key~
+{CY,BO}The{cy,bo} {W,BO}Singing{w,bo} {CY,BO}Sword{cy,bo}~
+{CY,BO}A melodious blade hums in the corner...{cy,bo}~
+~
+18 3 0 1
+-1 0 0 1
+1 1 1
+E
+Singing Sword Key~
+{C,BO}
+   This is the fabled Singing Sword, the weapon which slew
+   the dragon Singe.  It is said that it can unlock his hidden
+   hoard of treasure!
+{c,bo}
+~
+#38718
+Pellet~
+{Y}A Tiny Pellet{y}~
+A tiny little pellet was left on the ground.~
+~
+19 65536 0 1
+1 0 0 0
+2 1 1
+E
+Pellet~
+{Y,BO}
+   Yummy!
+{y,bo}
+~
+#38719
+Energizer~
+{YELLOW,BOLD}Energizer{yell,bo}~
+A giant pellet glows with power!~
+~
+19 1 0 1
+2 0 0 0
+5 1 1
+E
+Energizer~
+ 
+   This larger pellet glows with obvious power.
+   Perhaps eating it would make the ghosts fear you?
+ 
+~
+#38720
+Power Pellet~
+{YELLOW,BOLD}Power Pellet!{yell,bo}~
+One a day keeps the ghosts away....~
+~
+1 0 0 16777217
+-1 -1 -1 3
+1 1000 1000
+E
+Power Pellet~
+{Y,BO}
+   Neat, it's Pac-Man's Power Pellet!  With this
+   thing, you're sure to keep baddies away!
+{y,bo}
+~
+A
+19 4
+A
+1 3
+B
+67108864
+G
+60
+#38721
+Wristguard wrist elven~
+{GREE,BO}Green Elven Wristguard{gree,bo}~
+{BLA}An{bla} {G,BO}Archer's Wristguard{g,bo} {BLA} rests here.{bla}~
+~
+9 0 0 4097
+0 7000 0 0
+1 1 1
+E
+Wristguard wrist elven~
+{G,BO}
+   This hardened piece of leather protects an archer's
+   wrist from the snap of a bowstring.
+{g,bo}
+~
+A
+19 3
+A
+18 3
+B
+33554432
+C
+7000 5
+G
+80
+#38722
+Exit Portal~
+{BLACK}The{bla} {WHITE}Exit{white} {BLACK}Portal{black}~
+{Y,BO}The way out is through this Exit!{y,bo}~
+~
+27 1 0 0
+38708 0 0 0
+1 1 1
+E
+Exit Portal~
+ 
+   Looks like this is the only way out.  Perhaps you
+   should {CY,BO}enter portal{cy,bo} before it's too late.
+ 
+~
+#38723
+paper clipping news~
+{BL}An{bl} {W}Old{w} {BL}Newspaper{bl} {W}Clipping{w}~
+{BLA}An old{bla} {W}newspaper blows{w} {BLA}around on{bla} {W}the ground.{w}~
+~
+16 65536 0 1
+0 0 0 0
+0 1 1
+E
+paper clipping news~
+ 
+            MIDGAARD NEWS
+   August 30, 1989
+ 
+   TACO-EATING CONTEST GOES AWRY - POOR VENTILATION TO BLAME.
+ 
+   (MP) - A recent taco-eating contest in Midgaard turned to 
+   disaster today, after a poorly installed ventilation system 
+   purged gases from the competition into a neighboring building,
+   The Midgaard Arcade.  All in the building are reportedly dead.
+ 
+   "It happened so fast," reports Deputy DREDD, from the Midgaard
+   Police Department. "Apparently, the taco meat was not prepared
+   properly, and the end result to the digestive tracts caused a
+   massive gas burst to flood the nearby building."
+ 
+   Police are investigating the scene of the incident. The Midgaard
+   Arcade has been closed until further notice and decontamination.  
+   Authorities are also seeking a suspect by the name of Loco, for 
+   questioning regarding his role in the incident.
+ 
+~
+#38724
+portal gameover~
+{Y,BO}The Game Over Portal{y,bo}~
+{CY}Thanks for playing! Enter here!{cy}~
+~
+27 0 0 0
+38707 0 0 0
+1 1 1
+E
+portal gameover~
+ 
+   Thank you for playing!  Please enter portal to
+   exit this game.
+ 
+~
+#38725
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#38726
+Heavenly Cloud questprize~
+{W,BO}A{w,bo} {C}Hea{c}{C,BO}ve{c,bo}{C}nly{c} {W,BO}Cl{w,bo}{C}o{c}{W,BO}ud{w,bo}~
+{C}a{c} {C,BO}sm{c,bo}{C}a{c}{C,BO}ll {W,BO}cloud{w,bo} {c}from the{c} {C,BO}H{c,bo}{C}e{c}{W,BO}a{w,bo}{BLUE,BO}v{blue,bo}{W,BO}e{w,bo}{C}n{c}{C,BO}s{c,bo} {C}floats just above the ground{c}~
+~
+15 0 0 1
+300 0 0 0
+1 1 1
+E
+Heavenly Cloud questprize~
+{W,BO}
+   This is a holy cloud, pure white in color and shining 
+   with a beautifully bright{w,bo} {CY,BO}cyan colored light{cy,bo}{W,BO}.  It
+   looks like it was a special gift to the heavenly angel
+   who did a deed for one of the many of the immortal
+   realms.  It's always floating nearby her and it looks
+   as if it can carry a number of useful items.
+{w,bo}
+~
+#38727
+list grocery wildstar quest~
+{CYAN}Wildstar's Grocery List{cyan}~
+Wildstar's Grocery Hunt List is here!~
+~
+13 65536 0 1
+0 0 0 0
+1 0 1
+E
+list grocery wildstar quest~
+ 
+{BLUE}Wi{blu}{CYAN}ld{cy}{WHITE}st{white}{BLAC}ar's{blac} {YELLOW}Grocery List{yell}
+ 
+{WHITE,BO}   honeycake
+   a pipeweed bread
+   a slice of cherry pie
+   A bottle of milk
+   A beef jerky
+   skittle
+   Atlantic Salmon
+   A bunch of smurfberries
+   a bag of Doritos
+   a chocolate chip cookie
+   A Big Balamb Hotdog
+   Some sliced ham
+   A Banana
+   a doughnut
+   A stick of bread
+   An order of calamari
+{whit,bo}
+{RED,BO}RULES!!
+1. Take only 1 of any particlar item.  Leave the rest there. No saccing or hiding the extras!
+2. Some items are easy to find, others not so....some are in large quantities, others aren't.
+3. First person to bring me all the items in their bag, or whoever has the most by the end
+   of the game, wins.
+{red,bo}
+~
+#38728
+bag shopping wildstar~
+{BLUE}Wi{blue}{CYAN}ld{cyan}{WHITE}st{white}{BLA}ar's{bla} {YELL}Shopping Bag{yell}~
+{YEL}A brown paper bag wants to be filled with food!{yel}~
+~
+15 0 0 16385
+50 1 0 0
+0 0 0
+E
+bag shopping wildstar~
+ 
+   A simple bag.  Put stuff in.  Try to win the game.
+ 
+~
+#38729
+potato gay loser gimp gimply~
+{MAGENTA,BOLD}Gimply Hot Potato of Gayness{mag,bo}~
+{MAG,BO}Only a LOSER would have this!{mag,bo}~
+~
+13 0 0 16385
+0 0 0 0
+1 0 1
+E
+potato gay loser gimp gimply~
+   {M,BO}HAHAHAHAH!!!! YOU SUXORS, LOOOOOSSSSSSERRRRRRR!{m,bo}
+ 
+{W,BO}The Rules:
+   1. Saccing the Potato is Elton John Gay.
+   2. No handing it to the Zone Leader, anyone else is fair game.
+   3. No handing it to a mob so that some sucker auto-loots it;
+      It's ok to do it to someone who's levelling though.
+   4. Giving it to a non-participant is Drop-the-soap-in-prison GAY.
+   5. Logging another person's character to give it to, or to mess
+      with their toggle, is Backstreet Boys gay.
+   6. Handing it to a naked character is I-collect-Barbara-
+      Streisand-albums GHEY.
+   7. Handing it to an immortal is not only gay, but proves to
+      us that you rode the little school bus back in school.
+   8. Losing the potato makes you the most ultra-mega-hyper-
+      youcannameallthemylittleponydolls-gay that ever was gay.
+{w,bo}
+{C}The Players:  Only the cool people, duh!{c}
+~
+$~

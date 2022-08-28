@@ -1,0 +1,171 @@
+#396
+{YEL,BO}Sunnydale{yel,bo}, Part 1(Helsing)~
+39699 2000 2
+*
+X 12258
+M 0 39626     7 39601    {BLA}A Vampire{bla}
+D 0 39603     0     2    (N:LOCKED) {WHI,BO}Passing through a Quiet Neighborhood{whi,bo}
+D 0 39606     1     2    (E:LOCKED) {GRE,BO}Main Street{gre,bo}
+D 0 39606     3     2    (W:LOCKED) {GRE,BO}Main Street{gre,bo}
+M 0 39626     7 39607    {BLA}A Vampire{bla}
+M 0 39626     7 39607    {BLA}A Vampire{bla}
+D 0 39607     1     2    (E:LOCKED) {GRE,BO}Main Street{gre,bo}
+M 0 39625     4 39608    {BLA}A Vampire{bla}
+D 0 39608     0     2    (N:LOCKED) {GRE,BO}Main Street{gre,bo}
+D 0 39608     3     2    (W:LOCKED) {GRE,BO}Main Street{gre,bo}
+D 0 39609     0     2    (N:LOCKED) {GRE,BO}Main Street{gre,bo}
+D 0 39609     2     2    (S:LOCKED) {GRE,BO}Main Street{gre,bo}
+M 0 39626     7 39610    {BLA}A Vampire{bla}
+D 0 39610     1     2    (E:LOCKED) {GRE,BO}Main Street{gre,bo}
+D 0 39610     2     2    (S:LOCKED) {GRE,BO}Main Street{gre,bo}
+M 0 39625     4 39611    {BLA}A Vampire{bla}
+D 0 39611     1     2    (E:LOCKED) {GRE,BO}Main Street{gre,bo}
+D 0 39611     3     2    (W:LOCKED) {GRE,BO}Main Street{gre,bo}
+M 0 39626     7 39612    {BLA}A Vampire{bla}
+M 0 39626     7 39612    {BLA}A Vampire{bla}
+D 0 39612     1     2    (E:LOCKED) {GRE,BO}Main Street{gre,bo}
+D 0 39613     0     1    (N:CLOSED) {YEL,BO}Before the Sunnydale Mall{yel,bo}
+D 0 39614     0     2    (N:LOCKED) {RED,BO}Ethan's{red,bo} {BLAC}Costume{blac} {RED,BO}Shop{red,bo}
+M 0 39611     1 39615    {BLA}Ethan Raines{bla}
+E 1 39611     1    29    (FOREARM) {G,BO}T{bo,G}h{BO}e{bo,G} A{BO}c{bo,G}i{BO}d{bo,G} B{BO}u{bo,G}r{BO}n{g,bo}
+D 0 39616     2     1    (S:CLOSED) {YEL,BO}Sunnydale Mall{yel,bo}
+M 0 39614     1 39620    {W}The{w}{CY,BO} Ju{cy,bo}{W}dge{w}
+E 1 39609     2     5    (BODY) {R,BO}Impe{r,bo}{R}netr{r}{W}able{w} {BLA}Armor{bla}
+M 0 39637    12 39626    {R}a Bully{r}
+M 0 39636    25 39627    {BLU,BO}A Student{blu,bo}
+M 0 39636    25 39627    {BLU,BO}A Student{blu,bo}
+M 0 39636    25 39627    {BLU,BO}A Student{blu,bo}
+M 0 39637    12 39631    {R}a Bully{r}
+D 0 39631     2     1    (S:CLOSED) {CY}Entrance to{cy} {YEL,BO}Sunnydale High{yel,bo}
+O 0 39640     8 39632    {W}A Locker{w}
+P 1 39641     7 39640    {G}Lunch Money!{g}
+D 0 39632     0     0    (N:OPEN) {WHI}A Long Hallway{whi}
+D 0 39633     1     1    (E:CLOSED) {WHI}A Staircase{whi}
+D 0 39633     3     2    (W:LOCKED) {WHI}A Staircase{whi}
+D 0 39634     1     2    (E:LOCKED) {YEL}The Library{yel}
+D 0 39635     2     1    (S:CLOSED) {YEL}Center of the Library{yel}
+D 0 39635     5     2    (D:LOCKED) {YEL}Center of the Library{yel}
+M 0 39608     1 39636    {W}Wesley, the Watcher{w}
+E 1 39616     1    27    (EYE) {BLA}{BOLD}A{Y} Watcher's{BLA}{BOLD} Spectacles{bla}
+D 0 39638     3     0    (W:OPEN) {MAG}The Cafeteria{mag}
+M 0 39636    25 39641    {BLU,BO}A Student{blu,bo}
+M 0 39636    25 39641    {BLU,BO}A Student{blu,bo}
+M 0 39636    25 39642    {BLU,BO}A Student{blu,bo}
+M 0 39637    12 39642    {R}a Bully{r}
+O 0 39639     1 39642    {R,BO}A Fresh Corpse!{r,bo}
+M 0 39637    12 39643    {R}a Bully{r}
+O 0 39640     8 39643    {W}A Locker{w}
+P 1 39641     7 39640    {G}Lunch Money!{g}
+M 0 39636    25 39644    {BLU,BO}A Student{blu,bo}
+O 0 39640     8 39644    {W}A Locker{w}
+P 1 39641     7 39640    {G}Lunch Money!{g}
+M 0 39636    25 39645    {BLU,BO}A Student{blu,bo}
+M 0 39636    25 39645    {BLU,BO}A Student{blu,bo}
+M 0 39636    25 39645    {BLU,BO}A Student{blu,bo}
+O 0 39640     8 39645    {W}A Locker{w}
+P 1 39641     7 39640    {G}Lunch Money!{g}
+D 0 39645     2     1    (S:CLOSED) {WHI}A Long Hallway{whi}
+D 0 39646     0     0    (N:OPEN) {R,BO}The Office{r,bo}
+M 0 39636    25 39647    {BLU,BO}A Student{blu,bo}
+M 0 39637    12 39647    {R}a Bully{r}
+M 0 39636    25 39648    {BLU,BO}A Student{blu,bo}
+M 0 39636    25 39648    {BLU,BO}A Student{blu,bo}
+M 0 39636    25 39649    {BLU,BO}A Student{blu,bo}
+M 0 39636    25 39650    {BLU,BO}A Student{blu,bo}
+M 0 39636    25 39650    {BLU,BO}A Student{blu,bo}
+M 0 39635     1 39652    {R,BO}Principal Snyder{r,bo}
+G 1 39638     1     0    {R,BO}Principal Snyder's Key{r,bo}
+D 0 39653     1     2    (E:LOCKED) {WHITE}Hallway to the Locker Room{whi}
+D 0 39653     3     1    (W:CLOSED) {WHITE}Hallway to the Locker Room{whi}
+M 0 39637    12 39654    {R}a Bully{r}
+M 0 39637    12 39654    {R}a Bully{r}
+M 0 39637    12 39654    {R}a Bully{r}
+D 0 39654     3     0    (W:OPEN) {BLU}The Locker Room{blu}
+M 0 39637    12 39655    {R}a Bully{r}
+M 0 39637    12 39655    {R}a Bully{r}
+M 0 39637    12 39655    {R}a Bully{r}
+M 0 39637    12 39655    {R}a Bully{r}
+D 0 39657     3     1    (W:CLOSED) {UNDER}Town Hall{under}
+D 0 39658     1     0    (E:OPEN) {CY,BO}Staircase{cy,bo}
+M 0 39643     1 39660    {R,BO}Mayor Wilkins{r,bo}
+G 1 39617     2     0    {Y}The B{y}{BL}ox of Ga{bl}{W}vrock{w}
+M 0 39644     1 39660    {BLA}Mr. Trick{bla}
+M 0 39626     7 39662    {BLA}A Vampire{bla}
+M 0 39625     4 39662    {BLA}A Vampire{bla}
+G 1 39631     1     0    {W,BO}Key to the Fence{w,bo}
+D 0 39662     0     2    (N:LOCKED) {YEL}Downtown{yel}
+M 0 39628     3 39665    {W}A Hired Thug{w}
+M 0 39628     3 39665    {W}A Hired Thug{w}
+M 0 39628     3 39665    {W}A Hired Thug{w}
+D 0 39665     0     1    (N:CLOSED) {BLA}A Dirty{bla} {YEL}Alley{yel}
+M 0 39627     1 39666    {W}Fai{w}{BLA}th{bla}
+E 1 39614     1    16    (WIELD) {BL}Fa{bl}{W,BO}it{w,bo}{BLA}h's{bla} {W,BO}Dagger{w,bo}
+D 0 39666     2     0    (S:OPEN) {YEL,BO}Sunnyd{yel,bo}{YEL}ale Motel{yel}
+M 0 39625     4 39667    {BLA}A Vampire{bla}
+D 0 39667     0     1    (N:CLOSED) {YEL}Downtown{yel}
+D 0 39667     3     1    (W:CLOSED) {YEL}Downtown{yel}
+M 0 39646     1 39668    {BLA}A Bouncer{bla}
+D 0 39668     1     0    (E:OPEN) {YEL,UNDER}The Bronze{yel,under}
+M 0 39647     1 39669    {BLU,BO}The Bartender{blu,bo}
+G 1 39624     2     0    {Y}Blooming Onion{y}
+G 1 39624     2     0    {Y}Blooming Onion{y}
+M 0 39648     8 39670    {R}A Dancing Person{r}
+M 0 39648     8 39670    {R}A Dancing Person{r}
+M 0 39648     8 39670    {R}A Dancing Person{r}
+M 0 39648     8 39670    {R}A Dancing Person{r}
+M 0 39648     8 39670    {R}A Dancing Person{r}
+M 0 39648     8 39670    {R}A Dancing Person{r}
+M 0 39648     8 39670    {R}A Dancing Person{r}
+M 0 39648     8 39670    {R}A Dancing Person{r}
+M 0 39632     1 39671    {Y}Oz{y}
+G 1 39632     1     0    {W}A{w} {BLU,BO}Backstage{blu,bo} {W}Pass{w}
+D 0 39671     0     2    (N:LOCKED) {GRE,BO}On{gre,bo}{MAG,BO}-St{mag,bo}{CY,BO}age{cy,bo}
+O 0 39627     1 39672    {BLU}A Beat-{blu,CY}Up, Old{cy,BLU,BO} Van{blu,bo}
+D 0 39672     2     0    (S:OPEN) {BLACK,BO}Backstage{black,bo}
+M 0 39631    15 39673    {Y}A Minion of Glory{y}
+M 0 39631    15 39673    {Y}A Minion of Glory{y}
+M 0 39631    15 39673    {Y}A Minion of Glory{y}
+D 0 39673     2     0    (S:OPEN) {MAG}The Plaza Hotel{mag}
+M 0 39631    15 39674    {Y}A Minion of Glory{y}
+M 0 39631    15 39674    {Y}A Minion of Glory{y}
+M 0 39631    15 39674    {Y}A Minion of Glory{y}
+O 0 39615     2 39674    {W,BO}A Pair of Balls{w,bo}
+D 0 39675     2     1    (S:CLOSED) {YEL}Downtown{yel}
+M 0 39631    15 39676    {Y}A Minion of Glory{y}
+D 0 39676     0     0    (N:OPEN) {BLU,REV}Before the Monolith{blu,rev}
+M 0 39631    15 39677    {Y}A Minion of Glory{y}
+M 0 39631    15 39678    {Y}A Minion of Glory{y}
+M 0 39631    15 39678    {Y}A Minion of Glory{y}
+M 0 39631    15 39678    {Y}A Minion of Glory{y}
+M 0 39631    15 39679    {Y}A Minion of Glory{y}
+M 0 39631    15 39679    {Y}A Minion of Glory{y}
+M 0 39631    15 39679    {Y}A Minion of Glory{y}
+M 0 39631    15 39679    {Y}A Minion of Glory{y}
+M 0 39633     1 39684    {Y,BO}Dawn{y,bo}
+G 1 39642     1     0    {R,BO}Apocalypse!{r,bo}
+G 1 39630     1     0    {W,BO}T{w,bo}{Y,BO}h{y,bo}{W,BO}e{w,bo} {Y,BO}K{y,bo}{W,BO}e{w,bo}{Y,BO}y{y,bo}
+M 0 39634     1 39684    {BLA}The Doc{bla}
+D 0 39684     5     2    (D:LOCKED) {WHI,BO}T{whi,bo}{YEL,BO}h{yel,bo}{WHI,BO}e{whi,bo} {YEL,BO}K{yel,bo}{WHI,BO}e{whi,bo}{YEL,BO}y{yel,bo}
+O 0 39626     1 39685    {C,BO}A {M}D{C}i{M}m{C}e{C}n{M}s{C}i{M}o{C}n{M}a{C}l {M}R{C}i{M}f{C}t{c,m,bo}
+M 0 39636    25 39686    {BLU,BO}A Student{blu,bo}
+O 0 39640     8 39686    {W}A Locker{w}
+P 1 39641     7 39640    {G}Lunch Money!{g}
+M 0 39636    25 39687    {BLU,BO}A Student{blu,bo}
+O 0 39640     8 39687    {W}A Locker{w}
+M 0 39636    25 39690    {BLU,BO}A Student{blu,bo}
+O 0 39640     8 39690    {W}A Locker{w}
+P 1 39641     7 39640    {G}Lunch Money!{g}
+M 0 39636    25 39691    {BLU,BO}A Student{blu,bo}
+M 0 39636    25 39691    {BLU,BO}A Student{blu,bo}
+M 0 39636    25 39691    {BLU,BO}A Student{blu,bo}
+O 0 39640     8 39691    {W}A Locker{w}
+P 1 39641     7 39640    {G}Lunch Money!{g}
+D 0 39691     1     2    (E:LOCKED) {WHI}A Long Hallway{whi}
+M 0 39636    25 39692    {BLU,BO}A Student{blu,bo}
+M 0 39636    25 39692    {BLU,BO}A Student{blu,bo}
+M 0 39636    25 39692    {BLU,BO}A Student{blu,bo}
+M 0 39645     1 39695    {R}A pimply-faced Worker{r}
+G 1 39623     1     0    {R}Double{r}{Y}Meat{y} {R}Medley{r}
+D 0 39696     3     0    (W:OPEN) {MAG,BO}Le Boutique{mag,bo}
+M 0 39639     1 39697    {M,BO}Cordelia{m,bo}
+$~

@@ -1,0 +1,861 @@
+#28400
+Waffen SS~
+{BOLD,RED}The Waffen SS{bold,red}~
+{CYAN}A member of the SS is milling about, searching.{cyan}
+~
+A puffy faced, bloated, figure, peers at you with piglike eyes from 
+under his helmet.  Clearly not happy with what he sees, he lifts his
+machinegun........
+~
+1283457058 1074004648 -600 S
+49 -35 -4 30d30+3500 15d12+25
+25000 1800000
+8 8 0
+S 67239999
+R 2097424
+D 20
+A 12
+#28401
+SS Officer~
+{YELLOW}An SS Officer{yellow}~
+{CYAN}An {YELLOW}officer{CYAN}, wearing a spotless uniform, eyes you suspiciously.{cyan}
+~
+A puffy faced, bloated, figure, peers at you with piglike eyes from 
+under his helmet.  Clearly not happy with what he sees, he lifts his
+machinegun........
+~
+1283457058 1074004648 -600 S
+50 -40 -6 15d35+7000 12d12+25
+100000 2500000
+8 8 0
+S 33554465
+R 272
+D 20
+A 12
+#28402
+camp guard~
+{YELLOW}A Camp Guard{yellow}~
+{CYAN}A camp guard is pattrolling the grounds.{cyan}
+~
+A camp guard, used to getting what he wants, struts around the camp, acting
+as if he owns the place.  Occasionally he strikes out with the butt of his
+weapon to hit one of the prisoners.  Still, his job is to keep intruders
+out, and he doesn't seem very pleased with your presence....
+~
+1283465252 1074004648 -600 C 4
+49 -30 -3 30d12+1800 15d12+25
+75000 1800000
+8 8 0
+S 512
+R 284
+D 20
+A 12
+#28403
+Prisoner Victim~
+{RED}A Prisoner{red}~
+A sickly, starving man is shuffling around.
+~
+A starving, gaunt looking man looks at you, wondering if you can do anything fo
+him. He looks sick, a trace of green saliva trickles out of the corner of
+his mouth.
+~
+1277167620 1074004776 -600 C 4
+51 -60 -1 20d20+2500 20d20+40
+25000 5000000
+8 8 1
+R 272
+D 20
+A 12
+#28404
+Camp Commander~
+{BOLD,RED}The Camp Commander{bold,red}~
+{BOLD,RED}The Commander {bold,CYAN}of the camp is pacing up and down impatiently.{cyan}
+~
+A large and proud man, with the required blond hair and blue eyes of
+the Uebermensch, is pacing up and down the waiting room.  Even he has
+to wait to see the infamous Dr. Mengele.  A scowl lines his face, marring
+what might have been a beautiful face.
+~
+1220542566 1376027304 -500 C 3
+52 -70 -7 30d50+20000 20d15+25
+2000000 1000
+8 8 1
+S 8392705
+R 272
+D 20
+A 12
+#28405
+Dr. Mengele~
+{YELLOW}Dr. Mengele{yellow}~
+{CYAN}A small, lean, {BOLD,RED}mean{bold,CYAN} man is bending over a young girl, needle in hand.{cyan}
+~
+Oblivious of your presence, completely absorped by his research, you see
+the doctor readying a needle with some green liquid in it.  Suddenly he seems
+to sense your presence though and he whirls about, holding his needle as
+a weapon.
+~
+1233125478 1107591868 -1000 C 4
+52 -90 -7 0d0+30000 20d20+55
+1000000 4000000
+8 8 0
+S 5247104
+R 272
+D 20
+A 12
+#28406
+Anne Frank~
+{YELLOW}Anne Frank{yellow}~
+{YELLOW}A young girl, undernourished and bruised, is lying here.{yellow}
+~
+Battered and bruised, you can not but feel sorry for her, she looks so
+pathetic, the way she lies there.  You want to TELL her she is SAFE
+and that everything will be allright.
+~
+1214259270 1376690862 1000 C 4
+52 -100 -10 0d0+30000 25d25+200
+1 10000000
+4 4 2
+R 272
+D 20
+A 12
+#28407
+Provoost~
+{BOLD,CYAN}The Provoost{bold,cyan}~
+One of the museum guards is standing here, making sure you don't touch anything.
+~
+A burly looking man looks at you suspiciously, making sure you don't
+touch any of the works of art here.
+~
+1207968066 1107559084 200 C 3
+50 -35 -5 15d20+16000 20d10+30
+350000 2000000
+8 8 0
+S 33554432
+R 2097436
+D 20
+A 12
+#28408
+English Soldier~
+{BOLD,CYAN}An {RED}English{CYAN} Soldier{bold,cyan}~
+{CYAN}A soldier in the {BOLD,RED}British{bold,CYAN} army is patrolling the trenches.{cyan}
+~
+A proud fighting man is patrolling the trenches, looking for spies and 
+a possible attack from the french.  His clothes are in tatters, but it
+does not affect his bearing.  He is sure that his side will win.
+~
+562045028 1074037548 300 S
+48 -35 -6 30d15+3000 15d10+30
+50000 1300000
+8 8 0
+S 131072
+R 284
+D 20
+A 12
+#28409
+British Officer~
+{BOLD,CYAN}A {RED}British{bold,YELLOW} Officer{yellow}~
+{CYAN}A {BOLD,RED}British {bold,YELLOW}officer {CYAN}is sitting behind a desk, examining a map.{cyan}
+~
+A red coated English officer is sitting behind his desk, surprised at
+your interruption.  He is holding the battle orders for the next attack.
+~
+1237319782 1342472872 -500 S
+51 -55 -6 20d25+20000 20d15+25
+2000000 1800000
+8 8 1
+S 8
+R 272
+D 20
+A 12
+#28410
+French Soldier~
+{BOLD,CYAN}A {BLUE}French{CYAN} Soldier{bold,cyan}~
+{CYAN}A {BOLD,BLUE}French {bold,CYAN}soldier is patrolling the trenches.{cyan}
+~
+A proud fighting man is patrolling the french side of the battlefield.
+He is checking for spies and attacks from their archenemies, the english.
+~
+562045028 1074037548 300 S
+48 -35 -5 25d25+3000 15d10+40
+50000 1500000
+8 8 0
+S 131072
+R 284
+D 20
+A 12
+#28411
+Cannonier~
+{YELLOW}The Cannonier{yellow}~
+{YELLOW}The Cannonier{GREEN} is here, inspecting his cannons.{green}
+~
+The officer that oversees the cannons is pacing impatiently up and down
+behind his guns.  He is waiting for orders from the high command, wondering
+when it will be time to fire his beloved cannons again.
+~
+1237319782 1342472872 -500 S
+51 -90 -6 35d27+20000 20d20+30
+2000000 2000000
+8 8 1
+S 8
+R 272
+D 20
+A 12
+#28412
+French Officer~
+A {BOLD,BLUE}French {bold,YELLOW}Officer{yellow}~
+A {BOLD,BLUE}French {bold,YELLOW}officer{RED} paces the room irritably.{red}
+~
+Waiting, waiting, waiting!  That is all we ever seem to be doing these days!
+Where are the good old days of attacking the enemy?  Do we wait till they
+drop dead of boredom?
+~
+1233125476 1342472872 -400 S
+51 -65 -6 30d12+13000 20d15+25
+450000 2500000
+8 8 1
+S 131073
+R 284
+D 20
+A 12
+#28413
+Napoleon~
+{BOLD,BLUE}Napoleon{bold,blue}~
+{BOLD,BLUE}Napoleon{bold,YELLOW}, emperor of {BOLD,BLUE}France{bold,YELLOW}, is standing here.{yellow}
+~
+Napoleon is mumbling to himself, his hand hidden in his coat.  Never before
+has he been defeated in a direct battle, and he is figuring out a way to
+turn what appears to become a definitive defeat into a glorious victory.
+~
+1233125478 1376027304 0 C 3
+52 -100 -7 40d40+25000 25d20+100
+1000000 5000000
+8 8 0
+S 76677122
+R 284
+D 20
+A 12
+#28414
+Josephine~
+{CYAN}Josephine{cyan}~
+{CYAN}Josephine{YELLOW} is lying on the bed, waiting for {BOLD,BLUE}Napoleon{bold,YELLOW} to return.{yellow}
+~
+Beautiful Josephine, at least, that is how she likes to think of herself.
+However, reality takes you somewhat aback.....  She is one of the ugliest
+women you have ever had the misfortune to meet.
+~
+1291845986 1107559080 0 S
+52 -80 -7 30d30+11000 20d15+50
+2000000 3500000
+8 8 2
+S 75497737
+R 284
+D 20
+A 12
+#28415
+Shard Reality~
+A {BOLD,YELLOW}Shard{CYAN} of Reality{cyan}~
+A broken piece of reality is floating around here.
+~
+A piece of the reality that got shattered when you entered the painting
+clings onto itself,  not terribly happy with your actions.....
+~
+427819362 1091830566 0 C 4
+48 -35 -3 10d15+1000 10d10+30
+1000 1600000
+8 8 0
+S 135425
+R 284
+D 20
+A 12
+#28416
+Rembrandt Ghost~
+{BOLD,CYAN}Rembrandt's Ghost{bold,cyan}~
+{BOLD,CYAN}Rembrandt's Ghost{bold,YELLOW} is slumbering here.{yellow}
+~
+The ghost of the great painter has found its resting place here, this is
+where he decided to spend the rest of eternity.  
+~
+687865958 1377075882 0 C 2
+52 -100 -7 17d70+17000 20d20+65
+2000 3000000
+4 4 0
+S 76546497
+R 284
+D 20
+A 12
+#28417
+Twilight~
+{BOLD,GREEN}Twilight{bold,green}~
+{CYAN}A piece, caught between reality and fiction is floating around here.{cyan}
+~
+A piece of twilight is wandering about, caught between reality and fiction
+it is doomed to search for its missing half forever, never knowing which 
+part it lost....
+~
+696262692 1092354856 0 C 4
+49 -45 -6 40d30+3500 15d12+20
+20000 2000000
+8 8 0
+S 4194304
+R 284
+D 20
+A 12
+#28418
+Nightmare~
+{BOLD,RED}Nightmare{bold,red}~
+{CYAN}Your worst {BOLD,RED}nightmare{bold,CYAN} has taken on form and stands before you.{cyan}
+~
+Somehow when you look at it, you see your worst nightmare come to life.
+It takes on form, shapes itself into that what you fear most.  Your legs
+start trembling with fear, fear of the unknown, fear of the known, fear
+of life, fear of death.  You will have to conquer your own......
+~
+1208483910 1108607918 0 C 3
+48 -100 -8 25d25+15000 25d20+100
+15000 1600000
+8 8 0
+S 9442768
+R 284
+D 20
+A 12
+#28419
+Ignorance~
+{BOLD,CYAN}Ignorance{bold,cyan}~
+What? Where? How? I don't believe it....
+~
+Duh! Now what was that again?  What was going on?  You heard anything
+about that?  I never heard of such a thing.  That can't be true!  You
+sure it looked like that?  Sounds impossible to me!
+~
+1225261158 1108607918 0 C 4
+48 -100 -8 20d100+15000 1d100+250
+1500000 1600000
+8 8 0
+S 67113424
+R 284
+D 20
+A 12
+#28420
+Pride~
+{BOLD,GREEN}Pride{bold,green}~
+Pride cometh before the fall......
+~
+Now that you have reached this point, you must beware of the dangers
+of Pride.  To have shown Courage, gained Knowledge, is a great accomplishment,
+but it can create Pride, and Pride is a dangerous opponent....
+~
+1208483910 1343488686 0 C 1
+48 -100 -8 20d40+16000 25d20+80
+500000 5000000
+8 8 0
+S 4199888
+R 284
+D 20
+A 12
+#28421
+Yellow Flake~
+{BOLD,CYAN}A {YELLOW}Yellow{CYAN} Flake{bold,cyan}~
+A sliver of {BOLD,YELLOW}yellow{bold,RED} drops from the ceiling.{red}
+~
+A peeled off piece of yellow paint is lying here, seemingly a part of 
+the floor.
+~
+427819110 1075053358 -500 S
+50 -60 -8 40d20+2000 10d10+25
+500000 2000000
+8 8 0
+S 4198402
+R 284
+D 20
+A 12
+#28422
+Chaos~
+{BOLD,BLUE}C{RED}H{YELLOW}A{WHITE}O{CYAN}S{bold,cyan}~
+A piece of a Julia map is floating around here.
+~
+When you look at it, it makes you dizzy, there doesn't seem to be a 
+beginning nor an end to it.  And it seems impossible to even follow the
+contours, all look alike, yet are different sizes, and it seems to repeat
+itself over and over again, but not quite either.......
+~
+1103642722 1377076110 0 C 3
+52 -90 -3 150d20+17000 15d13+60
+800000 5000000
+8 8 0
+S 1054416
+R 284
+D 20
+A 12
+#28423
+Order~
+{BOLD,CYAN}Order{bold,cyan}~
+{YELLOW}A large, rectangular, object is blocking your way.{yellow}
+~
+This large pillar of stark white blank nothing is the opposite of chaos,
+welldefined, clean, but just as dangerous and restricting....  For if not
+checked it will provide a straightjacket for truth, as opposed to the
+wide and careless abandon imposed by Chaos.
+~
+1225293860 1342472744 -1000 C 2
+60 -100 -8 40d40+28000 5d80+120
+200000 4000000
+8 8 0
+S 72357328
+R 8388892
+D 20
+A 12
+#28424
+Reality~
+Reality~
+Reality bites.
+~
+You attempt to flee but you are too exhausted.
+You attempt to flee but you are too exhausted.
+You attempt to flee but you are too exhausted.
+
+Can't escape from reality, now can you?
+~
+1229455718 1342472876 0 C 1
+60 -100 -8 20d20+24000 30d20+120
+777777 3000000
+8 8 0
+S 9444848
+R 8388892
+D 20
+A 12
+#28425
+Light~
+{BOLD,YELLOW}L{WHITE}i{YELLOW}g{WHITE}h{YELLOW}t{yellow}~
+{BOLD,CYAN}A bright {YELLOW}l{WHITE}i{YELLOW}g{WHITE}h{YELLOW}t{CYAN}, hoping to enlighten you, is glowing here.{bold,cyan}
+~
+You are standing in front of the light of lights, past this, is the treasure
+that you have been looking for, the rewards for your long and hard journey.
+~
+1228931174 1526989480 0 C 4
+60 -100 -8 30d30+30000 5d125+100
+2000000 2000000
+8 8 0
+S 72356304
+R 8388892
+D 20
+A 12
+#28426
+Hoarder~
+{BOLD,RED}Hoarder{bold,red}~
+{BOLD,GREEN}Equipment, equipment, I want your equipment!{bold,green}
+~
+Duh! He HOARDS!  Get IT?
+~
+295698532 1527022506 0 S
+60 -80 -2 1d1+200 7d7+30
+0 1125000
+8 8 0
+S 67248128
+R 284
+D 20
+A 12
+#28427
+Gas~
+{BOLD,GREEN}Gas{bold,green}~
+{BOLD,GREEN}A cloud of poison gas is floating here.{bold,green}
+~
+Swirling clouds of a yellowish vapor surround you, making it hard to breathe,
+and slowly you loose all coherent thought......
+~
+1283457126 1343488702 400 S
+60 -100 -7 1d1+25000 10d15+25
+2000000 5000000
+8 8 0
+S 26540800
+D 20
+A 12
+#28428
+Cloak~
+{BOLD,BLUE}Cloak{bold,blue}~
+{BOLD,BLUE}A cloak of darkness surrounds you.{bold,blue}
+~
+Hard to penetrate, this cloud of darnkness, but, looking closer, you see
+something that looks like letters.  They seem to say: "No help, nobody to
+help you....."  Or somthing like that.....
+~
+1275240514 1377043134 400 S
+55 -100 -10 40d33+6000 20d18+70
+2000000 5000000
+8 8 0
+S 16822848
+R 284
+D 20
+A 12
+#28429
+Junkie~
+{BOLD,YELLOW}A Junkie{bold,yellow}~
+{YELLOW}A {GREEN}sickly{YELLOW} looking guy, with scratch marks on his arms, is walking here.{yellow}
+~
+Hair tangled, rotten teeth, disintegrating clothes.  Basically, this 
+figure looks like he just walked out of a garbage dump and was 
+resurrected by accident.  It seems he wants something from you, the
+way he's looking at you doesn't inspire a whole lot of trust.  Besides,
+that big knife he's holding doesn't look like its used for slicing salami...
+
+~
+478151140 1211368104 0 S
+52 -20 -2 10d10+1000 10d9+30
+100 4000000
+8 8 2
+S 385
+R 2097152
+D 20
+A 12
+#28430
+Bar Brawler~
+{BOLD,GREEN}A Bar Brawler{bold,green}~
+A big guy, looking for a {BOLD,YELLOW}GREAT!{bold,RED} time, is wandering around.{red}
+~
+A rather large, well muscled, tattooed guy is sauntering around, looking
+for a place he can get a drink and maybe something more.  He seems quite
+at home here, and you get the distinct impression that he's been here
+before.
+~
+402653280 1211401128 0 C 1
+45 -20 -3 50d20+1000 12d9+40
+100000 2000000
+8 8 0
+S 9
+D 20
+A 12
+#28431
+Oggling Tourist~
+{BLUE}An Oggling Tourist{blue}~
+{BOLD,BLUE}A shifty looking man is looking around, his eyes popping out of his head.{bold,blue}
+~
+As he's walking along the canals, his eyes pop out of his face, trying
+to take in everything he sees displayed behind the showwindows.  
+Occasionally he'll stop to look at a girl that particularly grabs his
+fancy, but, he doesn't seem to be able to get up enough courage to
+actually enter that realm of fantasies that's awaiting him.....
+~
+134221920 1211400744 0 C 3
+51 -20 -4 40d25+2000 15d10+45
+200000 2000000
+8 8 0
+S 8388611
+D 20
+A 12
+#28432
+Hash Pusher Hippie~
+{BOLD,BLUE}An Old {YELLOW}H{GREEN}i{RED}p{CYAN}p{BLUE}i{WHITE}e{bold,white}~
+An old hippie is standing here, examining his menu.
+~
+Looking at you with a benevolent smile he says "What can i get you?"
+Showing you the menu he has in his hands.  His striped shirt looks like
+it could use a good cleaning, and his hair is braided in the old hippie
+style. He seems to have found his place and appears quite pleased with
+himself.
+~
+402792546 1210352296 0 C 1
+52 -30 -5 65d32+9000 12d12+40
+600000 2000000
+8 8 0
+S 67109056
+D 20
+A 12
+#28433
+Disco Freak~
+{YELLOW}A {BOLD,BLUE}D{RED}i{YELLOW}s{GREEN}c{CYAN}o{bold,YELLOW} Freak{yellow}~
+Wearing bellbottom pants and platform shoes, this dude looks HIP!
+~
+Jikes!! It's a relic from the seventies!  His jacket has glitter on it,
+his shoes add about 5 inches to his height and his sideburns go aaaalllll
+the way down his cheek.  Cheeky bugger!
+~
+134218210 1210319784 0 S
+46 -15 -2 50d10+700 3d60+22
+100000 2000000
+8 8 0
+S 1988
+D 20
+A 12
+#28434
+Rat largerat~
+{YELLOW}A large {GREEN}Rat{green}~
+{YELLOW}A large {GREEN}rat{YELLOW} is scuttling about here.{yellow}
+~
+Gross!!!! YUCK!!!  A RAT!
+~
+276824164 1077183274 0 S
+42 -10 -1 8d20+800 20d5+20
+35000 5000000
+8 8 0
+S 8388672
+R 1048576
+D 20
+A 12
+#28435
+Dope Hash User~
+{BOLD,CYAN}A Dope Smoking Guy{bold,cyan}~
+{YELLOW}Big clouds of {BOLD,BLUE}blueish{bold,YELLOW} smoke poor from this guys ears.{yellow}
+~
+Sitting at a table, completely relaxed, he is holding a gigantic joint
+that he is sharing with his friends.  A couple of grams of the best
+stuff is lying around, for easy access and future use.  
+~
+402653282 1210319784 0 S
+48 -20 -4 30d30+1700 11d10+25
+400000 5000000
+8 8 0
+S 1352
+D 20
+A 12
+#28436
+Male Participant Nude~
+A {YELLOW}Naked {WHITE}Guy~
+You can just see one of the legs of this guy sticking out of a tangle of bodies.
+~
+Yahooo!!! He seems to be having a blast here!  Without any qualms
+he dives into the tangle of naked bodies sprawled around the room.
+Kewl!!!! This is the place to be!
+~
+402654310 1210319784 0 C 1
+49 -15 -3 13d13+1333 1d200+1
+400000 5000000
+8 8 1
+S 463
+D 20
+A 12
+#28437
+Female Participant Nude Naked~
+A {YELLOW}Naked {WHITE}Gal~
+A big round breast is sticking out of a tangle of bodies.  Yummie!
+~
+Oh goodie!  She is definitely up for this here party!  No doubt
+about it at all!  No sirree!  With a guy on one side and a girl
+on the other, she seems to have found her place in heaven.
+~
+402654310 1210319656 0 C 14
+49 -15 -3 15d55+1555 2d80+12
+400000 5000000
+8 8 2
+S 67110209
+D 20
+A 12
+#28438
+Kareltje~
+Kareltje the Bartender~
+The bartender is standing here, tending to his bar.
+~
+Kareltje has lived his whole life in this area, and he's not about
+to leave.  He's seen wars come and go, tourists get mugged, police
+raids on drugs and the hippies chanting in the streets.  He's happy,
+he's content, and his customers are his friends.
+~
+738205702 1745093288 -600 C 2
+50 -30 -4 150d20+10000 13d10+25
+600000 5000000
+8 8 1
+S 4194304
+D 20
+A 12
+#28439
+Motor Mouse~
+{YELLOW}A {BOLD,BLUE}Motor {bold,YELLOW}Mouse{yellow}~
+A {BOLD,CYAN}Large Biker{bold,RED} is standing here, quaffing beer.{red}
+~
+Big, with a HUGE beerbelly, this guy looks AWESOME!  He's got tattoos,
+rings, necklaces and all sorts of nasty looking things attached to him.
+Maybe it would be a good idea to leave NOW.  Before he notices you.....
+~
+348160098 1747223200 0 C 21
+47 -10 -2 20d15+600 15d8+10
+200000 1000
+8 8 0
+S 324
+D 20
+A 12
+#28440
+Motor Miss~
+{BOLD,CYAN}A Motor {YELLOW}Miss{bold,yellow}~
+{CYAN}A serious {BOLD,YELLOW}Babe!!!!! {RED}Whoooooo!!!!!!{bold,red}
+~
+Yoweee! Now THAT is something you wouldn't mind spending some hours
+or days with on a deserted island.....  Just look at those curves!
+~
+402653254 1074004792 0 C 4
+50 -10 -2 33d33+3000 15d8+10
+100000 1000
+8 8 0
+S 4194308
+D 20
+A 12
+#28441
+Piercer~
+{BOLD,RED}The Piercer{bold,red}~
+Armed with instruments of serious piercing quality, this guy will sell anything.
+~
+Wanna get something pierced?  This is the guy to see!  He will pierce
+any bodypart you care to have perforated.  His selection of pierceables
+seems large and...... odd..... somehow.
+~
+738197574 1074004664 0 C 1
+51 -25 -4 40d40+11000 7d18+30
+100000 1000
+8 8 0
+S 135169
+D 20
+A 12
+#28442
+Blonde~
+{BOLD,YELLOW}The Blonde{bold,yellow}~
+{YELLOW}A tall, {BOLD,BLUE}blue eyed, {YELLOW}blonde{bold,YELLOW} looks at you seductively.{yellow}
+~
+Yack! Yack! Yack! Damn!  This babe is seriously into something!  You
+can't believe your luck, that you had to run into a gal that's this
+good looking, and cheap too!
+~
+738205766 1107559096 0 C 2
+52 -40 -4 40d30+12000 12d10+30
+100000 1000
+8 8 0
+S 4225
+D 20
+A 12
+#28443
+Asian Babe~
+{BOLD,CYAN}The {bold,YELLOW}Asian{BOLD,CYAN} Babe{bold,cyan}~
+{CYAN}Black haired and dressed to {BOLD,RED}KILL{bold,CYAN} this girl sure looks like she knows how to please......{cyan}
+~
+Oh goodie!  You've always wanted to spend some "quality time" in a 
+serious way with a dame like this.  She looks at you with that far away
+look in her eyes and says "Honey.......   YOU are the one i've been
+waiting for all my life......"  And quietly slips out of her leopard
+skin, revealing what she's wearing under there.......
+~
+738197574 1074004664 0 C 2
+52 -40 -4 40d40+11000 10d12+30
+333333 1000
+8 8 0
+S 67108866
+D 20
+A 12
+#28444
+Dominatrix~
+The Dominatrix~
+Dressed in black leather she gently carresses her whip.
+~
+As you look at the well formed blackhaired woman that occupies the room,
+she lets her attention be drawn from the whip she's holding and focusses
+it all on you......  "Is there something I can DO for you?  Is there
+something you had in MIND?", she says in a voice that is used to 
+command...... and clearly not used to any objections.......
+~
+474128486 1745093304 0 C 4
+55 -25 -4 40d30+4500 5d27+18
+100000 1000
+8 8 0
+S 67110080
+D 20
+A 12
+#28445
+Museum Guard~
+The Museum Guard~
+A tall, mean looking guard is standing here.
+~
+A big guard is guarding the entrance to the museum.  You sure you
+got yourself a ticket?  If not, you'll have to get by him somehow.
+~
+469762118 1610875448 0 S
+48 -40 -4 44d4+4444 4d60+1
+150000 1000
+8 8 0
+S 8389960
+D 20
+A 12
+#28446
+Video Addict~
+{BOLD,YELLOW}The Video Addict{bold,yellow}~
+A lonely guy is staring at the screen here, completely absorbed.
+~
+Guarding a large stack of videos with a vengeance he hardly glances up
+from the screen as you enter the booth.  He doesn't seem to care too much
+that you've obviously caught him in a half undressed state......  The
+only thing he seems really interested in is the stack of videos and the
+screen.
+~
+746586118 1745093288 -600 S
+50 -55 -4 50d25+8000 12d10+100
+300000 5000000
+8 8 1
+S 8650948
+R 2097152
+D 20
+A 12
+#28447
+Sex Shopper~
+A Sex Shopper~
+A guy fidgeting around a stack of vibrators and blowup dolls is standing here.
+~
+Clearly looking for something, he seems to not want you to know what
+it is he is looking for.  He runs from the display of blowup dolls to
+the array of devices used for the constriction of fellow humans, to
+the rack with magazines and books.  Occasionally he'll throw a glance
+in your direction, hoping you will go away so he can make his purchase
+in private.
+~
+469762054 1745126184 -600 S
+50 -5 -2 11d11+1111 1d150+10
+2 5000000
+8 8 1
+S 257
+D 20
+A 12
+#28448
+Ancient Art Statue~
+{BOLD,CYAN}A Statue of Brazen Images{bold,cyan}~
+Towering above you, stands a statue depicting the art of making out.
+~
+Not much is hidden here, this gigantic statue shows you in exquisite
+detail the various positions of intercourse that have been explored
+over the centuries.  It is a mix of all the various positions humans
+have come up with over time, some of which baffle you just being 
+introduced to them.....
+~
+671088642 1745093288 -600 S
+52 -10 -3 5d55+5555 5d30+20
+200000 5000000
+8 8 1
+S 67239952
+D 20
+A 12
+#28449
+Roman Statue~
+{BLUE}The Roman Statue{blue}~
+A statue of the roman interpretation is standing here....
+~
+Dang...... Those old romans had some weird ideas!  Bulls?  Horses?
+What were they thinking??????   How did they ever come up with these
+ideas? And, to present it all as an entertainment set, extraordinary!
+~
+402661414 1745093288 -600 C 1
+52 -10 -3 44d44+4444 15d11+50
+200000 5000000
+8 8 1
+S 4194497
+D 20
+A 12
+#28450
+Monk~
+{YELLOW}The Monk{yellow}~
+A monk is standing here, entertaining a nun.
+~
+Those monks sure knew how to tell other people what they couldn't do,
+but, looking at this, you get the distinct impression they didn't
+really live by those rules themselves.......  What this monk is doing
+to that nun is seems to violate at least five of the ten commandments....
+~
+478150950 1745125928 0 C 12
+52 -10 -3 10d100+10000 15d10+40
+2500000 5000000
+8 8 1
+S 8
+D 20
+A 12
+$~

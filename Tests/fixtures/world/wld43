@@ -1,0 +1,2273 @@
+#4300
+{C,BO}Tutorial - Rooms{b}~
+
+{wh}  The game of Northern Crossroads is made up of a series of rooms.
+{wh}  In fact, you're standing in one of those rooms right now! These
+{wh}  rooms can be absolutely anything. Here in the Northern Crossroads
+{wh}  we vary from swamplands, marshes, deserts, forests, cities, plains,
+{wh}  and any other landscape your mind can possibly comprehend.
+
+{wh}  In order to navigate through these rooms, you'll need to learn the
+{wh}  basic directional commands. These are: {Y,BO}north, east, south, {b}and {Y,BO}west.{b}
+{wh}  These commands can also be shortened to {Y,BO}n, e, s, {b}and {Y,BO}w.{b}
+
+{wh}  If you ever get lost and forget what you're doing in a specific room,
+{wh}  the {Y,BO}"Look"{b} command is always available by either typing {Y,BO}"look" or "l".{b}
+
+{wh}  In order to continue this tutorial, please proceed north by typing
+{Y,BO}  north or n.{b}
+
+~
+43 0 2
+D0
+~
+~
+0 -1 4301
+Z-1
+C-1
+R0
+S
+#4301
+{C,BO}Tutorial - Moving Around The Game{b}~
+
+{wh}  The most used commands in Northern Crossroads are the various
+{wh}  movement commands. We've already discussed north, east, south,
+{wh}  and west, but when you are forced to climb up stairs or jump
+{wh}  into a hole, it is necessary to move either {Y,BO}Up or Down{b}.
+
+{wh}  In order to move upwards, simply type {Y,BO}Up (Or u for short).{b}
+{wh}  And in order to move downwards, type {Y,BO}Down (Or d for short).{b}
+{wh}  Rooms have been added to the west, east, up, and down, and are
+{wh}  ready for you to explore! When you feel you have mastered the art
+{wh}  of movement, feel free to move northward and continue the tutorial.{b}
+
+~
+43 0 2
+D0
+~
+~
+0 -1 4306
+D1
+~
+~
+0 -1 4302
+D2
+~
+~
+0 -1 4300
+D3
+~
+~
+0 -1 4303
+D4
+~
+~
+0 -1 4304
+D5
+~
+~
+0 -1 4305
+Z-1
+C-1
+R0
+S
+#4302
+{C,BO}Tutorial - Moving Around The Game{b}~
+
+{wh}  Very good! You've just moved towards the east. Now to get back
+{wh}  to the previous room, please go west.{b}
+
+~
+43 0 2
+D3
+~
+~
+0 -1 4301
+Z-1
+C-1
+R0
+S
+#4303
+{C,BO}Tutorial - Moving Around The Game{b}~
+
+{wh}  Well done! You have successfully moved west into this room! Now
+{wh}  to move back, please go east.{b}
+
+~
+43 0 2
+D1
+~
+~
+0 -1 4301
+Z-1
+C-1
+R0
+S
+#4304
+{C,BO}Tutorial - Moving Around The Game{b}~
+
+{wh}  Well done! You have successfully moved upwards into this room!
+{wh}  Now to move back to the previous room, please go down.{b}
+
+~
+43 0 2
+D5
+~
+~
+0 -1 4301
+Z-1
+C-1
+R0
+S
+#4305
+{C,BO}Tutorial - Moving Around The Game{b}~
+
+{wh}  Very good! You've moved downwards into this room. In order to
+{wh}  get back out, you must travel back up.{b}
+
+~
+43 0 2
+D4
+~
+~
+0 -1 4301
+Z-1
+C-1
+R0
+S
+#4306
+{C,BO}Tutorial - Help{b}~
+
+{wh}  If another player is unable to assist you by answering questions
+{wh}  over the ADVICE or GOSSIP channel, it's always a good idea to
+{wh}  browse through our help files. One will probably hold the answer
+{wh}  to your questions.
+
+{wh}  In order to view a help file, you will need to type "help" and
+{wh}  then have it followed by what you're searching for. For example,
+{wh}  if you were curious on how to communicate with other players,
+{wh}  the most popular topic would be "Help Say". If you get a chance,
+{wh}  typing help by itself offers some very basic files that may be
+{wh}  worth your time reading whether it be now, or farther along into
+{wh}  the game!
+
+{wh}  When you have finished, continue north into the next tutorial
+{wh}  room.{b}
+
+~
+43 0 2
+D0
+~
+~
+0 -1 4307
+D2
+~
+~
+0 -1 4301
+Z-1
+C-1
+R0
+S
+#4307
+{C,BO}Tutorial - Communication{b}~
+
+{wh}  Somewhere along your journey, you'll come across opportunities
+{wh}  to communicate with other members of this community. In order
+{wh}  to do that, three basic commands have been left for you to
+{wh}  utilize. Those are: {C,BO}Say, Tell, {b}and {C,BO}Gossip.{b}
+
+{wh}  In order to use any of these commands, you must type the method
+{wh}  (say, gossip, tell) followed by what you would like to send.
+
+{wh}  Says are only broadcast to the room you're currently standing
+{wh}  within. While gossips span across the entire world for all to
+{wh}  hear, and finally, tells are for private messages you need to
+{wh}  send directly to a specific player.{b}
+
+~
+43 0 2
+D0
+~
+~
+0 -1 4308
+D2
+~
+~
+0 -1 4306
+Z-1
+C-1
+R0
+S
+#4308
+{C,BO}Tutorial - Channels{b}~
+
+{wh}  Throughout the came, you'll encounter various things you'd like
+{wh}  to say. Gossip is currently the most used channel and welcomes
+{wh}  any sort of conversation as long as the topic is not profane.
+{wh}  However, if you are searching for a place where you can vent
+{wh}  freely, the flame channel is where you should head. There are
+{wh}  many other channels, including ones for sports, music, and
+{wh}  roleplayers. To see a full list, type "channels". To turn a
+{wh}  specific channel on for you to hear, type "channel" followed
+{wh}  by the name of the channel. For example: "channel flame".{b}
+
+~
+43 0 2
+D0
+~
+~
+0 -1 4309
+D2
+~
+~
+0 -1 4307
+Z-1
+C-1
+R0
+S
+#4309
+{C,BO}Tutorial - Equipment{b}~
+
+{wh}  A major part of this game is finding equipment for you to use.
+{wh}  This can be accomplished through a variety of methods. The most
+{wh}  basic of which, is killing NPCs. There are hundreds of areas,
+{wh}  well over 30,000 rooms, and a ton of NPCs out for you to hunt.
+
+{wh}  To wear a piece of equipment you receive, use the "wear" command.
+{wh}  To remove a piece of equipment, use the "remove" command.
+{wh}  To wield a weapon you find, use the "wield" command.
+{wh}  To unwield a weapon you find, use the "unwield" command.
+{wh}  To attempt to wear everything, use the "wear all" command.
+
+~
+43 0 2
+D0
+~
+~
+0 -1 4310
+D2
+~
+~
+0 -1 4308
+Z-1
+C-1
+R0
+S
+#4310
+{C,BO}Tutorial - Health, Mana, and Movement{b}~
+
+{wh}  Health, Mana, and Movement are three of the most vital things
+{wh}  to understand in Northern Crossroads.
+
+{wh}  Health is the amount of health that your player currently has.
+{wh}  If your health happens to drop all the way to zero, you will die
+{wh}  and your corpse (along with your equipment) will be left on the
+{wh}  ground in the room where you met your death.
+
+{wh}  Mana is the amount of magic you're able to use. Every spell
+{wh}  costs a set amount of mana, and once your pool of mana has
+{wh}  drained low enough, you'll need to wait a few minutes for it
+{wh}  to recharge.
+
+{wh}  Finally, movement dictates how far you can move, as well as how
+{wh}  long you can fight. With every attack, you're movement will slowly
+{wh}  drop, and once it is gone, you'll need to find food, drink, or
+{wh}  a place to rest until it regenerates.
+
+~
+43 0 2
+D0
+~
+~
+0 -1 4311
+D2
+~
+~
+0 -1 4309
+Z-1
+C-1
+R0
+S
+#4311
+{C,BO}Tutorial - Skills{b}~
+
+{wh}  In order to conquer your opponent, you will need to know various
+{wh}  skills to help out in your combat. Each class holds a different
+{wh}  skill set, but all are very useful in their own way. You'll need
+{wh}  to train these skills as you explore at your guildmaster. Depending
+{wh}  on which class you have chosen, the directions to your guildmaster
+{wh}  will be posted in the "DIR list" which can be accessed by typing
+{wh}  "dir".
+
+~
+43 4 2
+D0
+~
+~
+0 -1 4312
+D2
+~
+~
+0 -1 4310
+Z-1
+C-1
+R0
+S
+#4312
+{CY,BO}Tutorial - Spells{b}~
+
+{wh}  Some classes have a series of helpful spells. For example, a
+{wh}  mage can cast a 'solar flare', or a cleric can cast 'heal',
+{wh}  while a sorcerer can 'teleport'. All these are helpful and
+{wh}  unique, but every caster needs to know their basics in order
+{wh}  to develop a mastery in their art.
+
+{wh}  To begin, to cast a spell, you must be sure you've trained it
+{wh}  at your trainer, otherwise the spell will be ineffective, and
+{wh}  might even backfire when you attempt to cast. Secondly, any
+{wh}  wizard should know how to utter the words of power. You can do
+{wh}  this by typing "{C,BO}cast '<spell>'{b}".
+
+{wh}  Soon you'll be on your way to becoming one of the best, so
+{wh}  take some time to go over the knowledge you've learned thus
+{wh}  far before moving on.{b}
+
+~
+43 0 2
+D0
+~
+~
+0 -1 4313
+D2
+~
+~
+0 -1 4311
+Z-1
+C-1
+R0
+S
+#4313
+{C,BO}Tutorial - Combat{b}~
+
+{wh}  To begin combat with an NPC, the most basic command at your disposal
+{wh}  is the "kill" command. If you type "kill mob" it will automatically
+{wh}  attack the first NPC in the room, and all you have to do is kick back
+{wh}  and watch your character do all the work.
+
+{wh}  Mind you, combat won't always be as easy as this. Most areas around
+{wh}  Northern Crossroads will prove to be much more difficult.
+
+~
+43 0 2
+D0
+~
+~
+0 -1 4314
+D2
+~
+~
+0 -1 4312
+Z-1
+C-1
+R0
+S
+#4314
+{C,BO}Tutorial - Final Room{b}~
+
+{wh}  Congratulations! You have reached the very last room, and thus
+{wh}  have completed your training. In order to move onto the next
+{wh}  area, you will need to enter the portal here. To do this, type
+{wh}  "enter portal".  Us here at the Northern Crossroads look forward
+{wh}  to your arrival. 
+
+{wh}                Welcome to the Northern Crossroads
+
+~
+43 0 2
+D2
+~
+~
+0 -1 4313
+Z-1
+C-1
+R0
+S
+#4315
+{BO,GREEN}G{bo,green}{BO,RED}a{bo,red}{BO,GREEN}r{bo,green}{BO,RED}d{bo,red}{BO,GREEN}e{bo,green}{BO,RED}n{bo,red} {BO,BLACK}M{bo,black}{BO,RED}a{bo,red}{BO,BLACK}z{bo,black}{BO,RED}e{bo,red}~
+
+     The ominous roar of thunder seems to be getting louder and 
+     louder the more you wander around in this God-forsaken maze.
+     Off in the distance you can see the very tiptop of something. 
+     You can't tell what, but it seems to be where the storm is a 
+     brewing.
+
+~
+43 0 2
+D0
+~
+~
+0 -1 4318
+Z3
+C-1
+R0
+S
+#4316
+{BO,BLACK}Rock{bo,black} {BO,GREEN}G{bo,green}{BO,RED}a{bo,red}{BO,GREEN}r{bo,green}{BO,RED}d{bo,red}{BO,GREEN}e{bo,green}{BO,RED}n{bo,red}~
+
+     Here large boulders are strewn about carelessly as if a child
+     had spilled a bag of marbles. There seems to be no distinct 
+     pattern to their layout. Although it's not completely 
+     unattractive, somehow it gives you an eerie feeling.
+
+~
+43 0 2
+D1
+~
+~
+0 -1 4317
+Z3
+C-1
+R0
+S
+#4317
+{BO,BLACK}DEATH{bo,black} {WHITE}LILIES{white}~
+
+     As you stumble past the rocks, a very large patch of 
+     lilies, not any normal lilies but {BLA,BO}death lilies{bla,bo}, greets you. 
+     The air reeks of decay. Along with the strange storm brewing 
+     almost overhead, this place is starting to give you the willies.
+
+~
+43 0 2
+D1
+~
+~
+0 -1 4318
+D3
+~
+~
+0 -1 4316
+Z3
+C-1
+R0
+S
+#4318
+{BO,GREEN}G{bo,green}{BO,RED}a{bo,red}{BO,GREEN}r{bo,green}{BO,RED}d{bo,red}{BO,GREEN}e{bo,green}{BO,RED}n{bo,red} {BO,BLACK}M{bo,black}{BO,RED}a{bo,red}{BO,BLACK}z{bo,black}{BO,RED}e{bo,red}~
+
+     The storm overhead seems to be getting worse with every    
+     step you take. Off in the distance you can make out the 
+     distinct outline of a large building. The building itself seems 
+     to be swirling in vortex of darkness!
+
+~
+43 0 2
+D2
+~
+~
+0 -1 4315
+D3
+~
+~
+0 -1 4317
+Z3
+C-1
+R0
+S
+#4319
+{R,BO}T{r,bo}{W}o{w}{R,BO}r{r,bo}{W}t{w}{R,BO}u{r,bo}{W}r{w}{R,BO}e{r,bo} {W}Room{w}~
+
+
+     Scattered through out the room lie various devices of torture 
+     and death. The moans of all those who have been tortured from 
+     ages long ago forgotten fill the room. All the devices bare 
+     a grim reminder of their trade: bones and bloodstains are 
+     everywhere. Standing in the center of this room is the 
+     caretaker of this dreaded room.
+
+~
+43 8 0
+D0
+~
+door~
+2 -1 4323
+Z4
+C-1
+R0
+S
+#4320
+{BO,BLUE}Temple{bo,blue} Entrance~
+
+     Once inside the temple you are greeted by a foul smell, the 
+     smell of death and utter evil. The few stained glass windows 
+     that are here all depict almost the same scene: the lord of 
+     all demons, standing victorious over an angelic figure.
+
+~
+43 12 0
+D0
+~
+~
+0 -1 4325
+Z4
+C-1
+R0
+S
+#4321
+{WHITE}Silent{white} Hallway~
+
+     This place has a feeling of the forbidden to it. Almost, like 
+     you shouldn't be intruding here. It is too quiet here for you 
+     liking so you should get a move on if you want to make it out 
+     of here alive.
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4327
+D1
+~
+door~
+6 4302 4322
+Z4
+C-1
+R0
+S
+#4322
+{BO,RED}S{bo,red}{BO,BLACK}a{bo,black}{BO,RED}c{bo,red}{BO,BLACK}r{bo,black}{BO,RED}i{bo,red}{BO,BLACK}f{bo,black}{BO,RED}i{bo,red}{BO,BLACK}c{bo,black}{BO,RED}e{bo,red} Room~
+
+     The faint sound of chanting fills this room. The only lights
+     in here are the ones you carried in and a few candles on a 
+     large bloodstained altar in the center of the room.. This must 
+     be where the hold sacrifices. Along back wall you can make out 
+     the shape of shackles hanging from the wall. This must have 
+     been where they held their sacrifices.
+
+~
+43 8 0
+D3
+~
+door~
+1 -1 4321
+Z4
+C-1
+R0
+S
+#4323
+{BO,WHITE}Silent{bo,white} Hallway~
+
+     Here at the end of the dimly lit hallway you see signs of 
+     numerous struggles, although its hard to tell how long ago they 
+     happened. There are loose cobblestones in the floor, as if 
+     something has been dragged over them numerous times.
+
+~
+43 8 0
+D1
+~
+~
+0 -1 4324
+D2
+~
+door~
+6 4301 4319
+Z4
+C-1
+R0
+S
+#4324
+{BO,BLACK}A Dark Intersection{bo,black}~
+
+     You start to get a little disoriented as you move further 
+     down this hallway. You don't know what causes it: it could be 
+     the malevolence of this unholy temple
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4328
+D1
+~
+~
+0 -1 4325
+D3
+~
+~
+0 -1 4323
+Z3
+C-1
+R0
+S
+#4325
+{WHI}Foyer{whi}~
+
+     You are now standing in the foyer of a temple dedicated to 
+     the {R,BO}Lord{r,bo} of {BLA,BO}Demons{bla,bo}. On the floor is a HUGE mosaic of the symbol of {BLA,BO}O{bla,bo}{BLU}r{blu}{BLA,BO}c{bla,bo}{BLU}u{blu}{BLA,BO}s{bla,bo}.
+
+~
+43 8 0
+D1
+~
+~
+0 -1 4326
+D2
+~
+~
+0 -1 4320
+D3
+~
+~
+0 -1 4324
+Z3
+C-1
+R0
+S
+#4326
+{BO,BLACK}A Dark Intersection{bo,black}~
+
+     You start to get a little disoriented as you move further 
+     down this hallway. You don't know what causes it: it could be 
+     the malevolence of this unholy temple.
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4329
+D1
+~
+~
+0 -1 4327
+D3
+~
+~
+0 -1 4325
+Z4
+C-1
+R0
+S
+#4327
+{BO,YELLOW}T{bo,yellow}{BO,BLACK}W{bo,black}{BO,YELLOW}I{bo,yellow}{BO,BLACK}S{bo,black}{BO,YELLOW}T{bo,yellow}{BO,BLACK}E{bo,black}{BO,YELLOW}D{bo,yellow} Hallway~
+
+     As you walk a little further the disoriented feeling goes 
+     away as quickly as it came. The forbidden feeling, that you 
+     shouldn't be there, is still hanging in the air. Everywhere
+     you go it's there. Coming for a little way down the hallway you 
+     can make out a faint sound: it sounds like...like chanting?
+
+~
+43 8 0
+D2
+~
+~
+0 -1 4321
+D3
+~
+~
+0 -1 4326
+Z4
+C-1
+R0
+S
+#4328
+{WHI}Hallway of{whi} {C,BO}I{c,bo}{BLU,BO}l{blu,bo}{C,BO}l{c,bo}{BLU,BO}u{blu,bo}{C,BO}s{c,bo}{BLU,BO}i{blu,bo}{C,BO}o{c,bo}{BLU,BO}n{blu,bo}{C,BO}s{c,bo}~
+
+
+     You are completely disoriented. You don't know up from down or
+     left from right. You would swear you can see people from your 
+     past standing before you, to only melt away into images of demons
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4324
+D2
+~
+~
+0 -1 4331
+Z4
+C-1
+R0
+S
+#4329
+Hallway of {BO,CYAN}I{bo,cyan}{BO,BLUE}l{bo,blue}{BO,CYAN}l{bo,cyan}{BO,BLUE}u{bo,blue}{BO,CYAN}s{bo,cyan}{BO,BLUE}i{bo,blue}{BO,CYAN}o{bo,cyan}{BO,BLUE}n{bo,blue}{BO,CYAN}s{bo,cyan}~
+
+     You are completely disoriented you don't know up for down 
+     left from right. You would swear you can see people form you're 
+     past standing before you to only melt away to be replaced with 
+     the images of demons.
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4326
+D2
+~
+~
+0 -1 4333
+Z4
+C-1
+R0
+S
+#4330
+{BO,RED}Dead End!!{bo,red}~
+
+     Fear seems to have numbed your mind, for you seem to have 
+     taken a wrong turn. The hallway just ends -- no doors, no 
+     window, no nothing. It just ends.
+
+~
+43 8 0
+D1
+~
+~
+0 -1 4331
+Z4
+C-1
+R0
+S
+#4331
+{BO,BLACK}A Dark Intersection{bo,black}~
+
+     You start to get a little disoriented as you move further 
+     down this hallway. You don't know what causes it: it could be 
+     the malevolence of this unholy temple
+
+~
+43 8 0
+D1
+~
+~
+0 -1 4332
+D2
+~
+~
+0 -1 4328
+D3
+~
+~
+0 -1 4330
+Z4
+C-1
+R0
+S
+#4332
+{WHITE}Haunted Hallway{white}~
+
+     The hallway seems to hold all the souls claimed by the demon 
+     lord and his followers. Their cries are almost enough to drive 
+     you crazy. Some begging for forgiveness others cursing the gods 
+     for letting this happen to them. Yet some seem to want to 
+     strike out at all who pass for letting this curse fall unpon 
+     them. 
+
+~
+43 8 0
+D1
+~
+~
+0 -1 4333
+D3
+~
+~
+0 -1 4331
+Z4
+C-1
+R0
+S
+#4333
+{BO,BLACK}A Dark Intersection{bo,black}~
+
+
+     You start to get a little disoriented as you move further 
+     down this hallway. You don't know what causes it: it could be 
+     the malevolence of this unholy temple.
+
+~
+43 8 0
+D1
+~
+~
+0 -1 4334
+D2
+~
+~
+0 -1 4329
+D3
+~
+~
+0 -1 4332
+Z4
+C-1
+R0
+S
+#4334
+{WHI}Meeting Room{whi}~
+
+     You seem to be standing in some kind of meeting chamber, no 
+     furniture adorn this room. On the floor is a masterfully 
+     crafted rug, depicting yet again the corrupt symbol of {BLA,BO}O{bla,bo}{BLU}r{blu}{BLA,BO}c{bla,bo}{BLU}u{blu}{BLA,BO}s{bla,bo}.
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4335
+D3
+~
+~
+0 -1 4333
+Z4
+C-1
+R0
+S
+#4335
+{WHI}Before the{whi} {BLUE}Chapel{blue}~
+
+     You seem to be heading toward a chapel. A chapel dedicated to 
+     this dark lord is a disturbing thought. How any one could serve 
+     him is  beyond your comprehension.
+
+~
+43 8 0
+D1
+~
+~
+0 -1 4336
+D2
+~
+~
+0 -1 4334
+Z4
+C-1
+R0
+S
+#4336
+{WHI}The{whi} {BLA,BO}Dark{bla,bo} {WHI}of{whi} {BLA,BO}O{bla,bo}{BLU}r{blu}{BLA,BO}c{bla,bo}{BLU}u{blu}{BLA,BO}s{bla,bo}~
+
+     This room is lit with candles giving this place a mystical, 
+     unearthly atmosphere to it. Standing in the back of the room 
+     behind an altar is a priest. Upon the altar are several 
+     unpleasant offerings.
+
+~
+43 8 0
+D1
+~
+alter~
+6 4303 4337
+D3
+~
+~
+0 -1 4335
+Z4
+C-1
+R0
+S
+#4337
+{WHI}Behind the{whi} {R,BO}Blood{r,bo} {WHI}Stained Altar{whi}~
+
+     This must be only for the higher priest of Orcus. There is 
+     a stairwell that leads up, althogh up to what is hard to say. 
+     But that familiar queasy, disoriented feel seems to be 
+     returning.
+
+~
+43 8 0
+D5
+~
+~
+0 -1 10600
+Z4
+C-1
+R0
+S
+#4338
+{WHI}Stairwell{whi}~
+
+     Upon reaching the top of the stairs you are overwhelmed by 
+     the feeling of hopelessness. For your reality and mortality 
+     mean nothing here. You are completely disoriented.
+
+~
+43 12 0
+D0
+~
+~
+0 -1 4339
+D5
+~
+~
+0 -1 4337
+Z4
+C-1
+R0
+S
+#4339
+{W}Room of{w} {W}M{w}{BLA,BO}i{bla,bo}{W}r{w}{BLA,BO}r{bla,bo}{W}o{w}{BLA,BO}r{bla,bo}{W}s{w}~
+
+     Everywhere you look they are mirrors. On the ceiling, the 
+     floor, the walls, everywhere! All of them show the same 
+     reflection. A reflection of you that slowly fades away and 
+     is replaced with the image of a demon reaching out.
+
+~
+43 8 0
+D1
+~
+~
+0 -1 4341
+D2
+~
+~
+0 -1 4340
+D3
+~
+~
+0 -1 4338
+Z4
+C-1
+R0
+S
+#4340
+{W}Room of{w} {C,BO}I{c,bo}{BLU,BO}l{blu,bo}{C,BO}l{c,bo}{BLU,BO}u{blu,bo}{C,BO}s{c,bo}{BLU,BO}i{blu,bo}{C,BO}o{c,bo}{BLU,BO}n{blu,bo}{C,BO}s{c,bo}~
+
+     You are completely disoriented as have lost your sense of 
+     direction. You could almost swear that you can see people 
+     from you're past standing before you. only to melt away and
+     be replaced with the image of a demon that reaches out for 
+     you! 
+
+~
+43 8 0
+D1
+~
+~
+0 -1 4339
+D2
+~
+~
+0 -1 4342
+Z4
+C-1
+R0
+S
+#4341
+{W}Room of{w} {C,BO}I{c,bo}{BLU,BO}l{blu,bo}{C,BO}l{c,bo}{BLU,BO}u{blu,bo}{C,BO}s{c,bo}{BLU,BO}i{blu,bo}{C,BO}o{c,bo}{BLU,BO}n{blu,bo}{C,BO}s{c,bo}~
+
+     You are completely disoriented as have lost your sense of 
+     direction. You could almost swear that you can see people 
+     from you're past standing before you. only to melt away and 
+     be replaced with the image of a demon that reaches out for you! 
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4339
+D2
+~
+~
+0 -1 4344
+D3
+~
+~
+0 -1 4342
+Z4
+C-1
+R0
+S
+#4342
+{W}Room of{w} {W}M{w}{BLA,BO}i{bla,bo}{W}r{w}{BLA,BO}r{bla,bo}{W}o{w}{BLA,BO}r{bla,bo}{W}s{w}~
+
+     Everywhere you look they are mirrors. On the ceiling, the 
+     floor, the walls, everywhere! All of them show the same 
+     reflection. A reflection of you that slowly fades away and 
+     is replaced with the image of a demon reaching out.
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4341
+D1
+~
+mirror~
+8 4304 4345
+D2
+~
+~
+0 -1 4343
+D3
+~
+~
+0 -1 4340
+Z4
+C-1
+R0
+S
+#4343
+{W}Room of{w} {C,BO}I{c,bo}{BLU,BO}l{blu,bo}{C,BO}l{c,bo}{BLU,BO}u{blu,bo}{C,BO}s{c,bo}{BLU,BO}i{blu,bo}{C,BO}o{c,bo}{BLU,BO}n{blu,bo}{C,BO}s{c,bo}~
+
+     You are completely disoriented as have lost your sense of 
+     direction. You could almost swear that you can see people 
+     from you're past standing before you. only to melt away and 
+     be replaced with the image of a demon that reaches out for you
+
+~
+43 8 0
+D1
+~
+~
+0 -1 4342
+D2
+~
+~
+0 -1 4346
+Z4
+C-1
+R0
+S
+#4344
+{BO,YELLOW}T{bo,yellow}{BO,BLACK}W{bo,black}{BO,YELLOW}I{bo,yellow}{BO,BLACK}S{bo,black}{BO,YELLOW}T{bo,yellow}{BO,BLACK}E{bo,black}{BO,YELLOW}D{bo,yellow} {BO,MAGENTA}R{bo,magenta}{BO,BLACK}e{bo,black}{BO,MAGENTA}a{bo,magenta}{BO,BLACK}l{bo,black}{BO,MAGENTA}i{bo,magenta}{BO,BLACK}t{bo,black}{BO,MAGENTA}y{bo,magenta}~
+
+     Here the reality as you knew is totally left behind. As you 
+     step into this room you immediately start walking on the 
+     ceiling then you  take another step and your on one of the 
+     walls, take another and you are back to the floor.
+
+~
+43 8 0
+D2
+~
+~
+0 -1 4349
+D3
+~
+~
+0 -1 4341
+Z4
+C-1
+R0
+S
+#4345
+{BO,RED}M{bo,red}{BO,BLACK}a{bo,black}{BO,RED}s{bo,red}{BO,BLACK}t{bo,black}{BO,RED}e{bo,red}{BO,BLACK}r{bo,black} of {BO,MAGENTA}R{bo,magenta}{BO,BLACK}e{bo,black}{BO,MAGENTA}a{bo,magenta}{BO,BLACK}l{bo,black}{BO,MAGENTA}i{bo,magenta}{BO,BLACK}t{bo,black}{BO,MAGENTA}y{bo,magenta}~
+
+     It seems you have found the master of this little fun house. 
+     Standing before you is the {BO,BLACK}Demon{bo,black} {BO,RED}Lord{bo,red} of {BO,YELLOW}T{bo,yellow}{BO,BLACK}W{bo,black}{BO,YELLOW}I{bo,yellow}{BO,BLACK}S{bo,black}{BO,YELLOW}T{bo,yellow}{BO,BLACK}E{bo,black}{BO,YELLOW}D{bo,yellow} {BO,MAGENTA}R{bo,magenta}{BO,BLACK}e{bo,black}{BO,MAGENTA}a{bo,magenta}{BO,BLACK}l{bo,black}{BO,MAGENTA}i{bo,magenta}{BO,BLACK}t{bo,black}{BO,MAGENTA}y{bo,magenta}. This 
+     room has no laws of physic or common sense. It contains only 
+     pure and unmolested CHAOS!
+
+~
+43 8 0
+Z4
+C-1
+R0
+S
+#4346
+{BO,YELLOW}T{bo,yellow}{BO,BLACK}W{bo,black}{BO,YELLOW}I{bo,yellow}{BO,BLACK}S{bo,black}{BO,YELLOW}T{bo,yellow}{BO,BLACK}E{bo,black}{BO,YELLOW}D{bo,yellow} {BO,MAGENTA}R{bo,magenta}{BO,BLACK}e{bo,black}{BO,MAGENTA}a{bo,magenta}{BO,BLACK}l{bo,black}{BO,MAGENTA}i{bo,magenta}{BO,BLACK}t{bo,black}{BO,MAGENTA}y{bo,magenta}~
+
+     Here the reality as you knew is totally left behind. As you 
+     step into this room you immediately start walking on the 
+     ceiling then you  take another step and your on one of the 
+     walls, take another and you are back to the floor.
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4347
+D2
+~
+~
+0 -1 4351
+D3
+~
+~
+0 -1 4343
+Z4
+C-1
+R0
+S
+#4347
+{W}Return to Normal Reality{w}~
+
+     Finally, you have returned to what seems to be a normal room,
+     where up is up and down is down. You can forget that 
+     God-forsaken place but your senses say you have been forever 
+     tainted.
+
+~
+43 12 0
+D1
+~
+~
+0 -1 4348
+D3
+~
+~
+0 -1 4346
+Z4
+C-1
+R0
+S
+#4348
+{W}Stairwell{w}~
+
+     Before you is a stairwell leading up into the darkness. 
+     Could it be another play ground of a demon or could you 
+     find the master of this temple himself up there?
+
+~
+43 12 0
+D0
+~
+~
+0 -1 4352
+D3
+~
+~
+0 -1 4347
+D4
+~
+~
+0 -1 4363
+Z4
+C-1
+R0
+S
+#4349
+{BO,YELLOW}T{bo,yellow}{BO,BLACK}W{bo,black}{BO,YELLOW}I{bo,yellow}{BO,BLACK}S{bo,black}{BO,YELLOW}T{bo,yellow}{BO,BLACK}E{bo,black}{BO,YELLOW}D{bo,yellow} {BO,MAGENTA}R{bo,magenta}{BO,BLACK}e{bo,black}{BO,MAGENTA}a{bo,magenta}{BO,BLACK}l{bo,black}{BO,MAGENTA}i{bo,magenta}{BO,BLACK}t{bo,black}{BO,MAGENTA}y{bo,magenta}~
+
+     Here the reality as you knew is totally left behind. As you 
+     step into this room you immediately start walking on the 
+     ceiling then you  take another step and your on one of the 
+     walls, take another and you are back to the floor.
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4350
+D3
+~
+~
+0 -1 4344
+Z4
+C-1
+R0
+S
+#4350
+{W}Hall of{w} {W}M{w}{BLA,BO}i{bla,bo}{W}r{w}{BLA,BO}r{bla,bo}{W}o{w}{BLA,BO}r{bla,bo}{W}s{w}~
+
+     Everywhere you look they are mirrors. On the ceiling, the 
+     floor, the walls, everywhere! All of them show the same 
+     reflection. A reflection of you that slowly fades away and 
+     is replaced with the image of a demon reaching out for you.
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4349
+D2
+~
+~
+0 -1 4351
+Z4
+C-1
+R0
+S
+#4351
+{W}Hall of{w} {C,BO}I{c,bo}{BLU,BO}l{blu,bo}{C,BO}l{c,bo}{BLU,BO}u{blu,bo}{C,BO}s{c,bo}{BLU,BO}i{blu,bo}{C,BO}o{c,bo}{BLU,BO}n{blu,bo}{C,BO}s{c,bo}~
+
+     You are completely disoriented as have lost your sense of 
+     direction. You could almost swear that you can see people 
+     from you're past standing before you. only to melt away and 
+     be replaced with the image of a demon that reaches out for you!
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4346
+D1
+~
+~
+0 -1 4350
+Z4
+C-1
+R0
+S
+#4352
+{W}Back Hallway{w}~
+
+     This hallway has seen little use. A thick layer of 
+     dust covers everything. Just walking through here
+     becomes a challenge. As a giant dust storm kicks up, 
+     it becomes hard to breath.
+
+~
+43 8 0
+D1
+~
+closet~
+1 4305 4353
+D2
+~
+~
+0 -1 4348
+Z4
+C-1
+R0
+S
+#4353
+{W}Closet{w}~
+
+     This seems to be nothing else but a normal closet, nothing 
+     sinister about it, just a plain old closet. After a quick  
+     glance you notice a bundle of clothing on the floor starts 
+     to move.
+
+~
+43 8 0
+D3
+~
+closet~
+1 -1 4352
+Z4
+C-1
+R0
+S
+#4354
+{W}Room of{w} {C,BO}Forgotten{c,bo} {BLUE,BO}Knowledge{blue,bo}~
+
+     {W}Scattered all around the room, piled to the ceiling are
+     books of lost lore. All the knowledge in this rooms seems 
+     to be from ages long since past to dust. Floating lazily 
+     toward the ceiling seem to be thoughts of lost lore.
+
+
+     Faintly in back of your mind you hear a sinister voice say 
+     "Can you remember your way?"{w}
+
+~
+43 8 0
+Z4
+C-1
+R0
+S
+#4355
+{BO,BLUE}Bookcases{bo,blue}~
+
+     Shelves line the walls, each shelf is crammed full with books.
+     Books of every type that you could ever imagine. In various 
+     kind of covers some made from wood, some strange leaf to human 
+     skin. Along with piles of papers just rolled up and tied together.
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4362
+D1
+~
+~
+0 -1 4356
+Z4
+C-1
+R0
+S
+#4356
+{BO,BLUE}Bookcases{bo,blue}~
+
+     Shelves line the walls, each shelf is crammed full with books.
+     Books of every type that you could ever imagine. In various 
+     kind of covers some made from wood, some strange leaf to human 
+     skin. Along with piles of papers just rolled up and tied together.
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4363
+D3
+~
+~
+0 -1 4355
+Z4
+C-1
+R0
+S
+#4357
+{BO,BLACK}A Dark Hallway{bo,black}~
+
+     The long dark hallway seems devoid of all life. It seems 
+     like no living being has set eyes up this hallways for many,
+     many years.
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4365
+D1
+~
+~
+0 -1 4358
+Z4
+C-1
+R0
+S
+#4358
+{BO,BLACK}A Dark Hallway{bo,black}~
+
+     All is silent here, nothing but your own heart beat can be 
+     heard.The light in the room seems to be coming for the stone 
+     itself. The stones where made with magic of old. Long since 
+     lost to mortals.
+
+~
+43 8 0
+D1
+~
+~
+0 -1 4359
+D3
+~
+~
+0 -1 4357
+Z4
+C-1
+R0
+S
+#4359
+{BO,YELLOW}Tapestries{bo,yellow}~
+
+     Hanging along the walls are HUGE tapestries, each one seems 
+     to be showing something different. But each also have something
+     in common. Each seem to depict one demon in particular, standing
+     triumphantly over fallen foes. This demon could only be, {BLA,BO}O{bla,bo}{BLU}r{blu}{BLA,BO}c{bla,bo}{BLU}u{blu}{BLA,BO}s{bla,bo}
+     himself.
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4366
+D3
+~
+~
+0 -1 4358
+Z4
+C-1
+R0
+S
+#4360
+{BO,CYAN}Quiet{bo,cyan} Hallway~
+
+     The smell of old leather seems to be getting stronger the 
+     further you travel down this hall. This must be a lost portion 
+     of the library.
+
+~
+43 8 0
+D1
+~
+~
+0 -1 4361
+D2
+~
+~
+0 -1 4354
+Z4
+C-1
+R0
+S
+#4361
+{BO,RED}Secret{bo,red} Hallway~
+
+     This hallway seems to have been lost for centuries. The 
+     floor is covered in dust. You can tell only one have enter 
+     because the dust has not tracks in it. The smell of musty 
+     old leather hangs gently in the air.
+
+~
+43 8 0
+D1
+~
+bookcase~
+1 4305 4362
+D3
+~
+~
+0 -1 4360
+E
+4362~
+~
+Z4
+C-1
+R0
+S
+#4362
+{BO,BLUE}Bookcases{bo,blue}~
+
+     Lining the walls are bookcases crammed full with books. Books 
+     of every type you could imagine are here. In various kind of 
+     covers some made from wood, some strange leaf to human skin. Along
+     with piles of papers just rolled up and tied together.
+
+~
+43 8 0
+D1
+~
+~
+0 -1 4363
+D2
+~
+~
+0 -1 4355
+D3
+~
+bookcase~
+3 4305 4361
+Z4
+C-1
+R0
+S
+#4363
+Stairwell~
+
+     Here is another stairway leading upward, once again up to 
+     what you have no clue. The only way to find out is, to go up.
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4367
+D1
+~
+~
+0 -1 4364
+D2
+~
+~
+0 -1 4356
+D3
+~
+~
+0 -1 4362
+D5
+~
+~
+0 -1 4348
+Z4
+C-1
+R0
+S
+#4364
+{BO,BLUE}L{bo,blue}{BO,CYAN}i{bo,cyan}{BO,BLUE}b{bo,blue}{BO,CYAN}r{bo,cyan}{BO,BLUE}a{bo,blue}{BO,CYAN}r{bo,cyan}{BO,BLUE}y{bo,blue} Floyer~
+
+     From where your standing now you must be in the foyer of 
+     this library. All around is a wealth of contained knowledge. 
+     You can faintly here the sweet melody of knowledge. Just standing
+     in this room makes you feel smarter.
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4368
+D3
+~
+~
+0 -1 4363
+Z4
+C-1
+R0
+S
+#4365
+A Sall {WHITE}Laboratory{white}~
+
+     Here must be the beginning to a lab. In the center of the 
+     room is a table with all kinds of beakers, vials of mysterious 
+     liquids, and strange deceives. 
+
+~
+43 12 0
+D1
+~
+~
+0 -1 4381
+D2
+~
+~
+0 -1 4357
+Z4
+C-1
+R0
+S
+#4366
+Secluded Hallway~
+
+     This hallway that is out of the way you could almost imagine 
+     a student coming back here to read a book. So they would be left 
+     alone and not bothered by the others. Or it could have been use 
+     by two students who wanted to have a "privet" moment together.
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4370
+D2
+~
+~
+0 -1 4359
+Z4
+C-1
+R0
+S
+#4367
+{BO,BLUE}L{bo,blue}{BO,CYAN}i{bo,cyan}{BO,BLUE}b{bo,blue}{BO,CYAN}r{bo,cyan}{BO,BLUE}a{bo,blue}{BO,CYAN}r{bo,cyan}{BO,BLUE}y{bo,blue} Tables~
+
+     Library tables are in abundance here. Each one is covered 
+     with dust and books. The tables look unaffected by the passing 
+     of time but the chairs on the other hand do not. Sitting in the 
+     middle of one of the tables is. What has to be the largest 
+     bookworm you have ever seen.
+
+~
+43 8 0
+D1
+~
+~
+0 -1 4368
+D2
+~
+~
+0 -1 4363
+Z4
+C-1
+R0
+S
+#4368
+{BO,BLUE}L{bo,blue}{BO,CYAN}i{bo,cyan}{BO,BLUE}b{bo,blue}{BO,CYAN}r{bo,cyan}{BO,BLUE}a{bo,blue}{BO,CYAN}r{bo,cyan}{BO,BLUE}y{bo,blue} Floyer~
+
+     From where your standing now you must be in the foyer of 
+     this library. All around is a wealth of contained knowledge. 
+     You can faintly here the sweet melody of knowledge. Just standing
+     in this room makes you feel smarter.
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4371
+D2
+~
+~
+0 -1 4364
+D3
+~
+~
+0 -1 4367
+Z4
+C-1
+R0
+S
+#4369
+{BO,YELLOW}Tapestries{bo,yellow}~
+
+     Hanging on the wall here are HUGE tapestries, each one seems 
+     to be showing something different. Ones depicts a creature that 
+     has to be {BO,BLACK}O{bo,black}{BLUE}r{blue}{BO,BLACK}c{bo,black}{BLUE}u{blue}{BO,BLACK}s{bo,black} himself, others a viscous battle scene.
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4373
+D1
+~
+~
+0 -1 4370
+Z4
+C-1
+R0
+S
+#4370
+Secluded Hallway~
+
+     This way must lead to some secret part of the library. The 
+     way is kind of dark but a strange glow seems to be emitting 
+     form the walls.
+
+~
+43 8 0
+D2
+~
+~
+0 -1 4366
+D3
+~
+~
+0 -1 4369
+Z4
+C-1
+R0
+S
+#4371
+{BO,BLUE}Bookcase{bo,blue}~
+
+     Lining the walls are bookcases crammed full with books. Books 
+     of every type you could imagine are here. In various kind of 
+     covers some made from wood, some strange leaf to human skin. Along
+     with piles of papers just rolled up and tied together.
+
+~
+43 8 0
+D1
+~
+~
+0 -1 4372
+D2
+~
+~
+0 -1 4368
+Z4
+C-1
+R0
+S
+#4372
+Secluded Tables~
+
+     This must be where the most studious student came to study. 
+     Out of the way of everyone else, just sitting here with just 
+     their self and there own thoughts.
+
+~
+43 8 0
+D1
+~
+~
+0 -1 4373
+D3
+~
+~
+0 -1 4371
+Z4
+C-1
+R0
+S
+#4373
+End of the {BO,BLUE}L{bo,blue}{BO,CYAN}i{bo,cyan}{BO,BLUE}b{bo,blue}{BO,CYAN}r{bo,cyan}{BO,BLUE}a{bo,blue}{BO,CYAN}r{bo,cyan}{BO,BLUE}y{bo,blue}~
+
+     This here seems to be the end of the library. After peeking 
+     down the hallway you can't see anymore tables or bookcases but 
+     that really don't mean anything now does it?
+
+~
+43 8 0
+D2
+~
+~
+0 -1 4369
+D3
+~
+~
+0 -1 4372
+Z4
+C-1
+R0
+S
+#4374
+{BO,BLACK}A Dark Hallway{bo,black}~
+
+     Here the smell of acidic and alkaline potions fill the air. 
+     All thought you are a long way away form the laboratory. You 
+     can still smell the strange elixirs and potions. What all porions
+     could be brewing down there.
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4377
+D1
+~
+~
+0 -1 4375
+Z4
+C-1
+R0
+S
+#4375
+Stairwell~
+
+     Yet another stairwell and guess what? This one also leads 
+     up. But unlike the rest you see a strange glow coming down for 
+     the top of this one.
+
+~
+43 12 0
+D1
+~
+~
+0 -1 4376
+D3
+~
+~
+0 -1 4374
+D4
+~
+~
+0 -1 4390
+Z4
+C-1
+R0
+S
+#4376
+{BO,BLACK}A Dark Hallway{bo,black}~
+
+     The putrid smell of those unfortunate lab animals still hang 
+     heave in the air, it seems like you will have to get your armor 
+     cleaned just so you'll get rid of the foul smell.
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4378
+D3
+~
+~
+0 -1 4375
+Z4
+C-1
+R0
+S
+#4377
+{WHITE}Bookcase{white}~
+
+     This bookcase is unlike those ones in the library. These are 
+     not quite so filled and they mostly pertain to alchemy not 
+     general knowledge.
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4379
+D2
+~
+~
+0 -1 4374
+Z4
+C-1
+R0
+S
+#4378
+{BO,YELLOW}Animal Cages{bo,yellow}~
+
+     This must be where they detain the laboratory animals. Some 
+     the animals seem to be mutated beyond recantation. Others seem 
+     to but just augmented some how. Ths stinch from the cages is
+     almost more than you can bear.
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4380
+D2
+~
+~
+0 -1 4376
+Z4
+C-1
+R0
+S
+#4379
+{BO,BLACK}A Dark Hallway{bo,black}~
+
+     This hallway seems to be leading away form the laboratory, 
+     wonder where it goes? Off in the distance you can here the 
+     sounds of animals. Could they have done experiments on animals 
+     too? 
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4383
+D2
+~
+~
+0 -1 4377
+Z4
+C-1
+R0
+S
+#4380
+{BO,YELLOW}Animal Cages{bo,yellow}~
+
+     Animal cages seem to take up the bigger part of this room. 
+     Some of them have been busted open and its inhabitant has 
+     long since escaped. By look at some of the other unfortunate 
+     creatures, you hope you don't meet any.
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4385
+D2
+~
+~
+0 -1 4378
+Z4
+C-1
+R0
+S
+#4381
+Entrance to the {WHITE}Laboratory{white}~
+
+     You seem to be entering a larger portion of the laboratory. 
+     This room contains many table that are over run with all kinds 
+     of fascinating and freighting stuff.
+
+~
+43 8 0
+D1
+~
+~
+0 -1 4382
+D3
+~
+~
+0 -1 4365
+Z4
+C-1
+R0
+S
+#4382
+{WHITE}Bookcases{white}~
+
+     This bookcase is unlike those ones in the library. These are 
+     not quite so filled and they mostly pertain to alchemy not 
+     general knowledge.
+
+~
+43 8 0
+D1
+~
+~
+0 -1 4383
+D3
+~
+~
+0 -1 4381
+Z4
+C-1
+R0
+S
+#4383
+Intersection~
+
+     You have come to an intersection, up ahead of you seems like 
+     some experiment tables and to you right a long dark, silent 
+     hallway.
+
+~
+43 8 0
+D1
+~
+~
+0 -1 4384
+D2
+~
+~
+0 -1 4379
+D3
+~
+~
+0 -1 4382
+Z4
+C-1
+R0
+S
+#4384
+{BO,RED}Experiment{bo,red} Tables~
+
+     This scene reminds you of one form the movie Frankenstein. A 
+     large table with all kinds of hoses and wires leading to it 
+     dominates the center of the room, beside it are all kinds of 
+     odd-looking machines.
+
+~
+43 8 0
+D1
+~
+~
+0 -1 4385
+D3
+~
+~
+0 -1 4383
+Z4
+C-1
+R0
+S
+#4385
+{BO,BLACK}The Dark Corner{bo,black}~
+
+     This dark little corner hasn't seen anyone walking it in a 
+     long, long time. Cobwebs hanging down low from the ceiling and 
+     dust covers the floor. Off in the distance you hear and animal 
+     cry in, agony or hunger, either one doesn't suit you too well.
+
+~
+43 8 0
+D2
+~
+~
+0 -1 4380
+D3
+~
+~
+0 -1 4384
+Z4
+C-1
+R0
+S
+#4386
+{BO,RED}Storage{bo,red} Room~
+
+     This seems to be a place where extra robes, vials of holy 
+     water and stuff like that is stored. Each item is neatly packet 
+     into its own proper place.
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4388
+Z4
+C-1
+R0
+S
+#4387
+{BO,GREEN}Guard Post??{bo,green}~
+
+     From the looks of this place you would swear it was a guard 
+     post. But what does a temple need a guard post on the top level 
+     of it?
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4391
+D1
+~
+~
+0 -1 4388
+Z4
+C-1
+R0
+S
+#4388
+{BO,BLACK}A Dark Hallway{bo,black}~
+
+     This musty hallway seems to be like every other hallway in 
+     this place. The same old glows coming form the walls, same dank 
+     smell to it. Just another old hallway.
+
+~
+43 8 0
+D1
+~
+~
+0 -1 4389
+D2
+~
+~
+0 -1 4386
+D3
+~
+~
+0 -1 4387
+Z4
+C-1
+R0
+S
+#4389
+{BO,YELLOW}Tapestries{bo,yellow}~
+
+     Hanging on the walls here are HUGE tapestries, each one seems 
+     to be showing something different. Ones depicts a creature that 
+     has to be Orcus himself, others a viscous battle scene.
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4392
+D3
+~
+~
+0 -1 4388
+Z4
+C-1
+R0
+S
+#4390
+Stairwell~
+
+     You must be getting somewhere because this floor is lavishly 
+     decorated. But the forbidden sense of evil seems to be getting 
+     stronger.
+
+~
+43 8 0
+D1
+~
+~
+0 -1 4391
+D5
+~
+~
+0 -1 4375
+Z4
+C-1
+R0
+S
+#4391
+{BO,YELLOW}Tapestries{bo,yellow}~
+
+     Hanging on the wall here are HUGE tapestries, each one seems 
+     to be showing something different. Ones depicts a creature that 
+     has to be Orcus himself, others a viscous battle scene. 
+
+~
+43 8 0
+D2
+~
+~
+0 -1 4387
+D3
+~
+~
+0 -1 4390
+Z4
+C-1
+R0
+S
+#4392
+Stairwell~
+
+     This stairwell is far from the same as any other stairway in 
+     the place. You can hear a faint hum and the crackle of 
+     electricity coming form the top. An evil red glow seems to 
+     be coming from the top.
+
+~
+43 12 0
+D0
+~
+~
+0 -1 4393
+D2
+~
+~
+0 -1 4389
+D4
+~
+~
+0 -1 4396
+Z4
+C-1
+R0
+S
+#4393
+{WHITE}Quiet Hallway{white}~
+
+     This hallway seems devoid of all sound. You can't even hear 
+     your self breathing or even your own foot falling to the floor. 
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4394
+D2
+~
+~
+0 -1 4392
+Z4
+C-1
+R0
+S
+#4394
+A {BLINK,BO,RED}DEATHLY{blink,bo,red} {WHITE}quiet Hallway{white}~
+
+     Here it's so quite its almost deafening. You try to speak 
+     and brake the silence but your mouth moves but no sound comes 
+     out.
+
+~
+43 8 0
+D2
+~
+~
+0 -1 4393
+D3
+~
+secret~
+8 4306 4395
+Z4
+C-1
+R0
+S
+#4395
+{BO,RED}RUTUAL ROOM{bo,red}~
+
+     Upon entering this room you magical silence is over. 
+     Standing in front of you is a group of priest in the middle of 
+     some ritual, none of them seem too happy with the intrusion. 
+     But they're giving you a change to explain yourself.
+
+~
+43 8 0
+D1
+~
+secret~
+1 -1 4394
+Z4
+C-1
+R0
+S
+#4396
+Stairwell~
+
+     Once you make it to the top, you are greeted by to most 
+     profound feeling of pure unbridle evil. This evil is unlike and 
+     you have ever felt before.
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4397
+D5
+~
+~
+0 -1 4392
+Z4
+C-1
+R0
+S
+#4397
+Chamber of {BO,RED}POWER!{bo,red}~
+
+     The feeling up such pure power that's in this room fills as 
+     if it's going to rip you in two. The sound of chanting, a 
+     magical hum, and lightning striking is all you hear in this
+     raging chaos.
+
+~
+43 8 0
+D0
+~
+~
+0 -1 4399
+D1
+~
+chamber~
+6 4307 4398
+D2
+~
+~
+0 -1 4396
+E
+4398~
+~
+Z4
+C-1
+R0
+S
+#4398
+Chamber of {BO,BLACK}O{bo,black}{BLUE}r{blue}{BO,BLACK}c{bo,black}{BLUE}u{blue}{BO,BLACK}s{bo,black}~
+
+     Like the room before you feel like your going to pulled 
+     apart. But also you can feel chaos in its purest form here. 
+     standing in the middle of this room stands a lone figure, The 
+     {BO,RED}High{bo,red} {BO,BLUE}Priest{bo,blue} of {BO,BLACK}O{bo,black}{BLUE}r{blue}{BO,BLACK}c{bo,black}{BLUE}u{blue}{BO,BLACK}s{bo,black}. He seems to be in the middle of casting 
+     some great summoning spell.
+
+~
+43 8 0
+D3
+~
+chamber~
+1 -1 4397
+Z4
+C-1
+R0
+S
+#4399
+Chamber of {BO,YELLOW}C{bo,yellow}{BO,BLACK}H{bo,black}{BO,YELLOW}A{bo,yellow}{BO,BLACK}O{bo,black}{BO,YELLOW}S{bo,yellow}~
+
+     Upon entering this room all you fall to your knees. Before 
+     you stands, in all his foulness and evil, {BO,BLACK}O{bo,black}{BLUE}r{blue}{BO,BLACK}c{bo,black}{BLUE}u{blue}{BO,BLACK}s{bo,black}. No matter how 
+     hard you fight it you still knee before him. He points at you 
+     and laughs.
+
+~
+43 8 0
+D2
+~
+~
+0 -1 4397
+Z4
+C-1
+R0
+S
+$~

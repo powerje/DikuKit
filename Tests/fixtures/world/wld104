@@ -1,0 +1,2452 @@
+#10400
+{BOLD}{RED}Entering the mall{bold}{red}~
+
+{GREEN}  As you step into the mall, you see kids running everywhere.
+{GREEN}  You faintly make out what they are screaming about. Find
+{GREEN}  the beanie babies! They have escaped. You wonder what
+{GREEN}  could have happened. Then you hear a woman scream PEACE
+{GREEN}  HAS A BOMB SET! Maybe you should follow some kids and
+{GREEN}  find this bomb.{green}
+
+~
+104 12 0
+D0
+~
+~
+0 -1 10401
+Z-1
+C-1
+R0
+S
+#10401
+{RED}{BOLD}Walking though the mall{red}{bold}~
+
+{GREEN,BOLD}  You are now wandering through the mall trying to find
+{GREEN,BOLD}  the lost b{BLUE,BOLD}e{CYAN,BOLD}a{MAGENTA,BOLD}n{RED,BOLD}i{YELLOW,BOLD}e{GREEN,BOLD}s. You see kids running around crying.
+{GREEN,BOLD}  You know the stuffed animals are here somewhere but,
+{GREEN,BOLD}  which store are they hiding in? For now, all you can
+{GREEN,BOLD}  tell is that there are three hallways leading to a few
+{GREEN,BOLD}  different toy stores.{green,bold}
+
+~
+104 8 0
+D0
+~
+~
+0 -1 10402
+D2
+~
+~
+0 -1 10400
+Z-1
+C-1
+R0
+S
+#10402
+{RED}{BOLD}Walking through the mall{red}{bold}~
+
+{GREEN,BOLD}  You come to a place where three hallways lead off.
+{GREEN,BOLD}  To the west is {BLUE,BOLD}Morfius' {GREEN,BOLD}toy store. To the east
+{GREEN,BOLD}  is a hallway leading to the {YELLOW,BOLD}bathroom{GREEN,BOLD}. North, you
+{GREEN,BOLD}  see the hallway leading to the {RED,BOLD}food court {GREEN,BOLD}area.{green,bold}
+
+~
+104 8 0
+D0
+~
+~
+0 -1 10456
+D1
+~
+~
+0 -1 10404
+D2
+~
+~
+0 -1 10401
+D3
+~
+~
+0 -1 10403
+Z-1
+C-1
+R0
+S
+#10403
+{RED}{BOLD}Walking down MTS's hallway{bold}{red}~
+  
+  {GREEN,BO}You are walking down a hallway headed towards Morfius'
+  Toy Store. As you walk, you overhear a young man say that
+  a giant beanbag doll has taken over the store. You think 
+  to yourself, How hard can it be to kill a toy?..{bo,green}
+   
+  
+~
+104 8 0
+D1
+~
+~
+0 -1 10402
+D3
+~
+~
+0 -1 10468
+Z-1
+C-1
+R0
+S
+#10404
+{RED}{BOLD}Heading towards the restrooms{red}{bold}~
+
+{GREEN,BOLD}  You are walking down a hallway headed for the
+{YELLOW,BOLD}  bathroom{GREEN,BOLD}. As you get closer you can hear water
+{GREEN,BOLD}  flowing and a faint moaning coming from inside.
+{GREEN,BOLD}  Someone must be having problems. What is it?{green,bold}
+
+~
+104 8 0
+D1
+~
+~
+0 -1 10449
+D3
+~
+~
+0 -1 10402
+Z-1
+C-1
+R0
+S
+#10405
+{RED}{BOLD}Standing in front of Morfius's Toy Store{red}{bold}~
+  
+  
+  {GREEN,BO}You are standing in front of {BLUE}Morfius'{GREEN} Toy Store. Inside
+  you can hear a loud roar and children crying.  It sounds
+  like a {YELLOW}lion{GREEN}, but how can a {MAGENTA}doll{GREEN} make a sound?  Surely it
+  is only someone acting. There is only one way to find out. {bo,green}
+  
+  
+  
+  
+  
+~
+104 8 0
+D1
+~
+~
+0 -1 10468
+D3
+a glass door stands here with the label MORFIUS'S TOY STORE
+
+~
+glass~
+2 10406 10406
+Z-1
+C-1
+R0
+S
+#10406
+{CYAN}{BOLD}Inside Morfius's Toy Store{cyan}{bold}~
+
+{BLUE,BOLD}  You made it through the guard and there are
+{BLUE,BOLD}  b{GREEN,BOLD}e{WHITE,BOLD}a{YELLOW,BOLD}n{CYAN,BOLD}i{RED,BOLD}e {GREEN,BOLD}b{CYAN,BOLD}a{YELLOW,BOLD}b{BLUE,BOLD}y {MAGENTA,BOLD}dolls {BLUE,BOLD}running around inside here.
+{BLUE,BOLD}  The little {MAGENTA,BOLD}dolls {BLUE,BOLD}are carrying radios and look
+{BLUE,BOLD}  very dangerious. Maybe you should turn around
+{BLUE,BOLD}  and leave...{blue,bold}
+
+~
+104 8 0
+D0
+~
+~
+0 -1 10407
+D1
+~
+glass~
+1 -1 10405
+D2
+~
+~
+0 -1 14157
+D3
+~
+~
+0 -1 10450
+Z-1
+C-1
+R0
+S
+#10407
+{CYAN,BO}Aisle in Morfius' Toy Store{bo,cyan}~
+
+{BLUE,BOLD}  You are walking down one of the many aisles of the toy
+{BLUE,BOLD}  store. Toys are scattered everywhere you look and little
+{MAGENTA,BOLD}  dolls {BLUE,BOLD}are smashing what remain on the shelves.{blue,bold}
+
+~
+104 8 0
+D0
+~
+~
+0 -1 10408
+D1
+~
+~
+0 -1 14157
+D2
+~
+~
+0 -1 10406
+D3
+~
+~
+0 -1 10436
+Z-1
+C-1
+R0
+S
+#10408
+{CYAN,BO}Aisle in Morfius' Toy Store{bo,cyan}~
+
+{BLUE,BOLD}  You are walking down one of the many aisles of the toy
+{BLUE,BOLD}  store. Toys are scattered everywhere you look and little
+{MAGENTA,BOLD}  dolls {BLUE,BOLD}are smashing what remain on the shelves.{blue,bold}
+
+~
+104 8 0
+D0
+~
+~
+0 -1 10442
+D1
+~
+~
+0 -1 10440
+D2
+~
+~
+0 -1 10407
+D3
+~
+~
+0 -1 10409
+Z-1
+C-1
+R0
+S
+#10409
+{CYAN,BO}Aisle in Morfius' Toy Store{bo,cyan}~
+
+{BLUE,BOLD}  You are walking down one of the many aisles of the toy
+{BLUE,BOLD}  store. Toys are scattered everywhere you look and little
+{MAGENTA,BOLD}  dolls {BLUE,BOLD}are smashing what remain on the shelves.{blue,bold}
+
+~
+104 8 0
+D0
+~
+~
+0 -1 10451
+D1
+~
+~
+0 -1 10408
+D2
+~
+~
+0 -1 10439
+Z-1
+C-1
+R0
+S
+#10410
+{CYAN}{BOLD}Back of the toy store{cyan}{bold}~
+  
+  
+  {WHITE,BO}You find yourself in the back of the toy store.
+  You haven't seen any giant {GREEN}b{BLUE}e{GREEN}a{YELLOW}n{RED}i{CYAN}e{MAGENTA} b{GREEN}a{RED}b{YELLOW}i{CYAN}e{BLUE}s{WHITE} yet only
+  teeny ones. Where can they be? Maybe they're not here.{bo,white}
+  
+  
+~
+104 8 0
+D0
+~
+~
+0 -1 10444
+D3
+~
+~
+0 -1 10439
+D5
+You see a small trapdoor leading into what is thought
+to be a basement.
+
+~
+basement~
+1 10418 10411
+Z-1
+C-1
+R0
+S
+#10411
+{CYAN}{BOLD}On the ladder{cyan}{bold}~
+
+{WHITE,BOLD}  You are on a ladder climbing down into a large
+{WHITE,BOLD}  basement. A funny smell coming from below cathes
+{WHITE,BOLD}  your nose. While climbinb down, a soft roar startles
+{WHITE,BOLD}  you and almost knocks you off balance. What kind of
+{WHITE,BOLD}  {YELLOW,BOLD}lion {WHITE,BOLD}would be in the back of a toy store?{white,bold}
+
+~
+104 12 0
+D4
+~
+basement~
+1 -1 10410
+D5
+~
+~
+1 -1 10412
+Z-1
+C-1
+R0
+S
+#10412
+{CYAN}{BOLD}In the basement{cyan}{bold}~
+
+{WHITE,BOLD}  You climb off of the ladder and find yourself standing in
+{WHITE,BOLD}  a dirty, old basement breathing stagnate air. The basement
+{WHITE,BOLD}  looks like it hasn't been used in years. As you look around
+{WHITE,BOLD}  you can still hear that roar. Where is it coming from? Maybe
+{WHITE,BOLD}  you should look around.{white,bold}
+
+~
+104 8 0
+D0
+~
+~
+0 -1 10416
+D2
+~
+~
+0 -1 10421
+D4
+~
+~
+0 -1 10411
+D5
+~
+trapdoor~
+2 10405 10413
+Z-1
+C-1
+R0
+S
+#10413
+{CYAN}{BOLD}Below the basement{cyan}{bold}~
+
+{WHITE,BOLD}  You are standing in a room below the basement. There
+{WHITE,BOLD}  are pipes everywhere and rats crawling all around.
+{WHITE,BOLD}  The roar is growing extremely loud now. If you want
+{WHITE,BOLD}  to turn back this is your last chance. After this
+{WHITE,BOLD}  there is no turning back.{white,bold}
+
+~
+104 8 0
+D0
+~
+~
+0 -1 10414
+D4
+~
+trapdoor~
+1 -1 10412
+Z-1
+C-1
+R0
+S
+#10414
+{CYAN}{BOLD}Following some pipes{cyan}{bold}~
+
+{WHITE,BOLD}  You are walking along, following some pipes and wires
+{WHITE,BOLD}  when all of a sudden a loud roar screams through the air.
+{WHITE,BOLD}  That scream was so close, you didn't know where it came
+{WHITE,BOLD}  from. Adventure further and you may regret it.{white,bold}
+
+~
+104 8 0
+D2
+~
+~
+0 -1 10413
+D4
+~
+~
+0 -1 10415
+X16777216
+Z-1
+C-1
+R0
+S
+#10415
+{YELLOW}{BLINK}Roary's{yellow}{blink} {CYAN}{BOLD}hidden cave{cyan}{bold}~
+
+{WHITE,BOLD}  You are now in {YELLOW,BOLD}{BLINK}Roary's{blink} {WHITE,BOLD}hidden cave and are about to
+{WHITE,BOLD}  deal with him. I wouldn't want to be you right now.
+{WHITE,BOLD}  All around you are little {GREEN,BOLD}TY {WHITE,BOLD}tags and plush tags. {YELLOW,BOLD}{BLINK}Roary{blink}
+{WHITE,BOLD}  looks so cute standing there. You just want to walk up
+{WHITE,BOLD}  and pet him.{white,bold}
+
+~
+104 12 0
+D0
+~
+~
+0 -1 10455
+D5
+~
+~
+0 -1 10414
+Z-1
+C-1
+R0
+S
+#10416
+{CYAN}{BOLD}In the basement{cyan}{bold}~
+  
+  
+  {WHITE,BO}You are walking along the basement in search of
+  a {GREEN}BIG{WHITE} stuffed animal. Sounds kind of crazy but 
+  what else is there to do on a Saturday. As you 
+  walk around you see rats and cockroaches run by,
+  and the horrid smell gets worse and worse.{bo,white}
+  
+  
+~
+104 8 0
+D0
+~
+~
+0 -1 10423
+D2
+~
+~
+0 -1 10412
+D3
+~
+~
+0 -1 10417
+Z-1
+C-1
+R0
+S
+#10417
+{CYAN}{BOLD}In the basement{cyan}{bold}~
+  
+  
+  {WHITE,BO}You are walking along the basement in search of
+  a {GREEN}BIG{WHITE} stuffed animal. Sounds kind of crazy but 
+  what else is there to do on a Saturday. As you 
+  walk around you see rats and cockroaches run by,
+  and the horrid smell gets worse and worse.{bo,white}
+  
+  
+~
+104 8 0
+D0
+~
+~
+0 -1 10433
+D1
+~
+~
+0 -1 10416
+D3
+~
+~
+0 -1 10418
+Z-1
+C2
+R0
+S
+#10418
+{CYAN}{BOLD}In the basement{cyan}{bold}~
+  
+  
+  {WHITE,BO}You are walking along the basement in search of
+  a {GREEN}BIG{WHITE} stuffed animal. Sounds kind of crazy but 
+  what else is there to do on a Saturday. As you 
+  walk around you see rats and cockroaches run by,
+  and the horrid smell gets worse and worse.{bo,white}
+  
+  
+~
+104 8 0
+D0
+~
+~
+0 -1 10432
+D1
+~
+~
+0 -1 10417
+D2
+~
+~
+0 -1 10419
+D4
+~
+~
+0 -1 14147
+Z-1
+C-1
+R0
+S
+#10419
+{CYAN}{BOLD}In the basement{cyan}{bold}~
+  
+  
+  {WHITE,BO}You are walking along the basement in search of
+  a {GREEN}BIG{WHITE} stuffed animal. Sounds kind of crazy but 
+  what else is there to do on a Saturday. As you 
+  walk around you see rats and cockroaches run by,
+  and the horrid smell gets worse and worse.{bo,white}
+  
+  
+~
+104 8 0
+D0
+~
+~
+0 -1 10418
+D3
+~
+~
+0 -1 10420
+Z-1
+C-1
+R0
+S
+#10420
+{CYAN}{BOLD} A little room with a little doll{cyan}{bold}~
+
+{WHITE,BOLD}  You enter a small room with a little {YELLOW,BOLD}lion {MAGENTA,BOLD}doll
+{WHITE,BOLD}  standing in the center. He looks innocent,
+{WHITE,BOLD}  but has a weird crooked smile as he looks
+{WHITE,BOLD}  at you and licks his lips. Running would be
+{WHITE,BOLD}  a good idea.{white,bold}
+
+~
+104 136 0
+D1
+~
+~
+0 -1 10419
+Z-1
+C2
+R0
+S
+#10421
+{CYAN}{BOLD}In the basement{cyan}{bold}~
+  
+  
+  {WHITE,BO}You are walking along the basement in search of
+  a {GREEN}BIG{WHITE} stuffed animal. Sounds kind of crazy 
+  but what else is there to do on a Saturday. 
+  As you walk around you see rats and cockroaches
+  run by, and the horrid smell gets worse and worse.{bo,white}
+  
+  
+~
+104 12 0
+D0
+~
+~
+0 -1 10412
+D4
+~
+~
+0 -1 10422
+D5
+~
+~
+0 -1 10434
+Z-1
+C-1
+R0
+S
+#10422
+{CYAN}{BOLD}On the ladder{cyan}{bold}~
+  
+  
+  {WHITE,BO}You are on a ladder climbing up to what seems to be
+  a cave. Maybe the dangerous {GREEN}b{BLUE}e{GREEN}a{RED}n{YELLOW}i{MAGENTA}e{RED} b{YELLOW}a{GREEN}b{CYAN}y {WHITE}is up there. 
+  There is only one way to find out for sure, you must
+  go check and see.{bo,white}
+  
+  
+~
+104 12 0
+D4
+~
+~
+0 -1 10406
+D5
+~
+~
+0 -1 10421
+X4194304
+Z-1
+C-1
+R0
+S
+#10423
+{CYAN}{BOLD}In the basement{cyan}{bold}~
+  
+  
+  {WHITE,BO}You are walking along the basement in search of
+  a {GREEN}BIG{WHITE} stuffed animal. Sounds kind of crazy 
+  but what else is there to do on a Saturday. 
+  As you walk around you see rats and cockroaches
+  run by, and the horrid smell gets worse and worse.{bo,white}
+  
+  
+~
+104 8 0
+D0
+~
+~
+0 -1 10429
+D1
+~
+~
+0 -1 10424
+D2
+~
+~
+0 -1 10416
+D3
+~
+~
+0 -1 10430
+Z-1
+C2
+R0
+S
+#10424
+{CYAN}{BOLD}In the basement{cyan}{bold}~
+  
+  
+  {WHITE,BO}You are walking along the basement in search of
+  a {GREEN}BIG{WHITE} stuffed animal. Sounds kind of crazy 
+  but what else is there to do on a Saturday. 
+  As you walk around you see rats and cockroaches
+  run by, and the horrid smell gets worse and worse.{bo,white}
+  
+  
+~
+104 8 0
+D0
+~
+~
+0 -1 10427
+D1
+~
+~
+0 -1 10425
+D3
+~
+~
+0 -1 10423
+Z-1
+C-1
+R0
+S
+#10425
+{CYAN}{BOLD}In the basement{cyan}{bold}~
+  
+  
+  {WHITE,BO}You are walking along the basement in search of
+  a {GREEN}BIG{WHITE} stuffed animal. Sounds kind of crazy 
+  but what else is there to do on a Saturday. 
+  As you walk around you see rats and cockroaches
+  run by, and the horrid smell gets worse and worse.{bo,white}
+  
+  
+~
+104 8 0
+D3
+~
+~
+0 -1 10424
+D4
+~
+~
+0 -1 14148
+D5
+~
+panel~
+1 -1 10426
+Z-1
+C-1
+R0
+S
+#10426
+{CYAN}{BOLD} A little room with a little doll{cyan}{bold}~
+
+{W}{BOLD}You enter a small room with a little {Y}lion{y} {MAG}{BOLD}doll{mag}
+{W}{BOLD}standing in the middle of it. He looks innocent,
+but he has a wierd crooked smile as he looks
+at you and licks his lips. Running would be a 
+good idea.{w}
+
+~
+104 136 0
+D4
+~
+panel~
+1 -1 10425
+Z-1
+C2
+R0
+S
+#10427
+{CYAN}{BOLD}In the basement{cyan}{bold}~
+  
+  
+  {WHITE,BO}You are walking along the basement in search of
+  a {GREEN}BIG{WHITE} stuffed animal. Sounds kind of crazy 
+  but what else is there to do on a Saturday. 
+  As you walk around you see rats and cockroaches
+  run by, and the horrid smell gets worse and worse.{bo,white}
+  
+  
+~
+104 8 0
+D2
+~
+~
+0 -1 10424
+D3
+~
+~
+0 -1 10428
+Z-1
+C-1
+R0
+S
+#10428
+{CYAN}{BOLD}In the basement{cyan}{bold}~
+  
+  
+  {WHITE,BO}You are walking along the basement in search of
+  a {GREEN}BIG{WHITE} stuffed animal. Sounds kind of crazy 
+  but what else is there to do on a Saturday. 
+  As you walk around you see rats and cockroaches
+  run by, and the horrid smell gets worse and worse.{bo,white}
+  
+  
+~
+104 8 0
+D1
+~
+~
+0 -1 10427
+D2
+~
+~
+0 -1 10429
+Z-1
+C-1
+R0
+S
+#10429
+{CYAN}{BOLD}In the basement{cyan}{bold}~
+  
+  
+  {WHITE,BO}You are walking along the basement in search of
+  a {GREEN}BIG{WHITE} stuffed animal. Sounds kind of crazy 
+  but what else is there to do on a Saturday. 
+  As you walk around you see rats and cockroaches
+  run by, and the horrid smell gets worse and worse.{bo,white}
+  
+  
+~
+104 8 0
+D0
+~
+~
+0 -1 10428
+D2
+~
+~
+0 -1 10423
+Z-1
+C-1
+R0
+S
+#10430
+{CYAN}{BOLD}In the basement{cyan}{bold}~
+  
+  
+  {WHITE,BO}You are walking along the basement in search of
+  a {GREEN}BIG{WHITE} stuffed animal. Sounds kind of crazy 
+  but what else is there to do on a Saturday. 
+  As you walk around you see rats and cockroaches
+  run by, and the horrid smell gets worse and worse.{bo,white}
+  
+  
+~
+104 8 0
+D1
+~
+~
+0 -1 10423
+D2
+~
+~
+0 -1 10433
+D3
+~
+~
+0 -1 10431
+Z-1
+C-1
+R0
+S
+#10431
+{CYAN}{BOLD}In the basement{cyan}{bold}~
+  
+  
+  {WHITE,BO}You are walking along the basement in search of
+  a {GREEN}BIG{WHITE} stuffed animal. Sounds kind of crazy 
+  but what else is there to do on a Saturday. 
+  As you walk around you see rats and cockroaches
+  run by, and the horrid smell gets worse and worse.{bo,white}
+  
+  
+~
+104 8 0
+D1
+~
+~
+0 -1 10430
+D2
+~
+~
+0 -1 10432
+Z-1
+C-1
+R0
+S
+#10432
+{CYAN}{BOLD}In the basement{cyan}{bold}~
+  
+  
+  {WHITE,BO}You are walking along the basement in search of
+  a {GREEN}BIG{WHITE} stuffed animal. Sounds kind of crazy 
+  but what else is there to do on a Saturday. 
+  As you walk around you see rats and cockroaches
+  run by, and the horrid smell gets worse and worse.{bo,white}
+  
+  
+~
+104 8 0
+D0
+~
+~
+0 -1 10431
+D2
+~
+~
+0 -1 10418
+Z-1
+C-1
+R0
+S
+#10433
+{CYAN}{BOLD}In the basement{cyan}{bold}~
+  
+  
+  {WHITE,BO}You are walking along the basement in search of
+  a {GREEN}BIG{WHITE} stuffed animal. Sounds kind of crazy 
+  but what else is there to do on a Saturday. 
+  As you walk around you see rats and cockroaches
+  run by, and the horrid smell gets worse and worse.{bo,white}
+  
+  
+~
+104 8 0
+D0
+~
+~
+0 -1 10430
+D2
+~
+~
+0 -1 10417
+Z-1
+C-1
+R0
+S
+#10434
+{CYAN}{BOLD}UH OH{cyan}{bold}~
+  
+  
+  {WHITE,BO}BOOM!! YOU'RE DEAD!!{bo,white}
+  
+  
+~
+104 4194318 0
+Z-1
+C-1
+R0
+S
+#10436
+{CYAN,BO}Aisle in Morfius' Toy Store{bo,cyan}~
+
+{BLUE,BOLD}  You are walking down one of the many aisles of the toy
+{BLUE,BOLD}  store. Toys are scattered everywhere you look and little
+{MAGENTA,BOLD}  dolls {BLUE,BOLD}are smashing what remain on the shelves.{blue,bold}
+
+~
+104 8 0
+D0
+~
+~
+0 -1 10437
+D1
+~
+~
+0 -1 10407
+D2
+~
+~
+0 -1 14157
+D3
+~
+~
+0 -1 14157
+Z-1
+C-1
+R0
+S
+#10437
+{CYAN,BO}Aisle in Morfius' Toy Store{bo,cyan}~
+
+{BLUE,BOLD}  You are walking down one of the many aisles of the toy
+{BLUE,BOLD}  store. Toys are scattered everywhere you look and little
+{MAGENTA,BOLD}  dolls {BLUE,BOLD}are smashing what remain on the shelves.{blue,bold}
+
+~
+104 8 0
+D0
+~
+~
+0 -1 10438
+D1
+~
+~
+0 -1 10451
+D2
+~
+~
+0 -1 10436
+D3
+~
+~
+0 -1 10440
+Z-1
+C-1
+R0
+S
+#10438
+{CYAN,BO}Aisle in Morfius' Toy Store{bo,cyan}~
+
+{BLUE,BOLD}  You are walking down one of the many aisles of the toy
+{BLUE,BOLD}  store. Toys are scattered everywhere you look and little
+{MAGENTA,BOLD}  dolls {BLUE,BOLD}are smashing what remain on the shelves.{blue,bold}
+
+~
+104 8 0
+D0
+~
+~
+0 -1 14157
+D1
+~
+~
+0 -1 10439
+D2
+~
+~
+0 -1 10437
+D3
+~
+~
+0 -1 10400
+Z-1
+C-1
+R0
+S
+#10439
+{CYAN,BO}Aisle in Morfius' Toy Store{bo,cyan}~
+
+{BLUE,BOLD}  You are walking down one of the many aisles of the toy
+{BLUE,BOLD}  store. Toys are scattered everywhere you look and little
+{MAGENTA,BOLD}  dolls {BLUE,BOLD}are smashing what remain on the shelves.{blue,bold}
+
+~
+104 8 0
+D0
+~
+~
+0 -1 10409
+D1
+~
+~
+0 -1 10410
+D3
+~
+~
+0 -1 10438
+Z-1
+C-1
+R0
+S
+#10440
+{CYAN,BO}Aisle in Morfius' Toy Store{bo,cyan}~
+
+{BLUE,BOLD}  You are walking down one of the many aisles of the toy
+{BLUE,BOLD}  store. Toys are scattered everywhere you look and little
+{MAGENTA,BOLD}  dolls {BLUE,BOLD}are smashing what remain on the shelves.{blue,bold}
+
+~
+104 8 0
+D1
+~
+~
+0 -1 10437
+D3
+~
+~
+0 -1 10408
+Z-1
+C-1
+R0
+S
+#10441
+{YELLOW}{BOLD}Walking between two huge boulders{yellow}{bold}~
+
+{CYAN,BOLD}  As you are walking along, {GREEN,BOLD}t{YELLOW,BOLD}e{BLUE,BOLD}e{RED,BOLD}n{MAGENTA,BOLD}i{YELLOW,BOLD}e {WHITE,BOLD}c{RED,BOLD}h{GREEN,BOLD}i{WHITE,BOLD}p {CYAN,BOLD}dolls are
+{CYAN,BOLD}  patrolling the area. You can even hear a soft
+{CYAN,BOLD}  purr. It sounds like an innocent little kitten.{cyan}
+
+~
+104 40 0
+D0
+~
+~
+0 -1 10445
+D1
+~
+~
+0 -1 10452
+Z-1
+C-1
+R0
+S
+#10442
+{CYAN,BO}Aisle in Morfius' Toy Store{bo,cyan}~
+
+{BLUE,BOLD}  You are walking down one of the many aisles of the toy
+{BLUE,BOLD}  store. Toys are scattered everywhere you look and little
+{MAGENTA,BOLD}  dolls {BLUE,BOLD}are smashing what remain on the shelves.{blue,bold}
+
+~
+104 8 0
+D0
+~
+~
+0 -1 14157
+D1
+~
+~
+0 -1 10443
+D2
+~
+~
+0 -1 10408
+D3
+~
+~
+0 -1 14157
+Z-1
+C-1
+R0
+S
+#10443
+{CYAN,BO}Aisle in Morfius' Toy Store{bo,cyan}~
+
+{BLUE,BOLD}  You are walking down one of the many aisles of the toy
+{BLUE,BOLD}  store. Toys are scattered everywhere you look and little
+{MAGENTA,BOLD}  dolls {BLUE,BOLD}are smashing what remain on the shelves.{blue,bold}
+
+~
+104 8 0
+D0
+~
+~
+0 -1 14157
+D1
+~
+~
+0 -1 14157
+D2
+~
+~
+0 -1 10444
+D3
+~
+~
+0 -1 10442
+Z-1
+C-1
+R0
+S
+#10444
+{CYAN,BO}Aisle in Morfius' Toy Store{bo,cyan}~
+
+{BLUE,BOLD}  You are walking down one of the many aisles of the toy
+{BLUE,BOLD}  store. Toys are scattered everywhere you look and little
+{MAGENTA,BOLD}  dolls {BLUE,BOLD}are smashing what remain on the shelves.{blue,bold}
+
+~
+104 8 0
+D0
+~
+~
+0 -1 10443
+D1
+~
+~
+0 -1 14157
+D2
+~
+~
+0 -1 10410
+D3
+~
+~
+0 -1 14157
+Z-1
+C-1
+R0
+S
+#10445
+{YELLOW,BO}Pasing by Stalagmites{bo,yellow}~
+
+{CYAN,BOLD}  Now as you walk deeper into the cave, you
+{CYAN,BOLD}  notice up ahead there are bigger {MAGENTA,BOLD}dolls {CYAN,BOLD}standing
+{CYAN,BOLD}  there. They seem to be a bit more mean looking,
+{CYAN,BOLD}  might even be guarding someone...{cyan,bold}
+
+~
+104 40 0
+D0
+~
+~
+0 -1 10446
+D2
+~
+~
+0 -1 10441
+Z-1
+C-1
+R0
+S
+#10446
+{YELLOW}{BOLD}Heading towards the two guards{yellow}{bold}~
+
+{CYAN,BOLD}  Walking down the slippery, slimy, rocky path, you are
+{CYAN,BOLD}  almost upon the unsuspecting guards. You can barely see
+{CYAN,BOLD}  them in the dimly lit passageway. They seem to be holding
+{CYAN,BOLD}  spears or something {BLUE,BOLD}dangerous{CYAN,BOLD}.{cyan,bold}
+
+~
+104 40 0
+D1
+~
+~
+0 -1 10447
+D2
+~
+~
+0 -1 10445
+Z-1
+C-1
+R0
+S
+#10447
+{YELLOW}{BOLD}In front of a small hole{yellow}{bold}~
+  
+  
+  {CYAN,BO}You have walk up to the three guards. They look like
+  cats and seem to be wearing nametags with the word 
+  '{YELLOW}C{RED}h{BLUE}i{MAGENTA}p{CYAN}' engraved on them.  They stand perfectly erect.{bo,cyan}
+  
+  
+~
+104 40 0
+D3
+~
+~
+0 -1 10446
+D5
+~
+~
+0 -1 10448
+Z-1
+C-1
+R0
+S
+#10448
+{BLINK}{BLACK}{BOLD}C{YELLOW}{BOLD}h{WHITE}{BOLD}i{BLACK}{BOLD}p'{YELLOW}{BOLD}s{yellow}{bold}{blink} {YELLOW}{BOLD}cozy little hole{yellow}{bold}~
+  
+  
+  {CYAN,BO}{BLUE}C{RED}h{YELLOW}i{GREEN}p{CYAN} looks upset that you killed his three favorite
+  guards. The hair on his back begins to stand up and
+  he makes a low hiss that makes your hair stand up.{bo,cyan}
+  
+  
+~
+104 44 0
+D4
+~
+~
+0 -1 10447
+Z-1
+C-1
+R0
+S
+#10449
+{RED}{BOLD}In front of the bathroom{red}{bold}~
+  
+  
+  {GREEN,BO}As you approach the bathroom, you see
+  little {MAGENTA}B{GREEN}e{YELLOW}a{CYAN}n{RED}i{BLUE}e{GREEN} b{WHITE}a{BLUE}b{GREEN}i{CYAN}e{MAGENTA}s{GREEN} leaving. They must
+  have dropped a load. It sounds like one
+  of the toilets is overflowing or something.{bo,green}
+  
+  
+~
+104 8 0
+D2
+~
+~
+0 -1 10453
+D3
+~
+~
+0 -1 10404
+Z-1
+C-1
+R0
+S
+#10450
+{CYAN}{BOLD}SUDDEN DEATH{cyan}{bold}~
+
+{WHITE,BOLD}  As you fall into the deep hole layered with spikes,
+{WHITE,BOLD}  your blood splatters on the walls and your life is
+{WHITE,BOLD}  litterally drained from your body.
+
+{RED,BOLD}     N{red,bold}{RED}o{RED,BOLD}t y{red,bold}{RED}ou{RED,BOLD}r l{red,bold}{RED}u{RED,BOLD}cky d{red,bold}{RED}a{RED,BOLD}y.{red,bold}
+
+~
+104 14 0
+Z-1
+C-1
+R0
+S
+#10451
+{CYAN,BO}Aisle in Morfius' Toy Store{bo,cyan}~
+
+{BLUE,BOLD}  You are walking down one of the many aisles of the toy
+{BLUE,BOLD}  store. Toys are scattered everywhere you look and little
+{MAGENTA,BOLD}  dolls {BLUE,BOLD}are smashing what remain on the shelves.{blue,bold}
+
+~
+104 8 0
+D0
+~
+~
+0 -1 10401
+Z-1
+C-1
+R0
+S
+#10452
+{YELLOW}{BOLD}Behind the boulder{yellow}{bold}~
+  
+  {CYAN,BO}After crawling through the small hole, you stand up on
+  a tightly cramped path in a cave. There seems to be
+  a path you can follow. It is so damp and cold in here. {bo,cyan}
+   
+  
+~
+104 40 0
+D2
+~
+boulder~
+1 -1 10455
+D3
+~
+~
+0 -1 10441
+Z-1
+C2
+R0
+S
+#10453
+{RED}{BOLD}In the Bathroom{red}{bold}~
+  
+  {GREEN,BO}As you step into the bathroom, water trickles
+  down between your legs from a leak in the sink. Waste
+  cans have been turned over and trash is scattered 
+  everywhere.  Looks like a fight took place in here. 
+  You are about to leave when you spot a movement in 
+  the corner of your eye. {bo,green}
+   
+  
+~
+104 8 0
+D0
+~
+~
+0 -1 10449
+D1
+~
+stall~
+1 10408 10454
+Z-1
+C-1
+R0
+S
+#10454
+{YELLOW}{BOLD}A stall with a busted toilet{yellow}{bold}~
+  
+  {CYAN,BO}Opening the door to the stall that is leaking
+  pretty badly, you see a stuffed animal sitting on 
+  the toilet taking a dump. He seems to have a key 
+  on his waist. He is also wearing a badge that 
+  says, Guard.{bo,cyan}
+   
+  
+~
+104 8 0
+D3
+~
+stall~
+1 10407 10453
+Z-1
+C-1
+R0
+S
+#10455
+{CYAN}{BOLD}A small crack{cyan}{bold}~
+  
+  {WHITE,BO}Squeezing into the crack, there are boulders all around. 
+  Behind one of these boulders, there seems to be a thin crack
+  of light. You try to push on it, but you can barely budge 
+  the boulder.{bo,white}
+   
+  
+~
+104 8 0
+D0
+A large boulder is here in filling the crack, on the other side
+however you see a bit of light. Use the hammer to chip away the
+boulder so you can pass.
+
+~
+boulder~
+1 10415 10452
+D2
+~
+~
+0 -1 10415
+Z-1
+C-1
+R0
+S
+#10456
+{RED}{BOLD}Passing through the Food Court{bold}{red}~
+  
+  {GREEN,BO}There are food booths all around you: {MAGENTA}Taco Bell, {YELLOW}Mcdonalds
+  {BLUE}Wendys, {CYAN}Subway. {GREEN}All the food booths look tempting, you have
+  an urge to stop by and get a bite to eat. You can almost smell 
+  those chicken nuggets.{bo,green}
+   
+  
+~
+104 8 0
+D0
+~
+~
+0 -1 10465
+D1
+~
+~
+0 -1 10463
+D2
+~
+~
+0 -1 10402
+D3
+~
+~
+0 -1 10457
+Z-1
+C-1
+R0
+S
+#10457
+{RED}{BOLD}Walking through the mall{red}{bold}~
+  
+  {GREEN,BO}As you walk through the mall, you admire all
+  the nice stores that you pass by. There are 
+  many clothes and c{WHITE}a{GREEN}n{WHITE}d{GREEN}y{WHITE} s{GREEN}t{WHITE}o{GREEN}r{WHITE}e{GREEN}s. You want to
+  stop and look, but if you do the beanie 
+  babies may take over the mall. Its up to you.{bo,green}
+   
+  
+~
+104 8 0
+D0
+~
+~
+0 -1 10458
+D1
+~
+~
+0 -1 10456
+Z-1
+C-1
+R0
+S
+#10458
+{RED}{BOLD}Walking through the mall{red}{bold}~
+  
+  {GREEN,BO}As you walk through the mall, you admire all
+  the nice stores that you pass by. There are 
+  many clothes and c{WHITE}a{GREEN}n{WHITE}d{GREEN}y{WHITE} s{GREEN}t{WHITE}o{GREEN}r{WHITE}e{GREEN}s. You want to
+  stop and look, but if you do the beanie 
+  babies may take over the mall. Its up to you.{bo,green}
+   
+  
+~
+104 8 0
+D0
+~
+~
+0 -1 10459
+D2
+~
+~
+0 -1 10457
+Z-1
+C-1
+R0
+S
+#10459
+{RED}{BOLD}Walking through the mall{red}{bold}~
+  
+  {GREEN,BO}As you walk through the mall, you admire all
+  the nice stores that you pass by. There are 
+  many clothes and c{WHITE}a{GREEN}n{WHITE}d{GREEN}y{WHITE} s{GREEN}t{WHITE}o{GREEN}r{WHITE}e{GREEN}s. You want to
+  stop and look, but if you do the beanie 
+  babies may take over the mall. Its up to you.{bo,green}
+   
+  
+~
+104 8 0
+D1
+~
+~
+0 -1 10460
+D2
+~
+~
+0 -1 10458
+Z-1
+C-1
+R0
+S
+#10460
+{RED}{BOLD}Walking through the mall{red}{bold}~
+  
+  {GREEN,BO}As you walk through the mall, you admire all
+  the nice stores that you pass by. There are 
+  many clothes and c{WHITE}a{GREEN}n{WHITE}d{GREEN}y{WHITE} s{GREEN}t{WHITE}o{GREEN}r{WHITE}e{GREEN}s. You want to
+  stop and look, but if you do the beanie 
+  babies may take over the mall. Its up to you.{bo,green}
+   
+  
+~
+104 1048588 0
+D0
+~
+~
+0 -1 10461
+D3
+~
+~
+0 -1 10459
+Z-1
+C-1
+R0
+S
+#10461
+{RED}{BOLD}Walking through the mall{red}{bold}~
+  
+  {GREEN,BO}As you walk through the mall, you admire all
+  the nice stores that you pass by. There are 
+  many clothes and c{WHITE}a{GREEN}n{WHITE}d{GREEN}y{WHITE} s{GREEN}t{WHITE}o{GREEN}r{WHITE}e{GREEN}s. You want to
+  stop and look, but if you do the beanie 
+  babies may take over the mall. Its up to you.{bo,green}
+   
+  
+~
+104 1048584 0
+D0
+~
+~
+0 -1 10456
+Z-1
+C-1
+R0
+S
+#10462
+{BLUE}{BOLD}Jiayi's Junk Store{bold}{blue}~
+  
+  {GREEN,BO}Glancing up at the sign, {CYAN}Jiayi's Junk Store{GREEN},
+  you see a little guard {MAGENTA}doll {GREEN}looking down at you.
+  His eyes are squinted and a crooked smile shows
+  up on his face. Suddenly, a peaceful sound comes
+  into your ears almost calling you in.  Why don't
+  you follow that sweet lullaby-ing sound?{bo,green}
+   
+  
+~
+104 4194316 0
+D1
+~
+glass~
+1 10409 10478
+X64
+Z-1
+C-1
+R0
+S
+#10463
+{RED}{BOLD}Walking through the mall{red}{bold}~
+  
+  {GREEN,BO}As you walk through the mall, you admire all
+  the nice stores that you pass by. There are 
+  many clothes and c{WHITE}a{GREEN}n{WHITE}d{GREEN}y{WHITE} s{GREEN}t{WHITE}o{GREEN}r{WHITE}e{GREEN}s. You want to
+  stop and look, but if you do the beanie 
+  babies may take over the mall. Its up to you.{bo,green}
+   
+  
+~
+104 8 0
+D1
+~
+~
+0 -1 10464
+D3
+~
+~
+0 -1 10456
+Z-1
+C-1
+R0
+S
+#10464
+{RED}{BOLD}Walking through the mall{red}{bold}~
+  
+  {GREEN,BO}As you walk through the mall, you admire all
+  the nice stores that you pass by. There are 
+  many clothes and c{WHITE}a{GREEN}n{WHITE}d{GREEN}y{WHITE} s{GREEN}t{WHITE}o{GREEN}r{WHITE}e{GREEN}s. You want to
+  stop and look, but if you do the beanie 
+  babies may take over the mall. Its up to you.{bo,green}
+   
+  
+~
+104 8 0
+D0
+~
+~
+0 -1 10467
+D2
+~
+~
+0 -1 10469
+D3
+~
+~
+0 -1 10463
+Z-1
+C-1
+R0
+S
+#10465
+{BOLD}{RED}At the back exit{red}{bold}~
+
+{GREEN,BOLD}  You are standing at the back door of the
+{GREEN,BOLD}  mall. You can hear something mumbling
+{GREEN,BOLD}  outside. It seems to be talking to itself.
+{GREEN,BOLD}  You can faintly hear it, it seems to be
+{GREEN,BOLD}  talking about it's torn seam.{green,bold}
+
+~
+104 8 0
+D0
+the back EXIT is here and a little light is shining
+through the crack.
+
+~
+exit~
+1 10410 10466
+D2
+~
+~
+0 -1 10456
+Z-1
+C-1
+R0
+S
+#10466
+{MAGENTA}{BOLD}Outside the mall{magenta}{bold}~
+  
+  {GREEN,BO}When you open the door, a 4 foot tye-dyed
+  bear is staring straight at you. A peace sign is
+  imprinted on her chest. You think this one might
+  be peaceful you think. What you didn't know is 
+  that she is PMSing. Things look bad for you.{bo,green}
+   
+  
+~
+104 8 1
+D2
+~
+exit~
+1 10410 10465
+Z-1
+C-1
+R0
+S
+#10467
+{RED}{BOLD}Walking through the mall{red}{bold}~
+  
+  {GREEN,BO}You are walking towards an elevator. There seems
+  to be a pretty long line formed waiting to get into
+  the elevator. You better find a place in line
+  before it's to late.{bo,green}
+   
+  
+~
+104 8 0
+D0
+~
+~
+0 -1 10474
+D2
+~
+~
+0 -1 10464
+Z-1
+C-1
+R0
+S
+#10468
+{RED}{BOLD}Walking down MTS's hallway{bold}{red}~
+  
+  {GREEN,BO}You are walking down a hallway headed towards Morfius'
+  Toy Store. As you walk, you overhear a young man say that
+  a giant beanbag doll has taken over the store. You think 
+  to yourself, How hard can it be to kill a toy?..{bo,green}
+   
+  
+~
+104 8 0
+D1
+~
+~
+0 -1 10403
+D3
+~
+~
+0 -1 10405
+Z-1
+C-1
+R0
+S
+#10469
+{RED}{BOLD}Walking through the mall{red}{bold}~
+  
+  {GREEN,BO}As you walk through the mall, you admire all
+  the nice stores that you pass by. There are 
+  many clothes and c{WHITE}a{GREEN}n{WHITE}d{GREEN}y{WHITE} s{GREEN}t{WHITE}o{GREEN}r{WHITE}e{GREEN}s. You want to
+  stop and look, but if you do the beanie 
+  babies may take over the mall. Its up to you.{bo,green}
+   
+  
+~
+104 8 0
+D0
+~
+~
+0 -1 10464
+D3
+~
+~
+0 -1 10470
+Z-1
+C-1
+R0
+S
+#10470
+{RED}{BOLD}Walking through the mall{red}{bold}~
+  
+  {GREEN,BO}As you walk through the mall, you admire all
+  the nice stores that you pass by. There are 
+  many clothes and c{WHITE}a{GREEN}n{WHITE}d{GREEN}y{WHITE} s{GREEN}t{WHITE}o{GREEN}r{WHITE}e{GREEN}s. You want to
+  stop and look, but if you do the beanie 
+  babies may take over the mall. Its up to you.{bo,green}
+   
+  
+~
+104 1048588 0
+D0
+~
+~
+0 -1 10471
+D1
+~
+~
+0 -1 10469
+D3
+~
+~
+0 -1 10472
+Z-1
+C-1
+R0
+S
+#10471
+{RED}{BOLD}Walking through the mall{red}{bold}~
+  
+  {GREEN,BO}As you walk through the mall, you admire all
+  the nice stores that you pass by. There are 
+  many clothes and c{WHITE}a{GREEN}n{WHITE}d{GREEN}y{WHITE} s{GREEN}t{WHITE}o{GREEN}r{WHITE}e{GREEN}s. You want to
+  stop and look, but if you do the beanie 
+  babies may take over the mall. Its up to you.{bo,green}
+   
+  
+~
+104 1048588 0
+D0
+~
+~
+0 -1 10456
+Z-1
+C-1
+R0
+S
+#10472
+{MAGENTA}{BOLD}Sliding to Baller's Games and Puzzles{magenta}{bold}~
+  
+  {BLUE,BO}SLIDING . . . SLIDING . . . SLIDING . . . You have 
+  slid into a room right before entering {MAGENTA}Baller's Game's
+  and Puzzles{BLUE} room.  Oh no. you are sliding into the next 
+  room, Bye! {bo,blue}
+   
+  
+~
+104 5242892 0
+D3
+~
+~
+0 -1 10473
+X68
+Z-1
+C-1
+R0
+S
+#10473
+{MAGENTA}{BOLD}Lying in front of Baller's Games and Puzzles{magenta}{bold}~
+  
+  {BLUE,BO}Lying on the ground, you wake up and notice you
+  have slid to the front of {MAGENTA}Baller's{BLUE} store. It 
+  looks so clean. Maybe nothing is in there. Then
+  all of a sudden, a faint BARK is heard. Dang, you
+  have to go in further.{bo,blue}
+   
+  
+~
+104 4194316 0
+D3
+~
+sliding~
+1 10403 14122
+X64
+Z-1
+C-1
+R0
+S
+#10474
+{RED}{BOLD}In front of the elevator{red}{bold}~
+  
+  {BLUE,BO}As you wait in line to board the elevator,
+  you see shops closing up and locking 
+  their doors. These beanie babies have 
+  put everyone in a panic? Are they really
+  that dangerous.  Surely not . . .{bo,blue}
+   
+  
+~
+104 8 0
+D0
+~
+~
+0 -1 10475
+D2
+~
+~
+0 -1 10467
+Z-1
+C-1
+R0
+S
+#10475
+{YELLOW}{BOLD}In the elevator{yellow}{bold}~
+  
+  {BLUE,BO}You find yourself tightly squeezed
+  in a small elevator. You push floor 
+  two and are headed upwards towards 
+  {YELLOW}Subway{BLUE}. You figure you might as well
+  get something to eat because it's a 
+  long drive to get home. Why not eat 
+  at subway where the food is healthy.{bo,blue}
+   
+  
+~
+104 8 0
+D2
+~
+~
+0 -1 10474
+D4
+~
+~
+0 -1 10476
+D5
+~
+~
+0 -1 10477
+Z-1
+C-1
+R0
+S
+#10476
+{YELLOW}{BOLD}Welcome to Subway{yellow}{bold}~
+  
+  {WHITE,BO}After getting off that packed elevator,
+  you just want to find a bench and sit down.   
+  While looking for one a {GREEN}b{BLUE}e{RED}a{MAGENTA}n{YELLOW}i{WHITE}e {GREEN}b{BLUE}a{RED}b{MAGENTA}y{WHITE} guard 
+  tells you to leave or die.  Laughing 
+  hysterically, you tell him to shut up.
+  Big mistake because now he is blocking
+  you from leaving.{bo,white}
+   
+  
+~
+104 8 0
+D0
+~
+subway door~
+1 10411 14100
+D5
+~
+~
+0 -1 10475
+Z-1
+C-1
+R0
+S
+#10477
+{RED}{BOLD}UNDER THE ELEVATOR{red}{bold}~
+
+{RED,BOLD}  You fall underneath the elevator and get crushed.
+{RED,BOLD}  What the hell were you thinking?{red,bold}
+
+~
+104 14 0
+Z-1
+C-1
+R0
+S
+#10478
+{BLUE}{BOLD}Front desk at Jiayi's Junk store{blue}{bold}~
+  
+  {CYAN,BO}WELCOME TO JIAYI'S JUNK STORE.{GREEN} We have whatever
+  your junky heart desires. Want pots and pans we got
+  em. Want {MAGENTA}dolls{GREEN} and collectibles go find them. They 
+  seem to have came to life and ran off. If you dont
+  mind can you please take care of them for us. I think
+  the boss is a large white {YELLOW}t{WHITE}i{YELLOW}g{WHITE}e{YELLOW}r{GREEN} named {YELLOW}B{WHITE}l{YELLOW}i{WHITE}z{YELLOW}z{WHITE}a{YELLOW}r{WHITE}d.{bo,red}
+   
+  
+~
+104 8 0
+D0
+~
+~
+0 -1 10479
+D3
+~
+glass~
+1 -1 10462
+Z-1
+C-1
+R0
+S
+#10479
+{BLUE}{BOLD}Walking down the aisles of dolls{bold}{blue}~
+  
+  {GREEN,BO}Passing through the {MAGENTA}dolls{GREEN} aisle and such, you
+  can see little {MAGENTA}dolls {GREEN}running around very rapidly.
+  They seem to be planning something evil.  Better 
+  watch your backS, these {YELLOW}teeny{GREEN} b{BLUE}e{CYAN}a{RED}n{WHITE}i{GREEN}e{YELLOW} b{CYAN}a{GREEN}b{WHITE}i{MAGENTA}e{GREEN}s seem
+  to be upset about something.{bo,green}
+     
+  
+~
+104 8 0
+D0
+~
+~
+0 -1 10480
+D1
+~
+~
+0 -1 10494
+D2
+~
+~
+0 -1 10478
+D3
+~
+~
+0 -1 10487
+Z-1
+C-1
+R0
+S
+#10480
+{BLUE}{BOLD}Walking down the aisles of dolls{bold}{blue}~
+  
+  {GREEN,BO}Passing through the {MAGENTA}dolls{GREEN} aisle and such, you
+  can see little {MAGENTA}dolls {GREEN}running around very rapidly.
+  They seem to be planning something evil.  Better 
+  watch your backS, these {YELLOW}teeny{GREEN} b{BLUE}e{CYAN}a{RED}n{WHITE}i{GREEN}e{YELLOW} b{CYAN}a{GREEN}b{WHITE}i{MAGENTA}e{GREEN}s seem
+  to be upset about something.{bo,green}
+     
+  
+~
+104 8 0
+D0
+~
+~
+0 -1 10487
+D1
+~
+~
+0 -1 10481
+D2
+~
+~
+0 -1 10479
+Z-1
+C-1
+R0
+S
+#10481
+{BLUE}{BOLD}Walking down the aisles of dolls{bold}{blue}~
+  
+  {GREEN,BO}Passing through the {MAGENTA}dolls{GREEN} aisle and such, you
+  can see little {MAGENTA}dolls {GREEN}running around very rapidly.
+  They seem to be planning something evil.  Better 
+  watch your backS, these {YELLOW}teeny{GREEN} b{BLUE}e{CYAN}a{RED}n{WHITE}i{GREEN}e{YELLOW} b{CYAN}a{GREEN}b{WHITE}i{MAGENTA}e{GREEN}s seem
+  to be upset about something.{bo,green}
+     
+  
+~
+104 8 0
+D0
+~
+~
+0 -1 10482
+D1
+~
+~
+0 -1 10497
+D3
+~
+~
+0 -1 10480
+Z-1
+C-1
+R0
+S
+#10482
+{BOLD}{BLUE}Passing by the G.I Joes{bold}{blue}~
+  
+  {GREEN,BO}There are little G.I Joes running around. This 
+  place is going crazy or are you?  Little toys 
+  and {MAGENTA}dolls{GREEN} running around, maybe you need to
+  lay down. Beware if you do, you may not wake up. 
+  So watch your back.{bo,green}
+     
+  
+~
+104 8 0
+D2
+~
+~
+0 -1 10481
+D3
+~
+~
+0 -1 10484
+Z-1
+C-1
+R0
+S
+#10483
+{BLUE}{BOLD}Back of the store{bold}{blue}~
+  
+  {GREEN,BO}Looking around at the back of the store, you see
+  a door leading out.  A faint light is shining through 
+  the cracks.  To your left are the Barbies and other 
+  junky items.{bo,green}
+     
+  
+~
+104 8 0
+D0
+A exit door stands here unlocked.
+~
+exit~
+1 -1 10485
+D1
+~
+~
+0 -1 10484
+D2
+~
+~
+1 -1 10496
+X16777216
+Z-1
+C-1
+R0
+S
+#10484
+{BOLD}{BLUE}Passing by the G.I Joes{bold}{blue}~
+  
+  {GREEN,BO}There are little G.I Joes running around. This 
+  place is going crazy or are you?  Little toys 
+  and {MAGENTA}dolls{GREEN} running around, maybe you need to
+  lay down. Beware if you do, you may not wake up. 
+  So watch your back.{bo,green}
+     
+  
+~
+104 8 0
+D1
+~
+~
+0 -1 10482
+D2
+~
+~
+0 -1 10498
+D3
+~
+~
+0 -1 10483
+Z-1
+C-1
+R0
+S
+#10485
+{BLUE}{BOLD}An icy cave{blue}{bold}~
+  
+  {GREEN,BO}Expecting to exit out the back of the mall, 
+  you opened the door into a, dark icey cave.
+  Stalagmites hang from the ceiling of the cave 
+  and a little {WHITE}white {YELLOW}t{WHITE}i{YELLOW}g{WHITE}e{YELLOW}r{GREEN} stands here guarding
+  a door. What a cute little tiger.{bo,green}
+     
+  
+~
+104 40 5
+D0
+~
+rock~
+1 -1 10486
+D2
+~
+exit~
+1 -1 10483
+Z-1
+C-1
+R0
+S
+#10486
+{BLINK}{BLACK}{BOLD}B{WHITE}{BOLD}l{BLACK}{BOLD}i{WHITE}{BOLD}z{BLACK}{BOLD}z{WHITE}{BOLD}a{BLACK}{BOLD}r{WHITE}{BOLD}d{BLACK}{BOLD}'{WHITE}{BOLD}s{white}{bold}{blink} {BLUE}{BOLD}icy lair{blue}{bold}~
+  
+  {GREEN,BO}A huge {WHITE}white {YELLOW}t{WHITE}i{YELLOW}g{WHITE}e{YELLOW}r{MAGENTA} doll{GREEN} stands here growling at you.
+  The very sight of him chills the very marrow in your
+  bones. You want to run but you can't, your legs wont
+  let you.  Maybe it's because he won't let you either. 
+  Looks like a fight is inevitable.{bo,green}
+     
+   
+~
+104 4194348 5
+D2
+~
+rock~
+1 -1 10485
+X1
+Z-1
+C-1
+R0
+S
+#10487
+{BLUE}{BOLD}Walking down the aisles of dolls{bold}{blue}~
+  
+  {GREEN,BO}Passing through the {MAGENTA}dolls{GREEN} aisle and such, you
+  can see little {MAGENTA}dolls {GREEN}running around very rapidly.
+  They seem to be planning something evil.  Better 
+  watch your backS, these {YELLOW}teeny{GREEN} b{BLUE}e{CYAN}a{RED}n{WHITE}i{GREEN}e{YELLOW} b{CYAN}a{GREEN}b{WHITE}i{MAGENTA}e{GREEN}s seem
+  to be upset about something.{bo,green}
+     
+  
+~
+104 8 0
+D0
+~
+~
+0 -1 10488
+D1
+~
+~
+0 -1 10479
+D2
+~
+~
+0 -1 10480
+Z-1
+C-1
+R0
+S
+#10488
+{BLUE}{BOLD}Entering the G.I Joe section{blue}{bold}~
+  
+  {GREEN,BO}G.I Joes are everywhere. It looks like its time for war.
+  Little men are running and jumping over boxes and loading
+  their weapons. Either they are against the {YELLOW}b{BLUE}e{MAGENTA}a{CYAN}n{RED}i{WHITE}e{GREEN} b{YELLOW}a{CYAN}b{MAGENTA}i{BLUE}e{RED}s{GREEN}
+  or they have joined them . . .{bo,green}
+     
+   
+~
+104 8 0
+D0
+~
+~
+0 -1 10495
+D1
+~
+~
+0 -1 10489
+D2
+~
+~
+0 -1 10487
+D3
+~
+~
+0 -1 10490
+Z-1
+C-1
+R0
+S
+#10489
+{BOLD}{BLUE}Walking among the G.I Joes{bold}{blue}~
+  
+  {GREEN,BO}Unfortunately it is apparent that the G.I Joes 
+  have joined forces with the {YELLOW}b{BLUE}e{MAGENTA}a{CYAN}n{RED}i{WHITE}e{GREEN} b{YELLOW}a{CYAN}b{MAGENTA}i{BLUE}e{RED}s{GREEN}. This
+  may prove too be to much for you to handle. These
+  little men are carrying guns and holding knifes.{bo,green}
+     
+   
+~
+104 8 0
+D0
+~
+~
+0 -1 10492
+D3
+~
+~
+0 -1 10488
+Z-1
+C-1
+R0
+S
+#10490
+{BOLD}{BLUE}Walking among the G.I Joes{bold}{blue}~
+  
+  {GREEN,BO}Unfortunately it is apparent that the G.I Joes 
+  have joined forces with the {YELLOW}b{BLUE}e{MAGENTA}a{CYAN}n{RED}i{WHITE}e{GREEN} b{YELLOW}a{CYAN}b{MAGENTA}i{BLUE}e{RED}s{GREEN}. This
+  may prove too be to much for you to handle. These
+  little men are carrying guns and holding knifes.{bo,green}
+     
+   
+~
+104 8 0
+D0
+~
+~
+0 -1 10491
+D1
+~
+~
+0 -1 10488
+Z-1
+C-1
+R0
+S
+#10491
+{BOLD}{BLUE}Walking among the G.I Joes{bold}{blue}~
+  
+  {GREEN,BO}Unfortunately it is apparent that the G.I Joes 
+  have joined forces with the {YELLOW}b{BLUE}e{MAGENTA}a{CYAN}n{RED}i{WHITE}e{GREEN} b{YELLOW}a{CYAN}b{MAGENTA}i{BLUE}e{RED}s{GREEN}. This
+  may prove too be to much for you to handle. These
+  little men are carrying guns and holding knifes.{bo,green}
+     
+   
+~
+104 8 0
+D2
+~
+~
+0 -1 10490
+D3
+~
+~
+0 -1 10493
+Z-1
+C-1
+R0
+S
+#10492
+{BOLD}{BLUE}Walking among the G.I Joes{bold}{blue}~
+  
+  {GREEN,BO}Unfortunately it is apparent that the G.I Joes 
+  have joined forces with the {YELLOW}b{BLUE}e{MAGENTA}a{CYAN}n{RED}i{WHITE}e{GREEN} b{YELLOW}a{CYAN}b{MAGENTA}i{BLUE}e{RED}s{GREEN}. This
+  may prove too be to much for you to handle. These
+  little men are carrying guns and holding knifes.{bo,green}
+     
+   
+~
+104 8 0
+D1
+~
+~
+0 -1 10493
+D2
+~
+~
+0 -1 10489
+Z-1
+C-1
+R0
+S
+#10493
+{BOLD}{BLUE}Walking among the G.I Joes{bold}{blue}~
+  
+  {GREEN,BO}Unfortunately it is apparent that the G.I Joes 
+  have joined forces with the {YELLOW}b{BLUE}e{MAGENTA}a{CYAN}n{RED}i{WHITE}e{GREEN} b{YELLOW}a{CYAN}b{MAGENTA}i{BLUE}e{RED}s{GREEN}. This
+  may prove too be to much for you to handle. These
+  little men are carrying guns and holding knifes.{bo,green}
+     
+   
+~
+104 8 0
+D1
+~
+~
+0 -1 10491
+D2
+~
+~
+0 -1 10495
+D3
+~
+~
+0 -1 10492
+Z1
+C-1
+R0
+S
+#10494
+{BLUE}{BOLD}Walking among the dolls{blue}{bold}~
+
+{RED}{BOLD}You arnt walking anywhere now. YOUR DEAD.
+
+~
+104 14 0
+Z1
+C-1
+R0
+S
+#10495
+{BOLD}{BLUE}Walking among the G.I Joes{bold}{blue}~
+  
+  {GREEN,BO}Unfortunately it is apparent that the G.I Joes 
+  have joined forces with the {YELLOW}b{BLUE}e{MAGENTA}a{CYAN}n{RED}i{WHITE}e{GREEN} b{YELLOW}a{CYAN}b{MAGENTA}i{BLUE}e{RED}s{GREEN}. This
+  may prove too be to much for you to handle. These
+  little men are carrying guns and holding knifes.{bo,green}
+     
+   
+~
+104 12 0
+D1
+~
+~
+0 -1 10498
+D2
+~
+~
+0 -1 10462
+D3
+~
+~
+0 -1 10497
+Z1
+C-1
+R0
+S
+#10496
+{BOLD}{BLUE}Walking among the G.I Joes{bold}{blue}~
+  
+  {GREEN,BO}Unfortunately it is apparent that the G.I Joes 
+  have joined forces with the {YELLOW}b{BLUE}e{MAGENTA}a{CYAN}n{RED}i{WHITE}e{GREEN} b{YELLOW}a{CYAN}b{MAGENTA}i{BLUE}e{RED}s{GREEN}. This
+  may prove too be to much for you to handle. These
+  little men are carrying guns and holding knifes.{bo,green}
+     
+   
+~
+104 8 0
+D0
+~
+~
+0 -1 10483
+D2
+~
+~
+0 -1 10495
+Z1
+C-1
+R0
+S
+#10497
+{BOLD}{BLUE}Walking among the G.I Joes{bold}{blue}~
+  
+  {GREEN,BO}Unfortunately it is apparent that the G.I Joes 
+  have joined forces with the {YELLOW}b{BLUE}e{MAGENTA}a{CYAN}n{RED}i{WHITE}e{GREEN} b{YELLOW}a{CYAN}b{MAGENTA}i{BLUE}e{RED}s{GREEN}. This
+  may prove too be to much for you to handle. These
+  little men are carrying guns and holding knifes.{bo,green}
+     
+   
+~
+104 8 0
+D0
+~
+~
+0 -1 10498
+D1
+~
+~
+0 -1 10495
+D3
+~
+~
+0 -1 10481
+Z1
+C-1
+R0
+S
+#10498
+{BOLD}{BLUE}Walking among the G.I Joes{bold}{blue}~
+  
+  {GREEN,BO}Unfortunately it is apparent that the G.I Joes 
+  have joined forces with the {YELLOW}b{BLUE}e{MAGENTA}a{CYAN}n{RED}i{WHITE}e{GREEN} b{YELLOW}a{CYAN}b{MAGENTA}i{BLUE}e{RED}s{GREEN}. This
+  may prove too be to much for you to handle. These
+  little men are carrying guns and holding knifes.{bo,green}
+     
+   
+~
+104 8 0
+D0
+~
+~
+0 -1 10484
+D2
+~
+~
+0 -1 10497
+D3
+~
+~
+0 -1 10495
+Z1
+C-1
+R0
+S
+#10499
+{RED}M{BLUE}o{YELLOW}r{GREEN}{BOLD}f{WHITE}i{CYAN}u{RED}s's {YELLOW}N{CYAN}e{RED}b{GREEN}u{WHITE}c{MAGENTA}a{YELLOW}n{CYAN}e{BLUE}z{RED}e{WHITE}r{red}~
+
+{RED}{BOLD}you have boarded morfius's nevercannezer
+{GREEN}and are now flying high over the
+{WHITE}wasted land of what use to be earth.{white}{bold}
+
+~
+104 8 1
+D2
+~
+~
+0 -1 3014
+X134217943
+Z1
+C-1
+R0
+S
+$~

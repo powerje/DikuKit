@@ -1,0 +1,3095 @@
+#24200
+{RED}Bend in the Path{red}.~
+
+   {YE}You have entered upon a narrow, empty, dark path.  There are tall trees
+   surrounding you and when you raise your head and look up you cannot see
+   the sky.  The path continues east, but it seems to be more narrow and
+   darker than you had first thought.{ye}
+
+~
+242 5 3
+D1
+~
+~
+0 -1 24201
+D5
+~
+~
+0 -1 13992
+M48
+Z10
+C1
+R0
+S
+#24201
+{RED}Approaching the Castle{red}.~
+
+   {BL}As you continue along the path you can now see where it leads.  In
+   the near distance you can see an enormous black castle.  The castle
+   is built of solid black slate rock reinforced with heavy mortar.
+   Perched high on the tower lofts are intricately carved gargoyles riding
+   high along the sides.  It seems to be rather quiet from here and you
+   cannot see much activity near the perimeter wall.  With such a huge
+   structure towering right before you its hard to believe that it is so
+   well hidden along this path.{bl}
+
+~
+242 5 3
+D1
+~
+~
+0 -1 24202
+D3
+~
+~
+0 -1 24200
+Z10
+C1
+R0
+S
+#24202
+{RED}Outside the Castle{red}.~
+
+  {BL}You finally arrive at the end of the path to find yourself standing outside
+  the gates of the huge castle you had seen from the path leading up to this
+  point.  Something in your distant memory seems to recall a legend about
+  an ominous black castle hidden in the woods were no mortal could reach
+  it and only evil creatures of the night dwell.  Well, here you are standing
+  outside the castle, and the gates do not seem to be locked or guarded.
+  There is no sign of any hideous creatures, so maybe this is not the
+  legendary castle.{bl}
+
+~
+242 5 3
+D0
+A huge obsidian gate looms over your small frame with its enourmous size.
+
+~
+Gate~
+1 -1 24203
+D3
+~
+~
+0 -1 24201
+Z10
+C1
+R0
+S
+#24203
+{RED}Castle Entrance{red}.~
+
+   {CY}As you enter the castle gates, you find the first sign of residency
+   in the form of a guard who stands on duty here.  The entrance of the
+   castle seems somewhat inviting and far less intimidating on the inside
+   as it does from the outside.  Up ahead, you can hear some sounds of
+   people talking and laughing, and it doesn't seem like this guard is 
+   going to give you any resistance if you try and go further into the
+   castle.
+
+   You see a {BLI,RE}SIGN{bli,CY} on the eastern wall. Might be a good idea to look at it.{cy}
+
+~
+242 141 0
+D0
+~
+~
+0 -1 24204
+D2
+A huge obsidian gate looms over your small frame with its emourmous size.
+
+~
+Gate~
+1 -1 24202
+E
+marquis~
+Tonight at Maple Leaf Gardens!
+The 1996 NHL Allstar Game!
+
+**Due to the graphic nature of tonights event we recommend that people entering for the game be at least level 30.
+                                             Thank You
+                                               Gary Bettman
+                                               NHL Commisioner
+~
+E
+sign~
+
+                {CY}This is a    {RE}_..----.._
+                {CY}smokefree {RE}_-'_..----.._'-_
+                {CY}castle  {RE}.'.  \       {WH}({RE} `'.'.
+                       / / `\ `\       {WH}){RE}  \ \
+                      | |   {YE}_{RE}`\ `\{WH}____({RE}    | |
+                      | |  {YE}[__]{WH}_{RE}\ `\{WH}__{RE}()   | |{CY} Any violation
+                      {RE}| |        `\ `\     | |{CY} will result
+                       {RE}\ \         `\ `\  / /  {CY}in instant
+                        {RE}'.'-._       `\ `'.'   {CY}death.
+                          {RE}`-._`'----'`_.-'
+                              `"----"`       {WH,BLI}THANK YOU{wh,bli}
+
+~
+Z8
+C-1
+R0
+S
+#24204
+{RED}The Main Chamber{red}.~
+
+   {CY,BO}This is the large foyer on the main floor of the castle.  There are 
+   rooms in every direction from here.  You can hear guests and residents
+   of the castle laughing and talking amongst themselves from all around 
+   you.  It seems almost as if they are whispering in your ear.{cy,bo}
+
+~
+242 141 0
+D0
+~
+~
+0 -1 24211
+D1
+~
+~
+0 -1 24296
+D2
+~
+~
+0 -1 24203
+D3
+~
+~
+0 -1 24205
+E
+marquis~
+          *******************************
+          *  description to come soon   *
+          *******************************
+~
+Z8
+C-1
+R0
+S
+#24205
+{BL}R{WH}o{BL}a{WH}m{BL}i{WH}n{BL}g {WH}t{BL}h{WH}e{BL} y{WH}a{BL}r{WH}d{wh}.~
+{WH,BO}.            .                     .                   .             .       .   .
+       .        .         .     .        .     .      .        .         .
+           {CY,BO,BLI}+{WH,bli}             .        .            .   .        .       .
+   .               .           .           {RE}*{WH}          .               .         .
+            .           .               .         .          .     .        .
+  .                          .       .       .     {CY,BLI}+{bli,WH}     .            .
+          .        .            .        .                    .                .  
+      .       .          .             .      .           .         .       .     
+ .                 .                                .           .       {MAG}*{WH}        .
+       .                    .            .                 .                .     
+   .         .         .            .            .                .             .{wh}
+
+~
+242 1 1
+D0
+~
+~
+0 -1 24210
+D1
+~
+~
+0 -1 24204
+D3
+~
+~
+0 -1 24206
+Z3
+C-1
+R0
+S
+#24206
+{BL}R{WH}o{BL}a{WH}m{BL}i{WH}n{BL}g {WH}t{BL}h{WH}e{BL} y{WH}a{BL}r{WH}d{wh}.~
+{WH,BO}.            .                     .                   .             .       .   .
+       .        .         .     .        .     .      .        .         .
+           {CY,BO,BLI}+{WH,bli}             .        .            .   .        .       .
+   .               .           .           {GR}*{WH}          .               .         .
+            .           .               .         .          .     .        .
+  .                       {CY,BLI}+{bli,WH}   .       .       .          .            .
+          .        .            .        .                    .                .  
+      .       .          .             .      .           .         .       .     
+ .                 .                                .           .       {YEL}*{WH}        .
+       .                    .            .                 .                .     
+   .         .         .            .            .                .             .{wh}
+~
+242 1 1
+D0
+~
+~
+0 -1 24209
+D1
+~
+~
+0 -1 24205
+D3
+~
+~
+0 -1 24207
+Z3
+C-1
+R0
+S
+#24207
+{BL}R{WH}o{BL}a{WH}m{BL}i{WH}n{BL}g {WH}t{BL}h{WH}e{BL} y{WH}a{BL}r{WH}d{wh}.~
+{WH,BO}.            .                     .                   .             .       .   .
+       .        .         .     .        .     .      .        .         .
+                  {CY,BO,BLI}+{WH,bli}      .        .            .   .        .       .
+   .               .           .          .       {GR}*{WH}   .               .         .
+            .           .               .         .          .     .        .
+              {CY,BLI}+{bli,WH}               .       .       .          .            .
+          .        .            .        .                    .                .  
+      .       .          .             .      .           .         .       .     
+ .                 .                                .  {YEL}*{WH}               .       .
+       .                    .            .                 .                .     
+   .         .         .            .            .                .             .{wh}
+
+~
+242 1 1
+D0
+~
+~
+0 -1 24208
+D1
+~
+~
+0 -1 24206
+Z3
+C-1
+R0
+S
+#24208
+{BL}R{WH}o{BL}a{WH}m{BL}i{WH}n{BL}g {WH}t{BL}h{WH}e{BL} y{WH}a{BL}r{WH}d{wh}.~
+{WH,BO}.            .                     .                   .             .       .   .
+       .        .         .     .        .     .      .        .         .
+           {CY,BO,BLI}+{WH,bli}             .        .            .   .        .       .
+   .               .           .           {GR}*{WH}          .               .         .
+            .           .               .         .          .     .        .
+  .                       {CY,BLI}+{bli,WH}   .       .       .          .            .
+          .        .            .        .                    .                .  
+      .       .          .             .      .           .         .       .     
+ .                 .                                .           .       {YEL}*{WH}        .
+       .                    .            .                 .                .     
+   .         .         .            .            .                .             .{wh}
+
+~
+242 4194305 1
+D0
+{B} {b}{B} {b}{B} {b}{RED}The place to the north contains some very nasty aggressive mobs.{WHI} DO NOT ENTER!
+{B} {b}{B} {b}{B} {b}{RED}Consider this a warning.  If you die, it was because you were careless enough to not
+{B} {b}{B} {b}{B} {b}{RED}take my warning seriously.{red}
+
+~
+backdoor~
+4 24224 24218
+D1
+South-West Corner of Lobby
+~
+~
+0 -1 24209
+D2
+~
+~
+0 -1 24207
+Z3
+C-1
+R0
+S
+#24209
+{BL}R{WH}o{BL}a{WH}m{BL}i{WH}n{BL}g {WH}t{BL}h{WH}e{BL} y{WH}a{BL}r{WH}d{wh}.~
+{WH,BO}.            .                     .                   .             .       .   .
+       .        .         .     .        .     .      .        .         .
+           {CY,BO,BLI}+{WH,bli}             .        .            .   .        .       .
+   .               .           .           {RE}*{WH}          .               .         .
+            .           .               .         .          .     .        .
+  .                          .       .       .     {CY,BLI}+{bli,WH}     .            .
+          .        .            .        .                    .                .  
+      .       .          .             .      .           .         .       .     
+ .                 .                                .           .       {MAG}*{WH}        .
+       .                    .            .                 .                .     
+   .         .         .            .            .                .             .{wh}
+
+~
+242 1 1
+D1
+~
+~
+0 -1 24210
+D2
+~
+~
+0 -1 24206
+D3
+The Southern Aisle continues
+~
+~
+0 -1 24208
+Z3
+C-1
+R0
+S
+#24210
+{BL}R{WH}o{BL}a{WH}m{BL}i{WH}n{BL}g {WH}t{BL}h{WH}e{BL} y{WH}a{BL}r{WH}d{wh}.~
+{WH,BO}.            .                     .                   .             .       .   .
+       .        .         .     .        .     .      .        .         .
+           {YEL,BO,BLI}+{WH,bli}             .        .            .   .        .       .
+   .               .           .           {MAG}*{WH}          .               .         .
+            .           .               .         .          .     .        .
+  .                          .       .       .     {CY,BLI}+{bli,WH}     .            .
+          .        .            .        .                    .                .  
+      .       .          .             .      .           .         .       .     
+ .                 .                                .           .       {RE}*{WH}        .
+       .                    .            .                 .                .     
+   .         .         .            .            .                .             .{wh}
+
+~
+242 1 1
+D2
+~
+~
+0 -1 24205
+D3
+~
+~
+0 -1 24209
+Z3
+C-1
+R0
+S
+#24211
+{RED}The Main Hallway{red}.~
+
+   {BLU}The main hallway leads deeper into the castle away from the main
+   entrance chamber.  The hallway is well lit with several torches
+   attached to the walls.  The torches calmly flicker with soft orange
+   flames.  The hallway continues to the north.{blu}
+
+~
+242 141 0
+D0
+~
+~
+0 -1 24215
+D2
+~
+~
+0 -1 24204
+Z6
+C-1
+R0
+S
+#24212
+{RE}Waterfront{BO,YE} Stage{bo,ye}.~
+
+{RE}.:*-*:._.:*-*:._.:*-*:._.:{WH,BLI}*{bli,RE}-{WH,BLI}*{bli,RE}:._.:{WH,BLI}*{bli,RE}-{WH,BLI}*{bli,RE}:._.:{WH,BLI}*{bli,RE}-{WH,BLI}*{bli,RE}:._.:*-*:._.:*-*:._.:*-*:.
+.
+   {BO,YE}You are standing up on stage.  The lights are brightly beating down
+   on you as your drunken audience eagerly awaits the show. A young
+   actress of preternatural beauty, silhouetted against the stage lights
+   at her back, approaches you almost levitating as she nears you. As she
+   steps from the darkness of her silhouette you discover she is not the
+   beauty that she appeared to be. You wish to yourself that she would
+   step back into the shadows.{bo,RE}
+.
+':{WH,BLI}*{bli,RE}-{WH,BLI}*{bli,RE}:'^':*-*:'^':*-*:'^':*-*:'^':*-*:'^':*-*:'^':*-*:'^':*-*:'^':{WH,BLI}*{bli,RE}-{WH,BLI}*{bli,RE}:'{re}
+
+~
+242 16777217 9
+D2
+~
+Stage~
+1 -1 24296
+Z3
+C-1
+R0
+S
+#24213
+{RED}A small room.{red}~
+    {YE}_      {WH}xxxx      {YE}_{RE} A small bare room, illuminated only by the full
+   {YE}/_;-.__ / _\  _.-;_\ {RE}moon splashing through the window on the far wall.
+ {CY}And  {YE}`-._`'`_/'`.-'   {RE}A shadow of a man sits alone at a table against the
+ {CY}this     {YE}`\   /` {RE}back wall, seemingly talking to himself. He extends his
+ {CY}is the    {YE}|  /  {RE}arm out across the table and fumbles with a small tape
+ {CY}promise  {WH}/-.(  {RE}recorder. As you step closer to the man you notice he is
+ {CY}that     {WH}\_._\  {RE}young, half-shaven, dressed in a T-shirt and jeans. He
+ {CY}he has    {YE}\ \`;  {RE}appears to be staring off at the window muttering
+ {CY}promised   {YE}> |/ {RE}something about a wish of eternal life. As you draw
+ {CY}us --     {YE}/ // {RE}closer to him you notice tears in his eyes as if he is
+ {CY}eternal   {YE}|// {RE}in some sort of tormented state of mind.
+ {CY}life.     {YE}\(\
+ {WH}John 2:25  {YE}``{ye}
+
+~
+242 525333 0
+D2
+You see a sturdy door made of solid oak and painted black.
+~
+backdoor~
+2 24202 24297
+X2048
+Z19
+C3
+R0
+S
+#24214
+{BL}F{BLINK}ee{blink}{BL}ling {RE}C{BL}rampe{RE}d{re}~
+
+   {BL}The air is thin and you can hardly breathe.  The smell of blood and 
+   carnage fill your nostrils and make you nauseous.  The lid on the
+   coffin is closed tight and not a sound can be heard from beyond its
+   confines.  You can feel objects rattling around at your feet.  Lots of
+   armor and weapons lay scattered about the coffin.  It's no wonder
+   only one person can fit in here.  It looked alot bigger from outside.{bl}
+
+~
+242 16605 0
+D5
+~
+~
+0 -1 24293
+Z3
+C1
+R0
+S
+#24215
+{RED}The Main Hallway{red}.~
+
+{WH}_________________________________________________________________________
+    TITLE:{RE}   "Children of the Night" {WH}(High Advanced w/groups) 
+    RATING:{RE}  NC{WH,BLI}17{bli,WH} (restricted audience)
+    SUMMARY: {RE}Basically a hack and slash, castle storming, vampire
+    slaying, no holds barred killing feast. Watch your back...
+    {WH}CONTENT: {RE}Profane language, extreme graphic violence, religious
+    undertones, semi-nonconcentual sex and some disturbing visual
+    images.
+    {WH}DISCLAIMER: {RE}Some of the characters in my zone bear the names of
+    characters in novels by Anne Rice. The story in and of itself
+    is original and entirely my own. No copyright infringement was
+    intended in whole or part. No profit was made from this zone.
+{WH}__________________{CY}Do not enter if this offends you!{WH}______________________{wh}
+
+~
+242 140 0
+D0
+~
+~
+0 -1 24222
+D2
+~
+~
+0 -1 24211
+Z-1
+C-1
+R0
+S
+#24216
+{WH}The {CY}D{WH}o{CY}l{WH}l Shop{wh}.~
+
+      {BL}/      \
+   \  \  ,,  /  / {WH}Piano music over. Mozart, now well played.  A large
+    {BL}'-.`\()/`.-'{WH}  glass case adorns the corner of the room.  A large array
+   {BL}.--_'(  )'_--.{WH} of eighteenth century dolls line the inside of the silver
+  {BL}/ /` /`""`\ `\ \{WH}cornered display case.  Large torchier style prairie rings
+   {BL}|  |  {RE}><{BL}  |  | {WH}encompass weighted bees wax casings which line the domed
+   {BL}\  \      /  / {WH}well lit walls.{BL}
+       '.__.'{bl}
+
+~
+242 16777225 0
+D0
+~
+~
+0 -1 24221
+D3
+~
+~
+0 -1 24217
+M34
+Z3
+C2
+R0
+S
+#24217
+{WH}The {CY}D{WH}o{CY}l{WH}l Shop{wh}.~
+
+      {BL}/      \
+   \  \  ,,  /  / {WH}Piano music over. Mozart, now well played.  A large
+    {BL}'-.`\()/`.-'{WH}  glass case adorns the corner of the room.  A large array
+   {BL}.--_'(  )'_--.{WH} of eighteenth century dolls line the inside of the silver
+  {BL}/ /` /`""`\ `\ \{WH}cornered display case.  Large torchier style prairie rings
+   {BL}|  |  {RE}><{BL}  |  | {WH}encompass weighted bees wax casings which line the domed
+   {BL}\  \      /  / {WH}well lit walls.{BL}
+       '.__.'{bl}
+
+~
+242 16777225 0
+D0
+~
+~
+0 -1 24220
+D1
+~
+~
+0 -1 24216
+D3
+~
+~
+0 -1 24218
+M34
+Z3
+C2
+R0
+S
+#24218
+{WH}The {CY}D{WH}o{CY}l{WH}l Shop{wh}.~
+
+      {BL}/      \
+   \  \  ,,  /  / {WH}Piano music over. Mozart, now well played.  A large
+    {BL}'-.`\()/`.-'{WH}  glass case adorns the corner of the room.  A large array
+   {BL}.--_'(  )'_--.{WH} of eighteenth century dolls line the inside of the silver
+  {BL}/ /` /`""`\ `\ \{WH}cornered display case.  Large torchier style prairie rings
+   {BL}|  |  {RE}><{BL}  |  | {WH}encompass weighted bees wax casings which line the domed
+   {BL}\  \      /  / {WH}well lit walls.{BL}
+       '.__.'{bl}
+
+~
+242 16777225 0
+D0
+~
+~
+0 -1 24219
+D1
+~
+~
+0 -1 24217
+D2
+~
+backdoor~
+3 -1 24208
+M34
+Z3
+C2
+R0
+S
+#24219
+{WH}The {CY}D{WH}o{CY}l{WH}l Shop{wh}.~
+
+      {BL}/      \
+   \  \  ,,  /  / {WH}Piano music over. Mozart, now well played.  A large
+    {BL}'-.`\()/`.-'{WH}  glass case adorns the corner of the room.  A large array
+   {BL}.--_'(  )'_--.{WH} of eighteenth century dolls line the inside of the silver
+  {BL}/ /` /`""`\ `\ \{WH}cornered display case.  Large torchier style prairie rings
+   {BL}|  |  {RE}><{BL}  |  | {WH}encompass weighted bees wax casings which line the domed
+   {BL}\  \      /  / {WH}well lit walls.{BL}
+       '.__.'{bl}
+
+~
+242 16777225 0
+D1
+~
+~
+0 -1 24220
+D2
+~
+~
+0 -1 24218
+M34
+Z3
+C2
+R0
+S
+#24220
+{WH}The {CY}D{WH}o{CY}l{WH}l Shop{wh}.~
+
+      {BL}/      \
+   \  \  ,,  /  / {WH}Piano music over. Mozart, now well played.  A large
+    {BL}'-.`\()/`.-'{WH}  glass case adorns the corner of the room.  A large array
+   {BL}.--_'(  )'_--.{WH} of eighteenth century dolls line the inside of the silver
+  {BL}/ /` /`""`\ `\ \{WH}cornered display case.  Large torchier style prairie rings
+   {BL}|  |  {RE}><{BL}  |  | {WH}encompass weighted bees wax casings which line the domed
+   {BL}\  \      /  / {WH}well lit walls.{BL}
+       '.__.'{bl}
+
+~
+242 16777225 0
+D1
+~
+~
+0 -1 24221
+D2
+~
+~
+0 -1 24217
+D3
+~
+~
+0 -1 24219
+M34
+Z3
+C2
+R0
+S
+#24221
+{WH}The {CY}D{WH}o{CY}l{WH}l Shop{wh}.~
+
+      {BL}/      \
+   \  \  ,,  /  / {WH}Piano music over. Mozart, now well played.  A large
+    {BL}'-.`\()/`.-'{WH}  glass case adorns the corner of the room.  A large array
+   {BL}.--_'(  )'_--.{WH} of eighteenth century dolls line the inside of the silver
+  {BL}/ /` /`""`\ `\ \{WH}cornered display case.  Large torchier style prairie rings
+   {BL}|  |  {RE}><{BL}  |  | {WH}encompass weighted bees wax casings which line the domed
+   {BL}\  \      /  / {WH}well lit walls.{BL}
+       '.__.'{bl}
+
+~
+242 16777229 0
+D2
+~
+~
+0 -1 24216
+D3
+~
+~
+0 -1 24220
+M34
+Z3
+C2
+R0
+S
+#24222
+{RED}The Main Hallway{red}.~
+
+   {BLU}The main hallway leads deeper into the castle away from the main
+   entrance chamber.  The hallway is well lit with several torches
+   attached to the walls.  The torches calmly flicker with soft orange
+   flames.  The hallway continues to the north.{blu}
+
+~
+242 137 0
+D0
+~
+~
+0 -1 24229
+D1
+{WH}A small crack forms from the bubbled plaster molding that surrounds
+   the trim that runs along the edging of this hall corridor.{wh}
+
+~
+crack~
+3 -1 24223
+D2
+~
+~
+0 -1 24215
+D3
+{WH}An eight foot oak panel door encasing two four foot long panes
+   of glass.  Above the entrance is a brass hanging sign with french
+   lettering that spells out the words "{CY}The Doll House{WH}".{wh}
+
+~
+Panel~
+3 0 24221
+Z8
+C-1
+R0
+S
+#24223
+{BL}B{WH}r{BL}o{WH}k{BL}e{WH}n{BL} R{WH}e{BL}a{WH}l{BL}i{WH}t{BL}y{bl}.~
+
+                    {YE}________________________________
+                   {BO,YE}@{bo,YE}________________________________)
+                    |                               |
+                    |       {BL}Take a closer look,{YE}     |
+                    |    {BL}And tell me what you see.{YE}  |
+                    |   {BL}The damned and crucifiable,{YE} |
+                    |       {BL}Are all around me.{YE}      |
+                    | ______________________________|
+                     {BO,YE}@{bo,YE}_______________________________){ye}
+
+~
+242 9 9
+D1
+~
+~
+0 -1 24224
+D3
+~
+crack~
+1 -1 24222
+Z3
+C-1
+R0
+S
+#24224
+{BL}O{WH}n{BL} t{WH}h{BL}e{WH} C{BL}u{WH}s{BL}p {WH}o{BL}f {WH}R{BL}e{WH}a{BL}l{WH}i{BL}t{WH}y{wh}.~
+
+                    {YE}________________________________
+                   {BO,YE}@{bo,YE}________________________________)
+                    |                               |
+                    |   {BL}The day light is closing,{YE}   |
+                    |    {BL}And Hell is on it's way.{YE}   |
+                    | {BL}He who judges passed the law,{YE} |
+                    |  {BL}And it's me who has to pay.{YE}  |
+                    | ______________________________|
+                     {BO,YE}@{bo,YE}_______________________________){ye}
+
+~
+242 9 0
+D2
+~
+~
+0 -1 24227
+Z3
+C-1
+R0
+S
+#24225
+{BLU}The Velvet Suite{blu}~
+
+  {BLU}What a voluptuous scene, this masquerade. The rooms in which it is held.
+  There are seven --an imperial suite. In many palaces, however, such suites
+  form a long and straight vista, while the folding doors slide back nearly
+  to the walls on either hand, so that the view of the whole extent is
+  scarcely impeded. The apartments are so irregularly disposed that the
+  vision embraced but little more than one at a time. There is a sharp turn
+  at every twenty or thirty yards, and at each turn a novel effect. To the 
+  right and left, in the middle of each wall, a tall and narrow Gothic
+  window looks out upon a closed corridor which pursues the windings of the
+  suite. These windows are of stained glass whose color varies in accordance
+  with the prevailing hue of the decorations of the chamber into which it 
+  opens. This room seems to sedate you with its melancholy velvet hues.{blu}
+
+~
+242 8 0
+D2
+~
+~
+0 -1 24257
+D5
+~
+cellar~
+1 -1 24228
+Z3
+C-1
+R0
+S
+#24226
+{BL}T{WH}h{BL}e{WH} C{BL}o{WH}r{BL}e{WH} o{BL}f{RE} R{BL}e{RE}a{BL}l{RE}i{BL}t{RE}y{re}.~
+
+                    {RE}________________________________
+                   {BO,RE}@{bo,RE}________________________________)
+                    |                               |
+                    |     {BL}Alice found the rabbit,{RE}   |
+                    |   {BL}The rabbit found the time,{RE}  |
+                    |     {BL}Satan found your soul,{RE}    |
+                    |     {BL}You found your corpse,{RE}    |
+                    |          {BL}don't whine.{RE}         |
+                    | ______________________________|
+                     {BO,RE}@{bo,RE}_______________________________){re}
+
+~
+242 137 0
+D0
+~
+~
+0 -1 24223
+X2656
+Z3
+C1
+R0
+S
+#24227
+{BL}C{WH}l{BL}o{WH}s{BL}e{WH}r{BL} t{WH}o{BL} t{WH}h{BL}e{WH} C{BL}o{WH}r{BL}e{bl}.~
+
+                    {YE}________________________________
+                   {BO,YE}@{bo,YE}________________________________)
+                    |                               |
+                    |       {BL}Take a closer look,{YE}     |
+                    |    {BL}And tell me how you lie,{YE}   |
+                    |       {BL}The day has ended,{YE}      |
+                    |    {BL}And now it's time to die.{YE}  |
+                    | ______________________________|
+                     {BO,YE}@{bo,YE}_______________________________){ye}
+
+~
+242 9 0
+D3
+~
+~
+0 -1 24226
+Z3
+C-1
+R0
+S
+#24228
+The Black Velvet Suite~
+
+   {BL}This suite is closely shrouded in black velvet tapestries that hang all over
+   the ceiling and down the walls, falling in heavy folds upon a carpet of the 
+   same material and hue. But in this chamber only, the color of the windows
+   fail to correspond with the decorations. The panes here are scarlet --a 
+   deep {RE}blood {BL}color.  But in the corridors that followed the suite, there stood,
+   opposite to each window, a heavy tripod, bearing a brazier of fire that
+   projects its rays through the tinted glass and so glaringly illuminates the
+   room. And thus a multitude of gaudy and fantastic appearances are produced.
+   But in this chamber the effect of the fire-light that streams upon the dark
+   hangings through the blood-tinted panes, is ghastly in the extreme, and
+   produces so wild a look upon the countenances of those who enter, that there
+   are few of the company bold enough to set foot within its precincts at all.{bl}
+
+~
+242 4194440 0
+D4
+~
+cellar~
+1 -1 24225
+D5
+You continue your descent into the abyss...
+
+~
+cellar~
+3 -1 24251
+Z3
+C-1
+R0
+S
+#24229
+{RED}The Main Hallway{red}.~
+
+   {BLU}The main hallway leads deeper into the castle away from the main
+   entrance chamber.  The hallway is well lit with several torches
+   attached to the walls.  The torches calmly flicker with soft orange
+   flames.  The hallway continues to the north.{blu}
+
+~
+242 137 0
+D0
+~
+~
+0 -1 24230
+D2
+~
+~
+0 -1 24222
+Z8
+C-1
+R0
+S
+#24230
+{RED}End of the Hallway{red}.~
+
+   {CY}You have come to the end of this long hallway.  Torches flicker silently
+   with their calm orange glow.  A slight draft seems to be coming from under
+   the wall to the north and a strange tapestry hangs over the east wall.{cy}
+
+~
+242 137 0
+D0
+{B} {b}{B} {b}{B} {b}{WHI}A huge limestone wall appears to be crumbling right before your eyes.
+{B} {b}{B} {b}{B} {b}{WHI}You can see large cracks starting to form from the base of the wall.
+{B} {b}{B} {b}{B} {b}{WHI}The cracks run both horizontal and vertical and appear to form some
+{B} {b}{B} {b}{B} {b}{WHI}sort of large stone barrier. You can spot a small keyhole there..{whi}
+
+~
+door~
+4 24233 24289
+D1
+{BL}.                      This magnificently
+                   oversized tapestry appears
+                to date back          to the 1800's.
+              It shows an                english woman
+             and two you                 ng boys leani
+             ng over her                 licking blood
+             from her ne
+             ck. She has   {BO,RE}Cruz ({YE}tm{BO,RE}){bo,BL}
+             an errie gr       {BO,RE}Productions{bo,BL}
+             in and a bl
+             ank express                 ion on her fa
+              ce.  In the                background yo
+               u can see a              large black ca
+                 stle, kindda        like this one,
+                   with black clouds over it.  A fo
+                      rboding aura surrounds the
+                           entire tapestry.{bl}
+
+~
+tapestry~
+4 24228 24231
+D2
+~
+~
+0 -1 24229
+D3
+~
+~
+0 -1 24232
+Z8
+C-1
+R0
+S
+#24231
+{BO,RE}B{BL}R{BO,RE}I{BL}C{BO,RE}K {BL}Air Well{bl}~
+
+ {BL}...standing high above        the sins of man, you gaze
+   below, staring over          the brink of sanity, s
+     eeing only pale sha      dows seeping through t
+        he freshness of sti  cky morning dew. T
+           he gentle wind blows against you,
+               carrying you far into the 
+                   next level of human
+                 ity. Misty drives by an
+               d she drives by again, not s
+             topping, but taunting you to regr
+           ession and denial.  You hear the screams
+        of slaves calling          you, torturing your
+     guilt-stricken idea              ls. Others are so set
+  in their ways, only inter         preting what they care t
+  o hear, and what they long for.{bl}
+
+~
+242 1033 0
+D3
+{B} {b}{B} {b}{B} {b}{WHI}Tapestry..{whi}
+
+~
+tapestry~
+1 -1 24230
+D5
+~
+~
+0 -1 24278
+Z3
+C-1
+R0
+S
+#24232
+{RED}A {BLACK}Dark{black} {RED}Hallway{red}.~
+
+   {BL}You are standing under a huge archway off the main hallway that leads
+   further down this darkened corridor.  The lighting here is very poor as 
+   compared to the previous rooms of the castle.  There are no torches to 
+   line the walls, and the only light is that which spills over from the 
+   main hallway.  It seems that this hallway probably leads to the parts
+   of the castle where the guests were not intended to roam about.{bl}
+
+~
+242 137 0
+D1
+~
+~
+0 -1 24230
+D3
+~
+~
+0 -1 24233
+Z11
+C-1
+R0
+S
+#24233
+{RED}A {BLACK}Dark{black} {RED}Hallway{red}.~
+
+   {BL}The lighting here is very poor as compared to the previous rooms of the
+   castle.  There are no torches to line the walls, and the only light
+   is that which spills over from the main hallway.  It seems that this
+   hallway probably leads to the parts of the castle where the guests
+   are not supposed to roam about.{bl}
+
+~
+242 137 0
+D1
+~
+~
+0 -1 24232
+D3
+~
+~
+0 -1 24234
+Z11
+C-1
+R0
+S
+#24234
+{RED}A {BLACK}Darker{RED} Corner{red}.~
+
+   {BL}As you reach the end of this hallway you find that it turns heading
+   north.  There are no light sources at the end of this hallway, and
+   even the light that was spilling over from the hallway doesn't reach
+   this far down the corridor.  You notice a {YE,BO}s{BL}h{YE}i{BL}m{YE,BO}m{BL}e{YE}r{BL} of light{bo,BL} north of
+   here.  You see some {RE}r{BO}e{bo,RE}d{BL} liquid flowing in from the north.  This is
+   probably not a good sign.{bl}
+
+~
+242 173 0
+D0
+~
+~
+0 -1 24235
+D1
+~
+~
+0 -1 24233
+Z12
+C-1
+R0
+S
+#24235
+{RE}One {BLACK}Way {RE}Out{re}.~
+
+   {BL}A small room of 10' by 10' walls.  A lone pedestal stands erect and
+   motionless in the corner of the room.  On the pedestal stands a bust
+   of a handsome man with deep piercing {BO,GR}e{bo,BL}y{BO,GR}e{bo,BL}s.  In the corner of the room
+   is a pile of rat bones.  A horrible stench emanates from the blood
+   stained pile.  A large rat makes its way around the east wall of the
+   room.  A shadow creeps from the darkness and clutches the rat from 
+   the floor with one fell swoop.  It pulls the varment into the darkness
+   all you can hear is a barely audible sucking sound.  At that moment
+   the creature is tossed onto the pile of bones into the corner, the 
+   stillness of the room allows you to hear the last beats of it heart.{bl}
+
+~
+242 9 0
+D2
+~
+~
+0 -1 24234
+D4
+{RE}The top of this room is covered with splattered blood.  There  
+   appears to be a small ring smoothly flushed in the stone.{re}
+
+~
+ceiling~
+3 -1 24236
+E
+ceiling~
+   {BL}The ceiling is covered with some sort of {WH}white{BL} residue.  It seems soft and brittle.{bl}
+~
+M35
+Z11
+C-1
+R0
+S
+#24236
+{BLACK,BO}An {RED,BO}Unknown{red,bo} {BLACK,BO}Passage{black,bo}~
+
+   {BO,BL}You evade the shadow only to find yourself with no way to go but up from
+   here. You better hurry you don't know if that thing is following you or not.
+
+   You can feel a strong sense of death up from here.  It might be wise to recall
+   and come back again some other day.  Most people don't have the stomach to go
+   on any further.{bl,bo}
+
+~
+242 257 0
+D4
+~
+~
+0 -1 24237
+T24200
+Z11
+C-1
+R0
+S
+#24237
+{BL}An {RE,BO}Unknown{re,bo,BL} Passage{bl}.~
+
+   {BO,BL}You evade the shadow only to find yourself with no way to go but up from
+   here. You better hurry you don't know if that thing is following you or not.
+
+   You can feel a strong sense of death up from here.  It might be wise to recall
+   and come back again some other day.  Most people don't have the stomach to go
+   on any further.{bl,bo}
+
+~
+242 257 0
+D4
+~
+~
+0 -1 24238
+T24200
+Z11
+C-1
+R0
+S
+#24238
+{BL,BO}Pain {RE}Comes {BL}Quickly{bl}.~
+
+   {BL}The shadow appears to have stopped hunting you, but you wouldn't know 
+   this unless you were flying.  You are now hovering inches from extremely
+   sharp oaken spikes meant to protect the inhabitants of this castle from
+   invaders like you.  If you just happen to be flying then you have earned
+   the right to go on further into the darkness.{bl}
+
+   {RE}WARNING{BL}:  You should be prepared for anything.
+
+   Nothing you have faced before can prepare you for the challenges that
+   await you as you follow instinct and cunning further into this massive
+   tomb.{bl}
+
+~
+242 39 9
+D0
+~
+~
+0 -1 24239
+T24200
+X7340032
+Z3
+C-1
+R0
+S
+#24239
+{RE}On the path to the Children of the {BL}PLAGUE{bl}.~
+
+{BL}The children originated in England during the Black Plague. They were
+origio{RE}nally{BL} a small outcast of homeless vagrants and runaway foster
+childr{RE}e{BL}n.  {RE}T{BL}h{RE}e{BL}y ma{RE}de t{BL}he mis{RE}take{BL} of d{RE}r{BL}inki{RE}n{BL}g from a group of plague
+tainte{RE}d{BL} vic{RE}t{BL}i{RE}m{BL}s. F{RE}o{BL}r s{RE}o{BL}me s{RE}t{BL}rang{RE}e{BL} rea{RE}s{BL}on t{RE}h{BL}e pl{RE}ague d{BL}id not cause
+final {RE}death{BL} a{RE}s{BL} it {RE}did wi{BL}th {RE}o{BL}ther infe{RE}c{BL}ted {RE}v{BL}ampi{RE}r{BL}es. Instead it fused 
+with t{RE}h{BL}eir bl{RE}o{BL}od, {RE}f{BL}ormi{RE}n{BL}g a so{RE}rt o{BL}f s{RE}y{BL}mbi{RE}o{BL}tic r{RE}elat{BL}ionship. The
+childr{RE}e{BL}n trie{RE}d{BL} to {RE}p{BL}rolo{RE}n{BL}g t{RE}h{BL}e pla{RE}g{BL}ue, {RE}but{BL} when {RE}i{BL}t was eliminated the
+childr{RE}e{BL}n went into hiding in {RE}dark{BL} underground c{RE}hamber{BL}s, but now with
+the ri{RE}s{BL}ing th{RE}e AIDS{BL} epidemic the bloodline has returned to spread.{bl}
+
+~
+242 16793609 1
+D0
+~
+~
+0 -1 24240
+Z3
+C-1
+R0
+S
+#24240
+{RE}The {BL}Epidemic{RE} Continues{re}.~
+
+{RE}.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:.
+.
+  {BL}The children have almost no knowledge of the modern world, but would
+  like to make overtures to their brothers and sisters of a new area.
+  Consider most of their stereotypes to be similar to the vampyre of 
+  New England, but add for western spawn: {CY}"{BL}They seem so much like we
+  were. Maybe they are the spawn of our brethren, who awakened before
+  this lovely new epidemic.{CY}"{bo,RE}
+.
+.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:.{re}
+
+~
+242 16793609 1
+D0
+~
+~
+0 -1 24250
+D1
+{B} {b}{B} {b}{B} {b}{BLA}There is a locked door in the wall, waiting to be opened..{bla}
+
+~
+Door~
+2 24228 24241
+D2
+~
+~
+0 -1 24239
+Z3
+C-1
+R0
+S
+#24241
+{WH}Begin {BL}the {WH}Pain{wh}~
+
+   {RE}Walls are painted with famous copies of Durer, Brueghel, Goya and Bosh
+   depictions of death.  Fine black oaken coffins line the smooth stone 
+   laden walls.  Candles burn in sconces, casting alternate shadows and 
+   pools of light.  Shrieks of preternatural laughter echo throughout the
+   huge underground ballroom.  Figures jut in and out of the shadows,
+   closing in on you as you huddle near the wall.{re}
+
+~
+242 20988201 0
+D1
+~
+~
+0 -1 24242
+D2
+~
+~
+0 -1 24244
+T24214
+Z3
+C2
+R0
+S
+#24242
+{BO,BL}Huge {bo,BL}Underground {BO,BL}Ballroom{bo,bl}~
+
+   {RE}Walls are painted with famous copies of Durer, Brueghel, Goya and Bosh
+   depictions of death.  Fine black oaken coffins line the smooth stone 
+   laden walls.  Candles burn in sconces, casting alternate shadows and 
+   pools of light.  Shrieks of preternatural laughter echo throughout the
+   huge underground ballroom.  Figures jut in and out of the shadows,
+   closing in on you as you huddle near the wall.{re}
+
+~
+242 20988201 0
+D1
+~
+~
+0 -1 24243
+D2
+~
+~
+0 -1 24245
+D3
+~
+~
+0 -1 24241
+T24214
+Z3
+C2
+R0
+S
+#24243
+{BO,BL}Huge {bo,BL}Underground {BO,BL}Ballroom{bo,bl}~
+
+   {RE}Walls are painted with famous copies of Durer, Brueghel, Goya and Bosh
+   depictions of death.  Fine black oaken coffins line the smooth stone 
+   laden walls.  Candles burn in sconces, casting alternate shadows and 
+   pools of light.  Shrieks of preternatural laughter echo throughout the
+   huge underground ballroom.  Figures jut in and out of the shadows,
+   closing in on you as you huddle near the wall.{re}
+
+~
+242 20988201 0
+D2
+~
+~
+0 -1 24246
+D3
+~
+~
+0 -1 24242
+T24214
+Z3
+C2
+R0
+S
+#24244
+{BO,BL}Huge {bo,BL}Underground {BO,BL}Ballroom{bo,bl}~
+
+   {RE}Walls are painted with famous copies of Durer, Brueghel, Goya and Bosh
+   depictions of death.  Fine black oaken coffins line the smooth stone 
+   laden walls.  Candles burn in sconces, casting alternate shadows and 
+   pools of light.  Shrieks of preternatural laughter echo throughout the
+   huge underground ballroom.  Figures jut in and out of the shadows,
+   closing in on you as you huddle near the wall.{re}
+
+~
+242 20988201 0
+D0
+~
+~
+0 -1 24241
+D1
+~
+~
+0 -1 24245
+D2
+~
+~
+0 -1 24247
+T24214
+Z3
+C2
+R0
+S
+#24245
+{WH}Above {BL}the {WH}Casket{wh}~
+
+   {BL,BO}As you walk through, vampire man and women appear out of the shadows 
+   like wraiths, startling you, drifting around you, stroking your hair,
+   touching your clothing as if you were some kind of doll.  You stand 
+   over a large casket that has been inset into the ground.  It is large
+   enough to fit two grown men without much problem.  Shrieks of preter-
+   natural laughter surround you.{bo,bl}
+
+~
+242 20987945 0
+D0
+~
+~
+0 -1 24242
+D1
+~
+~
+0 -1 24246
+D2
+~
+~
+0 -1 24248
+D3
+~
+~
+0 -1 24244
+D5
+~
+~
+0 -1 24214
+Z3
+C2
+R0
+S
+#24246
+{BO,BL}Huge {bo,BL}Underground {BO,BL}Ballroom{bo,bl}~
+
+   {RE}Walls are painted with famous copies of Durer, Brueghel, Goya and Bosh
+   depictions of death.  Fine black oaken coffins line the smooth stone 
+   laden walls.  Candles burn in sconces, casting alternate shadows and 
+   pools of light.  Shrieks of preternatural laughter echo throughout the
+   huge underground ballroom.  Figures jut in and out of the shadows,
+   closing in on you as you huddle near the wall.{re}
+
+~
+242 20988201 0
+D0
+~
+~
+0 -1 24243
+D2
+~
+~
+0 -1 24249
+D3
+~
+~
+0 -1 24245
+T24214
+Z3
+C2
+R0
+S
+#24247
+{BO,BL}Huge {bo,BL}Underground {BO,BL}Ballroom{bo,bl}~
+
+   {RE}Walls are painted with famous copies of Durer, Brueghel, Goya and Bosh
+   depictions of death.  Fine black oaken coffins line the smooth stone 
+   laden walls.  Candles burn in sconces, casting alternate shadows and 
+   pools of light.  Shrieks of preternatural laughter echo throughout the
+   huge underground ballroom.  Figures jut in and out of the shadows,
+   closing in on you as you huddle near the wall.{re}
+
+~
+242 20987949 0
+D0
+~
+~
+0 -1 24244
+D1
+~
+~
+0 -1 24248
+D3
+~
+~
+0 -1 24240
+E
+sign~
+          ************************************
+          *  FUTURE GATE SIGN HERE !!!!!!!!  *
+          ************************************
+~
+Z3
+C2
+R0
+S
+#24248
+{BO,BL}Huge {bo,BL}Underground {BO,BL}Ballroom{bo,bl}~
+
+   {RE}Walls are painted with famous copies of Durer, Brueghel, Goya and Bosh
+   depictions of death.  Fine black oaken coffins line the smooth stone 
+   laden walls.  Candles burn in sconces, casting alternate shadows and 
+   pools of light.  Shrieks of preternatural laughter echo throughout the
+   huge underground ballroom.  Figures jut in and out of the shadows,
+   closing in on you as you huddle near the wall.{re}
+
+~
+242 20988201 0
+D0
+~
+~
+0 -1 24245
+D1
+~
+~
+0 -1 24249
+D3
+~
+~
+0 -1 24247
+T24214
+Z3
+C2
+R0
+S
+#24249
+{BO,BL}Huge {bo,BL}Underground {BO,BL}Ballroom{bo,bl}~
+
+   {RE}Walls are painted with famous copies of Durer, Brueghel, Goya and Bosh
+   depictions of death.  Fine black oaken coffins line the smooth stone 
+   laden walls.  Candles burn in sconces, casting alternate shadows and 
+   pools of light.  Shrieks of preternatural laughter echo throughout the
+   huge underground ballroom.  Figures jut in and out of the shadows,
+   closing in on you as you huddle near the wall.{re}
+
+~
+242 20988201 0
+D0
+~
+~
+0 -1 24246
+D3
+~
+~
+0 -1 24248
+T24214
+Z3
+C2
+R0
+S
+#24250
+{RE}The {BL}Epidemic{RE} Continues{re}.~
+
+{RE}.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:.
+.
+  {BL}The children have almost no knowledge of the modern world, but would
+  like to make overtures to their brothers and sisters of a new area.
+  Consider most of their stereotypes to be similar to the vampyre of 
+  New England, but add for western spawn: {CY}"{BL}They seem so much like we
+  were. Maybe they are the spawn of our brethren, who awakened before
+  this lovely new epidemic.{CY}"{bo,RE}
+.
+.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:.{re}
+
+~
+242 16793609 1
+D0
+The Seats continue
+~
+~
+0 -1 24251
+D2
+~
+~
+0 -1 24240
+Z3
+C-1
+R0
+S
+#24251
+{BL}Shattered{RE} Reality{re}.~
+
+{BL}.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:.{bl}
+
+   {BO,CY}Quote:{bo,MA}  "You say that we are evil, you call us 'monstrous' because
+   we take pride in our work.  Is it monstrous to be true to one's
+   nature? We must kill; why not do it well?  The tiger, too, must
+   kill to survive, yet you do not call tigers evil... You think us
+   depraved because we meddle with your well-laid plans, but we just
+   understand that the old must fall to make way for the new.  And,
+   like tigers, we test our prey, searching for weaknesses..."{ma}
+
+{BL}.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:.{bl}
+
+~
+242 16793613 1
+D1
+~
+~
+0 -1 24258
+D2
+The Seats continue
+~
+~
+0 -1 24250
+D3
+{B} {b}{B} {b}{B} {b}{BLA,BO}A strong door guards the entrance to a building that might
+{B} {b}{B} {b}{B} {b}{BLA,BO}be a theater.{bla,bol}
+
+~
+Theatre~
+2 24232 24252
+Z3
+C-1
+R0
+S
+#24252
+{RE}Theatre {BL}Des{RE} Vampires{re}~
+ ,                                                               ,
+ \'.               {MA}THEATRE DES VAMPIRES PRESENTS{ma}               .'/
+  ),\               {MA}THE MASQUE OF THE RED DEATH{ma}               /,( 
+ /__\'.                 {RE,BO}By Edgar Allen Poe{re,bo}                  .'/__\
+ \  `'.'-.__                                           __.-'.'`  /
+  `)   `'-. \ {CY}"embrace three thousand and six hundred{cy} / .-'`   ('
+  /   _.--'\ '.    {CY}seconds of the Time that flies"{cy}  .' /'--._   \
+  |-'`      '. '-.__    / \             / \    __.-' .'      `'-|
+  \         _.`'-.,_'-.|/\ \    _,_    / /\|.-'_,.-'`._         /
+   `\    .-'       /'-.|| \ |.-"   "-.| / ||.-'\       '-.    /`
+     )-'`        .'   :||  / -.\\ //.- \  ||:   '.        `'-(
+    /          .'    / \\_ |  /{RE,BLI}o{re,bli}`^'{RE,BLI}o{re,bli}\  | _// \    '.          \
+    \       .-'    .'   `--|  `"/ \"`  |--`   '.    '-.       /
+~
+242 4194317 0
+D0
+~
+~
+0 -1 24255
+D3
+~
+~
+0 -1 24253
+Z3
+C-1
+R0
+S
+#24253
+{BLU,BO}The Blue Suite{bo,blu}~
+
+  {BLU,BO}What a voluptuous scene, this masquerade. The rooms in which it is held.
+  There are seven --an imperial suite. In many palaces, however, such suites
+  form a long and straight vista, while the folding doors slide back nearly
+  to the walls on either hand, so that the view of the whole extent is
+  scarcely impeded. The apartments are so irregularly disposed that the
+  vision embraced but little more than one at a time. There is a sharp turn
+  at every twenty or thirty yards, and at each turn a novel effect. To the 
+  right and left, in the middle of each wall, a tall and narrow Gothic 
+  window looks out upon a closed corridor which pursues the windings of the
+  suite. These windows are of stained glass whose color varies in accordance
+  with the prevailing hue of the decorations of the chamber into which it
+  opens. In this room is hung blue --and vividly blue are its windows.{bo,blu}
+
+~
+242 8 0
+D0
+~
+~
+0 -1 24254
+D1
+~
+~
+0 -1 24252
+Z3
+C-1
+R0
+S
+#24254
+{MAG}The {MAG,BO}Purple{bo,MAG} Suite{mag}~
+
+  {MAG,BO}What a voluptuous scene, this masquerade. The rooms in which it is held.
+  There are seven --an imperial suite. In many palaces, however, such suites
+  form a long and straight vista, while the folding doors slide back nearly
+  to the walls on either hand, so that the view of the whole extent is
+  scarcely impeded. The apartments are so irregularly disposed that the
+  vision embraced but little more than one at a time. There is a sharp turn
+  at every twenty or thirty yards, and at each turn a novel effect. To the 
+  right and left, in the middle of each wall, a tall and narrow Gothic 
+  window looks out upon a closed corridor which pursues the windings of the
+  suite. These windows are of stained glass whose color varies in accordance
+  with the prevailing hue of the decorations of the chamber into which it
+  opens. In this room is purple in its ornaments and tapestries.{MAG,BO}
+
+~
+242 8 0
+D0
+~
+~
+0 -1 24256
+D1
+~
+~
+0 -1 24255
+D2
+~
+~
+0 -1 24253
+Z3
+C-1
+R0
+S
+#24255
+{GR}The {BO,GR}Green{bo,GR} Suite{gr}~
+
+  {GR,BO}What a voluptuous scene, this masquerade. The rooms in which it is held.
+  There are seven --an imperial suite. In many palaces, however, such suites
+  form a long and straight vista, while the folding doors slide back nearly
+  to the walls on either hand, so that the view of the whole extent is
+  scarcely impeded. The apartments are so irregularly disposed that the
+  vision embraced but little more than one at a time. There is a sharp turn
+  at every twenty or thirty yards, and at each turn a novel effect. To the 
+  right and left, in the middle of each wall, a tall and narrow Gothic 
+  window looks out upon a closed corridor which pursues the windings of the
+  suite. These windows are of stained glass whose color varies in accordance
+  with the prevailing hue of the decorations of the chamber into which it
+  opens. This room is green throughout, and so are its casements.{GR,BO}
+
+~
+242 8 0
+D0
+~
+~
+0 -1 24257
+D2
+~
+~
+0 -1 24252
+D3
+~
+~
+0 -1 24254
+Z3
+C-1
+R0
+S
+#24256
+{YE}The {RE}Orange{YE} Suite{ye}~
+
+  {YE}What a voluptuous scene, this masquerade. The rooms in which it is held.{ye}
+  {RE}There are seven --an imperial suite. In many palaces, however, such suites{re}
+  {YE}form a long and straight vista, while the folding doors slide back nearly{ye}
+  {RE}to the walls on either hand, so that the view of the whole extent is{re}
+  {YE}scarcely impeded. The apartments are so irregularly disposed that the{ye}
+  {RE}vision embraced but little more than one at a time. There is a sharp turn{re}
+  {YE}at every twenty or thirty yards, and at each turn a novel effect. To the{ye} 
+  {RE}right and left, in the middle of each wall, a tall and narrow Gothic{re}
+  {YE}window looks out upon a closed corridor which pursues the windings of the{ye}
+  {RE}suite. These windows are of stained glass whose color varies in accordance{re}
+  {YE}with the prevailing hue of the decorations of the chamber into which it{ye}
+  {RE}opens. This room is furnished and lighted with orange throughout.{re}
+
+~
+242 8 0
+D1
+~
+~
+0 -1 24257
+D2
+~
+~
+0 -1 24254
+Z3
+C-1
+R0
+S
+#24257
+{WH}The {WH,BO}White{bo,WH} Suite{wh}~
+
+  {BO,WH}What a voluptuous scene, this masquerade. The rooms in which it is held.
+  There are seven --an imperial suite. In many palaces, however, such suites
+  form a long and straight vista, while the folding doors slide back nearly
+  to the walls on either hand, so that the view of the whole extent is
+  scarcely impeded. The apartments are so irregularly disposed that the
+  vision embraced but little more than one at a time. There is a sharp turn
+  at every twenty or thirty yards, and at each turn a novel effect. To the 
+  right and left, in the middle of each wall, a tall and narrow Gothic
+  window looks out upon a closed corridor which pursues the windings of the
+  suite. These windows are of stained glass whose color varies in accordance
+  with the prevailing hue of the decorations of the chamber into which it 
+  opens. This room is blinding, its crisp clean whiteness contains no shadows.{bo,wh}
+
+~
+242 8 0
+D0
+~
+~
+0 -1 24225
+D2
+~
+~
+0 -1 24255
+D3
+~
+~
+0 -1 24256
+Z3
+C-1
+R0
+S
+#24258
+{BLU}The {RE}Velvet {BLU}Aisle{blu}.~
+
+{BLU}.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:.{blu}
+
+   {RE}The walls here are painted a peeling shade of midnight blue, the 
+   carpeted floors a velvet blood red, threadbare in the center of
+   the main aisle but fairly well-preserved nearer the walls to either
+   side. You wonder how many vampires had walked this aisle in years
+   past, because there surely wasn't much going on now.{re}
+
+{BLU}.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:.{blu}
+
+~
+242 16793613 1
+D1
+~
+~
+0 -1 24259
+D3
+~
+~
+0 -1 24251
+Z3
+C-1
+R0
+S
+#24259
+{BLUE}The{blue} {RED}Velvet{red} {BLUE}Aisle{blue}~
+
+{BLU}.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:.{blu}
+
+{B} {b}{B} {b}{B} {b}{RED}This back hallway is nearly empty save for a few truly ancient
+{B} {b}{B} {b}{B} {b}{RED}echoes resounding through the halls, perhaps other residents of
+{B} {b}{B} {b}{B} {b}{RED}the castle. In the farmost corner of this hallway you can make
+{B} {b}{B} {b}{B} {b}{RED}out someone slumped against the wall. You can't tell if they are
+{B} {b}{B} {b}{B} {b}{RED}praying, sleeping, or dead, but you can half-imagine cobwebs
+{B} {b}{B} {b}{B} {b}{RED}linking them to the corner of the room.{red}
+
+{BLU}.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:.{blu}
+
+~
+242 16793613 1
+D0
+{B} {b}{B} {b}{B} {b}{RED}A quit ordinary looking door made out of red wood its seems.
+{B} {b}{B} {b}{B} {b}{RED}The door looks very thick and just chopping yourself through 
+{B} {b}{B} {b}{B} {b}{RED}would be just a waste of time. Better find a key for it..{red}
+
+~
+Ordinary Door~
+2 24229 24260
+D1
+~
+~
+0 -1 24261
+D3
+~
+~
+0 -1 24258
+Z3
+C-1
+R0
+S
+#24260
+{BO,YE}V{bo,BL}iolent Shi{BO,YE}V{bo,BL}ers{bl}~
+
+{YE}`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`
+
+   {BO,GR}You are stand{BL}ing waist hig{BO,GR}h in the B{BL}arataria swa{BO,GR}mps of Lou{BL}isiana.
+   {BO,GR}Mist rolls{BL} across the wa{BO,GR}ter barely{BL} skimming th{BO,GR}e surface o{BL}f the dar{BO,GR}k
+   swamp. C{BL}rocodiles glea{BO,GR}m at you w{BL}ith their em{BO,GR}erald gree{BL}n eyes and
+   {BO,GR}swamp{BL} snakes churn a{BO,GR}round the{BL} inside of yo{BO,GR}ur thigh s{BL}ending shiv{BO,GR}ers
+   up {BL}your spine. A d{BO,GR}ark figure{BL} just in fro{BO,GR}nt of you {BL}hovers above {BO,GR}the
+   {BL}swamp.
+
+{bo,YE}`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`{ye}
+
+~
+242 16777389 0
+D2
+~
+Ordinary Door~
+1 -1 24259
+T24226
+Z17
+C3
+R0
+S
+#24261
+{BLU}The {RE}Velvet {BLU}Aisle{blu}.~
+
+{BLU}.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:.{blu}
+
+   {RE}Empty years, empty rooms. Wall mural obscenities turned into
+   absurdities by the crisscross of cracks, the random censorship
+   of fading over decades of decay. An oriental rug covers the floor;
+   its design is obscured and fraying, you can barely detect the
+   outline of a dragon in its woven fibers.
+
+{BLU}.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:.{blu}
+
+~
+242 16793613 1
+D1
+~
+~
+0 -1 24262
+D3
+~
+~
+0 -1 24259
+E
+rug~
+
+         {BLU}_____________________________________{YE}
+       ={BLU}| {YE}_|_{BLU}  /     {GR},-`{-`/                  {BLU}|{YE}=
+       ={BLU}|  {YE}|{BLU}  /   {GR},-^ , \ {-^^-,              {BLU}|{YE}=
+       ={BLU}|    /  {GR},^  ,   ,`,-^^-,`,            {BLU}|{YE}=
+       ={BLU}|   / {GR},`   ,   { {      } }           {BLU}|{YE}=
+       ={BLU}|  / {GR};     ,--/`\ \    / /            {BLU}|{YE}=
+       ={BLU}| / {GR};  ,-./      \ \  { {  (         {BLU}/|{YE}=
+       ={BLU}|/  {GR}; /   `       } } `, `-`-{RE}.{GR}___   {BLU}/ |{YE}=
+       ={BLU}|    {GR}\|         ,`,`    `^.___,---}{BLU}/  |{YE}=
+       ={BLU}|     {GR}`        { {                {BLU}/   |{YE}=
+       ={BLU}|           {GR}/   \ \              {BLU}/ {YE}_  {BLU}|{YE}=
+       ={BLU}|          {GR}{     } }            {BLU}/ {YE}( ) {BLU}|{YE}=
+       ={BLU}|          {GR}\\._./ /            {BLU}/  {YE}_|_ {BLU}|{YE}=
+       ={BLU}|___________{GR}`-..-`{BLU}___________ /_______|{YE}={ye}
+
+~
+Z3
+C-1
+R0
+S
+#24262
+{BLU}The {RE}Velvet {BLU}Aisle{blu}.~
+
+{BLU}.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:.{blu}
+
+   {RE}The foyer widens here making way for a spiral staircase at the end
+   of the hall. A solid wall is directly ahead with archways opening 
+   left and right to oaken doorways. The carpet here is strewn with 
+   dust long undisturbed. This part of the foyer widens and takes up
+   most of this wing.
+
+{BLU}.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:.{blu}
+
+~
+242 16793613 1
+D1
+~
+~
+0 -1 24263
+D3
+~
+~
+0 -1 24261
+Z3
+C-1
+R0
+S
+#24263
+{BLU}The {RE}Velvet {BLU}Aisle{blu}.~
+
+{BLU}.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:.{blu}
+
+{B} {b}{B} {b}{B} {b}{RED}The end of the hall came quickly, ending at a huge spiral staircase
+{B} {b}{B} {b}{B} {b}{RED}that appears to ascend further up into the castle.  The wall that
+{B} {b}{B} {b}{B} {b}{RED}appeared solid from a distance seems to be a large window boarded up
+{B} {b}{B} {b}{B} {b}{RED}with oaken slates crisscrossed at either side.  A dark drapery hangs
+{B} {b}{B} {b}{B} {b}{RED}outlines have faded, its fiery breath has long since been extinguished.
+{B} {b}{B} {b}{B} {b}{RED}Rows of human skulls are stationed on a makeshift display mantle. They
+{B} {b}{B} {b}{B} {b}{RED}grin as if greeting you, grinning widely as though they know of some
+{B} {b}{B} {b}{B} {b}{RED}grisly secret that only the dead can know.{red}
+
+{BLU}.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:.{blu}
+
+~
+242 16793613 1
+D0
+{B} {b}{B} {b}{B} {b}{GRE}A quit ordinary looking door made out of brown wood its seems.
+{B} {b}{B} {b}{B} {b}{GRE}The door looks very thick and just chopping yourself through 
+{B} {b}{B} {b}{B} {b}{GRE}would be just a waste of time. Better find a key for it..{gre}
+
+~
+Ordinary Door~
+2 24231 24264
+D2
+{B} {b}{B} {b}{B} {b}{YEL}A quit ordinary looking door made out of brown wood its seems.
+{B} {b}{B} {b}{B} {b}{YEL}The door looks very thick and just chopping yourself through 
+{B} {b}{B} {b}{B} {b}{YEL}would be just a waste of time. Better find a key for it..{yel}
+
+~
+Ordinary Door~
+2 24230 24265
+D3
+~
+~
+0 -1 24262
+D4
+~
+~
+0 -1 24266
+Z3
+C-1
+R0
+S
+#24264
+{BL}Near the {WH}H{BL}e{WH}a{BL}d{WH}s{BL}t{WH}o{BL}n{WH}e.{wh}~
+
+{BO,CY}Oo..oOo..oOo..oOo..oOo..oOo..{RE}oOo..{BL}oOo..oOo{RE}..oOo{CY}..oOo..oOo..oOo..oOo..oOo..oO
+
+   {BO,CY}As you round the corner passing the slave quarters, you come upon a
+   small parish church with a graveyard.  Off in the distance you can see
+   the colonial mansion of Pointe du Lac gabled in darkness with the
+   surrounding blue night created by the full moon.
+   As you step further into the graveyard you come upon a Greek-style
+   headstone.  Above the headstone is a marble angel, feminine, with a
+   tiny cherub angel in her arms.  There are vines already covering the
+   inscription, you can barely make out what it says.....{BO,CY}
+
+Oo..oOo..oOo..oOo..oOo..oOo..{RE}oOo..{BL}oOo..oOo{RE}..oOo{CY}..oOo..oOo..oOo..oOo..oOo..oO{bo,cy}
+
+~
+242 16793761 0
+D2
+~
+Ordinary Door~
+1 -1 24263
+E
+inscription~
+
+                              {WH}DIANNE DE POINTE DU LAC {BL}({WH}1763 - 1791{BL}){bl}
+                                     {WH}INFANT JEAN MARIE {BL}({WH}1791{BL}){bl}
+
+
+~
+Z3
+C2
+R0
+S
+#24265
+{BO,BL}A {CY}Favorite {BO,BL}Place{bo,bl}.~
+{BL}.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:._.:*^*:.
+
+   {BO,YE}You leave the street into this small quaint shop.  There are beautiful
+   dolls {BL}on high sh{YE}elves all around the room.  In th{BL}e corner is{YE} a glass
+   case wi{BL}th sever{WH}al {RE}b{WH}ea{BL}u{YE}tiful 18th century dol{BL}ls {WH}i{RE}n {WH}i{BL}t.  The{YE} floor is
+   made of {BL}fine I{WH}tal{RE}i{WH}an m{BL}ar{YE}ble {BL}a{YE}nd the {BL}co{YE}unt{BL}er a{WH}t t{RE}h{WH}e e{BL}nd o{YE}f the shop
+   shines as {BL}if i{WH}t w{RE}e{WH}re m{BL}ade of g{YE}old.  {BL}There ar{WH}e oi{RE}l{WH} la{BL}nte{YE}rns mounted on
+   either side {BL}of {WH}th{RE}e{WH} sh{BL}op emitt{YE}ing a dull {BL}yell{WH}ow g{RE}l{WH}ow {BL}a{YE}bout the room.
+   The flickering {BL}fir{RE}e{BL} from th{YE}e lanterns creat{BL}es d{RE}a{BL}nc{YE}ing shadows on the
+   walls that appear to grow larger as the moon climbs over houses
+   outside the shop window.{ye,bo}
+
+~
+242 169 1
+D0
+~
+Ordinary Door~
+1 -1 24263
+Z3
+C1
+R0
+S
+#24266
+{BL}o\|/o {BO,BL}Dark {RE}Ascent {bo,BL}o\|/o{bl}.~
+
+{BO,BL}       ____
+      /    \\\\ {bo,BL}Huge iron railings are jointed with large flat metal sheets.
+{BO,BL}     /  /\  \\\\ {bo,BL}The giant metal iron flats are littered with flecks of
+{BO,BL}    /  ///\  \\\\ {bo,BL}blood, dried and encrusted with bits of flesh.  Bones lie
+{BO,BL}   /  //// \__\\\\ {bo,BL}scattered, heaped in the corners of the worn metal
+{BO,BL}   \  \\\\ /  //// {bo,BL}stairs; a leg attached to a pelvis, a coller bone to a
+{BO,BL}    \  \\\\  //// {bo,BL}humerus, radius and ulna to the metacarpals. The only
+{BO,BL}     \  \\\\//// {bo,BL}apparent bones missing are the skulls.  Those must be the
+{BO,BL}      \__\\\/// {bo,BL}ones so proudly displayed downstairs.{bl}
+
+~
+242 16777229 5
+D4
+~
+~
+0 -1 24267
+D5
+~
+~
+0 -1 24263
+Z3
+C2
+R0
+S
+#24267
+{BL}o\|/o {BO,BL}Darkest {RE}Hallucination{bo,BL} o\|/o{bl}.~
+
+{BO,BL}       ____
+      /   \\\ {bo,BL}You skirt your way past bone pile and blood patches.  Heaps
+{BO,BL}     /     \\\ {bo,BL}and jumbles of flesh attached to rotting bones age with
+{BO,BL}    /  //\  \\\ {bo,BL}putrid remorse.  Red, blood choked strands of arteries and
+{BO,BL}   /  /// \__\\\ {bo,BL}the strong gristle of ligaments take their last final grasp
+{BO,BL}   \  \\\ /  /// {bo,BL}at the bones with which they had once married.  The blood
+{BO,BL}    \  \\\  /// {bo,BL}seems to pool at your feet; darker filaments of veins
+{BO,BL}     \  \\\/// {bo,BL}stick to your boots like glue. The stairs end here and a
+{BO,BL}      \__\\// {bo,BL}dark hallway continues east over a trail of rotted clothing.{bl}
+
+~
+242 16777229 5
+D1
+~
+~
+0 -1 24268
+D5
+~
+~
+0 -1 24266
+Z3
+C2
+R0
+S
+#24268
+{BL}o\|/o {BO,BL}Tragic{bo} {RE}Deceptions {BL}o\|/o{bl}.~
+
+ {WH}\/^|^\/
+  `^(^` {RE}The air is warm and motionless here, a sign, but memory reminds you
+     {WH}\ {RE}of other hideous things you have seen up to now.  The smoky light of
+      {WH}) {RE}the sconce's are suffocated by the dampness of the air and the lack of
+     {WH}( {RE}good airflow through these halls.  The solid walls are rough and haplessly
+      {WH}) {RE}jointed with mortar and soot trailing the eternal flame that silently crawls
+    {WH}_/ {RE}from the sconce's lining the walls with their dim glow.  The ground is covered
+ {WH}_({_})_ {RE}with bones and the hint of decaying flesh is slight, but present.  Lack
+  {WH}/({RE}o{WH})\  {RE}of good airflow could be a contributing factor.  Your sure that something
+{BO,RE},.,.,..,. {bo,RE}is dead or dying around here somewhere.{re}
+
+~
+242 16777229 5
+D1
+~
+~
+0 -1 24269
+D3
+~
+~
+0 -1 24267
+Z3
+C2
+R0
+S
+#24269
+{BL}o\|/o Further {RE}Temptations {BL}o\|/o{bl}.~
+
+                                                           {YE}_
+                .                                         ({WH}c{YE})_.-.
+              .oOo.        .o.        .o.               .-{WH}"{YE} , ( )____)
+   {bo,RE}Closer to the bend in this hallway you notice woman and men huddled like creatures
+   in the corner of this short corridor.  They are all emaciated, dressed in cheap black
+   wool, reeking of old sweat and dirt, their bodies all withered and worn.  Their eyes
+   are deep and sullen, appearing to be in mortal terror.  The skin hangs off their bones
+   like rotted loin cloth.  They draw themselves up closer to you, grasping at your heels.
+   You barely push them off and without much effort you break the arm of a man with a
+   slight shove of your boot.  He crys out in pain...{re}
+
+~
+242 16777229 5
+D0
+~
+~
+0 -1 24270
+D3
+~
+~
+0 -1 24268
+Z3
+C2
+R0
+S
+#24270
+{BL}o\|/o {BO,BL}Fragile{bo,RE} Projections {BL}o\|/o{bl}.~
+
+{WH}    _..---..__  {RE}The bend in this corner room turns west heading deeper into the castle.
+{WH}  ,'          `-. {RE}There are human skulls, bleached and covered with dust, pressed in the
+{WH} .'`  .         )  {RE}domed earth over your weary head, bleached and covered with dust, 
+{WH} |     `;.__.._.'  {RE}inset with the strength of ten strong men.  Skulls pressed into the 
+{WH}  \ .`--.({YE}##{WH})({YE}#{WH}).  {RE}earth with mortar so that they form the entire ceiling, like clean 
+{WH}   `-->;--' {BLU}p{WH}W{BLU}q{WH}`>  {RE}white shells from the sea.  Covering the walls are pressed similiar
+{WH}     < <"v\,,,,]  {RE}bones like random stones throughout the room.  The walls appear a dull
+{WH}      `\`^-''''7  {RE}white with the rancid odor of old blood hanging in the air.  You see a
+{WH}        `'"--^-' {RE}light up ahead.  A gust of wind sends a shiver up your spine.
+
+~
+242 16777229 5
+D2
+~
+~
+0 -1 24269
+D3
+~
+~
+0 -1 24271
+Z3
+C2
+R0
+S
+#24271
+{BL}The Masters Chambers{bl}.~
+
+{YE}ooo..ooo{RE}^ooo..ooo^{YE}ooo..ooo{RE}^ooo..ooo^{YE}ooo..ooo{RE}^ooo..ooo^{YE}ooo..ooo{RE}^ooo..ooo^{YE}ooo..ooo
+
+   {BL}Nearing the point of hyperventilation you finally stumble upon the
+   Master's main chamber entrance. His guard seems rather uncaring of your
+   interruption.  He takes no notice of you as you make your way towards him
+   He doesn't seem to be bothered by your intrusion.  
+
+   Black mist seeps from the cracks surrounding the trapdoor beneath the
+   guards feet, he moans to himself as if he is mourning the loss of a loved
+   one.  He raises his head to catch your eye as you approach.
+
+   You see a sign on the wall behind him.  It appears to be a doctrine incased
+   in a gold leaf frame.{bl}
+
+{YE}ooo..ooo{RE}^ooo..ooo^{YE}ooo..ooo{RE}^ooo..ooo^{YE}ooo..ooo{RE}^ooo..ooo^{YE}ooo..ooo{RE}^ooo..ooo^{YE}ooo..ooo
+
+~
+242 40 0
+D1
+~
+~
+0 -1 24270
+D5
+{YE}BEWARE:{BL}  You enter my home and kill my children.  How can you believe
+   I will let you survive.  If you have the key destroy it now or seal your
+   fate.  I do not take prisoners.{bl}
+
+~
+entrance~
+4 24225 24274
+E
+sign~
+
+   {BO,YE}++===============================================================++
+   || {bo,BL}Familiarity is a master of deceit, hiding the deepest,        {BO,YE}||
+   || {bo,BL}darkest dangers life offers.  So do not equate the familiar   {BO,YE}||
+   || {bo,BL}with safety.  Your home can burn.  Your lover can leave you.  {BO,YE}||
+   || {bo,BL}Even children have been known to turn on the very parents who {BO,YE}||
+   || {bo,BL}love them.  Truthfully, my friends, is there anywhere at all  {BO,YE}||
+   || {bo,BL}you are truly secure other than with me, the Master.          {BO,YE}||
+   ||                                                               ||
+   ||                                                   {bo,BL}- {RE}Valik     {BO,YE}||
+   ++===============================================================++{bo,ye}
+
+~
+Z3
+C-1
+R0
+S
+#24272
+{RE}<^>_{BL}The Master's Private Salon{RE}_<^>{re}.~
+
+{RE}':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'{re}
+
+    {BO,YE}This cham{bo,YE}ber{BL} is one of many of a string of chambers in which the Master
+    {BO,YE}has cover{bo,YE}e{BL}d the cold blackened earth walls with paintings of famous
+    {BO,YE}mortal p{bo,YE}a{BL}in{YE}t{BL}ers he so admired -- Giotto, Fra Angelico, and Bellini. The
+    {BO,YE}floor e{bo,YE}c{BL}ho{YE}e{BL}s a deep melodic resonance when you walk. A plethora of 
+    {BO,YE}branch{bo,YE}in{YE}g{BL} silver candelabra are lighted up and down all the walls of
+    {BO,YE}thi{bo,YE}s {BL}m{YE}a{BL}ss{YE}i{BL}ve room. The thick black candles are made of the purest
+    {YE}b{BL}ees{YE}w{BL}ax {YE}a{BL}nd give off a luxurious illumination. They are black as coal;
+    {YE}d{BL}yed {YE}w{BL}ith the darkest inks of India.  Your feet seem to glide over the
+    {YE}s{BL}mooth Italian marble floor. The paintings are on the walls everywhere.
+    Everything seems to look the same...
+
+~
+242 16777257 0
+D1
+~
+~
+0 -1 24273
+D2
+~
+~
+0 -1 24275
+Z3
+C-1
+R0
+S
+#24273
+{RE}<^>_{BL}The Master's Private Salon{RE}_<^>{re}.~
+
+{RE}':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'{re}
+
+    {BL}This chamber is one {YE}of m{BO,YE}any of a string{bo,YE} of c{BL}hambers in which the Master
+    has covered the cold bla{YE}c{BO,YE}kened earth w{bo,YE}a{BL}lls with paintings of famous
+    mortal painters he so {YE}a{BL}dmir{BO,YE}ed -- Gio{bo,YE}tt{BL}o, {YE}Fr{BL}a Angelico, and Bellini. The
+    floor echoes a deep melodi{YE}c{BL} r{YE}e{BL}so{YE}n{BL}an{YE}c{BL}e w{YE}h{BL}en you walk. A plethora of 
+    branching silver candelab{YE}r{BL}a a{YE}r{BL}e {YE}l{BL}igh{YE}t{BL}ed up and down all the walls of
+    this massive room. The thick {YE}b{BL}la{YE}c{BL}k ca{YE}n{BL}dles are made of the purest
+    beeswax and give off a luxurious illumination. They are black as coal;
+    dyed with the darkest inks of India.  Your feet seem to glide over the
+    smooth Italian marble floor. The paintings are on the walls everywhere.
+    Everything seems to look the same...{bl}
+
+~
+242 16777257 0
+D1
+~
+~
+0 -1 24274
+D2
+~
+~
+0 -1 24276
+D3
+~
+~
+0 -1 24272
+Z3
+C-1
+R0
+S
+#24274
+{RE}<^>_{BL}The Master's Private Salon{RE}_<^>{re}.~
+
+{RE}':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'{re}
+
+    {BL}This chamber is one of many of a string of chambers in whic{YE}h th{BO,YE}e Master
+    {bo,BL}has covered the cold blackened earth walls with paintings of f{YE}a{BO,YE}mous
+    {bo,BL}mortal painters he so admired -- Giotto, Fra Angelico, and B{YE}e{BL}ll{BO,YE}ini. The
+    {bo,BL}floor echoes a deep melodic resonance when you walk. A plethor{YE}a {BO,YE}of 
+    {bo,BL}branching silver candelabra are lighted up and down all the {YE}w{BL}all{YE}s {BO,YE}of
+    {bo,BL}this massive room. The thick black candles are made of the pur{YE}e{BL}st
+    beeswax and give off a luxurious illumination. They are black as {YE}c{BL}oa{YE}l;
+    {BL}dyed with the darkest inks of India.  Your feet seem to glide over t{YE}he
+    {BL}smooth Italian marble floor. The paintings are on the walls everywhere.
+    Everything seems to look the same...{bl}
+
+~
+242 16777257 0
+D2
+~
+~
+0 -1 24277
+D3
+~
+~
+0 -1 24273
+Z3
+C-1
+R0
+S
+#24275
+{BL}o\{GR}|{BL}/o {MAG}The Masters Sarcophagi {BL}o\{GR}|{BL}/o{bl}.~
+
+{YE}/^^^^^\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/^^^^^\
+\    /{RE}''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''{YE}\    /
+ |  |{BL}A large stone sarcophagi rest in the middle of this huge demonic    {bo,YE}|  |
+ | / {BL}underground Monastery. A dilapidated pedestal half-torn with age     {bo,YE}\ |
+ ||  {BL}stands in the farmost corner of the room. The inky blackness of the   {bo,YE}||
+ {bo,YE}\{RE};  {BL}room is only offset by the burning sconce's on the far corners of     {bo,RE};{bo,YE}/
+     {BL}the room. You can just make out a carved figurine resting atop the
+     black stone sarcophagi, solemnly pronouncing its existance. The
+     figurine is an roughly hewn dragon made entirely of emeralds with
+     rubies for eyes. Its eyes are shut as if in silent prayer it vilifies
+     its eternal existance.  A pale white figure appears like mist from the
+     corner of the room.  Stone-grey eyes lay their sights on you.{bl}
+
+~
+242 40 0
+D0
+~
+~
+0 -1 24272
+Z3
+C-1
+R0
+S
+#24276
+{RE}<^>_{BL}The Master's Private Salon{RE}_<^>{re}.~
+
+{RE}':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'{re}
+
+    {BO,YE}This cham{bo,YE}ber{BL} is one of many of a string of chambers in which the Master
+    {BO,YE}has cover{bo,YE}e{BL}d the cold blackened earth walls with paintings of famous
+    {BO,YE}mortal p{bo,YE}a{BL}in{YE}t{BL}ers he so admired -- Giotto, Fra Angelico, and Bellini. The
+    {BO,YE}floor e{bo,YE}c{BL}ho{YE}e{BL}s a deep melodic resonance when you walk. A plethora of 
+    {BO,YE}branch{bo,YE}in{YE}g{BL} silver candelabra are lighted up and down all the walls of
+    {BO,YE}thi{bo,YE}s {BL}m{YE}a{BL}ss{YE}i{BL}ve room. The thick black candles are made of the purest
+    {YE}b{BL}ees{YE}w{BL}ax {YE}a{BL}nd give off a luxurious illumination. They are black as coal;
+    {YE}d{BL}yed {YE}w{BL}ith the darkest inks of India.  Your feet seem to glide over the
+    {YE}s{BL}mooth Italian marble floor. The paintings are on the walls everywhere.
+    Everything seems to look the same...
+
+~
+242 16777257 0
+D0
+~
+~
+0 -1 24273
+D1
+~
+~
+0 -1 24277
+Z3
+C-1
+R0
+S
+#24277
+{RE}<^>_{BL}The Master's Private Salon{RE}_<^>{re}.~
+
+{RE}':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'':,,:'{re}
+
+    {BL}This chamber is one of many of a string of chambers in whic{YE}h th{BO,YE}e Master
+    {bo,BL}has covered the cold blackened earth walls with paintings of f{YE}a{BO,YE}mous
+    {bo,BL}mortal painters he so admired -- Giotto, Fra Angelico, and B{YE}e{BL}ll{BO,YE}ini. The
+    {bo,BL}floor echoes a deep melodic resonance when you walk. A plethor{YE}a {BO,YE}of 
+    {bo,BL}branching silver candelabra are lighted up and down all the {YE}w{BL}all{YE}s {BO,YE}of
+    {bo,BL}this massive room. The thick black candles are made of the pur{YE}e{BL}st
+    beeswax and give off a luxurious illumination. They are black as {YE}c{BL}oa{YE}l;
+    {BL}dyed with the darkest inks of India.  Your feet seem to glide over t{YE}he
+    {BL}smooth Italian marble floor. The paintings are on the walls everywhere.
+    Everything seems to look the same...{bl}
+
+~
+242 16777257 0
+D0
+~
+~
+0 -1 24274
+D3
+~
+~
+0 -1 24276
+Z3
+C-1
+R0
+S
+#24278
+{BO,RE}B{BL}R{BO,RE}I{BL}C{BO,RE}K {BL}Air Well{bl}~
+
+ {BL}...standing high above        the sins of man, you gaze
+   below, staring over          the brink of sanity, s
+     eeing only pale sha      dows seeping through t
+        he freshness of sti  cky morning dew. T
+           he gentle wind blows against you,
+               carrying you far into the 
+                   next level of human
+                 ity. Misty drives by an
+               d she drives by again, not s
+             topping, but taunting you to regr
+           ession and denial.  You hear the screams
+        of slaves calling          you, torturing your
+     guilt-stricken idea              ls. Others are so set
+  in their ways, only inter         preting what they care t
+  o hear, and what they long for.{bl}
+
+~
+242 1049609 0
+D4
+~
+~
+0 -1 24231
+D5
+~
+~
+0 -1 24279
+Z3
+C-1
+R0
+S
+#24279
+{BO,RE}B{BL}R{BO,RE}I{BL}C{BO,RE}K {BL}Air Well{bl}~
+
+ {BL}...standing high above        the sins of man, you gaze
+   below, staring over          the brink of sanity, s
+     eeing only pale sha      dows seeping through t
+        he freshness of sti  cky morning dew. T
+           he gentle wind blows against you,
+               carrying you far into the 
+                   next level of human
+                 ity. Misty drives by an
+               d she drives by again, not s
+             topping, but taunting you to regr
+           ession and denial.  You hear the screams
+        of slaves calling          you, torturing your
+     guilt-stricken idea              ls. Others are so set
+  in their ways, only inter         preting what they care t
+  o hear, and what they long for.{bl}
+
+~
+242 1037 0
+D4
+~
+~
+0 -1 24278
+D5
+~
+~
+0 -1 24286
+Z3
+C-1
+R0
+S
+#24280
+{RE}Show of {BL}S{BO,BL}ilence.....{bo,bl}~
+
+{WH}^\/^|^\/^ {RE}The slick feel of smooth granite and moss envelopes the walls.  You notice
+{WH}  `^\^` {RE}a slight glimmer of a light source up ahead.  Tendrils of spider silk tickle
+{WH}     ) {RE}your face as you nearly lose your balance wiping them away from your face.
+{WH}    ( {RE}Lichens, mold, and bushy ferns form along the slick surface of the walls and
+{WH}     ) {RE}floor here.  The close quarters barely afford you enough room to expand your 
+{WH}    ( {RE}lungs.  Ice water drips slowly onto your head as it trickles down the uneven
+{WH}     ) {RE}granite walls.  Jagged shards of stalagmite sprout up all around you like
+{WH}   _/ {RE}soldiers standing tall and erect.  These sharp stones stand in a defensive
+{WH}_({_})_ {RE}posture warning of impending danger further into the catacombs.  The faint
+{WH} /({RE}o{WH})\  {RE}coppery odor of blood fills your nostrils and permeates the cramped chamber.{re}
+
+~
+242 21004321 0
+D1
+~
+~
+0 -1 24281
+D2
+~
+~
+0 -1 24283
+Z3
+C-1
+R0
+S
+#24281
+{RE}Alone in the {BL}S{BO,BL}ilence....{bo,bl}~
+{BO,CY}||      /\ /-\  _/\/``\|^\/^^^\/^^^^```
+ \\    |  ^   \/       `
+  ||   / {RE}Possessed of infinite peace and unshakable solitude, the silence is deafening.
+   {BO,CY}\\ | {RE}Melodic echoes reflect off the earthen walls with the softest steps.  Crystalline
+   {BO,CY}|| / {RE}shards announce their silent song as the unmistakable hum of raging water races
+   {BO,CY}/// {RE}beneath the ground under your feet.  A small trickle of mineral rich water swells
+   {BO,CY}|/  {RE}at the base of the wall and forms a tiny stream that trails off into the distance.
+   {WH}'{wh}
+
+~
+242 20987941 0
+D1
+~
+~
+0 -1 24282
+D2
+~
+~
+0 -1 24284
+D3
+~
+~
+0 -1 24280
+Z3
+C2
+R0
+S
+#24282
+{WH}Trails of the {RE}Mother....{re}~
+
+   {WH}_..---..__{CY} The walls glisten like meticulously and wonderously crafted diamonds.  The
+ {WH},' `  `    ``-.{CY} whole room dances with a thousand stars bouncing off the walls.  The
+{WH}.'`   ` `       ){CY} room hums with energy unbound and wildly darting around like fireflys.
+{WH}',    `      `.'{CY} A reflective concoction of limestone and blood laiden water races wildly    
+ {WH}'-,__,-'-,_,'{CY} alive in the center of the room.  Like Mythos wine it churns alive with the
+      {RE})  )  {CY}current of the underground stream pulling at its very core.  A small trail
+     {RE}(  (  {CY}of blood leads south.{cy}
+
+~
+242 21004321 0
+D2
+~
+~
+0 -1 24285
+D3
+~
+~
+0 -1 24281
+D5
+~
+~
+0 -1 24290
+Z3
+C-1
+R0
+S
+#24283
+{RE}Show of {BL}S{BO,BL}ilence.....{bo,bl}~
+
+{WH}^\/^|^\/^ {RE}The slick feel of smooth granite and moss envelopes the walls.  You notice
+{WH}  `^\^` {RE}a slight glimmer of a light source up ahead.  Tendrils of spider silk tickle
+{WH}     ) {RE}your face as you nearly lose your balance wiping them away from your face.
+{WH}    ( {RE}Lichens, mold, and bushy ferns form along the slick surface of the walls and
+{WH}     ) {RE}floor here.  The close quarters barely afford you enough room to expand your 
+{WH}    ( {RE}lungs.  Ice water drips slowly onto your head as it trickles down the uneven
+{WH}     ) {RE}granite walls.  Jagged shards of stalagmite sprout up all around you like
+{WH}   _/ {RE}soldiers standing tall and erect.  These sharp stones stand in a defensive
+{WH}_({_})_ {RE}posture warning of impending danger further into the catacombs.  The faint
+{WH} /({RE}o{WH})\  {RE}coppery odor of blood fills your nostrils and permeates the cramped chamber.{re}
+
+~
+242 21004321 0
+D0
+~
+~
+0 -1 24280
+D1
+~
+~
+0 -1 24284
+D2
+~
+~
+0 -1 24286
+Z3
+C-1
+R0
+S
+#24284
+{RE}Show of {BL}S{BO,BL}ilence.....{bo,bl}~
+
+{WH}^\/^|^\/^ {RE}The slick feel of smooth granite and moss envelopes the walls.  You notice
+{WH}  `^\^` {RE}a slight glimmer of a light source up ahead.  Tendrils of spider silk tickle
+{WH}     ) {RE}your face as you nearly lose your balance wiping them away from your face.
+{WH}    ( {RE}Lichens, mold, and bushy ferns form along the slick surface of the walls and
+{WH}     ) {RE}floor here.  The close quarters barely afford you enough room to expand your 
+{WH}    ( {RE}lungs.  Ice water drips slowly onto your head as it trickles down the uneven
+{WH}     ) {RE}granite walls.  Jagged shards of stalagmite sprout up all around you like
+{WH}   _/ {RE}soldiers standing tall and erect.  These sharp stones stand in a defensive
+{WH}_({_})_ {RE}posture warning of impending danger further into the catacombs.  The faint
+{WH} /({RE}o{WH})\  {RE}coppery odor of blood fills your nostrils and permeates the cramped chamber.{re}
+
+~
+242 21004321 0
+D0
+~
+~
+0 -1 24281
+D1
+~
+~
+0 -1 24285
+D2
+~
+~
+0 -1 24287
+D3
+~
+~
+0 -1 24283
+Z3
+C-1
+R0
+S
+#24285
+{RE}Alone in the {BL}S{BO,BL}ilence....{bo,bl}~
+{BO,CY}||      /\ /-\  _/\/``\|^\/^^^\/^^^^```
+ \\    |  ^   \/       `
+  ||   / {RE}Possessed of infinite peace and unshakable solitude, the silence is deafening.
+   {BO,CY}\\ | {RE}Melodic echoes reflect off the earthen walls with the softest steps.  Crystalline
+   {BO,CY}|| / {RE}shards announce their silent song as the unmistakable hum of raging water races
+   {BO,CY}/// {RE}beneath the ground under your feet.  A small trickle of mineral rich water swells
+   {BO,CY}|/  {RE}at the base of the wall and forms a tiny stream that trails off into the distance.
+   {WH}'{wh}
+
+~
+242 20988069 0
+D0
+~
+~
+0 -1 24282
+D2
+~
+~
+0 -1 24288
+D3
+~
+~
+0 -1 24284
+Z3
+C2
+R0
+S
+#24286
+{RE}Show of {BL}S{BO,BL}ilence.....{bo,bl}~
+
+{WH}^\/^|^\/^ {RE}The slick feel of smooth granite and moss envelopes the walls.  You notice
+{WH}  `^\^` {RE}a slight glimmer of a light source up ahead.  Tendrils of spider silk tickle
+{WH}     ) {RE}your face as you nearly lose your balance wiping them away from your face.
+{WH}    ( {RE}Lichens, mold, and bushy ferns form along the slick surface of the walls and
+{WH}     ) {RE}floor here.  The close quarters barely afford you enough room to expand your 
+{WH}    ( {RE}lungs.  Ice water drips slowly onto your head as it trickles down the uneven
+{WH}     ) {RE}granite walls.  Jagged shards of stalagmite sprout up all around you like
+{WH}   _/ {RE}soldiers standing tall and erect.  These sharp stones stand in a defensive
+{WH}_({_})_ {RE}posture warning of impending danger further into the catacombs.  The faint
+{WH} /({RE}o{WH})\  {RE}coppery odor of blood fills your nostrils and permeates the cramped chamber.{re}
+
+~
+242 21004321 0
+D0
+~
+~
+0 -1 24283
+D1
+~
+~
+0 -1 24287
+D4
+~
+~
+0 -1 24279
+Z3
+C-1
+R0
+S
+#24287
+{RE}Alone in the {BL}S{BO,BL}ilence....{bo,bl}~
+{BO,CY}||      /\ /-\  _/\/``\|^\/^^^\/^^^^```
+ \\    |  ^   \/       `
+  ||   / {RE}Possessed of infinite peace and unshakable solitude, the silence is deafening.
+   {BO,CY}\\ | {RE}Melodic echoes reflect off the earthen walls with the softest steps.  Crystalline
+   {BO,CY}|| / {RE}shards announce their silent song as the unmistakable hum of raging water races
+   {BO,CY}/// {RE}beneath the ground under your feet.  A small trickle of mineral rich water swells
+   {BO,CY}|/  {RE}at the base of the wall and forms a tiny stream that trails off into the distance.
+   {WH}'{wh}
+
+~
+242 20987941 0
+D0
+~
+~
+0 -1 24284
+D1
+~
+~
+0 -1 24281
+D3
+~
+~
+0 -1 24286
+Z3
+C2
+R0
+S
+#24288
+{WH}Unholy{RE} Mother of Blood....{re}~
+
+ {WH} _____                                                _____
+ ( ___ )----------------------------------------------( ___ )
+  |   | {RE}The Witch's Hour approaches like a rising fog,{WH} | \ |      
+  | / | {RE}the essence of {YEL,BO}light{yel,bo,RE} is the only visible thing{WH} | \ |
+  | / |                {RE}in this {BL}darkness.{WH}               | \ |
+  | / |         {RE}Upon my shoulder will you cry,{WH}         | \ |
+  | / |          {RE}by your tongue may you lie,{WH}           | \ |
+  | / |            {RE}By my hand shall you die.{WH}           | \ |
+  | / | {RE}Bloody tides of {YEL,BO}light{yel,bo,RE} crash on shores of flesh,{WH}| \ |
+  | / | {RE}within your garden of death embrace your child{WH} | \ |
+  | / |      {RE}of {BO,BL}u{bo,BL}nholy{WH} light{RE}.  O virgin mother and{WH}     | \ |
+  |___|        {RE}keeper of the final goodnight k{BL}i{RE}s{BL}s{RE}.{WH}     |___|
+ (_____)----------------------------------------------(_____){wh}
+
+~
+242 20971553 0
+D0
+~
+~
+0 -1 24285
+D3
+~
+~
+0 -1 24287
+Z3
+C-1
+R0
+S
+#24289
+{BLU}L{CY}i{BLU}m{CY}e{BLU}s{CY}t{BLU}o{CY}n{BLU}e{WH} Outcrop.{wh}~
+
+   {WH}A huge sedimentary stratum protrudes through the soil level.  It hangs just
+            {CY}i{WH}nches from the racing rapids directly north of you.  The ledge is
+                 {BLU}m{CY}a{WH}de of limestone and appears to be worn with time and rapids
+   ,     `   ;   {CY}' {BLU}la{WH}ping the sides of it.  It doesn't look very sturdy at the
+{BLU}_.{CY}` {WH}){BLU}_{CY},{WH}'{CY},.{WH}'{CY},{WH}" ){BLU}__{CY},{WH}^{CY},{BLU}_{WH}moment.  You might wanna move quickly.{wh}
+
+~
+242 16777256 1
+D0
+~
+~
+0 -1 24290
+D2
+{B} {b}{B} {b}{B} {b}{WHI}A huge limestone wall appears to be crumbling right before your eyes.
+{B} {b}{B} {b}{B} {b}{WHI}You can see large cracks starting to form from the base of the wall.
+{B} {b}{B} {b}{B} {b}{WHI}The cracks run both horizontal and vertical and appear to form some
+{B} {b}{B} {b}{B} {b}{WHI}sort of large stone barrier. You can spot a small keyhole there..{whi}
+
+~
+door~
+4 24233 24230
+Z3
+C2
+R0
+S
+#24290
+{CY}M{WH}i{CY}n{WH}e{CY}r{WH}a{CY}l {BLU}R{CY}a{BLU}p{CY}i{BLU}d{CY}s.{cy}~
+
+                      {CY}Raging waters tear
+              through these narrow {BLU}corridors.{CY}  Despair is everywhere,
+          and there's no hope {BLU}in sight.  Your body{CY} is being battered by
+       treacherous tor{BLU}ential waters and your frail body{CY} will soon
+    split in half {BLU}from the                           spiteful{CY} currents.
+   The water churns {BLU}ferociously,              unleashing{CY} steel liquid
+    showers pulling at your {BLU}flesh     and stinging{CY} your face and arms.
+     You reach for the smooth {BLU}walls only to grasp {CY}thin air and be
+   pulled further into the rich {BLU}deep darkness{CY} of the limestone
+     raging waters.  Mourning your {BLU}ultimate{CY} demise the
+             deafening thunder of liquid death
+                           pounds down upon you.{CY}
+
+~
+242 1081353 10
+D0
+~
+~
+0 -1 24294
+D1
+~
+~
+0 -1 24291
+D2
+~
+~
+0 -1 24294
+D3
+~
+~
+0 -1 24292
+X2
+Z3
+C-1
+R0
+S
+#24291
+{BLU}Losing {RE}Battle{re}.~
+
+                            {BLU}You have no 
+                  time to look at you{RE}r ho{BLU}rrible
+          plight you can not beat th{RE}e     r{BLU}apids 
+       unmatchable might.  Yet, you{RE}r       d{BLU}efinitely
+         not one who is easily daunte{RE}d    a{BLU}nd your 
+           feeble strengt{RE}h i{BLU}s not full{RE}y ex{BLU}hausted
+         yet. You struggl{RE}e   f{BLU}or your life
+            as you get pulle{RE}d f{BLU}urther on
+               into the deeper darkness.
+                    Fight on with what's
+                             left of your
+                               very life
+                                blood.{blu}
+
+~
+242 49441 7
+D0
+~
+~
+0 -1 24294
+D1
+~
+~
+0 -1 24292
+D2
+~
+~
+0 -1 24289
+D3
+~
+~
+0 -1 24290
+T24226
+Z3
+C2
+R0
+S
+#24292
+{CY}M{WH}i{CY}n{WH}e{CY}r{WH}a{CY}l {BLU}R{CY}a{BLU}p{CY}i{BLU}d{CY}s.{cy}~
+
+                      {CY}Raging waters tear
+              through these narrow {BLU}corridors.{CY}  Despair is everywhere,
+          and there's no hope {BLU}in sight.  Your body{CY} is being battered by
+       treacherous tor{BLU}ential waters and your frail body{CY} will soon
+    split in half {BLU}from the                           spiteful{CY} currents.
+   The water churns {BLU}ferociously,              unleashing{CY} steel liquid
+    showers pulling at your {BLU}flesh     and stinging{CY} your face and arms.
+     You reach for the smooth {BLU}walls only to grasp {CY}thin air and be
+   pulled further into the rich {BLU}deep darkness{CY} of the limestone
+     raging waters.  Mourning your {BLU}ultimate{CY} demise the
+             deafening thunder of liquid death
+                           pounds down upon you.{CY}
+
+~
+242 1081353 10
+D0
+~
+~
+0 -1 24295
+D1
+~
+~
+0 -1 24290
+D2
+~
+~
+0 -1 24295
+D3
+~
+~
+0 -1 24291
+X2
+Z3
+C-1
+R0
+S
+#24293
+You get a bad feeling looking in that direction !!~
+
+
+
+
+You have been purged!
+
+Oops, sorry, wrong player.
+
+
+=== MAIN MENU =======================================
+New players: please type 'ncc' or 'help' after entering the game.
+and be sure to visit the MUD school.
+
+These are the current game's settings:
+~
+242 1048576 0
+D0
+~
+~
+0 -1 24200
+D1
+~
+~
+0 -1 24294
+D2
+~
+~
+0 -1 24240
+D3
+~
+~
+0 -1 24214
+D5
+~
+~
+0 -1 3014
+Z3
+C1
+R0
+S
+#24294
+{CY}M{WH}i{CY}n{WH}e{CY}r{WH}a{CY}l {BLU}R{CY}a{BLU}p{CY}i{BLU}d{CY}s.{cy}~
+
+                      {CY}Raging waters tear
+              through these narrow {BLU}corridors.{CY}  Despair is everywhere,
+          and there's no hope {BLU}in sight.  Your body{CY} is being battered by
+       treacherous tor{BLU}ential waters and your frail body{CY} will soon
+    split in half {BLU}from the                           spiteful{CY} currents.
+   The water churns {BLU}ferociously,              unleashing{CY} steel liquid
+    showers pulling at your {BLU}flesh     and stinging{CY} your face and arms.
+     You reach for the smooth {BLU}walls only to grasp {CY}thin air and be
+   pulled further into the rich {BLU}deep darkness{CY} of the limestone
+     raging waters.  Mourning your {BLU}ultimate{CY} demise the
+             deafening thunder of liquid death
+                           pounds down upon you.{CY}
+
+~
+242 1081353 10
+D0
+~
+~
+0 -1 24290
+D1
+~
+~
+0 -1 24295
+D2
+~
+~
+0 -1 24290
+D3
+~
+~
+0 -1 24295
+X2
+Z3
+C-1
+R0
+S
+#24295
+{CY}M{WH}i{CY}n{WH}e{CY}r{WH}a{CY}l {BLU}R{CY}a{BLU}p{CY}i{BLU}d{CY}s.{cy}~
+
+                      {CY}Raging waters tear
+              through these narrow {BLU}corridors.{CY}  Despair is everywhere,
+          and there's no hope {BLU}in sight.  Your body{CY} is being battered by
+       treacherous tor{BLU}ential waters and your frail body{CY} will soon
+    split in half {BLU}from the                           spiteful{CY} currents.
+   The water churns {BLU}ferociously,              unleashing{CY} steel liquid
+    showers pulling at your {BLU}flesh     and stinging{CY} your face and arms.
+     You reach for the smooth {BLU}walls only to grasp {CY}thin air and be
+   pulled further into the rich {BLU}deep darkness{CY} of the limestone
+     raging waters.  Mourning your {BLU}ultimate{CY} demise the
+             deafening thunder of liquid death
+                           pounds down upon you.{CY}
+
+~
+242 1081353 10
+D0
+~
+~
+0 -1 24292
+D1
+~
+~
+0 -1 24294
+D2
+~
+~
+0 -1 24292
+D3
+~
+~
+0 -1 24294
+X2
+Z3
+C-1
+R0
+S
+#24296
+{RED}Waterfront Tavern{red}~
+
+{BL}\/\/\/\/\/\/\/\/\/\/\/\/\/\/\={RE}oOo{BL}={RE}oOo{BL}=/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+
+   {RE}A big lavish drinking place with a raised stage.  Italian actors
+   in buffoonish costumes act crude commedia dell'arte on the stage.
+   Plantation owners in soiled brocade, lace, and crooked wigs watch
+   the show as tavern wenches move about serving drinks.  All around
+   you are {BO,BLU}flatboat men{bo,RE}, {CY}whores{RE}, {YE}gamblers{RE}, {BL}Black African freedmen{RE},
+   and a slew of other drunkenly sorts.
+
+{BL}/\/\/\/\/\/\/\/\/\/\/\/\/\/\/={RE}oOo{BL}={RE}oOo{BL}=\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\{bl}
+
+~
+242 1 0
+D0
+{B} {b}{B} {b}{B} {b}{RED}A door that leads you on the stage.{red}
+
+~
+Stage~
+2 24242 24212
+D1
+~
+~
+0 -1 24297
+D2
+~
+~
+0 -1 24298
+D3
+~
+~
+0 -1 24204
+Z3
+C-1
+R0
+S
+#24297
+{RED}Waterfront Tavern{red}~
+
+{BL}\/\/\/\/\/\/\/\/\/\/\/\/\/\/\={RE}oOo{BL}={RE}oOo{BL}=/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+
+   {RE}A big lavish drinking place with a raised stage.  Italian actors
+   in buffoonish costumes act crude commedia dell'arte on the stage.
+   Plantation owners in soiled brocade, lace, and crooked wigs watch
+   the show as tavern wenches move about serving drinks.  All around
+   you are {BO,BLU}flatboat men{bo,RE}, {CY}whores{RE}, {YE}gamblers{RE}, {BL}Black African freedmen{RE},
+   and a slew of other drunkenly sorts.
+
+{BL}/\/\/\/\/\/\/\/\/\/\/\/\/\/\/={RE}oOo{BL}={RE}oOo{BL}=\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\{bl}
+
+~
+242 1 0
+D0
+{BO,YE}                               .-,_______{bo,ye}
+{RE}_..----..__..----..__..----.._{BO,YE}<{bo,RE} @{BO,YE}:----|||{bo,RE}_..----..__..----..__..----.._{re}
+{YE,BO}                               `-'{ye,bo}
+
+{BL}   A large shelf stacked with bottles of liquor from floor to ceiling.
+   Oddly enough, the bottles don't appear to be filled with liquor,
+   they seem to be filled with some dark murky {BO,RE}red{bo,BL} liquid. Down near
+   the bottom shelf you notice some scratch marks around a small metal
+   hole. Could this be a hidden entrance to some place?{bo}
+
+{RE}-..____..--..____..--..____..--.._____..--..____..--..____..--..____..-{re}
+
+~
+backdoor~
+4 24202 24213
+D2
+~
+~
+0 -1 24299
+D3
+~
+~
+0 -1 24296
+X7340032
+Z3
+C-1
+R0
+S
+#24298
+{RED}Waterfront Tavern{red}~
+
+{BL}\/\/\/\/\/\/\/\/\/\/\/\/\/\/\={RE}oOo{BL}={RE}oOo{BL}=/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+
+   {RE}A big lavish drinking place with a raised stage.  Italian actors
+   in buffoonish costumes act crude commedia dell'arte on the stage.
+   Plantation owners in soiled brocade, lace, and crooked wigs watch
+   the show as tavern wenches move about serving drinks.  All around
+   you are {BO,BLU}flatboat men{bo,RE}, {CY}whores{RE}, {YE}gamblers{RE}, {BL}Black African freedmen{RE},
+   and a slew of other drunkenly sorts.
+
+{BL}/\/\/\/\/\/\/\/\/\/\/\/\/\/\/={RE}oOo{BL}={RE}oOo{BL}=\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\{bl}
+
+~
+242 1 0
+D0
+~
+~
+0 -1 24296
+D1
+~
+~
+0 -1 24299
+Z3
+C-1
+R0
+S
+#24299
+{RED}Waterfront Tavern{red}~
+
+{BL}\/\/\/\/\/\/\/\/\/\/\/\/\/\/\={RE}oOo{BL}={RE}oOo{BL}=/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+
+   {RE}A big lavish drinking place with a raised stage.  Italian actors
+   in buffoonish costumes act crude commedia dell'arte on the stage.
+   Plantation owners in soiled brocade, lace, and crooked wigs watch
+   the show as tavern wenches move about serving drinks.  All around
+   you are {BO,BLU}flatboat men{bo,RE}, {CY}whores{RE}, {YE}gamblers{RE}, {BL}Black African freedmen{RE},
+   and a slew of other drunkenly sorts.
+
+{BL}/\/\/\/\/\/\/\/\/\/\/\/\/\/\/={RE}oOo{BL}={RE}oOo{BL}=\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\{bl}
+
+~
+242 1 0
+D0
+~
+~
+0 -1 24297
+D3
+~
+~
+0 -1 24298
+Z3
+C-1
+R0
+S
+$~

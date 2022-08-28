@@ -1,0 +1,2318 @@
+#15800
+{bo,M}A Small Concrete Sidewalk{bo,m}~
+{C}
+   The small concrete sidewalk you stand on seems to lead
+ around to the left side of the building. The concrete looks
+ new and bleach white. The grass on the left side of you is
+ green and neatly trimmed. To your right between you and the
+ building is a small row of hedges.
+ 
+{c}
+~
+158 0 1
+D3
+~
+~
+0 -1 15801
+Z3
+C-1
+S
+#15801
+{bo,M}A Turn In The Sidewalk{bo,m}~
+{C}
+  You have reached the corner of the building, and you can now
+ see down the other side. Looks as though something is going on
+ down here. Maybe you would like to go investigate...
+{c}
+~
+158 0 1
+D0
+~
+~
+0 -1 15802
+D1
+~
+~
+0 -1 15800
+Z3
+C-1
+S
+#15802
+{bo,M}A Small Concrete Sidewalk{bo,m}~
+{C}
+   Up ahead you can see some kind of large door in the
+ side of the building. Some men are busy moving objects
+ in and out of a large truck parked at the door. 
+{c}
+~
+158 0 1
+D0
+~
+~
+0 -1 15803
+D2
+~
+~
+0 -1 15801
+Z3
+C-1
+S
+#15803
+{bo,M}The Shipping Bay Entrance{b,m}~
+{C}
+   This must be where the computers sold here are shipped
+ and where the parts are recieved by the store. Workers are
+ most likely busy inside preparing the latest shipment, or
+ perhaps unloading a new order of spare parts.
+{c}
+~
+158 4 1
+D2
+~
+~
+0 -1 15802
+Z3
+C-1
+S
+#15804
+{bo,M}The Shipping Bay{bo,m}~
+{C}
+   The high ceiling provides a roomy-type atmosphere in here,
+ and allows plenty of room for manuevering the large stacks
+ of mechandise that are loaded and unloaded here. Workers are
+ all around you, unloading the latest shipment of spare parts.
+{c}
+~
+158 0 0
+D0
+~
+~
+0 -1 15837
+D1
+~
+~
+0 -1 15805
+D2
+~
+~
+0 -1 15838
+X512
+Z-1
+C-1
+S
+#15805
+{bo,M}The Shipping Bay{bo,m}~
+{C}
+   The high ceiling provides a roomy-type atmosphere in here,
+ and allows plenty of room for manuevering the large stacks
+ of mechandise that are loaded and unloaded here. Workers are
+ all around you, unloading the latest shipment of spare parts.
+{c}
+~
+158 0 1
+D0
+~
+~
+0 -1 15808
+D1
+~
+~
+0 -1 15806
+D2
+~
+~
+0 -1 15836
+D3
+~
+~
+0 -1 15804
+Z-1
+C-1
+S
+#15806
+{bo,M}The Shipping Bay{bo,m}~
+{C}
+   The high ceiling provides a roomy-type atmosphere in here,
+ and allows plenty of room for manuevering the large stacks
+ of mechandise that are loaded and unloaded here. Workers are
+ all around you, unloading the latest shipment of spare parts.
+{c}
+~
+158 0 1
+D0
+~
+~
+0 -1 15807
+D2
+~
+~
+0 -1 15821
+D3
+~
+~
+0 -1 15805
+Z-1
+C-1
+S
+#15807
+{bo,M}The Shipping Bay{bo,m}~
+{C}
+   The high ceiling provides a roomy-type atmosphere in here,
+ and allows plenty of room for manuevering the large stacks
+ of mechandise that are loaded and unloaded here. Workers are
+ all around you, unloading the latest shipment of spare parts.
+{c}
+~
+158 0 1
+D0
+{C}
+   You see a small office door with small black lettering
+ on it... '{BLA}SHIPPING AND RECEIVING{C}'
+{c}
+~
+door~
+2 15818 15810
+D2
+~
+~
+0 -1 15806
+D3
+~
+~
+0 -1 15808
+Z-1
+C-1
+S
+#15808
+{bo,M}The Shipping Bay{bo,m}~
+{C}
+   The high ceiling provides a roomy-type atmosphere in here,
+ and allows plenty of room for manuevering the large stacks
+ of mechandise that are loaded and unloaded here. Workers are
+ all around you, unloading the latest shipment of spare parts.
+{c}
+~
+158 0 0
+D1
+~
+~
+0 -1 15807
+D2
+~
+~
+0 -1 15805
+D3
+~
+~
+0 -1 15837
+X512
+Z-1
+C-1
+S
+#15809
+{M}In The Compactor{m}~
+{C}
+  You fall face first into a pile of cardboard. Before you can
+ get turned around, you feel yourself slipping further down the
+ chute....
+{c}
+~
+158 1048581 1
+D5
+~
+~
+0 -1 15894
+Z-1
+C-1
+S
+#15810
+{bo,W}Shipping and Receiving{bo,w}~
+{C}
+   As you enter the room you notice a man sitting behind a small
+ counter, nearly buried in 2 feet of paperwork. He peers up at you
+ impatiently, mutters something under his breath, then returns his
+ attention to the overwhelming mound of paperwork. He appears tired
+ and extremely overworked. Maybe he won't mind if you snoop around
+ a bit.
+{c}
+~
+158 16777228 0
+D0
+~
+~
+0 -1 15811
+D2
+~
+door~
+1 -1 15807
+D3
+~
+~
+0 -1 15822
+Z3
+C-1
+S
+#15811
+{bo,W}Warehouse Entrance{bo,w}~
+{C}
+   A large steel door blocks your way through here. A small
+ keypad is set off to the right. A red light on it blinks the
+ words ' {bo,BLINK,R}Enter Identification Please{bo,blink,C} '. You sigh as you realize
+ the nature of the blinking light.
+{c}
+~
+158 8 0
+D1
+~
+steel~
+4 -1 15812
+D2
+~
+~
+0 -1 15810
+Z3
+C-1
+S
+#15812
+{bo,W}The Warehouse{bo,w}~
+{C}
+   You see row after row of large aisles stacked with countless
+ boxes of all sizes. You stand in awe, and think to yourself, 
+ " Just how big is this place??" You see movement, and glance up
+ to see a security camera pointed right at you. Your curiosity
+ beckons you to move on.
+{c}
+~
+158 8 0
+D0
+~
+~
+0 -1 15814
+D3
+~
+steel~
+1 -1 15811
+Z3
+C-1
+S
+#15813
+{bo,W}Lost in Storage{bo,w}~
+{C}
+   You are lost among the thousands of shipping crates and boxes
+ stored here in Computer World's warehouse. Some of the items in
+ here have been lost so long they have been long forgotten. You
+ should start finding your way out, or you could be here a LONG
+ time.
+{c}
+~
+158 477 0
+D0
+~
+~
+0 -1 15815
+D1
+~
+~
+0 -1 15829
+D2
+~
+~
+0 -1 15832
+D3
+~
+~
+0 -1 15830
+T15834
+X134
+Z3
+C-1
+S
+#15814
+{bo,W}The Warehouse{bo,w}~
+{C}
+   The door behind you slams shut...
+       As you look back, the floor opens up beneath you...
+{c}
+~
+158 1048585 0
+D5
+~
+~
+0 -1 15813
+Z3
+C-1
+S
+#15815
+{bo,W}Lost in Storage{bo,w}~
+{C}
+   You are lost among the thousands of shipping crates and boxes
+ stored here in Computer World's warehouse. Some of the items in
+ here have been lost so long they have been long forgotten. You
+ should start finding your way out, or you could be here a LONG
+ time.
+{c}
+~
+158 477 0
+D0
+~
+~
+0 -1 15816
+D1
+~
+~
+0 -1 15829
+D2
+~
+~
+0 -1 15832
+D3
+~
+~
+0 -1 15830
+T15834
+X134
+Z3
+C-1
+S
+#15816
+{bo,W}Lost in Storage{bo,w}~
+{C}
+   You are lost among the thousands of shipping crates and boxes
+ stored here in Computer World's warehouse. Some of the items in
+ here have been lost so long they have been long forgotten. You
+ should start finding your way out, or you could be here a LONG
+ time.
+{c}
+~
+158 477 0
+D0
+~
+~
+0 -1 15833
+D1
+~
+~
+0 -1 15833
+D2
+~
+~
+0 -1 15833
+D3
+~
+~
+0 -1 15817
+T15834
+X134
+Z3
+C-1
+S
+#15817
+{bo,W}Lost in Storage{bo,w}~
+{C}
+   You are lost among the thousands of shipping crates and boxes
+ stored here in Computer World's warehouse. Some of the items in
+ here have been lost so long they have been long forgotten. You
+ should start finding your way out, or you could be here a LONG
+ time.
+{c}
+~
+158 1049053 0
+D3
+~
+~
+0 -1 15834
+T15834
+X134
+Z3
+C-1
+S
+#15818
+{bo,W}Lost in Storage{bo,w}~
+{C}
+   You are still lost in storage, but the items here don't appear
+ to be as old as the items you first encountered. Although, not
+ as old as the others these are still rarely used these days. You
+ should keep searching and be careful... or you just might find
+ yourself right back in the worst of it.
+{c}
+~
+158 477 0
+D0
+~
+~
+0 -1 15833
+D1
+~
+~
+0 -1 15833
+D2
+~
+~
+0 -1 15833
+D3
+~
+~
+0 -1 15823
+T15834
+X134
+Z3
+C-1
+S
+#15819
+{bo,M}Palletjack Storage{bo,m}~
+{C}
+   Large palletjacks sit plugged into the wall getting charged
+ up for later use. This is a pretty cluttered area and suddenly
+ you are reminded of just how busy the people are around here,
+ getting those computers out to customers.
+{c}
+~
+158 12 0
+D0
+~
+~
+0 -1 15820
+D3
+~
+gate~
+1 -1 15821
+Z-1
+C-1
+S
+#15820
+{bo,M}Forklift Storage{bo,m}~
+{C}
+   This is where the large forklifts are brought when not
+ in use so that their batteries can be recharged. Large 
+ outlets line the walls of the room. Some have the recently
+ used forklifts plugged to them, recharging their batteries.
+ The heat from the charging batteries, and the warm rubber
+ tires create a metallic stench that makes your eyes water.
+{c}
+~
+158 20 0
+D2
+~
+~
+0 -1 15819
+Z3
+C-1
+S
+#15821
+{bo,M}The Shipping Bay{bo,m}~
+{C}
+   The high ceiling provides a roomy-type atmosphere in here,
+ and allows plenty of room for manuevering the large stacks
+ of mechandise that are loaded and unloaded here. Workers are
+ all around you, unloading the latest shipment of spare parts.
+{c}
+~
+158 0 1
+D0
+~
+~
+0 -1 15806
+D1
+{C}
+  You can see a large chain-link gate. Behind it you can
+ see the most recently used equipment. Somone seems to be
+ back there working.
+{c}
+~
+gate~
+3 3022 15819
+D3
+~
+~
+0 -1 15836
+Z-1
+C-1
+S
+#15822
+{bo,W}Behind The Counter{bo,w}~
+{C}
+   Now you can see why he was so cranky! Numerous files and boxes
+ sit piled in the floor, on shelves, and ontop the messy little
+ desk in the corner. You don't see how anyone could ever find what
+ they're looking for in this mess!!!
+{c}
+~
+158 16520 0
+D1
+~
+~
+0 -1 15810
+X262178
+Z3
+C-1
+S
+#15823
+{bo,W}Lost in Storage{bo,w}~
+{C}
+   You are still lost in storage, but the items here don't appear
+ to be as old as the items you first encountered. Although, not
+ as old as the others these are still rarely used these days. You
+ should keep searching and be careful... or you just might find
+ yourself right back in the worst of it.
+{c}
+~
+158 477 0
+D0
+~
+~
+0 -1 15833
+D1
+~
+~
+0 -1 15833
+D2
+~
+~
+0 -1 15833
+D3
+~
+~
+0 -1 15824
+T15834
+X134
+Z3
+C-1
+S
+#15824
+{bo,W}Lost in Storage{bo,w}~
+{C}
+   You are still lost in storage, but the items here don't appear
+ to be as old as the items you first encountered. Although, not
+ as old as the others these are still rarely used these days. You
+ should keep searching and be careful... or you just might find
+ yourself right back in the worst of it.
+{c}
+~
+158 477 0
+D0
+~
+~
+0 -1 15825
+D1
+~
+~
+0 -1 15833
+D2
+~
+~
+0 -1 15833
+D3
+~
+~
+0 -1 15833
+T15834
+X134
+Z3
+C-1
+S
+#15825
+{bo,W}Lost in Storage{bo,w}~
+{C}
+   You are still lost in storage, but the items here don't appear
+ to be as old as the items you first encountered. Although, not
+ as old as the others these are still rarely used these days. You
+ should keep searching and be careful... or you just might find
+ yourself right back in the worst of it.
+{c}
+~
+158 1049053 0
+D0
+~
+~
+0 -1 15831
+T15834
+X134
+Z3
+C-1
+S
+#15826
+{bo,W}Along A Musty Hallway{bo,w}~
+{C}
+   Its obvious why the two men never appeared to notice you
+ now. They are store security, and appear to be guarding the
+ door behind them. Two dedicated servants of the store, they
+ would not leave their post without an extremely good reason.
+ Obviously to them you don't appear to be a threat. They look
+ extremely alert and very aware of you, and every move you
+ make. You see a large sign stuck to the door. The hallway
+ continues to the north.
+{c}
+~
+158 8 0
+D0
+~
+~
+0 -1 15839
+D1
+{C}
+  The vault doors are closed securely. This is a heavily
+ guarded area.
+{c}
+~
+vault~
+4 -1 15827
+D2
+~
+~
+0 -1 15835
+E
+sign~
+{C}
+  
+                   *********************
+                   *                   *
+                   *    AUTHORIZED     *
+                   *     PERSONEL      *
+                   *       ONLY        *
+                   *                   *
+                   *********************
+{c}
+~
+Z-1
+C-1
+S
+#15827
+{bo,R}The Holding Vault{bo,r}~
+{C}
+   This vault contains the newest, latest product in the
+ Computer World Warehouse. This is where it is kept under
+ lock and key until it's set release date.
+{c}
+~
+158 8 0
+D3
+~
+vault~
+1 -1 15826
+Z-1
+C-1
+S
+#15828
+{bo,W}Current Storage{bo,w}~
+{C}
+  You've found the area containing the latest versions of
+ technology that Computer World has to offer. New packages
+ that shine and glitter surround you from shelf to shelf.
+ You can barely contain your excitement!
+{c}
+~
+158 8 0
+D0
+{C}
+  You see a large door. Through a small window in the center
+ of the door, you can see a long musty hallway. You turn the 
+ doorknob, no luck. You examine the lock, but it appears to
+ be secure.
+~
+door~
+3 -1 15835
+D1
+~
+~
+0 -1 15898
+Z3
+C-1
+S
+#15829
+{bo,W}Lost in Storage{bo,w}~
+{C}
+   You are lost among the thousands of shipping crates and boxes
+ stored here in Computer World's warehouse. Some of the items in
+ here have been lost so long they have been long forgotten. You
+ should start finding your way out, or you could be here a LONG
+ time.
+{c}
+~
+158 477 0
+D0
+~
+~
+0 -1 15830
+D1
+~
+~
+0 -1 15833
+D2
+~
+~
+0 -1 15832
+D3
+~
+~
+0 -1 15830
+T15834
+X134
+Z3
+C-1
+S
+#15830
+{bo,W}Lost in Storage{bo,w}~
+{C}
+   You are lost among the thousands of shipping crates and boxes
+ stored here in Computer World's warehouse. Some of the items in
+ here have been lost so long they have been long forgotten. You
+ should start finding your way out, or you could be here a LONG
+ time.
+{c}
+~
+158 477 0
+D0
+~
+~
+0 -1 15829
+D1
+~
+~
+0 -1 15829
+D2
+~
+~
+0 -1 15832
+D3
+~
+~
+0 -1 15833
+T15834
+X134
+Z3
+C-1
+S
+#15831
+{bo,W}Lost in Storage{bo,w}~
+{C}
+   You spot an old 386 in the area. Accompanying it is an old
+ copy of Windows 3.1. It looks angry... probably on the verge
+ of crashing again. Better try and steer clear of it...
+   The clutter ahead of you seems to open up a bit.
+{c}
+~
+158 477 0
+D0
+~
+~
+0 -1 15828
+T15834
+X134
+Z3
+C-1
+S
+#15832
+{bo,W}Lost in Storage{bo,w}~
+{C}
+   You are lost among the thousands of shipping crates and boxes
+ stored here in Computer World's warehouse. Some of the items in
+ here have been lost so long they have been long forgotten. You
+ should start finding your way out, or you could be here a LONG
+ time.
+{c}
+~
+158 477 0
+D0
+~
+~
+0 -1 15830
+D1
+~
+~
+0 -1 15829
+D2
+~
+~
+0 -1 15829
+D3
+~
+~
+0 -1 15830
+T15834
+X134
+Z3
+C-1
+S
+#15833
+{bo,W}Lost in Storage{bo,w}~
+{C}
+   You are lost among the thousands of shipping crates and boxes
+ stored here in Computer World's warehouse. Some of the items in
+ here have been lost so long they have been long forgotten. You
+ should start finding your way out, or you could be here a LONG
+ time.
+{c}
+~
+158 1049053 0
+D0
+~
+~
+0 -1 15813
+D2
+~
+~
+0 -1 15832
+T15834
+X150
+Z3
+C-1
+S
+#15834
+{bo,W}Lost in Storage{bo,w}~
+{C}
+   You stumble upon two giants in the history of Computer
+ World. Once greatly appreciated and in high demand, Now
+ they are treated as nothing more than junk. Discarded to
+ this dusty mothball-stinking hell, they want nothing more
+ than to get out of this place... at any cost. They refuse
+ to let you pass unless you take them with you.
+{c}
+~
+158 477 0
+D0
+~
+~
+0 -1 15818
+T15834
+X134
+Z3
+C-1
+S
+#15835
+{bo,W}Along A Musty Hallway{bo,w}~
+{C}
+   You have entered a long musty hallway. You can still smell
+ the overwhelming stench of the storage areas behind you. The
+ hallway is decently lit. You can see two people standing at a
+ doorway a little further down the hallway. You can't see them 
+ enough from here to see what they're doing. They pay no notice
+ to you, although your sure they can see you by now. You feel
+ safe for now...
+{c}
+~
+158 8 0
+D0
+~
+~
+0 -1 15826
+D2
+~
+door~
+1 -1 15828
+Z3
+C-1
+S
+#15836
+{bo,M}The Shipping Bay{bo,m}~
+{C}
+   The high ceiling provides a roomy-type atmosphere in here,
+ and allows plenty of room for manuevering the large stacks
+ of mechandise that are loaded and unloaded here. Workers are
+ all around you, unloading the latest shipment of spare parts.
+{c}
+~
+158 0 1
+D0
+~
+~
+0 -1 15805
+D1
+~
+~
+0 -1 15821
+D3
+~
+~
+0 -1 15838
+Z-1
+C-1
+S
+#15837
+{bo,M}The Shipping Bay{bo,m}~
+{C}
+   The high ceiling provides a roomy-type atmosphere in here,
+ and allows plenty of room for manuevering the large stacks
+ of mechandise that are loaded and unloaded here. Workers are
+ all around you, unloading the latest shipment of spare parts.
+{c}
+~
+158 0 1
+D1
+~
+~
+0 -1 15808
+D2
+~
+~
+0 -1 15804
+Z-1
+C-1
+S
+#15838
+{bo,M}The Shipping Bay{bo,m}~
+{C}
+   The high ceiling provides a roomy-type atmosphere in here,
+ and allows plenty of room for manuevering the large stacks
+ of mechandise that are loaded and unloaded here. Workers are
+ all around you, unloading the latest shipment of spare parts.
+{c}
+~
+158 0 1
+D0
+~
+~
+0 -1 15804
+D1
+~
+~
+0 -1 15836
+Z-1
+C-1
+S
+#15839
+{bo,W}Along A Musty Hallway{bo,w}~
+{C}
+  You can hear some noise up ahead. There seems to be a
+ room up to the left where the noises appear to be coming
+ from. You can smell the faint odor of food coming from
+ the same direction.
+{c}
+~
+158 8 0
+D0
+~
+~
+0 -1 15844
+D2
+~
+~
+0 -1 15826
+Z-1
+C-1
+S
+#15840
+{G}Inventory Manager's Office{g}{b}~
+
+This is a small office with virtually nothing but a desk and chair. The
+man behind the desk stands up quickly as you enter his office uninvited.
+Obviously he doesn't want to be bothered at the moment.
+
+~
+158 44 0
+D1
+~
+~
+0 -1 15821
+D3
+~
+door~
+1 -1 15851
+Z3
+C2
+S
+#15841
+{bo,R}Employee Breakroom{bo,r}~
+{C}
+  Several people are sitting around a small table eating and
+ chatting. You are amazed at their ability to eat in a place
+ this filthy. The room reaks of stale coffee and cigarette
+ smoke. The garbage can in the corner is running over its top,
+ and cigarette butts and ashes cover the floor around you. 
+{c}
+~
+158 141 0
+D1
+~
+~
+0 -1 15844
+Z-1
+C-1
+S
+#15842
+{bo,R}A Restroom{bo,r}~
+{C}
+  The restroom is small and sparse compared to the ones inside
+ the store. Designed only for employee use, this one contains
+ the very basics... 
+{c}
+~
+158 9 0
+D1
+~
+door~
+1 -1 15832
+D3
+~
+door~
+1 -1 15858
+Z3
+C-1
+S
+#15843
+{bo,R}Janitor's Closet{bo,r}~
+{C}
+  As you open the closet door, the smells of lysol and pine
+ almost knock you off your feet. Obviously, this area is used
+ as storage for the janitor's cleaning supplies. You see most
+ the things you would expect to see. Mops, brooms, buckets,
+ paper towels, and many unknown chemicals are scattered about
+ the area.
+{c}
+~
+158 40 0
+D2
+~
+~
+0 -1 15844
+D3
+~
+closet~
+1 -1 15844
+Z3
+C-1
+S
+#15844
+{bo,W}Along A Musty Hallway{bo,w}~
+{C}
+  You can now determine that the noise you heard is, in fact,
+ several different people holding a conversation in the room 
+ to your left. You can see partially inside the room. A man
+ sits at a table with his back to you. He seems to be deep in
+ conversation with the other people in the room... He pauses
+ for a second and takes a bite out of something between two
+ slices of bread... That must be the employee breakroom.
+{c}
+~
+158 12 0
+D0
+~
+~
+0 -1 15858
+D1
+{C}
+   You see a small green door with a small plaque hanging
+  from it.
+{c}
+~
+closet~
+1 -1 15843
+D2
+~
+~
+0 -1 15839
+D3
+~
+~
+0 -1 15841
+Z-1
+C-1
+S
+#15845
+{bo,R}The Purchasing Supervisor's Office{bo,r}~
+{C}
+  You stand inside a small business office. The room is lightly
+ decorated with a few small plants, and a large stuffed fish
+ hangs on one wall. Other than that, the office looks as normal
+ as any other you have seen.
+  
+{c}
+~
+158 44 0
+D1
+~
+door~
+1 -1 15846
+Z3
+C2
+S
+#15846
+{bo,R}Outside The Purchasing Supervisor's Office{bo,r}~
+{C}
+  You now stand near the desk where the flirty woman sits. She
+ looks up at you and purrs, 'May I help you?' You stand there,
+ wondering how to respond, as she surveys you from head to toe.
+ You cringe, as she sticks out her tongue and wets her lips.
+ The voice in your head screams, 'Get out! Get out quick!'
+{c}
+~
+158 8 0
+D2
+~
+~
+0 -1 15850
+D3
+**PURCHASING MANAGER**
+
+~
+door~
+2 15801 15845
+Z3
+C-1
+S
+#15847
+{bo,R}Going Up...{bo,r}~
+{C}
+  You feel the strain on your legs to hold you up, as the
+ elevator starts up with a jolt.
+{c}
+~
+158 1048584 0
+D4
+~
+~
+0 -1 15882
+Z3
+C-1
+S
+#15848
+{bo,BL}The Security Desk{bo,bl}~
+{C}
+  A large round security desk takes up the greater part
+ of this side of the room. From here, you can see large
+ consoles that contain an assortment of video screens.
+ Security guards can monitor every part of the building
+ twenty-four hours a day, from this point.
+{c}
+~
+158 140 0
+D2
+~
+~
+0 -1 15890
+Z-1
+C-1
+S
+#15849
+{G}An Office{g}{b}~
+
+
+Another assistant stares at you as you enter his small workspace, His
+is eagerly trying to finish up his work so he can get out of this busy
+and hectic place. His eyes are bloodshot from staring at his computer
+screen all day.
+
+~
+158 40 0
+D2
+~
+~
+0 -1 15848
+Z3
+C-1
+S
+#15850
+{BO,M}Purchasing{bo,m}~
+{C}
+   This small waiting area is decorated by a few plastic
+  plants that sit in each corner of the room. Four padded
+  leather chairs sit over by the wall. You see an area of
+  office cubicles just ahead of you. On the other side of
+  the room there's an opening and a small desk where an
+  older woman sits reading a book.
+{c}
+~
+158 8 0
+D0
+~
+~
+0 -1 15852
+Z-1
+C-1
+S
+#15851
+{BO,M}Inside A Small Cubicle{bo,m}~
+{C}
+   An office worker sits here at his desk, working hard for
+ that long over-due promotion. He probably wouldn't want to
+ be disturbed, he looks busy. Maybe you should leave before
+ he notices you...
+{c}
+~
+158 16396 0
+D0
+~
+~
+0 -1 15852
+D1
+**INVENTORY MANAGER**
+
+~
+door~
+2 15800 15840
+D2
+~
+~
+0 -1 15855
+X4194304
+Z3
+C2
+S
+#15852
+{BO,M}Inside A Small Cubicle{bo,m}~
+{C}
+   An office worker sits here at his desk, working hard for
+ that long over-due promotion. He probably wouldn't want to
+ be disturbed, he looks busy. Maybe you should leave before
+ he notices you...
+{c}
+~
+158 16396 0
+D0
+~
+~
+0 -1 15853
+D2
+~
+~
+0 -1 15851
+X4194304
+Z-1
+C2
+S
+#15853
+{BO,M}Inside A Small Cubicle{bo,m}~
+{C}
+   An office worker sits here at his desk, working hard for
+ that long over-due promotion. He probably wouldn't want to
+ be disturbed, he looks busy. Maybe you should leave before
+ he notices you...
+{c}
+~
+158 16396 0
+D0
+~
+~
+0 -1 15854
+D2
+~
+~
+0 -1 15852
+X4194304
+Z3
+C2
+S
+#15854
+{BO,M}Inside A Small Cubicle{bo,m}~
+{C}
+   An office worker sits here at his desk, working hard for
+ that long over-due promotion. He probably wouldn't want to
+ be disturbed, he looks busy. Maybe you should leave before
+ he notices you...
+{c}
+~
+158 16396 0
+D2
+~
+~
+0 -1 15853
+X4194304
+Z3
+C2
+S
+#15855
+{bo,BLU}Advertising{bo,blu}~
+
+This small waiting area is decorated by a few plastic plants that sit in
+each corner of the room. Close to the wall sits four chairs. At the end of
+the room there is a opening and a small desk where an older woman sits
+answering phones and filing some papers. She glances up at you and smiles
+and returns to her chair.
+
+~
+158 8 0
+D0
+~
+~
+0 -1 15851
+D1
+~
+~
+0 -1 15881
+D3
+~
+~
+0 -1 15890
+Z3
+C-1
+S
+#15856
+{bo,W}A Dusty Stairway{bo,w}~
+{C}
+  The stairway looks alot less traveled than the hallway behind
+ you. Except for a small bit of dust, it even looks clean. You
+ can't hear anything going on upstairs. So, once again, you may
+ have to take a better look... 
+{c}
+~
+158 9 0
+D2
+~
+~
+0 -1 15858
+D4
+~
+~
+0 -1 15857
+Z3
+C-1
+S
+#15857
+{bo,W}On The Stairs{bo,w}~
+{C}
+   Your on the small staircase. You can't see much into
+ the room above, and the room seems ominously quiet. You
+ can go up from here. Or back down to the bottom of the 
+ stairs.
+{c}
+~
+158 9 0
+D4
+~
+~
+0 -1 15890
+D5
+~
+~
+0 -1 15856
+Z3
+C-1
+S
+#15858
+{bo,W}At The End Of The Hallway{bo,w}~
+{C}
+  The musty smell is almost non-existant in this part of the
+ hallway. You can see light pouring in through a stairwell
+ to your north. The hallway continues to the south. You see
+ a small door to your east.
+{c}
+~
+158 4 1
+D0
+~
+~
+0 -1 15856
+D1
+~
+door~
+1 -1 15842
+D2
+~
+~
+0 -1 15844
+Z-1
+C-1
+S
+#15859
+{BO,W}Personnel{bo,w}~
+{C}
+  This is where applicants, who want to become new employees of
+ Computer World Industries, come to be interviewed. People seem 
+ to be making their way toward a small counter at the other end
+ of the crowded room. The line appears to be pretty long. Your
+ going to be standing here a while, if you wait your turn. The 
+ elevator is to your east.
+{c}
+~
+158 12 0
+D0
+~
+~
+0 -1 15861
+D1
+~
+elevator~
+1 -1 15875
+Z-1
+C-1
+S
+#15860
+{G}Warehouse Manager's Office{g}{b}~
+
+A well dressed gentleman stands at his desk holding a steaming cup of coffee.
+His speakerphone echos the loud voice of what appears to be his boss. Large
+file cabinets line the walls of this ravish office. As you look at him closely
+you notice the walkie talkie strapped to his side. 
+
+~
+158 16557 0
+D2
+~
+door~
+1 -1 15865
+Z3
+C-1
+S
+#15861
+{BO,W}Waiting In Line{bo,w}~
+{C}
+  The applicants are tired and irritable. Most of them have
+ been standing here for a long time, for an interview. You
+ better wait your turn, or you could end up with a riot on
+ your hands.
+{c}
+~
+158 128 0
+D0
+~
+~
+0 -1 15862
+D1
+~
+~
+0 -1 15868
+D2
+~
+~
+0 -1 15859
+D3
+~
+~
+0 -1 15868
+Z-1
+C-1
+S
+#15862
+{BO,W}Waiting In Line{bo,w}~
+{C}
+  The applicants are tired and irritable. Most of them have
+ been standing here for a long time, for an interview. You
+ better wait your turn, or you could end up with a riot on
+ your hands.
+{c}
+~
+158 128 0
+D0
+~
+~
+0 -1 15863
+D1
+~
+~
+0 -1 15868
+D2
+~
+~
+0 -1 15861
+D3
+~
+~
+0 -1 15869
+Z-1
+C-1
+S
+#15863
+{BO,W}Waiting In Line{bo,w}~
+{C}
+  The applicants are tired and irritable. Most of them have
+ been standing here for a long time, for an interview. You
+ better wait your turn, or you could end up with a riot on
+ your hands.
+{c}
+~
+158 128 0
+D0
+~
+~
+0 -1 15864
+D1
+~
+~
+0 -1 15868
+D2
+~
+~
+0 -1 15862
+D3
+~
+~
+0 -1 15868
+Z-1
+C-1
+S
+#15864
+{BO,W}Waiting In Line{bo,w}~
+{C}
+  The applicants are tired and irritable. Most of them have
+ been standing here for a long time, for an interview. You
+ better wait your turn, or you could end up with a riot on
+ your hands.
+{c}
+~
+158 128 0
+D0
+~
+~
+0 -1 15867
+D1
+~
+~
+0 -1 15868
+D2
+~
+~
+0 -1 15863
+D3
+~
+~
+0 -1 15868
+Z-1
+C-1
+S
+#15865
+{G}Secretary's Office{g}{b}~
+
+As you enter this office, you notice the smell of new carpet. This area
+is a bit larger than the rest of the offices you have visited. The secretary
+that sits behind her desk looks well paid and very taken care of. Her age
+is well hidden behind the glow in her crystal blue eyes.
+
+~
+158 44 0
+D0
+**WAREHOUSE MANAGER**
+
+~
+door~
+2 15805 15860
+D2
+~
+~
+0 -1 15839
+Z3
+C-1
+S
+#15866
+{bo,R}Emergency Exit{bo,r}~
+{C}
+  You are now leaving the administration building. You hear an
+ alarm go off as you open the door, and as you walk through you
+ see the door slam shut behind you.
+{c}
+~
+158 1048580 0
+Z-1
+C-1
+S
+#15867
+{BO,W}Standing At The Counter{bo,w}~
+{C}
+  As you near the counter, you see a lady flipping through a
+ large filing cabinet. She glances over her shoulder, notices
+ you, and says,'One moment please', then continues to flip
+ through the files. Finally, she stops, pulls a folder from
+ the cabinet, and approaches the counter. She looks up at you
+ and asks, 'May I help you?' 
+{c}
+~
+158 4 1
+D0
+~
+~
+0 -1 15880
+D2
+~
+~
+0 -1 15864
+Z3
+C-1
+S
+#15868
+{BO,B}Jumping Line{bo,b}~
+{C}
+  You thought no one would notice?!
+            The minute you try to jump line you feel
+           a sharp pain in your back...
+                 Your legs won't move and you feel out of
+                  breath.
+                       You manage a small cough, and look down
+                      at your hands... just before your vision goes
+                      black....
+                             Blood.
+                                 
+                                    Looks like your adventure has come
+                                   to an end....
+{c}
+~
+158 198 1
+Z3
+C-1
+S
+#15869
+{BO,B}Jumping Line{bo,b}~
+{C}
+   You manage to duck down and conceal yourself behind 
+ someone. If you move silently, and cautiously, you might
+ be able to make it to the desk unnoticed. Someone has
+ already taken your place in line, so theres no turning
+ back now...
+{c}
+~
+158 16526 9
+D0
+~
+~
+0 -1 15870
+Z3
+C1
+S
+#15870
+{bo,R}Creeping Through The Crowded Room{bo,r}~
+{C}
+  You move along, dangerously close to being discovered. So
+ far, so good. Although, the wrong move now will mean certain
+ and immediate death. You shudder slightly and move on...
+{c}
+~
+158 16524 9
+D0
+~
+~
+0 -1 15871
+D1
+~
+~
+0 -1 15877
+D3
+~
+~
+0 -1 15878
+T15867
+Z-1
+C1
+S
+#15871
+{bo,R}Creeping Through The Crowded Room{bo,r}~
+{C}
+  You move along, dangerously close to being discovered. So
+ far, so good. Although, the wrong move now will mean certain
+ and immediate death. You shudder slightly and move on...
+{c}
+~
+158 16524 9
+D0
+~
+~
+0 -1 15879
+D1
+~
+~
+0 -1 15878
+D2
+~
+~
+0 -1 15877
+D3
+~
+~
+0 -1 15872
+Z-1
+C1
+S
+#15872
+{bo,R}Creeping Through The Crowded Room{bo,r}~
+{C}
+  You move along, dangerously close to being discovered. So
+ far, so good. Although, the wrong move now will mean certain
+ and immediate death. You shudder slightly and move on...
+{c}
+~
+158 16524 9
+D0
+~
+~
+0 -1 15873
+D1
+~
+~
+0 -1 15877
+D2
+~
+~
+0 -1 15879
+D3
+~
+~
+0 -1 15878
+T15867
+Z-1
+C1
+S
+#15873
+{bo,R}Creeping Through The Crowded Room{bo,r}~
+{C}
+  You move along, dangerously close to being discovered. So
+ far, so good. Although, the wrong move now will mean certain
+ and immediate death. You shudder slightly and move on...
+{c}
+~
+158 16524 9
+D0
+~
+~
+0 -1 15877
+D1
+~
+~
+0 -1 15874
+D2
+~
+~
+0 -1 15879
+D3
+~
+~
+0 -1 15878
+T15867
+Z-1
+C1
+S
+#15874
+{bo,R}Creeping Through The Crowded Room{bo,r}~
+{C}
+  You move along, dangerously close to being discovered. So
+ far, so good. Although, the wrong move now will mean certain
+ and immediate death. You shudder slightly and move on...
+{c}
+~
+158 16780 9
+D0
+~
+~
+0 -1 15876
+D1
+~
+~
+0 -1 15877
+D2
+~
+~
+0 -1 15879
+D3
+~
+~
+0 -1 15878
+T15867
+Z-1
+C1
+S
+#15875
+{bo,R}Going Up...{bo,r}~
+{C}
+  You feel the strain on your legs to hold you up, as the
+ elevator starts up with a jolt.
+{c}
+~
+158 1048584 0
+D4
+~
+~
+0 -1 15883
+Z-1
+C-1
+S
+#15876
+{bo,R}Creeping Through The Crowded Room{bo,r}~
+{C}
+  You move along, dangerously close to being discovered. So
+ far, so good. Although, the wrong move now will mean certain
+ and immediate death. You shudder slightly and move on...
+{c}
+~
+158 16520 9
+D0
+~
+~
+0 -1 15867
+D1
+~
+~
+0 -1 15879
+T15867
+Z-1
+C-1
+S
+#15877
+{bo,R}Creeping Through The Crowded Room{bo,r}~
+{C}
+  You move along, dangerously close to being discovered. So
+ far, so good. Although, the wrong move now will mean certain
+ and immediate death. You shudder slightly and move on...
+{c}
+~
+158 16776 9
+D0
+~
+~
+0 -1 15879
+D1
+~
+~
+0 -1 15879
+D2
+~
+~
+0 -1 15879
+D3
+~
+~
+0 -1 15879
+T15867
+Z-1
+C-1
+S
+#15878
+{bo,R}Creeping Through The Crowded Room{bo,r}~
+{C}
+  You move along, dangerously close to being discovered. So
+ far, so good. Although, the wrong move now will mean certain
+ and immediate death. You shudder slightly and move on...
+{c}
+~
+158 16776 9
+D0
+~
+~
+0 -1 15879
+D2
+~
+~
+0 -1 15879
+D3
+~
+~
+0 -1 15879
+T15867
+Z-1
+C-1
+S
+#15879
+{bo,R}Creeping Through The Crowded Room{bo,r}~
+{C}
+  You move along, dangerously close to being discovered. So
+ far, so good. Although, the wrong move now will mean certain
+ and immediate death. You shudder slightly and move on...
+{c}
+~
+158 16776 9
+D0
+~
+~
+0 -1 15870
+D1
+~
+~
+0 -1 15877
+D2
+~
+~
+0 -1 15878
+D3
+~
+~
+0 -1 15876
+T15867
+Z-1
+C-1
+S
+#15880
+{BO,W}Behind The Clerks Counter{bo,w}~
+{C}
+  You now stand behind the clerks counter. Everything looks
+ neat and well organized. Much better shape than some of the
+ offices you have been in. A small desk and an office chair
+ sit to one side of the room. While, several large cabinets
+ seem to fill up the rest of the area.
+{c}
+~
+158 4 1
+D2
+~
+~
+0 -1 15867
+Z-1
+C-1
+S
+#15881
+{bo,R}Going Up...{bo,r}~
+{C}
+  You feel the strain on your legs to hold you up, as the
+ elevator starts up with a jolt.
+{c}
+~
+158 1048584 0
+D4
+~
+~
+0 -1 15884
+Z3
+C-1
+S
+#15882
+{BO,W}Second Floor{bo,w}~
+{C}
+  You feel a little light-headed, almost dizzy, as the elevator
+ comes to a sudden stop.
+{c}
+~
+158 8 0
+D3
+~
+~
+0 -1 15859
+Z3
+C-1
+S
+#15883
+{bo,BLU}Third Floor{bo,blu}~
+{C}
+  You feel a little light-headed, almost dizzy, as the elevator
+ comes to a sudden stop.
+{c}
+~
+158 8 0
+D3
+~
+~
+0 -1 15855
+Z3
+C-1
+S
+#15884
+{BO,M}Fourth Floor{bo,m}~
+{C}
+  You feel a little light-headed, almost dizzy, as the elevator
+ comes to a sudden stop.
+{c}
+~
+158 8 0
+D3
+~
+~
+0 -1 15850
+Z3
+C-1
+S
+#15885
+{BO,W}Time For An Interview{bo,w}~
+{C}
+  As you near the counter, you see a lady flipping through a
+ large filing cabinet. She glances over her shoulder, notices
+ you, and says,'One moment please', then continues to flip
+ through the files. Finally, she stops, pulls a folder from
+ the cabinet, and approaches the counter. She looks up at you
+ and asks, 'May I help you?' 
+{c}
+~
+158 4 1
+D1
+~
+~
+0 -1 15883
+D3
+~
+~
+0 -1 15886
+Z3
+C-1
+S
+#15886
+{BO,M}Inside A Small Cubicle{bo,m}~
+{C}
+   An office worker sits here at his desk, working hard for
+ that long over-due promotion. He probably wouldn't want to
+ be disturbed, he looks busy. Maybe you should leave before
+ he notices you...
+{c}
+~
+158 16396 0
+D1
+~
+~
+0 -1 15885
+X4194304
+Z3
+C2
+S
+#15887
+The Parking Lot~
+
+The hot asphalt burns through your shoes nearly making you jump in pain as
+you take each step. The sun is beating down on you fiercely nearly blinding
+you from the sweat that it causes to pour down in to your eyes. One thing
+is for sure, black asphalt and heat do not mix. 
+
+~
+158 80 1
+D0
+~
+~
+0 -1 15872
+D1
+~
+~
+0 -1 15888
+D3
+~
+~
+0 -1 15878
+Z3
+C-1
+S
+#15888
+The Parking Lot~
+
+The hot asphalt burns through your shoes nearly making you jump in pain as
+you take each step. The sun is beating down on you fiercely nearly blinding
+you from the sweat that it causes to pour down in to your eyes. One thing
+is for sure, black asphalt and heat do not mix. 
+
+~
+158 80 1
+D0
+~
+~
+0 -1 15889
+D3
+~
+~
+0 -1 15887
+Z3
+C-1
+S
+#15889
+Administration~
+
+A foyer here blocks the sun from your face. Its a little cooler here in the
+shade but there's not much room for many more to enjoy it with you. You stand
+before a door that seems to lead into another section that is seperated by
+the warehouse. As you draw closer to the door you can feel the cool air from
+inside caress your hot skin.
+
+~
+158 4 1
+D0
+{C}Administration{c}
+
+~
+door~
+2 15811 15890
+D2
+~
+~
+0 -1 15888
+Z3
+C1
+S
+#15890
+{bo,R}Administration Lobby{bo,r}~
+{C}
+  A red throw rug lies on the floor here running both straight
+ ahead and to either side. A large rack of magazines sits in
+ one corner of the room. A small coffee machine and a payphone
+ sit in another. You can see elevator doors to your east. The
+ security desk is straight ahead, in front of you. Behind you,
+ you see a closed door marked '{bo,R}EXIT{bo,C}'.
+{c}
+~
+158 8 0
+D0
+~
+~
+0 -1 15848
+D1
+~
+elevator~
+1 -1 15847
+D2
+~
+~
+0 -1 15866
+D5
+~
+~
+0 -1 15857
+Z-1
+C-1
+S
+#15891
+A Dark Tunnel~
+
+The foul stench of sewer is quite a putrid one isn't it? You can feel your
+stomach turn as you move ahead. Animals of some type can be heard scurrying in
+the distance up ahead. Hope you your light source remains in good working 
+condition.
+
+~
+158 49153 0
+D2
+~
+~
+0 -1 15874
+D3
+~
+~
+0 -1 15892
+Z3
+C2
+S
+#15892
+A Dark Winding Tunnel~
+
+The foul stench of sewer is quite a putrid one isn't it? You can feel your
+stomach turn as you move ahead. Animals of some type can be heard scurrying in
+the distance up ahead. Hope you your light source remains in good working 
+condition.
+
+~
+158 49153 0
+D1
+~
+~
+0 -1 15891
+D2
+~
+~
+0 -1 15893
+Z3
+C2
+S
+#15893
+A Dark Winding Tunnel~
+
+The foul stench of sewer is quite a putrid one isn't it? You can feel your
+stomach turn as you move ahead. Animals of some type can be heard scurrying in
+the distance up ahead. Hope you your light source remains in good working 
+condition.
+
+~
+158 49153 0
+D0
+~
+~
+0 -1 15892
+D3
+~
+~
+0 -1 15894
+Z3
+C2
+S
+#15894
+{M}In The Compactor{m}~
+{C}
+  Ugghhh! Your inside the compactor! But wait... whats this? There is no
+ large press, only a large robot. He doesn't really seem to notice the
+ difference between flesh and cardboard though, watch out for those huge
+ blades!
+{c}
+~
+158 5 1
+Z0
+C-1
+S
+#15895
+{M}The Compactor{m}~
+{C}
+   A man is here busy unfolding a large mound of boxes, 
+ and throwing them into a huge compactor. He looks pretty
+ upset. You hear him muttering something to himself about
+ long hours and bad wages. He notices your movement and
+ briefly looks up at you.
+{c}
+~
+158 4 1
+D1
+~
+~
+0 -1 15809
+D3
+~
+~
+0 -1 15820
+Z3
+C-1
+S
+#15896
+{bo,W}Current Storage{bo,w}~
+{C}
+  You've found the area containing the latest versions of
+ technology that Computer World has to offer. New packages
+ that shine and glitter surround you from shelf to shelf.
+ You can barely contain your excitement!
+{c}
+~
+158 8 0
+D3
+~
+~
+0 -1 15897
+Z3
+C-1
+S
+#15897
+{bo,W}Current Storage{bo,w}~
+{C}
+  You've found the area containing the latest versions of
+ technology that Computer World has to offer. New packages
+ that shine and glitter surround you from shelf to shelf.
+ You can barely contain your excitement!
+{c}
+~
+158 8 0
+D1
+~
+~
+0 -1 15896
+D3
+~
+~
+0 -1 15898
+Z3
+C-1
+S
+#15898
+{bo,W}Current Storage{bo,w}~
+{C}
+  You've found the area containing the latest versions of
+ technology that Computer World has to offer. New packages
+ that shine and glitter surround you from shelf to shelf.
+ You can barely contain your excitement!
+{c}
+~
+158 8 0
+D1
+~
+~
+0 -1 15897
+D3
+~
+~
+0 -1 15828
+Z3
+C-1
+S
+#15899
+{Y}Colour{y} {R}test{r} {W}room{w}~
+
+
+Colour       Colour BOLD
+                                                    
+{BLU}Blue{blu}         {BLU}{BOLD}Blue{blu}{bold}
+{W}White{w}        {W}{BOLD}White{w}{bold}
+{BL}Black{bl}        {BL}{BOLD}Black{bl}{bold}
+{R}Red{r}          {R}{BOLD}Red{r}{bold}
+{M}Magenta{m}      {M}{BOLD}Magenta{m}{bold}
+{G}Green{g}        {G}{BOLD}Green{g}{bold}
+{Y}Yellow{y}       {Y}{BOLD}Yellow{y}{bold}
+{C}Cyan{c}         {C}{BOLD}Cyan{c}{bold}
+                                                                     
+{W}These colours can be{w} {G}{BOLD}used to accent colours{g}{bold} in
+a {R}room{r}. {C}{BOLD}Use them sparingly{c}{bold} {M}though because it
+can lag{m} {Y}the mud{y} {BLU}{BOLD}a bit.{blu}{bold}
+
+~
+158 0 1
+Z3
+C-1
+S
+$~

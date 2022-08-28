@@ -1,0 +1,1633 @@
+#40200
+Entertainment Room.~
+
+         You are standing in an 
+         entertainment room. 
+         In the corner is a couch 
+         and tv. Hooked up to the 
+         tv you see a Old Nintendo ({BLUE}NES{blue}), 
+         a Super Nintendo ({RED}SNES{red}) and 
+         a Nintendo 64({CYAN}N64{cyan}).
+         
+~
+402 4 1
+E
+NES~
+        
+        
+        The Nintendo Entertainment System has
+        been around for many years. Currently
+        the system has over 250 games in existence.
+        But due to not all the games being as popular
+        as Zelda  I am not going to do all 250 games.
+        While in the NES you will have a choice of
+        Playing the Legend of Zelda. (Levels 1-30 Duel)
+        Or the Legend of Zelda II  The Adventure of Link.
+        Levels (30-50 Duel)
+        
+~
+Y100
+Z-1
+C-1
+R0
+S
+#40201
+{CYAN} Nintendo Entertainment System {cyan}~
+
+     You have entered the old dusty system. 
+     To the east you see a circuit leading 
+     to a game called {BLUE,BO}The Legend Of Zelda{blue,bo}
+     To the west you see a transistor 
+     heading to a game called 
+     {RED}Zelda II- The Adventure Of Link{red}.
+     
+~
+402 12 1
+D1
+~
+~
+0 -1 40202
+D2
+Entertainmet room
+~
+Nintendo Entertainment System~
+1 -1 40200
+M1
+Y50
+Z-1
+C-1
+R0
+S
+#40202
+{BLUE,BO,BLI} The Legend Begins {blue,bo,bli}~
+        
+        
+        After a long walk through the
+        dusty system, you emerge
+        relieved to find yourself
+        in a wide open field. It's 
+        a bright summer day and
+        to the east you see many bushes.
+        To the north you see some rocks.
+        
+~
+402 0 1
+D1
+~
+~
+0 -1 40203
+Z-1
+C-1
+R0
+S
+#40203
+{GR} A Path.{gr}~
+
+
+        As you squeeze through the 
+        narrow passage way, you come
+        to a room with many alternating 
+        bushes. Looking at the bushes 
+        you can see four sets of {RED,BLI}evil eyes{red,bli}.
+        
+~
+402 0 1
+D1
+~
+~
+0 -1 40204
+D3
+~
+~
+0 -1 40202
+Z-1
+C-1
+R0
+S
+#40204
+Mountain Path.~
+
+
+        As you squeeze through the 
+        narrow passage way, you come
+        to a room with many alternating 
+        bushes. Looking at the bushes 
+        you can see four sets of evil eyes.
+        
+~
+402 0 1
+D1
+~
+~
+0 -1 40205
+D3
+~
+~
+0 -1 40203
+Z-1
+C-1
+R0
+S
+#40205
+You continue on a mountain path.~
+
+
+        As you squeeze through the 
+        narrow passage way, you come
+        to a room with many alternating 
+        bushes. Looking at the bushes 
+        you can see four sets of evil eyes.
+        
+~
+402 0 1
+D1
+~
+~
+0 -1 40206
+D3
+~
+~
+0 -1 40204
+Z-1
+C-1
+R0
+S
+#40206
+{BLUE} Along an ocean beach{blue}.~
+     
+     After a short walk through 
+     the mountains, it is nice to 
+     smell some fresh air. Out of 
+     nowhere five mobs popup and 
+     you go EEEEEEEEEK!!!! They 
+     kind of resemble the old 
+     Atari joysticks.
+     
+~
+402 0 1
+D1
+~
+~
+0 -1 40207
+D3
+~
+~
+0 -1 40205
+Z-1
+C-1
+R0
+S
+#40207
+{BLUE} Along an ocean beach{blue}.~
+       
+       You are now on a sandy beach. 
+       You thought that the joystick
+       creatures were gone, but guess 
+       again! Out of nowhere, 5 more
+       popup and go EEEEK!!
+       
+~
+402 0 1
+D0
+~
+~
+0 -1 40208
+D3
+~
+~
+0 -1 40206
+Z0
+C-1
+R0
+S
+#40208
+Four-Headed Gleeok Entrence.~
+                                
+        You're standing in a 
+        room full of bushes one stands 
+        out more than others though. 
+        This {RED,BO}b{red,bo}{GREEN}u{green}{CYAN,BO}s{cyan,bo}{BO}h{bo} is kind of a rainbow 
+        color. You see a shadow in 
+        the destance. After a brief look
+        Purhaps there is a enemy with
+        some EQ On it.
+        
+~
+402 0 1
+D0
+~
+~
+0 -1 40209
+D2
+~
+~
+0 -1 40207
+Z-1
+C-1
+R0
+S
+#40209
+A Path.~
+
+        In this room there are 
+        many things. You don't
+        know quite what to do so 
+        you go on a killing spree.      
+        
+~
+402 0 1
+D0
+~
+~
+0 -1 40210
+D2
+~
+~
+0 -1 40208
+Z-1
+C-1
+R0
+S
+#40210
+A Path Cont.~
+
+        In this room there are 
+        many things. You don't
+        know quite what to do so 
+        you go on a killing spree.      
+        
+~
+402 0 1
+D0
+~
+~
+0 -1 40211
+D2
+~
+~
+0 -1 40209
+Z-1
+C-1
+R0
+S
+#40211
+{GREEN,BO} A Forest Path{green,bo}.~
+
+        You have entered a forest.
+        In here you see lots of trees.
+        From under one of these trees
+        pops out a Molblin. He is join 
+        by four identical twins. Now you 
+        have five stupid mobs to contend with.
+        
+~
+402 0 1
+D0
+~
+~
+0 -1 40214
+D2
+~
+~
+0 -1 40210
+D3
+~
+~
+0 -1 40212
+Z-1
+C-1
+R0
+S
+#40212
+Path to Dodongo's cave.~
+
+
+        You have come to a well 
+        beaten path. You see what 
+        looks like dinosaur tracks.
+        You are not really looking 
+        forward to what you have 
+        to do next.
+        
+~
+402 0 1
+D0
+~
+~
+0 -1 40213
+D1
+~
+~
+0 -1 40211
+Z-1
+C-1
+R0
+S
+#40213
+Entrance to Dodongo's cave~
+
+
+        You stand before a massive 
+        cave. Coming from the cave 
+        you hear the heavy breathing 
+        of a Dodongo. 
+        
+~
+402 0 1
+D2
+~
+~
+0 -1 40212
+Z-1
+C-1
+R0
+S
+#40214
+{BO,GREEN} A Forest Path Cont{green,bo}.~
+
+        You have entered a forest.
+        In here you see lots of trees.
+        From under one of these trees
+        pops out a Molblin. He is join 
+        by four identical twins. Now you 
+        have five stupid mobs to contend with.
+        
+~
+402 0 1
+D0
+~
+~
+0 -1 40215
+D2
+~
+~
+0 -1 40211
+Z-1
+C-1
+R0
+S
+#40215
+{BLACK,BO} A Rock Path {black,bo}.~
+
+
+        After the long battle with Dodongo
+        You are getting the hang of 
+        {YELLOW}Zelda {yellow}With the first too bosses
+        behind you decide to continue
+        but the questions is which way to level 3?
+        
+~
+402 0 1
+D0
+~
+~
+0 -1 40216
+D2
+~
+~
+0 -1 40214
+Z-1
+C-1
+R0
+S
+#40216
+{BLACK,BO} A Rock Path Cont.{black,bo}~
+        
+        You are heading along
+        a rock path. In here you 
+        see a weird looking face...
+        look its {CY}Zora{cy}.
+        
+~
+402 0 1
+D0
+~
+~
+0 -1 40217
+D2
+~
+~
+0 -1 40215
+Z-1
+C-1
+R0
+S
+#40217
+{BLACK,BO} A Rock Path Cont.{black,bo}~
+        
+        You are heading along
+        a rock path. In here you 
+        see a weird looking face...
+        look its {CY}Zora{cy}.
+        
+~
+402 0 1
+D0
+~
+~
+0 -1 40218
+D2
+~
+~
+0 -1 40216
+D3
+~
+~
+0 -1 40226
+Z-1
+C-1
+R0
+S
+#40218
+{BLACK,BO} A Rock Path Cont{black,bo}.~
+
+        You must be getting
+        tired of all the spiders 
+        by now but guess what 
+        you have five more to 
+        contend with.
+         
+~
+402 0 1
+D2
+~
+~
+0 -1 40217
+D3
+~
+~
+0 -1 40219
+Z-1
+C-1
+R0
+S
+#40219
+{BLACK,BO} A Rock Path Cont{black,bo}.~
+
+        You must be getting
+        tired of all the spiders 
+        by now but guess what 
+        you have five more to 
+        contend with.
+         
+~
+402 0 1
+D1
+~
+~
+0 -1 40218
+D2
+~
+~
+0 -1 40220
+Z-1
+C-1
+R0
+S
+#40220
+{BLACK,BO} A Rock Path Cont{black,bo}.~
+
+
+        You have come to a
+        room with five statues. 
+        Do mind your step because 
+        the statues look like they
+        could come to life. Out of 
+        the corner of your eye you 
+        see movement.
+        
+~
+402 0 1
+D0
+~
+~
+0 -1 40219
+D2
+~
+~
+0 -1 40226
+D3
+~
+~
+0 -1 40221
+Z-1
+C-1
+R0
+S
+#40221
+{RED}Path To Digdogger's lair{red}.~
+        
+        In this room there 
+        are no enemys so it 
+        might be a good place 
+        to rest. You will have a 
+        good battle a head of you
+        for your next piece of EQ.
+        
+~
+402 0 1
+D0
+~
+~
+0 -1 40222
+D1
+~
+~
+0 -1 40220
+D3
+~
+~
+0 -1 40237
+Z-1
+C-1
+R0
+S
+#40222
+{RED}Path To Digdogger's lair{red}.~
+
+
+        In this room there 
+        are no enemys so it 
+        might be a good place 
+        to rest. You will have a 
+        good battle a head of you
+        for your next piece of EQ.
+        
+~
+402 0 1
+D0
+~
+~
+0 -1 40223
+D2
+~
+~
+0 -1 40221
+Z-1
+C-1
+R0
+S
+#40223
+{RED}Path To Digdogger's lair{red}.~
+
+
+        In this room there 
+        are no enemys so it 
+        might be a good place 
+        to rest. You will have a 
+        good battle a head of you
+        for your next piece of EQ.
+        
+~
+402 0 1
+D0
+~
+~
+0 -1 40224
+D2
+~
+~
+0 -1 40222
+Z-1
+C-1
+R0
+S
+#40224
+{RED}Path To Digdogger's lair{red}.~
+
+
+        In this room there 
+        are no enemys so it 
+        might be a good place 
+        to rest. You will have a 
+        good battle a head of you
+        for your next piece of EQ.
+        
+~
+402 0 1
+D0
+~
+~
+0 -1 40225
+D2
+~
+~
+0 -1 40223
+Z-1
+C-1
+R0
+S
+#40225
+{RED,BO,BLI} Digdogger's lair {red,bo,bli}.~
+
+
+        After a long walk you 
+        have finally arrived at 
+        Digdogger. Around the 
+        room you see alot of {RED}blood{red}
+        shed for pervious battles.
+        
+~
+402 0 1
+D2
+~
+~
+0 -1 40224
+Z0
+C-1
+R0
+S
+#40226
+A dusty path.~
+        
+        This room is dusty from lots of travel.  
+        I hope you all love the spiders in this zone
+        because there is more.
+        
+~
+402 0 1
+D0
+~
+~
+0 -1 40220
+D3
+~
+~
+0 -1 40227
+Z-1
+C-1
+R0
+S
+#40227
+A dusty path.~
+    
+       This room appears to have
+       nothing in it, but there are 
+       5 more of those Atari joyskick
+       looking things.
+       
+~
+402 0 1
+D1
+~
+~
+0 -1 40226
+D2
+~
+~
+0 -1 40228
+D3
+~
+~
+0 -1 40229
+Z-1
+C-1
+R0
+S
+#40228
+A dusty path.~
+    
+       This room appears to have
+       nothing in it, but there are 
+       5 more of those Atari joyskick
+       looking things.
+       
+~
+402 0 1
+D0
+~
+~
+0 -1 40227
+D3
+~
+~
+0 -1 40230
+Z0
+C-1
+R0
+S
+#40229
+A dusty path.~
+    
+       This room appears to have
+       nothing in it, but there are 
+       5 more of those Atari joyskick
+       looking things.
+       
+~
+402 0 1
+D1
+~
+~
+0 -1 40227
+D2
+~
+~
+0 -1 40230
+D3
+~
+~
+0 -1 40231
+Z-1
+C-1
+R0
+S
+#40230
+A dusty path.~
+    
+       This room appears to have
+       nothing in it, but there are 
+       5 more of those Atari joyskick
+       looking things.
+       
+~
+402 0 1
+D0
+~
+~
+0 -1 40229
+D1
+~
+~
+0 -1 40228
+Z-1
+C-1
+R0
+S
+#40231
+A dusty path.~
+    
+       This room appears to have
+       nothing in it, but there are 
+       5 more of those Atari joyskick
+       looking things.
+       
+~
+402 0 1
+D1
+~
+~
+0 -1 40229
+D3
+~
+~
+0 -1 40232
+Z-1
+C-1
+R0
+S
+#40232
+{BLUE} Along the shores of lake Zora. {blue}~
+                
+        This room has 5 bushes and a lake.
+        the mobs in this room look like a
+        brown rain drop with wings.
+        
+~
+402 0 1
+D1
+~
+~
+0 -1 40231
+D2
+~
+~
+0 -1 40238
+D3
+~
+~
+0 -1 40233
+Z-1
+C-1
+R0
+S
+#40233
+{BLUE} Along the shores of lake Zora. {blue}~
+         
+        There is a bend in the river 
+        to the west there is a shore 
+        that looks hard to get too. 
+        The river continues to the west.
+        
+~
+402 0 1
+D0
+~
+~
+0 -1 40234
+D1
+~
+~
+0 -1 40232
+Z-1
+C-1
+R0
+S
+#40234
+{BLUE}The river Zora.{blue}~
+         
+        There is a bend in the river 
+        The river continues to the east.
+        Beware of falling rocks.
+        
+~
+402 0 1
+D1
+~
+~
+0 -1 40235
+D2
+~
+~
+0 -1 40233
+Z-1
+C-1
+R0
+S
+#40235
+{BLUE}The river Zora.{blue}~
+         
+        There is a bend in the river 
+        The river continues to the east.
+        Beware of falling rocks.
+        
+~
+402 0 1
+D1
+~
+~
+0 -1 40236
+D3
+~
+~
+0 -1 40234
+Z-1
+C-1
+R0
+S
+#40236
+{BLUE}The river Zora.{blue}~
+         
+        There is a bend in the river 
+        The river continues to the east.
+        Beware of falling rocks.
+        
+~
+402 0 1
+D1
+~
+~
+0 -1 40237
+D3
+~
+~
+0 -1 40235
+Z-1
+C-1
+R0
+S
+#40237
+{BLUE} A water fall.{blue}~
+        
+        This room has the most breathtaking 
+        waterfall you have ever seen. After a 
+        long look up you decide that the waterfall 
+        has come from high up on the mountain cliffs. 
+        Now that the mist has clear there are 
+        some enemies to contend with. 
+        
+~
+402 0 1
+D1
+~
+~
+0 -1 40221
+D3
+~
+~
+0 -1 40236
+Z-1
+C-1
+R0
+S
+#40238
+{BLUE} The shores of Lake Zora cont.{blue}~
+        
+        This room has two different
+        types of Oct-o-rocks. The only 
+        difference that you can tell is the 
+        color maybe it means something.
+        
+~
+402 0 1
+D0
+~
+~
+0 -1 40232
+D2
+~
+~
+0 -1 40240
+D3
+~
+~
+0 -1 40239
+Z-1
+C-1
+R0
+S
+#40239
+{BO,GR}Aquamentus's tree.{bo,gr}~
+                
+        The dry sun has rotted five 
+        trees on of them has a big 
+        opening in it. Out of know 
+        were from the opening emerges 
+        a dragon looking creature. 
+        
+~
+402 0 1
+D1
+~
+~
+0 -1 40238
+Z-1
+C-1
+R0
+S
+#40240
+{BLUE}The shores of Lake Zora cont.{blue}~
+        
+        To the right side of you there 
+        is a beautiful lake. In this lake 
+        swims a fishy looking creature 
+        after closer examination it's a zora.
+        
+~
+402 0 1
+D0
+~
+~
+0 -1 40238
+D3
+~
+~
+0 -1 40241
+Y100
+Z-1
+C-1
+R0
+S
+#40241
+{BLUE}The shores of Lake Zora cont.{blue}~
+        
+        To the right side of you there 
+        is a beautiful lake. In this lake 
+        swims a fishy looking creature 
+        after closer examination it's a zora.
+        
+~
+402 0 1
+D1
+~
+~
+0 -1 40240
+D3
+~
+~
+0 -1 40243
+Y100
+Z-1
+C-1
+R0
+S
+#40242
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40243
+A path to level 4~
+        
+        This room is full of bushes. 
+        There is also a big section of lake.
+        Be happy and take a few to rest 
+        because this room is empty.
+        
+~
+402 4 1
+D1
+~
+~
+0 -1 40241
+D2
+~
+~
+0 -1 40244
+Y100
+Z-1
+C-1
+R0
+S
+#40244
+Path to level 4 cont~
+        
+        After a nice rest there is 
+        still more mobs to kill. 
+        More oct-o-rocks await your killing.
+        
+~
+402 0 1
+D0
+~
+~
+0 -1 40243
+D3
+~
+~
+0 -1 40245
+Z-1
+C-1
+R0
+S
+#40245
+The room before level 4.~
+        
+        The waters of lake Zora are 
+        looking rather disturbing. It 
+        almost makes you want to wait
+        before your next main boss type mob. 
+        After much mental debate and maby 
+        some greed your decide to press on.
+        
+~
+402 0 1
+D0
+~
+~
+0 -1 40246
+D1
+~
+~
+0 -1 40244
+D2
+~
+~
+0 -1 40247
+Z-1
+C-1
+R0
+S
+#40246
+Two-Headed Gleeok's domain (level 4)~
+        
+        This room has a lot of junk 
+        and rusted armor laying about. 
+        The armor was once worn by 
+        mighty warriors trying to obtain 
+        the treasure of the two Two-Headed Gleeok. 
+        
+~
+402 0 1
+D2
+~
+~
+0 -1 40245
+Z-1
+C-1
+R0
+S
+#40247
+After a long battle~
+        
+        After a long and annoying battle 
+        with the Gleeok you feel 
+        releaved to get back to the 
+        simpler mobs in the zone.
+        
+~
+402 0 1
+D0
+~
+~
+0 -1 40245
+D3
+~
+~
+0 -1 40248
+Z-1
+C-1
+R0
+S
+#40248
+A well beaten path~
+You are standing in nowhere !!!!
+~
+402 262144 1
+D1
+~
+~
+0 -1 40247
+Z-1
+C-1
+R0
+S
+#40249
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40250
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40251
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40252
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40253
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40254
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40255
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40256
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40257
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40258
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40259
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40260
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40261
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40262
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40263
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40264
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40265
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40266
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40267
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40268
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40269
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40270
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40271
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40272
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40273
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40274
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 0 1
+Z0
+C-1
+R0
+S
+#40275
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40276
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40277
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40278
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40279
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40280
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40281
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40282
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40283
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40284
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40285
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40286
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40287
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40288
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40289
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40290
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40291
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40292
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40293
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40294
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40295
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40296
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+402 262144 1
+Z0
+C-1
+R0
+S
+#40297
+{BO,R}Sa{BO,GR}mn{BO,R}u's {BO,GR}G{BO,R}h{BO,GR}e{BO,R}t{BO,GR}t{BO,R}o {BO,GR}H{BO,R}i{BO,GR}d{BO,R}e{BO,GR}a{BO,R}w{BO,GR}a{BO,R}y~
+
+     You peer around and you see the classiest arrangement of
+     junk and trash you've  ever seen.  The stench fills your
+     nostrils and  you  back away quickly.  To  your left you
+     notice  an  alleyway with  junkies  sitting in  a  group
+     around a flaming trash barrel.  
+
+~
+402 0 1
+D3
+~
+test~
+1 40223 40298
+Z-1
+C-1
+R0
+S
+#40298
+testrobos eq room~
+~
+402 65537 0
+D1
+~
+test~
+1 -1 40297
+Z-1
+C-1
+R0
+S
+#40299
+Robo's Office~
+    
+    Welcome to the home away from home of Robo.
+    The walls are coverd of pictures of his Friends
+    and loved ones that he misses. You are not likely 
+    to find him here because he has many immortal related
+    {BO,BLUE}projects{bo,blue}.
+    
+~
+402 65536 0
+E
+projects~
+
+                            
+                          {U}Current{u} {U}Projects{u}
+                                                  
+                     1. Legend of Zelda (nes)
+                     2. The Adventures of Link(nes)
+                     3. Legend of Zelda: A Link to the past
+                     4. Zelda: Ocarina of Time (N64)
+                     5. Zelda: Majora's mask (N64)
+                     
+                          {CY,BO}Last Updated: July 22, 2005{cy,bo}
+ 
+~
+X2048
+Z-1
+C-1
+R0
+S
+$~

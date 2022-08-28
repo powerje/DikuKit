@@ -1,0 +1,1767 @@
+#15000
+Observatory~
+  You are in a wierd clear crystal dome which stands high above the ground.
+The dome is made up of fine, clear crystal and smooth, white marble, and is
+decorated with exotic potted plants in each corner.
+~
+150 0 1
+D0
+You see the northern part of the observatory.
+~
+~
+0 -1 15001
+D1
+You see the eastern part of the observatory.
+~
+~
+0 -1 15003
+D2
+You see the southern part of the observatory.
+~
+~
+0 -1 15004
+D3
+You see the western part of the observatory.
+~
+~
+0 -1 15002
+D5
+You see erie spiraling stairs.
+~
+~
+0 -1 15005
+Z3
+C-1
+S
+#15001
+Northern Observatory~
+  This is the northern half of the large dome shaped observatory. Working
+your way towards the crystal you see the alien landscape before you. You
+see miles and miles of dark grey sands, with red mists which swirl over the
+sands.
+~
+150 0 1
+D2
+You see the center of the observatory.
+~
+~
+0 -1 15000
+Z3
+C-1
+S
+#15002
+Western Observatory~
+  This is the western half of the large dome shaped observatory. As you peer
+thru the crystal you see a vast and beautiful city, full of bright and
+mystical lights which hang from the many towers.
+~
+150 0 1
+D1
+You see the center of the observatory.
+~
+~
+0 -1 15000
+Z3
+C-1
+S
+#15003
+Eastern Observatory~
+  This is the eastern half of the large dome shaped observatory. As you gaze
+out thru the crystal dome, you see large dark grey cliffs and mountains
+which rise almost as high as the observatory itself.
+~
+150 0 1
+D3
+You see the center of the observatory.
+~
+~
+0 -1 15000
+Z3
+C-1
+S
+#15004
+Southern Observatory~
+  This is the southern half of the large dome shaped observatory. Looking
+thru the crystal you see two large mysterious blue moons which rise high
+above the dark colored sands.
+~
+150 0 1
+D0
+You see the center of the observatory.
+~
+~
+0 -1 15000
+Z3
+C-1
+S
+#15005
+Deck B Corridor~
+  You are in the third level of the observatory. The corridor here is in
+the form of a large circle and the walls are made from clear crystal,
+allowing you to look out into the wilderness, as well as see over the city.
+~
+150 0 1
+D1
+You see some type of control center.
+~
+door~
+2 15000 15008
+D4
+You see the upper level of the corridor.
+~
+~
+0 -1 15000
+D5
+You see the second level of the observatory.
+~
+~
+0 -1 15006
+Z3
+C-1
+S
+#15006
+Deck A Corridor~
+  You are on the second level of the large dome shaped observatory. The
+walls are all made from clear crystal, and there is fine white marble which
+lines the crystal. As you examine the crystal you see the shimmering city
+and the vast wasteland which extends beyond it.
+~
+150 0 1
+D3
+You see a guard outpost.
+~
+~
+0 -1 15013
+D4
+You see the third level of the observatory.
+~
+~
+0 -1 15005
+D5
+You see the ground level of the observatory.
+~
+~
+0 -1 15007
+Z3
+C-1
+S
+#15007
+Base of The Observatory~
+  You are standing at the base of a large dome shaped observatory. As you
+look up you notice that the observatory soars high above the ground and
+roughly has around three main levels.
+~
+150 0 1
+D2
+You see a skywalk
+~
+~
+0 -1 15015
+D4
+You see the second level of the observatory.
+~
+~
+0 -1 15006
+Z3
+C-1
+S
+#15008
+Security Checkpoint~
+  You stand within a small, narrow walkway which has thick clear crystal
+walls on both sides of you. There are two thick holes on both sides of the
+wall, from which the android guards authorize the visitors.
+~
+150 0 1
+D1
+You see a long corridor.
+~
+~
+0 -1 15009
+D2
+You see a large room.
+~
+~
+0 -1 15012
+D3
+You see a corridor.
+~
+door~
+2 15000 15005
+Z3
+C-1
+S
+#15009
+Long Corridor~
+  You are in a long corridor which has large thick metal walls which glow
+with a bright white aura. You also hear the sound of automatated voices
+coming from the rooms ahead.
+~
+150 0 1
+D1
+You see a large room.
+~
+~
+0 -1 15010
+D3
+You see a security checkpoint.
+~
+~
+0 -1 15008
+Z3
+C-1
+S
+#15010
+Android Control Station~
+  You are inside a large room which has many walls filled with electronic
+equipments which print out strange readings on the monitors here. There is
+one master compputer which is tied in to the whole network of cables here.
+~
+150 0 1
+D0
+You see a secure vault.
+~
+door~
+2 15001 15011
+D3
+You see a long corridor.
+~
+~
+0 -1 15009
+Z3
+C-1
+S
+#15011
+Secure Vault~
+  You are inside a chamber which is padded with titanium walls which are
+several feet thick. There are several old relics here which have since been
+banned by the new rules and regulations of new Technopolis.
+~
+150 0 1
+D2
+You see a computer station.
+~
+door~
+2 15001 15010
+Z3
+C-1
+S
+#15012
+Reinforcement Station~
+  You are inside a large crystal chamber which is filled with many androids
+which seem disabled, maybe to be activated upon a security breech. There
+are a few monitors upon the wall, from which wondering androids can watch
+the observation dome.
+~
+150 0 1
+D0
+You see a security checkpoint.
+~
+~
+0 -1 15008
+Z3
+C-1
+S
+#15013
+Manned Outpost~
+  You are inside a large corridor which is made up of thick metal walls.
+Upon the walls there are large colorful tapestries which reflect the honor
+and valor of old Technopolis. There are also marble statues of the rulers of
+Technopolis which line the corridor.
+~
+150 0 1
+D0
+You see an office.
+~
+~
+0 -1 15014
+D1
+You see a corridor.
+~
+~
+0 -1 15006
+Z3
+C-1
+S
+#15014
+Large Office~
+  You are in a large office which is decorated in old gothic style. There is
+and old style window which allows the keeper of the city to look out upon
+the city itself. There is an old oaken desk and chairs here, with old red
+carpet which covers the floor. Upon the desk lies a computer.
+~
+150 0 1
+D2
+You see a corridor.
+~
+~
+0 -1 15013
+Z3
+C-1
+S
+#15015
+Skywalk~
+  You are inside a large circular shaped tunnel which extends throughout the
+city. The tunnel is made up of clear crystal which is stretched across the
+ceiling, and is supported by white marble.
+~
+150 0 1
+D0
+You see the entrance to the observtory.
+~
+~
+0 -1 15007
+D3
+The skywalk continues.
+~
+~
+0 -1 15016
+Z3
+C-1
+S
+#15016
+Skywalk~
+  You are inside a large circular shaped tunnel which extends throughout the
+city. The tunnel is made up of clear crystal which is stretched across the
+ceiling, and is supported by white marble.
+~
+150 0 1
+D1
+The skywalk continues.
+~
+~
+0 -1 15015
+D2
+You see the base of a tall structure.
+~
+~
+0 -1 15017
+D3
+The skywalk continues.
+~
+~
+0 -1 15028
+Z3
+C-1
+S
+#15017
+Base of A Building~
+  You stand underneath a huge circular building which is constructed from a
+shimmering white marble which pulses a brillant soft white. From here you
+can also see the vasy network of skywalks which connect thge buildings.
+~
+150 0 1
+D0
+You see a skywalk.
+~
+~
+0 -1 15016
+D4
+You see the second level of the building.
+~
+~
+0 -1 15018
+Z3
+C-1
+S
+#15018
+Deck A Corridor~
+  You are on the second level of the large dome shaped building. The
+walls are all made from clear crystal, and there is fine white marble which
+lines the crystal. As you examine the crystal you see the shimmering city
+and the vast wasteland which extends beyond it.
+~
+150 0 1
+D1
+You see a long corridor.
+~
+~
+0 -1 15019
+D4
+You see the third level of the building.
+~
+~
+0 -1 15023
+D5
+You see the base of the building.
+~
+~
+0 -1 15017
+Z3
+C-1
+S
+#15019
+Long Corridor~
+  You are in a long corridor which is made up of a thick type metal, which
+glows a brillant white. There are long windows which are cut into the metal
+here which allow you to see the city.
+~
+150 0 1
+D1
+You see a shop.
+~
+~
+0 -1 15022
+D2
+You see a shop.
+~
+~
+0 -1 15020
+D3
+You see a the main corridor.
+~
+~
+0 -1 15018
+Z3
+C-1
+S
+#15020
+Deck B Corridor~
+  You are on the third level of the large dome shaped building. The walls
+are all made from clear crystal, and there is fine white marble which 
+lines the crystal. As you examine the crystal you see the shimmering city
+and the vast wasteland which extends beyond it.
+~
+150 0 1
+D3
+You see a corridor.
+~
+~
+0 -1 15021
+D5
+You see the second level of the building.
+~
+~
+0 -1 15018
+Z3
+C-1
+S
+#15021
+Long Corridor~
+  You are in a long corridor which is made up of a thick type metal, which
+glows a brillant white. There are long windows which are cut into the metal
+here which allow you to see the city.
+~
+150 0 1
+D1
+You see the main corridor of the third level.
+~
+~
+0 -1 15020
+D2
+You see a large room.
+~
+door~
+2 15002 15027
+D3
+The corridor continues.
+~
+~
+0 -1 15025
+Z3
+C-1
+S
+#15022
+Long Corridor~
+  You are in a long corridor which is made up of a thick type metal, which
+glows a brillant white. There are long windows which are cut into the metal
+here which allow you to see the city.
+~
+150 0 1
+D0
+You see a store.
+~
+~
+0 -1 15024
+D3
+The corridor continues.
+~
+~
+0 -1 15019
+Z3
+C-1
+S
+#15023
+Weapons Vendor~
+  You are inside a large room, which has large cut windows along the walls.
+There is a large crystal counter and wall, which has a small rectangle cut
+into the side from which the vendor can transact with the customer.
+~
+150 0 1
+D0
+You see a long corridor.
+~
+~
+0 -1 15019
+Z3
+C-1
+S
+#15024
+Map Vendor~
+  You are inside a large room, which has large cut windows along the walls.
+There is a large crystal counter and wall, which has a small rectangle cut
+into the side from which the vendor can transact with the customer.
+~
+150 0 1
+D2
+You see a long corridor.
+~
+~
+0 -1 15022
+Z3
+C-1
+S
+#15025
+Long Corridor~
+  You are in a long corridor which is made up of a thick type metal, which
+glows a brillant white. There are long windows which are cut into the metal
+here which allow you to see the city.
+~
+150 0 1
+D0
+You see a store.
+~
+~
+0 -1 15026
+D1
+the corridor continues.
+~
+~
+0 -1 15021
+Z3
+C-1
+S
+#15026
+Food Vendor~
+  You are inside a large room, which has large cut windows along the walls.
+There is a large crystal counter and wall, which has a small rectangle cut
+into the side from which the vendor can transact with the customer.
+~
+150 0 1
+D2
+You see a long corridor.
+~
+~
+0 -1 15025
+Z3
+C-1
+S
+#15027
+Vendor Storage~
+  You are inside a large cool vault, which is used to store various vendors
+items and equipment. The walls all seem to be around four inches thick ,
+and are made from some type of titanium alloy.
+~
+150 0 1
+D0
+You see a long corridor.
+~
+door~
+2 15002 15021
+Z3
+C-1
+S
+#15028
+Skywalk~
+  You are inside a large circular shaped tunnel which extends throughout the
+city. The tunnel is made up of clear crystal which is stretched across the
+ceiling, and is supported by white marble.
+~
+150 0 1
+D1
+The skywalk continues.
+~
+~
+0 -1 15016
+D3
+The skywalk continues.
+~
+~
+0 -1 15029
+Z3
+C-1
+S
+#15029
+Skywalk~
+  You are inside a large circular shaped tunnel which extends throughout the
+city. The tunnel is made up of clear crystal which is stretched across the
+ceiling, and is supported by white marble.
+~
+150 0 1
+D0
+The skywalk continues.
+~
+~
+0 -1 15038
+D1
+The skywalk continues.
+~
+~
+0 -1 15028
+D2
+You see the citys limits.
+~
+~
+0 -1 15055
+D3
+You see the base of a building.
+~
+~
+0 -1 15030
+Z3
+C-1
+S
+#15030
+Base of A Building~
+  You stand underneath a huge circular building which is constructed from a
+shimmering white marble which pulses a brillant soft white. From here you
+can also see the vasy network of skywalks which connect the buildings.
+~
+150 0 1
+D1
+You see a skywalk.
+~
+~
+0 -1 15029
+D4
+You see the second level of the building.
+~
+~
+0 -1 15031
+Z3
+C-1
+S
+#15031
+Deck A Corridor~
+  You are on the second level of the large dome shaped building. The walls
+are all made from clear crystal, and there is fine white marble which lines
+the crystal. As you examine the crystal you see the shimmering city and the
+vast wasteland which extends beyond it.
+~
+150 0 1
+D3
+You see a long corridor.
+~
+~
+0 -1 15035
+D4
+You see the third level of the building.
+~
+~
+0 -1 15032
+D5
+You see the base of the building.
+~
+~
+0 -1 15030
+Z3
+C-1
+S
+#15032
+Deck B Corridor~
+  You are on the third level of the large dome shaped building. The walls
+are all made from clear crystal, and there is fine white marble which lines
+the crystal. As you examine the crystal you see the shimmering city and the
+vast wasteland which extends beyond it.
+~
+150 0 1
+D1
+You see a long corridor.
+~
+~
+0 -1 15033
+D5
+You see the second level of the building.
+~
+~
+0 -1 15031
+Z3
+C-1
+S
+#15033
+Long Corridor~
+  You are in a long corridor which is made up of a thick type metal, which
+glows a brillant white. There are long windows which are cut into the metal
+here which allow you to see the city.
+~
+150 0 1
+D1
+You see a store.
+~
+~
+0 -1 15034
+D3
+You see the main corridor.
+~
+~
+0 -1 15032
+Z3
+C-1
+S
+#15034
+Hardware Vendor~
+  You are inside a large room, which has large cut windows along the walls.
+There is a large crystal counter and wall, which has a small rectangle cut
+into the side from which the vendor can transact with the customer.
+~
+150 0 1
+D3
+You see a long corridor.
+~
+~
+0 -1 15033
+Z3
+C-1
+S
+#15035
+Long Corridor~
+  You are in a long corridor which is made up of a thick type metal, which
+glows a brillant white. There are long windows which are cut into the metal
+here which allow you to see the city.
+~
+150 0 1
+D1
+You see the main corridor.
+~
+~
+0 -1 15031
+D2
+You see a store.
+~
+~
+0 -1 15037
+D3
+You see a secure vault.
+~
+door~
+2 15003 15036
+Z3
+C-1
+S
+#15036
+Secure Vault~
+  You are inside a large cool vault, which is used to store various vendors
+items and equipment. The walls all seem to be around four inches thick ,
+and are made from some type of titanium alloy.
+~
+150 0 1
+D1
+You see a long corridor.
+~
+door~
+2 15003 15035
+Z3
+C-1
+S
+#15037
+Liquid Vendor~
+  You are inside a large room, which has large cut windows along the walls.
+There is a large crystal counter and wall, which has a small rectangle cut
+into the side from which the vendor can transact with the customer.
+~
+150 0 1
+D0
+You see a long corridor.
+~
+~
+0 -1 15035
+Z3
+C-1
+S
+#15038
+Skywalk~
+  You are inside a large circular shaped tunnel which extends throughout the
+city. The tunnel is made up of clear crystal which is stretched across the
+ceiling, and is supported by white marble.
+~
+150 0 1
+D0
+The skywalk continues.
+~
+~
+0 -1 15039
+D1
+You see the base of the building.
+~
+~
+0 -1 15040
+D2
+The skywalk continues.
+~
+~
+0 -1 15029
+Z3
+C-1
+S
+#15039
+Skywalk~
+  You are inside a large circular shaped tunnel which extends throughout the
+city. The tunnel is made up of clear crystal which is stretched across the
+ceiling, and is supported by white marble.
+~
+150 0 1
+D0
+You see the base of the building.
+~
+~
+0 -1 15045
+D2
+The skywalk continues.
+~
+~
+0 -1 15038
+Z3
+C-1
+S
+#15040
+Base of The Museum~
+  You stand underneath a huge circular building which is constructed from a
+shimmering white marble which pulses a brillant soft white. From here you
+can also see the vasy network of skywalks which connect thge buildings.
+~
+150 0 1
+D3
+You see a skywalk.
+~
+~
+0 -1 15038
+D4
+You see the second level of the building.
+~
+~
+0 -1 15041
+Z3
+C-1
+S
+#15041
+Long Corridor~
+  You are in a long corridor which is made up of a thick type metal, which
+glows a brillant white. There are long windows which are cut into the metal
+here which allow you to see the city.
+~
+150 0 1
+D0
+You see the base of the museum.
+~
+~
+0 -1 15040
+D1
+The corridor continues.
+~
+~
+0 -1 15042
+Z3
+C-1
+S
+#15042
+Long Corridor~
+  You are in a long corridor which is made up of a thick type metal, which
+glows a brillant white. There are long windows which are cut into the metal
+here which allow you to see the city.
+~
+150 0 1
+D1
+The corridor continues.
+~
+~
+0 -1 15043
+D2
+The corridor continues.
+~
+~
+0 -1 15044
+D3
+The corridor continues.
+~
+~
+0 -1 15041
+Z3
+C-1
+S
+#15043
+Long Corridor by Exibit A~
+  You are in a long corridor inside the museum which is made from thick
+crystal walls. There is large rooms carved from the walls, which hold
+various exibits and preserved creatures from the past.
+~
+150 0 1
+D0
+You see a large lamia exibit.
+~
+~
+0 -1 15052
+D1
+The corridor continues.
+~
+~
+0 -1 15045
+D4
+The corridor continues.
+~
+~
+0 -1 15042
+Z3
+C-1
+S
+#15044
+Long Corridor By Exibit D~
+  You are in a long corridor inside the museum which is made from thick
+crystal walls. There is large rooms carved from the walls, which hold
+various exibits and preserved creatures from the past.
+~
+150 0 1
+D0
+The corridor continues.
+~
+~
+0 -1 15044
+D1
+You see a large Orc & kobold exibit.
+~
+~
+0 -1 15049
+D2
+The corridor continues.
+~
+~
+0 -1 15047
+Z3
+C-1
+S
+#15045
+Long Corridor~
+  You are in a long corridor which is made up of a thick type metal, which
+glows a brillant white. There are long windows which are cut into the metal
+here which allow you to see the city.
+~
+150 0 1
+D0
+The corridor continues.
+~
+~
+0 -1 15046
+D3
+The corridor continues.
+~
+~
+0 -1 15043
+Z3
+C-1
+S
+#15046
+Long Corridor by Exibits B & C~
+  You are in a long corridor inside the museum which is made from thick
+crystal walls. There is large rooms carved from the walls, which hold
+various exibits and preserved creatures from the past.
+~
+150 0 1
+D0
+You see a Drow culture exibit.
+~
+~
+0 -1 15051
+D1
+You see a spider kingdom exibit.
+~
+~
+0 -1 15050
+D2
+The corridor continues.
+~
+~
+0 -1 15045
+Z3
+C-1
+S
+#15047
+Long Corridor by Exibits E & F~
+  You are in a long corridor inside the museum which is made from thick
+crystal walls. There is large rooms carved from the walls, which hold
+various exibits and preserved creatures from the past.
+~
+150 0 1
+D0
+The corridor continues.
+~
+~
+0 -1 15044
+D2
+You see an old history exibit.
+~
+~
+0 -1 15053
+D3
+You see an old gravyard exibit.
+~
+~
+0 -1 15048
+Z3
+C-1
+S
+#15048
+Adventurers Monument~
+  You are before a large marble monument which is engraved with many names
+of past adventures who were listed in the great books of viennna as being
+beyond human in thier journeys.
+
+ The monument reads:
+
+  Mallin - Instrumental in the creation and recreation in old Technopolis
+  Cyron  - Instrumental in the creation and rebuilding in old Technopolis
+  Clay   - One who was beyond bravery and helped other adventures.
+  Randy  - Constructor of the new Technopolis realms(Ahem =- ) )
+~
+150 0 1
+D1
+You see a long corridor.
+~
+~
+0 -1 15047
+Z3
+C-1
+S
+#15049
+Orc & Kobold Exibit~
+  You stand in a reconstructed cave which is lit by midevil type torches
+that hang about the cave walls here. There are many skeletal remains from
+museum viewers who accidently walked into the exibit such as yourself.
+~
+150 0 1
+D3
+You see a long corridor.
+~
+~
+0 -1 15044
+Z3
+C-1
+S
+#15050
+Spider Kingdom Exibit~
+  You are in a large room which is heavily webbed over, making it impossible
+to see any type of room boundries. There are skeletal remains which are
+wraped firmly in webs here, and many red eyes peer from beyond webs at you.
+~
+150 0 1
+D3
+You see a long corridor.
+~
+~
+0 -1 15046
+Z3
+C-1
+S
+#15051
+Drow Exibit~
+  You are inside a large exibit which has many building structures inside
+it. The buildings are all finely carved and ingraved with wierd and erie
+rune languages exscribed upon them.
+~
+150 0 1
+D1
+You hear screaming coming from the building to the east.
+~
+~
+0 -1 15055
+D2
+You see a long corridor.
+~
+~
+0 -1 15046
+Z3
+C-1
+S
+#15052
+Lamia Exibit~
+ You are inside a large lamia exibit, which has large ruined buildings and
+housing structures. although many of the buildings are ruined with no means
+of gaining entrance, you still find this an impressive exibit.
+~
+150 0 1
+D2
+You see a long corridor.
+~
+~
+0 -1 15043
+Z3
+C-1
+S
+#15053
+Old Technopolis Exibit~
+  You are inside a large crytal room which has several old recreations of
+old Technopolis inhabitants, as well as thier artifacts and weapons. This exibit
+is obviously for those who dream of returning to the past.
+~
+150 0 1
+D0
+You see a long corridor.
+~
+~
+0 -1 15047
+Z3
+C-1
+S
+#15054
+Drow Building~
+  You are inside a finely reconstructed oaken house which is rescostructed
+from oak. There are large iron stratch racks and other punishment devices
+here, that the drow citizens used to torture and extract information with.
+~
+150 0 1
+D3
+You see the drow exibit.
+~
+~
+0 -1 15051
+Z3
+C-1
+S
+#15055
+Android Post~
+  You are in a large skywalk, which has a large rectanglular room at the
+end, which has a large thick titanium wall which is opened and closed when
+visitors enter and leave the city.
+~
+150 0 1
+D0
+You see the skywalk.
+~
+~
+0 -1 15029
+D2
+You see barren wasteland.
+~
+~
+0 -1 15056
+Z3
+C-1
+S
+#15056
+Barren Wasteland~
+  You are deep inside a barren wasteland, which is made up of miles and
+miles of dark grey sand. There is an erie red mist which floats above the
+sand adding mysterious shadows.
+~
+150 0 1
+D0
+You see an android station.
+~
+~
+0 -1 15055
+D2
+The barren wasteland continues.
+~
+~
+0 -1 15057
+Z3
+C-1
+S
+#15057
+Barren Wasteland~
+  You are deep inside a barren wasteland, which is made up of miles and
+miles of dark grey sand. There is an erie red mist which floats above the
+sand adding mysterious shadows.
+~
+150 0 1
+D0
+The wasteland continues.
+~
+~
+0 -1 15056
+D2
+The Wasteland continues.
+~
+~
+0 -1 15058
+Z3
+C-1
+S
+#15058
+Barren Wasteland~
+  You are deep inside a barren wasteland, which is made up of miles and
+miles of dark grey sand. There is an erie red mist which floats above the
+sand adding mysterious shadows.
+~
+150 0 1
+D0
+The wasteland continues.
+~
+~
+0 -1 15057
+D1
+You see a large secure metal gate.
+~
+gate~
+2 15004 15059
+D2
+The wasteland continues.
+~
+~
+0 -1 15057
+Z3
+C-1
+S
+#15059
+Metallic Gate~
+  You stand beside a large metallic gate which looks as though it was made
+from scrap metals. Looking thru the open gate you see buildings and
+structures all made from scrap metals and junked cars.
+~
+150 0 1
+D2
+You see the noomad camp.
+~
+~
+0 -1 15060
+D3
+You see barren desert.
+~
+gate~
+2 15004 15058
+Z3
+C-1
+S
+#15060
+Noomad Camp~
+  You are inside a large walled city, which is filled with buildings and
+other structures which have been made from scraped metals and other junk
+material. Despite the materials used to build the camp, it is quite sturdy.
+~
+150 0 1
+D0
+You see a large gate.
+~
+~
+0 -1 15059
+D2
+You see a large well.
+~
+~
+0 -1 15061
+Z3
+C-1
+S
+#15061
+Large Well~
+  You are beside a large well which looks as thought it is well over 20 feet
+down. The well is full of clear blue water and looks quite refreshing.
+There is a 2 foot buildup of the well which extends above the ground, and
+has a large rope and barrel attched to it.
+~
+150 0 1
+D0
+You see more of the noomad camp.
+~
+~
+0 -1 15059
+D1
+You see more of the noomad camp.
+~
+~
+0 -1 15062
+D2
+You see more of the noomad camp.
+~
+~
+0 -1 15063
+Z3
+C-1
+S
+#15062
+Noomad Camp~
+  You are inside a large walled city, which is filled with buildings and
+other structures which have been made from scraped metals and other junk
+material. Despite the materials used to build the camp, it is quite sturdy.
+~
+150 0 1
+D2
+You see more of the noomad camp.
+~
+~
+0 -1 15067
+D3
+You see a large well.
+~
+~
+0 -1 15061
+Z3
+C-1
+S
+#15063
+Noomad Camp~
+  You are inside a large walled city, which is filled with buildings and
+other structures which have been made from scraped metals and other junk
+material. Despite the materials used to build the camp, it is quite sturdy.
+~
+150 0 1
+D0
+You see a large well.
+~
+~
+0 -1 15061
+D3
+You see more of the noomad camp.
+~
+~
+0 -1 15064
+Z3
+C-1
+S
+#15064
+Noomad Camp~
+  You are inside a large walled city, which is filled with buildings and
+other structures which have been made from scraped metals and other junk
+material. Despite the materials used to build the camp, it is quite sturdy.
+~
+150 0 1
+D1
+You see more of the noomad camp.
+~
+~
+0 -1 15063
+D2
+You see more of the noomad camp.
+~
+~
+0 -1 15065
+Z3
+C-1
+S
+#15065
+Noomad Camp~
+  You are inside a large walled city, which is filled with buildings and
+other structures which have been made from scraped metals and other junk
+material. Despite the materials used to build the camp, it is quite sturdy.
+~
+150 0 1
+D0
+You see more of the camp.
+~
+~
+0 -1 15064
+D1
+You see a strange building made of junk.
+~
+~
+0 -1 15074
+D2
+You see more of the camp.
+~
+~
+0 -1 15066
+Z3
+C-1
+S
+#15066
+Noomad Camp~
+  You are inside a large walled city, which is filled with buildings and
+other structures which have been made from scraped metals and other junk
+material. Despite the materials used to build the camp, it is quite sturdy.
+~
+150 0 1
+D0
+You see more of the camp.
+~
+~
+0 -1 15065
+D2
+You see more of the camp.
+~
+~
+0 -1 15071
+D3
+You see a strange building made of junk.
+~
+~
+0 -1 15073
+Z3
+C-1
+S
+#15067
+Noomad Camp~
+  You are inside a large walled city, which is filled with buildings and
+other structures which have been made from scraped metals and other junk
+material. Despite the materials used to build the camp, it is quite sturdy.
+~
+150 0 1
+D0
+You see more of the camp.
+~
+~
+0 -1 15062
+D2
+You see more of the camp.
+~
+~
+0 -1 15068
+Z3
+C-1
+S
+#15068
+Noomad Camp~
+  You are inside a large walled city, which is filled with buildings and
+other structures which have been made from scraped metals and other junk
+material. Despite the materials used to build the camp, it is quite sturdy.
+~
+150 0 1
+D0
+You see more of the camp.
+~
+~
+0 -1 15067
+D1
+You see more of the camp.
+~
+~
+0 -1 15069
+Z3
+C-1
+S
+#15069
+Noomad Camp~
+  You are inside a large walled city, which is filled with buildings and
+other structures which have been made from scraped metals and other junk
+material. Despite the materials used to build the camp, it is quite sturdy.
+~
+150 0 1
+D0
+You see a strange building made of junk, but well guarded.
+~
+~
+2 15005 15080
+D2
+You see more of the camp.
+~
+~
+0 -1 15070
+D3
+You see more of the camp.
+~
+~
+0 -1 15068
+Z3
+C-1
+S
+#15070
+Noomad Camp~
+  You are inside a large walled city, which is filled with buildings and
+other structures which have been made from scraped metals and other junk
+material. Despite the materials used to build the camp, it is quite sturdy.
+~
+150 0 1
+D0
+You see more of the camp.
+~
+~
+0 -1 15069
+D1
+You see a building made of junk.
+~
+~
+0 -1 15079
+D2
+You see more of the camp.
+~
+~
+0 -1 15076
+D3
+You see another building made of junk.
+~
+~
+0 -1 15081
+Z3
+C-1
+S
+#15071
+Noomad Camp~
+  You are inside a large walled city, which is filled with buildings and
+other structures which have been made from scraped metals and other junk
+material. Despite the materials used to build the camp, it is quite sturdy.
+~
+150 0 1
+D0
+You see more of the camp.
+~
+~
+0 -1 15066
+D1
+You see more of the camp.
+~
+~
+0 -1 15072
+Z3
+C-1
+S
+#15072
+Noomad Camp~
+  You are inside a large walled city, which is filled with buildings and
+other structures which have been made from scraped metals and other junk
+material. Despite the materials used to build the camp, it is quite sturdy.
+~
+150 0 1
+D0
+You see a strange building made of junk.
+~
+~
+0 -1 15077
+D1
+You see more of the camp.
+~
+~
+0 -1 15075
+D3
+You see more of the camp.
+~
+~
+0 -1 15071
+Z3
+C-1
+S
+#15073
+Meeting Hall~
+  You are inside a large building which has been made entirely from junk.
+The walls and ceilings are all solid metal which has been rivited and
+welded together. The floors are nothing more then a thin layer of dirt.
+~
+150 0 1
+D1
+You see a street.
+~
+~
+0 -1 15066
+Z3
+C-1
+S
+#15074
+Chapel~
+  You are inside a large building which has been made entirely from junk.
+The walls and ceilings are all solid metal which has been rivited and
+welded together. The floors are nothing more then a thin layer of dirt.
+~
+150 0 1
+D3
+You see a street.
+~
+~
+0 -1 15065
+Z3
+C-1
+S
+#15075
+Noomad Camp~
+  You are inside a large walled city, which is filled with buildings and
+other structures which have been made from scraped metals and other junk
+material. Despite the materials used to build the camp, it is quite sturdy.
+~
+150 0 1
+D1
+You see more of the camp.
+~
+~
+0 -1 15076
+D2
+You see a strange building.
+~
+~
+0 -1 15078
+D3
+You see more of the camp.
+~
+~
+0 -1 15072
+Z3
+C-1
+S
+#15076
+Noomad Camp~
+  You are inside a large walled city, which is filled with buildings and
+other structures which have been made from scraped metals and other junk
+material. Despite the materials used to build the camp, it is quite sturdy.
+~
+150 0 1
+D0
+You see more of the camp.
+~
+~
+0 -1 15070
+D3
+You see more of the camp.
+~
+~
+0 -1 15075
+Z3
+C-1
+S
+#15077
+Guard Post~
+  You are inside a large building which has been made entirely from junk.
+The walls and ceilings are all solid metal which has been rivited and
+welded together. The floors are nothing more then a thin layer of dirt.
+~
+150 0 1
+D2
+You see a street.
+~
+~
+0 -1 15072
+Z3
+C-1
+S
+#15078
+House~
+  You are inside a large building which has been made entirely from junk.
+The walls and ceilings are all solid metal which has been rivited and
+welded together. The floors are nothing more then a thin layer of dirt.
+~
+150 0 1
+D0
+You see a street.
+~
+~
+0 -1 15075
+Z3
+C-1
+S
+#15079
+Leaders Office~
+  You are inside a large building which has been made entirely from junk.
+The walls and ceilings are all solid metal which has been rivited and
+welded together. The floors are nothing more then a thin layer of dirt.
+~
+150 0 1
+D3
+You see a street.
+~
+~
+0 -1 15070
+Z3
+C-1
+S
+#15080
+Leaders House~
+  You are inside a large building which has been made entirely from junk.
+The walls and ceilings are all solid metal which has been rivited and
+welded together. The floors are nothing more then a thin layer of dirt.
+~
+150 0 1
+D2
+You see a street.
+~
+~
+2 15005 15080
+Z3
+C-1
+S
+#15081
+House~
+  You are inside a large building which has been made entirely from junk.
+The walls and ceilings are all solid metal which has been rivited and
+welded together. The floors are nothing more then a thin layer of dirt.
+~
+150 0 1
+D1
+You see a street.
+~
+~
+0 -1 15081
+Z3
+C-1
+S
+#15082
+Hell Exibit~
+You are standing in nowhere !!!!
+~
+150 262144 1
+Z3
+C-1
+S
+#15083
+Catacomb Exibit~
+You are standing in nowhere !!!!
+~
+150 262144 1
+Z3
+C-1
+S
+#15084
+Jurassic Exibit~
+You are standing in nowhere !!!!
+~
+150 0 1
+Z3
+C-1
+S
+#15085
+Dwarven Exibit~
+You are standing in nowhere !!!!
+~
+150 262144 1
+Z3
+C-1
+S
+#15086
+Moria Exibit~
+You are standing in nowhere !!!!
+~
+150 262144 1
+Z3
+C-1
+S
+#15087
+Gotham City Exibit~
+You are standing in nowhere !!!!
+~
+150 262144 1
+Z3
+C-1
+S
+#15088
+Avatar Graveyard Exibit~
+You are standing in nowhere !!!!
+~
+150 262144 1
+Z3
+C-1
+S
+#15089
+Klingon Exibit~
+You are standing in nowhere !!!!
+~
+150 262144 1
+Z3
+C-1
+S
+#15090
+Aucan Exibit~
+You are standing in nowhere !!!!
+~
+150 262144 1
+Z3
+C-1
+S
+#15091
+Tapestry Exibit~
+You are standing in nowhere !!!!
+~
+150 262144 1
+Z3
+C-1
+S
+#15092
+Elemental Canyon Exibit~
+You are standing in nowhere !!!!
+~
+150 262144 1
+Z3
+C-1
+S
+#15093
+The Donation Chamber~
+  You are standing in the middle of a strange looking room.  There are objects
+and equipments spread all over the room in a very disorganized fashion.  There
+are rare and precious equipments and also obsolete and broken objects.  This
+must be the Mongol Horde's donation chamber...
+~
+150 65544 0
+Z3
+C-1
+S
+$~

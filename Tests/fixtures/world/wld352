@@ -1,0 +1,2837 @@
+#35200
+{G}A narrow forest trail{g}~
+{G}
+  This narrow forest trail leads slightly down-
+  hill into a wide ravine.  A thick canopy shades
+  the entire forest floor, keeping the air moist
+  and the temperature down.  The path continues
+  south further down the ravine.
+{g}
+~
+352 0 3
+D0
+~
+~
+0 -1 6107
+D2
+~
+~
+0 -1 35201
+Z6
+C-1
+R0
+S
+#35201
+{G}A narrow forest trail{g}~
+{G}
+  The trees here are truly massive, growing to
+  dizzying heights.  A thick canopy, over head
+  shades the creatures of the forest from the
+  harsh light of the sun.  The narrow path
+  continues south down a very wide ravine.
+{g}
+~
+352 0 3
+D0
+~
+~
+0 -1 35200
+D2
+~
+~
+0 -1 35202
+Z6
+C-1
+R0
+S
+#35202
+{G}A narrow forest trail{g}~
+{G}
+  The forest trail bends slightly to the east
+  here, following the course of the ravine.  A
+  canopy grows thick over head, shading the
+  creatures of the forest from the harsh light
+  of the sun.
+{g}
+~
+352 0 3
+D0
+~
+~
+0 -1 35201
+D1
+~
+~
+0 -1 35203
+Z6
+C-1
+R0
+S
+#35203
+{G}A narrow forest trail{g}~
+{G}
+  This narrow forest trail continues east,
+  following the contours of the ravine as
+  it gradually slopes downhill.  A smaller,
+  less traveled path branches off to the
+  south from here, leading to a hill over-
+  looking much of the ravine.
+{g}
+~
+352 0 3
+D1
+~
+~
+0 -1 35208
+D2
+~
+~
+0 -1 35204
+D3
+~
+~
+0 -1 35202
+Z5
+C-1
+R0
+S
+#35204
+{G}Below the cottage{g}~
+{G}
+  This small path leads up a hill and above
+  the ravine.  The top of a small tower atop
+  this hill is just barely visible from here.
+{g}
+~
+352 0 3
+D0
+~
+~
+0 -1 35203
+D4
+~
+~
+0 -1 35205
+Z5
+C-1
+R0
+S
+#35205
+{Y}A small hill overlooking the {y}{G}forest{g}~
+{G,BO}
+  This grassy hilltop overlooks miles of {g,bo}{G}lush
+  forest{g}{G,BO}.  Directly below the hilltop, the ravine
+  which the path follows curves around the contours
+  of this hilltop and continues south.  A small,
+  two-story circular building lies directly south.
+{g,bo}
+~
+352 0 4
+D2
+~
+door front~
+1 -1 35206
+D5
+~
+~
+0 -1 35204
+Z3
+C-1
+R0
+S
+#35206
+{C}An Elven cottage{c}~
+{W,BO}
+  The inside of this circular stone cottage is one
+  large common room, which takes up the entire first
+  floor.  The cottage appears to be a masterfully
+  interwoven combination of {BLA,BO}stone{W,BO}, {w,bo}{Y}earth{y}{W,BO}, and {w,bo}{Y}wood{y}{W,BO}.
+  Beautiful paintings of {w,bo}{G}forest life{g}{W,BO} decorate the walls
+  of the room, while painting supplies cover a
+  smooth oak desk sitting beside the window.  Stone
+  steps at one end of the room lead up to the second
+  floor, and down to the basement.
+{w,bo}
+~
+352 12 0
+D0
+~
+door front~
+1 -1 35205
+D4
+~
+~
+0 -1 35262
+D5
+{Y}
+  An old wooden hatch leads down to the cellar of the cottage.
+{y}
+~
+cellar winecellar door~
+1 -1 35207
+Z-1
+C-1
+R0
+S
+#35207
+{C}The {c}{M}wine{m}{C} cellar{c}~
+{M}
+  This snug little cellar is filled to the brim with
+  bottles of the finest elven wine.  Each bottle is
+  colored a different shade of {m}{G}green{g}{M}, {m}{R}red{r}{M}, {M,BO}purple{m,bo}{M},
+  {m}{BLU,BO}blue{blu,bo}{M}, and marked at the cork in elven.  The only
+  exit appears to be up the stairs back in to the
+  cottage.
+{m}
+~
+352 8 0
+D4
+~
+cellar winecellar door~
+1 -1 35206
+Z7
+C2
+R0
+S
+#35208
+{G}A narrow forest trail{g}~
+{G}
+  As the trail continues eastward along the
+  contours of the ravine, it gradually slopes
+  downhill deep into this forested valley.
+  The air is buzzing with the sounds of life,
+  insects and critters swarm all around here.
+{g}
+~
+352 0 3
+D1
+~
+~
+0 -1 35209
+D3
+~
+~
+0 -1 35203
+Z5
+C-1
+R0
+S
+#35209
+{G}A narrow forest trail{g}~
+{G}
+  The ravine this trail has been following
+  levels out with the rest of the forest here,
+  leaving the trail to separate to the east
+  and to the south.  The east trail leads
+  deeper into the forest, with many ancient
+  trees darkening the forest floor.  The trail
+  leading south appears to be more frequently
+  traveled, and looks much more inviting.
+{g}
+~
+352 0 3
+D1
+~
+~
+0 -1 35210
+D2
+~
+~
+0 -1 35263
+D3
+~
+~
+0 -1 35208
+Z5
+C-1
+R0
+S
+#35210
+{G}A {g}{B,BO}dark{b,bo}{G} narrow forest trail{g}~
+{G}
+  Deeper and deeper into the forest, the trees
+  towering over head grow much closer together,
+  shading the forest floor almost completely from
+  the sunlight shining over the canopy.  Wildlife
+  crawls everywhere here, taking advantage of the
+  protection this dense forest provides.
+{g}
+~
+352 0 3
+D1
+~
+~
+0 -1 35211
+D3
+~
+~
+0 -1 35209
+Z7
+C-1
+R0
+S
+#35211
+{G}A {g}{B,BO}dark{b,bo}{G} narrow forest trail{g}~
+{G}
+  Deeper and deeper into the forest, the trees
+  towering over head grow much closer together,
+  shading the forest floor almost completely from
+  the sunlight shining over the canopy.  Wildlife
+  crawls everywhere here, taking advantage of the
+  protection this dense forest provides.
+{g}
+~
+352 0 3
+D1
+~
+~
+0 -1 35212
+D3
+~
+~
+0 -1 35210
+Z7
+C-1
+R0
+S
+#35212
+{G}A {g}{B,BO}dark{b,bo}{G} narrow forest trail{g}~
+{G}
+  As the dark narrow trail continues deeper into{g}{B,BO}
+  the forest, it bends around hills which help{b,bo}{G}
+  shelter and shade the valley from the outside{g}{B,BO}
+  world.  A trail leading up the hill and above{b,bo}{G}
+  the canopy forks off from the main path.
+{g}
+~
+352 0 3
+D2
+~
+~
+0 -1 35213
+D3
+~
+~
+0 -1 35211
+D4
+~
+~
+0 -1 35220
+Z7
+C-1
+R0
+S
+#35213
+{G}A {g}{B,BO}dark{b,bo}{G} narrow forest trail{g}~
+{G}
+  Continuing south, the smell of burning flesh fills{BLA,BO}
+  the air.  The faint glimpse of {bla,bo}{R}fir{Y}elig{R}ht {BLA,BO}can be{bla,bo}{G}
+  seen through the trees, while something can be{BLA,BO}
+  heard muttering in some guttural language.  Perhaps{bla,bo}{G}
+  it may be for the best to turn around now if you{BLA,BO}
+  are not prepared for vicious combat.
+{bla,bo}
+~
+352 4 3
+D0
+~
+~
+0 -1 35212
+D2
+~
+~
+0 -1 35214
+Z7
+C-1
+R0
+S
+#35214
+{G,BO}Goblin {g,bo}{G}Camp{g}~
+{B,BO}
+  This muddy and disgusting campsite is surrounded by
+  makeshift tents covered in filthy hides.  One of the
+  larger tents lies directly to the west, while the
+  rest of the camp lies south.
+{b,bo}
+~
+352 0 2
+D0
+~
+~
+0 -1 35213
+D2
+~
+~
+0 -1 35215
+D3
+~
+~
+0 -1 35219
+Z5
+C-1
+R0
+S
+#35215
+{G,BO}Goblin {g,bo}{G}Camp{g}~
+{B,BO}
+  Surrounded by smelly, ugly tents covered by
+  hundreds of hides stitched together, the camp-
+  site can best be described as filthy.  A bon-
+  fire smoulders in the center of camp, while
+  the rest of site is covered in trash and the
+  remains of looted provisions.  The biggest
+  tents lie to the east and west, while the most
+  well-made tent is to the south.
+{b,bo}
+~
+352 0 2
+D0
+~
+~
+0 -1 35214
+D1
+~
+~
+0 -1 35217
+D2
+~
+~
+0 -1 35216
+D3
+~
+~
+0 -1 35218
+Z5
+C-1
+R0
+S
+#35216
+{RED}The {MAG}Exalted Ugu's {RED}tent{red}~
+{R}
+  This tent houses the Goblin Camp's all-powerful Shaman,
+  called "{M}The Exalted Ugu{R}".  He tinkers constantly here,
+  using various herbs, spices, fluids and other unmention-
+  able ingredients to create potions and creams that bring
+  out the beast in the Goblin Camp.  Potions and other
+  mixtures can be found everywhere in this small tent,
+  their effects mysterious at best.  His eyes gleam with a
+  uncanny intelligence that has kept him alive to see old
+  age.
+{r}
+~
+352 12 0
+D0
+~
+~
+0 -1 35215
+Z5
+C-1
+R0
+S
+#35217
+{R,BO}Goblin Warmonger's{r,bo}{R} tent{r}~
+{R,BO}
+  This inside of this tent is far more organized
+  than many might expect for a goblin.  Crude
+  maps drawn on dried skin cover a huge tree-
+  stump that serves as a table, showing secret
+  routes goblins take through the forest to
+  ambush adventurers.  Large stacks of stolen
+  goods fills one corner of the tent, while the
+  other side is occupied by one particularly
+  powerful goblin's personal things.
+{r,bo}
+~
+352 24 0
+D3
+~
+~
+0 -1 35215
+Z5
+C-1
+R0
+S
+#35218
+{G,BO}Goblin {g,bo}{B,BO}Barracks{b,bo}~
+{Y}
+  This large, ugly tent is covered with filthy smelly
+  animal hides.  Inside, row upon row of small bunk-
+  beds line both sides of the tent.  The combination
+  of trash, waste, and rancid meat that covers every-
+  thing in here makes even the most streetwise human
+  sick to the stomach.
+{y}
+~
+352 8 0
+D0
+~
+~
+0 -1 35219
+D1
+~
+~
+0 -1 35215
+Z5
+C-1
+R0
+S
+#35219
+{G,BO}Goblin {g,bo}{B,BO}Barracks{b,bo}~
+{Y}
+  This large, ugly tent is covered with filthy smelly
+  animal hides.  Inside, row upon row of small bunk-
+  beds line both sides of the tent.  The combination
+  of trash, waste, and rancid meat that covers every-
+  thing in here makes even the most streetwise human
+  sick to the stomach.
+{y}
+~
+352 8 0
+D1
+~
+~
+0 -1 35214
+D2
+~
+~
+0 -1 35218
+Z5
+C-1
+R0
+S
+#35220
+{B,BO}The rock face{b,bo}~
+{B,BO}
+  The Trail along the rock face is narrow and
+  cold.  Looking back over the valley, the
+  numerous treetops that make up the canopy of
+  the forest still obscure a full view of the
+  area.  The path continues up the hill to the
+  north.
+{b,bo}
+~
+352 164 5
+D0
+~
+~
+0 -1 35221
+D5
+~
+~
+0 -1 35212
+Z5
+C-1
+R0
+S
+#35221
+{B,BO}The rock face{b,bo}~
+{BLA,BO}
+  This narrow path leading up the rock face is both
+  cold and dangerous.  Shark, jagged rocks every-
+  where, making any misstep possible fatal.  The
+  only way to continue from here is to ascend a
+  shear rock face, clearly climbed before.  The
+  rocks are sharp and trecherous, be careful!
+{bla,bo}
+~
+352 160 5
+D2
+~
+~
+0 -1 35220
+D4
+~
+~
+0 -1 35222
+Z5
+C-1
+R0
+S
+#35222
+{B,BO}The rock face{b,bo}~
+{BLA,BO}
+  The well traveled climbing path is leading up the
+  rock face to the top of the hill.  Nearly all the
+  handholds diverging off the main climbing path
+  are loose and unusable.  The ground below appears
+  both jagged and deadly!
+{bla,bo}
+~
+352 420 5
+D4
+~
+~
+0 -1 35223
+D5
+~
+~
+0 -1 35221
+T35221
+Z4
+C-1
+R0
+S
+#35223
+{Y}The hill overlooking the {y}{G}t{g}{Y}h{y}{B,BO}i{b,bo}{G}c{g}{Y}k{y}{B,BO}e{b,bo}{G}t{g}{Y}s{y}~
+{Y}
+  Up on top of this rocky hill, the summit reveals
+  an impressive view over some unimpressive terrain.
+  Mile after mile of a valley stetches before you,
+  large brambles cover everything below the hills.
+  Dark and isolated, these thickets would be an ideal
+  place to hide from the outside world.
+{y}
+~
+352 32 4
+D1
+~
+~
+0 -1 35224
+D5
+~
+~
+0 -1 35222
+Z4
+C-1
+R0
+S
+#35224
+{Y}Cliff above the {y}{G}t{g}{Y}h{y}{B,BO}i{b,bo}{G}c{g}{Y}k{y}{B,BO}e{b,bo}{G}t{g}{Y}s{y}~
+{Y}
+  Standing along the edge of the cliff, you can see
+  miles of thickets that fill the valley below.  Dark
+  and isolated, these thickets provide an ideal
+  place for one to hide from the outside world.  A
+  very narrow and difficult path leads down the
+  face of the cliff into the valley below.
+{y}
+~
+352 36 4
+D3
+~
+~
+0 -1 35223
+D5
+~
+~
+0 -1 35225
+Z4
+C-1
+R0
+S
+#35225
+{Y}Unstable Path{y}~
+{Y}
+  As you try and slowly climb down the path,
+  the rocks underneath you give way and you
+  find yourself FALLING!
+{y}
+~
+352 1048577 4
+D0
+~
+~
+0 -1 35233
+D1
+~
+~
+0 -1 35230
+D2
+~
+~
+0 -1 35234
+D3
+~
+~
+0 -1 35226
+D4
+~
+~
+0 -1 35236
+D5
+~
+~
+0 -1 35236
+Z4
+C-1
+R0
+S
+#35226
+{Y}The {y}{G}t{g}{Y}h{y}{B,BO}i{b,bo}{G}c{g}{Y}k{y}{B,BO}e{b,bo}{G}t{g}{Y}s{y}~
+{Y}
+  The bottom of this valley is covered for as far{G}
+  as you can see with sharp, dangerous brambles.{Y}
+  A path of some sort leads north here, it appears{G}
+  safer than the slick mud surrounding you on all{Y}
+  other sides.
+{y}
+~
+352 16416 3
+D0
+{Y}
+  A well-worn trail appears to lead safely to the north.
+{y}
+~
+~
+0 -1 35227
+D1
+{Y}
+  The thicket is thick and dangerous to the east.
+{y}
+~
+~
+0 -1 35234
+D2
+{Y}
+  The thicket to the south appears thick and dangerous.
+{y}
+~
+~
+0 -1 35234
+D3
+{Y}
+  The thicket is thick and dangerous to the west.
+{y}
+~
+~
+0 -1 35234
+Z9
+C-1
+R0
+S
+#35227
+{Y}The {y}{G}t{g}{Y}h{y}{B,BO}i{b,bo}{G}c{g}{Y}k{y}{B,BO}e{b,bo}{G}t{g}{Y}s{y}~
+{Y}
+  The bottom of this valley is covered for as far{G}
+  as you can see with sharp, dangerous brambles.{Y}
+  A path of some sort leads north here, it appears{G}
+  safer than the slick mud surrounding you on all{Y}
+  other sides.
+{y}
+~
+352 16416 3
+D0
+{Y}
+  A well-worn trail leads north through the thicket.
+{y}
+~
+~
+0 -1 35228
+D1
+{Y}
+  The thicket to the east is thick and dangerous.
+{y}
+~
+~
+0 -1 35234
+D2
+{Y}
+  A trail leads south safely through the thicket.
+{y}
+~
+~
+0 -1 35226
+D3
+{Y}
+  The thicket to the west is thick and dangerous.
+{y}
+~
+~
+0 -1 35234
+Z9
+C-1
+R0
+S
+#35228
+{Y}The {y}{G}t{g}{Y}h{y}{B,BO}i{b,bo}{G}c{g}{Y}k{y}{B,BO}e{b,bo}{G}t{g}{Y}s{y}~
+{Y}
+  The bottom of this valley is covered for as far{G}
+  as you can see with sharp, dangerous brambles.{Y}
+  A path of some some sort leads north and south
+  {G}here, it appears safer than the slick mud{Y}
+  surrounding you on all other sides.
+{y}
+~
+352 16416 3
+D0
+{Y}
+  A well-worn trail leads north through the thicket into
+  a clearing.
+{y}
+~
+~
+0 -1 35229
+D1
+{Y}
+  The thicket is thick and dangerous to the east.
+{y}
+~
+~
+0 -1 35234
+D2
+{Y}
+  A well-worn trail leads south through the thicket.
+{y}
+~
+~
+0 -1 35227
+D3
+{Y}
+  A small path divides off the main trail leading west
+  and downhill into the thicket.
+{y}
+~
+~
+0 -1 35233
+Z9
+C-1
+R0
+S
+#35229
+{Y}A small clearing{y}~
+{Y}
+  This small clearing is the only spot visible for
+  miles not entirely covered by thick brambles.
+  Both dry and clear, this spot would make an
+  excellent spot for a camp.  Old muddy paths lead
+  in all directions from the clearing.
+{y}
+~
+352 0 3
+D0
+{Y}
+  The thicket is thick and dangerous to the north.
+{y}
+~
+~
+0 -1 35234
+D1
+{Y}
+  The thicket is thick and dangerous to the east.
+{y}
+~
+~
+0 -1 35234
+D2
+{Y}
+  A well-worn trail leads south through the thicket.
+{y}
+~
+~
+0 -1 35228
+D3
+{Y}
+  A well-worn trail leads west through the thicket.
+{y}
+~
+~
+0 -1 35232
+X2048
+Z5
+C-1
+R0
+S
+#35230
+{Y}The {y}{G}t{g}{Y}h{y}{B,BO}i{b,bo}{G}c{g}{Y}k{y}{B,BO}e{b,bo}{G}t{g}{Y}s{y}~
+{Y}
+  The bottom of this valley is covered for as far
+  {G}as you can see with sharp, dangerous brambles.
+  {Y}A path of some sort leads east here, it appears{G}
+  safer than the slick mud surrounding you on all{Y}
+  other sides.
+{y}
+~
+352 16416 3
+D0
+{Y}
+  The thicket appears thick and dangerous to the north.
+{y}
+~
+~
+0 -1 35234
+D1
+{Y}
+  A trail leads safely through the thicket to the east.
+{y}
+~
+~
+0 -1 35231
+D2
+{Y}
+  The thicket appears thick and dangerous to the south.
+{y}
+~
+~
+0 -1 35234
+D3
+{Y}
+  The thicket appears thick and dangerous to the west.
+{y}
+~
+~
+0 -1 35234
+Z9
+C-1
+R0
+S
+#35231
+{Y}The {y}{G}t{g}{Y}h{y}{B,BO}i{b,bo}{G}c{g}{Y}k{y}{B,BO}e{b,bo}{G}t{g}{Y}s{y}~
+{Y}
+  The bottom of this valley is covered for as far
+  {G}as you can see with sharp, dangerous brambles.
+  {Y}A path of some sort leads east here, it appears{G}
+  safer than the slick mud surrounding you on all{Y}
+  other sides.
+{y}
+~
+352 16416 3
+D0
+{Y}
+  The thicket appears thick and dangerous to the north.
+{y}
+~
+~
+0 -1 35234
+D1
+{Y}
+  A trail leads east through the thicket.
+{y}
+~
+~
+0 -1 35232
+D2
+{Y}
+  The thicket is thick and dangerous to the south.
+{y}
+~
+~
+0 -1 35234
+D3
+{Y}
+  A trail leads safely through the thicket to the west.
+{y}
+~
+~
+0 -1 35230
+Z9
+C-1
+R0
+S
+#35232
+{Y}The {y}{G}t{g}{Y}h{y}{B,BO}i{b,bo}{G}c{g}{Y}k{y}{B,BO}e{b,bo}{G}t{g}{Y}s{y}~
+{Y}
+  The bottom of this valley is covered for as far
+  {G}as you can see with sharp, dangerous brambles.
+  {Y}A path of some sort leads east here, it appears{G}
+  safer than the slick mud surrounding you on all{Y}
+  other sides.
+{y}
+~
+352 16416 3
+D0
+{Y}
+  The thicket is thick and dangerous to the north.
+{y}
+~
+~
+0 -1 35234
+D1
+{Y}
+  A well-worn trail leads east through the thicket.
+{y}
+~
+~
+0 -1 35229
+D2
+{Y}
+  A small path divides off the main trail leading south
+  and downhill into the thicket.
+{y}
+~
+~
+0 -1 35233
+D3
+{Y}
+  A well-worn trail leads west through the thicket.
+{y}
+~
+~
+0 -1 35231
+Z9
+C-1
+R0
+S
+#35233
+{Y}The {y}{G}t{g}{Y}h{y}{B,BO}i{b,bo}{G}c{g}{Y}k{y}{B,BO}e{b,bo}{G}t{g}{Y}s{y}~
+{Y}
+  As you make your way through the brush and{y}{G}
+  bramble, you loose your footing and begin to{g}{Y}
+  tumble downhill.  Thorns and branches tear{y}{G}
+  big holes in your armor, and cut into any{g}{Y}
+  part of your body you left foolishly exposed.{y}
+{g}
+~
+352 1064993 3
+D0
+~
+~
+0 -1 35230
+D1
+~
+~
+0 -1 35226
+D2
+~
+~
+0 -1 35226
+D3
+~
+~
+0 -1 35230
+D4
+~
+~
+0 -1 35236
+D5
+~
+~
+0 -1 35236
+Z7
+C-1
+R0
+S
+#35234
+{Y}The {y}{G}t{g}{Y}h{y}{B,BO}i{b,bo}{G}c{g}{Y}k{y}{B,BO}e{b,bo}{G}t{g}{Y}s{y}~
+{Y}
+  As you make your way through the brush and{y}{G}
+  bramble, you loose your footing and begin to{g}{Y}
+  tumble downhill.  Thorns and branches tear{y}{G}
+  big holes in your armor, and cut into any{g}{Y}
+  part of your body you left foolishly exposed.{y}
+{g}
+~
+352 1064993 3
+D2
+~
+~
+0 -1 35226
+D3
+~
+~
+0 -1 35230
+D4
+~
+~
+0 -1 35235
+D5
+~
+~
+0 -1 35235
+Z7
+C-1
+R0
+S
+#35235
+{B,BO}Below the {b,bo}{G}t{g}{Y}h{y}{B,BO}i{b,bo}{G}c{g}{Y}k{y}{B,BO}e{b,bo}{G}t{g}~
+{B,BO}
+  This part of the thicket is dry and clear of
+  many of the sharper brambles found in much
+  of this valley.  The path leads slightly up-
+  hill from here, leading directly into what
+  appears to be a clearing.  Thicket lies in
+  all other directions around you.
+{b,bo}
+~
+352 16416 3
+D0
+{Y}
+  A small trail leads north and downhill deeper into the
+  thicket.  Perhaps this is the way out?
+{y}
+~
+~
+0 -1 35233
+D1
+{Y}
+  The thicket is thick and dangerous to the east.
+{y}
+~
+~
+0 -1 35234
+D2
+{Y}
+  The thicket is thick and dangerous to the south.
+{y}
+~
+~
+0 -1 35234
+D3
+{Y}
+  The thicket is thick and dangerous to the west.
+{y}
+~
+~
+0 -1 35234
+D4
+{Y}
+  A trail uphill leads into a small clearing in the thicket.
+{y}
+~
+~
+0 -1 35229
+Z9
+C-1
+R0
+S
+#35236
+{BLU}Secret {blu}{B,BO}Path{b,bo}~
+{B,BO}
+  Somehow, you have reached a clear, narrow stone
+  path through the brush and bramble.  The thicket
+  is so dense around here, no sunlight shines through
+  at all.  The path seems to continue south.
+{b,bo}
+~
+352 16384 3
+D0
+{Y}
+  The way north leads back into the thicket.
+{y}
+~
+~
+0 -1 35233
+D1
+{Y}
+  The way east leads back into the thicket.
+{y}
+~
+~
+0 -1 35234
+D2
+{BLA,BO}
+  The narrow stone path continues directly to the
+  south, clear of brambles and hazards.
+{bla,bo}
+~
+~
+0 -1 35237
+D3
+{Y}
+  The way west leads back into the thicket.
+{y}
+~
+~
+0 -1 35234
+D5
+{Y}
+  A small path veers off and leads downhill back
+  into the thicket.
+{y}
+~
+~
+0 -1 35235
+Z10
+C-1
+R0
+S
+#35237
+{BLU}Secret {blu}{B,BO}Path{b,bo}~
+{B,BO}
+  Somehow, you have reached a clear, narrow stone
+  path through the brush and bramble.  The thicket
+  is so dense around here, no sunlight shines through
+  at all.  The path seems to continue south.
+{b,bo}
+~
+352 16384 3
+D0
+{BLA,BO}
+  The stone path leads back to the north as well as to
+  the south.  It appears you could make your way back
+  if you needed to.
+{bla,bo}
+~
+~
+0 -1 35236
+D1
+{Y}
+  The way east leads back into the thicket.
+{y}
+~
+~
+0 -1 35233
+D2
+{BLA,BO}
+  The narrow stone path continues directly to the
+  south, clear of brambles and hazards.
+{bla,bo}
+~
+~
+0 -1 35238
+D3
+{Y}
+  The way west leads back into the thicket.
+{y}
+~
+~
+0 -1 35233
+Z10
+C-1
+R0
+S
+#35238
+{BLU}Secret {blu}{B,BO}Path{b,bo}~
+{B,BO}
+  Somehow, you have reached a clear, narrow stone
+  path through the brush and bramble.  The thicket
+  is so dense around here, no sunlight shines through
+  at all.  The path seems to continue south.
+{b,bo}
+~
+352 16384 3
+D0
+{BLA,BO}
+  The stone path leads back to the north and also to the
+  south.  It appears you could find your way back if need
+  be.
+{bla,bo}
+~
+~
+0 -1 35237
+D1
+{Y}
+  The way east leads back into the thicket.
+{y}
+~
+~
+0 -1 35233
+D2
+{BLA,BO}
+  The stone path continues to the south, past what a rusty
+  old gate left open and being overtaken by the thicket.
+{bla,bo}
+~
+gate~
+1 -1 35239
+D3
+{Y}
+  The way west leads back into the thicket.
+{y}
+~
+~
+0 -1 35233
+Z10
+C-1
+R0
+S
+#35239
+{B,BO}At the gates of {b,bo}{BLU}Qu{blu}{C}a'las{c}{BLU}hei{blu}~
+{B,BO}
+  The path here opens up into a clearing in
+  front of the gates of what appears to be an
+  Elven City.  It is surrounded on both sides
+  by thick, unpassable thicket.  Tall, spired
+  guard posts tower above the path, providing
+  an easilly defensible position against any
+  assault on the city.
+{b,bo}
+~
+352 5 3
+D0
+~
+gate~
+1 -1 35238
+D2
+~
+~
+0 -1 35240
+Z8
+C-1
+R0
+S
+#35240
+{BLU}Qu{blu}{C}a'las{c}{BLU}hei{blu}{B,BO} - {b,bo}{BLU}Main Street{blu}~
+{BLU,BO}
+  The streets of the city of Qua'lashei are both
+  dark and narrow.  Crystal lamps can be found
+  hanging from the doors of most buildings,
+  illuminating the streets in a pale light meant
+  to resemble moonlight.  The city Hotel is to
+  the east, and the Post Office to the west.  A
+  ladder along the city wall leads up to the
+  Guard room.  The street continues to the south,
+  leading to the city square.
+{blu,bo}
+~
+352 1 1
+D0
+~
+~
+0 -1 35239
+D1
+~
+~
+0 -1 35249
+D2
+~
+~
+0 -1 35241
+D3
+~
+~
+0 -1 35248
+D4
+~
+~
+0 -1 35243
+Z8
+C-1
+R0
+S
+#35241
+{BLU}Qu{blu}{C}a'las{c}{BLU}hei{blu}{B,BO} - {b,bo}{BLU}City Square{blu}~
+{BLU,BO}
+  The Qua'lashei city square marks the center of
+  the city, and a gathering point for the local
+  residents.  Main Street and Obsidian Street
+  intersect here, running north to south and east
+  to west respectively.  An ancient stone fountain
+  lies in the center of the square, providing pure
+  water to all.
+{blu,bo}
+~
+352 1 1
+D0
+~
+~
+0 -1 35240
+D1
+~
+~
+0 -1 35246
+D2
+~
+~
+0 -1 35242
+D3
+~
+~
+0 -1 35247
+D4
+~
+~
+0 -1 35253
+D5
+~
+~
+0 -1 35252
+Z8
+C-1
+R0
+S
+#35242
+{BLU}Qu{blu}{C}a'las{c}{BLU}hei{blu}{B,BO} - {b,bo}{BLU}Main Street{blu}~
+{BLU,BO}
+  The streets of the city of Qua'lashei are both
+  dark and narrow.  Crystal lamps can be found
+  hanging from the doors of most buildings,
+  illuminating the streets in a pale light meant
+  to resemble moonlight.  The Blacksmith's
+  shop is to the east, while a Magic shop lies
+  to the west.  The great fountain in the city
+  sqaure can be seen to the north.
+{blu,bo}
+~
+352 1 1
+D0
+{BLU}
+  Main street continues north intersecting with Obsidian
+  street, forming the city square.  Many of the towns
+  residents gather there, around the great city fountain
+  you can see from here.
+{blu}
+~
+~
+0 -1 35241
+D1
+{Y}
+  A weathered old sign hangs above the doorway of
+  the shop to the east.  Engraved onto the wood is
+  the nearly universal sign of the blacksmith, the
+  hammer and the anvil.
+{y}
+~
+~
+0 -1 35251
+D3
+{M}
+  The only thing that indicates that the building to the
+  west is a shop is a strange symbol over the top of
+  the door.  Although faded and weathered, it clearly
+  depicts the open eye, a mark of the Magi.
+{m}
+~
+~
+0 -1 35250
+Z8
+C-1
+R0
+S
+#35243
+{BLU}Qu{blu}{C}a'las{c}{BLU}hei{blu}{B,BO} - {b,bo}{BLU}Guard Tower{blu}~
+{BLU}
+  A crystal lamp suspended from the ceiling
+  dimly illuminates this small, elven guard
+  room.  Along the south wall, elegant short
+  swords hang, along with a very large cache
+  of arrows.  A ladder along the east wall
+  leads up into a guards residence, and a
+  parapet for observing those visiting the
+  city lies to the north.
+{blu}
+~
+352 9 1
+D0
+~
+~
+0 -1 35244
+D4
+~
+~
+0 -1 35245
+D5
+~
+~
+0 -1 35240
+Z8
+C-1
+R0
+S
+#35244
+{BLU}Qu{blu}{C}a'las{c}{BLU}hei{blu}{B,BO} - {b,bo}{BLU}Guard Tower{blu}~
+{BLU}
+  The parapet of the Qua'lashei guard tower is
+  concealed cleverly above the path leading to
+  the city gates, providing an excecllent place
+  for archers and guards to ambush unwelcome
+  guests.  The parapet ends to the north,
+  leading down into a clearing in the thicket.
+  The main guard tower lies to the south, where
+  it houses members of the city guard.
+{blu}
+~
+352 9 1
+D0
+~
+~
+0 -1 35229
+D2
+~
+~
+0 -1 35243
+D5
+~
+~
+0 -1 35239
+Z8
+C-1
+R0
+S
+#35245
+{BLU}Qu{blu}{C}a'las{c}{BLU}hei{blu}{B,BO} - {b,bo}{M}Residence{m}~
+{C}
+  This small residence is clearly home to
+  someone used to living a martial life.  A
+  small, well made bed lies at one end of the
+  room.  A weapons rack lies within arms reach
+  of the bed alongside a beautiful wooden
+  wordrobe.  A ladder leading down a hole in
+  the middle of the room serves as the only
+  exit.
+{c}
+~
+352 9 0
+D5
+~
+~
+0 -1 35243
+X2048
+Z8
+C-1
+R0
+S
+#35246
+{BLU}Qu{blu}{C}a'las{c}{BLU}hei{blu}{B,BO} - Obsidian Street{b,bo}~
+{B,BO}
+  The cross-street of Qua'lashei is paved entirely
+  with obsidian.  Crystal lamps suspended from
+  the shops illuminate the street, causing the
+  obsidian pavement to shimmer faintly.   The
+  Blacksmith's shop lies to the south, and the
+  city hotel is directly to the north.
+{b,bo}
+~
+352 1 1
+D0
+~
+~
+0 -1 35249
+D1
+~
+~
+0 -1 35261
+D2
+~
+~
+0 -1 35251
+D3
+~
+~
+0 -1 35241
+Z8
+C-1
+R0
+S
+#35247
+{BLU}Qu{blu}{C}a'las{c}{BLU}hei{blu}{B,BO} - Obsidian Street{b,bo}~
+{BLA,BO}
+  The cross-street of Qua'lashei is paved entirely
+  with obsidian.  Crystal lamps suspended from
+  the shops illuminate the street, causing the
+  obsidian pavement to shimmer faintly.  An old
+  building to the south appears to be the city
+  Magic shop.  The post-office is clearly marked
+  to the north.
+{bla,bo}
+~
+352 1 1
+D0
+~
+~
+0 -1 35248
+D1
+~
+~
+0 -1 35241
+D2
+~
+~
+0 -1 35250
+D3
+~
+~
+0 -1 35260
+Z8
+C-1
+R0
+S
+#35248
+{BLU}Qu{blu}{C}a'las{c}{BLU}hei{blu}{B,BO} - {b,bo}{BLU}Post Office{blu}~
+{BLU}
+  This small building serves as the main
+  avenue of communication for residents
+  wanting to interact with the outside
+  world.  Hundreds of mailboxes cover
+  the west wall behind the counter.  The
+  postmaster stands behind the boxes,
+  sorting mail, oblivious to you.
+{blu}
+~
+352 9 0
+D1
+~
+~
+0 -1 35240
+D2
+~
+~
+0 -1 35247
+Z8
+C-1
+R0
+S
+#35249
+{BLU}Qu{blu}{C}a'las{c}{BLU}hei{blu}{B,BO} - {b,bo}{BLU}Hotel{blu}~
+{BLU}
+  This elegant elvish hotel houses many travellers
+  hiding in Qua'lashei.  Glowing crystals suspended
+  from the ceiling illuminate the room, providing
+  a soft light comfortable to dark elves.  Large
+  glass doors lead west to main street and south
+  to obsidian street.
+{blu}
+~
+352 262153 0
+D2
+~
+~
+0 -1 35246
+D3
+~
+~
+0 -1 35240
+Z8
+C-1
+R0
+S
+#35250
+{BLU}Qu{blu}{C}a'las{c}{BLU}hei{blu}{B,BO} - {b,bo}{BLU}Magic Shop{blu}~
+{M}
+  The interior of the Magic Shop of Qua'lashei is dark
+  and intimitating to most patrons, even Elves who
+  live here.  Mysterious and arcane objects cover
+  every shelf and table, each powerful and not to be
+  misused.  A wise old mage sits behind an old,
+  polished redwood counter, watching all customers
+  carefully.
+{m}
+~
+352 137 0
+D0
+~
+~
+0 -1 35247
+D1
+~
+~
+0 -1 35242
+Z8
+C-1
+R0
+S
+#35251
+{BLU}Qu{blu}{C}a'las{c}{BLU}hei{blu}{B,BO} - {b,bo}{BLU}Blacksmith{blu}~
+{R}
+  Stepping into this old blacksmith shop, you
+  immediately notice the heat of the always
+  burning force.  Like most places in this city,
+  the shop is very poorly illuminated, the forge
+  being the only source of artifical light in the
+  room.  A huge anvil sits in the center of the
+  shop, ready to be used for all kinds of repairs.
+{r}
+~
+352 9 0
+D0
+~
+~
+0 -1 35246
+D3
+~
+~
+0 -1 35242
+Z8
+C-1
+R0
+S
+#35252
+{BLU}Qu{blu}{C}a'las{c}{BLU}hei{blu}{B,BO} - {b,bo}{BLU}Palace Gates{blu}~
+{BLU}
+  Centuries old stone steps lead fifty feet
+  below ground to the gates of a large under-
+  ground palace.  A gate of cold pitch black
+  steel stands as a barrier to any uninvited
+  guests.  The royal family of Qua'lashei
+  live fortified here, safe from their many
+  enemies.
+{blu}
+~
+352 13 0
+D4
+~
+~
+0 -1 35241
+D5
+~
+~
+0 -1 35255
+Z9
+C4
+R0
+S
+#35253
+{BLU}Qu{blu}{C}a'las{c}{BLU}hei{blu}{B,BO} - {b,bo}{BLU}Temple of Night{blu}~
+{C}
+  The spired tower of the Temple of Night is by far the
+  tallest building in the City of Qua'lashei.  Looking out
+  the windows of the tower, a thick fog obscures the
+  entire city from view from above, leaving the Temple
+  of Night the only building above the fog.  Gemstones
+  built into the tower reflect the light of the moon
+  brilliantly, providing plenty of light for those used
+  to travelling by night.  The tower steps continue up to
+  the top of the Temple.
+{c}
+~
+352 5 3
+D4
+~
+~
+0 -1 35254
+D5
+~
+~
+0 -1 35241
+Z10
+C4
+R0
+S
+#35254
+{BLU}Qu{blu}{C}a'las{c}{BLU}hei{blu}{B,BO} - {b,bo}{BLU}Temple of Night{blu}~
+{C}
+  The top of the temple provides an amazing view over the
+  forests of Qua'lashei and Belgoh.  This is where the dark
+  elves gather to focus their prayers for the protection of
+  the city.  Spires imbued with veins of glowing crystal are
+  positioned in all cardinal directions around you.  The
+  only way out of the temple is the way you came.
+{c}
+~
+352 16777221 3
+D5
+~
+~
+0 -1 35253
+M30
+Z10
+C4
+R0
+S
+#35255
+{BLU}Qu{blu}{C}a'las{c}{BLU}hei{blu}{B,BO} - {b,bo}{BLU}Palace{blu}~
+{BLU}
+  The great palace of Qua'lashei is far less extravagent than
+  the royal dwellings of most monarchs.  Elvish runes are
+  carved into massive stone blocks that make up the walls of
+  the palace.  A huge, beautiful {Y}tapestry{BLU} hangs on the south
+  wall, adding a sense of warmth that is absent in most of
+  this dark city.  A pure night blue carpet leads north from
+  here to the throne room of the monarchy.
+{blu}
+~
+352 16777225 0
+D0
+~
+~
+0 -1 35256
+D1
+~
+~
+0 -1 35257
+D3
+~
+~
+0 -1 35258
+D4
+~
+~
+0 -1 35252
+M30
+Z9
+C4
+R0
+S
+#35256
+{BLU}Qu{blu}{C}a'las{c}{BLU}hei{blu}{B,BO} - {b,bo}{BLU}Throne Room{blu}~
+{M}
+  The throne room of Qua'lashei is a very large chamber
+  with a domed ceiling.  {W,BO}Glowing crystal balls{w,bo}{M} hang from
+  the above, illuminating this room better than nearly
+  any other room the city.  A towering throne made of
+  {W,BO}pure marble{w,bo}{M} sits at the north end of the room, putting
+  the Queen of {BLU}Qu{C}a'la{BLU}shei{M} above all her subjects.
+{m}
+~
+352 5 3
+D2
+~
+~
+0 -1 35255
+M30
+Z6
+C4
+R0
+S
+#35257
+{BLU}Qu{blu,bo}{C}a'las{c}{BLU}hei {B,BO}- {b,bo}{BLU}Treasure room{blu}~
+{BLU}
+  The treasure room of the dark elves is used by the
+  monarchy as an armory in case of war.  A rack along
+  the east wall holds many shining, perfectly crafted
+  short swords.  Several treasure chests here hold a
+  small fortune.
+{blu}
+~
+352 65545 0
+D3
+~
+~
+0 -1 35255
+Z8
+C4
+R0
+S
+#35258
+{BLU}Qu{blu}{C}a'las{c}{BLU}hei{blu}{B,BO} - {b,bo}{BLU}Royal Kitchen{blu}~
+{Y}
+  The royal kitchen serves the kingdom of Qua'lashei as
+  a place where food is prepared, managed, and stored.
+  Stockpiles of food fill a large portion of this huge
+  room.  Servants hustle back and forth day and night
+  from this room, they all seem to barely notice you as
+  they rush by.
+{y}
+~
+352 9 0
+D1
+~
+~
+0 -1 35255
+Z7
+C4
+R0
+S
+#35259
+{G}The Deep Forest{g}~
+{G}
+  The redwood trees are very dense here, travel under
+  and around these giants is a very slow process.
+  {W,BO}White, misty fog{w,bo}{G} rolls gently through each tree,
+  covering everything in dew.  The constant moisture
+  is ideal for mushrooms.
+{g}
+~
+352 49184 3
+D0
+~
+~
+0 -1 35290
+D1
+~
+~
+0 -1 35283
+D2
+~
+~
+0 -1 35288
+D3
+~
+~
+0 -1 35286
+Z7
+C-1
+R0
+S
+#35260
+{BLU}Qu{blu}{C}a'las{c}{BLU}hei{blu}{B,BO} - {b,bo}{M}Residence{m}~
+{M}
+  This small residence is very elegant and tidy.  Although
+  quite poorly illuminated by most foreign standards, this
+  house is functional and comfortable to dark elves.  Fruit
+  obviously imported from another region sits in a bowl
+  on the kitchen table, evidence of trade within the city.
+{m}
+~
+352 9 0
+D1
+~
+~
+0 -1 35247
+X2048
+Z8
+C-1
+R0
+S
+#35261
+{BLU}Qu{blu}{C}a'las{c}{BLU}hei{blu}{B,BO} - {b,bo}{M}Residence{m}~
+{M}
+  This small residence is very elegant and tidy.  Although
+  quite poorly illuminated by most foreign standards, this
+  house is functional and comfortable to dark elves.  Fruit
+  obviously imported from another region sits in a bowl
+  on the kitchen table, evidence of trade within the city.
+{m}
+~
+352 9 0
+D3
+~
+~
+0 -1 35246
+X2048
+Z8
+C-1
+R0
+S
+#35262
+{G}Lookout Point{g}~
+{G}
+  The view of the forest is simply fantastic here.
+  From on top of this towering elven cottage, you
+  can spot anyone travelling down the forest trail
+  miles away.  A telescope and chair have been
+  placed here for keeping watch on this border.
+{g}
+~
+352 0 1
+D5
+~
+~
+0 -1 35206
+Z3
+C-1
+R0
+S
+#35263
+{G}A narrow forest trail{g}~
+{G}
+  As this narrow trail continues south, the sooth-
+  ing sounds of the river can be heard.  Critters
+  of all sorts make this forest their home,
+  apparently unconcerned about travellers making
+  their way along this old trail.
+{g}
+~
+352 0 3
+D0
+~
+~
+0 -1 35209
+D2
+~
+~
+0 -1 35264
+Z5
+C-1
+R0
+S
+#35264
+{G}A narrow forest trail{g}~
+{G}
+  The treeline suddenly stops here and the trail
+  ends overlooking a large canyon.  A very long
+  wooden bridge lies to the south, stretching all
+  the way over the width of the canyon.  A small
+  path connecting with the main trail leads down
+  the sides of the canyon from here, likely
+  leading to the bottom.
+{g}
+~
+352 0 3
+D0
+~
+~
+0 -1 35263
+D2
+~
+~
+0 -1 35265
+D5
+~
+~
+0 -1 35269
+Z5
+C-1
+R0
+S
+#35265
+{G}A very long {g}{Y}wooden bridge{y}~
+{Y}
+  This huge wooden bridge stretches over the width
+  of the canyon, connecting the forest trails at
+  both cliffs.  The view over the landscape is
+  simply amazing.  {y}{G}Pine trees{g}{Y} and {y}{G}ferns{g}{Y} cover the
+  terrain below you, stretching for miles along the
+  {y}{BLU,BO}river{blu,bo}{Y} running at the bottom of the canyon.
+{y}
+~
+352 4 1
+D0
+~
+~
+0 -1 35264
+D2
+~
+~
+0 -1 35267
+Z4
+C2
+R0
+S
+#35266
+{G}The Deep Forest{g}~
+{G}
+  The redwood trees are especially dense in this end of
+  the forest, making navigating under and around each
+  tree more difficult.  {W,BO}White, misty fog{w,bo}{G} rolls gently
+  through the forest, covering everything in thick dew.
+  Mushrooms grow abundantly in the moisture, covering
+  much of the forest floor.  The terrain rolls gently
+  downhill to the north, towards the sounds of running
+  water.
+{g}
+~
+352 49184 3
+D0
+~
+~
+0 -1 35275
+D1
+~
+~
+0 -1 35286
+D2
+~
+~
+0 -1 35290
+D3
+~
+~
+0 -1 35283
+Z7
+C-1
+R0
+S
+#35267
+{G}A very long {g}{Y}wooden bridge{y}~
+{Y}
+  This huge wooden bridge stretches over the width
+  of the canyon, connecting the forest trails at
+  both cliffs.  The view over the landscape is
+  simply amazing.  {y}{G}Pine trees{g}{Y} and {y}{G}ferns{g}{Y} cover the
+  terrain below you, stretching for miles along the
+  {y}{BLU,BO}river{blu,bo}{Y} running at the bottom of the canyon.
+{y}
+~
+352 4 1
+D0
+~
+~
+0 -1 35265
+D2
+~
+~
+0 -1 35268
+Z4
+C2
+R0
+S
+#35268
+{G}Deep forest path{g}~
+{G}
+  The south side of the canyon is densely covered
+  by giant redwood trees of incredible heights.
+  The mist from the canyon waterfall blows toward
+  the south, providing a perfect climate for these
+  massive trees.  The trail continues south deeper
+  into the woods.
+{g}
+~
+352 0 3
+D0
+~
+~
+0 -1 35267
+D2
+~
+~
+0 -1 35292
+Z5
+C-1
+R0
+S
+#35269
+{Y}Canyon Path{y}~
+{Y}
+  This small dirt trail leads east, down the steep north
+  slopes of the canyon.  Better watch your step, one
+  missed step could lead to falling head first to the
+  bottom of the canyon.
+{y}
+~
+352 0 4
+D1
+~
+~
+0 -1 35270
+D4
+~
+~
+0 -1 35264
+Z3
+C-1
+R0
+S
+#35270
+{Y}Canyon Path{y}~
+{Y}
+  This narrow dirt trail descends rapidly along the
+  north slope of the canyon, bending gradually toward
+  the south as it reaches the bottom.  Thick, gnarled
+  trees cling to the steep slopes, occasionaly
+  providing desperatley needed handholds.
+{y}
+~
+352 0 4
+D3
+~
+~
+0 -1 35269
+D5
+~
+~
+0 -1 35271
+Z3
+C-1
+R0
+S
+#35271
+{Y}Floor of the Canyon{y}~
+{Y}
+  The floor of the canyon is covered in sandy
+  rock, with small {G}shrubs{Y} popping up everywhere.
+  The pure waters of the {BLU,BO}Anaya River{blu,bo}{Y} flow along
+  the length of the canyon to the south.  This
+  appears to be a good place to camp, the water-
+  line of the river seems to only rise up to this
+  level durring massive storms.
+{y}
+~
+352 4 2
+D2
+~
+~
+0 -1 35272
+D4
+~
+~
+0 -1 35270
+Z3
+C-1
+R0
+S
+#35272
+{BLU,BO}A{blu,bo}{C}n{BLU,BO}a{blu,bo}{C}y{BLU,BO}a {blu,bo}{C}R{BLU,BO}i{blu,bo}{C}v{BLU,BO}e{blu,bo}{C}r{c}~
+{C}
+  The clear, pure water of the Anaya River is
+  surprisingly mild and pleasant.  Although
+  fairly wide, the water is shallow in all
+  places but the very middle, making wading
+  easy.  The current is slow and steady,
+  making travel up or down the river as safe
+  as can be expected.
+{c}
+~
+352 32768 7
+D0
+~
+~
+0 -1 35271
+D1
+~
+~
+0 -1 35273
+D3
+~
+~
+0 -1 35278
+Z3
+C-1
+R0
+S
+#35273
+{BLU,BO}A{blu,bo}{C}n{BLU,BO}a{blu,bo}{C}y{BLU,BO}a {blu,bo}{C}R{BLU,BO}i{blu,bo}{C}v{BLU,BO}e{blu,bo}{C}r{c}~
+{C}
+  The clear, pure water of the Anaya River is
+  surprisingly mild and pleasant.  Although
+  fairly wide, the water is shallow in all
+  places but the very middle, making wading
+  easy.  The current is slow and steady,
+  making travel up or down the river as safe
+  as can be expected.
+{c}
+~
+352 32768 7
+D1
+~
+~
+0 -1 35274
+D3
+~
+~
+0 -1 35272
+Z3
+C-1
+R0
+S
+#35274
+{BLU,BO}A{blu,bo}{C}n{BLU,BO}a{blu,bo}{C}y{BLU,BO}a {blu,bo}{C}R{BLU,BO}i{blu,bo}{C}v{BLU,BO}e{blu,bo}{C}r{c}~
+{C}
+  The clear, pure water of the Anaya River is
+  surprisingly mild and pleasant.  Although
+  fairly wide, the water is shallow in all
+  places but the very middle, making wading
+  easy.  The current is slow and steady,
+  making travel up or down the river as safe
+  as can be expected.
+{c}
+~
+352 32768 7
+D1
+~
+~
+0 -1 35275
+D3
+~
+~
+0 -1 35273
+Z3
+C-1
+R0
+S
+#35275
+{C,BO}Anaya Falls{c,bo}~
+{C,BO}
+  Water falls from a river far above to pool at the
+  base of the Anaya River, covering the area in a
+  gentle mist.  Rainbows can be seen shimmering in
+  the morning and afternoon sun, giving the forest
+  a sense of peace.
+{c,bo}
+~
+352 40964 6
+D3
+~
+~
+0 -1 35274
+D4
+~
+~
+0 -1 35276
+Z3
+C-1
+R0
+S
+#35276
+{C,BO}Anaya Falls{c,bo}~
+{C,BO}
+  Water flows from a river far above down to a
+  pool at the base of the Anaya River.  Being
+  above the river provides an excellent view of
+  the canyon on the border of Qua'lashei.  To
+  the east, you notice a strange symbol carved
+  on to the cliff face.
+{c,bo}
+~
+352 32800 9
+D1
+~
+rock rocks~
+1 -1 35277
+D5
+~
+~
+0 -1 35275
+Z1
+C-1
+R0
+S
+#35277
+{C}Hidden Temple behind Anaya Falls{c}~
+{C}
+  This small shrine has been carved with incredible detail
+  out of a cave behind Anaya Falls.  {BLU,BO}Water{blu,bo}{C} flows from four
+  holes in the ceiling into a large pool at the far end of
+  the temple.  The entire room appears as if it flooded
+  mere minutes ago, with pools of water filling every dip
+  and crevasse.  This temple is obviously for worship of
+  the Water Spirits.  The keeper of the shrine is a priest-
+  ess is named Kinthya, and she is powerful and in harmony
+  with the elements.
+{c}
+~
+352 8 0
+D3
+~
+rock rocks~
+1 -1 35276
+Z4
+C4
+R0
+S
+#35278
+{BLU,BO}A{blu,bo}{C}n{BLU,BO}a{blu,bo}{C}y{BLU,BO}a {blu,bo}{C}R{BLU,BO}i{blu,bo}{C}v{BLU,BO}e{blu,bo}{C}r{c}~
+{C}
+  The clear, pure water of the Anaya River is
+  surprisingly mild and pleasant.  Although
+  fairly wide, the water is shallow in all
+  places but the very middle, making wading
+  easy.  The current is slow and steady,
+  making travel up or down the river as safe
+  as can be expected.
+{c}
+~
+352 32768 7
+D1
+~
+~
+0 -1 35272
+D3
+~
+~
+0 -1 35279
+Z3
+C-1
+R0
+S
+#35279
+{BLU,BO}A{blu,bo}{C}n{BLU,BO}a{blu,bo}{C}y{BLU,BO}a {blu,bo}{C}R{BLU,BO}i{blu,bo}{C}v{BLU,BO}e{blu,bo}{C}r{c}~
+{C}
+  The clear, pure water of the Anaya River is
+  surprisingly mild and pleasant.  Although
+  fairly wide, the water is shallow in all
+  places but the very middle, making wading
+  easy.  The current is slow and steady,
+  making travel up or down the river as safe
+  as can be expected.
+{c}
+~
+352 32768 7
+D1
+~
+~
+0 -1 35278
+D3
+~
+~
+0 -1 35280
+Z3
+C-1
+R0
+S
+#35280
+{G}G{C}r{BLU,BO}e{blu,bo}{G}e{C}n{BLU,BO}w{blu,bo}{G}a{C}t{BLU,BO}e{blu,bo}{G}r {C}L{BLU,BO}a{blu,bo}{G}k{C}e{c}~
+{BLU,BO}
+  The pure water of the Anaya river flows into
+  the great Greenwater Lake.  Along the shore
+  of the lake, trees, flowers, and shrubs all
+  grow tall and in abundance.  Varried kinds
+  of wildlife from the surrounding area gather
+  here to drink from this pure lake.  Grasses
+  grow tall in the water around the shore,
+  giving the illusion in some places that the
+  water is green.
+{blu,bo}
+~
+352 32772 6
+D1
+~
+~
+0 -1 35279
+D5
+~
+~
+0 -1 35281
+T35282
+Z4
+C-1
+R0
+S
+#35281
+{G}G{C}r{BLU,BO}e{blu,bo}{G}e{C}n{BLU,BO}w{blu,bo}{G}a{C}t{BLU,BO}e{blu,bo}{G}r {C}L{BLU,BO}a{blu,bo}{G}k{C}e{c}~
+{BLU}
+  Deep below the surface of Greenwater lake,
+  schools of fish often swim by.  Shimmering
+  light from the sun can be seen, providing
+  just enough light to see the bottom of the
+  lake.  Hope you can hold your breath!
+{blu}
+~
+352 32800 10
+D4
+~
+~
+0 -1 35280
+D5
+~
+~
+0 -1 35282
+T35282
+Z5
+C-1
+R0
+S
+#35282
+{BLU}The bottom of {G}G{C}r{BLU,BO}e{blu,bo}{G}e{C}n{BLU,BO}w{blu,bo}{G}a{C}t{BLU,BO}e{blu,bo}{G}r {C}L{BLU,BO}a{blu,bo}{G}k{C}e{c}~
+{BLU}
+  The bottom of Greenwater Lake is cold and dark.
+  Countless rocks cover the bottom, possibly con-
+  cealing many things dropped in the lake.  Who
+  knows what could live in such an enviroment?
+{blu}
+~
+352 16875552 10
+D4
+~
+~
+0 -1 35281
+M30
+Z7
+C-1
+R0
+S
+#35283
+{G}The Deep Forest{g}~
+{G}
+  The redwood trees are very dense here, travel under
+  and around these giants is a very slow process.
+  {W,BO}White, misty fog{w,bo}{G} rolls gently through each tree,
+  covering everything in dew.  The constant moisture
+  is ideal for mushrooms.
+{g}
+~
+352 49184 3
+D0
+~
+~
+0 -1 35286
+D1
+~
+~
+0 -1 35288
+D2
+~
+~
+0 -1 35284
+D3
+~
+~
+0 -1 35259
+Z6
+C-1
+R0
+S
+#35284
+{G}Deep forest trail{g}~
+{G}
+  Ferns and vines grow abundantly here, covering
+  the forest floor around the base of massive
+  redwood trees.  Gazing up, the tops of these
+  trees appear to reach amazing heights.  The
+  trail continues east and west, and appears
+  rarely used.  It is difficult to follow, and
+  is probably quite old.
+{g}
+~
+352 0 3
+D0
+~
+~
+0 -1 35283
+D1
+~
+~
+0 -1 35286
+D3
+~
+~
+0 -1 35285
+D5
+{Y}
+  One of the great giants of the forest has fallen here,
+  and termites appear to have hollowed out part of the
+  redwood root system.  You just might be able to fit
+  inside the entrance to the stump...
+{y}
+~
+stump~
+5 35213 35298
+E
+d~
+{Y}
+  One of the great giants of the forest has fallen here, and
+  termites appear to have hollowed out part of this huge root
+  system.
+{y}
+~
+Z6
+C-1
+R0
+S
+#35285
+{G}Deep forest trail{g}~
+{G}
+  Ferns and vines grow abundantly in the deep
+  forest, covering the floor around the base
+  of massive redwood trees.  Towering above
+  everything on the forest floor, these trees
+  are amazingly tall.  The trail bends around
+  the base of a particularly old tree, turning
+  to the south.
+{g}
+~
+352 0 3
+D0
+~
+~
+0 -1 35283
+D1
+~
+~
+0 -1 35284
+D2
+~
+~
+0 -1 35287
+Z6
+C-1
+R0
+S
+#35286
+{G}The Deep Forest{g}~
+{G}
+  The redwood trees are especially dense in this end of
+  the forest, making navigating the old forest trail more
+  difficult.  {W,BO}White, misty fog{w,bo}{G} rolls gently through each
+  tree, covering everything in thick dew.  This constant
+  moisture is ideal for mushrooms.  What was left of the
+  trail is gone now, reclaimed by the wild.
+{g}
+~
+352 49184 3
+D0
+~
+~
+0 -1 35288
+D1
+~
+~
+0 -1 35259
+D2
+~
+~
+0 -1 35283
+D3
+~
+~
+0 -1 35284
+T35285
+Z7
+C-1
+R0
+S
+#35287
+{G}Deep forest trail{g}~
+{G}
+  Ferns and vines grow abundantly in the deep
+  forest, covering the floor around the base of
+  massive redwood trees.  Towering above
+  everything on the forest floor, these trees
+  are amazingly tall.  The trail continues both
+  north and south.
+{g}
+~
+352 0 3
+D0
+~
+~
+0 -1 35285
+D2
+~
+~
+0 -1 35289
+Z6
+C-1
+R0
+S
+#35288
+{G}The Deep Forest{g}~
+{G}
+  A massive fallen redwood directly north stands out in
+  this part of the forest.  It is covered almost entirely
+  in fungus, growing massive {Y}vi{Y,BO}br{M,BO}an{m,bo}{Y,BO}tl{y,bo}{Y}y colored mushrooms.{G}
+  The wake of the redwood cleared many neighboring trees
+  of branches.  Were it not for the {C}constant fog{G}, you
+  could see the sky here.
+{g}
+~
+352 49184 3
+D0
+~
+~
+0 -1 35297
+D1
+~
+~
+0 -1 35290
+D2
+~
+~
+0 -1 35286
+D3
+~
+~
+0 -1 35283
+Z7
+C-1
+R0
+S
+#35289
+{G}Deep forest trail{g}~
+{G}
+  Ferns and vines grow abundantly in the deep
+  forest, covering the floor around the base of
+  massive {R}redwood{G} trees.  Towering above every-
+  thing on the forest floor, these trees are
+  amazingly tall.  The trail bends gradually to
+  the west.
+{g}
+~
+352 0 3
+D0
+~
+~
+0 -1 35287
+D3
+~
+~
+0 -1 35291
+Z6
+C-1
+R0
+S
+#35290
+{G}The Deep Forest{g}~
+{G}
+  The redwood trees are especially dense in this end of
+  the forest, making navigating under and around each
+  tree more difficult.  {W,BO}White, misty fog{w,bo}{G} rolls gently
+  through the forest, covering everything in thick dew.
+  Mushrooms grow abundantly in the moisture, covering
+  much of the forest floor.  The terrain rolls gently
+  downhill to the north, towards the sounds of running
+  water.
+{g}
+~
+352 49184 3
+D0
+~
+~
+0 -1 35266
+D1
+~
+~
+0 -1 35286
+D2
+~
+~
+0 -1 35259
+D3
+~
+~
+0 -1 35288
+Z7
+C-1
+R0
+S
+#35291
+{G}Deep forest path{g}~
+{G}
+  Several paths intersect here in the deep forest,
+  creating a fork in the road.  The paths to the
+  east and west twist and bend along the contours
+  of the massive {R}redwood{G} trees towering above.  An
+  old and lightly used path leads south through
+  rough terrain covered with brush and heavy
+  clusters of trees.
+{g}
+~
+352 0 3
+D1
+~
+~
+0 -1 35289
+D2
+~
+~
+0 -1 35294
+D3
+~
+~
+0 -1 35293
+Z6
+C-1
+R0
+S
+#35292
+{G}Deep forest path{g}~
+{G}
+  This old dirt path continues through the deep
+  forest, redwoods towering as high as the eye
+  can see.  Several small, old, wooden bridges
+  have been built over little streams that run 
+  through the forest.  The path continues to the
+  south.
+{g}
+~
+352 0 3
+D0
+~
+~
+0 -1 35268
+D2
+~
+~
+0 -1 35293
+Z6
+C-1
+R0
+S
+#35293
+{G}Deep forest path{g}~
+{G}
+  This old dirt path continues through the deep
+  forest, redwoods towering as high as the eye
+  can see.  Ferns cover the forest floor every-
+  where but the path, which bends around a
+  massive redwood, continuing east.
+{g}
+~
+352 0 3
+D0
+~
+~
+0 -1 35292
+D1
+~
+~
+0 -1 35291
+Z6
+C-1
+R0
+S
+#35294
+{G}Deep forest path{g}~
+{G}
+  The old forest path ends abruptly here, cut off
+  by a landslide and thick clusters of trees and
+  brush.  The stench of dead flesh perverts the
+  majesty of the forest as you notice you are
+{R,BO}  surrounded by dismembered body parts and gore
+  of men, goblins, and forest animals.  Something
+  terrible lives here, go no further!!
+{r,bo}
+~
+352 0 3
+D0
+~
+~
+0 -1 35291
+Z6
+C-1
+R0
+S
+#35295
+{B,BO}A very dark cave{b,bo}~
+{B,BO}
+  This small cave smells truely putrid.  Bones and gore from creatures
+  of the forest litter the floor.  This may be your last chance for
+  escape before the Dragon notices you.  The cave opens up to the
+  south, leading to the Dragon's Lair.
+{b,bo}
+~
+352 16777257 5
+D2
+~
+~
+0 -1 35296
+M30
+Z10
+C2
+R0
+S
+#35296
+{G,BO}Khalix's{g,bo}{G} Lair{g}~
+{Y}
+{Y} The cave opens up here into a massive cavern, illuminated
+{Y} by two beams of {y}{Y,BO}sunlight shining{y,bo}{Y} through holes in the cave
+{Y} ceiling.  Large piles of gold, silver, and weapons catch
+{Y} your attention immediately.  The piles of wealth circle a
+{Y} bed carved out of the stone floor large enough for the 
+{Y} most massive of Dragons.
+{y}
+~
+352 16842752 5
+D0
+~
+~
+0 -1 35295
+M30
+Z8
+C-1
+R0
+S
+#35297
+{Y}In the fallen redwood{y}~
+{Y}
+  Inside the giant fallen redwood tree is a fungal bloom
+  of incredible size.  Sensing the presence of intruders,
+  the colony shoots spores meant to paralyze all warm
+  blooded creatures.  The only way out is at the base of
+  the tree to the south.
+{y}
+~
+352 16810156 3
+D2
+~
+~
+0 -1 35288
+M30
+Z9
+C-1
+R0
+S
+#35298
+{Y}Winding down the {R}redwood{r}{Y} stump{y}~
+{Y}
+  You are walking down ancient stairs carved out of the
+  inside of a hollowed out redwood tree.  As you descend
+  down into the stump, you see countless signs of Gnomish
+  innovation.  Pully, whistles, bells, and rails from a
+  thousand failed Gnomish inventions are everywhere
+  inside the stump.
+{y}
+~
+352 8 3
+D4
+~
+stump~
+1 -1 35284
+D5
+~
+~
+0 -1 35299
+Z6
+C-1
+R0
+S
+#35299
+{B,BO}On the bottom of a hollow {b,bo}{Y}stump{y}~
+{Y}
+  Old, broken Gnomish inventions cover the floor of the inside
+  of this huge redwood stump.  An elaborate pully system once
+  used to slingshot Gnomes out of their hideout is completely
+  tangled from an apparent mishap.  These creatures are smart
+  enough to be inventive, yet flawed enough to be dangerous.
+  The only way out is the way you came.
+{y}
+~
+352 40 3
+D4
+~
+~
+0 -1 35298
+Z6
+C-1
+R0
+S
+$~

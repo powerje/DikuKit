@@ -1,0 +1,526 @@
+#600
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#601
+Caddie~
+{Y,BO}The Caddie{y,bo}~
+The aged caddie is standing here, waiting to assist.
+~
+{Y,BO}
+  He has a warm, friendly, weathered 
+  face that has seen thousands of rounds
+  of golf.
+{y,bo}
+~
+524352 1074004000 750 S
+8 0 8 150d1+5 3d4+2
+1000 100000
+8 8 1
+D 20
+A 12
+#602
+Golfer~
+The Golfer~
+The golfer stands here, lining up his next shot.
+~
+{G}
+  He is in deep concentration, and does
+  NOT want to be disturbed.
+{g}
+~
+524352 1073742336 0 S
+11 10 2 20d10+15 2d8+1
+1500 80000
+8 8 1
+D 20
+A 12
+#603
+Greenskeeper Green Greens Keeper~
+The Greenskeeper~
+The greenskeeper stands here, putting his tools away.
+~
+{G}
+  He seems quite angry at your presence here.
+  Maybe you should leave now!
+{g}
+~
+524354 1073741960 0 S
+18 3 1 2d11+335 2d4+2
+1500 1000000
+8 8 1
+D 20
+A 12
+#604
+Gopher~
+{Y}The Sneaky Gopher{y}~
+{Y}The sneaky gopher stands here, looking for a quick exit.{y}
+~
+{Y} 
+  He has a nervous look in his eyes,
+  like he's been hunted before.  Yet,
+  his instinct tells him that he must
+  not let you past.
+{y}
+~
+524354 1074266112 0 S
+3 18 7 2d10+35 2d4+0
+0 1000
+8 8 0
+S 32
+D 20
+A 12
+#605
+Superintendent Super~
+The Superintendent~
+The superintendent stands here, assuring the grounds are in order.
+~
+{G}
+  He has a stern face, and obviously means business.
+{g}
+~
+524356 1073741960 0 S
+20 1 0 1d25+385 2d3+2
+2000 100000
+8 8 1
+D 20
+A 12
+#606
+Marshall~
+The Marshall~
+The marshall stands here, assuring play goes smoothly.
+~
+{G}
+ It looks like he wants you to move along...
+{g}
+~
+524356 1073741960 0 C 4
+25 0 -1 1d25+460 3d4+2
+3500 85000
+8 8 1
+D 20
+A 12
+#607
+snake~
+{Y,BO}A {GR}Ga{Y}rt{G}er {Y}Sn{G}ak{Y}e{y,bo}~
+{Y,BO}A {GR}Ga{Y}rt{G}er {Y}Sn{G}ak{Y}e{y,bo} {GR}coiled here is very surprised by your presence.{g}
+~
+{G,BO}
+  This harmless creature's only offence
+  is that he's sitting in your hole!
+{g,bo}
+~
+524354 1073741832 0 C 3
+10 10 4 3d10+50 2d2+2
+100 10000
+8 8 0
+S 32
+D 20
+A 12
+#608
+KJ Choi~
+{R}KJ Choi{r}~
+{R}KJ Choi stands here lining up a shot.{r}
+~
+{R}
+  KJ Choi is the first Korean to earn a PGA
+  Tour Card. He works hard and achieves great
+  heights. He believes that his hard work will
+  pay off in the near future. Choi's own 
+  thoughts:  "I've practiced hard to get to 
+  where I am now but I know I still have a 
+  lot more to practice before I can win a 
+  tournament outright."
+{r} 
+~
+67633218 1073742336 350 S
+25 10 1 35d25+10 3d7+3
+10000 35650
+8 8 1
+D 20
+A 12
+#609
+Tiger Woods~
+{BLUE}Tiger Woods{blue}~
+{BLUE}Tiger Woods sizes up the shot.{blue}
+~
+{BLU}
+  Tiger Woods has had an unprecedented career  
+  since becoming a professional golfer in the 
+  late summer of 1996. He has won 40 tournaments, 
+  29 of those on the PGA TOUR, including the 
+  1997 and 2001 Masters Tournaments, 1999 and  
+  2000 PGA Championships, 2000 U.S. Open  
+  Championship, and 2000 British Open Championship. 
+  With his second Masters victory in 2001, Tiger 
+  became the first ever to hold all four  
+  professional major championships at the  
+  same time. He is the career victories leader  
+  among active players on the PGA TOUR, and is  
+  the career money list leader.
+{blu}
+~
+67633218 1073742336 0 S
+40 -60 1 900d1+15 8d9+4
+15000 1000
+8 8 1
+D 20
+A 12
+#610
+Arnold Palmer~
+{CY,BO}Arnold Palmer{cy,bo}~
+{CY,BO}Arnold Palmer helps where he can to improve the game.{cy,bo}
+~
+{C,BO}
+  Arnold Palmer is many things to many people...
+  world famous golf immortal and sportsman, 
+  highly-successful business executive, prominent
+  advertising spokesman, skilled aviator, talented 
+  golf course designer and consultant, devoted
+  husband, father and grandfather and a man with
+  a down-to-earth common touch that has made 
+  him one of the most popular and accessible 
+  public figures in history. 
+{c,bo}
+~
+67633218 1073742336 0 S
+45 -75 0 950d1+15 8d7+5
+10000 1000
+8 8 1
+D 20
+A 12
+#611
+Chi Chi Rodriguez~
+{Y,BO}Chi Chi Rodriguez{y,bo}~
+{Y,BO}Chi Chi Rodriguez shows YOU how to play the game.{y,bo}
+~
+{Y,BO}
+  Chi-Chi Rodriguez was born in Rio Piedras
+  in 1935 and as a young boy helped his father
+  work the hot, dusty sugar cane fields. He 
+  began caddying at the age of six and actually 
+  learned how to play golf with clubs fashioned 
+  out of guava tree limbs and tin cans hammered 
+  into balls. From the start he has become one 
+  of the most successful and widely recognized 
+  names in the game of golf.  
+{y,bo}
+~
+67633218 1073742336 0 S
+25 -85 1 750d1+15 7d9+3
+15000 1000
+8 8 1
+D 20
+A 12
+#612
+Greg Norman~
+{GR,BO}Greg Norman{gr,bo}~
+{GR,BO}Greg Norman puts his best foot forward in every endeavor.{gr,bo}
+~
+{G,BO} 
+   Greg Norman:
+  "Growing up as a kid in Australia, we never
+   really had a Hall of Fame to look forward 
+   to, not like here in the United States.
+   When Commissioner (Tim) Finchem called me 
+   and told me I was elected, I thought: 
+   Well, how am I supposed to react to this? 
+   As time has gone by, I think the enormity
+   and the importance of it is really setting
+   in. The importance to me is the recognition 
+   that has taken place, for the commitment to 
+   golf and commitment to excellence in golf."
+{g,bo}
+~
+67633218 1073742336 0 S
+8 -65 5 850d1+30 8d8+4
+15000 1000
+8 8 1
+D 20
+A 12
+#613
+Juli Inkster~
+{MAG}Juli Inkster{mag}~
+{M}Juli Inkster is relaxing on the course.{m}
+~
+{M}
+  The third woman in LPGA history to surpass
+  the $1 million mark in single-season earnings,
+  she took a long, hard look at balancing a 
+  professional athletic career and motherhood,
+  and came out a champ at both.
+{m}
+~
+67633218 1073742336 0 S
+20 -90 3 800d1+15 7d8+4
+15000 1000
+8 8 2
+D 20
+A 12
+#614
+Kelly Robbins~
+{MAG,BO}Kelly Robbins{mag,bo}~
+{MAG,BO}Kelly Robbins takes a nice, smooth swing.{mag,bo}
+~
+{M,BO}
+  The smooth, natural and yet powerful hand
+  action is a Robbins' trademark. She is the 
+  one player on the LPGA Tour with a swing 
+  closest to that of PGA Tour star Fred 
+  Couples, simple, smooth, seemingly slow 
+  and yet generating tremendous power. 
+{m,bo}
+~
+67633218 1073742336 350 S
+25 10 1 900d1+25 7d7+4
+10000 35650
+8 8 2
+D 20
+A 12
+#615
+Laura Diaz~
+{CY,BO}Laura Diaz{cy,bo}~
+{CY,BO}Laura Diaz captures your heart as she conquers the game.{cy,bo}
+~
+{C,BO}
+  "I think that as much as it's been
+   talked about, all of my seconds, 
+   no victories yet-the question, 
+  'When are you going to get a victory?' 
+   I got a victory. The question is over.
+   That's a great feeling to have that 
+   pressure off," said Diaz of her first
+   title.
+{c,bo}
+~
+67633218 1073742336 350 S
+25 10 1 875d1+20 9d6+4
+10000 35650
+8 8 2
+D 20
+A 12
+#616
+Se Ri Pak~
+{Y}Se Ri Pak{y}~
+{Y}Se Ri Pak takes her place on the LPGA Tour.{y}
+~
+
+{Y}
+  Pak began playing golf at the age of 14 and 
+  won 30 tournaments in Korea as an amateur. She 
+  turned professional in 1996 and was a member
+  of the KLPGA in 1996 and 1997. Pak qualified 
+  for the LPGA Tour on her first attempt, tying
+  for first in the final qualifying event.  Pak 
+  was named the 1998 Rolex Rookie of the Year.  
+{y}
+~
+67633218 1073742336 350 S
+25 10 1 900d1+20 8d8+3
+10000 35650
+8 8 2
+D 20
+A 12
+#617
+Hee-Won Han~
+{WH,BO}Han Hee-won{wh,bo}~
+{WH,BO}Han Hee-won enjoys the game.{wh,bo}
+~
+{W,BO}
+  South Korea's Han Hee-won has become the third
+  Korean golfer in four years to capture the U.S.
+  LPGA Rolex Rookie of the Year title. The 23
+  year-old Han was also crowned rookie of the 
+  year on the Japanese LPGA Tour in 1998. 
+{w,bo}
+~
+524354 1073742336 0 S
+12 -110 2 35d25+15 4d6+2
+15000 1000
+8 8 2
+D 20
+A 12
+#618
+Cart Golf~
+{WH}A Golf Cart{wh}~
+{WH}A Golf Cart{wh} {GR,BO}waits patiently to serve you.{gr,bo}
+~
+
+{WH}
+            ________
+  {wh}{GR,BO}BEEP{gr,bo}{WH}      | |   ||
+   {wh}{GR,BO}BEEP{gr,bo}{WH}  ___|_|   ||_
+        |o_   '---' _|_
+        `(_)-------(_)''
+{wh}
+            
+~
+17563648 1090519080 0 S
+5 10 7 15d15+5 2d3+2
+0 1000
+8 8 0
+S 134217728
+R 64
+D 20
+A 12
+#619
+Guppie~
+{Y,BO}A {R}T{BLU}i{GR}n{WH}y {MAG}G{CY}u{Y}p{R}p{BLU}i{GR}e{gr,bo}~
+{Y,BO}A {R}T{BLU}i{GR}n{WH}y {MAG}G{CY}u{Y}p{R}p{BLU}i{GR}e{gr,bo} {CY}swims around you.{cy}
+~
+ {Y,BO}
+                           GGG 
+             GGG              GGGGG
+               GGG       GGGGGGGGGGGGGGG
+                GGGG   GGGGGGGGGGGGGGGGGGG
+                  GGGGGGGGGGGgGGGGGGGG{y}{R}g{Y,BO}GGGG
+                  GGGGGGGGGGGGggGGGGGGGGGGGg
+                  GGGGGGGGGGGGgggGGGGGGGGGG
+                GGGG   GGGGGGGggGGGGGGGGGG
+               GGG        GGGGGGGGGGGGGGG
+             GGG              GGGGG
+                             GGG
+{y,bo}
+~
+524354 1074266668 0 C 4
+4 -40 9 20d30+15 3d4+3
+0 1687500
+8 8 0
+D 20
+A 12
+#620
+reporter~
+{MAG}An ESPN Reporter{mag}~
+{MAG}An ESPN Reporter interviews everyone in sight...What a pain!{mag}
+~
+{MAG}
+  This scrawny wimp wanders from person to person
+  shoving a microphone in their faces asking questions
+  that prove he knows very little of the game. Perhaps,
+  he should try talking to the pros and not to the crowd.
+{mag}
+~
+2215116864 1073741824 0 S
+15 -60 3 15d1+5 1d1+1
+5 1000
+8 8 1
+D 20
+A 12
+#621
+Tadpole~
+{GR}A chubby lil Tadpole{gr}~
+{GR}A chubby lil Tadpole {BL,BO}with two legs bobs about the water.{bl,bo}
+~
+{GR,BO}
+ 
+                       
+                   _.-`/`-._
+                 _/         \_     
+               _/  {WH}/{BLU}O{WH}\   /{BLU}O{WH}\ {GR} \_   
+             _/    {WH}`-'   `-'{GR}    \_
+           _/_|      ___        |_\_
+           /' \   .-'   `-._    / '\
+               \   `-.___.--`  /
+                "-._       _.-"
+                    "-._.-"
+ 
+{gr,bo}
+ 
+~
+524354 1073742336 0 S
+5 -60 7 25d25+15 3d3+4
+4000 10000000
+8 8 0
+D 20
+A 12
+#622
+Amateur Golfer~
+{CY,BO}An Amateur Golfer{c,bo}~
+{CY,BO}An Amateur Golfer scoffs at your newbie-style swing.{c,bo}
+~
+{C,BO}
+  Out to improve his swing, this amateur golfer almost
+  lives on the course. Someday, he may advance to the
+  professionals. BUT for now, he's not much better 
+  than you are. Only thing that he has on you is a bad
+  attitude.
+{c,bo}
+~
+268959808 1073741824 350 S
+25 0 1 520d1+14 3d6+4
+10000 200000
+8 8 0
+D 20
+A 12
+#623
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#624
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#625
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#626
+robber  jewel thief~
+{WH}A {BL,BO}J{WH}e{BL,BO}w{WH}e{BL,BO}l {WH}T{BL,BO}h{WH}i{BL,BO}e{WH}f{bl,bo}~
+{WH}A {BL,BO}J{WH}e{BL,BO}w{WH}e{BL,BO}l {WH}T{BL,BO}h{WH}i{BL,BO}e{WH}f{bl,bo} {WH}sneaks through the room.{wh}
+~
+{WH,BO}
+  He doesn't see you. You're quite sure of that.{BL,BO}
+  For if he did, you'd probably not survive. He{WH}
+  seems to be hiding from something, though you{BL,BO}
+  aren't quite sure just what. Holding tightly{WH}
+  to his black leather jacket, you begin to{BL,BO} 
+  realize this is the famous Midgaardian jewel{WH}
+  thief. If you capture him, there is a great{BL,BO}
+  reward(his stolen jewels).
+{wh}
+~
+540692 1073741824 0 C 3
+1 -95 5 200d40+1 4d4+135
+0 30000000
+8 8 1
+S 524288
+D 20
+A 12
+$~

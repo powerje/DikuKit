@@ -1,0 +1,32 @@
+#382
+{GREEN,BOLD}Area 51{green,bold}(Berot)~
+38299 600 2
+*
+X 224244
+D 0 38200     0     0    (N:OPEN) {BLACK,BOLD}The Front Gates{black}
+D 0 38201     2     0    (S:OPEN) {BLACK,BOLD}The Main Access Road{black}
+D 0 38205     3     2    (W:LOCKED) {BLACK,BOLD}The Main Access Road{black}
+O 0 38202     2 38226    an oversized key
+D 0 38226     1     2    (E:LOCKED) {GREEN,BOLD}Paymaster's Office{green}
+O 0 38201     2 38230    a key to the supply closet
+D 0 38230     1     2    (E:LOCKED) * Supply Office
+O 0 38200     2 38232    the doctors key
+D 0 38232     1     2    (E:LOCKED) * Aid Station
+D 0 38233     3     2    (W:LOCKED) * Medical Supply Cabinet
+D 0 38234     3     2    (W:LOCKED) * Paymaster's Vault
+D 0 38235     3     2    (W:LOCKED) * Supply Closet
+D 0 38244     2     0    (S:OPEN) {MAGENTA}The Mess Hall{magenta}
+D 0 38245     1     0    (E:OPEN) {MAGENTA}The Mess Hall{magenta}
+D 0 38246     0     0    (N:OPEN) *Kitchen
+D 0 38246     3     0    (W:OPEN) *Kitchen
+D 0 38249     0     0    (N:OPEN) {WHITE}The Post Gymnasium {YELLOW}Locker Room{yellow}
+D 0 38250     1     2    (E:LOCKED) {BLACK,BOLD}Weapon Armoury{black}
+O 0 38207     1 38299    {GR,BO}A {BL}R{YE}a{BL}D{YE}i{BL}O{YE}a{BL}C{YE}t{BL}I{YE}v{BL}E{GR} power supply{green}
+O 0 38206     1 38299    a light refracting cloak
+O 0 38205     1 38299    {BLACK,BOLD}the speed of {YELLOW}light{yellow}
+O 0 38204     1 38299    {CYAN,BOLD}h{WHITE}V{BLUE}g{YELLOW}T{RED}h{MAGENTA}F{magenta}
+O 0 38203     1 38299    an oversized key
+O 0 38202     2 38299    an oversized key
+O 0 38201     2 38299    a key to the supply closet
+O 0 38200     2 38299    the doctors key
+$~

@@ -1,0 +1,263 @@
+#6502
+deep green key~
+a key~
+There is a deep {GREEN}green{green} key lying here.~
+~
+18 65536 0 1
+6502 0 0 0
+1 0 1000000
+#6503
+key bright gold~
+a bright golden key~
+There is a bright {YELLOW}golden{yellow} key lying here.~
+~
+18 65536 0 1
+6503 0 0 0
+1 900 1000000
+#6504
+hammer dwarven~
+a hammer~
+There is a dwarven hammer laying here.~
+pummel~
+5 0 0 8193
+0 2 6 7
+3 5500 2000
+C
+7000 2
+#6505
+plate dwarven~
+{Y}Dwarven Plate-Mail{y}~
+There is dwarven plate mail laying here.~
+~
+9 0 1114112 9
+13 0 0 0
+4 5500 2000
+A
+19 3
+A
+18 3
+C
+7000 1
+#6506
+stick~
+long, black stick~
+There is a long, black stick lying here.~
+~
+3 0 0 16385
+15 3 3 28
+4 54464 5000
+#6507
+stick~
+long, black stick~
+There is a long, black stick here.~
+~
+1 0 0 16385
+0 0 0 4
+1 1 1
+#6508
+club~
+dwarven club~
+There is a dwarven club laying here.~
+~
+5 0 0 8193
+0 2 6 3
+1 3000 1000
+C
+7000 1
+#6509
+axe two-handed dwarven~
+a two-handed dwarven axe~
+A two-handed Dwarven axe is here.~
+slices~
+5 64 0 8193
+0 2 7 3
+5 5000 2000
+A
+18 2
+A
+1 2
+C
+7000 2
+#6510
+helmet~
+{Y}a dwarven helmet{y}~
+A dwarven helmet is here.~
+~
+9 0 0 17
+9 0 0 0
+4 2500 1000
+A
+19 2
+A
+13 25
+B
+262144
+C
+7000 1
+#6511
+ring dwarven~
+{Y}the {W}ancient{Y}{BOLD} golden {bol}{Y}ring of the {Y}Dwarves{r}~
+A large dwarven ring has been blessed by the Gods of NC lays here.~
+~
+9 4099 134218752 3
+0 7000 0 0
+1 10000 8000
+B
+67371016
+L
+1
+C
+7000 2
+#6512
+gloves~
+{BLACK}a pair of {Y}dwarven{y}{BLACK} gloves{black}~
+Thick dwarven gloves lay here.~
+~
+9 0 0 129
+4 0 0 0
+2 4000 2000
+A
+13 30
+A
+17 -5
+C
+7000 2
+#6513
+note~
+a note~
+A crumpled note is here.~
+~
+12 0 0 1
+0 0 0 0
+0 0 0
+E
+note letter letters~
+  This note seems of utmost importance, as it has the stamp of the
+  Queen on it!  It says:
+    To Anyone,
+      I have lost my birth control pills, and I will reward anyone who
+      finds them.  Without them I will have many unwanted children.
+      You should be able to find the keys (YES, KEYS) to the castle,
+      since none of my servants fight for anything anymore, and one
+      of them should be around the store room, where I lost it, so
+      examine the area CAREFULLY since the dust is very thick there.
+      But who cares about fighting?  I'm a lover, not a fighter.
+       The last time I saw the other key was on a barrack dwarf.
+  Signed, The Queen.
+  PS When you find them, tell Depeche, and he will reward your hard
+     work.  You must have all the keys necessary to obtain it, also.
+~
+#6514
+key castle~
+a castle key~
+There is a key to Strangelove Castle here.~
+~
+18 65536 0 1
+0 0 0 0
+0 10 1000000
+#6515
+tattoo blood~
+a pair of magic boots~
+There is a pair of magic boots here.~
+~
+9 4160 0 65
+8 0 0 0
+1 5000 2000
+A
+18 2
+A
+1 2
+C
+7000 2
+#6516
+key mine~
+a mine key~
+There is a key to the mines here.~
+~
+18 65536 0 1
+0 0 0 0
+0 10 1000000
+#6517
+tattoo miners~
+A miners tattoo~
+A tattoo covered in coal is here, lying unnoticed.~
+~
+9 0 0 524289
+8 0 0 0
+100 19999 1000000
+A
+18 2
+C
+7000 1
+#6518
+pick~
+a mining pick~
+There is a mining pick here.~
+picks~
+5 256 0 8193
+0 2 3 11
+1 300 100
+E
+pick~
+It looks almost blessed!
+~
+C
+7000 2
+#6519
+box birth control pills~
+{YELLOW,BOLD}A box of{YELLOW,BOLD} Birth{WHITE} C{YELLOW}ontro{WHITE}l {YELLOW}Pills{red}~
+There is a box of birth control pills here.~
+~
+15 2147483648 0 16385
+400 0 0 0
+1 300 15
+E
+birth control pills pill~
+They are in a circular container, and there are numbers corresponding
+to the day that they are to be taken.  You can tell they haven't been
+used for a while.
+~
+#6520
+poster~
+a poster~
+There is a very large poster here, and you better read it!
+~
+~
+12 0 0 0
+0 0 0 0
+0 0 0
+E
+sign poster letters~
+The sign says:
+              WELCOME TO THE DWARVEN KINGDOM !!!!!
+   There are some fun things in here, and if you can't figure them out,
+   DO NOT ask a god.  There is a quest involved within here, and your
+   first hint is that a dwarf in the barracks is your first clue.  He
+   is not willing to share in the prize, so you may have to kill him
+   for it.  When you complete the quest, you will be richly rewarded!
+   Don't think that it is easy, because it is NOT.  Contact one of the
+   Committee Memebers (excluding Zapper - he doesn't care ;) when you
+   have finished the quest, or leave a message on the board.
+   PS If you find any bugs, please report them.
+~
+#6550
+key old~
+an old key~
+Some one seems to have dropped an old key.~
+~
+18 65600 0 1
+6550 0 0 0
+1 0 100000
+#6551
+beltpack~
+{Y}{BOLD}a sturdy{bold}{Y} =={Y}{BOLD}"[{R}X{r}{Y}{BOLD}]"{bold}{Y}=={Y}{BOLD} beltpack{y}~
+A Texas A&M beltpack has been left here~
+~
+15 4096 0 2049
+150 5 0 0
+5 5000 700
+A
+27 1
+A
+14 100
+$~

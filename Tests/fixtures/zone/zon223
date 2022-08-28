@@ -1,0 +1,144 @@
+#223
+mk(Helsing)~
+22399 100 2
+*
+X 10432
+D 0 22300     0     1    (N:CLOSED) Gates to Mortal Kombat
+D 0 22301     2     1    (S:CLOSED) Realm of The Brave
+M 0 22309     2 22304    The Abominable Snowman
+M 0 22309     2 22304    The Abominable Snowman
+E 1 22309     2    17    (HELD) An Ice Pick
+D 0 22304     3     2    (W:LOCKED) Before the Freezer
+M 0 22300     1 22305    Subzero
+E 1 22301     2     2    (FINGER) {CY}The {CY}{BOLD}Ring{cy}{C} of {W}{W}{BOLD}Frost{w}{bold}
+G 1 22320    48     0    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+D 0 22305     1     2    (E:LOCKED) LAIR OF SUBZERO
+D 0 22306     0     0    (N:OPEN) Cavern of Lost Souls
+D 0 22306     1     1    (E:CLOSED) Cavern of Lost Souls
+M 0 22320     1 22307    The Grim Reapper
+D 0 22307     3     1    (W:CLOSED) Purgatory Chamber
+D 0 22307     4     0    (U:OPEN) Purgatory Chamber
+D 0 22307     5     1    (D:CLOSED) Purgatory Chamber
+D 0 22309     5     0    (D:OPEN) On A Rocky Platform
+M 0 22314     1 22310    Gorgon
+E 1 22317     1    17    (HELD) The lava key
+D 0 22310     1     2    (E:LOCKED) Right Outside The Gates of Hell
+D 0 22311     3     2    (W:LOCKED) Road to the Underworld
+D 0 22316     0     1    (N:CLOSED) On The Path to Jail
+D 0 22316     2     1    (S:CLOSED) On The Path to Jail
+M 0 22315     2 22317    The Baliff
+E 1 22314     2    17    (HELD) Key#1
+D 0 22317     3     2    (W:LOCKED) Entrance to the Jail
+M 0 22310     1 22318    Kano
+E 1 22310     3     6    (HEAD) {W}The Mask of K{w}{R}a{r}{W}no{w}
+G 1 22320    48     0    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+D 0 22318     1     2    (E:LOCKED) Inside the Cell
+D 0 22319     0     1    (N:CLOSED) Path to Jail
+D 0 22319     2     1    (S:CLOSED) Path to Jail
+M 0 22315     2 22320    The Baliff
+E 1 22315     2    17    (HELD) Key#2
+D 0 22320     1     2    (E:LOCKED) Entrance to the Jail
+M 0 22311     1 22321    Sonya
+E 1 22311     2    17    (HELD) The Bone Key
+G 1 22320    48     0    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+D 0 22321     3     2    (W:LOCKED) Inside the Cell of Sonya
+D 0 22322     2     1    (S:CLOSED) House of the Underworld
+M 0 22327     9 22323    The Watch Dog
+M 0 22327     9 22323    The Watch Dog
+M 0 22327     9 22323    The Watch Dog
+D 0 22323     0     1    (N:CLOSED) House of the Underworld
+M 0 22327     9 22324    The Watch Dog
+M 0 22327     9 22324    The Watch Dog
+M 0 22327     9 22324    The Watch Dog
+D 0 22324     2     1    (S:CLOSED) House of the Underworld
+M 0 22327     9 22325    The Watch Dog
+M 0 22327     9 22325    The Watch Dog
+M 0 22327     9 22325    The Watch Dog
+D 0 22325     0     1    (N:CLOSED) House of the Underworld
+D 0 22328     0     2    (N:LOCKED) Before the Gates of the Underworld Realm
+D 0 22329     2     2    (S:LOCKED) At the Base of the Mountain
+M 0 22306     1 22331    Baraka
+G 1 22320    48     0    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+M 0 22318     1 22334    The Smoke Dragon
+M 0 22317     1 22335    Smoke
+G 1 22320    48     0    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+D 0 22337     2     0    (S:OPEN) Cavern of Lost Souls
+D 0 22338     3     1    (W:CLOSED) Before the Den of the Scorpion
+D 0 22340     1     1    (E:CLOSED) Cavern of Lost Souls
+M 0 22316     1 22345    The Guardian
+G 1 22316     1     0    The Closet Key
+D 0 22345     0     2    (N:LOCKED) A Yellow Bedroom
+M 0 22305     1 22346    Scorpion
+G 1 22305     1     0    {Y,BO}Sc{y,bo}{B,BO}or{b,bo}{Y,BO}pi{y,bo}{B,BO}on{b,bo}{Y,BO}'s{y,bo} {W}Harpoon{w}
+D 0 22346     2     2    (S:LOCKED) Inside the Closet
+M 0 22308     1 22349    Mileena
+G 1 22320    48     0    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+M 0 22307     1 22350    Kitana
+E 1 22307     1    17    (HELD) {BLU,BO}Fan{blu,bo} {BLU}of D{blu}{CY}efe{cy}{W}nse{w}
+G 1 22320    48     0    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+M 0 22312     1 22351    NoobSaibot
+E 1 22318     2    17    (HELD) The Bloody Key
+D 0 22352     0     2    (N:LOCKED) Before the Great Gates of The Underworld Castle
+D 0 22353     2     2    (S:LOCKED) Inside the Great Hallway of the Underworld
+D 0 22354     0     0    (N:OPEN) Inside the Great Hallway of the Underworld
+D 0 22355     2     0    (S:OPEN) The Dining Room
+D 0 22355     5     1    (D:CLOSED) The Dining Room
+M 0 22323    14 22356    The Demon
+M 0 22323    14 22356    The Demon
+M 0 22323    14 22356    The Demon
+M 0 22323    14 22356    The Demon
+M 0 22323    14 22356    The Demon
+D 0 22356     4     1    (U:CLOSED) A Dark Cavern
+M 0 22323    14 22357    The Demon
+M 0 22323    14 22357    The Demon
+M 0 22323    14 22357    The Demon
+M 0 22323    14 22357    The Demon
+M 0 22323    14 22358    The Demon
+M 0 22323    14 22358    The Demon
+M 0 22323    14 22360    The Demon
+M 0 22323    14 22361    The Demon
+M 0 22323    14 22366    The Demon
+D 0 22371     4     1    (U:CLOSED) A Dark Cavern
+M 0 22321     1 22372    The Keeper of the Gates
+E 1 22319     1    17    (HELD) Dragon Key
+G 1 22320    48     0    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+D 0 22372     3     2    (W:LOCKED) The Armory
+D 0 22372     5     1    (D:CLOSED) The Armory
+D 0 22373     1     2    (E:LOCKED) Before the Bridge of Faith
+M 0 22303     1 22385    Goro
+E 1 22303     2    13    (WAIST) {R}The{r} {B}Belt of{b} {R}Goro{r}
+G 1 22320    48     0    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+M 0 22302     1 22386    ShangTsung
+E 1 22302     2    12    (ABOUT) {B}The Robe of{b} {Y}S{y}{B}hang{b}{Y}T{y}{B}sung{b}
+G 1 22320    48     0    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+M 0 22304     1 22387    Kintaro
+E 1 22304     1     3    (NECK) {R,BO}The Spiked{r,bo} {W,BO}Collar{w,bo} {R,BO}of Kintaro{r,bo}
+G 1 22320    48     0    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+D 0 22387     1     2    (E:LOCKED) Before the Throne of Shao Kahn
+M 0 22301     1 22388    ShaoKahn
+E 1 22300     3    16    (WIELD) {R}The {BO,W}Spear{w} {R}of the{w} {BO,BLA,U}Underworld{w}
+D 0 22388     3     2    (W:LOCKED) Throne Room of the Mighty Shao Kahn
+D 0 22388     5     1    (D:CLOSED) Throne Room of the Mighty Shao Kahn
+O 0 22320    48 22399    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+O 0 22320    48 22399    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+O 0 22320    48 22399    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+O 0 22320    48 22399    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+O 0 22320    48 22399    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+O 0 22320    48 22399    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+O 0 22320    48 22399    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+O 0 22320    48 22399    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+O 0 22320    48 22399    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+O 0 22320    48 22399    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+O 0 22320    48 22399    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+O 0 22320    48 22399    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+O 0 22320    48 22399    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+O 0 22320    48 22399    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+O 0 22320    48 22399    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+O 0 22320    48 22399    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+O 0 22320    48 22399    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+O 0 22320    48 22399    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+O 0 22320    48 22399    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+O 0 22320    48 22399    {W}{BOLD}({R}+{W}){CY} Mortal Medicine {W}({R}+{W}){w}
+O 0 22306     1 22399    {R,REV}Fists of Mortal Kombat{r,rev}
+D 0 22399     4     1    (U:CLOSED) Treasure Vault
+$~

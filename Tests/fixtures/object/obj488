@@ -1,0 +1,570 @@
+#48800
+door portal~
+{G}A green wooden door{g}~
+{G}Right in front of you is a green wooden door.{g}~
+~
+27 0 0 0
+48899 0 0 0
+1 1 1
+E
+door portal~
+{G}
+            __________
+           |  __  __  |
+           | |  ||  | |
+           | |  ||  | |
+           | |__||__| |
+           |  __  __()|
+           | |  ||  | |
+           | |  ||  | |
+           | |  ||  | |
+           | |  ||  | |
+           | |__||__| |
+           |__________|
+{g}
+~
+#48801
+honey~
+{Y,BO}HONEY!{y,bo}~
+{Y,BO}Honey drips from the comb creating a giant pool of honey at the bottom of the hive.{y,bo}~
+~
+27 0 0 0
+48818 0 0 0
+1 1 1
+E
+honey~
+{Y,BO}
+  Ooo! HoNeY! LoTs Of GoLdEn HoNeY!
+       YuMmY fOr ThE tUmMy!
+{y,bo}
+~
+#48802
+hive~
+{Y,BO}A Hive{y,bo}~
+{Y,BO}The hunny hive sits high in a branch.{y,bo}~
+~
+27 0 0 0
+48819 0 0 0
+1 1 1
+E
+hive~
+{Y,BO}
+                     |
+                     ^
+                    ***
+                   **O**
+                   *****
+                    ***
+{y,bo}  
+~
+#48803
+HoneyPot pot jar~
+{Y}Ho{Y,BO}ney P{y,bo}{Y}ot{y}~
+{G}One of {R,BO}Pooh{r,bo}{G}'s {Y}Ho{Y,BO}ney P{y,bo}{Y}ots{G} sits here.{g}~
+~
+15 2147483648 0 33554449
+325 0 0 0
+10 5000 1
+E
+HoneyPot pot jar~
+{Y,BO}
+                HONEYPOTHONEYPOT{y,bo}{Y}
+                 HONEYPOTHONEYP{C}
+               OTHONEYPOTHONEYPOT
+              HONEYPOTHONEYPOTHONE
+              YPOTHONEYPOTHONEYPOT
+              HONEYPOT{Y,BO}HONEY{y,bo}{C}POTHONE
+               YPOTHONEYPOTHONEYP
+                OTHONEYPOTHONEYP
+                 OTHONEYPOTHONE
+                  YPOTHONEYPOT
+{c}
+~
+#48804
+honeycomb comb honey food~
+{Y}A {Y,BO}h{y,bo}{Y}o{Y,BO}n{y,bo}{Y}e{Y,BO}y{y,bo}{Y}c{Y,BO}o{y,bo}{Y}m{y,bo}{Y,BO}b{y,bo}~
+{Y}A {Y,BO}h{y,bo}{Y}o{Y,BO}n{y,bo}{Y}e{Y,BO}y{y,bo}{Y}c{Y,BO}o{y,bo}{Y}m{Y,BO}b{y,bo}{Y} drips {Y,BO}golden{y,bo}{Y} honey on your shoe.{y}~
+~
+19 0 0 1
+2 0 0 0
+1 1 1
+E
+honeycomb comb honey food~
+{Y}
+  /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+  \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+  /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\{Y,BO}
+  \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+  /\/\/\/\/\/\/\/\/\/\/\/\/\/\       )
+    Drip! Drip! Oh, honey is  (      ) 
+    yummy for your tummy!       (   )
+                                  ()
+{y,bo}
+~
+A
+14 4
+#48805
+carrot crunchy~
+{Y,BO}A crunchy carrot{y,bo}~
+{GR}A crunchy carrot grows beneath the leafy greens.{g}~
+~
+10 0 0 1
+50 28 28 28
+1 45000 1
+E
+carrot crunchy~
+{Y,BO}
+  A long crisp green leaf with a plump orange
+  carrot grows larger and larger with each
+  passing day.
+{y,bo}
+~
+#48806
+milk box~
+{WH,BO}A Milk Box{w,bo}~
+{WH,BO}A Milk Box{w,bo}~
+~
+15 0 0 0
+50 5 0 0
+1 1 1
+E
+milk box~
+{W,BO}
+  A tin box with a flip top lid labelled 'MILK'
+  sits by the mud room door. Every Wednesday and
+  Saturday the milkman stops by and leaves a few
+  bottles of fresh milk.
+{w,bo}
+~
+#48807
+milk bottle~
+{W,BO}A bottle of soy milk{w,bo}~
+{W,BO}An fresh bottle of soy milk sits here.{w,bo}~
+~
+17 0 0 1
+150 150 18 0
+2 1 1
+E
+milk bottle~
+{W,BO}
+  Nothing is better for you than a bottle of
+  chilled soy milk. It's refreshing and delicious.
+{w,bo}
+~
+#48808
+shirt red pooh~
+{Y}{BOLD}Winnie{bold}{Y} the {y}{BOLD}{Y}Pooh's{R}{BOLD} Red Shirt{r}~
+{R,BO}If Winnie the Pooh's red shirt is here, where is Pooh Bear?{r,bo}~
+~
+9 2147487744 0 9
+15 0 0 0
+5 10903 1
+E
+shirt red pooh~
+{R,BO}
+  Hmmm... not much to look at. This shirt is
+  red and a bit stretched out. There aren't 
+  any stripes or fancy patterns. It's just
+  a plain red shirt. BUT it was Pooh's favourite
+  red shirt.
+{r,bo}
+~
+A
+19 5
+A
+18 6
+B
+67108992
+L
+5
+C
+7000 1
+G
+50
+M
+35
+#48809
+springs tigger~
+{R,BO}T{BL}i{R}G{BL}g{R}E{BL}r {R}S{BL}p{R}R{BL}i{R}N{BL}g{R}S{r,bo}~
+Some {R,BO}T{BL}i{R}G{BL}g{R}E{BL}r {R}S{BL}p{R}R{BL}i{R}N{BL}g{R}S{r,bo} bounce along.~
+~
+9 2148536320 0 65
+5 0 0 0
+3 25600 1
+E
+springs tigger~
+{R,BO}
+  *BOUNCY*
+{R,BO}
+         *TROUNCY*
+{R,BO}
+                 *POUNCY*
+{R,BO}
+                        *FLOUNCY*
+{R,BO} 
+            FUN! FUN! FUN! FUN! FUN!
+{R,BO}
+  With this set of springs you'll be pouncing like a tigger in no time.
+{r,bo}
+~
+A
+19 4
+A
+18 7
+B
+268437504
+L
+10
+C
+7000 2
+#48810
+tail piglet~
+{MAG}{BOL}Piglet's tail{mag}{bold}~
+{W}A maimed tail... looks like Piglet's.{w}~
+~
+9 2147487744 0 2049
+15 0 0 0
+1 33229 1
+E
+tail piglet~
+{W}
+  It's a little pink curl. Piglet's tail is a 
+  wonderful prize! It should be displayed where
+  all can see it. What's that? You don't have a
+  tail of your own? Well then! That's even more
+  perfect. Tie is around your waist and wear it
+  as your own!
+{w}
+~
+A
+18 8
+A
+2 2
+B
+33554432
+L
+5
+C
+7000 2
+#48811
+beak owl wise old~
+{Y,BO}Owl's beak{bl,bo}~
+{Y,BO}A sharp pointed yellow beak has fallen here.{y,bo}~
+~
+9 2147487744 0 17
+12 0 0 0
+1 50345 1
+E
+beak owl wise old~
+{Y,BO}
+  Wise old Owl sits with his beak held high, Owl
+  imparts wisdom to his friends even when he
+  isn't quite certain he is correct. I wonder 
+  who was wise enough to outsmart him. He may 
+  gone but his beak has some life left in it.
+{y,bo}
+~
+A
+18 4
+A
+12 75
+B
+268435456
+L
+5
+C
+7000 2
+M
+15
+#48812
+balloon bunch balloons~
+A bunch of {Y,BO}b{BLU}a{R}l{G}l{C}o{M}o{Y}n{R}s{r,bo}~
+Before you is a bunch of {Y,BO}b{BLU}a{R}l{G}l{C}o{M}o{Y}n{R}s{r,bo} weighted by a rock.~
+~
+9 2147483648 0 257
+5 7000 0 0
+1 500 1
+E
+balloon bunch balloons~
+{G}
+  Large, round, colourful {Y,BO}b{BLU}a{R}l{G}l{C}o{M}o{Y}n{R}s{r,bo}{G} decorate the forest floor.
+  These balloons are part of the Pooh Strategic Gotta-Get-Hunny
+  program. One day the bees will smarten up and go right for 
+  the balloon!
+{g} 
+  
+  
+~
+A
+19 5
+A
+17 -5
+B
+16777216
+C
+7000 5
+M
+35
+#48813
+tack~
+{C}A Tack{c}~
+{C}If this is the tack, where's Eeyore's tail?{c}~
+~
+5 2147487744 0 8193
+2 10 6 5
+2 59382 1
+E
+tack~
+{C}
+  Here lies the tack which once held
+  poor Eeyore's tail in its proper place. 
+  What will Eeyore do without his tail
+  and without a tack to hold it on?
+{c}
+~
+A
+19 3
+A
+18 6
+L
+5
+C
+7000 2
+#48814
+pants hide kanga~
+{Y,BO}A pair of Kanga Hide Pants{y,bo}~
+{Y,BO}A pair of perfectly stitched Kanga Hide Pants is folded neatly here.{y,bo}~
+~
+9 2147487744 0 33
+12 0 0 0
+1 1 1
+E
+pants hide kanga~
+{Y,BO}
+  These pants are made of the softest hide
+  you've ever felt. So warm and cozy, these
+  pants will protect you from the water, cold
+  and winds of this harsh world.
+{y,bo}
+~
+A
+19 5
+A
+18 4
+B
+67108864
+L
+10
+C
+7000 1
+M
+30
+#48815
+wheelbarrow cart~
+{C,BO}An Freshly Painted Wheelbarrow{c,bo}~
+{C,BO}A freshly painted Wheelbarrow topped with carrots sits in the garden.{c,bo}~
+~
+15 1 0 0
+200 0 0 0
+1 1 1
+E
+wheelbarrow cart~
+{C,BO}
+  This wheelbarrow looks like it's more for show than
+  use. Not a speck of dust or dirt on the wheels or 
+  painted wooden sides. A mountain of carrots spills
+  over the sides of the wheelbarrow.
+{c,bo}
+~
+#48816
+book~
+{C,BO}When We Were Very Young{c,bo}~
+{G}Books are the key to a child's imagination!{g}~
+~
+18 0 0 1
+0 0 0 0
+1 1 1
+E
+book~
+{C,BO}
+  When We Were Very Young
+           by
+        A.A. Milne
+{c,bo}
+~
+#48817
+key~
+{R,BO}A master key{r,bo}~
+{R,BO}Looks like Dad lost his key!{r,bo}~
+~
+18 65536 0 1
+0 0 0 0
+1 1 1
+E
+key~
+{R,BO}
+  Just your ordinary, everyday key on a 
+  small silver ring sits there. Wonder
+  what it's good for?
+{r,bo}
+~
+#48818
+quilt hand-stitched hand stitched~
+{BLU,BO}A h{R}an{Y}d-{G}st{W}it{BLU}ch{R}ed{Y} q{G}ui{W}lt{w,bo}~
+Mom hands you {BLU,BO}a h{R}an{Y}d-{G}st{W}it{BLU}ch{R}ed{Y} q{G}ui{W}lt{w,bo}.~
+~
+9 2215645184 0 1025
+15 0 0 0
+15 13044 1
+E
+quilt hand-stitched hand stitched~
+{BLU,BO}
+  The equisite patch work and needle
+  poin{R}t on{Y} thi{G}s qu{W}ilt {BLU}remi{R}nds {Y}yo{BLU,BO}u of 
+  your{Y} o{G}wn m{W}othe{BLU}r. H{R}owev{Y}er, {G}this{BLU,BO} quilt
+  was {G}hand{W}-sti{BLU}tche{R}d by{Y} Chr{G}isto{W}ph{BLU,BO}er's
+  mom.{W} I{BLU}t si{R}ts a{Y}t th{G}e fo{W}ot o{BLU}f hi{BLU,BO}s bed
+  and {BLU}keep{R}s hi{Y}m wa{G}rm on{W} coo{BLU}l ni{R}g{BLU,BO}hts.
+  Ever{R}y {Y}week{G} mom{W} was{BLU}hes{R} the{Y} qui{G}l{BLU,BO}t and
+  hang{Y}s it{G} to {W}dry {BLU}on t{R}he l{Y}ine {G}ou{BLU,BO}tside
+  the {G}mud {W}room{BLU} giv{R}ing {Y}it t{G}hat {W}sc{BLU,BO}ent 
+  that reminds Christopher that his
+  mom loves him. 
+{blu,bo}
+~
+A
+13 85
+A
+12 85
+B
+67108864
+L
+10
+C
+7000 1
+#48819
+cupboard~
+{W,BO}A Cupboard{w,bo}~
+{W,BO}The cupboard is neatly stocked.{w,bo}~
+~
+15 0 0 0
+200 15 48817 0
+1 1 1
+E
+cupboard~
+{W,BO}
+  A clean white cupboard is filled with Rabbit's 
+  most precious possessions. 
+{w,bo}
+~
+#48820
+carrot golden~
+{Y,BO}A Golden Carrot{y,bo}~
+{Y,BO}A Golden Carrot shimmers on the cupboard shelf.{y,bo}~
+~
+20 0 0 1
+10000000 0 0 0
+1 1 1
+E
+carrot golden~
+{Y,BO}
+  The squatty carrot guilded in gold doesn't
+  look like much more than a family heirloom.
+{y,bo}
+~
+#48821
+tooth jagular ring~
+{W,BO}The {Y}Tooth{W} of the {bo,R}J{Y}a{R}gu{Y}l{R}ar{r}~
+{W,BO}The {Y}Tooth{W} of the {bo,R}J{Y}a{R}gu{Y}l{R}ar{W,BO} collects dust.{w,bo}~
+~
+9 2147487744 0 3
+6 0 0 0
+1 1 1
+E
+tooth jagular ring~
+{Y,BO}
+  This ring has been fashioned from the tooth
+  of a Jagular. The fat part of the tooth fits
+  nicely around a ring finger and the tip of the
+  tooth is set like a diamond with the point up.
+{y,bo}
+~
+A
+13 75
+A
+19 5
+B
+8192
+L
+5
+C
+7000 1
+G
+45
+M
+35
+#48822
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#48823
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#48824
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#48825
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#48826
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#48827
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#48828
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#48829
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+$~

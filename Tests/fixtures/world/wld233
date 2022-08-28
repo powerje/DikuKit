@@ -1,0 +1,2737 @@
+#23300
+{R}Demnos' Private Sanctum{g}~
+{B}   You are standing within the gates of a small but impressive looking {g}
+{B}temple. You look all around you and are amazed at all the limestone {g}
+{B}statues that depict a single being. As you gaze about in wonder you come {g}
+{B}upon a large stone altar and with a start you see a being standing behind{g}
+{B}it. It turns to look at you and you suddenly realize that the person{g}
+{B}staring back at you is the same being from all the statues. You gasp in {g}
+{B}disbelief as you now know you are looking at a being of vast powers.{g}
+{B} {g}
+~
+233 0 0
+Z3
+C-1
+S
+#23301
+{BLUE}The Entrance to {CYAN}Chronos Japan{cyan}~
+{C}
+   You are standing at the entrance to a huge skyscraper. It is hard to
+believe that a global company could actually be the headquarters for a
+more sinister secret. It is from here that the Zoanoids stage all their 
+plans for world domination. It is here that you must make your stand. 
+Letting the world know that a great evil is slowly taking control. They 
+change us imperceptably and destroy all that we hold dear.
+
+~
+233 262144 1
+D0
+~
+~
+0 -1 23302
+Z3
+C-1
+S
+#23302
+{BLUE}The Lobby{blue}~
+{C}
+   You have entered a very large and very plush lobby. The abundance
+of wealth here astounds you. Everywhere you see beautiful paintings and 
+murals possibly all originals. Leather furniture litters the entire area 
+adding to the feeling like you need to be in a suit to even enter this 
+place. It makes you wonder just how powerful this corporation really is...
+ 
+~
+233 17039368 0
+D0
+~
+~
+0 -1 23304
+D2
+~
+~
+0 -1 23301
+D3
+{CYAN}This is a high security steel reinforced door. They obviously
+don't want people to come in here.
+
+~
+door~
+6 23304 23303
+E
+elevator~
+{CYAN}
+   Just as you approach it, the elevator opens up. You can see that it is
+decorated in the same manner as the lobby. Leather couches adorn 3 sides of the
+interior. You can hear faintly the soft melodies of Musak coming from inside along
+with an almost hypnotic voice that says...
+
+Welcome to Chronos-Japan Branch. For your convenience these automated elevators 
+will bring you to the second floor security station where you will be issued the
+passes needed to get to your final destinations. Please stand clear of the doors
+as they close and as always, Thank you for visiting Chronos Japan.
+
+~
+Z3
+C-1
+S
+#23303
+{BLUE}Security Monitoring Room{blue}~
+{C}
+   As you enter the room you are amazed to see the wall of monitors.
+The entire right side of the room is littered with all manner of scenes
+from people going up in elevators and office meetings to people walking
+down hallways and in the bathrooms. It seems that there is nothing in
+this building that is sacred or kept private. The security guards that
+monitor this room seem genuinely disturbed by your presence in here. You 
+had better stop them before they can raise some form of alarm.
+ 
+~
+233 262152 0
+D1
+{CYAN}This is a high security steel reinforced door. They obviously
+don't want people to come in here.
+
+~
+door~
+6 23304 23302
+D3
+{C}
+   You see a slight crack in the wall that may be another exit of some kind.
+What could be on the other side that would require some secrecy?
+~
+snack snackroom snacks~
+3 -1 23349
+Z3
+C-1
+S
+#23304
+{BLUE}The Elevator{blue}~
+{C}
+   As you enter it, the elevator doors swing softly shut. You can see that 
+it is decorated in the same manner as the lobby. Leather couches adorn 3 
+sides of the interior. You can hear faintly the soft melodies of Musak 
+coming from inside along with an almost hypnotic voice that says...
+ 
+ Welcome to Chronos-Japan Branch. For your continued convenience these 
+automated elevators will bring you to the second floor security station
+where you will be issued the passes needed to get to your final destinations.
+Please stand clear of the doors as they close and as always, Thank you for 
+visiting Chronos Japan. After a moment the elevator slowly comes to a stop.
+ 
+{R}*{BLU}DING{R}* *{BLU}DING{R}*   {C}The elevator doors announce that you have arrived at the 
+                second floor and slowly swing open.
+ 
+~
+233 270344 0
+D2
+~
+~
+0 -1 23305
+X2048
+Z3
+C-1
+S
+#23305
+{BLUE}Chronos Security Checkpoint{blue}~
+{CYAN}
+   The elevator doors close abruptly behind you as you leave it. The 
+first thing you see are several armed security guards looking you
+over with suspicion. As you walk up to them the person who appears to 
+be their leader says...
+
+   "Welcome to Chronos. Please show me your identification and tell
+    me your ultimate destination so that I may give you the proper
+    passes needed to get you there."
+
+~
+233 262156 0
+D0
+~
+~
+0 -1 23350
+D1
+~
+~
+0 -1 23306
+D3
+~
+~
+0 -1 23307
+Z3
+C2
+S
+#23306
+{BLUE}Second Floor Hallway{blue}~
+{C}
+   You walk down a hallway that seems brand new. You look around and see 
+workers frantically working to repair what look to be burn holes in the 
+walls. They are too busy painting and laying new carpet to notice you.
+What on earth could have happened here to cause all of this destruction
+they are so hastily covering up.
+ 
+~
+233 262152 0
+D1
+~
+~
+0 -1 23309
+D3
+~
+~
+0 -1 23305
+Z3
+C-1
+S
+#23307
+{BLU}A Darkened Hallway{blu}~
+
+{CYAN}   This hallway seems to be in a bit of disrepair. It almost looks
+as if there was a fight here recently. The flourescent lights are flickering
+on and off giving you a very eery feeling. At the end of the corridor is an
+elevator. The door is open but there aren't any light on inside it either.
+It makes you wonder. Could there have been some kind of skirmish here and 
+if so who would be powerful enough to stand up against this corporation. 
+If only you could find them so they might help you.
+
+~
+233 262153 0
+D1
+~
+~
+0 -1 23305
+D3
+~
+~
+0 -1 23308
+Z3
+C-1
+S
+#23308
+{BLUE}Broken Elevator{blue}~
+{C}
+{C}   As you enter the elevator, you hear the disconcerting sound of metal{g}
+{C}twisting and snapping.{g}
+{g}
+{BLU}****{g}{BLI,R}TWANG{g}{bli}{BLU}****{g}
+{BLU}            ****{g}{BLI,R}TWANG{g}{bli}{BLU}****{g}
+{BLU}                        ****{g}{BLI,R}SNAP{g}{bli}{BLU}****{g}
+{BLU}                                   ****{g}{BLI,R}SNAP{g}{bli}{BLU}****{g}
+{B}****{BLU}WWHHOOOOSSHHHH{B}****{g}
+{g}
+{C}   The cable snaps and you hear the elevator brakes trying in vain to{g}
+{C}slow down the decent.  {B}****{R}SCREEEEEEEEEEEE{B}****{g}
+ 
+{C}   The elevator hurls uncontrolled down to the bottom of the shaft.{g}
+{C}One of the last things that goes through your mind is that you hope {g}
+{C}the pain doesn't last long. With a massive crash the elevator comes to an{g}
+{C}abrupt halt utterly crushing your fragile frame. The Gods were at least{g}
+{C}kind in that the icy hand of death comes upon you before your ravaged{g}
+{C}body registers any pain.{g}
+{c}
+~
+233 262287 0
+X134
+Z3
+C-1
+S
+#23309
+{BLUE}T-Intersection in the Hallway{blue}~
+{C}
+   You have come to an intersection in the hallway. There seems to be 
+more of the same type of destruction. The carpenters seem to have just 
+finished this section of hallway and the painters quickly start their 
+work in making the walls appear to have never been touched.
+ 
+~
+233 262152 0
+D0
+~
+~
+0 -1 23310
+D2
+~
+~
+0 -1 23311
+D3
+~
+~
+0 -1 23306
+Z3
+C-1
+S
+#23310
+{BLUE}Office Hallway{blue}~
+{C}
+   There are several offices in this section of hallway. To the left 
+you can see a plaque that says...
+ 
+ {B}                        Jonathan Smart - Sales Dept.
+ 
+{C}and to the right another plaque reads...
+ 
+ {B}                        Thomas Payne - Sales Dept.
+ 
+{C}Just up ahead you can just make out another elevator with guards 
+flanking either side of it.
+ 
+~
+233 262152 0
+D0
+~
+~
+0 -1 23314
+D1
+~
+~
+0 -1 23312
+D2
+~
+~
+0 -1 23309
+D3
+~
+~
+0 -1 23313
+Z3
+C-1
+S
+#23311
+{BLUE}Personnel Office{blue}~
+{C}
+  The sign on the door says that this is the personnel office. It is in
+total shambles. Apparently the workers haven't cleaned up whatever 
+happened in here. The walls are burned and covered with dried blood.
+Whatever happened in here, you are sure that there were some sort of 
+casualties. The evidence for that is overwhelming. You can only hope that
+if you meet up with whatever did this that they are friendly.
+ 
+~
+233 262156 0
+D0
+~
+~
+0 -1 23309
+Z3
+C-1
+S
+#23312
+{BLU}The Office of Thomas Payne{g}~
+{C}
+   A wave of heat rolls over you as you enter the room. This room must 
+be at least 110 degrees. You don't know how anyone could stand to work 
+in such heat. You can see the man who must be Mr. Payne sitting at his 
+immaculately kept desk talking on the telephone. The heat is unbearable
+in here but he doesn't even seem to be sweating. Can he possibly have it
+this hot on purpose?...how odd.
+ 
+~
+233 262172 0
+D3
+~
+~
+0 -1 23310
+Z3
+C-1
+S
+#23313
+{BLUE}The Office of Jonathan Smart{blue}~
+{C}
+   This looks like a typical sales office. It's a mess with paperwork 
+all over the place and objects strewn everwhere. You wonder how someone
+so apparently disorganized can possibly get any work done. It is then 
+that you see the man who must be Mr. Smart working at his desk even amidst
+all this clutter. He looks irritated that you are disturbing his work.
+ 
+~
+233 262156 0
+D1
+~
+~
+0 -1 23310
+Z3
+C-1
+S
+#23314
+{BLU}Outside a Security Elevator{blu}~
+{C}
+   You are at the end of the hallway. There is an elevator here with 
+two guards that peer at you suspiciously. You can see that there is a 
+security card panel in the doors of the elevator that will allow you 
+to unlock them. The guards look a little nervous as if new to their
+positions. They might not calm down until you are nowhere to be seen.
+ 
+~
+233 12 0
+D0
+{CYAN}
+   It looks as if you can just slip a security card into an electronic lock
+to unlock the doors to the elevator so that you can use it.
+{cyan}
+~
+elevatordoors~
+6 23307 23315
+D2
+~
+~
+0 -1 23310
+E
+elevator~
+{CYAN}
+   It looks as if you can just slip a security card into an electronic lock
+to unlock the doors to the elevator so that you can use it.
+{cyan}
+~
+Z3
+C-1
+S
+#23315
+{BLUE}Inside the Elevator{blue}~
+{C}
+   The doors close quickly and the elevator automatically starts to go 
+down. The passcard you got off of security must have had some kind of 
+automatic code on it. You wonder where it is that you are going. A few 
+moments later the elevator slowly comes to a halt. As the doors slowly 
+open you can see the floor indicator blink softly as that same sultry 
+voice you heard earlier confirms what it says...
+ 
+  {R,BLI}                      "Security Sub-Level 3"
+ 
+~
+233 262152 0
+D0
+{CYAN}
+   You spot a small button in the back panel of the elevator. When you push it
+a keypad slides out of the back wall. It looks just like the security locks that 
+you had to swipe the passcard through. You notice that it also looks as if the 
+whole back wall of the elevator may slide open like a pocket door.
+{cyan}
+~
+Slidingdoor~
+6 23306 23316
+D2
+~
+~
+0 -1 23328
+Z3
+C-1
+S
+#23316
+{BLUE}The Hovering Platform{blue}~
+{C}
+   You opened the secret exit in the elevator to walk into a 
+cylindrical room. It is about 10 feet in height and when you enter the
+walls emit a faint white light. The only thing of interest in this 
+room is the floating disk that is slowly undulating in the center of 
+the room. It almost looks as if it is hovering there. Perhaps this is
+just another form of elevator.
+ 
+~
+233 262152 0
+D2
+~
+Slidingdoor~
+1 -1 23315
+Z3
+C-1
+S
+#23317
+{BLUE}Control Booth{blue}~
+{C}
+   You have emerged from what must have been a transportation device 
+of some kind. All around you you can see monitors and computers 
+registering what appears to be some kind of battle in the next room. 
+There are all sorts of gauges from energy strength to grip performance 
+to a kill counter. There are several people dressed in scientific garb 
+looking intently at all the meters. You can just make out some sort of 
+humanoid creature through the thick glass wall butchering many hideous
+and grotesque creatures. He does it so quickly. You have never seen a 
+power like this before.
+ 
+~
+233 262152 0
+D3
+~
+~
+0 -1 23318
+Z3
+C-1
+S
+#23318
+{BLUE}Antechamber{blue}~
+{C}
+   You are standing in a preparation area of types. You can see weaponry
+hanging on the wall along with several bizarre looking outfits. It looks
+like you could equip a small army from what you can see here. To the 
+north you see a door with a blinking sign over it that says...
+ 
+{R,BLI}          ZOANOID BATTLE TESTING ARENA IN USE {W}- {B}DO NOT ENTER
+ 
+~
+233 262156 0
+D0
+{CYAN}
+   This is a steel reinforced door. It is very heavy looking and looks like it
+was made to take (or protect this room from) a real beating.
+{cyan}
+~
+Reinforced~
+1 -1 23319
+D1
+~
+~
+0 -1 23317
+Z3
+C-1
+S
+#23319
+{BLUE}Zoanoid Battle Arena{blue}~
+{C}
+   You are standing in a huge room filled with chaos all around. There 
+are creatures all around that look as if they were spawned from a 
+nightmare. You see everything from huge muscular creatures with fire 
+in their eyes to humanoid sized deformities with claws covered in 
+crackling lightnings. They all seem to be heading for a fray a bit 
+further to the north. What could hope to stand against all these 
+creatures onslaught?
+ 
+~
+233 262296 0
+D0
+~
+~
+0 -1 23322
+D1
+~
+~
+0 -1 23321
+D2
+~
+Reinforced~
+1 -1 23318
+D3
+~
+~
+0 -1 23320
+Z3
+C-1
+S
+#23320
+{BLUE}Zoanoid Battle Arena{blue}~
+{C}
+   You are standing in a huge room filled with chaos all around. There 
+are creatures all around that look as if they were spawned from a 
+nightmare. You see everything from huge muscular creatures with fire 
+in their eyes to humanoid sized deformities with claws covered in 
+crackling lightnings. They all seem to be heading for a fray a bit 
+further to the north. What could hope to stand against all these 
+creatures onslaught?
+ 
+~
+233 262296 0
+D0
+~
+~
+0 -1 23323
+D1
+~
+~
+0 -1 23319
+Z3
+C-1
+S
+#23321
+{BLUE}Zoanoid Battle Arena{blue}~
+{C}
+   You are standing in a huge room filled with chaos all around. There 
+are creatures all around that look as if they were spawned from a 
+nightmare. You see everything from huge muscular creatures with fire 
+in their eyes to humanoid sized deformities with claws covered in 
+crackling lightnings. They all seem to be heading for a fray a bit 
+further to the north. What could hope to stand against all these 
+creatures onslaught?
+ 
+~
+233 262296 0
+D0
+~
+~
+0 -1 23324
+D3
+~
+~
+0 -1 23319
+Z3
+C-1
+S
+#23322
+{BLUE}Zoanoid Battle Arena{blue}~
+{C}
+   You are standing in a huge room filled with chaos all around. There 
+are creatures all around that look as if they were spawned from a 
+nightmare. You see everything from huge muscular creatures with fire 
+in their eyes to humanoid sized deformities with claws covered in 
+crackling lightnings. They all seem to be heading for a fray a bit 
+further to the north. What could hope to stand against all these 
+creatures onslaught?
+ 
+~
+233 262296 0
+D0
+~
+~
+0 -1 23326
+D1
+~
+~
+0 -1 23324
+D2
+~
+~
+0 -1 23319
+D3
+~
+~
+0 -1 23323
+Z3
+C-1
+S
+#23323
+{BLUE}Zoanoid Battle Arena{blue}~
+{C}
+   You are standing in a huge room filled with chaos all around. There 
+are creatures all around that look as if they were spawned from a 
+nightmare. You see everything from huge muscular creatures with fire 
+in their eyes to humanoid sized deformities with claws covered in 
+crackling lightnings. They all seem to be heading for a fray a bit 
+further to the north. What could hope to stand against all these 
+creatures onslaught?
+ 
+~
+233 262296 0
+D0
+~
+~
+0 -1 23325
+D1
+~
+~
+0 -1 23322
+D2
+~
+~
+0 -1 23320
+Z3
+C-1
+S
+#23324
+{BLUE}Zoanoid Battle Arena{blue}~
+{C}
+   You are standing in a huge room filled with chaos all around. There 
+are creatures all around that look as if they were spawned from a 
+nightmare. You see everything from huge muscular creatures with fire 
+in their eyes to humanoid sized deformities with claws covered in 
+crackling lightnings. They all seem to be heading for a fray a bit 
+further to the north. What could hope to stand against all these 
+creatures onslaught?
+ 
+~
+233 262296 0
+D0
+~
+~
+0 -1 23327
+D2
+~
+~
+0 -1 23321
+D3
+~
+~
+0 -1 23322
+Z3
+C-1
+S
+#23325
+{BLUE}Zoanoid Battle Arena{blue}~
+{C}
+   You are standing in a huge room filled with chaos all around. There 
+are creatures all around that look as if they were spawned from a 
+nightmare. You see everything from huge muscular creatures with fire 
+in their eyes to humanoid sized deformities with claws covered in 
+crackling lightnings. They all seem to be heading for a fray a bit 
+further to the east. What could hope to stand against all these 
+creatures onslaught?
+ 
+~
+233 262296 0
+D1
+~
+~
+0 -1 23326
+D2
+~
+~
+0 -1 23323
+Z3
+C-1
+S
+#23326
+{BLUE}Zoanoid Battle Arena{blue}~
+{C}
+   This seems to be where all these monstrosities were heading. You 
+can't believe your eyes as you see a person in some sort of body armor
+attacking all of them. They are taking him on three and four at a 
+time, however this seems only a slight inconvenience for him. As his
+grip breaks the neck of one of his opponents the blades on his arms cut
+another one in half. You marvel at the speed of the man as he destroys 
+beasts one after another. Could he be the one that caused all the
+damage you saw earlier? You see him pause for a brief moment as a gas 
+vents from two openings in his mask and then he is coming after YOU!
+ 
+~
+233 262296 0
+D1
+~
+~
+0 -1 23327
+D2
+~
+~
+0 -1 23322
+D3
+~
+~
+0 -1 23325
+Z3
+C-1
+S
+#23327
+{BLUE}Zoanoid Battle Arena{blue}~
+{C}
+   You are standing in a huge room filled with chaos all around. There 
+are creatures all around that look as if they were spawned from a 
+nightmare. You see everything from huge muscular creatures with fire 
+in their eyes to humanoid sized deformities with claws covered in 
+crackling lightnings. They all seem to be heading for a fray a bit 
+further to the west. What could hope to stand against all these 
+creatures onslaught?
+ 
+~
+233 262296 0
+D2
+~
+~
+0 -1 23324
+D3
+~
+~
+0 -1 23326
+Z3
+C-1
+S
+#23328
+{RED,BLINK}Sub-Level 3 Security Station{red,blink}~
+{C}
+   This is a heavy security sector. There is a booth that is filled 
+with what appear to be the elite of the trained security forces of 
+this place. You can tell from their demeanor that they know how to 
+get the job done. The only thing they are guarding is a steel door to 
+the south. If there is this much security here there must be something 
+of great importance behind that door. Before you have time to think of
+what it might be, the head security guard asks you...
+ 
+{W} "May I see your security code clearance and identification please?"
+ 
+~
+233 278537 0
+D0
+~
+~
+0 -1 23351
+D2
+{C}
+   You see a very heavy steel reinforced door. It looks sturdy enough 
+to take a hit from a nuke. There is no way to tell where it leads as 
+there are no windows in or around it. The only thing that makes it 
+look like a door instead of just a steel wall is the keypad card slot 
+that act as "doorknobs" for these doors.
+ 
+~
+LabDoor~
+6 23315 23329
+E
+LabDoor~
+{C}
+   You see a very heavy steel reinforced door. It looks sturdy enough 
+to take a hit from a nuke. There is no way to tell where it leads as 
+there are no windows in or around it. The only thing that makes it 
+look like a door instead of just a steel wall is the keypad card slot 
+that act as "doorknobs" for these doors.
+ 
+~
+X71
+Z3
+C-1
+S
+#23329
+{RED}An Airlock{red}~
+{R}
+   As you climb down into the room the massive door shuts behind you. 
+The entire area begins to glow with an unnerving red light. You appear 
+to be in some kind of an airlock. You can only hope that the PassCard
+that you have will still let you go back the way you came. You wonder 
+if the way forward will be less dangerous than the way you came. You 
+poke around a little and find that your luck has changed a bit for the 
+better. At least the door forward isn't locked. Hmmm... what could 
+be on the other side.
+ {r}
+~
+233 278537 0
+D2
+{R}
+   This is some sort of an airlock hatch. It reminds you of something 
+that you might remember seeing on a submarine to close off one section
+from another. Well, at least it isn't locked.
+ {r}
+~
+Hatch~
+1 -1 23330
+D4
+{R}
+   You see a very heavy steel reinforced door. It looks sturdy enough 
+to take a hit from a nuke. There is no way to tell where it leads as 
+there are no windows in or around it. The only thing that makes it 
+look like a door instead of just a steel wall is the keypad card slot 
+that act as "doorknobs" for these doors.
+ {r}
+~
+LabDoor~
+6 23315 23328
+E
+LabDoor~
+{R}
+   You see a very heavy steel reinforced door. It looks sturdy enough 
+to take a hit from a nuke. There is no way to tell where it leads as 
+there are no windows in or around it. The only thing that makes it 
+look like a door instead of just a steel wall is the keypad card slot 
+that act as "doorknobs" for these doors.
+ {r}
+~
+Z3
+C-1
+S
+#23330
+{RED}Secondary Airlock{red}~
+{R}
+   The same red light permeates this small passage. It is a chamber 
+identical to the one you were just in. As you enter the room however, 
+a hissing sound starts to emmenate from the floors. Soon you are 
+engulfed by a cloud of mist. You only worry for a moment as you 
+realize that the mist isn't doing any harm to you. It must be some 
+sort of disinfection to clean off any visitors they might have.
+ {r}
+~
+233 278537 0
+D0
+~
+Hatch~
+1 -1 23329
+D2
+{RED}
+  You see a very heavy steel reinforced door. It looks sturdy enough to take
+a hit from a nuke. There is no way to tell where it leads as there are no windows
+in or around it. The only thing that makes it look like a door instead of just
+a steel wall is the keypad card slot that act as "doorknobs" for these doors.
+
+~
+LabDoor~
+6 23315 23331
+Z3
+C-1
+S
+#23331
+{BLUE}Zoanoid Creation Facility{blue}~
+{C}
+   As you look all around you can't believe your eyes. There are 
+literally dozens upon dozens of huge tanks in here. Their base lies
+on the floor and they stretch all the way to the ceiling. There are 
+all manner of creatures inside them. Some look to be almost human or 
+at least still partly human. Others are huge grotesque creatures 
+spawned from the stuff that nightmares are made from.The way the area
+is set up, it looks as if they are actually creating these creatures.
+Who or what could possibly want to see monstrosities like these exist
+in the world.
+ 
+~
+233 262153 0
+D0
+~
+LabDoor~
+1 -1 23330
+D1
+~
+~
+0 -1 23332
+D2
+~
+~
+0 -1 23334
+D3
+~
+~
+0 -1 23333
+D5
+{B}
+   You look down and see that there is some grating that makes up the 
+floor. They must just let all the liquid that spills from the tanks pour
+down there. The grates look as though they can be lifted with a bit of
+effort but looking through them you don't know if you would want to go
+down there. It smells awful and every now and again you can catch a bit
+of movement.
+ 
+~
+grate grating grates~
+3 -1 23353
+E
+grate grating grates~
+{B}
+   You look down and see that there is some grating that makes up the 
+floor. They must just let all the liquid that spills from the tanks pour
+down there. The grates look as though they can be lifted with a bit of
+effort but looking through them you don't know if you would want to go
+down there. It smells awful and every now and again you can catch a bit
+of movement.
+ 
+~
+Z3
+C-1
+S
+#23332
+{BLUE}Zoanoid Creation Facility{blue}~
+{C}
+   As you look all around you can't believe your eyes. There are 
+literally dozens upon dozens of huge tanks in here. Their base lies
+on the floor and they stretch all the way to the ceiling. There are 
+all manner of creatures inside them. Some look to be almost human or 
+at least still partly human. Others are huge grotesque creatures 
+spawned from the stuff that nightmares are made from.The way the area
+is set up, it looks as if they are actually creating these creatures.
+Who or what could possibly want to see monstrosities like these exist
+in the world.
+ 
+~
+233 262153 0
+D1
+~
+~
+0 -1 23338
+D2
+~
+~
+0 -1 23337
+D3
+~
+~
+0 -1 23331
+D5
+{B}
+   You look down and see that there is some grating that makes up the 
+floor. They must just let all the liquid that spills from the tanks pour
+down there. The grates look as though they can be lifted with a bit of
+effort but looking through them you don't know if you would want to go
+down there. It smells awful and every now and again you can catch a bit
+of movement.
+ 
+~
+grate grating grates~
+3 -1 23354
+E
+grate grating grates~
+{B}
+   You look down and see that there is some grating that makes up the 
+floor. They must just let all the liquid that spills from the tanks pour
+down there. The grates look as though they can be lifted with a bit of
+effort but looking through them you don't know if you would want to go
+down there. It smells awful and every now and again you can catch a bit
+of movement.
+ 
+~
+Z3
+C-1
+S
+#23333
+{BLUE}Zoanoid Creation Facility{blue}~
+{C}
+   As you look all around you can't believe your eyes. There are 
+literally dozens upon dozens of huge tanks in here. Their base lies
+on the floor and they stretch all the way to the ceiling. There are 
+all manner of creatures inside them. Some look to be almost human or 
+at least still partly human. Others are huge grotesque creatures 
+spawned from the stuff that nightmares are made from.The way the area
+is set up, it looks as if they are actually creating these creatures.
+Who or what could possibly want to see monstrosities like these exist
+in the world.
+ 
+~
+233 262153 0
+D1
+~
+~
+0 -1 23331
+D2
+~
+~
+0 -1 23336
+D3
+~
+~
+0 -1 23335
+D5
+{B}
+   You look down and see that there is some grating that makes up the 
+floor. They must just let all the liquid that spills from the tanks pour
+down there. The grates look as though they can be lifted with a bit of
+effort but looking through them you don't know if you would want to go
+down there. It smells awful and every now and again you can catch a bit
+of movement.
+ 
+~
+grate grating grates~
+3 -1 23352
+Z3
+C-1
+S
+#23334
+{BLUE}Zoanoid Creation Facility{blue}~
+{C}
+   As you look all around you can't believe your eyes. There are 
+literally dozens upon dozens of huge tanks in here. Their base lies
+on the floor and they stretch all the way to the ceiling. There are 
+all manner of creatures inside them. Some look to be almost human or 
+at least still partly human. Others are huge grotesque creatures 
+spawned from the stuff that nightmares are made from.The way the area
+is set up, it looks as if they are actually creating these creatures.
+Who or what could possibly want to see monstrosities like these exist
+in the world.
+ 
+~
+233 262153 0
+D0
+~
+~
+0 -1 23331
+D1
+~
+~
+0 -1 23337
+D3
+~
+~
+0 -1 23336
+D5
+{B}
+   You look down and see that there is some grating that makes up the 
+floor. They must just let all the liquid that spills from the tanks pour
+down there. The grates look as though they can be lifted with a bit of
+effort but looking through them you don't know if you would want to go
+down there. It smells awful and every now and again you can catch a bit
+of movement.
+ 
+~
+grate grating grates~
+3 -1 23356
+E
+grate grating grates~
+{B}
+   You look down and see that there is some grating that makes up the 
+floor. They must just let all the liquid that spills from the tanks pour
+down there. The grates look as though they can be lifted with a bit of
+effort but looking through them you don't know if you would want to go
+down there. It smells awful and every now and again you can catch a bit
+of movement.
+ 
+~
+Z3
+C-1
+S
+#23335
+{BLUE}Zoanoid Creation Facility{blue}~
+{C}
+   As you look all around you can't believe your eyes. There are 
+literally dozens upon dozens of huge tanks in here. Their base lies
+on the floor and they stretch all the way to the ceiling. There are 
+all manner of creatures inside them. Some look to be almost human or 
+at least still partly human. Others are huge grotesque creatures 
+spawned from the stuff that nightmares are made from.The way the area
+is set up, it looks as if they are actually creating these creatures.
+Who or what could possibly want to see monstrosities like these exist
+in the world.
+ 
+~
+233 262157 0
+D1
+~
+~
+0 -1 23333
+D3
+~
+~
+0 -1 23338
+Z3
+C-1
+S
+#23336
+{BLUE}Zoanoid Creation Facility{blue}~
+{C}
+   As you look all around you can't believe your eyes. There are 
+literally dozens upon dozens of huge tanks in here. Their base lies
+on the floor and they stretch all the way to the ceiling. There are 
+all manner of creatures inside them. Some look to be almost human or 
+at least still partly human. Others are huge grotesque creatures 
+spawned from the stuff that nightmares are made from.The way the area
+is set up, it looks as if they are actually creating these creatures.
+Who or what could possibly want to see monstrosities like these exist
+in the world.
+ 
+~
+233 262153 0
+D0
+~
+~
+0 -1 23333
+D1
+~
+~
+0 -1 23334
+D5
+{B}
+   You look down and see that there is some grating that makes up the 
+floor. They must just let all the liquid that spills from the tanks pour
+down there. The grates look as though they can be lifted with a bit of
+effort but looking through them you don't know if you would want to go
+down there. It smells awful and every now and again you can catch a bit
+of movement.
+ 
+~
+grate grating grates~
+3 -1 23355
+E
+grate grating grates~
+{B}
+   You look down and see that there is some grating that makes up the 
+floor. They must just let all the liquid that spills from the tanks pour
+down there. The grates look as though they can be lifted with a bit of
+effort but looking through them you don't know if you would want to go
+down there. It smells awful and every now and again you can catch a bit
+of movement.
+ 
+~
+Z3
+C-1
+S
+#23337
+{BLUE}Zoanoid Creation Facility{blue}~
+{C}
+   As you look all around you can't believe your eyes. There are 
+literally dozens upon dozens of huge tanks in here. Their base lies
+on the floor and they stretch all the way to the ceiling. There are 
+all manner of creatures inside them. Some look to be almost human or 
+at least still partly human. Others are huge grotesque creatures 
+spawned from the stuff that nightmares are made from.The way the area
+is set up, it looks as if they are actually creating these creatures.
+Who or what could possibly want to see monstrosities like these exist
+in the world.
+ 
+~
+233 262153 0
+D0
+~
+~
+0 -1 23332
+D1
+~
+~
+0 -1 23339
+D3
+~
+~
+0 -1 23334
+D5
+{B}
+   You look down and see that there is some grating that makes up the 
+floor. They must just let all the liquid that spills from the tanks pour
+down there. The grates look as though they can be lifted with a bit of
+effort but looking through them you don't know if you would want to go
+down there. It smells awful and every now and again you can catch a bit
+of movement.
+ 
+~
+grate grating grates~
+3 -1 23357
+E
+grate grating grates~
+{B}
+   You look down and see that there is some grating that makes up the 
+floor. They must just let all the liquid that spills from the tanks pour
+down there. The grates look as though they can be lifted with a bit of
+effort but looking through them you don't know if you would want to go
+down there. It smells awful and every now and again you can catch a bit
+of movement.
+ 
+~
+Z3
+C-1
+S
+#23338
+{BLUE}Zoanoid Creation Facility{blue}~
+{C}
+   As you look all around you can't believe your eyes. There are 
+literally dozens upon dozens of huge tanks in here. Their base lies
+on the floor and they stretch all the way to the ceiling. There are 
+all manner of creatures inside them. Some look to be almost human or 
+at least still partly human. Others are huge grotesque creatures 
+spawned from the stuff that nightmares are made from.The way the area
+is set up, it looks as if they are actually creating these creatures.
+Who or what could possibly want to see monstrosities like these exist
+in the world.
+ 
+~
+233 262157 0
+D1
+~
+~
+0 -1 23335
+D3
+~
+~
+0 -1 23332
+D4
+{C}
+   As you examine the ceiling a little closer you notice that instead 
+of the opening that you thought you saw, what you actually saw was a
+small beam of light coming from a small crack. It turns out to be an 
+access panel that you easily slide aside and see that the light is
+coming from a small holographic projector. It is aimed at one of the 
+tubes on the floor and when you cut off the light beam you can see that 
+the tube that you thought had a Ramotith Zoanoid is actually an empty 
+tube with a disk at the base. The disk is giving off a pulsing blue 
+light that you could not have seen when the holographic image was there.
+ 
+~
+ceiling~
+8 -1 23338
+E
+ceiling~
+{C}
+   As you examine the ceiling a little closer you notice that instead 
+of the opening that you thought you saw, what you actually saw was a
+small beam of light coming from a small crack. It turns out to be an 
+access panel that you easily slide aside and see that the light is
+coming from a small holographic projector. It is aimed at one of the 
+tubes on the floor and when you cut off the light beam you can see that 
+the tube that you thought had a Ramotith Zoanoid is actually an empty 
+tube with a disk at the base. The disk is giving off a pulsing blue 
+light that you could not have seen when the holographic image was there.
+ 
+~
+E
+up~
+{C}
+   As you examine the ceiling a little closer you notice a small beam of light
+coming from a small crack. You slide an access panel open and see that the light
+is coming from a small holographic projector. It is aimed at one of the tubes
+on the floor and when you cut off the light beam you can see that the tube that
+you thought had a Ramotith Zoanoid is actually an empty tube with a disk at the
+base. The disk is giving off a pulsing blue light that you could not have seen
+when the holographic image was there.
+
+~
+Z3
+C-1
+S
+#23339
+{BLUE}Emergency Escape Tube{blue}~
+{C}
+   The door slams shut and seals behind you preventing any kind of 
+contamination from entering. Just then you hear a hissing noise as a 
+fine mist sprays the entire room down. Immediately to your left a a 
+small chute illuminates and a sign blinks to life that says...
+ 
+ {R,BLI} In Case of Emergency Laboratory Contamination Use Slide
+{bli}{C}
+Seems the only way to go so why not.
+ 
+~
+233 1310728 0
+D5
+~
+~
+0 -1 23342
+Z3
+C2
+S
+#23340
+{BLUE}Bio{WHITE}-{BLUE}Booster Armor {RED}Containment Monitoring Room{red}~
+{C}
+   You are standing in a massive room with monitors all over the wall. 
+They all show the same image. A humanoid being in a bluish full body 
+suit stepping off of a small table and attacking some Zoanoids that are
+in the room with it. The technicians here seem to be rushing to record
+the events and make sure that not a moment of the event goes by without
+some written or video record of it. They all look amazed at the power
+and abilities of the creature as it dispatches enemies with ease.
+ 
+~
+233 262280 0
+D0
+~
+~
+0 -1 23341
+D2
+~
+~
+0 -1 23343
+Z3
+C2
+S
+#23341
+{RED,BLINK}Security {blink}{BLUE}Tunnel{blue}~
+{C}
+   As you enter{R} ____={BLI}||{bli}{C} this room you realize that it {BLU}____={BLI}||{bli}{C} isn't 
+really a room {R}______={BLI}||{bli}{C} at all but a small corridor {BLU}______={BLI}||{bli}{C} leading
+south. You {R} ________={BLI}||{bli}{C} quickly realize that it {BLU}  ________={BLI}||{bli}{C} would be
+impossible to{R} ______={BLI}||{bli}{C} fit more than one person in{BLU} ______={BLI}||{bli}{C} here. A 
+moment later a {R} ____={BLI}||{bli}{C} soft bluish light springs to {BLU} ____={BLI}||{bli}{C} life and
+pulses its way{R}______={BLI}||{bli}{C} down the length of the wall.{BLU}______={BLI}||{bli}{C} Another 
+moment later the{R}____={BLI}||{bli}{C} same light starts to pulse {BLU}   ____={BLI}||{bli}{C} again down
+the wall except{R}   __={BLI}||{bli}{C} this time it's reddish in color{BLU} __={BLI}||{bli}{C} Could 
+this be some kind {R} _={BLI}||{bli}{C} of scan. It seems like a logical{BLU} _={BLI}||{bli}{C} idea.
+{c}
+~
+233 1033 0
+D0
+~
+~
+0 -1 23346
+D2
+~
+~
+0 -1 23340
+Z3
+C1
+S
+#23342
+{YELLOW}Decontamination room{yellow}~
+{R}
+   You slide into a small closet-like space. As soon as you enter the 
+room a red light floods it and showers start to spray a foul smelling 
+liquid on you. A sign on the wall flashes...
+ 
+ {Y,BLI}              Bio Organic Decontamination in progress
+{bli}{R}
+   A moment later the shower stops and a shrill piercing sound starts.
+The sound is so loud that you can't hear a thing, you can only feel 
+your heart pounding in your chest. Just like that the sound stops and 
+you are amazed as you look down and see that you are completely dry. 
+Now you just need to find your way out of here.
+ 
+~
+233 278536 0
+D3
+{R}
+   You see the vague shape of a door to the west through the mist. It 
+looks as though it is sealed shut. There is a small slot in the door 
+that you recognize as one of passcard locks that you keep coming 
+across. You just hope that you have a key that fits...
+{r} 
+~
+door~
+6 23315 23347
+E
+door~
+{R}
+   You see the vague shape of a door to the west through the mist. It 
+looks as though it is sealed shut. There is a small slot in the door 
+that you recognize as one of passcard locks that you keep coming 
+across. You just hope that you have a key that fits...
+{r} 
+~
+Z3
+C-1
+S
+#23343
+{BLUE}A Corridor in {RED}</:> {MAGENTA}C {RED}# {GREEN}h {RED}@ {WHITE}A {RED}& {YELLOW}o {RED}* {CYAN}S{RED} </:>{red}~
+{C}
+   This Corridor is teeming with activity. Apparently the ruckus in the 
+containment area has spawned a great many security precautions. You start
+heading towards where the commotion is when three very large creatures 
+intercept you. They are a part of the dreaded {BLU}HyperZoanoid Team {R,BLI}Five{bli}{C}. 
+They heard the alarm and instantly reach out to detain you...
+ 
+~
+233 262144 1
+D0
+~
+~
+0 -1 23340
+D2
+~
+~
+0 -1 23344
+Z3
+C-1
+S
+#23344
+{BLUE}A Corridor in {RED}</:> {MAGENTA}C {RED}# {GREEN}h {RED}@ {WHITE}A {RED}& {YELLOW}o {RED}* {CYAN}S{RED} </:>{red}~
+{C}
+   You are standing just outside what appears to be the containment unit.
+Whatever is inside the thing is stirring up quite a bit of trouble. You 
+have very little time to think on that as you come face to face with the
+remaining two members of the {BLU}Hyperzoanoid Team{R,BLI} Five{bli}{C}. Judging from their
+massive size you guess that these two might be the leaders of the unit.
+They do not seem to happy that you have just killed their brothers in
+arms. With loud piercing screams they come at you!
+
+~
+233 262153 0
+D0
+~
+~
+0 -1 23343
+D3
+~
+~
+0 -1 23345
+Z3
+C-1
+S
+#23345
+{BLUE}Containment Area{blue}~
+{C}
+   The entire room is filled with carnage. Bodies ripped to pieces lie 
+in all directions. There are small fires that have started throughout 
+the room that make the heat and stench almost unbearable. Amidst all this
+you look and see what appears to be a teenage boy. He is sitting on the 
+edge of the table gasping for breath. Could he have done all this or is 
+he just a victim of an unknown menace...
+ 
+~
+233 262297 0
+D1
+~
+~
+0 -1 23344
+Z3
+C-1
+S
+#23346
+{BLU}Bio{B}-{BLU}Organism {W}Containment Unit {Y}A-1{y}~
+{B}
+   As you step off the pad you realize that you are standing in a very 
+small room. To say that it could fit about a dozen people would be a 
+gross overstatement. It is not much wider than a hallway and is dimly 
+lit, making it kind of hard to see. There is an exit to the south into
+another room. Maybe that one will be a bit less cramped and give you 
+some better idea of where it is that you are. At least you know you can 
+get back this way should any trouble arise.
+ 
+~
+233 263177 0
+D2
+~
+~
+0 -1 23341
+Z3
+C-1
+S
+#23347
+{R}Emergency {W}Escape Pods{w}~
+You are standing in nowhere !!!!
+~
+233 262144 1
+D1
+~
+door~
+1 -1 23342
+Z3
+C-1
+S
+#23348
+{R}E{B}n{R}d o{B}f {R}T{B}h{R}e L{B}in{R}e{B}.{b}~
+      {B}            .::::d:?88888888888?::8b::::.
+                 :::d8888:?88888888??a888888b:::.
+              .:::d8888888a8888888aa8888888888b:::.
+             ::::dP::::::::88888888888::::::::Yb::::
+       {R,BLI}D{bli}{B}    ::::dP:::::::::Y888888888P:::::::::Yb::::    {R,BLI}E{bli}{B}
+           ::::d8:::::::::::Y8888888P:::::::::::8b::::
+          .::::88::::::::::::Y88888P::::::::::::88::::.
+       {R,BLI}E{bli}{B}  :::::Y8baaaaaaaaaa88P:T:Y88aaaaaaaaaad8P:::::  {R,BLI}N{bli}{B}
+          :::::::Y88888888888P::|::Y88888888888P:::::::
+          ::::::::::::::::888:::|:::888::::::::::::::::
+       {R,BLI}A{bli}{B}  `:::::::::::::::8888888888888b::::::::::::::'  {R,BLI}D{bli}{B}
+           :::::::::::::::88888888888888::::::::::::::
+            :::::::::::::d88888888888888:::::::::::::
+       {R,BLI}D{bli}{B}     ::::::::::::88::88::88:::88::::::::::::     {R,BLI}!{bli}{B}
+              `::::::::::88::88::88:::88::::::::::'
+~
+233 262287 0
+Z3
+C-1
+S
+#23349
+{R}Vending Machine Room {W}and {B}Storage{b}~
+{C}
+  This is a not so well lit but obviously well used room. You are amazed
+by the mess in here! There are wrappers from candy bars all over the 
+place and empty cans of soda sitting on a table. It's no wonder you 
+were able to take care of those guards. From all this stuff lying
+around it's surprising that those guys weren't big fat lazy slobs.
+~
+233 262153 0
+D1
+~
+snack snackroom snacks~
+1 -1 23303
+Z3
+C-1
+S
+#23350
+{BLUE}The Elevator{blue}~
+{C}
+   As you enter it, the elevator doors swing softly shut. You can see that
+it is decorated in the same manner as the lobby. Leather couches adorn 3 
+sides of the interior. You can hear faintly the soft melodies of Musak 
+coming from inside along with an almost hypnotic voice that says...
+ 
+   Thank you for visiting the Chronos-Japan Branch. For your continued
+convenience these automated elevators will bring you to the first floor 
+lobby. Please stand clear of the doors as they close and as always, Thank 
+you for visiting Chronos Japan. After a moment the elevator slows and comes 
+to a stop.
+ 
+{R}*{BLU}DING{R}* *{BLU}DING{R}*  {C} The elevator doors announce that you have arrived at the
+                first floor lobby and slowly swing open.
+ 
+~
+233 270344 0
+D2
+~
+~
+0 -1 23302
+X2048
+Z3
+C-1
+S
+#23351
+{BLUE}Inside the Elevator{blue}~
+{C}
+   As you reenter the elevator the doors quickly close and it starts to
+head back up. You hope that it is taking you back to where you came from.
+A moment later your heart calms as the elevator slowly comes to a halt.
+That same voice comes back over the speakers and says...
+
+{R,BLI}                        "Security Level 2"
+
+~
+233 262152 0
+D2
+~
+~
+0 -1 23314
+Z3
+C-1
+S
+#23352
+{B}Swimming Through a {G}__)_){M}G{R}e{M}l{R}A{M}t{R}i{M}N{R}o{M}u{R}S{G}(_(__ {B}Liquid.{b}~
+{BLU}
+   There must be some sort of large drain at the bottom of this reservoir
+because the current keeps pulling you under. The sheer weight of the
+liquid makes it hard to move around in. You can also see small creatures
+swimming around. You had better hope they are friendly because you are
+running out of breath and there is no place in sight to get more. You 
+become a little panicky as you rush around thinking that there must be 
+some way out of this place.
+ 
+~
+233 311437 10
+D1
+~
+~
+0 -1 23353
+D2
+~
+~
+0 -1 23355
+D4
+~
+grate grating grates~
+1 -1 23333
+Z3
+C-1
+S
+#23353
+{B}Swimming Through a {G}__)_){M}G{R}e{M}l{R}A{M}t{R}i{M}N{R}o{M}u{R}S{G}(_(__ {B}Liquid.{b}~
+{BLU}
+   There must be some sort of large drain at the bottom of this reservoir
+because the current keeps pulling you under. The sheer weight of the
+liquid makes it hard to move around in. You can also see small creatures
+swimming around. You had better hope they are friendly because you are
+running out of breath and there is no place in sight to get more. You 
+become a little panicky as you rush around thinking that there must be 
+some way out of this place.
+ 
+~
+233 311433 10
+D1
+~
+~
+0 -1 23354
+D2
+~
+~
+0 -1 23356
+D3
+~
+~
+0 -1 23352
+D5
+~
+~
+0 -1 23358
+Z3
+C-1
+S
+#23354
+{B}Swimming Through a {G}__)_){M}G{R}e{M}l{R}A{M}t{R}i{M}N{R}o{M}u{R}S{G}(_(__ {B}Liquid.{b}~
+{BLU}
+   There must be some sort of large drain at the bottom of this reservoir
+because the current keeps pulling you under. The sheer weight of the
+liquid makes it hard to move around in. You can also see small creatures
+swimming around. You had better hope they are friendly because you are
+running out of breath and there is no place in sight to get more. You 
+become a little panicky as you rush around thinking that there must be 
+some way out of this place.
+ 
+~
+233 311433 10
+D2
+~
+~
+0 -1 23357
+D3
+~
+~
+0 -1 23353
+D5
+~
+~
+0 -1 23359
+Z3
+C-1
+S
+#23355
+{B}Swimming Through a {G}__)_){M}G{R}e{M}l{R}A{M}t{R}i{M}N{R}o{M}u{R}S{G}(_(__ {B}Liquid.{b}~
+{BLU}
+   There must be some sort of large drain at the bottom of this reservoir
+because the current keeps pulling you under. The sheer weight of the
+liquid makes it hard to move around in. You can also see small creatures
+swimming around. You had better hope they are friendly because you are
+running out of breath and there is no place in sight to get more. You 
+become a little panicky as you rush around thinking that there must be 
+some way out of this place.
+ 
+~
+233 311433 10
+D0
+~
+~
+0 -1 23352
+D1
+~
+~
+0 -1 23356
+Z3
+C-1
+S
+#23356
+{B}Swimming Through a {G}__)_){M}G{R}e{M}l{R}A{M}t{R}i{M}N{R}o{M}u{R}S{G}(_(__ {B}Liquid.{b}~
+{BLU}
+   There must be some sort of large drain at the bottom of this reservoir
+because the current keeps pulling you under. The sheer weight of the
+liquid makes it hard to move around in. You can also see small creatures
+swimming around. You had better hope they are friendly because you are
+running out of breath and there is no place in sight to get more. You 
+become a little panicky as you rush around thinking that there must be 
+some way out of this place.
+ 
+~
+233 311433 10
+D0
+~
+~
+0 -1 23353
+D1
+~
+~
+0 -1 23357
+D3
+~
+~
+0 -1 23355
+D5
+~
+~
+0 -1 23361
+Z3
+C-1
+S
+#23357
+{B}Swimming Through a {G}__)_){M}G{R}e{M}l{R}A{M}t{R}i{M}N{R}o{M}u{R}S{G}(_(__ {B}Liquid.{b}~
+{BLU}
+   There must be some sort of large drain at the bottom of this reservoir
+because the current keeps pulling you under. The sheer weight of the
+liquid makes it hard to move around in. You can also see small creatures
+swimming around. You had better hope they are friendly because you are
+running out of breath and there is no place in sight to get more. You 
+become a little panicky as you rush around thinking that there must be 
+some way out of this place.
+ 
+~
+233 311433 10
+D0
+~
+~
+0 -1 23354
+D3
+~
+~
+0 -1 23356
+D5
+~
+~
+0 -1 23362
+Z3
+C-1
+S
+#23358
+{B}Swimming Through a {G}__)_){M}G{R}e{M}l{R}A{M}t{R}i{M}N{R}o{M}u{R}S{G}(_(__ {B}Liquid.{b}~
+{BLU}
+   There must be some sort of large drain at the bottom of this reservoir
+because the current keeps pulling you under. The sheer weight of the
+liquid makes it hard to move around in. You can also see small creatures
+swimming around. You had better hope they are friendly because you are
+running out of breath and there is no place in sight to get more. You 
+become a little panicky as you rush around thinking that there must be 
+some way out of this place.
+ 
+~
+233 311433 10
+D1
+~
+~
+0 -1 23359
+D2
+~
+~
+0 -1 23361
+D4
+~
+~
+0 -1 23353
+D5
+~
+~
+0 -1 23365
+Z3
+C-1
+S
+#23359
+{B}Swimming Through a {G}__)_){M}G{R}e{M}l{R}A{M}t{R}i{M}N{R}o{M}u{R}S{G}(_(__ {B}Liquid.{b}~
+{BLU}
+   There must be some sort of large drain at the bottom of this reservoir
+because the current keeps pulling you under. The sheer weight of the
+liquid makes it hard to move around in. You can also see small creatures
+swimming around. You had better hope they are friendly because you are
+running out of breath and there is no place in sight to get more. You 
+become a little panicky as you rush around thinking that there must be 
+some way out of this place.
+ 
+~
+233 311433 10
+D1
+~
+~
+0 -1 23360
+D2
+~
+~
+0 -1 23362
+D3
+~
+~
+0 -1 23358
+D4
+~
+~
+0 -1 23354
+D5
+~
+~
+0 -1 23365
+Z3
+C-1
+S
+#23360
+{B}Swimming Through a {G}__)_){M}G{R}e{M}l{R}A{M}t{R}i{M}N{R}o{M}u{R}S{G}(_(__ {B}Liquid.{b}~
+{BLU}
+   There must be some sort of large drain at the bottom of this reservoir
+because the current keeps pulling you under. The sheer weight of the
+liquid makes it hard to move around in. You can also see small creatures
+swimming around. You had better hope they are friendly because you are
+running out of breath and there is no place in sight to get more. You 
+become a little panicky as you rush around thinking that there must be 
+some way out of this place.
+ 
+~
+233 311433 10
+D2
+~
+~
+0 -1 23363
+D3
+~
+~
+0 -1 23359
+D5
+~
+~
+0 -1 23365
+Z3
+C-1
+S
+#23361
+{B}Swimming Through a {G}__)_){M}G{R}e{M}l{R}A{M}t{R}i{M}N{R}o{M}u{R}S{G}(_(__ {B}Liquid.{b}~
+{BLU}
+   There must be some sort of large drain at the bottom of this reservoir
+because the current keeps pulling you under. The sheer weight of the
+liquid makes it hard to move around in. You can also see small creatures
+swimming around. You had better hope they are friendly because you are
+running out of breath and there is no place in sight to get more. You 
+become a little panicky as you rush around thinking that there must be 
+some way out of this place.
+ 
+~
+233 311433 10
+D0
+~
+~
+0 -1 23358
+D1
+~
+~
+0 -1 23362
+D4
+~
+~
+0 -1 23356
+D5
+~
+~
+0 -1 23365
+Z3
+C-1
+S
+#23362
+{B}Swimming Through a {G}__)_){M}G{R}e{M}l{R}A{M}t{R}i{M}N{R}o{M}u{R}S{G}(_(__ {B}Liquid.{b}~
+{BLU}
+   There must be some sort of large drain at the bottom of this reservoir
+because the current keeps pulling you under. The sheer weight of the
+liquid makes it hard to move around in. You can also see small creatures
+swimming around. You had better hope they are friendly because you are
+running out of breath and there is no place in sight to get more. You 
+become a little panicky as you rush around thinking that there must be 
+some way out of this place.
+ 
+~
+233 311433 10
+D0
+~
+~
+0 -1 23359
+D1
+~
+~
+0 -1 23363
+D3
+~
+~
+0 -1 23361
+D4
+~
+~
+0 -1 23357
+D5
+~
+~
+0 -1 23365
+Z3
+C-1
+S
+#23363
+{B}Swimming Through a {G}__)_){M}G{R}e{M}l{R}A{M}t{R}i{M}N{R}o{M}u{R}S{G}(_(__ {B}Liquid.{b}~
+{BLU}
+   There must be some sort of large drain at the bottom of this reservoir
+because the current keeps pulling you under. The sheer weight of the
+liquid makes it hard to move around in. You can also see small creatures
+swimming around. You had better hope they are friendly because you are
+running out of breath and there is no place in sight to get more. You 
+become a little panicky as you rush around thinking that there must be 
+some way out of this place.
+ 
+~
+233 311433 10
+D0
+~
+~
+0 -1 23360
+D1
+{B}
+   As you examine the wall here through the murky water you notice a 
+small flashing {R,BLI}red light{bli}{B}. When you look closer you can see that there 
+is a round shaped hatch in the wall. That button must be the switch 
+that opens the panel.
+ 
+~
+AccessPanel Panel Hatch~
+3 -1 23364
+D3
+~
+~
+0 -1 23362
+D5
+~
+~
+0 -1 23365
+Z3
+C-1
+S
+#23364
+{BLU}A{W}cces{BLU}s T{W}unne{BLU}l{blu}~
+{B}
+   It takes all your strength but you manage to close the access hatch 
+to this tunnel before all the water inside drained out. When you finally 
+catch you breath you look around to realize that you are in some sort of 
+long tube. This must be an access tunnel for workers to drain and work on 
+the tanks inside. It makes you glad that you were able to close the hatch 
+or you might have been shot out of the end of this tunnel like a shell out
+of a cannon. It gets a little lighter up ahead.
+{b}
+~
+233 294925 0
+D0
+~
+~
+0 -1 23366
+Z3
+C-1
+S
+#23365
+{B}T{BLU}h{B}e V{BLU}acuu{B}m A{BLU}ssiste{B}d D{BLU}rain{B}s{W}!{w}~
+{W}                      ______
+                   .-"      "-.
+                  /            \
+                 |              |
+                 |,  .-.  .-.  ,|
+                 | )(_{R}`{W}/  \_{R}`{W})( |
+                 |/     /\     \|
+       {B}(@_    {W}   (_     ^^     _)
+{B}  _    {B} ) \{BLU}_______{W}\__|IIIIII|__/{BLU}___________________{R}_______
+ {B}(_)@8@8{}{BLU}<________{W}|-\IIIIII/-|{BLU}____________________{R}_______>
+    {B}    )_/       {W} \          /                         {R}__'__   
+      {B} (@           {W}`--------` jgs
+ 
+You hear a voracious sucking sound as the drain pulls you in! There is
+no escape! You lose consciousness just before your body is ripped 
+apart by the vacuum. Your last thought is that it may have been better
+to drown.
+ 
+~
+233 262287 0
+X134
+Z3
+C-1
+S
+#23366
+{BLU}A{W}cces{BLU}s T{W}unne{BLU}l{blu}~
+{B}
+   The walls of the tunnel look to be very clean. There is none of the 
+dirt buildup you would expect to see if these tunnels were not used much. 
+They must drain these tanks on a regular basis to check them out. You hope 
+that they haven't got any work scheduled in here until after you get out.
+The tunnel is still fairly dark but it gets a little lighter up ahead.
+{b}
+~
+233 262153 0
+D0
+~
+~
+0 -1 23367
+D2
+~
+~
+0 -1 23364
+Z3
+C-1
+S
+#23367
+{BLU}A{W}cces{BLU}s T{W}unne{BLU}l{blu}~
+{B}
+   The walls of the tunnel look to be very clean. There is none of the 
+dirt buildup you would expect to see if these tunnels were not used much. 
+They must drain these tanks on a regular basis to check them out. You hope 
+that they haven't got any work scheduled in here until after you get out.
+The tunnel is getting much brighter. You must be close to getting outside.
+{b}
+~
+233 262152 0
+D0
+~
+~
+0 -1 23368
+D2
+~
+~
+0 -1 23366
+Z3
+C-1
+S
+#23368
+{R}||___{W}A Platform{R}___|| {W}Overlooking a {G}Fo{B}rest{G}ed A{B}re{G}a{g}~
+{W}
+   You exit the tunnel to find yourself standing on a permanent platform
+overlooking a small forest. The platform is attached near the base of a 
+large mountainside. The entire inner complex must be housed inside this 
+mountain. It looks as though you can climb down one of the water chutes 
+under the platform to get to the ground, although from the look of it 
+getting back up may be almost impossible. There is also a path to the east 
+that runs around the side of the mountain.
+{w}
+~
+233 262144 1
+D1
+~
+~
+0 -1 23373
+D2
+~
+~
+0 -1 23367
+D5
+~
+~
+0 -1 23369
+Z3
+C-1
+S
+#23369
+{W}A Small Clearing at the Base of the Platform{w}~
+{C}
+   You enter a small clearing at the base of a large platform. The 
+top of the platform seems to be just outside a small tunnel but there 
+is no way for you to get up to it. It looks like someone could get down
+through the slippery water chutes but could not get up them. Perhaps the
+woods around here will prove more interesting.
+{c}
+~
+233 17039360 2
+D0
+~
+~
+0 -1 23371
+D1
+~
+~
+0 -1 23372
+D3
+~
+~
+0 -1 23370
+Z3
+C-1
+S
+#23370
+{G}D{B}own {G}a T{B}unnel {G}o{B}f {G}T{B}all {G}T{B}rees.{b}~
+    {G},&&%&%%&%&&%&%%%&%&%&%&&%&%&%&%&%&%&%%&%&%%&%&%&%&%%%%%&%&&&%,
+  ,&&%%%&%&%&%&%&%&&&%&&%&%&%&%&&&%&%&%%&%&&%&%%&%&%%&%&%%&%%&%%&%%,
+{G},&&&%%&%&%&%%&%&%&&%%%&{B}\{G}%&&%&%&&&%&%&%&&%&%&&%%%%&{B}\{G}%%&%%&%%%&%&&&&%%&, 
+&&%%&%%&{B}\{G}%%&%%&&&%%%&%&%&%%&%&%%&%%{B}\{G}&&%%%%&%%&&%&%%&%%%%&%%{B}/{G}&%&%&&%%&%
+%&%&&%%&%&&%&%&%%%{B}/{G}%%%&&%%%%%&&{B}/{G}&%%%&&%%%&%&%&%%{B}\{G}&%&%&&&%&%&%&&%%&%%&%
+%%&{B}\{G}%&&%&&{B}/{G}%%%&%%&&%&%%&%&%&&&%%&&%&&%%&%%%%&{B}\{G}%&%&&%&&&&%%&%&%&&%&&%%
+&%&%%&%&%&&%&%&{B}/{G}%&&%%& {C}The trees make an{G} &%%&&%%&&%&%&{B}/{G}%&&%&&%&%&%&
+ %&&%%&&%%&&%{B}/{G} %&%%&&{C} eery canopy tunnel here.{G} %&&%{B}/{G} %&%%&&%%&&%&
+        `&%{B}\{G} `{B} /{G}%&'{C}You can sense that there are{G}`&%{B}\{G} `{B} /{G}%&'
+         {B}|| |o|{C}  small eyes watching you from all{B}  |o| || 
+         ||o|.| {C}over the place. Maybe they are just{B}|.|o|| 
+   ___ _//_/ ._\__{C}making sure you should be here{B}__/ ._\_\\_ ___
+ 
+~
+233 262144 3
+D1
+~
+~
+0 -1 23369
+D3
+~
+~
+0 -1 23532
+Z3
+C-1
+S
+#23371
+{B}W{G}a{B}n{G}d{B}e{G}r{B}i{G}n{B}g {G}T{B}h{G}r{B}o{G}u{B}g{G}h {B}T{G}h{B}e W{G}o{B}o{G}d{B}s{b}~
+{G}    ,&&%&%%&%&&%&%%%&%&%&%&&%&%&%&%&%&%&%%&%&%%&%&%&%&%%%%%&%&&&%,
+  ,&&%%%&%&%&%&%&%&&&%&&%&%&%&%&&&%&%&%%&%&&%&%%&%&%%&%&%%&%%&%%&%%,
+,&&&%%&%&%&%%&%&%&&%%%&{B}\{G}%&&%&%&&&%&%&%&&%&%&&%%%%&{B}\{G}%%&%%&%%%&%&&&&%%&, 
+&&%%&%%&{B}\{G}%%&%%&&&%%%&%&%&%%&%&%%&%%{B}\{G}&&%%%%&%%&&%&%%&%%%%&%%{B}/{G}&%&%&&%%&%
+%&%&&%%&%&&%&%&%%%{B}/{G}%%%&&%%%%%&&{B}/{G}&%%%&&%%%&%&%&%%{B}\{G}&%&%&&&%&%&%&&%%&%%&%
+%%&{B}\{G}%&&%&&{B}/{G}%%%&%%&&%&%%&%&%{B}\{G}&&%%&&%&&%%&%%%%&{B}\{G}%&%&&%&&&&%%&%&%&&%&&%%
+&%&%%&%&%&&%&%&{B}/{G}%&&%%&%%&%%&%%%&&&{B}/{G}%%%&%%&%%&&%%&&%&%&{B}/{G}%&&%&&%&%&%&
+ %&&%%&&%%&&%{B}/{G} %&%%&&'&&&%%'%&%&'%%&%%,%%%&%&&%%&&%{B}/{G} %&%%&&%%&&%&
+        `&%{B}\{G} ` {B}/{G}%&{B}\{G}'%{B}\{G}'%%%{B}/\{G}''&&'{B}/{G}%{B}\{G}'&''{B}/{G}&{B}\{G}''&'{B}//{G}%{B}\{G} ` {B}/{G}%&'
+        {B} || |o|{G}    {B}|o.|o.|  |.. |   |o |   |. ||   |o| || 
+         ||o|.|    |. | .|  |. o|   | .|   |o ||   |.|o|| 
+   ___ _//_/ ._\__/  /    \/     \ /    \ /    \\_/ ._\_\\_ ___
+{b}
+~
+233 262144 3
+D0
+~
+~
+0 -1 23380
+D1
+~
+~
+0 -1 23383
+D2
+~
+~
+0 -1 23369
+Z3
+C-1
+S
+#23372
+{B}W{G}a{B}n{G}d{B}e{G}r{B}i{G}n{B}g {G}T{B}h{G}r{B}o{G}u{B}g{G}h {B}T{G}h{B}e W{G}o{B}o{G}d{B}s{b}~
+{G}    ,&&%&%%&%&&%&%%%&%&%&%&&%&%&%&%&%&%&%%&%&%%&%&%&%&%%%%%&%&&&%,
+  ,&&%%%&%&%&%&%&%&&&%&&%&%&%&%&&&%&%&%%&%&&%&%%&%&%%&%&%%&%%&%%&%%,
+,&&&%%&%&%&%%&%&%&&%%%&{B}\{G}%&&%&%&&&%&%&%&&%&%&&%%%%&{B}\{G}%%&%%&%%%&%&&&&%%&, 
+&&%%&%%&{B}\{G}%%&%%&&&%%%&%&%&%%&%&%%&%%{B}\{G}&&%%%%&%%&&%&%%&%%%%&%%{B}/{G}&%&%&&%%&%
+%&%&&%%&%&&%&%&%%%{B}/{G}%%%&&%%%%%&&{B}/{G}&%%%&&%%%&%&%&%%{B}\{G}&%&%&&&%&%&%&&%%&%%&%
+%%&{B}\{G}%&&%&&{B}/{G}%%%&%%&&%&%%&%&%{B}\{G}&&%%&&%&&%%&%%%%&{B}\{G}%&%&&%&&&&%%&%&%&&%&&%%
+&%&%%&%&%&&%&%&{B}/{G}%&&%%&%%&%%&%%%&&&{B}/{G}%%%&%%&%%&&%%&&%&%&{B}/{G}%&&%&&%&%&%&
+ %&&%%&&%%&&%{B}/{G} %&%%&&'&&&%%'%&%&'%%&%%,%%%&%&&%%&&%{B}/{G} %&%%&&%%&&%&
+        `&%{B}\{G} ` {B}/{G}%&{B}\{G}'%{B}\{G}'%%%{B}/\{G}''&&'{B}/{G}%{B}\{G}'&''{B}/{G}&{B}\{G}''&'{B}//{G}%{B}\{G} ` {B}/{G}%&'
+        {B} || |o|{G}    {B}|o.|o.|  |.. |   |o |   |. ||   |o| || 
+         ||o|.|    |. | .|  |. o|   | .|   |o ||   |.|o|| 
+   ___ _//_/ ._\__/  /    \/     \ /    \ /    \\_/ ._\_\\_ ___
+{b}
+~
+233 262144 3
+D0
+~
+~
+0 -1 23383
+D3
+~
+~
+0 -1 23369
+Z3
+C-1
+S
+#23373
+{BLU}/{C}`{BLU}\ {B}A{R}round {B}t{R}he {B}S{R}ide {B}o{R}f {B}t{R}he {B}M{R}ountain {BLU}/{C}`{BLU}\{blu}~
+{W}
+   This path was obviously etched into the side of this mountain by the 
+people who created the complex inside it. It is just wide enough to allow 
+for the passage of small machinery and looks fairly well traveled. This 
+must be the way the workers bring in the equipment they need to work on 
+the tunnel and the tanks inside. The path continues to the east where it 
+turns a corner and goes out of sight.  
+{w}
+~
+233 262144 5
+D1
+~
+~
+0 -1 23374
+D3
+~
+~
+0 -1 23368
+Z3
+C-1
+S
+#23374
+{B}_/{W}`{B}\_{G}R{B}_/{W}`{B}\_{G}O{B}_/{W}`{B}\_{G}C{B}_/{W}`{B}\_{G}K{B}_/{W}`{B}\_{G}S{B}_/{W}`{B}\_{G}L{B}_/{W}`{B}\_{G}I{B}_/{W}`{B}\_{G}D{B}_/{W}`{B}\_{G}E{B}_/{W}`{B}\_{b}~
+{W}
+   As you turn the corner you come to a sudden halt when you see that the 
+path you have been walking on has been completely blocked by a recent 
+rockslide. Part of the mountain must have given way very recently covering
+the entire path. Since there is no way to get around the massive boulders 
+blocking your way, there are really only two things to do. You can either 
+go back the way you came or try and climb down the rocks to get to the base
+of the mountain.
+{w}
+~
+233 262144 5
+D3
+~
+~
+0 -1 23373
+D5
+~
+~
+0 -1 23375
+Z3
+C-1
+S
+#23375
+{B}Sliding down the Slippery Slope{b}~
+{C} 
+   Note to self...
+         Rocks in a fresh rockslide are...
+
+                {R}V E R Y ...
+
+                      {W}S L I P P E R Y ! ! ! ! 
+
+                              {Y}W W W A A A H H H ! ! !
+
+~
+233 1310720 4
+D5
+~
+~
+0 -1 23376
+Z3
+C-1
+S
+#23376
+{B}At the Base of the Rockslide{b}~
+{W}
+   You manage to make it to the base of the mountain without getting hit
+by any crashing boulders. Wow what a ride! You feel very lucky when you 
+look around and realize there were many creatures that got caught in the 
+landslide and were not able to get out of its way. Well, you can't go back 
+the way you came now. The only thing you can do is explore the forest that 
+looms in front of you.
+{w}
+~
+233 262144 4
+D0
+~
+~
+0 -1 23377
+Z3
+C-1
+S
+#23377
+{B}W{G}a{B}n{G}d{B}e{G}r{B}i{G}n{B}g {G}T{B}h{G}r{B}o{G}u{B}g{G}h {B}T{G}h{B}e W{G}o{B}o{G}d{B}s{b}~
+{G}    ,&&%&%%&%&&%&%%%&%&%&%&&%&%&%&%&%&%&%%&%&%%&%&%&%&%%%%%&%&&&%,
+  ,&&%%%&%&%&%&%&%&&&%&&%&%&%&%&&&%&%&%%&%&&%&%%&%&%%&%&%%&%%&%%&%%,
+,&&&%%&%&%&%%&%&%&&%%%&{B}\{G}%&&%&%&&&%&%&%&&%&%&&%%%%&{B}\{G}%%&%%&%%%&%&&&&%%&, 
+&&%%&%%&{B}\{G}%%&%%&&&%%%&%&%&%%&%&%%&%%{B}\{G}&&%%%%&%%&&%&%%&%%%%&%%{B}/{G}&%&%&&%%&%
+%&%&&%%&%&&%&%&%%%{B}/{G}%%%&&%%%%%&&{B}/{G}&%%%&&%%%&%&%&%%{B}\{G}&%&%&&&%&%&%&&%%&%%&%
+%%&{B}\{G}%&&%&&{B}/{G}%%%&%%&&%&%%&%&%{B}\{G}&&%%&&%&&%%&%%%%&{B}\{G}%&%&&%&&&&%%&%&%&&%&&%%
+&%&%%&%&%&&%&%&{B}/{G}%&&%%&%%&%%&%%%&&&{B}/{G}%%%&%%&%%&&%%&&%&%&{B}/{G}%&&%&&%&%&%&
+ %&&%%&&%%&&%{B}/{G} %&%%&&'&&&%%'%&%&'%%&%%,%%%&%&&%%&&%{B}/{G} %&%%&&%%&&%&
+        `&%{B}\{G} ` {B}/{G}%&{B}\{G}'%{B}\{G}'%%%{B}/\{G}''&&'{B}/{G}%{B}\{G}'&''{B}/{G}&{B}\{G}''&'{B}//{G}%{B}\{G} ` {B}/{G}%&'
+        {B} || |o|{G}    {B}|o.|o.|  |.. |   |o |   |. ||   |o| || 
+         ||o|.|    |. | .|  |. o|   | .|   |o ||   |.|o|| 
+   ___ _//_/ ._\__/  /    \/     \ /    \ /    \\_/ ._\_\\_ ___
+{b}
+~
+233 262144 3
+D0
+~
+~
+0 -1 23378
+D2
+~
+~
+0 -1 23376
+D3
+~
+~
+0 -1 23372
+Z3
+C-1
+S
+#23378
+{B}A {G}S{B}mal{G}l C{B}learin{G}g {B}by the {G}---.{C}_{BLU}L{C}_{BLU}a{C}_{BLU}k{C}_{BLU}e{C}_{BLU}s{C}_{BLU}i{C}_{BLU}d{C}_{BLU}e{C}_{G}.---{g}~
+{G}
+&&%%%&%&%%%&&&%%                                         %&&%&%%&%&%%&%&%
+%%&&&%{B}\{G}&%%&&%&                                             %%&&&%%&%%{B}/{G}&%&
+&&%&&%%&&%&%                                                 %%&%%%&%&%&%
+'%&%&'{B}/ /{G}_{BLU}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^{G}_{B}\ \{G}'%&&&'
+{B}  |  |o|  {G}\{BLU}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^{G}/{B}  |o|  |
+  | o| |   {G}'-------------------------------------------------'  {B} | | o|
+{G}_{B}/{G} __{B} \{G}_{B}\{G}__ ___ ______   ___   _____ _______  __  _______  ___ _{B}/{G}_{B}/{G} __{B} \{G}_
+ 
+{W}   You have come upon quite a peaceful setting. The woods here open
+up into a small clearing that looks out over a lake. The water is crystal 
+clear and is as calm as can be. You are jarred from your thoughts by the 
+roars from explosions and trees collapsing coming from the east. What 
+on earth is going on?!?!
+{w}
+~
+233 262144 1
+D1
+~
+~
+0 -1 23379
+D2
+~
+~
+0 -1 23377
+D3
+~
+~
+0 -1 23371
+Z3
+C-1
+S
+#23379
+{W}G{R}r{W}o{R}u{W}n{R}d {W}Z{R}e{W}r{R}o {B}of a {C}T{W}itani{C}c {C}F{W}igh{C}t!{c}~
+{W}
+   You arrive just {R}in time {W}to see a {R}massive {W}bear-like {R}creature {W}rip the
+{R}chest {W}plates off of {R}what ap{W}pears to b{R}e a guy{W}ver unit. W{R}hatever{W} was 
+i{R}nside {W}of the unit sc{R}reams a{W}nd writhes {R}as it {W}sizzles and {R}disin{W}tegrates 
+fr{R}om the {W}acid that the{R} massive {W}creature {R}ejects {W}from his hu{R}ge cl{W}aws. It
+app{R}ears to {W}be examining {R}the corp{W}se. Is it {R}look{W}ing for some{R}thing? {W}You don't
+have {R}long to {W}ponder the s{R}ituation {W}as the cr{R}eatu{W}re seems to {R}have n{W}oticed
+you. I {R}don't {W}think it wan{R}ted any visi{W}tors. W{R}atch {W}out!!
+{r}
+~
+233 262144 3
+D3
+~
+~
+0 -1 23378
+Z3
+C-1
+S
+#23380
+{B}W{G}a{B}n{G}d{B}e{G}r{B}i{G}n{B}g {G}T{B}h{G}r{B}o{G}u{B}g{G}h {B}T{G}h{B}e W{G}o{B}o{G}d{B}s{b}~
+{G}    ,&&%&%%&%&&%&%%%&%&%&%&&%&%&%&%&%&%&%%&%&%%&%&%&%&%%%%%&%&&&%,
+  ,&&%%%&%&%&%&%&%&&&%&&%&%&%&%&&&%&%&%%&%&&%&%%&%&%%&%&%%&%%&%%&%%,
+,&&&%%&%&%&%%&%&%&&%%%&{B}\{G}%&&%&%&&&%&%&%&&%&%&&%%%%&{B}\{G}%%&%%&%%%&%&&&&%%&, 
+&&%%&%%&{B}\{G}%%&%%&&&%%%&%&%&%%&%&%%&%%{B}\{G}&&%%%%&%%&&%&%%&%%%%&%%{B}/{G}&%&%&&%%&%
+%&%&&%%&%&&%&%&%%%{B}/{G}%%%&&%%%%%&&{B}/{G}&%%%&&%%%&%&%&%%{B}\{G}&%&%&&&%&%&%&&%%&%%&%
+%%&{B}\{G}%&&%&&{B}/{G}%%%&%%&&%&%%&%&%{B}\{G}&&%%&&%&&%%&%%%%&{B}\{G}%&%&&%&&&&%%&%&%&&%&&%%
+&%&%%&%&%&&%&%&{B}/{G}%&&%%&%%&%%&%%%&&&{B}/{G}%%%&%%&%%&&%%&&%&%&{B}/{G}%&&%&&%&%&%&
+ %&&%%&&%%&&%{B}/{G} %&%%&&'&&&%%'%&%&'%%&%%,%%%&%&&%%&&%{B}/{G} %&%%&&%%&&%&
+        `&%{B}\{G} ` {B}/{G}%&{B}\{G}'%{B}\{G}'%%%{B}/\{G}''&&'{B}/{G}%{B}\{G}'&''{B}/{G}&{B}\{G}''&'{B}//{G}%{B}\{G} ` {B}/{G}%&'
+        {B} || |o|{G}    {B}|o.|o.|  |.. |   |o |   |. ||   |o| || 
+         ||o|.|    |. | .|  |. o|   | .|   |o ||   |.|o|| 
+   ___ _//_/ ._\__/  /    \/     \ /    \ /    \\_/ ._\_\\_ ___
+{b}
+~
+233 262144 3
+D1
+~
+~
+0 -1 23384
+D2
+~
+~
+0 -1 23371
+D3
+~
+~
+0 -1 23381
+Z3
+C-1
+S
+#23381
+{G}|||{W}\\\\{B}____{Y}Q{B}___{Y}U{B}___{Y}I{B}___{Y}C{B}___{Y}K{B}___{Y}S{B}___{Y}A{B}___{Y}N{B}___{Y}D{B}____{W}////{G}|||{g}~
+ 
+{B}\\\\{Y}The quicksand looks quite deadly here. When you look{B}//////
+{B}\\\\{Y}around you can see the bones of some people who were{B}//////
+\\\\{Y}not able to pull themselves fully out of the quicksand{B}////
+\\\\{Y}and must have just died there. Or perhaps there is a{B}//////
+\\\\{Y}creature of some sort that kills them in there. You{B}///////
+\\\\{Y}are just happy that you have that flying spell active{B}/////
+\\\\{Y}or you might have added you bones to the pile.{B}////////////{b}
+ 
+~
+233 262146 9
+D0
+~
+~
+0 -1 23382
+D1
+~
+~
+0 -1 23380
+Z3
+C-1
+S
+#23382
+{BLU}Z{B}oalord {BLU}B{B}alcus' {W}H{BLU}yper{W}Z{BLU}oanoid L{B}ost {BLU}U{B}nit{b}~
+{B}
+   The chief engineer at Chronos Japan, Dr. Balcus had many triumphs and 
+failures when he started to make his {W}H{BLU}yper{W}Z{BLU}oanoids{B}. He tried to eliminate 
+his mistakes but they had a nasty habit of not wanting to be removed. 
+Their tenacity was such that he decided to use them for certain... "tasks"
+that he had that he did not want to risk his prized {W}H{BLU}yper{W}Z{BLU}oanoid Team {R}5{B} on. 
+After their last mission the team disappeared without a trace. It would 
+appear that you have found them.
+{b}
+~
+233 262144 3
+D2
+~
+~
+0 -1 23381
+Z3
+C-1
+S
+#23383
+{B}W{G}a{B}n{G}d{B}e{G}r{B}i{G}n{B}g {G}T{B}h{G}r{B}o{G}u{B}g{G}h {B}T{G}h{B}e W{G}o{B}o{G}d{B}s{b}~
+{G}    ,&&%&%%&%&&%&%%%&%&%&%&&%&%&%&%&%&%&%%&%&%%&%&%&%&%%%%%&%&&&%,
+  ,&&%%%&%&%&%&%&%&&&%&&%&%&%&%&&&%&%&%%&%&&%&%%&%&%%&%&%%&%%&%%&%%,
+,&&&%%&%&%&%%&%&%&&%%%&{B}\{G}%&&%&%&&&%&%&%&&%&%&&%%%%&{B}\{G}%%&%%&%%%&%&&&&%%&, 
+&&%%&%%&{B}\{G}%%&%%&&&%%%&%&%&%%&%&%%&%%{B}\{G}&&%%%%&%%&&%&%%&%%%%&%%{B}/{G}&%&%&&%%&%
+%&%&&%%&%&&%&%&%%%{B}/{G}%%%&&%%%%%&&{B}/{G}&%%%&&%%%&%&%&%%{B}\{G}&%&%&&&%&%&%&&%%&%%&%
+%%&{B}\{G}%&&%&&{B}/{G}%%%&%%&&%&%%&%&%{B}\{G}&&%%&&%&&%%&%%%%&{B}\{G}%&%&&%&&&&%%&%&%&&%&&%%
+&%&%%&%&%&&%&%&{B}/{G}%&&%%&%%&%%&%%%&&&{B}/{G}%%%&%%&%%&&%%&&%&%&{B}/{G}%&&%&&%&%&%&
+ %&&%%&&%%&&%{B}/{G} %&%%&&'&&&%%'%&%&'%%&%%,%%%&%&&%%&&%{B}/{G} %&%%&&%%&&%&
+        `&%{B}\{G} ` {B}/{G}%&{B}\{G}'%{B}\{G}'%%%{B}/\{G}''&&'{B}/{G}%{B}\{G}'&''{B}/{G}&{B}\{G}''&'{B}//{G}%{B}\{G} ` {B}/{G}%&'
+        {B} || |o|{G}    {B}|o.|o.|  |.. |   |o |   |. ||   |o| || 
+         ||o|.|    |. | .|  |. o|   | .|   |o ||   |.|o|| 
+   ___ _//_/ ._\__/  /    \/     \ /    \ /    \\_/ ._\_\\_ ___
+{b}
+~
+233 262144 3
+D0
+~
+~
+0 -1 23384
+D2
+~
+~
+0 -1 23372
+D3
+~
+~
+0 -1 23371
+Z3
+C-1
+S
+#23384
+{B}W{G}a{B}n{G}d{B}e{G}r{B}i{G}n{B}g {G}T{B}h{G}r{B}o{G}u{B}g{G}h {B}T{G}h{B}e W{G}o{B}o{G}d{B}s{b}~
+{G}    ,&&%&%%&%&&%&%%%&%&%&%&&%&%&%&%&%&%&%%&%&%%&%&%&%&%%%%%&%&&&%,
+  ,&&%%%&%&%&%&%&%&&&%&&%&%&%&%&&&%&%&%%&%&&%&%%&%&%%&%&%%&%%&%%&%%,
+,&&&%%&%&%&%%&%&%&&%%%&{B}\{G}%&&%&%&&&%&%&%&&%&%&&%%%%&{B}\{G}%%&%%&%%%&%&&&&%%&, 
+&&%%&%%&{B}\{G}%%&%%&&&%%%&%&%&%%&%&%%&%%{B}\{G}&&%%%%&%%&&%&%%&%%%%&%%{B}/{G}&%&%&&%%&%
+%&%&&%%&%&&%&%&%%%{B}/{G}%%%&&%%%%%&&{B}/{G}&%%%&&%%%&%&%&%%{B}\{G}&%&%&&&%&%&%&&%%&%%&%
+%%&{B}\{G}%&&%&&{B}/{G}%%%&%%&&%&%%&%&%{B}\{G}&&%%&&%&&%%&%%%%&{B}\{G}%&%&&%&&&&%%&%&%&&%&&%%
+&%&%%&%&%&&%&%&{B}/{G}%&&%%&%%&%%&%%%&&&{B}/{G}%%%&%%&%%&&%%&&%&%&{B}/{G}%&&%&&%&%&%&
+ %&&%%&&%%&&%{B}/{G} %&%%&&'&&&%%'%&%&'%%&%%,%%%&%&&%%&&%{B}/{G} %&%%&&%%&&%&
+        `&%{B}\{G} ` {B}/{G}%&{B}\{G}'%{B}\{G}'%%%{B}/\{G}''&&'{B}/{G}%{B}\{G}'&''{B}/{G}&{B}\{G}''&'{B}//{G}%{B}\{G} ` {B}/{G}%&'
+        {B} || |o|{G}    {B}|o.|o.|  |.. |   |o |   |. ||   |o| || 
+         ||o|.|    |. | .|  |. o|   | .|   |o ||   |.|o|| 
+   ___ _//_/ ._\__/  /    \/     \ /    \ /    \\_/ ._\_\\_ ___
+{b}
+~
+233 262144 3
+D2
+~
+~
+0 -1 23383
+D3
+~
+~
+0 -1 23380
+Z3
+C-1
+S
+#23385
+{g}{R}Fa{B}llin{R}g{G} {R}Th{B}rou{R}gh{G} {R}t{B}h{R}e S{B}in{R}s{G} {R}o{B}f {R}t{B}h{R}e{G} {R}W{B}orl{R}d{B}! {g}~
+{R}
+{g}{R}   Searing pain flows through and past you as you experience the sins of the{g}
+{g}{R}world and the abominations of mankind! {g}
+ 
+{g}{W}All the torment{R}! {g}
+ 
+        {g}{W}All the anguish!{g}
+ 
+                {g}{W}What is it all for{R}???{g}
+ 
+                        {g}{W}Why are we here{R}???{g}
+ 
+                                {g}{W}Why{R}? {W}Why{R}? {W}Why{R}? {g}
+{r} 
+~
+233 1310720 1
+D1
+~
+~
+0 -1 23386
+Z3
+C-1
+S
+#23386
+{g}{R}T{B}h{R}e L{B}ai{R}r o{B}f {R}t{B}h{R}e {B}\{R}^{Y}^{R}^{Y}^{R}^{B}/_{R}D{B}_{R}i{B}_{R}a{B}_{R}b{B}_{R}o{B}_{R}l{B}_{R}u{B}_{R}s{B}_\{R}^{Y}^{R}^{Y}^{R}^{B}/ {g}~
+{B}_{R}___|____{B}___.___|___________|_{R}.______.__{B}_|______.___|___.___{R}_.__|___{B}_{g}
+{B} {R} ..    .{B}  | ..    ..  |   ..  {R} .  {g} {R} .{g} {B}. {g} {B}  .  |  ...  ..  |  {R}  .. {B}    {g}
+{B} . {W}\{g}{BLI}{R}^^{g}{bli}{W}/{B} .. |   . ..  . | ..  .. ..{W}\{g}{BLI}{R}^^{g}{bli}{W}/{B}  . ..   | .  {g}{B}... .  |...{W}\{g}{BLI}{R}^^{g}{bli}{W}/{B}. .{g}
+{B}_ {W}-+||+-{B}___|{R}__._____.__|{B}________ {W}-+||+-{B}__.____{R}_|____{B}_______|__{W}-+||+-{B}._{g}
+  {W}-+||+-{B}  ..  . {R}| .   .{B}.  . |..  {W}-+||+-{B}. |  {R} ..  . .|  . {B}  ...{W}-+||+-{B}  {g}
+{B}. . {W}||{B}   .. {R}..  | .{B} ..  ..  |  ..  {W}||{B}  . |{R}     . .. {B}|   ...   . {W}||{B} .. {g}
+{B}_.__{W}\/{B}______.___|___.__{R}_____|{B}_.____{W}\/{B}____|_____{R}_._{B}__|_____{R}____{B}__{W}\/{B}____{g}
+{B}   .{g} {B}  ..  |  ... .  .{R} |   ... .  {B} |. . {R} .. .  |..{B}    ..  {R} |. .. {B}  . .{g}
+{B}. .  {g} {B}   . |..     ..  | ..     .. |   ..    . |   ...  .. |.. ..  . {g}
+ 
+~
+233 262144 1
+D1
+~
+~
+0 -1 27836
+D3
+~
+~
+0 -1 27831
+Z3
+C-1
+S
+#23387
+{R}St{B}air{R}way I{B}nt{R}o Dar{B}kn{R}ess{r}~
+{B}_{R}___|____{B}___.___|___________|_.______.___|______.___|___.___{R}_.__|___{B}_{g}
+{B} {R} ..    .{B}  |. /|.. .. |.. . ..   . | ..   . .  |  .   .|\  |  {R}  .. {B}    {g}
+{B} . {W}\{g}{BLI}{R}^^{g}{bli}{W}/{B} .. | /.|._.___|__._____..__|____.____._|___.__.|.\ |...{W}\{g}{BLI}{R}^^{g}{bli}{W}/{B}. .{g}
+{B}_ {W}-+||+-{B}___|/. /  . \_____________________________/.   \ .\|__{W}-+||+-{B}._{g}
+  {W}-+||+-{B}  .|. / .   /| .  {R}._/\_/\_/\_/\_/\_.{B}  .. |\ . . \. |..{W}-+||+-{B}  {g}
+{B}. . {W}||{B}   ..|./  .  / |..{R} /{Y}.{B}||{Y}..{B}|______|{Y}..{B}||{Y}.{R}\{B}  . | \   . \.|  . {W}||{B} .. {g}
+{B}_.__{W}\/{B}_____./ . . / {BLU}_{B}|{BLU}__{R}|{B} {Y}*{B}||_/________\_||{Y}*{B} {R}|{BLU}_{B}.{BLU}_{B}|{BLU}_ {B}\  .  \.{R}__{B}__{W}\/{B}____{g}
+{B}   .{g} {B}  ..  | .   /{BLU}_/{B}  {BLU} /U.{B}_|/____________\|_{BLU}.U\{B}    {BLU}\_{B}\  .  {R}|. .. {B}  . .{g}
+{B}. .  {g} {B}   . |____/{BLU}_____//.{B}____________________{BLU}.\\______{B}\____|.. ..  . {g}
+ 
+~
+233 262144 1
+D0
+~
+~
+0 -1 27835
+D5
+~
+~
+0 -1 23388
+Z3
+C-1
+S
+#23388
+{R}Eerily glowing room{r}~
+You are standing in nowhere !!!!
+~
+233 262144 1
+D2
+~
+~
+0 -1 23389
+D4
+~
+~
+0 -1 23387
+Z3
+C-1
+S
+#23389
+{W}_-'{R}D{W}\/{R}i{W}\/{R}a{W}\/{R}b{W}\/{R}o{W}\/{R}l{W}\/{R}u{W}\/{R}s{W}'-_{w}~
+You are standing in nowhere !!!!
+~
+233 262144 1
+D0
+~
+~
+0 -1 23388
+Z3
+C-1
+S
+#23390
+{W}A V{B}ery {W}T{B}ight {W}T{B}unnel{b}~
+{B}
+   The tunnel gets really cramped in here. It becomes slow going as 
+you need to crawl just to make any forward progress. You would think 
+that a r{BLU}ive{B}r that flows{BLU} as q{B}uickly as t{BLU}his{B} one would be abl{BLU}e t{B}o carve 
+out a {BLU}bit larg{B}er of a {BLU}tunnel o{B}ut of t{BLU}he rock. {B}Hopefull{BLU}y, the tun{B}nel 
+{BLU}will open up again at some point. One slip and you will go head first 
+into the swift moving river. Besides, all this lack of space is starting 
+to make you feel a bit claustrophobic.
+{blu}
+~
+233 262145 0
+D1
+~
+~
+0 -1 23391
+D3
+~
+~
+0 -1 23538
+Z3
+C2
+S
+#23391
+{W}A S{B}mall {W}A{B}lcove {W}W{B}orn {W}O{B}ut {W}O{B}f {W}T{B}he {W}R{B}ock{b}~
+{B}
+   You have entered a small alcove that must have been etched from the
+rock by the flowing river. You can see that the river goes into the 
+mountain itself at this point. When you look down into the water you can
+{BLU}also see some pipes c{B}oming from out of the rock on both sides. That must
+{BLU}be the reason why the c{B}urrent is unnaturally strong. They are blowing 
+{BLU}water out into the bottom of the river. They must be some sort of{B} exhaust 
+{BLU}vents for something... but for what?
+{blu}
+~
+233 17039361 0
+D3
+~
+~
+0 -1 23390
+D4
+{B}
+   You can just make out the outline of a grate in the ceiling. It looks
+to be very rusty. It obviously hasn't been used in a long time. I wonder
+where it might lead to?
+{b}
+~
+Grate Rusty~
+3 -1 23301
+E
+grate~
+{B}
+   You can just make out the outline of a grate in the ceiling. It looks
+to be very rusty. It obviously hasn't been used in a long time. I wonder
+where it might lead to?
+{b}
+~
+Z3
+C-1
+S
+#23392
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+233 262144 1
+Z3
+C-1
+S
+#23393
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+233 262144 1
+Z3
+C-1
+S
+#23394
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+233 262144 1
+Z3
+C-1
+S
+#23395
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+233 262144 1
+Z3
+C-1
+S
+#23396
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+233 262144 1
+Z3
+C-1
+S
+#23397
+{G}@`@,@`@,@`@ {B}Wandering Through the Underbrush{G} @`@,@`@,@`@{g}~
+{G}    ,&&%&%%&%&&%&%%%&%&%&%&&%&%&%&%&%&%&%%&%&%%&%&%&%&%%%%%&%&&&%,
+  ,&&%%%&%&%&%&%&%&&&%&&%&%&%&%&&&%&%&%%&%&&%&%%&%&%%&%&%%&%%&%%&%%,
+,&&&%%&%&%&%%&%&%&&%%%&{B}\{G}%&&%&%&&&%&%&%&&%&%&&%%%%&{B}\{G}%%&%%&%%%&%&&&&%%&, 
+&&%%&%%&{B}\{G}%%&%%&&&%%%&%&%&%%&%&%%&%%{B}\{G}&&%%%%&%%&&%&%%&%%%%&%%{B}/{G}&%&%&&%%&%
+%&%&&%%&%&&%&%&%%%{B}/{G}%%%&&%%%%%&&{B}/{G}&%%%&&%%%&%&%&%%{B}\{G}&%&%&&&%&%&%&&%%&%%&%
+%%&{B}\{G}%&&%&&{B}/{G}%%%&%%&&%&%%&%&%{B}\{G}&&%%&&%&&%%&%%%%&{B}\{G}%&%&&%&&&&%%&%&%&&%&&%%
+&%&%%&%&%&&%&%&{B}/{G}%&&%%&%%&%%&%%%&&&{B}/{G}%%%&%%&%%&&%%&&%&%&{B}/{G}%&&%&&%&%&%&
+ %&&%%&&%%&&%{B}/{G} %&%%&&'&&&%%'%&%&'%%&%%,%%%&%&&%%&&%{B}/{G} %&%%&&%%&&%&
+        `&%{B}\{G} ` {B}/{G}%&{B}\{G}'%{B}\{G}'%%%{B}/\{G}''&&'{B}/{G}%{B}\{G}'&''{B}/{G}&{B}\{G}''&'{B}//{G}%{B}\{G} ` {B}/{G}%&'
+        {B} || |o|{G}    {B}|o.|o.|  |.. |   |o |   |. ||   |o| || 
+         ||o|.|    |. | .|  |. o|   | .|   |o ||   |.|o|| 
+   ___ _//_/ ._\__/  /    \/     \ /    \ /    \\_/ ._\_\\_ ___
+{b}
+~
+233 262144 3
+D3
+~
+~
+0 -1 23529
+D5
+~
+~
+0 -1 23398
+Z3
+C-1
+S
+#23398
+{B}An Underground Tunnel{b}~
+{B}
+   What you thought was a small hole from above, actually turns out to 
+be quite a large room. It has been excavated from the earth beneath a 
+large tree. Before you can wonder who may have gone to the trouble of 
+creating such a place, you are struck with the realization that you are
+not alone. There is a very large hound, if you can still call it that, 
+sniffing around in the corner. It is hideously grotesque in that it looks
+like the outer layer of skin was removed from it revealing the muscle 
+beneath. You can't tell if it is here guarding the room or looking for
+something. Maybe you had better not stick around to find out.
+{b}
+~
+233 262144 1
+D0
+~
+~
+0 -1 23399
+D4
+~
+~
+0 -1 23397
+Z3
+C-1
+S
+#23399
+{B}A Small Room Excavated from the Earth{b}~
+{B}
+   You have entered a small room that has been etched out from the
+underside of a tree. Most of the ceiling is actually the root system
+from the tree above. There are several make-shift tables lying against
+the walls throughout the room. For all the rustic feel and simplicity of
+it, the computers sitting on the tables look quite sophisticated. Why on
+earth would someone with this kind of technology hide it underground.
+{b}
+~
+233 294921 0
+D2
+~
+~
+0 -1 23398
+Z3
+C-1
+S
+$~

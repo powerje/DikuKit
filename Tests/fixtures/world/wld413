@@ -1,0 +1,2457 @@
+#41300
+{W}Courtyard of Mithril's Palace{w}~
+
+  You are in the courtyard of {WHITE}Mithril's Palace{white}.  You are surrounded
+  by beautiful sculpture gardens and fountains,  Birds flit in and out
+  of the trees and soft music echoes from all directions.
+  
+~
+413 4 1
+D0
+~
+~
+0 -1 41301
+Z-1
+C-1
+S
+#41301
+{W}Gatehouse of Mithril's Palace{w}~
+
+  You walk underneath a huge stone arch into the gatehouse, 
+  where you see an enormous {WHITE}gate{white} made of some glimmering
+  metal.  There is a small {CYAN}guardhouse{cyan} to the west.  The
+  gate is open since there is nothing to fear under Mithril's 
+  protective power.
+
+~
+413 0 1
+D0
+~
+~
+0 -1 41302
+D2
+~
+~
+0 -1 41300
+E
+gate~
+
+  {WHITE}Mithril's Gate{white} -- You have never seen anything like this gate 
+  before.  It seems impenetrable, yes it is shiny and polished.  
+  You cannot find a nick or a dent on the surface.  Runes and 
+  sigils of the Dwarven language are etched into the gate, but
+  they feel smooth as if they were engraved through mystical means.
+~
+E
+guardhouse~
+
+  The {CYAN}guardhouse{cyan} is now a small museum with its contents
+  visible from the gate.  It is full of weapons that tell the
+  history of the Dwarves and other warrior races.  You would like
+  to give some of them a try, but you would never be able to get
+  through those bars.
+
+~
+Z-1
+C-1
+S
+#41302
+{W}Entryway to Mithril's Castle{w}~
+
+{W}  {C}The Sigil Room - This is the central area inside 
+{W}  {C}the castle walls.  On the floor is a mosaic of jewels 
+{W}  {C}displaying Mithril's sigil.
+
+{W}  {B}{Y}@
+{W}  *{Y}@          {W}***{Y}@            {W}****{Y}@
+{W}  **{Y}@        {W}*****{Y}@          {W}******{Y}@
+{W}  ***{Y}@      {W}*******{Y}@        {W}********{Y}@
+{W}  ****{Y}@    {W}*********{Y}@      {W}**********{Y}@
+{W}  *****   ***********{Y}@    {W}************{Y}@
+{W}  ***** ******%  *****{Y}@  {W}*****%   {W}*****{Y}@
+{W}  ***********%    ***********%     *****{Y}@
+{W}  **********%      *********%       *****{Y}@
+{W}  *********%        *******%         *****{Y}@
+{W}  ********%          *****%          *****%
+{W}  *******%          *****%          *****%
+{W}  ***********************************************
+{W}  **************************************************
+{W}  *******************************************************
+
+{W}  {C}There is a {M}sign{C} here.
+
+~
+413 12 1
+D0
+~
+~
+0 -1 41304
+D1
+~
+~
+0 -1 41303
+D2
+~
+~
+0 -1 41301
+D4
+~
+~
+0 -1 41305
+E
+sign~
+   -----------------------------------------------------
+  (                                          INFORMATION
+  (  To visit {C}Zak{c}, please walk {R}East{r}  
+  (  {C}Adam{c} and {C}Eric{c}'s room is {R}West{r} of here
+  (  {C}Julie{c} is in the Living Room to the {R}North{r}
+  (  {W}Mithril{w}'s Laboratory is {R}Up{r} the stairs
+   -----------------------------------------------------
+~
+Z-1
+C-1
+S
+#41303
+{C}Zak's Room{c}~
+
+  You are in {C,BO}Zak{c,bo}'s room which is full of magical toys.
+  You look at the walls and see that they are made of
+  Legos!
+  
+  {C,BO}Zak{c,bo} is here building a robot servant out of spare parts
+  he found in his father's magical laboratory.
+
+~
+413 0 1
+D3
+~
+~
+0 -1 41302
+E
+zak~
+  {G,BOLD}Zak is wearing a {R}T{C}i{Y}e{M}-{BLU}D{W}y{R}e {G}shirt he made with his Dad.  
+  He is munching on 3D's and drinking a {R}C{W}o{R}k{W}e{G}.
+  
+  {W} ####  ####   ####   ####{BLU}               ####   #### 
+  {W}ZZZZZZZZZZZZZZZZZZZZZZZZZZ{BLU}             AAAAAAAAAAAAA
+  {W}ZZZZZZZZZZZZZZZZZZZZZZZZZZ{BLU}             AAAAAAAAAAAAA
+  {W}ZZZZZZZZZZZZZZZZZZZZZZZZZZ{BLU}             AAAAAAAAAAAAA
+  {W}ZZZZZZZZZZZZZZZZZZZZZZZZZZ{Y}             {BLU}AAAAAAAAAAAAA
+  {W}ZZZZZZZZZZZZZZZZZZZZZZZZZZ{Y} ####   #### {BLU}AAAAAAAAAAAAA
+  {Y}KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+  {Y}KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+  {Y}KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+  {Y}KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+  {Y}KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+~
+Z0
+C-1
+S
+#41304
+{C}Julie's Relaxation Room{c}~
+
+  This place is decorated with all manner of knick-knacks and
+  other {M}stuff{m}.  You see {C}Julie{c} on her padded relaxation throne 
+  surveying her kingdom.
+
+~
+413 8 1
+D2
+~
+~
+0 -1 41302
+E
+Julie~
+
+{W}Mitch's lovely wife {C}Julie{W} is here, crocheting an afghan and watching {R,BOL}Judge Judy{W,bol}.
+~
+Z-1
+C-1
+S
+#41305
+{C}Mithril's Laboratory{c}~
+  
+           {R,BO,BLINK}*{blink}
+   {BLU}pq     {R}.{BL}
+   {BL}||    {W}| {R}.{W}|    {C}You are in the laboratory of {W}Mithril{C}, who when 
+   {BL}||----{W}|{R}. {W}|{BL}--  {C}not fullfilling his lordly duties, dabbles in
+   {BL}||----------  {C}alchemy and the arcane arts.  All around are
+   {BL}||    {W}| {R}.{W}|    {C}strange vessels bubbling and swirling with 
+   {BL}||    {W}|{R}. {W}|    {C}hypnotic colors.  Fantastic magical sigils are
+   {BL}||   {W}/ {R}.. {W}\   {C}painted on the wall, between shelves full of
+   {BL}||  {W}|{R}%%%%%%{W}|  {C}hundreds of scrolls and mystical tomes.
+   {BL}||  {W}|{R}%%%%%%{W}|
+   {BL}||   {W}\____/   {M}M{W}i{M}l{W}e{M}s {C}the Jazz Cat is here...purring away....
+   {BL}||    
+ {BLU}######
+  
+~
+413 65548 1
+D0
+~
+~
+0 -1 552
+D1
+~
+~
+0 -1 593
+D2
+~
+~
+0 -1 3014
+D3
+~
+~
+0 -1 2000
+D5
+~
+~
+0 -1 41302
+E
+cat miles~
+  Miles is Mithril's big fuzzy grey and white tomcat.  He has
+  a pink nose and does not indulge in mouse hunting.
+~
+Z-1
+C-1
+S
+#41306
+{C}Adam and Eric's Room{c}~
+
+  Your feet slide out from underneath you!!!
+
+~
+413 1048576 1
+Z0
+C-1
+S
+#41307
+The Dungeon~
+  
+{BL}  ||||      ||||      ||||      ||||      ||||      ||||      
+  ||||      ||||      ||||      ||||      ||||      ||||      
+  ||||      ||||      ||||      ||||      ||||      ||||      
+  ||||      ||||      ||||      ||||      ||||      ||||      
+  ||||      ||||      ||||      ||||      ||||      ||||      
+  ||||      ||||      ||||      ||||      ||||      ||||      
+  ||||      ||||      ||||      ||||      ||||      ||||      
+  ||||      ||||      ||||      ||||      ||||      ||||      
+  ||||      ||||      ||||      ||||      ||||      ||||      
+  ||||      ||||      ||||      ||||      ||||      ||||      
+  ||||      ||||      ||||      ||||      ||||      ||||      
+  ||||      ||||      ||||      ||||      ||||      ||||      
+  ||||      ||||      ||||      ||||      ||||      ||||      
+  ||||      ||||      ||||      ||||      ||||      ||||      
+  ||||      ||||      ||||      ||||      ||||      ||||      
+  
+~
+413 4481160 1
+Z0
+C-1
+S
+#41310
+{Y}Docks at Quarmall{y}~
+  
+  {Y}You find yourself at the end of a long wharf, walking
+  along the creaky planks.  Various ships are docked there
+  and bob in the water while seedy sailors of every 
+  imaginable race tend them.  
+  
+  You see a {W}sign {Y}here that grabs your attention.
+  
+~
+413 65540 1
+D0
+~
+~
+0 -1 41311
+D2
+~
+~
+0 -1 13989
+E
+sign~
+  
+  {W}Welcome to the {C}Port of Quarmall{W}.  This is the departure 
+  port for all trips to the eternal city of {C}Lankhmar{W}.  Being
+  the primary economic and political center of Nehwon, there
+  are many interesting things there for all travelers.
+  
+  All travelers are advised to read all signs they encounter, 
+  as their survival will depend on adherence to the laws of
+  the City and their Gods.
+  
+  We recommend that only the hardiest of adventurers go beyond
+  the East gates to the {R}Sinking Lands {W}and beyond...beware!!
+~
+Z3
+C-1
+S
+#41311
+{Y}Docks at Quarmall{y}~
+  {Y}
+  The docks continue for some distance to the north.  In
+  the distance, you can see passengers boarding a 'tall' ship.
+  
+  To the west is the pier, an excellent place for someone to
+  hone their skills.
+  
+  There is another {W}sign{Y} here that you should read.
+  
+~
+413 65536 1
+D0
+~
+~
+0 -1 41312
+D2
+~
+~
+0 -1 41310
+D3
+{Y}
+  The pier is full of nautical nasties for you to slaughter!
+  
+~
+~
+0 -1 41380
+E
+sign~
+  
+  {W}Travel Information{C}-----------------------{W}
+  
+  While in Lankhmar, be aware that you are in a city ruled by
+  various gods and goddesses, all of whom do not necessarily get 
+  along.  If you do enter a temple and cause trouble, you may pay 
+  dearly.  If you steal from a temple, you may pay with your life
+  ...or worse!
+  
+  Lankhmar Tourist Board
+~
+E
+west pier~
+  {Y}
+  The pier is full of nautical nasties for you to slaughter!
+  
+~
+Z3
+C-1
+S
+#41312
+{Y}Docks at Quarmall{y}~
+  {Y}  
+  As you draw nearer, you can see the gangplank that leads up to
+  to a ferry.  Near the ship you see the first mate, and he is
+  ringing a bell for last call.  You better hurry if you want to
+  catch that ship!
+  
+  You should read the {W}sign{Y} before you board, if you know what's good
+  for you.
+  
+~
+413 65536 1
+D0
+~
+~
+0 -1 41313
+D2
+~
+~
+0 -1 41311
+E
+sign~
+  {W,BO}
+  Travel Infornation{C}-----------------------{W}
+  
+  Lankhmar, while an orderly city, is the home of the Thieves
+  Guild, who provide an essential part of the economy of Nehwon
+  by relieving people of their extra money and equipment.
+  
+  Actually, they will relieve you of *all* your money and equipment
+  if they can, so pay attention to whose hands are in your pockets!.
+  
+  {C}Lankhmar Tourist Board    {Y}-o-o-o-o-o-o-o-
+  
+~
+Z3
+C-1
+S
+#41313
+{Y}Ferry to Port of Lankhmar{y}~
+  
+  {Y}The tall {W}ship {Y}before you bears the name of 
+  Duke Danius.  It is just about to set sail for
+  Lankhmar.  I wonder how long it will take for the trip?
+  Hope there is decent food on board...
+  
+~
+413 16842752 1
+D2
+~
+~
+0 -1 41312
+Z3
+C-1
+S
+#41314
+{C,BO}The Port of Lankhmar{c,bo}~
+  
+  {W}Seagulls circle overhead in the hustle and bustle of this
+  major port.  A menagerie of stevedores, fishermen and other
+  suspicious characters swarm all over the docks.  To the north
+  you see grain towers and pens of animals flanking the entryway
+  into the city.
+  
+  You turn around and see that the ship you sailed in on is already
+  on its way back to get more passengers.
+  
+~
+413 8 1
+D2
+~
+~
+0 -1 41315
+Z3
+C-1
+S
+#41315
+{C,BO}Entrance to Lankhmar City{c,bo}~
+  
+  {C}You are at the entrance to the sprawling city of Lankhmar,
+  which is abuzz with day to day activities of a great
+  metropolis of Nehwon.  
+  
+  You can look south and see down {BO}Nun Street{bo,C}, which is empty
+  but for a few wandering rogues, greedily eyeing the purses
+  of passers-by.  To the east is {BO}The Street of the Gods{bo,C},
+  dominated by an ominous black building.  
+  
+  You find that you cannot pass through to the {BO}Street of 
+  the Gods{bo,C} as it has been blocked off for some reason by 
+  Lankhmar Soldiers.  Looks like you will have to find 
+  another path to get there.
+  
+~
+413 4 1
+D0
+~
+~
+0 -1 41314
+D2
+~
+~
+0 -1 41316
+Z3
+C-1
+S
+#41316
+{Y}Lankhmar: {C}Nun Street{c}~
+  
+  {C}This street is dusty and poorly-lit, which gives you an uneasy
+  feeling.  As you walk along, you see hawkers hauling their
+  merchandise from the port beyond the gate.  The street is flanked
+  by merchants and guildhalls, all of which are closed.
+  
+  You can barely make out the southern wall of the city at the
+  far southern end of the street.
+  
+  Various unsavory characters are roaming around here, looking 
+  for opportunities to enrich themselves at your expense.
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41315
+D2
+~
+~
+0 -1 41317
+Z4
+C-1
+S
+#41317
+{Y}Lankhmar: {C}Nun Street{c}~
+  
+  {C}Nun Street is dingy and scary, with cloaked figures 
+  scurrying about with some nefarious agenda.  No one will look
+  you in the eye as you pass.  They have their mind on your
+  coin purse.
+  
+  Covered in grime, a {Y,BO}sign{bo,C} catches your attention.
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41316
+D2
+~
+~
+0 -1 41318
+E
+sign~
+  
+  {W}Friendly Advice ----------------------------
+  |
+  | There are many gods worshipped in the City of Lankhmar - 
+  | those temples can be found on the Street of the Gods.  They
+  | are know as the {C}Gods *in* Lankhmar{c}{W}, that is, they have 
+  | temples and priests in our fine city.
+  |
+  | There are still other ancient gods that are the patron gods
+  | of the City.  They are the {R}Gods *OF* Lankhmar{r}{W}.  Be
+  | ever mindful of their mysterious and terrible power.  Under
+  | no circumstances enter their temple.  This city belongs to 
+  | them: we are all tolerated guests.
+  |
+                  {W}Lankhmar Ecumenical Council{c} {Y,BO}-*{W}+{Y}*-{y,bo}
+~
+Z4
+C-1
+S
+#41318
+{Y}Lankhmar: {C}Nun Street{c}~
+  
+  {C}As you tramp your way down the street, you can see the ramparts
+  of the southern wall of the city.  You see a sign in the distance 
+  that says {BO}Cash Street{bo,C} and it looks a little more bright and lively
+  than this horrid place.
+  
+  Lucky you! A {BO,Y}sign{bo,C} about beer is here for you to read!
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41317
+D2
+~
+~
+0 -1 41319
+E
+sign~
+  
+  {Y,BO}Friendly Advice ----------------------------{bo,C}
+  |
+  | Many fine drinking establishments can be found in the City
+  | for your imbibing pleasure.  They range from the {W}Silver Eel{C}
+  | near Dim Lane in the southeast of the city to the {BL,BO}Rats' {bo,C}
+  | {BL,BO}Nest{bo,C} in the southwest.  While the "Eel" is one of the rare
+  | places the great heroes of Nehwon congregate, you may prefer 
+  | the "Nest", where the scum of the world come to rob and kill
+  | each other.
+  |
+  | If you have a more refined palate, you might prefer the 
+  | libations from Lankmar's finest wineries, like the {Y,BO}Golden {bo,C}
+  | {Y,BO}Lamprey {bo,C}in the center of the City.
+  |
+                         {W,BO}Lankhmar Brewmaster's Guild {Y}UUU*^*UUU
+~
+Z4
+C-1
+S
+#41319
+{Y}Lankhmar: {C}Nun Street{c}~
+  
+  {C}More of the same...not the most interesting place in the city,
+  but for the sake of accuracy with Fritz Lieber's stories about
+  Lankhmar you have to keep walking south to {G,BO}Cash Street{bo,C} where 
+  you will take a left and go toward the southeastern part of the city.  
+  
+  A {Y,BO}sign{bo,C} is here next to a portrait of a gigantic barbarian
+  with his arms around a beady-eyed thief clad in grey.  Both
+  have their swords drawn - the little guy has one in each hand!
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41318
+D2
+~
+~
+0 -1 41320
+E
+sign~
+  
+  {Y,BO}Friendly Advice ----------------------------{bo,C}
+  |
+  | {R}Fafhrd{C} and {W}The Grey Mouser{C} are two of the more famous
+  | heros of Lankhmar.  
+  |
+  | Fafhrd is a tall, red haired, ruddy barbarian from the cold 
+  | reaches of the north,  He is one of the true masters of the 
+  | broad sword, and is a deadly shot with the longbow.
+  |
+  | The Grey Mouser, who goes by "Mouse" to his friends, is a
+  | child of the streets of Lankhmar.  He is a master thief, and
+  | is most renowned for his cat-like prowess with his swords,
+  | often outstriking his opponents three to one.
+  |
+  | Fafhrd and The Mouser are fast friends, and the subject of
+  | many exciting and amusing adventures.
+  |
+            {W}Lankhmar Hero Worshippers Society{c} {Y,BO}  ===={C}}+------- {bo}
+~
+Z4
+C-1
+S
+#41320
+{Y}Lankhmar: {C}Nun Street{c}~
+  {BLU,BO} 
+  Nun Street ends at the corner of {G}Cash Street{BLU}, which runs along the
+  southern wall of the city.  The neighborhood here is pretty run down.
+  Closed shops line the streets and serve as temporary homes to the 
+  unsavory characters you see swarming around.
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41319
+D1
+~
+~
+0 -1 41326
+Z4
+C-1
+S
+#41321
+{W}Street of the Gods{w}~
+  
+  {C}This is the {BO}Street of the Gods{bo,C} that runs along the northern
+  perimeter of Lankhmar.  Unlike the rest of the city, this street
+  is paved with smooth white stones and lit with lamps and torches.
+  Priests of all the Gods in Lankhmar wander here, but you can
+  tell that they barely tolerate each other, and there is no 
+  conversation in the street.
+  
+  The street continues to the east, where you can barely make out 
+  the Marsh Gate at the very end.
+  
+~
+413 0 1
+D1
+~
+~
+0 -1 41329
+D2
+~
+door~
+1 -1 41322
+Z3
+C-1
+S
+#41322
+{C}Thieves' House{c}~
+  
+  {BL,BO}This is the guild house for the Thieves' Guild.  They are very 
+  protective of their turf!  The guildhouse is the only passage 
+  to the {W}Street of the Gods{BL}!  Where is that key?
+  
+~
+413 12 1
+D0
+The lock is made of sparkling silver.
+~
+door~
+2 41315 41321
+D2
+~
+~
+0 -1 41323
+D5
+~
+~
+0 -1 41378
+Z-1
+C-1
+S
+#41323
+{Y}Lankhmar: {W}Silver Street{w}~
+  
+  {W}Silver Street is the place where you will find all of the 
+  dishonorable scum that belong to the Lankhmar Thieves' Guild.
+  
+  It is never a good idea to try to be a freelancer in Lankhmar.
+  If the guild hears of it, then there will {Y,BO}very likely{bo,W} be 
+  a death in your family.
+  
+  Naturally, honorable thieves like The Grey Mouser are reviled
+  here because they refuse to pay a tribute to the guild house.
+  But no common thief would ever try to bump off a great hero 
+  like the Mouser...or would they...??
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41322
+D2
+~
+~
+0 -1 41324
+Z4
+C-1
+S
+#41324
+{Y}Lankhmar: {W}Silver Street{w}~
+  
+  {W}Silver Street is the place where you will find all of the 
+  dishonorable scum that belong to the Lankhmar Thieves' Guild.
+  
+  Guilded thieves take their thieving very seriously, and share
+  their techniques of treachery, sneakiness and assassination
+  with their brother guildsmen.
+  
+  Needless to say, no one ever breaks their oath of secrecy.
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41323
+D2
+~
+~
+0 -1 41396
+Z4
+C-1
+S
+#41325
+{Y,BO}Rats' Nest{y,bo}~
+  {BL,BO}
+  You are in a dank, filthy tavern, which is thankfully lit
+  very dimly.  The place looks like there was just a brawl here, and
+  the people seem like they are about to brawl again.  
+  
+  The bar itself is run by a skeletal man with one eye and one 
+  tooth, and you watch as he pours some rank bitter ale into a
+  dirty flagon.  
+  
+  The unsavory customers leer at you as you survey the room.
+  
+~
+413 8 1
+D2
+~
+door~
+1 -1 41326
+Z-1
+C2
+S
+#41326
+{Y}Lankhmar: {G}Cash Street{g}~
+  
+  {C}Cash street runs along the southern wall of the city of
+  Lankhmar.  The street is strangely silent today, with 
+  only a few people wandering around.
+  
+  North of here is a tavern that looks as though it has
+  seen much better days.  There is no sign on the tavern
+  other than a stained plaque with a picture of a rat 
+  sitting on an egg...how peculiar!
+  
+~
+413 0 1
+D0
+The lock is made of shining sapphire.
+~
+door~
+2 41310 41325
+D1
+~
+~
+0 -1 41333
+D3
+~
+~
+0 -1 41320
+Z4
+C-1
+S
+#41327
+{BL,BO}Inner Sanctum{bl,bo}~
+  
+  {BL,BO}This is the secret sanctuary of the {R}Gods of Lankhmar {BL}-
+  you are trespassing on hallowed ground!  No living being has ever
+  walked out of here alive!!
+  
+~
+413 137 1
+D2
+~
+~
+0 -1 41328
+D5
+~
+~
+0 -1 2011
+Z-1
+C-1
+S
+#41328
+{Y,BO}Temple of the {W}Gods of Lankhmar{w,bo}~
+  
+  {BL,BO}Your skin begins to crawl as you make your way into the temple
+  of the {R}Gods of Lankhmar{BL}.  This room is the antechamber to the
+  actual temple, into which it is certain death to enter.
+  
+  This chamber is designed for sacrificing to the Gods.  Patrons who wish
+  to appeal to the Gods can leave items they wish to curry favor with.
+  The items are sealed in the chamber at night and they are always
+  gone in the morning.  Whether the Gods actually use their influence
+  is another matter entirely.
+  
+  This room is covered on walls, ceiling, and floor with hieroglyphic 
+  sigils.
+  
+~
+413 13 1
+D0
+~
+~
+0 -1 41327
+D2
+~
+door~
+1 -1 41329
+Z-1
+C-1
+S
+#41329
+{W}Street of the Gods{w}~
+  
+  {C}This is the {BO}Street of the Gods{bo,C} that runs along the northern
+  perimeter of Lankhmar.  Unlike the rest of the city, this street
+  is paved with smooth white stones and lit with lamps and torches.
+  Priests of all the Gods in Lankhmar wander here, but you can
+  tell that they barely tolerate each other, and there is no 
+  conversation in the street.
+  
+  {BL,BO}North of you is a sinister, squat building made from some 
+  peculiar jet black material.  Just looking at the building makes 
+  you quiver with wonder and terror.  The street continues to the
+  east, where you can barely make out the Marsh Gate at the very end
+  of the street.
+  
+~
+413 0 1
+D0
+The lock on this door is made of well-worn ivory.
+~
+door~
+2 41312 41328
+D1
+~
+~
+0 -1 41335
+D3
+~
+~
+0 -1 41321
+Z3
+C-1
+S
+#41330
+{R,BO}Jengao's {C}Gems{c,bo}~
+  
+  {W}You are in a jewelry shop of the highest caliber.  You can see
+  exquisite examples of the finest works of gem craft, all locked 
+  behind steel mesh and glass cabinets.
+  
+  Jengao's is considered by some to be the finest jeweler in 
+  Lankhmar, and is personally responsible for arraying the city
+  royalty and maintaining their marks of state and other baubles.
+  
+  Most Lankhmarians really know that Jengao is a thief, and has been
+  making off with city property for years.  Nonetheless, you are
+  enchanted by the beauty of the precious stones you see all about you.
+  
+~
+413 8 1
+D2
+~
+door~
+1 -1 41331
+Z-1
+C2
+S
+#41331
+{BLA,BO}Shrine of the Black Virgin{bla,bo}~
+  
+  {BL,BO}This area is the only place of worship in Lankhmar that is off the
+  Street of the Gods.  It is a peculiar shrine in the middle of the 
+  intersection with a statue in the center.  
+  
+  This statue is made of a shiny black substance the looks like onyx.  
+  It is in the shape of a lovely young woman who is nude, but discreetly
+  covering herself with her hands.  
+  
+  All around the shrine are the Priestesses of the Virgin who offer
+  their virginity to the High Priest as part of their vows.  They carry
+  razor-sharp daggers of an unknown black metal and are renowned for
+  being extremely fierce warriors.
+  
+~
+413 0 1
+D0
+The lock is made of glimmering gold.
+~
+door~
+2 41313 41330
+D1
+~
+~
+0 -1 41337
+D3
+You barely see a carefully hidden entrance.
+~
+door~
+1 -1 41396
+Z4
+C-1
+S
+#41332
+{Y}Lankhmar: {BO}Gold Street{y,bo}~
+  
+  {Y,BO}You would think a place named like this would have streets
+  paved with gold, but it is dirt, just like most of the city. 
+  This is a rather destitute neighborhood.  You can see little
+  urchins dressed in rags...sneaking around looking for something
+  to eat...or are they midgets looking to slit your hamstrings?
+  
+~
+413 0 1
+D1
+~
+~
+0 -1 41338
+D2
+~
+~
+0 -1 41333
+Z4
+C-1
+S
+#41333
+{Y}Lankhmar: {G}Cash Street{g}~
+  
+  {C}Cash street runs along the southern wall of the city of
+  Lankhmar.  The street is strangely silent today, with 
+  only a few people wandering around.
+  
+  You see Gold Street stretching out to the north.
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41332
+D1
+~
+~
+0 -1 41339
+D3
+~
+~
+0 -1 41326
+Z4
+C-1
+S
+#41334
+{Y,BO}Temple of {R}Kos{r,bo}~
+  
+  {W}You are in the {C}Temple of Kos{W} - the barbarian god of hunting and
+  war.  The temple is decorated with mounted heads of animals, ancient
+  paintings depicting war and hunting scenes, and various implements
+  used for both.
+  
+  The priests and priestesses of Kos are a sharp contrast to the
+  pristine surroundings.  They are all arrayed in animal skins that
+  seem to be crawling with fleas and other vermin.  Obviously these
+  clerics don't bathe very often either... 
+  
+~
+413 136 1
+D2
+~
+door~
+1 -1 41335
+Z-1
+C-1
+S
+#41335
+{W}Street of the Gods{w}~
+  
+  {C}This is the {BO}Street of the Gods{bo,C} that runs along the northern
+  perimeter of Lankhmar.  Unlike the rest of the city, this street
+  is paved with smooth white stones and lit with lamps and torches.
+  Priests of all the Gods in Lankhmar wander here, but you can
+  tell that they barely tolerate each other, and there is no 
+  conversation in the street.
+  
+  {W}North of you is a white temple.  White fur curtains cover the
+  windows,   and a pair of gleaming broadaxes are crossed over 
+  the door.  Torches burn from brass sconces around the entrance.
+  
+~
+413 0 1
+D0
+The lock on this door is made of polished bone.
+~
+door~
+2 41314 41334
+D1
+~
+~
+0 -1 41341
+D3
+~
+~
+0 -1 41329
+Z3
+C-1
+S
+#41336
+{Y,BO}The Golden Lamprey{y,bo}~
+  
+  {Y,BO}The Lamprey is one of the premier wine sellers in a city that 
+  is known for its obsession with alcohol.  In this shop, you can find
+  some of the finest spirits from all over the face of the Nehwon map.
+  
+  They carry every imaginable sort of spirit here, from the snow potato
+  brandy drunk by the hero Fafhrd's northern clan to the sweet and heady
+  dessert wines that are a specialty of the Tovilyis region.
+  
+  Also sold here is the mushroom wine of Quarmall, which is said to
+  foster visions in those who are in tune with the supernatural.
+  
+  By far the finest vintage are the light and bubbly wines of the 
+  Ilthmar regions, across the south-eastern sea.  It is said these
+  wines are not only delicious, but have curative properties as well.
+  
+~
+413 8200 1
+D2
+~
+~
+0 -1 41394
+Z-1
+C-1
+S
+#41337
+{BLA,BO}Plaza of Dark Delights{bo,bl}~
+  
+  {BL,BO}This place is the market for Lankhmar's illicit goods.  All
+  business in this place is conducted at a whisper.  Any conceivable 
+  kind of merchandise or service can be purchased here for the right
+  price, but only under cover of complete darkness.
+  
+  At one end of the plaza is the {M}Fountain of Dark Abundance{BL}, which
+  you notice is completely dry.  At the other end of this area is a 
+  peculiar shrine in the middle of the busiest part of the intersection.
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41393
+D2
+~
+~
+0 -1 41395
+D3
+~
+~
+0 -1 41331
+Z3
+C-1
+S
+#41338
+{Y}Lankhmar: {M,BO}Pimp Street{bo,m}~
+  
+  {M}This place's name is well earned.  Strumpets of every taste walk
+  the streets here carefully tended by their supervisors.  As you 
+  walk, you notice the ladies all trying to get your attention.
+  
+  Hey, are you SURE that is a lady?  Uh-oh...this place is more 
+  sinister than I thought...
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41395
+D1
+~
+~
+0 -1 41345
+D3
+~
+~
+0 -1 41332
+Z4
+C-1
+S
+#41339
+{Y}Lankhmar: {G}Cash Street{g}~
+  
+  {C}Cash street runs along the southern wall of the city of
+  Lankhmar.  The street is strangely silent today, with 
+  only a few people wandering around.
+  
+  You see Pimp Street stretching out to the north.
+  
+~
+413 0 1
+D1
+~
+~
+0 -1 41346
+D3
+~
+~
+0 -1 41333
+Z4
+C-1
+S
+#41340
+{Y,BO}Temple of {C}Beasts{c,bo}~
+  
+  {C}This is a rather unusual temple.  It is dedicated not to one single
+  god, but to a whole bevy of divine animals.  The adherents to this
+  religion believe that of every type of animal, there are thirteen of
+  the species that are 'perfected'.  These creatures are endowed with
+  special powers such as speech, and delivery of blessings of good
+  fortune.
+  
+  The perfect beasts are depicted in beautiful tapestries, feather 
+  weavings and every other kind of imaginable medium.  The altar
+  in the temple here is covered in dried grass and adorned with fruit
+  and vegetables, as the eating of meat is prohibited by this cult.
+  
+~
+413 8 1
+D2
+~
+door~
+1 -1 41341
+Z-1
+C-1
+S
+#41341
+{W}Street of the Gods{w}~
+  
+  {C}This is the {BO}Street of the Gods{bo,C} that runs along the northern
+  perimeter of Lankhmar.  Unlike the rest of the city, this street
+  is paved with smooth white stones and lit with lamps and torches.
+  Priests of all the Gods in Lankhmar wander here, but you can
+  tell that they barely tolerate each other, and there is no 
+  conversation in the street.
+  
+  {Y,BO}North of you is a yellow temple with thirteen windows.  The skins 
+  of every conceivable animal are visible inside.  Twelve brass 
+  lanterns hang between the windows.  A sigil of thirteen paw 
+  prints is emblazoned on the door.
+  
+~
+413 0 1
+D0
+The lock on this door is covered in fur.
+~
+door~
+2 41311 41340
+D1
+~
+~
+0 -1 41349
+D3
+~
+~
+0 -1 41335
+Z3
+C-1
+S
+#41342
+{Y}Lankhmar: {M,BO}Whore Street{m,bo}~
+  
+  {M}This street is another one to watch out for.  The criminal
+  element in Lankhmar has quite a stronghold here, and there are
+  all sorts of people selling all sorts of unmentionable services.
+  
+  Boy is this place sleazy...but in a way it reminds you of home...
+  
+~
+413 0 1
+D1
+~
+~
+0 -1 41350
+D2
+The lock is made of solid steel.
+~
+door~
+2 41316 41343
+Z4
+C-1
+S
+#41343
+{BL,BO}Murder Alley{bl,bo}~
+  
+  {R,BO}Even you, not by far the least hardy adventurer, get a bad 
+  feeling from this place...the smell of blood is thick as the 
+  mist that fills this alley, and you just know that {BLA}Death{R} has
+  recently visited someone here.
+  
+~
+413 1 1
+D0
+~
+door~
+1 -1 41342
+Z4
+C2
+S
+#41344
+{Y}Lankhmar: {M,BO}Whore Street{m,bo}~
+  
+  {M}This street is another one to watch out for.  The criminal
+  element in Lankhmar has quite a stronghold here, and there are
+  all sorts of people selling all sorts of unmentionable services.
+  
+  Hmmm...you start to think that you might have a little time to
+  spend a few gold pieces here, but you have a lot to do.
+  
+~
+413 0 1
+D1
+~
+~
+0 -1 41352
+D2
+~
+~
+0 -1 41345
+Z4
+C-1
+S
+#41345
+{Y}Lankhmar: {M,BO}Whore Street{m,bo}~
+  
+  {M}This street is another one to watch out for.  The criminal
+  element in Lankhmar has quite a stronghold here, and there are
+  all sorts of people selling all sorts of unmentionable services.
+  
+  The soldiers of the city like to hang out here when they aren't
+  on duty, just to make sure things don't get too out of hand.
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41344
+D3
+~
+~
+0 -1 41338
+Z-1
+C-1
+S
+#41346
+{Y}Lankhmar: {G}Cash Street{g}~
+  
+  {C}Cash street runs along the southern wall of the city of
+  Lankhmar.  The street is strangely silent today, with 
+  only a few people wandering around.
+  
+  Flanking both sides of Cash Street are the empty shells
+  that were once fancy shops of some kind.  Now they serve
+  as habitations for the scavengers of the city.
+  
+~
+413 0 1
+D1
+~
+~
+0 -1 41354
+D3
+~
+~
+0 -1 41339
+Z4
+C-1
+S
+#41347
+{BL,BO}Temple of {R}Hates{r,bo}~
+  
+  {BL,BO}This temple is enormous and extends far beyond your sight.
+  It could easily hold five thousand worshippers.  The cult of the 
+  hates have the power to manifest hatred into physical form to do
+  their evil bidding.
+  
+  This building is undecorated black stone drenched with what looks
+  like blood.  The ceiling is so low, you have to be careful not
+  to hit your head.  The chamber is silent and cold.
+  
+~
+413 9 1
+D0
+~
+~
+0 -1 41355
+D2
+~
+~
+0 -1 41348
+Z-1
+C-1
+S
+#41348
+{BL,BO}Temple of {R}Hates{r,bo}~
+  
+  {BL,BO}This temple is enormous and extends far beyond your sight.
+  It could easily hold five thousand worshippers.  The cult of the 
+  hates have the power to manifest hatred into physical form to do
+  their evil bidding.
+  
+  This building is undecorated black stone drenched with what looks
+  like blood.  The ceiling is so low, you have to be careful not
+  to hit your head.  The chamber is silent and cold.
+  
+~
+413 9 1
+D0
+~
+~
+0 -1 41347
+D2
+~
+door~
+1 -1 41349
+Z-1
+C-1
+S
+#41349
+{W}Street of the Gods{w}~
+  
+  {C}This is the {BO}Street of the Gods{bo,C} that runs along the northern
+  perimeter of Lankhmar.  Unlike the rest of the city, this street
+  is paved with smooth white stones and lit with lamps and torches.
+  Priests of all the Gods in Lankhmar wander here, but you can
+  tell that they barely tolerate each other, and there is no 
+  conversation in the street.
+  
+  {R,BO}North of you is a stone temple that appears to be covered in 
+  fresh blood.  There are windows, but through them you can only
+  see a bizarre swirling mist.  The door is emblazoned with a sigil 
+  of eight eyes in sickly purple and black.  You think you hear
+  inhuman screams from within....
+  
+~
+413 0 1
+D0
+The lock on this door is made of glistening ruby.
+~
+door~
+2 41317 41348
+D1
+~
+~
+0 -1 41357
+D2
+~
+passage~
+1 -1 41350
+D3
+~
+~
+0 -1 41341
+Z3
+C-1
+S
+#41350
+{Y}Lankhmar: {C,BO}Cheap Street{c,bo}~
+  
+  {C}This is the middle-class residential section of the city.  There
+  are nice little shops along here that sell food and provisions,
+  clothing and adventuring equipment.  Believe it or not, the prices
+  here are pretty good, but you hardly have time to shop now.
+  
+~
+413 4 1
+D0
+~
+passage~
+1 -1 41349
+D2
+~
+~
+0 -1 41351
+D3
+~
+~
+0 -1 41342
+Z3
+C-1
+S
+#41351
+{Y}Lankhmar: {W}Thinker's Street{w}~
+  
+  {C}Thinker's Street is where the intelligencia of Lankhmar can be
+  found.  In addition to the various apprentice schools, some of
+  the institutions of higher learning are found here.  
+  
+  There are many famous schools of science, magic, warfare and other
+  crafts here.  The street is teaming with swarms of teachers and
+  students discussing their subjects of expertise.
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41350
+D1
+~
+~
+0 -1 41359
+D2
+~
+~
+0 -1 41352
+Z3
+C-1
+S
+#41352
+{Y}Lankhmar: {W}Crafts Street{w}~
+  
+  {W}This is the open market where the artisans of Lankhmar sell their
+  wares.  Here you can find objects of every description, from artistic
+  works like painting and tapestries to more practical things like
+  pottery and clothing.
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41351
+D2
+~
+~
+0 -1 41353
+D3
+~
+~
+0 -1 41344
+Z3
+C-1
+S
+#41353
+{Y}Lankhmar: {C,BO}Cheap Street{c,bo}~
+  
+  {C}This is the middle-class residential section of the city.  There
+  are nice little shops along here that sell food and provisions,
+  clothing and adventuring equipment.  Believe it or not, the prices
+  here are pretty good, but you hardly have time to shop now.
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41352
+D1
+~
+~
+0 -1 41361
+Z3
+C-1
+S
+#41354
+{Y}Lankhmar: {G}Cash Street{g}~
+  
+  {C}Cash street runs along the southern wall of the city of
+  Lankhmar.  The street is strangely silent today, with 
+  only a few people wandering around.
+  
+  Flanking both sides of Cash Street are the empty shells
+  that were once fancy shops of some kind.  Now they serve
+  as habitations for the scavengers of the city.
+  
+~
+413 0 1
+D1
+~
+~
+0 -1 41362
+D3
+~
+~
+0 -1 41346
+Z4
+C-1
+S
+#41355
+{BL,BO}Temple of {R}Hates{r,bo}~
+  
+  {BL,BO}This temple is enormous and extends far beyond your sight.
+  It could easily hold five thousand worshippers.  The cult of the 
+  hates have the power to manifest hatred into physical form to do
+  their evil bidding.
+  
+  This building is undecorated black stone drenched with what looks
+  like blood.  The ceiling is so low, you have to be careful not
+  to hit your head.  The chamber is silent and cold.
+  
+~
+413 9 1
+D0
+~
+~
+0 -1 41363
+D2
+~
+~
+0 -1 41347
+Z-1
+C-1
+S
+#41356
+{Y,BO}Temple of {M}Illala{m,bo}~
+  
+  {M}Illala is the Goddess of 'Shes' and is the subject of worship by
+  a fanatical cult of women, all of whom are trained to be deadly
+  at both weapon and hand-to-hand combat.  The temple is garishly 
+  decorated with all sorts of feminine figures -  not a single male
+  image is to be found.
+  
+  Rumor has it the Guild of Pimps is secretly operated by the
+  Cult of Illala from behind the scenes.  That might account for 
+  the lavish furnishings here, all in {W}silver {M}and {W}platinum {M}bedecked
+  with beautiful gems and stones.
+  
+  Each of the priestesses are exquisite beauties, arrayed in white
+  robes with purple trim and covered in silver jewelry.  The High
+  Priestess of this temple is tall and has a deadly gleam in her 
+  eyes...
+  
+~
+413 137 1
+D2
+~
+door~
+1 -1 41357
+Z-1
+C-1
+S
+#41357
+{W}Street of the Gods{w}~
+  
+  {C}This is the {BO}Street of the Gods{bo,C} that runs along the northern
+  perimeter of Lankhmar.  Unlike the rest of the city, this street
+  is paved with smooth white stones and lit with lamps and torches.
+  Priests of all the Gods in Lankhmar wander here, but you can
+  tell that they barely tolerate each other, and there is no 
+  conversation in the street.
+  
+  {M,BO}North of you is a temple which looks almost gaudy, in bright
+  pink and reds with lace curtains.  Through the stained glass 
+  windows you can see beautiful priestesses decorating the chamber 
+  with flowers.  An alluring incense is smoldering on a censer 
+  hanging before the door, which is marked with a nine-petalled rose.
+  
+~
+413 0 1
+D0
+The lock on this door is encrusted in gems.
+~
+door~
+2 41318 41356
+D1
+~
+~
+0 -1 41365
+D3
+~
+~
+0 -1 41349
+Z3
+C-1
+S
+#41358
+{R,BO}Death {BL}Alley{bl,bo}~
+  {R,BO} 
+  Even you, not by far the least hardy adventurer, get a bad 
+  feeling from this place...the smell of blood is thick as the 
+  mist that fills this alley, and you just know that {BL}Death{R} has
+  recently visited someone here.
+  
+~
+413 0 1
+D1
+~
+door~
+1 -1 41366
+Z4
+C2
+S
+#41359
+{Y}Lankhmar: {W}Thinker's Street{w}~
+  
+  {C}Thinker's Street is where the intelligencia of Lankhmar can be
+  found.  In addition to the various apprentice schools, some of
+  the institutions of higher learning are found here.  
+  
+  There are many famous schools of science, magic, warfare and other
+  crafts here.  The street is teaming with swarms of teachers and
+  students discussing their subjects of expertise.
+  
+~
+413 4 1
+D1
+~
+~
+0 -1 41367
+D3
+~
+~
+0 -1 41351
+Z3
+C-1
+S
+#41360
+{W}The Silver Eel Tavern{w}~
+  
+  {W}Now this is a nice tavern...the counters and tables are well-
+  polished, and the tankards lined up against the wall sparkle.
+  
+  This tavern is full of people having a great time.  It looks 
+  like there are some famous heroes of Lankhmar here, and the
+  adoring fans are thronging them to hear their tales of bravery.
+  
+  The barmaid is quite attractive and is busy keeping the place
+  sparkling.  You would love to taste the fine ales that are 
+  served here....go ahead...you can spare a few moments...
+  
+~
+413 8 1
+D2
+~
+~
+0 -1 41361
+Z-1
+C2
+S
+#41361
+{Y}Lankhmar: {BLA,BO}Dim Lane{bla,bo}~
+  
+  {W}Hmmm...the name of this street sounds familiar...
+  
+  This is another residential section of the city, with nice little
+  houses and little street markets below.  Children are here playing
+  in the street, and everything seems pretty calm.
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41360
+D1
+~
+~
+0 -1 41369
+D3
+~
+~
+0 -1 41353
+Z4
+C-1
+S
+#41362
+{Y}Lankhmar: {G}Cash Street{g}~
+  
+  {C}Cash street runs along the southern wall of the city of
+  Lankhmar.  The street is strangely silent today, with 
+  only a few people wandering around.
+  
+  You are drawing ever nearer to the eastern wall of the city, 
+  where you can dimly see soldiers patrolling.  
+  
+~
+413 0 1
+D1
+~
+~
+0 -1 41370
+D3
+~
+~
+0 -1 41354
+Z4
+C-1
+S
+#41363
+{BL,BO}Altar of {R}Hates{r,bo}~
+  
+  {R,BO}The altar is a flat plate of black volcanic rock, surrounded
+  by the priests of the Hates, robed in black and purple.  They
+  are quietly chanting a powerful spell in unison.  As you stand there,
+  you see a reddish fog appearing over the altar, which seems to 
+  be formed from innumerable ectoplasmic tendrils.
+  
+  Within the fog, you can see eyeballs floating inside, peering 
+  about the room.  The Fog is connected to the altar by a thick red
+  cord of some sort, but is beginning to move about the room.
+  
+  The tendrils are moving about and grabbing up the various rusty
+  and bloody weapons scattered over the altar.  Then you see its 
+  eyes focus squarely on you...your blood turns to ice...
+  
+~
+413 137 1
+D2
+~
+~
+0 -1 41355
+Z-1
+C-1
+S
+#41364
+{Y,BO}Temple of {C}Issek of the Jug{c,bo}~
+  
+  {W}There are many gods named Issek, but this one is the most 
+  influential and powerful.  He is a god of peace and perseverance
+  whose popularity skyrocketed when the hero Fafhrd broke his
+  sword and joined his cult.
+  
+  Issek would travel the world preaching powerful sermons of 
+  brotherhood in poetic stanzas.  He was captured and ordered to be
+  put to death by torture, but would not succumb.  He was placed on
+  the 'rack' to be tortured, but broke seven racks before his body
+  finally gave way on the eighth.  Issek broke loose and took the 
+  brass collar from his torturers neck and fashioned it into a jug
+  before his spirit sped away.  It is said that Issek's jug can
+  be made to produce endless quantities of any desired liquid.
+  
+  Issek's fame peaked when Fafhrd unwittingly re-enacted his second 
+  coming before a large crowd.
+  
+~
+413 136 1
+D2
+~
+door~
+1 -1 41365
+Z-1
+C-1
+S
+#41365
+{W}Street of the Gods{w}~
+  
+  {C}This is the {BO}Street of the Gods{bo,C} that runs along the northern
+  perimeter of Lankhmar.  Unlike the rest of the city, this street
+  is paved with smooth white stones and lit with lamps and torches.
+  Priests of all the Gods in Lankhmar wander here, but you can
+  tell that they barely tolerate each other, and there is no 
+  conversation in the street.
+  
+  {W}Just north of you is a temple that looks a little peculiar.
+  It looks like it is undergoing some sort of renovation, and you 
+  suspect that a new god is moving in to a temple of one that fell 
+  out of favor.  On the door, the original sigil is covered up, and 
+  a crudely painted picture of a clay water jug wrapped in broken
+  chains.
+  
+~
+413 0 1
+D0
+The lock on this door is made of baked clay.
+~
+door~
+2 41320 41364
+D3
+~
+~
+0 -1 41357
+Z3
+C-1
+S
+#41366
+{R,BO}Plague {BL}Court{bl,bo}~
+  
+  {BL,BO}Plague Court is a vile place crawling with scavengers that feed off the
+  rotting carcasses of victims that fall prey to murderers, thieves,
+  and who knows what else.
+  
+  There is a putrid smell in the air as you try to make your way through
+  the rotting debris on the ground.
+  
+~
+413 4 1
+D2
+~
+~
+0 -1 41367
+D3
+The lock is made of shiny platinum.
+~
+door~
+2 41319 41358
+Z4
+C-1
+S
+#41367
+{R,BO}Plague {BL}Court{bl,bo}~
+  
+  {BL,BO}Plague Court is a vile place crawling with scavengers that feed off the
+  rotting carcasses of victims that fall prey to murderers, thieves,
+  and who knows what else.
+  
+  There is a putrid smell in the air as you try to make your way through
+  the rotting debris on the ground.
+  
+~
+413 4 1
+D0
+~
+~
+0 -1 41366
+D2
+The lock is made of a magical alloy.
+~
+door~
+2 41321 41368
+D3
+~
+~
+0 -1 41359
+Z4
+C-1
+S
+#41368
+{W,BO}B{BL}o{W}n{BL}e{W}s A{BL}l{W}l{BL}e{W}y{w,bo}~
+  
+  {BL,BO}This is a scary place.  It is dark, and the walls are covered
+  with scrawlings in what looks like {R}blood{BL}!  
+  
+  This is a traditional place to trick someone to come before you sneak 
+  up on them and carve a second smile into their neck.
+  
+~
+413 0 1
+D0
+~
+door~
+1 -1 41367
+Z4
+C-1
+S
+#41369
+{Y}Lankhmar: {C,BO}Carter Street{c,bo}~
+  
+  {W}Carter Street is one of the cleaner and well-apportioned districts
+  of the city.  The streets are well kept, and there doesn't seem to be 
+  many bandits here.  At least you think so.
+  
+  Carter Street is where all the nicer inns and hostels in the city are.
+  It is known also for its fine restaurants as well as the wandering
+  musicians and other performers.
+  
+~
+413 0 1
+D2
+~
+~
+0 -1 41370
+D3
+~
+~
+0 -1 41361
+Z3
+C-1
+S
+#41370
+{Y}Lankhmar: {G}Cash Street{g}~
+  
+  {C}Cash street runs along the southern wall of the city of
+  Lankhmar.  The street is strangely silent today, with 
+  only a few people wandering around.
+  
+  To the east you see the eastern wall of Lankhmar.  Wall
+  Street runs along the eastern wall to the Marsh Gate. 
+  Wall Street appears to be patrolled by soldiers of the 
+  city - for what reason you cannot fathom.
+  
+  Carter Street continues to the north.
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41369
+D1
+~
+~
+0 -1 41377
+D3
+~
+~
+0 -1 41362
+Z4
+C-1
+S
+#41371
+{W,BO}S{BL}p{W}e{BL}c{W}t{BL}r{W}e A{BL}l{W}l{BL}e{W}y{w,bo}~
+  
+  {BL,BO}As you enter this alley, you get the sensation that there are
+  black birds flapping all around you, obscuring your vision and filling
+  your ears with their evil cries.
+  
+  The flock begins to part, and you can see a woman there in purple
+  robes with huge black wings sprouting from her back.  Her long
+  fingernails, which are more like talons, are bloodstained.  
+  
+  She opens her mouth to speak, but you hear only her commands to her
+  flock to be silent while she ponders your fate.  Perhaps you 
+  shouldn't have visited this alley after all...
+  
+~
+413 128 1
+D2
+~
+door~
+1 -1 41372
+D3
+~
+~
+0 -1 41365
+Z4
+C-1
+S
+#41372
+{W}The Marsh Gate{w}~
+  
+  {W}This is the gate that leads to the {C}Sinking Lands{W}, which 
+  is an isthmus that provides access to the mainland of Nehwon.  
+  
+  This is the way that adventurers exit the city - beyond these
+  gates you will have access to the wild lands, the desert, the
+  frozen northlands and other dangerous places to travel.
+  
+  Fafhrd and the Grey Mouser have walked through this gate many
+  times, to visit their mentors: Ningauble of the Seven Eyes and
+  Sheelba of the Eyeless Face.  
+  
+  But you won't be walking through today.  The nobles of the city
+  have ordered that this gate be sealed, so you will have to wait
+  to explore these amazing places...it will be worth it for those
+  who can survive.
+  
+~
+413 0 1
+D0
+The lock on this door is made of ebony wood.
+~
+door~
+2 41322 41371
+D2
+~
+~
+0 -1 41373
+Z4
+C-1
+S
+#41373
+{Y}Lankhmar: {C}Wall Street{g}~
+  
+  {C}Wall Street runs along the eastern wall of the Lankhmar.
+  It is the place where the various soldiers and constables 
+  are quartered.  
+  
+  You are very close to the Marsh Gate now, and the soldiers are
+  trying frantically to dissuade you from approaching it.
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41372
+D2
+~
+~
+0 -1 41374
+Z4
+C-1
+S
+#41374
+{Y}Lankhmar: {C}Wall Street{g}~
+  
+  {C}Wall Street runs along the eastern wall of the Lankhmar.
+  It is the place where the various soldiers and constables 
+  are quartered.  
+  
+  The soldiers are very insistent that you stay away from the 
+  gate. There must be something really, really nasty there.
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41373
+D2
+~
+~
+0 -1 41375
+Z4
+C-1
+S
+#41375
+{Y}Lankhmar: {C}Wall Street{g}~
+  
+  {C}Wall Street runs along the eastern wall of the Lankhmar.
+  It is the place where the various soldiers and constables 
+  are quartered.  
+  
+  The soldiers are more and more abundant here.  I wonder why
+  they are so insistent on keeping you away from the gate?
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41374
+D2
+~
+~
+0 -1 41376
+Z4
+C-1
+S
+#41376
+{Y}Lankhmar: {C}Wall Street{g}~
+  
+  {C}Wall Street runs along the eastern wall of the Lankhmar.
+  It is the place where the various soldiers and constables 
+  are quartered.  
+  
+  It is becoming obvious that the soldiers don't want you to 
+  go to the marsh gate, but no one will tell you why.
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41375
+D2
+~
+~
+0 -1 41377
+Z4
+C-1
+S
+#41377
+{Y}Lankhmar: {C}Wall Street{g}~
+  
+  {C}Wall Street runs along the eastern wall of the Lankhmar.
+  It is the place where the various soldiers and constables 
+  are quartered.  
+  
+  To the north, you can see toward the Marsh Gate in the eastern
+  wall.  For some reason, though, you get the feeling that you
+  aren't supposed to go there.  The soldiers do not seem like
+  they are happy for you to be here.
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41376
+D3
+~
+~
+0 -1 41370
+Z4
+C-1
+S
+#41378
+{BL,BO}Under the {R}Thieves' House{r,bo}~
+  {R,BO}
+  You are in a crypt below the guild house...this place is absolutely
+  dreadful and dank.  It is crawling with insects and spiders and the 
+  odor of death is all around you.
+  
+  You gaze in terror as a stone door begins to open slowly...
+  
+~
+413 16552 1
+D4
+~
+~
+0 -1 41322
+Z-1
+C-1
+S
+#41379
+Other Side of the Marsh Gate~
+You are standing in nowhere !!!!
+~
+413 0 1
+Z0
+C-1
+S
+#41380
+{Y}The Pier at Quarmall{y}~
+  
+  {Y}The piers are crawling with fishermen, sailors, pirates and other inhabitants
+  of Nehwon who use the sea for their livelihood.
+  
+~
+413 0 1
+D1
+~
+~
+0 -1 41311
+D3
+~
+~
+0 -1 41381
+Z3
+C-1
+S
+#41381
+{Y}The Pier at Quarmall{y}~
+  
+  {Y}The piers are crawling with fishermen, sailors, pirates and other inhabitants
+  of Nehwon who use the sea for their livelihood.
+  
+~
+413 0 1
+D1
+~
+~
+0 -1 41380
+D3
+~
+~
+0 -1 41382
+Z3
+C-1
+S
+#41382
+{Y}The Pier at Quarmall{y}~
+  
+  {Y}The piers are crawling with fishermen, sailors, pirates and other inhabitants
+  of Nehwon who use the sea for their livelihood.
+  
+~
+413 0 1
+D1
+~
+~
+0 -1 41381
+D3
+~
+~
+0 -1 41383
+Z3
+C-1
+S
+#41383
+{Y}The Pier at Quarmall{y}~
+  
+  {Y}The piers are crawling with fishermen, sailors, pirates and other inhabitants
+  of Nehwon who use the sea for their livelihood.
+  
+~
+413 0 1
+D1
+~
+~
+0 -1 41382
+D3
+~
+~
+0 -1 41384
+Z3
+C-1
+S
+#41384
+{Y}The Pier at Quarmall{y}~
+  
+  {Y}The piers are crawling with fishermen, sailors, pirates and other inhabitants
+  of Nehwon who use the sea for their livelihood.
+  
+~
+413 0 1
+D1
+~
+~
+0 -1 41383
+D3
+~
+~
+0 -1 41385
+Z3
+C-1
+S
+#41385
+{Y}The Pier at Quarmall{y}~
+  
+  {Y}The piers are crawling with fishermen, sailors, pirates and other inhabitants
+  of Nehwon who use the sea for their livelihood.
+  
+~
+413 0 1
+D1
+~
+~
+0 -1 41384
+D3
+~
+~
+0 -1 41386
+Z3
+C-1
+S
+#41386
+{Y}The Pier at Quarmall{y}~
+  
+  {Y}The piers are crawling with fishermen, sailors, pirates and other inhabitants
+  of Nehwon who use the sea for their livelihood.
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41387
+D1
+~
+~
+0 -1 41385
+D2
+~
+~
+0 -1 41390
+Z3
+C-1
+S
+#41387
+{Y}The Pier at Quarmall{y}~
+  
+  {Y}The piers are crawling with fishermen, sailors, pirates and other inhabitants
+  of Nehwon who use the sea for their livelihood.
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41388
+D2
+~
+~
+0 -1 41386
+Z3
+C-1
+S
+#41388
+{Y}The Pier at Quarmall{y}~
+  
+  {Y}The piers are crawling with fishermen, sailors, pirates and other inhabitants
+  of Nehwon who use the sea for their livelihood.
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41389
+D2
+~
+~
+0 -1 41387
+Z3
+C-1
+S
+#41389
+{Y}The Pier at Quarmall{y}~
+  
+  {Y}The piers are crawling with fishermen, sailors, pirates and other inhabitants
+  of Nehwon who use the sea for their livelihood.
+  
+~
+413 0 1
+D2
+~
+~
+0 -1 41388
+Z3
+C-1
+S
+#41390
+{Y}The Pier at Quarmall{y}~
+  
+  {Y}The piers are crawling with fishermen, sailors, pirates and other inhabitants
+  of Nehwon who use the sea for their livelihood.
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41386
+D2
+~
+~
+0 -1 41391
+Z3
+C-1
+S
+#41391
+{Y}The Pier at Quarmall{y}~
+  
+  {Y}The piers are crawling with fishermen, sailors, pirates and other inhabitants
+  of Nehwon who use the sea for their livelihood.
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41390
+D2
+~
+~
+0 -1 41392
+Z3
+C-1
+S
+#41392
+{Y}The Pier at Quarmall{y}~
+  
+  {Y}The piers are crawling with fishermen, sailors, pirates and other inhabitants
+  of Nehwon who use the sea for their livelihood.
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41391
+Z3
+C-1
+S
+#41393
+{Y}Lankhmar: {M,BO}Pimp Street{bo,m}~
+  
+  {M}This place's name is well earned.  Strumpets of every taste walk
+  the streets here carefully tended by their supervisors.  As you 
+  walk, you notice the ladies all trying to get your attention.
+  
+  Hey, are you SURE that is a lady?  Uh-oh...this place is more 
+  sinister than I thought...
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41394
+D2
+~
+~
+0 -1 41337
+Z3
+C-1
+S
+#41394
+{Y}Lankhmar: {M,BO}Pimp Street{bo,m}~
+  
+  {M}This place's name is well earned.  Strumpets of every taste walk
+  the streets here carefully tended by their supervisors.  As you 
+  walk, you notice the ladies all trying to get your attention.
+  
+  Hey, are you SURE that is a lady?  Uh-oh...this place is more 
+  sinister than I thought...
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41336
+D2
+~
+~
+0 -1 41393
+Z3
+C-1
+S
+#41395
+{Y}Lankhmar: {M,BO}Pimp Street{bo,m}~
+  
+  {M}This place's name is well earned.  Strumpets of every taste walk
+  the streets here carefully tended by their supervisors.  As you 
+  walk, you notice the ladies all trying to get your attention.
+  
+  Hey, are you SURE that is a lady?  Uh-oh...this place is more 
+  sinister than I thought...
+  
+~
+413 0 1
+D0
+~
+~
+0 -1 41337
+D2
+~
+~
+0 -1 41338
+Z3
+C-1
+S
+#41396
+{Y}Lankhmar: {W}Silver Street{w}~
+  
+  {W}Silver Street is the place where you will find all of the 
+  dishonorable scum that belong to the Lankhmar Thieves' Guild.
+  
+  Spies are everywhere - so be careful what you say.  Making 
+  an enemy of a guilded thief can prove harmful to your health.
+  
+~
+413 4 1
+D0
+~
+~
+0 -1 41324
+D1
+~
+door~
+1 -1 41331
+Z0
+C-1
+S
+$~

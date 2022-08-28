@@ -1,0 +1,2253 @@
+#17598
+Bridge~
+  
+   You are standing on a stone bridge which heads West into the roman section
+of Pentara. People are walking around here wearing toga's and carrying towels.
+This must be the way to the bath house.
+
+~
+175 0 1
+D0
+~
+~
+0 -1 17505
+D3
+~
+~
+0 -1 17567
+Z3
+C-1
+S
+#17594
+On Coast Road~
+
+   You are walking along Coast Road. The smell of the sea fills your nostrils
+as you continue on. Many seaman and of course pirates pass you as you keep
+going East towards the harbor.
+
+~
+175 0 1
+D1
+~
+~
+0 -1 17595
+D3
+~
+~
+0 -1 17587
+Z3
+C-1
+S
+#17595
+On Coast Road~
+
+   The smell of the sea is stronger as you approach the harbor. Your very
+careful because of the stories you heard of pirates and the harbor. A few
+skievey winches are hanging out here looking for a lonely sailor with a big
+purse, to sell their wears to.
+
+~
+175 0 1
+D1
+~
+~
+0 -1 17596
+D3
+~
+~
+0 -1 17594
+Z3
+C-1
+S
+#17596
+On Coast Road~
+
+   To the East you can see the enormous archway that marks the entrance to
+Pentara. beyond the archway you can see the harbor and all the ships docked
+there. And far off past the harbor the sea awaits you.
+
+~
+175 0 1
+D0
+~
+~
+0 -1 17597
+D1
+~
+~
+0 -1 17501
+D2
+~
+~
+0 -1 17570
+D3
+~
+~
+0 -1 17595
+Z3
+C-1
+S
+#17597
+Lighthouse Path~
+   You are walking on a path that leads the the lighthouse
+
+~
+175 0 1
+D0
+~
+~
+0 -1 17588
+D2
+~
+~
+0 -1 17596
+Z3
+C-1
+S
+#17500
+Harbor Landing~
+    	You see a large jetty allowing access to a large city.
+~
+175 4 6
+D1
+~
+~
+0 -1 17574
+D3
+~
+~
+0 -1 17501
+Z3
+C-1
+S
+#17501
+City Entrance.~
+
+    The entrance to the city of Pentara is marked by an enormous archway.
+A warning to all travellers is carved into the archway in ornate lettering.
+
+    Low levels stay clear. Aggressive people and creatures roam this city.
+
+~
+175 4 1
+D1
+~
+~
+0 -1 17500
+D3
+~
+~
+0 -1 17596
+E
+motto~
+The writing reads : "NIHIL LEGITIMAE CARBERUNDUM".
+~
+Z3
+C-1
+S
+#17502
+The Crossroads.~
+
+   You are on the main road junction. Thus roads lead in all directions.
+To the South you see a very large palace and to the West you see what looks
+like a small shopping complex.
+
+~
+175 0 1
+D0
+Road to the sea front.
+~
+~
+0 -1 17565
+D1
+~
+~
+0 -1 21097
+D2
+Palace driveway.
+~
+~
+0 -1 17503
+D3
+Entrance to plaza.
+~
+~
+0 -1 17516
+Z3
+C-1
+S
+#17503
+The Palacial Driveway.~
+    	You stand on a long driveway which leads to the Imperial Palace
+which lies to the south. The driveway is lined with small trees and some
+ornate statues.
+~
+175 4 1
+D0
+The crossroads.
+~
+~
+0 -1 17502
+D2
+The Imperial Palace.
+~
+palace~
+0 -1 17504
+E
+statues~
+The statues depict heroic warriors, gladiators, athletes and gods. You
+notice that the sculptor either wasn't very good or blind because some of
+them don't have limbs or have other vital bits of anatomy missing......
+~
+Z3
+C-1
+S
+#17504
+The Imperial Palace.~
+
+   You have entered the home of the current Emperor of Pantera, Pompus
+Lurkalot III. He is regarded as a fearless warrior who has won many
+campaigns for his superiors in Rome. This may explain why none of the
+citizens of Pentara have ever really seen him.
+
+~
+175 8 0
+D0
+Palace driveway.
+~
+~
+0 -1 17503
+D1
+The ballroom.
+~
+ballroom~
+0 -1 -1
+D2
+The grand staircase.
+~
+staircase~
+0 -1 17507
+D3
+Palace entrance.
+~
+~
+0 -1 17504
+Z3
+C-1
+S
+#17505
+Hollywood Avenue~
+
+   Wow!!  What a incredible neighbourhood. For miles and miles all you can
+see are beer stores, liquor stores, and the occasional sex toy shop, you 
+know all the essential things. Wandering farther into the neighbourhood you
+notice that every woman looks like a famous supermodel ( Cathy, Cindy, Elle,
+Claudia, etc...) Wow, you think to yourself you wish you could live here too.
+
+~
+175 0 1
+D1
+~
+~
+0 -1 17585
+D2
+~
+~
+0 -1 17598
+Z3
+C-1
+S
+#17506
+Imperial Library.~
+    	Books, books, books, books, books, books, books, books, books, books,
+books, books, books, books, books and even more books !  Hold on, whats that
+in the corner ?!?!? Oh its another book...
+~
+175 8 0
+D3
+Art gallery.
+~
+~
+0 -1 17507
+Z3
+C-1
+S
+#17507
+Imperial Gallery.~
+    	The room is filled with paintings of mythological creatures. You spot
+Pegasus, Medusa and Hercules amongst many others. The gallery continues to the
+west and a small room can be seen to the east. A grand staircase leads up.
+~
+175 8 0
+D0
+Palace entrance.
+~
+~
+0 -1 17504
+D1
+Library.
+~
+~
+0 -1 17506
+D3
+Art gallery.
+~
+~
+0 -1 17508
+D4
+Staircase.
+~
+~
+0 -1 17514
+Z3
+C-1
+S
+#17508
+Imperial Gallery.~
+    	This room contains the families ancestral paintings. They show many 
+ugly people whos portaits were obviously painted in a flattering manner. You
+also see a portrait of the current monarch, Lurkalot III.
+~
+175 8 0
+D0
+Art gallery.
+~
+~
+0 -1 17509
+D1
+Art Gallery.
+~
+~
+0 -1 17507
+E
+painting lurkalot~
+The portrait shows a middle aged man dressed in a Roman Guards uniform. He 
+looks like a very noble and courageous man. The magnificent sword hanging from 
+his belt catches your eye.....
+~
+Z3
+C-1
+S
+#17509
+Imperial Gallery.~
+    	This room is dedicated to the gods of the realm. Quite a few handsome 
+portraits of famous gods hang here. Amongst the well known ones like Zeus and 
+Mars, you see a few slightly lesser known ones titled, "Riscy", "Slipcase" and
+"Camber". You notice that these three are also signed !
+~
+175 8 0
+D1
+Entrance to palace.
+~
+~
+0 -1 17504
+D2
+Art gallery.
+~
+~
+0 -1 17508
+Z3
+C-1
+S
+#17510
+Master Bedroom.~
+    	You enter a highly elegant bedroom whos centerpiece; a magnificent four
+poster bed, stands out as yet another piece of craftsmanship within a romantic
+bedroom design.
+~
+175 8 0
+D2
+Hallway.
+~
+~
+0 -1 17515
+E
+bed four poster~
+You are distarcted from the craftmanship by the appearnace of a sickly looking
+woman whos frail body lies upon the mattress.
+~
+Z3
+C-1
+S
+#17511
+Lurkalot III's Study.~
+    	You enter a neat and tidy looking work study. You conjure a picture of
+Pompus sat there, working hard at his desk on state matters. A fine portrait of
+Lukalot III and his wife is mounted upon the wall behind the desk.
+~
+175 8 0
+D2
+Hallway.
+~
+~
+0 -1 17514
+E
+portrait painting~
+It is indeed a fine piece of artwork. You notice it seems to be mounted at a 
+peculiar angle. Closer inspection reveals a safe hidden behind the picture.
+~
+E
+desk~
+The entire desk is layed out for the start of a work session. However a fine
+layer of dust has settled on everything indicating that the desk has not been 
+used for some time.
+~
+Z3
+C-1
+S
+#17512
+Imperial Bedroom.~
+    	This bedroom is exquisitively designed. The decorations seem to reflect
+that the bedroom is used by a young female.
+~
+175 8 0
+D2
+Hallway.
+~
+~
+0 -1 17513
+Z3
+C-1
+S
+#17513
+East end of Hallway.~
+    	You stand at the east end of a hallway. A bedrom lies to the north and 
+the hallway stretches to your west.
+~
+175 8 0
+D0
+Imperial bedroom.
+~
+~
+0 -1 17512
+D3
+Hallway.
+~
+~
+0 -1 17514
+Z3
+C-1
+S
+#17514
+Central Hallway.~
+    	You stand in the middle of a hallway which stretches east and west. A 
+large staircase leads down and study lies to the north.
+~
+175 8 0
+D0
+Study.
+~
+~
+0 -1 17511
+D1
+Hallway.
+~
+~
+0 -1 17513
+D3
+Hallway.
+~
+~
+0 -1 17515
+D5
+Staircase.
+~
+~
+0 -1 17507
+Z3
+C-1
+S
+#17515
+West end of Hallway.~
+
+   You stand at the East end of a hallway. A bedroom lies to the North and
+the hallway streches to your East.
+
+~
+175 8 0
+D0
+Imperial bedroom.
+~
+~
+0 -1 17510
+D1
+Hallway.
+~
+~
+0 -1 17514
+Z3
+C-1
+S
+#17516
+The Plaza crossroads.~
+    	You are at the junction of Plaza Way and High Street. To the north
+you see a large building and to the south lie a group of shops. To the west,
+an incredibly long and high wall can be seen whilst to the east, Plaza way
+leads back towards the palace.
+~
+175 0 1
+D0
+Towards the Ampitheater.
+~
+~
+0 -1 17533
+D1
+More crossroads.
+~
+~
+0 -1 17502
+D2
+The Plaza.
+~
+~
+0 -1 17517
+D3
+On Plaza Way.
+~
+~
+0 -1 17531
+Z3
+C-1
+S
+#17517
+On the Plaza.~
+    	Shops lie to your east and west, and more can be seen to the south.
+~
+175 0 1
+D0
+The crossroads.
+~
+~
+0 -1 17516
+D1
+Ortello's relic shop.
+~
+~
+0 -1 17518
+D2
+The Plaza.
+~
+~
+0 -1 17522
+D3
+Blachloch's scroll shop.
+~
+~
+0 -1 17519
+Z3
+C-1
+S
+#17518
+Ortello's Relic and Antiquities shop.~
+    	The shop is full of assorted bric-a-brac, most of which you have
+never seen the likes of before in your life. You wonder what secrets lie
+buried within the murky depths...
+~
+175 8 0
+D3
+The Plaza.
+~
+~
+0 -1 17517
+Z3
+C-1
+S
+#17519
+Blachloch's Scrolls and Parchments.~
+    	The entire shop simply throbs with the power of magic which even the
+most naive of warriors can sense. Display case fill the room, protecting the
+delicte parchments which lie within them.
+~
+175 8 0
+D1
+The Plaza.
+~
+~
+0 -1 17517
+Z3
+C-1
+S
+#17520
+Adromeda's Cafeteria.~
+    	A simple cafeteria adorned with simple decorations. The odours
+emanating from the kitchen tantalize you into at least enquiring what
+exactly is on the menu.
+~
+175 8 0
+D1
+The Plaza.
+~
+~
+0 -1 17522
+Z3
+C-1
+S
+#17521
+The Offical Pentara Souvenir Shop~
+
+    The shop is packed purely with Pentara goodies. The usual tourist
+paraphanalia is on sale... Basrball caps, T-Shirts, postcards etc etc
+
+~
+175 8 0
+D3
+The Plaza.
+~
+~
+0 -1 17522
+Z3
+C-1
+S
+#17522
+South end of the Plaza.~
+    	You stand on the Plaza between two shops. More shops can be seen to
+the north and a pathway leads south.
+~
+175 0 1
+D0
+The Plaza.
+~
+~
+0 -1 17517
+D1
+Souvenir shop.
+~
+~
+0 -1 17521
+D2
+A pathway.
+~
+~
+0 -1 17523
+D3
+Adrena's Cafeteria.
+~
+~
+0 -1 17520
+Z3
+C-1
+S
+#17523
+On the way to the Roman Baths.~
+    	You stand on a pathway which leads from the magnificent Plaza to
+some Roman baths. An alleyway leads of to the west.
+~
+175 0 1
+D0
+The Plaza.
+~
+~
+0 -1 17522
+D2
+Entrance to the Baths.
+~
+~
+0 -1 17524
+D3
+An alleyway.
+~
+~
+0 -1 17530
+Z3
+C-1
+S
+#17524
+Entrance to the Roman Baths.~
+
+   Many citizens of Pentara seem to be circulating around here. Some 'clean'
+citizens seem to be emerging from the west. while some less 'hygenic' people
+are making their way to the East.
+
+~
+175 8 0
+D0
+A pathway.
+~
+~
+0 -1 17523
+D1
+The pool room.
+~
+~
+0 -1 17525
+D3
+The massage room.
+~
+~
+0 -1 17529
+Z3
+C-1
+S
+#17525
+The Pool Room.~
+    	A large bathing pool, sunken into the floor can be seen here. Its
+mineral waters though not exactly clear sseem thoroughly vitalising and
+cleansing.
+~
+175 8 0
+D2
+The sauna.
+~
+~
+0 -1 17526
+D3
+Entrance to the Baths.
+~
+~
+0 -1 17524
+Z3
+C-1
+S
+#17526
+The Sauna.~
+    	Phew, is it hot in here ! You can only just make out the few
+semi-clad citizens who sit here, relaxing and sweating in the steam.
+~
+175 8 0
+D0
+The pool room.
+~
+~
+0 -1 17525
+D3
+The cold room.
+~
+~
+0 -1 17527
+Z3
+C-1
+S
+#17527
+The Cold Room.~
+    	Geez, compared to the sauna, this place seems like the arctic ! Its
+not exactly freezing, but the steam from the sauna is condensing quickly on
+the walls and dripping steadily from the ceiling.
+~
+175 8 0
+D1
+The sauna.
+~
+~
+0 -1 17526
+D3
+The cleaning room.
+~
+~
+0 -1 17528
+Z3
+C-1
+S
+#17528
+The Cleaning Room.~
+    	Some rather burly men seem to literally 'scraping' the dirt from
+citzens' bodies with some particuarly naty looking blades !
+~
+175 8 0
+D0
+The massage room.
+~
+~
+0 -1 17529
+D1
+The cold room.
+~
+~
+0 -1 17527
+Z3
+C-1
+S
+#17529
+The Massage Room.~
+    	Some just as equaly burly men are giving some highly therapeutic but
+painful looking massages to some distraught looking citizens.
+~
+175 8 0
+D1
+Entrance to the baths.
+~
+~
+0 -1 17524
+D2
+The cleaning room.
+~
+~
+0 -1 17528
+Z3
+C-1
+S
+#17530
+Path behind the shops.~
+    	You appear to be on an alleyway which runs behind the shops. Perhaps
+the deliveries are bought this way ?!
+~
+175 0 1
+D0
+~
+~
+0 -1 17531
+D1
+A pathway.
+~
+~
+0 -1 17523
+Z3
+C-1
+S
+#17531
+On Plaza Way.~
+    	You stand at the west end of Plaza Way. A large wall extends as far
+south as the eye can see. Plaza Way continues east towards the Plaza and an
+Alleyway leads south.
+~
+175 0 1
+D1
+Plaza crossroads.
+~
+~
+0 -1 17516
+D2
+~
+~
+0 -1 17530
+D3
+On the way to the Imperial Maze.
+~
+~
+0 -1 17532
+Z3
+C-1
+S
+#17532
+On the way to the Imperial Maze.~
+    	To the west, an extremely high and long wall extends to the south.
+An opening in the wall to the west is blocked by a gate. A large sign stands
+next to the gate.
+~
+175 1024 1
+D1
+Plaza Way.
+~
+~
+0 -1 17531
+D3
+~
+Gate~
+1 -1 17719
+E
+sign~
+The sign reads :-
+	You are about to enter the Imperial Maze. Once this was a luxury
+maze used purely for leisure purposes. Over the centuries, the maze has
+become inhabited by dark and mysterious creatures from unknown realms. It is
+rumoured that great tresures can be found within and to anyone solving the
+maze. Due to the evil nature that the maze has now adopted it is advised
+that NO-ONE enters here alone. YOU HAVE BEEN WARNED !!!
+~
+Z3
+C-1
+S
+#17533
+Road to the Imperial Ampitheater~
+
+   To the North stands Pentara's Imperial Ampitheater. The roar of wild
+animals can just be heard out over the roar of the crowd cheering inside.
+
+~
+175 0 1
+D0
+Entrance to the ampitheater.
+~
+~
+0 -1 17534
+D2
+Plaza crossroads.
+~
+~
+0 -1 17516
+Z3
+C-1
+S
+#17534
+Entrance to the Imperial Ampitheater.~
+    	You enter the foyer to a large complex. To the north a large steel 
+gate can be seen whilst to the east and west, stairwells lead upwards.
+Barricades bearing signs block off the stairwells.
+~
+175 4 1
+D0
+Ampitheater arena.
+~
+steel gate~
+2 -1 17537
+D2
+Road to the ampitheater.
+~
+~
+0 -1 17533
+E
+barricade sign~
+The barricades carry signs bearing the message :-
+
+	Sorry, Galleries are FULL !
+~
+Z3
+C-1
+S
+#17535
+Challenge cage [SW].~
+    	You have entered one of the many cages used for holding the 
+ampitheater's creatures of combat. You suddenly remember such creatures are 
+trained to attack...
+~
+175 0 0
+D1
+Arena floor.
+~
+gate~
+1 -1 17536
+D3
+Behind the cages.
+~
+gate~
+1 -1 17540
+Z3
+C-1
+S
+#17536
+On the Arena floor.~
+    	You stand in the main arena. A cage door lies to your west. You wonder
+what may be lurking within its murky depths...
+~
+175 0 1
+D0
+Arena floor.
+~
+~
+0 -1 17542
+D1
+Arena floor.
+~
+~
+0 -1 17537
+D3
+A cage.
+~
+gate~
+1 -1 17535
+Z3
+C-1
+S
+#17537
+On the Arena floor.~
+    	As you enter the arena, the steel gate slams shut behind you !!! As 
+you watch, the gate slowly fades from view, leaving only a stone wall. The 
+crowds in the galleries start to cheer as they see a new challenger enter the
+arena. You guess you'll have to find another exit...
+~
+175 0 1
+D0
+Arena floor.
+~
+~
+0 -1 17543
+D1
+Arena floor.
+~
+~
+0 -1 17538
+D3
+Arena floor.
+~
+~
+0 -1 17536
+Z3
+C-1
+S
+#17538
+On the Arena floor.~
+            You stand in the main arena. A cage door lies to your east. You wonder
+what may be lurking within its murky depths...
+~
+175 0 1
+D0
+Arena floor.
+~
+gate~
+1 -1 17545
+D1
+A cage.
+~
+gate~
+1 -1 17539
+D3
+Arena floor.
+~
+~
+0 -1 17537
+Z3
+C-1
+S
+#17539
+Challenge cage [SE].~
+            You have entered one of the many cages used for holding the
+ampitheater's creatures of combat. You suddenly remember such creatures are
+trained to attack...
+~
+175 0 0
+D1
+Behind the cages.
+~
+gate~
+1 -1 17546
+D3
+Arena floor
+~
+gate~
+1 -1 17538
+Z3
+C-1
+S
+#17540
+Behind the challenge cages.~
+    	You find yourself in a passageway behind the challenge cages. From the
+noise penetrating the stone ceiling you assume you must be under the gallery.
+The passageway leads north and south. 
+~
+175 0 0
+D0
+Challenge cage.
+~
+gate~
+1 -1 17547
+D1
+Challenge cage.
+~
+gate~
+1 -1 17541
+D2
+Challenge cage.
+~
+gate~
+1 -1 17535
+D3
+A passageway.
+~
+~
+0 -1 17556
+Z3
+C-1
+S
+#17541
+Challenge Cage [W].~
+    	You have entered one of the many cages used for holding the
+ampitheater's creatures of combat. You suddenly remember such creatures are
+trained to attack...
+~
+175 0 0
+D1
+Arena floor.
+~
+gate~
+1 -1 17542
+D3
+Behind the cages.
+~
+gate~
+1 -1 17540
+Z3
+C-1
+S
+#17542
+On the Arena floor.~
+
+   You stand in the main arena. A cage door lies to you west. You wonder 
+what may be lurking within it deep murky depths...
+
+~
+175 0 1
+D0
+Arena floor.
+~
+~
+0 -1 17548
+D1
+Arena floor.
+~
+~
+0 -1 17543
+D2
+Arena floor.
+~
+~
+0 -1 17536
+D3
+Challenge cage.
+~
+gate~
+1 -1 17541
+Z3
+C-1
+S
+#17543
+On the Arena floor.~
+
+   You find yourself under the center of the arean. This small square room
+has cages lining the North, East and West walls. You guess the exit must lie
+behind one of them.
+
+~
+175 0 1
+D0
+Arena floor.
+~
+~
+0 -1 17549
+D1
+Arena floor.
+~
+~
+0 -1 17544
+D2
+Arena floor.
+~
+~
+0 -1 17537
+D3
+Arena floor.
+~
+~
+0 -1 17542
+Z3
+C-1
+S
+#17544
+On the Arena floor.~
+            You stand in the main arena. A cage door lies to your east. You wonder
+what may be lurking within its murky depths...
+~
+175 0 1
+D0
+Arena floor.
+~
+~
+0 -1 17550
+D1
+Challenge cage.
+~
+gate~
+1 -1 17545
+D2
+Arena floor.
+~
+~
+0 -1 17538
+D3
+Arena floor.
+~
+~
+0 -1 17543
+Z3
+C-1
+S
+#17545
+Challenge cage [E].~
+            You have entered one of the many cages used for holding the
+ampitheater's creatures of combat. You suddenly remember such creatures are
+trained to attack...
+~
+175 0 0
+D1
+Behind the cages.
+~
+gate~
+1 -1 17546
+D3
+Arena floor
+~
+gate~
+1 -1 17544
+Z3
+C-1
+S
+#17546
+Behind the challenge cages.~
+            You find yourself in a passageway behind the challenge cages. From the
+noise penetrating the stone ceiling you assume you must be under the gallery.
+The passageway leads north and south.
+~
+175 0 0
+D0
+Challenge cage.
+~
+gate~
+1 -1 17551
+D1
+A passageway.
+~
+~
+0 -1 17556
+D2
+Challenge cage.
+~
+gate~
+1 -1 17539
+D3
+Challenge cage.
+~
+gate~
+1 -1 17541
+Z3
+C-1
+S
+#17547
+Challenge Cage [NW].~
+    	You have entered one of the many challenge cages that are used for 
+holding the ampitheater's creatures of combat. You suddenly remember that 
+such creatures are trained to attack.....
+~
+175 0 1
+D1
+Arena floor.
+~
+gate~
+1 -1 17548
+D3
+Behind the cages.
+~
+gate~
+1 -1 17540
+Z3
+C-1
+S
+#17548
+On the Arena Floor.~
+    	You stand in the main arena. Cages lie to the north and west. You 
+wonder what lies within their murky depths...	
+~
+175 0 1
+D0
+Challenge cage.
+~
+gate~
+1 -1 17552
+D1
+Arena floor.
+~
+~
+0 -1 17549
+D2
+Arena floor.
+~
+~
+0 -1 17542
+D3
+Challenge cage.
+~
+gate~
+1 -1 17547
+Z3
+C-1
+S
+#17549
+On the Arena Floor.~
+    	You stand in the main arena. A cage lies to the north. You wonder what
+lies within its murky depths.
+~
+175 0 1
+D0
+Challenge cage.
+~
+gate~
+1 -1 17553
+D1
+Arena floor.
+~
+~
+0 -1 17550
+D2
+Arena floor.
+~
+~
+0 -1 17543
+D3
+Arena floor.
+~
+~
+0 -1 17548
+Z3
+C-1
+S
+#17550
+On the Arena Floor.~
+    	You find yourself in the main arena. Cages lie to the north and west.
+You wonder what lies within their murky depths...
+~
+175 0 1
+D0
+Challenge cage.
+~
+gate~
+1 -1 17554
+D1
+Challenge cage.
+~
+gate~
+1 -1 17551
+D2
+Arena floor.
+~
+~
+0 -1 17544
+D3
+Arena floor.
+~
+~
+0 -1 17549
+Z3
+C-1
+S
+#17551
+Challenge Cage.~
+    	You ihave entered one of the many challenge cages used to keep the 
+ampitheater's creatures of combat. You suddenly remember that such creatures
+are trained to attack.....
+~
+175 0 1
+D1
+Behind the cages.
+~
+gate~
+1 -1 17546
+D3
+Arena floor.
+~
+gate~
+1 -1 17550
+Z3
+C-1
+S
+#17552
+Challenge Cage.~
+    	You have entered one of the many cages used for keeping the 
+ampitheater's creatures of combat. You suddenly remember such creatures are
+trained to attack.....
+~
+175 0 1
+D0
+Behind the cages.
+~
+gate~
+1 -1 17555
+D2
+Arena floor.
+~
+gate~
+1 -1 17548
+Z3
+C-1
+S
+#17553
+Challenge Cage.~
+    	You have entered on of the many cages used for keeping the 
+ampitheater's creatures of combat. You suddenly remember that such creatures 
+are trained to attack.....
+~
+175 0 1
+D0
+Behind the cages.
+~
+gate~
+1 -1 17555
+D2
+Arena floor.
+~
+gate~
+1 -1 17549
+Z3
+C-1
+S
+#17554
+Challenge Cage.~
+    	You have entered one of the many cages used for keeping the
+ampithater's creatures of combat. You suddenly remember that such creatures
+are trained to attack.....
+~
+175 0 1
+D0
+Behind the cages.
+~
+gate~
+1 -1 17555
+D2
+Arena floor.
+~
+gate~
+1 -1 17550
+Z3
+C-1
+S
+#17555
+Behind the Challenge Cages.~
+    	You find yourself in a passageway behind the cages and underneath
+the galleries. Exits lead in all directions.
+~
+175 0 1
+D0
+Passageway.
+~
+~
+0 -1 17556
+D1
+Challenge cage.
+~
+gate~
+1 -1 17554
+D2
+Challenge cage.
+~
+gate~
+2 -1 17553
+D3
+Challenge cage.
+~
+gate~
+1 -1 17552
+Z3
+C-1
+S
+#17556
+Passageway.~
+    	The passageway runs north to a small compound. More passages lead
+east, west and south.
+~
+175 4 1
+D0
+Training compound.
+~
+~
+0 -1 17557
+D1
+Behind the cages.
+~
+~
+0 -1 17546
+D2
+Behind the cages.
+~
+~
+0 -1 17555
+D3
+Behind the cages.
+~
+~
+0 -1 17540
+Z3
+C-1
+S
+#17557
+Training Compound.~
+    	You find yourself in what must be the gladiators' training area. This
+room is equipped as a gym with weights and exercise equipment. To the east
+appears to be a store room and to the north lies an outdoor training yard.
+~
+175 0 1
+D0
+Practise yard.
+~
+~
+0 -1 17559
+D1
+Tunnel to the barracks.
+~
+~
+0 -1 17560
+D2
+Passageway.
+~
+~
+0 -1 17556
+D3
+Store room.
+~
+~
+0 -1 17558
+Z3
+C-1
+S
+#17558
+Store Room.~
+    	Assorted items of clothing, armour and several weapons are hung around
+the room on the walls.
+~
+175 0 1
+D1
+Training Compound.
+~
+~
+0 -1 17557
+Z3
+C-1
+S
+#17559
+Practice Yard~
+   Several trainee gladiators are here practicing. They appear to be under
+the guidance of an elerly man.
+~
+175 0 1
+D2
+Training compound.
+~
+~
+0 -1 17557
+Z3
+C-1
+S
+#17560
+Tunnel between the Ampitheater and Barracks.~
+    	This tunnel leads east to the barracks and west to the ampitheater.
+~
+175 0 1
+D1
+Back of the barracks.
+~
+~
+0 -1 17561
+D3
+Training compound.
+~
+~
+0 -1 17557
+Z3
+C-1
+S
+#17561
+Back of the Barracks.~
+    	To the south lies a prison cell. The remainder of the barracks is to 
+the east.
+~
+175 0 1
+D1
+Entrance to barracks.
+~
+~
+0 -1 17564
+D2
+Prison cell.
+~
+cell door~
+2 -1 17562
+D3
+Tunnel to Ampitheater.
+~
+~
+0 -1 17560
+Z3
+C-1
+S
+#17562
+Prison Cell.~
+    	A dark, dreary, almost morbid room. Light shines in from a tiny window
+above your head. The cell appears to be empty... but why such a tough guard on
+duty outside then ?
+~
+175 0 1
+D0
+Back of barracks.
+~
+~
+2 -1 17561
+Z3
+C-1
+S
+#17563
+Barracks R&R Room.~
+    	You enter an immaculately tidy room. Everything appears to be exactly
+where you would expect it to be. The room is decorated with military 
+memorabilia and calendars showing rather risque pictures of foreign ladies.
+~
+175 0 1
+D0
+Entrance to barracks.
+~
+~
+0 -1 17564
+Z3
+C-1
+S
+#17564
+Entrance to the Barracks.~
+
+    You enter the Pentara Army Barracks. To the West you see the dungeons
+and to the South you see a more relaxed atmosphere. The exit to North Way
+is to the East.
+
+~
+175 0 1
+D1
+~
+~
+0 -1 17566
+D2
+R&R room.
+~
+~
+0 -1 17563
+D3
+Back of barracks.
+~
+~
+0 -1 17562
+Z3
+C-1
+S
+#17565
+On North Way.~
+
+   You find yourself on a North-South path. To the South lies the
+crossroads and the path continues North towards the bridge.
+
+~
+175 0 1
+D0
+On north way.
+~
+~
+0 -1 17566
+D2
+The crossroads.
+~
+~
+0 -1 17502
+Z3
+C-1
+S
+#17566
+On North Way.~
+
+   To the West you see a fortified building. North Way continues North to
+the bridge and South towards the Roman section of the city.
+
+~
+175 0 1
+D0
+Coast road.
+~
+~
+0 -1 17567
+D2
+North way.
+~
+~
+0 -1 17565
+Z3
+C-1
+S
+#17567
+Bridge~
+
+   You are standing on the West end of a stone bridge. To the South the
+roman section of Pentara stands. You can also see the royal palace to the
+Southeast. Te bridge leads back East to the center of the city.
+
+~
+175 0 1
+D1
+~
+~
+0 -1 17598
+D2
+North way.
+~
+~
+0 -1 17566
+Z3
+C-1
+S
+#17568
+Entrance to the Harbor.~
+
+   You are at the entrance of the harbor. Boats of all kinds are passing you
+in both directions. To the west you can see the harbor where many boats are
+anchored and to the East you see the river inlet.
+
+~
+175 0 1
+D1
+~
+~
+0 -1 17572
+D3
+~
+~
+0 -1 17576
+E
+17573~
+
+   To the West, the waterway leads into the harbor where many boats a
+anchored
+
+~
+Z3
+C-1
+S
+#17569
+Coast Road by the Harbor.~
+    	The harbor water lies to the north and the harbour master's office 
+lies to the south. Coast Road continues east.
+~
+175 0 1
+D1
+Coast road.
+~
+~
+0 -1 17571
+D2
+Harbor master's office.
+~
+~
+0 -1 17570
+Z3
+C-1
+S
+#17570
+Harbor Master's Office.~
+    	You enter the office of a true "nautical fanatic". Items of naval
+interest are spread all over the room. It look some of them may be for sale.
+~
+175 0 1
+D0
+~
+~
+0 -1 17596
+Z3
+C-1
+S
+#17571
+End of Coast Road.~
+    	You have reached the east end of coast road. To the east you see the 
+river, but see no route to get to it. The east end of the harbor is to the
+north.
+~
+175 0 1
+D3
+Coast road.
+~
+~
+0 -1 17569
+Z3
+C-1
+S
+#17572
+River Inlet to Harbor.~
+
+   You find yourself at the point where te river enters the harbor, finishing
+its journey from the sea. You can head upstream to the East or into the 
+harbor the the West.
+
+~
+175 0 7
+D1
+~
+~
+0 -1 17573
+D3
+~
+~
+0 -1 17568
+Z3
+C-1
+S
+#17573
+On the river.~
+
+   You are on the river. To the West you see the inlet to the harbor. Small
+boats are here anchored and fishing. To the East you can see the rough seas.
+
+~
+175 0 7
+D1
+~
+~
+0 -1 17577
+D3
+~
+~
+0 -1 17572
+Z3
+C-1
+S
+#17574
+In the Harbor.~
+
+    Assorted boats from assorted countries fill the harbor which continues
+West. You can head out to see by going East.
+
+~
+175 0 7
+D1
+In the harbor.
+~
+~
+0 -1 17575
+D3
+~
+~
+0 -1 17500
+Z3
+C-1
+S
+#17575
+In the Harbor.~
+    	Lots of boats of all shapes, sizes and colors bob around in the water
+here, their crews either working on board or on shore leave.
+~
+175 0 7
+D1
+~
+~
+0 -1 17576
+D3
+In the harbor.
+~
+~
+0 -1 17574
+Z3
+C-1
+S
+#17576
+In the Harbor.~
+
+   Many boats are anchored here. You can see the crews working on their ships
+folding nets, removing sails, tying ropes and examining their catch. To the
+West the harbor continues towards the city and the the East you can see where
+the river enters the harbor.
+
+~
+175 0 7
+D1
+~
+~
+0 -1 17568
+D3
+~
+~
+0 -1 17575
+Z3
+C-1
+S
+#17577
+Out at Sea.~
+   You find yourself in rough seas. Unfortunately the weather has made the
+tides treacherous and the waves almost impassable. Salt water soaks through
+your body as you move through the sea.
+
+~
+175 0 7
+D0
+~
+~
+0 -1 17576
+D1
+~
+~
+0 -1 17578
+D2
+~
+~
+0 -1 17577
+D3
+~
+~
+0 -1 17573
+E
+17578~
+
+   You are now out at sea. Unfortunately the weather has made the tides
+treacherous and the waves impassable. You should seek sanctuary in the
+harbor.
+
+~
+Z3
+C-1
+S
+#17578
+Out at Sea.~
+   You find yourself in rough seas. Unfortunately the weather has made the
+tides treacherous and the waves almost impassable. Salt water soaks through
+your body as you move through the sea.
+
+~
+175 0 7
+D0
+~
+~
+0 -1 17578
+D1
+~
+~
+0 -1 17579
+D2
+~
+~
+0 -1 17578
+D3
+~
+~
+0 -1 17577
+Z3
+C-1
+S
+#17579
+Out at Sea.~
+    	You find yourself in perilous waters. The waves crash and force you
+into to only being able to leave east.
+~
+175 0 7
+D0
+~
+~
+0 -1 17579
+D1
+~
+~
+0 -1 17580
+D2
+~
+~
+0 -1 17579
+D3
+~
+~
+0 -1 17578
+Z3
+C-1
+S
+#17580
+Poseidon's Watery Throne Room.~
+    	Amidst the heavy seas, the water here is totally calm, as though 
+settled by some magical power. A magnificent throne skims the surface of the
+waves, steered by its occupant, Poseidon. His loyal Mermen guards swim at his
+side. The treacherous currents prevent you from leaving in any direction other
+then east.
+~
+175 0 7
+D0
+~
+~
+0 -1 17580
+D2
+~
+~
+0 -1 17580
+D3
+~
+~
+0 -1 17579
+E
+throne~
+	A magnificent sculpure. It appears to be "carved" out of water. You
+see fish swimming within the confines of the seat.
+~
+Z3
+C-1
+S
+#17581
+Out at Sea.~
+    	You find yourself being carried by the currents which drift nothwards.
+~
+175 0 7
+D0
+Poseidon's Lair.
+~
+~
+0 -1 17580
+Z3
+C-1
+S
+#17582
+In the Sea.~
+    	You enter the sea and instantly find yourself trapped in eddy currents.
+Your only choice is to let the currents carry you north out to sea.
+~
+175 0 7
+D0
+Out at sea.
+~
+~
+0 -1 17581
+Z3
+C-1
+S
+#17583
+Rocks on the Beach.~
+    	You find your feet trailing through the fine sand on the beach. A
+group of large rocks catch your attention, as do certain creatures next to 
+them.
+~
+175 0 1
+D0
+In the sea.
+~
+~
+0 -1 17582
+D3
+Coast road.
+~
+~
+0 -1 17586
+Z3
+C-1
+S
+#17584
+On coast road.~
+    	Coast road leads east down to the beach. A large red sign stand in the 
+middle of the road.
+~
+175 4 1
+D1
+On coast road.
+~
+~
+0 -1 17567
+D2
+De-tour.
+~
+~
+0 -1 17585
+D3
+On the beach.
+~
+~
+0 -1 17583
+E
+sign~
+The sign reads :-
+
+	DANGER WARNING !!!!!!
+
+ Danger on the beach. DO NOT GO WEST.
+
+	De-tour to the south.
+~
+Z3
+C-1
+S
+#17585
+Hollywood Avenue~
+
+   Wow!!  What a incredible neighbourhood. For miles and miles all you can
+see are beer stores, liquor stores, and the occasional sex toy shop, you 
+know all the essential things. Wandering farther into the neighbourhood you
+notice that every woman looks like a famous supermodel ( Cathy, Cindy, Elle,
+Claudia, etc...) Wow, you think to yourself you wish you could live here too.
+
+~
+175 0 1
+D1
+~
+~
+0 -1 20199
+D3
+~
+~
+0 -1 17505
+Z3
+C-1
+S
+#17586
+On coast road.~
+            Coast road leads east down to the beach. A large red sign stands in the
+middle of the road.
+~
+175 4 1
+D2
+De-tour.
+~
+~
+0 -1 17585
+E
+sign~
+The sign reads :-
+
+        DANGER WARNING !!!!!!
+
+ Danger on the beach. DO NOT GO EAST.
+
+        De-tour to the south.
+~
+Z3
+C-1
+S
+#17587
+On Coast Road.~
+
+   You find yourself at the west end of coast road. Seagulls are flying in
+the sky above you. You can smell the ocean to the east of you. The road
+continues to the east and west back to clearview.
+
+~
+175 0 1
+D1
+~
+~
+0 -1 17594
+D3
+~
+~
+0 -1 20123
+Z3
+C-1
+S
+#17588
+Entrance to the Lighthouse.~
+    	You enter the base structure of a small lighthouse. To the north stands a spiral staircase leading up. To the west you see the living quarters for the
+lighthouse keeper.
+~
+175 8 0
+D0
+Staircase.
+~
+~
+0 -1 17591
+D2
+~
+~
+0 -1 17597
+Z3
+C-1
+S
+#17589
+Living quarters.~
+    	You find yourself in a cosy room. A small table stands in front of a
+comfortable chair and a pipe sits on the arm of the chair. A small cooking area
+is incorporated into the room. To the north you see a small bedroom.
+~
+175 8 0
+D0
+Bedroom.
+~
+~
+0 -1 17590
+Z3
+C-1
+S
+#17590
+Bedroom.~
+    	You find yourself in a sparsely decorated bedroom. A small chest of
+drawers and a large trunk are the only items other than the hammock suspended
+across the room.
+~
+175 8 0
+D1
+Staircase.
+~
+~
+0 -1 17591
+D2
+Living quarters.
+~
+~
+0 -1 17589
+Z3
+C-1
+S
+#17591
+Spiral Staircase.~
+
+     You find yourself at the bottom of a spiral staircase which winds its
+way up into the tower.
+
+~
+175 8 0
+D2
+Entrance to the lighthouse.
+~
+~
+0 -1 17588
+D3
+Bedroom.
+~
+~
+0 -1 17590
+D4
+~
+~
+0 -1 17592
+Z3
+C-1
+S
+#17592
+Halfway up the Tower.~
+    	The staircase continues up and down.
+~
+175 8 0
+D4
+~
+~
+0 -1 17593
+D5
+~
+~
+0 -1 17591
+Z3
+C-1
+S
+#17593
+Top of the Lighthouse.~
+
+   From here you get a magnificent view of the city of Pentara, from the
+harbor to the East, and the city to the West. The lighthouse flame is here,
+orbited by a lens casting the brightness out to sea.
+
+~
+175 8 0
+D5
+~
+~
+0 -1 17592
+E
+flame~
+A bright flame casting a warm glow around the room.
+~
+E
+lens~
+As you look into the lens, the brightness and concentrated heat hit your eyes.
+You scream in agony and nurse you injured eyes.
+
+You are blinded.
+~
+Z3
+C-1
+S
+#17599
+{W}Outside of the {BO}{YE}I{bo}{W}m{BO}{YE}p{bo}{W}e{BO}{YE}r{bo}{W}i{BO}{YE}a{bo}{W}l {BO}{CY}M{bo}{W}a{BO}{CY}z{bo}{W}e{BO}{YE}!{bo}{ye}~
+{W}You find yourself in a {BO}{W}dimly{bo}{W} lit passageway{BO}{BL}.{bo}{bl} {W}The wall behind you now 
+appears fully {BO}{W}transparent{BL}.{bo}{bl} {W}You are disappointed to not find hordes of 
+royal {BO}{YE}treasure{bo}{ye} here{BO}{BL}.{bo}{bl} {W}You wonder if the {BO}{BL}darkness{bo}{bl} {W}to the north will hold any 
+possibility of reward{BO}{BL}.{bo}{bl}
+~
+175 4 1
+D0
+~
+~
+0 -1 12121
+D1
+Short cut.
+~
+green glow~
+0 -1 17709
+D2
+Dead end !
+~
+~
+0 -1 17701
+E
+sign~
+The sign simply reads :-
+
+	(: SHORT CUT ! :)
+~
+Z3
+C-1
+S
+$~

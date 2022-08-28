@@ -1,0 +1,991 @@
+#14200
+{bo,R}Acme Looniversity{bo,r}~
+{C}
+  You are on the steps of the most prestigious school in Toondom,
+ where the citizens of Acme Acres receive their educations.
+{c}
+~
+142 0 1
+D0
+~
+~
+0 -1 14201
+D2
+~
+~
+0 -1 14238
+Z3
+C-1
+S
+#14201
+{bo,R}First Floor Hallway{bo,r}~
+{C}
+  You walk along the hallowed (yeah, right) halls of Acme Loon.
+ To your left you hear a melodious language being mangled, and
+ from the classroom to the right you hear SPROING!s, ZAP!s, and
+ BONK!s.
+{c}
+~
+142 8 1
+D0
+(null)~
+~
+0 -1 14204
+D1
+(null)~
+~
+0 -1 14203
+D2
+~
+~
+0 -1 14200
+D3
+(null)~
+~
+0 -1 14202
+D4
+(null)~
+~
+0 -1 14207
+Z3
+C-1
+S
+#14202
+{bo,R}French Class{bo,r}~
+{C}
+  "Il est huit heures et demi."
+  "Ellay way yoor ate dummy."
+  You cringe.
+{c}
+~
+142 8 1
+D1
+(null)~
+~
+0 -1 14201
+Z3
+C-1
+S
+#14203
+{bo,R}History Class{bo,r}~
+{C}
+  On the walls there are pictures of the greats -- Elmer, Porky,
+ Daffy, and(of course) Bugs, as well as Tom & Jerry, Rocky & 
+ Bullwinkle, and Mickey Mouse. The history of cartoons is being
+ taught here.
+{c}
+~
+142 8 1
+D3
+(null)~
+~
+0 -1 14201
+Z3
+C-1
+S
+#14204
+{bo,R}First Floor Hallway{bo,r}~
+{C}
+  You walk along the hallowed (yeah, right) halls of Acme Loon.
+ Snippets of famous orations are heard from the left, and a really
+ nasty stench emanates from your right.  A different, but equally
+ nasty odor trails in from the north.
+{c}
+~
+142 8 1
+D0
+(null)~
+~
+0 -1 14215
+D1
+(null)~
+~
+0 -1 14206
+D2
+(null)~
+~
+0 -1 14201
+D3
+(null)~
+~
+0 -1 14205
+Z3
+C-1
+S
+#14205
+{bo,R}Drama Class{bo,r}~
+{C}
+  The drama club is preparing its rendition of 'Maccbeth'.
+ "Tomorrow, and tomorrow, and tomorrow... and the next day,
+ and the day after that, and a week from next Tuesday...
+{c}
+~
+142 8 1
+D1
+(null)~
+~
+0 -1 14204
+Z3
+C-1
+S
+#14206
+{bo,R}Gym Class{bo,r}~
+{C}
+  Phew-ee!  It reeks in here, of old smelly tube socks and mildew,
+ and things you'd really rather not know about.
+{c}
+~
+142 8 1
+D3
+(null)~
+~
+0 -1 14204
+Z3
+C-1
+S
+#14207
+{bo,R}Second Floor Hallway{bo,r}~
+{C}
+  You walk along the hallowed (yeah, right) halls of Acme Loon.
+ From the room on the left you hear assorted chirps and squeaks,
+ and a droning voice detailing marketing strategies on the right.
+{c}
+~
+142 8 1
+D0
+(null)~
+~
+0 -1 14211
+D1
+(null)~
+~
+0 -1 14210
+D3
+(null)~
+~
+0 -1 14208
+D5
+(null)~
+~
+0 -1 14201
+Z3
+C-1
+S
+#14208
+{bo,R}Biology Class{bo,r}~
+{C}
+  Cages are scattered all over the classroom, containing various 
+ frightened animals.  One cage over to the side catches your
+ attention. 
+{c}
+~
+142 8 1
+D1
+(null)~
+~
+0 -1 14207
+D3
+(null)~
+latch~
+1 -1 14209
+Z3
+C-1
+S
+#14209
+{bo,R}A Cage{bo,r}~
+{C}
+  You examine two ordinary-looking mice.  Why, they seem to be 
+ discussing their plans for the evening -- to try to take over
+ the world!
+{c}
+~
+142 8 1
+D1
+(null)~
+latch~
+1 -1 14208
+Z3
+C-1
+S
+#14210
+{bo,R}Economics Class{bo,r}~
+{C}
+  Graphs and pie charts are tacked up on the walls, and numbers
+ literally dance over the blackboard.
+{c}
+~
+142 8 1
+D3
+(null)~
+~
+0 -1 14207
+Z3
+C-1
+S
+#14211
+{bo,R}Second Floor Hallway{bo,r}~
+{C}
+  You walk along the hallowed (yeah, right) halls of Acme Loon.
+ You hear a loud BANG! to the left, and a low rhythmic humming
+ to the right.
+{c}
+~
+142 8 1
+D0
+(null)~
+~
+0 -1 14214
+D1
+(null)~
+~
+0 -1 14213
+D2
+(null)~
+~
+0 -1 14207
+D3
+(null)~
+~
+0 -1 14212
+Z3
+C-1
+S
+#14212
+{bo,R}Chemistry Class{bo,r}~
+{C}
+  You gasp and cough as you enter a thick oily cloud of gas and
+ smoke. An experiment appears to have gone terribly wrong in here.
+{c}
+~
+142 8 1
+D1
+(null)~
+~
+0 -1 14211
+Z3
+C-1
+S
+#14213
+{bo,R}Psychology Class{bo,r}~
+{C}
+  The psych students, as an excercise, are practicing breathing
+ and relaxation techniques.  Some of them appear to be meditating,
+ almost.
+{c}
+~
+142 8 1
+D3
+(null)~
+~
+0 -1 14211
+Z3
+C-1
+S
+#14214
+{bo,R}A Stairway{bo,r}~
+{C}
+  The stairs lead down to the cafeteria, and south to the second
+ floor of Acme Loon. There is graffiti on the wall, and there
+ appears to be a sort of hatch in the ceiling.
+{c}
+~
+142 8 1
+D2
+(null)~
+~
+0 -1 14211
+D4
+(null)~
+trapdoor~
+1 -1 14216
+D5
+(null)~
+~
+0 -1 14215
+E
+graffiti wall~
+RQ + BC
+~
+Z3
+C-1
+S
+#14215
+{bo,R}The Cafeteria{bo,r}~
+{C}
+  Students don't come here for the food (or what the cafeteria
+ workers call food) but to chill and hang out.
+{c}
+~
+142 8 1
+D0
+(null)~
+backdoor~
+1 14203 14224
+D2
+(null)~
+~
+0 -1 14204
+D4
+(null)~
+~
+0 -1 14214
+Z3
+C-1
+S
+#14216
+{bo,R}At The Foot of the Tower{bo,r}~
+{C}
+  You're at the bottom of a large water tower, with the initials
+ "WB" emblazoned on it.
+{c}
+~
+142 0 1
+D4
+(null)~
+~
+0 -1 14217
+D5
+(null)~
+trapdoor~
+1 -1 14214
+Z3
+C-1
+S
+#14217
+{bo,R}Up the Tower{bo,r}~
+{C}
+  You are making your way up a tangle of steel and concrete. Will
+ you ever reach the top?
+{c}
+~
+142 0 1
+D4
+(null)~
+~
+0 -1 14218
+D5
+(null)~
+~
+0 -1 14216
+Z3
+C-1
+S
+#14218
+{bo,R}Up the Tower{bo,r}~
+{C}
+  You are making your way up a tangle of steel and concrete. Will
+ you ever reach the top?
+{c}
+~
+142 0 1
+D4
+(null)~
+~
+0 -1 14219
+D5
+(null)~
+~
+0 -1 14217
+Z3
+C-1
+S
+#14219
+{bo,R}Up the Tower{bo,r}~
+{C}
+  You are making your way up a tangle of steel and concrete. Will
+ you ever reach the top?
+{c}
+~
+142 0 1
+D4
+(null)~
+~
+0 -1 14220
+D5
+(null)~
+~
+0 -1 14218
+Z3
+C-1
+S
+#14220
+{bo,R}Up the Tower{bo,r}~
+{C}
+  You are making your way up a tangle of steel and concrete. Will
+ you ever reach the top?
+{c}
+~
+142 0 1
+D4
+~
+~
+0 -1 14235
+D5
+(null)~
+~
+0 -1 14219
+Z3
+C-1
+S
+#14221
+{bo,R}Inside the Tower{bo,r}~
+{C}
+  Boy, it's a lot roomier on the inside than it appears on the
+ outside. The walls are a steel gray.  On one side there are
+ two beds side by side, and a canopy bed next to them. In the
+ other corner is a round booth, with a wrap-around bench. Train
+ tracks run throughout the tower, and you see the engine off to
+ one side, knocked over... into a couple of bookshelves filled
+ with Warner Brothers movies. Next to the shelves is a large TV,
+ and through an open door you see a big round bubble bath in the
+ bathroom.
+{c}
+~
+142 8 1
+D2
+(null)~
+logo~
+1 -1 14222
+Z3
+C-1
+S
+#14222
+{bo,R}At the top of the Tower{bo,r}~
+{C}
+  Sheesh, it's about time! You're outside a small water tower.
+ Acme Loon appears very far below you, as well as a bunch of
+ buildings to the north of the Looniversity... No, on second
+ thought, _don't_ look down!
+{c}
+~
+142 0 1
+D0
+A big Warner Brothers logo.
+~
+logo~
+1 -1 14221
+D5
+~
+~
+0 -1 14236
+Z3
+C-1
+S
+#14223
+{bo,R}Warner Bothers Studios{bo,r}~
+{C}
+  This set is constructed as a room in a house, with lilac-colored
+ walls and rose-colored furniture. A bird cage is propped in one
+ corner of the room.
+{c}
+~
+142 8 1
+D0
+(null)~
+~
+0 -1 14226
+D1
+(null)~
+~
+0 -1 14224
+Z3
+C-1
+S
+#14224
+{bo,R}Warner Bothers Studios{bo,r}~
+{C}
+  You've accidentally stumbled upon the back door to the WB
+ studio lot. You see different sets in all directions, and 
+ lots of recognizable names!
+{c}
+~
+142 12 1
+D0
+(null)~
+~
+0 -1 14227
+D1
+(null)~
+~
+0 -1 14225
+D2
+(null)~
+backdoor~
+1 14203 14215
+D3
+(null)~
+~
+0 -1 14223
+Z3
+C-1
+S
+#14225
+{bo,R}Warner Bothers Studios{bo,r}~
+{C}
+  Tree-like props are scattered to form a forest. Black 
+ rabbit-shaped footprints form a trail on the floor.
+{c}
+~
+142 0 1
+D0
+(null)~
+~
+0 -1 14228
+D3
+(null)~
+~
+0 -1 14224
+Z3
+C-1
+S
+#14226
+{bo,R}Warner Bothers Studios{bo,r}~
+{C}
+  This is a drab gray set, constructed to look like an alley.
+ A garbage dumpster stands off to one side, and paper wrappers
+ and tin cans litter the area.
+{c}
+~
+142 0 1
+D0
+(null)~
+~
+0 -1 14229
+D1
+(null)~
+~
+0 -1 14227
+D2
+(null)~
+~
+0 -1 14223
+Z3
+C-1
+S
+#14227
+{bo,R}Warner Bothers Studios{bo,r}~
+{C}
+  You feel as if you have stepped into a lush park in France.
+ There are park benches and a gazebo painted in white centered
+ in the room. A couple of iron-wrought statues are scattered
+ about the set.
+{c}
+~
+142 0 1
+D0
+(null)~
+~
+0 -1 14230
+D1
+(null)~
+~
+0 -1 14228
+D2
+(null)~
+~
+0 -1 14224
+D3
+(null)~
+~
+0 -1 14226
+Z3
+C-1
+S
+#14228
+{bo,R}Warner Bothers Studios{bo,r}~
+{C}
+  This set was built to resemble an underground hole, a cozy little
+ cavern. The only furniture is a bed, and there's a throw rug on the
+ floor.
+{c}
+~
+142 9 1
+D0
+(null)~
+~
+0 -1 14231
+D2
+(null)~
+~
+0 -1 14225
+D3
+(null)~
+~
+0 -1 14227
+Z3
+C-1
+S
+#14229
+{bo,R}Warner Bothers Studios{bo,r}~
+{C}
+  A blue sky, a field of grain, a dusty path... you're out on the
+ open prairie. You hear a grumbling from behind a cactus prop.
+{c}
+~
+142 64 1
+D0
+(null)~
+~
+0 -1 14232
+D1
+(null)~
+~
+0 -1 14230
+D2
+(null)~
+~
+0 -1 14226
+Z3
+C-1
+S
+#14230
+{bo,R}Warner Bothers Studios{bo,r}~
+{C}
+  A deep canyon surrounds you. Someone flicks the fan on, and a
+ tumbleweed prop rolls by.
+{c}
+~
+142 80 1
+D0
+(null)~
+~
+0 -1 14233
+D1
+(null)~
+~
+0 -1 14231
+D2
+(null)~
+~
+0 -1 14227
+D3
+(null)~
+~
+0 -1 14229
+Z3
+C-1
+S
+#14231
+{bo,R}Warner Bothers Studios{bo,r}~
+{C}
+  You've entered a barnyard set -- bales of hay are scattered
+ about, and a chicken coop sits off to one side.
+{c}
+~
+142 0 1
+D0
+(null)~
+~
+0 -1 14234
+D2
+(null)~
+~
+0 -1 14228
+D3
+(null)~
+~
+0 -1 14230
+Z3
+C-1
+S
+#14232
+{bo,R}Warner Bothers Studios{bo,r}~
+{C}
+  A lush pasture surrounds you. A red-and-white checkered blanket
+ has been spread on the ground, with sandwiches laid out upon it.
+ You notice a trail of ants by your feet...
+{c}
+~
+142 0 1
+D1
+(null)~
+~
+0 -1 14233
+D2
+(null)~
+~
+0 -1 14229
+Z3
+C-1
+S
+#14233
+{bo,R}Warner Bothers Studios{bo,r}~
+{C}
+  You've entered the plains of the Outback. Facsimiles of Tasmanian
+ vegetation are sprinkled about. The heavy lights simulate the heat
+ of the sun.
+{c}
+~
+142 80 1
+D1
+(null)~
+~
+0 -1 14234
+D2
+(null)~
+~
+0 -1 14230
+D3
+(null)~
+~
+0 -1 14232
+Z3
+C-1
+S
+#14234
+{bo,R}Warner Bothers Studios{bo,r}~
+{C}
+  The sky is black, the floor a barren rock. A space-age building
+ with a telescope--or is it a missile launcher?--looms in the
+ background.
+{c}
+~
+142 33 1
+D2
+(null)~
+~
+0 -1 14231
+D3
+(null)~
+~
+0 -1 14233
+Z3
+C-1
+S
+#14235
+{bo,R}Up the Tower{bo,r}~
+{C}
+  You are making your way up a tangle of steel and concrete. Will
+ you ever reach the top?
+{c}
+~
+142 0 1
+D4
+~
+~
+0 -1 14236
+D5
+~
+~
+0 -1 14220
+Z3
+C-1
+S
+#14236
+{bo,R}Up the Tower{bo,r}~
+{C}
+  You are making your way up a tangle of steel and concrete. Will
+ you ever reach the top?
+{c}
+~
+142 0 1
+D4
+~
+~
+0 -1 14222
+D5
+~
+~
+0 -1 14235
+Z3
+C-1
+S
+#14237
+{bo,R}A Bright Glow in the Trees{bo,r}~
+{C}
+  Turning south, suddenly there is a glow about you.  It gets
+ brighter to the south... it draws you closer...
+{c}
+~
+142 4 1
+D0
+~
+~
+0 -1 3503
+D2
+~
+~
+0 -1 14239
+Z3
+C-1
+S
+#14238
+{bo,R}In Front of a Big TV Screen{bo,r}~
+{C}
+  It's huge!  This tremendous, gigantic television screen has
+ appeared out of no where! On the screen you see the opening
+ credits to Tiny Toons... awesome!
+  You sit down to watch, but through the course of the show it
+ seems to be getting closer, realer...
+{c}
+~
+142 0 1
+D0
+~
+~
+0 -1 14200
+D3
+~
+~
+0 -1 14239
+Z3
+C-1
+S
+#14239
+{bo,R}A Brighter Glow{bo,r}~
+{C}
+  The pull of the glow beckons you to the east, and faintly you 
+ hear a familiar sound... the sound of cartoons!
+{c}
+~
+142 0 1
+D0
+~
+~
+0 -1 14237
+D1
+~
+~
+0 -1 14238
+Z3
+C-1
+S
+#14240
+Cafeteria~
+  You enter the cafeteria and see all the toon students throwing food at
+each other. You see at one end, is the line where the food is sold, and
+tables running down each aisle where the students are seated at.
+~
+142 0 1
+D1
+~
+~
+0 -1 14241
+Z3
+C-1
+S
+#14241
+Cafeteria~
+  You enter the cafeteria and see all the toon students throwing food at
+each other. You see at one end, is the line where the food is sold, and
+tables running down each aisle where the students are seated at.
+~
+142 0 1
+D1
+~
+~
+0 -1 14242
+D3
+~
+~
+0 -1 14240
+Z3
+C-1
+S
+#14242
+Cafeteria~
+  You enter the cafeteria and see all the toon students throwing food at
+each other. You see at one end, is the line where the food is sold, and
+tables running down each aisle where the students are seated at.
+~
+142 0 1
+D2
+~
+~
+0 -1 14243
+D3
+~
+~
+0 -1 14241
+Z3
+C-1
+S
+#14243
+End of cafeteria~
+You've hit the end of the lunch area..this is where the tables end, and the
+lunch line begins. You begin walking towards the line, when someone with a
+tray bumps into you! Eeeeps what a mess!
+~
+142 0 1
+D0
+~
+~
+0 -1 14242
+D3
+~
+~
+0 -1 14244
+Z3
+C-1
+S
+#14244
+Lunch Line~
+This is the lunch line, at the end you see some old ladys serving food to
+all of the hungry toon students...you also notice all the people cutting
+in line how rude of them! 
+~
+142 0 1
+D1
+~
+~
+0 -1 14243
+Z3
+C-1
+S
+#14294
+blank room~
+blank room, duh... :)
+~
+142 8 1
+D2
+(null)~
+~
+0 -1 222
+D5
+(null)~
+~
+0 -1 3915
+Z3
+C-1
+S
+#14295
+blank room~
+blank room, duh... :)
+~
+142 8 1
+Z3
+C-1
+S
+#14296
+blank room~
+blank room, duh... :)
+~
+142 8 1
+Z3
+C-1
+S
+#14297
+blank room~
+blank room, duh... :)
+~
+142 8 1
+Z3
+C-1
+S
+#14298
+blank room~
+blank room, duh... :)
+~
+142 8 1
+Z3
+C-1
+S
+#14299
+blank room~
+blank room, duh... :)
+~
+142 8 1
+Z3
+C-1
+S
+$~

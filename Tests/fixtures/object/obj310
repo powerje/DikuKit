@@ -1,0 +1,1411 @@
+#31000
+manual handbook book~
+{BO,BLU}An NC handbook,{W} type: {BLU}exa book{bo}~
+An {BO,R}+{W}NC{R}+ {Y}HANDBOOK{bo} is resting here on a large wooden table.{bo}~
+~
+16 0 64 16385
+0 0 0 0
+1 1 1
+E
+page4~
+  
+  To read these pages type: look #     For example:  look 31
+ 
+  31 Alignment
+  32 Message Boards
+  33 Mail
+  34 Donations and Sacrificing
+  35 Gods and Immortals
+  36 Clubs
+  37 Reimbursals
+  38 Congratulations
+~
+E
+help~
+   
+   One of the most useful resources for becoming familiar with NC's
+commands is the NC help files.  The help files cover a broad range
+of topics, from basic commands, to skill information, to rules and
+other useful information. 
+   
+   {bo,W}help{bo}        - {C}Displays a list of basic help topics
+   {W}help help{bo}   - {C}Provides additional information for using help
+   
+   {W}Help (topic){bo} is the syntax for finding information about any given
+topic.  'help look' for instances gives the different syntax for
+using the look command.  There are help files for nearly all commands,
+so be sure to try it out whenever you need help. 
+~
+E
+manual handbook book~
+   
+Here in your hand you see a beautifully crafted book with decorative leather
+protecting its outer surface.  A tarnished brass plate reads "{bo,W}LOOK INTRODUCTION{bo}"
+and as you touch it, you can feel the source of knowledge pulsate in your 
+hands. 
+  
+    Type: {W}LOOK INTRODUCTION{bo} 
+~
+E
+introduction~
+   
+  Welcome young adventurer. Within the pages of this handbook is the
+knowledge you will need to be a great Warrior, cunning Thief, wise Mage
+or holy Cleric. As a new player you will need to learn the same skills
+and arts as our legendary heroes learned. May the immortals smile on you.
+   
+    Type: {bo,W}LOOK INDEX{bo}
+~
+E
+37~
+                        37 Reimbursals
+                          
+  If you die, and the mud crashes, save will not always save you.
+Because this mud is an ever changing one, items are not always saved
+that should be saved.  Gods have the ability to reimburse items to 
+mortals that would prevent mortals from having to do many zones to get
+their stuff back.  This honored command is only given to those people
+whose equipment was not lost by their own fault.  By this, I mean that
+the only condition for immortal reimbursals is when it is the mud's 
+fault that you lost your equipment.  For further explanations, ask one
+of the visible immortals.
+~
+E
+38~
+               38 CONGRATULATIONS
+ 
+   You have completed the +NC+ NEWBIE HANDBOOK.  It is full of wise and
+useful information.  We would like to suggest that you hold this book
+for a while as it will increase your wisdom and intelligence attributes.
+Refer to it often when you have a question about NC.
+{w}
+                                        THANK YOU FOR VISITING US!!
+
+~
+E
+36~
+                            36 CLUBS
+ 
+  There are several types of clubs here on Northern Crossroads.  Most people
+can join a club depending on their levels and skills. Type: CLUBS and you
+will get a list of things you can do.  For example, type: CLUBS LIST to get
+a list of the clubs here on the MUD.  In addition, you can type: HELP CLUBS
+to find out more about clubs.  Clubs are cool because most clubhouses have
+very helpful things in them. A lot of clubs have certain requirements for
+people to join.  You can ask any club member what those requirements are.
+To see which players are in which club type: Who -lcf.  It is a good idea to
+wait a while before joining a club to see exactly which club you will fit
+into.  Changing clubs after you have joined one is not always easy.  Former
+friends could turn into arch-enemies.
+~
+E
+35~
+                  35 IMMORTALS AND GODS
+ 
+  Immortals and Gods are higher level beings who help run the mud.
+These people were once players like yourself, but have advanced in
+levels and experience to become Immortal. Type: who -lfc. This will
+show you which immortals are on.  They are the ones with the [   ] next
+to their names.   For example [Immortal] or [God]. Type: wizlist.
+This will show you a list of all the immortals on the mud. These people
+are here to help players with questions and problems. Feel free to ask
+anyone of them for help.  Immortal levels are Immortal through Committee.
+Committee are the actual coders of the mud.  You too can become an Immortal
+someday if you have a desire to work hard and create an area of your own.
+~
+E
+34~
+                   34 DONATIONS & SACRIFICING
+ 
+  There is a Donation room located in town where players can donate
+equipment for others. (2n,e) As you get more equipment through your many
+adventures, you can donate some of your old stuff to others. To do this 
+you type: Don (item).  This will automatically donate the item directly to
+the donation room.  You do not have to be in the Donation room to donate.  
+Please don't fill the donation room with useless items. If you want to get
+rid of an item PERMANENTLY you can sacrifice it to the Gods.  Any item you
+sacrifice will be GONE!! So be careful when you do this. You can sacrifice 
+an item by typing:  Sac (item).  I had this dog once...
+~
+E
+33~
+                      33 MAIL
+ 
+  You can write to other people who are not on the game by going
+to the post office.  The post office is located in the city (refer to map).
+You can write a message to someone or receive mail if someone has written
+you a message.  This can be very useful if you need to relay a message to
+another player who is not currently on. When you log onto the game you will
+see a message on your screen telling you if you have mail or not.
+
+~
+E
+32~
+                  32 MESSAGE BOARDS
+ 
+  There are several message boards located around the city.  This is where
+important messages are posted.  These messages may be about anything from
+rules to problems.  There is a message board directly north of the Temple
+Square. Remember to check these boards on a regular basis.  You may post on
+these boards anytime you have a comment or question or want to offer your 
+opinions about a certain mud related subject.
+~
+E
+31~
+                      31 Alignment
+ 
+  As you kill different types of mobs, your alignment will change.
+If you kill Good mobs (like cityguards) you will become more and
+more evil.  As you kill evil mobs (like fidos) you will become more and
+more good.  To check your alignment type SCORE. Many types of equipment
+require that you have a certain alignment to wear them.  You will need to
+kill the proper types of mobs to change your alignment.  If a piece of eq.
+"zaps" you, then your alignment is wrong.  Magic users and clerics have
+the ability to change your alignment as well.
+~
+E
+30~
+                 30 Grouping with other Players
+ 
+  One of the most enjoyable things at the Northern Crossroads is grouping.
+This is when you and other players band together to fight or explore. When
+you are low level, it is best to group with others so that you will not be 
+killed as easily.  You can only group with people who are NO MORE or NO LESS
+then 15 levels above or below you. Once you are part of a group, you will gain
+experience as you kill mobs.  The experience you gain will be less then
+if you killed the mob yourself, but your chances of dying are less and you
+can kill harder mobs. Try to form a group with all four classes. To find a
+group to join use the gossip channel. You simply type: gossip Does anyone
+want to GROUP?????? Some players should respond to this request.  If no one
+does then try again later.  Go to the newbie arena while you wait! 5 south and
+up from market square.
+
+~
+E
+29~
+                       29 ALIAS
+ 
+  An alias is a way to replace a long command into a word or letters.
+For example, you can make an Alias to make you drink out of your barrel.
+Type: alias com dr drink barrel. Now when you type dr you will automatically
+drink from your barrel.  Type Help Alias to see added information on this
+subject.
+
+~
+E
+28~
+                        28 RECALLING
+ 
+  During battle or when you want to return to the temple in town you can
+use a scroll of recall.  Buy scrolls at the magic shop in town. To use it
+type RECITE SCROLL.  This will automatically transfer you back to town.
+This is useful if you are lost or if you need to escape during a battle.
+Remember that you must have the scroll in your inventory in order to use it.
+You cannot use it if it's in a container or a bag of some sort. You DO NOT
+need to first hold the scroll to use it.
+{w}
+   Recently, a player who has been exceptionally reliable with newbies has
+been a person called Dax.  This player has the ability to summon you back
+to the training room one room above market.  If you get in a sticky situation
+or get lost, type gos dax summon and providing he/she is on, they will summon
+you to her place.  She will also cast spells on you.  Type dax spells to see
+what she is offering.
+
+~
+E
+27~
+                    27 Renting and Quitting
+ 
+  If you want to stop playing, you need to go to the Hotel (in town) and
+rent.  It will cost you a certain amount of gold to save your eq. When you
+get to the hotel you first type: OFFER to see how much it will cost you to
+rent.  Then type: RENT to save your character and eq.  If you do not have
+enough gold to rent, GOSSIP and ask for help, and someone will help you with rent.
+You can also stop playing by typing Quit.  If you do this you will loose all
+your equipment so be careful when you use this command.  You could loose some
+pretty cool pieces.
+~
+E
+26~
+                      26 SAVING
+ 
+  Occasionally, the mud crashes.  Remember to type SAVE often.
+You should type save after every few kills or if you get a piece of
+new eq. Get used to typing save, in case of a crash.  The mud will 
+automatically save your game every 2 minutes or so BUT don't take
+the chance of loosing a cool new piece you have acquired.
+~
+E
+25~
+                    25 ENERGY and MOVEMENT
+ 
+  Sometimes your energy level and movement will run out.  This may happen
+because you have walked too much, if you are wearing a piece of eq which
+drains your energy, or if one of your spells runs out.  If this happens
+you can do one of two things.  1) REST or SLEEP until your energy returns or
+2) Eat something.  This should give you most of your movement back.
+~
+E
+24~
+                    24 Resting & Sleeping
+ 
+  Another way you can regenerate your hitpoints is to rest or sleep
+after battles.  This will also regenerate your mana and movement
+potentials. As you run out of mana, hitpoints, or movement type REST or
+SLEEP and your points will regenerate. You will have faster regeneration
+if you are resting in the Mallins. The Mallins is located under Market
+Square.  If the door to the Mallins is closed just type: OPEN Mausuleum.
+Druids, who have mastered the art of healing have many spells that may
+help you in your regeneration as well.  
+~
+E
+23~
+                       23 Healing
+ 
+  When your are fighting Mobs, you will be loosing hitpoints when
+you are hit.  If you are a cleric you can heal yourself during
+combat. You can also heal others when you are fighting.  If you are
+a class other then a cleric, you will have to use potions to heal
+yourself.  You can go to the HEALER to buy potions to use in combat.
+In order to use these potions just type: quaff (potion name).  Some
+mobs around town may have these healing potions as well. 
+~
+E
+22~
+                    22 BAGS and CONTAINERS
+  
+  You will need to keep things you are carrying in bags or containers.
+You can buy a bag from the general store in town.  You will also find
+different types of containers in your adventures.  Different types of
+containers will allow you to put different amounts of things in them.
+In order to put something into a bag type: PUT (item name) BAG.  To take
+something out type: GET (item name) BAG. If you are carrying multiple bags
+you need to specify which bag number you wish to put the item in.  Type: 
+PUT (item name) (number of bag).For example, type: PUT sword 2.bag.  In
+order to get something from a bag type: GET sword 2.bag.  Also, a good
+idea to decrease the amount of weight you carry (in midgets) is to put
+all your stuff in one bag and hold it.  Then the weight will disappear.
+~
+E
+21~
+                  21 Eating and Drinking
+ 
+  From time to time you will get hungry or thirsty. You can buy food at the 
+Bakery in town and you can get water at the fountain in Market Square. You
+can buy a barrel at the Bar by the Hotel in town. After you buy a barrel, 
+type FILL BARREL FOUNTAIN.  When you are thirsty type: DRINK BARREL, and when 
+you are hungry type: EAT (food name). Also, some equipment may carry mystical
+properties that make hunger seemingly go away.  The most common of these pieces
+is the towel.  Ask a higher advanced player for help in acquiring one.
+
+~
+E
+page3~
+  To read these pages type: look #     For example:  look 21
+ 
+  21 Eating and Drinking
+  22 Bags and Containers
+  23 Healing
+  24 Resting and Sleeping
+  25 Energy and Movement
+  26 Saving
+  27 Renting and Quiting and Deleting
+  28 Recalling
+  29 Alias
+  30 Grouping
+
+~
+E
+20~
+                       20 Invisibility
+ 
+  There are many things on NC which are invisible. Equipment, objects, and
+even some players!  You will not be able to see these things if you don't
+have some sort of detect invisibility spell, potion, or object. The simplest
+way to see invisible objects and people is to go to the Magic Shop in town and
+buy a Yellow Potion.  This will allow you to see invisible things for a
+certain amount of time. If you are invisible and you try to buy something at
+the shops, the shop keepers will not do business with you.  Maybe they should
+quaff a yellow potion as well, eh?
+~
+E
+19~
+                19 EQUIPMENT REPAIR 
+ 
+  You need to regularly repair your eq. If you don't it will disintegrate
+after heavy use. To repair your eq, go to the smithy and type repair all. We
+can not emphasize this enough. DO THIS OFTEN!!! Remember it costs money to fix
+your stuff so have money ready before you repair.
+~
+E
+18~
+                       18 EQUIPMENT
+ 
+  A full inventory of eq. consists of 18 items worn, held, or wielded.
+Good equipment is a vital part of the game.  Some eq. will improve your
+armor class, mana, movement, or hitpoints. Most pieces give some type of 
+affect.  To find out what a piece of eq. does, use a scroll of identify on it. 
+Some eq. is aligned so you must be evil, neutral, or good to wear or use it.  
+Your alignment changes as you kill certain types of monsters (or MOBS).  If 
+you kill good mobs you will become evil, if you kill evil mobs you will become 
+good.
+~
+E
+17~
+                            17 LEVELING
+ 
+ You advance in level by gaining experience.  You gain experience by killing
+mobs.  When you start your character you chose a class.  This is a dual class
+mud.  At level 15 you are allowed to chose a 2nd class. To do this you will
+go to Paladins Temple and Pray for your 2nd class.  Any higher level player
+can show you where to go. At level 50/50 dual go to one of the trainers for 
+blademaster, assassin, druid, or archmage.  The highest level you can be as 
+a mortal is 50 ADVANCED. Remember to keep your CON and WIS as high as possible
+when you level, this will gain you the maximum hitpoints and practices. Increased
+stats are important to ADVANCED classes but you must discover which ones. Duals
+level at Bozo up from Market Square.  Advanced players advance automatically, 
+however, to learn new skills these players must go to their trainers.  These 
+trainers are hidden and must be found.
+ 
+~
+E
+index~
+
+{Y}***{YELLOW,BOLD}{UNDERLINE}INDEX{b}{Y}***
+{C}
+{C}   look help      {c}- {CYAN,BOLD}A "how to" for using NC's useful help files.{b}
+{C}   look commands  {c}- {CYAN,BOLD}A reference of commands for getting started{b}
+{C}
+{C}   help rules     {c}- {CYAN,BOLD}Rules used to preserve NC's playing environment{c}
+
+~
+E
+06~
+06 Social Skills
+
+  Type: help social   to find a list of socials you can use. There is
+a large list of socials available. To use a social....
+
+  In the same room - <social> or <social person>. Example: smile <player name>
+  On gossip type: gos @<social>  Example: gos @smile <player name>
+  To emote in the same room type: , <emote>  Example: , does a little jig.
+  To emote on gossip type: gos , <emote>   Example: goss , flips you on the nose.
+
+~
+E
+04~
+
+04 CURSOR PROMPTS
+
+  You come with a prompt already set for you but there are many more available,
+or you can create your own. Type: help prompt     to see how to set your
+own prompt. To try out other prompts that are available just type: PROMPT 1,
+PROMPT 2, etc. till you find one you really like.
+
+~
+E
+03~
+
+03 Exits, Secret Exits, Hidden Doors and Auto Features
+
+  Type: SHOWEXIT        This will make it so you automatically see the
+exits in a room. You can also type: EXIT or EX to see a room's exits. This
+command will NOT show secret or hidden exits. 
+
+  There are many SECRET EXITS and HIDDEN DOORS. Often something good
+is behind these doors. When you are in a room try going in all directions
+NOT listed when you type: exit. If there is a hidden route you will find it.
+You must also read the room descriptions very carefully for clues. 
+
+  Type: auto     This allows you to see the auto functions that are available.
+Type: auto all      This makes you auto loot corpses(eq, gold) of mobs you kill.
+
+~
+E
+02~
+
+02 Directions
+
+You must learn to move around. There are 6 different directions, 
+North, South, East, West, Up, and Down. You can use the letters
+N,S,E,W,U,D to move in that direction. To look at rooms or objects
+type: look(or "l" by itself). You can also use EXAMINE or EXA to see objects.
+
+~
+E
+01~
+
+01 Getting Started
+
+type: echo
+
+This will enable you to see the words you are typing. 
+Typing echo again will turn it off.
+~
+E
+page1~
+
+To read these pages type:  {bo,W}look #{bo}     For example:  {W}look 01{bo}
+   
+  01 {C}Getting Started{bo}
+  02 {C}Directions{bo}
+  03 {C}Exits and Auto Features{bo}
+  04 {C}Cursor Prompts{bo}
+  05 {C}Communicating{bo}
+  06 {C}Social Skills{bo}
+  07 {C}Maps{bo}
+  08 {C}Score Attribute Inventory{bo}
+  09 {C}Stats{bo}
+  10 {C}Skills{bo}
+   
+~
+E
+07~
+
+07 Maps
+
+  There are maps for both upper and lower Midgaard. They will familiarize
+you with the areas of town. The maps are objects which you carry. To read 
+them type: EXA MAP. There is an area map of NC. This map can be viewed at
+anytime by typing: HELP AREA. Be sure to check out: HELP DIRS.
+
+~
+E
+08~
+
+08 Score, Attributes and Inventory
+
+  SCORE (or sc) will tell you various things about your character. 
+You can also type: REPORT to see your current hitpoints, mana, and movement.
+Type: LEVEL and you will see how much experience points you need to reach
+each level.
+
+Attribute (or att) will show you some other information about your character
+such as your Armor Class, etc.
+
+To see a list of what you are carrying type: Inventory (or inv). To see what
+equipment you are currently wearing type: Equipment (or eq).
+
+~
+E
+page2~
+{w}
+     To read these pages type: look #     For example:  look 11
+{w}   
+  11  Fleeing
+  12  Wimpy
+  13  Dying
+  14  Death Traps
+  15  Examine corpse
+  16  Spells
+  17  Leveling
+  17a Advanced classes
+  18  Equipment
+  18a Minlevel Equipment (new 7/24/97)
+  19  Repairing Equipment
+  20  Invisibility
+{w}
+~
+E
+11~
+11 Fleeing
+{w} 
+  When you are in combat and you want to stop fighting, you can type:
+FLEE to run away from your enemy.  Fleeing may not always work so
+remember to type flee early (before you loose all your hit points).
+You will lose some experience when you flee but it will be less than if 
+you die.
+{w} 
+  In case you are not able to flee, you may (if you are fast enough) try
+to use a Scroll of Recall (which you can purchase at the magic shop).  You
+do not have to hold the Scroll of Recall in order to use it.  You do need to 
+have it in your inventory (not in a container or bag). Some mobs will be able 
+to destroy your scroll in battle so be careful. type: RECITE RECALL
+  Also, when (and if you choose to) join a club, you may use your insignia
+as long as you are not already engaged in a fight.
+{w}
+~
+E
+12~
+                         12 Wimpy
+ 
+  A good idea is to set your Wimpy.  Wimpy will automatically make you
+flee in battle when you reach a certain hit point.  For example, if you
+have 20 hit points total and you want to flee from you opponent when you
+reach 10 hit points you would type :  WIMPY 10.  Remember that when you
+flee from an opponent after you are engaged in a battle, you will loose 
+some experience points.
+~
+E
+13~
+                        13  DYING!!!
+    
+  On your many adventures to come, you will SURELY die while doing battle.
+Don't worry, death is part of life. When you die you re-enter the game.
+Once you do, the first thing you must do is GO GET YOUR STUFF BACK!!! Most
+likely you will not be able to do it without the help of a high level player.
+So ASK someone to HELP you. When you die you lose 1 point of con, if your
+con gets to 0 you will go back to level 1. So after every death make sure you train
+your con back up.
+   
+This is important because YOUR Equipment is YOUR LIFE!!!! DONT LOSE IT.   
+~
+E
+14~
+                        14 DEATH TRAPS
+ 
+  In your many explorations you will probably run into a DEATH TRAP.
+When you hit a DT you will DIE and LOOSE ALL YOUR EQ.  There will be NO
+reimbursements for lost eq in a DT. Most of the DT's will kill you
+instantly, but some will allow you to fly over them thus avoiding death. 
+You must be wearing eq which allows you to fly or have a fly spell cast on 
+you. One way you can detect DT's is by using a thief's PEEK ability.  Simply 
+peek to the direction you wish to go. Peek more than once in case you fail!!
+THIS IS A GOOD REASON TO GROUP.  Remember when you are in a new area, peek 
+first before entering into a room.  
+{w}
+  You CAN get your equipment though, now!  There is a zone called the 
+TIMEQUEST.  For more details, type help timequest.
+{w}
+~
+E
+15~
+                         15  EXAMINE CORPSES
+ 
+  After you kill a mob, you will want to look to see what the mob is
+carrying. To do this, type: EXAMINE CORPSE (exa corpse).  This will show
+you all eq the corpse has. To take something from the corpse you type:
+GET (item) CORPSE.  You can also type: GET ALL CORPSE to take everyting.
+If you want to drop something you took, type: DROP (item name). If there is
+more then one corpse in the room type: Examine (corpse number).
+This is the same concept as getting things from multiple bags in your inv.
+~
+E
+16~
+                     16 SPELLS
+ 
+  Mage and Cleric's will have the ability to cast spells. Casting spells
+will cost you mana (the amount of mana depends on the spell).  To find out 
+what spells you have type: PRACTICE or (pra).  To see a list of the spells 
+available type: SPELLS.  To get a description on a certain spell, type: Help 
+(spell name). You must go to your guild to train your spells. To use your 
+spells type: Cast '(spell name)' (mob's name) or cast '(spell name)' mob
+to cast the spell on the first mob (creature) in the room.  Be careful when 
+you use this because you can accidently cast a spell on a mob that will 
+Destroy you. Also, if a mob happens to wander into the room and you press 
+return, you will cast the spell on that mob.
+ 
+  Example :  Cast 'chill touch' doggie  (always include ' when casting)
+             Cast 'cure light' (self)
+~
+E
+05~
+05 Communicating
+  There are several ways to communicate with others. The simplest
+way is to type: say <your message> or you can use (') on place of
+the word say. 
+  SAY - speaks to everyone in the same room you are in
+  TELL - only the person you send the tell to sees this (example: tell forge hi)
+  SHOUT - everyone on the mud hears this, only use in emergencies
+  GOSSIP(gos) - general communication mud wide(want to talk to everyone? use gos)
+  type: help channels    for additional channels and their uses.
+
+~
+E
+09~
+                    09  Stats
+ 
+  Stats are very important here.  Stats are your Dex, Wis, Int, Con, and Str.
+You want keep these stats as high as possible.  Check your stats by typing att
+or use a scroll of improved identify. Lower levels must use the scroll.  As your
+levels increase, stats will begin to appear on your attribute command. You can 
+increase your stats at the same place you level. There is equipment which you can
+get that increase certain stats when you use it. Use scrolls on equipment to find
+out stats.
+~
+E
+10~
+                             10 Skills
+    
+  Type: Help Skills.  This lists all the skills available to Warriors and
+Thieves and at what level you will be able to learn that skill. Once you
+learn a skill you use it by typing: (Skill name) (Mob name). For example,
+a thief would type: BACKSTAB Doggie.  Skills are learned at your class
+guild. Refer to the upper map of Midgaard for the location of your guild.
+Keep your Intelligence high when you practice your skills to cut down on
+the number of practices needed to learn a new skill.  You will need practice
+sessions to practice your skills and these are earned when you level.
+~
+E
+commands~
+
+At this point, you may want to turn on your basic auto
+commands.
+  {bo,W} auto all   {bo}- {C}gets gold and equipment from mobs you kill.
+   {W}auto split {bo}- {C}splits gold with the players in your group.
+   {W}auto gold  {bo}- {C}gets any gold from the mobs you kill.{bo}
+{BO}NC{bo} can be greater appreciated in colour.  Unfortunately not all
+telnet programs support {BO}ANSI{bo} colours, so try and see if colour
+will work for you.
+   {bo,W}colour active {bo}- {C}activates colour
+   {W}colour off    {bo}- {C}deactivates colour
+   {W}colour def #  {bo}- {C}sets a default colour scheme{bo}  ({BO,Y}# is 1-5{bo})
+There is also an extensive list of prompts to choose from
+to personalize your character.  Currently, there are up to
+{BO}28{bo} prompts to choose from, or, make your own!
+   {W}prompt #      {bo}- {C}sets current prompt{bo} ({BO,Y}# is 1-28{bo})
+ 
+~
+E
+manual handbook book~
+
+Here in your hand you see a beautifully crafted book with decorative leather
+protecting its outer surface.  A tarnished brass plate reads "LOOK INTRODUCTION"
+and as you touch it, you can feel the source of knowledge pulsate in your 
+hands. 
+{bo} 
+{bo}    Type: LOOK INTRODUCTION 
+~
+E
+manual handbook book~
+   
+Here in your hand you see a beautifully crafted book with decorative leather
+protecting its outer surface.  A tarnished brass plate reads "{bo,W}LOOK INTRODUCTION{bo}"
+and as you touch it, you can feel the source of knowledge pulsate in your 
+hands. 
+  
+    Type: {W}LOOK INTRODUCTION{bo} 
+~
+A
+3 3
+A
+4 3
+#31001
+ambrosia vial~
+ambrosia~
+A vial of ambrosia lies here.~
+~
+10 0 64 1
+51 28 28 28
+1 1 1
+#31002
+fountain dragonfountain water~
+{WHITE,BOLD}A large dragonfountain{white,bold}~
+A large white {BO}{R}Dragon{Y}fountain{y} is mounted in the center of the place.~
+~
+17 0 64 0
+-1 10000 0 0
+1 1 1
+E
+fountain dragonfountain water~
+The large fountain is the centerpiece of the courtyard. A long dragon's neck
+rises from the center of the fountain. A crystal spring of water streams out
+from the mouth of the dragon. Two large red emeralds make up the dragon's eyes. 
+~
+#31003
+band kruik gold~
+{BO}{Y}A small band of gold{y}~
+Kruik's golden band lies in the dust here.~
+~
+9 0 64 3
+0 0 0 0
+1 1 1
+E
+ring golden kruik~
+
+   As you look at the ring it begins to glow brightly.  A faint hum
+   begins to fill the room.  Suddenly, the face of Kruiks decapitated
+   head surfaces at the signet.  You quickly look away, fearing what
+   was about to happen.
+
+~
+C
+7000 2
+#31004
+suit armor gladiator~
+{BLUE,BOLD}A suit of gladiator armor{blue,bold}~
+A heavy suit of armor lays here.~
+~
+9 0 64 9
+0 0 0 0
+1 1 1
+E
+suit armor gladiator~
+
+It is a full body outfit of the traditional gladiator armors. 
+~
+C
+7000 1
+#31005
+necklace longevity elven~
+{BO}{C}Elven{c} {C}Longevity{c} {BO}{C}Necklace{c}~
+{BO}{C}A small elvish necklace lies here with broken beads and small markings.{c}~
+~
+9 0 64 5
+8 0 0 0
+1 1 1
+E
+necklace longevity elven~
+~
+A
+19 2
+A
+13 15
+C
+7000 2
+#31006
+Armor full plate~
+{BO}{R}Full{W}-{BO}{B}Plate{bo}{W} Armor{w}~
+A thick piece of full plate armor lies in a heap here.~
+~
+9 321 64 9
+10 0 0 0
+5 1 1000
+E
+Armor full plate~
+
+   This thick, heavy robe is wrought of the finest elf hair
+   and chemise in these lands.  Rumor has it that a great
+   elf named Liru wore this to his party and lost it during
+   his pixie limbo.
+
+~
+A
+19 1
+A
+18 2
+C
+7000 1
+#31007
+giant power bracelet~
+{BOL}{C}A{c} {BO}{G}Giant's{g} {BO}{C}Power{c} {R}Bracelet{r}~
+forged by giants, a bracelet of immense power rests here.~
+~
+9 0 64 4097
+8 0 0 0
+1 1 1
+E
+bracelet giant power~
+~
+A
+18 3
+A
+5 2
+C
+7000 1
+#31008
+outfit rugged slive~
+{Y}A rugged looking outfit{y}~
+A pile of cloth rest here.~
+~
+13 0 64 1025
+0 0 0 0
+1 1 1
+E
+outfit rugged slive~
+
+The brown dusty robe stretches to the floor. It is very rugged, but light. The
+inside of the robe has many pockets for hiding objects. 
+~
+#31009
+helmet aucan magnetic~
+{BO}{G}The Aucan Magnetic Helmet{g}~
+A helmet has been dropped here.~
+~
+9 66 64 17
+7 0 0 0
+4 23556 2333
+E
+helmet aucan magnetic~
+
+   This large iron helmet seems to have a magnetic quality
+   to it.  You think that because all these cute women keep
+   looking at you when you put it on.  At least you hope it
+   is magnetic anyway.
+
+~
+A
+18 2
+A
+13 20
+B
+2097152
+C
+7000 1
+#31010
+sandals tattered~
+{W}a{w} {G}pair{g} {W}of{w} {Y}Tat{y}{W}te{w}{Y}red{y} {W}San{w}{Y}da{y}{W}ls{w}~
+{C}A tattered pair of sandals lies here{c}.~
+~
+9 258 0 65
+7 0 0 0
+2 1 1
+E
+sandals tattered~
+~
+A
+19 2
+A
+19 2
+C
+7000 2
+#31011
+garment scarlet robe gandal~
+{MAG,BOLD}A long scarlet robe{mag,bold}~
+{MAG,BOLD}A large pile of scarlet garment{mag,bold}~
+~
+13 0 64 1025
+0 0 0 0
+1 1 1
+#31012
+sandals open-toed gandal~
+{Y,BOLD}pair of open-toed sandals{y,bold}~
+A small pair of old sandals lays here.~
+~
+13 0 64 65
+0 0 0 0
+1 1 1
+#31013
+medallion golden gandal~
+{Y,BOLD}A golden medallion{y,bold}~
+A golden object glimmers on the ground.~
+~
+13 0 64 5
+0 0 0 0
+1 1 1
+#31014
+shield might~
+{BO}{Y}An ancient {R}shield{Y} of fury{y}~
+A metal shield lies face down here.~
+~
+9 0 64 513
+7 0 0 0
+3 1 1
+E
+shield might~
+
+The large shield is made of some type of metallic substance, a silverish tone to it.
+A red lion is painted upon the front of the shield. The lion holds in his hand
+a flag of the distant castle in the west, Garamond. 
+~
+A
+19 2
+A
+18 2
+B
+8192
+C
+7000 1
+#31015
+sign~
+{R}A REALLY {Y}big {BLU}sign{blu}~
+{W}A Large {BO}{Y}{BLI}SIGN{bli}{bo}{W} stands {R}tall{W} on the {M}mountain{W}.{BO}{Y}{BLI} (LOOK AT THIS!){bli}{y}~
+~
+12 1 64 0
+0 0 0 0
+1 1 1
+E
+sign~
+{BO,Y,BLI}***{bo,G}BASIC COMMANDS{BO,Y,BLI}***{bo}
+
+{R,BO}To say something, type say or '{bo}
+
+{C,BO}To address everyone here, type gossip or gos{bo}
+
+To move, type the first letter of the direction you
+wish to go in.
+
+e.g. n=north       w=west
+     s=south       u=up
+     e=east        d=down
+
+To kill something, simply type kill <mob>, but be sure
+to type con <mob> before attempting the kill.  Con
+is short for consider which basically gives you a
+good idea of your chances of surviving the fight.
+
+{BO,R}Type: {BLU}look welcome{bo}
+
+~
+E
+sign~
+{BO}{Y}{BLI}***{bli}BASIC COMMANDS{BO}{Y}{BLI}***{bli}
+{y}
+{BO}{R}To say something, type say or '
+{r}
+{BO}{C}To address everyone here, type gossip or gos
+{c}
+To move, type the first letter of the direction you
+wish to go in.
+{w}
+e.g. n=north       w=west
+     s=south       u=up
+     e=east        d=down
+{w}
+To kill something, simply type kill <mob>, but be sure
+to type con <mob> before attempting the kill.  Con 
+is short for consider which basically gives you a 
+good idea as to your chances of surviving the fight.
+{w}
+{BO}{R}Type:{BO}{BLU} look newbie{blu}
+~
+E
+welcome~
+   
+{BO,Y}One more thing!{bo}
+   
+If you have any problems, feel free to ask for help over
+the gossip channel, or type help to view an extensive
+listing over just about anything you can think of.
+   
+Be SURE to pick up a {BO,R}handbook{bo} which you will find in the room 
+to the north. Not only is it a pretty good piece of equipment, 
+but its knowledge will help you through the rest of your 
+adventure.
+   
+Even if you are an experienced MUD player, the administration
+suggests you to go through this zone just to learn a few of 
+the special things that go on here in the Northern Crossroads.
+This mud is very adventurous and fun.  May your visit here be
+interesting...
+   
+~
+E
+sign~
+{BO}{Y}{BLI}***{bli}BASIC COMMANDS{BO}{Y}{BLI}***{bli}
+{BO}{R}
+To say something, type say or '
+{C}
+To address everyone here, type gossip or gos
+{c}
+To move, type the first letter of the direction you
+wish to go in.
+{w}
+e.g. n=north       w=west
+     s=south       u=up
+     e=east        d=down
+{w}
+To kill something, simply type kill <mob>, but be sure
+to type con <mob> before attempting the kill.  Con 
+is short for consider which basically gives you a 
+good idea as to your chances of surviving the fight.
+{w}
+{BO}{R}Type: {BO}{BLU}look welcome{blu}
+
+~
+#31016
+dress bloody~
+{BO}{B}A {bo}{R}blood{BO}{B}-stained {W}dr{R}es{W}s{w}~
+{BO}{B}A {bo}{R}blood{BO}{B}-stained {W}dr{R}es{W}s{B} of the {BO}{R}P{bo}{R}r{BO}{R}o{bo}{R}t{BO}{R}e{bo}{R}s{BO}{R}s{B} lies in a crumpled {BLU}heap{B} here.{b}~
+~
+9 1 64 1025
+10 0 0 0
+2 2000 2000
+E
+dress bloody~
+
+   This blood stained dress of the Protess was taken
+   from a young girl who got lost in her own image 
+   of reality. She plunged herself into a world 
+   ruled only by her wills and desires with nothing
+   to control her wild passions which plagued her
+   existence.
+
+~
+A
+19 2
+A
+13 20
+B
+262344
+C
+7000 1
+#31017
+blade steel sword~
+{W}A{w} {BO}{BL}Blade{bl} {W}of{w} {R}Tempered{r} {BO}{W}Steel{w}~
+A blade tempered from the finest steel is stuck into the ground.~
+~
+5 1 96 24577
+1 3 4 3
+1 23465 1000
+E
+blade steel sword tempered~
+~
+A
+18 1
+A
+19 1
+C
+7000 1
+#31018
+light fluorescent~
+{C}A {BO}{C}Fluorescent {bo}{C}L{BO}{C}i{bo}{C}g{BO}{C}h{bo}{C}t{c}~
+{bo,C}A Flourescant {W,BO}Light{bo,C} lies on the floor here, {BO,Y}brightening{bo,C} the room.{bo}~
+~
+1 65 64 1
+0 0 -1 4
+1 1 1
+E
+light fluorescent~
+
+   These things last forever!  They are power efficient,
+   blue, and seem almost mystical as they light up the 
+   place.
+
+~
+A
+19 2
+A
+12 25
+B
+262144
+#31019
+maship ring silver~
+{BO}{B}The{b} {W}({c}{UN}{BO}{W}Silver{w}{BO}{B}_{b}{BO}{B}{UN}Banded{b}{BO}{B}_{b}{UN}{BO}{W}Rings{w}{W}){w} of {BO}{B}Maship{b}~
+Maship's circle of silver gleams from the floor here.~
+~
+9 66 0 3
+8 8 8 8
+1 1 1
+E
+maship ring silver~
+
+   A great warrior once wore this ring as a symbol of his valor
+   in combat.  His wife gave this to him at their engagement 
+   party and it hasn't come off of his finger since.  May you
+   wear it with pride.
+
+~
+A
+19 1
+A
+18 2
+C
+7000 2
+#31020
+robe thick liru~
+{BO}{Y}Liru's{bo}{Y} thick robe{y}~
+A useless garment is here taking up space.~
+~
+9 1 64 1025
+0 0 0 0
+1 1 1
+B
+262312
+C
+7000 1
+#31021
+armor half plate~
+{BO}{W}H{bo}{G}a{BO}{W}l{bo}{G}f{BO}{W}-{BLU}Plate{bo}{W} Armor{w}~
+A suit of half-plate armor lies on the ground here.~
+~
+9 66 64 9
+7 0 0 0
+1 1 1
+E
+armor half plate~
+
+   Decorated with images of dragons and mystical beasts, this
+   dexterious armor is effective protection against any 
+   attacker.  It is highly polished and catches the sunlight 
+   just right.  Well enough to blind you! 
+
+~
+A
+19 2
+A
+18 1
+C
+7000 2
+#31022
+helmet dragon~
+{G}A {BO}{G}Dragon{bo}{G} Helmet{g}~
+A small helmet with an image of a dragon lies in the dust here.~
+~
+9 0 64 16401
+5 0 0 0
+1 1 1
+E
+helmet dragon~
+
+   This small helmet was fitted for someone just your size!
+   You admire the small bits of latticework and etching
+   as you put it on your head.
+
+~
+A
+18 2
+A
+19 1
+B
+8
+C
+7000 1
+#31023
+duffel bag~
+{Y}A {G}Duffel{Y} Bag{y}~
+A large duffel bag lies in the dust.~
+~
+15 2147483713 64 16385
+200 1 0 0
+1 1000 1000
+E
+duffel bag~
+
+   This sturdy duffel bag was used by the troops during the
+   dragonlord possession.  It still looks to be in remarkably
+   good condition and seems to be big enough to hold all of
+   your possessions.  Even dragonlords. 
+
+~
+#31024
+canteen steel~
+{BO}{C}A {bo}{W}Steel{BO}{B} Canteen{b}~
+A steel canteen rests on a rock here.~
+~
+17 1 64 16385
+100 100 11 0
+3 4000 950
+E
+canteen steel~
+
+   This steel-brazen canteen was once full of tea that
+   ancient warriors used to quaff in the heat of battle
+   to drive away fatigue.  Hopefully, you can use it in
+   the same way.
+
+~
+#31025
+sword blade gryan steel~
+{BO}{W}A{bo}{W} Steel {BO}{R}{REV}S{rev}{R}word{r}~
+Gryan's long steel blade hums softly on the ground.~
+~
+5 66 64 24577
+1 6 5 3
+1 1 1
+E
+sword blade gryan steel~
+
+   This strong steel blade was forged from the finest
+   steel in the lands to defend countrymen from certain
+   death by evil invaders.  It is filled with a strong
+   spirit making it hum in your hand.
+
+~
+A
+18 2
+A
+19 2
+C
+7000 2
+#31026
+cake~
+{W,BO}A {M}large piece {W}of {M}cake{m,bo}~
+A delicious piece of cake has been left here.~
+~
+19 0 0 32769
+10 0 0 0
+1 15 15
+#31027
+pie dutch apple~
+{W}Dutch {Y}Apple {BO}{R}P{Y}i{R}e{r}~
+A yummy dutch apple pie cools in the breeze.~
+~
+19 0 0 1
+2 0 0 0
+1 1 1
+E
+pie dutch apple~
+
+Food!!!   Yummy!!!
+
+~
+#31028
+pie coconut tropical~
+{BO}{R}T{Y}r{M}o{R}p{Y}i{M}c{R}a{Y}l{B} Coconut {bo}{W}Shaved {BO}{R}P{Y}i{R}e{r}~
+A tropical coconut shaved pie cools here.~
+~
+19 0 0 1
+2 0 0 0
+0 1 1
+E
+pie coconut tropical~
+
+Food!!!  Yummy!!!
+
+~
+#31029
+GPS tracker map~
+{BO}{Y}A {BO}{G}G{bo}{Y}P{bo}{G}S {G}Tracker{g}..(beep)~
+A Global Positioning System Tracker makes a faint beeping noise..(beep)~
+~
+16 2 0 16385
+0 0 0 0
+1 500 550
+E
+concourse~
+[To Bridge]                                                [To Bridge]
+     |                                                            |
+ Concourse-----Promenade--------Promenade----------Promenade---Concourse
+  |               |                 |                  |             |
+  |               |                 +--Park Cafe       |             |  
+  |               |                 |                  |            East
+  |        Map---Park--Patisserie   |    Alchemist--Emerald--Penny--Gate
+  |       Store  Road               |                 Ave.    Lane   |
+ Clock            |            +---Park---+            |             |
+ Tower            |            |          |            |             |
+  |               |            |          |            |             |
+  | Cityguard----Park---Park---+---Pond---+---Park---Emerald--Town   |
+  | Headquarters Road   Entrance          Entrance    Ave.    Hall   |
+~
+E
+GPS tracker map~
+
+   This small device is a godsend for its plethora of map
+   information and directions.  You push a button on its
+   reciever and it starts to beep.  It seems to be constantly
+   updating your position as you walk and helps the gods 
+   keep an eye on you as well.  You start to wonder if that
+   is a GOOD thing.
+
+   Type: look midgaard, look school, and look concourse to
+   see a current listing of the most recent maps.
+
+~
+E
+GPS tracker map~
+
+   This small device is a godsend for its plethora of map
+   information and directions.  You push a button on its
+   reciever and it starts to beep.  It seems to be constantly
+   updating your position as you walk and helps the gods 
+   keep an eye on you as well.  You start to wonder if that
+   is a GOOD thing.
+
+~
+A
+5 5
+A
+4 5
+#31030
+shield bronze~
+{BO,W}A {BOLD,YELLOW}bronze{bo,y} {BO,W}shield{bo,w}~
+{Y}A bronze shield is lying on the ground.{y}~
+~
+9 66 64 513
+5 0 0 0
+2 300 1
+E
+shield bronze~
+  A simple-looking item. It is dark blue in color, and has a hood for covering
+  the head. It should protect you well from the sun, and creatures of the forest.
+
+~
+E
+shield bronze~
+  A simple-looking item. A small round shield made from bronze. 
+  It should protect you well from the creatures of the forest.
+
+~
+A
+19 1
+A
+14 25
+B
+144
+C
+7000 2
+#31031
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#31032
+hole tree knot~
+{BO,G}the hole in the tree{bo,g}~
+{BO,G}A huge tree with a hole in the base{bo,g}~
+~
+27 0 0 0
+13704 0 0 0
+10000 1 1
+E
+hole tree knot~
+
+
+  A old tree that is so tall you cannot see the top.
+  The branches are a tangled mess and roots are 
+  sticking out of the ground 20 feet away. You can 
+  tell this is a very old tree. There is a hole in
+  the base of the tree just big enough for you to
+  fit.
+  
+
+  Type Enter Tree to get to the Great Tree to Level. 
+
+~
+#31033
+tv looney tunes cartoon~
+{BO,R}A Giant Television{bo,r}~
+{BO,R}A television playing looney Tunes cartoons~
+~
+27 0 0 0
+14237 0 0 0
+1 1 1
+E
+tv looney tunes cartoon~
+
+  A large television playing Looney Tunes. You
+  stare at the TV mesmerized realizing how much
+  you love this cartoon. As you watch you have a
+  hard time looking away until you see a glimmer
+  in the TV. A hand reaches out and almost pulls
+  you in. 
+
+
+  Type enter tv to discover Looney Tunes.
+
+~
+#31034
+puddle smurf silver~
+{CYAN}a puddle{cyan}~
+{CYAN}A puddle with {BLUE}blue figures{blue} dancing around singing~
+~
+27 0 0 0
+1771 0 0 0
+1 1 1
+E
+puddle smurf silver~
+
+  On the ground is a small silverly puddle, 
+  as you stare in the puddle you see a blue 
+  figures running around and singing. You
+  would very much like to visit this land.
+
+
+  Type enter puddle to discover smurfs.
+
+~
+#31035
+mirror pride pridelands lion~
+{MAG}A giant mirror{mag}~
+{MAG}{BOLD}A giant mirror{mag}{bold} that shows an {Y}{BOLD}African Lion{y}{bold} roaming around the {Y}{BOLD}Pridelands{y}{bold}.~
+~
+27 0 0 0
+33800 0 0 0
+1 1 1
+E
+mirror pride pridelands lion~
+
+  You see a large mirror siting in the corner
+  of the room. As you gaze into it you see your
+  reflection and them a shimmer that turns into 
+  a vast african plains with lions roaming around.
+
+
+  Type enter mirror to discover the pridelands.
+
+~
+$~

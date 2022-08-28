@@ -1,0 +1,952 @@
+#45800
+minion green~
+{G}A minion{b}~
+{G,BO}A minion runs along his respective lane, searching for the enemy.{b}
+~
+
+{G}  This small little guy wields a tiny axe and almost no body
+{G}  armor. He looks quite pitiful and weak, but with a group of
+{G}  his buddies, they're likely no frail enemy.{b}
+
+~
+96 2097920 500 S
+25 -40 0 31d32+1500 7d8+50
+50000 750000
+8 8 0
+S 831
+R 76
+D 12
+A 12
+#45801
+tower green~
+{G,BO}A Green Tower{b}~
+{G}A large green tower remains here, defending its territory.{b}
+~
+
+{G}  One of the Green Team's towers stands here, valiantly
+{G}  defending this spot of land, even willing to risk its
+{G}  own life.{b}
+
+~
+411041890 262824 0 C 71
+52 -72 -7 31d30+9000 12d13+273
+1000000 7240018
+8 8 0
+S 2629
+R 12
+D 8
+A 12
+#45802
+garen champion~
+{BLA,BO}Garen, {b}{M}the {BLA,BO}Might {b}{M}of {BLA,BO}Demacia{b}~
+{BLA,BO}Wielding a massive sword, {b}{M}the Might of Demacia {BLA,BO}twirls it ferociously.{b}
+~
+
+{BLA,BO}  Garen's "zero tolerance" moral code is strictly upheld by 
+{BLA,BO}  his kind and other Demancians alike. In combat, this means 
+{BLA,BO}  Demacian troops may not make excuses, flee, or surrender by 
+{BLA,BO}  example. Garen, the valiant warrior who bears the title 
+{BLA,BO}  "the {b}{M}Might of Demacia{BLA,BO}", is the paradigm to which these leaders 
+{BLA,BO}  are compared.{b}
+
+~
+159432802 2359976 500 C 15
+51 -43 -4 0d0+11399 10d11+500
+2500000 50000000
+8 8 0
+S 3023
+R 12
+D 4
+A 12
+#45803
+malphite champion~
+{G,BO}M{b}{R}a{G,BO}lph{b}{R}i{G,BO}t{b}{R}e{b}~
+{Y}The {R,BO}Shard of the Monolith{b} {Y}has been delivered from the cosmos.{b}
+~
+
+{Y}  There is a world of perfect harmony, where all are part 
+{R,BO}  of the whole. The Monolith is the essence of all creation, 
+{b}{Y}  and its denizens are but singular pieces of it. It is 
+{Y}  beautiful in its symmetry, and in its almost complete lack 
+{R,BO}  of uncertainty. The rocky beings that live there know their 
+{b}{Y}  place and work to fulfill their duties to the fullest extent, 
+{Y}  functioning almost as a superorganism or hive. Malphite has 
+{R,BO}  always strived to live up to his full potential, as his own 
+{b}{Y}  personal part of the whole, serving the role of a distinguished 
+{Y}  creature questing to enforce his people's flawless vision of order.{b}
+
+~
+293650530 67371688 0 C 41
+51 -70 -7 0d0+14130 9d9+505
+10000000 18000000
+8 8 1
+S 16879311
+R 12
+D 4
+A 12
+#45804
+minion red~
+{R}A minion{r}~
+{R}A minion runs along his respective lane, destroying anything in its path.{b}
+~
+
+{R}  This small little guy wields a tiny axe and almost no body
+{R}  armor. He looks fairly stronger than the opposite green minion,
+{R}  but still several of his other buddies could make quick
+{R}  extermination of an unprepared foe.{b}
+
+~
+159907936 262952 500 S
+51 -55 -5 22d22+2000 7d7+200
+100000 1000000
+8 8 0
+S 847
+R 76
+D 8
+A 8
+#45805
+tower red~
+{R,BO}A Red Tower{b}~
+{R}A large red tower glares furiously, sigil stone beginning to charge.{b}
+~
+
+{R}  One of the Red Team's towers defends the path to its base.
+{R}  He glares at you angrily as the purple stone attached to a
+{R}  his stone staff begins to breathe with energy.{b}
+
+~
+276861794 262824 -500 S
+51 -40 -5 0d0+10000 15d16+350
+1000000 7000000
+8 8 1
+S 2639
+R 12
+D 8
+A 12
+#45806
+rammus champion~
+{Y,BO}Rammus,{b} {G}the {Y,BO}Arm{b}{G}o{Y,BO}rd{b}{G}i{Y,BO}ll{b}{G}o{b}~
+{G}The Armordillo glares at you from within his spiked shell.{b}
+~
+
+{Y}  The hardships of this sojourn inspired him to craft the suit 
+{G}  of armor that would earn him the title of Armordillo. Rammus's 
+{Y}  quest eventually drew him to the only place where a sentient 
+{G}  armadillo is less than confounding - the Northern Crossroads.{b}
+
+~
+562085986 271020 0 S
+51 -105 -12 0d0+20340 8d9+300
+10000000 500000000
+8 8 1
+S 33558223
+R 284
+D 4
+A 12
+#45807
+leona champion~
+{Y,BO}L{b}{R}eo{Y,BO}n{b}{R}a, {Y,BO}the {b}{R}Radiant {Y,BO}Dawn{b}~
+{Y,BO}The {b}{R}Radiant {Y,BO}Dawn {b}{R}calls the raw {Y,BO}might of the sun {b}{R}down upon you{Y,BO}!{b}
+~
+
+{Y,BO}  Leona seems capable, if not more so than any other, in the
+{Y,BO}  art of war. She always bested her childhood friends, yet never
+{b}{R}  did share the others' zeal for killing. To her, the true worth
+{Y,BO}  of a soldier lays in their ability to defend and protect, not
+{Y,BO}  harm and destroy.{b}
+
+~
+566280546 262824 500 C 4
+51 -80 -8 0d0+16780 3d4+250
+10000 1000
+8 8 0
+R 12
+D 4
+A 12
+#45808
+volibear champion~
+{CY,BO}V{WH}o{C}l{WH}i{C}b{WH}ea{C}r{b}, {C}the {C,BO}Thunder's {WH}Roar{b}~
+{CY,BO}Volibear defends this path, showing the {WH}spirit {C}of a true {WH}warrior.{b}
+~
+
+{CY,BO}  Seeking wisdom, Volibear undertook a perilous climb to the 
+{CY,BO}  peak of the Ursine's sacred mountain, a place forever shrouded 
+{WH,BO}  in a thundering maelstrom. The eye of the storm was said to 
+{WH,BO}  bestow portents, and legend held that the tempest would mark 
+{CY,BO}  the next great chieftain of the tribe. As Volibear ascended 
+{CY,BO}  the peak, he was struck by an unnatural bolt of lightning.{b}
+
+~
+1098957410 262824 500 C 64
+51 -110 -10 0d0+30000 13d13+325
+10000000 100000000
+8 8 1
+S 3023
+R 8388620
+D 2
+A 12
+#45809
+ryze champion~
+{BLU}Ryze, the {M}Rogue {BLU}Mage{b}~
+{BLU,BO}Ryze flings spells every which way, snaring minions left and right.{b}
+~
+
+{BLU}  The halls of traditional study were never for Ryze, who felt 
+{M}  a more raw and primal connection to the magic than to those
+{BLU}  who tried to teach him, struck out on his own as a young man 
+{M}  to discover what already called to him. Ryze traveled the world, 
+{BLU}  seeking the wisdom of powerful hermits, witches, and shamans - 
+{M}  anyone who had something to share beyond what was taught in studies.
+{BLU}  When he had learned all he could from these fonts of wisdom, Ryze 
+{M}  turned to seek the lost, forgotten, and forbidden knowledge in the 
+{BLU}  world, delving into mystical worlds where others feared to tread.{b}
+
+~
+276878178 2359976 0 C 1
+51 -42 -6 0d0+25580 17d17+300
+2500000 10000000
+8 8 1
+S 133071
+R 12
+D 4
+A 12
+#45810
+veigar champion~
+{M}Veigar, the {M,BO}Tiny Master{b} {M}of {M,BO}Evil{b}~
+{M}The Tiny Master of Evil roams about complaining about his height.{b}
+~
+
+{M}  To most, thoughts of Veigar do not conjure images to be 
+{M}  feared. The easygoing half-pint race, though fierce, is 
+{M}  often regarded with some degree of joviality. His 
+{M}  high-pitched voices and naturally cute forms inspire 
+{M}  something of a protective instinct in the larger races, or 
+{M}  at least bring to mind images of children playing at being 
+{M}  adults.{b}
+
+~
+285234018 262824 -1000 C 15
+51 -65 -6 50d50+20000 19d19+300
+5000000 70000000
+8 8 1
+S 4047
+R 12
+D 4
+A 12
+#45811
+lux champion~
+{WH,BO}Lux, {WH,BO}the {Y}Lady {WH}of {Y}Luminosity{b}~
+{Y,BO}The Lady of Luminosity twirls about with nearly unmatched charm, waving her hair lustrously.{b}
+~
+
+{Y,BO}  Born to the prestigious Crownguards, the paragon family of 
+{Y,BO}  Demacian service, Luxanna was destined for greatness. She 
+{Y,BO}  grew up as the familys only daughter, and she immediately 
+{Y,BO}  took to the advanced education and lavish parties required 
+{Y,BO}  of families as high profile as the Crownguards. As Lux matured, 
+{Y,BO}  it became clear that she was extraordinarily gifted. She could 
+{Y,BO}  play tricks that made people believe they had seen things that 
+{Y,BO}  did not actually exist. She could also hide in plain sight. 
+{Y,BO}  Somehow, she was able to reverse engineer arcane magical spells 
+{Y,BO}  after seeing them cast only once. She was hailed as a prodigy, 
+{Y,BO}  drawing the affections of the Demacian government, military, 
+{Y,BO}  and citizens alike.{b}
+
+~
+293655394 17040040 51 S
+51 -100 -4 50d50+22500 23d23+300
+1000000 700000000
+8 8 0
+S 463
+R 12
+D 4
+A 12
+#45812
+annie champion~
+{M,BO}Annie, the Dark Child{b}~
+{M,BO}Annie stands here, looking innocent while holding her small teddy bear.{b}
+~
+
+{M,BO}  Early on, Annie's parents knew there was something special 
+{M,BO}  about their daughter. At the age of two, Annie miraculously 
+{b}{G}  ensorcelled a shadow bear - a ferocious denizen of the 
+{R}  petrified forests outside the colony - turning it into her 
+{M,BO}  pet. To this day she keeps her bear Tibbers by her side, 
+{M,BO}  often keeping him spellbound as a stuffed doll to be carried 
+{M,BO}  like a child's toy.{b}
+
+~
+562090850 262824 0 C 15
+51 -70 -7 25d25+22500 15d20+350
+7500000 70000000
+8 8 2
+S 3791
+R 12
+D 4
+A 12
+#45813
+lissandra champion~
+{C}Lissandra, the {CY,BO}Ice Witch{b}~
+{C,BO}Lissandra {b}{C}sits here twirling a shard of ice between her fingers.{b}
+~
+
+{C}  Lissandra's magic twists the pure power of ice into something 
+{C}  dark and terrible. With the force of her black ice, she does 
+{C}  more than freeze - she impales and crushes those who oppose 
+{C}  her. To the terrified denizens of the north, she is known only 
+{C}  as "The Ice Witch". The truth is much more sinister: Lissandra 
+{C}  is a corrupter of nature who plots to unleash an ice age on the 
+{C}  world.{b}
+
+~
+1098961762 262824 -1000 C 71
+51 -180 -19 0d0+25000 19d19+262
+10000000 1000
+8 8 2
+S 4047
+R 8388620
+D 4
+A 12
+#45814
+nunu champion~
+{CY,BO}Nunu, the Yeti Rider{b}~
+{CY,BO}Nunu gallops about on his pet yeti, which glares at you evilly.{b}
+~
+
+{C,BO}  Sometimes bonds of friendship becomes stronger than even 
+{C,BO}  bonds of blood. When those bonds link a fearless boy to a 
+{C,BO}  fearsome Yeti, the bond becomes a force to be reckoned with. 
+{C,BO}  Given the responsibility of taming a terrifying beast, Nunu 
+{C,BO}  forged a friendship where others would have forged chains. 
+{C,BO}  Now Nunu and his burly pal Willump are an inseparable pair
+{C,BO}  who combine youthful exuberance and brute strength with the 
+{C,BO}  mythical powers of the Yeti to overcome obstacles insurmountable 
+{C,BO}  to any ordinary duo. {b}
+
+~
+58770018 262824 500 C 45
+51 -30 -12 0d0+23770 15d10+399
+1500000 70000000
+8 8 0
+S 4047
+R 12
+D 4
+A 12
+#45815
+nocturne champion~
+{BLA,BO}Nocturne, {b}{M}the {BLA,BO}Eternal {b}{M}Nightmare{b}~
+{BLA,BO}The Eternal {b}{M}Nightmare {BLA,BO}slaughters everything he can find.{b}
+~
+
+{BLA,BO}  Before {b}{M}Nocturne, people believed that dreams were 
+{BLA,BO}  figments of their imaginations, meaningless images 
+{BLA,BO}  that flashed through the mind when one slept.{b}
+
+~
+1098956898 262824 -1000 C 93
+51 -40 -6 0d0+19000 4d4+300
+2500000 70000000
+8 8 1
+S 4047
+R 28
+D 4
+A 10
+#45816
+sona champion~
+{BLU,BO}Sona, {b}{BLU}Maven {BLU,BO}of the {b}{BLU}Strings.{b}~
+{BLU,BO}Sona sits here playing her strange, unique, stringed instrument in a beautiful melody.{b}
+~
+
+{BLU,BO}  She was an unusually well-behaved child, always quiet and 
+{BLU,BO}  content. Her caretakers were sure she would find a home 
+{b}{M}  quickly, but it soon became apparent that what they mistook 
+{M}  for uncommon geniality was actually an inability to speak or 
+{BLU,BO}  to produce any sound whatsoever. Sona remained at the adoption 
+{BLU,BO}  house until her teens, watching in hopeless silence as prospective 
+{b}{M}  adopters passed her by. During this time, the caretakers sold 
+{M}  her unusual instrument to anxious collectors, hoping to build 
+{BLU,BO}  her a trust. For a myriad of bizarre and unexpected reasons, 
+{BLU,BO}  however, it would be returned, or simply appear again outside 
+{b}{M}  the house.{b}
+
+~
+562090850 262824 500 C 81
+51 -80 -8 0d0+21200 15d17+200
+1000000 70000000
+8 8 2
+S 4047
+R 12
+D 4
+A 12
+#45817
+yi master champion~
+{Y}Master {G}Yi{b}, {BLA}the {Y}Wuju {G}Blademaster{b}~
+{Y}Master Yi moves with the speed and sw{G}iftn{G}ess of a near God, swinging his d{BLA}eadly blade.{b}
+~
+
+{G}  Through the ancient martial art of Wuju, Master Yi 
+{BLA}  tempered his body and sharpened his mind until thought 
+{Y}  and action became one. Though he chooses to enter into 
+{Y}  violence as a last resort, the grace and speed with which 
+{BLA}  he wields his blade ensures resolution is always swift. 
+{G}  As the last living practitioner of Wuju, Master Yi has 
+{G}  devoted his life to finding able pupils to carry on the 
+{BLA}  legacy of his lost people.{b}
+
+~
+1132511842 262826 0 S
+51 -180 -12 0d0+19920 10d15+300
+10000000 70000000
+8 8 0
+S 4047
+R 8388620
+D 4
+A 12
+#45818
+golem ancient~
+{Y}The Ancient Golem{b}~
+{Y}An Ancient Golem glows with a blue texture from a rune at its feet.{b}
+~
+
+{BLU} Often referred to as "Blue," this creature lacks a sense
+{BLU} of intellect, instead differing to aggressiveness, anger, 
+{BLU} and mostly stupidity.{b}
+
+~
+566284386 1610908296 0 C 4
+51 -100 -7 0d0+16700 17d17+375
+1000000 2600000
+8 8 0
+S 133119
+R 12
+D 8
+A 12
+#45819
+lizard young~
+{G}A young lizard{b}~
+{G}A young lizard stands here, glaring at you.{b}
+~
+
+{Y}  A simple monster appearing fairly weak and unhealthy. It
+{Y}  is a cross between a man and a lizard, able to oppose a foe
+{Y}  to the best of its ability.{b}
+
+~
+327173218 262712 0 S
+51 -50 -6 0d0+4000 7d7+200
+1000000 5000000
+8 8 0
+S 768
+R 12
+D 8
+A 12
+#45820
+wolf~
+{C}A wolf{b}~
+{C}A fierce and intimidating wolf snares its jaw at you, growling loudly.{b}
+~
+
+{C}  Grouped together with several other of its kind, the wolf
+{C}  appears hungry, scarcely fed and forced to feed of the corpses 
+{C}  of lost wanderers. Will you be their next meal?{b}
+
+~
+595607650 262972 0 C 93
+51 -50 -5 0d0+1000 1d2+50
+1000000 2000000
+8 8 1
+S 319
+R 12
+D 8
+A 12
+#45821
+baron nashor~
+{R,BO}Baron Nashor{b}~
+{R,BO}Baron Nashor, King of the Jungle, the killer of heroes and villains.{b}
+~
+
+{M}  This is a very powerful hostile monster, approach with
+{R}  caution! Killing this monster will yield great monetary and
+{M}  it is recommended not to be confronted alone.{b}
+
+~
+465608546 262824 -1000 C 76
+54 -180 -12 0d0+88000 4d5+900
+1000000 9000000
+8 8 0
+S 135167
+R 8388620
+D 20
+A 12
+#45822
+dragon~
+{BLA,BO}A Dragon{b}~
+{BLA,BO}The Summoners' Rift Dragon flies around with {R,BO}fire{BLA,BO} billowing from its jaw.{b}
+~
+
+{R}  The scent of chaos fuels the flames in the heart of the Dragon. Drawn 
+{BLA}  to this war-torn land, the mightiest of beasts has settled deep within 
+{b}{R}  the Summoner's Rift, awaiting the next great war. To those who wake this 
+{BLA}  slumbering ancient, beware: for his sharp teeth and suffocating breath 
+{b}{R}  have been tempered by the bravest of champions, and yet it is he that 
+{BLA}  still thrives in the depths of the Rift.{b}
+
+~
+729858402 17040040 0 C 79
+50 -180 -6 0d0+35000 9d9+500
+1000000 4000000
+8 8 0
+S 133119
+R 8388620
+D 3
+A 12
+#45823
+wraith~
+{BLU,BO}A wraith{b}~
+{BLU,BO}An undead wraith hovers towards you!{b}
+~
+
+{BLU,BO}  The dead still plague the aftermath of the Summoner's Rift and 
+{BLU,BO}  those who chose to linger here have turned to ghastly Wraiths. 
+{BLU,BO}  These flying Undead attack any who happen to pass by, haunting 
+{BLU,BO}  their victims with visions of the death and destruction that took 
+{BLU,BO}  place here.{b}
+
+~
+98 16778024 -1000 S
+51 -55 -4 0d0+2170 0d0+140
+1000000 1030000
+8 8 0
+S 15
+R 12
+D 20
+A 12
+#45824
+lizard elder~
+{G}The Lizard Elder{b}~
+{G}The Lizard Elder has a red rune flying about its body.{b}
+~
+
+{R}  A red rune swirls around the creature's feet. Four square-shaped
+{R}  orbs hover just above the ground, an essence glowing from their
+{R}  cycle. It generates some strange power that resides to and within
+{R}  the creature's flesh. {BLU}A hollow blue shell protects the outside of
+{BLU}  its body.{b}
+
+~
+419463522 263048 0 S
+25 -108 -8 0d0+14000 17d17+300
+1000000 2000000
+8 8 0
+S 2047
+R 12
+D 8
+A 12
+#45825
+golem~
+{WH,BO}A Golem{b}~
+{WH,BO}A giant, rocky golem stands here, looking still as a statue.{b}
+~
+
+{WH,BO}  A simple creature revived by the magics of the Summoners'
+{WH,BO}  rift. It seems to ignore you, but the scratches on its
+{WH,BO}  rocky skin give you the insight that it can become a
+{WH,BO}  formidable opponent.{b}
+
+~
+66 262952 0 S
+51 -50 -6 0d0+12000 6d6+500
+1000000 2000000
+8 8 0
+S 831
+R 12
+D 8
+A 12
+#45826
+nexus~
+{M}The Nexus{b}~
+{M}The Nexus radiates with a strange power.{b}
+~
+
+{M}  This statue, if it can be called that, is the bearer
+{M}  of several miniature turrets scattered around its
+{M}  frame. Ancient crafts have been carved into the stone
+{M}  and each edge, there being a total of six, has a
+{M}  different insignia etched there. A large crystal is
+{M}  floating in the center, glowing with a radiant power.{b}
+
+~
+1262539618 135529118 -1000 C 78
+51 -180 -7 0d0+45000 10d10+201
+1000000 2000000
+8 8 0
+S 33558464
+R 8388620
+D 4
+A 12
+#45827
+inhibitor~
+{M}An Inhibitor{b}~
+{M}An Inhibitor is here directing the minions.{b}
+~
+
+{M}  Almost like a minion-mother, this nifty machine is used
+{M}  to direct the minions towards your base. They might go
+{M}  faulty if this inhibitor is destroyed.{b}
+
+~
+562058082 262312 0 S
+51 10 -6 0d0+40000 8d8+200
+1000000 2000000
+8 8 0
+S 4047
+R 12
+D 20
+A 12
+#45828
+minion magic~
+{G}A magical minion{b}~
+{G}A minion patrols the path flinging random spells in every direction.{b}
+~
+
+{G}  This small creature looks quite frail, though what it misses
+{G}  in strength, it sort of redeems itself for in the essence
+{G}  of magic.{b}
+
+~
+37728 2360104 500 S
+25 -210 0 0d0+900 0d0+114
+50000 750000
+8 8 0
+S 895
+R 131084
+D 12
+A 12
+#45829
+minion warrior~
+{G}A warrior minion{b}~
+{G}Attempting to look intimidating, this minion slashes the air with his sword.{b}
+~
+
+{G}  This small creature is generally quite small. He seems to be
+{G}  able to sustain himself a bit longer than a magic-using
+{G}  minion, but his abilities are certainly lacking in a combative
+{G}  sense.{b}
+
+~
+96 2360104 500 S
+25 -40 0 31d32+1500 0d0+100
+50000 750000
+8 8 0
+S 895
+R 12
+D 12
+A 12
+#45830
+minion tank brawler~
+{G}A brawler minion{g}~
+{G}With two spiked clubs, this minion stomps down the lane.{b}
+~
+
+{G}  Fairly larger than the other minions, this particular one
+{G}  seems a bit tougher. Small muscles are seen beneath the armor
+{G}  he wears. Steel flashes on his skin and the two spiked clubs
+{G}  he wields pummel his foes.{b}
+
+~
+96 2360104 500 S
+30 -40 0 25d25+2000 10d5+115
+50000 750000
+8 8 0
+S 895
+R 131084
+D 12
+A 12
+#45831
+minion magic~
+{R}A magical minion{b}~
+{R}Patrolling the path, this minion flings a spell right at you!{b}
+~
+
+{R}  Being of a bit stronger power than the green minions, this
+{R}  creature could be seen as the purest minion quintessence of
+{R}  a mage. His spells each are a different color, and the one
+{R}  that splashes on you stings.{b}
+
+~
+142644064 2360120 500 C 1
+25 -40 0 25d25+500 7d7+100
+50000 750000
+8 8 0
+S 895
+R 131085
+D 12
+A 12
+#45832
+minion warrior~
+{R}A warrior minion{b}~
+{R}This minion slashes violently in your direction!{b}
+~
+
+{R}  Small but sturdy, this average minion wields a sharpened
+{R}  iron sword and some standard pieces of armor. Its sword
+{R}  pokes at your belly... Ouch.{b}
+
+~
+142639200 2360104 500 S
+25 -183 -5 31d32+1500 6d6+200
+50000 750000
+8 8 0
+S 895
+R 131084
+D 12
+A 12
+#45833
+minion tank brawler~
+{R}A brawler minion{b}~
+{R}Two spiked clubs flail violently at your flesh!{b}
+~
+
+{R}  Larger than any other minion, this guy is an epitome for
+{R}  intimidation. That is, if you red creatures about the size
+{R}  of your leg with two clubs intimidating. Look out before he
+{R}  clubs off one of your toes!{b}
+
+~
+8388704 2360104 500 C 4
+30 -40 0 25d25+2000 10d10+250
+50000 750000
+8 8 0
+S 847
+R 131084
+D 12
+A 12
+#45834
+amumu champion~
+{C}Amumu, the {G}Sad {C}Mummy{b}~
+{C}Endless tears stream from the wrapped mummy's face.{b}
+~
+
+{G}  All he remembers is that he woke up alone inside 
+{C,BO}  a pyramid within the Shurima Desert. He was entwined 
+{b}{G}  in mummy wrappings and he could not feel his heart 
+{C,BO}  beat. Furthermore, he felt a deep sadness that he 
+{b}{G}  could not entirely explain; he knew he missed his 
+{C,BO}  parents, though he could not remember who they were. 
+{b}{G}  Dropping to his knees, Amumu wept into his bandages.
+{C,BO}  No matter what he did, it seemed he could never stop
+{b}{G}  his tears or sadness. Eventually he stood up, 
+{C,BO}  determined to wander the world to discover his past.{b}
+
+~
+2713723488 3221488316 0 C 1
+51 -200 -9 0d0+37340 7d7+375
+1000000 1280523264
+8 8 1
+S 143311
+R 12
+D 1
+A 12
+#45835
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#45836
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#45837
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#45838
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#45839
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#45840
+Scott Fischer climber shadow~
+{CYAN}Scott Fischer{cyan}~
+{CYAN}A lone figure emerges from the whiteout.{cyan}
+~
+{CYAN}Amidst the howling winds and blizzard conditions, a solitary figure
+is visible in the distance.  Left for dead in a failed expedition, Scott
+is less than happy with his fellow climbers.  His skin blackened from 
+frostbite and his eyes glowing a mystical {cyan}{RED}RED{red}{CYAN}, Fischer is
+looking for some revenge.{cyan}
+
+~
+717275238 1445242620 -1000 C 4
+57 -85 -10 0d0+30000 0d0+600
+50000000 200000000
+8 8 1
+D 20
+A 12
+#45841
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#45842
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#45843
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#45844
+Saccing mob test~
+{WH,BO}Saccing Test Mob{b}~
+This is a test.
+~
+It looks like nobody!
+~
+18874438 262696 0 S
+50 10 5 0d0+10000 0d0+10000
+0 1000
+8 8 0
+D 1
+A 12
+#45845
+Good sorter~
+{BO,WH}Good Sorter{bo}~
+{BO,WH}A good sorter stands here watching his line.
+~
+{BO,WH}You watch as this creature walks up and down the line picking only
+the ones it wants to pass through its door.{bo}
+~
+1249951847 1344537512 1000 C 4
+50 -280 -6 10d10+25000 20d20+60
+0 1000
+8 8 0
+D 20
+A 12
+#45846
+Evil Sorter~
+{BO,BLA}Evil Sorter{cy}~
+{BO,BLA}An evil sorter stands here watching his line.
+~
+{BO,BLA}You watch as this creature walks up and down the line picking only
+the ones it wants to pass through its door.{bo}
+~
+713605223 1344537256 -1000 C 4
+50 -280 -10 10d10+25000 20d20+60
+0 1000
+8 8 0
+D 20
+A 12
+#45847
+summoner~
+{Y}Summoner{b}~
+{Y}Summoner of the Rift{b}
+~
+~
+268451906 1443397818 0 C 4
+54 -230 0 0d0+2000 0d0+999999
+0 7755696
+0 8 0
+D 20
+A 20
+#45848
+Santa~
+Santa Claus~
+Jolly 'Ol Saint Nick gives you a present!
+~
+A FAT guy who likes making people happy.
+~
+1141506048 1107591848 0 S
+51 -40 -10 1000d1000+10000 15d10+50
+0 3000000
+8 8 0
+D 20
+A 12
+#45849
+sithis fun leveling test DO_NOT_USE~
+{BLACK,BOLD}S{RED,BOLD}i{BLACK,BOLD}th{RED,BOLD}i{BLACK,BOLD}s{black}~
+{BLACK,BOLD}S{RED,BOLD}i{BLACK,BOLD}th{RED,BOLD}i{BLACK,BOLD}s{black}
+~
+me desc {BLACK,BOLD}S{RED,BOLD}i{BLACK,BOLD}th{RED,BOLD}i{BLACK,BOLD}s{black}
+~
+268451906 1451786426 0 C 4
+60 -230 0 0d0+2000 0d0+29796
+0 7755696
+0 8 0
+R 32
+D 20
+A 20
+$~

@@ -1,0 +1,783 @@
+#48400
+key gate~
+{YELLOW}A Gate Key{yellow}~
+You see a rusty key laying here.~
+~
+18 4096 0 16385
+400 0 0 1
+5 10 1
+L
+1000
+#48401
+key~
+{BLACK,BOLD}The Key to the Castle{black}~
+{YELLOW}You see a key lying here.{yellow}~
+~
+18 4096 0 16385
+450 0 0 1
+10 100 1
+E
+key~
+
+   {YELLOW}This is the key to the castle doors. It is a 
+   large key with a gold finish.{yellow}
+
+~
+L
+1000
+#48402
+rose key~
+{RED,BO}A beautiful rose{red}~
+A rose is lying here~
+~
+18 77824 0 16385
+450 0 0 1
+5 100 1
+L
+100
+#48403
+key~
+{MAGENTA}A Key of Flesh{magenta}~
+{YELLOW}There is a hunk of flesh lying here{yellow}~
+~
+18 4096 0 16385
+450 0 0 1
+5 0 1
+E
+key~
+
+   {RED}This key is made completely of human flesh.{red}
+
+~
+L
+1000
+#48404
+box image withered soul~
+{WHI}A W{RED}it{WHI}he{RED}red {WHI}SOUL{whi}~
+{BLACK,BO}A Ghastly Image is on the ground here{bla}~
+~
+15 1052673 0 33570817
+1000 0 0 0
+2 200 1100
+E
+box image withered soul~
+
+   {RED}This is the soul of an unfortunate warrior. It is 
+   lost to him now and belongs to you.{red}
+
+~
+A
+19 1
+B
+16777216
+L
+40
+G
+100
+#48405
+ring giogia~
+{MAG}The {WHI,BOL}Diamond{whi} {MAG}wedding band of {BLU,BOL}Giogia{blu}~
+This is the wedding ring of Giogia.~
+~
+9 4096 0 3
+0 0 0 0
+1 1 1
+E
+ ring giogia~
+
+  {CYA}Here is the wedding ring of Giogia although it's not known to whom
+  she's married.  Some say she was forced to marry some hiddeous beast
+  that no one has seen for centuries.  Others say she isn't married at
+  all, she just says she is to avoid all the horny men that surround 
+  her.{cya}
+
+
+~
+E
+ring giogia~
+
+   This ring binds Capulet and Giogia in marriage.
+
+~
+E
+board kingdom~
+
+   This board is used for creating and chatting
+   about the idea of creating a kingdom.
+~
+A
+18 100
+A
+19 100
+B
+536871040
+L
+2
+C
+7000 2
+M
+106
+#48406
+bag~
+a small bag~
+There is a bag sitting here~
+~
+15 0 0 16385
+100 0 0 0
+1 2 100
+E
+bag~
+
+   This bag can be filled with you valuables.
+
+~
+E
+bag~
+
+   This bag can be filled with your valuables.
+
+~
+#48407
+badge army undead~
+{BLACK,BOLD}BADGE{black} {RED}of the{red} {BLACK,BOLD}U{black}{RED}nde{red}{BLACK,BOLD}ad{black} {YELLOW}ARMY{yellow}~
+There is a badge of onix lying in the dust~
+~
+9 1052704 0 1064961
+8 0 0 0
+2 200 1
+E
+badge army undead~
+    
+   {BLA,BO}This badge is made of the darkest onyx. It has 
+   a wonderful shine to it. There is a picture of 
+   crossed swords on the front of it.{bla}
+    
+~
+E
+badge army undead~
+
+   {BLACK,BOLD}This badge is made of the darkest onyx. It has 
+   a wanderful shine to it. There is a picture of 
+   crossed swords on the front of it.{black}
+
+~
+A
+17 -6
+A
+19 5
+B
+67108864
+L
+50
+C
+7000 1
+G
+100
+M
+92
+#48408
+legacy knight~
+{CYAN,BO}A {YELL}Knight's {CYAN}Legacy{cyan}~
+The legacy of someones life is here~
+~
+9 2953850883 0 2049
+8 0 0 0
+20 333 1
+E
+legacy knight~
+    
+   {YELL,BO}This is the legacy of a great knight. A knight
+   who stormed castles and fought dragons. It tells
+   of all the knights good deeds. And, it tells a 
+   story of how he became overwhelmed with greed. 
+   It tells how he became the leader of an undead
+   army within{yell}{RED} The Castle of Lost Souls.{red}
+    
+~
+A
+18 6
+A
+17 -10
+B
+268443650
+L
+50
+C
+6300 1
+M
+51
+#48409
+key~
+{YELLOW}The key to the Prince's Bedroom{yellow}~
+You see a gold key lying here~
+~
+18 4096 0 1
+450 0 0 1
+1 2 1
+E
+key~
+
+   {YELLOW}This key is made of pure gold.{yellow}
+
+~
+L
+1000
+#48410
+sword chronicles death~
+{RED}The Chronicles of {BLACK,BO}DEATH{black}~
+You see a deadly image here~
+~
+5 2148536353 272 8193
+3 8 10 9
+5 4000 1
+E
+sword chronicles death~
+
+   {RED}This sword is rumored to be one of the deadliest 
+   swords ever forged. It is believed to have been
+   carried by DEATH himself. It is double-edged and 
+   as sharp as a razor. It is perfectly balanced for
+   accurate control.{red}
+
+~
+A
+17 -13
+A
+18 7
+B
+67108872
+L
+50
+C
+4200 1
+G
+100
+M
+100
+#48411
+crown~
+{YEL,BO}Th{CYAN}e C{YELL}ro{CYA}wn {YELL}of {CYAN}So{YELL}uls{yel}~
+You see a crown with many jewels~
+~
+9 2148536353 0 4194321
+18 0 0 0
+2 100 1
+E
+crown~
+
+   This crown once belonged to the King
+   of Souls. Now it is proof that you 
+   have walked into the undead army and 
+   lived.
+
+~
+A
+18 6
+A
+19 5
+B
+1073741832
+L
+45
+C
+7000 20
+M
+90
+#48412
+ring souls~
+{CYAN,BOLD}The Ring of Souls{cyan}~
+You see a small ring lying here.~
+~
+9 1060864 0 3
+12 0 0 0
+2 200 1
+E
+ring souls~
+
+   {CYAN,BOLD}This ring depicts symbols that you cannot
+   read. They appear to be of elvish. The band
+   is made of a material that is unknown to you. 
+   It is whole, yet it is not.{cyan}
+
+~
+A
+19 9
+A
+17 -6
+B
+2281701378
+L
+75
+C
+5600 1
+M
+90
+#48413
+light mushroom fluorescent~
+{CYA,BO}A {BLU,BO}B{CYA,BO}l{BLU,BO}u{CYA,BO}e {GREE,BO}Mushroom{gree}~
+A blue mushroom grows nearby~
+~
+1 2148536323 72 16777217
+-1 -1 -1 2
+2 100 1
+E
+light mushroom fluorescent~
+
+   {BLACK,BOLD}This light has a black glow to it instead
+   of the brilliant lights you are used to. 
+   When you look into it you almost loose all
+   sense of time staring into its' darkened 
+   flames.{black}
+
+~
+A
+12 100
+A
+17 -12
+B
+17039488
+L
+45
+G
+100
+M
+57
+#48414
+armor glance hates~
+{BLACK,BOLD}A Glance of{black} {RED}HATES{red}~
+You see a portal to the other world~
+~
+9 2970620416 272 9
+6 0 0 0
+10 1 1
+E
+armor glance hates~
+
+  {BLACK,BOLD}This armor is the looking glass of Hates. It 
+  was used by the Gods to keep and eye on the 
+  demons of the Underworld.{black}
+
+~
+A
+28 1
+A
+17 -30
+B
+67110016
+L
+40
+C
+6300 15
+M
+95
+#48415
+chest treasure~
+{YELLOW}An small Treasure Chest{yellow}~
+You see a treasure chest here~
+~
+15 0 0 1
+300 1 0 0
+1 1 300
+E
+chest treasure~
+
+   {YELLOW}This chest is filled with gold and coins.
+   It has carvings all around it. The outside
+   of the chest is inlayed with gold leaf and
+   ivory. It is a beautiful peace of work.{yellow}
+
+~
+#48416
+scar underworld~
+{MAGENTA,BOLD}The Scar of the Underworld{magenta}~
+There is some kind of mark lying here~
+~
+9 3356495873 8192 524289
+8 0 0 0
+2 1 1
+E
+scar underworld~
+
+   {RED}This is the mark of the underworld's elite
+   killers. Whoever wears this mark is feared
+   the world over.{red}
+
+~
+A
+17 -5
+A
+28 1
+B
+268435456
+L
+50
+C
+7000 1
+G
+100
+M
+95
+#48417
+collar spiked torturer~
+{CYAN,BOLD}The Spiked Collar of the{cyan} {RED,BOLD}MASTER TORTURER{red}~
+An evil collar is here in the dust~
+~
+9 2148536832 0 5
+9 4900 0 0
+7 400 1
+E
+spiked collar torturer~
+
+  This collar is made of leather with
+  spiked studds covering the inside of
+  it. There are three metal snaps on one
+  side used for fastening the collar 
+  to its victim.
+
+~
+E
+collar spiked torturer~
+    
+  This collar is made of leather with
+  spiked studs covering the inside of
+  it. There are three metal snaps on 
+  one side used for fastening the collar 
+  to its victim.
+    
+~
+A
+17 -9
+A
+19 5
+B
+1342177280
+L
+12
+C
+4900 1
+G
+100
+M
+85
+#48418
+doom eye~
+{WHI,BO}The eye of Doom{whi}~
+An all-seeing eye gazes at you!~
+~
+9 2148536320 268435464 131073
+8 0 0 0
+1 1 1
+E
+doom eye~
+   
+   This is the all-seeing eye of Doom. This eye can 
+   see every dead soul in the universe. It is said 
+   that if you look into the eye you will go mad.
+
+~
+E
+firewood~
+~
+A
+12 75
+A
+19 5
+B
+262184
+L
+100
+C
+7000 2
+G
+50
+M
+51
+#48419
+stone fountain~
+{BLACK,BOLD}A Stone{bla} {WHITE}Fountain{white}~
+{BLA,BO}A fountain with a statue atop of it is here{bla}~
+~
+17 0 0 0
+500 495 20 0
+1 1 1
+E
+statue~
+
+
+   {WHI}Nomad has been a great mentor and teacher for this zone.
+                        Thanks Nomad{whi}
+
+~
+E
+stone fountain~
+
+  {WHITE}This fountain is towering some ten feet.
+  The dark brown fluids that run from the
+  gargoyle statue atop of it look like mud.
+  The smells coming from it seem a little 
+  better, however, than the looks of it.{white}
+
+~
+E
+stone fountain~
+
+  {WHI}This fountain is towering some ten feet.
+  The dark brown fluids that run from the
+  statue atop of it looks like mud. The 
+  smells coming from it seem a little 
+  better, however, than the looks of it.{whi}
+
+~
+E
+stone fountain~
+   
+  {WHI}This fountain is towering some ten feet.
+  The dark brown fluids that run from the
+  gargoyle statue atop of it looks like mud.
+  The smells coming from it seem a little 
+  better, however, than the looks of it.{whi}
+~
+#48420
+test armor immortal~
+{RED}IMMORTAL ARMOR{red}~
+This belongs to the imms please return it.~
+~
+9 12288 0 22880255
+30 0 0 0
+1 1 1
+A
+17 -50
+A
+18 12
+L
+5
+C
+7000 2
+M
+100
+#48421
+portal rose yellow~
+{YELL,BO}A yellow rose bush{yell}~
+{YELLOW,BOLD}A yellow rose bush{yellow}~
+~
+27 4096 0 0
+48468 0 0 0
+1 1 1
+E
+portal rose yellow~
+
+   {YELLOW,BOLD}A yellow rose bush stands here
+   in full bloom. Its fragrance 
+   fills the air.{yellow}
+~
+#48422
+portal rose red~
+{RED,BOLD}A red rose bush{red}~
+{RED,BOLD}A red rose bush{red}~
+~
+27 4096 0 0
+48467 48468 48468 48468
+1 1 1
+E
+portal rose red~
+
+   {RED,BOLD}A red rose bush stands here
+   in full bloom. Its fragrance 
+   fills the air.{red}
+~
+#48423
+portal rose purple~
+{MAGENTA,BOLD}A purple rose bush{magenta}~
+{MAGENTA}A purple rose bush{magenta}~
+~
+27 4096 0 0
+48466 48467 48467 48467
+1 1 1
+E
+portal rose purple~
+
+   {MAGENTA}A purple rose bush stands here
+   in full bloom. Its fragrance 
+   fills the air.{magenta}
+~
+#48424
+stove~
+{BLACK,BOLD}A large wood burning stove{black}~
+{BLACK,BOLD}A large wood burning stove is here{black}~
+~
+14 0 0 0
+-1 -1 8 29248
+1 1 1
+#48425
+bottle wine~
+{MAGENTA}A bottle of wine{mage}~
+{MAGENTA}A bottle of wine sits on a tier here{mage}~
+~
+14 0 0 1
+-1 -1 5 64
+1 1 1
+E
+bottle wine~
+
+1791
+~
+#48426
+roar aardvark testmort~
+{W}The Mighty Roar of The {R}Aardvark{r}~
+......something is here.~
+~
+9 2215641345 40960 385753087
+100 10 10 10
+1 50000 500000
+E
+statue capulet~
+
+   This statue stands ten feet tall. It
+   is the statue of Capulet the legendary
+   hero. He was called by the Gods to join
+   their ranks. He now watches over the land
+   from the Immortal Relm. It is said that 
+   he turns himself into a mortal to walk 
+   the earth with is lovely lady Giogia 
+   whenever not tending to his duties as an
+   Immortal.
+
+~
+A
+19 100
+A
+18 100
+B
+3206324732
+C
+7000 2
+#48427
+tshirt chaos~
+{RED,BO}I fought in the {YELL}C{CYA}h{YELL}a{CYAN}o{YELL}s {BLUE}Quest {RED}and all I got was this lousy Tshirt{red}~
+{YELL,BO}There is a crumpled tshirt lying forgotten here.{yell}~
+~
+9 0 0 1033
+0 7000 0 0
+1 1 1
+E
+tshirt chaos~
+
+ {CYAN}An Official {RED}CHAOS{CYAN} Quest Tshirt{cyan}
+
+~
+E
+statue giogia~
+
+   A statue of a beautiful lady stands here. This 
+   is the mortal love of Capulet. She is know as
+   the Lady Assassin for her deadly skills. She 
+   once traveled the lands with her hero, Capulet,
+   by her side. Now she seeks an afterlife with 
+   her love who joined the Immortals.
+
+~
+C
+7000 1
+#48428
+test ego insignia~
+{CYAN,BO}The Ego{cyan}~
+You see an insignia here~
+~
+11 0 0 81921
+0 0 0 0
+1 1 1
+A
+18 50
+A
+18 50
+#48429
+test testmort visor~
+{CYAN,BOLD}IMMORTAL VISOR{cyan}~
+{CYAN,BOLD}IMMORTAL VISOR{cyan}~
+~
+9 16777216 8192 15073281
+35 0 0 0
+1 1 1
+A
+17 -30
+A
+28 2
+B
+2147483680
+C
+7000 20
+M
+102
+#48430
+gold~
+{YELLOW,BOLD}A pile of gold coins{yellow}~
+A pile of gold coins~
+~
+20 0 0 1
+1000000 0 0 0
+1 1 1
+#48431
+sofa~
+A Sofa~
+A big comfy sofa beckons you to rest.~
+~
+15 4096 0 0
+100 101 100 100
+2 1 1
+E
+sofa~
+
+
+  {CYA}This marvelously huge sofa doesn't look too stiff or too fluffy.  The
+  light blue fabric appears to be made of cotton and satin mixed.{cya} 
+
+
+~
+L
+1
+#48432
+test weapon~
+{RED,BOLD}IMMORTAL EQ ONLY{red}~
+testeq~
+~
+5 0 0 24577
+3 12 20 11
+1 1 1
+A
+19 100
+A
+18 100
+B
+352321674
+C
+7000 1
+M
+100
+#48433
+test light~
+{RED,BOLD}IMMORTAL LIGHT{red}~
+{RED,BOLD}IMMORTAL LIGHT{red}~
+~
+1 67108864 0 16777217
+-1 -1 -1 5
+1 1 1
+A
+19 12
+A
+19 12
+B
+67108864
+M
+100
+#48434
+Giogia's board~
+A large white dry erase board~
+you see a large worn white board with doodles scribbled all over it.~
+(null)~
+13 0 64 0
+0 0 0 0
+0 0 1
+E
+ammo~
+~
+$~

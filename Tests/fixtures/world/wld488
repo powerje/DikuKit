@@ -1,0 +1,2370 @@
+#48800
+{C,BO}The House of Christopher Robin{c,bo}~
+{C,BO}
+  Gazing upward, the two story white washed home greets the
+  blue sky with its fluffy white clouds. There are three windows
+  total on the top floor and one on each side of the giant
+  green door.  Christopher's window is just to the left above 
+  the door.  Only way to see if Christopher Robin is home
+  would be to enter the door.
+{c,bo}
+~
+488 13 3
+D0
+~
+~
+0 -1 48817
+D2
+~
+~
+0 -1 48866
+Z-1
+C-1
+S
+#48801
+{Y,BO}The Kitchen{y,bo}~
+{Y,BO}
+  The kitchen curtains blow gently in the breeze of
+  the open windows. A cleared table complete with 
+  fresh daisies greets all who enter into the kitchen.
+  There is fresh fruit on the counter and home baked
+  bread.
+{y,bo}
+~
+488 9 3
+D0
+~
+~
+0 -1 48806
+D3
+~
+~
+0 -1 48899
+Z-1
+C-1
+S
+#48802
+{WH,BO}The Livingroom{w,bo}~
+{W,BO}
+  Two wing back chairs, an ottoman, a couch and coffee
+  table grouped comfortably on a hand woven rug sit in 
+  the central portion of the large livingroom. On the
+  wall near the stairs is a picture of Christopher Robin
+  with his mother and father. 
+{w,bo}
+~
+488 9 3
+D1
+~
+~
+0 -1 48899
+Z-1
+C-1
+S
+#48803
+{W}A Bedroom{w}~
+{W,BO}
+  Though not very exciting to look at, this room is 
+  certainly functional. There is a double bed dressed
+  in white linens next to the door facing the window.
+  A tall dresser stands next to the window where a 
+  plush chair sits. The room has hardwood floors just
+  like the rest of the house.
+{w,bo}
+~
+488 9 3
+D2
+~
+pick~
+1 -1 48832
+Z-1
+C-1
+S
+#48804
+{W}A Bedroom{w}~
+{W}
+  Facing the back of the house, this room doesn't get
+  the sunlight that the others get. Still, the soft
+  eggshell walls and patchwork quilt make the room very
+  warm. There are a few pictures of relatives hanging
+  on the wall near a short dresser. A vanity with a 
+  hairbrush, comb and mirror sits under a large lamp
+  in the corner of the room.
+{w}
+~
+488 9 3
+D2
+~
+door~
+1 -1 48898
+Z-1
+C-1
+S
+#48805
+{BLU,BO}The Bedroom of Christopher Robin{blu,bo}~
+{BLU,BO}
+  Somehow, like all little boys' rooms, Christopher's room
+  is a magical place with toys and storybooks. Under the large
+  window overlooking the front yard sits a toy box. On top of 
+  the box are a stuffed bear, pig, rabbit, and donkey. The bed
+  is neatly made with a dark wooden frame and blue patchwork
+  quilt. On the floor near the dresser is an army of small 
+  wooden soldiers ready to march and a book titled {bo,UND,G}When We{und} 
+  {UND}Were Very Young{und,BO,BLU} is open on the area rug in the center of the
+  floor.
+{blu,bo}
+~
+488 9 3
+D0
+~
+door~
+1 -1 48832
+Z-1
+C-1
+S
+#48806
+{Y}The Mud Room{y}~
+{Y}
+  A mother's dream is to have a mud room where the family can
+  remove shoes and leave wet coats without traipsing through
+  the house. This mud room has a coat rack, a row of small shoes,
+  a washer, dryer, cupboard, and a sink. The backyard is accessible
+  through the door opposite the kitchen.
+{y}
+~
+488 9 3
+D1
+~
+door~
+1 -1 48895
+D2
+~
+~
+0 -1 48801
+Z-1
+C-1
+S
+#48807
+{Y}P{G}o{W}o{Y}h{G}s{W}t{Y}i{G}c{W}k{Y}s {G}B{W}r{Y}i{G}d{W}g{Y}e{y}~
+{Y}
+            _                                          _
+          /I I========================================I I\
+         ' I I:  :  :  :  :  :  :  :  :  :  :  :  :  :I I '
+        '  I I:__:__:__:__:__:__:__:__:__:__:__:__:__:I I  ' 
+       |   I!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!I   |
+  ^^^^^^^^^I I^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^I I^^^^^^^^^^^
+           I I                                        I I
+           I I                                        I I
+           I I{BLU,REV}                                        {blu,rev}{Y}I I
+{y}
+~
+488 1 3
+D0
+~
+~
+0 -1 48820
+D2
+~
+~
+0 -1 48821
+Z-1
+C-1
+S
+#48808
+{CY}Eeyore's Gloomy Place{c}~
+{C}
+  Here is where Eeyore can often be found sitting in his gloom.
+  The air here is heavy despite the blue sky. The small hut of 
+  sticks is enough to make anyone sad. There's neither a picture 
+  nor a flower in sight to lift the mood. 
+{C}
+                     GLOOM
+{C}
+                            GLOOM
+{C}
+                                    GLOOM
+{c}
+~
+488 1 3
+D0
+~
+~
+0 -1 48824
+Z-1
+C-1
+S
+#48809
+{W,BO}Rabbit's Hole{w,bo}~
+{W,BO}
+  Rabbit's home is kept perfectly neat. Not a speck of 
+  dust is welcome anywhere. With dishes neatly washed
+  and returned to their cupboard and the floor recently
+  swept, Rabbit tends to the garden just outside the 
+  window.
+{w,bo}
+~
+488 1 3
+D2
+~
+door~
+1 -1 48823
+Z-1
+C-1
+S
+#48810
+{BL,BO}Owl's Tree{bl,bo}~
+{BL,BO}
+  The tree stands tall and wide. Way up at the top near a 
+  fat branch is the hole which Owl lives in. This giant 
+  Oak is creepy enough and knowing that the great, wise
+  owl lives here doesn't make it any better.
+{bl,bo}
+~
+488 1 3
+D0
+~
+~
+0 -1 48880
+D1
+~
+~
+0 -1 48882
+D2
+~
+~
+0 -1 48884
+D3
+~
+~
+0 -1 48877
+D4
+~
+~
+0 -1 48827
+Z-1
+C-1
+S
+#48811
+{Y}Kanga's Home{y}~
+{Y}
+  The home is simple with only the things a kangaroo
+  needs: a place to eat, a place to sleep. Roo's toys
+  are neatly tucked away near the dresser and the bed
+  sheets are smoothed. It's a cheerful home.
+{y} 
+~
+488 1 3
+D0
+~
+door~
+1 -1 48828
+Z-1
+C-1
+S
+#48812
+{G}Rabbit's Garden{g}~
+{G}
+  Carrots by the bushel! Neat, orderly rows of nothing but 
+  carrot tops pop up in the garden. Rabbit's white picket 
+  fence and gate are perfect for keeping tiggers out, but
+  not always effective. The wheelbarrow near the front door
+  of Rabbit's home is overflowing with freshly picked carrots.
+{g}
+~
+488 1 3
+D0
+~
+~
+0 -1 48823
+D2
+~
+gate~
+1 -1 48829
+Z-1
+C-1
+S
+#48813
+{W,BO}T{C}h{W}e{C} N{W}o{C}r{W}t{C}h {W}P{C}o{W}l{C}e{c}~
+{W}
+  Along the stream is a slippery spot which almost claimed
+  poor Roo's life. When Pooh reached in with the North Pole
+  stick and saved Roo, the spot was declared the North Pole.
+{Y}              
+          _______________________________________
+          \                                     /
+          |             {W}North Pole{Y}             |
+          \                                     \
+          /         {W}Discovered by Pooh.{Y}          \
+         |             {W}Pooh found it.{Y}            |
+          \                                      |
+           |____________________________________/
+                           |   |
+{y}
+~
+488 1 3
+D2
+~
+~
+0 -1 48858
+Z-1
+C-1
+S
+#48814
+{W}Piglet's House{w}~
+{W}
+  At the base of this tall tree, there is a little
+  opening. In that opening, Piglet find shelter from
+  the cold, wind, and rain. Otherwise, he's out and
+  about enjoying the company of others. Mostly, he  
+  can be found with Pooh. Piglet will say about his 
+  home, "There really isn't much to tell." And so,
+  there really isn't much to tell.
+{w}
+~
+488 1 3
+D3
+~
+door~
+1 -1 48830
+Z-1
+C2
+S
+#48815
+{Y,BO}Pooh's House{y,bo}~
+{Y,BO}
+  Coo coo! Coo coo! It's honey time for {R}Pooh Bear{Y,BO}!
+  Giant pots of honey line the walls of this cave.
+  There is a blue {y,bo}{C}chair{Y,BO} and {y,bo}{C}table{Y,BO} in the center of 
+  the room. A straw mat lies on the floor. A full
+  sized {y,bo}{C}mirror{Y,BO} and {y,bo}{C}bed{Y,BO} in the same blue are at the
+  end of the room opposite the table. What a wonderful
+  place to be!
+{y,bo}
+~
+488 1 3
+D0
+~
+latch~
+1 -1 48831
+Z-1
+C-1
+S
+#48816
+{C,BO}The Porch{c,bo}~
+{C,BO}
+  The porch spans the front of the Robin's home. On one
+  end there is a swing and on the other end a small table
+  with two chairs where the Robins often entertain guests
+  and enjoy their tea. Right in the middle of all this, 
+  there is a wooden door painted a dark shade of green.
+{c,bo}
+~
+488 5 3
+D5
+~
+~
+0 -1 48817
+Z-1
+C-1
+S
+#48817
+{W}The Front Walk{w}~
+{W}
+  With grass on either side, the walk is swept clean and
+  heads directly to the porch. The cool stones that make
+  up the walk are water stained after years of weather
+  leaving them a marbled shade of grey, blue, and rusty
+  red.
+{w}
+~
+488 1 3
+D1
+~
+~
+0 -1 48897
+D2
+~
+~
+0 -1 48800
+D4
+~
+~
+0 -1 48816
+Z-1
+C-1
+S
+#48818
+{Y,BO}H{BL}u{Y}N{BL}N{Y}y {BL}T{Y}r{BL}e{Y}e{y,bo}~
+{Y}
+                 /;-._,-.____        ,-----.__
+                (_:#::_.:::. `-._   /:, /-._, `._,
+                        | `"=:_::.`.):  \ __/ /
+                        {Y,BO}^{y,bo}{Y}       \:. `.   )==-'  
+           ., ,-=-     {Y,BO}***{y,bo}{Y}       \:.  / /       
+            \/:/      {Y,BO}*****{y,bo}{Y}       ): , /    
+            /:+       {Y,BO}*****{y,bo}{Y}       ::  /   
+           ':  \       {Y,BO}***{y,bo}{Y}      ,:' `'-- .-- ---._/`7
+             \: \,-._          ,"   _,--._,---":.__/
+              \:  `  X        /'   .-'
+                ":._:`\____  /:'  /          
+                    \::.  :\/:'  /             
+                     `.:.  /:'  }      
+                       ):_(::   \           
+                      /:. _/ ,  |
+                      |::.     ,`                  
+                      |::.    {\
+                      |::.\  \ `.
+                      |:::(\    |
+                      |:::/{ }  | 
+{y}                 
+~
+488 5 3
+D0
+~
+~
+0 -1 48894
+D2
+~
+~
+0 -1 48885
+Z-1
+C-1
+S
+#48819
+{Y}The Hive{y}~
+{Y,BO}
+  /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+  \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+  /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+  \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+  /\/{y,bo}{Y}The hive is full of the buzzing sorts of bees.{Y,BO}\/\
+  \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+  /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+  \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+  /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+{y,bo}
+~
+488 9 3
+Z-1
+C-1
+S
+#48820
+{Y}Before the Bridge{y}~
+
+{Y}
+  Just before the bridge there is a patch of dirt,
+  a willow, and some wild flowers. The dirt is
+  nothing more than dried earth where the sun has
+  been shining down all day drying up the horrible
+  rain that came through last week. The flowers,
+  freshly watered by nature, are in full bloom and
+  the willow reaches down to touch the earth.
+{y}
+~
+488 1 3
+D0
+~
+~
+0 -1 48870
+D2
+~
+~
+0 -1 48807
+D5
+~
+~
+0 -1 48822
+Z-1
+C-1
+S
+#48821
+{Y}After the Bridge{y}~
+{Y}
+  After the bridge there isn't much more than was
+  before the bridge. Only now one can't see the
+  bridge at all without turning around to look at
+  it. Why would one want to do that? There is a 
+  path up ahead that is much more curious than the
+  place one has already been.
+{y}
+~
+488 1 3
+D0
+~
+~
+0 -1 48807
+D2
+~
+~
+0 -1 48886
+Z-1
+C-1
+S
+#48822
+{BL,BO}Under the Bridge{bl,bo}~
+{BL,BO}
+  Well, every bridge must have an underside or
+  it wouldn't be a bridge at all. Poohsticks
+  Bridge is no different. It has an underside.
+  A few small plants grow strong along the 
+  water's edge and the shadows of the wooden
+  planks above flicker as the light seeps through.
+{bl,bo}
+~
+488 1 3
+D2
+~
+~
+0 -1 48838
+D4
+~
+~
+0 -1 48820
+Z3
+C-1
+S
+#48823
+{W}Entrance to Rabbit's{w}~
+{W,BO}
+             Rabbit's front door
+             is as particular as
+             Rabbit is, straight
+             up and  down, white
+             washed and polished
+             to perfect. A small
+             brass knob with key
+             hole captures {Y}a{W} bit
+             of sunlight  adding 
+             to the  personality
+             of what would  seem
+             to  be an otherwise
+            ordinarily plain door.
+{w,bo}  
+            
+~
+488 1 3
+D0
+~
+door~
+1 -1 48809
+D2
+~
+~
+0 -1 48812
+Z-1
+C-1
+S
+#48824
+{Y}In Front of the Hut{y}~
+{C}
+  The only excitement to be found here is that
+  sometimes Eeyore is actually home. Even that
+  isn't terribly exciting. He usually has a 
+  problem or two that might occupy sometime, but
+  otherwise this is certainly not a very fun
+  place to be.
+{c}
+~
+488 1 3
+D1
+~
+~
+0 -1 48837
+D2
+~
+~
+0 -1 48808
+Z-1
+C-1
+S
+#48825
+{BL,BO}The Wolery{bl,bo}~
+{Y}
+  Deep in the Hundred Acre Woods lives Owl.
+  He is old and wise. His home reflects this
+  quite well. The hole in the tree that Owl
+  calls home is distinguished. In the corner
+  there is a stack of books. In the other
+  corner is a comfortable nest where Owl
+  sleeps.
+{y}  
+~
+488 1 3
+D2
+~
+TheWolery~
+1 -1 48827
+Z3
+C-1
+S
+#48826
+{G,BO}A Nice Place for Picnics{g,bo}~
+{G}
+  Here is a nice grassy spot. Perfect for a picnic!
+  Small wild flowers reach to the edge of the forest
+  where the trees shade a giant smooth rock. Small 
+  shrubs grow nearby and the creatures of the forest
+  peek out from the trees. It is dry and flat and 
+  just a perfect place for a picnic.
+{g}
+~
+488 1 3
+D1
+~
+~
+0 -1 48891
+Z-1
+C-1
+S
+#48827
+{Y}Owl's Branch{y}~
+{Y}
+  Upon climbing up and up and up, one finds himself
+  standing on a large branch just outside of Owl's
+  home. Late in the evening as the sun starts to set,
+  Owl can be found standing on the branch taking in 
+  the night air.
+{y} 
+~
+488 1 3
+D0
+~
+TheWolery~
+2 48816 48825
+D5
+~
+~
+0 -1 48810
+Z-1
+C-1
+S
+#48828
+{Y}Entrance to Kanga's{y}~
+{Y}
+  With a small window next to the front door,
+  Kanga's home appears quaint and cozy. On
+  the front door is tacked a picture drawn
+  by Roo that says 'Welcome'.
+{y}
+~
+488 1 3
+D2
+{C,BO}
+      ___  ___  ___  ___  ___  ___
+     /   \/   \/   \/   \/   \/   \
+     |                      {R}_     {C}|
+     |  {R}\    /  |     _    |_     {C}|
+     |   {R}\/\/ e |_ c |_| m |__    {C}|
+     |                            {C}| 
+     |       {W}O        O      O    {C}|      
+     |      {W}O{Y}*{W}O      O{Y}*{W}O    O{Y}*{W}O   {C}|          
+     |       {W}O        O      O    {C}|
+     |      {G}\|/      \|/    \|/   {C}|
+     \___/\___/\___/\___/\___/\___/
+{c,bo}
+~
+door~
+2 48816 48811
+D3
+~
+~
+0 -1 48890
+Z-1
+C-1
+S
+#48829
+{WH,BO}The Garden Gate{w,bo}~
+{WH,BO}
+  Small flowers pop up between the slats on either
+  side of the gate. Rabbit was quite particular about
+  where the gates would go and where the flowers 
+  should grow. Freshly white washed, the gate keeps
+  bouncing tiggers out of the garden. 
+{w,bo}
+~
+488 1 3
+D0
+~
+gate~
+2 48816 48812
+D1
+~
+~
+0 -1 48887
+D2
+~
+~
+0 -1 48888
+Z-1
+C-1
+S
+#48830
+{W}Entrance to Piglet's{w}~
+{W}
+  Piglet's front yard is made up of a patch of dirt
+  which turns to mud in the rain. There is a small
+  door on the tree trunk he calls home. The tree 
+  is quite large and piglet is quite small. Together,
+  the two make up the perfect combination.
+{w}  
+~
+488 1 3
+D1
+~
+door~
+2 48816 48814
+D3
+~
+~
+0 -1 48862
+Z-1
+C-1
+S
+#48831
+{Y,BO}Entrance to Pooh's{y,bo}~
+{Y,BO}
+  Pooh's home is built right into the side of 
+  a hill. The entrance is a round hole that
+  one has to jump up to enter. Green grass grows 
+  over the entrance and there is more grass
+  under foot.
+{y,bo}
+~
+488 1 3
+D2
+~
+latch~
+2 48816 48815
+D3
+~
+~
+0 -1 48865
+Z-1
+C-1
+S
+#48832
+{W}The Hall{w}~
+{W}
+  DONG! DONG! DONG! The grandfather clock calls down the 
+  hallway announcing its presence. The floral runner comes
+  to a halt right at its feet. With no windows in the hall,
+  the details of the clock are hard to see. For such a 
+  narrow space, this hall has been well decorated.
+{w}
+~
+488 9 3
+D0
+~
+pick~
+1 48817 48803
+D1
+~
+~
+0 -1 48835
+D2
+~
+door~
+2 48817 48805
+Z-1
+C-1
+S
+#48833
+{W}The Powder Room{w}~
+{W}
+  White tiled walls with white ceramic fixtures
+  are the theme of this bathroom. Even the faucet
+  is a white ceramic! The area rug on the floor
+  is white and the curtains on the window are
+  white. The soap is white and so is the toothpaste.
+  It's a very sterile environment.
+{w}
+~
+488 1 3
+D0
+~
+door~
+1 -1 48898
+Z-1
+C-1
+S
+#48834
+{W}The Stairs{w}~
+{W}
+  The wooden rails that line the stairs are supported
+  by white painted spindles. The steps are covered in 
+  a floral runner so that one doesn't slip on the way
+  up. There is a chandelier at the top of the case
+  lighting the way. It's not very fancy, but very 
+  functional.
+{w}
+~
+488 9 3
+D2
+~
+~
+0 -1 48899
+D4
+~
+~
+0 -1 48835
+Z-1
+C-1
+S
+#48835
+{W}The Stairs{w}~
+{W}
+  The wooden rails that line the stairs are supported
+  by white painted spindals. The steps are covered in 
+  a floral runner so that one doesn't slip on the way
+  up. There is a chandelier at the top of the case
+  lighting the way. It's not very fancy, but very 
+  functional.
+{w}
+~
+488 9 3
+D1
+~
+~
+0 -1 48898
+D3
+~
+~
+0 -1 48832
+D5
+~
+~
+0 -1 48834
+Z-1
+C-1
+S
+#48836
+{Y}A Path in the Hundred Acre Woods{y}~
+{G}
+  In the carefree days of any boy, a path in the
+  woods can become quite important. And just like{Y}
+  any other boy, Christopher Robin knows this path
+  quite well. Still, in the sun and warmth of a 
+  summery afternoon, it is easy to forget where{G} 
+  one is and just wander aimlessly for hours not
+  really caring if one will ever make it back.
+{g}
+~
+488 1 3
+D2
+~
+~
+0 -1 48853
+D3
+~
+~
+0 -1 48837
+Z-1
+C-1
+S
+#48837
+{Y}A Path in the Hundred Acre Woods{y}~
+{G}
+  In the carefree days of any boy, a path in the
+  woods can become quite important. And just like{Y}
+  any other boy, Christopher Robin knows this path
+  quite well. Still, in the sun and warmth of a 
+  summery afternoon, it is easy to forget where{G} 
+  one is and just wander aimlessly for hours not
+  really caring if one will ever make it back.
+{g}
+~
+488 1 3
+D1
+~
+~
+0 -1 48836
+D3
+~
+~
+0 -1 48824
+Z-1
+C-1
+S
+#48838
+{CY}The Reflecting Pool{c}~
+{C}
+  The creek that runs under Poohsticks Bridge{C,BO}
+  widens as it approaches the bridge and forms{c,bo}{C}
+  a sort of mystical, magical reflecting pool.{C,BO}
+  Here one can look deep into his own soul and{c,bo}{C}
+  find out the sort of person he is OR just{C,BO} 
+  skip a few rocks.
+{c,bo}
+~
+488 1081345 3
+D1
+~
+~
+0 -1 48839
+Z-1
+C-1
+S
+#48839
+{C}A Creek{c}~
+{C}
+  The creek's muddy bottom makes getting a 
+  good footing difficult. Any thing trying 
+  to stand will surely be washed way.
+{c}
+~
+488 1081345 3
+D1
+~
+~
+0 -1 48840
+Z-1
+C-1
+S
+#48840
+{C}A Creek{c}~
+{C}
+  The creek's muddy bottom makes getting a 
+  good footing difficult. Any thing trying 
+  to stand will surely be washed way.
+{c}
+~
+488 1081345 3
+D1
+~
+~
+0 -1 48841
+Z-1
+C-1
+S
+#48841
+{C}A Creek{c}~
+{C}
+  The creek's muddy bottom makes getting a 
+  good footing difficult. Any thing trying 
+  to stand will surely be washed way.
+{c}
+~
+488 1081345 3
+D1
+~
+~
+0 -1 48842
+Z-1
+C-1
+S
+#48842
+{C}A Creek{c}~
+{C}
+  The creek's muddy bottom makes getting a 
+  good footing difficult. Any thing trying 
+  to stand will surely be washed way.
+{c}
+~
+488 1081345 3
+D1
+~
+~
+0 -1 48851
+Z-1
+C-1
+S
+#48843
+{G}A Pine Tree{g}~
+{G}
+  A tall skinny trunk topped with long skinny branches
+  shades the area. The bark of the pine tree is rough 
+  and peels off in layers. The sun peeks through the 
+  thin needles as they soak up the rays of the sun. The 
+  ground is covered with golden needles that just couldn't 
+  hold on any longer.
+{g}
+~
+488 1 3
+D1
+~
+~
+0 -1 48875
+D3
+~
+~
+0 -1 48844
+Z3
+C-1
+S
+#48844
+{G}A Pine Tree{g}~
+{G}
+  A tall skinny trunk topped with long skinny branches
+  shades the area. The bark of the pine tree is rough 
+  and peels off in layers. The sun peeks through the 
+  thin needles as they soak up the rays of the sun. The 
+  ground is covered with golden needles that just couldn't 
+  hold on any longer.
+{g}
+~
+488 1 3
+D1
+~
+~
+0 -1 48843
+D2
+~
+~
+0 -1 48845
+D3
+~
+~
+0 -1 48847
+Z3
+C-1
+S
+#48845
+{G}A Pine Tree{g}~
+{G}
+  A tall skinny trunk topped with long skinny branches
+  shades the area. The bark of the pine tree is rough 
+  and peels off in layers. The sun peeks through the 
+  thin needles as they soak up the rays of the sun. The 
+  ground is covered with golden needles that just couldn't 
+  hold on any longer.
+{g}
+~
+488 1 3
+D0
+~
+~
+0 -1 48844
+D3
+~
+~
+0 -1 48846
+Z3
+C-1
+S
+#48846
+{G}A Pine Tree{g}~
+{G}
+  A tall skinny trunk topped with long skinny branches
+  shades the area. The bark of the pine tree is rough 
+  and peels off in layers. The sun peeks through the 
+  thin needles as they soak up the rays of the sun. The 
+  ground is covered with golden needles that just couldn't 
+  hold on any longer.
+{g}
+~
+488 1 3
+D0
+~
+~
+0 -1 48847
+D1
+~
+~
+0 -1 48845
+D3
+~
+~
+0 -1 48848
+Z3
+C-1
+S
+#48847
+{G}A Pine Tree{g}~
+{G}
+  A tall skinny trunk topped with long skinny branches
+  shades the area. The bark of the pine tree is rough 
+  and peels off in layers. The sun peeks through the 
+  thin needles as they soak up the rays of the sun. The 
+  ground is covered with golden needles that just couldn't 
+  hold on any longer.
+{g}
+~
+488 1 3
+D1
+~
+~
+0 -1 48844
+D2
+~
+~
+0 -1 48846
+Z3
+C-1
+S
+#48848
+{G}A Pine Tree{g}~
+{G}
+  A tall skinny trunk topped with long skinny branches
+  shades the area. The bark of the pine tree is rough 
+  and peels off in layers. The sun peeks through the 
+  thin needles as they soak up the rays of the sun. The 
+  ground is covered with golden needles that just couldn't 
+  hold on any longer.
+{g}
+~
+488 1 3
+D0
+~
+~
+0 -1 48854
+D1
+~
+~
+0 -1 48846
+D3
+~
+~
+0 -1 48886
+Z3
+C-1
+S
+#48849
+{Y,BO}T{W}h{Y}e{W} S{Y}a{W}n{Y}d{W}y{Y} P{W}i{Y}t{y,bo}~
+{Y,BO}
+  Sand. There is a lot of that here. The ground{W}
+  near the Hundred Acre Woods is sandy. The sun{Y} 
+  beats down and dries it out and leaves the{W} 
+  grains loose all over the pits. It's a perfect{Y}
+  spot for building castles or sliding or jumping.{W}
+{w,bo} 
+~
+488 1 3
+D0
+~
+~
+0 -1 48850
+D1
+~
+~
+0 -1 48889
+D2
+~
+~
+0 -1 48893
+Z-1
+C-1
+S
+#48850
+{Y,BO}T{W}h{Y}e{W} S{Y}a{W}n{Y}d{W}y{Y} P{W}i{Y}t{y,bo}~
+{Y,BO}
+  Sand. There is a lot of that here. The ground{W}
+  near the Hundred Acre Woods is sandy. The sun{Y} 
+  beats down and dries it out and leaves the{W} 
+  grains loose all over the pits. It's a perfect{Y}
+  spot for building castles or sliding or jumping.{W}
+{w,bo} 
+~
+488 1 3
+D0
+~
+~
+0 -1 48892
+D2
+~
+~
+0 -1 48849
+D3
+~
+~
+0 -1 48891
+Z-1
+C-1
+S
+#48851
+{BLU}T{Y}h{BLU}e {Y}F{BLU}l{Y}o{BLU}o{Y}d{BLU}y {Y}P{BLU}l{Y}a{BLU}c{Y}e{y}~
+{BLU}
+  Where the creek runs into the low lands, there is{Y}
+  a bit of a floody place. Not a lot can be done in{BLU}
+  such a place, but one should watch out for those{Y}
+  heffalumps and woozles. They are mysterious creatures{BLU}
+  and no one knows for sure just where one might{Y}
+  turn up.
+{y}
+~
+488 32769 3
+D1
+~
+~
+0 -1 48852
+Z-1
+C-1
+S
+#48852
+{BLU}T{Y}h{BLU}e {Y}F{BLU}l{Y}o{BLU}o{Y}d{BLU}y {Y}P{BLU}l{Y}a{BLU}c{Y}e{y}~
+{BLU}
+  Where the creek runs into the low lands, there is{Y}
+  a bit of a floody place. Not a lot can be done in{BLU}
+  such a place, but one should watch out for those{Y}
+  heffalumps and woozles. They are mysterious creatures{BLU}
+  and no one knows for sure just where one might{Y}
+  turn up.
+{y}
+~
+488 32769 3
+D0
+~
+~
+0 -1 48853
+D2
+~
+~
+0 -1 48862
+D3
+~
+~
+0 -1 48851
+Z-1
+C-1
+S
+#48853
+{BLU}T{Y}h{BLU}e {Y}F{BLU}l{Y}o{BLU}o{Y}d{BLU}y {Y}P{BLU}l{Y}a{BLU}c{Y}e{y}~
+{BLU}
+  Where the creek runs into the low lands, there is{Y}
+  a bit of a floody place. Not a lot can be done in{BLU}
+  such a place, but one should watch out for those{Y}
+  heffalumps and woozles. They are mysterious creatures{BLU}
+  and no one knows for sure just where one might{Y}
+  turn up.
+{y}
+~
+488 32769 3
+D0
+~
+~
+0 -1 48836
+D2
+~
+~
+0 -1 48852
+Z-1
+C-1
+S
+#48854
+{Y,BO}T{R}h{Y}E {R}T{Y}h{R}O{Y}t{R}F{Y}u{R}L {Y}S{R}p{Y}O{R}t{r,bo}~
+{Y,BO}
+  Everyone has to have a place to think. For Winnie-the-Pooh
+  this is the T{R}h{Y}E {R}T{Y}h{R}O{Y}t{R}F{Y}u{R}L {Y}S{R}p{Y}O{R}t{Y,BO}. Here one can sit all day long
+  very thoughtfully pondering whatever one chooses to ponder.
+  It is here that Pooh usually thinks up new ways of getting
+  honey or avoiding the nasty creatures of the forest.
+{y,bo} 
+~
+488 1 3
+D2
+~
+~
+0 -1 48848
+Z-1
+C-1
+S
+#48855
+{R,BO}Pooh's Trap for Heffalumps{r,bo}~
+{R,BO}
+{R,BO}
+{R,BO}
+{R,BO}
+{R,BO}
+{R,BO}
+{R,BO}
+                 Oh bother! This trap was for 
+                     Heffalumps not you!
+{R,BO}
+{R,BO}
+{R,BO}
+{R,BO}
+{R,BO}
+{R,BO}
+{R,BO}
+{r,bo}
+~
+488 3 9
+D1
+~
+~
+0 -1 48865
+Z-1
+C-1
+S
+#48856
+{BL,BO}Big Stones and Rocks{bl,bo}~
+{BL,BO}
+  Stones the size of boulders down to the smaller 
+  throwing size are stacked along the creek making
+  it more of a babbling brook. It's a beautiful
+  place to sit and enjoy the sun.
+{bl,bo}
+~
+488 1 3
+D0
+~
+~
+0 -1 48857
+D2
+~
+~
+0 -1 48894
+Z-1
+C-1
+S
+#48857
+{BL,BO}Big Stones and Rocks{bl,bo}~
+{BL,BO}
+  Stones the size of boulders down to the smaller 
+  throwing size are stacked along the creek making
+  it more of a babbling brook. It's a beautiful
+  place to sit and enjoy the sun.
+{bl,bo}
+~
+488 1 3
+D0
+~
+~
+0 -1 48858
+D2
+~
+~
+0 -1 48856
+Z-1
+C-1
+S
+#48858
+{BL,BO}Big Stones and Rocks{bl,bo}~
+{BL,BO}
+  Stones the size of boulders down to the smaller 
+  throwing size are stacked along the creek making
+  it more of a babbling brook. It's a beautiful
+  place to sit and enjoy the sun.
+{bl,bo}
+~
+488 1 3
+D0
+~
+~
+0 -1 48813
+D2
+~
+~
+0 -1 48857
+Z-1
+C-1
+S
+#48859
+{W}Rabbit's Friends and Relations{w}~
+{G}
+  In the forest lives the friends and relations of Rabbit.
+  Little homes and gardens full of life can be seen on both 
+  sides of the trail.  Today everyone seems to busy to stop
+  and talk.
+{g}  
+~
+488 1 3
+D2
+~
+~
+0 -1 48874
+Z-1
+C-1
+S
+#48860
+{W}Rabbit's Friends and Relations{w}~
+{G}
+  In the forest lives the friends and relations of Rabbit.
+  Little homes and gardens full of life can be seen on both 
+  sides of the trail.  Today everyone seems to busy to stop
+  and talk.
+{g}  
+~
+488 1 3
+D0
+~
+~
+0 -1 48874
+Z-1
+C-1
+S
+#48861
+{M,BO}Where the Woozle Wasn't{m,bo}~
+{M,BO}
+  When following foot prints and woozle fuzz, one must
+  be very careful that a woozle doesn't find him first.
+  Fortunately, the foot prints end and there is no
+  woozle insight. There is only some marsh grass, soggy
+  foot prints, and friends.  
+{m,bo}
+~
+488 5 3
+D1
+~
+~
+0 -1 48863
+Z-1
+C-1
+S
+#48862
+{Y}A Path in the Hundred Acre Woods{y}~
+{G}
+  In the carefree days of any boy, a path in the
+  woods can become quite important. And just like{Y}
+  any other boy, Christopher Robin knows this path
+  quite well. Still, in the sun and warmth of a 
+  summery afternoon, it is easy to forget where{G} 
+  one is and just wander aimlessly for hours not
+  really caring if one will ever make it back.
+{g}
+~
+488 1 3
+D0
+~
+~
+0 -1 48852
+D1
+~
+~
+0 -1 48830
+D2
+~
+~
+0 -1 48864
+D3
+~
+~
+0 -1 48863
+Z-1
+C-1
+S
+#48863
+{Y}A Path in the Hundred Acre Woods{y}~
+{G}
+  In the carefree days of any boy, a path in the
+  woods can become quite important. And just like{Y}
+  any other boy, Christopher Robin knows this path
+  quite well. Still, in the sun and warmth of a 
+  summery afternoon, it is easy to forget where{G} 
+  one is and just wander aimlessly for hours not
+  really caring if one will ever make it back.
+{g}
+~
+488 1 3
+D1
+~
+~
+0 -1 48862
+D3
+~
+~
+0 -1 48861
+Z-1
+C-1
+S
+#48864
+{Y}A Path in the Hundred Acre Woods{y}~
+{G}
+  In the carefree days of any boy, a path in the
+  woods can become quite important. And just like{Y}
+  any other boy, Christopher Robin knows this path
+  quite well. Still, in the sun and warmth of a 
+  summery afternoon, it is easy to forget where{G} 
+  one is and just wander aimlessly for hours not
+  really caring if one will ever make it back.
+{g}
+~
+488 1 3
+D0
+~
+~
+0 -1 48862
+D2
+~
+~
+0 -1 48865
+Z-1
+C-1
+S
+#48865
+{Y}A Path in the Hundred Acre Woods{y}~
+{G}
+  In the carefree days of any boy, a path in the
+  woods can become quite important. And just like{Y}
+  any other boy, Christopher Robin knows this path
+  quite well. Still, in the sun and warmth of a 
+  summery afternoon, it is easy to forget where{G} 
+  one is and just wander aimlessly for hours not
+  really caring if one will ever make it back.
+{g}
+~
+488 1 3
+D0
+~
+~
+0 -1 48864
+D1
+~
+~
+0 -1 48831
+D2
+~
+~
+0 -1 48875
+D3
+~
+~
+0 -1 48855
+Z-1
+C-1
+S
+#48866
+{Y}A Path in the Hundred Acre Woods{y}~
+{G}
+  In the carefree days of any boy, a path in the
+  woods can become quite important. And just like{Y}
+  any other boy, Christopher Robin knows this path
+  quite well. Still, in the sun and warmth of a 
+  summery afternoon, it is easy to forget where{G} 
+  one is and just wander aimlessly for hours not
+  really caring if one will ever make it back.
+{g}
+~
+488 5 3
+D0
+~
+~
+0 -1 48800
+D2
+~
+~
+0 -1 48867
+D3
+~
+~
+0 -1 49761
+M18
+Z-1
+C-1
+S
+#48867
+{Y}A Path in the Hundred Acre Woods{y}~
+{G}
+  In the carefree days of any boy, a path in the
+  woods can become quite important. And just like{Y}
+  any other boy, Christopher Robin knows this path
+  quite well. Still, in the sun and warmth of a 
+  summery afternoon, it is easy to forget where{G} 
+  one is and just wander aimlessly for hours not
+  really caring if one will ever make it back.
+{g}
+~
+488 1 3
+D0
+~
+~
+0 -1 48866
+D2
+~
+~
+0 -1 48868
+D3
+~
+~
+0 -1 48871
+Z-1
+C-1
+S
+#48868
+{Y}A Path in the Hundred Acre Woods{y}~
+{G}
+  In the carefree days of any boy, a path in the
+  woods can become quite important. And just like{Y}
+  any other boy, Christopher Robin knows this path
+  quite well. Still, in the sun and warmth of a 
+  summery afternoon, it is easy to forget where{G} 
+  one is and just wander aimlessly for hours not
+  really caring if one will ever make it back.
+{g}
+~
+488 1 3
+D0
+~
+~
+0 -1 48867
+D1
+~
+~
+0 -1 48876
+D2
+~
+~
+0 -1 48869
+Z-1
+C-1
+S
+#48869
+{Y}A Path in the Hundred Acre Woods{y}~
+{G}
+  In the carefree days of any boy, a path in the
+  woods can become quite important. And just like{Y}
+  any other boy, Christopher Robin knows this path
+  quite well. Still, in the sun and warmth of a 
+  summery afternoon, it is easy to forget where{G} 
+  one is and just wander aimlessly for hours not
+  really caring if one will ever make it back.
+{g}
+~
+488 1 3
+D0
+~
+~
+0 -1 48868
+D2
+~
+~
+0 -1 48870
+Z-1
+C-1
+S
+#48870
+{Y}A Path in the Hundred Acre Woods{y}~
+{G}
+  In the carefree days of any boy, a path in the
+  woods can become quite important. And just like{Y}
+  any other boy, Christopher Robin knows this path
+  quite well. Still, in the sun and warmth of a 
+  summery afternoon, it is easy to forget where{G} 
+  one is and just wander aimlessly for hours not
+  really caring if one will ever make it back.
+{g}
+~
+488 1 3
+D0
+~
+~
+0 -1 48869
+D2
+~
+~
+0 -1 48820
+Z-1
+C-1
+S
+#48871
+{Y}A Path in the Hundred Acre Woods{y}~
+{G}
+  In the carefree days of any boy, a path in the
+  woods can become quite important. And just like{Y}
+  any other boy, Christopher Robin knows this path
+  quite well. Still, in the sun and warmth of a 
+  summery afternoon, it is easy to forget where{G} 
+  one is and just wander aimlessly for hours not
+  really caring if one will ever make it back.
+{g}
+~
+488 1 3
+D1
+~
+~
+0 -1 48867
+D3
+~
+~
+0 -1 48872
+Z-1
+C-1
+S
+#48872
+{Y}A Path in the Hundred Acre Woods{y}~
+{G}
+  In the carefree days of any boy, a path in the
+  woods can become quite important. And just like{Y}
+  any other boy, Christopher Robin knows this path
+  quite well. Still, in the sun and warmth of a 
+  summery afternoon, it is easy to forget where{G} 
+  one is and just wander aimlessly for hours not
+  really caring if one will ever make it back.
+{g}
+~
+488 1 3
+D1
+~
+~
+0 -1 48871
+D2
+~
+~
+0 -1 48873
+Z-1
+C-1
+S
+#48873
+{Y}A Path in the Hundred Acre Woods{y}~
+{G}
+  In the carefree days of any boy, a path in the
+  woods can become quite important. And just like{Y}
+  any other boy, Christopher Robin knows this path
+  quite well. Still, in the sun and warmth of a 
+  summery afternoon, it is easy to forget where{G} 
+  one is and just wander aimlessly for hours not
+  really caring if one will ever make it back.
+{g}
+~
+488 5 3
+D0
+~
+~
+0 -1 48872
+D3
+~
+~
+0 -1 48874
+Z-1
+C-1
+S
+#48874
+{Y}A Path in the Hundred Acre Woods{y}~
+{G}
+  In the carefree days of any boy, a path in the
+  woods can become quite important. And just like{Y}
+  any other boy, Christopher Robin knows this path
+  quite well. Still, in the sun and warmth of a 
+  summery afternoon, it is easy to forget where{G} 
+  one is and just wander aimlessly for hours not
+  really caring if one will ever make it back.
+{g}
+~
+488 1 3
+D0
+~
+~
+0 -1 48859
+D1
+~
+~
+0 -1 48873
+D2
+~
+~
+0 -1 48860
+D3
+~
+~
+0 -1 48875
+Z-1
+C-1
+S
+#48875
+{Y}A Path in the Hundred Acre Woods{y}~
+{G}
+  In the carefree days of any boy, a path in the
+  woods can become quite important. And just like{Y}
+  any other boy, Christopher Robin knows this path
+  quite well. Still, in the sun and warmth of a 
+  summery afternoon, it is easy to forget where{G} 
+  one is and just wander aimlessly for hours not
+  really caring if one will ever make it back.
+{g}
+~
+488 1 3
+D0
+~
+~
+0 -1 48865
+D1
+~
+~
+0 -1 48874
+D3
+~
+~
+0 -1 48843
+Z-1
+C-1
+S
+#48876
+{G}T{G,BO}h{g,bo}{G}e {G,BO}H{g,bo}{G}u{G,BO}n{g,bo}{G}d{G,BO}r{g,bo}{G}e{G,BO}d{g,bo}{G} A{G,BO}c{g,bo}{G}r{G,BO}e {g,bo}{G}W{G,BO}o{g,bo}{G}o{G,BO}d{g,bo}{G}s{g}~
+{G}
+  Here in the {G,BO}H{bo,G}u{G,BO}n{bo,G}d{G,BO}r{bo,G}e{G,BO}d A{G,BO}c{bo,G}r{G,BO}e W{G,BO}o{bo,G}o{G,BO}d{bo,G}s a boy can climb
+  a tree, inspect the bugs, study creatures and
+  watch the clouds pass overhead. One never knows
+  what can be found up a tree until he climbs it
+  and peeks in every hole. Sometimes what one
+  expects to find in a hole isn't what is found
+  at all!
+{g}
+~
+488 1 3
+D1
+~
+~
+0 -1 48877
+D3
+~
+~
+0 -1 48868
+Z-1
+C-1
+S
+#48877
+{G}T{G,BO}h{g,bo}{G}e {G,BO}H{g,bo}{G}u{G,BO}n{g,bo}{G}d{G,BO}r{g,bo}{G}e{G,BO}d{g,bo}{G} A{G,BO}c{g,bo}{G}r{G,BO}e {g,bo}{G}W{G,BO}o{g,bo}{G}o{G,BO}d{g,bo}{G}s{g}~
+{G}
+  Here in the {G,BO}H{bo,G}u{G,BO}n{bo,G}d{G,BO}r{bo,G}e{G,BO}d A{G,BO}c{bo,G}r{G,BO}e W{G,BO}o{bo,G}o{G,BO}d{bo,G}s a boy can climb
+  a tree, inspect the bugs, study creatures and
+  watch the clouds pass overhead. One never knows
+  what can be found up a tree until he climbs it
+  and peeks in every hole. Sometimes what one
+  expects to find in a hole isn't what is found
+  at all!
+{g}
+~
+488 1 3
+D0
+~
+~
+0 -1 48878
+D1
+~
+~
+0 -1 48810
+D2
+~
+~
+0 -1 48879
+D3
+~
+~
+0 -1 48876
+Z-1
+C-1
+S
+#48878
+{G}T{G,BO}h{g,bo}{G}e {G,BO}H{g,bo}{G}u{G,BO}n{g,bo}{G}d{G,BO}r{g,bo}{G}e{G,BO}d{g,bo}{G} A{G,BO}c{g,bo}{G}r{G,BO}e {g,bo}{G}W{G,BO}o{g,bo}{G}o{G,BO}d{g,bo}{G}s{g}~
+{G}
+  Here in the {G,BO}H{bo,G}u{G,BO}n{bo,G}d{G,BO}r{bo,G}e{G,BO}d A{G,BO}c{bo,G}r{G,BO}e W{G,BO}o{bo,G}o{G,BO}d{bo,G}s a boy can climb
+  a tree, inspect the bugs, study creatures and
+  watch the clouds pass overhead. One never knows
+  what can be found up a tree until he climbs it
+  and peeks in every hole. Sometimes what one
+  expects to find in a hole isn't what is found
+  at all!
+{g}
+~
+488 1 3
+D1
+~
+~
+0 -1 48880
+D2
+~
+~
+0 -1 48877
+Z-1
+C-1
+S
+#48879
+{G}T{G,BO}h{g,bo}{G}e {G,BO}H{g,bo}{G}u{G,BO}n{g,bo}{G}d{G,BO}r{g,bo}{G}e{G,BO}d{g,bo}{G} A{G,BO}c{g,bo}{G}r{G,BO}e {g,bo}{G}W{G,BO}o{g,bo}{G}o{G,BO}d{g,bo}{G}s{g}~
+{G}
+  Here in the {G,BO}H{bo,G}u{G,BO}n{bo,G}d{G,BO}r{bo,G}e{G,BO}d A{G,BO}c{bo,G}r{G,BO}e W{G,BO}o{bo,G}o{G,BO}d{bo,G}s a boy can climb
+  a tree, inspect the bugs, study creatures and
+  watch the clouds pass overhead. One never knows
+  what can be found up a tree until he climbs it
+  and peeks in every hole. Sometimes what one
+  expects to find in a hole isn't what is found
+  at all!
+{g}
+~
+488 1 3
+D0
+~
+~
+0 -1 48877
+D1
+~
+~
+0 -1 48884
+Z-1
+C-1
+S
+#48880
+{G}T{G,BO}h{g,bo}{G}e {G,BO}H{g,bo}{G}u{G,BO}n{g,bo}{G}d{G,BO}r{g,bo}{G}e{G,BO}d{g,bo}{G} A{G,BO}c{g,bo}{G}r{G,BO}e {g,bo}{G}W{G,BO}o{g,bo}{G}o{G,BO}d{g,bo}{G}s{g}~
+{G}
+  Here in the {G,BO}H{bo,G}u{G,BO}n{bo,G}d{G,BO}r{bo,G}e{G,BO}d A{G,BO}c{bo,G}r{G,BO}e W{G,BO}o{bo,G}o{G,BO}d{bo,G}s a boy can climb
+  a tree, inspect the bugs, study creatures and
+  watch the clouds pass overhead. One never knows
+  what can be found up a tree until he climbs it
+  and peeks in every hole. Sometimes what one
+  expects to find in a hole isn't what is found
+  at all!
+{g}
+~
+488 1 3
+D1
+~
+~
+0 -1 48881
+D2
+~
+~
+0 -1 48810
+D3
+~
+~
+0 -1 48878
+Z-1
+C-1
+S
+#48881
+{G}T{G,BO}h{g,bo}{G}e {G,BO}H{g,bo}{G}u{G,BO}n{g,bo}{G}d{G,BO}r{g,bo}{G}e{G,BO}d{g,bo}{G} A{G,BO}c{g,bo}{G}r{G,BO}e {g,bo}{G}W{G,BO}o{g,bo}{G}o{G,BO}d{g,bo}{G}s{g}~
+{G}
+  Here in the {G,BO}H{bo,G}u{G,BO}n{bo,G}d{G,BO}r{bo,G}e{G,BO}d A{G,BO}c{bo,G}r{G,BO}e W{G,BO}o{bo,G}o{G,BO}d{bo,G}s a boy can climb
+  a tree, inspect the bugs, study creatures and
+  watch the clouds pass overhead. One never knows
+  what can be found up a tree until he climbs it
+  and peeks in every hole. Sometimes what one
+  expects to find in a hole isn't what is found
+  at all!
+{g}
+~
+488 1 3
+D2
+~
+~
+0 -1 48882
+D3
+~
+~
+0 -1 48880
+Z-1
+C-1
+S
+#48882
+{G}T{G,BO}h{g,bo}{G}e {G,BO}H{g,bo}{G}u{G,BO}n{g,bo}{G}d{G,BO}r{g,bo}{G}e{G,BO}d{g,bo}{G} A{G,BO}c{g,bo}{G}r{G,BO}e {g,bo}{G}W{G,BO}o{g,bo}{G}o{G,BO}d{g,bo}{G}s{g}~
+{G}
+  Here in the {G,BO}H{bo,G}u{G,BO}n{bo,G}d{G,BO}r{bo,G}e{G,BO}d A{G,BO}c{bo,G}r{G,BO}e W{G,BO}o{bo,G}o{G,BO}d{bo,G}s a boy can climb
+  a tree, inspect the bugs, study creatures and
+  watch the clouds pass overhead. One never knows
+  what can be found up a tree until he climbs it
+  and peeks in every hole. Sometimes what one
+  expects to find in a hole isn't what is found
+  at all!
+{g}
+~
+488 1 3
+D0
+~
+~
+0 -1 48881
+D2
+~
+~
+0 -1 48883
+D3
+~
+~
+0 -1 48810
+Z-1
+C-1
+S
+#48883
+{G}T{G,BO}h{g,bo}{G}e {G,BO}H{g,bo}{G}u{G,BO}n{g,bo}{G}d{G,BO}r{g,bo}{G}e{G,BO}d{g,bo}{G} A{G,BO}c{g,bo}{G}r{G,BO}e {g,bo}{G}W{G,BO}o{g,bo}{G}o{G,BO}d{g,bo}{G}s{g}~
+{G}
+  Here in the {G,BO}H{bo,G}u{G,BO}n{bo,G}d{G,BO}r{bo,G}e{G,BO}d A{G,BO}c{bo,G}r{G,BO}e W{G,BO}o{bo,G}o{G,BO}d{bo,G}s a boy can climb
+  a tree, inspect the bugs, study creatures and
+  watch the clouds pass overhead. One never knows
+  what can be found up a tree until he climbs it
+  and peeks in every hole. Sometimes what one
+  expects to find in a hole isn't what is found
+  at all!
+{g}
+~
+488 1 3
+D0
+~
+~
+0 -1 48882
+D3
+~
+~
+0 -1 48884
+Z-1
+C-1
+S
+#48884
+{G}T{G,BO}h{g,bo}{G}e {G,BO}H{g,bo}{G}u{G,BO}n{g,bo}{G}d{G,BO}r{g,bo}{G}e{G,BO}d{g,bo}{G} A{G,BO}c{g,bo}{G}r{G,BO}e {g,bo}{G}W{G,BO}o{g,bo}{G}o{G,BO}d{g,bo}{G}s{g}~
+{G}
+  Here in the {G,BO}H{bo,G}u{G,BO}n{bo,G}d{G,BO}r{bo,G}e{G,BO}d A{G,BO}c{bo,G}r{G,BO}e W{G,BO}o{bo,G}o{G,BO}d{bo,G}s a boy can climb
+  a tree, inspect the bugs, study creatures and
+  watch the clouds pass overhead. One never knows
+  what can be found up a tree until he climbs it
+  and peeks in every hole. Sometimes what one
+  expects to find in a hole isn't what is found
+  at all!
+{g}
+~
+488 1 3
+D0
+~
+~
+0 -1 48810
+D1
+~
+~
+0 -1 48883
+D3
+~
+~
+0 -1 48879
+Z-1
+C-1
+S
+#48885
+{R,BO}T{BL}i{R}g{BL}g{R}e{BL}r{R}'{BL}s {R}B{BL}o{R}u{BL}n{R}c{BL}i{R}n{BL}g {R}P{BL}l{R}a{BL}c{R}e{r}~
+{R,BO}
+  Though a TiGgEr will bounce just about anywhere and does,{BL,BO}
+  this is the 'bestest bouncing place'.Here there is nothing{R,BO}
+  to bounce into and only things to pounce off of like stumps{BL,BO}
+  and rocks and low tree branches. It's perfect for teaching{R,BO}
+  other tiggers to bounce too.
+{r,bo}
+~
+488 1 3
+D0
+~
+~
+0 -1 48818
+D2
+~
+~
+0 -1 48892
+Z-1
+C-1
+S
+#48886
+{Y}A Path in the Hundred Acre Woods{y}~
+{G}
+  In the carefree days of any boy, a path in the
+  woods can become quite important. And just like{Y}
+  any other boy, Christopher Robin knows this path
+  quite well. Still, in the sun and warmth of a 
+  summery afternoon, it is easy to forget where{G} 
+  one is and just wander aimlessly for hours not
+  really caring if one will ever make it back.
+{g}
+~
+488 1 3
+D0
+~
+~
+0 -1 48821
+D1
+~
+~
+0 -1 48848
+D3
+~
+~
+0 -1 48887
+Z-1
+C-1
+S
+#48887
+{Y}A Path in the Hundred Acre Woods{y}~
+{G}
+  In the carefree days of any boy, a path in the
+  woods can become quite important. And just like{Y}
+  any other boy, Christopher Robin knows this path
+  quite well. Still, in the sun and warmth of a 
+  summery afternoon, it is easy to forget where{G} 
+  one is and just wander aimlessly for hours not
+  really caring if one will ever make it back.
+{g}
+~
+488 1 3
+D1
+~
+~
+0 -1 48886
+D3
+~
+~
+0 -1 48829
+Z-1
+C-1
+S
+#48888
+{Y}A Path in the Hundred Acre Woods{y}~
+{G}
+  In the carefree days of any boy, a path in the
+  woods can become quite important. And just like{Y}
+  any other boy, Christopher Robin knows this path
+  quite well. Still, in the sun and warmth of a 
+  summery afternoon, it is easy to forget where{G} 
+  one is and just wander aimlessly for hours not
+  really caring if one will ever make it back.
+{g}
+~
+488 1 3
+D0
+~
+~
+0 -1 48829
+D3
+~
+~
+0 -1 48889
+Z-1
+C-1
+S
+#48889
+{Y}A Path in the Hundred Acre Woods{y}~
+{G}
+  In the carefree days of any boy, a path in the
+  woods can become quite important. And just like{Y}
+  any other boy, Christopher Robin knows this path
+  quite well. Still, in the sun and warmth of a 
+  summery afternoon, it is easy to forget where{G} 
+  one is and just wander aimlessly for hours not
+  really caring if one will ever make it back.
+{g}
+~
+488 1 3
+D1
+~
+~
+0 -1 48888
+D3
+~
+~
+0 -1 48849
+Z-1
+C-1
+S
+#48890
+{Y}A Path in the Hundred Acre Woods{y}~
+{G}
+  In the carefree days of any boy, a path in the
+  woods can become quite important. And just like{Y}
+  any other boy, Christopher Robin knows this path
+  quite well. Still, in the sun and warmth of a 
+  summery afternoon, it is easy to forget where{G} 
+  one is and just wander aimlessly for hours not
+  really caring if one will ever make it back.
+{g}
+~
+488 5 3
+D0
+~
+~
+0 -1 48893
+D1
+~
+~
+0 -1 48828
+Z-1
+C-1
+S
+#48891
+{Y}A Path in the Hundred Acre Woods{y}~
+{G}
+  In the carefree days of any boy, a path in the
+  woods can become quite important. And just like{Y}
+  any other boy, Christopher Robin knows this path
+  quite well. Still, in the sun and warmth of a 
+  summery afternoon, it is easy to forget where{G} 
+  one is and just wander aimlessly for hours not
+  really caring if one will ever make it back.
+{g}
+~
+488 1 3
+D1
+~
+~
+0 -1 48850
+D3
+~
+~
+0 -1 48826
+Z-1
+C-1
+S
+#48892
+{Y}A Path in the Hundred Acre Woods{y}~
+{G}
+  In the carefree days of any boy, a path in the
+  woods can become quite important. And just like{Y}
+  any other boy, Christopher Robin knows this path
+  quite well. Still, in the sun and warmth of a 
+  summery afternoon, it is easy to forget where{G} 
+  one is and just wander aimlessly for hours not
+  really caring if one will ever make it back.
+{g}
+~
+488 5 3
+D0
+~
+~
+0 -1 48885
+D2
+~
+~
+0 -1 48850
+Z-1
+C-1
+S
+#48893
+{Y,BO}T{W}h{Y}e{W} S{Y}a{W}n{Y}d{W}y{Y} P{W}i{Y}t{y,bo}~
+{Y,BO}
+  Sand. There is a lot of that here. The ground{W}
+  near the Hundred Acre Woods is sandy. The sun{Y} 
+  beats down and dries it out and leaves the{W} 
+  grains loose all over the pits. It's a perfect{Y}
+  spot for building castles or sliding or jumping.{W}
+{w,bo} 
+~
+488 1 3
+D0
+~
+~
+0 -1 48849
+D2
+~
+~
+0 -1 48890
+Z-1
+C-1
+S
+#48894
+{BL,BO}Edge of the Rocks{bl,bo}~
+{BL,BO}
+  Near the northern part of the forest, the path 
+  narrows and becomes most rocky. There's a sandy
+  {bl,bo}{Y}patch before the rocks where no grass grows. Here
+  one has to be quite careful not to lose a shoe
+  {BLU}or slip into the water.
+{blu}
+~
+488 1 3
+D0
+~
+~
+0 -1 48856
+D2
+~
+~
+0 -1 48818
+Z-1
+C-1
+S
+#48895
+{G}The Mud Room Door{g}~
+{G}
+  The large green door leading out from the mud room
+  into the side yard of the Robin's house is closed
+  tightly. Jiggling the handle one may only find that
+  the door is locked. Perhaps, the Robins are not at
+  home.
+{g}
+~
+488 1 3
+D2
+~
+~
+0 -1 48896
+Z-1
+C-1
+S
+#48896
+{W}A Footpath{w}~
+{W}
+  A green hose is wound up on the side of the house.
+  A watering can sits below the spicket on a bed of 
+  small stones. The bushes lining the path make a
+  great place when looking for a spot to hide during
+  a game of Hide-n-go Seek.
+{w}
+~
+488 1 3
+D0
+~
+~
+0 -1 48895
+D2
+~
+~
+0 -1 48897
+Z-1
+C-1
+S
+#48897
+{W}A Footpath{w}~
+{W}
+  Walking east around the front of the house, there
+  are flowers growing in front of the porch. There is
+  a climbing tree in the front yard to the other side
+  of the path. The stones underfoot are warm with the
+  heat of the sun.
+{w}
+~
+488 1 3
+D0
+~
+~
+0 -1 48896
+D3
+~
+~
+0 -1 48817
+Z-1
+C-1
+S
+#48898
+{W}The Hall{w}~
+{W}
+  This not so very long hallway ends almost immediately at a
+  mirror and two doors. The hardwood floors are lined with a
+  runner. Under the mirror is a small table with an antique
+  water pitcher and basin. The walls are simply white and have
+  no pictures or decorations. The hall seems too narrow for such
+  things anyhow.
+{w}
+~
+488 9 3
+D0
+~
+door~
+2 48817 48804
+D2
+~
+door~
+2 48817 48833
+D3
+~
+~
+0 -1 48835
+Z-1
+C-1
+S
+#48899
+{W}The Foyer{w}~
+{W}
+  Upon entering the Robin household, there are three directions
+  in which to head. First, there's the kitchen. Second, there's
+  the living room. Lastly, there's upstairs. However, which ever
+  way one chooses to go, Mrs. Robin asks that the house be kept
+  clean and neat. There is a handsome chair complete with a tall
+  back, mirror, hat and coat hooks to the left of the door.
+{w}
+~
+488 9 3
+D0
+~
+~
+0 -1 48834
+D1
+~
+~
+0 -1 48801
+D3
+~
+~
+0 -1 48802
+Z-1
+C-1
+S
+$~

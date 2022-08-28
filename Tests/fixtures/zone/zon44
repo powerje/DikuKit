@@ -1,0 +1,48 @@
+#44
+MALLINS QUEST(Loco)~
+4499 30 2
+*
+M 0  4401    18  4402    The minor alien
+D 0  4402     3     0    (W:OPEN) Narrowing path
+M 0  4401    18  4403    The minor alien
+M 0  4401    18  4403    The minor alien
+D 0  4403     1     0    (E:OPEN) Small clearing
+D 0  4403     3     1    (W:CLOSED) Small clearing
+D 0  4404     1     1    (E:CLOSED) APC
+D 0  4404     3     1    (W:CLOSED) APC
+D 0  4405     0     0    (N:OPEN) front of Station
+M 0  4499     7  4414    alien warrior
+D 0  4414     1     1    (E:CLOSED) Before the metal hatch
+D 0  4415     3     1    (W:CLOSED) landing field
+O 0  4404     1  4416    a glasscutter.
+D 0  4416     1     1    (E:CLOSED) closet
+D 0  4417     5     2    (D:LOCKED) Ionization Chamber
+M 0  4402     1  4450    The Alien Queen
+M 0  4401    18  4452    The minor alien
+M 0  4401    18  4452    The minor alien
+M 0  4499     7  4453    alien warrior
+M 0  4401    18  4454    The minor alien
+M 0  4401    18  4454    The minor alien
+M 0  4499     7  4455    alien warrior
+M 0  4499     7  4455    alien warrior
+M 0  4401    18  4457    The minor alien
+M 0  4401    18  4457    The minor alien
+M 0  4401    18  4457    The minor alien
+M 0  4498     1  4470    Mallin
+M 0  4499     7  4477    alien warrior
+M 0  4401    18  4477    The minor alien
+M 0  4401    18  4485    The minor alien
+M 0  4401    18  4485    The minor alien
+M 0  4401    18  4485    The minor alien
+M 0  4401    18  4486    The minor alien
+M 0  4401    18  4486    The minor alien
+M 0  4499     7  4487    alien warrior
+M 0  4499     7  4487    alien warrior
+M 0  4401    18  4489    The minor alien
+M 0  4401    18  4489    The minor alien
+D 0  4489     0     0    (N:OPEN) The Sulaco
+D 0  4490     2     0    (S:OPEN) Arms Depot
+M 0 29717     1  4497    {CY,BO}Emeril Lagase{c,bo}
+O 0  3088     3  4497    a large vending machine
+O 0  9812     2  4499    nothing
+$~

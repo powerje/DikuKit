@@ -1,0 +1,1607 @@
+#3601
+{bold}{RED}North entrance to the catacombs{bold}~
+ 
+   You see an eerie tunnel leading off to the south into utter
+   darkness. The ceiling is made up of old loose floorboards.
+   From these floorboards, beams of light illuminate a message
+   that has been scrawled on the wall. The message reads:
+  
+      Adventure for the strong yet calculating
+      Death for the weak and shallow
+      Treasure for the smart and lucky
+      Death for the stupid and accursed
+      {BOLD}{RED}IF YOU ARE DOING THE BC QUEST, TURN BACK AND GO BACK UP!{bold}
+ 
+   An ancient Glyph above the entrance keeps monsters from
+   wandering up from the catacombs.
+
+~
+36 4 1
+D1
+~
+~
+0 -1 5523
+D2
+~
+~
+0 -1 3602
+D4
+~
+floorboards boards~
+1 -1 6524
+Z3
+C-1
+S
+#3602
+{bold}{RED}Dark tunnel{bold}~
+ 
+   This part of the catacombs looks roughly hewn and man-made.
+   There is a large cross painted on the floor of the tunnel. There
+   is some sort of light coming from the south.  To the north a ray
+   of light comes in from a hole in the ceiling.
+ 
+~
+36 8 0
+D0
+~
+~
+0 -1 3601
+D2
+~
+~
+0 -1 3607
+E
+cross paint floor~
+The cross is a Templar's cross. It seems to have had a fresh coat of
+paint recently.~
+T3601
+Z3
+C-1
+S
+#3603
+{bold}{RED}Weapon training area{bold}~
+ 
+   This is a place for the Templars to keep up on their weapon
+   skills.  Much of the equipment looks old and worn but upon
+   further inspection seems quite sturdy. 
+
+~
+36 8 0
+D1
+~
+~
+0 -1 3604
+D2
+~
+~
+0 -1 3608
+Z3
+C-1
+S
+#3604
+{bold}{RED}Prayer training area{bold}~
+
+   The Templar's curious mix of religion and fighting is evident
+   here. A central painting depicts a cross composed of swords.
+   The elders teach the ancient art of prayer to the young pages.
+
+~
+36 8 0
+D1
+~
+~
+0 -1 3605
+D3
+~
+~
+0 -1 3603
+Z3
+C-1
+S
+#3605
+{bold}{RED}Junction of hallways{bold}~
+ 
+   Training facilities are to the west. To the south lies a hallway
+   which has doors every couple of feet.  This hallway appears to
+   be some sort of living quarters.  To the east the tunnel leads
+   back into the natural catacombs.
+ 
+~
+36 8 0
+D1
+~
+~
+0 -1 3606
+D2
+~
+~
+0 -1 3610
+D3
+~
+~
+0 -1 3604
+Z3
+C-1
+S
+#3606
+{bold}{RED}Hallway{bold}~
+ 
+   The tunnel transitions into an indoor hallway to the west.
+   To the east it looks awfully dark.
+
+~
+36 12 0
+D1
+~
+~
+0 -1 3607
+D3
+~
+~
+0 -1 3605
+Z3
+C-1
+S
+#3607
+{bold}{RED}Intersection{bold}~
+
+   The tunnel continues to the north and to the south. To the south
+   the tunnel becomes less hewn and more natural.  A passageway
+   lined with paneling leads west.
+
+~
+36 8 0
+D0
+~
+~
+0 -1 3602
+D2
+~
+~
+0 -1 3612
+D3
+~
+~
+0 -1 3606
+Z3
+C-1
+S
+#3608
+{bold}{RED}Pages' sleeping quarters{bold}~
+ 
+   Several bunk beds are lined up across the room.  It looks rather
+   sparse and there is little evidence of toys or games.  Most of
+   the desks are filled with books and papers of little interest.
+
+~
+36 8 0
+D0
+~
+~
+0 -1 3603
+D1
+~
+~
+0 -1 3609
+Z3
+C-1
+S
+#3609
+{bold}{RED}Templar knights sleeping quarters{bold}~
+ 
+   This is a huge room which is filled wall to wall with beds. 
+   Apparently all the low level knights are secluded into this one 
+   room where they sleep. A door on the south wall is labeled 
+   "Elders only!"
+ 
+~
+36 8 0
+D2
+~
+~
+0 -1 3613
+D3
+~
+~
+0 -1 3608
+Z3
+C-1
+S
+#3610
+{bold}{RED}A hallway{bold}~
+ 
+   The hallway leads north and south.  A door leads to a Templar's
+   room to the east.  The decorations look rather sparse here.
+ 
+~
+36 8 0
+D0
+~
+~
+0 -1 3605
+D1
+~
+~
+0 -1 3611
+D2
+~
+~
+0 0 3614
+Z3
+C-1
+S
+#3611
+{bold}{RED}A middle-aged templar's room{bold}~
+ 
+   This is a room furnished to a templar becoming a low level
+   scribe. No real amenities other than a communal sleeping
+   quarter. As far as you can tell he would be a rank equivalent
+   to a Sergeant.
+
+~
+36 8 0
+D3
+~
+~
+0 -1 3610
+Z3
+C-1
+S
+#3612
+{bold}{RED}Humid, damp tunnel{bold}~
+ 
+   As the tunnel leads south it gets more humid and damp.  Moss 
+   covers the walls and ferns even grow in the cracks here and 
+   there.  To the north it seems much more sterile.
+
+~
+36 9 2
+D0
+~
+~
+0 -1 3607
+D2
+~
+~
+0 -1 3619
+Z3
+C-1
+S
+#3613
+{bold}{RED}Administration room{bold}~
+ 
+   The elders gather here to discuss training strategies and count
+   their loot.  Unlike the lower and more humble templars, these elders
+   seem more greedy than saintly to you. An escape passage leads west.
+
+~
+36 8 0
+D0
+~
+~
+0 -1 3609
+D2
+~
+~
+0 -1 3616
+D3
+~
+~
+0 -1 3669
+Z3
+C-1
+S
+#3614
+{bold}{RED}A Hallway{bold}~
+ 
+   The hallway continues to become more important-looking as you
+   wander south.  A room to the east looks rather more pleasant
+   than some of the others.
+
+~
+36 8 0
+D0
+~
+~
+0 -1 3610
+D1
+~
+~
+0 -1 3615
+D2
+~
+~
+0 -1 3617
+Z3
+C-1
+S
+#3615
+{bold}{RED}Mid-level leader's room{bold}~
+ 
+   This is a rather nice looking room considering the drab
+   conditions down here. Through all the signs of decoration you
+   can still see evidence of water leaks.
+
+~
+36 8 0
+D3
+~
+~
+0 -1 3614
+Z3
+C-1
+S
+#3616
+{bold}{RED}Mess hall{bold}~
+ 
+   There is a huge table with an immaculate white table cloth
+   which stretches way off to the south. The room is kept
+   immaculately clean by the knights themselves.  They truly
+   believe that cleanliness is next to godliness.
+ 
+~
+36 8 0
+D0
+~
+~
+0 -1 3613
+D2
+~
+~
+0 -1 3623
+Z3
+C-1
+S
+#3617
+{bold}{RED}A hallway{bold}~
+ 
+   The hallway continues north and south.  A peculiar kind of glow
+   seems to come from somewhere further along the hallway to the
+   south. The room to the east looks like the lap of luxury.
+
+~
+36 8 0
+D0
+~
+~
+0 -1 3614
+D1
+~
+~
+0 -1 3618
+D2
+~
+~
+0 -1 3624
+Z3
+C-1
+S
+#3618
+{bold}{RED}High officer's room{bold}~
+ 
+   First thing you notice in this room is the pleasant aroma of
+   cedar.  All the paneling in the room is made of fine cedar.  A
+   painting of an elegant knight hangs on the wall.
+
+~
+36 8 0
+D3
+~
+~
+0 -1 3617
+E
+painting elegant knight~
+Something oddly familiar about the knight.  He carries a glowing sword
+with a silvery blade.
+~
+Z3
+C-1
+S
+#3619
+{bold}{RED}Mossy intersection{bold}~
+ 
+   There is a turn off to the passage here.  The main passage leads
+   north and south. To the south it seems to get impossibly darker.
+   To the east you hear... birds?  A small rivulet of water seeps
+   in from the passage east.  The air is very humid and damp here.
+
+~
+36 9 2
+D0
+~
+~
+0 -1 3612
+D1
+~
+~
+0 -1 3620
+D2
+~
+~
+0 -1 3626
+Z3
+C-1
+S
+#3620
+{bold}{RED}The holy grove{bold}~
+
+   A small grove of birches seem to grow from solid rock.  You hear
+   birds singing but you can not  see any.  A strange glow emanates
+   from a place somewhere to the southeast.
+
+~
+36 8 3
+D1
+~
+~
+0 -1 3621
+D3
+~
+~
+0 -1 3619
+Z3
+C-1
+S
+#3621
+{bold}{RED}The holy grove{bold}~
+ 
+   The trees seem real enough even though they take root in solid
+   rock. You hear other small animals scampering through the light
+   undergrowth yet you see nothing. The grove continues south, east
+   and west. 
+ 
+~
+36 8 3
+D1
+~
+~
+0 -1 3622
+D2
+~
+~
+0 -1 3627
+D3
+~
+~
+0 -1 3620
+Z3
+C-1
+S
+#3622
+{bold}{RED}The holy grove{bold}~
+ 
+   The trees seem real enough even though they take root in solid
+   rock. You hear other small animals scampering through the light
+   undergrowth yet you see nothing. The grove continues south, and
+   west. There is a glow coming from the south.
+
+~
+36 8 3
+D2
+~
+~
+0 -1 3628
+D3
+~
+~
+0 -1 3621
+Z3
+C-1
+S
+#3623
+{bold}{RED}Mess hall{bold}~
+ 
+   "Mess" isn't exactly the best word to describe this room.  On
+   the contrary, it is immaculate.  A very long table stretches 
+   way off to the north. A hallway is to the east.
+
+~
+36 8 0
+D0
+~
+~
+0 -1 3616
+D1
+~
+~
+0 -1 3624
+Z3
+C-1
+S
+#3624
+{bold}{RED}End of a hallway{bold}~
+ 
+   You hear voices coming from a room to the west.  The hallway
+   goes north. To the east lies a room which seems to glow with
+   power and piety.
+
+~
+36 8 0
+D0
+~
+~
+0 -1 3617
+D1
+~
+~
+0 -1 3625
+D3
+~
+~
+0 -1 3623
+Z3
+C-1
+S
+#3625
+{bold}{RED}Grand templar's room{bold}~
+ 
+   All the items in this room look ancient yet strangely very
+   powerful and rich. There is an aura of great holiness about
+   the room.
+
+~
+36 8 0
+D3
+~
+~
+0 -1 3624
+Z3
+C-1
+S
+#3626
+{bold}{RED}Very dark passage{bold}~
+ 
+   This room is so dark that even the most powerful magic lights
+   seem to barely illuminate the ground in front of you.  If its
+   possible it seems even darker to the south.  The passage also
+   leads back north.
+
+~
+36 9 2
+D0
+~
+~
+0 -1 3619
+D2
+~
+~
+0 -1 3630
+Z3
+C-1
+S
+#3627
+{bold}{RED}The holy grove{bold}~
+ 
+   The trees seem real enough even though they take root in solid
+   rock. You hear other small animals scampering through the light
+   undergrowth yet you see nothing. The grove continues north, and
+   east. There is a strange humming coming from the east.
+
+~
+36 8 3
+D0
+~
+~
+0 -1 3621
+D1
+~
+~
+0 -1 3628
+Z3
+C-1
+S
+#3628
+{bold}{RED}The holy grove{bold}~
+ 
+   All of a sudden all the mysterious sounds of the grove stop. Or
+   perhaps it is just the strange humming and glowing from a
+   clearing to the south drowning out everything else. 
+
+~
+36 8 3
+D0
+~
+~
+0 -1 3622
+D2
+a glowing forcefield with a small circular hole in it.
+~
+glow glowing field forcefield door~
+2 3601 3632
+D3
+~
+~
+0 -1 3627
+Z3
+C-1
+S
+#3629
+{bold}{RED}Very dark cave{bold}~
+ 
+   This room is so very dark that no one is quite sure what is in
+   it, so there is nothing really to describe except maybe the
+   powerful sense of evil coming from the east and the almost
+   overcoming urge to run to the west.
+
+~
+36 9 2
+D1
+~
+~
+0 -1 3630
+D3
+~
+~
+0 -1 3633
+Z3
+C-1
+S
+#3630
+{bold}{RED}Deep within the catacombs{bold}~
+ 
+   It stinks like a lair in here.  A rotten smell of human flesh
+   lingers.  You stumble over what you think are corpses in the
+   utter darkness. You sense an evil growl from somewhere in the
+   room. Maybe everywhere in the room... 
+
+~
+36 13 5
+D0
+~
+~
+0 -1 3626
+D1
+~
+~
+0 -1 3631
+D3
+~
+~
+0 -1 3629
+Z3
+C-1
+S
+#3631
+{bold}{RED}Very dark cavern{bold}~
+ 
+   The cavern is hard to describe due to the extreme magical
+   darkness. Probing with a light source seems to reveal nothing
+   but more darkness.
+
+~
+36 9 5
+D2
+~
+~
+0 -1 3634
+D3
+~
+~
+0 -1 3630
+Z3
+C-1
+S
+#3632
+{bold}{RED}The holy place{bold}~
+ 
+   A glowing stone lies in the center of the clearing.  You
+   recognize it as the stone of the Excalibur.  The brilliant 
+   glow makes it difficult to see if the Excalibur is there or not.
+   You might want to take a closer look if possible.
+
+~
+36 8 3
+D0
+a glowing forcefield with a small circular hole in it.
+~
+glow glowing field forcefield door~
+2 2001 3628
+Z3
+C-1
+S
+#3633
+{bold}{RED}Misty passageway{bold}~
+    
+   A chilling mist swirls about you making you feel threatened yet
+   at the same time you feel protected. The swirling mist makes it
+   tough to tell directions quite clearly, but you seem to be able
+   to go north or south. The mist gets denser to the south.
+
+~
+36 9 2
+D0
+~
+~
+0 -1 3629
+D2
+~
+~
+0 -1 3642
+Z3
+C-1
+S
+#3634
+{bold}{RED}Intersection of caverns{bold}~
+ 
+   This Cavern continues north, south, and east. The walls are made
+   of a bizarre mixture of many shiny crystals.
+
+~
+36 9 5
+D0
+~
+~
+0 -1 3631
+D1
+~
+~
+0 -1 3635
+D2
+~
+~
+0 -1 3644
+Z3
+C-1
+S
+#3635
+{bold}{RED}Entrance to the burial grounds{bold}~
+ 
+   You have entered what appears to be a burial ground of sorts.
+   The templars buried their dead here.  Chills go down your spine
+   as you feel something watching you.  You hear the random groan
+   of a ghost, the howl of a wraith, and the dry clanking of bones.
+
+~
+36 13 5
+D1
+~
+~
+0 -1 3636
+D3
+~
+~
+0 -1 3634
+Z3
+C-1
+S
+#3636
+{bold}{RED}The burial grounds{bold}~
+ 
+   Tombs to unknown warriors are laid in rows as far as the eye
+   can see.  To your horror many of the graves are desecrated
+   and empty. A gap in the rows of tombs leads south and there are
+   more graves to the east and west.
+
+~
+36 9 5
+D1
+~
+~
+0 -1 3637
+D2
+~
+~
+0 -1 3645
+D3
+~
+~
+0 -1 3635
+Z3
+C-1
+S
+#3637
+{bold}{RED}The burial grounds{bold}~
+ 
+   It seems as if many of the warriors could not stop fighting
+   even in death.  They fight amongst each other and flail at any
+   living being that would wander near.
+
+~
+36 9 5
+D1
+~
+~
+0 -1 3638
+D3
+~
+~
+0 -1 3636
+Z3
+C-1
+S
+#3638
+{bold}{RED}The burial grounds{bold}~
+  
+   Legions of skeletal warriors wander by and battle the enemy
+   even in death.  Old battle lines have been forgotten and new
+   ones made. It's a gruesome scene.
+
+~
+36 9 5
+D1
+~
+~
+0 -1 3639
+D3
+~
+~
+0 -1 3637
+Z3
+C-1
+S
+#3639
+{bold}{RED}New graves{bold}~
+ 
+   The tombs in this section seem somewhat more recent.  Rotting
+   zombie warriors groan and wail with blank stares.  You hear
+   sounds of digging off a bit to the south.
+
+~
+36 9 5
+D2
+~
+~
+0 -1 3647
+D3
+~
+~
+0 -1 3638
+Z3
+C-1
+S
+#3640
+{bold}{RED}Misty cavern{bold}~
+    
+   A chilling icy mist swirls about you.  The dampness and the
+   cold has become unbearable.  The walls of the cavern are several
+   feet thick with ice.  An icy wind blows from the south.
+
+~
+36 9 2
+D1
+~
+~
+0 -1 3641
+D2
+~
+~
+0 -1 3648
+Z3
+C-1
+S
+#3641
+{bold}{RED}Misty cavern{bold}~
+ 
+   The temperature is pleasant and mild here.  This is due to a
+   warm wind blowing in from the east and a chilly breeze blowing
+   in from the west. This creates a bizarre icy-steamy mist which
+   dances along the walls.
+
+~
+36 9 2
+D1
+~
+~
+0 -1 3642
+D3
+~
+~
+0 -1 3640
+Z3
+C-1
+S
+#3642
+{bold}{RED}Mist cavern{bold}~
+ 
+   A warm wind blows in from the east. The air is still stifling
+   hot in here despite the breeze. The mist seems thick enough to
+   be alive. . .
+
+~
+36 9 2
+D0
+~
+~
+0 -1 3633
+D1
+~
+~
+0 -1 3643
+D3
+~
+~
+0 -1 3641
+Z3
+C-1
+S
+#3643
+{bold}{RED}Waterfall of mist{bold}~
+     
+   River of hot mist pours down in a cascade from a hole in the
+   cavern.  It falls like water down from the heights like a
+   waterfall which creates beautiful swirls.  It causes a hot wind
+   to flow west.
+
+~
+36 9 2
+D3
+~
+~
+0 -1 3642
+E
+hole height waterfall cascade~
+The hole is much too high up for you to reach.
+~
+Z3
+C-1
+S
+#3644
+{bold}{RED}Huge multicolored tunnel{bold}~
+ 
+   The tunnel leads north and south.  To the north it opens up into a
+   large cavern. To the south there is an odd twinkling phenomenon.
+
+~
+36 9 2
+D0
+~
+~
+0 -1 3634
+D2
+~
+~
+0 -1 3650
+Z3
+C-1
+S
+#3645
+{bold}{RED}Desolate ruins{bold}~
+ 
+   Several mausoleums are here but have been defiled over the
+   years. Most have been torn down and burned by looters. Some
+   still seem to be intact to the south.  To the northwest is a
+   field of tombs of soldiers, now a battleground for the undead.
+
+~
+36 9 5
+D0
+~
+~
+0 -1 3636
+D2
+~
+~
+0 -1 3651
+Z3
+C-1
+S
+#3646
+{bold}{RED}Curators place{bold}~
+      
+   The undertaker, the historian and the curator used to be here.
+   Now they too have joined the legions of the undead.  From the
+   looks of the place they seem to have starved to death.  Rickety
+   stairs head down into a basement.
+
+~
+36 9 4
+D1
+~
+~
+0 -1 3647
+D5
+~
+~
+0 -1 3652
+E
+stairs basement~
+Suprisingly the stairs look sturdy enough.
+~
+Z3
+C-1
+S
+#3647
+{bold}{RED}Fresh graves{bold}~
+       
+   Graves of recent casualties lie here.  Even the most recent
+   ones don't seem to have been left undisturbed.  You hear sounds
+   of digging in progress further to the south.
+
+~
+36 9 4
+D0
+~
+~
+0 -1 3639
+D2
+~
+~
+0 -1 3653
+D3
+~
+~
+0 -1 3646
+Z3
+C-1
+S
+#3648
+{bold}{RED}Twisty cavern{bold}~
+ 
+   The path twists this way and that and it is all you can do to
+   keep your head from spinning.  The air is very cold here and
+   there are layers of ice on the wall. The sounds of metal on ice
+   echo through the cavern. A side passage leads east and the main
+   passage goes north and south.
+
+~
+36 9 2
+D0
+~
+~
+0 -1 3640
+D1
+~
+~
+0 -1 3649
+D2
+~
+~
+0 -1 3656
+Z3
+C-1
+S
+#3649
+{bold}{RED}Striped tunnel{bold}~
+        
+   The walls of the tunnels have many brilliant colors from the
+   various veins of crystals running in them.  An odd twinkling
+   comes from the east.
+
+~
+36 13 2
+D1
+~
+~
+0 -1 3650
+D3
+~
+~
+0 -1 3648
+Z3
+C-1
+S
+#3650
+{bold}{RED}Prism cave - Above a great Chasm{bold}~
+ 
+   The roof of this cave peaks over a hundred feet high making it
+   one of the biggest in the catacombs.  Crystals of every color
+   cast prismatic sprays of light everywhere.  The light from your
+   lamp causes almost a blinding flare of brilliance as more light
+   is added to the multi-colored twinkling phenomenon that exists
+   here. A newly formed Chasm opens up here.
+
+~
+36 264 5
+D0
+~
+~
+0 -1 3644
+D1
+~
+~
+0 -1 3658
+D2
+~
+~
+0 -1 3657
+D3
+~
+~
+0 -1 3649
+D5
+~
+~
+0 -1 3670
+T3670
+Z3
+C-1
+S
+#3651
+{bold}{RED}Ruined monument{bold}~
+            
+   A monument to a famous king once stood here. Not much is left
+   to even signify that it was here at all.  A building of some
+   sort can be entered through a basement to the east.  There is 
+   a gate to the south.
+
+~
+36 9 4
+D0
+~
+~
+0 -1 3645
+D1
+~
+~
+0 -1 3652
+D2
+~
+~
+0 -1 3654
+Z3
+C-1
+S
+#3652
+{bold}{RED}Basement{bold}~
+            
+   A monument to a famous king once stood here. Not much is left
+   to even signify that it was here at all.  A building of some
+   sort can be entered through a basement to the east.  There is 
+   a gate to the south.
+
+~
+36 9 4
+D3
+~
+~
+0 -1 3651
+D4
+~
+~
+0 -1 3646
+Z3
+C-1
+S
+#3653
+{bold}{RED}Fresh graves{bold}~
+ 
+   The graves here seem very recent.  You notice many signs of
+   digging and defilement.  There are piles of fresh bodies here
+   awaiting burial.  A strange sense of evil magic from the south
+   causes the hair on the back of your neck to stand on end!
+
+~
+36 9 4
+D0
+~
+~
+0 -1 3647
+D2
+~
+~
+0 -1 3655
+Z3
+C-1
+S
+#3654
+{bold}{RED}Southern gate{bold}~
+  
+   A rusty gate here no longer keeps anyone in or out.  You see a
+   lonely passage to the south.  A little used trail winds east
+   through a crack in the wall.
+
+~
+36 9 2
+D0
+~
+~
+0 -1 3651
+D1
+~
+~
+0 -1 3667
+D2
+~
+~
+0 -1 3659
+Z3
+C-1
+S
+#3655
+{bold}{RED}Scene of ghastly horror{bold}~
+ 
+   An army of undead creatures of all types are lined up in rows
+   and are waiting patiently. Their leader is an evil demonic
+   necromancer.  He plans to use his army of undead to take over the
+   world. Things seem about ready to get underway.
+
+~
+36 9 5
+D0
+~
+~
+0 -1 3653
+D2
+~
+~
+0 -1 3662
+Z3
+C-1
+S
+#3656
+{bold}{RED}Twisty passage{bold}~
+   
+   This passage bends all over the place, which disorients you
+   slightly. You seem to be able to go either north or east. You 
+   can not see where either path leads.
+
+~
+36 9 2
+D0
+~
+~
+0 -1 3648
+D1
+~
+~
+0 -1 3657
+Z3
+C-1
+S
+#3657
+{bold}{RED}Intersection of Tunnels{bold}~
+    
+   Several tunnels intersect here. There is a twisting passage to
+   the west, an odd twinkling coming from the north, and it is
+   unknown what lies to the south.
+
+~
+36 13 2
+D0
+~
+~
+0 -1 3650
+D2
+~
+~
+0 -1 3666
+D3
+~
+~
+0 -1 3656
+Z3
+C-1
+S
+#3658
+{bold}{RED}Lonely tunnel{bold}~
+ 
+   Something indescribable makes you feel lonesome and sad here.
+   It is just the feeling you get from this tunnel.  The tunnel
+   heads north and east.
+
+~
+36 13 2
+D0
+~
+~
+0 -1 3650
+D1
+~
+~
+0 -1 3659
+Z3
+C-1
+S
+#3659
+{bold}{RED}Lonely tunnel{bold}~
+ 
+   Something indescribable makes you feel lonesome and sad here.
+   You see a gate to a burial ground to the north.  This lonesome
+   tunnel continues along to the west and east.
+
+~
+36 9 2
+D0
+~
+~
+0 -1 3654
+D1
+~
+~
+0 -1 3660
+D3
+~
+~
+0 -1 3658
+Z3
+C-1
+S
+#3660
+{bold}{RED}Bend in the lonely tunnel{bold}~
+ 
+   Something indescribable makes you feel lonesome and sad here.
+   The tunnel bends west and south.
+
+~
+36 9 2
+D2
+~
+~
+0 -1 3661
+D3
+~
+~
+0 -1 3659
+Z3
+C-1
+S
+#3661
+{bold}{RED}Lonely tunnel{bold}~
+     
+   Something indescribable makes you feel lonesome and sad here.
+   The very walls of the tunnel seem to groan.  To the north the
+   tunnel bends. To the east there is an intersection.
+
+~
+36 9 2
+D0
+~
+~
+0 -1 3660
+D1
+~
+~
+0 -1 3662
+Z3
+C-1
+S
+#3662
+{bold}{RED}Intersection{bold}~
+      
+   A gruesome trail of blood and mangled body parts leads to the burial
+   grounds to the north. There is a path to the west. You are
+   overwhelmed with loneliness when you consider traveling in this
+   direction. There is a fresh breeze coming from the south, and you
+   realize it must lead out of this forsaken place.
+
+~
+36 9 2
+D0
+~
+~
+0 -1 3655
+D2
+~
+~
+0 -1 3663
+D3
+~
+~
+0 -1 3661
+Z3
+C-1
+S
+#3663
+{bold}{RED}Tunnel{bold}~
+ 
+   This tunnel leads north and south. To the north you can make out an
+   intersection. There is a fresh breeze coming from the south and when
+   you look in this direction, you can see a dim light.
+
+~
+36 9 2
+D0
+~
+~
+0 -1 3662
+D2
+~
+~
+0 -1 3664
+Z3
+C-1
+S
+#3664
+{bold}{RED}Tunnel{bold}~
+  
+   This tunnel runs north and south. To the north the tunnel slopes
+   down at a steep angle. The surface can be reached if you continue
+   to the south.
+
+~
+36 9 2
+D0
+~
+~
+0 -1 3663
+D2
+~
+~
+0 -1 3665
+Z3
+C-1
+S
+#3665
+{bold}{RED}Southern entrance to the catacombs{bold}~
+ 
+   Through a trapdoor above you streams light.  Through a doorway,
+   to the south, streams darkness.  A message has been scrawled
+   upon the wall here.  The message reads:
+ 
+      Adventure for the strong yet calculating
+      Death for the weak and shallow
+      Treasure for the smart and lucky
+      Death for the stupid and accursed
+      {BOLD}{RED}IF YOU ARE DOING THE BC QUEST, TURN BACK AND GO BACK UP!{bold}
+ 
+   An ancient Glyph above the entrance keeps monsters from wandering
+   up from the catacombs.
+
+~
+36 4 2
+D0
+~
+~
+0 -1 3664
+D4
+~
+floorboards boards~
+1 -1 6527
+Z3
+C-1
+S
+#3666
+{bold}{RED}Unknown passage{bold}~
+ 
+   Oh dear you seem to have lost your way.  You look back from
+   where you came but there is no exit there anymore.  There are
+   exits in other directions but you have a feeling that you are
+   hopelessly lost.
+
+~
+36 269 2
+D1
+~
+~
+0 -1 3667
+D2
+~
+~
+0 -1 3668
+Z3
+C-1
+S
+#3667
+{bold}{RED}Unknown passage{bold}~
+ 
+   Oh dear you seem to have lost your way.  You look back from
+   where you came but there is no exit there anymore.  There are
+   exits in other directions but you have a feeling that you are
+   hopelessly lost.
+
+~
+36 13 2
+D2
+~
+~
+0 -1 3669
+D3
+~
+~
+0 -1 3666
+Z3
+C-1
+S
+#3668
+{bold}{RED}Unknown passage{bold}~
+ 
+   Oh dear you seem to have lost your way.  You look back from
+   where you came but there is no exit there anymore.  There are
+   exits in other directions but you have a feeling that you are
+   hopelessly lost.
+
+~
+36 13 2
+D0
+~
+~
+0 -1 3666
+D1
+~
+~
+0 -1 3669
+Z3
+C-1
+S
+#3669
+{bold}{RED}Unknown passage{bold}~
+ 
+   Oh dear you seem to have lost your way.  You look back from
+   where you came but there is no exit there anymore.  There are
+   exits in other directions but you have a feeling that you are
+   hopelessly lost.
+
+~
+36 13 2
+D0
+~
+~
+0 -1 3667
+D3
+~
+~
+0 -1 3668
+Z3
+C-1
+S
+#3670
+{bold}{RED}Descending into the Chasm{bold}~
+ 
+   You can not believe the corpse of the dragon and the loot which
+   was on it fell into this enormous pit in the ground. You never
+   heard it actually hit the bottom but you feel like you must
+   press on. The air is thick, and you find it hard to breathe...
+
+~
+36 262408 1
+D4
+~
+~
+0 -1 3650
+D5
+~
+~
+0 -1 3671
+T3671
+Z3
+C-1
+S
+#3671
+{bold}{RED}Continuing down the Chasm{bold}~
+ 
+   The corpse of whatever it was you just killed also fell down
+   this cursed pit. As you continue to climb down, all light fades.
+   Your light seems to have no impact. Darkness is upon you.
+
+~
+36 262408 1
+D4
+~
+~
+0 -1 3670
+D5
+~
+~
+0 -1 3672
+T3672
+Z10
+C-1
+S
+#3672
+{bold}{RED}Angry Spirit of the Chasm{bold}~
+ 
+   It seems as if there is no bottom, nor no top, just one 
+   continuous pit. One could get lost in here, even if you where
+   a ghost. Just like the one who is now staring at you!
+
+~
+36 262152 1
+D4
+~
+~
+0 -1 3671
+D5
+~
+~
+0 -1 3673
+T3673
+Z11
+C-1
+S
+#3673
+{bold}{RED}Bottom of the Chasm{bold}~
+ 
+   You now stand at the bottom of this great chasm. The loot from
+   your conquest lies scattered around. Of course there is some
+   undead dude who thinks it all belongs to him.
+
+~
+36 262152 1
+D4
+~
+~
+0 -1 3672
+Z11
+C-1
+S
+$~

@@ -1,0 +1,2509 @@
+#49600
+{W,BO}Outside Eudelta{w,bo}~
+{W,BO}
+  As the Eudelta City limit is reached, the landscape
+  changes. The buildings have gone from skyscrapers
+  to small single family homes. The concrete has
+  turned to grass and life seems to have slowed
+  down. Y'all come back now. Ya hear? 
+{w,bo}
+~
+496 4 1
+D0
+~
+~
+0 -1 49601
+D2
+~
+~
+0 -1 49866
+D3
+~
+~
+0 -1 24300
+Z3
+C-1
+S
+#49601
+{G,BO}Valley Road{g,bo}~
+{Y,BO}
+  The countryside outside Eudelta is highly
+  cultivated farmland.  Large farms stretch the
+  length of the valley, mostly growing corn and
+  wheat.  The ever constant glow of lights from
+  the city is clearly visible to the south.  The
+  road continues north to south.
+{y,bo}
+~
+496 0 2
+D0
+~
+~
+0 -1 49602
+D2
+~
+~
+0 -1 49600
+Z3
+C-1
+S
+#49602
+{G,BO}Valley Road{g,bo}~
+{Y,BO}
+  The countryside outside Eudelta is highly
+  cultivated farmland.  Large farms stretch the
+  length of the valley, mostly growing corn and
+  wheat.  The ever constant glow of lights from
+  the city is clearly visible to the south.  The
+  road continues north to south.
+{y,bo}
+~
+496 0 2
+D0
+~
+~
+0 -1 49603
+D2
+~
+~
+0 -1 49601
+Z3
+C-1
+S
+#49603
+{G,BO}Valley Road{g,bo}~
+{G,BO}
+  The massive fields of Eudelta's large farms fill
+  the terrain along the highway.  Birds and insects
+  swarm around the ditches irrigating the fields
+  here, filling the valley air with life.  The road
+  runs north, eventually leading to the river that
+  marks the border between the Eudelta flatlands and
+  the northern regions.
+{g,bo}
+~
+496 0 2
+D0
+~
+~
+0 -1 49604
+D2
+~
+~
+0 -1 49602
+Z3
+C-1
+S
+#49604
+{G,BO}Valley Road{g,bo}~
+{G,BO}
+  The massive fields of Eudelta's large farms fill
+  the terrain along the highway.  Birds and insects
+  swarm around the ditches irrigating the fields
+  here, filling the valley air with life.  The road
+  runs north, eventually leading to the river that
+  marks the border between the Eudelta flatlands and
+  the northern regions.
+{g,bo}
+~
+496 0 2
+D0
+~
+~
+0 -1 49605
+D2
+~
+~
+0 -1 49603
+Z3
+C-1
+S
+#49605
+{G,BO}Valley Road{g,bo}~
+{Y}         /\                   /\    /\  /
+/\/\  /\/  \             /\  /  \/\/  \/
+ /  \/  \   \ {y}{Y,BO}______{y,bo}{Y}  /\/  \/    \ \   \
+/___/____\__ {y}{Y,BO}/_____/|{y,bo}{Y}/____________\_\___\_{y}
+{G,BO}*************{g,bo}{Y,BO}||{y,bo}{W,BO}/{w,bo}{Y,BO}  {y,bo}{W,BO}.{w,bo}{Y,BO}||{y,bo}{W,BO}/{w,bo}{G,BO}********************{g,bo}
+{BLU,BO}-------------{blu,bo}{Y,BO}|/  {y,bo}{W,BO}. {w,bo}{Y,BO}|/{y,bo}{BLU,BO}---------------------
+-------------{blu,bo}{Y,BO}'  {y,bo}{W,BO}.{w,bo}{Y,BO}  '{y,bo}{BLU,BO}----------------------{blu,bo}
+{G,BO}************{g,bo}{W,BO}/  .  /{w,bo}{G,BO}***********************
+***********{g,bo}{W,BO}/  .  /{w,bo}{G,BO}************************{g,bo}
+~
+496 0 2
+D0
+~
+~
+0 -1 49606
+D2
+~
+~
+0 -1 49604
+Z3
+C-1
+S
+#49606
+{Y}A Covered Bridge{y}~
+{Y}
+  Freshly refinished, this covered bridge is in good
+  repair. This bridge stands as a historical landmark
+  of days long gone. Ahead is the new border checkpoint
+  which replaced the bridge. The bridge itself is of 
+  solid cedar construction. Once it stood with just a 
+  coat of varnish, but today there is talk of painting
+  it red.
+{y}
+~
+496 8 0
+D0
+~
+~
+0 -1 49607
+D2
+~
+~
+0 -1 49605
+Z3
+C-1
+S
+#49607
+{W,BO}Border Checkpoint{w,bo}~
+{W,BO}
+  Approaching the provincial edges, all
+  are asked to stop while the Magistrate
+  checks things out. Ensuring that Eudelta's
+  integrity is left intact the Magistrate
+  opens the gate and lets traffic through.
+{w,bo}
+~
+496 128 1
+D0
+~
+Gate~
+1 -1 49609
+D1
+~
+~
+0 -1 49608
+D2
+~
+~
+0 -1 49606
+Z-1
+C-1
+S
+#49608
+{M}Magistrate's Office{m}~
+{MAG}
+  This one room office is barely big enough 
+  for two people. The metal walls have been
+  painted white. In the center of the room 
+  is a chair and small counter where the 
+  Magistrate sits filling out papers all day.
+{mag}
+~
+496 136 1
+D3
+~
+~
+0 -1 49607
+Z-1
+C-1
+S
+#49609
+{R}Dagret's Highway{r}~
+{Y}
+  The northern road called Dagret's Highway is
+  supposedly named for a Dwarven Magistrate from
+  ancient times who brought peace and prosperity
+  to the northern regions in times otherwise
+  known for war and suffering.  The highway runs
+  east to west through the hilly lands of the
+  northern regions.
+{y}
+~
+496 0 2
+D0
+~
+~
+0 -1 699
+D1
+~
+~
+0 -1 49618
+D2
+~
+Gate~
+1 -1 49607
+D3
+~
+~
+0 -1 49610
+Z3
+C-1
+S
+#49610
+{R}Dagret's Highway{r}~
+{Y}
+  The old paved roads of Dagret's highway run east
+  to west alongside a very long range of hills that
+  cover this part of the northern territories.  A
+  slight breeze blowing over the hills carries the
+  faint scent of the {y}{C}sea{c}{Y} from the west.
+{y}
+~
+496 0 2
+D1
+~
+~
+0 -1 49609
+D3
+~
+~
+0 -1 49611
+Z3
+C-1
+S
+#49611
+{R}Dagret's Highway{r}~
+{Y}
+  The old paved roads of Dagret's highway run east
+  to west alongside a very long range of hills that
+  cover this part of the northern territories.  A
+  slight breeze blowing over the hills carries the
+  faint scent of the {y}{C}sea{c}{Y} from the west.
+{y}
+~
+496 0 2
+D1
+~
+~
+0 -1 49610
+D3
+~
+~
+0 -1 49612
+Z3
+C-1
+S
+#49612
+{R}Dagret's Highway{r}~
+{Y}
+  The old paved roads of Dagret's highway run east
+  to west alongside a very long range of hills that
+  cover this part of the northern territories.  A
+  slight breeze blowing over the hills carries the
+  faint scent of the {y}{C}sea{c}{Y} from the west.
+{y}
+~
+496 0 2
+D1
+~
+~
+0 -1 49611
+D3
+~
+~
+0 -1 49613
+Z3
+C-1
+S
+#49613
+{R}Dagret's Highway{r}~
+{Y}  /\
+\/  \    _                                  /\
+     \__/ \__                __            /
+             \             _/  \          /
+              \{y}{C}___________{c}{Y}/     \{y}{C}________{c}{Y}/{y}{G}
+*****************{g}{B,BO}/{b,bo}{Y,BO}:{y,bo}{B,BO}\{b,bo}{G}**************************
+****************{g}{B,BO}/ {b,bo}{Y,BO}:{y,bo}{B,BO} \{b,bo}{G}*************************
+***************{g}{B,BO}/  {b,bo}{Y,BO}.{y,bo}{B,BO}  \{b,bo}{G}************************
+~
+496 0 2
+D1
+~
+~
+0 -1 49612
+D3
+~
+~
+0 -1 49614
+Z3
+C-1
+S
+#49614
+{R}Dagret's Highway{r}~
+{Y}  /\
+\/  \    _                                  /\
+     \__/ \__                __            /
+             \             _/  \          /
+              \{y}{C}___________{c}{Y}/     \{y}{C}________{c}{Y}/{y}{G}
+*****************{g}{B,BO}/{b,bo}{Y,BO}:{y,bo}{B,BO}\{b,bo}{G}**************************
+****************{g}{B,BO}/ {b,bo}{Y,BO}:{y,bo}{B,BO} \{b,bo}{G}*************************
+***************{g}{B,BO}/  {b,bo}{Y,BO}.{y,bo}{B,BO}  \{b,bo}{G}************************
+~
+496 0 2
+D1
+~
+~
+0 -1 49613
+D3
+~
+~
+0 -1 49615
+Z3
+C-1
+S
+#49615
+{R}Dagret's Highway{r}~
+
+{Y,BO}
+                       .
+           {y,bo}{CY}/\      {Y,BO}\   |   /                  {y,bo}{CY}/
+    {CY}_/\   /  \   {Y,BO}.  \  '  /   .  {y,bo}{CY}/\          /
+   {CY}/   \ /    \   {Y,BO}'.        ,'  {y,bo}{CY}/  \______  /
+  {CY}/     /      \ {Y,BO}_ _       _ _ {y,bo}{CY}/          \/
+{WH}_{CY}/{WH}______________{CY}\{WH}_________{WH}____{CY}/            \
+                      {BL,BO}/ \    {bl,bo}{CY}/             
+                     {BL,BO}/ | \             
+                    {BL,BO}/     \
+                   {BL,BO}/   |   \
+                  {BL,BO}/         \
+                 {BL,BO}/     |     \
+                {BL,BO}/             \
+               {BL,BO}/               \
+              {BL,BO}/        |        \
+             
+{bl,bo}
+~
+496 0 2
+D1
+~
+~
+0 -1 49614
+D3
+~
+~
+0 -1 49616
+Z3
+C-1
+S
+#49616
+{R}Dagret's Highway{r}~
+{Y}
+  The closer the highway gets to the ocean, the
+  less maintained the old road becomes.  The end
+  of the road here is marked by the remains of a
+  wooden fence, although it has long since been
+  rendered ineffective by both weather and 
+  wildlife to keeping anyone in or out of the beach.
+{y}
+~
+496 0 4
+D1
+~
+~
+0 -1 49615
+D3
+~
+~
+0 -1 49617
+Z3
+C-1
+S
+#49617
+{Y}A cliff overlooking the {y}{C}Ocean{c}~
+{Y}
+  Past the end of the road, the hilly countryside
+  comes abrubtly to an end.  Years of storms have
+  carved entire sides out of the land here, giving
+  an awesome view of the ocean and beach.  A dirt 
+  path carved into the cliff leads down to the 
+  beach.  Dagret's Highway is to the east.
+{y}
+~
+496 4 4
+D1
+~
+~
+0 -1 49616
+D5
+~
+~
+0 -1 49587
+Z3
+C-1
+S
+#49618
+{R}Dagret's Highway{r}~
+{Y}
+  Dagret's Highway is the main road for the
+  hilly northern territories above the Eudelta
+  flatlands.  The road curves around the
+  contours of the hills, raising slightly in
+  elevation the further east it goes.  The
+  road continues east and west.
+{y}
+~
+496 0 4
+D1
+~
+~
+0 -1 49619
+D3
+~
+~
+0 -1 49609
+Z3
+C-1
+S
+#49619
+{R}Dagret's Highway{r}~
+{Y}
+  Dagret's Highway is the main road for the
+  hilly northern territories above the Eudelta
+  flatlands.  The road curves around the
+  contours of the hills, raising slightly in
+  elevation the further east it goes.  The
+  road continues east and west.
+{y}
+~
+496 0 4
+D1
+~
+~
+0 -1 49620
+D3
+~
+~
+0 -1 49618
+Z3
+C-1
+S
+#49620
+{R}Dagret's Highway{r}~
+{Y}
+  As the road continues east, the immediate
+  terrain around the highway begins to level
+  out.  Snow and native grasses cover every-
+  thing here, whatever the season.  A massive
+  mountain range begins here, all of the peaks
+  reaching dizzying heights.  The road continues
+  east and west.
+{y}
+~
+496 0 4
+D1
+~
+~
+0 -1 49623
+D3
+~
+~
+0 -1 49619
+Z3
+C-1
+S
+#49621
+{G,BO}Northeast Highway{g,bo}~
+{Y}         /\                  /\    /\  /
+/\/\  /\/  \            /\  /  \/\/  \/
+ /  \/  \   \        /\/  \/    \ \   \
+/___/____\___\______/____________\_\___\___{y}
+{G,BO}**************{g,bo}{W,BO}/  :  \{w,bo}{G,BO}**********************
+*************{g,bo}{W,BO}/   :   \{w,bo}{G,BO}*********************
+************{g,bo}{W,BO}/    .    \{w,bo}{G,BO}********************
+***********{g,bo}{W,BO}/     .     \{w,bo}{G,BO}*******************
+~
+496 0 2
+D0
+~
+~
+0 -1 49622
+D2
+~
+~
+0 -1 49799
+Z3
+C-1
+S
+#49622
+{G,BO}Northeast Highway{g,bo}~
+{Y}         /\                  /\    /\  /
+/\/\  /\/  \            /\  /  \/\/  \/
+ /  \/  \   \        /\/  \/    \ \   \
+/___/____\___\______/____________\_\___\___{y}
+{G,BO}**************{g,bo}{W,BO}/  :  \{w,bo}{G,BO}**********************
+*************{g,bo}{W,BO}/   :   \{w,bo}{G,BO}*********************
+************{g,bo}{W,BO}/    .    \{w,bo}{G,BO}********************
+***********{g,bo}{W,BO}/     .     \{w,bo}{G,BO}*******************
+~
+496 0 2
+D0
+~
+~
+0 -1 49645
+D2
+~
+~
+0 -1 49621
+Z3
+C-1
+S
+#49623
+{R}Dagret's Highway{r}~
+{Y}          /\        /\              /\
+ /\      /{y}{W}*{w}{Y} \      /{y}{W}*{w}{Y} \/\    /\    /{y}{W}*{w}{Y} \/\
+/{y}{W}*{w}{Y} \    /{y}{W}*{w}{Y}/\ \  /\/\/\/  \/\/  \/\/{y}{W,BO}*{w,bo}{Y} /\  \/\/
+    \/\/{y}{W,BO}*{w,bo}{Y}/  \ \/   /      \ \   \{y}{W,BO}*{w,bo}{Y}  /  \
+       \/    \               \    {y}{W,BO}*{w,bo}{Y}     \{y}
+{W,BO}________{w,bo}{Y}\{y}{W,BO}_____{w,bo}{Y}\{y}{W,BO}_______________{w,bo}{Y}\{y}{W,BO}______________
+*********************************************
+{w,bo}{G}**{g}{W,BO}*******{w,bo}{G}**********{g}{W,BO}******{w,bo}{G}*{g}{W,BO}****{w,bo}{G}******{g}{W,BO}**{w,bo}{G}*******
+******{g}{W,BO}**{w,bo}{G}*************{g}{W,BO}*{w,bo}{G}***********************{g}
+{B,BO}---------------------------------------------{b,bo}{W,BO}
+_ _ _   _ _ _   _ _ _   _ _ _   _ _ _   _ _ _
+      '       '       '       '       '      {w,bo}
+~
+496 0 4
+D1
+~
+~
+0 -1 49624
+D3
+~
+~
+0 -1 49620
+Z3
+C-1
+S
+#49624
+{R}Dagret's Highway{r}~
+{Y}          /\        /\              /\
+ /\      /{y}{W}*{w}{Y} \      /{y}{W}*{w}{Y} \/\    /\    /{y}{W}*{w}{Y} \/\
+/{y}{W}*{w}{Y} \    /{y}{W}*{w}{Y}/\ \  /\/\/\/  \/\/  \/\/{y}{W,BO}*{w,bo}{Y} /\  \/\/
+    \/\/{y}{W,BO}*{w,bo}{Y}/  \ \/   /      \ \   \{y}{W,BO}*{w,bo}{Y}  /  \
+       \/    \               \    {y}{W,BO}*{w,bo}{Y}     \{y}
+{W,BO}________{w,bo}{Y}\{y}{W,BO}_____{w,bo}{Y}\{y}{W,BO}_______________{w,bo}{Y}\{y}{W,BO}______________
+*********************************************
+{w,bo}{G}**{g}{W,BO}*******{w,bo}{G}**********{g}{W,BO}******{w,bo}{G}*{g}{W,BO}****{w,bo}{G}******{g}{W,BO}**{w,bo}{G}*******
+******{g}{W,BO}**{w,bo}{G}*************{g}{W,BO}*{w,bo}{G}***********************{g}
+{B,BO}---------------------------------------------{b,bo}{W,BO}
+_ _ _   _ _ _   _ _ _   _ _ _   _ _ _   _ _ _
+      '       '       '       '       '      {w,bo}
+~
+496 0 4
+D1
+~
+~
+0 -1 49625
+D3
+~
+~
+0 -1 49623
+Z3
+C-1
+S
+#49625
+{R}Dagret's Highway{r}~
+{Y}
+  The backdrop of fresh fallen snow on the 
+  mountainous terrain, soft white clouds and
+  the gentle light of heaven warm the soul and
+  inspire all who enter the land.  The grasses
+  peek up from beneath the white blanket and a
+  rabbit gnaws on a few blades.
+{y}
+~
+496 0 4
+D1
+~
+~
+0 -1 49626
+D3
+~
+~
+0 -1 49624
+Z3
+C-1
+S
+#49626
+{R}Dagret's Highway{r}~
+{W,BO}
+  A thin blanket of snow covers the hilly
+  countryside beside Dagret's Highway.  Native
+  grasses and {w,bo}{G}pine trees{g}{W,BO} peek out from the
+  winter landscape, providing shelter for the
+  many animals who go unseen here.  The road
+  continues east and west, along the base of
+  the northern mountains.
+{w,bo}
+~
+496 0 4
+D1
+~
+~
+0 -1 49627
+D3
+~
+~
+0 -1 49625
+Z3
+C-1
+S
+#49627
+{R}Dagret's Highway{r}~
+{W,BO}
+  A thin blanket of snow covers the hilly
+  countryside beside Dagret's Highway.  Native
+  grasses and {w,bo}{G}pine trees{g}{W,BO} peek out from the
+  winter landscape, providing shelter for the
+  many animals who go unseen here.  The road
+  continues east and west, along the base of
+  the northern mountains.
+{w,bo}
+~
+496 0 4
+D1
+~
+~
+0 -1 49628
+D3
+~
+~
+0 -1 49626
+Z3
+C-1
+S
+#49628
+{R}Dagret's Highway{r}~
+{Y}
+  The backdrop of fresh fallen snow on the 
+  mountainous terrain, soft white clouds and
+  the gentle light of heaven warm the soul and
+  inspire all who enter the land.  The grasses
+  peek up from beneath the white blanket and a
+  rabbit gnaws on a few blades.
+{y}
+~
+496 0 4
+D1
+~
+~
+0 -1 49629
+D3
+~
+~
+0 -1 49627
+Z3
+C-1
+S
+#49629
+{R}Dagret's Highway{r}~
+{C}         /\                      /\
+  /\    /  \  /\    /\/\        /  \
+\/  \/\/    \/  \/\/  \ \  /\  /    \/\
+/    \ \{c}{W,BO}__/\     {w,bo}{C}\{c}{W,BO}     __{w,bo}{C}\/  \/        \ {c}{W,BO}__/\
+ __   {w,bo}{C}\{c}{W,BO}/    \__  __/\_/  \        __/\  /    \
+/  \__/        \/         \___/\_/    \/{w,bo}{W}
+_______________________________________{w}{W,BO}\{w,bo}{W}______{w}{W,BO}
+****{w,bo}{G}**{g}{W,BO}*************************************{w,bo}{G}***
+{g}{W,BO}**{w,bo}{G}******************{g}{W,BO}****************{w,bo}{G}**********{g}{B,BO}
+----------------------------------------------{b,bo}{Y,BO}
+ '  '  '  '  '  '  '  '  '  '  '  '  '  '  '{y,bo}
+~
+496 0 4
+D1
+~
+~
+0 -1 49630
+D3
+~
+~
+0 -1 49628
+D4
+~
+~
+0 -1 10500
+Z3
+C-1
+S
+#49630
+{R}Dagret's Highway{r}~
+{C}
+  The icy peaks of the northern mountains are very
+  clearly visible from this point of the highway,
+  all of them reaching staggering heights high above
+  the clouds.  The hills around the highway are all
+  covered in a blanket of {W,BO}snow{bo,C}, with {G}native grasses{C}
+  and {G}pine trees{C} peeking through the winter land-
+  scape.
+{c}
+~
+496 0 4
+D1
+~
+~
+0 -1 49631
+D3
+~
+~
+0 -1 49629
+Z3
+C-1
+S
+#49631
+{R}Dagret's Highway{r}~
+{C}               /\                            
+              /{c}{W,BO}*{w,bo}{C} \/\                    /\   
+         /\{c}{W,BO}__{w,bo}{C}/{c}{W,BO}*{w,bo}{C} _/_ \/\        /\  /\  /{c}{W,BO}*{w,bo}{C} \/\
+/\    /\/{c}{W,BO}*{w,bo}{C}  /{c}{W,BO}*{w,bo}{C} /   \/  \  /\/\/  \/{c}{W,BO}*{w,bo}{C} \/    \ \
+  \/\/{c}{W,BO}*{w,bo}{C} \{c}{W,BO}__{w,bo}{C}/{c}{W,BO}*{w,bo}{C} /\{c}{W,BO}*{w,bo}{C}  /    \/{W,BO}*{w,bo}{C} \     \/\       \
+   \/        /  \  {c}{W,BO}*{w,bo}{C}     \   \     \ \       \
+{c}{W}___{w}{C}/{c}{W}________{w}{C}/     {c}{W,BO}*{w,bo}{C}/\     \{c}{W}___________________{B,BO}
+: |{b,bo}{W,BO}********{w,bo}{C}/     {c}{W,BO}*{w,bo}{C}/  \     \{c}{W,BO}******************{w,bo}{B,BO}
+: |{b,bo}{G}****{g}{W,BO}********{w,bo}{G}**{C}/          \{W,BO}***************{w,bo}{G}**{B,BO}
+ : \{b,bo}{G}******{g}{W,BO}****{w,bo}{G}*************{W,BO}***********{w,bo}{G}********{g}{B,BO}
+\ . \{b,bo}{G}*****************************************{g}
+~
+496 0 4
+D1
+~
+~
+0 -1 49632
+D3
+~
+~
+0 -1 49630
+Z3
+C-1
+S
+#49632
+{R}Dagret's Highway{r}~
+ {Y}
+  Just south of here, the Northern Rail Train Depot
+  take passengers back and forth from Eudelta. The
+  station is not terribly busy and is in need of 
+  upgrading, but it is good for the use it gets. To
+  the north, there is mountain path. It's believed
+  that travellers once crossed the mountains to the
+  north and settled here in the valley. They brought 
+  little supplies, but much in the way of arts. No one
+  has yet been able to successfully cross the mountains.
+  So, the origin of the ancient travellers remains a 
+  mystery.
+{y}
+~
+496 0 4
+D0
+~
+~
+0 -1 49646
+D1
+~
+~
+0 -1 49633
+D2
+~
+~
+0 -1 49498
+D3
+~
+~
+0 -1 49631
+Z3
+C-1
+S
+#49633
+{R}Dagret's Highway{r}~
+{Y}
+  Dagret's Highway thaws as it heads east
+  meeting with Northeast Highway. This time
+  of year, traffic picks up as people head 
+  to the mountains or take the scenic route
+  to the coast. No matter what time of year 
+  it is though, Dagret's Highway is perfect
+  for relaxing and breathing in fresh air.
+{y}
+~
+496 0 4
+D1
+~
+~
+0 -1 49634
+D3
+~
+~
+0 -1 49632
+Z3
+C-1
+S
+#49634
+{R}Dagret's Highway{r}~
+{Y}
+  Dagret's Highway thaws as it heads east
+  meeting with Northeast Highway. This time
+  of year, traffic picks up as people head 
+  to the mountains or take the scenic route
+  to the coast. No matter what time of year 
+  it is though, Dagret's Highway is perfect
+  for relaxing and breathing in fresh air.
+{y}
+~
+496 0 4
+D1
+~
+~
+0 -1 49635
+D3
+~
+~
+0 -1 49633
+Z3
+C-1
+S
+#49635
+{G,BO}Northeast Highway{g,bo}~
+{Y}
+  The long road that makes up {G,BO}Northeast Highway{bo,Y}
+  finally ends here, blocked to the north by a
+  massive mountain range.  Another road connects
+  west at this point, marked by a very old sign
+  as the well-known {R}Dagret's Highway{Y}.  Travellers
+  often pass through here during the summer
+  season to visit the coast, or to vacation in
+  the tranquil rolling hills around Eudelta.
+{y}
+~
+496 0 4
+D2
+~
+~
+0 -1 49636
+D3
+~
+~
+0 -1 49634
+Z3
+C-1
+S
+#49636
+{G,BO}Northeast Highway{g,bo}~
+{Y}
+  As {G,BO}Northeast Highway{bo,Y} continues north, the hills that
+  make up the terrain of the northern territories start
+  getting bigger and bigger.  The road twists and turns
+  along the contours of these hills, making travelling
+  through here a bit slow.  Small trees dot the terrain
+  all along here, providing shade to travellers when one
+  needs to take a break.
+{y}
+~
+496 0 4
+D0
+~
+~
+0 -1 49635
+D2
+~
+~
+0 -1 49637
+Z3
+C-1
+S
+#49637
+{G,BO}Northeast Highway{g,bo}~
+{Y}
+  As this paved highway continues north, the terrain
+  becomes a bit more rough, and the native grasses
+  that grow so abundant in the lowlands thin out the
+  higher in elevation the highway gets.  The massive
+  snow-covered peaks that loom in the distance to the
+  northwest appear a bit closer now, surrounded by a
+  rolling range of hills that run along the length of
+  the northern territories.
+{y}
+~
+496 0 4
+D0
+~
+~
+0 -1 49636
+D2
+~
+~
+0 -1 49638
+Z3
+C-1
+S
+#49638
+{G,BO}Northeast Highway{g,bo}~
+{Y}
+  As this paved highway continues north, the terrain
+  becomes a bit more rough, and the native grasses
+  that grow so abundant in the lowlands thin out the
+  higher in elevation the highway gets.  The massive
+  snow-covered peaks that loom in the distance to the
+  northwest appear a bit closer now, surrounded by a
+  rolling range of hills that run along the length of
+  the northern territories.
+{y}
+~
+496 0 2
+D0
+~
+~
+0 -1 49637
+D2
+~
+~
+0 -1 49639
+Z3
+C-1
+S
+#49639
+{G,BO}Northeast Highway{g,bo}~
+{G,BO}
+  All along this paved highway, tall native grasses
+  sway slightly in the valley breeze.  The rolling
+  hills of the northern regions loom in the distance
+  all around, but even they are dwarfed by the massive
+  snow-covered peaks far to the north.
+{g,bo}
+~
+496 0 2
+D0
+~
+~
+0 -1 49638
+D2
+~
+~
+0 -1 49640
+Z3
+C-1
+S
+#49640
+{G,BO}Northeast Highway{g,bo}~
+{G,BO}
+  All along this paved highway, tall native grasses
+  sway slightly in the valley breeze.  The rolling
+  hills of the northern regions loom in the distance
+  all around, but even they are dwarfed by the massive
+  snow-covered peaks far to the north.
+{g,bo}
+~
+496 0 2
+D0
+~
+~
+0 -1 49639
+D1
+~
+~
+0 -1 25600
+D2
+~
+~
+0 -1 49641
+Z3
+C-1
+S
+#49641
+{G,BO}Northeast Highway{g,bo}~
+{Y}      _
+\_   / \                       /\
+  \ /   \  /\               /\/  \  /\ __  /
+   \/\   \/  \_____________/  /\  \/  /  \/ 
+      \___\___\{y}{G}****{g}{W,BO}/:\{w,bo}{G}****{g}{Y}/__/  \_/__/      
+/\     \{y}{G}**{g}{G,BO}********{g,bo}{W,BO}/ : \{w,bo}{G,BO}****{g,bo}{G}*{g}{Y}/    \_{y}{G}*{g}{Y}/   /\  
+  \     \{y}{G}*{g}{G,BO}*******{g,bo}{W,BO}/  :  \{w,bo}{G,BO}***{g,bo}{Y}/              \ {y}
+{G,BO}****************{g,bo}{W,BO}/   .   \{w,bo}{G,BO}*******************
+***************{g,bo}{W,BO}/    .    \{w,bo}{G,BO}******************{g,bo}
+~
+496 0 2
+D0
+~
+~
+0 -1 49640
+D2
+~
+~
+0 -1 49642
+Z3
+C-1
+S
+#49642
+{G,BO}Northeast Highway{g,bo}~
+{Y}      _
+\_   / \                       /\
+  \ /   \  /\               /\/  \  /\ __  /
+   \/\   \/  \_____________/  /\  \/  /  \/ 
+      \___\___\{y}{G}****{g}{W,BO}/:\{w,bo}{G}****{g}{Y}/__/  \_/__/      
+/\     \{y}{G}**{g}{G,BO}********{g,bo}{W,BO}/ : \{w,bo}{G,BO}****{g,bo}{G}*{g}{Y}/    \_{y}{G}*{g}{Y}/   /\  
+  \     \{y}{G}*{g}{G,BO}*******{g,bo}{W,BO}/  :  \{w,bo}{G,BO}***{g,bo}{Y}/              \ {y}
+{G,BO}****************{g,bo}{W,BO}/   .   \{w,bo}{G,BO}*******************
+***************{g,bo}{W,BO}/    .    \{w,bo}{G,BO}******************{g,bo}
+~
+496 0 2
+D0
+~
+~
+0 -1 49641
+D2
+~
+gate~
+1 -1 49643
+Z3
+C-1
+S
+#49643
+{W,BO}Border Checkpoint{w,bo}~
+{WH}
+  As dead as the town of Wellington,
+  this checkpoint is highly understaffed
+  and hardly ever used. Though there are
+  few people in this region, they are free
+  to come and go as they please.
+{wh}
+~
+496 128 1
+D0
+~
+gate~
+1 -1 49642
+D2
+~
+~
+0 -1 49644
+Z-1
+C-1
+S
+#49644
+{Y}A Wooden Bridge{y}~
+{Y}
+  The wooden slats on the bridge creak with
+  each step. The bridge is of a rather simple
+  design with arched side rails and crossing 
+  supports underneath. Eudelta is to the south
+  and to the north is Degret's Highway which 
+  leads far to the west.
+{y}
+~
+496 0 0
+D0
+~
+~
+0 -1 49643
+D2
+~
+~
+0 -1 49645
+Z3
+C-1
+S
+#49645
+{G,BO}Northeast Highway{g,bo}~
+{Y}         /\                   /\    /\  /
+/\/\  /\/  \             /\  /  \/\/  \/
+ /  \/  \   \         /\/  \/    \ \   \
+/___/____\__ \_______/____________\_\___\_{y}
+{G,BO}***************{g,bo}{W,BO}/  .  /{w,bo}{G,BO}********************{g,bo}
+{BLU,BO}--------------{blu,bo}{W,BO}|{w,bo}{Y}/////{y}{W,BO}|{w,bo}{BLU,BO}---------------------
+-------------{blu,bo}{W,BO}|{w,bo}{Y}/////{y}{W,BO}|{w,bo}{BLU,BO}----------------------{blu,bo}
+{G,BO}************{g,bo}{W,BO}/  .  /{w,bo}{G,BO}***********************
+***********{g,bo}{W,BO}/  .  /{w,bo}{G,BO}************************{g,bo}
+~
+496 0 2
+D0
+~
+~
+0 -1 49644
+D2
+~
+~
+0 -1 49622
+Z3
+C-1
+S
+#49646
+{B,BO}Mountain Path{b,bo}~
+{BL,BO}
+  In days of old and times since past, a
+  people from lands unknown travelled south 
+  over the mountains and into the lands which
+  are now known as Eudelta. They brought with 
+  them the skills and arts of their own people.
+  Over time, their arts have been lost but their
+  legends remain. One day, a great student may
+  rediscover these arts, and perhaps, the lands
+  from whence they came.
+{bl,bo}
+~
+496 0 5
+D0
+~
+~
+0 -1 49647
+D2
+~
+~
+0 -1 49632
+Z6
+C-1
+S
+#49647
+{B,BO}Mountain Path{b,bo}~
+{BL,BO}
+  This mountain path appears to be travelled much
+  as the rocky ground underfoot seems to wear away
+  with each visit and the groove that forms this 
+  rocky path deepens with time. The edge of this
+  path consists of steep rock cliffs and fir trees.
+  Small critters peek out of the branches while
+  the larger beasts keep their distance.
+{bl,bo}
+~
+496 0 5
+D0
+~
+~
+0 -1 49648
+D2
+~
+~
+0 -1 49646
+Z6
+C-1
+S
+#49648
+{B,BO}Mountain Path{b,bo}~
+{BL,BO}
+  On a Spring day, the road is soaked with fresh
+  melted snow which trickles down from the higher
+  points on the mountain. The roads are no longer 
+  in snow and ice, and small birds make their homes
+  in the cedars and birches which grow abundantly.
+{bl,bo}
+~
+496 0 5
+D0
+~
+~
+0 -1 49649
+D2
+~
+~
+0 -1 49647
+Z6
+C-1
+S
+#49649
+{B,BO}Fork in the Path{b,bo}~
+{BL,BO}
+  The path forks. Heading west and north some,
+  the Goblins have set up camp. While to the
+  east, the snowy path heads straight to the
+  top of the mountain where there is more snow
+  and ice. There is a GIANT cedar tree standing
+  straight ahead. With an eerie peace in the air,
+  which direction would be best?
+{bl,bo}
+~
+496 4 5
+D1
+~
+~
+0 -1 49650
+D2
+~
+~
+0 -1 49648
+D3
+~
+~
+0 -1 49677
+D4
+~
+~
+0 -1 22300
+Z6
+C-1
+S
+#49650
+{W,BO}Snowy Path{w,bo}~
+{W}
+                       /\
+                      /  \ /\
+           {GR}()        {Y}/    /  \ {GR}   ()
+     {GR}()   (  )      {Y}/    /    \{GR}  (  )
+    (  ) (    )   ()          ()(    )     ()
+   (    )      ) (  )        (  )     )   (  )
+  (      )      (    )  ()  (    )     ) (    )
+ (        )    (      )(  )(      )     (      )
+(          )  (       (    )       )   (        )
+{W,BO,REV}'. '  .   ' .   '   '..   '   '...    ' ...    '  . '{w,bo,rev} 
+~
+496 32 5
+D1
+~
+~
+0 -1 49651
+D3
+~
+~
+0 -1 49649
+Z3
+C-1
+S
+#49651
+{W,BO}Snowy Path{w,bo}~
+{W,BO}
+  Gently falling snow fills the cold air and
+  rests upon the boughs of nearby branches. There
+  is a peacefulness here. Ocassional howls of
+  the wolf pack or hoots of snow owls break the
+  silence. One thing is for sure, it is good to 
+  be alive.
+{w,bo}
+~
+496 32 5
+D1
+~
+~
+0 -1 49652
+D3
+~
+~
+0 -1 49650
+Z3
+C-1
+S
+#49652
+{W,BO}Snowy Path{w,bo}~
+{BL,BO}                               
+                    (){WH}
+    *                {bli}{BL,BO}(){WH}        *
+                    {BL,BO}(){bl,bo}{WH,BLI}                 *
+           *         {wh,bli}{BL,BO}(){WH} 
+                   _{R}|=|{WH}__________
+                  /              \     *
+                 /                \
+       *        /__________________\
+                 |{BLU}|  |{WH}| /--\ |{BLU}|  |{WH}|{BL,BO}
+             _-_{WH} |{BLU}|()|{WH}| | .| |{BLU}|()|{WH}|{BL} _-_{WH,BO}
+    *        ( ) |{BLU}|__|{WH,BO}|_|__|_|{BLU}|__|{WH,BO}| ( ) {WH,BO,BLI}*{bli}{WH}
+            (   )|-|-|-|{bo}===={WH,BO}|-|-|-|(   ) 
+           ^^^^^^^^^^^^^{bo}===={WH,BO}^^^^^^^^^^^^^
+  Suddenly snow comes whirling down over country side and town.
+  Kids take their mittens and off they go, they leave the house
+  to play in the snow. When they come in, they'll snuggle by the
+  fire, and rule and reign in their own empire.
+{wh,bo}
+~
+496 32 5
+D1
+~
+~
+0 -1 49653
+D3
+~
+~
+0 -1 49651
+Z3
+C-1
+S
+#49653
+{W,BO}Snowy Path{w,bo}~
+{W,BO}
+  Soft snow crushes and packs as travellers 
+  walk over the path. Travel is slow and at
+  times, the cold can be quite dangerous.
+  The sound of animals in the distance is
+  reassuring. Their barks and howls prove
+  that life is possible here.
+{w,bo}
+~
+496 32 5
+D1
+~
+~
+0 -1 49654
+D3
+~
+~
+0 -1 49652
+Z3
+C-1
+S
+#49654
+{W,BO}Snowy Path{w,bo}~
+{W,BO}
+  Soft snow crushes and packs as travellers 
+  walk over the path. Travel is slow and at
+  times, the cold can be quite dangerous.
+  The sound of animals in the distance is
+  reassuring. Their barks and howls prove
+  that life is possible here.
+{w,bo}
+~
+496 32 5
+D0
+~
+~
+0 -1 49655
+D3
+~
+~
+0 -1 49653
+Z3
+C-1
+S
+#49655
+{W,BO}Snowy Path{w,bo}~
+{W}
+                       /\
+                      /  \ /\
+           {GR}()        {Y}/    /  \ {GR}   ()
+     {GR}()   (  )      {Y}/    /    \{GR}  (  )
+    (  ) (    )   ()          ()(    )     ()
+   (    )      ) (  )        (  )     )   (  )
+  (      )      (    )  ()  (    )     ) (    )
+ (        )    (      )(  )(      )     (      )
+(          )  (       (    )       )   (        )
+{W,BO,REV}'. '  .   ' .   '   '..   '   '...    ' ...    '  . '{w,bo,rev} 
+~
+496 32 5
+D1
+~
+~
+0 -1 49656
+D2
+~
+~
+0 -1 49654
+Z3
+C-1
+S
+#49656
+{W,BO}Snowy Path{w,bo}~
+{W,BO}
+  Soft snow crushes and packs as travellers 
+  walk over the path. Travel is slow and at
+  times, the cold can be quite dangerous.
+  The sound of animals in the distance is
+  reassuring. Their barks and howls prove
+  that life is possible here.
+{w,bo}
+~
+496 32 5
+D0
+~
+~
+0 -1 49657
+D3
+~
+~
+0 -1 49655
+Z3
+C-1
+S
+#49657
+{W,BO}Snowy Path{w,bo}~
+{W,BO}
+  Gently falling snow fills the cold air and
+  rests upon the boughs of nearby branches. There
+  is a peacefulness here. Ocassional howls of
+  the wolf pack or hoots of snow owls break the
+  silence. One thing is for sure, it is good to 
+  be alive.
+{w,bo}
+~
+496 32 5
+D0
+~
+~
+0 -1 49658
+D2
+~
+~
+0 -1 49656
+Z5
+C-1
+S
+#49658
+{W,BO}Snowy Path{w,bo}~
+{BL,BO}                               
+                    (){WH}
+    *                {bli}{BL,BO}(){WH}        *
+                    {BL,BO}(){bl,bo}{WH,BLI}                 *
+           *         {wh,bli}{BL,BO}(){WH} 
+                   _{R}|=|{WH}__________
+                  /              \     *
+                 /                \
+       *        /__________________\
+                 |{BLU}|  |{WH}| /--\ |{BLU}|  |{WH}|{BL,BO}
+             _-_{WH} |{BLU}|()|{WH}| | .| |{BLU}|()|{WH}|{BL} _-_{WH,BO}
+    *        ( ) |{BLU}|__|{WH,BO}|_|__|_|{BLU}|__|{WH,BO}| ( ) {WH,BO,BLI}*{bli}{WH}
+            (   )|-|-|-|{bo}===={WH,BO}|-|-|-|(   ) 
+           ^^^^^^^^^^^^^{bo}===={WH,BO}^^^^^^^^^^^^^
+  Suddenly snow comes whirling down over country side and town.
+  Kids take their mittens and off they go, they leave the house
+  to play in the snow. When they come in, they'll snuggle by the
+  fire, and rule and reign in their own empire.
+{wh,bo}
+{W}
+~
+496 32 5
+D0
+~
+~
+0 -1 49659
+D2
+~
+~
+0 -1 49657
+Z5
+C-1
+S
+#49659
+{W,BO}Snowy Path{w,bo}~
+{W}
+                       /\
+                      /  \ /\
+           {GR}()        {Y}/    /  \ {GR}   ()
+     {GR}()   (  )      {Y}/    /    \{GR}  (  )
+    (  ) (    )   ()          ()(    )     ()
+   (    )      ) (  )        (  )     )   (  )
+  (      )      (    )  ()  (    )     ) (    )
+ (        )    (      )(  )(      )     (      )
+(          )  (       (    )       )   (        )
+{W,BO,REV}'. '  .   ' .   '   '..   '   '...    ' ...    '  . '{w,bo,rev} 
+~
+496 32 5
+D2
+~
+~
+0 -1 49658
+D4
+~
+~
+0 -1 49660
+Z5
+C-1
+S
+#49660
+{C,BO}Icy Path{c,bo}~
+{C,BO}
+  The path splits east and west here.
+  The trees grow shorter the colder and
+  higher the mountain gets. The once 
+  snow-covered mountain is now very icy.
+  It is difficult to walk, but it is
+  manageable.
+{c,bo}
+~
+496 32 5
+D1
+~
+~
+0 -1 49661
+D3
+~
+~
+0 -1 49675
+D5
+~
+~
+0 -1 49659
+Z6
+C-1
+S
+#49661
+{C,BO}Icy Path{c,bo}~
+{CY,BO}
+  Winding up the mountain on an icy path,
+  the trees grow smaller and the air grows
+  colder. The reflection of the moon off the
+  snow and ice is the only light available
+  in the far north. Living in these conditions
+  is unthinkable. 
+{CY,BO}
+~
+496 32 5
+D0
+~
+~
+0 -1 49662
+D3
+~
+~
+0 -1 49660
+Z6
+C-1
+S
+#49662
+{C,BO}Icy Slope{c,bo}~
+{C,BO}
+    H
+      O             The icy path has become  
+        L           very difficult to walk. 
+          D         For the first time, not
+                    even nearby branches 
+         O          are helpful. Why does
+           N        there have to be so many
+                    rocks?
+          T
+            I
+              G
+                H
+                  T
+{c,bo}
+~
+496 1048608 5
+D0
+~
+~
+0 -1 49663
+Z6
+C-1
+S
+#49663
+{C,BO}Icy Slope{c,bo}~
+{C,BO}
+    H
+      O             The icy path has become  
+        L           very difficult to walk. 
+          D         For the first time, not
+                    even nearby branches 
+         O          are helpful. Why does
+           N        there have to be so many
+                    rocks?
+          T
+            I
+              G
+                H
+                  T
+{c,bo}
+~
+496 1048608 5
+D0
+~
+~
+0 -1 49664
+Z6
+C-1
+S
+#49664
+{C,BO}Frozen {c,bo}{BLU,BO}Lake{blu,bo}~
+{WH}
+                       /\
+                      /  \ /\{GR}
+           ()        {Y}/    /  \{GR}    ()
+     ()   (  )     {Y} /    /    \{GR}  (  )
+    (  ) (    )   ()          ()(    )     ()
+   (    )      ) (  )        (  )     )   (  )
+  (      )      (    )  ()  (    )     ) (    )
+ (        )    (      )(  )(      )     (      )
+(          )  (       (    )       )   (        ){WH,BO,REV}
+'. '  .   ' .   '   '..   '   '...    ' ...    '  . ' {wh,bo,rev}{CY,BO,REV}
+_____________________________________________________
+{cy,bo,rev}
+~
+496 32 5
+D0
+~
+~
+0 -1 49665
+D4
+~
+~
+0 -1 49661
+Z6
+C-1
+S
+#49665
+{C,BO}Frozen {c,bo}{BLU,BO}Lake{blu,bo}~
+{WH}
+                       /\
+                      /  \ /\{GR}
+           ()        {Y}/    /  \{GR}    ()
+     ()   (  )     {Y} /    /    \{GR}  (  )
+    (  ) (    )   ()          ()(    )     ()
+   (    )      ) (  )        (  )     )   (  )
+  (      )      (    )  ()  (    )     ) (    )
+ (        )    (      )(  )(      )     (      )
+(          )  (       (    )       )   (        ){WH,BO,REV}
+'. '  .   ' .   '   '..   '   '...    ' ...    '  . ' {wh,bo,rev}{CY,BO,REV}
+_____________________________________________________
+{cy,bo,rev}
+~
+496 32 5
+D0
+~
+~
+0 -1 49666
+D1
+~
+~
+0 -1 49667
+D2
+~
+~
+0 -1 49664
+D3
+~
+~
+0 -1 49668
+D5
+~
+~
+0 -1 49669
+Z6
+C-1
+S
+#49666
+{C,BO}Frozen {c,bo}{BLU,BO}Lake{blu,bo}~
+{WH}
+                       /\
+                      /  \ /\{GR}
+           ()        {Y}/    /  \{GR}    ()
+     ()   (  )     {Y} /    /    \{GR}  (  )
+    (  ) (    )   ()          ()(    )     ()
+   (    )      ) (  )        (  )     )   (  )
+  (      )      (    )  ()  (    )     ) (    )
+ (        )    (      )(  )(      )     (      )
+(          )  (       (    )       )   (        ){WH,BO,REV}
+'. '  .   ' .   '   '..   '   '...    ' ...    '  . ' {wh,bo,rev}{CY,BO,REV}
+_____________________________________________________
+{cy,bo,rev}
+~
+496 32 5
+D2
+~
+~
+0 -1 49665
+Z6
+C-1
+S
+#49667
+{C,BO}Frozen {c,bo}{BLU,BO}Lake{blu,bo}~
+{WH}
+                       /\
+                      /  \ /\{GR}
+           ()        {Y}/    /  \{GR}    ()
+     ()   (  )     {Y} /    /    \{GR}  (  )
+    (  ) (    )   ()          ()(    )     ()
+   (    )      ) (  )        (  )     )   (  )
+  (      )      (    )  ()  (    )     ) (    )
+ (        )    (      )(  )(      )     (      )
+(          )  (       (    )       )   (        ){WH,BO,REV}
+'. '  .   ' .   '   '..   '   '...    ' ...    '  . ' {wh,bo,rev}{CY,BO,REV}
+_____________________________________________________
+{cy,bo,rev}
+~
+496 32 5
+D3
+~
+~
+0 -1 49665
+Z6
+C-1
+S
+#49668
+{C,BO}Frozen {c,bo}{BLU,BO}Lake{blu,bo}~
+{WH}
+                       /\
+                      /  \ /\{GR}
+           ()        {Y}/    /  \{GR}    ()
+     ()   (  )     {Y} /    /    \{GR}  (  )
+    (  ) (    )   ()          ()(    )     ()
+   (    )      ) (  )        (  )     )   (  )
+  (      )      (    )  ()  (    )     ) (    )
+ (        )    (      )(  )(      )     (      )
+(          )  (       (    )       )   (        ){WH,BO,REV}
+'. '  .   ' .   '   '..   '   '...    ' ...    '  . ' {wh,bo,rev}{CY,BO,REV}
+_____________________________________________________
+{cy,bo,rev}
+~
+496 32 5
+D1
+~
+~
+0 -1 49665
+D5
+~
+~
+0 -1 502
+Z6
+C-1
+S
+#49669
+{C}Under the {c}{C,BO}Frozen {c,bo}{BLU,BO}Lake{blu,bo}~
+{CY,BO,REV}
+_______________________________________________{cy,bo,rev}{CY,REV}
+                                               
+  Overhead is nothing but crisp, cold ice.     
+  This is not a great place to be as there     
+  is little chance for escape. Life in the     
+  frozen lake is limited to a few strange      
+  water animals that have never been seen      
+  before.                                      
+{cy,rev}
+~
+496 32 10
+D0
+~
+~
+0 -1 49670
+D1
+~
+~
+0 -1 49671
+D4
+~
+~
+0 -1 49665
+Z8
+C-1
+S
+#49670
+{C}Under the {c}{C,BO}Frozen {c,bo}{BLU,BO}Lake{blu,bo}~
+{CY,BO,REV}
+_______________________________________________{cy,bo,rev}{CY,REV}
+                                               
+  Overhead is nothing but crisp, cold ice.     
+  This is not a great place to be as there     
+  is little chance for escape. Life in the     
+  frozen lake is limited to a few strange      
+  water animals that have never been seen      
+  before.                                      
+{cy,rev}
+~
+496 32 10
+D1
+~
+~
+0 -1 49672
+D2
+~
+~
+0 -1 49669
+Z8
+C-1
+S
+#49671
+{C}Under the {c}{C,BO}Frozen {c,bo}{BLU,BO}Lake{blu,bo}~
+{CY,BO,REV}
+_______________________________________________{cy,bo,rev}{CY,REV}
+                                               
+  Overhead is nothing but crisp, cold ice.     
+  This is not a great place to be as there     
+  is little chance for escape. Life in the     
+  frozen lake is limited to a few strange      
+  water animals that have never been seen      
+  before.                                      
+{cy,rev}
+~
+496 32 10
+D0
+~
+~
+0 -1 49672
+D3
+~
+~
+0 -1 49669
+Z8
+C-1
+S
+#49672
+{C}Under the {c}{C,BO}Frozen {c,bo}{BLU,BO}Lake{blu,bo}~
+{CY,BO,REV}
+_______________________________________________{cy,bo,rev}{CY,REV}
+                                               
+  Overhead is nothing but crisp, cold ice.     
+  This is not a great place to be as there     
+  is little chance for escape. Life in the     
+  frozen lake is limited to a few strange      
+  water animals that have never been seen      
+  before.                                      
+{cy,rev}
+~
+496 32 10
+D2
+~
+~
+0 -1 49671
+D3
+~
+~
+0 -1 49670
+D5
+~
+~
+0 -1 49673
+Z8
+C-1
+S
+#49673
+{C}Underwater {c}{B,BO}Cave{b,bo}~
+{CY}
+  There is a hole in the cold jagged rock.
+  Once through this hole, there is no light.
+  The chill of the water makes it hard to
+  move. There is no life in the cave. Feeling
+  around, it appears to be empty. Why is this
+  cave here? 
+{cy}
+~
+496 40 10
+D0
+~
+~
+0 -1 49674
+D4
+~
+~
+0 -1 49672
+Z10
+C-1
+S
+#49674
+{C}Underwater {c}{B,BO}Cave{b,bo}~
+{CY}
+  The cave no longer appears to be empty.
+  Feeling around, a blob of cold flesh
+  moves. Small bubbles float up toward the
+  hole of the cave. With no light in the
+  cave, it is hard to tell what is moving
+  around down here and how many there are.
+{cy}
+~
+496 40 10
+D2
+~
+~
+0 -1 49673
+Z10
+C-1
+S
+#49675
+{C,BO}Icy Path{c,bo}~
+{CY,BO}
+  The icy path comes to an abrupt stop 
+  at the mountain wall. Why it ends here 
+  isn't so apparent. Looking around there
+  are trees to the west and south, a path
+  back towards the east, and a cliff to
+  the north. Some fallen rocks sit at the 
+  base of this cliff. It is odd that the 
+  road ends here.
+{cy,bo}
+    
+~
+496 32 5
+D0
+~
+rock cover~
+1 -1 49676
+D1
+~
+~
+0 -1 49660
+Z6
+C-1
+S
+#49676
+{W,BO}Ogre {w,bo}{C}Cave{c}~
+{C}
+  A large table made of stone sits in the 
+  center of the room. On the east side, 
+  there is a hammock hanging from the ceiling
+  with furs thrown on top. Under the hammock 
+  is another fur. It looks like some kind of
+  polar bear coat. On the west side of this
+  humble cave, a fire burns brightly providing
+  the only source of light to the cave. Over the
+  fire a pot of gruel bubbles and awaits the Ogre's
+  feeding time.
+{c}
+~
+496 40 5
+D2
+~
+rock cover~
+1 -1 49675
+Z9
+C-1
+S
+#49677
+{B,BO}Mountain Path{b,bo}~
+{BL,BO}
+  This mountain path appears to be travelled much
+  as the rocky ground underfoot seems to wear away
+  with each visit and the groove that forms this 
+  rocky path deepens with time. The edge of this
+  path consists of steep rock cliffs and fir trees.
+  Small critters peek out of the branches while
+  the larger beasts keep their distance.
+{bl,bo}
+~
+496 0 5
+D1
+~
+~
+0 -1 49649
+D3
+~
+~
+0 -1 49678
+Z6
+C-1
+S
+#49678
+{B,BO}Mountain Path{b,bo}~
+{BL,BO}
+  On a Spring day, the road is soaked with fresh
+  melted snow which trickles down from the higher
+  points on the mountain. The roads are no longer 
+  in snow and ice, and small birds make their homes
+  in the cedars and birches which grow abundantly.
+{bl,bo}
+~
+496 0 5
+D0
+~
+~
+0 -1 49679
+D1
+~
+~
+0 -1 49677
+Z6
+C-1
+S
+#49679
+{B,BO}Mountain Path{b,bo}~
+{BL,BO}
+  In the distance, the shriek of some
+  poor creature breaks the silence.
+  What could it have been? A shaft of 
+  smoke shoots above the trees. The
+  waft of burnt flesh fills the air.
+  Dare to go on or turn back toward
+  town?
+{bl,bo}
+~
+496 0 5
+D0
+~
+~
+0 -1 49680
+D2
+~
+~
+0 -1 49678
+Z6
+C-1
+S
+#49680
+{B,BO}Mountain Path{b,bo}~
+{CY}
+                  (   (
+                    )   )
+                  (   (
+                    )   )
+                   (  (
+                     )  ){WH}
+                 /\{CY}(   ({WH} /\     /\       /\     /\ {GR}
+    ()    ()  {Y}  /  \{CY} ) {Y} /  \   /  \     /  \   /  \{GR}
+   (  )  (  ) ()   {CY} ({GR}(){Y}/    \ /    \   /    \ /    \{GR}
+  (    ) (  )(  )   (  ){Y}     /      \ /      \      \{GR}
+  (    )(    )   ) (    )     ()    ()        
+ (      )     )    )     )   (  )  (  )  
+{gr}
+~
+496 0 5
+D1
+~
+~
+0 -1 49681
+D2
+~
+~
+0 -1 49679
+Z6
+C-1
+S
+#49681
+{G}Goblin {g}{B,BO}Camp{b,bo}~
+{Y,BO}
+  Goblins dance around the fire where a goat
+  has been skewered. The smell of goat flesh 
+  fills the air. The goblins seem rather pleased. 
+  The camp is small and looks as though its 
+  been trashed, but goblins aren't known for 
+  neatness.
+{y,bo}
+~
+496 0 5
+D3
+~
+~
+0 -1 49680
+Z7
+C-1
+S
+#49682
+{BLU,BO}H{blu,bo}{BLU}e{blu}{C}r{c}{BLU,BO}m{blu,bo}{BLU}a{blu}{C}n{c}{BLU,BO}t{blu,bo}{BLU}h{blu}{C}a{c}{BLU,BO}y{blu,bo}{BLU}a {blu}{C}R{c}{BLU,BO}i{blu,bo}{BLU}v{blu}{C}e{c}{BLU,BO}r{blu,bo}~
+{BLU}  
+  The water picks up speed and pushes forward. 
+  As the hilly landscape slopes southward, it 
+  washes past trees and outcroppings. Animals 
+  aviod the water's edge for fear of being 
+  pulled into the water and carried over the 
+  cliff.
+{blu}
+~
+496 32768 6
+D0
+~
+~
+0 -1 49683
+D2
+~
+~
+0 -1 49698
+Z3
+C-1
+S
+#49683
+{BLU,BO}H{blu,bo}{BLU}e{blu}{C}r{c}{BLU,BO}m{blu,bo}{BLU}a{blu}{C}n{c}{BLU,BO}t{blu,bo}{BLU}h{blu}{C}a{c}{BLU,BO}y{blu,bo}{BLU}a {blu}{C}R{c}{BLU,BO}i{blu,bo}{BLU}v{blu}{C}e{c}{BLU,BO}r{blu,bo}~
+{BLU}
+  Just down slope from the pooling spring
+  water, a river begins to form cutting the
+  rock below into a groove which allows the
+  river to flow smoothly and gently southward.
+{blu}
+~
+496 32768 6
+D0
+~
+~
+0 -1 49684
+D2
+~
+~
+0 -1 49682
+Z3
+C-1
+S
+#49684
+{BLU,BO}T{blu,bo}{BLU}h{C}e{c} {BLU,BO}H{blu,bo}{BLU}e{C}r{c}{BLU,BO}m{blu,bo}{BLU}a{C}n{c}{BLU,BO}t{blu,bo}{BLU}h{C}a{BLU,BO}y{blu,bo}{BLU}a {C}S{BLU,BO}p{blu,bo}{BLU}r{C}i{BLU,BO}n{blu,bo}{BLU}g{blu}~
+{BLUE}
+  Bubbling up like a small geyser and running
+  from the rocks whence it sprung, the water
+  overflows into smooth limestone pools below.
+  The crisp clear water originates from an
+  underground river of melted ice and snow from
+  the peaks which disappear into the heavens.
+  Forest creatures of all kind stop here at the
+  source to quench their thrists as the water is
+  purest, cleanest, clearest at this point.
+{blue}
+ 
+~
+496 40960 6
+D2
+~
+~
+0 -1 49683
+X2048
+Z3
+C-1
+S
+#49685
+{GR}Diamond Park Road{gr}~
+{G}
+  Passing through the tall iron gates into the park,
+  there is a path made up of packed dirt. Along this
+  trail are benches and trees. A few flowers have been
+  planted as well. To either side of the trail, families
+  have gathered to enjoy the outdoors.
+{g}
+~
+496 4 1
+D0
+~
+~
+0 -1 49686
+D2
+~
+~
+0 -1 49310
+Z3
+C-1
+S
+#49686
+{GR}Diamond Park Road{gr}~
+{G}
+  A man and his dog play frisbee on the grass
+  nearby. A young lady watches intently from 
+  her blanket while pretending to read a book.
+  Children giggle in the background as one yells,
+  "Marco!" and another answers, "Polo". Diamond
+  Park is truly a place for everyone.
+{g}
+~
+496 0 1
+D0
+~
+~
+0 -1 49687
+D2
+~
+~
+0 -1 49685
+Z3
+C-1
+S
+#49687
+{GR}Diamond Park Road{gr}~
+{WH,BO}
+                   
+                  (  )
+                (  ()  )      {bo}{GR}Diamond Park is the{WH,BO} 
+              ( ({GR} (  {WH,BO}) ) )    {bo}{GR}home of many varieties{WH,BO}
+             ( ( ) )( ( ) )   {bo}{GR}of trees and plant life.{WH,BO}
+            ) ) ) ) |( ( ( )  {bo}{GR}Students come from around{WH,BO}
+           ( {GR}({WH,BO} ( ( |  ) {GR}){WH,BO} )   {bo}{GR}the world to study the{WH,BO} 
+            ) {GR}){WH,BO} ) ) |( {GR}({WH,BO} ( )  {bo}{GR}unique vegetation of Eudelta{WH,BO}
+             {GR}({WH,BO}   ( |  )   )   {bo}{GR}and its parks.{Y}
+                    |
+                   | |
+                  / | \
+{y} 
+~
+496 0 1
+D0
+~
+~
+0 -1 49694
+D2
+~
+~
+0 -1 49686
+Z3
+C-1
+S
+#49688
+{GR}Diamond Park Road{gr}~
+{WH,BO,BLI}
+   ****                                           ****{wh,bo,bli}{WH,BO}
+   \xx/     __________________________________    \xx/                       
+  __\/_____/          DIAMOND PARK            \____\/__{BL,BO} 
+  Ll%Ll{WH,BO}    \__________________________________/ {BL,BO}  Ll%Ll  
+  Ll%Ll{bl,bo}{GR,REV}              {gr,rev}{Y}               {y}{GR,REV}              {gr,rev}{BL,BO}Ll%Ll  
+  Ll%Ll{bl,bo}{GR,REV}             {gr,rev}{Y}/               \{y}{GR,REV}             {gr,rev}{BL,BO}Ll%Ll
+  Ll%Ll{bl,bo}{GR,REV}            {gr,rev}{Y}/                 \{y}{GR,REV}            {gr,rev}{BL,BO}Ll%Ll
+  Ll%Ll{bl,bo}{GR,REV}           {gr,rev}{Y}/                   \{y}{GR,REV}           {gr,rev}{BL,BO}Ll%Ll
+  Ll%Ll{bl,bo}{GR,REV}          {gr,rev}{Y}/                     \{y}{GR,REV}          {gr,rev}{BL,BO}Ll%Ll 
+  Ll%Ll{bl,bo}{GR,REV}         {gr,rev}{Y}/                       \{y}{GR,REV}         {gr,rev}{BL,BO}Ll%Ll
+~
+496 4 1
+D0
+~
+~
+0 -1 49804
+D2
+~
+~
+0 -1 49689
+Z3
+C-1
+S
+#49689
+{GR}Diamond Park Road{gr}~
+{GR}
+  Diamond Park is a wonderful place to
+  take a walk. The tall trees offer shade
+  while the shorter trees blossom, filling
+  the air with sweet perfume. The walking 
+  trail circles the park's perimeter and 
+  offers information about the various
+  trees, plants, and animal life found 
+  within the gates.
+{gr}
+~
+496 0 1
+D0
+~
+~
+0 -1 49688
+D2
+~
+~
+0 -1 49690
+Z3
+C-1
+S
+#49690
+{GR}Diamond Park Road{gr}~
+{G}
+  The park is a prized feature of Eudelta.
+  Its unsurpassed beauty is the reason it
+  is called Diamond Park. Here near the
+  center of the park is the Park Museum.
+  Within the museum lie the mysteries of
+  Eudelta's natural beauty and its people.
+  Updated regularly, the Park Museum holds
+  the attention of all year after year.
+{g}
+~
+496 0 1
+D0
+~
+~
+0 -1 49689
+D2
+~
+~
+0 -1 49694
+Z3
+C-1
+S
+#49691
+{GR}Diamond Park Road{gr}~
+{GR}
+  This is the only entrance to Diamond Park 
+  that is large enough to get a vehicle through.
+  The gate here is wider and guarded by the park
+  rangers. Only authorized vehicles can enter the
+  park. This park is protected by the local 
+  government as a historical landmark. With great
+  meeting halls in the center of the park, a duck
+  pond, Castle Playground, gardens and amazing 
+  picnic grounds, the park is in no real danger of 
+  destruction.
+{gr}
+~
+496 4 1
+D1
+~
+~
+0 -1 49692
+D3
+~
+~
+0 -1 49855
+Z3
+C-1
+S
+#49692
+{GR}Diamond Park Road{gr}~
+{GR}
+  Time seems to stand still when people
+  are happy. Diamond Park is timeless.
+  Year after year, the park fills with
+  people wearing big smiles. The old and
+  young gather here to enjoy the outdoors
+  togther and share stories of life. Some
+  escape the daily pressures of life while
+  jogging or attending a concert. One thing 
+  is certain, not a single unhappy face can
+  be found.
+{gr}
+~
+496 0 1
+D1
+~
+~
+0 -1 49693
+D3
+~
+~
+0 -1 49691
+Z3
+C-1
+S
+#49693
+{GR}Diamond Park Road{gr}~
+{Y}
+                         __________
+                  ______/ _________|____ 
+                 |\      /              |
+                 | \    /               |
+                 |  \  /                |
+                 |   \/                 |
+               __|_________ ____________|_
+              |____________|______________| 
+{y}{GR}
+  Well, here it is! What is it? Well, no one really
+  knows, but they call it art. And that seems to be
+  good enough for the locals. 
+{gr}
+~
+496 0 1
+D1
+~
+~
+0 -1 49694
+D3
+~
+~
+0 -1 49692
+Z3
+C-1
+S
+#49694
+{WH,BO}Diamond Park Plaza{wh,bo}~
+{W,BO}
+  At the center of the park is Park Plaza.
+  Like all things in Eudelta, Park Plaza is
+  a bit overdone with a large sports complex
+  and concert hall. Not far from Eudelta Square,
+  Park Plaza makes a great entertainment center 
+  for the city. The landscaping lends to the 
+  relaxing atmosphere while making the park a 
+  favourite place to bike, run, walk, explore, 
+  celebrate, and read. All are welcome and 
+  admission is always free.
+{w,bo}
+~
+496 0 1
+D0
+~
+~
+0 -1 49690
+D1
+~
+~
+0 -1 49695
+D2
+~
+~
+0 -1 49687
+D3
+~
+~
+0 -1 49693
+Z-1
+C-1
+S
+#49695
+{GR}Diamond Park Road{gr}~
+{GR}
+  It seems like hundreds of Eudelta's youngest
+  warriors have gathered here to conquer Diamond
+  Park's Castle. The massive play center is a 
+  jumble of slides, tunnels, ladders, rope swings,
+  and wood chips, lots of wood chips. The youngsters
+  rush here and there making sounds that only they
+  seem to comprehend. Friendships are instant and
+  time is endless on this playground.
+{gr}
+~
+496 0 1
+D1
+~
+~
+0 -1 49696
+D3
+~
+~
+0 -1 49694
+Z3
+C-1
+S
+#49696
+{GR}Diamond Park Road{gr}~
+{G}
+  A man and his dog play frisbee on the grass
+  nearby. A young lady watches intently from 
+  her blanket while pretending to read a book.
+  Children giggle in the background as one yells,
+  "Marco!" and another answers, "Polo". Diamond
+  Park is truly a place for everyone.
+{g}
+~
+496 0 1
+D1
+~
+~
+0 -1 49697
+D3
+~
+~
+0 -1 49695
+Z3
+C-1
+S
+#49697
+{GR}Diamond Park Road{gr}~
+{C,BO}
+  Sitting on the bench by the duck pond,
+  an elderly citizen of Eudelta tosses
+  pieces of stale bread to the mallards.
+  A small boy floats his boat on the pond{bo,BLU}
+  nearby while crouching to examine a stick 
+  bug that fell from a nearby ginko tree.
+  A young couple stares dreamily at one
+  another while taking in the fresh air{G}
+  and enjoying the gentle warmth of the 
+  sun. The water ripples in the breeze
+  and welcomes all to Diamond Park. 
+{g}
+~
+496 0 1
+D1
+~
+~
+0 -1 49318
+D3
+~
+~
+0 -1 49696
+Z3
+C-1
+S
+#49698
+{C}On top of {c}{BLU,BO}A{blu,bo}{BLU}k{blu}{C}a{c}{BLU,BO}s{blu,bo}{BLU}h{blu}{C}a {c}{BLU,BO}F{blu,bo}{BLU}a{blu}{C}l{c}{BLU,BO}l{blu,bo}{BLU}s{blu}~
+{BLU,BO}
+  The river here flows really, really fast.  At
+  this point, nothing can escape the current of
+  the River falling down the face of the
+  mountain.
+{blu,bo}
+~
+496 1081604 6
+D5
+~
+~
+0 -1 49756
+T49756
+Z3
+C-1
+S
+#49699
+{C,BO}Above the Waterfall{c,bo}~
+{C,BO}
+  The water sprays up and out as it rushes over 
+  the rocks from the cool spring pool below. Crisp
+  clear water meets the air cooling it and splashing 
+  the lush greenery.  The sky is clear overhead.
+{c,bo}
+~
+496 0 9
+D0
+~
+~
+0 -1 49682
+D5
+~
+~
+0 -1 49758
+Z2
+C-1
+S
+$~

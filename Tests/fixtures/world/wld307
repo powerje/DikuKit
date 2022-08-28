@@ -1,0 +1,2558 @@
+#30700
+{W,BO}A Winding Road{w,bo}~
+{W,BOLD}  
+{W,BOLD}  A paved road twists and winds, following the
+{W,BOLD}  contours of a tract of fertile grassland.  To the
+{W,BOLD}  west, the road leads the way to what appears to be
+{W,BOLD}  a town.  The road ends at a massive, circular
+{W,BOLD}  building to the north.
+{W,BOLD}  
+~
+307 0 2
+D0
+~
+~
+0 -1 30701
+D3
+~
+~
+0 -1 30737
+Z3
+C-1
+R0
+S
+#30701
+{W,BO}Before the {w,bo}{C}Garden{c}~
+{W,BOLD}  
+{W,BOLD}  You are walking down a paved road leading directly
+{W,BOLD}  north to a massive, round structure.  There is a
+{W,BOLD}  well-guarded gate that you will need to pass before
+{W,BOLD}  you can even think about entering the structure.
+{W,BOLD}  
+~
+307 0 1
+D0
+~
+~
+0 -1 30702
+D2
+~
+~
+0 -1 30700
+Z3
+C-1
+R0
+S
+#30702
+{W,BO}Outside {w,bo}{C}Balamb Garden{c}~
+{W,BOLD}  
+{W,BOLD}  You are walking along a paved road directly
+{W,BOLD}  outside of {w,bold}{C}Balamb Garden{W,BOLD}.  There is a gate to the
+{W,BOLD}  north, with a guard watching to make sure that
+{W,BOLD}  only students enter the Garden.
+{W,BOLD}  
+~
+307 0 1
+D0
+~
+~
+0 -1 30703
+D2
+~
+~
+0 -1 30701
+Z3
+C-1
+R0
+S
+#30703
+{CY}Balamb Garden {B,WH}Gates{b,wh}~
+{W,BOLD}  
+{W,BOLD}  You are standing in the gateway to{w,bold} {C}Balamb Garden{W,BOLD}.
+{W,BOLD}  A series of metal gates bar entry to all except
+{W,BOLD}  students.  A plexiglass booth overlooks the row
+{W,BOLD}  of gates.  A paved road leading away from the
+{W,BOLD}  school is to the south.
+{W,BOLD}  
+~
+307 12 0
+D0
+~
+gate~
+1 -1 30704
+D2
+~
+~
+0 -1 30702
+Z-1
+C-1
+R0
+S
+#30704
+{C}The Lobby {c}{W,BO}({w,bo}{G}A1{g}{W,BO}){w,bo}~
+{C}  
+{C}  As you enter the Garden, you cannot help but
+{C}  marvel at the sense of tranquility evoked by your
+{C}  surroundings.  The entire lobby of this circular
+{C}  building is occupied by a massive fountain.  A
+{C}  walkway encircles the lobby.  Students wander
+{C}  about, some rushing to classes, others stopping to
+{C}  chat with their friends.
+{C}  
+~
+307 8 0
+D0
+~
+~
+0 -1 30705
+D2
+~
+gate~
+1 -1 30703
+Z-1
+C-1
+R0
+S
+#30705
+{C}The Walkway {c}{W,BO}({w,bo}{G}A1{g}{W,BO}){w,bo}~
+{C}
+  A walkway extends over the fountain that occupies
+  the entire lobby of the Garden.  The walkway is
+  raised a few feet above the fountain and loops
+  around the perimeter of the lobby.  It branches
+  off at regular intervals like the spokes of a
+  wheel.  The walkway continues to the east and
+  west.  An elevator is to the north.
+{c}
+~
+307 8 0
+D0
+{W,BO}
+  The doors to the main elevator in the center
+  of the garden are to the north.
+{w,bo}
+~
+door elevator~
+1 -1 30706
+D1
+~
+~
+0 -1 30722
+D2
+~
+~
+0 -1 30704
+D3
+~
+~
+0 -1 30716
+Z-1
+C-1
+R0
+S
+#30706
+{W,BO}The Elevator ({w,bo}{G}A2{g}{W,BO}){w,bo}~
+{W,BO}
+  As you enter the elevator, the door closes behind
+  you and the elevator begins to ascend.  After going
+  up about 30 feet, the elevator stops and the door
+  opens.
+{w,bo}
+~
+307 268 0
+D2
+~
+door elevator~
+1 -1 30707
+T30740
+Z-1
+C-1
+R0
+S
+#30707
+{C}The Walkway {c}{W,BO}({w,bo}{G}A2{g}{W,BO}){w,bo}~
+{C}
+  This small walkway on the second level of Balamb
+  Garden is suspended between the elevators.  The
+  walkway continues to the west, and elevator doors
+  lie to the north and east.  The fountain below
+  the atrium can easily be seen over the railings
+  of the walkway.
+{c}
+~
+307 8 0
+D0
+{W,BO}
+  The elevator to the north leads down to the bottom
+  floor of the Garden.
+{w,bo}
+~
+door elevator~
+1 -1 30712
+D1
+{W,BO}
+  A private elevator for the headmaster is to the
+  east, only accessable to those with express
+  permission from the Headmaster Cid.
+{w,bo}
+~
+door elevator~
+2 30703 30713
+D3
+~
+~
+0 -1 30708
+Z-1
+C-1
+R0
+S
+#30708
+{C}A Hallway {c}{W,BO}({w,bo}{G}A2{g}{W,BO}){w,bo}~
+{C}  
+{C}  The hallway of the second level of Balamb Garden
+{C}  exudes the same type of tranquility as the first
+{C}  level.  Marble columns and softly glowing sconces
+{C}  are interspersed along the hallway.  Blue tiles
+{C}  in an intricate pattern decorate the floor.  A
+{C}  walkway to the elevators is to the east, and a
+{C}  classroom is to the west.  The hallway itself
+{C}  continues to the north.
+{C}  
+~
+307 8 0
+D0
+~
+~
+0 -1 30710
+D1
+~
+~
+0 -1 30707
+D3
+~
+door~
+1 -1 30709
+Z-1
+C-1
+R0
+S
+#30709
+{C}The Classroom {c}{W,BO}({w,bo}{G}A2{g}{W,BO}){w,bo}~
+{W,BO}
+  You are standing inside one of the high-tech
+  classrooms in {w,bo}{C}Balamb Garden{c}{W,BO}.  At the front of the
+  room is a holographic display and each student
+  "desk" consists of a computer terminal.  A young
+  woman stands here teaching to students that appear
+  (at most) to be a couple of years younger than her.
+{w,bo}
+~
+307 8 0
+D1
+~
+door~
+1 -1 30708
+Z-1
+C-1
+R0
+S
+#30710
+{C}A Hallway {c}{W,BO}({w,bo}{G}A2{g}{W,BO}){w,bo}~
+{C}  
+{C}  The hallway of the second level of Balamb Garden
+{C}  exudes the same type of tranquility as the first
+{C}  level.  Marble columns and softly glowing sconces
+{C}  are interspersed along the hallway.  Blue tiles
+{C}  in an intricate pattern decorate the floor.  A
+{C}  door to the north appears to lead outside.  The
+{C}  hallway itself continues to the north.
+{C}  
+~
+307 8 0
+D0
+~
+door~
+1 -1 30711
+D2
+~
+~
+0 -1 30708
+Z-1
+C-1
+R0
+S
+#30711
+{C}A Balcony Outside the Garden{c}~
+{C}  
+{C}  You are standing on a balcony that overlooks
+{C}  the beautiful Balamb countryside.  From here
+{C}  you can see the peaceful port town laid out
+{C}  before you.
+{C}  
+~
+307 0 1
+D2
+~
+door~
+1 -1 30710
+Z-1
+C2
+R0
+S
+#30712
+{W,BO}The Elevator ({w,bo}{G}A1{g}{W,BO}){w,bo}~
+{W,BO}
+  As soon as you enter the elevator, the doors
+  shut behind you and the elevator descends
+  about 20 feet to the lower level.
+{w,bo}
+~
+307 268 0
+D2
+~
+door elevator~
+1 -1 30705
+D5
+{W,BO}
+  The floor of the elevator is covered with a
+  large carpet mat for some reason...
+{w,bo}
+~
+hatch~
+3 30799 30740
+E
+mat carpet~
+{W,BO}
+  After examining the carpet mat, you discover that
+  the mat actually conceals a hatch leading down the
+  shute of the elevator.
+{w,bo}
+~
+T30740
+Z-1
+C-1
+R0
+S
+#30713
+{W,BO}The Elevator ({w,bo}{G}A3{g}{W,BO}){w,bo}~
+{W,BO}
+  As soon as you enter the elevator, the door
+  closes behind you and the elevator begins to
+  ascend.  After the elevator rises about 20
+  feet, it stops and the door opens.
+{w,bo}
+~
+307 268 0
+D0
+~
+door elevator~
+1 -1 30714
+T30740
+Z-1
+C-1
+R0
+S
+#30714
+{C}Headmaster Cid's Waiting Room {c}{W,BO}({w,bo}{G}A3{g}{W,BO}){w,bo}~
+{C}
+  You are in a fairly plain looking lobby that
+  leads to the headmaster's office.  There are
+  a couple of rather dull paintings on the wall
+  and a few chairs scattered throughout the
+  room.
+{c}
+~
+307 8 0
+D0
+~
+door~
+2 30703 30715
+D2
+~
+door elevator~
+1 -1 30841
+Z-1
+C-1
+R0
+S
+#30715
+{C}Headmaster Cid's Office {c}{W,BO}({w,bo}{G}A3{g}{W,BO}){w,bo}~
+{C}
+  You are in the Headmaster's Office.  A very
+  large desk sits in the center of the room,
+  with windows surrounding the office giving
+  an amazing view over the Balamb countryside.
+  A middle aged man paces about the room,
+  oblivious to your presence.
+{c}
+~
+307 8 0
+D2
+~
+door~
+1 -1 30714
+Z-1
+C-1
+R0
+S
+#30716
+{C}The Walkway {c}{W,BO}({w,bo}{G}A1{g}{W,BO}){w,bo}~
+{C}
+  You are walking along a walkway that loops around
+  the perimeter of the lobby.  The walkway is raised
+  a few feet above a large fountain that entire
+  atrium of the Garden.  The walkway continues to
+  the east and north.  It branches off to the west.
+  A plaque next to the exit marks this branch as the
+  way to the Infirmary.
+{c}
+~
+307 8 0
+D0
+~
+~
+0 -1 30717
+D1
+~
+~
+0 -1 30705
+D3
+~
+~
+0 -1 30723
+E
+sign~
+{M}
+    ==INFIRMARY=={m}{W,BO}
+    Doctor Kadawoki
+{w,bo}
+~
+Z-1
+C-1
+R0
+S
+#30717
+{C}The Walkway {c}{W,BO}({w,bo}{G}A1{g}{W,BO}){w,bo}~
+{C}
+  You are walking along a walkway that loops around
+  the perimeter of the lobby.  The walkway is raised
+  a few feet above a large fountain that covers the
+  entire atrium of the Garden.  The walkway continues
+  to the north and south.  It branches off to the
+  west.  A plaque next to the exit marks this branch
+  as the way to the Quad.
+{c}
+~
+307 8 0
+D0
+~
+~
+0 -1 30718
+D2
+~
+~
+0 -1 30716
+D3
+~
+~
+0 -1 30724
+E
+sign~
+{BLU,BO}
+    ==THE QUAD==
+{blu,bo}
+~
+Z-1
+C-1
+R0
+S
+#30718
+{C}The Walkway {c}{W,BO}({w,bo}{G}A1{g}{W,BO}){w,bo}~
+{C}
+  You are walking along a walkway that loops around
+  the perimeter of the building.  The walkway is
+  raised a few feet above a large fountain that
+  covers the entire atrium of the Garden.  The walk-
+  way continues to the south and east.  It branches
+  off to the south.  A plaque next to the exit marks
+  this branch as the way to the Cafeteria.
+{c}
+~
+307 8 0
+D0
+~
+~
+0 -1 30726
+D1
+~
+~
+0 -1 30719
+D2
+~
+~
+0 -1 30717
+E
+sign~
+{W,BO}
+    ==THE CAFETERIA==
+{w,bo}
+~
+Z-1
+C-1
+R0
+S
+#30719
+{C}The Walkway {c}{W,BO}({w,bo}{G}A1{g}{W,BO}){w,bo}~
+{C}
+  You are walking along a walkway that loops around
+  the perimeter of the building.  The walkway is
+  raised a few feet above a large fountain that
+  covers the entire atrium of the Garden.  The walk-
+  way continues to the east and west.  It branches
+  off to the north.  A plaque next to the exit marks
+  this branch as the way to the Dormitory.
+{c}
+~
+307 8 0
+D0
+~
+~
+0 -1 30727
+D1
+~
+~
+0 -1 30720
+D3
+~
+~
+0 -1 30718
+E
+sign~
+{W,BO}
+    =THE DORMITORY==
+{w,bo}
+~
+Z-1
+C-1
+R0
+S
+#30720
+{C}The Walkway {c}{W,BO}({w,bo}{G}A1{g}{W,BO}){w,bo}~
+{C}
+  You are walking along a walkway that loops around
+  the perimeter of the building.  The walkway is
+  raised a few feet above a large fountain that
+  covers the entire atrium of the Garden.  The walk-
+  way continues to the south and west.  It branches
+  off to the north.  A plaque next to next to the
+  exit marks this branch as the way to the Parking
+  Lot.
+{c}
+~
+307 8 0
+D0
+~
+~
+0 -1 30729
+D2
+~
+~
+0 -1 30721
+D3
+~
+~
+0 -1 30719
+E
+sign~
+{R}
+    ==PARKING LOT==
+{r}
+~
+Z-1
+C-1
+R0
+S
+#30721
+{C}The Walkway {c}{W,BO}({w,bo}{G}A1{g}{W,BO}){w,bo}~
+{C}
+  You are walking along a walkway that loops around
+  the perimeter of the building.  The walkway is
+  raised a few feet above a large fountain that
+  covers the entire atrium of the Garden.  The walk-
+  way continues to the north and south.  It branches
+  off to the east.  A plaque next to the exit marks
+  this branch as the way to the Training Facility.
+{c}
+~
+307 8 0
+D0
+~
+~
+0 -1 30720
+D1
+~
+door~
+1 -1 30730
+D2
+~
+~
+0 -1 30722
+Z-1
+C-1
+R0
+S
+#30722
+{C}The Walkway {c}{W,BO}({w,bo}{G}A1{g}{W,BO}){w,bo}~
+{C}
+  You are walking along a walkway that loops around
+  the perimeter of the building.  The walkway is
+  raised a few feet above a large fountain that
+  covers the entire atrium of the Garden.  The walk-
+  way continues to the north and west.  It branches
+  off to the east.  A plaque next to the exit marks
+  this branch as the way to the Library.
+{c}
+~
+307 8 0
+D0
+~
+~
+0 -1 30721
+D1
+~
+~
+0 -1 30736
+D3
+~
+~
+0 -1 30705
+Z-1
+C-1
+R0
+S
+#30723
+{C}The Infirmary{c}~
+{W,BOLD}  
+{W,BOLD}  You are standing inside the Infirmary.  A rather
+{W,BOLD}  plump, middle-aged woman stands behind a glass
+{W,BOLD}  window.  The only visible exit seems to be the way
+{W,BOLD}  you came in.
+{w,bold}  
+~
+307 8 0
+D1
+~
+~
+0 -1 30716
+Z-1
+C-1
+R0
+S
+#30724
+{BLU,BO}The Quad{blu,bo}~
+{W,BOLD}  
+{W,BOLD}  You enter the {bold}{C}Balamb Garden {W,BOLD}Quad.  Small flowing
+{W,BOLD}  streams bordered by flowers and lush, green plants
+{W,BOLD}  make the Quad a picturesque and serene place.  You
+{W,BOLD}  may leave the Quad through the exit to the east.
+{W,BOLD}  
+~
+307 0 1
+D1
+~
+~
+0 -1 30717
+D3
+~
+~
+0 -1 30725
+Z-1
+C-1
+R0
+S
+#30725
+{BLU,BO}The Quad{blu,bo}~
+{W,BO}
+  You have reached the far end of the Quad.  There
+  is what appears to be a stage under construction
+  here.  Perhaps students are planning to perform
+  a show for a festival?
+{w,bo}
+~
+307 0 1
+D1
+~
+~
+0 -1 30724
+Z-1
+C-1
+R0
+S
+#30726
+{W,BO}The Cafeteria{w,bo}~
+{W,BOLD}  
+{W,BOLD}  You are standing in the Garden Cafeteria.  A woman
+{W,BOLD}  stands behind a counter, serving food to the
+{W,BOLD}  students of Balamb.  Many tables are occupied by
+{W,BOLD}  kids eating and laughing.  The only exit appears
+{W,BOLD}  to be the way you came in.
+{W,BOLD}  
+~
+307 8 0
+D2
+~
+~
+0 -1 30718
+Z-1
+C-1
+R0
+S
+#30727
+{W,BO}The Dorms{w,bo}~
+{W,BOLD}  
+{W,BOLD}  You are walking down the hallway in the Garden
+{W,BOLD}  dorms.  There are dorm rooms all around, but most
+{W,BOLD}  don't really catch your attention.  At the end of
+{W,BOLD}  the hallway, there is one room with its door open
+{W,BOLD}  that catches your eye.
+{W,BOLD}  
+~
+307 8 0
+D0
+~
+door~
+1 -1 30728
+D2
+~
+~
+0 -1 30719
+Z-1
+C-1
+R0
+S
+#30728
+{BLA,BO}Squall's {bla,bo}{W,BO}Dormitory Single{w,bo}~
+{W,BO}
+  You are in a small dorm room belonging to one
+  of Balamb's many SeeDs.  The room is really
+  quite sparse.  There is a computer graphic
+  poster on one wall, and a uniform on the bed.
+  You can usually tell something about one's
+  personality from one's room -- if this is true,
+  the occupant must be a pretty boring person.
+{w,bo}
+~
+307 8 0
+D2
+~
+door~
+1 -1 30727
+Z-1
+C-1
+R0
+S
+#30729
+{R}The Parking Lot{r}~
+{W,BOLD}  
+{W,BOLD}  You walk through automatic glass doors and find
+{W,BOLD}  yourself outside the {w,bold}{C}Balamb Garden {W,BOLD}building.
+{W,BOLD}  A couple of sporty-looking cars are parked in
+{W,BOLD}  spaces to your right.  But you obviously don't
+{W,BOLD}  have the keys, or a license, so you may as well
+{W,BOLD}  turn around south and go back inside.
+{W,BOLD}  
+~
+307 0 0
+D2
+~
+~
+0 -1 30720
+Z-1
+C-1
+R0
+S
+#30730
+{Y}Training Facility Entrance{y}~
+{B,WHITE}  
+{B,WHITE}  The Training Facility is where Balamb students
+{B,WHITE}  hone their fighting skills.  Students are warned
+{B,WHITE}  that the monsters in the Training Facility are not
+{B,WHITE}  simulations.  The rewards, and the injuries, of
+{B,WHITE}  battles in here are very real.  Rumors abound of
+{B,WHITE}  a particularly nasty lizard-like creature.
+{B,WHITE}  
+~
+307 13 0
+D0
+~
+~
+0 -1 30731
+D1
+~
+~
+0 -1 30732
+D3
+~
+door~
+1 -1 30721
+Z9
+C-1
+R0
+S
+#30731
+{Y}The Training Facility{y}~
+{B,BOLD}  
+{B,BOLD}  The Training Facility looks like an overgrown
+{B,BOLD}  jungle!  Tall trees with massive trunks and lush
+{B,BOLD}  canopies are draped in vines and provide perfect
+{B,BOLD}  hiding places for monsters of all sorts.  There is
+{B,BOLD}  no doubt that monsters do hide in the trees, for
+{B,BOLD}  rustling and scurrying sounds are ever present.
+{B,BOLD}  
+~
+307 1 3
+D1
+~
+~
+0 -1 30733
+D2
+~
+~
+0 -1 30730
+Z12
+C-1
+R0
+S
+#30732
+{Y}The Training Facility{y}~
+{BOLD,B}  
+{BOLD,B}  The Training Facility looks like an overgrown
+{BOLD,B}  jungle!  Tall trees with massive trunks and lush
+{BOLD,B}  canopies are draped in vines and provide perfect
+{BOLD,B}  hiding places for monsters of all sorts.  There is
+{BOLD,B}  no doubt that monsters do hide in the trees, for
+{BOLD,B}  rustling and scurrying sounds are ever present.
+{BOLD,B}  
+~
+307 1 3
+D0
+~
+~
+0 -1 30733
+D1
+~
+~
+0 -1 30735
+D3
+~
+~
+0 -1 30730
+Z12
+C-1
+R0
+S
+#30733
+{Y}The Training Facility{y}~
+{B,BO}
+  A small stream runs through this section of the
+  Training Facility.  A sturdy wooden bridge leads
+  the way across the stream.  As elsewhere in the
+  Training Facility, the sounds of scurrying and
+  scampering creatures can be heard from all around.
+{b,bo}
+~
+307 1 3
+D1
+~
+~
+0 -1 30734
+D2
+~
+~
+0 -1 30732
+D3
+~
+~
+0 -1 30731
+Z12
+C-1
+R0
+S
+#30734
+{Y}The Training Facility{y}~
+{B,BOLD}  
+{B,BOLD}  The Training Facility looks like an overgrown
+{B,BOLD}  jungle!  Tall trees with massive trunks and lush
+{B,BOLD}  canopies are draped in vines and provide perfect
+{B,BOLD}  hiding places for monsters of all sorts.  There is
+{B,BOLD}  no doubt that monsters do hide in the trees, for
+{B,BOLD}  rustling and scurrying sounds are ever present.
+{B,BOLD}  
+~
+307 1 3
+D2
+~
+~
+0 -1 30735
+D3
+~
+~
+0 -1 30733
+Z12
+C-1
+R0
+S
+#30735
+{Y}The Training Facility{y}~
+{BOLD,B}  
+{BOLD,B}  The Training Facility looks like an overgrown
+{BOLD,B}  jungle!  Tall trees with massive trunks and lush
+{BOLD,B}  canopies are draped in vines and provide perfect
+{BOLD,B}  hiding places for monsters of all sorts.  There is
+{BOLD,B}  no doubt that monsters do hide in the trees, for
+{BOLD,B}  rustling and scurrying sounds are ever present.
+{BOLD,B}  
+~
+307 1 3
+D0
+~
+~
+0 -1 30734
+D3
+~
+~
+0 -1 30732
+Z12
+C-1
+R0
+S
+#30736
+{M}The Library{m}~
+{W,BO}
+  You have entered the {w,bo}{C,BO}Balamb Garden{c,bo}{W,BO} Library.
+  Shelves of books stretch before you, all reaching
+  the ceiling, all crammed full of books.  To your
+  right is the checkout desk.  A girl stands behind
+  the counter glaring at you, as if she knew that
+  you're not the quiet type.
+{w,bo}
+~
+307 16392 0
+D3
+~
+~
+0 -1 30722
+Z-1
+C-1
+R0
+S
+#30737
+{W,BO}The Winding Road{w,bo}~
+{W,BOLD}  
+{W,BOLD}  A paved road twists and turns, following the
+{W,BOLD}  contours of a tract of fertile grassland.  The
+{W,BOLD}  port town of Balamb can be seen a short distance
+{W,BOLD}  to the southwest and the great circular building
+{W,BOLD}  of {b}{C}Balamb Garden{W,BOLD} is close by to the northeast.
+{W,BOLD}  
+~
+307 0 2
+D1
+~
+~
+0 -1 30700
+D3
+~
+~
+0 -1 30738
+Z3
+C-1
+R0
+S
+#30738
+{W,BO}The Winding Road{w,bo}~
+{W,BO}
+  A paves road twists and turns, following the
+  contours of a tract of fertile grassland.  You
+  can begin to smell the sea from here.  The port
+  town of {w,bo}{BLU,BO}Balamb{blu,bo}{W,BO} can be seen a short distance to
+  the southwest and the great circular building of
+  {w,bo}{C}Balamb Garden{c}{W,BO} is near to the northeast.
+{w,bo}
+~
+307 0 2
+D1
+~
+~
+0 -1 30737
+D3
+~
+~
+0 -1 30739
+Z3
+C-1
+R0
+S
+#30739
+{W,BO}The Winding Road{w,bo}~
+{W,BOLD}  
+{W,BOLD}  Right outside the small port town of Balamb, the
+{W,BOLD}  pungent smell of saltwater fills your senses.  The
+{W,BOLD}  town can be entered to the west.  To the east, the
+{W,BOLD}  paved path twists and turns on its way to {b}{C}Balamb
+{C}  Garden{W,BOLD}.
+{W,BOLD}  
+~
+307 4 2
+D1
+~
+~
+0 -1 30738
+D3
+~
+~
+0 -1 30751
+Z3
+C-1
+R0
+S
+#30740
+{BLA,BO}The Elevator Shaft{bla,bo}{W,BO} ({w,bo}{G}B1{g}{W,BO}){w,bo}~
+{B,BO}
+  After climbing down a very long ladder in
+  the elevator shaft, you reach the bottom.
+  There is an elevator door to the south,
+  which you might be able to force open.
+{b,bo}
+~
+307 9 0
+D2
+~
+door elevator~
+1 -1 30741
+D4
+~
+hatch~
+1 -1 30712
+Z8
+C-1
+R0
+S
+#30741
+{BLA,BO}The Chamber Below the Garden {bla,bo}{W,BO}({w,bo}{G}B1{g}{W,BO}){w,bo}~
+{W,BO}
+  As you exit the elevator shaft, you find yourself in
+  a very large, dark chamber.  All sorts of pipes and
+  wires run along the ceiling and walls here, powering
+  sections of the Garden.  Some kind of machine has
+  been built to the west, perhaps you should
+  investigate...
+{w,bo}
+~
+307 16393 0
+D0
+~
+door elevator~
+1 -1 30740
+D3
+~
+~
+0 -1 30742
+Z6
+C-1
+R0
+S
+#30742
+{G,BO}Garden Master NORG{g,bo}~
+{W,BO}
+  You stand directly before a massive machine.  Wires
+  run everywhere, powering all sorts of machinary.
+  Oddly coloured glass orbs have been placed in front
+  of a few of these machines, their purpose is unclear.
+{w,bo}
+~
+307 16424 0
+D1
+~
+~
+0 -1 30741
+Z6
+C-1
+R0
+S
+#30743
+{G}A Grassy Path{g}~
+{G}  
+{G}  You are walking in grasslands.  All around you,
+{G}  the terrain seems to be full of life.  You can
+{G}  hear the songs of birds, crickets, and other
+{G}  wildlife.  There is a paved path to the north,
+{G}  and the grasslands continues to the east.
+{G}  
+~
+307 0 2
+D1
+~
+~
+0 -1 30744
+D4
+~
+~
+0 -1 30834
+Z3
+C-1
+R0
+S
+#30744
+{G}A Grassy Path{g}~
+{G}  
+{G}  You are walking in grasslands.  All around you,
+{G}  the terrain seems to be full of life.  The sound
+{G}  of birds and crickets seems to drown out all other
+{G}  sounds in the area.  The grasslands continues to
+{G}  the east and west.
+{G}  
+~
+307 0 2
+D1
+~
+~
+0 -1 30745
+D3
+~
+~
+0 -1 30743
+Z3
+C-1
+R0
+S
+#30745
+{G}A Grassy Path{g}~
+{G}  
+{G}  You are walking in grasslands.  All around you,
+{G}  the terrain seems to be full of life.  The sound
+{G}  of birds and crickets seems to drown out all other
+{G}  sounds in the area.  The grasslands continues to
+{G}  the east and west.
+{G}  
+~
+307 0 2
+D1
+~
+~
+0 -1 30746
+D3
+~
+~
+0 -1 30744
+Z3
+C-1
+R0
+S
+#30746
+{Y}Before the {y}{R}Fire Cavern{r}~
+{Y}
+{Y}  You are standing on a path directly before the
+{Y}  entrance to a large cave.  As you stand here
+{Y}  observing the area, a very {R}hot breeze {Y}blows in
+{Y}  from the entrance to the cave...
+{Y}  
+~
+307 4 2
+D1
+~
+~
+0 -1 30747
+D3
+~
+~
+0 -1 30745
+Z2
+C-1
+R0
+S
+#30747
+{R}The Fire Cavern{r}~
+{R,BOLD}  
+{R,BOLD}  As you enter the Fire Cavern, you immediately
+{R,BOLD}  notice that the path that continues through the
+{R,BOLD}  cavern is surrounded by lava.  The heat in this
+{R,BOLD}  cavern is almost unbearable, and you consider
+{R,BOLD}  turning around now while you are sure you still
+{R,BOLD}  can.
+{R,BOLD}  
+~
+307 24 5
+D1
+~
+~
+0 -1 30748
+D3
+~
+~
+0 -1 30746
+Z2
+C-1
+R0
+S
+#30748
+{R}The Fire Cavern{r}~
+{R,BO}
+  You are walking along an obsidian path that is
+  completely surrounded by molten lava.  The heat
+  is almost unbearable to the point where you
+  almost pass out.
+{r,bo}
+~
+307 24 5
+D0
+~
+~
+0 -1 30749
+D3
+~
+~
+0 -1 30747
+Z2
+C-1
+R0
+S
+#30749
+{R}The Fire Cavern{r}~
+{R,BO}
+  You are walking along an obsidian path that is
+  completely surrounded by molten lava.  The heat
+  is almost unbearable to the point where you
+  almost pass out.
+{r,bo}
+~
+307 24 5
+D0
+~
+~
+0 -1 30750
+D2
+~
+~
+0 -1 30748
+Z2
+C-1
+R0
+S
+#30750
+{R,BO}Ifrit's Chamber{r,bo}~
+{R,BOLD}  
+{R,BOLD}  You have reached the end of the path.  The heat
+{R,BOLD}  here seems to intensify, as if you have come
+{R,BOLD}  closer to the source of the lava.
+{R,BOLD}  
+{R,BOLD}  As you turn around in frustration, the ground
+{R,BOLD}  begins to tremble.  From deep within the lake
+{R,BOLD}  of fire, you hear a low-pitched growl...
+{R,BOLD}  
+~
+307 28 5
+D2
+~
+~
+0 -1 30749
+Z2
+C-1
+R0
+S
+#30751
+{BLU,BO}The Streets of Balamb{blu,bo}~
+{BLUE,BOLD}  
+{BLUE,BOLD}  This street between Balamb's city gate and the
+{BLUE,BOLD}  main square runs past a gas station.  The pumps
+{BLUE,BOLD}  are right next to the street, but just a few feet
+{BLUE,BOLD}  beyond the pumps are a small shop and a garage.
+{BLUE,BOLD}  The street continues to the south, while the city
+{BLUE,BOLD}  gates to the east lead to a road outside Balamb.
+{BLUE,BOLD}  
+~
+307 0 1
+D1
+~
+~
+0 -1 30739
+D2
+~
+~
+0 -1 30752
+Z3
+C-1
+R0
+S
+#30752
+{BLU,BO}The Streets of Balamb{blu,bo}~
+{BLUE,BOLD}  
+{BLUE,BOLD}  This street runs between Balamb's city gates and
+{BLUE,BOLD}  the main square.  Squat stone houses line both
+{BLUE,BOLD}  sides of the street.  The well-kept houses are
+{BLUE,BOLD}  two stories tall, with steps leading down to the
+{BLUE,BOLD}  first story, slightly below street level.  The
+{BLUE,BOLD}  main square is to the south and a gas station is
+{BLUE,BOLD}  to the north.
+{BLUE,BOLD}
+~
+307 0 1
+D0
+~
+~
+0 -1 30751
+D1
+~
+door~
+1 -1 30753
+D2
+~
+~
+0 -1 30756
+Z3
+C-1
+R0
+S
+#30753
+{Y,BO}The Dincht Household{y,bo}~
+{W,BO}
+  This is a nice little house.  It is slightly
+  cluttered but very clean.  There is a small
+  kitchen area to the north, and a larger living
+  room is visible through a doorway to the east.
+  There are stairs leading up.
+{w,bo}
+~
+307 12 0
+D1
+~
+~
+0 -1 30754
+D3
+~
+door~
+1 -1 30752
+D4
+~
+~
+0 -1 30755
+Z-1
+C-1
+R0
+S
+#30754
+{Y,BO}The Living Room{y,bo}~
+{B,W}  
+{B,W}  The contents of this living room -- a guitar,
+{B,W}  a full bookshelf, a large TV, a computer, some
+{B,W}  magazines scattered on a round coffee stand --
+{B,W}  make it obvious that the people who live here
+{B,W}  are never bored.
+{B,W}  
+~
+307 8 0
+D3
+~
+~
+0 -1 30753
+Z-1
+C-1
+R0
+S
+#30755
+{Y,BO}Zell's Room{y,bo}~
+{W}
+  This room is incredibly clean and tidy.  An
+  encyclopedia lines a bookshelf above a clean
+  and well made bed.  Several punching bags
+  hang from the ceiling, giving the occupant
+  plenty of space to practice.  Several antique
+  guns are proudly displayed on one wall.  They
+  look as if they have not been used in many
+  years.
+{w}
+~
+307 8 0
+D5
+~
+~
+0 -1 30753
+X2048
+Z-1
+C-1
+R0
+S
+#30756
+{BLU,BO}Balamb - Town Square{blu,bo}~
+{BLU,BO}
+  Two major streets intersect here at the main
+  square.  To the north, a large neon sign flashes
+  its message: "Gas Station."  The sea is to the
+  northeast beyond a port.  Train whistles can be
+  heard coming from the northwest.
+{blu,bo}
+~
+307 0 1
+D0
+~
+~
+0 -1 30752
+D1
+~
+~
+0 -1 30758
+D3
+~
+~
+0 -1 30757
+Z3
+C-1
+R0
+S
+#30757
+{BLU,BO}The Streets of Balamb{blu,bo}~
+{BLU,BO}
+  This major street in Balamb ends here, right in
+  front of a train station.  From here, a neon sign
+  for a gas station can still be seen, but the view
+  of the ocean to the northeast is blocked.  The
+  main square is to the immediate east.  Steps
+  leading into the single-story train station are
+  to the north.
+{blu,bo}
+~
+307 0 1
+D0
+~
+~
+0 -1 30761
+D1
+~
+~
+0 -1 30756
+Z3
+C-1
+R0
+S
+#30758
+{BLU,BO}The Streets of Balamb{blu,bo}~
+{BLU,BO}
+  This major street in Balamb ends here, very close
+  to the sea.  The sea is on the other side of the
+  circular building to the north.  The port to the
+  east seems to hold a few transport ships.  The
+  street continues to the west and leads into the
+  main part of the town.
+{blu,bo}
+~
+307 0 1
+D0
+~
+door double~
+1 -1 30759
+D1
+~
+~
+0 -1 30760
+D3
+~
+~
+0 -1 30756
+Z3
+C-1
+R0
+S
+#30759
+{C,BO}The Balamb Hotel{c,bo}~
+{C,BO}
+  The Balamb hotel is a domed, circular building.
+  Floor-to-ceiling windows line the walls, allowing
+  visitors an impressive view of the seascape.  The
+  lobby is an open atrium topped by a gild-worked
+  dome.  The marble front desk is opposite the
+  enterance.
+{c,bo}
+~
+307 140 0
+D2
+~
+door double~
+1 -1 30758
+Z-1
+C-1
+R0
+S
+#30760
+{BLU,BO}Balamb {blu,bo}{C,BO}Harbor{c,bo}~
+{C}
+  The Balamb port is a rather small, but functional
+  harbor.  Two transport ships remain in port,
+  ready for use by the nearby Garden.  A few other
+  similar ships are in harbor, waiting for their
+  turn to dock.  A street leading to Balamb's main
+  square is to the west.
+{c}
+~
+307 4 1
+D2
+~
+~
+0 -1 49572
+D3
+~
+~
+0 -1 30758
+Z3
+C-1
+R0
+S
+#30761
+{W,BO}The Train Station{w,bo}~
+{C}  
+{C}  The Balamb train station is a one-story stone
+{C}  building.  The flourescent lights overhead are
+{C}  harsh.  At regular intervals on the walls, there
+{C}  are brightly lit advertisements and windows above
+{C}  the plastic squares.  Once you buy a ticket from
+{C}  the agent, you can enter the train through the
+{C}  turnstile in front of you.
+{C}  
+~
+307 0 1
+D2
+~
+~
+0 -1 30757
+Z-1
+C-1
+R0
+S
+#30762
+{G}Timber {g}{W,BO}Train Station ({w,bo}{BLU,BO}Balamb Link{blu,bo}{W,BO}){w,bo}~
+{B,WH}  
+{B,WH}  The open-air train station in{b,wh} {GR}Timber{gr} {B,WH}is a huge
+{B,WH}  network of tangled tracks and platforms.  This
+{B,WH}  platform, the one for {BLUE}Balamb {WH}trains, seems to be
+{B,WH}  at the northern end of the train station.  Stone
+{B,WH}  steps connect the platform itself and a small
+{B,WH}  walkway lined with small shops.
+{B,WH}  {b}
+~
+307 0 1
+D2
+~
+~
+0 -1 30763
+Z3
+C-1
+R0
+S
+#30763
+{G}Timber {g}{W,BO}Train Station ({w,bo}{BLA,BO}Galbadia Link{bla,bo}{W,BO}){w,bo}~
+{W,BO}
+  The open-air train station in {w,bo}{G}Timber{g}{W,BO} is a huge
+  network of tangled tracks and platforms.  A small
+  platform for trains to {w,bo}{B,BO}Galbadia{b,bo}{W,BO} is here.  To the
+  north, there is a larger platform for {w,bo}{BLU,BO}Balamb{blu,bo}{W,BO} trains.
+  The station ends and the streets of Timber begin
+  to the east and south.
+{w,bo}
+~
+307 0 1
+D0
+~
+~
+0 -1 30762
+D1
+~
+~
+0 -1 30766
+D2
+~
+~
+0 -1 30764
+Z3
+C-1
+R0
+S
+#30764
+{G}The Streets of Timber{g}~
+{GR}  
+{GR}  This is a major street in the downtown section
+{GR}  of Timber.  Stores line each side of the street,
+{GR}  each proudly displaying its wares.  This gently
+{GR}  curving street continues to the south.  The
+{GR}  Timber train station is to the north.
+{GR}  
+~
+307 0 1
+D0
+~
+~
+0 -1 30763
+D2
+~
+~
+0 -1 30765
+Z3
+C-1
+R0
+S
+#30765
+{G}The Streets of Timber{g}~
+{G}
+  This is a gently curving street in the downtown
+  section of Timber.  Stores line each side of the
+  street, each proudly displaying its wares.  The
+  street passes through an elaborately decorated 
+  archway here before continues south to a very
+  old and dangerous road.
+{g}
+~
+307 0 1
+D0
+~
+~
+0 -1 30764
+D2
+~
+~
+0 -1 30822
+Z3
+C-1
+R0
+S
+#30766
+{G}The Streets of Timber{g}~
+{G}
+  This section of the street leading away from the
+  Timber train station is paved with large stone
+  blocks.  There is a strange design painted on the
+  stones and seems to point to a stone building to
+  the east.  A brass sign over the wooden door
+  names the occupants of this building the Timber
+  Maniacs.  The street continues to the south, and
+  the train station can be reached to the west.
+{g}
+~
+307 0 1
+D1
+~
+door~
+1 -1 30774
+D2
+~
+~
+0 -1 30767
+D3
+~
+~
+0 -1 30763
+Z3
+C-1
+R0
+S
+#30767
+{G}The Streets of Timber{g}~
+{G}
+  This raised street runs north and south.  The
+  Timber train station passes underneath the street
+  and stretches out to either side.  A small two-
+  story building faces the street on one side.  The
+  house looks old but homey, with potted plants
+  sitting in the windows and hanging from the
+  terrace.
+{g}
+~
+307 0 1
+D0
+~
+~
+0 -1 30766
+D1
+~
+door~
+1 -1 30776
+D2
+~
+~
+0 -1 30768
+Z3
+C-1
+R0
+S
+#30768
+{G}The Streets of Timber{g}~
+{G}
+  This raised street begins to slope downward here.
+  The train station passes underneath this street.
+  A small staircase here leads down to a platform.
+  To the south, the street narrows and leads down
+  to a path that runs alongside the train tracks.
+  The street continues to the north.
+{g}
+~
+307 0 1
+D0
+~
+~
+0 -1 30767
+D2
+~
+~
+0 -1 30769
+D5
+~
+~
+0 -1 30778
+Z3
+C-1
+R0
+S
+#30769
+{W,BO}Path Beside the Tracks{w,bo}~
+{B,WH}  
+{B,WH}  This small path runs alongside some train tracks.
+{B,WH}  To the north, the path widens into a street and
+{B,WH}  slopes upward.  South, a staircase leads to the
+{B,WH}  platform and a bridge that spans over the tracks.
+{B,WH}  The entrance to a train tunnel is to the east,
+{B,WH}  but the tunnel is sealed off.
+{B,WH}
+~
+307 0 1
+D0
+~
+~
+0 -1 30768
+D4
+~
+~
+0 -1 30770
+Z3
+C-1
+R0
+S
+#30770
+{W,BO}Above the Tracks{w,bo}~
+{W,BO}
+  Some small buildings are situated on this tiny
+  platform.  One of the small buildings can be
+  entered to the north.  East, a small bridge spans
+  over the tracks.  There is a staircase at the
+  south end of the platform, leading to a small
+  path that runs next to the tracks.
+{w,bo}
+~
+307 0 1
+D0
+~
+door~
+1 -1 30773
+D1
+~
+~
+0 -1 30771
+D5
+~
+~
+0 -1 30769
+Z3
+C-1
+R0
+S
+#30771
+{W,BO}Above the Tracks{w,bo}~
+{B,WH}  
+{B,WH}  You are on a small metal bridge that spans the
+{B,WH}  railroad tracks.  The station itself can be
+{B,WH}  reached to the south.  A small platform and some
+{B,WH}  buildings are to the west.  From here, there is
+{B,WH}  a good view of a sealed train tunnel to the north.
+{B,WH}  
+~
+307 0 1
+D2
+~
+~
+0 -1 30772
+D3
+~
+~
+0 -1 30770
+Z3
+C-1
+R0
+S
+#30772
+{G}Timber {g}{W,BO}Train Station ({w,bo}{Y}Dollet Link{y}{W,BO}){w,bo}~
+{B,WH}  
+{B,WH}  This is the station for the trains that run to
+{B,WH}  Dollet.  It seems to be a busy station, even if
+{B,WH}  it seems to be on the edge of town.  A small
+{B,WH}  bridge to the north leads across the tracks, to
+{B,WH}  the other side of the station.
+{B,WH}
+~
+307 0 1
+D0
+~
+~
+0 -1 30771
+Z3
+C-1
+R0
+S
+#30773
+{BLUE}A Small Home{blue}~
+{BLUE}  
+{BLUE}  This tiny run-down house consists of just one
+{BLUE}  room.  Even though it's small, it has everything
+{BLUE}  a family might need.  But since everything --
+{BLUE}  beds, a couch, a TV, even a large cupboard --
+{BLUE}  is crammed into one room, it is quite crowded.
+{BLUE}  Why, you can't even turn around without running
+{BLUE}  into the sink.
+{BLUE}
+~
+307 8 0
+D2
+~
+door~
+1 -1 30770
+Z-1
+C-1
+R0
+S
+#30774
+{B,WH}Timber Maniacs Reception{b,wh}~
+{W,BO}
+  The Timber Maniacs building clearly houses a small
+  company.  An information desk occupies nearly half
+  of the reception area.  A hallway runs by the desk,
+  dotted here and there stacks upon stacks of old
+  magazines.  A door at the end of the hallway seems
+  to lead to the rest of the building.
+{w,bo}
+~
+307 8 0
+D1
+~
+door~
+1 -1 30775
+D3
+~
+door~
+1 -1 30766
+Z-1
+C-1
+R0
+S
+#30775
+{B,WH}Timber Maniacs Office{b,wh}~
+{B,WH}  
+{B,WH}  Desks are arranged in groups of four along the
+{B,WH}  center of this huge, messy office.  Each desk is
+{B,WH}  covered with a confusion of papers, office
+{B,WH}  supplies, and comics.  The bookshelves that line
+{B,WH}  the walls hold a jumble of books, comics, and
+{B,WH}  files.  Comics are stacked up everywhere:  under
+{B,WH}  the bookshelves, next to desks, along the walls.
+{B,WH}  The office can be exited to the west.
+{B,WH}
+~
+307 8 0
+D3
+~
+door~
+1 -1 30774
+Z-1
+C-1
+R0
+S
+#30776
+{G}A Small Home{g}~
+{W,BO}
+  This house is small and the sparse furnishings
+  look rather run-down, but it's comfortable and
+  quite clean.  The large carpeted room is a
+  combination living room and kitchen area.  A
+  wooden staircase in the back of the room leads
+  to the rest of the house.  The front door is to
+  the west.
+{w,bo}
+~
+307 12 0
+D3
+~
+door~
+1 -1 30767
+D4
+~
+~
+0 -1 30777
+Z-1
+C-1
+R0
+S
+#30777
+{G}The Second Floor Bedroom{g}~
+{W,BO}
+  The entire upper level of this building is a
+  spacious and airy bedroom.  Windows on three
+  sides of the room let in plenty of light and
+  offer an excellent {w,bo}{C}view{c}{W,BO} over the town.  The
+  sparse furnishings and wooden floor add to
+  the airiness of the room.  A wooden staircase
+  leads down to the first floor.
+{w,bo}
+~
+307 8 0
+D5
+~
+~
+0 -1 30776
+E
+window view windows~
+{CY}  
+{CY}  The window looks out over a cluttered alley.
+{CY}  It seems to lead to the backdoor of a pub.
+{CY}  
+~
+Z-1
+C-1
+R0
+S
+#30778
+{G}Timber {g}{W,BO}Train Station ({w,bo}{Y,BO}Desert Link{y,bo}{W,BO}){w,bo}~
+{B,WH}  
+{B,WH}  The{b,wh} {GR}Timber {B,WH}station for trains going to the Desert
+{B,WH}  is very small.  There is a shop to the west, and
+{B,WH}  a bar to the north.  A gate that leads to the
+{B,WH}  platform is to the east, but there is a big sign
+{B,WH}  in front of it that says {RE}KEEP OUT{WH}.  Stairs lead
+{B,WH}  up to the streets of{b,wh} {GR}Timber{B,WH}.
+{B,WH}
+~
+307 0 1
+D0
+~
+door~
+1 -1 30779
+D4
+~
+~
+0 -1 30768
+Z3
+C-1
+R0
+S
+#30779
+{Y}The Pub{y}~
+{Y}
+  The pub by the Desert Station is a very high-tech
+  looking place.  The west part of the large room
+  is dominated by a semi-circular bar raised up on
+  a platform.  A balustrade encircles the bar,
+  leaving enough room for patrons to sit at the bar
+  and for others to walk behind them.  Those who
+  do not wish to sit at the bar can find seats at
+  the tables in the other half of the room.  Large
+  video screens and spot lighting enhance the
+  futuristic feel of the place.
+{y}
+~
+307 13 0
+D0
+~
+backdoor~
+1 -1 30780
+D2
+~
+door~
+1 -1 30778
+Z5
+C-1
+R0
+S
+#30780
+{B,BO}Alley Behind the Pub{b,bo}~
+{B,BO}
+  Broken wooden crates and moldy cardboard boxes
+  fill this narrow, dark alley behind the pub.
+  Trash carelessly dumped on the ground makes the
+  tiles slimy.  A high wall to the east and the
+  backs of buildings to the west block most of the
+  sunlight.  The alley continues to the north, and
+  ends at a backdoor to the south.
+{b,bo}
+~
+307 0 1
+D0
+~
+~
+0 -1 30781
+D2
+~
+backdoor~
+1 -1 30779
+Z6
+C-1
+R0
+S
+#30781
+{B,BO}Alley Behind the Pub{b,bo}~
+{B,BO}
+  Empty steel drums and broken wooden crates fill
+  this back alley.  Railroad tracks can be seen
+  beyond a graffiti-covered wall to the east.  The
+  buildings to the west have no backdoors that
+  open out on to this alley.  There is, however, a
+  staircase that winds up a tall, strange-looking
+  building to the north.
+{b,bo}
+~
+307 0 1
+D2
+~
+~
+0 -1 30780
+D4
+~
+~
+0 -1 30782
+Z6
+C-1
+R0
+S
+#30782
+{W,BO}Before the Abandoned TV Station{w,bo}~
+{B,WH}  
+{B,WH}  These stairs wind their way up a tall tower-like
+{B,WH}  building.  Halfway up the stairs, there is a huge
+{B,WH}  outdoor screen that makes a loud humming noise.
+{B,WH}  Red text scrolls down the screen so fast that the
+{B,WH}  letters are just a blur.  The stairs continue up
+{B,WH}  the tower, or down to an alley.
+{B,WH}
+~
+307 4 1
+D4
+~
+~
+0 -1 30783
+D5
+~
+~
+0 -1 30781
+Z-1
+C-1
+R0
+S
+#30783
+{W,BO}Before the Abandoned TV Station{w,bo}~
+{B,WH}  
+{B,WH}  The view from here at the top of the stairs is
+{B,WH}  amazing.  All of{b,wh} {GR}Timber {B,WH}can be seen, and some of
+{B,WH}  the countryside.  A sign above the tower-like
+{B,WH}  building to the north says {YE}Timber {RE}TV {YE}Station {WH}in
+{B,WH}  bright neon letters.  You can go down the stairs
+{B,WH}  here, or continue north to the TV station.
+{B,WH}
+~
+307 4 1
+D0
+~
+door~
+1 30799 30784
+D5
+~
+~
+0 -1 30782
+Z-1
+C-1
+R0
+S
+#30784
+{B,YE}Timber {RE}TV {YE}Station{b,ye}~
+{BOLD,BLACK}  
+{BOLD,BLACK}  This is a set in the TV station.  Three cameras
+{BOLD,BLACK}  and sound equipment are pointed toward the stage,
+{BOLD,BLACK}  which contains a podium and a bank of microphones
+{BOLD,BLACK}  flanked by two Galbadian flags.  The backdrop is
+{BOLD,BLACK}  a red velvet curtain with a seal of the Galbadian
+{BOLD,BLACK}  president.  There is a small room to the west, or
+{BOLD,BLACK}  the station can be exited to the south.
+{BOLD,BLACK}
+~
+307 137 0
+D2
+~
+door~
+1 -1 30783
+D3
+~
+~
+0 -1 30785
+Z1
+C-1
+R0
+S
+#30785
+{B,YE}Timber {RE}TV {YE}Station{b,ye}~
+{BOLD,BLACK}  
+{BOLD,BLACK}  This is the back of the set to the east.  The
+{BOLD,BLACK}  floor is criss-crossed with various wires for all 
+{BOLD,BLACK}  of the recording equipment and monitors.  Props
+{BOLD,BLACK}  and other stuff are stacked everywhere.  A chair
+{BOLD,BLACK}  in front of a tall vanity mirror serves as the
+{BOLD,BLACK}  makeup station.  The only exit is to the east,
+{BOLD,BLACK}  the front of the set.
+{BOLD,BLACK}
+~
+307 9 0
+D1
+~
+~
+0 -1 30784
+Z8
+C-1
+R0
+S
+#30786
+{Y,BO}Desert {y,bo}{W,BO}Station{w,bo}~
+{B,WH}  
+{B,WH}  A strong, dry wind blows almost constantly across
+{B,WH}  this train station, covering it in a thin layer
+{B,WH}  of sand and dust.  This whistle stop seems out in
+{B,WH}  the middle of nowhere.  Besides a few abandoned
+{B,WH}  shops in the station itself, the desert seems to
+{B,WH}  stretch out in all directions.
+{B,WH}
+~
+307 84 2
+D0
+~
+~
+0 -1 30787
+D2
+~
+~
+0 -1 30793
+D3
+~
+~
+0 -1 30794
+Z-1
+C-1
+R0
+S
+#30787
+{Y,BO}The Desert{w,bo}~
+{B,YE}  
+{B,YE}  A strong, dry wind blows constantly across this
+{B,YE}  desert.  A small train station to the south and
+{B,YE}  a building somewhere off to the northwest is all
+{B,YE}  that is visible in this arid landscape.  Besides
+{B,YE}  the two structures, sand dunes cover the ground
+{B,YE}  as far as the eye can see.
+{B,YE}
+~
+307 80 2
+D0
+~
+~
+0 -1 30788
+D1
+~
+~
+0 -1 30789
+D2
+~
+~
+0 -1 30786
+D3
+~
+~
+0 -1 30791
+Z2
+C-1
+R0
+S
+#30788
+{Y,BO}The Desert{w,bo}~
+{B,YE}  
+{B,YE}  A strong, dry wind blows constantly across this 
+{B,YE}  desert, kicking up the sand.  The swirling sand
+{B,YE}  and unvarying landscape make it difficult to pick
+{B,YE}  out landmarks, so it is very difficult to discern
+{B,YE}  one direction from another.
+{B,YE}
+~
+307 80 2
+D0
+~
+~
+0 -1 30789
+D1
+~
+~
+0 -1 30789
+D2
+~
+~
+0 -1 30791
+D3
+~
+~
+0 -1 30795
+Z2
+C-1
+R0
+S
+#30789
+{Y,BO}The Desert{w,bo}~
+{B,YE}  
+{B,YE}  A strong, dry wind blows constantly across this 
+{B,YE}  desert, kicking up the sand.  The swirling sand
+{B,YE}  and unvarying landscape make it difficult to pick
+{B,YE}  out landmarks, so it is very difficult to discern
+{B,YE}  one direction from another.
+{B,YE}
+~
+307 80 2
+D0
+~
+~
+0 -1 30793
+D1
+~
+~
+0 -1 30789
+D2
+~
+~
+0 -1 30788
+D3
+~
+~
+0 -1 30790
+Z2
+C-1
+R0
+S
+#30790
+{Y,BO}The Desert{w,bo}~
+{B,YE}  
+{B,YE}  A strong, dry wind blows constantly across this 
+{B,YE}  desert, kicking up the sand.  The swirling sand
+{B,YE}  and unvarying landscape make it difficult to pick
+{B,YE}  out landmarks, so it is very difficult to discern
+{B,YE}  one direction from another.
+{B,YE}
+~
+307 80 2
+D0
+~
+~
+0 -1 30794
+D1
+~
+~
+0 -1 30789
+D2
+~
+~
+0 -1 30788
+D3
+~
+~
+0 -1 30795
+Z2
+C-1
+R0
+S
+#30791
+{Y,BO}The Desert{w,bo}~
+{B,YE}  
+{B,YE}  A strong, dry wind blows constantly across this 
+{B,YE}  desert, kicking up the sand.  The swirling sand
+{B,YE}  and unvarying landscape make it difficult to pick
+{B,YE}  out landmarks, so it is very difficult to discern
+{B,YE}  one direction from another.
+{B,YE}
+~
+307 80 2
+D0
+~
+~
+0 -1 30795
+D1
+~
+~
+0 -1 30787
+D2
+~
+~
+0 -1 30798
+D3
+~
+~
+0 -1 30797
+Z2
+C-1
+R0
+S
+#30792
+{Y,BO}The Desert{w,bo}~
+{B,YE}  
+{B,YE}  A strong, dry wind blows constantly across this
+{B,YE}  desert.  A small train station to the east and
+{B,YE}  a building somewhere off to the northwest is all
+{B,YE}  that is visible in this arid landscape.  Besides
+{B,YE}  the two structures, sand dunes cover the ground
+{B,YE}  as far as the eye can see.
+{B,YE}
+~
+307 80 2
+D0
+~
+~
+0 -1 30791
+D1
+~
+~
+0 -1 30786
+D2
+~
+~
+0 -1 30794
+D3
+~
+~
+0 -1 30798
+Z2
+C-1
+R0
+S
+#30793
+{Y,BO}The Desert{w,bo}~
+{B,YE}  
+{B,YE}  A strong, dry wind blows constantly across this
+{B,YE}  desert.  A small train station to the north and
+{B,YE}  a building somewhere off to the northwest is all
+{B,YE}  that is visible in this arid landscape.  Besides
+{B,YE}  the two structures, sand dunes cover the ground
+{B,YE}  as far as the eye can see.
+{B,YE}
+~
+307 80 2
+D0
+~
+~
+0 -1 30786
+D1
+~
+~
+0 -1 30799
+D2
+~
+~
+0 -1 30789
+D3
+~
+~
+0 -1 30794
+Z2
+C-1
+R0
+S
+#30794
+{Y,BO}The Desert{w,bo}~
+{B,YE}  
+{B,YE}  A strong, dry wind blows constantly across this
+{B,YE}  desert.  A small train station a short distance
+{B,YE}  to the northeast and a building somewhere off
+{B,YE}  to the northwest is all that is visible in this
+{B,YE}  arid landscape.  Besides the two structures,
+{B,YE}  there is nothing but sand dunes as far as the
+{B,YE}  eye can see.
+{B,YE}
+~
+307 80 2
+D0
+~
+~
+0 -1 30792
+D1
+~
+~
+0 -1 30793
+D2
+~
+~
+0 -1 30790
+D3
+~
+~
+0 -1 30799
+Z2
+C-1
+R0
+S
+#30795
+{Y,BO}The Desert{w,bo}~
+{B,YE}
+{B,YE}  A strong, dry wind blows constantly across this
+{B,YE}  desert.  The building you could see earlier is
+{B,YE}  still visible to the west.  Nothing else but
+{B,YE}  sand dunes cover the arid ground as far as the
+{B,YE}  eye can see.
+{B,YE}
+~
+307 80 2
+D0
+~
+~
+0 -1 30790
+D1
+~
+~
+0 -1 30790
+D2
+~
+~
+0 -1 30791
+D3
+~
+~
+0 -1 30796
+Z2
+C-1
+R0
+S
+#30796
+{Y,BO}The Desert{w,bo}~
+{B,YE}
+{B,YE}  A strong, dry wind blows constantly across this
+{B,YE}  desert.  The building you could see earlier is
+{B,YE}  still visible to the west.  Nothing else but
+{B,YE}  sand dunes cover the arid ground as far as the
+{B,YE}  eye can see.
+{B,YE}
+~
+307 80 2
+D0
+~
+~
+0 -1 30790
+D1
+~
+~
+0 -1 30795
+D2
+~
+~
+0 -1 30797
+D3
+~
+~
+0 -1 16500
+Z2
+C-1
+R0
+S
+#30797
+{Y,BO}The Desert{w,bo}~
+{B,YE}
+{B,YE}  A strong, dry wind blows constantly across this
+{B,YE}  desert.  The building you could see earlier is
+{B,YE}  still visible to the northwest.  Nothing else
+{B,YE}  but sand dunes cover the arid ground as far as
+{B,YE}  the eye can see.
+{B,YE}  
+~
+307 80 2
+D0
+~
+~
+0 -1 30796
+D1
+~
+~
+0 -1 30791
+D2
+~
+~
+0 -1 30791
+D3
+~
+~
+0 -1 30799
+Z2
+C-1
+R0
+S
+#30798
+{Y,BO}The Desert{w,bo}~
+{B,YE}
+{B,YE}  A strong, dry wind blows constantly across this
+{B,YE}  desert.  The building you could see earlier is
+{B,YE}  still visible to the northwest.  Nothing else
+{B,YE}  but sand dunes cover the arid ground as far as
+{B,YE}  the eye can see.
+{B,YE}  
+~
+307 80 2
+D0
+~
+~
+0 -1 30797
+D1
+~
+~
+0 -1 30792
+D2
+~
+~
+0 -1 30799
+D3
+~
+~
+0 -1 30799
+Z2
+C-1
+R0
+S
+#30799
+{Y,BO}The Desert{w,bo}~
+{B,YE}  
+{B,YE}  A strong, dry wind blows constantly across this
+{B,YE}  desert.  The building you could see earlier is
+{B,YE}  still visible to the north.  Nothing else but
+{B,YE}  sand dunes cover the arid ground as far as the
+{B,YE}  eye can see.
+{B,YE}
+~
+307 80 2
+D0
+~
+~
+0 -1 30798
+D1
+~
+~
+0 -1 30794
+D2
+~
+~
+0 -1 30793
+D3
+~
+~
+0 -1 30798
+Z2
+C-1
+R0
+S
+$~

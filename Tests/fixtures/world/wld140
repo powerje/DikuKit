@@ -1,0 +1,1199 @@
+#14000
+A Well Traveled Road~
+ Just off the main path there is a small
+road that cuts mysteriously through a 
+thick lush forest.  It seems to be safe 
+as you can here the birds flitting through 
+the tree tops chirping a happy song.
+~
+140 0 3
+D0
+~
+~
+0 -1 14001
+Z3
+C-1
+S
+#14001
+A Well Traveled Road~
+
+Continuing along the small road the air becomes cooler 
+as the forest begins to close in. The path is dimmer 
+now as the tree tops have begun to block the sunlight.  
+The birds continue to sing their merry song and a 
+river quietly murmurs in the distance.
+~
+140 0 3
+D0
+~
+~
+0 -1 14002
+D2
+~
+~
+0 -1 14000
+Z4
+C-1
+S
+#14002
+A Well Traveled Road~
+What a nice day for a leisurely walk down a shady road.  
+Then suddenly the path  is growing dimmer and dimmer.  
+The forest is beginning to close in further, blocking out much 
+of the sunlight.  This walk isn't so leisurely any more.
+~
+140 0 3
+D1
+~
+~
+0 -1 14003
+D2
+~
+~
+0 -1 14001
+Z4
+C-1
+S
+#14003
+A Turn in the Road~
+This point in the road turns towards the easterly direction.  
+The forest gets thicker and a smarter person would wonder if 
+continuing would be a good idea.  But the forest no blocks 
+the way back.  The only direction to go is forward.
+~
+140 0 3
+D1
+~
+~
+0 -1 14004
+Z6
+C-1
+S
+#14004
+A Small Road~
+This dark road seems endless but up ahead the path is 
+getting lighter.  What a relief!  The path seems to lead out 
+into a little clearing.
+~
+140 0 3
+D1
+~
+~
+0 -1 14005
+D3
+~
+~
+0 -1 14003
+Z4
+C-1
+S
+#14005
+A Bend in the Road~
+Once again the road turns towards the north.  Now the 
+road has narrowed into a small, pebbly path.  One must 
+wonder what adventures await at the end of this path.
+~
+140 0 3
+D0
+~
+~
+0 -1 14006
+D3
+~
+~
+0 -1 14004
+Z4
+C-1
+S
+#14006
+A Small Path~
+The little path continues northward as the forest 
+continues to thin.  The air is warmer and it is easier to 
+survey the surroundings now in the light of day.  There 
+appears to be a small house in the distance.
+~
+140 0 3
+D0
+~
+~
+0 -1 14007
+D2
+~
+~
+0 -1 14005
+Z3
+C-1
+S
+#14007
+A Small Path~
+The stony path emerges from the forest into the bright light 
+of day.  It definitely leads to a house that can now be plainly 
+seen in the distance.  Who lives there?
+~
+140 0 2
+D0
+~
+~
+0 -1 14008
+D2
+~
+~
+0 -1 14006
+Z3
+C-1
+S
+#14008
+In Front of The House~
+You stand in front of a huge, English Tudor styled house.  
+What's a house like this doing in the middle of nowhere?  
+There is a curious sign here staked to the ground. Some 
+how that name seems familiar.
+~
+140 0 2
+D0
+~
+~
+0 -1 14009
+D2
+~
+~
+0 -1 14007
+E
+The Milne Residence.~
+~
+E
+sign~
+
+The sign reads:
+
+
+Welcome to the Milne Residence!
+~
+Z3
+C-1
+S
+#14009
+The Front Door~
+What a nice, sturdy set of wooden double doors.
+~
+140 33554432 2
+D0
+~
+door~
+1 -1 14012
+D1
+~
+~
+0 -1 14010
+D2
+~
+~
+0 -1 14008
+D3
+~
+~
+0 -1 14011
+Z3
+C-1
+S
+#14010
+The Front Yard~
+This is a huge yard that is very neatly kept by it's owners.  
+The grass is a lush, dark green and the shrubs are 
+meticulously trimmed.  Obviously some children live here for 
+the grass is littered with children's toys and books.
+~
+140 33554432 2
+D3
+~
+~
+0 -1 14009
+Z3
+C-1
+S
+#14011
+The Front Yard~
+This is a huge yard that is very neatly kept by it's owners.  
+The grass is a lush, dark green and the shrubs are 
+meticulously trimmed.  Obviously some children live here for 
+the grass is littered with children's toys and books.
+~
+140 33554432 2
+D1
+~
+~
+0 -1 14009
+Z0
+C-1
+S
+#14012
+The Front Hall~
+You enter a hallway that's laid with pink, marble tiles.  
+There doesn't appear to be anyone home but from the left 
+you can smell the delicious odor of food.  Yummy!  To 
+you right you see the hallway leads to a posh living 
+room.  Up ahead is a fancy, spiraling staircase.
+~
+140 33554432 0
+D0
+~
+~
+0 -1 14015
+D1
+~
+~
+0 -1 14013
+D2
+~
+door~
+1 -1 14009
+D3
+~
+~
+0 -1 14016
+Z4
+C-1
+S
+#14013
+The Living Room~
+The living room appears to be a warm, cozy place.  The 
+fire is crackling in the fireplace and there is a faint scent 
+of vanilla in the air.  The floor is covered by a cushy pink 
+carpet and the walls are wallpapered with a pink floral 
+design.  You wonder what kind of person would be so 
+obsessed with pink things.  Even the leather on the 
+couches are pink.
+~
+140 33554432 0
+D0
+~
+~
+0 -1 14014
+D3
+~
+~
+0 -1 14012
+Z0
+C-1
+S
+#14014
+The Study~
+The room is filled with walls and walls of books.  The 
+occupant of this room must be an avid writer of sorts.  
+The desk is littered with papers and books.  Writing 
+utensils of every shape, size and color are scattered on 
+the top of the writing desk.  Crumpled pieces of paper are 
+also strewn about the floor.  What a slob!
+~
+140 33554432 0
+D2
+~
+~
+0 -1 14013
+D3
+~
+~
+0 -1 14015
+Z3
+C-1
+S
+#14015
+The Stairway~
+Before you is a large, spiraling staircase with wrought 
+iron holds.  You wonder what could be upstairs.
+~
+140 33554432 0
+D1
+~
+~
+0 -1 14014
+D2
+~
+~
+0 -1 14012
+D3
+~
+~
+0 -1 14017
+D4
+~
+~
+0 -1 14018
+Z3
+C-1
+S
+#14016
+The Dining Room~
+As you enter the dining room, the furniture catches your 
+eye.  Both the table and the chairs are made of a beautiful 
+red wood.  The chandelier must consist of thousands 
+of pieces of crystal as it brightens this room up as if the 
+sun was shining directly upon it.
+~
+140 33554432 1
+D0
+~
+~
+0 -1 14017
+D1
+~
+~
+0 -1 14012
+Z1
+C-1
+S
+#14017
+The Kitchen~
+You enter the spotless kitchen and your stomach begins 
+to rumble.  You see the cook here is preparing dinner and 
+whatever he's making, you want some!  Huge freezers 
+and refrigerators line the walls of the kitchen.  Just how 
+many people live here anyways?
+~
+140 33554432 0
+D1
+~
+~
+0 -1 14015
+D2
+~
+~
+0 -1 14016
+Z3
+C-1
+S
+#14018
+The Center of the Hallway~
+You emerge from the stairs to find yourself in the center 
+of a hallway.  
+~
+140 33554432 0
+D1
+~
+~
+0 -1 14019
+D3
+~
+~
+0 -1 14022
+D5
+~
+~
+0 -1 14015
+Z3
+C-1
+S
+#14019
+The Upstairs Hallway~
+You walk down the hallway and notice with annoyance 
+that both the carpet and the walls are pink.  It's beginning 
+to make you nauseous.  The walls are also adorned with 
+pictures now of a rather proper looking English family.  
+They look like rather normal people to you.
+~
+140 33554432 0
+D1
+~
+~
+0 -1 14020
+D3
+~
+~
+0 -1 14018
+Z3
+C-1
+S
+#14020
+The Upstairs Hallway~
+You walk down the hallway and notice with annoyance 
+that both the carpet and the walls are pink.  It's beginning 
+to make you nauseous.  The walls are also adorned with 
+pictures now of a rather proper looking English family.  
+They look like rather normal people to you.
+~
+140 33554432 0
+D1
+~
+~
+0 -1 14021
+D3
+~
+~
+0 -1 14019
+Z0
+C-1
+S
+#14021
+The Master Bedroom~
+You look around the room and decide to dub this 'The 
+Pink Horror'.   EVERYWHERE you look you see pink.  
+The carpet, the walls, the dressers, the doors.  The bed is 
+the most hideous thing you've ever seen.  Covered in 
+pink lace with a huge pink canopy, you'd have to be dead 
+to sleep there.
+~
+140 33554432 0
+D3
+~
+~
+0 -1 14020
+Z3
+C-1
+S
+#14022
+The Upstairs Hallway~
+You walk down the hallway and notice with annoyance 
+that both the carpet and the walls are pink.  It's beginning 
+to make you nauseous.  The walls are also adorned with 
+pictures now of a rather proper looking English family.  
+They look like rather normal people to you.
+~
+140 33554432 0
+D1
+~
+~
+0 -1 14018
+D3
+~
+~
+0 -1 14023
+Z0
+C-1
+S
+#14023
+The Upstairs Hallway~
+You walk down the hallway and notice with annoyance 
+that both the carpet and the walls are pink.  It's beginning 
+to make you nauseous.  The walls are also adorned with 
+pictures now of a rather proper looking English family.  
+They look like rather normal people to you.
+~
+140 33554432 0
+D1
+~
+~
+0 -1 14022
+D3
+~
+~
+0 -1 14024
+Z0
+C-1
+S
+#14024
+The End of the Hallway~
+At the end of the hallway you there are two rooms.  One 
+looks like a child's bedroom and the other appears to be a 
+bedroom that is filled with toys.  Lucky kid.
+~
+140 33554432 0
+D0
+~
+~
+0 -1 14026
+D1
+~
+~
+0 -1 14023
+D2
+~
+~
+0 -1 14025
+Z3
+C-1
+S
+#14025
+Christopher Robin's Room~
+It is very obvious to you that this is a child's bedroom.  
+There are more toys here strewn about the floor and 
+cluttering the shelves.  The walls are streaked with 
+crayon and pencil marks and are decorated with pictures 
+drawn by a child.  You look closely and see that all of the 
+drawings feature a funny looking yellow bear in a red 
+shirt.  
+~
+140 33554432 0
+D0
+~
+~
+0 -1 14024
+Z3
+C-1
+S
+#14026
+The Playroom~
+Never in your life have you seen so many TOYS!  
+Trains, cars, trucks, horses, stuffed animals, books, every 
+toy imaginable seems to be contained in this room!  Most 
+interesting is the left corner of the room which has 
+several stuffed toys, a pig, a rabbit, a tiger, a kangaroo 
+and an owl, gathered around a table, appearing to share 
+afternoon tea.  How cute.  
+~
+140 33554432 0
+D2
+~
+~
+0 -1 14024
+Z3
+C-1
+S
+#14027
+A Grassy Hill~
+With a blink of an eye you emerge onto a grassy hill.  
+Before you is a small path that leads down into a valley 
+dotted with large trees.  You see a sign sticking from the 
+ground.
+~
+140 33554432 2
+D5
+~
+~
+0 -1 14028
+E
+sign~
+The sign reads:
+
+Welcome traveler to the Hundred Acre Wood.
+We hope you enjoy your stay.
+Watch out for bees!
+~
+Z3
+C-1
+S
+#14028
+Down the hill~
+With only one choice of direction, you follow the path 
+down the hill. This is indeed the point of no return for as 
+you look backwards, you see that in seconds the grass has 
+overgrown the path so that it is no longer visible. You 
+continue forward and pray for luck.
+~
+140 33554432 2
+D5
+~
+~
+0 -1 14029
+Z3
+C-1
+S
+#14029
+At a Crossroad~
+You've reached the bottom of the hill and see that the 
+path leads to a little, sandy road.  There is another sign 
+here.
+~
+140 33554432 2
+D0
+~
+~
+0 -1 14030
+E
+sign~
+The Sign Reads:
+
+The Hundred Acre Road
+~
+Z3
+C-1
+S
+#14030
+The Hundred Acre Road~
+This road is sandy and dusty as you walk along searching 
+for signs of life.  It appears to cut through the center of 
+this meadow.  There is a lot of grass here and numerous 
+trees decorate the landscape.
+~
+140 33554432 2
+D1
+~
+~
+0 -1 14034
+Z3
+C-1
+S
+#14034
+The Hundred Acre Road~
+You continue along this road that runs east and west 
+across the meadow.  This place seems a little familiar but 
+you feel a bit strange here.  
+~
+140 33554432 2
+D0
+~
+~
+0 -1 14065
+D1
+~
+~
+0 -1 14035
+Z0
+C-1
+S
+#14035
+The Hundred Acre Road~
+This place doesn't seem too bad after a few more steps.  
+But then up ahead you catch a glimpse of something 
+strange.  Is that a yellow bear in a red shirt?  
+~
+140 33554432 2
+D1
+~
+~
+0 -1 14036
+D3
+~
+~
+0 -1 14034
+Z0
+C-1
+S
+#14036
+The Hundred Acre Road~
+You continue along the Hundred Acre Road and start 
+noticing something rather weird.  It seems so cheerful 
+here.  The birds are singing, the sun is shining, the grass 
+is green and even the flowers seem to be smiling at you.  
+What is this, some kind of child's fantasy??
+~
+140 33554432 2
+D1
+~
+~
+0 -1 14037
+D3
+~
+~
+0 -1 14035
+Z0
+C-1
+S
+#14037
+The Hundred Acre Road~
+This road is sandy and dusty as you walk along searching 
+for signs of life.  It appears to cut through the center of 
+this meadow.  There is a lot of grass here and numerous 
+trees decorate the landscape.
+~
+140 33554432 2
+D0
+~
+~
+0 -1 14060
+D1
+~
+~
+0 -1 14038
+D3
+~
+~
+0 -1 14036
+Z0
+C-1
+S
+#14038
+The Hundred Acre Road~
+Just off the side of the road you glimpse a little path that 
+runs southward.  You look a little closer and see this tiny, 
+little foot prints in the dirt.
+~
+140 33554432 2
+D1
+~
+~
+0 -1 14039
+D3
+~
+~
+0 -1 14037
+Z0
+C-1
+S
+#14039
+The Hundred Acre Road~
+You see a little path to the north at this point of the road.  
+There is a faint sound of buzzing in the air and you smell 
+the sweet scent of honey wafting from that direction.
+~
+140 33554432 2
+D0
+~
+~
+0 -1 14046
+D1
+~
+~
+0 -1 14040
+D3
+~
+~
+0 -1 14038
+Z3
+C-1
+S
+#14040
+The Hundred Acre Road~
+Doesn't this road ever end?  Maybe you're imagining 
+things but this road seems to be never ending.
+~
+140 33554432 2
+D1
+~
+~
+0 -1 14034
+D3
+~
+~
+0 -1 14039
+Z3
+C-1
+S
+#14041
+A Little Path~
+You leave the main road and follow this little path 
+through a small grove of trees.  You are curious as to 
+where this path will lead you.
+~
+140 33554432 2
+D2
+~
+~
+0 -1 14042
+Z3
+C-1
+S
+#14042
+A Little Path~
+The path here curves around to the east.  In the distance 
+you notice a funny looking tree.
+~
+140 33554432 2
+D0
+~
+~
+0 -1 14041
+Z3
+C-1
+S
+#14046
+The Hunny Road~
+The air here is alive with the buzzing of honey bees.  
+They zip by you as they collect pollen from the flowers 
+along the side of the road you walk on.
+~
+140 33554432 2
+D0
+~
+~
+0 -1 14047
+D2
+~
+~
+0 -1 14039
+Z3
+C-1
+S
+#14047
+The Hunny Road~
+The bees seem to have noticed your presence because 
+they've begun to buzz around your head, surveying you.  
+They don't seem to like strangers.
+~
+140 33554432 2
+D0
+~
+~
+0 -1 14048
+D2
+~
+~
+0 -1 14046
+D3
+~
+~
+0 -1 14059
+Z3
+C-1
+S
+#14048
+The Hunny Road~
+In the distance you see the reason behind the bees' 
+agitation.  Up ahead is a large tree with honey dripping 
+down its side.  That must be their hive and they are very 
+unhappy that you have trespassed into their territory.
+~
+140 33554432 2
+D0
+~
+~
+0 -1 14049
+D2
+~
+~
+0 -1 14047
+Z3
+C-1
+S
+#14049
+The Hunny Road~
+A large tree looms before you, its sides slick with gold 
+honey.  The bees are buzzing around you in a frenzy to 
+protect their hive and their queen.
+~
+140 33554432 2
+D2
+~
+~
+0 -1 14048
+D4
+~
+~
+0 -1 14050
+Z3
+C-1
+S
+#14050
+The Hunny Tree~
+You squish through the bees wax and honey as you make 
+your way up the tree.  The guards of the hive dive at you 
+with their stingers trying to drive you from their home.
+~
+140 33554432 0
+D4
+~
+~
+0 -1 14051
+D5
+~
+~
+0 -1 14049
+Z6
+C-1
+S
+#14051
+The Hunny Tree~
+It's really gooey here and the honey is beginning to seep 
+into your shoes.  The bees are getting meaner as you 
+travel further into their home.  Maybe it's time for you to 
+turn back.
+~
+140 33554432 0
+D4
+~
+~
+0 -1 14052
+D5
+~
+~
+0 -1 14050
+Z6
+C-1
+S
+#14052
+The Top of the Hunny Tree~
+You've finally reached the top of the hunny tree.  
+~
+140 33554432 0
+D5
+~
+~
+0 -1 14051
+Z6
+C-1
+S
+#14053
+Another Curious Path~
+This path is littered with bits and pieces of bees wax.  No 
+wonder those bastards were so aggressive, someone's 
+been stealing their hunny!
+~
+140 33554432 2
+Z3
+C-1
+S
+#14054
+Another Curious Path~
+You continue down this little path and begin to notice 
+empty hunny pots scattered here and there along the edge 
+of the path.  Someone must really like this stuff.
+~
+140 33554432 2
+Z0
+C-1
+S
+#14055
+Another Curious Path~
+As you turn the corner, you glimpse another large tree in 
+the distance.
+~
+140 33554432 2
+Z0
+C-1
+S
+#14056
+Another Curious Path~
+Before you is another strange looking tree house.  There 
+is a little bell hanging just outside of the door.  The sign 
+above the door reads: "Mr Sanders".  Who is he?
+~
+140 33554432 2
+Z0
+C-1
+S
+#14057
+Pooh's House~
+You are standing in nowhere !!!!
+~
+140 33554432 0
+Z4
+C-1
+S
+#14058
+Pooh's Bedroom~
+You are standing in nowhere !!!!
+~
+140 33554432 0
+Z4
+C-1
+S
+#14059
+A Little Bridge~
+You cross a little wooden bridge that spans a stream that 
+is know as The Hundred Acre Stream.
+~
+140 33554432 2
+D1
+~
+~
+0 -1 14047
+D3
+~
+~
+0 -1 14061
+Z3
+C-1
+S
+#14060
+The Trashed Trail~
+This path is extremely difficult to walk on due to the 
+holes and ditches that mar the walkway.  Your progress is 
+slowed as you wind your way through these annoying 
+obstacles.
+~
+140 33554432 2
+D0
+~
+~
+0 -1 14061
+D2
+~
+~
+0 -1 14037
+Z3
+C-1
+S
+#14061
+The Trashed Trail~
+You continue down the pot holed path and wonder what 
+kind of destructive creature must live at the end of this 
+trail.  Even the trees next to the path have taken a 
+beating.  You see peeling bark and broken branches on 
+every one.
+~
+140 33554432 2
+D0
+~
+~
+0 -1 14062
+D1
+~
+~
+0 -1 14059
+D2
+~
+~
+0 -1 14060
+Z3
+C-1
+S
+#14062
+In Front of Tigger's Treehouse~
+So this is the culprit's hideout.  It's such a nice looking 
+house for such a destructive mongrel.
+~
+140 33554432 2
+D2
+~
+~
+0 -1 14061
+D4
+~
+~
+0 -1 14063
+Z3
+C-1
+S
+#14063
+Tigger's Treehouse~
+none
+~
+140 33554432 0
+D4
+~
+~
+0 -1 14064
+D5
+~
+~
+0 -1 14062
+Z4
+C-1
+S
+#14064
+Tigger's Treehouse~
+none
+~
+140 33554432 0
+D5
+~
+~
+0 -1 14063
+Z4
+C-1
+S
+#14065
+A Tidy Path~
+You tread upon a little path that has obviously been 
+tended by someone.  Little round stones line the edge of 
+the path and there isn't a single weed in sight.
+~
+140 33554432 2
+D0
+~
+~
+0 -1 14066
+D2
+~
+~
+0 -1 14034
+Z3
+C-1
+S
+#14066
+A Tidy Path~
+This path seems to lead to a curious mound of dirt in the 
+distance.  You also see some large black crows circling 
+above what seems to be someone's garden.
+~
+140 33554432 2
+D0
+~
+~
+0 -1 14067
+D2
+~
+~
+0 -1 14065
+Z3
+C-1
+S
+#14067
+A Tidy Path~
+Up close you realize that the mound of dirt is a rabbit's 
+burrow.  You conclude this from the sign here that says: 
+"Rabbit's House".  In front of the burrow is a tidy little 
+vegetable garden.
+~
+140 33554432 2
+D0
+~
+~
+0 -1 14068
+D2
+~
+~
+0 -1 14066
+Z3
+C-1
+S
+#14068
+Rabbit's Vegetable Garden~
+You see neat little rows of carrots, cabbage and corn here 
+in the garden.  In the center of the garden is a funny, 
+lopsided scarecrow.  Even the crows find it more 
+amusing than scary because this garden is infested with 
+them despite a sign here that shouts "NO KROWS!".
+~
+140 33554432 2
+D1
+~
+~
+0 -1 14069
+D2
+~
+~
+0 -1 14067
+Z3
+C-1
+S
+#14069
+Rabbit's House~
+none
+~
+140 33554432 0
+D3
+~
+~
+0 -1 14068
+Z5
+C-1
+S
+#14070
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+140 0 1
+Z0
+C-1
+S
+#14096
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+140 0 1
+D4
+~
+~
+0 -1 14098
+Z0
+C-1
+S
+#14097
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+140 0 1
+D1
+~
+~
+0 -1 14098
+Z4
+C-1
+S
+#14098
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+140 0 1
+D3
+~
+~
+0 -1 14097
+D5
+~
+~
+0 -1 14096
+Z4
+C-1
+S
+$~

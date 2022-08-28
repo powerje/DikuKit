@@ -1,0 +1,2175 @@
+#36000
+Aboard the Emersus~
+
+
+{CYAN,BO}You've found yourself on the deck of a large,
+six masted ship.  The starbord side informs you that
+you're aboard the Emersus.  There's a locked cabin next
+to the Captian's, it seems to be the only part of the
+ship that you can't get into.
+
+~
+360 33829 1
+D2
+~
+~
+0 -1 36001
+D5
+~
+~
+0 -1 36006
+Z-1
+C-1
+S
+#36001
+On the Deck~
+
+{CYAN,BO}The deck's deserted, it dosn't even look like anyone's
+ever been on this ship.  There's a smell of rot that's leaking
+out of the cabins, maybe you should find out what it is
+~
+360 33825 1
+D0
+~
+~
+0 -1 36000
+D2
+~
+~
+0 -1 36003
+D4
+~
+~
+0 -1 36002
+Z18
+C-1
+S
+#36002
+On the Gunplank~
+You are standing in nowhere !!!!
+~
+360 33825 1
+D5
+~
+~
+0 -1 36001
+Z0
+C-1
+S
+#36003
+Below Deck~
+You are standing in nowhere !!!!
+~
+360 216 1
+D0
+~
+~
+0 -1 36001
+D2
+~
+~
+0 -1 36004
+Z0
+C2
+S
+#36004
+Below Deck~
+You are standing in nowhere !!!!
+~
+360 216 1
+D0
+~
+~
+0 -1 36003
+D1
+~
+Blackthrone~
+3 -1 36005
+Z0
+C2
+S
+#36005
+Blackthrone's Cabin~
+You are standing in nowhere !!!!
+~
+360 16464 1
+D3
+~
+Blackthrone~
+8 -1 36004
+Z0
+C-1
+S
+#36006
+{RED,BO}!OVERBOARD!{red,bo}~
+You are standing in nowhere !!!!
+~
+360 1048576 1
+D5
+~
+~
+0 -1 36007
+Z0
+C-1
+S
+#36007
+{BLU,BO}The Raging Pacific{blu,bo}~
+
+    {CYAN,BO}You've found yourself in the middle of the Pacific
+    Ocean in what might be the largest hurricane in the
+    history of large hurricanes,  the Emersus dissapeared
+    from sight about two seconds after you were thrown
+    overboard.  Your only hope now is to somehow get drifted
+    ashore.
+{cyan,bo}
+~
+360 257 10
+D0
+~
+~
+0 -1 36008
+D1
+~
+~
+0 -1 36009
+Z0
+C-1
+S
+#36008
+{BLU,BO}The Raging Pacific{blu,bo}~
+
+    {CYAN,BO}You've found yourself in the middle of the Pacific
+    Ocean in what might be the largest hurricane in the
+    history of large hurricanes,  the Emersus dissapeared
+    from sight about two seconds after you were thrown
+    overboard.  Your only hope now is to somehow get drifted
+    ashore.
+{cyan,bo}
+~
+360 257 10
+D1
+~
+~
+0 -1 36010
+D2
+~
+~
+0 -1 36007
+Z0
+C-1
+S
+#36009
+{BLU,BO}The Raging Pacific{blu,bo}~
+
+    {CYAN,BO}You've found yourself in the middle of the Pacific
+    Ocean in what might be the largest hurricane in the
+    history of large hurricanes,  the Emersus dissapeared
+    from sight about two seconds after you were thrown
+    overboard.  Your only hope now is to somehow get drifted
+    ashore.
+{cyan,bo}
+~
+360 257 10
+D0
+~
+~
+0 -1 36010
+D3
+~
+~
+0 -1 36007
+Z0
+C-1
+S
+#36010
+{BLU,BO}The Raging Pacific{blu,bo}~
+
+    {CYAN,BO}You've found yourself in the middle of the Pacific
+    Ocean in what might be the largest hurricane in the
+    history of large hurricanes,  the Emersus dissapeared
+    from sight about two seconds after you were thrown
+    overboard.  Your only hope now is to somehow get drifted
+    ashore.
+{cyan,bo}
+~
+360 257 10
+D0
+~
+~
+0 -1 36011
+D2
+~
+~
+0 -1 36009
+D3
+~
+~
+0 -1 36008
+Z0
+C-1
+S
+#36011
+{BLU}The Raging Pacific~
+
+    {CYAN,BO}You've found yourself in the middle of the Pacific
+    Ocean in what might be the largest hurricane in the
+    history of large hurricanes,  the Emersus dissapeared
+    from sight about two seconds after you were thrown
+    overboard.  Your only hope now is to somehow get drifted
+    ashore.
+{cyan,bo}
+~
+360 257 10
+D0
+~
+~
+0 -1 36012
+D1
+~
+~
+0 -1 36013
+D2
+~
+~
+0 -1 36010
+Z0
+C-1
+S
+#36012
+{BLU,BO}The Raging Pacific{blu,bo}~
+
+    {CYAN,BO}You've found yourself in the middle of the Pacific
+    Ocean in what might be the largest hurricane in the
+    history of large hurricanes,  the Emersus dissapeared
+    from sight about two seconds after you were thrown
+    overboard.  Your only hope now is to somehow get drifted
+    ashore.
+{cyan,bo}
+~
+360 257 10
+D1
+~
+~
+0 -1 36014
+D2
+~
+~
+0 -1 36011
+Z0
+C-1
+S
+#36013
+{BLU,BO}The Raging Pacific{blu,bo}~
+
+    {CYAN,BO}You've found yourself in the middle of the Pacific
+    Ocean in what might be the largest hurricane in the
+    history of large hurricanes,  the Emersus dissapeared
+    from sight about two seconds after you were thrown
+    overboard.  Your only hope now is to somehow get drifted
+    ashore.
+{cyan,bo}
+~
+360 257 10
+D0
+~
+~
+0 -1 36014
+D3
+~
+~
+0 -1 36011
+Z0
+C-1
+S
+#36014
+{BLU,BO}The Raging Pacific{blu,bo}~
+
+    {CYAN,BO}You've found yourself in the middle of the Pacific
+    Ocean in what might be the largest hurricane in the
+    history of large hurricanes,  the Emersus dissapeared
+    from sight about two seconds after you were thrown
+    overboard.  Your only hope now is to somehow get drifted
+    ashore.
+{cyan,bo}
+~
+360 257 10
+D1
+~
+~
+0 -1 36015
+D2
+~
+~
+0 -1 36013
+D3
+~
+~
+0 -1 36012
+Z0
+C-1
+S
+#36015
+{BLU,BO}The Raging Pacific{blu,bo}~
+
+    {CYAN,BO}You've found yourself in the middle of the Pacific
+    Ocean in what might be the largest hurricane in the
+    history of large hurricanes,  the Emersus dissapeared
+    from sight about two seconds after you were thrown
+    overboard.  Your only hope now is to somehow get drifted
+    ashore.
+{cyan,bo}
+~
+360 257 10
+D0
+~
+~
+0 -1 36016
+D3
+~
+~
+0 -1 36014
+Z0
+C-1
+S
+#36016
+{Y,BO}On a Beach{y,bo}~
+
+    {CYAN,BO}You've made it to the beach!  Finally you're on land!
+    There appears to be a large villiage located about a mile east
+    from here.
+
+~
+360 16777220 1
+D1
+~
+~
+0 -1 36017
+D2
+~
+~
+0 -1 36015
+Z0
+C-1
+S
+#36017
+{Y,BO}A Path Up The Beach{y,bo}~
+
+    {CYAN,BO}There's something strange about this path, the fact
+    that there's still growth on it is disturbing.  A path
+    between a village and a ocean should be pretty well worn,
+    this one still has growth on it though.
+
+    The village is becomming a bit clearer now, you can make out
+    villagers walking around with funny sombaro-like hats.
+
+~
+360 0 1
+D1
+~
+~
+0 -1 36018
+D3
+~
+~
+0 -1 36016
+Z0
+C-1
+S
+#36018
+{Y,BO}A Path Up The Beach{y,bo}~
+
+    {CYAN,BO}There's something strange about this path, the fact
+    that there's still growth on it is disturbing.  A path
+    between a village and a ocean should be pretty well worn,
+    this one still has growth on it though.
+
+    The village is becomming a bit clearer now, you can make out
+    villagers walking around with funny sombaro-like hats.
+
+~
+360 0 1
+D1
+~
+~
+0 -1 37400
+D3
+~
+~
+0 -1 36017
+D4
+~
+~
+0 -1 36019
+Z0
+C-1
+S
+#36019
+{Y,BO}Before the Village of Anjiro{y,bo}~
+
+    {CYAN,BO}This village looks nothing like the villages you're
+    used to from Europe.  The houses are made from some sort
+    of fabric or paper even.  There's no trash in the streets
+    and no foul smell of rot.  The villagers seem to be wearing
+    sombaro's on their heads, only they come to a point at the
+    top of their heads.  Strange place you've come upon.
+
+~
+360 0 1
+D0
+~
+~
+0 -1 36020
+D5
+~
+~
+0 -1 36018
+Z0
+C-1
+S
+#36020
+{Y,BO}Main Street Anjiro{y,bo}~
+
+    {CYAN,BO}Finally!  You recognize these people as Japanese!  The
+    first portugeese ship to cross the pacific and you were
+    on it!  Maybe you can get repairs for the Emersus if you act
+    like a diplomat.  You're going to need to find their leader first
+    though.
+
+~
+360 0 1
+D0
+~
+~
+0 -1 36021
+D2
+~
+~
+0 -1 36019
+Z0
+C-1
+S
+#36021
+{Y,BO}Main Street Anjiro{y,bo}~
+
+    {CYAN,BO}As you walk farther down the path things become a
+    bit clearer to you.  You begin to notice that there's
+    only several different hair styles.  What is odviously
+    samurai all wear their hair the same, women all have
+    the same hair and general clothing.  But it's the eta
+    that put a smile on your face.
+ 
+    In Japaneese culture eta are worth about as much as a 
+    blade of grass.  They're below pesants, and they did
+    nothing more than to be born into poverty.  But they
+    are also the most fun-loving and wild Japaneese there
+    is.  You think this is your crowd.
+~
+360 0 1
+D0
+~
+~
+0 -1 36022
+D2
+~
+~
+0 -1 36020
+Z0
+C-1
+S
+#36022
+{Y,BO}A Intersection{y,bo}~
+
+    {CYAN,BO}This is a intersection in the town of Anjiro.  It
+    basically connects their two roads togeather.  To the
+    north and to the south basically look exactly like eachother
+    
+~
+360 0 1
+D1
+~
+~
+0 -1 36026
+D2
+~
+~
+0 -1 36021
+D3
+~
+~
+0 -1 36027
+Z0
+C-1
+S
+#36023
+{Y,BO}Entrance to a Tea House{y,bo}~
+
+    {CYAN,BO}A Tea House in Japan and a Tea House in England are
+    about as different as two houses get.  In Japan Tea
+    Houses are extremly high class brothels.  The women go
+    through years of training to become a "Lady of the Willow"
+
+~
+360 0 1
+D0
+~
+~
+0 -1 36028
+D1
+~
+~
+0 -1 36024
+Z0
+C-1
+S
+#36024
+{Y,BO}The Tea House{y,bo}~
+
+    {CYAN,BO}This is a strange place.  There's "classy" pictures of
+    men and women in different sexual positions on the walls.
+    the light has somehow been fixed to stay at a constant
+    dim glow.  The walls seem to have ears in this house.
+
+~
+360 0 1
+D0
+~
+~
+0 -1 36025
+D3
+~
+~
+0 -1 36023
+Z11
+C-1
+S
+#36025
+{Y,BO}The Bridal Suite{y,bo}~
+
+    {CYAN,BO}There's a bed in the middle of the room with satin and silk
+    sheets and blankets.  Also, several different sexual devices
+    have been scattered about.  One of the most georgous women you've
+    ever laid your eyes on is sitting on the bead.
+
+~
+360 0 1
+D2
+~
+~
+0 -1 36024
+Z0
+C-1
+S
+#36026
+{Y,BO}A worn down Path{y,bo}~
+
+    {CYAN,BO}This path has been beaten down so much that it is
+    actually about a foot under the ground.  But still, 
+    the soil is kind on your feet.  Strange how much they
+    keep up a silly litle town like this.
+
+~
+360 0 1
+D1
+~
+~
+0 -1 36028
+D3
+~
+~
+0 -1 36022
+Z0
+C-1
+S
+#36027
+{Y,BO}A worn down Path{y,bo}~
+
+    {CYAN,BO}This path has been beaten down so much that it is
+    actually about a foot under the ground.  But still, 
+    the soil is kind on your feet.  Strange how much they
+    keep up a silly litle town like this.
+
+~
+360 0 1
+D1
+~
+~
+0 -1 36022
+D2
+~
+~
+0 -1 36030
+D3
+~
+~
+0 -1 36032
+Z0
+C-1
+S
+#36028
+{Y,BO}A worn down Path{y,bo}~
+
+    {CYAN,BO}This path has been beaten down so much that it is
+    actually about a foot under the ground.  But still, 
+    the soil is kind on your feet.  Strange how much they
+    keep up a silly litle town like this.
+
+~
+360 0 1
+D0
+~
+~
+0 -1 36029
+D1
+~
+~
+0 -1 36095
+D2
+~
+~
+0 -1 36023
+D3
+~
+~
+0 -1 36026
+Z0
+C-1
+S
+#36029
+{Y,BO}Mura's Market{y,bo}~
+
+    {CYAN,BO}Mura, the village's leader is here running his market.
+    every so often someone will run in and ask him a question
+    to which he replies after a split second of decision-making.
+    He's here selling his goods for whatever he can get, which
+    usually isn't much.
+
+~
+360 0 1
+D2
+~
+~
+0 -1 36028
+Z0
+C-1
+S
+#36030
+{Y,BO}Omi's House{y,bo}~
+
+    {CYAN,BO}Omi, the head samurai in the Anjiro lives here.
+    His duty's are to keep everyone busy and to make
+    sure that the village produces enough koku each
+    year.  At the moment Omi dosn't appear to be home.{cyan,bo}
+
+
+~
+360 0 1
+D0
+~
+~
+0 -1 36027
+D2
+~
+~
+0 -1 36031
+Z0
+C-1
+S
+#36031
+{Y,BO}A beutiful garden{y,bo}~
+
+    {CYAN,BO}This garden is amazing.  The lushness of the grass,
+    the color's of the flowers, the stream that's flowing 
+    through the garden and dissappears underneath the house.
+    Sitting in the middle of the garden are two women.
+    One is amazingly georgous, the other is old and ugly.
+
+~
+360 0 1
+D0
+~
+~
+0 -1 36030
+Z0
+C-1
+S
+#36032
+A road through the country~
+
+    {CYAN,BO}You've left Anjiro and you're now walking down
+    a road, actually called the Takaido Road.  There are
+    two main roads that run the length of japan, and you
+    have just gotten onto one of them.
+
+~
+360 4 1
+D1
+~
+~
+0 -1 36027
+D2
+~
+~
+0 -1 37411
+D3
+~
+~
+0 -1 36033
+Z0
+C-1
+S
+#36033
+{Y,BO}Tokaido Road{y,bo}~
+
+    {CYAN,BO}You've left Anjiro and you're now walking down
+    a road, actually called the Takaido Road.  There are
+    two main roads that run the length of japan, and you
+    have just gotten onto one of them.
+
+~
+360 0 1
+D0
+~
+~
+0 -1 36034
+D1
+~
+~
+0 -1 36032
+Z0
+C-1
+S
+#36034
+{Y,BO}Tokaido Road{y,bo}~
+
+    {CYAN,BO}This is one of established roads through Japan.
+    The mountains are high and the valleys narrow, a
+    perfect place for a ambush.
+
+~
+360 0 1
+D2
+~
+~
+0 -1 36033
+D4
+~
+~
+0 -1 36035
+Z0
+C-1
+S
+#36035
+{Y,BO}Tokaido Road{y,bo}~
+
+    {CYAN,BO}Christ almighty!  This road is horrid.  It's
+    about ten feet wide in places, on one side a cliff
+    on the other, a straight drop to the bottom of
+    the mountain.  Better watch your step
+
+~
+360 0 1
+D3
+~
+~
+0 -1 36037
+D4
+~
+~
+0 -1 36036
+D5
+~
+~
+0 -1 36034
+Z0
+C-1
+S
+#36036
+{Y,BO}Tokaido Road{y,bo}~
+
+    {CYAN,BO}Christ almighty!  This road is horrid.  It's
+    about ten feet wide in places, on one side a cliff
+    on the other, a straight drop to the bottom of
+    the mountain.  Better watch your step
+
+~
+360 0 1
+D2
+~
+~
+0 -1 36038
+D3
+~
+~
+0 -1 36037
+D5
+~
+~
+0 -1 36035
+Z0
+C-1
+S
+#36037
+{RED,BO}!!!!!OVER THE CLIFF!!!!!!!!{red,bo}~
+
+    {CYAN,BO}You've really done it this time.  You're falling
+    and falling and falling and falling.  You look down and
+    realize you'll probally be dead before you even
+    get to the bottom, your body is going to hit that rock right
+    there........
+
+~
+360 524290 1
+Z0
+C-1
+S
+#36038
+{Y,BO}A camp high in the mountains~
+
+    {CYAN,BO}It looks like there's a military camp way up here
+    in the mountains.  They must be waiting here to
+    ambush another army.  There seems to be thousands
+    of soldiers in {W}GRAY{w} {CYAN,BO}uniforms.{cyan,bo}
+
+~
+360 4 1
+D0
+~
+~
+0 -1 36036
+D1
+~
+~
+0 -1 36042
+D2
+~
+~
+0 -1 36040
+D3
+~
+~
+0 -1 36037
+Z0
+C-1
+S
+#36039
+{Y,BO}A pathway between tents{y,bo}~
+
+    {CYAN,BO}There's tents on either side of you, seems
+    like the tents are carbon copies of eachother.  The
+    bonfire in the distance can be seen from 30 miles
+    away.  You begin to think that if you had a {W}Gray{w}
+    {CYAN,BO}uniform, these guys might be nicer to you.
+
+~
+360 0 1
+D0
+~
+~
+0 -1 36045
+D1
+~
+~
+0 -1 36043
+D2
+~
+~
+0 -1 36044
+D3
+~
+~
+0 -1 36042
+Z0
+C-1
+S
+#36040
+{Y,BO}Tokaido Road{y,bo}~
+
+    {CYAN,BO}Well, you've left the camp behind you now and
+    you're on your way to Osaka.  You've heard that Ishido
+    and five other Regants are presiding there.  Only
+    Toranaga has the power and courage to stand against them.
+ 
+~
+360 0 1
+D0
+~
+~
+0 -1 36038
+D3
+~
+~
+0 -1 36037
+D5
+~
+~
+0 -1 36050
+Z0
+C-1
+S
+#36041
+{Y,BO}The Bonfire{y,bo}~
+
+    {CYAN,BO}The flames of this fire look like they're more than
+    seventy feet in the air.  Moreover, for thirity thousand
+    soldiers, it looks like there's just this one fire.  That's
+    strange.  It also appears to be the exact center of the camp.
+
+~
+360 0 1
+D0
+~
+~
+0 -1 36047
+D3
+~
+~
+0 -1 36043
+Z0
+C-1
+S
+#36042
+{Y,BO}A pathway between tents{y,bo}~
+
+    {CYAN,BO}There's tents on either side of you, seems
+    like the tents are carbon copies of eachother.  The
+    bonfire in the distance can be seen from 30 miles
+    away.  You begin to think that if you had a {W}Gray{w}
+    {CYAN,BO}uniform, these guys might be nicer to you.
+
+~
+360 0 1
+D1
+~
+~
+0 -1 36039
+D3
+~
+~
+0 -1 36038
+Z0
+C-1
+S
+#36043
+{Y,BO}A pathway between tents{y,bo}~
+
+    {CYAN,BO}There's tents on either side of you, seems
+    like the tents are carbon copies of eachother.  The
+    bonfire in the distance can be seen from 30 miles
+    away.  You begin to think that if you had a {W}Gray{w}
+    {CYAN,BO}uniform, these guys might be nicer to you.
+
+~
+360 0 1
+D0
+~
+~
+0 -1 36046
+D1
+~
+~
+0 -1 36041
+D3
+~
+~
+0 -1 36039
+Z0
+C-1
+S
+#36044
+{Y,BO}Inside a Samurai's Tent{y,bo}~
+
+    {CYAN,BO}This tent is kept maticilously clean, that's the
+    only thing you really notice at first.  Even the
+    dirt on the ground appears to have been swept.
+    That's just wierd.
+
+~
+360 0 1
+D0
+~
+~
+0 -1 36039
+Z0
+C-1
+S
+#36045
+{Y,BO}Inside a Samurai's Tent{y,bo}~
+
+    {CYAN,BO}This tent is kept maticilously clean, that's the
+    only thing you really notice at first.  Even the
+    dirt on the ground appears to have been swept.
+    That's just wierd.
+
+~
+360 0 1
+D2
+~
+~
+0 -1 36039
+Z0
+C-1
+S
+#36046
+{Y,BO}Inside a Samurai's Tent{y,bo}~
+
+    {CYAN,BO} This tent is kept maticilously clean, that's the
+only thing you really notice at first.  Even the
+dirt on the ground appears to have been swept.
+That's just wierd.
+
+~
+360 0 1
+D2
+~
+~
+0 -1 36043
+Z0
+C-1
+S
+#36047
+{Y,BO}The Palace Tent{y,bo}~
+
+    {CYAN,BO}Sweet lord, this tent looks like it's packing
+    two stories!  There's a damn smokestack comming
+    out of this monster.  There's also two elite{cyan,bo} {W}GRAY{w}
+    {CYAN,BO}guards hanging out in front, maybe you should kill them.
+
+~
+360 0 1
+D0
+~
+~
+0 -1 36048
+D2
+~
+~
+0 -1 36041
+Z0
+C-1
+S
+#36048
+{Y,BO}Outside the Palace Tent{y,bo}~
+
+    {CYAN,BO}You can see inside the tent now, and it's every
+    bit as big as you thought it would be.  There's
+    a couple of men inside sitting on the ground
+    each of them are wearing swords and expensive
+    silk.
+
+~
+360 4 1
+D0
+~
+~
+0 -1 36049
+D2
+~
+~
+0 -1 36047
+Z-1
+C-1
+S
+#36049
+{Y,BO}Just inside the tent{y,bo}~
+
+    {CYAN,BO}You can see several hunting hawks purched and
+    hooded in the corner.  They are absolutly magnificent
+    creatures, so sorry to any rabbits or phesants that
+    might live in the area.
+
+~
+360 0 1
+D2
+~
+~
+0 -1 36048
+Z-1
+C2
+S
+#36050
+{Y,BO}Tokaido Road{y,bo}~
+
+    {CYAN,BO}Well, you've left the camp behind you now and
+    you're on your way to Osaka.  You've heard that Ishido
+    and five other Regants are presiding there.  Only
+    Toranaga has the power and courage to stand against them.
+ 
+~
+360 0 1
+D2
+~
+~
+0 -1 36051
+D4
+~
+~
+0 -1 36040
+Z0
+C-1
+S
+#36051
+{Y,BO}Outside Osaka{y,bo}~
+
+    {CYAN,BO}This is unlike anything of this world.  The city
+    of Osaka has about seven millon people, it's huge.
+    but the impressive part of the city is the fortress
+    located in the middle of Osaka.
+
+    Osaka castle was built to support one hundred and
+    eighty thousand samurai and ronin.  It's seven
+    stories high and built on a hill.  A true testamate
+    to the power of human intelligence.
+
+~
+360 0 1
+D0
+~
+~
+0 -1 36050
+D2
+~
+~
+0 -1 36052
+Z0
+C-1
+S
+#36052
+{Y,BO}Osaka Checkpoint{y,bo}~
+
+    {CYAN,BO}The Japaneese were amazing with papers and keeping
+    track of their citizens.  To enter one providence you
+    have to have signed passport papers from the daimyo
+    of your providence.  So unless you have papers you
+    might as well turn around.
+
+~
+360 0 1
+D0
+~
+~
+0 -1 36051
+Z0
+C-1
+S
+#36053
+At the docks~
+
+    {CYAN,BO}You're at the docks now.  You're suprised at 
+    how few Japaneese ships are in the harbor, But then 
+    you remember that the Japaneese are afraid of the water.
+    One ship in paticular stands out from the rest.
+    THE BLACK SHIP.  It's eneromous!  About as long as
+    the Titanic, it's made to carry tons and tons of gold
+    and silk to China from Japan.  You decide it's a good
+    idea to inspect it further.
+
+~
+360 0 1
+D0
+~
+~
+0 -1 36054
+D3
+~
+~
+0 -1 36055
+Z0
+C-1
+S
+#36054
+Walking down the dock.~
+
+    {CYAN,BO}You're walking down the dock toward The Black Ship,
+    soon you realize you have a bit of a problem.  The Black Ship is
+    anchored about 1000 yards off shore, and the dock only
+    protudes about 50 yards into the water.  You're going
+    to have to find some other way to The Black Ship.
+
+~
+360 0 1
+D0
+~
+~
+0 -1 36057
+D1
+~
+~
+0 -1 36056
+D2
+~
+~
+0 -1 36053
+Z0
+C-1
+S
+#36055
+Harbor Master's Office~
+
+    {CYAN,BO}There's this little chinese man sitting here,
+    the second he sees you he puts on his best smile and
+    asks how he can help you.  I think you should kill him.
+
+~
+360 0 1
+D1
+~
+~
+0 -1 36053
+Z0
+C-1
+S
+#36056
+A plank to a Galley~
+
+    {CYAN,BO}A galley is a ship that's rowed.  Sure it uses
+    sails, but by making samurai row the ship, a diaymo
+    can make much better time to his destination.  Also
+    Japaneese sailing consists of staying within sight
+    of land, by rowing the ship it is assured that you
+    always have momentum, even without wind.
+
+~
+360 0 1
+D1
+~
+~
+0 -1 36058
+D3
+~
+~
+0 -1 36054
+Z0
+C-1
+S
+#36057
+At the end of the dock~
+
+    {CYAN,BO}You're at the end of the dock, and there's no
+    way to get to The Black Ship.  Wonder if you can use 
+    that Galley over there?
+
+~
+360 0 1
+D2
+~
+~
+0 -1 36054
+Z0
+C-1
+S
+#36058
+A Galley~
+
+    {CYAN,BO}There's nothing sleek or majestic about this
+    ship.  It's a simple little boat with 60 ores jutting
+    out of the sides.  Maybe you can{cyan,bo} {GREEN,BLINK}ROW{green,blink} {CYAN,BO}the
+    galley to The Black Ship.
+
+~
+360 0 1
+D3
+~
+~
+0 -1 36056
+Z0
+C-1
+S
+#36059
+The Black Ship~
+
+    {CYAN,BO}You've found yourself on the deck of The Black Ship.
+    You know know what a mouse feels like when he's looking
+    up at the empire state building.  The Black Ship is even
+    larger than Erasmus!  This is going to take a while to
+    explor.
+
+~
+360 0 1
+D2
+~
+~
+0 -1 36064
+Z0
+C-1
+S
+#36060
+On the deck~
+
+    {CYAN,BO}The deck of this eight masted ship is about a mile long!
+    you're on the bow at the moment, you can see someone on the
+    gunplank and someone in the crows nest.  Maybe you should
+    check them out.
+
+~
+360 0 1
+D0
+~
+~
+0 -1 36064
+D2
+~
+~
+0 -1 36061
+Z0
+C-1
+S
+#36061
+On the deck~
+
+    {CYAN,BO}The deck of this eight masted ship is about a mile long!
+    you're on the bow at the moment, you can see someone on the
+    gunplank and someone in the crows nest.  Maybe you should
+    check them out.
+
+~
+360 0 1
+D0
+~
+~
+0 -1 36060
+D2
+~
+~
+0 -1 36062
+D4
+~
+~
+0 -1 36065
+Z0
+C-1
+S
+#36062
+On the deck~
+
+    {CYAN,BO}The deck of this eight masted ship is about a mile long!
+    you're on the bow at the moment, you can see someone on the
+    gunplank and someone in the crows nest.  Maybe you should
+    check them out.
+
+~
+360 0 1
+D0
+~
+~
+0 -1 36061
+D2
+~
+wooden door~
+6 -1 36067
+D4
+~
+~
+0 -1 36063
+Z0
+C-1
+S
+#36063
+The gunplank of The Black Ship~
+
+    {CYAN,BO}You're on the gunplank of The Black Ship
+    The man here is a salty-smelly-digusting-filty slob.
+    he is just a reminder to you of how dirty Europe is
+    compared to Japan.
+
+~
+360 0 1
+D5
+~
+~
+0 -1 36062
+Z0
+C-1
+S
+#36064
+On the deck~
+
+    {CYAN,BO}The deck of this eight masted ship is about a mile long!
+    you're on the bow at the moment, you can see someone on the
+    gunplank and someone in the crows nest.  Maybe you should
+    check them out.
+
+~
+360 0 1
+D0
+~
+~
+0 -1 36059
+D2
+~
+~
+0 -1 36060
+Z0
+C-1
+S
+#36065
+Climbing the main Mast~
+
+    {CYAN,BO}The main mast is huge, you can't even see the top of it
+    from the deck.  The crows nest looks like it might have someone
+    in it.
+
+~
+360 4 1
+D4
+~
+~
+0 -1 36066
+D5
+~
+~
+0 -1 36061
+Z0
+C2
+S
+#36066
+The Crows Nest~
+
+     {CYAN,BO}You are now about eye level with the top of Osaka
+    castle.  The harbor's dead, the wind's dead and the town
+    looks dead from here.  This isn't the majestic view you 
+    thought it would be, instead it kind of creeps you out.
+
+~
+360 4 1
+D5
+~
+~
+0 -1 36065
+Z0
+C2
+S
+#36067
+Inside the Black Ship~
+
+    {CYAN,BO}The walkways of The Black Ship are a bit more like
+    a castle than any ship you're used to.  The ceilings are about
+    eight feet high instead of the usual six feet on sailing
+    vessels.  You can count five doors lining the hall and
+    a ladder at the end that must lead down to the cargo
+    hold.
+
+~
+360 16392 1
+D0
+~
+wooden door~
+6 -1 36062
+D2
+~
+~
+0 -1 36068
+D3
+~
+door~
+6 -1 36072
+Z0
+C-1
+S
+#36068
+Inside the Black Ship~
+
+    {CYAN,BO}The walkways of The Black Ship are a bit more like
+    a castle than any ship you're used to.  The ceilings are about
+    eight feet high instead of the usual six feet on sailing
+    vessels.  You can count five doors lining the hall and
+    a ladder at the end that must lead down to the cargo
+    hold.
+
+~
+360 16392 1
+D0
+~
+~
+0 -1 36067
+D1
+~
+~
+0 -1 36076
+D2
+~
+~
+0 -1 36069
+Z0
+C-1
+S
+#36069
+Inside the Black Ship~
+
+    {CYAN,BO}The walkways of The Black Ship are a bit more like
+    a castle than any ship you're used to.  The ceilings are about
+    eight feet high instead of the usual six feet on sailing
+    vessels.  You can count five doors lining the hall and
+    a ladder at the end that must lead down to the cargo
+    hold.
+
+~
+360 16392 1
+D0
+~
+~
+0 -1 36068
+D1
+~
+door~
+6 -1 36070
+D5
+~
+ladder~
+8 -1 36071
+Z0
+C-1
+S
+#36070
+The ships doctor~
+
+    {CYAN,BO}A small man who doubles as the ships barber is whistling
+    to himself here.  His skills as a doctor basically consist of 
+    cutting his patients and having them bleeding all of the
+    bad blood out of their systems.  Oh, and he can also set 
+    a bone.
+
+~
+360 16392 1
+D3
+~
+door~
+1 -1 36069
+Z0
+C1
+S
+#36071
+The Cargo Hold~
+
+    {CYAN,BO}This is the cargo hold where all the silk and
+    gold are stored.  The crates in here are absolutly
+    huge!  There must be some valuable merchandise
+    inside those puppies.
+
+~
+360 49161 1
+D0
+~
+~
+0 -1 36075
+D3
+~
+~
+0 -1 36073
+D4
+~
+ladder~
+1 -1 36069
+E
+crate crates box~
+
+    {RED,BLINK}These crates hold the values of the orient......
+    ..........smash them and find out what's inside!!!
+~
+Z0
+C-1
+S
+#36072
+The Conference Room~
+
+    {CYAN,BO}This is where the head honchos of the Portugese make
+    their decisions with forign leaders.  There appears to be two
+    of those honchos here now!
+
+~
+360 8 1
+D1
+~
+door~
+1 -1 36067
+X6291456
+Z0
+C-1
+S
+#36073
+The Cargo Hold~
+
+    {CYAN,BO}This is the cargo hold where all the silk and
+    gold are stored.  The crates in here are absolutly
+    huge!  There must be some valuable merchandise
+    inside those puppies.
+
+~
+360 49161 1
+D0
+~
+~
+0 -1 36074
+D1
+~
+~
+0 -1 36071
+Z0
+C-1
+S
+#36074
+The Cargo Hold~
+
+    {CYAN,BO}This is the cargo hold where all the silk and
+    gold are stored.  The crates in here are absolutly
+    huge!  There must be some valuable merchandise
+    inside those puppies.
+
+~
+360 49161 1
+D1
+~
+~
+0 -1 36075
+D2
+~
+~
+0 -1 36073
+E
+crate crates~
+
+    {R,BLINK}These crates hold the values of the Orient......
+    ...........smash them and find out what's inside!!!
+
+~
+Z19
+C-1
+S
+#36075
+The Cargo Hold~
+
+    {CYAN,BO}This is the cargo hold where all the silk and
+    gold are stored.  The crates in here are absolutly
+    huge!  There must be some valuable merchandise
+    inside those puppies.
+
+~
+360 49161 1
+D2
+~
+~
+0 -1 36071
+D3
+~
+~
+0 -1 36074
+E
+crate~
+
+    {R,BLINK}These crates hold the values of the Orient......
+    ...........smash them and find out what's inside!!!
+
+~
+Z0
+C-1
+S
+#36076
+The Mess Hall~
+
+    {CYAN,BO}It's the mess hall for a reason, it's digusting!
+    there's food on the walls.... floor... ceiling.  Rot
+    is seeping from every corner, and the rats are seen 
+    here and there, they must be living like kings.
+
+~
+360 49160 1
+D3
+~
+~
+0 -1 36068
+Z0
+C-1
+S
+#36077
+{B,BO}A street in Osaka{b,bo}~
+
+    {CYAN,BO}Every stupid street in this place looks
+    the exact same, because the houses are so high
+    you don't even know where the castle is anymore.
+    none of the villagers speak any english so
+    they're no help.  The only way to get to
+    the castle is run around.... hopefully not
+    in circles.
+ 
+~
+360 128 1
+D2
+~
+~
+0 -1 36078
+D3
+~
+~
+0 -1 36079
+Z0
+C-1
+S
+#36078
+{B,BO}A street in Osaka{b,bo}~
+
+    {CYAN,BO}Every stupid street in this place looks
+    the exact same, because the houses are so high
+    you don't even know where the castle is anymore.
+    none of the villagers speak any english so
+    they're no help.  The only way to get to
+    the castle is run around.... hopefully not
+    in circles.
+ 
+~
+360 128 1
+D0
+~
+~
+0 -1 36077
+D3
+~
+~
+0 -1 36084
+Z0
+C-1
+S
+#36079
+{B,BO}An alley{b,bo}~
+
+    {CYAN,BO}You've quickly discovered that this town's alley's
+    are very long and twisted, and very narrow.  But there
+    seems to be a life of it's own in these alleys.  Maybe
+    you should be careful back here.
+ 
+~
+360 132 1
+D1
+~
+~
+0 -1 36077
+D3
+~
+~
+0 -1 36080
+Z0
+C-1
+S
+#36080
+{B,BO}An alley{b,bo}~
+
+    {CYAN,BO}You've quickly discovered that this town's alley's
+    are very long and twisted, and very narrow.  But there
+    seems to be a life of it's own in these alleys.  Maybe
+    you should be careful back here.
+ 
+~
+360 132 1
+D1
+~
+~
+0 -1 36079
+D2
+~
+~
+0 -1 36081
+D3
+~
+door~
+3 -1 36083
+Z0
+C-1
+S
+#36081
+{B,BO}An alley{b,bo}~
+
+    {CYAN,BO}You've quickly discovered that this town's alley's
+    are very long and twisted, and very narrow.  But there
+    seems to be a life of it's own in these alleys.  Maybe
+    you should be careful back here.
+ 
+~
+360 132 1
+D0
+~
+~
+0 -1 36080
+D3
+~
+~
+0 -1 36082
+Z0
+C-1
+S
+#36082
+{B,BO}A street in Osaka{b,bo}~
+
+    {CYAN,BO}Every stupid street in this place looks
+    the exact same, because the houses are so high
+    you don't even know where the castle is anymore.
+    none of the villagers speak any english so
+    they're no help.  The only way to get to
+    the castle is run around.... hopefully not
+    in circles.
+ 
+~
+360 128 1
+D1
+~
+~
+0 -1 36081
+D2
+~
+~
+0 -1 36084
+Z0
+C-1
+S
+#36083
+{B,BO}A tavern{B,BO}~
+
+    {CYAN,BO}A Japaneese tavern is unlike any tavern under the
+    face of the earth.  Nobody looks at eachother, the place
+    is dead quiet and nobody seems to be drinking.  Maybe
+    you should stir the place up a little bit.
+ 
+~
+360 0 1
+D1
+~
+door~
+1 -1 36080
+Z0
+C-1
+S
+#36084
+{B,BO}A street in Osaka{b,bo}~
+
+    {CYAN,BO}Every stupid street in this place looks
+    the exact same, because the houses are so high
+    you don't even know where the castle is anymore.
+    none of the villagers speak any english so
+    they're no help.  The only way to get to
+    the castle is run around.... hopefully not
+    in circles.
+ 
+~
+360 128 1
+D0
+~
+~
+0 -1 36082
+D1
+~
+~
+0 -1 36078
+D3
+~
+~
+0 -1 36085
+Z0
+C-1
+S
+#36085
+{B,BO}A street in Osaka{b,bo}~
+
+    {CYAN,BO}Every stupid street in this place looks
+    the exact same, because the houses are so high
+    you don't even know where the castle is anymore.
+    none of the villagers speak any english so
+    they're no help.  The only way to get to
+    the castle is run around.... hopefully not
+    in circles.
+ 
+~
+360 128 1
+D1
+~
+~
+0 -1 36084
+D2
+~
+~
+0 -1 36086
+Z0
+C-1
+S
+#36086
+{B,BO}The town market{b,bo}~
+
+    {CYAN,BO}This place is nuts, people running to and fro,
+    thousands of samurai in {W}GRAY{w} {CYAN,BO}uniforms are
+    walking around, trying to catch thieves.  What might
+    be tens of thousands of vendors are here selling
+    their goods.
+
+~
+360 0 1
+D0
+~
+~
+0 -1 36085
+D2
+~
+~
+0 -1 36091
+D3
+~
+~
+0 -1 36087
+Z0
+C-1
+S
+#36087
+{B,BO}The town market{b,bo}~
+
+    {CYAN,BO}This place is nuts, people running to and fro,
+    thousands of samurai in {W}GRAY{w} {CYAN,BO}uniforms are
+    walking around, trying to catch thieves.  What might
+    be tens of thousands of vendors are here selling
+    their goods.
+
+~
+360 0 1
+D0
+~
+~
+0 -1 36088
+D1
+~
+~
+0 -1 36086
+D2
+~
+~
+0 -1 36089
+D3
+~
+~
+0 -1 36093
+Z0
+C-1
+S
+#36088
+{B,BO}The town market{b,bo}~
+
+    {CYAN,BO}This place is nuts, people running to and fro,
+    thousands of samurai in {W}GRAY{w} {CYAN,BO}uniforms are
+    walking around, trying to catch thieves.  What might
+    be tens of thousands of vendors are here selling
+    their goods.
+
+~
+360 0 1
+D1
+~
+~
+0 -1 36092
+D2
+~
+~
+0 -1 36087
+D3
+~
+~
+0 -1 36090
+Z0
+C-1
+S
+#36089
+A wisened blacksmith~
+
+    {CYAN,BO}A old blacksmith is sitting here.  You take
+    one good look at him and you know he's killed
+    his fair share of men in his day.  The room
+    has a smell of steel and grindstone, just the
+    way you like it.
+
+~
+360 0 1
+D0
+~
+~
+0 -1 36087
+Z0
+C-1
+S
+#36090
+{B,BO}A rice shop{b,bo}~
+
+    {CYAN,BO}There's a mountain of rice behind the lady
+    at the counter.  She must of bought a entire year's
+    harvest!
+
+~
+360 0 1
+D1
+~
+~
+0 -1 36088
+Z0
+C-1
+S
+#36091
+A Cha Shoppe~
+
+    {CYAN,BO}Cha is the tea of japan, it supposedly has
+    some mystical abalities, but you don't believe in
+    that mumbo-jumbo.... do you?
+
+~
+360 0 1
+D0
+~
+~
+0 -1 36086
+Z0
+C-1
+S
+#36092
+{B,BO}Sake Brewer{b,bo}~
+
+    {CYAN,BO}Sake is a wine of Japan, only it has a 
+    opiate in it that will not only get you drunk, but
+    relax your muscles to the point of immobility.  It's
+    really good stuff.
+
+~
+360 0 1
+D3
+~
+~
+0 -1 36088
+Z0
+C-1
+S
+#36093
+{B,BO}A street in Osaka{b,bo}~
+
+    {CYAN,BO}Every stupid street in this place looks
+    the exact same, because the houses are so high
+    you don't even know where the castle is anymore.
+    none of the villagers speak any english so
+    they're no help.  The only way to get to
+    the castle is run around.... hopefully not
+    in circles.
+ 
+~
+360 128 1
+D1
+~
+~
+0 -1 36087
+Z0
+C-1
+S
+#36094
+This is nowhere.~
+You are standing in nowhere !!!!
+    {CYAN,BO}Wow, you know why they called this place
+    inpeneterable.  The walls are 20 feet thick
+    it has it's own water source and there'
+~
+360 0 1
+Z0
+C-1
+S
+#36095
+{Y,BO}Tokaido Road{y,bo}~
+
+    {CYAN,BO}Christ almighty!  This road is horrid.  It's
+    about ten feet wide in places, on one side a cliff
+    on the other, a straight drop to the bottom of
+    the mountain.  Better watch your step
+
+~
+360 4 1
+D0
+~
+~
+0 -1 36096
+D3
+~
+~
+0 -1 36028
+Z0
+C-1
+S
+#36096
+{Y,BO}Tokaido Road{y,bo}~
+
+    {CYAN,BO}Tokaido road to the south goes to Osaka
+    to the north it goes to Yedo, Toranga's domain.
+ 
+~
+360 0 1
+D1
+~
+~
+0 -1 36097
+D2
+~
+~
+0 -1 36095
+Z0
+C-1
+S
+#36097
+{Y,BO}In view of a city{y,bo}~
+
+    {CYAN,BO}You can see a large city from here.  You have
+    no idea which city it is, but later you learn it's Yokohama
+    the first city in Toranga's Kwanto.  You're now offically
+    within toranga's grasp.
+
+~
+360 0 1
+D1
+~
+~
+0 -1 36098
+D3
+~
+~
+0 -1 36096
+Z0
+C-1
+S
+#36098
+{Y,BO}Tokaido Road{y,bo}~
+
+    {CYAN,BO}Tokaido road to the south goes to Osaka
+    to the north it goes to Yedo, Toranga's domain.
+ 
+~
+360 0 1
+D0
+~
+~
+0 -1 36099
+D3
+~
+~
+0 -1 36097
+Z0
+C-1
+S
+#36099
+{Y}Overlooking Yedo{y}~
+
+    {CYAN,BO}Yedo is a strange town.  It was a planned town
+    so all the streets are perpendicular to eachother, but
+    nearer the castle, the streets come togeather so
+    siege devices have a harder time laying waste to
+    the castle.  The castle itself dosn't look nearly
+    as impressive as Osaka Castle.  There is only
+    one tower in it, but that tower must be about
+    eight or nine stories high.
+
+~
+360 262144 1
+D0
+~
+~
+0 -1 33200
+D2
+~
+~
+0 -1 36098
+Z0
+C-1
+S
+$~

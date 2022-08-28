@@ -1,0 +1,188 @@
+#259
+Sailor Moon part 1.(Heathen)~
+25999 1500 2
+*
+X 12226
+M 0 25912     1 25904    {BLUE,BOLD}Sammy{blue,bold}
+M 0 25913     1 25905    {Y,BO}Sailor Moon{R}'{Y}s Dad{y,bo}
+M 0 25914     1 25905    {Y,BO}Sailor Moon{R}'{Y}s Mom{y,bo}
+D 0 25905     0     0    (N:OPEN) The Living Room.
+D 0 25906     2     0    (S:OPEN) Outside the house.
+D 0 25911     0     0    (N:OPEN) In front of Crossroads Junior High School
+D 0 25912     2     0    (S:OPEN) Inside Crossroads Junior High School.
+M 0 26609     9 25913    {C,BO}A student{c,bo}
+M 0 26609     9 25913    {C,BO}A student{c,bo}
+D 0 25913     0     1    (N:CLOSED) Down a hallway.
+M 0 26605     1 25914    {M,BO}Melvin{m,bo}
+G 1 26605     1     0    Classroom Key No. One
+D 0 25914     2     1    (S:CLOSED) Inside the computer lab.
+M 0 26609     9 25915    {C,BO}A student{c,bo}
+M 0 26609     9 25915    {C,BO}A student{c,bo}
+M 0 26609     9 25916    {C,BO}A student{c,bo}
+M 0 26609     9 25916    {C,BO}A student{c,bo}
+D 0 25916     0     2    (N:LOCKED) Down a hallway.
+M 0 26606     1 25917    {W,BO}Miss Haruna{w,bo}
+G 1 26607    24     0    Iced Tea
+G 1 26606     1     0    Classroom Key No. Two
+O 0 25919    20 25917    A desk
+O 0 25919    20 25917    A desk
+O 0 25919    20 25917    A desk
+O 0 25919    20 25917    A desk
+O 0 25919    20 25917    A desk
+O 0 25919    20 25917    A desk
+O 0 25919    20 25917    A desk
+O 0 25919    20 25917    A desk
+O 0 25919    20 25917    A desk
+O 0 25919    20 25917    A desk
+D 0 25917     2     1    (S:CLOSED) Miss Haruna's classroom.
+M 0 26609     9 25918    {C,BO}A student{c,bo}
+M 0 26609     9 25919    {C,BO}A student{c,bo}
+M 0 26609     9 25919    {C,BO}A student{c,bo}
+D 0 25919     0     2    (N:LOCKED) Down a hallway.
+M 0 17855     1 25920    {BOLD}{BLUE}Sailor Mercury{bold}{blue}
+E 1 17820     4     2    (FINGER) {BOLD}{BLUE}Sailor Mercury's Bubble Ring{bold}{blue}
+E 1 25915     1    24    (TATTOO) {BOLD}{CYAN}Ice{cyan}{bold} Patch
+G 1 25908     1     0    Mercury's Magic Stick
+D 0 25920     2     1    (S:CLOSED) Inside a classroom.
+D 0 25923     0     2    (N:LOCKED) On a street.
+D 0 25924     2     1    (S:CLOSED) The park entrance.
+M 0 25915    31 25926    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+M 0 25915    31 25926    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+M 0 25915    31 25929    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+M 0 25915    31 25929    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+M 0 25915    31 25929    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+D 0 25929     3     2    (W:LOCKED) In the park.
+M 0 25915    31 25930    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+M 0 25915    31 25930    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+M 0 25915    31 25931    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+M 0 25915    31 25932    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+M 0 25915    31 25934    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+G 1 26607    24     0    Iced Tea
+G 1 26607    24     0    Iced Tea
+M 0 25906     1 25934    Artemis
+G 1 26607    24     0    Iced Tea
+M 0 17857     1 25935    {BOLD}{CYAN}Sailor Venus{bold}{cyan}
+E 1 17821     1     9    (HANDS) {W}{BOLD}A pair of White Gloves{w}
+G 1 25909     1     0    Venus's Magic Stick
+D 0 25936     1     1    (E:CLOSED) A quiet, dark path.
+D 0 25937     0     0    (N:OPEN) In front of a dark mansion
+D 0 25938     2     0    (S:OPEN) Inside The Mansion
+M 0 25911     1 25939    Demon Bloom Girl
+M 0 26600     6 25939    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Guard
+M 0 26600     6 25939    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Guard
+G 1 26607    24     0    Iced Tea
+M 0 26600     6 25939    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Guard
+G 1 26607    24     0    Iced Tea
+M 0 25900     1 25940    Neflyte
+E 1 25903     1     8    (FEET) {WHITE}Neflyte's Boots{white}
+G 1 26607    24     0    Iced Tea
+M 0 25915    31 25941    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+G 1 26607    24     0    Iced Tea
+M 0 25915    31 25941    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+M 0 25915    31 25942    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+M 0 25915    31 25943    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+M 0 25915    31 25944    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+M 0 25915    31 25944    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+M 0 25915    31 25945    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+M 0 25915    31 25945    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+M 0 25915    31 25946    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+M 0 26601     1 25948    {BLU,BO}Chad{blu,bo}
+G 1 26607    24     0    Iced Tea
+D 0 25948     0     2    (N:LOCKED) On the steps of the temple.
+D 0 25949     2     1    (S:CLOSED) Inside the temple.
+D 0 25949     3     2    (W:LOCKED) Inside the temple.
+M 0 26602     1 25950    {CYAN,BO}Grandpa{cyan,bo}
+G 1 26607    24     0    Iced Tea
+G 1 26603     1     0    the Key to Raye's Room.
+M 0 17856     1 25951    {BOLD}{RED}Sailor Mars{bold}{red}
+G 1 26600     1     0    Mars' Magic Stick.
+G 1 25914     1     0    The Rune of {BOLD}{RED}Mars{red}{bold}
+G 1 25905     4     0    {BOLD}{RED}Sailor Mars' Fire Scrolls{bold}{red}
+D 0 25951     1     1    (E:CLOSED) Inside the Temple.
+M 0 25915    31 25952    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+M 0 25915    31 25952    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+M 0 25915    31 25952    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+M 0 25915    31 25953    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+M 0 25915    31 25953    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+D 0 25954     0     2    (N:LOCKED) In front of the Arcade.
+M 0 26607     1 25955    {R,BO}Andrew{r,bo}
+G 1 26607    24     0    Iced Tea
+D 0 25955     2     1    (S:CLOSED) In the Arcade.
+M 0 26608     7 25956    {WH}A patron{wh}
+M 0 26608     7 25957    {WH}A patron{wh}
+M 0 26608     7 25957    {WH}A patron{wh}
+M 0 26608     7 25958    {WH}A patron{wh}
+G 1 26607    24     0    Iced Tea
+M 0 26608     7 25958    {WH}A patron{wh}
+M 0 26608     7 25959    {WH}A patron{wh}
+G 1 26607    24     0    Iced Tea
+M 0 26608     7 25959    {WH}A patron{wh}
+M 0 17854     1 25960    {BOLD}{GREEN}Sailor Jupiter{bold}{green}
+E 1 25904     2     5    (BODY) {BOLD}{GREEN}Sailor Jupiter's Suit{bold}{green}
+G 1 26601     1     0    Jupiter's Magic Stick
+M 0 25915    31 25961    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+M 0 25915    31 25961    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+M 0 25915    31 25962    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+M 0 25915    31 25962    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+M 0 25915    31 25963    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+M 0 25908     1 25963    {M}Molly{m}
+M 0 25915    31 25964    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+M 0 25915    31 25965    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e {gr,bo}Spy
+M 0 25903     3 25965    {BLACK,BOLD}A Sh{WH}a{BLACK}dow W{WH}a{BLACK}rrior{black,bold}
+D 0 25965     0     2    (N:LOCKED) Entrance to Starlight Tower.
+D 0 25966     2     1    (S:CLOSED) Starlight Tower.
+M 0 26600     6 25968    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Guard
+M 0 25909    27 25970    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Soldier
+G 1 26607    24     0    Iced Tea
+M 0 25909    27 25970    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Soldier
+M 0 25909    27 25970    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Soldier
+M 0 25909    27 25972    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Soldier
+M 0 25907     1 25972    {BLACK,BO}L{Y}u{BLACK}n{Y}a{y,bo}
+G 1 26607    24     0    Iced Tea
+M 0 25909    27 25973    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Soldier
+G 1 26607    24     0    Iced Tea
+M 0 25909    27 25973    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Soldier
+M 0 25909    27 25973    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Soldier
+M 0 25909    27 25973    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Soldier
+O 0 25907     1 25973    A portal
+M 0 25916    10 25974    A Youma
+M 0 25903     3 25976    {BLACK,BOLD}A Sh{WH}a{BLACK}dow W{WH}a{BLACK}rrior{black,bold}
+G 1 26607    24     0    Iced Tea
+M 0 25903     3 25976    {BLACK,BOLD}A Sh{WH}a{BLACK}dow W{WH}a{BLACK}rrior{black,bold}
+G 1 26607    24     0    Iced Tea
+D 0 25976     0     1    (N:CLOSED) In front of Queen Beryl's Palace.
+D 0 25977     2     1    (S:CLOSED) Inside The Palace.
+M 0 25909    27 25978    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Soldier
+M 0 25916    10 25979    A Youma
+D 0 25979     5     0    (D:OPEN) The Hallway.
+D 0 25980     4     0    (U:OPEN) Down the staircase.
+M 0 25909    27 25981    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Soldier
+M 0 25916    10 25981    A Youma
+M 0 25916    10 25982    A Youma
+M 0 25909    27 25982    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Soldier
+M 0 25916    10 25982    A Youma
+M 0 25916    10 25984    A Youma
+M 0 26600     6 25984    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Guard
+M 0 25909    27 25986    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Soldier
+M 0 25909    27 25986    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Soldier
+M 0 25909    27 25986    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Soldier
+M 0 25909    27 25986    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Soldier
+M 0 25916    10 25986    A Youma
+M 0 25909    27 25987    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Soldier
+M 0 25909    27 25987    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Soldier
+M 0 25909    27 25987    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Soldier
+M 0 25916    10 25987    A Youma
+M 0 25919     1 25987    {R}Cardian{r}
+M 0 25916    10 25987    A Youma
+M 0 25909    27 25987    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Soldier
+M 0 25909    27 25987    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Soldier
+M 0 25909    27 25988    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Soldier
+M 0 25909    27 25988    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Soldier
+M 0 25909    27 25989    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Soldier
+M 0 25909    27 25989    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Soldier
+M 0 25916    10 25989    A Youma
+M 0 25909    27 25990    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Soldier
+M 0 25909    27 25993    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Soldier
+M 0 25909    27 25996    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Soldier
+M 0 26600     6 25998    A N{GR,BO}e{gr,bo}g{GR,BO}a{gr,bo}v{GR,BO}e{gr,bo}rs{GR,BO}e{gr,bo} Guard
+$~

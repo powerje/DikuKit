@@ -1,0 +1,2498 @@
+#5400
+On the road to Tull~
+{GREEN}
+  You stand on a dry dirt road with weeds growing haphazardly
+  between the cracks in the ground.  This place obviously has
+  not seen any rain in a long time.  To the west you can make
+  out the shapes of a few buildings.
+{green}
+~
+54 4 1
+D1
+~
+~
+0 -1 819
+D3
+You see the entrance to a small town.
+~
+~
+0 -1 5401
+Z3
+C-1
+R0
+S
+#5401
+Entrance to Tull~
+{GREEN}
+  You stand at the entrance to a small town.  You can see several
+  buildings just ahead, most of which are boarded up.  You get a
+  feeling that you are not entirely welcome here.  A small sign is
+  nailed to a post sticking out of the dry earth.
+{green}
+~
+54 0 1
+D1
+A dry dirt road lies to the east.
+~
+~
+0 -1 5400
+D3
+To the west you see Main Street, the only road in the town.
+~
+~
+0 -1 5402
+E
+sign~
+You can barely make out the letters they are faded so badly: TULL
+~
+Z3
+C-1
+R0
+S
+#5402
+Main Street~
+ 
+ 
+ {YELLOW}You stand on a dry dirt road that seems to be the only road
+ {YELLOW}in this town.  You skin crawls with the feeling of an evil
+ {YELLOW}presence and you feel as though you are being watched.
+  
+ {YELLOW}To the south you can hear the bray of a mule.
+ {YELLOW}To the north is a boarded up building that used to be a shop.
+ {YELLOW}The road continues to the east and west.
+  
+~
+54 0 1
+D0
+A deserted store lies to the north. The windows are boarded up but the door 
+hangs wide open.
+~
+~
+0 -1 5403
+D1
+The entrance to the town lies to the east.
+~
+~
+0 -1 5401
+D2
+Your eyes water from the stench that is coming from that direction.
+~
+~
+0 -1 5404
+D3
+The road continues west through town.
+~
+~
+0 -1 5405
+Z3
+C-1
+R0
+S
+#5403
+Armory~
+{MAGENTA}
+  A thick coat of dust covers everything in here.  Apparently no
+  one has entered this building in a long time.  Some broken pieces
+  of equipment lie on the counter and some more on the shelves.  You
+  wonder why the owner of the shop left and why in such a hurry.
+{magenta}
+~
+54 8 0
+D2
+Outside you see Main Street.
+~
+~
+0 -1 5402
+E
+piece pieces equipment counter~
+A few unwanted pieces of junk are sitting on the counter. Anything worth
+taking is long gone.
+~
+Z3
+C-1
+R0
+S
+#5404
+Kennerly's Stable~
+{MAGENTA}
+  The stench of the manure fills the air making it hard for you
+  to breath.  Assorted saddles and harnessess hang from hooks on
+  the walls and several of the stalls are filled with hay that
+  surely can't be good to feed the animals.
+{magenta}
+~
+54 8 0
+D0
+Outside you see Main Street.
+~
+~
+0 -1 5402
+E
+hay bales bale~
+This is for the animals to eat, not you!
+~
+Y85
+Z3
+C-1
+R0
+S
+#5405
+Main Street~
+{YELLOW}
+  You stand on a dry dirt road that seems to be the only road
+  in this God-forsaken town.  Chills run down your spine as
+  you hurry past the graveyard that lies to your north.
+{yellow}
+~
+54 0 1
+D0
+Graveyard
+~
+~
+0 -1 5406
+D1
+The road leads to the entrance of the town.
+~
+~
+0 -1 5402
+D3
+The road continues to the west.
+~
+~
+0 -1 5409
+Z3
+C-1
+R0
+S
+#5406
+Graveyard~
+{BLACK,BOLD}
+  Tombstones are placed in neat rows, each indicating the passing on
+  of a loved (or not so loved) one.  A small path leads north to a
+  quaint little church.
+{black}
+~
+54 0 1
+D0
+A small path leads to the church.
+~
+~
+0 -1 5407
+D2
+Main Street
+~
+~
+0 -1 5405
+E
+tombstone tombstones~
+Each grave marker indicates the life and death of the deceased. You notice
+that many of these people did not live to be very old.
+~
+Z3
+C-1
+R0
+S
+#5407
+Our Lady of Destitution~
+{WHITE}
+  You stand in the vestibule of a small church.  A small table
+  is in the corner with hymnals piled on it.  Through a doorway
+  to the east you catch a glimpse of the alter, and someone
+  moving around.
+{white}
+~
+54 8 0
+D1
+You peek through a small window and see the area where people worship.
+~
+door doorway~
+1 -1 5408
+D2
+A small path leads through the graveyard toward Main Street.
+~
+~
+0 -1 5406
+E
+hymnals hymnal~
+These books look like they were once well used, but the layer of dust on
+them now indicates that no one has opened one in a long time.
+~
+Z3
+C-1
+R0
+S
+#5408
+Our Lady of Destitution~
+{WHITE}
+  There is a short aisle between a few rows of pews leading
+  to the altar. You have a strange feeling about this church,
+  almost as though the God that is worshipped here doesn't
+  want you here.
+{white}
+~
+54 8 0
+D3
+The vestibule is to the west.
+~
+door doorway~
+1 -1 5407
+E
+altar~
+The altar is a simple marble square block with a red cloth draped over it.
+~
+Z3
+C-1
+R0
+S
+#5409
+Main Street~
+{YELLOW}
+  You stand on a dry dirt road that seems to be the only
+  road in town.  A discordant tune can be heard drifting
+  from the bar to the south. What appears to be a general
+  store can be seen to the north.  The road continues to
+  the east and west.
+{yellow}
+~
+54 0 1
+D0
+General Store
+~
+~
+0 -1 5413
+D1
+The road leads to the entrance of town.
+~
+~
+0 -1 5405
+D2
+Sheb's Bar
+~
+~
+0 -1 5410
+D3
+The road continues to the west past the town.
+~
+~
+0 -1 5412
+Z3
+C-1
+R0
+S
+#5410
+Sheb's Bar~
+{BLACK,BOLD}
+  As your eyes adjust to the lack of lighting, you notice a player
+  piano in one corner of the room. A few tables stained with water
+  spots are scattered throughout the room. The bar is stocked with
+  cheap wines and watered down spirits. It seems not even customers
+  with gold in their pockets get premium drinks here. A dark stair-
+  way leads up from behind the bar.
+{black}
+~
+54 8 0
+D0
+Outside you see Main Street.
+~
+~
+0 -1 5409
+D4
+A stairway leads up.
+~
+~
+0 -1 5411
+E
+piano player~
+It is old and out of tune. You notice several missing keys.
+~
+Y85
+Z3
+C-1
+R0
+S
+#5411
+Allie's Bedroom~
+{MAGENTA}
+  You are standing in a small, dark room. The furniture is
+  plain yet functional.
+{magenta}
+~
+54 8 0
+D5
+A stairway leads back down to the bar.
+~
+~
+0 -1 5410
+Z3
+C-1
+R0
+S
+#5412
+Main Street~
+{YELLOW}
+  You stand on a dry dirt road that seems to be the only
+  road in town.  The road continues east and west.
+{yellow}
+~
+54 0 1
+D1
+Main Street
+~
+~
+0 -1 5409
+D3
+The road continues to the west past town.
+~
+~
+0 -1 5412
+Z3
+C-1
+R0
+S
+#5413
+General Store~
+{BLACK,BOLD}
+  There are shelves lining the walls of the store.  The townspeople
+  can find everything they need here.  The owner of the store also
+  owns the bar across the street.
+{BLACK}
+  There is a small door in the north wall that causes you to wonder
+  where it leads.
+{black}
+~
+54 8 0
+D0
+~
+backdoor~
+1 5400 5414
+D2
+Outside you see Main Street.
+~
+~
+0 -1 5409
+Z3
+C-1
+R0
+S
+#5414
+Porch~
+{YELLOW}
+  You have a magnificent view of the wide open desert.  You feel
+  a compelling desire to head west as some deep, dark instinct
+  informs you that there are mountains that way.
+{YELLOW}
+  A few small steps lead off the porch going to the west.
+{yellow}
+~
+54 0 2
+D2
+~
+backdoor~
+1 -1 5413
+D3
+A small desert path leads to the west.
+~
+~
+0 -1 5415
+Z3
+C-1
+R0
+S
+#5415
+Desert Path~
+{YELLOW}
+  The path is littered with devil weed and the thick desert air is
+  heavy with the sand and dust from the desert. The air is stiffling
+  but you still feel the overwhelming urge to head to the west.
+{yellow}
+~
+54 1052 2
+D1
+Two wooden steps lead to a porch.
+~
+door~
+0 -1 5414
+D3
+The path continues through the desert.
+~
+~
+0 -1 5416
+E
+devil-weeds weeds~
+These are stringy looking weeds that when eaten will infest a person with
+evil spirits.
+~
+Z3
+C-1
+R0
+S
+#5416
+Desert Path~
+{YELLOW}
+  You are on a small path leading through the vast desert.
+  The sun is scorching hot and the air is dry.  You wonder
+  if you will have enough water to get across the desert.
+{yellow}
+~
+54 1048 2
+D1
+A small path leads to town.
+~
+~
+0 -1 5415
+D3
+The path leads west through the desert.
+~
+~
+0 -1 5417
+Z3
+C-1
+R0
+S
+#5417
+Desert Path~
+{YELLOW}
+  You are on a small path leading through the vast desert.
+  The sun is scorching hot and the air is dry. To the east
+  you can barely make out a small town.
+{yellow}
+~
+54 1048 2
+D1
+The path leads east where you can see a small town.
+~
+~
+0 -1 5416
+D3
+The path leads west through the desert.
+~
+~
+0 -1 5418
+Z3
+C-1
+R0
+S
+#5418
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D0
+A path leads north through the desert.
+~
+~
+0 -1 5458
+D1
+A path leads east through the desert.
+~
+~
+0 -1 5417
+D2
+A path leads south through the desert.
+~
+~
+0 -1 5438
+D3
+A path leads west through the desert.
+~
+~
+0 -1 5452
+Z3
+C-1
+R0
+S
+#5419
+Desert Path~
+{YELLOW}
+  You are on a small path leading through the desert.
+  You can see mountains to the west and to the east
+  is more of the desert.
+{yellow}
+~
+54 1048 2
+D1
+The path leads east through the desert.
+~
+~
+0 -1 5466
+D2
+An old shack provides shelter.
+~
+~
+0 -1 5420
+D3
+The path leads west through the desert.
+~
+~
+0 -1 5421
+Z3
+C-1
+R0
+S
+#5420
+Way Station~
+{WHITE}
+  An old shack provides some shelter from the scorching
+  sun of desert days and the chilling winds of desert nights.
+  As relieved as you are to find shelter you cannot get over
+  the uneasy feeling of an evil presence close at hand.
+ {WHITE}
+  The Way Station appears empty with the exception of cob-
+  webs and dust and a small metal object buried in blown 
+  sand on the floor.
+{white}
+~
+54 12 0
+D0
+Desert Path 
+~
+~
+0 -1 5419
+D5
+Cellar
+~
+CellarDoor~
+1 -1 5422
+E
+ring floor metal~
+It appears to be the handle of a trapdoor.
+~
+Z3
+C-1
+R0
+S
+#5421
+Desert Path~
+You are on a small path leading through the desert. You can see mountains
+to the west and to the east all you can see is more of the desert.
+~
+54 1048 2
+D1
+The path leads east through the desert.
+~
+~
+0 -1 5419
+D3
+You can see the base of the mountains to the west.
+~
+~
+0 -1 5423
+Z3
+C-1
+R0
+S
+#5422
+Cellar~
+{BLACK}
+  As you descend the rickety steps into the cellar
+  small, blind spiders scurry out of light coming
+  in from overhead.  Before they flee you notice
+  that some have extra eyes, or legs. You sense
+  that something evil dwells here.
+{black}
+~
+54 9 0
+D4
+Rickety steps lead up to a trapdoor.
+~
+CellarDoor~
+1 -1 5420
+Z3
+C-1
+R0
+S
+#5423
+In the Foothills~
+You stand at the base of the mountains. As you look to the east you wonder
+how you made it across the barrenness of the wide open desert. A path winds
+north-west through the mountains.
+~
+54 4 4
+D0
+A path winds through the foothills.
+~
+~
+0 -1 5424
+D1
+The path leads east through the desert.
+~
+~
+0 -1 5421
+Z3
+C-1
+R0
+S
+#5424
+In the Foothills~
+You stand at the base of the mountains. Small piles of rocks litter the ground
+and grass grows sparsely at the sides of the path. The desert lies to the 
+south-east and the mountains loom toward the north-west.
+~
+54 0 4
+D2
+In the Foothills
+~
+~
+0 -1 5423
+D3
+In the Foothills
+~
+~
+0 -1 5425
+Z3
+C-1
+R0
+S
+#5425
+In the Foothills~
+You stand at the base of the mountains. Small piles of rocks litter the ground
+and grass grows sparsely at the sides of the path.  The desert lies to the
+south-east and the mountains loom up toward the north-west.
+~
+54 0 4
+D1
+In the Foothills
+~
+~
+0 -1 5424
+D3
+Some stones form some sort of structure to the west.
+~
+~
+0 -1 5426
+Z3
+C-1
+R0
+S
+#5426
+Altar of Basalt~
+{MAGENTA}
+  An altar of basalt is positioned at the center
+  of a ring of tall black stones which remind you
+  of some sort of surreal animal trap. You sense
+  that something has indeed been trapped here eternally.
+{magenta}
+~
+54 0 4
+D0
+In the Mountains
+~
+stone~
+2 5401 5427
+D1
+You can see a vast desert beyond the stone.
+~
+stone~
+0 -1 5425
+E
+altar basalt~
+The altar is made from a powerful arm of basalt. An inscription on its
+surface reads:
+              An Altar of Basalt
+              A Prison of Stone
+              A Word of Daemon
+              A Key of Bone
+~
+Y85
+Z3
+C-1
+R0
+S
+#5427
+In the Mountains~
+{YELLOW}
+  The terrain is becoming rougher as the mountains rise before
+  you to the north. Piles of rocks are scattered here as relics
+  of landslides.  An old path going to the west appears to lead
+  around the mountains.
+{yellow}
+~
+54 0 5
+D0
+In the Mountains
+~
+~
+0 -1 5431
+D1
+In the Foothills
+~
+~
+0 -1 5425
+D3
+An old path leads west around the mountains.
+~
+~
+0 -1 5428
+Z3
+C-1
+R0
+S
+#5428
+An Old Path~
+{GREEN}
+  The mountains rise up beside you and force you to watch
+  your step due to the large piles of fallen rocks.  The
+  path continues on to the east and west.
+{green}
+~
+54 0 5
+D1
+An old path leads east around the mountains.
+~
+~
+0 -1 5427
+D3
+An old path leads west around the mountains.
+~
+~
+0 -1 5429
+Z3
+C-1
+R0
+S
+#5429
+An Old Path~
+{GREEN}
+  The mountains rise up beside you and force you to watch
+  your step due to the large piles of fallen rocks.  The
+  path continues on to the east and west.
+{green}
+~
+54 0 5
+D1
+An old path leads east around the mountains.
+~
+~
+0 -1 5428
+D3
+An old path leads west around the mountains.
+~
+~
+0 -1 5430
+Z3
+C-1
+R0
+S
+#5430
+An Old Path~
+{GREEN}
+  The mountains rise up beside you and force you to watch
+  your step due to the large piles of fallen rocks.  The
+  path continues on to the east and west.
+{green}
+~
+54 0 5
+D1
+An old path leads east around the mountains.
+~
+~
+0 -1 5429
+D3
+An old path leads west around the mountains.
+~
+~
+0 -1 5428
+Z3
+C-1
+R0
+S
+#5431
+In the Mountains~
+{GREEN}
+  It is difficult to find a footing here amongst the fallen
+  rocks.  A cool wind blows down into your face as you look
+  up the side of the mountain. What a relief it is after the
+  hot, dry air of the desert.
+{green}
+~
+54 0 5
+D2
+In the Mountains
+~
+~
+0 -1 5427
+D4
+The mountain becomes steeper.
+~
+~
+0 -1 5432
+Z3
+C-1
+R0
+S
+#5432
+Climbing the Mountain~
+{GREEN}
+  The mountain is now steep enough to force you to use your
+  hands to support yourself.  Each time you reach for a new
+  handhold small pebbles fall and cause miniature landslides
+  down the side of the mountain.
+{green}
+~
+54 0 5
+D0
+Entrance to the Mountain
+~
+hole~
+1 -1 5434
+D4
+The mountain becomes steeper.
+~
+~
+0 -1 5433
+D5
+In the Mountains
+~
+~
+0 -1 5431
+E
+handhold ~
+As you look for a good place to put your hand you notice a small hole in
+the side of the mountain, perhaps leading to a cave.
+~
+Z3
+C-1
+R0
+S
+#5433
+Climbing the Mountain~
+{RED,BOLD}
+  It is apparent from the lack of footholds here that you may
+  climb no higher.  As you try and descend you are unable to
+  find any foot or handholds to climb down with.  You seem to
+  be stuck on the side of the mountain.
+{red}
+~
+54 4194304 5
+Z3
+C-1
+R0
+S
+#5434
+Entrance to the Mountain~
+{BLACK,BOLD}
+  A ray of light falls in from the outside revealing a carved
+  out path leading under the mountain. You can hear the faint
+  sound of trickling water coming frow somewhere down below.
+{black}
+~
+54 12 5
+D2
+A ray of light falls thrin from the south.
+~
+~
+0 -1 5432
+D5
+The path leads under the mountain.
+~
+~
+0 -1 5435
+Z3
+C-1
+R0
+S
+#5435
+Under the Mountains~
+{BLACK,BOLD}
+  You can hear the faint trickling sound of water coming
+  in from below.  As you look around you can barely see
+  the carved rock walls of the path you travel on, even
+  with your light.  The path goes up toward the entrance
+  or down further in to the mountain.
+{black}
+~
+54 1 0
+D4
+The path leads up toward the entrance.
+~
+~
+0 -1 5434
+D5
+It is too dark to tell.
+~
+~
+0 -1 5436
+Z3
+C1
+R0
+S
+#5436
+Under the Mountain~
+{BLACK,BOLD}
+  The trickling sound of water is much nearer now and you
+  notice a small stream of water running from a crack in
+  the wall.  The stream runs through a narrow crevice to
+  the east. A wider tunnel is carved from the rock running
+  north and south.  You hear some faint sounds and wonder
+  if you truly are alone down here.
+{black}
+~
+54 1 0
+D0
+It is too dark to tell.
+~
+~
+0 -1 5473
+D1
+It is too dark to tell.
+~
+~
+0 -1 5437
+D2
+It is too dark to tell.
+~
+~
+0 -1 5472
+D4
+It is too dark to tell.
+~
+~
+0 -1 5435
+E
+water crack stream~
+Clear water runs from a fissure in the rock wall into a stream leading east.
+~
+Z3
+C1
+R0
+S
+#5437
+Stream Under the Mountains~
+{BLACK,BOLD}
+  You are standing in a narrow passageway when it occurs
+  to you that your feet are getting wet.  The stream you
+  are following continues to the east and west.
+{black}
+~
+54 1 0
+D1
+It is too dark to tell.
+~
+~
+0 -1 5471
+D3
+It is too dark to tell.
+~
+~
+0 -1 5436
+Z3
+C1
+R0
+S
+#5438
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D0
+A path leads north through the desert.
+~
+~
+0 -1 5418
+D3
+A path leads west through the desert.
+~
+~
+0 -1 5439
+Z3
+C-1
+R0
+S
+#5439
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D0
+A path leads north through the desert.
+~
+~
+0 -1 5448
+D1
+A path leads east through the desert.
+~
+~
+0 -1 5438
+D2
+A path leads south through the desert.
+~
+~
+0 -1 5440
+Z3
+C-1
+R0
+S
+#5440
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D0
+A path leads north through the desert.
+~
+~
+0 -1 5439
+D3
+A path leads west through the desert.
+~
+~
+0 -1 5441
+Z3
+C-1
+R0
+S
+#5441
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D0
+A path leads north through the desert.
+~
+~
+0 -1 5442
+D1
+A path leads east through the desert.
+~
+~
+0 -1 5440
+D3
+A path leads west through the desert.
+~
+~
+0 -1 5451
+Z3
+C-1
+R0
+S
+#5442
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D2
+A path leads south through the desert.
+~
+~
+0 -1 5441
+D3
+A path leads west through the desert.
+~
+~
+0 -1 5443
+Z3
+C-1
+R0
+S
+#5443
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D1
+A path leads east through the desert.
+~
+~
+0 -1 5442
+D3
+A path leads west through the desert.
+~
+~
+0 -1 5444
+Z3
+C-1
+R0
+S
+#5444
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D1
+A path leads east through the desert.
+~
+~
+0 -1 5443
+D2
+A path leads south through the desert.
+~
+~
+0 -1 5445
+Z3
+C-1
+R0
+S
+#5445
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D0
+A path leads north through the desert.
+~
+~
+0 -1 5444
+D3
+A path leads west through the desert.
+~
+~
+0 -1 5446
+Z3
+C-1
+R0
+S
+#5446
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D0
+A path leads north through the desert.
+~
+~
+0 -1 5447
+D1
+A path leads east through the desert.
+~
+~
+0 -1 5445
+Z3
+C-1
+R0
+S
+#5447
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D0
+A path leads north through the desert.
+~
+~
+0 -1 5450
+D2
+A path leads south through the desert.
+~
+~
+0 -1 5446
+Z3
+C-1
+R0
+S
+#5448
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D2
+A path leads south through the desert.
+~
+~
+0 -1 5439
+D3
+A path leads west through the desert.
+~
+~
+0 -1 5449
+Z3
+C-1
+R0
+S
+#5449
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D1
+A path leads east through the desert.
+~
+~
+0 -1 5448
+D2
+A path leads south through the desert.
+~
+~
+0 -1 5450
+Z3
+C-1
+R0
+S
+#5450
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D0
+A path leads north through the desert.
+~
+~
+0 -1 5449
+Z3
+C-1
+R0
+S
+#5451
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D0
+A path leads north through the desert.
+~
+~
+0 -1 5440
+D1
+A path leads east through the desert.
+~
+~
+0 -1 5441
+Z3
+C-1
+R0
+S
+#5452
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D1
+A path leads east through the desert.
+~
+~
+0 -1 5418
+D3
+A path leads west through the desert.
+~
+~
+0 -1 5453
+Z3
+C-1
+R0
+S
+#5453
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D1
+A path leads east through the desert.
+~
+~
+0 -1 5452
+D3
+A path leads west through the desert.
+~
+~
+0 -1 5454
+Z3
+C-1
+R0
+S
+#5454
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D0
+A path leads north through the desert.
+~
+~
+0 -1 5456
+D1
+A path leads east through the desert.
+~
+~
+0 -1 5453
+D2
+A path leads south throught[h the desert.
+~
+~
+0 -1 5455
+Z3
+C-1
+R0
+S
+#5455
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D0
+A path leads north through the desert.
+~
+~
+0 -1 5454
+D2
+A path leads south through the desert.
+~
+~
+0 -1 5446
+Z3
+C-1
+R0
+S
+#5456
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D2
+A path leads south through the desert.
+~
+~
+0 -1 5454
+D3
+A path leads west through the desert.
+~
+~
+0 -1 5457
+Z3
+C-1
+R0
+S
+#5457
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D1
+A path leads east through the desert.
+~
+~
+0 -1 5456
+D3
+A path leads west through the desert.
+~
+~
+0 -1 5453
+Z3
+C-1
+R0
+S
+#5458
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D0
+A path leads north through the desert.
+~
+~
+0 -1 5470
+D2
+A path leads south through the desert.
+~
+~
+0 -1 5418
+D3
+A path leads west through the desert.
+~
+~
+0 -1 5459
+Z3
+C-1
+R0
+S
+#5459
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D0
+A path leads north through the desert.
+~
+~
+0 -1 5460
+D1
+A path leads east through the desert.
+~
+~
+0 -1 5458
+D3
+A path leads west through the desert.
+~
+~
+0 -1 5446
+Z3
+C-1
+R0
+S
+#5460
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D1
+A path leads east through the desert.
+~
+~
+0 -1 5458
+D2
+A path leads south through the desert.
+~
+~
+0 -1 5459
+D3
+A path leads west through the desert.
+~
+~
+0 -1 5461
+Z3
+C-1
+R0
+S
+#5461
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D1
+A path leads east through the desert.
+~
+~
+0 -1 5460
+D3
+A path leads west through the desert.
+~
+~
+0 -1 5462
+Z3
+C-1
+R0
+S
+#5462
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D0
+A path leads north through the desert.
+~
+~
+0 -1 5470
+D1
+A path leads east through the desert.
+~
+~
+0 -1 5461
+D2
+A path leads south through the desert.
+~
+~
+0 -1 5443
+D3
+A path leads west through the desert.
+~
+~
+0 -1 5463
+Z3
+C-1
+R0
+S
+#5463
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D1
+A path leads east through the desert.
+~
+~
+0 -1 5462
+D2
+A path leads south through the desert.
+~
+~
+0 -1 5464
+D3
+A path leads west through the desert.
+~
+~
+0 -1 5467
+Z3
+C-1
+R0
+S
+#5464
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D0
+A path leads north through the desert.
+~
+~
+0 -1 5463
+D3
+A path leads west through the desert.
+~
+~
+0 -1 5465
+Z3
+C-1
+R0
+S
+#5465
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D1
+A path leads east through the desert.
+~
+~
+0 -1 5464
+D3
+A path leads west through the desert.
+~
+~
+0 -1 5466
+Z3
+C-1
+R0
+S
+#5466
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D1
+A path leads east through the desert.
+~
+~
+0 -1 5465
+D2
+A path leads south through the desert.
+~
+~
+0 -1 5447
+D3
+A path leads west through the desert.
+~
+~
+0 -1 5419
+Z3
+C-1
+R0
+S
+#5467
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D0
+A path leads north through the desert.
+~
+~
+0 -1 5468
+D1
+A path leads east through the desert.
+~
+~
+0 -1 5463
+Z3
+C-1
+R0
+S
+#5468
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D2
+A path leads south through the desert.
+~
+~
+0 -1 5467
+D3
+A path leads west through the desert.
+~
+~
+0 -1 5469
+Z3
+C-1
+R0
+S
+#5469
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D1
+A path leads east through the desert.
+~
+~
+0 -1 5468
+Z3
+C-1
+R0
+S
+#5470
+Desert Path~
+{YELLOW}
+  It is getting hard to discern where the path is leading.
+  The hot desert sun is beating down on your face and you
+  are beginning to feel a bit dehydrated.  All around you
+  all that can be seen is wide open desert.
+{yellow}
+~
+54 1048 2
+D0
+A path leads north through the desert.
+~
+~
+0 -1 5458
+D2
+A path leads south through the desert.
+~
+~
+0 -1 5458
+Z3
+C-1
+R0
+S
+#5471
+Stream Under the Mountain~
+{BLACK,BOLD}
+  The passagewar has become narrower and even if you turn
+  sideways you won't fit through any further.  The stream
+  continue through a crack in the wall but you cannot go
+  any further.
+{black}
+~
+54 1 0
+D3
+It is too dark to tell.
+~
+~
+0 -1 5437
+Z3
+C1
+R0
+S
+#5472
+Under the Mountain~
+{BLACK,BOLD}
+  A wide tunnel has been carved out of the rock, but apparently
+  this is the end of the tunnel.  The only exit is bach the way
+  you came.
+{black}
+~
+54 1 0
+D0
+It is too dark to tell.
+~
+~
+0 -1 5436
+Z3
+C-1
+R0
+S
+#5473
+Under the Mountains~
+{BLACK,BOLD}
+  A tunnel has been carved in the rock wall.  You can
+  hear the sounds of sluggish movement echoing on the
+  walls and an old stale smell hangs in the damp air.
+  The short hairs on the back of your neck stiffen as 
+  you sense an evil presence. 
+{black}
+~
+54 1 0
+D0
+It is too dark to tell.
+~
+~
+0 -1 5474
+D2
+It is too dark to tell.
+~
+~
+0 -1 5436
+Z3
+C-1
+R0
+S
+#5474
+Under the Mountains~
+{BLACK,BOLD}
+  A tunnel has been carved in the rock wall.  You can
+  hear the sounds of sluggish movement echoing on the
+  walls and an old stale smell hangs in the damp air.
+  The short hairs on the back of your neck stiffen as 
+  you sense an evil presence. 
+{black}
+~
+54 1 0
+D0
+It is too dark to tell.
+~
+~
+0 -1 5475
+D2
+It is too dark to tell.
+~
+~
+0 -1 5473
+D3
+It is too dark to tell.
+~
+~
+0 -1 5492
+Z3
+C-1
+R0
+S
+#5475
+Under the Mountains~
+{BLACK,BOLD}
+  A tunnel has been carved in the rock wall.  You can
+  hear the sounds of sluggish movement echoing on the
+  walls and an old stale smell hangs in the damp air.
+  The short hairs on the back of your neck stiffen as 
+  you sense an evil presence. 
+{black}
+~
+54 1 0
+D0
+It is too dark to tell.
+~
+~
+0 -1 5490
+D1
+It is too dark to tell.
+~
+~
+0 -1 5476
+D2
+It is too dark to tell.
+~
+~
+0 -1 5474
+D3
+It is too dark to tell.
+~
+~
+0 -1 5495
+Z3
+C-1
+R0
+S
+#5476
+Under the Mountains~
+{BLACK,BOLD}
+  A tunnel has been carved in the rock wall.  You can
+  hear the sounds of sluggish movement echoing on the
+  walls and an old stale smell hangs in the damp air.
+  The short hairs on the back of your neck stiffen as 
+  you sense an evil presence. 
+{black}
+~
+54 1 0
+D0
+It is too dark to tell.
+~
+~
+0 -1 5491
+D1
+It is too dark to tell.
+~
+~
+0 -1 5477
+D3
+It is too dark to tell.
+~
+~
+0 -1 5475
+Z3
+C-1
+R0
+S
+#5477
+Under the Mountains~
+{BLACK,BOLD}
+  A tunnel has been carved in the rock wall.  You can
+  hear the sounds of sluggish movement echoing on the
+  walls and an old stale smell hangs in the damp air.
+  The short hairs on the back of your neck stiffen as 
+  you sense an evil presence. 
+{black}
+~
+54 1 0
+D0
+It is too dark to tell.
+~
+~
+0 -1 5478
+D3
+It is too dark to tell.
+~
+~
+0 -1 5476
+Z3
+C-1
+R0
+S
+#5478
+Under the Mountains~
+{BLACK,BOLD}
+  A tunnel has been carved in the rock wall.  You can
+  hear the sounds of sluggish movement echoing on the
+  walls and an old stale smell hangs in the damp air.
+  The short hairs on the back of your neck stiffen as 
+  you sense an evil presence. 
+{black}
+~
+54 1 0
+D0
+It is too dark to tell.
+~
+~
+0 -1 5479
+D2
+It is too dark to tell.
+~
+~
+0 -1 5477
+Z3
+C-1
+R0
+S
+#5479
+Under the Mountains~
+{BLACK,BOLD}
+  A tunnel has been carved in the rock wall.  You can
+  hear the sounds of sluggish movement echoing on the
+  walls and an old stale smell hangs in the damp air.
+  The short hairs on the back of your neck stiffen as 
+  you sense an evil presence. 
+{black}
+~
+54 1 0
+D1
+It is too dark to tell.
+~
+~
+0 -1 5480
+D2
+It is too dark to tell.
+~
+~
+0 -1 5478
+Z3
+C-1
+R0
+S
+#5480
+Under the Mountains~
+{BLACK,BOLD}
+  A tunnel has been carved in the rock wall.  You can
+  hear the sounds of sluggish movement echoing on the
+  walls and an old stale smell hangs in the damp air.
+  The short hairs on the back of your neck stiffen as 
+  you sense an evil presence. 
+{black}
+~
+54 5 0
+D0
+It is too dark to tell.
+~
+~
+0 -1 5481
+D3
+It is too dark to tell.
+~
+~
+0 -1 5479
+Z3
+C-1
+R0
+S
+#5481
+Bridge Under the Mountain~
+{CYAN}
+  The tunnel has opened in to a wide cavern and you find
+  yourself standing on a rather unsteady bridge. You can
+  hear the sound of water rushing far below you. You see
+  light entering the cavern from a small opening at the
+  far side of the bridge. As anxious as you are to see the
+  light of day, you have a sudden urge to flee and go no
+  further.
+{cyan}
+~
+54 1 0
+D0
+It is too dark to tell.
+~
+~
+0 -1 5482
+D2
+It is too dark to tell.
+~
+~
+0 -1 5480
+E
+bridge~
+The bridge is made from iron girders with wood slats riveted to the beams.
+The iron is very rusty and the wood is old and rotted. You should be very
+carefull to watch your step.
+~
+Z3
+C-1
+R0
+S
+#5482
+Bridge Under the Mountains~
+{CYAN}
+  The bridge is becoming less sturdy with every step
+  you take.  As you proceed you can hear the metal
+  supporting the bridge groan under your weight. You
+  see a light coming from an opening to the north at
+  the far side of the bridge.
+{cyan}
+~
+54 1 0
+D0
+It is too dark to tell.
+~
+~
+0 -1 5483
+D2
+It is too dark to tell.
+~
+~
+0 -1 5481
+E
+bridge~
+The bridge is made from iron girders with wood slats riveted to the beams.
+The iron is rusty and the wood is old and rotted.  You better watch your
+step!
+~
+Z3
+C-1
+R0
+S
+#5483
+Bridge Under the Mountain~
+{RED,BOLD}
+    
+    C
+        R
+            A
+                C
+                    K
+{bold,GREEN}
+  You suddenly find yourself hanging for dear life from
+  the end of a metal support after the wooden slat you 
+  where standing on broke out from under you.
+{RED,BOLD}
+  It breaks suddenly and you fall to your doom.
+{red}
+~
+54 16777475 9
+D0
+The only hope you have is to fly off of this bridge.
+~
+~
+0 -1 5484
+Z3
+C-1
+R0
+S
+#5484
+Above the Chasm~
+{CYAN}
+  Water rushes through the chasm far below you.  To your
+  south is the remnants of an old bridge and to the north
+  you can see light pouring in from some sort of opening.
+{cyan}
+~
+54 1 9
+D0
+It is too dark to tell.
+~
+~
+0 -1 5485
+D2
+It is too dark to tell.
+~
+~
+0 -1 5483
+Z3
+C-1
+R0
+S
+#5485
+Above the Chasm~
+{CYAN}
+  Water rushes through the chasm far below you.  To your
+  south is the remnants of an old bridge and to the north
+  you can see light pouring in from some sort of opening.
+{cyan}
+~
+54 1 9
+D0
+It is too dark to tell.
+~
+~
+0 -1 5486
+D2
+It is too dark to tell.
+~
+~
+0 -1 5484
+Z3
+C-1
+R0
+S
+#5486
+Above the Chasm~
+{CYAN}
+  Water rushes through the chasm far below you.  To your
+  south is the remnants of an old bridge and to the north
+  you can see light pouring in from some sort of opening.
+{cyan}
+~
+54 1 9
+D0
+It is too dark to tell.
+~
+~
+0 -1 5487
+D2
+It is too dark to tell.
+~
+~
+0 -1 5485
+Z3
+C-1
+R0
+S
+#5487
+Before the Gate~
+{BLACK,BOLD}
+  Even though you are still hesitant to go forward, you are
+  anxious to finally be out from under the mountain.  You
+  have made your way across the bridge but the way forward
+  is blocked by a locked gate.
+{black}
+~
+54 0 0
+D0
+You see daylight!
+~
+gate iron large~
+2 5403 5488
+D2
+It is too dark to tell.
+~
+~
+0 -1 5486
+E
+gate iron large~
+This is a very sturdy gate. You are going to need a key to open it.
+~
+Z3
+C-1
+R0
+S
+#5488
+Opening to the Mountain~
+{WHITE}
+  Cold, damp air rushes out of the opening of the mountain.
+  To the north you see a large pile of sun bleached bones,
+  and you have an overwhelming sense of impending doom.
+{white}
+~
+54 0 5
+D0
+The Golgotha
+~
+~
+0 -1 5489
+D2
+A large iron gate blocks the entrance to the mountain.
+~
+gate iron large~
+2 5403 5487
+Z3
+C-1
+R0
+S
+#5489
+The Golgotha~
+{MAGENTA}
+  You stand in what seems to be a burial ground,
+  a place of agony and sacrifice.  Bleached skulls
+  stare blankly up at you.  The golgotha is a bowl
+  shaped indentation in the side of the mountain. 
+  Evil radiates from the center where you see the
+  remains of a campfire.
+{magenta}
+~
+54 0 5
+D2
+You can see the opening to the mountain.
+~
+~
+0 -1 5488
+E
+campfire remains~
+Black ashes make up the remains of this campfire. As you reach your hand 
+towards it you can feel that heat still comes off of it. 
+~
+E
+skulls~
+You see skeletons of cattle, rabbits, deer, pheasant, and even a few humans.
+~
+Y85
+Z3
+C-1
+R0
+S
+#5490
+Under the Mountains~
+{BLACK,BOLD}
+  A tunnel has been carved in the rock wall.  You can
+  hear the sounds of sluggish movement echoing on the
+  walls and an old stale smell hangs in the damp air.
+  The short hairs on the back of your neck stiffen as 
+  you sense an evil presence. 
+{black}
+~
+54 1 0
+D1
+It is too dark to tell.
+~
+~
+0 -1 5491
+D2
+It is too dark to tell.
+~
+~
+0 -1 5475
+Z3
+C-1
+R0
+S
+#5491
+Under the Mountains~
+{BLACK,BOLD}
+  A tunnel has been carved in the rock wall.  You can
+  hear the sounds of sluggish movement echoing on the
+  walls and an old stale smell hangs in the damp air.
+  The short hairs on the back of your neck stiffen as 
+  you sense an evil presence. 
+{black}
+~
+54 1 0
+D2
+It is too dark to tell.
+~
+~
+0 -1 5476
+D3
+It is too dark to tell.
+~
+~
+0 -1 5490
+Z3
+C-1
+R0
+S
+#5492
+Under the Mountains~
+{BLACK,BOLD}
+  A tunnel has been carved in the rock wall.  You can
+  hear the sounds of sluggish movement echoing on the
+  walls and an old stale smell hangs in the damp air.
+  The short hairs on the back of your neck stiffen as 
+  you sense an evil presence. 
+{black}
+~
+54 1 0
+D0
+It is too dark to tell.
+~
+~
+0 -1 5495
+D1
+It is too dark to tell.
+~
+~
+0 -1 5474
+D3
+It is too dark to tell.
+~
+~
+0 -1 5493
+Z3
+C-1
+R0
+S
+#5493
+Under the Mountains~
+{BLACK,BOLD}
+  A tunnel has been carved in the rock wall.  You can
+  hear the sounds of sluggish movement echoing on the
+  walls and an old stale smell hangs in the damp air.
+  The short hairs on the back of your neck stiffen as 
+  you sense an evil presence. 
+{black}
+~
+54 1 0
+D0
+It is too dark to tell.
+~
+~
+0 -1 5494
+D1
+It is too dark to tell.
+~
+~
+0 -1 5492
+Z3
+C-1
+R0
+S
+#5494
+Under the Mountains~
+{BLACK,BOLD}
+  A tunnel has been carved in the rock wall.  You can
+  hear the sounds of sluggish movement echoing on the
+  walls and an old stale smell hangs in the damp air.
+  The short hairs on the back of your neck stiffen as 
+  you sense an evil presence. 
+{black}
+~
+54 1 0
+D1
+It is too dark to tell.
+~
+~
+0 -1 5495
+D2
+It is too dark to tell.
+~
+~
+0 -1 5493
+Z3
+C-1
+R0
+S
+#5495
+Under the Mountains~
+{BLACK,BOLD}
+  A tunnel has been carved in the rock wall.  You can
+  hear the sounds of sluggish movement echoing on the
+  walls and an old stale smell hangs in the damp air.
+  The short hairs on the back of your neck stiffen as 
+  you sense an evil presence. 
+{black}
+~
+54 1 0
+D1
+It is too dark to tell.
+~
+~
+0 -1 5475
+D2
+It is too dark to tell.
+~
+~
+0 -1 5492
+D3
+It is too dark to tell.
+~
+~
+0 -1 5494
+Z3
+C-1
+R0
+S
+#5499
+{RED,BO,BLI}Berot's {bli}{BLU}Bar and Grill{blu}~
+{RE}
+  This little known bar and grill sits somewhere behind
+  the rest  of mud and serves only to  the elite of the
+  elite. Bottle of all colors, shaps and sizes line the
+  shelves.  There is even a  row of Shiraz Aussie Wines
+  on one shelf collecting dust waiting for someone with
+  a discerning palate to partake.
+{BO,RE}
+  So come on in  and make  yourself comfortable  and if
+  you are lucky maybe someone will show up to tend bar.
+{re}
+~
+54 4530185 1
+X1050830
+Z5
+C-1
+R0
+S
+$~

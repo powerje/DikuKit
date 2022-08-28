@@ -1,0 +1,55 @@
+#25
+The Klingon Spaceship(Mute)~
+2599 60 2
+*
+D 0  2500     3     2    (W:LOCKED) The Prison Cell
+D 0  2501     1     2    (E:LOCKED) The Corridor
+D 0  2501     2     2    (S:LOCKED) The Corridor
+M 0  2512     5  2502    The klingon
+M 0  2511     5  2503    The klingon guard
+M 0  2512     5  2503    The klingon
+D 0  2503     3     1    (W:CLOSED) The Corridor
+M 0  2511     5  2504    The klingon guard
+D 0  2505     3     1    (W:CLOSED) The leisure section
+D 0  2506     1     1    (E:CLOSED) The main corridor
+D 0  2506     3     1    (W:CLOSED) The main corridor
+M 0  2511     5  2507    The klingon guard
+D 0  2507     1     1    (E:CLOSED) Restricted Area
+D 0  2507     2     1    (S:CLOSED) Restricted Area
+M 0  2512     5  2509    The klingon
+M 0  2512     5  2509    The klingon
+D 0  2509     0     1    (N:CLOSED) The Computer room
+D 0  2509     1     1    (E:CLOSED) The Computer room
+M 0  2512     5  2510    The klingon
+D 0  2510     2     1    (S:CLOSED) The Crew Quarters
+D 0  2510     3     1    (W:CLOSED) The Crew Quarters
+M 0  2513     1  2511    The Klingon shipmaster
+E 1  2514     2    12    (ABOUT) {R}{BOLD}a suit of Klingon Battle-Armor{r}{bold}
+E 1  2516     3    16    (WIELD) {R}a Klingon d'k tahg knife{r}
+G 1  2501     2     0    the engineer's key
+D 0  2511     1     1    (E:CLOSED) The Shipmaster's Office
+D 0  2513     1     1    (E:CLOSED) The engine corridor
+D 0  2513     3     1    (W:CLOSED) The engine corridor
+D 0  2513     5     1    (D:CLOSED) The engine corridor
+M 0  2511     5  2514    The klingon guard
+D 0  2514     2     2    (S:LOCKED) The engine corridor
+D 0  2515     0     2    (N:LOCKED) The engine Room
+M 0  2515     1  2517    the Klingon engineer
+G 1  2508     1     0    A hydrazyth
+G 1  2501     2     0    the engineer's key
+D 0  2519     3     2    (W:LOCKED) The main Corridor
+M 0  2511     5  2520    The klingon guard
+D 0  2520     0     1    (N:CLOSED) The entrance to the Bridge
+M 0  2510     1  2521    the Klingon commander
+E 1  2517     2    13    (WAIST) {R}a klingon {R}{BOLD}body shield{r}
+E 1  2515     1    17    (HELD) {R}A Klingon{Y} Phaser{y}
+G 1  2502     1     0    the captain's remote control
+D 0  2521     2     1    (S:CLOSED) The bridge
+M 0  2514     1  2522    the Klingon navigator
+E 1  2517     2    13    (WAIST) {R}a klingon {R}{BOLD}body shield{r}
+E 1  2516     3    16    (WIELD) {R}a Klingon d'k tahg knife{r}
+G 1  2503     1     0    the key to the storage room
+O 0  2516     3  2524    {R}a Klingon d'k tahg knife{r}
+O 0  2514     2  2524    {R}{BOLD}a suit of Klingon Battle-Armor{r}{bold}
+D 0  2524     1     2    (E:LOCKED) The storeroom
+$~

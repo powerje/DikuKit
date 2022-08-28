@@ -1,0 +1,294 @@
+#13
+ {R,BO}The {b}{R}High Tower {BL,BO}of {b}{R}Sorcery{b}(Arcane)~
+1399 75 2
+*
+X 8388
+M 0  1300     6  1301    A Shadow Guardian
+M 0  1300     6  1301    A Shadow Guardian
+M 0  1300     6  1302    A Shadow Guardian
+M 0  1300     6  1302    A Shadow Guardian
+M 0  1302     1  1302    Edgar
+E 1  3021    13    16    (WIELD) {M,BO}A small sword{m,bo}
+M 0  1300     6  1303    A Shadow Guardian
+M 0  1301     1  1311    A Lost Adventurer
+E 1  3030    44     0    (LIGHT) a torch
+E 1  3022    89    16    (WIELD) {W}A long sword{w}
+G 1  3010     3     0    {W,BO}A {Y}loaf {W}of {Y}bread{y,bo}
+G 1  3000    10     0    A barrel
+M 0  1303     1  1312    The golem
+M 0  1304    50  1313    A mage
+M 0  1304    50  1313    A mage
+M 0  1304    50  1313    A mage
+M 0  1304    50  1314    A mage
+M 0  1304    50  1314    A mage
+O 0  1300     3  1314    A fountain
+M 0  1304    50  1315    A mage
+M 0  1304    50  1315    A mage
+M 0  1304    50  1316    A mage
+M 0  1304    50  1316    A mage
+M 0  1300     6  1316    A Shadow Guardian
+D 0  1316     3     1    (W:CLOSED) {WH}Dining {BL,BO}Room{b}
+M 0  1304    50  1317    A mage
+M 0  1304    50  1317    A mage
+D 0  1317     5     1    (D:CLOSED) {BL,BO}Dark Hallway{b}
+M 0  1305     1  1318    Strick the bartender
+G 1  6013     6     0    the barrel
+G 1  3101     8     0    a cup
+G 1  3100     4     0    a cup
+G 1  3010     3     0    {W,BO}A {Y}loaf {W}of {Y}bread{y,bo}
+G 1  1352     1     0    a waybread
+G 1  1351     1     0    a herbal brew
+M 0  1304    50  1318    A mage
+M 0  1306     1  1319    Tatorious
+G 1  3053     4     0    a wand of invisibility
+G 1  3051     6     0    a yellow potion of see invisible
+G 1  3050     3     0    a scroll of identify
+G 1  3033     1     0    a box
+G 1  1354     1     0    a feather quill
+G 1  1353     1     0    a parchment
+M 0  1308     1  1320    The cook's assistant
+M 0  1307     1  1320    Ezmerelda
+E 1  1355     3    16    (WIELD) A___[{RED}Meat Cleaver{b}]
+O 0  1302     1  1320    A meat locker
+P 1  1306     3  1302    {W}A {Y}Finger Sandwich{b}
+P 1  1306     3  1302    {W}A {Y}Finger Sandwich{b}
+P 1  1306     3  1302    {W}A {Y}Finger Sandwich{b}
+P 1  1305     1  1302    {BL,BO}A Large Chunk {W}of {b}{R}Meat{b}
+O 0  1301     1  1320    An oven
+P 1  1304     5  1301    {G}A {R,BO}Slice {b}{G}of {R}P{Y,BO}i{b}{R}z{Y,BO}z{b}{R}a{b}
+P 1  1304     5  1301    {G}A {R,BO}Slice {b}{G}of {R}P{Y,BO}i{b}{R}z{Y,BO}z{b}{R}a{b}
+P 1  1304     5  1301    {G}A {R,BO}Slice {b}{G}of {R}P{Y,BO}i{b}{R}z{Y,BO}z{b}{R}a{b}
+P 1  1304     5  1301    {G}A {R,BO}Slice {b}{G}of {R}P{Y,BO}i{b}{R}z{Y,BO}z{b}{R}a{b}
+P 1  1304     5  1301    {G}A {R,BO}Slice {b}{G}of {R}P{Y,BO}i{b}{R}z{Y,BO}z{b}{R}a{b}
+D 0  1320     1     1    (E:CLOSED) {BL,BO}The {b}{W}Kitchen{b}
+D 0  1321     4     1    (U:CLOSED) {W}Below {BL,BO}the {b}Trapdoor{b}
+D 0  1323     0     2    (N:LOCKED) {b}A {BL,BO}Dark {b}{W}Passage{b}
+D 0  1324     1     0    (E:OPEN) {b}A {BL,BO}Dark {b}{W}Passage{b}
+M 0  1309     1  1327    The prisoner
+E 1  1356     2    14    (WRIST) [{BL,BO}some{bo}]ooo[{BL,BO}chain{b}]ooo[{BL,BO}shackles{b}]
+D 0  1327     2     2    (S:LOCKED) {b}A {BL,BO}Dark {b}{W}Cell{w}
+M 0  1310     1  1328    The Jailor
+E 1  1323     1    17    (HELD) an old key
+D 0  1328     3     0    (W:OPEN) {W}The {R}Jailor{R,BO}'{b}{R}s {BL,BO}Office{b}
+D 0  1330     0     1    (N:CLOSED) {W}The {BL,BO}Hallway{b}
+D 0  1330     2     1    (S:CLOSED) {W}The {BL,BO}Hallway{b}
+M 0  1304    50  1331    A mage
+M 0  1304    50  1331    A mage
+D 0  1331     0     1    (N:CLOSED) {W}A {BL,BO}Bend {w}{W}in the {BL,BO}Hallway{b}
+D 0  1331     1     1    (E:CLOSED) {W}A {BL,BO}Bend {w}{W}in the {BL,BO}Hallway{b}
+D 0  1331     2     1    (S:CLOSED) {W}A {BL,BO}Bend {w}{W}in the {BL,BO}Hallway{b}
+M 0  1304    50  1332    A mage
+M 0  1304    50  1332    A mage
+D 0  1332     2     1    (S:CLOSED) {BL,BO}A Store {b}{WH}Room{w}
+M 0  1311     2  1333    A broom
+G 1  1307     3     0    {B}A {Y}Straw {BL,BO}Broom{b}
+M 0  1311     2  1333    A broom
+G 1  1307     3     0    {B}A {Y}Straw {BL,BO}Broom{b}
+D 0  1333     0     1    (N:CLOSED) {WH}A {Y}Broom {BL,BO}Closet{b}
+M 0  1312     6  1334    A pair of disembodied hands
+D 0  1334     1     1    (E:CLOSED) {WH}A {BL,BO}Hallway{b}
+D 0  1334     2     1    (S:CLOSED) {WH}A {BL,BO}Hallway{b}
+M 0  1313     2  1335    A pair of disembodied eyes
+M 0  1312     6  1335    A pair of disembodied hands
+M 0  1312     6  1335    A pair of disembodied hands
+M 0  1312     6  1335    A pair of disembodied hands
+M 0  1312     6  1335    A pair of disembodied hands
+D 0  1335     0     1    (N:CLOSED) {RED}Guardians {RE,BO}C{b}{R}h{BL,BO}a{b}{W}m{BL,BO}b{b}{R}e{R,BO}r{b}
+M 0  1304    50  1336    A mage
+M 0  1304    50  1336    A mage
+D 0  1336     3     1    (W:CLOSED) {BL,BO}A {b}{R}Guest {W}Bedroom{b}
+M 0  1314     1  1337    The mage
+D 0  1337     3     1    (W:CLOSED) {BL,BO}A {b}{R}Guest {WH}Bedroom{b}
+M 0  1304    50  1338    A mage
+M 0  1304    50  1338    A mage
+D 0  1338     1     1    (E:CLOSED) {BL,BO}A Hallway{b}
+D 0  1339     3     1    (W:CLOSED) {RE,BO}The {b}{R}Burnt {BL,BO}Room{b}
+M 0  1304    50  1340    A mage
+M 0  1304    50  1340    A mage
+D 0  1340     0     1    (N:CLOSED) {W}A{BL,BO} Hallway{b}
+M 0  1304    50  1341    A mage
+M 0  1315     7  1342    A young apprentice magic user
+M 0  1317     4  1342    A young apprentice
+M 0  1317     4  1342    A young apprentice
+M 0  1316     2  1342    A young apprentice
+D 0  1342     2     1    (S:CLOSED) {W}The {R}Apprentice{BL,BO}'{b}{R}s {b}Barracks{b}
+M 0  1304    50  1343    A mage
+D 0  1343     0     1    (N:CLOSED) {W}A Hallway{b}
+M 0  1315     7  1344    A young apprentice magic user
+M 0  1317     4  1344    A young apprentice
+M 0  1316     2  1344    A young apprentice
+M 0  1317     4  1344    A young apprentice
+D 0  1344     2     1    (S:CLOSED) {W}The {R}Apprentice{BL,BO}'{b}{R}s {b}Barracks{b}
+M 0  1319     1  1345    A small kitten
+M 0  1318     3  1345    A young apprentice
+M 0  1318     3  1345    A young apprentice
+M 0  1318     3  1345    A young apprentice
+D 0  1345     0     1    (N:CLOSED) {W}A {BL,BO}Hallway{b}
+M 0  1315     7  1346    A young apprentice magic user
+M 0  1315     7  1346    A young apprentice magic user
+D 0  1346     2     1    (S:CLOSED) {WH}The {RE}Apprentice{W}'{R}s{BL,BO} Workshop{b}
+M 0  1304    50  1348    A mage
+M 0  1304    50  1348    A mage
+M 0  1304    50  1348    A mage
+D 0  1348     3     1    (W:CLOSED) {WH}The {BL,BO}Hallway{b}
+M 0  1321     1  1349    An intructor of magic
+M 0  1320     4  1349    A student
+M 0  1320     4  1349    A student
+M 0  1320     4  1349    A student
+M 0  1320     4  1349    A student
+D 0  1349     1     1    (E:CLOSED) {RE}A {RE,BO}Classroom{b}
+D 0  1350     3     1    (W:CLOSED) {WH}A {BL,BO}Hallway{b}
+D 0  1351     3     1    (W:CLOSED) {WH}A {BL,BO}Hallway{b}
+D 0  1352     1     1    (E:CLOSED) {BL,BO}An {w}{R}Empty {RE,BO}Classroom{b}
+M 0  1323     1  1354    A spell teacher
+M 0  1322     4  1354    A student of spells
+M 0  1322     4  1354    A student of spells
+M 0  1322     4  1354    A student of spells
+M 0  1322     4  1354    A student of spells
+D 0  1354     1     1    (E:CLOSED) {BL,BO}An {b}{RE}Empty {R,BO}Classroom{b}
+D 0  1355     2     1    (S:CLOSED) {BL,BO}A {b}{W}Hallway{b}
+M 0  1304    50  1356    A mage
+M 0  1304    50  1356    A mage
+D 0  1356     2     1    (S:CLOSED) {BL,BO}A {b}{W}Hallway{b}
+M 0  1324     4  1357    A student of spells
+M 0  1325     1  1357    A wizard
+E 1  1335     1    27    (EYE) a pair of spectacles
+M 0  1324     4  1357    A student of spells
+M 0  1324     4  1357    A student of spells
+M 0  1324     4  1357    A student of spells
+D 0  1357     0     1    (N:CLOSED) {RE}The {RE,BO}Ampitheatre{b}
+D 0  1358     2     1    (S:CLOSED) {BL,BO}A {b}{W}Hallway{b}
+M 0  1326     4  1359    A young mage
+M 0  1327     1  1359    The battle mistress
+E 1  1357     4    17    (HELD) a silvery dagger
+M 0  1326     4  1359    A young mage
+E 1  1357     4    16    (WIELD) a silvery dagger
+M 0  1326     4  1359    A young mage
+E 1  1357     4    16    (WIELD) a silvery dagger
+M 0  1326     4  1359    A young mage
+E 1  1357     4    16    (WIELD) a silvery dagger
+D 0  1359     0     1    (N:CLOSED) {W}The {BL,BO}Training {b}{R}Room{b}
+M 0  1304    50  1360    A mage
+M 0  1304    50  1360    A mage
+M 0  1315     7  1361    A young apprentice magic user
+M 0  1315     7  1361    A young apprentice magic user
+M 0  1315     7  1361    A young apprentice magic user
+D 0  1361     0     1    (N:CLOSED) {RED}A {BL,BO}Dueling {b}{W}Room{w}
+D 0  1362     1     1    (E:CLOSED) {W}A {BL,BO}Hallway{b}
+M 0  1304    50  1363    A mage
+M 0  1304    50  1363    A mage
+D 0  1363     1     1    (E:CLOSED) {BL,BO}A Hallway{b}
+M 0  1328     1  1364    A spell teacher
+E 1  3053     4    17    (HELD) a wand of invisibility
+O 0  1308     1  1364    {B}A Coffee Machine{b}
+P 1  3101     8  1308    a cup
+P 1  3101     8  1308    a cup
+P 1  3101     8  1308    a cup
+P 1  3101     8  1308    a cup
+P 1  3101     8  1308    a cup
+P 1  3101     8  1308    a cup
+D 0  1364     3     1    (W:CLOSED) {R}The {RE,BO}Spellmaster{b}{W}'{RE,BO}s {BL}Lounge{b}
+M 0  1329     1  1365    An aged wizard
+E 1  3053     4    17    (HELD) a wand of invisibility
+D 0  1365     3     1    (W:CLOSED) {RED}A {W}Bedroom{b}
+M 0  1304    50  1366    A mage
+M 0  1304    50  1366    A mage
+D 0  1366     1     1    (E:CLOSED) {W}A {BL,BO}Hallway{b}
+M 0  1330     4  1367    A scribe
+M 0  1330     4  1367    A scribe
+M 0  1330     4  1367    A scribe
+M 0  1330     4  1367    A scribe
+D 0  1367     3     1    (W:CLOSED) {BL,BO}The {RE}Study{b}
+M 0  1339     3  1368    A wooden golem
+D 0  1370     0     1    (N:CLOSED) {W}A {BL,BO}Hallway{b}
+M 0  1331     4  1371    A scribe
+M 0  1331     4  1371    A scribe
+M 0  1331     4  1371    A scribe
+M 0  1331     4  1371    A scribe
+D 0  1371     2     1    (S:CLOSED) {R}A Small Office{b}
+D 0  1371     3     1    (W:CLOSED) {R}A Small Office{b}
+M 0  1304    50  1372    A mage
+M 0  1304    50  1372    A mage
+M 0  1304    50  1372    A mage
+M 0  1333     1  1373    The scribe's assistant
+G 1  1362     1     0    an old scroll
+M 0  1332     1  1373    The master scribe
+E 1  1358     1    17    (HELD) a golden feather quill
+G 1  1361     1     0    a long cylindrical tube
+G 1  1360     1     0    a bound scroll
+G 1  1359     1     0    a scroll
+D 0  1373     1     1    (E:CLOSED) {WH}The {RE}Master {R,BO}Scribe{b}'{R,BO}s {BL}Workshop{b}
+D 0  1374     0     1    (N:CLOSED) {W}A {BL,BO}Hallway{b}
+M 0  1313     2  1375    A pair of disembodied eyes
+D 0  1375     2     1    (S:CLOSED) {W}A {BL,BO}Store {b}{W}Room{b}
+M 0  1304    50  1376    A mage
+M 0  1304    50  1376    A mage
+D 0  1377     3     1    (W:CLOSED) {W}A {BL,BO}Hallway{b}
+M 0  1304    50  1378    A mage
+M 0  1304    50  1378    A mage
+M 0  1304    50  1378    A mage
+M 0  1312     6  1378    A pair of disembodied hands
+D 0  1378     3     1    (W:CLOSED) {W}A {BL,BO}Hallway{b}
+O 0  1313     1  1379    {W}A {B}Bar {W}of {BL,BO}Adamantite{b}
+O 0  1312     1  1379    {CY}A Bar of {C,BO}Mithril{y}
+O 0  1311     1  1379    {WH}A {YE}Bar of Gold{y}
+O 0  1310     1  1379    {B}A {W}Bar {BL,BO}of{b}{W} Silver{b}
+O 0  1309     1  1379    {BLA}A Cabinet{b}
+P 1  7211    11  1309    {C}a {R}two-handed{r}{C} scythe{c}
+P 1  3022    89  1309    {W}A long sword{w}
+P 1  3022    89  1309    {W}A long sword{w}
+P 1  3020    21  1309    {BLU,BO}A {W}sharp {BLU}dagger{blu,bo}
+D 0  1379     1     1    (E:CLOSED) {R}A {W}Store {BL,BO}Room{b}
+O 0  1314     1  1381    a mithril hammer
+D 0  1381     0     0    (N:OPEN) {W}A {R}Very {R,BO}Hot Room{b}
+D 0  1381     1     1    (E:CLOSED) {W}A {R}Very {R,BO}Hot Room{b}
+D 0  1381     2     1    (S:CLOSED) {W}A {R}Very {R,BO}Hot Room{b}
+D 0  1381     4     1    (U:CLOSED) {W}A {R}Very {R,BO}Hot Room{b}
+M 0  1335     1  1382    A dancing sword
+M 0  1334     1  1382    The Enchanter
+E 1  1316     1    17    (HELD) a small key
+G 1  1363     1     0    a scroll written on blue paper
+O 0  1315     1  1382    A chest
+P 1  1319     1  1315    a curved scimitar
+P 1  1318     1  1315    a silver dagger
+P 1  1317     1  1315    a long sword
+D 0  1382     0     1    (N:CLOSED) {W}The {R}Master {BL,BO}Enchanter{R}'{BL,BO}s {b}{W}Chamber{b}
+D 0  1384     2     1    (S:CLOSED) {W}A {BL,BO}Hallway{b}
+M 0  1304    50  1385    A mage
+M 0  1304    50  1385    A mage
+M 0  1304    50  1385    A mage
+M 0  1366     3  1386    {YE}An Alchemist{b}
+M 0  1366     3  1386    {YE}An Alchemist{b}
+M 0  1366     3  1386    {YE}An Alchemist{b}
+D 0  1386     0     1    (N:CLOSED) {R,BO}A {b}{R}Laboratory{b}
+D 0  1387     2     1    (S:CLOSED) {W}A {BL,BO}Hallway{b}
+M 0  1336     1  1388    The Mad Alchemist
+E 1  1364     1    17    (HELD) a leather pouch
+P 1  1370     1  1364    a milky white potion
+P 1  1369     1  1364    an efervecent potion
+P 1  1368     1  1364    a green potion
+P 1  1367     1  1364    a bright red potion
+P 1  1365     1  1364    a silver stirring spoon
+M 0  1304    50  1389    A mage
+M 0  1304    50  1389    A mage
+M 0  1337     1  1390    {BL,BO}The {R}Master {b}{WH}Summoner{b}
+E 1  3009    74     0    (LIGHT) Random Stat Obj
+E 1  1371     2    17    (HELD) {BL,BO}+{b}====={BL,BO}A{b}====={BL,BO}Black{b}====={BL,BO}Staff{b}====={BL,BO}+{b}
+D 0  1390     0     1    (N:CLOSED) {W}The {R}Pentagram {W}Chamber{b}
+D 0  1391     1     1    (E:CLOSED) {W}A {BL,BO}Hallway{b}
+M 0  1304    50  1393    A mage
+M 0  1304    50  1393    A mage
+D 0  1393     1     1    (E:CLOSED) {W}A {BL,BO}Hallway{b}
+D 0  1394     3     1    (W:CLOSED) {R}An {W}Empty {B}Room{b}
+M 0  1338     1  1395    Chancellor of the Unseen University
+D 0  1395     0     1    (N:CLOSED) {R,BO}The {b}{R}Chancelor {W}of the {BL}Unseen {BL,BO}University{R}'{BL,BO}s {b}{R}Chamber{b}
+D 0  1395     3     1    (W:CLOSED) {R,BO}The {b}{R}Chancelor {W}of the {BL}Unseen {BL,BO}University{R}'{BL,BO}s {b}{R}Chamber{b}
+M 0  4050     1  1397    the warrior
+M 0  4003     1  1397    the kobold
+M 0  4000     1  1397    the snake
+M 0  3094     1  1397    the Wolf
+D 0  1397     2     1    (S:CLOSED) {W}The {BL}Animal {BL,BO}Pens{b}
+M 0  1339     3  1398    A wooden golem
+M 0  1339     3  1398    A wooden golem
+D 0  1399     3     2    (W:LOCKED) {R}Atop {W}the {R}Stairway{b}
+$~

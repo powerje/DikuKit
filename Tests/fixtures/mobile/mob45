@@ -1,0 +1,803 @@
+#4500
+guardian earth~
+{YE}The Earth Guardian{ye}~
+{YE}An immense boulder sits here, blocking your way.{ye}
+~
+This creature seems to be part of the earth iself.  It appears to be almost
+indestructable, hard as a rock.  You sense that it gains it's energy from
+it's connection with the earth.  If only you could sever that connection.
+~
+66 1073742336 0 S
+60 10 -10 0d0+100000 0d0+0
+0 1000
+8 8 0
+S 770
+R 140
+D 20
+A 12
+#4501
+guardian air~
+{BO,WH}The Air Guardian{bo}~
+{BO,WH}A tornado swirls in the doorway, kicking up dust around the room.{bo}
+~
+You see what appears to be a large tornado in front of you.  Since it
+appears to be made of air, you do not see how you will be able to kill
+it.  Maybe there is another way around it?  How can you get rid of this
+being of air?
+~
+66 1073742336 0 S
+55 10 -10 0d0+100000 0d0+0
+0 1000
+8 8 0
+S 770
+R 136
+D 20
+A 12
+#4502
+guardian fire~
+{BO,RE}The Fire Guardian{bo}~
+{BO,RE}A blazing inferno consumes the doorway.{bo}
+~
+You see a blazing inferno in front of you.  The heat from this fire is
+affecting you.  You are sweating up a storm.  As you approach the heat is
+so intense that you must move away.  You will not be able to attack this
+thing, it is just too hot.  There must be some other way to cool down this
+fire.
+~
+66 1073742336 0 S
+55 10 -10 0d0+100000 0d0+0
+0 1000
+8 8 0
+S 770
+R 140
+D 20
+A 12
+#4503
+guardian water~
+{BO,CY}The Water Guardian{bo}~
+{BO,CY}The passage is covered with thick ice.{bo}
+~
+This is a large piece of ice.  It is so large and cold that it makes the
+entire room freezing.  You think that this piece of ice will be almost
+impenetrable because of it's intense hardness.  There must be a way to thaw
+out this block of ice.
+~
+66 1073742336 0 S
+55 10 -10 0d0+100000 0d0+0
+0 1000
+8 8 0
+S 770
+R 140
+D 20
+A 12
+#4504
+wizard spellcaster powerful~
+The Powerful Spellcaster~
+You see a man who seems to glow with mystical energy.
+~
+Exuding wisdom and knowledge, you get the feeling that this man is 
+very powerful.  You think that he can help you out in many ways.
+~
+83886146 1074004652 0 S
+52 10 -6 0d0+100000 0d0+0
+4000000 10000000
+8 8 1
+D 20
+A 12
+#4505
+knight~
+{BO,WH}The honorable knight{bo}~
+{BO,WH}You see a knight dressed in dazzling white armor fending off the attack of his enemies.{bo}
+~
+You see a knight in dazzling white armor.  He seems to be a great knight,
+humble yet proud of his rank.  He looks like he would be quite an addition
+to any realm.
+ 
+Currently, he is being attacked by several demons and it looks like he
+could use {BO}rescued{bo}.
+~
+536870978 1074004104 0 S
+50 -30 -6 0d0+12000 35d20+50
+0 0
+8 8 0
+R 64
+D 20
+A 12
+#4506
+demon monster~
+{RE}A small demon{re}~
+{RE}You see a small demon here fighting the knight.{re}
+~
+You see an evil looking demon attacking the knight.  He is {BLA}black{bla} and {RE}red{re}
+in color and smoke rises from his mouth and nostrils.  He is about 5 feet
+tall and with his friends he looks like he is giving the knight a good
+fight.
+~
+285229127 1092879274 -100 C 1
+45 -55 -5 0d0+6000 40d10+40
+1 7500000
+8 8 0
+S 137989
+R 348
+D 20
+A 12
+#4507
+monster lake~
+{CYA}The lake monster{cya}~
+{CYA}You see a strange {BLA}shape {CYA}at the bottom of the lake.{cya}
+~
+You see a many tentacled {CYA}monster{cya}.  It appears to capture its enemies
+in its grasp and squeeze the life out of them.  It appears to have a pair
+of legs in its grasp now.  Perhaps it was the last unfortunate adventurer
+to come this way.  Those tentacles look very deadly.
+~
+1266712611 3223061162 1000 C 51
+55 -60 -10 0d0+35000 40d25+100
+2000000 200000000
+8 8 0
+S 8526352
+R 28
+D 20
+A 12
+#4508
+wagraut~
+The wagraut~
+You are suddenly attacked by the angered {RE}Wagrauts.{re}
+~
+You see an evil {RE}Wagraut{re}.  He is about 4-1/2 feet tall and his face
+looks like a cross between a boar and a dog.  He is covered by hair and has
+immense arms that look like they could tear you limb from limb.  I would
+beware of this beast.
+~
+562045026 1076101770 0 S
+50 -55 -7 0d0+4000 40d5+50
+250000 50000000
+8 8 1
+S 33555215
+D 20
+A 12
+#4509
+wagraut~
+The wagraut~
+You are suddenly attacked by the angered {RE}Wagrauts.{re}
+~
+You see an evil {RE}Wagraut{re}.  He is about 4-1/2 feet tall and his face
+looks like a cross between a boar and a dog.  He is covered by hair and has
+immense arms that look like they could tear you limb from limb.  I would
+beware of this beast.
+~
+562045024 1076101770 0 S
+50 10 -7 0d0+8000 40d5+50
+250000 50000000
+8 8 1
+S 33555215
+D 20
+A 12
+#4510
+wagraut leader~
+{RE}The Wagraut Leader{re}~
+{YE}You see the {BLA}leader {YE}of the {RE}Wagrauts {YE}poised to attack.{ye}
+~
+You see the {BLA}leader{bla} of the {RE}Wagrauts{re}.  He is larger than the others,
+being about 7 feet tall.  As he dons some {BLA}evil-looking gloves, {bla}he glows
+with a {RE}red aura{re}.  There must be some powerful {CYA}magic {cya}in those {BLA}gloves{bla}.
+~
+1233128034 1075053226 -1000 C 4
+50 -70 -7 0d0+25000 35d15+75
+5000000 200000000
+8 8 1
+S 4199232
+D 20
+A 12
+#4511
+wolf timber~
+{BL}The grey wolf{bl}~
+{BL}This pack of wolves seem to be hungry.{bl}
+~
+This {BL}wolf{bl} is large and grey.  It seems to be hungry and looks at you like
+you are dinner.  As it bares it teeth, you see that it means business.
+~
+595591266 1074299688 0 S
+50 -55 -7 0d0+8000 30d10+50
+10 50000000
+8 8 0
+S 67115850
+R 28
+D 20
+A 12
+#4512
+snake viper~
+{GR}A {BO,YE}small {bo,GR}green and {BO,YE}yellow {bo,GR}snake{gr}~
+{GR}A {BO,YE}small {bo,GR}green and {BO,YE}yellow {bo,GR}snake {BO,YE}slithers {bo,GR}towards {BO,YE}you.{ye}
+~
+You see a small {GR}green{gr} and {BO,YE}yellow{ye} snake slithering towards you.
+It has large fangs and appears to be quite poisonous.  You better take them
+out quickly.
+~
+562036834 1077674792 0 S
+1 -90 -5 0d0+4000 40d5+40
+0 1000
+8 8 0
+S 785
+R 16
+D 20
+A 12
+#4513
+roc mother~
+{YE}The baby roc's mother{ye}~
+{BL}It looks like you angered the {YE}baby roc's mother.{ye}
+~
+You see a {YE}creature{ye} that is as large as an elephant fly over as you attack
+her babies.  She is pissed!
+~
+1098907746 1094453930 0 S
+60 -80 -7 0d0+32000 40d30+150
+10000000 500000000
+8 8 2
+S 67115967
+R 16
+D 20
+A 12
+#4514
+roc baby~
+{YE}A baby roc{ye}~
+{BL}You see a {YE}baby roc {BL}crying for its mommy.{bl}
+~
+This is such a cute little creature that you wouldn't dream of hurting it.
+Besides you've heard rumors that Rocs are {BO}very large and very protective.{bo}
+~
+66 1073742336 0 S
+1 20 10 0d0+10 0d0+0
+1 1000
+6 6 1
+S 49
+R 284
+D 20
+A 12
+#4515
+bat vampire~
+{BL}A {RE}vampire {BL}bat{bl}~
+{BL}You are blinded by leathery wings in your face.{bl}
+~
+You see a {BL}bat.{bl}  You know what they look like.
+~
+293601378 1094452008 0 S
+40 -40 -5 0d0+4000 40d5+60
+0 10000000
+8 8 0
+S 769
+R 16
+D 20
+A 12
+#4516
+beast shadow~
+{YE}The {RE}Shadow {BLA}Beast{bla}~
+You see the outline of a {BLA}beast{bla}, skulking in the shadows.
+~
+{BLA}This beast blends in with the shadows and you cannot see it.  It strikes
+when you are unaware.{bla}
+~
+729809250 1094453930 0 S
+30 -80 -7 0d0+15000 20d30+55
+1000000 100000000
+8 8 0
+S 12863
+R 12
+D 20
+A 12
+#4517
+vampire~
+{RE}A vampire{re}~
+A {BO,BLA}bat{bo} lands and forms into a human-like being.
+~
+You see a man with {RE}bloody fangs{re} who appears to be thirsty for your
+blood.
+~
+729808994 1094453930 0 S
+40 -55 -7 0d0+15000 40d5+70
+0 50000000
+8 8 0
+S 13119
+R 12
+D 20
+A 12
+#4518
+strahd vampire~
+{RE}Strahd Teufel,{re,BLA} Ruler of the Vampire Coven{bla}~
+{BLA}You see a man who looks young, yet ancient.{bla}
+~
+{BLA}You see a man who despite his youthful appearance, appears to command
+the wisdom of great age.  {bla,RE}As he draws his cloak tight, he bares his
+teeth and sends shivers up your spine.{re}
+~
+1203814503 1362889386 -1000 C 41
+51 -100 -10 0d0+44000 50d22+94
+0 300000000
+8 8 0
+S 1170618367
+R 8388888
+D 20
+A 12
+#4519
+ogre~
+{YE}A large ogre{ye}~
+{YE}You see a powerful looking giant blocking your way.{ye}
+~
+{YE}You see an ugly looking humanoid creature.  He looks big and stupid.{ye}
+~
+566231136 1094454186 0 C 4
+40 -55 -7 0d0+10000 35d10+50
+0 75000000
+8 8 0
+S 13247
+R 28
+D 20
+A 12
+#4520
+ogre leader~
+{YE}The ogre leader{ye}~
+{YE}This ogre actually looks intelligent and also stronger than the rest.{ye}
+~
+{YE}The ogre leader appears to have intelligence. Perhaps this is why he 
+can easily manipulate the other dumb ogres.{ye}
+~
+1136658530 1094453930 1000 S
+50 -70 -7 0d0+25000 35d23+80
+0 200000000
+8 8 0
+S 13247
+R 8388636
+D 20
+A 12
+#4521
+dog devil~
+{BO,RE}A Devil Dog{re}~
+{BO,BL}You see the blur of a {RE}flaming {BL}lupine shaped creature.{bo}
+~
+This creature was summoned from the depths of Hell and brought into
+this forest to guard, protect and hunt for the evil Necromancer.
+~
+1266679906 1094454186 0 S
+50 -80 -10 0d0+10000 15d10+75
+0 250000000
+8 8 0
+S 417727
+R 28
+D 20
+A 12
+#4522
+monster shadow~
+{BL,BO}The Shadow Monster{bl}~
+{BO,BL}All light is drowned out as you are surrounded by an enormous shadow.{bl}
+~
+The size of this beast creates a shadow which drowns out all light
+in the area.
+~
+1212153922 1359252138 0 S
+60 -70 -8 0d0+32000 20d20+100
+0 200000000
+8 8 0
+S 4476894
+D 20
+A 12
+#4523
+necromancer~
+{BO,BL}The Necromancer{bo}~
+{YE}A powerful looking {BO,BL}Necromancer {bo,YE}stares you down.{ye}
+~
+This man holds the secrets of obtaining power from the dead within
+his head and hands.  He is looking forward to killing you to drain
+your life force from your body to use in his latest spell.
+~
+1233125474 1359219370 0 S
+60 -80 -8 0d0+32000 40d17+100
+2000000 300000000
+8 8 0
+S 132095
+R 28
+D 20
+A 12
+#4524
+wall living~
+{BO,RE}The Living Wall{bo}~
+{BO,YE}The {RE}wall {YE}moves out to attack you.{ye}
+~
+The wall seems to be alive.  It is the ultimate in defense of a 
+castle.
+~
+1266679906 1074006698 0 S
+60 -60 -10 0d0+15000 25d25+30
+500000 50000000
+8 8 0
+S 132095
+R 28
+D 20
+A 12
+#4525
+guardian marsh~
+{GR}The Marsh Guardian{gr}~
+{GR}The guardian grabs ahold of you and pulls you in.{gr}
+~
+This creature appears to have an insatiable appetite.  It EATS
+anything that gets near it.
+~
+1235222630 1074006698 0 S
+60 -65 -8 0d0+25000 35d15+100
+2000000 150000000
+8 8 0
+S 132095
+R 28
+D 20
+A 12
+#4526
+guard gate~
+{MAG}The Gate Guard{mag}~
+{MAG}Some creatures rush out of the gate and block your entrance.{mag}
+~
+These creatures rush out of the gate before it closes.  They stand
+guard in front of the gate so that you cannot pass.
+~
+1207959618 1074006954 0 C 4
+40 -55 -7 0d0+4000 40d5+50
+200000 5000000
+8 8 0
+S 131905
+R 12
+D 20
+A 12
+#4527
+skeleton~
+{BO,WH}Skeleton{wh}~
+{BO,WH}The skeletons of dead soldiers move towards you.{wh}
+~
+Bleached white bones being held together by mystical forces.  These
+creatures appear to be rather weak.
+~
+402653282 1074006954 0 S
+40 -55 -7 0d0+2000 20d8+50
+150000 5000000
+8 8 0
+S 131904
+R 12
+D 20
+A 12
+#4528
+heunmyr~
+{CYA}Heunmyr{cya}~
+{CYA}Dog-faced creatures with large claws surround you.{cya}
+~
+These creatures look like the cross between a dog, a dwarf and a pig.
+They have large claws and a keen sense of smell.
+~
+696254562 1074006954 0 S
+40 -55 -7 0d0+8000 40d5+50
+150000 5000000
+8 8 0
+S 131967
+R 12
+D 20
+A 12
+#4529
+heunmyr wanderer~
+{CYA}Heunmyr{cya}~
+{CYA}Dog-faced creatures with large claws surround you.{cya}
+~
+These creatures look like the cross between a dog, a dwarf and a pig.
+They have large claws and a keen sense of smell.
+~
+696262752 1074006954 0 S
+40 -55 -7 0d0+8000 40d5+50
+150000 5000000
+8 8 0
+S 131967
+R 12
+D 20
+A 12
+#4530
+kistraven~
+{YE}The Kistraven{ye}~
+{BO,BL}You see a boulder moving towards you.{bl}
+~
+This creature appears to be made of solid stone.  His hide seems to
+be made of a very tough material.  It is going to be tough to hit 
+him.
+~
+32834 1359217320 0 S
+50 -60 -10 0d0+100000 40d10+50
+0 50000000
+8 8 0
+S 79692736
+D 20
+A 12
+#4531
+stricmort~
+{CY}The Stricmort{cy}~
+{BO,RE}You see a powerful creature guarding the stairs.{re}
+~
+This creature looks like a cross between a lizard and an ogre.
+Disgustingly ugly but very powerful you are gripped by fear as you
+look into its vacant eyes.
+~
+1073774658 1090782120 0 C 1
+50 -55 -7 0d0+8000 40d10+50
+0 50000000
+8 8 0
+S 1023
+R 12
+D 20
+A 12
+#4532
+firktork~
+{BO,RE}The Firktork{re}~
+{BO,MAG}A small dragon with a harness is flying around here.{mag}
+~
+This creature appears to be a miniature dragon.  It is the mount
+used by the heunmyrs when they go into combat.
+~
+268828738 1090781864 0 S
+40 -30 -2 0d0+1000 20d5+50
+0 5000000
+8 8 0
+D 20
+A 12
+#4533
+leader castle~
+{BO,BL}The Castle Leader{bo}~
+A hideous demon strikes quickly at you.
+~
+After donning the helmet, a demonic force entered into this 
+creature.  The powers of Hell have given him extraordinary 
+strength.
+~
+1266680166 1359219370 -1000 S
+50 -65 -8 0d0+50000 35d24+104
+1000000 150000000
+8 8 0
+S 4332415
+R 12
+D 20
+A 12
+#4534
+archmage unholy~
+{BO,BL}The UnHoly Archmage{bo}~
+{BO,RE}Emanating power, the priest is getting the altar ready.{re}
+~
+{BO,WH}Dressed in a robe of {bo,RE}crimson {BO,WH}and {BLACK}black, {WH}this priest seems to be very
+powerful.  Luckily, he has his back turned to you and doesn't see
+you approach.
+~
+1207959619 1629751978 -1000 C 77
+50 -80 -7 0d0+30000 40d8+20
+1000000 1000
+8 8 0
+S 832
+R 28
+D 20
+A 12
+#4535
+druid unholy~
+{BO,BLA}The UnHoly Druid{bo}~
+{BO,RE}Emanating power, the priest is getting the altar ready.{re}
+~
+{BO,WH}Dressed in a robe of {bo,RE}crimson {BO,WH}and {BLACK}black, {WH}this priest seems to be very
+powerful.  Luckily, he has his back turned to you and doesn't see
+you approach.
+~
+1207959619 1629751978 -1000 C 88
+50 -80 -7 0d0+30000 40d8+20
+1000000 1000
+8 8 0
+D 20
+A 12
+#4536
+soul follower demon~
+{BO,WH}The demon's follower{wh}~
+{BO,WH}The soul of the dead king is here to protect his demonic master.{wh}
+~
+{WH}A semi-transparent form floats around this room.  Upon closer
+inspection, it appears that it is one of the former kings.  This
+demon has apparently enslaved the souls of the fallen warriors of 
+this realm.{wh}
+~
+566231138 1090781834 0 S
+50 -80 -2 0d0+10000 30d10+50
+0 10000000
+8 8 1
+S 33554751
+D 20
+A 12
+#4537
+caretaker boathouse~
+{BO,CY}The Boathouse Caretaker{bo}~
+{BO,CY}Crazed from isolation, this man attacks anything that moves.{bo}
+~
+Being isolated throughout his life has caused this man to go slightly insane.
+He hates everyone and attacks you without discrimination.
+~
+327155814 1075577514 0 S
+50 -80 -10 0d0+10000 20d20+80
+2500000 15000000
+8 8 1
+S 264324
+D 20
+A 12
+#4538
+demon k'est lufia~
+{RE}K'est Lufia{re}~
+{RE}The image of the evil demon, K'est Lufia, sends fear to your heart.{re}
+~
+{RE}This demon is one of the deadliest things you have ever seen.  His
+mere image sends chills down your spine and causes you to shake.
+You begin to doubt yourself and wonder if you should have not taken
+on this challenge.{re}
+~
+1262534759 1376029354 -1000 C 61
+55 -100 -10 0d0+75000 50d20+50
+1 50000000
+8 8 0
+S 46953407
+R 8388608
+D 20
+A 12
+#4539
+guard unholy~
+{BO,BLA}UnHoly Cathedral Guard{bo}~
+{BO,RE}Followers of the high priests of this Cathedral bar your entrance.{bo}
+~
+{BO,RE}Filled with a fanatical devotion to the priests, these guards are here to
+make sure nobody messes up their UnHoly rituals.  I guess you'll have to make
+them step aside.{bo}
+~
+1090519138 1107559338 -1000 C 42
+50 -80 5 0d0+20000 30d20+80
+100000 1000
+8 8 1
+S 263044
+R 12
+D 20
+A 12
+#4540
+duck little~
+{BO,YEL}A little yellow duck{ye}~
+{BO,YEL}A little yellow ducks swims happily in the lake.{bo}
+~
+Swimming happily, this little duck seems to have no cares in the world.
+~
+293601377 1109689002 0 C 3
+50 -170 -7 0d0+8000 40d5+50
+50000 2000000
+8 8 1
+S 2147483648
+R 265
+D 20
+A 12
+#4541
+fish multi colored multicolored~
+{BO,CYA}A mul{MAG}ticol{YEL}ored {RE}fish{re}~
+{BO,CYA}A mul{MAG}ticol{YEL}ored {RE}fish{re} swims around in the water.
+~
+Darting around, this fish is hard to see, but it's so beautiful to look at.
+~
+562298977 1344537258 0 C 4
+50 10 -7 0d0+8000 20d25+65
+50000 2000000
+8 8 1
+R 2
+D 20
+A 12
+#4542
+grass weed~
+{GR}Grass and weeds{gr}~
+{GR}The tall grass and weeds swing in the breeze.{gr}
+~
+It looks like nobody!
+~
+427819104 1075577768 0 C 4
+50 -70 -7 0d0+5000 40d5+50
+0 2000000
+8 8 0
+S 68415
+D 20
+A 12
+#4543
+skeleton~
+{BO,WH}Skeleton{wh}~
+{BO,WH}The skeletons of dead soldiers move towards you.{wh}
+~
+Bleached white bones being held together by mystical forces.  These
+creatures appear to be rather weak.
+~
+402653280 1074006954 0 S
+40 10 -7 0d0+2000 20d8+50
+150000 5000000
+8 8 0
+D 20
+A 12
+#4544
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#4545
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#4546
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#4547
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#4548
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#4549
+Essence of Thress~
+The {RED}Essence{red} of {BLUE}T{blue}h{BLUE}r{blue}e{BLUE}s{blue}s~
+The damned soul of Thress haunts here....
+~
+
+ This being is made of shadow, a dark substance
+ that seems in painful turmoil. Voices come from
+ within, along with words of the past, horror and
+ death. Almost weeping you stand tall, and prepare
+ for combat. Soon you shall grant peace to this
+ tortured ghost...again.
+
+~
+1237319782 1075053226 -1000 C 4
+52 -180 -17 1d1+24999 30d30+300
+5000000 55000000
+8 8 1
+S 131968
+R 12
+D 20
+A 12
+$~

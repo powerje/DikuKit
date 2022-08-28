@@ -1,0 +1,1764 @@
+#34000
+{BO,BLACK}A{bo,B}t {BO}t{bo,B}h{BO}e {bo,B}P{BO}e{bo,B}a{BO}k {bo,B}o{BO}f {bo,B}Y{BO}o{bo,B}u{BO}r {bo,B}J{BO}o{bo,B}u{BO}r{bo,B}n{BO}e{bo,B}y{bo}~
+
+   {C}In the distance you can see an ancient
+   castle, dark clouds looming atop it.
+   The sound of a thousand soldiers emanates
+   from the inner depths of the keep.
+   Approaching closer, you can see just
+   how large and dominant this castle looks.
+
+   {BO}The size is astounding while the
+   continuous chattering seems to
+   last forever. Perhaps you should
+   take a look around, and perhaps
+   you'll find something of use.{bo}
+
+~
+340 8196 2
+D0
+~
+~
+0 -1 13988
+D1
+~
+~
+0 -1 34001
+Z-1
+C-1
+S
+#34001
+{bo,WHITE}A Winding, Narrow Path{bo}~
+
+  {bo,CYAN}These twisting winding paths leave
+  you wanting to find what lies ahead
+  at each bend in the road.
+  {BO}The castle approaches nearer and nearer
+  as you walk down your path to destiny.{bo}
+
+~
+340 0 2
+D0
+~
+~
+0 -1 34002
+D3
+~
+~
+0 -1 34000
+Z-1
+C-1
+S
+#34002
+{bo,W}A Winding, Narrow Path{bo}~
+
+  {bo,YELLOW}A cool breeze blows swiftly across
+  the path, blowing bits of dust and dirt
+  in your general direction.
+
+  {BO}Leaves blow and scatter all around you.
+  The winding path continues east, while
+  south leads back to where you came from.{bo}
+
+~
+340 0 2
+D1
+~
+~
+0 -1 34003
+D2
+~
+~
+0 -1 34001
+Z-1
+C-1
+S
+#34003
+{bo,WHITE}A Winding, Narrow Path{bo}~
+
+  {bo,MAGENTA}A river flows freely further along
+  this winding path. A bridge allows
+  access to the other side.
+
+  {BO}You see a small creature lurking below
+  the bridge... a river-dweller, perhaps?{bo}
+
+~
+340 0 2
+D0
+~
+~
+0 -1 34004
+D3
+~
+~
+0 -1 34002
+Z-1
+C-1
+S
+#34004
+{bo,WHITE}The End of the Winding Path{bo}~
+
+  {BO,WHITE}Finally, you've reached the end
+  of the path. Ahead is an eerie
+  bridge with a creature apparently
+  living underneath it.
+
+  Further ahead is the castle, where
+  many surprises and treasures
+  await you.{bo}
+
+~
+340 0 2
+D1
+~
+~
+0 -1 34005
+D2
+~
+~
+0 -1 34003
+Z-1
+C-1
+S
+#34005
+{bo,CYAN}Before the Bridge{bo}~
+
+   {M}As you approach the bridge, the
+   creature underneath stirs quietly.
+   It seems to be watching you, and
+   as you are getting closer its
+   features become more distinct.
+
+   {BO}You are becoming very curious...
+   What could this creature be?{bo}
+
+~
+340 0 1
+D1
+~
+~
+0 -1 34006
+D3
+~
+~
+0 -1 34004
+Z-1
+C-1
+S
+#34006
+{bo,CYAN}Crossing the Bridge{bo}~
+
+   {BO,WHITE}The small creature's eyes peek out
+   at you through the cracks in the
+   boards making up the bridge.
+
+   The creature looks small, yet quite
+   healthy and strong. You can faintly
+   make out a grin coming from the
+   creature underneath the bridge.{bo}
+
+~
+340 0 1
+D1
+~
+~
+0 -1 34007
+D3
+~
+~
+0 -1 34005
+Z-1
+C-1
+S
+#34007
+{bo,CYAN}Beyond the Bridge{bo}~
+
+   {bo,MAGENTA}The river is flowing almost silently
+   below you, and the creature underneath
+   the bridge stirs only slightly.
+
+   {BO}Down from here a small hill leads down
+   toward the river, while to the east you
+   can make your way towards the Town of
+   Darwin.{bo}
+
+~
+340 0 1
+D1
+~
+~
+0 -1 34010
+D3
+~
+~
+0 -1 34006
+D5
+~
+~
+0 -1 34008
+Z-1
+C-1
+S
+#34008
+{BO,WHITE}A Steep Hill{bo}~
+
+   {bo,CYAN}A small yet steep hill is leading
+   down towards the river, where you
+   see a shadowy figure slumped beneath
+   the bridge. It seems friendly enough...
+   and there's a good chance it's familiar
+   with the territory. Why don't you go
+   talk to it?{bo}
+
+~
+340 8196 4
+D3
+~
+~
+0 -1 34009
+D4
+~
+~
+0 -1 34007
+Z-1
+C-1
+S
+#34009
+{BO,CYAN}Beneath the Bridge{bo}~
+
+   {bo,MAGENTA}A small creature stands here,
+   looking as if it wants to try
+   and help you on your journey.
+
+   {BO}The river flows north and south
+   of you... the current looks and
+   sounds strong.{bo}
+
+~
+340 4 6
+D0
+~
+~
+0 -1 34049
+D1
+~
+~
+0 -1 34008
+D2
+~
+~
+0 -1 34058
+D5
+Brush and rich soil lay at your feet.{bo}
+~
+hole~
+7 34599 34500
+Z-1
+C-1
+S
+#34010
+{CYAN}E{BO}n{bo,C}t{BO}r{bo,C}a{BO}n{bo,C}c{BO}e {bo,WHITE}to the {bo,C}T{BO}o{bo,C}w{BO}n {bo,C}o{BO}f {bo,MAGENTA}D{BO}a{bo,M}r{BO}w{bo,M}i{BO}n{bo}~
+
+   {BO,WHITE}You are now just outside of a quiet
+   suburban town. Darwin castle lies ahead
+   shadowed by its long forgotten history
+   of horrific war and bloodshed...{bo}
+
+~
+340 4 1
+D1
+~
+~
+0 -1 34011
+D3
+~
+~
+0 -1 34007
+Z-1
+C-1
+S
+#34011
+{WHITE}On the Main Streets of Darwin{bo}~
+
+   {BO,CYAN}The citizens of this town seem
+   quite content with their quiet
+   existence. The shops seem to be
+   full of unique items to buy at
+   your leisure, while the homes
+   are furnished with everything
+   these people need to live.{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34012
+D1
+~
+~
+0 -1 34014
+D2
+~
+~
+0 -1 34013
+D3
+~
+~
+0 -1 34010
+Z-1
+C-1
+S
+#34012
+{M}A Homey Home{bo}~
+
+   {BO,WHITE}You've entered the residence
+   of some residents of Darwin.
+   Just make sure you don't
+   touch anything.{bo}
+
+~
+340 0 1
+D2
+~
+~
+0 -1 34011
+Z-1
+C-1
+S
+#34013
+{MAGENTA}A Homely Home{bo}~
+
+   {BO,WHITE}You've entered the residence
+   of some residents of Darwin.
+   Just make sure you don't
+   touch anything.{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34011
+Z-1
+C-1
+S
+#34014
+{WHITE}On the Main Streets of Darwin{bo}~
+
+   {BO,CYAN}The citizens of this town seem
+   quite content with their quiet
+   existence. The shops seem to be
+   full of unique items to buy at
+   your leisure, while the homes
+   are furnished with everything
+   these people need to live.{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34015
+D1
+~
+~
+0 -1 34017
+D2
+~
+~
+0 -1 34016
+D3
+~
+~
+0 -1 34011
+Z-1
+C-1
+S
+#34015
+{MAGENTA}A Ship Shape Shop{bo}~
+
+   {BO,WHITE}The man at the counter is
+   selling many rare and unique
+   items. You see valuable
+   antiques strewn about the
+   room, you can see this man
+   is a collector of some sort.{bo}
+
+~
+340 0 1
+D2
+~
+~
+0 -1 34014
+Z-1
+C-1
+S
+#34016
+{MAGENTA}A Ship Shape Shop{bo}~
+
+   {BO,WHITE}The man at the counter is
+   selling many rare and unique
+   items. You see valuable
+   antiques strewn about the
+   room, you can see this man
+   is a collector of some sort.{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34014
+Z-1
+C-1
+S
+#34017
+{WHITE}On the Main Streets of Darwin{bo}~
+
+   {BO,CYAN}The citizens of this town seem
+   quite content with their quiet
+   existence. The shops seem to be
+   full of unique items to buy at
+   your leisure, while the homes
+   are furnished with everything
+   these people need to live.{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34018
+D1
+~
+~
+0 -1 34020
+D2
+~
+~
+0 -1 34019
+D3
+~
+~
+0 -1 34014
+Z-1
+C-1
+S
+#34018
+{M}A Homey Home{bo}~
+
+   {BO,WHITE}You've entered the residence
+   of some residents of Darwin.
+   Just make sure you don't
+   touch anything.{bo}
+
+~
+340 0 1
+D2
+~
+~
+0 -1 34017
+Z-1
+C-1
+S
+#34019
+{M}A Homey Home{bo}~
+
+   {BO,WHITE}You've entered the residence
+   of some residents of Darwin.
+   Just make sure you don't
+   touch anything.{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34017
+Z-1
+C-1
+S
+#34020
+{WHITE}On the Main Streets of Darwin{bo}~
+
+   {BO,CYAN}The citizens of this town seem
+   quite content with their quiet
+   existence. The shops seem to be
+   full of unique items to buy at
+   your leisure, while the homes
+   are furnished with everything
+   these people need to live.{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34021
+D1
+~
+~
+0 -1 34024
+D2
+~
+~
+0 -1 34022
+D3
+~
+~
+0 -1 34017
+Z-1
+C-1
+S
+#34021
+{BO,MAGENTA}A Super Shabby Shop{bo}~
+
+   {BO,WHITE}This is a shop in the less
+   wealthy area of town. This
+   is merely because this shop
+   was closer to the Castle of
+   Darwin during the many
+   historical battles that took
+   place. It has taken much
+   longer for this area of
+   town to recover from the
+   wreckage.{bo}
+
+~
+340 0 1
+D2
+~
+~
+0 -1 34020
+Z-1
+C-1
+S
+#34022
+{BO,MAGENTA}A Super Shabby Shop{bo}~
+
+   {BO,WHITE}This is a shop in the less
+   wealthy area of town. This
+   is merely because this shop
+   was closer to the Castle of
+   Darwin during the many
+   historical battles that took
+   place. It has taken much
+   longer for this area of
+   town to recover from the
+   wreckage.{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34020
+Z-1
+C-1
+S
+#34023
+{WHITE}Outside the Town of Darwin{bo}~
+
+   {CYAN}Not too far ahead of you
+   lies Darwin's Keep...
+   what treasures and perils
+   await you there? Perhaps
+   you don't want to find out.{bo}
+
+~
+340 4 1
+D1
+~
+~
+0 -1 34027
+D3
+~
+~
+0 -1 34024
+Z-1
+C-1
+S
+#34024
+{WHITE}On the Main Streets of Darwin{bo}~
+
+   {BO,CYAN}The citizens of this town seem
+   quite content with their quiet
+   existence. The shops seem to be
+   full of unique items to buy at
+   your leisure, while the homes
+   are furnished with everything
+   these people need to live.{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34025
+D1
+~
+~
+0 -1 34023
+D2
+~
+~
+0 -1 34026
+D3
+~
+~
+0 -1 34020
+Z-1
+C-1
+S
+#34025
+{M}A Homey Home{bo}~
+
+   {BO,WHITE}You've entered the residence
+   of some residents of Darwin.
+   Just make sure you don't
+   touch anything.{bo}
+
+~
+340 0 1
+D2
+~
+~
+0 -1 34024
+Z-1
+C-1
+S
+#34026
+{M}A Homey Home{bo}~
+
+   {BO,WHITE}You've entered the residence
+   of some residents of Darwin.
+   Just make sure you don't
+   touch anything.{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34024
+Z-1
+C-1
+S
+#34027
+{BO,BLU}A{C}r{BLU}o{C}u{BLU}n{C}d {BLU}t{C}h{BLU}e {C}M{BLU}o{C}a{BLU}t{bo}~
+
+   {WHITE}Water flows around the outside
+   of Darwin's Keep, protecting
+   the castle from intruders who
+   are in the vicinity. You can
+   see the green, scaly skin of
+   alligators swimming around
+   beneath the water. What do
+   you suppose is for dinner?{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34028
+D1
+~
+~
+0 -1 34037
+D2
+~
+~
+0 -1 34031
+D3
+~
+~
+0 -1 34023
+Z-1
+C-1
+S
+#34028
+{BO,BLU}A{C}r{BLU}o{C}u{BLU}n{C}d {BLU}t{C}h{BLU}e {C}M{BLU}o{C}a{BLU}t{bo}~
+
+   {WHITE}Water flows around the outside
+   of Darwin's Keep, protecting
+   the castle from intruders who
+   are in the vicinity. You can
+   see the green, scaly skin of
+   alligators swimming around
+   beneath the water. What do
+   you suppose is for dinner?{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34029
+D1
+~
+~
+0 -1 34038
+D2
+~
+~
+0 -1 34027
+Z-1
+C-1
+S
+#34029
+{BO,BLU}A{C}r{BLU}o{C}u{BLU}n{C}d {BLU}t{C}h{BLU}e {C}M{BLU}o{C}a{BLU}t{bo}~
+
+   {WHITE}Water flows around the outside
+   of Darwin's Keep, protecting
+   the castle from intruders who
+   are in the vicinity. You can
+   see the green, scaly skin of
+   alligators swimming around
+   beneath the water. What do
+   you suppose is for dinner?{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34030
+D1
+~
+~
+0 -1 34039
+D2
+~
+~
+0 -1 34028
+Z-1
+C-1
+S
+#34030
+{BO,BLU}A{C}r{BLU}o{C}u{BLU}n{C}d {BLU}t{C}h{BLU}e {C}M{BLU}o{C}a{BLU}t{bo}~
+
+   {WHITE}Water flows around the outside
+   of Darwin's Keep, protecting
+   the castle from intruders who
+   are in the vicinity. You can
+   see the green, scaly skin of
+   alligators swimming around
+   beneath the water. What do
+   you suppose is for dinner?{bo}
+
+~
+340 0 1
+D1
+~
+~
+0 -1 34040
+D2
+~
+~
+0 -1 34029
+Z-1
+C-1
+S
+#34031
+{BO,BLU}A{C}r{BLU}o{C}u{BLU}n{C}d {BLU}t{C}h{BLU}e {C}M{BLU}o{C}a{BLU}t{bo}~
+
+   {WHITE}Water flows around the outside
+   of Darwin's Keep, protecting
+   the castle from intruders who
+   are in the vicinity. You can
+   see the green, scaly skin of
+   alligators swimming around
+   beneath the water. What do
+   you suppose is for dinner?{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34027
+D1
+~
+~
+0 -1 34036
+D2
+~
+~
+0 -1 34032
+Z-1
+C-1
+S
+#34032
+{BO,BLU}A{C}r{BLU}o{C}u{BLU}n{C}d {BLU}t{C}h{BLU}e {C}M{BLU}o{C}a{BLU}t{bo}~
+
+   {WHITE}Water flows around the outside
+   of Darwin's Keep, protecting
+   the castle from intruders who
+   are in the vicinity. You can
+   see the green, scaly skin of
+   alligators swimming around
+   beneath the water. What do
+   you suppose is for dinner?{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34031
+D1
+~
+~
+0 -1 34035
+D2
+~
+~
+0 -1 34033
+Z-1
+C-1
+S
+#34033
+{BO,BLU}A{C}r{BLU}o{C}u{BLU}n{C}d {BLU}t{C}h{BLU}e {C}M{BLU}o{C}a{BLU}t{bo}~
+
+   {WHITE}Water flows around the outside
+   of Darwin's Keep, protecting
+   the castle from intruders who
+   are in the vicinity. You can
+   see the green, scaly skin of
+   alligators swimming around
+   beneath the water. What do
+   you suppose is for dinner?{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34032
+D1
+~
+~
+0 -1 34034
+Z-1
+C-1
+S
+#34034
+{BO,BLU}A{C}r{BLU}o{C}u{BLU}n{C}d {BLU}t{C}h{BLU}e {C}M{BLU}o{C}a{BLU}t{bo}~
+
+   {WHITE}Water flows around the outside
+   of Darwin's Keep, protecting
+   the castle from intruders who
+   are in the vicinity. You can
+   see the green, scaly skin of
+   alligators swimming around
+   beneath the water. What do
+   you suppose is for dinner?{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34035
+D1
+~
+~
+0 -1 34047
+D3
+~
+~
+0 -1 34033
+Z-1
+C-1
+S
+#34035
+{BO,BLU}A{C}r{BLU}o{C}u{BLU}n{C}d {BLU}t{C}h{BLU}e {C}M{BLU}o{C}a{BLU}t{bo}~
+
+   {WHITE}Water flows around the outside
+   of Darwin's Keep, protecting
+   the castle from intruders who
+   are in the vicinity. You can
+   see the green, scaly skin of
+   alligators swimming around
+   beneath the water. What do
+   you suppose is for dinner?{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34036
+D1
+~
+~
+0 -1 34046
+D2
+~
+~
+0 -1 34034
+D3
+~
+~
+0 -1 34032
+Z-1
+C-1
+S
+#34036
+{BO,BLU}A{C}r{BLU}o{C}u{BLU}n{C}d {BLU}t{C}h{BLU}e {C}M{BLU}o{C}a{BLU}t{bo}~
+
+   {WHITE}Water flows around the outside
+   of Darwin's Keep, protecting
+   the castle from intruders who
+   are in the vicinity. You can
+   see the green, scaly skin of
+   alligators swimming around
+   beneath the water. What do
+   you suppose is for dinner?{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34037
+D1
+~
+~
+0 -1 34045
+D2
+~
+~
+0 -1 34035
+D3
+~
+~
+0 -1 34031
+Z-1
+C-1
+S
+#34037
+{BO,BLU}A{C}r{BLU}o{C}u{BLU}n{C}d {BLU}t{C}h{BLU}e {C}M{BLU}o{C}a{BLU}t{bo}~
+
+   {WHITE}Water flows around the outside
+   of Darwin's Keep, protecting
+   the castle from intruders who
+   are in the vicinity. You can
+   see the green, scaly skin of
+   alligators swimming around
+   beneath the water. What do
+   you suppose is for dinner?{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34038
+D1
+~
+~
+0 -1 34044
+D2
+~
+~
+0 -1 34036
+D3
+~
+~
+0 -1 34027
+Z-1
+C-1
+S
+#34038
+{BO,BLU}A{C}r{BLU}o{C}u{BLU}n{C}d {BLU}t{C}h{BLU}e {C}M{BLU}o{C}a{BLU}t{bo}~
+
+   {WHITE}Water flows around the outside
+   of Darwin's Keep, protecting
+   the castle from intruders who
+   are in the vicinity. You can
+   see the green, scaly skin of
+   alligators swimming around
+   beneath the water. What do
+   you suppose is for dinner?{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34039
+D1
+~
+~
+0 -1 34043
+D2
+~
+~
+0 -1 34037
+D3
+~
+~
+0 -1 34028
+Z-1
+C-1
+S
+#34039
+{BO,BLU}A{C}r{BLU}o{C}u{BLU}n{C}d {BLU}t{C}h{BLU}e {C}M{BLU}o{C}a{BLU}t{bo}~
+
+   {WHITE}Water flows around the outside
+   of Darwin's Keep, protecting
+   the castle from intruders who
+   are in the vicinity. You can
+   see the green, scaly skin of
+   alligators swimming around
+   beneath the water. What do
+   you suppose is for dinner?{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34040
+D1
+~
+~
+0 -1 34042
+D2
+~
+~
+0 -1 34038
+D3
+~
+~
+0 -1 34029
+Z-1
+C-1
+S
+#34040
+{BO,BLU}A{C}r{BLU}o{C}u{BLU}n{C}d {BLU}t{C}h{BLU}e {C}M{BLU}o{C}a{BLU}t{bo}~
+
+   {WHITE}Water flows around the outside
+   of Darwin's Keep, protecting
+   the castle from intruders who
+   are in the vicinity. You can
+   see the green, scaly skin of
+   alligators swimming around
+   beneath the water. What do
+   you suppose is for dinner?{bo}
+
+~
+340 0 1
+D1
+~
+~
+0 -1 34041
+D2
+~
+~
+0 -1 34039
+D3
+~
+~
+0 -1 34030
+Z-1
+C-1
+S
+#34041
+{BO,BLU}A{C}r{BLU}o{C}u{BLU}n{C}d {BLU}t{C}h{BLU}e {C}M{BLU}o{C}a{BLU}t{bo}~
+
+   {WHITE}Water flows around the outside
+   of Darwin's Keep, protecting
+   the castle from intruders who
+   are in the vicinity. You can
+   see the green, scaly skin of
+   alligators swimming around
+   beneath the water. What do
+   you suppose is for dinner?{bo}
+
+~
+340 0 1
+D2
+~
+~
+0 -1 34042
+D3
+~
+~
+0 -1 34040
+Z-1
+C-1
+S
+#34042
+{BO,BLU}A{C}r{BLU}o{C}u{BLU}n{C}d {BLU}t{C}h{BLU}e {C}M{BLU}o{C}a{BLU}t{bo}~
+
+   {WHITE}Water flows around the outside
+   of Darwin's Keep, protecting
+   the castle from intruders who
+   are in the vicinity. You can
+   see the green, scaly skin of
+   alligators swimming around
+   beneath the water. What do
+   you suppose is for dinner?{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34041
+D2
+~
+~
+0 -1 34043
+D3
+~
+~
+0 -1 34039
+Z-1
+C-1
+S
+#34043
+{BO,BLU}A{C}r{BLU}o{C}u{BLU}n{C}d {BLU}t{C}h{BLU}e {C}M{BLU}o{C}a{BLU}t{bo}~
+
+   {WHITE}Water flows around the outside
+   of Darwin's Keep, protecting
+   the castle from intruders who
+   are in the vicinity. You can
+   see the green, scaly skin of
+   alligators swimming around
+   beneath the water. What do
+   you suppose is for dinner?{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34042
+D2
+~
+~
+0 -1 34044
+D3
+~
+~
+0 -1 34038
+Z-1
+C-1
+S
+#34044
+{BO,BLU}A{C}r{BLU}o{C}u{BLU}n{C}d {BLU}t{C}h{BLU}e {C}M{BLU}o{C}a{BLU}t{bo}~
+
+   {WHITE}Water flows around the outside
+   of Darwin's Keep, protecting
+   the castle from intruders who
+   are in the vicinity. You can
+   see the green, scaly skin of
+   alligators swimming around
+   beneath the water. What do
+   you suppose is for dinner?{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34043
+D1
+~
+~
+0 -1 34048
+D2
+~
+~
+0 -1 34045
+D3
+~
+~
+0 -1 34037
+Z-1
+C-1
+S
+#34045
+{BO,BLU}A{C}r{BLU}o{C}u{BLU}n{C}d {BLU}t{C}h{BLU}e {C}M{BLU}o{C}a{BLU}t{bo}~
+
+   {WHITE}Water flows around the outside
+   of Darwin's Keep, protecting
+   the castle from intruders who
+   are in the vicinity. You can
+   see the green, scaly skin of
+   alligators swimming around
+   beneath the water. What do
+   you suppose is for dinner?{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34044
+D2
+~
+~
+0 -1 34046
+D3
+~
+~
+0 -1 34036
+Z-1
+C-1
+S
+#34046
+{BO,BLU}A{C}r{BLU}o{C}u{BLU}n{C}d {BLU}t{C}h{BLU}e {C}M{BLU}o{C}a{BLU}t{bo}~
+
+   {WHITE}Water flows around the outside
+   of Darwin's Keep, protecting
+   the castle from intruders who
+   are in the vicinity. You can
+   see the green, scaly skin of
+   alligators swimming around
+   beneath the water. What do
+   you suppose is for dinner?{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34045
+D2
+~
+~
+0 -1 34047
+D3
+~
+~
+0 -1 34035
+Z-1
+C-1
+S
+#34047
+{BO,BLU}A{C}r{BLU}o{C}u{BLU}n{C}d {BLU}t{C}h{BLU}e {C}M{BLU}o{C}a{BLU}t{bo}~
+
+   {WHITE}Water flows around the outside
+   of Darwin's Keep, protecting
+   the castle from intruders who
+   are in the vicinity. You can
+   see the green, scaly skin of
+   alligators swimming around
+   beneath the water. What do
+   you suppose is for dinner?{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34046
+D3
+~
+~
+0 -1 34034
+Z-1
+C-1
+S
+#34048
+{BO,WHITE}The Drawbridge{bo}~
+
+   {CYAN}Just in front of you stands a
+   large, dominant (and somewhat
+   frightening) castle. A carefully
+   constructed drawbridge slowly
+   lowers for you to enter inside
+   the castle. Better make sure
+   your skills are advanced enough
+   beyond this point -- otherwise
+   they may just not let you enter.{bo}
+
+~
+340 4 1
+D1
+~
+portcullis~
+1 -1 34532
+D3
+~
+~
+0 -1 34044
+Z-1
+C-1
+S
+#34049
+{BLU}S{BO}e{bo,BLU}r{BO}i{bo,BLU}n {BO,C}R{bo,C}i{BO}v{bo,C}e{BO}r{bo}~
+
+   {W}The river is calm and peaceful.
+   Many harmless creatures wander
+   about, unaware of your presence.
+   The endless current continues
+   north and south.{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34050
+D2
+~
+~
+0 -1 34009
+Z-1
+C-1
+S
+#34050
+{BLU}S{BO}e{bo,BLU}r{BO}i{bo,BLU}n {BO,C}R{bo,C}i{BO}v{bo,C}e{BO}r{bo}~
+
+   {W}You have reached a fork in the
+   river. Two currents lead both
+   east and west. The river is
+   calm, and you can swim back
+   south if need be.{bo}
+
+~
+340 0 1
+D1
+~
+~
+0 -1 34052
+D2
+~
+~
+0 -1 34049
+D3
+~
+~
+0 -1 34051
+Z-1
+C-1
+S
+#34051
+{BLU}S{BO}e{bo,BLU}r{BO}i{bo,BLU}n {BO,C}R{bo,C}i{BO}v{bo,C}e{BO}r{bo}~
+
+   {W}As the water here gets deeper,
+   the strength of the current
+   seems to remain pretty much
+   the same. The river continues
+   to flow to the north, but you
+   can easily make your way back
+   to the east.{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34054
+D1
+~
+~
+0 -1 34050
+Z-1
+C-1
+S
+#34052
+{BLU}S{BO}e{bo,BLU}r{BO}i{bo,BLU}n {BO,C}R{bo,C}i{BO}v{bo,C}e{BO}r{bo}~
+
+   {bo,W}The river flows in a circular
+   motion through the outskirts
+   of the city. Though the current
+   is traversable, the waters are
+   fairly unpredictable and it is
+   very hard to realize where they
+   are taking you.{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34053
+D3
+~
+~
+0 -1 34050
+Z-1
+C-1
+S
+#34053
+{BLU}S{BO}e{bo,BLU}r{BO}i{bo,BLU}n {BO,C}R{bo,C}i{BO}v{bo,C}e{BO}r{bo}~
+
+   {W}The river flows
+   Like petals of a rose
+   On a rainy autumn day
+
+   As does the rain
+   Its moisture sustains
+   And quickly fades away.{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34056
+D2
+~
+~
+0 -1 34052
+Z-1
+C-1
+S
+#34054
+{BLU}S{BO}e{bo,BLU}r{BO}i{bo,BLU}n {BO,C}R{bo,C}i{BO}v{bo,C}e{BO}r{bo}~
+
+   {W}The river flows northward,
+   however you can swim back
+   south if you need to. The
+   fish swim to and fro and
+   disappear behind rocks
+   and coral whenever they
+   see you pass by.
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34055
+D2
+~
+~
+0 -1 34051
+Z-1
+C-1
+S
+#34055
+{BLU}S{BO}e{bo,BLU}r{BO}i{bo,BLU}n {BO,C}R{bo,C}i{BO}v{bo,C}e{BO}r{bo}~
+
+   {W}As you near the river's end,
+   you listen to the soft, gentle
+   sound of the current washing
+   up on the shore. To the east
+   the river flows, to the south
+   the river returns.{bo}
+
+~
+340 0 1
+D1
+~
+~
+0 -1 34057
+D2
+~
+~
+0 -1 34054
+Z-1
+C-1
+S
+#34056
+{BLU}S{BO}e{bo,BLU}r{BO}i{bo,BLU}n {BO,C}R{bo,C}i{BO}v{bo,C}e{BO}r{bo}~
+
+   {W}The river flows west and south,
+   allowing you to trek in either
+   direction. Although the water
+   is deep, it remains calm as
+   the beating of an angel's wings
+   and is quite easy to traverse.{bo}
+
+~
+340 0 1
+D2
+~
+~
+0 -1 34053
+D3
+~
+~
+0 -1 34057
+Z-1
+C-1
+S
+#34057
+{BLU}S{BO}e{bo,BLU}r{BO}i{bo,BLU}n {BO,C}R{bo,C}i{BO}v{bo,C}e{BO}r{bo}~
+
+   {W}You've reached a split current,
+   where the river flows east but
+   at the same time forms another
+   current flowing west. The water
+   seems as if it's alive, you feel
+   such freedom as to where you
+   can go. The river flows freely
+   to the east and the west.{bo}
+
+~
+340 0 1
+D1
+~
+~
+0 -1 34056
+D3
+~
+~
+0 -1 34055
+Z-1
+C-1
+S
+#34058
+{BLU}S{BO}e{bo,BLU}r{BO}i{bo,BLU}n {BO,C}R{bo,C}i{BO}v{bo,C}e{BO}r{bo}~
+
+   {W}The river flows in all
+   directions, moving as
+   fast as you can swim.
+   It swiftly drags you to
+   your next destination,
+   wherever it may be.{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34009
+D1
+~
+~
+0 -1 34066
+D2
+~
+~
+0 -1 34059
+D3
+~
+~
+0 -1 34065
+Z-1
+C-1
+S
+#34059
+{BLU}S{BO}e{bo,BLU}r{BO}i{bo,BLU}n {BO,C}R{bo,C}i{BO}v{bo,C}e{BO}r{bo}~
+
+   {W}You've now entered a small
+   cross-current in the center
+   of Serin River. The water is
+   flowing in all directions,
+   making it easily traversable
+   no matter where you're off
+   to next.{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34058
+D1
+~
+~
+0 -1 34060
+D3
+~
+~
+0 -1 34064
+Z-1
+C-1
+S
+#34060
+{BLU}S{BO}e{bo,BLU}r{BO}i{bo,BLU}n {BO,C}R{bo,C}i{BO}v{bo,C}e{BO}r{bo}~
+
+   {W}As the river flows in a
+   continuous circuit, the
+   creatures above and below
+   notice your presence. Do
+   you think the landscape
+   will always be this rich
+   in wildlife?{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34066
+D2
+~
+~
+0 -1 34061
+D3
+~
+~
+0 -1 34059
+Z-1
+C-1
+S
+#34061
+{BLU}S{BO}e{bo,BLU}r{BO}i{bo,BLU}n {BO,C}R{bo,C}i{BO}v{bo,C}e{BO}r{bo}~
+
+   {W}The river is flowing endlessly
+   to the north and to the west.
+   You are coming around a bend in
+   the current, with nothing to see
+   but fresh water moving with a
+   soothing ease.{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34060
+D3
+~
+~
+0 -1 34062
+Z-1
+C-1
+S
+#34062
+{BLU}S{BO}e{bo,BLU}r{BO}i{bo,BLU}n {BO,C}R{bo,C}i{BO}v{bo,C}e{BO}r{bo}~
+
+   {W}With the current being too
+   strong to the south and the
+   north being barricaded by
+   countless boulders, the only
+   possible directions you can
+   swim to are the west and the
+   east. The water that you are
+   wading in is as calm as ever.{bo}
+
+~
+340 0 1
+D1
+~
+~
+0 -1 34061
+D3
+~
+~
+0 -1 34063
+Z-1
+C-1
+S
+#34063
+{BLU}S{BO}e{bo,BLU}r{BO}i{bo,BLU}n {BO,C}R{bo,C}i{BO}v{bo,C}e{BO}r{bo}~
+
+   {W}The river is flowing endlessly
+   to the north and to the east.
+   You are coming around a bend in
+   the current, with nothing to see
+   but fresh water moving with a
+   soothing ease.{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34064
+D1
+~
+~
+0 -1 34062
+Z-1
+C-1
+S
+#34064
+{BLU}S{BO}e{bo,BLU}r{BO}i{bo,BLU}n {BO,C}R{bo,C}i{BO}v{bo,C}e{BO}r{bo}~
+
+   {W}Serin River continues to
+   flow northward as you swim
+   against the current. It is
+   getting very strong, but you
+   sense no immediate danger.{bo}
+
+~
+340 0 1
+D0
+~
+~
+0 -1 34065
+D1
+~
+~
+0 -1 34059
+D2
+~
+~
+0 -1 34063
+Z-1
+C-1
+S
+#34065
+{BLU}S{BO}e{bo,BLU}r{BO}i{bo,BLU}n {BO,C}R{bo,C}i{BO}v{bo,C}e{BO}r{bo}~
+
+   {W}Nothing here is new
+   to what was once known.
+   The water flows in its
+   gentle rhythm, scarce
+   in the gentle breeze
+   that controls the wind.
+
+~
+340 0 1
+D1
+~
+~
+0 -1 34058
+D2
+~
+~
+0 -1 34064
+Z-1
+C-1
+S
+#34066
+{BLU}S{BO}e{bo,BLU}r{BO}i{bo,BLU}n {BO,C}R{bo,C}i{BO}v{bo,C}e{BO}r{bo}~
+
+   {W}To the south the river
+   completes its circuit,
+   flowing back around to
+   where it started. To the
+   west the river follows
+   the direction of the wind
+   and takes you to places
+   not known.{bo}
+
+~
+340 0 1
+D2
+~
+~
+0 -1 34060
+D3
+~
+~
+0 -1 34058
+Z-1
+C-1
+S
+#34099
+{BO,W}King's Descent{bo}~
+
+   {C}This room was meant to remind the
+   world of the great meeting when the
+   King of Mediva would descend upon
+   the throne as the leader of the
+   Alliance against the monsters in
+   the battle of the underground.
+
+   {BO}Instead, it now stands as the
+   king's memorial grounds, as the
+   king instead descended into
+   darkness at the hands of the
+   Dark Knight.{bo}
+
+~
+340 0 1
+Z-1
+C-1
+S
+$~

@@ -1,0 +1,772 @@
+#49500
+bowl fish~
+{CY,BO}A Fish Bowl{cy,bo}~
+{CY,BO}A Fish Bowl...just add fish.{cy,bo}~
+~
+15 0 0 16385
+100 0 0 0
+2 5000 1
+E
+bowl fish~
+{CY,BO}
+                     _______________
+                    (_______________)                   
+                    /               \
+                   |             {R}|>>{CY,BO} |
+                   |   {GR}} {      {Y}H{CY,BO}    | 
+                   |  {GR}}{ }     {Y}|_|{CY,BO}   |
+                   \  {GR}{}{     {Y}|   |{CY,BO}  /
+                    \{BLU}ooooooooooooooo{CY,BO}/ 
+{cy,bo} 
+~
+A
+12 10
+B
+2147483648
+#49501
+goldfish fishy~
+{Y,BO}A Gold Fish{y,bo}~
+{Y,BO}A Gold Fish does his little FISHY dance.{y,bo}~
+~
+12 0 0 1
+0 0 0 0
+1 100 1
+E
+goldfish fishy~
+{Y,BO}                     
+                           GGG 
+             GGG              GGGGG
+               GGG       GGGGGGGGGGGGGGG
+                GGGG   GGGGGGGGGGGGGGGGGGG
+                  GGGGGGGGGGGgGGGGGGGG{R}g{Y,BO}GGGG
+                  GGGGGGGGGGGGggGGGGGGGGGGGg
+                  GGGGGGGGGGGGgggGGGGGGGGGG
+                GGGG   GGGGGGGggGGGGGGGGGG
+               GGG        GGGGGGGGGGGGGGG
+             GGG              GGGGG
+                             GGG
+{y,bo}
+~
+#49502
+starfish star fish~
+{Y,BO}A starfish{y,bo}~
+{Y,BO}A big starfish clings to a rock here.{y,bo}~
+~
+12 0 0 0
+0 0 0 0
+1 1 1
+E
+starfish star fish~
+{Y,BO}
+  This large starfish clings to a large rock along
+  the shore.  It doesn't look like it's going any-
+  where any time soon.
+{y,bo}
+~
+#49503
+Seashell shell~
+{WH,BO}A Seashell{wh,bo}~
+{WH,BO}A shell peeks from beneath the sand.{wh,bo}~
+~
+12 0 0 1
+0 0 0 0
+1 1 1
+E
+Seashell shell~
+{W,BO}   
+            ___
+        .-"; ! ;"-.
+      .'!  : | :  !`.
+     /\  ! : ! : !  /\
+    /\ |  ! :|: !  | /\
+   (  \ \ ; :!: ; / /  )
+  ( `. \ | !:|:! | / .' )
+  (`. \ \ \!:|:!/ / / .')
+   \ `.`.\ |!|! |/,'.' /
+    `._`.\\\!!!// .'_.'
+       `.`.\\|//.'.'
+        |`._`n'_.'|  
+        "----^----"
+{wh,bo}
+~
+#49504
+Shell snail~
+{Y}A snail shell{y}~
+{Y}An empty snail shell awaits a hermit crab.{y}~
+~
+12 0 0 1
+0 0 0 0
+1 4 1
+E
+Shell snail~
+
+{Y}
+                       ,.
+                      /-|
+                     (--;
+                    (,-';
+                  _/_.-';
+                _/-.__._<
+             .-'`-.__   '\
+           .'`---=___`===':
+          /_..---' ___.--.'
+         |` ___.--' __ {W}.i{Y}|
+         |-' ___.--'_.{W}8:E{Y}|
+         \,-'  __.-/{W}88::E{Y}!
+          `-.,' _.'|{W}88::E{Y}|
+             `;'../{W}88:: E{Y};
+              |.'!{W}88::E"{Y}/
+             /.''!{W}"iiE {Y}/
+             `--'`._.-' 
+{y}
+~
+#49505
+sign~
+nothing~
+{RED,BO}An important sign is standing here.{red}~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+E
+nothing~
+   
+    {YELL,BO}The area leading down is meant for advanced chars only.
+    If you fail to read this sign and die here, you will not
+    be reimbursed. Have fun!{yell}
+~
+E
+sign~
+   
+    {YELL,BO}The area leading down is meant for advanced chars only.
+    If you fail to read this sign and die here, you will not
+    be reimbursed. Have fun!{yell}
+~
+M
+10
+#49506
+key door assassin secret~
+A rusted key~
+A rusted key is laying here.~
+~
+18 69632 0 1
+0 0 0 0
+1 1 1
+E
+key door assassin secret~
+   
+   This key appears to be ancient. It is rusted and
+   covered in dirt. 
+~
+L
+10
+#49507
+blade assassin~
+{BLA,BO}The A{R,BO}s{BLA,BO}s{R,BO}a{B,BO}s{R,BO}s{B,BO}i{R,BO}n {BLA,BO}Blade{bla,bo}~
+{BLA,BO}A lethal looking blade has been forgotten here.{bla,bo}~
+~
+5 2181070848 536870912 8193
+2 6 6 11
+1 60000 1
+E
+blade assassin~
+
+   {BLA,BO}this blade is made of steel, yet appears not to be. It
+   looks as if someone carved it out of the shadows. There
+   is very little glimmer coming from the blade. This sword
+   would be good for sneaking up on someone.{bla}
+
+~
+A
+19 5
+A
+18 5
+B
+524288
+C
+7000 2
+#49508
+legs frog bullfrog~
+{WHI}A{whi} {GREE,BO}slimy{gree} {WHI}pair of{whi} {GREE,BO}bullfrog{gree} {WHI}legs{whi}~
+A slimy pair of legs sits on the ground.~
+~
+9 2147483648 0 33
+10 0 0 0
+1 1 1
+E
+legs frog bullfrog~
+
+   {GREE,BO}These legs look as if they have been chopped
+   of of a bullfrog. They are lifeless and cold
+   now. There is bits of meat hanging out the 
+   end of them. The webbed feet are still attached.{gree}
+
+~
+A
+19 4
+A
+18 3
+B
+2147483648
+C
+7000 1
+#49509
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49510
+mug frosty brew~
+{Y}A frosty brew in an ice cold mug{y}~
+{Y}Foam spills over the edge melting the ice around this frosty mug.{y}~
+~
+17 65536 0 1
+20 20 1 0
+3 500 1
+E
+mug frosty brew~
+{Y}    __________________
+  .'--..__________..--'.
+  |                    |
+  |                    |
+  |''.''.''.''.''.''.''|___.'\
+  |  |  |  |  |  |  |  |      \
+  |  |  |  |  |  |  |  |---. ` \
+  |  |  |  |  |  |  |  |    \ ||
+  |  |  |  |  |  |  |  |    | ||
+  |  |  |  |  |  |  |  |    | ||
+  |..|..|..|..|..|..|..|    | ||
+  |--'--'--'--'--'--'--|    | ||
+  |                    |    / //
+  \---/\----/\----/\---/   /  /
+  |   ||    ||    ||   |--'  /
+  /---\/----\/----\/---\___.'
+  |::::::::::::::::::::|
+  |-'|_ _ _ __ _ _ _|'-|
+  '.::::::::::::::::::.'
+   '-.______________.-' {y}
+~
+#49511
+wine bottle~
+{M}A bottle of wine{m}~
+{M}The best wine in the house.{m}~
+~
+17 65536 0 1
+50 50 2 0
+1 1000 1
+E
+wine bottle~
+
+{M}
+        _
+       |-|
+       |w|
+       |:|   
+      .'.'.
+     /   ::\
+     |_____|  May not be anything anyone 
+     |:.:;.|  would collect, but its the 
+     |_____|  best in the house.
+     |   ::|
+     |   ;:|
+     \_____/
+     
+{m}
+~
+#49512
+tea long island icedtea~
+{Y}A Long Island Iced Tea{y}~
+{Y}Mmmmmm... Long Island Iced Tea{y}~
+~
+17 65536 0 1
+15 15 11 0
+1 500 1
+E
+tea long island icedtea~
+{Y,BO}
+                        //
+                       //
+                      //
+                     //
+              _______||
+         ,-'''       ||`-.
+        (            ||   )
+        |`-..._______,..-'|
+        |            ||   |
+        |     _______||   |
+        |,-'''_ _    ||`-.|
+        |    / `-.\ ,-'\  |
+        |`-...___/___,..-'|
+        |    `-./-'_ \/_| |
+        | -'  ==     || -.|
+        (   =     =   == )
+         `-..._______,..-'
+{y,bo}
+~
+#49513
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49514
+ship cruise small~
+{Y}A small ship{y}~
+{Y}A small ship takes tourists on a cuise...{y}~
+~
+27 0 0 0
+18216 0 0 0
+1 1 1
+E
+ship cruise small~
+{Y}
+  This vessel takes tourists on for a true adventue in the
+  deep ocean.  Better make some plans on how to get back
+  before you embark on your journey.
+{y}
+~
+#49515
+ship~
+{W,BO}A large ship{w,bo}~
+{W,BO}A ship readies to sail the great Pacific Ocean.{w,bo}~
+~
+27 0 0 0
+5932 0 0 0
+1 1 1
+E
+ship~
+{W,BO}
+  This barquentine boasts three masts, which are all fore 
+  and aft rigged, except the foremast which is fully- rigged, 
+  including a square forecourse. It sits here awaiting final 
+  orders to set sail for the Pacific Ocean.
+{w,bo}
+  
+~
+#49516
+minnow~
+{BLU}The Minnow{blu}~
+{BLU}The Minnow is floating here.{blu}~
+~
+27 0 0 0
+18110 0 0 0
+1 1 1
+E
+minnow~
+{BLU,BO}
+  {UND}The Minnow{und}
+{BLU,BO}
+  Take a coastal tour of Hawaii!
+  See the sights, hear the sounds, enjoy the water and sun
+  from the deck of the Minnow.
+{BLU}
+  Sail times:
+  10:00am Lunch provided
+  1:30 pm Snack provided
+  5:00 pm Dinner Cruise
+{blu}
+~
+#49517
+dingy~
+{R,BO}A Dingy{r,bo}~
+{R,BO}A dingy brings passangers to the F/V Katahdin.{r,bo}~
+~
+27 0 0 0
+23601 0 0 0
+1 1 1
+E
+dingy~
+{R,BO}
+  An eight foot, fiberglass dingy capable of holding
+  about 6 passengers loads up and drifts off to sea
+  where the F/V Katahdin awaits the rest of it's
+  crew and passenger. Erik, Dr. Roundtree, Nancy, Than
+  Loi, Tom Spivey, Butch, Roger, Nick, Jay the Cook, 
+  Mike Swamp Yankee, Bill Grillo, Dr. Kaminer and you?
+  Well, okay, I didn't see you on the list. Be sure to
+  check in with Captain Terry upon arrival. I'm sure
+  he'll want to see you.
+{r,bo}
+~
+#49518
+ship morgon charles w~
+{C,BO}The Charles W. Morgon{c,bo}~
+{C,BO}The Charles W. Morgon, a great whaling ship, prepares for yet another voyage in the Atlantic Ocean.{c,bo}~
+~
+27 0 0 0
+16005 0 0 0
+1 1 1
+E
+ship morgon charles w~
+{C,BO}
+  Get aboard the Morgon! If whaling is your thing
+  or if you'd like the voyage of a lifetime, the 
+  Charles W. Morgon is your ship. Plenty of fishing,
+  plenty of rest and relaxation, plenty of fun and
+  interesting sealife promise to make your trip complete. 
+{c,bo}
+~
+#49519
+chipper ice eskimo~
+{C,BO}An Eskimo Ice-Chipper{c,bo}~
+{C,BO}An Eskimo Ice-Chipper prepares for the thick ice ahead.{c,bo}~
+~
+27 0 0 0
+16199 0 0 0
+1 1 1
+E
+chipper ice eskimo~
+{C,BO}
+  A large, battle-ship grey ice-chipper prepares for its
+  return to the Arctic. With icebergs and subfreezing 
+  temperatures ahead, it's recommended that passangers
+  bundle up and move to the cabins below where it's much
+  warmer.
+{c,bo}
+~
+#49520
+board surf surfboard~
+{Y,BO}A {R}to{G}ta{M}ll{BLU}y R{Y} {R}ad{G}ic{M}al {BLU}su{Y}rf{R}bo{R}ar{M}d{m,bo}~
+{Y,BO}A {R}to{G}ta{M}ll{BLU}y R{Y} {R}ad{G}ic{M}al {BLU}su{Y}rf{R}bo{R}ar{M}d{m,bo} drifts off to towards the North Shore.~
+~
+27 0 0 0
+8102 0 0 0
+1 1 1
+E
+board surf surfboard~
+{Y,BO}
+  A {R}to{G}ta{M}ll{BLU}y R{Y} {R}ad{G}ic{M}al {BLU}su{Y}rf{R}bo{R}ar{M}d{m,bo} drifts in the water. It calls
+  out to you as it turns and points towards Hawaii's North
+  Shore. What an adventure!
+{g}
+~
+#49521
+ship pirate~
+{BL,BO}A Pirate Ship{bl,bo}~
+{BL,BO}A well-weathered pirate ship gathers its new crew.{bl,bo}~
+~
+27 0 0 0
+5601 0 0 0
+1 1 1
+E
+ship pirate~
+{BL,BO}
+  A grey and weathered ship sits proudly with
+  tall masts bumping the clouds. The sails have
+  been mended and remended. They could probably
+  use replacing. The men on deck sing songs with
+  drunken laughter as they prepare for the coming
+  journey. Where to? Seems they are off to find
+  what treasure awaits them on the Isle of Dredd.
+{bl,bo}
+~
+#49522
+submarine~
+{Y,BO}A Yellow Submarine{y,bo}~
+{Y,BO}A Yellow Submarine bubbles as it submerses.{y,bo}~
+~
+27 0 0 0
+14601 0 0 0
+1 1 1
+E
+submarine~
+{Y,BO}
+  Descending deeper and deeper into the great unknown,
+  this submarine hopes to prove the theory of an 
+  underwater passage from one side of the world to
+  the other. If it submerges here and heads straight 
+  downward, it should resurface in Desperation.
+{y,bo}
+~
+#49523
+board sign~
+nothing~
+{RED,BO}A very important looking sign is posted here.{red}~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+E
+board sign~
+
+   {YELL,BO}The area leading north is meant for advanced people only. 
+   You are warned that if you are a dual that you should
+   not explore those areas.{yell}
+~
+#49524
+sign board~
+nothing~
+{RED,BO}A very important looking sign is posted here.{red}~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+E
+sign board~
+
+   {RED,BO}The area leading down is meant for advanced players
+   only. If you are a dual it is not a good idea to 
+   explore this area. Have fun!{red}
+~
+#49525
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49526
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49527
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49528
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49529
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49530
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49531
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49532
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49533
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49534
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49535
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49536
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49537
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49538
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49539
+press crossroad~
+{R,BO}The Crossroad Press{r,bo}~
+{R}The Crossroad Press has been left here to rot.{r}~
+~
+12 1 0 1
+0 0 0 0
+1 1 1
+E
+it hatched~
+{Y,BO}
+                                 @@@ @@@@@@@
+                                 @@{W}!   {Y}@@{W}!  
+                                 !!{Y}@   @{W}!!  
+                                 !!:   !!:  
+                                  :      :   
+            
+      {Y}@@@  @@@  @@@@@@  @@@@@@@  @@@@@@@ @@@  @@@ @@@@@@@@ @@@@@@@  @@@
+      @@{W}!  {Y}@@@ @@{W}!  {Y}@@@   @@{W}!   !{Y}@@      @@{W}!  {Y}@@@ @@{W}!      {Y}@@{W}!  {Y}@@@ @@@
+      @{W}!{Y}@{W}!{Y}@{W}!{Y}@{W}! {Y}@{W}!{Y}@{W}!{Y}@{W}!{Y}@!   {Y}@{W}!!   !{Y}@{W}!      {Y}@{W}!{Y}@{W}!{Y}@{W}!{Y}@{W}! {Y}@{W}!!!:!   {Y}@{W}!{Y}@  !{Y}@{W}! !{Y}@{W}!
+      !!:  !!! !!:  !!!   !!:   :!!      !!:  !!! !!:      !!:  !!!    
+       :   : :  :   : :    :     :: :: :  :   : : : :: ::: :: :  :  :.:
+{w,bo}
+      
+{C} 
+  The immortal staff of the Northern Crossroads 
+  would like wish those who have hatched this 
+  month a very happy birthday! 
+{Y,BO}
+                         0   0                 
+                         {R}|   |
+                     {W}____{R}|{W}___{R}|{W}____
+                  {Y}0  {W}|{BLU}- - - - - -{W}|   {Y}0         
+                  {R}|  {W}| {Y}SEPTEMBER {W}|   {R}|
+              {W} ___{R}|{W}__|___________|___{R}|{W}__
+               |{BLU}/\/\/\/\/\/\/\/\/\/\/\/{W}|         
+           {Y}0   {W}|       {Y}BIRTHDAYS!      {W}|   {Y}0
+           {R}|   {W}|{BLUE}/\/\/\/\/\/\/\/\/\/\/\/{W}|   {R}|
+          {W}_{R}|{W}___|_______________________|___{R}|{W}_   
+         |{BLU}\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\{W}|
+         |      {Y}Neysa Cruz Ktulu Wildstar    {W}|
+         |       {Y}Grizzly Wilder Gryffon      {W}|
+         |      {Y}Emtech STuDD Roman Yuppie    {W}|  
+         | {BLUE}- - - - - - - - - - - - - - - - - {W}|
+         |___________________________________|
+{R}
+               Happy Birthday to all!
+{bo,C}
+  As always if your birthday is this month and you have are not
+  mentioned, please mudmail Koozl so you may be included in the 
+  festivities. 
+{c} 
+~
+E
+spotlight~
+{Y,BO}
+      SSSSS           OOOOO  tt    LL      iii   GGGG  hh      TTTTTTT 
+     SS      pp pp   OO   OO tt    LL           GG  GG hh        TTT   
+      SSSSS  ppp  pp OO   OO tttt  LL      iii GG      hhhhhh    TTT   
+          SS pppppp  OO   OO tt    LL      iii GG   GG hh   hh   TTT   
+      SSSSS  pp       OOOO0   tttt LLLLLLL iii  GGGGGG hh   hh   TTT   
+             pp                                                        
+{y,bo}{C}
+  Learn more about the zones on NC.
+{Y}
+  So one day I was walking through the 100 Acre Woods. I noticed
+  that the place was pretty empty except for this little boy's 
+  house. So, I knocked on the door and found the little boy,
+  Christopher Robin. He invited me to explore the woods with him.
+  We headed out of his yard and down the path. Soon we found a 
+  stream and a bridge. I fell in the stream and landed somewhere 
+  in the middle of the woods. Christoper was not sure how to get 
+  back so we stopped and asked Eeyore. He was SO gloomy and 
+  suggested we check with Owl. Owl rambled on and on, Christopher 
+  nodded as if he knew what the owl was talking about.  Kangaroos, 
+  rabbits, tiggers, woozles and strange things called Heffalumps 
+  did not make any sense to me. So, I just went along with it. 
+  No one was very cooperative. We had to protect ourselves and kill
+  a few others along the way. Yet, we made it out alive and managed
+  to pick up a few treasures along the way! I found a nice set of 
+  tigger springs, balloons, a cool red shirt and a handmade quilt! 
+  Why did I not see any of you there? Grab a few friends and 
+  drop in on the Robins. I am sure they would love to see you! 
+{G}
+  If this zone is less appealing to you, please let the immortal staff
+  know why and what needs to be done to make it more favorable. 
+{Y}
+  Note: The 100 Acre Woods is intended for advanced level players.
+  The zone was created by Koozl and inspired by the author A.A. MILNE.
+{G}
+  Directions:  100 Acre Woods (ADV) [E][42e2ne] 
+{g}
+~
+E
+press crossroad~
+{R,BO}
+           ___ _                
+         ---___- ,,          
+        (' ||    ||          
+       ((  ||    ||/\\  _-_  
+      ((   ||    || || || \\ 
+       (( //     || || ||/   
+         -____-  \\ |/ \\,/  
+                   _/        
+  ,- _.                                            |\   
+ (' /|                                         _     \\  
+((  ||   ,._-_  /'\\  _-_,  _-_, ,._-_  /'\\  < \,  / \\ 
+((  ||    ||   || || ||_.  ||_.   ||   || ||  /-|| || || 
+ ( / |    ||   || ||  = ||  = ||  ||   || || (( || || || 
+  -____-  \\,  \\,/  ,-_-  ,-_-   \\,  \\,/   \/\\  \\/  
+                                                         
+     -__ /\\                          
+       ||  \\                         
+      /||__|| ,._-_  _-_   _-_,  _-_, 
+      \||__||  ||   || \\ ||_.  ||_.  
+       ||  |,  ||   ||/    = ||  = || 
+     _-||-_/   \\,  \\,/  ,-_-  ,-_-  
+       ||                            
+{r,bo} 
+  1 September 2007
+articles
+{C}
+  The Leveller
+  Spotlight
+  It Hatched!
+{c}
+~
+E
+The Leveller~
+{C,BO}
+          ___________.__            
+          \__    ___/|  |__   ____  
+            |    |   |  |  \_/ __ \ 
+            |    |   |   Y  \  ___/ 
+            |____|   |___|  /\___  >
+                          \/     \/ 
+     .____                      .__  .__                
+     |    |    _______  __ ____ |  | |  |   ___________ 
+     |    |  _/ __ \  \/ // __ \|  | |  | _/ __ \_  __ \
+     |    |__\  ___/\   /\  ___/|  |_|  |_\  ___/|  | \/
+     |_______ \___  >\_/  \___  >____/____/\___  >__|   
+             \/   \/          \/               \/       
+{c,bo}
+~
+$~

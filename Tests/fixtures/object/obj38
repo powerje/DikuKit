@@ -1,0 +1,412 @@
+#3800
+rainbow staff~
+{BOLD}{RED}Ra{GREEN}inb{BLUE}ow{blue}{bold} staff~
+The rainbow staff lies here.~
+~
+1 1 0 16385
+0 0 -1 0
+5 5000 1667
+A
+4 3
+A
+5 3
+#3801
+sting~
+{BOLD}{YELLOW}Sting{yellow}{bold}~
+Sting lies here.~
+~
+5 1027 0 24577
+1 5 5 11
+6 20000 3000
+A
+18 4
+A
+19 4
+C
+7000 1
+M
+10
+#3802
+sign~
+a sign~
+A sign demands your attention.~
+~
+12 0 0 0
+0 0 0 0
+0 0 0
+E
+sign~
+
+Welcome to the Shire.  As you enter the Shire from Haon-Dor you come under
+the jurisdiction of the Thain, the peacekeeper of the Shire.  Consequently,
+by entering these lands you agree to obey our laws.  If you break these laws,
+you will be severely punished.  We do not like riff raff in our peaceful
+town.
+
+                                        The Thain
+                                        Peacekeeper of the Shire
+
+~
+#3803
+bread pipeweed~
+{Y}a pipeweed bread{y}~
+A loaf of pipeweed bread arouses your hunger.~
+~
+19 0 0 1
+24 0 0 0
+2 13 2
+A
+13 2
+#3804
+cloak silvery~
+a silvery cloak~
+A silvery cloak lies here.~
+~
+12 0 0 1025
+0 0 0 0
+3 8000 2000
+A
+24 3
+A
+17 -7
+#3805
+ring one~
+The {BOLD}{BLUE}One {YELLOW}Ring{yellow}{bold}~
+The One Ring is here.~
+~
+9 4112 0 16387
+8 0 0 0
+3 50000 10000
+A
+19 1
+A
+18 3
+B
+2
+L
+10
+C
+7000 2
+M
+5
+#3806
+bow elven~
+an elven bow~
+An elven bow lies here.~
+~
+5 1026 0 8193
+0 2 7 7
+10 25000 5000
+A
+19 2
+A
+17 -5
+C
+7000 1
+#3807
+axe mithril~
+a mithril axe~
+A mithril axe lies here.~
+~
+5 0 0 8193
+1 2 8 3
+6 15000 4000
+A
+13 25
+A
+12 25
+C
+7000 1
+#3808
+girth thain~
+{Y}the{Y}{BOLD} thain's{bol}{Y} girth{y}~
+The girth of the thain lies here.~
+~
+9 0 0 2049
+5 7000 0 0
+4 1000 200
+A
+1 2
+A
+18 4
+B
+8192
+C
+7000 1
+#3809
+dagger tiny~
+a tiny dagger~
+A tiny dagger lies here.~
+~
+5 0 0 57345
+2 3 4 11
+3 400 100
+A
+19 3
+C
+7000 1
+#3810
+egg~
+an egg~
+An egg lies here.~
+~
+19 0 0 1
+12 0 0 0
+1 3 1
+E
+newbie_item~
+~
+#3811
+clock~
+a wall clock~
+A clock is mounted on the wall high above you.~
+~
+23 0 0 0
+0 0 0 0
+1 10 3
+E
+clock~
+The clock is round, and displays the time with hands.  There is also a small
+digital section displaying the date.
+~
+#3812
+paper note~
+a paper note~
+A paper note has been left here.~
+~
+16 0 0 16385
+0 0 0 0
+1 10 2
+#3813
+quill goose-feather~
+a goose-feather quill~
+A goose-feather quill is lying here.~
+~
+21 0 0 16385
+0 0 0 0
+1 20 4
+#3814
+paper rules~
+a set of rules~
+A set of rules, governing the behavior of immortals has been dropped here.~
+              Rules for Immortal Player Behaviour
+
+Upon becoming immortal, you are no longer considered a player in DikuMud,
+you simply cannot get killed. Therefore, there are certain rules you must
+follow. Knowingly breaking these rules will probably cost you your
+characters(s).
+
+ - An immortal must not support ANY mortal playing character in the game,
+   including his/her own caracter. Supporting includes grouping, items,
+   money, 'preparing' monsters for easy killing, etc.
+      You may occasionally help low-level players by giving them
+   small amounts of money or items. You may only give them what is
+   buyable in the shops, and never more than 500 gold coins worth.
+      Immortals are welcome to take part in the game, by creating
+   unexpected (but never unreasonably harmful) obstacles for the players,
+   or by providing divine assistance to a newcomer in distress. Usage
+   of the 'switch'-command to make the monsters more challenging or
+   entertaining is also acceptable - see the rules about harming players,
+   below.
+
+ - An immortal is allowed to play other characters, provided that he/she
+   does not support them - see above. Beware: It is very hard not to help
+   your mortal player, and we'll show virtually no mercy, should we find out.
+     Exception from this rule can be made ONLY for test purposes, and only
+   by immortals who are actually building or supervising areas of the
+   world. Other players should NEVER benefit or suffer from this.
+   Test characters should not be a nuisance to other players in any way.
+
+ - An immortal character is not allowed to harm mortal players
+   in any way, unless this player is extremly provocative and
+   annoying to others.
+
+   Any action taken against mortals should have a VERY good reason.
+
+ - Implementors of DikuMUD reserves right to change any of the
+   above rules.
+
+ - A frequently asked question is what to do after a game crash. In general,
+   you shouldn't do anything. However, if you feel up to it, and if you
+   feel very confident that you aren't being cheated (grabbed by the nose,
+   as they say in Denmark), you are allowed to make compensations for the
+   losses of the players. Still, the rule in this case is, 'better too
+   little than too much'.
+~
+16 0 0 16385
+0 0 0 0
+1 10 2
+#3815
+snake sword snakesword~
+Golden Snakesword~
+A golden sword in the shape of a snake lies here.~
+slash~
+5 3 0 8193
+0 5 6 3
+23 2000 100000
+E
+snake sword golden snakesword~
+You see a heavy golden sword with a long leather strapped handle.
+~
+A
+5 4
+A
+17 -4
+C
+7000 2
+#3816
+snake sword silvery silver snakesword~
+{G}{BOLD}A {bold}{W}Silvery{G}{BOLD} Snakesword{g}{bold}~
+You see a silvery snakesword lying here.~
+~
+5 4097 0 8193
+1 6 5 3
+3 1800 5000
+E
+snake silvery sword~
+You see a silvery snakesword.  It has a long handle wrapped in black leather.
+~
+A
+1 2
+A
+18 2
+B
+536870912
+C
+7000 2
+#3817
+map~
+Conan's world map~
+A antique looking traveller's map lies here.~
+                                                         Tower of Fear
+                           Klingon      High                   | 
+                           Galaxy      Catacombs               |
+          Paladin             |             |                Moria
+             |                +--Cathedral--+                  |
+        Golf | Shire             (School)        Menagerie     | 
+          |  |    |   (1)           |         (2)    |         |
+Arachnos-++--+----+-+--+----Wall--Market-------+-----+-----Turning Pt
+       | |          |         |     |                |     (Dwarven)
+Shadow | |          |         |     +-------(3)    Arena       |
+Grove--+ |         /         (4)   Dump                        | 
+         |        /              (Sewers)                      |
+         |       +-Garamond         |                  Thalos--+--Drow
+         |                       Training   
+         +---Time Machine                    
+~
+16 0 0 16385
+0 0 0 0
+1 10 2
+#3818
+map1~
+Conan's map part 1~
+A antique looking traveller's map lies here.~
+
+
+                    Catacombs-+ 
+                              |
+                     Glacier--+-----+----Graz
+                     & Ship         |
+                                 Plains
+                                    |
+                               (1)--+--(2)
+
+
+
+~
+16 0 0 16385
+0 0 0 0
+1 10 2
+#3819
+map3~
+Conan's map part 3~
+A antique looking traveller's map lies here.~
+
+
+					      (3)
+                                               |      
+                                             Levee
+                                               |
+                                               |
+                                               |  
+                        Isle of                | 
+           Aucan--Kong   Dread                 |   Drow           
+                    |      |                   |     |
+                    +------+--+----------------+-----+---Desert--Pyramid
+                              |                            |
+                            Frost                          |
+                           Mountain                     Thalos
+
+
+~
+16 0 0 16385
+0 0 0 0
+1 10 2
+#3820
+map4~
+Conan's map part 4~
+A antique looking traveller's map lies here.~
+
+
+			(4)
+			 |
+			 |
+			 +--- Redferne Cloud
+				    |
+				    |
+				    |
+			         Graveyard
+
+
+
+
+~
+16 0 0 16385
+0 0 0 0
+1 10 2
+#3821
+nurse coat lab~
+{WHITE,BOLD}A Nurse's Lab Coat{white,bold}~
+{WHITE,BOLD}A Nurse's Lab Coat is lying here on the ground.{white,bold}~
+~
+9 291 64 1025
+7 10 10 10
+3 9464 750000
+E
+nurse coat lab~
+{WHITE,BOLd}A rather plain white coat, this was obviously worn by someone
+with no sense of fashion taste.  But then again, what do you expect
+from someone who spends 80% of her day looking at stool samples 
+and giving enemas?
+
+~
+A
+19 3
+A
+18 3
+C
+7000 1
+#3822
+battle master pride~
+{YELLOW}The Battle Master's Pride{yellow}~
+{YELLOW}The Battle Master's Pride shines in the sun.{yellow}~
+~
+9 1 0 16389
+6 8 8 8
+5 38528 2000000
+E
+battle master pride~
+{YELLOW}Glistening in the sun, this necklace has been through battles that
+would make even the strongest of warriors shudder in terror.  It is 
+clearly something to be worn with pride.
+{yellow}
+~
+A
+19 2
+A
+18 2
+B
+128
+C
+7000 5
+$~

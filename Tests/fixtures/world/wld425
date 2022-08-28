@@ -1,0 +1,963 @@
+#42500
+{C}WELCOME!{c}~
+{Y,BO}
+  Welcome home!
+{y,bo}{C}
+  Danger and I discussed a desire to have a permanant
+  space that we can call home.  This will allow all of
+  us a place to keep our personal rooms and work areas.
+  Right now some of us have rooms in zones that can be
+  repopped when we enter the game. Others have objects in
+  our rooms that are more at risk of theft once
+  the zone is opened. Everytime I open a zone I move my
+  personal rooms to a new zone. This will avoid the time
+  I waste moving rooms as well. Please don't be a room hog or
+  you may be asked to give up some rooms as the need 
+  changes. This zone will allow you to use all 100 rooms of
+  the zones you are currently in.
+{c}
+~
+425 0 1
+Z-1
+C-1
+R0
+S
+#42501
+Robo's Office~
+    
+    Welcome to the home away from home of Robo.
+    The walls are coverd of pictures of his Friends
+    and loved ones that he misses. You are not likely 
+    to find him here because he has many immortal related
+    {BO,BLUE}projects{bo,blue}.
+    
+~
+425 65536 3
+D0
+{W,BO}The gates to the lookouts palace are made of white gold and
+  look to be solid enough to withstand considerable punishment.{w,bo}
+
+~
+gates~
+1 -1 42502
+D4
+~
+~
+0 -1 42503
+E
+projects~
+    
+                          {U}Current{u} {U}Projects{u}
+                      
+                     1. Legend of Zelda (nes)
+                     2. The Adventures of Link(nes)
+                     3. Legend of Zelda: A Link to the past
+                     4. Zelda: Ocarina of Time (N64)
+                     5. Zelda: Majora's mask (N64)
+
+~
+X2048
+Z0
+C-1
+R0
+S
+#42502
+{W,BO}The Palace of Earth{w,bo}{G,BO}'{g,bo}{W,BO}s Guardian{w,bo} {G,BO}Dende{g,bo}~
+
+  Bah, can't do it right, why bother.
+
+~
+425 65544 3
+D2
+{W,BO}The palace gates to Kami's, now Dende's Lookout to which
+  he looks over all of the earth and can summon earth's greatest
+  warriors to train them to defend it, if need be.{w,bo}
+
+~
+gates~
+1 -1 42501
+X2048
+Z0
+C-1
+R0
+S
+#42503
+{BO,M}Gna's Cave{bo,m}~
+    
+    
+  {BO,M}                 o    .   _     .
+                       .         (_)         o
+                o      ____            _       o
+               _   ,-/   /)))  .   o  (_)   .
+              (_)  \_\  ( e(     O             _
+              o       \/' _/   ,_ ,  o   o    (_)
+               . O    _/ (_   / _/      .  ,        o
+                  o8o/    \\_/ / ,-.  ,oO8/( -TT
+                 o8o8O | } }  / /   \Oo8OOo8Oo||     O
+                Oo(""o8"""""""""""""""8oo""""""")
+               _   `\`'                  `'   /'   o
+              (_)    \  {G}    Gna's Heaven{M}     /    _   .
+                   O  \           _         /    (_)
+             o   .     `-. .----<(o)_--. .-'
+                --------(_/------(_<_/--\_)-------- {bo,m}
+  
+  
+      
+  
+  
+~
+425 8 0
+D4
+~
+~
+0 -1 42504
+D5
+~
+~
+0 -1 42501
+Z0
+C-1
+R0
+S
+#42504
+Mephisto's Top-Secret Home Away From Home~
+
+
+  {BO,W}You are surrounded by translucent walls, floor and ceiling.
+  Only the thick rugs and tapestries conceal you from those 
+  outside this chamber.  The tapestries are decorated with 
+  flowing scenes showing the sacred {BO,Y}Inner {BO,G}Circle {BO,W}as it was 
+  during the time of creation.  A large wardrobe sits next 
+  to a large, luxurious bed.  Beside the wardrobe is a chest
+  with a picture of fresh water sitting on it.  On the wall 
+  across from the bed, an open window that lets in the cool 
+  breeze.  Close to the window sits a large comfortable chair.
+  This is the private room of {BO,R}Mephisto{BO,W}, the leader of {BO,BLUE}({BO,R}T{BO,Y}I{BO,G}C{BO,BLUE}).
+     
+     {BO,R}He that is our constant. {BO,Y}He who holds us together.
+                {BO,G}He who completes the Circle.{bo,g}
+
+~
+425 0 1
+D4
+~
+~
+0 -1 42505
+D5
+~
+~
+0 -1 42503
+Z0
+C-1
+R0
+S
+#42505
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+425 0 1
+D5
+~
+~
+0 -1 42504
+Z0
+C-1
+R0
+S
+#42506
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+425 262144 1
+Z0
+C-1
+R0
+S
+#42507
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+425 262144 1
+Z0
+C-1
+R0
+S
+#42514
+{BOLD}{CYAN}D{MAGENTA}r{GREEN}e{YELLOW}w{b}{WHITE}'{RED}{BOLD}s {CYAN}C{MAGENTA}h{GREEN}a{YELLOW}m{RED}b{CYAN}e{MAGENTA}r{GREEN}s~
+
+  {YELLOW}You are standing in the chambers before the almighty {BOLD}{CYAN}D{MAGENTA}r{GREEN}e{YELLOW}w{b}.
+  {YELLOW}You see different {RED}d{YELLOW}r{RED}a{YELLOW}w{RED}i{YELLOW}n{RED}g{YELLOW}s on the wall of placed Drew has been.
+  Hanging in the center of the wall a picture of Drew's {BOLD}{YELLOW}Angel {b}{YELLOW}with
+  roses hung around it.  There is a {BOLD}{RED}Fireplace {b}{YELLOW}on the far right wall
+  and a desk set back from it.  On the left side of the room is a
+  {CYAN}{BOLD}couch {b}{YELLOW}and a lamp.
+
+~
+425 0 1
+D1
+~
+~
+0 -1 42515
+E
+Fireplace~
+  You see a warm fireplace crackling with delight.  There is a smell of
+  fresh pine in the air.  The warm sent sets you at ease.
+
+~
+E
+couch~
+
+  You see an old couch.  In the cushion you can see the outline where 
+  {BOLD}{CYAN}D{MAGENTA}r{GREEN}e{YELLOW}w{WHITE} {b}must have spent countless hours leaving his permanent imprint.
+
+~
+E
+Angel~
+
+  You see a picture of the most beautiful girl you have every seen.  Your
+  eyes pop out of your head and you see the name enscribed in the frame as
+  'Gel'.  You never knew that this immortal was so lucky.
+
+~
+Z0
+C-1
+R0
+S
+#42515
+{WHITE}Drew's {GREEN}{BOLD}Lounge {WHITE}{b}and {BOLD}{RED}Social {WHITE}{b}Bar~
+
+  You are standing in the middle of Drew's Bar and Social Lounge.
+  There is every beverage you can think of and if it is not there
+  you can bet Drew will whip it up for you.  Just sit down and order
+  up a drink.
+~
+425 262144 1
+D3
+~
+~
+0 -1 42514
+Z0
+C-1
+R0
+S
+#42525
+{B,YE}Danger's Den{b}~
+{B,YE}
+     Welcome to my personal den where I think of new and inventive
+     ideas to keep the mortals busy at all times.
+     Here is a listing of current projects that are in the process of 
+     being completed or in the process of being thought of. Please
+     feel free to share your thoughts.   
+{MAG}     
+     OSCORP Corporation - A subzone of Spiderman (376) - Now Opened
+     Redo of the X-Mansion (404) - in review
+     Inside Cerebro - A subzone of the X-Mansion (391, 405, 408) - in creation
+{CY}
+     Ideals for future zones:
+     Final Fantasy Guardian Temple - (not issued yet)
+     Land of Newbies - Advanced Zone with fake newbies yelling annoying questions.
+{b}
+~
+425 10368 0
+D5
+~
+~
+0 -1 42526
+Y4
+Z0
+C-1
+R0
+S
+#42526
+{B,BL}Danger's Living Room{b}~
+{B,BL}
+                     _.--.    .--._
+                   .'  .'      '.  '.
+                  :  .'    {B,RE}/\{BL}    '.  :
+                  :  '._,-{B,RE}/  \{BL}-,_.:  :
+                  \  ,`  {B,RE}/ /\ \{BL}  ',  /
+                   \/    {B,RE}\/  \/{BL}    \/
+                   ,{BLUE}=_{BL}    {B,RE}\/\/{BLUE}    {BLUE}_={BL},
+                   {BLUE}|  '_   {B,RE}\/{BLUE}   _'  {BLUE}|
+                   {BLUE}|_   ''-..-''   _|
+                   {BL}| {BLUE}'-.        .-'{BL} |
+                   {BL}|    {BLUE}'\    /'{BL}    {BL}|
+                   |      {BLUE}|  |{BL}      |
+           ___     |      {BLUE}|  |{BL}      |     ___
+       _,-',  ',   '_     {BLUE}|  |{BL}     _'    '  ,'-,_
+     _(  \  \   \'=--'-.  {BLUE}|  |{BL}  .-'--='/   /  /  )_
+   ,'  \  \  \   \      '-{BLUE}'--'{BL}-'      /   /  /  /  '.
+  :      \  \  \   \                /   /  /  /      :
+{b}
+~
+425 0 1
+D4
+~
+~
+0 -1 42525
+Z3
+C-1
+R0
+S
+#42527
+{bo,R}I{bo,BLUE}T{bo,YELLOW}H{bo,MAGENTA}E{bo,BLACK}R{bo,GREEN}I{bo,CYAN}A{bo,WHITE}N{bo,white}~
+You are standing in nowhere !!!!
+~
+425 0 1
+Z0
+C-1
+R0
+S
+#42530
+Lair of the Deathwyrm~
+
+  You are now in the den of Deathwyrm. Half gnawed bones,
+  some with bits of flesh still attatched, litter the room.
+  At least half of them were of human origin. What could
+  such a fearsome creatue want with you?
+
+~
+425 4203648 5
+X136315126
+Z0
+C-1
+R0
+S
+#42531
+Deathwyrm's Throne Room~
+
+
+  You are standing in the center of a vast vaulted chamber.
+  Shining white columns rise from the polished marble floor,
+  and radiant rays of sunglight stream  between them. As you 
+  look out, you realize that the whole chamber is floating 
+  amid the clouds. A gentle gust brushes past you, ruffling
+  your hair. You breathe deeply, enjoying the fresh crisp
+  air, which carries just a hint of ambrosia.
+
+  In the center of this chamber is a large marble throne shaped
+  like a dragon. On this throne rests a being of immense power,
+  glowing with the might of the gods. With a wave of his hand,
+  he conjures a table and chair so that you can be seated near
+  him, and then with a snap of his fingers creates a sumptious
+  banquet that kings would go to war for. You feel yourself
+  relax, finally at peace with the world...
+
+~
+425 8 8
+Z4
+C-1
+R0
+S
+#42542
+{C,BO}Nomad's Cozy Little Office{c,bo}~
+
+   
+   NN    NN   OOOOOO   MM    MM   AAAA   DDDDDD  ''' SSSSS
+   NNN   NN   OO  OO   MMM  MMM  AA  AA  DD   DD  '' S
+   NN NN NN   OO  OO   MM MM MM  AAAAAA  DD   DD   ' SSSSS
+   NN  NNNN   OO  OO   MM    MM  AA  AA  DD   DD         S
+   NN    NN   OOOOOO   MM    MM  AA  AA  DDDDDD      SSSSS
+   OOOOOO   FFFFFF   FFFFFF   IIIIIII   CCCCCCC   EEEEEE
+   OO  OO   FF       FF          I      CC        EE
+   OO  OO   FFFF     FFFF        I      CC        EEEE
+   OO  OO   FF       FF          I      CC        EE
+   OOOOOO   FF       FF       IIIIIII   CCCCCCC   EEEEEE
+       
+~
+425 262144 1
+Z0
+C-1
+R0
+S
+#42550
+Talos' Box o' Fun~
+
+  This is where Talos hangs out.
+
+~
+425 262152 1
+D4
+~
+~
+0 -1 42556
+Z0
+C-1
+R0
+S
+#42555
+{C}Mithril's Laboratory{c}~
+  
+           {R,BO,BLINK}*{blink}
+   {BLU}pq     {R}.{BL}
+   {BL}||    {W}| {R}.{W}|    {C}You are in the laboratory of {W}Mithril{C}, who when 
+   {BL}||----{W}|{R}. {W}|{BL}--  {C}not fullfilling his lordly duties, dabbles in
+   {BL}||----------  {C}alchemy and the arcane arts.  All around are
+   {BL}||    {W}| {R}.{W}|    {C}strange vessels bubbling and swirling with 
+   {BL}||    {W}|{R}. {W}|    {C}hypnotic colors.  Fantastic magical sigils are
+   {BL}||   {W}/ {R}.. {W}\   {C}painted on the wall, between shelves full of
+   {BL}||  {W}|{R}%%%%%%{W}|  {C}hundreds of scrolls and mystical tomes.
+   {BL}||  {W}|{R}%%%%%%{W}|
+   {BL}||   {W}\____/   {M}M{W}i{M}l{W}e{M}s {C}the Jazz Cat is here...purring away....
+   {BL}||    
+ {BLU}######
+  
+~
+425 65548 1
+D0
+~
+~
+0 -1 42555
+D1
+~
+~
+0 -1 42558
+D2
+~
+~
+0 -1 3014
+D3
+~
+~
+0 -1 2010
+D4
+~
+~
+0 -1 2000
+D5
+~
+~
+0 -1 42556
+Z-1
+C-1
+R0
+S
+#42556
+Sigil Room~
+  
+  {Y}@
+  {W}*{Y}@          {W}***{Y}@            {W}****{Y}@
+  {W}**{Y}@        {W}*****{Y}@          {W}******{Y}@
+  {W}***{Y}@      {W}*******{Y}@        {W}********{Y}@
+  {W}****{Y}@    {W}*********{Y}@      {W}**********{Y}@
+  {W}*****   ***********{Y}@    {W}************{Y}@
+  {W}***** ******%  *****{Y}@  {W}*****%   *****{Y}@
+  {W}***********%    ***********%     *****{Y}@
+  {W}**********%      *********%       *****{Y}@
+  {W}*********%        *******%         *****{Y}@
+  {W}********%          *****%          *****%
+  *******%          *****%          *****%
+  ***********************************************
+  **************************************************
+  *******************************************************
+  
+~
+425 8 1
+D4
+~
+~
+0 -1 42555
+D5
+~
+~
+0 -1 42550
+Z-1
+C-1
+R0
+S
+#42557
+The Dungeon~
+         {BL,BO}|||   |||   |||   |||   |||   |||   |||   |||
+         {BL,BO}|||   |||   |||   |||   |||   |||   |||   |||
+         {BL,BO}|||   |||   |||   |||   |||   |||   |||   |||
+         {BL,BO}|||   |||   |||   |||   |||   |||   |||   |||
+         {BL,BO}|||   |||   |||   |||   |||   |||   |||   |||
+         {BL,BO}|||   |||   |||   |||   |||   |||   |||   |||
+         {BL,BO}|||   |||   |||   |||   |||   |||   |||   |||
+         {BL,BO}|||   |||   |||   |||   |||   |||   |||   |||
+         {BL,BO}|||   |||   |||   |||   |||   |||   |||   |||
+         {BL,BO}|||   |||   |||   |||   |||   |||   |||   |||
+         {BL,BO}|||   |||   |||   |||   |||   |||   |||   |||
+~
+425 4481160 1
+X174
+Z0
+C-1
+R0
+S
+#42558
+{W}Periodic Table{w}~
+{W}  -----                                                               -----
+1 | H |                                                               |He |
+  |---+----                                       --------------------+---|
+2 |Li |Be |                                       | B | C | N | O | F |Ne |
+  |---+---|                                       |---+---+---+---+---+---|
+3 |Na |Mg |3B  4B  5B  6B  7B |    8B     |1B  2B |Al |Si | P | S |Cl |Ar |
+  |---+---+---------------------------------------+---+---+---+---+---+---|
+4 | K |Ca |Sc |Ti | V |Cr |Mn |Fe |Co |Ni |Cu |Zn |Ga |Ge |As |Se |Br |Kr |
+  |---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+5 |Rb |Sr | Y |Zr |Nb |Mo |Tc |Ru |Rh |Pd |Ag |Cd |In |Sn |Sb |Te | I |Xe |
+  |---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
+6 |Cs |Ba |LAN|Hf |Ta | W |Re |Os |Ir |Pt |Au |Hg |Tl |Pb |Bi |Po |At |Rn |
+~
+425 262144 1
+D3
+~
+~
+0 -1 42555
+Z-1
+C-1
+R0
+S
+#42560
+Office of the Manager of Help Files~
+
+  {WHITE,BOLD}This room contains everything that a dojo normally
+  would contain. A punching bag hangs from the ceiling
+  where people may practice punching. Floor mats are
+  sitting on the floor where people may practice
+  techniques against each other.{white}
+
+~
+425 4194304 9
+D0
+~
+~
+0 -1 2000
+D2
+~
+~
+0 -1 2010
+D3
+~
+~
+0 -1 3014
+D4
+~
+~
+0 -1 41700
+D5
+~
+~
+0 -1 3054
+M51
+Z-1
+C-1
+R0
+S
+#42566
+{BOLD}{RED}Burning{red} {RED}Pit{red} {BOLD}{RED}o{red}{RED}f{red} {BOLD}{RED}C{red}{RED}i{red}{BOLD}{RED}r{red}{RED}e{red}{BOLD}{RED}'{red}{RED}s{red} {BOLD}{RED}M{red}{RED}i{red}{BOLD}{RED}n{red}{RED}d{red}~
+  {BOLD}{YELLOW}|\        |{yellow}{BOLD}{RED}@{red}{BOLD}{YELLOW}\{yellow}{BOLD}{WHITE}_________________{white}{RED}_____________{red}
+  {BOLD}{YELLOW}||{yellow}{BOLD}{BLUE}--------{blue}{BOLD}{YELLOW}|{yellow}{BOLD}{GREEN}@{green}{BOLD}{YELLOW}|{yellow}{BOLD}{WHITE}_________________{white}{RED}_____________\{red}
+  {BOLD}{YELLOW}||{yellow}{BOLD}{BLUE}--------{blue}{BOLD}{YELLOW}|{yellow}{BOLD}{MAGENTA}@{magenta}{BOLD}{YELLOW}|{yellow}{BOLD}{WHITE}_________________{white}{RED}_____________/{red}
+  {BOLD}{YELLOW}|/        |{yellow}{BOLD}{BLUE}@{blue}{BOLD}{YELLOW}/{yellow}{BOLD}{RED}C{red}{RED}i{red}{BOLD}{RED}r{red}{RED}e{red}{BOLD}{RED}'{red}{RED}s{red} {BOLD}{RED}C{red}{RED}h{red}{BOLD}{RED}a{red}{RED}o{red}{BOLD}{RED}t{red}{RED}i{red}{BOLD}{RED}c{red} {RED}S{red}{BOLD}{RED}w{red}{RED}o{red}{BOLD}{RED}r{red}{RED}d{red}
+
+~
+425 262144 1
+D0
+~
+~
+0 -1 44100
+D1
+~
+~
+0 -1 2000
+D2
+~
+~
+0 -1 3054
+D3
+~
+~
+0 -1 41001
+D4
+~
+~
+0 -1 44198
+D5
+~
+~
+0 -1 44199
+Z3
+C-1
+R0
+S
+#42595
+{GREEN}Gore's House{green}(tempoary placement)~
+                   {BOLD}{BLUE}Welcome to my home...at least for now.{blue}
+
+{BOLD}{YELLOW}Zones that I am working on:
+     Geography Quest(w/ Koozl): Zone 492
+     Trojan War: Zone 349
+     Zelda (w/ Robo): Zone 402
+~
+425 0 1
+Z0
+C-1
+R0
+S
+#42596
+{R,BO}T{W}he {BLU}Bir{Y}thd{BLU}ay R{W}oo{R}m{r,bo}~
+{Y,BO}                      
+                      0   0
+                      {R}|   |
+                  {W}____{R}|{W}___{R}|{W}____
+               {Y}0  {W}|{BLU}- - - - - -{W}|   {Y}0
+               {R}|  {W}|           |   {R}|
+            {W}___{R}|{W}__|___________|___{R}|{W}__
+            |{BLU}/\/\/\/\/\/\/\/\/\/\/\/{W}|
+        {Y}0   {W}|   {R} HAPPY BIRTHDAY!    {W}|   {Y}0
+        {R}|   {W}|{BLU}/\/\/\/\/\/\/\/\/\/\/\/{W}|   {R}|
+       {W}_{R}|{W}___|_______________________|___{R}|{W}_
+      |{BLU}\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\{W}|
+      |      {Y}January  February  March     {W}|
+      |           {Y}April  May  June        {W}|
+      |       {Y}July  August  September     {W}|
+      |      {Y}October  November  December  {W}|
+      |{BLU} - - - - - - - - - - - - - - - - - {W}|
+      |___________________________________|
+{w,bo}
+~
+425 0 1
+D1
+~
+~
+0 -1 42599
+E
+january jan~
+{W}
+          {UND}January{und}
+{W}
+        1 Majere
+        2 Bulldog
+        4 Koozl
+        5 Rith
+        7 SmthLikeThat
+        8 Heathen
+       11 Jedi
+       13 Dile
+       26 Lakota
+{w}
+~
+E
+february feb~
+{W}
+          {UND}February{und}
+{W}
+        9 Dvd
+       11 Darrien
+       13 Tealc
+       16 Lacan
+       22 Summer
+       23 Dinin
+       25 Cynthia
+       27 Caveman 
+{w}
+~
+E
+march mar~
+{W}
+          {UND}March{und}
+{W}
+        5 Arfon
+       10 Shadowman
+       13 Shashi
+       15 Jaelyn
+       21 Testament
+       25 Gung
+       26 Ottomix
+       29 Loco
+       29 Gedon
+       30 Sparky 
+{w}
+~
+E
+April~
+{W}
+          {UND}April{und}
+{W}
+        7 Querin
+       11 Infinite
+       20 Wysiwyg
+       20 Getzit
+       28 Ishan
+{w}
+~
+E
+may~
+{W}
+          {UND}May{und}
+{W}
+        2 Slider
+        3 Forge
+        6 Lolo
+        8 Ananda
+       10 Portia
+       10 Tipitina
+       12 Zieb
+       12 Kallare
+       13 Dragonblood
+       18 Buzz
+       20 Dax
+       23 Sita
+       24 Squirrel
+       25 Epsilon
+       28 Gythe
+       29 Drakeon
+       31 Luney
+       31 Demiris
+{w}
+~
+E
+June~
+{W}
+          {UND}June{und}
+{W}
+        7 Gna
+        7 Zinc
+       11 Misty
+       23 Armitage
+       24 Morlock
+{w}
+~
+E
+July~
+{W}
+          {UND}July{und}
+{W} 
+        1 Grendal
+        2 Flanagan
+        7 Tarquas
+        9 Grouchy
+        9 Amakua
+       12 Zandu
+       14 Zepher
+       17 Hymne
+       20 Thorden
+       20 Morfius
+       21 Jim
+       26 Ashe
+       27 Enix
+       29 Crosis
+{w}
+~
+E
+august aug~
+{W}
+          {UND}August{und}
+{W} 
+        4 Danger
+        8 Robo
+        8 Shockworker
+        8 Cyanknight
+        8 Tranquility
+        8 Ragnark
+       11 Werewolf
+       12 Connie
+       13 Tiphareth
+       14 Jaskin
+       20 Fisk
+       22 CIKE
+       23 Zoharn
+       24 Dragall
+       26 Arianne
+       26 IMMORTAL
+       27 Cashew
+       28 Koromir
+{w}
+~
+E
+september sept~
+{W}
+          {UND}September{und}
+{W} 
+        1 Neysa
+        1 Cruz
+        3 Ktulu
+       11 Wildstar
+       16 Grizzly
+       17 Wilder
+       17 Gryffon
+       22 Emtech
+       27 Studd
+       28 Yuppie
+       30 Roman
+        ? Royal
+{w}
+~
+E
+october oct~
+{W}
+         {UND}October{und}
+{W}
+        2 Kotara
+        4 Guljin
+        7 LSD
+       11 Cryptkeeper
+       11 Fun
+       11 Nicodemus
+       17 Hazard
+       18 Medea
+       24 Golddragon
+{w}
+~
+E
+November nov~
+{W}
+         {UND}November{und}
+{W}
+         3 Lance
+         4 Parom
+         4 Neep
+         5 Shoju
+         5 Grex
+         7 Helios
+        13 Sunshine
+        21 Baiko
+        23 Viggs
+        26 Guard
+        27 Lythia
+        28 Pegasus
+        29 Leviathan
+{w}
+~
+E
+december dec~
+{W}
+          {UND}December{und}
+{W} 
+        1 Magna
+        2 Par
+        2 Berot
+        2 TheLady
+        3 Arcane
+        3 Jiayi
+        5 Pampers
+        5 Bloodstorm
+        8 Itherian
+        9 Mephisto
+       11 Warhawk
+       11 Eilonwy
+       13 Jem
+       22 Krayt
+       27 El Zorro
+       29 Spartan
+{w}
+~
+Z-1
+C-1
+R0
+S
+#42597
+{Y}B{y}{BLUE}e{blue}{R}C{r}{Y}a{y}{BLUE}U{blue}{R}s{r}{Y}E{y}~
+{R}  
+  W{r}{CY}elcome to {cy}{BLUE}K{blue}{CY}ooz{cy}{Y}L{y}{CY}'s{cy} {Y}K{y}{CY}reation {cy}{Y}S{y}{CY}tation.
+{cy}{BL,BO}
+                       @@@@
+                          @@@@ {bl,bo}{R}
+  C{r}{BLUE}l{blue}{Y}I{y}{R}n{r}{BLUE}K{blue} {Y}C{y}{R}l{r}{BLUE}I{blue}{Y}n{y}{R}K{r}{BL,BO}               @@@{bl,bo}{GR,BO}
+                     _      {gr,bo}{BL,BO} @@@{bl,bo}{GR,BO}
+                  "xXxXX" {gr,bo}{BL,BO}@@@.@@@{bl,bo}{BLUE}
+  T{blue}{Y}i{y}{R}N{r}{BLUE}k{blue}{Y} T{y}{R}i{r}{BLUE}N{blue}{Y}k{y}{GR,BO}      .aXXxX x {gr,bo}{BL,BO}@@   @@{bl,bo}{Y,BO}
+             .a8**8o{y,bo}{GR,BO}XXX{gr,bo}{Y,BO}  8a{y,bo}{BL,BO}     @@{bl,bo}{Y,BO}
+           a888 **88{y,bo}{GR,BO}xXX {gr,bo}{Y,BO}88 {y,bo}{BL,BO}      @@{bl,bo}{Y,BO}
+          (888888888 a8'{y,bo}{GR,BO}  x{gr,bo}{Y,BO}
+           "88888"" a88'{y,bo}{BLUE,BO}
+              .III({blue,bo}{Y,BO}88'{y,bo}{BLUE,BO}
+             iIIIIi. 
+{blue,bo}
+~
+425 4415497 3
+D0
+~
+~
+0 -1 42599
+Z-1
+C-1
+R0
+S
+#42598
+{Y}N{y}{CY}i{cy}{Y}g{y}{CY}h{cy}{Y}t{y} {CY}S{cy}{Y}k{y}{CY}y{cy}~
+{Y}
+                                                         
+                            / \
+                           /   \
+                          /     \ 
+                         /       \ 
+                        /         \
+          _ _ _ _ _ _ _/           \_ _ _ _ _ _ _ 
+          \                                     /
+            \                                 / 
+              \                             /   
+                \                         / 
+                  \                     /
+                   >                  < 
+                  /                    \
+                 /                      \
+                /           ^            \
+               /        _       _         \
+              /      _             _       \
+             /    _                    _    \
+            /  _                          _  \ 
+           /_                                _\ 
+       
+{y}
+~
+425 4259841 3
+D3
+~
+~
+0 -1 42599
+X6291524
+Z-1
+C-1
+R0
+S
+#42599
+{CY}K{cy}{R,BO}o{r,bo}{CY}o{cy}{R,BO}z{r,bo}{CY}l{cy}{R,BO}'{r,bo}{CY}s{cy} {R,BO}L{r,bo}{CY}a{cy}{R,BO}i{r,bo}{CY}r{cy}~
+{CY}
+              __                  __
+             ( _)                ( _)
+            / / \\              / /\_\_
+           / /   \\            / / | \ \
+          / /     \\          / /  |\ \ \
+         /  /   ,  \ ,       / /   /|  \ \
+        /  /    |\_ /|      / /   / \   \_\
+       /  /  |\/ _ '_|\    / /   /   \    \\
+      |  /   |/  {cy}{R}0{r}{CY} \{cy}{R}0{r}{CY}\ \  / |    |    \    \\
+      |    |\|      \_\_ /  /    |     \    \\
+      |  | |/    \.\ o\o)  /      \     |    \\
+      \    |     /\\`{cy}{Y}v{y}{CY}-{cy}{Y}v{y}{CY}  /        |    |     \\
+       | \/    /_| \\_|  /         |    | \    \\
+       | |    /__/_    /   _____   |    |  \    \\
+       \|    (__)  \_/  |_________  \   |   \    ()
+        /   (___)   (  \         \  |\  |    |  //
+       |    (___)                |\ | \ |   /  |/
+{cy}
+~
+425 65545 3
+D0
+~
+~
+0 -1 2000
+D1
+~
+~
+0 -1 42598
+D2
+~
+~
+0 -1 42597
+D3
+~
+~
+0 -1 42596
+D5
+~
+~
+0 -1 49399
+Z-1
+C-1
+R0
+S
+$~

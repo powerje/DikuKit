@@ -1,0 +1,824 @@
+#9200
+Eye's private room~
+  This is Eye's private room. He is a well known name among the mudders of
+VieMud for his great contribution to the mud.
+~
+92 0 0
+D1
+~
+~
+0 -1 3030
+D5
+Looking down you take a good look at the Cathedral of Veinna.
+~
+~
+0 -1 3001
+Z3
+C-1
+S
+#9201
+A brick road~
+  You're walking in a path build of old red bricks. The road is very old and
+needs to be rebuild. Far in the distance you can see a tall tower.
+~
+92 4 1
+D0
+~
+~
+0 -1 9202
+Z3
+C-1
+S
+#9202
+The garden entrance~
+  You are in what used to be one of th most beautiful gardens in the universe but
+it has been unattended for manny years. A huge gate that used to be coverd
+with plants stands here and beyond it lies the tower.
+~
+92 0 1
+D0
+~
+~
+0 -1 9203
+D1
+~
+~
+0 -1 9204
+D2
+~
+~
+0 -1 9201
+D3
+~
+~
+0 -1 9212
+Z3
+C-1
+S
+#9203
+Infront of the tower door~
+  You are standing on a large platform made from red bricks. To the north you
+see a large steal door with a deep carving in it.
+~
+92 0 1
+D0
+~
+door~
+1 9201 9213
+D2
+~
+~
+0 -1 9202
+E
+carving~
+The carving reads :
+    " The tower of Fear, All who dare enter will find their doom inside "
+~
+Z3
+C-1
+S
+#9204
+The south east corner of the garden~
+  This is the south east section of the garden. A tall wall raises to avoid
+intruders from entering. All the green plants are long dead and many weeds are
+growing among the rutten trunks.
+~
+92 0 1
+D0
+~
+~
+0 -1 9205
+D3
+~
+~
+0 -1 9202
+Z3
+C-1
+S
+#9205
+The east corner of the garden~
+  This is the east section of the garden. A tall wall raises to avoid intruders
+from entering. All the green plants are long dead and many weeds are growing
+among the rutten trunks.
+~
+92 0 1
+D0
+~
+~
+0 -1 9206
+D2
+~
+~
+0 -1 9204
+Z3
+C-1
+S
+#9206
+The north east corner of the garden~
+  This is the north east section of the garden. A tall wall raises to avoid
+intruders from entering. All the green plants are long dead and many weeds are
+growing among the rutten trunks.
+~
+92 0 1
+D1
+~
+~
+0 -1 9207
+D2
+~
+~
+0 -1 9205
+D3
+~
+~
+0 -1 9208
+Z3
+C-1
+S
+#9207
+The stables~
+  This is where the horses of the tower were kept in the old days. The stables
+is devided into many cells, each for every horse. On the far wall you notice a
+few hoofs and saddles still hanging on the wall.
+~
+92 8 0
+D3
+~
+~
+0 -1 9206
+Z3
+C-1
+S
+#9208
+The north corner of the garden~
+  This is the north section of the garden. A tall wall raises to avoid intruders
+from entering. All the green plants are long dead and many weeds are growing
+among the rutten trunks.
+~
+92 0 1
+D1
+~
+~
+0 -1 9206
+D3
+~
+~
+0 -1 9209
+Z3
+C-1
+S
+#9209
+The north west corner of the garden~
+  This is the north west section of the garden. A tall wall raises to avoid
+intruders from entering. All the green plants are long dead and many weeds are
+growing among the rutten trunks.
+~
+92 0 1
+D0
+~
+~
+0 -1 9210
+D1
+~
+~
+0 -1 9208
+D2
+~
+~
+0 -1 9211
+Z3
+C-1
+S
+#9210
+Warehouse~
+  You are standing inside a large warehouse. The werehouse is filled with many
+crates and boxes that have been left here long time ago. You can hear a quiet
+rattling noise from between the boxes and you hope it's only rats.
+~
+92 8 0
+D2
+~
+~
+0 -1 9209
+Z3
+C-1
+S
+#9211
+The west corner of the garden~
+  This is the west section of the garden. A tall wall raises to avoid intruders
+from entering. All the green plants are long dead and many weeds are growing
+among the rutten trunks.
+~
+92 0 1
+D0
+~
+~
+0 -1 9209
+D2
+~
+~
+0 -1 9212
+Z3
+C-1
+S
+#9212
+The south west corner of the garden~
+  This is the south west section of the garden. A tall wall raises to avoid
+intruders from entering. All the green plants are long dead and many weeds are
+growing among the rutten trunks.
+~
+92 0 1
+D0
+~
+~
+0 -1 9211
+D1
+~
+~
+0 -1 9202
+Z3
+C-1
+S
+#9213
+Main hall~
+  This is the tower's main hall where all guests are being welcome. There are
+many cobwebs in the corners and on the few furniture left here.
+~
+92 9 0
+D0
+~
+door~
+0 -1 9219
+D1
+~
+~
+0 -1 9214
+D2
+~
+~
+0 -1 9203
+D3
+~
+~
+0 -1 9217
+Z3
+C-1
+S
+#9214
+Eastern hall~
+  This is the eastern hall of the tower. All the tapestries on the wall are
+torn and dirty. many blood spots cover the old carpet.
+~
+92 9 0
+D2
+~
+~
+0 -1 9215
+D3
+~
+~
+0 -1 9213
+Z3
+C-1
+S
+#9215
+Storage room~
+  This is the storage room of the tower. The walls are filled with empty shelves
+and boxs.
+~
+92 9 0
+D0
+~
+~
+0 -1 9214
+Z3
+C-1
+S
+#9216
+Kitchen~
+  This room used to serve as the main kitchen of the tower. In the middle of the
+room lies many long ovens and above them many pans are hanging on hooks from the
+ceiling.
+~
+92 9 0
+D0
+~
+~
+0 -1 9217
+Z3
+C-1
+S
+#9217
+Western hall~
+  This is the western hall of the tower. All the tapestries on the wall are
+torn and dirty. Many blood spots cover the old carpet.
+~
+92 9 0
+D0
+~
+~
+0 -1 9218
+D1
+~
+~
+0 -1 9213
+D2
+~
+~
+0 -1 9216
+Z3
+C-1
+S
+#9218
+Dining room~
+  This room is equiped with a long eating table and many chairs sitting beside
+it. On the table lie two candlesticks and from the ceiling hangs a large
+crystal made lamp.
+~
+92 9 0
+D2
+~
+~
+0 -1 9217
+Z3
+C-1
+S
+#9219
+Northern hall~
+  This is the northern hall of the tower. All the tapestries on the wall are
+torn and dirty. Many blood spots cover the old carpet.
+~
+92 9 0
+D0
+~
+door~
+0 -1 9220
+D2
+~
+~
+0 -1 9213
+Z3
+C-1
+S
+#9220
+The stairs~
+  These are the stairs up to the next floor. Up at the end of the stairs you see
+a small door.
+~
+92 13 0
+D2
+~
+~
+0 -1 9219
+D4
+~
+door~
+1 9202 9221
+Z3
+C-1
+S
+#9221
+The stairs~
+  These are the stairs up to the next floor. Up at the end of the stairs you see
+a small door.
+~
+92 13 0
+D2
+~
+~
+0 -1 9223
+D3
+~
+~
+0 -1 9222
+D4
+~
+door~
+1 9203 9228
+Z3
+C-1
+S
+#9222
+Bathroom~
+  This is one of many bathrooms lying around the tower. The sink used to be
+white but is now too dirty to be called 'white'. A large mirror hangs above
+the sink and you can't see much in it due to many blood stains on it.
+~
+92 9 0
+D1
+~
+~
+0 -1 9221
+Z3
+C-1
+S
+#9223
+Corridor~
+  This is a long corridor leading from the north to the south.
+~
+92 9 0
+D0
+~
+~
+0 -1 9221
+D2
+~
+~
+0 -1 9225
+Z3
+C-1
+S
+#9224
+East balcony~
+  This is the eastern balcony looking over the eastern part of the tower
+gardens.
+~
+92 9 0
+D3
+~
+~
+0 -1 9225
+Z3
+C-1
+S
+#9225
+Ballroom~
+  This room used to be the main ballroom in the old days. The floor is made out
+of the best wood that makes this room a great place to dance.
+~
+92 9 0
+D0
+~
+~
+0 -1 9223
+D1
+~
+~
+0 -1 9224
+D3
+~
+~
+0 -1 9226
+Z3
+C-1
+S
+#9226
+Sitting room~
+  This room was built for people that were tired of dancing and having fun and
+wanted to get a little peace of mind. The room is build in a way that you
+can't hear the noises and the music from the ballroom.
+~
+92 16393 0
+D1
+~
+~
+0 -1 9225
+Z3
+C-1
+S
+#9227
+Servent room~
+  This room was for the staff of the tower. Here they used to live, sleep and
+play. There are many beds in this rooms, each for every servent here.
+~
+92 9 0
+D2
+~
+~
+0 -1 9228
+Z3
+C-1
+S
+#9228
+The stairs~
+  These are the stairs up to the next floor. Up at the end of the stairs you see
+a small door.
+Strangely enough..... but there are no stairs !!!!!!
+~
+92 13 9
+D0
+~
+~
+0 -1 9227
+D1
+~
+~
+0 -1 9229
+D2
+~
+~
+0 -1 9233
+D3
+~
+~
+0 -1 9230
+D4
+~
+door~
+1 9204 9240
+Z3
+C-1
+S
+#9229
+The blue room~
+  This room was called the blue room because everything in it is painted in blue.
+~
+92 9 0
+D3
+~
+~
+0 -1 9228
+Z3
+C-1
+S
+#9230
+The yellow room~
+  This room was called liek that because everything in it is painted in yellow.
+There is no floor in that room.
+~
+92 9 9
+D1
+~
+~
+0 -1 9228
+Z3
+C-1
+S
+#9231
+Bathroom~
+  This is one of many bathrooms lying around the tower. The sink used to be
+white but is now too dirty to be called 'white'. A large mirror hangs above
+the sink and you can't see much in it due to many blood stains on it.
+~
+92 9 0
+D3
+~
+~
+0 -1 9232
+Z3
+C-1
+S
+#9232
+Bedroom~
+  This is a normal bedroom containing a queen size bed in the corner and in the
+oposite is a large closet. The closet doors have been broken.
+~
+92 9 0
+D1
+~
+~
+0 -1 9231
+D3
+~
+~
+0 -1 9233
+Z3
+C-1
+S
+#9233
+Corridor~
+  This corridor leads to all the bedrooms on this floor.
+~
+92 9 0
+D0
+~
+~
+0 -1 9228
+D1
+~
+~
+0 -1 9232
+D2
+~
+~
+0 -1 9236
+D3
+~
+~
+0 -1 9234
+Z3
+C-1
+S
+#9234
+Bedroom~
+  This is a normal bedroom containing a queen size bed in the corner and in the
+oposite is a large closet. The closet doors have been broken.
+~
+92 9 0
+D1
+~
+~
+0 -1 9233
+D3
+~
+~
+0 -1 9235
+Z3
+C-1
+S
+#9235
+Bathroom~
+  This is one of many bathrooms located around the tower. The sink used to be
+white but is now too dirty to be called 'white'. A large mirror hangs above
+the sink and you can't see much in it due to many blood stains on it.
+~
+92 9 0
+D1
+~
+~
+0 -1 9234
+Z3
+C-1
+S
+#9236
+The main bedroom~
+  This huge bedroom has a gigantic bed in the middle. The bed is covered with old
+sheets, now stained with blood. To the east is the bathroom and to the west is
+the private dressing room.
+~
+92 9 0
+D0
+~
+~
+0 -1 9233
+D1
+~
+~
+0 -1 9237
+D3
+~
+~
+0 -1 9238
+Z3
+C-1
+S
+#9237
+Bathroom~
+  This is one of many bathrooms located around the tower. The sink used to be
+white but is now too dirty to be called 'white'. A large mirror hangs above
+the sink and you can't see much in it due to many blood stains on it.
+~
+92 9 0
+D3
+~
+~
+0 -1 9236
+Z3
+C-1
+S
+#9238
+Dressing room~
+  This room used as the dressing room to the master of the tower. There is a
+large desk with many kinds of makeup on it. A few makeup bottles fell to the
+floor and broke.
+~
+92 9 0
+D1
+~
+~
+0 -1 9236
+Z3
+C-1
+S
+#9239
+Studio~
+  This is the studio. There is a large sofe in the middle of the room and
+sitting on it is a stinking corpse of some kind of animal.
+~
+92 9 0
+D2
+~
+~
+0 -1 9240
+Z3
+C-1
+S
+#9240
+The stairs~
+  These are the stairs up to the next floor. Up at the end of the stairs you see
+a small door.
+~
+92 13 0
+D0
+~
+~
+0 -1 9239
+D2
+~
+~
+0 -1 9242
+D4
+~
+door~
+1 9206 9244
+Z3
+C-1
+S
+#9241
+Meditation room~
+  As you enter the room you sense an ethernal power falling on you. The room
+seems so quiet at first but then you take another look around...
+~
+92 9 0
+D3
+~
+~
+0 -1 9242
+Z3
+C-1
+S
+#9242
+Library~
+  This used to be the library but there are no more books on the many bookcases
+covering the walls.
+~
+92 9 0
+D0
+~
+~
+0 -1 9240
+D1
+~
+~
+0 -1 9241
+D3
+~
+~
+0 -1 9243
+Z3
+C-1
+S
+#9243
+West balcony~
+  This is the west balcony looking over the western part of the tower gardens.
+~
+92 9 0
+D1
+~
+~
+0 -1 9242
+Z3
+C-1
+S
+#9244
+The top of the tower~
+  You have reached the top of the tower, the resting place of FEAR. The room has
+three narrow windows to the south, west and east. To the north you see a small
+tunnel leading out.
+~
+92 9 0
+D0
+~
+~
+0 -1 9245
+Z3
+C-1
+S
+#9245
+Are you dead?~
+  You are standing on a large white cloud. Your last memory was FEAR itself.
+Have you been fighting FEAR? or have you been dreaming?
+~
+92 141 0
+D5
+~
+~
+0 -1 3001
+Z3
+C-1
+S
+#9246
+The Blop~
+  You are flying over the mines of Moria. You have a near feeling of
+death.
+~
+92 4100 9
+D4
+~
+~
+0 -1 9247
+D5
+~
+~
+0 -1 4031
+Z3
+C0
+S
+#9247
+At a plateu over the moria-mountains~
+  You are standing at a plateau. It's not very safe here but you can
+stand it. You feel a lifeform of great power very near.
+~
+92 4100 9
+D0
+~
+~
+0 -1 9201
+D5
+~
+~
+0 -1 9246
+Z3
+C0
+S
+$~

@@ -1,0 +1,59 @@
+#37
+The High Catacombs~
+3799 20 1
+D 0 3710 0 1		Close Hidden entrance to crawlway
+D 0 3711 2 1		Close Hidden entrance to crawlway
+D 0 3721 1 1		Close Black door to Orcus
+D 0 3722 3 1		Close Black door to Orcus
+D 0 3727 1 1		Close Red door to Orcus
+D 0 3726 3 1		Close Red door to Orcus
+D 0 3734 2 2		Close Gap to treasure pit
+D 0 3735 0 2		Close Gap to treasure pit
+D 0 3707 1 2		Close wooden door to hall
+D 0 3703 3 2		Close wooden door to hall
+D 0 3729 2 1		Close door to Quiet Room
+D 0 3747 0 1		Close door to Quiet Room
+D 0 3747 5 1		Close grate to Tube
+D 0 3746 4 1		Close grate to Tube
+D 0 3745 2 1		Close door to Black Shaft
+D 0 3744 0 1		Close door to Black Shaft
+M 0 3701 15 3704	Skeleton to Great Gallery
+G 1 3701 1			give it the black key to hall
+E 1 3021 99 16		wields a small sword
+E 1 3096 99 17		holds a wooden shield
+M 0 3701 15 3704	2. Skeleton to Great Gallery
+E 1 3021 99 16		wields a small sword
+E 1 3096 99 17		holds a wooden shield
+M 0 3701 15 3710	Skeleton to Great Hall
+E 1 3021 99 16		wields a small sword
+E 1 3096 99 17		holds a wooden shield
+M 0 3701 15 3710	Skeleton to Great Hall
+E 1 3021 99 16		wields a small sword
+E 1 3096 99 17		holds a wooden shield
+M 0 3701 15 3717	Skeleton into the maze
+E 1 3021 99 16		wields a small sword
+E 1 3096 99 17		holds a wooden shield
+M 0 3701 15 3717	Skeleton into the maze
+E 1 3021 99 16		wields a small sword
+E 1 3096 99 17		holds a wooden shield
+M 0 3701 15 3733	Skeleton into the maze
+E 1 3021 99 16		wields a small sword
+E 1 3096 99 17		holds a wooden shield
+M 0 3701 15 3733	Skeleton into the maze
+E 1 3021 99 16		wields a small sword
+E 1 3096 99 17		holds a wooden shield
+M 0 3702 10 3729	Ghoul into the maze
+M 0 3702 10 3726	Ghoul into the maze
+M 0 3702 10 3722	Ghoul into the maze
+M 0 3702 10 3735	Ghoul into the maze
+M 0 3702 10 3735	Ghoul into the maze
+M 0 3702 10 3713	Ghoul into the Strange Room
+M 0 4001 10 3717	Snake into the Interesting L-Turn
+M 0 3703 1 3724	        Orcus, the Lord of Death
+G 1 3700 1			Give him the bone key
+O 0 3702 1 3737         Giant pile of Gold to Eastern Treasure Pit
+*
+O 0 2000 1 3739         Forge (05/09/95) Book of Blood
+M 0 10711 2 3739        Blood Ghost
+M 0 10711 2 3739        Blood Ghost
+$~

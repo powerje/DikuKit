@@ -1,0 +1,1040 @@
+#33700
+{YELLOW}A giant room within a spaceship.{yellow}~
+
+     {GRE}You appear to be somewhere within a {CYAN,BLINK}PROTOSS
+     {WHITE,blink}Spaceship.  {GRE}You cannot seem to figure out where
+     You are or how you got here...much less what
+     This {MAG}Zealot{mag} is about to do to you....
+
+~
+337 1029 0
+D0
+{MAGENTA}A hallway within the spaceship.
+~
+gateway~
+1 0 33701
+Z1
+C-1
+S
+#33701
+{YELLOW}A walkway in the spaceship{yellow}~
+
+     {MAG}You are walking down a huge hallway and stare in awe
+     At the intricate designs on the walls.  They appear to be...
+     Could it be...moving while you look at them?  How can this 
+     Be happening???  You notice that there are gateways leading 
+     In all directions.  However, when you look down you {CYAN}don't
+     Seem to be able to find any {BOLD,BLINK}BOTTOM {bold,blink,MAG}around.
+
+~
+337 9 0
+D0
+~
+gateway~
+1 1 33703
+D1
+~
+gateway~
+1 1 33704
+D2
+~
+gateway~
+1 1 33700
+D3
+~
+gateway~
+1 1 33705
+D4
+~
+gateway~
+1 -1 33706
+D5
+~
+~
+0 -1 33702
+Z1
+C-1
+S
+#33702
+Outside the ship~
+ 
+     {WHITE}You idiot...didn't you notice that there is no bottom
+     To this room.  Oh well, there goes your eq floating out into
+     Space.  Better luck next time.  If you're still alive then take
+     This as a {REV,BLINK}LEARNING EXPERIENCE{rev,blink,WHITE} and peek
+     Before you fall....
+
+~
+337 2 8
+D4
+~
+~
+0 -1 33701
+M30
+X256
+Z0
+C-1
+S
+#33703
+{BLUE}The Terran Testing Area{blue}~
+   
+   {BLUE}You enter into what appears like a city, bustling
+   with people going about their business.  You notice
+   that this city appears to be particularly advanced 
+   as a hovercraft whizzes right past your head.  Everything
+   seems to be mobile, even the buildings.  Be careful,
+   or a building might just drop on top of you.{blue}
+
+~
+337 16 1
+D0
+~
+~
+0 -1 33720
+D2
+~
+gateway~
+1 -1 33701
+M20
+Z6
+C-1
+S
+#33704
+{CYAN}The Center for {BLINK}Protoss{blink,CYAN} advancement.{cyan}~
+~
+337 1 0
+D3
+~
+gateway~
+1 -1 33701
+Z4
+C-1
+S
+#33705
+{MAG}Entrance to the Zerg Colony{mag}~
+ 
+     {MAG}You are slipping and sliding along a path of a huge
+     Mountain.  It is covered with ice and snow, but it seems 
+     To be have this gooey purple ooze covering nearly
+     Everything.  You wonder what these {CYAN}Protoss{MAG} are really
+     Made of as you force yourself through this nasty ooze. 
+
+~
+337 1 5
+D0
+~
+~
+0 -1 33707
+D1
+~
+gateway~
+1 -1 33701
+D2
+~
+~
+0 -1 33709
+D3
+~
+~
+0 -1 33708
+Z16
+C-1
+S
+#33706
+{YELLOW}Top of the spaceship.{yellow}~
+
+     {MAG}You are looking at a beautiful transparent dome spaceship
+     And can see all the stars outside the spaceship.  You cannot
+     Imagine how you could have gotten here, but you're beginning to
+     Realize how far advanced this race really is and wonder if you 
+     Should be disturbing them at their work....
+
+~
+337 8200 0
+D5
+~
+gateway~
+1 -1 33701
+Z14
+C-1
+S
+#33707
+{MAG}Entrance to the Zerg Colony{mag}~
+ 
+     {MAG}You are slipping and sliding along a path of a huge
+     Mountain.  It is covered with ice and snow, but it seems 
+     To be have this gooey purple ooze covering nearly
+     Everything.  You wonder what these {CYAN}Protoss{MAG} are really
+     Made of as you force yourself through this nasty ooze. 
+
+~
+337 1 1
+D0
+~
+~
+0 -1 33709
+D2
+~
+~
+0 -1 33705
+Z16
+C-1
+S
+#33708
+{MAG}Within the Zerg Colony{mag}~
+
+     {MAG}You are slipping and sliding along what appears to
+     Be a huge mountain...  The only problem is that it is 
+     Covered by a thick purple mass and all these little creatures
+     Are scurrying around and trying to attack you.....
+     {CYAN}WHAT IS THAT?!?!?!
+
+~
+337 32785 5
+D0
+~
+~
+0 -1 33710
+D1
+~
+~
+0 -1 33705
+D2
+~
+~
+0 -1 33711
+X268435456
+Z16
+C-1
+S
+#33709
+{MAG}Entrance to the Zerg Colony{mag}~
+ 
+     {MAG}You are slipping and sliding along a path of a huge
+     Mountain.  It is covered with ice and snow, but it seems 
+     To be have this gooey purple ooze covering nearly
+     Everything.  You wonder what these {CYAN}Protoss{MAG} are really
+     Made of as you force yourself through this nasty ooze. 
+
+~
+337 1 5
+D1
+~
+~
+0 -1 33707
+D2
+~
+~
+0 -1 33707
+Z16
+C-1
+S
+#33710
+{MAG}Within the Zerg Colony{mag}~
+
+    {MAG}Whew!  You finally made it through that beast somehow...
+    One of those things isn't too bad after all now is it?  The
+    Only ploblem is that you can see at least a dozen more off into
+    The distance.  You look down and wonder, {GRE}Hey, where is the 
+    purple ooze going?{MAG} as it slowly recedes from under your feet.
+
+~
+337 32784 5
+D0
+~
+~
+0 -1 33711
+D2
+~
+~
+0 -1 33708
+Z16
+C-1
+S
+#33711
+{MAG}A Zerg Extractor{mag}~
+
+     {MAG}You see a huge mass of purple flesh vibrating in
+     Front of you.  It seems to be absorbing some sickly
+     Green colored gas and packaging it for these hideous 
+     Litle monsters to take back deeper into the colony.  
+     Hopefully you will be able to pass by this building like
+     Object without disturbing it....
+
+~
+337 32769 5
+D0
+~
+~
+0 -1 33708
+D1
+~
+~
+0 -1 33712
+D2
+~
+~
+0 -1 33710
+D3
+~
+~
+0 -1 33712
+D4
+~
+~
+0 -1 33706
+Z16
+C-1
+S
+#33712
+{MAG}The Spire{mag}~
+
+     {MAG}You approach this huge floating {CYA}Spire{MAG} here in front
+     Of you and wonder what this massive thing could ever produce.
+     What kind of a race would ever create such a thing as disgusting
+     As that?  Is this {CYA}Spire{MAG} actually moving after all?  Or could
+     It be just your imagination?  What's that coming from the top?
+     Oh no!!!! It's a {GRE}MUTALISK{MAG}!!!!
+    
+~
+337 32768 5
+D0
+~
+~
+0 -1 33713
+D1
+~
+~
+0 -1 33711
+D2
+~
+~
+0 -1 33711
+D4
+~
+~
+0 -1 33715
+Z16
+C-1
+S
+#33713
+{MAG}The Strange Canal{mag}~
+
+       {MAG}You see this huge chamber in front of you.  It
+    Appears as though you could fit your whole group into
+    It easily.  The only thing is..what does this special 
+    Room like thing do?  A teleporter maybe?  But to where?{mag}
+
+~
+337 32769 5
+D1
+~
+~
+0 -1 33712
+D2
+~
+~
+0 -1 33712
+D3
+~
+~
+0 -1 33710
+Z16
+C-1
+S
+#33714
+{MAG}The Strange Canal.{mag}~
+You are standing in nowhere !!!!
+~
+337 1 5
+D0
+~
+~
+0 -1 33716
+Z16
+C-1
+S
+#33715
+{MAG}Top of the {CYAN}Spire{cya,mag}~
+
+     {MAG}As you float up towards the top of this Spire and dodge
+     The mutalisks flying after you, you begin to notice these
+     Small little creatures floating along the top of the Spire. 
+     At first you ignore them as cute little things, but as you
+     Near the Spire they seem to approach you menacingly as if they
+     Were protecting it from some evil beast...  
+    
+
+~
+337 32768 9
+D5
+~
+~
+0 -1 33712
+Z13
+C-1
+S
+#33716
+{MAG}A Zerg Extractor{mag}~
+
+     {MAG}You see a huge mass of purple flesh vibrating in
+     Front of you.  It seems to be absorbing some sickly
+     Green colored gas and packaging it for these hideous 
+     Litle monsters to take back deeper into the colony.  
+     Hopefully you will be able to pass by this building like
+     Object without disturbing it....
+
+~
+337 32769 5
+D0
+~
+~
+0 -1 33716
+D1
+~
+~
+0 -1 33719
+D2
+~
+~
+0 -1 33714
+D3
+~
+~
+0 -1 33713
+Z16
+C-1
+S
+#33717
+{MAG}Near the {CYA}Hive{cya,mag}~
+
+     {MAG}You are standing near a large pile of glowing blue
+     Crystals.  Those little drone beasts you saw earlier appear
+     To be eating this stuff....What's wrong with this picture?
+     Wait, what's that thing they're heading off too.....
+
+~
+337 1 5
+D0
+~
+~
+0 -1 33718
+D1
+~
+~
+0 -1 33717
+D2
+~
+~
+0 -1 33719
+D3
+~
+~
+0 -1 33716
+Z16
+C-1
+S
+#33718
+{MAG}The {CYAN}Hive{cyan}~
+
+     {MAG}Congratulations!!!! You have finally made it...but what
+     Exactly have you made it to?  As you approach this huge...
+     Thing it seems to stiffen in response to you.  Hey what are
+     All those little things doing heading your way...And what
+     In the Heck is that {BLUE}BEAST{MAG} coming after you!!!!!
+
+~
+337 49 5
+D2
+~
+~
+0 -1 33717
+Z16
+C-1
+S
+#33719
+{MAG}Near the Hydralisk Den.{mag}~
+You are standing in nowhere !!!!
+~
+337 40961 5
+D0
+~
+~
+0 -1 33717
+D3
+~
+~
+0 -1 33716
+Z0
+C-1
+S
+#33720
+{BLUE}A road in the city{blue}~
+You are standing in nowhere !!!!
+~
+337 262144 1
+D0
+~
+~
+0 -1 33740
+D2
+~
+~
+0 -1 33703
+D3
+~
+~
+0 -1 33721
+Z0
+C-1
+S
+#33721
+{BLUE}Along the city wall{blue}~
+You are standing in nowhere !!!!
+~
+337 0 1
+D0
+~
+~
+0 -1 33727
+D1
+~
+~
+0 -1 33720
+D3
+~
+~
+0 -1 33726
+Z0
+C-1
+S
+#33722
+{BLUE}The {MAG}Zerg{mag} {BLUE}border{blue}~
+You are standing in nowhere !!!!
+~
+337 262144 1
+D0
+~
+~
+0 -1 33723
+D1
+~
+~
+0 -1 33727
+D2
+~
+~
+0 -1 33726
+Z0
+C-1
+S
+#33723
+{BLUE}The {MAG}Zerg{mag} {BLUE}border{blue}~
+You are standing in nowhere !!!!
+~
+337 262144 1
+D0
+~
+~
+0 -1 33724
+D1
+~
+~
+0 -1 33739
+D2
+~
+~
+0 -1 33722
+Z0
+C-1
+S
+#33724
+{BLUE}The {MAG}Zerg{mag} {BLUE}border{blue}~
+You are standing in nowhere !!!!
+~
+337 262144 1
+D0
+~
+~
+0 -1 33725
+D1
+~
+~
+0 -1 33738
+D2
+~
+~
+0 -1 33723
+Z0
+C-1
+S
+#33725
+{BLUE}The {MAG}Zerg{mag} {BLUE}border{blue}~
+You are standing in nowhere !!!!
+~
+337 262144 1
+D0
+~
+~
+0 -1 33728
+D1
+~
+~
+0 -1 33737
+D2
+~
+~
+0 -1 33724
+Z0
+C-1
+S
+#33726
+{BLUE}Along the city wall{blue}~
+You are standing in nowhere !!!!
+~
+337 0 1
+D0
+~
+~
+0 -1 33722
+D1
+~
+~
+0 -1 33721
+Z0
+C-1
+S
+#33727
+{BLUE}The Supply Depot{blue}~
+You are standing in nowhere !!!!
+~
+337 0 1
+D0
+~
+~
+0 -1 33739
+D1
+~
+~
+0 -1 33740
+D2
+~
+~
+0 -1 33721
+D3
+~
+~
+0 -1 33722
+Z0
+C-1
+S
+#33728
+{BLUE}The {MAG}Zerg{mag} {BLUE}border{blue}~
+You are standing in nowhere !!!!
+~
+337 262144 1
+D0
+~
+~
+0 -1 33729
+D1
+~
+~
+0 -1 33736
+D2
+~
+~
+0 -1 33725
+Z0
+C-1
+S
+#33729
+{BLUE}The {MAG}Zerg{mag} {BLUE}border{blue}~
+You are standing in nowhere !!!!
+~
+337 262144 1
+D0
+~
+~
+0 -1 33730
+D1
+~
+~
+0 -1 33735
+D2
+~
+~
+0 -1 33728
+Z0
+C-1
+S
+#33730
+{BLUE}The {MAG}Zerg{mag} {BLUE}border{blue}~
+You are standing in nowhere !!!!
+~
+337 0 1
+D0
+~
+~
+0 -1 33731
+D1
+~
+~
+0 -1 33733
+D2
+~
+~
+0 -1 33729
+Z0
+C-1
+S
+#33731
+{BLUE}The {MAG}Zerg{BLUE} border{blue}~
+You are standing in nowhere !!!!
+~
+337 262144 1
+D1
+~
+~
+0 -1 33732
+D2
+~
+~
+0 -1 33730
+Z0
+C-1
+S
+#33732
+{BLUE}Along the city walls{blue}~
+You are standing in nowhere !!!!
+~
+337 0 1
+D1
+~
+~
+0 -1 33734
+D2
+~
+~
+0 -1 33733
+D3
+~
+~
+0 -1 33731
+Z0
+C-1
+S
+#33733
+{BLUE}The Supply Depot{blue}~
+You are standing in nowhere !!!!
+~
+337 262144 1
+D0
+~
+~
+0 -1 33732
+D1
+~
+~
+0 -1 33746
+D2
+~
+~
+0 -1 33735
+D3
+~
+~
+0 -1 33730
+Z0
+C-1
+S
+#33734
+{BLUE}The end of the road{blue}~
+You are standing in nowhere !!!!
+~
+337 262144 1
+D2
+~
+~
+0 -1 33746
+D3
+~
+~
+0 -1 33732
+Z0
+C-1
+S
+#33735
+{BLUE}The Supply Depot{blue}~
+You are standing in nowhere !!!!
+~
+337 262144 1
+D0
+~
+~
+0 -1 33733
+D1
+~
+~
+0 -1 33745
+D2
+~
+~
+0 -1 33736
+D3
+~
+~
+0 -1 33729
+Z0
+C-1
+S
+#33736
+{BLUE}A hole in the depot{blue}~
+You are standing in nowhere !!!!
+~
+337 262144 1
+D0
+~
+~
+0 -1 33735
+D1
+~
+~
+0 -1 33744
+D2
+~
+~
+0 -1 33737
+D3
+~
+~
+0 -1 33728
+Z0
+C-1
+S
+#33737
+{BLUE}The Supply Depot{blue}~
+You are standing in nowhere !!!!
+~
+337 262144 1
+D0
+~
+~
+0 -1 33736
+D1
+~
+~
+0 -1 33743
+D2
+~
+~
+0 -1 33738
+D3
+~
+~
+0 -1 33725
+Z0
+C-1
+S
+#33738
+{BLUE}The Supply Depot{blue}~
+You are standing in nowhere !!!!
+~
+337 262144 1
+D0
+~
+~
+0 -1 33737
+D1
+~
+~
+0 -1 33742
+D2
+~
+~
+0 -1 33739
+D3
+~
+~
+0 -1 33724
+Z0
+C-1
+S
+#33739
+{BLUE}The Supply Depot{blue}~
+You are standing in nowhere !!!!
+~
+337 0 1
+D0
+~
+~
+0 -1 33738
+D1
+~
+~
+0 -1 33741
+D2
+~
+~
+0 -1 33727
+D3
+~
+~
+0 -1 33723
+Z0
+C-1
+S
+#33740
+{BLUE}The main road{blue}~
+You are standing in nowhere !!!!
+~
+337 262144 1
+D0
+~
+~
+0 -1 33741
+D2
+~
+~
+0 -1 33720
+D3
+~
+~
+0 -1 33727
+Z0
+C-1
+S
+#33741
+{BLUE}The main road{blue}~
+You are standing in nowhere !!!!
+~
+337 262144 1
+D0
+~
+~
+0 -1 33742
+D2
+~
+~
+0 -1 33740
+D3
+~
+~
+0 -1 33739
+Z0
+C-1
+S
+#33742
+{BLUE}The main road{blue}~
+You are standing in nowhere !!!!
+~
+337 262144 1
+D0
+~
+~
+0 -1 33743
+D2
+~
+~
+0 -1 33741
+D3
+~
+~
+0 -1 33738
+Z0
+C-1
+S
+#33743
+{BLUE}The main road{blue}~
+You are standing in nowhere !!!!
+~
+337 262144 1
+D0
+~
+~
+0 -1 33744
+D2
+~
+~
+0 -1 33742
+D3
+~
+~
+0 -1 33737
+Z0
+C-1
+S
+#33744
+{BLUE}The main road{blue}~
+You are standing in nowhere !!!!
+~
+337 262144 1
+D0
+~
+~
+0 -1 33745
+D2
+~
+~
+0 -1 33743
+D3
+~
+~
+0 -1 33736
+Z0
+C-1
+S
+#33745
+{BLUE}The main road{blue}~
+You are standing in nowhere !!!!
+~
+337 262144 1
+D0
+~
+~
+0 -1 33746
+D2
+~
+~
+0 -1 33744
+D3
+~
+~
+0 -1 33735
+Z0
+C-1
+S
+#33746
+{BLUE}The main road{blue}~
+You are standing in nowhere !!!!
+~
+337 0 1
+D0
+~
+~
+0 -1 33734
+D2
+~
+~
+0 -1 33745
+D3
+~
+~
+0 -1 33733
+Z0
+C-1
+S
+#33799
+{YELLOW}Artanis's Dorm Room{yellow}~
+     {BLUE}You see a cluttered dorm room, with homework papers
+that should have been done weeks ago littered about the room.
+A TV in the corner with several borrowed chairs fills up nearly
+all the walking space, and the computer in the corner looks like
+it hasn't been used for work....ever....  The black lights and lava
+lamp complete the soft mood room while the bed awaits company.
+~
+337 262144 1
+Z0
+C-1
+S
+$~

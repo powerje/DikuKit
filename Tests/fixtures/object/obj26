@@ -1,0 +1,580 @@
+#2600
+boots silver~
+{BO,BLA}The Boots of {bo,bla}{WHI}SILVER{whi}~
+{BO,BLA}A pair of {BO,WHI}Silver {BO,BLA}boots are sitting here on the ground.{bo,bla}~
+(null)~
+9 1025 0 65
+8 0 0 0
+20 8750 1050
+A
+19 4
+A
+18 3
+C
+7000 2
+#2601
+shield silver silverel magnificent~
+{RE}A Magnificent {BO,WHI}Silverel{bo,whi}{RE} Shield {re}~
+{BO,BLUE}A glimmer of {BO,WHI}silverel {BO,BLUE}shines up at you from the floor.~
+(null)~
+9 1025 0 513
+8 0 0 0
+10 8750 1050
+A
+17 -2
+C
+7000 1
+#2602
+sword master masters blade~
+{BO,RE}T{BO,WH}h{RE}e{bo,re}{YEL} Master's {BO,RE}B{BO,WHI}l{BO,RE}a{WHI}d{RE}e{re}~
+{YEL}Dried blood covers the entire blade of this forgotten sword.{yel}~
+(null)~
+5 1025 0 8193
+0 4 7 3
+16 22000 11000
+A
+1 2
+A
+2 -2
+C
+7000 2
+#2603
+dagger golden~
+{Y}A {Y}{BOLD}GOLDEN{y}{bold}{Y} DAGGER{y}~
+{MAG}A dagger's handle is sticking out from the ground...{mag}~
+(null)~
+5 32771 64 8193
+2 6 5 11
+3 100 100
+A
+18 4
+A
+19 3
+C
+7000 2
+#2604
+key rusted~
+{WHI}A Rusted Key{wh}~
+{WHI}A key is here, covered from top to bottom with {RE}rust{re}~
+(null)~
+18 65536 0 16385
+2 0 0 0
+2 200 0
+#2605
+spear jagged draconian~
+{RE}A{YEL} J{RE}a{YEL}g{RE}g{YEL}e{RE}d {BO,RE}Draconian{bo,re} {RE}S{YEL}p{RE}e{YEL}a{RE}r{re}~
+{bo}{YEL}There is a spear here, the tip showing signs of a recent kill.{yel}~
+(null)~
+5 0 0 8193
+1 7 5 11
+3 4000 1500
+A
+2 2
+A
+18 3
+C
+7000 2
+#2606
+dagger silver~
+{WHI}A Dagger of Silver{whi}~
+{WHI}{bo}{WHI}A silver glimmer, half buried in the dirt, catches your eye{whi}~
+(null)~
+5 1 0 8193
+2 3 5 11
+1 1000 200
+A
+18 2
+A
+19 3
+B
+268435456
+C
+7000 1
+#2607
+tooth dagger dragon dragons~
+{RE}A {GREEN}Dragon's{RE} Tooth{re}~
+{GRE}{bo}{GRE}A large ivory dagger is here. It looks ridiculously sharp!{gre}~
+(null)~
+5 0 0 8193
+0 3 5 11
+8 34464 50000
+E
+knife dragon dragons tooth~
+
+{YE}   At first glance,  you realize that what you're holding
+   can't be what it is.  But it is! Or is it? You're only
+   confusing yourself. But this is a dragon's tooth, with
+   a handle  carved into the  base to form  a  formidable 
+   weapon.{ye}
+
+~
+A
+2 1
+A
+19 2
+C
+7000 1
+#2608
+bracelet scale dragon dragonscale~
+{GR}{bo}{CYA}A {GRE}Dragonscale {CYA}Bracelet{cya}~
+{BO,GRE}It looks as if a dragon must have shed some of his scales here.{bo,gre}~
+(null)~
+9 0 0 4097
+10 0 0 0
+4 40000 10000
+A
+2 1
+A
+19 3
+C
+7000 2
+#2609
+belt black silk~
+{BO,BLA}A Black {bo,bla}{WHI}Silk {BO,BLA}Belt{bo,bla}~
+{BO,BLA}A black silk belt is here with strands of white silk peppered along it{bo,bla}~
+(null)~
+9 0 0 2049
+6 0 0 0
+5 10000 4000
+A
+5 4
+C
+7000 2
+#2610
+belt silk white~
+{WHI}{bo}{WHI}A White {BO,BLA}Silk {bo,bla}{WHI}Belt{whi}~
+{WHI}{bo}{WHI}A white silk belt is here with strands of black wilk peppered along it{whi}~
+(null)~
+9 1 0 2049
+10 7 7 7
+5 50000 25000
+A
+13 25
+A
+12 25
+C
+7000 2
+#2611
+bracelet pearl~
+{BO,WHI}O{BLA}--{WHI}O{BLA}--{WHI}O{BLA}--{WHI}O {BO,RED}A Pearl Bracelet {BO,WHI}O{BLA}--{WHI}O{BLA}--{WHI}O{BLA}--{WHI}O{whi}~
+{BO,WHI}A number of pearls, all stringed together, are piled on the floor.{bo,whi}~
+(null)~
+9 1 0 4097
+6 0 0 0
+5 50000 25000
+A
+19 1
+A
+18 3
+C
+7000 2
+#2620
+symbol holy cross~
+{MAG}A Symbol of the Holy {WHI}C{MAG}r{WHI}o{MAG}s{WHI}s{whi}~
+{MAG}{bo}{MAG}An emblem of a cross with a string around it is here{mag}~
+(null)~
+9 1 0 16389
+12 0 0 0
+2 50000 5000
+E
+symbol holy cross~
+
+   {CY}This symbol conjures up  feelings of extreme faith 
+   {MAG}and devotion.  Men and  women have worshipped this 
+   {WHI}symbol and have even died for it. Whether everyone
+   {RED}worships it is irrelevant. Everybody respects it.{red}
+
+~
+A
+20 -5
+A
+12 50
+B
+536870912
+C
+7000 1
+#2621
+THIS OBJECT IS NOT IN THE ZONE~
+a plain black robe~
+A black robe is hanging on a hook on the wall.~
+(null)~
+9 0 0 1025
+5 0 0 0
+3 50000 5000
+A
+19 2
+C
+7000 1
+#2622
+sword sword magical emerald~
+{BO,GREE}A {bo,gree}{GRE}Magical{gre} {BO,GRE}E{bo,gr}{GR}m{BO,GRE}e{bo,gr}{GR}r{BO,GRE}a{bo,gr}{GR}l{BO,GRE}d Sword{bo,gre}~
+{GR}{bo}{GRE}A sharp blade is here and it looks as if it's made of a green beryl.{gre}~
+(null)~
+5 4096 0 8193
+1 10 9 3
+14 3392 100000
+E
+sword sword magical emerald~
+
+{BO,GRE}   This green beryl gem is very  difficult to come across 
+  {CY} in not only Draconia, but all of the Crossroads. It is
+   {GRE}even more  rare to come across  some of  the  precious 
+   {CY}material crafted into a weapon. {cy}
+
+~
+A
+19 4
+A
+13 25
+L
+30
+C
+7000 2
+#2623
+mallet stone club~
+{YEL}A {WHI}Stone {YEL}Mallet{yel}~
+{WHI}{bo}{WHI}A large slab of stone is sitting painfully on your foot.{whi}~
+(null)~
+5 0 0 8193
+0 3 5 8
+18 7500 5000
+E
+mallet stone club~
+
+ {WHI}  Although tremendously heavy,  this weapon is often used
+   by some of the stronger warriors of Draconia. The shaft 
+   is made of Draconian wood and carved  to fit your hands
+   perfectly.  A stone sits at the  end of the {RE}wood{WHI},  tied
+   securely with dried {YEL}leather{yel}{WHI}. You give it a swing or two
+   and nod in satisfaction.{whi}
+
+~
+C
+7000 2
+#2624
+ring diamond stone~
+{BO,CY}A Beautiful {BO,MAG}Diamond {BO,WHI}Ring{bo,whi}~
+{BO,MAG}An extravagant piece of jewelry is here on the ground {BO,WHI}{BLI}SHIMMERING{bo,whi}{blink}.~
+(null)~
+9 0 0 3
+4 0 0 0
+6 50000 10000
+A
+18 3
+A
+19 3
+C
+7000 1
+#2630
+ring copper~
+{YEL}{bo,yel}{YEL}A Copper Coated {RE}R{GRE}I{CY}N{WHI}G{whi}~
+A copper circle is on the ground, partially covered in dirt.~
+(null)~
+9 0 0 3
+1 0 0 0
+1 34464 25000
+A
+4 2
+C
+7000 1
+#2631
+key steel~
+{MAG}{bo}{MAG}A {BO,WHI}Steel {bo,whi}{MAG}Key{mag}~
+{MAG}{bo}{MAG}There's a key here - It's not an ordinary key. It's a {BO,WHI}Steel{bo,red}{MAG} Key.{mag}~
+(null)~
+18 0 0 1
+0 0 0 0
+1 500 1000
+#2632
+key ruby~
+{MAG}{bo}{MAG}A {BO,RED}Ruby {bo,re}{MAG}Key{mag}~
+{MAG}{bo}{MAG}There's a key here - It's not an ordinary key. It's a {BO,RED}RUBY{bo,red}{MAG} Key.{mag}~
+(null)~
+18 0 0 1
+0 0 0 0
+1 500 1000
+#2633
+key white~
+a white key~
+A white key.~
+(null)~
+18 0 0 1
+0 0 0 0
+1 500 1000
+#2634
+key grey~
+{MAG}{bo}{MAG}A {BO,WHI}Grey {bo,whi}{MAG}Key{mag}~
+{MAG}{bo}{MAG}There's a key here - It's not an ordinary key. It's a {BO,WHI}GREY{bo,red}{MAG} Key.{mag}~
+(null)~
+18 0 0 1
+0 0 0 0
+1 500 1000
+#2637
+key stone~
+{MAG}{bo}{MAG}A {BO,WHI}Stone {bo,whi}{MAG}Key{mag}~
+{MAG}{bo}{MAG}There's a key here - It's not an ordinary key. It's a {BO,WHI}STONE{bo,whi}{MAG} Key.{mag}~
+(null)~
+18 0 0 1
+0 0 0 0
+1 500 1000
+#2640
+key black~
+{MAG}{bo}{MAG}A {BO,BLA}Black {bo,bla}{MAG}Key{mag}~
+{MAG}{bo}{MAG}There's a key here - It's not an ordinary key. It's a {BO,BLA}BLACK{bo,bla}{MAG} Key.{mag}~
+(null)~
+18 0 0 1
+0 0 0 0
+1 500 1000
+#2641
+key platinum~
+{MAG}{bo}{MAG}A {WHI}Platinum {MAG}Key{mag}~
+{MAG}{bo}{MAG}There's a key here - It's not an ordinary key. It's a {WHI}PLATINUM{whi}{MAG} Key.{mag}~
+(null)~
+18 0 0 1
+0 0 0 0
+1 500 1000
+#2642
+shield coat of arms coatofarms draconian~
+{BO,RE}A Shield {bo,re}{YEL}Emblazoned{BO,YEL} With The {bo,yel}{RED}Draconian{BO,RE} Coat-Of-Arms{bo,re}~
+{RE}{bo}{RE}A freshly polished shield is glistening in the light.{re}~
+(null)~
+9 0 64 513
+11 0 0 0
+5 3392 100000
+A
+19 4
+A
+18 4
+B
+134217728
+C
+7000 2
+#2643
+wand magical draconia~
+{BO,BLA}======={BO,YEL}* {bo,yel}{RED}-{YEL}@{RE}{YEL}^{RE}*{BOLD,CYA}  The Magic Wand of Draconia{bo,cya}~
+{BO,CY}A...Magic...Wand - It's pulsating!{bo,cya}~
+(null)~
+3 4097 0 16385
+50 10 10 39
+5 10000 5000
+L
+40
+#2644
+staff silver~
+{WHI}A Silver Staff{whi}~
+{WHI}{bo}{WHI}A long silver pole is here. It's generating a small {BO,WHI}white aura.{bo,whi}~
+(null)~
+5 65 0 24577
+2 8 4 7
+5 10000 5000
+A
+27 4
+A
+19 5
+B
+262272
+C
+7000 1
+#2645
+staff dragon mystical~
+{BLA}{BOL}A {Y}mystical{G} Dragon{BLA} Staff{bla}~
+{YEL}{bo}{YEL}An oak staff is lying here with ancient {BO,RE}runes{bo,re}{YEL} inscribed into the wood.{yel}~
+(null)~
+4 65 0 16385
+50 1 1 146
+5 10000 3000
+#2646
+copper plate armor~
+{YEL}A suit of copper plate armor{yel}~
+{YEL}{bo}{YEL}A copper plate mail lies here.{yel}~
+(null)~
+9 1 64 9
+25 0 0 0
+25 34464 20000
+A
+19 5
+A
+1 5
+C
+7000 2
+#2650
+staff death black~
+{BO,BLA}The Necromancer's Black Staff of Death{bo,bla}~
+{BO,BLA}You noticed the faint outline of a staff.{bo,bla}~
+(null)~
+4 1 0 16385
+50 1 1 166
+6 1 1
+B
+4096
+#2651
+potion cyan~
+{BO,BLA}A {BO,CY}Cyan {BO,BLA}Potion{bo,bla}~
+{BO,CY}A glass bottle is capped and lying on it's side, it's cyan contents sealed safely inside.{bo,cy}~
+(null)~
+10 0 0 1
+30 4 27 0
+1 40000 1000
+#2652
+potion magenta~
+{BO,BLA}A {BO,MAG}Magenta {BO,BLA}Potion{bo,bla}~
+{BO,MAG}A magenta potion is here, the glass corked tightly.{bo,mag}{bo}~
+(null)~
+10 128 0 1
+30 15 34 0
+1 2000 100
+#2654
+gauntlets spiked~
+{BLU}{BOLD}a pair of{bol}{WH} spiked{BLU} gauntlets{blu}~
+{WHI}{bo}{WHI}A pair of gauntlets is waiting to be picked up.{whi}~
+(null)~
+9 65 0 129
+8 0 0 0
+10 50000 5000
+A
+19 4
+A
+1 2
+C
+7000 1
+#2660
+scimitar golden~
+{YEL}a {BO,YEL}golden{bo,yel}{YEL} scimitar{yel}~
+{BO,YEL}A piece of metal is sitting on a rick, glimmering in the sun.{bo,yel}~
+(null)~
+5 1 0 8193
+0 3 5 3
+10 40000 7000
+A
+3 1
+A
+4 1
+C
+7000 1
+#2661
+brooch diamond~
+{CY}a {MAG}d{BO,WHI}i{bo,whi}{MAG}a{BO,WHI}{bo,whi}m{MAG}o{BO,WHI}{bo,whi}n{MAG}d {CY}brooch{cy}~
+{MAG}{bo}{MAG}Hundreds of tiny diamonds cover the brooch here.{mag}~
+(null)~
+9 64 0 5
+10 0 0 0
+2 10000 4000
+A
+18 4
+A
+12 50
+B
+8
+C
+7000 2
+#2670
+scroll runed~
+{RE}a{BO,RE} r{bo,re}{RE}u{BO,RE}n{bo,re}{RE}e{BO,RE}d{bo,re}{RE} scroll{re}~
+{RE}{bo}{RE}You can sense the magic emanating from this open scroll.{re}~
+(null)~
+2 64 0 16385
+30 1 34 67
+1 5000 500
+#2671
+gloves dragon~
+{GR}a {CY}pair {GR}of {CY}dragon {GR}skin{CY} gloves{cy}~
+{GR}It appears as if somebody has skinned a dragon and created gloves with his hide!{gre}~
+(null)~
+9 0 0 129
+12 0 0 0
+5 40000 15000
+A
+19 4
+A
+2 3
+C
+7000 2
+#2675
+helm dragon kind~
+{RE}a helm of {BO,GRE}d{RE}r{GR}a{RE}g{GR}o{RE}n{GR} k{RE}i{GR}n{RE}d{re}~
+{RE}{bo}{RE}A helm made of a {GRE}dragon's skull{RE} is lying on the floor.{re}~
+(null)~
+9 0 0 17
+12 0 0 0
+10 30000 6000
+A
+13 65
+A
+18 4
+B
+67117056
+C
+7000 10
+#2676
+cloak fur~
+{CY}A {YEL}Fur {CY}Cloak{cy}~
+{YEL}{bo}{YEL}A large mound of fur is here. It's the perfect protection from the chill!{yel}~
+(null)~
+9 0 0 1025
+12 0 0 0
+15 25000 10000
+A
+1 2
+A
+13 25
+C
+7000 2
+#2680
+leggings dragon scale dragonscale~
+{WHI}a pair {GR}of dragon scale {WHI}leggings{whi}~
+{BO,GR}A pair of leggings made of dragon scale are here waiting to be used.{bo,gre}~
+(null)~
+9 0 0 33
+8 0 0 0
+10 35000 4000
+A
+19 3
+A
+18 3
+C
+7000 1
+#2681
+sleeves dragon scale dragonscale~
+{WHI}a pair {GRE}of dragon scale{WHI} sleeves{whi}~
+{GRE}{bo}{GR}A pair of coverings for ones arms are sitting side by side here.{gre}~
+(null)~
+9 4096 0 257
+11 0 0 0
+6 30000 3000
+A
+19 3
+A
+4 4
+L
+30
+C
+7000 2
+#2685
+whip dragon tail~
+{GR}a {BO,GR}dragon{bo,gr}{GR} tailed  {YEL}o-\{WH}w{YE}/{WH}h{YEL}\/{WHI}i{YEL}\{WHI}p{YEL}/*{yel}~
+{YEL}A long and thick whip is curled around your foot.{yel}~
+(null)~
+5 2 0 3
+2 2 2 2
+2 2 2
+C
+7000 2
+#2686
+hammer copper~
+{BO,WHI}A {bo,whi}{YEL}Copper {BO,WHI}Hammer{bo,whi}~
+{YEL}{bo}{YEL}A hammer that looks as if it's been severely negelected is here.{yel}~
+(null)~
+5 0 0 8193
+0 3 5 8
+12 30000 15000
+C
+7000 1
+#2699
+key gold tarnished~
+{BO,BLA}A tarnished key{bo,bla}~
+{BO,BLA}A jeweled key that looks as if it used to show signs of magnificence is now lying here, severely tarnished.{bo,bla}~
+(null)~
+18 0 0 1
+0 0 0 0
+1 500 1000
+$~

@@ -1,0 +1,2468 @@
+#17200
+{RED}The Begining{red}~
+  
+   {BLA,BO}Smoke fills the air here due to a tank that is
+   burning and badly damaged. The air is thick with
+   black smoke. It is very hard to breath. Every
+   breath is toxic. Nothing but the burning tank and
+   the billowing fire can be made out. The heat from
+   the blaze is intense and overwhelming. There is 
+   no way that breathing in this smoke and heat can 
+   be healthy.{bla} 
+ 
+~
+172 1073741828 1
+M50
+X4194304
+Y80
+Z3
+C2
+R0
+S
+#17201
+{RED,BO}Entering the battle{red}~
+
+   {RED}A dense smoke covers the battlegrounds. Sounds of gunfire
+   and explosions are all around. In the distance you can 
+   hear commanders yelling orders to their troops. You can
+   make out a trooper running through the smoke. You can
+   see many different color flares burst through the sky. 
+   Planes roar by the battlegrounds letting out spurts of
+   gunfire. The sounds of heavy tanks racing through the
+   battlegrounds and then letting out a loud boom is almost
+   deafening. Slowly your unit makes way through the
+   battle to find shelter from the killing.{red} 
+
+~
+172 1073741825 1
+D0
+~
+~
+0 -1 17202
+Z3
+C2
+R0
+S
+#17202
+{RED,BO}COBRA HAS WON!{red}~
+
+   {RED,BO}Unfortunately COBRA has won this battle. G.I. JOE 
+   was not strong enough to take control of the COBRA
+   compound. Retreat while you still can.{red} 
+
+~
+172 7 9
+D1
+~
+~
+0 -1 17203
+D2
+~
+~
+0 -1 17201
+D3
+~
+passage~
+1 0 17208
+X6
+Z6
+C-1
+R0
+S
+#17203
+{RED,BO}Entering the battle{red}~
+
+   {RED}A dense smoke covers the battlegrounds. Sounds of gunfire
+   and explosions are all around. In the distance you can 
+   hear commanders yelling orders to their troops. You can
+   make out a trooper running through the smoke. You can
+   see many different color flares burst through the sky. 
+   Planes roar by the battlegrounds letting out spurts of
+   gunfire. The sounds of heavy tanks racing through the
+   battlegrounds and then letting out a loud boom is almost
+   deafening. Slowly your unit makes way through the
+   battle to find shelter from the killing.{red} 
+
+~
+172 1073741825 1
+D1
+~
+~
+0 -1 17204
+D3
+~
+~
+0 -1 17202
+Z3
+C2
+R0
+S
+#17204
+{RED,BO}Outside the battlegrounds.{red}~
+
+   {GREE,BO}You have entered a small thicket of trees outside of the
+   battlegrounds. This should provide some cover from the
+   ongoing battle. The bullets still make a screaming noise
+   as they wiz by. The smoke penetrates the trees making it
+   hard to tell which of the troopers are friendly and which
+   are enemies.{gree}
+
+~
+172 1073741825 1
+D0
+There appears to be a portion of the wall that is
+   weak here. It may be able to be picked open with 
+   the right tool.
+
+~
+Hole~
+2 17203 17206
+D3
+~
+~
+0 -1 17203
+Z6
+C2
+R0
+S
+#17205
+{YELL}The commanders tent{yell}~
+
+   {YELLO}This tent looks as if it could only house one person. 
+   It smells of mold and smoke. There is only one way
+   in and out of the tent. One single bed is against 
+   the far wall.{yell}
+
+~
+172 1073741848 0
+D0
+~
+~
+0 -1 17273
+D2
+~
+~
+0 -1 17274
+Z1
+C2
+R0
+S
+#17206
+{CYAN}Inside the compound{cyan}~
+
+   {CYAN}The hallways of the compound are cold and lonely. The
+   building itself looks to be in disarray. There are copper
+   pipes running along the ceilings and walls. Some of 
+   them are leaking. The fuorescent {WHI}lighting {CYA}flickers in
+   and out. The footsteps of the compound guards can be
+   heard along the halls. Occasionally, you can hear the
+   whispers of the guards.{cyan}
+
+~
+172 1073741848 1
+D2
+~
+Hole~
+1 -1 17204
+D3
+~
+~
+0 -1 17210
+E
+lighting~
+ 
+   {WHI,BO,BLINK}  ___  ___                __                      
+    /'___\/\_ \    __        /\ \                     
+   /\ \__/\//\ \  /\_\    ___\ \ \/'\      __   _ __  
+   \ \ ,__\ \ \ \ \/\ \  /'___\ \ , <    /'__`\/\`'__\
+    \ \ \_/  \_\ \_\ \ \/\ \__/\ \ \\`\ /\  __/\ \ \/ 
+     \ \_\   /\____\\ \_\ \____\\ \_\ \_\ \____\\ \_\ 
+      \/_/   \/____/ \/_/\/____/ \/_/\/_/\/____/ \/_/ {whi}
+ 
+ 
+~
+Z1
+C2
+R0
+S
+#17207
+{WHI}A small break room{whi}~
+   
+   {BLA,BO}This break room is filthy from one end to the other.
+   There is a coffee pot on the counter with a black
+   film lining. There are black stains all over the 
+   countertop. The trashcan is pouring over. The floors
+   are covered in dirt and food. The room smells like 
+   rotten fruit. The furnace is adding to the sickening
+   stench.{bla}
+ 
+~
+172 24 0
+D1
+~
+~
+0 -1 17274
+D2
+~
+~
+0 -1 17226
+Z1
+C-1
+R0
+S
+#17208
+{CYAN}An intersection{cyan}~
+
+   {CYAN}The hallways of the compound are cold and lonely. The
+   building itself looks to be in disarray. There are copper
+   pipes running along the ceilings and walls. Some of 
+   them are leaking. The fuorescent {WHI}lighting {CYA}flickers in
+   and out. The footsteps of the compound guards can be
+   heard along the halls. Occasionally, you can hear the
+   whispers of the guards.{cyan}
+
+~
+172 1073741848 1
+D1
+~
+passage~
+1 -1 17202
+D2
+~
+~
+0 -1 17211
+E
+lighting~
+
+     {WHI,BO,BLINK} ___  ___                __                      
+    /'___\/\_ \    __        /\ \                     
+   /\ \__/\//\ \  /\_\    ___\ \ \/'\      __   _ __  
+   \ \ ,__\ \ \ \ \/\ \  /'___\ \ , <    /'__`\/\`'__\
+    \ \ \_/  \_\ \_\ \ \/\ \__/\ \ \\`\ /\  __/\ \ \/ 
+     \ \_\   /\____\\ \_\ \____\\ \_\ \_\ \____\\ \_\ 
+      \/_/   \/____/ \/_/\/____/ \/_/\/_/\/____/ \/_/ {whi}
+
+~
+Z1
+C2
+R0
+S
+#17209
+{WHI}The office of DESTRO{whi}~
+  
+   {YELL}This is the office of the great DESTRO. Everything here
+   is neatly arranged. There is a large oak desk with a
+   nameplate sitting on it. There is a huge map spread 
+   out on top of the desk with G.I. JOE Compound written
+   at the top of it. Letters and files are neatly stacked
+   on the left corner. On the right hand side of the desk
+   is a bright red telephone. Some filing cabinets are lined
+   along the back wall. Along the walls are paintings. It
+   would appear that this DESTRO is a refined man for an
+   evil genius.{yell}
+ 
+~
+172 8 1
+E
+17210~
+q
+q
+~
+Z1
+C-1
+R0
+S
+#17210
+{CYAN}Inside the compound{cyan}~
+
+   {CYAN}The hallways of the compound are cold and lonely. The
+   building itself looks to be in disarray. There are copper
+   pipes running along the ceilings and walls. Some of 
+   them are leaking. The fuorescent {WHI}lighting {CYA}flickers in
+   and out. The footsteps of the compound guards can be
+   heard along the halls. Occasionally, you can hear the
+   whispers of the guards.{cyan}
+
+~
+172 1073741848 1
+D1
+~
+~
+0 -1 17206
+D4
+~
+~
+0 -1 17214
+E
+lighting~
+
+     {WHI,BO,BLINK} ___  ___                __                      
+    /'___\/\_ \    __        /\ \                     
+   /\ \__/\//\ \  /\_\    ___\ \ \/'\      __   _ __  
+   \ \ ,__\ \ \ \ \/\ \  /'___\ \ , <    /'__`\/\`'__\
+    \ \ \_/  \_\ \_\ \ \/\ \__/\ \ \\`\ /\  __/\ \ \/ 
+     \ \_\   /\____\\ \_\ \____\\ \_\ \_\ \____\\ \_\ 
+      \/_/   \/____/ \/_/\/____/ \/_/\/_/\/____/ \/_/ {whi}
+
+~
+Z1
+C2
+R0
+S
+#17211
+{CYAN,BO}Before the holding cells{cyan}~
+
+   {BLA,BO}This room is surrounded by steal bars. There is 
+   a {RED}sign{BLA} hung to a wall. You can here the sound of
+   someone walking on the other side of the wall.
+   The single light in the center of the ceiling is
+   barely enough to light the small room up.{bla}
+
+~
+172 1073741832 0
+D0
+~
+~
+0 -1 17208
+D3
+~
+~
+0 -1 17212
+E
+sign~
+
+   {YELL,BO}*****************************************************
+   *  {RED}ANY UNAUTHORIZED PERSONNEL IN THIS AREA WILL BE{YELL}  *
+   *  {RED}SHOT. THERE WILL BE NO EXCEPTIONS.{YELL}               *
+   *                                                   *
+   *****************************************************{yell}
+
+~
+Z1
+C2
+R0
+S
+#17212
+{CYAN,BO}The holding cells{cyan}~
+   
+  {RED,BO} One inch thick steel bars surround the cells. It looks as
+   if someone might have a hard time breaking in or out of 
+   them. Large deadbolts hold the cells closed. There are 
+   no windows to allow sunlight in, making it rather hard
+   to see. There is a desk as you enter the room with a sign
+   above it. The sign says bailer. On the desk is a {WHI}list{RED} of
+   inmates and cells.{red}
+ 
+~
+172 1073741848 1
+D1
+~
+~
+0 -1 17211
+D2
+~
+Cell~
+1 -1 17213
+E
+list~
+
+   {WHI,UND}CELL         NAME{whi}
+  {WHI} 1A           LOW LIGHT
+   1B           BEACH HEAD
+   1C           BLOW TORCH{whi}
+
+~
+Z1
+C2
+R0
+S
+#17213
+CELL A~
+
+   {BLA,BO}Inside the cell there is no light to be seen. 
+   There are stains along the wall and floors.
+   There is no cot to sleep on. The only type
+   of toiletries seen here is a small drain in
+   the floor. There are two chains with shackles
+   attached to the back wall for restraining a
+   prisoner. The smell of rot fills the air
+   inside the cell.{bla}
+
+~
+172 1073741832 1
+D0
+~
+Cell~
+1 -1 17212
+D2
+~
+~
+0 -1 17217
+Z1
+C2
+R0
+S
+#17214
+{CYAN}The second floor of the compound{cyan}~
+
+   {CYAN}The hallways of the compound are cold and lonely. The
+   building itself looks to be in disarray. There are copper
+   pipes running along the ceilings and walls. Some of 
+   them are leaking. The fuorescent {WHI}lighting {CYA}flickers in
+   and out. The footsteps of the compound guards can be
+   heard along the halls. Occasionally, you can hear the
+   whispers of the guards.{cyan}
+
+~
+172 1073741848 1
+D1
+~
+Storage~
+1 -1 17215
+D3
+~
+~
+0 -1 17216
+D5
+~
+~
+0 -1 17210
+E
+lighting~
+
+     {WHI,BO,BLINK} ___  ___                __                      
+    /'___\/\_ \    __        /\ \                     
+   /\ \__/\//\ \  /\_\    ___\ \ \/'\      __   _ __  
+   \ \ ,__\ \ \ \ \/\ \  /'___\ \ , <    /'__`\/\`'__\
+    \ \ \_/  \_\ \_\ \ \/\ \__/\ \ \\`\ /\  __/\ \ \/ 
+     \ \_\   /\____\\ \_\ \____\\ \_\ \_\ \____\\ \_\ 
+      \/_/   \/____/ \/_/\/____/ \/_/\/_/\/____/ \/_/ {whi}
+
+~
+Z3
+C2
+R0
+S
+#17215
+{WHI}The storage closet{whi}~
+
+   {WHI}This storage closet has shelves of cleaning supplies in
+   it. It does not look or smell like they get used often.
+   There are mops hanging above a drain in the rear of the
+   closet. Next to that is a large industrial sink with a 
+   long water hose attached to it. The room smells of mildew
+   and stale water. The light in this room is quite dim and
+   makes it hard to see what might be lurking in the dark.{whi}
+
+~
+172 8 1
+D3
+~
+Storage~
+1 -1 17214
+Z3
+C-1
+R0
+S
+#17216
+{CYAN}The second floor junction{cyan}~
+  
+  {CYAN} The hallway has now split into more directions. The faint
+   smell of cooking can be made out. There is also a sign on
+   the door here that says war planning.{cyan} 
+ 
+~
+172 1073741824 1
+D0
+~
+~
+0 -1 17220
+D1
+~
+delete~
+1 -1 17214
+X128
+Z3
+C2
+R0
+S
+#17217
+CELL B~
+
+   {BLA,BO}Inside the cell there is no light to be seen. 
+   There are stains along the wall and floors.
+   There is no cot to sleep on. The only type
+   of toiletries seen here is a small drain in
+   the floor. There are two chains with shackles
+   attached to the back wall for restraining a
+   prisoner. The smell of rot fills the air
+   inside the cell.{bla}
+
+~
+172 1073741832 1
+D0
+~
+~
+0 -1 17213
+D2
+~
+~
+0 -1 17219
+Z3
+C-1
+R0
+S
+#17218
+{BLA,BO}The kitchen{bla}~
+
+   {CYA,BO}There are many shiny pots and pans sitting on counters
+   and hanging from the ceiling here. There is a large 
+   oven putting out an intense heat. A round cook busies
+   himself with a crock-pot. By the looks of things he is
+   cooking a meal large enough to feed an army.{cyan}    
+
+~
+172 1073741833 1
+Z3
+C2
+R0
+S
+#17219
+CELL C~
+
+   {BLA,BO}Inside the cell there is no light to be seen. 
+   There are stains along the wall and floors.
+   There is no cot to sleep on. The only type
+   of toiletries seen here is a small drain in
+   the floor. There are two chains with shackles
+   attached to the back wall for restraining a
+   prisoner. The smell of rot fills the air
+   inside the cell.{bla}
+
+~
+172 1073741832 1
+D0
+~
+~
+0 -1 17217
+D2
+~
+~
+0 -1 17280
+Z3
+C-1
+R0
+S
+#17220
+{RED,BO}W{red}{RED}a{RE,BO}r {red}{RED}P{RED,BO}l{red}{RED}a{RED,BO}n{red}{RED}n{RED,BO}i{red}{RED}n{RED,BO}g{red} {RED,BO}R{red}{RED}o{RED,BO}o{red}{RED}m{red}~
+  
+   {RED,BO}There is a huge wooden table here with nine executive
+   type chairs. There are maps and papers spread out all
+   over the table. At the top of one of the maps G.I. JOE
+   compound is written. There are papers with troop and
+   equipment numbers spread out beside it. You also notice
+   a folder labeled "SECRET". Inside are the details of 
+   an assault plan.{red} 
+
+~
+172 1073741848 1
+D2
+~
+~
+0 -1 17216
+D3
+~
+~
+0 -1 17221
+Z3
+C2
+R0
+S
+#17221
+{RED,BO}W{red}{RED}a{RE,BO}r {red}{RED}P{RED,BO}l{red}{RED}a{RED,BO}n{red}{RED}n{RED,BO}i{red}{RED}n{RED,BO}g{red} {RED,BO}R{red}{RED}o{RED,BO}o{red}{RED}m{red}~
+
+   {RED,BO}This side of the room is lined with file cabinets.
+   Each one has a number on it. They all appear to be
+   locked very securely. Whatever is inside must be 
+   very important.{red}
+
+~
+172 1073741833 1
+D1
+~
+~
+0 -1 17220
+D3
+~
+~
+0 -1 17222
+Z3
+C2
+R0
+S
+#17222
+{RED,BO}B{BLA}e{RED}f{BLA}o{RED}r{BLA}e{RED} t{BLA}h{RED}e{BLA} f{RED}i{BLA}r{RED}e{BLAC}p{RED}l{BLA}a{RED}c{BLA}e{bla}~
+
+   {YELL,BO}This room contains a large stone fireplace. There is a 
+   fire burning inside it putting off a cozy heat. Little 
+   jets of flames shoot up into the air and appear to dance
+   with each other. It burns in brilliant colors of red and
+   yellow. The crackling of the fire causes a calmness fall 
+   over the room.{yell}
+
+~
+172 1073742104 1
+D1
+~
+~
+0 -1 17221
+D3
+~
+fireplace~
+3 0 17223
+T17220
+Z3
+C1
+R0
+S
+#17223
+{BLUE,BO}Behind the fireplace{blue}~
+
+   {BLUE,BO}The fireplace has opened up into a hidden passage.
+   It is rather cool in here. It looks as if these
+   passageways are well traveled. Maybe even more 
+   than the regular halls of the compound.{blue}
+
+~
+172 1073741832 1
+Z3
+C2
+R0
+S
+#17224
+{BLUE,BO}A small passage{blue}~
+
+   {BLUE,BO}These passageways are barely big enough for a person
+   to walk through. They look to have been hand dug with
+   picks and shovels. It is so dark through here that you
+   must feel your way as you walk instead of watch where
+   you are going. There are little torches along the walls,
+   but the lack of air throughout the passageway causes them
+   to barely burn. You must be careful through here so that 
+   you don't run across and COBRA guards.{blue}
+
+~
+172 1073741824 1
+D0
+~
+~
+0 -1 17226
+Z0
+C2
+R0
+S
+#17225
+{MAGE,BO}A sensual bedroom{mage}~
+
+   {RED,BO}This room is unlike any other room in the compound.
+   There is a fragrance of perfume in the air. It is 
+   a sweet smell compared to the dingy hallways. The
+   room has a huge heart shaped bed in the center of 
+   it. The majority of the room is painted in some 
+   shade of pink. There is a vanity mirror here with
+   perfumes and make-ups sitting on it. It is obvious
+   that this room belongs to a very sensual woman.{red}
+
+~
+172 1073741832 1
+Z3
+C2
+R0
+S
+#17226
+{BLUE,BO}A small passage{blue}~
+
+   {BLUE,BO}These passageways are barely big enough for a person
+   to walk through. They look to have been hand dug with
+   picks and shovels. It is so dark through here that you
+   must feel your way as you walk instead of watch where
+   you are going. There are little torches along the walls,
+   but the lack of air throughout the passageway causes them
+   to barely burn. You must be careful through here so that 
+   you don't run across and COBRA guards.{blue}
+
+~
+172 1073741824 1
+D0
+~
+~
+0 -1 17207
+D2
+~
+~
+0 -1 17224
+Z7
+C2
+R0
+S
+#17227
+{BLUE,BO}The COBRA Barracks{blue}~
+
+   {BLUE,BO}The barracks are kept rather clean and tidy. There are
+   bunk beds lined against the wall. Each has a nameplate
+   at the foot of the bed. The floors are buffed and shiny.
+   There is no dirt to be found in here.{blue}  
+
+~
+172 1073741832 1
+D0
+~
+~
+0 -1 17232
+D1
+~
+~
+0 -1 17230
+X6291456
+Z7
+C2
+R0
+S
+#17228
+{CYAN,BO}The COBRA Barracks{cyan}~
+
+   {CYAN,BO}There is a sign here that simply says barracks. This is
+   where the COBRA troopers live during there off time. You
+   can make out the sounds of people talking. There appears
+   to be only one door in and out of the barracks.{cyan} 
+
+~
+172 12 1
+D3
+~
+~
+0 -1 17231
+X6291456
+Z7
+C2
+R0
+S
+#17229
+{BLUE,BO}The COBRA Barracks{blue}~
+
+   {BLUE,BO}The barracks are kept rather clean and tidy. There are
+   bunk beds lined against the wall. Each has a nameplate
+   at the foot of the bed. The floors are buffed and shiny.
+   There is no dirt to be found in here.{blue}  
+
+~
+172 8 1
+D0
+~
+~
+0 -1 17228
+D3
+~
+~
+0 -1 17230
+X6291456
+Z7
+C2
+R0
+S
+#17230
+{BLUE,BO}The COBRA Barracks{blue}~
+
+   {BLUE,BO}The barracks are kept rather clean and tidy. There are
+   bunk beds lined against the wall. Each has a nameplate
+   at the foot of the bed. The floors are buffed and shiny.
+   There is no dirt to be found in here.{blue}  
+
+~
+172 1073741832 1
+D0
+~
+~
+0 -1 17231
+D1
+~
+~
+0 -1 17229
+D3
+~
+~
+0 -1 17227
+X6291456
+Z7
+C2
+R0
+S
+#17231
+{BLUE,BO}The COBRA Barracks{blue}~
+
+   {BLUE,BO}The barracks are kept rather clean and tidy. There are
+   bunk beds lined against the wall. Each has a nameplate
+   at the foot of the bed. The floors are buffed and shiny.
+   There is no dirt to be found in here.{blue}  
+
+~
+172 1073741832 1
+D0
+~
+~
+0 -1 17233
+D1
+~
+~
+0 -1 17228
+D2
+~
+~
+0 -1 17230
+D3
+~
+~
+0 -1 17232
+X6291456
+Z7
+C2
+R0
+S
+#17232
+{BLUE,BO}The COBRA Barracks{blue}~
+
+   {BLUE,BO}The barracks are kept rather clean and tidy. There are
+   bunk beds lined against the wall. Each has a nameplate
+   at the foot of the bed. The floors are buffed and shiny.
+   There is no dirt to be found in here.{blue}  
+
+~
+172 8 1
+D1
+~
+~
+0 -1 17231
+D2
+~
+~
+0 -1 17227
+X6291456
+Z0
+C2
+R0
+S
+#17233
+{BLUE,BO}The COBRA Barracks{blue}~
+
+   {BLUE,BO}The barracks are kept rather clean and tidy. There are
+   bunk beds lined against the wall. Each has a nameplate
+   at the foot of the bed. The floors are buffed and shiny.
+   There is no dirt to be found in here.{blue}  
+
+~
+172 8 1
+D2
+~
+~
+0 -1 17231
+D4
+~
+~
+0 -1 17234
+X6291456
+Z0
+C-1
+R0
+S
+#17234
+{WHI}Climbing the Watch Tower{whi}~
+
+   {CYAN,BO}This is one of the watch towers that over look
+   the compound. There are winding stairs that go
+   up the center of it. Only one door leads in or
+   out. A cool breeze blows through the open roof
+   of the tower.{cyan}
+
+~
+172 1073741824 1
+D4
+~
+WatchTower~
+1 -1 17235
+D5
+~
+~
+0 -1 17233
+Z-1
+C2
+R0
+S
+#17235
+{WHI}Climbing the Watch Tower{whi}~
+
+   {CYAN,BO}This is the second floor of the watchtower. There
+   is two exits now. The winding stairs continue up
+   the center of the tower. There is also a door to
+   the north that says{cyan}{CYAN} SECURITY ONLY.{cyan} 
+
+~
+172 1073741824 1
+D0
+~
+Security~
+5 0 17236
+D4
+~
+WatchTower~
+1 -1 17237
+Z3
+C2
+R0
+S
+#17236
+{GR}Soldier's {BO}{WH}Only{wh}{bo} {GR}Beyond This Point{gr}~
+   
+   {WHI,BO}There is a huge sign here that says Soldiers Only
+   Beyond This Point. There is one stainless steel 
+   table and two chairs here. One chair is on one 
+   side of the table and one on the other side. There
+   is a file that says soldier interrogation on the
+   table. There is only one light here centered over
+   the table. The walls are soundproofed for some 
+   reason.{whi}
+ 
+~
+172 1073758464 0
+D2
+~
+~
+0 -1 17255
+T17235
+X936470
+Z0
+C2
+R0
+S
+#17237
+{BLUE}The Look Out{blue}~
+  
+   {CYAN,BO}This look-out is the very top of the watch tower.
+   It is usually used by the snipers to make sure
+   no one is trying to escape. It is open to the
+   elements so that there are no blind spots, so
+   that the snipers who see everything. A nice cool
+   breeze is blowing in. The smells of the surrounding 
+   forest can be caught on the breeze periodically.{cayn}
+ 
+~
+172 1073742080 1
+D5
+~
+WatchTower~
+1 -1 17235
+T17235
+Z0
+C2
+R0
+S
+#17238
+{BO}{R}Combat Supplies Station{r}{bo}~
+
+   {RED}There are metal shelves around the walls here. 
+   Many gun racks and gun cages form a maze of 
+   metal and firepower. Boxes of bullets are lying
+   on the shelves along with cleaning supplies and
+   magazines. This place looks as if someone was
+   stockpiling for war.{red}
+
+~
+172 1207959808 1
+D3
+~
+~
+0 -1 17239
+T17236
+X6291457
+Z3
+C2
+R0
+S
+#17239
+{BO}{R}Combat Supplies Station{r}{bo}~
+
+   {RED}There are metal shelves around the walls here. 
+   Many gun racks and gun cages form a maze of 
+   metal and firepower. Boxes of bullets are lying
+   on the shelves along with cleaning supplies and
+   magazines. This place looks as if someone was
+   stockpiling for war.{red}
+
+~
+172 4 1
+D0
+~
+~
+0 -1 17240
+D1
+~
+~
+0 -1 17238
+X6291457
+Z3
+C2
+R0
+S
+#17240
+{BO}{R}Combat Supplies Station{r}{bo}~
+
+   {RED}There are metal shelves around the walls here. 
+   Many gun racks and gun cages form a maze of 
+   metal and firepower. Boxes of bullets are lying
+   on the shelves along with cleaning supplies and
+   magazines. This place looks as if someone was
+   stockpiling for war.{red}
+
+~
+172 256 1
+D2
+~
+~
+0 -1 17239
+D4
+~
+Ladder~
+3 -1 17241
+T17239
+X6291457
+Z3
+C2
+R0
+S
+#17241
+{bo}{CY}===Technical=Centre==={cy}~
+   
+   {CYAN}This is the technical heart of the {BLUE}COBRA{CYAN} command{CYAN}
+   center. There are computers for storing data on
+   the enemy. Technicians are here busying themselves
+   with collecting information. Large file cabinets
+   are set into the wall with{RED} SECRET{CYAN} written on them.
+   The fluorescent lights are quite bright here. This
+   place looks like it may be very important to the 
+   {BLUE}COBRA{CYAN} operation.{cyan}
+ 
+~
+172 1073741828 1
+D2
+~
+~
+0 -1 17242
+Z0
+C2
+R0
+S
+#17242
+{bo}{CY}===Technical=Centre==={cy}~
+   
+   {CYAN}This is the technical heart of the {BLUE}COBRA{CYAN} command{CYAN}
+   center. There are computers for storing data on
+   the enemy. Technicians are here busying themselves
+   with collecting information. Large file cabinets
+   are set into the wall with{RED} SECRET{CYAN} written on them.
+   The fluorescent lights are quite bright here. This
+   place looks like it may be very important to the 
+   {BLUE}COBRA{CYAN} operation.{cyan}
+ 
+~
+172 1073741828 1
+D0
+~
+~
+0 -1 17241
+D2
+~
+~
+0 -1 17245
+Z3
+C2
+R0
+S
+#17243
+{BO}{BLU}Mapping {bo}{GR}and {YEL}Geology{yel}~
+   
+   There are long map canisters here on the shelves.
+   The shelves are labeled {BLUE}City Streets,{MAGE} World Capitals,
+   {GREE}and {YELL}Geo-Thermal Instability Regions.{GREE} It appears 
+   that the{BLUE} COBRA{GREE} command is up to no good again.{gree}
+ 
+~
+172 1073741824 1
+D3
+~
+~
+0 -1 17244
+Z0
+C2
+R0
+S
+#17244
+{BO}{BLU}Mapping {bo}{GR}and {YEL}Geology{yel}~
+   
+   There are long map canisters here on the shelves.
+   The shelves are labeled {BLUE}City Streets,{MAGE} World Capitals,
+   {GREE}and {YELL}Geo-Thermal Instability Regions.{GREE} It appears 
+   that the{BLUE} COBRA{GREE} command is up to no good again.{gree}
+ 
+~
+172 1073741824 1
+D1
+~
+~
+0 -1 17243
+Z0
+C2
+R0
+S
+#17245
+{bo}{CY}===Technical=Centre==={cy}~
+   
+   {CYAN}This is the technical heart of the {BLUE}COBRA{CYAN} command{CYAN}
+   center. There are computers for storing data on
+   the enemy. Technicians are here busying themselves
+   with collecting information. Large file cabinets
+   are set into the wall with{RED} SECRET{CYAN} written on them.
+   The fluorescent lights are quite bright here. This
+   place looks like it may be very important to the 
+   {BLUE}COBRA{CYAN} operation.{cyan}
+ 
+~
+172 1073741828 1
+D0
+~
+~
+0 -1 17242
+D2
+~
+~
+0 -1 17246
+Z0
+C2
+R0
+S
+#17246
+{bo}{CY}===Technical=Centre==={cy}~
+   
+   {CYAN}This is the technical heart of the {BLUE}COBRA{CYAN} command{CYAN}
+   center. There are computers for storing data on
+   the enemy. Technicians are here busying themselves
+   with collecting information. Large file cabinets
+   are set into the wall with{RED} SECRET{CYAN} written on them.
+   The fluorescent lights are quite bright here. This
+   place looks like it may be very important to the 
+   {BLUE}COBRA{CYAN} operation.{cyan}
+ 
+~
+172 1073741828 1
+D0
+~
+~
+0 -1 17245
+D1
+~
+Communications~
+2 17224 17247
+D3
+~
+~
+0 -1 17243
+Z0
+C2
+R0
+S
+#17247
+{MAG}Video Conferencing Centre{mag}~
+ 
+   {CYAN}This room is filled with high tech equipment. There
+   are televisions and cameras for teleconferencing.
+   There are boxes of equipment labeled spy. Some of 
+   the computers have {RED}SECRET{CYAN} written on them. This 
+   looks like the area used for making demands to world
+   leaders.{cyan} 
+
+~
+172 1073741824 1
+D1
+~
+~
+0 -1 17248
+D3
+~
+Communications~
+1 -1 17246
+Z0
+C2
+R0
+S
+#17248
+{MAG}Video Conferencing Centre{mag}~
+ 
+   {CYAN}This room is filled with high tech equipment. There
+   are televisions and cameras for teleconferencing.
+   There are boxes of equipment labeled spy. Some of 
+   the computers have {RED}SECRET{CYAN} written on them. This 
+   looks like the area used for making demands to world
+   leaders.{cyan} 
+
+~
+172 1073741824 1
+D0
+~
+~
+0 -1 17249
+D3
+~
+~
+0 -1 17247
+Z0
+C2
+R0
+S
+#17249
+{BO}{GR}Conference Room{gr}{bo}~
+   
+   {RED}There is a large sign here that reads {WHI}"Quiet,
+   Conference in Progress".{RED} There is a huge oak
+   table here with plaques set on it with the 
+   names of various countries. It appears to be
+   the conference room of{BLUE} COBRA{RED} loyalist from 
+   all around the world. There are ashtrays set
+   on the table. Pictures of water and glasses
+   are also here. Each spot around the table has 
+   a desk lamp set on it for better lighting. 
+   There is one map lying on the table with a
+   remote area circled on it. Above that is the 
+   words {WHI,BO}G.I. Joe{whi}{RED} compound. {red}
+ 
+~
+172 1073741824 1
+D2
+~
+~
+0 -1 17248
+Z0
+C2
+R0
+S
+#17250
+{BO}{BLA}|{BO}{BLU}Officer's Pass{BLA}|{bla}{bo}~
+ 
+   {BLA,BO}On entering the passageway there is a sign here with
+   huge lettering that reads {RED}"OFFICERS ONLY. OTHERS WILL
+   BE PUNISHED".{BLAC} The passageway is hot and humid. The 
+   walls are quite close making it cramped to walk around.
+   There are doors along the walls which appear to go into
+   officer rooms. Each one has a name written on it.{bla} 
+
+~
+172 1073741840 1
+D2
+~
+~
+0 -1 17251
+Z-1
+C2
+R0
+S
+#17251
+{BO}{BLA}|{BO}{BLU}Officer's Pass{BLA}|{bla}{bo}~
+
+   {BLA,BO}Upon entering the passageway, there is a sign with 
+   huge lettering that reads, {RED}OFFICERS ONLY. OTHERS WILL
+   BE PUNISHED.{BLA} The passageway is hot and himid. The walls
+   are quite close, making it cramped to walk around. There
+   are doors along the walls which appear to go into officer
+   quaters. Each one has a name above it.{bla}
+
+~
+172 1073741840 1
+D0
+~
+~
+0 -1 17250
+Z0
+C2
+R0
+S
+#17252
+{BO}{YEL}T{GR}H{BLU}E {R}S{MAG}N{YEL}A{GR}C{BLU}K {R}C{MAG}O{YEL}U{GR}N{BLU}T{R}E{MAG}R{mag}{bo}~
+  
+   {BLU,BO}In between the Officers Pass and the Arsenal is 
+   a very colorful snack counter. It smells of 
+   doughnuts and coffee. There is a little sign on
+   the counter with prices of the various things 
+   that can be purchased here. Only one attendant
+   is here filling orders. There is a cash register
+   on the counter at which he busies himself at. 
+   He never even looks up as he takes the order,
+   fills it, then attends the register.{blue}
+
+~
+172 4 1
+D2
+~
+~
+0 -1 17297
+Z0
+C1
+R0
+S
+#17253
+{BO}{R}The {Y}A{R}r{Y}s{R}e{Y}n{R}a{Y}l{y}~
+
+   {YELL,BO}Guns, guns, and more guns. There are weapons of every 
+   type here. They are all in large wooden crates. Some
+   read{RED} "AK-47" {YELL}and some read {RED}"LAND MINES".{YELL} The most  
+   important message here is a six foot tall sign that
+   says {WHI}"NO SMOKING PERMITTED IN THIS AREA"{YELL} on it.{yell} 
+ 
+~
+172 16 1
+D0
+~
+~
+0 -1 17254
+Z0
+C2
+R0
+S
+#17254
+{BO}{R}The {Y}A{R}r{Y}s{R}e{Y}n{R}a{Y}l{y}~
+
+   {YELL,BO}These crates are labeled "{RED}GRENADES{YELL}" and "{RED}C-4{YELL}". 
+   There is another {WHI}NO SMOKING{YELL} sign here. There
+   is also a sign that reads "{RED}DO NOT PULL PINS 
+   ON GRENADES UNTIL YOU ARE INIDE OF THE FIRING
+   RANGE{YELL}".{yell}
+
+~
+172 16 1
+D0
+~
+~
+0 -1 17255
+D2
+~
+~
+0 -1 17253
+Z0
+C-1
+R0
+S
+#17255
+{BO}{R}The {Y}A{R}r{Y}s{R}e{Y}n{R}a{Y}l{y}~
+ 
+   {YELL,BO}There is a counter here with a single barred window. It
+   has a sign that reads {WHI}WEAPON REPAIR AND AMMUNITIONS 
+   DISTRIBUTION.{whi}  
+
+~
+172 1073741840 1
+D0
+~
+~
+0 -1 17236
+D2
+~
+~
+0 -1 17254
+Z0
+C2
+R0
+S
+#17256
+{BO}{R}#CAUTION# {YEL}{BLI}!!!EXPLOSIVES!!!{bli} {BO}{R}#CAUTION#{r}{bo}~
+
+   {YELL,BO,BLINK}YOU'RE DEAD!!{yell} 
+
+~
+172 1073741830 9
+X2
+Z20
+C2
+R0
+S
+#17257
+{BO}{BLACK}Firing Range{black}{bo}~
+   
+   {BLUE,BO}The range is full of targets at different distances
+   away. There are signs placed beside the targets with
+   distance markers on them. They range from 50 meters
+   to 350 meters in increments of twenty-five meters.
+   There are signs placed at each lane with instructions
+   on what to do. One reads {YELL}PICK UP YOUR BRASS WHEN 
+   FINNISHED FIRING. {BLUE}Another reads {RED}DO NOT ATTEMPT TO 
+   TRAVEL DOWN-RANGE.{BLUE} A third one reads{CYAN} HIGH NOISE 
+   AREA, HEARING PROTECTION REQUIRED. {cyan} 
+
+~
+172 1073741828 1
+D2
+~
+~
+0 -1 17261
+Z0
+C2
+R0
+S
+#17258
+{BO}{BLACK}Firing Range{black}{bo}~
+   
+   {BLUE,BO}The range is full of targets at different distances
+   away. There are signs placed beside the targets with
+   distance markers on them. They range from 50 meters
+   to 350 meters in increments of twenty-five meters.
+   There are signs placed at each lane with instructions
+   on what to do. One reads {YELL}PICK UP YOUR BRASS WHEN 
+   FINNISHED FIRING. {BLUE}Another reads {RED}DO NOT ATTEMPT TO 
+   TRAVEL DOWN-RANGE.{BLUE} A third one reads{CYAN} HIGH NOISE 
+   AREA, HEARING PROTECTION REQUIRED. {cyan} 
+
+~
+172 1073741824 1
+Z0
+C2
+R0
+S
+#17259
+{BO}{BLACK}Firing Range{black}{bo}~
+   
+   {BLUE,BO}The range is full of targets at different distances
+   away. There are signs placed beside the targets with
+   distance markers on them. They range from 50 meters
+   to 350 meters in increments of twenty-five meters.
+   There are signs placed at each lane with instructions
+   on what to do. One reads {YELL}PICK UP YOUR BRASS WHEN 
+   FINNISHED FIRING. {BLUE}Another reads {RED}DO NOT ATTEMPT TO 
+   TRAVEL DOWN-RANGE.{BLUE} A third one reads{CYAN} HIGH NOISE 
+   AREA, HEARING PROTECTION REQUIRED. {cyan} 
+
+~
+172 1073741824 1
+D1
+~
+~
+0 -1 17260
+D2
+~
+~
+0 -1 17263
+Z0
+C2
+R0
+S
+#17260
+{BO}{BLACK}Firing Range{black}{bo}~
+   
+   {BLUE,BO}The range is full of targets at different distances
+   away. There are signs placed beside the targets with
+   distance markers on them. They range from 50 meters
+   to 350 meters in increments of twenty-five meters.
+   There are signs placed at each lane with instructions
+   on what to do. One reads {YELL}PICK UP YOUR BRASS WHEN 
+   FINNISHED FIRING. {BLUE}Another reads {RED}DO NOT ATTEMPT TO 
+   TRAVEL DOWN-RANGE.{BLUE} A third one reads{CYAN} HIGH NOISE 
+   AREA, HEARING PROTECTION REQUIRED. {cyan} 
+
+~
+172 1073741824 1
+D2
+~
+~
+0 -1 17264
+D3
+~
+~
+0 -1 17259
+Z0
+C2
+R0
+S
+#17261
+{BO}{BLACK}Firing Range{black}{bo}~
+   
+   {BLUE,BO}The range is full of targets at different distances
+   away. There are signs placed beside the targets with
+   distance markers on them. They range from 50 meters
+   to 350 meters in increments of twenty-five meters.
+   There are signs placed at each lane with instructions
+   on what to do. One reads {YELL}PICK UP YOUR BRASS WHEN 
+   FINNISHED FIRING. {BLUE}Another reads {RED}DO NOT ATTEMPT TO 
+   TRAVEL DOWN-RANGE.{BLUE} A third one reads{CYAN} HIGH NOISE 
+   AREA, HEARING PROTECTION REQUIRED. {cyan} 
+
+~
+172 1073741824 1
+D0
+~
+~
+0 -1 17257
+D1
+~
+~
+0 -1 17262
+D2
+~
+~
+0 -1 17265
+Z0
+C2
+R0
+S
+#17262
+{BO}{BLACK}Firing Range{black}{bo}~
+   
+   {BLUE,BO}The range is full of targets at different distances
+   away. There are signs placed beside the targets with
+   distance markers on them. They range from 50 meters
+   to 350 meters in increments of twenty-five meters.
+   There are signs placed at each lane with instructions
+   on what to do. One reads {YELL}PICK UP YOUR BRASS WHEN 
+   FINNISHED FIRING. {BLUE}Another reads {RED}DO NOT ATTEMPT TO 
+   TRAVEL DOWN-RANGE.{BLUE} A third one reads{CYAN} HIGH NOISE 
+   AREA, HEARING PROTECTION REQUIRED. {cyan} 
+
+~
+172 1073741824 1
+D1
+~
+~
+0 -1 17263
+D2
+~
+~
+0 -1 17266
+D3
+~
+~
+0 -1 17261
+Z0
+C2
+R0
+S
+#17263
+{BO}{BLACK}Firing Range{black}{bo}~
+   
+   {BLUE,BO}The range is full of targets at different distances
+   away. There are signs placed beside the targets with
+   distance markers on them. They range from 50 meters
+   to 350 meters in increments of twenty-five meters.
+   There are signs placed at each lane with instructions
+   on what to do. One reads {YELL}PICK UP YOUR BRASS WHEN 
+   FINNISHED FIRING. {BLUE}Another reads {RED}DO NOT ATTEMPT TO 
+   TRAVEL DOWN-RANGE.{BLUE} A third one reads{CYAN} HIGH NOISE 
+   AREA, HEARING PROTECTION REQUIRED. {cyan} 
+
+~
+172 1073741824 1
+D0
+~
+~
+0 -1 17259
+D1
+~
+~
+0 -1 17264
+D2
+~
+~
+0 -1 17267
+D3
+~
+~
+0 -1 17262
+Z0
+C2
+R0
+S
+#17264
+{BO}{BLACK}Firing Range{black}{bo}~
+   
+   {BLUE,BO}The range is full of targets at different distances
+   away. There are signs placed beside the targets with
+   distance markers on them. They range from 50 meters
+   to 350 meters in increments of twenty-five meters.
+   There are signs placed at each lane with instructions
+   on what to do. One reads {YELL}PICK UP YOUR BRASS WHEN 
+   FINNISHED FIRING. {BLUE}Another reads {RED}DO NOT ATTEMPT TO 
+   TRAVEL DOWN-RANGE.{BLUE} A third one reads{CYAN} HIGH NOISE 
+   AREA, HEARING PROTECTION REQUIRED. {cyan} 
+
+~
+172 1073741824 1
+D0
+~
+~
+0 -1 17260
+D2
+~
+~
+0 -1 17268
+D3
+~
+~
+0 -1 17263
+Z0
+C2
+R0
+S
+#17265
+{BO}{BLACK}Firing Range{black}{bo}~
+   
+   {BLUE,BO}The range is full of targets at different distances
+   away. There are signs placed beside the targets with
+   distance markers on them. They range from 50 meters
+   to 350 meters in increments of twenty-five meters.
+   There are signs placed at each lane with instructions
+   on what to do. One reads {YELL}PICK UP YOUR BRASS WHEN 
+   FINNISHED FIRING. {BLUE}Another reads {RED}DO NOT ATTEMPT TO 
+   TRAVEL DOWN-RANGE.{BLUE} A third one reads{CYAN} HIGH NOISE 
+   AREA, HEARING PROTECTION REQUIRED. {cyan} 
+
+~
+172 1073741824 1
+D0
+~
+~
+0 -1 17261
+D1
+~
+~
+0 -1 17266
+D2
+~
+~
+0 -1 17269
+Z0
+C2
+R0
+S
+#17266
+{BO}{BLACK}Firing Range{black}{bo}~
+   
+   {BLUE,BO}The range is full of targets at different distances
+   away. There are signs placed beside the targets with
+   distance markers on them. They range from 50 meters
+   to 350 meters in increments of twenty-five meters.
+   There are signs placed at each lane with instructions
+   on what to do. One reads {YELL}PICK UP YOUR BRASS WHEN 
+   FINNISHED FIRING. {BLUE}Another reads {RED}DO NOT ATTEMPT TO 
+   TRAVEL DOWN-RANGE.{BLUE} A third one reads{CYAN} HIGH NOISE 
+   AREA, HEARING PROTECTION REQUIRED. {cyan} 
+
+~
+172 1073741824 1
+D0
+~
+~
+0 -1 17262
+D1
+~
+~
+0 -1 17267
+D2
+~
+~
+0 -1 17270
+D3
+~
+~
+0 -1 17265
+Z0
+C2
+R0
+S
+#17267
+{BO}{BLACK}Firing Range{black}{bo}~
+   
+   {BLUE,BO}The range is full of targets at different distances
+   away. There are signs placed beside the targets with
+   distance markers on them. They range from 50 meters
+   to 350 meters in increments of twenty-five meters.
+   There are signs placed at each lane with instructions
+   on what to do. One reads {YELL}PICK UP YOUR BRASS WHEN 
+   FINNISHED FIRING. {BLUE}Another reads {RED}DO NOT ATTEMPT TO 
+   TRAVEL DOWN-RANGE.{BLUE} A third one reads{CYAN} HIGH NOISE 
+   AREA, HEARING PROTECTION REQUIRED. {cyan} 
+
+~
+172 1073741824 1
+D0
+~
+~
+0 -1 17263
+D1
+~
+~
+0 -1 17268
+D2
+~
+~
+0 -1 17271
+D3
+~
+~
+0 -1 17266
+Z0
+C2
+R0
+S
+#17268
+{BO}{BLACK}Firing Range{black}{bo}~
+   
+   {BLUE,BO}The range is full of targets at different distances
+   away. There are signs placed beside the targets with
+   distance markers on them. They range from 50 meters
+   to 350 meters in increments of twenty-five meters.
+   There are signs placed at each lane with instructions
+   on what to do. One reads {YELL}PICK UP YOUR BRASS WHEN 
+   FINNISHED FIRING. {BLUE}Another reads {RED}DO NOT ATTEMPT TO 
+   TRAVEL DOWN-RANGE.{BLUE} A third one reads{CYAN} HIGH NOISE 
+   AREA, HEARING PROTECTION REQUIRED. {cyan} 
+
+~
+172 1073741824 1
+D0
+~
+~
+0 -1 17264
+D2
+~
+~
+0 -1 17272
+D3
+~
+~
+0 -1 17267
+Z0
+C2
+R0
+S
+#17269
+{BO}{BLACK}Firing Range{black}{bo}~
+   
+   {BLUE,BO}The range is full of targets at different distances
+   away. There are signs placed beside the targets with
+   distance markers on them. They range from 50 meters
+   to 350 meters in increments of twenty-five meters.
+   There are signs placed at each lane with instructions
+   on what to do. One reads {YELL}PICK UP YOUR BRASS WHEN 
+   FINNISHED FIRING. {BLUE}Another reads {RED}DO NOT ATTEMPT TO 
+   TRAVEL DOWN-RANGE.{BLUE} A third one reads{CYAN} HIGH NOISE 
+   AREA, HEARING PROTECTION REQUIRED. {cyan} 
+
+~
+172 1073741824 1
+D0
+~
+~
+0 -1 17265
+D1
+~
+~
+0 -1 17270
+Z0
+C2
+R0
+S
+#17270
+{BO}{BLACK}Firing Range{black}{bo}~
+ 
+   {BLU,BO}The range is full of targets at different distances
+   away. There is signs placed beside the targets with
+   distance markers on them. The range from 50 meters
+   to 350 meters in increments of twenty five meters.
+   There are signs placed at each lane with instructions
+   on what to do. One reads {YELL}PICK UP YOUR BRASS WHEN 
+   FINNISHED FIRING.{BLU} Another reads{RED} DO NOT ATTEMPT TO 
+   TRAVEL DOWN-RANGE.{BLUE} A third one reads{CYAN} HIGH NOISE 
+   AREA, HEARING PROTECTION REQUIRED.{cyan}  
+
+~
+172 1073741824 1
+D0
+~
+~
+0 -1 17266
+D1
+~
+~
+0 -1 17271
+D3
+~
+~
+0 -1 17269
+Z0
+C2
+R0
+S
+#17271
+{BO}{BLACK}Firing Range{black}{bo}~
+   
+   {BLUE,BO}The range is full of targets at different distances
+   away. There are signs placed beside the targets with
+   distance markers on them. They range from 50 meters
+   to 350 meters in increments of twenty-five meters.
+   There are signs placed at each lane with instructions
+   on what to do. One reads {YELL}PICK UP YOUR BRASS WHEN 
+   FINNISHED FIRING. {BLUE}Another reads {RED}DO NOT ATTEMPT TO 
+   TRAVEL DOWN-RANGE.{BLUE} A third one reads{CYAN} HIGH NOISE 
+   AREA, HEARING PROTECTION REQUIRED. {cyan} 
+
+~
+172 1073741824 1
+D0
+~
+~
+0 -1 17267
+D1
+~
+~
+0 -1 17272
+D3
+~
+~
+0 -1 17270
+Z0
+C2
+R0
+S
+#17272
+{BO}{BLACK}Firing Range{black}{bo}~
+   
+   {BLUE,BO}The range is full of targets at different distances
+   away. There are signs placed beside the targets with
+   distance markers on them. They range from 50 meters
+   to 350 meters in increments of twenty-five meters.
+   There are signs placed at each lane with instructions
+   on what to do. One reads {YELL}PICK UP YOUR BRASS WHEN 
+   FINNISHED FIRING. {BLUE}Another reads {RED}DO NOT ATTEMPT TO 
+   TRAVEL DOWN-RANGE.{BLUE} A third one reads{CYAN} HIGH NOISE 
+   AREA, HEARING PROTECTION REQUIRED. {cyan} 
+
+~
+172 1073741824 1
+D0
+~
+~
+0 -1 17268
+D3
+~
+~
+0 -1 17271
+X6291456
+Z0
+C2
+R0
+S
+#17273
+{YELL}Secret Meeting Area{yell}~
+
+   {YELL}This area appears to be a secret meeting area.
+   There is a small field table with a map on it
+   that says {BLUE}COBRA{YELL} compound. Fresh boot prints in
+   the dirt show that this area has been used 
+   recently. A camouflage net has been put up to
+   disguise the area from spying eyes. It looks
+   as if someone was in a hurry here because the
+   map and equipment was left behind.{yell}  
+ 
+ 
+~
+172 1073741840 1
+D2
+~
+~
+0 -1 17205
+Z0
+C2
+R0
+S
+#17274
+{YELL}Before the Tent{yell}~
+
+   {YELL}This area appears to be a secret meeting area.
+   There is a small field table with a map on it
+   that says {BLUE}COBRA{YELL} compound. Fresh boot prints in
+   the dirt show that this area has been used 
+   recently. A camouflage net has been put up to
+   disguise the area from spying eyes. It looks
+   as if someone was in a hurry here because the
+   map and equipment was left behind. To the north
+   is a tent that says{GREE,BO} COMMAND TENT{gree}{YELL} on a sign attached
+   to the door.{yell}
+ 
+ 
+~
+172 1073741840 1
+D0
+~
+~
+0 -1 17205
+D3
+~
+~
+0 -1 17207
+Z0
+C2
+R0
+S
+#17275
+{YELL}I{GREE}n{YELL}s{GREE}i{YELL}d{GREE}e {YELL}t{GREE}h{YELL}e t{GREE}e{YELL}n{GREE}t{gree}~
+ 
+  {GREE,BO} The tent has little visibility do to there only being
+   one {RED}red light{red}{GREE,BO} hung to a pole here. There is a desk 
+   with a radio on it in the corner. The air stinks of
+   rotten fabric and dust. There is a sectioned off area
+   to the north that says Females Only above the doorway.{gree}  
+
+~
+172 16 1
+Z0
+C2
+R0
+S
+#17276
+{GREEN,BO}Female Sleeping Area{gree}~
+
+  {GREEN,BO}The only thing here is a couple of cots and a small
+  makeshift nightstand. The only way that you can tell
+  this is a female room is by the objects lying on the
+  nightstand. There is some makeup and shampoo on a shelf.
+  On another shelf is a file hidden under clothing. The 
+  file is labeled {RED}"TOP SECRET".{red} 
+
+~
+172 16 1
+D2
+~
+Females~
+1 -1 17275
+D3
+~
+SECRET~
+4 17210 17277
+Z0
+C2
+R0
+S
+#17277
+{BO}{R}TOP SECRET{bo}{Y} Meeting Room{y}~
+ 
+   {GRE,BO}This appears to be a top secret place. There is a 
+   table here with plans on breaching the{gree}{BLUE} COBRA{GREE,BO} security  
+   systems. Another piece of paper has details on how
+   to get into the prisoner section of the compound. 
+   It looks as if the {WHI}G.I. Joe {GREE}command has planned a
+   full assault on the{whi}{BLUE} COBRA{blu}{GREE,BO} compound.{gree}
+
+~
+172 1073741952 1
+D0
+~
+~
+0 -1 17278
+D1
+~
+SECRET~
+1 -1 17276
+Z0
+C2
+R0
+S
+#17278
+{CY}Command Level{cy}~
+
+   {BLA,BO}This room is hidden well from all the other 
+   rooms. It appears to be a room that someone
+   important could hide, in case of an attack.
+   There is only a few essentials here: a sleeping 
+   bag, food and water for one week, and a toilet.
+   There is a little space lamp in the corner. There
+   are no windows along the small room. In the ceiling
+   can be seen an exhaust fan. It is probably there
+   for fresh air. {bla}
+
+~
+172 1073741824 1
+D0
+~
+~
+0 -1 17279
+D2
+~
+~
+0 -1 17277
+X6291456
+Z0
+C2
+R0
+S
+#17279
+{CY}Command Level{cy}~
+
+   {BLA,BO}This room is hidden well from all the other 
+   rooms. It appears to be a room that someone
+   important could hide in in case of an attack.
+   There is only a few essentials here. A sleeping 
+   bag, food and water for one week, and a toilet.
+   There is a little space lamp in the corner. There
+   is no windows along the small room. In the ceiling
+   can be seen an exhaust fan. It is probably there
+   for fresh air.{bla} 
+ 
+~
+172 1073741824 1
+D2
+~
+~
+0 -1 17278
+X6291456
+Z0
+C2
+R0
+S
+#17280
+CELL D~
+
+   {BLA,BO}Inside the cell there is no light to be seen. 
+   There are stains along the wall and floors.
+   There is no cot to sleep on. The only type
+   of toiletries seen here is a small drain in
+   the floor. There are two chains with shackles
+   attached to the back wall for restraining a
+   prisoner. The smell of rot fills the air
+   inside the cell.{bla}
+
+~
+172 1073741832 1
+D0
+~
+~
+0 -1 17219
+D2
+{BLA,BO}__________________________________
+   __________________________________
+    ||   ||   ||   ||   ||   ||   || 
+    ||   ||   ||   ||   ||   ||   ||
+    ||   ||   ||   ||   ||   ||   ||
+    ||   ||   ||   ||   ||   ||   ||
+    ||   ||   ||   ||   ||   ||   ||
+    ||   ||   ||   ||   ||   ||   ||
+    ||   ||   ||   ||   ||   ||   ||
+    ||   ||   ||   ||   ||   ||   ||  
+   ----------------------------------
+   ----------------------------------{bla}
+~
+Cellbars~
+2 17218 17281
+Z-1
+C2
+R0
+S
+#17281
+CELL E~
+
+   {BLA,BO}Inside the cell there is no light to be seen. 
+   There are stains along the wall and floors.
+   There is no cot to sleep on. The only type
+   of toiletries seen here is a small drain in
+   the floor. There are two chains with shackles
+   attached to the back wall for restraining a
+   prisoner. The smell of rot fills the air
+   inside the cell.{bla}
+
+~
+172 1073741832 1
+D0
+~
+Cellbars~
+1 -1 17280
+Z-1
+C2
+R0
+S
+#17282
+{RED,BO}NEWBIE QUEST TESTING ROOM{red}~
+
+   {CYA,BO}This is a quest to test your ability to think quickly and
+   find objects throughout the land. The object is to read 
+   the door descriptions and then find the items throughout 
+   the mud that can be used as the key to the doors. Make 
+   sure you keep all the objects used in this quest. They
+   may be useful to you more than once. After you enter the
+   first room to the north a timer will set. You must finish
+   this quest within the time allotted or you will have to 
+   start over. Good luck.{cyan}
+
+~
+172 0 1
+Z0
+C-1
+R0
+S
+#17283
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+172 262144 1
+Z0
+C-1
+R0
+S
+#17284
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+172 262144 1
+Z0
+C-1
+R0
+S
+#17285
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+172 262144 1
+Z0
+C-1
+R0
+S
+#17286
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+172 262144 1
+Z0
+C-1
+R0
+S
+#17287
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+172 262144 1
+Z0
+C-1
+R0
+S
+#17288
+{RED}In line for snacks.{red}~
+   
+   {BLU,BO}Many people are waiting in line for the snack counter. 
+   Smells of popcorn and hotdogs are thick in the air. 
+   A snack counter employee busies himself with filling 
+   orders. He hardly looks up as fills the orders, takes
+   the money, then gives the change back. The line seems
+   to be moving rather quickly due to his frantic work
+   pace.{blue}
+
+~
+172 8 1
+D0
+~
+~
+0 -1 17297
+D2
+~
+~
+0 -1 17295
+Z3
+C-1
+R0
+S
+#17289
+{RED}In line for snacks.{red}~
+   
+   {BLU,BO}Many people are waiting in line for the snack counter. 
+   Smells of popcorn and hotdogs are thick in the air. 
+   A snack counter employee busies himself with filling 
+   orders. He hardly looks up as fills the orders, takes
+   the money, then gives the change back. The line seems
+   to be moving rather quickly due to his frantic work
+   pace.{blue}
+
+~
+172 8 1
+Z3
+C-1
+R0
+S
+#17290
+{RED}In line for snacks.{red}~
+   
+   {BLU,BO}Many people are waiting in line for the snack counter. 
+   Smells of popcorn and hotdogs are thick in the air. 
+   A snack counter employee busies himself with filling 
+   orders. He hardly looks up as fills the orders, takes
+   the money, then gives the change back. The line seems
+   to be moving rather quickly due to his frantic work
+   pace.{blue}
+
+~
+172 8 1
+D0
+~
+~
+0 -1 17296
+D3
+~
+~
+0 -1 17294
+Z3
+C-1
+R0
+S
+#17291
+{RED}In line for snacks.{red}~
+   
+   {BLU,BO}Many people are waiting in line for the snack counter. 
+   Smells of popcorn and hotdogs are thick in the air. 
+   A snack counter employee busies himself with filling 
+   orders. He hardly looks up as fills the orders, takes
+   the money, then gives the change back. The line seems
+   to be moving rather quickly due to his frantic work
+   pace.{blue}
+
+~
+172 8 1
+Z3
+C-1
+R0
+S
+#17292
+{RED}In line for snacks.{red}~
+
+   {RED}Many people are waiting in line for the snack counter. 
+   Smells of popcorn and hotdogs are thick in the air. 
+   A snack counter employee busies himself with filling 
+   orders. He hardly looks up as fills the orders, takes
+   the money, then gives the change back. The line seems
+   to be moving rather quickly due to his frantic work
+   pace.{red}
+
+~
+172 8 1
+D3
+~
+~
+0 -1 17296
+Z3
+C-1
+R0
+S
+#17293
+{RED}In line for snacks.{red}~
+
+   {RED}Many people are waiting in line for the snack counter. 
+   Smells of popcorn and hotdogs are thick in the air. 
+   A snack counter employee busies himself with filling 
+   orders. He hardly looks up as fills the orders, takes
+   the money, then gives the change back. The line seems
+   to be moving rather quickly due to his frantic work
+   pace.{red}
+
+~
+172 8 1
+D0
+~
+~
+0 -1 17294
+D2
+~
+~
+0 -1 17291
+D3
+~
+~
+0 -1 17289
+Z3
+C-1
+R0
+S
+#17294
+{RED}In line for snacks.{red}~
+
+   {RED}Many people are waiting in line for the snack counter. 
+   Smells of popcorn and hotdogs are thick in the air. 
+   A snack counter employee busies himself with filling 
+   orders. He hardly looks up as fills the orders, takes
+   the money, then gives the change back. The line seems
+   to be moving rather quickly due to his frantic work
+   pace.{red}
+
+~
+172 8 1
+D0
+~
+~
+0 -1 17295
+D1
+~
+~
+0 -1 17290
+D2
+~
+~
+0 -1 17293
+D3
+~
+~
+0 -1 17289
+Z3
+C-1
+R0
+S
+#17295
+{RED}In line for snacks.{red}~
+
+   {RED}Many people are waiting in line for the snack counter. 
+   Smells of popcorn and hotdogs are thick in the air. 
+   A snack counter employee busies himself with filling 
+   orders. He hardly looks up as fills the orders, takes
+   the money, then gives the change back. The line seems
+   to be moving rather quickly due to his frantic work
+   pace.{red}
+
+~
+172 8 1
+D0
+~
+~
+0 -1 17288
+D1
+~
+~
+0 -1 17296
+D2
+~
+~
+0 -1 17294
+D3
+~
+~
+0 -1 17289
+Z3
+C-1
+R0
+S
+#17296
+{RED}In line for snacks.{red}~
+
+   {RED}Many people are waiting in line for the snack counter. 
+   Smells of popcorn and hotdogs are thick in the air. 
+   A snack counter employee busies himself with filling 
+   orders. He hardly looks up as fills the orders, takes
+   the money, then gives the change back. The line seems
+   to be moving rather quickly due to his frantic work
+   pace.{red}
+
+~
+172 8 1
+D0
+~
+~
+0 -1 17288
+D1
+~
+~
+0 -1 17292
+D2
+~
+~
+0 -1 17290
+D3
+~
+~
+0 -1 17295
+Z3
+C-1
+R0
+S
+#17297
+{RED}In line for snacks.{red}~
+
+   {RED}Many people are waiting in line for the snack counter. 
+   Smells of popcorn and hotdogs are thick in the air. 
+   A snack counter employee busies himself with filling 
+   orders. He hardly looks up as fills the orders, takes
+   the money, then gives the change back. The line seems
+   to be moving rather quickly due to his frantic work
+   pace.{red}
+
+~
+172 8 1
+D0
+~
+~
+0 -1 17252
+D2
+~
+~
+0 -1 17288
+Z3
+C-1
+R0
+S
+#17298
+{BO}{R}SubHuman Art{r}{bo}~
+
+
+{BOLD}{RED}                    ,       ,
+                   /(       )`
+                   \ \__   / |
+                   /- {WHITE}_{RED} `-/  '
+                  ({WHITE}/\/ \{RED} \   /\ 
+                  {WHITE}/ /   | {RED}`    \  
+                  {BLUE}O O   {WHITE}){RED}      |  
+                  {WHITE}`-^--'`{BLACK}<{RED}     '  
+                 (_{BLACK}.{RED})  {WHITE}_ {BLACK})    /   
+                  `.{WHITE}___/`{RED}    /   
+                    `-----' /
+       {BLACK}<----.     {RED}__ / __   \   
+       {BLACK}<----|===={RED}O))){BLACK}=={RED}) \) /{BLACK}============={RED}
+       {BLACK}<----'    {RED}`--' `.__,' \
+                    |         |
+                     \       /  
+                 ____( (_   / \______
+               ,'  ,----'   |        \ 
+               `--{__________)       \/{BOLD}
+
+
+~
+172 4194309 1
+D2
+~
+door~
+1 -1 17299
+X1048798
+Z5
+C-1
+R0
+S
+#17299
+{RED,BO}CAPULET'S MOB STAGING AREA{red}~
+
+   {YELL,BO}At any time there may be mobs in this room and in the
+   room to the north that will do many many nasty and
+   terrible things to you.{yell}
+
+~
+172 0 1
+D0
+~
+door~
+1 -1 17298
+Z3
+C-1
+R0
+S
+$~

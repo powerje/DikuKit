@@ -1,0 +1,645 @@
+#30300
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+303 262144 1
+Z3
+C-1
+S
+#30301
+{bo,G}Dead End{bo}~
+   
+   The tunnel ends here.  The pipes continue on into the earth, but this
+is as far as you can go.  High above your head there appears to be an 
+air shaft, but the walls of the tunnel are far too slippery to climb.
+You must turn back.
+   
+~
+303 0 1
+D2
+~
+~
+0 -1 30303
+Z3
+C-1
+S
+#30302
+{bo,C}At the Bottom of the Well{bo}~
+   
+   You are standing at the bottom of an ancient well.  The cool air
+flowing in from above is refreshing to your lungs.  Miraculously the
+sludgy sewage water looks clear here.  It sparkles with a strange 
+magical aura.  High above your head from out of the well you can hear
+the incantations of magical tongues.  One side of the wall is crumbling
+a bit, leaving you with plenty of foot holds to climb your way out.  
+   
+~
+303 0 1
+D1
+~
+~
+0 -1 30303
+D2
+~
+~
+0 -1 30305
+D4
+~
+~
+0 -1 15902
+Z3
+C-1
+S
+#30303
+{bo,G}Deep within the Stinky Sewers{bo}~
+   
+   Distant light from both the west and the east creeps into the
+sewers, making visibility barely possible.  The undying rhythm of
+dripping pipes and the noxious smell are nearly enough to drive
+you insane.  The slimy green sludge cakes your equipment as you
+trudge on through the shallow pools of waste.  
+   
+~
+303 0 1
+D0
+~
+~
+0 -1 30301
+D3
+~
+~
+0 -1 30302
+Z3
+C-1
+S
+#30304
+{bo,G}Amidst the Sewage{bo}~
+   
+   This room will lead into one of the theme rooms to the west.
+                     
+                  <--------WEST-----------
+    
+   The description will be based upon the theme as a general
+introduction to it.
+   
+~
+303 0 1
+D2
+~
+~
+0 -1 30307
+Z3
+C-1
+S
+#30305
+{bo,G}The Sludgy Sewer{bo}~
+   
+   Your eyes can barely make out your surroundings as you trudge
+onward through the murky water.  The stale air of decaying waste
+cuts your breath short with every gasp.  The slow flowing stream
+of sludge thickens beneath your feet as you try to walk.  An 
+assortment of old, dripping pipes line the walls.
+   
+~
+303 0 1
+D0
+~
+~
+0 -1 30302
+D2
+~
+~
+0 -1 30308
+Z3
+C-1
+S
+#30306
+{bo,G}The Noxious Sewer{bo}~
+   
+   As you trudge on into the stagnent pools of sludge a foul
+odor overtakes you.  The slimy water soaks you to the bone and
+you nearly shiver.  You get a sinking feeling as you put your
+foot forward into the standing water, but it finds the slimy
+bottom safely and onward you go.  
+   
+~
+303 0 1
+D1
+~
+~
+0 -1 30307
+D2
+~
+~
+0 -1 30310
+Z3
+C-1
+S
+#30307
+{BO,G}A Turn in the Sewer{bo}~
+   
+   The path of standing sewage seems to turns abruptly.  A wall of
+green slime rises up before you.  It looks really slick!  The 
+maddening smell of the splashing sewage drives you insane as you
+trudge on through the murky waters.
+    
+~
+303 0 1
+D0
+~
+~
+0 -1 30304
+D3
+~
+~
+0 -1 30306
+Z3
+C-1
+S
+#30308
+{BO,G}A Smelly Sewer Passage{bo}~
+   
+   The light from above nearly blinds your diolated pupils.  As your vision
+begins to clear you look up and high above your head a light shines in
+from a storm drain.  As you take advantage of the light to look around, you
+notice how extremely grimy it is down here.  The old pipes are rusting and
+dripping.  The walls are covered with a mossy green slime.  Darkness
+swallows up the light to the north, east and south.
+      
+~
+303 0 1
+D0
+~
+~
+0 -1 30305
+D1
+~
+~
+0 -1 30309
+D2
+~
+~
+0 -1 30314
+Z3
+C-1
+S
+#30309
+{bo,G}A Steamy Section of Sewer{bo}~
+   
+   The air around you is increasingly hot and humid.  Large steam vents
+blast you with hot air.  You begin to sweat.  To your disgust, the
+sewage around you really, really stinks!  Small pools of boiling sewage
+fill the air with noxious gas.
+     
+~
+303 0 1
+D1
+~
+~
+0 -1 30310
+D3
+~
+~
+0 -1 30308
+Z3
+C-1
+S
+#30310
+{BO,G}The Murky Sewer{bo}~
+   
+   The dull odor of decay is evident in the stale air.  The light quickly 
+fades with each step you take, but you can still make out the green tinge 
+of the diseased water.  It flows slowly to the south, emitting noxious 
+fumes as it goes.  
+   
+~
+303 0 1
+D0
+~
+~
+0 -1 30306
+D2
+~
+~
+0 -1 30316
+D3
+~
+~
+0 -1 30309
+Z3
+C-1
+S
+#30311
+{bo,G}The Slimy Sewer{bo}~
+   
+   The smell of rotting stench from the sewage is nearly 
+unbearable.  The air is stale and thick.  Small beams of light
+shine into the sewer from above, making visibility just barely
+possible.  Through a storm drain high overhead you swear you
+can hear the sounds of people in Midgaard.  Maybe you should
+yell for help, but what would they do?
+    
+~
+303 0 1
+D1
+~
+~
+0 -1 30312
+D2
+~
+~
+0 -1 30317
+Z3
+C-1
+S
+#30312
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+303 0 1
+D1
+~
+~
+0 -1 30313
+D3
+~
+~
+0 -1 30311
+Z3
+C-1
+S
+#30313
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+303 262144 1
+D2
+~
+~
+0 -1 30318
+D3
+~
+~
+0 -1 30312
+Z3
+C-1
+S
+#30314
+{bo,G}Amidst the River of Sewage{bo}~
+   
+   The decaying waste of sludge flows slowly past your ankles.  It's 
+rather deep and nearly fills your boots with sludge.  They feel heavy
+and hard to walk in.  Perhaps you should empty them out soon, but what's
+the point?  You'd just fill them up again.
+   
+~
+303 0 1
+D0
+~
+~
+0 -1 30308
+D2
+~
+~
+0 -1 30321
+Z3
+C-1
+S
+#30315
+{BO,G}The Grimy Sewer{bo}~
+   
+   The stale air is difficult to breath as you travel onward through the 
+thickening sludge.  The sludge begins to flow quicker here and ripples are
+clearly visible on the surface.  The roaring sounds of splashing water
+nearly deafen you the farther to the south you go.  You better watch out,
+the current is nearly strong enough to knock you off your feet.
+   
+~
+303 0 1
+D1
+~
+~
+0 -1 30316
+D2
+~
+~
+0 -1 30322
+Z3
+C-1
+S
+#30316
+{bo,G}Entrance to the Sewers{bo}~
+   
+   Pipes of all varieties line the walls of the sewer.  The pipes seem 
+to go on indefinitely.  The air is cool and damp down here, almost thick 
+to breath.  The light sound of echoing water from below is the only thing 
+you can hear.  The darkness of the sewer is broken only by the rays of 
+light shining in from the manhole above.  An old ladder leads up.
+    
+~
+303 0 1
+D0
+~
+~
+0 -1 30310
+D1
+~
+~
+0 -1 30317
+D2
+~
+~
+0 -1 30323
+D3
+~
+~
+0 -1 30315
+D4
+~
+~
+0 -1 15925
+Z3
+C-1
+S
+#30317
+{BO,G}The Slimy Sewer{bo}~
+   
+   The shallow river of sewage flows slowly to the west as you trudge
+onward through it's filth and stench.  The sludgy sewage cakes your
+equipment much like it has caked the walls.  The foul stench that it
+emits makes breathing a difficult, horrifying proccess. 
+    
+~
+303 0 1
+D0
+~
+~
+0 -1 30311
+D3
+~
+~
+0 -1 30316
+Z3
+C-1
+S
+#30318
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+303 262144 1
+D0
+~
+~
+0 -1 30313
+D1
+~
+~
+0 -1 30319
+Z3
+C-1
+S
+#30319
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+303 262144 1
+D2
+~
+~
+0 -1 30327
+D3
+~
+~
+0 -1 30318
+Z3
+C-1
+S
+#30320
+{G,BO}A Turn in the Sewer{bo}~
+   
+   The air vents overhead give you enough light to see the sewer curving
+ahead of you.  The walls and pipes are dripping and covered with a slimy
+green moss.  The slow flowing sewage comes in from the south and flows 
+to the east.
+   
+~
+303 0 1
+D1
+~
+~
+0 -1 30321
+D2
+~
+~
+0 -1 30329
+Z3
+C-1
+S
+#30321
+{bo,C}At the Bottom of the Well{bo}~
+   
+   The stale sewer air is replaced by a fresh breeze from above.  
+You are standing in the bottom of an ancient well.  The sounds of
+mystical ancient tongues floats in with the breeze from above. 
+The well is obviously very old because it's stone wall is crumbling,
+leaving you with ample footholds to climb out.  
+    
+~
+303 0 1
+D0
+~
+~
+0 -1 30314
+D1
+~
+~
+0 -1 30322
+D3
+~
+~
+0 -1 30320
+D4
+~
+~
+0 -1 15919
+Z3
+C-1
+S
+#30322
+{bo,G}Deeper into the Sewer{bo}~
+   
+   You notice the slimy green sludge begins to move much faster here, 
+and you realize that there is deeper layor beneath a large grate 
+beneath your feet.  It is pitch black down there, so you better get 
+out your flashlight.  
+   
+~
+303 262144 1
+D0
+~
+~
+0 -1 30315
+Z3
+C-1
+S
+#30323
+{BO,G}The Noxious Sewer{bo}~
+   
+   This will be the entrance room to a theme, so the room will reflect whatever
+the theme will be to the SOUTH!   |
+                                  |
+                                \ | /
+                                 \ /
+                                  '
+    Wheeeeeeeeeeeeeeeeeeeeeeeeee!
+   
+~
+303 0 1
+D0
+~
+~
+0 -1 30316
+D1
+~
+~
+0 -1 30324
+Z3
+C-1
+S
+#30324
+{bo,G}The Slick Sewer{bo}~
+   
+   Beneath the stagnent pools of sewage, the concrete floor is extremely
+slippery.  You nearly fall, but manage to recover your footing, turning 
+another fresh wave of decaying stench.  The slimy walls around are a 
+gruesome reminder of the effects of being in contact with sewage like this.
+Your legs are just as slimy as the walls are though.  Arrrghh!
+   
+~
+303 0 1
+D1
+~
+~
+0 -1 30325
+D3
+~
+~
+0 -1 30323
+Z3
+C-1
+S
+#30325
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+303 262144 1
+D1
+~
+~
+0 -1 30326
+D3
+~
+~
+0 -1 30324
+Z3
+C-1
+S
+#30326
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+303 262144 1
+D2
+~
+~
+0 -1 30330
+D3
+~
+~
+0 -1 30325
+Z3
+C-1
+S
+#30327
+{bo,C}At the Bottom of the Well{bo}~
+   
+   The stale sewer air is replaced by a fresh breeze from above.  
+You are standing in the bottom of an ancient well.  The sounds of
+metal clashing with metal rings loudly from close above.  Battle
+cries and screams of agony rain down from above.  The well is 
+obviously very old because it's stone wall is crumbling, leaving 
+you with ample footholds to climb out.  
+    
+~
+303 0 1
+D0
+~
+~
+0 -1 30319
+D1
+~
+~
+0 -1 30328
+D4
+~
+~
+0 -1 15923
+Z3
+C-1
+S
+#30328
+{bo,G}Dead End{bo}~
+   
+   As you continue through the tunnel you realize that it comes to an 
+end here.  The pipes continue on into the earth, but this is as far as 
+you can go.  You must turn back, unless you plan to dig for a few years.
+   
+~
+303 0 1
+D3
+~
+~
+0 -1 30327
+Z3
+C-1
+S
+#30329
+{bo,G}Dead End{bo}~
+   
+   As you continue through the tunnel you realize that it comes to an 
+end here.  The pipes continue on into the earth, but this is as far as 
+you can go.  You must turn back, unless you plan to dig for a few years.
+   
+~
+303 0 1
+D0
+~
+~
+0 -1 30320
+Z3
+C-1
+S
+#30330
+{bo,C}At the Bottom of the Well{bo}~
+   
+   The walls of pipe and concrete are replaced with the large,
+uneven bricks that form the base of the well.  Above you the 
+fresh air brings the scent of death mingled with the scents of 
+Midgaard.  The water here is murky and green, no different than 
+the rest of the sewer.  You wonder if anyone knows what they 
+are REALLY drinking!!!
+     
+~
+303 0 1
+D0
+~
+~
+0 -1 30326
+D4
+~
+~
+0 -1 15929
+Z3
+C-1
+S
+$~

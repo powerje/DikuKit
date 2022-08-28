@@ -1,0 +1,1128 @@
+#7700
+{M}Death{C}Quest {R}+{W}Recovery Room{R}+{r}~
+  
+  {W}This is a place where you can gather your wits before you
+  get back into battle.
+  
+  North of here is the start room.  From there:
+  - If you are on team {Y}one{W}, go to the {Y}east{W}
+  - If you are on team {C}two{W}, go to the {C}west{W}
+  
+  South of here is a Jolt fountain for your refreshment.
+  
+~
+77 65544 1
+D0
+~
+~
+0 -1 7701
+D2
+~
+~
+0 -1 7702
+Z-1
+C-1
+S
+#7701
+{M}Death{C}Quest {Y,BO}Start Room{bo,y}~
+  
+  {Y}Team One{W} go to the east {Y}-->{y}
+  {C}Team Two{W} go to the west {C}<--{c}
+  
+~
+77 8 1
+D1
+~
+~
+0 -1 7703
+D2
+~
+~
+0 -1 7700
+D3
+~
+~
+0 -1 7704
+Z-1
+C-1
+S
+#7702
+{M}Death{C}Quest {Y,BO}Resting Room{bo,y}~
+  
+  This is a nice place where you can relax for a while
+  during your quest.  Take a drink from the Jolt fountain
+  or rest in the presence of the olive-colored glow of 
+  the special candles that light this room.
+  
+~
+77 8 1
+D0
+~
+~
+0 -1 7700
+Z-1
+C-1
+S
+#7703
+{M}Death{C}Quest{c} - {BOLD}{R}Arena 1.{r}~
+                                                             ((\
+       _ _                        /                         ( \\>\
+   -/-/ / -\                     :;                \      _  > /(\\
+  || | | /\ ;\                   |l      _____     |;    ( \/    > >
+  _\\)\)\)/ ;;;                  `8o __-/     *\   d|     \      //
+ ///(())(__/ ;;\                  "88p;.  -o _\o;.oP       (_._/ /
+(((__   __ \\   \                  `>,% (\  (\./)8"        ;:'   i
+)))--`.'-- (( ;,8 \               ,;%%%:  ./V^^^V'         ;.   ;.
+((\   |   /)) .,88  `: ..,,;;;;,-::::::'_::\   ||\        ;[8:   ;
+ )|  ( )   |(|(888; ..``'::::8888oooooo.  :\`^^^/,,*--._ /|88::  |
+ |\ -===- /|  \8;; ``:.      oo.8888888888:`((( o.ooo8888Oo;:;:' /
+  \_\-___-/    `-\.   `        `o`88888888b` )) 888b88888P""'   /
+ ; *****;**         "`--_`.       b`888888888;(.,"888b888"  ..::'
+   ;      ;              "-....  b`8888888:::::.`8888. .:;;;'
+~
+77 0 1
+D1
+~
+~
+0 -1 7705
+Z0
+C-1
+S
+#7704
+{M}Death{C}Quest{c} - {BOLD}{R}Arena 1.{r}~
+                                                             ((\
+       _ _                        /                         ( \\>\
+   -/-/ / -\                     :;                \      _  > /(\\
+  || | | /\ ;\                   |l      _____     |;    ( \/    > >
+  _\\)\)\)/ ;;;                  `8o __-/     *\   d|     \      //
+ ///(())(__/ ;;\                  "88p;.  -o _\o;.oP       (_._/ /
+(((__   __ \\   \                  `>,% (\  (\./)8"        ;:'   i
+)))--`.'-- (( ;,8 \               ,;%%%:  ./V^^^V'         ;.   ;.
+((\   |   /)) .,88  `: ..,,;;;;,-::::::'_::\   ||\        ;[8:   ;
+ )|  ( )   |(|(888; ..``'::::8888oooooo.  :\`^^^/,,*--._ /|88::  |
+ |\ -===- /|  \8;; ``:.      oo.8888888888:`((( o.ooo8888Oo;:;:' /
+  \_\-___-/    `-\.   `        `o`88888888b` )) 888b88888P""'   /
+ ; *****;**         "`--_`.       b`888888888;(.,"888b888"  ..::'
+   ;      ;              "-....  b`8888888:::::.`8888. .:;;;'
+~
+77 0 1
+D3
+~
+~
+0 -1 7706
+Z0
+C-1
+S
+#7705
+{M}Death{C}Quest{c} - {BOLD}{G}Arena 2.{g}~
+                                              ,--,  ,.-.
+                 ,                   ,       '-,-`,'-.' | ._
+                /|               ,   |\         }  )/  / `-,',
+               [ '          |\  /|   | |        /  \|  |/`  ,`
+               | |       ,.`  `,` `, | |  _,...(   (      _',
+               \  \  __ ,-` `  ,  , `/ |,'      Y     (   \_L\
+                \  \_\,``,   ` , ,  /  |         )         _,/
+                 \  '  `  ,_ _`_,-,<._.<        /         /
+                  ', `>.,`  `  `   ,., |_      |         /
+                    \/`  `,   `   ,`  | /__,.-`    _,   `\
+                -,-..\  _  \  `  /  ,  / `._) _,-\`       \
+                 \_,,.) /\    ` /  / ) (-,, ``    ,        |
+                ,` )  | \_\       '-`  |  `(               \
+               /  /```(   , --, ,' \   |`<`    ,            |
+              /  /_,--`\   <\  V /> ,` )<_/)  | \      _____)
+        ,-, ,`   `   (_,\ \    |   /) / __/  /   `zues-`
+~
+77 0 1
+D0
+~
+~
+0 -1 7707
+Z0
+C-1
+S
+#7706
+{M}Death{C}Quest{c} - {BOLD}{G}Arena 2.{g}~
+                                              ,--,  ,.-.
+                 ,                   ,       '-,-`,'-.' | ._
+                /|               ,   |\         }  )/  / `-,',
+               [ '          |\  /|   | |        /  \|  |/`  ,`
+               | |       ,.`  `,` `, | |  _,...(   (      _',
+               \  \  __ ,-` `  ,  , `/ |,'      Y     (   \_L\
+                \  \_\,``,   ` , ,  /  |         )         _,/
+                 \  '  `  ,_ _`_,-,<._.<        /         /
+                  ', `>.,`  `  `   ,., |_      |         /
+                    \/`  `,   `   ,`  | /__,.-`    _,   `\
+                -,-..\  _  \  `  /  ,  / `._) _,-\`       \
+                 \_,,.) /\    ` /  / ) (-,, ``    ,        |
+                ,` )  | \_\       '-`  |  `(               \
+               /  /```(   , --, ,' \   |`<`    ,            |
+              /  /_,--`\   <\  V /> ,` )<_/)  | \      _____)
+        ,-, ,`   `   (_,\ \    |   /) / __/  /   `zues-`
+~
+77 0 1
+D0
+~
+~
+0 -1 7708
+Z0
+C-1
+S
+#7707
+{M}Death{C}Quest{c} - {BOLD}{C}Arena 3.{c}~
+                                                       ____________
+                                 (`-..________....---''  ____..._.-`
+                                  \\`._______.._,.---'''     ,'
+                                  ; )`.      __..-'`-.      /
+                                 / /     _.-' _,.;;._ `-._,'
+                                / /   ,-' _.-'  //   ``--._``._
+                              ,','_.-' ,-' _.- (( =-    -. `-._`-._
+                            ,;.''__..-'   _..--.\\.--'````--.._``-.`\
+             _          |\,' .-''        ```-'`---'`-...__,._  ``-.`-.
+  _     _.-,'(__)\__)\-'' `     ___  .          `     \      `--._    \ 
+,',)---' /O|)         `     `      ``-.   `     /     /     `     `-.  \
+\_____--.  '`  `               __..-.  \     . (   < _...-----..._   `./
+ \_,--..__. \\ .-`.\----'';``,..-.__ \  \      ,`_. `.,-'`--'`---''`.  )
+           `.\`.\  `_.-..' ,'   _,-..'  /..,-''(, ,' ; ( _______`___..'
+~
+77 0 1
+D0
+~
+~
+0 -1 7709
+Z0
+C-1
+S
+#7708
+{M}Death{C}Quest{c} - {BOLD}{C}Arena 3.{c}~
+                                                       ____________
+                                 (`-..________....---''  ____..._.-`
+                                  \\`._______.._,.---'''     ,'
+                                  ; )`.      __..-'`-.      /
+                                 / /     _.-' _,.;;._ `-._,'
+                                / /   ,-' _.-'  //   ``--._``._
+                              ,','_.-' ,-' _.- (( =-    -. `-._`-._
+                            ,;.''__..-'   _..--.\\.--'````--.._``-.`\
+             _          |\,' .-''        ```-'`---'`-...__,._  ``-.`-.
+  _     _.-,'(__)\__)\-'' `     ___  .          `     \      `--._    \ 
+,',)---' /O|)         `     `      ``-.   `     /     /     `     `-.  \
+\_____--.  '`  `               __..-.  \     . (   < _...-----..._   `./
+ \_,--..__. \\ .-`.\----'';``,..-.__ \  \      ,`_. `.,-'`--'`---''`.  )
+           `.\`.\  `_.-..' ,'   _,-..'  /..,-''(, ,' ; ( _______`___..'
+~
+77 0 1
+D0
+~
+~
+0 -1 7710
+Z0
+C-1
+S
+#7709
+{M}Death{C}Quest{c} - {BOLD}{M}Arena 4.{m}~
+               /\
+              ( ;`-v/*** ;._
+           ,/'"/^) ' < o\  '".-'\\--,
+         ,/",/W  u '`.    >,._..,   )'
+        ,/'  w  ,U^v  ;//^)/')/^\;_)'
+     ,/"'/   W` ^v  W |;         )/'
+   ;''  |  v' v`" W }  \\
+  "    .'\    v  `v/^W,) '\)\.)\/)
+      \\\  `\   ,/,)'   '''--^"-;'
+         \\\    \  |
+            \\". \/
+               \\\
+                 \
+                 |
+         |      /
+        /|\    /|
+       /  \    /
+~
+77 0 1
+D0
+~
+~
+0 -1 7711
+Z0
+C-1
+S
+#7710
+{M}Death{C}Quest{c} - {BOLD}{M}Arena 4.{m}~
+               /\
+              ( ;`-v/*** ;._
+           ,/'"/^) ' < o\  '".-'\\--,
+         ,/",/W  u '`.    >,._..,   )'
+        ,/'  w  ,U^v  ;//^)/')/^\;_)'
+     ,/"'/   W` ^v  W |;         )/'
+   ;''  |  v' v`" W }  \\
+  "    .'\    v  `v/^W,) '\)\.)\/)
+      \\\  `\   ,/,)'   '''--^"-;'
+         \\\    \  |
+            \\". \/
+               \\\
+                 \
+                 |
+         |      /
+        /|\    /|
+       /  \    /
+~
+77 0 1
+D0
+~
+~
+0 -1 7712
+Z0
+C-1
+S
+#7711
+{M}Death{C}Quest{c} - {BOLD}{BLUE}Arena 5.{blue}~
+            _,_
+          /7/Y/^\
+          vuVV|C)|                        __ _
+            \|^ /                       .'  Y '>,
+            )| \)                      / _   _   \
+           //)|\\                      )(_) (_)(|}
+          / ^| \ \                     {  4A   } /
+         //^| || \\                     \uLuJJ/\l
+        >//||| |\\\|                    |3    p)/
+        | """""  7/>l__ _____ ____      /nnm_n//
+        L>_   _-< 7/|_-__,__-)\,__)(".  \_>-<_/D
+        )D" Y "c)  9)       //V     \_"-._.__G<D     __
+        \  ||    . _/       (       \ "-._"> G<D-_.-"_=)_
+         ) __   / /         "      _/.__ />_c__.-__<"/ ( \
+         | | |  |(|               < "-._"> _.G_.___)\   \7\
+          \"=" // |              (,"-.__.|\ \<.__.-" )   \ \
+           '---'  |              |,"-.__"| \!"-.__.-".\   \ \
+             |_;._/              (_"-.__"'\ \"-.__.-".|    \_\
+             )(" V                \"-.__"'|\ \-.__.-".)     \ \
+~
+77 0 1
+D3
+~
+~
+0 -1 7713
+Z0
+C-1
+S
+#7712
+{M}Death{C}Quest{c} - {BOLD}{BLUE}Arena 5.{blue}~
+            _,_
+          /7/Y/^\
+          vuVV|C)|                        __ _
+            \|^ /                       .'  Y '>,
+            )| \)                      / _   _   \
+           //)|\\                      )(_) (_)(|}
+          / ^| \ \                     {  4A   } /
+         //^| || \\                     \uLuJJ/\l
+        >//||| |\\\|                    |3    p)/
+        | """""  7/>l__ _____ ____      /nnm_n//
+        L>_   _-< 7/|_-__,__-)\,__)(".  \_>-<_/D
+        )D" Y "c)  9)       //V     \_"-._.__G<D     __
+        \  ||    . _/       (       \ "-._"> G<D-_.-"_=)_
+         ) __   / /         "      _/.__ />_c__.-__<"/ ( \
+         | | |  |(|               < "-._"> _.G_.___)\   \7\
+          \"=" // |              (,"-.__.|\ \<.__.-" )   \ \
+           '---'  |              |,"-.__"| \!"-.__.-".\   \ \
+             |_;._/              (_"-.__"'\ \"-.__.-".|    \_\
+             )(" V                \"-.__"'|\ \-.__.-".)     \ \
+~
+77 0 1
+D1
+~
+~
+0 -1 7714
+Z0
+C-1
+S
+#7713
+{M}Death{m}{C}Quest{c} - {BOL}{Y}Arena 6.{y}~
+You are standing in nowhere !!!!
+~
+77 0 1
+D0
+~
+~
+0 -1 7715
+Z0
+C-1
+S
+#7714
+{M}Death{m}{C}Quest{c} - {BOL}{Y}Arena 6.{y}~
+
+~
+77 0 1
+D0
+~
+~
+0 -1 7716
+Z0
+C-1
+S
+#7715
+{M}Death{C}Quest{c} - {BOL}{BLU}Arena 7.{blue}~
+You are standing in nowhere !!!!
+~
+77 0 1
+D0
+~
+~
+0 -1 7717
+Z0
+C-1
+S
+#7716
+{M}Death{C}Quest{c} - {BOL}{BLU}Arena 7.{blue}~
+You are standing in nowhere !!!!
+~
+77 0 1
+D0
+~
+~
+0 -1 7718
+Z0
+C-1
+S
+#7717
+{M}Death{C}Quest{c} - {BOL}{M}Arena 8.{m}~
+You are standing in nowhere !!!!
+~
+77 0 1
+D0
+~
+~
+0 -1 7719
+Z0
+C-1
+S
+#7718
+{M}Death{C}Quest{c} - {BOL}{M}Arena 8.{m}~
+You are standing in nowhere !!!!
+~
+77 0 1
+D0
+~
+~
+0 -1 7720
+Z0
+C-1
+S
+#7719
+{M}Death{C}Quest{c} - {BOL}{C}Arena 9.{c}~
+You are standing in nowhere !!!!
+~
+77 0 1
+D4
+~
+~
+0 -1 7721
+Z0
+C-1
+S
+#7720
+{M}Death{C}Quest{c} - {BOL}{C}Arena 9.{c}~
+You are standing in nowhere !!!!
+~
+77 0 1
+D4
+~
+~
+0 -1 7722
+Z0
+C-1
+S
+#7721
+{M}Death{m}{C}Quest{c} - {R}Arena 10.{r}~
+You are standing in nowhere !!!!
+~
+77 0 1
+D5
+~
+~
+0 -1 7723
+Z0
+C-1
+S
+#7722
+{M}Death{m}{C}Quest{c} - {R}Arena 10.{r}~
+You are standing in nowhere !!!!
+~
+77 0 1
+D5
+~
+~
+0 -1 7724
+Z0
+C-1
+S
+#7723
+{M}Death{m}{C}Quest{c} - {BLU}Arena 11.{b}~
+You are standing in nowhere !!!!
+~
+77 0 1
+D0
+~
+~
+0 -1 7725
+Z0
+C-1
+S
+#7724
+{M}Death{m}{C}Quest{c} - {BLU}Arena 11.{b}~
+You are standing in nowhere !!!!
+~
+77 0 1
+D0
+~
+~
+0 -1 7726
+Z0
+C-1
+S
+#7725
+{M}Death{m}{C}Quest{c} - {Y}Arena 12.{y}~
+You are standing in nowhere !!!!
+~
+77 0 1
+D1
+~
+~
+0 -1 7727
+Z0
+C-1
+S
+#7726
+{M}Death{m}{C}Quest{c} - {Y}Arena 12.{y}~
+You are standing in nowhere !!!!
+~
+77 0 1
+D3
+~
+~
+0 -1 7728
+Z0
+C-1
+S
+#7727
+{M}Death{m}{C}Quest{c} - {G}Arena 13.{g}~
+You are standing in nowhere !!!!
+~
+77 0 1
+D1
+~
+~
+0 -1 7729
+Z0
+C-1
+S
+#7728
+{M}Death{m}{C}Quest{c} - {G}Arena 13.{g}~
+You are standing in nowhere !!!!
+~
+77 0 1
+D3
+~
+~
+0 -1 7730
+Z0
+C-1
+S
+#7729
+{M}Death{m}{C}Quest{c} - {BOL}{B}Arena 14.{b}~
+You are standing in nowhere !!!!
+~
+77 0 1
+D1
+~
+~
+0 -1 7731
+Z0
+C-1
+S
+#7730
+{M}Death{m}{C}Quest{c} - {BOL}{B}Arena 14.{b}~
+You are standing in nowhere !!!!
+~
+77 0 1
+D3
+~
+~
+0 -1 7732
+Z0
+C-1
+S
+#7731
+{M}Death{m}{C}Quest{c} - {R}Arena 15.{r}~
+You are standing in nowhere !!!!
+~
+77 0 1
+D2
+~
+~
+0 -1 7733
+Z0
+C-1
+S
+#7732
+{M}Death{m}{C}Quest{c} - {R}Arena 15.{r}~
+You are standing in nowhere !!!!
+~
+77 0 1
+D2
+~
+~
+0 -1 7734
+Z0
+C-1
+S
+#7733
+{M}Death{m}{C}Quest{c} - {BOL}{C}Arena 16.{c}~
+You are standing in nowhere !!!!
+~
+77 0 1
+D0
+~
+~
+0 -1 7735
+Z0
+C-1
+S
+#7734
+{M}Death{m}{C}Quest{c} - {BOL}{C}Arena 16.{c}~
+You are standing in nowhere !!!!
+~
+77 0 1
+D0
+~
+~
+0 -1 7736
+Z0
+C-1
+S
+#7735
+{M}Death{m}{C}Quest{c} - {BOL}{M}Arena 17.{m}~
+You are standing in nowhere !!!!
+~
+77 0 1
+D3
+~
+~
+0 -1 7737
+Z0
+C-1
+S
+#7736
+{M}Death{m}{C}Quest{c} - {BOL}{M}Arena 17.{m}~
+You are standing in nowhere !!!!
+~
+77 0 1
+D1
+~
+~
+0 -1 7738
+Z0
+C-1
+S
+#7737
+{M}Death{m}{C}Quest{c} - {BOL}{BLU}Arena 18.{b}~
+You are standing in nowhere !!!!
+~
+77 0 1
+Z0
+C-1
+S
+#7738
+{M}Death{m}{C}Quest{c} - {BOL}{BLU}Arena 18.{b}~
+You are standing in nowhere !!!!
+~
+77 0 1
+Z0
+C-1
+S
+#7739
+{M}Death{m}{C}Quest{c} - {BOL}{Y}Arena 19.{y}~
+You are standing in nowhere !!!!
+~
+77 0 1
+Z0
+C-1
+S
+#7740
+{M}Death{m}{C}Quest{c} - {BOL}{Y}Arena 19.{y}~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7741
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7742
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7743
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7744
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7745
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7746
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7747
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7748
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7749
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7750
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7751
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7752
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7753
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7754
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7755
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7756
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7757
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7758
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7759
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7760
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7761
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7762
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7763
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7764
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7765
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7766
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7767
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7768
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7769
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7770
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7771
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7772
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7773
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7774
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7775
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7776
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7777
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7778
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7779
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7780
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7781
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7782
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7783
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7784
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7785
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7786
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7787
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7788
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7789
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7790
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7791
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7792
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7793
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7794
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7795
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7796
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7797
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7798
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+#7799
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+77 262144 1
+Z0
+C-1
+S
+$~

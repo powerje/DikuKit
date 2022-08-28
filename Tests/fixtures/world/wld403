@@ -1,0 +1,1082 @@
+#40300
+{BOL}{R}In To The Mind{r}~
+     
+     {BOLD}{R}You find yourself strapped down on a table of some kind.
+     Your not sure exactly where you.. or how you even got
+     here for that matter. You glance around the room to see
+     if anyone else is there with you, but you find that you
+     are totally alone.
+
+     You begin to scream at the top of your lungs......
+     "Please Someone Help Me!"
+{r}
+
+
+~
+403 0 1
+Z0
+C-1
+S
+#40301
+{BOLD}{W}Time Distortion{w}~
+
+
+       {BOLD}{WHITE}You fall to your knee in pain from the
+       immense surge of energy produced by 
+       the gate. Your powers drain as the 
+       distortion in the room grows stronger.{w}
+
+~
+403 0 1
+D0
+~
+~
+0 -1 40302
+Z0
+C-1
+S
+#40302
+{BOLD}{W}Time Distortion{w}~
+
+
+       {BOLD}{WHITE}You fall to your knee in pain from the
+       immense surge of energy produced by 
+       the gate. Your powers drain as the 
+       distortion in the room grows stronger.{w}
+
+~
+403 0 1
+D2
+~
+~
+0 -1 40301
+D4
+~
+~
+0 -1 40303
+Z0
+C-1
+S
+#40303
+{BOLD}{W}Time Distortion{w}~
+
+
+       {BOLD}{WHITE}You fall to your knee in pain from the
+       immense surge of energy produced by 
+       the gate. Your powers drain as the 
+       distortion in the room grows stronger.{w}
+
+       {BOLD}{BLUE}A tear in time begins to form
+       out of the wall from the energy
+       build up the distortion has create.
+
+~
+403 0 1
+D0
+~
+Tear~
+3 -1 40304
+D5
+~
+~
+0 -1 40302
+Z0
+C-1
+S
+#40304
+{BOLD}{C}Hanging On{c}!!!~
+
+      {BOLD}{BLUE}You find yourself being hurled around through time,                                    
+      like a little ragdoll. The pounding in your head gets                                              
+      worse and worse, as you try to focus on something                                                  
+      in the room.{b}
+
+~
+403 0 1
+D5
+~
+~
+0 -1 40305
+Z0
+C-1
+S
+#40305
+{BOLD}{C}Hanging On{c}!!!~
+
+      {BOLD}{BLUE}You find yourself being hurled around through time,                                    
+      like a little ragdoll. The pounding in your head gets                                              
+      worse and worse, as you try to focus on something                                                  
+      in the room.{b}
+
+~
+403 0 1
+D5
+~
+~
+0 -1 40306
+Z0
+C-1
+S
+#40306
+{REVERSE}{Y}Tear in Time.{y}~
+
+
+      {BOLD}{M}As your head stops from spinning, the room
+      comes to a slow halt.. Your eyes adjust and
+      take focus as you relize something , or someone
+      else is in the room with you...{m}
+
+~
+403 256 1
+D2
+~
+~
+0 -1 40307
+D4
+~
+~
+0 -1 40305
+Z0
+C-1
+S
+#40307
+{REVERSE}{Y}Tear in Time.{y}~
+
+
+      {BOLD}{M}As your head stops from spinning, the room
+      comes to a slow halt.. Your eyes adjust and
+      take focus as you relize something , or someone
+      else is in the room with you...{m}
+
+~
+403 256 1
+D0
+~
+~
+0 -1 40306
+D3
+~
+~
+0 -1 40308
+Z0
+C-1
+S
+#40308
+{REVERSE}{Y}Tear in Time.{y}~
+
+
+      {BOLD}{M}As your head stops from spinning, the room
+      comes to a slow halt.. Your eyes adjust and
+      take focus as you relize something , or someone
+      else is in the room with you...{m}
+
+~
+403 256 1
+D1
+~
+~
+0 -1 40307
+D3
+~
+~
+0 -1 40309
+Z0
+C-1
+S
+#40309
+{REVERSE}{Y}Tear in Time.{y}~
+
+
+      {BOLD}{M}As your head stops from spinning, the room
+      comes to a slow halt.. Your eyes adjust and
+      take focus as you relize something , or someone
+      else is in the room with you...{m}
+
+~
+403 256 1
+D0
+~
+~
+0 -1 40310
+D1
+~
+~
+0 -1 40308
+Z0
+C-1
+S
+#40310
+{BOLD}{C}Ripple{c} {BLUE}in{blue} {BOLD}{C}Space{c}~
+
+     {BOLD}{C}As you get thrown out from the tear, your body begins
+     to spasm from the lack of oxygen in the room. You now find
+     yourself floating through empty space...{c}
+
+~
+403 0 1
+D2
+~
+~
+0 -1 40309
+D4
+~
+~
+0 -1 40311
+Z0
+C-1
+S
+#40311
+{BOLD}{C}Ripple{c} {BLUE}in{blue} {BOLD}{C}Space{c}~
+
+     {BOLD}{C}As you get thrown out from the tear, your body begins
+     to spasm from the lack of oxygen in the room. You now find
+     yourself floating through empty space...{c}
+
+~
+403 0 1
+D0
+~
+Limbo~
+1 40302 40312
+D1
+~
+space~
+1 -1 40314
+D3
+~
+time~
+1 40302 40313
+Z0
+C-1
+S
+#40312
+{CYAN}Limbo{c}~
+
+
+     
+~
+403 0 1
+D2
+~
+Limbo~
+1 -1 40311
+D5
+~
+portal~
+3 40303 40315
+Z0
+C-1
+S
+#40313
+{BOLD}{M}Limbo{m}~
+You are standing in nowhere !!!!
+~
+403 0 1
+D1
+~
+time~
+1 40302 40311
+Z0
+C-1
+S
+#40314
+{R}Limbo{r}~
+You are standing in nowhere !!!!
+~
+403 262144 1
+D3
+~
+space~
+1 -1 40311
+Z0
+C-1
+S
+#40315
+{M}Strange{m} {CYAN}Portal.{c}~
+
+Need desc
+
+~
+403 0 9
+Z0
+C-1
+S
+#40316
+{BOLD}{CYAN}River{cyan} {BOLD}{BLUE}Bank{blue}~
+
+
+     {Y}You now find yourself standing along a calm riverbank.{y}
+     {BOLD}{BLUE}The river runs along to the west for miles .......
+     From a distance down the river you notice a strange{blue}
+     {Y}sparkle illuminating from beneath the riverbed.{y}
+
+
+~
+403 0 1
+D3
+~
+~
+0 -1 40317
+Z0
+C-1
+S
+#40317
+{BOLD}{W}Along{w} {BOLD}{BLUE}The{b} {BOLD}{CYAN}River{cyan} {BOLD}{BLUE}Bank{blue}~
+
+
+     {Y}You begin to make your way towards the west..{y}
+     {BOLD}{BLUE}As you follow along the river bank you notice the
+     object in the water begin to{blue} {BOLD}{Y}Illuminate{y} {BOLD}{BLUE}brighter.{b}
+     {Y}You decide to continue your way along the river bank.{y}
+
+~
+403 0 1
+D1
+~
+~
+0 -1 40316
+D3
+~
+~
+0 -1 40318
+Z0
+C-1
+S
+#40318
+{BOLD}{W}Along{w} {BOLD}{BLUE}The{b} {BOLD}{CYAN}River{cyan} {BOLD}{BLUE}Bank{blue}~
+
+     You begin to make your way towards the
+     west. As you follow along the river bank
+     you notice the object in the water begin
+     to sparkle brighter. You decide to continue
+     your way along the river.
+
+~
+403 0 1
+D1
+~
+~
+0 -1 40317
+D3
+~
+~
+0 -1 40319
+Z0
+C-1
+S
+#40319
+{BOLD}{W}Along{w} {BOLD}{BLUE}The{b} {BOLD}{CYAN}River{cyan} {BOLD}{BLUE}Bank{blue}~
+
+     As you get to the end of the river, your eyes are blinded
+     by the shineing object comeing from beneath the river bed.
+     Only one thing left to do, and thats to jump in and find
+     out what exactly's down there....
+
+~
+403 0 1
+D1
+~
+~
+0 -1 40318
+D5
+~
+~
+0 -1 40320
+Z0
+C-1
+S
+#40320
+{BOLD}{BLUE}Underwater{blue} {BOLD}{RED}Lair{red}~
+
+     You make your way down towards the bottom of the river
+     bed, as you get closer and closer to the object, the
+     sparkling begins to fade. Now you find yourself in an
+     underwater lair, sourrounded by dark gloomy water,
+     you truggle to make your way back up to the top. You
+     start to sense your not alone down here.
+
+~
+403 32768 10
+D4
+~
+~
+0 -1 40321
+X4194354
+Z0
+C-1
+S
+#40321
+{BOLD}{W}Breathe{w} {BOLD}{BLUE}Of{blue} {BOLD}{W}Air{w}~
+
+     You finally fight your way to the surface of the
+     river. As you look back down into the water, at your
+     great defeat of the bloody serpeant, you suddenly
+     freeze in terror. The serpeant must have only been
+     stunned, cause now its makeing its way back towards
+     you, and it looks pissed!!
+
+~
+403 32896 10
+D0
+~
+~
+0 -1 40322
+X4194358
+Z0
+C-1
+S
+#40322
+{BOLD}{G}Hidden{g} {G}Camp{g}~
+
+     You stand in the middle of a strange camp. It looks
+     like its been deserted for quit some time now. Might
+     wanna think about takeing advantage of this place,
+     spell, and heal up. It doesnt look like the trip aheads
+     going to be very pleasant.
+
+~
+403 8196 3
+D1
+~
+~
+0 -1 40324
+D2
+~
+~
+0 -1 40325
+D3
+~
+~
+0 -1 40323
+Z0
+C-1
+S
+#40323
+{BOLD}{RED}Ambush{r}{BOLD}{W}!!!{w}~
+You are standing in nowhere !!!!
+~
+403 0 1
+D1
+~
+~
+0 -1 40322
+Z0
+C-1
+S
+#40324
+{BOLD}{RED}Ambush{r}{BOLD}{W}!!!{w}~
+You are standing in nowhere !!!!
+~
+403 0 1
+D3
+~
+~
+0 -1 40322
+Z0
+C-1
+S
+#40325
+{BOLD}{RED}Ambush{r}{BOLD}{W}!!!{w}~
+You are standing in nowhere !!!!
+~
+403 0 1
+D0
+~
+~
+0 -1 40322
+Z0
+C-1
+S
+#40326
+{G}Hidden{g} {BOLD}{G}Trail{g}(maze)~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40327
+{G}Hidden{g} {BOLD}{G}Trail{g}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40328
+{G}Hidden{g} {BOLD}{G}Trail{g}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40329
+{G}Hidden{g} {BOLD}{G}Trail{g}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40330
+{G}Hidden{g} {BOLD}{G}Trail{g}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40331
+{G}Hidden{g} {BOLD}{G}Trail{g}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40332
+{CYAN}Cave{c} {BOLD}{BLACK}Entrance{b}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40333
+{BOLD}{Y}Lighted{y} {BOLD}{BLACK}Path{b}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40334
+{BOLD}{Y}Lighted{y} {BOLD}{BLACK}Path{b}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40335
+{BOLD}{BLACK}Darkness{b}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40336
+{BOLD}{BLACK}Darkness{b}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40337
+{BOLD}{BLACK}Darkness{b}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40338
+{BOLD}{BLACK}Darkness{b}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40339
+{CYAN}Stumbling{c}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40340
+{BOLD}{BLACK}Falling{b} {CYAN}Down{c}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40341
+{BOLD}{BLACK}Falling{b} {CYAN}Down{c}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40342
+{CYAN}Jagged{c} {BOLD}{BLACK}Pit{b}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40343
+{CYAN}Hidden Room{c}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40344
+{Y}Stairway{y}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40345
+{Y}Stairway{y}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40346
+{Y}Top of the Stairs{y}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40347
+{BOLD}{W}Hallway{w} {BOLD}{C}of{c} {BOLD}{W}{REVERSE}{BOLD}{C}Mirrors{c}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40348
+{BOLD}{W}Hallway{w} {BOLD}{C}of{c} {BOLD}{W}{REVERSE}{BOLD}{C}Mirrors{c}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40349
+{BOLD}{W}Hallway{w} {BOLD}{C}of{c} {BOLD}{W}{REVERSE}{BOLD}{C}Mirrors{c}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40350
+{BOLD}{W}Hallway{w} {BOLD}{C}of{c} {BOLD}{W}{REVERSE}{BOLD}{C}Mirrors{c}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40351
+{W}{REVERSE}{BLACK}B\r/ok/\e\n /\G/la/ss\{b}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40352
+{W}{REVERSE}{BLACK}B\r/ok/\e\n /\G/la/ss\{b}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40353
+{W}{REVERSE}{BLACK}B\r/ok/\e\n /\G/la/ss\{b}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40354
+{W}{REVERSE}{BLACK}B\r/ok/\e\n /\G/la/ss\{b}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40355
+{C}{REVERSE}{BOLD}{C}Shattered{c} {M}Reality{m}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40356
+{BOLD}{W}Dreaming{w}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40357
+{BOLD}{W}Dreaming{w}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40358
+{M}Reality{m} {C}{REVERSE}{BOLD}{C}Shattered{c}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40359
+{BLUE}Trapped{b} {BOLD}{W}Soul{w}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40360
+{BLUE}Troubled{b} {BOLD}{W}Soul{w}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40361
+{BLUE}Tourmented{b} {BOLD}{W}Soul{w}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40362
+{R}Insanity{r}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40363
+{R}Insanity{r}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40364
+{R}Insanity{r}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40365
+{R}Insanity{r}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40366
+{R}Insanity{r}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40367
+{R}Insanity{r}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40368
+{R}Insanity{r}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40369
+{R}Insanity{r}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40370
+{C}The{c} {BOLD}{W}Body{w}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40371
+{C}The{c} {BOLD}{W}Mind{w}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40372
+{C}Out{c} {BOLD}{C}of{c} {BOLD}{W}Body{w}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40373
+{C}Out{c} {BOLD}{C}of{c} {BOLD}{W}Mind{w}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40374
+{BOLD}{W}Nig{BOLD}{B}ht{BOLD}{W}ma{BOLD}{B}re{b}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40375
+{BOLD}{W}Awakening{w}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40376
+{BOLD}{W}Awakening{w}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40377
+{BOLD}{W}Awakening{w}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40378
+{BOLD}{B}Empty{b} {BLUE}Room{b}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40379
+{BLUE}Four{b} {BOLD}{B}Walls{b}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40380
+{BOLD}{R}The Sane{r}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40381
+{G}The Insane{g}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40382
+{BOLD}{B}The Dead{b}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40383
+{BOLD}{W}The Living{w}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40384
+{BOLD}{W}Outside an{w} {BLUE}Empty{b} {BOLD}{B}Room{b}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40385
+{BOLD}{W}Dark{w} {BOLD}{B}Hallway{b}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40386
+{BOLD}{W}Dark{w} {BOLD}{B}Hallway{b}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40387
+{BOLD}{B}Towards{b} the {BOLD}{W}Light{w}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40388
+{Y}Into{y} the {BOLD}{W}Light{w}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40389
+The {BOLD}{W}Light{w}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40390
+{BOLD}{Y}Twilight{y}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40391
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40392
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+403 262144 1
+Z0
+C-1
+S
+#40393
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+403 262144 1
+Z0
+C-1
+S
+#40394
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+403 262144 1
+Z0
+C-1
+S
+#40395
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+403 262144 1
+Z0
+C-1
+S
+#40396
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+403 262144 1
+Z0
+C-1
+S
+#40397
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40398
+{BOLD}{BLUE}IMMORTAL'S {BOLD}{CYAN}SECRET{cyan} {G}LAB{g}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+#40399
+{BOLD}{BLUE}IMMORTAL'S{blue} {CYAN}STUDY{cyan}~
+You are standing in nowhere !!!!
+~
+403 0 1
+Z0
+C-1
+S
+$~

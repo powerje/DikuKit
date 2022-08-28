@@ -1,0 +1,246 @@
+#115
+{R,BO}B{Y,BO}ui{R,BO}ld{Y,BO}i{R,BO}ng {Y,BO}o{R,BO}f N{Y,BO}e{R,BO}rds{b}(Zoharn)~
+11599 750 2
+*
+X 2108480
+D 0 11501     0     0    (N:OPEN) {G}Before the {R,BO}B{Y,BO}ui{R,BO}ld{Y,BO}i{R,BO}ng {Y,BO}o{R,BO}f N{Y,BO}e{R,BO}rds{b}
+D 0 11502     4     0    (U:OPEN) {M}Lobby {b}-- {R,BO}Building {Y,BO}of {R,BO}Nerds{b}
+M 0 11500    83 11503    {C}A Nerdy Student{b}
+M 0 11500    83 11504    {C}A Nerdy Student{b}
+M 0 11500    83 11505    {C}A Nerdy Student{b}
+M 0 11500    83 11506    {C}A Nerdy Student{b}
+M 0 11500    83 11507    {C}A Nerdy Student{b}
+M 0 11501     1 11507    {Y}A Nerd Teaching Assistant{b}
+M 0 11504     1 11508    {WH,BO}The Book Club Leader{b}
+E 1 11501     1    17    (HELD) {G}A Calculus Textbook{b}
+M 0 11500    83 11509    {C}A Nerdy Student{b}
+M 0 11500    83 11509    {C}A Nerdy Student{b}
+M 0 11500    83 11509    {C}A Nerdy Student{b}
+M 0 11500    83 11509    {C}A Nerdy Student{b}
+M 0 11500    83 11509    {C}A Nerdy Student{b}
+M 0 11500    83 11510    {C}A Nerdy Student{b}
+M 0 11500    83 11510    {C}A Nerdy Student{b}
+M 0 11500    83 11510    {C}A Nerdy Student{b}
+M 0 11500    83 11511    {C}A Nerdy Student{b}
+M 0 11500    83 11511    {C}A Nerdy Student{b}
+M 0 11500    83 11511    {C}A Nerdy Student{b}
+M 0 11500    83 11511    {C}A Nerdy Student{b}
+M 0 11500    83 11511    {C}A Nerdy Student{b}
+M 0 11500    83 11511    {C}A Nerdy Student{b}
+M 0 11500    83 11512    {C}A Nerdy Student{b}
+M 0 11500    83 11512    {C}A Nerdy Student{b}
+M 0 11500    83 11512    {C}A Nerdy Student{b}
+M 0 11500    83 11512    {C}A Nerdy Student{b}
+M 0 11500    83 11512    {C}A Nerdy Student{b}
+M 0 11500    83 11513    {C}A Nerdy Student{b}
+M 0 11500    83 11513    {C}A Nerdy Student{b}
+M 0 11500    83 11513    {C}A Nerdy Student{b}
+M 0 11505    17 11514    {R}A Demented Janitor{b}
+M 0 11500    83 11514    {C}A Nerdy Student{b}
+D 0 11514     0     0    (N:OPEN) {C,BO}First Floor Washroom{b}
+D 0 11515     2     0    (S:OPEN) {Y}The Washroom Stall{b}
+M 0 11503     1 11516    {Y}The Dung Beast{b}
+E 1 11506     1     2    (FINGER) {Y}A Ring of Dung{b}
+D 0 11518     4     2    (U:LOCKED) {R,BO}Stairway - Second Floor{b}
+D 0 11518     5     0    (D:OPEN) {R,BO}Stairway - Second Floor{b}
+M 0 11500    83 11519    {C}A Nerdy Student{b}
+M 0 11500    83 11519    {C}A Nerdy Student{b}
+M 0 11505    17 11520    {R}A Demented Janitor{b}
+M 0 11500    83 11520    {C}A Nerdy Student{b}
+M 0 11500    83 11520    {C}A Nerdy Student{b}
+O 0  3088     4 11520    a large vending machine
+M 0 11505    17 11521    {R}A Demented Janitor{b}
+M 0 11500    83 11521    {C}A Nerdy Student{b}
+M 0 11500    83 11521    {C}A Nerdy Student{b}
+M 0 11505    17 11522    {R}A Demented Janitor{b}
+M 0 11511     1 11522    {Y}Hanz{b}
+G 1 11507     1     0    {BLA,BO}A Barbell{b}
+M 0 11512     1 11522    {M,BO}Franz{b}
+M 0 11500    83 11524    {C}A Nerdy Student{b}
+M 0 11500    83 11524    {C}A Nerdy Student{b}
+D 0 11524     0     1    (N:CLOSED) {BLA,BO}Hallway{b}
+M 0 11505    17 11525    {R}A Demented Janitor{b}
+M 0 11505    17 11525    {R}A Demented Janitor{b}
+M 0 11510     1 11525    {G}Sal{b}
+M 0 11505    17 11526    {R}A Demented Janitor{b}
+M 0 11505    17 11526    {R}A Demented Janitor{b}
+M 0 11505    17 11526    {R}A Demented Janitor{b}
+D 0 11526     2     1    (S:CLOSED) {BLA,BO}Janitor's Closet{b}
+M 0 11505    17 11527    {R}A Demented Janitor{b}
+M 0 11505    17 11527    {R}A Demented Janitor{b}
+M 0 11500    83 11527    {C}A Nerdy Student{b}
+M 0 11500    83 11527    {C}A Nerdy Student{b}
+M 0 11508     1 11528    {WH,BO}Claus{b}
+E 1  3009    37    15    (WRIST) Random Stat Obj
+M 0 11513     4 11528    {WH,BO}A Toga Guard{b}
+M 0 11513     4 11528    {WH,BO}A Toga Guard{b}
+M 0 11513     4 11528    {WH,BO}A Toga Guard{b}
+M 0 11513     4 11528    {WH,BO}A Toga Guard{b}
+M 0 11505    17 11529    {R}A Demented Janitor{b}
+M 0 11500    83 11529    {C}A Nerdy Student{b}
+M 0 11500    83 11529    {C}A Nerdy Student{b}
+M 0 11506     1 11530    {G}Rocco{b}
+M 0 11500    83 11531    {C}A Nerdy Student{b}
+M 0 11500    83 11531    {C}A Nerdy Student{b}
+M 0 11507     1 11535    {M,BO}Penelope{b}
+M 0 11500    83 11536    {C}A Nerdy Student{b}
+M 0 11500    83 11536    {C}A Nerdy Student{b}
+M 0 11505    17 11536    {R}A Demented Janitor{b}
+M 0 11514     1 11536    {Y}Bookworm{b}
+O 0 11519     2 11537    {WH,BO}A Gigantic Pocket Protector{b}
+D 0 11538     5     0    (D:OPEN) {C}Stairway - Third Floor{b}
+M 0 11500    83 11539    {C}A Nerdy Student{b}
+M 0 11500    83 11539    {C}A Nerdy Student{b}
+M 0 11500    83 11539    {C}A Nerdy Student{b}
+M 0 11500    83 11540    {C}A Nerdy Student{b}
+M 0 11500    83 11540    {C}A Nerdy Student{b}
+M 0 11500    83 11540    {C}A Nerdy Student{b}
+M 0 11500    83 11541    {C}A Nerdy Student{b}
+M 0 11500    83 11541    {C}A Nerdy Student{b}
+M 0 11500    83 11541    {C}A Nerdy Student{b}
+M 0 11500    83 11542    {C}A Nerdy Student{b}
+M 0 11500    83 11542    {C}A Nerdy Student{b}
+M 0 11500    83 11542    {C}A Nerdy Student{b}
+M 0 11505    17 11542    {R}A Demented Janitor{b}
+M 0 11515     1 11542    {C}The Lab Head{b}
+M 0 11500    83 11543    {C}A Nerdy Student{b}
+M 0 11500    83 11543    {C}A Nerdy Student{b}
+M 0 11500    83 11543    {C}A Nerdy Student{b}
+M 0 11500    83 11544    {C}A Nerdy Student{b}
+M 0 11500    83 11544    {C}A Nerdy Student{b}
+M 0 11500    83 11544    {C}A Nerdy Student{b}
+M 0 11500    83 11545    {C}A Nerdy Student{b}
+M 0 11500    83 11545    {C}A Nerdy Student{b}
+M 0 11500    83 11545    {C}A Nerdy Student{b}
+M 0 11517     3 11547    {R}A {Y}C{R}o{Y}p{R}p{Y}e{R}r {Y}C{R}y{Y}b{R}o{Y}r{R}g{b}
+G 1 11503     1     0    {Y}A Bronze Keycard{b}
+D 0 11547     3     2    (W:LOCKED) {Y,BO}Checkpoint 1{b}
+D 0 11548     1     2    (E:LOCKED) {BLA,BO}Hallway of Echoes{b}
+M 0 11517     3 11549    {R}A {Y}C{R}o{Y}p{R}p{Y}e{R}r {Y}C{R}y{Y}b{R}o{Y}r{R}g{b}
+M 0 11518     2 11549    {BLA,BO}A {WH}S{BLA}i{WH}l{BLA}v{WH}e{BLA}r {WH}C{BLA}y{WH}b{BLA}o{WH}r{BLA}g{b}
+G 1 11504     1     0    {WH,BO}A Silver Keycard{b}
+D 0 11549     0     2    (N:LOCKED) {BLA,BO}Checkpoint 2{b}
+M 0 11519     1 11550    {Y,BO}A Golden Cyborg{b}
+G 1 11505     1     0    {Y,BO}A Golden Keycard{b}
+M 0 11517     3 11550    {R}A {Y}C{R}o{Y}p{R}p{Y}e{R}r {Y}C{R}y{Y}b{R}o{Y}r{R}g{b}
+M 0 11518     2 11550    {BLA,BO}A {WH}S{BLA}i{WH}l{BLA}v{WH}e{BLA}r {WH}C{BLA}y{WH}b{BLA}o{WH}r{BLA}g{b}
+D 0 11550     0     2    (N:LOCKED) {M,BO}Checkpoint 3{b}
+D 0 11550     2     2    (S:LOCKED) {M,BO}Checkpoint 3{b}
+M 0 11520     1 11551    {WH,BO}The Omnipotent {G,BO}L{R}S{C}D{b}
+E 1 11509     1    15    (WRIST) {C}A Small Remote Control{b}
+D 0 11551     0     2    (N:LOCKED) {WH,BO}The Lights{b}
+D 0 11551     2     2    (S:LOCKED) {WH,BO}The Lights{b}
+M 0 11521     1 11552    {BLA,BO}BJL{b}
+E 1 11510     1     0    (LIGHT) {BLA}{BOLD}A{W} {R}C{BLA}o{W}m{BLA}m{W}o{BLA}d{W}o{BLA}r{W}e{BLA} {R}B{W}u{BLA}s{W}i{BLA}n{W}e{BLA}s{W}s{BLA} {R}M{W}a{BLA}c{W}h{BLA}i{W}n{BLA}e{bla}
+D 0 11552     2     2    (S:LOCKED) {WH,BO}T{C,BO}h{Y,BO}e {WH,BO}M{C,BO}u{Y,BO}d{BLA,BO}!{b}
+M 0 11500    83 11553    {C}A Nerdy Student{b}
+M 0 11500    83 11553    {C}A Nerdy Student{b}
+M 0 11500    83 11553    {C}A Nerdy Student{b}
+M 0 11523     1 11555    {BLU,BO}Bubba{b}
+G 1 11512     1     0    {WH,BO}A Platinum Keycard{b}
+M 0 11505    17 11555    {R}A Demented Janitor{b}
+D 0 11555     0     2    (N:LOCKED) {R,BO}At the Entrance to Ultimate Power{b}
+D 0 11556     2     0    (S:OPEN) {C}Server Room{b}
+M 0 11524     1 11557    {G,BO}The Administrator{b}
+G 1 11513     1     0    {R}A Mars Bar{b}
+D 0 11557     0     2    (N:LOCKED) {G,BO}Administrator's Office{b}
+M 0 11500    83 11558    {C}A Nerdy Student{b}
+M 0 11500    83 11558    {C}A Nerdy Student{b}
+M 0 11500    83 11558    {C}A Nerdy Student{b}
+M 0 11500    83 11559    {C}A Nerdy Student{b}
+M 0 11500    83 11559    {C}A Nerdy Student{b}
+M 0 11500    83 11559    {C}A Nerdy Student{b}
+M 0 11516     1 11559    {BLA,BO}D{R}e{G}a{Y}n {BLU}t{M}h{C}e {WH}M{BLA}u{R}d{G}d{Y}e{BLU}r{b}
+M 0 11500    83 11560    {C}A Nerdy Student{b}
+M 0 11500    83 11560    {C}A Nerdy Student{b}
+M 0 11500    83 11560    {C}A Nerdy Student{b}
+M 0 11500    83 11561    {C}A Nerdy Student{b}
+M 0 11500    83 11561    {C}A Nerdy Student{b}
+M 0 11500    83 11561    {C}A Nerdy Student{b}
+M 0 11522     1 11561    {G}Ludwig, the Great Mastermind{b}
+E 1 11511     1     6    (HEAD) {C}An Isolinear Chip{b}
+M 0 11505    17 11562    {R}A Demented Janitor{b}
+M 0 11505    17 11562    {R}A Demented Janitor{b}
+M 0 11500    83 11562    {C}A Nerdy Student{b}
+M 0 11500    83 11562    {C}A Nerdy Student{b}
+M 0 11500    83 11562    {C}A Nerdy Student{b}
+D 0 11563     2     0    (S:OPEN) {BLA,BO}Stinking Stairwell{b}
+M 0 11531    53 11566    {G}A Nerd Mutant{b}
+M 0 11531    53 11566    {G}A Nerd Mutant{b}
+M 0 11525     1 11566    {BLA,BO}The Sp{R}i{BLA}der of N{R}e{BLA}rds{b}
+E 1 11514     1     5    (BODY) {BLA}{BOLD}A {WH}W{BLA}e{WH}b{BLA}b{W}e{BLA}d{BLA} Breast{W}plate{bla}
+M 0 11531    53 11566    {G}A Nerd Mutant{b}
+M 0 11531    53 11566    {G}A Nerd Mutant{b}
+D 0 11566     2     1    (S:CLOSED) {BLA,BO}Hall of Cobwebs{b}
+M 0 11531    53 11567    {G}A Nerd Mutant{b}
+M 0 11531    53 11567    {G}A Nerd Mutant{b}
+M 0 11531    53 11567    {G}A Nerd Mutant{b}
+M 0 11531    53 11567    {G}A Nerd Mutant{b}
+D 0 11567     0     0    (N:OPEN) {R}Onward to the Offices{b}
+M 0 11531    53 11568    {G}A Nerd Mutant{b}
+M 0 11531    53 11568    {G}A Nerd Mutant{b}
+M 0 11531    53 11568    {G}A Nerd Mutant{b}
+M 0 11531    53 11568    {G}A Nerd Mutant{b}
+M 0 11531    53 11569    {G}A Nerd Mutant{b}
+M 0 11531    53 11569    {G}A Nerd Mutant{b}
+M 0 11531    53 11569    {G}A Nerd Mutant{b}
+M 0 11531    53 11569    {G}A Nerd Mutant{b}
+M 0 11531    53 11570    {G}A Nerd Mutant{b}
+M 0 11531    53 11570    {G}A Nerd Mutant{b}
+M 0 11531    53 11570    {G}A Nerd Mutant{b}
+M 0 11531    53 11570    {G}A Nerd Mutant{b}
+D 0 11570     1     2    (E:LOCKED) {BLA,BO}Professors' Offices{b}
+M 0 11526     1 11571    {WH,BO}Prof Larson{b}
+G 1 11515     1     0    {G}An Adamantium Key{b}
+M 0 11527     1 11573    {M,BO}P{Y}r{R}o{M}f{Y}e{R}s{M}s{Y}o{R}r {M}o{Y}f {R}S{M}e{Y}x {R}E{M}d{b}
+G 1 11516     1     0    {BLA,BO}A B{Y}o{BLA}m{Y}b {BLA,BO}Symbol {Y,BO}Keycard{b}
+D 0 11575     3     0    (W:OPEN) {G}Hallway of Adamantium{b}
+D 0 11576     3     2    (W:LOCKED) {Y,BO}Entrance to the Office of Department Heads{b}
+M 0 11531    53 11577    {G}A Nerd Mutant{b}
+M 0 11531    53 11577    {G}A Nerd Mutant{b}
+M 0 11531    53 11577    {G}A Nerd Mutant{b}
+M 0 11531    53 11577    {G}A Nerd Mutant{b}
+D 0 11577     1     0    (E:OPEN) {C}Department of Computer Science{b}
+M 0 11529     1 11578    {G,BO}Prof Sh{b}{Y}i{G,BO}tf{b}{Y}o{G,BO}rbr{b}{Y}ai{G,BO}ns{b}
+M 0 11531    53 11578    {G}A Nerd Mutant{b}
+M 0 11531    53 11578    {G}A Nerd Mutant{b}
+M 0 11531    53 11578    {G}A Nerd Mutant{b}
+M 0 11531    53 11578    {G}A Nerd Mutant{b}
+M 0 11531    53 11579    {G}A Nerd Mutant{b}
+M 0 11531    53 11579    {G}A Nerd Mutant{b}
+M 0 11531    53 11579    {G}A Nerd Mutant{b}
+M 0 11531    53 11579    {G}A Nerd Mutant{b}
+M 0 11531    53 11579    {G}A Nerd Mutant{b}
+M 0 11530     1 11579    {Y,BO}Pr{WH,BO}o{BLU,BO}f {Y,BO}Homer {WH,BO}Simp{BLU,BO}son{b}
+E 1  3009    37     5    (BODY) Random Stat Obj
+D 0 11582     2     0    (S:OPEN) {BLA,BO}Bottom Floor - Turbolift{b}
+M 0 11531    53 11583    {G}A Nerd Mutant{b}
+M 0 11531    53 11583    {G}A Nerd Mutant{b}
+M 0 11531    53 11583    {G}A Nerd Mutant{b}
+M 0 11531    53 11583    {G}A Nerd Mutant{b}
+M 0 11531    53 11583    {G}A Nerd Mutant{b}
+D 0 11583     0     0    (N:OPEN) {BLA,BO}Glowing Shaft{b}
+M 0 11531    53 11584    {G}A Nerd Mutant{b}
+M 0 11531    53 11584    {G}A Nerd Mutant{b}
+M 0 11531    53 11584    {G}A Nerd Mutant{b}
+M 0 11531    53 11584    {G}A Nerd Mutant{b}
+M 0 11531    53 11584    {G}A Nerd Mutant{b}
+M 0 11531    53 11585    {G}A Nerd Mutant{b}
+M 0 11531    53 11585    {G}A Nerd Mutant{b}
+M 0 11531    53 11585    {G}A Nerd Mutant{b}
+M 0 11531    53 11585    {G}A Nerd Mutant{b}
+M 0 11531    53 11585    {G}A Nerd Mutant{b}
+M 0 11531    53 11586    {G}A Nerd Mutant{b}
+M 0 11531    53 11586    {G}A Nerd Mutant{b}
+M 0 11509     1 11586    {Y}Rygar's {G}Booger{b}
+E 1 11535     1    28    (FACE) {WH,BO}T{C}a{WH}p{C}e{WH}d {C}G{WH}l{C}a{WH}s{C}s{WH}e{C}s{b}
+G 1 11528     1     0    A key made of {BOLD}{YELLOW}snot{bold}{yellow}
+M 0 11531    53 11586    {G}A Nerd Mutant{b}
+M 0 11531    53 11586    {G}A Nerd Mutant{b}
+M 0 11531    53 11586    {G}A Nerd Mutant{b}
+D 0 11586     2     2    (S:LOCKED) {WH,BO}Room of Illusion{b}
+D 0 11587     0     2    (N:LOCKED) {R,BO}The War Room{b}
+M 0 11532     1 11588    {BLA,BO}D{WH}o{BL}u{WH}f{BL}i{WH}s {BLA}M{WH}c{BLA}G{WH}i{BLA}l{WH}i{BLA}c{WH}u{BLA}t{WH}t{BLA}y{b}
+E 1 11522     1    15    (WRIST) {W}The{BLACK} Ace{W} of{BLA} Spades{bla}
+O 0  3098    12 11599    the General Bulletin Board
+$~

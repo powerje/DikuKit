@@ -1,0 +1,2952 @@
+#6300
+{BO,BLUE}The Palace of the {BO,CYAN}J{BO,WHITE}edi {BO,CYAN}K{BO,WHITE}nights.{bo,white}~
+
+     {BLUE}* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+     * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+     * *  {blue}{BO,CYAN}Here, in the safety of the Jedi Temple you find yourself {bo,cyan}{BLUE}* *{blue}
+     {BLUE}*{blue}{BO,CYAN}  at peace. It is easy to concentrate on the tasks at hand.{bo,cyan}  {BLUE}* *{blue}
+     {BLUE}*{blue}  {BO,CYAN}As you meditate to push the frustrations from your body and {bo,cyan} {BLUE}*{blue}
+     {BLUE}*{blue}  {BO,CYAN}soul, you are reminded by the golden Statue of Yoda that hate{bo,cyan}{BLUE}*{blue}
+     {BLUE}*{blue}  {BO,CYAN}is the path that leads to evil.{bo,cyan}  {BLUE}* * * * * * * * * * * * * * *
+     * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+     * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *{blue}
+ 
+~
+63 4194312 1
+D0
+~
+Lock~
+1 -1 6301
+D1
+~
+Lock~
+1 -1 6305
+D2
+~
+~
+0 -1 6300
+D3
+~
+Lock~
+1 -1 6304
+D4
+~
+Lock~
+1 -1 6302
+D5
+~
+Lock~
+1 -1 6306
+Z-1
+C-1
+R0
+S
+#6301
+{BO,BLUE}The Blacksmith of the {BO,CYAN}J{BO,WHITE}edi {BO,CYAN}K{BO,WHITE}nights.{bo,white}~
+ {BLU,BO}
+  Well, after a day of battling evil your weapons must be
+  in need of a good shaping up so that they don't BREAK on
+  you! The faithful Blacksmith of the ({W,BO}>{C,BO}JK{W,BO}<{BLU,BO}) is here to give 
+  you a hand! Just ask him how much repairs cost (offer all),
+  and then give him the OK to fix your equipment up! (repair 
+  all)
+ {blu,bo}
+~
+63 8 1
+D0
+~
+~
+0 -1 6303
+D2
+~
+Lock~
+1 -1 6300
+Z-1
+C-1
+R0
+S
+#6302
+{BLU,BO}The Comm Center of the {C}J{W}edi{C} K{W}nights.{w}~
+{C,BO}
+  This is the Jedi Knight's Comm Center.
+  Here you can check out what's going on
+  within the JK community via the main 
+  JK Board, or to keep in touch with 
+  those outside the JK; the Postmaster
+  will be happy to help you out!
+ {C,BO}       
+  The cost to use the mailing system is
+  150 gold coins.
+ {c,bo}
+~
+63 16392 1
+D4
+~
+~
+0 -1 6317
+D5
+~
+Lock~
+1 -1 6300
+Z-1
+C-1
+R0
+S
+#6303
+{BO,BLUE}The Map Room of the {BO,CYAN}J{BO,WHITE}edi {BO,CYAN}K{BO,WHITE}nights.{bo,white}~
+
+
+         If you want to share your knowledge of this world known
+        as The Northern Crossroads, please post here. And remember
+        Complete walkthrus are NOT permitted.
+ 
+ 
+~
+63 8 1
+D2
+~
+~
+0 -1 6301
+D5
+~
+~
+0 -1 6300
+Z-1
+C-1
+R0
+S
+#6304
+{BO,BLUE}The Donation Hall of the {BO,CYAN}J{BO,WHITE}edi {BO,CYAN}K{BO,WHITE}nights.{bo,white}~
+{C,BO}        
+  As new Jedi develop their skills, they
+  need equipment to withstand the Dark
+  side of the Force. As you become more
+  advanced in your training, it would be
+  appreciated that you pass along EQ no
+  longer needed in your state.
+ {c,bo}
+~
+63 65544 1
+D1
+~
+Lock~
+1 -1 6300
+D3
+~
+~
+0 -1 6385
+Z-1
+C-1
+R0
+S
+#6305
+{BO,BLUE}The Hall of the Great {BO,CYAN}J{BO,WHITE}edi {BO,CYAN}K{BO,WHITE}nights.{bo,white}~
+{BLU,BO}
+  These are the halls of the great ({W}>{C}JK{W}<{BLU}).
+  They have earned the honour of being 
+  immortalized here. Their devotion and
+  hard work make them the greatest {C}J{W}edi 
+  {C}K{W}nights{BLU} ever. They deserve nothing but
+  the highest respect and regard.
+ {blu,bo}
+~
+63 0 1
+D0
+~
+~
+0 -1 6309
+D1
+~
+~
+0 -1 6312
+D2
+~
+~
+0 -1 6318
+D3
+~
+Lock~
+1 -1 6300
+D4
+~
+~
+0 -1 6311
+D5
+~
+~
+0 -1 6310
+Z-1
+C-1
+R0
+S
+#6306
+{BO,BLUE}Transportation Room of the {BO,CYAN}J{BO,WHITE}edi {BO,CYAN}K{BO,WHITE}nights.{bo,white}~
+ 
+ {BO,BLU} The exits in each direction are closely watched by various
+  droids working hard to keep the portals to various places
+  within the crossroads open.{bo,blu}
+ 
+  {BO,C}NORTH {BO,BLU}-{BO,W} The northern walkway leads to {BO,G}Market Square.{bo,g}
+ 
+  {BO,C}SOUTH {BO,BLU}- {BO,W}The southward walkway leads to{bo,w} Emerald Avenue
+ 
+  {BO,C}UP    {BO,BLU}- {BO,W}The stairway up leads to{bo,w} {M}Mallin's {C}Chamber of {BO,Y}*FAME*{bo,y}
+ 
+  {BO,C}East  {BO,BLU}- {BO,W}The eastern walkway leads to{bo,w} {C}Eudelta Square.{c}
+ 
+ 
+~
+63 0 1
+D0
+~
+~
+0 -1 3014
+D1
+~
+~
+0 -1 49800
+D2
+~
+~
+0 -1 3119
+D3
+~
+Lock~
+1 -1 6313
+D4
+~
+~
+0 -1 2011
+D5
+~
+Lock~
+1 -1 6307
+Z-1
+C-1
+R0
+S
+#6307
+{BO,BLUE}The Palace of the {BO,CYAN}J{BO,WHITE}edi {BO,CYAN}K{BO,WHITE}nights.{bo,white}~
+  {BLU,BO}
+  Here you can check the status and gossip of Northern 
+  Crossroads by way of the General Board. You can read
+  and post all messages here that you want the people 
+  of the mud to see.
+  {blu,bo}
+~
+63 0 1
+D0
+~
+~
+0 -1 6300
+D2
+~
+~
+0 -1 6308
+D5
+~
+~
+0 -1 6320
+Z-1
+C-1
+R0
+S
+#6308
+{BO,BLUE}The Reception of the {BO,CYAN}J{BO,WHITE}edi {BO,CYAN}K{BO,WHITE}nights.{bo,white}~
+ {BLU,BO}
+  When you have finished your adventures for the day. You
+  can sleep here and keep your equipment close at hand.
+  The staff will be sure to keep your equipment in one of
+  the special storage locks, but be sure that you have
+  enough money to pay for the rent by typing offer. Once
+  you are satisfied with the cost of your stay, just rent.
+ {blu,bo}
+~
+63 0 1
+D0
+~
+~
+0 -1 6307
+Z-1
+C-1
+R0
+S
+#6309
+{BO,BLUE}Mess Hall of the {BO,CYAN}J{BO,WHITE}edi {BO,CYAN}K{BO,WHITE}nights.{bo,white}~
+{C,BO}
+  It's the mess hall! What do you think
+  we do here?!?
+ {c,bo}
+~
+63 0 1
+D0
+~
+~
+0 -1 6383
+D2
+~
+~
+0 -1 6305
+Z-1
+C-1
+R0
+S
+#6310
+{BO,BLUE}The Hall of the Damned.{bo,blue}~
+
+
+         These halls are dedicated to those that have stood in the
+        way of the light side of the force, and fallen. For them to be
+        immortalized is to pay respect to the skills they mastered
+        in what they thought was a battle worth dying for.
+ 
+ 
+~
+63 0 1
+D4
+~
+~
+0 -1 6305
+Z-1
+C-1
+R0
+S
+#6311
+{BO,BLUE}Meditation room of the {BO,CYAN}J{BO,WHITE}edi {BO,CYAN}K{BO,WHITE}nights.{bo,white}~
+ 
+ 
+         Surrounding you are blue tinted panels of steel.  A soothing 
+        sound comes from the dark speaker on the far wall. There is
+        an inviting leather sofa in the middle of the room.
+ 
+ 
+~
+63 0 1
+D5
+~
+~
+0 -1 6305
+Z-1
+C-1
+R0
+S
+#6312
+{BO,BLUE}Shrine of Heathen, the {BO,CYAN}J{BO,WHITE}edi {BO,CYAN}K{BO,WHITE}night.{bo,white}~
+ 
+ 
+{BO,BLUE}          _,_  __,   _,  ___ _,_   __,  __
+          |_|  |_   /_\   |  |_|   |_   |\ |
+          | |  |    | |   |  | |   |    | \|
+          - -  ---  - -   -  - -   ---  -  -{bo,blue}
+ 
+ 
+~
+63 8 1
+D2
+~
+~
+0 -1 6380
+D3
+~
+Lock~
+1 -1 6300
+D4
+~
+~
+0 -1 6314
+D5
+This is to the club maze, do NOT OPEN IT!
+-Jedi
+~
+Hatch~
+1 -1 6348
+Z-1
+C-1
+R0
+S
+#6313
+{BO,BLUE}Shrine of Luke Skywalker, the {BO,CYAN}J{BO,WHITE}edi {BO,CYAN}K{BO,WHITE}night.{bo,white}~
+{BO,B}                ()
+                []
+                ||
+                ||
+               .'`.
+               |  |
+               |  |
+   |           |  |           |
+   |           |  |           |
+   |           |  |           |
+   |       _  /.{bo,b}{BLUE}__{blue}{BO,B}.\  _       |
+  |+|____.| |/ {bo,b}{BLUE}/  \{blue}{BO,B} \| |.____|+|
+  |       |{bo,b}{RED}_{red}{BO,B}| {bo,b}{BLUE}/____\{blue}{BO,B} |{bo,b}{RED}_{red}{BO,B}|       |
+  `-`-._  | |   {BO,BLUE}(){bo,blue}{BO,B}   | |  _.-'-'  
+        `-._|        |_.-'        
+          ||\________/|| 
+          {BO,RED}`'          `'{bo,red}    {BO,BLUE}Luke Skywalker{bo,blue}
+~
+63 0 1
+D1
+~
+Lock~
+1 -1 6306
+Z-1
+C-1
+R0
+S
+#6314
+{BO,BLUE}The Path of the True Jedi {BO,CYAN}-{BO,WHITE}Honor{BO,CYAN}-{bo,cyan}~
+ 
+ 
+{BO,BLUE}         A large portion of the blue steel paneled wall reads:
+ 
+        {BO,CYAN}Honor {BO,WHITE}-{bo,white} {BLUE}Honor above all else, this is the path of the true 
+        Jedi Warrior. Without Honor a Jedi is nothing.  Here lay
+        the ancient text of the Jedi Code of Honor.{blue}
+ 
+ 
+~
+63 0 1
+D1
+~
+~
+0 -1 6351
+D4
+~
+~
+0 -1 6315
+D5
+~
+~
+0 -1 6312
+Z-1
+C-1
+R0
+S
+#6315
+{BO,BLUE}The Path of the True Jedi {BO,CYAN}-{BO,WHITE}Loyalty{BO,CYAN}-{bo,cyan}~
+ 
+ 
+         {BO,BLUE}A large portion of the blue steel paneled wall reads:
+ 
+        {BO,CYAN}Loyalty {BO,WHITE}-{bo,white}{BLUE} Loyalty above all else, except honor.  This is
+        the path of the true Jedi Warrior.  Loyalty to the Jedi
+        cause is possibly the single most important thing in a
+        Jedi's nature.{blue}
+ 
+ 
+~
+63 0 1
+D4
+~
+~
+0 -1 6316
+D5
+~
+~
+0 -1 6314
+Z-1
+C-1
+R0
+S
+#6316
+{BO,BLUE}The Path of the True Jedi {BO,CYAN}-{BO,WHITE}Truth{BO,CYAN}-{bo,cyan}~
+ 
+ 
+         {BO,BLUE}A large portion of the blue steel paneled wall reads:
+ 
+        {BO,CYAN}Truth {BO,WHITE}-{bo,white}{BLUE} Truth, all Jedi Warriors must honor the truth, die
+        for it, cherish it.  Without the truth all would be ruin.
+        It is important for every Jedi to know and respect this.{blue}
+ 
+ 
+~
+63 0 1
+D4
+~
+~
+0 -1 6367
+D5
+~
+~
+0 -1 6315
+Z-1
+C-1
+R0
+S
+#6317
+{BO,BLUE}Rules of the {BO,CYAN}J{BO,WHITE}edi {BO,CYAN}K{BO,WHITE}nights.{bo,white}~
+ 
+ 
+{BO,CYAN}Membership Rules
+{BO,BLUE}  1:{BO,WHITE} Level 20 to be accepted{bo,white}
+{BO,BLUE}  2:{BO,WHITE} Must be Nominated and a 2nd vote recieved{bo,white}
+{BO,BLUE}  3:{BO,WHITE} 24 Hour accception period{bo,white}
+ 
+{BO,CYAN}Club Rules
+{BO,BLUE}  1:{BO,WHITE} NO CHEATING
+{BO,BLUE}  2:{BO,WHITE} No killing duals (Acception of being dual or kombat){bo,white}
+{BO,BLUE}  3:{BO,WHITE} No characters in any other club{bo,white}
+{BO,BLUE}  4:{BO,WHITE} No making fun of clubbies on public channels{bo,white}
+{BO,BLUE}  5:{BO,WHITE} Respect for fellow JK members and other club members{bo,white}
+ 
+ 
+~
+63 0 1
+D0
+~
+~
+0 -1 6321
+D2
+~
+~
+0 -1 6325
+D4
+~
+~
+0 -1 6379
+D5
+~
+~
+0 -1 6302
+Z-1
+C-1
+R0
+S
+#6318
+{BO,BLUE}A Mission....{bo,blue}~
+ 
+ 
+         We are the Jedi Knights, of the Northern Crossroads.
+        From the far reaches of the Universe we come to bring
+        tranquility to the unsettling chaos that reeks from 
+        Hell's Depths.  Truth, Justice, Loyalty are the codes
+        we live by, and by the true power of the Force all 
+        obstacles shall fall before us.
+  
+ 
+~
+63 0 1
+D0
+~
+~
+0 -1 6305
+D4
+~
+~
+0 -1 6319
+Z-1
+C-1
+R0
+S
+#6319
+{BO,BLUE}The {BO,CYAN}JHC {BO,BLUE}- {BO,CYAN}J{BO,WHITE}edi {BO,CYAN}H{BO,WHITE}igh {BO,CYAN}C{BO,WHITE}ouncil{BO,BLUE} Meeting room.{bo,blue}~
+
+   You stand in a circular room, surrounded by huge
+   windows that overlook Midgaard, capital of this
+   world. Above, on the ceiling, there appears to be
+   strange Jedi runes and beautiful works of art created
+   long ago by Arist, for the Jedi cause. You sense that 
+   the presence of the Jedi is smouldering out the chaos
+   that has ruled much of Midgaard for many years. In 
+   this room the Jedi High Council is currently meeting
+   and discussing the next action against the evil of this
+   land. You gaze up at the members of the High Council
+   in awe. Jedi, Jaskin, IMMORTAL, Panthro, Waylander, and
+   Something are in a deep conversation. Better be quiet!
+
+~
+63 0 1
+D5
+~
+~
+0 -1 6318
+Z-1
+C-1
+R0
+S
+#6320
+{BO,RED}Break the rules.....{bo,red}~
+ {R,BO}
+  If you break the rules, you shall spend forever a broken
+  soul.....
+ {r,bo}
+~
+63 4194328 1
+D4
+~
+~
+0 -1 6307
+Z-1
+C-1
+R0
+S
+#6321
+{BO,BLU}The Challange Arena of the {CY}J{WH}edi {CY}K{WH}nights.~
+ 
+     Welcome to the Jedi Knight's challange arena. This is
+just like a real Challange Arena. Please, this is for learning
+ONLY. Make sure toggle 6 is off or else you will die at the
+hands of a clubbie. This is for learning so keep it to 2
+people in the arena at a time. (after you are done use inisignia
+back to the clubhouse) Items maimed or dropped goto the
+recall room of the clubhouse.
+ 
+~
+63 0 1
+D0
+~
+~
+0 -1 6324
+D3
+~
+~
+0 -1 6322
+D5
+~
+~
+0 -1 6300
+T6300
+Z-1
+C-1
+R0
+S
+#6322
+{BO,BLU}The Challange Arena of the {CY}J{WH}edi {CY}K{WH}nights.~
+ 
+     Welcome to the Jedi Knight's challange arena. This is
+just like a real Challange Arena. Please, this is for learning
+ONLY. Make sure toggle 6 is off or else you will die at the
+hands of a clubbie. This is for learning so keep it to 2
+people in the arena at a time. (after you are done use inisignia
+back to the clubhouse) Items maimed or dropped goto the
+recall room of the clubhouse.
+ 
+~
+63 0 1
+D0
+~
+~
+0 -1 6323
+D1
+~
+~
+0 -1 6321
+T6300
+Z-1
+C-1
+R0
+S
+#6323
+{BO,BLU}The Challange Arena of the {CY}J{WH}edi {CY}K{WH}nights.~
+ 
+     Welcome to the Jedi Knight's challange arena. This is
+just like a real Challange Arena. Please, this is for learning
+ONLY. Make sure toggle 6 is off or else you will die at the
+hands of a clubbie. This is for learning so keep it to 2
+people in the arena at a time. (after you are done use inisignia
+back to the clubhouse) Items maimed or dropped goto the
+recall room of the clubhouse.
+ 
+~
+63 0 1
+D1
+~
+~
+0 -1 6324
+D2
+~
+~
+0 -1 6322
+T6300
+Z-1
+C-1
+R0
+S
+#6324
+{BO,BLU}The Challange Arena of the {CY}J{WH}edi {CY}K{WH}nights.~
+ 
+     Welcome to the Jedi Knight's challange arena. This is
+just like a real Challange Arena. Please, this is for learning
+ONLY. Make sure toggle 6 is off or else you will die at the
+hands of a clubbie. This is for learning so keep it to 2
+people in the arena at a time. (after you are done use inisignia
+back to the clubhouse) Items maimed or dropped goto the
+recall room of the clubhouse.
+ 
+~
+63 0 1
+D2
+~
+~
+0 -1 6321
+D3
+~
+~
+0 -1 6323
+T6300
+Z-1
+C-1
+R0
+S
+#6325
+A:1~
+ 
+     Welcome to the Jedi Knight's Master arena. This is
+just like a fighting in multi room places. This is for
+the use of club fun or to teach people how to pk. Make
+sure toggle 6 is OFF so you dont kill each other. You
+MUST recall, there is no way back to the clubhouse from
+here. If you do happen to die or drop something, it goes
+back to the recall room.
+ 
+~
+63 0 1
+D0
+~
+~
+0 -1 6317
+D1
+~
+~
+0 -1 6329
+D2
+~
+~
+0 -1 6326
+T6300
+Z-1
+C-1
+R0
+S
+#6326
+B:1~
+ 
+     Welcome to the Jedi Knight's Master arena. This is
+just like a fighting in multi room places. This is for
+the use of club fun or to teach people how to pk. Make
+sure toggle 6 is OFF so you dont kill each other. You
+MUST recall, there is no way back to the clubhouse from
+here. If you do happen to die or drop something, it goes
+back to the recall room.
+ 
+~
+63 0 1
+D0
+~
+~
+0 -1 6325
+D1
+~
+~
+0 -1 6330
+D2
+~
+~
+0 -1 6327
+T6300
+Z-1
+C-1
+R0
+S
+#6327
+C:1~
+ 
+     Welcome to the Jedi Knight's Master arena. This is
+just like a fighting in multi room places. This is for
+the use of club fun or to teach people how to pk. Make
+sure toggle 6 is OFF so you dont kill each other. You
+MUST recall, there is no way back to the clubhouse from
+here. If you do happen to die or drop something, it goes
+back to the recall room.
+ 
+~
+63 0 1
+D0
+~
+~
+0 -1 6326
+D1
+~
+~
+0 -1 6331
+D2
+~
+~
+0 -1 6328
+T6300
+Z-1
+C-1
+R0
+S
+#6328
+D:1~
+ 
+     Welcome to the Jedi Knight's Master arena. This is
+just like a fighting in multi room places. This is for
+the use of club fun or to teach people how to pk. Make
+sure toggle 6 is OFF so you dont kill each other. You
+MUST recall, there is no way back to the clubhouse from
+here. If you do happen to die or drop something, it goes
+back to the recall room.
+ 
+~
+63 0 1
+D0
+~
+~
+0 -1 6327
+D1
+~
+~
+0 -1 6332
+T6300
+Z-1
+C-1
+R0
+S
+#6329
+A:2~
+ 
+     Welcome to the Jedi Knight's Master arena. This is
+just like a fighting in multi room places. This is for
+the use of club fun or to teach people how to pk. Make
+sure toggle 6 is OFF so you dont kill each other. You
+MUST recall, there is no way back to the clubhouse from
+here. If you do happen to die or drop something, it goes
+back to the recall room.
+ 
+~
+63 0 1
+D1
+~
+~
+0 -1 6333
+D2
+~
+~
+0 -1 6330
+D3
+~
+~
+0 -1 6325
+T6300
+Z-1
+C-1
+R0
+S
+#6330
+B:2~
+ 
+     Welcome to the Jedi Knight's Master arena. This is
+just like a fighting in multi room places. This is for
+the use of club fun or to teach people how to pk. Make
+sure toggle 6 is OFF so you dont kill each other. You
+MUST recall, there is no way back to the clubhouse from
+here. If you do happen to die or drop something, it goes
+back to the recall room.
+ 
+~
+63 0 1
+D0
+~
+~
+0 -1 6329
+D1
+~
+~
+0 -1 6334
+D2
+~
+~
+0 -1 6331
+D3
+~
+~
+0 -1 6326
+T6300
+Z-1
+C-1
+R0
+S
+#6331
+C:2~
+ 
+     Welcome to the Jedi Knight's Master arena. This is
+just like a fighting in multi room places. This is for
+the use of club fun or to teach people how to pk. Make
+sure toggle 6 is OFF so you dont kill each other. You
+MUST recall, there is no way back to the clubhouse from
+here. If you do happen to die or drop something, it goes
+back to the recall room.
+ 
+~
+63 0 1
+D0
+~
+~
+0 -1 6330
+D1
+~
+~
+0 -1 6335
+D2
+~
+~
+0 -1 6332
+D3
+~
+~
+0 -1 6327
+T6300
+Z-1
+C-1
+R0
+S
+#6332
+D:2~
+ 
+     Welcome to the Jedi Knight's Master arena. This is
+just like a fighting in multi room places. This is for
+the use of club fun or to teach people how to pk. Make
+sure toggle 6 is OFF so you dont kill each other. You
+MUST recall, there is no way back to the clubhouse from
+here. If you do happen to die or drop something, it goes
+back to the recall room.
+ 
+~
+63 0 1
+D0
+~
+~
+0 -1 6331
+D1
+~
+~
+0 -1 6336
+D3
+~
+~
+0 -1 6328
+T6300
+Z-1
+C-1
+R0
+S
+#6333
+A:3~
+ 
+     Welcome to the Jedi Knight's Master arena. This is
+just like a fighting in multi room places. This is for
+the use of club fun or to teach people how to pk. Make
+sure toggle 6 is OFF so you dont kill each other. You
+MUST recall, there is no way back to the clubhouse from
+here. If you do happen to die or drop something, it goes
+back to the recall room.
+ 
+~
+63 0 1
+D1
+~
+~
+0 -1 6337
+D2
+~
+~
+0 -1 6334
+D3
+~
+~
+0 -1 6329
+T6300
+Z-1
+C-1
+R0
+S
+#6334
+B:3~
+ 
+     Welcome to the Jedi Knight's Master arena. This is
+just like a fighting in multi room places. This is for
+the use of club fun or to teach people how to pk. Make
+sure toggle 6 is OFF so you dont kill each other. You
+MUST recall, there is no way back to the clubhouse from
+here. If you do happen to die or drop something, it goes
+back to the recall room.
+ 
+~
+63 0 1
+D0
+~
+~
+0 -1 6333
+D1
+~
+~
+0 -1 6338
+D2
+~
+~
+0 -1 6335
+D3
+~
+~
+0 -1 6330
+T6300
+Z-1
+C-1
+R0
+S
+#6335
+C:3~
+ 
+     Welcome to the Jedi Knight's Master arena. This is
+just like a fighting in multi room places. This is for
+the use of club fun or to teach people how to pk. Make
+sure toggle 6 is OFF so you dont kill each other. You
+MUST recall, there is no way back to the clubhouse from
+here. If you do happen to die or drop something, it goes
+back to the recall room.
+ 
+~
+63 0 1
+D0
+~
+~
+0 -1 6334
+D1
+~
+~
+0 -1 6339
+D2
+~
+~
+0 -1 6336
+D3
+~
+~
+0 -1 6331
+T6300
+Z-1
+C-1
+R0
+S
+#6336
+D:3~
+ 
+     Welcome to the Jedi Knight's Master arena. This is
+just like a fighting in multi room places. This is for
+the use of club fun or to teach people how to pk. Make
+sure toggle 6 is OFF so you dont kill each other. You
+MUST recall, there is no way back to the clubhouse from
+here. If you do happen to die or drop something, it goes
+back to the recall room.
+ 
+~
+63 0 1
+D0
+~
+~
+0 -1 6335
+D1
+~
+~
+0 -1 6366
+D3
+~
+~
+0 -1 6332
+T6300
+Z-1
+C-1
+R0
+S
+#6337
+A:4~
+ 
+     Welcome to the Jedi Knight's Master arena. This is
+just like a fighting in multi room places. This is for
+the use of club fun or to teach people how to pk. Make
+sure toggle 6 is OFF so you dont kill each other. You
+MUST recall, there is no way back to the clubhouse from
+here. If you do happen to die or drop something, it goes
+back to the recall room.
+ 
+~
+63 0 1
+D1
+~
+~
+0 -1 6378
+D2
+~
+~
+0 -1 6338
+D3
+~
+~
+0 -1 6333
+T6300
+Z-1
+C-1
+R0
+S
+#6338
+B:4~
+ 
+     Welcome to the Jedi Knight's Master arena. This is
+just like a fighting in multi room places. This is for
+the use of club fun or to teach people how to pk. Make
+sure toggle 6 is OFF so you dont kill each other. You
+MUST recall, there is no way back to the clubhouse from
+here. If you do happen to die or drop something, it goes
+back to the recall room.
+ 
+~
+63 0 1
+D0
+~
+~
+0 -1 6337
+D1
+~
+~
+0 -1 6368
+D2
+~
+~
+0 -1 6339
+D3
+~
+~
+0 -1 6334
+T6300
+Z-1
+C-1
+R0
+S
+#6339
+C:4~
+ 
+     Welcome to the Jedi Knight's Master arena. This is
+just like a fighting in multi room places. This is for
+the use of club fun or to teach people how to pk. Make
+sure toggle 6 is OFF so you dont kill each other. You
+MUST recall, there is no way back to the clubhouse from
+here. If you do happen to die or drop something, it goes
+back to the recall room.
+ 
+~
+63 0 1
+D0
+~
+~
+0 -1 6338
+D1
+~
+~
+0 -1 6369
+D2
+~
+~
+0 -1 6366
+D3
+~
+~
+0 -1 6335
+T6300
+Z-1
+C-1
+R0
+S
+#6340
+{BO,CYAN}J{BO,WHITE}edi {BO,CYAN}K{BO,WHITE}nights {BO,BLUE}Maze{bo,blue}~
+               {BO,B} _____             
+            ___/{BO,RED}O   O{BO,B}\____        
+           / {BO,RED}O        {BO,RED}O{BO,B}   \       
+           \______________/       
+      {BO,RED}-==={BO,B}|____\///\\\/_____      
+          \----------------/      
+           \______________/  \/   
+            /\__________/    //   
+     >=o\  // //\\   || \\  //    
+        \\o/ //  \o  ||  \o//     
+            //    || ||           
+        /o==o     |o \o==o        
+       //         //     \\       
+       /\        //       /\      
+                 /\               
+    
+    
+    
+   {BO,RED}--==== INTRUDER ALERT ====--{bo,red}
+~
+63 17429 1
+D0
+~
+~
+0 -1 6342
+D1
+~
+~
+0 -1 6343
+D2
+~
+~
+0 -1 836
+D3
+~
+~
+0 -1 6341
+Z-1
+C-1
+R0
+S
+#6341
+{BO,BLUE}The path to your defiance....{bo,blue}~
+               {BO,B} _____             
+            ___/{BO,RED}O   O{BO,B}\____        
+           / {BO,RED}O        {BO,RED}O{BO,B}   \       
+           \______________/       
+      {BO,RED}-==={BO,B}|____\///\\\/_____      
+          \----------------/      
+           \______________/  \/   
+            /\__________/    //   
+     >=o\  // //\\   || \\  //    
+        \\o/ //  \o  ||  \o//     
+            //    || ||           
+        /o==o     |o \o==o        
+       //         //     \\       
+       /\        //       /\      
+                 /\               
+    
+    
+    
+   {BO,RED}--==== INTRUDER ALERT ====--{bo,red}
+~
+63 17425 1
+D1
+~
+~
+0 -1 6342
+D2
+~
+~
+0 -1 6346
+D3
+~
+~
+0 -1 6340
+D5
+~
+~
+0 -1 6345
+Z-1
+C-1
+R0
+S
+#6342
+{BO,BLUE}The path to your defiance....{bo,blue}~
+               {BO,B} _____             
+            ___/{BO,RED}O   O{BO,B}\____        
+           / {BO,RED}O        {BO,RED}O{BO,B}   \       
+           \______________/       
+      {BO,RED}-==={BO,B}|____\///\\\/_____      
+          \----------------/      
+           \______________/  \/   
+            /\__________/    //   
+     >=o\  // //\\   || \\  //    
+        \\o/ //  \o  ||  \o//     
+            //    || ||           
+        /o==o     |o \o==o        
+       //         //     \\       
+       /\        //       /\      
+                 /\               
+    
+    
+    
+   {BO,RED}--==== INTRUDER ALERT ====--{bo,red}
+~
+63 17425 1
+D1
+~
+~
+0 -1 6343
+D2
+~
+~
+0 -1 6365
+D3
+~
+~
+0 -1 6346
+D4
+~
+~
+0 -1 6341
+D5
+~
+~
+0 -1 6342
+Z-1
+C-1
+R0
+S
+#6343
+{BO,BLUE}The path to your defiance....{bo,blue}~
+               {BO,B} _____             
+            ___/{BO,RED}O   O{BO,B}\____        
+           / {BO,RED}O        {BO,RED}O{BO,B}   \       
+           \______________/       
+      {BO,RED}-==={BO,B}|____\///\\\/_____      
+          \----------------/      
+           \______________/  \/   
+            /\__________/    //   
+     >=o\  // //\\   || \\  //    
+        \\o/ //  \o  ||  \o//     
+            //    || ||           
+        /o==o     |o \o==o        
+       //         //     \\       
+       /\        //       /\      
+                 /\               
+    
+    
+    
+   {BO,RED}--==== INTRUDER ALERT ====--{bo,red}
+~
+63 17425 1
+D0
+~
+~
+0 -1 6344
+D1
+~
+~
+0 -1 6344
+D2
+~
+~
+0 -1 6365
+D3
+~
+~
+0 -1 6342
+Z-1
+C-1
+R0
+S
+#6344
+{BO,BLUE}The path to your defiance....{bo,blue}~
+               {BO,B} _____             
+            ___/{BO,RED}O   O{BO,B}\____        
+           / {BO,RED}O        {BO,RED}O{BO,B}   \       
+           \______________/       
+      {BO,RED}-==={BO,B}|____\///\\\/_____      
+          \----------------/      
+           \______________/  \/   
+            /\__________/    //   
+     >=o\  // //\\   || \\  //    
+        \\o/ //  \o  ||  \o//     
+            //    || ||           
+        /o==o     |o \o==o        
+       //         //     \\       
+       /\        //       /\      
+                 /\               
+    
+    
+    
+   {BO,RED}--==== INTRUDER ALERT ====--{bo,red}
+~
+63 17425 1
+D0
+~
+~
+0 -1 6340
+D1
+~
+~
+0 -1 6345
+D2
+~
+~
+0 -1 6363
+D3
+~
+~
+0 -1 6345
+Z-1
+C-1
+R0
+S
+#6345
+{BO,BLUE}The path to your defiance....{bo,blue}~
+               {BO,B} _____             
+            ___/{BO,RED}O   O{BO,B}\____        
+           / {BO,RED}O        {BO,RED}O{BO,B}   \       
+           \______________/       
+      {BO,RED}-==={BO,B}|____\///\\\/_____      
+          \----------------/      
+           \______________/  \/   
+            /\__________/    //   
+     >=o\  // //\\   || \\  //    
+        \\o/ //  \o  ||  \o//     
+            //    || ||           
+        /o==o     |o \o==o        
+       //         //     \\       
+       /\        //       /\      
+                 /\               
+    
+    
+    
+   {BO,RED}--==== INTRUDER ALERT ====--{bo,red}
+~
+63 17425 1
+D1
+~
+~
+0 -1 6341
+D2
+~
+~
+0 -1 6350
+D3
+~
+~
+0 -1 6344
+D4
+~
+~
+0 -1 6345
+D5
+~
+~
+0 -1 6343
+Z-1
+C-1
+R0
+S
+#6346
+{BO,BLUE}The path to your defiance....{bo,blue}~
+               {BO,B} _____             
+            ___/{BO,RED}O   O{BO,B}\____        
+           / {BO,RED}O        {BO,RED}O{BO,B}   \       
+           \______________/       
+      {BO,RED}-==={BO,B}|____\///\\\/_____      
+          \----------------/      
+           \______________/  \/   
+            /\__________/    //   
+     >=o\  // //\\   || \\  //    
+        \\o/ //  \o  ||  \o//     
+            //    || ||           
+        /o==o     |o \o==o        
+       //         //     \\       
+       /\        //       /\      
+                 /\               
+    
+    
+    
+   {BO,RED}--==== INTRUDER ALERT ====--{bo,red}
+~
+63 17425 1
+D0
+~
+~
+0 -1 6341
+D1
+~
+~
+0 -1 6343
+D2
+~
+~
+0 -1 6345
+D3
+~
+~
+0 -1 6365
+Z-1
+C-1
+R0
+S
+#6347
+{BO,BLUE}The path to your defiance....{bo,blue}~
+               {BO,B} _____             
+            ___/{BO,RED}O   O{BO,B}\____        
+           / {BO,RED}O        {BO,RED}O{BO,B}   \       
+           \______________/       
+      {BO,RED}-==={BO,B}|____\///\\\/_____      
+          \----------------/      
+           \______________/  \/   
+            /\__________/    //   
+     >=o\  // //\\   || \\  //    
+        \\o/ //  \o  ||  \o//     
+            //    || ||           
+        /o==o     |o \o==o        
+       //         //     \\       
+       /\        //       /\      
+                 /\               
+    
+    
+    
+   {BO,RED}--==== INTRUDER ALERT ====--{bo,red}
+~
+63 17425 1
+D0
+~
+~
+0 -1 6342
+D1
+~
+~
+0 -1 6348
+D2
+~
+~
+0 -1 6352
+D3
+~
+~
+0 -1 6346
+Z-1
+C-1
+R0
+S
+#6348
+{BO,BLUE}The path to your defiance....{bo,blue}~
+               {BO,B} _____             
+            ___/{BO,RED}O   O{BO,B}\____        
+           / {BO,RED}O        {BO,RED}O{BO,B}   \       
+           \______________/       
+      {BO,RED}-==={BO,B}|____\///\\\/_____      
+          \----------------/      
+           \______________/  \/   
+            /\__________/    //   
+     >=o\  // //\\   || \\  //    
+        \\o/ //  \o  ||  \o//     
+            //    || ||           
+        /o==o     |o \o==o        
+       //         //     \\       
+       /\        //       /\      
+                 /\               
+    
+    
+    
+   {BO,RED}--==== INTRUDER ALERT ====--{bo,red}
+~
+63 1173 1
+D0
+~
+~
+0 -1 6365
+D1
+~
+~
+0 -1 6345
+D2
+~
+~
+0 -1 6353
+D3
+~
+~
+0 -1 6347
+Z-1
+C-1
+R0
+S
+#6349
+{BO,BLUE}The path to your defiance....{bo,blue}~
+{BO,BLA}                _____             
+            ___/{R}O   O{BLA}\____        
+           / {R}O        O{BLA}   \       
+           \______________/       
+     {R} -==={BLA}|____\///\\\/_____      
+          \----------------/      
+           \______________/  \/   
+            /\__________/    //   
+     >=o\  // //\\   || \\  //    
+        \\o/ //  \o  ||  \o//     
+            //    || ||           
+        /o==o     |o \o==o        
+       //         //     \\       
+       /\        //       /\      
+                 /\               
+    
+    
+    
+{R}   --==== INTRUDER ALERT ====--{bo,r}
+~
+63 17557 1
+D0
+~
+~
+0 -1 6342
+D1
+~
+~
+0 -1 6350
+D2
+~
+~
+0 -1 6360
+D3
+~
+~
+0 -1 6364
+D5
+~
+~
+0 -1 6349
+Z-1
+C-1
+R0
+S
+#6350
+{BO,BLUE}The path to your defiance....{bo,blue}~
+               {BO,B} _____             
+            ___/{BO,RED}O   O{BO,B}\____        
+           / {BO,RED}O        {BO,RED}O{BO,B}   \       
+           \______________/       
+      {BO,RED}-==={BO,B}|____\///\\\/_____      
+          \----------------/      
+           \______________/  \/   
+            /\__________/    //   
+     >=o\  // //\\   || \\  //    
+        \\o/ //  \o  ||  \o//     
+            //    || ||           
+        /o==o     |o \o==o        
+       //         //     \\       
+       /\        //       /\      
+                 /\               
+    
+    
+    
+   {BO,RED}--==== INTRUDER ALERT ====--{bo,red}
+~
+63 17425 1
+D0
+~
+~
+0 -1 6345
+D1
+~
+~
+0 -1 6345
+D2
+~
+~
+0 -1 6355
+D3
+~
+~
+0 -1 6342
+Z-1
+C-1
+R0
+S
+#6351
+{BO,BLUE}The path to your defiance....{bo,blue}~
+               {BO,B} _____             
+            ___/{BO,RED}O   O{BO,B}\____        
+           / {BO,RED}O        {BO,RED}O{BO,B}   \       
+           \______________/       
+      {BO,RED}-==={BO,B}|____\///\\\/_____      
+          \----------------/      
+           \______________/  \/   
+            /\__________/    //   
+     >=o\  // //\\   || \\  //    
+        \\o/ //  \o  ||  \o//     
+            //    || ||           
+        /o==o     |o \o==o        
+       //         //     \\       
+       /\        //       /\      
+                 /\               
+    
+    
+    
+   {BO,RED}--==== INTRUDER ALERT ====--{bo,red}
+~
+63 1173 1
+D0
+~
+~
+0 -1 6362
+D1
+~
+~
+0 -1 6356
+D2
+~
+~
+0 -1 6346
+D3
+~
+~
+0 -1 6367
+Z-1
+C-1
+R0
+S
+#6352
+{BO,BLUE}The path to your defiance....{bo,blue}~
+               {BO,B} _____             
+            ___/{BO,RED}O   O{BO,B}\____        
+           / {BO,RED}O        {BO,RED}O{BO,B}   \       
+           \______________/       
+      {BO,RED}-==={BO,B}|____\///\\\/_____      
+          \----------------/      
+           \______________/  \/   
+            /\__________/    //   
+     >=o\  // //\\   || \\  //    
+        \\o/ //  \o  ||  \o//     
+            //    || ||           
+        /o==o     |o \o==o        
+       //         //     \\       
+       /\        //       /\      
+                 /\               
+    
+    
+    
+   {BO,RED}--==== INTRUDER ALERT ====--{bo,red}
+~
+63 17557 1
+D1
+~
+~
+0 -1 6362
+D2
+~
+~
+0 -1 6357
+D3
+~
+~
+0 -1 6361
+D4
+~
+~
+0 -1 6346
+D5
+~
+~
+0 -1 6356
+Z-1
+C-1
+R0
+S
+#6353
+{BO,BLUE}The path to your defiance....{bo,blue}~
+               {BO,B} _____             
+            ___/{BO,RED}O   O{BO,B}\____        
+           / {BO,RED}O        {BO,RED}O{BO,B}   \       
+           \______________/       
+      {BO,RED}-==={BO,B}|____\///\\\/_____      
+          \----------------/      
+           \______________/  \/   
+            /\__________/    //   
+     >=o\  // //\\   || \\  //    
+        \\o/ //  \o  ||  \o//     
+            //    || ||           
+        /o==o     |o \o==o        
+       //         //     \\       
+       /\        //       /\      
+                 /\               
+    
+    
+    
+   {BO,RED}--==== INTRUDER ALERT ====--{bo,red}
+~
+63 17557 1
+D0
+~
+~
+0 -1 6356
+D1
+~
+~
+0 -1 6354
+D2
+~
+~
+0 -1 6362
+D3
+~
+~
+0 -1 6356
+D5
+~
+~
+0 -1 6362
+Z-1
+C-1
+R0
+S
+#6354
+{BO,BLUE}The path to your defiance....{bo,blue}~
+{BO,BLA}                _____             
+            ___/{R}O   O{BLA}\____        
+           / {R}O        O{BLA}   \       
+           \______________/       
+     {R} -==={BLA}|____\///\\\/_____      
+          \----------------/      
+           \______________/  \/   
+            /\__________/    //   
+     >=o\  // //\\   || \\  //    
+        \\o/ //  \o  ||  \o//     
+            //    || ||           
+        /o==o     |o \o==o        
+       //         //     \\       
+       /\        //       /\      
+                 /\               
+    
+    
+    
+{R}   --==== INTRUDER ALERT ====--{bo,r}
+~
+63 17489 1
+D0
+~
+~
+0 -1 6349
+D1
+~
+~
+0 -1 6355
+D2
+~
+~
+0 -1 6359
+D5
+~
+~
+0 -1 6358
+Z-1
+C-1
+R0
+S
+#6355
+{BO,BLUE}The path to your defiance....{bo,blue}~
+{BO,BLA}                _____             
+            ___/{R}O   O{BLA}\____        
+           / {R}O        O{BLA}   \       
+           \______________/       
+     {R} -==={BLA}|____\///\\\/_____      
+          \----------------/      
+           \______________/  \/   
+            /\__________/    //   
+     >=o\  // //\\   || \\  //    
+        \\o/ //  \o  ||  \o//     
+            //    || ||           
+        /o==o     |o \o==o        
+       //         //     \\       
+       /\        //       /\      
+                 /\               
+    
+    
+    
+{R}   --==== INTRUDER ALERT ====--{bo,r}
+~
+63 17425 1
+D0
+~
+~
+0 -1 6350
+D1
+~
+~
+0 -1 6350
+D2
+~
+~
+0 -1 6360
+D3
+~
+~
+0 -1 6354
+Z-1
+C-1
+R0
+S
+#6356
+{BO,BLUE}The path to your defiance....{bo,blue}~
+ 
+ 
+ 
+ 
+ 
+ AHHHHHHHHHHHHHHH!
+ 
+ 
+AHHHHHHHHHHHHHHHHHHHH!
+ 
+ 
+AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!
+ 
+ 
+OOOOOFFFFFFF!!
+~
+63 1049617 1
+D0
+~
+door~
+1 -1 6358
+D2
+~
+~
+0 -1 6345
+Z-1
+C-1
+R0
+S
+#6357
+{BO,BLUE}The path to your defiance....{bo,blue}~
+               {BO,B} _____             
+            ___/{BO,RED}O   O{BO,B}\____        
+           / {BO,RED}O        {BO,RED}O{BO,B}   \       
+           \______________/       
+      {BO,RED}-==={BO,B}|____\///\\\/_____      
+          \----------------/      
+           \______________/  \/   
+            /\__________/    //   
+     >=o\  // //\\   || \\  //    
+        \\o/ //  \o  ||  \o//     
+            //    || ||           
+        /o==o     |o \o==o        
+       //         //     \\       
+       /\        //       /\      
+                 /\               
+    
+    
+    
+   {BO,RED}--==== INTRUDER ALERT ====--{bo,red}
+~
+63 17557 1
+D1
+~
+~
+0 -1 6356
+D2
+~
+~
+0 -1 6365
+D3
+~
+~
+0 -1 6365
+D5
+~
+~
+0 -1 6343
+Z-1
+C-1
+R0
+S
+#6358
+{BO,BLUE}The path to your defiance....{bo,blue}~
+               {BO,B} _____             
+            ___/{BO,RED}O   O{BO,B}\____        
+           / {BO,RED}O        {BO,RED}O{BO,B}   \       
+           \______________/       
+      {BO,RED}-==={BO,B}|____\///\\\/_____      
+          \----------------/      
+           \______________/  \/   
+            /\__________/    //   
+     >=o\  // //\\   || \\  //    
+        \\o/ //  \o  ||  \o//     
+            //    || ||           
+        /o==o     |o \o==o        
+       //         //     \\       
+       /\        //       /\      
+                 /\               
+    
+    
+    
+   {BO,RED}--==== INTRUDER ALERT ====--{bo,red}
+~
+63 17425 1
+D0
+~
+~
+0 -1 6362
+D1
+~
+~
+0 -1 6359
+D2
+~
+door~
+1 -1 6356
+D4
+~
+~
+0 -1 6354
+D5
+~
+~
+0 -1 6355
+Z-1
+C-1
+R0
+S
+#6359
+{BO,BLUE}The path to your defiance....{bo,blue}~
+               {BO,B} _____             
+            ___/{BO,RED}O   O{BO,B}\____        
+           / {BO,RED}O        {BO,RED}O{BO,B}   \       
+           \______________/       
+      {BO,RED}-==={BO,B}|____\///\\\/_____      
+          \----------------/      
+           \______________/  \/   
+            /\__________/    //   
+     >=o\  // //\\   || \\  //    
+        \\o/ //  \o  ||  \o//     
+            //    || ||           
+        /o==o     |o \o==o        
+       //         //     \\       
+       /\        //       /\      
+                 /\               
+    
+    
+    
+   {BO,RED}--==== INTRUDER ALERT ====--{bo,red}
+~
+63 17425 1
+D0
+~
+~
+0 -1 6359
+D1
+~
+~
+0 -1 6360
+D2
+~
+~
+0 -1 6365
+D3
+~
+~
+0 -1 6358
+D5
+~
+~
+0 -1 6359
+Z-1
+C-1
+R0
+S
+#6360
+{BO,BLUE}The path to your defiance....{bo,blue}~
+               {BO,B} _____             
+            ___/{BO,RED}O   O{BO,B}\____        
+           / {BO,RED}O        {BO,RED}O{BO,B}   \       
+           \______________/       
+      {BO,RED}-==={BO,B}|____\///\\\/_____      
+          \----------------/      
+           \______________/  \/   
+            /\__________/    //   
+     >=o\  // //\\   || \\  //    
+        \\o/ //  \o  ||  \o//     
+            //    || ||           
+        /o==o     |o \o==o        
+       //         //     \\       
+       /\        //       /\      
+                 /\               
+    
+    
+    
+   {BO,RED}--==== INTRUDER ALERT ====--{bo,red}
+~
+63 17557 1
+D0
+~
+~
+0 -1 6345
+D1
+~
+~
+0 -1 6365
+D2
+~
+~
+0 -1 6365
+D3
+~
+~
+0 -1 6359
+Z-1
+C-1
+R0
+S
+#6361
+{BO,BLUE}The path to your defiance....{bo,blue}~
+               {BO,B} _____             
+            ___/{BO,RED}O   O{BO,B}\____        
+           / {BO,RED}O        {BO,RED}O{BO,B}   \       
+           \______________/       
+      {BO,RED}-==={BO,B}|____\///\\\/_____      
+          \----------------/      
+           \______________/  \/   
+            /\__________/    //   
+     >=o\  // //\\   || \\  //    
+        \\o/ //  \o  ||  \o//     
+            //    || ||           
+        /o==o     |o \o==o        
+       //         //     \\       
+       /\        //       /\      
+                 /\               
+    
+    
+    
+   {BO,RED}--==== INTRUDER ALERT ====--{bo,red}
+~
+63 1066001 1
+D0
+~
+~
+0 -1 6351
+D2
+~
+~
+0 -1 6344
+Z-1
+C-1
+R0
+S
+#6362
+{BO,BLUE}The path to your defiance....{bo,blue}~
+               {BO,B} _____             
+            ___/{BO,RED}O   O{BO,B}\____        
+           / {BO,RED}O        {BO,RED}O{BO,B}   \       
+           \______________/       
+      {BO,RED}-==={BO,B}|____\///\\\/_____      
+          \----------------/      
+           \______________/  \/   
+            /\__________/    //   
+     >=o\  // //\\   || \\  //    
+        \\o/ //  \o  ||  \o//     
+            //    || ||           
+        /o==o     |o \o==o        
+       //         //     \\       
+       /\        //       /\      
+                 /\               
+    
+    
+    
+   {BO,RED}--==== INTRUDER ALERT ====--{bo,red}
+~
+63 1066001 1
+D1
+~
+~
+0 -1 6343
+D3
+~
+~
+0 -1 6353
+Z-1
+C-1
+R0
+S
+#6363
+{BO,BLUE}The path to your defiance....{bo,blue}~
+               {BO,B} _____             
+            ___/{BO,RED}O   O{BO,B}\____        
+           / {BO,RED}O        {BO,RED}O{BO,B}   \       
+           \______________/       
+      {BO,RED}-==={BO,B}|____\///\\\/_____      
+          \----------------/      
+           \______________/  \/   
+            /\__________/    //   
+     >=o\  // //\\   || \\  //    
+        \\o/ //  \o  ||  \o//     
+            //    || ||           
+        /o==o     |o \o==o        
+       //         //     \\       
+       /\        //       /\      
+                 /\               
+    
+    
+    
+   {BO,RED}--==== INTRUDER ALERT ====--{bo,red}
+~
+63 1066001 1
+D4
+~
+~
+0 -1 6342
+D5
+~
+~
+0 -1 6349
+Z-1
+C-1
+R0
+S
+#6364
+{BO,BLUE}The path to your defiance....{bo,blue}~
+               {BO,B} _____             
+            ___/{BO,RED}O   O{BO,B}\____        
+           / {BO,RED}O        {BO,RED}O{BO,B}   \       
+           \______________/       
+      {BO,RED}-==={BO,B}|____\///\\\/_____      
+          \----------------/      
+           \______________/  \/   
+            /\__________/    //   
+     >=o\  // //\\   || \\  //    
+        \\o/ //  \o  ||  \o//     
+            //    || ||           
+        /o==o     |o \o==o        
+       //         //     \\       
+       /\        //       /\      
+                 /\               
+    
+    
+    
+   {BO,RED}--==== INTRUDER ALERT ====--{bo,red}
+~
+63 1066001 1
+D0
+~
+~
+0 -1 6360
+D2
+~
+~
+0 -1 6348
+Z-1
+C-1
+R0
+S
+#6365
+{BO,BLU}Shrine of Heathen, the {C}J{W}edi {C}K{W}night.{bo,w}~
+               {BO,B} _____             
+            ___/{BO,RED}O   O{BO,B}\____        
+           / {BO,RED}O        {BO,RED}O{BO,B}   \       
+           \______________/       
+      {BO,RED}-==={BO,B}|____\///\\\/_____      
+          \----------------/      
+           \______________/  \/   
+            /\__________/    //   
+     >=o\  // //\\   || \\  //    
+        \\o/ //  \o  ||  \o//     
+            //    || ||           
+        /o==o     |o \o==o        
+       //         //     \\       
+       /\        //       /\      
+                 /\               
+    
+    
+    
+   {BO,RED}--==== INTRUDER ALERT ====--{bo,red}
+~
+63 17427 1
+Z-1
+C-1
+R0
+S
+#6366
+D:4~
+ 
+     Welcome to the Jedi Knight's Master arena. This is
+just like a fighting in multi room places. This is for
+the use of club fun or to teach people how to pk. Make
+sure toggle 6 is OFF so you dont kill each other. You
+MUST recall, there is no way back to the clubhouse from
+here. If you do happen to die or drop something, it goes
+back to the recall room.
+ 
+~
+63 0 1
+D0
+~
+~
+0 -1 6339
+D1
+~
+~
+0 -1 6370
+D3
+~
+~
+0 -1 6336
+T6300
+Z-1
+C-1
+R0
+S
+#6367
+{BO,CYAN}J{BO,WHITE}edi {BO,CYAN}K{BO,WHITE}nights {BO,BLUE}Maze{bo,blue}~
+               {BO,B} _____             
+            ___/{BO,RED}O   O{BO,B}\____        
+           / {BO,RED}O        {BO,RED}O{BO,B}   \       
+           \______________/       
+      {BO,RED}-==={BO,B}|____\///\\\/_____      
+          \----------------/      
+           \______________/  \/   
+            /\__________/    //   
+     >=o\  // //\\   || \\  //    
+        \\o/ //  \o  ||  \o//     
+            //    || ||           
+        /o==o     |o \o==o        
+       //         //     \\       
+       /\        //       /\      
+                 /\               
+    
+    
+    
+   {BO,RED}--==== INTRUDER ALERT ====--{bo,red}
+~
+63 16516 1
+D0
+~
+~
+0 -1 6345
+D1
+~
+~
+0 -1 6360
+D2
+~
+~
+0 -1 6345
+D3
+~
+~
+0 -1 6356
+D5
+~
+~
+0 -1 6316
+Z-1
+C-1
+R0
+S
+#6368
+B:5~
+ 
+     Welcome to the Jedi Knight's Master arena. This is
+just like a fighting in multi room places. This is for
+the use of club fun or to teach people how to pk. Make
+sure toggle 6 is OFF so you dont kill each other. You
+MUST recall, there is no way back to the clubhouse from
+here. If you do happen to die or drop something, it goes
+back to the recall room.
+ 
+~
+63 0 1
+D0
+~
+~
+0 -1 6378
+D1
+~
+~
+0 -1 6372
+D2
+~
+~
+0 -1 6369
+D3
+~
+~
+0 -1 6338
+T6300
+Z-1
+C-1
+R0
+S
+#6369
+C:5~
+ 
+     Welcome to the Jedi Knight's Master arena. This is
+just like a fighting in multi room places. This is for
+the use of club fun or to teach people how to pk. Make
+sure toggle 6 is OFF so you dont kill each other. You
+MUST recall, there is no way back to the clubhouse from
+here. If you do happen to die or drop something, it goes
+back to the recall room.
+ 
+~
+63 0 1
+D0
+~
+~
+0 -1 6368
+D1
+~
+~
+0 -1 6373
+D2
+~
+~
+0 -1 6370
+D3
+~
+~
+0 -1 6339
+T6300
+Z-1
+C-1
+R0
+S
+#6370
+D:5~
+ 
+     Welcome to the Jedi Knight's Master arena. This is
+just like a fighting in multi room places. This is for
+the use of club fun or to teach people how to pk. Make
+sure toggle 6 is OFF so you dont kill each other. You
+MUST recall, there is no way back to the clubhouse from
+here. If you do happen to die or drop something, it goes
+back to the recall room.
+ 
+~
+63 0 1
+D0
+~
+~
+0 -1 6369
+D1
+~
+~
+0 -1 6374
+D3
+~
+~
+0 -1 6366
+T6300
+Z-1
+C-1
+R0
+S
+#6371
+A:6~
+ 
+     Welcome to the Jedi Knight's Master arena. This is
+just like a fighting in multi room places. This is for
+the use of club fun or to teach people how to pk. Make
+sure toggle 6 is OFF so you dont kill each other. You
+MUST recall, there is no way back to the clubhouse from
+here. If you do happen to die or drop something, it goes
+back to the recall room.
+ 
+~
+63 0 1
+D2
+~
+~
+0 -1 6372
+D3
+~
+~
+0 -1 6378
+T6300
+Z-1
+C-1
+R0
+S
+#6372
+B:6~
+ 
+     Welcome to the Jedi Knight's Master arena. This is
+just like a fighting in multi room places. This is for
+the use of club fun or to teach people how to pk. Make
+sure toggle 6 is OFF so you dont kill each other. You
+MUST recall, there is no way back to the clubhouse from
+here. If you do happen to die or drop something, it goes
+back to the recall room.
+ 
+~
+63 0 1
+D0
+~
+~
+0 -1 6371
+D2
+~
+~
+0 -1 6373
+D3
+~
+~
+0 -1 6368
+T6300
+Z-1
+C-1
+R0
+S
+#6373
+C:6~
+ 
+     Welcome to the Jedi Knight's Master arena. This is
+just like a fighting in multi room places. This is for
+the use of club fun or to teach people how to pk. Make
+sure toggle 6 is OFF so you dont kill each other. You
+MUST recall, there is no way back to the clubhouse from
+here. If you do happen to die or drop something, it goes
+back to the recall room.
+ 
+~
+63 0 1
+D0
+~
+~
+0 -1 6372
+D2
+~
+~
+0 -1 6374
+D3
+~
+~
+0 -1 6369
+T6300
+Z-1
+C-1
+R0
+S
+#6374
+D:6~
+ 
+     Welcome to the Jedi Knight's Master arena. This is
+just like a fighting in multi room places. This is for
+the use of club fun or to teach people how to pk. Make
+sure toggle 6 is OFF so you dont kill each other. You
+MUST recall, there is no way back to the clubhouse from
+here. If you do happen to die or drop something, it goes
+back to the recall room.
+ 
+~
+63 0 1
+D0
+~
+~
+0 -1 6373
+D3
+~
+~
+0 -1 6370
+T6300
+Z-1
+C-1
+R0
+S
+#6375
+{BLINK}{BO,BLUE}Jaskin's{BO,YELLOW} Starlit{BO,BLUE} Room{bo,blue}{blink}~
+   
+   Your eyes light up in admiration as you enter
+   this room and realize how amazing it is. The 
+   ceiling, walls, and floor are made up of only
+   glass which gives a beautiful view of the night
+   sky. At night when the lighting is low the room
+   elevates into the heavens and the room radiates
+   with starlight and moonlight. True Beauty...
+
+~
+63 262144 1
+D4
+~
+~
+0 -1 6383
+E
+stars~
+         ********                      **   **
+         ********                      **  ** 
+              **     ****      *****   ** **   :) ***   **
+              **    ******    ****     *****   ** ****  **
+         *    **    **  **     *****   ** **   ** ** ** **
+         ********   ********     ****  **  **  ** **  ****
+          *******    **** ***  ******  **   ** ** **  ****
+               
+               **********                  **********
+                 ***  ***                    ***  ***
+                 ***  ***                    ***  ***
+                 ******** :D     *** ***     ********
+                 **       **    **** ****    **
+                 **       **   **  ***  **   **
+                 **       **  **         **  **
+
+~
+Z-1
+C-1
+R0
+S
+#6376
+IMMORTAL's Timeless Void~
+   
+   As you enter the room time seems to stand still
+   but speed past you at the same time. You gaze
+   through a window and are amazed to see the sun
+   and moon setting and rising at the same time. 
+   In the corner of this room you spot a picture
+   of a man. Underneath the portrait are the words: 
+
+            IMMORTAL - Creator Of ALL
+
+~
+63 262144 1
+D3
+~
+~
+0 -1 6377
+Z-1
+C-1
+R0
+S
+#6377
+{W,BO}The {C}Turbolift{c,bo}~
+  {BLU,BO}
+  You have just entered the turbolift of the
+  Jedi Knight compound. It will take you to 
+  member quarters quickly and easily. A soft
+  hum can be heard as the machinery does its
+  work
+ {blu,bo}
+~
+63 262152 1
+D1
+~
+~
+0 -1 6376
+D5
+~
+~
+0 -1 6383
+Z-1
+C-1
+R0
+S
+#6378
+A:5~
+ 
+     Welcome to the Jedi Knight's Master arena. This is
+just like a fighting in multi room places. This is for
+the use of club fun or to teach people how to pk. Make
+sure toggle 6 is OFF so you dont kill each other. You
+MUST recall, there is no way back to the clubhouse from
+here. If you do happen to die or drop something, it goes
+back to the recall room.
+ 
+~
+63 0 1
+D1
+~
+~
+0 -1 6371
+D2
+~
+~
+0 -1 6368
+D3
+~
+~
+0 -1 6337
+T6300
+Z-1
+C-1
+R0
+S
+#6379
+{BLUE,BO}The Chapel{bo}~
+  {WHI} 
+This small cylindrical shaped room gives a feeling
+of peace and calm.
+  
+Light reflects off the tiled floor and towards the
+ceiling, a path leads to the front and center area
+of the room where an altar is located.
+  
+~
+63 0 1
+D5
+~
+~
+0 -1 6317
+Z-1
+C-1
+R0
+S
+#6380
+{MAG}Keke's Chamber{mag}~
+{BO,MAG}
+ ,KEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKE,
+,EKEKEKEKEKEKEKEK'  HOME OF  'KEKEKEKEKEKEKEK,
+KEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKE
+KEKEKEKE{bo,GRE}-----{{RE,BO}@{bo,GRE}-----{{RE,BO}@{bo,GRE}-----{{RE,BO}@{bo,GRE}-----{{RE,BO}@{MAG,BO}KEKEKEKEKE
+KEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKE
+KEKEKEKEKE EKE  KEK   KEK KE EKEKEK   KEKEKEKE
+KEKEKEKEKE E   EKE  K  EK K KEKEKE  K  EKEKEKE
+KEKEKEKEKE   EKEKE    KEK  EKEKEKE    KEKEKEKE
+KEKEKEKEK   KEKEKE EKEKEK   KEKEKE EKEKEKEKEKE
+KEKEKEKEKE    KEKEK   KEK    EKEKEK   KEKEKEKE
+KEKEKEKEKE EK   KEKEKEKEK KE  KEKEKEKEKEKEKEKE
+KEKEKEKEKE EKEKE  KEKEKEK KEKE  KEKEKEKEKEKEKE
+KEKEKEKEKE EKEKEK  EKEKEK KEKEKEKEKEKEKEKEKEKE
+KEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKE
+EKEKEKEK{RE,BO}@{bo,GRE}}-----{RE,BO}@{bo,GRE}}-----{RE,BO}@{bo,GRE}}-----{RE,BO}@{bo,GRE}}-----{MAG,BO}KEKEKEKEKE
+'EKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEK'{mag}
+ 
+~
+63 262144 1
+D0
+~
+~
+0 -1 6312
+Z-1
+C-1
+R0
+S
+#6381
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+63 262144 1
+Z-1
+C-1
+R0
+S
+#6382
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+63 262144 1
+Z-1
+C-1
+R0
+S
+#6383
+{W,BO}The {C}Turbolift{c,bo}~
+  {BLU,BO}
+  You have just entered the turbolift of the
+  Jedi Knight compound. It will take you to 
+  member quarters quickly and easily. A soft
+  hum can be heard as the machinery does its
+  work
+ {blu,bo}
+~
+63 262152 1
+D1
+~
+~
+0 -1 6386
+D2
+~
+~
+0 -1 6309
+D3
+~
+lock~
+1 -1 6384
+D4
+~
+~
+0 -1 6377
+D5
+~
+~
+0 -1 6375
+Z-1
+C-1
+R0
+S
+#6384
+{C,BO}Gung{BLU}'{C}s {BLU}Chamber of {C}Desire{c,bo}~
+{BLU,BO}  
+  What kind of room is this? It seems to have the
+  latest in modern technology. A new bio-bed sits
+  in one corner of the room. Bio-beds conform to
+  your body giving you ultimate relaxation.
+{BLU,BO}
+  One wall is covered with pictures of beautiful
+  women. Under each picture is a plaque with her
+  name, age, and pleasure rating. A blue button
+  is to the right of each plaque with the words
+  "ORDER ME" printed on it. Gung seems to have
+  his nights all planned out.
+{BLU,BO}
+  Music pours in from the stereo system recessed
+  in the walls. Androids walk through the room
+  straightening it up and repairing equipment for
+  their master. You decide to walk over to the
+  mini-bar and fix yourself something to drink.
+{blu,bo}
+~
+63 262152 1
+D1
+~
+lock~
+1 -1 6383
+Z-1
+C-1
+R0
+S
+#6385
+{BLU,BO}({W}>{C}JK{W}<{BLU}){blu,bo} {BLU,BO}New Member {C}Equipment Central{c,bo}~
+{BLU,BO}
+  Welcome! You are here for one reason
+  or another. Either a clubby sent you
+  here because you could use the eq, or
+  you wandered in! This is the new dual
+  equipment room--not new as in fresh, 
+  but new as in YOU ARE NEW TO NC! 
+  Members of ({W}>{C}JK{W}<{BLU}) have put this eq 
+  here just for you! Things in the club
+  donation room east of here will help,
+  too, but it often gets filled up with
+  junk items. Your fellow Jedi Knights
+  placed these items here to help you 
+  out. Since you're new, you may not
+  know the crap from the stuff you
+  should be wearing. Help yourself! 
+  Ask questions if you aren not sure
+  about what you need to wear.
+ {blu,bo}
+~
+63 262144 1
+D1
+~
+~
+0 -1 6304
+Z-1
+C-1
+R0
+S
+#6386
+{BO,BLUE}Artanis's Dorm Room{bo,blue}~
+
+   You see a cluttered dorm room, with homework papers
+   that should have been done weeks ago littered about
+   the room. A TV in the corner with several borrowed 
+   chairs fills up nearly all the walking space, and 
+   the computer in the corner looks like it hasn't 
+   been used for work....ever....  The black lights 
+   and lava lamp complete the soft mood room while  
+   the bed awaits company.
+
+~
+63 262144 1
+D3
+~
+~
+0 -1 6383
+Z-1
+C-1
+R0
+S
+#6387
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+63 262144 1
+Z-1
+C-1
+R0
+S
+#6388
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+63 262144 1
+Z-1
+C-1
+R0
+S
+#6389
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+63 262144 1
+Z-1
+C-1
+R0
+S
+#6390
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+63 262144 1
+Z-1
+C-1
+R0
+S
+#6391
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+63 262144 1
+Z-1
+C-1
+R0
+S
+#6392
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+63 262144 1
+Z-1
+C-1
+R0
+S
+#6393
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+63 262144 1
+Z-1
+C-1
+R0
+S
+#6394
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+63 262144 1
+Z-1
+C-1
+R0
+S
+#6395
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+63 262144 1
+Z-1
+C-1
+R0
+S
+#6396
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+63 262144 1
+Z-1
+C-1
+R0
+S
+#6397
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+63 262144 1
+Z-1
+C-1
+R0
+S
+#6398
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+63 262144 1
+Z-1
+C-1
+R0
+S
+#6399
+none~
+~
+63 0 1
+Z-1
+C-1
+R0
+S
+$~

@@ -1,0 +1,196 @@
+#6000
+axe lumber~
+a lumber axe~
+A heavy lumber axe lies here.~
+~
+5 0 0 8193
+0 2 4 3
+10 50 15
+E
+axe lumber~
+It is a heavy axe of the kind lumberjacks use to chop down trees.
+~
+C
+7000 1
+#6001
+shirt~
+a chequered shirt~
+A chequered shirt lies here.~
+~
+9 0 0 9
+1 0 0 0
+2 20 5
+E
+shirt~
+It is an extra large, chequered shirt made from heavy cloth.
+~
+C
+7000 1
+#6002
+boots~
+a pair of leather boots~
+A pair of leather boots lies here.~
+~
+9 0 0 65
+3 0 0 0
+4 100 25
+E
+boots~
+They are fashioned from rough leather that has been oiled frequently to make
+it stay waterproof.  They look worn but quite functional.
+~
+C
+7000 1
+#6003
+fireplace~
+a fireplace~
+A fireplace made from stone is set against the east wall.~
+~
+15 0 0 0
+200 0 0 0
+0 0 0
+E
+fireplace~
+It is fashioned from stones of various sizes that have been stacked on top of
+each other and fastened with mortar.  Its chimney is constructed likewise and
+leads the smoke out through the low cabin ceiling.
+~
+#6004
+lantern~
+a hooded brass lantern~
+A hooded brass lantern has been left here.~
+~
+1 0 0 16385
+0 0 100 4
+4 60 20
+E
+lantern~
+It is a large and robust but somewhat battered oil lantern made from brass,
+and it is equipped with a handle to make it handy and a hood to protect its
+flame.  Some letters have been scratched on its bottom.
+~
+E
+letters~
+They say, "Use 'hold lantern' to activate."
+~
+#6005
+chest~
+a wooden chest~
+A wooden chest stands in the corner.~
+~
+15 0 0 1
+100 5 6006 0
+40 100 30
+E
+chest~
+It is a robust chest made from short, heavy planks that have been fastened
+together with tenons.  It is equipped with a simple brass lock.
+~
+#6006
+key~
+a small brass key~
+A small brass key lies here.~
+~
+18 65536 0 1
+6005 0 0 0
+1 10 5
+E
+key~
+It is a small, simple brass key with no inscriptions or marks of any kind.
+~
+#6007
+coins gold~
+a heap of gold coins~
+Some gold coins lie piled up in a heap on the floor.~
+~
+20 0 0 1
+100 0 0 0
+0 100 0
+E
+coins~
+The coins seem to be gold.  They are obviously valuable.
+~
+#6010
+blackberries~
+some blackberries~
+Some blackberries grow on a bush nearby.~
+~
+19 0 0 1
+3 0 0 0
+1 10 10
+E
+blackberries~
+They look very tasty indeed.
+~
+#6011
+mushroom~
+a mushroom~
+A small mushroom grows nearby.~
+~
+19 0 0 1
+6 0 0 0
+1 10 10
+E
+mushroom~
+It is a tasty little thing.
+~
+#6012
+sign~
+a large sign~
+A large sign mounted on a pole is standing by the roadside.
+It looks as though one of the sign's arrows has been torn off
+and thrown on the ground next to it.~
+~
+0 0 0 0
+0 0 0 0
+100 0 0
+E
+arrow~
+There is some faded writing on it: Mordilnia
+And it seems to point southward.
+~
+E
+pole~
+Not the most interesting pole in the world.
+Better leave it here, though, as it holds the sign in place.
+~
+E
+sign~
+      _________________________________
+     |                                 |
+     |            Haon-Dor             |
+     |                                 |
+     | This is the Forest of Haon-Dor. |
+     |    Enter at your own risk.      |
+     |                      ...Quifael |
+     |_________________________________|
+            _________| |_________
+           /         | |         \
+          / Haon-Dor | | Dwarven  \
+          \  west    | | Kingdom  /
+           \_________| |_________/
+                     | |
+                     | |
+~
+#6013
+barrel water~
+the barrel~
+A water barrel has been left here.~
+~
+17 0 0 1
+50 50 0 0
+75 60 20
+#6014
+boots~
+a pair of leather boots~
+A pair of leather boots lies here.~
+~
+14 0 0 65
+-1 -1 2 64
+4 100 25
+E
+boots~
+They are fashioned from rough leather that has been oiled frequently to make
+it stay waterproof.  They look worn but quite functional.
+~
+$~

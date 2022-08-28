@@ -1,0 +1,384 @@
+#1500
+child gnome~
+{BOLD}{MAGENTA}A gnome child{magenta}{bold}~
+{MAGENTA}{BOLD}A gnome child{magenta}{bold} is playing around here.
+~
+
+The little tyke looks so innocent playing with his boomerang that
+you just want to pick him up and hug him.
+
+~
+134217748 0 600 S
+13 14 5 5d10+137 2d7+5
+2000 16000
+8 8 1
+D 20
+A 12
+#1501
+woman gnome~
+{MAGENTA}{BOLD}a gnome woman{magenta}{bold}~
+A {MAGENTA}{BOLD}gnome woman{bold}{magenta} is standing here, trying to look beautiful.
+~
+
+The woman is short and gnarled, but acts like a woman several times
+her beauty.  She's starting to look pretty attractive to you ...
+
+~
+134217748 0 600 S
+15 13 4 5d10+170 2d8+5
+2100 21000
+8 8 2
+D 20
+A 12
+#1502
+man gnome~
+{MAGENTA}{BOLD}A gnome man{magenta}{bold}~
+{MAGENTA}{BOLD}A gnome man{magenta}{bold} is walking here, on his way to work.
+~
+
+This is a prime example of a gnome.  He looks short and weak, but
+at the same time an intelligent creature who could outsmart you.
+
+~
+134217732 0 500 S
+16 13 4 5d5+200 2d8+6
+2400 24000
+8 8 1
+D 20
+A 12
+#1503
+scientist gnome~
+{BLUE}{BOLD}A gnome scientist{bold}{blue}~
+{BLUE}{BOLD}A scientist{bold}{blue} wanders around in deep thought.
+~
+
+You see a gnome who is lost deep into some invention that he is 
+about to make.  His hair is white, but he looks fairly strong.
+
+~
+134217735 0 500 C 1
+17 12 4 10d5+200 3d6+10
+2800 28000
+8 8 1
+D 20
+A 12
+#1504
+guard gnome~
+{RED}{BOLD}A gnome guard{red}{bold}~
+{RED}{BOLD}A gnome guard{red}{bold} stands here guarding the gate.
+~
+
+This is a well trained gnome.  He might not have a lot of strength
+but he makes up for it with his weapons skills.
+
+~
+134217730 0 400 S
+18 12 3 5d6+220 3d6+10
+3000 30000
+8 8 1
+D 20
+A 12
+#1505
+chief gnome~
+{BLUE}The Gnome{blue}{RED} Chief{red}~
+A {RED}powerful{red} looking gnome stands here wearing {YELLOW}{BOLD}ornate{yellow}{bold} clothes.
+~
+
+The Chief looks like he could whap you hard.  He looks not only
+powerful but wise and resourceful.  You better not mess with him.
+
+~
+134217731 0 550 S
+25 8 0 5d12+500 4d6+5
+13000 130000
+8 8 1
+D 20
+A 12
+#1507
+troll small~
+{BOLD}{GREEN}A small troll{bold}{green}~
+{BOLD}{GREEN}A small troll{bold}{green} grunts as he takes a swing at you.
+~
+
+The small troll is a short and stocky beast with a human-like 
+face but with the eyes and fangs of a wild beast.
+
+~
+134217766 0 -900 S
+18 12 3 5d10+205 3d6+5
+3000 30000
+8 8 1
+D 20
+A 12
+#1508
+mouse field~
+A field {YELLOW}mouse{yellow}~
+A small {YELLOW}mouse{yellow} runs across your feet.
+~
+
+The Mouse is a cute little creature. 
+
+~
+134217734 0 100 S
+11 15 6 5d5+110 2d6+10
+1100 11000
+8 8 1
+D 20
+A 12
+#1509
+rat~
+A {RED}r{red}{YELLOW}a{yellow}{RED}t{red}~
+A small {RED}r{red}{YELLOW}a{yellow}{RED}t{red} shrieks and runs around.
+~
+
+The rat is a little evil creature that deserves death.
+
+~
+134217732 0 -200 S
+12 15 6 5d5+124 2d6+10
+1300 13200
+8 8 1
+D 20
+A 12
+#1510
+rat large~
+a large rat~
+A large rat runs up to you and nibbles on your boots.
+~
+You have the urge to kill this vile creature.
+~
+134217732 0 -200 S
+14 14 5 5d10+148 2d8+5
+1800 18400
+8 8 1
+D 20
+A 12
+#1511
+rat giant~
+A {RED}giant{red} {YELLOW}r{yellow}{RED}a{red}{YELLOW}t{yellow}~
+A {RED}giant{red} {YELLOW}r{yellow}{RED}a{red}{YELLOW}t{yellow} growls at you and prepares to attack.
+~
+
+This rat has grown up to be the size of an average dog.
+
+~
+134217732 0 -200 S
+16 13 4 3d12+172 2d8+10
+2400 24000
+8 8 1
+D 20
+A 12
+#1512
+troll~
+{GREEN}{BOLD}The Troll{green}{bold}~
+A {GREEN}{BOLD}giant troll{green}{bold} lumbers around.
+~
+
+You see before you a huge mass of living flesh.  You cringe in
+fear as he lifts his powerful arm to bludgeon you.
+
+~
+134217762 0 -800 S
+24 9 1 10d5+460 3d8+10
+10000 100000
+8 8 1
+R 524288
+D 20
+A 12
+#1513
+bat black~
+{BLACK}A black bat{black}~
+{BLACK}A black bat{black} hangs from the ceiling here.
+~
+
+The bat is a grotesque little creature with large wings and fangs.
+
+~
+134219776 16777216 -500 S
+15 13 4 10d4+170 2d8+5
+2100 21000
+8 8 0
+D 20
+A 12
+#1514
+zombie gnome~
+The {GREEN}{BOLD}zombie{green}{bold} {CYAN}gnome{cyan}~
+A {GREEN}{BOLD}zombie{green}{bold} {CYAN}gnome{cyan} shuffles his way towards you.
+~
+
+This is a creature which has passed away long ago.  His body has
+been pulled out of its resting place by some evil force.
+
+~
+134217728 0 -700 S
+17 12 4 10d5+190 3d6+5
+2800 28000
+8 8 0
+D 20
+A 12
+#1515
+bat fire~
+The {RED}{BOLD}fire{red}{bold} {BLACK}{BOLD}bat{black}{bold}~
+The {RED}{BOLD}fire{red}{bold} {BLACK}{BOLD}bat{black}{bold} flames brightly and prepares to attack.
+~
+
+You see a huge flame which resembles the shape of a bat.  The
+creature hangs from the ceiling and prepares to bite you.
+
+~
+134218022 8 -900 S
+22 10 2 5d12+350 3d8+10
+6000 60000
+8 8 1
+D 20
+A 12
+#1516
+guard hobgoblin~
+The {GREEN}{BOLD}hobgoblin{green}{bold} {YELLOW}{BOLD}guard{yellow}{bold}~
+The {GREEN}{BOLD}hobgoblin{green}{bold} {YELLOW}{BOLD}guard{yellow}{bold} attacks first, thinks later.
+~
+
+This is an extra large and extra ugly goblin-like creature.
+He grins evilly as he attempts to charge you.
+
+~
+134217762 0 -700 S
+16 13 4 2d12+202 2d8+5
+2400 24000
+8 8 1
+D 20
+A 12
+#1517
+soldier hobgoblin~
+The {YELLOW}{BOLD} hobgoblin{yellow}{bold} {GREEN}{BOLD}soldier{green}{bold}~
+A {YELLOW}{BOLD}hobgoblin{yellow}{bold} {GREEN}{BOLD}soldier{green}{bold} stands here.
+~
+
+This is just a low-life hobgoblin who couldn't make it to the 
+ranks of the elite guards.  He looks pissed.
+
+~
+134217762 0 -600 S
+13 14 5 5d10+136 2d7+5
+1600 16000
+8 8 1
+D 20
+A 12
+#1518
+bodyguard hobgoblin~
+The {WHITE}{BOLD}hobgoblin{white}{bold} {RED}bodyguard{red}~
+The {WHITE}{BOLD}hobgoblin{white}{bold} {RED}bodyguard{red} guards the king with his life.
+~
+
+This is one of the elite hobhoblin guards.  He stands tall for his
+short stature.  He grins a toothy grin as he prepares to attack.
+
+~
+134217730 0 -500 S
+17 12 4 5d12+185 3d7+2
+2800 28000
+8 8 1
+D 20
+A 12
+#1519
+king hobgoblin~
+The {RED}{BOLD}King of the {red}{bold}{WHITE}{BOLD}Hobgoblins{white}{bold}~
+The {RED}{BOLD}King of the {red}{bold}{WHITE}{BOLD}Hobgoblins{white}{bold} sits on his throne here.
+~
+The king is a silly looking hobgoblin whose muscles bulge out of his robes,
+destroying the sophisticated effect he was trying to create.
+~
+134217731 0 -500 C 1
+22 10 2 5d12+348 3d7+10
+6000 60000
+8 8 1
+D 20
+A 12
+#1520
+miner hobgoblin~
+A {BOLD}{GREEN}hobgoblin{bold}{green} {CYAN}miner{cyan}~
+A {BOLD}{GREEN}hobgoblin{bold}{green} {CYAN}miner{cyan} stands here looking for gold.
+~
+The miner is totally covered in dust.
+~
+134217734 0 -400 S
+15 13 4 5d12+160 2d8+5
+2100 21000
+8 8 1
+D 20
+A 12
+#1521
+treasurer hobgoblin~
+{YELLOW}{BOLD}The Treasurer{bold}{yellow}~
+A {YELLOW}{BOLD}Treasurer{bold}{yellow} is here counting out {GREEN}{BOLD}money{green}{bold}.
+~
+
+The hobgoblin treasurer is an old goblin with glasses.  It appears
+that he can only see a couple feet in front of him.
+
+~
+134217734 0 -200 S
+20 11 2 10d5+220 3d6+10
+4000 40000
+8 8 1
+D 20
+A 12
+#1522
+prisoner gnome~
+A {WHITE}gnome prisoner{white}~
+A {WHITE}gnome prisoner{white} is resting in the straw here.
+~
+
+This poor gnome prisoner is barely alive.
+
+~
+134217734 0 100 S
+13 14 5 10d5+150 2d7+10
+1600 16000
+8 8 1
+D 20
+A 12
+#1523
+prisoner human~
+a human prisoner~
+A human prisoner is here resting in the straw.
+~
+The prisoner is just barely alive.
+~
+134217734 0 100 S
+13 14 5 5d10+140 2d7+10
+1600 16000
+5 8 2
+D 20
+A 12
+#1524
+hermit crab~
+A {RED}hermit{red}~
+A {RED}hermit{red} crab crawls toward you.
+~
+The hermit crab is about 5 feet high and looks mad that you had the nerve
+to wake it up.
+~
+134217766 0 -10 S
+15 13 4 5d11+161 2d8+5
+2100 21000
+8 8 1
+D 20
+A 12
+#1526
+cook hobgoblin~
+The {WHITE}{BOLD}cook{white}{bold}~
+A {GREEN}{BOLD}hobgoblin{green}{bold} {WHITE}{BOLD}cook{white}{bold} stands here cooking something.
+~
+
+The cok is a dirty and fat hobgoblin.  He burps as he stirs up
+something in a pot.
+
+~
+134217734 0 -300 S
+17 12 4 5d12+185 3d7+1
+2800 28000
+8 8 1
+D 20
+A 12
+$~

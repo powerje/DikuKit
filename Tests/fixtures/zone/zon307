@@ -1,0 +1,314 @@
+#307
+{W,BO}Final Fantasy VIII ({w,bo}{BLU,BO}Balamb and Timber{blu,bo}{W,BO}){w,bo}(Shoju)~
+30799 500 1
+*
+X 8386
+M 0 30710    15 30700    {Y}A Bite Bug{y}
+M 0 30711     8 30700    {BLUE}A Gl{CYAN}aci{BLUE}al Eye{blue}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+M 0 30711     8 30700    {BLUE}A Gl{CYAN}aci{BLUE}al Eye{blue}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+M 0 30710    15 30701    {Y}A Bite Bug{y}
+M 0 30711     8 30701    {BLUE}A Gl{CYAN}aci{BLUE}al Eye{blue}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+M 0 30710    15 30702    {Y}A Bite Bug{y}
+M 0 30710    15 30702    {Y}A Bite Bug{y}
+M 0 30700     1 30703    {C}The Balamb Garden Guard{c}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+D 0 30703     0     1    (N:CLOSED) {CY}Balamb Garden {B,WH}Gates{b,wh}
+M 0 30702    15 30704    {C}A Student{c}
+D 0 30704     2     1    (S:CLOSED) {C}The Lobby {c}{W,BO}({w,bo}{G}A1{g}{W,BO}){w,bo}
+M 0 30701    13 30705    {BLU}A Student{blu}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+D 0 30705     0     1    (N:CLOSED) {C}The Walkway {c}{W,BO}({w,bo}{G}A1{g}{W,BO}){w,bo}
+D 0 30706     2     0    (S:OPEN) {W,BO}The Elevator ({w,bo}{G}A2{g}{W,BO}){w,bo}
+D 0 30707     0     1    (N:CLOSED) {C}The Walkway {c}{W,BO}({w,bo}{G}A2{g}{W,BO}){w,bo}
+D 0 30707     1     2    (E:LOCKED) {C}The Walkway {c}{W,BO}({w,bo}{G}A2{g}{W,BO}){w,bo}
+D 0 30708     3     1    (W:CLOSED) {C}A Hallway {c}{W,BO}({w,bo}{G}A2{g}{W,BO}){w,bo}
+M 0 30703     1 30709    {M,BO}Quistis Trepe{m,bo}
+E 1 30703     1    17    (HELD) {W,BO}A {w,bo}{Y,BO}Yellow{y,bo}{W,BO} Keycard{w,bo}
+G 1 16502    12     0    {R,BO}Phoenix Down{r,bo}
+M 0 30702    15 30709    {C}A Student{c}
+G 1 30701    17     0    {R,BO}A Big Balamb Hotdog{r,bo}
+M 0 30702    15 30709    {C}A Student{c}
+D 0 30709     1     1    (E:CLOSED) {C}The Classroom {c}{W,BO}({w,bo}{G}A2{g}{W,BO}){w,bo}
+M 0 30701    13 30710    {BLU}A Student{blu}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+M 0 30702    15 30710    {C}A Student{c}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+G 1 30701    17     0    {R,BO}A Big Balamb Hotdog{r,bo}
+M 0 30701    13 30710    {BLU}A Student{blu}
+M 0 30702    15 30710    {C}A Student{c}
+D 0 30710     0     1    (N:CLOSED) {C}A Hallway {c}{W,BO}({w,bo}{G}A2{g}{W,BO}){w,bo}
+D 0 30711     2     0    (S:OPEN) {C}A Balcony Outside the Garden{c}
+D 0 30712     2     0    (S:OPEN) {W,BO}The Elevator ({w,bo}{G}A1{g}{W,BO}){w,bo}
+D 0 30712     5     1    (D:CLOSED) {W,BO}The Elevator ({w,bo}{G}A1{g}{W,BO}){w,bo}
+D 0 30713     0     0    (N:OPEN) {W,BO}The Elevator ({w,bo}{G}A3{g}{W,BO}){w,bo}
+M 0 30723     9 30714    {W,BO}One of the Garden Faculty{w,bo}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+M 0 30723     9 30714    {W,BO}One of the Garden Faculty{w,bo}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+D 0 30714     0     2    (N:LOCKED) {C}Headmaster Cid's Waiting Room {c}{W,BO}({w,bo}{G}A3{g}{W,BO}){w,bo}
+D 0 30714     2     1    (S:CLOSED) {C}Headmaster Cid's Waiting Room {c}{W,BO}({w,bo}{G}A3{g}{W,BO}){w,bo}
+M 0 30704     1 30715    {Y}Headmaster Cid{y}
+E 1 30702     1    27    (EYE) {Y}Headmaster Cid's Glasses{y}
+D 0 30715     2     1    (S:CLOSED) {C}Headmaster Cid's Office {c}{W,BO}({w,bo}{G}A3{g}{W,BO}){w,bo}
+M 0 30701    13 30716    {BLU}A Student{blu}
+M 0 30701    13 30716    {BLU}A Student{blu}
+M 0 30702    15 30716    {C}A Student{c}
+M 0 30701    13 30717    {BLU}A Student{blu}
+M 0 30701    13 30718    {BLU}A Student{blu}
+M 0 30702    15 30718    {C}A Student{c}
+G 1 30701    17     0    {R,BO}A Big Balamb Hotdog{r,bo}
+M 0 30701    13 30718    {BLU}A Student{blu}
+M 0 30701    13 30720    {BLU}A Student{blu}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+M 0 30701    13 30720    {BLU}A Student{blu}
+G 1 30701    17     0    {R,BO}A Big Balamb Hotdog{r,bo}
+M 0 30702    15 30720    {C}A Student{c}
+G 1 30701    17     0    {R,BO}A Big Balamb Hotdog{r,bo}
+M 0 30702    15 30721    {C}A Student{c}
+G 1 30701    17     0    {R,BO}A Big Balamb Hotdog{r,bo}
+D 0 30721     1     0    (E:OPEN) {C}The Walkway {c}{W,BO}({w,bo}{G}A1{g}{W,BO}){w,bo}
+M 0 30702    15 30723    {C}A Student{c}
+G 1 30701    17     0    {R,BO}A Big Balamb Hotdog{r,bo}
+M 0 30706     1 30723    {C}Dr. Kadawoki{c}
+G 1 16502    12     0    {R,BO}Phoenix Down{r,bo}
+M 0 30723     9 30724    {W,BO}One of the Garden Faculty{w,bo}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+M 0 30723     9 30724    {W,BO}One of the Garden Faculty{w,bo}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+M 0 30702    15 30725    {C}A Student{c}
+G 1 30701    17     0    {R,BO}A Big Balamb Hotdog{r,bo}
+M 0 16520     1 30725    {Y,BO}Selphie{y,bo}{R,BO} Tilmitt{r,bo}
+E 1 16510     2    15    (WRIST) {R,BO}Hyper Wrist{r,bo}
+M 0 30701    13 30726    {BLU}A Student{blu}
+M 0 30701    13 30726    {BLU}A Student{blu}
+G 1 30701    17     0    {R,BO}A Big Balamb Hotdog{r,bo}
+M 0 30726     1 30726    {W,BO}The Cafeteria Lady{w,bo}
+G 1 30701    17     0    {R,BO}A Big Balamb Hotdog{r,bo}
+G 1 30701    17     0    {R,BO}A Big Balamb Hotdog{r,bo}
+G 1 30701    17     0    {R,BO}A Big Balamb Hotdog{r,bo}
+G 1 30701    17     0    {R,BO}A Big Balamb Hotdog{r,bo}
+G 1 30701    17     0    {R,BO}A Big Balamb Hotdog{r,bo}
+M 0 30702    15 30727    {C}A Student{c}
+G 1 30701    17     0    {R,BO}A Big Balamb Hotdog{r,bo}
+M 0 30701    13 30727    {BLU}A Student{blu}
+M 0 30723     9 30727    {W,BO}One of the Garden Faculty{w,bo}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+M 0 30723     9 30727    {W,BO}One of the Garden Faculty{w,bo}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+D 0 30727     0     1    (N:CLOSED) {W,BO}The Dorms{w,bo}
+M 0 16513     1 30728    {B,BO}Squall {b,bo}{Y}Leonhart{y}
+E 1 30715     1    16    (WIELD) {Y}Li{y}{Y,BO}onhe{y,bo}{Y}art{y}
+D 0 30728     2     1    (S:CLOSED) {BLA,BO}Squall's {bla,bo}{W,BO}Dormitory Single{w,bo}
+M 0 30723     9 30730    {W,BO}One of the Garden Faculty{w,bo}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+D 0 30730     3     0    (W:OPEN) {Y}Training Facility Entrance{y}
+M 0 16509    14 30731    {R}A Red Bat{r}
+M 0 16509    14 30732    {R}A Red Bat{r}
+M 0 16509    14 30732    {R}A Red Bat{r}
+M 0 30715     2 30732    {Y}A Tyrannosaurus-Rex{y}
+M 0 30715     2 30732    {Y}A Tyrannosaurus-Rex{y}
+M 0 16509    14 30733    {R}A Red Bat{r}
+M 0 16509    14 30733    {R}A Red Bat{r}
+M 0 16509    14 30733    {R}A Red Bat{r}
+M 0 16509    14 30734    {R}A Red Bat{r}
+M 0 16509    14 30735    {R}A Red Bat{r}
+M 0 16509    14 30735    {R}A Red Bat{r}
+M 0 16509    14 30735    {R}A Red Bat{r}
+M 0 30702    15 30736    {C}A Student{c}
+M 0 30702    15 30736    {C}A Student{c}
+G 1 30701    17     0    {R,BO}A Big Balamb Hotdog{r,bo}
+M 0 30702    15 30736    {C}A Student{c}
+G 1 30701    17     0    {R,BO}A Big Balamb Hotdog{r,bo}
+M 0 30710    15 30737    {Y}A Bite Bug{y}
+M 0 30710    15 30737    {Y}A Bite Bug{y}
+M 0 30710    15 30738    {Y}A Bite Bug{y}
+M 0 30710    15 30738    {Y}A Bite Bug{y}
+M 0 30710    15 30738    {Y}A Bite Bug{y}
+D 0 30740     2     1    (S:CLOSED) {BLA,BO}The Elevator Shaft{bla,bo}{W,BO} ({w,bo}{G}B1{g}{W,BO}){w,bo}
+D 0 30740     4     0    (U:OPEN) {BLA,BO}The Elevator Shaft{bla,bo}{W,BO} ({w,bo}{G}B1{g}{W,BO}){w,bo}
+M 0 30723     9 30741    {W,BO}One of the Garden Faculty{w,bo}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+M 0 30723     9 30741    {W,BO}One of the Garden Faculty{w,bo}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+D 0 30741     0     1    (N:CLOSED) {BLA,BO}The Chamber Below the Garden {bla,bo}{W,BO}({w,bo}{G}B1{g}{W,BO}){w,bo}
+M 0 30729     1 30742    {G,BO}Garden Master NORG{g,bo}
+E 1 30723     1    17    (HELD) {W,BO}A {w,bo}{BLU,BO}Blue{blu,bo}{W,BO} Keycard{w,bo}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+M 0 30710    15 30743    {Y}A Bite Bug{y}
+M 0 30711     8 30743    {BLUE}A Gl{CYAN}aci{BLUE}al Eye{blue}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+M 0 30711     8 30743    {BLUE}A Gl{CYAN}aci{BLUE}al Eye{blue}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+M 0 30710    15 30744    {Y}A Bite Bug{y}
+M 0 30711     8 30744    {BLUE}A Gl{CYAN}aci{BLUE}al Eye{blue}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+M 0 30711     8 30744    {BLUE}A Gl{CYAN}aci{BLUE}al Eye{blue}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+M 0 30710    15 30745    {Y}A Bite Bug{y}
+M 0 30710    15 30745    {Y}A Bite Bug{y}
+M 0 30710    15 30745    {Y}A Bite Bug{y}
+M 0 30710    15 30745    {Y}A Bite Bug{y}
+M 0 30711     8 30745    {BLUE}A Gl{CYAN}aci{BLUE}al Eye{blue}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+M 0 30707     3 30747    {R}A {BO}G{r,bo}{R}r{BO}e{r,bo}{R}n{BO}a{r,bo}{R}d{BO}e{r,bo}
+M 0 16509    14 30747    {R}A Red Bat{r}
+M 0 30707     3 30747    {R}A {BO}G{r,bo}{R}r{BO}e{r,bo}{R}n{BO}a{r,bo}{R}d{BO}e{r,bo}
+M 0 16509    14 30748    {R}A Red Bat{r}
+M 0 16509    14 30748    {R}A Red Bat{r}
+M 0 16509    14 30749    {R}A Red Bat{r}
+M 0 30707     3 30749    {R}A {BO}G{r,bo}{R}r{BO}e{r,bo}{R}n{BO}a{r,bo}{R}d{BO}e{r,bo}
+M 0 30705     1 30750    {R,BO}Ifrit{r,bo}
+E 1  3009    81    16    (WIELD) Random Stat Obj
+M 0 30714     6 30751    {C,BO}The Child{c,bo}
+M 0 30714     6 30751    {C,BO}The Child{c,bo}
+M 0 30720     8 30752    {BOLD,CY}A Man{bold,cy}
+M 0 30720     8 30752    {BOLD,CY}A Man{bold,cy}
+M 0 30714     6 30752    {C,BO}The Child{c,bo}
+M 0 30720     8 30752    {BOLD,CY}A Man{bold,cy}
+M 0 30721     8 30752    {BOLD,CY}A Woman{bold,cy}
+M 0 30714     6 30752    {C,BO}The Child{c,bo}
+D 0 30752     1     1    (E:CLOSED) {BLU,BO}The Streets of Balamb{blu,bo}
+M 0 30713     1 30753    {W,BO}Zell's Mom{w,bo}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+D 0 30753     3     1    (W:CLOSED) {Y,BO}The Dincht Household{y,bo}
+M 0 30712     1 30755    {Y,BO}Zell Dincht{y,bo}
+E 1 30716     2     9    (HANDS) {W,BO}Eh{w,bo}{Y,BO}rge{y,bo}{W,BO}iz{w,bo}
+M 0 30720     8 30756    {BOLD,CY}A Man{bold,cy}
+M 0 30720     8 30756    {BOLD,CY}A Man{bold,cy}
+M 0 30720     8 30756    {BOLD,CY}A Man{bold,cy}
+M 0 30720     8 30757    {BOLD,CY}A Man{bold,cy}
+M 0 30714     6 30757    {C,BO}The Child{c,bo}
+M 0 30716     3 30758    {Y}A Dog{y}
+M 0 30721     8 30758    {BOLD,CY}A Woman{bold,cy}
+M 0 30721     8 30758    {BOLD,CY}A Woman{bold,cy}
+M 0 30721     8 30758    {BOLD,CY}A Woman{bold,cy}
+D 0 30758     0     0    (N:OPEN) {BLU,BO}The Streets of Balamb{blu,bo}
+M 0 30722     1 30759    {C,BO}The Balamb Hotel Owner{c,bo}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+D 0 30759     2     0    (S:OPEN) {C,BO}The Balamb Hotel{c,bo}
+M 0 30716     3 30761    {Y}A Dog{y}
+M 0 30720     8 30761    {BOLD,CY}A Man{bold,cy}
+M 0 30721     8 30761    {BOLD,CY}A Woman{bold,cy}
+M 0 30721     8 30761    {BOLD,CY}A Woman{bold,cy}
+M 0 30721     8 30761    {BOLD,CY}A Woman{bold,cy}
+M 0 30721     8 30761    {BOLD,CY}A Woman{bold,cy}
+O 0 30700     1 30761    {W,BO}The Train{w,bo}
+M 0 16500    10 30762    {B,BO}A Galbadian Soldier{b,bo}
+E 1 16500    32    16    (WIELD) {B,BO}A Galbadian Military Rifle{b,bo}
+M 0 30725     9 30762    {G}A Female Resident{g}
+O 0 30706     3 30762    {W,BO}The Train{w,bo}
+M 0 16500    10 30763    {B,BO}A Galbadian Soldier{b,bo}
+E 1 16500    32    16    (WIELD) {B,BO}A Galbadian Military Rifle{b,bo}
+M 0 30725     9 30763    {G}A Female Resident{g}
+M 0 30724    10 30763    {G}A Male Resident{g}
+O 0 30711     1 30763    {W,BO}The Train{w,bo}
+M 0 16500    10 30764    {B,BO}A Galbadian Soldier{b,bo}
+E 1 16500    32    16    (WIELD) {B,BO}A Galbadian Military Rifle{b,bo}
+M 0 30724    10 30764    {G}A Male Resident{g}
+M 0 30725     9 30764    {G}A Female Resident{g}
+M 0 16500    10 30764    {B,BO}A Galbadian Soldier{b,bo}
+E 1 16500    32    16    (WIELD) {B,BO}A Galbadian Military Rifle{b,bo}
+M 0 30724    10 30765    {G}A Male Resident{g}
+M 0 30724    10 30765    {G}A Male Resident{g}
+M 0 30724    10 30765    {G}A Male Resident{g}
+M 0 30725     9 30765    {G}A Female Resident{g}
+M 0 16525     2 30765    {G}A Timber City Guard{g}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+M 0 16525     2 30765    {G}A Timber City Guard{g}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+D 0 30766     1     1    (E:CLOSED) {G}The Streets of Timber{g}
+M 0 16500    10 30767    {B,BO}A Galbadian Soldier{b,bo}
+E 1 16500    32    16    (WIELD) {B,BO}A Galbadian Military Rifle{b,bo}
+M 0 30725     9 30767    {G}A Female Resident{g}
+D 0 30767     1     1    (E:CLOSED) {G}The Streets of Timber{g}
+M 0    99     1 30768    An Undead Corpse
+M 0 16500    10 30769    {B,BO}A Galbadian Soldier{b,bo}
+E 1 16500    32    16    (WIELD) {B,BO}A Galbadian Military Rifle{b,bo}
+M 0 30724    10 30769    {G}A Male Resident{g}
+M 0 30725     9 30769    {G}A Female Resident{g}
+M 0 30725     9 30769    {G}A Female Resident{g}
+M 0 30725     9 30770    {G}A Female Resident{g}
+D 0 30770     0     0    (N:OPEN) {W,BO}Above the Tracks{w,bo}
+M 0 16500    10 30771    {B,BO}A Galbadian Soldier{b,bo}
+E 1 16500    32    16    (WIELD) {B,BO}A Galbadian Military Rifle{b,bo}
+M 0 30714     6 30771    {C,BO}The Child{c,bo}
+O 0 30720     1 30773    {B}A Large Cupboard{b}
+P 1 16502    12 30720    {R,BO}Phoenix Down{r,bo}
+P 1 16502    12 30720    {R,BO}Phoenix Down{r,bo}
+P 1 16502    12 30720    {R,BO}Phoenix Down{r,bo}
+D 0 30773     2     0    (S:OPEN) {BLUE}A Small Home{blue}
+D 0 30774     1     0    (E:OPEN) {B,WH}Timber Maniacs Reception{b,wh}
+D 0 30774     3     1    (W:CLOSED) {B,WH}Timber Maniacs Reception{b,wh}
+M 0 16526     1 30775    {G}The Editor of Timber Maniacs{g}
+E 1 16506     4    17    (HELD) {G}A Back Issue of Timber Maniacs{g}
+G 1 30713   814     0    {W,BO}A Tonic{w,bo}
+M 0 30724    10 30775    {G}A Male Resident{g}
+D 0 30775     3     0    (W:OPEN) {B,WH}Timber Maniacs Office{b,wh}
+M 0 30727     1 30776    {G}A Resistance Member{g}
+D 0 30776     3     1    (W:CLOSED) {G}A Small Home{g}
+M 0 30719     1 30777    {BLU,BO}Rinoa{blu,bo}{M} Heartilly{m}
+E 1 30717     3     0    (LIGHT) {W,BO}The {w,bo}{M,BO}Shooting{m,bo}{Y,BO} Star{y,bo}
+O 0 30710     2 30778    {W,BO}The Train{w,bo}
+D 0 30778     0     1    (N:CLOSED) {G}Timber {g}{W,BO}Train Station ({w,bo}{Y,BO}Desert Link{y,bo}{W,BO}){w,bo}
+M 0 30725     9 30779    {G}A Female Resident{g}
+M 0 30724    10 30779    {G}A Male Resident{g}
+M 0 30724    10 30779    {G}A Male Resident{g}
+M 0 30724    10 30779    {G}A Male Resident{g}
+D 0 30779     0     1    (N:CLOSED) {Y}The Pub{y}
+D 0 30779     2     1    (S:CLOSED) {Y}The Pub{y}
+D 0 30780     2     1    (S:CLOSED) {B,BO}Alley Behind the Pub{b,bo}
+M 0 30716     3 30781    {Y}A Dog{y}
+M 0 16500    10 30782    {B,BO}A Galbadian Soldier{b,bo}
+E 1 16500    32    16    (WIELD) {B,BO}A Galbadian Military Rifle{b,bo}
+M 0 16500    10 30783    {B,BO}A Galbadian Soldier{b,bo}
+E 1 16500    32    16    (WIELD) {B,BO}A Galbadian Military Rifle{b,bo}
+M 0 16500    10 30783    {B,BO}A Galbadian Soldier{b,bo}
+E 1 16500    32    16    (WIELD) {B,BO}A Galbadian Military Rifle{b,bo}
+D 0 30783     0     1    (N:CLOSED) {W,BO}Before the Abandoned TV Station{w,bo}
+M 0 30728     1 30784    {M}President {m}{B,BO}Victor Deling{b,bo}
+E 1 30722     1    17    (HELD) {W,BO}A {w,bo}{R,BO}Red{r,bo}{W,BO} Keycard{w,bo}
+D 0 30784     2     0    (S:OPEN) {B,YE}Timber {RE}TV {YE}Station{b,ye}
+O 0 30719     1 30786    {W,BO}The Train{w,bo}
+M 0 30717    35 30787    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30787    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30788    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30788    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30788    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30788    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30788    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30789    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30789    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30789    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30790    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30790    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30790    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30790    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30790    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30790    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30792    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30792    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30793    {G,BO}A Cactuar{g,bo}
+M 0 30718     1 30793    {G,BO}JUMBO CACTUAR{g,bo}
+E 1 30718     4     5    (BODY) {G,BO}Cactus Thorn{g,bo}
+M 0 30717    35 30793    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30795    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30795    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30796    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30796    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30797    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30797    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30798    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30798    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30798    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30798    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30799    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30799    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30799    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30799    {G,BO}A Cactuar{g,bo}
+M 0 30717    35 30799    {G,BO}A Cactuar{g,bo}
+$~

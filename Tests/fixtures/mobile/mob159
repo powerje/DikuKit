@@ -1,0 +1,1159 @@
+#15900
+wizard~
+{M}{BOLD}The Wizard{m}~
+{M}{BOLD}A Wizard{m} walks around behind the counter, talking to himself.
+~
+The wizard looks old and senile, and yet he looks like a very powerful
+wizard. He is equipped with fine clothing, and is wearing many fine
+rings and bracelets.
+~
+2051 0 1000 S
+52 0 -2 6d10+9900 8d8+22
+10000 80000
+8 8 1
+#15901
+baker~
+{G}{BOLD}The Baker{g}~
+{G}{BOLD}The Baker{g} looks at you calmly, wiping flour from his face with one hand.
+~
+A fat, nice looking baker. But you can see that he has many scars on his
+body.
+~
+2050 0 900 S
+52 0 -2 6d10+9900 3d8+22
+2000 80000
+8 8 1
+#15902
+grocer~
+{G}{BOLD}The Grocer{g}~
+{G}{BOLD}A Grocer{g} stands at the counter, with a slightly impatient look on his face.
+~
+A tall grocer, who moves two 200 pounds bag of flour around on his shoulders.
+~
+2050 0 900 S
+52 0 -2 6d10+9900 3d8+12
+2000 80000
+8 8 1
+#15903
+weaponsmith~
+{BLU}{BOLD}The Weaponsmith{blu}~
+{BLU}{BOLD}The Weaponsmith{blu} sits here repairing items with an empty look in his eyes.
+~
+You see a young Weaponsmith with alot to learn.
+~
+2050 0 900 S
+52 0 -2 6d10+9900 8d8+32
+25000 80000
+8 8 1
+#15904
+amourer~
+{BLU}{BOLD}The Armourer{blu}~
+{BLU}{BOLD}The Armourer{blu} stands here quietly and patiently.
+~
+An old but very strong armourer, he has made more armours in his
+lifetime than you have ever seen.
+~
+2050 0 900 S
+52 0 -2 6d10+9900 8d8+32
+25000 80000
+8 8 1
+#15905
+receptionist~
+{C}{BOLD}The Receptionist{c}~
+{C}{BOLD}The Receptionist{c} stands here looking at you as if you were the center of the universe.
+~
+A sweet and gentle looking woman who stands her post 
+tired, yet willing to help you find your way to your
+slumber.
+~
+1207961602 1073742336 900 S
+51 0 -2 6d10+6900 5d8+22
+2000 80000
+8 8 2
+#15906
+captain~
+{BLU}{BOLD}The Captain{blu}~
+A Retired {BLU}{BOLD}Captain{blu} stands here selling boats.
+~
+This captain has more time on a boat than you do
+on the toilet.
+~
+2 0 900 S
+23 0 -2 6d10+390 1d8+12
+2000 80000
+8 8 1
+#15907
+sailor~
+the Sailor~
+A Sailor stands here, waiting to help you.
+~
+He looks like a strong, fit sailor.
+~
+2 0 900 S
+30 -2 -2 8d10+790 2d8+8
+2000 80000
+8 8 1
+#15908
+female citizen midgaard~
+{C}{BOLD}A Female Citizen{c}~
+{C}{BOLD}A Female Citizen{c} of Midgaard is here running her daily erronds.
+~
+You see a Female Townsperson running around town
+buying groceries and talking to friends as she does
+her normal routines.
+~
+64 256 0 S
+18 16 4 25d25+25 4d4+10
+4000 25000
+8 8 2
+#15909
+jeweller~
+the Jeweller~
+The Jeweller is standing behind the desk.
+~
+He is fat and has a content although watchful look on his face.
+~
+6 512 1000 S
+52 2 2 1d1+30000 8d8+12
+300000 80000
+8 8 1
+S 524288
+#15910
+leather worker~
+the Leather Worker~
+The Leather Worker is sitting by the table, sewing a leather cap.
+~
+He looks as an honest, hard-working artisan who only just earns enough to
+keep himself going.
+~
+6 512 900 S
+39 2 2 1d1+30000 3d8+12
+10000 80000
+8 8 1
+#15911
+elite guard male~
+{C}{BOLD}An Elite Guard{c}~
+{C}{BOLD}An Elite Guard{c} trained in hunting and killing, stands proudly here.
+~
+You see a man of power and integrity. He walks proudly through the streets
+of Midgaard protecting its fair inhabitants. His large muscular frame, and
+powerful armor makes him a deadly enemy and trustworthy companion.
+~
+268574737 776 0 C 4
+35 -60 -7 75d75+50 7d7+77
+0 40000
+8 8 0
+#15912
+bozo master trainer~
+Bozo, the Master Trainer~
+Bozo is here teaching his spells and skills.
+~
+He is one of the most experienced fighters in Midgaard. Noone has ever
+won a fight against him. But he's getting old and now he trains the
+young fighters in his room.
+~
+1208486915 1075839488 800 S
+56 0 -10 1d1+32000 150d150+100
+20000 50000
+8 8 1
+#15913
+smith blacksmith~
+the Blacksmith~
+A Blacksmith is working here, swinging his hammer.
+~
+You see a midaged, very tall and strong man with very big hands.
+The Blacksmith is wearing a leather coat to protect him from the heat of his
+oven. He is swinging a very big hammer.
+~
+2 0 900 S
+52 10 -1 10d100+30000 5d10+18
+400000 400000
+8 8 1
+#15914
+captain~
+the Captain~
+A retired Captain stands here, selling boats.
+~
+This Captain has eaten more sharks than you have killed peas.
+~
+2 0 900 S
+23 2 2 1d1+30000 1d8+12
+2000 80000
+8 8 1
+#15915
+male citizen midgaard~
+{R}{BOLD}A Male Citizen{r}~
+{R}{BOLD}A Male Citizen{r} of Midgaard is here wasting time.
+~
+A male citizen is here wandering about the town.
+~
+64 256 0 S
+25 2 4 25d25+25 5d5+10
+4000 50000
+8 8 1
+#15916
+Insurance Salesman~
+the salesman~
+The Salesman is standing here selling insurance.
+~
+He is fat and has a content although watchful look on his face.
+~
+2 1073742336 900 S
+23 2 2 1d1+30000 1d8+12
+10000 80000
+8 8 1
+#15917
+cybercop cop~
+the CyberCop~
+A CyberCop stands here.
+~
+You see an old-generation CyberCop.  Although rusting a bit, it does
+it's job of patrolling the streets nicely.
+~
+193 0 1000 S
+10 10 2 1d12+123 1d8+3
+500 9000
+8 8 0
+#15918
+janitor~
+the Janitor~
+A janitor is walking around, cleaning up.
+~
+He wears a pair of old and dirty overalls. His once bright blue eyes
+have faded to a dull grey. It is obvious that his work is never done,
+and that he is never appreciated.
+~
+1 0 1000 S
+1 20 9 2d6+10 1d5+0
+34 100
+8 8 1
+#15919
+deleted~
+the tiny doggie~
+A tiny doggie is here.
+~
+The doggie is a small dog that looks very cute. You feel like petting it.
+~
+161 512 -1000 S
+0 20 10 1d6+4 1d4+0
+10 25
+8 8 1
+#15920
+guildmaster master~
+{BLU}{BOLD}The Guildmaster{blu}~
+{BLU}{BOLD}Your Guildmaster{blu} is standing here, ready to pass on her Ancient Knowledge.
+~
+Even though your guildmaster looks old and tired, you can clearly see the
+vast amount of knowledge she posesses. She is wearing fine magic clothing,
+and you notice that she is surrounded by a blue shimmering aura.
+~
+142614274 1073742336 1000 S
+50 0 0 0d0+10000 0d0+300
+8794 100000
+8 8 2
+#15921
+guildmaster master~
+{W}{BOLD}The Guildmaster{w}~
+{W}{BOLD}The Guildmaster{w} is standing here praying to his god.
+~
+You are in no doubt that this guildmaster is truly close to your god; he has
+a peaceful, loving look. You notice that he is surrounded by a white aura.
+~
+134220034 1073742464 1000 S
+50 0 0 0d0+10000 0d0+300
+8794 100000
+8 8 1
+#15922
+guildmaster master~
+{R}{BOLD}The Guildmaster{r}~
+{R}{BOLD}The Guildmaster{r} is standing here, looking for your wallet.
+~
+You realize that whenever your guildmaster moves, you fail to notice it -
+the way of the true thief. She is to be dressed in poor clothing, having
+the appearance of a beggar.
+~
+134220802 1073742336 1000 S
+50 0 -2 0d0+10000 0d0+300
+8794 100000
+8 8 2
+#15923
+guildmaster master~
+{C}{BOLD}The Guildmaster{c}~
+{C}{BOLD}The Guildmaster{c} is standing here, flexing his muscles.
+~
+This is your master. Big and strong with bulging muscles. Several scars
+across his body proves that he was using arms before you were born. He
+has a calm look on his face.
+~
+671094786 1073742336 1000 S
+50 0 -10 0d0+20000 0d0+500
+8794 300000
+8 8 1
+#15924
+sorcerer~
+{C}The Sorcerer{c}~
+{C}The Sorcerer{c} is guarding the entrance with a powerful look in his eyes.
+~
+He is an experienced mage who has specialized in the field of Combat Magic.
+He is here to guard the Mage's Guild and his superior knowledge of offensive as
+well as defensive spells make him a deadly opponent.
+~
+671088643 1073742336 800 S
+50 0 -10 0d0+5000 0d0+300
+2000 200000
+8 8 1
+#15925
+templar~
+the Knight Templar~
+A knight templar is guarding the entrance.
+~
+He is a specially trained warrior belonging to the military order of the Faith.
+His duty is to protect the faithful from persecution and infidel attacks and
+his religious devotion combined with his superior skill makes him a deadly
+opponent.
+~
+402653187 512 800 S
+50 0 -8 60d10+790 21d8+17
+2000 200000
+8 8 1
+#15926
+assassin~
+the Assassin~
+An assassin is guarding the entrance.
+~
+He is a thief who has specialized in killing others as effectively as possible,
+using all sorts of weapons.  His superior knowledge of how and where to use
+them combined with his extraordinary stealth makes him a deadly opponent.
+~
+402653187 512 800 S
+50 0 -8 60d10+790 22d8+17
+2000 200000
+8 8 1
+#15927
+knight~
+the Knight~
+A knight is guarding the entrance.
+~
+He is an expert warrior who has attained knighthood through countless
+chivalrous deeds.  His duty is to protect the Guild of Swordsmen and his
+extreme skill combined with his experience in warfare makes him a deadly
+opponent.
+~
+402653187 512 800 S
+50 0 -8 60d10+790 23d8+17
+2000 200000
+8 8 1
+#15928
+pirate~
+the sneeky Pirate~
+A seeky pirate with a wooden leg and a hook glares at your gold.
+~
+He was a captain of a huge pirate ship but now he is selling dust and
+some other things........
+~
+7 0 -1000 S
+35 0 -2 6d10+3900 3d8+12
+10000 80000
+8 8 1
+#15929
+cat stray~
+a stray cat~
+A stray cat is here, looking mice.
+~
+The stray cat is quite small and skinny.
+~
+161 0 -200 S
+0 20 10 1d6+4 1d4+0
+10 25
+8 8 1
+#15930
+deleted~
+the Terminator~
+A Terminator stands here.
+~
+You see a standard T-1000 Terminator.  This machine was made by ???, a fierce
+competitor in state of the art technology.  This prototype resembles a human,
+but has robotic machinery underneath the skin.  It has been programmed to hunt
+down evil humanoids.
+~
+193 0 1000 S
+23 2 2 6d10+390 2d8+12
+1000 80000
+8 8 0
+#15931
+deleted~
+Rainman~
+A small man with a mental disability looks at you.
+~
+You see a short weird looking person. It has very greasy hair and
+wearing a Computer Engineering leather jacket.  On his head, he's
+wearing a pair of cheap spectacle.  Each day Handyman walks around
+yelling Sucka! to everyone he see.  Handyman can kill you by
+his LOUD mouth.......so beware!
+~
+13185 269255296 -700 S
+40 2 -9 3d3+100 1d80+0
+100000 200000
+8 8 1
+#15932
+deleted~
+the Terminator~
+A Terminator stands here.
+~
+You see a standard T-1000 Terminator.  This machine was made by ???, a fierce
+competitor in state of the art technology.  This prototype resembles a human,
+but has robotic machinery underneath the skin.  It has been programmed to hunt
+down evil humanoids.
+~
+193 0 1000 S
+23 2 2 6d10+390 2d8+12
+1000 80000
+8 8 0
+#15933
+deleted~
+the CyberGuard~
+A CyberGuard is here, guarding the city gates.
+~
+The CyberGuard is in horrible shape.  It's metal is very rusted and has
+green moss growing on them.  Seems like this Cybernoid hasn't been moving
+for a long time.
+~
+67 0 300 S
+10 10 2 1d12+123 1d8+3
+500 9000
+8 8 0
+#15934
+deleted~
+the CyberCop~
+A CyberCop stands here.
+~
+You see an old-generation CyberCop.  Although rusting a bit, it does
+it's job of patrolling the streets nicely.
+~
+193 0 1000 S
+10 10 2 1d12+123 1d8+3
+500 9000
+8 8 0
+#15935
+deleted~
+IGGy~
+IGGy !! < THIEF > !! is standing here waiting to steal your kills.
+~
+        You see a big guy standing here playing "Netrek" on a computer.
+Once in a while you'll see him bang his mouse yelling "Stupid mouse!!".
+This is one guy you wouldn't want to mess around with!  He's a borg!
+He's awesome!
+~
+671088772 552 -700 S
+35 0 -5 6d6+1800 10d8+5
+1 950000
+8 8 1
+#15936
+judge dredd~
+{Y}{BOLD}Judge DREDD{y}~
+{Y}{BOLD}Judge DREDD{y}, LAW of Midgaard Future is here passing Judgement on Criminals.
+~
+Judge DREDD, in his stature and skill, represents the law of the future of
+Midgaard. His reputation strikes fear to all those who oppose The LAW.
+He looks just as scary as the comic!  In fact, since he's staring at you,
+he's many more time more imposing!  EEEEeeeekkkk!!!!
+In fact, he is the Judge, the Jury, and the Executioner.  You better not
+mess with him since he looks like he can destory anyone with his bare
+hands.
+~
+1266720768 1476690856 1000 C 41
+60 0 -200 1d1+32000 1d1+3000
+1 0
+8 8 1
+S 98066368
+#15937
+worshipper~
+temple worshipper~
+A worshipper is praying.
+~
+It looks like nobody!
+~
+66 0 0 S
+25 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+#15938
+temple priest~
+A temple priest~
+A temple priest prays to his god.
+~
+You see a man of power and integrity. He walks proudly through the streets
+of Midgaard protecting its fair inhabitants. His large muscular frame, and
+powerful armor makes him a deadly enemy and trustworthy companion.
+~
+65 0 0 C 2
+35 -30 -5 0d0+800 0d0+50
+0 40000
+8 8 0
+#15939
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+#15940
+bartender~
+the Bartender~
+A Bartender watches you calmly, while he skillfully mixes a drink.
+~
+A tired looking Bartender who hates trouble in his bar.
+~
+6 0 900 S
+23 0 -2 6d10+390 1d8+12
+2000 20000
+8 8 1
+#15941
+waiter~
+the Waiter~
+A waiter is going around from one place to another.
+~
+A tired looking waiter.
+~
+2 0 900 S
+35 0 -2 6d10+390 1d8+12
+2000 20000
+8 8 1
+#15942
+waiter~
+the Waiter~
+A man who in his young days was a famous sorcerer but now leads a quiet,
+peaceful life as a waiter.
+~
+(null)~
+2 0 600 S
+35 2 -2 6d10+390 1d8+12
+2000 80000
+8 8 1
+#15943
+waiter~
+the Waiter~
+A waiter who seems to have reach contact with God.
+~
+(null)~
+2 0 600 S
+35 2 -2 6d10+390 1d8+12
+2000 20000
+8 8 1
+#15944
+waiter~
+the Waiter~
+A waiter who knows where all his costumers has their money.
+~
+(null)~
+2 0 600 S
+35 0 -2 6d10+390 1d8+12
+2000 80000
+8 8 1
+#15945
+waiter~
+the Waiter~
+A waiter who easily could kill you, and still carry quite a few firebreathers.
+~
+(null)~
+2 0 600 S
+35 2 -2 6d10+390 1d8+12
+2000 80000
+8 8 1
+#15946
+filthy~
+Filthy~
+Filthy is standing here, eager to serve you a special drink.
+~
+Filthy looks real, ehm, dirty. He likes to keep his costumers happy,
+but do not mess with him or else he'll get upset.
+~
+2 0 600 S
+35 2 -2 6d10+390 1d8+12
+2000 20000
+8 8 1
+#15947
+elite guard female~
+A {BOLD}{CYAN}Female Elite Guard{cyan}{bold}~
+{BOLD}{CYAN}A Female Elite Guard{cyan}{bold} trained in hunting and killing, stands proudly here.
+~
+You see a woman of power and integrity. She walks proudly through the
+streets of Midgaard protecting its fair inhabitants. She has a fairly
+muscular frame, and along with her powerful armor makes her a deadly
+enemy and trustworthy companion.
+~
+268574737 776 0 C 4
+35 10 -7 75d75+50 7d7+77
+0 40000
+8 8 2
+#15948
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+#15949
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+#15950
+deleted~
+Captain Kirk~
+Captain James T. Kirk is here complaining about Klingons.
+~
+Wow, it's the one and only Captain Kirk of the U.S.S. Enterprise!  His
+mission is to explore new worlds, to seek out new life, new civilizations,
+to boldly go where no man has gone before, to reach out and pollinate
+other worlds with his overly-manly chromosones...
+~
+604143616 304382140 300 S
+47 4 5 1d1+1800 7d7+20
+10 1000
+8 8 1
+#15951
+deleted~
+Spock~
+Spock is here trying to understand McCoy's jokes.
+~
+It's that Vulcan guy with the funky ears, funny eyebrows, cheap haircut,
+and skinny arms!
+~
+1208123392 2097804 0 S
+45 6 -10 1d1+1200 6d6+22
+2 1000
+8 8 1
+#15952
+deleted~
+Dr. McCoy~
+Dr. McCoy is standing here with his medikit.
+~
+Wow, here he is!  Dr. McCoy of the Federation Starship Enterprise is on
+an away mission looking to help a few injured people...  Well, he
+should, after all, he is the ship's medical doctor!
+~
+470319248 140 800 S
+45 10 2 1d1+800 5d5+5
+1 1000
+8 8 1
+#15953
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+#15954
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+#15955
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+#15956
+deleted~
+Wessley Crusher~
+Acting Ensign Wessley Crusher is here playing with matches.
+~
+Oh no!  It's that super smart Ensign from TNG!  Here he is playing with
+matches again.  What did his mommy Dr. Crusher tell him last time he burnt
+down decks 4 to 17????
+~
+67272832 295100 300 S
+45 0 -10 1d1+32000 1d1+1
+1 1000
+8 8 1
+#15957
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+#15958
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+#15959
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+#15960
+cityguard guard~
+{C}{BOLD}A Cityguard{c}~
+{C}{BOLD}A Cityguard{c} stands here.
+~
+A big, strong, helpful, trustworthy guard.
+~
+8384 256 1000 S
+11 10 0 1d12+140 1d6+4
+0 8
+8 8 1
+#15961
+janitor cleaner street~
+A Street Cleaner~
+A street cleaner is here, cleaning up the town.
+~
+He wears a pair of old and dirty overalls. His once bright blue eyes
+have faded to a dull grey. It is obvious that his work is never done,
+and that he is never appreciated.
+~
+0 0 1000 S
+1 20 9 2d6+10 1d5+0
+34 100
+8 8 1
+#15962
+beastly fido dog~
+The Beastly Fido~
+Beastly Fido is here.
+~
+Fido is a small dog that has a foul smell and pieces of rotted meat
+hanging around his teeth.
+~
+160 0 -1000 S
+0 20 10 1d6+10 1d4+0
+10 100
+8 8 1
+#15963
+mercenary~
+the Mercenary~
+A Mercenary waiting for a job.
+~
+He looks pretty mean.
+~
+0 0 -200 S
+4 16 5 2d6+60 1d8+1
+47 900
+8 8 1
+#15964
+drunk~
+the Drunk~
+A singing, happy Drunk.
+~
+A drunk who seems to be too happy, and to carry too much money.
+~
+0 0 400 S
+2 19 8 2d6+22 1d6+0
+85 200
+8 8 1
+#15965
+beggar~
+the Beggar~
+A beggar is here, asking for a few coins.
+~
+The beggar looks like she is fed up with life.
+~
+2 0 1000 S
+1 20 9 2d6+20 1d5+0
+0 100
+8 8 2
+#15966
+WaLuLiSo~
+WaLuLiSo~
+WaLuLiSo is here, praying peace.
+~
+Wa-Lu-Li-So which means Water,Air,Light,Sun is a curious subject
+in Midgaard. He walks around in a white tunic and tries to bring peace
+among the people.
+~
+160 0 -1000 S
+1 20 10 1d6+20 1d8+0
+10 100
+8 8 1
+#15967
+cityguard guard~
+the Cityguard~
+A cityguard is here, guarding the gate.
+~
+A big, strong, helpful, trustworthy guard.
+~
+66 0 1000 S
+11 10 -2 1d12+120 1d6+5
+800 2500
+8 8 1
+#15968
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+#15969
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+#15970
+deleted~
+Dr. Quack~
+An ugly hunchbacked doctor is struggling with a patient here.
+~
+
+Ugh!  This is one hideous doctor.  And most certainly insane too, as
+he struggles vainly to supress the screams of a patient thrashing
+on a wooden table.  However, your heart sinks as you realize that
+this is the only doctor this town has to offer.
+Type:  "offer" to get an estimate on services rendered.
+       "buy"   to have new body parts installed on you.
+
+~
+1207961602 1073742464 900 S
+51 10 -2 6d10+6900 5d8+22
+2000 80000
+8 8 1
+#15971
+deleted~
+The Head Nurse~
+The most hideous looking nurse you've ever seen stares at you here.
+~
+
+Hairy moles all over her face.  Missing half her teeth.  Brown and
+deep wrinkled skin.  Bald patches on her head.  Heavy make-ups.
+Yep, definitely the ugliest nurse you've ever seen in your life.
+
+~
+1207961602 1073742464 900 S
+51 10 -2 6d10+6900 5d8+22
+2000 80000
+8 8 2
+#15972
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+#15973
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+#15974
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+#15975
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+#15976
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+#15977
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+#15978
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+#15979
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+#15980
+pigeon pigeons flight~
+A flight of pigeons~
+Disturbed from you, a flight of pigeons surrounds your head.
+~
+This nasty flight of pigeons is hungry as always. You have disturbed them.
+That's something they don't like at all. Now pay the bill.
+~
+34 0 100 S
+5 16 5 3d4+60 2d4+2
+0 900
+8 8 0
+#15981
+phantom~
+The Phantom of the Cathedral~
+It' somewhat darker here as the phantom of the Cathedral floats arround.
+~
+It's just a shadow, but as dangerous as a normal living being. Nobody knows
+what it looks like, as you cannot really see it. The room is just a little
+darker than normal.
+~
+32 1572864 -560 S
+16 6 -4 3d4+200 2d8+4
+3000 25000
+8 8 0
+#15982
+sexton Sexton~
+The Sexton of the Cathedral~
+The Sexton of the Cathedral watches you not to come too close to the belfry.
+~
+He is a big, strong man with dull looking eyes. He may be not very clever,
+but he knows how to do his job. Noone will ever be able to damage the
+belfry - not as long as the Sexton lives.
+~
+6 0 900 S
+23 0 0 5d10+500 3d8+6
+500 80000
+8 8 1
+#15983
+keeper Keeper~
+The Clock Keeper~
+The Clock Keeper services the clockwork of the Cathedral.
+~
+He is a wise looking trustworthy man. Mean and tall and very quick. Nobody
+to fight against. Better don't attack that budy.
+~
+6 0 900 S
+23 0 0 5d10+550 3d8+7
+5000 80000
+8 8 1
+#15984
+golem Golem glory~
+The Golem of glory~
+The golden shimmering Golem of glory stares at you.
+~
+At least 5 meters high, the Golem of glory stands right in front of you.
+Sometimes you think to see a gloriol around its head. But maybe it's only
+the light. The eyes seems to say: Come on stranger, get closer to me - I'll
+show you the glorious side of death.
+~
+6 0 -1000 S
+24 0 0 5d10+600 3d8+9
+10000 100000
+8 8 1
+#15985
+dragon~
+The huge dragon~
+A huge fire breathing dragon rears and flaps its wings.
+~
+This is a HUGE dragon covered with large metallic scales.  Its wings span
+the lengths of a dozen tall men, creating a dark shade under it.  You can
+see smoke rising from its nostrils, indicating that it is a fire breather.
+Although menacing, it does not seem to be aggressive, so that you can ride
+it as it travels.
+~
+671088962 589562512 0 S
+60 0 -10 1d1+10000 1d1+50
+0 0
+8 8 0
+S 71435968
+#15990
+kitten~
+the Kitten~
+A small loyal Kitten is here.
+~
+The Kitten looks like a cute, little, fierce fighter.
+~
+6 0 400 S
+1 20 9 1d6+11 1d4+0
+0 100
+8 8 0
+#15991
+puppy~
+the Puppy~
+A small loyal Puppy is here.
+~
+The Puppy looks like a cute, little, fierce fighter.
+~
+6 0 400 S
+1 20 9 1d6+11 1d4+0
+0 100
+8 8 0
+#15992
+beagle~
+the Beagle~
+A small, quick, loyal Beagle is here.
+~
+The Beagle looks like a fierce fighter.
+~
+6 0 400 S
+2 19 8 1d12+22 1d6+0
+0 200
+8 8 0
+#15993
+rottweiler~
+the Rottweiler~
+A large, loyal Rottweiler is here.
+~
+The Rottweiler looks like a strong, fierce fighter.
+~
+6 0 400 S
+3 18 7 1d12+35 1d7+0
+0 800
+8 8 0
+#15994
+wolf~
+the Wolf~
+A large, trained Wolf is here.
+~
+The Wolf looks like a strong, fearless fighter.
+~
+6 0 0 S
+4 17 6 1d12+47 1d8+0
+0 1600
+8 8 0
+#15995
+hawk~
+the Hawk~
+A swift trained Hawk is flying around.
+~
+The Hawk looks like a fierce, fearless fighter.
+~
+2 0 0 S
+5 16 5 1d12+57 2d4+0
+0 3200
+8 8 0
+#15996
+Dragonet~
+the Dragonet~
+A brilliant coloured dragonet zips past your head and examines you closely.
+~
+The dragonet's inquisitive, swirling yellow eyes return your stare.
+~
+262146 0 0 S
+6 17 4 1d12+65 3d4+0
+0 12000
+8 8 0
+#15997
+Tiger~
+Tiger~
+A loyal Tiger is standing here.
+~
+Large, furry, stripes...oh yeah, BIG teeth!
+~
+262146 0 0 S
+7 14 4 1d12+90 3d4+3
+0 20000
+8 8 0
+#15998
+healer~
+the healer~
+The Healer is mixing his reagents.
+~
+He is slim tall man who knows his work very well.
+~
+1073741826 0 1000 S
+60 2 2 1d1+30000 20d10+0
+10000 80000
+8 8 1
+#15999
+boy~
+the Pet Shop Boy~
+One of the Pet Shop Boys is cuddling his pets.
+~
+He is a dirty boy who likes his Pets very well.
+~
+2 1073742336 1000 S
+23 2 2 1d1+30000 1d8+12
+10000 80000
+8 8 1
+$~

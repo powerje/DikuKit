@@ -1,0 +1,2140 @@
+#19100
+{BOLD}{CYAN}A Dusty Road{cyan}{bold}~
+     You find yourself on a lonely road leading toward what
+seems to be a castle in the distance.  You have heard legends
+about a castle up in the mountains, but never quite
+believed them.  A name has even been mentioned about this
+mysterious castle....but you can't quite remember it at this
+moment.  You decide to go and see if this is the castle
+all of the rumors are about.
+
+~
+191 16777216 1
+D0
+~
+~
+0 -1 19101
+D5
+~
+~
+0 -1 43107
+Z3
+C-1
+S
+#19101
+{WHITE,BOLD}The Drawbridge{white,bold}~
+
+    You walk farther up the path and see a bridge spanning an
+immense chasm.  It looks old and rickety, but seems to be
+your only way to the castle ahead.  As you walk out onto
+the bridge the rotten boards beneath you feet suddenly give
+way and you begin to fall!  WHEEW! THANK GOD that you can
+FLY!  In the distance, the castle looms above you.
+
+~
+191 6 9
+D0
+~
+~
+0 -1 19102
+D2
+~
+~
+0 -1 19100
+Z3
+C-1
+S
+#19102
+{BOLD}{YELLOW} The Gates {yellow}{bold}~
+
+    That gust of wind was nasty wasn't it?  Some tall gates loom above
+you and lead into the castle and beyond.
+
+~
+191 0 1
+D0
+~
+~
+0 -1 19103
+D2
+~
+~
+0 -1 19101
+M10
+X512
+Z3
+C-1
+S
+#19103
+{BOLD}{BLUE} Beyond The Gates {bold}{blue}~
+
+    You appear in the room behind the gates, or so you believe.  To
+your left and right are doorways leading to stairs beyond and in
+front of you is a door that appears to be locked.  A choice is
+upon you..choose wisely...
+
+~
+191 0 1
+D0
+~
+Gate~
+2 19101 19117
+D1
+~
+~
+0 -1 19110
+D2
+~
+~
+0 -1 19102
+D3
+~
+~
+0 -1 19104
+Z3
+C-1
+S
+#19104
+{BOLD}{WHITE} Going Up! {white}{bold}~
+
+    A great spiral staircase dominates the room and goes up as
+far as you can see.  The room is featureless except for a few arrow
+slits in the wall.  You look at the stairs again and let out a sigh.
+This is going to take a while to climb.  Jeesh.
+
+~
+191 0 1
+D1
+~
+~
+0 -1 19103
+D4
+~
+~
+0 -1 19105
+Z3
+C-1
+S
+#19105
+{BOLD}Stairs...{bold}~
+
+    Your legs begin to tire after climbing these seeming endless stairs,
+and there seems to be no end in site.  As you glance up, you notice
+something quickly coming your way....
+
+~
+191 0 1
+D4
+~
+~
+0 -1 19106
+D5
+~
+~
+0 -1 19104
+Z3
+C-1
+S
+#19106
+{BOLD}Stairs...{bold}~
+
+    Your legs begin to tire after climbing these seeming endless stairs,
+and there seems to be no end in site.  As you glance up, you notice
+something quickly coming your way....
+
+~
+191 0 1
+D4
+~
+~
+0 -1 19107
+D5
+~
+~
+0 -1 19105
+Z3
+C-1
+S
+#19107
+{BOLD}Stairs...{bold}~
+
+    Your legs begin to tire after climbing these seeming endless stairs,
+and there seems to be no end in site.  As you glance up, you notice
+something quickly coming your way....
+
+~
+191 0 1
+D4
+~
+~
+0 -1 19108
+D5
+~
+~
+0 -1 19106
+Z3
+C-1
+S
+#19108
+{BOLD}{CYAN}Top of the Stairs!{bold}{cyan}~
+
+     As you finally reach the end of the stairs, you see a trapdoor
+in the ceiling above you.  You push against it and find that it is
+not locked and looks recently used.  Hmmm...maybe whoever was firing
+those arrows at you came through here.  Only one way to find out.
+
+~
+191 0 1
+D4
+A sturdy Trapdoor.
+~
+trapdoor~
+1 -1 19109
+D5
+~
+~
+0 -1 19107
+Z3
+C-1
+S
+#19109
+{BOLD}{RED}Top of the Tower{bold}{red}~
+
+    When you step through the trapdoor onto the top of this tower, a
+gust of wind rips at your clothes and stings your eyes with its intensity.
+Clearing the tears from your eyes, you glance over to your right and
+see a man pull back the string of the immense Longbow he is carrying
+and let loose an arrow at your head!  Better duck!
+
+~
+191 0 1
+D5
+~
+trapdoor~
+1 -1 19108
+Z3
+C-1
+S
+#19110
+{BLUE}{BOLD}Path into Darkness{bold}{blue}~
+
+    You find yourself in a darkened room, with only a single sputtering
+torch lighting the room.  The air is moist and slightly chilling and
+smells of things dank and dark.  As you peer into the gloom, you 
+see some stairs leading down into the blackness.  
+
+~
+191 0 1
+D3
+~
+~
+0 -1 19103
+D5
+~
+~
+0 -1 19111
+Z3
+C-1
+S
+#19111
+{BOLD}{GREEN}Slimy Stairs{green}{bold}~
+
+     "DAMN!", you scream as you slip and fall down these amazingly
+slippery stairs!
+
+~
+191 1048576 1
+D5
+~
+~
+0 -1 19112
+T19112
+Z3
+C-1
+S
+#19112
+{BOLD}{GREEN}Slimy Stairs{green}{bold}~
+
+     "DAMN!", you scream as you slip and fall down these amazingly
+slippery stairs!
+
+~
+191 1048576 1
+D5
+~
+~
+0 -1 19113
+Z3
+C-1
+S
+#19113
+{BOLD}{YELLOW}A Guarded Door{yellow}{bold}~
+
+     When you finally reach the bottom of the stairs a mass of cuts
+and bruises, you pick yourself up and let loose a few curses.  When
+you look up, you see something hidden well by the darkness guarding
+the door behind it...or maybe it is the darkness...
+
+~
+191 0 1
+D1
+~
+Darkness~
+2 19100 19114
+Z3
+C-1
+S
+#19114
+{BOLD}{WHITE}The Waiting Room{white}{bold}~
+
+    When you step into the room the you see poeple huddled all around
+the room shackled to the wall by either their leg or arms.  Most are
+wimpering in fear or crying, or just passed out completely.  You
+wonder who did this and why they are so afraid when you suddenly hear
+a terror filled scream of pure agony from the next room.  The prisoners
+begin to wimper and cry even harder, if that is possible.  Better see
+whats happening in the next room, then come and free these poor souls.
+
+~
+191 0 1
+D0
+~
+~
+0 -1 19115
+D3
+~
+Darkness~
+1 -1 19113
+Z3
+C-1
+S
+#19115
+{BOLD}{RED}The Torture Chamber{red}{bold}~
+
+    The smell of death and decay hit you like a hammer as you step
+into this horrible room.  Gruesome tools of the torturer's trade hang
+along all of the walls and other unspeakable devices of pain litter
+the room.  A large granite block dominates the room.  Upon it is
+strapped a man who is screaming in agony, his every movement pain as
+the man dressed in black robes standing over him slowly pulls the
+victims entrails out with a cruel hook.  The prisoner looks over to
+you and conveys his last wish..and you know what that is.  He wants
+to die.
+
+~
+191 0 1
+D2
+~
+~
+0 -1 19114
+D5
+~
+Pit~
+1 -1 19116
+Z3
+C-1
+S
+#19116
+{BOLD}{CYAN}A Hidden Pit{cyan}{cyan}~
+
+   When you drop down into this room all you see is an iron
+key sitting here in the dust...you better pick it up..it might come
+in handy.  Off to one side you see a glowing portal.  Engraved into
+the frame are the words, "Enter to go back to the Gate."
+
+~
+191 0 1
+D4
+~
+Pit~
+1 -1 19115
+Z3
+C-1
+S
+#19117
+{BOLD}{RED}The Killing Grounds{red}{bold}~
+
+    When you step into this area, all you see is four high walls with
+many arrow slits in the walls and a portal leading deeper into the
+castle straight ahead.  You realize this place is used to slaughter
+anyone who has made it this far into the castle.  Luckily, nothin seems
+to be here.  As you move forward, arrows suddenly shoot from a couple
+of slits and two guards dressed in black armor come rushing out from
+the portal.  Can you survive?
+
+~
+191 0 1
+D0
+~
+~
+0 -1 19118
+D2
+~
+Gate~
+1 -1 19103
+Z3
+C-1
+S
+#19118
+{BOLD}{BLUE}A Dark Hallway{blue}{bold}~
+
+    This hallway is dimly lit by a smoldering torch.  There are a few
+tapestrys hanging on the walls that depict scenes of various battles
+you dont recognize.  Better continue on your way.
+
+~
+191 0 1
+D0
+~
+~
+0 -1 19119
+D2
+~
+~
+0 -1 19117
+Z3
+C-1
+S
+#19119
+{BOLD}{BLUE}A Dark Hallway{blue}{bold}~
+
+    This hallway is dimly lit by a smoldering torch.  There are a few
+tapestrys hanging on the walls that depict scenes of various battles
+you dont recognize.  Better continue on your way.
+
+~
+191 0 1
+D0
+~
+~
+0 -1 19120
+D2
+~
+~
+0 -1 19118
+Z3
+C-1
+S
+#19120
+{BOLD}{WHITE}A Brightly Lit Room{white}{bold}~
+
+    Dozens of torches light this room.  In the center you see a hulking
+form standing upon a platform.  It seems made out of pure crystal,
+and the light from the torches is bouncing off of it in every direction
+in a dazzling display.  You can make out doors to the left, right and
+behind the thing.  As you move toward one of the doors, the Crystal
+Golem moves to block your way.  Looks like you have a fight on your hands.
+
+~
+191 0 1
+D0
+~
+~
+0 -1 19146
+D1
+~
+~
+0 -1 19129
+D2
+~
+~
+0 -1 19119
+D3
+~
+~
+0 -1 19121
+Z3
+C-1
+S
+#19121
+{BOLD}{YELLOW}A Stark Room{yellow}{bold}~
+
+    This is a stark room, with only a couple of smoldering torches
+lighting your way.  The walls seemed scarred and blackened like something
+exploded in here.  Wonder what it was?
+
+~
+191 0 1
+D1
+~
+~
+0 -1 19120
+D3
+~
+~
+0 -1 19122
+Z3
+C-1
+S
+#19122
+{BOLD}{GREEN}The Practice Area{green}{bold}~
+
+    When you enter this large room, you notice that it is even more
+blackened and charred than the previous room.  You suddenly know why
+when you look over and see men dressed in gray robes chanting and
+waving their hands in the air.  Suddenly, a large fireball explodes
+agianst one of the walls.  Seems you've found the practice area for
+Apprentice mages.  When the mages see you, they scream out and launch
+a fireball right at your face.  Ewww...thats gonna burn!
+
+~
+191 16 1
+D0
+~
+~
+0 -1 19125
+D1
+~
+~
+0 -1 19121
+D3
+~
+~
+0 -1 19123
+Z3
+C-1
+S
+#19123
+{BOLD}{GREEN}The Practice Area{green}{bold}~
+
+    When you enter this large room, you notice that it is even more
+blackened and charred than the previous room.  You suddenly know why
+when you look over and see men dressed in gray robes chanting and
+waving their hands in the air.  Suddenly, a large fireball explodes
+agianst one of the walls.  Seems you've found the practice area for
+Apprentice mages.  When the mages see you, they scream out and launch
+a fireball right at your face.  Ewww...thats gonna burn!
+
+~
+191 16 1
+D0
+~
+~
+0 -1 19124
+D1
+~
+~
+0 -1 19122
+Z3
+C-1
+S
+#19124
+{BOLD}{GREEN}The Practice Area{green}{bold}~
+
+    When you enter this large room, you notice that it is even more
+blackened and charred than the previous room.  You suddenly know why
+when you look over and see men dressed in gray robes chanting and
+waving their hands in the air.  Suddenly, a large fireball explodes
+agianst one of the walls.  Seems you've found the practice area for
+Apprentice mages.  When the mages see you, they scream out and launch
+a fireball right at your face.  Ewww...thats gonna burn!
+
+~
+191 16 1
+D0
+~
+~
+0 -1 19126
+D1
+~
+~
+0 -1 19125
+D2
+~
+~
+0 -1 19123
+Z3
+C-1
+S
+#19125
+{BOLD}{GREEN}The Practice Area{green}{bold}~
+
+    When you enter this large room, you notice that it is even more
+blackened and charred than the previous room.  You suddenly know why
+when you look over and see men dressed in gray robes chanting and
+waving their hands in the air.  Suddenly, a large fireball explodes
+agianst one of the walls.  Seems you've found the practice area for
+Apprentice mages.  When the mages see you, they scream out and launch
+a fireball right at your face.  Ewww...thats gonna burn!
+
+~
+191 16 1
+D2
+~
+~
+0 -1 19122
+D3
+~
+~
+0 -1 19124
+Z3
+C-1
+S
+#19126
+{BOLD}{CYAN}A Magical Portal{cyan}{bold}~
+     
+    After you quickly dispatch the two apprentices in here, you notice
+a glowing portal up against one of the walls.  It shimmers brightly,
+and it seems you can almost see something beyond it...but not quite.
+When you approach it, you notice some words written in the stone
+above the portal.  You can make out what it says...
+
+     "To enter this magical portal, first you must solve a riddle.
+     Then to enter the portal, just enter your answer."
+      Riddle: What wears mail, but lives underwater?
+
+    Good luck, and remeber, just "enter (answer)" to enter the portal.
+
+~
+191 0 1
+D2
+~
+~
+0 -1 19124
+Z3
+C-1
+S
+#19127
+{BOLD}{BLUE}Waiting Room{blue}{bold}~
+
+    After you regain you bearings, you begin to look around the room.
+It is a sparse room, with only a few chairs sitting around the room
+and a few torches lighting it up.  But they are not what draws your
+attention.  The wall across the room has one section that glows very
+brightly and seems to have things moving within it.  You can just barely
+make out a doorway behind this strange barrier...as you move closer,
+you notice that the things moving inside the light are swords and
+knives!  To enter the doorway, you must defeat this awesome spell!
+
+~
+191 128 1
+D0
+~
+~
+0 -1 19128
+Z3
+C-1
+S
+#19128
+{BOLD}{RED}The Master's Study{red}{bold}~
+
+    When you enter the room, you see a large desk dominating the room
+with books scattered all over it and all over the room.  But what
+draws your attention is the man sitting behind the desk reading a
+large tome.  A aura of magical power emanates from him, and you
+begin to wonder if it was a good idea to come here.  The man suddenly
+looks up at you and sighs.  With a great flourish of his hands, he
+sends two great crackling bolts of blue energy directly at you.
+
+~
+191 0 1
+D2
+~
+~
+0 -1 19127
+Z3
+C-1
+S
+#19129
+{BOLD}{YELLOW}Weapons Room{yellow}{bold}~
+
+    This is a fairly large room with all kinds of weapons hanging on
+the walls or in racks.  Suits of padded armor sit here and there and
+look the worse for wear.  Seems like these wepons get a lot of use.
+You wonder who uses all of them?
+
+~
+191 0 1
+D1
+~
+~
+0 -1 19130
+D3
+~
+~
+0 -1 19120
+Z3
+C-1
+S
+#19130
+{BOLD}{CYAN}Single Combat{cyan}{bold}~
+
+    You see two heavily padded swordsmen facing each other within a
+circle drawn on the ground.  They are sweating and breathing hard from
+their sparring with each other.  When they see you, they turn and bow
+in your direction and set themselves in a fighting stance.  Seems like
+your going to have to teach them a lesson.
+
+~
+191 0 1
+D0
+~
+~
+0 -1 19131
+D3
+~
+~
+0 -1 19129
+Z3
+C-1
+S
+#19131
+{BOLD}{RED}Room of Staves{red}{bold}~
+
+    You see three men with staves slowly circling each other in this
+room.  One of them will throw a quick jab at another, but the other
+usually parries in time.  Boy, these three are quick.  They are so
+concentrated on each other they seem not to notice you.  The only 
+problem is, the only way out is right where they are fighting.  Oh
+well, what else ya got to do?
+
+~
+191 0 1
+D1
+~
+~
+0 -1 19132
+D2
+~
+~
+0 -1 19130
+Z3
+C-1
+S
+#19132
+{BOLD}{BLUE}Room of Daggers{blue}{bold}~
+
+    As you step into this room, four dagger come whirling at your
+face.  After you quickly step aside, the students come up and apologize
+to you.  They just thought you were new targets.  Oh well, they aren't
+stopping you, so might as well go on.
+
+~
+191 0 1
+D1
+~
+~
+0 -1 19133
+D3
+~
+~
+0 -1 19131
+Z3
+C-1
+S
+#19133
+{BOLD}{WHITE}Before the Maze{white}{bold}~
+
+    You stand before the entrance to a maze.  Seems this maze is to
+test a new warriors ability to think and their agility and speed while
+under duress.  Seems this is the only way to go, so you either have
+to try it or turn back a coward?  What is it to be?
+
+~
+191 4 1
+D0
+~
+~
+0 -1 19134
+D3
+~
+~
+0 -1 19132
+Z3
+C-1
+S
+#19134
+{BOLD}{GREEN}The Deadly Maze{green}{bold}~
+
+    There are many twists and turns to this maze.  Walls surround you
+on all sides, monsters of all kinds attack you and other nasty surprises
+await around every turn.  Exits surround you, but which too take?
+There has to be a way out of here....isn't there?
+
+~
+191 128 1
+D1
+~
+~
+0 -1 19135
+D3
+~
+~
+0 -1 19139
+Z3
+C-1
+S
+#19135
+{BOLD}{GREEN}The Deadly Maze{green}{bold}~
+
+    There are many twists and turns to this maze.  Walls surround you
+on all sides, monsters of all kinds attack you and other nasty surprises
+await around every turn.  Exits surround you, but which too take?
+There has to be a way out of here....isn't there?
+
+~
+191 128 1
+D0
+~
+~
+0 -1 19136
+D3
+~
+~
+0 -1 19134
+Z3
+C-1
+S
+#19136
+{BOLD}{GREEN}The Deadly Maze{green}{bold}~
+
+    There are many twists and turns to this maze.  Walls surround you
+on all sides, monsters of all kinds attack you and other nasty surprises
+await around every turn.  Exits surround you, but which too take?
+There has to be a way out of here....isn't there?
+
+~
+191 128 1
+D0
+~
+~
+0 -1 19139
+D1
+~
+~
+0 -1 19141
+D2
+~
+~
+0 -1 19135
+D3
+~
+~
+0 -1 19137
+Z3
+C-1
+S
+#19137
+{BOLD}{GREEN}The Deadly Maze{green}{bold}~
+
+    There are many twists and turns to this maze.  Walls surround you
+on all sides, monsters of all kinds attack you and other nasty surprises
+await around every turn.  Exits surround you, but which too take?
+There has to be a way out of here....isn't there?
+
+~
+191 128 1
+D0
+~
+~
+0 -1 19138
+D1
+~
+~
+0 -1 19136
+D2
+~
+~
+0 -1 19139
+Z3
+C-1
+S
+#19138
+{BOLD}{GREEN}The Deadly Maze{green}{bold}~
+
+    There are many twists and turns to this maze.  Walls surround you
+on all sides, monsters of all kinds attack you and other nasty surprises
+await around every turn.  Exits surround you, but which too take?
+There has to be a way out of here....isn't there?
+
+~
+191 128 1
+D0
+~
+~
+0 -1 19144
+D1
+~
+~
+0 -1 19140
+D2
+~
+~
+0 -1 19137
+D3
+~
+~
+0 -1 19142
+Z3
+C-1
+S
+#19139
+{BOLD}{GREEN}The Deadly Maze{green}{bold}~
+
+    There are many twists and turns to this maze.  Walls surround you
+on all sides, monsters of all kinds attack you and other nasty surprises
+await around every turn.  Exits surround you, but which too take?
+There has to be a way out of here....isn't there?
+
+~
+191 128 1
+D0
+~
+~
+0 -1 19137
+D1
+~
+~
+0 -1 19134
+D2
+~
+~
+0 -1 19136
+D3
+~
+~
+0 -1 19140
+Z3
+C-1
+S
+#19140
+{BOLD}{GREEN}The Deadly Maze{green}{bold}~
+
+    There are many twists and turns to this maze.  Walls surround you
+on all sides, monsters of all kinds attack you and other nasty surprises
+await around every turn.  Exits surround you, but which too take?
+There has to be a way out of here....isn't there?
+
+~
+191 128 1
+D0
+~
+~
+0 -1 19142
+D1
+~
+~
+0 -1 19143
+D2
+~
+~
+0 -1 19141
+D3
+~
+~
+0 -1 19138
+Z3
+C-1
+S
+#19141
+{BOLD}{GREEN}The Deadly Maze{green}{bold}~
+
+    There are many twists and turns to this maze.  Walls surround you
+on all sides, monsters of all kinds attack you and other nasty surprises
+await around every turn.  Exits surround you, but which too take?
+There has to be a way out of here....isn't there?
+
+~
+191 128 1
+D0
+~
+~
+0 -1 19140
+D3
+~
+~
+0 -1 19136
+Z3
+C-1
+S
+#19142
+{BOLD}{GREEN}The Deadly Maze{green}{bold}~
+
+    There are many twists and turns to this maze.  Walls surround you
+on all sides, monsters of all kinds attack you and other nasty surprises
+await around every turn.  Exits surround you, but which too take?
+There has to be a way out of here....isn't there?
+
+~
+191 128 1
+D0
+~
+~
+0 -1 19143
+D1
+~
+~
+0 -1 19138
+D2
+~
+~
+0 -1 19140
+Z3
+C-1
+S
+#19143
+{BOLD}{GREEN}The Deadly Maze{green}{bold}~
+
+    There are many twists and turns to this maze.  Walls surround you
+on all sides, monsters of all kinds attack you and other nasty surprises
+await around every turn.  Exits surround you, but which too take?
+There has to be a way out of here....isn't there?
+
+~
+191 128 1
+D2
+~
+~
+0 -1 19142
+D3
+~
+~
+0 -1 19140
+Z3
+C-1
+S
+#19144
+{BOLD}{RED}Out of the Maze{red}{bold}~
+
+   You are breathing hard as you finally make it to the end of that
+deadly and terrible maze.  You wonder how anyone ever completes their
+training if they have to pass that.  Up ahead you see the entrance to
+another room, and this one seems to be well lit.  Might as well go
+check it out, whatever it is can't be any worse than what's behind you.
+
+~
+191 4 1
+D0
+~
+~
+0 -1 19145
+D2
+~
+~
+0 -1 19138
+Z3
+C-1
+S
+#19145
+{BOLD}{YELLOW}The Weaponsmaster{yellow}{bold}~
+
+    When you enter to this well lit room, you notice that it is
+sparsly furnished and is fairly large.  Standing in the middle of the
+room is the biggest man you've ever seen.  He has every type of weapon
+imaginable strapped to him on various places, and he looks like he can
+use every one.  He looks at you and says, "Good, another has made it
+through the maze.  To finish your training and become a true warrior
+you must know pass your final test.  Defeat me or die."  With that
+he pulls out a sword and dagger and assumes a fighting stance.  Maybe
+the maze wasnt so bad after all.
+
+~
+191 128 1
+D2
+~
+~
+0 -1 19144
+Z3
+C-1
+S
+#19146
+{BOLD}{BLUE}At the Bottom of Some Stairs{blue}{bold}~
+
+    You find yourself at the bottom of a flight of stairs that lead
+up into darkness.  A few torches light the way, but they aren't shedding
+enough light to even be useful.  You've got this far...might as well
+keep going.
+
+~
+191 0 1
+D2
+~
+~
+0 -1 19120
+D4
+~
+~
+0 -1 19147
+Z3
+C-1
+S
+#19147
+{BOLD}{YELLOW}Poorly Lit Stairs{yellow}{bold}~
+
+    These stairs are poorly lit and quite slippery, so you better
+watch your step.  Still a ways to go till the top.
+
+~
+191 0 1
+D4
+~
+~
+0 -1 19148
+D5
+~
+~
+0 -1 19146
+Z3
+C-1
+S
+#19148
+{BOLD}{YELLOW}Poorly Lit Stairs{yellow}{bold}~
+
+     Damn, that was close.  Stupid traps..can't even see the things
+coming.  You still feel a little tingle from that lightning bolt.
+
+~
+191 0 1
+D4
+~
+~
+0 -1 19149
+D5
+~
+~
+0 -1 19147
+Z3
+C-1
+S
+#19149
+{BOLD}{YELLOW}Poorly Lit Stairs{yellow}{bold}~
+
+    These stairs are poorly lit and quite slippery, so you better
+watch your step.  Still a ways to go till the top.
+
+~
+191 0 1
+D4
+~
+~
+0 -1 19150
+D5
+~
+~
+0 -1 19148
+Z3
+C-1
+S
+#19150
+{BOLD}{CYAN}Chamber of Portals{cyan}{bold}~
+
+    You see a fairly nondescript room except for the three glowing
+portals situated around the room.  There seems to some kind of...
+force...swirling around the three portals, blocking your way from going
+into any of them.  Seems you need to rid yourself of it before you
+can continue.  Then you have a choice.  Which to take?
+
+~
+191 0 1
+D0
+~
+Hidden~
+2 19102 19174
+D5
+~
+~
+0 -1 19149
+Z3
+C-1
+S
+#19151
+{BOLD}{CYAN}Chapel Door{cyan}{bold}~
+
+    You stand outside in front of what appears to be the entrance to
+some type of chapel.  It is a plainly made looking thing, made out of
+stone and wood here and there.  The doors are open in seeming invitation
+to all those that need its help.
+
+~
+191 4 1
+D0
+~
+~
+0 -1 19152
+Z3
+C-1
+S
+#19152
+{BOLD}{RED}Inside the Chapel{red}{bold}~
+
+    Inside, you see a fairly large room with pews on both sides of you
+and some poeple sitting in them that have a slightly fanatical look.
+Some of them stand up and start demanding that you convert now or
+they will have to kill you.  After quickly taking care of that situation,
+you glance up front to see a man dressed in rich clothing preaching
+to those sitting around you.  Some acolytes stand to each side of him,
+warily watching the crowd.
+
+~
+191 0 1
+D0
+~
+~
+0 -1 19156
+D1
+~
+~
+0 -1 19153
+D2
+~
+~
+0 -1 19151
+D3
+~
+~
+0 -1 19154
+Z3
+C-1
+S
+#19153
+{BOLD}{RED}Inside the Chapel{red}{bold}~
+
+    Inside, you see a fairly large room with pews on both sides of you
+and some poeple sitting in them that have a slightly fanatical look.
+Some of them stand up and start demanding that you convert now or
+they will have to kill you.  After quickly taking care of that situation,
+you glance up front to see a man dressed in rich clothing preaching
+to those sitting around you.  Some acolytes stand to each side of him,
+warily watching the crowd.
+
+~
+191 0 1
+D0
+~
+~
+0 -1 19157
+D3
+~
+~
+0 -1 19152
+Z3
+C-1
+S
+#19154
+{BOLD}{RED}Inside the Chapel{red}{bold}~
+
+    Inside, you see a fairly large room with pews on both sides of you
+and some poeple sitting in them that have a slightly fanatical look.
+Some of them stand up and start demanding that you convert now or
+they will have to kill you.  After quickly taking care of that situation,
+you glance up front to see a man dressed in rich clothing preaching
+to those sitting around you.  Some acolytes stand to each side of him,
+warily watching the crowd.
+
+~
+191 0 1
+D0
+~
+~
+0 -1 19155
+D1
+~
+~
+0 -1 19152
+Z3
+C-1
+S
+#19155
+{BOLD}{RED}Inside the Chapel{red}{bold}~
+
+    Inside, you see a fairly large room with pews on both sides of you
+and some poeple sitting in them that have a slightly fanatical look.
+Some of them stand up and start demanding that you convert now or
+they will have to kill you.  After quickly taking care of that situation,
+you glance up front to see a man dressed in rich clothing preaching
+to those sitting around you.  Some acolytes stand to each side of him,
+warily watching the crowd.
+
+~
+191 0 1
+D1
+~
+~
+0 -1 19156
+D2
+~
+~
+0 -1 19154
+Z3
+C-1
+S
+#19156
+{BOLD}{RED}Inside the Chapel{red}{bold}~
+
+    Inside, you see a fairly large room with pews on both sides of you
+and some poeple sitting in them that have a slightly fanatical look.
+Some of them stand up and start demanding that you convert now or
+they will have to kill you.  After quickly taking care of that situation,
+you glance up front to see a man dressed in rich clothing preaching
+to those sitting around you.  Some acolytes stand to each side of him,
+warily watching the crowd.
+
+~
+191 0 1
+D0
+~
+~
+0 -1 19158
+D1
+~
+~
+0 -1 19157
+D2
+~
+~
+0 -1 19152
+D3
+~
+~
+0 -1 19155
+Z3
+C-1
+S
+#19157
+{BOLD}{RED}Inside the Chapel{red}{bold}~
+
+    Inside, you see a fairly large room with pews on both sides of you
+and some poeple sitting in them that have a slightly fanatical look.
+Some of them stand up and start demanding that you convert now or
+they will have to kill you.  After quickly taking care of that situation,
+you glance up front to see a man dressed in rich clothing preaching
+to those sitting around you.  Some acolytes stand to each side of him,
+warily watching the crowd.
+
+~
+191 0 1
+D2
+~
+~
+0 -1 19153
+D3
+~
+~
+0 -1 19156
+Z3
+C-1
+S
+#19158
+{BOLD}{YELLOW}Before the Altar{yellow}{bold}~
+
+    You stand before the altar.  The two Acolytes suddenly move from
+the preaching mans side and come block your way up too him.  They both
+have cruel smiles on their faces and grin at you like they want you
+to try and get past them.  The small stairs only let you have two
+people here also, so it will be an even fight.  Maybe.
+
+~
+191 132 1
+D2
+~
+~
+0 -1 19156
+D4
+~
+~
+0 -1 19159
+Z3
+C2
+S
+#19159
+{BOLD}{BLUE}The Preacher Man{blue}{bold}~
+
+    As you step onto the platform, the wildly gesturing preacher turns
+to you and says, "So, have you come to realize the true faith?  You 
+will not leave that spot till you do!"  You suddenly find that you
+can't move from the spot you are standing.  The only way your getting
+outta here is to kill this Preacher Man.  Go to it.
+
+~
+191 128 1
+D0
+~
+Door~
+1 -1 19160
+D5
+~
+~
+0 -1 19158
+Z3
+C-1
+S
+#19160
+{BOLD}{GREEN}Another Portal{green}{bold}~
+    You see another portal glowing softly on the wall before you.
+Where will this one take you?  Enter and find out.
+
+~
+191 0 1
+D2
+~
+Door~
+1 -1 19159
+Z3
+C-1
+S
+#19161
+{BOLD}{BLUE}Before the Dungeon{blue}{bold}~
+
+    You appear in a small room.  Its floor is covered in damp straw
+and has a small table set in one corner.  It has a small book on it
+with various names.  You suddenly hear a scream from somewhere up ahead.
+To your surprise, it isn't one of terror....it sounds like one of
+pure madness.
+
+~
+191 32772 1
+D0
+~
+~
+0 -1 19162
+Z3
+C-1
+S
+#19162
+{BO,Y}A Dank Hallway{bo}~
+
+   This hallway is also covered with wet and moldy straw.  Huge rats
+scuttle here and there and try to bite you.  You can see cells to your
+left and right and the hallway continues up ahead.
+
+~
+191 32768 1
+D0
+~
+~
+0 -1 19163
+D1
+~
+~
+0 -1 19165
+D2
+~
+~
+0 -1 19161
+D3
+~
+~
+0 -1 19166
+Z3
+C-1
+S
+#19163
+{BO,Y}A Dank Hallway{bo}~
+
+   This hallway is also covered with wet and moldy straw.  Huge rats
+scuttle here and there and try to bite you.  You can see cells to your
+left and right and the hallway continues up ahead.
+
+~
+191 32768 1
+D0
+~
+~
+0 -1 19164
+D1
+~
+~
+0 -1 19167
+D2
+~
+~
+0 -1 19162
+D3
+~
+~
+0 -1 19168
+Z3
+C-1
+S
+#19164
+{BO,Y}A Dank Hallway{bo}~
+
+   This hallway is also covered with wet and moldy straw.  Huge rats
+scuttle here and there and try to bite you.  You can see cells to your
+left and right and the hallway continues up ahead.
+
+~
+191 32768 1
+D0
+~
+~
+0 -1 19171
+D1
+~
+~
+0 -1 19169
+D2
+~
+~
+0 -1 19163
+D3
+~
+~
+0 -1 19170
+Z3
+C-1
+S
+#19165
+{BOLD}{RED}A Nasty Cell{red}{bold}~
+
+    You see a small cell with a pitiful looking human being shackled
+to the wall.  You can't tell whether its a women or man because of how
+dirty it is.  The smell of feces almost overwhelms you.  Some more of 
+those rats scuttle around.
+
+~
+191 32 1
+D3
+~
+~
+0 -1 19162
+Z3
+C-1
+S
+#19166
+{BOLD}{RED}A Nasty Cell{red}{bold}~
+
+    You see a small cell with a pitiful looking human being shackled
+to the wall.  You can't tell whether its a women or man because of how
+dirty it is.  The smell of feces almost overwhelms you.  Some more of 
+those rats scuttle around.
+
+~
+191 32 1
+D1
+~
+~
+0 -1 19162
+Z3
+C-1
+S
+#19167
+{BOLD}{RED}A Nasty Cell{red}{bold}~
+
+    You see a small cell with a pitiful looking human being shackled
+to the wall.  You can't tell whether its a women or man because of how
+dirty it is.  The smell of feces almost overwhelms you.  Some more of 
+those rats scuttle around.
+
+~
+191 32 1
+D3
+~
+~
+0 -1 19163
+Z3
+C-1
+S
+#19168
+{BOLD}{RED}A Nasty Cell{red}{bold}~
+
+    You see a small cell with a pitiful looking human being shackled
+to the wall.  You can't tell whether its a women or man because of how
+dirty it is.  The smell of feces almost overwhelms you.  Some more of 
+those rats scuttle around.
+
+~
+191 32 1
+D1
+~
+~
+0 -1 19163
+Z3
+C-1
+S
+#19169
+{BOLD}{RED}A Nasty Cell{red}{bold}~
+
+    You see a small cell with a pitiful looking human being shackled
+to the wall.  You can't tell whether its a women or man because of how
+dirty it is.  The smell of feces almost overwhelms you.  Some more of 
+those rats scuttle around.
+
+~
+191 32 1
+D3
+~
+~
+0 -1 19164
+Z3
+C-1
+S
+#19170
+{BOLD}{RED}A Nasty Cell{red}{bold}~
+
+    You see a small cell with a pitiful looking human being shackled
+to the wall.  You can't tell whether its a women or man because of how
+dirty it is.  The smell of feces almost overwhelms you.  Some more of 
+those rats scuttle around.
+
+~
+191 32 1
+D1
+~
+~
+0 -1 19164
+Z3
+C-1
+S
+#19171
+{BOLD}{GREEN}End of Hallway{green}{bold}~
+
+    You reach the end of the hallway to find yourself confronted by
+four guards blocking your way into the last cell.  Beyond them you
+can hear the demented screams of someone.  You beg the guards to let
+you pass to put this poor human out of their misery, but they refuse
+and form up into a line to defend the entryway.  What now?
+
+~
+191 4 1
+D0
+~
+~
+0 -1 19172
+D2
+~
+~
+0 -1 19164
+Z3
+C-1
+S
+#19172
+{BOLD}{WHITE}The Madman's Cell{white}{bold}~
+
+    This cell is larger than the previous ones, but still just as dirty
+and disgusting.  Against the wall opposite you is a man chained to the
+wall by a massive collar around his neck.  He strains and it to get to
+you, but can't quite make it.  He lets out another of those terrible
+screams.  You look at him with pity and move to end his misery.
+
+~
+191 16 1
+D0
+~
+Wall~
+1 -1 19173
+D2
+~
+~
+0 -1 19171
+Z3
+C-1
+S
+#19173
+{BOLD}{GREEN}Another Portal{green}{bold}~
+    You see another portal glowing softly on the wall before you.
+Where will this one take you?  Enter and find out.
+
+~
+191 0 1
+D2
+~
+Wall~
+1 -1 19172
+Z3
+C-1
+S
+#19174
+{BOLD}{GREEN}A Pit{green}{bold}~
+
+    You stand before a pit.  You try and see the bottom of it, but to no
+avail.  The sides look wet and slippery and seem to have no handholds
+of any kind.  There seems to be no really safe way down....just jump in
+and take your chances.  What kind of surprises can the bottom of this
+pit hold?  Jump and find out.
+
+~
+191 0 1
+D2
+~
+Hidden~
+1 -1 19150
+D5
+~
+~
+0 -1 19175
+Z3
+C-1
+S
+#19175
+{BOLD}{CYAN}Falling!{cyan}{bold}~
+
+    You are falling through the pit at an alarming rate!  You try and
+stop yourself, but the sides are just too slippery.
+
+~
+191 1048576 1
+D5
+~
+~
+0 -1 19176
+Z3
+C-1
+S
+#19176
+{BOLD}{CYAN}Falling!{cyan}{bold}~
+
+    You are falling through the pit at an alarming rate!  You try and
+stop yourself, but the sides are just too slippery.
+
+~
+191 1048576 1
+D5
+~
+~
+0 -1 19177
+Z3
+C-1
+S
+#19177
+{BOLD}{CYAN}Falling!{cyan}{bold}~
+
+    You are falling through the pit at an alarming rate!  You try and
+stop yourself, but the sides are just too slippery.
+
+~
+191 1048576 1
+D0
+~
+~
+0 -1 19181
+D1
+~
+~
+0 -1 19178
+D2
+~
+~
+0 -1 19179
+D3
+~
+~
+0 -1 19180
+D5
+~
+~
+0 -1 19182
+Z3
+C-1
+S
+#19178
+{BOLD}{RED}An Adjacent Chamber{red}{bold}~
+
+    Boy are you lucky.  You fell into one of the adjacent chambers to
+the room you see through the doorway in front of you.  The unfortunate
+ones that didn't are at this moment being shredded before your eyes by
+the monster in the main chamber.  Better get moving before they are
+dead....or are you a coward?
+
+~
+191 0 1
+D3
+~
+~
+0 -1 19182
+Z3
+C1
+S
+#19179
+{BOLD}{RED}An Adjacent Chamber{red}{bold}~
+
+    Boy are you lucky.  You fell into one of the adjacent chambers to
+the room you see through the doorway in front of you.  The unfortunate
+ones that didn't are at this moment being shredded before your eyes by
+the monster in the main chamber.  Better get moving before they are
+dead....or are you a coward?
+
+~
+191 0 1
+D0
+~
+~
+0 -1 19182
+Z3
+C1
+S
+#19180
+{BOLD}{RED}An Adjacent Chamber{red}{bold}~
+
+    Boy are you lucky.  You fell into one of the adjacent chambers to
+the room you see through the doorway in front of you.  The unfortunate
+ones that didn't are at this moment being shredded before your eyes by
+the monster in the main chamber.  Better get moving before they are
+dead....or are you a coward?
+
+~
+191 0 1
+D1
+~
+~
+0 -1 19182
+Z3
+C1
+S
+#19181
+{BOLD}{RED}An Adjacent Chamber{red}{bold}~
+
+    Boy are you lucky.  You fell into one of the adjacent chambers to
+the room you see through the doorway in front of you.  The unfortunate
+ones that didn't are at this moment being shredded before your eyes by
+the monster in the main chamber.  Better get moving before they are
+dead....or are you a coward?
+
+~
+191 0 1
+D2
+~
+~
+0 -1 19182
+Z3
+C1
+S
+#19182
+{BOLD}{BLUE}A Secret Treasure{blue}{bold}~
+
+    This room is brightly lit by torches.  You see various types of
+treasure on the floor...but what catches your attention is the guardian
+of the stuff suddenly jumping at you.  Win or die.
+
+~
+191 144 1
+D0
+~
+~
+0 -1 19181
+D1
+~
+~
+0 -1 19178
+D2
+~
+~
+0 -1 19179
+D3
+~
+~
+0 -1 19180
+Z3
+C-1
+S
+#19183
+{BOLD}{BLUE}A Short Hallway{blue}{bold}~
+
+   You appear at the start of a short hallway.  There are paintings and
+things of great value in this hall.  Servants hustle too and fro,
+cleaning and doing other things not readily known.  Some eye you and
+raise their eyebrow, but otherwise leave you alone.  The hallway continues
+up ahead.
+
+~
+191 0 1
+D0
+~
+~
+0 -1 19184
+Z3
+C-1
+S
+#19184
+{BOLD}{BLUE}A Short Hallway{blue}{bold}~
+
+   You appear at the start of a short hallway.  There are paintings and
+things of great value in this hall.  Servants hustle too and fro,
+cleaning and doing other things not readily known.  Some eye you and
+raise their eyebrow, but otherwise leave you alone.  The hallway continues
+up ahead.
+
+~
+191 0 1
+D0
+~
+~
+0 -1 19185
+D2
+~
+~
+0 -1 19183
+Z3
+C-1
+S
+#19185
+{BOLD}{WHITE}A Splitting of Paths{white}{bold}~
+
+    The hallway splits here.  One path leads to the right and the other
+to the left.  A magical curtain seems to be covering both entrances,
+but their purpose is unclear for the moment.  Each hallway seems the
+same from here, but the only way to tell is to continue.
+
+~
+191 4 1
+D1
+~
+~
+0 -1 19186
+D2
+~
+~
+0 -1 19184
+D3
+~
+~
+0 -1 19189
+Z3
+C-1
+S
+#19186
+{BOLD}{YELLOW}Hallway of Magic{yellow}{bold}~
+
+    It seems the magical curtain prevents your warrior friends from
+following this path.  Only those intimate with the knowledge of magic
+may tread these halls.....and face whatever danger there is without
+the aid of fighters.  May your magic protect you.
+
+~
+191 0 1
+D0
+~
+~
+0 -1 19187
+D3
+~
+~
+0 -1 19185
+Z3
+C-1
+S
+#19187
+{BOLD}{YELLOW}Hallway of Magic{yellow}{bold}~
+
+    It seems the magical curtain prevents your warrior friends from
+following this path.  Only those intimate with the knowledge of magic
+may tread these halls.....and face whatever danger there is without
+the aid of fighters.  May your magic protect you.
+
+~
+191 0 1
+D0
+~
+~
+0 -1 19188
+D2
+~
+~
+0 -1 19186
+Z3
+C-1
+S
+#19188
+{BOLD}{YELLOW}Hallway of Magic{yellow}{bold}~
+
+    It seems the magical curtain prevents your warrior friends from
+following this path.  Only those intimate with the knowledge of magic
+may tread these halls.....and face whatever danger there is without
+the aid of fighters.  May your magic protect you.
+
+~
+191 0 1
+D2
+~
+~
+0 -1 19187
+D3
+~
+~
+0 -1 19192
+Z3
+C-1
+S
+#19189
+{BOLD}{YELLOW}Hallway of Strength{yellow}{bold}~
+
+    It seems the curtain prevented your magical friends from following
+this path.  Only those with the knowledge of warfare and close combat
+may walk these halls....to face whatever dangers are here without
+the help of magic.  May your strength protect you.
+
+~
+191 0 1
+D0
+~
+~
+0 -1 19190
+D1
+~
+~
+0 -1 19185
+Z3
+C-1
+S
+#19190
+{BOLD}{YELLOW}Hallway of Strength{yellow}{bold}~
+
+    It seems the curtain prevented your magical friends from following
+this path.  Only those with the knowledge of warfare and close combat
+may walk these halls....to face whatever dangers are here without
+the help of magic.  May your strength protect you.
+
+~
+191 0 1
+D0
+~
+~
+0 -1 19191
+D2
+~
+~
+0 -1 19189
+Z3
+C-1
+S
+#19191
+{BOLD}{YELLOW}Hallway of Strength{yellow}{bold}~
+
+    It seems the curtain prevented your magical friends from following
+this path.  Only those with the knowledge of warfare and close combat
+may walk these halls....to face whatever dangers are here without
+the help of magic.  May your strength protect you.
+
+~
+191 0 1
+D1
+~
+~
+0 -1 19192
+D2
+~
+~
+0 -1 19190
+Z3
+C-1
+S
+#19192
+{BOLD}{WHITE}A Joining of Paths{white}{bold}~
+
+    You breath a sigh of relief as you pass through another of those
+curtians into this room.  Those strong and powerful may once again travel
+together once this spot has been reached.  After defeating your seperate
+enemies, you smile at each other and feel confident that nothing can
+stop you now, so you continue on your way.
+
+~
+191 4194308 1
+D0
+~
+~
+0 -1 19193
+D1
+~
+~
+0 -1 19188
+D3
+~
+~
+0 -1 19191
+Z3
+C-1
+S
+#19193
+{BOLD}{CYAN}A Guarded Entryway{cyan}{bold}~
+
+   You walk into a fairly large room that has a large entry into another
+room beyond it.  Two gleaming Knights stand guard over the door, letting
+no one pass.  You're curious to see whats beyond these two knights and
+they continue blocking your way.  Seems another fight is about to
+begin.
+
+~
+191 0 1
+D0
+~
+~
+0 -1 19194
+D2
+~
+~
+0 -1 19192
+Z3
+C-1
+S
+#19194
+{BOLD}{RED}The Throne Room{red}{bold}~
+
+    After you dispatch those two annoying guards, you are dazzled by
+the splendor of this room.  Things of unimaginable value are everywhere.
+A large throne dominates the room, and has a man sitting upon it who 
+seems just as imposing as the throne.  He glares at you with an imperious
+look and stands up.  "I am the Lord of this castle.  Why have you
+come and disturbed me?  You shall regret your actions my rash friends..
+I am not a forgiving man."  He then sets himself and prepares to do
+battle with you.  Good luck.
+
+~
+191 0 1
+D0
+~
+Throne~
+1 -1 19195
+D2
+~
+~
+0 -1 19193
+Z3
+C-1
+S
+#19195
+{BOLD}{GREEN}Another Portal{green}{bold}~
+    You see another portal glowing softly on the wall before you.
+Where will this one take you?  Enter and find out.
+
+~
+191 0 1
+D2
+~
+Throne~
+1 -1 19194
+Z3
+C-1
+S
+#19196
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+191 262144 1
+Z3
+C-1
+S
+#19197
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+191 262144 1
+Z3
+C-1
+S
+#19198
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+191 262144 1
+Z3
+C-1
+S
+#19199
+{BOLD}{BLACK}Chamber{black}{bold} {BOLD}of{bold} {BOLD}{YELLOW}Mirrors{yellow}{bold}!~
+     As you wander farther and farther into this strange castle, you come
+to a chamber that is devoid of any trappings common to the rest of the
+castle.  As you glance around this cold and barren room, you notice a tall
+mirror that you had not seen before in one of the far corners.  When you walk
+over to the mirror and look within its crystalline depths, you begin to see
+image after image of the city of {GREEN}Midgaard{green} and the rest of this world pass
+quickly before your eyes.  Understanding, Awe, and no small amount of Fear
+come to you all at once.  This is where {RED}Airagar{red}, {BLUE}Lord of {CYAN}Wind{cyan}, surveys and
+watches this world.
+You are within the legendary {BLACK}Chamber{black} of {YELLOW}Mirrors{yellow}!
+~
+191 8 0
+M50
+Z3
+C-1
+S
+$~

@@ -1,0 +1,109 @@
+#36700
+{Y}Trail to the Forge{y}~
+
+  {Y}You enter an open area surrounded by very old, twisted trees.
+  The entire area radiates a strong feeling of ancient power, and 
+  you feel strangely calm as you sense an aura of powerful magic.
+
+  There is an old wooden {BO,C}sign{bo,Y} that catches your attention.
+
+~
+367 4 3
+D2
+~
+~
+0 -1 36701
+Z0
+C-1
+R0
+S
+#36701
+{Y}Continuing along the Trail{y}~
+
+  {Y}Ancient stones with indecipherable runes line this path
+  through this old forest.  There are dark, foreboding trees
+  as far as the eye can see but no sound of birds.  The wind
+  is still and all is silent.{y}
+
+~
+367 0 3
+D2
+~
+~
+0 -1 36702
+Z-1
+C-1
+R0
+S
+#36702
+{Y}Continuing along the Trail{y}~
+
+  {Y}Ancient stones with indecipherable runes line this path
+  through this old forest.  There are dark, foreboding trees
+  as far as the eye can see but no sound of birds.  The wind
+  is still and all is silent.{y}
+
+~
+367 0 3
+D0
+~
+~
+0 -1 36701
+Z0
+C-1
+R0
+S
+#36703
+{BOLD,GREEN}S Las Vegas Blvd.{g}~
+
+{YELLOW}You are walking on South Las Vegas Blvd.  The air keeps getting colder with each passing minute.
+You look around you and see wierd people start to come out of the shadows of night.  Should
+you continue further?  {y}
+
+~
+367 262177 1
+D0
+~
+~
+0 -1 36704
+D2
+~
+~
+0 -1 36702
+Z0
+C-1
+R0
+S
+#36704
+S. Las Vegas Blvd.~
+You are freezing as you stand on the sidewalk fronting the Stratosphere.  As you look upwards, you notice how tall the building is.  Your first thoughts are if you could climb to the top.
+~
+367 32 1
+D1
+~
+~
+0 -1 36705
+D2
+~
+~
+0 -1 36703
+Z0
+C-1
+R0
+S
+#36705
+The Entrance to the Stratosphere~
+You are standing in the lobby of the infamous Stratosphere.  You notice people walking all over.  In the distance you hear the bells and whistles of the slot machines.  
+quiet
+You see people standing at the reception counter looking at you as if they might want to tell you something...Should you go on to investigate?
+~
+367 262152 1
+D3
+~
+~
+0 -1 36704
+Z0
+C-1
+R0
+S
+$~

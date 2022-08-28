@@ -1,0 +1,2082 @@
+#20400
+{C}Memorable{c} {YELLOW}Crusades{yellow}~
+{C} Welcome, you elite team of mortals hungry for 
+adventure. You brave souls that join in the 
+crusades must realize the dangers that you 
+will face.  Many have fought bravely in these
+battles and died honorably as well.  The Holy
+lands must be won! {c}
+~
+204 0 1
+D0
+~
+diamond wood door~
+1 -1 20401
+D4
+~
+hatch~
+1 -1 20402
+Z3
+C-1
+S
+#20401
+{M}Recruiting{m}~
+{Y}Ahh...so you decided to continue the quest 
+for the holy lands, eh? Remember, there is 
+no halfway. If you go halfway you will become 
+only a vague memory.  Go with God, men, and
+return safely.{y}
+~
+204 0 1
+D0
+~
+titanium~
+2 20401 20405
+D1
+~
+steel~
+2 20400 20404
+D2
+~
+diamond wood door~
+1 -1 20400
+D3
+~
+wooden~
+1 -1 20403
+Z3
+C-1
+S
+#20402
+{W,BO}Ceiling Full of Spikes!!{w,bo}~
+{W,BO}As you crawl in through the hatch, a strange
+magnetic force pulls you to your death!! You
+reach the ceiling! The spikes pierce your body!
+The bleeding cannot be stopped...
+
+You are going to {R}DIE{W}!
+~
+204 3 1
+D5
+~
+hatch~
+1 -1 20400
+Z3
+C-1
+S
+#20403
+{C}Training{c}~
+{WHITE}No soldier would be ready without proper training now would they.
+Fight bravely and smart as you would against any enemy!{white}
+
+~
+204 4194305 1
+D1
+~
+wooden~
+1 -1 20401
+Z3
+C-1
+S
+#20404
+{BLUE}More training!{blue}~
+{WHITE}So you thought your training was over eh.  I think you still need more.
+Now continue with the crusade!{white}
+
+~
+204 4210721 1
+D3
+~
+steel~
+1 -1 20401
+Z3
+C-1
+S
+#20405
+{BOLD}{GREEN}Choosing your destiny{green}{bold}~
+The crusades begin!!  Which path now shall you take?
+
+~
+204 1 4
+D0
+~
+~
+0 -1 20406
+D1
+~
+~
+0 -1 20408
+D2
+~
+titanium~
+1 -1 20401
+D3
+~
+~
+0 -1 20407
+Z3
+C-1
+S
+#20406
+{BOLD}{GREEN}Choosing your destiny{green}{bold}~
+The crusades begin!!  Which path now shall you take?
+
+~
+204 1 4
+D0
+~
+bush~
+2 20402 20409
+D2
+~
+~
+0 -1 20405
+Z3
+C-1
+S
+#20407
+{BOLD}{GREEN}Choosing your destiny{green}{bold}~
+The crusades begin!!  Which path now shall you take?
+
+~
+204 1 4
+D1
+~
+~
+0 -1 20405
+D3
+~
+endo~
+1 20413 20410
+Z3
+C-1
+S
+#20408
+{BOLD}{GREEN}Choosing your destiny{green}{bold}~
+The crusades begin!!  Which path now shall you take?
+
+~
+204 1 4
+D1
+~
+Skull~
+2 20407 20411
+D3
+~
+~
+0 -1 20405
+Z3
+C-1
+S
+#20409
+{YELLOW}Enterance to the Enchanted{yellow} {BOLD}{GREEN}Forest{green}{bold}~
+{BOLD}{GREEN}You are traveling on a dirt pathway toward a dense forest.
+The path seems to never end!!  You panic, and turn around ready
+to jump back through the bush from once you came.  All you saw was
+dense forset around you, you then turned back north and saw you 
+are in some sort of forest...with an enchantment!
+
+~
+204 0 3
+D2
+~
+bush~
+1 -1 20406
+D3
+~
+~
+0 -1 20412
+Z3
+C-1
+S
+#20410
+{BOLD}{C}Endo{c}{bold} {BOLD}{WHITE}steal{white}{bold} {BOLD}{YELLOW}caves{yellow}{bold}~
+{BOLD}{C}As you pierce your way through the endo steal you find yourself
+in another cave, in which you have found out how the king was able to
+obtain such metals.  For he had the key to the endo iron ore cave all
+this time.  Who has been mining it for so long it cannot be just the king?
+Looks like the work of thousands of people, not just a few hundred.{c}{bold}
+
+~
+204 4194433 1
+D1
+~
+endo~
+1 -1 20407
+D3
+~
+~
+0 -1 20471
+Z3
+C-1
+S
+#20411
+{BOLD}{YELLOW}Rocky path{yellow}{bold}~
+{BOLD}{YELLOW}As you step through the huge skull you find youself on a huge
+and rocky path.  You look farther down this path and you can see that
+it is going to have more rocks and cliffs.  Your guessing a canyon
+of some sort up ahead.{yellow}{bold}
+
+~
+204 4194433 1
+D0
+~
+~
+0 -1 20485
+D3
+~
+Skull~
+1 -1 20408
+X7340032
+Z3
+C2
+S
+#20412
+{YELLOW}Enchanted{yellow} {BOLD}{GREEN}Forest{green}{bold}~
+{BOLD}{GREEN}As you continue on through the forest.  You can spot things
+moving at a fast pace.  You begin to get a little paranoid as you
+listen to the evil chuckling of the creatures from all directions.
+Your heart is racing, you fear that you might have to face those foes.
+You come back to your senses and realize you have a quest to continue.
+
+~
+204 0 3
+D1
+~
+~
+0 -1 20409
+D3
+~
+~
+0 -1 20413
+Z3
+C-1
+S
+#20413
+{YELLOW}Enchanted{yellow} {BOLD}{GREEN}Forest{green}{bold}~
+{BOLD}{GREEN}You countinue your quest through the twisted trees and weeds.
+You can still hear the evil chuckling of the creatures, but you simply
+ignore them.
+
+~
+204 4194305 3
+D0
+~
+~
+0 -1 20414
+D1
+~
+~
+0 -1 20412
+D2
+~
+~
+0 -1 20418
+D3
+~
+~
+0 -1 20419
+Z3
+C-1
+S
+#20414
+{YELLOW}Enchanted{yellow} {BOLD}{GREEN}Forest{green}{bold}~
+{BOLD}{GREEN}You countinue your quest through the twisted trees and weeds.
+You can still hear the evil chuckling of the creatures, but you simply
+ignore them.
+
+~
+204 4194305 3
+D0
+~
+~
+0 -1 20415
+D1
+~
+~
+0 -1 20416
+D2
+~
+~
+0 -1 20413
+D3
+~
+~
+0 -1 20417
+Z3
+C-1
+S
+#20415
+{YELLOW}Enchanted{yellow} {BOLD}{GREEN}Forest{green}{bold}~
+{BOLD}{GREEN}You countinue your quest through the twisted trees and weeds.
+You can still hear the evil chuckling of the creatures, but you simply
+ignore them.
+
+~
+204 4194305 3
+D0
+~
+~
+0 -1 20420
+D2
+~
+~
+0 -1 20414
+D3
+~
+~
+0 -1 20418
+Z3
+C-1
+S
+#20416
+{YELLOW}Enchanted{yellow} {BOLD}{GREEN}Forest{green}{bold}~
+{BOLD}{GREEN}You countinue your quest through the twisted trees and weeds.
+You can still hear the evil chuckling of the creatures, but you simply
+ignore them.
+
+~
+204 4194305 3
+D1
+~
+~
+0 -1 20417
+D3
+~
+~
+0 -1 20414
+Z3
+C-1
+S
+#20417
+{YELLOW}Enchanted{yellow} {BOLD}{GREEN}Forest{green}{bold}~
+{BOLD}{GREEN}You countinue your quest through the twisted trees and weeds.
+You can still hear the evil chuckling of the creatures, but you simply
+ignore them.
+
+~
+204 4194305 3
+D1
+~
+~
+0 -1 20414
+D3
+~
+~
+0 -1 20416
+Z3
+C-1
+S
+#20418
+{YELLOW}Enchanted{yellow} {BOLD}{GREEN}Forest{green}{bold}~
+{BOLD}{GREEN}You countinue your quest through the twisted trees and weeds.
+You can still hear the evil chuckling of the creatures, but you simply
+ignore them.
+
+~
+204 4194305 3
+D0
+~
+~
+0 -1 20413
+D1
+~
+~
+0 -1 20415
+D2
+~
+~
+0 -1 20419
+Z3
+C-1
+S
+#20419
+{YELLOW}Enchanted{yellow} {BOLD}{GREEN}Forest{green}{bold}~
+{BOLD}{GREEN}You countinue your quest through the twisted trees and weeds.
+You can still hear the evil chuckling of the creatures, but you simply
+ignore them.
+
+~
+204 4194305 3
+D0
+~
+~
+0 -1 20418
+D1
+~
+~
+0 -1 20413
+Z3
+C-1
+S
+#20420
+{YELLOW}Enchanted{yellow} {BOLD}{GREEN}Forest{green}{bold}~
+{BOLD}{GREEN}You countinue your quest through the twisted trees and weeds.
+You can still hear the evil chuckling of the creatures, but you simply
+ignore them.
+
+~
+204 4194305 3
+D2
+~
+~
+0 -1 20415
+D5
+~
+~
+0 -1 20421
+Z3
+C-1
+S
+#20421
+{B}Deeper{b} {BOLD}{GREEN}with in the forest{green}{bold}~
+{BOLD}{GREEN}The chuckling has silenced.  You can still see things moving
+with in black shadows rapidly through the dense forest.  You could have
+sworn that tree's limb is moving!{green}{bold}
+
+~
+204 4194337 3
+D2
+~
+~
+0 -1 20422
+D4
+~
+~
+0 -1 20420
+Z3
+C-1
+S
+#20422
+{B}Deeper{b} {BOLD}{GREEN}with in the forest{green}{bold}~
+{BOLD}{GREEN}The chuckling has silenced.  You can still see things moving
+with in black shadows rapidly through the dense forest.  You could have
+sworn that tree's limb is moving!{green}{bold}
+
+~
+204 4194337 3
+D0
+~
+~
+0 -1 20421
+D2
+~
+~
+0 -1 20423
+Z3
+C-1
+S
+#20423
+{B}Deeper{b} {BOLD}{GREEN}with in the forest{green}{bold}~
+{BOLD}{GREEN}The chuckling has silenced.  You can still see things moving
+with in black shadows rapidly through the dense forest.  You could have
+sworn that tree's limb is moving!{green}{bold}
+
+~
+204 4194337 3
+D0
+~
+~
+0 -1 20422
+D1
+~
+~
+0 -1 20424
+Z3
+C-1
+S
+#20424
+{B}Deeper{b} {BOLD}{GREEN}with in the forest{green}{bold}~
+{BOLD}{GREEN}The chuckling has silenced.  You can still see things moving
+with in black shadows rapidly through the dense forest.  You could have
+sworn that tree's limb is moving!{green}{bold}
+
+~
+204 4194337 3
+D1
+~
+~
+0 -1 20425
+D3
+~
+~
+0 -1 20423
+Z3
+C-1
+S
+#20425
+{B}Deeper{b} {BOLD}{GREEN}with in the forest{green}{bold}~
+{BOLD}{GREEN}The chuckling has silenced.  You can still see things moving
+with in black shadows rapidly through the dense forest.  You could have
+sworn that tree's limb is moving!{green}{bold}
+
+~
+204 4194337 3
+D0
+~
+~
+0 -1 20426
+D3
+~
+~
+0 -1 20424
+Z3
+C-1
+S
+#20426
+{BOLD}{GREEN}Path{green}{bold} {BOLD}{YELLOW}to{yellow}{bold} {B}Morwen's{b} {BOLD}{YELLOW}cottage{yellow}{bold}~
+{BOLD}{YELLOW}Finally, you believe you are now out of the forest.  Heading towards
+a small strange cottage with a picket fence leading around it.  The
+porch is surrounded by cats of different colors.{yellow}{bold}
+
+~
+204 0 3
+D2
+~
+~
+0 -1 20425
+D3
+~
+~
+0 -1 20427
+Z3
+C-1
+S
+#20427
+{BOLD}{GREEN}Path{green}{bold} {BOLD}{YELLOW}to{yellow}{bold} {B}Morwen's{b} {BOLD}{YELLOW}cottage{yellow}{bold}~
+{BOLD}{YELLOW}You continue on the path.  The cottage seems to grow bigger
+by each step you take.  The cats begin to line up side by side on
+the porch waiting for your approach, how strange.{yellow}{bold}
+
+~
+204 0 3
+D1
+~
+~
+0 -1 20426
+D3
+~
+~
+0 -1 20428
+Z3
+C-1
+S
+#20428
+{BOLD}{GREEN}Path{green}{bold} {BOLD}{YELLOW}to{yellow}{bold} {B}Morwen's{b} {BOLD}{YELLOW}cottage{yellow}{bold}~
+{BOLD}{YELLOW}You continue on the path.  The cottage seems to grow bigger
+by each step you take.  The cats begin to line up side by side on
+the porch waiting for your approach, how strange.{yellow}{bold}
+
+~
+204 0 3
+D0
+~
+~
+0 -1 20429
+D1
+~
+~
+0 -1 20427
+Z3
+C-1
+S
+#20429
+{BOLD}{YELLOW}Towards the steps{yellow}{bold}~
+{BOLD}{YELLOW}You approach the front porch of the cottage.  The cats
+stare at you with there glowing eyes.  Wait! there eyes are glowing!!
+You suddenly have a bad feeling of what lies ahead!
+
+~
+204 4194304 3
+D0
+~
+~
+0 -1 20430
+D2
+~
+~
+0 -1 20428
+Z3
+C2
+S
+#20430
+{WHITE}On the{white} {BOLD}{YELLOW}front porch{yellow}{bold}~
+{WHITE}You are standing before the door of the cottage then suddenly you 
+hear the hissing of those hundreds of pretty little kittys, and you soon
+realize your worst fears have come true!
+
+~
+204 4194465 3
+D0
+~
+door~
+2 20404 20431
+D2
+~
+~
+0 -1 20429
+Z3
+C-1
+S
+#20431
+{BOLD}{YELLOW}Inside the small cottage{yellow}{bold}~
+{BOLD}{WHITE}As you enter the cottage you notice that this is not a ordinary
+cottage infact it looks like a humble three story house.  Must be some
+sort of enchanted ment that the owner bestowed upon the cottage.
+
+~
+204 4194433 3
+D2
+~
+door~
+1 -1 20430
+D3
+~
+~
+0 -1 20432
+Z3
+C-1
+S
+#20432
+{B}Morwen's{b} {WHITE}living room{white}~
+{WHITE}You feel more relaxed in this room as you sit down on the large sofa.
+Then your nerves begin to rattle again as you hear the hissing.  You
+begin to pray thats its not more of those cats!
+
+~
+204 4194304 3
+D1
+~
+~
+0 -1 20431
+D3
+~
+~
+0 -1 20433
+Z3
+C-1
+S
+#20433
+{B}Back door{b} {WHITE}of cottage{white}~
+{BOLD}{WHITE}More cats!  You had to come in this room didn't you?
+
+~
+204 4210833 3
+D0
+~
+backdoor~
+2 20404 20434
+D1
+~
+~
+0 -1 20432
+Z3
+C-1
+S
+#20434
+{BOLD}{WHITE}Back steps{white}{bold} {BOLD}{YELLOW}of cottage{yellow}{bold}~
+{BOLD}{YELLOW}Your finally out ot that cat infested house!  To the north you
+see a strange green garden.  With wierd looking vines and plants.{yellow}{bold}
+
+~
+204 4194308 3
+D0
+~
+~
+0 -1 20435
+D2
+~
+backdoor~
+1 -1 20433
+Z3
+C-1
+S
+#20435
+Enchanted {BOLD}{GREEN}garden{green}{bold}~
+{BOLD}{GREEN}You are in a strange enchantment of vines and herbs.  The vines
+look as they are growing right before your eyes!  You can hear movement to the west.{green}{bold}
+
+~
+204 4194433 3
+D2
+~
+~
+0 -1 20434
+D3
+~
+~
+0 -1 20436
+Z3
+C-1
+S
+#20436
+Enchanted {BOLD}{GREEN}garden{green}{bold}~
+You knew you shouldn't have been snooping on some body's property.  Now you
+are going to pay dearly!!!
+
+~
+204 4210881 3
+D1
+~
+~
+0 -1 20435
+D2
+~
+~
+0 -1 20437
+Z3
+C-1
+S
+#20437
+Passed the {BOLD}{YELLOW}cottage{yellow}{bold}~
+You take off running far away from the cottage as fast as your legs
+can run!  You are beginning to hate this place dearly, but you
+know you must continue, the quest must procede.
+
+~
+204 4194433 3
+D0
+~
+~
+0 -1 20436
+D2
+~
+~
+0 -1 20438
+Z3
+C-1
+S
+#20438
+Towards a {BLUE}small{blue} {BOLD}{BLUE}stream{blue}{bold}~
+{C}You decided that you have ran far enough.  You believe now that you
+are at a safe enough distance away from the cats and who knows what else
+was lurking within that cottage.  As you continue south you see a small stream.{c}
+
+~
+204 4194305 3
+D0
+~
+~
+0 -1 20437
+D2
+~
+~
+0 -1 20439
+Z3
+C-1
+S
+#20439
+Towards a {BLUE}small{blue} {BOLD}{BLUE}stream{blue}{bold}~
+{C}You decided that you have ran far enough.  You believe now that you
+are at a safe enough distance away from the cats and who knows what else
+was lurking within that cottage.  As you continue south you see a small stream.{c}
+
+~
+204 4194305 3
+D0
+~
+~
+0 -1 20438
+D2
+~
+~
+0 -1 20440
+Z3
+C-1
+S
+#20440
+{BLUE}Before the stream{blue}~
+{C}As you approach the stream, you notice that it keeps increasing in
+size.  You are now right up beside the stream which has grown into
+a full pledged river.  At this point you realize you are still within
+the enchanted forest.
+
+~
+204 4194305 3
+D0
+~
+~
+0 -1 20439
+D1
+~
+~
+0 -1 20441
+Z3
+C-1
+S
+#20441
+{BLUE}Wading through the stream{blue}~
+{C}The width may have increased but the depth is the same, but the water 
+is cold to the touch.  It feels like small knives sticking into you
+with each step you take through the stream.
+
+~
+204 4194465 3
+D0
+~
+~
+0 -1 20443
+D2
+~
+~
+0 -1 20442
+D3
+~
+~
+0 -1 20440
+Z3
+C-1
+S
+#20442
+{BLUE}Watery grave{blue}~
+{C}You thought the cold touch of the water ways bad.  Look at the size
+of that waterfall!!  No...wait...your heading in that direction!!!
+The rushing water pushes you over the edge and you are crushed by the
+jagged rocks below.
+
+You are {RED}DEAD{red}
+
+~
+204 2 1
+D0
+~
+~
+0 -1 20441
+Z3
+C-1
+S
+#20443
+{BLUE}Other{blue} {C}side{c}~
+{C}Finally the freezing cold water is no more.  You stop and think to
+yourself for a moment.  That water would make nice drinking water!
+You turn around to take a sip of the stream and find that its gone!!{c}
+
+~
+204 4194305 3
+D0
+~
+~
+0 -1 20444
+D2
+~
+~
+0 -1 20441
+Z3
+C-1
+S
+#20444
+{WHITE}A new{white} {BOLD}{YELLOW}path{yellow}{bold}~
+{BOLD}{YELLOW}You are confused about what happen to the stream that nearly
+killed you.  You demanded answers!  You turned and faced the diretion 
+you was rightfully heading and found your answer...{yellow}{bold}
+
+~
+204 4227073 3
+D0
+~
+~
+0 -1 20445
+D2
+~
+~
+0 -1 20443
+Z3
+C-1
+S
+#20445
+{WHITE}Continuing on{white} {BOLD}{YELLOW}the path{yellow}{bold}~
+{WHITE}You decided to continue on the path.  Further down the path you see
+a huge rocky side.  Looks almost like an entrance to a cave of some sort
+
+~
+204 4194305 3
+D0
+~
+~
+0 -1 20446
+D2
+~
+~
+0 -1 20444
+Z3
+C-1
+S
+#20446
+{WHITE}Continuing on{white} {BOLD}{YELLOW}the path{yellow}{bold}~
+{WHITE}You decided to continue on the path.  Further down the path you see
+a huge rocky side.  Looks almost like an entrance to a cave of some sort
+
+~
+204 4194305 3
+D1
+~
+~
+0 -1 20447
+D2
+~
+~
+0 -1 20445
+Z3
+C-1
+S
+#20447
+{BOLD}{C}Entrance to cave{c}{bold}~
+{BOLD}{WHITE}You have lead yourself off the path and to the east you notice
+a entrance in the side of a huge heep of limestone, you decide to take
+a look.{c}{bold}
+
+~
+204 8197 3
+D0
+~
+~
+0 -1 20448
+D3
+~
+~
+0 -1 20446
+Z3
+C-1
+S
+#20448
+{BOLD}{C}Inside the Caves of{c}{bold} {RED}fire{red} {BOLD}{C}and{c}{bold} {B}night{b}~
+{BOLD}{C}These caves are filled with periods of twinkling light to periods
+of total darkness.  You have to be quick when the light hits or you may 
+get stranded through the darkness.{c}{bold}
+
+~
+204 4194432 1
+D0
+~
+~
+0 -1 20449
+D1
+~
+~
+0 -1 20451
+D2
+~
+~
+0 -1 20447
+X3145728
+Z3
+C-1
+S
+#20449
+{BOLD}{C}Inside the Caves of{c}{bold} {RED}fire{red} {BOLD}{C}and{c}{bold} {B}night{b}~
+{BOLD}{C}These caves are filled with periods of twinkling light to periods
+of total darkness.  You have to be quick when the light hits or you may 
+get stranded through the darkness.{c}{bold}
+
+~
+204 4194433 1
+D1
+~
+~
+0 -1 20450
+D2
+~
+~
+0 -1 20448
+X3145728
+Z3
+C-1
+S
+#20450
+{BOLD}{C}Inside the Caves of{c}{bold} {RED}fire{red} {BOLD}{C}and{c}{bold} {B}night{b}~
+{BOLD}{C}These caves are filled with periods of twinkling light to periods
+of total darkness.  You have to be quick when the light hits or you may 
+get stranded through the darkness.{c}{bold}
+
+~
+204 4194432 1
+D2
+~
+~
+0 -1 20451
+D3
+~
+~
+0 -1 20449
+X3145728
+Z3
+C-1
+S
+#20451
+{BOLD}{C}Inside the Caves of{c}{bold} {RED}fire{red} {BOLD}{C}and{c}{bold} {B}night{b}~
+{BOLD}{C}These caves are filled with periods of twinkling light to periods
+of total darkness.  You have to be quick when the light hits or you may 
+get stranded through the darkness.{c}{bold}
+
+~
+204 4194433 1
+D0
+~
+~
+0 -1 20450
+D2
+~
+~
+0 -1 20452
+D3
+~
+~
+0 -1 20448
+X3145728
+Z3
+C-1
+S
+#20452
+{RED}Heart{red} {BOLD}{C}of the cave{c}{bold}~
+{BOLD}{C}This is the heart of this massive cave, and you notice a strange
+room to the east.  Way to dark for you to tell from here.{c}{bold}
+
+~
+204 4194305 1
+D0
+~
+~
+0 -1 20451
+D1
+~
+~
+0 -1 20453
+Z3
+C-1
+S
+#20453
+{BOLD}{C}King of the dragon's{c}{bold} {YELLOW}throne{yellow} {B}room{b}~
+{B}Of all the rooms you choose this one!  You see a massive throne in
+front of you with a dragon wearing some sort of crown and a bunch of
+other creatures which you are guessing as it's guards.{b}
+
+~
+204 4194369 1
+D1
+~
+~
+0 -1 20454
+D3
+~
+~
+0 -1 20452
+X34
+Z3
+C-1
+S
+#20454
+{B}Through{BOLD} {C}the cave{c}{bold}~
+{BOLD}{C}You have made it through the king's monster infested throne
+room.  When you reached this room you notice the sparkles of brilliant
+diamonds amoung the walls from this you can see why they gave this cave
+its name.{c}{bold}
+
+~
+204 4194304 1
+D0
+~
+~
+0 -1 20455
+D3
+~
+~
+0 -1 20453
+X2048
+Z3
+C-1
+S
+#20455
+{B}Through{BOLD} {C}the cave{c}{bold}~
+{BOLD}{C}You have made it through the king's monster infested throne
+room.  When you reached this room you notice the sparkles of brilliant
+diamonds amoung the walls from this you can see why they gave this cave
+its name.{c}{bold}
+
+~
+204 4194305 1
+D0
+~
+~
+0 -1 20456
+D2
+~
+~
+0 -1 20454
+X2048
+Z3
+C-1
+S
+#20456
+{BOLD}{C}Dim{c}{bold} {YELLOW}light{yellow}~
+{BOLD}{C}You have about had enough of the quozzels and dragons trying
+time after time to kill you in this cave.  You want out!!  Finally
+what is this about 3 paces infront of you, is it an opening?  Perhaps
+the exist to the cave or maybe some more dragons breathing their deadly
+fire just waiting for you to come near.
+
+~
+204 4194433 1
+D1
+~
+~
+0 -1 20457
+D2
+~
+~
+0 -1 20455
+Z3
+C-1
+S
+#20457
+{BOLD}{C}The{c}{bold} {WHITE}exit!{white}~
+{WHITE}You grasp at the ground holding rocks and dirt in your hands
+as they were diamonds.  You thank each and every god that you made it
+alive out of that cave and swear to never return through there again
+
+~
+204 8192 4
+D2
+~
+~
+0 -1 20458
+D3
+~
+~
+0 -1 20456
+Z3
+C-1
+S
+#20458
+{MAGENTA}Sleeping{magenta} {BOLD}{YELLOW}plains{yellow}{bold}~
+{BOLD}{YELLOW}These plains are full of plant life, nothing big enough to kill
+you like a choke vine just nice fresh grass and trees.  These plains
+are known for their ability to put things in deep sleeps.  Some never
+came out of there sleeps as you can see some of the remains of creatures
+that have fallen asleep and never returned.{yellow}{bold}
+
+~
+204 4194496 4
+D0
+~
+~
+0 -1 20457
+D3
+~
+~
+0 -1 20459
+D4
+~
+~
+0 -1 20461
+D5
+~
+~
+0 -1 20461
+X7340032
+Z3
+C-1
+S
+#20459
+{MAGENTA}Sleeping{magenta} {BOLD}{YELLOW}plains{yellow}{bold}~
+{BOLD}{YELLOW}These plains are full of plant life, nothing big enough to kill
+you like a choke vine just nice fresh grass and trees.  These plains
+are known for their ability to put things in deep sleeps.  Some never
+came out of there sleeps as you can see some of the remains of creatures
+that have fallen asleep and never returned.{yellow}{bold}
+
+~
+204 4194496 4
+D0
+~
+~
+0 -1 20460
+D1
+~
+~
+0 -1 20458
+D3
+~
+~
+0 -1 20461
+X7340032
+Z3
+C-1
+S
+#20460
+{MAGENTA}Sleeping{magenta} {BOLD}{YELLOW}plains{yellow}{bold}~
+{BOLD}{YELLOW}These plains are full of plant life, nothing big enough to kill
+you like a choke vine just nice fresh grass and trees.  These plains
+are known for their ability to put things in deep sleeps.  Some never
+came out of there sleeps as you can see some of the remains of creatures
+that have fallen asleep and never returned.{yellow}{bold}
+
+~
+204 4194496 4
+D0
+~
+~
+0 -1 20461
+D1
+~
+~
+0 -1 20462
+D2
+~
+~
+0 -1 20459
+D3
+~
+~
+0 -1 20461
+X7340032
+Z3
+C-1
+S
+#20461
+{MAGENTA}DEEP sleep!{magenta}~
+{MAGENTA}As you walk into this room your eyes become very heavy, you cannot
+stand it any longer.  You fall down and slowly drift into a deep sleep.
+You begin to have nightmares about your many deaths.  Your heart begins
+to race!!  You cannot wake up to escape this torture!!!
+
+Your heart slows down....and finally stops......R.I.P...
+
+~
+204 3 1
+X7340032
+Z3
+C-1
+S
+#20462
+{BOLD}{WHITE}Before the{white}{bold} {WHITE}great{white} {BOLD}{C}castle!{c}{bold}~
+{BOLD}{WHITE}You stand before a majestic castle full of enchantment and
+chaos.  Your thoughts begin to betray you because you know you must
+face the king and he has more power than which any person can conjure.
+You study the bridge that has been lowered right before your eyes.
+You suddenly become very paranoid of your surroundings and scuttle
+quickly to the gate of the castle.{white}{bold}
+
+~
+204 0 4
+D0
+~
+~
+0 -1 20463
+D3
+~
+~
+0 -1 20460
+Z3
+C-1
+S
+#20463
+{BOLD}{C}Castle{c}{bold} {WHITE}gates{white}~
+{WHITE}You are now inches away from being inside of the castle and
+of completing this crusades to win part of the lands in which was lost.
+You study the gates carefully then you notice a keyhole.{white}
+
+~
+204 4194433 1
+D0
+~
+gates~
+2 20410 20464
+D2
+~
+~
+0 -1 20462
+Z3
+C-1
+S
+#20464
+{WHITE}Inside the castle{white}~
+{WHITE}As you look inside theis wonderful place you examine the walls which
+are pure white with little specs of gold on them.  The air is
+awfully strange looking.  You swear that you can see little blue
+shiny strands of somthing floating within the air.{white}
+
+~
+204 4194689 1
+D2
+~
+gates~
+1 -1 20463
+D3
+~
+~
+0 -1 20465
+T20482
+Z3
+C-1
+S
+#20465
+{WHITE}First hall{white}~
+{WHITE}You are in one of the finest halls of the kingdom, but you feel
+as though you are being watch.  There are eight fine looking statues
+of what looks like Great knights of some sort.  Possibly some of the
+more respected ones that have died honorably for this kingdom.  Whats
+this?  That statue just moved!!{white}
+
+~
+204 4194561 1
+D0
+~
+~
+0 -1 20466
+D1
+~
+~
+0 -1 20464
+T20482
+Z3
+C-1
+S
+#20466
+{WHITE}Second hall{white}~
+{WHITE}This hall also has statues within it and as the last one these
+are moving your way as well.  You notice this hall way is more mysterious
+then the last one the blue shiny specs in the air are becoming more
+noticable.{white}
+
+~
+204 4194561 1
+D1
+~
+~
+0 -1 20467
+D2
+~
+~
+0 -1 20465
+T20482
+Z3
+C-1
+S
+#20467
+{BOLD}{WHITE}Third Hall{white}{bold}~
+{BOLD}{WHITE}The walls in this hall are beginning to loose there goldish
+glitter and are taking up a small glow of blue from the specs in the
+air.  The blue specs have taken more form they almost look like little
+strings which are glowing blue just hanging within the air, but its
+still hart to tell exactly what they might be.{white}{bold}
+
+~
+204 4194561 1
+D2
+~
+~
+0 -1 20468
+D3
+~
+~
+0 -1 20466
+T20482
+X7340032
+Z3
+C-1
+S
+#20468
+{BOLD}{C}Final hall{c}{bold}~
+{BOLD}{C}You search around frantically.  You dont see anymore halls
+finally last one.  The blue strings float above your head just inches
+away from your grasp, but you think to yourself do you really want to
+grab at things that glow blue and hover above your head.  The walls
+now a sparkling dark blue with still that tiny bit of gold sparkle
+just grab your attention.  This is the most beautiful thing you have ever
+seen all through this adventure.  You wander what these halls lead
+you towards.  Then a burst back to reality as more statues head your
+way.{c}{bold}
+
+~
+204 4194561 1
+D0
+~
+~
+0 -1 20467
+D3
+~
+~
+0 -1 20469
+T20482
+X7340032
+Z3
+C-1
+S
+#20469
+{BOLD}{C}The great bedroom of her majesty Cimorene{c}{bold}~
+{BOLD}{C}You wondered why was these halls so beautiful, but full of
+leathal guards to stop you from advancing.  There are curtains that
+cover the grand french windows which are made by woven pure gold.
+There are tons of those glowing blue strings flying through the air
+in this room.  You notice an extremely beautiful women standing before
+the king sized bed.  The women that stands before you is Queen Cimorene
+who once was the princess of King Kazul and the other dragons, but
+she has found love with King Mendenbar in his grand kingdom you can
+see that in her eyes.  Then suddenly you spot a group of soldiers
+some from each corner of the room heading your way.{c}{bold}
+
+~
+204 4194561 1
+D0
+~
+~
+0 -1 20470
+D1
+~
+~
+0 -1 20468
+T20481
+X7340032
+Z3
+C-1
+S
+#20470
+{YELLOW}King's throne room{yellow}~
+{YELLOW}About every hundred years the enchanted forest chooses its new
+king to rule over the enchanted realms.  This wall is covered with
+material that looks like solid gold.  You see tons of statues of knights
+the same knights that keep trying time after time to destroy you.
+At this moment you begin to pray that not all of these things begin
+to move your direction, would be nice if any of them would hault and
+just be regular statues.  The glowing blue strings that you have been
+most facinated about have revealed themselves, its is the magic of
+the enchanted forest, but who is summoning this such magic and for
+what cause.  You turn to your right and you see that the the king
+with is right hand lift high into the air, has a vortex of glowing
+blue strings circling above his head and gathering to his hand and
+through his body.  Your heart begins to race!  Why is he channeling
+so much magic from the forest??
+
+~
+204 4194560 1
+D2
+~
+~
+0 -1 20469
+T20481
+Z3
+C-1
+S
+#20471
+{BOLD}{C}Endo{c}{bold} {BOLD}{WHITE}steal{white}{bold} {BOLD}{YELLOW}caves{yellow}{bold}~
+{BOLD}{C}As you pierce your way through the endo steal you find yourself
+in another cave, in which you have found out how the king was able to
+obtain such metals.  For he had the key to the endo iron ore cave all
+this time.  Who has been mining it for so long it cannot be just the king?
+Looks like the work of thousands of people, not just a few hundred.{c}{bold}
+
+~
+204 4194433 1
+D0
+~
+~
+0 -1 20472
+D1
+~
+~
+0 -1 20410
+Z3
+C-1
+S
+#20472
+{BOLD}{C}Endo{c}{bold} {BOLD}{WHITE}steal{white}{bold} {BOLD}{YELLOW}mill{yellow}{bold}~
+{BOLD}{C}From here the miners brought their ore to be turned into functioning
+endo steal, but for what type of machinery or weaponary do they need
+such material for?{c}{bold}
+
+~
+204 4194433 1
+D2
+~
+~
+0 -1 20471
+D3
+~
+~
+0 -1 20473
+X64
+Z3
+C-1
+S
+#20473
+{BOLD}{C}Endo{c}{bold} {RED}heat treatment facility{red}~
+{BOLD}{C}All endo iron must be specifically heat treated just right to gain
+stability and to burn all impureties out of the ore.  You do now feel
+very welcome here for it is extremely hot and a couple of rangers are
+heading your way.{c}{bold}
+
+~
+204 4194320 1
+D1
+~
+~
+0 -1 20472
+D2
+~
+~
+0 -1 20474
+X64
+Z3
+C-1
+S
+#20474
+{B}Drop{b}{BOLD}{C}ship{c}{bold}~
+{B}You slowly walk towards this massive ship of steal.  Which from a
+great distance looks like a sphere, but as you come closer you see
+that it has small smooth flat sides all arranged in a sphere shape.
+This ship is extremely huge!{b}
+
+~
+204 4194433 1
+D0
+~
+~
+0 -1 20473
+D1
+~
+hatch~
+2 20414 20475
+Z3
+C-1
+S
+#20475
+{BOLD}{WHITE}Starport{white}{bold}~
+{BOLD}{WHITE}You are inside of a ship of some sort.  From which you see
+a few exists to different parts of the ship.  The ship itself is made
+out of a strong metal, your guess is that of endo steal.  There is
+some circuits and boards visible but not much i would say this ship
+is ment to take some damage and keep on ticking.{white}{bold}
+
+~
+204 4194305 1
+D1
+~
+~
+0 -1 20476
+D3
+~
+hatch~
+1 -1 20474
+Z3
+C-1
+S
+#20476
+{BOLD}{WHITE}Comstar{white}{bold} {B}terminal{b}~
+{BOLD}{WHITE}You study the screen giving it your full attention.
+It seems to give a a small clue to where you are in your quest.  Possibly
+some enemies to watch out for but the screen has gone fuzzy with static.
+It also explains some sort of missions that your guess was given to
+the rangers to full fill.  Some of these weapons also mentioned gives
+short description of each, you find them very dangerous and far to
+huge for you to be able to carry.  Must be ment for a god, and you leave
+it as that.{white}{bold}
+
+~
+204 4194432 1
+D0
+~
+door~
+1 20414 20477
+D1
+~
+bay~
+2 20406 20481
+D3
+~
+~
+0 -1 20475
+Z3
+C-1
+S
+#20477
+{YELLOW}Arms{yellow} {BOLD}{C}merchant{c}{bold}~
+{BOLD}{C}You remember all those big buff weapons you saw in comstar?
+You have found its source and you begin to laugh chaoticly, but all
+these weapons you cannot use for they belong to some sort of machines
+and which dont have handles nor triggers for you to set of or grasp.
+You suddenly spot figures racing toward you from each dark corner of
+the room!{c}{bold}
+
+~
+204 4194433 1
+D2
+~
+door~
+1 -1 20476
+D3
+~
+~
+0 -1 20478
+Z3
+C-1
+S
+#20478
+{BOLD}{C}Mech{c}{bold} {WHITE}factory{white}~
+{WHITE}As you enter this room you see huge arms and legs and other parts to
+massive machines.  Some on assembly lines others just waiting in the
+corners.  Others look as if they've seen a little to much war.  Sparks
+are flying all over the place in this room as new mechs of war are made.{white}
+
+~
+204 4194305 1
+D0
+~
+~
+0 -1 20479
+D1
+~
+~
+0 -1 20477
+X7340034
+Z3
+C-1
+S
+#20479
+{BOLD}{C}Mech{c}{bold} {WHITE}factory{white}~
+{WHITE}As you enter this room you see huge arms and legs and other parts to
+massive machines.  Some on assembly lines others just waiting in the
+corners.  Others look as if they've seen a little to much war.  Sparks
+are flying all over the place in this room as new mechs of war are made.{white}
+
+~
+204 4194305 1
+D2
+~
+~
+0 -1 20478
+D3
+~
+~
+0 -1 20480
+X7340034
+Z3
+C-1
+S
+#20480
+{BOLD}{C}Mech{c}{bold} {WHITE}factory{white}~
+{WHITE}As you enter this room you see huge arms and legs and other parts to
+massive machines.  Some on assembly lines others just waiting in the
+corners.  Others look as if they've seen a little to much war.  Sparks
+are flying all over the place in this room as new mechs of war are made.{white}
+
+~
+204 4194305 1
+D1
+~
+~
+0 -1 20479
+X7340034
+Z3
+C-1
+S
+#20481
+{BOLD}{C}MECH{c}{bold} {YELLOW}BAY{yellow}~
+{BOLD}{C}You feel that you have came into the wrong room.  This room
+is full of fully opporational mechs armed to the teeth and ready to kill
+Their engines begin to fire up, there guns are aimed right at you!!{c}{bold}
+
+~
+204 4194433 1
+D0
+~
+~
+0 -1 20482
+D3
+~
+bay~
+1 -1 20476
+X7340032
+Z3
+C-1
+S
+#20482
+{BOLD}{C}Metal Melting{C}{BOLD} {YELLOW}Chambers{yellow}~
+{BOLD}{C}This room is full of old eq lost during the crusades, and the chief
+doesnt want to waste perfectly good metals so he has ordered his workers
+to melt them down.  He plans to use these new metals on his newest mechs.
+The chief has left Goliath in charge of this area and to make sure the
+job is done right.{c}{bold}
+
+~
+204 4194433 1
+D2
+~
+~
+0 -1 20481
+D3
+~
+~
+0 -1 20483
+X7340032
+Z3
+C-1
+S
+#20483
+{BOLD}{C}MECH{c}{bold} {YELLOW}BAY{yellow}~
+{BOLD}{C}You feel that you have came into the wrong room.  This room
+is full of fully opporational mechs armed to the teeth and ready to kill
+Their engines begin to fire up, there guns are aimed right at you!!{c}{bold}
+
+~
+204 4194433 1
+D1
+~
+~
+0 -1 20482
+D2
+~
+~
+0 -1 20484
+X7340032
+Z3
+C-1
+S
+#20484
+{BOLD}{C}MECH{c}{bold} {YELLOW}BAY{yellow}~
+{BOLD}{C}You feel that you have came into the wrong room.  This room
+is full of fully opporational mechs armed to the teeth and ready to kill
+Their engines begin to fire up, there guns are aimed right at you!!{c}{bold}
+
+~
+204 4194433 1
+D0
+~
+~
+0 -1 20483
+X7340032
+Z3
+C-1
+S
+#20485
+{BOLD}{YELLOW}Rocky path{yellow}{bold}~
+{BOLD}{YELLOW}As you step through the huge skull you find youself on a huge
+and rocky path.  You look farther down this path and you can see that
+it is going to have more rocks and cliffs.  Your guessing a canyon
+of some sort up ahead.{yellow}{bold}
+
+~
+204 4194433 1
+D1
+~
+~
+0 -1 20486
+D2
+~
+~
+0 -1 20411
+X7340032
+Z3
+C2
+S
+#20486
+{BOLD}{YELLOW}Beggars Canyon{yellow}~
+{BOLD}{YELLOW}Indeed you was right, and a huge canyon it is.  Very
+mysterious though.  You could have sworn you saw shadows moving along
+the walls of the canyon.  You keep hearing voices repeating a chant
+over and over, but you cant figure out what its chanting.  You now
+believe that your going insane, so you pull yourself together and
+continue on towards your quest.{yellow}{bold}
+
+~
+204 4194465 1
+D0
+~
+~
+0 -1 20487
+D3
+~
+~
+0 -1 20485
+X7340032
+Z3
+C2
+S
+#20487
+{BOLD}{YELLOW}Beggars Canyon{yellow}~
+{BOLD}{YELLOW}Indeed you was right, and a huge canyon it is.  Very
+mysterious though.  You could have sworn you saw shadows moving along
+the walls of the canyon.  You keep hearing voices repeating a chant
+over and over, but you cant figure out what its chanting.  You now
+believe that your going insane, so you pull yourself together and
+continue on towards your quest.{yellow}{bold}
+
+~
+204 4194465 1
+D0
+~
+~
+0 -1 20488
+D2
+~
+~
+0 -1 20486
+X7340032
+Z3
+C2
+S
+#20488
+{B}Dr.{b} {WHITE}Light's technology Laboratory{white}~
+{WHITE}After days of traveling through the canyons you come accross
+a strange laboratory and you decide to go in and investigate.{white}
+
+~
+204 4194433 1
+D2
+~
+~
+0 -1 20487
+D3
+~
+~
+0 -1 20489
+X7340032
+Z3
+C2
+S
+#20489
+{WHITE}First lab{white}~
+{WHITE}This lab room is the first room in the building.  You would think
+this place might be set up more like a hospital, but this place is also
+out in the middle of nowhere as well.  You see lots of chemicals and
+strange parts, not human parts or other tissues.  More like mechanical
+pieces and bits that has been handled with care.  You can sense a
+strong amount of power radianting through the room.{white}
+
+~
+204 4194432 0
+D1
+~
+~
+0 -1 20488
+D3
+~
+~
+0 -1 20490
+X7340032
+Z3
+C2
+S
+#20490
+{WHITE}Second lab{white}~
+{WHITE}This room is even filled with more chemicals and mechanical
+pieces.  What can this Doctor be doing with all this eq?  You can
+sense the power surging has gotten closer and stronger at first you
+throught it was just the room, but now your having your doubts.{white}
+
+~
+204 4194305 1
+D1
+~
+~
+0 -1 20489
+D2
+~
+~
+0 -1 20491
+X7340032
+Z3
+C2
+S
+#20491
+{BOLD}{WHITE}Engineering room{white}{bold}~
+{BOLD}{WHITE}This room is filled with mechanical parts some are placed
+on assembly lines and others, the pieces that look more important, are
+placed on cold steal tabels and covered with white sheets to protect
+them from the dust and other harmful things with in the air, and i guess
+to protect the secret of what he is making in a way.{white}{bold}
+
+~
+204 4194305 1
+D0
+~
+~
+0 -1 20490
+D3
+~
+forcefield~
+2 20420 20492
+X7340032
+Z3
+C2
+S
+#20492
+{BOLD}{C}Entrance to the{c}{bold} {C}Capsules of time{c}~
+{BOLD}{C}What is this secret room?  It is extremely dark, but from
+a distance you can see small dimm light.  You can really sense a lot
+of energy flowing and surging through this room.  In the same far room
+you see a lot of machinery and electronics.  Your curiousity gets
+the best of you.  You must go check out the room.{c}{bold}
+
+~
+204 1048577 1
+D1
+~
+forcefield~
+4 20420 20491
+D3
+~
+~
+0 -1 20493
+X7340032
+Z3
+C-1
+S
+#20493
+{C}Capsules of time{c}~
+{C}This room is completely full of power surges and devices.  There are
+also these funny looking capsules some stand ten feet high the short is
+about six foot somthing.  Suddenly one of the capsules begins to move
+The once dim light has became total darkness, but you can still hear
+the moving of the capsule.  When the noise has stoped the dim light
+returns and there before you stands a six foot and five inches of pure
+steal in a shape of muscle bound man.  Made by a true artist.  Then
+the robot heads towards your direction.{c}
+
+~
+204 4194305 1
+D0
+~
+~
+0 -1 20494
+D1
+~
+~
+0 -1 20492
+X7340032
+Z3
+C2
+S
+#20494
+{C}Capsules of time{c}~
+{BOLD}{C}The power surges have become extremely intense now.  what little
+light that is in here is flickering constantly!  Then suddenly the
+lights go out once more and you hear the sounds of two more capsules
+open.  The lights finally return to its normal dimmness and glows upon
+two more robots one in the shape of a huge dog like creature and the
+other the same shape as the last robot before these only bigger!{c}{bold}
+
+~
+204 4194305 1
+D2
+~
+~
+0 -1 20493
+D3
+~
+~
+0 -1 20495
+X7340098
+Z3
+C2
+S
+#20495
+{B}Dr.{b} {WHITE}Light's sanctuary{white}~
+{B}At last you meat up with the one that is responsible for all this
+chaos in this laboratory.  he looks extremely busy to be disturbed
+at this moment, he is finishing up some sort of design he has plained
+put to use.  You tried everying to get him to listen to you.  Finally
+you walk over and kick his favorite trash can, that got his attention.{b}
+
+~
+204 4194433 1
+D1
+~
+~
+0 -1 20494
+D3
+~
+~
+0 -1 20496
+X7340098
+Z3
+C2
+S
+#20496
+{BOLD}{WHITE}Testing facility{white}{bold}~
+{WHITE}This area is ment for the testing and tuning of light's
+creations.  This place is mearly an illusion, but the creations are real.
+You spot in the way left corner of the room another capsule and your
+skin begins to crawl.  The lights begin to twitch then the rooms goes
+black and the sound is back, but this time the lights never return and
+its hard to see what has came out of the capsule this time.{white}
+
+~
+204 4194433 1
+D1
+~
+~
+0 -1 20495
+D2
+~
+~
+0 -1 20497
+X7340096
+Z3
+C2
+S
+#20497
+{BOLD}{C}Chambers of{c}{bold} {C}the great{c}~
+{BOLD}{C}Your are standing in the chambers of Dr. Light's greatest creations
+one of which looks like one of your greater foes that you fought during
+the capsules of time, but this figure is much larger and probably tons
+stronger.  The other figure stands about twelve feet in height.
+You fear him the most.  You can see in a distance a flight of stairs
+just passed these creations.  Your are begining to wonder if these
+creations are guarding somthing rather important up stairs?{c}{bold}
+
+~
+204 4194305 1
+D0
+~
+~
+0 -1 20496
+D3
+~
+gate~
+2 20430 20498
+X7340096
+Z3
+C2
+S
+#20498
+{BOLD}{C}Chambers of{c}{bold} {C}the great{c}~
+{BOLD}{C}Your are standing in the chambers of Dr. Light's greatest creations
+one of which looks like one of your greater foes that you fought during
+the capsules of time, but this figure is much larger and probably tons
+stronger.  The other figure stands about twelve feet in height.
+You fear him the most.  You can see in a distance a flight of stairs
+just passed these creations.  Your are begining to wonder if these
+creations are guarding somthing rather important up stairs?{c}{bold}
+
+~
+204 4194305 1
+D1
+~
+gate~
+1 -1 20497
+D4
+~
+ceiling~
+1 -1 20499
+X7340096
+Z3
+C2
+S
+#20499
+{WHITE}FINAL{white} {RED}BATTLE{red}~
+{WHITE}This is your reason for all this chaos.  Dr. Light's creations
+have been controlled by the evil Dr. Wily!  All this torture is all
+his doing.  Now destroy him and obtain the northern most part of the
+holy lands!!{white}
+
+~
+204 4194433 1
+D5
+~
+ceiling~
+1 -1 20498
+X7340096
+Z3
+C2
+S
+$~

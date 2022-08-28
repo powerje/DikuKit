@@ -1,0 +1,246 @@
+#271
+New TimeQuest(Mute)~
+27199 60 2
+*
+X 8324
+D 0 27100     0     0    (N:OPEN) {BLUE}Entrance to the Time Machine{blue}
+D 0 27104     2     0    (S:OPEN) {BLUE}North-east side of Castle{blue}
+D 0 27107     2     0    (S:OPEN) {WHITE}A long corridor.{white}
+D 0 27108     0     0    (N:OPEN) {BLUE}Inside the King's Study.{blue}
+D 0 27108     2     0    (S:OPEN) {BLUE}Inside the King's Study.{blue}
+M 0 27106     5 27109    the dragon hatchling
+G 1 27126     1     0    a steel key
+D 0 27109     0     2    (N:LOCKED) {WHITE}The Tower Gates.{white}
+M 0 27106     5 27110    the dragon hatchling
+M 0 27107     7 27111    the Draconian
+E 1 27117     7    16    (WIELD) a jagged spear
+M 0 27107     7 27111    the Draconian
+E 1 27117     7    16    (WIELD) a jagged spear
+M 0 27106     5 27111    the dragon hatchling
+M 0 27107     7 27112    the Draconian
+E 1 27117     7    16    (WIELD) a jagged spear
+M 0 27107     7 27112    the Draconian
+E 1 27117     7    16    (WIELD) a jagged spear
+M 0 27107     7 27112    the Draconian
+E 1 27117     7    16    (WIELD) a jagged spear
+M 0 27107     7 27112    the Draconian
+E 1 27117     7    16    (WIELD) a jagged spear
+D 0 27112     1     0    (E:OPEN) {WHITE}Hallway{white}
+D 0 27112     3     0    (W:OPEN) {WHITE}Hallway{white}
+D 0 27113     1     0    (E:OPEN) {BLUE}N{RED}u{BLUE}r{RED}s{BLUE}e{RED}r{BLUE}y{blue}
+D 0 27113     3     0    (W:OPEN) {BLUE}N{RED}u{BLUE}r{RED}s{BLUE}e{RED}r{BLUE}y{blue}
+D 0 27114     1     0    (E:OPEN) {WHITE}Storage Room{white}
+D 0 27114     5     0    (D:OPEN) {WHITE}Storage Room{white}
+M 0 27120     5 27115    A human slave
+M 0 27120     5 27115    A human slave
+M 0 27119     1 27116    a large hydra
+E 1 27134     1    17    (HELD) a silver staff
+G 1 27133     1     0    a golden wand
+G 1 27129     1     0    a grey key
+G 1 27125     1     0    a stone club
+D 0 27116     2     0    (S:OPEN) {RED}Guardian's Room{red}
+D 0 27116     4     0    (U:OPEN) {RED}Guardian's Room{red}
+D 0 27117     0     0    (N:OPEN) {YELLOW}The Treasure Room{yellow}
+D 0 27117     3     2    (W:LOCKED) {YELLOW}The Treasure Room{yellow}
+M 0 27113    10 27118    A bodyguard
+E 1 27150     8    16    (WIELD) a copper hammer
+M 0 27113    10 27118    A bodyguard
+E 1 27150     8    16    (WIELD) a copper hammer
+M 0 27113    10 27118    A bodyguard
+E 1 27150     8    16    (WIELD) a copper hammer
+M 0 27107     7 27118    the Draconian
+E 1 27117     7    16    (WIELD) a jagged spear
+M 0 27113    10 27119    A bodyguard
+E 1 27150     8    16    (WIELD) a copper hammer
+M 0 27113    10 27119    A bodyguard
+E 1 27150     8    16    (WIELD) a copper hammer
+M 0 27113    10 27119    A bodyguard
+E 1 27150     8    16    (WIELD) a copper hammer
+M 0 27113    10 27119    A bodyguard
+E 1 27150     8    16    (WIELD) a copper hammer
+M 0 27113    10 27119    A bodyguard
+E 1 27150     8    16    (WIELD) a copper hammer
+D 0 27119     1     0    (E:OPEN) {WHITE}The Court{white}
+M 0 27112     5 27120    a concubine
+E 1 27118     5    16    (WIELD) a silver dagger
+M 0 27112     5 27120    a concubine
+E 1 27118     5    16    (WIELD) a silver dagger
+M 0 27112     5 27120    a concubine
+E 1 27118     5    16    (WIELD) a silver dagger
+G 1 27130     1     0    a black key
+M 0 27112     5 27120    a concubine
+E 1 27118     5    16    (WIELD) a silver dagger
+G 1 27128     1     0    a white key
+M 0 27112     5 27120    a concubine
+E 1 27118     5    16    (WIELD) a silver dagger
+D 0 27120     3     0    (W:OPEN) {CYAN}Hall O'Pleasure{cyan}
+D 0 27121     1     0    (E:OPEN) {WHITE}The Court{white}
+D 0 27121     3     0    (W:OPEN) {WHITE}The Court{white}
+M 0 27110     2 27122    The Holy Draconian Cleric
+M 0 27109     1 27122    a powerful mage
+O 0 27161     1 27122    A Gigantic Pocket Protector
+D 0 27122     3     0    (W:OPEN) {MAGENTA}The Library{magenta}
+D 0 27123     1     0    (E:OPEN) {YELLOW}The Sanctum{yellow}
+M 0 27111     1 27124    the Draconian King
+M 0 27113    10 27124    A bodyguard
+M 0 27113    10 27124    A bodyguard
+M 0 27124     1 27125    the Draconian Queen
+M 0 27120     5 27125    A human slave
+M 0 27120     5 27125    A human slave
+M 0 27120     5 27125    A human slave
+M 0 27110     2 27125    The Holy Draconian Cleric
+M 0 27121     5 27126    a Draconian zombie
+M 0 27121     5 27126    a Draconian zombie
+D 0 27126     1     2    (E:LOCKED) {YELLOW}Entrance to the Crypt{yellow}
+M 0 27121     5 27127    a Draconian zombie
+M 0 27121     5 27127    a Draconian zombie
+M 0 27117     1 27128    the Great White Dragon
+M 0 27116     1 27129    the Great Black Dragon
+M 0 27108     1 27130    the dragon master
+D 0 27130     3     2    (W:LOCKED) {BLACK}The Crypt Ends{black}
+D 0 27131     3     0    (W:OPEN) {WHITE}Entrance to the Time Machine{white}
+M 0 27123     5 27132    the draconian fool
+M 0 27123     5 27132    the draconian fool
+M 0 27123     5 27132    the draconian fool
+M 0 27115     1 27134    the Great Red Dragon
+D 0 27134     5     0    (D:OPEN) {BLACK}Lair{black}
+D 0 27135     4     0    (U:OPEN) {BLACK}Underground Tunnel{black}
+M 0 27123     5 27137    the draconian fool
+M 0 27122     3 27137    the phase dragon
+M 0 27122     3 27137    the phase dragon
+M 0 27122     3 27137    the phase dragon
+M 0 27123     5 27137    the draconian fool
+D 0 27137     1     2    (E:LOCKED) {WHITE}The Great Hall Ends{white}
+M 0 27118     1 27138    the Ancient Green Dragon
+D 0 27138     3     2    (W:LOCKED) {BLACK}The Lair{black}
+M 0 27114     1 27139    Tiamat
+D 0 27139     2     0    (S:OPEN) {RED}The End...{red}
+M 0 27121     5 27140    a Draconian zombie
+D 0 27140     1     0    (E:OPEN) {BLACK}S{WHITE}t{BLACK}a{WHITE}i{BLACK}r{WHITE}w{BLACK}e{WHITE}l{BLACK}l{black}
+M 0 27106     5 27147    the dragon hatchling
+M 0 27106     5 27149    the dragon hatchling
+D 0 27151     0     2    (N:LOCKED) {BOLD,CYAN}The top of the mountain{bold,cyan}
+D 0 27153     3     2    (W:LOCKED) {BLACK}The Prison Cell{black}
+D 0 27154     1     2    (E:LOCKED) {BLACK}The Corridor{black}
+D 0 27154     2     2    (S:LOCKED) {BLACK}The Corridor{black}
+M 0 27102     5 27155    The klingon
+M 0 27101     5 27156    The klingon guard
+M 0 27102     5 27156    The klingon
+D 0 27156     3     0    (W:OPEN) {BLACK}The Corridor{black}
+M 0 27101     5 27157    The klingon guard
+D 0 27158     3     1    (W:CLOSED) {BLACK}The leisure section{black}
+D 0 27159     1     1    (E:CLOSED) {BLACK}The main corridor{black}
+D 0 27159     3     1    (W:CLOSED) {BLACK}The main corridor{black}
+M 0 27101     5 27160    The klingon guard
+D 0 27160     1     1    (E:CLOSED) {BLACK}Restricted Area{black}
+D 0 27160     2     1    (S:CLOSED) {BLACK}Restricted Area{black}
+M 0 27102     5 27162    The klingon
+M 0 27102     5 27162    The klingon
+D 0 27162     0     1    (N:CLOSED) {WHITE}The Computer room{white}
+D 0 27162     1     1    (E:CLOSED) {WHITE}The Computer room{white}
+M 0 27102     5 27163    The klingon
+D 0 27163     2     1    (S:CLOSED) {BLACK}The Crew Quarters{black}
+D 0 27163     3     1    (W:CLOSED) {BLACK}The Crew Quarters{black}
+M 0 27103     1 27164    The Klingon shipmaster
+E 1 27108     2    12    (ABOUT) a Klingon Spacesuit
+E 1 27110     3    16    (WIELD) a Klingon d'k tahg knife
+G 1 27100     2     0    the engineer's key
+D 0 27164     1     1    (E:CLOSED) {BLACK}The Shipmasters's Office{black}
+D 0 27166     1     1    (E:CLOSED) {RED}The engine corridor{red}
+D 0 27166     3     1    (W:CLOSED) {RED}The engine corridor{red}
+D 0 27166     5     1    (D:CLOSED) {RED}The engine corridor{red}
+M 0 27101     5 27167    The klingon guard
+D 0 27167     2     2    (S:LOCKED) {RED}The engine corridor{red}
+D 0 27168     0     2    (N:LOCKED) {RED}The engine Room{red}
+M 0 27105     1 27170    the Klingon engineer
+G 1 27107     1     0    A hydrazyth
+G 1 27100     2     0    the engineer's key
+D 0 27172     3     0    (W:OPEN) {BLACK}The main Corridor{black}
+M 0 27101     5 27173    The klingon guard
+D 0 27173     0     1    (N:CLOSED) {BLACK}The entrance to the Bridge{black}
+M 0 27100     1 27174    the Klingon commander
+E 1 27111     2    13    (WAIST) a klingon body shield
+E 1 27109     1    17    (HELD) a Klingon Phaser
+G 1 27101     1     0    the captain's remote control
+D 0 27174     2     1    (S:CLOSED) {BLACK}The bridge{black}
+M 0 27104     1 27175    the Klingon navigator
+E 1 27111     2    13    (WAIST) a klingon body shield
+E 1 27110     3    16    (WIELD) a Klingon d'k tahg knife
+G 1 27102     1     0    the key to the storage room
+M 0 27129     1 27176    the Time-agent2
+G 1 27156     1     0    the Aztec Symbol
+D 0 27176     0     2    (N:LOCKED) {WHITE}The Transporter Room{white}
+O 0 27110     3 27177    a Klingon d'k tahg knife
+O 0 27108     2 27177    a Klingon Spacesuit
+D 0 27177     1     2    (E:LOCKED) {BLACK}The storeroom{black}
+M 0 27132     1 27178    The Time-Guard
+E 1 27152     1    17    (HELD) a timekey
+M 0 27125     3 27179    A Time-Ghost
+M 0 27125     3 27179    A Time-Ghost
+M 0 27125     3 27180    A Time-Ghost
+D 0 27180     2     2    (S:LOCKED) {BOLD,BLUE}The entrance of the strange machine{bold,blue}
+M 0 27127     3 27181    an undead Time Traveller
+D 0 27181     0     2    (N:LOCKED) {BLACK}T{WHITE}h{BLACK}e{black} {WHITE}H{BLACK}a{WHITE}t{BLACK}c{WHITE}h{white}
+D 0 27181     2     1    (S:CLOSED) {BLACK}T{WHITE}h{BLACK}e{black} {WHITE}H{BLACK}a{WHITE}t{BLACK}c{WHITE}h{white}
+D 0 27182     0     1    (N:CLOSED) {BOLD,WHITE}The Outfit Room{bold,white}
+D 0 27182     1     2    (E:LOCKED) {BOLD,WHITE}The Outfit Room{bold,white}
+M 0 27127     3 27183    an undead Time Traveller
+M 0 27127     3 27183    an undead Time Traveller
+D 0 27183     3     2    (W:LOCKED) {BLACK}The Store Room{black}
+D 0 27184     3     2    (W:LOCKED) {WHITE}A corridor{white}
+M 0 27126     3 27185    a time bandit
+M 0 27126     3 27185    a time bandit
+M 0 27126     3 27185    a time bandit
+G 1 27153     1     0    a timecontrol
+D 0 27186     1     2    (E:LOCKED) {RED}The Control Room{red}
+D 0 27186     2     0    (S:OPEN) {RED}The Control Room{red}
+M 0 27131     1 27187    the Time-agent4
+G 1 27154     2     0    a pair of wingboots
+D 0 27188     2     2    (S:LOCKED) {YELLOW}The TIME GATE{yellow}
+D 0 27190     5     2    (D:LOCKED) {YELLOW}An ancient throne chamber{yellow}
+M 0 27133     1 27191    the Aztec King Schokonechtletl
+E 1 27157     1    17    (HELD) the Schokolade
+D 0 27191     3     2    (W:LOCKED) {BLACK}A small room under the throne{black}
+D 0 27191     4     2    (U:LOCKED) {BLACK}A small room under the throne{black}
+D 0 27192     0     2    (N:LOCKED) {WHITE}A very, very odd room{white}
+D 0 27192     1     2    (E:LOCKED) {WHITE}A very, very odd room{white}
+O 0 27160     1 27193    An olive leaf
+O 0 27159     1 27193    Cyron's red rose
+O 0 27158     1 27193    the Consequence Sufferor
+O 0 27155     1 27193    a very huge treasure
+O 0 27154     2 27193    a pair of wingboots
+D 0 27193     2     2    (S:LOCKED) {YELLOW}The treasure chamber{yellow}
+O 0 12529     2 27199    ring Arfon's NOT FOR MORTAL USE.
+O 0 12529     2 27199    ring Arfon's NOT FOR MORTAL USE.
+O 0 12528     1 27199    Arfon's NOT FOR MORTAL USE.
+O 0 12527     1 27199    belt Arfon's NOT FOR MORTAL USE.
+O 0 12507    27 27199    Arfon's ARMOR - NOT FOR MORTALS
+O 0 12507    27 27199    Arfon's ARMOR - NOT FOR MORTALS
+O 0 12507    27 27199    Arfon's ARMOR - NOT FOR MORTALS
+O 0 12507    27 27199    Arfon's ARMOR - NOT FOR MORTALS
+O 0 12507    27 27199    Arfon's ARMOR - NOT FOR MORTALS
+O 0 12507    27 27199    Arfon's ARMOR - NOT FOR MORTALS
+O 0 12507    27 27199    Arfon's ARMOR - NOT FOR MORTALS
+O 0 12507    27 27199    Arfon's ARMOR - NOT FOR MORTALS
+O 0 12507    27 27199    Arfon's ARMOR - NOT FOR MORTALS
+O 0 12507    27 27199    Arfon's ARMOR - NOT FOR MORTALS
+O 0 12507    27 27199    Arfon's ARMOR - NOT FOR MORTALS
+O 0 12507    27 27199    Arfon's ARMOR - NOT FOR MORTALS
+O 0 12507    27 27199    Arfon's ARMOR - NOT FOR MORTALS
+O 0 12507    27 27199    Arfon's ARMOR - NOT FOR MORTALS
+O 0 12507    27 27199    Arfon's ARMOR - NOT FOR MORTALS
+O 0 12507    27 27199    Arfon's ARMOR - NOT FOR MORTALS
+O 0 12507    27 27199    Arfon's ARMOR - NOT FOR MORTALS
+O 0 12507    27 27199    Arfon's ARMOR - NOT FOR MORTALS
+O 0 12507    27 27199    Arfon's ARMOR - NOT FOR MORTALS
+O 0 12507    27 27199    Arfon's ARMOR - NOT FOR MORTALS
+O 0 12507    27 27199    Arfon's ARMOR - NOT FOR MORTALS
+O 0 12507    27 27199    Arfon's ARMOR - NOT FOR MORTALS
+O 0 12507    27 27199    Arfon's ARMOR - NOT FOR MORTALS
+O 0 12507    27 27199    Arfon's ARMOR - NOT FOR MORTALS
+O 0 12507    27 27199    Arfon's ARMOR - NOT FOR MORTALS
+O 0 12507    27 27199    Arfon's ARMOR - NOT FOR MORTALS
+O 0 12507    27 27199    Arfon's ARMOR - NOT FOR MORTALS
+O 0   105     2 27199    cd Arfon's NOT FOR MORTAL USE.
+O 0   105     2 27199    cd Arfon's NOT FOR MORTAL USE.
+$~

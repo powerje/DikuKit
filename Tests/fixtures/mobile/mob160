@@ -1,0 +1,262 @@
+#16000
+Atlantic Herring~
+{B,BOL}The {b}{W}A{BLU}t{W}l{BLU}a{W}n{BLU}t{W}i{BLU}c {B,BOL}Herring{b}~
+{B,BOL}The {b}{W}A{BLU}t{W}l{BLU}a{W}n{BLU}t{W}i{BLU}c {B,BOL}Herring{b} is swimming here.
+~
+
+     This silvery sided sleek fish is a popular
+food in europe. The herring sheds its scales as
+you try to catch it hoping you will be fooled.
+
+~
+64 0 1000 S
+2 10 5 1d1+10 1d4+0
+20 200
+8 8 0
+D 20
+A 12
+#16001
+Cod~
+{WH}The {CY}A{B,BOL}t{b}{C}l{B,BOL}a{b}{C}n{B,BOL}t{b}{C}i{B,BOL}c {b}{WH}Cod{wh}~
+{WH}The {CY}A{B,BOL}t{b}{C}l{B,BOL}a{b}{C}n{B,BOL}t{b}{C}i{B,BOL}c {b}{WH}Cod{wh} is swimming here.
+~
+
+     Valuable as a food source, most codfish are 
+harvested commercially, and are sold fresh, dried,
+or salted. Historically, they were important as a 
+trading item.
+
+~
+64 0 1000 S
+5 10 5 1d5+20 1d5+0
+0 47
+8 8 0
+D 20
+A 12
+#16002
+Haddock~
+{BLU}The {BLU,BOL}Haddock{bl}~
+{BLU}The {BLU,BOL}Haddock{bl} is swimming here.
+~
+
+     Haddock live in deeper waters than cod
+and prefer smooth bottoms of sand, gravel,
+or clay. They feed mostly on plant life.
+
+~
+64 0 1000 S
+5 10 5 1d5+20 1d5+0
+0 1000
+8 8 0
+D 20
+A 12
+#16003
+Alewife~
+{BL,BOL}The {BLU}Alewife{bl}~
+{BL,BOL}The {BLU}Alewife{bl} is swimming here.
+~
+
+     This species of fish looks remarkably 
+similiar to the herring. If you were to cut
+it open you would see the difference though.
+The peritoneum in this species is grey not
+black.
+
+~
+64 0 1000 S
+3 10 5 1d5+15 1d4+0
+40 600
+8 8 0
+D 20
+A 12
+#16004
+Loligo Squid~
+{BL,BOL}The{bo} {YE}Loligo {BL,BOL}Squid{bl}~
+{BL,BOL}The{bo} {YE}Loligo {BL,BOL}Squid{bl} is swimming here.
+~
+
+     The loligo squid is a large red colored
+squid. If you catch enough you can make a big
+batch of calamari.
+
+~
+64 0 -1000 S
+4 10 5 1d5+20 1d5+0
+40 900
+8 8 0
+D 20
+A 12
+#16005
+Pilot Whale~
+{WH}The {GR}Pilot {GR}Whale{gr}~
+{WH}The {GR}Pilot {GR}Whale{gr} is swimming here.
+~
+
+     The pilot whale has a large bump on its
+forhead called the 'melon'. This melon is 
+used as an echo chamber for its sonar and 
+helps the whale find its way around in the 
+dark waters.
+
+~
+268435520 262152 1000 S
+15 15 2 1d5+150 1d10+5
+150 1000
+8 8 0
+D 20
+A 12
+#16006
+Jellyfish~
+{BLU}The {BL,BOL}Jelly{b}{WH}Fish{bo}~
+{BLU}The {BL,BOL}Jelly{b}{WH}Fish{bo} is swimming here.
+~
+
+     This floating mass of jelly like substance
+is both fluid and graceful in the water. Be extra
+careful or its nematosist will sting you and hurt
+you. 
+
+~
+64 0 -1000 S
+2 10 5 1d10+20 1d3+0
+50 350
+8 8 0
+D 20
+A 12
+#16007
+seagull ~
+{WH}The {YE}Seagull{y}~
+{WH}The {YE}Seagull{y} is flapping around here.
+~
+
+    This annoying bird will fly anywhere under
+any conditions for a meal. It is truly a pain 
+in the ass and a scavenger extrodinare.
+
+
+~
+8260 16777216 0 S
+9 10 5 1d10+100 1d6+2
+100 9000
+8 8 0
+D 20
+A 12
+#16008
+Porbeagle~
+{YE}The {GR}Porbeagle{gr}~
+{YE}The {GR}Porbeagle{gr} is swimming around here.
+~
+
+     The Porbeagle is also known as the mackerel 
+shark because of the shape of its tail. Although
+a powerful swimmer, it does not put up much of a
+fight when hooked and is therefore of little 
+interest to the angler.
+
+~
+268443712 262152 -1000 S
+10 19 1 1d10+140 1d10+10
+1000 9000
+8 8 0
+R 524288
+D 20
+A 12
+#16009
+Flounder~
+{CY}The {BLU}Flounder{bl}~
+{CY}The {BLU}Flounder{bl} is swimming around here.
+~
+
+     This fish has a highly compressed body which is 
+almost flat. It lives on the bottom. In adult flatfishes
+both eyes are on the same of the head, and they swim with
+the blind side downward. There are 4 north american Families.
+This one belongs to the family Bothidae, its is called a 
+window pane flounder.
+
+~
+192 8 -1000 S
+6 19 3 1d15+50 1d5+5
+100 2300
+8 8 0
+D 20
+A 12
+#16010
+CowNose Ray~
+{CY}The {BLU}C{BLU,BOL}o{b}{BLU}w{BLU,BOL}n{b}{BLU}o{BLU,BOL}s{b}{BLU}e {b}{CY}Ray{c}~
+{CY}The {BLU}C{BLU,BOL}o{b}{BLU}w{BLU,BOL}n{b}{BLU}o{BLU,BOL}s{b}{BLU}e {b}{CY}Ray{c} is here swimming around.
+~
+
+     This blunt nosed ray is tan in color and 
+small in comparison to its large cousin the 
+manta ray. Be careful though for itslong shrap
+spike like tail can hurt if you step on it.
+
+~
+268435520 262152 0 S
+60 19 3 1d10+90 1d5+11
+200 1000
+8 8 0
+D 20
+A 12
+#16011
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#16012
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#16013
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#16014
+Polar Bear Guard~
+A furocious White Bear~
+A Giant White Bear with beautiful fur is standing here.
+~
+
+     Before you stands the largest White Bear
+you have ever seen. He is the perfect killing
+machine. A complete balance of razor sharp claws
+and horrible flesh tearing teeth. He stands
+here vigilantly guarding his post. You wonder
+how fast it will take him to send you to your
+ancestors.
+
+~
+402685954 537133704 -700 S
+51 10 -100 20d20+10000 20d20+20
+100000 1000000
+8 8 0
+D 20
+A 12
+$~

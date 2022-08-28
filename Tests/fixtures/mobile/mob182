@@ -1,0 +1,291 @@
+#18200
+gilligan~
+{BLU,BO}G{R}i{BLU}l{R}l{BLU}i{R}g{BLU}a{R}n{red}~
+{BLU,BO}G{R}i{BLU}l{R}l{BLU}i{R}g{BLU}a{R}n{red} is standing here looking for the {Y,BO}Skip{y}{Y}per{yellow}.
+~
+   You see a very confused man walking in circles looking for the Skipper. 
+He is wearing a red shirt covered in mud and blue pants. His shoes seem
+to worn from walking ont the rocky terrain of the island. His hat is white and
+looks cleaner than the rest of his clothes.
+~
+67108930 2097804 800 S
+50 -30 -4 7000d1+1 23d8+28
+2000 200000
+5 8 1
+D 20
+A 12
+#18201
+skipper~
+{Y,BO}Skip{y}{Y}per{y}~
+The {Y,BO}Skip{y}{Y}per{y} is standing here trying to fix the mess that {BLU,BO}G{R}i{BLU}l{R}l{BLU}i{R}g{BLU}a{R}n{red} caused.
+~
+   You see a heavy set Skipper who really knows his way around a ship.
+~
+335544386 2097792 800 S
+50 -19 -2 9000d1+1 25d8+1
+2000 200000
+8 8 1
+D 20
+A 12
+#18202
+native man~
+{RED}Native{red}~
+A {R,BO}native warrior{red} is glaring at you, wondering what you are doing on{R,BO} HIS{red} island!
+~
+   This tall dark skinned man is here hunting for his dinner.  He is
+well skilled and grins at you as he wants to cook you for his meal.
+~
+134225984 1074299520 0 S
+51 -29 -1 1000d1+1 23d8+25
+5000 22000
+8 8 1
+D 20
+A 12
+#18203
+native man doctor~
+{G,BO}M{g}{G}e{G,BO}d{g}{G}i{G,BO}c{g}{G}i{G,BO}n{g}{G}e {G,BO}M{g}{G}a{G,BO}n{g}~
+The{GREEN} tribal doctor{green} is standing here ready to heal the warriors' wounds.
+~
+   Before you is a man in deep concentration as he mixes regeants while 
+muttering ancient magical phrases.
+~
+66 1073742466 -500 S
+50 -15 0 3000d1+1 15d10+10
+25000 25000
+8 8 1
+R 524288
+D 20
+A 12
+#18204
+native chief~
+{BLU,BO} Chief{blue}~
+The {BLUE}native chief{blue} is here giving orders to all the pee-on natives.
+~
+A large heavyset man stands here in charge ordering the other natives around
+the chief? He stares directly at your and prepares to kick your ass!
+~
+4202560 1073742504 0 S
+51 -15 2 3d4+2000 70d1+1
+75000 50000
+8 8 1
+D 20
+A 12
+#18205
+ginger~
+{M,BO}Gin{m}{M}ger{m}~
+{M,BO}Gin{m}{M}ger{m} is here practicing {M,BO}her{m} scenes for a movie audition.
+~
+   Ginger is wearing a very long dress that is very low cut. She looks very 
+inviting, and boy, is she built!
+~
+67371203 2097792 800 S
+50 -15 0 13000d1+1 20d8+25
+2000 200000
+8 8 2
+D 20
+A 12
+#18206
+mary maryanne~
+{C,BO}M{BLU}ary {C}A{BLU}nne{blu}~
+{C,BO}M{BLU}ary {C}A{BLU}nne{blu} is here watching {M,BO}Gin{m}{M}ger{m} practice her lines.
+~
+   Mary Anne is deeply tanned as she walks around the island in her bikini.
+She is here cleaning up the hut and litening to Ginger practice her lines.
+~
+67108994 640 800 S
+50 -19 -1 7500d1+1 23d8+10
+2000 2
+8 8 2
+R 1048576
+D 20
+A 12
+#18207
+professor~
+{W,BO}P{w}{W}r{W,BO}o{w}{W}f{W,BO}e{w}{W}s{W,BO}s{w}{W}o{W,BO}r{w}~
+The {W,BO}p{w}{W}r{W,BO}o{w}{W}f{W,BO}e{w}{W}s{W,BO}s{w}{W}o{W,BO}r{w} is here working on a solution to getting off this island.
+~
+   The professor is deep in thought and you better think twice about disturbing
+him. He does look like he is in top physical condition and would probably be
+a tough fight.
+~
+201326594 2097792 800 S
+50 -15 -1 7500d1+1 25d8+25
+2000 200000
+8 8 1
+D 20
+A 12
+#18208
+mr howell thurston~
+{BO,G}Mr. Howell{bo,g}~
+{G,BO}Mr. Howell{g} is standing here counting his {G,BO}money{g}.
+~
+   Thurston Howell IV is here talking with his wife about his fortune. He is
+dressed in the finest of clothes, after all, he is a Howell.
+~
+67108866 2097792 800 S
+50 -19 -1 8000d1+1 25d8+25
+2000000 200000
+8 8 1
+D 20
+A 12
+#18209
+mrs howell~
+{G,BO}M{Y}r{M}s. {BLU}H{W}o{R}w{B}e{Y}l{C}l{c}~
+{G,BO}M{Y}r{M}s. {BLU}H{W}o{R}w{B}e{Y}l{C}l{c} is here blabbering to {G,BO}Thurston{g} about all her friends back home.
+~
+   Mrs. Howell is standing here trying on different outfits to wear to dinner
+tonight. 
+~
+67108994 640 800 S
+50 -15 0 13000d1+2 20d8+25
+2000000 2
+8 8 2
+D 20
+A 12
+#18210
+horse~
+{BO,B}A Horse{bo,b}~
+A {BO,B}horse{bo,b} becomes frightened by your presence.
+~
+The horse looks at you and turns away.  You can tell that it is afraid of you.
+~
+786496 1073741864 0 S
+30 -60 0 800d1+1 10d4+20
+0 700000
+8 8 0
+D 20
+A 12
+#18211
+monkey~
+The {Y,BO}Monk{B}ey{b}~
+A loyal {Y,BO}Monk{B}ey{b} stands here.
+~
+He is a small, loyal monkey.
+~
+0 524456 0 S
+3 -55 1 600d1+1 7d10+10
+25000 600
+8 8 0
+R 524288
+D 20
+A 12
+#18212
+tiger~
+The {R,BO}T{r}{R}i{R,BO}g{r}{R}e{R,BO}r{r}~
+A loyal {R,BO}T{r}{R}i{R,BO}g{r}{R}e{R,BO}r{r} stands here.
+~
+It is a rather mean looking kitty.
+~
+8192 33587360 0 C 3
+35 -70 -1 1000d1+1 10d10+1
+50000 950000
+8 8 0
+D 20
+A 12
+#18213
+lion~
+{BO,B}The {BO,Y}L{bo,y}{Y}i{BO,Y}o{bo,y}{Y}n{bo,y}~
+The large {BO,Y}L{bo,y}{Y}i{BO,Y}o{bo,y}{Y}n{bo,y} is sleeping here.
+~
+He is a massive lion with a beautiful, full mane. He enjoys the time he has to
+rest, so you it would be best if you did not wake him up.
+~
+8192 416 0 S
+40 -65 -1 900d1+1 10d10+15
+60000 33000
+4 4 1
+D 20
+A 12
+#18214
+tree snake~
+The {Y,BO}Tree{y} {G,BO}S{Y}n{W}a{G}k{Y}e{y}~
+A loyal {Y,BO}Tree{y} {G,BO}S{Y}n{W}a{G}k{Y}e{y} stands here.
+~
+It is a relatively large tree snake, waiting here for the next command from
+his master.
+~
+16777216 32920 0 S
+40 -60 0 300d1+1 10d5+25
+30000 1600
+8 8 0
+D 20
+A 12
+#18215
+giant crab~
+Giant {R}C{W}R{R}A{W}B{w}~
+A Giant {R}C{W}R{R}A{W}B{w} is standing guard here...
+~
+This huge crab is sitting over something, And 
+it looks like hes guarding whatever it is very well.
+He snaps his huge claws in your direction.
+~
+134922307 1763975858 0 C 4
+50 -90 -4 15000d1+1 20d10+20
+400000 5000000
+8 8 1
+S 34078752
+D 20
+A 12
+#18216
+Eel~
+{G,BO}An Eel{g}~
+A large {G,BO}eel{g} moves out from his hole..
+~
+A long slimy eel, with a mouth full of sharp teeth.
+~
+192 2148041382 0 S
+50 -45 -3 2000d1+50 150d1+1
+50000 5000000
+8 8 0
+S 262208
+D 20
+A 12
+#18217
+Rock fish~
+{BLU}A d{R}e{BLU}a{R}d{BLU}l{R}y {BLU}rock fish...{blu}~
+{BLU}A d{R}e{BLU}a{R}d{BLU}l{R}y {BLU}rock fish...{blu}
+~
+This heavily encrusted rock sits nestled between 
+several other harmless looking rocks.
+~
+25165856 3224895528 0 S
+50 10 -1 100d1+1 100d2+1
+10000 2000000
+5 8 0
+D 20
+A 12
+#18218
+hermit crab~
+A Hermit crab.~
+A hermit crab scuttles about..
+~
+ A rather large hemit crab has made 
+a house inside a shell. Looks like 
+hes going to be pretty hard to hit 
+in there.
+~
+131168 3224896170 0 S
+45 10 -5 2000d1+100 30d2+15
+50000 1500000
+8 8 0
+D 20
+A 12
+#18219
+urchin~
+{M,BO}An Urchin{m}~
+{M,BO}A prickly urchin moves on the sand..{m}
+~
+A large purple ball covered in spines.
+The urchin crawls slowly, waving lots
+of sharp spines around, it would not
+be a good idea to try sticking your hand 
+in there.
+~
+548929 3257402026 -100 S
+45 10 -2 2000d1+1 5d25+10
+50000 3000000
+8 8 0
+S 262144
+D 20
+A 12
+$~

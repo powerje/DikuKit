@@ -1,0 +1,480 @@
+#30700
+train timber~
+{W,BO}The Train{w,bo}~
+{W,BO}A Large Passenger Train is getting ready to leave for Timber.{w,bo}~
+~
+27 0 0 0
+30762 0 0 0
+1 1 1
+E
+train timber~
+{W,BO}
+  The Train appears to be in running order.  There are
+  men and women slowly boarding the train, it appears
+  that it will be leaving very soon.
+{w,bo}
+~
+#30701
+hotdog hot dog~
+{R,BO}A Big Balamb Hotdog{r,bo}~
+{R}Someone left a really delicious {R,BO}Balamb Hotdog{r,bo}{R} here.{r}~
+~
+19 145 0 1
+24 0 0 0
+2 1000 100
+E
+hotdog hot dog~
+{R}
+  This has got to be one of the largest hotdogs
+  you have ever seen.  This foot long hotdog has
+  a wide array of condiments used in a secret
+  Balamb recipe that has delighted the students
+  of the Garden of years.
+{r}
+~
+#30702
+cid glasses~
+{Y}Headmaster Cid's Glasses{y}~
+{Y}Someone forgot their glasses here...{y}~
+~
+9 1032 0 2097169
+7 0 0 0
+1 1000 1
+E
+cid glasses~
+{Y}
+  These glasses appear to be of fairly high quality,
+  but they are obviously well used.  There are a few
+  scratches on the lense, and the frames are bent
+  ever so slightly.
+{y}
+~
+A
+13 30
+A
+19 3
+B
+40
+C
+5950 2
+M
+15
+#30703
+keycard yellow key card~
+{W,BO}A {w,bo}{Y,BO}Yellow{y,bo}{W,BO} Keycard{w,bo}~
+{W,BO}Someone dropped the {w,bo}{Y,BO}yellow{y,bo}{W,BO} keycard here.{w,bo}~
+~
+18 65536 0 16385
+500 0 0 3
+1 1000 100
+#30704
+cookie gingerbread ginger bread man christmas~
+{B,RE}C{b}{GR}H{RE}R{b}{GR}I{RE}S{b}{GR}T{RE}M{b}{GR}A{RE}S{b} {REV,YE}GINGERBREAD{rev} {GR}MAN{r}~
+Someone dropped a man-shaped cookie.~
+~
+19 0 0 1
+10 0 0 0
+4 1 1
+#30705
+cookie gingerbread ginger bread woman christmas~
+{B,RE}C{b}{GR}H{RE}R{b}{GR}I{RE}S{b}{GR}T{RE}M{b}{GR}A{RE}S{b} {REV,YE}GINGERBREAD{rev} {RE}WOMAN{r}~
+Someone dropped a woman-shaped cookie.~
+~
+19 0 0 1
+10 0 0 0
+4 1 1
+#30706
+train balamb~
+{W,BO}The Train{w,bo}~
+{W,BO}A Large Passenger Train is preparing to leave for {w,bo}{BLU,BO}Balamb{blu,bo}{W,BO}.{w,bo}~
+~
+27 2 0 0
+30761 0 0 0
+5000 1 1
+E
+train balamb~
+{W,BO}
+  The occasional passenger boards the train as it
+  prepares to leave for it's destination.
+{w,bo}
+~
+#30707
+sword katana ancestral scorpion godtoy~
+{B,BO}The Ancestral Sword of the {b,bo}{R}Scorpion{r}~
+{B,BO}A rusted katana has been left here. {b,bo}{W,BO}(godtoy, please destroy){w,bo}~
+~
+5 16858403 8192 16744447
+20 20 20 11
+0 350 200
+A
+19 100
+A
+18 100
+B
+1914175620
+C
+7000 1
+G
+101
+M
+101
+#30708
+aura blazing fire godtoy~
+{R}Shoju's{r}{R,BO} Blazing Aura{r,bo}~
+{R,BO}A Firey Aura heats the room!{r,bo}{R} (godtoy, please destroy){r}~
+~
+9 822157312 8194 16736255
+100 0 0 0
+1000 1 1
+A
+17 -100
+A
+17 -100
+B
+989855874
+C
+7000 2
+G
+101
+M
+101
+#30709
+flyer ad kyuden bayushi kb~
+{R}A {r}{R,BO}Kyuden Bayushi{r,bo}{R} Flyer{r}~
+{BLU,BO}A Flyer advertising a great new zone is here!{blu,bo}~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+E
+flyer ad kyuden bayushi kb~
+{W,BO}
+    ==Calling all Treasure Hunters!==
+
+    A new realm has recently been discovered by a group
+  of Midgaard merchants.  They tell me the realm is
+  called Rokugan.  There is a caravan leaving for
+  Rokugan alog a trail to the east of Midgaard any
+  time now.  If you are looking for riches beyond
+  your wildest dreams, I would try and hitch a ride
+  with the Caravan.
+
+  -{w,bo}{C}Taka{c}{W,BO}
+{w,bo}{R,BO}
+  (Kyuden Bayushi is a zone meant for advanced
+  characters only, and should not be attempted
+  if you are not advanced)
+{r,bo}
+~
+#30710
+train desert~
+{W,BO}The Train{w,bo}~
+{W,BO}A Train here is getting ready to depart for the {w,bo}{Y,BO}Desert{y,bo}{W,BO}.{w,bo}~
+~
+27 2 0 0
+30786 0 0 0
+1000 1 1
+E
+train desert~
+{W,BO}
+  Very few passangers board this train, it's
+  destination fairly remote.  It's clean and
+  well maintained.
+{w,bo}
+~
+#30711
+train galbadia deling~
+{W,BO}The Train{w,bo}~
+{W,BO}The Train here is getting ready to leave for {w,bo}{M}Deling City{m}{W,BO}.{w,bo}~
+~
+27 2 0 0
+16501 0 0 0
+1000 1 1
+E
+train galbadia deling~
+{W,BO}
+  A few people here board the train, as it
+  gets ready to leave for the Galbadian
+  capital of {w,bo}{M}Deling City{m}{W,BO}.  It is fairly
+  clean and well maintained.
+{w,bo}
+~
+#30712
+draw point~
+{M,BO}A Draw Point{m,bo}~
+{M,BO}A Draw Point here grabs your attention.{m,bo}~
+~
+27 8225 0 0
+16598 0 0 0
+0 1 1
+E
+draw point~
+{M}
+  A violet vortex of energy has appeared here.
+  It appears to grow larger and larger in size
+  as you stare at it...
+{m}
+~
+#30713
+tonic potion~
+{W,BO}A Tonic{w,bo}~
+{W,BO}A small potion has been left here.{w,bo}~
+~
+10 8192 0 1
+50 28 28 15
+1 55000 1
+E
+tonic potion~
+{M}
+  The potion contains many odd herbs and
+  roots.  The tonic is one of the most
+  common recipies for healing wounds faster.
+{m}
+~
+#30714
+elixir potion~
+{M,BO}Elixir{m,bo}~
+{M}A small potion has been left here.{m}~
+~
+10 8193 0 1
+50 145 145 28
+0 500 1
+E
+elixir potion~
+{M,BO}
+  This potion is quite dense with herbs and
+  spices.  The recipie is something of a
+  mystery to you.
+{m,bo}
+~
+#30715
+gunblade gun blade lionheart~
+{Y}Li{y}{Y,BO}onhe{y,bo}{Y}art{y}~
+{B,BO}A long blade with a gun built into the handle is resting here.{b,bo}~
+~
+5 2147488768 0 8193
+2 8 6 4
+12 34464 1
+E
+gunblade gun blade lionheart~
+{B,BO}
+  The gunblade is a finely crafted sword with
+  an automatic shotgun installed into the
+  handle.  If timed properly, it could do some
+  real damage.
+{b,bo}
+~
+A
+19 5
+A
+18 4
+B
+2097152
+L
+50
+C
+6650 2
+G
+25
+M
+26
+#30716
+glove ehrgeiz~
+{W,BO}Eh{w,bo}{Y,BO}rge{y,bo}{W,BO}iz{w,bo}~
+{W,BO}Someone left a fighter's glove here.{w,bo}~
+~
+9 33555460 2048 129
+9 0 0 0
+3 30000 100000
+E
+glove ehrgeiz~
+{Y}
+  This glove is custom fit from the finest
+  leather, and studded with hard steel.  Only
+  professional fighters should use such a fine
+  glove.
+{y}
+~
+A
+19 5
+A
+18 3
+B
+33554432
+C
+7000 1
+G
+40
+M
+30
+#30717
+shooting star gem~
+{W,BO}The {w,bo}{M,BO}Shooting{m,bo}{Y,BO} Star{y,bo}~
+{M,BO}A very bright Gem has been left here.{m,bo}~
+~
+1 16457 0 1
+-1 -1 -1 4
+2 40000 1
+E
+shooting star gem~
+{M,BO}
+  This little gem looks as if it were a
+  shooting star, caught from the heavens.
+{m,bo}
+~
+A
+12 55
+A
+18 5
+B
+134217728
+G
+15
+M
+25
+#30718
+cactus thorn~
+{G,BO}Cactus Thorn{g,bo}~
+{G}A really big thorn has been left here.{g}~
+~
+9 2147483648 0 3
+9 0 0 0
+2 100 1
+A
+19 5
+A
+2 3
+B
+32768
+C
+7000 1
+G
+20
+M
+20
+#30719
+train timber~
+{W,BO}The Train{w,bo}~
+{W,BO}The Train here is getting ready to leave for {w,bo}{G}Timber{g}{W,BO}.{w,bo}~
+~
+27 0 0 0
+30778 30763 30763 30763
+1 1 1
+E
+train timber~
+{W,BO}
+  The train here appears to be in working order, but
+  it doesn't look like there are any other passengers
+  boarding the train out of the desert.
+{w,bo}
+~
+#30720
+cupboard~
+{B}A Large Cupboard{b}~
+{B}A large cupboard stands here.{b}~
+~
+15 8224 0 0
+150 15 30721 0
+1 1 1
+#30721
+key bronze small~
+{Y}The Bronze Key to the Cupboard{y}~
+{Y}A small bronze key has been left here.{y}~
+~
+18 2147495968 0 1
+7500 0 0 0
+1 1 1
+E
+key bronze small~
+{Y}
+  This little bronze key is the one and only key
+  that opens the Cupboard in Timber.
+{y}
+~
+L
+10
+#30722
+keycard red key card~
+{W,BO}A {w,bo}{R,BO}Red{r,bo}{W,BO} Keycard{w,bo}~
+{W,BO}Someone dropped the {w,bo}{R,BO}red{r,bo}{W,BO} keycard here.{w,bo}~
+~
+18 65536 0 16385
+500 0 0 0
+1 1000 1
+#30723
+keycard blue key card~
+{W,BO}A {w,bo}{BLU,BO}Blue{blu,bo}{W,BO} Keycard{w,bo}~
+{W,BO}Someone dropped the {w,bo}{BLU,BO}blue{blu,bo}{W,BO} keycard here.{w,bo}~
+~
+18 65536 0 16385
+500 0 0 0
+1 1 1
+#30724
+safe~
+{W,BO}A Safe{w,bo}~
+{B,BO}A small Safe is hidden below the bed.{b,bo}~
+~
+15 65536 0 0
+100 15 30723 0
+0 1 1
+#30725
+million gil gold~
+One-Million Gil~
+A stack of one-million Gil has been left on a table here.~
+~
+20 0 0 1
+1000000 0 0 0
+20 16960 1000000
+#30726
+fountain chocolate soymilk soy milk~
+{W,BO}A Fountain of {w,bo}{Y}Chocolate Soymilk{y}~
+{Y}A small fountain here bubbles chocolate soymilk.{y}~
+~
+17 0 0 0
+5000 5000 18 0
+1 1 1
+#30727
+katana testkatana test testeq~
+{R,BO}Testkatana{r,bo}~
+{R}A glowing TEST-Katana sits here, please destroy.{r}~
+~
+5 2148605952 0 8193
+3 7 8 3
+4 10000 500000
+A
+18 32
+A
+19 30
+C
+7000 1
+#30728
+mirror obsidian godtoy~
+{B,BO}The Obsidian Mirror{b,bo}~
+{B,BO}An huge slab of obsidian pulses with dark energy here.  {b,bo}{W,BO}(godtoy, please destroy){w,bo}~
+~
+1 73728 0 1
+-1 -1 -1 0
+1 1 1
+A
+28 100
+A
+19 100
+G
+101
+M
+101
+#30729
+testeq testbelt belt eq~
+{BLU,BO}Testbelt{blu,bo}~
+{BLU,BO}A Testbest is here (Give to an immortal to destroy){blu,bo}~
+~
+9 0 0 33556483
+12 7000 0 0
+1 1 1
+A
+28 6
+A
+18 5
+C
+7000 2
+$~

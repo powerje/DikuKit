@@ -1,0 +1,2825 @@
+#22495
+Pit of Ghouls~
+
+    {Y}Fleeing for your life you flee and fall down into what seems to be a 
+    huge pit filled with debris, mostly bones. At least your safe from the 
+    ghastly ghouls is your first thought, then you see the ghouls buddies 
+    emerge from the shadows of the pit. Maybe you'll have more of a chance 
+    if you climb out of the pit and face the ghouls upstairs. Then you see 
+    the ghouls sliding down the sides of the pit blocking your way. Guess 
+    What? Now you're in deeper{y}........{BO}{B}SH{G}*{B}T{b}!!
+
+~
+224 9 1
+D1
+~
+~
+0 -1 22493
+X134217728
+Z3
+C-1
+R0
+S
+#22451
+Underground Passageway~
+
+    {Y}You have entered an underground passageway. The place is very damp,
+    and very dirty, but for some{y} {BOL}{B}odd reason the torches along the wall
+    are still smoldering. Someone must have been here recently.{b} {Y}Wonder
+    who would wanna come down to a place like this?{y}
+
+~
+224 9 2
+D0
+~
+~
+0 -1 22450
+D2
+~
+~
+0 -1 22452
+Z3
+C-1
+R0
+S
+#22452
+Passageway Ends~
+
+    {Y}This gloomy passageway finally comes to an end. Five unshaven
+    warriors who appear to be guards rise to approach you. Out of
+    the corner of your eye, you observe one of the men fixing the
+    rug, which was oddly out of place. These warriors appear to be
+    the ones the old mystic was talking about. This must be their
+    hideout and these warriors are apparently on your side against
+    the sultan!{y}
+
+
+~
+224 9 2
+D0
+~
+~
+0 -1 22451
+D5
+It looks like an ordinary rug to me!
+
+~
+rug~
+3 -1 22453
+Z3
+C-1
+R0
+S
+#22453
+{Y}Hidden{y} {C}Room{c}~
+
+    {BO}{BLU}You enter this room via the hidden door beneath the rug and realize
+    you've found the hidden chamber of the Askarian leader, Ahmad Husan.
+    The noble looking warrior appears to be reading a piece of paper of
+    some sort when you enter. When he sees you he smudgily smirks. You 
+    can tell he is a man of action not of words as he draws his scimitar
+    from its sheathe. "How about a test of steel to see if you are a true
+    warrior?" are his words as he flashes his gleaming blade in twirling
+    motions faster than your eyes can follow. Be ready to prove yourself
+    if you want the Askar warriors on your side.{blu}
+
+~
+224 16649 0
+D2
+~
+~
+0 -1 22454
+D4
+~
+rug~
+1 -1 22452
+T22454
+Z3
+C-1
+R0
+S
+#22434
+{G}Enclosure{g}~
+
+    {BOL}{B}You find yourself in an enclosed room with the stench of dead corpses
+    lingering in the air. As you scan your surroundings, you see the bones
+    of various origins scattered about. Then from nowhere strange hissing
+    noises begin getting louder from all directions, and you see flashes of
+    reflected light bouncing off your every move.{b} {BOL}{Y}Suddenly, from the dark
+    corners of the room{y}, {BOL}{B}the deadly{b} {BOL}{G}Serpent Lords{g} {BOL}{B}attack{b}!!
+
+
+~
+224 16409 0
+Z3
+C-1
+R0
+S
+#22435
+{BO}{C}Grand{c} {R}Boulevard{r}~
+
+    A wide boulevard runs the length of the entire city, flanked 
+    by buildings and countless pillars that reach upward into a 
+    cloudless sky. Further south, deep in the heart of the city, 
+    lies the Grand Bazaar, which is always bustling with activity.
+
+~
+224 80 1
+D0
+~
+Gate of the Roaring Camels~
+6 -1 22411
+D1
+~
+~
+0 -1 22438
+D2
+~
+~
+0 -1 22455
+D3
+~
+~
+0 -1 22436
+Z3
+C-1
+R0
+S
+#22436
+{BO}{B}Road{b} {W}of{w} {BO}{Y}Stars{y}~
+
+    {BOL}{Y}Many citizens dot the path all of them heading in the direction
+    of the bazaar. You spot beggars, pickpockets, city guards, and
+    many other types of people also moving in the same path. To the
+    north and south there are city dwellings while the road continues
+    to the east and west.{y}
+
+
+~
+224 80 1
+D0
+~
+~
+0 -1 22441
+D1
+~
+~
+0 -1 22435
+D2
+~
+~
+0 -1 22446
+D3
+~
+~
+0 -1 22437
+Z3
+C-1
+R0
+S
+#22437
+{BO}{B}Road{b} {W}of{w} {BO}{Y}Stars{y}~
+
+    {BO}{Y}Many citizens dot the path all of them heading in the direction of
+    the bazaar. You spot beggars, pickpockets, city guards, and many
+    other types of people also moving in the same path. To the north
+    and south there are city dwellings, while the road continues to
+    the east and west{y}. {R}A magic shop to the west catches your interest{r}.
+
+~
+224 80 1
+D0
+~
+~
+0 -1 22440
+D1
+~
+~
+0 -1 22436
+D2
+~
+~
+0 -1 22447
+D3
+~
+~
+0 -1 22449
+Z3
+C-1
+R0
+S
+#22438
+{BO}{B}Road{b} {W}of{w} {BO}{Y}Stars{y}~
+
+    {BOL}{Y}Many citizens dot the path all of them heading in the direction
+    of the bazaar. You spot beggars, pickpockets, city guards, and
+    many other types of people also moving in the same path. To the
+    north and south there are city dwellings while the road continues
+    to the east and west.{y}
+
+
+~
+224 80 1
+D0
+~
+~
+0 -1 22442
+D1
+~
+~
+0 -1 22439
+D2
+~
+~
+0 -1 22445
+D3
+~
+~
+0 -1 22435
+Z3
+C-1
+R0
+S
+#22439
+{BO}{B}Road{b} {W}of{w} {BO}{Y}Stars{y}~
+
+    {BOL}{Y}Many citizens dot the path all of them heading in the direction
+    of the bazaar. You spot beggars, pickpockets, city guards, and
+    many other types of people also moving in the same path. To the
+    north and south there are city dwellings while the road continues
+    to the east and west.{y}
+
+
+~
+224 80 1
+D0
+~
+~
+0 -1 22443
+D1
+~
+~
+0 -1 22448
+D2
+~
+~
+0 -1 22444
+D3
+~
+~
+0 -1 22438
+Z3
+C-1
+R0
+S
+#22440
+{C}Dwelling{c}~
+
+    {G}This is the dwelling of one of the many{g} {C}citizens{c} of {BO}{Y}Al-Qadim{y}.
+    {G}No one appears to be here as is obvious since, many are at
+    the Grand Bazaar. The citizens don't seem to have anything of
+    value in their homes. They have the barest of things to survive
+    with, and most of their food in the house is spoiled. Which is
+    probably because of the rules given by the current{g} {BLU}dictator{blu},
+    {G}and a{g} {BO}{C}Sultan{c}, that cares not of his people, {BO}{Y}but of the wealth 
+    in his treasure chamber{y}.
+
+
+~
+224 8 0
+D2
+~
+~
+0 -1 22437
+Z3
+C-1
+R0
+S
+#22400
+{W}The{w} {BO}{Y}Plateau{y}~
+
+    {Y}You enter the high, windswept plateau, dotted by oasis and deep wadis
+    due to the seasonal rain.  Sandstorms, quicksand, desert-thieves, and
+    more can be seen in the distance.  Stinging grains of sand from the
+    twirling desert storms impair your vision.  You squint and still barely
+    see a gargantuan city in the distance.  You don't know whether or not
+    to believe your eyes as it may be just one of the many mirages you've
+    come across during your adventures throughout the lands.{y}
+
+    {BOL}{B}Laying on the ground you notice various types of bones of humans
+    and animals alike.  Under a mound of sand, a dusty old sign with
+    some writing catches your eye.  The writing is barely readable due
+    to the constant punishment of the elements.  As you turn to leave
+    you notice that you are not alone!{b}
+
+
+~
+224 84 2
+D2
+~
+~
+0 -1 22401
+E
+sign~
+  This place is a land of innumerable mysteries and untimely surprises.  You
+will face many, many dangers along your journey.  Just remember, always keep
+an open mind and don't bypass any clue as trivial!
+~
+Z3
+C-1
+R0
+S
+#22401
+{BO}{B}The{b} {Y}Deserts{y} {BO}{B}of{b} {R}Fate{r}~
+
+    {BO}{B}Beads of sweat begin to run down your forehead as you enter
+    the forbidden Deserts of Fate. Noticeably noone has been here
+    in ages and you quickly realize the answer to this query. You
+    feel a shiver crawl up your spine as you get the instinctive
+    urge to turn back now{b}!
+
+    {Y}Many creatures which you have never seen the like of roam 
+    these lands of mystery. Even the ground which you walk upon 
+    slowly shifts as you come to understand that nothing is what 
+    it seems in the Deserts of Fate{y}.
+
+~
+224 80 2
+D0
+~
+~
+0 -1 22400
+D1
+~
+~
+0 -1 22402
+D2
+~
+~
+0 -1 22401
+D3
+~
+~
+0 -1 22401
+Z3
+C-1
+R0
+S
+#22402
+{BO}{B}The{b} {Y}Deserts{y} {BO}{B}of{b} {R}Fate{r}~
+
+    {BO}{B}Beads of sweat begin to run down your forehead as you enter
+    the forbidden Deserts of Fate. Noticeably noone has been here
+    in ages and you quickly realize the answer to this query. You
+    feel a shiver crawl up your spine as you get the instinctive
+    urge to turn back now{b}!
+
+    {Y}Many creatures which you have never seen the like of roam 
+    these lands of mystery. Even the ground which you walk upon 
+    slowly shifts as you come to understand that nothing is what 
+    it seems in the Deserts of Fate{y}.
+
+~
+224 80 2
+D0
+~
+~
+0 -1 22402
+D1
+~
+~
+0 -1 22402
+D2
+~
+~
+0 -1 22401
+D3
+~
+~
+0 -1 22403
+Z3
+C-1
+R0
+S
+#22403
+{BO}{B}The{b} {Y}Deserts{y} {BO}{B}of{b} {R}Fate{r}~
+
+    {BO}{B}Beads of sweat begin to run down your forehead as you enter
+    the forbidden Deserts of Fate. Noticeably noone has been here
+    in ages and you quickly realize the answer to this query. You
+    feel a shiver crawl up your spine as you get the instinctive
+    urge to turn back now{b}!
+
+    {Y}Many creatures which you have never seen the like of roam 
+    these lands of mystery. Even the ground which you walk upon 
+    slowly shifts as you come to understand that nothing is what 
+    it seems in the Deserts of Fate{y}.
+
+~
+224 80 2
+D0
+~
+~
+0 -1 22401
+D1
+~
+~
+0 -1 22402
+D2
+~
+~
+0 -1 22402
+D3
+~
+~
+0 -1 22404
+Z3
+C-1
+R0
+S
+#22404
+{BO}{B}The{b} {Y}Deserts{y} {BO}{B}of{b} {R}Fate{r}~
+
+    {BO}{B}Beads of sweat begin to run down your forehead as you enter
+    the forbidden Deserts of Fate. Noticeably noone has been here
+    in ages and you quickly realize the answer to this query. You
+    feel a shiver crawl up your spine as you get the instinctive
+    urge to turn back now{b}!
+
+    {Y}Many creatures which you have never seen the like of roam 
+    these lands of mystery. Even the ground which you walk upon 
+    slowly shifts as you come to understand that nothing is what 
+    it seems in the Deserts of Fate{y}.
+
+~
+224 80 2
+D0
+~
+~
+0 -1 22412
+D1
+~
+~
+0 -1 22401
+D2
+~
+~
+0 -1 22405
+D3
+~
+~
+0 -1 22402
+E
+link 22403~
+Q
+l
+~
+Z3
+C-1
+R0
+S
+#22405
+{BO}{B}The{b} {Y}Deserts{y} {BO}{B}of{b} {R}Fate{r}~
+
+    {BO}{B}Beads of sweat begin to run down your forehead as you enter
+    the forbidden Deserts of Fate. Noticeably noone has been here
+    in ages and you quickly realize the answer to this query. You
+    feel a shiver crawl up your spine as you get the instinctive
+    urge to turn back now{b}!
+
+    {Y}Many creatures which you have never seen the like of roam 
+    these lands of mystery. Even the ground which you walk upon 
+    slowly shifts as you come to understand that nothing is what 
+    it seems in the Deserts of Fate{y}.
+
+~
+224 80 2
+D0
+~
+~
+0 -1 22401
+D1
+~
+~
+0 -1 22406
+D2
+~
+~
+0 -1 22402
+D3
+~
+~
+0 -1 22405
+Z3
+C-1
+R0
+S
+#22406
+{BO}{B}The{b} {Y}Deserts{y} {BO}{B}of{b} {R}Fate{r}~
+
+    {BO}{B}Beads of sweat begin to run down your forehead as you enter
+    the forbidden Deserts of Fate. Noticeably noone has been here
+    in ages and you quickly realize the answer to this query. You
+    feel a shiver crawl up your spine as you get the instinctive
+    urge to turn back now{b}!
+
+    {Y}Many creatures which you have never seen the like of roam 
+    these lands of mystery. Even the ground which you walk upon 
+    slowly shifts as you come to understand that nothing is what 
+    it seems in the Deserts of Fate{y}.
+
+~
+224 80 2
+D0
+~
+~
+0 -1 22402
+D1
+~
+~
+0 -1 22416
+D2
+~
+~
+0 -1 22407
+D3
+~
+~
+0 -1 22404
+Z3
+C-1
+R0
+S
+#22407
+{BO}{B}The{b} {Y}Deserts{y} {BO}{B}of{b} {R}Fate{r}~
+
+    {Y}The beating desert winds, all the strange and wondrous creatures,
+    and the many other perils of the desert have seemingly weakend your
+    bones as well as your spirit. You drag yourself along hoping the
+    much needed water will be found soon.{y}
+
+    {W}LOOK!!..{w} {Y}staring aimlessly you make out what looks to
+    be a{y} {BO}{B}{BLI}city{b} {Y}off in the distance. Though not sure you decide
+    to continue on your trek to see if it really is or not.
+    Your empty water-skin doesn't help any{y} {BO}{B}{BLI}.............{b}
+
+~
+224 80 2
+D0
+~
+~
+0 -1 22401
+D1
+~
+~
+0 -1 22408
+D2
+~
+~
+0 -1 22401
+D3
+~
+~
+0 -1 22404
+Z3
+C-1
+R0
+S
+#22408
+{BO}{B}The{b} {Y}Deserts{y} {BO}{B}of{b} {R}Fate{r}~
+
+    {Y}The beating desert winds, all the strange and wondrous creatures,
+    and the many other perils of the desert have seemingly weakend your
+    bones as well as your spirit. You drag yourself along hoping the
+    much needed water will be found soon.{y}
+
+    {W}LOOK!!..{w} {Y}staring aimlessly you make out what looks to
+    be a{y} {BO}{B}{BLI}city{b} {Y}off in the distance. Though not sure you decide
+    to continue on your trek to see if it really is or not.
+    Your empty water-skin doesn't help any{y} {BO}{B}{BLI}.............{b}
+
+~
+224 80 2
+D0
+~
+~
+0 -1 22404
+D1
+~
+~
+0 -1 22403
+D2
+~
+~
+0 -1 22409
+D3
+~
+~
+0 -1 22403
+Z3
+C-1
+R0
+S
+#22409
+{BO}{B}The{b} {Y}Deserts{y} {BO}{B}of{b} {R}Fate{r}~
+
+    {Y}The beating desert winds, all the strange and wondrous creatures,
+    and the many other perils of the desert have seemingly weakend your
+    bones as well as your spirit. You drag yourself along hoping the
+    much needed water will be found soon.{y}
+
+    {W}LOOK!!..{w} {Y}staring aimlessly you make out what looks to
+    be a{y} {BO}{B}{BLI}city{b} {Y}off in the distance. Though not sure you decide
+    to continue on your trek to see if it really is or not.
+    Your empty water-skin doesn't help any{y} {BO}{B}{BLI}.............{b}
+
+~
+224 80 2
+D0
+~
+~
+0 -1 22408
+D1
+~
+~
+0 -1 22408
+D2
+~
+~
+0 -1 22410
+D3
+~
+~
+0 -1 22408
+Z3
+C-1
+R0
+S
+#22410
+{BO}{B}The{b} {Y}Deserts{y} {BO}{B}of{b} {R}Fate{r}~
+
+    {Y}The beating desert winds, all the strangeand wondrous creatures,
+    and the many other perils of the desert have seemingly weakened 
+    your bones as well as your spirit. You drag yourself along hoping
+    the much needed water will be found soon.{y}
+
+    {BO}{W}LOOK!!..{w} {Y}staring aimlessly you make out what looks to
+    be a{y} {BO}{B}{BLI}city{b} {Y}off in the distance. Though not sure you decide
+    to continue on your trek to see if it really is or not.
+    Your empty water-skin doesn't help any{b} {BO}{B}............{b}
+
+    {BO}{B}As you turn around to walk towards the way you came,
+    you fall to the ground in pain. After sometime of lying
+    there, you raise your head up from the{b} {Y}blistering sand.{y}
+
+    {BO}{Y}Al-Qadim{y}!!, {W}The{w} {BO}{B}City{b} {W}of{w} {BO}{B}Many{b} {BO}{C}Delights{c}!
+
+~
+224 84 2
+D0
+~
+~
+0 -1 22409
+D1
+~
+~
+0 -1 22409
+D2
+~
+~
+0 -1 22411
+D3
+~
+~
+0 -1 22409
+Z3
+C-1
+R0
+S
+#22411
+Gates to the City of Many Delights~
+
+    {Y}At long last you have reached the gates of the fabled city of mystery,
+    fate, and the many delights{y}. {BO}{B}As you attempt to open the gates a gruff
+    looking guard slaps your hand away and glares at you icily demanding
+    to know your business. His fellow guard buddies staring at you with
+    their greed-filled eyes gives you the impression they care not about
+    your business but only what goods they can bully from you{b}.
+
+
+    {Y}If you are to enter{y} {BO}{Y}Al-Qadim{y}, {W}The{w} {BO}{B}City{b} {W}of{w} {BO}{B}Many{b} {BO}{C}Delights{c}!
+    {R}Be sure your ready to fight{r}! {R}fight{r}! {R}fight{r}!
+
+~
+224 84 1
+D0
+~
+~
+0 -1 22410
+D2
+{R}{r}
+    {Y}You stand before a closed gate which leads into the
+    city. Scribed into the gate is a picture of a camel
+    resting upon a throne of jewels and gold{y}.
+
+~
+Gate of the Roaring Camels~
+6 22417 22435
+Z3
+C-1
+R0
+S
+#22412
+{BO}{B}The{b} {R}Deserts{r} {BO}{B}of{b} {Y}Fate{y}~
+
+    {BO}{B}Beads of sweat begin to run down your forehead as you enter
+    the forbidden Deserts of Fate. Noticeably noone has been here
+    in ages and you quickly realize the answer to this query. You
+    feel a shiver crawl up your spine as you get the instinctive
+    urge to turn back now{b}!
+
+    {Y}Many creatures which you have never seen the like of roam 
+    these lands of mystery. Even the ground which you walk upon 
+    slowly shifts as you come to understand that nothing is what 
+    it seems in the Deserts of Fate{y}.
+
+~
+224 80 2
+D0
+~
+~
+0 -1 22404
+D1
+~
+~
+0 -1 22404
+D2
+~
+~
+0 -1 22404
+D3
+~
+~
+0 -1 22413
+Z3
+C-1
+R0
+S
+#22413
+{BO}{C}Almost{c} {G}to{g} {BO}{BLU}Water{b}~
+
+    {Y}At first you thought it was your mind playing tricks, in the distance
+    you see what looks to be an{y} {BOL}{BLU}oasis of clear water{b}. {G}The thought of fresh
+    water in the desert out here makes your mouth water with the little
+    saliva you have left.{g}
+
+~
+224 80 2
+D1
+~
+~
+0 -1 22412
+D3
+~
+~
+0 -1 22414
+Z3
+C-1
+R0
+S
+#22414
+{BO}{BLU}Oasis{b}~
+
+    {G}You fall to your hands and knees as you plunge your head into the
+    cool, refreshing{g} {BOL}{BLU}pool of water{b}. {G}Now that you have water, all your
+    worries are over..  or so you believed. Slowly wading through the
+    water you notice an odd looking beast stamping its feet in a slow
+    steady rhythm. A feeling of unknown and mystical fear enters your
+    body as the creature's fur begins to crackle and spark. You turn
+    to leave and then realize that while you were entranced by this
+    creature his fellow mutts have surrounded you. They all begin to
+    slowly stamp their feet as they ravenously lick their lips and
+    begin closing the circle around YOU!{g}
+
+~
+224 84 2
+D1
+~
+~
+0 -1 22413
+D3
+~
+~
+0 -1 22415
+Z3
+C-1
+R0
+S
+#22415
+Room of Inner Peace and Solitude~
+
+    {BO}{B}As you enter this humble looking abode a feeling of peace
+    fills your body. This appears to be a good spot to rest and
+    rejuvenate after your many battles. As you begin to sit down
+    you notice a feeble looking old man who you could swear wasn't
+    there a minute ago. The mystic doesn't seem to take any notice
+    of you then suddenly he rises and a feeling of awe spreads
+    outward from his old withered body.{b}
+
+    {C}You then begin to speak but immediately become silent as he
+    places his finger on his lips and points toward an animal hide
+    laying on the table. Without you seeing his lips move he tells
+    you "When the camel kneels, even the weary must rest."{c}
+
+    {C}Then he slowly fades out of existence as if he was never there.{c}
+
+~
+224 1032 0
+D1
+~
+~
+0 -1 22414
+E
+hide~
+  A clever ear can learn many secrets in the bazaar, or from the wise Askarian
+warriors.  I must warn your, however, that the agents of the sultan are said to
+be everywhere.
+~
+Z3
+C-1
+R0
+S
+#22416
+{BO}{R}The{r} {BO}{B}H{b}{R}a{r}{BO}{B}u{b}{R}nt{r}{BO}{B}ed{b} {Y}Desert{y}~
+
+    {Y}The land seems to change appearance as you continue eastward.
+    The desert becomes more harsh and rocky with a hundred shades
+    of red and brown{y}. {R}Pillars of stone thrust up through the sand
+    here and there. The land here seems unbelievably more deserted
+    than the Deserts of Fate{r}. {Y}Looking about, you spy pairs of eyes
+    hiding in the shadows of the ruins around you, but are you for
+    sure, or is it just your imagination playing tricks{y}? {R}Hopefully
+    no one will notice you standing out here in the open{r}.
+
+
+~
+224 84 2
+D1
+~
+~
+0 -1 22417
+D3
+~
+~
+0 -1 22406
+Z3
+C-1
+R0
+S
+#22417
+{BO}{R}The{r} {BO}{B}H{b}{R}a{r}{BO}{B}u{b}{R}nt{r}{BO}{B}ed{b} {Y}Desert{y}~
+
+    {Y}The land seems to change appearance as you continue eastward.
+    The desert becomes more harsh and rocky with a hundred shades
+    of red and brown{y}. {R}Pillars of stone thrust up through the sand
+    here and there. The land here seems unbelievably more deserted
+    than the Deserts of Fate{r}. {Y}Looking about, you spy pairs of eyes
+    hiding in the shadows of the ruins around you, but are you for
+    sure, or is it just your imagination playing tricks{y}? {R}Hopefully
+    no one will notice you standing out here in the open{r}.
+
+
+~
+224 80 2
+D0
+~
+~
+0 -1 22418
+D1
+~
+~
+0 -1 22416
+D2
+~
+~
+0 -1 22420
+D3
+~
+~
+0 -1 22416
+Z3
+C-1
+R0
+S
+#22418
+{BO}{R}The{r} {BO}{B}H{b}{R}a{r}{BO}{B}u{b}{R}nt{r}{BO}{B}ed{b} {Y}Desert{y}~
+
+    {Y}The land seems to change appearance as you continue eastward.
+    The desert becomes more harsh and rocky with a hundred shades
+    of red and brown{y}. {R}Pillars of stone thrust up through the sand
+    here and there. The land here seems unbelievably more deserted
+    than the Deserts of Fate{r}. {Y}Looking about, you spy pairs of eyes
+    hiding in the shadows of the ruins around you, but are you for
+    sure, or is it just your imagination playing tricks{y}? {R}Hopefully
+    no one will notice you standing out here in the open{r}.
+
+
+~
+224 80 2
+D0
+~
+~
+0 -1 22419
+D1
+~
+~
+0 -1 22418
+D2
+~
+~
+0 -1 22417
+D3
+~
+~
+0 -1 22416
+Z3
+C-1
+R0
+S
+#22419
+{BO}{R}The{r} {BO}{B}H{b}{R}a{r}{BO}{B}u{b}{R}nt{r}{BO}{B}ed{b} {Y}Desert{y}~
+
+    {Y}The land seems to change appearance as you continue eastward.
+    The desert becomes more harsh and rocky with a hundred shades
+    of red and brown{y}. {R}Pillars of stone thrust up through the sand
+    here and there. The land here seems unbelievably more deserted
+    than the Deserts of Fate{r}. {Y}Looking about, you spy pairs of eyes
+    hiding in the shadows of the ruins around you, but are you for
+    sure, or is it just your imagination playing tricks{y}? {R}Hopefully
+    no one will notice you standing out here in the open{r}.
+
+
+~
+224 84 2
+D0
+~
+~
+0 -1 22419
+D1
+~
+~
+0 -1 22421
+D2
+~
+~
+0 -1 22418
+D3
+~
+~
+0 -1 22416
+Z3
+C-1
+R0
+S
+#22420
+{BO}{R}The{r} {BO}{B}H{b}{R}a{r}{BO}{B}u{b}{R}nt{r}{BO}{B}ed{b} {Y}Desert{y}~
+
+    {Y}The land seems to change appearance as you continue eastward.
+    The desert becomes more harsh and rocky with a hundred shades
+    of red and brown{y}. {R}Pillars of stone thrust up through the sand
+    here and there. The land here seems unbelievably more deserted
+    than the Deserts of Fate{r}. {Y}Looking about, you spy pairs of eyes
+    hiding in the shadows of the ruins around you, but are you for
+    sure, or is it just your imagination playing tricks{y}? {R}Hopefully
+    no one will notice you standing out here in the open{r}.
+
+
+~
+224 84 2
+D0
+~
+~
+0 -1 22417
+D1
+~
+~
+0 -1 22420
+D2
+~
+~
+0 -1 22420
+D3
+~
+~
+0 -1 22420
+Z3
+C-1
+R0
+S
+#22421
+{BO}{R}The{r} {BO}{B}H{b}{R}a{r}{BO}{B}u{b}{R}nt{r}{BO}{B}ed{b} {Y}Desert{y}~
+
+    {Y}The land seems to change appearance as you continue eastward.
+    The desert becomes more harsh and rocky with a hundred shades
+    of red and brown{y}. {R}Pillars of stone thrust up through the sand
+    here and there. The land here seems unbelievably more deserted
+    than the Deserts of Fate{r}. {Y}Looking about, you spy pairs of eyes
+    hiding in the shadows of the ruins around you, but are you for
+    sure, or is it just your imagination playing tricks{y}? {R}Hopefully
+    no one will notice you standing out here in the open{r}.
+
+
+~
+224 80 2
+D0
+~
+~
+0 -1 22421
+D1
+~
+~
+0 -1 22422
+D2
+~
+~
+0 -1 22421
+D3
+~
+~
+0 -1 22419
+Z3
+C-1
+R0
+S
+#22422
+{BO}{R}The{r} {BO}{B}H{b}{R}a{r}{BO}{B}u{b}{R}nt{r}{BO}{B}ed{b} {Y}Desert{y}~
+
+    {R}The land seems to slope upward and you are still
+    being pelted by groups of waht appear to be nomadic
+    tribesman, {Y}although their lower half is the body of
+    an antelope. These centaurs keep {R}attacking swiftly
+    then retreating to the shadows just as swiftly{r}.
+
+~
+224 80 2
+D1
+~
+~
+0 -1 22424
+D2
+~
+~
+0 -1 22423
+D3
+~
+~
+0 -1 22421
+Z3
+C-1
+R0
+S
+#22423
+Centaur Tribal Lands~
+
+    {BO}{B}After sloping eastward for a bit the land becomes quite stable. All
+    around you are dwellings of some sort of civilized race. In the middle
+    of the camp there is a huge crackling fire with a tasty looking morsel
+    roasting over it{b}.
+
+    {BO}{B}You dig into the sumptous meal and after your belly is full you get up 
+    to continue on your journey{b}. {R}While you were eating the centaurs who live 
+    here seem to have returned from their hunting.  They curse at you in their 
+    own language then after a while of pondering turn toward you with evil 
+    grins and a glimmer in their eyes{r}. {BO}{B}Suddenly you realize why they are 
+    looking at you funny as they start to drool and while readying their 
+    lances and raising their blades they scream{b} {BO}{R}{BLI}"BANZAI{r}!!!"
+
+~
+224 84 1
+D0
+~
+~
+0 -1 22422
+D2
+~
+~
+0 -1 22427
+Z3
+C-1
+R0
+S
+#22424
+{BO}{R}The{r} {BO}{B}H{b}{R}a{r}{BO}{B}u{b}{R}nt{r}{BO}{B}ed{b} {Y}Desert{y}~
+
+    {R}The land seems to slope upward and you are still
+    being pelted by groups of waht appear to be nomadic
+    tribesman, {Y}although their lower half is the body of
+    an antelope. These centaurs keep {R}attacking swiftly
+    then retreating to the shadows just as swiftly{r}.
+
+~
+224 80 2
+D0
+~
+~
+0 -1 22425
+D1
+~
+~
+0 -1 22425
+D3
+~
+~
+0 -1 22422
+Z3
+C-1
+R0
+S
+#22425
+{BO}{R}The{r} {BO}{B}H{b}{R}a{r}{BO}{B}u{b}{R}nt{r}{BO}{B}ed{b} {Y}Desert{y}~
+
+    {R}The land seems to slope upward and you are still
+    being pelted by groups of waht appear to be nomadic
+    tribesman, {Y}although their lower half is the body of
+    an antelope. These centaurs keep {R}attacking swiftly
+    then retreating to the shadows just as swiftly{r}.
+
+~
+224 80 2
+D1
+~
+~
+0 -1 22426
+D2
+~
+~
+0 -1 22424
+D3
+~
+~
+0 -1 22424
+Z3
+C-1
+R0
+S
+#22426
+{BO}{R}Ambush{r}{BO}{G}! ! !{g}~
+
+    {BOL}{B}Oh no its a dead end and you sigh thinking what else can go wrong?
+    Well you soon become unsettled you asked as the ground gives way
+    and you realize you walked right into an Ambush!!!{b}
+
+~
+224 1048660 2
+D5
+~
+~
+0 -1 22434
+Z3
+C-1
+R0
+S
+#22427
+Centaur Tribal Lands~
+
+    {BO}{B}After sloping eastward for a bit the land becomes quite stable. All
+    around you are dwellings of some sort of civilized race. In the middle
+    of the camp there is a huge crackling fire with a tasty looking morsel
+    roasting over it{b}.
+
+    {BO}{B}You dig into the sumptous meal and after your belly is full you get up 
+    to continue on your journey{b}. {R}While you were eating the centaurs who live 
+    here seem to have returned from their hunting.  They curse at you in their 
+    own language then after a while of pondering turn toward you with evil 
+    grins and a glimmer in their eyes{r}. {BO}{B}Suddenly you realize why they are 
+    looking at you funny as they start to drool and while readying their 
+    lances and raising their blades they scream{b} {BO}{R}{BLI}"BANZAI{r}!!!"
+
+~
+224 80 1
+D0
+~
+~
+0 -1 22423
+D1
+~
+~
+0 -1 22432
+D2
+~
+~
+0 -1 22428
+D3
+~
+~
+0 -1 22431
+Z3
+C-1
+R0
+S
+#22428
+Centaur Tribal Lands~
+
+    {BO}{B}After sloping eastward for a bit the land becomes quite stable. All
+    around you are dwellings of some sort of civilized race. In the middle
+    of the camp there is a huge crackling fire with a tasty looking morsel
+    roasting over it{b}.
+
+    {BO}{B}You dig into the sumptous meal and after your belly is full you get up 
+    to continue on your journey{b}. {R}While you were eating the centaurs who live 
+    here seem to have returned from their hunting.  They curse at you in their 
+    own language then after a while of pondering turn toward you with evil 
+    grins and a glimmer in their eyes{r}. {BO}{B}Suddenly you realize why they are 
+    looking at you funny as they start to drool and while readying their 
+    lances and raising their blades they scream{b} {BO}{R}{BLI}"BANZAI{r}!!!"
+
+~
+224 80 1
+D0
+~
+~
+0 -1 22427
+D1
+~
+~
+0 -1 22430
+D2
+{R}{r}
+   {BO}{B}To the south you notice some sort of Hut. Upon closer inspection you
+   grimace as you come to realize the structure is made entirely of mud
+   and the bones of human remains! A{b} {R}reddish{r} {BO}{B}hue emits from the socket
+   of a human skull embedded into what looks to be a door{b}.
+
+~
+Death~
+8 22416 22433
+D3
+~
+~
+0 -1 22429
+Z3
+C-1
+R0
+S
+#22429
+{Y}Centaur{y} {C}Dwelling{c}~
+
+    {Y}This small dwelling is only one of the many centaur homes.
+    For only being constructed out of caked mud and brick, this
+    house is pretty cozy on the inside.{y} {BOL}{BLU}Walking about the home
+    you watch as centaur youths scramble to get out of your way
+    You get the feeling your not welcome as the adult centaurs
+    glare angrily towards you for disturbing them in their home.{blu}
+
+
+
+    {BOL}{Y}Unless you want a family of hostile centaurs on you, it would
+    be in your best interest to get going{y}....{BOL}{Y}soon{y}...{BOL}{B}or{b} {BOL}{Y}NOW{y}!!
+
+
+~
+224 24 0
+D1
+~
+~
+0 -1 22428
+Z3
+C-1
+R0
+S
+#22430
+{Y}Centaur{y} {C}Dwelling{c}~
+
+    {Y}This small dwelling is only one of the many centaur homes.
+    For only being constructed out of caked mud and brick, this
+    house is pretty cozy on the inside.{y} {BOL}{BLU}Walking about the home
+    you watch as centaur youths scramble to get out of your way
+    You get the feeling your not welcome as the adult centaurs
+    glare angrily towards you for disturbing them in their home.{blu}
+
+
+
+    {BOL}{Y}Unless you want a family of hostile centaurs on you, it would
+    be in your best interest to get going{y}....{BOL}{Y}soon{y}...{BOL}{B}or{b} {BOL}{Y}NOW{y}!!
+
+
+~
+224 24 0
+D3
+~
+~
+0 -1 22428
+Z3
+C-1
+R0
+S
+#22431
+{Y}Centaur{y} {C}Dwelling{c}~
+
+    {Y}This small dwelling is only one of the many centaur homes.
+    For only being constructed out of caked mud and brick, this
+    house is pretty cozy on the inside.{y} {BOL}{BLU}Walking about the home
+    you watch as centaur youths scramble to get out of your way
+    You get the feeling your not welcome as the adult centaurs
+    glare angrily towards you for disturbing them in their home.{blu}
+
+
+
+    {BOL}{Y}Unless you want a family of hostile centaurs on you, it would
+    be in your best interest to get going{y}....{BOL}{Y}soon{y}...{BOL}{B}or{b} {BOL}{Y}NOW{y}!!
+
+
+~
+224 24 0
+D1
+~
+~
+0 -1 22427
+Z3
+C-1
+R0
+S
+#22432
+{Y}Centaur{y} {C}Dwelling{c}~
+
+    {Y}This small dwelling is only one of the many centaur homes.
+    For only being constructed out of caked mud and brick, this
+    house is pretty cozy on the inside.{y} {BOL}{BLU}Walking about the home
+    you watch as centaur youths scramble to get out of your way
+    You get the feeling your not welcome as the adult centaurs
+    glare angrily towards you for disturbing them in their home.{blu}
+
+
+
+    {BOL}{Y}Unless you want a family of hostile centaurs on you, it would
+    be in your best interest to get going{y}....{BOL}{Y}soon{y}...{BOL}{B}or{b} {BOL}{Y}NOW{y}!!
+
+
+~
+224 24 0
+D3
+~
+~
+0 -1 22427
+Z3
+C-1
+R0
+S
+#22433
+{R}Chieftain{r}'{R}s{r} {BO}{Y}Lair{y}~
+
+    {BOL}{B}If you think getting through the centaur stronghold was hard, your
+    in for the thrill of your life. The first thing you notice as you
+    enter this room, is that all the warriors are wearing their finest
+    centaur battle armour, as though they were expecting your arrival.{b}
+    {C}The Chief Centaur{c} {BOL}{B}is also fully equipped and dressed in his finest
+    majestic armour.{b} {Y}The chief then lets out a whooping warcall, as his
+    warriors rush towards you to attack!{y} {R}*{r}{BOL}{Y}HOOOWWWWLLLLL{y}!!!{R}*{r} 
+
+
+
+~
+224 24 0
+D0
+~
+Death~
+1 -1 22428
+Z3
+C-1
+R0
+S
+#22441
+{G}Dwelling{g}~
+
+    {G}This is the dwelling of one of the many{g} {C}citizens{c} of {BO}{Y}Al-Qadim{y}.
+    {G}No one appears to be here as is obvious since, many are at
+    the Grand Bazaar. The citizens don't seem to have anything of
+    value in their homes. They have the barest of things to survive
+    with, and most of their food in the house is spoiled. Which is
+    probably because of the rules given by the current{g} {BLU}dictator{blu},
+    {G}and a{g} {BO}{C}Sultan{c}, that cares not of his people, {BO}{Y}but of the wealth 
+    in his treasure chamber{y}.
+
+
+~
+224 8 0
+D2
+~
+~
+0 -1 22436
+Z3
+C-1
+R0
+S
+#22442
+{G}Dwelling{g}~
+
+    {G}This is the dwelling of one of the many{g} {C}citizens{c} of {BO}{Y}Al-Qadim{y}.
+    {G}No one appears to be here as is obvious since, many are at
+    the Grand Bazaar. The citizens don't seem to have anything of
+    value in their homes. They have the barest of things to survive
+    with, and most of their food in the house is spoiled. Which is
+    probably because of the rules given by the current{g} {BLU}dictator{blu},
+    {G}and a{g} {BO}{C}Sultan{c}, that cares not of his people, {BO}{Y}but of the wealth 
+    in his treasure chamber{y}.
+
+
+~
+224 8 0
+D2
+~
+~
+0 -1 22438
+Z3
+C-1
+R0
+S
+#22443
+{G}Dwelling{g}~
+
+    {G}This is the dwelling of one of the many{g} {C}citizens{c} of {BO}{Y}Al-Qadim{y}.
+    {G}No one appears to be here as is obvious since, many are at
+    the Grand Bazaar. The citizens don't seem to have anything of
+    value in their homes. They have the barest of things to survive
+    with, and most of their food in the house is spoiled. Which is
+    probably because of the rules given by the current{g} {BLU}dictator{blu},
+    {G}and a{g} {BO}{C}Sultan{c}, that cares not of his people, {BO}{Y}but of the wealth 
+    in his treasure chamber{y}.
+
+
+~
+224 8 0
+D2
+~
+~
+0 -1 22439
+Z3
+C-1
+R0
+S
+#22444
+{G}Dwelling{g}~
+
+    {G}This is the dwelling of one of the many{g} {C}citizens{c} of {BO}{Y}Al-Qadim{y}.
+    {G}No one appears to be here as is obvious since, many are at
+    the Grand Bazaar. The citizens don't seem to have anything of
+    value in their homes. They have the barest of things to survive
+    with, and most of their food in the house is spoiled. Which is
+    probably because of the rules given by the current{g} {BLU}dictator{blu},
+    {G}and a{g} {BO}{C}Sultan{c}, that cares not of his people, {BO}{Y}but of the wealth 
+    in his treasure chamber{y}.
+
+
+~
+224 8 0
+D0
+~
+~
+0 -1 22439
+Z3
+C-1
+R0
+S
+#22445
+{G}Dwelling{g}~
+
+    {G}This is the dwelling of one of the many{g} {C}citizens{c} of {BO}{Y}Al-Qadim{y}.
+    {G}No one appears to be here as is obvious since, many are at
+    the Grand Bazaar. The citizens don't seem to have anything of
+    value in their homes. They have the barest of things to survive
+    with, and most of their food in the house is spoiled. Which is
+    probably because of the rules given by the current{g} {BLU}dictator{blu},
+    {G}and a{g} {BO}{C}Sultan{c}, that cares not of his people, {BO}{Y}but of the wealth 
+    in his treasure chamber{y}.
+
+
+~
+224 8 0
+D0
+~
+~
+0 -1 22438
+Z3
+C-1
+R0
+S
+#22446
+{G}Dwelling{g}~
+
+    {G}This is the dwelling of one of the many{g} {C}citizens{c} of {BO}{Y}Al-Qadim{y}.
+    {G}No one appears to be here as is obvious since, many are at
+    the Grand Bazaar. The citizens don't seem to have anything of
+    value in their homes. They have the barest of things to survive
+    with, and most of their food in the house is spoiled. Which is
+    probably because of the rules given by the current{g} {BLU}dictator{blu},
+    {G}and a{g} {BO}{C}Sultan{c}, that cares not of his people, {BO}{Y}but of the wealth 
+    in his treasure chamber{y}.
+
+
+~
+224 8 0
+D0
+~
+~
+0 -1 22436
+Z3
+C-1
+R0
+S
+#22447
+{G}Dwelling{g}~
+
+    {G}This is the dwelling of one of the many{g} {C}citizens{c} of {BO}{Y}Al-Qadim{y}.
+    {G}No one appears to be here as is obvious since, many are at
+    the Grand Bazaar. The citizens don't seem to have anything of
+    value in their homes. They have the barest of things to survive
+    with, and most of their food in the house is spoiled. Which is
+    probably because of the rules given by the current{g} {BLU}dictator{blu},
+    {G}and a{g} {BO}{C}Sultan{c}, that cares not of his people, {BO}{Y}but of the wealth 
+    in his treasure chamber{y}.
+
+
+~
+224 8 0
+D0
+~
+~
+0 -1 22437
+Z3
+C-1
+R0
+S
+#22448
+{BO}{BLU}Hak{b}{C}ee{c}{BO}{BLU}m{b}'{BO}{BLU}s{b} {BO}{C}Water{c} {M}Shop{m}~
+
+    {C}This is a shop which wells water. Well what else did you expect?
+    All around you there are various containers all filled with cool,
+    refreshing water. The shopkeeper watches you closely, as to make
+    sure you dont try and steal one of his precious containers. Your
+    days of thirst are now over, enjoy{c}!
+
+~
+224 106508 0
+D3
+~
+~
+0 -1 22439
+Z3
+C-1
+R0
+S
+#22449
+{R}Ak{G}a{R}b{G}a{R}r{r}'{R}s{r} {BO}{R}Magic{r} {M}Shop{m}~
+
+    {BOL}{Y}You enter this dusty room and all around you there are potions and more
+    potions waiting to be purchased. Also scrolls, wands, and ancient texts
+    line the shelves. You watch your step as to avoid breaking any potions
+    laying about as you make your way to the shopkeeper.{y} {R}As you approach the
+    counter, the shopkeeper twitches a finger and the floor in front of you
+    is immediately cleared of all debris. He seems to eye you quite closely.
+    Better not break anything, he's liable to get very upset with you!{r}
+
+
+~
+224 8 0
+D1
+~
+~
+0 -1 22437
+D2
+~
+storage~
+8 22418 22450
+Z3
+C-1
+R0
+S
+#22450
+{Y}Underground{y} {G}Passageway{g}~
+
+    {Y}You have entered an underground passageway. The place is very damp,
+    and very dirty, but for some{y} {BOL}{B}odd reason the torches along the wall
+    are still smoldering. Someone must have been here recently.{b} {Y}Wonder
+    who would wanna come down to a place like this?{y}
+
+~
+224 9 2
+D0
+A secret door.
+~
+storage~
+1 -1 22449
+D2
+~
+~
+0 -1 22451
+Z3
+C-1
+R0
+S
+#22454
+{BO}{C}Pool{c} {BO}{B}of{b} {BO}{Y}Delights{y}~
+
+    {G}The brilliant light practically blinds you as you step into this 
+    room. There are fruit trees of all sorts, lemon, tangerines, oranges, 
+    and even passion fruit decorating this room{g}. {BO}{Y}Despite this beauty, the 
+    most spectacular thing in this room is the pool full of sparkling and 
+    bubbling light. It makes you feel very peaceful and at home here. Woman 
+    as beautiful as the moon and men as bright as the sun come to attend to 
+    your every need{y}. {G}You feel like just laying down on one of the comfortable 
+    looking beds of soft moss. The attendants inform you that you had better 
+    rest up for the battle to come for it will not be easily won{g}!
+
+~
+224 4210697 3
+D0
+~
+~
+0 -1 22453
+Z3
+C-1
+R0
+S
+#22455
+Grand Boulevard~
+
+    {BOL}{Y}This wide bouldevard continues to run down the city length.
+    To the south in the center of the city, you see much activity.{y}
+    {BOL}{R}From here it just looks like alot of people pushing and shoving
+    each other to get to the next haggler.{r} {BOL}{W}This is how it is at the{w}
+    {C}Grand{c} {R}Bazaar{r}!
+
+~
+224 84 1
+D0
+~
+~
+0 -1 22435
+D2
+~
+~
+0 -1 22456
+Z3
+C-1
+R0
+S
+#22456
+The Grand Bazaar~
+
+        {BO}{Y}The whole market square is full of activity. You see preachers rambling
+      about, dealers small and large trying to make a fair profit{y}, {C}and even little
+     children trying to make money some how{c}.  {Y}Dirty{y}, {BO}{B}little beggar-thieves are also
+         everywhere you had better keep a good eye on your pocket{b}. {R}Flame eaters,
+           snake charmers, and belly dancers{r} {BO}{W}are also quite an attraction here{w}.
+
+                           {BO}{Y}{UNDER}Welcome{y} {BO}{W}to the{w} {C}Grand{c} {R}Bazaar{r}!
+
+~
+224 80 1
+D0
+~
+~
+0 -1 22455
+D1
+~
+~
+0 -1 22458
+D3
+~
+~
+0 -1 22457
+Z3
+C-1
+R0
+S
+#22457
+The Grand Bazaar~
+
+       {BO}{B}The bazaar is divided into sections by professions{b}.  There are {Y}tailors{y}, 
+     {G}moneychangers{g}, {BO}{Y}weavers{y}, {R}vendors{r} with scented waters and ices, {BO}{C}jewelers{c} and 
+     {Y}grain{y} {C}merchants{c}, {Y}camel{y} {R}traders{r}, and {BO}{B}ironmongers{b}, {BO}{Y}all in their seperate 
+     streets and alleys and squares{y}.  {BO}{C}Preachers{c} and {BO}{R}storytellers{r} {BO}{B}can be found on 
+     most corners or wherever a bit of shade can be found under a wall{b}.  {BO}{BLU}This is 
+     the grand bazaar hope you don't get lost or robbed{blu}.
+
+~
+224 80 1
+D1
+~
+~
+0 -1 22456
+D2
+~
+~
+0 -1 22459
+Z3
+C-1
+R0
+S
+#22458
+The Grand Bazaar~
+
+       {BO}{B}The bazaar is divided into sections by professions{b}.  There are {Y}tailors{y}, 
+     {G}moneychangers{g}, {BO}{Y}weavers{y}, {R}vendors{r} with scented waters and ices, {BO}{C}jewelers{c} and 
+     {Y}grain{y} {C}merchants{c}, {Y}camel{y} {R}traders{r}, and {BO}{B}ironmongers{b}, {BO}{Y}all in their seperate 
+     streets and alleys and squares{y}.  {BO}{C}Preachers{c} and {BO}{R}storytellers{r} {BO}{B}can be found on 
+     most corners or wherever a bit of shade can be found under a wall{b}.  {BO}{BLU}This is 
+     the grand bazaar hope you don't get lost or robbed{blu}.
+
+~
+224 80 1
+D2
+~
+~
+0 -1 22460
+D3
+~
+~
+0 -1 22456
+Z3
+C-1
+R0
+S
+#22459
+The Grand Bazaar~
+
+       {BO}{B}The bazaar is divided into sections by professions{b}.  There are {Y}tailors{y}, 
+     {G}moneychangers{g}, {BO}{Y}weavers{y}, {R}vendors{r} with scented waters and ices, {BO}{C}jewelers{c} and 
+     {Y}grain{y} {C}merchants{c}, {Y}camel{y} {R}traders{r}, and {BO}{B}ironmongers{b}, {BO}{Y}all in their seperate 
+     streets and alleys and squares{y}.  {BO}{C}Preachers{c} and {BO}{R}storytellers{r} {BO}{B}can be found on 
+     most corners or wherever a bit of shade can be found under a wall{b}.  {BO}{BLU}This is 
+     the grand bazaar hope you don't get lost or robbed{blu}.
+
+~
+224 80 1
+D0
+~
+~
+0 -1 22457
+D2
+~
+~
+0 -1 22461
+Z3
+C-1
+R0
+S
+#22460
+The Grand Bazaar~
+
+       {BO}{B}The bazaar is divided into sections by professions{b}.  There are {Y}tailors{y}, 
+     {G}moneychangers{g}, {BO}{Y}weavers{y}, {R}vendors{r} with scented waters and ices, {BO}{C}jewelers{c} and 
+     {Y}grain{y} {C}merchants{c}, {Y}camel{y} {R}traders{r}, and {BO}{B}ironmongers{b}, {BO}{Y}all in their seperate 
+     streets and alleys and squares{y}.  {BO}{C}Preachers{c} and {BO}{R}storytellers{r} {BO}{B}can be found on 
+     most corners or wherever a bit of shade can be found under a wall{b}.  {BO}{BLU}This is 
+     the grand bazaar hope you don't get lost or robbed{blu}.
+
+~
+224 80 1
+D0
+~
+~
+0 -1 22458
+D2
+~
+~
+0 -1 22462
+Z3
+C-1
+R0
+S
+#22461
+The Grand Bazaar~
+
+       {BO}{B}The bazaar is divided into sections by professions{b}.  There are {Y}tailors{y}, 
+     {G}moneychangers{g}, {BO}{Y}weavers{y}, {R}vendors{r} with scented waters and ices, {BO}{C}jewelers{c} and 
+     {Y}grain{y} {C}merchants{c}, {Y}camel{y} {R}traders{r}, and {BO}{B}ironmongers{b}, {BO}{Y}all in their seperate 
+     streets and alleys and squares{y}.  {BO}{C}Preachers{c} and {BO}{R}storytellers{r} {BO}{B}can be found on 
+     most corners or wherever a bit of shade can be found under a wall{b}.  {BO}{BLU}This is 
+     the grand bazaar hope you don't get lost or robbed{blu}.
+
+~
+224 80 1
+D0
+~
+~
+0 -1 22459
+D1
+~
+~
+0 -1 22463
+D3
+~
+~
+0 -1 22464
+Z3
+C-1
+R0
+S
+#22462
+The Grand Bazaar~
+
+       {BO}{B}The bazaar is divided into sections by professions{b}.  There are {Y}tailors{y}, 
+     {G}moneychangers{g}, {BO}{Y}weavers{y}, {R}vendors{r} with scented waters and ices, {BO}{C}jewelers{c} and 
+     {Y}grain{y} {C}merchants{c}, {Y}camel{y} {R}traders{r}, and {BO}{B}ironmongers{b}, {BO}{Y}all in their seperate 
+     streets and alleys and squares{y}.  {BO}{C}Preachers{c} and {BO}{R}storytellers{r} {BO}{B}can be found on 
+     most corners or wherever a bit of shade can be found under a wall{b}.  {BO}{BLU}This is 
+     the grand bazaar hope you don't get lost or robbed{blu}.
+
+~
+224 80 1
+D3
+~
+~
+0 -1 22463
+Z3
+C-1
+R0
+S
+#22463
+The Grand Bazaar~
+
+       {BO}{B}The bazaar is divided into sections by professions{b}.  There are {Y}tailors{y}, 
+     {G}moneychangers{g}, {BO}{Y}weavers{y}, {R}vendors{r} with scented waters and ices, {BO}{C}jewelers{c} and 
+     {Y}grain{y} {C}merchants{c}, {Y}camel{y} {R}traders{r}, and {BO}{B}ironmongers{b}, {BO}{Y}all in their seperate 
+     streets and alleys and squares{y}.  {BO}{C}Preachers{c} and {BO}{R}storytellers{r} {BO}{B}can be found on 
+     most corners or wherever a bit of shade can be found under a wall{b}.  {BO}{BLU}This is 
+     the grand bazaar hope you don't get lost or robbed{blu}.
+
+~
+224 80 1
+D1
+~
+~
+0 -1 22462
+D3
+~
+~
+0 -1 22461
+Z3
+C-1
+R0
+S
+#22464
+The Grand Bazaar~
+
+       {BO}{B}The bazaar is divided into sections by professions{b}.  There are {Y}tailors{y}, 
+     {G}moneychangers{g}, {BO}{Y}weavers{y}, {R}vendors{r} with scented waters and ices, {BO}{C}jewelers{c} and 
+     {Y}grain{y} {C}merchants{c}, {Y}camel{y} {R}traders{r}, and {BO}{B}ironmongers{b}, {BO}{Y}all in their seperate 
+     streets and alleys and squares{y}.  {BO}{C}Preachers{c} and {BO}{R}storytellers{r} {BO}{B}can be found on 
+     most corners or wherever a bit of shade can be found under a wall{b}.  {BO}{BLU}This is 
+     the grand bazaar hope you don't get lost or robbed{blu}.
+
+~
+224 80 1
+D1
+~
+~
+0 -1 22461
+D2
+~
+~
+0 -1 22465
+Z3
+C-1
+R0
+S
+#22465
+Road to the Palace~
+
+    {Y}You notice that this road is rarely used since not many are allowed 
+    to go to the palace, or should I say not many who go to the palace 
+    ever make it back out. The road gradually becomes more and more dusty 
+    and unused as it snakes it's way towards the palace walls. In the 
+    distance you can finally make out the gates of the palace, they look 
+    extremely enormous from where you stand. You peer towards the gates, 
+    as it looks as though to be unguarded.{y}
+
+
+~
+224 84 1
+D0
+~
+~
+0 -1 22464
+D2
+~
+~
+0 -1 22466
+Z3
+C-1
+R0
+S
+#22466
+The Majestic Palace Gates~
+
+    {BO}{Y}You have reached the {W}Majestic{w} {G}Gates{g} {W}of the {C}Palace{c}, {BO}{Y}which soars at 
+    least fifty feet above you{y}. On the walls of the gates, etched in 
+    {R}colored mosaics{r} are some of the {BO}{C}Sultans{c} most feared creatures. 
+    There are several depicted here on the gates which are, {BO}{BLU}the mighty 
+    winged serpent{blu}, {Y}desert giants wielding swords{y}, and {C}the noble djinni 
+    riding a magnificent elephant{c}. This is the checkpoint for the palace 
+    guards, though seem to be nowhere in site at the moment. You decide 
+    to enter the gates, as you do {Y}swirling sands{y} kick up from the ground 
+    and blind you momentarily. When you regain your vision you notice 
+    that many of the {BO}{B}creatures{b} on the gate have somehow come to life. 
+    {G}Unhappy with your presence they start to march towards you with 
+    drawn swords{g}. {R}Prepare for battle, this might get a bit messy{r}!
+
+~
+224 80 1
+D0
+~
+~
+0 -1 22465
+D2
+The magnificient Gate of the Tigers!
+~
+gate tigers~
+6 22421 22467
+Z3
+C-1
+R0
+S
+#22467
+Waiting Room~
+
+    {R}You have entered the fabled palace of the{r} {BO}{C}Sultan Hasan Shailaski{c}.
+    {R}This room appears to be a lounge of some sort. There are exits to
+    the east and west leading into darkness, a hallway to the south
+    leads deeper into the palace{r}. {BO}{B}Now that you've made it inside the
+    palace, maybe its time you took a break{b}?!
+
+~
+224 12 0
+D0
+~
+gate tigers~
+1 -1 22466
+D1
+~
+~
+0 -1 22470
+D2
+~
+~
+0 -1 23700
+D3
+~
+~
+0 -1 22468
+Z3
+C-1
+R0
+S
+#22468
+Landing~
+
+    {BO}{R}This room is a landing platform and there is a spiral staircase
+    leading down into the depths of the dungeon. All around you the
+    walls are charred black. There is nothing of interest to you
+    except for some scrawled writing up on the wall. The writing
+    seems to be tainted by rusty red streaks. Then you realize that
+    whoever wrote this message had to use his fingernails to scrape
+    the words into the wall{r}.
+
+~
+224 9 0
+D1
+~
+~
+0 -1 22467
+D5
+~
+~
+0 -1 22469
+E
+blood~
+
+               DO NOT VENTURE INTO THE DEPTHS OF THE DUNGEON!
+
+                 DEATH WILL BEFALL YOU AT THE HANDS OF THE
+
+                  V O R A C I O U S   O G R E   M A G I
+
+
+               <===== ! ! ! ! ! B E W A R E ! ! ! ! ! =====>
+
+~
+E
+writing words message~
+
+  {R}Ive made it this far,
+  The lands from afar,
+  Treasure I've seeked,
+  Yet seemed so bleak,
+
+  They were lead to the east,
+  For their bodies to feast,
+  The dead, haunting, forever.{r}
+
+~
+Z3
+C-1
+R0
+S
+#22469
+Depths of the Dungeon~
+
+    {C}The first ting you hear as you enter the dungeon is a sound like the 
+    baying of a pack or a mob coming from all around. Just from being here 
+    you get an eerie feeling and the walls and floors cold touch doesn't 
+    help any. Obviously this part of the palace isn't well kept{c}. {G}The walls 
+    have many scratch marks and you wonder what type of beast or beasts 
+    could make such scars in the walls. Judging by the nearness of the 
+    panting noise you won't have long to find out{g}.
+
+~
+224 13 1
+D2
+~
+~
+0 -1 22471
+D4
+~
+~
+0 -1 22470
+X6291456
+Z3
+C-1
+R0
+S
+#22470
+Landing~
+
+    {BO}{R}This room is a landing platform and there is a spiral staircase
+    leading down into the depths of the dungeon. All around you the
+    walls are charred black. There is nothing of interest to you
+    except for some scrawled writing up on the wall. The writing
+    seems to be tainted by rusty red streaks. Then you realize that
+    whoever wrote this message had to use his fingernails to scrape
+    the words into the wall{r}.
+
+~
+224 9 0
+D3
+~
+~
+0 -1 22467
+D5
+~
+~
+0 -1 23744
+E
+writing~
+Do not enter into the depths of the dungeon!  Death will befall you at
+the hands of the Voracious Ogre Magi BEWARE!!!
+~
+E
+blood~
+
+               DO NOT VENTURE INTO THE DEPTHS OF THE DUNGEON!
+
+                DEATH WILL BEFALL YOU AT THE HANDS OF THE
+
+                  V O R A C I O U S   O G R E   M A G I
+
+
+               <===== ! ! ! ! ! B E W A R E ! ! ! ! ! =====>
+
+~
+Z3
+C-1
+R0
+S
+#22471
+Dark Hallway~
+
+    {BOL}{B}You are at the north end of the dark and damp hallway that
+    seems to lead into the dark beyond. Spiders, rats, and all
+    sorts of unmentionable things crawl along the passageway
+    and some even crawl up your legs. You notice that lining the
+    sides of the passageway are cells. Shivers enter your body as
+    you dread to think what is being held behind these cell doors.
+    Hope you don't have to find out!{b}
+
+~
+224 9 1
+D0
+~
+~
+0 -1 22469
+D1
+A dark and damp cell.
+~
+cell~
+1 -1 22490
+D2
+~
+~
+0 -1 22472
+D3
+A dark and damp cell.
+~
+cell~
+1 -1 22491
+Z3
+C-1
+R0
+S
+#22472
+Along the Dark Hallway~
+
+    {C}You slowly make your way along the hallway which seems to oddly 
+    get darker and damper wither every step. Hissing noises and howls 
+    can be heard from all directions. The creatures inside these cells 
+    reach their claws out to try and grab you, as you hastily proceed 
+    to make your way through the hallway{c}.
+
+~
+224 9 1
+D0
+~
+~
+0 -1 22471
+D1
+A dark and damp cell.
+~
+cell~
+1 -1 22489
+D2
+~
+~
+0 -1 22473
+D3
+A dark and damp cell.
+~
+cell~
+1 -1 22488
+Z3
+C-1
+R0
+S
+#22473
+Crossway~
+
+    {BO}{B}You have entered the crosspath of all the hallways. North to south 
+    runs one hallway lined with cells and a similar hallway runs east 
+    to west. All around you there are monsters in these cells and they 
+    look like they haven't been fed in a long time.  In your mind you 
+    hope you don't ever have to run into one of these hungry critters 
+    when you hear a noise like a baying of a pack or a mob as you see 
+    a gruesome creature oozing its way down the hall. The most amazing 
+    thing is that this creature appears to be made entirely out of 
+    mouths and eyes. As the ooze fires it's spittle at you and ignites 
+    the wall you panic and attempt to find the nearest exit {R}QUICK{r}!
+
+~
+224 9 1
+D0
+~
+~
+0 -1 22472
+D1
+~
+~
+0 -1 22477
+D3
+~
+~
+0 -1 22474
+Z3
+C-1
+R0
+S
+#22474
+Along the Dark Hallway~
+
+    {C}You slowly make your way along the hallway which seems to oddly get 
+    darker and damper wither every step. Hissing noises and howls can be 
+    heard from all directions. The creatures inside these cells reach 
+    their claws out to try and grab you, as you hastily proceed to make
+    your way through the hallway{c}.
+
+~
+224 9 1
+D0
+A dark and damp cell.
+~
+cell~
+1 -1 22485
+D1
+~
+~
+0 -1 22473
+D2
+A dark and damp cell.
+~
+cell~
+1 -1 22484
+D3
+~
+~
+0 -1 22475
+Z3
+C-1
+R0
+S
+#22475
+Along the Dark Hallway~
+
+    {C}You slowly make your way along the hallway which seems to oddly get 
+    darker and damper wither every step. Hissing noises and howls can be 
+    heard from all directions. The creatures inside these cells reach 
+    their claws out to try and grab you, as you hastily proceed to make
+    your way through the hallway{c}.
+
+~
+224 9 1
+D0
+A dark and damp cell.
+~
+cell~
+1 -1 22486
+D1
+~
+~
+0 -1 22474
+D2
+A dark and damp cell.
+~
+cell~
+1 -1 22487
+D3
+~
+~
+0 -1 22476
+Z3
+C-1
+R0
+S
+#22476
+Western Hallway~
+
+    {BOL}{B}The hallway has com to a dead end and there seems to be nowhere
+    to go now. After the beasts you encountered in the various other
+    cells, you feel you need a rest. {BOL}{W}While resting you begin to hear
+    groaning and thumping noises from all around, you wonder what it
+    could be? Scanning all about, you see in the distance what looks
+    to be a group of inhuman creatures with pale white skin and claws
+    from which drips a green substance. {BOL}{B}They look at you hungrily as
+    they begin darting towards you. Now your in some deep{b}{BOL}{W}....{Y}SH*T{y}!
+
+~
+224 1048589 1
+D0
+~
+~
+0 -1 22492
+D2
+~
+~
+0 -1 22495
+Z3
+C-1
+R0
+S
+#22477
+Along the Dark Hallway~
+
+    {C}You slowly make your way along the hallway which seems to oddly get 
+    darker and damper wither every step. Hissing noises and howls can be 
+    heard from all directions. The creatures inside these cells reach 
+    their claws out to try and grab you, as you hastily proceed to make
+    your way through the hallway{c}.
+
+~
+224 9 1
+D0
+A dark and damp cell.
+~
+cell~
+1 -1 22480
+D1
+~
+~
+0 -1 22478
+D2
+A dark and damp cell.
+~
+cell~
+1 -1 22483
+D3
+~
+~
+0 -1 22473
+Z3
+C-1
+R0
+S
+#22478
+Along the Dark Hallway~
+
+    {C}You slowly make your way along the hallway which seems to oddly get 
+    darker and damper wither every step. Hissing noises and howls can be 
+    heard from all directions. The creatures inside these cells reach 
+    their claws out to try and grab you, as you hastily proceed to make
+    your way through the hallway{c}.
+
+~
+224 9 1
+D0
+A dark and damp cell.
+~
+cell~
+1 -1 22481
+D1
+~
+~
+0 -1 22479
+D2
+A dark and damp cell.
+~
+cell~
+1 -1 22482
+D3
+~
+~
+0 -1 22477
+Z3
+C-1
+R0
+S
+#22479
+Eastern Hallway~
+
+    {BO}{B}You finally reach the eastern end of this dark and damp hallway.
+    The{b} {R}Blood{r} {BO}{R}splatters{r} {BO}{B}upon the walls here are thick, and the sight 
+    of it makes you want to puke all over{b}.
+
+    {BO}{B}As you try and gather your composer, you are startled by the odd
+    sounds, possibly of some sort of animal in excruciating pain? It
+    seems to be coming from the cells, to the north and the south{b}.
+
+    {C}Perhaps you'd be well advised to go back the direction you came from{c}.
+
+~
+224 9 1
+D0
+A dark and damp cell.
+~
+cell~
+1 -1 22496
+D2
+~
+cell~
+1 -1 22497
+D3
+~
+~
+0 -1 22478
+Z3
+C-1
+R0
+S
+#22480
+{BO}{B}C{b}{W}e{w}{BO}{B}ll{b}~
+
+    {G}You wonder what type of beast can actually
+    survive in this stench and darkness. Curiosity
+    draws you into the cell and as you look around,
+    for the first time in your life you know what
+    fear really feels like. Each one of these cells
+    holds a different beast of some kind, and you
+    shiver to think which one you will encounter in
+    this cell!{g}
+
+~
+224 9 1
+D2
+~
+cell~
+1 -1 22477
+Z3
+C-1
+R0
+S
+#22481
+{BO}{B}C{b}{W}e{w}{BO}{B}ll{b}~
+
+    {G}You wonder what type of beast can actually
+    survive in this stench and darkness. Curiosity
+    draws you into the cell and as you look around,
+    for the first time in your life you know what
+    fear really feels like. Each one of these cells
+    holds a different beast of some kind, and you
+    shiver to think which one you will encounter in
+    this cell!{g}
+
+~
+224 9 1
+D2
+~
+cell~
+1 -1 22478
+Z3
+C-1
+R0
+S
+#22482
+{BO}{B}C{b}{W}e{w}{BO}{B}ll{b}~
+
+    {G}You wonder what type of beast can actually
+    survive in this stench and darkness. Curiosity
+    draws you into the cell and as you look around,
+    for the first time in your life you know what
+    fear really feels like. Each one of these cells
+    holds a different beast of some kind, and you
+    shiver to think which one you will encounter in
+    this cell!{g}
+
+~
+224 9 1
+D0
+~
+cell~
+1 -1 22478
+Z3
+C-1
+R0
+S
+#22483
+{BO}{B}C{b}{W}e{w}{BO}{B}ll{b}~
+
+    {G}You wonder what type of beast can actually
+    survive in this stench and darkness. Curiosity
+    draws you into the cell and as you look around,
+    for the first time in your life you know what
+    fear really feels like. Each one of these cells
+    holds a different beast of some kind, and you
+    shiver to think which one you will encounter in
+    this cell!{g}
+
+~
+224 9 1
+D0
+~
+cell~
+1 -1 22477
+Z3
+C-1
+R0
+S
+#22484
+{BO}{B}C{b}{W}e{w}{BO}{B}ll{b}~
+
+    {G}You wonder what type of beast can actually
+    survive in this stench and darkness. Curiosity
+    draws you into the cell and as you look around,
+    for the first time in your life you know what
+    fear really feels like. Each one of these cells
+    holds a different beast of some kind, and you
+    shiver to think which one you will encounter in
+    this cell!{g}
+
+~
+224 9 1
+D0
+~
+cell~
+1 -1 22474
+Z3
+C-1
+R0
+S
+#22485
+{BO}{B}C{b}{W}e{w}{BO}{B}ll{b}~
+
+    {G}You wonder what type of beast can actually
+    survive in this stench and darkness. Curiosity
+    draws you into the cell and as you look around,
+    for the first time in your life you know what
+    fear really feels like. Each one of these cells
+    holds a different beast of some kind, and you
+    shiver to think which one you will encounter in
+    this cell!{g}
+
+~
+224 9 1
+D2
+~
+cell~
+1 -1 22474
+Z3
+C-1
+R0
+S
+#22486
+{BO}{B}C{b}{W}e{w}{BO}{B}ll{b}~
+
+    {G}You wonder what type of beast can actually
+    survive in this stench and darkness. Curiosity
+    draws you into the cell and as you look around,
+    for the first time in your life you know what
+    fear really feels like. Each one of these cells
+    holds a different beast of some kind, and you
+    shiver to think which one you will encounter in
+    this cell!{g}
+
+~
+224 9 1
+D2
+~
+cell~
+1 -1 22475
+Z3
+C-1
+R0
+S
+#22487
+{BO}{B}C{b}{W}e{w}{BO}{B}ll{b}~
+
+    {G}You wonder what type of beast can actually
+    survive in this stench and darkness. Curiosity
+    draws you into the cell and as you look around,
+    for the first time in your life you know what
+    fear really feels like. Each one of these cells
+    holds a different beast of some kind, and you
+    shiver to think which one you will encounter in
+    this cell!{g}
+
+~
+224 9 1
+D0
+~
+cell~
+1 -1 22475
+Z3
+C-1
+R0
+S
+#22488
+{BO}{B}C{b}{W}e{w}{BO}{B}ll{b}~
+
+    {G}You wonder what type of beast can actually
+    survive in this stench and darkness. Curiosity
+    draws you into the cell and as you look around,
+    for the first time in your life you know what
+    fear really feels like. Each one of these cells
+    holds a different beast of some kind, and you
+    shiver to think which one you will encounter in
+    this cell!{g}
+
+~
+224 9 1
+D1
+~
+cell~
+1 -1 22472
+Z3
+C-1
+R0
+S
+#22489
+{BO}{B}C{b}{W}e{w}{BO}{B}ll{b}~
+
+    {G}You wonder what type of beast can actually
+    survive in this stench and darkness. Curiosity
+    draws you into the cell and as you look around,
+    for the first time in your life you know what
+    fear really feels like. Each one of these cells
+    holds a different beast of some kind, and you
+    shiver to think which one you will encounter in
+    this cell!{g}
+
+~
+224 9 1
+D3
+~
+cell~
+1 -1 22472
+Z3
+C-1
+R0
+S
+#22490
+{BO}{B}C{b}{W}e{w}{BO}{B}ll{b}~
+
+    {G}You wonder what type of beast can actually
+    survive in this stench and darkness. Curiosity
+    draws you into the cell and as you look around,
+    for the first time in your life you know what
+    fear really feels like. Each one of these cells
+    holds a different beast of some kind, and you
+    shiver to think which one you will encounter in
+    this cell!{g}
+
+~
+224 9 1
+D3
+~
+cell~
+1 -1 22471
+Z3
+C-1
+R0
+S
+#22491
+{BO}{B}C{b}{W}e{w}{BO}{B}ll{b}~
+
+    {G}You wonder what type of beast can actually
+    survive in this stench and darkness. Curiosity
+    draws you into the cell and as you look around,
+    for the first time in your life you know what
+    fear really feels like. Each one of these cells
+    holds a different beast of some kind, and you
+    shiver to think which one you will encounter in
+    this cell!{g}
+
+~
+224 9 1
+D1
+~
+cell~
+1 -1 22471
+Z3
+C-1
+R0
+S
+#22492
+Pit of Ghouls~
+
+    {Y}Fleeing for your life you flee and fall down into what seems to be a 
+    huge pit filled with debris, mostly bones. At least your safe from the 
+    ghastly ghouls is your first thought, then you see the ghouls buddies 
+    emerge from the shadows of the pit. Maybe you'll have more of a chance 
+    if you climb out of the pit and face the ghouls upstairs. Then you see 
+    the ghouls sliding down the sides of the pit blocking your way. Guess 
+    What? Now you're in deeper{y}........{BO}{B}SH{G}*{B}T{b}!!
+
+~
+224 9 1
+D3
+~
+~
+0 -1 22493
+X134217728
+Z3
+C-1
+R0
+S
+#22493
+Pit of Ghouls~
+
+    {BOL}{B}You try to run from the huge mass of ghouls piling up in the pit.
+    They aren't very fast movers but there are so many of them and
+    there's no obvious way out of here. Trying to run while making
+    sure not to trip on bones is one thing, dodging the ghouls
+    flinging themselves at you off the walls is another.{b}
+
+~
+224 9 1
+D0
+~
+~
+0 -1 22494
+D1
+~
+~
+0 -1 22492
+D3
+~
+~
+0 -1 22495
+Z3
+C-1
+R0
+S
+#22494
+Pit of Ghouls~
+
+    {BO}{W}The mass of ghouls clawing at you seems to be endless.  You beat 
+    off ghoul after ghoul {B}but to no avail as the onslaught continues. 
+    Then as you're about to give up hope, you see a {W}glimmer of light 
+    on the north wall. You rush towards the faint light and pray its 
+    sanctuary. {B}The light is emitting from a sparkling gem in the grasp 
+    of a dead skeleton. Up above you {W}the light reveals an exit. It leads 
+    back up to the dungeon floor. {B}Anything's better than being here{b}!!
+
+~
+224 9 1
+D2
+~
+~
+0 -1 22493
+D4
+~
+sanctuary~
+1 -1 22475
+Z3
+C-1
+R0
+S
+#22496
+Cell~
+
+    {BO}{B}You wonder what type of beast can actually survive in this stench 
+    and darkness. Curiosity draws you into the cell. {C}Unlike like the 
+    other cells you have wandered into, this one seems a bit different 
+    then the others, in the corner is a creature of likes you have never 
+    laid eyes on before. You approach the creature, as it appears to be 
+    harmless in nature. {B}It looks as though it's been trained to do what 
+    its master tells him to do. Observing the creature more closely you 
+    see something shining around the creatures neck{b}.
+
+~
+224 9 1
+D2
+~
+cell~
+1 -1 22479
+Z3
+C-1
+R0
+S
+#22497
+Cell~
+
+    {BO}{C}As soon as you enter the room, you realize its not just another cell.
+    There are no monsters in here, though observing the ground tells you 
+    that something has been here. You notice many torture devices hanging 
+    upon the fresh bloodstained walls of this particular cell. The thought 
+    of someone using them on another living creature, horrifies you. Looking 
+    around the cell you notice the back wall is made entirely of stone and 
+    brick, and is curiously different from the other walls{c}.
+
+~
+224 9 1
+D0
+~
+cell~
+1 -1 22479
+D2
+Upon closer inspection of the wall, you see nothing special. Strange!
+
+~
+Device~
+4 -1 22498
+E
+tracks~
+Upon the floor the marks make it appear as if some large beast was dragged 
+across the floor apparently against its will.
+~
+Z3
+C-1
+R0
+S
+#22498
+Chamber of The Magi~
+
+    {C}After walking through the moveable brick wall you enter a huge room.
+    Wow!! Is the first thing that enters your mind as you spot the piles
+    of gold, and jewels lying upon the floor. The entire room is lavishly
+    furnished, as it seems fit for a King! At the end of the chamber is a
+    huge bed, and resting upon it is the hugest, ugliest, ogre you have
+    ever seen...just snoring away{c}..{BO}{Y}ZZZzzz{y}...
+
+    {BO}{B}Luckily he hasn't been waken by your entrance. At his waist you see a key
+    in the shape of a skeleton. As you sneak over to get a closer look you hear
+    the faint sounds of growling beneath a pile of gold. Sheepishly you turn
+    around and notice that you were wrong! Out from the pile of gold a golden
+    two-headed lion appears, stealthily making its path towards you. This huge
+    beast of nature seems fixed on keeping you away from his Master{b}.
+
+    {BO}{B}Only thing left to do is{b}...{BO}{C}NOT DIE{c}!!!
+
+~
+224 4194441 1
+D0
+~
+Device~
+1 0 22497
+Z3
+C-1
+R0
+S
+#22499
+Ghoul Chute.~
+
+Mob Chute to 22495/22492,
+
+~
+224 65544 0
+D1
+~
+~
+0 -1 22492
+D3
+~
+~
+0 -1 22495
+Z-1
+C-1
+R0
+S
+$~

@@ -1,0 +1,2155 @@
+#44200
+{Y,BO}Ticket Counter{b}~
+
+{R}  As you go up to the ticket lady to purchase your ticket, a horn
+{R}  sounds and balloons fall all around you!
+
+{C,BO}  "Congratulations, you are our 1,000,000,000th traveler! You have
+{C,BO}  just won a free trip to Arrakis for you and your lucky friends!
+{C,BO}  Please proceed to the shuttle now!"{b}
+
+~
+442 16785416 1
+D0
+~
+~
+0 -1 44201
+D2
+~
+~
+0 -1 13987
+T44201
+X7342192
+Z-1
+C-1
+R0
+S
+#44201
+{R,BO}Launch Pad{b}~
+
+{R,BO}     SHUTTLE TO DUNE TAKES OFF IN T MINUS 10
+{G,BO}     Hey, that's your flight! Better hurry!{b}
+
+~
+442 8 1
+D2
+~
+~
+0 -1 44200
+Z-1
+C-1
+R0
+S
+#44202
+{R}Cafe Lounge{b}~
+
+{Y}  This is the lounge for those waiting for their flights. The
+{Y}  cashier behind the counter beams you a friendly smile while
+{Y}  taking orders. There are many comfortable seats surrounding
+{Y}  the tables, but most of them are occupied. Oh well, guess you
+{Y}  should move on....{y}
+
+~
+442 8 1
+D3
+~
+~
+0 -1 44298
+Z-1
+C-1
+R0
+S
+#44203
+{Y,BO}The Information Booth{b}~
+
+{CY,BO}  In front of you is the information counter, and
+{C,BO}  behind it is a fairly attractive woman. However,
+{C,BO}  you notice that whenever someone asks her a
+{C,BO}  question, she almost always simply points to a
+{C,BO}  {R,BO}BOARD {C,BO}posted above the booth.{b}
+
+~
+442 0 1
+D1
+~
+~
+0 -1 44298
+E
+Board~
+
+{Y}  Welcome to the desert planet of Dune! We hope your stay here will
+{Y}  be enjoyable. However, to ensure your safety, please keep the following
+{Y}  in mind. Please do not trespass on private property, as doing so may
+{Y}  result in unwanted violence. Please avoid contact with the Fremen, for
+{Y}  they are extremely unpredictable. Above all, watch out for the
+{Y}  spice worms in the open desert!
+
+~
+E
+board sign~
+
+{Y}  Welcome to the desert planet of Dune! {R}We hope your stay here will
+{R}  be enjoyable. However, to ensure your safety, please keep the following
+{R}  in mind. Please do not trespass on private property, as doing so may
+{R}  result in unwanted violence. Please avoid contact with the Fremen, for
+{R}  they are extremely unpredictable. And above all, watch out for the
+{R,BO}  spice worms{b} {R}in the open desert!{b}
+
+~
+Z-1
+C-1
+R0
+S
+#44204
+The Central Shuttle Station~
+
+{C}  There is a row of high speed shuttles parked in front of you.
+{C}  It seems there is one for almost every major location on this
+{C}  planet. There is a large {Y,BO}SIGN{b} {C}standing here. Well, this saves
+{C}  you the walk!{b}
+
+~
+442 0 1
+D2
+~
+~
+0 -1 44298
+E
+sign~
+
+{R,BO}  House Atreides
+{BLU,BO}  House Harkonnen
+{G,BO}  Sietch Tabr
+{C,BO}  Sietch Jacrutu {b}{C}- {R,BO}WARNING: GO AT YOUR OWN RISK!!
+{Y,BO}  Harkonnen Barracks{b}
+
+~
+Z-1
+C-1
+R0
+S
+#44205
+{C}In Front of {G}House Atreides{g}~
+
+{C}  In front of you are the towering gates leading to the house of
+{G}  Atreides{C}. Lush trees growing around the house indicate wealth.
+{C}  You wonder if you should knock....{c}
+
+~
+442 0 1
+D0
+~
+Gate~
+1 -1 44206
+Z-1
+C-1
+R0
+S
+#44206
+{C}The domed reception room{c}~
+
+{BLUE}  As you enter the room, the first thing that catches your
+{BLUE}  attention is the huge bull's head mounted on the far wall
+{BLUE}  which, upon closer examination, seems to have blood on
+{BLUE}  its horns! You wonder what brave warrior slayed this bull.{b}
+
+~
+442 0 1
+D0
+~
+~
+0 -1 44207
+D2
+~
+Gate~
+1 -1 44205
+Z-1
+C-1
+R0
+S
+#44207
+{C}A Hallway in {G}House Atreides{g}~
+
+{C}  You are in a long marble tiled hallway. Pictures of intimidating
+{C}  looking men line the sides. You notice that every name inscribed
+{C}  in the pictures end with {G}Atreides{C}. It is apparently a very
+{C}  long bloodline. Guards patrol the hall, looking at you suspiciously.
+
+{c}
+~
+442 0 1
+D0
+~
+~
+0 -1 44208
+D2
+~
+~
+0 -1 44206
+Z-1
+C-1
+R0
+S
+#44208
+{C}A Hallway in {G}House Atreides{g}~
+
+{C}  You are in a long marble tiled hallway. Pictures of intimidating
+{C}  looking men line the sides. You notice that every name inscribed
+{C}  in the pictures ends with {G}Atreides{C}. It is apparently a very
+{C}  long bloodline. Guards patrol the hall, looking at you suspiciously.{c}
+
+~
+442 4 1
+D0
+~
+~
+0 -1 44209
+D1
+~
+~
+0 -1 44212
+D2
+~
+~
+0 -1 44207
+D3
+~
+~
+0 -1 44225
+Z-1
+C-1
+R0
+S
+#44209
+{C}A Hallway in {G}House Atreides{g}~
+
+{C}  You are in a long marble tiled hallway. Pictures of intimidating
+{C}  looking men line the sides. You notice that every name inscribed
+{C}  in the pictures ends with {G}Atreides{C}. It is apparently a very
+{C}  long bloodline. Guards patrol the hall, looking at you suspiciously.{c}
+
+~
+442 0 1
+D0
+As you look northwards, you notice what appears to be a chip in the wall.
+Maybe you should investigate further...
+~
+Hidden~
+4 44201 44228
+D2
+~
+~
+0 -1 44208
+Z-1
+C-1
+R0
+S
+#44210
+{C}A well watered garden{b}~
+
+{G,BO}  You find yourself in a garden full of trees, flowers, and
+{G,BO}  shrubs. The water to keep the plants alive must have cost a
+{G,BO}  fortune! Birds flutter around in the trees, and gardeners are
+{G,BO}  working away busily to trim the plants. You wonder why anyone
+{G,BO}  would want a garden on a desert planet.{b}
+
+~
+442 0 1
+D0
+~
+~
+0 -1 44212
+D1
+~
+~
+0 -1 44211
+Z-1
+C-1
+R0
+S
+#44211
+{C}A well watered garden{b}~
+
+{G,BO}  You find yourself in a garden full of trees, flowers, and
+{G,BO}  shrubs. The water to keep the plants alive must have cost a
+{G,BO}  fortune! Birds flutter around in the trees, and gardeners are
+{G,BO}  working away busily to trim the plants. You wonder why anyone
+{G,BO}  would want a garden on a desert planet.{b}
+
+~
+442 0 1
+D0
+~
+~
+0 -1 44213
+D3
+~
+~
+0 -1 44210
+Z-1
+C-1
+R0
+S
+#44212
+{C}A well watered garden{b}~
+
+{G,BO}  You find yourself in a garden full of trees, flowers, and
+{G,BO}  shrubs. The water to keep the plants alive must have cost a
+{G,BO}  fortune! Birds flutter around in the trees, and gardeners are
+{G,BO}  working away busily to trim the plants. You wonder why anyone
+{G,BO}  would want a garden on a desert planet.{b}
+
+~
+442 0 1
+D0
+~
+~
+0 -1 44215
+D1
+~
+~
+0 -1 44213
+D2
+~
+~
+0 -1 44210
+D3
+~
+~
+0 -1 44208
+Z-1
+C-1
+R0
+S
+#44213
+{C}A well watered garden{b}~
+
+{G,BO}  You find yourself in a garden full of trees, flowers, and
+{G,BO}  shrubs. The water to keep the plants alive must have cost a
+{G,BO}  fortune! Birds flutter around in the trees, and gardeners are
+{G,BO}  working away busily to trim the plants. You wonder why anyone
+{G,BO}  would want a garden on a desert planet.{b}
+
+~
+442 0 1
+D0
+~
+~
+0 -1 44216
+D2
+~
+~
+0 -1 44211
+D3
+~
+~
+0 -1 44212
+Z-1
+C-1
+R0
+S
+#44214
+{C}A well watered garden{b}~
+
+{G,BO}  You find yourself in a garden full of trees, flowers, and
+{G,BO}  shrubs. The water to keep the plants alive must have cost a
+{G,BO}  fortune! Birds flutter around in the trees, and gardeners are
+{G,BO}  working away busily to trim the plants. You wonder why anyone
+{G,BO}  would want a garden on a desert planet.{b}
+
+~
+442 0 1
+D0
+~
+~
+0 -1 44217
+D1
+~
+~
+0 -1 44215
+Z-1
+C-1
+R0
+S
+#44215
+{C}A well watered garden{b}~
+
+{G,BO}  You find yourself in a garden full of trees, flowers, and
+{G,BO}  shrubs. The water to keep the plants alive must have cost a
+{G,BO}  fortune! Birds flutter around in the trees, and gardeners are
+{G,BO}  working away busily to trim the plants. You wonder why anyone
+{G,BO}  would want a garden on a desert planet.{b}
+
+~
+442 0 1
+D0
+~
+~
+0 -1 44218
+D1
+~
+~
+0 -1 44216
+D2
+~
+~
+0 -1 44212
+D3
+~
+~
+0 -1 44214
+Z-1
+C-1
+R0
+S
+#44216
+{C}A well watered garden{b}~
+
+{G,BO}  You find yourself in a garden full of trees, flowers, and
+{G,BO}  shrubs. The water to keep the plants alive must have cost a
+{G,BO}  fortune! Birds flutter around in the trees, and gardeners are
+{G,BO}  working away busily to trim the plants. You wonder why anyone
+{G,BO}  would want a garden on a desert planet.{b}
+
+~
+442 0 1
+D2
+~
+~
+0 -1 44213
+D3
+~
+~
+0 -1 44215
+Z-1
+C-1
+R0
+S
+#44217
+{C}A well watered garden{b}~
+
+{G,BO}  You find yourself in a garden full of trees, flowers, and
+{G,BO}  shrubs. The water to keep the plants alive must have cost a
+{G,BO}  fortune! Birds flutter around in the trees, and gardeners are
+{G,BO}  working away busily to trim the plants. You wonder why anyone
+{G,BO}  would want a garden on a desert planet.{b}
+
+~
+442 0 1
+D1
+~
+~
+0 -1 44218
+D2
+~
+~
+0 -1 44214
+Z-1
+C-1
+R0
+S
+#44218
+{C}A well watered garden{b}~
+
+{G,BO}  You find yourself in a garden full of trees, flowers, and
+{G,BO}  shrubs. The water to keep the plants alive must have cost a
+{G,BO}  fortune! Birds flutter around in the trees, and gardeners are
+{G,BO}  working away busily to trim the plants. You wonder why anyone
+{G,BO}  would want a garden on a desert planet.{b}
+
+~
+442 0 1
+D1
+~
+~
+0 -1 44219
+D2
+~
+~
+0 -1 44215
+D3
+~
+~
+0 -1 44217
+Z-1
+C-1
+R0
+S
+#44219
+{C}Weirding Room{b}~
+
+{R,BO}  As you step into the room, any connections with magic you had
+{R,BO}  suddenly disappear. Your head starts aching, and your vision
+{R,BO}  blurs. This room can be fatal for those not trained in the
+{R,BO}  Weirding ways...{b}
+
+~
+442 4211892 1
+D3
+~
+~
+0 -1 44218
+X5243075
+Z-1
+C-1
+R0
+S
+#44220
+{Y,BO}A chamber for training{b}~
+
+{R}  You are in a large training hall. You hear the sound of combat coming
+{R}  from all around you. Warriors and sparring dummies circle each other
+{R}  in what only can be called duets, moving throughout the room. Careful,
+{R}  or they might mistake you for a target!{r}
+
+~
+442 0 1
+D1
+~
+~
+0 -1 44221
+D2
+~
+~
+0 -1 44222
+D3
+~
+~
+0 -1 44227
+Z-1
+C-1
+R0
+S
+#44221
+{Y,BO}A chamber for training{b}~
+
+{R}  You are in a large training hall. You hear the sound of combat coming
+{R}  from all around you. Warriors and sparring dummies circle each other
+{R}  in what only can be called duets, moving throughout the room.
+{R}  Careful, or they might mistake you for a target!{b}
+
+~
+442 0 1
+D0
+~
+Door~
+1 44200 44226
+D2
+~
+~
+0 -1 44223
+D3
+~
+~
+0 -1 44220
+Z-1
+C-1
+R0
+S
+#44222
+{Y,BO}A chamber for training{b}~
+
+{R}  You are in a large training hall. You hear the sound of combat coming
+{R}  from all around you. Warriors and sparring dummies circle each other
+{R}  in what only can be called duets, moving throughout the room.
+{R}  Careful, or they might mistake you for a target!{b}
+
+~
+442 0 1
+D0
+~
+~
+0 -1 44220
+D1
+~
+~
+0 -1 44223
+D2
+~
+~
+0 -1 44224
+Z-1
+C-1
+R0
+S
+#44223
+{Y,BO}A chamber for training{b}~
+
+{R}  You are in a large training hall. You hear the sound of combat coming
+{R}  from all around you. Warriors and sparring dummies circle each other
+{R}  in what only can be called duets, moving throughout the room.
+{R}  Careful, or they might mistake you for a target!{b}
+
+~
+442 0 1
+D0
+~
+~
+0 -1 44221
+D2
+~
+~
+0 -1 44225
+D3
+~
+~
+0 -1 44222
+Z-1
+C-1
+R0
+S
+#44224
+{Y,BO}A chamber for training{b}~
+
+{R}  You are in a large training hall. You hear the sound of combat coming
+{R}  from all around you. Warriors and sparring dummies circle each other
+{R}  in what only can be called duets, moving throughout the room.
+{R}  Careful, or they might mistake you for a target!{b}
+
+~
+442 0 1
+D0
+~
+~
+0 -1 44222
+D1
+~
+~
+0 -1 44225
+Z-1
+C-1
+R0
+S
+#44225
+{Y,BO}A chamber for training{b}~
+
+{R}  You are in a large training hall. You hear the sound of combat coming
+{R}  from all around you. Warriors and sparring dummies circle each other
+{R}  in what only can be called duets, moving throughout the room.
+{R}  Careful, or they might mistake you for a target!{b}
+
+~
+442 0 1
+D0
+~
+~
+0 -1 44223
+D1
+~
+~
+0 -1 44208
+D3
+~
+~
+0 -1 44224
+Z-1
+C-1
+R0
+S
+#44226
+{BLA,BO}The Testing Chamber{b}~
+
+{BLA,BO}  This room is where new recruits to the {b}{G}Atreides {BLA,BO}household are
+{BLA,BO}  tested on their skills as warriors. The ones that pass go on to
+{BLA,BO}  become the personal guards of the {b}{G}Atreides {BLA,BO}family line.
+{BLA,BO}  Standing in the middle of the room is a man that looks like
+{BLA,BO}  he has seen many battles. Surprisingly, he is playing music on
+{BLA,BO}  a baliset, while observing the ongoing battles.{b}
+
+~
+442 0 1
+D2
+~
+Door~
+2 44200 44221
+Z-1
+C-1
+R0
+S
+#44227
+{C,BO}An Extremely Dangerous 12 Crystal Dummy{b}~
+
+{R,BO}  As you walk in, a multi-purpose training dummy comes to life.
+{R,BO}  However, you notice that unlike the previous ones, this one has
+{R,BO}  12 lights activated! You realize too late that this is the personal
+{R,BO}  training dummy of {G,BO}Paul Atreides{R,BO}, and is way beyond your level!
+{R,BO}  As you try to escape, the dummy rushes forward in a blur. Before
+{R,BO}  you can even scream, it is upon you.....{b}
+
+~
+442 4 1
+D1
+~
+~
+0 -1 44220
+Z-1
+C2
+R0
+S
+#44228
+{M}Paul's Bedroom{b}~
+
+{C}  You are standing in the middle of a sleeping chamber. It is
+{C}  surprisingly empty, with nothing more than a bed, a few glow globes,
+{C}  and a desk.  Standing in the middle of the room is an old shriveled 
+{C}  hag, who looks surprised and quite indignant that you are here.{b}
+
+~
+442 0 1
+D2
+~
+Hidden~
+1 44201 44209
+Z-1
+C-1
+R0
+S
+#44229
+{BLU,BO}In front of the Harkonnen barracks{b}~
+
+{R}  You are now standing in front of the Harkonnen training barracks.
+{R}  This is where the Barron's personal forces are trained, undergoing
+{R}  brutal ordeals. You notice that everyone seems to talk and smile less
+{R}  while passing by its doors. A large sign at the door reads:
+
+{R,BO}               PRIVATE PROPERTY: KEEP OFF!{b}
+
+~
+442 0 1
+D0
+~
+door~
+1 -1 44230
+Z-1
+C-1
+R0
+S
+#44230
+{BLU,BO}A guard station{b}~
+
+{R}  This room is very sparsely furnished. Several well armed guards
+{R}  wearing {Y}Harkonnen {R}uniforms sit around a table, playing pyramid chess.
+{R}  They seem to be enjoying themselves, laughing and joking. However,
+{R}  as soon as they see you, their smiles disappear, and they reach for
+{R}  their weapons.{b}
+
+~
+442 4 1
+D0
+~
+Entrance~
+1 -1 44231
+D2
+~
+door~
+1 -1 44229
+Z-1
+C-1
+R0
+S
+#44231
+{R,BO}The Battle Arena{b}~
+
+{Y}  You are standing in one of the many battle arenas of the Harkonnen
+{Y}  barracks. Trainees wearing nothing but loincloths fight desperately
+{Y}  against trained {R}Harkonnen warriors{Y}. You are filled with horror as
+{Y}  you realize that all the weapons are quite real. The {R}Harkonnens
+{Y}  truly deserve their ruthless reputation. {R,BO}Bl{b}{R}oo{R,BO}d st{b}{R}ai{R,BO}ns{b}{Y} every
+{Y}  corner of this room!{b}
+
+~
+442 0 1
+D0
+~
+~
+0 -1 44235
+D1
+~
+~
+0 -1 44233
+D2
+~
+Entrance~
+1 -1 44230
+D3
+~
+~
+0 -1 44232
+Z-1
+C-1
+R0
+S
+#44232
+{R,BO}The Battle Arena{b}~
+
+{Y}  You are standing in one of the many battle arenas of the Harkonnen
+{Y}  barracks. Trainees wearing nothing but loincloths fight desperately
+{Y}  against trained {R}Harkonnen warriors{Y}. You are filled with horror as
+{Y}  you realize that all the weapons are quite real. The {R}Harkonnens
+{Y}  truly deserve their ruthless reputation. {R,BO}Bl{b}{R}oo{R,BO}d st{b}{R}ai{R,BO}ns{b}{Y} every
+{Y}  corner of this room!{b}
+
+~
+442 0 1
+D0
+~
+~
+0 -1 44234
+D1
+~
+~
+0 -1 44231
+Z-1
+C-1
+R0
+S
+#44233
+{R,BO}The Battle Arena{b}~
+
+{Y}  You are standing in one of the many battle arenas of the Harkonnen
+{Y}  barracks. Trainees wearing nothing but loincloths fight desperately
+{Y}  against trained {R}Harkonnen warriors{Y}. You are filled with horror as
+{Y}  you realize that all the weapons are quite real. The {R}Harkonnens
+{Y}  truly deserve their ruthless reputation. {R,BO}Bl{b}{R}oo{R,BO}d st{b}{R}ai{R,BO}ns{b}{Y} every
+{Y}  corner of this room!{b}
+
+~
+442 0 1
+D0
+~
+~
+0 -1 44236
+D3
+~
+~
+0 -1 44231
+Z-1
+C-1
+R0
+S
+#44234
+{R,BO}The Battle Arena{b}~
+
+{Y}  You are standing in one of the many battle arenas of the Harkonnen
+{Y}  barracks. Trainees wearing nothing but loincloths fight desperately
+{Y}  against trained {R}Harkonnen warriors{Y}. You are filled with horror as
+{Y}  you realize that all the weapons are quite real. The {R}Harkonnens
+{Y}  truly deserve their ruthless reputation. {R,BO}Bl{b}{R}oo{R,BO}d st{b}{R}ai{R,BO}ns{b}{Y} every
+{Y}  corner of this room!{b}
+
+~
+442 0 1
+D0
+~
+~
+0 -1 44237
+D1
+~
+~
+0 -1 44235
+D2
+~
+~
+0 -1 44232
+Z-1
+C-1
+R0
+S
+#44235
+{R,BO}The Battle Arena{b}~
+
+{Y}  You are standing in one of the many battle arenas of the Harkonnen
+{Y}  barracks. Trainees wearing nothing but loincloths fight desperately
+{Y}  against trained {R}Harkonnen warriors{Y}. You are filled with horror as
+{Y}  you realize that all the weapons are quite real. The {R}Harkonnens
+{Y}  truly deserve their ruthless reputation. {R,BO}Bl{b}{R}oo{R,BO}d st{b}{R}ai{R,BO}ns{b}{Y} every
+{Y}  corner of this room!{b}
+
+~
+442 0 1
+D0
+~
+~
+0 -1 44238
+D1
+~
+~
+0 -1 44236
+D2
+~
+~
+0 -1 44231
+D3
+~
+~
+0 -1 44234
+Z-1
+C-1
+R0
+S
+#44236
+{R,BO}The Battle Arena{b}~
+
+{Y}  You are standing in one of the many battle arenas of the Harkonnen
+{Y}  barracks. Trainees wearing nothing but loincloths fight desperately
+{Y}  against trained {R}Harkonnen warriors{Y}. You are filled with horror as
+{Y}  you realize that all the weapons are quite real. The {R}Harkonnens
+{Y}  truly deserve their ruthless reputation. {R,BO}Bl{b}{R}oo{R,BO}d st{b}{R}ai{R,BO}ns{b}{Y} every
+{Y}  corner of this room!{b}
+
+~
+442 0 1
+D0
+~
+~
+0 -1 44239
+D2
+~
+~
+0 -1 44233
+D3
+~
+~
+0 -1 44235
+Z-1
+C-1
+R0
+S
+#44237
+{R,BO}The Battle Arena{b}~
+
+{Y}  You are standing in one of the many battle arenas of the Harkonnen
+{Y}  barracks. Trainees wearing nothing but loincloths fight desperately
+{Y}  against trained {R}Harkonnen warriors{Y}. You are filled with horror as
+{Y}  you realize that all the weapons are quite real. The {R}Harkonnens
+{Y}  truly deserve their ruthless reputation. {R,BO}Bl{b}{R}oo{R,BO}d st{b}{R}ai{R,BO}ns{b}{Y} every
+{Y}  corner of this room!{b}
+
+~
+442 0 1
+D0
+~
+~
+0 -1 44240
+D1
+~
+~
+0 -1 44238
+D2
+~
+~
+0 -1 44234
+Z-1
+C-1
+R0
+S
+#44238
+{R,BO}The Battle Arena{b}~
+
+{Y}  You are standing in one of the many battle arenas of the Harkonnen
+{Y}  barracks. Trainees wearing nothing but loincloths fight desperately
+{Y}  against trained {R}Harkonnen warriors{Y}. You are filled with horror as
+{Y}  you realize that all the weapons are quite real. The {R}Harkonnens
+{Y}  truly deserve their ruthless reputation. {R,BO}Bl{b}{R}oo{R,BO}d st{b}{R}ai{R,BO}ns{b}{Y} every
+{Y}  corner of this room!{b}
+
+~
+442 0 1
+D0
+~
+~
+0 -1 44241
+D1
+~
+~
+0 -1 44239
+D2
+~
+~
+0 -1 44235
+D3
+~
+~
+0 -1 44237
+Z-1
+C-1
+R0
+S
+#44239
+{R,BO}The Battle Arena{b}~
+
+{Y}  You are standing in one of the many battle arenas of the Harkonnen
+{Y}  barracks. Trainees wearing nothing but loincloths fight desperately
+{Y}  against trained {R}Harkonnen warriors{Y}. You are filled with horror as
+{Y}  you realize that all the weapons are quite real. The {R}Harkonnens
+{Y}  truly deserve their ruthless reputation. {R,BO}Bl{b}{R}oo{R,BO}d st{b}{R}ai{R,BO}ns{b}{Y} every
+{Y}  corner of this room!{b}
+
+~
+442 0 1
+D0
+~
+~
+0 -1 44242
+D2
+~
+~
+0 -1 44236
+D3
+~
+~
+0 -1 44238
+Z-1
+C-1
+R0
+S
+#44240
+{R,BO}The Battle Arena{b}~
+
+{Y}  You are standing in one of the many battle arenas of the Harkonnen
+{Y}  barracks. Trainees wearing nothing but loincloths fight desperately
+{Y}  against trained {R}Harkonnen warriors{Y}. You are filled with horror as
+{Y}  you realize that all the weapons are quite real. The {R}Harkonnens
+{Y}  truly deserve their ruthless reputation. {R,BO}Bl{b}{R}oo{R,BO}d st{b}{R}ai{R,BO}ns{b}{Y} every
+{Y}  corner of this room!{b}
+
+~
+442 0 1
+D1
+~
+~
+0 -1 44241
+D2
+~
+~
+0 -1 44237
+Z-1
+C-1
+R0
+S
+#44241
+{R,BO}The Battle Arena{b}~
+
+{Y}  You are standing in one of the many battle arenas of the Harkonnen
+{Y}  barracks. Trainees wearing nothing but loincloths fight desperately
+{Y}  against trained {R}Harkonnen warriors{Y}. You are filled with horror as
+{Y}  you realize that all the weapons are quite real. The {R}Harkonnens
+{Y}  truly deserve their ruthless reputation. {R,BO}Bl{b}{R}oo{R,BO}d st{b}{R}ai{R,BO}ns{b}{Y} every
+{Y}  corner of this room!{b}
+
+~
+442 0 1
+D1
+~
+~
+0 -1 44242
+D2
+~
+~
+0 -1 44238
+D3
+~
+~
+0 -1 44240
+Z-1
+C-1
+R0
+S
+#44242
+{R,BO}The Battle Arena{b}~
+
+{Y}  You are standing in one of the many battle arenas of the Harkonnen
+{Y}  barracks. Trainees wearing nothing but loincloths fight desperately
+{Y}  against trained {R}Harkonnen warriors{Y}. You are filled with horror as
+{Y}  you realize that all the weapons are quite real. The {R}Harkonnens
+{Y}  truly deserve their ruthless reputation. {R,BO}Bl{b}{R}oo{R,BO}d st{b}{R}ai{R,BO}ns{b}{Y} every
+{Y}  corner of this room!{b}
+
+~
+442 0 1
+D2
+~
+~
+0 -1 44239
+D3
+~
+~
+0 -1 44241
+Z-1
+C-1
+R0
+S
+#44243
+{BLU,BO}Before the Gates of House Harkonnen{b}~
+
+{R}  The gates before you are large and rather intimidating.
+{R}  You notice that anyone caught loitering here is immediately driven
+{R}  away by well armed and mean looking guards. This is the residence
+{R}  of the {Y}Baron{R}. Do you really wish to enter?{r}
+
+~
+442 0 1
+D0
+~
+Gates~
+1 44219 44244
+Z-1
+C-1
+R0
+S
+#44244
+{M}Reception room{b}~
+
+{R}  A well groomed receptionist sits behind a counter. He smiles as
+{R}  you walk in, but that quickly changes into a frown as he realizes
+{R}  that you are both armed and unwelcome.
+
+{R,BO}  GUARDS! INTRUDERS!{b}
+
+{R}  Uh oh, looks like more trouble!{b}
+
+~
+442 0 1
+D0
+~
+~
+0 -1 44249
+D2
+~
+Gates~
+1 -1 44243
+D3
+~
+~
+0 -1 44245
+Z-1
+C-1
+R0
+S
+#44245
+{R}A bloody dungeon{b}~
+
+{R}  You are in the dungeons of the {Y}Baron Harkonnen{R}. This is where
+{R}  all his defeated opponents are {R,BO}tortured {b}{R}and eventually {R,BO}killed{b}{R}.
+{R}  The {Y}Baron {R}sometimes likes to come here personally to witness
+{R}  their death. You notice that most of the prisoners have a
+{R}  {M,BO}crazed{b}{R} look on their faces, having snapped under all the {R,BO}pain{b}{R}.{b}
+
+~
+442 0 1
+D0
+~
+~
+0 -1 44246
+D1
+~
+~
+0 -1 44244
+Z-1
+C-1
+R0
+S
+#44246
+{R}A bloody dungeon{b}~
+
+{R}  You are in the dungeons of the {Y}Baron Harkonnen{R}. This is where
+{R}  all his defeated opponents are {R,BO}tortured {b}{R}and eventually {R,BO}killed{b}{R}.
+{R}  The {Y}Baron {R}sometimes likes to come here personally to witness
+{R}  their death. You notice that most of the prisoners have a
+{R}  {M,BO}crazed{b}{R} look on their faces, having snapped under all the {R,BO}pain{b}{R}.{b}
+
+~
+442 0 1
+D0
+~
+~
+0 -1 44247
+D2
+~
+~
+0 -1 44245
+Z-1
+C-1
+R0
+S
+#44247
+{R}A bloody dungeon{b}~
+
+{R}  You are in the dungeons of the {Y}Baron Harkonnen{R}. This is where
+{R}  all his defeated opponents are {R,BO}tortured {b}{R}and eventually {R,BO}killed{b}{R}.
+{R}  The {Y}Baron {R}sometimes likes to come here personally to witness
+{R}  their death. You notice that most of the prisoners have a
+{R}  {M,BO}crazed{b}{R} look on their faces, having snapped under all the {R,BO}pain{b}{R}.{b}
+
+~
+442 0 1
+D0
+~
+~
+0 -1 44248
+D2
+~
+~
+0 -1 44246
+Z-1
+C-1
+R0
+S
+#44248
+{R,BO}Torture Room{b}~
+
+{BLA,BO}  A mean looking {R}torturer {BLA}stands here, extracting information
+{BLA,BO}  from the poor souls assigned to him. Weapons of pain litter
+{BLA,BO}  the floor and walls. {R}Dried bl{b}{R}oo{R,BO}d sm{b}{R}ea{R,BO}rs are visible everywhere.
+{BLA,BO}  Death is better than what the prisoners have to go through
+{BLA,BO}  in here.{b}
+
+~
+442 0 1
+D2
+~
+~
+0 -1 44247
+Z-1
+C-1
+R0
+S
+#44249
+{BLA,BO}An oppressive hallway{b}~
+
+{BLA,BO}  You are in a dark and silent hallway. You can almost feel the
+{BLA,BO}  suffering emanating from the walls. You should move along as
+{BLA,BO}  fast as you can.{b}
+
+~
+442 0 1
+D1
+~
+~
+0 -1 44250
+D2
+~
+~
+0 -1 44244
+D4
+~
+~
+0 -1 44253
+Z-1
+C-1
+R0
+S
+#44250
+{Y,BO}A Pleasure room{b}~
+
+{C,BO}  As you enter, you are immediately surrounded by groups of half
+{Y,BO}  naked boys{C,BO}. This is the pleasure section of the house, reserved 
+{C,BO}  for the {b}{Y}Baron {C,BO}and his highest {R,BO}commanders{C,BO}. They seem friendly
+{C,BO}  enough, maybe you can relax here.... Then again, the daggers
+{C,BO}  the boys are pulling out of their pants probably aren't for show!
+
+~
+442 16777225 4
+D0
+~
+~
+0 -1 44251
+D3
+~
+~
+0 -1 44249
+X7342192
+Z-1
+C-1
+R0
+S
+#44251
+{Y,BO}A Pleasure room{b}~
+
+{C,BO}  As you enter, you are immediately surrounded by groups of half
+{Y,BO}  naked boys{C,BO}. This is the pleasure section of the house, reserved 
+{C,BO}  for the {b}{Y}Baron {C,BO}and his highest {R,BO}commanders{C,BO}. They seem friendly
+{C,BO}  enough, maybe you can relax here.... Then again, the daggers
+{C,BO}  the boys are pulling out of their pants probably aren't for show!
+
+~
+442 16777225 4
+D0
+~
+~
+0 -1 44252
+D2
+~
+~
+0 -1 44250
+X7342192
+Z-1
+C-1
+R0
+S
+#44252
+{Y,BO}A Pleasure room{b}~
+
+{C,BO}  As you enter, you are immediately surrounded by groups of half
+{Y,BO}  naked boys{C,BO}. This is the pleasure section of the house, reserved 
+{C,BO}  for the {b}{Y}Baron {C,BO}and his highest {R,BO}commanders{C,BO}. They seem friendly
+{C,BO}  enough, maybe you can relax here.... Then again, the daggers
+{C,BO}  the boys are pulling out of their pants probably aren't for show!
+
+~
+442 16777225 4
+D2
+~
+~
+0 -1 44251
+X7342192
+Z-1
+C-1
+R0
+S
+#44253
+{C}Stairs to the sleeping quarters{b}~
+
+{Y}  You are on the stairs heading up towards the sleeping quarters.
+{Y}  Surprisingly, there are no guards or other forms of security.
+{Y}  The Baron apparently believes that no one can get past the lower
+{Y}  guards! What a fool...{b}
+
+~
+442 0 1
+D4
+~
+~
+0 -1 44254
+D5
+~
+~
+0 -1 44249
+Z-1
+C-1
+R0
+S
+#44254
+{R,BO}Baron's antechamber{b}~
+
+{M}  Well, this is the {Y}Baron's {M}antechamber. A large door to the
+{M}  north leads to his sleeping quarters. There is a rather large
+{M}  painting hanging on the wall, depicting the {Y}Baron{M}. As you walk
+{M}  into the room, you hear an odd humming noise.{b}
+
+~
+442 0 1
+D0
+~
+~
+0 -1 44256
+D1
+~
+picture~
+1 44220 44255
+D5
+~
+~
+0 -1 44253
+E
+painting~
+
+This is a full sized painting of the Baron, decked out in
+his finest. Surprisingly, there seems to be a corner of it missing.
+You wonder who would have the audacity to mar the Baron's
+picture...
+
+~
+Z-1
+C-1
+R0
+S
+#44255
+{R,BO}Baron's Chamber{b}~
+
+{M}  You are standing in the Baron's chambers. All around you are
+{M}  signs of opulence and sloth. All the furnishings are made of sturdy
+{M}  materials to withstand the Baron's fiery temper.{b}
+
+~
+442 16520 1
+D3
+~
+picture~
+1 -1 44254
+Z-1
+C-1
+R0
+S
+#44256
+{R,BO}Baron's Chamber{b}~
+
+{G,BO}  Uh oh! It seems you've fallen into a trap! This isn't the Baron's
+{G,BO}  chambers! You realize this too late as poisonous gas fills the room
+{G,BO}  and the door seals behind you...{b}
+
+~
+442 2 1
+Z-1
+C-1
+R0
+S
+#44257
+{Y}Before the desert{b}~
+
+{Y}  As you step off the shuttle, the first thing you notice is the
+{Y}  overwhelming heat. You wonder how the Fremen manage to survive this
+{Y}  brutal onslaught every day. Before you, as far as you can see, is an
+{Y}  endless desert. You almost give up in despair as you consider crossing it.{b}
+
+~
+442 17492 1
+D1
+~
+~
+0 -1 44258
+Z-1
+C-1
+R0
+S
+#44258
+{Y}Sands of an Interminable Desert{b}~
+
+{Y}  You are now crossing the desert, following the thumpers set
+{Y}  out by Fremen explorers. Hopefully, this will lead you to Sietch
+{Y}  Tabr. You have no choice to but continue forwards.{b}
+
+~
+442 80 1
+D2
+~
+~
+0 -1 44259
+D3
+~
+~
+0 -1 44257
+Z-1
+C-1
+R0
+S
+#44259
+{Y}Sands of an Interminable Desert{b}~
+
+{Y}  You are now crossing the desert, following the thumpers set
+{Y}  out by Fremen explorers. Hopefully, this will lead you to Sietch
+{Y}  Tabr. You have no choice to but continue forwards.{b}
+
+~
+442 80 1
+D0
+~
+~
+0 -1 44258
+D2
+~
+~
+0 -1 44262
+D3
+~
+~
+0 -1 44260
+Z-1
+C-1
+R0
+S
+#44260
+{Y}Sands of an Interminable Desert{b}~
+
+{Y}  You are now crossing the desert, following the thumpers set
+{Y}  out by Fremen explorers. Hopefully, this will lead you to Sietch
+{Y}  Tabr. You have no choice to but continue forwards.{b}
+
+~
+442 80 1
+D0
+~
+~
+0 -1 44261
+D1
+~
+~
+0 -1 44259
+Z-1
+C-1
+R0
+S
+#44261
+{Y}Sands of an Interminable Desert{b}~
+
+{Y}  You are now crossing the desert, following the thumpers set
+{Y}  out by Fremen explorers. Hopefully, this will lead you to Sietch
+{Y}  Tabr. You have no choice to but continue forwards.{b}
+
+~
+442 80 1
+D0
+~
+~
+0 -1 44263
+D2
+~
+~
+0 -1 44260
+Z-1
+C-1
+R0
+S
+#44262
+{BLA,BO}Spice Blow{b}~
+
+{Y}  Uh oh, you stepped right onto a spice blow! You feel the ground
+{Y}  shaking beneath you, and your life flashes before your eyes
+{Y}  as gallons after gallons of Melange spew from the ground,
+{Y}  enveloping and boiling you in mere micro-seconds.{b}
+
+~
+442 2 1
+Z-1
+C-1
+R0
+S
+#44263
+{M}Before Sietch Tabr{b}~
+
+{M}  You are now standing in front of Sietch Tabr, lead by
+{M}  Stilgar, father of Chani. This sietch gained its fame as the
+{M}  home of Paul Muad'dib and his mother. Few set foot into a sietch
+{M}  uninvited and return alive. Good luck...{b}
+
+~
+442 0 1
+D1
+~
+entrance~
+1 44217 44265
+D2
+~
+~
+0 -1 44261
+Z-1
+C-1
+R0
+S
+#44264
+{R}Chani's Room{b}~
+
+{M}  This is the room of Chani, daughter of Stilgar and mother
+{M}  of Paul's children. Everywhere you look, you see objects
+{M}  that belong to Paul. It is obvious he spends a lot of
+{M}  time in here, but unfortunately he is not here right now.{b}
+
+~
+442 8 1
+D2
+~
+Door~
+1 -1 44265
+Z-1
+C-1
+R0
+S
+#44265
+{C}The Common Room{b}~
+
+{Y}  You are now in the common room of Sietch Tabr. Glow globes are
+{Y}  set in nooks and corners, lighting up the cavern. Sleeping
+{Y}  cots lie around the chamber, and many weary Fremen are resting
+{Y}  here. They immediately recognize you as a threat, and pick up
+{Y}  their weapons.{b}
+
+~
+442 8 1
+D0
+~
+Door~
+1 -1 44264
+D1
+~
+Door~
+1 -1 44267
+D3
+~
+entrance~
+1 -1 44263
+Z-1
+C-1
+R0
+S
+#44267
+{WH,BO}Stilgar's Room{b}~
+
+{R}  This is the residence of {BLU,BO}Stilgar{b}{R}, leader of the {BLU,BO}Fremen{b}{R}.
+{R}  The room is surprisingly cluttered with the essentials of
+{R}  everyday {BLU,BO}Fremen {b}{R}life: Maker hooks, stillsuit repair kits,
+{R}  Melange bread, daggers, and other weapons. {BLU,BO}Stilgar {b}{R}is skilled
+{R}  in the use of every one of these.{b}
+
+~
+442 8 1
+D3
+~
+Door~
+1 -1 44265
+Z-1
+C2
+R0
+S
+#44268
+{Y,BO}CRASH!{b}~
+
+{Y,BO}  KABOOM! {R,BO}A tremendous roar deafens your ears, and the next
+{R,BO}  thing you know you are tumbling through the air, landing
+{R,BO}  flat on your face. As you get up, you immediately notice
+{R,BO}  the conflagration that used to be your shuttle. A well
+{R,BO}  placed missile has just decommissioned it. You wonder who
+{R,BO}  fired it. As you quickly scan the land around you you think
+{b}{Y}  you see movement up on the sand ridges, but it quickly
+{Y}  disappears, and you are not sure.{b}
+
+~
+442 16 4
+D0
+~
+~
+0 -1 44269
+Z-1
+C-1
+R0
+S
+#44269
+{Y}The Sands of Jacrutu{b}~
+
+{Y}  Everywhere you look there is nothing but sand.
+{Y}  The {BLU,BO}Fremen {b}{Y}have worked hard to hide this most
+{Y}  sacred of sietchs. You have a feeling they do
+{Y}  not want you to discover it. Even more unsettling,
+{Y}  however, is the fact that {Y,BO}Worm {b}{Y}trails are visible
+{Y}  throughout this area. You really hope you don't
+{Y}  come across a full grown Maker.{b}
+
+~
+442 16 4
+D0
+~
+~
+0 -1 44262
+D1
+~
+~
+0 -1 44270
+D2
+~
+~
+0 -1 44268
+D3
+~
+~
+0 -1 44269
+Z-1
+C-1
+R0
+S
+#44270
+{Y}The Sands of Jacrutu{b}~
+
+{Y}  Everywhere you look there is nothing but sand.
+{Y}  The {BLU,BO}Fremen {b}{Y}have worked hard to hide this most
+{Y}  sacred of sietchs. You have a feeling they do
+{Y}  not want you to discover it. Even more unsettling,
+{Y}  however, is the fact that {Y,BO}Worm {b}{Y}trails are visible
+{Y}  throughout this area. You really hope you don't
+{Y}  come across a full grown Maker.{b}
+
+~
+442 16 1
+D0
+~
+~
+0 -1 44262
+D1
+~
+~
+0 -1 44271
+D2
+~
+~
+0 -1 44270
+D3
+~
+~
+0 -1 44269
+Z-1
+C-1
+R0
+S
+#44271
+{Y}The Sands of Jacrutu{b}~
+
+{Y}  Everywhere you look there is nothing but sand.
+{Y}  The {BLU,BO}Fremen {b}{Y}have worked hard to hide this most
+{Y}  sacred of sietchs. You have a feeling they do
+{Y}  not want you to discover it. Even more unsettling,
+{Y}  however, is the fact that {Y,BO}Worm {b}{Y}trails are visible
+{Y}  throughout this area. You really hope you don't
+{Y}  come across a full grown Maker.{b}
+
+~
+442 16 1
+D0
+~
+~
+0 -1 44271
+D1
+~
+~
+0 -1 44262
+D2
+~
+~
+0 -1 44272
+D3
+~
+~
+0 -1 44270
+Z-1
+C-1
+R0
+S
+#44272
+{Y}The Sands of Jacrutu{b}~
+
+{Y}  Everywhere you look there is nothing but sand.
+{Y}  The {BLU,BO}Fremen {b}{Y}have worked hard to hide this most
+{Y}  sacred of sietchs. You have a feeling they do
+{Y}  not want you to discover it. Even more unsettling,
+{Y}  however, is the fact that {Y,BO}Worm {b}{Y}trails are visible
+{Y}  throughout this area. You really hope you don't
+{Y}  come across a full grown Maker.{b}
+
+~
+442 16 1
+D0
+~
+~
+0 -1 44272
+D1
+~
+~
+0 -1 44273
+D2
+~
+~
+0 -1 44270
+D3
+~
+~
+0 -1 44269
+Z-1
+C-1
+R0
+S
+#44273
+{Y}The Sands of Jacrutu{b}~
+
+{Y}  Everywhere you look there is nothing but sand.
+{Y}  The {BLU,BO}Fremen {b}{Y}have worked hard to hide this most
+{Y}  sacred of sietchs. You have a feeling they do
+{Y}  not want you to discover it. Even more unsettling,
+{Y}  however, is the fact that {Y,BO}Worm {b}{Y}trails are visible
+{Y}  throughout this area. You really hope you don't
+{Y}  come across a full grown Maker.{b}
+
+~
+442 16 1
+D0
+~
+~
+0 -1 44274
+D1
+~
+~
+0 -1 44273
+D2
+~
+~
+0 -1 44270
+D3
+~
+~
+0 -1 44271
+Z-1
+C-1
+R0
+S
+#44274
+{Y}The Sands of Jacrutu{b}~
+
+{Y}  Everywhere you look there is nothing but sand.
+{Y}  The {BLU,BO}Fremen {b}{Y}have worked hard to hide this most
+{Y}  sacred of sietchs. You have a feeling they do
+{Y}  not want you to discover it. Even more unsettling,
+{Y}  however, is the fact that {Y,BO}Worm {b}{Y}trails are visible
+{Y}  throughout this area. You really hope you don't
+{Y}  come across a full grown Maker.{b}
+
+~
+442 16 1
+D0
+~
+~
+0 -1 44269
+D1
+~
+~
+0 -1 44262
+D2
+~
+~
+0 -1 44271
+D3
+~
+~
+0 -1 44275
+Z-1
+C-1
+R0
+S
+#44275
+{Y}The Sands of Jacrutu{b}~
+
+{Y}  Everywhere you look there is nothing but sand.
+{Y}  The {BLU,BO}Fremen {b}{Y}have worked hard to hide this most
+{Y}  sacred of sietchs. You have a feeling they do
+{Y}  not want you to discover it. Even more unsettling,
+{Y}  however, is the fact that {Y,BO}Worm {b}{Y}trails are visible
+{Y}  throughout this area. You really hope you don't
+{Y}  come across a full grown Maker.{b}
+
+~
+442 16 1
+D0
+~
+~
+0 -1 44273
+D1
+~
+~
+0 -1 44272
+D2
+~
+~
+0 -1 44276
+D3
+~
+~
+0 -1 44274
+Z-1
+C-1
+R0
+S
+#44276
+{Y}The Sands of Jacrutu{b}~
+
+{Y}  Everywhere you look there is nothing but sand.
+{Y}  The {BLU,BO}Fremen {b}{Y}have worked hard to hide this most
+{Y}  sacred of sietchs. You have a feeling they do
+{Y}  not want you to discover it. Even more unsettling,
+{Y}  however, is the fact that {Y,BO}Worm {b}{Y}trails are visible
+{Y}  throughout this area. You really hope you don't
+{Y}  come across a full grown Maker.{b}
+
+~
+442 16 1
+D0
+~
+~
+0 -1 44275
+D1
+~
+~
+0 -1 44277
+D2
+~
+~
+0 -1 44273
+D3
+~
+~
+0 -1 44269
+Z-1
+C-1
+R0
+S
+#44277
+{Y}The Sands of Jacrutu{b}~
+
+{Y}  Everywhere you look there is nothing but sand.
+{Y}  The {BLU,BO}Fremen {b}{Y}have worked hard to hide this most
+{Y}  sacred of sietchs. You have a feeling they do
+{Y}  not want you to discover it. Even more unsettling,
+{Y}  however, is the fact that {Y,BO}Worm {b}{Y}trails are visible
+{Y}  throughout this area. You really hope you don't
+{Y}  come across a full grown Maker.{b}
+
+~
+442 16 1
+D0
+~
+~
+0 -1 44278
+D1
+~
+~
+0 -1 44269
+D2
+~
+~
+0 -1 44269
+D3
+~
+~
+0 -1 44269
+Z-1
+C-1
+R0
+S
+#44278
+{Y}The Sands of Jacrutu{b}~
+
+{Y}  Everywhere you look there is nothing but sand.
+{Y}  The {BLU,BO}Fremen {b}{Y}have worked hard to hide this most
+{Y}  sacred of sietchs. You have a feeling they do
+{Y}  not want you to discover it. Even more unsettling,
+{Y}  however, is the fact that {Y,BO}Worm {b}{Y}trails are visible
+{Y}  throughout this area. You really hope you don't
+{Y}  come across a full grown Maker.{b}
+
+~
+442 20 1
+D0
+~
+~
+0 -1 44279
+D2
+~
+~
+0 -1 44269
+D3
+~
+~
+0 -1 44277
+Z-1
+C-1
+R0
+S
+#44279
+{Y}Jacrutu, the Forbidden {WH,BO}Sietch{b}~
+
+{G}  You have finally reached Jacurutu, the fabled {WH,BO}Sietch{b}{G} that
+{G}  few lay eyes on and live to tell about it. No one knows
+{G}  for sure what occurs here, but you are about to find out.
+{G}  As you walk towards the {WH,BO}Sietch{b}{G}, a massive shudder runs
+{G}  down your spine. Do you really dare go up against
+{G}  this demi-god that is {R,BO}Paul Muahd'ib Atreides{b}{G}, Emperor
+{G}  of {R,BO}Arrakis{b}{G}, {R,BO}Mahdi {b}{G}of the {R,BO}Fremen{b}{G}?{b}
+
+~
+442 0 1
+D0
+~
+Guards~
+1 44218 44280
+D2
+~
+~
+0 -1 44278
+Z-1
+C-1
+R0
+S
+#44280
+{M}A hallway leading to the emperor's quarters{b}~
+
+{BLA,BO}  You tiptoe down the hallway, hoping desperately
+{BLA,BO}  that no one will notice you. You don't know what
+{BLA,BO}  dangers lie just around the bend, and every shadow
+{BLA,BO}  is a potential death sentence. Much more of this, and
+{BLA,BO}  you just might go insane.{b}
+
+~
+442 0 1
+D0
+~
+~
+0 -1 44281
+D2
+~
+Guards~
+1 -1 44279
+Z-1
+C-1
+R0
+S
+#44281
+{M}A hallway leading to the emperor's quarters{b}~
+
+{BLA,BO}  You tiptoe down the hallway, hoping desperately
+{BLA,BO}  that no one will notice you. You don't know what
+{BLA,BO}  dangers lie just around the bend, and every shadow
+{BLA,BO}  is a potential death sentence. Much more of this, and
+{BLA,BO}  you just might go insane.{b}
+
+~
+442 0 1
+D0
+~
+~
+0 -1 44282
+D2
+~
+~
+0 -1 44280
+Z-1
+C-1
+R0
+S
+#44282
+{M}A hallway leading to the emperor's quarters{b}~
+
+{BLA,BO}  You tiptoe down the hallway, hoping desperately
+{BLA,BO}  that no one will notice you. You don't know what
+{BLA,BO}  dangers lie just around the bend, and every shadow
+{BLA,BO}  is a potential death sentence. Much more of this, and
+{BLA,BO}  you just might go insane.{b}
+
+~
+442 0 1
+D1
+~
+~
+0 -1 44283
+D2
+~
+~
+0 -1 44281
+Z-1
+C-1
+R0
+S
+#44283
+{M,BO}The Reception Room{b}~
+
+{BLA,BO}  You are in a huge arched room. This is where
+{R,BO}  Paul {BLA,BO}receives all his formal guests. The room is
+{BLA,BO}  lined with his guards and pages.{b}
+
+~
+442 8 1
+D0
+~
+~
+0 -1 44284
+D3
+~
+~
+0 -1 44282
+Z-1
+C-1
+R0
+S
+#44284
+{M}The Emperor's Room{b}~
+
+{M}  You have finally reached the Emperor's chambers.
+{M}  After having slaughtered his entire household and
+{M}  army, you shudder at what he will do to you. Well,
+{M}  there's only one way to find out!{b}
+
+~
+442 8 1
+D0
+~
+~
+0 -1 44285
+D2
+~
+~
+0 -1 44283
+Z-1
+C-1
+R0
+S
+#44285
+{C,BO}Thopter pad{b}~
+
+{G}  Finally, you have made it alive out of
+{G}  Jacrutu. Looking back, you are amazed
+{G}  that you have been able to do all this.
+{G}  Well, its time to return home finally!{b}
+
+~
+442 0 1
+D0
+~
+Thopter~
+1 -1 2011
+D2
+~
+~
+0 -1 44284
+Z-1
+C-1
+R0
+S
+#44298
+{Y,BO}Arrival Terminal{b}~
+
+{C}  You find yourself standing in a large domed central terminal.
+{C}  There are many people rushing about, trying to make their flights.
+{C}  You see what appears to be a cafe lounge to the east,
+{C}  and an information booth to the west. To the north is the
+{C}  shuttle terminal.{b}
+
+~
+442 0 1
+D0
+~
+~
+0 -1 44204
+D1
+~
+~
+0 -1 44202
+D3
+~
+~
+0 -1 44203
+Z-1
+C-1
+R0
+S
+#44299
+{WH,BO}Onboard the shuttle{b}~
+
+{Y}  You are onboard a shuttle that has just landed on the
+{Y}  desert planet of Arrakis. Already you can feel the heat 
+{Y}  getting to you. Well, better get moving!{b}
+
+~
+442 16785417 4
+D0
+~
+Hatch~
+1 -1 44298
+X7342192
+Z-1
+C-1
+R0
+S
+$~

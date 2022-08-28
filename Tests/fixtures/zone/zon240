@@ -1,0 +1,179 @@
+#240
+{BO,R}Malice {bo,W}in {BO,B}Wonderland{bo,b}(Borealis)~
+24099 1000 2
+*
+X 12226
+O 0 24001     1 24005    The Tree
+D 0 24009     1     0    (E:OPEN) {C}Somewhere Out Of The Ordinary{c}
+D 0 24011     5     2    (D:LOCKED) {G}The {BO,G}M{bo,G}u{BO,G}s{bo,G}h{BO,G}r{bo,G}o{BO,G}o{bo,G}m {BO,G}Fields{bo,g}
+D 0 24013     5     2    (D:LOCKED) {G}The {BO,G}M{bo,G}u{BO,G}s{bo,G}h{BO,G}r{bo,G}o{BO,G}o{bo,G}m {BO,G}Fields{bo,g}
+D 0 24014     4     2    (U:LOCKED) {BO,G}The Giant {bo,G}M{BO,G}u{bo,G}s{BO,G}h{bo,G}r{BO,G}o{bo,G}o{BO,G}m{bo,g}
+D 0 24015     5     2    (D:LOCKED) {G}The {BO,G}M{bo,G}u{BO,G}s{bo,G}h{BO,G}r{bo,G}o{BO,G}o{bo,G}m {BO,G}Fields{bo,g}
+D 0 24017     5     1    (D:CLOSED) {G}The {BO,G}M{bo,G}u{BO,G}s{bo,G}h{BO,G}r{bo,G}o{BO,G}o{bo,G}m {BO,G}Fields{bo,g}
+M 0 24000     8 24019    {G}A Mushroom Boy{g}
+G 1 24005     1     0    {C}Shroom {BO,C}Defoliant{bo,c}
+M 0 24000     8 24019    {G}A Mushroom Boy{g}
+D 0 24019     4     2    (U:LOCKED) {G}Under A {BO,G}M{bo,G}u{BO,G}s{bo,G}h{BO,G}r{bo,G}o{BO,G}o{bo,G}m{g}
+M 0 24000     8 24020    {G}A Mushroom Boy{g}
+G 1 24006     1     0    {BO,C}Shroom {bo,C}Defoliant{bo,c}
+M 0 24000     8 24020    {G}A Mushroom Boy{g}
+D 0 24020     4     2    (U:LOCKED) {G}Under A {BO,G}M{bo,G}u{BO,G}s{bo,G}h{BO,G}r{bo,G}o{BO,G}o{bo,G}m{g}
+M 0 24000     8 24021    {G}A Mushroom Boy{g}
+G 1 24004     1     0    {BO,B}Giant {bo,G}Mushroom {BO,G}Passkey{bo,g}
+M 0 24000     8 24021    {G}A Mushroom Boy{g}
+D 0 24021     4     2    (U:LOCKED) {G}Under A {BO,G}M{bo,G}u{BO,G}s{bo,G}h{BO,G}r{bo,G}o{BO,G}o{bo,G}m{g}
+M 0 24000     8 24022    {G}A Mushroom Boy{g}
+G 1 24007     1     0    {BO,C}Shr{bo,C}oom {BO,C}Defo{bo,C}liant{c}
+M 0 24000     8 24022    {G}A Mushroom Boy{g}
+D 0 24022     4     1    (U:CLOSED) {G}Under A {BO,G}M{bo,G}u{BO,G}s{bo,G}h{BO,G}r{bo,G}o{BO,G}o{bo,G}m{g}
+D 0 24023     4     1    (U:CLOSED) {BO,G}In The Stem Of The Giant {bo,G}M{BO,G}u{bo,G}s{BO,G}h{bo,G}r{BO,G}o{bo,G}o{BO,G}m{bo,g}
+D 0 24023     5     2    (D:LOCKED) {BO,G}In The Stem Of The Giant {bo,G}M{BO,G}u{bo,G}s{BO,G}h{bo,G}r{BO,G}o{bo,G}o{BO,G}m{bo,g}
+M 0 24002     1 24024    {BO,G}The {bo,G}Caterpillar{g}
+O 0 24028     1 24024    {BO,B}The {bo,Y}Brass {BO,B}Hookah{bo,b}
+D 0 24024     5     1    (D:CLOSED) {BO,G}On Top Of The Giant {bo,G}M{BO,G}u{bo,G}s{BO,G}h{bo,G}r{BO,G}o{bo,G}o{BO,G}m{bo,g}
+M 0 24003     5 24030    {C}A {W}Pompous {BO,C}Pollywog{bo,c}
+M 0 24003     5 24030    {C}A {W}Pompous {BO,C}Pollywog{bo,c}
+M 0 24003     5 24030    {C}A {W}Pompous {BO,C}Pollywog{bo,c}
+E 1 24008     1    17    (HELD) {W}Duchess' Invitation{w}
+M 0 24003     5 24030    {C}A {W}Pompous {BO,C}Pollywog{bo,c}
+M 0 24003     5 24030    {C}A {W}Pompous {BO,C}Pollywog{bo,c}
+D 0 24032     1     2    (E:LOCKED) {W}Outside A {R}R{BO,R}a{bo,R}m{BO,R}s{bo,R}h{BO,R}a{bo,R}c{BO,R}k{bo,R}l{BO,R}e {bo,W}House{w}
+M 0 24005     1 24033    {M}A Helpless Infant{m}
+G 1 24010     1     0    {C}A Baby Rattle{c}
+M 0 24004     1 24033    {BLU}The Duchess{blu}
+D 0 24033     3     2    (W:LOCKED) {C}Unkempt Main Room{c}
+M 0 24006     1 24034    {W}The Cook{w}
+E 1 24009     1    16    (WIELD) {BO,B}P{G}e{B}p{G}p{B}e{G}r {B}Mill{bo,b}
+D 0 24034     1     0    (E:OPEN) {BO,R}In The Kitchen{bo,r}
+D 0 24035     0     2    (N:LOCKED) {Y}Crammed In A {BO,Y}Stinky {bo,Y}Outside{y}
+D 0 24036     2     2    (S:LOCKED) {Y}Along The {BO,Y}F{bo,Y}l{BO,Y}o{bo,Y}w{y}
+M 0 24001     1 24037    {W}The Walrus{w}
+M 0 24007     1 24038    {BO,Y}The {bo,Y}Carpenter{y}
+O 0 24003     1 24038    {W}A {C}Glass {BO,C}Bottomed {bo,BLU}Boat{blu}
+M 0 24008    45 24039    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+G 1 24002    20     0    {W}Sperm{w}
+M 0 24008    45 24039    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+G 1 24002    20     0    {W}Sperm{w}
+M 0 24008    45 24039    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+G 1 24002    20     0    {W}Sperm{w}
+M 0 24008    45 24040    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+G 1 24002    20     0    {W}Sperm{w}
+M 0 24008    45 24040    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+G 1 24002    20     0    {W}Sperm{w}
+M 0 24008    45 24040    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+G 1 24002    20     0    {W}Sperm{w}
+M 0 24008    45 24041    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+G 1 24002    20     0    {W}Sperm{w}
+M 0 24008    45 24041    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+G 1 24002    20     0    {W}Sperm{w}
+M 0 24008    45 24041    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+G 1 24002    20     0    {W}Sperm{w}
+M 0 24008    45 24042    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+G 1 24002    20     0    {W}Sperm{w}
+M 0 24008    45 24042    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24042    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24043    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24043    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24043    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24044    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24044    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24044    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24045    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24045    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24045    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24046    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24046    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24046    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24047    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24047    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24047    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24048    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24048    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24048    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24049    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24049    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24049    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24050    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24050    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24050    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24051    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24051    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24051    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24052    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24052    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24052    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24053    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24053    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+M 0 24008    45 24053    {R}A {BO,R}S{bo,R}p{BO,R}a{bo,R}w{BO,R}n{bo,R}i{BO,R}n{bo,R}g {BO,R}Salmon{bo,r}
+O 0 24002    20 24054    {W}Sperm{w}
+O 0 24002    20 24054    {W}Sperm{w}
+O 0 24002    20 24054    {W}Sperm{w}
+O 0 24002    20 24054    {W}Sperm{w}
+O 0 24002    20 24054    {W}Sperm{w}
+O 0 24002    20 24054    {W}Sperm{w}
+O 0 24002    20 24054    {W}Sperm{w}
+O 0 24002    20 24054    {W}Sperm{w}
+O 0 24002    20 24054    {W}Sperm{w}
+O 0 24002    20 24054    {W}Sperm{w}
+M 0 24009     1 24055    {BO,B}The {G}Mock {bo,G}Turtle{g}
+E 1 24034     1     5    (BODY) {BO,G}A {bo,G}Tur{BO,Y}tle S{bo,Y}he{BO,G}ll{bo,g}
+E 1 31214     1    18    (INSIGNIA) {BO,R}The Bloody Head of the Mock Turtle{bo,r}
+D 0 24056     3     0    (W:OPEN) {BO,Y}On The Back Porch{bo,y}
+M 0 24010     1 24059    {W}The {C}March {BO,C}Hare{bo,c}
+E 1 24015     1    17    (HELD) {BO,Y}Hedge Hog{bo,y}
+M 0 24012     1 24059    {BO,Y}The Door Mouse{bo,y}
+M 0 24011     1 24060    {BO,Y}The {BLU}M{C}ad Hatte{BLU}r{blu}
+E 1 24017     1    15    (WRIST) {W}{BOLD}An Ivory Cufflink{w}
+D 0 24062     1     2    (E:LOCKED) {R}End {W}Of {BO,C}The Road{bo,c}
+M 0 24013     1 24065    {BO,B}The {R}Dread {B}Jabberwock{bo,b}
+E 1 24022     1     9    (HANDS) {BO,B}Jabberwock {R}Talons{bo,r}
+E 1 24016     1    17    (HELD) {W}Trunk of the Dread {BO,B}Jabberwock{bo,b}
+M 0 24014     1 24066    {W}The White Knight{w}
+D 0 24066     3     2    (W:LOCKED) {W}The White Knight{w}
+M 0 24015     1 24068    {R}The Red {BO,R}Knight{bo,r}
+E 1 24013     1     0    (LIGHT) {B,BOL}E{R}v{R,BOL}i{R}L S{B}uN{b}
+M 0 24018     4 24070    {W}The Two of {R}Diamonds{r}
+M 0 24018     4 24070    {W}The Two of {R}Diamonds{r}
+M 0 24017     4 24073    {W}The Two of {BO,B}Spades{bo,b}
+E 1 24012     1    17    (HELD) {BO,B}A {BO,Y}Hatchet{bo,y}
+M 0 24016     4 24074    {W}The Two of {BO,B}Clubs{bo,b}
+M 0 24016     4 24074    {W}The Two of {BO,B}Clubs{bo,b}
+D 0 24074     2     2    (S:LOCKED) {W}The {BO,B}One {G}Tree{bo,g}
+D 0 24078     0     2    (N:LOCKED) {G}The {BO,R}Rose {G}Bush {bo,G}Garden{g}
+M 0 24016     4 24079    {W}The Two of {BO,B}Clubs{bo,b}
+M 0 24018     4 24079    {W}The Two of {R}Diamonds{r}
+M 0 24017     4 24080    {W}The Two of {BO,B}Spades{bo,b}
+M 0 24016     4 24082    {W}The Two of {BO,B}Clubs{bo,b}
+M 0 24018     4 24082    {W}The Two of {R}Diamonds{r}
+M 0 24017     4 24083    {W}The Two of {BO,B}Spades{bo,b}
+M 0 24017     4 24084    {W}The Two of {BO,B}Spades{bo,b}
+M 0 24019     1 24087    {BO,B}The {bo,Y}Che{BO,Y}shi{bo,Y}re {BO,B}Cat{bo,b}
+E 1 24018     1     3    (NECK) {BO,B}Cheshire {Y}Ri{bo,Y}ngt{BO,Y}ail{bo,y}
+M 0 24020     2 24091    {W}The Ace of {R}Hearts{r}
+M 0 24020     2 24091    {W}The Ace of {R}Hearts{r}
+M 0 24042     9 24091    {W}A White Wicket{w}
+M 0 24021     2 24092    {W}The Two of {R}Hearts{r}
+M 0 24021     2 24092    {W}The Two of {R}Hearts{r}
+M 0 24042     9 24092    {W}A White Wicket{w}
+M 0 24022     2 24093    {W}The Three of {R}Hearts{r}
+M 0 24022     2 24093    {W}The Three of {R}Hearts{r}
+M 0 24042     9 24093    {W}A White Wicket{w}
+M 0 24023     2 24094    {W}The Four of {R}Hearts{r}
+M 0 24023     2 24094    {W}The Four of {R}Hearts{r}
+M 0 24042     9 24094    {W}A White Wicket{w}
+M 0 24024     2 24095    {W}The Five of {R}Hearts{r}
+M 0 24024     2 24095    {W}The Five of {R}Hearts{r}
+M 0 24042     9 24095    {W}A White Wicket{w}
+M 0 24025     2 24096    {W}The Six of {R}Hearts{r}
+M 0 24025     2 24096    {W}The Six of {R}Hearts{r}
+M 0 24042     9 24096    {W}A White Wicket{w}
+M 0 24042     9 24097    {W}A White Wicket{w}
+M 0 24026     2 24097    {W}The Seven of {R}Hearts{r}
+M 0 24026     2 24097    {W}The Seven of {R}Hearts{r}
+M 0 24027     2 24098    {W}The Eight of {R}Hearts{r}
+M 0 24027     2 24098    {W}The Eight of {R}Hearts{r}
+M 0 24042     9 24098    {W}A White Wicket{w}
+M 0 24028     2 24099    {W}The Nine of {R}Hearts{r}
+M 0 24028     2 24099    {W}The Nine of {R}Hearts{r}
+M 0 24042     9 24099    {W}A White Wicket{w}
+$~

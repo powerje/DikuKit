@@ -1,0 +1,317 @@
+#14100
+peace~
+{R}{BOLD}P{Y}e{CYAN}a{G}c{MAG}e{mag}~
+{R}{BOLD}P{Y}e{CYAN}a{G}c{MAG}e{mag} {YELLOW}{BOLD}stands here looking for something to eat
+~
+
+  {WHITE,BO}Peace is standing h ere peacefully looking for food.{bo,white}
+
+~
+1273020518 422347496 100 S
+45 -115 -12 11000d6+90 30d30+130
+1000000 239
+8 8 1
+S 30657
+R 12
+D 20
+A 12
+#14101
+rover~
+{RED}{BOLD}R{bold}{RED}o{BOLD}v{bold}{RED}e{RED}{BOLD}r{red}{bold}~
+{RED}{BOLD}R{bold}{RED}o{BOLD}v{bold}{RED}e{RED}{BOLD}r{red}{bold} {WHITE}{BOLD}is here chasing his tail{white}{bold}
+~
+
+  {WHITE,BO}A large {bo,RED}red{WHITE,BO} dog is here barking while chasing his tail.{bo,white}
+
+~
+2747269348 1073742528 0 C 81
+50 -80 -16 10000d6+50 15d15+400
+2000000 1000
+8 8 0
+S 528256
+R 280
+D 20
+A 12
+#14102
+guard rover~
+{RED}{BOLD}R{bold}{RED}o{BOLD}v{bold}{RED}e{BOLD}r{bold}{RED}'s {BOLD}G{bold}{RED}u{BOLD}a{bold}{RED}r{BOLD}d{bold}{red}~
+{BO,RED}R{bo,RED}o{BO,RED}v{bo,RED}e{BO,RED}r{bo,RED}'{BO,RED}s{bo,RED} G{BO,RED}u{bo,RED}a{BO,RED}r{bo,RED}d{WHITE,BO} is here guarding him.{bo,white}
+~
+
+A small guard is here guarding his master.
+
+~
+2443182144 1073742336 0 C 54
+20 -150 -8 20d20+550 30d30+70
+100000 1000
+8 8 1
+S 896
+R 8
+D 20
+A 12
+#14103
+fat cook~
+{Y}A {BOLD}F{bold}{Y}a{BOLD}t{bold} {Y}C{BOLD}o{bold}{Y}o{BOLD}k{bold}~
+{YELLOW,BO}A {bo,YELLOW}F{YELLOW,BO}a{bo,YELLOW}t{YELLOW,BO} C{bo,YELLOW}o{YELLOW,BO}o{bo,YELLOW}k{WHITE,BO} yells for you to get out!{bo,white}
+~
+
+  {WHITE,BO}A very large, and rather round cook, throws a pile of noodles at you.{bo,white}
+
+~
+597704932 33704 100 C 1
+50 -170 -5 2000d7+1 15d20+100
+100000 25
+8 8 0
+S 4195328
+R 12
+D 20
+A 12
+#14104
+subway manager~
+{Y}{BOLD}Subway {BLACK}{BOLD}Manager{bold}{black}~
+{WH}{BOLD}The {Y}{BOLD}Subway {BLACK}{BOLD}Manager{bold}{black} {WH}{BOLD}is here screaming at you{white}{bold}
+~
+
+  {WHITE,BO}The Subway Manager is standing here enraged that you are back in his kitchen.{bo,white}
+
+~
+553697858 1074004648 100 C 63
+45 -80 -7 5d8000+50 20d20+200
+0 1000
+8 8 1
+S 29759
+R 284
+D 20
+A 12
+#14105
+customer~
+{YE}{BOLD}Subway {WH}{BOLD}customer{wh}{bold}~
+{CYAN}{BOLD}A {YE}{BOLD}Subway {WH}{BOLD}customer{wh}{bold} {CYAN}{BOLD}is waiting in line here
+~
+medit desc
+a hungry subway customer is here waiting in line
+
+~
+285753666 1073742624 100 C 4
+30 -55 -2 5d1000+100 20d20+30
+100000 1000
+8 8 2
+S 29426688
+R 12
+D 20
+A 12
+#14106
+teenie rover~
+{R}T{BOLD}e{bold}{R}e{BOLD}n{bold}{R}i{BOLD}e{bold} {R}R{BOLD}o{bold}{R}v{BOLD}e{bold}{R}r{r}~
+{R}T{BOLD}e{bold}{R}e{BOLD}n{bold}{R}i{BOLD}e{bold} {R}R{BOLD}o{bold}{R}v{BOLD}e{bold}{R}r{r} {WHITE}{BOLD}is here guarding a door{white}{bold}
+~
+
+  {WHITE,BO}Standing here scratching himself, is a teeny rover.  It looks as if he has fleas.{bo,white}
+
+~
+700465378 1342440352 50 C 2
+40 -120 -9 20d1000+1000 20d20+130
+2000000 1000
+8 8 1
+S 1199
+R 12
+D 20
+A 12
+#14107
+jigsaw puzzle~
+{YE}{BOLD}A Jigsaw Puzzle{yellow}{bold}~
+{YELLOW,BO}A Jigsaw Puzzle {WHITE,BO}is here trying to put himself together.{bo,white}
+~
+
+  {WHITE,BO}A complicated puzzle stands before you trying to put himself back together.{bo,white}
+
+~
+700448992 1342440352 50 C 2
+40 -80 -9 20d1000+1000 20d20+40
+2000000 1000
+8 8 1
+D 20
+A 12
+#14108
+crossword puzzle~
+{BOLD}{BLACK}A {W}C{BLA}r{W}o{BLA}s{W}s{BLA}w{W}o{BLA}r{W}d {BLA}Puzzle{black}{bold}~
+{BLACK,BO}A {WHITE}C{BLACK}r{WHITE}o{BLACK}s{WHITE}s{BLACK}w{WHITE}o{BLACK}r{WHITE}d{BLACK} Puzzle {WHITE}can't figure out one of his questions.{bo,white}
+~
+
+  {WHITE,BO}A complicated word puzzle stand here looking for the answer to 12 down.{bo,white}
+
+~
+696261088 1342440352 50 C 2
+40 -90 -7 80d100+50 20d20+10
+2000000 1000
+8 8 1
+D 20
+A 12
+#14109
+cashier subway~
+{YELLOW}{BOLD}A {BLACK}Subway {YELLOW}Cashier{bold}{yellow}~
+{YELLOW}{BOLD}A {BLACK}Subway {YELLOW}Cashier{bold}{yellow} {WHITE}{BOLD}isnt here to take orders, but to kill you{white}{bold}
+~
+
+  {YELLOW,BO}A Subway Cashier is counting out change.{bo,yellow}
+
+~
+595607780 33704 100 C 4
+50 -120 -6 18d1000+200 15d20+100
+100000 25
+8 8 0
+S 447
+R 28
+D 20
+A 12
+#14110
+chute ladder game~
+{MAG}{BOLD}A {BLU}Chute {MAG}and {BLU}ladder {MAG}game{mag}{bold}~
+{MAG}{BOLD}A {BLU}Chute {MAG}and {BLU}ladder {MAG}game{mag}{bold} {WHITE}{BOLD}stands here{white}{bold}
+~
+
+  {BO,MAGENTA}Your favorite game from childhood wants a rematch.{bo,magenta}
+
+~
+696254688 1342440352 50 C 2
+40 -90 -9 1000d10+2000 20d20+90
+2000000 1000
+8 8 1
+S 1169
+R 12
+D 20
+A 12
+#14111
+game piece~
+{BLACK}{BOLD}A Lost Game Piece{black}{bold}~
+{BLACK,BO}A Lost Game Piece{WHITE} has been seperated from his game board.{bo,white}
+~
+
+  {WHITE,BO}A lost game piece is here searching for his game board{bo,white}
+
+~
+268960066 262656 0 S
+50 10 5 1000d4+500 10d10+100
+500000 1000
+8 8 1
+D 20
+A 12
+#14112
+busboy~
+{Y}{BOLD}A {BLA}Subway {Y}Busboy{y}{bold}~
+{YELLOW,BO}A {BLACK}Subway {YELLOW}Busboy{WHITE} stands here ready to serve some food.{bo,white}
+~
+
+  {WHITE,BO}The Subway busboy stands here about to deliver some food.{bo,white}
+
+~
+564134119 1075577514 -1000 C 3
+54 10 -8 0d0+7000 0d0+400
+3000000 60000000
+8 8 0
+D 20
+A 12
+#14113
+flip white cat~
+{WHITE}{BOLD}Flip{white}{bold}~
+{WHITE}{BOLD}Flip{white}{bold} {CYAN}{BOLD}is here jumping off the carousel{cyan}{bold}
+~
+
+  {CYAN,BO}Flip {WHITE}darts away from you playfully.{bo,white}
+
+~
+67125312 1076134536 0 S
+50 -230 0 100d10+5500 10d5+130
+10000 2000000
+8 8 1
+D 20
+A 12
+#14114
+badass beanie~
+{CYAN,BO}A {BLACK}Badassed {BLUE}Beanie{bo,blue}~
+{CYAN,BO}A {BLACK}Badassed {BLUE}Beanie {bo,CYAN}is kicking your ass.{bo,cyan}
+~
+
+A Badassed Beanie Baby stands here kicking your ass.
+
+~
+683671650 1375994536 0 C 4
+53 10 -6 1d1+20000 20d20+600
+1000000 10000000
+8 8 0
+D 20
+A 1
+#14115
+guard chip~
+{Y}C{BLA}{BOLD}h{bold}{Y}i{BLA}{BOLD}p's{bold} {Y}Guard{y}~
+{bo,YELLOW}C{BLACK,BO}h{bo,YELLOW}i{BLACK,BO}p{bo,YELLOW}'{BLACK,BO}s {bo,YELLOW}Guard {WHITE}stands here guarding the entrance to Chip.{bo,white}
+~
+
+ A large guard is here protecting his master's entrance
+
+~
+58753122 1376027324 0 S
+50 10 -7 10d1000+500 0d0+500
+400000 100000000
+8 8 0
+D 20
+A 12
+#14116
+sidekick~
+{R}{BOLD}P{Y}e{CY}a{G}c{MAG}e's {R}S{Y}i{R}d{Y}e{R}k{Y}i{R}c{Y}k{y}~
+{R}{BOLD}P{Y}e{CY}a{G}c{MAG}e's {R}S{Y}i{R}d{Y}e{R}k{Y}i{R}c{Y}k{y} {Y}{BOLD}stands here assisting Peace{y}
+~
+
+  {WHITE,BO}Peace's sidekick is here assisting her in search of food.{bo,white}
+
+~
+1302364198 1074004872 0 S
+50 10 -9 0d0+6000 12d6+85
+0 1000
+8 8 0
+D 20
+A 12
+#14117
+Peace~
+{RED}{BOLD}P{G}e{MAG}a{BLU}c{CY}e{bold}~
+{RED,BO}P{MAGENTA}e{BLUE}a{GREEN}c{CYAN}e {YELLOW}is standing here looking for something to eat.{bo,yellow}
+~
+
+  {RED,BO}P{MAGENTA}e{BLUE}a{GREEN}c{CYAN}e {WHITE}stands here looking for food.{bo,white}
+
+~
+719372390 506242812 0 C 4
+50 2 -14 50000d1+500 20d20+418
+6000000 200000000
+8 8 1
+D 20
+A 12
+#14118
+roary~
+{BLACK}{BOLD}R{YELLOW}o{BLACK}{BOLD}a{YELLOW}r{BLACK}{BOLD}y{black}{bold}~
+{BLACK}{BOLD}R{YELLOW}o{BLACK}{BOLD}a{YELLOW}r{BLACK}{BOLD}y {CYAN}{BOLD}stands here growling with his {WHITE}{BOLD}teeth{white}{bold} {CYAN}{BOLD}showing{cyan}{bold}
+~
+
+{BLACK}{BOLD}R{YELLOW}o{BLACK}{BOLD}a{YELLOW}r{BLACK}{BOLD}y{black}{bold} looks hungry, a nice leg might do him good.{cyan}{bold}
+
+~
+1273020518 422347496 100 S
+45 10 -12 11000d6+90 30d30+130
+1000000 239
+8 8 1
+D 20
+A 12
+#14119
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+$~

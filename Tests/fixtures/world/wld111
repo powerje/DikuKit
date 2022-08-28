@@ -1,0 +1,2208 @@
+#11100
+{BO,B}Pacific Ocean{bo,b}~
+
+  Swimming in the ocean with the waves smoothly flowing 
+  into the distance. You look round and see a small island
+  in the distance. You wonder if anyone could actually be
+  living way out there. Time to find out...   
+
+~
+111 0 6
+D0
+~
+~
+0 -1 11101
+Z-1
+C-1
+R0
+S
+#11101
+{BO,B}Pacific Ocean{bo,b}~
+
+  Smooth waves brush along the coast line of the tiny 
+  island. It's smooth sandy beaches and palm tree's 
+  make it look like a tropical paradise.
+
+~
+111 0 6
+D0
+~
+~
+0 -1 11102
+D2
+~
+~
+0 -1 11100
+Z-1
+C-1
+R0
+S
+#11102
+{BO,Y}Sandy Beach{bo,y}~
+
+  Smooth waves brush along the coast line of the tiny 
+  island. It's smooth sandy beaches and palm tree's 
+  make it look like a tropical paradise. You see a 
+  small path leading north into the some palm trees.
+
+~
+111 1 3
+D0
+~
+~
+0 -1 11103
+D2
+~
+~
+0 -1 11101
+Z3
+C-1
+R0
+S
+#11103
+{BO,W}A small cottage{bo,w}~
+
+  You see a small cottage. It looks like it was built
+  some time ago. Looks like it has been kept up by 
+  someone. Maybe you should have a look inside.
+
+~
+111 1 3
+D0
+~
+~
+0 -1 11104
+D2
+~
+~
+0 -1 11102
+Z3
+C-1
+R0
+S
+#11104
+{BOLD,B}Master Roshi's House{bo,b}~
+
+
+  {BO,MAGENTA}  ______________________________I I___
+   /                              I I /{BO,CYAN}|{BO,MAGENTA}
+  /       {BO,CYAN}Kami's   House {BO,MAGENTA}            /{BO,CYAN} |{BO,MAGENTA}
+ /__________________________________/{BO,CYAN}  |
+{BO,CYAN} |      ___                ___      |  {BO,CYAN}|
+ |     |_|_|      __      |_|_|     |  |
+ |     |_|_|     |  |     |_|_|     |  |
+ |               |. |               | / 
+ |_______________|__|_______________|/{bo,cyan}
+
+~
+111 8205 1
+D0
+~
+door~
+1 -1 11179
+D2
+~
+~
+0 -1 11103
+Z-1
+C-1
+R0
+S
+#11105
+The Craters Edge~
+
+  On the edge of a large Crater that seems to be quite
+  a distance to the bottom. In the center of the crater 
+  is a guy standing beside what looks like a spaceship.
+  Looks like you have to face him and he does not look
+  like a very friendly sort of chap.
+
+~
+111 1 3
+D5
+~
+~
+0 -1 11106
+Z-1
+C-1
+R0
+S
+#11106
+Decending the Crater~
+
+  Decending in the crater is proving quite difficult. 
+  The steep rocky terrain is making it nearly impossible 
+  to sneak down undetected. Your making so much noice 
+  he has had to heard you by now. Maybe he just thinks
+  you are too insignificate to deal with.
+
+~
+111 5 5
+D4
+~
+~
+0 -1 11105
+D5
+~
+~
+0 -1 11107
+Z-1
+C-1
+R0
+S
+#11107
+{BO,R}Tripping....{bo,r}~
+
+  You get your foot caught on a rock sticking out 
+  of the ground. It sends you head first rolling
+  down crater. This was not your first choice on
+  how to get down the steep enbankment.
+
+~
+111 1048577 5
+D5
+~
+~
+0 -1 11108
+Z-1
+C-1
+R0
+S
+#11108
+{BO,R}Raditz{bo,r}~
+
+  Rolling all the way down the enbankment you smash
+  right into the figure at the bottle of the crater. 
+  So much for a stealthy approach. He did not budge
+  from the impact. He simply turned his head around 
+  to see what had hit him like you where nothing more 
+  to him then a mild irritation. He looks like he is
+  none too happy.
+
+~
+111 1 1
+D0
+~
+~
+0 -1 11109
+Z2
+C-1
+R0
+S
+#11109
+Path to a village~
+
+  You are on a small path to a village in the distance.
+  Since Raditz does not have the Dragon Ball maybe 
+  someone in the village can give you a clue to where 
+  you can find it. 
+
+~
+111 1 1
+D0
+~
+~
+0 -1 11110
+Z-1
+C-1
+R0
+S
+#11110
+Path to the Village~
+
+  As you get closer to the village you notice smoke 
+  rising from some of the buildings. This cannot be
+  a good sign. You see a small woman not too very 
+  far from you. You start walking to intercept. 
+  when you get close enough to question her the 
+  only thing she can say is "strange green things 
+  are destroying the village." Green things hmmmm.
+
+~
+111 1 2
+D0
+~
+~
+0 -1 11111
+D2
+~
+~
+0 -1 11109
+Z-1
+C-1
+R0
+S
+#11111
+Outside the village~
+
+  Closer to the village you walk the louder the 
+  screams. Sounds like a massacre. Finally making
+  your way to the edge of town you get some idea 
+  of what is happening. You see these small green
+  creatures attacking helpless villagers as they 
+  are running and screaming trying to get away. 
+  Up ahead you see 2 of them guarding the entrance.
+  Time to put a stop to the madness.
+
+~
+111 1 1
+D1
+~
+~
+0 -1 11112
+D2
+~
+~
+0 -1 11110
+Z-1
+C-1
+R0
+S
+#11112
+Village Entrance~
+
+  As you approach the front gate the two Saibamen 
+  charge at you full force. You barely dodge there
+  attack. You turn to see that they have already 
+  turned and started to charge again.
+
+~
+111 5 1
+D1
+~
+~
+0 -1 11113
+D3
+~
+~
+0 -1 11111
+Z-1
+C-1
+R0
+S
+#11113
+In the Village~
+
+  Walking through the village people are blocking
+  your way in every direction trying to get out.
+  you opened one exit for people to leave. The mass 
+  exit has caused more of the green things to come 
+  your way. 
+
+~
+111 1 1
+D1
+~
+~
+0 -1 11114
+D3
+~
+~
+0 -1 11112
+Z-1
+C-1
+R0
+S
+#11114
+In the village~
+
+  Walking through the village people are blocking
+  your way in every direction trying to get out.
+  you opened one exit for people to leave. The mass 
+  exit has caused more of the green things to come 
+  your way. 
+
+~
+111 1 1
+D1
+~
+~
+0 -1 11115
+D3
+~
+~
+0 -1 11113
+Z-1
+C-1
+R0
+S
+#11115
+In the village~
+
+  Walking through the village people are blocking
+  your way in every direction trying to get out.
+  you opened one exit for people to leave. The mass 
+  exit has caused more of the green things to come 
+  your way. To the east you see a fountain.
+
+~
+111 1 1
+D1
+~
+~
+0 -1 11116
+D3
+~
+~
+0 -1 11114
+Z-1
+C-1
+R0
+S
+#11116
+Village Square~
+
+  This is the main center of the village. This is where
+  all the people come to shop. You see stores in ruins
+  and people just running every way imaginable. There
+  is a huge fountain in the middle of the square. 
+  Suddenly two more green monsters drop down to attack
+  some children. You jump in front of them to protect
+  them. They rush at you claws ready to rip u apart.
+  Your way south and east are blocked by rubble.
+
+~
+111 1 1
+D0
+~
+~
+0 -1 11117
+D3
+~
+~
+0 -1 11115
+Z-1
+C-1
+R0
+S
+#11117
+In the village~
+
+  You head north through the village. You are left 
+  little options since the other paths where blocked.
+  The village gate is not very much farther. You hope
+  to find whoever caused this and deal with them 
+  quickly. The senseless violence must end.
+
+~
+111 1 1
+D0
+~
+~
+0 -1 11118
+D2
+~
+~
+0 -1 11116
+Z-1
+C-1
+R0
+S
+#11118
+In the village~
+
+  The village gate is just to the north. Coast
+  seems clear but you keep your eyes peeled. 
+  Your gut tells you that there are still more 
+  of the green monsters around.
+
+~
+111 1 1
+D0
+~
+~
+0 -1 11119
+D2
+~
+~
+0 -1 11117
+Z-1
+C-1
+R0
+S
+#11119
+Village Gate~
+
+  Ambush! Two of the monsters jumped out from 
+  nowhere, claws scraping and teeth trying to 
+  naw you into. You try to jump out of they 
+  way, but too late you are lying flat on your
+  back with one on top of you and the other 
+  is ready to pounce! 
+
+~
+111 5 1
+D0
+~
+gate~
+1 -1 11120
+D2
+~
+~
+0 -1 11118
+Z-1
+C-1
+R0
+S
+#11120
+Outside the Gate~
+
+  Finally made it through the city and disposed
+  of the nasty green creatures attacking the city.
+  To the north you see something glimmering in
+  the distance. As you change your angle to deflect
+  the glare you notice it is two more of the same
+  ships Raditz arived in. Not more of them.
+
+~
+111 1 2
+D0
+~
+~
+0 -1 11121
+D2
+~
+gate~
+1 -1 11119
+Z-1
+C-1
+R0
+S
+#11121
+Path to the Ships~
+
+  As you walk farther down the path and closer
+  to the ships you see a huge mound of a man.
+  He must be Nine foot tall and looks to weigh
+  a ton. He has the same clothes on as Raditz. 
+  I bet he is also not very friendly.
+
+~
+111 5 2
+D0
+~
+~
+0 -1 11122
+D2
+~
+~
+0 -1 11120
+Z-1
+C-1
+R0
+S
+#11122
+{BO,R}Nappa{bo,r}~
+
+  The huge man turns and laughs at you.
+
+  "Puny man do you really think you stand any chance against
+   Nappa the Invincible!"
+
+  You run up for a round house kick but 
+  before you can even touch him he grabs your
+  leg and punches you in the stomach. He 
+  starts to power up and you are in awe at the
+  power you feel from him.   
+
+~
+111 129 2
+D0
+~
+~
+0 -1 11123
+D2
+~
+~
+0 -1 11121
+Z-1
+C-1
+R0
+S
+#11123
+Before the ships~
+
+  Nappa is finally defeated kneeling before you. 
+  There is nothing he can do but to give up. The 
+  corpses of Tien and Chatzu are lying on the 
+  ground. Without the help of the other earth 
+  warriors they where easily dispatched. Out of 
+  the sky a giant energy ball flies down and hits
+  Nappa dead on killing him instantly. You are 
+  barely able to dodge the blast. You see your 
+  target land next to one of the ships. Time to
+  finish this once and for all.
+
+~
+111 5 2
+D0
+~
+~
+0 -1 11124
+D2
+~
+~
+0 -1 11122
+Z-1
+C-1
+R0
+S
+#11124
+{BO,R}Vegeta!!!{bo,r}~
+
+  Vegeta looks at you and laughs at your low 
+  power level. He thinks you are clearly no 
+  match for his greatness. He is the prince
+  of all Sayans after all. He whistles loudly
+  and 2 green monsters pop up from behind him
+  and attacks. He turns his back and continues
+  to ignore you. 
+
+~
+111 1 2
+Z-1
+C-1
+R0
+S
+#11125
+{BO,G}Namek{bo,g}~
+
+  After obtaining the first Dragonball the next 
+  time castle has transported you to Namek. Home
+  of the once great people of Piccolo. The only 
+  problem last time Goku was here so was Frieza.
+  He was once a very mighty foe who killed nearly 
+  all of the heroes and even powerfully Goku. 
+  Let's hope for our sake Frieza is not here.
+
+~
+111 1 2
+D0
+~
+~
+0 -1 11126
+Z-1
+C-1
+R0
+S
+#11126
+Heading toward the village.~
+
+  Heading north you spot a village. It looks as
+  though it has seen better days. You decide to
+  to head closer to get a better look and 
+  hopefully some idea where the next Dragonball
+  is located. 
+
+~
+111 1 2
+D0
+~
+~
+0 -1 11127
+D2
+~
+~
+0 -1 11125
+Z-1
+C-1
+R0
+S
+#11127
+Namek Village~
+
+  You enter the village and it looks like a war
+  zone. Most the buildings are destroyed. The 
+  only one that seems to be left standing is a 
+  large domed building in the middle of the 
+  village. You see many scaled people who look
+  exactly like Piccolo walking around. Most 
+  look very wherry and tired. Some of the people 
+  spot you and block your way to the building. 
+  You try to tell them you mean them no harm but
+  I do not think they know the difference anymore.
+
+~
+111 1 1
+D0
+~
+~
+0 -1 11128
+D2
+~
+~
+0 -1 11126
+Z-1
+C-1
+R0
+S
+#11128
+Namek Village~
+
+  Walking through the village there is rubble lying 
+  all about. Two small hut like houses are in front
+  of you lying in ruins. Parts of the building are 
+  spread out into the walkway making it impossible
+  for more then one person to walk through.
+
+~
+111 1 1
+D0
+~
+~
+0 -1 11129
+D2
+~
+~
+0 -1 11127
+Z-1
+C1
+R0
+S
+#11129
+Namek Village~
+
+  As you get through the small opening back
+  onto the path two figures jump out from behind 
+  a pile of rubble. They force you to back up
+  into a corner. Now you have nowhere to go. 
+
+~
+111 1 1
+D0
+~
+~
+0 -1 11130
+Z-1
+C2
+R0
+S
+#11130
+Namek Village~
+
+  After making your way through the angry people
+  you are standing a short distance in front of
+  a huge temple. You see cracks in the walls and 
+  broken marble is lying at your feet. Hopefully  
+  you will be able to get some answers here.
+
+~
+111 1 1
+D0
+~
+~
+0 -1 11131
+D2
+~
+~
+0 -1 11129
+Z-1
+C-1
+R0
+S
+#11131
+{BO,C}Before the Temple{bo,c}~
+
+  You are standing in front of a huge domed topped
+  building. As you look up and down the building you
+  see two huge doors that are 20 foot high. Scanning
+  down you notice that there are two very big, very
+  ugly guards coming your way. Like everyone else
+  they are not too happy about your prescence. 
+
+~
+111 1 1
+D0
+~
+door~
+1 -1 11132
+D2
+~
+~
+0 -1 11130
+Z-1
+C-1
+R0
+S
+#11132
+{BO,C}Inside the Temple{bo,c}~
+
+  Dark and dreary this place is. You see what looks 
+  to be servants scrambling from place to place
+  trying to clean up the mess made and serve there
+  master. Guards are marching around looking for
+  signs of trouble. In the middle of the room is a
+  huge chair with a even larger something sitting
+  in it. His face is hidden by the shadows. Maybe
+  this guy can give you some answers.
+
+~
+111 1 1
+D0
+~
+~
+0 -1 11133
+D2
+~
+door~
+1 -1 11131
+Z2
+C-1
+R0
+S
+#11133
+{BO,C}Before the Throne{bo,c}~
+
+  Standing right before the huge throne. The figure 
+  in the throne only grunts at your presence. From 
+  behind the throne three very large and heavily
+  armored figures step between you and the throne.
+  Looks like you will have to go through them to
+  see the big man.
+
+~
+111 9 1
+D0
+~
+~
+0 -1 11134
+D2
+~
+~
+0 -1 11132
+Z2
+C-1
+R0
+S
+#11134
+{BO,C}Throne{bo,c}~
+
+  You are now standing at the bottom of a huge 
+  chair. You can now see the figures face in the 
+  flickering lights. This is the largest being 
+  you have ever see. He sits up and and looks 
+  down at you with large eyes. He offers you a 
+  seat. You should listen to what he has to say. 
+
+~
+111 9 1
+Z4
+C-1
+R0
+S
+#11135
+{BO,R}Ginyu Force Assault{bo,r}~
+
+  Evil and powerful, the Ginyu Force is hailed as the most
+  powerful team in the universe. It is composed of five 
+  members, each one very powerful and possessing unique
+  attacks and fighting advantages. The Ginyu Force strikes
+  various poses during their battles. While individually and
+  collectively they are very strong, each member is conceited
+  and competitive which leads to their downfall. They hesitate
+  to ask each other for help because they don't want to share
+  the credit for the victory. The members of the Ginyu Force
+  don't seem to care about each other, willing to stand back
+  and watch while their teammates are destroyed.
+
+~
+111 17 2
+D0
+~
+~
+0 -1 11136
+Z-1
+C-1
+R0
+S
+#11136
+{BO,R}Recoome{bo,r}~
+
+  You are now facing the second of the Ginyu Force 
+  Recoome. Recoome is a big, redheaded brute, 
+  possessing great strength but slow in speed.
+  You easily dodge his attacks. He comes down with 
+  his giant fists into the ground and it is like
+  the whole planet shakes.
+
+~
+111 1 5
+D0
+~
+~
+0 -1 11137
+D2
+~
+~
+0 -1 11135
+Z-1
+C-1
+R0
+S
+#11137
+{BO,R}Jeice and Burter{bo,r}~
+
+  Jeice has an orange face and huge white hair. He
+  is neither super fast or super powerful. Instead,
+  Jeice is a more balanced combination of strength 
+  and speed, which makes him very dangerous.
+  Burter is a giant, blue creature. He is one of the
+  fastest beings alive. Fighting both at the same
+  time will be no easy task.
+
+~
+111 1 5
+D0
+~
+~
+0 -1 11138
+D2
+~
+~
+0 -1 11136
+Z-1
+C-1
+R0
+S
+#11138
+{BO,R}Captain Ginyu{bo,r}~
+
+  Captain Ginyu, with purple skin and black horns, 
+  is the strongest of the team, and its leader. He 
+  has the powerful ability to switch bodies with his
+  opponents.
+
+~
+111 1 5
+D0
+~
+~
+0 -1 11139
+D2
+~
+~
+0 -1 11137
+Z-1
+C-1
+R0
+S
+#11139
+On the way to Frieza~
+
+  What you feared to be true is. Frieza is alive
+  and well. This time no super Saiyan Goku to help 
+  you. Let's hope you can fair as well as the 
+  Saiyan. As you head toward him he throws a
+  energy disc at you. He laughs at your puny 
+  power level.
+
+~
+111 1 1
+D0
+~
+~
+0 -1 11140
+D2
+~
+~
+0 -1 11138
+Z-1
+C-1
+R0
+S
+#11140
+{BO,R}Frieza{bo,r}~
+
+  Frieza is a lizard-like creature who can shape-shift
+  into three stages of forms, with each form more 
+  powerful than the last. In the first form, Frieza
+  has two horns on his head and his body is small.
+
+~
+111 1 2
+D0
+~
+~
+0 -1 11141
+Z-1
+C-1
+R0
+S
+#11141
+{BO,R}Frieza's Second Form{bo,r}~
+
+  You defeated Frieza's first form, while no easy
+  task you managed to just piss him off. He rises
+  and is now in his second form. He is twice as 
+  powerful and twice as deadly. He throws two more
+  energy discs at you.
+
+~
+111 1 1
+D0
+~
+~
+0 -1 11142
+Z-1
+C-1
+R0
+S
+#11142
+Frieza's Final Form~
+
+  This is Frieza's final form, after the last battle
+  you wonder how anyone could possibly be this strong.
+  The final form is the perfect form, he is in a 
+  small body with no angle on his body.
+
+~
+111 1 1
+Z-1
+C-1
+R0
+S
+#11143
+Garlic Junior Saga~
+
+
+  Garlic Junior has amazingly escaped the Dead Zone,
+  where he has been trapped. Now he and his henchmen 
+  the Spice Boys (Vinegar, Mustard, Spice, and Salt)  
+  plan to eliminate Kami, the originator of the 
+  Earth's Dragon Balls. Garlic Junior arrives on 
+  Kami's Lookout and entraps both Kami and his 
+  assistant, Mr. Popo in small glass bottles. With
+  the guardian of Earth trapped, Garlic Junior 
+  releases the Blackwater Mist which, when breathed in,
+  causes people to turn into evil beings. As Garlic 
+  Junior releases the Blackwater Mist over the land, 
+  people begin to change. They come totally under the
+  spell of him and his henchmen.
+
+
+~
+111 5 2
+D0
+~
+~
+0 -1 11144
+Z-1
+C-1
+R0
+S
+#11144
+Heading to Kami Island~
+
+  After realizing what had happened to the people
+  of the planet the only way to save them is to
+  defeat Garlic Junior and send him to back to
+  the Dead Zone. Time to head to Kami's Island 
+  to put an end to this hopefully quickly.
+
+
+~
+111 1 2
+D0
+~
+~
+0 -1 11145
+D2
+~
+~
+0 -1 11143
+Z-1
+C-1
+R0
+S
+#11145
+{BO,G}Kami's Island{bo,g}~
+
+Kami's Island is high above the earth so that the 
+protector of the planet can over see things. As you
+get closer to the island you see major damage from
+a battle that had taken place.
+
+
+~
+111 1 2
+D0
+~
+~
+0 -1 11146
+D2
+~
+~
+0 -1 11144
+Z-1
+C-1
+R0
+S
+#11146
+{BOLD,G}Before Kami's Palace{bold,g}~
+
+It looks like a major battle was fought here. All
+of the walls have huge holes throughout. The floors
+have major scarring. As you look around Piccolo 
+grabs your arm, spins you around and kicks you in 
+the back. As you get up to try to fight back you 
+notice he has been turned into a monster.   
+
+
+~
+111 1 2
+D0
+~
+~
+0 -1 11147
+D2
+~
+~
+0 -1 11145
+Z4
+C-1
+R0
+S
+#11147
+{BO}{G}Kami's Palace{bo}{g}~
+
+A giant room with pillars on all sides and throughout.
+This used to be a magnificent castle until it was 
+damaged by heavy battle. The battle is long over and 
+looks like noone is here but some candy bars all over
+the floor. Looks like you may have hit a dead end.
+
+
+~
+111 1 1
+D2
+~
+~
+0 -1 11146
+D5
+~
+trapdoor~
+3 -1 11148
+Z4
+C-1
+R0
+S
+#11148
+{BO,BLA}Graveyard of Guardians{bo,bla}~
+
+You have arrived in a strange place. It looks
+as though all of the light has been drained out
+of this place. You see ghostly images fading in
+and out all around you. These are the ghosts of
+Earth's past guardians and they do not like 
+there rest interrupted.  
+
+
+~
+111 16417 1
+D0
+~
+~
+0 -1 11149
+X4194314
+Z10
+C2
+R0
+S
+#11149
+{BO,BLA}Graveyard of Guardians{bo,bla}~
+
+You have arrived in a strange place. It looks
+as though all of the light has been drained out
+of this place. You see ghostly images fading in
+and out all around you. These are the ghosts of
+Earth's past guardians and they do not like 
+there rest interrupted.  
+
+
+~
+111 16417 1
+D0
+~
+~
+0 -1 11150
+D2
+~
+~
+0 -1 11148
+X4194314
+Z3
+C-1
+R0
+S
+#11150
+{BO,BLA}Graveyard of Guardians{bo,bla}~
+
+You have arrived in a strange place. It looks
+as though all of the light has been drained out
+of this place. You see ghostly images fading in
+and out all around you. These are the ghosts of
+Earth's past guardians and they do not like 
+there rest interrupted.  
+
+
+~
+111 16417 1
+D0
+~
+~
+0 -1 11151
+D2
+~
+~
+0 -1 11149
+X4194314
+Z8
+C2
+R0
+S
+#11151
+{BO,BLA}Graveyard of Guardians{bo,bla}~
+
+You have arrived in a strange place. It looks
+as though all of the light has been drained out
+of this place. You see ghostly images fading in
+and out all around you. These are the ghosts of
+Earth's past guardians and they do not like 
+there rest interrupted.  
+
+
+~
+111 16417 1
+D0
+~
+~
+0 -1 11152
+D2
+~
+~
+0 -1 11150
+X4194314
+Z3
+C-1
+R0
+S
+#11152
+{BO,BLA}Winds of the World{bo,bla}~
+
+There are winds swirling all around. This is
+the beginning and the end of all the air on 
+the planet. Releasing anything into the winds
+here will spread accross the world in a manner
+of minutes. You look to the jar with the wind 
+pouring out and look to the Sacred Water you 
+have retreived. This could be the answer.
+
+
+~
+111 16417 1
+D2
+~
+~
+0 -1 11151
+Z3
+C-1
+R0
+S
+#11153
+{BO,B}Kami's Lookout{bo,b}~
+
+After retrieving the Sacred Water Mr Popo begins
+to release the water to turn all of Garlic Jr's
+victims back to normal. All that is left is to 
+take out Garlic and to stop his evil.
+
+
+~
+111 128 1
+D0
+~
+~
+0 -1 11154
+Z3
+C-1
+R0
+S
+#11154
+{B,R}Garlic Jr{bo,r}~
+  
+  Garlic Junior is an evil being with keen mental powers
+  and devilish plans to take over the universe. He can
+  transform from a diminutive being into a large monstrous
+  tyrant. His biggest desire is to destroy the Namekian 
+  guardian of Earth, the wise and pure Kami, in order to
+  rule the Earth.
+
+
+~
+111 144 1
+D2
+~
+~
+0 -1 11153
+Z3
+C-1
+R0
+S
+#11155
+Frieza and King Cold~
+
+  Unfortunately Frieza has survived Planet Nameks 
+  destruction. He is found floating in the debris of 
+  Namek by his father, King Cold. Frieza is reassembled 
+  by his fathers minions. Friezas bent on revenge and
+  eliminating all Saiyans. Because Saiyans are such 
+  powerful beings, they pose a great threat to him and 
+  his family, the strongest family on Earth. All of the
+  sudden, the people on Earth sense a strong evil power
+  approaching. No, there are two strong powers 
+  approaching Earth. Frieza and King Cold arrive. Earth
+  appears to have no defense against such a team. In
+  despair, Earthlings ponders their fate.
+
+
+~
+111 0 1
+D0
+~
+~
+0 -1 11156
+Z0
+C-1
+R0
+S
+#11156
+{BLUE}Frieza{blue}~
+
+  King Cold "resurrected" Frieza after seemingly certain 
+  death following the destruction of Namek. With a new 
+  android-like shape Frieza and his father are here on 
+  Earth! Somehow Frieza's power level has increased two
+  fold.
+
+
+~
+111 0 1
+D0
+~
+~
+0 -1 11157
+Z0
+C-1
+R0
+S
+#11157
+{BLUE}King Cold{blue}~
+  
+  While you where defeating Frieza a mysterious
+  white haired teenager showed up to challenge 
+  King Cold. They are both so busy they ignore
+  you at first. Then they both notice your 
+  presence. Who will you fight for side of good
+  or evil. Will you help the Z warriors or 
+  King cold defeat trunks. 
+
+
+~
+111 0 1
+D2
+~
+~
+0 -1 11156
+Z0
+C-1
+R0
+S
+#11158
+Android Saga~
+
+  Trunks has come from he future to warn Goku that
+  the androids will arrive in three years and that
+  the androids were created by Dr. Gero of the Red
+  Ribbon Army. The androids are more powerful and 
+  deadly then anything they have faced before. They
+  are what has decimated Earth in the future and
+  that he is the last of the warriors left alive. 
+
+
+~
+111 0 1
+D0
+~
+~
+0 -1 11159
+Z0
+C-1
+R0
+S
+#11159
+Outside Capsule Corp Facility~
+
+  The Z fighters start training in preparation for
+  when the androids arrive in three years time. Vegeta 
+  has Bulma's father create a capsule so that he can 
+  train at 300 times earths gravity so that he can
+  one day beat Goku. 
+
+
+~
+111 0 1
+D0
+~
+~
+0 -1 11160
+D2
+~
+~
+0 -1 11158
+Z8
+C-1
+R0
+S
+#11160
+Inside gravity Module~
+
+  The Z fighters start training in preparation for
+  when the androids arrive in three years time. Vegeta 
+  has Bulma's father create a capsule so that he can 
+  train at 300 times earths gravity so that he can
+  one day beat Goku. Now that you are inside you can
+  feel the gravity crushing your bones. Every step is
+  grueling and you can barely raise your sword.
+
+
+~
+111 5 1
+D0
+~
+~
+0 -1 11161
+D2
+~
+~
+0 -1 11159
+Z6
+C2
+R0
+S
+#11161
+Inside Gravity Module~
+
+  Here stands Vageta fighting the gravity and 
+  dodging laser blasts from the orbs flying 
+  around him. He fires energy blasts from his 
+  hands and destroys the orbs. He notices
+  you and turns to fight you.
+
+
+~
+111 1 1
+D2
+~
+~
+0 -1 11160
+Z14
+C-1
+R0
+S
+#11162
+City of Sasebo~
+
+ You go to the city where Future Trunks told them the
+ Androids would appear, Sasebo. Being a few minutes 
+ later than Future Trunks had said and a different
+ location. You spot two figures lurking around the city.
+ The figures race down into the city so fast that none
+ of the fighters could see what they look like. So you 
+ have to go down into the city to find them.
+
+~
+111 0 1
+D5
+~
+~
+0 -1 11164
+Z6
+C-1
+R0
+S
+#11163
+Android 17 and 18~
+
+Here you see android 17 and 18 hovering in the air. They 
+turn to face you and Android 17 flies toward you to kill
+you. He comes at you with a devistating barage of punches.
+Looks like for now Android 18 is holding back confident 
+that 17 can handle you all by his self.
+
+~
+111 4194433 1
+D0
+~
+~
+0 -1 11168
+D1
+~
+portal~
+3 -1 11169
+Z6
+C1
+R0
+S
+#11164
+City of Sasebo~
+
+ The Androids use their eye lasers to destroy every
+ living thing within a set radius. Then they both 
+ fly off in different directions. Now it is time to
+ split up and take them both down. 
+
+~
+111 0 1
+D2
+~
+~
+0 -1 11165
+Z0
+C2
+R0
+S
+#11165
+A split in the road~
+
+ You head east and west to confront the two evil 
+ androids.   
+
+~
+111 1048576 1
+D1
+~
+~
+0 -1 11166
+D3
+~
+~
+0 -1 11167
+Z0
+C-1
+R0
+S
+#11166
+Android 19~
+
+ Android 19 is the final android designed by Dr. Gero
+ to be created exclusively from synthetic technology.
+ He, accompanied by Android 20 (in reality, a reformed
+ Dr. Gero), first appear during an assault on an island
+ nine miles southwest of South City. Since they were 
+ mechical beings, with no ki they are undetectable. He 
+ also has the ability to sap your energy if he grabs
+ ahold of you.
+
+~
+111 257 1
+D2
+~
+~
+0 -1 11168
+T11164
+Z6
+C-1
+R0
+S
+#11167
+Android 20~
+
+ Android 19 also Dr Gero is a brilliant scientist 
+ who is the mastermind behind the Red Ribbon Army. 
+ After the army's defeat at the hands of Goku, Gero
+ retreated to his mountain laboratory to plot his 
+ revenge with his Artificial Humans (Androids) 
+ series. Not until he reached Android 19 did he
+ create an obedient, bloodthirsty servant. Gero then
+ had #19 transplant his brain into an android body, 
+ thus turning himself into Android 20 and preventing
+ him from dying of old age.
+
+~
+111 1 1
+D2
+~
+~
+0 -1 11168
+Z6
+C-1
+R0
+S
+#11168
+Dr Gero's Lab~
+
+As you arrive here in Dr. Gero's main lab you find that he
+has been killed by Androids 17 and 18. One looks like a 
+young boy and the other a very pretty girl. As they spot you 
+they fly over to a cage and release Android 16 and fly off.
+Android 16 is a huge android with red hair and green armor.
+Android 16 seems peaceful and does not attack but he does 
+block your way.
+
+~
+111 5 1
+D2
+~
+~
+0 -1 11163
+Z6
+C-1
+R0
+S
+#11169
+Kamiccolo~
+
+Piccolo fused with Kami in order to defeat the Androids. But
+was too late because you had already destroyed them. The 
+resulting fusion causes a massive power boost prior to fusing
+with Kami, Piccolo (who had trained for the arrival of the 
+Androids and had fused with Nail) had fallen by one punch to
+the stomach by Android 17. However, the resulting fusion 
+caused Piccolo to be even and at times overpower the Android. 
+
+~
+111 1 1
+D3
+~
+portal~
+1 -1 11163
+Z8
+C-1
+R0
+S
+#11170
+Cell Saga~
+
+Kami told Piccolo about something worse than the androids, "Cell". 
+Piccolo flew to where he saw Cell and fought him. Cell had killed
+a whole city already. He sucked out the people's cells through his
+tail. He sucked some of Piccolo's Cells too. Cell could even do 
+Piccolo's moves!! He got that ability from Piccolo's cells. Piccolo
+finds out that Cell needs the androids to become Super Perfect, 
+then breaks free and fights Cell some more.
+
+~
+111 1 1
+D2
+~
+~
+0 -1 11171
+Z6
+C-1
+R0
+S
+#11171
+A decimated City~
+
+You are standing in part of the city that was destroyed when
+Cell came and destroyed all of the building and absorbed all
+of the inhabitants into himself making himself stronger. You
+are following Cell's path of destruction when out of nowhere 
+small cell clones jump out of the rubble and attack you.
+
+~
+111 1 1
+D0
+~
+~
+0 -1 11170
+D2
+~
+~
+0 -1 11172
+Z6
+C-1
+R0
+S
+#11172
+A decimated City~
+
+You are standing in part of the city that was destroyed when
+Cell came and destroyed all of the building and absorbed all
+of the inhabitants into himself making himself stronger. You
+are following Cell's path of destruction when out of nowhere 
+small cell clones jump out of the rubble and attack you.
+
+~
+111 1 1
+D2
+~
+~
+0 -1 11173
+Z6
+C-1
+R0
+S
+#11173
+A decimated City~
+
+You are standing in part of the city that was destroyed when
+Cell came and destroyed all of the building and absorbed all
+of the inhabitants into himself making himself stronger. You
+are following Cell's path of destruction when out of nowhere 
+small cell clones jump out of the rubble and attack you.
+
+~
+111 1 1
+D2
+~
+~
+0 -1 11174
+Z6
+C-1
+R0
+S
+#11174
+A decimated City~
+
+You are standing in part of the city that was destroyed when
+Cell came and destroyed all of the building and absorbed all
+of the inhabitants into himself making himself stronger. You
+are following Cell's path of destruction when out of nowhere 
+small cell clones jump out of the rubble and attack you.
+
+~
+111 1 1
+D2
+~
+~
+0 -1 11175
+Z6
+C-1
+R0
+S
+#11175
+{BO,G}Gohan{bo,g}~
+
+Gohan could not touch cell, he was getting whooped. Gohan then
+was enraged, he was so angry...that he...he....EXPLODED WITH 
+ANGER! He was Super Saiyajin 2!!! He killed all of the rest of 
+the Cell Jr's. and stole his senzu back from Cell. Cell tried 
+to shoot Gohan with his most powerful Kamehameha, but Gohan 
+shot it back at him. That ripped Cell in half. Cell had already 
+obsorbed Piccolo's power and was able to regen in minutes.
+
+~
+111 1 1
+D2
+~
+~
+0 -1 11176
+Z6
+C-1
+R0
+S
+#11176
+{BO,MAG}Cell{bo,mag}~
+
+The most dangerous of all Dr. Gero's creations, Cell was created
+as a genetic experiment. He comes complete with a self-destruct 
+feature, a scorpion-like tail that opens up to absorb the energy
+of his opponents, and instructions to wreak revenge on the 
+Androids which caused Dr. Gero's downfall. Cell contains the DNA
+of the mightiest warriors of the universe including Goku, Piccolo
+and Vegeta. Possessing the DNA of these great warriors, Cell is 
+able to fight with their attacks. With these great forces combined
+Cell is an almost invincible being. One of his greatest advantages
+is being able to regenerate at any given time from even the 
+smallest component of himself. He gains power by draining the 
+energy of his enemies using his scorpion-like tail. 
+
+~
+111 1 1
+D2
+~
+~
+0 -1 11177
+Z6
+C-1
+R0
+S
+#11177
+{BO,MAG}Imperfect Cell{bo,mag}~
+
+Cell has orange color parts near his abdominal area, the back
+of his head, and even near his crotch area. He has two wings 
+which are both green with black spots. He has a dark green and 
+light green mix all over his exo-skeleton (including head, arms
+and legs). He has five fingers and three toes just as similar 
+and Frieza's (three fingers in the manga, but changed in the show
+like Dodoria and the Namekians), including his tail, but then has
+a stinger included at the end of his tail. He also has black 
+sections as well near his abdominal area, in the middle between 
+the two sections on his head, and even the black part of opposite
+side of his tail. He even has blue veins in both of his arms, 
+legs, and even some in the upper body. 
+
+~
+111 1 1
+D2
+~
+~
+0 -1 11178
+Z6
+C-1
+R0
+S
+#11178
+{BO,MAG}Perfect Cell{bo,mag}~
+
+In this form, Cell's wings disappear, and he becomes much more
+humanoid, also becoming bulkier. While the nose is not yet fully
+formed, he now has an actual mouth. The two off-shooting sections
+of his head now go straight into the air, as well. In this form,
+he is at his 2nd largest with his height being more than double
+that of Vegeta. His tail is longer than before, and protrudes
+from his back, as well as becoming orange and black. His voice
+is deeper than his previous form. The back of his head and the
+black section on his forehead are now formed together as a ball
+in between the two sections on his head. His lips are now the
+color pink, and the black sections above his lips look like a 
+mustache (except it is part of his skin). He now has blue eyes
+in this form. He even has feet like shoes in this form and metal
+plates all around both of his ankles. 
+
+~
+111 1 1
+D0
+~
+~
+0 -1 11177
+Z3
+C-1
+R0
+S
+#11179
+{BO,W}T{BO,BLUE}ie{BO,W}n{bo,w}~
+
+  Tien is a three-eyed man originally trained by one of Master
+  Roshi's rivals, though he eventually becomes a Z Fighter. He 
+  beat Goku at a worldwide martial arts tournament, is able to 
+  stop a waterfall with a blast, and can crush rocks on his head.
+  His fighting techniques include the ability to hover in the air,
+  throw concentration bombs, blind with flashes of light, and 
+  split into two or four separate entities. Tien is excited about
+  being trained by Kami and willing to fight against the Saiyans
+  despite the odds. He volunteers to be the first to fight against
+  the Saibamen, wins the battle and goes on to fight against the 
+  Saiyans. Tien can communicate telepathically with Chiaotzu, his
+  best friend. 
+
+~
+111 1 1
+D0
+~
+~
+0 -1 11181
+D1
+~
+door~
+1 -1 11180
+D2
+~
+door~
+1 -1 11104
+Z5
+C-1
+R0
+S
+#11180
+{BO,W}Chi{BO,R}ao{BO,W}tzu{bo,w}~
+
+  A master of telepathy, Chiaotzu has the power to stop people in
+  their tracks and to communicate telepathically. This 
+  white-skinned, red-checked little being is the devoted companion
+  of Tien.
+
+~
+111 1 1
+D3
+~
+door~
+1 -1 11179
+Z5
+C-1
+R0
+S
+#11181
+{BO,CYAN}Yajirobe{bo,cyan}~
+
+
+  A porkly young man is cowering behind a rock while
+  all the action is going on around him. He looks
+  like he is no threat to anyone.
+
+
+~
+111 1 1
+D0
+~
+~
+0 -1 11182
+D2
+~
+~
+0 -1 11179
+D3
+~
+~
+0 -1 11185
+Z5
+C-1
+R0
+S
+#11182
+{BO,BLUE}Bulma{bo,blue}~
+
+  In Dragon Ball, Bulma was a mixed up teenager with blue hair 
+  and a personality quirk that wouldn't allow her to shut up for
+  a second. Now, she's blossomed into a mixed up woman with that
+  same personality quirk. She is a mechanical genius who can 
+  operate and fix anything. For instance, she discovers and 
+  enhances the capabilities of the Saiyan Scouter. Bulma also 
+  takes the lead in finding a spaceship capable of flying to 
+  Namek, and she designed the Dragon Radar, which tracks the
+  locations of the Dragon Balls. Her father is Dr. Brief, of the 
+  famous Capsule Corporation. 
+
+~
+111 1 1
+D0
+~
+~
+0 -1 11188
+D1
+~
+~
+0 -1 11187
+D2
+~
+~
+0 -1 11181
+Z0
+C-1
+R0
+S
+#11183
+{BO,M}The Eternal Dragon{bo,m}~
+
+ 
+{BO,G}
+   .:'                                  `:.
+  ::'                                    `::
+ :: :.                                  .: ::
+  `:. `:.             .             .:'  .:'
+   `::. `::           !           ::' .::'
+       `::.`::.    .' ! `.    .::'.::'
+         `:.  `::::'':!:``::::'   ::'
+         :'*:::.  .:' ! `:.  .:::*`:
+        :: {BO,R}HHH{BO,G}::.   ` ! '   .::{BO,R}HHH{BO,G} ::      
+       ::: {BO,R}'H TH{BO,G}::.  `!'  .::{BO,R}HT H'{BO,G} :::      
+       ::..  {BO,R}'THHH{BO,G}:`:   :':{BO,R}HHHT'{BO,G}  ..::     
+       `::      {BO,R}`T{BO,G}: `. .' :{BO,R}T'{BO,G}      ::'     
+         `:. .   :         :   . .:'        
+           `::'               `::'         
+             :'  .`.  .  .'.  `:           
+             :' ::.       .:: `:           
+             :' `:::     :::' `:            
+              `.  ``     ''  .'
+               :`...........':
+               ` :`.     .': '
+                `:  `"""'  :'   {bo,g}
+~
+111 1 1
+Z1
+C-1
+R0
+S
+#11184
+{BOLD,B}Master Roshi's House{bo,b}~
+
+
+  {BO,MAGENTA}  ______________________________I I___
+   /                              I I /{BO,CYAN}|{BO,MAGENTA}
+  /       {BO,CYAN}Kami's   House {BO,MAGENTA}            /{BO,CYAN} |{BO,MAGENTA}
+ /__________________________________/{BO,CYAN}  |
+{BO,CYAN} |      ___                ___      |  {BO,CYAN}|
+ |     |_|_|      __      |_|_|     |  |
+ |     |_|_|     |  |     |_|_|     |  |
+ |               |. |               | / 
+ |_______________|__|_______________|/{bo,cyan}
+
+~
+111 1 1
+Z3
+C-1
+R0
+S
+#11185
+{BO,W}Oolong and Pwar{bo,white}~
+
+
+  A plump pig in a military uniform and a small cat 
+  are here arguing. "I can shape change better then 
+  you." "No Way." While arguing they both keep shape 
+  changing into various creatures trying to out do 
+  each other. 
+
+
+~
+111 1 1
+D1
+~
+~
+0 -1 11181
+Z1
+C-1
+R0
+S
+#11186
+{BO,CYAN}Yajirobe{bo,cyan}~
+
+
+  A porkly young man is cowering behind a rock while
+  all the action is going on around him. He looks
+  like he is no threat to anyone.
+
+
+~
+111 1 1
+Z1
+C-1
+R0
+S
+#11187
+Yamcha~
+
+  Yamcha is a longtime friend and ally of Goku's, though he was 
+  once a notorious bandit. He is sometimes accompanied by Puar,
+  his devoted cat companion. He is anxious and willing to be
+  trained by Kami and join the upcoming battle against the Saiyans.
+  Yamcha and Bulma were once a couple, but eventually Bulma moves
+  on to Vegeta. .
+
+~
+111 1 1
+D3
+~
+~
+0 -1 11182
+Z1
+C-1
+R0
+S
+#11188
+{BO,W}C{BO,CYAN}hi-Ch{BO,W}i{bo,w}~
+
+  The headstrong wife of Goku, some say Chi-Chi is the most powerful
+  woman on Earth (because she can control Goku). Her father, Ox-King,
+  trained her to be a formidable fighter in her own right. In Dragon 
+  Ball Z, Chi-Chi is mainly seen as a loving wife and doting mother,
+  concerned and protective, perhaps even over-protective, of her
+  family. She is always encouraging Gohan with his studies and often
+  finds herself stubbornly at odds with Gohan's involvement with the
+  martial arts.
+
+~
+111 1 1
+D0
+~
+~
+0 -1 11189
+D2
+~
+~
+0 -1 11182
+Z1
+C-1
+R0
+S
+#11189
+Krillin~
+
+  As a young boy, Krillin studied martial arts with Goku under
+  Master Roshi. Originally, he and Goku were fierce rivals, but
+  now they are best friends. A short, bald warrior, loyal Krillin
+  provides comic relief in tense situations as he tries to keep up
+  with Goku and some of the other more powerful warriors. A good 
+  fighter on his own accord, he's always there to help Goku. He
+  can and has saved his friend's life more than once. Goku 
+  constantly encourages Krillin to have confidence as he learns to
+  be a remarkable fighter. 
+
+~
+111 1 1
+D0
+~
+~
+0 -1 11190
+D2
+~
+~
+0 -1 11188
+Z1
+C-1
+R0
+S
+#11190
+{BO,Y}Trunks{bo,y}~
+
+Trunks is the son of Bulma - a headstrong, technical genius - 
+and Vegeta - one of the most powerful fighters in the Dragon 
+Ball Z universe. His exact age is not certain, but he first
+appears in Dragon Ball Z as a teen. He is from the future and 
+has witnessed a threat to Earth which cannot be stopped. He has
+come back in time to try to save the future Earth, only to find
+our heroes in Earth facing their own peril.
+
+~
+111 0 1
+D0
+~
+~
+0 -1 11191
+D2
+~
+~
+0 -1 11189
+Z0
+C-1
+R0
+S
+#11191
+{BO,G}Goku{bo,g}~
+
+Goku is the hero of Dragon Ball Z, the most powerful warrior on
+Earth. When the Saiyans arrive, Goku learns the mysterious
+secret of his own past: he is a Saiyan formerly named Kakarot.
+Goku was sent to Earth as a baby to destroy the planet, but a
+head injury as a child scrambled Goku's programming. Instead of
+growing up to become a destructive super-warrior, he became
+innocent and pure of heart, fighting for good. Goku is peaceful, 
+good natured, honest, loving to his family and friends, loyal, 
+trustworthy, and brave. If he has a weakness, it is his trusting 
+nature. He always finds the good in people when others don't see
+it, though Goku's enemies sometimes take advantage of his naive
+trust. 
+
+~
+111 0 1
+D0
+~
+~
+0 -1 11183
+D2
+~
+~
+0 -1 11190
+Z0
+C-1
+R0
+S
+#11197
+This is nowhere.~
+
+                             4.
+                             e$$$$ec.
+                             $$$$$$$$$e     zdP**
+                    '       4$      ^"*$$$ed$$$$$.
+                    -       ^$            "  "*$$$$E
+                    F        b     .    ^**r^ $$$$$$$F
+                    .       .F  .dL     *$L   .d$$$$$$.
+                    "       4F ^  "           $$$$$$$$3$
+                   4.       d.                P$$$$$$$.$
+                   4F      4$L%             z$$$$$$$$$$$
+                   4"      d$$c %.         4$$$$$$$FFb$$
+                   4$     4$$$    "         ^$$$$$$$FFL"
+                    $     3$$$r           "   $$$$$$$$*"
+                    $      4$$           -.  .$$$$$$$$ $
+                    $      e$$          -   $$$$$$$$3$.$
+                    F .   .$$%            z$$$$$$$$$$dP$
+                     d    $$$          4*$$$$$3$$$$$$F$d
+                   .$   ze$F         -%^$$$$$$$$$$$$$$$$
+~
+111 262144 1
+Z0
+C-1
+R0
+S
+#11198
+Ambush Room~
+
+
+This is a room for me to put a couple mobs in to Ambush people!!!! Noone will ever see this room.
+
+
+~
+111 0 1
+D5
+~
+~
+0 -1 11119
+Z-1
+C-1
+R0
+S
+#11199
+{bo,R}I{bo,BLUE}T{bo,YELLOW}H{bo,MAGENTA}E{bo,BLACK}R{bo,GREEN}I{bo,CYAN}A{bo,WHITE}N{bo,white}~
+
+ 
+{BO,G}
+   .:'                                  `:.
+  ::'                                    `::
+ :: :.                                  .: ::
+  `:. `:.             .             .:'  .:'
+   `::. `::           !           ::' .::'
+       `::.`::.    .' ! `.    .::'.::'
+         `:.  `::::'':!:``::::'   ::'
+         :'*:::.  .:' ! `:.  .:::*`:
+        :: {BO,R}HHH{BO,G}::.   ` ! '   .::{BO,R}HHH{BO,G} ::      
+       ::: {BO,R}'H TH{BO,G}::.  `!'  .::{BO,R}HT H'{BO,G} :::      
+       ::..  {BO,R}'THHH{BO,G}:`:   :':{BO,R}HHHT'{BO,G}  ..::     
+       `::      {BO,R}`T{BO,G}: `. .' :{BO,R}T'{BO,G}      ::'     
+         `:. .   :         :   . .:'        
+           `::'               `::'         
+             :'  .`.  .  .'.  `:           
+             :' ::.       .:: `:           
+             :' `:::     :::' `:            
+              `.  ``     ''  .'
+               :`...........':
+               ` :`.     .': '
+                `:  `"""'  :'   {bo,g}
+~
+111 0 1
+D0
+~
+~
+0 -1 3005
+D1
+~
+~
+0 -1 2097
+D2
+~
+~
+0 -1 3025
+D3
+~
+~
+0 -1 2096
+D5
+~
+~
+0 -1 3014
+Z-1
+C-1
+R0
+S
+$~

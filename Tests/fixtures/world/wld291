@@ -1,0 +1,1684 @@
+#29100
+{C}Along The Thermodon River{c}~
+{C}
+   The Thermodon River directly to the west flows sluggishly
+   here, near its mouth. A short distance to the north, it
+   will empty into the Black Sea. The land here is well-fed
+   by its waters, and lush green fields and forests abound.
+   Many spectacular horses, alone or in packs, roam the land
+   freely.
+{c}
+~
+291 0 2
+D0
+~
+~
+0 -1 29101
+Z3
+C-1
+S
+#29101
+{C}Along The Thermodon River{c}~
+{C}
+   The Thermodon River directly to the west flows sluggishly
+   here, near its mouth. A short distance to the north, it
+   will empty into the Black Sea. The land here is well-fed
+   by its waters, and lush green fields and forests abound.
+   Many spectacular horses, alone or in packs, roam the land
+   freely.
+{c}
+~
+291 4 2
+D0
+~
+gate~
+2 -1 29130
+D1
+~
+~
+0 -1 29102
+D2
+~
+~
+0 -1 29100
+Z3
+C-1
+S
+#29102
+{Y}A Trampled Path{y}~
+{Y}
+   The knee-high grass that grows here has been trampled down
+   to bare dirt in places, forming a well-defined path that
+   leads away from the eastern bank of the Thermodon. The
+   large patches of brown among the dark green grass are proof
+   that the path is used quite often. There is a dense forest
+   in the valley to the south.
+{y}
+~
+291 0 2
+D1
+~
+~
+0 -1 29103
+D3
+~
+~
+0 -1 29101
+D5
+~
+~
+0 -1 29139
+Z3
+C-1
+S
+#29103
+{Y}A Trampled Path{y}~
+{Y}
+   The knee-high grass that grows here has been trampled down
+   to bare dirt in places, forming a well-defined path that
+   leads away from the eastern bank of the Thermodon. The
+   large patches of brown among the dark green grass are proof
+   that the path is used quite often.
+{y}
+~
+291 0 2
+D2
+~
+~
+0 -1 29104
+D3
+~
+~
+0 -1 29102
+Z3
+C-1
+S
+#29104
+{BO,BL}Entrance To Themiscyra{bo,bl}~
+{BO,BL}
+   Two age-darkened wooden gates bar entrance into the city of
+   Themiscrya. Sharp metal spikes protrude from the sturdy
+   wood, darkened further by trails of dried blood. The tips of
+   numerous arrows poke through crescent-shaped holes in the
+   stone blocks forming the city's walls. A look to the top of
+   the gates shows a stone battlement, also lined by archers.
+{bo,bl}
+~
+291 0 1
+D0
+~
+~
+0 -1 29103
+D1
+~
+gates~
+6 -1 29106
+D4
+~
+~
+0 -1 29105
+Z3
+C-1
+S
+#29105
+{BO,BL}The Battlement{bo,bl}~
+{BO,BL}
+   The battlement is usually lined with archers. They serve not
+   only as defenders of the city but also as scouts, for from
+   this vantage point they can easily see ships sailing in from
+   the Black Sea to the north. The pulley to open the gates
+   below is also located here.
+{bo,bl}
+~
+291 0 1
+D5
+~
+~
+0 -1 29104
+Z3
+C-1
+S
+#29106
+{W}Otrera Road{w}~
+{W}
+   The street, named after the Queen's mother, is broad but
+   unpaved. Trees grow haphazardly all around the road, and
+   give one the sense of being in a forest. Few people are
+   on the streets. Too few, for a city of this size. Amazons
+   do not like being confined within walls, apparently.
+{w}
+~
+291 0 1
+D2
+~
+~
+0 -1 29107
+D3
+~
+gates~
+1 -1 29104
+Z3
+C-1
+S
+#29107
+{W}Otrera Road{w}~
+{W}
+   The street, named after the Queen's mother, is broad but
+   unpaved. Trees grow haphazardly all around the road, and
+   give one the sense of being in a forest. Few people are
+   on the streets. Too few, for a city of this size. Amazons
+   do not like being confined within walls, apparently.
+{w}
+~
+291 0 1
+D0
+~
+~
+0 -1 29106
+D1
+~
+~
+0 -1 29108
+Z3
+C-1
+S
+#29108
+{W}Otrera Road{w}~
+{W}
+   This part of Themiscrya is more densely populated than the
+   parts to the west. Wooden houses appear regularly, but each
+   is well-landscaped and positioned to provide the best vista
+   possible. The residents seem well-armed: besides some women
+   in long robes, every other woman on the street is carrying
+   either a spear or a bow.
+{w}
+~
+291 0 1
+D0
+~
+~
+0 -1 29116
+D1
+~
+~
+0 -1 29109
+D2
+~
+door~
+1 0 29123
+D3
+~
+~
+0 -1 29107
+Z3
+C-1
+S
+#29109
+{W}Otrera Road{w}~
+{W}
+   This part of Themiscrya is more densely populated than the
+   parts to the west. Wooden houses appear regularly, but each
+   is well-landscaped and positioned to provide the best vista
+   possible. The residents seem well-armed: besides some women
+   in long robes, every other woman on the street is carrying
+   either a spear or a bow.
+{w}
+~
+291 0 1
+D1
+~
+door~
+1 0 29124
+D2
+~
+~
+0 -1 29110
+D3
+~
+~
+0 -1 29108
+Z3
+C-1
+S
+#29110
+{W}Otrera Road{w}~
+{W}
+   This part of Themiscrya is more densely populated than the
+   parts to the west. Wooden houses appear regularly, but each
+   is well-landscaped and positioned to provide the best vista
+   possible. The residents seem well-armed: besides some women
+   in long robes, every other woman on the street is carrying
+   either a spear or a bow.
+{w}
+~
+291 0 1
+D0
+~
+~
+0 -1 29109
+D1
+~
+~
+0 -1 29111
+D3
+~
+door~
+1 0 29125
+Z3
+C-1
+S
+#29111
+{W}Otrera Road{w}~
+{W}
+   Otrera Road is quite busy here, full of Amazons traveling
+   to and from the market to the south. A thick grove of fruit
+   trees grows opposite the market, and some women are within
+   gathering their harvest. Beyond the grove, the city slopes
+   up towards a cliff, where a stone temple lies.
+{w}
+~
+291 0 1
+D1
+~
+~
+0 -1 29112
+D2
+~
+~
+0 -1 29114
+D3
+~
+~
+0 -1 29110
+Z3
+C-1
+S
+#29112
+{W}Otrera Road{w}~
+{W}
+   Otrera Road is quite busy here, full of Amazons traveling
+   to and from the market to the south. To the east, a dense
+   fog covers the foothills at the base of a mountain and
+   obscures the view of anything in that direction.
+{w}
+~
+291 0 1
+D0
+~
+door~
+1 0 29127
+D2
+~
+~
+0 -1 29113
+D3
+~
+~
+0 -1 29111
+Z3
+C-1
+S
+#29113
+{BO,BLU}Open Air Markets{bo,blu}~
+{BO,BLU}
+   From merchants hawking their wares to Amazons bargaining for
+   a better price, the noise in this market is deafening. Some
+   merchants wait on their customers in large, semi-permanent
+   stalls while others make their deals over little more than a
+   blanket on the ground. This is the only place in the city
+   where men are regularly seen.
+{bo,blu}
+~
+291 0 0
+D0
+~
+~
+0 -1 29112
+D1
+~
+~
+0 -1 29129
+D2
+~
+~
+0 -1 29128
+D3
+~
+~
+0 -1 29114
+Z3
+C-1
+S
+#29114
+{BO,BLU}Open Air Markets{bo,blu}~
+{BO,BLU}
+   From merchants hawking their wares to Amazons bargaining for
+   a better price, the noise in this market is deafening. Some
+   merchants wait on their customers in large, semi-permanent
+   stalls while others make their deals over little more than a
+   blanket on the ground. This is the only place in the city
+   where men are regularly seen.
+{bo,blu}
+~
+291 0 0
+D0
+~
+~
+0 -1 29111
+D1
+~
+~
+0 -1 29113
+D2
+~
+~
+0 -1 29126
+Z3
+C-1
+S
+#29115
+{W}Areios Road{w}~
+{W}
+   This road, named after the God of War and the Queen's
+   father, runs along a sheer cliff that hangs over the rocky
+   beaches of the Black Sea. Many of the women on this road
+   are in long white robes. From this vantage point, one can
+   see a tall white building in the middle of the old-growth
+   forest beyond the city.
+{w}
+~
+291 0 1
+D0
+~
+~
+0 -1 29119
+D1
+~
+~
+0 -1 29116
+D3
+~
+door~
+1 0 29120
+Z3
+C-1
+S
+#29116
+{W}Areios Road{w}~
+{W}
+   This road, named after the God of War and the Queen's
+   father, runs along a sheer cliff that hangs over the rocky
+   beaches of the Black Sea. Many of the women on this road
+   are in long white robes. From this vantage point, one can
+   see a tall white building in the middle of the old-growth
+   forest beyond the city.
+{w}
+~
+291 0 1
+D0
+~
+~
+0 -1 29119
+D1
+~
+~
+0 -1 29117
+D2
+~
+~
+0 -1 29108
+D3
+~
+~
+0 -1 29115
+Z3
+C-1
+S
+#29117
+{W}Areios Road{w}~
+{W}
+   This road, named after the God of War and the Queen's
+   father, runs along a sheer cliff that hangs over the rocky
+   beaches of the Black Sea. Many of the women on this road
+   are in long white robes. From this vantage point, one can
+   see a large stone structure at the top of the mountain to
+   the east of Themiscrya.
+{w}
+~
+291 0 1
+D0
+~
+~
+0 -1 29158
+D1
+~
+~
+0 -1 29118
+D2
+~
+door~
+1 0 29121
+D3
+~
+~
+0 -1 29116
+Z3
+C-1
+S
+#29118
+{W}Areios Road{w}~
+{W}
+   This road, named after the God of War and the Queen's
+   father, runs along a sheer cliff that hangs over the rocky
+   beaches of the Black Sea. Many of the women on this road
+   are in long white robes. From this vantage point, one can
+   see a large stone structure at the top of the mountain to
+   the east of Themiscrya.
+{w}
+~
+291 0 1
+D1
+~
+door~
+1 0 29122
+D3
+~
+~
+0 -1 29117
+Z3
+C-1
+S
+#29119
+{BL}Above The Black Sea{bl}~
+{BL}
+   It's probably not a good idea to walk off a cliff.
+{bl}
+~
+291 2 1
+M50
+Z3
+C-1
+S
+#29120
+{BO,BL}A Wooden House{bo,bl}~
+{BO,BL}
+   This wooden house is sparsely furnished with well-crafted
+   items. In the far corner, rich fur pelts line a heavy oak
+   bed. An black iron cooking pot hangs in the now-cold hearth.
+   The table next to the hearth holds gold plates and goblets,
+   no doubt plundered from an Amazon foe. Windows in every wall
+   are an attempt to make the inhabitant feel a part of the
+   great outdoors.
+{bo,bl}
+~
+291 8 0
+D1
+~
+door~
+1 0 29115
+Z3
+C-1
+S
+#29121
+{BO,BL}A Wooden House{bo,bl}~
+{BO,BL}
+   This wooden house is sparsely furnished with well-crafted
+   items. In the far corner, rich fur pelts line a heavy oak
+   bed. An black iron cooking pot hangs in the now-cold hearth.
+   The table next to the hearth holds gold plates and goblets,
+   no doubt plundered from an Amazon foe. Windows in every wall
+   are an attempt to make the inhabitant feel a part of the
+   great outdoors.
+{bo,bl}
+~
+291 8 0
+D0
+~
+door~
+1 0 29117
+Z3
+C-1
+S
+#29122
+{BO,BL}A Wooden House{bo,bl}~
+{BO,BL}
+   This wooden house is sparsely furnished with well-crafted
+   items. In the far corner, rich fur pelts line a heavy oak
+   bed. An black iron cooking pot hangs in the now-cold hearth.
+   The table next to the hearth holds gold plates and goblets,
+   no doubt plundered from an Amazon foe. Windows in every wall
+   are an attempt to make the inhabitant feel a part of the
+   great outdoors.
+{bo,bl}
+~
+291 8 0
+D3
+~
+door~
+1 0 29118
+Z3
+C-1
+S
+#29123
+{BO,BL}A Wooden House{bo,bl}~
+{BO,BL}
+   This wooden house is sparsely furnished with well-crafted
+   items. In the far corner, rich fur pelts line a heavy oak
+   bed. An black iron cooking pot hangs in the now-cold hearth.
+   The table next to the hearth holds gold plates and goblets,
+   no doubt plundered from an Amazon foe. Windows in every wall
+   are an attempt to make the inhabitant feel a part of the
+   great outdoors.
+{bo,bl}
+~
+291 8 0
+D0
+~
+door~
+1 0 29108
+Z3
+C-1
+S
+#29124
+{BO,BL}A Wooden House{bo,bl}~
+{BO,BL}
+   This wooden house is sparsely furnished with well-crafted
+   items. In the far corner, rich fur pelts line a heavy oak
+   bed. An black iron cooking pot hangs in the now-cold hearth.
+   The table next to the hearth holds gold plates and goblets,
+   no doubt plundered from an Amazon foe. Windows in every wall
+   are an attempt to make the inhabitant feel a part of the
+   great outdoors.
+{bo,bl}
+~
+291 8 0
+D3
+~
+door~
+1 0 29109
+Z3
+C-1
+S
+#29125
+{BO,BL}A Wooden House{bo,bl}~
+{BO,BL}
+   This wooden house is sparsely furnished with well-crafted
+   items. In the far corner, rich fur pelts line a heavy oak
+   bed. An black iron cooking pot hangs in the now-cold hearth.
+   The table next to the hearth holds gold plates and goblets,
+   no doubt plundered from an Amazon foe. Windows in every wall
+   are an attempt to make the inhabitant feel a part of the
+   great outdoors.
+{bo,bl}
+~
+291 8 0
+D1
+~
+door~
+1 0 29110
+Z3
+C-1
+S
+#29126
+{BLU}The Horse Trader{b}~
+{BLU}
+   The horse trader is the most welcome merchant in the market,
+   since Amazons are highly skilled riders who see horses as an
+   inseparable part of their lives. Today, he is showing five
+   horses, which are tied to stakes around his tent. They are
+   all excellent animals, as Amazons would accept nothing less
+   than the best.
+{blu}
+~
+291 0 0
+D0
+~
+~
+0 -1 29114
+Z3
+C-1
+S
+#29127
+{BO,BL}A Wooden House{bo,bl}~
+{BO,BL}
+   This wooden house is sparsely furnished with well-crafted
+   items. In the far corner, rich fur pelts line a heavy oak
+   bed. An black iron cooking pot hangs in the now-cold hearth.
+   The table next to the hearth holds gold plates and goblets,
+   no doubt plundered from an Amazon foe. Windows in every wall
+   are an attempt to make the inhabitant feel a part of the
+   great outdoors.
+{bo,bl}
+~
+291 8 0
+D2
+~
+door~
+1 0 29112
+Z3
+C-1
+S
+#29128
+{BLU}A Small Stall{blu}~
+{BLU}
+   This stall, one of the smallest in the market, is little
+   more than a canvas stretched over four wooden poles. The
+   merchant's fine armor, displayed somewhat carelessly on
+   wooden benches, are mostly ignored by the market-goers.
+   Surprising, considering his sturdy and well-crafted wares
+   would be quite welcome in other markets. He should have
+   known: Amazons disdain heavy armor, preferring freedom of
+   movement over safety.
+{blu}   
+~
+291 0 0
+D0
+~
+~
+0 -1 29113
+Z3
+C-1
+S
+#29129
+{BLU}A Market Stall{blu}~
+{BLU}
+   This uncovered stall sells only weapons used by Amazons. Two
+   women stand by the spears, hefting each in turn. Some others
+   are testing the fine bows crafted by the weaponsmith. Yet
+   another is talking to the weaponsmith, an unstrung bow in
+   hand, no doubt discussing the cost of fixing her weapon.
+{blu}
+~
+291 0 0
+D3
+~
+~
+0 -1 29113
+Z3
+C-1
+S
+#29130
+{G}The Pasture{g}~
+{GR}
+   The land slopes gently up to a fertile field of ankle-high
+   grass, which extend north all the way to the Black Sea. A
+   herd of magnificent horses use these fields as grazing
+   grounds, and they seem to have chased all other creatures
+   out of the pasture. Most of the horses startle at human
+   approach and so appear untamed, yet all of them are shoed.
+{g}
+~
+291 0 2
+D0
+~
+~
+0 -1 29131
+D1
+~
+~
+0 -1 29135
+D2
+~
+gate~
+2 -1 29101
+Z3
+C-1
+S
+#29131
+{G}The Pasture{g}~
+{GR}
+   The land slopes gently up to a fertile field of ankle-high
+   grass, which extend north all the way to the Black Sea. A
+   herd of magnificent horses use these fields as grazing
+   grounds, and they seem to have chased all other creatures
+   out of the pasture. Most of the horses startle at human
+   approach and so appear untamed, yet all of them are shoed.
+{g}
+~
+291 0 2
+D0
+~
+~
+0 -1 29132
+D1
+~
+~
+0 -1 29134
+D2
+~
+~
+0 -1 29130
+Z3
+C-1
+S
+#29132
+{G}The Pasture{g}~
+{GR}
+   The land slopes gently up to a fertile field of ankle-high
+   grass, which extend north all the way to the Black Sea. A
+   herd of magnificent horses use these fields as grazing
+   grounds, and they seem to have chased all other creatures
+   out of the pasture. Most of the horses startle at human
+   approach and so appear untamed, yet all of them are shoed.
+{g}
+~
+291 0 2
+D1
+~
+~
+0 -1 29133
+D2
+~
+~
+0 -1 29131
+Z3
+C-1
+S
+#29133
+{G}The Pasture{g}~
+{GR}
+   The land slopes gently up to a fertile field of ankle-high
+   grass, which extend north all the way to the Black Sea. A
+   herd of magnificent horses use these fields as grazing
+   grounds, and they seem to have chased all other creatures
+   out of the pasture. Most of the horses startle at human
+   approach and so appear untamed, yet all of them are shoed.
+{g}
+~
+291 0 2
+D1
+~
+~
+0 -1 29136
+D2
+~
+~
+0 -1 29134
+D3
+~
+~
+0 -1 29132
+Z3
+C-1
+S
+#29134
+{G}The Pasture{g}~
+{GR}
+   The land slopes gently up to a fertile field of ankle-high
+   grass, which extend north all the way to the Black Sea. A
+   herd of magnificent horses use these fields as grazing
+   grounds, and they seem to have chased all other creatures
+   out of the pasture. Most of the horses startle at human
+   approach and so appear untamed, yet all of them are shoed.
+{g}
+~
+291 0 2
+D0
+~
+~
+0 -1 29133
+D1
+~
+~
+0 -1 29137
+D2
+~
+~
+0 -1 29135
+D3
+~
+~
+0 -1 29131
+Z3
+C-1
+S
+#29135
+{G}The Pasture{g}~
+{GR}
+   The land slopes gently up to a fertile field of ankle-high
+   grass, which extend north all the way to the Black Sea. A
+   herd of magnificent horses use these fields as grazing
+   grounds. Although the horses startle at human approach, a
+   wooden fence to the east and south is proof that they are
+   cared for by someone.
+{g}
+~
+291 0 2
+D0
+~
+~
+0 -1 29134
+D3
+~
+~
+0 -1 29130
+Z3
+C-1
+S
+#29136
+{G}The Pasture{g}~
+{GR}
+   The land slopes gently up to a fertile field of ankle-high
+   grass, which extend north all the way to the Black Sea. A
+   herd of magnificent horses use these fields as grazing
+   grounds, and they seem to have chased all other creatures
+   out of the pasture. Most of the horses startle at human
+   approach and so appear untamed, yet all of them are shoed.
+{g}
+~
+291 0 2
+D1
+~
+~
+0 -1 29138
+D2
+~
+~
+0 -1 29137
+D3
+~
+~
+0 -1 29133
+Z3
+C-1
+S
+#29137
+{G}The Pasture{g}~
+{GR}
+   The land slopes gently up to a fertile field of ankle-high
+   grass, which extend north all the way to the Black Sea. A
+   herd of magnificent horses use these fields as grazing
+   grounds. Although the horses startle at human approach, a
+   wooden fence to the east and south is proof that they are
+   cared for by someone.
+{g}
+~
+291 0 2
+D0
+~
+~
+0 -1 29136
+D3
+~
+~
+0 -1 29134
+Z3
+C-1
+S
+#29138
+{G}The Pasture{g}~
+{GR}
+   The land slopes gently up to a fertile field of ankle-high
+   grass, which extend north all the way to the Black Sea. A
+   herd of magnificent horses use these fields as grazing
+   grounds. Although the horses startle at human approach, a
+   wooden fence to the east and south is proof that they are
+   cared for by someone.
+{g}
+~
+291 0 2
+D3
+~
+~
+0 -1 29136
+Z3
+C-1
+S
+#29139
+{G}An Overgrown Forest{g}~
+{GR}
+   This is an old-growth forest, with trees rising so high it
+   is impossible to see the treetops. There are no discernible
+   paths through the forest. Even worse, the canopy blocks out
+   the sunlight and any view of landmarks. The trunks of these
+   trees are often so thick that they block progress in certain
+   directions.
+{gr}
+~
+291 1025 3
+D0
+~
+~
+0 -1 29146
+D1
+~
+~
+0 -1 29147
+D3
+~
+~
+0 -1 29140
+D4
+~
+~
+0 -1 29102
+X6291456
+Z3
+C-1
+S
+#29140
+{G}An Overgrown Forest{g}~
+{GR}
+   This is an old-growth forest, with trees rising so high it
+   is impossible to see the treetops. There are no discernible
+   paths through the forest. Even worse, the canopy blocks out
+   the sunlight and any view of landmarks. The trunks of these
+   trees are often so thick that they block progress in certain
+   directions.
+{gr}
+~
+291 1025 3
+D0
+~
+~
+0 -1 29140
+D2
+~
+~
+0 -1 29141
+D3
+~
+~
+0 -1 29147
+X6291456
+Z3
+C-1
+S
+#29141
+{G}An Overgrown Forest{g}~
+{GR}
+   This is an old-growth forest, with trees rising so high it
+   is impossible to see the treetops. There are no discernible
+   paths through the forest. Even worse, the canopy blocks out
+   the sunlight and any view of landmarks. The trunks of these
+   trees are often so thick that they block progress in certain
+   directions.
+{gr}
+~
+291 1025 3
+D1
+~
+~
+0 -1 29142
+D2
+~
+~
+0 -1 29139
+D3
+~
+~
+0 -1 29146
+X6291456
+Z3
+C-1
+S
+#29142
+{G}An Overgrown Forest{g}~
+{GR}
+   This is an old-growth forest, with trees rising so high it
+   is impossible to see the treetops. There are no discernible
+   paths through the forest. Even worse, the canopy blocks out
+   the sunlight and any view of landmarks. The trunks of these
+   trees are often so thick that they block progress in certain
+   directions.
+{gr}
+~
+291 1025 3
+D0
+~
+~
+0 -1 29143
+D1
+~
+~
+0 -1 29141
+D2
+~
+~
+0 -1 29142
+X6291456
+Z3
+C-1
+S
+#29143
+{G}An Overgrown Forest{g}~
+{GR}
+   This is an old-growth forest, with trees rising so high it
+   is impossible to see the treetops. There are no discernible
+   paths through the forest. Even worse, the canopy blocks out
+   the sunlight and any view of landmarks. The trunks of these
+   trees are often so thick that they block progress in certain
+   directions.
+{gr}
+~
+291 1025 3
+D0
+~
+~
+0 -1 29143
+D1
+~
+~
+0 -1 29142
+D3
+~
+~
+0 -1 29144
+X6291456
+Z3
+C-1
+S
+#29144
+{G}An Overgrown Forest{g}~
+{GR}
+   This is an old-growth forest, with trees rising so high it
+   is impossible to see the treetops. There are no discernible
+   paths through the forest. Even worse, the canopy blocks out
+   the sunlight and any view of landmarks. The trunks of these
+   trees are often so thick that they block progress in certain
+   directions.
+{gr}
+~
+291 1025 3
+D0
+~
+~
+0 -1 29141
+D2
+~
+~
+0 -1 29145
+D3
+~
+~
+0 -1 29140
+X6291456
+Z3
+C-1
+S
+#29145
+{G}An Overgrown Forest{g}~
+{GR}
+   This is an old-growth forest, with trees rising so high it
+   is impossible to see the treetops. There are no discernible
+   paths through the forest. Even worse, the canopy blocks out
+   the sunlight and any view of landmarks. The trunks of these
+   trees are often so thick that they block progress in certain
+   directions.
+{gr}
+~
+291 1025 3
+D0
+~
+~
+0 -1 29139
+D1
+~
+~
+0 -1 29144
+D2
+~
+~
+0 -1 29148
+D3
+~
+~
+0 -1 29143
+X6291456
+Z3
+C-1
+S
+#29146
+{G}An Overgrown Forest{g}~
+{GR}
+   This is an old-growth forest, with trees rising so high it
+   is impossible to see the treetops. There are no discernible
+   paths through the forest. Even worse, the canopy blocks out
+   the sunlight and any view of landmarks. The trunks of these
+   trees are often so thick that they block progress in certain
+   directions.
+{gr}
+~
+291 1025 3
+D0
+~
+~
+0 -1 29140
+D1
+~
+~
+0 -1 29139
+D2
+~
+~
+0 -1 29146
+D3
+~
+~
+0 -1 29147
+X6291456
+Z3
+C-1
+S
+#29147
+{G}An Overgrown Forest{g}~
+{GR}
+   This is an old-growth forest, with trees rising so high it
+   is impossible to see the treetops. There are no discernible
+   paths through the forest. Even worse, the canopy blocks out
+   the sunlight and any view of landmarks. The trunks of these
+   trees are often so thick that they block progress in certain
+   directions.
+{gr}
+~
+291 1025 3
+D0
+~
+~
+0 -1 29147
+D1
+~
+~
+0 -1 29146
+D2
+~
+~
+0 -1 29139
+D3
+~
+~
+0 -1 29141
+X6291456
+Z3
+C-1
+S
+#29148
+{BO,W}A Circular Courtyard{bo,w}~
+{BO,W}
+   The forest to the north gives way to a beautifully designed
+   circular courtyard, which lies in front of a crescent-shaped
+   building. A marble statue of Artemis sits in the middle of
+   the courtyard. Surrounding the statue are four distinct
+   gardens, each more beautiful than the last. Stone benches
+   line the gardens and are shaded by trellises covered by
+   flowering vines.
+{bo,w}
+~
+291 4 0
+D0
+~
+~
+0 -1 29145
+D2
+~
+~
+0 -1 29149
+Z3
+C-1
+S
+#29149
+{BO,W}A Circular Courtyard{bo,w}~
+{BO,W}
+   The forest to the north gives way to a beautifully designed
+   circular courtyard, which lies in front of a crescent-shaped
+   building. A marble statue of Artemis sits in the middle of
+   the courtyard. Surrounding the statue are four distinct
+   gardens, each more beautiful than the last. Stone benches
+   line the gardens and are shaded by trellises covered by
+   flowering vines.
+{bo,w}
+~
+291 4 0
+D0
+~
+~
+0 -1 29148
+D1
+~
+~
+0 -1 29154
+D3
+~
+~
+0 -1 29150
+Z3
+C-1
+S
+#29150
+{BO,W}The Temple of Artemis{bo,w}~
+{BO,W}
+   Wide, gradual steps lead up to the Temple of Artemis. The
+   crescent-shaped building is a white so pure that it gleams,
+   as befits the virgin goddess. Ionic columns define the edge
+   of the first level, which is an open-air walkway that
+   encircles half of the courtyard. A balcony juts out over
+   the courtyard from the second level of the temple.
+{bo,w}
+~
+291 0 0
+D1
+~
+~
+0 -1 29149
+D2
+~
+~
+0 -1 29151
+Z3
+C-1
+S
+#29151
+{BO,W}The Temple of Artemis{bo,w}~
+{BO,W}
+   An archway to the north separates the open-air walkway and
+   the enclosed part of the temple dedicated to the patron
+   goddess of the Amazons. Niches in the walls hold white
+   marble statues: most of Artemis, some of stags, others of
+   objects or animals sacred to her. Another archway to the
+   south leads to the inner sanctum of the temple.
+{bo,w}
+~
+291 0 0
+D0
+~
+~
+0 -1 29150
+D1
+~
+~
+0 -1 29152
+Z3
+C-1
+S
+#29152
+{BO,W}The Inner Sanctum{bo,w}~
+{BO,W}
+   The inner sanctum of the temple is a circular atrium about
+   five paces wide. A round opening in the vaulted ceiling
+   allows moonlight to shine upon the 25-foot tall statue of
+   Artemis in the center of the room. Sacrifices to the
+   goddess can be placed at a small altar at her feet. A
+   walkway encircles the atrium and leads to the balcony.
+{bo,w}
+~
+291 8 0
+D1
+~
+~
+0 -1 29153
+D2
+~
+wall~
+2 -1 29155
+D3
+~
+~
+0 -1 29151
+Z3
+C-1
+S
+#29153
+{BO,W}The Temple of Artemis{bo,w}~
+{BO,W}
+   An archway to the north separates the open-air walkway and
+   the enclosed part of the temple dedicated to the patron
+   goddess of the Amazons. Niches in the walls hold white
+   marble statues: most of Artemis, some of stags, others of
+   objects or animals sacred to her. Another archway to the
+   south leads to the inner sanctum of the temple.
+{bo,w}
+~
+291 0 0
+D0
+~
+~
+0 -1 29154
+D3
+~
+~
+0 -1 29152
+Z3
+C-1
+S
+#29154
+{BO,W}The Temple of Artemis{bo,w}~
+{BO,W}
+   Wide, gradual steps lead up to the Temple of Artemis. The
+   crescent-shaped building is a white so pure that it gleams,
+   as befits the virgin goddess. Ionic columns define the edge
+   of the first level, which is an open-air walkway that
+   encircles half of the courtyard. A balcony juts out over
+   the courtyard from the second level of the temple.
+{bo,w}
+~
+291 0 0
+D2
+~
+~
+0 -1 29153
+D3
+~
+~
+0 -1 29149
+Z3
+C-1
+S
+#29155
+{W}A Small Stairway{w}~
+{W}
+   Behind the wall of the sanctum, a set of stone steps leads
+   up to the second level of the temple. The stairway is not
+   well-lit, but there should be enough light for one to find
+   his way if he chooses his steps carefully. The door that
+   hides these stairs is to the north.
+{w}
+~
+291 9 0
+D0
+~
+wall~
+2 -1 29152
+D4
+~
+~
+0 -1 29156
+Z9
+C-1
+S
+#29156
+{BO,W}The Walkway{bo,w}~
+{B,W}
+   The tiled walkway encircles the atrium of the inner sanctum.
+   The balustrade, like most of rest of the temple, is made of
+   gleaming white marble. Locked doors lead to the rest of the
+   temple, but it is highly unlikely that an uninitiated will
+   be able to gain access to the secret roooms. An archway to
+   the north leads to the balcony.
+{b,w}
+~
+291 0 0
+D0
+~
+~
+0 -1 29157
+D1
+~
+door~
+2 -1 29119
+D2
+~
+door~
+2 -1 29119
+D3
+~
+door~
+2 -1 29119
+D5
+~
+~
+0 -1 29155
+Z3
+C-1
+S
+#29157
+{BO,W}The Balcony{b,w}~
+{BO,W}
+   Here, one has a great view of the circular courtyard below
+   and even some ways into the surrounding forest. Celestial
+   patterns have been carved in the floor and the walls behind
+   the balcony. This balcony, which has no railing, is often
+   used by the high priestess to address her acolytes.
+{bo,w}
+~
+291 0 0
+D2
+~
+~
+0 -1 29156
+Z3
+C-1
+S
+#29158
+The Temple of Ares~
+~
+291 0 0
+D0
+~
+~
+0 -1 29159
+D2
+~
+~
+0 -1 29117
+Z3
+C-1
+S
+#29159
+29159~
+~
+291 0 0
+D2
+~
+~
+0 -1 29158
+D4
+~
+~
+0 -1 29160
+Z3
+C-1
+S
+#29160
+29160~
+~
+291 0 0
+D1
+~
+~
+0 -1 29164
+D3
+~
+~
+0 -1 29161
+D5
+~
+~
+0 -1 29159
+Z3
+C-1
+S
+#29161
+29161~
+~
+291 0 0
+D1
+~
+~
+0 -1 29160
+D3
+~
+~
+0 -1 29162
+Z3
+C-1
+S
+#29162
+29162~
+~
+291 0 0
+D1
+~
+~
+0 -1 29161
+D2
+~
+~
+0 -1 29163
+Z3
+C-1
+S
+#29163
+29163~
+~
+291 0 0
+D0
+~
+~
+0 -1 29162
+Z3
+C-1
+S
+#29164
+29164~
+~
+291 0 0
+D1
+~
+~
+0 -1 29165
+D3
+~
+~
+0 -1 29160
+Z3
+C-1
+S
+#29165
+29165~
+~
+291 0 0
+D2
+~
+~
+0 -1 29166
+D3
+~
+~
+0 -1 29164
+Z3
+C-1
+S
+#29166
+29166~
+~
+291 0 0
+D0
+~
+~
+0 -1 29165
+Z3
+C-1
+S
+#29167
+29167~
+~
+291 0 0
+Z3
+C-1
+S
+#29168
+29168~
+~
+291 0 0
+Z3
+C-1
+S
+#29169
+29169~
+~
+291 0 0
+Z3
+C-1
+S
+#29170
+29170~
+~
+291 0 0
+Z3
+C-1
+S
+#29171
+29171~
+~
+291 0 0
+Z3
+C-1
+S
+#29172
+29172~
+~
+291 0 0
+Z3
+C-1
+S
+#29173
+29173~
+~
+291 0 0
+Z3
+C-1
+S
+#29174
+29174~
+~
+291 0 0
+Z3
+C-1
+S
+#29175
+29175~
+~
+291 0 0
+Z3
+C-1
+S
+#29176
+29176~
+~
+291 0 0
+Z3
+C-1
+S
+#29177
+29177~
+~
+291 0 0
+Z3
+C-1
+S
+#29178
+29178~
+~
+291 0 0
+Z3
+C-1
+S
+#29179
+29179~
+~
+291 0 0
+Z3
+C-1
+S
+#29180
+29180~
+~
+291 0 0
+Z3
+C-1
+S
+#29181
+29181~
+~
+291 0 0
+Z3
+C-1
+S
+#29182
+29182~
+~
+291 0 0
+Z3
+C-1
+S
+$~

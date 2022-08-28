@@ -1,0 +1,574 @@
+#40400
+gun turret~
+{BOLD,YELLOW}Gun turret{bold,yellow}~
+{BOLD,YELLOW}A gun turret pops out from the ground.{bold,yellow}
+~
+  {BOLD,YELLOW}
+     You've set off the alarm. Now you have to face the mansion security
+     system.
+  {bold,yellow}
+~
+25165922 1073742506 0 S
+30 -105 -7 5d5+1000 1d1+50
+1000 700000
+8 8 0
+S 28672
+D 1
+A 10
+#40401
+wolverine~
+{YELLOW}Wolverine{yellow}~
+{YE}James Howlett eye you suspiciously.{ye}
+~
+{B,WH}
+       |\
+       |||\
+       |||||\
+       ||||||
+       ||||||    
+       ||||||    {b}{Y}Wolverine has a healing factor that can heal virtually{B,WH} 
+       ||||||    {b}{Y}any wound or disease, and also slows his aging. He also{B,Y} 
+      _{B,WH}||||||    {b}{Y}has retractable bone claws that extrude from his forearms.{B,Y}
+     (|{B,WH}||||||{B,Y}\   {b}{Y}His bones and claws are bonded with adamantium,{B,Y}
+      /()()()|   {b}{Y}rendering them unbreakable.      {B,Y}
+      (     _/
+      ;`   |
+     /     |
+    /      |
+   /       |
+   `-.___.,'
+    {b}
+~
+696279139 1510253226 500 S
+50 -130 -3 1d1+9999 0d0+200
+250000 2000000
+8 8 1
+S 31041
+R 24
+D 20
+A 12
+#40402
+xavier~
+{BOLD,WHITE}Professor Xavier{bold,white}~
+{BOLD,WHITE}The headmaster welcomes you to his school.{bold,white}
+~
+{BOLD,WHITE}
+ ._
+   |         Professor X is a telepath, probably an omnipath, and certainly
+   |         the most powerful one in the world. He is responsible for the
+   |L___,    creation of the X-Men and the ideals they stand for.
+  .' '.  T        
+ :  *  :_|
+  '._.'   L
+{bold,white}
+~
+406897731 1929650878 1000 C 1
+51 -223 -3 1d1+14999 7d7+80
+1000000 2000000
+151 151 1
+S 17003204
+R 272
+D 20
+A 12
+#40403
+sentinel~
+{BOLD,MAG}Sentinel{bold,mag}~
+{B,MAG}A huge robot is here, scanning for mutant signatures.{b,mag}
+~
+{B,MAG}
+   The Sentinels are giant robots that were created expressly for the purpose
+   of hunting, capturing, and in some cases killing mutants. They are equipped
+   with mutant-tracking sensors, lasers, catch webs, disintegrator beams and 
+   other various and deadly weapons. In addition, Sentinels are self-adapting,
+   learning and modifying themselves after every encounter. 
+{b}
+~
+163635301 1090814890 0 S
+50 -120 -3 1d1+4999 0d0+300
+50000 2000000
+8 8 1
+D 20
+A 12
+#40404
+jean grey~
+{BOLD,RED}Phoenix{bold,red}~
+{BOLD,RED}Jean Grey is here heating something up for her hubby.{bold,red}
+~
+{BOLD,RED}
+   _/|       |\_    Jean Grey is one of the most powerful telepaths on the 
+  /  |       |  \   planet, second only to Professor X. She also had 
+ |    \     /    |  telekinesis, although that seems to have been lost
+ |  \ /     \ /  |  recently. Although her husband Scott was the first X-Man,
+ | \  |     |  / |  Jean was Xavier's first student. As a young girl, Jean
+ | \ _\_/^\_/_ / |  watched as her friend Annie Richardson was hit by a car. 
+ |    --\//--    |  The stress of the event activated Jean's powers, and she
+  \_  \     /  _/   was in contact with Annie's mind as she died, a traumatic
+    \__  |  __/     experience for any telepath, let alone one who has just
+       \ _ /        manifested. Jean went into a catatonia from which no one
+      _/   \_       could extract her, save Professor Xavier, who, being
+     / _/|\_ \      a telepath himself, was able to enter Jean's mind and
+      /  |  \       bring her back to the real world.
+~
+419463235 1375994794 1000 C 4
+51 -218 -4 0d0+15000 0d0+135
+200000 2000000
+8 8 2
+S 28678
+D 20
+A 12
+#40405
+cyclops scott summers~
+{BOLD,BLUE}Cyclops{bold,blue}~
+{B,BLUE}Scott Summers is here pacing around, trying to find his wife.{b,blue}
+~
+{BOLD,RED}
+   Cyclops' eyes constantly fire red energy beams. At full power these beams 
+   can punch through mountains. However, Cyclops cannot control his power, and
+   is forced to always wear a ruby quartz visor, glasses or goggles. He has an
+   uncanny ability to compute trigonometric relations, which allows him to 
+   bounce his optic blasts with incredible accuracy. His greatest fear is 
+   losing control of his powers and hurting someone he cares for. 
+{bold,red}
+~
+671121475 1376002730 1000 S
+51 -218 -2 0d0+15000 0d0+120
+250000 2000000
+8 8 1
+S 8417352
+D 20
+A 12
+#40406
+mutant student~
+{BOLD,CYAN}Mutant Student{bold,cyan}~
+{B,CY}A recent transfer into the Xavier School for Gifted Youngsters is here.{b}
+~
+  {B,CY}
+     A recent addition to the Xavier School for Gifted Children, this new
+     breed will one day grow up to be a big X-Man (literally).
+  {b,cy}
+~
+134258789 1074037674 0 S
+50 -216 -2 0d0+7500 0d0+100
+15000 2000000
+8 8 1
+D 20
+A 12
+#40407
+iceman~
+{BOLD,CYAN}Iceman{bold,cyan}~
+{BOLD,CYAN}Bobby Drake is chillin' here.{bold,cyan}
+~
+{B,CY}
+      .------, 
+    ,'_____,'|      Iceman has the ability to lower the temperature in his
+    |    //| |      surrounding area while gathering moisture to form ice into any
+    |      | |      shape that he wishes. He used to encase his body in ice and
+    | //   | :      snow, but now he actually transforms into a man of ice. This
+    |______|'._     allows him to manipulate his body on a molecular level. He can
+       `._     `:   also perceive the world in terms of temperatures.
+          `-._.'  
+{b}  
+~
+419463747 1912865450 1000 C 1
+51 -223 -2 0d0+15000 5d5+55
+200000 2000000
+8 8 1
+S 548868
+D 20
+A 12
+#40408
+beast~
+{BLUE}Beast{blue}~
+{BLUE}Henry McCoy is transforming into something most Beast-like{blue}
+~
+{BLUE}
+           _,--,            _  Hank McCoy was born with oversized hands and feet,
+     __,-'____| ___      /' |  remarkable agility and superhuman strength. Still,
+   /'   `\,--,/'   `\  /'   |  he looked mostly human, and was a football star
+  (       )  (       )'        in high school. Even in elementary school, 
+   \_   _/'  `\_   _/          however, Hank's inquisitive mind and genius-level
+     """        """            intellect were his star qualities. 
+{b}
+~
+402694211 1376289450 1000 S
+51 -218 -2 0d0+12500 0d0+100
+250000 2000000
+8 8 1
+S 28676
+D 20
+A 12
+#40409
+archangel angel~
+{BOLD,CYAN}Archangel{bold,cyan}~
+{BOLD,CYAN}Warren Worthington III is floating around here.{bold,cyan}
+~
+  {BOLD,CYAN}
+     Flight, thanks to large feathered wings on his back. When his wings began to
+     sprout while in military school, Warren was forced to hide them under a harness,
+     but soon made himself a costume and began fighting crime at night as the
+     Avenging Angel.
+  {bold,cyan}
+~
+402686019 1392779946 500 S
+51 -130 -2 0d0+12500 0d0+110
+250000 2000000
+8 8 1
+S 28673
+D 20
+A 12
+#40410
+gambit~
+{BOLD,RED}Gambit{bold,red}~
+{BOLD,RED}Remy LeBeau is here smoking a cigarette.{bold,red}
+~
+  {BOLD,RED}
+   .-------.  Gambit can charge objects with kinetic energy, causing them to
+   |A  .   |  explode. He is extremely agile and quick, and well trained in the
+   |  / \  |  martial arts. His thoughts are hard to control, and his voice is
+   | (_,_) |  somewhat hypnotic. His power's true potential, though permanently
+   |   I   |  excised now, is to control all manner of kinetic energy, allowing
+   |      A|  him to fire energy blasts, defy gravity and effectively exist as
+   '-------'  energy.
+  {bold,red}
+      
+~
+402686035 1913397930 500 C 3
+51 -223 -3 0d0+15000 0d0+120
+200000 2000000
+8 8 1
+D 20
+A 12
+#40411
+storm~
+{BOLD,WHITE}Storm{bold,white}~
+{BOLD,WHITE}Ororo Munroe is here manipulating the weather.{bold,white}
+~
+{B,YE}
+           ,/      {WH}If it has an atmosphere, Storm can control it. Once worshipped{YE}
+         ,'/       {WH}as a goddess in Africa, Ororo can generate or disperse all{YE}
+       ,' /        {WH}forms of weather, including, wind, rain, typhoons, flash{YE}
+     ,'  /_____,   {WH}floods, lightning, hurricanes, snow, sleet, hail... you get{YE}
+    '____    ,'    {WH}the idea. Her body automatically adjusts itself to the{YE}
+        /  ,'      {WH}surrounding temperature and she can use herself as a {YE}
+       / ,'        {WH}lightning rod to channel lightning through her body. She is{YE}
+      /,'          {WH}also an excellent thief and lock picker, talents learned{YE}
+     /'            {WH}during her childhood as an orphan thief in Cairo. {wh}
+{b}
+~
+402690627 1929650858 1000 C 1
+51 -223 -2 0d0+15000 0d0+150
+200000 2000000
+8 8 2
+S 28676
+D 20
+A 12
+#40412
+psylocke~
+{MAG}Psylocke{mag}~
+{MAG}Elizabeth Braddock is here polishing her weapons.{mag}
+~
+  {YELLOW}
+                 /\
+     /vvvvvvvvvvvv \{B,WH}--------------------------------------,{bold}{YELLOW}
+     `^^^^^^^^^^^^ /{B,WH}=====================================' {bold}{YELLOW}
+                 \/
+  {bold}{MAG}
+     Psylocke was born a powerful telepath. Originally she was a model, and simply a
+     psycho-blaster with the ability to read minds - a power she used as an agent
+     for the British intelligence team called S.T.R.I.K.E.
+    
+~
+402694211 1912873642 1000 S
+51 -218 -2 0d0+12500 0d0+110
+200000 2000000
+8 8 2
+S 28674
+D 20
+A 12
+#40413
+rogue~
+{YELLOW}Ro{WHITE}gu{YELLOW}e{yellow}~
+{YELLOW}Rogue is {WHITE}here reading{YELLOW} a book.{yellow}
+~
+{YELLOW}
+   Rogue's mutant power is {WHITE}to absorb the {YELLOW}memories, abilities and physical
+   characteristics of anyone {WHITE}with whom she {YELLOW}comes into flesh-to-flesh
+   contact. However, she has {WHITE}no control over {YELLOW}this power, which first
+   manifested when she kissed {WHITE}a childhood boyfriend{YELLOW} named Cody, and drained
+   his energy and mind. {yellow}
+
+~
+402661443 1526997674 500 S
+51 -218 -2 0d0+13000 0d0+145
+200000 2000000
+8 8 2
+D 20
+A 12
+#40414
+sage~
+{BOLD,BLUE}Sage{bold,blue}~
+{BOLD,BLUE}Tessa Niles is trying to infiltrate the mutant mafia{bold,blue}
+~
+{B,BLUE}
+    \||/ //##\\ \||/
+    /##\//####\\/##\    Sage is a telepath of limited ability, strong enough to read
+   //##\\/####\//##\\   minds and communicate telepathically, but nowhere near 
+   \\\///\{B,Y}::::{B,BLUE}/\\\///   the level of the Phoenix or the White Queen. She has also
+    \\//\\\{B,Y}::{B,BLUE}///\\//    trained as a martial artist and is quite lethal when she 
+     \/\\\\{B,Y}{B,BLUE}..////\/     needs to be. 
+        \\\\////
+         \\\///
+          \\//
+           \/
+{b,blue}
+~
+402686019 1526997674 500 S
+51 -218 -3 0d0+12500 0d0+100
+250000 2000000
+8 8 2
+S 28680
+D 20
+A 12
+#40415
+juggernaut~
+{YELLOW}Juggernaut{yellow}~
+{YELLOW}Nothing can stop the Juggernaut!!{yellow}
+~
+{YELLOW}
+   Cain Marko grew up with his step-brother Charles Xavier, and always 
+   hated him, mostly because his father Kurt ignored Cain in favor of 
+   Charles (Kurt felt guilty over having caused Brian Xavier's death). 
+   In fact, one time when a fire broke out in Kurt's lab, he saved 
+   Charles before he even thought about going in to the flames to rescue 
+   Cain. When the boys were drafted to Korea, Cain and Charles stumbled on 
+   an ancient temple. Lured by greed and thoughts of glory, Cain found a 
+   red gem and picked it up. He became a human juggernaut. Protected by that 
+   Crimson Gem of Cyttorak, Juggernaut is the unmovable force. His super-
+   strength, combined with his total invulnerability make him nearly 
+   unstoppable. His only weakness is psychic attacks, if his helmet is off.
+{yellow}
+~
+1103134822 1075872424 0 S
+40 -155 -12 1d1+30000 3d3+105
+1000000 7000000
+8 8 1
+S 160079
+R 24
+D 20
+A 12
+#40416
+blink~
+{MAG}B{mag}l{MAG}i{mag}n{MAG}k{mag}~
+{MAG}A {mag}lonely {MAG}and {mag}scared {MAG}mutant {mag}huddles {MAG}next {mag}to {MAG}a {mag}tree.
+~
+{B}
+   Clarice had the {b}{MAG}ability to disp{B}lace matter through a type of 
+   telepor{b}{MAG}tation r{B}ift. Unfo{b}{MAG}rtunately, she h{B}ad no control over her 
+   power, and objects that she "blinked" {b}{MAG}would not rea{B}ssemble 
+   prop{b}{MAG}erly. It appears tha{B}t when her power {b}{MAG}first man{B}ifested, she 
+   accid{b}{MAG}entally ki{B}lled someone w{b}{MAG}ith it when they we{B}re caught in 
+   her portal an{b}{MAG}d split into pieces. 
+{b}
+~
+66 1073742464 0 S
+50 -218 5 10d10+30000 1d1+140
+1000000 30000000
+8 8 2
+S 409984
+D 20
+A 12
+#40417
+nightcrawler~
+{BLUE}Nightcrawler{blue}~
+{BLUE}A Fuzzy Blue Elf is hoping away on all fours. {blue}
+~
+{BLUE}
+   Since birth, Kurt Wagner has resembled a demon in appearance, but his 
+   powers of self-teleportation did not emerge until puberty. His unusual 
+   physical characteristics -- including indigo-colored fur, a prehensile 
+   tail, pointed ears, fang-like canine teeth, three-fingered hands and 
+   two-toed feet -- caused his mother to abandon him, because the people 
+   of their village wanted to kill the newborn.
+{blue}
+~
+402686019 1376527018 500 S
+51 -221 -2 0d0+12500 0d0+113
+250000 2000000
+8 8 1
+D 20
+A 12
+#40418
+xorn~
+{B,BL}X{B,Y}or{B,BL}n{b}~
+{B,BL}Xorn is here tr{B,Y}ying to meditate p{B,BL}eacefully by himself.{b}
+~
+{B,BL}
+   Xorn was born in China years {B,Y}ago, which was unfortunate{B,BL} for him, given the 
+   Communists' heavily anti-muta{B,Y}nt stance. He was a certif{B,BL}ied genius, with  
+   incredible potential, but whe{B,Y}n his brain was incinerate{B,BL}d at puberty by a tiny 
+   sun that grew inside his head{B,Y}, the government imprisoned{B,BL} him inside a giant 
+   facility called Feng Tu, after{B,Y} the Chinese netherworld. A{B,BL}mazingly, the black hole 
+   did not kill him, or affect h{B,Y}is ability to use his brain{B,BL}. Plans to use Xorn as 
+   a power source never went any{B,Y}where, and his potential, bo{B,BL}th mental and physical 
+   went to waste.
+{b} 
+~
+1103102022 1141113512 0 C 1
+35 -211 5 10d10+30000 1d2+0
+1000000 30000000
+8 8 2
+S 17242116
+D 20
+A 12
+#40419
+magneto~
+{RED}Ma{MAG}gn{RED}eto{red}~
+{RED}Erik Magnus Lehnsherr{MAG} waves goodbye {RED}to you.{red}
+~
+  {BOLD,MAG}  
+     One of the most physically powerful mutants, Magneto has control over all forms
+     of magnetism, including electro-magnetism or electricity. He can fly, project a
+     force field, cast energy bolts, or stop the flow of blood to an opponent's 
+     brain. He can sense metal around him, and has been seen deflecting asteroids
+     with his vast power. He is one of the few mutants who can single-handedly fight 
+     all of the X-Men to a standstill. 
+  {bold,mag}
+~
+1212215331 1929675434 0 C 1
+50 -80 -20 10d10+35000 4d4+100
+1000000 20000000
+8 8 1
+S 293199
+D 20
+A 12
+#40420
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#40421
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#40422
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#40423
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#40424
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#40425
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#40426
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#40427
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#40428
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#40429
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+$~

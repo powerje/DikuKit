@@ -1,0 +1,206 @@
+#204
+{C}Memorable{c} {YELLOW}Crusades{yellow}(Sackmore)~
+20499 60 0
+*
+X 8700
+D 0 20400     0     0    (N:OPEN) {C}Memorable{c} {YELLOW}Crusades{yellow}
+D 0 20400     4     1    (U:CLOSED) {C}Memorable{c} {YELLOW}Crusades{yellow}
+D 0 20401     0     2    (N:LOCKED) {MAGENTA}recruiting{magenta}
+D 0 20401     1     2    (E:LOCKED) {MAGENTA}recruiting{magenta}
+D 0 20401     2     0    (S:OPEN) {MAGENTA}recruiting{magenta}
+D 0 20401     3     1    (W:CLOSED) {MAGENTA}recruiting{magenta}
+D 0 20402     5     1    (D:CLOSED) {BOLD}{WHITE}Ceiling full of spikes!!{bold}{white}
+M 0 20401     1 20403    {C}Dexter the blade{c}
+G 1 20400     1     0    {BOLD}{WHITE}Steel key{white}{bold}
+D 0 20403     1     1    (E:CLOSED) {C}Training{c}
+M 0 20400     1 20404    {YELLOW}Amber the beauty{yellow}
+G 1 20401     1     0    {BOLD}{YELLOW}Titanium key{yellow}{bold}
+D 0 20404     3     2    (W:LOCKED) {BLUE}More training!{blue}
+M 0 20448     5 20405    {YELLOW}The{yellow} tree {BOLD}{YELLOW}geezer{yellow}{bold}
+M 0 20403     4 20405    {BOLD}{YELLOW}A small forest nymph{yellow}{bold}
+D 0 20405     2     2    (S:LOCKED) {BOLD}{GREEN}Choosing your destiny{green}{bold}
+M 0 20448     5 20406    {YELLOW}The{yellow} tree {BOLD}{YELLOW}geezer{yellow}{bold}
+M 0 20403     4 20406    {BOLD}{YELLOW}A small forest nymph{yellow}{bold}
+M 0 20402     1 20406    {BOLD}{GREEN}A huge Choke Vine{green}{bold}
+G 1 20407     1     0    {BOLD}{WHITE}Bones key{white}{bold}
+D 0 20406     0     2    (N:LOCKED) {BOLD}{GREEN}Choosing your destiny{green}{bold}
+M 0 20403     4 20407    {BOLD}{YELLOW}A small forest nymph{yellow}{bold}
+M 0 20448     5 20407    {YELLOW}The{yellow} tree {BOLD}{YELLOW}geezer{yellow}{bold}
+D 0 20407     3     2    (W:LOCKED) {BOLD}{GREEN}Choosing your destiny{green}{bold}
+M 0 20403     4 20408    {BOLD}{YELLOW}A small forest nymph{yellow}{bold}
+M 0 20449     3 20408    {BOLD}{WHITE}Silver{white}{bold} {WHITE}Snake{white}
+D 0 20408     1     2    (E:LOCKED) {BOLD}{GREEN}Choosing your destiny{green}{bold}
+M 0 20404    10 20409    {BOLD}{GREEN}Woodland{green}{bold} {BOLD}{YELLOW}Ogre{yellow}{bold}
+D 0 20409     2     2    (S:LOCKED) {YELLOW}Enterance to the Enchanted{yellow} {BOLD}{GREEN}Forest{green}{bold}
+M 0 20440     1 20410    {BOLD}{RED}Guardian{red}{bold} {RED}of the east{red}
+D 0 20410     1     2    (E:LOCKED) {BOLD}{C}Endo{c}{bold} {BOLD}{WHITE}steal{white}{bold} {BOLD}{YELLOW}caves{yellow}{bold}
+D 0 20411     3     2    (W:LOCKED) {BOLD}{YELLOW}Rocky path{yellow}{bold}
+M 0 20438     1 20412    {BOLD}{C}Guardian of the North{c}{bold}
+M 0 20404    10 20412    {BOLD}{GREEN}Woodland{green}{bold} {BOLD}{YELLOW}Ogre{yellow}{bold}
+M 0 20404    10 20413    {BOLD}{GREEN}Woodland{green}{bold} {BOLD}{YELLOW}Ogre{yellow}{bold}
+M 0 20448     5 20413    {YELLOW}The{yellow} tree {BOLD}{YELLOW}geezer{yellow}{bold}
+M 0 20449     3 20414    {BOLD}{WHITE}Silver{white}{bold} {WHITE}Snake{white}
+M 0 20448     5 20415    {YELLOW}The{yellow} tree {BOLD}{YELLOW}geezer{yellow}{bold}
+M 0 20450     4 20415    {BOLD}{B}Dark{b}{bold} {BOLD}Elf{bold}
+M 0 20449     3 20416    {BOLD}{WHITE}Silver{white}{bold} {WHITE}Snake{white}
+M 0 20450     4 20417    {BOLD}{B}Dark{b}{bold} {BOLD}Elf{bold}
+M 0 20450     4 20418    {BOLD}{B}Dark{b}{bold} {BOLD}Elf{bold}
+M 0 20404    10 20419    {BOLD}{GREEN}Woodland{green}{bold} {BOLD}{YELLOW}Ogre{yellow}{bold}
+M 0 20450     4 20419    {BOLD}{B}Dark{b}{bold} {BOLD}Elf{bold}
+M 0 20404    10 20421    {BOLD}{GREEN}Woodland{green}{bold} {BOLD}{YELLOW}Ogre{yellow}{bold}
+M 0 20404    10 20421    {BOLD}{GREEN}Woodland{green}{bold} {BOLD}{YELLOW}Ogre{yellow}{bold}
+M 0 20405     4 20422    {BOLD}{GREEN}T{green}{bold}{B}angl{b}{BOLD}{GREEN}e{green}{bold} {BOLD}{YELLOW}Tree{yellow}{bold}
+M 0 20405     4 20423    {BOLD}{GREEN}T{green}{bold}{B}angl{b}{BOLD}{GREEN}e{green}{bold} {BOLD}{YELLOW}Tree{yellow}{bold}
+M 0 20404    10 20424    {BOLD}{GREEN}Woodland{green}{bold} {BOLD}{YELLOW}Ogre{yellow}{bold}
+M 0 20405     4 20424    {BOLD}{GREEN}T{green}{bold}{B}angl{b}{BOLD}{GREEN}e{green}{bold} {BOLD}{YELLOW}Tree{yellow}{bold}
+M 0 20451     5 20424    {BOLD}Forest{bold} {BOLD}{WHITE}Dwelling Golem{white}{bold}
+M 0 20405     4 20425    {BOLD}{GREEN}T{green}{bold}{B}angl{b}{BOLD}{GREEN}e{green}{bold} {BOLD}{YELLOW}Tree{yellow}{bold}
+M 0 20404    10 20426    {BOLD}{GREEN}Woodland{green}{bold} {BOLD}{YELLOW}Ogre{yellow}{bold}
+M 0 20404    10 20427    {BOLD}{GREEN}Woodland{green}{bold} {BOLD}{YELLOW}Ogre{yellow}{bold}
+M 0 20404    10 20429    {BOLD}{GREEN}Woodland{green}{bold} {BOLD}{YELLOW}Ogre{yellow}{bold}
+M 0 20406     8 20429    {B}pure black cat{b}
+M 0 20406     8 20429    {B}pure black cat{b}
+M 0 20407     1 20430    {YELLOW}Thomas{yellow} {BOLD}{YELLOW}the tom cat{yellow}{bold}
+G 1 20404     1     0    {BOLD}{WHITE}Skeleton key{white}{bold}
+M 0 20406     8 20430    {B}pure black cat{b}
+M 0 20406     8 20430    {B}pure black cat{b}
+M 0 20406     8 20430    {B}pure black cat{b}
+D 0 20430     0     2    (N:LOCKED) {WHITE}On the{white} {BOLD}{YELLOW}front porch{yellow}{bold}
+D 0 20431     2     2    (S:LOCKED) {BOLD}{YELLOW}Inside the small cottage{yellow}{bold}
+M 0 20441     1 20432    {YELLOW}Guardian of the West{yellow}
+M 0 20406     8 20433    {B}pure black cat{b}
+M 0 20406     8 20433    {B}pure black cat{b}
+D 0 20433     0     1    (N:CLOSED) {B}Back door{b} {WHITE}of cottage{white}
+D 0 20434     2     1    (S:CLOSED) {BOLD}{WHITE}Back steps{white}{bold} {BOLD}{YELLOW}of cottage{yellow}{bold}
+M 0 20451     5 20435    {BOLD}Forest{bold} {BOLD}{WHITE}Dwelling Golem{white}{bold}
+M 0 20408     1 20436    {B}Morwen the witch{b}
+G 1 20405     1     0    {B}Morwen's{b} {BOLD}{WHITE}sleeves{white}{bold}
+M 0 20406     8 20436    {B}pure black cat{b}
+M 0 20451     5 20436    {BOLD}Forest{bold} {BOLD}{WHITE}Dwelling Golem{white}{bold}
+M 0 20409     1 20444    {BLUE}Waterlord{blue} {C}Wizard{c}
+M 0 20451     5 20446    {BOLD}Forest{bold} {BOLD}{WHITE}Dwelling Golem{white}{bold}
+M 0 20451     5 20447    {BOLD}Forest{bold} {BOLD}{WHITE}Dwelling Golem{white}{bold}
+M 0 20413     6 20452    {BOLD}{C}Evil{c}{bold} {B}Quozzel{b}
+M 0 20413     6 20452    {BOLD}{C}Evil{c}{bold} {B}Quozzel{b}
+M 0 20414     1 20453    {MAGENTA}Kazul{magenta} {BOLD}{C}King of the dragons{c}{bold}
+G 1 20410     1     0    {YELLOW}Glowing{yellow} {WHITE}key{white}
+G 1 20409     1     0    {BOLD}{C}Ancient{c}{bold} {YELLOW}crown{yellow}
+M 0 20413     6 20453    {BOLD}{C}Evil{c}{bold} {B}Quozzel{b}
+M 0 20413     6 20453    {BOLD}{C}Evil{c}{bold} {B}Quozzel{b}
+M 0 20413     6 20455    {BOLD}{C}Evil{c}{bold} {B}Quozzel{b}
+M 0 20413     6 20455    {BOLD}{C}Evil{c}{bold} {B}Quozzel{b}
+M 0 20439     1 20462    {C}Guardian of the south{c}
+D 0 20463     0     2    (N:LOCKED) {BOLD}{C}Castle{c}{bold} {WHITE}gates{white}
+D 0 20464     2     2    (S:LOCKED) {WHITE}Inside the castle{white}
+M 0 20415    18 20465    {BOLD}{C}The great{c}{bold} {WHITE}white knight{white}
+M 0 20415    18 20465    {BOLD}{C}The great{c}{bold} {WHITE}white knight{white}
+M 0 20415    18 20465    {BOLD}{C}The great{c}{bold} {WHITE}white knight{white}
+M 0 20415    18 20465    {BOLD}{C}The great{c}{bold} {WHITE}white knight{white}
+M 0 20435     2 20465    {YELLOW}Muscle bound{yellow} {RED}Baron{red}
+M 0 20415    18 20465    {BOLD}{C}The great{c}{bold} {WHITE}white knight{white}
+M 0 20415    18 20465    {BOLD}{C}The great{c}{bold} {WHITE}white knight{white}
+M 0 20415    18 20465    {BOLD}{C}The great{c}{bold} {WHITE}white knight{white}
+M 0 20436     2 20466    {WHITE}True{white} {BOLD}{WHITE}Warrior{white}{bold}
+M 0 20436     2 20466    {WHITE}True{white} {BOLD}{WHITE}Warrior{white}{bold}
+M 0 20415    18 20467    {BOLD}{C}The great{c}{bold} {WHITE}white knight{white}
+M 0 20415    18 20467    {BOLD}{C}The great{c}{bold} {WHITE}white knight{white}
+M 0 20415    18 20467    {BOLD}{C}The great{c}{bold} {WHITE}white knight{white}
+M 0 20415    18 20467    {BOLD}{C}The great{c}{bold} {WHITE}white knight{white}
+M 0 20415    18 20467    {BOLD}{C}The great{c}{bold} {WHITE}white knight{white}
+M 0 20415    18 20468    {BOLD}{C}The great{c}{bold} {WHITE}white knight{white}
+M 0 20415    18 20468    {BOLD}{C}The great{c}{bold} {WHITE}white knight{white}
+M 0 20437     2 20468    {YELLOW}Nobel{yellow}
+M 0 20416     1 20469    {BOLD}{C}Queen{c}{bold} {C}Cimorene{c}
+G 1 20411     1     0    {RED}Sapphire{red} {YELLOW}Locket{yellow}
+M 0 20415    18 20469    {BOLD}{C}The great{c}{bold} {WHITE}white knight{white}
+M 0 20435     2 20469    {YELLOW}Muscle bound{yellow} {RED}Baron{red}
+M 0 20437     2 20469    {YELLOW}Nobel{yellow}
+M 0 20415    18 20470    {BOLD}{C}The great{c}{bold} {WHITE}white knight{white}
+M 0 20415    18 20470    {BOLD}{C}The great{c}{bold} {WHITE}white knight{white}
+M 0 20415    18 20470    {BOLD}{C}The great{c}{bold} {WHITE}white knight{white}
+M 0 20417     1 20470    {YELLOW}King{yellow} {C}Mendenbar{c}
+E 1 20419     2    16    (WIELD) {BOLD}{WHITE}Gisarme{white}{bold}
+M 0 20418     1 20472    {B}Chief{b} {BOLD}{WHITE}tech{white}{bold}
+E 1 20414     1    17    (HELD) {YELLOW}Access card{yellow}
+M 0 20419     5 20472    {BOLD}{C}Mech{c}{bold} {YELLOW}ranger{yellow}
+M 0 20452     6 20472    {BOLD}Mech{bold} {BOLD}{YELLOW}Guard{yellow}{bold}
+M 0 20419     5 20473    {BOLD}{C}Mech{c}{bold} {YELLOW}ranger{yellow}
+M 0 20452     6 20473    {BOLD}Mech{bold} {BOLD}{YELLOW}Guard{yellow}{bold}
+M 0 20419     5 20474    {BOLD}{C}Mech{c}{bold} {YELLOW}ranger{yellow}
+M 0 20452     6 20474    {BOLD}Mech{bold} {BOLD}{YELLOW}Guard{yellow}{bold}
+M 0 20452     6 20474    {BOLD}Mech{bold} {BOLD}{YELLOW}Guard{yellow}{bold}
+D 0 20474     1     2    (E:LOCKED) {B}Drop{b}{BOLD}{C}ship{c}{bold}
+M 0 20419     5 20475    {BOLD}{C}Mech{c}{bold} {YELLOW}ranger{yellow}
+D 0 20475     3     2    (W:LOCKED) {BOLD}{WHITE}Starport{white}{bold}
+D 0 20476     0     2    (N:LOCKED) {BOLD}{WHITE}Comstar{white}{bold} {B}terminal{b}
+D 0 20476     1     2    (E:LOCKED) {BOLD}{WHITE}Comstar{white}{bold} {B}terminal{b}
+M 0 20419     5 20477    {BOLD}{C}Mech{c}{bold} {YELLOW}ranger{yellow}
+M 0 20410     1 20477    {B}Merchant{b}
+M 0 20452     6 20477    {BOLD}Mech{bold} {BOLD}{YELLOW}Guard{yellow}{bold}
+D 0 20477     2     2    (S:LOCKED) {YELLOW}Arms{yellow} {BOLD}{C}merchant{c}{bold}
+M 0 20453     1 20478    {RED}Arm{red}{YELLOW}aged{yellow}{RED}don{red}
+M 0 20452     6 20478    {BOLD}Mech{bold} {BOLD}{YELLOW}Guard{yellow}{bold}
+M 0 20411     3 20479    {B}Mechwarrior{b}
+M 0 20411     3 20479    {B}Mechwarrior{b}
+M 0 20412     1 20480    {BOLD}{C}Mech{c}{bold} {BOLD}{YELLOW}Timberwolf{yellow}{bold}
+G 1 20406     1     0    {BOLD}{C}Bay{c}{bold} {WHITE}key{white}
+M 0 20411     3 20480    {B}Mechwarrior{b}
+M 0 20420     5 20481    {BOLD}{C}Orion mech class{c}{bold}
+M 0 20454     1 20481    {BOLD}Dr{bold}{BOLD}{WHITE}ago{white}{bold}{BOLD}on{bold}
+M 0 20420     5 20481    {BOLD}{C}Orion mech class{c}{bold}
+D 0 20481     3     2    (W:LOCKED) {BOLD}{C}MECH{c}{bold} {YELLOW}BAY{yellow}
+M 0 20421     1 20482    {C}Goliath mechwarrior class{c}
+E 1 20408     1     5    (BODY) {C}Ferro{c}{WHITE}-Fibrous{white} {YELLOW}armor
+M 0 20420     5 20482    {BOLD}{C}Orion mech class{c}{bold}
+M 0 20420     5 20483    {BOLD}{C}Orion mech class{c}{bold}
+M 0 20420     5 20484    {BOLD}{C}Orion mech class{c}{bold}
+M 0 20422     4 20486    {BOLD}{YELLOW}Rockbot{yellow}{bold}
+M 0 20422     4 20486    {BOLD}{YELLOW}Rockbot{yellow}{bold}
+M 0 20442     3 20487    {YELLOW}Wabbit{yellow}
+M 0 20422     4 20487    {BOLD}{YELLOW}Rockbot{yellow}{bold}
+M 0 20442     3 20488    {YELLOW}Wabbit{yellow}
+M 0 20422     4 20488    {BOLD}{YELLOW}Rockbot{yellow}{bold}
+M 0 20442     3 20489    {YELLOW}Wabbit{yellow}
+M 0 20423     2 20489    {WHITE}Lab{white} {B}Rat{b}
+M 0 20443     2 20489    {YELLOW}A chaotic robotic unit{yellow}
+M 0 20423     2 20490    {WHITE}Lab{white} {B}Rat{b}
+M 0 20443     2 20490    {YELLOW}A chaotic robotic unit{yellow}
+M 0 20424     1 20491    {C}Crazed{c} {MAGENTA}Computer{magenta}
+G 1 20420     1     0    {WHITE}Surge of power{white}
+M 0 20425     5 20491    {BLUE}Surge{blue}
+M 0 20444     2 20491    {C}Metal{c} {BOLD}{C}Man{c}{bold}
+D 0 20491     3     0    (W:OPEN) {BOLD}{WHITE}Engineering room{white}{bold}
+D 0 20492     1     0    (E:OPEN) {BOLD}{C}Entrance to the{c}{bold} {C}Capsules of time{c}
+M 0 20445     2 20493    {YELLOW}Flash{yellow} {WHITE}Man{white}
+M 0 20425     5 20493    {BLUE}Surge{blue}
+M 0 20426     1 20493    {RED}P{red}{BOLD}{WHITE}roto ma{white}{RED}n{red}
+G 1 20421     1     0    {BOLD}{WHITE}Protoman's {RED}shield{red}
+M 0 20429     1 20494    {RED}Rush{red}
+M 0 20427     1 20494    {BLUE}M{C}e{BLUE}g{blue}{C}a{c} {BLUE}Man{blue}
+G 1 20429     1     0    {BOLD}{C}M{c}{C}e{c}{BOLD}{C}g{c}{C}a Knuckles{c}
+G 1 20422     1     0    {C}Super{c} {YELLOW}Tank{yellow}
+M 0 20447     3 20494    {WHITE}Scout{white} {BOLD}{WHITE}Walker{white}
+M 0 20446     2 20495    {BOLD}{C}Stone{c}{bold} {BOLD}{B}Man{b}{bold}
+M 0 20428     1 20495    {B}Dr.{b} {WHITE}Light{white}
+M 0 20425     5 20495    {BLUE}Surge{blue}
+M 0 20446     2 20496    {BOLD}{C}Stone{c}{bold} {BOLD}{B}Man{b}{bold}
+M 0 20425     5 20496    {BLUE}Surge{blue}
+M 0 20430     1 20496    {BOLD}{C}B{c}{C}ruste{c}{BOLD}{C}r{c}
+E 1 20426     1     8    (FEET) {BOLD}{C}Boots of B{c}{C}ruste{c}{BOLD}{C}r{c}
+M 0 20425     5 20497    {BLUE}Surge{blue}
+M 0 20431     1 20497    {BOLD}{C}X{c}{bold}
+E 1 20428     1    15    (WRIST) {C}Energy{c} {YELLOW}Chip{yellow}
+E 1 20430     1    17    (HELD) {WHITE}Gate{white} {BOLD}{C}key{c}{bold}
+M 0 20447     3 20497    {WHITE}Scout{white} {BOLD}{WHITE}Walker{white}
+D 0 20497     3     2    (W:LOCKED) {BOLD}{C}Chambers of{c}{bold} {C}the great{c}
+M 0 20432     1 20498    {RED}Ze{red}{WHITE}ro{white}
+M 0 20444     2 20498    {C}Metal{c} {BOLD}{C}Man{c}{bold}
+M 0 20445     2 20498    {YELLOW}Flash{yellow} {WHITE}Man{white}
+D 0 20498     1     2    (E:LOCKED) {BOLD}{C}Chambers of{c}{bold} {C}the great{c}
+D 0 20498     4     1    (U:CLOSED) {BOLD}{C}Chambers of{c}{bold} {C}the great{c}
+M 0 20434     1 20499    {BOLD}{C}Mirror image of B{c}{C}ruste{c}{BOLD}{C}r{c}
+M 0 20447     3 20499    {WHITE}Scout{white} {BOLD}{WHITE}Walker{white}
+M 0 20433     1 20499    {BOLD}{B}Dr. Wily{b}{bold}
+G 1 20402     1     0    {RED}Ball of fire{red}
+D 0 20499     5     1    (D:CLOSED) {WHITE}FINAL{white} {RED}BATTLE{red}
+$~

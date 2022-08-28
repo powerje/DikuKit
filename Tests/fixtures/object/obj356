@@ -1,0 +1,566 @@
+#35600
+fountain marble~
+{C}A marble fountain{bo}~
+{C}A marble fountain spews crystal clear water here.{bo}~
+~
+27 0 0 0
+35629 0 0 0
+1 1 1
+E
+fountain marble~
+
+  A beautiful white fountain sits here in the
+  middle of the courtyard. As your hand touches
+  the skin of the water you see some tiny fish
+  come up to the surface and start swimming 
+  toward you. You put your hand closer to the 
+  water as they near. Next thing you know one
+  of the, are hanging on the end of your finger 
+  with there sharp teeth. Suddenly a few more 
+  appear and they look very hungry. I hope you 
+  brought them some food. 
+
+~
+#35601
+fountain marble~
+{C}A marble fountain{bo}~
+~
+~
+17 0 0 0
+10000 9787 0 1
+1 1 1
+#35602
+Desk~
+A desk~
+A big desk rests in the middle of the room.~
+~
+15 0 0 0
+600 5 0 0
+34464 1 1
+E
+Desk~
+
+A big oak desk that looks very old.
+
+~
+#35603
+portal fish eye~
+A fish eye~
+A fish eye is laying here~
+~
+27 0 0 0
+35603 0 0 0
+200 1 1
+E
+portal fish eye~
+
+  A large fish eye is rolling around the fountain.
+
+~
+E
+portal fish eye~
+
+A large fishes eye is rolling around the tank.
+
+~
+M
+51
+#35604
+corpse hunter vampire~
+Corpse of a vampire hunter~
+{BO,R}Corpse of a Vampire Hunter.{bo,r}~
+~
+15 0 0 0
+900 0 0 0
+1 1 1
+E
+corpse hunter vampire~
+
+  The corpse of a very old man lies here. He has 
+  deep {BO,R}scratches{bo,r} all over his body. It looks like
+  a giant beast mauled him to death. I guess he 
+  was not prepared to fight {BO,R}werewolfs{bo,r}!
+
+~
+M
+51
+#35605
+stake wooden wood~
+{BLA}:::{BO,R}A wooden Sta{BO,W}ke>{bo,w}~
+{BO,BLA}:::A Wooden Stake>{bo,bla}~
+~
+5 1049600 4172 8193
+3 4 4 5
+5 30000 1
+E
+stake wooden wood~
+oedit desc {BO,BROWN}:::A Wooden Stake>{bo,brown}
+~
+E
+stake wooden wood~
+
+  {BO,R}A stake for killing vampires. Crude but
+  very effective!{bo,r}
+
+~
+A
+19 3
+A
+18 3
+B
+536879232
+C
+7000 2
+G
+60
+M
+51
+#35606
+typewriter key bar~
+A typewriter key~
+{BO,R}A Typewriter Key that has been broken off.{bo,r}~
+~
+18 73728 0 1
+0 0 0 1
+2 1 1
+E
+typewriter key bar~
+
+{BO,R}
+A typewriter key that was broken off during battle.
+{bo,r} 
+
+~
+G
+101
+#35607
+key tiny house~
+A small house key~
+A small house key is lying here~
+~
+18 0 0 1
+0 0 0 1
+1 1 1
+E
+key tiny house~
+
+A small house key.
+
+~
+#35608
+key fin fish~
+A fish fin shaped like a key~
+A fish fin shaped like a key is laying on the ground.~
+~
+18 0 0 1
+100 0 0 1
+1 1 1
+E
+key fin fish~
+
+{BO,R}
+A fish scale key. Wonder what this fits.
+{bo,r} 
+
+~
+#35609
+skeleton key~
+A brass Skeleton Key~
+A brass Skeleton Key is lieing in the dust.~
+~
+18 65536 0 1
+-1 0 0 3
+1 1 1
+E
+skeleton key~
+
+{BO,R}
+A Skeleton key that unlocks some door in the mansion.
+{bo,r} 
+
+~
+#35610
+fish food box~
+{BO,R}A box of fish food{bo,r}~
+{BO,R}A box of fish food is sitting here.{bo,r}~
+~
+12 0 0 1
+0 0 0 0
+1 1 1
+E
+fish food box~
+
+{BO,R}A box of fish food.
+{bo,r}
+
+~
+#35611
+pantry shelf~
+A shelf~
+{BO,BLA}A pantry shelf{bo,bla}~
+~
+15 0 0 0
+900 0 0 0
+1 1 1
+E
+pantry shelf~
+
+A shelf. Nothing special.
+
+~
+#35612
+poison bottle~
+{BO,R}A bottle of Poison{bo,r}~
+{BO,R}A bottle of Poison is sitting here.{bo,r}~
+~
+12 0 0 1
+0 0 0 0
+1 1 1
+E
+poison bottle~
+
+{BO,R}A bottle of Poison is here waiting to be used.{bo,r}
+
+~
+#35613
+blood potion vial~
+{BO,R}A Vial of Blood{bo,r}~
+{BO,R}A Vial of Blood has been left here to spoil.{bo,r}~
+~
+10 0 67108864 1
+40 28 28 15
+1 52000 1
+E
+blood potion vial~
+
+{BO,R}A big vial of blood that looks like it was drawn recently from a victim.{bo,r}
+
+~
+#35614
+food poison fish~
+~
+{BO,BLA}A box of poisoned fish food{bo,bla}~
+{BO,BLA}A box of poisoned fish food lies here.{bo,bla}~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35615
+teeth fangs~
+{BO,R}S{BO,W}ome razor sharp fang{BO,R}S{bo,r}~
+Someone has left there teeth here.~
+~
+9 0 0 67108865
+10 0 0 0
+1 1 1
+A
+19 2
+A
+18 2
+B
+17302536
+C
+7000 1
+G
+50
+#35616
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+9 0 0 1
+0 0 0 0
+1 1 1
+C
+7000 2
+#35617
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35618
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35619
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35620
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35621
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35622
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35623
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35624
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35625
+house portal~
+{BO}{BLU}A glimmering portal{bo}{blu}~
+{BO}{BLU}A glimmering portal to somewhere{bo}{blu}~
+Nothing is floating around here.~
+27 0 0 1
+0 0 0 0
+1 1 1
+E
+house portal~
+
+{BO}{BLU}A shimmering portal that seems to beckon you to enter.{bo}{blu}
+
+~
+#35626
+drawer kitchen~
+A large kitchen drawer that is sitting in the corner.~
+A large kitchen drawer that is sitting in the corner.~
+Nothing is floating around here.~
+15 0 0 0
+1000 1 0 0
+2000 1 1
+E
+drawer kitchen~
+
+A large kitchen drawer that is partially open. You should look inside.
+
+~
+#35627
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35628
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35629
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35630
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35631
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35632
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35633
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35634
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35635
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35636
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35637
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35638
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35639
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35640
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35641
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35642
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35643
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35644
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35645
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35646
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35647
+nothing~
+~
+nothing~
+Nothing is floating around here.~
+1 0 0 1
+1 1 1 1
+1 1 1
+#35648
+jersey shirt armor~
+{R}-{W}N{BLU}Y{R}- {W}G{BLU}i{W}a{R}n{W}t{BLU}s {W}o{R}f {BLU}J{W}e{R}r{BLU}s{W}e{R}y{r}~
+A {R}-{W}N{BLU}Y{R}- {W}G{BLU}i{W}a{R}n{W}t{BLU}s {W}o{R}f {BLU}J{W}e{R}r{BLU}s{W}e{R}y{r} lies here unused.~
+Nothing is floating around here.~
+9 2148536323 64 9
+28 0 0 0
+4 5000 1
+E
+jersey shirt armor~
+
+The New York Giants created a huge upset on the 
+undefeated New England Patriots!
+
+~
+A
+19 7
+A
+18 7
+L
+1
+C
+7000 2
+#35649
+test immortal eq ac~
+~
+ac eq~
+ac eq~
+1 0 0 1
+1 1 1 1
+1 1 1
+$~

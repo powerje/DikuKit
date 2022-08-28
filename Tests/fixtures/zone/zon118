@@ -1,0 +1,97 @@
+#118
+The X-Mansion(Zoharn)~
+11899 400 2
+*
+X 12224
+D 0 11804     0     1    (N:CLOSED) {BOLD,BLUE}Entrance to {YELLOW}the Mansion{bold,yellow}
+M 0 11826    10 11805    {BOLD,CYAN}Mutant Student{bold,cyan}
+D 0 11805     2     1    (S:CLOSED) {BOLD,YELLOW}Professor Xavier's School for Gifted Youngsters.{bold,yellow}
+D 0 11806     0     1    (N:CLOSED) {BOLD,CYAN}The Front Steps of the Mansion{bold,cyan}
+M 0 11826    10 11808    {BOLD,CYAN}Mutant Student{bold,cyan}
+D 0 11809     2     1    (S:CLOSED) {BOLD,CYAN}The Hallway{bold,cyan}
+M 0 11803     1 11811    {BOLD,WHITE}Professor Xavier{bold,white}
+G 1 11816     6     0    Elixir
+G 1 11816     6     0    Elixir
+D 0 11811     5     1    (D:CLOSED) {BOLD,CYAN}Professor Charles Xavier's Study{bold,cyan}
+M 0 11807     1 11817    {YELLOW}Wolverine{yellow}
+E 1 11800     2     9    (HANDS) {BOLD,BLUE}Wolve{BOLD,YELLOW}rine's Cl{BLUE}aws{bold,blue}
+M 0 11826    10 11818    {BOLD,CYAN}Mutant Student{bold,cyan}
+M 0 11826    10 11818    {BOLD,CYAN}Mutant Student{bold,cyan}
+M 0 11806     1 11819    {BLUE}Beast{blue}
+G 1 11817     2     0    {BLU}Beast's {BOLD}Backpack{blu}
+M 0 11826    10 11819    {BOLD,CYAN}Mutant Student{bold,cyan}
+M 0 11826    10 11819    {BOLD,CYAN}Mutant Student{bold,cyan}
+M 0 11805     1 11821    {BOLD,RED}Phoenix{bold,red}
+G 1 11816     6     0    Elixir
+M 0 11804     1 11821    {BOLD,BLUE}Cyclops{bold,blue}
+E 1 11801     1     6    (HEAD) {BOLD,BLUE}Cyclops' {YELLOW}Visor{bold,yellow}
+M 0 11826    10 11823    {BOLD,CYAN}Mutant Student{bold,cyan}
+M 0 11810     1 11825    {BLUE}Bishop{blue}
+G 1 11816     6     0    Elixir
+M 0 11809     1 11827    {BOLD,CYAN}Iceman{bold,cyan}
+E 1 11803     4    13    (WAIST) {BOLD,YELLOW}The X-Belt{bold,yellow}
+M 0 11808     1 11829    {BOLD,YELLOW}Jubilee{bold,yellow}
+E 1 11802     1     6    (HEAD) {BOLD,YELLOW}Jubilee's Shades{bold,yellow}
+M 0 11813     1 11831    {MAG}Psylocke{mag}
+E 1 11805     1    16    (WIELD) {MAG}Psychic Blade{mag}
+M 0 11812     1 11833    {BOLD,RED}Gambit{bold,red}
+E 1 11804     2     0    (LIGHT) {BOLD,YELLOW}Gambit's Ace of Spades{bold,yellow}
+M 0 11811     1 11835    {BOLD,CYAN}Archangel{bold,cyan}
+G 1 11816     6     0    Elixir
+M 0 11817     1 11840    {BOLD,YELLOW}Forge{bold,yellow}
+E 1 11808     1     7    (LEGS) {WHITE}Forge's Bionic Leg{white}
+D 0 11840     1     1    (E:CLOSED) {BOLD,WHITE}Professor Xavier's Ready Room{bold}
+D 0 11841     3     1    (W:CLOSED) {BOLD,CYAN}Entrance to the Danger Room{bold,cyan}
+M 0 11802     5 11842    {BOLD,MAG}Sentinel Guard{bold,mag}
+M 0 11802     5 11842    {BOLD,MAG}Sentinel Guard{bold,mag}
+M 0 11802     5 11842    {BOLD,MAG}Sentinel Guard{bold,mag}
+M 0 11802     5 11842    {BOLD,MAG}Sentinel Guard{bold,mag}
+M 0 11802     5 11842    {BOLD,MAG}Sentinel Guard{bold,mag}
+M 0 11818     1 11847    {BOLD,MAG}Mastermold{bold,mag}
+E 1 11809     1     5    (BODY) {BOLD,MAG}Robotic Body Armor{bold,mag}
+M 0 11825     4 11848    {BOLD,MAG}Acolyte{bold,mag}
+M 0 11825     4 11848    {BOLD,MAG}Acolyte{bold,mag}
+M 0 11825     4 11848    {BOLD,MAG}Acolyte{bold,mag}
+M 0 11825     4 11848    {BOLD,MAG}Acolyte{bold,mag}
+M 0 11819     1 11849    {BOLD,MAG}Magneto{bold,mag}
+E 1 11810     1     3    (NECK) {RED}Mag{MAG}neto's Ca{RED}pe{red}
+M 0 11823     1 11851    War
+E 1 11814     1    16    (WIELD) {BOLD,BLUE}B{bold,blue}{BLUE,WHITE}ow of War{bold,white}
+M 0 11822     1 11851    {CYAN}Pestilence{cyan}
+E 1 11813     1    12    (ABOUT) {BOLD}R{bold}{BOLD,WHITE}obe of Pestilence{bold,white}
+M 0 11821     1 11851    {CYAN}Death{cyan}
+E 1 11812     1    16    (WIELD) {BOLD,RED}S{bold,red}{BOLD,WHITE}pear of Death{bold,white}
+M 0 11820     1 11851    {CYAN}Famine{cyan}
+E 1 11811     1     9    (HANDS) {BOLD,YELLOW}G{bold,yellow}{BOLD,WHITE}loves of Famine{bold,white}
+M 0 11824     1 11852    {BLUE}Apocalypse{blue}
+E 1 11815     1     5    (BODY) {BLA}The Arm{W}or of {bold}{BLA}En S{W}aba{w}{BLA}h Nur'{blu}
+M 0 11814     1 11854    {YELLOW}Ro{WHITE}gu{YELLOW}e{yellow}
+E 1 11803     4    13    (WAIST) {BOLD,YELLOW}The X-Belt{bold,yellow}
+M 0 11815     1 11855    {BOLD,WHITE}Storm{bold,white}
+E 1 11806     2     3    (NECK) {BOLD,WHITE}Storm's Comm Badge{bold,white}
+M 0 11826    10 11855    {BOLD,CYAN}Mutant Student{bold,cyan}
+M 0 11826    10 11856    {BOLD,CYAN}Mutant Student{bold,cyan}
+M 0 11816     1 11856    {BOLD,BLUE}Sage{bold,blue}
+G 1 11816     6     0    Elixir
+M 0 11801    10 11857    {YELLOW}Reaver{yellow}
+M 0 11800    10 11857    {BOLD,MAG}Sentinel{bold,mag}
+M 0 11801    10 11857    {YELLOW}Reaver{yellow}
+M 0 11801    10 11863    {YELLOW}Reaver{yellow}
+M 0 11801    10 11866    {YELLOW}Reaver{yellow}
+M 0 11801    10 11873    {YELLOW}Reaver{yellow}
+M 0 11801    10 11874    {YELLOW}Reaver{yellow}
+M 0 11800    10 11875    {BOLD,MAG}Sentinel{bold,mag}
+M 0 11800    10 11875    {BOLD,MAG}Sentinel{bold,mag}
+M 0 11801    10 11877    {YELLOW}Reaver{yellow}
+M 0 11800    10 11880    {BOLD,MAG}Sentinel{bold,mag}
+M 0 11800    10 11882    {BOLD,MAG}Sentinel{bold,mag}
+M 0 11800    10 11883    {BOLD,MAG}Sentinel{bold,mag}
+M 0 11801    10 11883    {YELLOW}Reaver{yellow}
+M 0 11800    10 11883    {BOLD,MAG}Sentinel{bold,mag}
+M 0 11800    10 11885    {BOLD,MAG}Sentinel{bold,mag}
+M 0 11801    10 11885    {YELLOW}Reaver{yellow}
+M 0 11800    10 11886    {BOLD,MAG}Sentinel{bold,mag}
+M 0 11801    10 11886    {YELLOW}Reaver{yellow}
+M 0 11800    10 11890    {BOLD,MAG}Sentinel{bold,mag}
+M 0 11826    10 11896    {BOLD,CYAN}Mutant Student{bold,cyan}
+$~

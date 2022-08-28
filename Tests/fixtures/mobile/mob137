@@ -1,0 +1,528 @@
+#13700
+termite animal~
+{YELLOW}A termite{yellow}~
+A {YELLOW}Termite{yellow} crawls around here.
+~
+
+  {YELLOW}The termite looks like he could eat more than wood, and he's
+  travelling alone, EEEEEEEKKKKK, better escape while you still can.{yellow}
+
+~
+193 0 100 S
+10 1 7 10d10+50 2d2+2
+50 4000
+8 8 1
+D 20
+A 12
+#13701
+wood pecker woodpecker animal~
+A {BOLD}{BLUE}Wood{RED}pecker{red}~
+A {BOLD}{BLUE}Wood{RED}pecker{red} is here, pounding his head on a {BOLD}{YELLOW}large{bold}{yellow} piece of {BOLD}{GREEN}wood{bold}{green}.
+~
+
+{YELLOW}You see a {BOLD}{BLUE}wood{RED}pecker{red}, {YELLOW}he looks a lot like {BOLD}{BLUE}Woody{bold}{blue}.
+
+~
+196 33554432 100 S
+8 1 7 5d8+75 1d3+5
+50 1500
+8 8 1
+D 20
+A 12
+#13702
+golem wooden animal~
+A{BOLD}{GREEN} Wooden{bold}{green}{YELLOW} Golem{yellow}~
+A {YELLOW}burly{BOLD}{GREEN} GOLEM {bold}{YELLOW}made entirely of {GREEN}wood{YELLOW} stands before you.
+~
+
+ {GREEN}You see a golem made entirely of wood. The Wooden Golem 
+ keeps a silent vigil as he guards his post{green}.
+
+~
+8192 0 600 S
+24 1 7 15d10+700 3d4+4
+4000 80000
+8 8 0
+D 20
+A 12
+#13703
+tree snake animal~
+A {GREEN}Tree{YELLOW} Snake{yellow}~
+A{GREEN} Tree SnAkE{green} is {BOLD}{CYAN}coiling{bold}{cyan} around on a nearby {BOLD}{GREEN}limb.{bold}{green}
+~
+
+ {CYAN}You see a small snake that is trying to sun itself. 
+ The snake looks like a formidable opponent due to
+ the large rattle on the tip of its tail.
+
+~
+68 0 -10 S
+6 1 7 2d3+120 1d3+1
+25 20000000
+8 8 0
+D 20
+A 12
+#13704
+baboon animal~
+A {RED}Ba{BOLD}{YELLOW}boon{bold}{yellow}~
+A {RED}Ba{BOLD}{YELLOW}boon{bold}{yellow} hangs from a {GREEN}tree limb{green}, he's showing you his {BOLD}{MAGENTA}{BLINK}Butt.{bold}{magenta}{blink}
+~
+
+ {CYAN}You see a large fierce ape that seems almost human. The Baboon
+ grunts and makes ape noises as he walks around on his hands and feet.
+
+~
+0 557056 0 S
+12 4 7 2d3+150 2d6+6
+0 10000
+8 8 0
+D 20
+A 12
+#13705
+koala bear animal~
+A {BOLD}{CYAN}K{bold}{cyan}o{BOLD}{CYAN}a{bold}{cyan}l{BOLD}{CYAN}a{bold}{cyan}{YELLOW} Bear{yellow}~
+A {BOLD}{CYAN}K{bold}{cyan}o{BOLD}{CYAN}a{bold}{cyan}l{BOLD}{CYAN}a{bold}{cyan}{YELLOW} Bear{yellow} stands on its {CYAN}hind paws{cyan} trying to get some tasty{BOLD}{GREEN} Leaves{bold}{green} to eat.
+~
+
+ {BOLD}{CYAN}You see a cute fuzzy animal climbing from tree limbs to
+ tree limbs. The Koala bear has a shiny little snout that makes you 
+ want to pet it. The Koala bear is here searching for food.
+
+~
+134217732 0 500 S
+16 1 7 5d5+200 2d8+6
+2400 24000
+8 8 1
+D 20
+A 12
+#13706
+sapling tree animal~
+A{BOLD}{GREEN} Sapling{bold}{green}~
+A {BOLD}{GREEN}Little Sapling{bold}{green} walks about on its tiny {YELLOW}roots.
+~
+
+ {GREEN}This little tree will one day become as big and great as its
+ mother tree in which you stand in, but for now the little sapling
+ is running around on cute little twiggy legs causing mischief, 
+ maybe you should spank him..
+
+~
+134479940 33816712 10 S
+13 6 7 2d3+190 2d6+3
+2000 20000
+8 8 1
+R 524288
+D 20
+A 12
+#13707
+frog giant animal~
+A{BOLD}{CYAN} Giant{BOLD}{GREEN} Frog{bold}{green}~
+A {BOLD}{CYAN}Giant{BOLD}{GREEN} Frog{bold}{green} prepares to {RED}POUNCE{red} on you.
+~
+
+ {BOLD}{GREEN}You see a mutant frog the size of a two men sitting here.
+ Its moldy green skin looks slick and shiny. Better run 
+ before it notice you and eat you for lunch.
+
+~
+64 524296 -500 S
+14 1 7 2d3+250 2d6+3
+700 1200
+8 8 0
+D 20
+A 12
+#13708
+squirrel rabid animal~
+A {BOLD}{RED}Rabid{bold}{red}{YELLOW} Squirrel{yellow}~
+A {BOLD}{RED}Rabid{bold}{red}{YELLOW} Squirrel{yellow} is here, {BOLD}{CYAN}FOAMING{bold}{cyan} at the mouth.
+~
+
+ A {BOLD}{YELLOW}Large{bold}{yellow}{YELLOW} Squirrel{yellow}{BOLD}{CYAN} stares{bold}{cyan} at you as white
+ foam{BOLD}{RED} dribbles{bold}{red} down its chin.
+
+~
+64 33554432 -20 S
+15 1 7 3d5+200 2d6+8
+200 15000
+8 8 1
+D 20
+A 12
+#13709
+orangutan ape animal~
+An {BOLD,RED}Orangutan{b}~
+An {BOLD,RED}Orangutan{b} is {BOLD,GREEN}here{b}, hanging from a {GREEN}vine.{b}
+~
+
+ {BOLD}{RED}You see a large Orangutang who appears to be orange in color. He
+ grins at you as you approach and scratches his armpit.
+
+~
+268435684 34080768 -100 S
+18 1 7 5d8+220 3d6+8
+400 25000
+8 8 1
+D 20
+A 12
+#13710
+gorilla ape animal~
+A {BOLD}{BLACK}Gorilla{bold}{black}~
+A {BOLD}{CYAN}Large {bold}{cyan}{BOLD}{BLACK}Black Gorilla{BOLD}{CYAN} charges{bold}{cyan} at you, {GREEN}grubs{green} in hands.
+~
+
+ {GREEN}You see a large black Gorilla with a handful of grub worms in his hand.
+ He looks angry, maybe you interrupted his lunch?
+
+~
+268435684 34078720 -100 S
+18 1 7 5d8+220 3d6+8
+400 25000
+8 8 1
+D 20
+A 12
+#13711
+cougar animal~
+A {BOLD}{BLACK}Cougar{bold}{black}~
+A {BOLD}{CYAN}LARGE{BOLD}{BLACK} Cougar{bold}{black} stretches on a {GREEN}limb{green}, baring his {BOLD}{YELLOW}claws{bold}{yellow}.
+~
+
+ This sleek black jungle cat moves gracefully around you, measuring you 
+ for a possible lunch. The Cougar looks menacing, and his {BOLD}{YELLOW}claws{bold}{yellow}
+ look to be almost as long as your sword..{BOLD}{RED}EEEEEEEE!!!!{BOLD}{GREEN}RUN FOREST RUN!!{bold}{green}
+
+~
+68 0 350 S
+25 1 7 2d3+320 3d7+3
+10000 35650
+8 8 0
+D 20
+A 12
+#13712
+gnoll~
+The {YELLOW}Gnoll{yellow}~
+A {BOLD}{GREEN}Tree {bold}{YELLOW}Gnoll{yellow} is standing here, guarding his hut with a small {BOLD}{YELLOW}sharp{bold}{yellow} sword.
+~
+
+ {GREEN}You see a wolfish looking creature with pointy ears and a large toothy
+ grin. He stares at you, piercing you right through to your bones. The
+ Gnoll looks like he could rip apart anyone foolish enough to be in
+ his home.
+~
+268968038 1074037256 -500 S
+12 1 7 0d0+425 3d6+3
+10000 20000
+9 9 0
+S 67125248
+R 12
+D 20
+A 12
+#13713
+twiggy~
+{YELLOW}Twiggy{yellow}~
+{YELLOW}Twiggy{yellow}, the {BOLD}{GREEN}Demi{bold}{green}-{BOLD}{YELLOW}God{bold}{yellow} of the {BOLD}{GREEN}Trees{bold}{green} is here.
+~
+
+ {BOLD}{YELLOW}Twiggy is an incarnation of an ancient tree spirit. It looks like a 
+ large mass of roots and intertwined leaves forming a twisted body. Twiggy
+ shambles across the floor in an attempt to reach you.{bold}{yellow}
+
+~
+268959846 1342439944 -500 S
+20 1 7 2d3+200 2d6+7
+100000 250000
+9 9 0
+S 16384
+R 12
+D 20
+A 12
+#13714
+Treeson~
+{BOLD}{GREEN}Treeson{bold}{green}~
+{BOLD}{GREEN}Treeson{bold}{green}, the {BOLD}{YELLOW}God{bold}{yellow} of {BOLD}{GREEN}Trees{bold}{green} is standing here.
+~
+
+ {CYAN}A large twisted tree stands before you. Treeson looks like a gigantic
+ tree, and he moves about on his roots. A bright halo encircles his head
+ and his eyes are gaping slits in the bark that makes up his skin.{cyan}
+
+~
+134742019 128 550 C 2
+25 1 7 5d12+500 4d6+5
+13000 130000
+8 8 1
+S 16416
+R 12
+D 20
+A 12
+#13715
+raccoon~
+a {BLACK}{BOLD}R{CY}a{BLA}c{CY}c{BLA}o{CY}o{BLA}n{bla}~
+A {BLACK}{BOLD}R{CY}a{BLA}c{CY}c{BLA}o{CY}o{BLA}n{bla} scampers all around.
+~
+
+  A furry little racoon scampers all around.
+You only hope that it doesn't have rabies.
+Though you do know that racoons are known to take treasures
+and hide them away.
+
+~
+196 0 954 S
+25 1 1 3d12+210 0d0+35
+0 28000
+0 8 1
+D 20
+A 12
+#13716
+comm commissioner~
+The Commissioner of Dunwood~
+The Commissioner of Dunwood strolls about his town.
+~
+   You see a short stocky man that seems to be constantly glaring at all the people around him.  You wonder who the hell elected him.
+~
+604020800 1342439944 900 C 1
+53 1 7 2d3+10000 5d10+12
+200000 50000
+8 8 1
+D 20
+A 12
+#13717
+citizen~
+A Citizen of Dunwood~
+A Citizen of Dunwood weeps quietly in the corner.
+~
+   You see a plain layman of the town of Dunwood.  Since the people here are so oppressed, this poor guy is crying loudly.
+~
+469762240 1074004488 100 S
+35 0 7 33d33+1300 5d9+10
+15000 6000
+8 8 1
+D 20
+A 12
+#13718
+cat curious shopkeeper~
+The Curious Kitty~
+An old feline watches you from behind the counter.
+~
+   You see an incredibly large feline with glowing eyes and a tattered coat.  
+This cat seems to be watching you intently as she slowly grooms her fur.  Two large fangs glisten as they droop well below her chin.
+~
+671096902 1342997000 800 C 1
+51 0 7 2d3+13000 10d10+30
+2000000 2000000
+8 8 1
+D 20
+A 12
+#13719
+a crowley shopkeeper~
+A. Crowley the Alchemist~
+A. Crowley, the Head Alchemist mixes a potion and looks at you with an evil grin.
+~
+   You see before you a man with vast knowledge of the arcane, spells, and lore.  He looks very capable at what he does, and you are sure that anything you
+buy from him will be excellent quality.
+~
+738197702 1107558920 650 C 4
+50 0 7 2d3+25000 10d10+25
+500000 5500000
+9 9 1
+D 20
+A 12
+#13720
+weaponsmaster blacksmith shopkeeper weapon~
+The Weaponsmaster of Dunwood~
+The Weaponsmaster mistakes you for a neighborhood thief and charges!
+~
+   You see a large man standing in the back of the shop.  The Weaponsmaster
+hammers away on a small dagger as he works up a sweat.
+~
+738197606 1107558920 -500 C 4
+50 0 7 2d3+10000 10d12+30
+500000 5500000
+9 9 1
+D 20
+A 12
+#13721
+tree spirit booby~
+{GREEN,BOL}The Spirit of the Great Tree{green,bol}~
+{WHITE,BOLD}A shimmering apparition appears before you.{white,bold}
+~
+{WHITE,BOLD}The Spirit of the Great Tree appears before you, hovering over
+the limbs that form the floor of the treasure room.  As you
+draw nearer, his {RED,BOLD}red eyes{red,bold} {WHITE,BOLD}seem to pierce through to your soul.
+Prepare for Battle! {white,bold}
+
+~
+532482 0 600 S
+24 1 7 15d10+700 6d5+1
+4000 80000
+5 8 0
+S 16384
+R 12
+D 20
+A 12
+#13722
+name~
+name~
+nothing.
+~
+nothing.
+~
+0 0 0 S
+1 1 1 1d1+1 1d1+1
+1 1
+9 9 0
+D 20
+A 12
+#13723
+name~
+name~
+nothing.
+~
+nothing.
+~
+0 0 0 S
+1 1 1 1d1+1 1d1+1
+1 1
+9 9 0
+D 20
+A 12
+#13724
+name~
+name~
+nothing.
+~
+nothing.
+~
+0 0 0 S
+1 1 1 1d1+1 1d1+1
+1 1
+9 9 0
+D 20
+A 12
+#13725
+name~
+name~
+nothing.
+~
+nothing.
+~
+0 0 0 S
+1 1 1 1d1+1 1d1+1
+1 1
+9 9 0
+D 20
+A 12
+#13726
+name~
+name~
+nothing.
+~
+nothing.
+~
+0 0 0 S
+1 1 1 1d1+1 1d1+1
+1 1
+9 9 0
+D 20
+A 12
+#13727
+name~
+name~
+nothing.
+~
+nothing.
+~
+0 0 0 S
+1 1 1 1d1+1 1d1+1
+1 1
+9 9 0
+D 20
+A 12
+#13728
+ack~
+ack~
+ack
+~
+nothing.
+~
+469762052 286786234 -1000 C 4
+58 -15 -4 1d1+15000 3d3+3
+0 10000000
+8 8 1
+D 20
+A 12
+#13729
+Beast Master~
+The {YELLOW}B{BOLD}{RED}e{YELLOW}a{GREEN}s{CYAN}t{bold}{cyan}{BOLD}{YELLOW} Master{bold}{yellow}~
+A{YELLOW} hairy {BOLD}{RED}c{CYAN}r{BLUE}e{YELLOW}a{GREEN}t{YELLOW}u{CYAN}r{RED}e{bold}{red} resembling both {BOLD}{YELLOW}man{bold}{yellow} and {YELLOW}ape{yellow} hops about.
+~
+
+ {YELLOW}This creature resembles both man and ape. Standing up 
+ straight he could be estimated at seven foot tall, luckily
+ for you his height also equals his IQ. He seems to be
+ communicating some thoughts to the creatures around him.
+ You hope it's not about you.
+
+~
+67133442 1074037288 0 C 4
+51 -80 5 10d10+1000 7d6+5
+1 1
+9 9 1
+S 8388864
+D 20
+A 12
+#13730
+executioner~
+The Executioner~
+The Executioner is here. ready to decapitate you.
+~
+nothing.
+~
+134357024 1393296056 -500 C 2
+54 -35 -7 3d5+30000 100d100+100
+200000 0
+8 8 0
+D 20
+A 12
+#13731
+bill gates~
+Bill Gates~
+Bill Gates, the president of Microsoft is here
+~
+   You see the shining jewel of the computer software industry.  Bill looks
+overworked and overpaid as he pushes his glasses farther up his nose and
+smiles to greet you.
+~
+67117088 1359250056 -1000 C 1
+46 1 -1 2d3+2500 20d2+4
+40000 150000
+8 8 2
+D 20
+A 12
+#13732
+Intox~
+Intox~
+Intox, the God of Beer is here, drinking
+~
+   You see a drunken fuck.
+~
+1224876064 1393328824 -500 S
+56 -45 -6 1d1+32000 100d200+100
+200000 0
+8 8 0
+D 20
+A 12
+#13733
+lolth god spider drow~
+Lolth, the Spider God~
+Lolth, the Spider God shambles about on his web.
+~
+   You see a giant spiderlike apparition.  Lolth looks very powerful, and he
+seems to be shrouded in a black aura.  Two large sets of razor sharp teeth
+jut out from his mouth, and his entire body is covered in coarse black hair.
+~
+33587302 1074528776 -999 S
+20 1 2 2d3+700 6d10+8
+100000 600000
+8 8 0
+D 20
+A 12
+$~

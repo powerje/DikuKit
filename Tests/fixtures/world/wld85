@@ -1,0 +1,1320 @@
+#8500
+The Hideout.~
+~
+85 270336 1
+E
+blueprints~
+The blueprints are of an area called Garamond.
+~
+Z3
+C0
+R0
+S
+#8501
+The {G}Eastward{g} {Y}Road{y}~
+
+  {Y}You have stumbled upon a very wide and well kept road, which appears
+  to lead further off towards the East{y}. {G}Off to the side of the road a
+  large sign has been placed into the ground here for all travelers to
+  read{g}.
+
+~
+85 0 1
+D0
+~
+~
+0 -1 6028
+D1
+~
+~
+0 -1 8502
+Z3
+C-1
+R0
+S
+#8502
+The {G}Eastward{g} {Y}Road{y}~
+
+  {Y}You are at the top of a small rise on the road that continues
+  on to the East{y}.  {G}A great forest can be seen to the south.  It
+  appears to span for miles across the countryside{g}. {Y}To the North
+  {M}purple{m} {BO}{B}mountains{b} {Y}run along side the road off in the distance{y}.
+
+~
+85 0 1
+D1
+~
+~
+0 -1 8503
+D3
+~
+~
+0 -1 8501
+Z3
+C-1
+R0
+S
+#8503
+The {G}Eastward{g} {Y}Road{y}~
+
+  {Y}The road continues on to the East and back the way you came
+  to the West{y}.  {G}To the North lies the {M}purple {BO}{B}mountains{b} {G}and to
+  the South a dense unexplored forest{g}.  {C}A light breeze can be
+  felt running across you as you walk further along the road{c}.
+
+~
+85 0 1
+D1
+~
+~
+0 -1 8504
+D3
+~
+~
+0 -1 8502
+Z3
+C-1
+R0
+S
+#8504
+A {Y}Three{y}-{Y}Way{y} {BO}{B}Fork{b}~
+
+  {Y}You have come to a fork in the road. The road continues East and West 
+  from here, a smaller road leads North into the{y}  {M}purple {BO}{B}mountains{b}. {G}To 
+  the South lies an unexplored forest, which you have no doubt has all 
+  sorts of{g} {R}hostile {BO}{B}creatures{b} {G}lurking about in it{g}.
+    
+  {C}You notice the breeze is a bit stronger here as it brushes across the
+  empty gaps in your armour, sending a chilling quiver down your back{c}.
+
+~
+85 4 1
+D0
+~
+~
+0 -1 8505
+D1
+~
+~
+0 -1 8507
+D3
+~
+~
+0 -1 8503
+E
+8507~
+(null)~
+Z3
+C-1
+R0
+S
+#8505
+A Mountain Road~
+  You are on a small road leading into the Purple Mountains.  A small
+stream runs next to the road here, and large trees block most of the
+sunlight, making it rather chilly.
+~
+85 32 5
+D0
+~
+~
+0 -1 8506
+D2
+~
+~
+0 -1 8504
+Z3
+C-1
+R0
+S
+#8506
+A Path in the Mountains~
+  The road you were on has gotten far to small to be called a road any
+longer.  It is barely wide enough here for a pack animal to get through.
+A small stream runs along the road here, and everything glows with a
+strange purple hue.
+~
+85 32 5
+D2
+~
+~
+0 -1 8505
+Z3
+C-1
+R0
+S
+#8507
+The Eastward Road~
+
+  {Y}You are on a road that leads further East. You can see the tail end of
+  the {M}purple {BO}{B}mountains{b} {Y}behind you to the Northwest{y}. {G}A dense forest leads
+  off to the South{g}.  A large SIGN is planted in the ground here waiting 
+  to be read.
+
+~
+85 0 1
+D3
+~
+~
+0 -1 8504
+E
+sign~
+
+     Entering the Lands of King Garamond
+                 /////////
+         Trouble Makers NOT Welcome!
+                 /////////
+  All Crimes Punishable by Immediate DEATH!
+
+~
+Z3
+C-1
+R0
+S
+#8508
+King's Road~
+  You have entered the Realm of King Garamond.  The road is no longer
+made of dirt, but rather cobblestone.  The light here is of the beautiful
+golden color that you have come to expect from a spring sunrise, but 
+it is mid-day.  The air here is fresh and sweet, and there is certainly
+something magical about.
+~
+85 0 2
+Z3
+C-1
+R0
+S
+#8509
+King's Road~
+  You are on the road that leads to Castle Garamond.  The famed orchard of
+King garamond is North of here, but you have a strange feeling that it
+is off limits to you.
+~
+85 0 2
+Z3
+C-1
+R0
+S
+#8510
+King's Road~
+  You are on the road leading to Castle Garamond.  The famed orchard of
+King Garamond is North of here, but you have a strange feeling that it
+is off limits to you.
+~
+85 0 2
+Z3
+C-1
+R0
+S
+#8511
+King's Road~
+  You are on the road leading to Castle Garamond.  The famed orchard of
+King Garamond is North of here, but you have a strange feeling that it
+is off limits to you.
+~
+85 0 2
+Z3
+C-1
+R0
+S
+#8512
+Garamond's Orchard~
+  You are in the great orchard of King Garamond.  The trees here are like
+nothing you have ever seen.  Their fruit is bright red and plump, and
+the leaves are golden in color.  A cool breeze blows through here,
+pumping energy into your body.
+~
+85 1024 3
+Z3
+C-1
+R0
+S
+#8513
+Garamond's Orchard~
+  You are in the great orchard of King Garamond.  The trees here are like 
+nothing you have ever seen.  Their fruit is bright red and plump, and
+the leaves are golden in color.  A cool breeze blows here, pumping
+energy into your body.
+~
+85 1024 1
+Z3
+C-1
+R0
+S
+#8514
+Garamond's Orchard~
+   You are standing in the great orchard of King Garamond. The trees here
+are like nothing you have ever seen.  Their fruit is bright red and plump,
+and the leaves are golden in color.  A cool breeze blows through here,
+pumping energy into your body.
+~
+85 1024 3
+Z3
+C-1
+R0
+S
+#8515
+Garamond's Orchard~
+  You are standing in the great orchard of King Garamond.  The trees here
+are like nothing you have ever seen.  Their fruit is bright red and plump,
+and the leaves are golden in color.  A cool breeze blows through here,
+pumping energy into your body.
+~
+85 1024 3
+Z3
+C-1
+R0
+S
+#8516
+Garamond's Orchard~
+  You are in the great orchard of King Garamond.  The trees here are like
+nothing you have ever seen.  Their fruit is bright red and plump, and
+the leaves are golden in color.  A cool breeze blows through here,
+pumping energy into your body.
+~
+85 1024 3
+Z3
+C-1
+R0
+S
+#8517
+Garamond's Orchard~
+  You are standing in the great orchard of King Garamond.  The trees here
+are like nothing you have ever seen.  Their fruit is bright red and plump,
+and the leaves are golden in color.  A cool breeze blows through here,
+pumping energy into your body.
+~
+85 1024 3
+Z3
+C-1
+R0
+S
+#8518
+King's Road~
+  You are on a road in the Kingdom of Garamond.  In the distance to the East
+you see Castle Garamond where the majority of Garamond's subjects dwell.
+Smaller roads lead North and South from here.
+~
+85 0 2
+Z3
+C-1
+R0
+S
+#8519
+Castle Approach~
+  You are on the King's Road approaching Castle Garamond.  It's walls stand
+just East of here.  They must be at least forty feet high, and you couldn't
+begin to guess how think they are.  Small, well kept hedges line the road
+here.~
+85 0 1
+E
+hedge~
+The hedge is a strange plant that you have not seen before.  It is very
+beautiful though, and nicely trimmed.
+~
+Z3
+C-1
+R0
+S
+#8520
+Draw Bridge~
+  You are on the draw bridge directly above the moat that surrounds Castle
+Garamond.  It is a drop of about 20 feet into the dark waters of the
+moat.  The castle is just East of here, and the King's road leads off
+into the West.
+~
+85 0 1
+E
+moat The waters of the moat are dark and murky.  There is no telling~
+what horrors lurk there!
+~
+E
+moat~
+The waters of the moat are dark and murkey.  There is no telling what 
+horrors they are hiding!
+~
+E
+of~
+(null)~
+Z3
+C-1
+R0
+S
+#8521
+Castle Gate~
+  You are at the gate of Castle Garamond.  Fortunatly for you the portcullis
+is raised so that you may enter.  A guard house is South of here, and there
+is a sign on the wall.
+~
+85 128 6
+E
+sign~
+Violence will not be tolerated within the walls of Castle Garamond.
+
+         Any violence is punishable by immediate DEATH!
+
+                       BY ORDER OF THE KING
+~
+Z3
+C-1
+R0
+S
+#8522
+In the Moat~
+  You are swimming in the dark waters of the moat.  The sides are vertical
+here, providing you with no way to climb out.  As you thrash about, you
+can feel strange things brushing against your legs below.
+~
+85 32773 1
+Z3
+C-1
+R0
+S
+#8523
+A small road~
+  You are on a small road that connects the King's Road with one of the
+many peasant villages that surround Castle Garamond.
+~
+85 0 2
+Z3
+C-1
+R0
+S
+#8524
+In the Moat~
+  You are swimming in the dark waters of the moat.  There is no telling what
+strange horrors lurk here.  The drawbridge is above you, but there is no way
+to reach it.  You can climb out to the west though.
+~
+85 32769 6
+Z3
+C-1
+R0
+S
+#8525
+In the Fields~
+  This can hardly be called a farm, but that is the purpose that it serves.
+The peasants grow what they can here in an effort to survive.  The soil is
+very rocky though, yielding little relief to the growing hunger of the 
+peasants.
+~
+85 0 2
+Z3
+C-1
+R0
+S
+#8526
+A Peasant Hut~
+  You are in one of the peasant huts.  Actually, you are in THE peasant
+hut, as this village has only one.  It barely provides shelter from
+the elements, being made of sticks lashed together with a roof of straw.
+It looks as though a few families live here, pooling together their very
+limited resources.
+~
+85 0 2
+Z3
+C-1
+R0
+S
+#8527
+At the Creek~
+  You are at a small creek which flows from the northern mountains and 
+provides the village with water. A small fire ring is here functioning
+as a kitchen, and a small dam has been built to the north to pool up
+water for bathing. The creek continues westward into the King's Orchard.
+~
+85 0 2
+E
+fire ring~
+The ring is made of fire blackened rocks.
+~
+E
+dam~
+The dam is made of rocks, sticks, and mud.  It pools the water up just
+enough to allow the peasants to bath themselves in it.
+~
+Z3
+C-1
+R0
+S
+#8528
+A small road~
+  You are on a small road which connects Kings's Road with one of the many 
+peasant villages that surround Castle Garamond.
+~
+85 0 2
+Z3
+C-1
+R0
+S
+#8529
+A Small Hut~
+  You are in the hut of a local peasant.  It looks as though whoever lives
+here is some sort of weaver.  There are baskets piled all over the place
+here.  This is actually a very nice hut, having a roof of woven straw.
+~
+85 8 0
+E
+baskets~
+The baskets are all woven of reeds and are in various shapes and sizes.
+~
+Z3
+C-1
+R0
+S
+#8530
+A Peasant Village~
+  This is one of the many small peasant villages that surround Castle 
+Garamond.  The people that dwell here are to poor to live within the
+safty of the castle walls, but they are unwilling to move far away.
+~
+85 0 2
+Z3
+C-1
+R0
+S
+#8531
+In a Pasture~
+  The occupants of this village are not that bad off.  They have a small
+pasture in which they can raise small animals for their own consumption,
+or to sell at the castle market.
+~
+85 0 2
+Z3
+C-1
+R0
+S
+#8532
+A Graveyard~
+  This is a small field where the peasants have buried their dead. It is not
+much really, but it is better then nothing. Small branches lashed into crosses
+serve as headstones, and a thick grass, full of dandilions, covers the ground.
+A small path leads south.
+~
+85 0 2
+Z3
+C-1
+R0
+S
+#8533
+Guard House~
+  This is a guard house for the gate guards.  Two cots lie against the far
+wall, and a small table sits in the center of the room.  A small ladder
+leads up to the top of the castle wall.
+~
+85 8 0
+Z3
+C-1
+R0
+S
+#8534
+A Peasant Village~
+  This is one of the small peasant villages that lie around Castle Garamond.
+A small hut is North of here, and a field lies East.  To the west is a
+small creek and a small road heads South.
+~
+85 0 1
+Z3
+C-1
+R0
+S
+#8535
+In the Moat~
+  You are swimming in the dark waters of the moat.  The sides hereare 
+vertical, prividing you with no way to climb out.  As you thrash about
+you can feel strange things brushing against your legs below.
+~
+85 32769 6
+Z3
+C-1
+R0
+S
+#8536
+In the Moat~
+  You are swimming in the dark waters of the moat.  The sides here are
+vertical, providing you with no way to climb out.  As you thrashe about,
+you can feel strange things brushing against your legs below.
+~
+85 32769 6
+Z3
+C-1
+R0
+S
+#8537
+In the Moat~
+  You are swimming in the dark waters of the moat.  The sides here are
+vertical, providing you with no way to climb out.  As you thrash about,
+you can feel strange things brushing against your legs below.
+~
+85 32769 6
+Z3
+C-1
+R0
+S
+#8538
+In the Moat~
+  You are swimming in the dark waters of the moat.  The sides here are
+vertical, providing you with no way to climb out.  As you thrash about, you
+can feel strange things brushing against your legs below.
+~
+85 32769 6
+Z3
+C-1
+R0
+S
+#8539
+In the Moat~
+  You are swimming in the dark waters of the moat.  The sides here are
+vertical, providing you with no way to climb out.  As you thrash about,
+you can feel strange things brushing against your legs below.
+~
+85 32769 6
+Z3
+C-1
+R0
+S
+#8540
+In the Moat~
+  You are swimming in the dark water of the moat.  The sides here are 
+vertical, providing you with no way to climb out.  As you thrash about,
+you can feel strange things brushing against your legs below.
+~
+85 32769 6
+Z3
+C-1
+R0
+S
+#8541
+In the Moat~
+  You are swimming in the dark waters of the moat.  The sides here are
+vertical, providing you with no way to climb out.  As you thrash about,
+you can feel strange things brushing against your legs below.
+~
+85 32769 6
+Z3
+C-1
+R0
+S
+#8542
+Inside the Castle Gate~
+  You are standing just inside the castle gate.  The door to the keep is
+East of here.  To the North and South is a large market area.  There is a 
+lot of comotion here.
+~
+85 0 1
+Z3
+C-1
+R0
+S
+#8543
+The Door to to the Keep~
+  You are at the door to the keep.  Beyond this door lies the home of King
+Garamond himself.  The market area is West of here, and beyond that is
+the castle gate.
+~
+85 0 1
+Z3
+C-1
+R0
+S
+#8544
+The Market Area~
+  You are in the market area of Castle Garamond.  People scurry about here
+trying to sell the various crafts they have made and food they have grown.
+A door to the South Tower is West of here, and the local armoury is South.
+The market area continues North and East.
+~
+85 0 1
+Z3
+C-1
+R0
+S
+#8545
+Garamond Armoury~
+  This is the armoury of Garamond.  Gleaming suits of armor stand here
+waiting to be sold to the wealthy nobles.
+~
+85 0 0
+E
+armor suits~
+This is perhaps the finest looking armor that you have ever laid eyes on.
+~
+Z3
+C-1
+R0
+S
+#8546
+The Market Area~
+  You are in the market area of Castle Garamond.  People scurry about here
+trying to sell a variety of items.  The barracks of the castle guards lie
+directly South of here.
+~
+85 0 1
+Z3
+C-1
+R0
+S
+#8547
+Guard's Barracks~
+  You have entered the barracks of the castle guards.  Cots run the length of
+this long building.  At the foot of each cot is a foot locker.  Other then
+that, the room is rather bare.  No decorations adorn the walls, and the floor
+is just dirt.
+~
+85 8 0
+E
+cots~
+The cots do not look at all comfortable.
+~
+E
+lockers foot~
+The foot lockers are all identical and securly locked.
+~
+Z3
+C-1
+R0
+S
+#8548
+The Market Area~
+  YOu are in the market area.  People are moving about here buying and 
+selling various items.  The ground is covered with a layer of hay.  
+South of here is the Garamond Weapon Shoppe, and the market area lies
+both North and West.
+~
+85 0 1
+Z3
+C-1
+R0
+S
+#8549
+The Garamond Weapon Shoppe~
+  You are in the Garamond Weapon Shoppe.  Many fine swords have been forged
+within these walls.  A furnace and bellows are located at the back of the
+shoppe, and many fine swords are on display.
+~
+85 8 0
+E
+sword swords~
+The swords are of fine quality.  The nobles will pay a pretty penney for them.
+~
+Z3
+C-1
+R0
+S
+#8550
+The Market Area~
+  This is the Garamond market area.  People are trying to sell various items
+here.  A door to the East Tower is East of here, and the market area stretches
+North and South.
+~
+85 0 1
+Z3
+C-1
+R0
+S
+#8551
+The Market Area~
+  You are in the market area of Garamond.  People are here selling what ever
+they can.  The odor of horses is wafting here from the stables to the North,
+and the market area continues South and West.
+~
+85 0 1
+Z3
+C-1
+R0
+S
+#8552
+The Stables~
+  You are in the Stables of Garamond.  Few animals are boarded here now, but
+during the festivals they become heavily used.  Hay is piled high against
+one of the walls, and you may want to watch where you step.
+~
+85 8 0
+Z3
+C-1
+R0
+S
+#8553
+The Market Area~
+  You are in the market area of Garamond.  People scurry about here trying
+to sell various crafts that they have made.  The barracks of the castle
+guards is North of here.
+~
+85 0 1
+Z3
+C-1
+R0
+S
+#8554
+Guard Barracks~
+  This is the barracks of some of the castle guards.  Cots run the length of
+this long room.  At the foot of each cot is a sturdy foot locker.  Other
+than that the room is pretty bare.  A door leads East.
+~
+85 0 0
+E
+cots~
+The cots do not look very comfortable.
+~
+E
+foot lockers~
+You see sturdy foot lockers.  They are all securly locked.
+~
+Z3
+C-1
+R0
+S
+#8555
+Captain's Quarters~
+  You have entered the quarters of the captain of the guard.  He is not elite
+enough to reside in the main keep, but this is almost as nice.  A large desk
+is here, and a large bed too.  Pictures cover the wall, and an ornate oriental
+rug covers the floor completely.
+~
+85 0 0
+E
+desk~
+The desk is large a made of oak.  There are some drawers in it.
+~
+E
+pictures~
+Most of the pictures are paintings of battle scenes.
+~
+E
+bed~
+The bed looks very comfortable.
+~
+Z3
+C-1
+R0
+S
+#8556
+The Market Area~
+  You are in the market area of Garamond.  The ground here is covered in a
+thick layer of hay.  People are here trying to sell the various items that
+they have made or grown.  A small bakery is North, and a door to the North
+Tower is West of here.  The market area continues East and South.
+~
+85 0 1
+Z3
+C-1
+R0
+S
+#8557
+The Garamond Bakery~
+  This is the bakery of Garamond.  It is frequented by the commoners of the
+castle.  Huge stone ovens line the North wall and the smell of freshly
+baked bread is in the air.
+~
+85 0 0
+Z3
+C-1
+R0
+S
+#8558
+East Tower Stair~
+  You are standing at the bottom of the East tower stairs.
+~
+85 0 0
+Z3
+C-1
+R0
+S
+#8559
+East Tower Stair~
+  You are on the stairs that spiral up the East tower.  Doors lie North and 
+South, and the stairs lead up and down.
+~
+85 0 0
+Z3
+C-1
+R0
+S
+#8560
+On the Castle Wall~
+  You are at the Northeast corner of the castle wall.  South of here is the
+East tower, and the wall continues West.
+~
+85 0 1
+Z3
+C-1
+R0
+S
+#8561
+On the Castle Wall~
+  You are standing on the castle wall.  West of here is the North tower, and
+the wall continues to the East.
+~
+85 0 1
+Z3
+C-1
+R0
+S
+#8562
+The North Tower Stair~
+  You are on the stairs that spiral up the North tower.  Doors lie East
+and South of here, and the stairs continue up and down.
+~
+85 0 0
+Z3
+C-1
+R0
+S
+#8563
+North Tower Stairs~
+  You are at the bottom of the North tower stairs.
+~
+85 0 0
+Z3
+C-1
+R0
+S
+#8564
+On the Wall Above the Gate~
+  You are standing on the castle wall directly above the gate.  Inside the
+wall, the castle is buzzing with activity, while outside all is quiet. You
+can go North or South from here.
+~
+85 0 1
+Z3
+C-1
+R0
+S
+#8565
+South Tower Stair~
+  You are on the stairs that spiral up the South tower.  Doors lie East and
+North of here, and the stairs continue up and down.
+~
+85 0 0
+Z3
+C-1
+R0
+S
+#8566
+South Tower Stairs~
+  You are at the bottom of the South tower stairs.
+~
+85 0 0
+Z3
+C-1
+R0
+S
+#8567
+On the Castle Wall~
+  You are standing on the castle wall.  West of here is the South tower, and
+the wall continues East.
+~
+85 0 1
+Z3
+C-1
+R0
+S
+#8568
+On the Castle Wall~
+  You are standing on the castle wall.  North of here is the East tower, and
+the wall continues West.
+~
+85 0 1
+Z3
+C-1
+R0
+S
+#8569
+The East Tower~
+  You have reached the top of the East tower.  Plush carpeting covers the
+floor here, and shelves of leather bound books line the walls.  A table
+sits in the center of the room cluttered with flasks filled with liquids
+of various colors and a number of scrolls.  A ladder leads to the roof
+through a hole in the ceiling, or you can take the stairs down.
+~
+85 0 0
+E
+scrolls~
+The scrolls look very old and are written in a foreign tongue.
+~
+E
+books~
+The books are very large and leather bound.  They are written in a language
+that is foreign to you.
+~
+E
+flasks~
+The flasks are filled with strange liquids of various colors.
+~
+Z3
+C-1
+R0
+S
+#8570
+East Tower Roof~
+  You are in the east tower roof.  You can see forever from here.  This
+tower seems to be higher then the other two.  A lightning rod is fastened
+to the roof here.
+~
+85 0 1
+E
+lightning rod~
+The lightning rod is securly fastened to the roof.  A cable leads from
+it to the room below.
+~
+Z3
+C-1
+R0
+S
+#8571
+The North Tower~
+  You have reached the top of the North tower.  This is a large circular room.
+A few cots lie here, and a table sits in the center of the room.  A ladder
+leads to the roof through a hole in the ceiling, and stairs lead down.
+~
+85 0 0
+Z3
+C-1
+R0
+S
+#8572
+The North Tower Roof~
+  You stand on the roof of the North tower.  You must be 100 feet above the
+valley below.  From here you can see everything.  The King's Orchard, the
+castle grounds, unexplored land.  It is absolutely breathtaking.
+~
+85 0 1
+Z3
+C-1
+R0
+S
+#8573
+The South Tower~
+  You have reached the top of the South tower.  This is a large circular room.
+A few cots lie here, and a table sits in the center of the room.  A ladder
+leads up to the roof through a hole in the ceiling, and stairs lead down.
+~
+85 0 0
+Z3
+C-1
+R0
+S
+#8574
+South Tower Roof~
+  You stand on the roof of the South tower.  You must be 100 feet above the
+valley below.  From here you can see everything.  The King's Orchard, the
+castle grounds, unexplored lands.  It is absolutely breathtaking.
+~
+85 0 1
+Z3
+C-1
+R0
+S
+#8575
+A LONG, LONG FALL~
+  As you step off the tower, you realize that this is the end.  It is quite
+a sight to see the ground getting closer and closer and closer until: SMACK!!
+you hit and DEATH come instantly!
+~
+85 16777222 9
+Z3
+C-1
+R0
+S
+#8576
+The Foyer~
+  You are in the foyer of Garamond Keep.  The walls are made of dark grey stone
+and are polished to a sheen that could only have been obtained by the most
+skilled of dwarven craftsman.
+~
+85 8 0
+E
+8577~
+(null)~
+Z3
+C-1
+R0
+S
+#8577
+Western End of the Grand Hall~
+  This is the Western end of the Grand Hall of Garamond Keep.  Pictures of the
+Kings from long ago line both sides of the hall.  An oriental rug of 
+exquisite beauty covers the floor, and old suits of armor line the walls.
+North of hereis the King's private chapel, and his trophy room is South.
+~
+85 8 0
+E
+pictures~
+The pictures are portraits of all the Kings of Garamond.  They have been made
+by the finest painters of history.
+~
+E
+armor suits~
+The suits of armor are merely decorative and securly bolted to the floor.
+~
+E
+rug~
+The rug was brought all the way from the orient and is of the finest quality.
+~
+Z3
+C-1
+R0
+S
+#8578
+Eastern End of the Grand Hall~
+  This is the Eastern end of the Grand Hall of Garamond Keep.  Pictures of 
+the Kings from long ago line both sides of the hall.  An oriental rug of
+exquisit beauty coveres the floor, and old suits of armor line the walls.
+North of here is the conference chamber, and the ballroom is South.
+~
+85 8 0
+E
+pictures~
+The pictures are portraits of the kings of long ago.
+~
+E
+suits armor~
+The suits of armor are merely decorative and securly fastened to the floor.
+~
+Z3
+C-1
+R0
+S
+#8579
+The King's Audience Chamber~
+  This is the audience hall of the King.  East if here is his throne.  This
+is the room where the King sees his subjects and passes judgements.  Many
+men's lives have been saved or lost in this chamber.
+~
+85 8 0
+Z3
+C-1
+R0
+S
+#8580
+The Throne Room~
+  This is the throne room for the realm of Garamond.  The throne is raised
+a few feet above the floor and is a high backed chair with a soft, plump
+cushion.  The cushion is crimson in color and is lined with thread of solid
+gold.  
+~
+85 8 0
+Z3
+C-1
+R0
+S
+#8581
+Secret Passage~
+  This is a secret passage used only by the king himself.
+~
+85 8 0
+Z3
+C-1
+R0
+S
+#8582
+The Chapel~
+  This is a charming little chapel used only by the king and his special
+guests.  A small alter stands in the North end of the room, and a few 
+rows of pews lie South of it.  There are no decorations here, and no 
+stained glass windows.  It is very simple in the traditional manner of
+the King's of Garamond.
+~
+85 73728 0
+Z3
+C-1
+R0
+S
+#8583
+The Conferenc Chamber~
+  You are at the West end of the conference chamber.  There are no round
+tables here.  Make no doubt about it, here, the King is in charge.  Oak
+paneling covers the walls, and the banners of all the King's allies
+hang here.
+~
+85 8 0
+Z3
+C-1
+R0
+S
+#8584
+The Conference Chamber~
+  You are at the East end of the conference chamber.  There are no round
+tables here.  make no doobt about it, here, the King is in charge.  Oak
+paneling covers the walls, and the banners of all the King's allies
+hang here.
+~
+85 8 0
+Z3
+C-1
+R0
+S
+#8585
+The Ballroom~
+  This is the formal ballroom of Garamond Keep.  On the nights of celebration
+all the wealthiest people from around the land gater here to eat, drink,
+dance, and be merry.
+~
+85 8 0
+Z3
+C-1
+R0
+S
+#8586
+The Trophy Room~
+  This is the room where the King keeps the trophies from his hunts.  A stuffed
+bear is in one corner, and opposit it hangs the head of a great red dragon.
+The King is most certainly one of the best huntsman around.
+~
+85 8 0
+Z3
+C-1
+R0
+S
+#8587
+Secret Stairs~
+  The is a set of secret stairs used only by the King.
+~
+85 8 0
+Z3
+C-1
+R0
+S
+#8588
+Top of the Stairs~
+  You have walked along a small passage way and come to the top of a flight 
+of stairs.  A big sign has been placed here.
+~
+85 12 0
+E
+sign~
+======================================
+||    COMING SOON TO THIS AREA      ||
+||                                  ||
+||       GARAMOND'S DUNGEON         ||
+||                                  ||
+||             STARING              ||
+||                                  ||
+||  DRAGONS, GHOSTS, GOBLINS, AND   ||
+||      OTHER FREAKS OF NATURE      ||
+======================================
+~
+Z3
+C-1
+R0
+S
+#8589
+At the Bottom of the Stairs~
+  You stand at the bottom of a great flight of stone stairs leading up
+to the next level of the keep.
+~
+85 8 0
+Z3
+C-1
+R0
+S
+#8590
+Treasure Chamber~
+  Lucky you.  You have found the treasure chamber of Garmond Keep.  Are
+you going to share the wealth or keep it all for yourself.  That is
+of course assuming that you get out of here alive.
+~
+85 9 0
+Z3
+C-1
+R0
+S
+#8591
+At the Top of the Stairs~
+  You are at the top of a flight of stone stairs.  You can go down to
+the lower level of the keep, or follow a halway that leads East.
+~
+85 8 0
+Z3
+C-1
+R0
+S
+#8592
+A Hallway in the Keep~
+  You are in a hallway of the keep.  Doors lie North and South, a set of
+stairs is West, and the hallway continues East.
+~
+85 8 0
+Z3
+C-1
+R0
+S
+#8593
+A Hallway in the Keep~
+  You are in a hallway in the keep.  North of here is the King's master
+chamber, and a guest room lies South.  The hallway continues West.
+~
+85 8 0
+Z3
+C-1
+R0
+S
+#8594
+Servant's Quarters~
+  This is the quarters for the King's personal servant.  There is a small
+bed here and a nightstand.  The room is neatly kept and very cosy.
+~
+85 8 0
+E
+nightstand~
+There is a drawer in the nightstand.
+~
+Z3
+C-1
+R0
+S
+#8595
+Storeroom~
+  This is a small storeroom where various common objects are stored.
+~
+85 9 0
+Z3
+C-1
+R0
+S
+#8596
+The Master Chamber~
+  This is the King's sleeping chamber.  He spends little time here, prefering
+to be in his throne room or out among his people.  Off to the East of here
+is a small room, and a door leads South.
+~
+85 24584 0
+Z3
+C0
+R0
+S
+#8597
+Guest Quarters~
+  This is the elegantly furnished guest quarters of Garamond keep.  A large
+bed and it looks very comfortable.  Plants hang from the ceiling and a
+fresh breeze blows in from a window to the South.
+~
+85 8 0
+Z3
+C-1
+R0
+S
+#8598
+The King's Library~
+  You have found the King's private library.  Volume upon volume sits on
+the shelves here.  Some are very old looking, and some seem to be new.
+Perhaps this is where the power of Garamond comes from!
+~
+85 8200 0
+E
+books~
+The books are all sitting on large shelves.
+~
+Z3
+C0
+R0
+S
+#8599
+Secret Passage~
+~
+85 24584 1
+Z3
+C-1
+R0
+S
+$~

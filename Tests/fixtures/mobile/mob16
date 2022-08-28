@@ -1,0 +1,376 @@
+#1600
+Skeleton~
+{BO,WH}A Skeleton{bo}~
+{WH}A pile of bones begins to move.{wh}
+~
+{BO,WH}A Skeleton, a pile of bones, devoid of any flesh rises up from the
+ground and attacks !!!
+~
+679485537 1107559336 -500 C 41
+40 -40 -6 20d20+2000 10d14+25
+0 1000
+8 8 1
+R 2097152
+D 20
+A 12
+#1601
+Ghoul~
+{CY}A Ghoul{bo}~
+{CY}You disturb someone feeding on a corpse.{cy}
+~
+{CY}This creature looks almost human. In fact if not for its sharp teeth and
+the {RE}blood dripping from its mouth, {CY}you would swear it was. Under normal
+conditions it might not attack, but you disturbed it while it was feeding !{cy}
+~
+427827297 1107559336 -500 S
+40 -40 -6 20d20+2000 10d10+25
+0 1000
+8 8 1
+R 2097152
+D 20
+A 12
+#1602
+Great Imp~
+{BO,RE}The Great Imp{bo}~
+{BO,RE}The Harvester of Evil Souls demands your soul.{bo}
+~
+{BO,RE}A demon of great size stands before you.  He is the harvester of souls.
+~
+1270923879 1342448552 -1000 C 1
+56 -580 -10 10d10+31000 50d10+100
+100000 2000000
+8 8 1
+S 79692160
+R 8388608
+D 20
+A 12
+#1603
+Beetlejuice spirit~
+{BO,CY}Beetlejuice{bo}~
+{REV,BO,WH} Striped {BLA} suit {WH} and {BLA} all, {WH} this {BLA} evil {WH} spirit {BLA} means {WH} business. {bo}
+~
+{BO,CY}No matter how many times you say the B word he just won't leave.
+Then you remember you're on his turf now, and he didn't invite you !{bo}
+~
+1270923879 1342448552 0 C 41
+53 -480 -10 10d10+31000 40d10+80
+100000 2000000
+8 8 1
+S 71434496
+R 8388608
+D 20
+A 12
+#1604
+Gabriel~
+{BO,WH}Gabriel{bo}~
+{BO,WH}Winged and beautiful, this being radiates goodness.{bo}
+~
+{BO,WH}This looks as close to an angel as you can get. All dressed in white 
+with silk wings on his back. He almost looks to nice to attack, then
+again you don't belong here.{bo}
+~
+1270927463 1342448552 1000 C 41
+58 -580 -9 10d10+31000 45d10+100
+100000 2000000
+8 8 1
+S 71434240
+R 8388608
+D 20
+A 12
+#1605
+Angel Guard~
+{WH}Angel Guard{bo}~
+{WH}An angel guards the gate from those who are not welcome.{bo}
+~
+{WH}This angel looks like it could have been an enforcer in its past life.
+If you're lucky it might have lost some of its strength when it died.{wh}
+~
+721420295 1074037672 500 C 42
+52 -280 -6 10d10+20000 20d20+95
+50000 200000
+8 8 2
+S 71434496
+D 20
+A 12
+#1606
+Demon Guard~
+{RE}Demon Guard{re}~
+{RE}A demonic figure is guarding his gate from all intruders.{re}
+~
+{RE}Horned and winged, this demon looks to be someone of great strength and
+ferociousness.  I wouldn't mess around with him.{re}
+~
+729808935 1074037672 -500 C 41
+50 -280 -6 10d10+20000 15d15+50
+50000 200000
+8 8 2
+S 384
+D 20
+A 12
+#1607
+Party Guard~
+{CY}Party Guard{cy}~
+{CY}A large figure blocks your entrance to the party.{cy}
+~
+{CY}This guy does not look happy, it could be the fact that he pulled guard
+duty while the rest are inside having fun, or it could just be your
+looks.{cy}
+~
+696254503 1342473128 1000 C 41
+50 -280 -6 10d10+20000 20d20+39
+50000 200000
+8 8 2
+D 20
+A 12
+#1608
+Evil Sorter~
+{BO,BLA}Evil Sorter{cy}~
+{BO,BLA}An evil sorter stands here watching his line.
+~
+{BO,BLA}You watch as this creature walks up and down the line picking only
+the ones it wants to pass through its door.{bo}
+~
+713605223 1344537256 -1000 C 42
+50 -280 -10 10d10+25000 20d20+60
+0 1000
+8 8 0
+S 131456
+D 20
+A 12
+#1609
+Good sorter~
+{BO,WH}Good Sorter{bo}~
+{BO,WH}A good sorter stands here watching his line.
+~
+{BO,WH}You watch as this creature walks up and down the line picking only
+the ones it wants to pass through its door.{bo}
+~
+1249951847 1344537512 1000 C 42
+50 -280 -6 10d10+25000 20d20+60
+0 1000
+8 8 0
+S 131456
+D 20
+A 12
+#1610
+sorter~
+{BO,CY}Unknown Sorter{bo}~
+{BO,CY}A strange man is here asking for invitations.{bo}
+~
+{BO,CY}This creature turns as you walk in, it seems very surprised to see
+you, or at least to see you so soon.{cy}
+~
+729858151 1344537256 0 C 42
+51 -280 -6 10d10+25000 25d25+50
+0 1000
+8 8 0
+S 131072
+D 20
+A 12
+#1611
+Angry Spirit~
+{WH}Angry Spirit{bo}~
+{WH}An angry spirit rises from the coffin and attacks!{wh}
+~
+{WH}Looking almost like a shadow you can barely make out that this form was
+at one time a knight. Being trapped here for so long has just seemed
+to piss him off. And here you thought he would be happy that you set him 
+free.{wh}
+~
+1216397415 1076101800 -500 C 4
+50 -40 -10 10d10+10000 25d20+40
+0 1000
+8 8 0
+D 20
+A 12
+#1612
+spirit evil~
+{WH}Spirit{bo}~
+{WH}A wandering spirit tries to find its way.{wh}
+~
+{WH}A form that you can barely see, looking like nothing you can ever 
+recall seeing before.{WH}
+~
+427827298 1108607912 -500 S
+45 -40 -6 2500d1+1 15d10+25
+50000 1000
+8 8 1
+S 63
+D 20
+A 12
+#1613
+good spirit~
+{WH}Spirit{bo}~
+{WH}A wandering spirit tries to find its way.{wh}
+~
+{WH}A form that you can barely see, looking like nothing you can ever 
+recall seeing before.{WH}
+~
+427827296 1107559336 500 S
+40 -40 -6 10d10+1000 15d10+25
+0 1000
+8 8 1
+S 63
+D 20
+A 12
+#1614
+Neutral spirit~
+{WH}Spirit{bo}~
+{WH}A wandering spirit tries to find its way.{wh}
+~
+{WH}A form that you can barely see, looking like nothing you can ever 
+recall seeing before.{WH}
+~
+696262752 1108607912 0 S
+40 -40 -6 2500d1+1 10d10+15
+0 1000
+8 8 1
+S 63
+D 20
+A 12
+#1615
+Party Spirit~
+{BO,CY}Spirit{bo}~
+{BO,CY}A Spirit in a party hat turns to attack.{cy}
+~
+{BO,CY}Ready for a party and encountering you instead has pissed these 
+normally happy spirits off.  Prepare for battle!!{bo}
+~
+696303718 1076102056 0 S
+51 -40 -6 10d10+2500 30d10+10
+0 1000
+8 8 0
+S 63
+D 20
+A 12
+#1616
+Corpse well~
+{WH}Corpse{wh}~
+{WH}A corpse waits its turn in line for redemption.{wh}
+~
+{WH}Ready for redemption, these corpses are prepared to lose their remaining
+mortality to go on to a better place. And they are more than happy to help you
+along too!{wh}
+~
+411091047 1076102056 500 C 4
+50 -45 -6 10d10+2500 20d20+20
+0 1000
+8 8 0
+S 131328
+D 20
+A 12
+#1617
+Dark Creature~
+{BO,BLA}Dark Creature{bo}~
+{BO,BLA}A dark creature is torturing a ravaged woman in a strange device.{bo}
+~
+{BO,BLA}Torturous and barbaric, this creatures loves to inflict pain upon 
+others. It seems that you are his next victim!{bo}
+~
+1233174631 1076101800 -500 C 4
+50 -100 -6 5000d1+1 20d20+20
+0 1000
+8 8 0
+S 448
+D 20
+A 12
+#1618
+Lost Soul~
+{WH}A lost soul{wh}~
+{WH}A lost soul has been trapped here.{wh}
+~
+{WH}Forever doomed to wander in limbo, this soul has strayed from the path to
+the sorters.  Why don't you help him along?!{wh}
+~
+411083875 1077150378 0 C 42
+50 -40 -6 10d10+10000 10d10+10
+0 1000
+8 8 0
+D 20
+A 12
+#1619
+tortured woman~
+{YE}A tortured woman{ye}~
+{YE}A woman encased in a cylinder is being tortured here.{ye}
+~
+{YE}A woman who must have looked real nice in her time looks as if
+she was put in a oven for a few hours with the flames on high. 
+~
+698400839 1076101800 -500 S
+50 -40 -6 10000d1+1 20d10+20
+0 1000
+8 8 2
+S 1048576
+D 20
+A 12
+#1620
+Soul Guard~
+{MAG}Soul Guard{mag}~
+{MAG}A soul guard stands here guarding the gate.{mag}
+~
+{MAG}Powerful looking guards have been recruited to guard the gate to the
+sorting chamber.  They only allows souls through and they wish to help you
+to achieve that state of being.{mag}
+~
+679526503 1344537256 0 C 42
+54 -280 -6 10d10+20000 20d10+75
+0 1000
+8 8 0
+S 384
+D 20
+A 12
+#1621
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 131072 0 S
+30 -40 -6 0d0+200 1d2+0
+0 1000
+4 8 0
+D 20
+A 12
+#1622
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 -40 -6 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#1623
+Cave Guard~
+The Cave Gaurd~
+A large creature with alot oh hair stands guard here.
+~
+It looks like nobody!
+~
+66 1074004520 0 S
+58 -40 -6 1d1+10 1d2+0
+0 1
+8 8 0
+S 6144
+D 20
+A 12
+#1624
+Lag Monster~
+The Lag Monster~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+30 -40 -6 1d1+10 1d2+0
+0 1000
+8 8 0
+S 262144
+D 20
+A 12
+$~

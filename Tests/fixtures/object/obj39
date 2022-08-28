@@ -1,0 +1,86 @@
+#3900
+knights knight helmet helm~
+{CY}{BOL}a kni{W}ght's he{CY}lmet{cy}{bold}~
+A sturdy metal helmet rests on the ground here.~
+~
+9 1026 0 17
+8 0 0 0
+3 3500 2000
+E
+knights knight helmet helm~
+
+
+{CY}  This simple metal helmet has been worn by the Knights of the Order for 
+  many years.  Its fine craftsmanship allows it to be an effective 
+  form of protection for your head.{cy}
+
+
+~
+A
+19 2
+A
+18 2
+B
+67108864
+C
+7000 2
+#3901
+enchanted leather bracer~
+{R}an enchanted {Y}leather{R} bracer{r}~
+The evil roff is sending out a deadly mood.~
+~
+9 513 0 4097
+8 0 0 0
+1 3500 2000
+E
+roff evil~
+
+
+  {Y}This is a leather bracer that straps tightly around your wrist.  It 
+  seems to be rugged and worn but it still proves as effective protection 
+  from harm.{y}
+
+
+~
+E
+enchanted leather bracer~
+
+
+{Y}  This worn leather bracer straps tightly around your wrist providing
+  an effective means of protection.{y}
+
+
+~
+A
+1 2
+A
+13 25
+C
+7000 1
+#3902
+board bulletin~
+The Quest Bulletin Board~
+The large Quest Bulletin Board is standing here.~
+~
+13 0 0 0
+0 0 0 0
+0 0 0
+E
+board~
+USE "Look AT board" to see a listing of messages.
+USE "Read <message number>" to read a message and
+    "Remove <message number>" to remove a message.
+
+With <write to: Name> you can write personal messages
+that can only be written/deleted by the receiver or
+the sender.
+~
+#3903
+aura~
+A Personal Bullshit-filter Aura~
+a Badass aura~
+~
+1 0 0 1
+-1 -1 -1 1
+1 1 1
+$~

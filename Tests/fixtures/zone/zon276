@@ -1,0 +1,414 @@
+#276
+{BO}{B}Star Wars Part One{bo}{b}(Heathen)~
+27699 1500 2
+*
+X 11970
+O 0 27601     1 27600    the display
+M 0 27600    24 27603    Jawa
+M 0 27600    24 27603    Jawa
+D 0 27603     0     1    (N:CLOSED) {bo,Y}Before the Sandcrawler{bo,y}
+M 0 27600    24 27604    Jawa
+M 0 27600    24 27604    Jawa
+M 0 27600    24 27604    Jawa
+D 0 27604     0     2    (N:LOCKED) {bo,Y}Inside the Sandcrawler{y}
+M 0 27600    24 27605    Jawa
+M 0 27600    24 27605    Jawa
+M 0 27600    24 27605    Jawa
+M 0 27600    24 27606    Jawa
+M 0 27600    24 27606    Jawa
+M 0 27600    24 27606    Jawa
+M 0 27600    24 27606    Jawa
+M 0 27600    24 27607    Jawa
+M 0 27600    24 27607    Jawa
+M 0 27600    24 27607    Jawa
+M 0 27600    24 27607    Jawa
+M 0 27600    24 27607    Jawa
+D 0 27607     0     1    (N:CLOSED) {bo,Y}Inside the Sandcrawler{y}
+M 0 27600    24 27608    Jawa
+M 0 27600    24 27608    Jawa
+M 0 27600    24 27608    Jawa
+M 0 27600    24 27608    Jawa
+M 0 27600    24 27609    Jawa
+M 0 27600    24 27609    Jawa
+M 0 27600    24 27609    Jawa
+M 0 27602     1 27610    R2D2
+E 1 27600     1    17    (HELD) A Shiney key
+M 0 27601     1 27610    C3P0
+D 0 27610     2     1    (S:CLOSED) {BLACK}{BO}Storage Room{black}{bo}
+M 0 27603     4 27612    A Tuskan Raider
+M 0 27603     4 27612    A Tuskan Raider
+M 0 27603     4 27612    A Tuskan Raider
+M 0 27603     4 27612    A Tuskan Raider
+D 0 27612     1     1    (E:CLOSED) {bo,W}Rocky Hills{w}
+M 0 27604     1 27613    Obi Wan Kenobi
+E 1 27638     1    22    (RUNEMARK) {BO,BLU}The P{C}ower o{bo,C}f the Fo{W}rce{w}
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+D 0 27613     0     1    (N:CLOSED) {bo,W}Obi{BO,W}-{BO,BLUE}Wan's Cave{bo,blue}
+D 0 27613     3     1    (W:CLOSED) {bo,W}Obi{BO,W}-{BO,BLUE}Wan's Cave{bo,blue}
+M 0 27607    28 27615    Stormtrooper
+E 1 27624    30    17    (HELD) {BO}{B}Imperial Blaster{bo}{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+M 0 27607    28 27615    Stormtrooper
+E 1 27624    30    17    (HELD) {BO}{B}Imperial Blaster{bo}{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+D 0 27615     3     1    (W:CLOSED) {bo,W} Mos Eisley{w}
+M 0 27605    25 27616    Intergalatic Smuggler
+G 1 27603    24     0    Space Swill
+M 0 27605    25 27616    Intergalatic Smuggler
+G 1 27603    24     0    Space Swill
+M 0 27605    25 27616    Intergalatic Smuggler
+G 1 27603    24     0    Space Swill
+M 0 27605    25 27616    Intergalatic Smuggler
+E 1 27604     1    17    (HELD) A Smelly Key
+G 1 27603    24     0    Space Swill
+M 0 27605    25 27616    Intergalatic Smuggler
+G 1 27603    24     0    Space Swill
+D 0 27616     1     1    (E:CLOSED) {BO,R}Cantina{r}
+M 0 27605    25 27617    Intergalatic Smuggler
+G 1 27603    24     0    Space Swill
+M 0 27605    25 27617    Intergalatic Smuggler
+G 1 27603    24     0    Space Swill
+M 0 27605    25 27617    Intergalatic Smuggler
+G 1 27603    24     0    Space Swill
+M 0 27605    25 27617    Intergalatic Smuggler
+M 0 27605    25 27618    Intergalatic Smuggler
+G 1 27603    24     0    Space Swill
+M 0 27605    25 27618    Intergalatic Smuggler
+G 1 27603    24     0    Space Swill
+M 0 27605    25 27618    Intergalatic Smuggler
+G 1 27603    24     0    Space Swill
+M 0 27605    25 27618    Intergalatic Smuggler
+G 1 27603    24     0    Space Swill
+M 0 27605    25 27619    Intergalatic Smuggler
+G 1 27603    24     0    Space Swill
+M 0 27605    25 27619    Intergalatic Smuggler
+G 1 27603    24     0    Space Swill
+M 0 27605    25 27619    Intergalatic Smuggler
+G 1 27603    24     0    Space Swill
+M 0 27605    25 27619    Intergalatic Smuggler
+G 1 27603    24     0    Space Swill
+M 0 27605    25 27620    Intergalatic Smuggler
+G 1 27603    24     0    Space Swill
+M 0 27605    25 27620    Intergalatic Smuggler
+G 1 27603    24     0    Space Swill
+M 0 27605    25 27620    Intergalatic Smuggler
+G 1 27603    24     0    Space Swill
+M 0 27605    25 27621    Intergalatic Smuggler
+G 1 27603    24     0    Space Swill
+M 0 27605    25 27621    Intergalatic Smuggler
+G 1 27603    24     0    Space Swill
+M 0 27605    25 27621    Intergalatic Smuggler
+G 1 27603    24     0    Space Swill
+M 0 27605    25 27621    Intergalatic Smuggler
+G 1 27603    24     0    Space Swill
+M 0 27605    25 27621    Intergalatic Smuggler
+G 1 27603    24     0    Space Swill
+D 0 27621     3     2    (W:LOCKED) {BO,R}Cantina{r}
+D 0 27622     2     0    (S:OPEN) {bo,BLUE}Hangar Bay{blue}
+D 0 27623     0     2    (N:LOCKED) {bo,W}Millennium Falcon{BO,W} - {BO,BLUE}Main{bo,blue}
+M 0 27606     1 27624    Chewbacca
+E 1 27605     2    13    (WAIST) {B}W{BO}{B}ookie Be{bo}{B}lt{b}
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+M 0 27607    28 27626    Stormtrooper
+E 1 27624    30    17    (HELD) {BO}{B}Imperial Blaster{bo}{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+M 0 27607    28 27626    Stormtrooper
+E 1 27624    30    17    (HELD) {BO}{B}Imperial Blaster{bo}{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+M 0 27607    28 27626    Stormtrooper
+E 1 27624    30    17    (HELD) {BO}{B}Imperial Blaster{bo}{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+M 0 27607    28 27626    Stormtrooper
+E 1 27624    30    17    (HELD) {BO}{B}Imperial Blaster{bo}{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+M 0 27607    28 27627    Stormtrooper
+E 1 27624    30    17    (HELD) {BO}{B}Imperial Blaster{bo}{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+M 0 27607    28 27627    Stormtrooper
+E 1 27624    30    17    (HELD) {BO}{B}Imperial Blaster{bo}{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+M 0 27607    28 27628    Stormtrooper
+E 1 27624    30    17    (HELD) {BO}{B}Imperial Blaster{bo}{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+M 0 27607    28 27628    Stormtrooper
+E 1 27624    30    17    (HELD) {BO}{B}Imperial Blaster{bo}{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+D 0 27628     3     2    (W:LOCKED) {BO,BLACK}Death Star{W} - {bo,RED}Hallway{r}
+M 0 27607    28 27632    Stormtrooper
+E 1 27624    30    17    (HELD) {BO}{B}Imperial Blaster{bo}{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+M 0 27607    28 27632    Stormtrooper
+E 1 27624    30    17    (HELD) {BO}{B}Imperial Blaster{bo}{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+D 0 27632     0     2    (N:LOCKED) {BO,BLACK}Death Star{W} - {bo,RED}Hallway{red}
+D 0 27632     1     1    (E:CLOSED) {BO,BLACK}Death Star{W} - {bo,RED}Hallway{red}
+M 0 27608     1 27633    Princess Leia
+E 1 27606     2     5    (BODY) {W}Flowing Silk Dress{w}
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+D 0 27633     2     2    (S:LOCKED) {BO,W}Leia's {bo,W}Cell{w}
+M 0 27609     1 27634    Garbage Monster
+D 0 27634     1     1    (E:CLOSED) {bo,W}Trash Compactor{w}
+D 0 27634     3     1    (W:CLOSED) {bo,W}Trash Compactor{w}
+M 0 27607    28 27635    Stormtrooper
+E 1 27624    30    17    (HELD) {BO}{B}Imperial Blaster{bo}{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+M 0 27607    28 27635    Stormtrooper
+E 1 27624    30    17    (HELD) {BO}{B}Imperial Blaster{bo}{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+M 0 27607    28 27635    Stormtrooper
+E 1 27624    30    17    (HELD) {BO}{B}Imperial Blaster{bo}{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+M 0 27607    28 27636    Stormtrooper
+E 1 27624    30    17    (HELD) {BO}{B}Imperial Blaster{bo}{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+M 0 27607    28 27636    Stormtrooper
+E 1 27624    30    17    (HELD) {BO}{B}Imperial Blaster{bo}{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+M 0 27607    28 27637    Stormtrooper
+E 1 27624    30    17    (HELD) {BO}{B}Imperial Blaster{bo}{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+M 0 27607    28 27637    Stormtrooper
+E 1 27624    30    17    (HELD) {BO}{B}Imperial Blaster{bo}{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+M 0 27607    28 27637    Stormtrooper
+E 1 27624    30    17    (HELD) {BO}{B}Imperial Blaster{bo}{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+M 0 27607    28 27637    Stormtrooper
+E 1 27624    30    17    (HELD) {BO}{B}Imperial Blaster{bo}{b}
+G 1 27624    30     0    {BO}{B}Imperial Blaster{bo}{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+M 0 27607    28 27637    Stormtrooper
+E 1 27624    30    17    (HELD) {BO}{B}Imperial Blaster{bo}{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+O 0 27607     1 27638    the doorway
+M 0 27610     7 27642    Tauntaun
+M 0 27610     7 27643    Tauntaun
+M 0 27610     7 27645    Tauntaun
+M 0 27610     7 27645    Tauntaun
+M 0 27610     7 27649    Tauntaun
+M 0 27610     7 27649    Tauntaun
+M 0 27610     7 27649    Tauntaun
+M 0 27611     1 27653    Wampa
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+D 0 27653     3     1    (W:CLOSED) {BO,W}Ho{BLACK}th - Cav{W}es{bo,w}
+M 0 27612     1 27655    Imperial Probe
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+M 0 27615    10 27657    Imperial Snowtrooper
+M 0 27615    10 27657    Imperial Snowtrooper
+M 0 27615    10 27657    Imperial Snowtrooper
+M 0 27614     8 27657    Rebel Snowtrooper
+G 1 27614    64     0    Frozen Rations
+G 1 27614    64     0    Frozen Rations
+M 0 27614     8 27657    Rebel Snowtrooper
+G 1 27614    64     0    Frozen Rations
+G 1 27614    64     0    Frozen Rations
+O 0 27610    23 27657    {W}A {BLU}Rebel {W}Corpse{w}
+P 1 27614    64 27610    Frozen Rations
+P 1 27614    64 27610    Frozen Rations
+O 0 27610    23 27657    {W}A {BLU}Rebel {W}Corpse{w}
+P 1 27614    64 27610    Frozen Rations
+P 1 27614    64 27610    Frozen Rations
+O 0 27610    23 27657    {W}A {BLU}Rebel {W}Corpse{w}
+P 1 27614    64 27610    Frozen Rations
+P 1 27614    64 27610    Frozen Rations
+M 0 27615    10 27658    Imperial Snowtrooper
+M 0 27615    10 27658    Imperial Snowtrooper
+M 0 27614     8 27658    Rebel Snowtrooper
+G 1 27614    64     0    Frozen Rations
+G 1 27614    64     0    Frozen Rations
+M 0 27614     8 27658    Rebel Snowtrooper
+G 1 27614    64     0    Frozen Rations
+G 1 27614    64     0    Frozen Rations
+O 0 27610    23 27658    {W}A {BLU}Rebel {W}Corpse{w}
+P 1 27614    64 27610    Frozen Rations
+P 1 27614    64 27610    Frozen Rations
+O 0 27610    23 27658    {W}A {BLU}Rebel {W}Corpse{w}
+P 1 27614    64 27610    Frozen Rations
+P 1 27614    64 27610    Frozen Rations
+O 0 27610    23 27658    {W}A {BLU}Rebel {W}Corpse{w}
+P 1 27614    64 27610    Frozen Rations
+P 1 27614    64 27610    Frozen Rations
+O 0 27610    23 27658    {W}A {BLU}Rebel {W}Corpse{w}
+P 1 27614    64 27610    Frozen Rations
+P 1 27614    64 27610    Frozen Rations
+M 0 27615    10 27659    Imperial Snowtrooper
+M 0 27614     8 27659    Rebel Snowtrooper
+G 1 27614    64     0    Frozen Rations
+G 1 27614    64     0    Frozen Rations
+M 0 27614     8 27659    Rebel Snowtrooper
+G 1 27614    64     0    Frozen Rations
+G 1 27614    64     0    Frozen Rations
+M 0 27614     8 27659    Rebel Snowtrooper
+G 1 27614    64     0    Frozen Rations
+G 1 27614    64     0    Frozen Rations
+O 0 27610    23 27659    {W}A {BLU}Rebel {W}Corpse{w}
+P 1 27614    64 27610    Frozen Rations
+P 1 27614    64 27610    Frozen Rations
+O 0 27610    23 27659    {W}A {BLU}Rebel {W}Corpse{w}
+P 1 27614    64 27610    Frozen Rations
+P 1 27614    64 27610    Frozen Rations
+O 0 27610    23 27659    {W}A {BLU}Rebel {W}Corpse{w}
+P 1 27614    64 27610    Frozen Rations
+P 1 27614    64 27610    Frozen Rations
+O 0 27610    23 27659    {W}A {BLU}Rebel {W}Corpse{w}
+P 1 27614    64 27610    Frozen Rations
+P 1 27614    64 27610    Frozen Rations
+O 0 27610    23 27659    {W}A {BLU}Rebel {W}Corpse{w}
+P 1 27614    64 27610    Frozen Rations
+P 1 27614    64 27610    Frozen Rations
+M 0 27615    10 27660    Imperial Snowtrooper
+M 0 27615    10 27660    Imperial Snowtrooper
+M 0 27614     8 27660    Rebel Snowtrooper
+G 1 27614    64     0    Frozen Rations
+G 1 27614    64     0    Frozen Rations
+O 0 27610    23 27660    {W}A {BLU}Rebel {W}Corpse{w}
+P 1 27614    64 27610    Frozen Rations
+P 1 27614    64 27610    Frozen Rations
+O 0 27610    23 27660    {W}A {BLU}Rebel {W}Corpse{w}
+P 1 27614    64 27610    Frozen Rations
+P 1 27614    64 27610    Frozen Rations
+O 0 27610    23 27660    {W}A {BLU}Rebel {W}Corpse{w}
+P 1 27614    64 27610    Frozen Rations
+P 1 27614    64 27610    Frozen Rations
+P 1 27612     1 27610    Rebel Keycard
+O 0 27610    23 27660    {W}A {BLU}Rebel {W}Corpse{w}
+P 1 27614    64 27610    Frozen Rations
+P 1 27614    64 27610    Frozen Rations
+M 0 27615    10 27661    Imperial Snowtrooper
+M 0 27615    10 27661    Imperial Snowtrooper
+O 0 27610    23 27661    {W}A {BLU}Rebel {W}Corpse{w}
+P 1 27614    64 27610    Frozen Rations
+P 1 27614    64 27610    Frozen Rations
+O 0 27610    23 27661    {W}A {BLU}Rebel {W}Corpse{w}
+P 1 27614    64 27610    Frozen Rations
+P 1 27614    64 27610    Frozen Rations
+O 0 27610    23 27661    {W}A {BLU}Rebel {W}Corpse{w}
+P 1 27614    64 27610    Frozen Rations
+P 1 27614    64 27610    Frozen Rations
+O 0 27610    23 27661    {W}A {BLU}Rebel {W}Corpse{w}
+P 1 27614    64 27610    Frozen Rations
+P 1 27614    64 27610    Frozen Rations
+O 0 27610    23 27662    {W}A {BLU}Rebel {W}Corpse{w}
+P 1 27614    64 27610    Frozen Rations
+P 1 27614    64 27610    Frozen Rations
+O 0 27610    23 27662    {W}A {BLU}Rebel {W}Corpse{w}
+P 1 27614    64 27610    Frozen Rations
+P 1 27614    64 27610    Frozen Rations
+O 0 27610    23 27662    {W}A {BLU}Rebel {W}Corpse{w}
+P 1 27614    64 27610    Frozen Rations
+P 1 27614    64 27610    Frozen Rations
+O 0 27611     1 27663    {W}A {BLU}Rebel {W}Corpse{w}
+P 1 27614    64 27611    Frozen Rations
+P 1 27614    64 27611    Frozen Rations
+D 0 27663     1     2    (E:LOCKED) {BO,W}Hoth {BLACK}- {Y}Under Seige{bo,y}
+O 0 27613     1 27669    doorway
+M 0 27616     1 27672    Swamp Monster
+D 0 27673     1     1    (E:CLOSED) {bo,G}Dagobah{g}
+M 0 27617     1 27674    Yoda
+E 1 27616     2     3    (NECK) {BO}{Y}Python {bo}{G}Necklace{g}
+E 1 27615     1    17    (HELD) Yoda's Staff
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+D 0 27674     3     1    (W:CLOSED) {bo,G}Yoda's Cave{g}
+M 0 27618     1 27676    Image of Your Fears
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+O 0 27617     1 27676    the tree
+D 0 27677     2     1    (S:CLOSED) {BO,C}A Small Room{bo,c}
+D 0 27678     0     1    (N:CLOSED) {BO,W}Clo{C}ud City - Hall{W}way{bo,w}
+D 0 27679     0     1    (N:CLOSED) {BO,W}Clo{C}ud City - Hall{W}way{bo,w}
+D 0 27680     1     2    (E:LOCKED) {BO,C}Cloud City {BLUE}- {W}Hangar Bay{w}
+D 0 27682     0     2    (N:LOCKED) {BO,C}Cloud City{BLUE} - {W}Meeting Chamber{w}
+D 0 27682     1     1    (E:CLOSED) {BO,C}Cloud City{BLUE} - {W}Meeting Chamber{w}
+D 0 27682     2     1    (S:CLOSED) {BO,C}Cloud City{BLUE} - {W}Meeting Chamber{w}
+D 0 27683     0     1    (N:CLOSED) {BO,C}Cloud City{BLUE} - {W}Hallway{w}
+D 0 27683     2     1    (S:CLOSED) {BO,C}Cloud City{BLUE} - {W}Hallway{w}
+D 0 27683     3     1    (W:CLOSED) {BO,C}Cloud City{BLUE} - {W}Hallway{w}
+D 0 27684     0     1    (N:CLOSED) {BO,C}Cloud City{BLUE} - {W}Archives{w}
+D 0 27685     0     2    (N:LOCKED) {BO,C}Cloud City {BLUE}- {W}Small Hallway{w}
+D 0 27685     2     1    (S:CLOSED) {BO,C}Cloud City {BLUE}- {W}Small Hallway{w}
+M 0 27619     1 27686    Lando Calrissian
+E 1 27637     1    25    (BADGE) {W}The Master Control{w}
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+O 0 27619     1 27686    Strongbox
+P 1 27618     1 27619    Metal Key
+D 0 27686     2     0    (S:OPEN) {BO,C}Lando's Room{c}
+D 0 27687     2     1    (S:CLOSED) {BO,C}Cloud City {BLUE}- {W}Guest Apartments{w}
+M 0 27607    28 27691    Stormtrooper
+E 1 27624    30    17    (HELD) {BO}{B}Imperial Blaster{bo}{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+M 0 27607    28 27691    Stormtrooper
+E 1 27624    30    17    (HELD) {BO}{B}Imperial Blaster{bo}{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+M 0 27607    28 27691    Stormtrooper
+E 1 27624    30    17    (HELD) {BO}{B}Imperial Blaster{bo}{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+D 0 27691     0     2    (N:LOCKED) {BO,W}Clo{C}ud City - Hall{W}way{bo,w}
+M 0 27607    28 27692    Stormtrooper
+E 1 27624    30    17    (HELD) {BO}{B}Imperial Blaster{bo}{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+M 0 27607    28 27692    Stormtrooper
+G 1 27624    30     0    {BO}{B}Imperial Blaster{bo}{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+M 0 27607    28 27692    Stormtrooper
+G 1 27624    30     0    {BO}{B}Imperial Blaster{bo}{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+G 1 27622    61     0    {B}A Spare Energy Cell{b}
+D 0 27692     2     0    (S:OPEN) {BO,BLACK}Carbon Freezing Chamber{bo,black}
+O 0 27633     1 27695    the doorway
+M 0 27613     1 27697    AT-AT
+E 1 27609     1     0    (LIGHT) {W}High-Powered Spotlight{w}
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+G 1 27608    59     0    {CY}Liq{BOLD}ui{W}d Force{w}
+D 0 27698     5     1    (D:CLOSED) Rahvin's Loft
+O 0  5502     2 27699    a small dusk of poison ivy
+O 0  2081    12 27699    the Wizard's Bulletin Board
+D 0 27699     4     1    (U:CLOSED) The Common Room
+D 0 27699     5     0    (D:OPEN) The Common Room
+$~

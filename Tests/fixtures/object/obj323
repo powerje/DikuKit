@@ -1,0 +1,317 @@
+#32300
+dance b insignia club emblem~
+The Dance {BO,BLU}({BO,WH}<{BO,RE}B{BO,WH}>{BO,BLU}){r} Insignia.~
+You see an emblem that invites you to dance on the floor~
+
+(null)~
+13 131075 0 65537
+0 0 0 0
+1 1 1
+E
+dance b insignia club emblem~
+{W}{BO}
+{W}{BO} You see a picture of a dancer. Upon closer
+{W}{BO} inspection you see that it is the legendary
+{W}{BO} Byron himself, demonstrating his awesome
+{W}{BO} skills on the dance floor
+{w}{bo}
+~
+#32301
+meal~
+{W}a meal of {R}red wine{W}, {Y}bread{W},{M} ham{W}, and {Y}{BO}cheese{y}{bo}~
+{W}A meal of {R}red wine{W}, {Y}bread{W},{M} ham{W}, and {Y}{BO}cheese{y}{bo}~
+
+(null)~
+19 0 0 1
+10 1 1 0
+1 0 1
+E
+meal~
+
+{W} Your mouth waters as you examine the
+ succulent meal setting before you. A
+ glass of fine red wine accompanies
+ a fragrant loaf of homemade bread,
+ a good-size portion of juicy ham, and
+ a large wedge of cheddar cheese. Yum!{w}
+
+~
+#32302
+board news~
+{W}{BO}Club {BLU,BO}({W}<{R}B{W}>{BLU}){blu,bo} {W}{BO}News Board{w}{bo}~
+{W}{BO}The Club {BLU,BO}({W}<{R}B{W}>{BLU}){blu,bo} {W}{BO}News Board hangs here.{w}{bo}~
+
+(null)~
+13 0 0 0
+0 0 0 0
+1 1 1
+#32303
+water stream cooler~
+ice cold water~
+{CYAN}{BOLD}A filtered stream of ice cold water sits here.{g}~
+
+(null)~
+17 0 0 0
+10000 9941 0 0
+1 0 0
+#32304
+fridge refrigerator~
+{W}{BO}the club {BLU,BO}({W}<{R}B{W}>{BLU}){blu,bo} {W}{BO}refrigerator{w}{bo}~
+{W}{BO}The club {BLU,BO}({W}<{R}B{W}>{BLU}){blu,bo} {W}{BO}refrigerator sits here, waiting to be raided by hungry dancers.{w}{bo}~
+
+(null)~
+15 0 0 0
+1500 1493 1500 1500
+180 1 1
+E
+fridge refrigerator~
+
+{W} {W} Satiate your hunger by opening
+  the fridge and grabbing one of
+  the club's delicious meals. It
+  Is very important to keep up
+  your strength!{w}
+
+~
+#32305
+jolt cooler~
+{W}{BO}a {C}cooler{W} overspilling with{bo}{R} Jolt Cola{r}~
+{W}{BO}A {C}cooler{W} overspilling with{bo}{R} Jolt Cola{r}{W}{BO} sits here on the floor.~
+
+~
+17 1 0 0
+10000 9947 22 0
+327 0 0
+E
+jolt cooler~
+
+{W}{BO} Small puddles surround the base of
+{W}{BO} the Coleman cooler. You have a sudden
+{W}{BO} urge to dunk a pint glass into it and
+{W}{BO} drink your fill.
+{w}{bo}
+~
+#32306
+atm~
+
+An ATM~
+
+A large ATM is standing here.   ~
+
+~
+12 2 0 0
+0 0 0 0
+12000 16960 1000
+#32307
+practomat practo~
+
+the practomat~
+
+A practomat is standing here, waiting for customers.~
+
+~
+12 2 0 0
+13 13 13 13
+1000 1 1
+#32308
+statue Nettle~
+{W}{BO}A fine marble statue of {C}{BO}Nettle the Brave{c}{bo}~
+{W}{BO}A fine marble statue of {C}{BO}Nettle the Brave{W}{BO} gleams in the light.{w}{bo}~
+
+(null)~
+13 0 0 0
+0 0 0 0
+10000 1000 1000
+E
+statue Nettle~
+
+{W}{BO} {W}{BO} Nettle is one of the famed leaders of Club {BLUE}{BOLD}({WHITE}{BOLD}<{RED}{BOLD}B{WHITE}{BOLD}>{BLUE}{BOLD}){W}{BO}.
+{W}{BO} {W}{BO} During his tenure as our leader he created the
+{W}{BO} {W}{BO} awe-inspiring zone "Malice in Wonderland," home
+{W}{BO} {W}{BO} of the much-desired Turtle Shell.
+{w}{bo}
+~
+G
+101
+#32309
+statue Byron~
+{W}{BO}a {BLA}statue {W}of {C}Byron{c}{bo}~
+{W}{BO}An {BLA}ebony statue{W}{BO} of {C}Lord Byron{W} stands here.{w}{bo}~
+
+(null)~
+13 0 0 0
+0 0 0 0
+20 20 20
+E
+statue Byron~
+{W}{BO}
+{W}{BO} Byron, the easy-going implementor of Northern
+{W}{BO} Crossroads,joined the COMMITTEE but remained 
+{W}{BO} his nice old self, promoting "Agape," the true
+{W}{BO} and selfless love. Here's to Byron, creator of
+{W}{BO} this, his club, Byron's club, {BLUE}{BOLD}({WHITE}{BOLD}<{RED}{BOLD}B{WHITE}{BOLD}>{BLUE}{BOLD}){RED}{W}{BO} club.
+{w}{bo}
+~
+#32310
+statue Jobu~
+{W}{BO}A {R}red{W} stone Statue of {bo}{C}Jobu{bo}{c}~
+{W}{BO}A {R}red{W} stone Statue of {bo}{C}Jobu{BO}{W}, the quiet one, stands here.{bo}{w}~
+
+(null)~
+13 0 0 0
+0 0 0 0
+12000 16960 1000
+E
+statue Jobu~
+
+{C} Jobu{W}{BO}, the leader of Club {BLUE}{BOLD}({WHITE}{BOLD}<{RED}{BOLD}B{WHITE}{BOLD}>{BLUE}{BOLD}){RED}{BOLD}{W} right after
+{W} Nettle left the game to play the other game,
+{W} the one called "Real Life," raised to the 
+{W} high status among the non-implementors of NC.
+
+~
+#32311
+statue Zorro~
+{Y}a statue of {R}{BO}Zorro{r}{bo}~
+{bo}{Y}A {Y}{BO}gleaming{bo}{Y}, polished wooden bust of {R}{BO}Zorro{bo}{Y}, {BLU}{BO}Bandit of the Dance{bo}{Y}, sits on a pedestal.{y}~
+
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+E
+ statue Zorro~
+
+{Y} {Y}  {Y} Zorro  led {BLUE}{BOLD}({WHITE}{BOLD}<{RED}{BOLD}B{WHITE}{BOLD}>{BLUE}{BOLD}) {bo}{Y} during the time  of its rebirth.
+{Y}    He took over the task of rebuilding {BLUE}{BOLD}({WHITE}{BOLD}<{RED}{BOLD}B{WHITE}{BOLD}>{BLUE}{BOLD}) {bo}{Y} shortly
+{Y}    after his escape from Pescadero Mental Institution, 
+{Y}    where he shared a maximum security cell with other
+{Y}    'creators' of NC. The magnanimous father of Club
+{Y}    {BLUE}{BOLD}({WHITE}{BOLD}<{RED}{BOLD}B{WHITE}{BOLD}>{BLUE}{BOLD}) {bo}{Y}, Lord Byron, took pity on him and let this
+{Y}    unlikely leader try to bring {BLUE}{BOLD}({WHITE}{BOLD}<{RED}{BOLD}B{WHITE}{BOLD}>{BLUE}{BOLD}) {bo}{Y} back to life once
+{Y}    more. The success of these efforts is arguable.
+{Y}
+{Y}    As you gaze upon his statue in awe, your heart
+{Y}    is filled with pride in remembering who he is 
+{Y}    and what he stands for. 
+{Y}{y}
+~
+E
+statue Zorro~
+{Y} {Y} 
+{Y} {Y}   Zorro  led {BLUE}{BOLD}({WHITE}{BOLD}<{RED}{BOLD}B{WHITE}{BOLD}>{BLUE}{BOLD}){bo}{Y} during the time  of its rebirth.
+{Y} {Y}   He is took over the task of rebuilding b shortly
+{Y} {Y}   after his escape from Pescadero Mental Institution, 
+{Y} {Y}   where he shared a maximum security cell with other
+{Y} {Y}   'creators' of NC. The magnanimous father of Club
+{Y} {Y}   {BLUE}{BOLD}({WHITE}{BOLD}<{RED}{BOLD}B{WHITE}{BOLD}>{BLUE}{BOLD}){bo}{Y}, Lord Byron, took pity on him and let this
+{Y} {Y}   unlikely leader try to bring {BLUE}{BOLD}({WHITE}{BOLD}<{RED}{BOLD}B{WHITE}{BOLD}>{BLUE}{BOLD}){bo}{Y} back to life once
+{Y} {Y}   more. The success of these efforts is arguable.
+{Y}
+{Y} {Y}   As you gaze upon his statue in awe, your heart
+{Y} {Y}   is filled with pride in remembering who he is 
+{Y} {Y}   and what he stands for. 
+{y}
+~
+G
+101
+#32312
+board directions maps zones~
+
+The Club (<B>) Maps Board~
+The Club (<B>) Maps Board. Share your walkthoughs with the club here.~
+
+(null)~
+13 0 0 0
+0 0 0 0
+1 1 1
+#32313
+tree christmas xmas club {BLU,BO}({W}<{R}B{W}>{BLU}){blu,bo}~
+{G}The {R,BO}Club{BLU,BO} B {R,BO}C{G}h{R}r{G}i{R}s{G}t{R}m{G}a{R}s {r,bo}{G}Tree{g}~
+{R,BO}A festively{G}-{R}decorated C{G}h{R}r{G}i{R}s{G}t{R}m{G}a{R}s{G} tree{R} stands in a corner of the room.{r,bo}~
+
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+#32314
+statue Arianne marble~
+{W}{BO}A marble statue of {bo}{C}A{W}r{C}i{W}a{C}n{W}n{C}e{c}~
+{W}{BO}A marble statue of{bo} {C}A{W}r{C}i{W}a{C}n{W}n{C}e{W}{BO} is on display here.{w}{bo}~
+
+~
+13 0 0 0
+0 0 0 0
+34464 1 1
+E
+statue Arianne marble~
+{W}{BO}{bo}{C}
+ A{W}r{C}i{W}a{C}n{W}n{C}e{W}{BO} assumed leadership of Club {BLUE}{BOLD}({WHITE}{BOLD}<{RED}{BOLD}B{WHITE}{BOLD}>{BLUE}{BOLD}){RED}{BOLD}{W} when
+ called upon by the mighty Zorro. She, like
+ those who led before her, eventually left to
+ take part in "Real Life." The only difference
+ was that she ultimately returned to NC and to
+ {BLUE}{BOLD}({WHITE}{BOLD}<{RED}{BOLD}B{WHITE}{BOLD}>{BLUE}{BOLD}){RED}{BOLD}{W}. 
+{W}{BO}
+ You look at her statue with gratitude.
+
+~
+G
+106
+#32315
+flyer paper new~
+Club B changes~
+{BO,R}Read Club B changes!!!!{bo,r}~
+
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#32316
+model starship enterprise~
+a model of the Enterprise~
+{BLACK}{BOLD}An accurate-to-scale model of the {CYAN}{BOLD}U.S.S. Enterprise{g}~
+
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+#32317
+potion~
+
+~
+
+~
+
+~
+10 96 0 16385
+20 20 20 20
+10 2500 200
+#32318
+stallion horse~
+a beautiful stallion~
+{WHITE}{BOLD}A tall, magnificent Stallion stands before you{g}~
+
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+#32319
+game sega genesis~
+a Sega Genesis~
+{BLUE}A {BLUE,BOLD}S{g}{BLUE}e{BLUE,BOLD}g{g}{BLUE}a{BLUE,BOLD} G{g}{BLUE}e{BLUE,BOLD}n{g}{BLUE}e{BLUE,BOLD}s{g}{BLUE}i{BLUE,BOLD}s {WHITE,BOLD}is plugged into the TV...~
+
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+#32320
+sign suite note~
+a note of remembrance~
+{RED}{g}You see a {CYAN,BOLD}note{g} written in {CYAN,BOLD}cursive{g} tacked on the wall...~
+
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+$~

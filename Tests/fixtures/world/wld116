@@ -1,0 +1,1768 @@
+#11600
+{Y}Dusty Village Path{b}~
+
+{Y}  The dirt path through this village has been hard-packed by many
+{Y}  feet, but weeds encroach at its edges, indicating that the
+{Y}  traffic here has decreased dramatically. Rail fences mark off
+{Y}  pastures and farmland at regular intervals.{b}
+
+~
+116 0 2
+D0
+~
+~
+0 -1 11601
+D2
+~
+~
+0 -1 13988
+E
+cat~
+This small siamese looks you over. She doesn't seem to find you interesting, and walks over to Kitty.
+~
+X2137
+Z-1
+C-1
+R0
+S
+#11601
+{Y}Dusty Village Path{b}~
+
+{Y}  The dirt path through this village has been hard-packed by many
+{Y}  feet, but weeds encroach at its edges, indicating that the
+{Y}  traffic here has decreased dramatically. Rail fences mark off
+{Y}  pastures and farmland at regular intervals.{b}
+
+~
+116 0 2
+D0
+~
+~
+0 -1 11602
+D2
+~
+~
+0 -1 11600
+E
+test~
+
+                   {BO,W,UND}   Test Topic   {bo,W}
+       Welcome to the creation school.  It seems you 
+   have figured out quite easily how to view the 
+   additional topics.  Keep an eye on them as they will 
+   provide extended information on creation topics as 
+   well as opinions from immortals and mortals alike.  
+   Good luck in your quest for knowledge and experience.
+                                 -{BO,W}Zieb{bo,W}-{bo}
+   
+~
+X2137
+Z-1
+C-1
+R0
+S
+#11602
+{Y}Dusty Village Path{b}~
+
+{Y}  The dirt path through this village has been hard-packed by many
+{Y}  feet, but weeds encroach at its edges, indicating that the
+{Y}  traffic here has decreased dramatically. Rail fences mark off
+{Y}  pastures and farmland at regular intervals.{b}
+
+~
+116 0 2
+D1
+~
+~
+0 -1 11603
+D2
+~
+~
+0 -1 11601
+E
+theme~
+   
+                {BO,W,UND}  Section 1: Theme + Target   {bo,W}
+       Before you tell yourself that the theme you have in mind for your
+   zone is good enough, you might want to read through this section.  
+   It might just save you the hassles you'll face if the theme you thought
+   would work out well flops.
+       The theme of your zone will make the difference between headaches, 
+   giving up, and frustration and quick creating, satisfaction with what 
+   you've made, and quick, easily approved zone reviews.  
+       This section will help you in deciding a strong theme that you 
+   will be able to work with, as well as a good target for your zone.
+   I can not stress the importance of this section enough, as a good
+   choice will make the creating proccess a very smooth ride and a 
+   bad one...frustration.
+                                 -{BO,W}Zieb{bo,W}-{bo}
+   
+~
+E
+help~
+~
+Z-1
+C-1
+R0
+S
+#11603
+{Y}Dusty Village Path{b}~
+
+{Y}  The dirt path through this village has been hard-packed by many
+{Y}  feet, but weeds encroach at its edges, indicating that the
+{Y}  traffic here has decreased dramatically. Rail fences mark off
+{Y}  pastures and farmland at regular intervals. The gate in front of
+{Y}  the farmhouse to the north stands ajar. An overgrown field is to
+{Y}  the south, but a fence stands in the way.{b}
+
+~
+116 0 2
+D0
+~
+~
+0 -1 11604
+D1
+~
+~
+0 -1 11611
+D3
+~
+~
+0 -1 11602
+Z-1
+C-1
+R0
+S
+#11604
+{R}Inside the Farmhouse{b}~
+
+{R}  This house is small, only one room. A thick layer of dust covers
+{R}  everything, indicating that no one has been here in a long time.
+{R}  A few large pieces of furniture are scattered about the room: a
+{R}  stove sits in the corner, long-unused, a wooden chest holds some
+{R}  stained linens, but the wardrobe is completely empty.{b}
+
+~
+116 4 2
+D0
+~
+~
+0 -1 11606
+D2
+~
+~
+0 -1 11603
+D4
+~
+~
+0 -1 11605
+E
+not~
+
+    {BO,W,UND}   Why NOT to Make an Advanced Zone   {bo,W}
+-There are already tons of advanced zones.
+-It is more time consuming to make an advanced zone as opposed 
+ to some of the other types of zones.
+-Advanced zones are reviewed the HARDEST.
+-Nearly all of the eq stats you wanted will be changed before 
+ the zone is open.
+-You will have to spend hours upon end changing things so that 
+ reviewers will approve.
+-Your zone will either be too easy and everyone will yell at you 
+ and lower the stats or limits of equipment, or too hard, in 
+ which case no one will do the zone you spent a few hundred hours 
+ working on.  
+-As soon as your bad arse advanced zone with awesome equipment, a 
+ dope theme, challenging beyond belief, innovative ideas, etc is 
+ open, some other adv zone will be in the works with better eq 
+ stats, etc.
+                                 Be warned.... 
+                                 -{BO,W}Zieb{bo,W}-{bo}
+   
+~
+Z-1
+C-1
+R0
+S
+#11605
+{R}Inside the Farmhouse{b}~
+
+{R}  Not quite a proper second floor, this loft has only about a third
+{R}  the area of the ground floor. Three bedframes are here, one large
+{R}  and two small, but the mattresses are gone.{b}
+
+~
+116 0 2
+D5
+~
+~
+0 -1 11604
+Z-1
+C-1
+R0
+S
+#11606
+{Y}Abandoned Cornfield{b}~
+
+{Y}  Shrivelled cornstalks rise from the parched soil in neat rows,
+{Y}  standing about waist-high. Some of the plants bear stunted ears
+{Y}  of corn. A gated fence separates this field from the pasture to
+{Y}  the north. The field itself continues to the east.{b}
+
+~
+116 0 2
+D0
+~
+~
+0 -1 11607
+D2
+~
+~
+0 -1 11604
+Z-1
+C-1
+R0
+S
+#11607
+{Y}Large Pasture{b}~
+
+{G}  There is more green in this pasture than in any of the nearby
+{G}  fields, but the grass has been shorn off quite close to the
+{G}  ground. A gated fence separates this pasture from the field to
+{G}  the south. A couple small, foul-smelling buildings are in the
+{G}  corner.{b}
+
+~
+116 0 2
+D0
+~
+~
+0 -1 11610
+D1
+~
+~
+0 -1 11609
+D2
+~
+~
+0 -1 11606
+D3
+~
+~
+0 -1 11608
+Z-1
+C-1
+R0
+S
+#11608
+{Y}Chicken Coop{b}~
+
+{WH,BO}  A human of average height would have to stoop to avoid hitting
+{WH,BO}  his head on the ceiling of this tiny building. The walls are
+{WH,BO}  lined with shelves, each holding a row of nests. Hens, some dead,
+{WH,BO}  some alive, are perched atop most of the nests; the smell of
+{WH,BO}  chicken droppings and rotten flesh is oppressive.{b}
+
+~
+116 0 2
+D1
+~
+~
+0 -1 11607
+Z-1
+C-1
+R0
+S
+#11609
+{Y}Chicken Coop{b}~
+
+{WH,BO}  A human of average height would have to stoop to avoid hitting
+{WH,BO}  his head on the ceiling of this tiny building. The walls are
+{WH,BO}  lined with shelves, each holding a row of nests. Hens, some dead,
+{WH,BO}  some alive, are perched atop most of the nests; the smell of
+{WH,BO}  chicken droppings and rotten flesh is oppressive.{b}
+
+~
+116 0 2
+D3
+~
+~
+0 -1 11607
+Z-1
+C-1
+R0
+S
+#11610
+{Y}Chicken Coop{b}~
+
+{WH,BO}  A human of average height would have to stoop to avoid hitting
+{WH,BO}  his head on the ceiling of this tiny building. The walls are
+{WH,BO}  lined with shelves, each holding a row of nests. Hens, some dead,
+{WH,BO}  some alive, are perched atop most of the nests; the smell of
+{WH,BO}  chicken droppings and rotten flesh is oppressive.{b}
+
+~
+116 0 2
+D2
+~
+~
+0 -1 11607
+Z-1
+C-1
+R0
+S
+#11611
+{Y}Dusty Village Path{b}~
+
+{Y}  The dirt path through this village has been hard-packed by many
+{Y}  feet, but weeds encroach at its edges, indicating that the
+{Y}  traffic here has decreased dramatically. Rail fences mark off
+{Y}  pastures and farmland at regular intervals. A cottage stands in
+{Y}  the yard to the south; the gate is open.
+
+~
+116 0 2
+D1
+~
+~
+0 -1 11612
+D2
+~
+~
+0 -1 11613
+D3
+~
+~
+0 -1 11603
+Z-1
+C-1
+R0
+S
+#11612
+{Y}Dusty Village Path{b}~
+
+{Y}  The dirt path through this village has been hard-packed by many
+{Y}  feet, but weeds encroach at its edges, indicating that the
+{Y}  traffic here has decreased dramatically. Rail fences mark off
+{Y}  pastures and farmland at regular intervals. North of the road is
+{Y}  a barren field.
+{b}
+~
+116 0 2
+D0
+~
+~
+0 -1 11621
+D3
+~
+~
+0 -1 11611
+Z-1
+C-1
+R0
+S
+#11613
+{R}Inside the Farmhouse{b}~
+
+{R}  A single room with no upper floor, this tiny house is divided
+{R}  into two rooms by a curtain. Several of the windows are broken,
+{R}  and leaves and dirt cover the floor. The only piece of furniture
+{R}  in the house is a three-legged chair.{b}
+
+~
+116 4 2
+D0
+~
+~
+0 -1 11611
+D2
+~
+~
+0 -1 11614
+Z-1
+C-1
+R0
+S
+#11614
+{G}Vegetable Garden{b}~
+
+{G}  Much of the yard behind this house has been turned into a garden.
+{G}  Row by row the vegetables grow, some on poles, some in cages. A
+{G}  faint trail passes along the side of the house, into a stable. A
+{G}  field is south of here.{b}
+
+~
+116 0 2
+D0
+~
+~
+0 -1 11613
+D1
+~
+~
+0 -1 11616
+D2
+~
+~
+0 -1 11619
+D3
+~
+~
+0 -1 11615
+Z-1
+C-1
+R0
+S
+#11615
+{Y}Run-down Stable{b}~
+
+{Y}  Entering this dilapidated building, you see that it is in very
+{Y}  poor shape. Half of the roof has collapsed, and the stalls on
+{Y}  that side are inaccessible. A few rusty tools are leaning against
+{Y}  the wall, and a bag of moldy oats is lying open on the floor. The
+{Y}  gate to the large stall near the door is open.{b}
+
+~
+116 0 2
+D1
+~
+~
+0 -1 11614
+Z-1
+C-1
+R0
+S
+#11616
+{G}Vegetable Garden{b}~
+
+{G}  The garden is not very plentiful, in fact most of the vegetation
+{G}  is ruined or unhealthy, however some of it seems edible.{b}
+
+~
+116 0 2
+D1
+~
+~
+0 -1 11617
+D3
+~
+~
+0 -1 11614
+Z-1
+C-1
+R0
+S
+#11617
+{G}Vegetable Garden{b}~
+
+{G}  The garden is not very plentiful, in fact most of the vegetation
+{G}  is ruined or unhealthy, however some of it seems edible.{b}
+
+~
+116 0 2
+D1
+~
+~
+0 -1 11618
+D3
+~
+~
+0 -1 11616
+Z-1
+C-1
+R0
+S
+#11618
+{G}Vegetable Garden{b}~
+
+{G}  The garden is not very plentiful, in fact most of the vegetation
+{G}  is ruined or unhealthy, however some of it seems edible.{b}
+
+~
+116 0 2
+D3
+~
+~
+0 -1 11617
+Z-1
+C-1
+R0
+S
+#11619
+{Y}Hay Field{b}~
+
+{Y}  About a third of the hay in this field is cut and stacked; the
+{Y}  rest has dried where it was planted. A bridge over a ditch leads
+{Y}  north to the garden behind the farmhouse, and an empty field is
+{Y}  to the west.{b}
+
+~
+116 0 2
+D0
+~
+~
+0 -1 11614
+D3
+~
+~
+0 -1 11620
+Z-1
+C-1
+R0
+S
+#11620
+{Y}Hay Field{b}~
+
+{Y}  About a third of the hay in this field is cut and stacked; the
+{Y}  rest has dried where it was planted. A bridge over a ditch leads
+{Y}  north to the garden behind the farmhouse.{b}
+
+~
+116 0 2
+D1
+~
+~
+0 -1 11619
+Z-1
+C-1
+R0
+S
+#11621
+{Y}Barren Field{b}~
+
+{Y}  The plants which once grew in this field are shriveled and dead.
+{Y}  They never passed a foot in height. The soil is dry and cracked.
+{Y}  The fence separating this field from the pasture north of here
+{Y}  has been mostly knocked down.{b}
+
+~
+116 0 2
+D0
+~
+~
+0 -1 11624
+D1
+~
+~
+0 -1 11622
+D2
+~
+~
+0 -1 11612
+Z-1
+C-1
+R0
+S
+#11622
+{BLA,BO}Charred Ruins of a Farmhouse{b}~
+
+{R,BO}  It must have been a fierce blaze, for little remains but sticks
+{R,BO}  of charred wood and ashes. The stairs and half of the upper floor
+{R,BO}  have collapsed, and the rest of the structure creaks uneasily as
+{R,BO}  the breeze wafts through the broken windows. A small metal box
+{R,BO}  lies half buried beneath some debris.{b}
+
+~
+116 0 2
+D0
+~
+~
+0 -1 11623
+D3
+~
+~
+0 -1 11621
+Z-1
+C-1
+R0
+S
+#11623
+{Y}Weed-choked Field{b}~
+
+{Y}  Although nearly as dry as the others on this farm, this field
+{Y}  sports some tenacious patches of clover and dandelion as well as
+{Y}  other unidentifiable weeds. A stand of trees is several hundred
+{Y}  yards off to the north. Directly south of here you can see the
+{Y}  ruins of a burnt-out farmhouse.{b}
+
+~
+116 0 2
+D2
+~
+~
+0 -1 11622
+D3
+~
+~
+0 -1 11624
+Z-1
+C-1
+R0
+S
+#11624
+{Y}Weed-choked Field{b}~
+
+{Y}  Although nearly as dry as the others on this farm, this field
+{Y}  sports some tenacious patches of clover and dandelion as well as
+{Y}  other unidentifiable weeds. A stand of trees is several hundred
+{Y}  yards off to the north. Directly south of here you can see the
+{Y}  ruins of a burnt-out farmhouse.{b}
+
+~
+116 0 2
+D1
+~
+~
+0 -1 11623
+D2
+~
+~
+0 -1 11621
+Z-1
+C-1
+R0
+S
+#11625
+None~
+~
+116 0 1
+D0
+~
+~
+0 -1 11628
+D3
+~
+~
+0 -1 11624
+Z3
+C-1
+R0
+S
+#11626
+None~
+~
+116 0 1
+D1
+~
+~
+0 -1 11627
+D2
+~
+~
+0 -1 11623
+Z3
+C-1
+R0
+S
+#11627
+None~
+~
+116 0 1
+D1
+~
+~
+0 -1 11628
+D2
+~
+~
+0 -1 11624
+D3
+~
+~
+0 -1 11626
+Z3
+C-1
+R0
+S
+#11628
+None~
+~
+116 0 1
+D2
+~
+~
+0 -1 11625
+D3
+~
+~
+0 -1 11627
+Z3
+C-1
+R0
+S
+#11629
+None~
+~
+116 0 1
+D0
+~
+~
+0 -1 11630
+D3
+~
+~
+0 -1 11639
+Z3
+C-1
+R0
+S
+#11630
+None~
+~
+116 0 1
+D0
+~
+~
+0 -1 11603
+D1
+~
+~
+0 -1 11631
+D2
+~
+~
+0 -1 11629
+Z3
+C-1
+R0
+S
+#11631
+None~
+~
+116 0 1
+D0
+~
+~
+0 -1 11632
+D3
+~
+~
+0 -1 11630
+Z3
+C-1
+R0
+S
+#11632
+None~
+~
+116 0 1
+D0
+~
+~
+0 -1 11635
+D2
+~
+~
+0 -1 11631
+Z3
+C-1
+R0
+S
+#11633
+None~
+~
+116 0 1
+D0
+~
+~
+0 -1 11637
+D1
+~
+~
+0 -1 11634
+Z3
+C-1
+R0
+S
+#11634
+None~
+~
+116 0 1
+D1
+~
+~
+0 -1 11635
+D3
+~
+~
+0 -1 11633
+Z3
+C-1
+R0
+S
+#11635
+None~
+~
+116 0 1
+D1
+~
+~
+0 -1 11636
+D2
+~
+~
+0 -1 11632
+D3
+~
+~
+0 -1 11634
+Z3
+C-1
+R0
+S
+#11636
+None~
+~
+116 0 1
+D3
+~
+~
+0 -1 11635
+D4
+~
+~
+0 -1 11624
+Z3
+C-1
+R0
+S
+#11637
+None~
+~
+116 0 1
+D2
+~
+~
+0 -1 11633
+D3
+~
+~
+0 -1 11642
+Z3
+C-1
+R0
+S
+#11638
+None~
+~
+116 0 1
+D0
+~
+~
+0 -1 11640
+D1
+~
+~
+0 -1 11639
+Z3
+C-1
+R0
+S
+#11639
+None~
+~
+116 0 1
+D0
+~
+~
+0 -1 11641
+D1
+~
+~
+0 -1 11629
+D3
+~
+~
+0 -1 11638
+Z3
+C-1
+R0
+S
+#11640
+This is nowhere.~
+
+~
+116 262144 1
+Z3
+C-1
+R0
+S
+#11641
+None~
+~
+116 0 1
+D2
+~
+~
+0 -1 11639
+D3
+~
+~
+0 -1 11640
+Z3
+C-1
+R0
+S
+#11642
+None~
+~
+116 0 1
+D1
+~
+~
+0 -1 11637
+D4
+~
+~
+0 -1 11643
+Z3
+C-1
+R0
+S
+#11643
+None~
+~
+116 0 1
+D4
+~
+~
+0 -1 11644
+D5
+~
+~
+0 -1 11642
+Z3
+C-1
+R0
+S
+#11644
+None~
+~
+116 0 1
+D4
+~
+~
+0 -1 11645
+D5
+~
+~
+0 -1 11643
+Z3
+C-1
+R0
+S
+#11645
+None~
+~
+116 16777218 1
+Z3
+C-1
+R0
+S
+#11646
+None~
+~
+116 0 1
+D1
+~
+~
+0 -1 11647
+D5
+~
+~
+0 -1 11649
+Z3
+C-1
+R0
+S
+#11647
+None~
+~
+116 0 1
+D3
+~
+~
+0 -1 11646
+Z3
+C-1
+R0
+S
+#11648
+None~
+~
+116 0 1
+D0
+~
+~
+0 -1 11654
+D1
+~
+~
+0 -1 11649
+D3
+~
+~
+0 -1 11652
+Z3
+C-1
+R0
+S
+#11649
+None~
+~
+116 0 1
+D0
+~
+~
+0 -1 11651
+D1
+~
+~
+0 -1 11650
+D3
+~
+~
+0 -1 11648
+D4
+~
+~
+0 -1 11646
+Z3
+C-1
+R0
+S
+#11650
+None~
+~
+116 0 1
+D0
+~
+~
+0 -1 11661
+D1
+~
+~
+0 -1 11660
+D3
+~
+~
+0 -1 11649
+Z3
+C-1
+R0
+S
+#11651
+None~
+~
+116 0 1
+D0
+~
+~
+0 -1 11664
+D1
+~
+~
+0 -1 11661
+D2
+~
+~
+0 -1 11649
+D3
+~
+~
+0 -1 11654
+Z3
+C-1
+R0
+S
+#11652
+None~
+~
+116 0 1
+D0
+~
+~
+0 -1 11653
+D1
+~
+~
+0 -1 11651
+D2
+~
+~
+0 -1 11648
+Z3
+C-1
+R0
+S
+#11653
+None~
+~
+116 0 1
+D0
+~
+~
+0 -1 11655
+D1
+~
+~
+0 -1 11654
+D2
+~
+~
+0 -1 11652
+Z3
+C-1
+R0
+S
+#11654
+None~
+~
+116 0 1
+D0
+~
+~
+0 -1 11661
+D1
+~
+~
+0 -1 11664
+D2
+~
+~
+0 -1 11651
+D3
+~
+~
+0 -1 11653
+Z3
+C-1
+R0
+S
+#11655
+None~
+~
+116 0 1
+D0
+~
+~
+0 -1 11663
+D1
+~
+~
+0 -1 11661
+Z3
+C-1
+R0
+S
+#11656
+None~
+~
+116 0 1
+D0
+~
+~
+0 -1 11658
+D2
+~
+~
+0 -1 11664
+Z3
+C-1
+R0
+S
+#11657
+None~
+~
+116 0 1
+D1
+~
+~
+0 -1 11658
+Z3
+C-1
+R0
+S
+#11658
+None~
+~
+116 0 1
+D1
+~
+~
+0 -1 11659
+D2
+~
+~
+0 -1 11656
+D3
+~
+~
+0 -1 11657
+Z3
+C-1
+R0
+S
+#11659
+None~
+~
+116 0 1
+D3
+~
+~
+0 -1 11658
+Z3
+C-1
+R0
+S
+#11660
+None~
+~
+116 0 1
+D0
+~
+~
+0 -1 11662
+D2
+~
+~
+0 -1 11650
+D3
+~
+~
+0 -1 11651
+Z3
+C-1
+R0
+S
+#11661
+None~
+~
+116 0 1
+D0
+~
+~
+0 -1 11654
+D1
+~
+~
+0 -1 11662
+D2
+~
+~
+0 -1 11651
+D3
+~
+~
+0 -1 11664
+Z3
+C-1
+R0
+S
+#11662
+None~
+~
+116 0 1
+D0
+~
+~
+0 -1 11663
+D2
+~
+~
+0 -1 11660
+D3
+~
+~
+0 -1 11661
+Z3
+C-1
+R0
+S
+#11663
+None~
+~
+116 0 1
+D0
+~
+~
+0 -1 11655
+D2
+~
+~
+0 -1 11662
+D3
+~
+~
+0 -1 11655
+Z3
+C-1
+R0
+S
+#11664
+None~
+~
+116 0 1
+D0
+~
+~
+0 -1 11656
+D1
+~
+~
+0 -1 11661
+D2
+~
+~
+0 -1 11651
+D3
+~
+~
+0 -1 11654
+Z3
+C-1
+R0
+S
+#11665
+None~
+~
+116 0 1
+D1
+~
+~
+0 -1 11666
+Z3
+C-1
+R0
+S
+#11666
+None~
+~
+116 0 1
+D0
+~
+~
+0 -1 11668
+D1
+~
+~
+0 -1 11667
+D3
+~
+~
+0 -1 11665
+Z3
+C-1
+R0
+S
+#11667
+None~
+~
+116 0 1
+D3
+~
+~
+0 -1 11666
+Z3
+C-1
+R0
+S
+#11668
+None~
+~
+116 0 1
+D0
+~
+~
+0 -1 11671
+D2
+~
+~
+0 -1 11666
+Z3
+C-1
+R0
+S
+#11669
+None~
+~
+116 0 1
+D1
+~
+~
+0 -1 11670
+Z3
+C-1
+R0
+S
+#11670
+None~
+~
+116 0 1
+D1
+~
+~
+0 -1 11671
+D3
+~
+~
+0 -1 11669
+Z3
+C-1
+R0
+S
+#11671
+None~
+~
+116 0 1
+D0
+~
+~
+0 -1 11674
+D1
+~
+~
+0 -1 11672
+D2
+~
+~
+0 -1 11668
+D3
+~
+~
+0 -1 11670
+Z3
+C-1
+R0
+S
+#11672
+None~
+~
+116 0 1
+D1
+~
+~
+0 -1 11673
+D3
+~
+~
+0 -1 11671
+Z3
+C-1
+R0
+S
+#11673
+None~
+~
+116 0 1
+D3
+~
+~
+0 -1 11672
+Z3
+C-1
+R0
+S
+#11674
+None~
+~
+116 0 1
+D0
+~
+~
+0 -1 11676
+D2
+~
+~
+0 -1 11671
+Z3
+C-1
+R0
+S
+#11675
+None~
+~
+116 0 1
+D1
+~
+~
+0 -1 11676
+Z3
+C-1
+R0
+S
+#11676
+None~
+~
+116 0 1
+D1
+~
+~
+0 -1 11677
+D2
+~
+~
+0 -1 11674
+D3
+~
+~
+0 -1 11675
+Z3
+C-1
+R0
+S
+#11677
+None~
+~
+116 0 1
+D3
+~
+~
+0 -1 11676
+Z3
+C-1
+R0
+S
+#11678
+None~
+~
+116 0 1
+Z3
+C-1
+R0
+S
+#11679
+None~
+~
+116 0 1
+Z3
+C-1
+R0
+S
+#11680
+None~
+~
+116 0 1
+Z3
+C-1
+R0
+S
+#11681
+None~
+~
+116 0 1
+Z3
+C-1
+R0
+S
+#11682
+None~
+~
+116 0 1
+Z3
+C-1
+R0
+S
+#11683
+None~
+~
+116 0 1
+Z3
+C-1
+R0
+S
+#11684
+None~
+~
+116 0 1
+Z3
+C-1
+R0
+S
+#11685
+None~
+~
+116 0 1
+Z3
+C-1
+R0
+S
+#11686
+None~
+~
+116 0 1
+Z3
+C-1
+R0
+S
+#11687
+None~
+~
+116 0 1
+Z3
+C-1
+R0
+S
+#11688
+None~
+~
+116 0 1
+D5
+~
+secret~
+1 -1 11690
+Z3
+C2
+R0
+S
+#11689
+None~
+~
+116 0 1
+D3
+~
+~
+0 -1 11688
+Z3
+C-1
+R0
+S
+#11690
+None~
+~
+116 0 1
+D1
+~
+~
+0 -1 11691
+T11689
+Z3
+C-1
+R0
+S
+#11691
+None~
+~
+116 0 1
+D1
+~
+~
+0 -1 11692
+D3
+~
+~
+0 -1 11690
+T11689
+Z3
+C-1
+R0
+S
+#11692
+None~
+~
+116 0 1
+D1
+~
+~
+0 -1 11693
+D3
+~
+~
+0 -1 11691
+T11689
+Z3
+C-1
+R0
+S
+#11693
+None~
+~
+116 0 1
+D1
+~
+~
+0 -1 11694
+D3
+~
+~
+0 -1 11692
+T11689
+Z3
+C-1
+R0
+S
+#11694
+None~
+~
+116 1048576 1
+D1
+~
+~
+0 -1 11695
+D3
+~
+~
+0 -1 11693
+T11689
+Z3
+C-1
+R0
+S
+#11695
+None~
+~
+116 1065364 1
+D1
+~
+hatch~
+1 -1 11689
+D4
+~
+~
+0 -1 11688
+D5
+~
+hole~
+1 -1 11696
+T11689
+Z3
+C-1
+R0
+S
+#11696
+None~
+~
+116 148 1
+D4
+~
+hole~
+1 -1 11695
+Z3
+C-1
+R0
+S
+#11697
+None~
+~
+116 0 1
+Z3
+C-1
+R0
+S
+#11698
+None~
+~
+116 0 1
+Z3
+C-1
+R0
+S
+#11699
+None~
+~
+116 0 1
+Z3
+C-1
+R0
+S
+$~

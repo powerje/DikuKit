@@ -1,0 +1,94 @@
+#179
+Rifts2(Guard)~
+17999 60 0
+*
+X 8914
+D 0 17901     0     2    (N:LOCKED) Palladium Blvd.
+D 0 17901     2     2    (S:LOCKED) Palladium Blvd.
+D 0 17902     0     2    (N:LOCKED) Palladium Blvd.
+D 0 17902     1     2    (E:LOCKED) Palladium Blvd.
+D 0 17903     0     2    (N:LOCKED) Carella Lane
+D 0 17903     2     2    (S:LOCKED) Carella Lane
+D 0 17903     3     2    (W:LOCKED) Carella Lane
+D 0 17904     0     2    (N:LOCKED) Carella Lane
+D 0 17906     0     2    (N:LOCKED) Carella Lane
+D 0 17906     2     2    (S:LOCKED) Carella Lane
+D 0 17907     0     2    (N:LOCKED) Carella Lane
+D 0 17907     1     1    (E:CLOSED) Carella Lane
+D 0 17907     2     2    (S:LOCKED) Carella Lane
+M 0 12319     1 17908    The Body Fixer
+E 1 12313     1    17    (HELD) Robot Medical Kit
+D 0 17908     3     1    (W:CLOSED) Tolkeen General Hospital
+D 0 17911     0     2    (N:LOCKED) Poet Place
+M 0 17919     5 17912    Naruni Repo-Bot
+M 0 17919     5 17912    Naruni Repo-Bot
+M 0 17919     5 17912    Naruni Repo-Bot
+M 0 17919     5 17912    Naruni Repo-Bot
+M 0 17919     5 17912    Naruni Repo-Bot
+M 0 17901     1 17912    The Scholar
+G 1 17900     1     0    force field
+M 0 17900     7 17919    Lazlo Citizen
+M 0 17900     7 17920    Lazlo Citizen
+M 0 17900     7 17920    Lazlo Citizen
+M 0 17900     7 17922    Lazlo Citizen
+M 0 17900     7 17926    Lazlo Citizen
+M 0 17900     7 17926    Lazlo Citizen
+M 0 17900     7 17926    Lazlo Citizen
+M 0 17903     9 17927    The Backdraft
+M 0 17903     9 17927    The Backdraft
+M 0 17903     9 17927    The Backdraft
+M 0 17903     9 17928    The Backdraft
+M 0 17903     9 17928    The Backdraft
+M 0 17903     9 17928    The Backdraft
+M 0 17902     1 17930    The Techno-Wizard
+E 1 17901     1     5    (BODY) mystic power armor
+M 0  9325     6 17930    An eddie
+M 0  9325     6 17930    An eddie
+E 1  9318     8    17    (HELD) {CYAN}elemental{cyan} wand of {CYAN}wind{cyan} and {CYAN}air{cyan}
+M 0  9325     6 17930    An eddie
+M 0  9325     6 17930    An eddie
+M 0  9325     6 17930    An eddie
+M 0  9325     6 17930    An eddie
+M 0 17903     9 17931    The Backdraft
+M 0 17903     9 17931    The Backdraft
+M 0 17903     9 17931    The Backdraft
+M 0 17904     1 17932    The Burster
+E 1 17902     1     8    (FEET) burster booster boots
+M 0 17905    10 17933    The Coalition Grunt
+M 0 17905    10 17933    The Coalition Grunt
+M 0 17905    10 17934    The Coalition Grunt
+M 0 17905    10 17934    The Coalition Grunt
+M 0 17905    10 17935    The Coalition Grunt
+M 0 17905    10 17935    The Coalition Grunt
+M 0 17905    10 17936    The Coalition Grunt
+M 0 17905    10 17936    The Coalition Grunt
+M 0 17905    10 17940    The Coalition Grunt
+D 0 17940     2     2    (S:LOCKED) Military Level
+D 0 17944     0     2    (N:LOCKED) Prosek's Chambers
+M 0 17905    10 17945    The Coalition Grunt
+M 0 17906     1 17947    Emperor Prosek
+E 1 17903     1     2    (FINGER) The Imperial Signet Ring
+M 0 17908     1 17951    The City Rat
+M 0 17907     1 17954    The Garbage Serpent
+D 0 17954     5     2    (D:LOCKED) Garbage Hold
+M 0 17909     5 17959    The Dog Boy
+E 1 17904     1    15    (WRIST) vibro-claws
+M 0 17909     5 17959    The Dog Boy
+M 0 17909     5 17959    The Dog Boy
+M 0 17909     5 17959    The Dog Boy
+M 0 17909     5 17959    The Dog Boy
+M 0 17910     1 17964    The Cyber-Doc
+E 1 17905     1    17    (HELD) laser scalpel
+M 0 17911     1 17967    The Operator
+E 1 17906     1    17    (HELD) work order
+M 0 17912     1 17976    Shelob
+M 0 17913     1 17979    The Psi-Stalker
+G 1 17907     1     0    vibro-sword
+M 0 17914     3 17986    The Bottweiler
+M 0 17915     3 17987    The A-63 All Purpose Robot
+M 0 17915     3 17990    The A-63 All Purpose Robot
+M 0 17914     3 17993    The Bottweiler
+M 0 17914     3 17994    The Bottweiler
+M 0 17915     3 17996    The A-63 All Purpose Robot
+D 0 17999     2     1    (S:CLOSED) Access Tunnel
+$~

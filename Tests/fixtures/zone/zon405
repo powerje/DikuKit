@@ -1,0 +1,81 @@
+#405
+New Zone(Danger)~
+40599 600 2
+*
+X 10180
+O 0 40419     1 40504    Image of Sabretooth
+O 0 40418     1 40504    An Image of Storm
+O 0 40417     1 40504    An image of Colossus
+O 0 40416     1 40504    An image of the White Queen
+O 0 40415     1 40504    An image of Cable
+M 0 40519    10 40506    {MAG}Hellion{mag}
+M 0 40519    10 40509    {MAG}Hellion{mag}
+M 0 40519    10 40509    {MAG}Hellion{mag}
+D 0 40509     1     0    (E:OPEN) {WHITE}Massachusetts Academy{white}
+M 0 40519    10 40510    {MAG}Hellion{mag}
+M 0 40519    10 40510    {MAG}Hellion{mag}
+D 0 40510     3     0    (W:OPEN) {WHITE}SKIN{white}
+D 0 40511     3     0    (W:OPEN) {WHITE}Massachusetts Academy{white}
+D 0 40512     1     0    (E:OPEN) {BOLD,YELLOW}HUSK{bold,yellow}
+M 0 40519    10 40513    {MAG}Hellion{mag}
+M 0 40519    10 40513    {MAG}Hellion{mag}
+M 0 40519    10 40514    {MAG}Hellion{mag}
+M 0 40519    10 40515    {MAG}Hellion{mag}
+M 0 40519    10 40515    {MAG}Hellion{mag}
+D 0 40515     0     0    (N:OPEN) {WHITE}Massachusetts Academy{white}
+D 0 40516     2     1    (S:CLOSED) {WHITE}Massachusetts Academy{white}
+D 0 40517     0     1    (N:CLOSED) {WHITE}Massachusetts Academy Planning Room{white}
+M 0 40500     1 40520    {BOLD}B{YELLOW}a{yellow}{BOLD}n{BOLD}{YELLOW}s{yellow}{BOLD}h{BOLD}{YELLOW}e{yellow}{BOLD}e{bold,yellow}
+M 0 40501     1 40520    {BOLD,WHITE}White Queen{bold,white}
+G 1 40529     1     0    {RED}Academy Dark Room Key{red}
+D 0 40520     2     2    (S:LOCKED) {WHITE}Massachusetts Academy Planning Room{white}
+M 0 40502     1 40521    {RED}Penance{red}
+D 0 40521     0     1    (N:CLOSED) {RED}Penance{red}
+M 0 40503     2 40522    {RED}M{red}
+M 0 40503     2 40522    {RED}M{red}
+D 0 40522     2     0    (S:OPEN) {RED}M{red}
+M 0 40529    22 40525    {BOLD,MAG}An Acolyte{bold,mag}
+M 0 40529    22 40525    {BOLD,MAG}An Acolyte{bold,mag}
+D 0 40525     3     0    (W:OPEN) {BOLD,MAG}Asteroid M{bold,mag}
+D 0 40526     1     0    (E:OPEN) {BOLD,MAG}Cargo Bay A{bold,mag}
+M 0 40526     1 40527    {BOLD,MAG}Skids{bold,mag}
+M 0 40529    22 40529    {BOLD,MAG}An Acolyte{bold,mag}
+M 0 40529    22 40529    {BOLD,MAG}An Acolyte{bold,mag}
+D 0 40531     1     0    (E:OPEN) {BOLD,MAG}Asteroid M{bold,mag}
+D 0 40532     3     0    (W:OPEN) {BOLD,MAG}Prison Cell{bold,mag}
+M 0 39129     1 40534    {BOLD,MAG}Fabian Cortez{bold,mag}
+M 0 40529    22 40535    {BOLD,MAG}An Acolyte{bold,mag}
+M 0 40529    22 40535    {BOLD,MAG}An Acolyte{bold,mag}
+M 0 40529    22 40538    {BOLD,MAG}An Acolyte{bold,mag}
+M 0 40529    22 40538    {BOLD,MAG}An Acolyte{bold,mag}
+D 0 40538     3     0    (W:OPEN) {BOLD,MAG}Asteroid M{bold,mag}
+D 0 40539     1     0    (E:OPEN) {BOLD,MAG}Cargo Bay A{bold,mag}
+M 0 40528     1 40540    {BOLD,MAG}Senyaka{bold,mag}
+M 0 40529    22 40541    {BOLD,MAG}An Acolyte{bold,mag}
+M 0 40529    22 40541    {BOLD,MAG}An Acolyte{bold,mag}
+M 0 40527     1 40542    {BOLD,MAG}Voght{bold,mag}
+M 0 40529    22 40543    {BOLD,MAG}An Acolyte{bold,mag}
+M 0 40529    22 40543    {BOLD,MAG}An Acolyte{bold,mag}
+D 0 40543     0     0    (N:OPEN) {BOLD,MAG}Magneto's Throne Room{bold,mag}
+M 0 39128     8 40544    {BOLD,MAG}A Mutate{bold,mag}
+M 0 39128     8 40546    {BOLD,MAG}A Mutate{bold,mag}
+M 0 40529    22 40546    {BOLD,MAG}An Acolyte{bold,mag}
+M 0 40529    22 40546    {BOLD,MAG}An Acolyte{bold,mag}
+M 0 40529    22 40547    {BOLD,MAG}An Acolyte{bold,mag}
+M 0 40529    22 40547    {BOLD,MAG}An Acolyte{bold,mag}
+M 0 40529    22 40547    {BOLD,MAG}An Acolyte{bold,mag}
+M 0 40529    22 40547    {BOLD,MAG}An Acolyte{bold,mag}
+M 0 40529    22 40547    {BOLD,MAG}An Acolyte{bold,mag}
+M 0 40529    22 40548    {BOLD,MAG}An Acolyte{bold,mag}
+M 0 40529    22 40548    {BOLD,MAG}An Acolyte{bold,mag}
+M 0 40529    22 40548    {BOLD,MAG}An Acolyte{bold,mag}
+M 0 39128     8 40549    {BOLD,MAG}A Mutate{bold,mag}
+M 0 39128     8 40550    {BOLD,MAG}A Mutate{bold,mag}
+M 0 39128     8 40552    {BOLD,MAG}A Mutate{bold,mag}
+M 0 39128     8 40553    {BOLD,MAG}A Mutate{bold,mag}
+M 0 39128     8 40554    {BOLD,MAG}A Mutate{bold,mag}
+M 0 39128     8 40556    {BOLD,MAG}A Mutate{bold,mag}
+M 0 40419     1 40562    {RED}Ma{MAG}gn{RED}eto{red}
+E 1 40502     1    12    (ABOUT) {RED}Crimson Cape {MAG}of Magnetism{mag}
+D 0 40564     2     0    (S:OPEN) {BOLD,MAG}Escape {bold,mag}{MAG}Pod{mag}
+$~

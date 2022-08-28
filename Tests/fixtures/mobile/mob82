@@ -1,0 +1,542 @@
+#8200
+clerk teenager employee~
+{BO,C}The Teenage Clerk{bo}~
+{bo,C}The {BO}Teenage Clerk {bo,C}wanders around the store like a zombie.{bo}
+~
+   
+   The zombie-like employees sure look young.  They must only be
+teenagers or so.  They don't talk at all either, which is truly weird.
+Something fishy is going on around here.
+   
+~
+524352 1074528936 300 S
+50 -10 -5 8000d1+0 1d0+75
+50000 1000
+8 8 2
+D 20
+A 12
+#8201
+robot helper hh2-a~
+{BLU,BO}The {W}HH2{BLU}-{W}a {BLU}Helper Robot{bo}~
+{BLU,BO}A large, useful looking robot runs around cleaning things!{bo}
+~
+   
+   {bo,C}This robot is large and helpful.  It is designed to help out 
+with nearly any task around the home.  It's thick exterior plating makes
+it look durable and strong.
+   {bo}
+~
+67125316 1092911752 0 S
+50 -30 0 7000d1+0 150d1+8
+100000 200000
+8 8 0
+S 134217739
+R 2097168
+D 20
+A 12
+#8202
+robot household worker small~
+{R,BO}The Household Worker Robot{bo}~
+{R,BO}A small robot wanders around, dusting and vacuuming the area.{bo}
+~
+   
+   {bo,M}The small household worker robot seems to be very efficient.
+He is made of solid steel and looks to be as tough as a nail despite
+his small size.
+   {bo}
+~
+524352 1074561704 200 S
+51 -30 0 8000d1+0 0d1+120
+50000 1000
+8 8 1
+R 16
+D 20
+A 12
+#8203
+robot lawn care~
+{G,BO}The Lawn Care Robot{bo}~
+{G,BO}A Large Robot prances around displaying his razor-sharp blades.{bo}
+~
+   
+   {BO,G}This robot displays it's massive blades as it walks around the
+room.  It's perfectly designed to tackle all of your lawn care problems
+and on sale!
+   {bo}
+~
+436224068 1107591720 -1000 S
+55 -30 -6 1d1+9999 0d1+130
+800000 22000
+8 8 1
+R 16
+D 20
+A 12
+#8204
+rat~
+{BO,BLA}The GIANT Rat{bo}~
+{BO,B}Something moves amidst the darkness, scraping claws on the cold floor.{bo}
+~
+   
+   {BO,BLA}The thick black fur is crusted in dried blood.  The eyes are
+quick and claws are faster.  This is no ordinary rat, it's nearly the
+size.....of you.
+   {bo}  
+~
+287834308 536873384 0 S
+51 -80 -7 1d0+9000 0d0+600
+2000 180000000
+8 8 1
+S 1
+R 12
+D 20
+A 12
+#8205
+robot securo~
+{BO,bo,R}The Securo-Bot{bo}~
+{bo,B} The glowing {bo,R,BLI}e{bo,B}y{bo,R,BLI}e{bo,B}s are the only thing you can see amidst the darkness...{bo}
+~
+   
+   {BO,R}'You there, Freeze!' yells the robotic voice.  It's piercing red eyes
+strike fear in your heart as you turn to look at it's robotic face...
+then it strikes!
+   {bo}
+~
+562036770 1074004776 -1000 S
+55 -100 -6 1d2000+10000 10d10+300
+1 2000000
+8 8 1
+S 976
+R 16
+D 20
+A 12
+#8206
+robot small elite security~
+{BO,bo,R}The Small Elite Robot{bo}~
+{BO,bo,B}The blinking {bo,R,BLI}e{bo,B}y{bo,R,BLI}e{bo,B}s of a small elite security robot are all you can see...{bo}
+~
+   
+   {bo,R}'We are the Elite and you are as good as DEAD!'
+  Like a gun shot his sharp claws rip you apart{bo}
+     
+~
+696254562 1393328936 -1000 S
+55 -140 -3 1d2000+3000 1d120+20
+0 427677
+8 8 0
+S 68288553
+R 16
+D 20
+A 12
+#8207
+security guard~
+{BO,bo,C}The Security Guard{bo}~
+{bo,C}The Security looks around cautiously making sure everything is safe.{bo}
+~
+   
+   {bo,C}His uniform stretches around his buldging body.  He fears
+no pain and is willing to die to protect the organization.{bo}
+  
+~
+1098907682 1342440360 -1000 S
+55 -80 -6 10000d1+0 40d25+0
+1 2000000
+8 8 1
+S 13641408
+R 3
+D 20
+A 12
+#8208
+assembler worker assembly~
+{BO,bo,W}The Robot Assembly Worker{bo}~
+{W,BO}A large, strong looking man stands here carrying steel components.{bo}
+~
+    
+   {bo,W}This is a very tough and strong looking worker.  You have seen
+very few humans this powerful before in your entire life.  You better
+hope he doesn't see you here or he'll probably break you in two.{bo}
+   
+~
+1216356449 1344570284 1000 C 4
+55 -80 -5 1d1+4999 10d10+300
+16000 2000000
+8 8 1
+S 12582912
+D 20
+A 12
+#8209
+robot metal shredder~
+{BO,R}The {bo,R}METAL{BO} Shredder{bo}~
+{bo,R}An evil looking robot with a strong jaw and sharp metal teeth.
+~
+   
+   This monstorous beast swims among the factory waste.  It's thick 
+jaw and massive pointed teeth slash through metal as it goes, slicing
+everything that gets in it's way.  You better duck or you'll be next!
+   
+~
+547356775 1076102056 -1000 S
+55 -15 -5 10000d1+0 10d10+100
+0 632813
+8 8 0
+S 835408
+R 16
+D 20
+A 12
+#8210
+robot elite large~
+{BO,bo,C}The {BO}Large Elite Robot{bo}~
+{bo,C}Light {BO}flashes {bo,C}off steel plates as a {R,BO}fire of hate burns {bo,C}in it's {BO}robotic eyes.{bo}
+~
+   
+   {bo,C}This is the king of all security robots.  It's scanning eyes detect
+you in an instant and you are as good as dead.  It's claws quickly
+fly towards your head and you have nothing to do.{bo}
+   
+~
+293601314 1344013224 -1000 S
+55 -85 -6 1d1000+7000 0d0+500
+1 2011000
+8 8 1
+S 4202501
+R 18
+D 20
+A 12
+#8211
+Robot incomplete~
+{BO,bo,Y}An {BO}Incomplete {bo,Y}Robot{bo}~
+{bo,Y}It kinda looks like a robot...it must not be quite done yet.{bo}
+~
+   {bo,Y}
+   Steel and electronic components protrude from all around this robot's
+exterior shell.  Something tells you it wasn't quite done when you 
+interrupted it's creation process.
+   {bo}
+~
+406847584 1076101928 0 S
+51 10 -5 0d0+10000 20d20+130
+2500 100000
+8 8 1
+R 16
+D 20
+A 12
+#8212
+engineer~
+{BO,BLU}An Engineer{bo}~
+{BO,BLU}An engineer stands here, watching a couple robot prototypes.{bo}
+~
+   
+   {bo,C}This engineer looks evil!  Years of social supression against giant nerds
+like him is bound to bring out a little bit of evil.  But WATCH OUT!
+
+~
+683679840 1393329056 -1000 S
+56 -100 -5 1d0+5000 8d8+20
+2000000 1000000
+9 9 0
+S 244098
+D 20
+A 12
+#8213
+robot elite destroyer~
+{BO,bo,C}D{BO}e{W}s{bo,W}t{C}r{BO}o{W}y{bo,W}e{C}r {BO}C{W}l{bo,W}a{C}s{BO}s {W}R{bo,W}o{C}b{BO}o{W}t{bo}~
+{bo,C}A {BO}M{W}a{bo,W}s{C}s{BO}i{W}v{bo,W}e{C} H{BO}u{W}n{bo,W}k {C}o{BO}f{W} S{bo,W}t{C}e{BO}e{W}l{bo,W} i{C}s {BO}g{W}l{bo,W}a{C}r{BO}i{W}n{bo,W}g{C} a{BO}t {W}y{bo,W}o{C}u{BO}!{bo}
+~
+   
+   {bo,C}This is the king of all security robots.  It's scanning eyes detect
+you in an instant and you are as good as dead.  It's claws quickly
+fly towards your head and you have nothing to do.{bo}
+   
+~
+595599392 1074004776 -1000 S
+55 -70 -6 12000d1+0 0d0+400
+1 2000000
+8 8 1
+S 131080
+R 16
+D 20
+A 12
+#8214
+Robo Attendant~
+{R,BO}The ROBO Attendant{bo}~
+{BO,R}PULSATING{bo,R} with it's own {BO}POWER{bo,R} is a {BO}MASSIVE{bo,R} Frame of {BO}STEEL{bo,R} and {BO}HATE.{bo}
+~
+   
+   {bo,R}It's gears are already grinding as you glance at it... It struggles with it's
+massive frame of solid steel to do whatever it can to KILL YOU!{bo}
+   
+~
+1266712823 2134680250 0 S
+57 -100 -15 0d0+99900 30d20+500
+1 2000000
+8 8 0
+S 14156608
+R 8388624
+D 20
+A 12
+#8215
+Human Technician~
+{BO}{bo,W}The Lab Technician{bo}~
+{bo,W}A Lab Technician scrambles about, releasing horrifying beasts upon you!{bo}
+~
+
+   {bo,W}He's kinda small and crafty looking, but you can bet you will pack a punch!
+You better stop him before here lets out more of those hideous beasts.
+{bo}
+~
+295698658 370967434 0 C 4
+50 -80 -10 1d1000+2000 20d20+100
+0 1000
+8 8 1
+S 262404
+D 20
+A 12
+#8216
+fido cybernetic enhanced~
+{BO,bo,C}The Cybernetic Beastly Fido{bo}~
+{bo}A {BO,C}Cybernetically Enhanced{bo} {bo,R}Beastly Fido{bo} is here twitching.{bo}
+~
+   
+   {BO,C}It twitches and scratches itself like all the other fidos you've seen, but
+what's with the convulsing and circuits protruding from it's skull???{bo} 
+
+~
+1115693152 336069290 0 S
+50 -80 5 1d5000+0 1d0+300
+0 1000
+8 8 0
+S 2147486464
+D 20
+A 12
+#8217
+cityguard guard enhanced cybernetic~
+An Enhanced Cityguard~
+{bo,G}A Cityguard with {bo,Y}wires{bo,G} jutting out of his head is standing here, ready to {BO,R}KILL!!!{bo}
+~
+
+   {BO,G}His eyes shine with a red glow from some unseen light in the back of
+his head.  They dart back and forth quicker than you've seen eyes move
+before.  Circuits and wires protrude from all over his head, giving him an
+extremely sinister appearance.
+{bo}
+~
+25198688 34341672 0 S
+57 -100 5 1d100+100 1d0+500
+0 1000
+8 8 0
+S 1048576
+D 20
+A 12
+#8218
+Judge Dredd Cybernetic~
+{BO,R}The Cybernetic DREDD{bo}~
+{BO,C}The {R}Cybernetic {C}Judge Dredd is here, shooting down whoever gets close!{bo}
+~
+
+   {BO,C}The Judge, The Jury, and The Executioner with twice the strength and
+power as before!  It's time for you to HIDE!!!!{bo}
+
+~
+1266720800 1512350632 1000 C 4
+57 -400 -201 1d1+32000 1d1+3404
+1 0
+8 8 1
+S 98066368
+R 8388624
+D 20
+A 12
+#8219
+incomplete cyborg~
+{BO,bo,Y}Incomplete Cyborg{bo}~
+{bo,Y}The {BO}Robotic Skeletal Structure{bo,Y} is covered with spots of human flesh.{bo}
+~
+
+   {bo,Y}The flesh hangs loosely off of the robotic skeletal structure.  It obviously
+is in the beginning stages of cyborg development.  It still looks QUITE dangerous
+though!
+{bo}
+~
+595615840 17073064 0 S
+55 -100 5 30d120+55 0d0+200
+0 1000
+8 8 0
+S 5243648
+R 80
+D 7
+A 12
+#8220
+powerful complete cyborg~
+{BO,bo,C}The {BO}POWERFUL CYBORG{bo}~
+{bo,C}It Looks Like It's Human, Except For the {R,BO}EYES{bo,C} and the {R,BO}HIDEOUS STRENGTH!{bo}
+~
+
+   {bo,C}He is tough!  Even looking at him makes you feel like you are already
+DEAD!
+{bo}
+~
+1237352548 386138812 0 S
+50 -110 -10 32000d1+1 25d25+275
+0 1000
+8 8 0
+S 77071168
+R 80
+D 7
+A 12
+#8221
+partial cyborg~
+{BO,W}The CYBORG{bo}~
+{bo,W}A Partially Complete {BO}CYBORG{bo,W} is Here, Drifting Through the Solution.{bo}
+~
+   
+   {bo,W}It looks nearly complete, but not quite fully operational.  Geez, what
+might a fully complete Cyborg be capable of?!?!?
+{bo}
+~
+25165922 262824 -13 S
+55 -80 -5 1d0+10000 10d100+100
+0 1001
+7 8 0
+S 79833024
+R 80
+D 20
+A 12
+#8222
+cybernetic enhanced cutesy furball~
+{BO,C}Cybernetic Furball{bo}~
+{BO,C}A cutesy furball with cybernetic implants stares you down.
+~
+   {bo,C}It's so cute and cudly, apart from that weird blinking circuit board
+sticking out of the back of it's furry head and the weird looking implants at the 
+sides of it's massive mouth.
+   
+~
+402679840 1074006824 0 S
+58 -20 -6 1d1+9999 20d15+10
+10000 20000000
+8 8 0
+S 13
+D 20
+A 12
+#8223
+engineer loser nerd~
+{BO,G}THE HUGE NERD{bo}~
+{BO,G}What a Loser!!!  {bo,G}This engineer is the biggest loser you have ever seen!{bo}
+~
+   
+   Your presence aggitates him and he begins to pick at the tape holding his
+glasses together above his nose.   Nyeh!
+
+~
+685768802 268698280 0 S
+57 -80 -5 1d0+15000 10d10+500
+5000000 1000
+8 8 0
+S 144703496
+R 8388608
+D 20
+A 12
+#8224
+robot attendant operator~
+{BO,bo,Y}The {BO}Robotic {bo,Y}Elevator {BO}Operator{bo}~
+{bo,Y}It asks you "Where to?" before realizing you don't have access to be here.{bo}
+~
+
+   {bo,Y}This is a weird looking robot.  It acts as an elevator operator, but it
+looks as if it would be extremely fierce in a battle!{bo}
+
+~
+562038883 1076101802 -1000 S
+57 -80 -5 0d0+15000 15d20+25
+1 2000000
+8 8 0
+S 33685504
+R 16
+D 20
+A 12
+#8225
+powerful complete cyborg~
+{BO,bo,C}The {BO}POWERFUL CYBORG{bo}~
+{bo,C}It Looks Like It's Human, Except For the {R,BO}EYES{bo,C} and the {R,BO}HIDEOUS STRENGTH!{bo}
+~
+
+   {bo,C}He is tough!  Even looking at him makes you feel like you are already
+DEAD!
+{bo}
+~
+1237352548 386138812 0 S
+57 -130 -14 20000d3+100 25d25+275
+0 1000
+8 8 0
+S 77071296
+R 80
+D 10
+A 12
+#8226
+nano robot nanotechnological~
+{BO,C}A Nano-technological Nightmare{bo}~
+{bo,C}A microscopic robotic organism flies through the air, searching for a host to destroy.{bo}
+~
+
+{bo,R}It's tiny...and LETHAL!{bo}
+
+~
+3229614112 286556712 0 C 4
+57 10 5 0d0+1 0d0+5000
+0 1000
+8 8 0
+R 16
+D 20
+A 1
+#8227
+robot elite destroyer~
+{BO,bo,C}D{BO}e{W}s{bo,W}t{C}r{BO}o{W}y{bo,W}e{C}r {BO}C{W}l{bo,W}a{C}s{BO}s {W}R{bo,W}o{C}b{BO}o{W}t{bo}~
+{bo,C}A {BO}M{W}a{bo,W}s{C}s{BO}i{W}v{bo,W}e{C} H{BO}u{W}n{bo,W}k {C}o{BO}f{W} S{bo,W}t{C}e{BO}e{W}l{bo,W} i{C}s {BO}g{W}l{bo,W}a{C}r{BO}i{W}n{bo,W}g{C} a{BO}t {W}y{bo,W}o{C}u{BO}!{bo}
+~
+   
+   {bo,C}This is the king of all security robots.  It's scanning eyes detect
+you in an instant and you are as good as dead.  It's claws quickly
+fly towards your head and you have nothing to do.{bo}
+   
+~
+599793698 1074004776 -1000 S
+55 -100 -6 12000d1+0 0d0+400
+1 2000000
+8 8 1
+S 1073872896
+R 16
+D 20
+A 12
+#8228
+lab tech mechanical technician~
+{BO,bo,C}The Mechanical Lab Technician{bo}~
+{bo,W}A {C}Powerful Robot{W} is here moving cages of {R,BO}Evil Creations{bo,W} around...{bo}
+~
+   
+   {bo,C}This robot is large and strong, but fortunately not as vicious as the rest.
+It focuses on the care of the beasts spawned in the lab, and the protection of the
+human lab technicians who spawned them.{bo}
+
+~
+268435526 1107558952 0 S
+57 -80 -5 1d0+3000 10d9+100
+0 1000
+8 8 0
+S 269056
+R 28
+D 20
+A 12
+#8229
+sara~
+{BO,M}Sara{bo}~
+{BO,M}Sara {bo,M}is here {BO}giggling{bo,M} about something or other and {BO}holding {bo,M}something {BO}strong{bo,M}.{bo}
+~
+Sara is a very mean mob.. you prolly don't want to get hit by her..
+luckily she's a bit drunk and doesn't hit well...
+~
+2097222 1073742464 250 C 4
+60 -230 -19 1d1+9000 40d40+100
+300000 1000
+8 8 0
+S 18886976
+R 16
+D 20
+A 12
+$~

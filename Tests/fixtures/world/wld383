@@ -1,0 +1,1731 @@
+#38300
+{BLU,BO}The Caribbean Sea{blu,bo}~
+{BLU,BO}
+  The currently calm waters of the Caribbean Sea stretch
+  for miles all around, dotted here and there by tropical
+  islands lying far in the distance.  The sounds of combat
+  on the high seas can be heard in the distance to the
+  north, cannonfire echoing over the ocean waves.
+{blu,bo}
+~
+383 32768 7
+D0
+~
+~
+0 -1 38301
+Z3
+C2
+S
+#38301
+{BLU,BO}The Caribbean Sea{blu,bo}~
+{BLU,BO}
+  All around here, the sights and sounds of combat on
+  the high seas fill the air.  A large galleon
+  exchanges cannonfire with an island fort nearby,
+  while rowboats full of undead zombie pirates race
+  towards the shore.  As you swim alongside the
+  galleon, you notice a port-hole big enough to crawl
+  through, used for firing the cannon out of over-
+  head.
+{blu,bo}
+~
+383 32768 7
+D0
+~
+~
+0 -1 38303
+D2
+~
+~
+0 -1 38300
+D4
+~
+~
+0 -1 38302
+Z3
+C2
+S
+#38302
+{Y}Inside LeChuck's Pirate Ship{y}~
+{Y}
+  The inside of the ships gunbay is dark and cramped.
+  A small wimpy looking pirate sits here firing the
+  cannon randomly, yelling pirate phrases at the top
+  of his lungs.  Cannon balls fill one corner of the
+  room, while a grate overhead lets light from above
+  deck in.  The only exit appears to be the way you
+  came in.
+{y}
+~
+383 8 1
+D5
+~
+~
+0 -1 38301
+Z3
+C2
+S
+#38303
+{BLU,BO}The Caribbean Sea{blu,bo}~
+{BLU,BO}
+  Closer and closer to the shore, the waves become
+  more turbulent.  Rowboats full of undead zombie
+  pirates race towards the shore, while cannonfire
+  from the fort hits the water nearby frequently,
+  occasionaly capsizing a rowboat.
+{blu,bo}
+~
+383 32768 7
+D0
+~
+~
+0 -1 38304
+D2
+~
+~
+0 -1 38301
+Z3
+C2
+S
+#38304
+{BLU,BO}The Caribbean Sea{blu,bo}~
+{BLU,BO}
+  Closer and closer to the shore, the waves become
+  more turbulent.  Rowboats full of undead zombie
+  pirates race towards the shore, while cannonfire
+  from the fort hits the water nearby frequently,
+  occasionaly capsizing a rowboat.
+{blu,bo}
+~
+383 32768 7
+D2
+~
+~
+0 -1 38303
+D3
+~
+~
+0 -1 38305
+Z3
+C2
+S
+#38305
+{BLU,BO}The Caribbean Sea{blu,bo}~
+{BLU,BO}
+  As the waves of the Caribbean Sea flow into the
+  island cove, wreckage from sunken pirate rowboats
+  flows slowly towards the shore.  To the west, the
+  shores of the nearby island stretch along the
+  length of the cove.  A huge fort overlooking the
+  ocean lies to the north, used by the locals to
+  defend the island from invaders.
+{b,bo}
+~
+383 32768 7
+D1
+~
+~
+0 -1 38304
+D3
+~
+~
+0 -1 38306
+Z3
+C2
+S
+#38306
+{Y,BO}Plunder Island - Beach{y,bo}~
+{Y}
+  The sandy beach of Plunder Island appears littered
+  with wreckage from the attack.  The bridge leading
+  south to the fort looks like it was destroyed in
+  the fighting, blocking that path.  A huge {y}{W,BO}welcome
+  sign{w,bo}{Y} to the north greets visitors to the island.
+  The path also continues west, deep into the thick
+  tropical jungle.
+{y}
+~
+383 0 2
+D0
+~
+~
+0 -1 38309
+D1
+~
+~
+0 -1 38305
+D3
+~
+~
+0 -1 38307
+E
+welcome sign~
+{W,BO}
+  Welcome to Puerto Pollo, from the Plunder
+  Island Poultry Brotherhood.
+{w,bo}
+~
+Z3
+C2
+S
+#38307
+{B,BO}Damp Swamp{b,bo}~
+{B,BO}
+  This narrow trail leads through the swamp into{b,bo}{G}
+  a bog.  A huge tree stands in the center of the{g}{B,BO}
+  swamp, supporting a capsized pirate ship that{b,bo}{G}
+  must have landed here in a hurricane.  The path{g}{B,BO}
+  leading up to the ship is lit with voodoo skull{b,bo}{G}
+  candles, while mysterious voodoo markings can{g}{B,BO}
+  be seen etches on the trees.
+{b,bo}
+~
+383 32800 6
+D1
+~
+~
+0 -1 38306
+D4
+~
+~
+0 -1 38308
+Z7
+C2
+S
+#38308
+{M}Voodoo Lady's Shop{m}~
+{M}
+  The inside of the ship appears to be made into a living
+  room of some sort, well lit by candles placed on the
+  wheel of the ship hanging from the ceiling.  A table and
+  a stool sit at one end of the room, across from a large
+  hole in the floor.  A voodoo mask and a {M,BO}gumball machine{m,bo}{M}
+  sit on the table, while miniature paper voodoo dolls lie
+  scattered on the floor.  A large {m}{G}green stuffed alligator{g}{M}
+  stands sentry here, with his long tongue hanging out.
+{m}
+~
+383 8 0
+D5
+~
+~
+0 -1 38307
+E
+green stuffed alligator~
+{G,BO}
+  This huge stuffed alligator sits sentry over the room,
+  with his long tongue hanging out his jaw.  As you gaze
+  at the alligator, you notice a note hanging from tip
+  of the tongue.  As you examine the note, you notice
+  that the tongue is still moist...  The note reads
+  "{Y,BO}Pull Me{y,bo}{G,BO}".
+{g,bo}
+~
+Z-1
+C2
+S
+#38309
+{Y,BO}Plunder Island - Beach{y,bo}~
+{Y}
+  The beach path leading up to the port city of
+  Puerto Pollo is littered with debris from the
+  assault on the island.  Feral Chickens roam freely
+  here for some reason, they can be seen everywhere.
+{y}
+~
+383 0 2
+D0
+~
+~
+0 -1 38310
+D2
+~
+~
+0 -1 38306
+Z3
+C2
+S
+#38310
+{Y,BO}Plunder Island - Beach{y,bo}~
+{Y}
+  The beach path leading up to the port city of
+  Puerto Pollo is littered with debris from the
+  assault on the island.  Feral Chickens roam freely
+  here for some reason, they can be seen everywhere.
+{y}
+~
+383 0 2
+D2
+~
+~
+0 -1 38309
+D4
+~
+~
+0 -1 38311
+Z3
+C2
+S
+#38311
+{W,BO}Puerto Pollo{w,bo}~
+{W,BO}
+  The streets of Puerto Pollo overlook a beautiful
+  Caribbean cove, the ocean is always within sight
+  here.  A lemonade stand has been set up by a kid
+  in front of his home here.  Big signs all around
+  the stand advertise nickle lemonade and their
+  "bottomless mug policy".  The street continues
+  north towards the town square.
+{w,bo}
+~
+383 0 1
+D0
+~
+~
+0 -1 38312
+D5
+~
+~
+0 -1 38310
+Z3
+C2
+S
+#38312
+{W,BO}Puerto Pollo{w,bo}~
+{W,BO}
+  The street bends gradually to the east here,
+  leading around a chicken restraunt.  Chicken
+  coops litter the sides of the street, but
+  they all appear to be mysteriously empty.  A
+  trail continues north deeper into the island,
+  but thick undergrowth blocks the way, if only
+  there were a way to hack it down...
+{w,bo}
+~
+383 0 1
+D0
+~
+undergrowth judge ipecac~
+1 -1 38325
+D1
+~
+~
+0 -1 38313
+D2
+~
+~
+0 -1 38311
+Z3
+C2
+S
+#38313
+{W,BO}Puerto Pollo{w,bo}~
+{W,BO}
+  Empty chicken coops litter the sides of the road
+  as the street continues east to town square.  An
+  old crows nest stands here, painted over to serve
+  as a sign for Blondbeard's Chicken Shoppe.  The
+  doors remains open, letting the smell of fried
+  chicken fill the outside air.
+{w,bo}
+~
+383 0 1
+D0
+~
+door~
+1 -1 38314
+D1
+~
+~
+0 -1 38315
+D3
+~
+~
+0 -1 38312
+Z3
+C2
+S
+#38314
+{Y}Blondbeard's Chicken Shoppe{y}~
+{Y}
+  This inside of the chicken shop is quiet and
+  quite spacious.  Captain Blondbeard stands
+  behind a podium here, checking reservations
+  in his book behind the counter.  A really big
+  barrel of biscuits sits in the corner of the
+  shop, below a ledge that proudly displays two
+  ships in a bottle.  A table seats one
+  suspiciously quiet patron, who appears to be
+  making little progress on the gross, sweaty
+  fried chicken on his plate.
+{y}
+~
+383 8 0
+D2
+~
+door~
+1 -1 38313
+Z-1
+C2
+S
+#38315
+{W,BO}Puerto Pollo - Town Square{w,bo}~
+{W,BO}
+  The town square of Puerto Pollo is large and
+  spacious.  It appears clean and well main-
+  tained, and offers a beautiful view of the
+  cove this town was built around.  A fountain
+  sitting in the center of the square is large
+  and elaborate, a monument to some event long
+  past.  The theatre lies directly to the
+  north, while the streets of Puerto Pollo
+  continue east, west and down to the water.
+{w,bo}
+~
+383 0 1
+D0
+~
+~
+0 -1 38316
+D1
+~
+~
+0 -1 38318
+D3
+~
+~
+0 -1 38313
+D5
+~
+~
+0 -1 38319
+Z3
+C2
+S
+#38316
+{Y,BO}Theatre - Stage{y,bo}~
+{Y}
+  This stuffy, cramped theatre overlooks a shoddy,
+  poorly lit stage.  A pile of dirt and {y}{B,BO}tomb stone{b,bo}{Y}
+  lie underneath a poorly painted prop tree.  A
+  hideous looking pirate-actor stands on a prop-
+  ledge, mumbling lines from a scirpt he is
+  holding.
+{y}
+~
+383 8 1
+D0
+~
+~
+0 -1 38317
+D2
+~
+~
+0 -1 38315
+E
+tomb stone~
+{B,BO}
+    R. I. P.
+     YoRIK
+{b,bo}
+~
+Z-1
+C2
+S
+#38317
+{M}Theatre - Backstage{m}~
+{M}
+  The backstage of the theatre is lit only by a
+  candle sitting on the vanity here.  The room
+  is full of props of all sorts, ranging from
+  wigs to fake swords.  A pirate coat hangs off
+  a coat rack in the corner, and a well-worn
+  {R}travel trunk{r}{M} rests along the wall near the
+  door.
+{m}
+~
+383 8 1
+D2
+~
+~
+0 -1 38316
+E
+travel trunk~
+{R}
+  A big sticker on the side of the trunk appears
+  to be an advertisement for the "Goodsoup Family
+  Hotel" on {R,BO}Blood Island{r,bo}{R}.
+{r}
+~
+Z5
+C2
+S
+#38318
+{G}Puerto Pollo - Grassy Knoll{g}~
+{G,BO}
+  The grassy knoll overlooks the entire town of
+  Puerto Pollo.  A distant beach at the other end
+  of the bay appears long and sunny.  A patch of
+  grass here is marked and numbered with chalk,
+  apparently for a sport of some kind.  Two piles
+  of ten foot logs sit on both sides of the chalk
+  markings.
+{g,bo}
+~
+383 0 2
+D3
+~
+~
+0 -1 38315
+Z3
+C2
+S
+#38319
+{W,BO}Puerto Pollo - Docks{w,bo}~
+{BLU,BO}
+  As the paved streets of Puerto Pollo hit the
+  waterline, it bends and starts gently curving
+  around the buildings on the waterfront.  The
+  docks run all along the coast here, all
+  mysteriously empty.  A barber pole and a
+  {W,BO}large sign{w,bo}{BLU,BO} are attached to the building to
+  the north.  The street continues east along
+  the shore.
+{blu,bo}
+~
+383 0 1
+D0
+~
+door~
+1 -1 38320
+D1
+~
+~
+0 -1 38321
+D4
+~
+~
+0 -1 38315
+E
+large sign~
+{W,BO}
+  Welcome to the Barbery Coast!
+{w,bo}
+~
+Z3
+C2
+S
+#38320
+{BLU,BO}Barbery Coast{blu,bo}~
+{C}
+  The walls of this quaint little barber shop are
+  covered with portaits of previous satisfied
+  patrons.  A barber chair sits at one end of the
+  room, in front of a table with a book on hair-
+  styling on it.  The exit appears to be the way
+  you came in.
+{c}
+~
+383 8 1
+D2
+~
+door~
+1 -1 38319
+Z-1
+C2
+S
+#38321
+{Y}Plunder Island - Path{y}~
+{G}
+  Exiting the town, the path continues along
+  the shore of Plunder island, bending gently
+  along the contours of the shore.  A gated
+  beach along the bay lies to the south, with
+  a cool cabana serving as the entrance.
+{g}
+~
+383 0 2
+D2
+~
+~
+0 -1 38322
+D3
+~
+~
+0 -1 38319
+Z3
+C2
+S
+#38322
+{Y}Brimstone Beach - Cabana{y}~
+{Y}
+  This little shack serves as the entrance to the
+  exclusive Brimstone Beach.  The cabana serves their
+  members with a large supply of clean, fluffy towels,
+  ice water, and deep fried french fries and hotdogs.
+  A cabana boy sits behind the counter making sure to
+  check each membership card before allowing anyone
+  to take advantage of the club.
+{y}
+~
+383 0 1
+D0
+~
+~
+0 -1 38321
+D2
+~
+~
+0 -1 38323
+Z-1
+C2
+S
+#38323
+{R,BO}Brimstone Beach{r,bo}~
+{Y,BO}
+  Wow!  This beach is {R,BO}HOT{Y,BO}!  The sand is so hot, it
+  starts to burn a whole in your shoes!  Better
+  reach some shade soon, or you're gonna fry out
+  here.
+{y,bo}
+~
+383 80 2
+D0
+~
+~
+0 -1 38322
+D2
+~
+~
+0 -1 38324
+Z2
+C2
+S
+#38324
+{R,BO}Brimstone Beach{r,bo}~
+{Y,BO}
+  The south end of the beach is slightly shaded by
+  a palm tree, and occupied by a lone sunbather.
+  This guy is pale, really really pale.  He sits
+  idly here all day, soaking up the sun in an
+  attempt to catch a tan.
+{y,bo}
+~
+383 64 2
+D0
+~
+~
+0 -1 38323
+Z3
+C2
+S
+#38325
+{G}Plunder Island - Jungle{g}~
+{G}
+  This narrow jungle path leads deep into the
+  heart of the island.  Numerous {g}{Y}warning signs{y}{G}
+  cover the sides of the path, advising tourists
+  of danger and to head back to town.  The trail
+  continues west to the other end of the island.
+{g}
+~
+383 0 3
+D2
+~
+undergrowth judge ipecac~
+1 -1 38312
+D3
+~
+~
+0 -1 38326
+Z4
+C2
+S
+#38326
+{G}Plunder Island - Jungle{g}~
+{G}
+  As the trail continues, it bends around a cliff
+  overlooking a dark cove.  A ship appears to have
+  set anchor there, hiding in the dark and little-
+  known Danjer cove.  A large {g}{Y,BO}yellow sign{y,bo}{G} at the
+  side of the trail warns of "Snake Crossing".  The
+  path continues north towards the cove.  Down the
+  sides of the cliff leads below the canopy, jumping
+  blindly into unknown danger is not advisable.
+{g}
+~
+383 0 3
+D0
+~
+~
+0 -1 38328
+D1
+~
+~
+0 -1 38325
+D5
+~
+~
+0 -1 38327
+E
+yellow sign~
+{Y,BO}   /\
+  /{y,bo}{G,BO}__{g,bo}{Y,BO}\
+ /{y,bo}{G,BO}/  \{g,bo}{Y,BO}\
+/ {y,bo}{G,BO}\__ '{g,bo}{Y,BO}\
+\{y,bo}{G,BO},   \ {g,bo}{Y,BO}/
+ \{y,bo}{G,BO}\__/{g,bo}{Y,BO}/
+  \  /
+  _\/_
+ |{y,bo}{B,BO}XING{b,bo}{Y,BO}|
+  ^^^^
+{y,bo}
+~
+Z4
+C2
+S
+#38327
+{Y}Quicksand!{y}~
+{Y}
+  Those unfortunate travellers that find themselves
+  here and not able to fly start sinking slowly into
+  the quick sands.  The more you struggle, the faster
+  the sands pull you in.
+{y}
+~
+383 16777218 9
+D0
+~
+~
+0 -1 38328
+Z3
+C2
+S
+#38328
+{BLU}Plunder Island - Danjer Cove{blu}~
+{BLU}
+  This narrow trail runs along the coast of the
+  dark and sheltered Danjer Cove.  A waterfall
+  pours into the bay to the north, while the
+  waves splash gently up against the shore.  The
+  path continues west.
+{blu}
+~
+383 0 2
+D2
+~
+~
+0 -1 38326
+D3
+~
+~
+0 -1 38329
+Z5
+C2
+S
+#38329
+{BLU}Plunder Island - Danjer Cove{blu}~
+{BLU}
+  From this part of the beach, a pirate ship docked
+  in the cove is clearly visible.  A rowboat sits
+  docked on the shore, while the gentle bay waters
+  spash up against the beach.
+{blu}
+~
+383 0 2
+D0
+~
+~
+0 -1 38330
+D1
+~
+~
+0 -1 38328
+Z5
+C2
+S
+#38330
+{BLU,BO}The Caribbean Sea - Danjer Bay{blu,bo}~
+{BLU,BO}
+  As you swim up alongside the pirate ship anchored
+  in the bay, you notice a plank hanging off the
+  side of the ship.  These Caribbean waters are
+  well-known for being shark infested, getting out
+  of the water might not be such a bad idea.
+{blu,bo}
+~
+383 32768 7
+D0
+~
+~
+0 -1 38334
+D2
+~
+~
+0 -1 38329
+D4
+~
+~
+0 -1 38331
+Z4
+C2
+S
+#38331
+{Y}The Plank{y}~
+{Y}
+  This narrow plank hangs over the side of the ship,
+  used for punishment of captives and traitors on the
+  high seas by savage pirates.  The plank overlooks
+  the shark infested waters of the bay, not the most
+  pleasant place to go for a swim.
+{y}
+~
+383 4 1
+D1
+~
+~
+0 -1 38332
+D5
+~
+~
+0 -1 38330
+Z3
+C2
+S
+#38332
+{G}The Sea Cucumber - Deck{g}~
+{G}
+  The deck of the Sea Cucumber clean, but rather cramped.
+  A huge barrel of tar sits against the cabin wall, to the
+  south.  {g}{Y,BO}Banana peels{y,bo}{G} hang from the rigging, apparently
+  someone has been doing some monkeying around here.
+{g}
+~
+383 0 1
+D2
+~
+door cabin~
+1 -1 38333
+D3
+~
+~
+0 -1 38331
+D4
+~
+~
+0 -1 38398
+Z3
+C2
+S
+#38333
+{M}The Sea Cucumber - Cabin{m}~
+{M}
+  The Captain's cabin of the Sea Cucumber is small and
+  somewhat cramped.  A large table sitting in the middle
+  of the room is covered in food from the local islands.
+  Mashed potatoes, corn-on-the-cob, buttery biscuits,
+  and an abundance of bananas are amoung the many
+  different types of food prepared for the Captain.  A
+  tire swing sits above a bed of hay in the corner by
+  the window.  The Captain of this ship must be a very
+  strange man...
+{m}
+~
+383 8 1
+D0
+~
+door cabin~
+1 -1 38332
+Z-1
+C2
+S
+#38334
+{BLU,BO}The Caribbean Sea{blu,bo}~
+{BLU,BO}
+  These shallow waters inbetween the islands of the
+  Caribbean are well-known for being dangerous and shark
+  infested.  Best to make haste swimming through here,
+  if you ever wish to reach the other side.
+{blu,bo}
+~
+383 32768 7
+D0
+~
+~
+0 -1 38335
+D2
+~
+~
+0 -1 38330
+Z3
+C2
+S
+#38335
+{BLU,BO}The Caribbean Sea{blu,bo}~
+{BLU,BO}
+  These shallow waters inbetween the islands of the
+  Caribbean are well-known for being dangerous and shark
+  infested.  Best to make haste swimming through here,
+  if you ever wish to reach the other side.
+{blu,bo}
+~
+383 32768 7
+D2
+~
+~
+0 -1 38334
+D3
+~
+~
+0 -1 38336
+Z3
+C2
+S
+#38336
+{B,BO}Blood Island - Rocky Shore{b,bo}~
+{B,BO}
+  The east shore of Blood Island is covered in large,
+  sharp rocks.  Pieces of driftwood of all sizes litter
+  to rocky beach, for many ships have met an untimely end
+  here with the lighthouse not operational.  A small path
+  leads west into a grassy clearing.
+{b,bo}
+~
+383 0 4
+D1
+~
+~
+0 -1 38335
+D3
+~
+~
+0 -1 38337
+Z4
+C2
+S
+#38337
+{G}Blood Island - Clearing{g}~
+{G}
+  This grassy clearing overlooks the rocky coastline of
+  Blood Island, with a clear view of the abandoned
+  lighthouse.  A swarm of fireflies are gathered above
+  a stump sitting in the middle of the clearing,
+  dimly illuminating the surrounding area.  The trail
+  continues west to another shore.
+{g}
+~
+383 0 2
+D1
+~
+~
+0 -1 38336
+D3
+~
+~
+0 -1 38338
+Z4
+C2
+S
+#38338
+{BLU}Blood Island - Shore{blu}~
+{W}
+  The rocky shore of Blood Island is covered with a
+  thick coat of fog rolling in from the Caribbean Sea
+  to the south.  A weathered {Y}sign{W} along the shore
+  advertises a Ferry service.  The path continues to
+  the west.
+{w}
+~
+383 0 1
+D1
+~
+~
+0 -1 38337
+D2
+~
+~
+0 -1 38364
+D3
+~
+~
+0 -1 38339
+E
+sign~
+{Y}
+  Lost Welshman Ferry Line:
+  Haunted sea cruises and whale-watching excursions daily.
+{y}
+~
+Z4
+C2
+S
+#38339
+{BLU}Blood Island - Shore{blu}~
+{W}
+  A thick coat of fog rolling in from the Caribbean Sea
+  to the south covers the shoreline here.  The path you
+  have been travelling along forks into two different
+  directions here, to the north and to the south.  The
+  path south follows the contours of the shore deeper
+  into the fog bank.  The path north climbs the shore
+  and leads to the interior of the island.
+{w}
+~
+383 0 4
+D0
+~
+~
+0 -1 38342
+D1
+~
+~
+0 -1 38338
+D2
+~
+~
+0 -1 38340
+Z4
+C2
+S
+#38340
+{BLU}Blood Island - Below the Lighthouse{blu}~
+~
+383 0 4
+D0
+~
+~
+0 -1 38339
+D4
+~
+~
+0 -1 38341
+Z4
+C2
+S
+#38341
+{Y,BO}The Lighthouse{y,bo}~
+~
+383 8 1
+D5
+~
+~
+0 -1 38340
+Z-1
+C1
+S
+#38342
+{BLU}Blood Island - Path{blu}~
+~
+383 0 2
+D0
+~
+~
+0 -1 38343
+D2
+~
+~
+0 -1 38339
+D3
+~
+~
+0 -1 38350
+Z4
+C-1
+S
+#38343
+{Y}Hotel - Patio{y}~
+~
+383 0 1
+D0
+~
+~
+0 -1 38344
+D2
+~
+~
+0 -1 38342
+Z-1
+C-1
+S
+#38344
+{Y}Hotel - Bar{y}~
+~
+383 8 1
+D1
+~
+door~
+1 -1 38345
+D2
+~
+~
+0 -1 38343
+D4
+~
+~
+0 -1 38346
+Z-1
+C-1
+S
+#38345
+{B,BO}Hotel - Storage Room{b,bo}~
+~
+383 9 1
+D3
+~
+door~
+1 -1 38344
+Z6
+C-1
+S
+#38346
+{Y}Hotel - Hallway{y}~
+~
+383 8 1
+D0
+~
+door~
+1 -1 38347
+D1
+~
+~
+0 -1 38348
+D5
+~
+~
+0 -1 38344
+Z-1
+C-1
+S
+#38347
+{W,BO}Hotel - Linin Closet{w,bo}~
+~
+383 8 1
+D2
+~
+door~
+1 -1 38346
+Z-1
+C-1
+S
+#38348
+{Y}Hotel - Hallway{y}~
+~
+383 8 1
+D0
+~
+door~
+1 -1 38349
+D3
+~
+~
+0 -1 38346
+Z-1
+C-1
+S
+#38349
+{B,BO}Hotel Room{b,bo}~
+~
+383 9 1
+D2
+~
+door~
+1 -1 38348
+Z5
+C-1
+S
+#38350
+{BLU}Blood Island - Path{blu}~
+~
+383 0 2
+D0
+~
+~
+0 -1 38356
+D1
+~
+~
+0 -1 38342
+D3
+~
+~
+0 -1 38351
+Z4
+C-1
+S
+#38351
+{B,BO}Cemetary - Path{b,bo}~
+~
+383 0 1
+D0
+~
+crypt~
+1 -1 38353
+D1
+~
+~
+0 -1 38350
+D2
+~
+crypt door~
+1 -1 38352
+D3
+~
+~
+0 -1 38354
+Z5
+C-1
+S
+#38352
+{BLINK}{R,BO}M{Y,BO}U{R,BO}T{Y,BO}U{R,BO}A{Y,BO}L {R,BO}O{Y,BO}F {R,BO}S{Y,BO}T{R,BO}A{Y,BO}N{y,bo}{blink}~
+~
+383 9 1
+D0
+~
+crypt door~
+1 -1 38351
+Z5
+C-1
+S
+#38353
+{B,BO}Cemetary - Goodsoup Family Crypt{b,bo}~
+~
+383 9 1
+D2
+~
+crypt~
+1 -1 38351
+D3
+~
+~
+0 -1 38355
+Z6
+C-1
+S
+#38354
+{B,BO}Cemetary - Gravedigger's Shop{b,bo}~
+~
+383 0 1
+D0
+~
+door~
+1 -1 38355
+D1
+~
+~
+0 -1 38351
+Z5
+C-1
+S
+#38355
+{Y}Cemetary - Gravedigger's Home{y}~
+~
+383 8 1
+D1
+~
+~
+0 -1 38353
+D2
+~
+door~
+1 -1 38354
+Z-1
+C-1
+S
+#38356
+{G}Blood Island - Path{g}~
+~
+383 0 3
+D2
+~
+~
+0 -1 38350
+D3
+~
+~
+0 -1 38357
+Z4
+C-1
+S
+#38357
+{G}Blood Island - Path{g}~
+~
+383 0 3
+D0
+~
+~
+0 -1 38360
+D1
+~
+~
+0 -1 38356
+D3
+~
+~
+0 -1 38358
+Z4
+C-1
+S
+#38358
+{G}Blood Island - Path{g}~
+~
+383 0 3
+D1
+~
+~
+0 -1 38357
+D3
+~
+~
+0 -1 38359
+Z4
+C-1
+S
+#38359
+{BLU}Blood Island - Windmill{blu}~
+~
+383 0 2
+D1
+~
+~
+0 -1 38358
+Z4
+C-1
+S
+#38360
+{G}Blood Island - Path{g}~
+~
+383 0 3
+D0
+~
+~
+0 -1 38361
+D2
+~
+~
+0 -1 38357
+Z4
+C-1
+S
+#38361
+{Y}Village{y}~
+~
+383 0 1
+D0
+~
+~
+0 -1 38362
+D2
+~
+~
+0 -1 38360
+Z4
+C-1
+S
+#38362
+{Y}Path up to the Volcano{y}~
+~
+383 16 4
+D2
+~
+~
+0 -1 38361
+D4
+~
+~
+0 -1 38363
+Z2
+C-1
+S
+#38363
+{Y,BO}Overlooking the {R,BO}Volcano{r,bo}~
+~
+383 16 1
+D5
+~
+~
+0 -1 38362
+Z1
+C-1
+S
+#38364
+{BLU,BO}The Caribbean Sea{blu,bo}~
+{W}
+  A thick coat of fog obscures all sight around you
+  beyond a few feet.  A strong Caribbean tradewind
+  blows all by the hardiest vessels invariably north.
+{w}
+~
+383 32768 7
+D0
+~
+~
+0 -1 38338
+D2
+~
+~
+0 -1 38365
+Z4
+C2
+S
+#38365
+{BLU,BO}The Caribbean Sea{blu,bo}~
+~
+383 32768 7
+D0
+~
+~
+0 -1 38364
+D3
+~
+~
+0 -1 38366
+Z4
+C2
+S
+#38366
+{BLU,BO}The Caribbean Sea{blu,bo}~
+~
+383 32768 7
+D1
+~
+~
+0 -1 38365
+D3
+~
+~
+0 -1 38367
+Z4
+C-1
+S
+#38367
+{BLU,BO}The Caribbean Sea{blu,bo}~
+~
+383 32768 7
+D1
+~
+~
+0 -1 38366
+D3
+~
+~
+0 -1 38368
+Z4
+C-1
+S
+#38368
+{BLU,BO}The Caribbean Sea{blu,bo}~
+~
+383 32768 7
+D1
+~
+~
+0 -1 38367
+D2
+~
+~
+0 -1 38369
+Z4
+C-1
+S
+#38369
+{Y,BO}Monkey Island - Carnival of the Damned{y,bo}~
+~
+383 0 1
+D0
+~
+~
+0 -1 38368
+D2
+~
+~
+0 -1 38370
+Z-1
+C-1
+S
+#38370
+{Y,BO}Monkey Island - Carnival of the Damned{y,bo}~
+~
+383 0 1
+D0
+~
+~
+0 -1 38369
+D1
+~
+~
+0 -1 38371
+Z-1
+C-1
+S
+#38371
+{Y,BO}Monkey Island - Carnival of the Damned{y,bo}~
+~
+383 0 1
+D1
+~
+~
+0 -1 38372
+D3
+~
+~
+0 -1 38370
+Z-1
+C-1
+S
+#38372
+{Y,BO}Monkey Island - Carnival of the Damned{y,bo}~
+~
+383 0 1
+D0
+~
+~
+0 -1 38373
+D3
+~
+~
+0 -1 38371
+Z-1
+C-1
+S
+#38373
+{R,BO}Monkey Island - Before the Rollarcoaster of DOOM{r,bo}~
+~
+383 0 1
+D0
+~
+~
+0 -1 38374
+D2
+~
+~
+0 -1 38372
+Z-1
+C-1
+S
+#38374
+{R,BO}The Rollarcoaster of DOOM{r,bo}~
+~
+383 1048576 1
+D1
+~
+~
+0 -1 38375
+Z-1
+C-1
+S
+#38375
+{R,BO}Rollarcoaster of DOOM{r,bo}~
+~
+383 8 1
+D3
+~
+~
+0 -1 38376
+Z-1
+C-1
+S
+#38376
+{R,BO}The Rollarcoaster of DOOM{r,bo}~
+~
+383 1048576 1
+D1
+~
+~
+0 -1 38377
+Z-1
+C-1
+S
+#38377
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+383 262144 1
+Z0
+C-1
+S
+#38378
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+383 262144 1
+Z0
+C-1
+S
+#38379
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+383 262144 1
+Z0
+C-1
+S
+#38380
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+383 262144 1
+Z0
+C-1
+S
+#38381
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+383 262144 1
+Z0
+C-1
+S
+#38382
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+383 262144 1
+Z0
+C-1
+S
+#38383
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+383 262144 1
+Z0
+C-1
+S
+#38384
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+383 262144 1
+Z0
+C-1
+S
+#38385
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+383 262144 1
+Z0
+C-1
+S
+#38386
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+383 262144 1
+Z0
+C-1
+S
+#38387
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+383 262144 1
+Z0
+C-1
+S
+#38388
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+383 262144 1
+Z0
+C-1
+S
+#38389
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+383 262144 1
+Z0
+C-1
+S
+#38390
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+383 262144 1
+Z0
+C-1
+S
+#38391
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+383 262144 1
+Z0
+C-1
+S
+#38392
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+383 262144 1
+Z0
+C-1
+S
+#38393
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+383 262144 1
+Z0
+C-1
+S
+#38394
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+383 262144 1
+Z0
+C-1
+S
+#38395
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+383 262144 1
+Z0
+C-1
+S
+#38396
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+383 262144 1
+Z0
+C-1
+S
+#38397
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+383 262144 1
+Z0
+C-1
+S
+#38398
+{G}The Sea Cucumber - {g}{Y}Mast{y}~
+
+  Mob only room.
+~
+383 0 1
+D5
+~
+~
+0 -1 38332
+X4096
+Z0
+C-1
+S
+#38399
+{G}Shoju's {g}{C}Office{c}~
+~
+383 8 0
+D2
+~
+~
+0 -1 35299
+Z-1
+C-1
+S
+$~

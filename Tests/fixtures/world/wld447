@@ -1,0 +1,134 @@
+#44700
+{W}Ash's Bedroom{w}~
+  
+  {W}You emerge from the computer terminal and realize you
+  are in a quaint little bedroom.  The walls are covered 
+  with Pokemon posters and charts.  Trophies and awards 
+  cover the shelves.
+                                    {Y,BO} :   -  {M}|---|{BLU} /\ 
+                                    {Y}||| ){R}0{Y}( {M}|{W}0  {M}|{BLU} \/ {C}
+                                 ----------------------{c}
+  
+~
+447 73736 1
+D5
+~
+~
+0 -1 44701
+Z-1
+C-1
+S
+#44701
+{W}The Ketchum House{w}~
+  
+  {C}It looks as if the stove was just on in the 
+  kitchen, but there is no one currently cooking.
+  I wonder if Mrs. Ketchum is out shopping or
+  on vacation?  Someone left the TV on, and its
+  showing a program about {Y}Pokemon{C}.{c}
+  
+~
+447 8 1
+D0
+~
+door~
+1 -1 44702
+D4
+~
+~
+0 -1 44700
+Z0
+C-1
+S
+#44702
+{W}The Porch{w}~
+  
+  {G}The porch looks out over quaint little {W}Pallet 
+  Town{G}.  Over to the left, Mrs. Ketchum's garden 
+  is overflowing with flowers and fruit.  There 
+  is something moving in the bushes nearby - do 
+  you think {M,BO}Mr. Mime {bo,G}might be hiding in there?
+  
+~
+447 0 1
+D0
+~
+~
+0 -1 44704
+D2
+~
+door~
+1 -1 44701
+Z-1
+C-1
+S
+#44703
+{R,BO}(={W}o{R}=) {Y}Pokemon Center {R}(={W}o{R}=){r,bo}~
+You are standing in nowhere !!!!
+~
+447 262152 1
+Z-1
+C-1
+S
+#44704
+{W}Pallet Town{w}~
+  
+  {W}You see the friendly neighbors watering their 
+  gardens all around.  Off to the north, you can see 
+  the towering windmills of Professor Oak's laboratory.{w}
+  
+~
+447 0 1
+D2
+~
+~
+0 -1 44702
+D3
+~
+~
+0 -1 44705
+Z0
+C-1
+S
+#44705
+{W}Pallet Town{w}~
+  
+  {W}You see the friendly neighbors watering their 
+  gardens all around.  To the northeast, you can see 
+  the towering windmills of Professor Oak's laboratory.{w}
+  
+~
+447 0 1
+D1
+~
+~
+0 -1 44704
+D2
+~
+~
+0 -1 44706
+Z0
+C-1
+S
+#44706
+{W}Pallet Town - The Docks{w}~
+  
+  {Y,BO}These docks are very old - you can hear them 
+  creaking with the tide.  You hear a ship in the 
+  distance and see someone parachuting onto the deck.
+  Looks like the parachute has a big letter '{R}R{Y}' on it!
+  
+  To the south, the jetty juts out into the sea.  There
+  is a sturdy gate preventing you from accessing the
+  boats that are docked there.{bo,y}
+  
+~
+447 262144 1
+D0
+~
+~
+0 -1 44705
+Z0
+C-1
+S
+$~

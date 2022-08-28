@@ -1,0 +1,2072 @@
+#15100
+{BL,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLUE}Council {BLACK,BOL}room{bl}~
+{BLU}This is the chamber where the {BLU,BOLD}QU{bold}{BLU} Council meet to discuss issues concerning 
+the Continuum. 
+
+~
+151 66572 1
+D2
+~
+Door~
+1 -1 15107
+Z-1
+C-1
+S
+#15101
+{BLUE}In a Halcyon Daze... {blu}~
+You pass through a cool light mist, and enter Halcyon's quarters.  The 
+room radiates green from the stained glass windows.  As you step, the cold 
+stone floor and walls send chills up and down your spine.  An open copy of 
+-The Existentialist- lies atop religious gobbledygook and spell theory.
+Bottles of herbs and chemicals sit on a slate bench in the far corner.  
+The sound of dripping water draws your attention toward an experiment of 
+some sort.
+~
+151 8 1
+D2
+~
+~
+0 -1 15169
+Z3
+C-1
+S
+#15102
+{BLU}link 15174 {blu}~
+You are in a small room buried far beneath the earth. It appears to be one
+of those small university type dorms. On the walls sit some shelves which 
+hold boring books. There are also numerous color posters of characters
+from those Japanese animation cartoons. There is a small table upon
+which sits a primitive calculating machine. Looking at the machine display,
+a piece of torn paper draws your attention.
+~
+151 8 0
+D0
+~
+~
+0 -1 15174
+E
+posters~
+WOW! These are really cool!
+Several of these posters are portraits of a really really pretty girl with
+big eyes. Hmm. They all seem to have big eyes.
+You wonder what series these came from.
+~
+E
+books~
+You see various books on Computer Science - yuck!
+One title in particular catches your eye - "The joys of mudding."
+Strange.
+~
+E
+paper~
+Written on the paper is:
+
+List of CD's for Moon to order -
+1) Gary Wright - "Dream Weaver"
+2) Toto - "Past To The Present"
+3) The Honeydrippers - "Sea Of Love"
+~
+Z3
+C-1
+S
+#15103
+{BL,BO}The{b} {R}+{BLU,BO}QU{b}{R}+ {BL,BO}Maze{b}~
+You are at the edge of the unknown QU Continuum where secrets of the QUasiverse
+are kept. Only the QU can pass this boundary.
+
+~
+151 1173 5
+D0
+~
+~
+0 -1 15103
+D1
+~
+~
+0 -1 15122
+D2
+~
+~
+0 -1 15121
+D3
+~
+~
+0 -1 15123
+D4
+~
+~
+0 -1 15124
+D5
+~
+~
+0 -1 4785
+Z1
+C-1
+S
+#15104
+{BLACK,BOLD}The {BLUE}QU{BLACK}-{bold}{BLUE}fountain{bl}~
+{BLUE}    In the center of this small room sits a fountain bubbling forth
+the divine liquid of jolt.  Be warned, this beverage is made of powerful
+things and it packs quite a kick!  The {RED}+{BLU,BOL}QU{bold}{RED}+ {BLUE}are a sober bunch, so it takes
+a strong brew to quench their neverending thirst.
+
+~
+151 66572 1
+D0
+(null)~
+~
+0 -1 15109
+D3
+(null)~
+~
+0 -1 15108
+D5
+~
+~
+0 -1 15166
+Z-1
+C-1
+S
+#15105
+{BLACK,BOLD}Club{bold} {BLU}Donation {BLACK,BOLD}Room{bl}~
+{BLUE}Equipment and Artifacts of significant usefulness to the {BOLD,BLU}QU{bold} {BLUE}are 
+donated to here. The {BLUE,BOLD}QU{bold}{BLU} are very particular about what is useful
+and what is trash. If you wish to donate something please be sure
+it is something worthy of resting in this chamber.
+
+~
+151 66572 1
+D1
+~
+~
+0 -1 15108
+Z-1
+C-1
+S
+#15106
+{BLU}Zane's Pad{blu}~
+The large room you are standing in is adorned with the sculptures of many 
+powerful beasts. Stone gargoyles, chimera, griffins, and basilisks guard 
+the abode of Zane, master warrior and mage. You feel small and unimportant
+in the presence of these majestic and powerful beasts. While imposing, this 
+room also looks very cozy and comfortable. A large ornate wooden chair sits 
+by a desk cluttered with scrolls and the huge, glowing monitor of a Power 
+Macintosh 9500.  Apparently Zane, like most QU, embrace the contradictory. 
+The ancient and the futuristic co-exist in this place in perfect harmony, 
+providing Zane the benefits of both.
+~
+151 8 1
+D0
+~
+~
+0 -1 15164
+Z-1
+C-1
+S
+#15107
+{BLACK,BOLD}The {bold}{BLU}Board Room {BLACK,BOLD}of the {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+{red}~
+{BLU}As the name implies, this is the room where the bulletin board of
+the {BLUE,BOL}QU{bold}{BLUE} is kept. On one wall you see the {YE}CODE {BLU}of the
+{BLUE,BOLD}QU {bold}{BLU}embossed in fine marble. On the other wall you see a golden
+plaque with the {WHITE}CONSTITUTION{BLU} of the {BLU,BOLD}QU{bold}{BLU} engraved on it.
+
+~
+151 66572 1
+D0
+~
+Door~
+1 -1 15100
+D1
+~
+~
+0 -1 15140
+D2
+~
+~
+0 -1 15175
+D3
+~
+~
+0 -1 15162
+D5
+~
+~
+0 -1 15108
+E
+code marble~
+The Code of the QU:
+1) All QU MUST at all times remember that this is a game that is meant to be
+enjoyed.
+2) All QU should, with the best of their abilities, make this game enjoyable
+for others.
+3) All QU must respect their fellow QU and their fellow mudders.
+4) All QU must respect the higher ranking QU.
+5) All QU should teach the lower ranking QU the ways of the continuum. 
+Co-operation makes us strong.
+6) Any QU failing to abide by this code may be subject to excommunication by
+the descision of the QU Council and/or the QU Prime.
+
+~
+E
+plaque constitution~
+The Constitution of the QU Continuum:
+1) All QU are bound by The Code of the QU.
+2) The QU shall follow the leadership and descisions of the QU Council and/or
+the QU Prime. Members of the QU Council may only be appointed by the QU Prime.
+3) Officers of the QU (club levels 6-9) may only be appointed by the QU Prime.
+4) All QU may nominate themselves or other QU for promotion within the ranks
+to be reviewed by the QU Council. Upon approval by the Council, the QU Prime
+shall grant the promotion. The QU Prime reserves the right to promote any QU
+as he/she sees as beneficial to the Continuum.
+5) The QU Council has the right and power to recruit new members as well as
+excommunicate members.
+6) All QU has the right to voice opinions and concerns about the Continuum
+without censorship. But vulgarity is not the way of the QU.
+7) The QU Prime has the right to veto the descisions of the QU Council if 
+he/she finds that the descision does not abide by the Code of the QU.
+
+~
+Z-1
+C-1
+S
+#15108
+{BL,BO}The {b}{R}+{BLU,BO}QU{b}{R}+ {BL,BO}Continuum{b}~
+{BLUE}You are standing in the {RED}QU {BLU}Continuum. This is where the {RED}QU{BLU} gather
+to rest, refresh or and plan their zone tactics. It is hard to 
+describe what you see because there are no words that you could
+use. It is strange, yet familiar. Spacious, yet confining. It is 
+a plane of existance you do not comprehend. As a member of {RED}QU {BLU}you
+will eventually learn the secrets of the Universe and of the {RED}QU{BLU}.
+
+~
+151 66572 1
+D0
+~
+~
+0 -1 15156
+D1
+(null)~
+~
+0 -1 15104
+D2
+~
+~
+0 -1 15196
+D3
+~
+~
+0 -1 15167
+D4
+~
+~
+0 -1 15107
+D5
+~
+~
+0 -1 15154
+Z-1
+C-1
+S
+#15109
+{BLACK,BOLD}The {BLUE}QU{BLACK}-{bold}{BLUE}Nexus{bl}~
+{BLUE}You stand within the QU Nexus. There are many glowing doorways
+leading to helpful locations in the city of Midgaard. Through the
+doorway to the {GR}North {BLU}you see the magic shop, to the 
+{GR}East{BLU} is the healer's shop, and to the {GR}West{BLU}
+is the bubbling fountain of chocolate milk at the Timelord's.
+As you glance {GR}Down{BLU} you see the citizens of Midgaard
+passing through Market Square.
+
+~
+151 66568 1
+D0
+~
+~
+0 -1 3012
+D1
+~
+~
+0 -1 3119
+D2
+(null)~
+~
+0 -1 15104
+D3
+~
+~
+0 -1 3156
+D4
+~
+~
+0 -1 49800
+D5
+~
+~
+0 -1 3014
+Z-1
+C-1
+S
+#15110
+{BL,BO}The {b}{R}+{BLU,BO}QU{b}{R}+ {BL,BO}Maze{b}~
+You are at the edge of the unknown QU Continuum where secrets of the QUasiverse
+are kept. Only the QU can pass this boundary.
+
+~
+151 1189 5
+D0
+~
+~
+0 -1 15180
+D1
+~
+~
+0 -1 15137
+D2
+~
+~
+0 -1 15134
+D3
+~
+~
+0 -1 15139
+D4
+~
+~
+0 -1 15103
+D5
+~
+~
+0 -1 15121
+Z1
+C-1
+S
+#15111
+{BLU}JAWS' Private Meeting Chambers{blue}~
+You step into a long room with a large table in the center. There is a large
+throne at one end of the table. You read the name 'JAWS' along the top of
+the throne. If you were not invited here it would be wise to leave now, 
+JAWS does not like surprise visits.
+The Throne of Jaws stands before you...
+~
+151 66572 1
+D5
+~
+~
+0 -1 15158
+E
+Throne of Jaws~
+  
+It's the throne     {green}  O  {CYAN}  OOOO {green}   O
+of Jaws...          {green} | |{CYAN}  OOOOOO {green} | |
+                    {green} | |{CYAN} OOOOOOOO {green}| |
+                    {green} | |{CYAN}OOOOOOOOOO{green}| |
+                    {green} | |{CYAN}OOOOOOO{BLACK}/|{CYAN}O{green}| |
+                    {green} | |{CYAN}OOOOO{BLACK}/  |{CYAN}O{green}| |
+                    {green} | |{CYAN}OOO{BLACK}/    |{CYAN}O{green}| |
+                    {green} | |{CYAN}O{BLACK}/______|{CYAN}O{green}| |
+                    {green} | |{BLUE}OOOOOOOOOO{green}| |
+                    {green} | |{BLUE}OOOOOOOOOO{green}| |
+                    {green} | |{BLUE}OOOOOOOOOO{green}| |
+                    {green} | ____________ |
+                    {green} |(____________)|
+                    {green} | |          | |
+                     | |          | |
+                     | |          | |
+                     | |          | |
+                     |_|          |_|
+~
+Z-1
+C-1
+S
+#15112
+{BLACK,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Continuum{bl}~
++QU+ {RED}+QU+{BLUE}+QU+{YELLOW}+QU+{RED,BOLD}+QU+ 
+~
+151 65548 1
+Z-1
+C-1
+S
+#15113
+{BL,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Map Room{bl}~
+{BLUE}Welcome to the {BLUE,BOLD}QU {bold}{BLU}Map Room. If you know of any directions you feel
+should be added please feel free to write them down.
+If you need the directions to a location and it is not posted on the
+board write down a request so someone may post them.
+
+~
+151 66564 1
+D5
+~
+~
+0 -1 15156
+Z-1
+C-1
+S
+#15120
+{BLACK,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Continuum{bl}~
+You are hungry. You are hungry. You are hungry. You are hungry.
+You are hungry. You are hungry. You are hungry. You are hungry.
+You are hungry. You are hungry. You are hungry. You are hungry.
+You are hungry. You are hungry. You are hungry. You are hungry.
+You are hungry. You are hungry. You are hungry. You are hungry.
+You are hungry. You are hungry. You are hungry. You are hungry.
+You are hungry. You are hungry. You are hungry. You are hungry.
+You are hungry. You are hungry. You are hungry. You are hungry.
+You are hungry. You are hungry. You are hungry. You are hungry.
+You are hungry. You are hungry. You are hungry. You are hungry.
+You are hungry. You are hungry. You are hungry. You are hungry.
+You are hungry. You are hungry. You are hungry. You are hungry.
+You are hungry. You are hungry. You are hungry. You are hungry.
+You are hungry. You are hungry. You are hungry. You are hungry.
+You are hungry. You are hungry. You are hungry. You are hungry.
+~
+151 4195361 0
+Z3
+C-1
+S
+#15121
+{BLACK,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Continuum{bl}~
+You are in the QU continuum. It's hard to describe what you see because there
+are no words that you could use. It's strange, yet familiar. Spacious, yet 
+confining. It's a plane of existence you do not yet comprehend.
+
+~
+151 1173 5
+D0
+~
+~
+0 -1 15103
+D1
+~
+~
+0 -1 15129
+D2
+~
+~
+0 -1 15122
+D3
+~
+~
+0 -1 15124
+D4
+~
+~
+0 -1 15123
+D5
+~
+~
+0 -1 15125
+Z1
+C-1
+S
+#15122
+{BLACK,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Continuum{bl}~
+You are in the QU continuum. It's hard to describe what you see because there
+are no words that you could use. It's strange, yet familiar. Spacious, yet 
+confining. It's a plane of existence you do not yet comprehend.
+
+~
+151 1041 5
+D0
+~
+~
+0 -1 15124
+D1
+~
+~
+0 -1 15121
+D2
+~
+~
+0 -1 15123
+D3
+~
+~
+0 -1 15133
+D4
+~
+~
+0 -1 15129
+D5
+~
+~
+0 -1 15134
+Z1
+C-1
+S
+#15123
+{BLACK,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Continuum{bl}~
+You are in the QU continuum. It's hard to describe what you see because there
+are no words that you could use. It's strange, yet familiar. Spacious, yet 
+confining. It's a plane of existence you do not yet comprehend.
+
+~
+151 1041 5
+D0
+~
+~
+0 -1 15123
+D1
+~
+~
+0 -1 15127
+D2
+~
+~
+0 -1 15135
+D3
+~
+~
+0 -1 15122
+D4
+~
+~
+0 -1 15134
+D5
+~
+~
+0 -1 15129
+Z1
+C-1
+S
+#15124
+{BLACK,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Continuum{bl}~
+You are in the QU continuum. It's hard to describe what you see because there
+are no words that you could use. It's strange, yet familiar. Spacious, yet 
+confining. It's a plane of existence you do not yet comprehend.
+
+~
+151 1041 5
+D0
+~
+~
+0 -1 15129
+D1
+~
+~
+0 -1 15148
+D2
+~
+~
+0 -1 15127
+D3
+~
+~
+0 -1 15134
+D4
+~
+~
+0 -1 15123
+D5
+~
+~
+0 -1 15135
+Z1
+C-1
+S
+#15125
+{BLACK,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Continuum{bl}~
+You are in the QU continuum. It's hard to describe what you see because there
+are no words that you could use. It's strange, yet familiar. Spacious, yet 
+confining. It's a plane of existence you do not yet comprehend.
+
+~
+151 1049617 5
+D4
+~
+~
+0 -1 15124
+D5
+~
+continuum~
+1 -1 15126
+Z1
+C-1
+S
+#15126
+{BLACK,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Continuum{bl}~
+You are in the QU continuum. It's hard to describe what you see because there
+are no words that you could use. It's strange, yet familiar. Spacious, yet 
+confining. It's a plane of existence you do not yet comprehend.
+
+~
+151 1041 5
+D0
+~
+~
+0 -1 15122
+D1
+~
+~
+0 -1 15127
+D2
+~
+~
+0 -1 15123
+D3
+~
+~
+0 -1 15148
+D4
+~
+~
+0 -1 15128
+D5
+~
+~
+0 -1 15129
+Z1
+C-1
+S
+#15127
+{BLACK,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Continuum{bl}~
+You are in the QU continuum. It's hard to describe what you see because there
+are no words that you could use. It's strange, yet familiar. Spacious, yet 
+confining. It's a plane of existence you do not yet comprehend.
+
+~
+151 1041 5
+D0
+~
+~
+0 -1 15124
+D1
+~
+~
+0 -1 15135
+D2
+~
+~
+0 -1 15134
+D3
+~
+~
+0 -1 15123
+D4
+~
+~
+0 -1 15123
+D5
+~
+~
+0 -1 15122
+Z1
+C-1
+S
+#15128
+{BLACK,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Continuum{bl}~
+You are in the QU continuum. It's hard to describe what you see because there
+are no words that you could use. It's strange, yet familiar. Spacious, yet 
+confining. It's a plane of existence you do not yet comprehend.
+
+~
+151 1049617 5
+D4
+~
+~
+0 -1 15130
+D5
+~
+continuum~
+1 -1 15131
+Z1
+C-1
+S
+#15129
+{BLACK,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Continuum{bl}~
+You are in the QU continuum. It's hard to describe what you see because there
+are no words that you could use. It's strange, yet familiar. Spacious, yet 
+confining. It's a plane of existence you do not yet comprehend.
+
+~
+151 1041 5
+D0
+~
+~
+0 -1 15135
+D1
+~
+~
+0 -1 15134
+D2
+~
+~
+0 -1 15124
+D3
+~
+~
+0 -1 15122
+D4
+~
+~
+0 -1 15130
+D5
+~
+~
+0 -1 15139
+Z1
+C-1
+S
+#15130
+{BLACK,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Continuum{bl}~
+You are in the QU continuum. It's hard to describe what you see because there
+are no words that you could use. It's strange, yet familiar. Spacious, yet 
+confining. It's a plane of existence you do not yet comprehend.
+
+~
+151 1041 5
+D0
+~
+~
+0 -1 15123
+D1
+~
+~
+0 -1 15127
+D2
+~
+~
+0 -1 15133
+D3
+~
+~
+0 -1 15139
+D4
+~
+~
+0 -1 15135
+D5
+~
+~
+0 -1 15148
+Z1
+C-1
+S
+#15131
+{BLACK,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Continuum{bl}~
+You are in the QU continuum. It's hard to describe what you see because there
+are no words that you could use. It's strange, yet familiar. Spacious, yet 
+confining. It's a plane of existence you do not yet comprehend.
+
+~
+151 1173 5
+D0
+~
+~
+0 -1 15132
+D1
+~
+~
+0 -1 15133
+D2
+~
+~
+0 -1 15122
+D3
+~
+~
+0 -1 15129
+D4
+~
+~
+0 -1 15124
+D5
+~
+~
+0 -1 15133
+Z1
+C-1
+S
+#15132
+{BLACK,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Continuum{bl}~
+You are in the QU continuum. It's hard to describe what you see because there
+are no words that you could use. It's strange, yet familiar. Spacious, yet 
+confining. It's a plane of existence you do not yet comprehend.
+
+~
+151 1041 5
+D0
+~
+~
+0 -1 15127
+D1
+~
+~
+0 -1 15124
+D2
+~
+~
+0 -1 15127
+D3
+~
+~
+0 -1 15136
+D4
+~
+~
+0 -1 15123
+D5
+~
+~
+0 -1 15148
+Z1
+C-1
+S
+#15133
+{BLACK,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Continuum{bl}~
+You are in the QU continuum. It's hard to describe what you see because there
+are no words that you could use. It's strange, yet familiar. Spacious, yet 
+confining. It's a plane of existence you do not yet comprehend.
+
+~
+151 1041 5
+D0
+~
+~
+0 -1 15134
+D1
+~
+~
+0 -1 15123
+D2
+~
+~
+0 -1 15124
+D3
+~
+~
+0 -1 15139
+D4
+~
+~
+0 -1 15135
+D5
+~
+~
+0 -1 15127
+Z1
+C-1
+S
+#15134
+{BLACK,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Continuum{bl}~
+You are in the QU continuum. It's hard to describe what you see because there
+are no words that you could use. It's strange, yet familiar. Spacious, yet 
+confining. It's a plane of existence you do not yet comprehend.
+
+~
+151 1173 5
+D0
+~
+~
+0 -1 15127
+D1
+~
+~
+0 -1 15124
+D2
+~
+~
+0 -1 15130
+D3
+~
+~
+0 -1 15123
+D4
+~
+~
+0 -1 15127
+D5
+~
+~
+0 -1 15148
+Z1
+C-1
+S
+#15135
+{BLACK,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Continuum{bl}~
+You are in the QU continuum. It's hard to describe what you see because there
+are no words that you could use. It's strange, yet familiar. Spacious, yet 
+confining. It's a plane of existence you do not yet comprehend.
+
+~
+151 1041 5
+D0
+~
+~
+0 -1 15130
+D1
+~
+~
+0 -1 15148
+D2
+~
+~
+0 -1 15139
+D3
+~
+~
+0 -1 15133
+D4
+~
+~
+0 -1 15124
+D5
+~
+~
+0 -1 15122
+Z1
+C-1
+S
+#15136
+{BLACK,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Continuum{bl}~
+You are in the QU continuum. It's hard to describe what you see because there
+are no words that you could use. It's strange, yet familiar. Spacious, yet 
+confining. It's a plane of existence you do not yet comprehend.
+
+~
+151 1049617 5
+D4
+~
+~
+0 -1 15139
+D5
+~
+continuum~
+1 -1 15138
+Z1
+C-1
+S
+#15137
+{BLACK,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Continuum{bl}~
+You are in the QU continuum. It's hard to describe what you see because there
+are no words that you could use. It's strange, yet familiar. Spacious, yet 
+confining. It's a plane of existence you do not yet comprehend.
+
+~
+151 1041 5
+D0
+~
+~
+0 -1 15135
+D1
+~
+~
+0 -1 15134
+D2
+~
+~
+0 -1 15139
+D3
+~
+~
+0 -1 15124
+D4
+~
+~
+0 -1 15123
+D5
+~
+~
+0 -1 15139
+Z1
+C-1
+S
+#15138
+{BLACK,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Continuum{bl}~
+You are in the QU continuum. It's hard to describe what you see because there
+are no words that you could use. It's strange, yet familiar. Spacious, yet 
+confining. It's a plane of existence you do not yet comprehend.
+
+~
+151 1041 5
+D0
+~
+~
+0 -1 15148
+D1
+~
+~
+0 -1 15134
+D2
+~
+~
+0 -1 15133
+D3
+~
+~
+0 -1 15129
+D4
+~
+~
+0 -1 15127
+D5
+~
+~
+0 -1 15141
+Z1
+C-1
+S
+#15139
+{BLACK,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Continuum{bl}~
+You are in the QU continuum. It's hard to describe what you see because there
+are no words that you could use. It's strange, yet familiar. Spacious, yet 
+confining. It's a plane of existence you do not yet comprehend.
+
+~
+151 1041 5
+D0
+~
+~
+0 -1 15122
+D1
+~
+~
+0 -1 15124
+D2
+~
+~
+0 -1 15130
+D3
+~
+~
+0 -1 15129
+D4
+~
+~
+0 -1 15148
+D5
+~
+~
+0 -1 15137
+Z1
+C-1
+S
+#15140
+{BLACK,BOLD}The {BLUE}QU{BLACK}-{bold}{BLUE}Cooridor{bl}~
+{BLU}You are walking the beautiful and mystical QU-Cooridor. This cooridoor links
+the rooms of the members of the continuum together.
+
+~
+151 4 0
+D0
+~
+~
+0 -1 15163
+D1
+~
+~
+0 -1 15164
+D2
+~
+~
+0 -1 15161
+D3
+~
+~
+0 -1 15107
+Z-1
+C-1
+S
+#15141
+{BLACK,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Continuum{bl}~
+You are in the QU continuum. It's hard to describe what you see because there
+are no words that you could use. It's strange, yet familiar. Spacious, yet 
+confining. It's a plane of existence you do not yet comprehend.
+
+~
+151 1049617 5
+D4
+~
+~
+0 -1 15137
+D5
+~
+continuum~
+1 -1 15142
+Z1
+C-1
+S
+#15142
+{BLACK,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Continuum{bl}~
+You are in the QU continuum. It's hard to describe what you see because there
+are no words that you could use. It's strange, yet familiar. Spacious, yet 
+confining. It's a plane of existence you do not yet comprehend.
+
+~
+151 1173 5
+D0
+~
+~
+0 -1 15139
+D1
+~
+~
+0 -1 15143
+D2
+~
+~
+0 -1 15148
+D3
+~
+~
+0 -1 15137
+D4
+~
+~
+0 -1 15130
+D5
+~
+~
+0 -1 15134
+Z1
+C-1
+S
+#15143
+{BLACK,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Continuum{bl}~
+You are in the QU continuum. It's hard to describe what you see because there
+are no words that you could use. It's strange, yet familiar. Spacious, yet 
+confining. It's a plane of existence you do not yet comprehend.
+
+~
+151 1041 5
+D0
+~
+~
+0 -1 15135
+D1
+~
+~
+0 -1 15129
+D2
+~
+~
+0 -1 15135
+D3
+~
+~
+0 -1 15139
+D4
+~
+~
+0 -1 15144
+D5
+~
+~
+0 -1 15133
+Z1
+C-1
+S
+#15144
+{BLACK,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Continuum{bl}~
+You are in the QU continuum. It's hard to describe what you see because there
+are no words that you could use. It's strange, yet familiar. Spacious, yet 
+confining. It's a plane of existence you do not yet comprehend.
+
+~
+151 1173 5
+D0
+~
+~
+0 -1 15145
+D1
+~
+~
+0 -1 15124
+D2
+~
+~
+0 -1 15130
+D3
+~
+~
+0 -1 15127
+D4
+~
+~
+0 -1 15134
+D5
+~
+~
+0 -1 15148
+Z1
+C-1
+S
+#15145
+{BLACK,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Continuum{bl}~
+You are in the QU continuum. It's hard to describe what you see because there
+are no words that you could use. It's strange, yet familiar. Spacious, yet 
+confining. It's a plane of existence you do not yet comprehend.
+
+~
+151 1049617 5
+D4
+~
+~
+0 -1 15123
+D5
+~
+continuum~
+1 -1 15110
+Z1
+C-1
+S
+#15146
+{BLACK,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Continuum{bl}~
+You are in the QU continuum. It's hard to describe what you see because there
+are no words that you could use. It's strange, yet familiar. Spacious, yet 
+confining. It's a plane of existence you do not yet comprehend.
+
+~
+151 1057 0
+Z0
+C-1
+S
+#15147
+{BLACK,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Continuum{bl}~
+You are in the QU continuum. It's hard to describe what you see because there
+are no words that you could use. It's strange, yet familiar. Spacious, yet 
+confining. It's a plane of existence you do not yet comprehend.
+
+~
+151 1057 0
+Z0
+C-1
+S
+#15148
+{BLACK,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Continuum{bl}~
+You are in the QU continuum. It's hard to describe what you see because there
+are no words that you could use. It's strange, yet familiar. Spacious, yet 
+confining. It's a plane of existence you do not yet comprehend.
+
+~
+151 1043 5
+Z1
+C-1
+S
+#15154
+{BLACK,BOLD}The {BLUE}QU{BLACK}-{bold}{BLUE}bicles{bl}~
+{BLUE}This is where the QU come to retire for the day. Where their individual
+consciousness becomes one with the continuum until they decide to emerge 
+again. Physical objects must be put away for keeping because they cannot
+exist within this plane of the continuum.
+
+~
+151 66572 0
+D1
+~
+~
+0 -1 15170
+D3
+~
+~
+0 -1 15155
+D4
+~
+~
+0 -1 15108
+Z-1
+C-1
+S
+#15155
+{BLACK,BOLD}The {bold}{BLUE}e{BLUE,BOLD}QU{bold}{BLUE}ipment {BLACK,BOLD}realm{bl}~
+{BLUE}The equipment of mortals are shoddy and tend to wear and tear. That's the
+craftsmanship one would expect from mere mortals. But what can you do.
+Nothing really, except to have someone who can repair your equipment.
+
+~
+151 66572 1
+D1
+~
+~
+0 -1 15154
+Z-1
+C-1
+S
+#15156
+{bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLUE}Bank {BLA,BOLD}and{bol} {BLUE}Trust{bl}~
+{BLUE}Even though the {RED}+{BLU,BOLD}QU{bold}{RED}+{BLUE} do not require money here in the Continuum, it is a 
+useful commodity to have in the city of Midgaard.  What better place to 
+keep it than in the Continuum itself?  Here, it will be safe for eternity!
+
+~
+151 66564 1
+D2
+~
+~
+0 -1 15108
+D4
+~
+~
+0 -1 15113
+Z-1
+C-1
+S
+#15157
+The QU-Nexus.~
+The QU-Nexus is also known as the place to many places. North is the fountain
+of chocolate milk. To the west you will find yourself before the gates of
+Draconia. To the east is A mountain path to Elemental Canyon. Up is Zeus 
+Street in Olympus and Down is the healer shop.
+
+~
+151 0 1
+Z3
+C-1
+S
+#15158
+{BLUE}JAWS' healer and rum shop. {blu}~
+The air is feeled with the scents of hard liquor and sweet smelling
+ferlenum. In the background you hear the locals quarreling about
+who played couple-blank. The ShopKeeper then says "What do you 
+want?..a beer?..some rum?" and then grumbles bitterly about not
+being able to master MK2..
+
+~
+151 12 1
+D4
+~
+~
+0 -1 15111
+D5
+~
+~
+0 -1 15161
+Z-1
+C-1
+S
+#15160
+{BLUE}Xanthros' room. {blu}~
+(place description here)
+~
+151 0 1
+Z-1
+C-1
+S
+#15161
+{BLUE}JAWS' Pool{blu}~
+               |\
+               |  \
+               |    \
+~
+151 66568 1
+D0
+~
+~
+0 -1 15140
+D4
+~
+~
+0 -1 15158
+Z-1
+C-1
+S
+#15162
+{BLA,BOL}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLU}Transporter {BLA,BOL}Room{bl}~
+{BLU}This room shimmers with the energy of the transporter that is set in
+the middle of it. You see a small sign reading that it takes you
+to the {YE}DON{BLU}ation Room of the {BLU,BOLD}QU{bold}{BLUE}. Many treasures await you.
+
+~
+151 66564 1
+D1
+~
+~
+0 -1 15107
+Z-1
+C-1
+S
+#15163
+{BLU}Darkbrow's Office {blu}~
+This small office is cluttered with papers dealing with zone creation,
+maps, and various reference works.  The back wall is lined with bookcases,
+stuffed with cheap science fiction novels, and contemporary American lit.
+A 'Hunt the Wumpus' console is sitting next to an enormous bong on the 
+desk in the center of the room.  Someplace under the clutter in the room,
+there must be a stereo system, because songs of The Dead Kennedys are 
+blaring.
+~
+151 12 1
+D2
+~
+~
+0 -1 15140
+Z-1
+C-1
+S
+#15164
+{BLA,BOLD}The {BLUE}QU{BLACK}-{bold}{BLUE}Cooridor{bl}~
+{BLU}You are walking the beautiful and mystical QU-Cooridor. This cooridoor links
+the rooms of the members of the continuum together.
+
+~
+151 0 0
+D0
+~
+~
+0 -1 15165
+D1
+~
+~
+0 -1 15169
+D2
+~
+~
+0 -1 15106
+D3
+~
+~
+0 -1 15140
+Z-1
+C-1
+S
+#15165
+{BLU}Flame's room{blue}~
+As you walk into Flame's room, you see a lit fire by the door, basking the
+room in it's glow.  A Cray-ymp in the corner is running Doom II, and beckons
+you to play... Opposite that is a row of huge hemp plants under the bright
+light of grow lamps, and you start to clam bake.  A sign is on the wall.
+~
+151 8 1
+D2
+~
+~
+0 -1 15164
+E
+sign~
+Free munchies from Flame after those harsh bong hits.
+~
+Z-1
+C-1
+S
+#15166
+{BOLD}{BLACK}Chamber{black}{bold} {BOLD}of{bold} {BOLD}{YELLOW}Mirrors{yellow}{bold}!~
+     As you wander farther and farther into this strange castle, you come
+to a chamber that is devoid of any trappings common to the rest of the
+castle.  As you glance around this cold and barren room, you notice a tall
+mirror that you had not seen before in one of the far corners.  When you walk
+over to the mirror and look within its crystalline depths, you begin to see
+image after image of the city of {GREEN}Midgaard{green} and the rest of this world pass
+quickly before your eyes.  Understanding, Awe, and no small amount of Fear
+come to you all at once.  This is where {RED}Airagar{red}, {BLUE}Lord of {CYAN}Wind{cyan}, surveys and
+watches this world.
+You are within the legendary {BLACK}Chamber{black} of {YELLOW}Mirrors{yellow}!
+~
+151 66560 1
+D4
+~
+~
+0 -1 15104
+M50
+Z-1
+C-1
+S
+#15167
+{BLUE}Connie and Guard's Beach{blu}~
+
+A wide black sand beach stretches as far as you can see.
+The surf rhythmically caresses the shore like an incessant lover.
+Its warm and the moon shines bright and dances with a thousand stars.
+The water is warm and a breeze blows lazily on the shore.
+In the distance, waves break over a reef.
+You are on Connie's timeless beach without a care.
+No wonder she always smiles.
+You see a fountain..spurting what??  Pina Colada???
+
+~
+151 65536 1
+D1
+~
+~
+0 -1 15108
+M51
+Z-1
+C-1
+S
+#15168
+{BLUE}Guard House{blu}~
+{RED}**********************************************************
+{BLUE}**********************************************************
+{GREEN}**********************************************************
+{WHITE}**********************************************************
+{YELLOW}**********************************************************
+{CYAN}**********************************************************
+{MAGENTA}**********************************************************
+{RED}**********************************************************
+{BLUE}**********************************************************
+~
+151 81920 1
+Z3
+C2
+S
+#15169
+{BLACK,BOLD}The {BLUE}QU{BLACK}-{bold}{BLUE}Cooridor{bl}~
+{BLU}You are walking the beautiful and mystical QU-Cooridor. This cooridoor links
+the rooms of the members of the continuum together.
+
+~
+151 0 0
+D0
+~
+~
+0 -1 15101
+D1
+~
+~
+0 -1 15173
+D2
+~
+~
+0 -1 15190
+D3
+~
+~
+0 -1 15164
+D4
+~
+lookout~
+1 -1 15199
+Z-1
+C-1
+S
+#15170
+{BLA,BOL}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLA,BOL}Kitchen{bl}~
+{BLUE}You walk into a large kitchen with a grey metallic fridge
+that is sitting beside a table. Apparently someone forgot to
+clean up their mess.
+
+~
+151 1028 1
+D3
+~
+~
+0 -1 15154
+Z-1
+C-1
+S
+#15171
+{BLU,BO}Wiggles Inner Sanctum{b}~
+{G}
+{W}        ____
+{W}       >    |         {C}You have entered a tranquil shrine. The
+{W} ______|    |______   {C}air is permeated with the presence of a
+{W}>                  |  {C}higher being. You suspect this being to
+{W}|______ _/   ______/  {C}be far beyond your understanding, yet it
+{W}       / |  |         {C}is clear you are welcomed here. You drop 
+{W}       |    |         {C}a few coins in the collection plate, light 
+{W}       |    |         {C}a candle, and take a seat on the humble
+{W}       |    <         {C}furniture. Now close your eyes and rest. 
+{W}       |    |         {C}Clear your mind of worldly distractions 
+{W}       |  \_|         {C}and know that here... you are safe.
+    {G}%{Y,BO}@@{bo}{W}|    |{Y,BO}@@{bo}{G}%
+   %{Y,BO}@{bo}{G}%{Y,BO}@{bo}{G}%%/\{Y,BO}@{bo}{G}%%{Y,BO}@@@
+{G}
+~
+151 0 1
+D0
+~
+~
+0 -1 15173
+Z0
+C-1
+S
+#15172
+{BL,BO}Random Thoughts of the {b}{R}+{BLU,BO}QU{b}{R}+{b}~
+{R,BO}                     ,        ,
+                    ((        ))
+                    ))   )   //
+                   / /   (  ( (
+                  ( (   ( ) )  )
+                .'   '.  " .   /
+               '{B}.-'`\-,/^\ .-. 
+               {B}/    |  \  ( ee\
+              {B}|     |  |__/,--{Y}.`"``,
+              {B}|    /   .__/    {Y}`"",/
+              {B}|   /    /  |
+             {B}.'.-'    /__/
+            {B}`"`| |';-;_`       {R},.---.
+             {G}=={B}|/ /{G}-{Y})))))){G}===={{R},__.-{}
+                               {R}'----'
+{BLU} 
+  The possibilities of future events and happenings
+  seem to swirl through the air in this almost bare
+  room. A glimpse of the circumstances of tomorrow,
+  and even further, are almost visible. Defeats and
+  victories flash quickly by. Images flash of death
+  and others of birth, but which apply to you?
+{G}
+~
+151 8 1
+D2
+~
+~
+0 -1 15173
+Z-1
+C-1
+S
+#15173
+{BLACK,BOLD}The {BLUE}QU{BLACK}-{bold}{BLUE}Cooridor{bl}~
+{BLU}You are walking the beautiful and mystical QU-Cooridor. This cooridoor links
+the rooms of the members of the continuum together.
+
+~
+151 0 0
+D0
+~
+~
+0 -1 15172
+D2
+~
+~
+0 -1 15171
+D3
+~
+~
+0 -1 15169
+Z0
+C-1
+S
+#15174
+{BLUE}Gaze's Stadium{blue}~
+What do you see? Brazil and Holland matches up for the World Cup...
+the two teams standing, glaring at each other. As always {YEL}Brazil{yel} is
+in yellow, and{RED} Holland{red} in red. The head coach for Brazil, Trolljr
+gazes across the field, waiting for an easy victory.
+   {GR}------------------------------
+   .                              .
+   .                              .
+   .                              .
+   .                              .
+....                              ....
+....                              ....
+....                              ....
+....                              ....
+   .                              .
+   .                              .
+   .                              .
+   .                              .
+   {GR}------------------------------{gr}
+~
+151 1028 1
+D2
+~
+~
+0 -1 15102
+D4
+~
+~
+0 -1 15175
+Z-1
+C-1
+S
+#15175
+{BLA,BOL}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLA,BOL}Tranquility Creek{bl}~
+Following the sound of running water, you make your way thru a dense
+oak grove to behold this creek. Sunlight sparkles off the water as
+it bubbles and dances over the rocks. Tiny minnows dart and play 
+in the crystal clear waters. Farther down water cascades over a 
+fall into a deep pool. Looking around you see a large log and when
+settling here you are flooded with a sense of peace and tranquility.
+Squirrels chatter and play in the treetops above you, while a brave
+one hops upon the log to lay its eyes upon the warrior before him.
+Relax and be one with yourself as it has been a hard day of battle.
+
+~
+151 1028 1
+D0
+~
+~
+0 -1 15107
+D5
+~
+~
+0 -1 15174
+Z-1
+C-1
+S
+#15180
+{BL,BO}The {b}{R}+{BLU,BO}QU{b}{R}+ {BL,BO}Continuum{b}~
+{BLUE}You are standing in the {RED}QU {BLU}Continuum. This is where the {RED}QU{BLU} gather
+to rest, refresh or and plan their zone tactics. It is hard to 
+describe what you see because there are no words that you could
+use. It is strange, yet familiar. Spacious, yet confining. It is 
+a plane of existance you do not comprehend. As a member of {RED}QU {BLU}you
+will eventually learn the secrets of the Universe and of the {RED}QU{BLU}.
+
+~
+151 66573 5
+D0
+~
+~
+0 -1 15184
+D1
+~
+~
+0 -1 15183
+D3
+~
+~
+0 -1 15191
+D4
+~
+~
+0 -1 15181
+D5
+~
+~
+0 -1 15189
+Z20
+C-1
+S
+#15181
+{BLACK,BOLD}The {bold}{BLU}Board Room {BLACK,BOLD}of the {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+{red}~
+{BLU}As the name implies, this is the room where the bulletin board of
+the {BLUE,BOL}QU{bold}{BLUE} is kept. On one wall you see the {YE}CODE {BLU}of the
+{BLUE,BOLD}QU {bold}{BLU}embossed in fine marble. On the other wall you see a golden
+plaque with the {WHITE}CONSTITUTION{BLU} of the {BLU,BOLD}QU{bold}{BLU} engraved on it.
+
+~
+151 66573 5
+D0
+~
+~
+0 -1 15186
+D1
+~
+~
+0 -1 15187
+D3
+~
+~
+0 -1 15182
+D5
+~
+~
+0 -1 15180
+Z20
+C-1
+S
+#15182
+{BLACK,BOLD}Club{bold} {BLU}Donation {BLACK,BOLD}Room{bl}~
+{BLUE}Equipment and Artifacts of significant usefulness to the {BOLD,BLU}QU{bold} {BLUE}are 
+donated to here. The {BLUE,BOLD}QU{bold}{BLU} are very particular about what is useful
+and what is trash. If you wish to donate something please be sure
+it is something worthy of resting in this chamber.
+
+~
+151 66573 5
+D1
+~
+~
+0 -1 15180
+Z20
+C-1
+S
+#15183
+{BLACK,BOLD}The {BLUE}QU{BLACK}-{bold}{BLUE}fountain{bl}~
+{BLUE}    In the center of this small room sits a fountain bubbling forth
+the divine liquid of jolt.  Be warned, this beverage is made of powerful
+things and it packs quite a kick!  The {RED}+{BLU,BOL}QU{bold}{RED}+ {BLUE}are a sober bunch, so it takes
+a strong brew to quench their neverending thirst.
+
+~
+151 66573 5
+D3
+~
+~
+0 -1 15180
+D5
+~
+~
+0 -1 15193
+Z20
+C-1
+S
+#15184
+{bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLUE}Bank {BLA,BOLD}and{bol} {BLUE}Trust{bl}~
+{BLUE}Even though the {RED}+{BLU,BOLD}QU{bold}{RED}+{BLUE} do not require money here in the Continuum, it is a 
+useful commodity to have in the city of Midgaard.  What better place to 
+keep it than in the Continuum itself?  Here, it will be safe for eternity!
+
+~
+151 66565 5
+D2
+~
+~
+0 -1 15180
+D4
+~
+~
+0 -1 15185
+Z20
+C-1
+S
+#15185
+{BL,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Map Room{bl}~
+{BLUE}Welcome to the {BLUE,BOLD}QU {bold}{BLU}Map Room. If you know of any directions you feel
+should be added please feel free to write them down.
+If you need the directions to a location and it is not posted on the
+board write down a request so someone may post them.
+
+~
+151 1029 5
+D5
+~
+~
+0 -1 15184
+Z20
+C-1
+S
+#15186
+{BL,BOLD}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLUE}Council {BLACK,BOL}room{bl}~
+{BLU}This is the chamber where the {BLU,BOLD}QU{bold}{BLU} Council meet to discuss issues concerning 
+the Continuum. 
+
+~
+151 1037 5
+D2
+~
+~
+0 -1 15181
+Z20
+C-1
+S
+#15187
+{BLACK,BOLD}The {BLUE}QU{BLACK}-{bold}{BLUE}Cooridor{bl}~
+{BLU}You are walking the beautiful and mystical QU-Cooridor. This cooridoor links
+the rooms of the members of the continuum together.
+
+~
+151 1029 5
+D1
+~
+~
+0 -1 15188
+D3
+~
+~
+0 -1 15181
+Z20
+C-1
+S
+#15188
+{BLACK,BOLD}The {BLUE}QU{BLACK}-{bold}{BLUE}Cooridor{bl}~
+{BLU}You are walking the beautiful and mystical QU-Cooridor. This cooridoor links
+the rooms of the members of the continuum together.
+
+~
+151 1029 5
+D3
+~
+~
+0 -1 15187
+Z20
+C-1
+S
+#15189
+{BLACK,BOLD}The {BLUE}QU{BLACK}-{bold}{BLUE}bicles{bl}~
+{BLUE}This is where the QU come to retire for the day. Where their individual
+consciousness becomes one with the continuum until they decide to emerge 
+again. Physical objects must be put away for keeping because they cannot
+exist within this plane of the continuum.
+
+~
+151 1037 5
+D1
+~
+~
+0 -1 15192
+D3
+~
+~
+0 -1 15194
+D4
+~
+~
+0 -1 15180
+Z20
+C-1
+S
+#15190
+{BLU}Arcane{BL,BO}'{b}{BLU}s {b}{R}+{BLU,BO}QU{b}{R}+ {BL,BO}Room{b}~
+{BLU}Welcome to the Continuum{R}.
+
+              {BL,BO}We are the{b}{BLU}.{R}.{BL,BO}.
+
+
+          ...     {BLU}QQQQ     UU  UU     {BL,BO}...
+          :{b}{R}+{BL,BO}:    {BLU}QQ  QQ    UU  UU     {BL,BO}:{b}{R}+{BL,BO}:
+         :{b}{R}+++{BL,BO}:   {BLU}QQ  QQ    UU  UU    {BL,BO}:{b}{R}+++{BL,BO}:
+          :{b}{R}+{BL,BO}:    {BLU}QQ  QQ    UU  UU     {BL,BO}:{b}{R}+{BL,BO}:
+          '''     {BLU}QQQQQQ    UUUU      {BL,BO}'''
+
+~
+151 66572 1
+D0
+~
+~
+0 -1 15169
+Z-1
+C-1
+S
+#15191
+{BL,BO}The {r}{R}+{BLU,BO}QU{r}{R}+ {BL,BO}Rest Room{b}~
+{BLU}Grab yourself a seat on the couch, or settle into the thick
+shag carpet and stretch out. Relax and lose yourself in thought.
+This room is large enough to hold everyone you know, but still
+feels small and comfortable. The area is soothing and as you
+stare blankly, you come to realize it shifts the perception of
+each person to suit their own tastes, making them feel entirely
+at ease. This{R}... {BLU}is the essence of the {R}QU{BLU}.
+
+~
+151 1025 5
+D1
+~
+~
+0 -1 15180
+Z20
+C-1
+S
+#15192
+{BLA,BOL}The {bold}{RED}+{BLUE,BOLD}QU{bold}{RED}+ {BLA,BOL}Kitchen{bl}~
+{BLUE}You walk into a large kitchen with a grey metallic fridge
+that is sitting beside a table. Apparently someone forgot to
+clean up their mess.
+
+~
+151 1029 5
+D3
+~
+~
+0 -1 15189
+Z20
+C-1
+S
+#15193
+{BOLD}{BLACK}Chamber{black}{bold} {BOLD}of{bold} {BOLD}{YELLOW}Mirrors{yellow}{bold}!~
+     As you wander farther and farther into this strange castle, you come
+to a chamber that is devoid of any trappings common to the rest of the
+castle.  As you glance around this cold and barren room, you notice a tall
+mirror that you had not seen before in one of the far corners.  When you walk
+over to the mirror and look within its crystalline depths, you begin to see
+image after image of the city of {GREEN}Midgaard{green} and the rest of this world pass
+quickly before your eyes.  Understanding, Awe, and no small amount of Fear
+come to you all at once.  This is where {RED}Airagar{red}, {BLUE}Lord of {CYAN}Wind{cyan}, surveys and
+watches this world.
+You are within the legendary {BLACK}Chamber{black} of {YELLOW}Mirrors{yellow}!
+~
+151 1025 5
+D4
+~
+~
+0 -1 15183
+M50
+Z20
+C-1
+S
+#15194
+{BLACK,BOLD}The {bold}{BLUE}e{BLUE,BOLD}QU{bold}{BLUE}ipment {BLACK,BOLD}realm{bl}~
+{BLUE}The equipment of mortals are shoddy and tend to wear and tear. That's the
+craftsmanship one would expect from mere mortals. But what can you do.
+Nothing really, except to have someone who can repair your equipment.
+
+~
+151 1037 5
+D1
+~
+~
+0 -1 15189
+Z20
+C-1
+S
+#15195
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+151 0 1
+Z0
+C-1
+S
+#15196
+{BL,BO}The {r}{R}+{BLU,BO}QU{r}{R}+ {BL,BO}Rest Room{b}~
+{BLU}Grab yourself a seat on the couch, or settle into the thick
+shag carpet and stretch out. Relax and lose yourself in thought.
+This room is large enough to hold everyone you know, but still
+feels small and comfortable. The area is soothing and as you
+stare blankly, you come to realize it shifts the perception of
+each person to suit their own tastes, making them feel entirely
+at ease. This{R}... {BLU}is the essence of the {R}QU{BLU}.
+
+~
+151 4195328 1
+D0
+~
+~
+0 -1 15108
+Z-1
+C-1
+S
+#15197
+{BLU}Looking For Me Dumbass?{bl}~
+{BLUE}You are standing in the {RED}QU {BLU}Continuum. This is where the {RED}QU{BLU} gather
+to rest, refresh or and plan their zone tactics. It is hard to 
+describe what you see because there are no words that you could
+use. It is strange, yet familiar. Spacious, yet confining. It is 
+a plane of existance you do not comprehend. As a member of {RED}QU {BLU}you
+will eventually learn the secrets of the Universe and of the {RED}QU{BLU}.
+
+~
+151 4260876 1
+Z0
+C-1
+S
+#15198
+The Temple Square~
+{BLUE}You are standing in the {RED}QU {BLU}Continuum. This is where the {RED}QU{BLU} gather
+to rest, refresh or and plan their zone tactics. It is hard to 
+describe what you see because there are no words that you could
+use. It is strange, yet familiar. Spacious, yet confining. It is 
+a plane of existance you do not comprehend. As a member of {RED}QU {BLU}you
+will eventually learn the secrets of the Universe and of the {RED}QU{BLU}.
+
+~
+151 4260876 1
+Z-1
+C-1
+S
+#15199
+{BLACK,BOLD}The {bold}{RED}+{BLU,BOLD}QU{bold}{RED}+ {BLACK,BOLD}Lookout{bl}~
+{BLUE}From here, the members of the {BLUE,BOLD}QU{bold}{BLUE} can peek down safely into our maze.
+Any evil intruders attempting to bypass our Force Fields may be
+be intercepted from this point, and destroyed before they can break
+into the Continuum.
+
+~
+151 66564 1
+D0
+This leads to the second and last club guard.
+Do Not enter unless you mean to, because you can and may
+be killed.
+~
+guardtwo~
+1 -1 15110
+D1
+This leads to the fake club that the maze is linked to.
+Do NOT enter unless you mean to.
+~
+fakeclub~
+1 -1 15180
+D2
+This leads into the maze where the first guard is.
+Do Not enter, because you can and may be killed.
+~
+firstguard~
+1 -1 15103
+D5
+~
+lookout~
+1 -1 15169
+Z-1
+C-1
+S
+$~

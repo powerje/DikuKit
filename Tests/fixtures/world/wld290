@@ -1,0 +1,2131 @@
+#29000
+Computer World Enterance~
+Welcome to the Computer World Superstore!  Please have your credit card
+ready and remember our motto: You can buy better, but you can't pay MORE!
+Our illtrained, ignorant and badly mannered staff will begrudgingly
+serve you if you stand around long enough.
+~
+290 12 1
+D0
+~
+~
+0 -1 29004
+D5
+~
+~
+0 -1 49808
+E
+door~
+To the North you see the massive glass door to the store.
+~
+E
+n~
+     To the North you see the enterance to the store.
+~
+Z3
+C-1
+R0
+S
+#29001
+Checkout Area~
+     You come up to a cash register with a bored looking teenaged girl
+standing behind the counter.  She snaps her chewing gum and asks, 
+'Wilthabe Cashcreditorcheck?'
+~
+290 8 1
+D0
+~
+~
+0 -1 29005
+D1
+~
+~
+0 -1 29002
+D2
+~
+~
+0 -1 29000
+E
+s door~
+To the South you see the exit door, surrounded by high tech anti shoplifting
+equiptment.  You shiver, wondering if your belt buckle or something will
+trip it and cause you grief.
+~
+Z3
+C-1
+R0
+S
+#29002
+Checkout Area~
+     You come up to a cash register with a bored looking teenaged girl
+standing behind the counter.  She snaps her chewing gum and asks, 
+'Wilthabe Cashcreditorcheck?'
+~
+290 8 1
+D0
+~
+~
+0 -1 29006
+D1
+~
+~
+0 -1 29003
+D3
+~
+~
+0 -1 29001
+Z3
+C-1
+R0
+S
+#29003
+Checkout Area~
+     You come up to a cash register with a bored looking teenaged girl
+standing behind the counter.  She snaps her chewing gum and asks, 
+'Wilthabe Cashcreditorcheck?'
+~
+290 8 1
+D0
+~
+~
+0 -1 29007
+D1
+~
+~
+0 -1 29004
+D3
+~
+~
+0 -1 29002
+Z3
+C-1
+R0
+S
+#29004
+Main Aisle~
+You are on the main aisle of the store.  To the North, the bowels of the
+store stretch into the distance.  To the West is the checkout area.
+~
+290 8 1
+D0
+~
+~
+0 -1 29008
+D2
+~
+~
+0 -1 29000
+D3
+~
+~
+0 -1 29003
+E
+s~
+The door clicks shut behind you..leaving no way to open it from this side.
+~
+Z3
+C-1
+R0
+S
+#29005
+Checkout Area~
+     You come up to a cash register with a bored looking teenaged girl
+standing behind the counter.  She snaps her chewing gum and asks, 
+'Wilthabe Cashcreditorcheck?'
+~
+290 8 1
+D0
+~
+~
+0 -1 29009
+D1
+~
+~
+0 -1 29006
+D2
+~
+~
+0 -1 29001
+Z3
+C-1
+R0
+S
+#29006
+Checkout Area~
+     You come up to a cash register with a bored looking teenaged girl
+standing behind the counter.  She snaps her chewing gum and asks, 
+'Wilthabe Cashcreditorcheck?'
+~
+290 8 1
+D1
+~
+~
+0 -1 29007
+D2
+~
+~
+0 -1 29002
+D3
+~
+~
+0 -1 29005
+Z3
+C-1
+R0
+S
+#29007
+Checkout Area~
+     You come up to a cash register with a bored looking teenaged girl
+standing behind the counter.  She snaps her chewing gum and asks, 
+'Wilthabe Cashcreditorcheck?'
+~
+290 8 1
+D1
+~
+~
+0 -1 29008
+D2
+~
+~
+0 -1 29003
+D3
+~
+~
+0 -1 29006
+Z3
+C-1
+R0
+S
+#29008
+Main Aisle~
+You are on the main aisle of the store.  To the North the store continues,
+to the West is the checkout area.
+~
+290 12 1
+D0
+~
+~
+0 -1 29012
+D2
+~
+~
+0 -1 29004
+D3
+~
+~
+0 -1 29007
+Z3
+C-1
+R0
+S
+#29009
+West Aisle~
+You are on the West aisle of the store.  To the East is the Misc. Hardware
+aisle.
+~
+290 12 1
+D0
+~
+~
+0 -1 29013
+D1
+~
+~
+0 -1 29010
+D2
+~
+~
+0 -1 29005
+Z3
+C-1
+R0
+S
+#29010
+Misc. Hardware aisle~
+This aisle contains a mixed bag of small hardware.  Mice, Trackballs, floppy
+disks, printer ribbons and many other small items clutter the shelves.
+~
+290 8 1
+D1
+~
+~
+0 -1 29011
+D3
+~
+~
+0 -1 29009
+Z3
+C-1
+R0
+S
+#29011
+Misc. Hardware aisle~
+This aisle contains a mixed bag of small hardware.  Mice, Trackballs, floppy
+disks, printer ribbons and many other small items clutter the shelves.
+~
+290 8 1
+D1
+~
+~
+0 -1 29012
+D3
+~
+~
+0 -1 29010
+Z3
+C-1
+R0
+S
+#29012
+Main Aisle~
+You are on the main aisle of the store.  To the North the store continues.
+To the West is the small accessory aisle, to the East is the Clearance
+Software aisle.
+~
+290 8 1
+D0
+~
+~
+0 -1 29016
+D1
+~
+~
+0 -1 29039
+D2
+~
+~
+0 -1 29008
+D3
+~
+~
+0 -1 29011
+Z3
+C-1
+R0
+S
+#29013
+West Aisle~
+You are on the West aisle of the store.  To the North and South the aisle
+continues.  To the East is a small and mostly deserted Apple Computer
+display area.
+~
+290 8 1
+D0
+~
+~
+0 -1 29017
+D1
+~
+~
+0 -1 29014
+D2
+~
+~
+0 -1 29009
+Z3
+C-1
+R0
+S
+#29014
+Apple Demo Floor~
+You are in the Apple Demo area.  There are all of 3 models for your
+inspection. None of them will run the other models software.
+~
+290 136 1
+D0
+~
+~
+0 -1 29018
+D1
+~
+~
+0 -1 29015
+D3
+~
+~
+0 -1 29013
+Z3
+C-1
+R0
+S
+#29015
+Apple Demo Floor~
+You are in the Apple Demo area.  There are all of 3 models for your
+inspection. None of them will run the other models software.
+~
+290 136 1
+D0
+~
+~
+0 -1 29019
+D1
+~
+~
+0 -1 29016
+D3
+~
+~
+0 -1 29014
+Z3
+C-1
+R0
+S
+#29016
+Main Aisle~
+You are on the Main Aisle, to the North the store continues.  To the West
+is the Apple Demo area, to the East is the IBM type systems Demo area.
+~
+290 8 1
+D0
+~
+~
+0 -1 29020
+D1
+~
+~
+0 -1 29043
+D2
+~
+~
+0 -1 29012
+D3
+~
+~
+0 -1 29015
+Z3
+C-1
+R0
+S
+#29017
+West Aisle~
+You are on the West aisle of the store.  To the North and South the aisle
+continues.  To the East is a small and mostly deserted Apple Computer
+display area.
+~
+290 8 1
+D0
+~
+~
+0 -1 29021
+D1
+~
+~
+0 -1 29018
+D2
+~
+~
+0 -1 29013
+Z3
+C-1
+R0
+S
+#29018
+Apple Demo Floor~
+You are in the Apple Demo area.  There are all of 3 models for your
+inspection.  None of them will run the other models software.
+~
+290 136 1
+D1
+~
+~
+0 -1 29019
+D2
+~
+~
+0 -1 29014
+D3
+~
+~
+0 -1 29017
+Z3
+C-1
+R0
+S
+#29019
+Apple Demo Floor~
+You are in the Apple Demo area.  There are all of 3 models for your
+inspection.  None of them will run the other models software.
+~
+290 136 1
+D1
+~
+~
+0 -1 29020
+D2
+~
+~
+0 -1 29015
+D3
+~
+~
+0 -1 29018
+Z3
+C-1
+R0
+S
+#29020
+Main Aisle~
+You are on the Main Aisle, to the North and South the store continues.  To
+the West is a small, semideserted Apple Computer Demo area.  To the East
+is a more crowded IBM type systems Demo area.
+~
+290 8 1
+D0
+~
+~
+0 -1 29024
+D1
+~
+~
+0 -1 29047
+D2
+~
+~
+0 -1 29016
+D3
+~
+~
+0 -1 29019
+Z3
+C-1
+R0
+S
+#29021
+West Aisle~
+You are on the West aisle of the store.  To the South the aisle continues.
+To the East, a short aisle contains all the Apple Applications, Utilities
+and Game software in the store.
+~
+290 8 1
+D1
+~
+~
+0 -1 29022
+D2
+~
+~
+0 -1 29017
+Z3
+C-1
+R0
+S
+#29022
+Apple Software Aisle~
+This aisle contains all the Apple software available commercially.  Between
+the Applications, Utilities and Games there appears to be almost forty or
+fifty titles to choose from.
+~
+290 136 1
+D1
+~
+~
+0 -1 29023
+D3
+~
+~
+0 -1 29021
+Z3
+C-1
+R0
+S
+#29023
+Apple Software Aisle~
+This aisle contains all the Apple software available commercially.  Between
+the Applications, Utilities and Games there appears to be almost forty or
+fifty titles to choose from!
+~
+290 136 1
+D1
+~
+~
+0 -1 29024
+D3
+~
+~
+0 -1 29022
+Z3
+C-1
+R0
+S
+#29024
+Main Aisle~
+You are on the Main Aisle, to the North and South the store continues.  To
+the West is the aisle of Apple software, to the East is the first aisle
+if IBM Applications Software.
+~
+290 8 1
+D0
+~
+~
+0 -1 29028
+D1
+~
+~
+0 -1 29051
+D2
+~
+~
+0 -1 29020
+D3
+~
+~
+0 -1 29023
+Z3
+C-1
+R0
+S
+#29025
+Service Department~
+     YOu have entered the most sacred area, the Service Department.  But wait!
+It's not at all what you expected.  In front of you you see a poorly equipped
+service area with a not very intelligent fellow just like the rest.  At least
+this one doesn't appear to smoke as there's only one butt on the floor.
+~
+290 8 1
+D0
+~
+door~
+2 29009 29029
+D1
+~
+~
+0 -1 29026
+Z3
+C-1
+R0
+S
+#29026
+Service Department~
+     You have entered the most sacred area..the service department.  But wait!
+It's not at all what you expected..in front of you you see a poorly equipped
+service area with a not very intelligent fellow standing at the bench.  You
+realise that this fellow must be making about $6.00/hour and just about
+enough brains to swap in a new $700 main board to fix your computer.  Careful,
+~
+290 8 1
+D0
+~
+~
+0 -1 29030
+D1
+~
+~
+0 -1 29027
+D3
+~
+~
+0 -1 29025
+Z3
+C-1
+R0
+S
+#29027
+Service Department~
+     You have entered the most sacred area..the service department.  But wait!
+It's not at all what you expected..in front of you you see a poorly equipped
+service area with a not very intelligent fellow standing at the bench.  You
+realise that this fellow must be making about $6.00/hour and just about
+enough brains to swap in a new $700 main board to fix your computer.  Careful,
+~
+290 8 1
+D0
+~
+~
+0 -1 29031
+D3
+~
+~
+0 -1 29026
+Z3
+C-1
+R0
+S
+#29028
+Main Aisle~
+     You are on the Main Aisle of the store.  The combination of the glaring
+lights above and the highly polished floor are beginning to give you a 
+headache.  The sales staff seems to look at you with suspicion and distain
+before attempting to fade from view.  What a friendly place to be!
+~
+290 8 1
+D0
+~
+~
+0 -1 29032
+D1
+~
+~
+0 -1 29055
+D2
+~
+~
+0 -1 29024
+Z3
+C-1
+R0
+S
+#29029
+Service Managers Office~
+     You are in the Service Managers office.  You see piles of orders to
+ship cheaply constructed compatibles back to the makers for credit.  Beside
+those piles are more piles of warranty authorizations for replacement units.
+The Service Manager is sitting at his desk, almost hidden by these piles.  
+He has a frightening, beyond madness look in his eyes.
+~
+290 8 1
+D2
+~
+door~
+1 29009 29025
+Z3
+C-1
+R0
+S
+#29030
+Service Department~
+     You have entered the most sacred area..the service department.  But wait!
+It's not at all what you expected..in front of you you see a poorly equipped
+service area with a not very intelligent fellow standing at the bench.  You
+realise that this fellow must be making about $6.00/hour and just about
+enough brains to swap in a new $700 main board to fix your computer.  Careful,
+~
+290 8 1
+D0
+~
+~
+0 -1 29034
+D1
+~
+~
+0 -1 29031
+D2
+~
+~
+0 -1 29026
+Z3
+C-1
+R0
+S
+#29031
+Service Department~
+    You have entered the most sacred area..the service department. But wait!
+It's not at all what you expected..in front of you you see a poorly equipped
+service area with a not very intelligent fellow standing at the bench. You
+realize that this fellow must be making about $6.00/hour and just about
+enough brains to swap in a new $700 main board to fix your computer. Careful!
+~
+290 8 1
+D0
+~
+~
+0 -1 29035
+D2
+~
+~
+0 -1 29027
+D3
+~
+~
+0 -1 29030
+Z3
+C-1
+R0
+S
+#29032
+Main Aisle~
+     You are on the Main Aisle of the store.  The combination of the glaring
+lights above and the highly polished floor are beginning to give you a 
+headache.  The sales staff seems to look at you with suspicion and distain
+before attempting to fade from view.  What a friendly place to be!
+~
+290 8 1
+D0
+~
+~
+0 -1 29036
+D1
+~
+~
+0 -1 29059
+D2
+~
+~
+0 -1 29028
+Z3
+C-1
+R0
+S
+#29033
+Service Department~
+     You have entered the most sacred area..the service department.  But wait!
+It's not at all what you expected..in front of you you see a poorly equipped
+service area with a not very intelligent fellow standing at the bench.  You
+realise that this fellow must be making about $6.00/hour and just about
+enough brains to swap in a new $700 main board to fix your computer.  Careful,
+~
+290 8 1
+D1
+~
+~
+0 -1 29034
+Z3
+C-1
+R0
+S
+#29034
+Service Department~
+     You have entered the most sacred area..the service department.  But wait!
+It's not at all what you expected..in front of you you see a poorly equipped
+service area with a not very intelligent fellow standing at the bench.  You
+realise that this fellow must be making about $6.00/hour and just about
+enough brains to swap in a new $700 main board to fix your computer.  Careful,
+~
+290 8 1
+D1
+~
+~
+0 -1 29035
+D2
+~
+~
+0 -1 29030
+D3
+~
+~
+0 -1 29033
+Z3
+C-1
+R0
+S
+#29035
+Service Department~
+     You have entered the most sacred area..the service department.  But wait!
+It's not at all what you expected..in front of you you see a poorly equipped
+service area with a not very intelligent fellow standing at the bench.  You
+realise that this fellow must be making about $6.00/hour and just about
+enough brains to swap in a new $700 main board to fix your computer.  Careful,
+~
+290 8 1
+D0
+~
+~
+0 -1 29037
+D2
+~
+~
+0 -1 29031
+D3
+~
+~
+0 -1 29034
+Z3
+C-1
+R0
+S
+#29036
+Main Aisle~
+     You are on the Main Aisle of the store.  The combination of the glaring
+lights above and the highly polished floor are beginning to give you a 
+headache.  The sales staff seems to look at you with suspicion and distain
+before attempting to fade from view.  What a friendly place to be!
+~
+290 8 1
+D0
+~
+~
+0 -1 29038
+D1
+~
+~
+0 -1 29063
+D2
+~
+~
+0 -1 29032
+Z3
+C-1
+R0
+S
+#29037
+Employee Break Room~
+You are in the employee break room, there is a small table and a few chairs.
+Two or three vending machines line one wall.
+You hear a bustle of activity from the South.
+~
+290 16777228 1
+D1
+~
+door~
+1 29007 29038
+D2
+~
+~
+0 -1 29035
+Z3
+C-1
+R0
+S
+#29038
+Main Aisle~
+You have come to the end of the main aisle.  To the North and West are closed
+doors with large signs proclaiming 'Employees Only'.  To the East is the
+last aisle of IBM systems Game Software.  The glare, if anything, is worse
+here and your head begins to throb.
+~
+290 8 1
+D0
+You see a heavy metal door with a serious looking lock on it.  A sign 
+proclaims: 'Employees Only'.
+~
+door~
+2 29006 29084
+D1
+~
+~
+0 -1 29067
+D2
+~
+~
+0 -1 29036
+D3
+You see a strong metal door with a serious looking lock.
+~
+door~
+2 29007 29037
+Z3
+C-1
+R0
+S
+#29039
+Clearance Software Aisle~
+You are on the Clearance Software aisle.  Piles of cheaply designed and
+poorly printed boxes of software threaten to tip over and bury you.
+Prices range from $1.99 to $6.99 and there appears to be nothing at all
+of interest despite the massive numbers of boxes.
+~
+290 8 1
+D1
+~
+~
+0 -1 29040
+D3
+~
+~
+0 -1 29012
+Z3
+C-1
+R0
+S
+#29040
+Clearance Software Aisle~
+You are on the Clearance Software aisle.  Piles of cheaply designed and
+poorly printed boxes of software threaten to tip over and bury you.
+Prices range from $1.99 to $6.99 and there appears to be nothing at all
+of interest despite the massive numbers of boxes.
+~
+290 8 1
+D1
+~
+~
+0 -1 29041
+D3
+~
+~
+0 -1 29039
+Z3
+C-1
+R0
+S
+#29041
+Clearance Software Aisle~
+You are on the Clearance Software aisle.  Piles of cheaply designed and
+poorly printed boxes of software threaten to tip over and bury you.
+Prices range from $1.99 to $6.99 and there appears to be nothing at all
+of interest despite the massive numbers of boxes.
+~
+290 8 1
+D1
+~
+~
+0 -1 29042
+D3
+~
+~
+0 -1 29040
+Z3
+C-1
+R0
+S
+#29042
+East Aisle~
+     You are on the East Aisle of the store.  The combination of the glaring
+overhead lights and the highly polished floor are beginning to give you a
+headache.  The sales staff seem to look at you with distain and suspicion
+before they attempt to fade from view.  What a friendly place this is!
+~
+290 8 1
+D0
+~
+~
+0 -1 29046
+D2
+You see a small, unobtrusive door, easy to miss.
+~
+door~
+4 29008 29094
+D3
+~
+~
+0 -1 29041
+Z3
+C-1
+R0
+S
+#29043
+IBM System Demo Area~
+You are in the IBM type system demo area.  You see many different and
+powerful configurations of 80 series based machines, all running the
+same group of software quickly and efficently.
+~
+290 8 1
+D0
+~
+~
+0 -1 29047
+D1
+~
+~
+0 -1 29044
+D3
+~
+~
+0 -1 29016
+Z3
+C-1
+R0
+S
+#29044
+IBM System Demo Area~
+You are in the IBM type system demo area.  You see many different and
+powerful configurations of 80 series based machines, all running the
+same group of software quickly and efficently.
+~
+290 8 1
+D0
+~
+~
+0 -1 29048
+D1
+~
+~
+0 -1 29045
+D3
+~
+~
+0 -1 29043
+Z3
+C-1
+R0
+S
+#29045
+IBM System Demo Area~
+You are in the IBM type system demo area.  You see many different and
+powerful configurations of 80 series based machines, all running the
+same group of software quickly and efficently.
+~
+290 8 1
+D0
+~
+~
+0 -1 29049
+D1
+~
+~
+0 -1 29046
+D3
+~
+~
+0 -1 29044
+Z3
+C-1
+R0
+S
+#29046
+East Aisle~
+     You are on the East Aisle of the store.  The combination of the glaring
+overhead lights and the highly polished floor are beginning to give you a
+headache.  The sales staff seem to look at you with distain and suspicion
+before they attempt to fade from view.  What a friendly place this is!
+~
+290 8 1
+D0
+~
+~
+0 -1 29050
+D1
+~
+door~
+1 -1 29096
+D2
+~
+~
+0 -1 29042
+D3
+~
+~
+0 -1 29045
+Z3
+C-1
+R0
+S
+#29047
+IBM System Demo Area~
+You are in the IBM type system demo area.  You see many different and
+powerful configurations of 80 series based machines, all running the
+same group of software quickly and efficently.
+~
+290 8 1
+D1
+~
+~
+0 -1 29048
+D2
+~
+~
+0 -1 29043
+D3
+~
+~
+0 -1 29020
+Z3
+C-1
+R0
+S
+#29048
+IBM System Demo Area~
+You are in the IBM type system demo area.  You see many different and
+powerful configurations of 80 series based machines, all running the
+same group of software quickly and efficently.
+~
+290 8 1
+D1
+~
+~
+0 -1 29049
+D2
+~
+~
+0 -1 29044
+D3
+~
+~
+0 -1 29047
+Z3
+C-1
+R0
+S
+#29049
+IBM System Demo Area~
+You are in the IBM type system demo area.  You see many different and
+powerful configurations of 80 series based machines, all running the
+same group of software quickly and efficently.
+~
+290 8 1
+D1
+~
+~
+0 -1 29050
+D2
+~
+~
+0 -1 29045
+D3
+~
+~
+0 -1 29048
+Z3
+C-1
+R0
+S
+#29050
+East Aisle~
+     You are on the East Aisle of the store.  The combination of the glaring
+overhead lights and the highly polished floor are beginning to give you a
+headache.  The sales staff seem to look at you with distain and suspicion
+before they attempt to fade from view.  What a friendly place this is!
+~
+290 8 1
+D0
+~
+~
+0 -1 29054
+D1
+~
+~
+0 -1 29095
+D2
+~
+~
+0 -1 29046
+D3
+~
+~
+0 -1 29049
+Z3
+C-1
+R0
+S
+#29051
+IBM Applications Software~
+     This aisle is crammed with box after box of IBM systems software.  From
+Word Processors and Spreadsheets to Professional Quality Graphics Arts and
+major business software, the choice of applications to accomplish anything
+you can dream of is nearly endless.
+~
+290 8 1
+D1
+~
+~
+0 -1 29052
+D3
+~
+~
+0 -1 29024
+Z3
+C-1
+R0
+S
+#29052
+IBM Applications Software~
+     This aisle is crammed with box after box of IBM systems software.  From
+Word Processors and Spreadsheets to Professional Quality Graphics Arts and
+major business software, the choice of applications to accomplish anything
+you can dream of is nearly endless.
+~
+290 8 1
+D1
+~
+~
+0 -1 29053
+D3
+~
+~
+0 -1 29051
+Z3
+C-1
+R0
+S
+#29053
+IBM Applications Software~
+     This aisle is crammed with box after box of IBM systems software.  From
+Word Processors and Spreadsheets to Professional Quality Graphics Arts and
+major business software, the choice of applications to accomplish anything
+you can dream of is nearly endless.
+~
+290 8 1
+D1
+~
+~
+0 -1 29054
+D3
+~
+~
+0 -1 29052
+Z3
+C-1
+R0
+S
+#29054
+East Aisle~
+     You are on the East Aisle of the store.  The combination of the glaring
+overhead lights and the highly polished floor are beginning to give you a
+headache.  The sales staff seem to look at you with distain and suspicion
+before they attempt to fade from view.  What a friendly place this is!
+~
+290 8 1
+D0
+~
+~
+0 -1 29058
+D2
+~
+~
+0 -1 29050
+D3
+~
+~
+0 -1 29053
+Z3
+C-1
+R0
+S
+#29055
+IBM Applications Software~
+     This aisle is crammed with box after box of IBM systems software.  From
+Word Processors and Spreadsheets to Professional Quality Graphics Arts and
+major business software, the choice of applications to accomplish anything
+you can dream of is nearly endless.
+~
+290 8 1
+D1
+~
+~
+0 -1 29056
+D3
+~
+~
+0 -1 29028
+Z3
+C-1
+R0
+S
+#29056
+IBM Applications Software~
+     This aisle is crammed with box after box of IBM systems software.  From
+Word Processors and Spreadsheets to Professional Quality Graphics Arts and
+major business software, the choice of applications to accomplish anything
+you can dream of is nearly endless.
+~
+290 8 1
+D1
+~
+~
+0 -1 29057
+D3
+~
+~
+0 -1 29055
+Z3
+C-1
+R0
+S
+#29057
+IBM Applications Software~
+     This aisle is crammed with box after box of IBM systems software.  From
+Word Processors and Spreadsheets to Professional Quality Graphics Arts and
+major business software, the choice of applications to accomplish anything
+you can dream of is nearly endless.
+~
+290 8 1
+D1
+~
+~
+0 -1 29058
+D3
+~
+~
+0 -1 29056
+Z3
+C-1
+R0
+S
+#29058
+East Aisle~
+     You are on the East Aisle of the store.  The combination of the glaring
+overhead lights and the highly polished floor are beginning to give you a
+headache.  The sales staff seem to look at you with distain and suspicion
+before they attempt to fade from view.  What a friendly place this is!
+~
+290 8 1
+D0
+~
+~
+0 -1 29062
+D2
+~
+~
+0 -1 29054
+D3
+~
+~
+0 -1 29057
+Z3
+C-1
+R0
+S
+#29059
+IBM Utilities Aisle~
+Here are dozens of different utility programs.  From disk defraggers to
+complex file managers with options no human would ever use, the choices are
+nearly endless.  With these you can diagnose, debug, devirus and maintain
+your PC. 
+~
+290 8 1
+D1
+~
+~
+0 -1 29060
+D3
+~
+~
+0 -1 29032
+Z3
+C-1
+R0
+S
+#29060
+IBM Utilities Aisle~
+Here are dozens of different utility programs.  From disk defraggers to
+complex file managers with options no human would ever use, the choices are
+nearly endless.  With these you can diagnose, debug, devirus and maintain
+your PC. 
+~
+290 8 1
+D1
+~
+~
+0 -1 29061
+D3
+~
+~
+0 -1 29059
+Z3
+C-1
+R0
+S
+#29061
+IBM Utilities Aisle~
+Here are dozens of different utility programs.  From disk defraggers to
+complex file managers with options no human would ever use, the choices are
+nearly endless.  With these you can diagnose, debug, devirus and maintain
+your PC. 
+~
+290 8 1
+D1
+~
+~
+0 -1 29062
+D3
+~
+~
+0 -1 29060
+Z3
+C-1
+R0
+S
+#29062
+East Aisle~
+     You are on the East Aisle of the store.  The combination of the glaring
+overhead lights and the highly polished floor are beginning to give you a
+headache.  The sales staff seem to look at you with distain and suspicion
+before they attempt to fade from view.  What a friendly place this is!
+~
+290 8 1
+D0
+~
+~
+0 -1 29066
+D2
+~
+~
+0 -1 29058
+D3
+~
+~
+0 -1 29061
+Z3
+C-1
+R0
+S
+#29063
+IBM Game Aisle~
+Here are hundreds of different games and pleasant diversions.  From the most
+serious, complex simulations involving tens of thousands of data points to
+the simplest, lightning action joystick game, you're choice here is virtually
+unlimited.
+~
+290 8 1
+D1
+~
+~
+0 -1 29064
+D3
+~
+~
+0 -1 29036
+Z3
+C-1
+R0
+S
+#29064
+IBM Game Aisle~
+Here are hundreds of different games and pleasant diversions.  From the most
+serious, complex simulations involving tens of thousands of data points to
+the simplest, lightning action joystick game, you're choice here is virtually
+unlimited.
+~
+290 8 1
+D1
+~
+~
+0 -1 29065
+D3
+~
+~
+0 -1 29063
+Z3
+C-1
+R0
+S
+#29065
+IBM Game Aisle~
+Here are hundreds of different games and pleasant diversions.  From the most
+serious, complex simulations involving tens of thousands of data points to
+the simplest, lightning action joystick game, you're choice here is virtually
+unlimited.
+~
+290 8 1
+D1
+~
+~
+0 -1 29066
+D3
+~
+~
+0 -1 29064
+Z3
+C-1
+R0
+S
+#29066
+East Aisle~
+     You are on the East Aisle of the store.  The combination of the glaring
+overhead lights and the highly polished floor are beginning to give you a
+headache.  The sales staff seem to look at you with distain and suspicion
+before they attempt to fade from view.  What a friendly place this is!
+~
+290 8 1
+D0
+~
+~
+0 -1 29070
+D1
+~
+~
+0 -1 45800
+D2
+~
+~
+0 -1 29062
+D3
+~
+~
+0 -1 29065
+Z3
+C-1
+R0
+S
+#29067
+IBM Game Aisle~
+Here are hundreds of different games and pleasant diversions.  From the most
+serious, complex simulations involving tens of thousands of data points to
+the simplest, lightning action joystick game, you're choice here is virtually
+unlimited.
+~
+290 8 1
+D1
+~
+~
+0 -1 29068
+D3
+~
+~
+0 -1 29038
+Z3
+C-1
+R0
+S
+#29068
+IBM Game Aisle~
+Here are hundreds of different games and pleasant diversions.  From the most
+serious, complex simulations involving tens of thousands of data points to
+the simplest, lightning action joystick game, you're choice here is virtually
+unlimited.
+~
+290 8 1
+D1
+~
+~
+0 -1 29069
+D3
+~
+~
+0 -1 29067
+Z3
+C-1
+R0
+S
+#29069
+IBM Game Aisle~
+Here are hundreds of different games and pleasant diversions.  From the most
+serious, complex simulations involving tens of thousands of data points to
+the simplest, lightning action joystick game, you're choice here is virtually
+unlimited.
+~
+290 8 1
+D1
+~
+~
+0 -1 29070
+D3
+~
+~
+0 -1 29068
+Z3
+C-1
+R0
+S
+#29070
+East Aisle~
+     You are on the East Aisle of the store.  The combination of the glaring
+overhead lights and the highly polished floor are beginning to give you a
+headache.  The sales staff seem to look at you with distain and suspicion
+before they attempt to fade from view.  What a friendly place this is!
+~
+290 8 1
+D2
+~
+~
+0 -1 29066
+D3
+~
+~
+0 -1 29069
+Z3
+C-1
+R0
+S
+#29071
+Stairs~
+     You are on a steep flight of stairs, connecting the Service Department
+to a sub-basement you never suspected existed.  The air is somewhat stale
+and dank, and you can feel the weight of the earth above you.  The lights
+don't seem to be working here.
+~
+290 9 1
+D3
+~
+~
+0 -1 29072
+D4
+~
+trapdoor~
+1 -1 29029
+Z3
+C-1
+R0
+S
+#29072
+Narrow Passage~
+     You are walking along a fairly narrow tunnel.  The walls are rough hewn
+rock and faintly damp.  The lights are either turned off or not working.
+You are starting to get a REALLY unpleasant feeling about this place.
+~
+290 9 1
+D1
+~
+~
+0 -1 29071
+D3
+~
+~
+0 -1 29073
+Z3
+C-1
+R0
+S
+#29073
+Intersection~
+     The passage widens here at a four way intersection.  You see nothing
+in any direction, the darkness is complete.
+~
+290 9 1
+D0
+~
+~
+0 -1 29097
+D1
+~
+~
+0 -1 29072
+D2
+~
+~
+0 -1 29074
+D3
+~
+~
+0 -1 29084
+Z3
+C-1
+R0
+S
+#29074
+Narrow Tunnel~
+     You are moving along a dark, rock lined tunnel.  Your light doesn't
+carry far and you can barely see the rough walls as you pass.
+~
+290 9 1
+D1
+~
+~
+0 -1 29078
+D2
+~
+~
+0 -1 29075
+D3
+~
+~
+0 -1 29076
+Z3
+C-1
+R0
+S
+#29075
+Narrow Tunnel~
+     You are moving along a dark, rock lined tunnel.  Your light doesn't
+carry far and you can barely see the rough walls as you pass.
+~
+290 9 1
+D2
+~
+~
+0 -1 29000
+D3
+~
+~
+0 -1 29077
+Z3
+C-1
+R0
+S
+#29076
+Narrow Tunnel~
+     You are moving along a dark, rock lined tunnel.  Your light doesn't
+carry far and you can barely see the rough walls as you pass.
+~
+290 9 1
+D1
+~
+~
+0 -1 29074
+D3
+~
+~
+0 -1 29077
+Z3
+C-1
+R0
+S
+#29077
+Narrow Tunnel~
+     You are moving along a dark, rock lined tunnel.  Your light doesn't
+carry far and you can barely see the rough walls as you pass.
+~
+290 9 1
+D0
+~
+~
+0 -1 29000
+D3
+~
+~
+0 -1 29085
+Z3
+C-1
+R0
+S
+#29078
+Narrow Tunnel~
+     You are moving along a dark, rock lined tunnel.  Your light doesn't
+carry far and you can barely see the rough walls as you pass.
+~
+290 9 1
+D0
+~
+~
+0 -1 29000
+D1
+~
+~
+0 -1 29086
+Z3
+C-1
+R0
+S
+#29079
+Narrow Tunnel~
+     You are moving along a dark, rock lined tunnel.  Your light doesn't
+carry far and you can barely see the rough walls as you pass.
+~
+290 9 1
+D1
+~
+~
+0 -1 29080
+D2
+~
+~
+0 -1 29000
+Z3
+C-1
+R0
+S
+#29080
+Narrow Tunnel~
+     You are moving along a dark, rock lined tunnel.  Your light doesn't
+carry far and you can barely see the rough walls as you pass.
+~
+290 9 1
+D1
+~
+~
+0 -1 29081
+Z3
+C-1
+R0
+S
+#29081
+Narrow Tunnel~
+     You are moving along a dark, rock lined tunnel.  Your light doesn't
+carry far and you can barely see the rough walls as you pass.
+~
+290 9 1
+D0
+~
+~
+0 -1 29088
+D1
+~
+~
+0 -1 29082
+Z3
+C-1
+R0
+S
+#29082
+Narrow Tunnel~
+     You are moving along a dark, rock lined tunnel.  Your light doesn't
+carry far and you can barely see the rough walls as you pass.
+~
+290 9 1
+D0
+~
+~
+0 -1 29089
+D1
+~
+~
+0 -1 29083
+Z3
+C-1
+R0
+S
+#29083
+UNIX Consultants Office~
+     You have reached the end of your quest!  You have entered the Holy and
+sacred presence of Chip, the UNIX consultant.  You gasp in awe!  Chip wears
+a double pocket shirt and TWO pocket protectors!!!  Looking behind Chip
+you see an Eight CPU, 256 MB RAM Sparc Workstation with phone cables the
+diameter of your arm running into it.  Who IS this guy??
+~
+290 4194312 1
+D3
+~
+~
+0 -1 29082
+Z3
+C-1
+R0
+S
+#29084
+Narrow Tunnel~
+     You are moving along a dark, rock lined tunnel.  Your light doesn't
+carry far and you can barely see the rough walls as you pass.
+~
+290 13 1
+D0
+~
+~
+0 -1 29000
+D3
+~
+~
+0 -1 29085
+Z3
+C-1
+R0
+S
+#29085
+Narrow Tunnel~
+     You are moving along a dark, rock lined tunnel.  Your light doesn't
+carry far and you can barely see the rough walls as you pass.
+~
+290 9 1
+D0
+~
+~
+0 -1 29085
+D3
+~
+~
+0 -1 29084
+Z3
+C-1
+R0
+S
+#29086
+Narrow Tunnel~
+     You are moving along a dark, rock lined tunnel.  Your light doesn't
+carry far and you can barely see the rough walls as you pass.
+~
+290 9 1
+D0
+~
+~
+0 -1 29000
+D1
+~
+~
+0 -1 29087
+Z3
+C-1
+R0
+S
+#29087
+Narrow Tunnel~
+     You are moving along a dark, rock lined tunnel.  Your light doesn't
+carry far and you can barely see the rough walls as you pass.
+~
+290 9 1
+D0
+~
+~
+0 -1 29000
+D1
+~
+~
+0 -1 29086
+Z3
+C-1
+R0
+S
+#29088
+Narrow Tunnel~
+     You are moving along a dark, rock lined tunnel.  Your light doesn't
+carry far and you can barely see the rough walls as you pass.
+~
+290 9 1
+D0
+~
+~
+0 -1 29000
+D1
+~
+~
+0 -1 29089
+Z3
+C-1
+R0
+S
+#29089
+Narrow Tunnel~
+     You are moving along a dark, rock lined tunnel.  Your light doesn't
+carry far and you can barely see the rough walls as you pass.
+~
+290 9 1
+D0
+~
+~
+0 -1 29000
+D1
+~
+~
+0 -1 29088
+Z3
+C-1
+R0
+S
+#29090
+Quiet Corridor~
+  You are in a quiet, Mahogany paneled corridor.  The plush carpet and
+indirect lighting make this a quiet, pleasant walk.  Obviously, somebody
+important uses this passage.
+~
+290 9 0
+D0
+~
+door~
+1 29009 29094
+D2
+~
+~
+0 -1 29091
+Z3
+C-1
+R0
+S
+#29091
+Quiet Corridor~
+  You are in a quiet, Mahogany paneled corridor.  The plush carpet and
+indirect lighting make this a quiet, pleasant walk.  Obviously, somebody
+important uses this passage.
+~
+290 9 0
+D0
+~
+~
+0 -1 29090
+D2
+~
+~
+0 -1 29092
+Z3
+C-1
+R0
+S
+#29092
+Corporate Execs office~
+   You are in a plushly appointed office.  The deep pile carpet, hardwood
+paneling, wet bar, leather furniture and a large, expensive desk point to
+a Very Important Resident.  You start a little as the bar refrigerator
+whirrs on.
+~
+290 8 0
+D0
+~
+~
+0 -1 29091
+Z3
+C-1
+R0
+S
+#29093
+Moira's Place~
+ You are in Moira's room.  The soft indirect lighting and soft music relax you.
+Silk wall hangings, rugs and Cushions scattered about give you
+a feeling of luxurious abandonment.
+~
+290 8200 1
+D0
+~
+~
+0 -1 3006
+D2
+~
+~
+0 -1 2000
+Z3
+C-1
+R0
+S
+#29094
+Store Managers office~
+  You are in the Store Managers office.  It's nothing very impressive, a
+cheap metal desk, a couple of filing cabinets and a safe.  Brrr!  He's got
+the Air Conditioning cranked WAY down!! Shiver!
+~
+290 16777256 1
+D0
+~
+door~
+1 -1 29042
+D2
+You see a hardwood door, with a big brass lock.
+~
+door~
+4 29009 29090
+Z3
+C-1
+R0
+S
+#29095
+Women's Room~
+     You step into a stainless steel and tile wonderland...well...actually
+it's a bit too grungy to be a wonderland.  You notice that there's no soap
+at the sink and nothing to dry your hands with.  While there IS toilet
+paper in the stall, you decide that while the facilities might do in a dire
+emergency, you can hold off long enough.
+~
+290 136 1
+D3
+~
+~
+0 -1 29050
+Z3
+C-1
+R0
+S
+#29096
+Men's Room~
+     You step into a stainless steel and tile wonderland...well...actually
+it's a bit too grungy to be a wonderland.  You notice that there's no soap
+at the sink and nothing to dry your hands with.  While there IS toilet
+paper in the stall, you decide that while the facilities might do in a dire
+emergency, you can hold off long enough.
+~
+290 136 1
+D3
+~
+door~
+1 -1 29046
+Z3
+C-1
+R0
+S
+#29097
+Narrow Tunnel~
+     You are moving along a dark, rock lined tunnel.  Your light doesn't
+carry far and you can barely see the rough walls as you pass.
+~
+290 9 1
+D0
+~
+~
+0 -1 29098
+D3
+~
+~
+0 -1 29000
+Z3
+C-1
+R0
+S
+#29098
+Narrow Tunnel~
+     You are moving along a dark, rock lined tunnel.  Your light doesn't
+carry far and you can barely see the rough walls as you pass.
+~
+290 9 1
+D0
+~
+~
+0 -1 29097
+D3
+~
+~
+0 -1 29000
+Z3
+C-1
+R0
+S
+#29099
+Magrons Workroom~
+  You are in a comfortable, medium sized efficency apartment.  The room holds
+a lovesized seat sofa, a chair, a bed, TV, BoomBox, and VCR.  A good sized
+japanime collection shares a small bookshelf with software boxes.  On a 
+wooden table sits a pretty decent computer system.  A 486 DX4/100 with 32
+MB RAM, 2mb Diamond Viper VL video card driving a 21" Sony multisync monitor.
+The heart of the system is an Adaptec 2842 32 bit SCSI adaptor connected to
+a 1 GB Fujitsu HDD and a Kodak Exabyte 2.5 GB streaming SCSI tape backup.
+A 3 1/2" FDD, a NEC 4x CDRom and a U.S. Robotics 14.4 Sportster modem complete
+the picture.  A door to the bathroom, and a fair sized kitchen area with
+table and chairs share the N wall of the room.
+~
+290 8 1
+Z3
+C-1
+R0
+S
+$~

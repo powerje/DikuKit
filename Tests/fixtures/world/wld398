@@ -1,0 +1,2601 @@
+#39800
+{BLACK,BOLD}The Prairie{b}~
+
+{BO,BLA}   You see nothing but a great prairie on every side. Neither
+   tree nor house breaks the wide sweep of flat plains that
+   extend to the edge of the sky in all directions. The sun has 
+   bleached the tilled land into a gray landscape. Even the 
+   grass is not green, as the sun has baked the once green tops 
+   of the long blades until they are the same gray color. Once, 
+   the little house had been painted, but it too has faded under 
+   the blistering sun. From the far north, you hear a low wail 
+   of the wind.{b}
+
+~
+398 0 2
+D0
+~
+~
+0 -1 42453
+D1
+~
+~
+0 -1 39801
+X8
+Z-1
+C2
+R100
+S
+#39801
+{BLACK,BOLD}A Small Wooden House{b}~
+
+   {BO,BLA}Lumber to build this small one-room house must have
+   been carried by wagon for many miles across the great 
+   Kansas prairies. The house has no garret or real cellar, just 
+   a small hole dug in the ground where the family could go in 
+   case of a cyclone. Lining the walls are a rusty looking 
+   cookstove, a cupboard for the dishes, a small wooden table,
+   and the beds. 
+
+~
+398 8 0
+D3
+~
+~
+0 -1 39800
+D5
+~
+cellar~
+1 39800 39802
+X8
+Z-1
+C2
+R0
+S
+#39802
+{BLACK,BOLD}The Cellar{b}~
+
+   {BLACK,BOLD}The ladder leads down into the small, dark hole.  A large,
+   {WHITE}white {BOLD,BLACK}safe rests against the wall.{b}
+
+~
+398 262152 1
+D4
+~
+cellar~
+1 -1 39801
+X8
+Z-1
+C2
+R0
+S
+#39803
+{BOLD,BLACK}The Cyclone{b}~
+
+   {BO,BLA}You rise through the air, as if you were going up in a balloon. It
+   is very dark, and the wind howls around you so loudly that you 
+   nearly become deaf. The great pressure on every side of you 
+   raises you up higher and higher.  
+
+~
+398 1048580 2
+D0
+~
+~
+0 -1 39804
+D1
+~
+~
+0 -1 39804
+D2
+~
+~
+0 -1 39804
+D3
+~
+~
+0 -1 39804
+D4
+~
+~
+0 -1 39804
+D5
+~
+~
+0 -1 39804
+X8
+Z-1
+C2
+R0
+S
+#39804
+{BL,B}The Cyclone{b}~
+
+   {BO,BLA}The wind carries you miles and miles away as easily as you could 
+   carry a feather. At first, you worry about being smashed to 
+   pieces when you fell. As the hours pass, you stop worrying and 
+   resolve to calmly await your fate. In spite of the roaring winds
+   you close your eyes and fall asleep.  
+
+~
+398 1310720 2
+D0
+~
+~
+0 -1 39805
+D1
+~
+~
+0 -1 18614
+D2
+~
+~
+0 -1 1799
+D3
+~
+~
+0 -1 3014
+D4
+~
+~
+0 -1 3156
+D5
+~
+~
+0 -1 18614
+X8
+Z-1
+C2
+R0
+S
+#39805
+{CYAN}The Landing{b}~
+
+   {CYA}The cyclone set the house in the midst of a land of mysterious
+   beauty. There are patches of {BO,MAG}colorful flowers{bo,CYA} all around and
+   magnificent trees bearing {BO,GRE}luscious {bo,CYA}and unfamiliar fruits.  Birds
+   with rare and exotic {BO,YEL}plumage {bo,CYA}sing and flutter about. 
+{b}
+~
+398 4 1
+D1
+~
+~
+0 -1 39806
+D5
+{CYA}Under the corner of the house, two feet are sticking out,
+shod in {BO,BLA}S{BO,WHI}t{BO,BLA}r{BO,WHI}i{BO,BLA}p{BO,WHI}e{BO,BLA}d {BO,WHI}S{BO,BLA}t{BO,WHI}o{BO,BLA}c{BO,WHI}k{BO,BLA}i{BO,WHI}n{BO,BLA}g{BO,WHI}s{bo,CYA} with pointed toes. As you reach for  
+the witches feet, they shrivel up and completely disappear 
+under the house.{b}
+~
+Corner~
+1 -1 39807
+Z-1
+C3
+R0
+S
+#39806
+{CYAN}The Landing{b}~
+
+   {CYAN}While you stand looking eagerly at the strange and beautiful 
+   sights, you notice a group of the strangest people you have ever 
+   seen. {b}
+
+~
+398 0 1
+D0
+~
+~
+0 -1 39809
+D2
+~
+~
+0 -1 39808
+D3
+~
+~
+0 -1 39805
+X8
+Z-1
+C2
+R0
+S
+#39807
+{YEL}A Narrow Crawlspace{b}~
+
+   {YEL}Released by the cyclone, the farmhouse fell through the sky and 
+   landed right on top of the {GRE}Wicked Witch of the East{YEL}, ultimately 
+   putting an end to her Wickedness once and for all.{b}
+
+~
+398 262144 1
+D4
+~
+Corner~
+1 -1 39805
+X8
+Z-1
+C2
+R0
+S
+#39808
+{BO,GRE}Thick {b,YEL}Woods{b}~
+
+   {BO,GRE}You travel south until you come to a thick wood. There is 
+   no way of going around it, for it seems to extend to the 
+   {b,YEL}right and left as far as you can see.  Besides, you dare not 
+   change the direction of your journey for fear of getting lost. {b}
+
+~
+398 0 3
+D0
+~
+~
+0 -1 39806
+D2
+~
+~
+0 -1 39878
+X8
+Z-1
+C2
+R0
+S
+#39809
+{CYAN}Crossroads{b}~
+
+   {CYAN}The path here branches into three directions.
+
+   To the east and west extends a {YEL}great desert{CY}.
+
+   Off to the north is paved with {B,YEL}yellow brick{b,CY}.{b}
+
+~
+398 262148 1
+D0
+~
+~
+0 -1 39814
+D1
+~
+~
+0 -1 39811
+D2
+~
+~
+0 -1 39806
+D3
+~
+~
+0 -1 39810
+X8
+Z-1
+C2
+R0
+S
+#39810
+{YEL}The Desert{b}~
+
+   {YEL}A strong, dry wind gusts from the south, swirling loose dirt and 
+   sand into the air. The sky becomes a surreal yellow, and your 
+   visibility is reduced to near zero. Being overtaken by the 
+   sandstorm, you lose your way. {b}
+
+~
+398 80 0
+D0
+~
+~
+0 -1 39815
+D1
+~
+~
+0 -1 39811
+D2
+~
+~
+0 -1 39816
+D3
+~
+~
+0 -1 39815
+T39899
+X1032
+Z-1
+C2
+R0
+S
+#39811
+{YEL}The Desert{b}~
+
+   {YEL}A strong, dry wind gusts from the south, swirling loose dirt and 
+   sand into the air. The sky becomes a surreal yellow, and your 
+   visibility is reduced to near zero. Being overtaken by the 
+   sandstorm, you lose your way. {b}
+
+~
+398 80 0
+D0
+~
+~
+0 -1 39811
+D1
+~
+~
+0 -1 39812
+D2
+~
+~
+0 -1 39810
+D3
+~
+~
+0 -1 39815
+X1032
+Z-1
+C2
+R0
+S
+#39812
+{YEL}The Desert{b}~
+
+   {YEL}A strong, dry wind gusts from the south, swirling loose dirt and 
+   sand into the air. The sky becomes a surreal yellow, and your 
+   visibility is reduced to near zero. Being overtaken by the 
+   sandstorm, you lose your way. {b}
+
+~
+398 80 0
+D0
+~
+~
+0 -1 39811
+D1
+~
+~
+0 -1 39813
+D2
+~
+~
+0 -1 39811
+D3
+~
+~
+0 -1 39815
+T39899
+X1032
+Z-1
+C2
+R0
+S
+#39813
+{YEL}The Desert{b}~
+   
+   {YEL}A strong, dry wind gusts from the south, swirling loose dirt and 
+   sand into the air. The sky becomes a surreal yellow, and your 
+   visibility is reduced to near zero. Being overtaken by the 
+   sandstorm, you lose your way. {b}
+
+~
+398 80 0
+D0
+~
+~
+0 -1 39811
+D1
+~
+~
+0 -1 39817
+D2
+~
+~
+0 -1 39812
+D3
+~
+~
+0 -1 39816
+T39899
+X1032
+Z-1
+C2
+R0
+S
+#39814
+{B,YE}The Yellow Brick Road{b}~
+
+   {CY}Your {B,RE}ruby shoes{b,CY} click merrily on the {B,YE}yellow{b,CY} roadbed. The sun
+   shines bright, the birds sing {B,YE}sweetly, and{b,CY} you do not feel nearly 
+   as bad as you might think {B,YE}one who had been{b,CY} suddenly whisked 
+   away from Kansas and {B,YE}set down in the midst of{b,CY} a strange land 
+   would.{b}
+
+~
+398 0 1
+D1
+~
+~
+0 -1 39820
+D2
+~
+~
+0 -1 39809
+X8
+Z-1
+C2
+R0
+S
+#39815
+{YEL}The Desert{b}~
+
+   {YEL}A strong, dry wind gusts from the south, swirling loose dirt and 
+   sand into the air. The sky becomes a surreal yellow, and your 
+   visibility is reduced to near zero. Being overtaken by the 
+   sandstorm, you lose your way. {b}
+
+~
+398 80 0
+D0
+~
+~
+0 -1 39810
+D1
+~
+~
+0 -1 39811
+D2
+~
+~
+0 -1 39810
+E
+39816~
+
+~
+T39899
+X1032
+Z-1
+C2
+R0
+S
+#39816
+{YEL}The Desert{b}~
+
+   {YEL}A strong, dry wind gusts from the south, swirling loose dirt and 
+   sand into the air. The sky becomes a surreal yellow, and your 
+   visibility is reduced to near zero. Being overtaken by the 
+   sandstorm, you lose your way. {b}
+
+~
+398 80 0
+D0
+~
+~
+0 -1 39810
+D1
+~
+~
+0 -1 39811
+D3
+~
+~
+0 -1 39815
+T39899
+X1032
+Z-1
+C2
+R0
+S
+#39817
+{YEL}The Desert{b}~
+
+   {YEL}A strong, dry wind gusts from the south, swirling loose dirt and 
+   sand into the air. The sky becomes a surreal yellow, and your 
+   visibility is reduced to near zero. Being overtaken by the 
+   sandstorm, you lose your way. {b}
+
+~
+398 80 0
+D0
+~
+~
+0 -1 39815
+D1
+~
+~
+0 -1 39818
+D2
+~
+~
+0 -1 39818
+D3
+~
+~
+0 -1 39812
+T39899
+X1032
+Z-1
+C2
+R0
+S
+#39818
+{YEL}The Desert{b}~
+
+   {YEL}A strong, dry wind gusts from the south, swirling loose dirt and 
+   sand into the air. The sky becomes a surreal yellow, and your 
+   visibility is reduced to near zero. Being overtaken by the 
+   sandstorm, you lose your way. {b}
+
+~
+398 80 0
+D0
+~
+~
+0 -1 39819
+D1
+~
+~
+0 -1 39810
+D2
+~
+~
+0 -1 39816
+D3
+~
+~
+0 -1 39813
+T39899
+X1032
+Z-1
+C2
+R0
+S
+#39819
+{B,CY}Oasis{b}~
+
+   {YEL}By the purest chance, you come upon a {BO,CYAN}spring {bo,YEL}surrounded by 
+   {GRE}vegetation. {YEL}Only the hardiest travelers survive to eat this {BO,RED}f{YEL}r{GRE}u{CYAN}i{MAG}t{RED}.{b}
+
+~
+398 262144 0
+D2
+~
+~
+0 -1 39818
+X8
+Z-1
+C2
+R0
+S
+#39820
+{B,YE}The Yellow Brick Road{b}~
+
+   {CYAN}There are neat fences at the {B,YE}sides of the{b,CY} road, painted in solid 
+   {WH}white{CY}, and beyond them are {B,YE}fields of corn.{b,CY}  Evidently the 
+   Munchkins are good farmers {B,YE}and able to raise{b,CY} large crops.  Not 
+   far away in the field you {B,YE}see a Scarecrow to{b,CY} keep the birds from 
+   the ripe corn.{b}
+
+~
+398 0 1
+D0
+~
+~
+0 -1 39822
+D2
+~
+board~
+1 -1 39821
+D3
+~
+~
+0 -1 39814
+X8
+Z-1
+C2
+R0
+S
+#39821
+{Y}Cornfield{b}~
+
+   {YEL}The long rows of {GRE}green stalks {YEL}stand more than six feet tall with 
+   yellow silk dangling from each ripening ear. Suddenly, 
+   something - an animal? - darts across the corn rows. The 
+   cornstalks begin to rustle and sway in the breeze. A rush of 
+   terror overcomes you.
+
+~
+398 0 2
+D0
+~
+board~
+1 -1 39820
+X8
+Z-1
+C1
+R0
+S
+#39822
+{GR}Road Through The Forest {b}~
+
+   {BO,GRE}A great forest lies ahead of you. There are no longer fences by 
+   the roadside, and the land here is rough and untilled. The trees 
+   have grown so big and close together that their branches meet 
+   over the road of yellow brick and almost completely shut out 
+   the daylight. 
+{b}
+~
+398 4 3
+D0
+~
+~
+0 -1 39823
+D2
+~
+~
+0 -1 39820
+X8
+Z-1
+C2
+R0
+S
+#39823
+{GRE}Deeper into the Forest{b}~
+
+   {GRE}As the light fades away, you find yourself stumbling along in the 
+   dark. You cannot see at all, but you're fearful of what your 
+   light may awake in the darkness.{b}
+
+~
+398 0 3
+D0
+~
+~
+0 -1 39824
+D1
+~
+~
+0 -1 39825
+D2
+~
+~
+0 -1 39822
+D3
+~
+~
+0 -1 39826
+X8
+Z-1
+C2
+R0
+S
+#39824
+{GRE}Deeper into the Forest{b}~
+
+   {GRE}As the light fades away, you find yourself stumbling along in the 
+   dark. You cannot see at all, but you're fearful of what your 
+   light may awake in the darkness.{b}
+
+~
+398 1 3
+D0
+~
+~
+0 -1 39825
+D1
+~
+~
+0 -1 39825
+D2
+~
+~
+0 -1 39823
+D3
+~
+~
+0 -1 39825
+X8
+Z3
+C2
+R0
+S
+#39825
+{GRE}Deeper into the Forest{b}~
+
+   {GRE}As the light fades away, you find yourself stumbling along in the 
+   dark. You cannot see at all, but you're fearful of what your 
+   light may awake in the darkness.{b}
+
+~
+398 0 3
+D0
+~
+~
+0 -1 39826
+D1
+~
+~
+0 -1 39824
+D2
+~
+~
+0 -1 39824
+D3
+~
+~
+0 -1 39823
+X8
+Z-1
+C2
+R0
+S
+#39826
+{GRE}Deeper into the Forest{b}~
+
+   {GRE}As the light fades away, you find yourself stumbling along in the 
+   dark. You cannot see at all, but you're fearful of what your 
+   light may awake in the darkness.{b}
+
+~
+398 0 3
+D0
+~
+~
+0 -1 39827
+D2
+~
+~
+0 -1 39825
+D3
+~
+~
+0 -1 39824
+X8
+Z-1
+C2
+R0
+S
+#39827
+{YE}A Clearing {b}~
+
+   {YEL}As you exit into a clearing, a groan reaches your ears. The
+   sound seems to come from behind you. As you turn and walk 
+   through the forest a few steps, you discover something {B,YEL}shining
+   in a ray of sunshine{b,YEL} that fell between the trees. 
+
+~
+398 4 3
+D0
+~
+~
+0 -1 39828
+D1
+~
+~
+0 -1 39829
+D2
+~
+~
+0 -1 39826
+D3
+~
+~
+0 -1 39830
+X8
+Z-1
+C2
+R0
+S
+#39828
+{WHITE}The Tinman{b}~
+
+   {GRE}One of the big trees has been partly chopped through.  Standing 
+   beside it, with a large axe in uplifted hands, is a {WHI}man made 
+   entirely of tin{GRE}.{b}  
+
+~
+398 0 3
+D2
+~
+~
+0 -1 39827
+X8
+Z-1
+C2
+R0
+S
+#39829
+{YE}Cottage{b}~
+
+   {Y}You come upon a small cottage built of logs and branches.  It
+   has only a single, almost baron room.  A bed of dried leaves
+   rests in one corner. {b}
+
+~
+398 8 1
+D3
+~
+~
+0 -1 39827
+X8
+Z-1
+C2
+R0
+S
+#39830
+{GRE}Thick Woods{b}~
+
+   {bo,GRE}The road is still paved with {BO,YEL}yellow brick{bo,GRE}, but much is covered by 
+   dried branches and dead leaves from the trees, and the walking 
+   is not at all good.  You have seen very few animals in this part of 
+   the forest, for most love the open country where there is plenty 
+   of sunshine.
+
+   But now and then there comes a deep growl from some wild 
+   animal hidden amongst the trees. These sounds make your 
+   heart beat fast, for you do not know what kind of beast makes 
+   them.   {b}
+
+~
+398 0 3
+D0
+~
+~
+0 -1 39831
+D1
+~
+~
+0 -1 39827
+D3
+~
+coverup~
+3 39832 39898
+X8
+Z-1
+C2
+R0
+S
+#39831
+{YE}The Cowardly Lion{b}~
+
+   {YE}Just as you round the corner there comes from the forest a 
+   terrible roar, and the next moment a great Lion bounds
+   into the road. With one blow of his paw, he sends you 
+   tumbling over and over to the edge of the road. {b} 
+
+~
+398 0 3
+D2
+~
+~
+0 -1 39830
+D3
+~
+~
+0 -1 39832
+X8
+Z-1
+C2
+R0
+S
+#39832
+{YEL}Great Chasm{b}~
+
+   {YEL}You have hardly been walking an hour when you see before you
+   a great chasm that crosses the road and divides the forest as far 
+   as you can see on either side. It is very wide, and when you 
+   creep up to the edge and look into it, you can see it is also very 
+   deep, with many large, jagged rocks at the bottom. The sides 
+   are so steep that no one could possibly climb down. It seems 
+   your journey may be at an end.  {b}
+
+~
+398 4 5
+D1
+~
+~
+0 -1 39831
+D3
+~
+~
+0 -1 39833
+X8
+Z-1
+C2
+R0
+S
+#39833
+{YEL}Falling{b}~
+
+   {YEL}The next moment it seems as if you are flying through the air,
+   and then, before you have time to think, you beginning falling at
+   a rapid rate into the thick {GRE}forest{YEL} below. {b}
+
+~
+398 1310980 9
+D5
+~
+~
+0 -1 39834
+T39834
+X8
+Z-1
+C2
+R0
+S
+#39834
+{GRE}Thickets{b}~
+
+   {BO}{bo,GRE}The forest is very thick on this side and looks even darker. After 
+   a brief rest, you start along the road of yellow bricks again, 
+   silently wondering if you will ever make it to the end of the 
+   woods and see the bright sunshine again.  To add to your 
+   discomfort, you soon hear strange noises in the depths of the 
+   forest. This must be the part of the country where the {BO,MAG}Kalidahs{bo,GRE} 
+   live.{b}
+
+~
+398 0 3
+D1
+~
+~
+0 -1 39835
+X8
+Z-1
+C2
+R0
+S
+#39835
+{YEL}Gulf{b}~
+
+   {YEL}You come to another gulf across the road, but this one is so 
+   broad and deep that you know at once there is no way to 
+   transverse it. A great tree stands close to the gulch. {b}
+
+~
+398 0 5
+D0
+~
+tree~
+4 39827 39836
+D3
+~
+~
+0 -1 39834
+X8
+Z-1
+C2
+R0
+S
+#39836
+{GRE}Tree {YEL}Bridge{b}~
+
+   {BO,GRE}So sharp is your axe that the tree was soon chopped through. 
+   The big tree tipped and fell with a crash across the ditch, with 
+   its top branches crashing down on the other side.
+
+   {b,YEL}As you cross, you walk slowly, minding your feet not to 
+   misstep. A sharp growl makes you look up, and to your 
+   horror, you see running towards you two great beasts with 
+   bodies like bears and heads like tigers.   {b}
+
+~
+398 0 3
+D0
+~
+~
+0 -1 39837
+D2
+~
+tree~
+1 -1 39835
+X8
+Z-1
+C2
+R0
+S
+#39837
+{GRE}Tree {YEL}Bridge{b}~
+
+   {GRE}This encounter makes you more anxious than ever to get 
+   out of the forest.  
+
+   {YEL}To your great joy the trees appear to become thinner the 
+   farther you advance, and you can soon hear the splashing 
+   and bubbling of water.  
+
+~
+398 0 3
+D0
+~
+~
+0 -1 42470
+D2
+~
+~
+0 -1 39836
+X8
+Z-1
+C2
+R0
+S
+#39838
+{BO,BLU}Riverbank{b}~
+
+   {BO,GRE}Behind is the dark forest that you have passed safely 
+   {b,YEL}through. Before you is a bright, sunny landscape that 
+   appears to beckon you on to the Emerald City. Cutting you
+   {BO,BLUE}off from this beautiful land is a broad river, flowing swiftly 
+   just before you. On the other side of the water, you  see the 
+   road of yellow brick amidst green meadows dotted with
+   bright flowers.  {b}
+
+~
+398 0 3
+D0
+~
+~
+0 -1 39839
+D2
+~
+~
+0 -1 39837
+X8
+Z-1
+C2
+R0
+S
+#39839
+{BOLD,BLU}Caught in the Current{b}~
+
+   {BO,BLU}You are caught in the current and swept downstream. You
+   struggle to keep your head above water as you are pulled 
+   down by an undertow. A few seconds underwater may 
+   turn into an eternity if you yield to panic.    {b}
+
+~
+398 1310884 10
+D0
+~
+~
+0 -1 39843
+D1
+~
+~
+0 -1 42454
+D2
+~
+~
+0 -1 42454
+D3
+~
+~
+0 -1 42454
+D5
+~
+~
+0 -1 42454
+X10
+Z-1
+C2
+R0
+S
+#39840
+{BO,GRE}Lily Pad{b}~
+
+   {BO,GRE}A giant flowering leaf of a water lily floats here near the 
+   bank of the river. A large frog sits atop the lily pad 
+   basking in the sun.  {b} 
+
+~
+398 256 6
+D0
+~
+~
+0 -1 39845
+D1
+~
+~
+0 -1 39844
+T39842
+X8
+Z-1
+C2
+R0
+S
+#39841
+{BOLD,BLU}Caught in the Current{b}~
+
+   {BO,BLU}You are caught in the current and swept downstream. You
+   struggle to keep your head above water as you are pulled 
+   down by an undertow. A few seconds underwater may 
+   turn into an eternity if you yield to panic.    {b}
+
+~
+398 1310756 10
+D0
+~
+~
+0 -1 39842
+D1
+~
+~
+0 -1 39842
+D2
+~
+~
+0 -1 39842
+D3
+~
+~
+0 -1 39842
+D5
+~
+~
+0 -1 39842
+X10
+Z-1
+C2
+R0
+S
+#39842
+{BOL,BLUE}Bottom of the River {b}~
+
+   {BO,BLU}Splish, splash. You find yourself helpless in the grasp of 
+   the undertow. More fatal and treacherous than any beast, it 
+   pulls you down to your watery grave.  
+{b}
+~
+398 262304 10
+X8
+Z-1
+C2
+R0
+S
+#39843
+{BOLD,BLU}Caught in the Current{b}~
+
+   {BO,BLU}You are caught in the current and swept downstream. You
+   struggle to keep your head above water as you are pulled 
+   down by an undertow. A few seconds underwater may 
+   turn into an eternity if you yield to panic.    {b}
+
+~
+398 262432 10
+D0
+~
+~
+0 -1 39845
+D2
+~
+~
+0 -1 39843
+D3
+~
+~
+0 -1 39844
+D5
+~
+~
+0 -1 39843
+T39842
+X10
+Z-1
+C2
+R0
+S
+#39844
+{BOLD,BLU}Caught in the Current{b}~
+
+   {BO,BLU}You are caught in the current and swept downstream. You
+   struggle to keep your head above water as you are pulled 
+   down by an undertow. A few seconds underwater may 
+   turn into an eternity if you yield to panic.    {b}
+
+~
+398 1311008 10
+D0
+~
+~
+0 -1 39845
+D1
+~
+~
+0 -1 39843
+D2
+~
+~
+0 -1 39843
+D3
+~
+~
+0 -1 39840
+D4
+~
+~
+0 -1 39840
+D5
+~
+~
+0 -1 39843
+T39842
+X10
+Z-1
+C2
+R0
+S
+#39845
+{MAG}The Deadly Poppy Fields {b}~
+
+   {BO,MAG}You start up the grassy bank to the {YEL}road.{MAG} It is a lovely
+   sight! Ahead is a field covered with flowers, trees 
+   bearing luscious fruits, and {YEL}sunshine to cheer you. {b}
+
+~
+398 4 2
+D0
+~
+~
+0 -1 39846
+D2
+~
+~
+0 -1 39843
+Z-1
+C3
+R0
+S
+#39846
+{MAG}The Deadly Poppy Fields {b}~
+
+   {BO,MAG}You walk along listening to the songs of the brightly-
+   colored birds and looking at the beautiful flowers, which 
+   now have become so thick that the ground is carpeted with 
+   them. You see red and yellow flowers in addition to the 
+   magenta blossoms in great clusters. So brilliant, they 
+   almost blind your eyes. {b}
+
+~
+398 0 2
+D1
+~
+~
+0 -1 39847
+D2
+~
+~
+0 -1 39845
+D3
+~
+~
+0 -1 39851
+X8
+Z-1
+C2
+R0
+S
+#39847
+{MAG}The Deadly Poppy Fields {b}~
+
+   {BO,MAG}You find yourself in the midst of a great meadow of 
+   poppies. It is well known that when there are many of 
+   these flowers together, the odor is so powerful that anyone 
+   who breathes it will fall asleep. If the sleeper is not carried 
+   away from the scent, he may just sleep on forever.  
+
+~
+398 262144 2
+D0
+~
+~
+0 -1 39848
+D1
+~
+~
+0 -1 39853
+D3
+~
+~
+0 -1 39846
+X8
+Z-1
+C2
+R0
+S
+#39848
+{MAG}The Deadly Poppy Fields {b}~
+
+   {BO,MAG}You find yourself in the midst of a great meadow of 
+   poppies. It is well known that when there are many of 
+   these flowers together, the odor is so powerful that anyone 
+   who breathes it will fall asleep. If the sleeper is not carried 
+   away from the scent, he may just sleep on forever.  {b}
+
+~
+398 262144 2
+D1
+~
+~
+0 -1 21400
+D2
+~
+~
+0 -1 39847
+D3
+~
+~
+0 -1 39850
+X8
+Z-1
+C2
+R0
+S
+#39849
+{MAG}The Deadly Poppy Fields {b}~
+
+   {BO,MAG}You find yourself in the midst of a great meadow of 
+   poppies. It is well known that when there are many of 
+   these flowers together, the odor is so powerful that anyone 
+   who breathes it will fall asleep. If the sleeper is not carried 
+   away from the scent, he may just sleep on forever.  {b}
+
+~
+398 262144 2
+D2
+~
+~
+0 -1 39853
+X8
+Z-1
+C2
+R0
+S
+#39850
+{MAG}The Deadly Poppy Fields {b}~
+
+   {BO,MAG}You find yourself in the midst of a great meadow of 
+   poppies. It is well known that when there are many of 
+   these flowers together, the odor is so powerful that anyone 
+   who breathes it will fall asleep. If the sleeper is not carried 
+   away from the scent, he may just sleep on forever.  {b}
+
+~
+398 262144 2
+D1
+~
+~
+0 -1 39848
+X8
+Z-1
+C2
+R0
+S
+#39851
+{MAG}The Deadly Poppy Fields {b}~
+
+   {BO,MAG}You find yourself in the midst of a great meadow of 
+   poppies. It is well known that when there are many of 
+   these flowers together, the odor is so powerful that anyone 
+   who breathes it will fall asleep. If the sleeper is not carried 
+   away from the scent, he may just sleep on forever.  {b}
+
+~
+398 262144 2
+D0
+~
+~
+0 -1 39852
+D1
+~
+~
+0 -1 39846
+X8
+Z-1
+C2
+R0
+S
+#39852
+{MAG}The Deadly Poppy Fields {b}~
+
+   {BO,MAG}You find yourself in the midst of a great meadow of 
+   poppies. It is well known that when there are many of 
+   these flowers together, the odor is so powerful that anyone 
+   who breathes it will fall asleep. If the sleeper is not carried 
+   away from the scent, he may just sleep on forever.  {b}
+
+~
+398 262144 2
+D2
+~
+~
+0 -1 39851
+D3
+~
+~
+0 -1 39854
+X8
+Z-1
+C2
+R0
+S
+#39853
+{MAG}The Deadly Poppy Fields {b}~
+ 
+   {BO,MAG}You find yourself in the midst of a great meadow of 
+   poppies. It is well known that when there are many of 
+   these flowers together, the odor is so powerful that anyone 
+   who breathes it will fall asleep. If the sleeper is not carried 
+   away from the scent, he may just sleep on forever.  {b}
+
+~
+398 262144 2
+D0
+~
+~
+0 -1 39849
+D3
+~
+~
+0 -1 39847
+X8
+Z-1
+C2
+R0
+S
+#39854
+{MAG}Edge of the Poppy Fields {b}~
+
+   {BO,MAG}It seemed that the great carpet of deadly flowers that 
+   surrounded you would never end. You have now reached a 
+   {BO,GRE}soft grass field, far enough from the poppies to prevent you 
+   from breathing any more of their poison. {b}
+
+~
+398 262148 2
+D0
+~
+~
+0 -1 39856
+D1
+~
+~
+0 -1 39852
+D2
+~
+~
+0 -1 39855
+X8
+Z-1
+C2
+R0
+S
+#39855
+{GRE}Grassland{b}~
+
+   {BO,GRE}Tall growing grasses cover small gray field mice as 
+   they play and forage for food.  {b}
+
+~
+398 0 2
+D0
+~
+~
+0 -1 39854
+X8
+Z-1
+C2
+R0
+S
+#39856
+{BO,GRE}Grasslands{b}~
+
+   {GRE}Just as you think you cannot be far from the road of yellow 
+   bricks, you hear a low growl, and see a strange beast 
+   bounding over the grass towards you.  
+
+~
+398 1024 2
+D0
+~
+~
+0 -1 39857
+D2
+~
+~
+0 -1 39854
+X8
+Z-1
+C2
+R0
+S
+#39857
+{BOL,GREEN}Road to Emerald City{b}~
+
+   {BO,GRE}You walk through the soft, fresh grass, and it is not long 
+   before you reach the {BO,YEL}road of yellow brick{BO,GRE} which leads 
+   toward the Emerald City where the Great Oz dwells.  
+   {b}
+~
+398 1028 1
+D2
+~
+~
+0 -1 39856
+D3
+~
+~
+0 -1 39858
+X8
+Z-1
+C2
+R0
+S
+#39858
+{BO,GRE}Road to Emerald City{b}~
+
+   {BO,GRE}The road is smooth and well cobbled here, with fences 
+   built beside the road. The fences here are different, painted 
+   in green. You soon come to a small house, evidently 
+   where a farmer lives, that is also painted green. 
+
+~
+398 1024 1
+D0
+~
+~
+0 -1 39860
+D1
+~
+~
+0 -1 39857
+D3
+~
+~
+0 -1 39859
+X8
+Z-1
+C2
+R0
+S
+#39859
+{BO,GRE}On Your Way{b}~
+
+   {BO,GRE}You soon see a beautiful green glow in the sky ahead of 
+   you. As you walked on, the green glow becomes brighter 
+   and brighter, and it seems that at last you may be nearing 
+   the Emerald City and the end of your travels.  {b}
+
+~
+398 1024 1
+D0
+~
+~
+0 -1 39861
+D1
+~
+~
+0 -1 39858
+X8
+Z-1
+C2
+R0
+S
+#39860
+{BO,GRE}A small green house{b}~
+
+   {BO,GRE}A little woman in a green apron is busy in the kitchen 
+   preparing dinner for her husband, who is conveniently out 
+   of the house.    {b}
+
+~
+398 1032 0
+D2
+~
+~
+0 -1 39858
+X8
+Z-1
+C2
+R0
+S
+#39861
+{BO,GRE}City Wall{b}~
+
+   {BO,GRE}You come to a great green wall surrounding the city.  
+   Directly in front of you, and at the end of the road of 
+   {BO,YEL}yellow bricks{BO,GRE}, is a grand gate, studded with emeralds that 
+   {BO,GRE,BLINK}glitter {blink,BO,GRE}so brilliantly in the sun that even the painted eyes of 
+   a scarecrow would be blinded by their brilliance.  {b}
+
+~
+398 1024 1
+D0
+~
+~
+0 -1 39862
+D2
+~
+~
+0 -1 39859
+D3
+~
+~
+0 -1 42400
+X8
+Z-1
+C2
+R0
+S
+#39862
+{BO,GRE}The Wonderful City of Oz{b}~
+
+   {BO,GRE}You feel overwhelmed by the brilliancy of the wonderful City. 
+   The streets are lined with sparkling houses all built of green 
+   marble and studded with {BLINK}sparkling{blink,BO,GRE} emeralds. The pavement on 
+   which you stand is of the same green marble, and where the 
+   blocks are joined together, there are rows of emeralds. The 
+   window panes are of green glass.  Even the sky above the City 
+   has a green tint, and the rays of the sun appear green.{b}
+
+~
+398 1025 1
+D1
+~
+~
+0 -1 39864
+D2
+~
+~
+0 -1 39861
+D3
+~
+~
+0 -1 39863
+Z0
+C3
+R0
+S
+#39863
+{BOL,GRE}The General Store{b}~
+
+   {BOL,GRE}The Oz General Store focuses exclusively on Oz-made, locally 
+   produced items that are unique and hand-chosen with an eye 
+   for quality.   {b}
+
+~
+398 9225 1
+D1
+~
+~
+0 -1 39862
+Z-1
+C2
+R0
+S
+#39864
+{BO,GRE}Streets of Oz{b}~
+
+   {BO,GRE}There are many people--men, women, and children--
+   walking about, all dressed in green clothes with greenish-
+   colored skin. Everyone seemed happy and contented and 
+   prosperous. {b}
+
+~
+398 1025 1
+D1
+~
+~
+0 -1 39865
+D3
+~
+~
+0 -1 39862
+X8
+Z0
+C2
+R0
+S
+#39865
+{BO,GRE}Entrance to the Palace{b}~
+
+   {BO,GRE}You walk through the streets until you come to a large building 
+   positioned exactly in the middle of the City, the {BO,BLU}Palace of the 
+   Great Wizard of Oz{BO,GRE}. Two soldiers stand guard before the entrance.{b}
+
+~
+398 1025 1
+D0
+~
+~
+0 -1 39866
+D3
+~
+~
+0 -1 39864
+X8
+Z0
+C2
+R0
+S
+#39866
+{BLU}Palace of the Great Wizard{b}~
+
+   {BO,BLU}You passed through the Palace Gates and walk into a large room 
+   with green carpeting and lovely green furniture set with 
+   {BO,GREEN,BLINK}emeralds{blink,BOLD,BLUE}.  A spiral staircase winds upward through within the 
+   annulus of the palace.  {b}
+
+~
+398 1029 1
+D2
+~
+~
+0 -1 39865
+D4
+~
+~
+0 -1 39867
+X8
+Z0
+C2
+R0
+S
+#39867
+{BLU}Spiral Staircase{b}~
+
+   {BOLD,BLUE}A spiral staircase winds upward through the annulus of the
+   palace.  {b}
+
+~
+398 1025 1
+D4
+~
+~
+0 -1 39868
+D5
+~
+~
+0 -1 39866
+X8
+Z0
+C2
+R0
+S
+#39868
+{BLUE}Palace Bedroom{b}~
+
+   {BLU}You follow the winding stairs until you come to a room at the 
+   upper level of the Palace. In the center of the room is a soft 
+   comfortable bed that has sheets of {GRE}green silk and a green velvet 
+   counterpane.{BLU} There is a tiny fountain in the middle of the room 
+   that shoots sprays of {GRE}green perfume {BLU}into the air. Beautiful 
+   {GRE}green flowers {BLU}stand in the windows, and there is a shelf with 
+   a row of {GRE}little green books.{b}
+
+~
+398 1029 1
+D1
+~
+~
+0 -1 39869
+D5
+~
+~
+0 -1 39867
+X8
+Z0
+C2
+R0
+S
+#39869
+{BLU}Great Hall{b}~
+
+   {BO,BLU}You stand in a great hall with many ladies and gentlemen of the 
+   court, all dressed in rich costumes. These people have nothing 
+   to do but socialize here outside the Throne Room each day in 
+   hopes of seeing the Wizard, although they are never permitted 
+   to see the Great Oz.{b}
+
+~
+398 1025 1
+D1
+~
+~
+0 -1 39870
+D3
+~
+~
+0 -1 39868
+X8
+Z0
+C2
+R0
+S
+#39870
+{BLU}Great Hall{b}~
+
+   {BO,BLU}You stand in a great hall with many ladies and gentlemen of the 
+   court, all dressed in rich costumes. These people have nothing 
+   to do but socialize here outside the Throne Room each day in 
+   hopes of seeing the Wizard, although they are never permitted 
+   to see the Great Oz.{b}
+
+~
+398 1025 1
+D0
+~
+~
+0 -1 42458
+D3
+~
+~
+0 -1 39869
+X8
+Z0
+C2
+R0
+S
+#39871
+{BO,GRE}A Narrow Corridor{b}~
+{BLI,GRE}  .     ,          .         ,             .         .        .                     .                  ,              .           
+ . {bli,GRE}You squeeze through a little door and find yourself in a long{BLI}                                                               .      
+   {bli,GRE}corridor with a arched roof. The walls, ceiling, and floor are{BLI}                             .                           
+   {bli,GRE}covered with large emeralds set closely together. In the center{BLI}                                              .                         ,
+   {bli,GRE}of the roof is a great light, as bright as the sun, which makes the{BLI}                                                          
+ , {bli,GRE}emeralds sparkle in a wonderful manner.{BLI}                                     ,                     .                          .  
+      .           ,          .            .        .                    ,                                           .  {b}
+~
+398 1024 1
+D0
+~
+~
+0 -1 39872
+D2
+~
+~
+0 -1 39870
+X8
+Z-1
+C1
+R0
+S
+#39872
+{BO,GREEN}Throne Room {b}~
+
+{BOLD,GREEN}                   ((   )  (
+{BOLD,GREEN}               ( (   )(( (   )
+{BOLD,GREEN}             )    ) ( )) )( (( )
+{BOLD,GREEN}             ( (((   )  (  )  ) )
+{BOLD,GREEN}            )) (( ) (          ((
+{BOLD,GREEN}           (  )) )              )
+{BOLD,GREEN}            ) ( )     ()    () |
+{BOLD,GREEN}           ( ))(          \
+{BOLD,GREEN}           )( ( )       (- )   )
+{BOLD,GREEN}             ))        _____  /
+{BOLD,GREEN}               )   `     --  /
+{BOLD,GREEN}                _ ,  `   __,
+   In the middle of the room sits a tall throne of green. It is 
+   shaped like a chair and sparkles with gems, as does everything 
+   else. Above the center of the chair floats an enormous Head 
+   without a body to support it!{b} 
+
+~
+398 1153 1
+D0
+~
+forcefield~
+2 39837 39873
+D2
+~
+~
+0 -1 42458
+X8
+Z0
+C1
+R0
+S
+#39873
+{BO,GRE}Illusions of Oz {b}~
+
+{BO,GREEN}                       {BOLD,CYA}.--.{BO,GREEN}
+{BO,GREEN}                     _)\    {BOLD,CYA} ;--.{BO,GREEN}
+       {BLI,BO,YEL}. {bli,BO,YEL}' {BLI,BO,YEL}.{bli,BO,GRE}     _,-'   |  {BOLD,CYA}.'    {BO,CYA}\{bli,BO,GRE}
+ {blink,BO,YEL}     -= {BLI,BO,RED}*{bli,BO,YEL} =-   ({BOL,MAG}*{b}{CYA}-{BOL,MAG}*{b}{CYA}-{BOL,MAG}* {BO,GRE}/  {BO,CYA}/       |{BO,GREEN}
+       {BLI,BO,YEL}' {bli,BO,YEL}.\{BLI,BO,YEL}' {bli,BO,GRE}   ).  ))/ {BO,CYA}.' {BO,GRE}  _/\ {BO,CYA}/{BO,GREEN}
+           \_   \_  /( {BO,CYA}/ {BO,GRE}    \ /{BO,CYA}({BO,GRE}
+           /_\ .--'   `-.    //  {BO,CYA}\{BO,GRE}
+           || /        , '._//    {BO,CYA}|{BO,GRE}
+           ||/ /`(_ (_,;`-._/     {BOLD,CYA}/{BO,GRE}
+   A most Lovely Lady appears. She is dressed in green silk
+   and wears upon her flowing green locks a crown of jewels.
+   Growing from her shoulders are wings, gorgeous in color 
+   and so light that they flutter with the slightest breeze.{b}
+
+~
+398 1153 1
+D0
+~
+~
+0 -1 39874
+D2
+~
+forcefield~
+1 -1 39872
+X8
+Z0
+C1
+R0
+S
+#39874
+{BO,GRE}Illusions of Oz{b}~
+
+{BO,GRE}        _..--'`;;`-..-';;'`--.._
+                   .';,    _   `;;'   _    ,;`.
+                  ;;'  `;;' `;.`;;'.;' `;;'  `;;
+                 .;;._.;'`;.   `;;'   .;'`;._.;;.
+               ;'      '`;;`   `;;'   ';;'`      `;
+              ;:     .:.  `;;. `--' .;;'  .:.     :;
+               ;.   .:|:.     `;;;;'     .:|:.   .;
+                `;  `:|:'    .;;'`;;.    `:|:'  ;'
+                 `;. `:'  .;;'.::::.`;;.  `:' .;'
+                   `;._.;;' .:`::::':. `;;._.;'
+                     `::   (:._.::._.:)   ::'  
+                      `:_.--.`:::::. .--._:' 
+                       `::-.:::"""":::.-::'   
+                         | /.^^^..^^^.\ |      
+                         \( `;;;..;;;' )/      
+  {BO,RE}                        \            /{BO,GR}    
+   Oz has taken the form of a mantis-like Beast.  It has two 
+   powerful, scythe-like forelegs adapt for catching and 
+   ripping prey. Thick, wooly hair covers every part of it. {b}
+
+~
+398 1153 1
+D0
+~
+~
+0 -1 39875
+D2
+~
+~
+0 -1 39873
+X8
+Z0
+C1
+R0
+S
+#39875
+{BO,GRE}Illusions of Oz{b}~
+
+{BO,RED}        ^+xw*"""^q_  0 p" F  F _F  p^^"___jM   j  F         
+         _,,__   q x" [  F J_ J  P  w""""_  _,"  9  _
+    v,,_w"   "M_ @ `, ",_!u_9__L F #  r^""^^"    f j" 
+        _,,__  B 9_ "v,_Zp*"""""^@u# P _m^"^u,a*"  j 
+      _F    `4 A_ "*-ap"            ^Lj" _smu,    _* ,
+    ^^"__,,_ jL  -- m<                5j! ____*-*^   &
+      p"    9p`^u,av'                  `,*""""q_   _x" 
+    ,r  _____!L___,M                    Lsr--x_"^^`" qP 
+      y^    "_    _J                    L_,,_ ?_    _#
+     _F  __,_`^---"jr                  j___ ""y""^^""_,
+    r^ j!    ?s_, *"jp                g""""^q_b_    _F  
+       L  _,wma_  _x"jN__          __d"""^c  F  "-^""   
+
+   {GRE}A Ball of Fire ignites and burns so fiercely that you can 
+   scarcely bear to gaze upon it. As you try to go nearer, the 
+   heat is so intense that it singes your hair.  {b}
+
+~
+398 1169 1
+D0
+~
+curtain~
+3 42400 39876
+D2
+~
+~
+0 -1 39874
+X8
+Z0
+C1
+R0
+S
+#39876
+{BO,GRE}Behind the Curtain{b}~
+
+   {BO,GRE}You pull away a green drape that covers a small booth, exposing 
+   a small, very ordinary looking man who is furiously and frantically 
+   pulling levers, hitting switches, and turning dials on an elaborate 
+   machine. 
+
+   Just as surprised as you, the little man turns and says meekly, 
+   "I have been making believe, using tricks and props to create my
+   illusions."{b}
+
+~
+398 262145 1
+D2
+~
+curtain~
+1 -1 39875
+X8
+Z0
+C2
+R0
+S
+#39877
+{BO,BLA}The prairie{b}~
+
+   {BO,BLA}You roll across the grass several times before realizing you 
+   are back on the broad Kansas prairie.  Just down the bank 
+   you see a farmhouse. Uncle Henry must have built this 
+   after the old one was carried away.
+
+~
+398 262144 1
+D5
+~
+~
+0 -1 39800
+X8
+Z-1
+C2
+R0
+S
+#39878
+{BO,GRE}Edge of {b,YEL}the Woods{b}~
+
+   {BO,GRE}You pass through the trees until you come to the farther 
+   edge of the wood. To your surprise, you find before you a 
+{b,YEL}   high wall which seems to be made of white china.{b}
+
+~
+398 262148 3
+D0
+~
+~
+0 -1 39808
+D2
+~
+china~
+2 39845 39879
+X8
+Z-1
+C2
+R0
+S
+#39879
+{BO,WHI}China Country{b}~
+
+   {BO,WHI}Before you is a great stretch of land having a floor as 
+   smooth and shining and white as the bottom of a big platter. 
+   Scattered around are many houses made entirely of 
+   porcelain. These houses are quite small, the biggest of 
+   them reaching only as high as your waist. There are also 
+   pretty little barns, with china fences around them.{b}
+
+~
+398 262144 1
+D0
+~
+china~
+1 -1 39878
+D1
+~
+gate~
+2 39832 39880
+D3
+~
+~
+0 -1 39881
+X8
+Z-1
+C2
+R0
+S
+#39880
+{BO,WHI}The Milkmaid{b}~
+
+   {BO,WHI}Here is a china milkmaid milking a china cow. As you 
+   draw near, the cow suddenly gives a kick and kicks over 
+   the stool, the pail, and even the milkmaid herself. All fall 
+   on the china ground with a great clatter.  You are shocked 
+   to see that the cow has broken her leg off, and that the pail 
+   is lying in several small pieces, while the poor milkmaid 
+   has a nick in her left elbow.{b}
+
+~
+398 262144 1
+D3
+~
+gate~
+1 -1 39879
+X8
+Z-1
+C3
+R0
+S
+#39881
+{BO,WHI}Mr Joker{b}~
+
+   {BO,WHI}Mr Joker is always trying to stand on his head. He has 
+   broken himself so often that he is mended in a hundred 
+   places, and he doesn't look at all pretty. See for yourself.{b}
+
+~
+398 262144 1
+D1
+~
+~
+0 -1 39879
+D2
+~
+~
+0 -1 39882
+X8
+Z-1
+C2
+R0
+S
+#39882
+{BO,WHITE}China Country{b}~
+
+   {BO,WHI}As you walk carefully through the town, the animals 
+   and all the people scamper out of your way, fearing you 
+   may break them.  After a short walk, you come to another 
+   china wall. It is  not so high as the first and appears 
+   scalable.  
+
+~
+398 262144 1
+D0
+~
+~
+0 -1 39881
+D4
+~
+~
+0 -1 39883
+X8
+Z-1
+C2
+R0
+S
+#39883
+{YEL}The Marsh{b}~
+
+   {YEL}After climbing down from the china you find yourself in a 
+   disagreeable country, full of bogs and marshes and covered 
+   with tall, rank grass. It is difficult to walk without falling 
+   into muddy holes, for the grass is so thick that it hides them 
+   from sight. {b}
+
+~
+398 262148 2
+D1
+~
+~
+0 -1 39884
+X8
+Z-1
+C2
+R0
+S
+#39884
+{YEL}Underbrush{b}~
+
+   {YEL}You reach solid ground. Here the country seems wilder 
+   than ever. After a long and tiresome walk through the{GRE} 
+   underbrush, you enter another forest, where the trees were 
+   bigger and older than you have ever seen. {b}
+
+~
+398 262144 3
+D1
+~
+~
+0 -1 39885
+D3
+~
+~
+0 -1 39883
+X8
+Z-1
+C2
+R0
+S
+#39885
+{BO,GRE}Southern {b,YEL}Woods{b}~
+
+   {BO,GRE}You follow a well-trodden path until you come to an
+   opening in the wood. Here are gathered hundreds of beasts
+   {bo,YEL}of every variety. There are tigers, elephants, bears,
+   wolves, foxes, and many other wild animals.{b}
+
+~
+398 262144 3
+D1
+~
+~
+0 -1 39886
+D3
+~
+~
+0 -1 39884
+X8
+Z-1
+C2
+R0
+S
+#39886
+{BO,GRE}Southern {b,YEL}Woods{b}~
+
+   {BO,GRE}One of the largest {BO,RED}T{b,RED}i{B,RED}g{b,RED}e{BO,RED}r{b,RED}s{BO,GRE} approaches you and says,  
+
+   {b,RED}We are all threatened by a fierce enemy which has lately 
+   come into this forest. It is a most tremendous monster, like 
+   a great spider, with a body as big as an elephant and legs as 
+   long as tree trunks. It has eight of these long legs, and as 
+   the monster crawls through the forest, it seizes animals with 
+   its legs and drags them to its mouth, where it eats them as a 
+   spider does a fly. Not one of us is safe while this fierce 
+   creature is alive, and we had called a meeting to decide 
+   how to take care of ourselves when you came among us.{b}
+
+~
+398 262144 3
+D0
+~
+~
+0 -1 39887
+D1
+~
+~
+0 -1 39888
+D3
+~
+~
+0 -1 39885
+X8
+Z-1
+C2
+R0
+S
+#39887
+{RED}Amongst the {BO,GRE}Oak Trees{b}~
+
+   {BO,GRE}Scattered on the floor of the forest are skeletons of other 
+   great beasts that the monster has eaten.  
+
+   {bo,RED}You see a great spider lying asleep. The stench is 
+   overwhelming, and the creature is so ugly that you turn up 
+   your nose in disgust.  {b}
+
+~
+398 262144 3
+D2
+~
+~
+0 -1 39886
+X8
+Z-1
+C1
+R0
+S
+#39888
+{CYA}Country of Quadlings {b}~
+
+   {CYA}You pass through the rest of the forest in safety.  When you 
+   come out from the gloom, you see before you a steep hill, 
+   covered from top to bottom with great pieces of rock.  It 
+   appears to be a hard climb, but you must get over the hill, 
+   nevertheless.  As you nearly reach the first rock, a loud 
+   voice cries out, "{BO,RED}Keep out!{b,CYA}"{b}
+
+~
+398 262148 4
+D2
+~
+~
+0 -1 39889
+D3
+~
+~
+0 -1 39886
+X8
+Z-1
+C2
+R0
+S
+#39889
+{CYA}Country of Quadlings {b}~
+
+   {CYAN}You pass safely over the hill and reach the beautiful 
+   country of the Quadlings. There is field upon field of 
+   ripening grain, with well-paved roads running between, and 
+   pretty rippling brooks with strong bridges across them. The 
+   fences and houses and bridges are all painted {BO,RED}bright red{b,CYA}, 
+   just as they had been painted {BO,YEL}yellow{b,CYA} in the country of the 
+   Winkies and {BO,BLU}blue{b,CYA} in the country of the Munchkins. The 
+   Quadlings themselves, who are short and fat, are dressed
+   all in red, which shows bright against the green grass and
+   yellowing grain. 
+
+   {BO,CYAN}The Castle of Glinda{b,CYA} must be to the South.{b} 
+
+~
+398 262144 2
+D0
+~
+~
+0 -1 39888
+D2
+~
+~
+0 -1 39890
+X8
+Z-1
+C2
+R0
+S
+#39890
+{BO,CYAN}Castle of Glinda{b}~
+
+{BO,CYAN}                                  |>>>    
+                                  |                   
+                    |>>>      _  _|_  _         |>>>
+                    |        |;| |;| |;|        |                  
+                _  _|_  _    \\.    .  /    _  _|_  _        
+               |;|_|;|_|;|    \\:     /    |;|_|;|_|;|
+               \\..      /    ||:     |    \\.    .  /            
+                \\.  ,  /     ||:     |     \\:  .  /
+                 ||:+  |_   _ ||_ . _ | _   _||:   |       
+                 ||:  .|||_|;|_|;|_|;|_|;|_|;||:   |       
+                 ||:   ||.    .     .      . ||:  .|        
+                 ||:   ||:  ,     +       .  ||: , |      
+                 ||:   ||:.      +++       . ||:   |         
+                 ||:   ||.       +++    .    ||: . | 
+
+   You walk by the fields and across several bridges until 
+   you see before you a very beautiful Castle. Young girls
+   in red uniforms stand guard.{b}
+
+~
+398 262144 1
+D0
+~
+~
+0 -1 39889
+D1
+~
+~
+0 -1 39891
+D2
+~
+castlegate~
+2 -1 39897
+D3
+~
+~
+0 -1 39895
+X8
+Z-1
+C2
+R0
+S
+#39891
+{BO,CYA}Around the Castle{b}~
+
+   {CYA}A well-trodden path winds around the castle, landscaped
+   with small shrubs and isolated trees. {BO,RED}Quadling Soldiers 
+   {bo,CYA}patrol around the perimeter of the castle, their gold braids 
+   and spear points occasionally catching the {BO,YEL}sunlight.{b}  
+
+~
+398 262144 1
+D2
+~
+~
+0 -1 42436
+D3
+~
+~
+0 -1 39890
+X8
+Z-1
+C2
+R0
+S
+#39892
+{BO,CYA}Around the Castle{b}~
+
+   {CYA}A well-trodden path winds around the castle, landscaped
+   with small shrubs and isolated trees. {BO,RED}Quadling Soldiers 
+   {bo,CYA}patrol around the perimeter of the castle, their gold braids 
+   and spear points occasionally catching the {BO,YEL}sunlight.{b}
+
+~
+398 262144 1
+D1
+~
+~
+0 -1 42434
+D3
+~
+~
+0 -1 39893
+X8
+Z-1
+C2
+R0
+S
+#39893
+{BO,CYA}Around the Castle{b}~
+
+   {CYA}A well-trodden path winds around the castle, landscaped
+   with small shrubs and isolated trees. {BO,RED}Quadling Soldiers 
+   {bo,CYA}patrol around the perimeter of the castle, their gold braids 
+   and spear points occasionally catching the {BO,YEL}sunlight.{b}
+
+~
+398 262144 1
+D0
+~
+windowpane~
+1 42400 39896
+D1
+~
+~
+0 -1 39892
+D3
+~
+~
+0 -1 39894
+X8
+Z-1
+C2
+R0
+S
+#39894
+{BO,CYA}Around the Castle{b}~
+
+   {CYA}A well-trodden path winds around the castle, landscaped
+   with small shrubs and isolated trees. {BO,RED}Quadling Soldiers 
+   {bo,CYA}patrol around the perimeter of the castle, their gold braids 
+   and spear points occasionally catching the {BO,YEL}sunlight.{b}
+
+~
+398 262144 1
+D1
+~
+~
+0 -1 39893
+D3
+~
+~
+0 -1 42431
+X8
+Z-1
+C2
+R0
+S
+#39895
+{BO,CYA}Around the Castle{b}~
+
+   {CYA}A well-trodden path winds around the castle, landscaped
+   with small shrubs and isolated trees. {BO,RED}Quadling Soldiers 
+   {bo,CYA}patrol around the perimeter of the castle, their gold braids 
+   and spear points occasionally catching the {BO,YEL}sunlight.{b}
+
+~
+398 262144 1
+D1
+~
+~
+0 -1 39890
+D2
+~
+~
+0 -1 42433
+X8
+Z-1
+C2
+R0
+S
+#39896
+{BO,CYA}Washroom{b}~
+
+   {BO,CYAN}Before seeing Glinda, guests are taken here to wash and 
+   comb their  hair, shake the dust out of their manes, polish 
+   their tin, and oil up their joints.  
+
+~
+398 262156 1
+D0
+~
+door~
+1 -1 39897
+D2
+~
+windowpane~
+1 -1 39893
+X8
+Z-1
+C2
+R0
+S
+#39897
+{BO,CYA}Throne Room{b}~
+
+{CYAN}                        o^\^o
+                  o\*`'..\|/..'`*/o
+                   \\\\\\\|///////
+                    \\\\\\|//////
+                     {><><@><><}
+                    }}} _   _ {{{
+                  }}}}  6   6  {{{
+                 {{{{{    ^    }}}}}
+                {{{{{{\  -=-  /}}}}}}
+                {{{{{{{;.___.;}}}}}}}
+                 {{{{{{{)   (}}}}}}}'
+                  `""'"':   :'"'"'`
+                         `@`
+
+   You exit the washroom and glide under the high portico of 
+   the castle and into the grand throne room. Witch Glinda is 
+   seated upon a great throne of rubies. Several men are knelt 
+   before her.
+
+~
+398 262152 1
+D0
+~
+~
+0 -1 39899
+D2
+~
+door~
+1 -1 39896
+X8
+Z-1
+C2
+R0
+S
+#39898
+{BO,BLA}Between the Trees{b}~
+
+   {BO,BLA}Suspended from a branch, slowly turning, is a small figure. It does 
+   look as if it could conceivably be a Munchkin -- dead, presumably. {b}
+
+~
+398 262144 3
+D1
+~
+coverup~
+1 -1 39830
+X8
+Z-1
+C1
+R0
+S
+#39899
+{BO,CYA}Behind the Throne{b}~
+
+   {CYA}The back rooms connecting to the grand thrown are deserted 
+   except for cloaked figures lurking in the shadows to either 
+   side of the doors. As you enter the room, they watch you
+   with a predatory gaze. {b}
+
+~
+398 262152 1
+D1
+~
+~
+0 -1 42437
+D2
+~
+~
+0 -1 39897
+X8
+Z-1
+C2
+R0
+S
+$~

@@ -1,0 +1,971 @@
+#44100
+{BOLD}{BLACK}Entrance to{black} {BOLD}{WHITE}White Lotus Temple{white}~
+
+  Even as dark as it is in this area,
+  you can still see the outline of
+  the White Lotus Temple.  But
+  you'd have to be able to get pass the
+  two huge guards standing here before
+  you can proceed any further.
+
+~
+441 65536 1
+D0
+~
+Gate~
+1 -1 44101
+Z4
+C-1
+S
+#44101
+{BOLD}{BLACK}Inside the {BOLD}{WHITE}White Lotus Temple{white}~
+
+  After being surrounded by total darkness for
+  such a long time, even the dim torch lighting
+  , you look around and notice an intersection 
+  not too far north. You take two steps
+  north and suddenly freeze in your tracks as 
+  you can begin to sense the feeling of pure
+  surrounding you. Maybe you should think 
+  twice about going any further.
+
+~
+441 65536 1
+D0
+~
+~
+0 -1 44102
+D2
+~
+Gate~
+1 -1 44100
+X128
+Z3
+C-1
+S
+#44102
+{BOLD}{BLACK}Intersection in the{black} {BOLD}{WHITE}White Lotus Temple{white}~
+
+  You have come to an intersection in this temple.
+  Not far to the north, you can see what appears to be
+  guards.  To the east and west, you see doors along the hallway.
+
+~
+441 65536 1
+D0
+~
+~
+0 -1 44119
+D1
+~
+~
+0 -1 44112
+D2
+~
+~
+0 -1 44101
+D3
+~
+~
+0 -1 44103
+Z3
+C-1
+S
+#44103
+{BOLD}{BLACK}Hallway{black}~
+
+  You proceed westward along the hallway.
+  You see a door to the north with the name 
+  'guest' inscribed on it, and a door to the south
+  with 'guest' inscribed on it. The hallway 
+  continues west.
+
+~
+441 65536 1
+D0
+~
+door~
+1 -1 44110
+D1
+~
+~
+0 -1 44102
+D2
+~
+door~
+1 -1 44111
+D3
+~
+~
+0 -1 44104
+Z3
+C-1
+S
+#44104
+{BOLD}{BLACK}Hallway{black}~
+
+  You continue westward along this hallway.
+  To the south, you see a door with the name
+  'sercet' inscribed on it. In front of you
+  is a set of stairs leading downward.
+
+~
+441 65536 1
+D1
+~
+~
+0 -1 44103
+D2
+~
+secret~
+1 -1 44109
+D5
+~
+~
+0 -1 44105
+Z3
+C-1
+S
+#44105
+{BOLD}{BLACK}Stairs to the Dungeon{black}~
+
+  It's very dark. You can still see the bars to
+  a few jail cells and hear screams through the doors
+  to the north and south. You also notice
+  the Jailer sitting here.
+
+~
+441 65536 1
+D0
+~
+~
+0 -1 44106
+D1
+~
+~
+0 -1 44108
+D2
+~
+~
+0 -1 44107
+D4
+~
+~
+0 -1 44104
+Z5
+C-1
+S
+#44106
+{BOLD}{WHITE}White Lotus{white} {RED}Torture{red} {BOLD}{BLACK}Chamber{black}~
+
+  Even in this dim light, you can see blood
+  everywhere as well as several torture devices
+  around the room. The screams of agony
+  from the shackled Gypsy are enough to
+  make your skin crawl, but the evil in you
+  enjoys watching this entertainment.
+
+~
+441 16 1
+D2
+~
+~
+0 -1 44105
+Z5
+C-1
+S
+#44107
+{BOLD}{WHITE}White Lotus{white} {RED}Execution{red} {BOLD}{BLACK}Room{black}~
+
+  Many executions have been held in this room... 
+  beheadings, poisonings, electrocutions, 
+  you name it, it's been done. You watch in 
+  anticipation and excitement as another 
+  Vigilante is dragged in this room to meet
+  his doom.
+
+~
+441 16 1
+D0
+~
+~
+0 -1 44105
+Z5
+C-1
+S
+#44108
+{BOLD}{BLACK}Jailers Office{black}~
+
+  Heres where the jailer keeps
+  all his keys for all the
+  different dungeon cells.
+
+~
+441 16 1
+D0
+~
+Cell~
+1 -1 44141
+D1
+~
+Cell~
+1 -1 44143
+D2
+~
+Cell~
+1 -1 44142
+D3
+~
+~
+0 -1 44105
+Z5
+C-1
+S
+#44109
+{BOLD}{BLACK}Hidden Room{black}~
+
+  You have stumbled upon a small damp closet.
+  Hidden as it is, this could be a good place
+  to relax and rest a bit.
+
+~
+441 65536 1
+D0
+~
+secret~
+1 -1 44104
+Z3
+C-1
+S
+#44110
+{BOLD}{BLACK}Guest Room{black}~
+
+  This is a simple looking room, almost too plain to
+  be a guest room in a temple.  A small bed and dresser
+  next to the bed are in poor shape, looking as if no 
+  one has used either in quite some time.
+
+~
+441 65536 1
+D2
+~
+door~
+1 -1 44103
+Z3
+C-1
+S
+#44111
+{BOLD}{BLACK}Guest Room{black}~
+
+  This is a simple looking room, almost too plain to
+  be a guest room in a temple.  A small bed and dresser
+  next to the bed are in poor shape, looking as if no 
+  one has used either in quite some time.
+
+~
+441 65536 1
+D0
+~
+door~
+1 -1 44103
+Z3
+C-1
+S
+#44112
+{BOLD}{BLACK}Hallway{black}~
+
+  You proceed eastward along this hallway.
+  You notice the temple's Armoury north of here.
+  To the south you notice the Weaponsmith
+  The hallway continues to the east.
+
+~
+441 65536 1
+D0
+~
+~
+0 -1 44114
+D1
+~
+~
+0 -1 44115
+D2
+~
+door~
+1 -1 44113
+D3
+~
+~
+0 -1 44102
+Z3
+C-1
+S
+#44113
+{BOLD}{BLACK}Weaponsmith{black}~
+
+  Your in the Temple Weaponsmith.
+
+~
+441 65536 1
+D0
+~
+door~
+1 -1 44112
+Z3
+C-1
+S
+#44114
+{BOLD}{BLACK}Armoury{black}~
+
+  You now in the Temple Armoury.
+
+~
+441 65536 1
+D2
+~
+~
+0 -1 44112
+Z3
+C-1
+S
+#44115
+{BOLD}{BLACK}Hallway{black}~
+
+  As you proceed eastward down this hallway,
+  you notice to your north, an apothecary shop.
+  To the south is a restaurant.
+  And to your east, you see... a barber shop???
+
+~
+441 65536 1
+D0
+~
+~
+0 -1 44117
+D1
+~
+~
+0 -1 44118
+D2
+~
+~
+0 -1 44116
+D3
+~
+~
+0 -1 44112
+Z3
+C-1
+S
+#44116
+{BOLD}{BLACK}Restaurant{black}~
+
+  The smell of all this good food makes your mouth water.
+  Everything on the menu looks so appetizing.
+  How do you decide?
+
+~
+441 65536 1
+D0
+~
+~
+0 -1 44115
+Z3
+C-1
+S
+#44117
+{BOLD}{BLACK}Apothecary Shop{black}~
+
+  If you need healing, you've come to the right place.
+  There's a variety of items to choose from to cure
+  almost any ailment you have... for the right price of course...
+
+~
+441 65536 1
+D2
+~
+~
+0 -1 44115
+Z3
+C-1
+S
+#44118
+{BOLD}{BLACK}Barber Shop{black}~
+
+  You look around at all of the hair covering the floor,
+  then to the many bald people in the room,
+  and you start to wonder if you made the right
+  choice coming in here.
+~
+441 65536 1
+D3
+~
+~
+0 -1 44115
+Z3
+C-1
+S
+#44119
+{BOLD}{BLACK}Walkway to{black} {BOLD}{WHITE}Temple Master{white}~
+
+  You slowly follow the walkway toward the 
+  Temple Master's Room, as you walk you see 
+  the Temple Master's guards getting 
+  closer and close.
+
+~
+441 65536 1
+D0
+~
+~
+0 -1 44124
+D1
+~
+~
+0 -1 44120
+D2
+~
+~
+0 -1 44102
+D3
+~
+~
+0 -1 44121
+Z3
+C-1
+S
+#44120
+{BOLD}{WHITE}Temple{white} {BOLD}{BLACK}Donation Room{black}~
+
+  As you enter this room, you immediately
+  take notice of the several gifts for anyone
+  to take.
+
+~
+441 65536 1
+D3
+~
+~
+0 -1 44119
+Z3
+C-1
+S
+#44121
+{BOLD}{BLACK}Prayer Room{black}~
+
+  You enter the prayer room where doers of 
+  good worship their gods and beg for 
+  mercy for any acts of unkindness or evil
+  they may have done.
+
+~
+441 65536 1
+D0
+~
+Chambers~
+1 -1 44122
+D1
+~
+~
+0 -1 44119
+D3
+~
+~
+0 -1 44123
+Z3
+C-1
+S
+#44122
+{BOLD}{BLACK}Chambers of the{black} {BOLD}{WHITE}High Priest{white}~
+
+  You enter the private chambers of the
+  high priest of White Lotus Temple
+
+~
+441 65536 1
+D2
+~
+Chambers~
+1 -1 44121
+Z3
+C-1
+S
+#44123
+{RED}Sacrificial{red} {BOLD}{BLACK}Altar{black}~
+
+  You enter the room and immediately take notice
+  of the charred human remains (probably a 
+  Gypsy) upon the altar in front of you... a
+  sacrifice to the gods of darkness.  On the 
+  walls, you notice carvings of the High Priest
+  and Temple Master and scenes depicting his
+  return to this realm, and his triumphs over
+  the forces of evil.
+
+~
+441 65536 1
+D1
+~
+~
+0 -1 44121
+Z3
+C-1
+S
+#44124
+{BOLD}{BLACK}Walkway to{black} {BOLD}{WHITE}Temple Master{white}~
+
+  You slowly follow the walkway toward the 
+  Temple Master's Room, as you walk you see 
+  the Temple Master's guards getting 
+  closer and close.
+
+~
+441 65536 1
+D0
+~
+~
+0 -1 44125
+D2
+~
+~
+0 -1 44119
+Z3
+C-1
+S
+#44125
+{BOLD}{BLACK}Walkway to{black} {BOLD}{WHITE}Temple Master{white}~
+
+  You slowly follow the walkway toward the 
+  Temple Master's Room, as you walk you see 
+  the Temple Master's guards getting 
+  closer and close.
+
+~
+441 65536 1
+D0
+~
+~
+0 -1 44126
+D2
+~
+~
+0 -1 44124
+Z3
+C-1
+S
+#44126
+{BOLD}{BLACK}In Front of{black} {BOLD}{WHITE}Temple Masters{white} {BOLD}{BLACK}Room{black}~
+
+  Here stands many guards ready
+  to give thier lives to protect
+  the Temple Master.
+
+~
+441 65536 1
+D0
+~
+door~
+1 -1 44135
+D1
+~
+~
+0 -1 44127
+D2
+~
+~
+0 -1 44125
+D3
+~
+~
+0 -1 44129
+Z0
+C-1
+S
+#44127
+{BOLD}{BLACK}Entrance to Vault{black}~
+
+  As you enter the room, two huge guards
+  approach you and tell you that for your
+  own safety, you'd better leave this room
+  immediately.  You seriously consider their advice,
+  then you start thinking about all of
+  the riches that could be behind that vault door.
+
+~
+441 65536 1
+D0
+~
+Vault~
+1 -1 44128
+D3
+~
+~
+0 -1 44126
+Z0
+C-1
+S
+#44128
+{BOLD}{BLACK}The Vault{black}~
+
+  You enter the room and are almost blinded by
+  the light reflecting off all of the gold 
+  here.  When you can finally open your eyes 
+  and look at the treasure, you see nothing
+  but gold bars, gold coins, and jewels everywhere.
+
+~
+441 65536 1
+D2
+~
+Vault~
+1 -1 44127
+Z0
+C-1
+S
+#44129
+{BOLD}{BLACK}Entrance to{black} {BOLD}{WHITE}White Lotus{white} {BOLD}{BLACK}Training Area{black}~
+
+  This entrance leads to the training
+  grounds where many hopeful students 
+  practice dillegently in a chance to
+  impress the master of the temple.
+
+~
+441 65536 1
+D1
+~
+~
+0 -1 44126
+D2
+~
+~
+0 -1 44131
+D3
+~
+~
+0 -1 44130
+Z0
+C-1
+S
+#44130
+{BOLD}{BLACK}The{black} {BOLD}{BLUE}Apprentice's{blue} {BOLD}{BLACK}Room{black}~
+
+  This room has weapons all over,
+  a bed rests in the corner next
+  to the chair.  The Apprentice stands
+  the ready for a fight at any time.
+
+~
+441 65536 1
+D1
+~
+~
+0 -1 44129
+Z3
+C-1
+S
+#44131
+{BOLD}{WHITE}White Lotus{white} {BOLD}{BLACK}Mixed Training Room{black}~
+  Here lies a equipment filled room
+  packed with hard working newbie
+  and advanced classes training various
+  techiniques and forms in preperation
+  for upcoming tests and tournaments.
+
+~
+441 65536 1
+D0
+~
+~
+0 -1 44129
+D1
+~
+~
+0 -1 44132
+D2
+~
+~
+0 -1 44133
+D3
+~
+~
+0 -1 44134
+Z0
+C-1
+S
+#44132
+{BOLD}{WHITE}White Lotus{white} {BOLD}{BLACK}Recovery Room{black}~
+
+  This room is used to recover
+  the hurt and injured trainee's
+  that could not defend them selves
+  correctly during training.
+
+~
+441 65536 1
+D3
+~
+~
+0 -1 44131
+Z0
+C-1
+S
+#44133
+{BOLD}{WHITE}White Lotus{white} {BOLD}{BLACK}Newbie Training Room{black}~
+
+  Here is a room full of little kids 
+  training trying to become better.
+
+~
+441 65536 1
+D0
+~
+~
+0 -1 44131
+Z0
+C-1
+S
+#44134
+{BOLD}{WHITE}White Lotus{white} {BOLD}{BLACK}Advanced Training Room{black}~
+  Here is a room full of advanced 
+  students training trying to become
+  better to reach thier goal of Temple
+  Master.
+
+~
+441 65536 1
+D1
+~
+~
+0 -1 44131
+Z0
+C-1
+S
+#44135
+{BOLD}{BLACK}The{black} {BOLD}{WHITE}Temple Master's{white} {BOLD}{BLACK}Room{black}~
+
+  This is the room where the most
+  skilled member of the White Lotus
+  lives the Temple Master.
+
+~
+441 65536 1
+D2
+~
+door~
+1 -1 44126
+D5
+~
+Secret~
+1 -1 44136
+Z3
+C-1
+S
+#44136
+{BOLD}{BLACK}Secret Passage{black}~
+
+  Had you not been interested in seeing
+  those carvings in the wall, you would 
+  not have noticed the door to this secret
+  passageway. It is much dimmer in here
+  than in the throne room, as there are fewer
+  torches along this passageway. But where
+  this passageway leads is a mystery.
+
+~
+441 32 1
+D1
+~
+~
+0 -1 44137
+D4
+~
+Secret~
+1 -1 44135
+Z6
+C-1
+S
+#44137
+{BOLD}{BLACK}Secrect Hallway{black}~
+
+  Had you not been interested in seeing
+  those carvings in the wall, you would 
+  not have noticed the door to this secret
+  passageway. It is much dimmer in here
+  than in the throne room, as there are fewer
+  torches along this passageway. But where
+  this passageway leads is a mystery.
+
+~
+441 32 1
+D0
+~
+~
+0 -1 44138
+D3
+~
+~
+0 -1 44136
+Z6
+C-1
+S
+#44138
+{BOLD}{BLACK}Secrect Hallway{black}~
+
+  Had you not been interested in seeing
+  those carvings in the wall, you would 
+  not have noticed the door to this secret
+  passageway. It is much dimmer in here
+  than in the throne room, as there are fewer
+  torches along this passageway. But where
+  this passageway leads is a mystery.
+
+~
+441 32 1
+D2
+~
+~
+0 -1 44137
+D3
+~
+~
+0 -1 44139
+Z6
+C-1
+S
+#44139
+{BOLD}{BLACK}Secrect Hallway{black}~
+
+  Had you not been interested in seeing
+  those carvings in the wall, you would 
+  not have noticed the door to this secret
+  passageway. It is much dimmer in here
+  than in the throne room, as there are fewer
+  torches along this passageway. But where
+  this passageway leads is a mystery.
+
+~
+441 32 1
+D0
+~
+~
+0 -1 44140
+D1
+~
+~
+0 -1 44138
+Z6
+C-1
+S
+#44140
+{BOLD}{BLACK}Spooky Dead End{black}~
+
+  You look in th spooky room searching
+  for any sign of life.  Then out of
+  the corner appear the Spirit of the
+  White Lotus.
+
+~
+441 32 1
+D2
+~
+~
+0 -1 44139
+Z6
+C-1
+S
+#44141
+{BOLD}{BLACK}A Dungeon{black}~
+
+  As soon as you open the door,
+  the prisoners beg and plead with you
+  to take them away from this horrid 
+  place and save them from their punishment.
+  But the smell of urine and blood and
+  rotting flesh has you with your head
+  between your legs, spewing your lunch.
+
+~
+441 16 1
+D2
+~
+Cell~
+1 -1 44108
+Z5
+C-1
+S
+#44142
+{BOLD}{BLACK}A Dungeon{black}~
+
+  You take a look inside this dungeon,
+  and see some familiar faces of
+  Gypsies, Vigilantes, and Harpers captured,
+  tried, and convicted of crimes against the
+  White Lotus Temple.  Even up to the end,
+  they lie to you and swear their innocence
+  of their crimes.
+
+~
+441 16 1
+D0
+~
+Cell~
+1 -1 44108
+Z5
+C-1
+S
+#44143
+{BOLD}{BLACK}A Dungeon{black}~
+
+  You enter this room expecting to 
+  see more prisoners shackled to the
+  walls, but instead, you look down
+  near your feet and find two pink
+  mice.
+
+~
+441 16 1
+D3
+~
+Cell~
+1 -1 44108
+Z5
+C-1
+S
+#44198
+{BOLD}{RED}T{red}{RED}o{red}{BOLD}{RED}p{red} {BOLD}{RED}o{red}{RED}f{red} {BOLD}{RED}C{red}{RED}i{red}{BOLD}{RED}r{red}{RED}e{red}{BOLD}{RED}'{red}{RED}s{red} {BOLD}{RED}M{red}{RED}i{red}{BOLD}{RED}n{red}{RED}d{red}~
+
+  Wow nothing but air in
+  this part of the mind geez
+  your lucky to see a lightbulb
+  turn on now and then...but
+  at least its a nice view.
+
+~
+441 0 1
+D5
+~
+~
+0 -1 42566
+Z0
+C-1
+S
+#44199
+{BOLD}{RED}B{red}{RED}o{red}{BOLD}{RED}t{red}{RED}t{red}{BOLD}{RED}o{red}{RED}m{red} {BOLD}{RED}o{red}{RED}f{red} {BOLD}{RED}C{red}{RED}i{red}{BOLD}{RED}r{red}{RED}e{red}{BOLD}{RED}'{red}{RED}s{red} {BOLD}{RED}M{red}{RED}i{red}{BOLD}{RED}n{red}{RED}d{red}~
+
+  This room is full of games with
+  different gaming areas to the left
+  is a PS2 to the right a Computer
+  and in the center next to each other
+  there is a Gamecube and Xbox.
+
+~
+441 0 1
+D4
+~
+~
+0 -1 42566
+Z0
+C-1
+S
+$~

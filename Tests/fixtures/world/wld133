@@ -1,0 +1,942 @@
+#13300
+{CYAN}Gwynn's{cyan} {MAGENTA}Palace of Pleasure{magenta}~
+Standing in the middle of the palace you feel warmth surrounding you.
+Several dancers are dancing around you, each trying to steal your attention.
+But all pale in comparasion to Gwynn. She enters the room ready for
+anything. Looking around the room she notices you.
+Your hostess is ready to seat you now.
+~
+133 65536 0
+D0
+~
+~
+0 -1 2000
+D1
+~
+~
+0 -1 1205
+D2
+~
+Door~
+1 13300 13301
+D3
+~
+~
+0 -1 2010
+E
+Door~
+This door when opened allows you into the bedroom of a very special 
+person. Gwynn's bedroom should not be entered by the weak of heart.
+Please make a wise decision before entering.
+~
+M54
+Z3
+C-1
+S
+#13301
+{CYAN}Gwynn's{cyan} {MAGENTA}Bedroom{magenta}~
+As you enter the room, you notice several lit candles around the room.
+There is a big, soft, fluffy four poster bed on the wall opposite you,
+with grape vines wrapped around the wire posts of the bed. Large 
+pillows adorn the bed, and a single perfect red rose is lying across
+a white lace pillow. There are white lace curtains drapping the windows.
+A large white sofa is sitting against the wall to your left. A walk in
+closet to your immediate left, and just to the right of that door is the
+door to the master bathroom, with an extra-large bathtub for two. Many
+pictures adorn the wall on your right, of former lovers and of brave souls
+who risked their lives for a love.
+~
+133 2187272 0
+D0
+~
+Door~
+1 -1 13300
+M56
+Z3
+C0
+S
+#13302
+{MAGENTA}Welcome to OZ{magenta}~
+{CYAN}Welcome to the Land of OZ.  Where your childhood fantasies
+really do come true.  Where it is your destiny to find the
+Great Creator.  Be careful of tornadoes in Kansas, and when
+in OZ do try and not trip on the little people.
+~
+133 8196 2
+D3
+~
+~
+0 -1 13305
+Z3
+C-1
+S
+#13303
+Cell Block 1~
+lk
+~
+133 0 1
+Z3
+C-1
+S
+#13304
+Cell Block 2~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13305
+{MAGENTA}The farm{magenta}~
+{CYAN}Standing next to the picket white fence you notice someone
+dressed all in black riding up on a frail bike.  Hey its that
+wicked neighbor lady that is always complaining about Toto.
+And she's coming right for you and your precious Toto.{cyan}
+~
+133 0 2
+D1
+~
+~
+0 -1 13302
+D2
+~
+~
+0 -1 13307
+D3
+~
+Front Door~
+1 -1 13306
+Z3
+C-1
+S
+#13306
+Living Room~
+You are in a large room. Many family pictures adorn the walls of the
+room. You notice that the curtains on the windows are shreaded a 
+little bit. 
+~
+133 8 0
+D1
+~
+Front Door~
+1 -1 13305
+D2
+~
+~
+0 -1 13309
+D3
+~
+~
+0 -1 13308
+Z3
+C-1
+S
+#13307
+Back Porch~
+You are standing outside the Arbuckle house, looking down the street.
+Just down the street you notice the house of another famous family.
+There is a little boy and a tiger running down the street.
+~
+133 0 1
+D0
+~
+~
+0 -1 13305
+Z3
+C-1
+S
+#13308
+Living Room~
+You notice a big screen television in the corner, and another cartoon
+is on right now. There is a large chair in front of the television.
+In the corner there is a cat box, and the words Garfield are
+sketched on it. You take one last glance around the room and notice
+a fat orage cat sitting in the chair.
+~
+133 8 0
+D1
+~
+~
+0 -1 13306
+D2
+~
+~
+0 -1 13310
+Z3
+C-1
+S
+#13309
+Living Room~
+You are in a large room. Many family pictures adorn the walls of the
+room. You notice that the curtains on the windows are shreaded a 
+little bit. 
+~
+133 8 0
+D0
+~
+~
+0 -1 13306
+D2
+~
+~
+0 -1 13313
+D3
+~
+~
+0 -1 13310
+Z3
+C-1
+S
+#13310
+Living Room~
+You are in a large room. Many family pictures adorn the walls of the
+room. You notice that the curtains on the windows are shreaded a 
+little bit. 
+~
+133 0 0
+D0
+~
+~
+0 -1 13308
+D1
+~
+~
+0 -1 13309
+D2
+~
+~
+0 -1 13312
+D3
+~
+Screen~
+1 0 13311
+Z3
+C-1
+S
+#13311
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 2
+D1
+~
+Screen~
+1 -1 13310
+Z3
+C-1
+S
+#13312
+Dining Room~
+There is a large table with four chairs around it, in the middle of the
+room. Four perfectly set setting are on the table. You wonder when its 
+dinner time.
+~
+133 8 0
+D0
+~
+~
+0 -1 13310
+D1
+~
+~
+0 -1 13313
+Z3
+C-1
+S
+#13313
+Dining Room~
+There is a large table with four chairs around it, in the middle of the
+room. Four perfectly set setting are on the table. You wonder when its 
+dinner time.
+~
+133 8 0
+D0
+~
+~
+0 -1 13309
+D1
+~
+~
+0 -1 13314
+D2
+~
+~
+0 -1 13315
+D3
+~
+~
+0 -1 13312
+Z3
+C-1
+S
+#13314
+Dining Room~
+There is a large table with four chairs around it, in the middle of the
+room. Four perfectly set setting are on the table. You wonder when its 
+dinner time.
+~
+133 8 0
+D3
+~
+~
+0 -1 13313
+Z3
+C-1
+S
+#13315
+Hallway~
+This is a short narrow hallway. Many objects clutter the floor, most of
+which is junk or scraps of paper that are balled up and shreaded.
+~
+133 8 0
+D0
+~
+~
+0 -1 13313
+D2
+~
+~
+0 -1 13316
+D3
+~
+~
+0 -1 13320
+Z3
+C-1
+S
+#13316
+Kitchen~
+You are standing in nowhere !!!!
+~
+133 8 0
+D0
+~
+~
+0 -1 13315
+D1
+~
+~
+0 -1 13317
+D2
+~
+~
+0 -1 13319
+Z3
+C-1
+S
+#13317
+Kitchen~
+You are standing in nowhere !!!!
+~
+133 8 0
+D1
+~
+~
+0 -1 13318
+D3
+~
+~
+0 -1 13316
+Z3
+C-1
+S
+#13318
+The Pantry~
+You are standing in nowhere !!!!
+~
+133 9 0
+D3
+~
+~
+0 -1 13317
+Z3
+C-1
+S
+#13319
+Kitchen~
+You are standing in nowhere !!!!
+~
+133 8 0
+D0
+~
+~
+0 -1 13316
+Z3
+C-1
+S
+#13320
+Hallway~
+This is a short narrow hallway. Many objects clutter the floor, most of
+which is junk or scraps of paper that are balled up and shreaded.
+~
+133 8 0
+D1
+~
+~
+0 -1 13315
+D3
+~
+~
+0 -1 13321
+Z3
+C-1
+S
+#13321
+Hallway~
+This is a short narrow hallway. Many objects clutter the floor, most of
+which is junk or scraps of paper that are balled up and shreaded.
+~
+133 8 0
+D0
+~
+~
+0 -1 13322
+D1
+~
+~
+0 -1 13320
+Z3
+C-1
+S
+#13322
+Hallway~
+This is a short narrow hallway. Many objects clutter the floor, most of
+which is junk or scraps of paper that are balled up and shreaded.
+~
+133 8 0
+D0
+~
+~
+0 -1 13323
+D2
+~
+~
+0 -1 13321
+Z3
+C-1
+S
+#13323
+Jon's Bedroom~
+You are standing in nowhere !!!!
+~
+133 8 0
+D2
+~
+~
+0 -1 13322
+D3
+~
+~
+0 -1 13324
+Z3
+C-1
+S
+#13324
+Jon's Bathroom~
+You are standing in nowhere !!!!
+~
+133 8 0
+D1
+~
+~
+0 -1 13323
+Z3
+C-1
+S
+#13325
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13326
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13327
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13328
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13329
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13330
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13331
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13332
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13333
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13334
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13335
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13336
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13337
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13338
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13339
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13340
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13341
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13342
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13343
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13344
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13345
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13346
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13347
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13348
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13349
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13350
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13351
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13352
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13353
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13354
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13355
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13356
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13357
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13358
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13359
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13360
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13361
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13362
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13363
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13364
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13365
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13366
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13367
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13368
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13369
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13370
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13371
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13372
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13373
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13374
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13375
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13376
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13377
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13378
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13379
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13380
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13381
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13382
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13383
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13384
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 0 1
+Z3
+C-1
+S
+#13385
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 262144 1
+Z3
+C-1
+S
+#13399
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+133 262144 1
+Z3
+C-1
+S
+$~

@@ -1,0 +1,584 @@
+#17100
+raider~
+{BLA,BO}A Savage Nadir Raider{blink}~
+{BLA,BO}A man lashes out at you with his sword{blink}
+~
+ {BLACK,BO}
+    A man dressed in rough leather and crude armor
+    is here advancing on you.  Better draw your sword
+    and defend yourself.
+ {blink}
+~
+411041856 1143210940 0 S
+50 10 -3 1d1+3999 0d0+300
+750000 80000000
+8 8 0
+D 20
+A 12
+#17101
+tanaka khan spirit~
+{BLAC,BO}The translucent spirit of Tena{RED}ka {bli,RED}K{BO}ha{BLA}n{blink}~
+{BLA,BO}Darkness fills the room, and an icy wind blows across your face{blink}
+~
+
+ {BLA,BO}   A ghostly form is here, wielding an oddly humming sword. {blink}
+
+~
+1138786406 1512841918 0 S
+56 -254 -31 0d0+20000000 1d1+800
+10000000 100000000
+8 8 0
+S 18875072
+R 16
+D 20
+A 12
+#17102
+asta khan shaman~
+{BLA,BO}A{RE}s{BLA}t{RE}a{BLA} K{RED}h{BLA}a{RED}n{blink}~
+{BLA,BO}An old men is here, studying the pattern of some oracle bones{blin}
+~
+
+Before you stands Asta Khan, the shaman of Tenaka.
+
+~
+566231142 1879311020 -1000 S
+55 -130 -20 0d0+32000 0d0+256
+250000 15000000
+8 8 1
+S 4194688
+D 20
+A 12
+#17103
+soldier~
+{WHI}A Talgithir Soldier{blink}~
+{BLA,BO}A large man clad in armor patrols the castle{blink}
+~
+
+This burly fellow is suited up in a set of battle plate.  He brandishes
+a two handed sword and fire burns deep within his eyes.  Careful, he
+is about to bring his sword smashing down upon your skull.
+
+~
+494960674 1074004904 0 S
+50 10 -7 10d10+10000 12d12+175
+0 1000
+8 8 0
+D 20
+A 12
+#17104
+logar~
+{WHIT}Logar, the Captain of the Guard{blink}~
+{BLA,BO}The Captain of the Guard is here, overseeing the Protection of Talgithir.{blin}
+~
+ {WHITE,BOLD}
+    A large man wielding a huge sword.
+ {blink}
+~
+1207960162 1107591850 0 S
+50 10 -9 0d0+27000 0d0+447
+4000000 9000000
+8 8 0
+D 20
+A 12
+#17105
+earl man~
+{WHI}The Earl of Talgithir{blink}~
+{BLA,BO}Sitting behing a desk, the Earl glances up at your from his papers{blink}
+~
+
+{WHI}Clad in robes of silk, the earl sit behind his desk studying maps, worrying
+over a Nadir invasion{blin}
+
+~
+1237368934 1076101816 0 C 1
+52 10 -10 0d0+30000 0d0+750
+2000000 320000000
+8 8 0
+S 131072
+D 20
+A 12
+#17106
+snow flake snowflake~
+{WHITE}Snowflakes{blink}~
+{blink,WHIT}Sn{CY}owf{BO}lak{WHI}es {blink,WHIT}fall down from the sky{blink}
+~
+
+{WHI,BO} A perfect little snowflake{blin}
+
+~
+545260128 1074004776 0 C 4
+50 10 -5 0d0+10000 0d0+170
+800000 2000000
+8 8 0
+S 63
+D 20
+A 12
+#17107
+sathuli warrior~
+{BLACK,BO}A Sathuli Warrior{blink}~
+{WHI}A Sat{BLA,BO}hul{WHI}i dre{BO}sse{blink,WHI}d i{BLA,BO}n fur{blink,WHIT}s he{BLA,BO}fts his tu{WHI}lwar{blink}
+~
+
+A large warrior clad in fur
+
+~
+545260130 1074004904 0 C 4
+50 10 -5 0d0+10000 0d0+170
+800000 2000000
+8 8 0
+S 1
+D 20
+A 12
+#17108
+sathuli leader~
+{BLA,BO}The{blin,WHI} Sa{BO}thu{BLA,BO}li Chi{bl,WHIT}ef{BO}ta{BLA}in{blin}~
+{BLA,BO}A huge man is here holding an odd looking sword{blink}
+~
+ {WHITE}
+    A large Sathuli, wielding a curved tulwar.
+ {blin}
+~
+25198690 1376035516 0 S
+50 10 -7 0d0+14000 0d0+700
+700000 1000
+8 8 0
+S 1
+D 20
+A 12
+#17109
+swarm mosquitoes~
+{YEL}A swa{BO}rm {WHIT}of mo{blin,WHI}squi{CYAN}toes{blink}~
+{BLACK}The air clouds up with little bugs{blin}
+~
+ {BLACK,BO}
+    Hundreds of tiny bugs bite you.
+ {blink}
+~
+293634146 1143210684 0 S
+50 10 -3 1d1+3999 0d0+300
+750000 80000000
+8 8 0
+D 20
+A 12
+#17110
+raider~
+{BLAC,BO}A Raider{blin}~
+{WHI}A ma{BLA,BO}n is he{WHI}re {blink,WHIT}pill{BLA,BO}agi{blink,WHIT}ng th{BO}rou{blin,WH}gh the {BLA,BO}wreckage{blink}
+~
+
+This burly fellow is suited up in a set of battle plate.  He brandishes
+a two handed sword and fire burns deep within his eyes.  Careful, he
+is about to bring his sword smashing down upon your skull.
+
+~
+494960672 1074004904 0 S
+50 10 -7 10d10+10000 12d12+175
+0 1000
+8 8 0
+D 20
+A 12
+#17111
+tattooed man~
+{RED}A T{WH}a{RE}t{WH}t{RE}o{WHI}o{RE}e{WHI}d {RED}Man{blin}~
+{blin,RED}A T{WH}a{RE}t{WH}t{RE}o{WHI}o{RE}e{WHI}d {RED}Man is here defending his family{blin}
+~
+
+    A sturdy man trying to protect his family.
+
+~
+293601315 1342997416 0 S
+51 10 -6 0d0+6500 0d0+100
+1 3500000
+8 8 1
+D 20
+A 12
+#17112
+okas tattooed~
+{RED}O{WHI}k{BO,BLA}a{bli,RE}s{blin}~
+{BLA}A small man covered in tattoos rests here, meditating{blin}
+~
+
+    Okas sits here, meditating softly to himself.
+
+~
+566231142 1879311020 -1000 S
+54 10 -21 0d0+32000 0d0+260
+250000 15000000
+8 8 1
+D 20
+A 12
+#17113
+wolf huge~
+{WHI}A Hu{BO}ge W{blin,WH}hit{BO}e Wol{blin,WH}f{blin}~
+{WHIT,BO}A huge wolf howls, and attacks{BLIN}
+~
+
+    A huge white wolf attacks you.
+
+~
+293601376 1091306154 0 S
+50 10 -6 0d0+3000 0d0+300
+500000 2000000
+8 8 0
+D 20
+A 12
+#17114
+spirit wolf~
+{BLA,BO}A Spirit Wolf{blin}~
+{WHIT,BO}A huge wolf howls, and attacks{BLIN}
+~
+
+    {BLA,BO}A huge gray wolf attacks you.{blink}
+
+~
+293601378 1091306154 0 S
+50 10 -6 0d0+3000 0d0+300
+500000 2000000
+8 8 0
+D 20
+A 12
+#17115
+hordesman nadir~
+{BLA,BO}A Na{blink,WHI}di{BO}r H{blink,WHI}ord{BLA,BO}esman{blin}~
+{BLA,BO}A Na{bli,WHI}di{BO}r H{BLA}ord{blin,WHI}esma{BLA,BO}n{blin}
+~
+A plain armored Nadir wearing the crest of the wolves
+~
+293634146 1143210684 0 S
+50 10 -3 1d1+3999 0d0+300
+750000 80000000
+8 8 0
+D 20
+A 12
+#17116
+guard nadir~
+{BLA,BO}A N{bli,YE}adi{WHI}r Gu{BLA,BO}ar{blin,YE}d{blin}~
+{BLA,BO}A large man clad in armor patrols the castle{blink}
+~
+
+This burly fellow is suited up in a set of battle plate.  He brandishes
+a two handed sword and fire burns deep within his eyes.  Careful, he
+is about to bring his sword smashing down upon your skull.
+
+~
+494960672 1074004904 0 S
+50 10 -7 10d10+10000 12d12+175
+0 1000
+8 8 0
+D 20
+A 12
+#17117
+tanaki~
+{CYA}Ta{BO}na{WHI}ki{blin}~
+{bli,CYA}A beautiful woman rests here, clad in hides{blin}
+~
+
+A beautiful young girl, Tanaki, the youngest child of Tenaka, is here.
+
+~
+1207960162 1107591850 0 S
+50 10 -9 0d0+27000 0d0+447
+4000000 9000000
+8 8 0
+D 20
+A 12
+#17118
+ambassador man~
+{BLU,BO}An Am{CY}ba{BLU}ss{CY}ad{BLU}or{blin}~
+{blin,BLU}A man is resting on the bed here{blin}
+~
+
+    An ambassador from a nearby country.
+
+~
+25198658 1376035516 0 S
+50 10 -7 0d0+14000 0d0+700
+700000 1000
+8 8 0
+D 20
+A 12
+#17119
+chien-tsu chien~
+{BLA,BO}Chien-tsu{blin}~
+{bli,WHI}An ambassador from the Middle Kingdom{blin}
+~
+
+A small man, from the Middle Kingdom, rests here, concentrating and talking softly.
+
+~
+568328294 1879311020 -1000 S
+55 10 -18 0d0+32000 1d1+280
+250000 15000000
+8 8 1
+D 20
+A 12
+#17120
+shotza~
+{YEL}S{BO}h{bli,YE}o{BO}t{bli,YE}z{BO}a {blin,YE}K{BO}h{blin,YE}a{BO}n{blin}~
+{blin,YEL}An old man chanting ancient Nadir{blin}
+~
+
+    A thin old man is here, trying to see the future.
+
+~
+566231142 1879311020 -1000 S
+55 10 -20 0d0+32000 0d0+256
+250000 15000000
+8 8 1
+D 20
+A 12
+#17121
+jungir khan man~
+{BLA,BO}Jungir Khan{blin}~
+{blin,WHI}A large man, clad in {BLA,BO}black {blin,WHI}armor sits on a throne here{blin}
+~
+
+    You see a large man who has an overpowering bearing of
+    authority.  You almost instinctively bow to him, but
+    stop yourself through force of will.
+
+~
+1247806054 1375994536 0 S
+51 10 -10 0d0+32000 0d0+447
+3000000 25000000
+8 8 0
+D 20
+A 12
+#17122
+mist evil~
+{WHI}A {CYA,BO}Mi{blin,CY}st {WHI}Fi{BO}en{bli,CYA}d{blin}~
+{CYA}The mist gathers into solid form and lashes at you{blin}
+~
+
+You can barely make out a human form.
+
+~
+276857184 1428423676 0 S
+50 10 -5 1d1+8999 0d0+350
+500000 200000000
+8 8 0
+D 20
+A 12
+#17123
+nightmare~
+{BO,BLA}Th{blin,WH}e N{CYA}ig{BO}htm{WH}ar{BLA}e{blin}~
+{BLACK,BO}The Mist roars, the swirls in a huge black mass{blin}
+~
+
+    Your worst nightmare is here.
+
+~
+1247806022 1375994536 0 S
+51 10 -10 0d0+32000 0d0+447
+3000000 25000000
+8 8 0
+D 20
+A 12
+#17124
+soul lost~
+{WHI,BO}A Lost Soul{blin}~
+{BLA,BO}A body can barely be made out in the darkness{blin}
+~
+
+    You can barely make out a humanoid form.
+
+~
+545260130 1074004904 0 C 4
+50 10 -5 0d0+10000 0d0+170
+800000 2000000
+8 8 0
+D 20
+A 12
+#17125
+stones~
+{BLA,BO}A Pile of Stones and Mortar{blin}~
+{BLA,BO}The rubble all of a sudden stands erect{blin}
+~
+
+    Rocks fall from the wall onto you.
+
+~
+1082130530 1074037672 0 C 4
+53 10 -4 0d0+10000 0d0+197
+1000000 3000000
+8 8 0
+D 20
+A 12
+#17126
+chareos~
+{BLA,BO}Cha{WHI}reo{bli,WHI}s, th{CYAN}e Bl{WHI}a{BLA,BO}de{CYAN}ma{BLU}st{blin,CYA}er{blink}~
+{BLA,BO}A man rests here, sword in hand, awaiting the inevitable{blin}
+~
+
+    A perfect model of control and focus, Chareos rests here.
+
+~
+1231060999 1342997160 200 S
+54 -11 -20 1d1+29999 0d0+614
+1000000 200000000
+8 8 1
+R 8388608
+D 20
+A 12
+#17127
+finn~
+{WHI}Fi{BLA,BO}nn T{WHI,BO}he {blin,CY}Ar{BO}che{BLA}r{blin}~
+{BLA,BO}A young man rests here with a bow in his right hand
+~
+
+    A man in his late forties rests here.
+
+~
+1270874467 1610875560 -1000 C 4
+54 10 -7 20d8+27000 18d20+85
+1000000 1350000
+8 8 1
+D 20
+A 12
+#17128
+magrig~
+{WHI}Ma{BLA,BO}gr{WHI}i{blin,WHI}g T{WHI,BO}he {blin,CY}Ar{BO}che{BLA}r{blin}~
+{BLA,BO}An older man stands here alert, bow in hand
+~
+
+    A man in his early thirties rests here.
+
+~
+1270874467 1610875560 -1000 C 4
+54 10 -7 20d8+27000 18d20+85
+1000000 1350000
+8 8 1
+D 20
+A 12
+#17129
+beltzer~
+{WHI}B{CYA}e{BO}lt{BLA}ze{blin,WHI}r{blin}~
+{BLA,BO}A huge man, wielding a massive axe{blin}
+~
+
+    A huge man wielding a massive axe rests here.
+
+~
+1291845731 1711579816 0 C 1
+52 -230 -15 0d0+50000 0d0+500
+500000 200000000
+8 8 0
+D 20
+A 12
+#17130
+guard~
+{BLA,BO}A Gate Guard{blin}~
+{BLA,BO}A Massive Guard stands here with a large spear{blin}
+~
+
+    A dark man with a long spear stands here, guarding the door.
+
+~
+25202786 1074012860 0 S
+50 10 -7 0d0+20000 0d0+900
+900000 300000000
+8 8 0
+D 20
+A 12
+#17131
+citizen talgithir~
+{CYA}A citizen of Talgithir{cya}~
+{CYA,BO}A citizen of Talgithir stands here.{cya}
+~
+
+   A tall, rough looking citizen of the Noble Town of Talgithir
+   busies himself with his chores.  He does not seem to notice
+   anything other than his busy work.
+
+~
+16810080 1143210684 0 S
+50 -80 -3 1d1+3999 0d0+300
+750000 80000000
+8 8 0
+S 273215
+D 20
+A 12
+#17132
+elk~
+{YEL}A Mountain Elk{blin}~
+{BLA,BO}An animal with a large set of antlers stands here{blin}
+~
+
+    A large beast, with long, sharp antlers.
+
+~
+553648196 805569192 1000 C 4
+60 10 0 1400d1+0 0d0+500
+150 805174
+8 8 2
+D 20
+A 12
+#17133
+scorpion~
+{BO,YEL}A HUGE Scorpion{blin}~
+{blin,YEL}A huge scorpion is here blocking you way{blin}
+~
+
+    A huge scorpion, with a deadly stinger.
+
+~
+555745350 805569192 1000 C 4
+60 10 0 1400d1+0 0d0+500
+150 805174
+8 8 2
+D 20
+A 12
+#17134
+bat~
+{BLA,BO}A Black Bat{blin}~
+{BLA,BO}A large bat with sharp claws{blin}
+~
+
+    A large bat, with many sharp teeth.
+
+~
+555745350 805569192 1000 C 4
+60 10 0 1400d1+0 0d0+500
+150 805174
+8 8 2
+D 20
+A 12
+#17135
+relic~
+{BLA,BO}A R{blin,WHI}el{CYA}ic {BO}of {WHI}Ol{BLA}d{blin}~
+{blin,RED}A HU{BO,RED}GE {bli,YEL}Sp{blin,CYA}ir{WHIT}it {BO}wiel{CYAN}din{blin,CYAN}g a {WHITE,BO}sword {BLA}of {RED}Flames{blin}
+~
+
+    An ancient demon, wielding a flaming sword.
+
+~
+555745348 805569192 1000 C 4
+60 10 0 1400d1+0 100d20+0
+150 805174
+8 8 2
+D 20
+A 12
+#17136
+test mob elric cop~
+{WHITE}Elric of Melnibone{white}~
+{WHITE}The last Emperor of the ruined city of Imrryr stands before you!{white}
+~
+{WHITE}
+   The pale-faced albino Emperor of Melnibone stands before you.
+   His Crimson eyes seem emblazoned with pain and hatred.  You see
+   in his eyes that one way or another the pain that has been his life
+   ends here, a pawn of the fates his path chosen for him ages ago. 
+   The great hell forged blade of black moves in his hand and you
+   hear the beginning of an ecstatic moan come from the sentient
+   blade.  You know now the truth of the rumors, that Stormbringer is
+   alive and drinks the souls of its victims.  You are in all likelihood
+   next....
+
+~
+719372358 371500796 46 C 4
+57 -100 -10 0d0+50000 0d0+600
+50000000 200756384
+8 8 1
+D 20
+A 12
+$~

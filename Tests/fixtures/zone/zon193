@@ -1,0 +1,70 @@
+#193
+City Okkard(Heathen)~
+19399 0 2
+*
+X 4
+D 0 19300     1     1    (E:CLOSED) {C}Entrance {W}to the {BLU,BO}Blue {bo,Y}Trials{y}
+D 0 19303     2     1    (S:CLOSED) {W}Passage{BLA,BO}way{bla,bo}
+M 0 19236     1 19304    {W}the {W,BO}Bright {Y,BO}Light{y,bo}
+D 0 19304     1     1    (E:CLOSED) {Y,BO}Octagonal {bo,Y}Room{bo,y}
+D 0 19306     0     1    (N:CLOSED) {W}Passage{BLA,BO}way{bla,bo}
+M 0 19237     2 19307    {W}the {C,BO}Guardian{bo,C} Wisp{c}
+M 0 19237     2 19307    {W}the {C,BO}Guardian{bo,C} Wisp{c}
+D 0 19307     0     1    (N:CLOSED) {R,BO}Trial{r,bo}
+D 0 19307     1     1    (E:CLOSED) {R,BO}Trial{r,bo}
+D 0 19307     3     1    (W:CLOSED) {R,BO}Trial{r,bo}
+D 0 19308     2     1    (S:CLOSED) {W}Passage{BLA,BO}way{bla,bo}
+D 0 19310     5     1    (D:CLOSED) {W}Passage{BLA,BO}way{bla,bo}
+D 0 19311     5     1    (D:CLOSED) {W}Passage{BLA,BO}way{bla,bo}
+D 0 19314     0     1    (N:CLOSED) {W}End {C}of the {W}Passage{BLA,BO}way{bla,bo}
+D 0 19315     0     1    (N:CLOSED) {C,BO}Second {BLU,BO}Trial{blu,bo}
+D 0 19315     1     1    (E:CLOSED) {C,BO}Second {BLU,BO}Trial{blu,bo}
+M 0 19250     2 19316    {W}a {BLA,BO}Hellhound{bla,bo}
+M 0 19250     2 19316    {W}a {BLA,BO}Hellhound{bla,bo}
+D 0 19316     2     1    (S:CLOSED) {W}Passage{BLA,BO}way{bla,bo}
+D 0 19318     0     1    (N:CLOSED) {W}Passage{BLA,BO}way{bla,bo}
+M 0 19251    10 19319    {W}a {Y}Goblin{y}
+M 0 19251    10 19319    {W}a {Y}Goblin{y}
+M 0 19251    10 19319    {W}a {Y}Goblin{y}
+M 0 19251    10 19319    {W}a {Y}Goblin{y}
+M 0 19251    10 19319    {W}a {Y}Goblin{y}
+M 0 19251    10 19319    {W}a {Y}Goblin{y}
+M 0 19251    10 19319    {W}a {Y}Goblin{y}
+M 0 19251    10 19319    {W}a {Y}Goblin{y}
+M 0 19251    10 19319    {W}a {Y}Goblin{y}
+M 0 19251    10 19319    {W}a {Y}Goblin{y}
+D 0 19319     0     1    (N:CLOSED) {BLU,BO}Trial{bo,W} of {Y}Defense{BLU,BO}!{blu,bo}
+D 0 19325     0     1    (N:CLOSED) {C}Trial{W} of {Y}Persistence{y}
+D 0 19325     1     1    (E:CLOSED) {C}Trial{W} of {Y}Persistence{y}
+D 0 19325     2     1    (S:CLOSED) {C}Trial{W} of {Y}Persistence{y}
+D 0 19325     3     1    (W:CLOSED) {C}Trial{W} of {Y}Persistence{y}
+D 0 19328     0     1    (N:CLOSED) {W}Passage{BLA,BO}way{bla,bo}
+M 0 19238     1 19331    {W}the {W,BO}Orb{w,bo}
+D 0 19331     0     1    (N:CLOSED) {Y}Pedestal {C}of the {W,BO}Orb{bo,C}!{c}
+M 0 19239     1 19332    {W}the {C}Liche{c}
+E 1 19203     3    12    (ABOUT) the robe of the Liche
+M 0 19240     1 19332    {W}the {C,BO}Storm {BLU,BO}Demon{blu,bo}
+D 0 19332     0     1    (N:CLOSED) {Y}Temple {W,BO}of {bo,W}Mouse{C}Rider{c}
+O 0 19216     3 19333    an eagle pendant
+O 0 19215     4 19333    an amulet of Unknown
+M 0 19200     1 19341    {Y,BO}Jorge{bo,C}, the {BLA,BO}Ponga{W,BO}-{BLU,BO}man{blu,bo}
+G 1 19200     4     0    Drakko's Broom
+M 0 19202     8 19342    {Y}Corpse {BLU,BO}Guard{blu,bo}
+M 0 19202     8 19342    {Y}Corpse {BLU,BO}Guard{blu,bo}
+M 0 19202     8 19342    {Y}Corpse {BLU,BO}Guard{blu,bo}
+M 0 19202     8 19342    {Y}Corpse {BLU,BO}Guard{blu,bo}
+M 0 19202     8 19343    {Y}Corpse {BLU,BO}Guard{blu,bo}
+M 0 19202     8 19343    {Y}Corpse {BLU,BO}Guard{blu,bo}
+M 0 19202     8 19343    {Y}Corpse {BLU,BO}Guard{blu,bo}
+M 0 19202     8 19343    {Y}Corpse {BLU,BO}Guard{blu,bo}
+M 0 19203     1 19345    {BLA,BO}Lord {R,BO}Okkard{bo,W}, the {Y}corpse{W} muncher{w}
+E 1 19201     3    16    (WIELD) Long Sword
+M 0 19247     1 19347    {G,BO}Bungle Fleecem{g,bo}
+M 0 19248     1 19350    {W}the {BLA,BO}Gravedigger{bla,bo}
+M 0 19252     1 19352    {W}the {Y,BO}Farmer{y,bo}
+G 1 19242     2     0    an onion
+G 1 19241     2     0    a potato
+G 1 19240     2     0    a pale apple
+G 1 19207     2     0    a zucchini
+G 1 19205     2     0    a powwee
+$~

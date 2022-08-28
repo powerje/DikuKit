@@ -1,0 +1,120 @@
+#5
+{bo,C}-={BO,Y}FM{bo,C}=- Clubhouse{bo}(Robo)~
+599 15 2
+*
+X 294832
+M 0   501     3   521    {BO,C,BLI}The {Y}Mig{C}hty{Y} Pro{C}tec{Y}tor{bo}
+M 0   501     3   522    {BO,C,BLI}The {Y}Mig{C}hty{Y} Pro{C}tec{Y}tor{bo}
+M 0   501     3   523    {BO,C,BLI}The {Y}Mig{C}hty{Y} Pro{C}tec{Y}tor{bo}
+M 0   599     2   524    {BO,C,BLI}The {Y}Mig{C}hty{Y} Pro{C}tec{Y}tor{bo}
+D 0   524     0     0    (N:OPEN) {bo,C}-={Y,BO}FM{bo,C}=- {Y,BO}Maze{bo}
+D 0   524     1     0    (E:OPEN) {bo,C}-={Y,BO}FM{bo,C}=- {Y,BO}Maze{bo}
+D 0   524     2     0    (S:OPEN) {bo,C}-={Y,BO}FM{bo,C}=- {Y,BO}Maze{bo}
+D 0   524     3     0    (W:OPEN) {bo,C}-={Y,BO}FM{bo,C}=- {Y,BO}Maze{bo}
+D 0   524     4     0    (U:OPEN) {bo,C}-={Y,BO}FM{bo,C}=- {Y,BO}Maze{bo}
+D 0   524     5     0    (D:OPEN) {bo,C}-={Y,BO}FM{bo,C}=- {Y,BO}Maze{bo}
+M 0   599     2   525    {BO,C,BLI}The {Y}Mig{C}hty{Y} Pro{C}tec{Y}tor{bo}
+D 0   525     0     0    (N:OPEN) {BO,G}End {bo,C}-={BO,G}FM{bo,C}=- {BO,G}Maze{bo,g}
+D 0   525     1     0    (E:OPEN) {BO,G}End {bo,C}-={BO,G}FM{bo,C}=- {BO,G}Maze{bo,g}
+D 0   525     2     0    (S:OPEN) {BO,G}End {bo,C}-={BO,G}FM{bo,C}=- {BO,G}Maze{bo,g}
+D 0   525     3     0    (W:OPEN) {BO,G}End {bo,C}-={BO,G}FM{bo,C}=- {BO,G}Maze{bo,g}
+D 0   525     4     0    (U:OPEN) {BO,G}End {bo,C}-={BO,G}FM{bo,C}=- {BO,G}Maze{bo,g}
+D 0   525     5     0    (D:OPEN) {BO,G}End {bo,C}-={BO,G}FM{bo,C}=- {BO,G}Maze{bo,g}
+D 0   526     4     0    (U:OPEN) {bo,C}-={Y,BO}FM{bo,C}=- {Y,BO}Maze{bo}
+O 0  3135     2   527    a fountain
+O 0   523     5   527    {bo,R}-{W}F{BLU}M{R}- {W}W{BLU}i{bo,W}n{R}g{BLU}s {bo,W}o{R}f {BLU}J{bo,W}u{R}s{BLU}t{bo,W}i{R}c{BLU}e{bo,blu}
+O 0   502     1   527    {CYAN,BOLD}Statue of Warlord{bold}
+O 0  3098    10   528    the General Bulletin Board
+O 0   546     1   531    a large oak board
+O 0   525     1   531    {C}A statue of {Y,BO}Bomanz{y,bo}
+D 0   532     5     1    (D:CLOSED) {CYAN}-={YELLOW,BOLD}FM{bold}{CYAN}=- Foyer{cyan}
+O 0  2004     9   533    the practomat
+O 0  2002     7   536    the PK Score Board
+D 0   536     4     1    (U:CLOSED) {C}-={Y,BO}FM{y,bo}{C}=- PK Hall{c}
+D 0   537     5     1    (D:CLOSED) {CY}-={Y,BO}FM{y,bo}{CY}=- Sparring Arena{cy}
+O 0   517     1   541    -FM- Immortal Affairs Board
+O 0   507     1   543    {BO,Y}Golden Statue of Zieb{bo}
+O 0   524     1   552    {C}A statue of {Y,BO}Beav{y,bo}
+O 0   523     5   552    {bo,R}-{W}F{BLU}M{R}- {W}W{BLU}i{bo,W}n{R}g{BLU}s {bo,W}o{R}f {BLU}J{bo,W}u{R}s{BLU}t{bo,W}i{R}c{BLU}e{bo,blu}
+O 0   516     6   552    {bo,C}-={Y,BO}FM{bo,C}=- Scrolls of Justice{bo}
+O 0   516     6   552    {bo,C}-={Y,BO}FM{bo,C}=- Scrolls of Justice{bo}
+D 0   554     0     2    (N:LOCKED) Protector's Office
+D 0   556     0     0    (N:OPEN) {C}The Church's Courtyard{bo}
+O 0   545     2   562    {bo,C}-={Y,BO}FM{bo,C}=- Message Board{bo}
+O 0   515     1   562    A vending machine
+O 0   513     1   563    {C}-={Y,BO}FAMILY ALBUM{bo}{C}=-{c}
+O 0   523     5   572    {bo,R}-{W}F{BLU}M{R}- {W}W{BLU}i{bo,W}n{R}g{BLU}s {bo,W}o{R}f {BLU}J{bo,W}u{R}s{BLU}t{bo,W}i{R}c{BLU}e{bo,blu}
+O 0   516     6   572    {bo,C}-={Y,BO}FM{bo,C}=- Scrolls of Justice{bo}
+O 0   516     6   572    {bo,C}-={Y,BO}FM{bo,C}=- Scrolls of Justice{bo}
+O 0   516     6   572    {bo,C}-={Y,BO}FM{bo,C}=- Scrolls of Justice{bo}
+O 0   516     6   572    {bo,C}-={Y,BO}FM{bo,C}=- Scrolls of Justice{bo}
+O 0   509     1   572    {C}A statue of {Y,BO}Renatus{y,bo}
+M 0  3005     4   574    the Receptionist
+M 0  3005     4   574    the Receptionist
+M 0  3005     4   574    the Receptionist
+O 0  3014    13   574    An ATM
+M 0  2041     3   578    The Postmaster
+M 0  2041     3   578    The Postmaster
+O 0   521     1   580    {CY}The -={Y,BO}FM{y,bo}{CY}=- Wings of Buffalo Cauldron{cy}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+P 1   555    50   521    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+M 0  3005     4   589    the Receptionist
+O 0  3014    13   589    An ATM
+O 0   555    50   589    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+O 0   555    50   589    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+O 0   555    50   589    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+O 0   555    50   589    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+O 0   555    50   589    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+O 0   555    50   589    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+O 0   555    50   589    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+O 0   555    50   589    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+O 0   555    50   589    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+O 0   555    50   589    {C}-={Y,BO}WiNgS{y,bo}{C} of {Y,BO}BuFfAlO{y,bo}{C}=-{c}
+O 0   504     1   589    {M,BO}Statue of {C}Niniel{c,bo}
+M 0  2041     3   592    The Postmaster
+O 0   508     1   592    {C}{c}{C}A Statue of {Y,BO}TheLady{y,bo}
+O 0   545     2   593    {bo,C}-={Y,BO}FM{bo,C}=- Message Board{bo}
+O 0   505     1   593    {C}S{Y}t{Y,BO}a{C}t{bo}{C}u{Y}e{Y,BO} o{C}f{bo}{C} C{Y}a{Y,BO}v{C}e{bo}{C}m{Y}a{Y,BO}n{y,bo}
+M 0  3013     1   595    the Blacksmith
+O 0   506     1   595    {C}{c}{CY}Statue of {Y,BO}Majere{y,bo}
+O 0   511     2   599    A Jolt Fountain
+O 0   510     1   599    {WH,BO}An {wh,bo}{GR}Olive{WH,BO} Statue of {Y}Maverik{y,bo}
+$~

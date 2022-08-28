@@ -1,0 +1,2163 @@
+#2401
+{y}{Y}Road{y}{BOLD} to Paladine's Temple{b}~
+{BO}
+   You are surrounded by a light forest with chirping birds
+   and squirrels playing hide and seek among the trees.
+   The air is warm and fills you with peace, as you think of
+   the Paladine's holy temple.  To the north the woods open
+   up and more light seems to be peeking through.
+{bo}
+~
+24 4 3
+D0
+Light forest on the way to Paladine's temple.
+~
+~
+0 -1 2403
+D2
+~
+~
+0 -1 6003
+Z3
+C-1
+S
+#2402
+{R}@{r}}-'-,--{B} {WH}Outside the {wh}{BO}G{R}a{r}{BO}r{R}d{r}{BO}e{R}n{r}{BO}s {WH}of Paladine's temple. {wh}--,-'-{{RE}@{re}~
+   {BO}
+  A spectacle of beauty is revealed before your eyes.  A few steps
+  to the north, the gardens of Paladine's temple stuns you with
+  its inner peace and beauty. The road has been made into gravel, 
+  unlike the muddy roads of the forest.  East of here, the woods is 
+  turning into darkness.
+{bo}
+~
+24 0 3
+D0
+The gardens of Paladine's temple.
+~
+~
+0 -1 2405
+D1
+Road out from the gardens.
+~
+~
+0 -1 2403
+Z3
+C-1
+S
+#2403
+{y}{Y}Road{y}{BOLD} to Paladine's Temple{b}~
+{BO}
+   You are surrounded by a light forest with chirping birds
+   and squirrels playing hide and seek among the trees.
+   The air is warm and fills you with peace as you think of
+   the Paladine's holy temple.  To the west the woods open 
+   up and more light seems to be peeking through.
+{b}
+~
+24 4 3
+D2
+Back to the forest.
+~
+~
+0 -1 2401
+D3
+On the road to Paladine's gardens.
+~
+~
+0 -1 2402
+Z3
+C-1
+S
+#2404
+{R}@{r}}-'-,--{B} {WH}The {wh}{BO}G{R}a{r}{BO}r{R}d{r}{BO}e{R}n{r}{BO}s {WH}of Paladine's temple. {wh}--,-'-{{RE}@{re}~
+{BO,RE}
+       _
+    _.;_'-._  {re}{BO}You are filled with tranquility and warmth as the peaceful{RE}
+   {`--.-'_,}  {re}{BO}garden of the temple overwhelms you. Some servants of Paladine{RE} 
+  {; \,__.-'/}  {re}{BO}walk gently around, some discussing theological questions,{RE} 
+  {.'-`._,-',    {re}{BO}others serving and consoling people who have been healed by{RE} 
+   `'--._.-'      {re}{BO}the mighty powers of Paladine. In the center of this graceful  
+      .-\\,-'-.    garden, a fountain has been placed in memory of the goodness  
+      `- \( '-. \   of Paladine, while going further on to the north is seemingly 
+          \,---,/    perfect structure takes your breath away. The garden continues    
+       .-''-,\        to the north and to the east.
+     /  .-' )\         
+     \,---'` \\
+              \|
+{bo}
+~
+24 0 1
+D0
+More gardens, more flowerbeds.
+~
+~
+0 -1 2408
+D1
+~
+~
+0 -1 2405
+Z3
+C-1
+S
+#2405
+{R}@{r}}-'-,--{B} {WH}The {wh}{BO}G{R}a{r}{BO}r{R}d{r}{BO}e{R}n{r}{BO}s {WH}of Paladine's temple. {wh}--,-'-{{RE}@{re}~
+{BO,RE}
+       _
+    _.;_'-._  {b}{BO}You are filled with tranquility and warmth as the peaceful{RE}
+   {`--.-'_,}  {b}{BO}garden of the temple overwhelms you. Some servants of Paladine {RE}
+  {; \,__.-'/}  {b}{BO}walk gently around, some discussing theological questions, {RE}
+  {.'-`._,-',    {b}{BO}others serving and consoling people who have been healed by{RE} 
+   `'--._.-'      {b}{BO}the mighty powers of Paladine. In the center of this graceful  
+      .-\\,-'-.    garden, a fountain has been placed in memory of the goodness  
+      `- \( '-. \   of Paladine, while going further on to the north is seemingly 
+          \,---,/    perfect structure takes your breath away. 
+       .-''-,\         
+     /  .-' )\
+     \,---'` \\
+              \|
+{bo}
+~
+24 0 1
+D0
+Gardens at the fountain.
+~
+~
+0 -1 2409
+D1
+Corner at the south of the gardens.
+~
+~
+0 -1 2406
+D2
+Outside the gardens of Paladine's temple.
+~
+~
+0 -1 2402
+D3
+~
+~
+0 -1 2404
+Z3
+C-1
+S
+#2406
+{R}@{r}}-'-,--{B} {WH}The {wh}{BO}G{R}a{r}{BO}r{R}d{r}{BO}e{R}n{r}{BO}s {WH}of Paladine's temple. {wh}--,-'-{{RE}@{re}~
+{BO,RE}
+       _
+    _.;_'-._  {b}{BO}You are filled with tranquility and warmth as the peaceful{RE}
+   {`--.-'_,}  {b}{BO}garden of the temple overwhelms you. Some servants of Paladine {RE}
+  {; \,__.-'/}  {b}{BO}walk gently around, some discussing theological questions, {RE}
+  {.'-`._,-',    {b}{BO}others serving and consoling people who have been healed by{RE} 
+   `'--._.-'      {b}{BO}the mighty powers of Paladine. In the center of this graceful  
+      .-\\,-'-.    garden, a fountain has been placed in memory of the goodness  
+      `- \( '-. \   of Paladine, while going further on to the north is seemingly 
+          \,---,/    perfect structure takes your breath away. It looks like the 
+       .-''-,\        path diverges to the north and west. 
+     /  .-' )\
+     \,---'` \\
+              \|
+
+~
+24 0 1
+D0
+More gardens, more flowerbeds.
+~
+~
+0 -1 2410
+D3
+To the entrance of the gardens.
+~
+~
+0 -1 2405
+Z3
+C-1
+S
+#2407
+{R}@{r}}-'-,--{B} {WH}The {wh}{BO}G{R}a{r}{BO}r{R}d{r}{BO}e{R}n{r}{BO}s {WH}of Paladine's temple. {wh}--,-'-{{RE}@{re}~
+{BO,RE}
+       _
+    _.;_'-._  {re}{BO}You are filled with tranquility and warmth as the peaceful{RE}
+   {`--.-'_,}  {re}{BO}garden of the temple overwhelms you. Some servants of Paladine{RE} 
+  {; \,__.-'/}  {re}{BO}walk gently around, some discussing theological questions,{RE} 
+  {.'-`._,-',    {re}{BO}others serving and consoling people who have been healed by{RE} 
+   `'--._.-'      {re}{BO}the mighty powers of Paladine. In the center of this graceful  
+      .-\\,-'-.    garden, a fountain has been placed in memory of the goodness  
+      `- \( '-. \   of Paladine, while going further on to the north is seemingly 
+          \,---,/    perfect structure takes your breath away. You are at the  
+       .-''-,\        corner of the garden and the paths continue on to the north and
+     /  .-' )\         east.
+     \,---'` \\
+              \|
+{bo}
+~
+24 0 1
+D0
+Along the edge of the gardens.
+~
+~
+0 -1 2412
+D1
+Closer at the fountain.
+~
+~
+1 -1 2408
+Z3
+C-1
+S
+#2408
+{R}@{r}}-'-,--{B} {WH}The {wh}{BO}G{R}a{r}{BO}r{R}d{r}{BO}e{R}n{r}{BO}s {WH}of Paladine's temple. {wh}--,-'-{{RE}@{re}~
+{BO,RE}
+       _
+    _.;_'-._  {re}{BO}You are filled with tranquility and warmth as the peaceful{RE}
+   {`--.-'_,}  {re}{BO}garden of the temple overwhelms you. Some servants of Paladine{RE} 
+  {; \,__.-'/}  {re}{BO}walk gently around, some discussing theological questions,{RE} 
+  {.'-`._,-',    {re}{BO}others serving and consoling people who have been healed by{RE} 
+   `'--._.-'      {re}{BO}the mighty powers of Paladine. In the center of this graceful  
+      .-\\,-'-.    garden, a fountain has been placed in memory of the goodness  
+      `- \( '-. \   of Paladine, while going further on to the north is seemingly 
+          \,---,/    perfect structure takes your breath away. It looks like the 
+       .-''-,\        path continues in all directions. 
+     /  .-' )\
+     \,---'` \\
+              \|
+{bo}
+~
+24 0 1
+D0
+In the direction of the temple.
+~
+~
+0 -1 2413
+D1
+At the south side of the fountain.
+~
+~
+0 -1 2409
+D2
+A corner at the southern end of the gardens.
+~
+~
+0 -1 2404
+D3
+A corner in the gardens.
+~
+~
+0 -1 2407
+Z3
+C-1
+S
+#2409
+{R}@{r}}-'-,--{B} {WH}The {wh}{BO}G{R}a{r}{BO}r{R}d{r}{BO}e{R}n{r}{BO}s {WH}of Paladine's temple. {wh}--,-'-{{RE}@{re}~
+{BO,RE}
+       _
+    _.;_'-._  {re}{BO}You are filled with tranquility and warmth as the peaceful{RE}
+   {`--.-'_,}  {re}{BO}garden of the temple overwhelms you. Some servants of Paladine{RE} 
+  {; \,__.-'/}  {re}{BO}walk gently around, some discussing theological questions,{RE} 
+  {.'-`._,-',    {re}{BO}others serving and consoling people who have been healed by{RE} 
+   `'--._.-'      {re}{BO}the mighty powers of Paladine. In the center of this graceful  
+      .-\\,-'-.    garden, a fountain has been placed in memory of the goodness  
+      `- \( '-. \   of Paladine, while going further on to the north is seemingly 
+          \,---,/    perfect structure takes your breath away. You can go around the 
+       .-''-,\        fountain through the east or through the west.
+     /  .-' )\         
+     \,---'` \\
+              \|
+{bo}
+~
+24 0 1
+D0
+The beautiful fountain in the gardens of Paladine's temple.
+~
+~
+0 -1 -1
+D1
+Way to the temple, around the fountain.
+~
+~
+0 -1 2410
+D2
+Entrance of the gardens.
+~
+~
+0 -1 2405
+D3
+Way to the temple,around the fountain.
+~
+~
+0 -1 2408
+Z3
+C-1
+S
+#2410
+{R}@{r}}-'-,--{B} {WH}The {wh}{BO}G{R}a{r}{BO}r{R}d{r}{BO}e{R}n{r}{BO}s {WH}of Paladine's temple. {wh}--,-'-{{RE}@{re}~
+{BO,RE}
+       _
+    _.;_'-._  {re}{BO}You are filled with tranquility and warmth as the peaceful{RE}
+   {`--.-'_,}  {re}{BO}garden of the temple overwhelms you. Some servants of Paladine{RE} 
+  {; \,__.-'/}  {re}{BO}walk gently around, some discussing theological questions,{RE} 
+  {.'-`._,-',    {re}{BO}others serving and consoling people who have been healed by{RE} 
+   `'--._.-'      {re}{BO}the mighty powers of Paladine. In the center of this graceful  
+      .-\\,-'-.    garden, a fountain has been placed in memory of the goodness  
+      `- \( '-. \   of Paladine, while going further on to the north is seemingly 
+          \,---,/    perfect structure takes your breath away. It looks like the 
+       .-''-,\        path continues in all directions. 
+     /  .-' )\
+     \,---'` \\
+              \|
+{bo}
+~
+24 0 1
+D0
+Way to the temple.
+~
+~
+0 -1 2414
+D1
+A corner in the gardens.
+~
+~
+0 -1 2411
+D2
+A corner in the southern end of the gardens.
+~
+~
+0 -1 2406
+D3
+At the south side of the fountain.
+~
+~
+0 -1 2409
+Z3
+C-1
+S
+#2411
+{R}@{r}}-'-,--{B} {WH}The {wh}{BO}G{R}a{r}{BO}r{R}d{r}{BO}e{R}n{r}{BO}s {WH}of Paladine's temple. {wh}--,-'-{{RE}@{re}~
+{BO,RE}
+       _
+    _.;_'-._  {re}{BO}You are filled with tranquility and warmth as the peaceful{RE}
+   {`--.-'_,}  {re}{BO}garden of the temple overwhelms you. Some servants of Paladine{RE} 
+  {; \,__.-'/}  {re}{BO}walk gently around, some discussing theological questions,{RE} 
+  {.'-`._,-',    {re}{BO}others serving and consoling people who have been healed by{RE} 
+   `'--._.-'      {re}{BO}the mighty powers of Paladine. In the center of this graceful  
+      .-\\,-'-.    garden, a fountain has been placed in memory of the goodness  
+      `- \( '-. \   of Paladine, while going further on to the north is seemingly 
+          \,---,/    perfect structure takes your breath away. You are in the  
+       .-''-,\        corner of the garden and the paths continue on to the north and 
+     /  .-' )\         west.
+     \,---'` \\
+              \|
+{bo}
+~
+24 0 1
+D0
+Along the edge of the gardens.
+~
+~
+0 -1 2415
+D3
+To more gardens.
+~
+~
+0 -1 2410
+Z3
+C-1
+S
+#2412
+{R}@{r}}-'-,--{B} {WH}The {wh}{BO}G{R}a{r}{BO}r{R}d{r}{BO}e{R}n{r}{BO}s {WH}of Paladine's temple. {wh}--,-'-{{RE}@{re}~
+{BO,RE}
+       _
+    _.;_'-._  {re}{BO}You are filled with tranquility and warmth as the peaceful{RE}
+   {`--.-'_,}  {re}{BO}garden of the temple overwhelms you. Some servants of Paladine{RE} 
+  {; \,__.-'/}  {re}{BO}walk gently around, some discussing theological questions,{RE} 
+  {.'-`._,-',    {re}{BO}others serving and consoling people who have been healed by{RE} 
+   `'--._.-'      {re}{BO}the mighty powers of Paladine. In the center of this graceful  
+      .-\\,-'-.    garden, a fountain has been placed in memory of the goodness  
+      `- \( '-. \   of Paladine, while going further on to the north is seemingly 
+          \,---,/    perfect structure takes your breath away. To the south is the    
+       .-''-,\        corner of the gardens. 
+     /  .-' )\         
+     \,---'` \\
+              \|
+{bo}
+~
+24 0 1
+D0
+To gardens outside the temple.
+~
+~
+0 -1 2418
+D1
+To gardens at the fountain.
+~
+~
+0 -1 2413
+D2
+A corner in the gardens.
+~
+~
+0 -1 2407
+Z3
+C-1
+S
+#2413
+{BO,WH}Outside Paladine's temple.{bo,wh}~
+{BO,WH}
+  The simple beauty of the temple makes you stand still and admire
+  this fascinating marble building. A tingling feeling fills you
+  as the brilliance of Paladine's temple makes you break out in song.
+  Of course you could go in any direction even east, thought that will
+  be very difficult to do. To the east is the sparkling fountain.
+{bo}
+~
+24 0 1
+D0
+Inside the sacred temple of Paladine.
+~
+~
+0 -1 2418
+D1
+The beautiful sparkling fountain of Paladine's temple.
+~
+~
+0 -1 -1
+D2
+More gardens.
+~
+~
+0 -1 2408
+D3
+At the edge of the gardens.
+~
+~
+0 -1 2412
+Z3
+C-1
+S
+#2414
+{BO,WH}At the fountain.{bo}~
+{BO,CYAN}
+       ('     
+      `),     
+   __. '`.__   {BO,WH}A bench invites you to sit down, though there isn't much{bo}{WH}
+  |_________|  {BO,WH}space for more than two people. The sparkling fountain{bo}{WH}
+    \_____/    {BO,WH}fills the air with freshness and if you're rude enough{bo}{WH}
+     |___|     {BO,WH}you can fill your containers with its water. Sitting{bo}{WH}
+      | |      {BO,WH}outside, the perfect ness of the temple dazzles you.{bo}{WH}
+      | |       
+     _!_!_      
+   /_______\
+{bo}
+~
+24 0 1
+D0
+Gardens at entrance to the temple.
+~
+~
+0 -1 2420
+D1
+The sparkling fountain.
+~
+~
+0 -1 -1
+D2
+The sparkling fountain.
+~
+~
+0 -1 -1
+D3
+The sparkling fountain.
+~
+~
+0 -1 -1
+E
+bench~
+A white bench that invites you to sit down together with a good friend.
+~
+Z3
+C-1
+S
+#2415
+{BO,WH}Outside Paladine's temple.{bo}~
+{BO,WH}
+  ___ 
+ (   )  The simple beauty of the temple makes you stand still and admire
+  |||   this fascinating marble building. A tingling feeling fills you 
+  |||   as the brilliance of Paladine's temple makes you break out in song.
+  |||   Of course you could go in any direction even east, though it will be
+  |||   very hard to do. Right to the west is the sparkling fountain.
+ (___)
+{bo}
+~
+24 0 1
+D0
+Inside the sacred temple of Paladine.
+~
+~
+0 -1 2421
+D1
+To the edge of the gardens.
+~
+~
+0 -1 2416
+D3
+To more gardens.
+~
+~
+0 -1 2410
+D4
+The sparkling fountain of Paladine's temple.
+~
+~
+0 -1 -1
+Z3
+C-1
+S
+#2416
+{R}@{r}}-'-,--{B} {WH}The {wh}{BO}G{R}a{r}{BO}r{R}d{r}{BO}e{R}n{r}{BO}s {WH}of Paladine's temple. {wh}--,-'-{{RE}@{re}~
+{BO}
+  You are filled with peace and warmth as the nice garden of
+  the temple surround  you. Some servants of Paladine walk
+  quietly around, some discussing theological questions, others
+  helping and comforting people who have been healed by the
+  mighty powers of Paladine. A bit further to the west a
+  graceful fountain is placed, and when going on to the
+  north a seemingly perfect building takes your breath away -
+  Paladine's temple. To the south is the corner of the gardens.
+{bo}
+~
+24 0 1
+D0
+To gardens outside the temple.
+~
+~
+0 -1 2422
+D1
+Beginning of a forest (not interesting)
+~
+~
+0 -1 -1
+D2
+To a corner in the gardens.
+~
+~
+0 -1 2411
+D3
+Gardens outside the temple and at the fountain.
+~
+~
+0 -1 2415
+Z3
+C-1
+S
+#2417
+{R}@{r}}-'-,--{B} {WH}The {wh}{BO}G{R}a{r}{BO}r{R}d{r}{BO}e{R}n{r}{BO}s {WH}of Paladine's temple. {wh}--,-'-{{RE}@{re}~
+{BO,RE}
+       _
+    _.;_'-._  
+   {`--.-'_,}  
+  {; \,__.-'/}         {re}{BO}You are filled with peace and warmth as the nice gardens of{RE}
+  {.'-`._,-',         {re}{BO}the temple surround you. Some servants of Paladine walk{RE} 
+   `'--._.-'     {re}{BO}quietly around, some discussing theological questions, others
+      .-\\,-'-.         helping and comforting people who have been healed by the
+      `- \( '-. \   mighty powers of Paladine.  This corner of the gardens is just to
+          \,---,/  west of Paladine's temple. Beautiful flowerbeds are at the side of         
+       .-''-,\     the gravel walk, the roses in them make you dream of your                       
+     /  .-' )\               glorious experiences in the past.
+     \,---'` \\
+              \|
+{bo}
+~
+24 0 1
+D0
+Along the edge of the gardens.
+~
+~
+0 -1 2424
+D1
+Outside Paladine's temple.
+~
+~
+0 -1 2418
+D2
+A beginning forest, of no interest.
+~
+~
+0 -1 -1
+D3
+A beginning forest, of no interest.
+~
+~
+0 -1 -1
+Z3
+C-1
+S
+#2418
+{BO,WH}Outside Paladine's temple.{b}~
+{BO,WH}
+  The simple beauty of the temple makes you stand still and admire
+  this fascinating marble building. A tingling feeling fills you
+  as the brilliance of Paladine's temple makes you break out in song.
+  Of course you could go in any direction even east, though it will
+  be very hard to do so.
+{b}
+~
+24 0 1
+D0
+Along the walls of the temple.
+~
+~
+0 -1 2425
+D1
+Inside the stunning temple.
+~
+~
+0 -1 2419
+D2
+Along the edge of the gardens.
+~
+~
+0 -1 2412
+D3
+Along the edge of the gardens.
+~
+~
+0 -1 2417
+Z3
+C-1
+S
+#2419
+{BO,WH}Inside the temple.{bo}~
+{BO,WH}
+  Softly singing acolyts and humming priests in white cloaks make
+  the scenery complete and you feel some sort of community with
+  Paladine. Here, even your fellow adventurers seem nice as
+  the holy spirit overwins your cold soul and makes you smile.
+  West and south you see the gardens. East the entrance continues,
+  and to the north the columns are replaced by walls closing out
+  any breath of air that may disturb your thoughts.
+{bo}
+~
+24 8 0
+D0
+At the walls of the grand hall.
+~
+~
+0 -1 2426
+D1
+Inside the columns at the entrance.
+~
+~
+0 -1 2420
+D2
+At the fountain outside the temple.
+~
+~
+0 -1 2413
+D3
+Outside the temple.
+~
+~
+0 -1 2418
+Z3
+C-1
+S
+#2420
+{BO,WH}Inside the temple.{bo}~
+{BO,WH}
+ _________________________
+   |__________|
+     ||||||||    Softly singing acolytes and humming priests in white cloaks make
+     ||||||||    the scenery complete and you feel some sort of community with
+     ||||||||    Paladine. Here, even your fellow adventurers seem nice as
+     ||||||||    the holy spirit overwhelms your cold soul and makes you smile.
+     ||||||||    West and east the columns continue making the entrance a beautiful
+     ||||||||    unity. Down the steps you see a bench right next to the fountain.
+     ||||||||    The fountain is formed like an U, and a only a few persons can sit
+    _||||||||_   on the bench. Going to the north you step into the temple itself.    
+   |__________|
+{bo}
+~
+24 8 0
+D0
+In the middle of the grand hall.
+~
+~
+0 -1 2426
+D1
+At the corner of the hall.
+~
+~
+0 -1 2421
+D2
+To the fountain.
+~
+~
+0 -1 2414
+D3
+At the corner of the grand hall.
+~
+~
+0 -1 2419
+D5
+To the fountain.
+~
+~
+0 -1 2414
+Z3
+C-1
+S
+#2421
+{BO,WH}Inside the temple.{bo}~
+{BO,WH}
+  Softly singing acolyts and humming priests in white cloaks make
+  the scenery complete and you feel some sort of community with
+  Paladine. Here, even your fellow adventurers seem nice as
+  the holy spirit overwins your cold soul and makes you smile.
+  East and south you see the gardens. West the entrance continues,
+  and to the north the columns are replaced by walls closing out
+  any breath of air that may disturb your thoughts.
+{bo}
+~
+24 8 0
+D0
+At the walls of the grand hall.
+~
+~
+0 -1 2428
+D1
+At the fountain outside the temple.
+~
+~
+0 -1 2415
+D2
+Inside the columns at the entrance.
+~
+~
+0 -1 2420
+D3
+Outside the temple.
+~
+~
+0 -1 2422
+Z3
+C-1
+S
+#2422
+{BO,WH}Outside Paladine's temple.{bo}~
+{BO,WH}
+  The simple beauty of the temple makes you stand still and admire
+  this fascinating marble building. A tingling feeling fills you
+  as the brilliance of Paladine's temple makes you break out in song.
+  Of course you could go in any direction except west, though it will 
+  be very hard to do so.
+{bo}
+~
+24 0 1
+D0
+Along the walls of the temple.
+~
+~
+0 -1 2429
+D1
+A corner in the gardens.
+~
+~
+0 -1 2423
+D2
+Along the edge of the gardens.
+~
+~
+0 -1 2415
+D3
+Inside the stunning temple of Paladine.
+~
+~
+0 -1 2421
+Z3
+C-1
+S
+#2423
+{R}@{r}}-'-,--{B} {WH}The {wh}{BO}G{R}a{r}{BO}r{R}d{r}{BO}e{R}n{r}{BO}s {WH}of Paladine's temple. {wh}--,-'-{{RE}@{re}~
+{BO}
+  You are filled with peace and warmth as the nice garden of
+  the temple surrounds you. Some servants of Paladine walk
+  quietly around, some discussing theological questions, others
+  helping and comforting people who have been healed by the
+  mighty powers of Paladine. This corner of the gardens is just to the
+  east of Paladine's temple. Beautiful flowerbeds are at the side of
+  the gravel walk, the roses in them make you dream of your
+  glorious experiences in the past.
+{bo}
+~
+24 0 1
+D0
+To more gardens.
+~
+~
+0 -1 2430
+D1
+A beginning forest of no interest.
+~
+~
+0 -1 -1
+D2
+A beginning forest of no interest.
+~
+~
+0 -1 -1
+D3
+Gardens outside the temple.
+~
+~
+0 -1 2422
+Z3
+C-1
+S
+#2424
+{R}@{r}}-'-,-- {BO}G{R}a{r}{BO}r{R}d{r}{BO}e{R}n{r}{BO}s {WH}beside the temple.{wh}--,-'-{{RE}@{re}~
+{BO,RE}
+       _
+    _.;_'-._  
+   {`--.-'_,}  
+  {; \,__.-'/}         {re}{BO}You are filled with peace and warmth as the nice gardens of{RE}
+  {.'-`._,-',         {re}{BO}the temple surround you. Some servants of Paladine walk{RE} 
+   `'--._.-'     {re}{BO}quietly around, some discussing theological questions, others
+      .-\\,-'-.         helping and comforting people who have been healed by the
+      `- \( '-. \   mighty powers of Paladine. The gardens continues east, west and north.
+          \,---,/                         
+       .-''-,\                             
+     /  .-' )\
+     \,---'` \\
+              \|
+{bo}
+~
+24 0 1
+D0
+The northwest corner of the gardens.
+~
+~
+0 -1 2433
+D1
+Outside the temple.
+~
+~
+0 -1 2425
+D2
+At a corner in the temple.
+~
+~
+0 -1 2417
+Z3
+C-1
+S
+#2425
+{BO,WH}Next to the temple.{bo}~
+{BO,WH}
+  The simple beauty of the temple makes you stand still and admire
+  this fascinating marble building. A tingling feeling fills you
+  as the brilliance of Paladine's temple makes you break out in song.
+  The marble walls tower in front of you, impressing you with its
+  their mass. You can go north, west and south.
+{bo}
+~
+24 0 1
+D0
+At the northern end of the gardens.
+~
+~
+0 -1 2434
+D1
+The tall, very tall wall of the temple.
+~
+~
+0 -1 -1
+D2
+Outside the temple.
+~
+~
+0 -1 2418
+D3
+At the edge of the gardens.
+~
+~
+0 -1 2424
+Z3
+C-1
+S
+#2426
+{BO,WH}In the grand hall of Paladine's temple.{bo}~
+{BO,WH}
+ _________________________
+   |__________|
+     ||||||||   Silently singing acolytes and humming priests in white cloaks make 
+     ||||||||   the scenery complete and you feel some sort of community with
+     ||||||||   Paladine. Here, even your fellow adventurers seem nice as
+     ||||||||   the holy spirit overwhelms your cold soul and makes you smile.
+     ||||||||   The entrance is to the south and to the east you reach the
+     ||||||||   middle of the hall. If you go north you get to the corner of the hall.
+    _||||||||_       
+   |__________|
+{bo}
+~
+24 8 0
+D0
+To the northwestern corner of the hall.
+~
+~
+0 -1 2435
+D1
+In the middle of the grand hall.
+~
+~
+0 -1 2427
+D2
+To the entrance of the temple.
+~
+~
+0 -1 2419
+E
+w west wall marble~
+The solid wall of the temple looks impenetrable.
+~
+Z3
+C-1
+S
+#2427
+{BO,WH}In the grand hall of Paladine's temple.{bo}~
+{BO,WH}
+ _________________________
+   |__________|
+     ||||||||   Softly singing acolytes and humming priests in white cloaks make
+     ||||||||   the scenery complete and you feel some sort of community with
+     ||||||||   Paladine. Here, even your fellow adventurers seem nice as
+     ||||||||   the holy spirit overwhelms your cold soul and makes you smile.
+     ||||||||   The entrance is to the south, west and east the hall continues.
+     ||||||||   middle of the hall. If you go north you get to the corner of the hall.
+    _||||||||_       
+   |__________|
+{bo}
+~
+24 8 0
+D0
+To the grand alter of the grand hall of the grand temple of Paladine.
+~
+~
+0 -1 2436
+D1
+At the wall of the hall.
+~
+~
+0 -1 2428
+D2
+Middle of the columns marking the entrance to the temple.
+~
+~
+0 -1 2420
+D3
+At the wall of the hall.
+~
+~
+0 -1 2426
+Z3
+C-1
+S
+#2428
+{BO,WH}In the grand hall of Paladine's temple.{bo}~
+{BO,WH}
+ _________________________
+   |__________|
+     ||||||||   Softly singing acolytes and humming priests in white cloaks make
+     ||||||||   the scenery complete and you feel some sort of community with
+     ||||||||   Paladine. Here, even your fellow adventurers seem nice as
+     ||||||||   the holy spirit overwhelms your cold soul and makes you smile.
+     ||||||||   The entrance is to the south, west and east the hall continues.
+     ||||||||   middle of the hall. If you go north you get to the corner of the hall.
+    _||||||||_       
+   |__________|
+{bo}
+~
+24 8 0
+D0
+To the northwestern corner of the hall.
+~
+~
+0 -1 2435
+D2
+To the entrance of the temple.
+~
+~
+0 -1 2419
+D3
+In the middle of the grand hall.
+~
+~
+0 -1 2427
+E
+e east wall marble~
+The solid wall of the temple looks impenetrable.
+~
+Z3
+C-1
+S
+#2429
+{BO,WH}Next to the temple.{bo}~
+{B,WH}
+ ___  
+(   )  The simple beauty of the temple makes you stand still and admire
+ |||   this fascinating marble building. A tingling feeling fills you
+ |||   as the brilliance of Paladine's temple makes you break out in song.
+ |||   The marble walls tower in front of, impressing you with their
+ |||   mass. You can go north, east and south.
+(___) 
+{b}
+~
+24 0 1
+D0
+At the northern end of the gardens.
+~
+~
+0 -1 2434
+D1
+To more gardens.
+~
+~
+0 -1 2430
+D2
+Outside the temple.
+~
+~
+0 -1 2418
+D3
+The tall, very tall wall of the temple.
+~
+~
+0 -1 -1
+Z3
+C-1
+S
+#2430
+{R}@{r}}-'-,-- {BO}G{R}a{r}{BO}r{R}d{r}{BO}e{R}n{r}{BO}s {WH}beside the temple.{wh}--,-'-{{RE}@{re}~
+{BO}
+  You are filled with peace and warmth as the nice garden of
+  the temple surrounds you. Some servants of Paladine walk
+  quietly around, some discussing theological questions, others
+  helping and comforting people who have been healed by the
+  mighty powers of Paladine. The gardens continues in all directions.
+  To the east hedges rises beside the gravel road.
+{bo}
+~
+24 0 1
+D0
+At the northeastern corner of the gardens.
+~
+~
+0 -1 2439
+D1
+Gravel path leading out from the gardens.
+~
+~
+0 -1 2431
+D2
+A corner in the gardens.
+~
+~
+0 -1 2423
+D3
+Beside the marble walls of the temple.
+~
+~
+0 -1 2429
+Z3
+C-1
+S
+#2431
+{BO,BL}Gravel path.{b}~
+{BO,BL}
+  The flower beds have been replaced by hedges and the gravel has
+  got weeds growing in it. Not all of the servants like to come here,
+  since the garden is much nicer place. If you look to your east, it 
+  becomes a bit darker. It must be the beauty of the gardens that makes 
+  that illusion.
+{b}
+~
+24 0 1
+D1
+A bend out the gardens.
+~
+~
+0 -1 2432
+D3
+At gardens of Paladine's temple.
+~
+~
+0 -1 2430
+E
+n s west south~
+A hedge which is a few feet tall.
+~
+Z3
+C-1
+S
+#2432
+{BO,BL}Bend in the gravel path.{b}~
+{BO,BL}
+  This path is obviously not as well kept as the others around the gardens.
+  You wish that a gardener would drop by, but he may be busy in
+  other area of the gardens. At least he very seldom comes here.
+  The hedges have become taller and trees are towering above you as well.
+  When going west you reach the gardens again. To the north the path
+  disappears into the forest.
+{bo}
+~
+24 0 1
+D0
+Path leading into the forest.
+~
+~
+0 -1 2440
+D3
+Gravel path leading back the gardens.
+~
+~
+0 -1 2431
+E
+e east~
+A beginning forest.
+~
+E
+s south~
+A hedge some feet tall.
+~
+Z3
+C-1
+S
+#2433
+{B,WH}Corner of the {wh}{BO}G{R}a{r}{BO}r{R}d{r}{BO}e{R}n{r}{BO}s {wh}--,-'-{{RE}@{re}~
+{BO,RE}
+       _
+    _.;_'-._  
+   {`--.-'_,}  
+  {; \,__.-'/}         {re}{BO}You are standing in the corner of the beautiful gardens.{RE}
+  {.'-`._,-',         {re}{BO} Some holy servants of Paladine come and go and you may notice {RE} 
+   `'--._.-'     {re}{BO} a gardener if you wait long enough. The gardens continues to the south
+      .-\\,-'-.     and east. Further east the temple is standing in all its beauty. 
+      `- \( '-. \     If you look north you see the private quarters of the servants,
+          \,---,/                 priests, and priestesses.            
+       .-''-,\                             
+     /  .-' )\
+     \,---'` \\
+              \|
+{bo}
+~
+24 0 1
+D1
+Gardens beside the temple.
+~
+~
+0 -1 2434
+D2
+Along the edge of the beginning forest.
+~
+~
+0 -1 2424
+E
+n north~
+The personal quarters of the priests.
+~
+E
+w west~
+Bushes, some trees and a beginning forest further west.
+~
+Z3
+C-1
+S
+#2434
+{B,WH}Northern parts of the {wh}{BO}G{R}a{r}{BO}r{R}d{r}{BO}e{R}n{r}{BO}s {wh}--,-'-{{RE}@{re}~
+{BO,RE}
+       _
+    _.;_'-._  
+   {`--.-'_,}  
+  {; \,__.-'/}         {re}{BO}The fine gardens end here, opening them for your eyes to{RE}
+  {.'-`._,-',           {re}{BO}the south. From the flowerbeds a smell of roses reaches{RE} 
+   `'--._.-'         {re}{BO}your nose. A few steps to the east the temple rise, and you 
+      .-\\,-'-.     notice a door placed there for convenience. To the west is the 
+      `- \( '-. \  corner, to the south the gardens, busy yet peaceful, are visible. 
+          \,---,/                  East is a door to the grand hall.
+       .-''-,\                             
+     /  .-' )\
+     \,---'` \\
+              \|
+{bo}
+~
+24 0 1
+D1
+Marble walls of the temple towers above you. You see a wooden door
+in the wall.
+~
+wood wooden door~
+1 -1 2435
+D2
+Along the wall of Paladine's temple.
+~
+~
+0 -1 2425
+D3
+Northwestern corner of the gardens.
+~
+~
+0 -1 2433
+E
+n north~
+Am little further along wall you see the private quarters of the priests.
+~
+Z3
+C-1
+S
+#2435
+{BO,WH}At the corner of the grand hall.{b}~
+{BO,WH}
+ _________________________
+   |__________|
+     ||||||||   Peacefulness fills you, as you are witness to this truly beautiful
+     ||||||||   spectacle of acolytes and priests saying their prayers to Paladine.
+     ||||||||   A white light seems to fill the temple and you feel very humble.
+     ||||||||   But you are capable of noticing a door in the western wall.
+     ||||||||   South the grand hall continues, and to the east you come closer
+     ||||||||   to the altar. North of here a curtain hides the hallway to the private
+    _||||||||_  quarters of acolytes, priests and priestesses. 
+   |__________|
+{bo}
+~
+24 8 0
+D0
+A hallway to the private rooms of the priests behind some curtains.
+~
+door curtain~
+1 -1 2445
+D1
+The altar in honor of Paladine.
+~
+~
+0 -1 2436
+D3
+You see a small wooden door in the marble wall.
+~
+wood wooden door~
+1 -1 2434
+Z3
+C-1
+S
+#2436
+{BO,WH}In front of Paladine's altar.{bo}~
+{BO,WH}
+  Your attention is immediately drawn to the inner sanctum of Paladine's
+    Temple. As everything else in the temple the altar is stun-
+    ningly beautiful. {YE}But somehow nothing else c{WH}an be as complete 
+    as this holy relic{YE}. After some time you beco{WH}me aware of your 
+    surroundings and the grand hall is south, east and west of you. 
+  If you're couragous enough you dare to go past the altar by going north.
+{bo}
+~
+24 8 0
+D0
+You can squueze around the altar to get into the back.
+~
+~
+0 -1 2446
+D2
+To the middle of the temple hall.
+~
+~
+0 -1 2427
+E
+altar relic~
+This gold-rimmed altar which was built in honor of Paladine
+towers above you. The depictions illustrate glorious events of
+Midgaard.
+~
+Z3
+C-1
+S
+#2437
+{BO,WH}At the corner of the grand hall.{bo}~
+{BO,WH}
+  Peacefulness fills you as you are witness to this truly beautiful
+  spectacle of acolyts and priests saying their prayers to Paladine.  
+  A white light seems to fill the temple and you feel very humble.
+  But you are capable of noticing a door in the eastern wall.
+  To the north a curtain hides the private quarters of the high priest.
+  South the grand hall continues, and to the west you come closer
+  to the altar.{bo}
+
+~
+24 8 0
+D0
+A hallway to the private rooms of the priests is behind some curtains.
+~
+door curtain~
+1 -1 2447
+D1
+You see a small wooden door in the marble wall.
+~
+wood wooden door~
+1 -1 2438
+D3
+The altar in honor of Paladine.
+~
+~
+0 -1 2436
+Z3
+C-1
+S
+#2438
+{B,WH}Northern parts of the {wh}{BO}G{R}a{r}{BO}r{R}d{r}{BO}e{R}n{r}{BO}s {wh}--,-'-{{RE}@{re}~
+{BO}
+  The fine gardens end here, opening them for your eyes to the south.
+  From the flower beds a smell of roses reaches your nose.
+  A few steps to the east the temple rises, and you notice a door
+  placed there for convience. To the west is the corner, to the south
+  the gardens, busy yet peaceful, are visible. East is a door to the
+  grand hall.
+{bo}
+~
+24 0 1
+D1
+Northeastern corner of the gardens.
+~
+~
+0 -1 2439
+D2
+Along the wall of Paladine's temple.
+~
+~
+0 -1 2430
+D3
+The marble walls of the temple tower above you. You see a wooden door
+in the wall.
+~
+wood wooden door~
+1 -1 2437
+E
+n north~
+A  little further along wall you see the private quarters
+of the high priest.
+~
+Z3
+C-1
+S
+#2439
+{B,WH}Corner of the {wh}{BO}G{R}a{r}{BO}r{R}d{r}{BO}e{R}n{r}{BO}s {wh}--,-'-{{RE}@{re}~
+{BO}
+  You are standing in the corner of the beautiful gardens.
+  Some holy servants of Paladine come and go and you might notice 
+  a gardener if you wait long enough. The gardens continues to the south
+  and east. Further west the temple is standing in all its beauty.
+  A deep forest takes its beginning east of here.
+{bo}
+~
+24 0 1
+D2
+To more gardens.
+~
+~
+0 -1 2430
+D3
+Gardens beside the temple.
+~
+~
+0 -1 2438
+E
+n north~
+The personal quarters of the high priest.
+~
+E
+e east~
+Bushes, some trees and a beginning forest further west.
+~
+Z3
+C-1
+S
+#2440
+{BO}Edge of the wood.{bo}~
+{BO}
+  A path is forming here leading into the deep dark forest.
+  It isn't attractive at all to go into the woods as the memory
+  of Paladine's temple comes back to you. Some poor fellows have come 
+  out of the forest. They obviously want to go to the temple as you still
+  sense the presence of Paladine's spirit in the air. Only exit is to 
+  the south, leading back towards the temple.
+{bo}
+~
+24 0 1
+D2
+On the gravel path back to the gardens.
+~
+~
+0 -1 2432
+E
+n north e east~
+The too dark forest compared to the gardens.
+~
+E
+w west~
+You spot the beautiful marble temple through the trees in that direction.
+~
+Z3
+C-1
+S
+#2441
+{BO,WH}One of the holy priests cell.{bo}~
+{BO,WH}
+  You have stepped into one of the cells in the private quarters of the
+  priests. The humble furnishings bear witness of a poor life, totally devoted
+  to Paladine and to serve the good things in this realm. A bed with only  
+  a few blankets on it is standing in the corner. A table with a few books
+  is placed against the window. There is only a small piece of carpet on the 
+  floor to keep the priests from catching colds. You had no problems entering 
+  the cell as the priests have nothing to hide as the saintly people they are. 
+  Only exit out is to the north.
+{bo}
+~
+24 8 0
+D0
+Out in hallway that connects the cells with eachother.
+~
+~
+0 -1 2450
+E
+writing~
+In memory of past times. Times of fun and memories of care.
+Times which started out in just weeks before New Year.
+Times which climaxed the following month.
+~
+E
+s south~
+You can barely make out some writing on the marble.
+~
+E
+w west e east~
+A chilled wall cools the air in the room.
+~
+Z3
+C-1
+S
+#2442
+{BO,WH}One of the holy priests cell.{bo}~
+{BO,WH}
+  You have stepped into one of the cells in the private quarters of the
+  priests. The humble furnishings bear witness of a poor life, totally devoted
+  to Paladine and to serve the good things in this realm. A bed with only  
+  a few blankets on it is standing in the corner. A table with a few books
+  is placed against the window. There is only a small piece of carpet on the 
+  floor to keep the priests from catching colds. You had no problems entering 
+  the cell as the priests have nothing to hide as the saintly people they are. 
+  Only exit out is to the north.
+{bo}
+~
+24 8 0
+D0
+Out in the hallway that connects the cells with eachother.
+~
+~
+0 -1 2451
+E
+writing~
+Written with a wish of meeting eachother one day.
+Written with a wish of seeing eachother everyday.
+Written by the one who was the first in this city
+to know what the game dare was.    *nudge nudge*
+~
+E
+s south~
+You can barely make out some writing on the marble.
+~
+E
+w west e east~
+A chilled wall cools the air in the room.
+~
+Z3
+C-1
+S
+#2443
+{BO,WH}One of the holy priests cell.{bo}~
+{BO,WH}
+  You have stepped into one of the cells in the private quarters of the
+  priests. The humble furnishings bear witness of a poor life, totally devoted
+  to Paladine and to serve the good things in this realm. A bed with only  
+  a few blankets on it is standing in the corner. A table with a few books
+  is placed against the window. There is only a small piece of carpet on the 
+  floor to keep the priests from catching colds. You had no problems entering 
+  the cell as the priests have nothing to hide as the saintly people they are. 
+  Only exit out is to the north.
+{bo}
+~
+24 8 0
+D0
+Out in the hallway that connects the cells with eachother.
+~
+~
+0 -1 2452
+E
+writing~
+Thanks for the nice hilarious talks. With envious thoughts of
+Rick I hope you will get a job not too many hundreds of miles away.
+~
+E
+s south~
+You can barely make out some writing on the marble.
+~
+E
+w west e east~
+A chilled wall cools the air in the room.
+~
+Z3
+C-1
+S
+#2444
+{BO,WH}One of the holy priests cell.{bo}~
+{BO,WH}
+  You have stepped into one of the cells in the private quarters of the
+  priests. The humble furnishings bear witness of a poor life, totally devoted
+  to Paladine and to serve the good things in this realm. A bed with only  
+  a few blankets on it is standing in the corner. A table with a few books
+  is placed against the window. There is only a small piece of carpet on the 
+  floor to keep the priests from catching colds. You had no problems entering 
+  the cell as the priests have nothing to hide as the saintly people they are. 
+  Only exit out is to the north.
+{bo}
+~
+24 8 0
+D0
+Out in the hallway that connects the cells with eachother.
+~
+~
+0 -1 2453
+E
+writing~
+The nice thoughts are mutual can I assure you of.
+I doubt we will meet, but if you actually get the possibility
+to kick my legs at a certain occasion it would be thrilling.
+~
+E
+s south~
+You can barely make out some writing on the marble.
+~
+E
+w west e east~
+A chilled wall cools the air in the room.
+~
+Z3
+C-1
+S
+#2445
+{BO,WH}In a hallway to the private quarters.{bo}~
+{BO,WH}
+  A naked hallway leads into the living cells of the priests.
+  The marble walls and cold floor impress you by their purity.
+  Some potted plants are placed by the wall to break the coolness of
+  the hallway. Windows let in fresh air and bright sunlight.
+  South of here is the grand hall of the temple hidden by some
+  curtains. To the north there is a bend in in the hallway leading out to
+  the quarters of the priests.
+{bo}
+~
+24 8 0
+D0
+To a bend in the hallway to private quarters.
+~
+~
+0 -1 2454
+D2
+Behind a curtain to the grand hall.
+~
+~
+0 -1 2435
+Z3
+C-1
+S
+#2446
+{BO,WH}Behind the altar.{bo}~
+{BO,WH}
+  Facing the back side of the huge altar, the size surprises you.
+  There is a table and a much welcomed chair for busy priests.
+  Some relics have been placed on the table. The grand hall has 
+  narrowed in to a rather small hall with room for only a few 
+  persons. There are two openings in each side of the hall letting 
+  in light. You hardly dare to go back out in the hall as your
+  clanking in the silent hall inevitable will draw attention to you.
+  North you see the end of the small hall.
+{bo}
+~
+24 8 0
+D0
+Back end of the hall.
+~
+~
+0 -1 2455
+D3
+In front of the altar.
+~
+door curtain curtains~
+1 -1 2436
+E
+relic relics~
+Looks very interesting.
+~
+E
+table~
+It looks very old.
+~
+Z3
+C-1
+S
+#2447
+{BO,WH}In a hallway to the private quarters.{bo}~
+{BO,WH}
+  A naked hallway leads into the living cells of the high priest.
+  The marble walls and cold floor impress you by their purity.
+  Some potted plants are placed by the wall to break the coolness of
+  the hallway. Windows let in fresh air and bright sunlight.
+  You are suddenly struck by a sudden fear as you walk here.
+  To the north there is a bend in in the hallway leading out to
+  the quarters of the high priest. South of here the grand hall
+  of the temple is hidden by some curtains.
+{bo}
+~
+24 8 0
+D0
+To a bend in the hall way.
+~
+~
+0 -1 2456
+D3
+Behind the curtians you see the grand hall.
+~
+door curtain curtains~
+1 -1 2437
+Z3
+C-1
+S
+#2448
+{BO,WH}Office of the high priest of Paladine.{bo}~
+{BO,WH}
+  Obviously, the temple gets rich gifts and some of them are used here
+  in the office. A splendid gold-rimmed table with a chair stands here
+  at the window. Some plants are in the corners and the walls are covered
+  by bookcases. Some of are them contain ancient books. Others contain new
+  books, which possibly be the acount books. If you go back through the curtain
+  you get back out to the hallway.
+{bo}
+~
+24 8 0
+D0
+You can go out to the hallway that direction.
+~
+door curtain curtains~
+1 -1 2458
+Z3
+C-1
+S
+#2449
+{BO,WH}The praying room of the priests.{bo}~
+{BO,WH}
+  This room is used for the daily prayers of the priestesses and priests.
+  No furniture is here except for two plants in the front corners of the room.
+  An icon is placed on the western wall and some windows in the walls light
+  the room. You can go back east to leave this praying room.
+{bo}
+~
+24 8 0
+D1
+Out to the hallway.
+~
+~
+0 -1 2450
+Z3
+C-1
+S
+#2450
+{BO,WH}Hallway of the private quarters.{bo}~
+  {BO,WH}
+  Cool freshness fills the room and silent steps of busy servants are
+  heard here. Right to the west the praying room of Paladine's priests
+  is placed. South and north there are cells belonging to the priests.
+  As they have nothing to conceil no doors are found, nor curtains.
+  But your courtesy advices you not to enter the cells.
+{bo}
+~
+24 8 0
+D0
+To one of the cells.
+~
+~
+0 -1 2460
+D1
+On down the hallway.
+~
+~
+0 -1 2451
+D2
+To one of the cells.
+~
+~
+0 -1 2441
+D3
+The private praying room of the priests and priestesses.
+~
+~
+0 -1 2449
+Z3
+C-1
+S
+#2451
+{BO,WH}Hallway of the private quarters.{bo}~
+{BO,WH}
+  This room is refreshingly cool, and silent steps of busy servants are
+  heard here. To the west and east the hallway continues. South and
+  north there are cells belonging to the priests. As they have nothing
+  to conceal no doors are found, nor curtains. But your courtesy
+  advices you not to enter the cells.
+{bo}
+~
+24 8 0
+D0
+To one of the cells.
+~
+~
+0 -1 2461
+D1
+On down the hallway.
+~
+~
+0 -1 2452
+D2
+To one of the cells.
+~
+~
+0 -1 2442
+Z3
+C-1
+S
+#2452
+{BO,WH}Hallway of the private quarters.{bo}~
+{BO,WH}
+  This room is refreshingly cool, and silent steps of busy servants are
+  heard here. To the west and east the hallway continues. South and
+  north there are cells belonging to the priests. As they have nothing
+  to conceal no doors are found, nor curtains. But your courtesy
+  advices you not to enter the cells.
+{bo}
+~
+24 8 0
+D0
+To one of the cells.
+~
+~
+0 -1 2462
+D1
+On down the hallway.
+~
+~
+0 -1 2453
+D2
+To one of the cells.
+~
+~
+0 -1 2443
+D3
+On down the hallway.
+~
+~
+0 -1 2452
+Z3
+C-1
+S
+#2453
+{BO,WH}Hallway of the private quarters.{bo}~
+{BO,WH}
+  This room is refreshingly cool, and silent steps of busy servants are
+  heard here. To the west and east the hallway continues. South and
+  north there are cells belonging to the priests. As they have nothing
+  to conceal no doors are found, nor curtains. But your courtesy
+  advices you not to enter the cells.
+{bo}
+~
+24 8 0
+D0
+To one of the cells.
+~
+~
+0 -1 2463
+D1
+On down the hallway to a bend.
+~
+~
+0 -1 2454
+D2
+To one of the cells.
+~
+~
+0 -1 2444
+D3
+On down the hallway.
+~
+~
+0 -1 2454
+Z3
+C-1
+S
+#2454
+{BO,WH}A bend in the hallway{bo}~
+{BO,WH}
+  This room is refreshingly cool, and silent steps of busy servants are
+  heard here. To the west the hallway continues. South is the way back
+  to the grand hall. The hallway is naked except for a few potted plants
+  and windows in the wall. The white marble is not hard on your eyes here
+  as in the grand hall. In fact compared with the hall it's slightly
+  dark here.
+{bo}
+~
+24 8 0
+D2
+Hallway out to the grand hall.
+~
+~
+0 -1 2445
+D3
+To the hall that connects the private quarters.
+~
+~
+0 -1 2453
+Z3
+C-1
+S
+#2455
+{BO,WH}At the end of the hall.{bo}~
+{BO,WH}
+  This is the end of the small hall behind the altar. A little bit
+  to the south the the large alter is placed. Some tables are
+  here with prayer books, candles, wine and altar bread.
+  Left of the right table you notice some small unevenness on the
+  marble in the northern wall.
+{bo,wh}
+~
+24 12 0
+D0
+A secret that can be opened with a little bit of luck.
+~
+door secret wall marble~
+1 -1 2464
+D2
+Behind the grand alter.
+~
+~
+0 -1 2446
+E
+book books~
+You dare to open one and spot some names of great mages.
+This book is extremely rare because mages are mentioned in it.
+Magus, Khayman, Black, the rising magic-user - Halfling,
+Baggins and the white-cloaked mage - Raven - are some of the names.
+~
+Z3
+C-1
+S
+#2456
+{BO,WH}A bend in the hallway.{bo}~
+{BO,WH}
+  This room is refreshingly cool, and silent steps of busy servants are
+  heard here. To the east the hallway continues. South is the way back
+  to the grand hall. The hallway is naked exceptfor a few potted plants
+  and windows in the wall. The white marble is not hard on your eyes here
+  as in the grand hall. In fact compared with the hall it's slightly
+  dark here.
+{bo}
+~
+24 8 0
+D1
+To the private rooms of the high priest.
+~
+~
+0 -1 2457
+D2
+Back to the grand hall.
+~
+~
+0 -1 2447
+Z3
+C-1
+S
+#2457
+{BO,WH}On the way to the private quarters of the high priest.{bo}~
+{BO,WH}
+  You feel very humble as you get closer and closer to the private
+  rooms of the high priest. If you are evil then beware, if you are good
+  he may help you. You hardly notice the graceful plants by the walls.
+  The light coming through the windows blinds you and the feeling of getting
+  closer to the highest authority of the believers of Paladine fills
+  you with awe. To the east the feeling gets stronger and west it
+  gets less pushy.
+{bo}
+~
+24 8 0
+D1
+Outside the high priests rooms.
+~
+~
+0 -1 2458
+D3
+To a bend in the hallway.
+~
+~
+0 -1 2456
+Z3
+C-1
+S
+#2458
+{BO,WH}Outside the private quarters of the high priest.{bo}~
+{BO,WH}
+  The hallway splits up in four directions as you stand outside
+  the rooms which the highest priest of the Paladine uses.
+  To the south a curtain covers the view into the office
+  used to administrate the vast power of priesthood. East is the
+  prayer room, if possible, even more sacred than the altar in the 
+  grand hall. North of here is the sleeping quarters of Paladine's 
+  high priest.
+{bo}
+~
+24 8 0
+D0
+Sleeping room of the high priest.
+~
+curtain door~
+1 -1 2465
+D1
+There you see the prayer room of the spiritual leader on the
+surface of Midgaard.
+~
+~
+0 -1 2459
+D2
+Office of the Paladine's high priest.
+~
+curtain door~
+1 -1 2448
+D3
+Back in the hallway.
+~
+~
+0 -1 2457
+Z3
+C-1
+S
+#2459
+{BO,WH}The praying room of highest priest.{bo}~
+{BO,WH}
+  The walls are closer to you here, and the roof is not as high up
+  as in the rooms nearer to the altar. The room is almost empty
+  except for an icon on the wall a table. On the table,
+  two books is have been set. One seems to be a prayer
+  book, and the other, a thick one, you seem to shy away from.
+  Only way out is to the west.
+{bo}
+~
+24 8 0
+D3
+Out to the hallway.
+~
+~
+0 -1 2458
+E
+book thick~
+Uh-oh .....    Beautiful words and horrifying prayers are revealed
+for your eyes. This shatters you to your soul and makes you close the book.~
+Z3
+C-1
+S
+#2460
+{BO,WH}One of the holy priests cell.{bo}~
+{BO,WH}
+  You have stepped into one of the cells in the private quarters of the
+  priests. The humble furnishings bear witness of a poor life, totally devoted
+  to Paladine and to serve the good things in this realm. A bed with only  
+  a few blankets on it is standing in the corner. A table with a few books
+  is placed against the window. There is only a small piece of carpet on the 
+  floor to keep the priests from catching colds. You had no problems entering 
+  the cell as the priests have nothing to hide as the saintly people they are. 
+  Only exit out is to the south.
+{bo}
+~
+24 8 0
+D2
+Out in the hallway.
+~
+~
+0 -1 2450
+E
+writing~
+Best wishes to the one whom I told more than I should about a certain
+female. And by whom I got slapped for whining about some NICE things.  :)
+~
+E
+n north~
+You can barely make out some writing on the marble.
+~
+E
+w west e east~
+A chilled wall cools the air in the room.
+~
+Z3
+C-1
+S
+#2461
+{BO,WH}One of the holy priests cell.{bo}~
+{BO,WH}
+  You have stepped into one of the cells in the private quarters of the
+  priests. The humble furnishings bear witness of a poor life, totally devoted
+  to Paladine and to serve the good things in this realm. A bed with only  
+  a few blankets on it is standing in the corner. A table with a few books
+  is placed against the window. There is only a small piece of carpet on the 
+  floor to keep the priests from catching colds. You had no problems entering 
+  the cell as the priests have nothing to hide as the saintly people they are. 
+  Only exit out is to the south.
+{bo}
+~
+24 8 0
+D2
+Out in the hallway.
+~
+~
+0 -1 2451
+E
+writing~
+Big thanks to Ulster for introducing me to grimne.
+This truely sick man made it possible for me to make some
+very nice friends from that mud.
+~
+E
+n north~
+You can barely make out some writing on the marble.
+~
+E
+w west e east~
+A chilled wall cools the air in the room.
+~
+Z3
+C-1
+S
+#2462
+{BO,WH}One of the holy priests cell.{bo}~
+{BO,WH}
+  This room is refreshingly cool, and silent steps of busy servants are
+  heard here. To the west and east the hallway continues. South and
+  north there are cells belonging to the priests. As they have nothing
+  to conceal no doors are found, nor curtains. But your courtesy
+  advices you not to enter the cells.
+{bo}
+~
+24 8 0
+D2
+Out in the hallway.
+~
+~
+0 -1 2452
+E
+writing~
+Thanks to Pjotr for giving me the privileges of snowball   :-)
+~
+E
+n north~
+You can barely make out some writing on the marble.
+~
+E
+w west e east~
+A chilled wall cools the air in the room.
+~
+Z3
+C-1
+S
+#2463
+{BO,WH}One of the holy priests cell.{bo}~
+{BO,WH}
+  You have stepped into one of the cells in the private quarters of the
+  priests. The humble furnishings bear witness of a poor life, totally devoted
+  to Paladine and to serve the good things in this realm. A bed with only  
+  a few blankets on it is standing in the corner. A table with a few books
+  is placed against the window. There is only a small piece of carpet on the 
+  floor to keep the priests from catching colds. You had no problems entering 
+  the cell as the priests have nothing to hide as the saintly people they are. 
+  Only exit out is to the south.
+{bo}
+~
+24 8 0
+D2
+Out in the hallway.
+~
+~
+0 -1 2453
+E
+writing~
+Hugs to Ophelia.
+~
+E
+n north~
+You can barely make out some writing on the marble.
+~
+E
+w west e east~
+A chilled wall cools the air in the room.
+~
+Z3
+C-1
+S
+#2464
+{BO,WH}Secret room of Paladine's temple.{wh}~
+{BO,WH}
+  This room is lit by only a few torches and is quite dark. The most 
+  valuable things of the temple are kept here. Some books with healing 
+  spells are on a shelf. In a glass cabinet you see glasses and jars. 
+  At closer examination the cabinet is locked. A table with maps and 
+  letters is here too. Only exit out is through the secret leading 
+  out to the room behind the altar.
+{bo}
+~
+24 8 0
+D2
+Behind the wall you get out the small hallway.
+~
+secret door wall marble~
+1 -1 2455
+E
+letters~
+Letter from correspondences with great mages. Obviously there are
+discussions going on with the mages scattered around Midgaard.
+~
+E
+map maps~
+You discover maps of all over Midgaard. They are so exceptional
+that dare not to take them.
+~
+Z3
+C-1
+S
+#2465
+{BO,WH}Private room of Paladine's high priest.{bo}~
+{BO,WH}
+  There is a gold trimmed chair here, along with a nice comfortable bed
+  with some rough silk sheets on it. A wooden chair together with a small
+  table is placed in the corner. The table has got some old books on it.
+  You feel guilty by going into this very private room of not
+  just any  priest but a very high one. Only exit out is to the south.
+{bo}
+~
+24 8 0
+D2
+Out to the hallway.
+~
+curtain curtains door~
+1 -1 2458
+Z3
+C-1
+S
+$~

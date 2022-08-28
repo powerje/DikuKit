@@ -1,0 +1,720 @@
+#25400
+Phineas's Smelly Sewer~
+
+
+
+{YEL} Phineas's{yellow} li'l hole
+
+~
+254 4202496 1
+E
+t~
+testing
+~
+Z3
+C-1
+S
+#25401
+{bo,G}Dead End{bo}~
+   
+   The tunnel ends here.  The pipes continue on into the earth, but this
+is as far as you can go.  High above your head there appears to be an 
+air shaft, but the walls of the tunnel are far too slippery to climb.
+You must turn back.
+   
+~
+254 0 1
+D2
+~
+~
+0 -1 25403
+Z3
+C-1
+S
+#25402
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+254 0 1
+D4
+~
+~
+0 -1 15902
+Z3
+C-1
+S
+#25403
+Stinky Sewer~
+NW corner of 3x3 newbie square.
+~
+254 0 1
+D1
+~
+~
+0 -1 25404
+D2
+~
+~
+0 -1 25407
+D3
+~
+~
+0 -1 25403
+E
+Newbie room~
+Newbie room 25403.
+~
+Z3
+C-1
+S
+#25404
+Stinky Sewer~
+N center of 3x3 square.
+~
+254 0 1
+D1
+~
+~
+0 -1 25405
+D2
+~
+~
+0 -1 25408
+D3
+~
+~
+0 -1 25403
+Z3
+C-1
+S
+#25405
+Stinky Sewer~
+NE corner of 3x3 square.
+~
+254 0 1
+D1
+~
+~
+0 -1 25406
+D2
+~
+~
+0 -1 25409
+D3
+~
+~
+0 -1 25404
+Z3
+C-1
+S
+#25406
+Stinky Sewer~
+NE corner exit from 3x3 square
+~
+254 0 1
+D3
+~
+~
+0 -1 25405
+Z3
+C-1
+S
+#25407
+Stinky Sewer~
+W center of 3x3 square
+~
+254 0 1
+D0
+~
+~
+0 -1 25403
+D1
+~
+~
+0 -1 25408
+D2
+~
+~
+0 -1 25410
+Z3
+C-1
+S
+#25408
+Stinky Sewer~
+Center of 3x3 square.  lead up to town
+~
+254 0 1
+D0
+~
+~
+0 -1 25404
+D1
+~
+~
+0 -1 25409
+D2
+~
+~
+0 -1 25411
+D3
+~
+~
+0 -1 25407
+Z3
+C-1
+S
+#25409
+Stinky Sewer~
+E center of 3x3 square
+~
+254 0 1
+D0
+~
+~
+0 -1 25405
+D2
+~
+~
+0 -1 25412
+D3
+~
+~
+0 -1 25408
+Z3
+C-1
+S
+#25410
+Stinky Sewer~
+SW corner of 3x3 square
+~
+254 0 1
+D0
+~
+~
+0 -1 25407
+D1
+~
+~
+0 -1 25411
+Z3
+C-1
+S
+#25411
+Stinky Sewer~
+S center of 3x3 square.  door s will lead to "newbie training ground"
+~
+254 0 1
+D0
+~
+~
+0 -1 25408
+D1
+~
+~
+0 -1 25412
+D3
+~
+~
+0 -1 25410
+Z3
+C-1
+S
+#25412
+Smelly Sewer~
+SE corner of 3x3 square
+S exit to TMNT area (mid duals)
+E exit to "HippoDrome" (mid-high duals)
+~
+254 0 1
+D0
+~
+~
+0 -1 25409
+D1
+~
+~
+0 -1 25413
+D3
+~
+~
+0 -1 25411
+Z3
+C-1
+S
+#25413
+Smelly Sewer~
+Eeeew!  The stench of raw sewage grows stronger as you enter this
+tunnel.  Above you, a rickety old set of tunnel lights provides
+enough illumination for you to avoid stepping on the rats.
+The tunnel continues to the east and west.
+~
+254 0 1
+D1
+~
+~
+0 -1 25414
+D3
+~
+~
+0 -1 25412
+Z3
+C-1
+S
+#25414
+A Bend in the Smelly Sewer~
+Whew!  What's that smell?  You hold your nose and try to breathe from
+your mouth.  Now if you could just avoid swallowing the flies, it would be
+bearable.  Some of the lights are burned out, forcing you to squint.  That
+damned map... don't you wish you had it now?
+~
+254 0 1
+D2
+~
+~
+0 -1 25415
+D3
+~
+~
+0 -1 25413
+Z3
+C-1
+S
+#25415
+Smelly Tunnel~
+The sewer tunnel widens slightly here.  You stand up and stretch,
+grateful that you don't have to continue walking around like a
+hunchback.  The ground is drier, and there is a curious absence of
+pipes.  The overhead lights emit a dingy glow.  Ahead, you hear some
+rumbling.  Maybe you should investigate.
+~
+254 0 0
+D0
+~
+~
+0 -1 25414
+D1
+~
+~
+0 -1 25416
+Z3
+C-1
+S
+#25416
+Rumble, Rumble, Rumble~
+
+The rumbling is getting louder.  The smell has changed from stinky to 
+all-out gross!  Small lumps of a nondescript material are scattered on
+the floor.  Just above your head, the lights are shaking with each 
+tremor, casting odd shadows all around.  There's a small indentation in
+the wall.  Looks like someone poked a hole here.
+
+~
+254 0 0
+D1
+~
+~
+0 -1 25417
+D3
+~
+~
+0 -1 25415
+Z3
+C-1
+S
+#25417
+Rumble, Rumble, Rumble~
+The rumbling is starting to sound more like footsteps... heavy ones,
+and lots of 'em.  Maybe you should turn back now, but then there's
+still the unexplored, and you know that you'll never be able to sleep
+at night without knowing what lies ahead.
+~
+254 17825794 1
+D2
+~
+~
+0 -1 25418
+Z3
+C-1
+S
+#25418
+Welcome to the HippoDrome!~
+Uh oh... now you've done it!  You shake the crud from yourself, stand
+up, and look around.  What IS this place?  Thunderous footfalls are all
+around you, and the ground trembles almost continuously.  Small
+lumps are scattered around the floor.  The stench is revolting,
+and nothing makes it go away.
+~
+254 0 0
+D1
+~
+~
+0 -1 25419
+Z3
+C-1
+S
+#25419
+Enter the HippoDrome!~
+
+Hippos, hippos, everywhere!  You've entered the infamous HippoDrome, and now
+you're stuck!  Heavy footfalls indicate the presence of these beasts, tromping
+through the sewers as if it were truly home to them.  Small clouds of dust
+billow around the corner, and the heavy scent of methane hangs in the air.
+
+You can make out an inscription on the wall...
+
+~
+254 0 0
+D1
+~
+~
+0 -1 25420
+D3
+~
+~
+0 -1 25418
+E
+wall~
+
+                  "Free the Hippos!"
+
+~
+Z3
+C-1
+S
+#25420
+HippoDrome~
+
+Hippo pictures cover the walls.  Hippo crap is all over the floor.  There are
+small puddles of a yellowish liquid emitting a foul odor.  You don't want to
+know what that stuff is...  the stench and dim light combine to make your 
+head spin, and it's hard to remember which direction you came from.  Maybe you
+should have packed some noseplugs and a map.
+~
+254 256 0
+D0
+~
+~
+0 -1 25421
+D1
+~
+~
+0 -1 25420
+D2
+~
+~
+0 -1 25420
+D3
+~
+~
+0 -1 25419
+T25419
+Z3
+C-1
+S
+#25421
+HippoDrome~
+
+Hippo pictures cover the walls.  Hippo crap is all over the floor.  There are
+small puddles of a yellowish liquid emitting a foul odor.  You don't want to
+know what that stuff is...  the stench and dim light combine to make your 
+head spin, and it's hard to remember which direction you came from.  Maybe you
+should have packed some noseplugs and a map.
+~
+254 0 0
+D0
+~
+~
+0 -1 25420
+D1
+~
+~
+0 -1 25422
+D2
+~
+~
+0 -1 25419
+D3
+~
+~
+0 -1 25421
+Z3
+C-1
+S
+#25422
+HippoDrome~
+
+Hippo pictures cover the walls.  Hippo crap is all over the floor.  There are
+small puddles of a yellowish liquid emitting a foul odor.  You don't want to
+know what that stuff is...  the stench and dim light combine to make your 
+head spin, and it's hard to remember which direction you came from.  Maybe you
+should have packed some noseplugs and a map.
+~
+254 256 0
+D0
+~
+~
+0 -1 25420
+D1
+~
+~
+0 -1 25421
+D2
+~
+~
+0 -1 25423
+D3
+~
+~
+0 -1 25422
+T25426
+Z3
+C-1
+S
+#25423
+HippoDrome~
+
+Hippo pictures cover the walls.  Hippo crap is all over the floor.  There are
+small puddles of a yellowish liquid emitting a foul odor.  You don't want to
+know what that stuff is...  the stench and dim light combine to make your 
+head spin, and it's hard to remember which direction you came from.  Maybe you
+should have packed some noseplugs and a map.
+~
+254 0 0
+D0
+~
+~
+0 -1 25421
+D1
+~
+~
+0 -1 25423
+D2
+~
+~
+0 -1 25420
+D3
+~
+test~
+1 -1 25424
+Z3
+C-1
+S
+#25424
+HippoDrome~
+
+Hippo pictures cover the walls.  Hippo crap is all over the floor.  There are
+small puddles of a yellowish liquid emitting a foul odor.  You don't want to
+know what that stuff is...  the stench and dim light combine to make your 
+head spin, and it's hard to remember which direction you came from.  Maybe you
+should have packed some noseplugs and a map.
+~
+254 256 0
+D0
+~
+~
+0 -1 25420
+D1
+~
+~
+0 -1 25424
+D2
+~
+~
+0 -1 25425
+D3
+~
+~
+0 -1 25424
+T25428
+Z3
+C-1
+S
+#25425
+HippoDrome~
+
+Hippo pictures cover the walls.  Hippo crap is all over the floor.  There are
+small puddles of a yellowish liquid emitting a foul odor.  You don't want to
+know what that stuff is...  the stench and dim light combine to make your 
+head spin, and it's hard to remember which direction you came from.  Maybe you
+should have packed some noseplugs and a map.
+~
+254 0 0
+D0
+~
+~
+0 -1 25426
+D1
+~
+~
+0 -1 25425
+D2
+~
+~
+0 -1 25420
+D3
+~
+~
+0 -1 25422
+Z3
+C-1
+S
+#25426
+HippoDrome~
+
+Hippo pictures cover the walls.  Hippo crap is all over the floor.  There are
+small puddles of a yellowish liquid emitting a foul odor.  You don't want to
+know what that stuff is...  the stench and dim light combine to make your 
+head spin, and it's hard to remember which direction you came from.  Maybe you
+should have packed some noseplugs and a map.
+~
+254 0 0
+D0
+~
+~
+0 -1 25427
+D1
+~
+~
+0 -1 25426
+D2
+~
+~
+0 -1 25420
+D3
+~
+~
+0 -1 25423
+Z3
+C-1
+S
+#25427
+HippoDrome~
+
+Hippo pictures cover the walls.  Hippo crap is all over the floor.  There are
+small puddles of a yellowish liquid emitting a foul odor.  You don't want to
+know what that stuff is...  the stench and dim light combine to make your 
+head spin, and it's hard to remember which direction you came from.  Maybe you
+should have packed some noseplugs and a map.
+~
+254 0 0
+D0
+~
+~
+0 -1 25427
+D1
+~
+~
+0 -1 25420
+D2
+~
+~
+0 -1 25428
+D3
+~
+~
+0 -1 25423
+Z3
+C-1
+S
+#25428
+HippoDrome~
+
+Hippo pictures cover the walls.  Hippo crap is all over the floor.  There are
+small puddles of a yellowish liquid emitting a foul odor.  You don't want to
+know what that stuff is...  the stench and dim light combine to make your 
+head spin, and it's hard to remember which direction you came from.  Maybe you
+should have packed some noseplugs and a map.
+~
+254 0 0
+D0
+~
+~
+0 -1 25426
+D1
+~
+~
+0 -1 25429
+D2
+~
+~
+0 -1 25424
+D3
+~
+~
+0 -1 25428
+Z3
+C-1
+S
+#25429
+HippoDrome~
+
+Hippo pictures cover the walls.  Hippo crap is all over the floor.  There are
+small puddles of a yellowish liquid emitting a foul odor.  Something drips
+the same liquid from the ceiling.  Maybe you should move aside...  the stench
+and dim light combine to make your head spin, and it's hard to remember which
+direction you came from.  You raise your hands in a gesture of hopelessness,
+and look up, expecting to see a higher power.
+
+A voice booms down, "Hahaha!  You're stuck in a pile of hippo shit!"
+
+~
+254 4210816 0
+D4
+Beads of hippo pee drip down from a grate in the ceiling.
+
+~
+ceiling~
+3 -1 25431
+D5
+~
+puddle~
+3 -1 25430
+Z3
+C-1
+S
+#25430
+KingHippo's Lair!~
+
+Ah HAH!  You've found the lair of the mighty KingHippo!  Bits
+of grass and piles of newspaper are laying around.  Bigger piles
+of hippo crap sit in groups all over the floor.  Yeesh... this guy
+doesn't get out too much.
+KingHippo sits in a corner, grunting loudly.  He yawns, and you see
+inside his huge, gaping mouth.  Watch out, he just might bite a chuck
+of you!
+~
+254 0 1
+D0
+~
+~
+0 -1 25426
+D4
+~
+puddle~
+1 -1 25429
+Z3
+C-1
+S
+#25431
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+254 0 1
+Z3
+C-1
+S
+#25499
+{G,BO}Sewage Engineering Headquarters{bo}~
+   
+   Piles of layout plans and other sheets of paper lay on the thick
+wooden table.  A dim light makes reading them barely possible.  The 
+room is tight and damp.  A few cages line the walls full of wild 
+beasts that were brought in from deep within the sewers.  They are
+rather sedated and harmless, but they sure do STINK!!!
+    
+~
+254 0 1
+Z3
+C-1
+S
+$~

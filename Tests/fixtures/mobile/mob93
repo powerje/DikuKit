@@ -1,0 +1,630 @@
+#9301
+mountain climber mountainclimber~
+the {BO,YE}mountainclimber{bo,ye}~
+A mountain climber is making the same trek that you are.
+~
+{BO,CY}
+   An athletic looking fellow,  loaded with a backpack
+   and topped with a light hat, strides happily up the
+   hill. Follow him if you can!
+{bo,cy}
+~
+66 262780 1000 S
+55 -100 -10 100d300+100 20d30+3
+1000000 5000000
+8 8 1
+D 20
+A 12
+#9302
+cyclops~
+The {YELLOW}{BOLD}Cyclops{yellow}{bold}~
+A hungry cyclops snarls at you!
+~
+{BO,RED} 
+   A  magnificent and  mythical  creature, the cyclops looks
+   around swinging his massive head to better aim his single
+   eye on you. Get closer, he may eat you too!
+{bo,red}
+~
+402685954 537133704 -700 C 2
+51 -55 -3 20d20+10000 20d20+20
+100000 1000000
+8 8 0
+D 20
+A 12
+#9303
+tiny elemental~
+A tiny {GREEN}elemental{green}~
+A tiny elemental form wanders about.
+~
+{BO,WHI}
+   One of the original forces of the universe, forged by
+   the gods out of the chaotic essence of the void, this
+   elemental entity can be quite destructive too.
+{bo,whi}
+~
+134348801 2105404 0 S
+40 -25 -1 1d1+4399 8d5+56
+50000 3000000
+8 8 1
+D 20
+A 12
+#9304
+elemental guardian~
+The {RED}Elemental{red} Guardian~
+The {RED}Elemental{red} Guardian of the Canyon.
+~
+{BO,CY}
+    When the universe was born, the gods extracted
+    the elemental forces out of the chaos and used
+    them to chisel into shape our world.  In front
+    of you stands the towering presence of one  of
+    those elemental forces.
+{bo,cy}
+~
+66 262780 1000 S
+50 -100 -10 1d1+29999 30d20+3
+1000000 1200000000
+8 8 1
+D 20
+A 12
+#9305
+small elemental~
+A small {BLUE}elemental{blue}~
+A small, rather non-descript elemental thing wanders about.
+~
+{BO,CY}
+    When the universe was born, the gods extracted
+    the elemental forces out of the chaos and used
+    them to chisel into shape our world.  In front
+    of you stands the towering presence of one  of
+    those elemental forces.
+{bo,cy}
+~
+134217798 1075847868 0 S
+58 -68 -3 1d1+3500 10d20+30
+90000 5000000
+8 8 1
+D 20
+A 12
+#9306
+medium elemental~
+A medium {BLUE}elemental{blue}~
+A medium-sized elemental presence can be felt here.
+~
+{BO,CY}
+    When the universe was born, the gods extracted
+    the elemental forces out of the chaos and used
+    them to chisel into shape our world.  In front
+    of you stands the towering presence of one  of
+    those elemental forces.
+{bo,cy}
+~
+134758646 1075847868 0 S
+60 -21 -1 1d1+5555 30d8+20
+110000 14000000
+8 8 1
+D 20
+A 12
+#9307
+elemental large~
+A large {BLUE}elemental{blue}~
+A large elemental power blows by.
+~
+{BO,CY}
+    When the universe was born, the gods extracted
+    the elemental forces out of the chaos and used
+    them to chisel into shape our world.  In front
+    of you stands the towering presence of one  of
+    those elemental forces.
+{bo,cy}
+~
+524448 130 0 S
+50 -40 0 1d3+6704 23d8+17
+2000 200000
+8 8 1
+D 20
+A 12
+#9308
+earth elemental ruler~
+{BOLD,YELLOW}Earth{bold,yellow} Ruler~
+The Ruler of the Earth elementals is blocking earth.
+~
+{bo,YE}
+    A strong smell of freshly cut earth impregnates 
+    your nostrills. Behold, the huge and impressive
+    Ruler of Earth sits on his throne here.
+{ye}
+~
+1207992323 453280394 800 C 4
+55 -105 -25 1d1+25000 25d25+100
+1000000 200000
+8 8 1
+S 70259080
+R 10486284
+D 20
+A 10
+#9309
+fire elemental ruler~
+{RE}F{BO}i{bo,RE}r{BO,RE}e{bo,RE} {BO,RE}R{bo,RE}u{BO,RE}l{bo,RE}e{BO,RE}r{bo}~
+The Ruler of the Fire elementals is standing here.
+~
+{BO,RE}
+    A strong smell of an open iron oven impregnates 
+    your nostrills. Behold, the huge and impressive
+    Ruler of Fire sits on his throne here.
+{bo,re}
+~
+268468227 268698248 0 C 2
+55 -210 -15 1d1+25000 20d20+150
+60000 50000000
+8 8 0
+S 529152
+R 2097168
+D 20
+A 10
+#9310
+air elemental ruler~
+The {BL}A{BO,BL}i{bo,BL}r{r} Ruler~
+The Ruler of Air Elementals.
+~
+{BO,CY}
+    Wind blows harder and threatens to strip your 
+    bones of its flesh. The wind seems to be com-
+    ing from this blurry giant, the Ruler of Air.
+{bo,cy}
+~
+679510051 335807112 0 C 2
+55 -230 -10 5d5+25000 20d20+156
+120000 200000
+8 8 0
+S 529152
+R 2097168
+D 20
+A 12
+#9311
+lightning elemental ruler~
+{BO,wh}The {BO,YE}Lightning{bo,ye} Ruler~
+The Ruler of the Lightning elementals
+~
+{BO,YE}
+    Your hair stands straight up your skull as  you
+    approach this towering being. His skin sparkles
+    and ... yes, this must be the Ruler of Lighting.
+{bo,ye}
+~
+1342177283 304382600 0 C 4
+55 -80 0 20d20+15000 5d5+200
+1000000 200000
+8 8 0
+S 80245408
+R 2097180
+D 10
+A 10
+#9312
+ruler water elemental~
+{BO,WH}The {BOLD,BLUE}Water{bo,bl} Ruler~
+The Ruler of the Water Elementals.
+~
+{BLU}
+    The water currents here can break a five inch 
+    steel bar, you've heard from old sailors, now
+    you think what are your chances against  this
+    powerful Ruler of Water.
+{blue}
+~
+947945507 268698248 0 C 2
+50 -50 -1 3d3+6000 21d8+17
+60000 200000
+8 8 0
+R 1048576
+D 20
+A 12
+#9314
+water puddle elemental~
+A puddle~
+{white}A small puddle of {BL}water{bl} elemental.{r}
+~
+{BO,CY}
+    When the universe was born, the gods extracted
+    the elemental forces out of the chaos and used
+    them to chisel into shape our world.  In front
+    of you stands the towering presence of one  of
+    those elemental forces.
+{bo,cy}
+~
+134496320 1074037258 500 S
+55 -40 -6 10000d1+0 18d12+15
+90000 1000000
+8 8 1
+D 20
+A 12
+#9315
+fire flame elemental~
+A {BO,RE}flame{bo,re}~
+A small flickering {RED}flame elemental{red}.
+~
+{BO,CY}
+    When the universe was born, the gods extracted
+    the elemental forces out of the chaos and used
+    them to chisel into shape our world.  In front
+    of you stands the towering presence of one  of
+    those elemental forces.
+{bo,cy}
+~
+2097222 1073742336 250 C 4
+60 -9980 -10 1d1+9000 40d40+100
+300000 1000
+8 8 0
+D 20
+A 12
+#9316
+snowflake snow flake ice elemental~
+a {BO,BL}snowflake{bo,bl}~
+A frozen {BL}snowflake{bl} elemental.
+~
+{BO,CY}
+    When the universe was born, the gods extracted
+    the elemental forces out of the chaos and used
+    them to chisel into shape our world.  In front
+    of you stands the towering presence of one  of
+    those elemental forces.
+{bo,cy}
+~
+134488129 1074037288 900 S
+52 -34 -3 8500d1+0 12d12+20
+60000 500000
+8 8 1
+D 20
+A 12
+#9317
+pebble rock earth stone elemental~
+A small rock~
+A small {YE}rock{ye}.
+~
+{BO,CY}
+    When the universe was born, the gods extracted
+    the elemental forces out of the chaos and used
+    them to chisel into shape our world.  In front
+    of you stands the towering presence of one  of
+    those elemental forces.
+{bo,cy}
+~
+67387456 295562 500 S
+50 -40 0 6706d1+0 23d8+17
+70000 900000
+8 8 2
+D 20
+A 12
+#9318
+spark lightning energy elemental~
+A small spark~
+{WHI}A small {BO,YE}spark of electricity{bo,ye} fizzles here.
+~
+{BO,CY}
+    When the universe was born, the gods extracted
+    the elemental forces out of the chaos and used
+    them to chisel into shape our world.  In front
+    of you stands the towering presence of one  of
+    those elemental forces.
+{bo,cy}
+~
+67387456 295562 500 S
+50 -40 0 6706d1+0 23d8+17
+70000 900000
+8 8 2
+D 20
+A 12
+#9319
+acid blob elemental~
+A small blob of acid~
+{WHI}A small blob of {BO,GRE}acid{bo,gre} eats away at the {BO,YE}stone{bo,ye} aimlessly.
+~
+{BO,CY}
+    When the universe was born, the gods extracted
+    the elemental forces out of the chaos and used
+    them to chisel into shape our world.  In front
+    of you stands the towering presence of one  of
+    those elemental forces.
+{bo,cy}
+~
+134496320 1074037258 500 S
+55 -40 -6 10000d1+0 18d12+15
+90000 1000000
+8 8 1
+D 20
+A 12
+#9320
+lava elemental~
+A lava beast~
+{WHI}A {RED}lava beast{red} spews from place to place.
+~
+{BO,CY}
+    When the universe was born, the gods extracted
+    the elemental forces out of the chaos and used
+    them to chisel into shape our world.  In front
+    of you stands the towering presence of one  of
+    those elemental forces.
+{bo,cy}
+~
+134234214 1075847868 0 S
+60 -21 -1 1d1+5555 30d8+20
+110000 14000000
+8 8 1
+D 20
+A 12
+#9321
+elemental mud monster~
+A mud monster~
+{WHI}A {YEL}mud monster{yel} slops around.
+~
+{BO,CY}
+    When the universe was born, the gods extracted
+    the elemental forces out of the chaos and used
+    them to chisel into shape our world.  In front
+    of you stands the towering presence of one  of
+    those elemental forces.
+{bo,cy}
+~
+134234214 1075847868 0 S
+60 -21 -1 1d1+5555 30d8+20
+110000 14000000
+8 8 1
+D 20
+A 12
+#9322
+mist elemental~
+An elemental mist~
+{WHI}The {BO,BLU}air{WHI} is magically misty here.
+~
+{BO,CY}
+    When the universe was born, the gods extracted
+    the elemental forces out of the chaos and used
+    them to chisel into shape our world.  In front
+    of you stands the towering presence of one  of
+    those elemental forces.
+{bo,cy}
+~
+134234214 1075847868 0 S
+60 -21 -1 1d1+5555 30d8+20
+110000 14000000
+8 8 1
+D 20
+A 12
+#9323
+particle elemental~
+A particle~
+A sub-atomic particle is too small for you to see.
+~
+{BO,CY}
+    When the universe was born, the gods extracted
+    the elemental forces out of the chaos and used
+    them to chisel into shape our world.  In front
+    of you stands the towering presence of one  of
+    those elemental forces.
+{bo,cy}
+~
+134234215 1075847868 0 S
+58 -68 -3 1d1+3500 10d20+30
+90000 5000000
+8 8 1
+D 20
+A 12
+#9324
+dust elemental~
+A dust cloud~
+A dust cloud makes you sneeze.
+~
+{BO,CY}
+    When the universe was born, the gods extracted
+    the elemental forces out of the chaos and used
+    them to chisel into shape our world.  In front
+    of you stands the towering presence of one  of
+    those elemental forces.
+{bo,cy}
+~
+134234215 1075847868 0 S
+58 -68 -3 1d1+3500 10d20+30
+90000 5000000
+8 8 1
+D 20
+A 12
+#9325
+eddie current elemental~
+An eddie current~
+A small eddie current swirls junk around here.
+~
+{BO,CY}
+    When the universe was born, the gods extracted
+    the elemental forces out of the chaos and used
+    them to chisel into shape our world.  In front
+    of you stands the towering presence of one  of
+    those elemental forces.
+{bo,cy}
+~
+134234215 1075847868 0 S
+58 -68 -3 1d1+3500 10d20+30
+90000 5000000
+8 8 1
+D 20
+A 12
+#9326
+blue flame elemental~
+The Blue Flame~
+{WHI}The {BLU}Blue Flame{blu} burns mysteriously here.
+~
+{BO,CY}
+    When the universe was born, the gods extracted
+    the elemental forces out of the chaos and used
+    them to chisel into shape our world.  In front
+    of you stands the towering presence of one  of
+    those elemental forces.
+{bo,cy}
+~
+587759714 1411646344 250 C 4
+60 -9980 -10 5d5+15000 40d40+100
+300000 1000
+8 8 0
+S 98059144
+R 16908
+D 20
+A 9
+#9327
+magneto~
+The Magneto~
+{WHI}The {RED}Magneto{red} considers {YEL}zapping{yel} you for the heck of it.
+~
+{BO,CY}
+    When the universe was born, the gods extracted
+    the elemental forces out of the chaos and used
+    them to chisel into shape our world.  In front
+    of you stands the towering presence of one  of
+    those elemental forces.
+{bo,cy}
+~
+587759718 1073742336 250 C 4
+60 -9980 -10 1d52+15000 20d20+3
+300000 1000
+8 8 0
+S 93864848
+R 16908
+D 9
+A 9
+#9328
+ice bandit~
+The Ice Bandit~
+The Ice Bandit strikes cold fear in your heart.
+~
+{BO,CY}
+    When the universe was born, the gods extracted
+    the elemental forces out of the chaos and used
+    them to chisel into shape our world.  In front
+    of you stands the towering presence of one  of
+    those elemental forces.
+{bo,cy}
+~
+2097222 1411384200 250 C 4
+60 -9980 -10 5d5+15000 20d20+3
+300000 1000
+8 8 0
+S 81281952
+R 16908
+D 20
+A 9
+#9329
+rock monster~
+The Rock Monster~
+The Rock Monster considers you in stoney silence.
+~
+{BO,CY}
+    When the universe was born, the gods extracted
+    the elemental forces out of the chaos and used
+    them to chisel into shape our world.  In front
+    of you stands the towering presence of one  of
+    those elemental forces.
+{bo,cy}
+~
+2097222 1073742336 250 C 4
+60 -9980 -10 1d1+9000 18d20+3
+300000 1000
+8 8 0
+D 20
+A 12
+#9330
+hurricane~
+The Hurricane~
+{WHI}A {CYAN}Hurricane{WHI} rages accross the sky.
+~
+{BO,CY}
+    When the universe was born, the gods extracted
+    the elemental forces out of the chaos and used
+    them to chisel into shape our world.  In front
+    of you stands the towering presence of one  of
+    those elemental forces.
+{bo,cy}
+~
+587759714 1409549192 250 C 4
+60 -9980 -10 5d5+15000 25d25+4
+1000000 1000
+8 8 0
+S 98059138
+R 16396
+D 20
+A 9
+#9331
+magician elemental~
+An elemental magician~
+{WHI}An {GRE}elemental{WHI} magician seeks magical {YEL}stones{WHI} for a sell.
+~
+{BO,CY}
+    When the universe was born, the gods extracted
+    the elemental forces out of the chaos and used
+    them to chisel into shape our world.  In front
+    of you stands the towering presence of one  of
+    those elemental forces.
+{bo,cy}
+~
+67125312 1076134536 0 S
+50 -40 -2 1d3+6704 23d8+50
+10000 200000
+8 8 1
+D 20
+A 12
+#9332
+rainbow warrior~
+A rainbow warrior~
+{WHI}A warrior of the {RED}R{YE}a{GR}i{BL}n{MA}b{CY}o{YE}w{WHI} Cult swears his loyealty.
+~
+{BO,CY}
+    When the universe was born, the gods extracted
+    the elemental forces out of the chaos and used
+    them to chisel into shape our world.  In front
+    of you stands the towering presence of one  of
+    those elemental forces.
+{bo,cy}
+~
+67125312 1076134536 0 S
+50 -40 10 1d3+6704 23d8+50
+10000 200000
+8 8 1
+D 20
+A 12
+#9333
+illusionist magician elemental~
+an illusionist~
+{WHI}The {MA}illusionist{WHI} seeks the aid of the {GR}elemental{WHI} forces.
+~
+{BO,CY}
+    When the universe was born, the gods extracted
+    the elemental forces out of the chaos and used
+    them to chisel into shape our world.  In front
+    of you stands the towering presence of one  of
+    those elemental forces.
+{bo,cy}
+~
+67125312 1076134536 0 S
+50 -40 -2 1d3+6704 23d8+50
+10000 200000
+8 8 1
+D 20
+A 12
+#9334
+alchemist elemental~
+an alchemist~
+{WHI}An {GR}alchemist{WHI} wanders by in search of magical herbs.
+~
+{BO,CY}
+    When the universe was born, the gods extracted
+    the elemental forces out of the chaos and used
+    them to chisel into shape our world.  In front
+    of you stands the towering presence of one  of
+    those elemental forces.
+{bo,cy}
+~
+67125312 1076134536 0 S
+50 -40 -2 1d3+6704 23d8+50
+10000 200000
+8 8 1
+D 20
+A 12
+$~

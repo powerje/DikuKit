@@ -1,0 +1,791 @@
+#44800
+{BLACK,BOLD}Stairway{b}~
+
+{BLACK,BOLD}  You walk onto a stairwell. You can barely see two feet
+{BLACK,BOLD}  in front of you. The walls are brick, covered in dust
+{BLACK,BOLD}  and dirt. You feel that at the top of the stairs your
+{BLACK,BOLD}  enemies will not be as welcoming.{b}
+
+~
+448 0 1
+D2
+~
+~
+0 -1 44392
+D4
+~
+~
+0 -1 44801
+Z-1
+C-1
+R0
+S
+#44801
+{BLACK,BOLD}Stairway{b}~
+
+{BLACK,BOLD}  The stairway goes up even further. You know you are
+{BLACK,BOLD}  getting close to the King and Queen.{bl}
+
+~
+448 0 1
+D4
+~
+~
+0 -1 44802
+D5
+~
+~
+0 -1 44800
+Z-1
+C-1
+R0
+S
+#44802
+{BLUE,BOLD}Throne Room{b}~
+
+{R,BO}  Knights pace to the west and east guarding the Castle.
+{R,BO}  the carpet is colorful and clean. This part of the
+{R,BO}  castle is by far the best looking. There are banners
+{R,BO}  flying showing pride for the city.{r}
+
+~
+448 0 1
+D0
+~
+~
+0 -1 44805
+D1
+~
+~
+0 -1 44803
+D3
+~
+~
+0 -1 44804
+D5
+~
+~
+0 -1 44801
+Z-1
+C-1
+R0
+S
+#44803
+{BLUE,BOLD}Throne Room{b}~
+
+{R,BO}  A knight stands here next to a pillar. He stares at you
+{R,BO}  showing no emotion. There is no way to go but back.{r}
+
+~
+448 0 1
+D3
+~
+~
+0 -1 44802
+Z-1
+C-1
+R0
+S
+#44804
+{BLUE,BOLD}Throne Room{b}~
+
+{R,BO}  A knight stands here next to a pillar. He stares at you
+{R,BO}  showing no emotion. There is no way to go but back.{r}
+
+~
+448 0 1
+D1
+~
+~
+0 -1 44802
+Z-1
+C-1
+R0
+S
+#44805
+{BLUE,BOLD}Throne Room{b}~
+
+{R,BO}  Knights pace to the west and east guarding the Castle.
+{R,BO}  the carpet is colorful and clean. This part of the
+{R,BO}  castle is by far the best looking. There are banners
+{R,BO}  flying showing pride for the city.{r}
+
+~
+448 0 1
+D0
+~
+~
+0 -1 44808
+D1
+~
+~
+0 -1 44806
+D2
+~
+~
+0 -1 44802
+D3
+~
+~
+0 -1 44807
+Z-1
+C-1
+R0
+S
+#44806
+{BLUE,BOLD}Throne Room{b}~
+
+{R,BO}  A knight stands here next to a pillar. He stares at you
+{R,BO}  showing no emotion. There is no way to go but back.{r}
+
+~
+448 0 1
+D3
+~
+~
+0 -1 44805
+Z-1
+C-1
+R0
+S
+#44807
+{BLUE,BOLD}Throne Room{b}~
+
+{R,BO}  A knight stands here next to a pillar. He stares at you
+{R,BO}  showing no emotion. There is no way to go but back.{r}
+
+~
+448 0 1
+D1
+~
+~
+0 -1 44805
+Z-1
+C-1
+R0
+S
+#44808
+{BLUE,BOLD}Throne Room{b}~
+
+{R,BO}  Knights pace to the west and east guarding the Castle.
+{R,BO}  the carpet is colorful and clean. This part of the
+{R,BO}  castle is by far the best looking. There are banners
+{R,BO}  flying showing pride for the city.{r}
+
+~
+448 0 1
+D1
+~
+~
+0 -1 44809
+D2
+~
+~
+0 -1 44805
+D3
+~
+~
+0 -1 44810
+Z-1
+C-1
+R0
+S
+#44809
+{BLUE,BOLD}Throne Room{b}~
+
+{R,BO}  A knight stares at you angrily. He must be the King's
+{R,BO}  personal body guard. To the north there is the King
+{R,BO}  and Queen's bedroom, where the King is doing is
+{R,BO}  buisness.{r}
+
+~
+448 0 1
+D0
+~
+~
+0 -1 44811
+D3
+~
+~
+0 -1 44808
+Z-1
+C-1
+R0
+S
+#44810
+{BLUE,BOLD}Throne Room{b}~
+
+{R,BO}  A knight stands here next to a pillar. He stares at you
+{R,BO}  showing no emotion. There is no way to go but back.{r}
+
+~
+448 0 1
+D0
+~
+~
+0 -1 44822
+D1
+~
+~
+0 -1 44808
+Z-1
+C-1
+R0
+S
+#44811
+{BLUE,BOLD}King's Room{b}~
+
+{R,BO}  The King is here attending to his everyday buisness.
+{R,BO}  He is making sure all the military is in line. Checking
+{R,BO}  the population of the Castle and other kingly stuff.
+{R,BO}  There is a very large bed in the middle of the room.
+{R,BO}  The only way out is to the south.{r}
+
+~
+448 0 1
+D2
+~
+~
+0 -1 44809
+Z0
+C-1
+R0
+S
+#44812
+{R}Servant Quarters{r}~
+
+{BLU,BO}  The room is completely bare. It has no artwork
+{BLU,BO}  on the walls, no carpet, and very little appliances.
+{BLU,BO}  There are a few beds packed tightly together.
+{BLU,BO}  A lot of servants are here rushing around trying
+{BLU,BO}  to get everything perfect for the king.{blu}
+
+~
+448 8 1
+D2
+~
+~
+0 -1 44367
+D3
+~
+~
+0 -1 44813
+Z-1
+C-1
+R0
+S
+#44813
+{R}Servant Quarters{r}~
+
+{BLU,BO}  The room is completely bare. It has no artwork
+{BLU,BO}  on the walls, no carpet, and very little appliances.
+{BLU,BO}  There are a few beds packed tightly together.
+{BLU,BO}  A lot of servants are here rushing around trying
+{BLU,BO}  to get everything perfect for the king.{blu}
+
+~
+448 8 1
+D1
+~
+~
+0 -1 44812
+D2
+~
+~
+0 -1 44814
+Z-1
+C-1
+R0
+S
+#44814
+{R}Servant Quarters{r}~
+
+{BLU,BO}  The room is completely bare. It has no artwork
+{BLU,BO}  on the walls, no carpet, and very little appliances.
+{BLU,BO}  There are a few beds packed tightly together.
+{BLU,BO}  A lot of servants are here rushing around trying
+{BLU,BO}  to get everything perfect for the king.{blu}
+
+~
+448 8 1
+D0
+~
+~
+0 -1 44813
+D1
+~
+~
+0 -1 44367
+D2
+~
+~
+0 -1 44815
+Z-1
+C-1
+R0
+S
+#44815
+{R}Servant Quarters{r}~
+
+{BLU,BO}  The room is completely bare. It has no artwork
+{BLU,BO}  on the walls, no carpet, and very little appliances.
+{BLU,BO}  There are a few beds packed tightly together.
+{BLU,BO}  A lot of servants are here rushing around trying
+{BLU,BO}  to get everything perfect for the king.{blu}
+
+~
+448 8 1
+D0
+~
+~
+0 -1 44814
+D1
+~
+~
+0 -1 44816
+Z-1
+C-1
+R0
+S
+#44816
+{R}Servant Quarters{r}~
+
+{BLU,BO}  The room is completely bare. It has no artwork
+{BLU,BO}  on the walls, no carpet, and very little appliances.
+{BLU,BO}  There are a few beds packed tightly together.
+{BLU,BO}  A lot of servants are here rushing around trying
+{BLU,BO}  to get everything perfect for the king.{blu}
+
+~
+448 8 1
+D0
+~
+~
+0 -1 44367
+D3
+~
+~
+0 -1 44815
+Z-1
+C-1
+R0
+S
+#44817
+{R}Servant Quarters{r}~
+
+{BLU,BO}  The room is completely bare. It has no artwork
+{BLU,BO}  on the walls, no carpet, and very little appliances.
+{BLU,BO}  There are a few beds packed tightly together.
+{BLU,BO}  A lot of servants are here rushing around trying
+{BLU,BO}  to get everything perfect for the king.{blu}
+
+~
+448 8 1
+D1
+~
+~
+0 -1 44818
+D2
+~
+~
+0 -1 44368
+Z-1
+C-1
+R0
+S
+#44818
+{R}Servant Quarters{r}~
+
+{BLU,BO}  The room is completely bare. It has no artwork
+{BLU,BO}  on the walls, no carpet, and very little appliances.
+{BLU,BO}  There are a few beds packed tightly together.
+{BLU,BO}  A lot of servants are here rushing around trying
+{BLU,BO}  to get everything perfect for the king.{blu}
+
+~
+448 8 1
+D2
+~
+~
+0 -1 44819
+D3
+~
+~
+0 -1 44817
+Z-1
+C-1
+R0
+S
+#44819
+{R}Servant Quarters{r}~
+
+{BLU,BO}  The room is completely bare. It has no artwork
+{BLU,BO}  on the walls, no carpet, and very little appliances.
+{BLU,BO}  There are a few beds packed tightly together.
+{BLU,BO}  A lot of servants are here rushing around trying
+{BLU,BO}  to get everything perfect for the king.{blu}
+
+~
+448 8 1
+D0
+~
+~
+0 -1 44818
+D2
+~
+~
+0 -1 44820
+D3
+~
+~
+0 -1 44368
+Z-1
+C-1
+R0
+S
+#44820
+{R}Servant Quarters{r}~
+
+{BLU,BO}  The room is completely bare. It has no artwork
+{BLU,BO}  on the walls, no carpet, and very little appliances.
+{BLU,BO}  There are a few beds packed tightly together.
+{BLU,BO}  A lot of servants are here rushing around trying
+{BLU,BO}  to get everything perfect for the king.{blu}
+
+~
+448 8 1
+D0
+~
+~
+0 -1 44819
+D3
+~
+~
+0 -1 44821
+Z-1
+C-1
+R0
+S
+#44821
+{R}Servant Quarters{r}~
+
+{BLU,BO}  The room is completely bare. It has no artwork
+{BLU,BO}  on the walls, no carpet, and very little appliances.
+{BLU,BO}  There are a few beds packed tightly together.
+{BLU,BO}  A lot of servants are here rushing around trying
+{BLU,BO}  to get everything perfect for the king.{blu}
+
+~
+448 8 1
+D0
+~
+~
+0 -1 44368
+D1
+~
+~
+0 -1 44820
+Z0
+C-1
+R0
+S
+#44822
+{CYAN,BOLD}Queen's Bedroom{c}~
+
+{M,BO}  A woman sits here tending to her hair. She stares
+{M,BO}  at you wondering what you are doing in her
+{M,BO}  room. Wallpaper with flowers and butterflies
+{M,BO}  wraps around the walls giving a girly feeling
+{M,BO}  to the room.{m}
+
+~
+448 0 1
+D2
+~
+~
+0 -1 44810
+Z-1
+C-1
+R0
+S
+#44823
+{G,BO}Eastern Tower{g}~
+
+{G,BO}  You stand at the bottom of the Eastern Tower. As you
+{G,BO}  slowly tilt your head up, the spiral staircase seems
+{G,BO}  to never end.{g,bo}
+
+~
+448 0 1
+D0
+~
+~
+0 -1 44824
+D3
+~
+~
+0 -1 44398
+Z-1
+C-1
+R0
+S
+#44824
+{G,BO}Eastern Tower{g}~
+
+{G,BO}  You stand at the bottom of the Eastern Tower. As you
+{G,BO}  slowly tilt your head up, the spiral staircase seems
+{G,BO}  to never end.{g,bo}
+
+~
+448 0 1
+D2
+~
+~
+0 -1 44823
+D3
+~
+~
+0 -1 44825
+Z-1
+C-1
+R0
+S
+#44825
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+448 262144 1
+D1
+~
+~
+0 -1 44824
+Z0
+C-1
+R0
+S
+#44826
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+448 262144 1
+Z0
+C-1
+R0
+S
+#44828
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+448 262144 1
+Z0
+C-1
+R0
+S
+#44829
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+448 262144 1
+Z0
+C-1
+R0
+S
+#44830
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+448 262144 1
+Z0
+C-1
+R0
+S
+#44831
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+448 262144 1
+Z0
+C-1
+R0
+S
+#44832
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+448 262144 1
+Z0
+C-1
+R0
+S
+#44833
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+448 262144 1
+Z0
+C-1
+R0
+S
+#44834
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+448 262144 1
+Z0
+C-1
+R0
+S
+#44835
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+448 262144 1
+Z0
+C-1
+R0
+S
+#44836
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+448 262144 1
+Z0
+C-1
+R0
+S
+#44837
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+448 262144 1
+Z0
+C-1
+R0
+S
+#44838
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+448 262144 1
+Z0
+C-1
+R0
+S
+#44839
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+448 262144 1
+Z0
+C-1
+R0
+S
+#44840
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+448 262144 1
+Z0
+C-1
+R0
+S
+#44841
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+448 262144 1
+Z0
+C-1
+R0
+S
+#44842
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+448 262144 1
+Z0
+C-1
+R0
+S
+#44843
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+448 262144 1
+Z0
+C-1
+R0
+S
+#44844
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+448 262144 1
+Z0
+C-1
+R0
+S
+#44845
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+448 262144 1
+Z0
+C-1
+R0
+S
+#44846
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+448 262144 1
+Z0
+C-1
+R0
+S
+#44847
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+448 262144 1
+Z0
+C-1
+R0
+S
+#44848
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+448 262144 1
+Z0
+C-1
+R0
+S
+#44849
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+448 262144 1
+Z0
+C-1
+R0
+S
+#44850
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+448 0 1
+Z0
+C-1
+R0
+S
+#44860
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+448 262144 1
+Z0
+C-1
+R0
+S
+$~

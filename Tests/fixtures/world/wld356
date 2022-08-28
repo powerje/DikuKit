@@ -1,0 +1,1583 @@
+#35600
+{BO,B}Path to a Mansion{bo,b}~
+
+
+  {BO,R}As lightning strikes you can see storm clouds gathering in the 
+  distance and the silhouette of an old abandoned mansion.  Hopefully
+  this will be a safe place to wait out the storm.{bo,r}  
+
+~
+356 5 0
+D0
+~
+~
+0 -1 35601
+D2
+~
+~
+0 -1 6106
+Z4
+C1
+R0
+S
+#35601
+{BO,B}Path to a Mansion{bo,b}~
+
+
+  {BO,R}As the first drops of icy water pelt against your face you 
+  get the first good look at the mansion. A set of marble 
+  stairs lead to an ancient wooden door.  The adjacent windows
+  are boarded and it looks as if no one has lived here in
+  years.{bo,r}
+
+~
+356 1 0
+D0
+~
+~
+0 -1 35602
+D2
+~
+~
+0 -1 35600
+Z4
+C1
+R0
+S
+#35602
+{BO,B}On the Stairs{bo,b}~
+
+
+  {BO,R}After catching your breath at the top of the stairs you begin
+  to bang against the huge oak door.  The rain starts to pour
+  soaking through your cloak, so you decide it is time to break
+  in and get out of this storm.  However, slamming your shoulder
+  repeatedly into the door does no good.  Having given up hope 
+  you lean against the door to rest and it gives way throwing
+  you head over heels across the threshold. {bo,r}  
+
+~
+356 5 0
+D0
+~
+Door~
+1 -1 35603
+D2
+~
+~
+0 -1 35601
+Z4
+C1
+R0
+S
+#35603
+{BO,B}Inside the Mansion{bo,b}~
+
+
+  {BLA}After picking yourself off the floor, you try to look around only
+  to find that you are surrounded by darkness.  Using your hands you 
+  try to feel the walls around you only to end up elbow deep in 
+  cobwebs.  Lightning strikes nearby and lights up the room through
+  a window to the far right.  Luckily, there is a candle stick on 
+  table near by.  You hold your breath and feel your way over to the 
+  small table and grasp the candle.  Immediately the candle wick 
+  bursts into flame.  After the initial shock you take a look around.
+  All you can make out in the gloom is old furniture covered in
+  spider webs.  Suddenly you feel something crawl across your neck. 
+  Oh Gezzus!! Why does it have to be spiders?  You hate spiders.{bla}
+
+~
+356 9 0
+D0
+~
+~
+0 -1 35606
+D1
+~
+~
+0 -1 35608
+D2
+~
+Door~
+1 -1 35602
+D3
+~
+~
+0 -1 35604
+Z5
+C1
+R0
+S
+#35604
+{BO,B}Deeper into the front room{bo,b}~
+
+
+  {BLA}Slowly you search the huge foyer noticing a balcony high above.  
+  Odd, how do you get up there?  Your clothes are soaked, your
+  skin like ice, and you're really not sure this is somewhere you
+  want to be.  Suddenly you feel eye's on your back and a cold 
+  breeze brushes your cheeks. You whirl around as you feel a hand
+  on your shoulder,  but there is no one there. This place is 
+  totally creeping you out. {bla} 
+
+~
+356 9 0
+D0
+~
+~
+0 -1 35605
+D1
+~
+door~
+2 35608 35630
+Z5
+C1
+R0
+S
+#35605
+{BO,B}Deeper into the front room{bo,b}~
+
+
+  {BLA}Slowly you search the huge foyer noticing a balcony high above.  
+  Odd, how do you get up there?  Your clothes are soaked, your
+  skin like ice, and you're really not sure this is somewhere you
+  want to be.  Suddenly you feel eye's on your back and a cold 
+  breeze brushes your cheeks. You whirl around as you feel a hand
+  on your shoulder,  but there is no one there. This place is 
+  totally creeping you out. {bla} 
+
+~
+356 9 0
+D0
+~
+~
+0 -1 35610
+D1
+~
+~
+0 -1 35606
+D2
+~
+~
+0 -1 35604
+Z5
+C1
+R0
+S
+#35606
+{BO,B}Deeper into the front room{bo,b}~
+
+
+  {BLA}Slowly you search the huge foyer noticing a balcony high above.  
+  Odd, how do you get up there?  Your clothes are soaked, your
+  skin like ice, and you're really not sure this is somewhere you
+  want to be.  Suddenly you feel eye's on your back and a cold 
+  breeze brushes your cheeks. You whirl around as you feel a hand
+  on your shoulder,  but there is no one there. This place is 
+  totally creeping you out. {bla} 
+
+~
+356 9 0
+D0
+~
+~
+0 -1 35609
+D1
+~
+~
+0 -1 35607
+D2
+~
+~
+0 -1 35603
+D3
+~
+~
+0 -1 35605
+Z5
+C1
+R0
+S
+#35607
+{bo,BLACK}Deeper into the front room{bo,black}~
+
+
+  {BLA}Slowly you search the huge foyer noticing a balcony high above.  
+  Odd, how do you get up there?  Your clothes are soaked, your
+  skin like ice, and you're really not sure this is somewhere you
+  want to be.  Suddenly you feel eye's on your back and a cold 
+  breeze brushes your cheeks. You whirl around as you feel a hand
+  on your shoulder,  but there is no one there. This place is 
+  totally creeping you out. {bla} 
+
+~
+356 9 0
+D2
+~
+~
+0 -1 35608
+D3
+~
+~
+0 -1 35606
+Z5
+C1
+R0
+S
+#35608
+{BO,B}Deeper in the front room{bo,b}~
+
+
+  {BLA}Slowly you search the huge foyer noticing a balcony high above.  
+  Odd, how do you get up there?  Your clothes are soaked, your
+  skin like ice, and you're really not sure this is somewhere you
+  want to be.  Suddenly you feel eye's on your back and a cold 
+  breeze brushes your cheeks. You whirl around as you feel a hand
+  on your shoulder,  but there is no one there. This place is 
+  totally creeping you out. {bla} 
+
+~
+356 9 0
+D0
+~
+~
+0 -1 35607
+D3
+~
+~
+0 -1 35603
+Z5
+C1
+R0
+S
+#35609
+{BO,R}Stairs{bo,r}~
+
+
+  {BLA}A grand set of stairs gently wind up into the darkness.  An old red
+  stained carpet guides you up. Many of these stains look as if 
+  they may be blood.  Maybe you would fair better in the storm? 
+  Too late now, it would be impossible to find your way out without
+  the light of day to help you.  Hopefully you will find a dry change
+  of clothes and a warm bed upstairs.  If you are lucky that will be
+  all you find . . .{bla}
+
+~
+356 13 0
+D2
+~
+~
+0 -1 35606
+D4
+~
+~
+0 -1 35635
+Z5
+C1
+R0
+S
+#35610
+{BO,B}Hallway{bo,b}~
+
+
+  {BLA}Shivering you walk slowly down a long dark hallway that seems 
+  to only become more dark with each step you take.  To your 
+  right is a door with an old brass handle.   The handle will 
+  not budge and the door is shut firmly.  Maybe there is a key
+  somewhere else in the house. {bla}
+
+~
+356 9 0
+D0
+~
+~
+0 -1 35612
+D1
+~
+closet~
+2 35609 35611
+D2
+~
+~
+0 -1 35605
+Z5
+C1
+R0
+S
+#35611
+{BO,B}In the closet{bo,b}~
+
+
+  {BLA}You step into the closet and allow your candle light to illuminate
+  it's contents. You are startled by a skeleton hanging on a coat 
+  hanger. Wow the owner of this place really does have skeletons
+  in his closet. You chuckle and reach around the skeleton to fumble
+  through the moth eaten clothing. As you look for something warm
+  to change into you suddenly stiffen as you feel the cold touch of a
+  skeletal hand close around your arm. When you attempt to back out
+  of the closet the wind is knocked out of you as you take a hard blow
+  to the chest.{bla}   
+
+~
+356 13 0
+D3
+~
+closet~
+1 -1 35610
+D5
+~
+trapdoor~
+3 35609 35649
+Z5
+C1
+R0
+S
+#35612
+{BO,B}Hallway{bo,b}~
+
+
+  {BLA}Slowly walking down the dark hallway you can barely see a foot 
+  in front of you even with the candle light. Lining the walls are 
+  paintings of people long dead, but you can not make out what they
+  once looked like.  Cautiously you continue down the hallway praying 
+  there is something that can help you.{bla}
+
+~
+356 9 0
+D0
+~
+~
+0 -1 35613
+D2
+~
+~
+0 -1 35610
+Z5
+C1
+R0
+S
+#35613
+{BO,B}Entrance to the Kitchen{bo,b}~
+
+
+  {BLA}At the end of the hallway you bump into a door that leads
+  into the kitchen. There is a giant sky light on the roof 
+  that is reflecting the lightning to give you a visual of
+  the room. The counters and cupboards are covered in cobwebs
+  and dust. It's obvious that this place has not been used 
+  in years.{bla}
+
+~
+356 13 0
+D0
+~
+~
+0 -1 35614
+D1
+~
+door~
+3 -1 35633
+D2
+~
+~
+0 -1 35612
+D3
+~
+door~
+3 -1 35634
+Z5
+C1
+R0
+S
+#35614
+{BO,R}Kitchen{bo,r}~
+
+
+  {BLA}You are standing in a drab, messy kitchen. Whoever was here last
+  did not clean up after themselves. There are dishes with decayed
+  food piled all over the place. Dirt and dust bunnies cover the
+  corners of the cabinets.  You would really hate to be the one to
+  clean up this mess.{bla}
+
+~
+356 13 0
+D2
+~
+~
+0 -1 35613
+D3
+~
+~
+0 -1 35615
+Z5
+C1
+R0
+S
+#35615
+{BO,R}Kitchen{bo,r}~
+
+
+  {BLA}There is a carved oak dining table that runs the length of
+  the room. From what you can see through the dust the table 
+  has been set for a very large dinner party.  Expensive china
+  and silverware marks each place setting.  You lean forward 
+  to get a better look and out jumps a rat almost hitting you
+  in the face. The room is full of rats.  The floor is a 
+  slithering mass of rodent bodies.{bla}
+
+~
+356 9 0
+D1
+~
+~
+0 -1 35614
+D3
+~
+~
+0 -1 35616
+Z5
+C1
+R0
+S
+#35616
+{BO,R}Kitchen{bo,r}~
+
+
+  {BLA}After forcing your way through the unrelenting rats, you have 
+  made it to the far side of the kitchen.  To the north is a 
+  pantry and to the west is a door leading outside.{bla}
+
+~
+356 13 0
+D0
+~
+pantry~
+1 -1 35617
+D1
+~
+~
+0 -1 35615
+D3
+~
+door~
+2 35607 35618
+Z5
+C1
+R0
+S
+#35617
+{BO,R}Pantry{bo,r}~
+
+
+  {BLA}You walk into what was once the kitchen pantry.  It's a small 
+  room with dusty broken shelving.  Sitting on the few shelves 
+  that are not broken are a few rusty cans and moldy boxes.  As 
+  you look around a gigantic rat emerges out of the corner.  He's
+  walking on his hind legs and is almost as tall as you.  Suddenly
+  the rat starts hissing and you see fangs, before you can react
+  he darts at you trying to take a chunk out of you.{bla}
+
+~
+356 9 0
+D2
+~
+pantry~
+1 -1 35616
+Z5
+C1
+R0
+S
+#35618
+{BO,B}Back Porch{bo,b}~
+
+
+  {BLA}You feel the mist of the storm as you step onto the back
+  porch. As lightning flashes you see stairs leading down
+  into the courtyard. Surrounding the yard is a high 
+  ancient wall covered in vines. There is a marble 
+  fountain set in the center of the courtyard. Surprisingly
+  enough the yard has not been over run by weeds, maybe
+  there is a caretaker still keeping the grounds.{bla}
+
+~
+356 9 8
+D1
+~
+door~
+1 -1 35616
+D3
+~
+~
+0 -1 35619
+Z5
+C1
+R0
+S
+#35619
+{BO,B}Courtyard{bo,b}~
+
+
+  {BLA}Something pulls at you to take a look around the grounds.  You
+  step off the bottom step onto the wet grass and feel a shiver run
+  up your spine.  There is still a drizzle of rain and you can see 
+  lightning and hear distant thunder.  But anything has to be better
+  than the rats in the kitchen.  Somewhere ahead you see a white
+  marble fountain.  It's beauty is too much for words.  The fountain
+  emanates an eerie glow that tugs at your soul and pulls you closer.{bla}
+
+~
+356 33793 0
+D0
+~
+~
+0 -1 35620
+D1
+~
+~
+0 -1 35627
+D2
+~
+~
+0 -1 35625
+D3
+~
+~
+0 -1 35622
+Z4
+C1
+R0
+S
+#35620
+{BO,B}Courtyard{bo,b}~
+
+
+  {BLA}Distractedly you wander around the courtyard but you don't
+  seem to be getting anywhere.  For every step forward the 
+  glow of the fountain seems to be father away.  It is as if
+  you were taking two steps backward.  Just when you though 
+  it could not get any worse you hear a vicious growl and 
+  feel hot breath on the back of your legs.  Turning you see
+  two dogs that look like they have been beat with a hot iron.
+  This night just keeps getting better and better. {bla}
+
+~
+356 34049 0
+D0
+~
+~
+0 -1 35627
+D1
+~
+~
+0 -1 35621
+D2
+~
+~
+0 -1 35619
+D3
+~
+~
+0 -1 35622
+T35619
+Z4
+C1
+R0
+S
+#35621
+{BO,B}Courtyard{bo,b}~
+
+
+  {BLA}Distractedly you wander around the courtyard but you don't
+  seem to be getting anywhere.  For every step forward the 
+  glow of the fountain seems to be father away.  It is as if
+  you were taking two steps backward.  Just when you though 
+  it could not get any worse you hear a vicious growl and 
+  feel hot breath on the back of your legs.  Turning you see
+  two dogs that look like they have been beat with a hot iron.
+  This night just keeps getting better and better. {bla}
+
+~
+356 34049 0
+D0
+~
+~
+0 -1 35627
+D1
+~
+~
+0 -1 35619
+D2
+~
+~
+0 -1 35619
+D3
+~
+~
+0 -1 35624
+T35619
+Z4
+C1
+R0
+S
+#35622
+{BO,B}Courtyard{bo,b}~
+
+
+  {BLA}Distractedly you wander around the courtyard but you don't
+  seem to be getting anywhere.  For every step forward the 
+  glow of the fountain seems to be father away.  It is as if
+  you were taking two steps backward.  Just when you though 
+  it could not get any worse you hear a vicious growl and 
+  feel hot breath on the back of your legs.  Turning you see
+  two dogs that look like they have been beat with a hot iron.
+  This night just keeps getting better and better. {bla}
+
+~
+356 1281 8
+D0
+~
+~
+0 -1 35619
+D1
+~
+~
+0 -1 35619
+D2
+~
+~
+0 -1 35619
+D3
+~
+~
+0 -1 35619
+T35619
+Z4
+C1
+R0
+S
+#35623
+{BO,B}Courtyard{bo,b}~
+
+
+  {BLA}Distractedly you wander around the courtyard but you don't
+  seem to be getting anywhere.  For every step forward the 
+  glow of the fountain seems to be father away.  It is as if
+  you were taking two steps backward.  Just when you though 
+  it could not get any worse you hear a vicious growl and 
+  feel hot breath on the back of your legs.  Turning you see
+  two dogs that look like they have been beat with a hot iron.
+  This night just keeps getting better and better. {bla}
+
+~
+356 1281 8
+D0
+~
+~
+0 -1 35625
+D1
+~
+~
+0 -1 35626
+D2
+~
+~
+0 -1 35628
+D3
+~
+~
+0 -1 35622
+T35619
+Z4
+C1
+R0
+S
+#35624
+{BO,B}Courtyard{bo,b}~
+
+
+    {BLA}         |\___/|
+            ({BO,R},{BLA}\  /{BO,R},{BLA})\
+            /     /  \
+           (@_^_@)/   \
+            W//W_/     \
+         {R}(//){BLA} |        \
+        {R}(/ /){BLA} _|_ /   )  \   {BO,R}You Are Dead!
+      {R}(// /){BLA} '/,_ _ _/  (^-.
+    {R}(( // )){BLA} ,-{        _    `.
+   {R}(( /// )){BLA}  '/\      /      |
+   {R}(( ///)){BLA}     `.   {       }
+    {R}((/ )){BLA}    .-----.\   \-'
+             ///.----..>   \
+              ///-._ _  _ _}
+
+~
+356 3 8
+M51
+Z3
+C1
+R0
+S
+#35625
+{BO,B}Courtyard{bo,b}~
+
+
+  {BLA}Distractedly you wander around the courtyard but you don't
+  seem to be getting anywhere.  For every step forward the 
+  glow of the fountain seems to be father away.  It is as if
+  you were taking two steps backward.  Just when you though 
+  it could not get any worse you hear a vicious growl and 
+  feel hot breath on the back of your legs.  Turning you see
+  two dogs that look like they have been beat with a hot iron.
+  This night just keeps getting better and better.{bla} 
+
+~
+356 1281 8
+D0
+~
+~
+0 -1 35622
+D1
+~
+~
+0 -1 35626
+D2
+~
+~
+0 -1 35619
+D3
+~
+~
+0 -1 35626
+T35619
+Z4
+C1
+R0
+S
+#35626
+{BO,B}Courtyard{bo,b}~
+
+
+  {BLA}Distractedly you wander around the courtyard but you don't
+  seem to be getting anywhere.  For every step forward the 
+  glow of the fountain seems to be father away.  It is as if
+  you were taking two steps backward.  Just when you though 
+  it could not get any worse you hear a vicious growl and 
+  feel hot breath on the back of your legs.  Turning you see
+  two dogs that look like they have been beat with a hot iron.
+  This night just keeps getting better and better.{bla} 
+
+~
+356 1281 8
+D0
+~
+~
+0 -1 35619
+D1
+~
+~
+0 -1 35625
+D2
+~
+~
+0 -1 35622
+D3
+~
+~
+0 -1 35624
+T35619
+Z4
+C1
+R0
+S
+#35627
+{BO,B}Courtyard{bo,b}~
+
+
+  {BLA}Distractedly you wander around the courtyard but you don't
+  seem to be getting anywhere.  For every step forward the 
+  glow of the fountain seems to be father away.  It is as if
+  you were taking two steps backward.  Just when you though 
+  it could not get any worse you hear a vicious growl and 
+  feel hot breath on the back of your legs.  Turning you see
+  two dogs that look like they have been beat with a hot iron.
+  This night just keeps getting better and better.{bla} 
+
+~
+356 1281 8
+D0
+~
+~
+0 -1 35625
+D1
+~
+~
+0 -1 35623
+D2
+~
+~
+0 -1 35624
+D3
+~
+~
+0 -1 35622
+T35619
+Z4
+C1
+R0
+S
+#35628
+{BO,W}Fountain{bo,w}~
+
+
+  {BLA}Finally you've reached your destination. The water is 
+  crystal clear and pure as a mountain spring. As you 
+  reach your hands in to take a drink you feel something 
+  sharp and painful.  You pull your hands back only to 
+  find that one of your fingers has nearly been bitten 
+  off at the first knuckle.  Then you notice several 
+  small fish swimming around in the water. One of the 
+  fish jumps above the surface of the water, was he 
+  grinning at you?  He opens his mouth and you cringe at
+  his pearly white razor sharp teeth.  No way in hell are
+  you going to let the little devil get away with that.
+  You are ready to dive in after him.{bla}
+
+~
+356 1 1
+Z4
+C1
+R0
+S
+#35629
+{BO,W}In the Fountain{bo,w}~
+
+
+  {BO,BLA}After splashing into the fountain with the little bugger you 
+  realize he was not alone. Nothing else has gone right so far, why
+  should this be any different. You slash around at the first few
+  as one ambushes you from behind taking a chunk from your ear. Ok
+  now your pissed and you lash out taking two of them down. Now just
+  seven more left and you are out for vengeance. Time to kick some
+  fishy ass!{bo,bla}
+
+~
+356 0 7
+Z4
+C1
+R0
+S
+#35630
+{BO,B}The Library{bo,b}~
+
+
+  {BLA}Entering the library you see a hall that seems to be never
+  ending, covered on both sides by shelves that run floor to 
+  ceiling.  It is obvious these books have not been read for some
+  time as they have an inch of dust on them.  Cautiously you walk
+  a few paces into the room.  Suddenly there is a woosh of air behind
+  you and you turn only to have dust thrown into your eyes.  Something
+  strange is in the midst.   Rubbing the dust out of your eyes you 
+  continue into the room.  Just as your vision clears you are assaulted
+  by books launching themselves from the shelves and flying all over
+  the room.{bla}
+
+~
+356 13 8
+D1
+~
+~
+0 -1 35631
+D3
+~
+door~
+1 -1 35604
+Z5
+C1
+R0
+S
+#35631
+{BO,B}Inner Library{bo,b}~
+
+
+  {BLA}Farther down the long hallway you find more of these weird books.
+  As one flies by your head you see fangs hanging out of the binding.
+  This house just keeps getting stranger by the minute, rabid rats, 
+  mangy dogs, and piranhas. You keep wondering what's next....wait 
+  maybe you really do not want know.{bla}
+
+~
+356 8 8
+D1
+~
+~
+0 -1 35632
+D3
+~
+~
+0 -1 35630
+Z5
+C1
+R0
+S
+#35632
+{BO,C}Library End{bo,c}~
+
+
+  {BLA}You have come to the end of a long hall. There is a tall shelf in
+  front of you lined with books. Reading time is now over.  It is
+  time to show the books who the man is. You raise your sword high
+  to slash down the remaining books. As your sword arcs down, the 
+  complete works of Edgar Allen Poe jump out and hits you in the ribs.
+  This is not going to be light reading.{bla}
+
+~
+356 8 8
+D3
+~
+~
+0 -1 35631
+Z5
+C1
+R0
+S
+#35633
+{BO,R}Maids Quarters{bo,r}~
+
+
+  {BLA}After carefully searching a suspicious looking shelf you found
+  a sealed entrance.  You are now standing in the maids chamber 
+  Whoever sealed this up didn't plan on anyone finding it or 
+  escaping from the inside.  Suddenly a zombie like creature in
+  a maid's uniform grabs you by the throat. This can't be good.{bla}
+
+~
+356 8 8
+D3
+~
+door~
+1 -1 35613
+Z5
+C1
+R0
+S
+#35634
+{BO,R}Butlers Chambers{bo,r}~
+
+
+  {BLA}Great, as if the zombie maid wasn't enough. Here comes
+  the butler. And believe it or not he looks worse than the
+  maid did. Instead of attacking you he pulls out a potion
+  and tries to sell it to you. What a strange house this is.{bla}
+
+~
+356 8193 8
+D1
+~
+door~
+1 -1 35613
+Z-1
+C1
+R0
+S
+#35635
+{BO,R}Stairs{bo,r}~
+
+
+  {BLA}Climbing the stairs toward the second floor you are attacked
+  by a swarm of bats that swoop down at your head. They are pesky
+  little creatures but with luck you will not get bit.  Once,
+  you saw a documentary on TV about how they treat rabies and it
+  does not look appealing.{bla}
+
+~
+356 9 8
+D4
+~
+~
+0 -1 35636
+D5
+~
+~
+0 -1 35609
+Z5
+C1
+R0
+S
+#35636
+{BO,R}Top of Stairs{bo,r}~
+
+
+  {BLA}After fighting your way through the swarms of bats you finally
+  make it to the second floor. The hallway stretches east and west
+  into the darkness. You see one door on each side of the hall
+  and wonder what else could be here.{bla}
+
+~
+356 0 1
+D1
+~
+~
+0 -1 35637
+D3
+~
+~
+0 -1 35643
+D5
+~
+~
+0 -1 35635
+Z5
+C1
+R0
+S
+#35637
+{BO,C}East Hall{bo}~
+
+
+  {BO,R}You feel plush expensive carpet give under you as you step into
+  the east hallway. The walls are lined with dark paneling and 
+  once again covered in cobwebs. Old paintings line each side of 
+  the hall. Each one depict a soul more disturbed than the one 
+  before. With each step you take you feel the eyes of these long
+  dead people following you.{bo,r}
+
+~
+356 9 8
+D1
+~
+~
+0 -1 35638
+D3
+~
+~
+0 -1 35636
+Z5
+C1
+R0
+S
+#35638
+{BO,CYAN}East Hall{bo,cyan}~
+
+
+  {BO,R}You feel plush expensive carpet give under you as you step into
+  the east hallway. The walls are lined with dark paneling and 
+  once again covered in cobwebs. Old paintings line each side of 
+  the hall. Each one depict a soul more disturbed than the one 
+  before. With each step you take you feel the eyes of these long
+  dead people following you.{bo,r}
+
+~
+356 9 1
+D1
+~
+~
+0 -1 35639
+D3
+~
+~
+0 -1 35637
+Z5
+C1
+R0
+S
+#35639
+{BO,CYAN}East Hall{bo,cyan}~
+
+
+  {BO,R}You feel plush expensive carpet give under you as you step into
+  the east hallway. The walls are lined with dark paneling and 
+  once again covered in cobwebs. Old paintings line each side of 
+  the hall. Each one depict a soul more disturbed than the one 
+  before. With each step you take you feel the eyes of these long
+  dead people following you.{bo,r}
+
+~
+356 9 1
+D0
+~
+door~
+1 -1 35642
+D3
+~
+~
+0 -1 35638
+Z5
+C1
+R0
+S
+#35640
+{BO,W}A Bedroom{bo}~
+You are standing in nowhere !!!!
+~
+356 9 0
+Z5
+C1
+R0
+S
+#35641
+{BO,W}A Bedroom{bo}~
+You are standing in nowhere !!!!
+~
+356 9 0
+Z5
+C1
+R0
+S
+#35642
+{BO,B}The Study{bo}~
+
+
+  {R}You have entered the study, which is now eerily quiet.
+  Books lie piled up on a desk in front of you, covered
+  in dust and cobwebs. A small typewriter in the corner
+  of the room draws your attention. A broken typewriter
+  key sticks out and you can tell that the typewriter has
+  not been used in a long, long time. A red substance,
+  seemingly blood, stains the typewriter.{r}
+
+~
+356 9 0
+D2
+~
+door~
+1 -1 35639
+Z5
+C1
+R0
+S
+#35643
+{BO,B}West Hall{bo}~
+
+
+  {BO,R}Torches light the western hall, the flames
+  flickering and dancing even in the absence
+  of a breeze. Though the corridor is well lit,
+  the darkness expands and all you can see is
+  the place where you are standing. As you walk
+  farther down the hall the light follows you.{bo,r}
+
+~
+356 9 0
+D1
+~
+~
+0 -1 35636
+D3
+~
+~
+0 -1 35644
+Z5
+C1
+R0
+S
+#35644
+{BO,B}West Hall{bo}~
+
+
+  {BO,R}Torches light the western hall, the flames
+  flickering and dancing even in the absence
+  of a breeze. Though the corridor is well lit,
+  the darkness expands and all you can see is
+  the place where you are standing. As you walk
+  farther down the hall the light follows you.{bo,r}
+
+~
+356 9 0
+D1
+~
+~
+0 -1 35643
+D3
+~
+~
+0 -1 35645
+Z5
+C1
+R0
+S
+#35645
+{BO,B}West Hall{bo}~
+
+
+  {BO,R}Torches light the western hall, the flames
+  flickering and dancing even in the absence
+  of a breeze. Though the corridor is well lit,
+  the darkness expands and all you can see is
+  the place where you are standing. As you walk
+  farther down the hall the light follows you.{bo,r}
+
+~
+356 9 0
+D0
+~
+door~
+2 35606 35648
+D1
+~
+~
+0 -1 35644
+Z5
+C1
+R0
+S
+#35646
+{W}A Guest Room{bo}~
+You are standing in nowhere !!!!
+~
+356 9 0
+Z5
+C1
+R0
+S
+#35647
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+356 11 0
+D2
+~
+~
+0 -1 35644
+Z-1
+C1
+R0
+S
+#35648
+{BO,W}The Master Bedroom{bo}~
+
+
+  {R}This room seems to be fit for a king. A large bed
+  sits in the middle of the room, warm and inviting.
+  You contemplate taking a nap but then it dawns on
+  you: who would possibly sleep on such a huge bed?
+  You can only imagine the monstrous being that might
+  lie down on this mattress every night...if they even
+  sleep at all during the night, that is.{r}
+
+~
+356 9 0
+D2
+~
+door~
+1 -1 35645
+Z5
+C1
+R0
+S
+#35649
+{BO,BLA}Basement{bo,bla}~
+
+
+  {BO,BLA}You are walking through a very damp and dark basement.
+  It does not look like anyone has been here in years. 
+  There is furniture stacked up on both sides of the room.
+  Other odds and ends are lying about while you are trying
+  to walk. You step forward and hear a loud SQUEAK! You 
+  look down and several large rats are crawling up your leg
+  biting as they move along.{bo,bla}
+
+~
+356 279561 1
+D3
+~
+door~
+1 -1 35650
+D4
+~
+trapdoor~
+1 -1 35611
+Z0
+C1
+R0
+S
+#35650
+{BO,BLA}Basement{bo,bla}~
+
+
+  {BO,BLA}You are walking through a very damp and dark basement.
+  It does not look like anyone has been here in years. 
+  There is furniture stacked up on both sides of the room.
+  Other odds and ends are lying about while you are trying
+  to walk. You step forward and hear a loud SQUEAK! You 
+  look down and several large rats are crawling up your leg
+  biting as they move along.{bo,bla}
+
+~
+356 279561 1
+D1
+~
+door~
+1 -1 35649
+D3
+~
+chamber~
+2 35609 35651
+Z0
+C1
+R0
+S
+#35651
+{BO,BLA}Tha Masters Chambers{bo,bla}~
+
+
+  {BO,R}You have entered the Vampire Master's sleep chamber. 
+  It is covered in red Velvet and looks like every chamber 
+  you have seen in every cliche Vampire movie. Right 
+  down to the coffin in the middle of the room. I am sure
+  he will not be too happy if you wake him up, especially
+  when he sees the stake in your hands.{bo,r}
+
+~
+356 16413 1
+D1
+~
+chamber~
+4 -1 35650
+Z0
+C1
+R0
+S
+#35652
+{W}Through the graveyard{w}~
+
+   {W}In the distance you hear the sound of motorcycles
+   rumbling. You look up and in the distance
+   toward town you see fire and smoke coming from
+   downtown Sunnydale. You run toward the source.{w}
+
+~
+356 0 1
+D0
+~
+~
+0 -1 35653
+Z0
+C-1
+R0
+S
+#35653
+Outskirts of town~
+
+   {W}As you arrive to at the edge of town the rumble of 
+   motorcycles becomes almost deafening. You see
+   demons all around some riding and others pilaging
+   the store looking for anything then can find. You
+   see several police cars turned over and on fire. 
+   Total chaos! As you start to go forward one of the
+   demons blocks your way. {w}
+
+~
+356 0 1
+D0
+~
+~
+0 -1 35654
+D2
+~
+~
+0 -1 35652
+Z0
+C-1
+R0
+S
+#35654
+{W}Downtown Sunnydale{w}~
+
+   {W}Here you stand in the middle of downtown Sunnydale
+   and all around you are gang members. All around
+   you you see parts of what used to be the buffy bot.
+   Looks like she did not make it will you? They start 
+   to form a circle around you and start attacking. {w}
+
+~
+356 0 1
+D1
+~
+~
+0 -1 35655
+D2
+~
+~
+0 -1 35653
+Z0
+C-1
+R0
+S
+#35655
+{W}An Alley Way{w}~
+
+   {W}You enter a small alley and are immediatly jumped
+   by a demon. Another jumps in behind you blocking
+   your way. Looks like your only option is to fight.
+   But the alley is very narrow making it hard to 
+   manuever. If you can get past them the alley opens
+   up into a wide area. {w}
+
+~
+356 0 1
+D1
+~
+~
+0 -1 35656
+D3
+~
+~
+0 -1 35654
+Z0
+C2
+R0
+S
+#35656
+{W}Back of the Alley{w}~
+
+   Here in the back of the alley you see the leader
+   of the gang and a couple of his thugs attacking
+   some innocent people. You run up to him and punch
+   the leader right in the back of the head. He turns
+   and laughs at your pathetic attempt to hurt him. 
+
+~
+356 0 1
+D3
+~
+~
+0 -1 35655
+Z0
+C-1
+R0
+S
+#35657
+{BO}{R}Buffy's House{bo}{r}~
+
+   After all the stress of being dead and coming
+   back to life then digging your way out of your 
+   grave you come home for some rest. But as you 
+   get home everything seems to start going wrong. 
+   It seems you have brought something back with 
+   you and the only way for it to live is to kill
+   you. This will be easier said then done you hope.
+
+~
+356 0 1
+D0
+~
+~
+0 -1 35658
+Z0
+C-1
+R0
+S
+#35658
+{BO}{R}Inside the house{bo}{r}~
+
+   You are now in the foyer of Buffy's house to
+   the north you see the kitchen and there are 
+   also some stairs leading up. To the right is
+   the living room. As you step forward you are
+   attacked by some mist form.
+
+~
+356 0 1
+D0
+~
+~
+0 -1 35659
+D2
+~
+~
+0 -1 35657
+D3
+~
+~
+0 -1 35660
+D4
+~
+~
+0 -1 35661
+Z0
+C-1
+R0
+S
+#35659
+{BO}{R}Kitchen{bo}{r}~
+
+Here inside the kitchen you see all the
+tools of the trade. As you look around 
+you see one of the draws partially opened
+you wonder what could be inside.
+
+~
+356 0 1
+D2
+~
+~
+0 -1 35658
+Z0
+C-1
+R0
+S
+#35660
+{BO}{R}Living Room{bo}{r}~
+
+   You are inside the living room. There is plenty
+   of furniture here. As you look around the room 
+   you see it looks quite cozy. You could curl up 
+   on the couch and sleep for hours if this stupid 
+   mist monster would just die already.
+
+~
+356 0 1
+D1
+~
+~
+0 -1 35658
+Z0
+C-1
+R0
+S
+#35661
+{BO}{R}Stairs{bo}{r}~
+
+   You are heading up the stairs to the second floor.
+   One of the steps creak loudly on your way up. Just
+   as you reach the top landing the mist comes out of 
+   the wall and hits you causing you to stumble
+   halfway back down the stairs until you recover your
+   balance. 
+
+~
+356 0 1
+D4
+~
+~
+0 -1 35662
+D5
+~
+~
+0 -1 35658
+Z0
+C-1
+R0
+S
+#35662
+{BO}{R}Upstairs Hall{bo}{r}~
+
+   Finally make it to the top of the stairs. You 
+   look around and see three bedrooms up here to
+   the east you see Buffy's bedroom, right in front
+   of you is Dawn's bedroom and to the west is 
+   Willow and Terra's bedroom. So which of these
+   girls bedrooms will you hit first. So many 
+   choices so little time. 
+
+~
+356 0 1
+D5
+~
+~
+0 -1 35661
+Z0
+C-1
+R0
+S
+$~

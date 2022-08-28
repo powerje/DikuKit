@@ -1,0 +1,587 @@
+#33100
+{W,BO}Room of Immortal Contemplation{w,bo}~
+{BO}
+  This small room is has been dedicated to giving the immortal protecters
+  of {bo}{R}*{r}{W,BO}SU{w,bo}{R}*{r}{BO} a place to discuss the best techniques in teaching and aiding
+  the new players of NC.
+
+  This is a place where the elder members of all clubs can come together
+  for the common purpose of making NC a more newbie friendly mud.
+{bo}
+~
+331 8 0
+D2
+~
+~
+0 -1 33101
+M51
+Z-1
+C-1
+S
+#33101
+{W,BO}Haven of the {w,bo}{R}*{R}{W,BO}SU{w,bo}{R}*{r}~
+~
+331 8 0
+D0
+~
+~
+0 -1 33100
+D3
+~
+~
+0 -1 33113
+D4
+~
+~
+0 -1 33103
+D5
+~
+~
+0 -1 33102
+Z-1
+C-1
+S
+#33102
+{R}*{r}{W,BO}SU{w,bo}{R}*{r} {W,BO}Portal Room{w,bo}~
+~
+331 8 0
+D1
+~
+~
+0 -1 3053
+D2
+~
+~
+0 -1 3156
+D3
+~
+~
+0 -1 3052
+D4
+~
+~
+0 -1 33101
+D5
+~
+~
+0 -1 3036
+Z-1
+C-1
+S
+#33103
+{R}*{r}{W,BO}SU{w,bo}{R}*{r} {W,BO}Sitting Room{w,bo}~
+~
+331 8 0
+D0
+~
+~
+0 -1 33104
+D1
+~
+~
+0 -1 33105
+D2
+~
+~
+0 -1 33107
+D3
+~
+~
+0 -1 33106
+D4
+~
+~
+0 -1 33114
+D5
+~
+~
+0 -1 33101
+Z-1
+C-1
+S
+#33104
+{W,BO}The Blacksmith{w,bo}~
+~
+331 8 0
+D0
+~
+~
+0 -1 33108
+D2
+~
+~
+0 -1 33103
+Z-1
+C-1
+S
+#33105
+{W,BO}The Hibernation Chamber{w,bo}~
+~
+331 8 1
+D3
+~
+~
+0 -1 33103
+D4
+~
+~
+0 -1 33116
+Z-1
+C-1
+S
+#33106
+{Y,BO}The Golden Hall of Rules{y,bo}~
+~
+331 8 0
+D1
+~
+~
+0 -1 33103
+D3
+~
+~
+0 -1 33112
+Z-1
+C-1
+S
+#33107
+{Y,BO}The{y,bo} {R}*{r}{W,BO}SU{w,bo}{R}*{r} {Y,BO}Cafe{y,bo}~
+~
+331 8 0
+D0
+~
+~
+0 -1 33103
+Z-1
+C-1
+S
+#33108
+{W,BO}The Map Room{w,bo}~
+~
+331 8 0
+D0
+~
+~
+0 -1 33109
+D1
+~
+~
+0 -1 33110
+D2
+~
+~
+0 -1 33104
+D3
+~
+~
+0 -1 33111
+Z-1
+C-1
+S
+#33109
+{W,BO}The{w,bo} {R}*{r}{W,BO}SU{w,bo}{R}*{r} {W,BO}Donation Room{w,bo}~
+~
+331 65544 0
+D2
+~
+~
+0 -1 33108
+Z-1
+C-1
+S
+#33110
+{W,BO}Levelling Directions{w,bo}~
+~
+331 8 0
+D3
+~
+~
+0 -1 33108
+Z-1
+C-1
+S
+#33111
+{R,BO}Zoning{r,bo}{W,BO} Room{w,bo}~
+~
+331 8 0
+D1
+~
+~
+0 -1 33108
+Z-1
+C-1
+S
+#33112
+{W,BO}The{w,bo} {R}*{r}{W,BO}SU{w,bo}{R}*{r} {W,BO}Message Center{w,bo}~
+~
+331 16392 0
+D1
+~
+~
+0 -1 33106
+D2
+~
+~
+0 -1 33113
+D5
+~
+~
+0 -1 33102
+Z-1
+C-1
+S
+#33113
+{W,BO}The {w,bo}{BLU,BO}Post-{blu,bo}{W,BO}Office{w,bo}~
+~
+331 16392 0
+D0
+~
+~
+0 -1 33112
+D1
+~
+~
+0 -1 33101
+Z-1
+C-1
+S
+#33114
+{g}{BO}A Dark Hallway{bo}~
+~
+331 8 0
+D1
+~
+~
+0 -1 33115
+D5
+~
+~
+0 -1 33103
+Z-1
+C-1
+S
+#33115
+{W,BO}The Dorms{w,bo}~
+~
+331 8 0
+D0
+~
+door~
+1 -1 33117
+D1
+~
+~
+0 -1 33116
+D2
+~
+door~
+1 -1 33118
+D3
+~
+~
+0 -1 33114
+Z-1
+C-1
+S
+#33116
+{W,BO}The Dorms{w,bo}~
+~
+331 8 0
+D0
+~
+door~
+1 -1 33119
+D2
+~
+door~
+1 -1 33120
+D3
+~
+~
+0 -1 33115
+D5
+~
+~
+0 -1 33105
+Z-1
+C-1
+S
+#33117
+{W,BO}A Small Room{w,bo}~
+~
+331 8 0
+D2
+~
+door~
+1 -1 33115
+Z-1
+C-1
+S
+#33118
+{W,BO}A Small Room{w,bo}~
+~
+331 8 0
+D0
+~
+door~
+1 -1 33115
+Z-1
+C-1
+S
+#33119
+{W,BO}A Small Room{w,bo}~
+~
+331 8 0
+D2
+~
+door~
+1 -1 33116
+Z-1
+C-1
+S
+#33120
+{W,BO}A Small Room{w,bo}~
+~
+331 8 0
+D0
+~
+door~
+1 -1 33116
+Z-1
+C-1
+S
+#33174
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+331 262144 1
+Z0
+C-1
+S
+#33175
+{R}*{BLU}SU{R}*{r}~
+~
+331 0 1
+D0
+~
+~
+0 -1 33176
+D2
+~
+~
+0 -1 33176
+Z0
+C-1
+S
+#33176
+{BO}{R}Endless Maze{r}{bo}~
+
+You have managed to gain entrance to club {R}*{BLU}SU{R}*{GR} and thier Forgotten maze
+which has now become unforgotten.  Please don't kill us, we are just learning.
+
+~
+331 262144 1
+D0
+~
+~
+0 -1 33175
+D2
+~
+~
+0 -1 33175
+D3
+~
+~
+0 -1 33177
+Z0
+C-1
+S
+#33177
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+331 262144 1
+D1
+~
+~
+0 -1 33176
+Z0
+C-1
+S
+#33178
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+331 262144 1
+Z0
+C-1
+S
+#33179
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+331 262144 1
+Z0
+C-1
+S
+#33180
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+331 262144 1
+Z0
+C-1
+S
+#33181
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+331 262144 1
+Z0
+C-1
+S
+#33182
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+331 262144 1
+Z0
+C-1
+S
+#33183
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+331 262144 1
+Z0
+C-1
+S
+#33184
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+331 262144 1
+Z0
+C-1
+S
+#33185
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+331 262144 1
+Z0
+C-1
+S
+#33186
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+331 262144 1
+Z0
+C-1
+S
+#33187
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+331 262144 1
+Z0
+C-1
+S
+#33188
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+331 262144 1
+Z0
+C-1
+S
+#33189
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+331 262144 1
+Z0
+C-1
+S
+#33190
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+331 262144 1
+Z0
+C-1
+S
+#33191
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+331 262144 1
+Z0
+C-1
+S
+#33192
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+331 262144 1
+Z0
+C-1
+S
+#33193
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+331 262144 1
+Z0
+C-1
+S
+#33194
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+331 262144 1
+Z0
+C-1
+S
+#33195
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+331 262144 1
+Z0
+C-1
+S
+#33196
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+331 262144 1
+Z0
+C-1
+S
+#33197
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+331 262144 1
+Z0
+C-1
+S
+#33198
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+331 262144 1
+Z0
+C-1
+S
+#33199
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+331 0 1
+Z0
+C-1
+S
+$~

@@ -1,0 +1,174 @@
+#376
+OSCORP Building(Danger)~
+37699 720 2
+*
+X 10176
+M 0 37600    10 37602    {BOLD}An Oscorp guard{bold}
+M 0 37600    10 37605    {BOLD}An Oscorp guard{bold}
+M 0 37600    10 37606    {BOLD}An Oscorp guard{bold}
+M 0 37600    10 37609    {BOLD}An Oscorp guard{bold}
+M 0 37600    10 37612    {BOLD}An Oscorp guard{bold}
+M 0 37600    10 37613    {BOLD}An Oscorp guard{bold}
+M 0 37601     1 37614    {BOLD}The Oscorp Receptionist{bold}
+G 1 37603     1     0    OSCORP Receptionist Key
+D 0 37614     5     2    (D:LOCKED) Lobby at OSCORP Corporate Office
+M 0 37600    10 37617    {BOLD}An Oscorp guard{bold}
+M 0 37600    10 37618    {BOLD}An Oscorp guard{bold}
+M 0 37600    10 37618    {BOLD}An Oscorp guard{bold}
+M 0 37600    10 37618    {BOLD}An Oscorp guard{bold}
+M 0 37604     2 37619    {BOLD}An Elite guard{bold}
+M 0 37604     2 37619    {BOLD}An Elite guard{bold}
+G 1 37604     1     0    {B,R}OSCORP Level 1 Keycard{b,r}
+D 0 37619     4     2    (U:LOCKED) Lobby at OSCORP Corporate Office
+D 0 37620     4     1    (U:CLOSED) Mail Room at OSCORP - Basement
+M 0 37602    12 37622    {BOLD}A mail clerk{bold}
+M 0 37602    12 37622    {BOLD}A mail clerk{bold}
+M 0 37602    12 37622    {BOLD}A mail clerk{bold}
+M 0 37602    12 37623    {BOLD}A mail clerk{bold}
+M 0 37602    12 37623    {BOLD}A mail clerk{bold}
+M 0 37602    12 37624    {BOLD}A mail clerk{bold}
+M 0 37602    12 37624    {BOLD}A mail clerk{bold}
+M 0 37602    12 37625    {BOLD}A mail clerk{bold}
+M 0 37602    12 37626    {BOLD}A mail clerk{bold}
+M 0 37602    12 37626    {BOLD}A mail clerk{bold}
+M 0 37602    12 37627    {BOLD}A mail clerk{bold}
+M 0 37602    12 37628    {BOLD}A mail clerk{bold}
+M 0 37603     1 37628    {BOLD}The Mail Supervisor{bold}
+G 1 37602     1     0    {B}OSCORP Janitor's Key{b}
+M 0 37605     9 37629    {BOLD}An accountant{bold}
+D 0 37629     5     1    (D:CLOSED) Accounts Payable/Receivable Office at OSCORP - Second Floor
+M 0 37605     9 37635    {BOLD}An accountant{bold}
+M 0 37605     9 37635    {BOLD}An accountant{bold}
+M 0 37605     9 37635    {BOLD}An accountant{bold}
+D 0 37636     1     2    (E:LOCKED) Accounts Payable/Receivable Office at OSCORP - Second Floor
+M 0 37605     9 37637    {BOLD}An accountant{bold}
+M 0 37605     9 37637    {BOLD}An accountant{bold}
+M 0 37605     9 37637    {BOLD}An accountant{bold}
+M 0 37605     9 37637    {BOLD}An accountant{bold}
+M 0 37616     1 37639    {BOLD}The accounting supervisor{bold}
+G 1 37605     1     0    {B,BLUE}OSCORP Level 2 Keycard{b,blue}
+D 0 37639     4     2    (U:LOCKED) Accounts Payable/Receivable Supervisor's Office - Second Floor
+M 0 37605     9 37640    {BOLD}An accountant{bold}
+D 0 37641     5     1    (D:CLOSED) Top of the Building ?!? - Third Floor
+M 0 37607    15 37642    {WHITE}A Pigeon{white}
+M 0 37607    15 37642    {WHITE}A Pigeon{white}
+M 0 37607    15 37643    {WHITE}A Pigeon{white}
+M 0 37607    15 37644    {WHITE}A Pigeon{white}
+M 0 37607    15 37644    {WHITE}A Pigeon{white}
+M 0 37607    15 37644    {WHITE}A Pigeon{white}
+M 0 37607    15 37644    {WHITE}A Pigeon{white}
+M 0 37607    15 37644    {WHITE}A Pigeon{white}
+M 0 37607    15 37646    {WHITE}A Pigeon{white}
+M 0 37607    15 37647    {WHITE}A Pigeon{white}
+M 0 37607    15 37649    {WHITE}A Pigeon{white}
+M 0 37607    15 37650    {WHITE}A Pigeon{white}
+M 0 37607    15 37650    {WHITE}A Pigeon{white}
+D 0 37650     0     2    (N:LOCKED) Top of the Building ?!? - Third Floor
+M 0 37613     1 37651    {BOLD}The Vulture{bold}
+G 1 37606     1     0    {B}{MAG}OSCORP Level 3 Keycard{mag}{b}
+D 0 37651     4     2    (U:LOCKED) Top of the Building ?!? - Third Floor
+M 0 37607    15 37652    {WHITE}A Pigeon{white}
+M 0 37607    15 37652    {WHITE}A Pigeon{white}
+D 0 37653     5     1    (D:CLOSED) Information Technology Department - Fourth Floor
+M 0 37606    12 37655    {BOLD}An IT Guy!{bold}
+M 0 37606    12 37655    {BOLD}An IT Guy!{bold}
+M 0 37606    12 37656    {BOLD}An IT Guy!{bold}
+M 0 37606    12 37657    {BOLD}An IT Guy!{bold}
+M 0 37606    12 37658    {BOLD}An IT Guy!{bold}
+M 0 37606    12 37659    {BOLD}An IT Guy!{bold}
+M 0 37606    12 37660    {BOLD}An IT Guy!{bold}
+M 0 37606    12 37660    {BOLD}An IT Guy!{bold}
+M 0 37606    12 37661    {BOLD}An IT Guy!{bold}
+M 0 37606    12 37662    {BOLD}An IT Guy!{bold}
+M 0 37606    12 37662    {BOLD}An IT Guy!{bold}
+M 0 37606    12 37662    {BOLD}An IT Guy!{bold}
+G 1 37607     1     0    {WH}OSCORP Level 4 Keycard{wh}
+D 0 37663     4     2    (U:LOCKED) Information Technology Department - Fourth Floor
+D 0 37665     5     1    (D:CLOSED) Lab - Fifth Floor
+M 0 37608    13 37666    {BOLD}A Lab technician{bold}
+M 0 37608    13 37667    {BOLD}A Lab technician{bold}
+M 0 37608    13 37667    {BOLD}A Lab technician{bold}
+M 0 37608    13 37668    {BOLD}A Lab technician{bold}
+M 0 37608    13 37669    {BOLD}A Lab technician{bold}
+M 0 37608    13 37670    {BOLD}A Lab technician{bold}
+M 0 37608    13 37670    {BOLD}A Lab technician{bold}
+M 0 37608    13 37671    {BOLD}A Lab technician{bold}
+M 0 37608    13 37671    {BOLD}A Lab technician{bold}
+D 0 37672     1     2    (E:LOCKED) Lab - Fifth Floor
+M 0 37614     1 37674    {BOLD}The Lizard{bold}
+E 1 37612     1    12    (ABOUT) {WHITE}OSCORP Standard issue labcoat{white}
+G 1 37608     1     0    {B,YELLOW}OSCORP Keycard Access Level Five{b,yellow}
+D 0 37674     4     2    (U:LOCKED) Dr. Curt Connors' Office
+M 0 37608    13 37675    {BOLD}A Lab technician{bold}
+M 0 37608    13 37675    {BOLD}A Lab technician{bold}
+M 0 37608    13 37675    {BOLD}A Lab technician{bold}
+M 0 37608    13 37676    {BOLD}A Lab technician{bold}
+D 0 37677     5     1    (D:CLOSED) Executive Office - Sixth Floor.
+M 0 37609    14 37678    {BOLD}An Oscorp Executive{bold}
+M 0 37609    14 37679    {BOLD}An Oscorp Executive{bold}
+M 0 37609    14 37679    {BOLD}An Oscorp Executive{bold}
+M 0 37609    14 37679    {BOLD}An Oscorp Executive{bold}
+M 0 37609    14 37681    {BOLD}An Oscorp Executive{bold}
+M 0 37609    14 37681    {BOLD}An Oscorp Executive{bold}
+M 0 37609    14 37682    {BOLD}An Oscorp Executive{bold}
+M 0 37609    14 37683    {BOLD}An Oscorp Executive{bold}
+M 0 37609    14 37683    {BOLD}An Oscorp Executive{bold}
+M 0 37609    14 37683    {BOLD}An Oscorp Executive{bold}
+M 0 37615     1 37683    {YELLOW}Kraven, the Hunter{yellow}
+E 1 37617     1     8    (FEET) {YELLOW}Savage Boots of the Wilderness{yellow}
+G 1 37601    24     0    {BOLD}Goblin Serum{bold}
+G 1 37601    24     0    {BOLD}Goblin Serum{bold}
+G 1 37601    24     0    {BOLD}Goblin Serum{bold}
+G 1 37601    24     0    {BOLD}Goblin Serum{bold}
+M 0 37609    14 37686    {BOLD}An Oscorp Executive{bold}
+M 0 37612     1 37687    {BOLD}{MAGENTA}Mysterio, Master of Illusion{bold}{magenta}
+E 1 37614     1     6    (HEAD) {BOLD}Helmet of Illusions{bold}
+G 1 37609     1     0    {B,WH}OSCORP Keycard Access Level Six{b,wh}
+G 1 37601    24     0    {BOLD}Goblin Serum{bold}
+G 1 37601    24     0    {BOLD}Goblin Serum{bold}
+D 0 37687     4     2    (U:LOCKED) Quentin Beck - Personal Assistant
+M 0 37609    14 37688    {BOLD}An Oscorp Executive{bold}
+M 0 37609    14 37688    {BOLD}An Oscorp Executive{bold}
+M 0 37609    14 37688    {BOLD}An Oscorp Executive{bold}
+D 0 37689     5     1    (D:CLOSED) Main CEO Office - Top Floor
+M 0 37611     1 37692    {BOLD}The Green Goblin{bold}
+E 1 37610     1     6    (HEAD) Cowl of the Goblin
+E 1 37611     1    17    (HELD) {BOLD}Pumpkin Bomb{bold}
+G 1 37615     9     0    {BOLD}Goblin Serum{bold}
+G 1 37601    24     0    {BOLD}Goblin Serum{bold}
+G 1 37601    24     0    {BOLD}Goblin Serum{bold}
+O 0 37616     1 37692    {WHITE}The Osborn family picture.{white}
+D 0 37692     0     2    (N:LOCKED) Main CEO Office - Top Floor
+D 0 37693     2     2    (S:LOCKED) Secret Passage
+M 0 37610     1 37694    {BOLD}{WHITE}The Kingpin{bold}{white}
+E 1 37613     1    16    (WIELD) {BOLD,WHITE}Cane of the Mob boss{bold,white}
+G 1 37601    24     0    {BOLD}Goblin Serum{bold}
+G 1 37601    24     0    {BOLD}Goblin Serum{bold}
+D 0 37694     1     2    (E:LOCKED) Head Boss's Secret HQ
+O 0 37615     9 37695    {BOLD}Goblin Serum{bold}
+O 0 37615     9 37695    {BOLD}Goblin Serum{bold}
+O 0 37601    24 37695    {BOLD}Goblin Serum{bold}
+O 0 37601    24 37695    {BOLD}Goblin Serum{bold}
+O 0 37601    24 37695    {BOLD}Goblin Serum{bold}
+D 0 37695     3     0    (W:OPEN) Janitor's Closet
+O 0 37615     9 37696    {BOLD}Goblin Serum{bold}
+O 0 37615     9 37696    {BOLD}Goblin Serum{bold}
+O 0 37601    24 37696    {BOLD}Goblin Serum{bold}
+O 0 37601    24 37696    {BOLD}Goblin Serum{bold}
+O 0 37601    24 37696    {BOLD}Goblin Serum{bold}
+D 0 37696     2     0    (S:OPEN) Janitor's Closet
+O 0 37615     9 37697    {BOLD}Goblin Serum{bold}
+O 0 37615     9 37697    {BOLD}Goblin Serum{bold}
+O 0 37601    24 37697    {BOLD}Goblin Serum{bold}
+O 0 37601    24 37697    {BOLD}Goblin Serum{bold}
+O 0 37601    24 37697    {BOLD}Goblin Serum{bold}
+D 0 37697     3     0    (W:OPEN) Janitor's Closet
+O 0 37601    24 37698    {BOLD}Goblin Serum{bold}
+O 0 37601    24 37698    {BOLD}Goblin Serum{bold}
+D 0 37698     3     0    (W:OPEN) Janitor's Closet
+O 0 37615     9 37699    {BOLD}Goblin Serum{bold}
+O 0 37615     9 37699    {BOLD}Goblin Serum{bold}
+O 0 37601    24 37699    {BOLD}Goblin Serum{bold}
+O 0 37601    24 37699    {BOLD}Goblin Serum{bold}
+O 0 37601    24 37699    {BOLD}Goblin Serum{bold}
+$~

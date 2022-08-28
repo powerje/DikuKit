@@ -1,0 +1,328 @@
+#121
+Pentara(Zoharn)~
+12199 1100 1
+*
+X 12242
+O 0  2081     7 12100    the Wizard's Bulletin Board
+O 0  2002     7 12100    the PK Score Board
+D 0 12101     0     1    (N:CLOSED) {BO}{W}Inside the {BL}Morgue{bo}{bl}
+D 0 12101     1     1    (E:CLOSED) {BO}{W}Inside the {BL}Morgue{bo}{bl}
+D 0 12101     3     1    (W:CLOSED) {BO}{W}Inside the {BL}Morgue{bo}{bl}
+D 0 12101     4     2    (U:LOCKED) {BO}{W}Inside the {BL}Morgue{bo}{bl}
+D 0 12101     5     1    (D:CLOSED) {BO}{W}Inside the {BL}Morgue{bo}{bl}
+M 0 12103     1 12102    {BO}{BL}P{bo}{BL}e{BO}{BL}s{bo}{BL}t{BO}{BL}i{bo}{BL}l{BO}{BL}e{bo}{BL}n{BO}{BL}c{bo}{BL}e{bl}
+E 1 12100     1    13    (WAIST) {W}a {BO}{W}silver {bo}{W}rod{w}
+D 0 12102     1     2    (E:LOCKED) {Y}Refuse{W}{BO} pit{bo}{w}
+D 0 12102     4     1    (U:CLOSED) {Y}Refuse{W}{BO} pit{bo}{w}
+M 0 12106     1 12103    {BO,BLA}Plague{bo}
+E 1 12102     1    13    (WAIST) {BO}{W}a {bo}{W}ivory{BO}{W} rod
+D 0 12103     1     1    (E:CLOSED) {BO}{W}Laboratory{w}
+D 0 12103     3     2    (W:LOCKED) {BO}{W}Laboratory{w}
+M 0 12107     1 12104    {BO,RE}Slaughter{bo}
+E 1 12101     1    13    (WAIST) a {BO}{Y}gold{bo}{W} rod
+D 0 12104     1     2    (E:LOCKED) {BO}{W}A{BL} Cell{bo}{bl}
+D 0 12104     3     1    (W:CLOSED) {BO}{W}A{BL} Cell{bo}{bl}
+M 0 12105     1 12105    {Y}Fa{BO}{W}mi{bo}{Y}ne{y}{bo}
+E 1 12103     1    13    (WAIST) {BO}{W}a {bo}{Y}r{BO}{W}u{BL}s{bo}{Y}t{BO}{W}e{BO}{BL}d{W} rod{bo}{w}
+D 0 12105     2     1    (S:CLOSED) {BL}{BO}Ins{W}ide {bo}a{BO}{W} Clo{BL}set{bl}{bo}
+M 0 12115    16 12106    {YE}A desert scorpion{ye}
+M 0 12115    16 12106    {YE}A desert scorpion{ye}
+M 0 12112    48 12106    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12112    48 12106    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12102     6 12106    {MAG}A hydra{mag}
+M 0 12115    16 12106    {YE}A desert scorpion{ye}
+D 0 12107     0     2    (N:LOCKED) {BO}{W}Entrance to {BO}{BL}M{W}o{BL}r{W}g{BL}u{W}e{w}{bo}
+M 0 12115    16 12108    {YE}A desert scorpion{ye}
+M 0 12112    48 12108    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12112    48 12108    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12102     6 12108    {MAG}A hydra{mag}
+M 0 12115    16 12109    {YE}A desert scorpion{ye}
+M 0 12115    16 12109    {YE}A desert scorpion{ye}
+M 0 12102     6 12109    {MAG}A hydra{mag}
+M 0 12112    48 12110    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12102     6 12111    {MAG}A hydra{mag}
+M 0 12112    48 12111    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12112    48 12111    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12115    16 12112    {YE}A desert scorpion{ye}
+M 0 12112    48 12112    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12112    48 12112    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12112    48 12113    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12102     6 12113    {MAG}A hydra{mag}
+M 0 12102     6 12114    {MAG}A hydra{mag}
+M 0 12112    48 12114    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+D 0 12115     0     2    (N:LOCKED) {BO}{W}East of {BL}W{bo}{Y}a{BO}{W}s{BL}t{bo}{Y}e{BO}{W}l{BL}a{bo}{Y}n{BO}{W}d{bo}{w}
+M 0 12115    16 12116    {YE}A desert scorpion{ye}
+M 0 12112    48 12116    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+G 1 17508    27     0    a beaker of ginseng
+M 0 12112    48 12116    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12115    16 12116    {YE}A desert scorpion{ye}
+M 0 12115    16 12117    {YE}A desert scorpion{ye}
+M 0 12115    16 12117    {YE}A desert scorpion{ye}
+M 0 12115    16 12117    {YE}A desert scorpion{ye}
+M 0 12112    48 12117    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+G 1 17508    27     0    a beaker of ginseng
+M 0 12112    48 12117    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+G 1 17508    27     0    a beaker of ginseng
+M 0 12112    48 12117    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12112    48 12117    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+G 1 17508    27     0    a beaker of ginseng
+M 0 12112    48 12117    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+G 1 17508    27     0    a beaker of ginseng
+M 0 12112    48 12117    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+G 1 17508    27     0    a beaker of ginseng
+M 0 12112    48 12118    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+G 1 17508    27     0    a beaker of ginseng
+M 0 12112    48 12118    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+G 1 17508    27     0    a beaker of ginseng
+M 0 12112    48 12120    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+G 1 20106     1     0    {BO,WH}A skeleton key{bo}
+G 1 17508    27     0    a beaker of ginseng
+D 0 12122     2     2    (S:LOCKED) {Y}P{BO}{W}a{BL}t{bo}{Y}h{y}
+M 0 12110     3 12124    {W}A {BO}{MA}m{bo}{W}y{BO}{MA}s{bo}{W}t{BO}{MA}i{bo}{W}c {BO}{MA}warr{bo}{W}i{BO}{MA}or{bo}{ma}
+M 0 12110     3 12124    {W}A {BO}{MA}m{bo}{W}y{BO}{MA}s{bo}{W}t{BO}{MA}i{bo}{W}c {BO}{MA}warr{bo}{W}i{BO}{MA}or{bo}{ma}
+D 0 12124     0     1    (N:CLOSED) {BO}{MA}F{bo}{W}u{BO}{MA}j{bo}{W}i {BO}{W}Mountains{w}{bo}
+M 0 12109     3 12125    {W}A {CY}{BO}s{BLU}p{bo}{W}i{BO}{CY}r{BLU}i{bo}{W}t{BO}{CY}u{BLU}a{bo}{W}l {BO}{CY}g{BLU}u{bo}{W}a{BO}{CY}r{BLU}d{bo}{W}i{BO}{CY}a{BLU}n{blu}{bo}
+M 0 12109     3 12125    {W}A {CY}{BO}s{BLU}p{bo}{W}i{BO}{CY}r{BLU}i{bo}{W}t{BO}{CY}u{BLU}a{bo}{W}l {BO}{CY}g{BLU}u{bo}{W}a{BO}{CY}r{BLU}d{bo}{W}i{BO}{CY}a{BLU}n{blu}{bo}
+D 0 12125     2     1    (S:CLOSED) {CY}C{BO}{CY}r{BLU}y{bo}{BLU}s{W}tal Ca{BLU}v{BO}{BLU}e{CY}r{bo}{CY}n{cy}
+D 0 12126     0     1    (N:CLOSED) {CY}C{BO}{CY}r{BLU}y{bo}{BLU}s{W}tal Ca{BLU}v{BO}{BLU}e{CY}r{bo}{CY}n{cy}
+O 0 12108   101 12127    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+D 0 12129     2     1    (S:CLOSED) {BL}D{BO}{BL}a{bo}{BL}r{BO}{BL}k {bo}{BL}T{BO}{BL}u{bo}{BL}n{BO}{BL}n{bo}{BL}e{BO}{BL}l{bo}{BL}s{bl}
+D 0 12131     0     1    (N:CLOSED) {BL}D{BO}{BL}a{bo}{BL}r{BO}{BL}k {bo}{BL}T{BO}{BL}u{bo}{BL}n{BO}{BL}n{bo}{BL}e{BO}{BL}l{bo}{BL}s{bl}
+M 0 12104    19 12132    {W}A baby {BO}{GR}h{bo}{W}y{BO}{GR}d{bo}{W}r{BO}{GR}a{gr}
+M 0 12104    19 12132    {W}A baby {BO}{GR}h{bo}{W}y{BO}{GR}d{bo}{W}r{BO}{GR}a{gr}
+D 0 12132     2     1    (S:CLOSED) {W}Mouth {BO}{W}in {bo}{W}the {BO}{W}Mountain{bo}{w}
+M 0 12104    19 12133    {W}A baby {BO}{GR}h{bo}{W}y{BO}{GR}d{bo}{W}r{BO}{GR}a{gr}
+M 0 12104    19 12133    {W}A baby {BO}{GR}h{bo}{W}y{BO}{GR}d{bo}{W}r{BO}{GR}a{gr}
+M 0 12104    19 12134    {W}A baby {BO}{GR}h{bo}{W}y{BO}{GR}d{bo}{W}r{BO}{GR}a{gr}
+M 0 12104    19 12134    {W}A baby {BO}{GR}h{bo}{W}y{BO}{GR}d{bo}{W}r{BO}{GR}a{gr}
+M 0 12104    19 12135    {W}A baby {BO}{GR}h{bo}{W}y{BO}{GR}d{bo}{W}r{BO}{GR}a{gr}
+M 0 12104    19 12135    {W}A baby {BO}{GR}h{bo}{W}y{BO}{GR}d{bo}{W}r{BO}{GR}a{gr}
+M 0 12104    19 12135    {W}A baby {BO}{GR}h{bo}{W}y{BO}{GR}d{bo}{W}r{BO}{GR}a{gr}
+M 0 12104    19 12135    {W}A baby {BO}{GR}h{bo}{W}y{BO}{GR}d{bo}{W}r{BO}{GR}a{gr}
+M 0 12104    19 12137    {W}A baby {BO}{GR}h{bo}{W}y{BO}{GR}d{bo}{W}r{BO}{GR}a{gr}
+M 0 12104    19 12137    {W}A baby {BO}{GR}h{bo}{W}y{BO}{GR}d{bo}{W}r{BO}{GR}a{gr}
+M 0 12104    19 12138    {W}A baby {BO}{GR}h{bo}{W}y{BO}{GR}d{bo}{W}r{BO}{GR}a{gr}
+M 0 12104    19 12138    {W}A baby {BO}{GR}h{bo}{W}y{BO}{GR}d{bo}{W}r{BO}{GR}a{gr}
+M 0 12109     3 12141    {W}A {CY}{BO}s{BLU}p{bo}{W}i{BO}{CY}r{BLU}i{bo}{W}t{BO}{CY}u{BLU}a{bo}{W}l {BO}{CY}g{BLU}u{bo}{W}a{BO}{CY}r{BLU}d{bo}{W}i{BO}{CY}a{BLU}n{blu}{bo}
+E 1 12107     1     3    (NECK) A amulet
+D 0 12141     0     2    (N:LOCKED) {bo}{W}Archway in the {CY}{BO}C{bo}{W}l{BO}{W}o{CY}u{bo}{W}d{BO}{W}s{w}{bo}
+M 0 12112    48 12142    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+D 0 12142     2     2    (S:LOCKED) {W}Road of {W}S{BO}{W}p{bo}{W}i{BO}{W}r{bo}{W}i{BO}{W}t{bo}{W}s
+M 0 12112    48 12143    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12112    48 12144    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12112    48 12144    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12112    48 12145    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12112    48 12146    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12100     3 12147    {YE}Cerebus, the Hell Hound{ye}
+M 0 12100     3 12147    {YE}Cerebus, the Hell Hound{ye}
+G 1 12106     1     0    A bone
+D 0 12147     0     2    (N:LOCKED) {BO}{W}Entrance to{bo}{w} {BO}{BL}Mortuary{bo}{bl}
+M 0 12118     1 12148    A head of the hydra
+G 1 20107     1     0    {GR}The acidic blood of the hydra{gr}
+M 0 12115    16 12149    {YE}A desert scorpion{ye}
+M 0 12115    16 12149    {YE}A desert scorpion{ye}
+M 0 12112    48 12149    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12112    48 12149    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12112    48 12149    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12112    48 12149    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12115    16 12149    {YE}A desert scorpion{ye}
+D 0 12149     1     2    (E:LOCKED) {BO}{BL}St{W}ai{BO}{BL}rs {W}to the {BL}B{W}a{BO}{BL}s{W}e{BO}{BL}m{W}e{BO}{BL}nt{bo}{bl}
+D 0 12149     5     0    (D:OPEN) {BO}{BL}St{W}ai{BO}{BL}rs {W}to the {BL}B{W}a{BO}{BL}s{W}e{BO}{BL}m{W}e{BO}{BL}nt{bo}{bl}
+M 0 12115    16 12150    {YE}A desert scorpion{ye}
+M 0 12114    15 12150    {BO,BLA}A rat{bo}
+M 0 12114    15 12150    {BO,BLA}A rat{bo}
+M 0 12114    15 12150    {BO,BLA}A rat{bo}
+M 0 12114    15 12150    {BO,BLA}A rat{bo}
+M 0 12114    15 12150    {BO,BLA}A rat{bo}
+M 0 12114    15 12150    {BO,BLA}A rat{bo}
+M 0 12114    15 12150    {BO,BLA}A rat{bo}
+M 0 12114    15 12150    {BO,BLA}A rat{bo}
+M 0 12114    15 12150    {BO,BLA}A rat{bo}
+M 0 12114    15 12150    {BO,BLA}A rat{bo}
+M 0 12112    48 12150    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12112    48 12150    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+D 0 12150     4     0    (U:OPEN) {BO}{BL}B{W}a{BO}{BL}s{W}e{BO}{BL}m{W}e{BO}{BL}nt{bo}{bl}
+M 0 12114    15 12151    {BO,BLA}A rat{bo}
+M 0 12114    15 12151    {BO,BLA}A rat{bo}
+M 0 12114    15 12151    {BO,BLA}A rat{bo}
+M 0 12114    15 12151    {BO,BLA}A rat{bo}
+M 0 12114    15 12151    {BO,BLA}A rat{bo}
+O 0 12104     1 12151    {BO}{W}a {bo}{Y}copper{BO}{W} rod{bo}{w}
+D 0 12151     3     0    (W:OPEN) {BO}{BL}B{W}a{BO}{BL}s{W}e{BO}{BL}m{W}e{BO}{BL}nt{bo}{bl}
+M 0 12108     1 12152    {BO,WH}Conquest{bo}
+G 1  3048     6     0    a{G}{BOLD} darkgreen potion{bold}{G} of{Y}{BOLD} remove {Y}poison{g}
+G 1  3048     6     0    a{G}{BOLD} darkgreen potion{bold}{G} of{Y}{BOLD} remove {Y}poison{g}
+G 1  3048     6     0    a{G}{BOLD} darkgreen potion{bold}{G} of{Y}{BOLD} remove {Y}poison{g}
+D 0 12152     0     1    (N:CLOSED) {BO}{W}A{BL}tt{bo}{W}i{BO}{W}c{bo}{w}
+D 0 12152     5     2    (D:LOCKED) {BO}{W}A{BL}tt{bo}{W}i{BO}{W}c{bo}{w}
+D 0 12153     0     0    (N:OPEN) {BO}{BL}L{BO}{W}ou{BL}ng{W}e{w}{bo}
+D 0 12153     2     2    (S:LOCKED) {BO}{BL}L{BO}{W}ou{BL}ng{W}e{w}{bo}
+M 0 12101     5 12158    {YE}Cerebus, the Hell Hound{ye}
+M 0 12101     5 12158    {YE}Cerebus, the Hell Hound{ye}
+M 0 12112    48 12159    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12112    48 12159    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12101     5 12160    {YE}Cerebus, the Hell Hound{ye}
+G 1 12105     1     0    A bone
+M 0 12101     5 12164    {YE}Cerebus, the Hell Hound{ye}
+M 0 12112    48 12166    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+D 0 12172     3     0    (W:OPEN) {BO}{BL}Side Yard{bo}{bl}
+M 0 12100     3 12173    {YE}Cerebus, the Hell Hound{ye}
+D 0 12173     1     0    (E:OPEN) {BO}{BL}Cage{bo}{bl}
+M 0 12112    48 12174    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+D 0 12174     0     1    (N:CLOSED) {BO}{W}Path to{bo}{w} {YE}Corral{ye}
+M 0 12112    48 12175    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12101     5 12175    {YE}Cerebus, the Hell Hound{ye}
+M 0 12116     1 12175    {WH}Morbis, the Pale Steed of Death{wh}
+E 1 12117     2     3    (NECK) {Y}M{WHI}o{Y}r{W}b{Y}i{W}s{Y}'{W}s {BLACK}Bit {W}and {Y}Bridle{y}
+M 0 12112    48 12175    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+D 0 12175     2     1    (S:CLOSED) {YE}Corral{ye}
+M 0 12111    11 12176    {BO}{BL}A{W} lost {BL}s{bo}{W}o{BO}{W}u{BL}l{bo}{bl}
+E 1 12111    11     5    (BODY) a sheet
+M 0 12111    11 12176    {BO}{BL}A{W} lost {BL}s{bo}{W}o{BO}{W}u{BL}l{bo}{bl}
+E 1 12111    11     5    (BODY) a sheet
+M 0 12111    11 12176    {BO}{BL}A{W} lost {BL}s{bo}{W}o{BO}{W}u{BL}l{bo}{bl}
+E 1 12111    11     5    (BODY) a sheet
+M 0 12111    11 12176    {BO}{BL}A{W} lost {BL}s{bo}{W}o{BO}{W}u{BL}l{bo}{bl}
+E 1 12111    11     5    (BODY) a sheet
+D 0 12176     2     0    (S:OPEN) {bo}{CY}R{W}e{CY}c{W}e{CY}pt{W}io{CY}n R{W}oo{CY}m{cy}
+M 0 12111    11 12177    {BO}{BL}A{W} lost {BL}s{bo}{W}o{BO}{W}u{BL}l{bo}{bl}
+E 1 12111    11     5    (BODY) a sheet
+M 0 12111    11 12177    {BO}{BL}A{W} lost {BL}s{bo}{W}o{BO}{W}u{BL}l{bo}{bl}
+E 1 12111    11     5    (BODY) a sheet
+M 0 12111    11 12177    {BO}{BL}A{W} lost {BL}s{bo}{W}o{BO}{W}u{BL}l{bo}{bl}
+E 1 12111    11     5    (BODY) a sheet
+M 0 12111    11 12177    {BO}{BL}A{W} lost {BL}s{bo}{W}o{BO}{W}u{BL}l{bo}{bl}
+E 1 12111    11     5    (BODY) a sheet
+M 0 12111    11 12178    {BO}{BL}A{W} lost {BL}s{bo}{W}o{BO}{W}u{BL}l{bo}{bl}
+E 1 12111    11     5    (BODY) a sheet
+M 0 12111    11 12178    {BO}{BL}A{W} lost {BL}s{bo}{W}o{BO}{W}u{BL}l{bo}{bl}
+E 1 12111    11     5    (BODY) a sheet
+M 0 12111    11 12178    {BO}{BL}A{W} lost {BL}s{bo}{W}o{BO}{W}u{BL}l{bo}{bl}
+E 1 12111    11     5    (BODY) a sheet
+M 0 12112    48 12179    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12112    48 12179    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12112    48 12179    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12112    48 12179    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12110     3 12186    {W}A {BO}{MA}m{bo}{W}y{BO}{MA}s{bo}{W}t{BO}{MA}i{bo}{W}c {BO}{MA}warr{bo}{W}i{BO}{MA}or{bo}{ma}
+M 0 12112    48 12193    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12112    48 12193    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12112    48 12193    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12112    48 12193    {W}{BO}A{w}{bo} g{BO}{W}h{bo}{W}o{BO}{W}s{bo}{W}t
+M 0 12113     1 12194    {BO}{BL}Death{bo}{W}, {BO}{W}the {BL}G{bo}{W}r{BO}{BL}i{bo}{W}m {BO}{BL}R{bo}{W}e{BO}{BL}a{bo}{W}p{BO}{BL}e{bo}{W}r{w}
+E 1 12119     2    12    (ABOUT) {BLA}{BO}G{W}r{BLA}i{W}m {BLA}R{W}e{BLA}a{W}p{BLA}e{W}r{BLA}'{W}s cloak of {BLA}Death{bla}{bo}
+E 1 12112     1    13    (WAIST) {BLACK}A black key{bla}
+D 0 12194     5     2    (D:LOCKED) {BO}{W}Ch{bo}{W}a{BO}{W}mb{bo}{W}e{BO}{W}r of {BO}{BL}Death{bo}{bl}
+M 0 12104    19 12195    {W}A baby {BO}{GR}h{bo}{W}y{BO}{GR}d{bo}{W}r{BO}{GR}a{gr}
+M 0 12104    19 12195    {W}A baby {BO}{GR}h{bo}{W}y{BO}{GR}d{bo}{W}r{BO}{GR}a{gr}
+M 0 12104    19 12195    {W}A baby {BO}{GR}h{bo}{W}y{BO}{GR}d{bo}{W}r{BO}{GR}a{gr}
+M 0 12104    19 12195    {W}A baby {BO}{GR}h{bo}{W}y{BO}{GR}d{bo}{W}r{BO}{GR}a{gr}
+M 0 12104    19 12195    {W}A baby {BO}{GR}h{bo}{W}y{BO}{GR}d{bo}{W}r{BO}{GR}a{gr}
+O 0 12110     1 12196    A wooden chest
+P 1 21008     3 12110    {BOLD}{WHITE}Boots of {R}M{bo}{R}e{BO}{R}r{bo}{R}c{BO}{R}u{bo}{R}r{BO}{R}y{bo}{r}
+P 1 21007     2 12110    {BO,BLA}The Unholy Shield of {RE}Satan{bo}
+P 1 20105     1 12110    {BO,BLA}Blackjack{bo}
+P 1 12115     3 12110    {BO}{BLACK}Helm of {BO}{GREEN}A{bo}{GREEN}c{BO}i{bo}{GREEN}d {BO}{BLACK}Resistance{bo}{black}
+P 1 12114     3 12110    {W}Helm of {BO}{W}R{bo}{W}e{BO}{W}v{bo}{W}e{BO}{W}r{bo}{W}s{BO}{W}e{bo} {W}Alignment{w}
+P 1 12109     3 12110    {BO}{W}The Scythe of the{bo}{w} {BO}{BL}G{W}r{BL}i{W}m {BL}R{W}e{BL}a{W}p{BL}e{W}r{w}{bo}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+P 1 12108   101 12110    {YELLOW}{BOLD}Gold {bold}{WHITE}flakes.{white}
+D 0 12197     0     0    (N:OPEN) {W}The Glowing {BO}{Y}L{bo}{W}i{BO}{Y}g{bo}{W}h{BO}{Y}t{y}{bo}
+$~

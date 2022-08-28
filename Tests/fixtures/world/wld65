@@ -1,0 +1,1137 @@
+#6500
+{WHITE}Path to Dwarven Village{white}~
+
+As you look to the East you notice the city of Midgaard.  To the North
+the path continues into the mountains.
+
+~
+65 4 2
+D0
+The path continues.
+~
+~
+0 -1 6501
+D2
+(null)~
+~
+0 -1 4083
+D4
+You see the Turning Point.
+~
+~
+0 -1 3502
+Z3
+C-1
+S
+#6501
+{WHITE}Path, {YELLOW}base of Mou{WHITE}nt{YELLOW}ain{white}~
+
+Now you are at the bottom of a rugged mountain.  The forest around you
+is very dense, and it seems very dark to the North.
+
+~
+65 0 4
+D0
+The path coninues up the mountain.
+~
+~
+0 -1 6502
+D2
+The path heads toward the main city.
+~
+~
+0 -1 6500
+Z3
+C-1
+S
+#6502
+{WHITE}Path, {YELLOW}middle of Mou{WHITE}nt{YELLOW}ain{white}~
+
+Standing at the middle of the mountain you can easily see the city
+to the South, and the top of the mountain is very near to the North.
+
+~
+65 0 5
+D0
+The top of the mountain is easilly seen from here.
+~
+~
+0 -1 6503
+D2
+The base of the mountain is near.
+~
+~
+0 -1 6501
+Z3
+C-1
+S
+#6503
+{BLACK,BOLD}Narrow Path{red}~
+
+You are now standing on top of the mountain.  To the South you see
+a path leading down the mountain.  To the East and West you see
+several entrances to what seem like mines.
+
+~
+65 0 4
+D1
+An entrance to the mountain which seems to lead underground.
+~
+~
+0 -1 6540
+D2
+The path leads down the mountain to the main city.
+~
+~
+0 -1 6502
+D3
+There is an entrance to the mountain.
+~
+~
+0 -1 6505
+D4
+(null)~
+~
+0 -1 8300
+Z3
+C-1
+S
+#6504
+{BLACK}Narrow Path{red}~
+
+This is a narrow path leading to the Dwarven Kingdom.  It looks less
+travelled than the others and it is very creepy.  The path opens
+up to the South and continues to the North.
+
+~
+65 8 0
+D0
+(null)~
+~
+0 -1 6506
+D2
+(null)~
+~
+0 -1 6540
+Z3
+C-1
+S
+#6505
+{Y}Entrance to Mountain{y}~
+
+Here is an entrance to the mountain.  The door looks very well built.
+You can hear noises coming from the other side.
+
+~
+65 0 2
+D1
+(null)~
+~
+0 -1 6503
+D3
+(null)~
+door~
+2 6550 6513
+Z3
+C-1
+S
+#6506
+{BLACK,BOLD}Bend in Narrow Path{white}~
+
+This is a narrow path that bends to the East here.  The trees hang 
+over the path, and it is very overgrown.  The narrow path continues
+to the South and to the East.
+
+~
+65 8 0
+D1
+(null)~
+~
+0 -1 6507
+D2
+(null)~
+~
+0 -1 6504
+E
+tree trees~
+They hang over the road in the most ominous of ways.
+~
+Z3
+C-1
+S
+#6507
+{BLACK,BOLD}Bend in Narrow Path{white}~
+This is a narrow path that bends to the West here.  The trees hang
+over the path, and it is very overgrown.  The narrow path continues
+to the north and the west.
+~
+65 8 0
+D0
+(null)~
+~
+0 -1 6508
+D3
+(null)~
+~
+0 -1 6506
+Z3
+C-1
+S
+#6508
+{BLACK}Narrow north-south path{white}~
+
+This path leads to the North and South.  To the North you can see
+a door, and to the South the path continues.
+
+~
+65 8 0
+D0
+(null)~
+~
+0 -1 6509
+D2
+(null)~
+~
+0 -1 6507
+Z3
+C-1
+S
+#6509
+{YELLOW}Door to {GREEN,BOLD}Kingdom{red}~
+
+Here the path turns to the West.  You can see a door in front of
+you, and the path continues to the West and South.  You have a strange
+feeling that this door leads to the Kingdom.
+
+~
+65 8 0
+D0
+(null)~
+door~
+2 6503 6510
+D2
+(null)~
+~
+0 -1 6508
+D3
+(null)~
+~
+0 -1 6522
+Z3
+C-1
+S
+#6510
+{GREEN,BOLD}Path to Castle{white}~
+
+You are on a path that will eventually lead to the castle.  It
+continues North to the castle, and there is a door on the Southern
+wall.
+
+~
+65 8 0
+D0
+(null)~
+~
+0 -1 6511
+D2
+(null)~
+door~
+2 6503 6509
+Z3
+C-1
+S
+#6511
+{GREEN,BOLD}Still on the path to the Castle{red}~
+
+You are still on a path to the castle, or back to the Dwarven
+Village. Whichever way you wish to go. The path continues to
+the North and South.
+
+~
+65 8 0
+D0
+(null)~
+~
+0 -1 6512
+D2
+(null)~
+~
+0 -1 6510
+Z3
+C-1
+S
+#6512
+{YELLOW}Door to {WHITE}Castle{red}~
+
+{WHITE}Here there is a door to the castle to the east.  The castle
+is elegantly designed, and looks much like a roll of toilet paper
+standing on it's end.  There is a sign which says:
+
+{MAGENTA}              ******************************************
+              *  WELCOME TO THE CASTLE OF STRANGELOVE  *
+              *      Here, celibacy is uninvited       *
+              ******************************************
+
+p..s..Safe sex is the safest
+~
+65 8 0
+D1
+(null)~
+door~
+2 6514 6525
+D2
+(null)~
+~
+0 -1 6511
+Z3
+C-1
+S
+#6513
+{BLACK,BOLD}Inside the entr{YELLOW}an{BLACK}ce{white}~
+
+Everything here is covered in soot and grime.  The path continues to
+the East and North. You see a door to the West.
+
+~
+65 8 0
+D0
+The little underground path continues to the north.
+~
+~
+0 -1 6514
+D1
+The path leads outside the entrance.
+~
+door~
+2 6550 6505
+D3
+This looks like an entrance to some type of store room.
+~
+~
+0 -1 6526
+Z3
+C-1
+S
+#6514
+{YELLOW,BOLD}Path{white}~
+
+You are on a path on the Dwarven Village which leads North to the shops
+and South to the corner of the area.
+
+~
+65 8 0
+D0
+(null)~
+~
+0 -1 6515
+D2
+(null)~
+~
+0 -1 6513
+Z3
+C-1
+S
+#6515
+{BLACK,BOLD}Turn {YELLOW}in {BLACK}road{white}~
+
+You are on a path that leads to a Hide & Tooth shop to the West, and
+ the path continues to the South.
+
+~
+65 8 0
+D2
+(null)~
+~
+0 -1 6514
+D3
+The Hide & Tooth shop is seen to the west.
+~
+~
+0 -1 6516
+Z3
+C-1
+S
+#6516
+{GREEN,BOLD}Hide{BLACK} & {WHITE}Tooth {YELLOW}Shop{red}~
+
+You are in the Hide & Tooth shop.  Here you may buy the finest in 
+Dwarven weapons and armors.  The path continues to the North and East.
+
+~
+65 8 0
+D0
+(null)~
+~
+0 -1 6517
+D1
+(null)~
+~
+0 -1 6515
+Z3
+C-1
+S
+#6517
+{BLACK,BOLD}Turn {YELLOW}in {BLACK}road{white}~
+
+You are on a path to the north of the Hide & Tooth shop.  The path
+continues to the North, and there is Granite Head's bakery to the West.
+
+~
+65 8 0
+D0
+(null)~
+~
+0 -1 6518
+D2
+(null)~
+~
+0 -1 6516
+D3
+(null)~
+~
+0 -1 6535
+Z3
+C-1
+S
+#6518
+{WHITE}North of {YELLOW}Shops{white}~
+
+Here the path bends to the East towards the barracks.  To the
+South you can see the shops.
+
+~
+65 8 0
+D1
+(null)~
+~
+0 -1 6519
+D2
+(null)~
+~
+0 -1 6517
+Z3
+C-1
+S
+#6519
+{WHITE}Path by {RED}Hos{BOLD}pit{white}{RED}al{red}~
+
+Here the path pases by the Hospital to the North.  It continues
+to the East to the barracks, and to the West.
+
+~
+65 8 0
+D0
+(null)~
+~
+0 -1 6534
+D1
+(null)~
+~
+0 -1 6520
+D3
+(null)~
+~
+0 -1 6518
+Z3
+C-1
+S
+#6520
+{WHITE,BOLD}Path next to {BLACK,BOLD}Barracks{red}~
+
+Here the path continues West, and East to the barracks.
+
+~
+65 8 0
+D1
+(null)~
+~
+0 -1 6521
+D3
+(null)~
+~
+0 -1 6519
+Z3
+C-1
+S
+#6521
+{GREEN,BOLD}Entrance to {BLACK}barracks{white}~
+
+Here there is an entrance to the barracks to the South, and the
+path continues to the West.
+
+~
+65 8 0
+D2
+(null)~
+door~
+1 0 6523
+D3
+(null)~
+~
+0 -1 6520
+Z3
+C-1
+S
+#6522
+{GREEN,BOLD}Guard's House{red}~
+
+You are in the Guard's house.  He and all his Guards make their millions
+from this base.  There are nude pictures of Pamela Dwarfeson covering
+the walls.
+
+~
+65 8 0
+D1
+(null)~
+~
+0 -1 6509
+E
+poster~
+There is a wall poster of a nude Minne Pearl.
+~
+Z3
+C-1
+S
+#6523
+{BLACK,BOLD}First Barracks Room{white}~
+
+Here is the first of two main rooms of the barracks.  The barracks
+continue to the South, and you can leave the room to the North.
+
+~
+65 8 0
+D0
+(null)~
+door~
+1 0 6521
+D2
+(null)~
+~
+0 -1 6524
+Z3
+C-1
+S
+#6524
+{BLACK,BOLD}Back of the barracks{white}~
+
+Here is the back of the Dwarven barracks.  There are rows of 
+beds here, and there is a stench that is unbareable.
+
+~
+65 8 0
+D0
+(null)~
+~
+0 -1 6523
+D5
+~
+floorboards~
+1 -1 3601
+Z3
+C-1
+S
+#6525
+{GREEN,BOLD}Inside of Castle Strange{RED}love{red}~
+
+You are just inside the castle. It is very tubular in shape, and 
+very featureless. There is a set of stairs that lead up, and the
+door leads out of the castle to the West. 
+
+~
+65 8 0
+D3
+(null)~
+door~
+2 6514 6512
+D4
+(null)~
+~
+0 -1 6528
+Z3
+C-1
+S
+#6526
+{YELLOW}A store room{white}~
+
+There is a layer of dust on the floor at least 3 inches thick!  It is
+probable that not many people have been in here for many months.
+
+~
+65 9 0
+D1
+A lighted area that looks like a well worn path.
+~
+~
+0 -1 6513
+D5
+(null)~
+trapdoor~
+2 0 6527
+E
+floor dust~
+After blowing all the dust off the floor, you notice a trapdoor!
+~
+Z3
+C-1
+S
+#6527
+{RED,BOLD}Wine {red}{RED}Cellar{red}~
+
+This room smells like wine, and you can only assume it used to be a
+wine cellar at one time.
+
+~
+65 1033 0
+D4
+(null)~
+trapdoor~
+1 -1 6526
+D5
+~
+floorboards~
+1 -1 3665
+Z3
+C1
+S
+#6528
+{RED,BOLD}Stairs in castle{red}~
+
+The stairs continue to circle Up and Down here.  You see a porno
+magazine and wonder who may have left it here.
+
+~
+65 8 0
+D4
+(null)~
+~
+0 -1 6529
+D5
+(null)~
+~
+0 -1 6525
+Z3
+C-1
+S
+#6529
+{RED,BOLD}Stairs{red}~
+
+You are still circling around the gawd awful stairs.  You are starting
+to get dizzy but stop at the site of small puddles of liquid on the
+ground.
+
+~
+65 8 0
+D4
+(null)~
+~
+0 -1 6530
+D5
+(null)~
+~
+0 -1 6528
+Z3
+C-1
+S
+#6530
+{RED,BOLD}Top of Stairs{red}~
+
+FINALLY.. at the top.  You realize you might get some now as you
+approach the Queen's room.
+
+~
+65 8 0
+D1
+(null)~
+~
+0 -1 6531
+D5
+(null)~
+~
+0 -1 6529
+Z3
+C-1
+S
+#6531
+{RED,BOLD}Queen's waiting room{red}~
+
+This the Queen's waiting room.  Here the men literally "wait" for
+the queen.  You have heard that the Queen really like to get to
+"know" her people, in the biblical sense.  The Queen's bedroom is
+to the North, and you can see stairs to the West.
+
+~
+65 8 0
+D0
+(null)~
+door~
+2 0 6532
+D3
+(null)~
+~
+0 -1 6530
+Z3
+C-1
+S
+#6532
+{WHITE}B{BOLD}e{red}{RED}d{BOLD}r{red}{RED}o{WHITE}o{BOLD}m{red}~
+
+{WHITE}This is the Queen's bedroom.  The bed is all ruffled, and there
+is a stack of dirty sheets piled in the corner.  There is a ladder
+that leads down, out of the castle, and you can leave the room
+to the south.
+There is a sign that says:
+{RED,BOLD}      -------------------------
+      |  I'm busy right now,  |
+      |  and don't know when  |
+      |  Ill be back, but if  |
+      |  there is a key here  |
+      |  take it and PLEASE,  |
+      |  try to get my birth  |
+      |  control pills back!  |
+      |  I've heard they can  |
+      |  be found somewhere,  |
+      |  deep in the mines..  |
+      -------------------------
+~
+65 8 0
+D2
+(null)~
+door~
+2 0 6531
+D5
+(null)~
+~
+0 -1 6533
+Z3
+C-1
+S
+#6533
+North side of Castle Strangelove~
+
+You are standing on the north side od Castle Strangelove.  You
+notice that you are no longer inside the mountain anymore either.
+Along the Southern horizon you see towering mountains.
+
+**This area is not currently open.**
+
+~
+65 0 0
+D4
+(null)~
+~
+0 -1 6532
+Z3
+C-1
+S
+#6534
+{RED}Hos{BOLD}pit{white}{RED}al{red}~
+
+You are inside the Dwarven Hospital.  It smells like rubbing alcohol
+and other medical supplies.  You notice blood smeared all over the 
+walls surrounding you.
+
+~
+65 8 0
+D2
+(null)~
+~
+0 -1 6519
+Z3
+C-1
+S
+#6535
+Granite Head's Bakery~
+
+The aroma coming from this room is astonishing.  You can almost taste the
+pastries disolving in your mouth.
+
+~
+65 8 0
+D1
+(null)~
+~
+0 -1 6517
+Z3
+C-1
+S
+#6540
+{BLACK,BOLD}Dark Path{red}~
+
+This path is very well worn, and there is an entrance to the mines to the
+East, while the path continues to the North and West.
+
+~
+65 8 0
+D0
+(null)~
+~
+0 -1 6504
+D1
+(null)~
+door~
+1 6502 6541
+D3
+(null)~
+~
+0 -1 6503
+Z3
+C-1
+S
+#6541
+{YELLOW,BOLD}Mine entrance{red}~
+
+The little path here leads Down towards the mine while the worn path
+to the West is there!  Still there!
+
+~
+65 8 0
+D3
+(null)~
+door~
+1 6502 6540
+D5
+(null)~
+~
+0 -1 6542
+Z3
+C-1
+S
+#6542
+Inside the mine~
+There are holes everywhere from the places that the workers blew
+away the rock to get to whatever they were looking for.  A path leads
+down and up.
+~
+65 9 0
+D4
+(null)~
+~
+0 -1 6541
+D5
+(null)~
+~
+0 -1 6543
+Z3
+C-1
+S
+#6542
+{BLACK,BOLD}Bottom of {YELLOW}mineshaft{white}~
+
+You are at the bottom of the mineshaft.  The air here is very dense
+and full of soot, which makes it difficult to breathe.  The mineshaft
+leads Up and East.
+
+~
+65 9 0
+D1
+(null)~
+~
+0 -1 6543
+D4
+(null)~
+~
+0 -1 6541
+Z3
+C-1
+S
+#6543
+{BLACK,BOLD}Path in the {YELLOW}mine{red}~
+
+You are deep inside the mine and you are feeling a bit sick from the
+atmosphere within it. The path goes East and West.
+
+~
+65 9 0
+D1
+(null)~
+~
+0 -1 6544
+D3
+(null)~
+~
+0 -1 6542
+Z3
+C-1
+S
+#6544
+{W}Mine{w} Crossroads~
+
+You are at the crossroads in the mine.  There is a door North and 
+a path that goes East, South and West.  You see two bones that cross with
+the words, "See you at the crossroads."
+
+~
+65 9 0
+D0
+(null)~
+door~
+2 6516 6546
+D1
+(null)~
+~
+0 -1 6545
+D2
+(null)~
+~
+0 -1 6551
+D3
+(null)~
+~
+0 -1 6543
+Z3
+C-1
+S
+#6545
+{BLACK,BOLD}Coal Room{white}~
+
+You are inside the storage area for the raw materials that are
+found down here.  The room isn't very sturdy as the supports seem
+to creak with every blow of the wind.  An odd feeling overwhelms you.
+
+~
+65 9 0
+D2
+~
+~
+0 -1 6556
+D3
+(null)~
+~
+0 -1 6544
+Z3
+C-1
+S
+#6546
+{MAGENTA,BOLD}Mine{YELLOW} Maze{red}~
+
+You have entered the maze of the mines.  To the east you can
+see some inscriptions, and you notice an exit to the South.
+
+~
+65 9 0
+D1
+(null)~
+~
+0 -1 6547
+D2
+(null)~
+door~
+2 6516 6544
+Z3
+C1
+S
+#6547
+{MAGENTA,BOLD}Maze{YELLOW} Inscription{red}~
+
+{CYAN,BOLD}You are inside the maze, but not far enough in that you could
+get lost.  There is an enscription on the wall which says:
+
+{RED}          1    3    2    4
+          N    W    N    S
+
+{CYAN}This isn't too tough, so don't take it so rough.
+~
+65 41 0
+D0
+(null)~
+~
+0 -1 6548
+D1
+(null)~
+~
+0 -1 6544
+D3
+(null)~
+~
+0 -1 6546
+Z3
+C1
+S
+#6548
+{YELLOW}MAZE{red}~
+
+You are in a winding maze that seems to take you nowhere.
+
+~
+65 9 0
+D0
+(null)~
+~
+0 -1 6549
+D2
+(null)~
+~
+0 -1 6547
+D3
+(null)~
+~
+0 -1 6548
+Z3
+C1
+S
+#6549
+{YELLOW}MAZE{red}~
+
+You are in a winding maze that seems to take you nowhere.
+
+~
+65 9 0
+D0
+(null)~
+~
+0 -1 6548
+D2
+(null)~
+~
+0 -1 6548
+D3
+(null)~
+~
+0 -1 6550
+Z3
+C1
+S
+#6550
+{YELLOW}MAZE{red}~
+
+You are in a winding maze that seems to take you nowhere.
+
+~
+65 9 0
+D0
+(null)~
+~
+0 -1 6549
+D1
+(null)~
+~
+0 -1 6549
+D2
+(null)~
+~
+0 -1 6552
+D3
+(null)~
+~
+0 -1 6548
+Z3
+C1
+S
+#6551
+{WHITE,BOLD}Mining equipment room(TM){red}~
+
+This is a storage room for equipment used by the Dwarven Miners.
+it is very small and you can tell that not many miners actually
+use any of this stuff.
+
+~
+65 9 0
+D0
+(null)~
+~
+0 -1 6544
+Z3
+C-1
+S
+#6552
+{MAGENTA,BOLD}Solved the {RED}MAZE{red}~
+
+{BLUE}You have solved the maze.  You can tell by the last few moves
+that there is no way that a dumb worker could have figured that
+out.  It seems pretty desolate here.  There is a sign above the exit.
+There is a pit leading up and another room west.
+It is taped off with a board over it.{blue}
+
+~
+65 9 0
+D0
+(null)~
+~
+0 -1 6550
+D3
+~
+~
+0 -1 6553
+D4
+~
+~
+0 -1 6554
+E
+board~
+    There is a solid wooden plank over the deep hole with this inscription
+on the wood.
+
+             ******************************************
+             *                                        *
+             *  plaese do not enter if you know what  *
+             *  is good for you.  There may be a lot  *
+             *  of riches to be found down there but  *
+             *  we have lost more than a generation   *
+             *   of mine workers trying to recover    *
+             *   even a small portion of the riches   *
+             *   so head our warning DO NOT ENTER     *
+             *                                        *
+             *    signed Dwarven Mine Workers Union   *
+             *                                        *
+             ******************************************
+~
+E
+sign~
+THOSE WHO ENTER, PLAN ON A TIMELY DEATH.
+(ESPECIALLY IF YOU ARE LOYAL TO THE QUEEN)
+~
+Z3
+C1
+S
+#6553
+{WHITE,BOLD}the {RED}Maze{GREEN}keeper's {WHITE}Room{red}~
+
+You have entered the Mazekeeper's room.  There are pictures of
+the Queen with darts thrown in it.  Spray painted on the wall are
+sayings like, "The Queen shall suffer!", and "Catholics Rule!"
+
+~
+65 1033 0
+D1
+~
+~
+0 -1 6552
+Z3
+C1
+S
+#6554
+{MAGENTA,BOLD}DEATH TRAP!{red}~
+
+You have just entered the pit that many mineworkers have died in.  Thus
+the ground is covered in bones and other skeletal debri.
+
+~
+65 16777358 9
+D5
+~
+~
+0 -1 6552
+Z3
+C-1
+S
+#6556
+{BLACK,BOLD}Cave in{red}~
+
+{RED,BOLD}  You are in a small space which seems like it was part of the mine
+shaft before it collapsed. There is a pile of huge boulders blocking
+off your exit to the south, and some sort of mysterious markings
+next to what seems to be a makeshift grave.
+ 
+{WHITE}  Off to your right are the remnants of a fireplace, next to which you
+see a skeletons hand holding onto a mining pick...poor man must of 
+been crushed when the shaft collapsed. KILL IT!
+~
+65 16794625 0
+D0
+~
+~
+0 -1 6545
+Z3
+C1
+S
+$~

@@ -1,0 +1,2479 @@
+#12100
+{BLACK}{BOLD}Subhumans Playland!~
+
+
+{BOLD}{RED}                    ,       ,
+                   /(       )`
+                   \ \__   / |
+                   /- {WHITE}_{RED} `-/  '
+                  ({WHITE}/\/ \{RED} \   /\ 
+                  {WHITE}/ /   | {RED}`    \  
+                  {BLUE}O O   {WHITE}){RED}      |  
+                  {WHITE}`-^--'`{BLACK}<{RED}     '  
+                 (_{BLACK}.{RED})  {WHITE}_ {BLACK})    /   
+                  `.{WHITE}___/`{RED}    /   
+                    `-----' /
+       {BLACK}<----.     {RED}__ / __   \   
+       {BLACK}<----|===={RED}O))){BLACK}=={RED}) \) /{BLACK}============={RED}
+       {BLACK}<----'    {RED}`--' `.__,' \
+                    |         |
+                     \       /  
+                 ____( (_   / \______
+               ,'  ,----'   |        \ 
+               `--{__________)       \/{BOLD}
+
+
+~
+121 4218880 1
+X158
+Z3
+C-1
+R0
+S
+#12101
+{BO}{W}Inside the {BL}Morgue{bo}{bl}~
+{WHITE,BOLD}Your first reaction is to vomit as the foul smell of dead things penetrate 
+your nostrils. Trying to hold your breath, you gag as you realize that
+you're just sucking in this foul odor. When you get your bearings back you see
+a huge table in the center of this room, and it's covered with mangled, dead body
+parts. On one wall large drawers stand from floor to ceiling - large enough
+to have held bodies at one time. Broken cabinets that used to hold surgical
+instruments and medicine line the opposite wall. A dented suit of armor stands
+in one corner. {white,bold}
+~
+121 1101 1
+D0
+~
+armor~
+1 -1 12105
+D1
+~
+cabinet~
+1 -1 12104
+D3
+~
+drawer~
+1 -1 12103
+D4
+~
+portal~
+4 12104 12152
+D5
+~
+Trapdoor~
+1 -1 12102
+E
+breastplate~
+I tried to get out through some strange portal, but i coundn't find the key.
+Your not gonna find the portal, its hidden, i found it, its right......
+(the message ends with a long scratch, it was never finished)
+~
+E
+armor~
+The armor looks like its been taken off some warrior who seen many battles.
+Its rusted and there are many cracks on it. its really out of place sitting
+here alone in the morgue. You see some strange scratches on its breastplate.
+You wonder what they are....
+~
+Z3
+C-1
+R0
+S
+#12102
+{Y}Refuse{W}{BO} pit{bo}{w}~
+{BO}{W}This room reeks of rotting corpses and dried {bo}{R}blood{r}{W}. {BO}{W}You struggle just to keep
+down that gruel you ate this morning{bo}{W}. {BO}{W}Plump rats{bo}{W},{BO}{W} and strange creatures scurry 
+beneath youre feet in search of some fresh {bo}{Y}flesh{W}. {BO}{W}The smell is overwhelming{bo}{W},{BO}{W} 
+and you frantically begin to search for a exit out of this pit of death{bo}{W}.{w}
+~
+121 77 1
+D1
+~
+door~
+2 12100 12101
+D4
+~
+Trapdoor~
+1 -1 12101
+Z3
+C-1
+R0
+S
+#12103
+{BO}{W}Laboratory{w}~
+{bo}{W}A large {BO}{W}stone{bo}{W} slab occupies the center of this laboratory{BO}{W}.{bo}{W} The walls are lined
+with shelves containing broken jars{BO}{W},{bo}{W} crushed and decaying boxes and {Y}rusted{bo}{W}
+tools{BO}{W}.{bo}{W} Upon the slab lies the disassembled parts of a unfortunate traveller{BO}{W}. 
+~
+121 77 1
+D1
+~
+drawer~
+1 -1 12101
+D3
+~
+door~
+2 12101 12149
+Z3
+C-1
+R0
+S
+#12104
+{BO}{W}A{BL} Cell{bo}{bl}~
+{BO}{BL}You hear a dripping sound comming from a sink in the far corner of this cell{bo}{W}.{BO}{BL}
+Something that resembles a bed is sitting under a barred window{bo}{W}.{BO}{BL} A skeleton{BL}
+of some unhuman creature is chained to the wall by its hands and feet{bo}{W}. {BO}{BL}Roaches
+scurry into hiding as they sense your presence{bo}{W}.{BO}{BL} You cringe at the thought of 
+never leaving this building{bo}{W}.{bo}{w}
+~
+121 13 1
+D1
+~
+window~
+2 12102 12151
+D3
+~
+cabinet~
+1 -1 12101
+E
+12151~
+~
+Z3
+C-1
+R0
+S
+#12105
+{BL}{BO}Ins{W}ide {bo}a{BO}{W} Clo{BL}set{bl}{bo}~
+{BO}{W}The usual brooms and mops litter this closet{bo}{W}.{BO}{W} Old frayed rags are lined up on
+a shelf over a clothes rack{bo}{W}.{BO}{W} A shredded cape that seen better days hangs on a
+hook in the corner of this closet{bo}{W}.{BO}{W} The walls are stained with {bo}{R}blood{BO}{W} and small
+baby rats huddle in a corner waiting for their mother to return with food{bo}{W}.{w}
+~
+121 13 1
+D2
+~
+armor~
+1 -1 12101
+Z3
+C-1
+R0
+S
+#12106
+{YE}P{BO}{W}l{bo}{YE}a{BO}{W}i{bo}{YE}n{BO}{W}s {bo}{YE}o{BO}{W}f {bo}{YE}D{BO}{W}i{bo}{YE}s{BO}{W}g{bo}{YE}u{BO}{W}s{bo}{YE}t{ye}~
+{YE}The {R}hot{YE} air in this vast wasteland makes you gasp for breath with 
+every step you take{BO}{BL}.{bo}{bl} {YE}As you travel on{BO}{BL},{bo}{bl} {YE}you become more and more 
+{BO}{W}weary{BL}.{bo}{bl} {YE}Your feet begin to blister from the {R}heat{YE} and your mouth 
+drys up like a 100 year old virgin{BO}{BL}.{bo}{bl} {YE}You hope youre {CY}water{YE} doesnt 
+run out before you find youre way out of this {R}scorching{YE} hell hole{BO}{BL}.{bo}{bl}
+~
+121 16 1
+D0
+~
+~
+0 -1 12108
+D1
+~
+~
+0 -1 12109
+D2
+~
+~
+0 -1 12106
+D3
+~
+~
+0 -1 12108
+Z3
+C-1
+R0
+S
+#12107
+{BO}{W}Entrance to {BO}{BL}M{W}o{BL}r{W}g{BL}u{W}e{w}{bo}~
+{BO}{W}To the North is a building{bo}{W}, {G}c{Y}a{G}m{Y}o{G}u{Y}f{G}l{Y}a{G}g{Y}e{G}d {BO}{W}from any distance and looks like part
+of the {bo}{Y}desert{W}. {BO}{W}The land around it in all directions is {BL}barren{bo}{W}, {BO}{W}and {bo}{Y}sand{BO}{W} dunes
+are everywhere{bo}{W}.{BO}{W} You{bo}{W}'d{BO}{W} probably lose your sense of direction and get lost again
+if you went past any {bo}{Y}sand dune{bo}{W}.
+
+{BO}{BL}Before you lies the entrance to the Morgue{bo}{W}. {R}B{BO}{R}e{bo}{R}w{BO}{R}a{bo}{R}r{BO}{R}e{bo}{W}! {BO}{BL}There might be no returning{bo}{W}.{w}
+~
+121 0 1
+D0
+A large slab blocks the entrance to the mortuary.  There is a small
+keyhole in the slab and you hope you have a key.
+~
+slab~
+2 20106 12101
+D1
+~
+~
+0 -1 12116
+D2
+~
+~
+0 -1 12120
+D3
+~
+~
+0 -1 12116
+Z3
+C-1
+R0
+S
+#12108
+{YE}P{BO}{W}l{bo}{YE}a{BO}{W}i{bo}{YE}n{BO}{W}s {bo}{YE}o{BO}{W}f {bo}{YE}D{BO}{W}i{bo}{YE}s{BO}{W}g{bo}{YE}u{BO}{W}s{bo}{YE}t{ye}~
+{YE}The {R}hot{YE} air in this vast wasteland makes you gasp for breath with 
+every step you take{BO}{BL}.{bo}{bl} {YE}As you travel on{BO}{BL},{bo}{bl} {YE}you become more and more 
+{BO}{W}weary{BL}.{bo}{bl} {YE}Your feet begin to blister from the {R}heat{YE} and your mouth 
+drys up like a 100 year old virgin{BO}{BL}.{bo}{bl} {YE}You hope youre {CY}water{YE} doesnt 
+run out before you find youre way out of this {R}scorching{YE} hell hole{BO}{BL}.{bo}{bl}
+~
+121 16 1
+D0
+~
+~
+0 -1 12109
+D1
+~
+~
+0 -1 12106
+D2
+~
+~
+0 -1 12106
+Z3
+C-1
+R0
+S
+#12109
+{YE}P{BO}{W}l{bo}{YE}a{BO}{W}i{bo}{YE}n{BO}{W}s {bo}{YE}o{BO}{W}f {bo}{YE}D{BO}{W}i{bo}{YE}s{BO}{W}g{bo}{YE}u{BO}{W}s{bo}{YE}t{ye}~
+{YE}The {R}hot{YE} air in this vast wasteland makes you gasp for breath with 
+every step you take{BO}{BL}.{bo}{bl} {YE}As you travel on{BO}{BL},{bo}{bl} {YE}you become more and more 
+{BO}{W}weary{BL}.{bo}{bl} {YE}Your feet begin to blister from the {R}heat{YE} and your mouth 
+drys up like a 100 year old virgin{BO}{BL}.{bo}{bl} {YE}You hope youre {CY}water{YE} doesnt 
+run out before you find youre way out of this {R}scorching{YE} hell hole{BO}{BL}.{bo}{bl}
+~
+121 16 1
+D0
+~
+~
+0 -1 12109
+D1
+~
+~
+0 -1 12110
+D2
+~
+~
+0 -1 12109
+D3
+~
+~
+0 -1 12106
+Z3
+C-1
+R0
+S
+#12110
+{YE}P{BO}{W}l{bo}{YE}a{BO}{W}i{bo}{YE}n{BO}{W}s {bo}{YE}o{BO}{W}f {bo}{YE}D{BO}{W}i{bo}{YE}s{BO}{W}g{bo}{YE}u{BO}{W}s{bo}{YE}t{ye}~
+{YE}The {R}hot{YE} air in this vast wasteland makes you gasp for breath with 
+every step you take{BO}{BL}.{bo}{bl} {YE}As you travel on{BO}{BL},{bo}{bl} {YE}you become more and more 
+{BO}{W}weary{BL}.{bo}{bl} {YE}Your feet begin to blister from the {R}heat{YE} and your mouth 
+drys up like a 100 year old virgin{BO}{BL}.{bo}{bl} {YE}You hope youre {CY}water{YE} doesnt 
+run out before you find youre way out of this {R}scorching{YE} hell hole{BO}{BL}.{bo}{bl}
+~
+121 16 1
+D0
+~
+~
+0 -1 12106
+D1
+~
+~
+0 -1 12108
+D2
+~
+~
+0 -1 12111
+D3
+~
+~
+0 -1 12109
+Z3
+C-1
+R0
+S
+#12111
+{YE}P{BO}{W}l{bo}{YE}a{BO}{W}i{bo}{YE}n{BO}{W}s {bo}{YE}o{BO}{W}f {bo}{YE}D{BO}{W}i{bo}{YE}s{BO}{W}g{bo}{YE}u{BO}{W}s{bo}{YE}t{ye}~
+{YE}The {R}hot{YE} air in this vast wasteland makes you gasp for breath with 
+every step you take{BO}{BL}.{bo}{bl} {YE}As you travel on{BO}{BL},{bo}{bl} {YE}you become more and more 
+{BO}{W}weary{BL}.{bo}{bl} {YE}Your feet begin to blister from the {R}heat{YE} and your mouth 
+drys up like a 100 year old virgin{BO}{BL}.{bo}{bl} {YE}You hope youre {CY}water{YE} doesnt 
+run out before you find youre way out of this {R}scorching{YE} hell hole{BO}{BL}.{bo}{bl}
+~
+121 16 1
+D0
+~
+~
+0 -1 12110
+D1
+~
+~
+0 -1 12106
+D2
+~
+~
+0 -1 12106
+D3
+~
+~
+0 -1 12112
+Z3
+C-1
+R0
+S
+#12112
+{YE}P{BO}{W}l{bo}{YE}a{BO}{W}i{bo}{YE}n{BO}{W}s {bo}{YE}o{BO}{W}f {bo}{YE}D{BO}{W}i{bo}{YE}s{BO}{W}g{bo}{YE}u{BO}{W}s{bo}{YE}t{ye}~
+{YE}The {R}hot{YE} air in this vast wasteland makes you gasp for breath with 
+every step you take{BO}{BL}.{bo}{bl} {YE}As you travel on{BO}{BL},{bo}{bl} {YE}you become more and more 
+{BO}{W}weary{BL}.{bo}{bl} {YE}Your feet begin to blister from the {R}heat{YE} and your mouth 
+drys up like a 100 year old virgin{BO}{BL}.{bo}{bl} {YE}You hope youre {CY}water{YE} doesnt 
+run out before you find youre way out of this {R}scorching{YE} hell hole{BO}{BL}.{bo}{bl}
+~
+121 16 1
+D0
+~
+~
+0 -1 12106
+D1
+~
+~
+0 -1 12108
+D2
+~
+~
+0 -1 12113
+D3
+~
+~
+0 -1 12106
+Z3
+C-1
+R0
+S
+#12113
+{YE}P{BO}{W}l{bo}{YE}a{BO}{W}i{bo}{YE}n{BO}{W}s {bo}{YE}o{BO}{W}f {bo}{YE}D{BO}{W}i{bo}{YE}s{BO}{W}g{bo}{YE}u{BO}{W}s{bo}{YE}t{ye}~
+{YE}The {R}hot{YE} air in this vast wasteland makes you gasp for breath with 
+every step you take{BO}{BL}.{bo}{bl} {YE}As you travel on{BO}{BL},{bo}{bl} {YE}you become more and more 
+{BO}{W}weary{BL}.{bo}{bl} {YE}Your feet begin to blister from the {R}heat{YE} and your mouth 
+drys up like a 100 year old virgin{BO}{BL}.{bo}{bl} {YE}You hope youre {CY}water{YE} doesnt 
+run out before you find youre way out of this {R}scorching{YE} hell hole{BO}{BL}.{bo}{bl}
+~
+121 20 1
+D0
+~
+~
+0 -1 12106
+D1
+~
+~
+0 -1 12148
+D2
+~
+~
+0 -1 12106
+D3
+~
+~
+0 -1 12114
+Z3
+C-1
+R0
+S
+#12114
+{YE}P{BO}{W}l{bo}{YE}a{BO}{W}i{bo}{YE}n{BO}{W}s {bo}{YE}o{BO}{W}f {bo}{YE}D{BO}{W}i{bo}{YE}s{BO}{W}g{bo}{YE}u{BO}{W}s{bo}{YE}t{ye}~
+{YE}The {R}hot{YE} air in this vast wasteland makes you gasp for breath with 
+every step you take{BO}{BL}.{bo}{bl} {YE}As you travel on{BO}{BL},{bo}{bl} {YE}you become more and more 
+{BO}{W}weary{BL}.{bo}{bl} {YE}Your feet begin to blister from the {R}heat{YE} and your mouth 
+drys up like a 100 year old virgin{BO}{BL}.{bo}{bl} {YE}You hope youre {CY}water{YE} doesnt 
+run out before you find youre way out of this {R}scorching{YE} hell hole{BO}{BL}.{bo}{bl}
+~
+121 16 1
+D0
+~
+~
+0 -1 12108
+D1
+~
+~
+0 -1 12115
+D2
+~
+~
+0 -1 12106
+D3
+~
+~
+0 -1 12108
+Z3
+C-1
+R0
+S
+#12115
+{BO}{W}East of {BL}W{bo}{Y}a{BO}{W}s{BL}t{bo}{Y}e{BO}{W}l{BL}a{bo}{Y}n{BO}{W}d{bo}{w}~
+{BO}{BL}Small {bo}{G}shrubs{BO}{BL} are scattered all around the edge of the Wasteland{bo}{W}.{BO}{BL} 
+Insects are buzzing around your head and crawling all over the 
+place{bo}{W}.{BO}{BL} Off to your left you see small puddles of {BO}{W}milky{bo}{W} white {BLU}water{W}, 
+{BO}{BL}almost hidden by the {bo}{G}shrubs{W}.{BO}{BL}  On one of the shrubs{bo}{W},{BO}{BL} you see a 
+strange insect{bo}{W},{BO}{BL} eating away at something{bo}{W}.{BO}{BL}  To the north a path 
+extends into a wall of {bo}{Y}weeds{W}.{w}
+~
+121 525316 1
+D0
+{BO}{W}The {bo}{Y}weeds{BO}{W} block your way through{BL}.{W}  If only there were some way to 
+get rid of them{BL}.{bl}{bo}
+~
+weeds~
+2 20107 12122
+D3
+~
+~
+0 -1 12114
+E
+shrub~
+Dummy look at the insect....
+~
+E
+Puddles~
+As you walk closer to these puddles, you notice something moving in them. The
+closer you get the more movement you see. Getting a little nervous you back
+up. Strange that all the insects that were here before are gone. You think
+you better leave also..
+~
+E
+insect~
+A small worm with your face looks back at you. As you move to look closer it
+jumps at you bearing its razor sharp teeth, you duck and it just misses you.
+As you raise you foot to smash it, it lets out a ear shattering scream that
+could wake the dead...
+~
+Z3
+C-1
+R0
+S
+#12116
+{YE}P{BO}{W}l{bo}{YE}a{BO}{W}i{bo}{YE}n{BO}{W}s {bo}{YE}o{BO}{W}f {bo}{YE}D{BO}{W}i{bo}{YE}s{BO}{W}g{bo}{YE}u{BO}{W}s{bo}{YE}t{ye}~
+{YE}The {R}hot{YE} air in this vast wasteland makes you gasp for breath with 
+every step you take{BO}{BL}.{bo}{bl} {YE}As you travel on{BO}{BL},{bo}{bl} {YE}you become more and more 
+{BO}{W}weary{BL}.{bo}{bl} {YE}Your feet begin to blister from the {R}heat{YE} and your mouth 
+drys up like a 100 year old virgin{BO}{BL}.{bo}{bl} {YE}You hope youre {CY}water{YE} doesnt 
+run out before you find youre way out of this {R}scorching{YE} hell hole{BO}{BL}.{bo}{bl}
+~
+121 16 1
+D0
+~
+~
+0 -1 12116
+D1
+~
+~
+0 -1 12117
+D2
+~
+~
+0 -1 12121
+D3
+~
+~
+0 -1 12118
+E
+12115~
+~
+Z3
+C-1
+R0
+S
+#12117
+{YE}P{BO}{W}l{bo}{YE}a{BO}{W}i{bo}{YE}n{BO}{W}s {bo}{YE}o{BO}{W}f {bo}{YE}D{BO}{W}i{bo}{YE}s{BO}{W}g{bo}{YE}u{BO}{W}s{bo}{YE}t{ye}~
+{YE}The {R}hot{YE} air in this vast wasteland makes you gasp for breath with 
+every step you take{BO}{BL}.{bo}{bl} {YE}As you travel on{BO}{BL},{bo}{bl} {YE}you become more and more 
+{BO}{W}weary{BL}.{bo}{bl} {YE}Your feet begin to blister from the {R}heat{YE} and your mouth 
+drys up like a 100 year old virgin{BO}{BL}.{bo}{bl} {YE}You hope youre {CY}water{YE} doesnt 
+run out before you find youre way out of this {R}scorching{YE} hell hole{BO}{BL}.{bo}{bl}
+~
+121 16 1
+D0
+~
+~
+0 -1 12117
+D1
+~
+~
+0 -1 12118
+D2
+~
+~
+0 -1 12117
+D3
+~
+~
+0 -1 12116
+E
+12118~
+~
+Z3
+C-1
+R0
+S
+#12118
+{YE}P{BO}{W}l{bo}{YE}a{BO}{W}i{bo}{YE}n{BO}{W}s {bo}{YE}o{BO}{W}f {bo}{YE}D{BO}{W}i{bo}{YE}s{BO}{W}g{bo}{YE}u{BO}{W}s{bo}{YE}t{ye}~
+{YE}The {R}hot{YE} air in this vast wasteland makes you gasp for breath with 
+every step you take{BO}{BL}.{bo}{bl} {YE}As you travel on{BO}{BL},{bo}{bl} {YE}you become more and more 
+{BO}{W}weary{BL}.{bo}{bl} {YE}Your feet begin to blister from the {R}heat{YE} and your mouth 
+drys up like a 100 year old virgin{BO}{BL}.{bo}{bl} {YE}You hope youre {CY}water{YE} doesnt 
+run out before you find youre way out of this {R}scorching{YE} hell hole{BO}{BL}.{bo}{bl}
+~
+121 16 1
+D0
+~
+~
+0 -1 12117
+D1
+~
+~
+0 -1 12119
+D2
+~
+~
+0 -1 12118
+D3
+~
+~
+0 -1 12117
+Z3
+C-1
+R0
+S
+#12119
+{YE}P{BO}{W}l{bo}{YE}a{BO}{W}i{bo}{YE}n{BO}{W}s {bo}{YE}o{BO}{W}f {bo}{YE}D{BO}{W}i{bo}{YE}s{BO}{W}g{bo}{YE}u{BO}{W}s{bo}{YE}t{ye}~
+{YE}The {R}hot{YE} air in this vast wasteland makes you gasp for breath with 
+every step you take{BO}{BL}.{bo}{bl} {YE}As you travel on{BO}{BL},{bo}{bl} {YE}you become more and more 
+{BO}{W}weary{BL}.{bo}{bl} {YE}Your feet begin to blister from the {R}heat{YE} and your mouth 
+drys up like a 100 year old virgin{BO}{BL}.{bo}{bl} {YE}You hope youre {CY}water{YE} doesnt 
+run out before you find youre way out of this {R}scorching{YE} hell hole{BO}{BL}.{bo}{bl}
+~
+121 16 1
+D0
+~
+~
+0 -1 12117
+D1
+~
+~
+0 -1 12117
+D2
+~
+~
+0 -1 12120
+D3
+~
+~
+0 -1 12118
+Z3
+C-1
+R0
+S
+#12120
+{YE}P{BO}{W}l{bo}{YE}a{BO}{W}i{bo}{YE}n{BO}{W}s {bo}{YE}o{BO}{W}f {bo}{YE}D{BO}{W}i{bo}{YE}s{BO}{W}g{bo}{YE}u{BO}{W}s{bo}{YE}t{ye}~
+{YE}The {R}hot{YE} air in this vast wasteland makes you gasp for breath with 
+every step you take{BO}{BL}.{bo}{bl} {YE}As you travel on{BO}{BL},{bo}{bl} {YE}you become more and more 
+{BO}{W}weary{BL}.{bo}{bl} {YE}Your feet begin to blister from the {R}heat{YE} and your mouth 
+drys up like a 100 year old virgin{BO}{BL}.{bo}{bl} {YE}You hope youre {CY}water{YE} doesnt 
+run out before you find youre way out of this {R}scorching{YE} hell hole{BO}{BL}.{bo}{bl}
+~
+121 16 1
+D0
+~
+~
+0 -1 12107
+D1
+~
+~
+0 -1 12120
+D2
+~
+~
+0 -1 12116
+D3
+~
+~
+0 -1 12118
+Z3
+C-1
+R0
+S
+#12121
+{W}A {BO}{BL}g{W}l{BL}oo{W}m{BL}y {W}{bo}path{w}~
+{BO}{W}You are walking down an un-nervingly {BO}{BL}dark{bl} {BO}{W}path{bo}{W}.{BO}{W} To your comfort 
+you see some {BO}{YE}light{bo}{ye} {BO}{W}at the end of the path{bo}{W}. {BO}You wonder if it is
+time to meet your maker{bo}{W}!{w}
+~
+121 1028 1
+D0
+~
+~
+0 -1 12116
+D2
+~
+~
+0 -1 17599
+E
+Imp~
+
+The imp whispers in your ear. Death is watching, your time is almost near...
+
+If your in trouble and can't find your way, Try  L O O K I N G for a solution
+
+HEED THESE WORDS!
+
+~
+Z3
+C-1
+R0
+S
+#12122
+{Y}P{BO}{W}a{BL}t{bo}{Y}h{y}~
+{Y}Under a {BO}{BL}gloomy sky{bo}{W},{w} {Y}morbid colored {G}flowers {Y}cover the ground you walk upon{W}.{Y}
+Insects are all around you again{W},{Y} strange looking insects indeed{W}.{Y} Some of
+them are eating the pedals of the flowers while some of the flowers are 
+feasting on the insects{W}.{Y} A dead tree stands off to the side with some smaller
+animals scurring up and down it and disappearing under the {G}flowers{W}.{Y} You think
+you see something on the tree but you can't be sure{W}...{w}
+~
+121 0 1
+D0
+~
+~
+0 -1 12123
+D2
+~
+weeds~
+1 -1 12115
+E
+holograph~
+The image becomes clear to you and your able to read the message.
+
+
+This way to the Mortuary...
+~
+E
+tree~
+You stare at the tree for a few minutes and before your eyes a holograph appears
+~
+Z3
+C-1
+R0
+S
+#12123
+{Y}P{BO}{W}a{BL}t{bo}{Y}h{y}~
+{Y}There is a fork in the path. The {G}flowers{Y} and insects begin thinning out{W}.{Y} 
+A horses hoofprints indent the ground{W},{Y} not a ordinary horse{W},{Y} these hoofprints
+are huge{W}.{Y} The sky above you becomes even {BO}{BL}darker{bo}{W},{Y} as you keep treking on{W}.{w}{bo}
+~
+121 0 1
+D2
+~
+~
+0 -1 12122
+D3
+~
+~
+0 -1 12124
+Z3
+C-1
+R0
+S
+#12124
+{BO}{MA}F{bo}{W}u{BO}{MA}j{bo}{W}i {BO}{W}Mountains{w}{bo}~
+{BO}{W}Two majestic mountains block you from continuing any further{BL}.{W} There is a 
+absence of {Y}light{W} here and strange howling noises reach your ears from all
+directions{BL}. {bo}{Y}Rocks{BO}{W} cover the ground making a stange design{BL}.{W} You try to think
+of what to do and then begin panicing again{BL}.{bl}{bo}
+~
+121 16780 1
+D0
+~
+portcullis~
+3 -1 12125
+D1
+~
+~
+0 -1 12123
+E
+rock~
+Try it again your almost there.
+~
+E
+rocks~
+As you look at the rocks they begin moving before your eyes, creating a
+picture of a portcullis with an arrow in its center pointing North. Then
+the picture disappears and reappears again five times, or was it six times.
+~
+T12196
+Z3
+C-1
+R0
+S
+#12125
+{CY}C{BO}{CY}r{BLU}y{bo}{BLU}s{W}tal Ca{BLU}v{BO}{BLU}e{CY}r{bo}{CY}n{cy}~
+You walk through the Portcullis and enter a large cavern. Huge crystals are
+hanging from the ceiling and new crystals are forming around them. Dripping
+water formed a crevice in the hard sand and a small pool of water gathered
+there. You might want to take a drink. But first you might want to get passed
+the Guardian of the Portcullis...
+~
+121 9 1
+D0
+~
+~
+0 -1 12126
+D1
+~
+~
+0 -1 12128
+D2
+~
+portcullis~
+1 -1 12124
+D3
+~
+~
+0 -1 12127
+E
+pool~
+The water looks crystal clear. Probably better then the water your use to.
+~
+E
+crystals~
+Your light makes the crystals reflect a rainbow of colors throughout the
+caverns. Its almost hypnotic.
+~
+Z3
+C-1
+R0
+S
+#12126
+{CY}C{BO}{CY}r{BLU}y{bo}{BLU}s{W}tal Ca{BLU}v{BO}{BLU}e{CY}r{bo}{CY}n{cy}~
+As you enter the Northern part of the cavern, you feel a rumbling under your
+feet and hear loud crashing everywhere. You try to find cover as some of the
+rocks that fall from above hit you. After a few minutes everything settles
+down and seeing all the rocks around you, you realize that there was a cavein.
+~
+121 41 1
+D0
+~
+Rocks~
+3 -1 12129
+D1
+~
+~
+0 -1 12128
+D2
+~
+~
+0 -1 12125
+D3
+~
+~
+0 -1 12127
+E
+n rocks~
+You think you saw a exit north as you entered this part of the cavern. But its
+blocked by rocks now. Maybe you should dig through the rocks..
+~
+E
+n~
+You look northwards.
+You see  nothing special.
+~
+E
+rocks~
+It looks like there was a cavein here. Probably blocking your exit.
+~
+Z3
+C-1
+R0
+S
+#12127
+{CY}C{BO}{CY}r{BLU}y{bo}{BLU}s{W}tal Ca{BLU}v{BO}{BLU}e{CY}r{bo}{CY}n{cy}~
+This is the West side of the cavern. The floor slopes from West to East. As 
+you look up you can see many crystals hanging from the ceiling with water
+dripping off their points and flowing into the small pool in the center of 
+the cavern. Large cracks in the floor make it difficult to walk without
+looking down..
+~
+121 9 1
+D1
+~
+~
+0 -1 12125
+Z3
+C-1
+R0
+S
+#12128
+{CY}C{BO}{CY}r{BLU}y{bo}{BLU}s{W}tal Ca{BLU}v{BO}{BLU}e{CY}r{bo}{CY}n{cy}~
+As you enter the East side of the cavern, you hear a loud flapping of wings.
+Lifting up your light, hundreds of bats that were hanging from the crystals
+and flying under the ceiling knock you down as they try to make their escape.
+When they all are gone you stand up and see the crystals forming on the walls
+and on the ceiling, with reflections of colors everywhere.
+~
+121 9 1
+D3
+~
+~
+0 -1 12125
+Z3
+C-1
+R0
+S
+#12129
+{BL}D{BO}{BL}a{bo}{BL}r{BO}{BL}k {bo}{BL}T{BO}{BL}u{bo}{BL}n{BO}{BL}n{bo}{BL}e{BO}{BL}l{bo}{BL}s{bl}~
+{BO}{BL}You are traveling through a dark tunnel that as far as you can tell 
+seems to lead in all directions{W}.{BL} The air in the tunnel is moist and 
+thick{W},{BL} which makes you're already arrest breathing that much more 
+troublesome{W}.{BL} You stumble about aimlessly with you're hands in front 
+of you hoping to find some {Y}light{BL} at the end of this tunnel{W}.{w}
+~
+121 41 1
+D0
+~
+~
+0 -1 12130
+D1
+~
+~
+0 -1 12129
+D2
+~
+Rocks~
+1 -1 12126
+D3
+~
+~
+0 -1 12129
+E
+holes~
+Worms with your face look back at you as you peek into a few holes. Once they
+bare their fangs and start spitting something at you, that hits the floor and
+sizzles you back away and hastely move foward.
+~
+E
+hole~
+It says holes in the description not hole ya dummy.
+~
+Z3
+C-1
+R0
+S
+#12130
+{BL}D{BO}{BL}a{bo}{BL}r{BO}{BL}k {bo}{BL}T{BO}{BL}u{bo}{BL}n{BO}{BL}n{bo}{BL}e{BO}{BL}l{bo}{BL}s{bl}~
+{BO}{BL}You are traveling through a dark tunnel that as far as you can tell 
+seems to lead in all directions{W}.{BL} The air in the tunnel is moist and 
+thick{W},{BL} which makes you're already arrest breathing that much more 
+troublesome{W}.{BL} You stumble about aimlessly with you're hands in front 
+of you hoping to find some {Y}light{BL} at the end of this tunnel{W}.{w}
+~
+121 41 1
+D0
+~
+~
+0 -1 12131
+D1
+~
+~
+0 -1 12129
+D2
+~
+~
+0 -1 12129
+D3
+~
+~
+0 -1 12129
+E
+hole ~
+It says holes in the description not hole ya dummy.
+~
+E
+holes~
+Worms with your face look back at you as you peek into a few holes. Once they
+bare their fangs and start spitting something at you, that hits the floor and
+sizzles, you back away and continue on.
+~
+Z3
+C-1
+R0
+S
+#12131
+{BL}D{BO}{BL}a{bo}{BL}r{BO}{BL}k {bo}{BL}T{BO}{BL}u{bo}{BL}n{BO}{BL}n{bo}{BL}e{BO}{BL}l{bo}{BL}s{bl}~
+{BO}{BL}You are traveling through a dark tunnel that as far as you can tell 
+seems to lead in all directions{W}.{BL} The air in the tunnel is moist and 
+thick{W},{BL} which makes you're already arrest breathing that much more 
+troublesome{W}.{BL} You stumble about aimlessly with you're hands in front 
+of you hoping to find some {Y}light{BL} at the end of this tunnel{W}.{w}
+~
+121 41 1
+D0
+~
+portcullis~
+1 -1 12132
+D1
+~
+~
+0 -1 12129
+D2
+~
+~
+0 -1 12130
+D3
+~
+~
+0 -1 12129
+E
+holes~
+As you put your light to the holes you can see that they extend deep into the
+mountain.
+~
+Z3
+C-1
+R0
+S
+#12132
+{W}Mouth {BO}{W}in {bo}{W}the {BO}{W}Mountain{bo}{w}~
+{BO}{W}You almost fall off the thin cliff as you walk out of the tunnels{BL}.{W} Looking
+down you can see your higher then halfway up the mountain{BL}.{W} The mountain above
+you is a smooth surface{BL}.{W} You look up into the {CY}c{W}l{bo}{W}o{BO}{CY}u{W}d{bo}{W}s{BO}{W} and wonder how your gonna
+continue and then you see a {BL}spike{bo}{W},{BO}{W} a climbers {BL}spike{W} hammered into the mountain
+side{BL}.{W} Looking further you see another one then another one{BL}.{bo}{w}
+~
+121 8 1
+D2
+~
+portcullis~
+1 -1 12131
+D4
+~
+~
+0 -1 12133
+E
+spike~
+The spike looks like its securely hammered into the mountain side.
+~
+Z3
+C-1
+R0
+S
+#12133
+{BO}{W}Climbing {bo}{W}up {BO}{W}the {bo}{W}mountain{w}~
+{BO}{W}Your {bo}{W}bones{BO}{W} and {bo}{Y}muscles{BO}{W} start to {bo}{R}ache{BO}{W} as you climb one spike at a time{BL}.{W} The
+{CY}c{W}l{bo}{W}o{BO}{CY}u{W}d{bo}{W}s{BO}{W} are pretty dense here and your view is terrible{BL}.{W} You reach for the
+next {BL}spike{W} and pull yourself up a little further{BL}.{W} Your hands start to slip as
+your foot finds the {BL}spike{W} below{BL}.{bl}{w}{bo}
+~
+121 296 1
+D4
+~
+~
+0 -1 12134
+D5
+~
+~
+0 -1 12132
+E
+spike~
+The spike looks like its securely hammered into the mountain side.
+~
+T12132
+Z3
+C-1
+R0
+S
+#12134
+{BO}{W}Climbing {bo}{W}up {BO}{W}the {bo}{W}mountain{w}~
+{BO}{W}Your really in pain now as you wonder when your gonna get to the top{bo}{W}.{BO}{W} You
+grab for the next spike and you hand slips off of it{bo}{W}.{BO}{W} You begin 
+
+{bo}{R}       FALLING
+           FALLING
+               FALLING
+
+{BO}{BL}DEATH{bo}{W}, {BO}{W}The{BL} Grim Reaper{bo}{W},{BO}{W} appears before you{bo}{W},{BO}{W} and says its not your time yet{bo}{W}.
+{BO}{W}And as if none of this happened your climbing on the spikes again{bo}{W}.{w}
+~
+121 296 1
+D4
+~
+~
+0 -1 12135
+D5
+~
+~
+0 -1 12133
+T12133
+Z3
+C-1
+R0
+S
+#12135
+{BO}{W}Climbing {bo}{W}up{BO}{W} the {bo}{W}mountain{w}~
+Still no sign of the top of the mountain. Its higher then you 
+thought it was. You grab for the next spike and pull yourself up 
+again and again and again, and then you finally find something, a 
+cave entrance. A rank smell hits you in the face when you get to 
+its level. You peek in and can't see anything.
+ 
+This looks like a good place to rest....
+~
+121 296 1
+D2
+~
+~
+0 -1 12136
+D4
+~
+~
+0 -1 12137
+D5
+~
+~
+0 -1 12134
+T12134
+Z3
+C-1
+R0
+S
+#12136
+{BO}{G}H{bo}{W}y{BO}{G}d{bo}{W}r{BO}{G}a{bo}{W}'{BO}{G}s {BO}{W}L{bo}{W}a{BO}{W}i{bo}{W}r{w}~
+{BO}{W}Dead bodies of adventures and animals litter the floor{bo}{W}. Bones{BO}{W} are scattered
+throughout the room{bo}{W}.{BO}{W} The smell of rotting {bo}{Y}flesh{BO}{W} makes you gasp for air{bo}{W}. {BO}{W}As
+you look around you see the cave continues deeper into the mountain towards 
+the south{bo}{W}.{w}
+~
+121 77 1
+D0
+~
+~
+0 -1 12135
+D2
+~
+~
+0 -1 12195
+Z3
+C-1
+R0
+S
+#12137
+{BO}{W}Climbing {bo}{W}up {BO}{W}the {bo}{W}mountain~
+{BO}{W}The {CY}c{W}l{bo}{W}o{BO}{CY}u{W}d{bo}{W}s{BO}{W} are really thicker here and its getting real {CY}cold{bo}{W}.{BO}{W} That rest you
+took really helped you out alot{bo}{W}.{BO}{W} Above you the clouds are so dense that you
+might be able to walk on them{bo}{W}.{BO}{W} Still the mountain top is invisible to you{bo}{W}.{w}
+~
+121 296 1
+D4
+~
+~
+0 -1 12138
+D5
+~
+~
+0 -1 12135
+T12135
+Z3
+C-1
+R0
+S
+#12138
+{BO}{W}Climbing {bo}{W}up {BO}{W}the {bo}{W}mountain{w}~
+{BO}{W}You pull yourself above very dense {CY}c{W}l{bo}{W}o{BO}{CY}u{W}d{bo}{W}s{BO}{W} as you grab onto the last {BL}spike{bo}{W}.{BO}{W}
+You can finally see the top of the mountain about five hundred feet above{bo}{W},{BO}{W}
+but you can{bo}{W}'{BO}{W}t see anymore {BL}spikes{bo}{W}. {BO}{W}You think you might be able to walk on
+these {CY}c{W}l{bo}{W}o{BO}{CY}u{W}d{bo}{W}s{BO}{W} with your flying abilities{bo}{W},{BO}{W} even though you never tried flying at
+these heights{bo}{W}!{w}
+~
+121 288 1
+D0
+~
+~
+0 -1 12139
+D5
+~
+~
+0 -1 12137
+E
+clouds~
+The clouds look like transparent cotten floating in space.
+~
+T12137
+Z3
+C-1
+R0
+S
+#12139
+{BO}{CY}C{W}l{bo}{W}o{CY}u{W}d{bo}{W}s{w}~
+{BO}{W}Your flying abilities saved your life as you realize the {CY}c{W}l{bo}{W}o{BO}{CY}u{W}d{bo}{W}s{BO}{W} are nothing
+more then m{bo}{W}i{BO}{W}s{bo}{W}t.{BO}{W} The {bo}{W}white {BO}{W}pillows you call {CY}c{W}l{bo}{W}o{BO}{CY}u{W}d{bo}{W}s{BO}{W} surround you in every
+direction and the sight of them is inspiring{bo}{W}.{BO}{W} You hope your flying spells
+don{bo}{W}'{BO}{W}t run out{bo}{W}, {BO}{W}cause it would mean certain {BL}death{R}...{bo}{r}
+~
+121 2 9
+D0
+~
+~
+0 -1 12139
+D1
+~
+~
+0 -1 12139
+D2
+~
+~
+0 -1 12138
+D3
+~
+~
+0 -1 12140
+D4
+~
+~
+0 -1 12139
+D5
+~
+~
+0 -1 12139
+Z3
+C-1
+R0
+S
+#12140
+{BO}{CY}C{W}l{bo}{W}o{CY}u{W}d{bo}{W}s{w}~
+{BO}{W}Your flying abilities saved your life as you realize the {CY}c{W}l{bo}{W}o{BO}{CY}u{W}d{bo}{W}s{BO}{W} are nothing
+more then m{bo}{W}i{BO}{W}s{bo}{W}t.{BO}{W} The {bo}{W}white {BO}{W}pillows you call {CY}c{W}l{bo}{W}o{BO}{CY}u{W}d{bo}{W}s{BO}{W} surround you in every
+direction and the sight of them is inspiring{bo}{W}.{BO}{W} You hope your flying spells
+don{bo}{W}'{BO}{W}t run out{bo}{W}, {BO}{W}cause it would mean certain {BL}death{R}...{bo}{r}
+~
+121 2 9
+D0
+~
+~
+0 -1 12140
+D1
+~
+~
+0 -1 12139
+D2
+~
+~
+0 -1 12140
+D3
+~
+~
+0 -1 12141
+D4
+~
+~
+0 -1 12140
+D5
+~
+~
+0 -1 12140
+Z3
+C-1
+R0
+S
+#12141
+{bo}{W}Archway in the {CY}{BO}C{bo}{W}l{BO}{W}o{CY}u{bo}{W}d{BO}{W}s{w}{bo}~
+{W}{bo}As you step onto the {CY}{BO}c{bo}{W}l{BO}{W}o{CY}u{bo}{W}d{w} you cant help but notice a enormous
+archway{BO}{BL}.{bl}{bo} {W}Even though you know the {CY}{BO}c{bo}{W}l{BO}{W}o{CY}u{bo}{W}d{BO}{W}s{w}{bo} are made of mist{BO}{BL},{bo}{bl} right
+under youre feet seems {BO}{W}solid{bo}{W} enough{BO}{BL}.{bo}{bl} {W}Beyond the gate in the archway 
+you can make out {BO}{BL}e{W}e{BL}r{W}i{BL}e{bl}{bo} {W}structure surrounded by mist{BO}{BL}.{bo}{bl} {W}The mist seems
+to be {BO}{W}s{bo}{W}w{BO}{W}i{bo}{W}r{BO}{W}l{bo}{W}i{bo}{W}n{BO}{W}g{bo} {W}about frantically and you can here torturous sounds{BO}{BL},{bo}{bl} 
+perhaps it is best to just rest here in the {CY}{BO}c{bo}{W}l{BO}{W}o{CY}u{bo}{W}d{BO}{W}s{w}{bo}{BO}{BL}.{bo}{bl}
+~
+121 0 9
+D0
+~
+Gates of Mist~
+2 12107 12142
+D1
+~
+~
+0 -1 12140
+D2
+~
+~
+0 -1 12140
+D3
+~
+~
+0 -1 12140
+D4
+~
+~
+0 -1 12140
+D5
+~
+~
+0 -1 12140
+E
+gate~
+The gates are made of mist but are as solid as steel.
+~
+E
+gates~
+The gates are made of mist but are as solid as steel.
+~
+Z3
+C-1
+R0
+S
+#12142
+{W}Road of {W}S{BO}{W}p{bo}{W}i{BO}{W}r{bo}{W}i{BO}{W}t{bo}{W}s~
+{W}{BO}You get a {bo}{W}e{BO}{W}e{bo}{W}r{BO}{W}i{bo}{W}e {BO}{W}feeling along this road and you can sense a presence
+amongst the swirling mists{bo}{W}. {W}{BO}A {BO}{CY}chilling{cy} {BO}{W}breeze pierces you{bo}{W}'{BO}{W}re very soul and 
+the deafening {BO}{R}screams{r} {BO}{W}of tortured souls reverberates off the walls of fog
+that surround you{bo}{W}. {BO}{W}You wonder to yourself why these restless spirits were 
+condemed to roam the earth{bo}{W}.{w}{bo}
+~
+121 0 1
+D0
+~
+~
+0 -1 12143
+D2
+~
+Gates of Mist~
+1 12107 12141
+Z3
+C-1
+R0
+S
+#12143
+{W}Road of {W}S{BO}{W}p{bo}{W}i{BO}{W}r{bo}{W}i{BO}{W}t{bo}{W}s~
+{W}{BO}You get a {bo}{W}e{BO}{W}e{bo}{W}r{BO}{W}i{bo}{W}e {BO}{W}feeling along this road and you can sense a presence
+amongst the swirling mists{bo}{W}. {W}{BO}A {BO}{CY}chilling{cy} {BO}{W}breeze pierces you{bo}{W}'{BO}{W}re very soul and 
+the deafening {BO}{R}screams{r} {BO}{W}of tortured souls reverberates off the walls of fog
+that surround you{bo}{W}. {BO}{W}You wonder to yourself why these restless spirits were 
+condemed to roam the earth{bo}{W}.{w}{bo}
+~
+121 0 1
+D2
+~
+~
+0 -1 12142
+D3
+~
+~
+0 -1 12144
+E
+Doors~
+You look at the Doors and you hear it wispering to the Hell Hounds, "kill the
+intruders my pets, They won't get through me. I gave the key to one of your
+brothers."
+~
+Z3
+C-1
+R0
+S
+#12144
+{W}Road of {W}S{BO}{W}p{bo}{W}i{BO}{W}r{bo}{W}i{BO}{W}t{bo}{W}s~
+{W}{BO}You get a {bo}{W}e{BO}{W}e{bo}{W}r{BO}{W}i{bo}{W}e {BO}{W}feeling along this road and you can sense a presence
+amongst the swirling mists{bo}{W}. {W}{BO}A {BO}{CY}chilling{cy} {BO}{W}breeze pierces you{bo}{W}'{BO}{W}re very soul and 
+the deafening {BO}{R}screams{r} {BO}{W}of tortured souls reverberates off the walls of fog
+that surround you{bo}{W}. {BO}{W}You wonder to yourself why these restless spirits were 
+condemed to roam the earth{bo}{W}.{w}{bo}
+~
+121 0 1
+D0
+~
+~
+0 -1 12145
+D1
+~
+~
+0 -1 12143
+Z3
+C-1
+R0
+S
+#12145
+{W}Road of {W}S{BO}{W}p{bo}{W}i{BO}{W}r{bo}{W}i{BO}{W}t{bo}{W}s~
+{W}{BO}You get a {bo}{W}e{BO}{W}e{bo}{W}r{BO}{W}i{bo}{W}e {BO}{W}feeling along this road and you can sense a presence
+amongst the swirling mists{bo}{W}. {W}{BO}A {BO}{CY}chilling{cy} {BO}{W}breeze pierces you{bo}{W}'{BO}{W}re very soul and 
+the deafening {BO}{R}screams{r} {BO}{W}of tortured souls reverberates off the walls of fog
+that surround you{bo}{W}. {BO}{W}You wonder to yourself why these restless spirits were 
+condemed to roam the earth{bo}{W}.{w}{bo}
+~
+121 0 1
+D1
+~
+~
+0 -1 12146
+D2
+~
+~
+0 -1 12144
+Z3
+C-1
+R0
+S
+#12146
+{W}Road of {W}S{BO}{W}p{bo}{W}i{BO}{W}r{bo}{W}i{BO}{W}t{bo}{W}s~
+{W}{BO}You get a {bo}{W}e{BO}{W}e{bo}{W}r{BO}{W}i{bo}{W}e {BO}{W}feeling along this road and you can sense a presence
+amongst the swirling mists{bo}{W}. {W}{BO}A {BO}{CY}chilling{cy} {BO}{W}breeze pierces you{bo}{W}'{BO}{W}re very soul and 
+the deafening {BO}{R}screams{r} {BO}{W}of tortured souls reverberates off the walls of fog
+that surround you{bo}{W}. {BO}{W}You wonder to yourself why these restless spirits were 
+condemed to roam the earth{bo}{W}.{w}{bo}
+~
+121 0 1
+D0
+~
+~
+0 -1 12147
+D3
+~
+~
+0 -1 12145
+E
+doors~
+You look at the doors and it bellows at the Hell Hounds, " Kill the intruders
+my pets. They you have the Key, but nay one of your brothers do.....
+~
+Z3
+C-1
+R0
+S
+#12147
+{BO}{W}Entrance to{bo}{w} {BO}{BL}Mortuary{bo}{bl}~
+Standing before you is a huge {BO}{W}marble{bo}{w} structure{BO}{BL},{bo}{bl} most of it hidden in the
+{CYAN}{BO}clouds{cy}{bo} above{BO}{BL}.{bo}{bl} There are no {BO}{CY}windows{bo}{cy} and only a large strange double door is
+visible{BO}{BL}.{bo}{bl} A {BO}{W}marble{bo}{w} walkway going East and West seem to turn the corner of the
+structure on both sides{BO}{BL}.{bo}{bl} Two {BO}{R}hell{bo}{r} {YE}hounds{ye} are chained{BO}{BL},{bo}{bl} one to each side of the
+doors{BO}{BL}.{bl}{bo} As you approach{BO}{BL},{bo}{bl} the doors seem to come alive{BO}{BL}...{bo}{bl}
+~
+121 4 1
+D0
+~
+Doors~
+2 12105 12153
+D1
+~
+~
+0 -1 12171
+D2
+~
+~
+0 -1 12146
+D3
+~
+~
+0 -1 12154
+E
+doors~
+You look at the doors and you hear it whispering to the Hell Hounds, kill
+the intruders my pets. They won't get through me. For your brother has my key.
+~
+T12196
+Z3
+C-1
+R0
+S
+#12148
+{YE}P{BO}{W}l{bo}{YE}a{BO}{W}i{bo}{YE}n{BO}{W}s {bo}{YE}o{BO}{W}f {bo}{YE}D{BO}{W}i{bo}{YE}s{BO}{W}g{bo}{YE}u{BO}{W}s{bo}{YE}t{ye}~
+{YE}The {R}hot{YE} air in this vast wasteland makes you gasp for breath with 
+every step you take{BO}{BL}.{bo}{bl} {YE}As you travel on{BO}{BL},{bo}{bl} {YE}you become more and more 
+{BO}{W}weary{BL}.{bo}{bl} {YE}Your feet begin to blister from the {R}heat{YE} and your mouth 
+drys up like a 100 year old virgin{BO}{BL}.{bo}{bl} {YE}You hope youre {CY}water{YE} doesnt 
+run out before you find youre way out of this {R}scorching{YE} hell hole{BO}{BL}.{bo}{bl}
+~
+121 16 1
+D0
+~
+~
+0 -1 12106
+D1
+~
+~
+0 -1 12108
+D2
+~
+~
+0 -1 12109
+D3
+~
+~
+0 -1 12113
+E
+windor~
+The window is smashed and barred. Looking out you can see the vastness of the
+desert...
+~
+E
+window~
+The window is smashed and barred. Looking out you can see the PLains od Disgust
+~
+Z3
+C-1
+R0
+S
+#12149
+{BO}{BL}St{W}ai{BO}{BL}rs {W}to the {BL}B{W}a{BO}{BL}s{W}e{BO}{BL}m{W}e{BO}{BL}nt{bo}{bl}~
+{Y}Wooden {BO}{BL}stairs lead down into the {W}bowels {BL}of this building{bo}{W}. {BO}{BL}A few steps are
+r{bo}{BL}o{BO}{BL}tt{bo}{BL}e{BO}{BL}d through{bo}{W}, {BO}{BL}but you think you can make your way down{bo}{W}. {BO}{BL}You wonder if
+if this leads to the way out{bo}{W}...{w}
+~
+121 9 1
+D1
+~
+door~
+1 12101 12103
+D5
+~
+ladder~
+1 -1 12150
+Z3
+C-1
+R0
+S
+#12150
+{BO}{BL}B{W}a{BO}{BL}s{W}e{BO}{BL}m{W}e{BO}{BL}nt{bo}{bl}~
+{BO}{BL}A horrible {W}stench{BL} is the first thing you notice as you enter into this room{bo}{W}.{BO}{BL} 
+You can see a broken {G}s{bo}{G}e{BO}{G}w{bo}{G}a{BO}{G}g{bo}{G}e{BO}{BL} pipe leaking through a r{bo}{BL}o{BO}{BL}tt{bo}{BL}e{BO}{BL}d wall{bo}{W}. {BO}{BL}The floor
+is covered with puddles of {bo}{Y}waste {BO}{BL}and {Y}urine{bo}{W}.{BO}{BL} Rats are everywhere and stop
+whatever they were doing when they notice your presence{bo}{W}.{w}
+~
+121 0 1
+D4
+~
+ladder~
+1 12103 12149
+Z3
+C-1
+R0
+S
+#12151
+{BO}{BL}B{W}a{BO}{BL}s{W}e{BO}{BL}m{W}e{BO}{BL}nt{bo}{bl}~
+{BO}{BL}You step through a {W}window {BL}and jump to the {bo}{Y}ground{W}. {BO}{BL}But you didn{bo}{W}'{BO}{BL}t stop when you
+hit the {bo}{Y}ground{W}, {BO}{BL}you went right through some r{bo}{BL}o{BO}{BL}tt{bo}{BL}e{BO}{BL}d boards and landed in the
+basement{bo}{W}.{w}
+~
+121 9 1
+D3
+~
+wall~
+1 12100 12150
+Z3
+C-1
+R0
+S
+#12152
+{BO}{W}A{BL}tt{bo}{W}i{BO}{W}c{bo}{w}~
+{BO}{W}This room hasn{bo}{W}'{BO}{W}t been used in years{bo}{W}. {BO}{W}Old {bo}{Y}dusty {BO}{BL}trunks{W} line the walls most{bo}{W},{BO}{W}
+{BO}{BL}r{bo}{BL}o{BO}{BL}tt{bo}{BL}e{BO}{BL}d{W} or crushed{bo}{W}.{BO}{W} Old pictures and equipment lie all over the floor{bo}{W}.{BO}{W} One
+lone {bo}{W}window{BO}{W} is on the northern wall{bo}{W}.{BO}{W} The {bo}{G}m{Y}i{G}ld{Y}e{G}w {BO}{W}and {bo}{CY}w{BO}{W}a{bo}{CY}t{BO}{W}e{bo}{CY}r {BO}{BL}stain {W}most of the 
+walls here{bo}{W}.{w}
+~
+121 12 1
+D0
+~
+window~
+1 -1 12106
+D5
+~
+portal~
+2 12104 12101
+Z3
+C-1
+R0
+S
+#12153
+{BO}{BL}L{BO}{W}ou{BL}ng{W}e{w}{bo}~
+{BO}{W}This looks like any other lounge you ever saw{bo}{W}.{BO}{W} A few couches and chairs are
+against the walls{bo}{W},{BO}{W} tables are in front of them and on their sides{bo}{W}. {BO}{W}Doors
+lead to different reception rooms{bo}{W}.{BO}{W} In the center of the room theres a {BL}s{W}p{bo}{W}i{BO}{BL}r{W}a{bo}{W}l{BO}{W}
+staricase{bo}{W}.{w}
+~
+121 9229 1
+D0
+~
+door~
+1 -1 12176
+D1
+~
+~
+0 -1 12178
+D2
+~
+Doors~
+1 12105 12147
+D3
+~
+~
+0 -1 12177
+D4
+~
+~
+0 -1 12180
+D5
+~
+~
+0 -1 12179
+Z3
+C-1
+R0
+S
+#12154
+{WHITE}{BOLD}Walkway around {BLACK}Mortuary{bold}{bla}~
+You{BL}{BO}'{bo}{bl}re walking around a huge {BO}{W}marble{w}{bo} structure on a {W}{BO}marble{w}{b} walkway{BL}{BO}.{bo} 
+The structure is solid with no {BO}{CY}windows{cy}{BL}.{bl} You see {YE}muddy{ye} paw prints of 
+large animals on the walkway as you look down. It looks like the 
+walkway goes straight and then turns{BO}{BL}.{bl}{bo}
+~
+121 4 1
+D1
+~
+~
+0 -1 12147
+D3
+~
+~
+0 -1 12155
+Z3
+C-1
+R0
+S
+#12155
+{WHITE}{BOLD}Walkway around {BLACK}Mortuary{bold}{bla}~
+You{BL}{BO}'{bo}{bl}re walking around a huge {BO}{W}marble{w}{bo} structure on a {W}{BO}marble{w}{b} walkway{BL}{BO}.{bo} 
+The structure is solid with no {BO}{CY}windows{cy}{BL}.{bl} You see {YE}muddy{ye} paw prints of 
+large animals on the walkway as you look down. It looks like the 
+walkway goes straight and then turns{BO}{BL}.{bl}{bo}
+~
+121 4 1
+D1
+~
+~
+0 -1 12154
+D3
+~
+~
+0 -1 12156
+Z3
+C-1
+R0
+S
+#12156
+{WHITE}{BOLD}Walkway around {BLACK}Mortuary{bold}{bla}~
+You{BL}{BO}'{bo}{bl}re walking around a huge {BO}{W}marble{w}{bo} structure on a {W}{BO}marble{w}{b} walkway{BL}{BO}.{bo} 
+The structure is solid with no {BO}{CY}windows{cy}{BL}.{bl} You see {YE}muddy{ye} paw prints of 
+large animals on the walkway as you look down. It looks like the 
+walkway goes straight and then turns{BO}{BL}.{bl}{bo}
+~
+121 4 1
+D0
+~
+~
+0 -1 12157
+D1
+~
+~
+0 -1 12155
+D3
+~
+~
+0 -1 12172
+Z3
+C-1
+R0
+S
+#12157
+{WHITE}{BOLD}Walkway around {BLACK}Mortuary{bold}{bla}~
+You{BL}{BO}'{bo}{bl}re walking around a huge {BO}{W}marble{w}{bo} structure on a {W}{BO}marble{w}{b} walkway{BL}{BO}.{bo} 
+The structure is solid with no {BO}{CY}windows{cy}{BL}.{bl} You see {YE}muddy{ye} paw prints of 
+large animals on the walkway as you look down. It looks like the 
+walkway goes straight and then turns{BO}{BL}.{bl}{bo}
+~
+121 4 1
+D0
+~
+~
+0 -1 12158
+D2
+~
+~
+0 -1 12156
+Z3
+C-1
+R0
+S
+#12158
+{WHITE}{BOLD}Walkway around {BLACK}Mortuary{bold}{bla}~
+You{BL}{BO}'{bo}{bl}re walking around a huge {BO}{W}marble{w}{bo} structure on a {W}{BO}marble{w}{b} walkway{BL}{BO}.{bo} 
+The structure is solid with no {BO}{CY}windows{cy}{BL}.{bl} You see {YE}muddy{ye} paw prints of 
+large animals on the walkway as you look down. It looks like the 
+walkway goes straight and then turns{BO}{BL}.{bl}{bo}
+~
+121 4 1
+D0
+~
+~
+0 -1 12159
+D2
+~
+~
+0 -1 12157
+Z3
+C-1
+R0
+S
+#12159
+{WHITE}{BOLD}Walkway around {BLACK}Mortuary{bold}{bla}~
+You{BL}{BO}'{bo}{bl}re walking around a huge {BO}{W}marble{w}{bo} structure on a {W}{BO}marble{w}{b} walkway{BL}{BO}.{bo} 
+The structure is solid with no {BO}{CY}windows{cy}{BL}.{bl} You see {YE}muddy{ye} paw prints of 
+large animals on the walkway as you look down. It looks like the 
+walkway goes straight and then turns{BO}{BL}.{bl}{bo}
+~
+121 4 1
+D1
+~
+~
+0 -1 12160
+D2
+~
+~
+0 -1 12158
+Z3
+C-1
+R0
+S
+#12160
+{WHITE}{BOLD}Walkway around {BLACK}Mortuary{bold}{bla}~
+You{BL}{BO}'{bo}{bl}re walking around a huge {BO}{W}marble{w}{bo} structure on a {W}{BO}marble{w}{b} walkway{BL}{BO}.{bo} 
+The structure is solid with no {BO}{CY}windows{cy}{BL}.{bl} You see {YE}muddy{ye} paw prints of 
+large animals on the walkway as you look down. It looks like the 
+walkway goes straight and then turns{BO}{BL}.{bl}{bo}
+~
+121 4 1
+D1
+~
+~
+0 -1 12161
+D3
+~
+~
+0 -1 12159
+Z3
+C-1
+R0
+S
+#12161
+{WHITE}{BOLD}Walkway around {BLACK}Mortuary{bold}{bla}~
+You{BL}{BO}'{bo}{bl}re walking around a huge {BO}{W}marble{w}{bo} structure on a {W}{BO}marble{w}{b} walkway{BL}{BO}.{bo} 
+The structure is solid with no {BO}{CY}windows{cy}{BL}.{bl} You see {YE}muddy{ye} paw prints of 
+large animals on the walkway as you look down. It looks like the 
+walkway goes straight and then turns{BO}{BL}.{bl}{bo}
+~
+121 4 1
+D1
+~
+~
+0 -1 12162
+D3
+~
+~
+0 -1 12160
+Z3
+C-1
+R0
+S
+#12162
+{WHITE}{BOLD}Walkway around {BLACK}Mortuary{bold}{bla}~
+You{BL}{BO}'{bo}{bl}re walking around a huge {BO}{W}marble{w}{bo} structure on a {W}{BO}marble{w}{b} walkway{BL}{BO}.{bo} 
+The structure is solid with no {BO}{CY}windows{cy}{BL}.{bl} You see {YE}muddy{ye} paw prints of 
+large animals on the walkway as you look down. It looks like the 
+walkway goes straight and then turns{BO}{BL}.{bl}{bo}
+~
+121 4 1
+D0
+~
+~
+0 -1 12174
+D1
+~
+~
+0 -1 12163
+D3
+~
+~
+0 -1 12161
+Z3
+C-1
+R0
+S
+#12163
+{WHITE}{BOLD}Walkway around {BLACK}Mortuary{bold}{bla}~
+You{BL}{BO}'{bo}{bl}re walking around a huge {BO}{W}marble{w}{bo} structure on a {W}{BO}marble{w}{b} walkway{BL}{BO}.{bo} 
+The structure is solid with no {BO}{CY}windows{cy}{BL}.{bl} You see {YE}muddy{ye} paw prints of 
+large animals on the walkway as you look down. It looks like the 
+walkway goes straight and then turns{BO}{BL}.{bl}{bo}
+~
+121 4 1
+D1
+~
+~
+0 -1 12164
+D3
+~
+~
+0 -1 12162
+Z3
+C-1
+R0
+S
+#12164
+{WHITE}{BOLD}Walkway around {BLACK}Mortuary{bold}{bla}~
+You{BL}{BO}'{bo}{bl}re walking around a huge {BO}{W}marble{w}{bo} structure on a {W}{BO}marble{w}{b} walkway{BL}{BO}.{bo} 
+The structure is solid with no {BO}{CY}windows{cy}{BL}.{bl} You see {YE}muddy{ye} paw prints of 
+large animals on the walkway as you look down. It looks like the 
+walkway goes straight and then turns{BO}{BL}.{bl}{bo}
+~
+121 4 1
+D1
+~
+~
+0 -1 12165
+D3
+~
+~
+0 -1 12163
+Z3
+C-1
+R0
+S
+#12165
+{WHITE}{BOLD}Walkway around {BLACK}Mortuary{bold}{bla}~
+You{BL}{BO}'{bo}{bl}re walking around a huge {BO}{W}marble{w}{bo} structure on a {W}{BO}marble{w}{b} walkway{BL}{BO}.{bo} 
+The structure is solid with no {BO}{CY}windows{cy}{BL}.{bl} You see {YE}muddy{ye} paw prints of 
+large animals on the walkway as you look down. It looks like the 
+walkway goes straight and then turns{BO}{BL}.{bl}{bo}
+~
+121 4 1
+D2
+~
+~
+0 -1 12166
+D3
+~
+~
+0 -1 12164
+Z3
+C-1
+R0
+S
+#12166
+{WHITE}{BOLD}Walkway around {BLACK}Mortuary{bold}{bla}~
+You{BL}{BO}'{bo}{bl}re walking around a huge {BO}{W}marble{w}{bo} structure on a {W}{BO}marble{w}{b} walkway{BL}{BO}.{bo} 
+The structure is solid with no {BO}{CY}windows{cy}{BL}.{bl} You see {YE}muddy{ye} paw prints of 
+large animals on the walkway as you look down. It looks like the 
+walkway goes straight and then turns{BO}{BL}.{bl}{bo}
+~
+121 4 1
+D0
+~
+~
+0 -1 12165
+D2
+~
+~
+0 -1 12167
+Z3
+C-1
+R0
+S
+#12167
+{WHITE}{BOLD}Walkway around {BLACK}Mortuary{bold}{bla}~
+You{BL}{BO}'{bo}{bl}re walking around a huge {BO}{W}marble{w}{bo} structure on a {W}{BO}marble{w}{b} walkway{BL}{BO}.{bo} 
+The structure is solid with no {BO}{CY}windows{cy}{BL}.{bl} You see {YE}muddy{ye} paw prints of 
+large animals on the walkway as you look down. It looks like the 
+walkway goes straight and then turns{BO}{BL}.{bl}{bo}
+~
+121 4 1
+D0
+~
+~
+0 -1 12166
+D2
+~
+~
+0 -1 12168
+Z3
+C-1
+R0
+S
+#12168
+{WHITE}{BOLD}Walkway around {BLACK}Mortuary{bold}{bla}~
+You{BL}{BO}'{bo}{bl}re walking around a huge {BO}{W}marble{w}{bo} structure on a {W}{BO}marble{w}{b} walkway{BL}{BO}.{bo} 
+The structure is solid with no {BO}{CY}windows{cy}{BL}.{bl} You see {YE}muddy{ye} paw prints of 
+large animals on the walkway as you look down. It looks like the 
+walkway goes straight and then turns{BO}{BL}.{bl}{bo}
+~
+121 4 1
+D0
+~
+~
+0 -1 12167
+D3
+~
+~
+0 -1 12169
+Z3
+C-1
+R0
+S
+#12169
+{WHITE}{BOLD}Walkway around {BLACK}Mortuary{bold}{bla}~
+You{BL}{BO}'{bo}{bl}re walking around a huge {BO}{W}marble{w}{bo} structure on a {W}{BO}marble{w}{b} walkway{BL}{BO}.{bo} 
+The structure is solid with no {BO}{CY}windows{cy}{BL}.{bl} You see {YE}muddy{ye} paw prints of 
+large animals on the walkway as you look down. It looks like the 
+walkway goes straight and then turns{BO}{BL}.{bl}{bo}
+~
+121 4 1
+D1
+~
+~
+0 -1 12168
+D3
+~
+~
+0 -1 12170
+Z3
+C-1
+R0
+S
+#12170
+{WHITE}{BOLD}Walkway around {BLACK}Mortuary{bold}{bla}~
+You{BL}{BO}'{bo}{bl}re walking around a huge {BO}{W}marble{w}{bo} structure on a {W}{BO}marble{w}{b} walkway{BL}{BO}.{bo} 
+The structure is solid with no {BO}{CY}windows{cy}{BL}.{bl} You see {YE}muddy{ye} paw prints of 
+large animals on the walkway as you look down. It looks like the 
+walkway goes straight and then turns{BO}{BL}.{bl}{bo}
+~
+121 4 1
+D1
+~
+~
+0 -1 12169
+D3
+~
+~
+0 -1 12171
+Z3
+C-1
+R0
+S
+#12171
+{WHITE}{BOLD}Walkway around {BLACK}Mortuary{bold}{bla}~
+You{BL}{BO}'{bo}{bl}re walking around a huge {BO}{W}marble{w}{bo} structure on a {W}{BO}marble{w}{b} walkway{BL}{BO}.{bo} 
+The structure is solid with no {BO}{CY}windows{cy}{BL}.{bl} You see {YE}muddy{ye} paw prints of 
+large animals on the walkway as you look down. It looks like the 
+walkway goes straight and then turns{BO}{BL}.{bl}{bo}
+~
+121 4 1
+D1
+~
+~
+0 -1 12170
+D3
+~
+~
+0 -1 12147
+Z3
+C-1
+R0
+S
+#12172
+{BO}{BL}Side Yard{bo}{bl}~
+{WHITE}You walk off the walkway into a side yard. No {GREEN}plants{gr} grow here, just plain {YELLOW}mud{ye}{BO}.{bo}
+You wonder how {YE}mud{ye} can be here in the {BO}{CY}clouds{cy},{bo} but you have seen stranger 
+things in other lands{BO}.{bo} A little distance to the West you see a huge {BL}{BO}cage{bl},{bo} 
+hidden from your view on the walkway{BO}....{bo}
+~
+121 4 1
+D1
+~
+~
+0 -1 12156
+D3
+~
+cage~
+1 -1 12173
+Z3
+C-1
+R0
+S
+#12173
+{BO}{BL}Cage{bo}{bl}~
+This is a very large{BL}{BO} cage{bl}.{bo} There are several broken {W}{BO}chains{bo}{w} locked onto the bars{BO}.{bo}
+Animal {YELLOW}waste{ye} litters the ground and fresh paw prints are indented in the {YE}mud{ye}{BO}.{bo}
+One animal is chained to the back and {R}{BO}attacks{bo}{r} you as soon as it sees you{BO}.{bo} You
+think maybe the broken {W}{BO}chains{w}{bo} held the same kind of animal thats attacking
+you{BO}....{bo}
+~
+121 0 1
+D1
+~
+cage~
+1 -1 12172
+Z3
+C-1
+R0
+S
+#12174
+{BO}{W}Path to{bo}{w} {YE}Corral{ye}~
+You{BO}{BL}'{bo}{bl}re on a small path that leads to a {YE}corral{ye}{BO}{BL}.{bo}{bl} A big {BL}s{BO}{BL}t{bo}{BL}a{BO}{BL}l{bo}{BL}l{BO}{BL}i{bo}{BL}o{BO}{BL}n{bo}{bl} moves 
+in the {BL}{BO}shadows{bo}{bl} and you can bearly make him out{BO}{BL}.{bo}{bl} Hmmmm{BO}{BL},{bo}{bl} could this 
+be the famous Morbis, horse of the {BO}{BL}G{W}r{BL}i{W}m {BL}R{W}e{BL}a{W}p{BL}e{W}r{BL}.{bo}{bl}
+~
+121 0 1
+D0
+~
+Corral~
+1 -1 12175
+D2
+~
+~
+0 -1 12162
+Z3
+C-1
+R0
+S
+#12175
+{YE}Corral{ye}~
+This {YE}corral{ye} is surrounded by a {BO}{WH}transparent{bo}{wh} barrier{BO}{BL}.{bo}{bl} It looks like 
+the {CY}mist{cy} the archway and gates were made out of{BO}{BL}.{bo}{bl} A huge {W}{BO}pale{w}{bo}
+{BL}s{BO}{BL}t{bo}{BL}a{BO}{BL}l{bo}{BL}l{BO}{BL}i{bo}{BL}o{BO}{BL}n{bo}{bl} bucks ferociously around the {YE}corral{ye}{BO}{BL}.{bo}{bl} As you enter he
+fixates his fiery {BO}{R}red{r}{bo} eyes on you{BO}{BL}!{bo}{bl} Maybe now is a good time to run{BO}{BL}.{bo}{bl}
+~
+121 0 1
+D2
+~
+Corral~
+1 -1 12174
+T12196
+Z3
+C-1
+R0
+S
+#12176
+{bo}{CY}R{W}e{CY}c{W}e{CY}pt{W}io{CY}n R{W}oo{CY}m{cy}~
+{W}Rows of {Y}wooden {W}chairs fill the center of this room extending to the back{BO}{BL}.{bo}{W}
+Couches and chairs are resting on three walls{BO}{BL}.{bo}{W} There is a room full of
+{BO}{W}lost {BL}s{W}o{bo}{W}u{BO}{BL}l{W}s{bo}{W} pacing anxiously about waiting for a proper burial{BO}{BL}.{bo}{bl} 
+~
+121 9 1
+D2
+~
+door~
+1 -1 12153
+Z3
+C-1
+R0
+S
+#12177
+{bo}{CY}R{W}e{CY}c{W}e{CY}pt{W}io{CY}n R{W}oo{CY}m{cy}~
+{W}Rows of {Y}wooden {W}chairs fill the center of this room extending to the back{BO}{BL}.{bo}{W}
+Couches and chairs are resting on three walls{BO}{BL}.{bo}{W} There is a room full of
+{BO}{W}lost {BL}s{W}o{bo}{W}u{BO}{BL}l{W}s{bo}{W} pacing anxiously about waiting for a proper burial{BO}{BL}.{bo}{bl} 
+~
+121 9 1
+D1
+~
+~
+0 -1 12153
+Z3
+C-1
+R0
+S
+#12178
+{bo}{CY}R{W}e{CY}c{W}e{CY}pt{W}io{CY}n R{W}oo{CY}m{cy}~
+{W}Rows of {Y}wooden {W}chairs fill the center of this room extending to the back{BO}{BL}.{bo}{W}
+Couches and chairs are resting on three walls{BO}{BL}.{bo}{W} There is a room full of
+{BO}{W}lost {BL}s{W}o{bo}{W}u{BO}{BL}l{W}s{bo}{W} pacing anxiously about waiting for a proper burial{BO}{BL}.{bo}{bl} 
+~
+121 9 1
+D3
+~
+~
+0 -1 12153
+Z3
+C-1
+R0
+S
+#12179
+{Y}C{BO}{W}a{bo}{Y}sk{BO}{W}e{bo}{Y}t {BO}{BL}R{W}oo{BL}m{bo}{bl}~
+{BO}{BL}Racks of caskets line the walls{bo}{W}.{BO}{BL} Some are made of {bo}{Y}wood{W}, iron{BO}{W},{BL} and {W}stone {bo}{W}-{BO}{BL} and 
+some of the shelves holding the {bo}{Y}caskets{BO}{BL} are empty{bo}{W}. {BO}{BL}Inside some of the open
+{bo}{Y}caskets {BO}{BL}you notice the {bo}{W}silk {BO}{W}linen{BL} is stained{bo}{W},{BO}{BL} and the {W}pillow{BL} torn{bo}{W}.{w}
+~
+121 9 1
+D4
+~
+~
+0 -1 12153
+Z3
+C-1
+R0
+S
+#12180
+{BO}{BL}S{BO}{W}p{bo}{W}i{BO}{BL}r{BO}{W}a{bo}{w}l stairs~
+{BO}{W}These stairs are made of {BO}{BL}black {W}metal and go up as far as you can see{bo}{W}.{BO} As you
+walk up stair by stair you{bo}{W}'{BO}re boots clank against the metal{bo}{W},{BO} and {CY}e{W}{bo}c{BO}{CY}h{bo}{W}o{BO} throughout
+the building{bo}{W}.{BO} Probably warning anything that {BO}{BL}lurks{W} here of your arrival{bo}{W}...{w}
+~
+121 137 1
+D4
+~
+~
+0 -1 12181
+D5
+~
+~
+0 -1 12153
+Z3
+C-1
+R0
+S
+#12181
+{BO}{BL}S{BO}{W}p{bo}{W}i{BO}{BL}r{BO}{W}a{bo}{w}l stairs~
+{BO}{W}These stairs are made of {BO}{BL}black {W}metal and go up as far as you can see{bo}{W}.{BO} As you
+walk up stair by stair you{bo}{W}'{BO}re boots clank against the metal{bo}{W},{BO} and {CY}e{W}{bo}c{BO}{CY}h{bo}{W}o{BO} throughout
+the building{bo}{W}.{BO} Probably warning anything that {BO}{BL}lurks{W} here of your arrival{bo}{W}...{w}
+~
+121 137 1
+D4
+~
+~
+0 -1 12182
+D5
+~
+~
+0 -1 12180
+Z3
+C-1
+R0
+S
+#12182
+{BO}{BL}S{BO}{W}p{bo}{W}i{BO}{BL}r{BO}{W}a{bo}{w}l stairs~
+{BO}{W}These stairs are made of {BO}{BL}black {W}metal and go up as far as you can see{bo}{W}.{BO} As you
+walk up stair by stair you{bo}{W}'{BO}re boots clank against the metal{bo}{W},{BO} and {CY}e{W}{bo}c{BO}{CY}h{bo}{W}o{BO} throughout
+the building{bo}{W}.{BO} Probably warning anything that {BO}{BL}lurks{W} here of your arrival{bo}{W}...{w}
+~
+121 137 1
+D4
+~
+~
+0 -1 12183
+D5
+~
+~
+0 -1 12181
+Z3
+C-1
+R0
+S
+#12183
+{BO}{BL}S{BO}{W}p{bo}{W}i{BO}{BL}r{BO}{W}a{bo}{w}l stairs~
+{BO}{W}These stairs are made of {BO}{BL}black {W}metal and go up as far as you can see{bo}{W}.{BO} As you
+walk up stair by stair you{bo}{W}'{BO}re boots clank against the metal{bo}{W},{BO} and {CY}e{W}{bo}c{BO}{CY}h{bo}{W}o{BO} throughout
+the building{bo}{W}.{BO} Probably warning anything that {BO}{BL}lurks{W} here of your arrival{bo}{W}...{w}
+~
+121 137 1
+D4
+~
+~
+0 -1 12184
+D5
+~
+~
+0 -1 12182
+Z3
+C-1
+R0
+S
+#12184
+{BO}{BL}S{BO}{W}p{bo}{W}i{BO}{BL}r{BO}{W}a{bo}{w}l stairs~
+{BO}{W}These stairs are made of {BO}{BL}black {W}metal and go up as far as you can see{bo}{W}.{BO} As you
+walk up stair by stair you{bo}{W}'{BO}re boots clank against the metal{bo}{W},{BO} and {CY}e{W}{bo}c{BO}{CY}h{bo}{W}o{BO} throughout
+the building{bo}{W}.{BO} Probably warning anything that {BO}{BL}lurks{W} here of your arrival{bo}{W}...{w}
+~
+121 137 1
+D4
+~
+~
+0 -1 12185
+D5
+~
+~
+0 -1 12183
+Z3
+C-1
+R0
+S
+#12185
+{BO}{BL}S{BO}{W}p{bo}{W}i{BO}{BL}r{BO}{W}a{bo}{w}l stairs~
+{BO}{W}These stairs are made of {BO}{BL}black {W}metal and go up as far as you can see{bo}{W}.{BO} As you
+walk up stair by stair you{bo}{W}'{BO}re boots clank against the metal{bo}{W},{BO} and {CY}e{W}{bo}c{BO}{CY}h{bo}{W}o{BO} throughout
+the building{bo}{W}.{BO} Probably warning anything that {BO}{BL}lurks{W} here of your arrival{bo}{W}...{w}
+~
+121 137 1
+D4
+~
+~
+0 -1 12186
+D5
+~
+~
+0 -1 12184
+Z3
+C-1
+R0
+S
+#12186
+{BO}{W}Top of the {BO}{BL}s{W}t{bo}{W}a{BO}{BL}i{W}r{bo}{W}c{BO}{BL}a{W}s{bo}{W}e{w}~
+You're standing on the top of the spiral staircase. You can go back 
+down, but if your brave enough you can follow any one of the 
+floating platforms which go off in all directions.
+~
+121 397 1
+D0
+~
+~
+0 -1 12187
+D1
+~
+~
+0 -1 12188
+D2
+~
+~
+0 -1 12190
+D3
+~
+~
+0 -1 12189
+D5
+~
+~
+0 -1 12185
+T12196
+Z3
+C-1
+R0
+S
+#12187
+{BO}{BL}C{W}o{bo}{W}rr{BO}{W}i{BL}d{W}o{BL}r{w}{bo}~
+{BO}{BL}You black out as the floor under your feet opens up. You begin falling{bo}{W}...{w}
+
+        {R}D {BO}{R}O {bo}{R}W {BO}{R}N{bo}
+                   {R}D {BO}{R}O {bo}{R}W {BO}{R}N{bo}
+                              {R}D {BO}{R}O {bo}{R}W{BO}{R} N{bo}
+                                         {R}D {BO}{R}O {bo}{R}W{BO}{R} N{bo}
+
+{BO}{W}When you awake you find yourself away from your companions and at the{bo}{W}...{w}
+~
+121 1048576 1
+D0
+~
+~
+0 -1 12174
+D1
+~
+~
+0 -1 12166
+D3
+~
+~
+0 -1 12172
+D5
+~
+~
+0 -1 12179
+Z3
+C-1
+R0
+S
+#12188
+{BO}{BL}C{W}o{bo}{W}rr{BO}{W}i{BL}d{W}o{BL}r{w}{bo}~
+{BO}{BL}You black out as the floor under your feet opens up. You begin falling{bo}{W}...{w}
+
+        {R}D {BO}{R}O {bo}{R}W {BO}{R}N{bo}
+                   {R}D {BO}{R}O {bo}{R}W {BO}{R}N{bo}
+                              {R}D {BO}{R}O {bo}{R}W{BO}{R} N{bo}
+                                         {R}D {BO}{R}O {bo}{R}W{BO}{R} N{bo}
+
+{BO}{W}When you awake you find yourself away from your companions and at the{bo}{W}...{w}
+~
+121 1048576 1
+D0
+~
+~
+0 -1 12105
+D1
+~
+~
+0 -1 12104
+D3
+~
+~
+0 -1 12103
+D5
+~
+~
+0 -1 12103
+Z3
+C-1
+R0
+S
+#12189
+{BO}{BL}C{W}o{bo}{W}rr{BO}{W}i{BL}d{W}o{BL}r{w}{bo}~
+{BO}{BL}You black out as the floor under your feet opens up. You begin falling{bo}{W}...{w}
+
+        {R}D {BO}{R}O {bo}{R}W {BO}{R}N{bo}
+                   {R}D {BO}{R}O {bo}{R}W {BO}{R}N{bo}
+                              {R}D {BO}{R}O {bo}{R}W{BO}{R} N{bo}
+                                         {R}D {BO}{R}O {bo}{R}W{BO}{R} N{bo}
+
+{BO}{W}When you awake you find yourself away from your companions and at the{bo}{W}...{w}
+~
+121 1048576 1
+D0
+~
+~
+0 -1 12119
+D1
+~
+~
+0 -1 12117
+D2
+~
+~
+0 -1 12190
+D3
+~
+~
+0 -1 12109
+Z3
+C-1
+R0
+S
+#12190
+{BO}{BL}C{W}o{bo}{W}rr{BO}{W}i{BL}d{W}o{BL}r{w}{bo}~
+{BO}{BL}The floor under your feet opens up and  you begin falling{bo}{W}...{w}
+
+      {R}D {BO}{R}O {bo}{R}W{BO}{R} N{bo}      {R}D {BO}{R}O {bo}{R}W{BO}{R} N{bo}      {R}D {BO}{R}O {bo}{R}W{BO}{R} N{bo}      {R}D {BO}{R}O {bo}{R}W{BO}{R} N{bo}                                         
+
+~
+121 1048576 1
+D5
+~
+~
+0 -1 12191
+Z3
+C-1
+R0
+S
+#12191
+{BO}{BL}C{W}o{bo}{W}rr{BO}{W}i{BL}d{W}o{BL}rs{w}{bo}~
+{BO}{BL}Its very dark down here{bo}{W},{BO}{BL} and all you can see is corridors in every direction{bo}{W}.{bo}{w}
+~
+121 9 1
+D0
+~
+~
+0 -1 12191
+D1
+~
+~
+0 -1 12191
+D2
+~
+~
+0 -1 12191
+D3
+~
+~
+0 -1 12192
+E
+12191~
+
+~
+Z3
+C-1
+R0
+S
+#12192
+{BO}{BL}C{W}o{bo}{W}rr{BO}{W}i{BL}d{W}o{BL}rs{w}{bo}~
+{BO}{BL}Its very dark down here{bo}{W},{BO}{BL} and all you can see is corridors in every direction{bo}{W}.{bo}{w}
+~
+121 9 1
+D0
+~
+~
+0 -1 12193
+D1
+~
+~
+0 -1 12191
+D2
+~
+~
+0 -1 12191
+D3
+~
+~
+0 -1 12191
+Z3
+C-1
+R0
+S
+#12193
+{BO}{BL}C{W}o{bo}{W}rr{BO}{W}i{BL}d{W}o{BL}r{w}{bo}~
+{BO}{BL}The floor under your feet opens up and  you begin falling{bo}{W}...{w}
+
+      {R}D {BO}{R}O {bo}{R}W{BO}{R} N{bo}      {R}D {BO}{R}O {bo}{R}W{BO}{R} N{bo}      {R}D {BO}{R}O {bo}{R}W{BO}{R} N{bo}      {R}D {BO}{R}O {bo}{R}W{BO}{R} N{bo}                                         
+
+~
+121 1048576 1
+D5
+~
+~
+0 -1 12194
+Z3
+C-1
+R0
+S
+#12194
+{BO}{W}Ch{bo}{W}a{BO}{W}mb{bo}{W}e{BO}{W}r of {BO}{BL}Death{bo}{bl}~
+{BO}{W}You are standing in what must be a enormous chamber{bo}{W}. {BO}{W}The slick {BL}black{W} walls
+that surround you stretch so far up that you can not see an end to them{bo}{W}.{BO}{W} With
+every footstep an eerie e{bo}{W}c{BO}{W}h{bo}{W}o {BO}{W}follows{bo}{W}.{BO}{W} You grow ever aware of a {bo}{R}e{BO}{BL}v{R}i{bo}{R}l {BO}{W}prescence
+lurking among the {BL}sh{W}a{BL}d{W}o{BL}ws{bo}{W}. {BO}{W}The stench of {BL}death {W}is particularly strong here{bo}{W}.{BO}{W}
+Panic beigns to set in and you frantically reach for your sword{BO}{R}!{bo}{r}{w}
+~
+121 141 1
+D0
+~
+~
+0 -1 12197
+D5
+~
+trapdoor~
+2 12112 12196
+E
+light~
+In the far distance to the north you think you see a very dim light flickering
+~
+E
+portal~
+You keep walking and walking for what seems like forever, and the light keeps
+getting brighter and brighter. Until finally you stand before a circle of
+light which seems to be hovering in space and time. Your amazed at this sight,
+and being as brave as you are you stick your hand in the light. Your hand
+disappears and when you pull it out it reappears. Ahhh! Its only a portal.
+~
+Z3
+C-1
+R0
+S
+#12195
+{BO}{G}H{bo}{W}y{BO}{G}d{bo}{W}r{BO}{G}a{bo}{W}'{BO}{G}s {bo}{Y}N{bo}{W}e{bo}{Y}s{bo}{W}t{w}~
+{BO}{W}In every corner of this room you spot large mounds of meticoulusly placed
+{bo}{W}bones{BO}{W} of misfortunate adventurers{bo}{W}. {BO}{W}On most of the {bo}{W}bones{BO}{W} you notice that there
+is still fresh {bo}{Y}flesh {BO}{W}attached{bo}{W}, {BO}{W}probably there to feed the young{bo}{W}.{BO}{W} The smell of
+{BL}death{W} is overwhelming in this room{bo}{W},{BO}{W} and you wonder to yourself if it is too 
+late to turn around and run{bo}{W}.{BO}{W} Out of the corner of your eye{bo}{W},{BO}{W} as you turn to 
+leave you notice a army of little baby {BO}{G}hydras{W} massing towards you{bo}{W}.{w}
+~
+121 73 1
+D0
+~
+~
+0 -1 12136
+Z3
+C-1
+R0
+S
+#12196
+{BO}{Y}T{bo}{Y}r{W}e{BO}{Y}a{bo}{Y}s{W}u{BO}{Y}r{bo}{Y}e {W}R{BO}{Y}oo{bo}{Y}m{y}{bo}{w}~
+{BO}{Y}There is a multitude of scuffed and mangled equipment scattered about on 
+the dusty floor here. You think to yourself some of this apparent junk might 
+clean up real nice with a little tender lovin care. Underneath all this junk
+appears to be a rotting chest, wonder if there is anything good in it?
+~
+121 4210697 1
+X194
+Z3
+C-1
+R0
+S
+#12197
+{W}The Glowing {BO}{Y}L{bo}{W}i{BO}{Y}g{bo}{W}h{BO}{Y}t{y}{bo}~
+{W}A {BO}{W}faint{bo}{W} glowing {BO}{Y}light{bo}{W} is shinning in the distance to the North{BO}{BL}.{bo}{W} You can{BO}{BL}'{bo}{W}t make
+out what it is at this distance{BO}{BL}.{bo}{W} Smooth {BO}{W}marble{bo}{W} walls surround you on all sides
+and makes you feel uncomfortable{BO}{BL}.{bo}{W} Looking up you see that the walls extend up
+past your vision{BO}{BL}.{bo}{W} You wouldn{BO}{BL}'{bo}{W}t even think about attempting to go up there even
+if you could{BO}{BL}.{bo}{bl}
+~
+121 13 1
+D0
+~
+portal~
+1 -1 12116
+D2
+~
+~
+0 -1 12194
+E
+light~
+You keep walking and walking for what seems like forever, and the light keeps
+getting brighter and brighter. Until finally you stand before a circle of
+light which seems to be hovering in space and time. Your amazed at the sight,
+and being as brave as you ar you stick your hand into the light. Your hand
+disappears and reappears when you pull it out. Ahhhh! its only a portal.
+~
+Z3
+C-1
+R0
+S
+#12199
+Forge Square~
+
+You are standing in the center of Forge Square. Thieves Row runs North to
+South and Merchant Ln runs East to West Many people visit this famed Square,
+and theres always alot of activity here.
+
+Woman are filling their buckets with water from the well, which stands in the
+center of the Square, while talking about the latest gossip. Soldiers are
+patrolling the streets, looking for creatures that strayed into town from the
+outlands. Small children are practicing the arts of thievery on any victim 
+they can find. This is Pantara the city of adventure.
+~
+121 8 1
+D3
+~
+~
+0 -1 3001
+Z3
+C-1
+R0
+S
+$~

@@ -1,0 +1,715 @@
+#26000
+scrap food~
+{BO,WH} A Scrap of Food {bo,wh}~
+A scrap of dust-covered food lies here rotting alongside the road.
+~
+{C}
+ It looks like it used to be some sort of sandwich. Now its
+ nothing more than a mass of rotting material, writhing with
+ maggots.
+{c}
+~
+16810082 1143210684 0 S
+56 -100 -10 1d1+3999 40d40+100
+750000 1000000
+8 8 0
+S 83886528
+R 2097168
+D 20
+A 12
+#26001
+paper streamer~
+{BO,BLU} A Streamer{bo,blu}~
+{BO,C}A small forgotten paper streamer is here fluttering in the wind.{bo,c}
+~
+{C}  Its a small reminder of the carnival that passed through here.
+ Probably a torn piece of an old banner, or flyer. Now forgotten,
+ its nothing more than a piece of trash.
+{c}
+~
+83902528 1076134536 0 S
+50 -25 0 1d3+6704 23d8+19
+500000 200000
+8 8 1
+S 768
+R 2097164
+D 20
+A 12
+#26002
+guard admission master~
+{BO,Y}The Master of Admissions{bo,y}~
+{bo,Y}A man holding a fistful of tickets, is here counting his money.{bo,y}
+~
+
+{bo,Y} This guy decides who does, and doesn't enter the carnival.
+
+ He glances over at you and says, "Get lost brat!"
+
+{bo,y}
+~
+1224737090 1343488680 0 C 4
+50 -100 -5 10000d1+0 10d10+200
+10000000 5000000
+8 8 1
+S 8913665
+R 28
+D 20
+A 12
+#26003
+wizard old man~
+{BO,CY}The Wizard{bo,cy}~
+{bo,CY} An aged old man is here writing something on an old parchment{bo,cy}
+~
+
+{CYAN}He looks very old and wise.
+ The old man looks up at you and smiles. "Can I interest you in
+ a scroll perhaps young fella?"
+{cyan}
+~
+692095042 2015625918 1000 C 12
+52 -106 -6 32000d1+0 25d25+100
+5000000 2000000
+8 8 1
+S 72030020
+R 28
+D 20
+A 12
+#26004
+dog town mutt~
+A town mutt~
+A sickly looking mutt is here searching for scraps.
+~
+{C}
+ The mutt is so thin you can count his ribs. He would probably
+ eat anything. He also appears to be diseased. Best stay clear
+ of him. You don't want to catch whatever it has.
+{c}
+~
+285221028 1075577384 -1000 C 43
+50 -60 0 2500d1+0 9d9+100
+1 1
+8 8 1
+S 67109632
+R 20
+D 20
+A 12
+#26005
+citizen town~
+{BO,WH}A Citizen{bo,wh}~
+A citizen of this small town is here enjoying the carnival.
+~
+{C}
+  Its a citizen of the small village this carnival stopped at.
+ They look like a pretty primitive group. 
+   This one appears to be muttering something about the anger
+ of the Gods and a new offering.
+{c}
+~
+369123524 1376527292 -1000 S
+50 -100 -2 5500d1+0 12d14+100
+1000000 2000000
+8 8 1
+S 8390464
+D 20
+A 12
+#26006
+street peddler~
+{R}The Peddler{r}~
+A street peddler is here trying to sell his goods.
+~
+{C}
+  The Peddler stands here all day trying to sell his various goods.
+ He's a short stocky little fellow with a curly mustache. He looks
+ your way and shouts "Step on over young lad!, See the wonders that
+ I have to offer!"
+{c}
+~
+1174421570 1378100136 -1000 C 99
+50 -40 -2 8000d1+0 12d12+150
+8000000 8500
+8 8 0
+S 75498881
+R 28
+D 20
+A 12
+#26007
+stranger crazy man strange~
+{MAG}A Stranger{mag}~
+A crazed old stranger appears to be out of his mind.
+~
+{C}
+  The man has a weird look on his face when he looks toward you.
+ A face mixed with what could be rage, fear, surprise, and even
+ hunger?!
+{c}
+~
+796942433 1375994792 -500 C 4
+51 -100 -8 3000d1+0 10d10+110
+0 300000
+8 8 1
+S 1049359
+R 80
+D 20
+A 12
+#26008
+calliope~
+{BO,R} A {Y}Ca{R}ll{Y}i{R}o{Y}pe{bo,y}~
+A strange assortment of pipes play a disturbing tune.
+~
+  {C}
+  Someone has bound together an assortment of pipes. They vary
+ in size and thickness. A huge boiler lit beneath them creates
+ huge puffs of steam, which are then forced up through the
+ pipes. The result is an awful shrieking noise which chills you
+ to the core.
+{c}
+~
+1237336162 1344537256 0 S
+56 -130 -10 42000d1+0 20d20+170
+1500000 2000000
+8 8 1
+S 8684289
+R 284
+D 20
+A 12
+#26009
+fierce horse~
+{BO,Y}A Fierce Horse{bo,y}~
+A horse with light burns and small cuts peers around fiercely.
+~
+This horse having been recently mistreated has begun to dislike
+being ridden. It peers around fiercely at nothing in particular.
+
+~
+440435298 1412694972 0 C 4
+50 -100 -4 8000d1+0 1d1+200
+750000 80000000
+8 8 0
+S 67241728
+R 284
+D 20
+A 12
+#26010
+angry horse~
+{R}An Angry Horse{r}~
+An angry horse prances around looking for vengeance.
+~
+{C}
+  This Horse has had all the abuse he can take! He is fed up 
+ with it all. He will ignore all pain in his efforts to find
+ PURE vengeance.
+{c}
+~
+461561956 1344012968 -1000 C 4
+30 -100 -2 3000d1+0 12d15+140
+2500000 1153624
+8 8 1
+S 83888971
+R 284
+D 20
+A 12
+#26011
+scared horse~
+{BO,M}A Frightened Horse{bo,m}~
+This horse appears to be running from someone.
+~
+This horse has been spooked very badly. He appears to be
+ currently running for his life.
+~
+425771108 1075577768 -1000 S
+52 -100 -8 12000d1+0 30d16+25
+2500000 1000000
+8 8 1
+S 132928
+R 284
+D 20
+A 12
+#26012
+wooden horse valadan~
+{BO,BLA}Valadan{bo,bla}~
+A horse as black as the darkness that haunts you.
+~
+{C}
+  It is Valadan! A great steed believed to be dead or lost
+ forever.
+            He looks at you with eyes filled with the
+           light of the heavens, and stares straight
+           into your soul.
+{c}
+~
+1262502214 1527515822 0 C 62
+52 -103 -11 65000d1+0 40d40+77
+2500000 2000000
+8 8 1
+S 31065792
+R 28
+D 20
+A 12
+#26013
+running water stream~
+{BO,BLU}Running Water{bo,blu}~
+A swift current of water tries to sweep you off your feet.
+~
+{C}
+  Its a small stream. The water sweeps across your path and
+ glares back at you. You feel a cold chill creeping across
+ your back as you think of crossing it.
+{c}
+~
+679649891 2100036536 1000 C 4
+55 -60 -10 20000d1+0 26d26+100
+250000 123456789
+8 8 0
+S 12978817
+R 92
+D 20
+A 12
+#26014
+battletorn guard~
+{RED}A Battletorn Guard{red}~
+A battletorn soldier has survived many tough battles.
+~
+{C}
+  Its one of Polassar's trusted scouts. He has a fierce look in
+ his eye. His many scars show the experience and respect that he
+ has earned.
+   This man trusts no outsider.
+{c}
+~
+717226023 1377076104 -500 C 4
+50 -100 -6 45000d1+0 25d25+275
+2500000 2000000
+8 8 1
+S 80875078
+R 28
+D 20
+A 12
+#26015
+lurking drifting shadow~
+{BO,BLA}A Drifting Shadow{bo,bla}~
+The shadows lurking about the room seem to drift towards you.
+~
+The darkness around you seems to move with form. You are looking
+at what seems to be center of its movement.
+~
+2445279330 1091306154 -1000 C 4
+50 -100 -3 3000d1+0 0d0+300
+500000 2000000
+8 8 0
+S 2191
+R 16
+D 20
+A 12
+#26016
+troublemaker thief~
+{BO,BLU}A Thief{bo,blu}~
+A town troublemaker hides in the shadows.
+~
+A slender form tries to hide himself in the shadows. Better watch
+your wallet.
+~
+289407862 1377567528 0 C 4
+50 -80 -5 0d0+10000 10d18+80
+800000 2000000
+8 8 0
+S 67112772
+R 16
+D 20
+A 12
+#26017
+master thief shadowmaster~
+{BO,BLA}The S{bo,BLU}h{BO,BLA}a{bo,BLU}d{BO,BLA}o{bo,BLU}w{BO,BLA}m{bo,BLU}a{BO,BLA}s{bo,BLU}t{BO,BLA}e{bo,BLU}r{bo,blu}~
+A thief who has become one with the shadows.
+~
+{C}
+You spot this stranger moving in on you from the distance. You
+can barely make out his figure among the shadows, he blends with
+them really well... undoubtedly this man has mastered the art of
+a silent attack.
+{c}
+~
+1170227238 2101093054 -1000 C 1
+54 -100 -8 50000d1+0 1d1+400
+2500000 1000
+8 8 1
+S 80480644
+D 20
+A 12
+#26018
+castle guard servant~
+{BO,BLU}T{bo,W}h{BO,BLU}e {bo,W}R{BO,BLU}o{bo,W}y{BO,BLU}a{bo,W}l {BO,BLU}G{bo,W}u{BO,BLU}a{bo,W}r{BO,BLU}d{bo,blu}~
+{BO,C}A finely dressed man stands here blocking your way.{c}
+~
+   This loyal servant to the king stands ready at his post. He
+has one job and one job only. No one gets past him unless its 
+the king, or a royal servant.
+~
+499175526 1343488936 0 S
+51 -80 -5 12000d1+0 4d200+150
+2500000 1000000
+8 8 1
+S 8391434
+R 28
+D 20
+A 12
+#26019
+mason worker~
+{MAG}A Mason{mag}~
+A man rushes about carrying a handful of bricks.
+~
+{C}
+  A mason rushes to fix the hole in the wall. He tries
+ unsuccessfully to avoid the harsh, and ill-tempered
+ foreman, who watches his every move. All of this is
+ enough to make anyone irritable.
+{c}
+~
+434126950 1076101688 0 C 4
+10 -90 -5 1400d1+0 12d12+160
+300000 1000
+8 8 1
+S 75498240
+R 16
+D 20
+A 12
+#26020
+boss figure foreman~
+{BO,M}The {bo,M}F{BO,M}o{bo,M}r{BO,M}e{bo,M}m{BO,M}a{bo,M}n{bo,m}~
+A large burly figure stands here blurting out various orders.
+~
+The foreman is under strict orders to get this hole closed as
+soon as possible... another siege could begin at any time.
+~
+1237352550 1376002988 1000 C 4
+51 -230 -8 38000d1+0 20d20+210
+100000 1000
+8 8 1
+S 33555791
+R 92
+D 20
+A 11
+#26021
+dust bunny~
+A{bo,Y} Dust Bunny{bo,y}~
+A wad of dust scatters as you enter the room
+~
+ {C}
+ The dust overwhelms you... making you cough.
+{c}
+~
+2562752608 1228145320 0 C 2
+50 -60 -1 800d1+0 10d10+70
+100000 2000000
+8 8 0
+S 512
+D 20
+A 12
+#26022
+mold spore~
+A {BO,G}Mold Spore{bo,g}~
+Mold spores cloud the air, activating your allergies.
+~
+The mold makes your eyes water, and your nose begins to run.
+~
+465625184 1228145576 0 C 4
+50 -100 -4 1000d1+0 15d15+60
+100000 2000000
+8 8 0
+S 67109376
+R 16
+D 20
+A 12
+#26023
+king polassar~
+{BO,Y}King Polassar{bo,y}~
+A man shoving a large piece of venison into his mouth peers up at you.
+~
+{CYAN}
+   Polassar wears his hair cropped short, for ease under the large
+war-helm on his head, but neither cutting nor being cramped under
+a cap of steel restrains it very much. It grows to a peak over
+his forehead and spreads back in two wings along the sides of his
+head. He also wears a skyblue cloak bordered with red lions, which
+seems to be the only mark of royalty he wears.
+   He looks up at you for a moment, then asks, Care to join me in
+a cask of ale stranger?
+{cyan}
+~
+1327530087 2134680250 0 C 4
+54 -100 -10 60000d1+0 40d40+140
+1 2000000
+8 8 1
+S 113774024
+R 8388636
+D 20
+A 12
+#26024
+man food vendor~
+{BLU}The Food Vendor{blu}~
+A man works behind the counter preparing something for a customer.
+~
+~
+759169138 1107561128 1000 C 1
+53 -80 -10 30000d1+1 20d15+78
+1000000 500000
+8 8 2
+S 787272
+R 12
+D 20
+A 12
+#26025
+apprentice wizard~
+The {bo,W}Apprentice Wizard{bo,w}~
+A skinny little fellow wearing robes is here getting something to eat.
+~
+{C}
+ A weak looking little fellow is here ordering something to eat.
+He looks like he needs to eat. He probably couldn't even hold 
+your sword! What a wuss!
+{c}
+~
+750813286 1107561128 1000 C 1
+48 10 -10 40000d1+0 20d30+2
+1000000 500000
+8 8 2
+S 657224
+R 28
+D 20
+A 12
+#26026
+cold howling wind~
+{BO,C}The {bo,W}Cold {BO,C}W{bo,W}i{BO,C}n{bo,W}d{bo,w}~
+{BO,C}The wind howls as it envelopes you, chilling you to the bone.{bo,c}
+~
+
+It's hard to even spot this sly crafter of magic.  You suspect he hides far more
+than he shows.
+
+~
+297828455 2134647482 0 C 1
+60 -55 -15 3600d1+0 25d25+160
+1 2000000
+8 8 1
+S 79693770
+R 28
+D 20
+A 12
+#26027
+snowdrift~
+A {BO,W}S{bo,W}n{BO,W}o{bo,W}w{BO,W}d{bo,W}r{BO,W}i{bo,W}f{BO,W}t{bo,w}~
+{BO,C}A large mound of snow creeps across your path, making passage difficult.{bo,c}
+~
+Its a living mound of snow!
+~
+1266712691 2134680250 0 C 4
+54 -80 -15 18000d1+0 18d20+11
+1 2000000
+8 8 1
+S 79692993
+R 28
+D 20
+A 12
+#26028
+ice needle~
+A {BO,BLU}N{bo,W}e{BO,BLU}e{bo,W}d{BO,BLU}l{bo,W}e of {BO,W}I{bo,W}c{BO,W}e{bo,w}~
+{bo,W}A small piece of ice strips your flesh from the bone.{bo,w}
+~
+{C}
+  A small razor-like piece of ice flies through the air, piercing
+ you to the bone.
+{c}
+~
+197165158 1091830568 -1000 S
+50 -100 -8 1500d1+0 1d100+60
+1 1000000
+8 8 0
+S 67242689
+R 28
+D 20
+A 12
+#26029
+Shard Ice~
+An {BO,Y}I{W}c{Y}y S{W}h{Y}a{W}r{Y}d{bo,y}~
+A large spear of ice breaks and tears at you as you fall to the floor.
+~
+ A piece of the ice that was broken during your fall tears at you.
+~
+427819618 1091830702 0 C 4
+50 -60 -3 10d15+1000 10d10+40
+1000 1600000
+8 8 0
+S 8389863
+R 16
+D 20
+A 12
+#26030
+white lizard ivory~
+An {BO,W}Ice-Lizard{bo,w}~
+{bo,W}An ivory colored lizard scuttles from a hole in the ice.{bo,w}
+~
+{bo,W}
+   Its a small ivory-colored lizard of some sorts. It's about
+ 12 inches long from nose to tail. It has long thing fangs
+ about 1 inch long. A small ruby-like bulb under its throat
+ glows dimly. 
+   It's possible the creature isn't poisonous, but the odds
+ that anything found in Darkenkeep is harmless isn't the sort
+ you'd care to wager on.
+   At any other time the creature would be an easy kill, but
+ doing it on the side of an icy cliff will be a bit harder...
+ quite a bit harder. 
+{bo,w}
+~
+461422695 1345585832 -500 S
+50 -100 -2 8000d1+0 4d50+15
+0 1000
+8 8 2
+S 47185972
+R 16
+D 20
+A 12
+#26031
+boulder~
+{BO,C}An Icy Boulder{bo,c}~
+{BO,C}A large boulder of ice breaks loose from the cliff and rolls toward you.{bo,c}
+~
+{BO,C} An Icy Boulder{bo,C} looks big enough to crush every bone in your body.{bo,c}
+~
+1132511328 1395393192 -1000 C 2
+50 -100 -10 5000d1+0 18d18+100
+0 2000000
+8 8 0
+S 784
+D 20
+A 12
+#26032
+frozen elf ghost~
+{BO,C}A {W}G{bo,W}h{BO,W}o{bo,W}s{BO,W}t{bo,W}l{BO,W}y {C}Image{c}~
+You get an eerie feeling as you watch a ghostly figure emerge from the ice.
+~
+He looks a little... well... dead.
+~
+450937446 1396441790 0 C 4
+54 -60 -10 55000d1+0 10d200+250
+1 2000000
+8 8 1
+S 787848
+R 8388636
+D 20
+A 12
+#26033
+child town brat runt~
+{BO,G}A runt{bo,g}~
+A knee-high brat scurries toward you begging for your money.
+~
+~
+16777335 1074037672 400 S
+50 -30 -7 950d1+0 10d10+100
+100000 100000
+8 8 1
+S 67111808
+R 272
+D 20
+A 12
+#26034
+guard guardian dragon darkness~
+{BO,BL}The Guardian{bo,bl}~
+{BO,BL}An Icy Scaled Beast of Darkness Takes Your Will to Fight!{bo,bl}
+~
+{C}
+  Ice hangs from the dragon's head, dropping onto the floor with
+ each movement that the beast makes, and its old scales are heavily
+ frosted with white. Around the body, the frost thickens to an icy
+ plate. Wings that seem made of the blizzards of many winters cover
+ the back...
+  The dragon opens its mouth and roars at you... It's teeth appear
+ to be unmeltable icicles.
+  He roars once more, then lumbers toward you...
+{c}
+~
+1270923366 1445241596 -1000 C 4
+55 -25 -10 50000d1+0 0d0+800
+5000000 200000000
+8 8 1
+S 93854609
+R 8388892
+D 20
+A 12
+#26035
+allaire princess~
+Princess Allaire~
+A beautiful maiden clothed in white, lies here unconsious.
+~
+{C}
+  Her face is like that of a snowdrop, flawlessly white over
+ sculptured bones, and her hair the silk of new husked corn. 
+ It's wound about her perfect head many times, coiled in tiny
+ intricate braids. 
+  Finally you've found her... 
+{c}
+~
+1329631299 2134680250 0 C 1
+55 10 -15 9464d1+0 600d1+200
+1 2000000
+8 8 2
+S 122174784
+R 128
+D 20
+A 12
+#26036
+brick rubble~
+A {bo,R}Brick{bo,r}~
+A large piece of rubble is going to fall right on your head!
+~
+{C}
+ Its a large brick and its falling straight toward you!
+{c}
+~
+427819106 1091306408 100 S
+40 -10 -5 0d0+3000 0d0+60
+1 10000000
+8 8 0
+S 42207745
+R 336
+D 20
+A 12
+#26037
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#26038
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#26039
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+$~

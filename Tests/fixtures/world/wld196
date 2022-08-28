@@ -1,0 +1,1746 @@
+#19600
+MGC'S Meditation Chamber~
+There is trophies placed all around the room. Momentos of past conquests.
+There is a circular couch in the center of the room with a short,fat,bald,buda 
+looking man sitting on the bed. 
+~
+196 196616 0
+Z3
+C0
+S
+#19601
+Legend~
+Your on a path to the Elven Forest across this meadow you see a 
+small cottage setting against the tree line of a mighty forest.  
+There is a sign sticking in the ground in front of you!  Read it silly!!
+~
+196 37815329 3
+D3
+~
+~
+0 -1 19602
+Y50
+Z3
+C-1
+S
+#19602
+legend~
+A path toward the Elven Forest.  You see a small cottage ahead.
+You sense danger all around you!
+~
+196 37815329 3
+D1
+~
+~
+0 -1 19601
+D2
+~
+~
+0 -1 19603
+Z3
+C-1
+S
+#19603
+legend~
+Your on the path to the Elven Forest.  The cottage looks more like a 
+gingerbread house than anything else. Wonder if Hansel and Greta slept there?
+You sense danger all around you and hope you reach the cabin soon.
+~
+196 37815329 3
+D0
+~
+~
+0 -1 19602
+D2
+~
+~
+0 -1 19604
+Z3
+C-1
+S
+#19604
+Legend~
+Your in front of Meg's cabin.  There is a door in front of you
+but you sense danger seeping thru it!  Wonder if you should open it?
+~
+196 37830657 3
+D0
+~
+~
+0 -1 19603
+D3
+You see the frontdoor of the cabin. It seems to be made of solid oak.
+~
+frontdoor~
+1 -1 19605
+Z3
+C-1
+S
+#19605
+Legend (Meg's Cabin)~
+Your feeling that something is out of place in this room.  It seems normal enough a bed in the corner, a table and chair in the center of the room, a large spinning wheel along the west wall, hummm!! something seems odd about the wheel now what is it?
+~
+196 37830680 0
+D1
+~
+frontdoor~
+1 -1 19604
+D3
+The wheel appears to be made of ironwood. It looks strong enough to withstand
+an assult with an axe.  There seems to be a small key hole at the base of 
+the wheel. humm! wonder what that's there for?
+~
+wheel~
+1 -1 19606
+Z3
+C-1
+S
+#19606
+Legend~
+A trail in the Elven Forest.
+~
+196 4259841 3
+D1
+~
+wheel~
+1 -1 19605
+D3
+~
+~
+0 -1 19608
+Z3
+C-1
+S
+#19607
+Legend (Guard Post)~
+Inside the large tree. You see evil gnomes standing at knot holes in the tree.
+You realize they have been spying on everyone who passes. You'll show them!
+~
+196 81936 0
+D2
+~
+tree~
+1 -1 19608
+D3
+~
+~
+0 -1 19611
+Z3
+C-1
+S
+#19608
+legend~
+A trail in the Elven Forest.  To the north you see a large tree, the trail
+continues to the south. The obvious exits are south and east.
+~
+196 0 1
+D0
+~
+tree~
+3 -1 19607
+D1
+~
+~
+0 -1 19606
+D2
+~
+~
+0 -1 19609
+Z3
+C-1
+S
+#19609
+legend~
+A trail through the Elven Forest. You are surrounded by large trees growing
+so thickly together you can only stay on the trail. You feel like the 
+trees are closing in on you!
+~
+196 4259857 3
+D0
+~
+~
+0 -1 19608
+D2
+~
+~
+0 -1 19610
+Z3
+C-1
+S
+#19610
+Legend~
+A bend in the trail. You still feel the trees closing in on you. You sense 
+danger ahead and behind you what should you do now? There seems to be no
+end to this forest.
+~
+196 4259841 3
+D0
+~
+~
+0 -1 19609
+D3
+~
+~
+0 -1 19614
+Z3
+C-1
+S
+#19611
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D1
+~
+~
+0 -1 19607
+D2
+~
+~
+0 -1 19612
+D3
+~
+~
+0 -1 19615
+Z3
+C-1
+S
+#19612
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D0
+~
+~
+0 -1 19611
+D2
+~
+~
+0 -1 19613
+D3
+~
+~
+0 -1 19616
+Z3
+C-1
+S
+#19613
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D0
+~
+~
+0 -1 19612
+D3
+~
+~
+0 -1 19617
+Z3
+C-1
+S
+#19614
+Legend~
+The trail winds between the boles of giant trees you see some kind of animal
+in the path.  Wonder if it is as friendly as the last few have been?
+~
+196 4276225 1
+D1
+~
+~
+0 -1 19610
+D3
+~
+~
+0 -1 19618
+Z3
+C-1
+S
+#19615
+Legend~
+Your on a trail in the Elven Forest.
+~
+196 4276225 3
+D1
+~
+~
+0 -1 19611
+D3
+~
+~
+0 -1 19619
+Z3
+C-1
+S
+#19616
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D1
+~
+~
+0 -1 19612
+D2
+~
+~
+0 -1 19617
+Z3
+C-1
+S
+#19617
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D0
+~
+~
+0 -1 19616
+D1
+~
+~
+0 -1 19613
+Z3
+C-1
+S
+#19618
+Legend~
+On a trail in the Elven Forest. The trees are all around you. You get a bad
+feeling standing here!
+~
+196 4259841 3
+D1
+~
+~
+0 -1 19614
+D3
+~
+~
+0 -1 19622
+Z3
+C-1
+S
+#19619
+Legend~
+Your on a trail through the Elven Forest. You would turn back but after what
+you have been through can it get worse ahead?
+~
+196 4276241 3
+D1
+~
+~
+0 -1 19615
+D2
+~
+~
+0 -1 19620
+Z3
+C-1
+S
+#19620
+Legend~
+On a trail through the Elven forest. These beast are getting on your nerves!
+~
+196 4276225 3
+D0
+~
+~
+0 -1 19619
+D2
+~
+~
+0 -1 19621
+Z3
+C-1
+S
+#19621
+Legend~
+The trees seem alive and you could swear they are moving when your looking
+in another direction. You spin quickly and see a tree skid to a halt behind you!
+~
+196 4276225 3
+D0
+~
+~
+0 -1 19620
+D2
+~
+~
+0 -1 19622
+Z3
+C-1
+S
+#19622
+Legend~
+On a trail in the Elvn Forest. You sense danger all around you. Maybe it was not
+a good idea to come here after all.
+~
+196 4276225 3
+D0
+~
+~
+0 -1 19621
+D1
+~
+~
+0 -1 19618
+D3
+~
+~
+0 -1 19623
+Z3
+C-1
+S
+#19623
+legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D1
+~
+~
+0 -1 19622
+D3
+~
+~
+0 -1 19625
+Z3
+C-1
+S
+#19624
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D2
+~
+~
+0 -1 19625
+D3
+~
+~
+0 -1 19629
+Z3
+C-1
+S
+#19625
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D0
+~
+~
+0 -1 19624
+D1
+~
+~
+0 -1 19623
+D2
+~
+~
+0 -1 19626
+Z3
+C-1
+S
+#19626
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D0
+~
+~
+0 -1 19625
+D2
+~
+~
+0 -1 19627
+D3
+~
+~
+0 -1 19630
+Z3
+C-1
+S
+#19627
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D0
+~
+~
+0 -1 19626
+Z3
+C-1
+S
+#19628
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D2
+~
+~
+0 -1 19629
+Z3
+C-1
+S
+#19629
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D0
+~
+~
+0 -1 19628
+D1
+~
+~
+0 -1 19624
+D3
+~
+~
+0 -1 19634
+Z3
+C-1
+S
+#19630
+legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D1
+~
+~
+0 -1 19626
+D3
+~
+~
+0 -1 19635
+Z3
+C-1
+S
+#19631
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D2
+~
+~
+0 -1 19632
+D3
+~
+~
+0 -1 19636
+Z3
+C-1
+S
+#19632
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D0
+~
+~
+0 -1 19631
+D2
+~
+~
+0 -1 19660
+Z3
+C-1
+S
+#19633
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D3
+~
+~
+0 -1 19637
+Z3
+C-1
+S
+#19634
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D1
+~
+~
+0 -1 19629
+D3
+~
+~
+0 -1 19639
+Z3
+C-1
+S
+#19635
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D1
+~
+~
+0 -1 19630
+D3
+~
+~
+0 -1 19641
+Z3
+C-1
+S
+#19636
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D1
+~
+~
+0 -1 19631
+D3
+~
+~
+0 -1 19643
+Z3
+C-1
+S
+#19637
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D1
+~
+~
+0 -1 19633
+D2
+~
+~
+0 -1 19638
+D3
+~
+~
+0 -1 19645
+Z3
+C-1
+S
+#19638
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D0
+~
+~
+0 -1 19637
+D2
+~
+~
+0 -1 19639
+D3
+~
+~
+0 -1 19646
+Z3
+C-1
+S
+#19639
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D0
+~
+~
+0 -1 19638
+D1
+~
+~
+0 -1 19634
+D2
+~
+~
+0 -1 19640
+Z3
+C-1
+S
+#19640
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D0
+~
+~
+0 -1 19639
+D2
+~
+~
+0 -1 19641
+D3
+~
+~
+0 -1 19647
+Z3
+C-1
+S
+#19641
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D0
+~
+~
+0 -1 19640
+D1
+~
+~
+0 -1 19635
+D2
+~
+~
+0 -1 19642
+D3
+~
+~
+0 -1 19648
+Z3
+C-1
+S
+#19642
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D0
+~
+~
+0 -1 19641
+D2
+~
+~
+0 -1 19643
+Z3
+C-1
+S
+#19643
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D0
+~
+~
+0 -1 19642
+D1
+~
+~
+0 -1 19636
+D2
+~
+~
+0 -1 19644
+D3
+~
+~
+0 -1 19649
+Z3
+C-1
+S
+#19644
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D0
+~
+~
+0 -1 19643
+Z3
+C-1
+S
+#19645
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D1
+~
+~
+0 -1 19637
+D2
+~
+~
+0 -1 19646
+D3
+~
+~
+0 -1 19651
+Z3
+C-1
+S
+#19646
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D0
+~
+~
+0 -1 19645
+D1
+~
+~
+0 -1 19638
+D3
+~
+~
+0 -1 19652
+Z3
+C-1
+S
+#19647
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D1
+~
+~
+0 -1 19640
+D2
+~
+~
+0 -1 19648
+D3
+~
+~
+0 -1 19653
+Z3
+C-1
+S
+#19648
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D0
+~
+~
+0 -1 19647
+D1
+~
+~
+0 -1 19641
+Z3
+C-1
+S
+#19649
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D1
+~
+~
+0 -1 19643
+D3
+~
+~
+0 -1 19655
+Z3
+C-1
+S
+#19650
+Legend~
+You are standing in nowhere !!!!
+~
+196 0 1
+D0
+~
+~
+0 -1 19691
+D2
+~
+~
+0 -1 19651
+Z3
+C-1
+S
+#19651
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D0
+~
+~
+0 -1 19650
+D1
+~
+~
+0 -1 19645
+D2
+~
+~
+0 -1 19652
+Z3
+C-1
+S
+#19652
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D0
+~
+~
+0 -1 19651
+D1
+~
+~
+0 -1 19646
+D3
+~
+~
+0 -1 19656
+Z3
+C-1
+S
+#19653
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259840 1
+D1
+~
+~
+0 -1 19647
+D3
+~
+~
+0 -1 19657
+Z3
+C-1
+S
+#19654
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259840 1
+D3
+~
+~
+0 -1 19659
+Z3
+C-1
+S
+#19655
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259840 1
+D1
+~
+~
+0 -1 19649
+Z3
+C-1
+S
+#19656
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D1
+~
+~
+0 -1 19652
+Z3
+C-1
+S
+#19657
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D1
+~
+~
+0 -1 19653
+D2
+~
+~
+0 -1 19658
+Z3
+C-1
+S
+#19658
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D0
+~
+~
+0 -1 19657
+D2
+~
+~
+0 -1 19659
+Z3
+C-1
+S
+#19659
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259857 1
+D0
+~
+~
+0 -1 19658
+D1
+~
+~
+0 -1 19654
+Z3
+C-1
+S
+#19660
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259857 1
+D0
+~
+~
+0 -1 19632
+D1
+~
+~
+0 -1 19665
+D2
+~
+~
+0 -1 19661
+Z3
+C-1
+S
+#19661
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D0
+~
+~
+0 -1 19660
+D1
+~
+~
+0 -1 19666
+D2
+~
+~
+0 -1 19662
+Z3
+C-1
+S
+#19662
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D0
+~
+~
+0 -1 19661
+D5
+~
+~
+0 -1 19663
+Z3
+C-1
+S
+#19663
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D2
+~
+~
+0 -1 19664
+D4
+~
+~
+0 -1 19662
+Z3
+C-1
+S
+#19664
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D0
+~
+~
+0 -1 19663
+Z3
+C-1
+S
+#19665
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D1
+~
+~
+0 -1 19667
+D2
+~
+~
+0 -1 19666
+D3
+~
+~
+0 -1 19660
+Z3
+C-1
+S
+#19666
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D0
+~
+~
+0 -1 19665
+D1
+~
+~
+0 -1 19668
+D3
+~
+~
+0 -1 19661
+Z3
+C-1
+S
+#19667
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D2
+~
+~
+0 -1 19668
+D3
+~
+~
+0 -1 19665
+Z3
+C-1
+S
+#19668
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D0
+~
+~
+0 -1 19667
+D3
+~
+~
+0 -1 19666
+D4
+~
+~
+0 -1 19669
+Z3
+C-1
+S
+#19669
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D1
+~
+~
+0 -1 19672
+D5
+~
+~
+0 -1 19668
+Z3
+C-1
+S
+#19670
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+Z3
+C-1
+S
+#19671
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D2
+~
+~
+0 -1 19672
+Z3
+C-1
+S
+#19672
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D0
+~
+~
+0 -1 19671
+D3
+~
+~
+0 -1 19669
+Z3
+C-1
+S
+#19673
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+Z3
+C-1
+S
+#19674
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D2
+~
+~
+0 -1 19675
+D5
+~
+~
+0 -1 19692
+Z3
+C-1
+S
+#19675
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D0
+~
+~
+0 -1 19674
+D2
+~
+~
+0 -1 19676
+D3
+~
+~
+0 -1 19678
+Z3
+C-1
+S
+#19676
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D0
+~
+~
+0 -1 19675
+D1
+~
+~
+0 -1 19673
+D2
+~
+~
+0 -1 19673
+D3
+~
+~
+0 -1 19679
+Z3
+C-1
+S
+#19677
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D0
+~
+~
+0 -1 19673
+D1
+~
+~
+0 -1 19673
+D3
+~
+~
+0 -1 19681
+Z3
+C-1
+S
+#19678
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D1
+~
+~
+0 -1 19675
+D2
+~
+~
+0 -1 19679
+D3
+~
+~
+0 -1 19682
+Z3
+C-1
+S
+#19679
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D0
+~
+~
+0 -1 19678
+D1
+~
+~
+0 -1 19676
+D2
+~
+~
+0 -1 19680
+D3
+~
+~
+0 -1 19673
+Z3
+C-1
+S
+#19680
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D0
+~
+~
+0 -1 19679
+D1
+~
+~
+0 -1 19673
+D2
+~
+~
+0 -1 19681
+D3
+~
+~
+0 -1 19683
+Z3
+C-1
+S
+#19681
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D0
+~
+~
+0 -1 19680
+D1
+~
+~
+0 -1 19677
+D2
+~
+~
+0 -1 19673
+D3
+~
+~
+0 -1 19684
+Z3
+C-1
+S
+#19682
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D1
+~
+~
+0 -1 19678
+D2
+~
+~
+0 -1 19673
+D3
+~
+~
+0 -1 19685
+Z3
+C-1
+S
+#19683
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D0
+~
+~
+0 -1 19673
+D1
+~
+~
+0 -1 19680
+D2
+~
+~
+0 -1 19684
+D3
+~
+~
+0 -1 19687
+Z3
+C-1
+S
+#19684
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D0
+~
+~
+0 -1 19683
+D1
+~
+~
+0 -1 19681
+D3
+~
+~
+0 -1 19688
+Z3
+C-1
+S
+#19685
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D0
+~
+~
+0 -1 19673
+D1
+~
+~
+0 -1 19682
+D2
+~
+~
+0 -1 19686
+D3
+~
+~
+0 -1 19690
+Z3
+C-1
+S
+#19686
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D0
+~
+~
+0 -1 19685
+D1
+~
+~
+0 -1 19673
+D2
+~
+~
+0 -1 19687
+Z3
+C-1
+S
+#19687
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D0
+~
+~
+0 -1 19686
+D1
+~
+~
+0 -1 19683
+D2
+~
+~
+0 -1 19688
+D3
+~
+~
+0 -1 19673
+Z3
+C-1
+S
+#19688
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D0
+~
+~
+0 -1 19687
+D1
+~
+~
+0 -1 19684
+D2
+~
+~
+0 -1 19689
+Z3
+C-1
+S
+#19689
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D0
+~
+~
+0 -1 19688
+D3
+~
+~
+0 -1 19691
+Z3
+C-1
+S
+#19690
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D0
+~
+~
+0 -1 19673
+D1
+~
+~
+0 -1 19685
+D3
+~
+~
+0 -1 19673
+Z3
+C-1
+S
+#19691
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D1
+~
+~
+0 -1 19689
+D2
+~
+~
+0 -1 19650
+Z3
+C-1
+S
+#19692
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D2
+~
+~
+0 -1 19694
+D4
+~
+~
+0 -1 19674
+Z3
+C-1
+S
+#19693
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D2
+~
+~
+0 -1 19695
+D5
+~
+~
+0 -1 19694
+Z3
+C-1
+S
+#19694
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D0
+~
+~
+0 -1 19692
+D4
+~
+~
+0 -1 19693
+Z3
+C-1
+S
+#19695
+Legend~
+You are standing in nowhere !!!!
+~
+196 4259841 1
+D0
+~
+~
+0 -1 19693
+D1
+~
+~
+0 -1 20900
+Z3
+C-1
+S
+#19696
+End of the Trail~
+To the East, North, South and West you see only thick brambles with thorns that look razor sharp. Nothing could have passed through those. Glancing up you see the daylight streaking through the overhanging boughs of the trees. Looking down, there appears to be some sort of depression in the ground.  No! not a depression, but a shadowy, wavering, darkness. 
+~
+196 4259841 3
+D2
+~
+~
+0 -1 19697
+D5
+~
+~
+0 -1 19604
+X14
+Z3
+C-1
+S
+#19697
+Ambush~
+As you enter a wide spot in the trail you are surrounded by goblins. You have heard legends about these creatures, if half are true your in for it now!
+~
+196 4276241 3
+D0
+~
+~
+0 -1 19696
+D2
+~
+~
+0 -1 19698
+Z3
+C-1
+S
+#19698
+Following Foot Prints~
+     You follow foot and paw prints northward. Your prey can not be to far ahead. This might be easy if you can surprise them before they get out of the Mystical Forest. As you raise up from looking at the tracks, movement up ahead catches your eye.
+~
+196 4276357 3
+D0
+~
+~
+0 -1 19697
+D2
+~
+~
+0 -1 19699
+Z3
+C-1
+S
+#19699
+Unicorn Cove~
+     You arrive in a secluded cove somewhere in the Mystical Forest. The mist is rising up from the ground, shrouding the small glen in a eerie fog. You can see a good sized heap lying in the middle of the clearing. When you get nearer you see a Unicorn lying on the ground minus it's horn. The poor creature is slowly wasting away, such sacrilege is unheard of since unicorns are the most pure of God's creatures
+~
+196 4277381 3
+D0
+~
+~
+0 -1 19698
+Z3
+C-1
+S
+$~

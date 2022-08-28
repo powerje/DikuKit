@@ -1,0 +1,2415 @@
+#43300
+{Y}An Ancient Library{y}~
+
+
+   {Y}You have entered an old room, a very old room, an ancient 
+   room. As the dust clears and your eyes adjust to the light,
+   you notice several {Y,BO}leather bound tomes{bo,y}{Y}. Each tome is set
+              upon it's own carved ivory pedestal.{y} 
+                                                          
+   {C}To visit one of these new worlds, all one must do is truly 
+   and fully {BO,C}ENTER{bo,c} {C}themselves into the works of a great author. 
+   Go on and enjoy the works of a true master, but beware and 
+   take care, these are more than just stories. The lessons 
+   learned here will last a lifetime, as will the injuries.{c}
+   
+   
+   
+         {BO,G}The Fall of Gondolin{bo,g}       
+                                  {BO,W}Minas Tirith-City of Guard{bo,w}
+~
+433 16393 1
+D1
+~
+~
+0 -1 21629
+E
+minas~
+
+   {C}Minas Tirith, once Minas anor, stands fast as the last safe haven 
+   for mankind amoung the evil things of Middle Earth. The second to 
+   last battle of {BO,W}Good{bo,w} {C}versus {BO,R}Evil{bo,r} {C}was fought within the city walls.{c}
+   {BLI,W,BO}Part 1 LEVELING FOR DUALS AND ADVANCE, PART 2 MEDIUM SIZE ADV GROUPS{bo,bli,w} 
+~
+E
+gondolin~
+
+   {C}This work represents the origin of the world of {Y}Middle Earth{C}.
+   It was the first story {BO}Tolkien{bo,c}{C} wrote telling the tale of the 
+   magical world of Elves, Men and Evil deeds. Go on and read the 
+   pages if you would like, but handle them with a delicate touch 
+   as they are older than they look.{c} {W,BLI,BO}THREE PERSON ADV ZONE{bli,bo,w} 
+
+~
+Z6
+C-1
+S
+#43301
+{Y}A Dry River Bed{y}~
+
+   {Y}You seem to have stumbled upon a dry river bed. Yet, this bed 
+   was once home to a raging branch of the mighty Sirion itself. 
+   Without a clear path onward, you decide to follow the bed as 
+   far as it might take you. It may seem silly, but you swear that 
+   you have dreamt of this very place. You feel as if something 
+   from that dream wants you to go on...{y}
+
+~
+433 0 3
+D0
+~
+~
+0 -1 43302
+E
+n~
+
+   {Y}The river bed continues on up ahead.{y}
+
+~
+Z3
+C3
+S
+#43302
+{Y}A Dry River Bed{y}~
+
+   {Y}You seem to have stumbled upon a dry river bed. Yet, this bed 
+   was once home to a raging branch of the mighty Sirion itself. 
+   Without a clear path onward, you decide to follow the bed as 
+   far as it might take you. It may seem silly, but you swear that 
+   you have dreamt of this very place. You feel as if something 
+   from that dream wants you to go on...{y}
+
+~
+433 0 3
+D0
+~
+~
+0 -1 43303
+D1
+~
+~
+0 -1 43304
+D2
+~
+~
+0 -1 43301
+Z3
+C3
+S
+#43303
+{Y}A Dry River Bed{y}~
+
+   {Y}You seem to have stumbled upon a dry river bed. Yet, this bed 
+   was once home to a raging branch of the mighty Sirion itself. 
+   Without a clear path onward, you decide to follow the bed as 
+   far as it might take you. It may seem silly, but you swear that 
+   you have dreamt of this very place. You feel as if something 
+   from that dream wants you to go on...{y}
+
+~
+433 0 3
+D0
+~
+~
+0 -1 43305
+D2
+~
+~
+0 -1 43302
+Z4
+C3
+S
+#43304
+{Y,BO}A Torn Page{bo,y}~
+
+   {Y}Unfortunately this page ha{W}\      /{Y}s been ripped across
+   the centre of the text. And{W}\    |{Y}since there is no text
+   to read, there is no story f{W}\   /{Y}or you to be a part of.
+   Therefore, poor reader, this i{W}\|{Y}s goodbye for now. If
+   you return, stick to the river {W}|{Y}bed like your dream told
+   you to.                        {W}|
+
+
+
+~
+433 2 8
+D3
+~
+~
+0 -1 43302
+Z10
+C3
+S
+#43305
+{BO,BLU}Before the Dark Gate{bo,blu}~
+ 
+    {BO,C}You have found the ancient source of this once great river. 
+      At this point the river appears to emerge from the {Y}ground{C} 
+    as if the {W}Valar{C}, themselves, were here spewing forth the 
+   sacred water. Once again you are nagged by the fleeting 
+      memory of your dream. You can remember the mighty {BLU}Ulmo{C} 
+    standing at this very spot in the river bed, urging you 
+      to go under the water and through the Dark Gate. Under 
+     what water? There is nothing here but a dirty puddle.{bo,c}
+
+~
+433 0 3
+D2
+~
+~
+0 -1 43303
+E
+puddle~
+
+   {BLU}A dark and mirky puddle of a pond is before you.
+   Could this possibly be the source of the once
+   mighty and majestic river that forced the path
+   you took. Nothing left but to hold your breath
+   and dive into the muck. {BLU,BO}Good Luck!{bo,blu}
+
+~
+Z5
+C3
+S
+#43306
+{B}The Dark Gate{b}~
+
+   {C}As you emerge from the inky jet of the primal puddle the 
+   first thing you see is an archway made from dark stone. 
+   At first it appears crafted by the hands of the Naugrim, 
+   but at second glance you see it was forged by the water. 
+   Forged by {C,BO}Ulmo the Valar{bo,c} {C}responsible for all things related 
+   to water and the sea.{c}
+
+~
+433 32768 4
+D0
+~
+~
+0 -1 43307
+Z10
+C3
+S
+#43307
+{C}Beyond the Gate{c}~
+
+   {BO,C}As you cross through the Dark Gate you enter upon the
+   {Y}Orfalch Echor {C}steep and tall. Up ahead you glimpse a 
+   simple{bo,c} {Y}Wooden Gate {BO,C}with a solitary guard. You start to 
+   feel excited. Anything worth guarding is worth having. 
+   Now walk softly and strongly, you feel as if the guard 
+   can see you coming from a mile away.{bo,c}
+
+
+~
+433 1 4
+D0
+~
+~
+0 -1 43308
+D2
+~
+~
+0 -1 43306
+E
+wooden gate~
+
+   {Y}From this distance all you can make out is a simple wooden frame and a strong oaken door.{y}
+
+~
+Z7
+C3
+S
+#43308
+{BO,Y}The Orfalch Echor{bo,y}~
+
+   {Y}You move as silen{W}tly as possible t{Y}hrough the perilous ravine. 
+   The walls are tall {W}and steep. Yo{Y}u finally start to understand 
+   your dream, and how T{W}urgon chos{Y}e this place as the home for 
+   his Hidden Rock. Still, y{W}ou m{Y}ust continue slowly and quietly 
+   if you hope to take the gu{W}ar{Y}d by surprise.{y}
+
+~
+433 0 4
+D0
+~
+~
+0 -1 43309
+D2
+~
+~
+0 -1 43307
+Z3
+C1
+S
+#43309
+{Y}The Wooden Gate{y}~
+
+   {C}It is as you thought. A simple {Y}wooden gate{C}. The 
+   door is made of solid oak. Standing in front of 
+   the gate is a man, or perhaps an {G}elf{C}. Either way, 
+   he is very aware of your presence, and he does 
+   not appear to be happy to see you.{c} 
+
+~
+433 0 4
+D0
+{Y}A strong, yet, simple Oaken Gate stands before you.{y}
+
+~
+Gate~
+2 43302 43310
+D2
+~
+~
+0 -1 43308
+Z3
+C3
+S
+#43310
+{C}The Stone Gate{c}~
+   
+   {C}You have come across another gate, this one built of stone 
+   and mortar. Just like the wooden gate, this one is guarded 
+   by a single {BO,G}elf{bo,g}{C}. The guard moves toward you more quickly 
+   than you have ever seen any living creature move. You have
+   only one thought, "Kill him before he kills you."{c}
+
+~
+433 0 4
+D0
+{C}A solid gate built of field stone and mortar.{c}
+
+~
+gate~
+2 43304 43311
+D2
+~
+Gate~
+1 -1 43309
+Z3
+C3
+S
+#43311
+{BO,Y}The Bronze Gate{bo,y}~
+
+   {BO,Y}You are seriously getting tired of these gates. Here 
+   stands a gate wrought of bronze. Although it has aged
+   some, and has been touched by rust, it still stands 
+   tall and firm. Ready and able to protect whatever lies 
+   beyond. As if that weren't enough, you catch a glimpse
+   of yet another gate ahead of you.{bo,y}
+
+~
+433 0 4
+D0
+{BO,Y}A bright and firm Bronze gate stands here.{bo,y}
+
+~
+gate~
+2 43305 43312
+D2
+~
+gate~
+1 -1 43310
+Z3
+C3
+S
+#43312
+{C,BO}The Iron Gate{bo,c}~
+
+   {BO,C}You only have a second to take notice of an Elf guard moving 
+   towards you from his post next to this 15 foot {bo,c}{C}Iron Gate{c}{BO,C}.
+   He moves so fast he hasn't given you anytime to admire the 
+   skill and craft put into these bars and locks. You do spare 
+   a moment to spy atleast two more sets of gates beyond this.{bo,c}
+
+~
+433 0 4
+D0
+{C,BO}A beautiful Iron gate stands in your way.{c,bo}
+
+~
+gate~
+2 43306 43313
+D2
+~
+gate~
+1 -1 43311
+Z3
+C3
+S
+#43313
+{M}The Silver Gate{m}~
+
+   {C}Now you stand before an ornate, yet adamant {BO,W}Silver{bo} {C}gate.
+   These gates are nearly as relentless as are the elven 
+   guards sworn to protect them and what lies beyond. Once
+   again you think back to your dream and to Eden which 
+   ought to be found in the crater of {BLU}Tumladen{C}.{c}
+
+~
+433 0 4
+D0
+{M}Each gate is more beautiful that the last.{m}
+
+~
+gate~
+2 43307 43314
+D2
+~
+gate~
+1 -1 43312
+Z3
+C3
+S
+#43314
+{BO,Y}The Gold Gate{bo,y}~
+
+   {BO,Y}This is simply the most beautiful gate you have ever stood before. 
+   For a moment you feel as if your journey is over, and that just 
+   looking on this gate is your final reward. Unfortunately, you only 
+   have a mere second to gaze on it before the two {G}elves {Y}guarding it 
+   are at your heels, swords at the ready.{bo,y}
+
+~
+433 0 4
+D0
+{BO,C}A stunning {Y}Golden{y} {C,BO}gate stands between you and last next gate{c,bo}
+
+~
+gate~
+2 43308 43315
+D2
+~
+gate~
+1 -1 43313
+Z3
+C3
+S
+#43315
+{BLU}The Steel Gate{blu}~
+
+   {BLU}You are standing before the last gate seperating you and 
+   Tumladen. As you had feared it is the largest and strongest 
+   of all, and guarded by three of the fiercest {BO,G}elves{bo,g} {BLU}you have 
+   ever come across. Perhaps there is a way around it, but you 
+   won't get the chance to look. Here they come, as fast and 
+   as deadly as the rest!{blu}
+
+~
+433 0 4
+D0
+{BLU}The final and strongest of the {C}seven {BLU}gates.{blu}
+
+~
+gate~
+2 43303 43316
+D2
+~
+gate~
+1 -1 43314
+Z3
+C3
+S
+#43316
+{BLU,BO}Tumladen{blu,bo}~
+
+   {BO,W}You've made it this far, but now where to go. Off in
+   the distance you see the shadow of a city on a hill. 
+   You might as well head off in that direction, if only 
+   you knew which direction that was. Your trip through 
+   the {BO,Y}Orfalch Echor {BO,W}has turned you around too many times. 
+   Nothing to do now but start wandering.{bo,w}
+
+~
+433 0 2
+D0
+~
+~
+0 -1 43317
+D1
+~
+~
+0 -1 43316
+D2
+~
+~
+0 -1 43316
+D3
+~
+~
+0 -1 43316
+Z1
+C3
+S
+#43317
+{BLU,BO}Tumladen{blu,bo}~
+
+   {BO,W}You've made it this far, but now where to go. Off in
+   the distance you see the shadow of a city on a hill. 
+   You might as well head off in that direction, if only 
+   you knew which direction that was. Your trip through 
+   the {BO,Y}Orfalch Echor {BO,W}has turned you around too many times. 
+   Nothing to do now but start wandering.{bo,w}
+
+~
+433 0 2
+D0
+~
+~
+0 -1 43316
+D1
+~
+~
+0 -1 43316
+D2
+~
+~
+0 -1 43317
+D3
+~
+~
+0 -1 43318
+Z1
+C3
+S
+#43318
+{BLU,BO}Tumladen{blu,bo}~
+
+   {BO,W}You've made it this far, but now where to go. Off in
+   the distance you see the shadow of a city on a hill. 
+   You might as well head off in that direction, if only 
+   you knew which direction that was. Your trip through 
+   the {BO,Y}Orfalch Echor {BO,W}has turned you around too many times. 
+   Nothing to do now but start wandering.{bo,w}
+
+~
+433 0 2
+D0
+~
+~
+0 -1 43319
+D1
+~
+~
+0 -1 43318
+D2
+~
+~
+0 -1 43317
+D3
+~
+~
+0 -1 43316
+Z1
+C3
+S
+#43319
+{BLU,BO}Tumladen{blu,bo}~
+
+   {BO,W}You've made it this far, but now where to go. Off in
+   the distance you see the shadow of a city on a hill. 
+   You might as well head off in that direction, if only 
+   you knew which direction that was. Your trip through 
+   the {BO,Y}Orfalch Echor {BO,W}has turned you around too many times. 
+   Nothing to do now but start wandering.{bo,w}
+
+~
+433 0 2
+D0
+~
+~
+0 -1 43320
+D1
+~
+~
+0 -1 43319
+D2
+~
+~
+0 -1 43317
+D3
+~
+~
+0 -1 43316
+Z1
+C3
+S
+#43320
+{BLU,BO}Tumladen{blu,bo}~
+
+   {BO,W}You've made it this far, but now where to go. Off in
+   the distance you see the shadow of a city on a hill. 
+   You might as well head off in that direction, if only 
+   you knew which direction that was. Your trip through 
+   the {BO,Y}Orfalch Echor {BO,W}has turned you around too many times. 
+   Nothing to do now but start wandering.{bo,w}
+
+~
+433 0 2
+D0
+~
+~
+0 -1 43316
+D1
+~
+~
+0 -1 43316
+D2
+~
+~
+0 -1 43321
+D3
+~
+~
+0 -1 43316
+Z1
+C3
+S
+#43321
+{BLU,BO}Tumladen{blu,bo}~
+
+   {BO,W}You've made it this far, but now where to go. Off in
+   the distance you see the shadow of a city on a hill. 
+   You might as well head off in that direction, if only 
+   you knew which direction that was. Your trip through 
+   the {BO,Y}Orfalch Echor {BO,W}has turned you around too many times. 
+   Nothing to do now but start wandering.{bo,w}
+
+~
+433 0 2
+D0
+~
+~
+0 -1 43317
+D1
+~
+~
+0 -1 43322
+D2
+~
+~
+0 -1 43317
+D3
+~
+~
+0 -1 43318
+Z1
+C3
+S
+#43322
+{BLU,BO}Tumladen{blu,bo}~
+
+   {BO,W}You've made it this far, but now where to go. Off in
+   the distance you see the shadow of a city on a hill. 
+   You might as well head off in that direction, if only 
+   you knew which direction that was. Your trip through 
+   the {BO,Y}Orfalch Echor {BO,W}has turned you around too many times. 
+   Nothing to do now but start wandering.{bo,w}
+
+~
+433 0 2
+D0
+~
+~
+0 -1 43317
+D1
+~
+~
+0 -1 43318
+D2
+~
+~
+0 -1 43323
+D3
+~
+~
+0 -1 43316
+Z1
+C3
+S
+#43323
+{BLU,BO}Tumladen{blu,bo}~
+
+   {BO,W}You've made it this far, but now where to go. Off in
+   the distance you see the shadow of a city on a hill. 
+   You might as well head off in that direction, if only 
+   you knew which direction that was. Your trip through 
+   the {BO,Y}Orfalch Echor {BO,W}has turned you around too many times. 
+   Nothing to do now but start wandering.{bo,w}
+
+~
+433 0 2
+D0
+~
+~
+0 -1 43324
+D1
+~
+~
+0 -1 43316
+D2
+~
+~
+0 -1 43316
+D3
+~
+~
+0 -1 43316
+Z1
+C3
+S
+#43324
+{BLU,BO}Tumladen{blu,bo}~
+
+   {BO,W}You've made it this far, but now where to go. Off in
+   the distance you see the shadow of a city on a hill. 
+   You might as well head off in that direction, if only 
+   you knew which direction that was. Your trip through 
+   the {BO,Y}Orfalch Echor {BO,W}has turned you around too many times. 
+   Nothing to do now but start wandering.{bo,w}
+
+~
+433 0 2
+D0
+~
+~
+0 -1 43317
+D1
+~
+~
+0 -1 43325
+D2
+~
+~
+0 -1 43316
+D3
+~
+~
+0 -1 43316
+Z1
+C3
+S
+#43325
+{W}Before Amon Gwareth{w}~
+
+   {W}You finally come infront of the impressive Amon Gwareth. Rising 
+   some 400 feet into the air, the walls seem unscalable and the 
+   city, completely defended. You feel the urge to continue on. Up 
+   ahead there is a crossroads. One could move up the stairs to the 
+   main gate or circle in either direction around the {BO,W}Amon Gwareth.{bo,w}
+
+~
+433 4 2
+D0
+~
+~
+0 -1 43326
+E
+stairs~
+
+   {W}Straight ahead there is a set of stone hewn stairs leading to the main gate.{w}
+
+~
+E
+amon gwareth~
+
+   {W}You look about a fortress set upon an unscalable hill.{w}
+
+~
+Z3
+C3
+S
+#43326
+{W}Amon Gwareth{w}~
+
+   {W}The true test of a man is whether or not he goes up these stairs 
+   at least once in his life. Then again, without knowing what is 
+   ahead of you it may be wiser to travel around the amon before 
+   facing certain death so willingly. Of course a man must make such
+   a choice for himself. So choose and hope you choose wisely.{w}
+~
+433 4 2
+D1
+~
+~
+0 -1 43327
+D2
+~
+~
+0 -1 43325
+D3
+~
+~
+0 -1 43347
+D4
+~
+~
+0 -1 43350
+Z3
+C3
+S
+#43327
+{W}Around the Amon Gwareth{w}~
+
+   {W}You are moving around the {W,BO}Amon Gwareth{bo,w}{W}. As you follow a 
+   well-worn guard path, you hope to find another way into
+   the city. One, perhaps, a little less well protected.{w}
+
+~
+433 0 2
+D1
+~
+~
+0 -1 43328
+D3
+~
+~
+0 -1 43326
+Z3
+C3
+S
+#43328
+{W}Around the Amon Gwareth{w}~
+
+   {W}You are moving around the {W,BO}Amon Gwareth{bo,w}{W}. As you follow a 
+   well-worn guard path, you hope to find another way into
+   the city. One, perhaps, a little less well protected.{w}
+
+~
+433 0 2
+D0
+~
+~
+0 -1 43329
+D3
+~
+~
+0 -1 43327
+Z3
+C3
+S
+#43329
+{W}Around the Amon Gwareth{w}~
+
+   {W}You are moving around the {W,BO}Amon Gwareth{bo,w}{W}. As you follow a 
+   well-worn guard path, you hope to find another way into
+   the city. One, perhaps, a little less well protected.{w}
+
+~
+433 0 2
+D1
+~
+~
+0 -1 43330
+D2
+~
+~
+0 -1 43328
+Z3
+C3
+S
+#43330
+{W}Around the Amon Gwareth{w}~
+
+   {W}You are moving around the {W,BO}Amon Gwareth{bo,w}{W}. As you follow a 
+   well-worn guard path, you hope to find another way into
+   the city. One, perhaps, a little less well protected.{w}
+
+~
+433 0 2
+D0
+~
+~
+0 -1 43331
+D3
+~
+~
+0 -1 43329
+Z3
+C3
+S
+#43331
+{W}Around the Amon Gwareth{w}~
+
+   {W}You are moving around the {W,BO}Amon Gwareth{bo,w}{W}. As you follow a 
+   well-worn guard path, you hope to find another way into
+   the city. One, perhaps, a little less well protected.{w}
+
+~
+433 0 2
+D0
+~
+~
+0 -1 43332
+D2
+~
+~
+0 -1 43330
+Z3
+C3
+S
+#43332
+{W}Around the Amon Gwareth{w}~
+
+   {W}You are moving around the {W,BO}Amon Gwareth{bo,w}{W}. As you follow a 
+   well-worn guard path, you hope to find another way into
+   the city. One, perhaps, a little less well protected.{w}
+
+~
+433 0 2
+D0
+~
+~
+0 -1 43333
+D2
+~
+~
+0 -1 43331
+Z3
+C3
+S
+#43333
+{W}Around the Amon Gwareth{w}~
+
+   {W}You are moving around the {W,BO}Amon Gwareth{bo,w}{W}. As you follow a 
+   well-worn guard path, you hope to find another way into
+   the city. One, perhaps, a little less well protected.{w}
+
+~
+433 0 2
+D2
+~
+~
+0 -1 43332
+D3
+~
+~
+0 -1 43334
+Z3
+C3
+S
+#43334
+{W}Around the Amon Gwareth{w}~
+
+   {W}You are moving around the {W,BO}Amon Gwareth{bo,w}{W}. As you follow a 
+   well-worn guard path, you hope to find another way into
+   the city. One, perhaps, a little less well protected.{w}
+
+~
+433 0 2
+D0
+~
+~
+0 -1 43335
+D1
+~
+~
+0 -1 43333
+Z3
+C3
+S
+#43335
+{W}Around the Amon Gwareth{w}~
+
+   {W}You are moving around the {W,BO}Amon Gwareth{bo,w}{W}. As you follow a 
+   well-worn guard path, you hope to find another way into
+   the city. One, perhaps, a little less well protected.{w}
+
+~
+433 0 2
+D2
+~
+~
+0 -1 43334
+D3
+~
+~
+0 -1 43336
+Z3
+C3
+S
+#43336
+{W}Around the Amon Gwareth{w}~
+
+   {W}You are moving around the {W,BO}Amon Gwareth{bo,w}{W}. As you follow a 
+   well-worn guard path, you hope to find another way into
+   the city. One, perhaps, a little less well protected.{w}
+
+~
+433 0 2
+D1
+~
+~
+0 -1 43335
+D2
+~
+~
+0 -1 43348
+D3
+~
+~
+0 -1 43337
+Z3
+C3
+S
+#43337
+{W}Around the Amon Gwareth{w}~
+
+   {W}You are moving around the {W,BO}Amon Gwareth{bo,w}{W}. As you follow a 
+   well-worn guard path, you hope to find another way into
+   the city. One, perhaps, a little less well protected.{w}
+
+~
+433 0 2
+D1
+~
+~
+0 -1 43336
+D3
+~
+~
+0 -1 43338
+Z3
+C3
+S
+#43338
+{W}Around the Amon Gwareth{w}~
+
+   {W}You are moving around the {W,BO}Amon Gwareth{bo,w}{W}. As you follow a 
+   well-worn guard path, you hope to find another way into
+   the city. One, perhaps, a little less well protected.{w}
+
+~
+433 0 2
+D1
+~
+~
+0 -1 43337
+D2
+~
+~
+0 -1 43349
+D3
+~
+~
+0 -1 43339
+Z3
+C3
+S
+#43339
+{W}Around the Amon Gwareth{w}~
+
+   {W}You are moving around the {W,BO}Amon Gwareth{bo,w}{W}. As you follow a 
+   well-worn guard path, you hope to find another way into
+   the city. One, perhaps, a little less well protected.{w}
+
+~
+433 0 2
+D1
+~
+~
+0 -1 43338
+D2
+~
+~
+0 -1 43340
+Z3
+C3
+S
+#43340
+{W}Around the Amon Gwareth{w}~
+
+   {W}You are moving around the {W,BO}Amon Gwareth{bo,w}{W}. As you follow a 
+   well-worn guard path, you hope to find another way into
+   the city. One, perhaps, a little less well protected.{w}
+
+~
+433 0 2
+D0
+~
+~
+0 -1 43339
+D3
+~
+~
+0 -1 43341
+Z3
+C3
+S
+#43341
+{W}Around the Amon Gwareth{w}~
+
+   {W}You are moving around the {W,BO}Amon Gwareth{bo,w}{W}. As you follow a 
+   well-worn guard path, you hope to find another way into
+   the city. One, perhaps, a little less well protected.{w}
+
+~
+433 0 2
+D1
+~
+~
+0 -1 43340
+D2
+~
+~
+0 -1 43342
+Z3
+C3
+S
+#43342
+{W}Around the Amon Gwareth{w}~
+
+   {W}You are moving around the {W,BO}Amon Gwareth{bo,w}{W}. As you follow a 
+   well-worn guard path, you hope to find another way into
+   the city. One, perhaps, a little less well protected.{w}
+
+~
+433 0 2
+D0
+~
+~
+0 -1 43341
+D2
+~
+~
+0 -1 43343
+Z3
+C3
+S
+#43343
+{W}Around the Amon Gwareth{w}~
+
+   {W}You are moving around the {W,BO}Amon Gwareth{bo,w}{W}. As you follow a 
+   well-worn guard path, you hope to find another way into
+   the city. One, perhaps, a little less well protected.{w}
+
+~
+433 0 2
+D0
+~
+~
+0 -1 43342
+D2
+~
+~
+0 -1 43344
+Z3
+C3
+S
+#43344
+{W}Around the Amon Gwareth{w}~
+
+   {W}You are moving around the {W,BO}Amon Gwareth{bo,w}{W}. As you follow a 
+   well-worn guard path, you hope to find another way into
+   the city. One, perhaps, a little less well protected.{w}
+
+~
+433 0 2
+D0
+~
+~
+0 -1 43343
+D1
+~
+~
+0 -1 43345
+Z3
+C3
+S
+#43345
+{W}Around the Amon Gwareth{w}~
+
+   {W}You are moving around the {W,BO}Amon Gwareth{bo,w}{W}. As you follow a 
+   well-worn guard path, you hope to find another way into
+   the city. One, perhaps, a little less well protected.{w}
+
+~
+433 0 2
+D2
+~
+~
+0 -1 43346
+D3
+~
+~
+0 -1 43344
+Z3
+C3
+S
+#43346
+{W}Around the Amon Gwareth{w}~
+
+   {W}You are moving around the {W,BO}Amon Gwareth{bo,w}{W}. As you follow a 
+   well-worn guard path, you hope to find another way into
+   the city. One, perhaps, a little less well protected.{w}
+
+~
+433 0 2
+D0
+~
+~
+0 -1 43345
+D1
+~
+~
+0 -1 43347
+Z3
+C3
+S
+#43347
+{W}Around the Amon Gwareth{w}~
+
+   {W}You are moving around the {W,BO}Amon Gwareth{bo,w}{W}. As you follow a 
+   well-worn guard path, you hope to find another way into
+   the city. One, perhaps, a little less well protected.{w}
+
+~
+433 0 2
+D1
+~
+~
+0 -1 43326
+D3
+~
+~
+0 -1 43346
+Z3
+C3
+S
+#43348
+{C}The Caragelur{c}~
+
+   {B}This place is dark and evil. In all of {W}Gondolin {B}this is 
+   the only place the sun never reaches. Set deep into the 
+   northern side of the {BO,W}Amon Gwareth{bo,w}{B}, this massive fissure 
+   is the final resting place of many insurgents and other 
+   enemies of the {BO,C}House of Turgon, Lord of Gondolin{bo,c}{B}.{b} 
+
+~
+433 0 1
+D0
+~
+~
+0 -1 43336
+Z7
+C3
+S
+#43349
+{Y}The North Stairs{y}~
+
+   {W}You are standing at the base of an ancient set of stairs. It's
+   obvious, from their state of disrepair, that they have not been 
+   used in centuries. You try with all your might to get up them 
+   and into the city undetected, but you simply can not scale the 
+   broken sections of the stair.{w}
+
+~
+433 4 4
+D0
+~
+~
+0 -1 43338
+Z3
+C3
+S
+#43350
+{M}Moving up the stairs{m}~
+
+
+   {BO,M}These stairs are hewn right out of the {BO,W}Amon Gwareth{bo,w} 
+   {BO,M}themselves. You are no mason, but you can tell that 
+   decades, if not a century, went into making these 
+   stairs. You can tell now why the{bo,m} {W}North Stairs{w} {BO,M}have 
+   been abandoned the way they were.{bo,m}
+
+~
+433 0 4
+D4
+~
+~
+0 -1 43351
+D5
+~
+~
+0 -1 43326
+Z3
+C3
+S
+#43351
+{M}Moving up the stairs{m}~
+
+
+   {BO,M}These stairs are hewn right out of the {BO,W}Amon Gwareth{bo,w} 
+   {BO,M}themselves. You are no mason, but you can tell that 
+   decades, if not a century, went into making these 
+   stairs. You can tell now why the{bo,m} {W}North Stairs{w} {BO,M}have 
+   been abandoned the way they were.{bo,m}
+
+~
+433 0 4
+D4
+~
+~
+0 -1 43352
+D5
+~
+~
+0 -1 43350
+Z3
+C3
+S
+#43352
+{BO,Y}The {BO,C}Main {BO,G}Gate{bo,g}~
+
+   {C}You are finally standing before the main  gate into {W}Gondolin{C},  your dream 
+   nearly fulfilled.  Two things stand between you and  the riches which lay 
+   beyond. One is made of steel, stone and magic. The other is made of flesh 
+   and blood. {BO,G}Ecthelion, the Gate Guard{bo}{C}, is  ready to stop you at all costs.{c} 
+
+~
+433 0 1
+D0
+{C}The Main Gate. The last obstacle.{c}
+
+~
+main gate~
+6 43309 43353
+D5
+~
+~
+0 -1 43351
+Z3
+C3
+S
+#43353
+{C}A Crossroads within the Gate{c}~
+
+
+   {W}Finally inside, now where to go. From here you can move towards 
+   three ends. The sign infront of you will assist in your choices. 
+   Thinking again to your dream..."In {BO,C}Gondolin, The Hidden Kingdom{bo,c}{W},
+   your future and fortune lies." You must keep moving, there is no
+   other choice.{w}
+
+~
+433 4 1
+D0
+~
+~
+0 -1 43354
+D1
+~
+~
+0 -1 43398
+D2
+~
+main gate~
+1 -1 43352
+D3
+~
+~
+0 -1 43386
+E
+sign~
+
+
+   {W} ________________________________________________
+   |                                                |
+   | {C}North --->  King's Way     ---> Tower & Palace {W}|
+   | {Y}East  --->  Rd of Acrches  ---> Arch & Square  {W}|
+   | {BLU,BO}West  --->  Rd of Pomps    ---> Fount & Tuor{blu,bo}   {W}|
+   |________________________________________________|{w}
+
+~
+Z3
+C3
+S
+#43354
+{W,BO}The King's Way{w,bo}~
+
+   {W}The King's Way {C}is the most direct path to the {BO,Y}Tower of 
+   Turgon{bo,y} {C}and the {C,BO}Palace{bo,c}{C}. However, it is also the most well
+   protected. You see a glimpse of the {BO,Y}Tower{bo,y}{C} looming in 
+   the distance. Your heart tells you to get to the top no 
+   matter the cost.{c}
+
+~
+433 0 1
+D0
+~
+~
+0 -1 43355
+D2
+~
+~
+0 -1 43353
+E
+tower~
+
+
+   {W,BO}You get you first real glimpse of the Tower of Turgon.{w,bo}
+
+~
+Z-1
+C3
+S
+#43355
+{W,BO}The King's Way{w,bo}~
+
+   {W}The King's Way {C}is the most direct path to the {BO,Y}Tower of 
+   Turgon{bo,y} {C}and the {C,BO}Palace{bo,c}{C}. However, it is also the most well
+   protected. You see a glimpse of the {BO,Y}Tower{bo,y}{C} looming in 
+   the distance. Your heart tells you to get to the top no 
+   matter the cost.{c}
+
+~
+433 0 1
+D0
+~
+~
+0 -1 43356
+D2
+~
+~
+0 -1 43354
+Z0
+C3
+S
+#43356
+{W,BO}The King's Way{w,bo}~
+
+   {W}The King's Way {C}is the most direct path to the {BO,Y}Tower of Turgon{bo} 
+   {C}and the {BO,C}Palace{bo}{C}. However, it is also the most well protected. 
+   You see a glimpse of the {BO,Y}Tower{bo}{C} looming in the distance. Your 
+   heart tells you to get to the top no matter the cost.{c}
+ 
+
+~
+433 0 1
+D0
+~
+~
+0 -1 43357
+D2
+~
+~
+0 -1 43355
+Z0
+C3
+S
+#43357
+{W}Tower Square{w}~
+
+   {BO,C}This square is a sacred place. Only those from the House 
+   of Turgon, their guests, and those sworn to protect them
+   may enter and wander at their leisure.{bo,c}
+ 
+
+~
+433 0 1
+D1
+~
+~
+0 -1 43359
+D2
+~
+~
+0 -1 43356
+D3
+~
+~
+0 -1 43358
+D4
+~
+Tower door~
+6 43310 43371
+Z-1
+C3
+S
+#43358
+{W}Tower Square{w}~
+
+   {BO,C}This square is a sacred place. Only those from the House 
+   of Turgon, their guests, and those sworn to protect them
+   may enter and wander at their leisure.{bo,c}
+ 
+
+~
+433 0 1
+D0
+~
+~
+0 -1 43360
+D1
+~
+~
+0 -1 43357
+Z3
+C3
+S
+#43359
+{W}Tower Square{w}~
+
+   {BO,C}This square is a sacred place. Only those from the House 
+   of Turgon, their guests, and those sworn to protect them
+   may enter and wander at their leisure.{bo,c}
+ 
+~
+433 0 1
+D0
+~
+~
+0 -1 43361
+D3
+~
+~
+0 -1 43357
+Z-1
+C3
+S
+#43360
+{W}Tower Square{w}~
+
+   {BO,C}This square is a sacred place. Only those from the House 
+   of Turgon, their guests, and those sworn to protect them
+   may enter and wander at their leisure.{bo,c}
+ 
+~
+433 0 1
+D0
+~
+~
+0 -1 43362
+D2
+~
+~
+0 -1 43358
+D3
+~
+~
+0 -1 43377
+Z3
+C2
+S
+#43361
+{W}Tower Square{w}~
+
+   {BO,C}This square is a sacred place. Only those from the House 
+   of Turgon, their guests, and those sworn to protect them
+   may enter and wander at their leisure.{bo,c}
+ 
+~
+433 0 1
+D0
+~
+~
+0 -1 43363
+D1
+~
+~
+0 -1 43374
+D2
+~
+~
+0 -1 43359
+Z-1
+C3
+S
+#43362
+{W}Tower Square{w}~
+
+   {BO,C}This square is a sacred place. Only those from the House 
+   of Turgon, their guests, and those sworn to protect them
+   may enter and wander at their leisure.{bo,c}
+ 
+~
+433 0 1
+D1
+~
+~
+0 -1 43364
+D2
+~
+~
+0 -1 43360
+Z-1
+C3
+S
+#43363
+{W}Tower Square{w}~
+
+   {BO,C}This square is a sacred place. Only those from the House 
+   of Turgon, their guests, and those sworn to protect them
+   may enter and wander at their leisure.{bo,c}
+ 
+~
+433 0 1
+D2
+~
+~
+0 -1 43361
+D3
+~
+~
+0 -1 43364
+Z-1
+C3
+S
+#43364
+{W}Tower Square{w}~
+
+   {BO,C}This square is a sacred place. Only those from the House 
+   of Turgon, their guests, and those sworn to protect them
+   may enter and wander at their leisure.{bo,c}
+ 
+~
+433 0 1
+D0
+~
+~
+0 -1 43365
+D1
+~
+~
+0 -1 43363
+D3
+~
+~
+0 -1 43362
+Z-1
+C3
+S
+#43365
+{Y}Heading to the Market{y}~
+
+   {Y}You are on a simple lane heading towards the greater 
+   market. A central place for the Gondolindrium to meet
+   up with old friends, buy needed wares, or just spend 
+   time. Are you searching for anyone in particular?{y}
+
+~
+433 0 1
+D0
+~
+~
+0 -1 43366
+D2
+~
+~
+0 -1 43364
+Z-1
+C3
+S
+#43366
+{Y}Heading to the Market{y}~
+
+   {Y}You are on a simple lane heading towards the greater 
+   market. A central place for the Gondolindrium to meet
+   up with old friends, buy needed wares, or just spend 
+   time. Are you searching for anyone in particular?{y}
+
+~
+433 4 1
+D0
+~
+~
+0 -1 43367
+D2
+~
+~
+0 -1 43365
+Z-1
+C3
+S
+#43367
+{BLU,BO}The Great Market{blu,bo}~
+
+   {Y}This market does not appear different than any other market 
+   you have been in. You see clothing, fruits, meats, weapons,
+   and armour all on display. You continue your hunt for... 
+   for...for whatever it is your dream has sent you here to find.{y}
+ 
+~
+433 0 1
+D0
+~
+~
+0 -1 43368
+D1
+~
+~
+0 -1 43369
+D2
+~
+~
+0 -1 43366
+D3
+~
+~
+0 -1 43370
+Z-1
+C3
+S
+#43368
+{BLU,BO}The Great Market{blu,bo}~
+
+   {Y}This market does not appear different than any other market 
+   you have been in. You see clothing, fruits, meats, weapons,
+   and armour all on display. You continue your hunt for... 
+   for...for whatever it is your dream has sent you here to find.{y}
+ 
+~
+433 0 1
+D1
+~
+~
+0 -1 43393
+D2
+~
+~
+0 -1 43367
+D3
+~
+~
+0 -1 43392
+Z-1
+C3
+S
+#43369
+{BLU,BO}The Great Market{blu,bo}~
+
+   {Y}This market does not appear different than any other market 
+   you have been in. You see clothing, fruits, meats, weapons,
+   and armour all on display. You continue your hunt for... 
+   for...for whatever it is your dream has sent you here to find.{y}
+ 
+~
+433 0 1
+D0
+~
+~
+0 -1 43393
+D3
+~
+~
+0 -1 43367
+Z-1
+C3
+S
+#43370
+{BLU,BO}The Great Market{blu,bo}~
+
+   {Y}This market does not appear different than any other market 
+   you have been in. You see clothing, fruits, meats, weapons,
+   and armour all on display. You continue your hunt for... 
+   for...for whatever it is your dream has sent you here to find.{y}
+ 
+~
+433 0 1
+D0
+~
+~
+0 -1 43392
+D1
+~
+~
+0 -1 43367
+Z-1
+C3
+S
+#43371
+{W}First Floor of the Tower{w}~
+
+   {W}You move up the ornate stairs with ease. You can sense something 
+   is close, something will happen and soon. You must move past the 
+   Tower Guards to get to the top, but you can feel in your gut that 
+   it is worth it.{w}
+
+~
+433 0 1
+D4
+~
+~
+0 -1 43372
+D5
+~
+Tower door~
+1 -1 43357
+Z-1
+C3
+S
+#43372
+{W}The Second Floor of the Tower{w}~
+
+   {W}On the second floor you start to get a nervous feeling. A 
+   feeling like you are going the wrong way, or that you made
+   a mistake somewhere along the way here. The stairs continue
+   up and the guards continue to flock towards you.{w}
+ 
+   
+ 
+
+~
+433 0 1
+D4
+~
+~
+0 -1 43373
+D5
+~
+~
+0 -1 43371
+Z-1
+C3
+S
+#43373
+{W}Third Floor of the Tower{w}~
+auc
+
+   {W,BO}You've reached the top, and have done away with all the guards, 
+   but now what. There is no treasure, no Turgon, no reward, nothing. 
+   Nothing but a breathtaking panaramic view of {C}Gondolin, {BLU}Tumladen 
+   {W}and of the Crissaegrim Range "{Y}The Encircling Mountains{W}".{bo,w}
+
+~
+433 168 1
+D4
+~
+secret way~
+8 -1 43399
+D5
+~
+~
+0 -1 43372
+Z-1
+C3
+S
+#43374
+{W,BO}Palace Way{bo,w}~
+
+   {Y}This small, well adorned, lane leads towards the {W}Palace 
+   {Y}and the {BO,R}G{BO,C}a{BO,Y}r {BO,W}A{BO,M}{BO,BLU}i{BO,G}n{BO,R}i{BO,C}o{BO,Y}n{bo,y}{Y}. You are not sure you ought to be on
+   this road, but you simply can't stop yourself.{y}
+ 
+
+~
+433 4 1
+D1
+~
+~
+0 -1 43375
+D3
+~
+~
+0 -1 43361
+Z-1
+C3
+S
+#43375
+{BO,Y}Before the {BO,W}Palace{bo,w}~
+
+   {C}You finally stand before {BO,G}Turgon's Palace{bo,g}{C}. This being
+   a culmination of all your hopes, thoughts and dreams.{c}
+
+~
+433 0 1
+D0
+{C}A single mithril gate guards this door.{c}
+
+~
+palace door~
+6 43311 43376
+D1
+~
+~
+0 -1 43389
+D3
+~
+~
+0 -1 43374
+E
+palace~
+
+
+   {W}The {BO,W}Palace{bo,r} {W}is simply undescribable. It is plain but magnificent. 
+   It is ancient yet modern. It is both tempting and inpregnable.{w} 
+   
+ 
+
+~
+Z-1
+C3
+S
+#43376
+{BO,G}Turgon's Throne Room{bo,g}~
+
+   {G,BO}Turgon sits on his throne with a heavy head. He has seen you since 
+   you passed beneath the dark gate. He has watched you slaughter his 
+   guards and his citizens alike. He stares at you, and you know fear, 
+   you know terror, you see your own death in his eyes.  Turgon is an 
+   {W}Elf Lord  from the Blessed  Realm{G},  and he will be your final doom.{bo,g}
+
+~
+433 0 1
+D2
+~
+palace door~
+1 -1 43375
+Z-1
+C3
+S
+#43377
+{C}Towards the Square{c}~
+
+
+   {C}This is a simple lane connecting the {W}Tower Square {C}with the 
+   {M}Square of the Folkwell{C}. There is no one here at the moment. 
+   Perhaps this is a good place to rest before moving on.{c}
+ 
+   
+ 
+
+~
+433 4 1
+D1
+~
+~
+0 -1 43360
+D3
+~
+~
+0 -1 43378
+Z3
+C3
+S
+#43378
+{BO,M}Square of the Folkwell{bo,m}~
+
+   {M}The folkwell refers to an ancient well which supplied the 
+   common people with their water. Water once ruled this land, 
+   and is responsible for one of the original names of this 
+   place {W}"{C}Ondolinde{W}" {M}or {W}"{C}Rock of the Music Water{W}"{M}.{m}
+ 
+   
+ 
+
+~
+433 0 1
+D0
+~
+~
+0 -1 43379
+D1
+~
+~
+0 -1 43377
+D2
+~
+~
+0 -1 43380
+D3
+~
+~
+0 -1 43382
+Z3
+C3
+S
+#43379
+{BO,M}Square of the Folkwell{bo,m}~
+
+   {M}The folkwell refers to an ancient well which supplied the 
+   common people with their water. Water once ruled this land, 
+   and is responsible for one of the original names of this 
+   place {W}"{C}Ondolinde{W}" {M}or {W}"{C}Rock of the Music Water{W}"{M}.{m}
+ 
+   
+ 
+
+~
+433 0 1
+D2
+~
+~
+0 -1 43378
+D3
+~
+~
+0 -1 43383
+Z3
+C3
+S
+#43380
+{BO,M}Square of the Folkwell{bo,m}~
+
+   {M}The folkwell refers to an ancient well which supplied the 
+   common people with their water. Water once ruled this land, 
+   and is responsible for one of the original names of this 
+   place {W}"{C}Ondolinde{W}" {M}or {W}"{C}Rock of the Music Water{W}"{M}.{m}
+ 
+   
+ 
+
+~
+433 0 1
+D0
+~
+~
+0 -1 43378
+D3
+~
+~
+0 -1 43381
+Z3
+C3
+S
+#43381
+{BO,M}Square of the Folkwell{bo,m}~
+
+   {M}The folkwell refers to an ancient well which supplied the 
+   common people with their water. Water once ruled this land, 
+   and is responsible for one of the original names of this 
+   place {W}"{C}Ondolinde{W}" {M}or {W}"{C}Rock of the Music Water{W}"{M}.{m}
+ 
+   
+ 
+
+~
+433 0 1
+D0
+~
+~
+0 -1 43382
+D1
+~
+~
+0 -1 43380
+D2
+~
+~
+0 -1 43384
+D3
+~
+~
+0 -1 43396
+Z3
+C3
+S
+#43382
+{BO,M}Square of the Folkwell{bo,m}~
+
+   {M}The folkwell refers to an ancient well which supplied the 
+   common people with their water. Water once ruled this land, 
+   and is responsible for one of the original names of this 
+   place {W}"{C}Ondolinde{W}" {M}or {W}"{C}Rock of the Music Water{W}"{M}.{m}
+ 
+   
+ 
+
+~
+433 0 1
+D0
+~
+~
+0 -1 43383
+D1
+~
+~
+0 -1 43378
+D2
+~
+~
+0 -1 43381
+D3
+~
+~
+0 -1 43395
+Z3
+C3
+S
+#43383
+{BO,M}Square of the Folkwell{bo,m}~
+
+   {M}The folkwell refers to an ancient well which supplied the 
+   common people with their water. Water once ruled this land, 
+   and is responsible for one of the original names of this 
+   place {W}"{C}Ondolinde{W}" {M}or {W}"{C}Rock of the Music Water{W}"{M}.{m}
+ 
+   
+ 
+
+~
+433 0 1
+D1
+~
+~
+0 -1 43379
+D2
+~
+~
+0 -1 43382
+D3
+~
+~
+0 -1 43394
+Z3
+C3
+S
+#43384
+{W,BO}The Arch of Ingwe{w,bo}~
+
+   {C}Here stands an ancient archway. erected as tribute to 
+   {BO,W}Ingwe{bo,w}{C}, the {BO,W}High King{bo,w} {C}of the {BO,W}Vanyar{bo,w}{C}. {BO,W}Ingwe{bo,w} {C}was the first 
+   Elf to awaken in {BO,G}Cuivinen{bo,g} {C}by the trees. Ingwe now sits 
+   on his throne atop fair Taniquetil, holding rule over 
+   the {BO,Y}Vanyar{bo,y} {C}in the {BO,C}Blessed Realm{bo,c}{C}. Beneath the Arch is a 
+   beautiful fountain, which appears to be filled with 
+   living water.{c}
+ 
+~
+433 4 1
+D0
+~
+~
+0 -1 43381
+D2
+~
+~
+0 -1 43385
+Z3
+C3
+S
+#43385
+{BLU}Road of Pomps{blu}~
+
+   {BLU,BO}This road is traveled each day by the regular citizens of 
+   Gondolin. Coming and going about their lives each day. 
+   Taking this road over others so that they might pass under 
+   the {BO,Y}Arch of Ingwe{bo,y}{BLU,BO}, perchance to glimpse{bo,blu} {C}Ulmo {BLU,BO}himself in 
+   the fountain.{bo,BLU}
+ 
+   
+ 
+~
+433 0 1
+D0
+~
+~
+0 -1 43384
+D1
+~
+~
+0 -1 43386
+Z3
+C3
+S
+#43386
+{BLU}Road of Pomps{blu}~
+
+   {BLU,BO}This road is traveled each day by the regular citizens of 
+   Gondolin. Coming and going about their lives each day. 
+   Taking this road over others so that they might pass under 
+   the {BO,Y}Arch of Ingwe{bo,y}{BLU,BO}, perchance to glimpse{bo,blu} {C}Ulmo {BLU,BO}himself in 
+   the fountain.{bo,BLU}
+ 
+   
+ 
+~
+433 0 1
+D1
+~
+~
+0 -1 43353
+D3
+~
+~
+0 -1 43385
+Z3
+C3
+S
+#43387
+{BLU,BO}Road of Pomps{blu,bo}~
+
+   {BO,C}This is a simple road where most of the Gondolindrum live. Some 
+   of the homes are plain and small, yet others are regally adorned 
+   and without equal. One in particular catches your eye. This home 
+   is neither plain nor regal, but something about it seems familiar. {bo,c}
+
+~
+433 0 1
+D0
+{BO,Y}This is the home of Tuor and Indril, Man and Elf, Husband and Wife.{bo,y}
+
+~
+tuor door~
+6 43312 43388
+D1
+~
+~
+0 -1 43397
+D3
+~
+~
+0 -1 43398
+Z3
+C3
+S
+#43388
+{C}The Foyer{c}~
+
+   {C}You enter into the home of {W}Tuor {C}and {W}Indril{C}. Tuor is the son 
+   of {Y}Huor {C}and a man of the house of the {Y}Edain. {C}Indril is the 
+   daughter of {BO,G}King Turgon{bo,g} {C}himself, a direct line to {BO,C}Fingolfin 
+   High King of the Noldor{bo,c}{C}. You certainly should not be here.
+ 
+
+~
+433 1048592 1
+D1
+~
+~
+0 -1 43390
+D2
+~
+tuor door~
+1 -1 43387
+Z3
+C1
+S
+#43389
+{BO,R}G{BO,C}a{BO,Y}r {BO,W}A{BO,M}{BO,BLU}i{BO,G}n{BO,R}i{BO,C}o{BO,Y}n{bo,y}~
+
+   {BO,R}This is a place of peace and tranquility. Sit, rest, and enjoy a moment.{bo,r} 
+
+~
+433 0 1
+D3
+~
+~
+0 -1 43375
+Z-1
+C3
+S
+#43390
+{C}Tuor's Drawing room{c}~
+
+   {C}Sitting here is Tuor, son of Huor. He stands vigil as his wife 
+   gives birth to their first child. His drawing room displays his 
+   many abilities, as a hunter, an artist, and as a warrior. {c}
+
+~
+433 20 1
+D0
+~
+~
+0 -1 43391
+D3
+~
+~
+0 -1 43388
+Z3
+C3
+S
+#43391
+{W,BO}Indril's Bedroom{bo,w}~
+
+   {W}This bedroom is in a state of disarray. It's occupant is lying on her bed 
+   in a cold sweat. She has just given birth to a son Earendil, half man and 
+   half elf.  {BO,C}Earendil{bo,c} {W}has been taken by the mid-wife to the Palace for King 
+   Turgon's blessing.{w} 
+
+~
+433 16388 1
+D2
+~
+~
+0 -1 43390
+T43390
+X536870912
+Z3
+C3
+S
+#43392
+{BLU,BO}The Great Market{blu,bo}~
+
+   {Y}This market does not appear different than any other market 
+   you have been in. You see clothing, fruits, meats, weapons,
+   and armour all on display. You continue your hunt for... 
+   for...for whatever it is your dream has sent you here to find.{y}
+ 
+~
+433 0 1
+D1
+~
+~
+0 -1 43368
+D2
+~
+~
+0 -1 43370
+Z-1
+C3
+S
+#43393
+{BLU,BO}The Great Market{blu,bo}~
+
+   {Y}This market does not appear different than any other market 
+   you have been in. You see clothing, fruits, meats, weapons,
+   and armour all on display. You continue your hunt for... 
+   for...for whatever it is your dream has sent you here to find.{y}
+ 
+~
+433 0 1
+D2
+~
+~
+0 -1 43369
+D3
+~
+~
+0 -1 43368
+Z-1
+C3
+S
+#43394
+{BO,M}Square of the Folkwell{bo,m}~
+
+   {M}The folkwell refers to an ancient well which supplied the 
+   common people with their water. Water once ruled this land, 
+   and is responsible for one of the original names of this 
+   place {W}"{C}Ondolinde{W}" {M}or {W}"{C}Rock of the Music Water{W}"{M}.{m}
+ 
+   
+ 
+
+~
+433 0 1
+D1
+~
+~
+0 -1 43383
+D2
+~
+~
+0 -1 43395
+Z3
+C3
+S
+#43395
+{BO,M}Square of the Folkwell{bo,m}~
+
+   {M}The folkwell refers to an ancient well which supplied the 
+   common people with their water. Water once ruled this land, 
+   and is responsible for one of the original names of this 
+   place {W}"{C}Ondolinde{W}" {M}or {W}"{C}Rock of the Music Water{W}"{M}.{m}
+ 
+   
+ 
+
+~
+433 0 1
+D0
+~
+~
+0 -1 43394
+D1
+~
+~
+0 -1 43382
+D2
+~
+~
+0 -1 43396
+Z3
+C3
+S
+#43396
+{BO,M}Square of the Folkwell{bo,m}~
+
+   {M}The folkwell refers to an ancient well which supplied the 
+   common people with their water. Water once ruled this land, 
+   and is responsible for one of the original names of this 
+   place {W}"{C}Ondolinde{W}" {M}or {W}"{C}Rock of the Music Water{W}"{M}.{m}
+ 
+   
+ 
+
+~
+433 0 1
+D0
+~
+~
+0 -1 43395
+D1
+~
+~
+0 -1 43381
+Z3
+C3
+S
+#43397
+{BLU}Fountain of the South{blu}~
+
+   {W}Standing before this well you suddenly wish you hadn't come here.
+      {BLU}\\     \\    
+       \\     \\
+        \\     \\
+         \\     \\
+          \\     \\
+           \\/\/\/\\
+   {W}Sorry my friend, but your part in this story is over.{w}
+
+~
+433 2 1
+D3
+~
+~
+0 -1 43387
+Z3
+C3
+S
+#43398
+{BLU,BO}Road of Pomps{blu,bo}~
+
+   {BO,C}This is a simple road where most of the Gondolindrum live. Some 
+   of the homes are plain and small, yet others are regally adorned 
+   and without equal. One in particular catches your eye. This home 
+   is neither plain nor regal, but something about it seems familiar. {bo,c}
+
+~
+433 0 1
+D1
+~
+~
+0 -1 43387
+D3
+~
+~
+0 -1 43353
+Z3
+C3
+S
+#43399
+{BLU}Bell Room{blu}~
+ 
+                           {W}A 
+                         simple 
+                      room is here, 
+                  hidden at the top of 
+                the {BO,Y}Amon Gwareth's{bo,y} {W}jewel.
+               Take a rest and look around, 
+            but rest not too long. The guards 
+         will be back and this time with friends.{w}
+ 
+
+~
+433 1 1
+D5
+~
+secret way~
+1 -1 43373
+Z15
+C3
+S
+$~

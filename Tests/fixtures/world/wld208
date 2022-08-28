@@ -1,0 +1,2140 @@
+#20800
+Pmans torture chamber!~
+    In progress....please standby....
+~
+208 0 7
+D0
+~
+~
+0 -1 20801
+D1
+~
+~
+0 -1 10920
+D2
+~
+~
+0 -1 20700
+Z3
+C-1
+R0
+S
+#20801
+{BO}{B}Gates{b} to {BO}{W}A{w}{BO}{B}lc{b}{BO}{W}at{w}{BO}{B}ra{b}{BO}{W}z{w}~
+
+  {BO}{B}{REV}There are two huge, rusty, steel gates before you. This must be{b}
+  {BO}{B}{REV}the only entrance  into  Alcatraz due to its current occupants.{b}
+  {BO}{B}{REV}Its been told that inside the walls of this prison have spawned{b}
+  {BO}{B}{REV}some of the most hated, psycho killers in the world. Be careful{b}
+  {BO}{B}{REV}in the choices you make, it would be a shame for you to become {b}
+  {BO}{B}{REV}a permanent resident!  Remember these guys have not seen  fresh{b}
+  {BO}{B}{REV}meat in a long ass time.                                       {b}
+
+~
+208 0 1
+D0
+These are the main security gates to Alcatraz.  This is the only
+way into Alcatraz.
+
+~
+MAIN SECURITY GATES~
+2 10900 20802
+D2
+~
+entrance~
+1 -1 10952
+Z3
+C-1
+R0
+S
+#20802
+{BO}{B}Standing{b} {Y}before two {BO}{B}Guard{b} {Y}Towers{y}~
+
+  {BO}{B}There is allot of noise and commotion ahead of you.  The inmates
+  must be out in the yard.  To the east and west of you are guard
+  towers.  Here is probably the safest place to be at the moment.
+  It would be smart to wait until the inmates return to their cells.{b}
+
+~
+208 0 1
+D0
+~
+~
+0 -1 20803
+D1
+~
+~
+0 -1 20806
+D2
+~
+MAIN SECURITY GATES~
+1 -1 20801
+D3
+~
+~
+0 -1 20804
+Z3
+C-1
+R0
+S
+#20803
+Entry-way corridor~
+
+  {C}You slowly make your way into the walls of Alcatraz.  The noises up 
+  ahead are beginning to get louder, and your heart begins to beat a 
+  little faster.  This could end up getting ugly if your not careful.
+  Just watch your back, cause in this joint anything goes{c}.
+
+~
+208 0 1
+D0
+~
+~
+0 -1 20808
+D2
+~
+~
+0 -1 20802
+Z3
+C-1
+R0
+S
+#20804
+{Y}Beneath the{y} {BO}{B}Tower{b}~
+
+  {C}There is a guard tower above.  Better not let them see you
+  sneaking around down here.  You are a destined for a bullet
+  this way.{c}
+
+~
+208 0 1
+D1
+~
+~
+0 -1 20802
+D4
+~
+~
+0 -1 20805
+Z3
+C-1
+R0
+S
+#20805
+{BO}{B}Guard Tower{b}~
+
+  {C}You have entered the top of the guard tower.  Here you can view
+  all of{c} {BO}{W}Alcatraz{w} {C}from this one single spot. The inmates are still
+  in the yard lifting weights,  playing ball  and doing what ever
+  they can to keep themselves out of trouble. You also notice that
+  the three {BO}{B}guards{b} {C}standing here are not pleased by your presence.
+  It appears they have mistaken you as an inmate{c}.  {BO}{R}Banzai{b}!!!!!!!
+
+~
+208 0 1
+D5
+~
+~
+0 -1 20804
+Z3
+C-1
+R0
+S
+#20806
+{Y}Beneath the{y} {BO}{B}Tower{b}~
+
+  {C}There is a guard tower above.  Better not let them see you
+  sneaking around down here.  You are a destined for a bullet
+  this way.{c}
+
+~
+208 0 1
+D3
+~
+~
+0 -1 20802
+D4
+~
+~
+0 -1 20807
+Z3
+C-1
+R0
+S
+#20807
+{BO}{B}Guard Tower{b}~
+
+  {C}You have entered the top of the guard tower.  Here you can view
+  all of{c} {BO}{W}Alcatraz{w} {C}from this one single spot. The inmates are still
+  in the yard lifting weights,  playing ball  and doing what ever
+  they can to keep themselves out of trouble. You also notice that
+  the three {BO}{B}guards{b} {C}standing here are not pleased by your presence.
+  It appears they have mistaken you as an inmate{c}.  {BO}{R}Banzai{b}!!!!!!!
+
+~
+208 0 1
+D5
+~
+~
+0 -1 20806
+Z3
+C-1
+R0
+S
+#20808
+{C}Corridor{c}~
+
+  {C}The noises up ahead are now very clear, and very loud and you are
+  beginning to feel that coming here  was probably a very bad idea.
+  Here the hall continues on north and also splits off to the west
+  At the end of the hall to the west you notice a large{c} {Y}wooden door{y}
+  {C}with letters etched into it{c}.
+
+~
+208 0 1
+D0
+~
+~
+0 -1 20811
+D2
+~
+~
+0 -1 20803
+D3
+~
+~
+0 -1 20809
+Z3
+C-1
+R0
+S
+#20809
+{C}West Corridor{c}~
+
+  {BO}{B}On the other side of this door is the {BO}{Y}Warden's {BO}{C}office{c}.
+  {C}To get in you must ask nicely for the guards to unlock 
+  the door{c}.  {BO}{C}Good luck{c}!
+
+~
+208 0 1
+D1
+~
+~
+0 -1 20808
+D3
+Just a big brown door that leads into the Wardon's office.
+
+~
+big brown door~
+2 10901 20810
+Z3
+C-1
+R0
+S
+#20810
+{BO}{Y}Warden's{y} {C}Office{c}~
+
+  {BO}{BLU}This room is filled with  books, pictures, papers and files in 
+  one corner and guns, swords, .. and just about everything else 
+  that has been confinscated from inmates over the years in the 
+  other corner.  You also notice a desk in the corner and behind 
+  it a weathered old man sits doing his paperwork. The only thing 
+  that seems out of place and doesn't belong in this room is the 
+  beautiful painting of a woman hanging upon the back wall{b}. 
+
+~
+208 0 1
+D0
+This is a painting of a beautiful woman.  Her hair flows long
+and golden.  Her eyes are as blue as the deepest ocean.  She is the
+most amazing woman you have ever seen.
+
+~
+painting~
+2 10902 20812
+D1
+~
+big brown door~
+1 -1 20809
+Z3
+C-1
+R0
+S
+#20811
+corridor~
+     The yelling and screaming from ahead is beginning to probe your
+brane.  The voices are cutting into your mind like razors.  You are
+struck with terror as you begin to imagine all the horrible things that
+go on in here.  All you want to do now is run the other way, but your
+ego keeps you sane enough to go on.
+
+~
+208 0 1
+D0
+~
+~
+0 -1 20813
+D2
+~
+~
+0 -1 20808
+Z3
+C-1
+R0
+S
+#20812
+Safe~
+     Inside you fine a large ring lined with atleast fifty keys.  These 
+must go to the inmate cells.  
+
+~
+208 0 1
+D2
+~
+painting~
+1 -1 20810
+Z3
+C-1
+R0
+S
+#20813
+Intersection~
+     Everything here seems to be utter chaos.  Voices are in an uproar
+but there is no one to be found.  Up ahead is an open area which looks
+like the center of all the cells.  there is a hallway to the east and 
+west, and a latch on the floor.
+
+~
+208 41 1
+D0
+A giant steel door
+~
+steel door~
+2 10903 20814
+D1
+~
+steel~
+2 -1 20824
+D2
+~
+~
+0 -1 20811
+D3
+~
+steel door~
+2 -1 20823
+D5
+A wooden door, barely noticeble.
+
+~
+wooden door~
+2 10903 20883
+Z3
+C-1
+R0
+S
+#20814
+Population~
+     There are guards wandering around here.  They look very mean and
+heartless.  Up above and all around are cells.  The yelling and screaming
+is from the inmates who are all locked-up at the moment.  Better hope
+they stay that way for your sake.  
+
+~
+208 0 1
+D0
+~
+~
+0 -1 20815
+D1
+~
+~
+0 -1 20819
+D2
+~
+steel door~
+1 -1 20813
+D3
+~
+~
+0 -1 20820
+Z3
+C-1
+R0
+S
+#20815
+Population~
+     There are guards wandering around here.  They look very mean and
+heartless.  Up above and all around are cells.  The yelling and screaming
+is from the inmates who are all locked-up at the moment.  Better hope
+they stay that way for your sake.  
+
+~
+208 0 1
+D0
+~
+~
+0 -1 20816
+D1
+~
+~
+0 -1 20818
+D2
+~
+~
+0 -1 20814
+D3
+~
+~
+0 -1 20821
+Z3
+C-1
+R0
+S
+#20816
+Population~
+     There are guards wandering around here.  They look very mean and
+heartless.  Up above and all around are cells.  The yelling and screaming
+is from the inmates who are all locked-up at the moment.  Better hope
+they stay that way for your sake.  
+
+~
+208 0 1
+D0
+~
+~
+0 -1 10905
+D1
+~
+~
+0 -1 20817
+D2
+~
+~
+0 -1 20815
+D3
+~
+~
+0 -1 20822
+Z3
+C-1
+R0
+S
+#20817
+Population~
+     There are guards wandering around here.  They look very mean and
+heartless.  Up above and all around are cells.  The yelling and screaming
+is from the inmates who are all locked-up at the moment.  Better hope
+they stay that way for your sake.  
+
+~
+208 0 1
+D0
+~
+~
+0 -1 10906
+D1
+~
+~
+0 -1 10908
+D2
+~
+~
+0 -1 20818
+D3
+~
+~
+0 -1 20816
+Z3
+C-1
+R0
+S
+#20818
+Population~
+     There are guards wandering around here.  They look very mean and
+heartless.  Up above and all around are cells.  The yelling and screaming
+is from the inmates who are all locked-up at the moment.  Better hope
+they stay that way for your sake.  
+
+~
+208 0 1
+D0
+~
+~
+0 -1 20817
+D1
+~
+~
+0 -1 10909
+D2
+~
+~
+0 -1 20819
+D3
+~
+~
+0 -1 20815
+Z3
+C-1
+R0
+S
+#20819
+Population~
+     There are guards wandering around here.  They look very mean and
+heartless.  Up above and all around are cells.  The yelling and screaming
+is from the inmates who are all locked-up at the moment.  Better hope
+they stay that way for your sake.  
+
+~
+208 0 1
+D0
+~
+~
+0 -1 20818
+D1
+~
+~
+0 -1 10910
+D3
+~
+~
+0 -1 20814
+Z3
+C-1
+R0
+S
+#20820
+Population~
+     There are guards wandering around here.  They look very mean and
+heartless.  Up above and all around are cells.  The yelling and screaming
+is from the inmates who are all locked-up at the moment.  Better hope
+they stay that way for your sake.  
+
+~
+208 0 1
+D0
+~
+~
+0 -1 20821
+D1
+~
+~
+0 -1 20814
+D3
+~
+~
+0 -1 10900
+Z3
+C-1
+R0
+S
+#20821
+Population~
+     There are guards wandering around here.  They look very mean and
+heartless.  Up above and all around are cells.  The yelling and screaming
+is from the inmates who are all locked-up at the moment.  Better hope
+they stay that way for your sake.  
+
+~
+208 0 1
+D0
+~
+~
+0 -1 20822
+D1
+~
+~
+0 -1 20815
+D2
+~
+~
+0 -1 20820
+D3
+~
+~
+0 -1 10901
+Z3
+C-1
+R0
+S
+#20822
+Population~
+     There are guards wandering around here.  They look very mean and
+heartless.  Up above and all around are cells.  The yelling and screaming
+is from the inmates who are all locked-up at the moment.  Better hope
+they stay that way for your sake.  
+
+~
+208 0 1
+D0
+~
+~
+0 -1 10904
+D1
+~
+~
+0 -1 20816
+D2
+~
+~
+0 -1 20821
+D3
+~
+~
+0 -1 10902
+Z3
+C-1
+R0
+S
+#20823
+Guard station~
+
+     Just a place for a guard to stand and keep watch over his nut
+cases.
+
+~
+208 8 1
+D0
+~
+steel door~
+2 10903 20826
+D1
+~
+steel door~
+1 -1 20813
+D5
+A steel grate with bars over two inches thick.
+
+~
+grate~
+2 10903 10911
+Z3
+C-1
+R0
+S
+#20824
+Guard Station~
+     Just another guard on duty
+~
+208 8 1
+D0
+~
+steel door~
+2 10903 20825
+D3
+~
+steel~
+1 -1 20813
+Z3
+C-1
+R0
+S
+#20825
+Staircase~
+     This staircase goes up into all the hate and the screaming, and
+the utter chaos.  The inmates are pleased they have visitors.  Go show 
+them a good time.
+~
+208 0 1
+D2
+~
+steel door~
+1 -1 20824
+D4
+~
+~
+0 -1 20852
+Z3
+C-1
+R0
+S
+#20826
+Staircase~
+     This staircase goes up into all the hate and the screaming, and
+the utter chaos.  The inmates are pleased they have visitors.  Go show 
+them a good time.
+~
+208 8 1
+D2
+~
+steel door~
+1 -1 20823
+D4
+~
+~
+0 -1 20827
+Z3
+C-1
+R0
+S
+#20827
+Second floor~
+     You have entered the second floor, were most of the civil inmates
+are kept.  This is a giant square to were the center is an open courtyard
+below and the cells are built around it above.  
+
+~
+208 0 1
+D0
+~
+~
+0 -1 20828
+D5
+~
+~
+0 -1 20826
+Z3
+C-1
+R0
+S
+#20828
+walkway~
+     This walkway goes all the way around the cells.  To you right is a 
+fence that overlooks the courtyard below.  To your left are inmate cells.
+
+~
+208 8 1
+D0
+~
+~
+0 -1 20829
+D2
+~
+~
+0 -1 20827
+Z3
+C-1
+R0
+S
+#20829
+walkway~
+     This walkway goes all the way around the cells.  To you right is a 
+fence that overlooks the courtyard below.  To your left are inmate cells.
+
+~
+208 256 1
+D0
+~
+~
+0 -1 20831
+D2
+~
+~
+0 -1 20828
+D3
+~
+cell door~
+2 10903 20830
+T10902
+Z3
+C-1
+R0
+S
+#20830
+Cell~
+     This is no place one would want to live.  The walls are covered with
+filth, floors are a discrase.  The toilet and sink is not to be desired,
+and that bed is not very inviting.  But what do you expect, you are in 
+Alcatraz, not the Hilton.
+~
+208 8 1
+D1
+~
+cell door~
+1 -1 20829
+Z3
+C-1
+R0
+S
+#20831
+walkway~
+     This walkway goes all the way around the cells.  To you right is a 
+fence that overlooks the courtyard below.  To your left are inmate cells.
+
+~
+208 0 1
+D0
+~
+~
+0 -1 20833
+D2
+~
+~
+0 -1 20829
+D3
+~
+cell door~
+2 10903 20832
+Z3
+C-1
+R0
+S
+#20832
+Cell~
+     This is no place one would want to live.  The walls are covered with
+filth, floors are a discrase.  The toilet and sink is not to be desired,
+and that bed is not very inviting.  But what do you expect, you are in 
+Alcatraz, not the Hilton.
+~
+208 8 1
+D1
+~
+cell door~
+1 -1 20831
+Z3
+C-1
+R0
+S
+#20833
+Staircase~
+     Beyond the security door ahead of you is a staircase that goes up.
+There are cells all around.  The walkway continues to the east and west
+is another cell.  There is a guard here keeping watch.
+
+
+~
+208 8 1
+D1
+~
+~
+0 -1 20835
+D2
+~
+~
+0 -1 20831
+D3
+~
+cell door~
+2 10903 20834
+D4
+~
+steel door~
+2 10903 20853
+Z3
+C-1
+R0
+S
+#20834
+Cell~
+     This is no place one would want to live.  The walls are covered with
+filth, floors are a discrase.  The toilet and sink is not to be desired,
+and that bed is not very inviting.  But what do you expect, you are in 
+Alcatraz, not the Hilton.
+~
+208 8 1
+D1
+~
+cell door~
+1 -1 20833
+Z3
+C-1
+R0
+S
+#20835
+Walkway~
+     This walkway runs east and west.  To your north are inmate cells,
+and to your south is the courtyard below.  Across the room to the south you 
+can see the entry way below at which you entered this hell hole.
+
+~
+208 8 1
+D0
+~
+cell door~
+2 10903 20836
+D1
+~
+~
+0 -1 20837
+D3
+~
+~
+0 -1 20833
+Z3
+C-1
+R0
+S
+#20836
+Cell~
+     This is no place one would want to live.  The walls are covered with
+filth, floors are a discrase.  The toilet and sink is not to be desired,
+and that bed is not very inviting.  But what do you expect, you are in 
+Alcatraz, not the Hilton.
+~
+208 8 1
+D2
+~
+cell door~
+1 -1 20835
+Z3
+C-1
+R0
+S
+#20837
+Walkway~
+     This walkway runs east and west.  To your north are inmate cells,
+and to your south is the courtyard below.  Across the room to the south you 
+can see the entry way below at which you entered this hell hole.
+
+~
+208 0 1
+D0
+~
+cell door~
+2 10903 20838
+D1
+~
+~
+0 -1 20839
+D3
+~
+~
+0 -1 20835
+Z3
+C-1
+R0
+S
+#20838
+Cell~
+     This is no place one would want to live.  The walls are covered with
+filth, floors are a discrase.  The toilet and sink is not to be desired,
+and that bed is not very inviting.  But what do you expect, you are in 
+Alcatraz, not the Hilton.
+~
+208 8 1
+D2
+~
+cell door~
+1 -1 20837
+Z3
+C-1
+R0
+S
+#20839
+Walkway~
+     This walkway runs east and west.  To your north are inmate cells,
+and to your south is the courtyard below.  Across the room to the south you 
+can see the entry way below at which you entered this hell hole.
+
+~
+208 0 1
+D0
+~
+cell door~
+2 10903 20844
+D1
+~
+~
+0 -1 20840
+D3
+~
+~
+0 -1 20837
+D5
+~
+~
+0 -1 10905
+Z3
+C-1
+R0
+S
+#20840
+Walkway~
+     This walkway runs east and west.  To your north are inmate cells,
+and to your south is the courtyard below.  Across the room to the south you 
+can see the entry way below at which you entered this hell hole.
+
+~
+208 0 1
+D0
+~
+cell door~
+1 10903 20841
+D1
+~
+~
+0 -1 20842
+D3
+~
+~
+0 -1 20839
+Z3
+C-1
+R0
+S
+#20841
+Cell~
+     This is no place one would want to live.  The walls are covered with
+filth, floors are a discrase.  The toilet and sink is not to be desired,
+and that bed is not very inviting.  But what do you expect, you are in 
+Alcatraz, not the Hilton.
+~
+208 8 1
+D2
+~
+cell door~
+1 -1 20840
+Z3
+C-1
+R0
+S
+#20842
+Walkway~
+     This walkway runs east and west.  To your north are inmate cells,
+and to your south is the courtyard below.  Across the room to the south you 
+can see the entry way below at which you entered this hell hole.
+
+~
+208 8 1
+D0
+~
+~
+0 -1 20843
+D1
+~
+~
+0 -1 20845
+D3
+~
+~
+0 -1 20840
+Z3
+C-1
+R0
+S
+#20843
+Cell~
+     This is no place one would want to live.  The walls are covered with
+filth, floors are a discrase.  The toilet and sink is not to be desired,
+and that bed is not very inviting.  But what do you expect, you are in 
+Alcatraz, not the Hilton.
+~
+208 0 1
+D2
+~
+~
+0 -1 20842
+Z3
+C-1
+R0
+S
+#20844
+Cell~
+     This is no place one would want to live.  The walls are covered with
+filth, floors are a discrase.  The toilet and sink is not to be desired,
+and that bed is not very inviting.  But what do you expect, you are in 
+Alcatraz, not the Hilton.
+~
+208 8 1
+D2
+~
+cell door~
+1 -1 20839
+Z3
+C-1
+R0
+S
+#20845
+Staircase~
+     Infront of you is a very large, steel, security door.  Beyond it are
+stairs that go up.  There are cells all around you and to the west the
+walkway continues.  There is a guard here keeping watch.
+
+~
+208 8 1
+D1
+~
+~
+0 -1 20846
+D2
+~
+~
+0 -1 20847
+D3
+~
+~
+0 -1 20842
+D4
+~
+steel door~
+2 10903 20854
+Z3
+C-1
+R0
+S
+#20846
+Cell~
+     This is no place one would want to live.  The walls are covered with
+filth, floors are a discrase.  The toilet and sink is not to be desired,
+and that bed is not very inviting.  But what do you expect, you are in 
+Alcatraz, not the Hilton.
+~
+208 8 1
+D3
+~
+~
+0 -1 20845
+Z3
+C-1
+R0
+S
+#20847
+Walkway~
+
+     Here you stand in utter chaos.  To the west is a railing that
+overlooks the courtyard.  To the east are inmate cells, and straight 
+ahead is the walkway.  
+
+~
+208 8 1
+D0
+~
+~
+0 -1 20845
+D1
+~
+~
+0 -1 20848
+D2
+~
+~
+0 -1 20849
+Z3
+C-1
+R0
+S
+#20848
+Cell~
+     This is no place one would want to live.  The walls are covered with
+filth, floors are a discrase.  The toilet and sink is not to be desired,
+and that bed is not very inviting.  But what do you expect, you are in 
+Alcatraz, not the Hilton.
+~
+208 8 1
+D3
+~
+~
+0 -1 20847
+Z3
+C-1
+R0
+S
+#20849
+Walkway~
+
+     Here you stand in utter chaos.  To the west is a railing that
+overlooks the courtyard.  To the east are inmate cells, and straight 
+ahead is the walkway.  
+
+~
+208 256 1
+D0
+~
+~
+0 -1 20847
+D1
+~
+~
+0 -1 20850
+D2
+~
+~
+0 -1 20851
+T10908
+Z3
+C-1
+R0
+S
+#20850
+Cell~
+     This is no place one would want to live.  The walls are covered with
+filth, floors are a discrase.  The toilet and sink is not to be desired,
+and that bed is not very inviting.  But what do you expect, you are in 
+Alcatraz, not the Hilton.
+~
+208 8 1
+D3
+~
+~
+0 -1 20849
+Z3
+C-1
+R0
+S
+#20851
+Walkway~
+
+     Here you stand in utter chaos.  To the west is a railing that
+overlooks the courtyard.  To the east are inmate cells, and straight 
+ahead is the walkway.  
+
+~
+208 8 1
+D0
+~
+~
+0 -1 20849
+D2
+~
+~
+0 -1 20852
+Z3
+C-1
+R0
+S
+#20852
+Second floor~
+     You have entered the second floor, were most of the civil inmates
+are kept.  This is a giant square to were the center is an open courtyard
+below and the cells are built around it above.  
+
+~
+208 8 1
+D0
+~
+~
+0 -1 20851
+D4
+~
+~
+0 -1 20874
+D5
+~
+~
+0 -1 20825
+Z3
+C-1
+R0
+S
+#20853
+Third floor walkway~
+     You have made it to the third floor of Alcatraz.  This is were some
+of the most hardened criminals are.  Axe murders, rapist, pshchos, etc,.
+Best be carefull up here if you don't want to become a permanant resident.
+
+~
+208 8 1
+D3
+~
+~
+0 -1 20855
+D5
+~
+steel door~
+1 -1 20833
+Z3
+C-1
+R0
+S
+#20854
+Death row~
+     You have made it to the third floor of Alcatraz.  This is were some
+of the most hardened criminals are.  Axe murders, rapist, pshchos, etc,.
+Best be carefull up here if you don't want to become a permanant resident.
+
+~
+208 0 1
+D1
+~
+~
+0 -1 20869
+D5
+~
+steel door~
+1 -1 20845
+Z3
+C-1
+R0
+S
+#20855
+Third floor walkway~
+     Up here you feel very uncomfortable, almost like a little boy or 
+girl in fear.  There are screams that screatch through the air ripping into
+your brain.  What form of torture could be happening to produce this
+much agony.  Up ahead is a corner which turns south, were the screams are
+the loudest.
+
+~
+208 8 1
+D1
+~
+~
+0 -1 20853
+D3
+~
+~
+0 -1 20856
+Z3
+C-1
+R0
+S
+#20856
+Third floor walkway~
+     Now you can see where the screams are being produced.  Ahead of you
+is a guard who is beating the last few breathes out of an inmate, while 
+another sits and watches, ..... laughing.  
+
+~
+208 8 1
+D1
+~
+~
+0 -1 20855
+D2
+~
+~
+0 -1 20857
+Z3
+C-1
+R0
+S
+#20857
+Insane Asylum~
+     NOW ENTERING THE ALCATRAZ INSANE ASYLUM!!!
+
+~
+208 8 1
+D0
+~
+~
+0 -1 20856
+D2
+~
+~
+0 -1 20858
+Z3
+C-1
+R0
+S
+#20858
+Guard room~
+     There are three guards stationed here.  To the west is the Doctors
+room and to the south are were the psycho's are held for treatment.
+
+~
+208 8 1
+D0
+~
+~
+0 -1 20857
+D2
+~
+~
+0 -1 20860
+D3
+~
+Oak door~
+2 10903 20859
+Z3
+C-1
+R0
+S
+#20859
+Doctor's office~
+     In here the Doctor treats the inmates with whatever means possible.
+In one corner of the room is an ECT tester.  Another corner has straight
+jackets on the wall.  There is a desk to your right, looks like the
+Doctor is in.  Hope he doesn't mistake you as one of the inmates.
+
+~
+208 262144 1
+D1
+~
+Oak door~
+1 -1 20858
+Z3
+C-1
+R0
+S
+#20860
+Halls of the Insane~
+     As you pass along these halls you begin to wonder what the hell you
+are doing here.  This is a place of torture and hatred.  The air is filled
+with death and the screams of horrored patcients.  There is garbage all
+over the floors, dirty needles, bloody bandages, bones, cadavars.
+~
+208 8 1
+D0
+~
+~
+0 -1 20858
+D3
+~
+~
+0 -1 20861
+Z3
+C-1
+R0
+S
+#20861
+Halls of the Insane~
+     Moving through the insane asylum.
+
+~
+208 8 1
+D1
+~
+~
+0 -1 20860
+D3
+~
+~
+0 -1 20862
+Z3
+C-1
+R0
+S
+#20862
+Halls of the Insane~
+     This place is utter discrace and filth.  What one person deserves 
+this punishment.  There is a guard up ahead.  He looks as if he hates 
+his job.  
+~
+208 8 1
+D1
+~
+~
+0 -1 20861
+D2
+~
+~
+0 -1 20863
+Z3
+C-1
+R0
+S
+#20863
+Halls of the Insane~
+     You stand before a room, padded perhaps.  There is a guard here
+to protect the workers of this facility and prevent any possibility of
+escape.  
+
+~
+208 8 1
+D0
+~
+~
+0 -1 20862
+D1
+~
+padded cell door~
+2 10903 20864
+D2
+~
+~
+0 -1 20865
+Z3
+C-1
+R0
+S
+#20864
+Padded cell~
+     You are standing inside a padded cell.  There is blood stains on the 
+walls.  They look as if they are hundreds of years old.  There is a little
+woman crouched down in the corner of the cell.  She sits with her head
+bowed between her legs.  Crazy is an understatement.
+
+~
+208 8 1
+D3
+~
+padded cell door~
+1 -1 20863
+Z3
+C-1
+R0
+S
+#20865
+Halls of the Insane~
+     Moving further into the lives of the insane.  
+
+~
+208 8 1
+D0
+~
+~
+0 -1 20863
+D2
+~
+~
+0 -1 20866
+Z3
+C-1
+R0
+S
+#20866
+Turn in the halls~
+     You have reached what seems to be the end of the insane asylum.
+There are two guards in the next room, and a man in a cell babbling about
+Jesus.  There really is something strange about all of this.  
+~
+208 8 1
+D0
+~
+~
+0 -1 20865
+D1
+~
+~
+0 -1 20867
+Z3
+C-1
+R0
+S
+#20867
+Halls of the Insane~
+     
+     Funny, there are four people in this cell and not a single
+guard here to watch over them.  All of them shaved their heads
+and are ranting and raving about some nonsense no one wants to here.
+
+~
+208 8 1
+D1
+~
+cell door~
+2 10903 20868
+D3
+~
+~
+0 -1 20866
+Z3
+C-1
+R0
+S
+#20868
+Manson's Cell~
+     This cell, like the rest of them, is not a way of living.  It is 
+covered in filth, and stinks of death.  There is a bed in the corner, and
+on this bed sits evil himself.....Charles Manson.  He belongs in the
+electric chair rather then this cell.
+
+~
+208 8 1
+D3
+~
+cell door~
+1 -1 20867
+Z3
+C-1
+R0
+S
+#20869
+Death row~
+     Muffled voices fill the air.  From here they are not very clear.
+There is evil laughter up ahead.  What could be so funny.  
+
+~
+208 8 1
+D1
+~
+~
+0 -1 20870
+D3
+~
+~
+0 -1 20854
+Z3
+C-1
+R0
+S
+#20870
+Death row~
+     The voices have become much clearer.  Inmates tell stories of there
+crimes about killing little boys, and burrying them under a house.  Insane
+killing sprees of hundreds of inocent people.  Taking orders from a dog
+as if he was God.  Raping and killing Old ladies.  They are Laughing
+at one another as these stories are told.  These inmates are definately
+sick people.
+~
+208 8 1
+D2
+~
+~
+0 -1 20871
+D3
+~
+~
+0 -1 20869
+Z3
+C-1
+R0
+S
+#20871
+Face to face with death~
+~
+208 1048584 1
+D1
+~
+~
+0 -1 10919
+T10919
+Z3
+C-1
+R0
+S
+#20872
+Death Row~
+     Three guards stand before you, laughing along with the inmates stories.
+These guards don't care anymore about what goes on up here, or what inmates
+have to say.  In a few days they will all be sent to the chair.  This is
+death row.  No more chances.  There time has expired.
+~
+208 8 1
+D1
+~
+Oak door~
+2 10903 20873
+D2
+~
+~
+0 -1 20874
+Z3
+C-1
+R0
+S
+#20873
+Last rights.~
+     This is the only room in Alcatraz were there is no fear, no hate, 
+no crimes.....just peace.  It is the Priest's chambers where last rights
+are given to those on death row.  It is a bare room, with just a chair 
+and table in the corner.  There is a holy cross on the wall, and a Bible
+on the table
+~
+208 8 1
+D3
+~
+Oak door~
+1 -1 20872
+Z3
+C-1
+R0
+S
+#20874
+Quiet hallway~
+     The inmates are all at rest now.  No voices are to be heard.
+Enjoy the silence while it last.
+~
+208 8 1
+D0
+~
+~
+0 -1 20872
+D1
+~
+~
+0 -1 20875
+D5
+~
+~
+0 -1 20852
+Z3
+C-1
+R0
+S
+#20875
+Quiet hallway~
+     The inmates are all at rest now.  No voices are to be heard.
+Enjoy the silence while it last.
+~
+208 0 1
+D1
+~
+~
+0 -1 20876
+D3
+~
+~
+0 -1 20874
+Z3
+C-1
+R0
+S
+#20876
+Quiet hallway~
+     The inmates are all at rest now.  No voices are to be heard.
+Enjoy the silence while it last.
+~
+208 8 1
+D2
+~
+~
+0 -1 20877
+D3
+~
+~
+0 -1 20875
+Z3
+C-1
+R0
+S
+#20877
+Quiet hallway~
+     In the cell before you crowches an inmate who is about to be
+electricuted.  There is a look of fear in his eye, very scared.  In a 
+way you fell sorry for the bastard, but he slaughtered many innocent
+people so let the loser fry.
+
+~
+208 8 1
+D0
+~
+~
+0 -1 20876
+D2
+~
+~
+0 -1 20879
+D3
+~
+cell door~
+2 10903 20878
+Z3
+C-1
+R0
+S
+#20878
+Cell~
+     In here many men spent there last nights, thinking about their crimes,
+wondering if they were even made for this world.  There are markings all
+over the walls, with initials of previous inmates.  Just being in this cell
+runs chills up your spine, making the hair on your neck jump on end.
+
+~
+208 8 1
+D1
+~
+cell door~
+1 -1 20877
+Z3
+C-1
+R0
+S
+#20879
+Final steps~
+     Many inmates took their final steps in this hallway.  Those who killed
+for fun, then laughed in the faces of there mauled victims.  The rancid
+smell of death surrounds the room.
+
+~
+208 8 1
+D0
+~
+~
+0 -1 20877
+D2
+~
+~
+0 -1 20880
+Z3
+C-1
+R0
+S
+#20880
+Death row~
+   Turn in the walkway
+
+~
+208 8 1
+D0
+~
+~
+0 -1 20879
+D1
+~
+~
+0 -1 10920
+D3
+~
+~
+0 -1 20881
+Z3
+C-1
+R0
+S
+#20881
+Death row~
+     This is the end.
+
+~
+208 8 1
+D1
+~
+~
+0 -1 20880
+D3
+~
+cell door~
+2 10903 20882
+Z3
+C-1
+R0
+S
+#20882
+Holding cell~
+     This is the end.  Good-bye!
+
+~
+208 0 1
+D1
+~
+cell door~
+1 -1 20881
+Z3
+C-1
+R0
+S
+#20883
+Spiral Staircase~
+     You have crawaled onto a staircase that seems to wind downwards
+into the dark pit of hell.  There is a terrible stench in the air, smells
+like death and suffering.  Your visibility is cut to only a few feet.  
+
+~
+208 0 1
+D4
+~
+wooden door~
+1 -1 20813
+D5
+~
+~
+0 -1 20884
+Z3
+C-1
+R0
+S
+#20884
+Spiral Stairway~
+
+ The stairway has continued downward to what seems to be a platform.
+The platform is old and rotted, and made of 100 year old wood.  In a
+way it looks as if it might be a door, because it is hollow underneath.
+Surely this old piece of wood isn't any security measure to hold someone
+in.  By any means it is old and will not support the way of you and your
+party much longer.  There is an exit to the east yet it is pitch black.
+Sure beats falling through this wood.  Better decide fast.    
+
+~
+208 41 1
+D1
+~
+Bars~
+2 10903 10922
+D4
+~
+~
+0 -1 20883
+D5
+~
+boards~
+2 10903 20885
+Z3
+C-1
+R0
+S
+#20885
+Spiral Stairway~
+     Seems that old wooden platform up above was a door afterall, and
+from the looks of it it was recently reimbursed with steel plates.  Seems
+someone is trying to hide something, or someone down here.  Whatever the 
+case, you are all alive, probably not well.
+
+~
+208 41 1
+D4
+~
+boards~
+1 -1 20884
+D5
+~
+~
+0 -1 20886
+Z3
+C-1
+R0
+S
+#20886
+Spiral Stairway~
+     Still cold, dark and wet from the stagnant air.  This place gives you
+more then the willies.  
+
+~
+208 41 1
+D4
+~
+~
+0 -1 20885
+D5
+~
+~
+0 -1 20887
+Z3
+C-1
+R0
+S
+#20887
+Landing~
+     Finally you have reached the bottom, well, lets hope atleast.
+The floor is covered in dirt, and there are rats running free all over.
+Looks like the wardon forgot to send the janitor down here.  You here
+a Faint mutter of voices from up ahead.  Much calmer this time, and
+less of them.
+
+~
+208 41 1
+D3
+~
+~
+0 -1 20888
+D4
+~
+~
+0 -1 20886
+Z3
+C-1
+R0
+S
+#20888
+Walkway~
+     This is a small walkway covered with dirt and other various life
+forms.  There is a very faint glow of light coming up ahead and the voices
+are beginning to sound a little more clear.  Almost sounds if someone 
+is singing, or maybe humming a tune.  Lets hope it's as peaceful as it
+sounds.
+~
+208 41 1
+D1
+~
+~
+0 -1 20887
+D2
+~
+~
+0 -1 20889
+Z3
+C-1
+R0
+S
+#20889
+Hallway~
+     It is still dark, cold, and wet.  There is very little light here,
+but it is getting brighter as you progress forward.  It is quite clear
+now that someone is humming a tune, but it is not a familiar one.  
+
+~
+208 41 1
+D0
+~
+~
+0 -1 20888
+D1
+~
+~
+0 -1 10916
+D3
+~
+~
+0 -1 20890
+Z3
+C-1
+R0
+S
+#20890
+Infront of a door~
+     You are standing infront of a security cell door.  There is a guard 
+infront of it.  He is big like an Ox.  Probably dumb like one too.  Beyond
+the guard is a large room, with a desk in the center and one maybe two guards
+There must be something either really important down here, or really
+deadly.
+~
+208 40 1
+D1
+~
+~
+0 -1 20889
+D2
+~
+steel~
+2 10903 20891
+Z3
+C-1
+R0
+S
+#20891
+Guard room~
+     Shouldn't have come in here.  THese guards have one sole purpose,
+and that is to let no one by here without permission from the wardon.
+Sorry you have to feel this pain......BanZai!!!!!! screams the guards!!
+
+~
+208 40 1
+D0
+~
+steel~
+1 -1 20890
+D3
+~
+~
+0 -1 20892
+Z3
+C-1
+R0
+S
+#20892
+Infront of a cell~
+     Infront of you is a cell.  There is an inmate in it chanting some
+thing.  He has a crazed look in his eye.  The Evil down here flows within
+us all.  
+
+~
+208 40 1
+D1
+~
+~
+0 -1 20891
+D2
+~
+cell~
+2 10903 20893
+D3
+~
+~
+0 -1 20894
+Z3
+C-1
+R0
+S
+#20893
+Dirty cell~
+     This is a very dirty cell, much like the rest of them.  There is 
+toilet on the wall infront of you, and next to that is a sink.  There
+is a bed on the wall next to you.  This place is not for you.
+
+~
+208 0 1
+D0
+~
+cell~
+1 -1 20892
+Z3
+C-1
+R0
+S
+#20894
+Infront of a cell~
+     As you move down the hallway, you come to another cell, with another
+crazy inmate, this one is sleeping.  Maybe you should leave it like that.
+
+~
+208 40 1
+D1
+~
+~
+0 -1 20892
+D2
+~
+cell~
+2 10903 20895
+D3
+~
+~
+0 -1 20896
+Z3
+C-1
+R0
+S
+#20895
+Dirty cell~
+     This is a very dirty cell, much like the rest of them.  There is 
+toilet on the wall infront of you, and next to that is a sink.  There
+is a bed on the wall next to you.  This place is not for you.
+
+~
+208 40 1
+D0
+~
+cell~
+1 -1 20894
+Z3
+C-1
+R0
+S
+#20896
+Infront of a cell~
+     Infront of another cell, with another inmate.  This one is
+jumping up and down like a monkey, and yelling at the top of his lungs.
+This idiot is really annoying.  
+~
+208 40 1
+D1
+~
+~
+0 -1 20894
+D2
+~
+cell~
+2 10903 20897
+D3
+~
+~
+0 -1 20898
+Z3
+C-1
+R0
+S
+#20897
+Dirty cell~
+     This is a very dirty cell, much like the rest of them.  There is 
+toilet on the wall infront of you, and next to that is a sink.  There
+is a bed on the wall next to you.  This place is not for you.
+
+~
+208 40 1
+D0
+~
+cell~
+1 -1 20896
+Z3
+C-1
+R0
+S
+#20898
+End of the hallway~
+     This is the end of the line.  About now you are very tired, and
+in need of a long break.  Sit a spell.  YOu now realize that the singing
+is coming from the man in this last cell.  You also realize why this
+place is so unwelcoming and heavily guarded.  Before you stands the
+great Dr. Hannibal Lector.  God have mercy on your soul!
+~
+208 0 1
+D1
+~
+~
+0 -1 20896
+D2
+~
+cell~
+2 10903 20899
+Z3
+C-1
+R0
+S
+#20899
+Hannibal Lector's cell~
+     This is the cleanest of all the cells you have been to.  There is
+a well kept bed against the wall, and the sink and toilet seem to be
+rather clean.  There is a plate of raw meat on the floor infront of the 
+cell door.
+
+~
+208 40 1
+D0
+~
+cell~
+1 -1 20898
+Z3
+C-1
+R0
+S
+$~

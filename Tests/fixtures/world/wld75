@@ -1,0 +1,1547 @@
+#7500
+{CYAN}Entrance to the city{b}~
+   A large beautiful gate has been carved into the mountian to protect
+the city within. Beyond the gate you can hear the normal hustle and bustle
+of city life. Above the gate there is a sign which states Go AWAY!, 
+you wonder what dinok means in the Dwarven language. The road continues south 
+towards the wilderness and north into the city.
+~
+75 0 1
+D0
+A large metal gate keeps unwanted people out.
+~
+gate~
+1 7502 7501
+Z0
+C-1
+S
+#7501
+{C}Just Inside the City{b}~
+   A large gate stands to the south and the road continues into the
+mountain cavern. As you look towards the city you realize how much
+of a engineering marvel it is, a city in a mountian. Dwarven Guards
+wonder back and forth in front of the gate questioning suspicious
+people entering the city.
+~
+75 0 1
+D0
+~
+~
+0 -1 7502
+D2
+~
+gate~
+1 -1 7500
+Z0
+C-1
+S
+#7502
+{Y}The Southern End of Gold Street{b}~
+   The sounds and smells of the city surrounds you, from the shouts of street
+vendors to the smells of food being cooked. Citizens and Travelers alike
+roam the street in search of good deals and good food. Gold street continues
+towards the north while Dirt Avenue runs east and west.
+~
+75 0 1
+D0
+~
+door~
+6 -1 7503
+D1
+~
+~
+0 -1 7537
+D2
+~
+~
+0 -1 7501
+D3
+~
+~
+0 -1 7538
+E
+east~
+There seems to be a button here.
+~
+Z0
+C-1
+S
+#7503
+{Y}Gold Street{b}~
+   There is a sign on the building to the west, it says 'The Mining Dwarf',
+must be some kind of bar. You see many dwarfs going in and out of the bar
+to the west, it must be a popular place. Gold Street conitinues to the north
+and to the south.
+~
+75 0 1
+D0
+~
+~
+0 -1 7504
+D2
+~
+door~
+1 -1 7502
+D3
+~
+~
+0 -1 7549
+Z0
+C-1
+S
+#7504
+{Y}Gold Street{b}~
+   A large statue of Thor stands here with his mighty hammer. As some dwarfs
+walk by the statue, they touch it for good luck. Maybe you should touch the
+statue and see if it really works? As Gold Street continues towards the north
+you can see a large fountian, Gold Street also leads south.
+~
+75 0 1
+D0
+~
+~
+0 -1 7505
+D2
+~
+~
+0 -1 7503
+Z0
+C-1
+S
+#7505
+{C}Town Square{b}~
+   Your surrounded by hundreds of people running to and fro, many of them getting
+water for their daily chores from the large fountian in the middle of the road.
+The fountian is beatiful, it has a figure of a adventurer in full armor swinging
+his sword around in an arc. Stone Avenue runs east and west, while Gold Street 
+continues south and north.
+~
+75 0 1
+D0
+~
+~
+0 -1 7506
+D1
+~
+~
+0 -1 7541
+D2
+~
+~
+0 -1 7504
+D3
+~
+~
+0 -1 7542
+Z0
+C-1
+S
+#7506
+{Y}Gold Street{b}~
+   Your mouth waters from the smells of freshly baked bread to the west. A sign hangs on
+the door that says 'Bakers Delight', and a delight I bet it is. To the south you can
+see a large fountain and the street also continues to the north.
+~
+75 0 1
+D0
+~
+~
+0 -1 7507
+D2
+~
+~
+0 -1 7505
+D3
+~
+~
+0 -1 7557
+Z0
+C-1
+S
+#7507
+{Y}Gold Street{c}~
+   A large guarded building is to the west, it looks like it could of been a fort at 
+one time. The sign above the gate says 'Second Diku Bank', I don't think that place is
+going to get robed anytime soon. The street continues towards the north and south.
+~
+75 0 1
+D0
+~
+~
+0 -1 7508
+D2
+~
+~
+0 -1 7506
+D3
+~
+~
+0 -1 7556
+Z0
+C-1
+S
+#7508
+{Y}Northern End of Gold Street{b}~
+   Along the mountain wall shops and carts crowd the street. A person walks up to 
+you and asks if you want a real gold watch for cheap. Gold Street continues to the
+south while Sand Avenue leads east and west. To the north you see a boarded up 
+mineshaft with a sign on one of the boards.
+~
+75 0 1
+D1
+~
+~
+0 -1 7545
+D2
+~
+~
+0 -1 7507
+D3
+~
+~
+0 -1 7546
+Z0
+C-1
+S
+#7509
+{C}The Southern End of Silver Street{b}~
+   The sounds a smells of the city surround you, from the shouts of street
+vendors to the smells of food being cooked. Citizens and Travelers alike
+roam the street in search of good deals and good food. Silver street continues
+towards the north while Dirt Avenue runs east and west.
+~
+75 0 1
+D0
+~
+~
+0 -1 7510
+D1
+~
+~
+0 -1 7539
+D3
+~
+~
+0 -1 7537
+Z0
+C-1
+S
+#7510
+{C}Silver Street{b}~
+   Silver Street leads to the north and south. People surround you as you traverse the 
+street. A large building with a cross above the door is to the east, must be a Church of
+some sort. A large stone building is to the west with a sign above the door. It looks to
+be some sort of police station.
+~
+75 0 1
+D0
+~
+~
+0 -1 7511
+D1
+~
+~
+0 -1 7565
+D2
+~
+~
+0 -1 7509
+D3
+~
+~
+0 -1 7561
+Z0
+C-1
+S
+#7511
+{C}Silver Street{b}~
+   Silver Street leads to the north and south. People surround you as you traverse the street. 
+As you shove and push through the street you notice a small shop to the west, a sign hangs above
+the door that states "Gorn's Trinket Shop", you wonder what sort of trinkets are for sale?
+~
+75 0 1
+D0
+~
+~
+0 -1 7512
+D2
+~
+~
+0 -1 7510
+D3
+~
+~
+0 -1 7560
+Z0
+C-1
+S
+#7512
+{C}Silver Street{c}~
+   You stand at the intersection of Silver Street and Stone Avenue. To the west in the distance 
+you can see a large fountain. There are many people traveling the streets going to their places 
+of work or to their homes. Where are you going?
+~
+75 0 1
+D0
+~
+~
+0 -1 7513
+D1
+~
+~
+0 -1 7543
+D2
+~
+~
+0 -1 7511
+D3
+~
+~
+0 -1 7541
+Z0
+C-1
+S
+#7513
+{C}Silver Street{c}~
+   Silver Street leads to the north and south. Many People surround you as you traverse the
+street. You wonder where are all these people going? What do the do? Many of them look to be 
+miners in the caves, while others look to be nobles. A small leather shop is to the east, maybe 
+you should browse their wares.
+~
+75 0 1
+D0
+~
+~
+0 -1 7514
+D1
+~
+~
+0 -1 7559
+D2
+~
+~
+0 -1 7512
+Z0
+C-1
+S
+#7514
+{C}Silver Street{c}~
+   Silver Street stretches to the north and south. As you shove your way through this crowded
+street you notice a large building to the west. You can hear the sounds of a hammer hitting a
+anvil. You guess it is a forge of some sort based on the sounds you are hearing and the sign 
+on the building that says, "The Flaming Forge".
+~
+75 0 1
+D0
+~
+~
+0 -1 7515
+D2
+~
+~
+0 -1 7513
+D3
+~
+~
+0 -1 7555
+Z0
+C-1
+S
+#7515
+{C}The Northern End of Silver Street{c}~
+   Along the mountain wall shops and carts crowd the street. A person walks up to 
+you and asks if you want a real gold watch for cheap. Silver Street continues to the
+south while Sand Avenue leads east and west. 
+~
+75 0 1
+D1
+~
+~
+0 -1 7547
+D2
+~
+~
+0 -1 7514
+D3
+~
+~
+0 -1 7545
+Z0
+C-1
+S
+#7516
+{G}The Southern End of Copper Street{c}~
+   The sounds a smells of the city surround you, from the shouts of street
+vendors to the smells of food being cooked. Citizens and Travelers alike
+roam the street in search of good deals and good food. Copper street continues
+towards the north while Dirt Avenue runs east and west.
+~
+75 0 1
+D0
+~
+~
+0 -1 7517
+D1
+~
+~
+0 -1 7538
+D3
+~
+~
+0 -1 7540
+Z0
+C-1
+S
+#7517
+{G}Copper Street{c}~
+   Copper street continues to the south and north. A interesting shop is to the east. 
+It seems to be called "The Disappearing Dwarf". Maybe you should pay it a visit? A large
+funny looking tower is to the west. I wouldn't want to visit it unless you had buisness
+there The street is called copper street because of the green color of it. It looks like 
+unpolished copper.
+~
+75 0 1
+D0
+~
+~
+0 -1 7518
+D1
+~
+~
+0 -1 7551
+D2
+~
+~
+0 -1 7516
+D3
+~
+~
+0 -1 7567
+Z0
+C-1
+S
+#7518
+{G}Copper Street{c}~
+
+   Copper street continues to the south and north. Fragrant smells from the west fill your 
+nose. A large apothecary is to the west, it looks quite run down. They call this street 
+copper street because of the green color of it. It looks like unpolished copper.
+~
+75 0 1
+D0
+~
+~
+0 -1 7519
+D2
+~
+~
+0 -1 7517
+D3
+~
+~
+0 -1 7558
+Z0
+C-1
+S
+#7519
+{G}Copper Street{c}~
+   Copper street continues to the south and north. Stone Street intersects here, running
+east to west. They call this street copper street because of the green color of it. It 
+looks like unpolished copper. 
+~
+75 0 1
+D0
+~
+~
+0 -1 7520
+D1
+~
+~
+0 -1 7542
+D2
+~
+~
+0 -1 7518
+D3
+~
+~
+0 -1 7544
+Z0
+C-1
+S
+#7520
+{G}Copper Street{c}~
+   Copper street continues to the south and north. A creaky sign attracts your attention
+to the west. It looks to be a sign to a scroll shop of some sort. They call this street 
+copper street because of the green color of it. It looks like unpolished copper. This 
+street is not as crowded as the other ones or as big. 
+~
+75 0 1
+D0
+~
+~
+0 -1 7521
+D2
+~
+~
+0 -1 7519
+D3
+~
+~
+0 -1 7562
+Z0
+C-1
+S
+#7521
+{G}Copper Street{g}~
+   Copper street continues to the south and north. A small magic shop lies to the east.
+It looks to be one of the oldest shops around here. They call this street copper street
+because of the green color of it. It looks like unpolished copper. This street is not 
+as crowded as the other ones or as big. 
+~
+75 0 1
+D0
+~
+~
+0 -1 7522
+D1
+~
+~
+0 -1 7563
+D2
+~
+~
+0 -1 7520
+Z0
+C-1
+S
+#7522
+{G}The Northern End of Copper Street{g}~
+
+   Copper street continues to the south while Sand Avenue heads off to the east and west.
+They call this street copper street because of the green color of it. It looks like
+unpolished copper. This street is not as crowded as the other ones or as big. 
+~
+75 0 1
+D1
+~
+~
+0 -1 7546
+D2
+~
+~
+0 -1 7521
+D3
+~
+~
+0 -1 7548
+Z0
+C-1
+S
+#7523
+{MAG}Iron Street{b}~
+   This must be the run down part of the city. Vacant lots and buildings surround 
+you and rugged cut-throat looking people roam the streets. If I were you, I would
+watch my back just incase someone felt the need to place a knife in it. The street
+continues north and south.
+~
+75 0 1
+D0
+~
+~
+0 -1 7525
+D2
+~
+~
+0 -1 7524
+Z0
+C-1
+S
+#7524
+{MAG}The Southern End of Iron Street{b}~
+   The sounds a smells of the city surround you, from the shouts of street
+vendors to the smells of food being cooked. Citizens and Travelers alike
+roam the street in search of good deals and good food. Iron street continues
+towards the north while Dirt Avenue runs west. A small building is to the east.
+~
+75 0 1
+D0
+~
+~
+0 -1 7523
+D1
+~
+~
+0 -1 7568
+D3
+~
+~
+0 -1 7539
+Z0
+C-1
+S
+#7525
+{M}Iron Street{g}~
+   This must be the run down part of the city. Vacant lots and buildings surround 
+you and rugged cut-throat looking people roam the streets. If I were you, I would
+watch my back just incase someone felt the need to place a knife in it. The street
+continues north and south.
+~
+75 0 1
+D0
+~
+~
+0 -1 7526
+D2
+~
+~
+0 -1 7523
+Z0
+C-1
+S
+#7526
+{M}Iron Street{g}~
+   This must be the run down part of the city. Vacant lots and buildings surround 
+you and rugged cut-throat looking people roam the streets. If I were you, I would
+watch my back just incase someone felt the need to place a knife in it. The street
+continues north and south. Towards the west lays Stone Avenue.
+~
+75 0 1
+D0
+~
+~
+0 -1 7527
+D2
+~
+~
+0 -1 7525
+D3
+~
+~
+0 -1 7543
+Z0
+C-1
+S
+#7527
+{M}Iron Street{g}~
+   This must be the run down part of the city. Vacant lots and buildings surround 
+you and rugged cut-throat looking people roam the streets. If I were you, I would
+watch my back just incase someone felt the need to place a knife in it. The street
+continues north and south.
+~
+75 0 1
+D0
+~
+~
+0 -1 7528
+D2
+~
+~
+0 -1 7526
+Z0
+C-1
+S
+#7528
+{M}Iron Street{g}~
+   This must be the run down part of the city. Vacant lots and buildings surround 
+you and rugged cut-throat looking people roam the streets. If I were you, I would
+watch my back just incase someone felt the need to place a knife in it. The street
+continues north and south.
+~
+75 0 1
+D0
+~
+~
+0 -1 7529
+D2
+~
+~
+0 -1 7527
+Z0
+C-1
+S
+#7529
+{M}The Northern End of Iron Street{g}~
+      This must be where the bums and tramps hang out, because there are sure a lot 
+of them standing around here. One walks up to you and asks for some change, he has an
+evil look in his eyes, I wouldn't give it to him. Sand Avenue is to the west and Iron 
+Street leads to the south.
+~
+75 0 1
+D2
+~
+~
+0 -1 7528
+D3
+~
+~
+0 -1 7547
+Z0
+C-1
+S
+#7530
+{BOLD,BLACK}The Southern End of Adamantine Street{c}~
+   The sounds a smells of the city surround you, from the shouts of street
+vendors to the smells of food being cooked. Citizens and Travelers alike
+roam the street in search of good deals and good food. Copper street continues
+towards the north while Dirt Avenue runs east. A large building stands to the west.
+A picture of a Pick Axe is hanging above the door.
+~
+75 0 1
+D0
+~
+~
+0 -1 7531
+D1
+~
+~
+0 -1 7540
+D3
+~
+~
+0 -1 7554
+Z0
+C-1
+S
+#7531
+{BOLD,BLACK}Adamantine Street{g}~
+   This street is spotless, the cleaners must pay extra special attention to this street because
+most of the rich people in town live here. Admantine street runs to the north and ends to the 
+south. A large pet shop is to the east, it doesn't look like your normal pet shop. 
+~
+75 0 1
+D0
+~
+~
+0 -1 7532
+D1
+~
+~
+0 -1 7553
+D2
+~
+~
+0 -1 7530
+Z0
+C-1
+S
+#7532
+{BOLD,BLACK}Adamantine Street{g}~
+
+   This street is spotless, the cleaners must pay extra special attention to this street because
+most of the rich people in town live here. Admantine street runs to the north and ends to the 
+south. The Warriors Guild stands erect to the west, the place looks like a freaking fortress.
+~
+75 0 1
+D0
+~
+~
+0 -1 7533
+D2
+~
+~
+0 -1 7531
+D3
+~
+~
+0 -1 7564
+Z0
+C-1
+S
+#7533
+{BOLD,BLACK}Adamantine Street{g}~
+   This street is spotless, the cleaners must pay extra special attention to this street because
+most of the rich people in town live here. Admantine street runs to the north and ends to the 
+south. Stone street leads off to the east from here.
+~
+75 0 1
+D0
+~
+~
+0 -1 7534
+D1
+~
+~
+0 -1 7544
+D2
+~
+~
+0 -1 7532
+Z0
+C-1
+S
+#7534
+{BOLD,BLACK}Adamantine Street{g}~
+   This street is spotless, the cleaners must pay extra special attention to this street
+because most of the rich people in town live here. Admantine street continues towards the
+north and south. A large armour shop is to the east. There is a sign on the door that says
+"If you don't have money, Don't come in!"
+~
+75 0 1
+D0
+~
+~
+0 -1 7535
+D1
+~
+~
+0 -1 7552
+D2
+~
+~
+0 -1 7533
+Z0
+C-1
+S
+#7535
+{BOLD,BLACK}Adamantine Street{g}~
+   This street is spotless, the cleaners must pay extra special attention to this street
+because most of the rich people in town live here. Admantine street continues towards the
+north and south. A large mining supply store is to the west, if you are going to venture 
+far into the mines I would pay a visit to the supply store.
+~
+75 0 1
+D0
+~
+~
+0 -1 7536
+D2
+~
+~
+0 -1 7534
+D3
+~
+~
+0 -1 7550
+Z0
+C-1
+S
+#7536
+{BOLD,BLACK}The Northern End of Adamantine Street{g}~
+   This is the northern end of Adamintine Street. Only the rich townsfolk live in this part
+of the town. Adamintine Street leads to the south and Sand Avenue to the east. The Cleric's
+guild stands to the north, it seems to be glowing with a holy white light.
+~
+75 0 1
+D0
+~
+~
+0 -1 7566
+D1
+~
+~
+0 -1 7548
+D2
+~
+~
+0 -1 7535
+Z0
+C-1
+S
+#7537
+{BOLD,BLACK}Dirt Avenue{b}~
+   People shove you out of the way as you try to push your way through the streets
+in hopes of finding your destination. You feel someone tug at your money pouch, you
+turn around to see who it is and you see a small kid running away with your gold pouch
+in hand.
+~
+75 0 1
+D1
+~
+~
+0 -1 7509
+D3
+~
+~
+0 -1 7502
+Z0
+C-1
+S
+#7538
+{BOLD,BLACK}Dirt Avenue{b}~
+   People shove you out of the way as you try to push your way through the streets
+in hopes of finding your destination. You feel someone tug at your money pouch, you
+turn around to see who it is and you see a small kid running away with your gold pouch
+in hand.
+~
+75 0 1
+D1
+~
+~
+0 -1 7502
+D3
+~
+~
+0 -1 7516
+Z0
+C-1
+S
+#7539
+{BOLD,BLACK}Dirt Avenue{b}~
+   People shove you out of the way as you try to push your way through the streets
+in hopes of finding your destination. You feel someone tug at your money pouch, you
+turn around to see who it is and you see a small kid running away with your gold pouch
+in hand.
+~
+75 0 1
+D1
+~
+~
+0 -1 7524
+D3
+~
+~
+0 -1 7509
+Z0
+C-1
+S
+#7540
+{BOLD,BLACK}Dirt Avenue{b}~
+   People shove you out of the way as you try to push your way through the streets
+in hopes of finding your destination. You feel someone tug at your money pouch, you
+turn around to see who it is and you see a small kid running away with your gold pouch
+in hand.
+~
+75 0 1
+D1
+~
+~
+0 -1 7516
+D3
+~
+~
+0 -1 7530
+Z0
+C-1
+S
+#7541
+{C}Stone Avenue{b}~
+   This road is lined with stones of every shape, size and color imaginable. People
+wonder to and fro on the streets getting in your way. The only thing that distracts
+from the beauty of the stone street is the raw sewage in the street. It smells funny.
+Town Square is to the west while Silver Street is to the east.
+~
+75 0 1
+D1
+~
+~
+0 -1 7512
+D3
+~
+~
+0 -1 7505
+Z0
+C-1
+S
+#7542
+{C}Stone Avenue{b}~
+   This road is lined with stones of every shape, size and color imaginable. People
+wonder to and fro on the streets getting in your way. The only thing that distracts
+from the beauty of the stone street is the raw sewage in the street. It smells funny.
+Copper Street is to the west while Town Square is to the east.
+~
+75 0 1
+D1
+~
+~
+0 -1 7505
+D3
+~
+~
+0 -1 7519
+Z0
+C-1
+S
+#7543
+{C}Stone Avenue{b}~
+   This road is lined with stones of every shape, size and color imaginable. People
+wonder to and fro on the streets getting in your way. The only thing that distracts
+from the beauty of the stone street is the raw sewage in the street. It smells funny.
+Silver Street is to the west while Iron is to the east.
+~
+75 0 1
+D1
+~
+~
+0 -1 7526
+D3
+~
+~
+0 -1 7512
+Z0
+C-1
+S
+#7544
+{C}Stone Avenue{b}~
+
+   This road is lined with stones of every shape, size and color imaginable. People
+wonder to and fro on the streets getting in your way. The only thing that distracts
+from the beauty of the stone street is the raw sewage in the street. It smells funny.
+Adamantine Street is to the west while Copper Street is to the east.
+~
+75 0 1
+D1
+~
+~
+0 -1 7519
+D3
+~
+~
+0 -1 7533
+Z0
+C-1
+S
+#7545
+{Y}Sand Avenue{b}~
+   This street is called sand street, not because it is made of sand but because it is
+covered with dust from the mines. You nearly choke from the dust kicked up from your 
+feet.  To the east is Silver Street and to the west is Gold Street.
+~
+75 0 1
+D1
+~
+~
+0 -1 7515
+D3
+~
+~
+0 -1 7508
+Z0
+C-1
+S
+#7546
+{Y}Sand Avenue{b}~
+   This street is called sand street, not because it is made of sand but because it is
+covered with dust from the mines. You nearly choke from the dust kicked up from your 
+feet.  To the east is Gold Street and to the west is Copper Street.
+~
+75 0 1
+D1
+~
+~
+0 -1 7508
+D3
+~
+~
+0 -1 7522
+Z0
+C-1
+S
+#7547
+{Y}Sand Avenue{b}~
+   This street is called sand street, not because it is made of sand but because it is
+covered with dust from the mines. You nearly choke from the dust kicked up from your 
+feet.  To the east is Iron Street and to the west is Silver Street.
+~
+75 0 1
+D1
+~
+~
+0 -1 7529
+D3
+~
+~
+0 -1 7515
+Z0
+C-1
+S
+#7548
+{Y}Sand Avenue{b}~
+   This street is called sand street, not because it is made of sand but because it is
+covered with dust from the mines. You nearly choke from the dust kicked up from your 
+feet.  To the east is Copper Street and to the west is Adamantine Street.
+~
+75 0 1
+D1
+~
+~
+0 -1 7522
+D3
+~
+~
+0 -1 7536
+Z0
+C-1
+S
+#7549
+{BOLD,BLACK}The Mining Dwarf{b}~
+    You squeeze your way through the crowded bar. There are at least a hundred
+people here. All drinking, shouting, and smoking, you wonder how this place 
+stays in one piece. As you walk up to the bar a burley looking fellow asks you 
+what you would like to drink.
+~
+75 0 1
+D1
+~
+~
+0 -1 7503
+Z0
+C-1
+S
+#7550
+{BOLD,BLACK}Mining Supply Store{b}~
+   From Pick-Axes to dynomite this place has everything you need to mine! This place is crowded,
+I guess mining is a popular profession around here. Oh, You ARE in a mountain. A grumpy dwarf
+walks up to you and asks, "What the HELL do you want?". So much for friendly service. There is
+an exit to the east towards Admantine Street.
+~
+75 0 1
+D1
+~
+~
+0 -1 7535
+Z0
+C-1
+S
+#7551
+{BOLD,BLACK}The Disappearing Dwarf Magic Shop{c}~
+   Wow! What a neat shop! This place has everything, from dragons scales to newt eyeballs. 
+The only downside to the shop is it smells like something died in here. The only way out 
+is to the west, from whence you came. 
+~
+75 0 1
+D3
+~
+~
+0 -1 7517
+Z0
+C-1
+S
+#7552
+{BOLD,BLACK}Armour R' Us{b}~
+   There are all sorts of armor here, from dragon scale to silver woven. As you look around
+you notice the shopkeeper eyeing you suspiciously, the thought of stealing something evades
+your mind. This armor looks to be of great quility, maybe you should buy something? There is 
+a door leading west to Adamantine Street.
+~
+75 0 1
+D3
+~
+~
+0 -1 7534
+Z0
+C-1
+S
+#7553
+{BOLD,BLACK}Mystical Pets{b}~
+   This place is not your ordinary pet shop. You don't remember any pet shops selling baby 
+dragons or gargoyles where you lived at. You wonder if they are tame enough to pet, I wouldn't 
+find out if I were you. A strange looking animal eyes you from its cage, as you step closer to 
+it the shopkeeper says "I wouldn't get to much closer if I were you. I once saw it rip a giants 
+head off.".
+~
+75 0 1
+D3
+~
+~
+0 -1 7531
+Z0
+C-1
+S
+#7554
+{BOLD,BLACK}The Pick Axe Inn{b}~
+   This place is a lot nicer the establishment on the other side of the city. Its 
+floors are squeaky clean and you can nearly see your face in them. A chandler hangs 
+from the ceiling and a long red carpet is rolled along the floor. A nice man behind the 
+front desk asks you if you need anything.  
+~
+75 0 1
+D1
+~
+~
+0 -1 7530
+Z0
+C-1
+S
+#7555
+The Flaming Forge~
+     This place is one of the nicer forges you have seen in awhile. There is a large
+anvil and forge in the corner of the room. A full suit of armor sits by the doorway
+greeting you. While large axes, swords, and other weapons line the walls. Perhaps you 
+should get your armor checked while you are here? The only exit is to the east into
+Silver Street.
+~
+75 262144 1
+D1
+~
+~
+0 -1 7514
+Z0
+C-1
+S
+#7556
+{BOLD,BLACK}The Second Diku Bank{b}~
+
+   Wow! This place looks like it has enough armed guards to defend the city from invaders. 
+A guard eyes you suspiciously while you stand in line to do your banking needs. I bet he 
+would decapitate you if you even sneezed. I wouldn't want to find out. Once you finally get 
+up to the window, a snobby looking female asks, "What can *I* do for *YOU*?".
+~
+75 0 1
+D1
+~
+~
+0 -1 7507
+Z0
+C-1
+S
+#7557
+{BOLD,BLACK}Bakers Delight{b}~
+   Smells of fresh baked pastries make your mouth water and your stomach growl with hunger. 
+A large fat Chef stands behind the counter cooking up a storm, he casually asks what you 
+would like, without even taking his eyes off the food he is preparing.
+~
+75 0 1
+D1
+~
+~
+0 -1 7506
+Z0
+C-1
+S
+#7558
+{BOLD,BLACK}The Apothecary{b}~
+   Fragrant smells of different herbs fill the air in this shop. In the corner a black pot
+boils over with a liquid substance. As it hits the ground it disappears in a poof of smoke.
+You wonder what it does? Is it good or is it bad? Maybe you should go take a sip and find 
+out!
+~
+75 0 1
+D1
+~
+~
+0 -1 7518
+Z0
+C-1
+S
+#7559
+{BOLD,BLACK}The Leather Shop{b}~
+   Boy Oh Boy! It smells something fierce in here. The stench must be from the drying hides
+hanging on the back wall, I'd hate to work here all day. Besides the smell, this place has some
+beautiful leather armor and wares.  Maybe you should buy something?
+~
+75 0 1
+D3
+~
+~
+0 -1 7513
+Z0
+C-1
+S
+#7560
+{BOLD,BLACK}Gorn's Trinket Shop{b}~
+   What a neat place! There must be  hundreds of trinkets lining the walls here. Some of this
+stuff is useless crap while other are quite useful. The hard part is finding something useful in
+this mess. A fat short dwarf sits behind the counter, you assume it is Gorn (Hence the name 
+Gorn's Trinket Shop). The only exit is to the east where you came from.
+~
+75 0 1
+D1
+~
+~
+0 -1 7511
+Z0
+C-1
+S
+#7561
+{BOLD,BLACK}The Dwarven Guard Headquarters{b}~
+   This place looks well guarded, you make this inference based on the fact that there
+are at least ten guards walking around here in full armor. As you walk in here one of the
+guards stop you and asks you what do you want and where is your id. Some Stairs led downward
+while a door is to the east.
+~
+75 0 1
+D1
+~
+~
+0 -1 7510
+Z0
+C-1
+S
+#7562
+{BOLD,BLACK}The Magical Scribe Shop{b}~
+   Papers of all sorts of shapes and sizes fill the shelves in this shop. I warning sign 
+clearly states not to read any of the scrolls without proper training or to suffer the 
+consequences of reading it wrong.  Maybe you should not touch anything. The shopkeeper 
+looks like a mean one too.
+~
+75 0 1
+D1
+~
+~
+0 -1 7520
+Z0
+C-1
+S
+#7563
+{BOLD,BLACK}Staves and Wands Galore{b}~
+   This small shop is filled to the brim with wooden sticks? Yes, wooden sticks, who in their
+right mind would buy a wooden stick? Hell, who in their wrong mind would buy one? Maybe you
+should buy a few? 
+~
+75 262144 1
+D3
+~
+~
+0 -1 7521
+Z0
+C-1
+S
+#7564
+{RED}Entrance to the Warriors Guild{b}~
+   From the stone floor to the picture of the impaled Giant on the wall, you can tell the people
+who run this guild do not have very good taste in dcor. Two burley guys stand in the corner of
+this room. They seem to be the guards of the guild. Just be quiet and hope they don't notice you.
+There's some stairs to the north and the exit is to the west.
+~
+75 0 1
+D0
+~
+~
+0 -1 7569
+D1
+~
+~
+0 -1 7532
+Z0
+C-1
+S
+#7565
+{RED}Entrance to the Monks Guild{b}~
+   As you enter a scarcely clothed bald guy bows before you and says, "Welcome". This room is
+quite boring, there are no furniture or any other items as matter of fact, except a large 
+stone idle and a pillow to sit on. What a bunch of freaks! Where is the Radio or the TV? Blah!
+~
+75 0 1
+D0
+~
+~
+0 -1 7570
+D3
+~
+~
+0 -1 7510
+Z0
+C-1
+S
+#7566
+{RED}Entrance to the Clerics Guild{b}~
+
+   What a grand place this is, from the golden statues to the elebrate woven carpets. I wonder
+where these healers get their money? Don't they take a vow of poverty or something? They must
+get a lot of donations around here. A small doorway is to the north. The exit to the street is
+southward.
+~
+75 0 1
+D0
+~
+~
+0 -1 7571
+D2
+~
+~
+0 -1 7536
+Z0
+C-1
+S
+#7567
+{RED}Entrance to the Mage Tower{b}~
+   A large red carpet leads the way towards the north into the darkness of the tower. A sign
+is posted on the wall stating that those who do not have bussiness with the Mage Guild will be
+punished and/or killed. Maybe you shouldn't continue?
+~
+75 0 1
+D0
+~
+~
+0 -1 7572
+D1
+~
+~
+0 -1 7517
+Z0
+C-1
+S
+#7568
+{RED}Entrance to the Thieves Guild{b}~
+   This place is dark. You can barely see two feet in front of you. But from what you
+can see, this place is filled with shady characters. You can hear hushed whispers in 
+the corner. I would keep an eye on your gold pouch if I were you. An outline of a door 
+can be seen behind the bar.
+~
+75 0 1
+D0
+~
+~
+0 -1 7573
+D3
+~
+~
+0 -1 7524
+Z0
+C-1
+S
+#7569
+{RED}The Warriors' Guild Hall{b}~
+   This is the guild hall of the elite warrior profession. There're are all sort of people
+working on their warrior skills here. A large burly man seems to be the guild master, maybe 
+you should talk to him about training?
+~
+75 0 1
+D2
+~
+~
+0 -1 7564
+Z0
+C-1
+S
+#7570
+{R}The Monks' Guild Hall{b}~
+ This has to be the most boring guild hall you have ever seen. The most excitement these guys
+probably see in a day is when a fly lands on their nose while praying. A old dwarf is walking 
+around over seeing the prayer.
+~
+75 262144 1
+D2
+~
+~
+0 -1 7565
+Z0
+C-1
+S
+#7571
+{R}The Clerics' Guild Hall{b}~
+
+   The Clerics that live in this town seem to worship the god Majere, as everyone should. 
+They have pictures of the mighty god hanging all over the walls, and what looks like an 
+altar in the corner of the room. The elder guildmaster eyes you as you walk around the room.
+~
+75 0 1
+D2
+~
+~
+0 -1 7566
+Z0
+C-1
+S
+#7572
+{R}The Mages' Guild Hall{b}~
+   This place is queer. You have an unsettling feeling standing in this room. Could it 
+be the altar to satan in the corner of the room? Or is it the man hanging upsidedown by 
+his intestents? The guildmaster doesn't seem to notice you.
+~
+75 0 1
+D2
+~
+~
+0 -1 7567
+Z0
+C-1
+S
+#7573
+{R}The Thieves' Guild Hall{b}~
+  This place is dark and shadowy. The people in this room seem to fade in and out of the
+shadows as they move. In the corner there is a chest full of gold, more then likely stolen.
+You notice a shadowy figure eyeing you from the shadows, he probably is the guildmaster.
+~
+75 0 1
+D2
+~
+~
+0 -1 7568
+Z0
+C-1
+S
+#7595
+{BOLD,RED}Midgaard Mob Raid Load Room{b}~
+---------------------------------------
+Random Links to town for raid Quests
+----------------------------------------
+~
+75 262144 1
+Z0
+C-1
+S
+#7596
+{BOLD,RED}Midgaard Mob Raid Load Room{b}~
+---------------------------------------
+Random Links to town for raid Quests
+----------------------------------------
+~
+75 262144 1
+D0
+~
+~
+0 -1 3040
+D1
+~
+~
+0 -1 3013
+D2
+~
+~
+0 -1 3015
+D3
+~
+~
+0 -1 3012
+D4
+~
+~
+0 -1 3016
+D5
+~
+~
+0 -1 3005
+Z0
+C-1
+S
+#7597
+This body is only a shell~
+You are standing in nowhere !!!!
+~
+75 262146 1
+D3
+~
+~
+0 -1 7599
+Z0
+C-1
+S
+#7598
+Market Square~
+{BOLD,BLACK}ASdasdasdADasda{b}
+{BLACK}ADasdasd{b}
+ASdasdasdas
+~
+75 262144 1
+Z0
+C-1
+S
+#7599
+{BOLD,BLACK}Raistlin Majere's Laboratory{b}~
+{BOLD,WHITE}
+If I could stick my pen in my heart 
+And spill it all over the stage 
+Would it satisfy ya, would it slide on by ya 
+Would you think the boy is strange? Ain't he strange? 
+
+If I could win ya, if I could sing ya 
+A love song so divine 
+Would it be enough for your cheating heart 
+If I broke down and cried? If I cried?
+
+I said I know it's only rock 'n roll but I like it 
+I know it's only rock 'n roll but I like it, like it, yes, I do 
+Oh, well, I like it, I like it, I like it 
+I said can't you see that this old boy has been a lonely? 
+~
+75 262144 1
+D1
+~
+~
+0 -1 7597
+Z-1
+C-1
+S
+$~

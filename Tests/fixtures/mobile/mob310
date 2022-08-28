@@ -1,0 +1,636 @@
+#31000
+kruik trainer warrior elder~
+{BLUE,BOLD}Kruik{blue,bold}~
+{WHITE}A broad warrior stands lecturing words of wisdom to the trainees.
+~
+
+This old warrior has lived through many great battles. It is rumored it was he who
+trained Bozo, the greatest warrior of this realm. As you walk across the room 
+the trainer seems to follow you with his eyes, step for step. He wears a suit of 
+traditional gladiator equipment, with a golden ring upon his finger. The ring
+begins to glow brightly as you stare at it,...strange.
+~
+66 1076101800 0 S
+51 -100 5 0d0+30000 1d2+0
+0 1000
+8 8 0
+R 156
+D 20
+A 12
+#31001
+liru trainer cleric elder master~
+{YELLOW,BOLD}Liru{yellow,bold}~
+{WHITE}A holy cleric leads his students in an ancient chant.{white}
+~
+
+The trainer is dressed in white garments which drape to the floor. 
+His face is smooth, and pure. His voice is clear, and solem. The trainer
+motions for you to rest and listen to his lesson.
+~
+66 1076101800 0 S
+51 -100 5 0d0+30000 1d2+0
+0 1000
+8 8 1
+R 156
+D 20
+A 12
+#31002
+gandal mage elder trainer~
+{MAGENTA,BOLD}Gandal{magenta,bold}~
+{YELLOW,BOLD}An elder mage stands here lecturing.{yellow,bold}
+~
+
+The elder mage is dressed in a scarlet garment which hangs losely over
+his frigid body. He wears an old pair of open-toed sandals, and has a golden
+medallion hanging from his neck. He glances up at you with small dark eyes as 
+you approach. 
+~
+66 1076101800 0 S
+51 -100 5 0d0+30000 1d2+0
+0 1000
+8 8 1
+R 156
+D 20
+A 12
+#31003
+slive thief elder trainer~
+{WHITE}Slive{white}~
+A dark figure steps out from the shadows and begins to speak.
+~
+
+Dressed in only a dusty rugged looking outfit this little dark elf does not 
+appear to be much of a threat. However, you grow somewhat concerned when he holds
+out his hand presenting to you the ring you had only moments ago been wearing
+on your finger. What? He has not moved since you entered the room! Or has he?
+~
+66 1076101800 0 S
+51 -100 5 0d0+30000 1d2+0
+0 1000
+8 8 0
+R 156
+D 20
+A 12
+#31004
+raspu mage elder trainer~
+{YELLOW,BOLD}Raspu{yellow,bold}~
+{YELLOW,BOLD}A skinny mage points towards the sandy floor of the room.{yellow,bold}
+~
+
+A tall, thin man with golden skin. His beard and mustache are close-cropped
+and his hair is worn long and tied back. Tunic, pants, and a hooded robe 
+are loosely-fitted, a sash binds them at his waist where a small dagger
+hangs just out of view, but within easy reach.
+~
+66 1076101800 0 S
+51 -100 5 0d0+30000 1d2+0
+0 1000
+8 8 0
+R 156
+D 20
+A 12
+#31005
+student newbie~
+{C,BOLD}The student{c,bold}~
+{CYAN,BOLD}A student in training is here listening to the master{c,bold}
+~
+
+The young pupil does not notice you enter the room. He is too caught up into 
+the master's lecture. He appears to be rather skinny. Surely you would
+have no problem with this guy if you and he were to do battle. 
+~
+66 1073741824 0 S
+5 20 10 0d0+40 0d0+2
+0 200
+8 8 0
+D 20
+A 12
+#31006
+trainee student~
+{R,BOLD}A trainee{r,bold}~
+{Y,BOLD}A trainee is here testing his skills{y,bold}
+~
+
+This young trainee has learned all he can from the trainers in the temple and 
+has come here to test his skills against the fowl beasts which are found within
+the Rooms of Battle, and against other trainees. He looks at you are you walk into
+the room. I would not trust him. He is eyeing your equipment. 
+~
+66 0 0 S
+5 0 10 0d0+50 1d1+5
+3000 1000
+8 8 0
+D 20
+A 12
+#31007
+gnoll wolf~
+{BOLD,Y}A {R}vicious {Y}gnoll{b}~
+{C}A large Gnoll stands here waiting for a off-guard adventurer.{c}
+~
+
+{Y}   This wolfish like creature towers over you.  He looks as tho he has seen
+many battles and hardships, his armor and sword are dented and {BOLD,RED}blood{b,Y} covered.
+A {R}red{Y} cloak billows behind him torn and ripped. His eyes look you over, a small
+smile pierces his stern face. His eyes catch the glint of gold on your belt.
+
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#31008
+bozo trainer master~
+{BO,R}Bozo, the Master Trainer{bo}~
+{BO,R}Bozo, {bo,W}the {R}master {W}trainer is here teaching his {Y}spells{W} and {BO,R}skills{bo,W}.{bo}
+~
+He is one of the most experienced fighters in Midgaard. Noone has ever
+won a fight against him. But he's getting old and now he trains the
+young fighters in his room.
+~
+1208486915 1075839616 800 S
+56 10 -10 1d1+32000 150d150+100
+20000 50000
+8 8 1
+D 20
+A 12
+#31009
+Protess girl~
+{R}The {BO}{R}P{bo}{R}r{BO}{R}o{bo}{R}t{BO}{R}e{bo}{R}s{BO}{R}s{r}~
+{BO}{B}A young woman is {BO}{BLU}wiping{B} her {C}tears{B} on a {bo}{R}blood{BO}{B}-stained {BO}{W}dr{R}es{W}s{B}.{b}
+~
+
+   A twinkle in her eye show proof of profuse 
+   weeping.  She has dropped into this world from
+   the vision of reality.  She glances up at you 
+   and decides you are to blame for her being 
+   here.  Try to convince her otherwise.
+
+~
+524354 553910440 0 S
+10 -30 5 0d0+50 0d0+6
+50000 11000
+8 8 0
+D 20
+A 12
+#31010
+citizen crossroads~
+A citizen of the crossroads~
+{BO}{B}A citizen of the {BLU}cross{B}roads wanders from {bo}{W}place to place{BO}{B} in search of {Y}knowledge{B}.{b}
+~
+   This distinctive person shows great potential for the 
+   advancement of the city.  He wanders around these parts
+   searching for ways to increase his knowledge.  Why don't
+   you teach him the art of whippin...
+
+~
+67633216 17039400 0 S
+10 10 5 0d0+30 0d0+3
+50000 11000
+8 8 0
+D 20
+A 12
+#31011
+tree twisted~
+{BOLD,BLACK}A Tree{b}~
+{BOLD,BLACK}{B}
+~
+{BOLD,BLACK}It looks like a tree, it has branches and roots. On
+further inspection you can make out a evil grin and two eyes. 
+What kind of tree is this? Where did it come from?
+{b}
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#31012
+cleric evil~
+{BO}{BLU}The {R}Evil {bo}{W}Cleric{w}~
+{bo}{W}The {R}EVIL{W} cleric is here, draining {Y}magic{W} from {C}bystanders{W}.{w}
+~
+
+   This holy cleric was once a man of goodness.  As he
+   aged, though, his temper got the best of him and his
+   pupils started to disrespect him.  Slowly, his goodness
+   turned to pure evil.
+
+~
+524480 553910312 0 S
+5 17 5 0d0+70 0d0+4
+50000 11000
+8 8 0
+D 20
+A 12
+#31013
+warrior maship~
+The great warrior, Maship~
+{BO}{M}A hero of great valor stands before you with brazen circle of gold on his finger.{m}
+~
+
+   A great warrior with hair made of gold stands before
+   you.  His eyes are black and his spirit is free. I
+   wouldn't challenge him if I were you.
+
+~
+192 17039528 0 C 4
+11 10 5 0d0+62 0d0+4
+100000 40000
+8 8 1
+D 20
+A 12
+#31014
+mist flourescent~
+{BO,BLU}A {C}flourescent{bo,C} mist{bo}~
+{C}A faintly glowing {BO}{C}mist{bo}{C} is here roaming the {R}passages{r}
+~
+
+   A mist floats about here with little or no effort.  Its
+   eyes are hollow and its body is transparent.  It seems
+   to be the ghost of a thief who was in a backstabbing
+   practice session gone horribly wrong.
+
+~
+524352 553910440 0 S
+12 10 5 0d0+50 0d0+4
+40000 15000
+8 8 0
+D 20
+A 12
+#31015
+small evil creature~
+{BO,BLA}An Evil Creature{bo}~
+{bo,W}A {BO,BLA}frightening{bo,W} looking creature with {BO,R}bloodstained{bo,W} fur sizes you up{bo}
+~
+
+   Patches of blood cover this small beast's dark fur.  Wherever a claw is not,
+a fang seems to protrude from it's hideous body.  It would probably pose a huge  
+threat if it wasn't the size of your shoe.  All you can think of, as you approach it
+to engage in battle, is that it might make a good backscratcher... but your training
+has told you to always be alert.
+
+~
+524354 17039528 0 S
+12 10 5 0d0+80 0d0+8
+3000 15000
+8 8 0
+D 20
+A 12
+#31016
+Gryan man~
+Gryan~
+{BO}{R}Gryan,{bo}{R} the huge undead corpse paces in his grave anxiously.{r}
+~
+
+   This guy has his eyeballs hanging out of his skull
+   and his feet sharded with glass.  He is holding an
+   extremely strong sword and wants to use it to chop
+   you into itty-bitty pieces.
+
+~
+524354 537133096 0 S
+10 20 5 0d0+105 0d0+5
+90000 50000
+8 8 0
+R 524288
+D 20
+A 12
+#31017
+Riley baker knight~
+{BO}{R}R{W}i{M}l{R}e{W}y{w}~
+{BO}{R}A {BLU}tall{R}, {Y}thin {C}chef{R} is here making cobblers and {bo}{W}thousands{BO}{R} of {Y}pies{R}!{r}
+~
+{WHITE}
+   A petite gray haired woman in a high-necked blue dress and white
+   apron stands behind a counter preparing sweet pastries. The aroma
+   is making you hungrier by the minute, you must remind yourself to
+   return here often.
+{white}
+~
+66 1074012856 0 S
+51 10 -1 1d1+6800 10d13+10
+50000 20000000
+8 8 2
+R 128
+D 20
+A 12
+#31018
+native bronzed~
+{W}A {Y}Bronzed {R}Native{r}~
+{W}A {Y}bronzed{R} native{W} works busily {G}boosting{W} the production of the city.{w}
+~
+
+   This native works busily on the task at hand.
+
+~
+540736 262188 0 S
+20 10 5 0d0+120 0d0+13
+100000 200000
+8 8 0
+D 20
+A 12
+#31019
+wizard man elderly~
+{BO}{G}The {R}Ancient{G} Wizard of {M}Hallowed {BLU}Lore{blu}~
+{W}An elderly {R}man{W} is here experimenting with the {Y}protective {BO}{C}bubble{bo}{W} around the {BO}{G}city{g}.
+~
+
+   This great wizard studied in the finest universities of the
+   realm of the crossroads.  He has become so smart that no one
+   is able to understand him anymore.  He makes his living here
+   selling potions to students of magic and the arts of war and
+   dark practices.
+
+~
+17301570 1929642664 0 S
+50 10 -2 0d0+30000 10d40+3
+50000 500000
+8 8 0
+D 20
+A 12
+#31020
+healer neosporin~
+{R}The Great {W}Healer{R}, {bo}{W}Neosporin{w}~
+{BO}{B}A great druid healer is in a meditative state practicing the art of {Y}flesh{B} fusion.{b}
+~
+
+   The origin of the great medicated ointment called "Neosporin" came
+   from this druidic healer.  He was the first alchemist to inject the
+   ambrosia weed with neosporin giving it its healing qualities.  Rumor
+   has it that if an ambrosia was injected with a hyper-shot of this
+   mythical medicine, its healing properties would be unimaginable.
+
+~
+17301570 1627652776 0 S
+50 10 5 0d0+32000 0d0+500
+50000 500000
+8 8 0
+D 20
+A 12
+#31021
+Milo mayor politician miniMe~
+{BO}{Y}Milo, {G}the {Y}Mayor{G} of the Crossroads{g}~
+{BO}{G}A large man is here discussing the politics of the day.{g}
+~
+ 
+   A jolly man with a 53 inch waist is here talking about poltics.  He
+   seems to be a very knowledgeable man who spouts off long speeches about
+   clubs.  Many of his common sayings are that {BO}{BLU}({G}UK{BLU}){blu} is the oldest club 
+   on the crossroads, and that it is often a good starting club for 
+   people learning the ropes of fighting.  He could sure cut down on 
+   the {BO}{BLU}({R}T{Y}I{G}C{BLU}){blu} chicken wings!
+ 
+~
+419954752 1627652776 0 S
+50 10 5 0d0+15000 0d0+50
+0 1000
+8 8 0
+D 20
+A 12
+#31022
+jiggaboo guide newbiemaster~
+{CYAN,BOLD}Master Jiggaboo{cyan,bold}~
+Master Jiggaboo rests in this room, prepared to teach you the ways of the Crossroads.
+~
+The wisest guide on the Crossroads has dedicated his time to teaching
+people how to begin their journey on Northern Crossroads.
+~
+1225264131 1076101800 800 S
+56 10 -10 1d1+32000 150d150+100
+20000 50000
+8 8 1
+R 128
+D 20
+A 12
+#31023
+galdin ceremonies master greeter~
+{WHITE}Galdin,{white} {WHITE}{BO}The Master of Ceremonies{white}~
+{WHITE}Galdin,{white} {WHITE}{BO}The Master of Ceremonies{white} stands here greeting everyone.
+~
+
+
+A man dressed in adorned robes stands before you. His hair
+is long and grey. He smiles and tips his hat to you
+as you make eye contact. This gentleman seems at ease
+with his world and would be delighted to welcome you
+to it.
+
+~
+66 1076101800 0 S
+51 10 5 0d0+30000 1d2+0
+0 1000
+8 8 0
+R 128
+D 20
+A 12
+#31024
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#31025
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#31026
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#31027
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#31028
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#31029
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#31030
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#31031
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#31032
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#31033
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#31034
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#31035
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#31036
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#31037
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#31038
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#31039
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+$~

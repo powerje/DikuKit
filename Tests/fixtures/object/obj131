@@ -1,0 +1,524 @@
+#13100
+cloak Shosuro~
+{BLU,BO}Shosuro's{blu,bo}{BLU} Cloak{blu}~
+{BLU}A cloak here appears to be a slice of the darkest, starless night.{blu}~
+~
+9 2147487809 0 1025
+14 7000 0 0
+1 1000 500000
+E
+cloak Shosuro~
+{BLU}
+  Gazing upon this dark cloak feels as though you are gazing
+  upon a starless, moonless, night sky.  Upon wearing the
+  cloak, you begin to feel as though you barely exist...
+{blu}
+~
+A
+18 5
+A
+17 -10
+B
+67117056
+L
+20
+C
+7000 1
+G
+25
+M
+49
+#13101
+collar Junshin~
+{B,BO}The {b,bo}{Y}Junshin's{y}{B,BO} Collar{b,bo}~
+{Y}A silk collar has been left folded in the corner.{y}~
+~
+9 2148537344 0 5
+12 7000 0 0
+2 50000 1000000
+E
+collar Junshin~
+{Y}
+  This ornate collar is made from the finest of silks
+  available to only the most esteemed of samurai, or
+  the richest of merchants.  The collar is quite long,
+  for it would go up to the very top of your neck if
+  you were to wear it.
+{y}
+~
+A
+19 4
+A
+18 6
+B
+67108864
+L
+20
+C
+7000 1
+G
+60
+#13102
+key ornate~
+{BO}An{bo}{BLU} Ornate{blu}{BO} Key{bo}~
+{B,BO}Someone has discarded a {b,bo}{W,BO}small key{w,bo}{B,BO} here.{b,bo}~
+~
+18 65536 0 16385
+0 0 0 0
+1 10 1
+E
+key ornate~
+{W,BO}
+  This small key is intricantly carved with kanji and
+  numerous images of scorpions.  It is made of finely
+  polished silver with hardly a mark on it.
+{w,bo}
+~
+#13103
+caravan merchant portal~
+{Y}The Merchant Caravan{y}~
+{Y}A Small Caravan is making it's way south.{y}~
+~
+27 0 0 0
+13103 0 0 0
+3000 1 1
+#13104
+key scorpion steel~
+{BO}A Steel Scorpion{bo}~
+{BO}A metal ornamental Scorpion has been dropped here.{bo}~
+~
+18 65536 0 16385
+0 0 0 0
+1 10000 1
+E
+key scorpion steel~
+{BLA,BO}
+  It is an ornamental Scorpion made out of steel.  Hmm,
+  maybe you could use it as a paperweight...
+{bla,bo}
+~
+#13105
+katana Itsuwari~
+{R}Its{r}{R,BO}uw{r,bo}{R}ari{r}~
+{R}A Glowing Katana has been left unguarded here...{r}~
+~
+5 2148544577 256 8193
+3 8 8 3
+4 10000 500000
+E
+katana Itsuwari~
+{B,BO}
+  This ancient and holy artifact of the Scorpion Clan
+  has been passed down from father to son for 1000
+  years until you recently took it from the rightful
+  heir.  May the curses of the {b,bo}{R}Scorpion{r}{B,BO} Clan
+  haunt your every day and night...
+{b,bo}
+~
+E
+Itsuwari Katana~
+{BLA,BO}
+  This ancient and holy artifact of the Scorpion
+  Clan has been passed down from generation to
+  generation for 1000 years until you recently
+  took it from the rightful owner.  May all of
+  the curses of the {bla,bo}{R}Scorpion Clan{r,bo}{BLA,BO} haunt you
+  every day and night for the rest of your life.
+{bla,bo}
+~
+A
+18 7
+A
+17 -10
+B
+33554432
+L
+20
+C
+7000 1
+G
+75
+M
+75
+#13106
+Mask Bayushi~
+{B,BO}Bay{R,BO}ush{r,bo}{B,BO}i's {R,BO}Mas{r,bo}{B,BO}k{b,bo}~
+{C}An ornate mask has been foolishly discarded here.{c}~
+~
+9 2148536385 1073741836 17
+10 7000 0 0
+2 10000 100000
+E
+Mask Bayushi~
+{R}
+  As you closely examine this ancient bamboo mask, you
+  begin to marvel at the great amount of work and detail
+  put into the creation of this artifact.
+{r}
+~
+A
+19 6
+A
+18 5
+L
+30
+C
+7000 2
+G
+90
+#13107
+scorpion Mon~
+{BO}The Mon of the {bo}{R}Scorpion{r}{BO} Clan{bo}~
+{BO}A piece of cloth with a symbol of the {bo}{R}Scorpion{r}{BO} lies on the ground.{bo}~
+~
+9 1048576 2 1048577
+8 0 0 0
+1 3000 1000
+E
+scorpion Mon~
+{R}
+  It is a simple, yet ancient symbol of the most sinister
+  clan of the empire.  It is an image of a {r}{BLA,BO}black{bla,bo}{R} Scorpion
+  over a {r}{R,BO}red{r,bo}{R} background.
+{r}
+~
+A
+18 3
+A
+19 2
+B
+1048576
+C
+7000 2
+G
+35
+#13108
+key ancient~
+{BO}An {bo}{BLU}Ancient{blu}{BO} Key{bo}~
+{Y}An small key has been forgotton here.{y}~
+~
+18 65536 0 1
+0 0 0 0
+1 100 1
+E
+key ancient~
+{BLA,BO}
+  This small Key appears to have been forged many years
+  ago.  It bears some signs of rust, but has been kept
+  for the most part in good condition.
+{bla,bo}
+~
+#13109
+torch fire~
+{BLA,BO}A {bla,bo}{Y}T{y}{Y,BO}orc{y,bo}{Y}h{y}~
+{BLA,BO}One of the {bla,bo}{Y}To{y}{Y,BO}rch{y,bo}{Y}es{y}{BLA,BO} is loose from the wall.{bla,bo}~
+~
+18 65537 0 16385
+300 0 0 5
+1 1 1
+A
+27 4
+A
+19 1
+G
+50
+#13110
+hand obsidian~
+{BLU}The {BO,WHI}Obsidian{bo,BLU} Hand{b}~
+{BO,WHI}A hand made of the purest obsidian pulses with dark energy here...{b}~
+~
+9 2148545105 1073741836 129
+10 7000 0 0
+5 10000 800000
+E
+hand obsidian~
+
+  {BLU}{bo,BLU}Upon gazing at this ancient artifact, a feeling of power
+  and energy surges through your body.  You can only begin
+  to imagine what it must feel like to actually wear the
+  hand...{b}
+
+~
+E
+hand obsidian~
+{BLU}
+  Upon gazing at this ancient artifact, a feeling of power
+  and energy surges through your body.  You can only begin
+  to imagine what it must feel like to actually wear the
+  hand...
+{blu}
+~
+E
+leggings obsidian~
+
+  {BLU}{bo,BLU}Upon gazing at this ancient artifact, a feeling of power
+  and energy surges through your body.  You can only begin
+  to imagine what it must feel like to actually wear the
+  leggings...{b}
+
+~
+A
+12 100
+A
+19 6
+B
+20
+L
+20
+C
+7000 2
+G
+85
+M
+80
+#13111
+katana Yashin ambition Kenchi~
+{R,BO}Y{r,bo}{R}a{r}{R,BO}s{r,bo}{R}h{r}{R,BO}i{r,bo}{R}n{r}~
+{W,BO}Something here vibrates with murderous energy!{w,bo}~
+~
+5 3221237811 256 8193
+3 9 8 9
+0 10000 1000000
+E
+yashin kenchi bloodsword katana~
+{R,BO}
+  As you gaze upon this finely crafted Katana, dark thoughts you
+  have always fought to surpress begin to surface.
+
+  Murderous Thoughts,
+
+  Treasonous Thoughts.
+{r,bo}
+~
+E
+yashin ambition kenchi bloodsword katana~
+~
+E
+katana Yashin ambition Kenchi~
+{R,BO}
+  As you gaze upon this fine Katana, dark things begin to fill
+  your corrupted mind...
+
+  Your club leader can't lead your club as well as you could.
+  If you were to take the leadership from him, your club would
+  see glory that only you can bring it.  All it would take is
+  one little murder...
+{r,bo}
+~
+A
+18 7
+A
+19 7
+B
+557056
+L
+10
+C
+7000 1
+M
+90
+#13112
+mirror obsidian~
+{B,BO}The Obsidian Mi{b,bo}{C}rro{c}{B,BO}r{b,bo}~
+{B,BO}A shiny shard of obsidian catches your eye...{b,bo}~
+~
+1 1053200 0 1
+-1 -1 -1 2
+0 1 1
+E
+mirror obsidian~
+{W,BO}
+    Hisa,
+
+    I have reason to believe that there is an artifact of
+  immense power hidden in the caves below the palace.  You
+  are to take a team of proven loyal Bushi to excavate the
+  rubble below the passageway in the north cave.
+
+    I expect a report when I return from Otosan Uchi.
+
+  -{w,bo}{M}BK{m}
+
+~
+E
+mirror obsidian~
+{B,BO}
+  With a simple drop of blood, this sinister mirror will
+  allow the user to spy on others anywhere in the empire.
+{b,bo}
+~
+A
+19 6
+A
+18 5
+B
+24
+L
+60
+M
+70
+#13113
+note rice paper~
+{W,BO}A note on Ricepaper{w,bo}~
+{W,BO}There is a small piece of Rice Paper here.{w,bo}~
+~
+16 0 0 1
+0 0 0 0
+1 1 1
+E
+note rice paper~
+{W,BO}
+    Bayushi Shoju-sama,
+
+    I have completed my search of the caves revealed after
+  the earthquake.  I have seen a chamber with scrolls of
+  ancient secrets, and a blade too dark to mention its
+  name...  They appear to be guarded by the undead shells
+  of bushi who had perished searching the cave long ago.
+
+    I would suggest bringing a large escort if you
+  continue to insist on searching those damned halls.
+
+    Your loyal servant,
+  -Yogo Junzo
+{w,bo}
+~
+#13114
+bottle southern comfort~
+{Y,BO}A Bottle of {y,bo}{Y}Southern{y}{Y,BO} Comfort{y,bo}~
+{Y}A bottle of half-drank Southern Comfort is sitting on a table here.{y}~
+~
+10 0 0 16385
+50 145 54 108
+2 1 1
+E
+bottle southern comfort~
+{Y}
+  A {y}{W,BO}clear{w,bo}{Y} bottle mostly full of brown liquid.  This drink
+  looks awefully comforting probebly due to it's large content of
+  alchohol...
+{y}
+~
+#13115
+scroll scrolls uikku~
+{BO}The {bo}{R}Scrolls{r}{BO} of the {bo}{BLU,BO}Uikku{blu,bo}~
+{BLA,BO}An Ancient scroll lies here, its secrets waiting to be discovered...{bla,bo}~
+~
+27 10305 64 16385
+13149 0 0 0
+3 1000 10000
+E
+scroll scrolls prophet~
+{BO}
+  These scrolls are in ancient script, readable only to
+  highly skilled Shugenja.
+{bo}
+~
+A
+13 80
+A
+12 80
+B
+1207959552
+M
+64
+#13116
+necklace crystal token~
+{Y}A Token of {y}{W,BO}Crystal{c,bo}~
+{B,BO}A necklace with a small {b,bo}{W,BO}Crystal{w,bo}{B,BO} lies on a rock here.{b,bo}~
+~
+9 5121 0 18565
+8 0 0 0
+1 1000 100
+E
+token crystal~
+{W,BO}
+  Gazing upon this small Crystal, your general feelings
+  of confusion subside.  This small token of purity seems
+  to dispel the darkness that surrounds you where ever
+  you may go.
+{w,bo}
+~
+E
+token crystal~
+{W,BO}
+  Gazing upon this small Crystal, your general feelings
+  of confusion subside.  This small token of purity seems
+  to keep the {w,bo}{B,BO}darkness{b,bo}{W,BO} at bay...
+{w,bo}
+~
+A
+19 3
+A
+17 -10
+B
+2281701504
+L
+50
+C
+7000 2
+#13117
+bracer jade scorpion wristband~
+{C}A {G,BO}Jade {g,bo}{C}Bracer{c}~
+{C}A bracer lies discarded in the dirt.{c}~
+~
+9 2147487808 0 4097
+12 7000 0 0
+3 34464 1
+E
+bracer jade scorpion wristband~
+{BLA,BO}
+  This wristband appears to be very ancient, but it
+  still looks to be in excellent condition.  As you
+  examine it further, you notice that there are
+  images of {bla,bo}{R}Scorpions{r}{BLA,BO} etched along the entire band.
+{bla,bo}
+~
+A
+18 6
+A
+19 4
+B
+8320
+L
+50
+C
+7000 1
+G
+90
+M
+45
+#13118
+treasure koku gold coins~
+{Y,BO}The {y,bo}{R}Bayushi Family{r}{Y,BO} Treasure{y,bo}~
+{Y}The {y}{Y,BO}Treasure{y,bo}{Y} of the {y}{R}Bayushi{r}{Y} Family fills the room.{y}~
+~
+20 0 0 1
+1000000 0 0 0
+1 1 1
+E
+treasure koku gold coins~
+{Y,BO}
+  The Treasure consists of riches of all sorts.  There
+  is certainly enough value here to make about ten
+  million gold coins.
+{y,bo}
+~
+#13119
+egg pan ku~
+{G}The {BO}E{bo}{G}g{BO}g{bo}{G} of {BO}P'{bo}{G}a{BO}n{bo}{G} K{BO}u{bo}~
+{G}A Large Ceramic E{BO}g{bo}{G}g {BO}glows{bo}{G} with mystical power here{g}~
+~
+10 8257 0 16385
+45 131 0 0
+3 34464 10000
+E
+egg pan ku~
+{G,BO}
+  It appears to be a very large ceramic egg imprinted
+  with ancient-looking runes.  It must be worth a fortune.
+{g,bo}
+~
+B
+2
+$~

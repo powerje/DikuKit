@@ -1,0 +1,2808 @@
+#49800
+{CY}Eudelta Square{cy}~
+{CY}
+  Entering the tiered square, the familiar spray of 
+  fountain water comes into view. The upper deck was
+  added to the old square long ago. Large marble 
+  planters have been strategically placed along the
+  rails and the ivy cascades overlooking the fountain. 
+  There are marble benches near the ivy where lunchers
+  rest and take in fresh air. This place knows no rest.
+{cy}
+~
+498 4 1
+D0
+~
+~
+0 -1 49859
+D1
+~
+~
+0 -1 49801
+D2
+~
+~
+0 -1 49858
+D3
+~
+~
+0 -1 49809
+D4
+~
+~
+0 -1 49336
+D5
+{CY}
+  The giant marble steps spiral downward toward the      
+  intricately designed fountain.  A mosaic of orange,      
+  yellow, gold and blue tiles reflects the sunlight 
+  from above. The cities popular gathering place is 
+  home to bistros and delicatessens awaiting hungry 
+  passers-by.
+{cy}
+~
+~
+0 -1 49881
+Z-1
+C-1
+R0
+S
+#49801
+{C}East Eudelta Road{c}~
+{C}
+  Even with all the technical advances, the
+  {W,BO}Post Office{w,bo}{C} remains an institution. Citizens 
+  rush in and out, checking and writing mail.
+  The citizens prefer hand crafted armour to 
+  machine stamped breast plates as well as old
+  fashioned letters. {R}The Armoury{C} to the south
+  is still in high demand after a hundred years.
+{c}
+~
+498 0 1
+D0
+~
+~
+0 -1 49366
+D1
+~
+~
+0 -1 49802
+D2
+~
+~
+0 -1 49337
+D3
+~
+~
+0 -1 49800
+Z-1
+C-1
+R0
+S
+#49802
+{C}East Eudelta Road{c}~
+{C}
+  The freshly paved road narrows to two lanes as
+  the buildings become taller.  Up ahead is the 
+  center of this incredible city where people  
+  gather at all hours of the day and night any
+  time of year.  The city lights shine off the
+  glass and marble faced buildings.  Looking
+  around it is evident that much planning went
+  into this city.
+{c}
+~
+498 0 1
+D1
+~
+~
+0 -1 49803
+D3
+~
+~
+0 -1 49801
+Z-1
+C-1
+R0
+S
+#49803
+{C}East Eudelta Road{c}~
+{BL,BO}
+  The sidewalks are crowded with people. Signs
+  invite people to eat here and try the better
+  brands. Old buildings are crowded between the
+  newer ones. Parking meters line the narrow slots
+  at the side of the road. Stereos with the bass
+  cranked up pound out rhythms as young people
+  gather together and plan their next escapade.
+{bl,bo}
+~
+498 0 1
+D1
+~
+~
+0 -1 49804
+D3
+~
+~
+0 -1 49802
+Z-1
+C-1
+R0
+S
+#49804
+{C}East Eudelta Road{c}~
+{C}
+  Here the road forks.  The north fork becomes{W} Temple
+  Lane{C} while the west and east forks will bring you from
+  the beach to the forest and back again. The road is 
+  wide and made to carry many people where they need 
+  to go.  Along the way, there are many chances for 
+  adventure should one choose to turn to the north
+  or to the south. Going south here would be the 
+  start of a nice stroll through Diamond Park.
+{c}
+~
+498 0 1
+D0
+~
+~
+0 -1 49322
+D1
+~
+~
+0 -1 49805
+D2
+~
+~
+0 -1 49688
+D3
+~
+~
+0 -1 49803
+Z-1
+C-1
+R0
+S
+#49805
+{CY}East Eudelta Gate{cy}~
+{BL,BO}
+  Trees line the median casting shadows on the road.
+  Traffic lights signal when to stop and go. Looking
+  around, it is evident that much thought went into
+  the planning of this great city. This was not a 
+  city built in one night.
+{bl,bo}
+~
+498 0 1
+D1
+~
+gate~
+1 -1 49806
+D3
+~
+~
+0 -1 49804
+Z-1
+C-1
+R0
+S
+#49806
+{C}East Eudelta Road{c}~
+{C}
+  On this long stretch of road heading into the city,
+  it is easy to get lost in the sights and sounds while
+  nearly forgetting the road itself. This becomes
+  apparent as {C,BO}City Hall{bo,C} comes into view.  The historic
+  building made of white marble glitters in the lights.
+  Its tall Corinthian columns show that this is a city
+  of order and justice.  At the same time, it welcomes
+  visitors and citizens alike to enter and learn more
+  about this fine city.
+{c}
+~
+498 0 1
+D0
+~
+~
+0 -1 49354
+D1
+~
+~
+0 -1 49807
+D3
+~
+gate~
+1 -1 49805
+Z-1
+C-1
+R0
+S
+#49807
+{C}East Eudelta Road{c}~
+{BLACK,BO}
+  Beautiful Gothic architecture peeks through the 
+  mirror-faced buildings of the new city.  Gargoyles
+  and stained glass windows remind citizens of days 
+  long gone.  Large office building and parking lots
+  declare that it is a new age. The orange cones in 
+  the road also indicate... progress?
+{black,bo}
+~
+498 4 1
+D1
+~
+~
+0 -1 49808
+D3
+~
+~
+0 -1 49806
+Z-1
+C-1
+R0
+S
+#49808
+{C}East Eudelta Road{c}~
+{Y,BO,BLINK}
+  Billboards and neon signs flash and spin near {y,bo,blink}{BLUE,BO} 
+  the side of the road. The road has three lanes{blue,bo} {MAG,BO,BLINK}
+  heading east and three more heading west.  The {mag,bo,blink}{Y,BO} 
+  old brick factories and apartment buildings  {y,bo}{BLUE,BO,BLINK}
+  line the road east and westbound.  Exit signs{blue,bo,blink}{MAG,BO} 
+  announce turn offs and attractions. 
+{mag,bo}
+~
+498 0 1
+D0
+~
+~
+0 -1 49335
+D1
+~
+~
+0 -1 49743
+D2
+~
+~
+0 -1 49321
+D3
+~
+~
+0 -1 49807
+D4
+~
+~
+0 -1 29000
+D5
+~
+~
+0 -1 31602
+Z-1
+C-1
+R0
+S
+#49809
+{C}West Eudelta Road{c}~
+{CY}
+  The freshly paved road narrows to two lanes as
+  the buildings become taller.  Up ahead is the 
+  center of this incredible city where people  
+  gather at all hours of the day and night any
+  time of year.  The city lights shine off the
+  glass and marbel faced buildings.  Looking
+  around it is evident that much planning went
+  into this city.
+{cy}
+~
+498 0 1
+D0
+~
+~
+0 -1 49398
+D1
+~
+~
+0 -1 49800
+D2
+~
+~
+0 -1 49397
+D3
+~
+~
+0 -1 49810
+Z-1
+C-1
+R0
+S
+#49810
+{C}West Eudelta Road{c}~
+{C}
+  Trees line the median casting shadows on the road.
+  Traffic lights signal when to stop and go. Looking
+  around, it is evident that much thought went into
+  the planning of this great city. This was not a 
+  city build in one night.
+{c}
+~
+498 0 1
+D1
+~
+~
+0 -1 49809
+D3
+~
+~
+0 -1 49811
+Z-1
+C-1
+R0
+S
+#49811
+{C}West Eudelta Road{c}~
+{W,BO}
+  Beautiful Gothic architecture peeks through the 
+  mirror-faced buildings of the new city.  Gargoyles
+  and stained glass windows remind citizens of days 
+  long gone.  Large office building and parking lots
+  declare that it is a new age. The orange cones in 
+  the road also indicate... progress? 
+{w,bo}
+~
+498 0 1
+D1
+~
+~
+0 -1 49810
+D3
+~
+~
+0 -1 49812
+Z-1
+C-1
+R0
+S
+#49812
+{C}West Eudelta Road{c}~
+{Y,BO,BLINK}
+  Billboards and neon signs flash and spin near {y,bo,blink}{BLUE,BO} 
+  the side of the road. The road has three lanes{blue,bo} {MAG,BO,BLINK}
+  heading east and three more heading west.  The {mag,bo,blink}{Y,BO} 
+  old brick factories and apartment buildings  {y,bo}{BLUE,BO,BLINK}
+  line the road east and westbound.  Exit signs{blue,bo,blink}{MAG,BO} 
+  announce turn offs and attractions. 
+{mag,bo}
+~
+498 0 1
+D0
+~
+door~
+1 -1 4200
+D1
+~
+~
+0 -1 49811
+D2
+~
+secret~
+1 -1 25399
+D3
+~
+~
+0 -1 49813
+Z-1
+C-1
+R0
+S
+#49813
+{CY}West Eudelta Gate{cy}~
+{BL,BO}
+  The sidewalks are crowded with people. Signs
+  invite people to eat here and try the better
+  brands. Old buildings are crowded between the
+  newer ones. Parking meters line the narrow slots
+  at the side of the road. Stereos with the bass
+  cranked up pound out rhythms as young people
+  gather together and plan their next escapade.
+{bl,bo}
+~
+498 0 1
+D0
+~
+~
+0 -1 49384
+D1
+~
+~
+0 -1 49812
+D3
+~
+gate~
+1 -1 49814
+Z-1
+C-1
+R0
+S
+#49814
+{C}West Eudelta Road{c}~
+{C}
+  On this long stretch of road heading into the city,
+  it is easy to get lost in the sights and sounds while
+  nearly forgetting the road itself. The historic
+  buildings made of white marble glitters in the lights
+  welcome visitors and citizens alike to enter and learn 
+  more about this fine city. 
+{c}
+~
+498 0 1
+D0
+~
+pizza door~
+1 -1 27900
+D1
+~
+gate~
+1 -1 49813
+D2
+~
+~
+0 -1 49493
+D3
+~
+~
+0 -1 49815
+Z-1
+C-1
+R0
+S
+#49815
+{C}West Eudelta Road{c}~
+{C}
+  The road between the beach and center city
+  changes greatly. To the east, the road is
+  overpowered by the odor of fish and the noise
+  of pesky seagulls. To the west, the city isn't
+  much better. The difference is that the seagulls
+  are pigeons and the fish smell is trash. Someone
+  ought to tell the mayor about this.
+{c}
+~
+498 0 1
+D0
+~
+~
+0 -1 15310
+D1
+~
+~
+0 -1 49814
+D3
+~
+~
+0 -1 49816
+Z-1
+C-1
+R0
+S
+#49816
+{BLU,BO}Oceanview Road{blu,bo}~
+{Y}
+  Wagons rolling by, the pungent odor of fish, and
+  the groups of peddlers selling their wares about 
+  you allude to this being a place of heavy commerce. 
+  There is a crossing here.  To the north and south 
+  runs a road, parallel to the sea shore.  East, people 
+  bustle about their daily lives in the city.  The path 
+  to the west leads to a small vista atop a cliff.
+{y}
+~
+498 0 1
+D0
+~
+~
+0 -1 49817
+D1
+~
+~
+0 -1 49815
+D2
+~
+~
+0 -1 49836
+D3
+~
+~
+0 -1 49500
+Z-1
+C-1
+R0
+S
+#49817
+{BLU,BO}Oceanview Road{blu,bo}~
+{Y}
+  Seagulls can be heard all about, singing their 
+  haggard song of merriment.  Scrub brush and crab 
+  grass cover the distance of beach visible to the 
+  west.  A gentle breeze pushes a thin layer of sand 
+  across the road ahead.  A small ship is toiling about 
+  in the harbor to the west, fishing.  Small specks, 
+  autonomously moving themselves about, mark 
+  themselves as people along the shoreline.
+{y}
+~
+498 0 1
+D0
+~
+~
+0 -1 49818
+D2
+~
+~
+0 -1 49816
+Z-1
+C-1
+R0
+S
+#49818
+{BLU,BO}Oceanview Road{blu,bo}~
+{Y}
+  The smell of the sea vanishes, replaced now by the 
+  unmistakable scent of food.  To the east, a {G,BO}green  
+  sign{bo,Y} beckons the eye of all who pass.  A bleary eyed, 
+  fat fisherman slovenly walks out of the building, 
+  looking both exhausted, and contented.  The sea-
+  skirting road continues north and south.  
+{y}
+~
+498 0 1
+D0
+~
+~
+0 -1 49819
+D1
+~
+~
+0 -1 49396
+D2
+~
+~
+0 -1 49817
+E
+sign green~
+
+{GRE,BO}        ***----**----***
+       ****---****---****
+      ****** ****** ******
+{BLU,BO}         The Happy Clam
+{GRE,BO}      ****** ****** ******
+       ****---****---****
+        ***----**----***
+
+~
+E
+sign~
+
+  {GRE,BO}             ***  **  ***
+            ****  ***  ****
+          *****  *** *****
+            The Happy Clam
+              Inn and Tavern
+          *****  *** *****
+           ****  ***  ****
+              ***  **  ***
+
+~
+Z-1
+C-1
+R0
+S
+#49819
+{BLU,BO}Oceanview Road{blu,bo}~
+{Y}
+  Seagulls can be heard all about, singing their 
+  haggard song of merriment.  Scrub brush and crab 
+  grass cover the distance of beach visible to the 
+  west.  A gentle breeze pushes a thin layer of sand 
+  across the road ahead.  A small ship is toiling about 
+  in the harbor to the west, fishing.  Small specks, 
+  autonomously moving themselves about, mark 
+  themselves as people along the shoreline.
+{y}
+~
+498 0 1
+D0
+~
+~
+0 -1 49820
+D2
+~
+~
+0 -1 49818
+Z-1
+C-1
+R0
+S
+#49820
+{BLU,BO}Oceanview Road{blu,bo}~
+{Y}
+  Oceanview Road meets with Seaside Boardwalk and
+  Fishermans Alley. The sounds of the boardwalk
+  are quite enticing. Yet, Fishermans Alley has
+  the best food in the region. Overhead, the 
+  clear sky and squawking gulls serve as a reminder
+  that this is a vacation. Whichever path is chosen
+  today leaves the other path to be explored.
+{y}
+~
+498 0 1
+D0
+~
+~
+0 -1 49830
+D1
+~
+~
+0 -1 49873
+D2
+~
+~
+0 -1 49819
+D3
+~
+~
+0 -1 49821
+Z-1
+C-1
+R0
+S
+#49821
+{CY}Seaside Boardwalk{cy}~
+{C}
+  The boardwalk is an exciting place for
+  young people. It is a place to gather with 
+  friends and enjoy pizza, ice cream, and 
+  vinegar fries. The carnival-like atmosphere
+  has been designed to entertain the entire
+  family. Wow! What's that over there?
+{c}
+~
+498 0 1
+D0
+~
+~
+0 -1 49497
+D1
+~
+~
+0 -1 49820
+D3
+~
+~
+0 -1 49822
+Z-1
+C-1
+R0
+S
+#49822
+{CY}Seaside Boardwalk{cy}~
+{CY}
+  The smell of salt air and dune grass
+  fills the air. The crowds gathered here 
+  make for great people watching. Spiked
+  hair, dyed hair, strange walks, and 
+  the latest clothing fads are all found 
+  here on the boardwalk. There is a map
+  shop to the north. Don't get lost.
+{cy}
+~
+498 0 1
+D0
+~
+~
+0 -1 49375
+D1
+~
+~
+0 -1 49821
+D3
+~
+~
+0 -1 49823
+Z-1
+C-1
+R0
+S
+#49823
+{CY}Seaside Boardwalk{cy}~
+{C}
+  The boardwalk is an exciting place for
+  young people. It is a place to gather with 
+  friends and enjoy pizza, ice cream, and 
+  vinegar fries. The carnival-like atmosphere
+  has been designed to entertain the entire
+  family. Wow! What's that over there?
+{c}
+~
+498 0 1
+D1
+~
+~
+0 -1 49822
+D3
+~
+~
+0 -1 49824
+Z-1
+C-1
+R0
+S
+#49824
+{CY}Seaside Boardwalk{cy}~
+{C}
+  The boardwalk hugs the coast heading east and 
+  west. This stretch of boards is perfect for
+  walking the dog, skateboarding, and jogging. 
+  Early in the morning people exercise and in the
+  evening the locals take an evening stroll. The 
+  old boards have recently been replaced and now 
+  the boardwalk has a fresh look to it.
+{c}
+~
+498 0 1
+D1
+~
+~
+0 -1 49823
+D3
+~
+~
+0 -1 49825
+Z-1
+C-1
+R0
+S
+#49825
+{CY}Seaside Boardwalk{cy}~
+{C}
+  There's a scenic overlook to the south as 
+  well as a path down the rocky cliffs. The 
+  boardwalk hugs the coast heading east and 
+  west. This stretch of boards is perfect for
+  walking the dog, skateboarding, and jogging.
+{c}
+~
+498 0 1
+D0
+~
+~
+0 -1 49826
+D1
+~
+~
+0 -1 49824
+D2
+~
+~
+0 -1 49518
+Z-1
+C-1
+R0
+S
+#49826
+{W,BO}Lands End Road{w,bo}~
+{W,BO}
+  Lands End is a connecting highway between 
+  the northern region and coast from north
+  to south. To the south is Seaside Road. 
+  The place is a popular hangout for many
+  young adventurers.  Might be a nice place 
+  to check out.
+{w,bo}
+~
+498 0 1
+D0
+~
+~
+0 -1 49827
+D2
+~
+~
+0 -1 49825
+Z-1
+C-1
+R0
+S
+#49827
+{W,BO}Lands End Road{w,bo}~
+{WH,BO}
+  Lands End is a connecting highway between 
+  the northern region and coast from north
+  to south. East of here is Leatherworkers
+  Road which is the home of many small shops
+  such as the tattoo parlor and Sabrina's 
+  Miracle Remedies.
+{wh,bo}
+~
+498 0 1
+D0
+~
+~
+0 -1 49828
+D1
+~
+~
+0 -1 49835
+D2
+~
+~
+0 -1 49826
+Z-1
+C-1
+R0
+S
+#49828
+{W,BO}Lands End Road{w,bo}~
+{WH,BO}
+  Lands End is a connecting highway between 
+  the northern region and coast. The view
+  is beautiful with trees lining the roadside.
+  Many have been on this road as the coast is 
+  a popular vacation spot. It's most heavily
+  travelled in the summer months.
+{wh,bo}
+~
+498 0 1
+D0
+~
+~
+0 -1 49829
+D2
+~
+~
+0 -1 49827
+Z-1
+C-1
+R0
+S
+#49829
+{W,BO}Lands End Road{w,bo}~
+{WH,BO}
+  Lands End is a connecting highway between 
+  the northern region and coast. The view
+  is beautiful with trees lining the roadside.
+  Many have been on this road as the coast is 
+  a popular vacation spot. It's most heavily
+  travelled in the summer months.
+{wh,bo}
+~
+498 0 1
+D0
+~
+~
+0 -1 8200
+D2
+~
+~
+0 -1 49828
+Z-1
+C-1
+R0
+S
+#49830
+{BLU,BO}Oceanview Road{blu,bo}~
+{Y}
+  Seagulls can be heard all about, singing their 
+  haggard song of merriment.  Scrub brush and crab 
+  grass cover the distance of beach visible to the 
+  west.  A gentle breeze pushes a thin layer of sand 
+  across the road ahead.  A small ship is toiling about 
+  in the harbor to the west, fishing.  Small specks, 
+  autonomously moving themselves about, mark 
+  themselves as people along the shoreline.
+{y}
+~
+498 0 1
+D0
+~
+~
+0 -1 49831
+D2
+~
+~
+0 -1 49820
+Z-1
+C-1
+R0
+S
+#49831
+{Y}Leatherworkers Road{y}~
+{Y}
+  Leatherworkers Road meets with Oceanview
+  Road which turns to the south. North of
+  here is the city dump. Be aware that if 
+  things are dropped in the dump they will
+  disappear from the face of the world. So
+  be careful!
+{y}
+~
+498 0 1
+D0
+~
+~
+0 -1 49899
+D1
+~
+~
+0 -1 49880
+D2
+~
+~
+0 -1 49830
+D3
+~
+~
+0 -1 49832
+Z-1
+C-1
+R0
+S
+#49832
+{Y}Leatherworkers Road{y}~
+{Y}
+  The road stretches from east to west
+  and back again. There are many older
+  wooden buildings on the street done 
+  in the older western architecture.
+  The road is so dusty it might as well
+  not even be paved. Sure is a fun place
+  to explore though.
+{y}
+~
+498 0 1
+D1
+~
+~
+0 -1 49831
+D3
+~
+~
+0 -1 49833
+Z-1
+C-1
+R0
+S
+#49833
+{Y}Leatherworkers Road{y}~
+{Y}
+  The road stretches from east to west
+  and back again. The road is so dusty 
+  it might as well not even be paved.
+  Sure is a fun place to explore though.
+{y}
+~
+498 0 1
+D1
+~
+~
+0 -1 49832
+D3
+~
+~
+0 -1 49834
+Z-1
+C-1
+R0
+S
+#49834
+{Y}Leatherworkers Road{y}~
+{Y}
+  The road stretches from east to west
+  and back again. The road is so dusty 
+  it might as well not even be paved. 
+  Far to the east is Main Street and a
+  bunch of small businesses owned by 
+  some of Eudelta's more talented 
+  citizens. Sure is a fun place to 
+  explore.
+{y}
+~
+498 0 1
+D1
+~
+~
+0 -1 49833
+D3
+~
+~
+0 -1 49835
+Z-1
+C-1
+R0
+S
+#49835
+{Y}Leatherworkers Road{y}~
+{Y}
+  Lands End Road is to the west. To 
+  the east, on Leatherworkers Road
+  there are smaller businesses that 
+  get their fair share of customers.
+  The street is narrow and very busy.
+{y}
+~
+498 0 1
+D1
+~
+~
+0 -1 49834
+D3
+~
+~
+0 -1 49827
+Z-1
+C-1
+R0
+S
+#49836
+{BLU,BO}Oceanview Road{blu,bo}~
+{Y}
+  Seagulls can be heard all about, singing their 
+  haggard song of merriment.  Scrub brush and crab 
+  grass cover the distance of beach visible to the 
+  west.  A gentle breeze pushes a thin layer of sand 
+  across the road ahead.  A small ship is toiling about 
+  in the harbor to the west, fishing.  Small specks, 
+  autonomously moving themselves about, mark 
+  themselves as people along the shoreline.
+{y}
+~
+498 0 1
+D0
+~
+~
+0 -1 49816
+D2
+~
+~
+0 -1 49837
+Z-1
+C-1
+R0
+S
+#49837
+{BLU,BO}Oceanview Road{blu,bo}~
+{Y}
+  Seagulls can be heard all about, singing their 
+  haggard song of merriment.  Scrub brush and crab 
+  grass cover the distance of beach visable to the 
+  west.  A gentle breeze pushes a thin layer of sand 
+  across the road ahead.  A small ship is toiling about 
+  in the harbor to the west, fishing.  Small specks, 
+  autonomously moving themselves about, mark 
+  themselves as people along the shoreline.
+{y}
+~
+498 0 1
+D0
+~
+~
+0 -1 49836
+D2
+~
+~
+0 -1 49838
+Z-1
+C-1
+R0
+S
+#49838
+{BLU,BO}Oceanview Road{blu,bo}~
+{Y}
+  Seagulls can be heard all about, singing their 
+  haggard song of merriment.  Scrub brush and crab 
+  grass cover the distance of beach visable to the 
+  west.  A gentle breeze pushes a thin layer of sand 
+  across the road ahead.  A small ship is toiling about 
+  in the harbor to the west, fishing.  Small specks, 
+  autonomously moving themselves about, mark 
+  themselves as people along the shoreline.
+{y}
+~
+498 0 1
+D0
+~
+~
+0 -1 49837
+D2
+~
+~
+0 -1 49839
+Z-1
+C-1
+R0
+S
+#49839
+{BLU,BO}Oceanview Road{blu,bo}~
+{Y}
+  Seagulls can be heard all about, singing their 
+  haggard song of merriment.  Scrub brush and crab 
+  grass cover the distance of beach visible to the 
+  west.  A gentle breeze pushes a thin layer of sand 
+  across the road ahead.  A small ship is toiling about 
+  in the harbor to the west, fishing.  Small specks, 
+  autonomously moving themselves about, mark 
+  themselves as people along the shoreline.
+{y}
+~
+498 0 1
+D0
+~
+~
+0 -1 49838
+D2
+~
+~
+0 -1 49840
+Z-1
+C-1
+R0
+S
+#49840
+{BLU,BO}Oceanview Road{blu,bo}~
+{Y}
+  Seagulls can be heard all about, singing their 
+  haggard song of merriment.  Scrub brush and crab 
+  grass cover the distance of beach visible to the 
+  west.  A gentle breeze pushes a thin layer of sand 
+  across the road ahead.  A small ship is toiling about 
+  in the harbor to the west, fishing.  Small specks, 
+  autonomously moving themselves about, mark 
+  themselves as people along the shoreline.
+{y}
+~
+498 0 1
+D0
+~
+~
+0 -1 49839
+D2
+~
+~
+0 -1 49841
+Z-1
+C-1
+R0
+S
+#49841
+{BLU,BO}Oceanview Road{blu,bo}~
+{Y}
+  Seagulls can be heard all about, singing their 
+  haggard song of merriment.  Scrub brush and crab 
+  grass cover the distance of beach visible to the 
+  west.  A gentle breeze pushes a thin layer of sand 
+  across the road ahead.  A small ship is toiling about 
+  in the harbor to the west, fishing.  Small specks, 
+  autonomously moving themselves about, mark 
+  themselves as people along the shoreline.
+{y}
+~
+498 0 1
+D0
+~
+~
+0 -1 49840
+D2
+~
+~
+0 -1 49842
+Z-1
+C-1
+R0
+S
+#49842
+{BLU,BO}Oceanview Road{blu,bo}~
+
+  {YEL}The earthen smell, born of the newly-clipped {GRE}grass{gre}{YEL} 
+  and mulched garden beds along {MAG}Amethyst Road{mag}{YEL} are 
+  quite suddenly replaced by the hearty smell of 
+  {BLU}m{GRE}a{BLU}r{GRE}i{BLU}n{GRE}e{r}{YEL} air, mixed with the rugged scent of sea life.  
+  To the west, a rustic building is picturesquely framed 
+  against the {BLU,BO}ocean{r}{YEL}.  Northwards, this road stretches 
+  into the distance.
+
+~
+498 4 1
+D0
+~
+~
+0 -1 49841
+D2
+~
+~
+0 -1 49843
+D3
+~
+~
+0 -1 49350
+Z-1
+C-1
+R0
+S
+#49843
+{M}Amethyst Street{m}~
+{MAG}
+  Connecting with Oceanview Road and 
+  Aquamarine Lane, Amethyst Street brings
+  you right through the center of coastal 
+  district. Monkey grass sways in the sea
+  breeze coming in from the west while
+  the sand burns brightly. A row of small
+  houses sits to the east.
+{mag}
+~
+498 0 1
+D0
+~
+~
+0 -1 49842
+D1
+~
+~
+0 -1 49844
+D3
+~
+~
+0 -1 49300
+Z-1
+C-1
+R0
+S
+#49844
+{M}Amethyst Street{m}~
+{MAG}
+  This narrow road is dotted with bungalows.
+  The road is covered over with freshly blown 
+  sand and the smell of fish wafts in from
+  the west. Tiger lilies in full bloom brighten
+  the little houses.
+{mag}
+~
+498 0 1
+D1
+~
+~
+0 -1 49845
+D3
+~
+~
+0 -1 49843
+Z-1
+C-1
+R0
+S
+#49845
+{M}Amethyst Street{m}~
+{M}
+  Amethyst Street runs right into the beach
+  where all the action is. Though the days 
+  are quiet, the early morning traffic and
+  late evening noise are a reminder that 
+  the boardwalk is still a happening place
+  to be. The rain clouds often let go as the
+  moisture in the air is sucked up and spit
+  back out on a daily basis.
+{m}
+~
+498 0 1
+D0
+~
+door~
+1 -1 49349
+D1
+~
+~
+0 -1 49846
+D3
+~
+~
+0 -1 49844
+Z-1
+C-1
+R0
+S
+#49846
+{M}Amethyst Street{m}~
+{M}
+  Amethyst Street runs right into the beach
+  where all the action is. Though the days 
+  are quiet, the early morning traffic and
+  late evening noise are a reminder that 
+  the boardwalk is still a happening place
+  to be. The rain clouds often let go as the
+  moisture in the air is sucked up and spit
+  back out on a daily basis.
+{m}
+~
+498 0 1
+D0
+~
+~
+0 -1 49348
+D1
+~
+~
+0 -1 49847
+D3
+~
+~
+0 -1 49845
+Z-1
+C-1
+R0
+S
+#49847
+{M}Amethyst Street{m}~
+{MAG}
+  Whether in the chill of the morning air or
+  in the heat of noon or the dank of night,
+  the Alchemist is up and working his wonders.
+  Perhaps, this is the reason that right here
+  on Amethyst Street the air is heavier and 
+  seems to glow a slight shade of purple.
+{mag}
+~
+498 0 1
+D0
+~
+~
+0 -1 49347
+D1
+~
+~
+0 -1 49848
+D3
+~
+~
+0 -1 49846
+Z-1
+C-1
+R0
+S
+#49848
+{M}Amethyst Street{m}~
+{MAG}
+  From the west comes a purple haze. Even
+  the rocks on the street seem to glow the
+  colour of amethysts in the sunlight. The 
+  path eastward leads to Main Street. 
+{mag}
+~
+498 0 1
+D1
+~
+~
+0 -1 49849
+D3
+~
+~
+0 -1 49847
+Z-1
+C-1
+R0
+S
+#49849
+{M}Amethyst Street{m}~
+{MAG}
+  From the west comes a periwinkle haze. Even
+  the rocks on the street seem to glow the
+  colour of amethysts in the sunlight. The 
+  path eastward leads to Main Street. 
+{mag}
+~
+498 0 1
+D1
+~
+~
+0 -1 49850
+D3
+~
+~
+0 -1 49848
+Z-1
+C-1
+R0
+S
+#49850
+{M}Amethyst Street{m}~
+{MAG}
+  The further from the beach the road
+  stretches, more trees and flowering
+  plants grow. East is Main Street. Far 
+  to the west is the boardwalk.
+{mag}
+~
+498 0 1
+D1
+~
+~
+0 -1 49851
+D3
+~
+~
+0 -1 49849
+Z-1
+C-1
+R0
+S
+#49851
+{R,BO}Main Street{r,bo}~
+{R}
+   Main Street comes to an end at {MAG}Amethyst 
+   Street{R}. Crossing over {MAG}Amethyst{R}, {GR,BO}Valley
+   Road {gr,bo}{R}stretches southward into the marsh 
+   lands. BUT who really wants to leave the
+   City of Eudelta? Head north on Main Street
+   and have some fun.
+{r}
+~
+498 0 1
+D0
+~
+~
+0 -1 49852
+D1
+~
+~
+0 -1 49307
+D2
+~
+~
+0 -1 49400
+D3
+~
+~
+0 -1 49850
+Z-1
+C-1
+R0
+S
+#49852
+{R,BO}Main Street{r,bo}~
+{R}
+  Main Street, Eudelta is the street where
+  it all happens: annual parades, festivals,
+  shopping, and fun. The streets have been
+  repaved and cobblestones set in place
+  after a movement to rebuild Eudelta as it
+  used to be. With the buildings restored, 
+  the old timers sit around remembering the
+  good old days and share tales of old.
+{r}
+~
+498 0 1
+D0
+~
+~
+0 -1 49853
+D1
+~
+~
+0 -1 27600
+D2
+~
+~
+0 -1 49851
+Z-1
+C-1
+R0
+S
+#49853
+{R,BO}Main Street{r,bo}~
+{R}
+  To the west is the great Warrior Guild
+  Hall. Warriors gather at the hall to 
+  spar and trade battle stories. Out front
+  on Main Street stand statues of great
+  warriors lost long ago in battle.
+{r}
+~
+498 0 1
+D0
+~
+~
+0 -1 49854
+D2
+~
+~
+0 -1 49852
+D3
+~
+~
+0 -1 49374
+Z-1
+C-1
+R0
+S
+#49854
+{R,BO}Main Street{r,bo}~
+{R}
+  Main Street, Eudelta is the street where
+  it all happens: annual parades, festivals,
+  shopping, and fun. The streets have been
+  repaved and cobblestones set in place
+  after a movement to rebuild Eudelta as it
+  used to be. With the buildings restored, 
+  the old timers sit around remembering the
+  good old days and share tales of old.
+{r}
+~
+498 0 1
+D0
+~
+~
+0 -1 49855
+D2
+~
+~
+0 -1 49853
+Z-1
+C-1
+R0
+S
+#49855
+{R,BO}Main Street{r,bo}~
+{R}
+  The giant marble bank to the west hasn't
+  been robbed in a hundred years. It's a 
+  sound structure overlooking the park on 
+  the east side of Main Street. The park too
+  has been there for hundreds of years and
+  only grows in beauty. Both are evidence 
+  of Eudelta's safety.
+{r}
+~
+498 0 1
+D0
+~
+~
+0 -1 49856
+D1
+~
+~
+0 -1 49691
+D2
+~
+~
+0 -1 49854
+D3
+~
+~
+0 -1 49345
+Z-1
+C-1
+R0
+S
+#49856
+{R,BO}Main Street{r,bo}~
+{R}
+  Main Street, Eudelta is the street where
+  it all happens: annual parades, festivals,
+  shopping, and fun. The streets have been
+  repaved and cobblestones set in place
+  after a movement to rebuild Eudelta as it
+  used to be. With the buildings restored, 
+  the old timers sit around remembering the
+  good old days and share tales of old.
+{r}
+~
+498 0 1
+D0
+~
+~
+0 -1 49857
+D2
+~
+~
+0 -1 49855
+Z-1
+C-1
+R0
+S
+#49857
+{R,BO}Main Street{r,bo}~
+{R}
+  East of here is the Weapon Shop where
+  the finest pieces can be bought and sold.
+  There are weapons to fit every budget.
+  The law of Eudelta permits citizens to 
+  possess weapons of any kind. It is this 
+  law that has given credit for Eudelta's 
+  peaceful and long existence. 
+{r}
+~
+498 0 1
+D0
+~
+~
+0 -1 49858
+D1
+~
+~
+0 -1 49346
+D2
+~
+~
+0 -1 49856
+Z-1
+C-1
+R0
+S
+#49858
+{R,BO}Main Street{r,bo}~
+{R}
+  This has got to be the greatest section 
+  of town between the Weapon Shop south and
+  east of here, the Armoury directly east, 
+  the Smithy to the west. Everything is so
+  convenient for everyone. Eudelta Square 
+  in directly north. 
+{r}
+~
+498 0 1
+D0
+~
+~
+0 -1 49800
+D1
+~
+~
+0 -1 49337
+D2
+~
+~
+0 -1 49857
+D3
+~
+~
+0 -1 49397
+Z-1
+C-1
+R0
+S
+#49859
+{R,BO}Main Street{r,bo}~
+
+  {R}Main Street offers many services
+  to the people of Eudelta. To the
+  east lies the {BO,BLU}Post Office{bo,R} and to
+  the west lies Merlin's mysterious
+  {BO,M}Bargain Magic Shop{bo,R}.{bo}
+
+~
+498 0 1
+D0
+~
+~
+0 -1 49860
+D1
+~
+~
+0 -1 49366
+D2
+~
+~
+0 -1 49800
+D3
+~
+~
+0 -1 49398
+Z-1
+C-1
+R0
+S
+#49860
+{R,BO}Main Street{r,bo}~
+
+  {R}Main Street offers many services to
+  the people of Eudelta. The smell of
+  serenity comes from  {BO,C}Hotel Eudelta{bo,R},
+  to the west.  Hardened battle cries
+  can be heard in the  {BO,W}Training Room{bo,R}
+  to the east.{bo}
+
+~
+498 0 1
+D0
+~
+~
+0 -1 49861
+D2
+~
+~
+0 -1 49859
+D3
+~
+~
+0 -1 49355
+Z-1
+C-1
+R0
+S
+#49861
+{R,BO}Main Street{r,bo}~
+{R}
+  Main Street, Eudelta is the street
+  where it all happens: annual parades,
+  festivals, shopping, and fun. The
+  streets have been repaved and cobblestones
+  set in place after a movement to rebuild
+  Eudelta as it used to be.  With the 
+  buildings restored, the old timers sit
+  around and remember the good old days.
+{r}
+~
+498 0 1
+D0
+~
+~
+0 -1 49862
+D2
+~
+~
+0 -1 49860
+Z-1
+C-1
+R0
+S
+#49862
+{R,BO}Main Street{r,bo}~
+{R}
+  The crossroads often cause people to stop and
+  ponder the direction to take. Here's a clue:
+  Fishermans Alley leads right to the beach and
+  is a great alternate route to take in the
+  traffic of the beach season, but in doing so
+  one has to endure the dock traffic of the alley.
+  Ancestor's Street is the complete opposite of
+  the alley. It is a place of reverence and respect
+  for all things and people. 
+{r}
+~
+498 0 1
+D0
+~
+~
+0 -1 49863
+D1
+~
+~
+0 -1 49325
+D2
+~
+~
+0 -1 49861
+D3
+~
+~
+0 -1 49867
+Z-1
+C-1
+R0
+S
+#49863
+{R,BO}Main Street{r,bo}~
+{R}
+  Main Street, Eudelta is the street
+  where it all happens: annual parades,
+  festivals, shopping, and fun. The
+  streets have been repaved and cobblestones
+  set in place after a movement to rebuild
+  Eudelta as it used to be.  With the 
+  buildings restored, the old timers sit
+  around and remember the good old days.
+{r}
+~
+498 0 1
+D0
+~
+~
+0 -1 49864
+D2
+~
+~
+0 -1 49862
+Z-1
+C-1
+R0
+S
+#49864
+{R,BO}Main Street{r,bo}~
+{R}
+  Before heading north and venturing out
+  of this great city's limits, many take
+  time to stop and consider heading west
+  along Leatherworkers road to do a bit
+  of shopping.
+{r}
+~
+498 0 1
+D0
+~
+~
+0 -1 49865
+D2
+~
+~
+0 -1 49863
+D3
+~
+~
+0 -1 49874
+Z-1
+C-1
+R0
+S
+#49865
+{R,BO}Main Street{r,bo}~
+{R}
+  Main Street, Eudelta is the street
+  where it all happens: annual parades,
+  festivals, shopping, and fun. The
+  streets have been repaved and cobble
+  stones set in place after a movement
+  to rebuild Eudelta as it used to be.
+  With the buildings restored, the old
+  timers sit around and remember the
+  good old days.
+{r}
+~
+498 0 1
+D0
+~
+~
+0 -1 49866
+D2
+~
+~
+0 -1 49864
+D3
+~
+~
+0 -1 700
+Z-1
+C-1
+R0
+S
+#49866
+{R,BO}Main Street{r,bo}~
+{R}
+  Main Street, Eudelta is the street
+  where it all happens: annual parades,
+  festivals, shopping, and fun. The
+  streets have been repaved and cobblestones
+  set in place after a movement to rebuild
+  Eudelta as it used to be.  With the 
+  buildings restored, the old timers sit
+  around and remember the good old days.
+{r}
+~
+498 0 1
+D0
+~
+~
+0 -1 49600
+D2
+~
+~
+0 -1 49865
+Z-1
+C-1
+R0
+S
+#49867
+{BLU}Fishermans Alley{blu}~
+{BLUE}
+  Up from the docks and into the back entrances
+  of Eudelta's shops, workers move goods along
+  Fishermans Alley. Orders of spices and dyes
+  from around the world are carried in crates
+  to Sabrina's and the Tattoo Parlor. Meanwhile,
+  fresh seafood is deposited in the freezers of
+  the Happy Clam.
+{blue}
+~
+498 1 1
+D0
+~
+~
+0 -1 49343
+D1
+~
+~
+0 -1 49862
+D3
+~
+~
+0 -1 49868
+Z6
+C-1
+R0
+S
+#49868
+{BLU}Fishermans Alley{blu}~
+{BLUE}
+  Up from the docks and into the back entrances
+  of Eudelta's shops, workers move goods along
+  Fishermans Alley. Orders of spices and dyes
+  from around the world are carried in crates
+  to Sabrina's and the Tattoo Parlor. Meanwhile,
+  fresh seafood is deposited in the freezers of
+  the Happy Clam.
+{blue}
+~
+498 1 1
+D0
+~
+~
+0 -1 49342
+D1
+~
+~
+0 -1 49867
+D3
+~
+~
+0 -1 49869
+Z6
+C-1
+R0
+S
+#49869
+{BLU}Fishermans Alley{blu}~
+{BLUE}
+  Up from the docks and into the back entrances
+  of Eudelta's shops, workers move goods along
+  Fishermans Alley. Orders of spices and dyes
+  from around the world are carried in crates
+  to Sabrina's and the Tattoo Parlor. Meanwhile,
+  fresh seafood is deposited in the freezers of
+  the Happy Clam.
+{blue}
+~
+498 1 1
+D1
+~
+~
+0 -1 49868
+D3
+~
+~
+0 -1 49870
+Z6
+C-1
+R0
+S
+#49870
+{BLU}Fishermans Alley{blu}~
+{BLUE}
+  Up from the docks and into the back entrances
+  of Eudelta's shops, workers move goods along
+  Fishermans Alley. Orders of spices and dyes
+  from around the world are carried in crates
+  to Sabrina's and the Tattoo Parlor. Meanwhile,
+  fresh seafood is deposited in the freezers of
+  the Happy Clam.
+{blue}
+~
+498 1 1
+D0
+~
+~
+0 -1 49338
+D1
+~
+~
+0 -1 49869
+D3
+~
+~
+0 -1 49871
+Z6
+C-1
+R0
+S
+#49871
+{BLU}Fishermans Alley{blu}~
+{BLUE}
+  Up from the docks and into the back entrances
+  of Eudelta's shops, workers move goods along
+  Fishermans Alley. Orders of spices and dyes
+  from around the world are carried in crates
+  to Sabrina's and the Tattoo Parlor. Meanwhile,
+  fresh seafood is deposited in the freezers of
+  the Happy Clam.
+{blue}
+~
+498 1 1
+D1
+~
+~
+0 -1 49870
+D2
+~
+backdoor back door~
+1 -1 49385
+D3
+~
+~
+0 -1 49872
+Z6
+C-1
+R0
+S
+#49872
+{BLU}Fishermans Alley{blu}~
+{BLUE}
+  Up from the docks and into the back entrances
+  of Eudelta's shops, workers move goods along
+  Fishermans Alley. Orders of spices and dyes
+  from around the world are carried in crates
+  to Sabrina's and the Tattoo Parlor. Meanwhile,
+  fresh seafood is deposited in the freezers of
+  the Happy Clam.
+{blue}
+~
+498 1 1
+D0
+~
+~
+0 -1 49383
+D1
+~
+~
+0 -1 49871
+D3
+~
+~
+0 -1 49873
+Z6
+C-1
+R0
+S
+#49873
+{BLU}Fishermans Alley{blu}~
+{BLUE}
+  Up from the docks and into the back entrances
+  of Eudelta's shops, workers move goods along
+  Fishermans Alley. Orders of spices and dyes
+  from around the world are carried in crates
+  to Sabrina's and the Tattoo Parlor. Meanwhile,
+  fresh seafood is deposited in the freezers of
+  the Happy Clam.
+{blue}
+~
+498 1 1
+D1
+~
+~
+0 -1 49872
+D3
+~
+~
+0 -1 49820
+Z6
+C-1
+R0
+S
+#49874
+{Y}Leatherworkers Road{y}~
+{Y}
+  Leatherworkers Road is the place to find
+  the talented and crafty workers of Eudelta.
+  Tattoos, magical remedies, old and used 
+  goods can all be purchased a bit west of 
+  this point.
+{y}
+~
+498 0 1
+D1
+~
+~
+0 -1 49864
+D3
+~
+~
+0 -1 49875
+Z-1
+C-1
+R0
+S
+#49875
+{Y}Leatherworkers Road{y}~
+{Y}
+  To the south, the Pawn Shop window boasts
+  trinkets and treasures of days gone by.
+  Many stop and cash in their most prized
+  possessions to pay debts or afford newer
+  goods. Perhaps, it is a place worth the
+  stop. Further west, more tradesman work
+  to share their talents with the world 
+  while eastward lies Main Street.
+{y}
+~
+498 0 1
+D1
+~
+~
+0 -1 49874
+D2
+~
+~
+0 -1 49342
+D3
+~
+~
+0 -1 49876
+Z-1
+C-1
+R0
+S
+#49876
+{Y}Leatherworkers Road{y}~
+{Y}
+  Leatherworkers Road is narrow and very busy.
+  Some say it is a bad place to be. Others find
+  the unique shops a joy to explore. Either way,
+  the dusty road and old wooden buildings are
+  similar to those of the wild west right down
+  to the trash barrels outside the stores.
+{y}
+~
+498 0 1
+D1
+~
+~
+0 -1 49875
+D3
+~
+~
+0 -1 49877
+Z-1
+C-1
+R0
+S
+#49877
+{Y}Leatherworkers Road{y}~
+{Y}
+  To the south, there is a dark store front
+  with a sign that points around to the back 
+  of the building. Tattoos have become a much
+  desired form of art, but the industry appears
+  as dark and hidden as ever. East of here is 
+  Main Street.  The dusty road stretches on to
+  the west.
+{y}
+~
+498 0 1
+D1
+~
+~
+0 -1 49876
+D2
+~
+~
+0 -1 49338
+D3
+~
+~
+0 -1 49878
+Z-1
+C-1
+R0
+S
+#49878
+{Y}Leatherworkers Road{y}~
+{Y}
+  Street vendors wander up and down the
+  road hoping someone will buy their wares.
+  Adventurers brag of bargains and show 
+  the tresures they found. The dusty road
+  is bustling.
+{y}
+~
+498 0 1
+D1
+~
+~
+0 -1 49877
+D3
+~
+~
+0 -1 49879
+Z-1
+C-1
+R0
+S
+#49879
+{Y}Leatherworkers Road{y}~
+{Y}
+  To the south, there is a small shop
+  owned by Sabrina, the witch. Could be
+  an interesting place to visit. To the
+  west, Leatherworkers Road stretches 
+  into Lands End Road while eastward lies
+  Main Street and more shops.
+{y}
+~
+498 0 1
+D1
+~
+~
+0 -1 49878
+D2
+~
+~
+0 -1 49383
+D3
+~
+~
+0 -1 49880
+Z-1
+C-1
+R0
+S
+#49880
+{Y}Leatherworkers Road{y}~
+{Y}
+  Street vendors wander up and down the
+  road hoping someone will buy their wares.
+  Adventurers brag of bargains and show 
+  the tresures they found. The dusty road
+  is bustling.
+{y}
+~
+498 0 1
+D1
+~
+~
+0 -1 49879
+D3
+~
+~
+0 -1 49831
+Z-1
+C-1
+R0
+S
+#49881
+{MAG} Lower Eudelta Square {mag}~
+{Y}
+  Shadowed by the above tier, bistros and delis fill
+  the air with a sweet aroma of roasted garlic and
+  basil. The two story fountain in the center sprays
+  water from the top tier sending it down into the  
+  the brazen bowl.  The mosaic reflects the sun 
+  illuminating the thousands of orange, yellow, gold
+  and blue tiles' abstract design.  A few ferns and 
+  ivies hang from the rustic wooden supports near the
+  bookshop and newsstand. The square is perpetually
+  bustling.
+{y}
+~
+498 8 1
+D0
+~
+~
+0 -1 49882
+D1
+~
+~
+0 -1 49399
+D2
+~
+~
+0 -1 49887
+D3
+~
+~
+0 -1 49890
+D4
+{CY,BO}
+  The sky is clear above the great fountain.  There are 
+  ivy plants cascading from above.  The twenty story 
+  buildings look twice as high from this depth. The upper
+  level's energy echoes as pedestrians shout to friends below.
+  The grand marble steps lead upward into a world of 
+  adventure and concrete.  Yet, the upper level seems 
+  cleaner somehow.
+{cy,bo}
+~
+~
+0 -1 49800
+D5
+{WH}
+  The sign over head reads -{wh}{R,BO}Subway to Midgaard{r,bo}{WH}. Looking down 
+  the marble ramp reveals the latest station technology 
+  has to offer.  The soundless rails and high speed train
+  await passengers.  From here it doesn't even look all 
+  that crowded. 
+{wh}
+~
+~
+0 -1 49889
+Z-1
+C-1
+R0
+S
+#49882
+{Y,BO}Gold Street{y,bo}~
+{Y,BO}
+  Though it is just a block from Pyrite Lane
+  and Market Street, turning that corner makes
+  all the difference. The world is brighter
+  on this side of Lower Eudelta Square. This 
+  northern sector of the older city is still
+  quite classy.
+{y,bo}
+~
+498 8 1
+D0
+~
+~
+0 -1 49883
+D2
+~
+~
+0 -1 49881
+Z-1
+C-1
+R0
+S
+#49883
+{Y,BO}Gold Street{y,bo}~
+{Y,BO}
+  Eudelta's finest hotel sits to the west.
+  The people of Gold Street walk by it as
+  if it is nothing special, but anyone can
+  see that the hotel is a place of extreme
+  beauty, comfort, and class. Only the best
+  things can be found here.
+{y,bo}
+~
+498 8 1
+D0
+~
+~
+0 -1 49884
+D2
+~
+~
+0 -1 49882
+D3
+~
+~
+0 -1 49356
+Z-1
+C-1
+R0
+S
+#49884
+{Y,BO}Gold Street{y,bo}~
+{Y,BO}
+  Who said life isn't perfect? The person
+  who said that must not have been to Gold
+  Street. Here everything is shiny. The 
+  children play nicely without harsh words 
+  and the adults all walk around showing off
+  all the good life has brought them.
+{y,bo}
+~
+498 8 1
+D0
+~
+~
+0 -1 49885
+D2
+~
+~
+0 -1 49883
+Z-1
+C-1
+R0
+S
+#49885
+{Y,BO}Gold Street{y,bo}~
+{Y,BO}
+  Just east of here is Eudelta's best 
+  kept secret, Dr. Hertzalot's office.
+  He's a fine physician despite his name.
+  His office fits in nicely with the 
+  surroundings as it has beautiful windows
+  and a large ornately decorated entry way.
+  The street here is so clean.
+{y,bo}
+~
+498 8 1
+D0
+~
+~
+0 -1 49886
+D1
+~
+~
+0 -1 49340
+D2
+~
+~
+0 -1 49884
+Z-1
+C-1
+R0
+S
+#49886
+{Y,BO}Gold Street{y,bo}~
+{Y,BO}
+  Gold Street is the home of fine 
+  shopping and dining. Those who are
+  lucky enough to afford housing here
+  live a great life. The streets are 
+  clean and safe. 
+{y,bo}
+~
+498 8 1
+D2
+~
+~
+0 -1 49885
+Z-1
+C-1
+R0
+S
+#49887
+{Y}Pyrite Lane{y}~
+{Y}
+  Though the world sometimes shimmers like gold,
+  Pyrite Lane is a gloomy place. A few older 
+  shops stuck between the old water and electric
+  company buildings offer a refuge from the daily
+  grind of those who work on this street. The old
+  factories pump thick smoke into the atmosphere.
+  Paint peels off the sides of the buildings adding
+  to the dreary look of Pyrite Lane.
+{y}
+~
+498 12 1
+D0
+~
+~
+0 -1 49881
+D2
+~
+~
+0 -1 49888
+D3
+~
+~
+0 -1 49344
+Z-1
+C-1
+R0
+S
+#49888
+{Y}Pyrite Lane{y}~
+{Y}
+  While other parts of Eudelta look as new 
+  as the day the city was opened, this sector
+  has been left to fend for itself. Tucked in 
+  the underworld of the upper levels, Pyrite
+  Lane is dingy and dirty. Workers rush about
+  answering the call of factory whistles. The
+  broken, boarded windows are a constant 
+  reminder that this is a high crime area.
+{y}
+~
+498 8 1
+D0
+~
+~
+0 -1 49887
+D2
+~
+~
+0 -1 49898
+Z-1
+C-1
+R0
+S
+#49889
+{C}Eudelta Subway Station{c}~
+{R,BO}
+  The bright tiles show the way through the turn-
+  stile to the subway's main platform.  The subway 
+  to Midgaard has become a main attraction as well 
+  as a gathering place for adventurers.  Enter the 
+  subway and begin a new adventure.
+{r,bo}
+~
+498 8205 1
+D4
+{Y} 
+  The steps lead to a large gathering place. The smell
+  of food wafts down into the subway station inviting
+  all to indulge. The large fountain sparkles in the 
+  light. What does this city have to offer? Only one 
+  way to find out...
+{y}
+~
+~
+0 -1 49881
+Z-1
+C-1
+R0
+S
+#49890
+{BLA,BO}Market Street{bla,bo}~
+{BLACK,BO}
+  Here the street is in ill repair and the shops need 
+  updating. However, old timers remember this place 
+  fondly. The red, green and white awning of the Deli
+  still welcomes all and Geno himself is there to 
+  ensure the friendliest service around.  
+{black,bo}
+~
+498 9 1
+D1
+~
+~
+0 -1 49881
+D2
+~
+~
+0 -1 49344
+D3
+~
+~
+0 -1 49891
+Z5
+C-1
+R0
+S
+#49891
+{BLA,BO}Market Street{bla,bo}~
+{BLACK,BO}
+  This isn't the best place to be. Watch your back.
+  Hold your money. Thieves and pickpockets call this
+  street home. The dark alleys and darkened doorways
+  would be the first clue that this is not a place 
+  to relax. Get in and get out.
+{black,bo}
+~
+498 9 1
+D1
+~
+~
+0 -1 49890
+D3
+~
+~
+0 -1 49892
+Z5
+C-1
+R0
+S
+#49892
+{BLA,BO}Market Street{bla,bo}~
+{BL,BO}
+  Outside of Benson's Tavern, people
+  gather and talk in the street. With
+  so many people around, it would be 
+  best to keep moving. This section of
+  town often finds trouble. Hmm...
+  Is that a pawn shop to the south?
+{bl,bo}
+~
+498 9 1
+D0
+~
+~
+0 -1 49599
+D1
+~
+~
+0 -1 49891
+D2
+~
+~
+0 -1 49376
+D3
+~
+~
+0 -1 49893
+Z5
+C-1
+R0
+S
+#49893
+{BLA,BO}Market Street{bla,bo}~
+{BL,BO}
+  The dim lights of Market Street shine
+  on the wares of the kiosks which line 
+  the street. Everything from weapons to 
+  pottery sells here on the street. Though
+  many items look like a great bargain,
+  it is best to check its source.
+{bl,bo}
+~
+498 9 1
+D1
+~
+~
+0 -1 49892
+D3
+~
+~
+0 -1 49894
+Z5
+C-1
+R0
+S
+#49894
+{BLA,BO}Market Street{bla,bo}~
+{BL,BO}
+  Market Street is not the cleanest part of the
+  city though city officials try to keep it clean. 
+  Shoppers and vendors scurry about pulling goods 
+  in and out of storage in hope to find jsut the 
+  right items. Far too often, items end up like 
+  trash on the street.
+{bl,bo}
+~
+498 9 1
+D0
+~
+~
+0 -1 49595
+D1
+~
+~
+0 -1 49893
+D3
+~
+~
+0 -1 49895
+Z5
+C-1
+R0
+S
+#49895
+{BLA,BO}Market Street{bla,bo}~
+{BL,BO}
+  Looking through store windows used to 
+  be a pleasant thing for the citizens
+  of this sector. Now, it is a dead hobby.
+  With increased crime on this street,
+  many of the store owners are just happy to
+  still have windows. However, they  don't make 
+  a habit of decorating them any longer.
+{bl,bo}
+~
+498 9 1
+D1
+~
+~
+0 -1 49894
+D3
+~
+~
+0 -1 49896
+Z5
+C-1
+R0
+S
+#49896
+{BLA,BO}Market Street{bla,bo}~
+{BL,BO}
+  Something at this end of Market Street always
+  seemed magical. Some say it's the Mage's Guild 
+  south of here and other say it's the salty air
+  coming in from the west. Either way, Market 
+  Street's atmosphere changes at this point. The
+  old buildings, filthy walkways, and dim lighting 
+  seem to melt away.
+{bl,bo}
+~
+498 9 1
+D1
+~
+~
+0 -1 49895
+D2
+~
+~
+0 -1 49380
+D3
+~
+~
+0 -1 49897
+Z5
+C-1
+R0
+S
+#49897
+{C}A Ledge overlooking the Sea{c}~
+{CY}
+  Standing here next to the small picket fence
+  which blocks people from walking off the ledge
+  and falling to all that lies below, a fine 
+  salty mist and sense of calm fill the air.
+  Out in the distance, boats sit on the horizon.
+  On the beach below, children fly kites and 
+  lovers snuggle in the sand. Scrub pines and 
+  dune grass grow along the ledge. A deep breath
+  is all it takes to realize things aren't so bad.
+{cy}
+~
+498 4 4
+D1
+~
+~
+0 -1 49896
+D5
+~
+~
+0 -1 49502
+Z3
+C-1
+R0
+S
+#49898
+{Y}Pyrite Lane{y}~
+{Y}
+  Nestled between the large buildings, one 
+  rickety house still stands. Years of 
+  industry have eroded the integrity of
+  Pyrite Lane. Very few people choose to 
+  live here.
+{y}
+~
+498 8 1
+D0
+~
+~
+0 -1 49888
+D1
+~
+~
+0 -1 49365
+D5
+~
+cover manhole~
+1 -1 49110
+Z-1
+C-1
+R0
+S
+#49899
+{Y}The Dump{y}~
+{Y}
+  Not all things turn out to be as lovely
+  as they seemed at one point or another.
+  However, everything has its place in 
+  this world. Garbage belongs in the dump.
+  Whatever ends up here is unretrievable,
+  gone, kaput.{y}{R,BO,BLINK}
+  DO NOT DROP IT IF YOU INTEND TO KEEP IT!!
+{r,bo,blink}
+~
+498 4 1
+D2
+~
+~
+0 -1 49831
+X1024
+Z3
+C-1
+R0
+S
+$~

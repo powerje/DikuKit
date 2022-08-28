@@ -1,0 +1,119 @@
+#356
+Draynor Manor(Heathen)~
+35699 1500 2
+*
+X 2106032
+D 0 35602     0     1    (N:CLOSED) {BO,B}On the Stairs{bo,b}
+D 0 35603     2     1    (S:CLOSED) {BO,B}Inside the Mansion{bo,b}
+D 0 35604     1     2    (E:LOCKED) {BO,B}Deeper into the front room{bo,b}
+M 0 35613     7 35605    {BO,BLA}A small spider{bo,bla}
+M 0 35613     7 35605    {BO,BLA}A small spider{bo,bla}
+M 0 35613     7 35605    {BO,BLA}A small spider{bo,bla}
+M 0 35613     7 35605    {BO,BLA}A small spider{bo,bla}
+M 0 35605     6 35609    A giant bat
+D 0 35610     1     2    (E:LOCKED) {BO,B}Hallway{bo,b}
+M 0 35607     1 35611    A skeleton
+D 0 35611     3     0    (W:OPEN) {BO,B}In the closet{bo,b}
+D 0 35611     5     2    (D:LOCKED) {BO,B}In the closet{bo,b}
+M 0 35613     7 35612    {BO,BLA}A small spider{bo,bla}
+M 0 35613     7 35612    {BO,BLA}A small spider{bo,bla}
+M 0 35613     7 35612    {BO,BLA}A small spider{bo,bla}
+D 0 35613     1     1    (E:CLOSED) {BO,B}Entrance to the Kitchen{bo,b}
+D 0 35613     3     1    (W:CLOSED) {BO,B}Entrance to the Kitchen{bo,b}
+M 0 35608    12 35615    {BO,W}A small rat{bo,w}
+M 0 35608    12 35615    {BO,W}A small rat{bo,w}
+M 0 35608    12 35615    {BO,W}A small rat{bo,w}
+M 0 35608    12 35615    {BO,W}A small rat{bo,w}
+M 0 35608    12 35615    {BO,W}A small rat{bo,w}
+D 0 35616     0     1    (N:CLOSED) {BO,R}Kitchen{bo,r}
+D 0 35616     3     2    (W:LOCKED) {BO,R}Kitchen{bo,r}
+M 0 35612     1 35617    {BO,W}A Giant Rat{bo,w}
+O 0 35611     1 35617    A shelf
+P 1 35612     1 35611    {BO,R}A bottle of Poison{bo,r}
+P 1 35610     1 35611    {BO,R}A box of fish food{bo,r}
+D 0 35617     2     1    (S:CLOSED) {BO,R}Pantry{bo,r}
+D 0 35618     1     0    (E:OPEN) {BO,B}Back Porch{bo,b}
+M 0 35602    14 35620    A dead dog
+M 0 35602    14 35620    A dead dog
+M 0 35602    14 35621    A dead dog
+M 0 35602    14 35621    A dead dog
+M 0 35602    14 35622    A dead dog
+M 0 35602    14 35622    A dead dog
+M 0 35602    14 35623    A dead dog
+M 0 35602    14 35623    A dead dog
+M 0 35602    14 35625    A dead dog
+M 0 35602    14 35625    A dead dog
+M 0 35602    14 35626    A dead dog
+M 0 35602    14 35626    A dead dog
+M 0 35602    14 35627    A dead dog
+M 0 35602    14 35627    A dead dog
+O 0 35600     1 35628    {C}A marble fountain{bo}
+M 0 35603     1 35629    A large pirahna
+G 1 35608     1     0    A fish fin shaped like a key
+G 1 35603     1     0    A fish eye
+M 0 35604     6 35629    A small Pirahna
+M 0 35604     6 35629    A small Pirahna
+M 0 35604     6 35629    A small Pirahna
+M 0 35604     6 35629    A small Pirahna
+M 0 35604     6 35629    A small Pirahna
+M 0 35604     6 35629    A small Pirahna
+M 0 35601     6 35630    A Big Book
+D 0 35630     3     1    (W:CLOSED) {BO,B}The Library{bo,b}
+M 0 35601     6 35631    A Big Book
+M 0 35601     6 35631    A Big Book
+M 0 35601     6 35632    A Big Book
+M 0 35601     6 35632    A Big Book
+M 0 35601     6 35632    A Big Book
+O 0 35602     1 35632    A desk
+P 1 35609     1 35602    A brass Skeleton Key
+M 0 35610     1 35633    {BO,R}A Zombie Maid{bo,r}
+D 0 35633     3     0    (W:OPEN) {BO,R}Maids Quarters{bo,r}
+M 0 35611     1 35634    {BO,R}A Zombie Butler{bo,r}
+G 1 35613     1     0    {BO,R}A Vial of Blood{bo,r}
+D 0 35634     1     0    (E:OPEN) {BO,R}Butlers Chambers{bo,r}
+M 0 35605     6 35635    A giant bat
+M 0 35605     6 35635    A giant bat
+M 0 35605     6 35636    A giant bat
+M 0 35605     6 35636    A giant bat
+M 0 35605     6 35636    A giant bat
+D 0 35639     0     1    (N:CLOSED) {BO,CYAN}East Hall{bo,cyan}
+M 0 35600     1 35642    {W}A PO'ed Typewriter{bo}
+G 1 35606     1     0    A typewriter key
+D 0 35642     2     1    (S:CLOSED) {BO,B}The Study{bo}
+D 0 35645     0     2    (N:LOCKED) {BO,B}West Hall{bo}
+M 0 35606     1 35648    {BO,R}A large Werewolf{bo,r}
+O 0 35604     1 35648    Corpse of a vampire hunter
+P 1 35607     1 35604    A small house key
+P 1 35605     1 35604    {BLA}:::{BO,R}A wooden Sta{BO,W}ke>{bo,w}
+D 0 35648     2     0    (S:OPEN) {BO,W}The Master Bedroom{bo}
+M 0 35608    12 35649    {BO,W}A small rat{bo,w}
+M 0 35608    12 35649    {BO,W}A small rat{bo,w}
+M 0 35608    12 35649    {BO,W}A small rat{bo,w}
+M 0 35608    12 35649    {BO,W}A small rat{bo,w}
+M 0 35608    12 35649    {BO,W}A small rat{bo,w}
+D 0 35649     3     0    (W:OPEN) {BO,BLA}Basement{bo,bla}
+D 0 35649     4     0    (U:OPEN) {BO,BLA}Basement{bo,bla}
+M 0 35608    12 35650    {BO,W}A small rat{bo,w}
+M 0 35608    12 35650    {BO,W}A small rat{bo,w}
+D 0 35650     1     0    (E:OPEN) {BO,BLA}Basement{bo,bla}
+D 0 35650     3     2    (W:LOCKED) {BO,BLA}Basement{bo,bla}
+M 0 35609     1 35651    {BO,R}The Vampire Lord{bo,r}
+G 1 35615     1     0    {BO,R}S{BO,W}ome razor sharp fang{BO,R}S{bo,r}
+D 0 35651     1     2    (E:LOCKED) {BO,BLA}Tha Masters Chambers{bo,bla}
+M 0 39649     9 35653    {BO}{BLA}A {R}D{BLA}e{R}m{BLA}o{R}n {BLA}B{R}i{BLA}k{R}e{BLA}r{bo}{bla}
+M 0 39649     9 35654    {BO}{BLA}A {R}D{BLA}e{R}m{BLA}o{R}n {BLA}B{R}i{BLA}k{R}e{BLA}r{bo}{bla}
+M 0 39649     9 35654    {BO}{BLA}A {R}D{BLA}e{R}m{BLA}o{R}n {BLA}B{R}i{BLA}k{R}e{BLA}r{bo}{bla}
+M 0 39649     9 35654    {BO}{BLA}A {R}D{BLA}e{R}m{BLA}o{R}n {BLA}B{R}i{BLA}k{R}e{BLA}r{bo}{bla}
+M 0 39649     9 35654    {BO}{BLA}A {R}D{BLA}e{R}m{BLA}o{R}n {BLA}B{R}i{BLA}k{R}e{BLA}r{bo}{bla}
+M 0 39649     9 35655    {BO}{BLA}A {R}D{BLA}e{R}m{BLA}o{R}n {BLA}B{R}i{BLA}k{R}e{BLA}r{bo}{bla}
+M 0 39649     9 35655    {BO}{BLA}A {R}D{BLA}e{R}m{BLA}o{R}n {BLA}B{R}i{BLA}k{R}e{BLA}r{bo}{bla}
+M 0 39649     9 35656    {BO}{BLA}A {R}D{BLA}e{R}m{BLA}o{R}n {BLA}B{R}i{BLA}k{R}e{BLA}r{bo}{bla}
+M 0 39650     1 35656    {BO}{R}T{BLA}h{R}e {BLA}g{R}a{BLA}n{R}g {BLA}l{R}e{BLA}a{R}d{BLA}e{R}r{bo}{r}
+M 0 39649     9 35656    {BO}{BLA}A {R}D{BLA}e{R}m{BLA}o{R}n {BLA}B{R}i{BLA}k{R}e{BLA}r{bo}{bla}
+M 0 39651     5 35658    {BO}{W}A cloud of mist{bo}{w}
+M 0 39651     5 35659    {BO}{W}A cloud of mist{bo}{w}
+O 0 35626     1 35659    A large kitchen drawer that is sitting in the corner.
+M 0 39651     5 35660    {BO}{W}A cloud of mist{bo}{w}
+M 0 39651     5 35661    {BO}{W}A cloud of mist{bo}{w}
+M 0 39651     5 35662    {BO}{W}A cloud of mist{bo}{w}
+$~

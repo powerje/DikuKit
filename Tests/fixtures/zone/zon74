@@ -1,0 +1,140 @@
+#74
+ Tunnels and Olympus(Loco)~
+7499 30 1
+*
+D 0  7404     2     1    (S:CLOSED) Cave turning-point
+D 0  7405     0     1    (N:CLOSED) The secret room
+D 0  7405     2     1    (S:CLOSED) The secret room
+M 0  7044     1  7406    The lemure
+D 0  7406     0     1    (N:CLOSED) The mudhole
+D 0  7415     0     1    (N:CLOSED) The blind end room
+D 0  7416     2     1    (S:CLOSED) The treasure room
+D 0  7418     1     1    (E:CLOSED) The square lair
+M 0  7045     1  7419    Jones 'cruncher' the ettin
+D 0  7421     3     1    (W:CLOSED) East tunnel
+M 0  7046     1  7424    Herald 'the mouse-killer' ettin
+D 0  7424     1     1    (E:CLOSED) The Circular hall.
+D 0  7425     3     1    (W:CLOSED) Dusty tunnel
+M 0  7040     1  7428    {RED}The red dragon{red}
+E 1  1000     2     4    (NECK) a pair of wings
+M 0  7010     1  7429    the evil chr-eff'n
+M 0  7042     1  7435    The guardian naga
+M 0  7043     1  7439    The scaled basilisk
+M 0  7041     1  7444    The sea hag
+M 0  7423     8  7450    A citizen
+M 0  7423     8  7450    A citizen
+M 0  7423     8  7451    A citizen
+M 0  7423     8  7452    A citizen
+M 0  7423     8  7452    A citizen
+M 0  7423     8  7453    A citizen
+M 0  7401     1  7455    Zeus
+E 1  7400     4     5    (BODY) {Y}{BO}The Aegis{y}
+E 1  7401     3    16    (WIELD) {R}{BO}T{Y}h{R}e{Y} T{R}h{Y}u{R}n{Y}d{R}e{Y}r{R}{Y} B{R}o{Y}l{R}t{r}
+G 1  7426    10     0    nectar
+G 1  7409   755     0    ambrosia
+D 0  7455     5     1    (D:CLOSED) {CY}Throne {BL,BO}Room{bl}
+M 0  7425     2  7459    A Cook
+M 0  7425     2  7459    A Cook
+O 0  7400     4  7461    {Y}{BO}The Aegis{y}
+M 0  7426     1  7463    The Jailer
+G 1  7427     1     0    A Cell key
+D 0  7463     4     0    (U:OPEN) {BL,BOL}D{b}{BL}u{BL,BO}n{b}{BL}g{BL,BO}e{b}{BL}o{BL,BO}n{b}
+D 0  7464     0     2    (N:LOCKED) {BL,BOL}D{b}{BL}u{BL,BO}n{b}{BL}g{BL,BO}e{b}{BL}o{BL,BO}n{b}
+D 0  7464     1     2    (E:LOCKED) {BL,BOL}D{b}{BL}u{BL,BO}n{b}{BL}g{BL,BO}e{b}{BL}o{BL,BO}n{b}
+D 0  7464     3     2    (W:LOCKED) {BL,BOL}D{b}{BL}u{BL,BO}n{b}{BL}g{BL,BO}e{b}{BL}o{BL,BO}n{b}
+D 0  7464     5     2    (D:LOCKED) {BL,BOL}D{b}{BL}u{BL,BO}n{b}{BL}g{BL,BO}e{b}{BL}o{BL,BO}n{b}
+M 0  7402     1  7465    Prometheus
+E 1  7408     5     9    (HANDS) {R}Fla{Y}min{y}{R}g Gau{Y}ntl{R}ets{r}
+D 0  7465     2     2    (S:LOCKED) {BL,BOL}Cell{bl}
+M 0  7420     2  7466    a chimera
+D 0  7466     1     2    (E:LOCKED) {BL,BOL}Cell{bl}
+M 0  7420     2  7467    a chimera
+D 0  7467     3     2    (W:LOCKED) {BL,BOL}Cell{bl}
+M 0  7415     1  7469    Julius the Green Grocer
+G 1  7421     3     0    a kiwi
+G 1  7420     1     0    a orange
+G 1  7419     3     0    a pear
+G 1  7418     1     0    an apple
+G 1  7414     3     0    a bunch of grapes
+M 0  7412     2  7470    A serving boy
+E 1  7415     2    17    (HELD) a fan made of peacock feathers
+G 1  7414     3     0    a bunch of grapes
+M 0  7412     2  7470    A serving boy
+E 1  7415     2    17    (HELD) a fan made of peacock feathers
+G 1  7414     3     0    a bunch of grapes
+M 0  7407     1  7470    Athena
+E 1  7410     3     3    (NECK) {Y}a {Y}{BOLD}glowing{y}{Y} necklace{y}
+E 1  7405     2    17    (HELD) an ivory staff
+G 1  7426    10     0    nectar
+G 1  7409   755     0    ambrosia
+M 0  7411     2  7471    an apprentice musician
+E 1  7416     2    17    (HELD) a lute
+G 1  7421     3     0    a kiwi
+M 0  7411     2  7471    an apprentice musician
+E 1  7416     2    17    (HELD) a lute
+G 1  7421     3     0    a kiwi
+M 0  7405     1  7471    Apollo
+E 1  7407     2    16    (WIELD) a silver bow
+G 1  7426    10     0    nectar
+G 1  7409   755     0    ambrosia
+M 0  7416     1  7472    the Alchemist
+G 1  7426    10     0    nectar
+G 1  7410     3     0    {Y}a {Y}{BOLD}glowing{y}{Y} necklace{y}
+G 1  7409   755     0    ambrosia
+G 1  7405     2     0    an ivory staff
+M 0  7423     8  7473    A citizen
+M 0  7414     1  7474    Odin
+E 1  7425     1     6    (HEAD) a wide brimmed hat
+E 1  7424     1    12    (ABOUT) {BLUE}{BOLD}a blue robe{blue}
+M 0  7419     1  7476    Ra the Sun God
+E 1  7422     2     3    (NECK) {Y}{BO}the Amulet of Ra{y}
+E 1  7423     2    16    (WIELD) {WH}{BO}the Sword of the {Y}{BO}Sun{y}
+M 0  7424     2  7478    a pegasus
+M 0  7424     2  7478    a pegasus
+M 0  7422     2  7478    a roc
+M 0  7422     2  7478    a roc
+M 0  7423     8  7479    A citizen
+M 0  7418     1  7480    Samuel the Armourer
+G 1  7411     3     0    {CY}{BO}a sapphire ring{cy}
+G 1  7408     5     0    {R}Fla{Y}min{y}{R}g Gau{Y}ntl{R}ets{r}
+M 0  7417     1  7481    Clive the Weapons Master
+G 1  7413     3     0    a notched axe
+G 1  7407     2     0    a silver bow
+M 0  7409     2  7482    A Golden Maiden
+G 1  7417     2     0    a gold nugget
+M 0  7409     2  7482    A Golden Maiden
+G 1  7417     2     0    a gold nugget
+M 0  7408     1  7482    Hephaestus
+E 1  7412     2    11    (SHIELD) {W}{BO}a brightly{Y}{BOLD} glowing{y}{BOLD}{W} shield{w}
+G 1  7426    10     0    nectar
+G 1  7409   755     0    ambrosia
+D 0  7482     3     1    (W:CLOSED) {BL}S{b}{RED}m{RE,BO}it{b}{RE}h{BL}y{bl}
+M 0  7410     2  7483    A Soldier
+E 1  7413     3    16    (WIELD) a notched axe
+G 1  7419     3     0    a pear
+M 0  7410     2  7483    A Soldier
+E 1  7413     3    16    (WIELD) a notched axe
+G 1  7419     3     0    a pear
+M 0  7406     1  7483    Ares
+E 1  7403     1    16    (WIELD) the Spear of Ares
+G 1  7426    10     0    nectar
+G 1  7409   755     0    ambrosia
+D 0  7484     4     1    (U:CLOSED) {BL,BO}Second {b}{WH}Floor{bl}
+M 0  7421     1  7490    Hera
+G 1  7426    10     0    nectar
+G 1  7411     3     0    {CY}{BO}a sapphire ring{cy}
+G 1  7409   755     0    ambrosia
+M 0  7404     1  7491    Poseidon
+E 1  7406     2    16    (WIELD) Poseidon's Trident
+G 1  7426    10     0    nectar
+G 1  7409   755     0    ambrosia
+M 0  7403     1  7492    Hermes
+E 1  7402     2     6    (HEAD) {C,BO}A Winged Helmet{c,bo}
+E 1  7404     2     8    (FEET) {Y}{BO}a pair of winged sandals{y}
+G 1  7426    10     0    nectar
+G 1  7409   755     0    ambrosia
+D 0  7493     5     1    (D:CLOSED) {BL,BO}Hall {bo}{CYAN}Of {RE,BO}Gods{re}
+M 0  7413     3  7499    A hound of war
+M 0  7413     3  7499    A hound of war
+M 0  7413     3  7499    A hound of war
+$~

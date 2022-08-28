@@ -1,0 +1,1984 @@
+#30500
+Molecular's Temporary Laboratory~
+
+     You find yourself inside some sort of strange molecular laboratory.
+Chemicals shelve the walls, each bottle and flask with symbol-strewn labels
+on them.  Perhaps it is best for your general health to not touch anything!
+You can't help but to be drawn to the strange equipment and fascinating
+contraptions that line the room and cover the benches.
+~
+305 1028 1
+D0
+~
+~
+0 -1 30501
+D3
+~
+~
+0 -1 2000
+D4
+~
+~
+0 -1 2010
+T30500
+Z3
+C-1
+S
+#30501
+A Little Deeper into the Lab...~
+
+     You have perhaps ventured somewhat further than you may have wanted.
+Be careful, because the things which surround you are completely unfamiliar
+to you.  You can't help but be a little worried.
+~
+305 0 1
+D0
+~
+~
+0 -1 30503
+D1
+~
+~
+0 -1 30508
+D2
+~
+~
+0 -1 30500
+E
+glass~
+You see a glass panel which slides up and down...
+~
+T30501
+Z3
+C-1
+S
+#30502
+Inside the Hood~
+
+     You are now within the Fume Hood.  Air is rushing by you and seems to
+be heading toward some device above you.  Maybe it seemed like a good idea
+at the time to crawl in here, but it doesn't now!  What is that plexiglass
+shield-like thing resting on the metallic surface?? It has two of those little
+yellow stickers with the funny symbols on them...
+     As you peer up into the shaft cautiously, trying not to clang your armor 
+against the surgical steel surface, you think you hear a slight screeching 
+sound over the noise of the wind rushing by your ears.
+~
+305 68 1
+D0
+~
+glass~
+1 -1 30505
+D4
+You see a metal flue-like flap.
+~
+flap~
+1 -1 30525
+E
+sticker yellow symbol~
+The bright yellow and red sticker exclaims WARNING:: -- RADIOACTIVITY --
+~
+Z3
+C-1
+S
+#30503
+By the center bench~
+
+
+     Here is the beginning of the lab bench which appears to be central in
+the room.  A giant pile of papers and volumes of protocols are on the very
+end of the bench, ready to topple onto floor.  The bench is covered with papers and unsuccessful experiments.  You wonder if it is safe to be left like
+this...Ah, what the hell - They know what they are doing, Right??
+
+     Swarms of fruit flys suddenly come at you!  Someone must have opened or
+dropped a vial of them for an experiment...
+
+~
+305 0 1
+D0
+~
+~
+0 -1 30504
+D2
+~
+~
+0 -1 30501
+Z3
+C-1
+S
+#30504
+End of a Lab Bench~
+
+     One of the benches ends at this point, but the aisle extends further into 
+a storage closet.  Directly the west is also a cold room, where protein 
+biochemistry and column work is done.  
+~
+305 0 1
+D0
+~
+~
+0 -1 30512
+D2
+~
+~
+0 -1 30503
+D3
+~
+~
+0 -1 30513
+Z3
+C-1
+S
+#30505
+In a corner of the lab~
+
+     You are now standing in a corner, near a lot of expensive looking 
+equipment.  Everything seems to have a funny yellow sticker with a symbol
+on it.  There is a PCR machine and incubator toward the east and some
+very large, mean looking, metal contraption stretching from the floor to the 
+ceiling to the south.  There is a steady flow of air being sucked on by
+you INTO the device...what the hell IS that?
+~
+305 0 1
+D0
+~
+~
+0 -1 30506
+D1
+A large metal door with digital temperature gauge is here.
+~
+metal~
+1 -1 30507
+D2
+You see a large glass panel which slides up and down.
+~
+glass~
+1 -1 30502
+D3
+~
+~
+0 -1 30508
+E
+sticker yellow symbol~
+The bright yellow and red sticker exclaims WARNING:: -- RADIOACTIVITY --
+~
+Z3
+C-1
+S
+#30506
+A wall lab bench~
+
+     The bench on the east wall continues.  Above the bench are shelves upon
+shelves of countless bottles of reagents and growth media, probably some
+cobwebs too.  You see an abandoned lab notebook laying here with fresh pencil
+marks on it...Where did this person go?  Probably trying to get away from the 
+hoards of students roaming around looking for the professor to answer their 
+questions about Mitosis.  They sure are blocking your way!
+~
+305 0 1
+D0
+~
+~
+0 -1 30509
+D2
+~
+~
+0 -1 30505
+E
+notebook book note notes pencil~
+Hmmm...upon closer investigation, it DOES look as though some had to leave
+in an awful hurry!  They left in the middle of a sentence...where the hell
+did they have to go in such a hurry?
+~
+E
+otebook book note notes penci~
+l
+lkfj
+~
+E
+otebook note notes book~
+You don't see that here.T
+~
+E
+notebook pencil note notes book~
+Hmmm...upon closer investigation, it DOES look as though some had to leave
+in an awful hurry!  They left in the middle of a sentence...where the hell
+did they have to go in such a hurry?
+~
+Z3
+C-1
+S
+#30507
+In the Incubator~
+
+     Boy is it HOT in here, strange that this is actually just the temperature
+of your body...but you are starting to SWEAT.  There are some plates of some 
+sort on shelves here, they look a lot like the nutrient plates you saw 
+earlier, but with some circle thingies on them...looks like when you forgot to 
+clean the coffee maker.
+~
+305 16529 1
+D3
+~
+metal~
+1 -1 30505
+Z3
+C-1
+S
+#30508
+In the lab~
+
+     You walk through the lab with anticipation hoping to see someone do
+something cool, but it looks like the scientists are all pretty wrapped up
+in their work.  *SMASH*...oh well...there goes another beaker.
+The air is flowing UP...
+~
+305 262144 1
+D1
+~
+~
+0 -1 30505
+D3
+~
+~
+0 -1 30501
+E
+beaker smashed glass broken~
+Hmmm...it's broken all right!
+What is that liquid all over the floor now...
+Hope it doesn't melt your shoes!
+~
+Z3
+C-1
+S
+#30509
+Corner Lab Bench~
+
+     The lab bench on the east wall ends at this point and there is a door to 
+the north which leads to the assistant investigators office.  You roll your 
+eyes in disgust as you think of the new AI, knows very little but talks a lot.  
+Students crowd around you as they desperately try to ask questions about an 
+upcoming exam...they sure do get in the way!
+~
+305 0 1
+D0
+~
+~
+0 -1 30510
+D2
+~
+~
+0 -1 30506
+Z3
+C-1
+S
+#30510
+The Assistant Investigator's Office~
+
+     So, now that you got your results and were let into the Assistant 
+Investigator's office, you have to put with his baloney.  Forget it, maybe it 
+is better to just toast him right now and just talk to the Principal 
+Investigator in the next room.
+~
+305 0 1
+D0
+~
+~
+0 -1 30511
+D2
+~
+~
+0 -1 30509
+Z3
+C-1
+S
+#30511
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+305 0 1
+D2
+~
+~
+0 -1 30510
+D5
+~
+~
+0 -1 30552
+Z3
+C-1
+S
+#30512
+This is nowhere.~
+
+     Storage Closet.  Ho Hum.  Nothing interesting in any corner.
+~
+305 0 1
+D2
+~
+~
+0 -1 30504
+E
+corner~
+     Hmmmm...ok, maybe there is something interesting here.  The corners at 
+the ceiling have a faint glow.  Wierd, indeed.  Ouch!!  A gold coin just came 
+flying into this room from above!
+~
+Z3
+C-1
+S
+#30513
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+305 0 1
+D1
+~
+~
+0 -1 30504
+D3
+~
+~
+0 -1 30514
+Z3
+C-1
+S
+#30514
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+305 0 1
+D0
+~
+~
+0 -1 30515
+D1
+~
+~
+0 -1 30513
+Z3
+C-1
+S
+#30515
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+305 0 1
+D0
+~
+~
+0 -1 30516
+D2
+~
+~
+0 -1 30514
+Z3
+C-1
+S
+#30516
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+305 0 1
+D1
+~
+~
+0 -1 30553
+D2
+~
+~
+0 -1 30515
+Z3
+C-1
+S
+#30517
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+305 0 1
+D5
+~
+~
+0 -1 30518
+Z3
+C-1
+S
+#30518
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+305 0 1
+D5
+~
+~
+0 -1 30519
+Z3
+C-1
+S
+#30519
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+305 0 1
+D5
+~
+~
+0 -1 30534
+Z3
+C-1
+S
+#30520
+Trash Chute!~
+You are standing in nowhere !!!!
+~
+305 0 1
+D5
+~
+~
+0 -1 30517
+Z3
+C-1
+S
+#30521
+Deep Within the Cage~
+
+         AND FALL INTO A TRAP SET BY THE HUMANOID WITHIN!!!!!!!
+YOU FALL INTO A SHALLOW HOLE......
+             YOU FEEL A ROPE QUICKLY CATCH YOUR ANKLES...
+                               YOU ARE PULLED UNDER THE FENCING INTO THE PEN!!
+     In all of the confusion you hear the same voice exclaim, "Now I can 
+complete the testing of my greatest achievement ever"
+~
+305 1089 1
+D0
+~
+~
+0 -1 30520
+D2
+~
+~
+0 -1 30522
+Z3
+C-1
+S
+#30522
+Just Outside of the Pen~
+
+     You approach the Pen...
+     You hear a calm human voice speak to you softly, "Please approach, I want 
+to speak with you..."     
+     As you slip unrecoverably, you try to stand as quickly as possible
+only to realize that it is much too late!! 
+~
+305 5259392 1
+D0
+~
+~
+0 -1 30521
+D2
+~
+~
+0 -1 30523
+Z3
+C-1
+S
+#30523
+Approaching the Pen~
+
+     This is unlike any fencing you have ever seen before, you had 
+underestimated it from inside the vent.  Panels of Heavy-Duty Cable
+completely enclose an area of about 50 feet by 100 feet.  What in the hell
+is kept in there?  The broken links of chain are not very comforting to you.
+~
+305 0 1
+D0
+~
+~
+0 -1 30522
+D2
+~
+~
+0 -1 30524
+Z3
+C-1
+S
+#30524
+A narrow squeeze...~
+
+     You are crammed between the broken slats and the tarry, stoney roof
+of this forsaken building.  Ouch!!  You humbly try to wriggle your way
+through any way that you can, trying to keep your pouches and damn armor free 
+of entanglements.  A large brick wall corner blocks much of the panoramic 
+view.
+~
+305 0 1
+D0
+~
+~
+0 -1 30523
+D3
+~
+~
+0 -1 30533
+Z3
+C-1
+S
+#30525
+Just Inside the Ventilation Hood~
+
+     You are in a squarish ventilation shaft.  You can only guess where it
+may lead.  The fumes in here are awful - well, it is a fume hood after all!
+Perhaps you should follow the constant flow of air...
+     A little creature of some sort is resting here, almost swimming against 
+the breeze like a fish swims against a current...how curious.  Hope they 
+aren't too vicious...
+~
+305 1 1
+D4
+~
+~
+0 -1 30526
+D5
+~
+flap~
+1 -1 30502
+Z3
+C-1
+S
+#30526
+Up the Hood Vent~
+
+     The fumes are getting a little better...but are still heavy.  The flow
+of air has lessened somewhat, due to the slight widening of the squarish
+ventilation shaft.  How can these creatures possibly live up here?  They 
+apparently love the flow of air because they use it to their advantage when 
+they attack you.
+~
+305 1 1
+D3
+~
+~
+0 -1 30527
+D5
+~
+~
+0 -1 30525
+Z3
+C-1
+S
+#30527
+Inside the Hood Vent~
+
+     The vent is still widening but he walls are beginning to hum and vibrate.
+This seems a little strange!  Watch out behind you.
+~
+305 1 1
+D1
+~
+~
+0 -1 30526
+D3
+~
+~
+0 -1 30528
+Z3
+C-1
+S
+#30528
+Inside the Hood Vent~
+
+     A little further along the vent, there are vibrations on your hands and
+knees as you crouch and feel your way along.  
+~
+305 1 1
+D1
+~
+~
+0 -1 30527
+D4
+~
+~
+0 -1 30529
+Z3
+C-1
+S
+#30529
+Middle of the Hood Vent~
+
+     The vibrations are stronger in this section than the one you just crawled 
+up from.  You hope that what is causing them does not awaken while you pass.  
+It totally dark now, save your light source, and even that seems to flicker at 
+times.
+~
+305 1 1
+D1
+~
+~
+0 -1 30530
+D5
+~
+~
+0 -1 30528
+Z3
+C-1
+S
+#30530
+A Vibrating Hood Vent~
+
+     The shaft continues up from here.  The vibrations are quite intense and
+the humming is loud, as if something is right here!  Perhaps more than a 
+cursory look would cause unwanted evil minglings, unfortuately you cannot 
+pass.
+~
+305 1 1
+D3
+~
+~
+0 -1 30529
+D4
+~
+~
+0 -1 30531
+E
+shadow~
+As you peer at the shadow you THINK you may see the gleam of some metal...
+~
+Z3
+C-1
+S
+#30531
+Nearing the End of the Hood Vent~
+
+     The humming and vibrations have stopped: For the time being!  Now you 
+have defeated the dreaded (but unknown until now?) Wind Beast and have the 
+wind chimes, however, you still are unsure of your surroundings.  It is also 
+getting a little difficult to make your way UP this shaft.  You are pushing 
+your way up any way that you can...How much longer??
+~
+305 0 1
+D4
+~
+~
+0 -1 30532
+D5
+~
+~
+0 -1 30530
+Z3
+C-1
+S
+#30532
+Cap of the Hood Vent~
+
+     There is a bit more light in this room, although there are no obvious 
+sources.  It seems as though the end of the vent may be in sight.  You hear a 
+rustle and whip around to see what it was...
+     The blower machinery creating this awful wind is to the left.  With a 
+glancing look, it appears to be a gigantic fan which is rotating very quickly 
+indeed.  Looks like your puny armor would be no match for those rotors.
+~
+305 0 1
+D1
+~
+~
+0 -1 30533
+D3
+~
+~
+0 -1 30598
+D5
+~
+~
+0 -1 30531
+Z3
+C-1
+S
+#30533
+On the Roof~
+
+     As you squirm through the small hatch to exit the ventilation system, you 
+bang on the cap in utter frustration, and the sound of defeat rings in your 
+ears and throughout the entire ventilation system.  Finally, standing on the 
+roof, you calm down some at try to squint out into the distance.  Many other 
+buildings and the quiet city of Midgaard are easily visible in the contour of 
+the landscape.  You peer in the opposite direction, through a slatted wall, 
+and see what appears to be some sort of fenced-in area with feathers, fur and 
+broken links of chain all around it.
+~
+305 0 1
+D1
+~
+~
+0 -1 30524
+D3
+~
+~
+0 -1 30532
+Z3
+C-1
+S
+#30534
+Above the Lab~
+
+     You are in a large chamber which is actually above the molecular lab.
+You can look down through the lighting fixtures and see the movement of
+those in the lab below.  You wonder where any exits from this chamber
+may lead?  The chamber stretches to the north and east.
+~
+305 262144 1
+D0
+~
+~
+0 -1 30535
+D1
+~
+~
+0 -1 30541
+Z3
+C-1
+S
+#30535
+Above the lab~
+
+      You are in a large chamber which is actually above the molecular lab.
+You can look down through the lighting fixtures and see the movement of
+those in the lab below.  You wonder where any exits from this chamber
+may lead?  The chamber stretches to the north, south, and east.
+~
+305 262144 1
+D0
+~
+~
+0 -1 30536
+D1
+~
+~
+0 -1 30540
+D2
+~
+~
+0 -1 30534
+Z3
+C-1
+S
+#30536
+Above the lab~
+
+      You are in a large chamber which is actually above the molecular lab.
+You can look down through the lighting fixtures and see the movement of
+those in the lab below.  You wonder where any exits from this chamber
+may lead?  The chamber stretches to the north, south, and east.
+~
+305 262144 1
+D0
+~
+~
+0 -1 30537
+D1
+~
+~
+0 -1 30539
+D2
+~
+~
+0 -1 30535
+Z3
+C-1
+S
+#30537
+The northwest chamber corner~
+
+     You are in the northwest corner of the chamber above the molecular lab.
+You can no longer see movement in the lab below.  The entire corner is
+shrouded in a strange, lingering hush.  There is a fuzzy haze to the east...but
+the chamber seems to go on forever to the south and to the east.
+~
+305 262144 1
+D1
+~
+~
+0 -1 30537
+D2
+~
+~
+0 -1 30536
+Z3
+C-1
+S
+#30538
+Along the wall of the Chamber~
+
+      You are in a large chamber which is actually above the molecular lab.
+You can look down through the lighting fixtures and see the movement of
+those in the lab below.  You wonder where any exits from this chamber
+may lead?  The chamber stretches to the south, east, and west.
+~
+305 262144 1
+D1
+~
+~
+0 -1 30545
+D3
+~
+~
+0 -1 30537
+Z3
+C-1
+S
+#30539
+In the Suspended Chamber~
+
+      You are in a large chamber which is actually above the molecular lab.
+You can look down through the lighting fixtures and see the movement of
+those in the lab below.  You wonder where any exits from this chamber
+may lead?  The chamber stretches to the north, south, east, and west.
+~
+305 0 1
+D0
+~
+~
+0 -1 30537
+D1
+~
+~
+0 -1 30544
+D2
+~
+~
+0 -1 30540
+D3
+~
+~
+0 -1 30536
+Z3
+C-1
+S
+#30540
+In the Suspended Chamber~
+
+      You are in a large chamber which is actually above the molecular lab.
+You can look down through the lighting fixtures and see the movement of
+those in the lab below.  You wonder where any exits from this chamber
+may lead?  The chamber stretches to the north, south, east, and west.
+~
+305 262144 1
+D0
+~
+~
+0 -1 30539
+D1
+~
+~
+0 -1 30543
+D2
+~
+~
+0 -1 30541
+D3
+~
+~
+0 -1 30535
+Z3
+C-1
+S
+#30541
+Along a wall of the Chamber~
+      You are in a large chamber which is actually above the molecular lab.
+You can look down through the lighting fixtures and see the movement of
+those in the lab below.  You wonder where any exits from this chamber
+may lead?  The chamber stretches to the north, east, and west.
+~
+305 262144 1
+D0
+~
+~
+0 -1 30540
+D1
+~
+~
+0 -1 30542
+D3
+~
+~
+0 -1 30534
+Z3
+C-1
+S
+#30542
+A crack in the wall...~
+
+      You are in a large chamber which is actually above the molecular lab.
+You can look down through the lighting fixtures and see the movement of
+those in the lab below.  You wonder where any exits from this chamber
+may lead?  The chamber stretches to the north, east, and west.
+~
+305 262144 1
+D0
+~
+~
+0 -1 30543
+D1
+~
+~
+0 -1 30549
+D3
+~
+~
+0 -1 30541
+Z3
+C-1
+S
+#30543
+In the Suspended Chamber~
+
+      You are in a large chamber which is actually above the molecular lab.
+You can look down through the lighting fixtures and see the movement of
+those in the lab below.  You wonder where any exits from this chamber
+may lead?  The chamber stretches to the north, south, east, and west.
+~
+305 262144 1
+D0
+~
+~
+0 -1 30544
+D1
+~
+~
+0 -1 30548
+D2
+~
+~
+0 -1 30542
+D3
+~
+~
+0 -1 30540
+Z3
+C-1
+S
+#30544
+In the Suspended Chamber~
+
+      You are in a large chamber which is actually above the molecular lab.
+You can look down through the lighting fixtures and see the movement of
+those in the lab below.  You wonder where any exits from this chamber
+may lead?  The chamber stretches to the north, south, east, and west.
+~
+305 262144 1
+D0
+~
+~
+0 -1 30545
+D1
+~
+~
+0 -1 30547
+D2
+~
+~
+0 -1 30543
+D3
+~
+~
+0 -1 30539
+Z3
+C-1
+S
+#30545
+Further along the wall of the Chamber~
+
+      You are in a large chamber which is actually above the molecular lab.
+You can look down through the lighting fixtures and see the movement of
+those in the lab below.  You wonder where any exits from this chamber
+may lead?  The chamber stretches to the south, east, and west.
+~
+305 262144 1
+D1
+~
+~
+0 -1 30546
+D2
+~
+~
+0 -1 30544
+D3
+~
+~
+0 -1 30538
+Z3
+C-1
+S
+#30546
+Another corner of the Chamber~
+
+     Unlike the other corners, this one appears to be partially caved in.
+Dirt and rocks barricade the wall structure in an unmoveable manner.
+Perhaps if you had a shovel?  You would still be here a long time probably.
+~
+305 262144 1
+D1
+Yup, it's a BIG pile of earth, strange.
+~
+earth~
+3 -1 30550
+D2
+~
+~
+0 -1 30547
+D3
+~
+~
+0 -1 30545
+E
+earth~
+Looks like you need to get a shovel!
+~
+Z3
+C-1
+S
+#30547
+Back wall of a Chamber~
+
+     The wall here not only seems to respond to you touching it...It is moving
+toward you!!!  Best to move out of here quickly!!!
+~
+305 262144 1
+D0
+~
+~
+0 -1 30546
+D2
+~
+~
+0 -1 30548
+D3
+~
+~
+0 -1 30544
+Z3
+C-1
+S
+#30548
+Back wall of a Chamber~
+
+     You have gotten all the way to the back wall...no luck on exits though.
+This could take a while to find.  When you touch this wall it seems to 
+move ever so slightly, as if in response to you.
+~
+305 262144 1
+D0
+~
+~
+0 -1 30547
+D2
+~
+~
+0 -1 30549
+D3
+~
+~
+0 -1 30543
+Z3
+C-1
+S
+#30549
+Widening of the Crack to a Corner~
+
+     You made it to the southeastern corner of the chamber.  The fissure
+in the wall may serve as a marker for where you have been, and where you
+will go in the near future.  The fissure is quite a symbolic entity.
+As you marvel at this revelation, you are attacked on all sides!!!
+~
+305 262144 1
+D0
+~
+~
+0 -1 30549
+D3
+~
+~
+0 -1 30542
+Z3
+C-1
+S
+#30550
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+305 262144 1
+D3
+~
+earth~
+1 -1 30546
+D4
+~
+~
+0 -1 30551
+Z3
+C-1
+S
+#30551
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+305 0 1
+D4
+~
+~
+0 -1 30552
+D5
+~
+~
+0 -1 30550
+Z3
+C-1
+S
+#30552
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+305 0 1
+D4
+~
+~
+0 -1 30511
+D5
+~
+~
+0 -1 30551
+Z3
+C-1
+S
+#30553
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+305 0 1
+D3
+~
+~
+0 -1 30516
+Z3
+C-1
+S
+#30559
+On a street~
+
+     You see a wierd looking building up the street.  It stands out because it 
+doesn't seem to have any windows.  Maybe if you get a little closer, you can 
+figure out what is going on.  The stone work on the building looks rather 
+interesting anyway, this deserves a closer look!
+~
+305 0 1
+D1
+~
+~
+0 -1 30560
+Z3
+C-1
+S
+#30560
+Stairs to a Strange Building~
+
+     As you approach the building, you notice the magnificently crafted steps.
+It is as if dwarves personally carved each step, handrest, and gargoyles 
+sitting upon block columns.  You step up the steps very slowly, your equipment
+swishing and clanking softly as you steadily approach the edifice...
+column of glass is partitioned into stories consisting of layers of shelves 
+filled with what look like books.
+~
+305 0 1
+D3
+~
+~
+0 -1 30559
+D4
+~
+~
+0 -1 30561
+E
+gargoyle column carving stone~
+     The small gargolyes are cleverly in the shaped like kneeling humans 
+draped in lab coats...how unusual!  They sit upon columns of a rough marbled 
+stone just slightly darker than the building they front.
+~
+Z3
+C-1
+S
+#30561
+Entrance to a Building with no Windows~
+
+     You are now standing outside of the entrance to the strange building, and 
+upon closer examination there are definately no windows.  The walls seem to be 
+made of a grey stone with a curious texture.  The entrance is simple and the 
+doors are wooden with no glass or any transparent material.  It is as if there 
+is material inside which is sensitive to light...
+structure reaches from the grey marble floor nearly to the ceiling.  The 
+~
+305 0 1
+D0
+~
+~
+0 -1 30562
+D5
+~
+~
+0 -1 30560
+E
+door walls~
+     This door is vast and outlandishly solid.  Oak beams are affixed with 
+iron slats and formidable iron hinges.  Good thing the entrance appears to be 
+unlocked, otherwise you may have a difficult time getting in.  As a young 
+child walks out, she seems to open to mammoth door with little effort - what 
+wonderful craftsmanship!
+~
+Z3
+C-1
+S
+#30562
+Inside of a Magnificent Glow~
+
+     You enter the large structure with a slight gasp of awe.  The walls are 
+actually glowing, as if just slightly transparent to the exterior light, 
+creating a soft greyish atmosphere.  The ceiling must be 50 feet up, and made 
+of the same transparent stone that the walls are made of.  The longer you 
+stand in the room, the more comfortable you feel.  A large, circular glass 
+structure reaches from the grey marble floor nearly to the ceiling.  The 
+column of glass is partitioned into stories consisting of layers of shelves 
+filled with what look like books.
+~
+305 0 1
+D0
+~
+~
+0 -1 30567
+D1
+~
+~
+0 -1 30564
+D2
+~
+~
+0 -1 30561
+D3
+~
+~
+0 -1 30563
+E
+ceiling~
+     The ceiling is waaaay up there.  You notice a spiral staircase to your 
+right...perhaps that is a better spot to look up.
+~
+E
+glass~
+     The glass structure is breathtaking, you had better get a little closer 
+to get a better look.  This is a huge library!  Must be some very valuable 
+books (or information) in this athenaeum.
+~
+Z3
+C-1
+S
+#30563
+Southwestern area of the Circular Building~
+
+     You stray to the south-western area of the circular edifice.  Here you 
+can examine the walls more carefully.  There is a small plaque at about eye 
+level which may clue you in about the curious qualities of these walls.
+~
+305 0 1
+D0
+~
+~
+0 -1 30582
+D1
+~
+~
+0 -1 30562
+E
+plaque~
+     The stone used to make these walls is of a slightly translucent stone 
+which has been found only in a mine in Argentina.  Use of this special stone 
+was chosen due to it's ability to filter wavelengths of radiation which are 
+dangerous to the ancient and valuable tomes present in this collection.
+~
+Z3
+C-1
+S
+#30564
+Base of a Narrow Spiral Staircase~
+
+     There is a spiral staircase winding up to a small balcony on the inside 
+of the wall.  Strange, you didn't notice any protusion from that wall on the 
+outside of the building.  Maybe from the balcony you can get a better look 
+around.  
+~
+305 0 1
+D0
+~
+~
+0 -1 30591
+D3
+~
+~
+0 -1 30562
+D4
+~
+~
+0 -1 30565
+Z3
+C-1
+S
+#30565
+Climbing the Spiral Stairs~
+
+     Wheeeeee....spiral stairs are pretty cool.  This room looks even cooler 
+from higher up.
+~
+305 0 1
+D4
+~
+~
+0 -1 30566
+D5
+~
+~
+0 -1 30564
+Z3
+C-1
+S
+#30566
+A Small Balcony of Wrought Iron~
+
+     The balcony is made of wrought iron twisted into beautiful shapes and 
+designs, and is about 25 feet from the grey marble floor.  From this height, 
+you can see that the central glass column does not extend to the ceiling, and 
+there is another glass structure at the top, which is in the shape of a pear.  
+Upon closer examination there also appears to be a silver-metallic substance 
+inside of the glass.  The silver object really distributes existing light 
+evenly throughout the room, it would in fact replace your existing equipment 
+very well.  Unfortunately, there does not appear to be any easy way to get at 
+it.
+~
+305 0 1
+D5
+~
+~
+0 -1 30565
+Z3
+C-1
+S
+#30567
+Before the Glass Enclosure~
+
+     The entrance to the glass column requires a passcard, as is evident by 
+the red flashing light above a keycard slot.  There are some serious looking 
+librarians here making sure that their precious tomes are undisturbed.  They 
+tell you of the magnificent translucent walls of stone all around you which 
+protect their books from harmful radiation.  
+~
+305 0 1
+D0
+~
+~
+0 -1 30568
+D2
+~
+~
+0 -1 30562
+E
+slot~
+
+     There is a slot here with a flashing red light above it and a dim green light beside it.  Apparently you must use some sort of keycard ID to unlock the door to the glass athenaeum.
+~
+Z3
+C-1
+S
+#30568
+Inside of Knowledge~
+
+     As you enter the great glass column, you can only think of the tremendous 
+knowledge which fills the shelves of this athenaeum.  As you consider the first stack of leather bound volumes, librarians tap you on the shoulder. They are not too happy about the clanking of your armor in all of the excitemet.  These people are serious about their job!
+~
+305 0 1
+D1
+~
+~
+0 -1 30569
+D2
+~
+~
+0 -1 30567
+Z3
+C-1
+S
+#30569
+This is nowhere.~
+
+     Librarians peer at you cautiously as your armor clanks when you walk by the 
+leather bound maps and books from long ago.  It is obvious why all of the 
+climate control is necessary when you stop to look at some of the volumes.  It 
+looks as though they could fall apart at any time.  Wrought iron stairs twisted 
+into shapes of ancient dragons and high gods wind up to the next level of the 
+athenaem.
+~
+305 0 1
+D3
+~
+~
+0 -1 30568
+D4
+~
+~
+0 -1 30570
+Z3
+C-1
+S
+#30570
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+305 0 1
+D0
+~
+~
+0 -1 30571
+D5
+~
+~
+0 -1 30569
+Z3
+C-1
+S
+#30571
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+305 0 1
+D2
+~
+~
+0 -1 30570
+D3
+~
+~
+0 -1 30572
+Z3
+C-1
+S
+#30572
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+305 0 1
+D1
+~
+~
+0 -1 30571
+D2
+~
+~
+0 -1 30573
+Z3
+C-1
+S
+#30573
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+305 0 1
+D0
+~
+~
+0 -1 30572
+D4
+~
+~
+0 -1 30574
+Z3
+C-1
+S
+#30574
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+305 0 1
+D1
+~
+~
+0 -1 30575
+D5
+~
+~
+0 -1 30573
+Z3
+C-1
+S
+#30575
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+305 0 1
+D0
+~
+~
+0 -1 30576
+D3
+~
+~
+0 -1 30574
+Z3
+C-1
+S
+#30576
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+305 0 1
+D2
+~
+~
+0 -1 30575
+D3
+~
+~
+0 -1 30577
+Z3
+C-1
+S
+#30577
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+305 0 1
+D1
+~
+~
+0 -1 30576
+D4
+~
+~
+0 -1 30578
+Z3
+C-1
+S
+#30578
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+305 0 1
+D0
+~
+~
+0 -1 30579
+D5
+~
+~
+0 -1 30577
+Z3
+C-1
+S
+#30579
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+305 0 1
+D0
+~
+~
+0 -1 30580
+D2
+~
+~
+0 -1 30578
+Z3
+C-1
+S
+#30580
+Planet Pizza Waiting area~
+
+     Screaming kids overwhelmed with excitement and adults rolling their
+eyes and chuckling at their kids fill the room.  Shoulder to shoulder, you
+try to wiggle your way through, but I don't think they will let you cut them
+in line!
+~
+305 0 1
+D0
+~
+~
+0 -1 30581
+D2
+~
+~
+0 -1 30579
+Z3
+C-1
+S
+#30581
+Planet Pizza!!~
+
+     You manage to keep your mouth shut long enough to get to the 
+destination: Planet Pizza!!  There are guards blocking the entrance,
+but it seems like getting into this place would be worth it.  All kinds
+of gizmos and toys can be seen through the windows.
+~
+305 0 1
+D2
+~
+~
+0 -1 30580
+Z3
+C-1
+S
+#30582
+Next to the Glass Athenaem~
+
+     There are several chairs and couches here for reading and studying.  Tables also display several journals, many are obviously biological journals.  This library seems to be an archive of Biological Research in addition to one of old and rare tomes.
+~
+305 0 1
+D0
+~
+~
+0 -1 30585
+D2
+~
+~
+0 -1 30563
+D3
+~
+~
+0 -1 30583
+E
+book manuscript folio showcase display parchment volume~
+
+     You stride over to a glass display cast and look at the volumes placed on green velvet.  One of the books is written in spanish and is dated 1874 and is opened to a page entitled 'On How to Die Well in the Andes' (translated).
+~
+Z3
+C-1
+S
+#30583
+Pulling out of the Driveway~
+
+     There are several chairs and couches here for reading and studying.  Tables also display several journals, many are obviously biological journals.  This library seems to be an archive of Biological Research in addition to one of old and rare tomes.
+~
+305 0 1
+D0
+~
+~
+0 -1 30584
+D1
+~
+~
+0 -1 30582
+Z3
+C-1
+S
+#30584
+Internal Climate Control System~
+
+     As you walk around the central column of glass and books, you see a 
+complex climate control system affixed to the base of the wall.  There is even 
+security guarding the system.  These must be some very old or important books.  
+This institution must care a great deal about them.
+~
+305 0 1
+D1
+~
+~
+0 -1 30585
+D2
+~
+~
+0 -1 30583
+Z3
+C-1
+S
+#30585
+Around the Glass Athenaem~
+
+     More display cases are here presenting old texts.  Look around...that's 
+what they are here for.
+~
+305 0 1
+D0
+~
+~
+0 -1 30586
+D1
+~
+~
+0 -1 30588
+D2
+~
+~
+0 -1 30582
+D3
+~
+~
+0 -1 30584
+E
+book manuscript folio showcase display parchment volume~
+     You stride over to a glass display cast and look at the volumes placed on
+green velvet.  One of the books is written in Old English and is dated 1735
+and is opened to a page entitled 'On How to Inspire a Mutinous Crew'
+(translated).
+~
+Z3
+C-1
+S
+#30586
+Teetering on the Windowsill~
+
+     There are several chairs and couches here for reading and studying.  Shelves line the back wall of the circular edifice which contain the only the most recent journals of many disciplines, focussing on those of the hard sciences.  People are slowly, but steadily, making their way through and chosing their journal.  There are some wicked geeks here, and some obvious mud addicts with their laptops plugged into comm ports in the floor beside the chairs.  This library seems to be an archive of Biological Research in addition to one of old and rare tomes.
+~
+305 1048576 1
+D1
+~
+~
+0 -1 30587
+D2
+~
+~
+0 -1 30585
+Z3
+C-1
+S
+#30587
+Buzz Lightyear's Spaceship~
+
+     There are several chairs and couches here for reading and studying.  Shelves line the back wall of the circular edifice which contain the only the most recent journals of many disciplines, focussing on those of the hard sciences.  People are slowly, but steadily, making their way through and chosing their journal.  There are some wicked geeks here, and some obvious mud addicts with their laptops plugged into comm ports in the floor beside the chairs.  This library seems to be an archive of Biological Research in addition to one of old and rare tomes.
+~
+305 1048576 1
+D2
+~
+~
+0 -1 30588
+D3
+~
+~
+0 -1 30586
+Z3
+C-1
+S
+#30588
+This is nowhere.~
+
+     More display cases are here presenting old texts.  Look around...that's what they are here for.
+~
+305 1 1
+D0
+~
+~
+0 -1 30587
+D1
+~
+~
+0 -1 30589
+D2
+~
+~
+0 -1 30591
+D3
+~
+~
+0 -1 30585
+E
+book manuscript folio showcase display parchment volume~
+
+     You stride over to a glass display cast and look at the volumes placed on green velvet.  One of the books is written in Old English and is dated 1735 and is opened to a page entitled 'On Negotiating with Royalty'.
+~
+Z3
+C-1
+S
+#30589
+Stuck in the Crack~
+
+     AHHH...You are stuck between the wall and the bed just like
+all of the other forgotten and lost toys around you!  Whoa...you
+are slipping....!!!!
+~
+305 1048576 1
+D3
+~
+~
+0 -1 30588
+Z3
+C-1
+S
+#30590
+Head of Andy's Bed~
+
+     WOW...the wreckage is awful!  The wings are floppy and bent, the
+fuselage hopelessly stepped on, and the nose is bent at a funny angle.
+The repair could take weeks!  But...it does look as though you can enter
+the ship to see what is inside...
+~
+305 0 1
+D0
+~
+~
+0 -1 30589
+D3
+~
+~
+0 -1 30591
+Z3
+C-1
+S
+#30591
+On Andy's Bed~
+
+     You walk around the right side of the glass column.  There is a narrow spiral staircase snaking up the curved wall to your south.  Display cases present an array of very old and treasured texts.  All of the volumes are under glass to preserve the delicate parchment.
+~
+305 0 1
+D0
+~
+~
+0 -1 30588
+D2
+~
+~
+0 -1 30564
+E
+book manuscript folio showcase display parchment volume~
+
+     You stride over to a glass display cast and look at the volumes placed on green velvet.  One of the books is written in latin and is dated 1807 and is opened to a page entitled 'On Manners when Dealing with Savages' (translated).
+~
+Z3
+C-1
+S
+#30592
+deleted~
+
+     You stand behind the glass athenaem and can only gaze upward at the towering pile.  This is a true place of learning and peacefullness, until you brutally slay the folds of citizens who are here to learn.
+~
+305 0 1
+Z3
+C-1
+S
+#30593
+Climbing up the Bed~
+
+     This is the back of the circular edifice, and a glass walkway extends to the north.  The walkway appears to lead into another building.  I guess no one has to walk in the snow or sleet from the library to their laboratory, imagine that.
+~
+305 0 1
+D5
+~
+~
+0 -1 30594
+Z3
+C-1
+S
+#30594
+The Foot of Andy's Bed~
+
+     Wow, the glass walkway is almost as impressive as the central glass athenaem behind you.  A myriad of rainbows showers you as the prism ceiling refracts the sun's light all around.  This is one of the most peaceful places you have ever been.  Someone has moved a few chairs into this walkway, and no wonder!  This seems to be a good place to rest, regenerate, and nurish yourself.  Take a load off!
+     As you sit and look upward, you see a second walkway far above this one.  The second walkway also leads to the other building just to the north.
+~
+305 0 1
+D2
+~
+~
+0 -1 30595
+D4
+~
+~
+0 -1 30593
+Z3
+C-1
+S
+#30595
+Middle of Andy's Room~
+
+     This is the northern building, which seems a bit more functional than the beautifully designed archive behind you.  This must be the Biological Laboratory Building, housing all of the major research laboratories in the area.  To the east is the common autoclave room, where glassware and solutions are sterilized.  The exit to the north appears to be blocked by repair crews trying to fix a faulty steam pipe which feeds into the autoclaves.  Damn, the stairs up to the Molecular Biology lab is to the north!  Where are you supposed to go now?  Well, I suppose you could check out the library again...
+~
+305 0 1
+D0
+~
+~
+0 -1 30594
+E
+pipes crew workers~
+
+     The leaking steam pipes block your way to the north, unless you want to try your luck and get burned beyond recognition while melting your armor to your body in the process...
+~
+Z3
+C-1
+S
+#30596
+In Andy's Closet~
+
+     Here is the common autoclave room, where researchers sterilize stuff for use in their research.  Being a common room, it is disgustingly messy and uncared for.  Looks like people only use this room when other autoclaves are being used.  I looks like one of the cycles is done in one of the claves, it would be nice of you to grab it for the person and deliever it to them, if you can find them that is.
+~
+305 0 1
+D3
+~
+Closet Door~
+1 -1 30597
+Z3
+C-1
+S
+#30597
+A corner of Andy's Room.~
+
+     Here are more of Andy's wonderful toys which seem to just come to life
+in front of you.  They surrond you with jabbering and playful antics.  Which
+one will be your favorite toy?
+~
+305 0 1
+D1
+~
+Closet Door~
+1 -1 30596
+Z3
+C-1
+S
+#30598
+Hood Blower Fan~
+
+     You are chopped to pieces...goodbye.
+~
+305 2 1
+D1
+~
+~
+0 -1 30532
+Z3
+C-1
+S
+#30599
+{BLUE}Out{blue} {CYAN}of{cyan} {BLUE}Darkness{blue}~
+
+                 {BLUE}*     *
+            *                 *
+                         {CYAN}####{BLUE}   *
+      *                    {CYAN}###{BLUE}    *
+    *           {blue},,i'        {CYAN}##{cyan}     q.
+   {BLUE}*         {blue}.poj;          {CYAN}#{cyan}      \*.
+  {BLUE}.         {blue}oKPO                    T%k
+ .k        {%%k`                    T%%,
+ d%,       ;YJ%.                    Y%%k
+ %%k       :l%%k                    j%%}
+ T%%k      `NJ%%,                  .%%%'
+  T%%k,     l%%%%k                 j%%%  When darkness covered the land
+   T%%%i:,  `G%%%%%,.           .'%%%%  and evil began to conquere all..
+    `T%%%%%%i\W%%%%%k...        j%%%  There stood one cloaked man.
+      `*%%%%%%`%%%%%%%%%%%%%%%%%%%l  A staff of light in one hand,
+        `*%%%%%%%%%%%%%%%%%%%%%%I  and honor in the other...he undid
+            `*%%%%%%%%%%%%%%%%%  the wrong.
+                 %%%%%%%%%%%%
+                   %%%%%%%%
+                   %%%%%%%%
+~
+305 0 1
+D1
+~
+~
+0 -1 30675
+D5
+~
+~
+0 -1 3014
+Z3
+C-1
+S
+$~

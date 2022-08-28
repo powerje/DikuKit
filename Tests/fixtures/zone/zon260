@@ -1,0 +1,255 @@
+#260
+{BO,G}Calandra{BO,BLU}/{BO,BLA}Darkenkeep{bo,bla}(Helsing)~
+26099 2000 2
+*
+X 2109394
+D 0 26000     3     1    (W:CLOSED) {BO,GR}The Land Of Calandra{bo,gr}
+D 0 26001     0     1    (N:CLOSED) {BO,GR}Last Hope?{bo,gr}
+D 0 26001     1     1    (E:CLOSED) {BO,GR}Last Hope?{bo,gr}
+O 0 26007     1 26002    A spellbook
+D 0 26002     2     1    (S:CLOSED) {BO,GR}The Cottage{bo,gr}
+D 0 26003     0     1    (N:CLOSED) {BO,BLA}The Search.{bo,bla}
+M 0 26000    10 26004    {BO,WH} A Scrap of Food {bo,wh}
+M 0 26001    10 26004    {BO,BLU} A Streamer{bo,blu}
+M 0 26001    10 26004    {BO,BLU} A Streamer{bo,blu}
+M 0 26000    10 26005    {BO,WH} A Scrap of Food {bo,wh}
+M 0 26000    10 26005    {BO,WH} A Scrap of Food {bo,wh}
+M 0 26001    10 26005    {BO,BLU} A Streamer{bo,blu}
+M 0 26000    10 26006    {BO,WH} A Scrap of Food {bo,wh}
+M 0 26000    10 26006    {BO,WH} A Scrap of Food {bo,wh}
+M 0 26001    10 26006    {BO,BLU} A Streamer{bo,blu}
+M 0 26001    10 26006    {BO,BLU} A Streamer{bo,blu}
+M 0 26000    10 26007    {BO,WH} A Scrap of Food {bo,wh}
+M 0 26001    10 26007    {BO,BLU} A Streamer{bo,blu}
+M 0 26001    10 26007    {BO,BLU} A Streamer{bo,blu}
+M 0 26007    10 26010    {MAG}A Stranger{mag}
+M 0 26007    10 26010    {MAG}A Stranger{mag}
+M 0 26007    10 26011    {MAG}A Stranger{mag}
+M 0 26007    10 26012    {MAG}A Stranger{mag}
+M 0 26007    10 26012    {MAG}A Stranger{mag}
+G 1 26034     1     0    {R}A {BO,R}Rusted {R}Key{r}
+M 0 26007    10 26012    {MAG}A Stranger{mag}
+M 0 26007    10 26012    {MAG}A Stranger{mag}
+M 0 26007    10 26013    {MAG}A Stranger{mag}
+M 0 26007    10 26013    {MAG}A Stranger{mag}
+G 1 26016     1     0    {BO,Y}A {bo,Y}small {BO,Y}b{bo,Y}r{BO,Y}a{bo,Y}s{BO,Y}s {bo,Y}k{BO,Y}e{bo,Y}y{bo,y}
+M 0 26007    10 26015    {MAG}A Stranger{mag}
+M 0 26008     1 26018    {BO,R} A {Y}Ca{R}ll{Y}i{R}o{Y}pe{bo,y}
+G 1 26023     1     0    A {BO,W}steam-{BO,BLA}engine {BO,W}key{bo,bla}
+G 1 26000     1     0    {BO,W}A {bo,W}S{BO,Y}h{bo,W}a{BO,Y}t{bo,W}t{BO,Y}e{bo,W}r{BO,Y}e{bo,W}d P{BO,Y}i{bo,W}p{BO,Y}e{bo,y}
+D 0 26018     0     1    (N:CLOSED) {M}Control Room{m}
+D 0 26018     2     2    (S:LOCKED) {M}Control Room{m}
+D 0 26019     1     2    (E:LOCKED) {M}Carrousel Entrance{m}
+D 0 26019     2     2    (S:LOCKED) {M}Carrousel Entrance{m}
+M 0 26009     4 26020    {BO,Y}A Fierce Horse{bo,y}
+M 0 26011     4 26020    {BO,M}A Frightened Horse{bo,m}
+M 0 26010     4 26020    {R}An Angry Horse{r}
+M 0 26011     4 26020    {BO,M}A Frightened Horse{bo,m}
+D 0 26020     3     2    (W:LOCKED) {bo,MAG}Onboard The Carrousel{bo,mag}
+M 0 26009     4 26021    {BO,Y}A Fierce Horse{bo,y}
+M 0 26009     4 26022    {BO,Y}A Fierce Horse{bo,y}
+M 0 26009     4 26022    {BO,Y}A Fierce Horse{bo,y}
+M 0 26011     4 26022    {BO,M}A Frightened Horse{bo,m}
+M 0 26012     1 26023    {BO,BLA}Valadan{bo,bla}
+E 1 26011     2     3    (NECK) {BO,BLA}Black Mane{bo,bla}
+M 0 26010     4 26023    {R}An Angry Horse{r}
+M 0 26010     4 26023    {R}An Angry Horse{r}
+M 0 26010     4 26023    {R}An Angry Horse{r}
+M 0 26011     4 26023    {BO,M}A Frightened Horse{bo,m}
+D 0 26023     4     2    (U:LOCKED) {BO,BLA}Valadan{bo,bla}
+O 0 26006     1 26024    {BLU} A Fading Portal{blu}
+D 0 26024     5     2    (D:LOCKED) {BO,GR}A Day's Rest{bo,gr}
+M 0 26013     2 26026    {BO,BLU}Running Water{bo,blu}
+M 0 26013     2 26026    {BO,BLU}Running Water{bo,blu}
+M 0 26014     2 26028    {RED}A Battletorn Guard{red}
+M 0 26014     2 26028    {RED}A Battletorn Guard{red}
+M 0 26020     1 26029    {BO,M}The {bo,M}F{BO,M}o{bo,M}r{BO,M}e{bo,M}m{BO,M}a{bo,M}n{bo,m}
+E 1  3009    54     2    (FINGER) Random Stat Obj
+E 1 26018     1    28    (FACE) {BO,M}The {bo,M}Visor {BO,M}Of {bo,M}Authority{bo,m}
+M 0 26019     5 26029    {MAG}A Mason{mag}
+M 0 26019     5 26029    {MAG}A Mason{mag}
+M 0 26019     5 26029    {MAG}A Mason{mag}
+M 0 26019     5 26029    {MAG}A Mason{mag}
+M 0 26019     5 26029    {MAG}A Mason{mag}
+O 0 26017     1 26029    {BO,RED}The Royal Crest of Lassair Castle{bo,r}
+O 0 26003     1 26029    {BO,BLACK} A fire blackened hole{bo,bla}
+M 0 26023     1 26030    {BO,Y}King Polassar{bo,y}
+E 1 26020     2     6    (HEAD) {R}T{BO,R}h{bo,R}e H{BO,R}el{bo,R}m {bo,R}O{BO,R}f W{BO,R}a{bo,R}r{bo,r}
+O 0 26021     1 26030    A {bo,W}Winter Wasteland{bo,w}
+D 0 26030     3     2    (W:LOCKED) {R}A Small Dusty Room Inside Castle Lassair{r}
+M 0 26026    28 26033    {BO,C}The {bo,W}Cold {BO,C}W{bo,W}i{BO,C}n{bo,W}d{bo,w}
+M 0 26026    28 26033    {BO,C}The {bo,W}Cold {BO,C}W{bo,W}i{BO,C}n{bo,W}d{bo,w}
+M 0 26026    28 26034    {BO,C}The {bo,W}Cold {BO,C}W{bo,W}i{BO,C}n{bo,W}d{bo,w}
+M 0 26026    28 26034    {BO,C}The {bo,W}Cold {BO,C}W{bo,W}i{BO,C}n{bo,W}d{bo,w}
+M 0 26026    28 26034    {BO,C}The {bo,W}Cold {BO,C}W{bo,W}i{BO,C}n{bo,W}d{bo,w}
+M 0 26026    28 26034    {BO,C}The {bo,W}Cold {BO,C}W{bo,W}i{BO,C}n{bo,W}d{bo,w}
+M 0 26026    28 26035    {BO,C}The {bo,W}Cold {BO,C}W{bo,W}i{BO,C}n{bo,W}d{bo,w}
+M 0 26026    28 26035    {BO,C}The {bo,W}Cold {BO,C}W{bo,W}i{BO,C}n{bo,W}d{bo,w}
+M 0 26026    28 26036    {BO,C}The {bo,W}Cold {BO,C}W{bo,W}i{BO,C}n{bo,W}d{bo,w}
+M 0 26026    28 26036    {BO,C}The {bo,W}Cold {BO,C}W{bo,W}i{BO,C}n{bo,W}d{bo,w}
+M 0 26026    28 26036    {BO,C}The {bo,W}Cold {BO,C}W{bo,W}i{BO,C}n{bo,W}d{bo,w}
+M 0 26026    28 26037    {BO,C}The {bo,W}Cold {BO,C}W{bo,W}i{BO,C}n{bo,W}d{bo,w}
+M 0 26026    28 26037    {BO,C}The {bo,W}Cold {BO,C}W{bo,W}i{BO,C}n{bo,W}d{bo,w}
+M 0 26026    28 26038    {BO,C}The {bo,W}Cold {BO,C}W{bo,W}i{BO,C}n{bo,W}d{bo,w}
+M 0 26026    28 26038    {BO,C}The {bo,W}Cold {BO,C}W{bo,W}i{BO,C}n{bo,W}d{bo,w}
+M 0 26026    28 26039    {BO,C}The {bo,W}Cold {BO,C}W{bo,W}i{BO,C}n{bo,W}d{bo,w}
+M 0 26026    28 26039    {BO,C}The {bo,W}Cold {BO,C}W{bo,W}i{BO,C}n{bo,W}d{bo,w}
+M 0 26026    28 26039    {BO,C}The {bo,W}Cold {BO,C}W{bo,W}i{BO,C}n{bo,W}d{bo,w}
+M 0 26026    28 26040    {BO,C}The {bo,W}Cold {BO,C}W{bo,W}i{BO,C}n{bo,W}d{bo,w}
+M 0 26026    28 26040    {BO,C}The {bo,W}Cold {BO,C}W{bo,W}i{BO,C}n{bo,W}d{bo,w}
+M 0 26026    28 26040    {BO,C}The {bo,W}Cold {BO,C}W{bo,W}i{BO,C}n{bo,W}d{bo,w}
+M 0 26026    28 26040    {BO,C}The {bo,W}Cold {BO,C}W{bo,W}i{BO,C}n{bo,W}d{bo,w}
+D 0 26040     1     0    (E:OPEN) {BO}{WH} The Winterwaste {wh}{bo}
+M 0 26026    28 26041    {BO,C}The {bo,W}Cold {BO,C}W{bo,W}i{BO,C}n{bo,W}d{bo,w}
+M 0 26026    28 26041    {BO,C}The {bo,W}Cold {BO,C}W{bo,W}i{BO,C}n{bo,W}d{bo,w}
+M 0 26026    28 26041    {BO,C}The {bo,W}Cold {BO,C}W{bo,W}i{BO,C}n{bo,W}d{bo,w}
+M 0 26026    28 26042    {BO,C}The {bo,W}Cold {BO,C}W{bo,W}i{BO,C}n{bo,W}d{bo,w}
+M 0 26026    28 26042    {BO,C}The {bo,W}Cold {BO,C}W{bo,W}i{BO,C}n{bo,W}d{bo,w}
+M 0 26026    28 26042    {BO,C}The {bo,W}Cold {BO,C}W{bo,W}i{BO,C}n{bo,W}d{bo,w}
+M 0 26027     5 26045    A {BO,W}S{bo,W}n{BO,W}o{bo,W}w{BO,W}d{bo,W}r{BO,W}i{bo,W}f{BO,W}t{bo,w}
+M 0 26027     5 26045    A {BO,W}S{bo,W}n{BO,W}o{bo,W}w{BO,W}d{bo,W}r{BO,W}i{bo,W}f{BO,W}t{bo,w}
+M 0 26027     5 26046    A {BO,W}S{bo,W}n{BO,W}o{bo,W}w{BO,W}d{bo,W}r{BO,W}i{bo,W}f{BO,W}t{bo,w}
+M 0 26027     5 26046    A {BO,W}S{bo,W}n{BO,W}o{bo,W}w{BO,W}d{bo,W}r{BO,W}i{bo,W}f{BO,W}t{bo,w}
+M 0 26027     5 26046    A {BO,W}S{bo,W}n{BO,W}o{bo,W}w{BO,W}d{bo,W}r{BO,W}i{bo,W}f{BO,W}t{bo,w}
+M 0 26028    10 26049    A {BO,BLU}N{bo,W}e{BO,BLU}e{bo,W}d{BO,BLU}l{bo,W}e of {BO,W}I{bo,W}c{BO,W}e{bo,w}
+M 0 26028    10 26049    A {BO,BLU}N{bo,W}e{BO,BLU}e{bo,W}d{BO,BLU}l{bo,W}e of {BO,W}I{bo,W}c{BO,W}e{bo,w}
+M 0 26028    10 26049    A {BO,BLU}N{bo,W}e{BO,BLU}e{bo,W}d{BO,BLU}l{bo,W}e of {BO,W}I{bo,W}c{BO,W}e{bo,w}
+M 0 26028    10 26049    A {BO,BLU}N{bo,W}e{BO,BLU}e{bo,W}d{BO,BLU}l{bo,W}e of {BO,W}I{bo,W}c{BO,W}e{bo,w}
+M 0 26028    10 26049    A {BO,BLU}N{bo,W}e{BO,BLU}e{bo,W}d{BO,BLU}l{bo,W}e of {BO,W}I{bo,W}c{BO,W}e{bo,w}
+M 0 26028    10 26049    A {BO,BLU}N{bo,W}e{BO,BLU}e{bo,W}d{BO,BLU}l{bo,W}e of {BO,W}I{bo,W}c{BO,W}e{bo,w}
+M 0 26028    10 26049    A {BO,BLU}N{bo,W}e{BO,BLU}e{bo,W}d{BO,BLU}l{bo,W}e of {BO,W}I{bo,W}c{BO,W}e{bo,w}
+M 0 26028    10 26049    A {BO,BLU}N{bo,W}e{BO,BLU}e{bo,W}d{BO,BLU}l{bo,W}e of {BO,W}I{bo,W}c{BO,W}e{bo,w}
+M 0 26028    10 26049    A {BO,BLU}N{bo,W}e{BO,BLU}e{bo,W}d{BO,BLU}l{bo,W}e of {BO,W}I{bo,W}c{BO,W}e{bo,w}
+M 0 26028    10 26049    A {BO,BLU}N{bo,W}e{BO,BLU}e{bo,W}d{BO,BLU}l{bo,W}e of {BO,W}I{bo,W}c{BO,W}e{bo,w}
+D 0 26051     0     1    (N:CLOSED) {CY,BO} The Gates of Darkenkeep {cy,bo}
+D 0 26052     2     1    (S:CLOSED) {BO,CY} Entering.. {bo,cy}
+M 0 26032     1 26056    {BO,C}A {W}G{bo,W}h{BO,W}o{bo,W}s{BO,W}t{bo,W}l{BO,W}y {C}Image{c}
+E 1 26014     2    16    (WIELD) {BO,BL}S{W}h{BL}a{W}d{BL}o{W}w{BL}d{W}a{BL}n{W}c{BL}e{W}r{bo,w}
+M 0 26029    15 26060    An {BO,Y}I{W}c{Y}y S{W}h{Y}a{W}r{Y}d{bo,y}
+M 0 26029    15 26060    An {BO,Y}I{W}c{Y}y S{W}h{Y}a{W}r{Y}d{bo,y}
+M 0 26029    15 26060    An {BO,Y}I{W}c{Y}y S{W}h{Y}a{W}r{Y}d{bo,y}
+M 0 26029    15 26060    An {BO,Y}I{W}c{Y}y S{W}h{Y}a{W}r{Y}d{bo,y}
+M 0 26029    15 26062    An {BO,Y}I{W}c{Y}y S{W}h{Y}a{W}r{Y}d{bo,y}
+M 0 26029    15 26062    An {BO,Y}I{W}c{Y}y S{W}h{Y}a{W}r{Y}d{bo,y}
+M 0 26029    15 26062    An {BO,Y}I{W}c{Y}y S{W}h{Y}a{W}r{Y}d{bo,y}
+M 0 26029    15 26062    An {BO,Y}I{W}c{Y}y S{W}h{Y}a{W}r{Y}d{bo,y}
+M 0 26029    15 26062    An {BO,Y}I{W}c{Y}y S{W}h{Y}a{W}r{Y}d{bo,y}
+M 0 26029    15 26067    An {BO,Y}I{W}c{Y}y S{W}h{Y}a{W}r{Y}d{bo,y}
+M 0 26029    15 26067    An {BO,Y}I{W}c{Y}y S{W}h{Y}a{W}r{Y}d{bo,y}
+O 0 26008     3 26067    {BLU}A Plate of Ice{blu}
+M 0 26029    15 26068    An {BO,Y}I{W}c{Y}y S{W}h{Y}a{W}r{Y}d{bo,y}
+M 0 26029    15 26068    An {BO,Y}I{W}c{Y}y S{W}h{Y}a{W}r{Y}d{bo,y}
+O 0 26008     3 26068    {BLU}A Plate of Ice{blu}
+M 0 26029    15 26069    An {BO,Y}I{W}c{Y}y S{W}h{Y}a{W}r{Y}d{bo,y}
+M 0 26029    15 26069    An {BO,Y}I{W}c{Y}y S{W}h{Y}a{W}r{Y}d{bo,y}
+O 0 26008     3 26069    {BLU}A Plate of Ice{blu}
+M 0 26031     1 26072    {BO,C}An Icy Boulder{bo,c}
+G 1 26026     1     0    {W}A {bo,W}W{BO,C}e{bo,W}d{BO,C}g{bo,W}e Shaped Piece of {BO,C}Ice{bo,c}
+D 0 26073     5     1    (D:CLOSED) {BO,BL}Darkness {bo,bl}
+D 0 26074     4     1    (U:CLOSED) {bo,WH}A Lighted Chamber{bo,wh}
+M 0 26000    10 26075    {BO,WH} A Scrap of Food {bo,wh}
+M 0 26000    10 26075    {BO,WH} A Scrap of Food {bo,wh}
+M 0 26001    10 26075    {BO,BLU} A Streamer{bo,blu}
+M 0 26001    10 26075    {BO,BLU} A Streamer{bo,blu}
+M 0 26001    10 26075    {BO,BLU} A Streamer{bo,blu}
+M 0 26002     1 26076    {BO,Y}The Master of Admissions{bo,y}
+M 0 26033     3 26077    {BO,G}A runt{bo,g}
+M 0 26006     3 26077    {R}The Peddler{r}
+E 1 26028     6    17    (HELD) {B,C}An old {b,Y}bronze {B,C}key{b,c}
+M 0 26004     4 26077    A town mutt
+M 0 26005     8 26077    {BO,WH}A Citizen{bo,wh}
+O 0 26029     3 26077    The Peddler's Stand
+P 1 26027     6 26029    {BO,R}Wonder Elixir{bo,r}
+P 1 26027     6 26029    {BO,R}Wonder Elixir{bo,r}
+D 0 26077     0     2    (N:LOCKED) {MAGENTA}A bustling street of activity {mag}
+M 0 26005     8 26078    {BO,WH}A Citizen{bo,wh}
+M 0 26005     8 26078    {BO,WH}A Citizen{bo,wh}
+M 0 26004     4 26078    A town mutt
+M 0 26004     4 26079    A town mutt
+M 0 26005     8 26079    {BO,WH}A Citizen{bo,wh}
+M 0 26004     4 26079    A town mutt
+M 0 26033     3 26080    {BO,G}A runt{bo,g}
+M 0 26006     3 26080    {R}The Peddler{r}
+E 1 26028     6    17    (HELD) {B,C}An old {b,Y}bronze {B,C}key{b,c}
+M 0 26005     8 26080    {BO,WH}A Citizen{bo,wh}
+M 0 26005     8 26080    {BO,WH}A Citizen{bo,wh}
+M 0 26005     8 26080    {BO,WH}A Citizen{bo,wh}
+O 0 26029     3 26080    The Peddler's Stand
+P 1 26027     6 26029    {BO,R}Wonder Elixir{bo,r}
+P 1 26027     6 26029    {BO,R}Wonder Elixir{bo,r}
+D 0 26080     0     2    (N:LOCKED) {MAGENTA}A bustling street of activity {mag}
+M 0 26033     3 26081    {BO,G}A runt{bo,g}
+M 0 26006     3 26081    {R}The Peddler{r}
+E 1 26028     6    17    (HELD) {B,C}An old {b,Y}bronze {B,C}key{b,c}
+M 0 26005     8 26081    {BO,WH}A Citizen{bo,wh}
+O 0 26029     3 26081    The Peddler's Stand
+P 1 26027     6 26029    {BO,R}Wonder Elixir{bo,r}
+P 1 26027     6 26029    {BO,R}Wonder Elixir{bo,r}
+M 0 26003     1 26082    {BO,CY}The Wizard{bo,cy}
+E 1 26010     1    17    (HELD) {BO,W}The S{C}c{W}r{C}o{W}l{C}l{W}s of {C}Life{w,b}
+D 0 26082     2     2    (S:LOCKED) {BO,GR}A musty booth{bo,gr}
+M 0 26000    10 26083    {BO,WH} A Scrap of Food {bo,wh}
+M 0 26000    10 26083    {BO,WH} A Scrap of Food {bo,wh}
+M 0 26016     2 26085    {BO,BLU}A Thief{bo,blu}
+M 0 26016     2 26085    {BO,BLU}A Thief{bo,blu}
+M 0 26030     3 26087    An {BO,W}Ice-Lizard{bo,w}
+D 0 26087     4     2    (U:LOCKED) {BO,BLU}Up the Jagged Ice{bo,blu}
+M 0 26030     3 26088    An {BO,W}Ice-Lizard{bo,w}
+M 0 26030     3 26088    An {BO,W}Ice-Lizard{bo,w}
+D 0 26088     5     0    (D:OPEN) {BO,BLU}Near the Top of the Icy Cliff{bo,blu}
+M 0 26015     4 26089    {BO,BLA}A Drifting Shadow{bo,bla}
+E 1 26015     7     5    (BODY) {BO,BL}A Piece of Darkness{bo,bl}
+M 0 26015     4 26089    {BO,BLA}A Drifting Shadow{bo,bla}
+E 1 26015     7     5    (BODY) {BO,BL}A Piece of Darkness{bo,bl}
+M 0 26015     4 26089    {BO,BLA}A Drifting Shadow{bo,bla}
+E 1 26015     7     5    (BODY) {BO,BL}A Piece of Darkness{bo,bl}
+M 0 26017     1 26089    {BO,BLA}The S{bo,BLU}h{BO,BLA}a{bo,BLU}d{BO,BLA}o{bo,BLU}w{BO,BLA}m{bo,BLU}a{BO,BLA}s{bo,BLU}t{BO,BLA}e{bo,BLU}r{bo,blu}
+E 1 26015     7     5    (BODY) {BO,BL}A Piece of Darkness{bo,bl}
+E 1 26012     1    17    (HELD) {WH}A sharp knife{wh}
+E 1 26040     1    24    (TATTOO) {BO,BLA}The Omen of Darkness{bo,bla}
+M 0 26015     4 26089    {BO,BLA}A Drifting Shadow{bo,bla}
+D 0 26090     2     2    (S:LOCKED) {MAG}Fear of the unknown...{mag}
+M 0 26036     7 26091    A {bo,R}Brick{bo,r}
+M 0 26036     7 26091    A {bo,R}Brick{bo,r}
+M 0 26036     7 26091    A {bo,R}Brick{bo,r}
+M 0 26036     7 26091    A {bo,R}Brick{bo,r}
+M 0 26036     7 26091    A {bo,R}Brick{bo,r}
+M 0 26036     7 26091    A {bo,R}Brick{bo,r}
+M 0 26036     7 26091    A {bo,R}Brick{bo,r}
+O 0 26030     8 26091    {BO,Y}The Golden Brick{bo,y}
+O 0 26030     8 26091    {BO,Y}The Golden Brick{bo,y}
+O 0 26030     8 26091    {BO,Y}The Golden Brick{bo,y}
+O 0 26030     8 26091    {BO,Y}The Golden Brick{bo,y}
+O 0 26030     8 26091    {BO,Y}The Golden Brick{bo,y}
+O 0 26030     8 26091    {BO,Y}The Golden Brick{bo,y}
+O 0 26030     8 26091    {BO,Y}The Golden Brick{bo,y}
+O 0 26030     8 26091    {BO,Y}The Golden Brick{bo,y}
+O 0 26002     1 26091    {R}A Large Crushed Brick{r}
+M 0 26022     4 26092    A {BO,G}Mold Spore{bo,g}
+M 0 26021     4 26092    A{bo,Y} Dust Bunny{bo,y}
+M 0 26022     4 26092    A {BO,G}Mold Spore{bo,g}
+M 0 26021     4 26093    A{bo,Y} Dust Bunny{bo,y}
+M 0 26018     3 26093    {BO,BLU}T{bo,W}h{BO,BLU}e {bo,W}R{BO,BLU}o{bo,W}y{BO,BLU}a{bo,W}l {BO,BLU}G{bo,W}u{BO,BLU}a{bo,W}r{BO,BLU}d{bo,blu}
+E 1 26019     3    11    (SHIELD) {BO,BLU}The Shield of Royalty{bo,blu}
+M 0 26018     3 26093    {BO,BLU}T{bo,W}h{BO,BLU}e {bo,W}R{BO,BLU}o{bo,W}y{BO,BLU}a{bo,W}l {BO,BLU}G{bo,W}u{BO,BLU}a{bo,W}r{BO,BLU}d{bo,blu}
+E 1 26019     3    11    (SHIELD) {BO,BLU}The Shield of Royalty{bo,blu}
+M 0 26018     3 26093    {BO,BLU}T{bo,W}h{BO,BLU}e {bo,W}R{BO,BLU}o{bo,W}y{BO,BLU}a{bo,W}l {BO,BLU}G{bo,W}u{BO,BLU}a{bo,W}r{BO,BLU}d{bo,blu}
+E 1 26019     3    11    (SHIELD) {BO,BLU}The Shield of Royalty{bo,blu}
+M 0 26021     4 26093    A{bo,Y} Dust Bunny{bo,y}
+M 0 26022     4 26093    A {BO,G}Mold Spore{bo,g}
+M 0 26022     4 26093    A {BO,G}Mold Spore{bo,g}
+M 0 26021     4 26093    A{bo,Y} Dust Bunny{bo,y}
+D 0 26093     1     2    (E:LOCKED) {R}Castle Lassair{r}
+M 0 26025     1 26094    The {bo,W}Apprentice Wizard{bo,w}
+G 1 26009     2     0    {BO,C}A {W}G{C}l{W}o{C}w{W}i{C}n{W}g {C}Key{bo,c}
+M 0 26024     1 26094    {BLU}The Food Vendor{blu}
+G 1  3022    70     0    {R}An{R}{BOLD} imperial{bold}{R} longsword{r}
+M 0 26034     1 26096    {BO,BL}The Guardian{bo,bl}
+E 1 26033     1     0    (LIGHT) {W}An Orb Of {REV,BLA}Darkness{rev,bla}
+E 1 26015     7     5    (BODY) {BO,BL}A Piece of Darkness{bo,bl}
+E 1 26024     1    12    (ABOUT) {BO,W}F{bo,W}r{BO,W}o{bo,W}s{BO,W}t{bo,W}e{BO,W}d {Y}S{bo,Y}c{BO,Y}a{bo,Y}l{BO,Y}e{bo,Y}s{bo,y}
+E 1 26001     1    17    (HELD) {BO,C}The Key To Safety{bo,c}
+D 0 26096     4     2    (U:LOCKED) {bo,WH}A Lighted Chamber{bo,wh}
+M 0 26035     1 26097    Princess Allaire
+E 1 26025     1     2    (FINGER) {BO,W}A {bo,W}Ring of {BO,W}L{bo,W}i{BO,W}g{bo,W}h{BO,W}t{bo,w}
+$~

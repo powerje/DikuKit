@@ -1,0 +1,2398 @@
+#17400
+{GREEN,BOLD}Outside{green} of {CYAN}the{cyan} {BOLD,RED,BLINK}7{red}-{RED,BOLD,BLINK}11{red,bold,blink}~
+
+{YELL}-----------------------------       _____        -------------------------------------
+{GREE}-----------------------------           {RE}/        {GREE}-------------------------------------
+{RED}-----------------------------        {GREE}Eleven      {RED}-------------------------------------
+                                     /{red}
+     This is store number 174 of the {RED,BLI}7{red}{WHI}-{RED,BLI}11{red} franchise.  With its bright lights and
+     24 hour service, this is the store to get all your general needs. Slushies,
+     candy, hot dogs, chips, and much more await the weary traveler. The busy 
+     parking lot shows that this franchise cares about its customers, so go in 
+     and have a look.
+
+~
+174 262148 1
+D2
+~
+double doors~
+1 -1 17401
+E
+e~
+East Side of Market Square.
+~
+E
+statue~
+The famus statue of Data stands here.   This greate monument is so well
+crafted that it only could have been bult by a comm.
+~
+Z0
+C2
+R0
+S
+#17401
+{CYAN}Inside {RED}7{WHITE}-{RED}11{red}~
+
+     {CYA}Inside the store, many isles of goodies can be seen.  There is everything imaginable 
+     for the hungry traveler.  A thick aroma of coffee fills the air.  Bright lights shine on
+     the isles of snacks.  Every direction has an isle full of some sort of junk food.  Along
+     the back wall, rows and rows of refrigerators and freezers. {cya}
+
+~
+174 16777217 1
+D0
+~
+double doors~
+1 -1 17400
+D1
+~
+~
+0 -1 17402
+D2
+~
+~
+0 -1 17415
+D3
+~
+~
+0 -1 17416
+E
+steps~
+         Honesty
+       Dedication
+      Friendliness
+    Blood and Sweat
+~
+Z3
+C2
+R0
+S
+#17402
+{GREEN}News {CYAN,BOLD}paper{bold} {CYAN}rack{cyan}~
+
+     {CYA}Rows and rows of periodicals fill this isle.  Newspapers, magazines, and 
+     comics all neatly stacked on the shelves.  Will it be the local news or a 
+     tabloid? {cya}
+
+~
+174 0 1
+D1
+~
+~
+0 -1 17403
+D3
+~
+~
+0 -1 17401
+Z3
+C2
+R0
+S
+#17403
+{CYA,BO}Sl{YELL}ur{BLU}pee {GREE}Fountain{gree}~
+
+     The fountain of youth, the go-go juice to children.  The {CYA,BO}Sl{YEL}ur{BLUE}pee {GREE}Fountain!{gree}  
+     This hypnotic machine with its mixers going around and around supplies 
+     many gallons of this frozen sugary substance every day.  Get a 60 oz cup
+     and enjoy this rainbow, frozen treat. 
+
+~
+174 0 1
+D2
+~
+~
+0 -1 17404
+D3
+~
+~
+0 -1 17402
+Z3
+C2
+R0
+S
+#17404
+{RED}Soda {YELL}Fountain{yell}~
+
+     The Soda fountain is adorned with at least 20 nozzles, dispensing almost 
+     any flavor of soda imaginable.  {RED}Coke, {BLUE}Pepsi, {GREE,BO}Mountain Dew, {gree}and {YELL,BO}Orange 
+     Fanta{yell} to name a few.  Along the wall are cups in sizes of slight thirst to 
+     elephant thirst.  And at a price of only 99 cents, its is impossible to not 
+     grab a cup and go. 
+
+~
+174 8 1
+D0
+~
+~
+0 -1 17403
+D2
+~
+~
+0 -1 17405
+Z3
+C2
+R0
+S
+#17405
+Hotdog and Hamburger Central~
+
+     At this counter, the smell of hotdogs, hamburgers, wings, and spring rolls 
+     fill the air.  A hotdog rotisserie works its magic, rotating the hotdogs to 
+     cooked perfection.  Just beside the counter is condiments.  {GREE,BO}Pickle relish,
+     {RED}ketchup, {YELL}mustard,{yell} and {WHI,BO}mayonnaise{whi}.  A tasty snack for the busy traveler!
+
+~
+174 262144 1
+D0
+~
+~
+0 -1 17404
+D2
+~
+door~
+5 17404 17406
+D3
+~
+~
+0 -1 17407
+Z3
+C2
+R0
+S
+#17406
+{YELL}Storage Room{yell}~
+
+     The storage room is stocked from floor to ceiling with boxes of goods.  The room is
+     dimly lit by one single light, which {WHI,BO,BLI}flickers{whi} from time to time.  There are a few chairs
+     in the corner for employees on break.  There is a checklist hung on the wall with an
+     inventory report.  This is obviously and {RED}employee only area{red}. 
+
+~
+174 8 1
+D0
+~
+door~
+1 -1 17405
+E
+poster beer model~
+                        .##.    __________________________
+                        |::|    |                  |oooooo
+                        (<>)    L_Y_Y_Y_Y_Y_Y_Y_Y_YL______
+                        .JL,_.  |                  |oooooo
+                       ((oYo \\ L_h_h_hih_h_h_h_h__L______
+                       ||}  { ))|      H           |oooooo
+             _______Y_//_)__(_((L_h_Y__Hh_h_h_h_h__L______ 
+              Y--------///()))----------------------------
+              |       "(("^//"`  
+              |         \\((      
+              |           ))       
+              |          //\\_     
+                        0'   0     
+~
+Z3
+C-1
+R0
+S
+#17407
+{CYA,BO}The Freezer Section{cya}~
+
+     {CYA,BO}Rows of freezers and refrigerators line the wall.  Each one as impressive as the
+     next with its offerings of frozen goodies.  Ice creams, burritos, TV dinners, and
+     much more.  As the door opens, a frigid air can be felt rushing out.  Better not 
+     waste too much time here.{cya}
+
+~
+174 32 1
+D0
+A small counter for employees only
+
+~
+Counter~
+2 17400 17408
+D1
+~
+~
+0 -1 17405
+D3
+~
+~
+0 -1 17409
+Z3
+C-1
+R0
+S
+#17408
+Behind the counter~
+
+     Behind the counter there can be seen walls of cigarettes and other age
+     sensitive items. These items are either expensive or not for minors. The
+     counter is busy with last minute items, small bags of candies, and small 
+     trinkets. There is a laser scanner that the cashier uses to ring up customers.
+     The ding of the cash register can be heard with each transaction. The 
+     cashier rushes each item past, takes payment, then moves on to the next
+     customer.
+
+~
+174 12 1
+D2
+~
+Counter~
+1 -1 17407
+Z3
+C-1
+R0
+S
+#17409
+{CY}Wall{BO,CY} of {BLUE}Refrigerators{blue}~
+
+     {CYA,BO}Rows of freezers and refrigerators line the wall.  Each one as impressive as the
+     next with its offerings of frozen goodies.  Ice creams, burritos, TV dinners, and
+     much more.  As the door opens, a frigid air can be felt rushing out.  Better not 
+     waste too much time here.{cya}
+
+~
+174 0 1
+D0
+~
+~
+0 -1 17415
+D1
+~
+~
+0 -1 17407
+D3
+~
+~
+0 -1 17410
+Z3
+C-1
+R0
+S
+#17410
+{CYAN}Wall {BOLD}of{bold} {BLUE}Freezers{blue}~
+
+     {CYA,BO}Rows of freezers and refrigerators line the wall.  Each one as impressive as the
+     next with its offerings of frozen goodies.  Ice creams, burritos, TV dinners, and
+     much more.  As the door opens, a frigid air can be felt rushing out.  Better not 
+     waste too much time here.{cya}
+
+~
+174 8 1
+D1
+~
+~
+0 -1 17409
+D3
+~
+~
+0 -1 17411
+Z3
+C-1
+R0
+S
+#17411
+{BLACK}Back {CYAN}Corner{cyan}~
+
+     This is a small corner of the store, next to where the beer fridge is.  
+     There is not much going on in this corner other than customers pushing 
+     past each other.  A wet floor sign reminds you to watch your step. 
+
+~
+174 8 1
+D0
+~
+~
+0 -1 17413
+D1
+~
+~
+0 -1 17410
+D2
+Freezers line the back wall of the store.
+
+~
+Freezer~
+1 17402 17412
+Z3
+C-1
+R0
+S
+#17412
+{BLUE}Inside{BOLD,BLUE} the {YELLOW}Fridge{yellow}~
+
+     Inside the fridge the walls are lined with boxes of beer.  All
+     the favorite brands are here.  Six-packs line the shelves in front
+     of the refrigerator doors.  Cases are stacked neatly around the walkway.
+     The prices are neatly placed above each isle to show the great bargain on
+     the many brands.  
+
+~
+174 40 1
+D0
+~
+Freezer~
+1 -1 17411
+X4194304
+Z3
+C-1
+R0
+S
+#17413
+{CYAN}Chips {BOLD}section!{cyan}~
+
+    The munchies section of the store!  Chips, corn 
+    nuts, and beer nuts are just some of the many
+    things you can find here in this section.
+
+~
+174 8 1
+D0
+~
+~
+0 -1 17417
+D1
+~
+~
+0 -1 17414
+D2
+~
+~
+0 -1 17411
+Z3
+C-1
+R0
+S
+#17414
+{RED}Candy {GREEN}isle{green}~
+
+     This isle is sugar heaven with its hundreds of different
+     chocolates, caramels, and fruit candies.  The smell of 
+     sugar fills the air, so much so that it is almost sickening.
+     Little kids run up and down the isles looking for their
+     favorite brand. 
+
+~
+174 8 1
+D1
+~
+~
+0 -1 17415
+D3
+~
+~
+0 -1 17413
+E
+north~
+~
+Z3
+C-1
+R0
+S
+#17415
+Behind the counter~
+
+     Behind the counter there can be seen walls of cigarettes and other age
+     sensitive items. These items are either expensive or not for minors. The
+     counter is busy with last minute items, small bags of candies, and small 
+     trinkets. There is a laser scanner that the cashier uses to ring up customers.
+     The ding of the cash register can be heard with each transaction. The 
+     cashier rushes each item past, takes payment, then moves on to the next
+     customer.
+
+~
+174 12 1
+D0
+~
+~
+0 -1 17401
+D2
+~
+~
+0 -1 17409
+D3
+~
+~
+0 -1 17414
+E
+painting~
+This is the painting of the high lord Dominius.   A sigh is held next to it
+pronounceing that any thing done to the picture will result in DEATH.
+~
+Z3
+C-1
+R0
+S
+#17416
+{RED}Random {BOLD}item {CYAN}Aisle{cyan}~
+
+     The random items isle has car parts, cereal, and boxed dinners.  
+     These are all the things that travelers may need while on their 
+     journey.  
+
+~
+174 8 0
+D1
+~
+~
+0 -1 17401
+D3
+~
+~
+0 -1 17417
+Z3
+C-1
+R0
+S
+#17417
+{BLUE}Ice{BOLD} Freezer{blue}~
+
+     {BLU}This is the ice freezer, where bags of ice are stacked up awaiting
+     purchase.  The large machine hums and thumps as it produces
+     fresh ice cubes, loads them in a bag, and drops into the freezer. {blu}
+
+~
+174 8 1
+D1
+~
+~
+0 -1 17416
+D2
+~
+~
+0 -1 17413
+Z3
+C-1
+R0
+S
+#17418
+{BLU,BO}Behind the Touchscreen{blue}~
+
+     {BLA,BO}Just behind a touchscreen many of the latest {BLU,REV}DVD{blu}{BLA,BO} movie releases can be seen.  
+     Miles of {YEL}wire{BLA} connect the panels and circuit boards.  Electrical currents can
+     be seen transferring {CYA}data {BLA}back and forth.  As a selection is made, a {BLU,REV}DVD{blu}{BLA} is 
+     quickly summoned to the exit and delivered to the customer.  There is a large
+     sign above the screen that says digital releases now available.{bla}  
+
+~
+174 20971532 0
+D1
+~
+~
+0 -1 17419
+E
+note~
+
+     List  - Show which various items are in the store.
+     Buy   - Buy an item.
+     Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+     Sell  - Sell an item.
+
+~
+X2092
+Z3
+C2
+R0
+S
+#17419
+Just Inside the Door.~
+
+    {WHI,BO} Entering the maze of wires and data there is an overwhelming sense of
+     fear and panic.  Everything is abuzz with electricity.  The millions of 
+     little circuits are humming and buzzing.  DVDs are neatly stacked in 
+     their shelves, waiting to be selected.  {whi}
+
+~
+174 8 0
+D0
+~
+~
+0 -1 17422
+D1
+~
+~
+0 -1 17420
+D3
+~
+~
+0 -1 17418
+E
+note~
+
+     List  - Show which various items are in the store.
+     Buy   - Buy an item.
+     Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+     Sell  - Sell an item.
+
+~
+Z3
+C2
+R0
+S
+#17420
+{BLA,BO}A Maze of {CYA}Data {BLA}and {YEL}Wires!{yell}~
+
+     {BLA,BO}Inside the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO} seems to be a huge maze of {CYA}data{BLA} and {YEL}wires{BLA}.  As selections
+     are made, the {CYA}data {BLA}travels off to find the selected movie.  {CYA}Data {BLA}can be seen
+     streaming in all directions.  Huge bundles of twisted {YEL}wires {BLA}connect the many
+     circuit boards throughout the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO}.  Shiny {BLU,REV}DVDs{blu}{BLA,BO} are all over, with the latest
+     movie selection for the discerning customer. {bla}
+
+~
+174 8 0
+D0
+~
+~
+0 -1 17421
+D1
+~
+~
+0 -1 17438
+D2
+~
+~
+0 -1 17424
+D3
+~
+~
+0 -1 17419
+Z3
+C2
+R0
+S
+#17421
+{BLA,BO}A Maze of {CYA}Data {BLA}and {YEL}Wires!{yell}~
+
+     {BLA,BO}Inside the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO} seems to be a huge maze of {CYA}data{BLA} and {YEL}wires{BLA}.  As selections
+     are made, the {CYA}data {BLA}travels off to find the selected movie.  {CYA}Data {BLA}can be seen
+     streaming in all directions.  Huge bundles of twisted {YEL}wires {BLA}connect the many
+     circuit boards throughout the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO}.  Shiny {BLU,REV}DVDs{blu}{BLA,BO} are all over, with the latest
+     movie selection for the discerning customer. {bla}
+
+~
+174 8 0
+D0
+~
+~
+0 -1 17434
+D1
+~
+~
+0 -1 17435
+D2
+~
+~
+0 -1 17420
+D3
+~
+~
+0 -1 17422
+Z3
+C2
+R0
+S
+#17422
+{BLA,BO}A Maze of {CYA}Data {BLA}and {YEL}Wires!{yell}~
+
+     {BLA,BO}Inside the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO} seems to be a huge maze of {CYA}data{BLA} and {YEL}wires{BLA}.  As selections
+     are made, the {CYA}data {BLA}travels off to find the selected movie.  {CYA}Data {BLA}can be seen
+     streaming in all directions.  Huge bundles of twisted {YEL}wires {BLA}connect the many
+     circuit boards throughout the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO}.  Shiny {BLU,REV}DVDs{blu}{BLA,BO} are all over, with the latest
+     movie selection for the discerning customer. {bla}
+
+~
+174 1048584 0
+D1
+~
+~
+0 -1 17421
+D2
+~
+~
+0 -1 17419
+Z3
+C2
+R0
+S
+#17423
+{WHI,BO}The Hard Drive{whi}~
+
+     Rows and rows of hard drives fill this enclosure. Lights
+     {WHI,BO,BLI}blink{whi} on and off to signify data transfer. Looms of wires
+     the hard drives.  Fans can be heard clicking on and off, 
+     creating a gust of wind that cools the drives. 
+
+~
+174 296 0
+D1
+~
+dataport~
+1 -1 17434
+T17428
+Z3
+C2
+R0
+S
+#17424
+{BLA,BO}A Maze of {CYA}Data {BLA}and {YEL}Wires!{yell}~
+
+     {BLA,BO}Inside the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO} seems to be a huge maze of {CYA}data{BLA} and {YEL}wires{BLA}.  As selections
+     are made, the {CYA}data {BLA}travels off to find the selected movie.  {CYA}Data {BLA}can be seen
+     streaming in all directions.  Huge bundles of twisted {YEL}wires {BLA}connect the many
+     circuit boards throughout the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO}.  Shiny {BLU,REV}DVDs{blu}{BLA,BO} are all over, with the latest
+     movie selection for the discerning customer. {bla}
+
+~
+174 1048584 0
+D0
+~
+~
+0 -1 17420
+D1
+~
+~
+0 -1 17425
+Z3
+C2
+R0
+S
+#17425
+{BLA,BO}A Maze of {CYA}Data {BLA}and {YEL}Wires!{yell}~
+
+     {BLA,BO}Inside the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO} seems to be a huge maze of {CYA}data{BLA} and {YEL}wires{BLA}.  As selections
+     are made, the {CYA}data {BLA}travels off to find the selected movie.  {CYA}Data {BLA}can be seen
+     streaming in all directions.  Huge bundles of twisted {YEL}wires {BLA}connect the many
+     circuit boards throughout the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO}.  Shiny {BLU,REV}DVDs{blu}{BLA,BO} are all over, with the latest
+     movie selection for the discerning customer. {bla}
+
+~
+174 1048584 0
+D0
+~
+~
+0 -1 17438
+D1
+~
+~
+0 -1 17426
+D3
+~
+~
+0 -1 17424
+Z3
+C2
+R0
+S
+#17426
+{BLA,BO}A Maze of {CYA}Data {BLA}and {YEL}Wires!{yell}~
+
+     {BLA,BO}Inside the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO} seems to be a huge maze of {CYA}data{BLA} and {YEL}wires{BLA}.  As selections
+     are made, the {CYA}data {BLA}travels off to find the selected movie.  {CYA}Data {BLA}can be seen
+     streaming in all directions.  Huge bundles of twisted {YEL}wires {BLA}connect the many
+     circuit boards throughout the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO}.  Shiny {BLU,REV}DVDs{blu}{BLA,BO} are all over, with the latest
+     movie selection for the discerning customer. {bla}
+
+~
+174 1048584 0
+D0
+~
+~
+0 -1 17437
+D1
+~
+~
+0 -1 17427
+D3
+~
+~
+0 -1 17425
+Z3
+C2
+R0
+S
+#17427
+{BLA,BO}A Maze of {CYA}Data {BLA}and {YEL}Wires!{yell}~
+
+     {BLA,BO}Inside the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO} seems to be a huge maze of {CYA}data{BLA} and {YEL}wires{BLA}.  As selections
+     are made, the {CYA}data {BLA}travels off to find the selected movie.  {CYA}Data {BLA}can be seen
+     streaming in all directions.  Huge bundles of twisted {YEL}wires {BLA}connect the many
+     circuit boards throughout the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO}.  Shiny {BLU,REV}DVDs{blu}{BLA,BO} are all over, with the latest
+     movie selection for the discerning customer. {bla}
+
+~
+174 8 0
+D0
+~
+~
+0 -1 17429
+D1
+~
+adult~
+2 17408 17428
+D2
+~
+~
+0 -1 17435
+D3
+~
+~
+0 -1 17426
+Z3
+C-1
+R0
+S
+#17428
+{GREE}Adult Section{gree}~
+
+     {MAG,BO}This is the little-known and mostly hidden area of
+     {RE}R{re}{RE}e{BO}d{re}{RE}B{BO}o{re}{RE}x{MAG,BO}, the Adult Section.  Many sultry titles are 
+     here to choose from.  Some things should never be
+     seen.  Others are just enough to turn up the {RE}heat.{re}
+
+~
+174 1207959576 0
+D3
+~
+adult~
+1 -1 17427
+X4194334
+Z3
+C2
+R0
+S
+#17429
+{BLA,BO}A Maze of {CYA}Data {BLA}and {YEL}Wires!{yell}~
+
+     {BLA,BO}Inside the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO} seems to be a huge maze of {CYA}data{BLA} and {YEL}wires{BLA}.  As selections
+     are made, the {CYA}data {BLA}travels off to find the selected movie.  {CYA}Data {BLA}can be seen
+     streaming in all directions.  Huge bundles of twisted {YEL}wires {BLA}connect the many
+     circuit boards throughout the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO}.  Shiny {BLU,REV}DVDs{blu}{BLA,BO} are all over, with the latest
+     movie selection for the discerning customer. {bla}
+
+~
+174 8 0
+D0
+~
+~
+0 -1 17430
+D1
+~
+~
+0 -1 17435
+D2
+~
+~
+0 -1 17427
+D3
+~
+~
+0 -1 17437
+E
+note~
+ You can use these commands for trading:
+
+ value item     To get the price of an item in your possession.
+  sell item      To sell something.
+  buy item       To buy something (provided that the shop has it in store).
+  list             Gives you a listing of the shop's inventory.
+
+        WE DON'T GIVE CREDIT; WE DON'T EXPECT TO RECEIVE CREDIT!
+                            NO HAGGLING
+~
+Z3
+C2
+R0
+S
+#17430
+{BLA,BO}A Maze of {CYA}Data {BLA}and {YEL}Wires!{yell}~
+
+     {BLA,BO}Inside the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO} seems to be a huge maze of {CYA}data{BLA} and {YEL}wires{BLA}.  As selections
+     are made, the {CYA}data {BLA}travels off to find the selected movie.  {CYA}Data {BLA}can be seen
+     streaming in all directions.  Huge bundles of twisted {YEL}wires {BLA}connect the many
+     circuit boards throughout the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO}.  Shiny {BLU,REV}DVDs{blu}{BLA,BO} are all over, with the latest
+     movie selection for the discerning customer. {bla}
+
+~
+174 8 0
+D0
+~
+maze~
+1 -1 17431
+D1
+~
+~
+0 -1 17435
+D2
+~
+~
+0 -1 17429
+D3
+~
+~
+0 -1 17436
+Z3
+C2
+R0
+S
+#17431
+New Releases~
+
+     All of the newest release {BLUE,BO}DVDs{blue} are here.  Large hard drives sit
+     one atop the other, for as far as you can see.  A large {YELL,BO,BLI}Data Bus{yell}
+     connects the drives together, allowing users to select digital
+     releases.
+
+~
+174 8 0
+D2
+
+     A twisted maze of wires and data. 
+
+~
+maze~
+1 -1 17430
+D3
+~
+release~
+1 -1 17432
+Z3
+C-1
+R0
+S
+#17432
+{BLA,BO}A Maze of {CYA}Data {BLA}and {YEL}Wires!{yell}~
+
+     {BLA,BO}Inside the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO} seems to be a huge maze of {CYA}data{BLA} and {YEL}wires{BLA}.  As selections
+     are made, the {CYA}data {BLA}travels off to find the selected movie.  {CYA}Data {BLA}can be seen
+     streaming in all directions.  Huge bundles of twisted {YEL}wires {BLA}connect the many
+     circuit boards throughout the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO}.  Shiny {BLU,REV}DVDs{blu}{BLA,BO} are all over, with the latest
+     movie selection for the discerning customer. {bla}
+
+~
+174 8 0
+D0
+~
+~
+0 -1 17435
+D1
+
+     All the newest releases are here for your enjoyment!
+
+~
+release~
+3 -1 17431
+D2
+~
+~
+0 -1 17436
+D3
+~
+~
+0 -1 17433
+Z3
+C-1
+R0
+S
+#17433
+{BLA,BO}A Maze of {CYA}Data {BLA}and {YEL}Wires!{yell}~
+
+     {BLA,BO}Inside the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO} seems to be a huge maze of {CYA}data{BLA} and {YEL}wires{BLA}.  As selections
+     are made, the {CYA}data {BLA}travels off to find the selected movie.  {CYA}Data {BLA}can be seen
+     streaming in all directions.  Huge bundles of twisted {YEL}wires {BLA}connect the many
+     circuit boards throughout the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO}.  Shiny {BLU,REV}DVDs{blu}{BLA,BO} are all over, with the latest
+     movie selection for the discerning customer. {bla}
+
+~
+174 8 0
+D0
+~
+~
+0 -1 17435
+D1
+~
+~
+0 -1 17432
+D2
+~
+~
+0 -1 17435
+D3
+~
+~
+0 -1 17434
+Z3
+C2
+R0
+S
+#17434
+{BLA,BO}A Maze of {CYA}Data {BLA}and {YEL}Wires!{yell}~
+
+     {BLA,BO}Inside the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO} seems to be a huge maze of {CYA}data{BLA} and {YEL}wires{BLA}.  As selections
+     are made, the {CYA}data {BLA}travels off to find the selected movie.  {CYA}Data {BLA}can be seen
+     streaming in all directions.  Huge bundles of twisted {YEL}wires {BLA}connect the many
+     circuit boards throughout the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO}.  Shiny {BLU,REV}DVDs{blu}{BLA,BO} are all over, with the latest
+     movie selection for the discerning customer. {bla}
+
+~
+174 8 0
+D0
+~
+~
+0 -1 17435
+D1
+~
+~
+0 -1 17433
+D2
+~
+~
+0 -1 17421
+D3
+~
+dataport~
+2 17408 17423
+Z3
+C2
+R0
+S
+#17435
+{BLA,BO}A Maze of {CYA}Data {BLA}and {YEL}Wires!{yell}~
+
+     {BLA,BO}Inside the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO} seems to be a huge maze of {CYA}data{BLA} and {YEL}wires{BLA}.  As selections
+     are made, the {CYA}data {BLA}travels off to find the selected movie.  {CYA}Data {BLA}can be seen
+     streaming in all directions.  Huge bundles of twisted {YEL}wires {BLA}connect the many
+     circuit boards throughout the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO}.  Shiny {BLU,REV}DVDs{blu}{BLA,BO} are all over, with the latest
+     movie selection for the discerning customer. {bla}
+
+~
+174 1048584 0
+D0
+~
+~
+0 -1 17433
+D1
+~
+~
+0 -1 17436
+D2
+~
+~
+0 -1 17433
+D3
+~
+~
+0 -1 17421
+Z3
+C2
+R0
+S
+#17436
+{BLA,BO}A Maze of {CYA}Data {BLA}and {YEL}Wires!{yell}~
+
+     {BLA,BO}Inside the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO} seems to be a huge maze of {CYA}data{BLA} and {YEL}wires{BLA}.  As selections
+     are made, the {CYA}data {BLA}travels off to find the selected movie.  {CYA}Data {BLA}can be seen
+     streaming in all directions.  Huge bundles of twisted {YEL}wires {BLA}connect the many
+     circuit boards throughout the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO}.  Shiny {BLU,REV}DVDs{blu}{BLA,BO} are all over, with the latest
+     movie selection for the discerning customer. {bla}
+
+~
+174 1048584 0
+D0
+~
+~
+0 -1 17432
+D1
+~
+~
+0 -1 17430
+D2
+~
+~
+0 -1 17437
+D3
+~
+~
+0 -1 17435
+Z3
+C2
+R0
+S
+#17437
+{BLA,BO}A Maze of {CYA}Data {BLA}and {YEL}Wires!{yell}~
+
+     {BLA,BO}Inside the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO} seems to be a huge maze of {CYA}data{BLA} and {YEL}wires{BLA}.  As selections
+     are made, the {CYA}data {BLA}travels off to find the selected movie.  {CYA}Data {BLA}can be seen
+     streaming in all directions.  Huge bundles of twisted {YEL}wires {BLA}connect the many
+     circuit boards throughout the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO}.  Shiny {BLU,REV}DVDs{blu}{BLA,BO} are all over, with the latest
+     movie selection for the discerning customer. {bla}
+
+~
+174 1048584 0
+D0
+~
+~
+0 -1 17436
+D1
+~
+~
+0 -1 17429
+D2
+~
+~
+0 -1 17426
+D3
+~
+~
+0 -1 17438
+Z3
+C2
+R0
+S
+#17438
+{BLA,BO}A Maze of {CYA}Data {BLA}and {YEL}Wires!{yell}~
+
+     {BLA,BO}Inside the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO} seems to be a huge maze of {CYA}data{BLA} and {YEL}wires{BLA}.  As selections
+     are made, the {CYA}data {BLA}travels off to find the selected movie.  {CYA}Data {BLA}can be seen
+     streaming in all directions.  Huge bundles of twisted {YEL}wires {BLA}connect the many
+     circuit boards throughout the {RE}R{re}{RED}e{RE,BO}d{re}{RE}B{RE,BO}o{re}{RE}x{re}{BLA,BO}.  Shiny {BLU,REV}DVDs{blu}{BLA,BO} are all over, with the latest
+     movie selection for the discerning customer. {bla}
+
+~
+174 1048584 0
+D0
+~
+~
+0 -1 17435
+D1
+~
+~
+0 -1 17437
+D2
+~
+~
+0 -1 17425
+D3
+~
+~
+0 -1 17420
+Z3
+C2
+R0
+S
+#17439
+{GREE}Adult Entertainment{gree}~
+
+     This area is for adults only. Many naughty DVDs 
+     are laying about.  Titles that don't leave much
+     to the imagination.  It is best to quickly make
+     a selection and leave. 
+
+~
+174 16 0
+D0
+~
+~
+0 -1 17450
+D1
+~
+~
+0 -1 17440
+X23068862
+Z3
+C2
+R0
+S
+#17440
+{GREE}Adult Entertainment{gree}~
+
+     This area is for adults only. Many naughty DVDs 
+     are laying about.  Titles that don't leave much
+     to the imagination.  It is best to quickly make
+     a selection and leave. 
+
+~
+174 16 0
+D1
+~
+dirty~
+2 17408 17441
+D2
+~
+~
+0 -1 17442
+D3
+~
+~
+0 -1 17439
+X23068862
+Z3
+C2
+R0
+S
+#17441
+{WHI,BO}A Dirty Room{whi}~
+
+     This room is completely filthy. There are old tissues
+     on the floor.  There are clothes strewn about. There 
+     is a very dank, rancid smell filling the air. Someon
+     Should open a window and let a breeze in.
+
+~
+174 98312 0
+D3
+~
+dirty~
+1 -1 17440
+X2048
+Z3
+C2
+R0
+S
+#17442
+{GREE}Adult Entertainment{gree}~
+
+     This area is for adults only. Many naughty DVDs 
+     are laying about.  Titles that don't leave much
+     to the imagination.  It is best to quickly make
+     a selection and leave. 
+
+~
+174 16 0
+D0
+~
+~
+0 -1 17440
+D2
+~
+~
+0 -1 17443
+X23068862
+Z3
+C2
+R0
+S
+#17443
+{GREE}Adult Entertainment{gree}~
+
+     This area is for adults only. Many naughty DVDs 
+     are laying about.  Titles that don't leave much
+     to the imagination.  It is best to quickly make
+     a selection and leave. 
+
+~
+174 16 0
+D0
+~
+~
+0 -1 17442
+D1
+~
+~
+0 -1 17444
+X23068862
+Z3
+C2
+R0
+S
+#17444
+{GREE}Adult Section{gree}~
+
+     {MAG,BO}This is the little-known and mostly hidden area of
+     {RE}R{re}{RE}e{BO}d{re}{RE}B{BO}o{re}{RE}x{MAG,BO}, the Adult Section.  Many sultry titles are 
+     here to choose from.  Some things should never be
+     seen.  Others are just enough to turn up the {RE}heat.{re}
+
+~
+174 1207959832 0
+D3
+~
+~
+0 -1 17443
+T17441
+X4194334
+Z3
+C2
+R0
+S
+#17445
+Out Side an old western saloon.~
+Wow, this feels like you in a John Wayne movie.
+Inside you hear casual chatter of people.  A
+piano plays inside.  You peek through the dusty
+doors and see lots of cow boys, poker players,
+and bar girls.
+~
+174 8 1
+D2
+~
+~
+0 -1 17446
+Z3
+C-1
+R0
+S
+#17446
+Just Inside The Saloon.~
+Wow, what a clasic seen, lots of dirty men 
+line the bar, and the poker tables where 
+they gamble away there months earnings.
+There are a few girls wondering around in
+cute little dresses.
+~
+174 0 1
+D0
+~
+~
+0 -1 17445
+D1
+~
+~
+0 -1 17452
+D2
+~
+~
+0 -1 17451
+D3
+~
+~
+0 -1 17447
+Z3
+C-1
+R0
+S
+#17447
+Poker Tables~
+This side of the room holds a dozen green felt
+tables.  Some of the tables are full, some for 
+chump change, a few are for big stakes.  Large 
+piles of cash sit in front of a few men.
+~
+174 8 0
+D1
+~
+~
+0 -1 17446
+D2
+~
+~
+0 -1 17448
+Z3
+C-1
+R0
+S
+#17448
+Poker Tables~
+This side of the room holds a dozen green felt
+tables.  Some of the tables are full, some for 
+chump change, a few are for big stakes.  Large 
+piles of cash sit in front of a few men.
+~
+174 8 0
+D0
+~
+~
+0 -1 17447
+D1
+~
+~
+0 -1 17451
+D2
+~
+~
+0 -1 17459
+Z3
+C-1
+R0
+S
+#17449
+{GREE}Adult Entertainment{gree}~
+
+     This area is for adults only. Many naughty DVDs 
+     are laying about.  Titles that don't leave much
+     to the imagination.  It is best to quickly make
+     a selection and leave. 
+
+~
+174 16 0
+D2
+~
+~
+0 -1 17450
+X23068862
+Z3
+C2
+R0
+S
+#17450
+{GREE}Adult Entertainment{gree}~
+
+     This area is for adults only. Many naughty DVDs 
+     are laying about.  Titles that don't leave much
+     to the imagination.  It is best to quickly make
+     a selection and leave. 
+
+~
+174 16 0
+D0
+~
+~
+0 -1 17449
+D2
+~
+~
+0 -1 17439
+X23068862
+Z3
+C2
+R0
+S
+#17451
+Inside the Bar.~
+Between the poker tables, and the rest
+of the room.   To the east are normal 
+tables, and to the south is the bar.
+~
+174 262152 1
+D0
+~
+~
+0 -1 17446
+D1
+~
+~
+0 -1 17453
+D2
+~
+~
+0 -1 17458
+D3
+~
+~
+0 -1 17448
+Z3
+C-1
+R0
+S
+#17452
+General Seating~
+A spread out area, with a few tables, and 
+chairs.   A cute waitress wonders around
+serving drinks.   
+~
+174 262152 1
+D2
+~
+~
+0 -1 17453
+D3
+~
+~
+0 -1 17446
+Z3
+C-1
+R0
+S
+#17453
+General Seating~
+A spread out area, with a few tables, and 
+chairs.   A cute waitress wonders around
+serving drinks.   
+~
+174 262152 1
+D0
+~
+~
+0 -1 17452
+D1
+~
+~
+0 -1 17455
+D2
+~
+~
+0 -1 17457
+D3
+~
+~
+0 -1 17451
+Z3
+C-1
+R0
+S
+#17454
+Next to the Piano~
+A upright piano stands here, open for anyone
+to play.   Usualy a little man in a suit 
+comes out to play.  Sometimes one of the 
+girls comes out and sings.
+~
+174 262152 1
+D1
+~
+~
+0 -1 17453
+D2
+~
+~
+0 -1 17455
+Z3
+C-1
+R0
+S
+#17455
+Standing at the Bar~
+Spread out area with a bunch of tables.
+To the north is where the piano is, and 
+where the singer stand.
+~
+174 262152 1
+D0
+~
+~
+0 -1 17454
+D2
+~
+~
+0 -1 17456
+D3
+~
+~
+0 -1 17453
+Z3
+C-1
+R0
+S
+#17456
+Standing at the Bar~
+"Order up a drink, anything you want
+we can mix any drink known to man!"
+~
+174 262152 1
+D0
+~
+~
+0 -1 17455
+D3
+~
+~
+0 -1 17457
+Z3
+C-1
+R0
+S
+#17457
+Sitting at the Bar.~
+"Fourty different types of Beers, Ales, 
+Malts, and wines!"
+~
+174 0 1
+D0
+~
+~
+0 -1 17453
+D1
+~
+~
+0 -1 17456
+D3
+~
+~
+0 -1 17458
+Z3
+C-1
+R0
+S
+#17458
+Standing at the Bar~
+"Take one down, pass it around.
+Ninty-One Bottle's of BEER on 
+the WALL!"
+~
+174 262152 1
+D0
+~
+~
+0 -1 17451
+D1
+~
+~
+0 -1 17457
+D3
+~
+~
+0 -1 17459
+Z3
+C-1
+R0
+S
+#17459
+End of the Bar.~
+Ahh! No more Bar Space!  Hey, the bartender 
+isn't watching,  you could just sneak around 
+the corrner and take a bottle of vodka or 
+something.
+~
+174 8 1
+D0
+~
+~
+0 -1 17448
+D2
+~
+~
+0 -1 17460
+D4
+~
+~
+0 -1 17466
+Z3
+C-1
+R0
+S
+#17460
+Behind the bar.~
+Behind the bar!
+Look at all these bottles!!!  A Drunks 
+Heaven!   The Bar continues to the east
+and leads to a door.
+~
+174 262144 1
+D0
+~
+~
+0 -1 17459
+D1
+~
+~
+0 -1 17461
+Z3
+C-1
+R0
+S
+#17461
+Behind the bar.~
+Hmm...  Death by Chocolate...  Take a Glass
+2 parts Irish Cream, 1 part Brown Creme 
+de Cacao, one part vodka over a scoop 
+of chocolate ice cream.  
+The Bar continues to the east and leads to 
+a door.
+~
+174 262144 1
+D1
+~
+~
+0 -1 17462
+D3
+~
+~
+0 -1 17460
+E
+west A broken emergancy door.~
+Its not much of an emergancy door, it seems to be broken.
+~
+Z3
+C-1
+R0
+S
+#17462
+Behind the bar.~
+Behind the bar...  After you stop drowning 
+your self in beer from the ceg here you see 
+a small cash box...  Wait, there must be a 
+bigger one somewhere around here..
+~
+174 262144 1
+D1
+An old fashion hardwood door.
+~
+Door~
+2 -1 17463
+D3
+~
+~
+0 -1 17461
+Z3
+C-1
+R0
+S
+#17463
+Back Room~
+Hey, now you see that bigger cash box you 
+where thinking of.  Looks like its got a big 
+lock...  Some older bottles are stored back 
+here, whiskey 1846, some bottles of wine with
+the dates between 1830-1850.
+~
+174 327680 1
+D3
+~
+Door~
+1 -1 17462
+Z3
+C-1
+R0
+S
+#17464
+Balcony overlooking the bar.~
+To the south is a bed room, it sounds quiet.. 
+lets get one of those girls from down stairs
+up here.
+~
+174 262144 1
+D2
+~
+~
+0 -1 17472
+D3
+~
+~
+0 -1 17465
+Z3
+C-1
+R0
+S
+#17465
+Balcony overlooking the bar.~
+To the south is a bed room, some muffled sounds
+come from the room,  want to break up the party?
+To the north and down are the patrons in the bar 
+having fun in many of ways.
+~
+174 262144 1
+D1
+~
+~
+0 -1 17464
+D2
+~
+~
+0 -1 17471
+D3
+~
+~
+0 -1 17466
+Z3
+C-1
+R0
+S
+#17466
+Top of the stairs.~
+On Top of the stair case you see two 
+hallways going east and north.  Both 
+overlook the populace of the bar.
+~
+174 262152 1
+D0
+~
+~
+0 -1 17467
+D1
+~
+~
+0 -1 17465
+D5
+~
+~
+0 -1 17459
+Z3
+C-1
+R0
+S
+#17467
+On The Balcony.~
+To the east you are able to overlook the 
+rest of the bar patrons.  To the west is 
+a door, behind the door you can hear a 
+muffled *thud thud thud* and a slight moan.
+~
+174 262152 1
+D0
+~
+~
+0 -1 17468
+D2
+~
+~
+0 -1 17466
+D3
+~
+~
+0 -1 17470
+E
+sign~
+Elevator not working,  
+               Elton
+~
+Z3
+C-1
+R0
+S
+#17468
+On The Balcony.~
+To the east you are able to overlook the 
+rest of the bar patrons.  To the west is 
+a door, behind the door you can hear a 
+muffled *thud thud thud* and a slight moan.
+~
+174 262152 1
+D2
+~
+~
+0 -1 17467
+D3
+~
+~
+0 -1 17469
+Z3
+C-1
+R0
+S
+#17469
+A Small Bedroom~
+A Small bedroom large enough for someone
+to sleep a night and move on, or good 
+enough for a guy to get with one of the
+local ladys.
+~
+174 262152 1
+D1
+~
+~
+0 -1 17468
+Z3
+C-1
+R0
+S
+#17470
+A Small Bedroom~
+A Small bedroom large enough for someone
+to sleep a night and move on, or good 
+enough for a guy to get with one of the
+local ladys.
+~
+174 262152 1
+D1
+~
+~
+0 -1 17467
+Z3
+C-1
+R0
+S
+#17471
+A Small Bedroom~
+A Small bedroom large enough for someone
+to sleep a night and move on, or good 
+enough for a guy to get with one of the
+local ladys.
+~
+174 262152 1
+D0
+~
+~
+0 -1 17465
+Z3
+C-1
+R0
+S
+#17472
+Empty bedroom.~
+Hey an empty room!  well it was till you came 
+in here.  GET OUT to make it an empty room 
+again. Thank you creator.
+~
+174 262144 1
+D0
+~
+~
+0 -1 17464
+Z3
+C-1
+R0
+S
+#17473
+Inside a small wood walled room.~
+Whoa, how did we get here?   Hmm, looks like 
+were in a shack with some open holes for light
+in the top.  A door exits to the south.
+~
+174 262144 1
+D2
+~
+~
+0 -1 17474
+Z3
+C-1
+R0
+S
+#17474
+Outside the changing room.~
+Ahh thats what we where in.  Hmmm looks like
+a beach to the south...  Hey over there they 
+are doing a photo shoot.. Whoa it looks like 
+she's changing!
+~
+174 262144 1
+D0
+~
+~
+0 -1 17473
+D2
+~
+~
+0 -1 17475
+Z3
+C-1
+R0
+S
+#17475
+On the sand.~
+HOT!!! HOT!!! HOT!!!  The sand is HOT!!!!!
+quick the water is just a few more yards to 
+the south!
+~
+174 262144 1
+D0
+~
+~
+0 -1 17474
+D1
+~
+~
+0 -1 17487
+D2
+~
+~
+0 -1 17476
+Z3
+C-1
+R0
+S
+#17476
+Edge of the water~
+Ahhh...  This wet sand is much better than the
+sand just north of here.  The waves are breaking
+just a few more yards south.  The beach continues 
+both east and west of here.
+~
+174 262144 1
+D0
+~
+~
+0 -1 17475
+D1
+~
+~
+0 -1 17486
+D3
+~
+~
+0 -1 17477
+Z3
+C-1
+R0
+S
+#17477
+Edge of the water~
+Ahhh...  This wet sand is much better than the
+sand just north of here.  The waves are breaking
+just a few more yards south.  The beach continues 
+both east and west of here.
+~
+174 262144 1
+D1
+~
+~
+0 -1 17476
+D3
+~
+~
+0 -1 17480
+Z3
+C-1
+R0
+S
+#17478
+On the sand.~
+HOT!!! HOT!!! HOT!!!  The sand is HOT!!!!!
+quick the water is just a few more yards to 
+the south!  Careful not to run over someones 
+towel.
+~
+174 262160 1
+D1
+~
+~
+0 -1 17477
+D3
+~
+~
+0 -1 17479
+Z3
+C-1
+R0
+S
+#17479
+On the sand.~
+HOT!!! HOT!!! HOT!!!  The sand is HOT!!!!!
+quick the water is just a few more yards to 
+the south!  Careful not to run over someones 
+towel.
+~
+174 262144 1
+D1
+~
+~
+0 -1 17478
+D2
+~
+~
+0 -1 17480
+D3
+~
+~
+0 -1 17484
+Z3
+C-1
+R0
+S
+#17480
+Edge of the water~
+Ahhh...  This wet sand is much better than the
+sand just north of here.  The waves are breaking
+just a few more yards south.  The beach continues 
+both east and west of here.
+~
+174 262144 1
+D0
+~
+~
+0 -1 17479
+D1
+~
+~
+0 -1 17477
+D3
+~
+~
+0 -1 17481
+Z3
+C-1
+R0
+S
+#17481
+Edge of the water~
+Ahhh...  This wet sand is much better than the
+sand just north of here.  The waves are breaking
+just a few more yards south.  The beach continues 
+both east and west of here.
+~
+174 262144 1
+D0
+~
+~
+0 -1 17482
+D1
+~
+~
+0 -1 17480
+D3
+~
+~
+0 -1 17485
+Z3
+C-1
+R0
+S
+#17482
+between some sand dunes~
+Hidden between two sand dunes, are a bunch of models, 
+a camera man, and few extra people to distribute the
+bottled water, stand here taking pictures for the next
+calander.   Miss. March looks like some good pickings.
+~
+174 262144 1
+D0
+~
+~
+0 -1 17483
+D2
+~
+~
+0 -1 17481
+Z3
+C-1
+R0
+S
+#17483
+changing tent~
+Hey this is where those hot models change... 
+Maybe we can hide behind that suit case, install
+some video cameras, or even a web cam!
+~
+174 262144 1
+D2
+~
+~
+0 -1 17482
+Z3
+C-1
+R0
+S
+#17484
+On the sand.~
+HOT!!! HOT!!! HOT!!!  The sand is HOT!!!!!
+quick the water is just a few more yards to 
+the south!  Careful not to run over someones 
+towel.
+~
+174 262160 1
+D1
+~
+~
+0 -1 17479
+D2
+~
+~
+0 -1 17485
+D3
+~
+~
+0 -1 17487
+Z3
+C-1
+R0
+S
+#17485
+Edge of the water~
+Ahhh...  This wet sand is much better than the
+sand just north of here.  The waves are breaking
+just a few more yards south.  The beach continues 
+both east and west of here.
+~
+174 262144 1
+D0
+~
+~
+0 -1 17484
+D1
+~
+~
+0 -1 17481
+D3
+~
+~
+0 -1 17486
+Z3
+C-1
+R0
+S
+#17486
+Edge of the water~
+Ahhh...  This wet sand is much better than the
+sand just north of here.  The waves are breaking
+just a few more yards south.  The beach continues 
+both east and west of here.
+~
+174 262144 1
+D0
+~
+~
+0 -1 17487
+D1
+~
+~
+0 -1 17485
+D3
+~
+~
+0 -1 17476
+Z3
+C-1
+R0
+S
+#17487
+On the sand.~
+HOT!!! HOT!!! HOT!!!  The sand is HOT!!!!!
+quick the water is just a few more yards to 
+the south!  Careful not to run over someones 
+towel.
+~
+174 262160 1
+D1
+~
+~
+0 -1 17484
+D2
+~
+~
+0 -1 17486
+D3
+~
+~
+0 -1 17475
+Z3
+C-1
+R0
+S
+#17488
+transporter room.~
+You are on a platform, ahead you see an unusual
+table with flashing lights.  There doesnt look
+like there is a way out.  All the walls look the
+same.
+~
+174 262144 1
+E
+Digital Pannel~
+A Digital pannel here shows what looks to be a scanner,
+and a input pannel with a button named energize.
+~
+Z3
+C-1
+R0
+S
+#17489
+The unending hallway~
+This hallway doesnt seem to have any form of
+distingushing marks.  It seems to do a slow 
+turn south as you walk.
+~
+174 262144 1
+D1
+~
+~
+0 -1 17490
+D3
+~
+~
+0 -1 17492
+Z3
+C-1
+R0
+S
+#17490
+The unending hallway~
+This hallway doesnt seem to have any form of
+distingushing marks.  It seems to do a slow 
+turn south as you walk.
+~
+174 262144 1
+D0
+~
+2076~
+7 -1 17490
+D1
+~
+~
+0 -1 17491
+D2
+~
+2076~
+7 -1 17490
+D3
+~
+~
+0 -1 17489
+Z3
+C-1
+R0
+S
+#17491
+The unending hallway~
+This hallway doesnt seem to have any form of
+distingushing marks.  It seems to do a slow 
+turn south as you walk.
+~
+174 262144 1
+D0
+~
+exit~
+7 -1 17494
+D1
+~
+~
+0 -1 17493
+D2
+~
+1028~
+7 -1 17491
+D3
+~
+~
+0 -1 17490
+Z3
+C-1
+R0
+S
+#17492
+The unending hallway~
+This hallway doesnt seem to have any form of
+distingushing marks.  It seems to do a slow 
+turn south as you walk.
+~
+174 262144 1
+D0
+~
+1035~
+7 -1 17492
+D1
+~
+~
+0 -1 17489
+D2
+~
+1035~
+7 -1 17492
+D3
+~
+~
+0 -1 17493
+Z3
+C-1
+R0
+S
+#17493
+The unending hallway~
+This hallway doesnt seem to have any form of
+distingushing marks.  It seems to do a slow 
+turn south as you walk.
+~
+174 262144 1
+D0
+~
+1046~
+7 -1 17493
+D1
+~
+~
+0 -1 17492
+D2
+~
+1046~
+7 -1 17493
+D3
+~
+~
+0 -1 17491
+Z3
+C-1
+R0
+S
+#17494
+Unending Turbo shaft.~
+You look up and you see no end...  
+You look down and you still see no end...
+Neat. huh?
+~
+174 262144 1
+D2
+~
+exit~
+7 -1 17491
+D4
+~
+~
+0 -1 17495
+Z3
+C-1
+R0
+S
+#17495
+Unending Turbo shaft.~
+You look up and you see no end...  
+You look down and you still see no end...
+Neat. huh?
+~
+174 262144 1
+D4
+~
+~
+0 -1 17496
+D5
+~
+~
+0 -1 17494
+Z3
+C-1
+R0
+S
+#17496
+Unending Turbo shaft.~
+You look up and you see no end...  
+You look down and you still see no end...
+Neat. huh?
+~
+174 262144 1
+D1
+~
+exit~
+7 -1 17497
+D4
+~
+~
+0 -1 17494
+D5
+~
+~
+0 -1 17495
+Z3
+C-1
+R0
+S
+#17497
+The Bridge of the Enterprise~
+Neat!  A real room!!  look there is a big 
+TV on that wall!  What the hell all these 
+pajama wearing freaks looking at?!?
+~
+174 262144 1
+D0
+~
+door~
+1 -1 17499
+D2
+~
+door~
+1 -1 17498
+D3
+~
+exit~
+1 -1 17496
+Z0
+C-1
+R0
+S
+#17498
+Room of Infinite Ensigns~
+Wow! This room is huge!  You can see those pansy 
+pajama wearing freaks as far as the eye can see!
+~
+174 262144 1
+D0
+~
+door~
+1 -1 17497
+Z0
+C-1
+R0
+S
+#17499
+Captains ready room~
+Hmm this is a nice office...  Desk with a 
+flat screen monitor...  A hole in the wall
+with fish...  Another hole in the wall that
+makes Earl Gray Tea...
+~
+174 262144 1
+D2
+~
+door~
+1 -1 17497
+Z0
+C-1
+R0
+S
+$~

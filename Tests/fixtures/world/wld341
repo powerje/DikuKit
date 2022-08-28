@@ -1,0 +1,1153 @@
+#34100
+A winding pathway~
+
+  The forest trail turns away from the main path through
+  the woods, leading off towards the north. Silent trees
+  covered in Spanish Moss stand guard on either side of
+  the path, while the dense underbrush prevents travel to the
+  east or west. It is ominously quiet here, not even the
+  sound of birds can be heard.
+
+~
+341 0 3
+D0
+~
+~
+0 -1 34101
+E
+runes~
+The runes unfortunately are in a language that has long been forgotten.
+~
+E
+trees~
+Several of the trees appear to have ancient runes carved into their bark.
+~
+Z9
+C-1
+S
+#34101
+A winding pathway~
+
+  The pathway continues here, winding its way through tall
+  maple trees that tower high above the ground. It is still
+  ominously quiet here, with not even the sound of a bird
+  breaking the silence.
+
+~
+341 0 3
+D0
+~
+~
+0 -1 34102
+D2
+~
+~
+0 -1 34100
+Z9
+C-1
+S
+#34102
+A winding pathway~
+
+  The pathway that has wound its way through the trunks 
+  of tall maple trees turns towards the east here, leading
+  towards a small clearing. From here, what appears to be
+  the remains of some sort of building can be seen.
+
+~
+341 0 3
+D1
+~
+~
+0 -1 34103
+D2
+~
+~
+0 -1 34101
+E
+trees~
+The trees in this part of the woods appear to have the same mysterious
+runes that the trees at the beginning of the trail did.
+~
+E
+building~
+From this far away, it is not very clear what type of building 
+it might be.
+~
+Z9
+C-1
+S
+#34103
+A small clearing~
+
+  The forest trail opens up here into a rather large clearing.
+  A small lake lies to the north, while a stone path leads 
+  south towards the burned out remains of a chapel. Another
+  stone pathway leads east towards a cemetery gate.
+
+~
+341 0 2
+D1
+~
+~
+0 -1 34107
+D2
+~
+~
+0 -1 34104
+D3
+~
+~
+0 -1 34102
+Z3
+C-1
+S
+#34104
+A stone pathway~
+
+  The stone pathway leads up to the front enterance of the
+  chapel, but from here there doesn't appear to be that much
+  structual damage. The center of the clearing lies to the
+  north, while the front door to the chapel lies directly
+  to the south.
+
+~
+341 0 2
+D0
+~
+~
+0 -1 34103
+D2
+~
+wooden~
+1 -1 34105
+Z3
+C-1
+S
+#34105
+The burned-out chapel~
+
+  The inside of the chapel appears to have sustained 
+  severe fire damage, but there is one door to the west
+  that appears to have escaped the flames relatively 
+  undamaged. The remains of a tapestry hangs over the
+  altar, only slightly damaged.
+
+~
+341 8 1
+D0
+~
+wooden~
+1 -1 34104
+D3
+~
+wooden~
+1 -1 34106
+E
+runes~
+Unfortunately, the runes are in a forgotten language.
+~
+E
+tapestry~
+  The tapestry has the same strange runes that marked
+  several of the trees in the forest. 
+
+~
+Z-1
+C-1
+S
+#34106
+The chapel library~
+
+  The contents of this library have been ransacked,
+  with various scrolls being ripped to shreds or 
+  damaged by the fire beyond any hope of restoration.
+  Hidden under some debris in the far corner, one 
+  scroll appears to have escaped unnoticed and undamaged.
+
+~
+341 8 1
+D1
+~
+wooden~
+1 -1 34105
+E
+scroll~
+
+  My dear colleagues,
+    Our worst fears have come true, I am afraid. The
+    cult of Tiaech has regained strength. Many of our
+    fellow clerics have fallen sway to his evil power,
+    while those who have resisted have been slaughtered.
+    I have entrusted Angendar with a mission of utmost
+    importance to take our most valuable scrolls to a
+    place where it is my hope they will be safe. I pray
+   that we can turn the tide of recent events. 
+   Dark days are ahead of us, I fear. Rumors are starting
+   to trickle in that...
+   (the scroll ends here)
+
+~
+Z-1
+C-1
+S
+#34107
+A stone pathway~
+
+  A small stone pathway leads eastwards towards the front
+  gate of a small cemetery, beyond which a huge stone 
+  mausoleum is visable. From here, there is the faintest
+  scent of decay, carried by the slight breeze that has
+  picked up.
+
+~
+341 0 3
+D1
+~
+~
+0 -1 34108
+D3
+~
+~
+0 -1 34103
+Z3
+C-1
+S
+#34108
+Outside the cemetery gates~
+
+  The wrought iron gates of the cemetery stand just to the
+  east. The gates themselves are over 10 feet tall at the 
+  highest points. One gate is hanging slightly ajar, held on
+  only by the bottom hinge. The other gate has broken off
+  completely and is now covered in rust. A pair of maples
+  stand on either side of the gate, serving as silent
+  sentinels. The smell of decay is slightly stronger here.
+ 
+~
+341 0 3
+D1
+~
+~
+0 -1 34109
+D3
+~
+~
+0 -1 34107
+Z3
+C-1
+S
+#34109
+Inside the cemetery gates~
+
+  The stone pathway continues here, leading east towards the
+  mausoleum, while overgrown pathways lead north and south
+  along the inside perimeter of the fence. The gate of the
+  cemetery is west. The stench of decay has increased greatly
+  here.
+
+~
+341 0 2
+D0
+~
+~
+0 -1 34110
+D1
+~
+~
+0 -1 34117
+D2
+~
+~
+0 -1 34119
+D3
+~
+~
+0 -1 34108
+Z3
+C-1
+S
+#34110
+The northern pathway though the cemetery~
+
+  The iron fence surrounding the cemetery stands directly to
+  the west, while to the east are several graves. Many of the
+  headstones here have either broken off over the course of
+  time due to the elements. Others have been erroded by the 
+  wind, making them unreadable. Others have fallen over 
+  completely.
+
+~
+341 0 2
+D0
+~
+~
+0 -1 34111
+D1
+~
+~
+0 -1 34116
+D2
+~
+~
+0 -1 34109
+Z3
+C-1
+S
+#34111
+The northern pathway through the cemetery~
+
+  The iron fence surrounding the cemetery stands directly
+  to the west, while to the east are several graves. There
+  are many in this part of the graveyard that appear to be
+  newer than the ones just to the south. There is an extremely
+  tall headstone that towers over the rest around it.
+
+~
+341 0 2
+D0
+~
+~
+0 -1 34112
+D1
+~
+~
+0 -1 34115
+D2
+~
+~
+0 -1 34110
+E
+headstone~
+This headstone appears to be fairly new, as it doesn't bear the
+signs of being erroded by the wind and elements. At the very top
+a rune has been carved into the stone.
+~
+E
+rune~
+This rune is similar to the one that marked the tapestry in
+the chapel.
+~
+Z3
+C-1
+S
+#34112
+The northwestern corner of the cemetery~
+
+  The path along the western side of the cemetery ends here,
+  continuing to the east, along the northern perimeter of the
+  fence. There are several freshly dug graves here, many of which
+  are marked only by wooden crosses with the name inscribed.
+
+~
+341 0 2
+D1
+~
+~
+0 -1 34113
+D2
+~
+~
+0 -1 34111
+Z3
+C-1
+S
+#34113
+The nothern pathway through the cemetery~
+
+  The path continues along the northern edge of the
+  cemetery, with several gravesites just to the south.
+  Many of the gravesites here are rather new, marked 
+  with only a wooden cross at this point. The pathway
+  continues to the east.
+
+~
+341 0 2
+D1
+~
+~
+0 -1 34130
+D2
+~
+~
+0 -1 34115
+D3
+~
+~
+0 -1 34112
+Z3
+C-1
+S
+#34114
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+341 262144 1
+D3
+~
+~
+0 -1 34113
+Z0
+C-1
+S
+#34115
+Among the graves~
+
+  Rows upon rows of graves marked only by wooden crosses
+  continue to the east and south, while the pathway that
+  runs along the inside of the fence lies just to the north,
+  as well as to the west. There is a very tall tombstone that
+  towers over the rest in this area.
+
+~
+341 0 2
+D0
+~
+~
+0 -1 34113
+D1
+~
+~
+0 -1 34129
+D2
+~
+~
+0 -1 34116
+D3
+~
+~
+0 -1 34111
+E
+tombstone~
+
+  The tombstone is made of polished black marble, and is
+  inscribed with several runes, the purpose of which is
+  to ensure a safe passage to the netherworld.
+  The tombstone itself stands well over 6 feet tall.
+
+  Strangely, there doesn't appear to be any name inscribed on
+  it.
+
+~
+E
+runes~
+The runes are in a language that has been forgotten.
+~
+Z3
+C-1
+S
+#34116
+Among the graves~
+
+  Rows upon rows of graves continue here. The course of time
+  has caused many of them to break due to the ravages of the
+  elements. Several lay on the ground, covered with moss, 
+  rendering them unreadable.
+
+~
+341 0 2
+D0
+~
+~
+0 -1 34115
+D1
+~
+~
+0 -1 34128
+D2
+~
+~
+0 -1 34117
+D3
+~
+~
+0 -1 34110
+Z3
+C-1
+S
+#34117
+The main path through the cemetery~
+
+  The main path through the cemetery continues to the east,
+  where a huge stone mausoleum is visable. The stench of
+  decay has increased even more here, almost as if several
+  bodies where exhumed. Just to the west is the main gate
+  to the cemetery, while smaller paths allow access to the
+  gravesites to the north and south.
+
+~
+341 0 2
+D0
+~
+~
+0 -1 34116
+D1
+~
+~
+0 -1 34126
+D2
+~
+~
+0 -1 34118
+D3
+~
+~
+0 -1 34109
+Z3
+C-1
+S
+#34118
+Among the graves~
+
+  Several broken tombstones lay scattered about, erroded by 
+  time or covered by moss which makes the inscription unreadable.
+  This part of the graveyard is much older than the rest, and 
+  appears to be rather neglected. A small building lies to the
+  east, with several broken windows. The main path is to the
+  north.
+
+~
+341 0 2
+D0
+~
+~
+0 -1 34117
+D2
+~
+~
+0 -1 34121
+D3
+~
+~
+0 -1 34119
+Z3
+C-1
+S
+#34119
+The southern path through the cemetery~
+
+  The stone-covered pathway continues along the inside
+  perimeter of the cemetery, whith several graves visable
+  to the east. The stench of decay has lessened slightly
+  in this part of the cemetery, but it is still quite
+  noticeable.
+  
+~
+341 0 2
+D0
+~
+~
+0 -1 34109
+D1
+~
+~
+0 -1 34118
+D2
+~
+~
+0 -1 34120
+Z0
+C-1
+S
+#34120
+The southwestern corner of the cemetery~
+
+  The cemetery fence prevents travel to the south and west,
+  but it continues to the east and north. Several gravestones
+  lay broken on the ground here, rendered unreadable by the
+  course of time.
+
+~
+341 0 2
+D0
+~
+~
+0 -1 34119
+D1
+~
+~
+0 -1 34121
+Z0
+C-1
+S
+#34121
+The southern path through the cemetery~
+
+  The stone pathway continues along the inside perimeter of the
+  cemetery fence just to the south. A small building lies to the
+  northeast. The stench of decay has increased here, almost as if
+  several gravesites were disturbed.
+
+~
+341 0 2
+D0
+~
+~
+0 -1 34118
+D1
+~
+~
+0 -1 34122
+D3
+~
+~
+0 -1 34120
+Z3
+C-1
+S
+#34122
+The southern path through the cemetery~
+
+  The cemetery pathway continues along the inside of the fence here,
+  with the southern wall of a small building standing just to the
+  north. Several of the windows have been broken out, while several
+  tendrils of ivy snake up the wall.
+
+~
+341 0 2
+D1
+~
+~
+0 -1 34123
+D3
+~
+~
+0 -1 34121
+Z3
+C-1
+S
+#34123
+The southeastern corner of the cemetery~
+
+  Several graves are visable to the northwest, while the 
+  cemetery fence lies to the south and west. The outside of
+  a small building is visable to the northeast. The stench of
+  decay is incredibly strong here.
+
+~
+341 0 2
+D0
+~
+~
+0 -1 34124
+D3
+~
+~
+0 -1 34122
+Z3
+C-1
+S
+#34124
+Among the graves~
+
+  Several tombstones stand here, but most have been eroded
+  by time, or have been overgrown with moss, rendering the
+  inscription on them illegible. The outside wall to a 
+  small building likes just to the west, while the main
+  pathway through the cemetery is north.
+
+~
+341 0 2
+D0
+~
+~
+0 -1 34125
+D2
+~
+~
+0 -1 34123
+Z3
+C-1
+S
+#34125
+The central path through the cemetery~
+
+  The stone pathway continues here, leading west towards
+  gates of the cemetery. Lying just to the southwest is a
+  small, rather plain stone building with several broken
+  windows covered in several tendrils of ivy. To the east
+  the steps of the mausoleum are visable. The stench of
+  decay is quite strong here, almost to the point of being
+  overpowering.
+
+~
+341 0 2
+D0
+~
+~
+0 -1 34133
+D1
+~
+~
+0 -1 34134
+D2
+~
+~
+0 -1 34124
+D3
+~
+~
+0 -1 34126
+Z3
+C-1
+S
+#34126
+The central path through the cemetery~
+
+  The stone path continues here, leading west to the
+  cemetery gates, or east to the front enterance to the
+  cemetery's mausoleum.  The front door to a small building
+  lies to the south. Tendrils of ivy snake up the outside
+  walls, while the small windows of the building have been
+  broken out. The stench of decay is much stronger here.
+
+~
+341 0 1
+D0
+~
+~
+0 -1 34128
+D1
+~
+~
+0 -1 34125
+D2
+The door appears to have a handwritten note nailed to it.
+~
+door~
+2 -1 34127
+D3
+~
+~
+0 -1 34117
+E
+note~
+The note reads: I've gone on vacation, be back soon. If it's
+an emergency, I can be found at the lake.
+--The caretaker
+~
+Z3
+C-1
+S
+#34127
+The caretaker's shack~
+This building is rather small, with various tools that the caretaker
+uses hanging from the rafters, including several shovels. There are
+a few wooden crosses that are used as temporary gravemarkers are 
+leaning against the southern wall.
+~
+341 0 1
+D0
+~
+door~
+1 -1 34126
+Z0
+C-1
+S
+#34128
+Among the graves~
+
+  Rows upon rows of gravestones continue here. Time, 
+  unfortunately has taken its toll. Several of the
+  gravestones here have either broken off or are 
+  overgrown with moss or erroded by time so that the
+  inscriptions can no longer be read. A large stone
+  mausoleum is visible just to the east, while the 
+  central pathway through the cemetery lies to the south.
+
+~
+341 0 2
+D0
+~
+~
+0 -1 34129
+D1
+~
+~
+0 -1 34133
+D2
+~
+~
+0 -1 34126
+D3
+~
+~
+0 -1 34116
+Z3
+C-1
+S
+#34129
+Among the graves~
+
+  This part of the graveyard appears to be in better shape
+  than the rest of the graveyard. Most of the headstones here
+  are new, with some of the graves having the appearance of ones
+  that have been freshly dug. The northern pathway lies to the
+  north, following the inside of the fence.
+
+~
+341 0 2
+D0
+~
+~
+0 -1 34130
+D1
+~
+~
+0 -1 34132
+D2
+~
+~
+0 -1 34128
+D3
+~
+~
+0 -1 34115
+Z3
+C-1
+S
+#34130
+The northern path through the cemetery~
+
+  The northern pathway continues here, along the edge of
+  the cemetery. A tall iron fence prevents travel to the
+  north, but there are smaller paths that allow access to
+  the grave sites to the south.
+
+~
+341 0 2
+D1
+~
+~
+0 -1 34131
+D2
+~
+~
+0 -1 34129
+D3
+~
+~
+0 -1 34113
+Z3
+C-1
+S
+#34131
+The northeastern corner of the cemetery~
+
+  This is the far northeastern corner of the cemetery,
+  with the fence preventing any travel to the east or
+  north. The scent of decay here is the strongest of
+  anywhere in the cemetery. The smell of rotten flesh
+  seems to be strongest just to the south.
+
+~
+341 0 2
+D2
+~
+~
+0 -1 34132
+D3
+~
+~
+0 -1 34130
+Z3
+C-1
+S
+#34132
+Several freshly dug graves~
+
+  This area is full of freshly dug graves, with bare dirt
+  still piled up in mounds over the gravesites. Hastily 
+  placed wooden crosses mark the graves. The stench of 
+  decay is at its strongest here, almost to the point
+  of being incapictating. Just to the north is the main
+  northern path. To the east is the wall of the mausoleum.
+
+~
+341 0 2
+D0
+~
+~
+0 -1 34131
+D2
+~
+~
+0 -1 34133
+D3
+~
+~
+0 -1 34129
+Z3
+C-1
+S
+#34133
+Among the graves~
+
+  The stench of decay is overpowering here, seeming to be
+  much worse to the north. The stone wall of the mausoleum is
+  east, while more graves lay to the west. The central path
+  through the cemetery is visable to the south. 
+
+~
+341 0 2
+D0
+~
+~
+0 -1 34132
+D2
+~
+~
+0 -1 34125
+D3
+~
+~
+0 -1 34128
+Z3
+C-1
+S
+#34134
+The bottom of the stairs to the mausoleum~
+
+  A set of worn stone steps lead up to the front enterance
+  of the mausoleum. Ravaged by the course of time, the steps
+  are cracked in several places, allowing various weeds to
+  work their way up to the surface. The main path of the 
+  cemetery lies to the west. 
+
+~
+341 0 4
+D3
+~
+~
+0 -1 34125
+D4
+~
+golden doors gold~
+1 -1 34135
+Z3
+C-1
+S
+#34135
+The enterance to the mausoleum~
+
+  The steps end here, at the enterance to the mausoluem. The
+  building itself is made of solid marble that seems to have
+  been kept in good repair. On either side of the main
+  enterance are skillfully carved images, depicting various
+  winged beings. Tendrils of ivy have worked their way up
+  the side of the building. Just to the east is a pair of gold
+  covered doors, allowing access to the interior of the mausoleum.
+
+~
+341 0 1
+D1
+~
+golden door~
+2 -1 34136
+D5
+~
+golden doors gold~
+1 -1 34134
+Z3
+C-1
+S
+#34136
+Inside the Mausoleum~
+
+ This is the enteranceway just inside the front doors to
+ the mausoleum, which stand to the west. On the floor, there
+ is a thick layer of dust, which has built up over many years.
+ On the wall, there is a small plaque.
+
+~
+341 8 1
+D1
+~
+~
+0 -1 34137
+D3
+~
+golden door~
+2 -1 34135
+E
+plaque~
+
+  The plaque is written in a flowing script, but
+  appears to be in the common tongue. 
+  It reads:
+  Never forget us who have gone before. Here is
+  our final resting place. Grant that our rest
+  may be peaceful.
+~
+Z-1
+C-1
+S
+#34137
+The Main Corridor Through The Mausoleum~
+
+  This is the main corridor of the mausoleum, which extends to the west.
+  Skillfully carved engravings decorate the shelves where the remains 
+  of those who have been come before have their final resting place. 
+  It is quiet here, so much so that it is eerily quiet.
+
+~
+341 8 1
+D1
+~
+~
+0 -1 34138
+D3
+~
+~
+0 -1 34136
+Z-1
+C-1
+S
+#34138
+An Intersection of Corridors~
+
+  The corridor that continued from the west meets here with another
+  which runs north-south. A tall statue stands guard here, made of
+  polished marble. The ceiling towers high above you at this point,
+  marked by an elaborate stained-glass window.
+
+~
+341 8 1
+D1
+~
+~
+0 -1 34139
+D3
+~
+~
+0 -1 34137
+E
+statue~
+The statue is made of a white marble, in the form of a caraytid
+column. The statue's face reflects a sadness.
+~
+Z-1
+C-1
+S
+#34139
+The Main Corridor Through the Mausoleum~
+
+  The main corridor continues here, leading towards the end of the
+  corridor just to the east. Several unused burial vaults line the
+  wall of the mausoleum in this part, some of which have designations
+  for future occupants. To the west is the main intersection of the
+  two corridors through the mausoleum.
+
+~
+341 8 1
+D1
+~
+~
+0 -1 34140
+D3
+~
+~
+0 -1 34138
+Z-1
+C-1
+S
+#34140
+At The End Of The Corridor~
+
+ The east-west corridor ends here, with several more unused
+ burial vaults lining the walls. There is one that appears to
+ have been broken in to, as the shards of the name plate that
+ covered the vault are scattered on the floor. There are also
+ several markings on the wall to the west that have been carved
+ into the granite surface.
+
+~
+341 8 1
+D3
+~
+~
+0 -1 34139
+Z-1
+C-1
+S
+#34141
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+341 0 1
+Z0
+C-1
+S
+#34142
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+341 0 1
+Z0
+C-1
+S
+#34143
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+341 0 1
+Z0
+C-1
+S
+#34144
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+341 0 1
+Z0
+C-1
+S
+#34145
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+341 0 1
+Z0
+C-1
+S
+#34146
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+341 0 1
+Z0
+C-1
+S
+#34147
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+341 0 1
+Z0
+C-1
+S
+#34148
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+341 0 1
+Z0
+C-1
+S
+#34149
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+341 0 1
+Z0
+C-1
+S
+#34150
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+341 0 1
+Z0
+C-1
+S
+$~

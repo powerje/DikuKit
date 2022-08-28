@@ -1,0 +1,583 @@
+#30900
+{BO}{BLU}Entrance to the {B}Crossroads {BO}{G}Village{g}~
+ 
+   Here you can hear the hustle and bustle of chariots, horses,
+   and people going along the traditional daily grind.  The 
+   fresh smell of baked apple pies is in the air and it fills your
+   nose with the aroma of sugar.  As your stomach begins to growl,
+   you notice the shoppe up ahead.
+ 
+~
+309 65540 1
+Z3
+C-1
+S
+#30901
+{bo,Y}The {BO}Wizard's{bo,Y} Shop{bo}~
+   
+   You are standing inside a shop cluttered with shelves full of
+magical supplies.  Bubbling potions, mysterious wands and intricate
+scrolls catch your attention.  A wise looking wizard stands behind 
+a counter, ready to sell you anything and everything you might need.
+   
+~
+309 0 1
+D2
+~
+~
+0 -1 30906
+Z3
+C-1
+S
+#30902
+{bo,C}The Healer's Shop{bo}~
+   
+   You've entered a small shop with a strong earthly smell.  An ancient
+cleric sits, using roots and herbs to make powerful healing potions.
+You recall the last difficult battle you had and think of how useful
+a healing potion might have been.
+   
+~
+309 0 1
+D2
+~
+~
+0 -1 30907
+Z3
+C-1
+S
+#30903
+{BO,G}The Mayor's Office{bo}~
+   
+   Luxurious furniture and a nice warm fireplace give the room a 
+homely feel as you look around.  You are standing inside the 
+mayor of Crossroad Village's office.  A large sword is hanging
+from the wall in a glass display case.  You've heard tales of
+this mayor.  He was once a great warrior.  Perhaps he will share
+some of his knowledge with you.
+   
+~
+309 0 1
+D2
+~
+~
+0 -1 30908
+Z3
+C-1
+S
+#30904
+{bo,W}The {C}Weapon {W}Shop{bo}~
+   
+   A citizen was caught off guard by the flaming arrow of
+   an invader.  All of his food and possessions are burning
+   in this housefire.  You choose to go in and battle the
+  flames and try to save the man's family and precious items.
+ 
+ 
+~
+309 0 1
+D2
+~
+~
+0 -1 30909
+Z3
+C-1
+S
+#30905
+{BO,C}The Armoury{bo}~
+   
+   A warrior of old sits in the corner of the shop, washing blood from
+a piece of chainmail.  He has been hardened by the many years of battle
+he has seen, but he manages to give you a faint smile.  His shop is full
+of all kinds of pieces of armor.  Some of it looks brand new, while some
+of it, like that piece of chainmail the shopkeeper washes, has definitely 
+been battle tested.
+   
+~
+309 0 1
+D2
+~
+~
+0 -1 30910
+Z3
+C-1
+S
+#30906
+{bo,C}Main Street{bo}~
+   
+   You are standing in the middle of Crossroad Village's main street.
+To the north appears to be a magic shop and to the south is a small
+hotel.  Towards the east is the center of town.
+     
+~
+309 0 1
+D0
+~
+~
+0 -1 30901
+D1
+~
+~
+0 -1 30907
+D2
+~
+~
+0 -1 30911
+D3
+~
+~
+0 -1 31053
+Z3
+C-1
+S
+#30907
+{bo,C}Main Street{bo}~
+   
+   A handful of citizens and travelers walk casually up and down the 
+street as you make your way.  To the north is the healer's shop and 
+to the south is a shop of map making.  Main Street continues to the
+west and to the east it crosses another street to form the town 
+square.
+       
+~
+309 0 1
+D0
+~
+~
+0 -1 30902
+D1
+~
+~
+0 -1 30908
+D2
+~
+~
+0 -1 30912
+D3
+~
+~
+0 -1 30906
+Z3
+C-1
+S
+#30908
+{BO,Y}Town Square{bo}~
+   
+   You are standing in Crossroad Village's town square: the most exciting
+place in town.  To the north is the luxurious mayor's office.  Main Street
+runs east and west and is lined by a number of shops.  To the south is 
+Lodge Lane and a number of residential houses.  A beautiful marble
+fountain sits in the center of the square, paying tribute to the many
+noble warriors who came and went through Crossroad Village.
+   
+~
+309 0 1
+D0
+~
+~
+0 -1 30903
+D1
+~
+~
+0 -1 30909
+D2
+~
+~
+0 -1 30913
+D3
+~
+~
+0 -1 30907
+Z3
+C-1
+S
+#30909
+{bo,C}Main Street{bo}~
+   
+   As you walk down the nicely kept brick of Main Street you admire
+the village's beauty.  To the north is a weapon shop and to the 
+south is the blacksmith's shop.  Town square is to the west and Main
+Street continues to the east.
+   
+~
+309 0 1
+D0
+~
+~
+0 -1 30904
+D1
+~
+~
+0 -1 30910
+D2
+~
+~
+0 -1 30914
+D3
+~
+~
+0 -1 30908
+Z3
+C-1
+S
+#30910
+{bo,C}Main Street{bo}~
+   
+   You are standing in the middle of Crossroad Village's main street.
+To the north is a small armor shop and to the south is a the town
+postmaster's office.  Towards the west is the center of town.
+     
+~
+309 0 1
+D0
+~
+~
+0 -1 30905
+D2
+~
+~
+0 -1 30915
+D3
+~
+~
+0 -1 30909
+Z3
+C-1
+S
+#30911
+{BO,M}The Hotel{bo}~
+   
+   You are standing inside a comfortable hotel.  A receptionist gives
+you a warm smile from behind the counter.  On the counter is a small
+sign that says "VACANCIES."  Looks like this would be the place to 
+spend the night if you want to.
+    
+~
+309 0 1
+D0
+~
+~
+0 -1 30906
+Z3
+C-1
+S
+#30912
+{BO,W}The Map Maker's Shop{bo}~
+   
+   You find yourself inside the very tidy map making shop.  A man sits
+at a table with a number of writing tools, drawing up a map to some far
+off place.  Maps of all types are rolled up and stored on racks all over
+the room.  Perhaps the map maker can find a place that will interest 
+you.
+    
+~
+309 0 1
+D0
+~
+~
+0 -1 30907
+Z3
+C-1
+S
+#30913
+{bo,Y}Lodge Lane{bo}~
+   
+   You are no longer in the business area of the village.  To the south you
+can see the homes of Crossroad Village's citizens.  From the north you can
+hear all the hubbub of town square.
+   
+~
+309 0 1
+D0
+~
+~
+0 -1 30908
+D1
+~
+~
+0 -1 30922
+D2
+~
+~
+0 -1 30917
+D3
+~
+~
+0 -1 30924
+Z3
+C-1
+S
+#30914
+{BO,R}The Blacksmith's Shop{bo}~
+   
+   A white fire is burning intensely in the center of the room.  The blacksmith
+stands over his anvil with a large hammer repairing a bent sword.  The room's
+dark smoke stains stand out in the fire's bright light.  The blacksmith's
+clothes are scorched badly.  He smiles as you enter, looking over your 
+equipment.
+   
+~
+309 0 1
+D0
+~
+~
+0 -1 30909
+Z3
+C-1
+S
+#30915
+{BO,W}The Postmaster's Office{bo}~
+   
+   Piles of mail are stacked around the room.  A small man runs around,
+frantically sorting.  He files letters into their appropriate slot in
+a cabinet so that they can later be given to their proper recipient.
+   
+~
+309 262144 1
+D0
+~
+~
+0 -1 30910
+Z3
+C-1
+S
+#30916
+{bo,W}Citizen's Residence{bo}~
+You are standing in nowhere !!!!
+~
+309 0 1
+D1
+~
+~
+0 -1 30917
+Z3
+C-1
+S
+#30917
+{bo,Y}Lodge Lane{bo}~
+You are standing in nowhere !!!!
+~
+309 0 1
+D0
+~
+~
+0 -1 30913
+D1
+~
+~
+0 -1 30918
+D2
+~
+~
+0 -1 30920
+D3
+~
+~
+0 -1 30916
+Z3
+C-1
+S
+#30918
+{bo,W}Citizen's Residence{bo}~
+You are standing in nowhere !!!!
+~
+309 0 1
+D3
+~
+~
+0 -1 30917
+Z3
+C-1
+S
+#30919
+{bo,W}Citizen's Residence{bo}~
+You are standing in nowhere !!!!
+~
+309 0 1
+D1
+~
+~
+0 -1 30920
+Z3
+C-1
+S
+#30920
+{bo,Y}Lodge Lane{bo}~
+You are standing in nowhere !!!!
+~
+309 0 1
+D0
+~
+~
+0 -1 30917
+D1
+~
+~
+0 -1 30921
+D3
+~
+~
+0 -1 30919
+Z3
+C-1
+S
+#30921
+{bo,W}Citizen's Residence{bo}~
+You are standing in nowhere !!!!
+~
+309 0 1
+D3
+~
+~
+0 -1 30920
+Z3
+C-1
+S
+#30922
+{BO}{R}R{W}i{M}l{R}e{W}y{M}'s {R}P{W}i{M}e {R}S{W}h{M}o{R}p{W}p{M}e{m}~
+
+   All types of pies line the shelves of Riley's Pie Shoppe.  There
+   are apple pies, chocolate pies, orange pies, black berry cobbler, 
+   coconut pies, chess pies, and dwarf pies.  What are dwarf pies you
+   ask?  From his explanation, it sounds like he hunts dwarfs on the
+   weekends for the filling in his pies.  Let's hope he doesn't want
+   to make any group pies anytime soon.
+
+~
+309 8196 1
+D3
+~
+~
+0 -1 30913
+Z3
+C-1
+S
+#30923
+{BO}{R}The {B}Crossroads {G}Village{g}~
+   
+   Around you are the sounds of work, play, and everything in
+   between.  This busy village is the footplate for production
+   in an otherwise arid desert.  An ancient wizard has figured
+   out ways of creating a protective bubble around the city, 
+   shielding it from the warmer climate around it.  It is seventy
+   two degrees here, always, and everyone seems to have a bronze
+   tan anyway.
+ 
+~
+309 65536 1
+Z3
+C-1
+S
+#30924
+{bo}{W}A {BO}{BLI}{Y}FLAMING{bli}{y}{bo}{W} Residence{w}~
+   
+   A citizen was caught off guard by the flaming arrow of
+   an invader.  All of his food and possessions are burning
+   in this housefire.  You choose to go in and battle the
+   flames and try to save the man's family and precious items.
+ 
+~
+309 0 1
+D0
+~
+~
+0 -1 30926
+D1
+~
+~
+0 -1 30913
+D4
+~
+~
+0 -1 30927
+Z3
+C-1
+S
+#30926
+{bo}{W}A {BO}{BLI}{Y}FLAMING{bli}{y}{bo}{W} Residence{w}~
+   
+   A citizen was caught off guard by the flaming arrow of
+   an invader.  All of his food and possessions are burning
+   in this housefire.  You choose to go in and battle the
+   flames and try to save the man's family and precious items.
+ 
+~
+309 0 1
+D0
+~
+~
+0 -1 30928
+D2
+~
+~
+0 -1 30927
+Z3
+C-1
+S
+#30927
+{bo}{W}A {BO}{BLI}{Y}FLAMING{bli}{y}{bo}{W} Residence{w}~
+   
+   A citizen was caught off guard by the flaming arrow of
+   an invader.  All of his food and possessions are burning
+   in this housefire.  You choose to go in and battle the
+   flames and try to save the man's family and precious items.
+ 
+~
+309 0 1
+D0
+~
+~
+0 -1 30926
+D5
+~
+~
+0 -1 30924
+Z3
+C-1
+S
+#30928
+{bo}{W}A {BO}{BLI}{Y}FLAMING{bli}{y}{bo}{W} Residence{w}~
+   
+   A citizen was caught off guard by the flaming arrow of
+   an invader.  All of his food and possessions are burning
+   in this housefire.  You choose to go in and battle the
+   flames and try to save the man's family and precious items.
+ 
+~
+309 0 1
+D2
+~
+~
+0 -1 30926
+Z3
+C-1
+S
+#30929
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+309 262144 1
+Z3
+C-1
+S
+#30930
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+309 0 1
+Z3
+C-1
+S
+#30999
+{RED}Beav's {red}{YELLOW}TEST {yellow}{GREEN}ROOM!{green}~
+{RED}This is a {YELLOW}Test{yellow} room {red}
+~
+309 1036 1
+E
+Testing creating room~
+Using this room to test how creating works...
+~
+Z-1
+C-1
+S
+$~

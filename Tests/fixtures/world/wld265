@@ -1,0 +1,234 @@
+#26500
+REF Dispersal Room~
+   
+   You stand in the REF Dispersal Room, in which REF teams are assigned.
+     
+   If you have been assigned to team {R,BO}A{r,bo}, go {GR,BO}WEST{gr,bo}.
+   If you have been assigned to team {R,BO}B{r,bo}, go {GR,BO}EAST{gr,bo}.
+  
+   For more information about REF mode, please type 'help ref'
+  
+~
+265 128 1
+D1
+Go this way if you are on REF Team B.
+~
+~
+0 -1 26552
+D3
+Go this way if you are on REF Team A.
+~
+~
+0 -1 26501
+Z-1
+C-1
+S
+#26501
+REF A~
+   
+   You are now in the team {R,BO}A{r,bo} waiting room. Please wait here until you
+   have been instructed to start. When the REF begins, you can begin 
+   the REF by going down, which leads to {CY,BO}Inside the West Gate of Midgaard{cy,bo}.
+     
+   When you collect the REF items, place them in the REF bin assigned to your
+   team, which is the room below this one. REF items which are collected but
+   not placed in the appropriate bin will not count towards your teams score.
+  
+~
+265 8324 1
+D1
+~
+~
+0 -1 26500
+D5
+~
+~
+0 -1 3040
+Z-1
+C-1
+S
+#26502
+REF Recovery Room~
+Okay, so you got beat up a little. Now get back out there and kick some *ss!
+Heal your wounds, drink some chocolate milk, and get dressed.
+Go EAST to align to EVIL.
+Go WEST to align to GOOD.
+Go SOUTH to EGO.
+Then go DOWN to get to the Golden Temple.
+~
+265 4202500 1
+D1
+Go this way to align to evil.
+~
+~
+0 -1 26504
+D2
+Go this way to fix your ego.
+~
+~
+0 -1 26503
+D3
+Go this way to align to good.
+~
+~
+0 -1 26505
+D5
+~
+~
+0 -1 3001
+Z3
+C-1
+S
+#26503
+REF Ego Room~
+You can fix your ego here. Please remember to resurrect the corpses when
+you are finished.
+~
+265 4194304 1
+D0
+~
+~
+0 -1 26502
+Z3
+C-1
+S
+#26504
+REF Alignment Room.~
+Killing these mobs will make you become more EVIL. Please remember to resurrect
+the corpses when you are finished.
+~
+265 4194304 1
+D3
+~
+~
+0 -1 26502
+Z3
+C-1
+S
+#26505
+REF Alignment Room.~
+Killing these mobs will make you become more GOOD. Please remember to resurrect
+the corpses when you are finished.
+~
+265 4194304 1
+D1
+~
+~
+0 -1 26502
+Z3
+C-1
+S
+#26552
+REF B~
+   
+   You are now in the team {R,BO}B{r,bo} waiting room. Please wait here until you
+   have been instructed to start. When the REF begins, you can begin 
+   the REF by going down, which leads to {CY,BO}Inside the East Gate of Midgaard{cy,bo}.
+     
+   When you collect the REF items, place them in the REF bin assigned to your
+   team, which is the room below this one. REF items which are collected but
+   not placed in the appropriate bin will not count towards your teams score.
+  
+~
+265 8324 1
+D3
+~
+~
+0 -1 26500
+D5
+~
+~
+0 -1 3041
+Z-1
+C-1
+S
+#26596
+{R}Col{r}{B}oss{b}{R}eum{r}~
+{R}
+   A large arena is here, and the roar of the crowds echo 
+   throughout the hallway.  It seems that there's some sort
+   of contest going on in the main venue, though it's too
+   late for you to get good seats.
+ 
+   Off to the side, a rather bored-looking individual sits 
+   behind a counter, waiting for customers.  What could
+   he possibly be selling?
+{r}
+~
+265 8324 1
+D1
+~
+~
+0 -1 21621
+X24
+Z-1
+C1
+S
+#26597
+Ancient Treehouse~
+ 
+   This treehouse is very roomy, and appears to be
+   extremely well constructed. The fabled Questmaster
+   lives in this residence - maybe if you're worthy
+   he will reward you with a unique gift!
+ 
+~
+265 262144 1
+D1
+~
+~
+0 -1 26599
+D5
+~
+~
+0 -1 26598
+Z0
+C-1
+S
+#26598
+Climbing to the treehouse~
+ 
+   A rope ladder hangs against a tree, it looks fairly
+   safe to climb. Above your head, firmly lodged in the
+   strong upper branches of the tree is a cool looking
+   treehouse. 
+ 
+~
+265 0 1
+D4
+~
+~
+0 -1 26597
+D5
+~
+~
+0 -1 6102
+Z0
+C-1
+S
+#26599
+{C}Qu{c}{B}es{b}{C}t P{c}{B}oi{b}{C}nt{c} {B}Re{b}{C}de{c}{B}mp{b}{C}ti{c}{B}on{b} {C}Ce{c}{B}nt{b}{C}er{c}~
+{C}
+   Welcome to the Quest Point Redemption Center!  The room is
+   brightly lit, with rows of glass display cases on the
+   showroom floor.  Browsing around, you see a variety of
+   weapons, armors, and equipment for sale.  You press your
+   grubby little fingers against one case as you drool over 
+   the{c} {Y,BO}Gold Hilted Sword{y,bo} {C}on sale for 1 Million Quest Points.
+   Another case shows off{c} {BLU,BO}Th{blu,bo}{C,BO}e S{c,bo}{W,BO}ilicon{w,bo} {C,BO}Ch{c,bo}{BLU,BO}ip{blu,bo}{C}, nicely polished
+   and yours for only 5 Million Quest Points.  You even spy
+   a brand new{c} {BLU}Guyver{blu} {C}Unit{c} {W}Full Body Armor{w}{C}, though you can't
+   figure out what to call the value when it has so many 
+   zeros at the end.
+{c}
+~
+265 8204 1
+D3
+~
+~
+0 -1 26597
+X16
+Z-1
+C-1
+S
+$~

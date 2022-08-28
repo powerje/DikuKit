@@ -1,0 +1,340 @@
+#385
+Temple of Oredeep(Devlin)~
+38599 750 2
+*
+X 2098896
+M 0 38512    55 38501    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38514    68 38501    {BLU,BOL}Guest Lady{bo}
+M 0 38514    68 38502    {BLU,BOL}Guest Lady{bo}
+M 0 38502    68 38502    {BLU,BOL}Guest Man{bo}
+M 0 38502    68 38502    {BLU,BOL}Guest Man{bo}
+M 0 38512    55 38503    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38514    68 38503    {BLU,BOL}Guest Lady{bo}
+M 0 38512    55 38503    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38503    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38514    68 38504    {BLU,BOL}Guest Lady{bo}
+M 0 38520     9 38504    Musician
+M 0 38520     9 38504    Musician
+M 0 38520     9 38504    Musician
+M 0 38520     9 38504    Musician
+M 0 38520     9 38504    Musician
+M 0 38505    53 38504    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38504    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38514    68 38505    {BLU,BOL}Guest Lady{bo}
+M 0 38512    55 38505    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38502    68 38505    {BLU,BOL}Guest Man{bo}
+M 0 38512    55 38506    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38512    55 38506    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38512    55 38506    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38514    68 38506    {BLU,BOL}Guest Lady{bo}
+M 0 38508     1 38506    {WHI,BOL}A Priest{bo}
+M 0 38517     1 38506    {BLA,BOL}D{R}a{BLA}g{R}l{BLA}a{R}r{bo}
+G 1 38500     1     0    {CY}A Prayer Chamber Key{bo}
+D 0 38506     1     2    (E:LOCKED) {WHITE}An Opening In the Temple{white}
+M 0 38509     5 38507    {YEL,BOL}A{bo} {YEL}Dwarven {YEL,BOL}Warrior{bo}
+M 0 38505    53 38507    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+D 0 38507     2     1    (S:CLOSED) {WHITE}A Prayer Chamber{white}
+M 0 38509     5 38508    {YEL,BOL}A{bo} {YEL}Dwarven {YEL,BOL}Warrior{bo}
+M 0 38505    53 38508    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+D 0 38508     2     1    (S:CLOSED) {WHITE}A Prayer Chamber{white}
+M 0 38514    68 38509    {BLU,BOL}Guest Lady{bo}
+M 0 38514    68 38509    {BLU,BOL}Guest Lady{bo}
+M 0 38505    53 38509    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38509    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38509    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+D 0 38509     4     2    (U:LOCKED) {WHITE}A Spiral Staircase{white}
+M 0 38514    68 38510    {BLU,BOL}Guest Lady{bo}
+M 0 38505    53 38510    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38510    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38510    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+D 0 38510     4     2    (U:LOCKED) {WHITE}A Spiral Staircase{white}
+M 0 38507    12 38511    {WHI}A Sharpshooter{bo}
+M 0 38507    12 38511    {WHI}A Sharpshooter{bo}
+D 0 38511     5     1    (D:CLOSED) {WHITE}Top of the Staircase{white}
+M 0 38521     8 38512    {RED,BOL}A Guest{bo}
+M 0 38521     8 38512    {RED,BOL}A Guest{bo}
+M 0 38521     8 38512    {RED,BOL}A Guest{bo}
+M 0 38521     8 38512    {RED,BOL}A Guest{bo}
+M 0 38507    12 38513    {WHI}A Sharpshooter{bo}
+M 0 38507    12 38513    {WHI}A Sharpshooter{bo}
+D 0 38513     5     2    (D:LOCKED) {WHITE}Top of the Staircase{white}
+M 0 38521     8 38514    {RED,BOL}A Guest{bo}
+M 0 38521     8 38514    {RED,BOL}A Guest{bo}
+M 0 38521     8 38514    {RED,BOL}A Guest{bo}
+M 0 38521     8 38514    {RED,BOL}A Guest{bo}
+O 0 38504     2 38514    {YEL,BOL}Golden Temple Key{bo}
+M 0 38514    68 38515    {BLU,BOL}Guest Lady{bo}
+M 0 38512    55 38516    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38502    68 38516    {BLU,BOL}Guest Man{bo}
+M 0 38512    55 38516    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38502    68 38516    {BLU,BOL}Guest Man{bo}
+M 0 38502    68 38516    {BLU,BOL}Guest Man{bo}
+M 0 38505    53 38516    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38511     3 38516    {R,BOL}A {YEL}Clan {R}Guard{bo}
+M 0 38511     3 38516    {R,BOL}A {YEL}Clan {R}Guard{bo}
+M 0 38502    68 38517    {BLU,BOL}Guest Man{bo}
+M 0 38514    68 38518    {BLU,BOL}Guest Lady{bo}
+M 0 38514    68 38519    {BLU,BOL}Guest Lady{bo}
+M 0 38502    68 38519    {BLU,BOL}Guest Man{bo}
+D 0 38519     0     2    (N:LOCKED) {YEL,BOL}Outside the Prayer Chamber{bo}
+M 0 38512    55 38520    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38514    68 38520    {BLU,BOL}Guest Lady{bo}
+M 0 38514    68 38520    {BLU,BOL}Guest Lady{bo}
+M 0 38502    68 38520    {BLU,BOL}Guest Man{bo}
+M 0 38512    55 38521    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38514    68 38521    {BLU,BOL}Guest Lady{bo}
+M 0 38514    68 38521    {BLU,BOL}Guest Lady{bo}
+M 0 38514    68 38521    {BLU,BOL}Guest Lady{bo}
+D 0 38521     0     2    (N:LOCKED) {YEL,BOL}Outside the Prayer Chamber
+M 0 38514    68 38522    {BLU,BOL}Guest Lady{bo}
+M 0 38502    68 38522    {BLU,BOL}Guest Man{bo}
+M 0 38502    68 38523    {BLU,BOL}Guest Man{bo}
+M 0 38514    68 38523    {BLU,BOL}Guest Lady{bo}
+M 0 38514    68 38524    {BLU,BOL}Guest Lady{bo}
+M 0 38502    68 38524    {BLU,BOL}Guest Man{bo}
+M 0 38514    68 38524    {BLU,BOL}Guest Lady{bo}
+M 0 38502    68 38524    {BLU,BOL}Guest Man{bo}
+M 0 38514    68 38525    {BLU,BOL}Guest Lady{bo}
+M 0 38514    68 38525    {BLU,BOL}Guest Lady{bo}
+M 0 38512    55 38525    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38502    68 38525    {BLU,BOL}Guest Man{bo}
+M 0 38512    55 38526    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38502    68 38526    {BLU,BOL}Guest Man{bo}
+M 0 38512    55 38526    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38502    68 38526    {BLU,BOL}Guest Man{bo}
+M 0 38502    68 38527    {BLU,BOL}Guest Man{bo}
+M 0 38502    68 38527    {BLU,BOL}Guest Man{bo}
+M 0 38505    53 38528    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38528    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38528    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38528    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38514    68 38529    {BLU,BOL}Guest Lady{bo}
+M 0 38514    68 38529    {BLU,BOL}Guest Lady{bo}
+M 0 38502    68 38529    {BLU,BOL}Guest Man{bo}
+M 0 38502    68 38529    {BLU,BOL}Guest Man{bo}
+M 0 38500     2 38529    {MAG,BOL}B{bo}{MAG}e{MAG,BOL}r{bo}{MAG}r{MAG,BOL}o{bo}{MAG}n{MAG,BOL}a{bo}{MAG}r{bo}
+G 1  3009    55     0    Random Stat Obj
+M 0 38500     2 38529    {MAG,BOL}B{bo}{MAG}e{MAG,BOL}r{bo}{MAG}r{MAG,BOL}o{bo}{MAG}n{MAG,BOL}a{bo}{MAG}r{bo}
+O 0 38512     1 38529    Chest
+P 1 38513     1 38512    {YEL,BOL}A Huge Gold Nugget{bo}
+P 1 38508     2 38512    {CY}G{MA}r{CY}i{MA}m{CY}o{MA}i{CY}r{MA}e {GR,BOL}Book{bo} {WHI}of {GR,BOL}Power{bo}
+M 0 38512    55 38530    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38512    55 38530    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38502    68 38530    {BLU,BOL}Guest Man{bo}
+M 0 38502    68 38530    {BLU,BOL}Guest Man{bo}
+M 0 38514    68 38530    {BLU,BOL}Guest Lady{bo}
+M 0 38522     1 38531    {CY,BOL}Ardinna{bo}
+M 0 38512    55 38531    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38531    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38503     1 38531    {WHI}R{WHI,BOL}u{bo}{WHI}n{WHI,BOL}a{bo} {WHI}M{WHI,BOL}o{bo}{WHI}r{WHI,BOL}k{bo}{WHI}l{WHI,BOL}i{bo}{WHI}s{bo}{WHI,BOL}t{bo}
+E 1 38505     3     9    (HANDS) {WHI,BOL}White Gloves of {CY}Et{WHI}e{CY}rn{WHI}a{CY}l {YEL}Co{WHI}mm{YEL}itm{WHI}en{YEL}t{bo}
+M 0 38504     1 38531    {BLA,BOL}Durrl Filwhyr{bo}
+E 1 38506     2    11    (SHIELD) {R}+{W}T{R}e{W}m{R}p{W}l{R}a{W}r {R}S{W}h{R}i{W}e{R}l{W}d{R}+{bo}
+M 0 38502    68 38532    {BLU,BOL}Guest Man{bo}
+M 0 38502    68 38532    {BLU,BOL}Guest Man{bo}
+M 0 38514    68 38533    {BLU,BOL}Guest Lady{bo}
+M 0 38514    68 38533    {BLU,BOL}Guest Lady{bo}
+M 0 38502    68 38533    {BLU,BOL}Guest Man{bo}
+M 0 38514    68 38533    {BLU,BOL}Guest Lady{bo}
+M 0 38514    68 38535    {BLU,BOL}Guest Lady{bo}
+M 0 38514    68 38535    {BLU,BOL}Guest Lady{bo}
+M 0 38512    55 38536    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38512    55 38536    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38514    68 38536    {BLU,BOL}Guest Lady{bo}
+M 0 38505    53 38536    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38536    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38536    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+D 0 38536     4     2    (U:LOCKED) {WHITE}A Step Up{white}
+M 0 38514    68 38537    {BLU,BOL}Guest Lady{bo}
+M 0 38512    55 38538    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38502    68 38538    {BLU,BOL}Guest Man{bo}
+M 0 38502    68 38539    {BLU,BOL}Guest Man{bo}
+M 0 38512    55 38539    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38502    68 38539    {BLU,BOL}Guest Man{bo}
+M 0 38502    68 38540    {BLU,BOL}Guest Man{bo}
+M 0 38514    68 38540    {BLU,BOL}Guest Lady{bo}
+M 0 38502    68 38540    {BLU,BOL}Guest Man{bo}
+M 0 38512    55 38541    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38512    55 38541    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38512    55 38541    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38514    68 38541    {BLU,BOL}Guest Lady{bo}
+M 0 38512    55 38541    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38541    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38541    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38541    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38541    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38512    55 38542    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38514    68 38542    {BLU,BOL}Guest Lady{bo}
+M 0 38514    68 38542    {BLU,BOL}Guest Lady{bo}
+M 0 38502    68 38542    {BLU,BOL}Guest Man{bo}
+M 0 38514    68 38543    {BLU,BOL}Guest Lady{bo}
+M 0 38505    53 38543    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38510     3 38543    {YEL,BOL}A {WHI}Clan {YEL}Guard{bo}
+M 0 38510     3 38543    {YEL,BOL}A {WHI}Clan {YEL}Guard{bo}
+M 0 38502    68 38545    {BLU,BOL}Guest Man{bo}
+M 0 38502    68 38545    {BLU,BOL}Guest Man{bo}
+M 0 38502    68 38546    {BLU,BOL}Guest Man{bo}
+M 0 38502    68 38547    {BLU,BOL}Guest Man{bo}
+M 0 38512    55 38548    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38512    55 38549    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38514    68 38549    {BLU,BOL}Guest Lady{bo}
+M 0 38514    68 38549    {BLU,BOL}Guest Lady{bo}
+M 0 38514    68 38549    {BLU,BOL}Guest Lady{bo}
+M 0 38510     3 38549    {YEL,BOL}A {WHI}Clan {YEL}Guard{bo}
+M 0 38515     1 38549    {GRE,BOL}Elfryd{bo}
+M 0 38513     1 38549    {GRE,BOL}Erskyne{bo}
+M 0 38518     2 38550    {CY}An elderly, dwarven woman{bo}
+M 0 38518     2 38550    {CY}An elderly, dwarven woman{bo}
+M 0 38507    12 38550    {WHI}A Sharpshooter{bo}
+M 0 38507    12 38550    {WHI}A Sharpshooter{bo}
+D 0 38550     5     2    (D:LOCKED) {W}Back of the Viewing Platform{bo}
+M 0 38516     2 38551    {CY}An elderly, dwarven man{bo}
+M 0 38507    12 38551    {WHI}A Sharpshooter{bo}
+M 0 38507    12 38551    {WHI}A Sharpshooter{bo}
+M 0 38514    68 38552    {BLU,BOL}Guest Lady{bo}
+M 0 38502    68 38553    {BLU,BOL}Guest Man{bo}
+M 0 38505    53 38554    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38554    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38554    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38554    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38502    68 38555    {BLU,BOL}Guest Man{bo}
+M 0 38512    55 38555    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38514    68 38555    {BLU,BOL}Guest Lady{bo}
+M 0 38505    53 38555    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38520     9 38555    Musician
+M 0 38520     9 38555    Musician
+M 0 38520     9 38555    Musician
+M 0 38520     9 38555    Musician
+M 0 38505    53 38555    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38555    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38502    68 38556    {BLU,BOL}Guest Man{bo}
+M 0 38514    68 38556    {BLU,BOL}Guest Lady{bo}
+M 0 38512    55 38557    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38514    68 38557    {BLU,BOL}Guest Lady{bo}
+M 0 38512    55 38558    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38514    68 38559    {BLU,BOL}Guest Lady{bo}
+M 0 38512    55 38559    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38502    68 38559    {BLU,BOL}Guest Man{bo}
+M 0 38502    68 38559    {BLU,BOL}Guest Man{bo}
+M 0 38512    55 38560    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38514    68 38560    {BLU,BOL}Guest Lady{bo}
+M 0 38512    55 38560    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38512    55 38561    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38514    68 38561    {BLU,BOL}Guest Lady{bo}
+M 0 38502    68 38561    {BLU,BOL}Guest Man{bo}
+M 0 38514    68 38562    {BLU,BOL}Guest Lady{bo}
+M 0 38502    68 38562    {BLU,BOL}Guest Man{bo}
+M 0 38511     3 38562    {R,BOL}A {YEL}Clan {R}Guard{bo}
+M 0 38501     1 38562    {WHI,BOL}Tairdo{bo}
+M 0 38523     1 38562    {GRE,BOL}A{CY}g{GRE}l{CY}a{GRE}n{CY}a{GRE}e{bo}
+M 0 38516     2 38563    {CY}An elderly, dwarven man{bo}
+M 0 38507    12 38563    {WHI}A Sharpshooter{bo}
+M 0 38507    12 38563    {WHI}A Sharpshooter{bo}
+M 0 38507    12 38564    {WHI}A Sharpshooter{bo}
+G 1 38502     2     0    {BLA,BOL}A Prayer Chamber Key{bo}
+M 0 38507    12 38564    {WHI}A Sharpshooter{bo}
+M 0 38512    55 38565    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38502    68 38565    {BLU,BOL}Guest Man{bo}
+M 0 38512    55 38565    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38502    68 38566    {BLU,BOL}Guest Man{bo}
+M 0 38502    68 38566    {BLU,BOL}Guest Man{bo}
+M 0 38502    68 38567    {BLU,BOL}Guest Man{bo}
+M 0 38505    53 38567    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38567    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38567    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38567    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+D 0 38567     1     2    (E:LOCKED) {WHITE}Back of the Temple{white}
+M 0 38512    55 38568    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38512    55 38568    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38502    68 38568    {BLU,BOL}Guest Man{bo}
+M 0 38514    68 38569    {BLU,BOL}Guest Lady{bo}
+M 0 38502    68 38569    {BLU,BOL}Guest Man{bo}
+M 0 38502    68 38569    {BLU,BOL}Guest Man{bo}
+M 0 38514    68 38570    {BLU,BOL}Guest Lady{bo}
+M 0 38514    68 38570    {BLU,BOL}Guest Lady{bo}
+M 0 38502    68 38570    {BLU,BOL}Guest Man{bo}
+M 0 38514    68 38570    {BLU,BOL}Guest Lady{bo}
+M 0 38512    55 38571    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38502    68 38571    {BLU,BOL}Guest Man{bo}
+M 0 38512    55 38572    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38514    68 38572    {BLU,BOL}Guest Lady{bo}
+M 0 38514    68 38572    {BLU,BOL}Guest Lady{bo}
+M 0 38502    68 38572    {BLU,BOL}Guest Man{bo}
+M 0 38512    55 38573    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38502    68 38573    {BLU,BOL}Guest Man{bo}
+M 0 38514    68 38574    {BLU,BOL}Guest Lady{bo}
+M 0 38514    68 38575    {BLU,BOL}Guest Lady{bo}
+M 0 38502    68 38575    {BLU,BOL}Guest Man{bo}
+M 0 38514    68 38575    {BLU,BOL}Guest Lady{bo}
+M 0 38514    68 38576    {BLU,BOL}Guest Lady{bo}
+M 0 38502    68 38576    {BLU,BOL}Guest Man{bo}
+M 0 38502    68 38576    {BLU,BOL}Guest Man{bo}
+M 0 38502    68 38576    {BLU,BOL}Guest Man{bo}
+M 0 38512    55 38576    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38512    55 38577    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38514    68 38578    {BLU,BOL}Guest Lady{bo}
+M 0 38502    68 38578    {BLU,BOL}Guest Man{bo}
+M 0 38505    53 38578    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38578    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38578    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38578    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38512    55 38579    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38514    68 38580    {BLU,BOL}Guest Lady{bo}
+D 0 38580     2     2    (S:LOCKED) {BLA,BOL}Ouside the Prayer Chamber
+M 0 38512    55 38581    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38512    55 38582    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38514    68 38582    {BLU,BOL}Guest Lady{bo}
+M 0 38514    68 38582    {BLU,BOL}Guest Lady{bo}
+M 0 38512    55 38582    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38512    55 38582    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+D 0 38582     2     2    (S:LOCKED) {YEL,BOL}Outside the Prayer Chamber{bo}
+M 0 38514    68 38583    {BLU,BOL}Guest Lady{bo}
+M 0 38502    68 38583    {BLU,BOL}Guest Man{bo}
+M 0 38502    68 38584    {BLU,BOL}Guest Man{bo}
+M 0 38512    55 38584    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+D 0 38584     2     2    (S:LOCKED) {CY}Outside the Prayer Chamber{bo}
+M 0 38512    55 38585    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38502    68 38585    {BLU,BOL}Guest Man{bo}
+M 0 38502    68 38585    {BLU,BOL}Guest Man{bo}
+M 0 38502    68 38587    {BLU,BOL}Guest Man{bo}
+M 0 38502    68 38587    {BLU,BOL}Guest Man{bo}
+M 0 38502    68 38589    {BLU,BOL}Guest Man{bo}
+M 0 38514    68 38590    {BLU,BOL}Guest Lady{bo}
+M 0 38514    68 38591    {BLU,BOL}Guest Lady{bo}
+M 0 38502    68 38591    {BLU,BOL}Guest Man{bo}
+M 0 38502    68 38591    {BLU,BOL}Guest Man{bo}
+M 0 38514    68 38591    {BLU,BOL}Guest Lady{bo}
+M 0 38514    68 38591    {BLU,BOL}Guest Lady{bo}
+M 0 38502    68 38591    {BLU,BOL}Guest Man{bo}
+M 0 38505    53 38591    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38591    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38591    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38591    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38592    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38509     5 38592    {YEL,BOL}A{bo} {YEL}Dwarven {YEL,BOL}Warrior{bo}
+M 0 38505    53 38592    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+G 1 38503     1     0    {R}Stairwell Key{bo}
+D 0 38592     0     2    (N:LOCKED) {WHITE}A Prayer Chamber{white}
+M 0 38509     5 38593    {YEL,BOL}A{bo} {YEL}Dwarven {YEL,BOL}Warrior{bo}
+M 0 38509     5 38593    {YEL,BOL}A{bo} {YEL}Dwarven {YEL,BOL}Warrior{bo}
+M 0 38505    53 38593    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+D 0 38593     0     1    (N:CLOSED) {WHITE}A Prayer Chamber{white}
+M 0 38505    53 38594    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38594    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+G 1 38501     1     0    {GRE,BOL}Balcony Key{bo}
+D 0 38594     0     2    (N:LOCKED) {WHITE}A Prayer Chamber{white}
+M 0 38512    55 38595    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+G 1 38509     2     0    {W,BOL}Belt{bo} {W}of {W,BOL}Broken Bones{bo}
+M 0 38512    55 38595    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38512    55 38595    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38512    55 38595    {CY,BOL}A {BLA}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+G 1  3009    55     0    Random Stat Obj
+D 0 38595     3     1    (W:CLOSED) {WHI}Equipment Storage Room{bo}
+M 0 38505    53 38596    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38596    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+G 1 38507     1     0    {R,BOL}B{bo}{R}l{R,BOL}o{bo}{R}o{R,BOL}d{bo}{R}s{R,BOL}w{bo}{R}o{R,BOL}r{bo}{R}d{bo}
+M 0 38505    53 38596    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+M 0 38505    53 38596    {CY}A {BLA,BOL}T{CY}e{BLA}m{CY}p{BLA}l{CY}e {GRE}Guard{bo}
+G 1 38511     1     0    {BLA,BOL}Blackrock Faceguard{bo}
+D 0 38596     3     0    (W:OPEN) {WHI}Officers Room{bo}
+$~

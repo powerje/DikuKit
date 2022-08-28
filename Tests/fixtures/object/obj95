@@ -1,0 +1,220 @@
+#9500
+wand~
+ammunition for Judge Dredd's Executioner~
+A few rounds of armor piercing, cynanide capped, explosive tipped bullets are lying here..~
+~
+25 0 0 16385
+20 0 0 100
+10 38528 5000
+G
+100
+#9501
+potion red~
+a red potion~
+A potion has been left there.~
+~
+10 0 0 1
+30 28 35 0
+1 1000 1000
+#9502
+key iron~
+a iron key~
+You see a iron key lying here.~
+~
+18 69632 0 16385
+15 0 0 0
+1 1 1
+E
+key iron~
+You examine the key closely and see a small writing :
+"Tower of Doom"
+~
+#9532
+token quest~
+{Y,BO}A {C}Q{Y}u{C}e{Y}s{C}t {Y}T{C}o{Y}k{C}e{Y}n{bo,y}~
+{Y,BO}A shiny gold token winks up at you from the floor{bo,y}~
+~
+4 1 0 16385
+35 5 5 36
+10 1000 2000
+E
+token quest~
+
+  
+{W}You have found a quest token!  Roll the dice and see
+what you win!  Mended token gets you a better prize!
+  
+{BO,Y}--------------TOKEN VALUES FOR DICE-------------
+  
+         {Y}UNMENDED           MENDED
+  
+{C}0-10     {G}Nothing!           {W}3,000,000 coins 
+{C}11-25    {W}3,000,000 coins    5,000,000 coins
+{C}26-50    {W}5,000,000 coins    10,000,000 coins
+{C}51-70    {W}10,000,000 coins   20,000,000 coins
+{C}71-85    {W}20,000,000 coins   50,000,000 coins
+{C}86-95    {W}50,000,000 coins   100,000,000 coins
+{C}96-98    {W}100,000,000 coins  200,000,000 coins
+{C}99       {W}200,000,000 coins       {R}FREE MEND
+  
+{Y}----------------REDEEM WITH ANY GOD+------------
+  {bo}
+~
+E
+staff golden~
+  
+{BO,Y}--------------TOKEN VALUES FOR DICE-------------
+         {Y}UNMENDED          {B}MENDED
+{C}0-10     {G}Nothing!           {W}3,000,000 coins 
+{C}11-25    {W}3,000,000 coins    5,000,000 coins
+{C}26-50    {W}5,000,000 coins    10,000,000 coins
+{C}51-70    {W}10,000,000 coins   20,000,000 coins
+{C}71-85    {W}20,000,000 coins   50,000,000 coins
+{C}86-95    {W}50,000,000 coins   100,000,000 coins
+{C}96-98    {W}100,000,000 coins  200,000,000 coins
+{C}99       {W}200,000,000 coins  {R}FREE MEND
+{BO,Y}--------------TOKEN VALUES FOR DICE-------------
+  {r,bo}
+~
+E
+token quest~
+
+On the staff, you see a mark:
+
+    ((O))
+     /|\
+     / \
+~
+#9535
+key steel ground~
+a steel key~
+You notice there's something on the ground.~
+You see a rusty steel key.
+~
+18 65537 0 16385
+15 0 0 0
+1 1 1
+E
+key iron~
+You see a rusty steel key.
+"Tower of Doom" is written on it.
+~
+#9549
+paper~
+a magical paper~
+A magical paper growing with bright light is lying there.~
+~
+16 1 0 1
+0 0 0 0
+1 1 1
+E
+paper~
+
+
+  Congratulations on the completion of the Tower of Doom.
+
+  You are now eligible to enroll with the Circle of Knights.
+  Please take this paper to a GOD and you shall become a noble Knight.
+
+
+~
+E
+paper~
+Congradulation on the completion of the Tower  of Doom.
+You are now eligible to enroll in the Circle of Knight.
+Please take this paper to Apolo to get your reward.
+~
+E
+paper~
+
+Congratulations on succesfully completing the Tower of Doom !
+
+   You are now eligible to be be deemed an honorable Knight of
+the Northen Crossroads.  Please notify a GOD+ that you have
+this magical paper and are ready to join the Circle of Knights.
+
+~
+#9550
+box magic~
+{BLA}{BOLD}a magic box{bla}{bold}~
+You see a box sitting on the ground.~
+~
+15 3 0 1
+850 1 0 0
+4 5000 5000
+#9551
+sword doom~
+a Sword of Doom~
+You see a dark mystical blade here sizzling in the earth..~
+~
+5 65603 0 8192
+3 2 4 3
+18 1000 40000
+E
+sword doom~
+This sword gives you a wierd feeling when you touch it.
+~
+A
+19 11
+A
+18 11
+B
+303333552
+C
+7000 5
+G
+110
+#9552
+cufflink cuff chivalry~
+{W}the{BLA,BOL} cufflink{bol}{W} of{W}{BOLD} c{bold}{W}h{Y}i{Y,BOL}v{W}a{bold}{W}l{Y}r{Y,BOLD}y{y}~
+An expensive cufflink has somehow ended up on the ground here.~
+~
+9 4128 16384 4097
+10 0 0 0
+1 2000 5000
+A
+19 4
+A
+18 5
+B
+536870912
+L
+20
+C
+7000 2
+G
+100
+M
+75
+#9599
+Executioner Dredd Judge godtoy~
+Judge Dredd's Executioner.~
+The most lethal looking weapon is here surging with energy..~
+~
+6 17891659 0 2850799
+0 90 0 10
+1 38528 200
+E
+Executioner Dredd Judge godtoy~
+It's shit you ass!
+
+~
+E
+shit sword weapon~
+It's shit you ass!
+~
+E
+smelly shit crap~
+Wow! Could this be a new 4 attack weapon?!
+~
+A
+19 100
+A
+19 100
+B
+3208388670
+C
+7000 2
+G
+100
+$~

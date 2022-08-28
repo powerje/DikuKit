@@ -1,0 +1,2305 @@
+#5100
+{R}The Entrance to the {R}{BOLD}City of Drow{r}~
+
+
+ {Y} You are at the entrance to a small underground city.  A great
+  adamantite gate lies closed to the west.  You see two small watch
+  towers in the distance along with slow-moving pacing forms.  Heavy
+  carts and wagons are being pulled and dragged every which way by 
+  goblins which make your movement somewhat difficult.  A rather large
+  well-built Drow stands directly in the center of the Main Gate.  He
+  seems to be checking all incoming and exporting goods from the 
+  city.  A faint rancid smell can be caught by the upward wind, along
+  with distant screams and howls of agony. {y}
+
+
+~
+51 4 1
+D1
+~
+boulder~
+1 5108 2725
+D3
+A huge gate opens to the west allowing enrance into the city.~
+gate~
+2 5108 5101
+D4
+~
+~
+0 -1 3175
+E
+gate~
+A large adamantite gate with giant spider shaped emblems stands here.~
+M1
+Z3
+C-1
+R0
+S
+#5101
+{R}The East Gate of the {BOLD}{R}City of Drow{r}{bold}~
+
+
+  {Y}You step through the large adamantite gates to give yourself a
+  somewhat clearer view of the vibrant city of Drow.  Various shops 
+  are present further into the city as you pass through the busy 
+  streets.  People of all size, stature, race and color seem to
+  take no notice as you are shoved carelessly into a wall.  A small
+  green man runs up to you and tugs on your shirt, asking for a 
+  small patronage, only to be dragged away by its master and 
+  beaten.{y}  
+
+
+~
+51 1 1
+D0
+~
+~
+0 -1 5151
+D1
+~
+gate~
+1 0 5100
+D2
+~
+~
+0 -1 5152
+D3
+~
+~
+0 0 5122
+Z3
+C-1
+R0
+S
+#5102
+Executioners Lane~
+    You walk along a highly ornate street going north and south.
+Various rubble is strewn along the street that seems to have been discarded
+without caring.  Various bums and homeless people of all ages line
+the sides of the street, each having a small tray in which to place
+any donations.  While passing by, you notice a small child that looks just
+like you when you were a child.  You stop in your tracks, in the middle of
+a pushy crowd, and gawk at this sight.  You have a flashback of your youth,
+and how it would have been if you had lived like this.  You decide to
+take pity on the child and sit by it.  The child is pale and dirty and
+shows lack of nourishment.  He politely asks you to put some gold ( 10 gold )
+in his tray, so that he may eat a hardy meal for once.  
+~
+51 9 0
+D0
+~
+~
+0 -1 5158
+D2
+~
+~
+0 -1 5120
+Z3
+C-1
+R0
+S
+#5103
+Intersection of Executioners Lane and Torture Street~
+  Okay, you've seen some dirty streets back there but this has to be the
+worst.  Everywhere you step seems to be trash.  You shake your head at the
+sight of so much filth, and the fact that roaches and mice are crawling
+around your feet doesn't help any.  While kicking at the trash around you,
+a piece of trash makes a noise.. "Ow!," The trash says.  You have seen some
+odd things in your time, but this has to be the oddest.. talking trash ?
+The trash rolls about the ground until finally it stands up to reveal a
+filthy, short green goblin.  He demands the reason for you kicking him, and
+you profusely apologize.  He nods and questions as to why you are here.
+You go on to tell him that you are exploring, in which he nods, and asks
+if you will help him and his race fight the Drow.  He states his name is
+Vuga and will gladly accept any assistance to fight for him and his race.
+You shrug helplessly, will you 'help vuga' ?
+~
+51 9 0
+D0
+~
+gate~
+1 -1 5164
+D1
+~
+~
+0 -1 5104
+D3
+~
+~
+0 -1 5105
+Z3
+C-1
+R0
+S
+#5104
+Eastern Torture Street~
+  The trash in the area is no better, and sadly but truely, you feel you
+are getting used to the stench.  Ever since the conflict with your new
+friend Vuga you have been watching where you step, making sure not to
+step on any other goblins who might not be as nice.  The road extends to
+the west and east and a small adobe can be seen to the north.
+~
+51 9 0
+D0
+~
+~
+0 -1 5110
+D1
+~
+~
+0 -1 5106
+D2
+~
+~
+0 -1 5109
+D3
+~
+~
+0 -1 5103
+Z3
+C-1
+R0
+S
+#5105
+Western Torture Street~
+You are walking along a dirty trash-ridden street that the locals
+seem to take no notice of.  As dirty as the streets are the people
+are no where near as rude as those in the city.  Probably because
+they don't own much and have very little to defend.
+
+~
+51 1 1
+D0
+~
+~
+0 -1 5112
+D1
+~
+~
+0 -1 5103
+D2
+~
+~
+0 -1 5111
+D3
+~
+~
+0 -1 5113
+Z3
+C-1
+R0
+S
+#5106
+Eastern Torture Street~
+  The trash in the area is no better, and sadly but truely, you feel you
+are getting used to the stench.  Ever since the conflict with your new
+friend Vuga you have been watching where you step, making sure not to
+step on any other goblins who might not be as nice.  The road extends to
+the west and east and a small adobe can be seen to the north.
+~
+51 9 0
+D0
+~
+~
+0 -1 5108
+D2
+~
+~
+0 -1 5107
+D3
+~
+~
+0 -1 5104
+Z3
+C-1
+R0
+S
+#5107
+A Goblin Slave House~
+  This small house appears to be beautifully decorated with pictures
+and various statues and monuments of family members.  The interior
+of this house looks extraordinary.  Then you come to the slave pen..
+You now know how this person makes his money.  Bleh.. a slave 
+trader.. 
+
+~
+51 9 0
+D0
+~
+~
+0 -1 5106
+Z3
+C-1
+R0
+S
+#5108
+A Cluttered and Trashed Goblin House~
+  You stand inside a house which is totally devastated with trash
+and debris.  You have no idea how anything could possible live in
+such a place.  Insects crawl the wall while the goblin act like
+they dont exist.  What a weird way to live, eh ?
+
+~
+51 9 0
+D2
+~
+~
+0 -1 5106
+Z3
+C-1
+R0
+S
+#5109
+A Goblin House~
+ The room is cluttered with trash and debris and no matter where you stand
+something is rotting.  Various markings and symbols have been written on
+the walls that you don't understand.  Standing to the back of the room
+are a few scared goblins that seem to try and cringe away when you look
+at them.  You walk towards them and all they do is cringe and shake more.
+Why are they like this ?
+~
+51 9 0
+D0
+~
+~
+0 -1 5104
+Z3
+C-1
+R0
+S
+#5110
+An Extremely Small Goblin House~
+  This house is extremely small and cozy, except for the trash. ( of course )
+The clearing of this house is so low, you had to duck when you walked in.
+There seems to be a small family a few yard away eating dinner.  You try
+not to be intruding and make a slight knocking noise on the nearest item.
+The family immediately turns to you and shrieks.  They left up their dinner
+table and try to cower behind it to defend themselves.  You try to explain
+that you mean no harm but it seems unlike Vuga, they cannot speak your
+tongue.
+
+Why are they so afraid ?
+~
+51 9 0
+D2
+~
+~
+0 -1 5104
+Z3
+C-1
+R0
+S
+#5111
+An Extremely Clean Goblin House~
+     You stand in the inner courtyard of the 1st and largest house in the city.
+The room is extremely large and decorative. Mural and paintings hang on the 
+walls depicting some battles and a spider queen.
+~
+51 9 0
+D0
+~
+~
+0 -1 5105
+Z3
+C-1
+R0
+S
+#5112
+A Rather Grotesque-looking Goblin House~
+     The throne room of the 1st house is in one word...awesome. It is so
+horrifying it is almost beautiful.
+~
+51 9 0
+D2
+~
+~
+0 -1 5105
+Z3
+C-1
+R0
+S
+#5113
+Western Torture Street~
+You are walking along a dirty trash-ridden street that the local 
+seem to take no notice of.  As dirty as the streets are, the people
+are no where near as rude as those in the City.  Probably because
+they dont own much and have very little to defend.
+
+~
+51 1 1
+D0
+~
+~
+0 -1 5115
+D1
+~
+~
+0 -1 5105
+D2
+~
+~
+0 -1 5116
+D3
+~
+~
+0 -1 5175
+Z3
+C-1
+R0
+S
+#5114
+Western Center Avenue~
+   You walk along a highly arnate citystreet leading west and east.  Shops
+and  merchants line the street and yell various lines to convince you to
+purchase one of their items.  One merchant goes so far as to jump in front of
+you and try to force you to buy his wares.  You overpower him and frustratingly
+push him to the side.  
+~
+51 9 0
+D1
+~
+~
+0 -1 5159
+D3
+~
+~
+0 -1 5162
+Z3
+C-1
+R0
+S
+#5115
+A Goblin House~
+     You walk along a highle ornate citystreet leading south. A building is
+to the west.
+~
+51 9 0
+D2
+~
+~
+0 -1 5113
+Z3
+C-1
+R0
+S
+#5116
+An Empty Goblin House~
+     This is the most lavish of the academies being that it is for the clerics.
+~
+51 9 0
+D0
+~
+~
+0 -1 5113
+Z3
+C-1
+R0
+S
+#5117
+Slave City Central Dump Site~
+  You have come to the dirtiest area of the city.  Rats and roaches
+of all sorts are crawling here, feasting on the remains of various
+edible objects.  Surrounding you as you enter the room are scrawny
+malnutritioned goblins.  They seem to have all spotted you and are
+walking like living zombies toward you.  You attempt to back up
+but are surrounded.  One of them got close to you and managed to
+slip his hand into your pouch and steal a few coins.  With the 
+attempt to steal your gold, you have had it. You draw your weapon
+and prepare to fight these helpless victims.  With weapon high the
+goblins seem to get frightened and cringe in terror.  You hope they
+wont try any sort of thievery attempt again, but you doubt it.
+
+~
+51 265 1
+D1
+~
+door~
+2 5117 5189
+D2
+~
+~
+0 -1 5118
+D3
+~
+~
+0 -1 5186
+T5199
+X1024
+Z3
+C-1
+R0
+S
+#5118
+A Steep Cliff~
+You are standing before the edge of a cliff that appears to be
+bottomless.  The cliff appears to have no signs of life on it or
+around it.  While peering down into the vast bottomless pit you
+notice in the corner of your eye a large bunch of furry animals
+that resemble hamsters.  The only difference is these animals have
+blue fur and green hair! There must be at least twenty of them!
+They appear to all be getting into line formation and are running
+their furry bodies one by one off the cliff.  You ponder as to
+why these cute little fuzzy guys are so suicidal.
+
+~
+51 13 0
+D0
+~
+~
+0 -1 5117
+D2
+~
+~
+0 -1 5193
+M30
+Z3
+C-1
+R0
+S
+#5119
+At The Gates of the Palace of Lloth~
+You stand before the gates of a large palace.  Beautiful trees line
+the sides of the road along with multicolored flowers delicately
+placed about.  To the North you can see the Palace Courtyard 
+along with a few Guardsman pacing about.
+
+~
+51 9 0
+D0
+~
+~
+0 -1 5126
+D2
+~
+gate~
+1 -1 5166
+Z3
+C-1
+R0
+S
+#5120
+Intersection between Executioners Lane and Trinidad Avenue~
+   This is another crowded intersection, with the normal pushing and shoving
+that you have learned to get used to.  While pushing forward, you peek up
+above the crowd and notice a large brigade of elite drowish troops pushing
+people away from a large moveable throne.  You scratch your head, wondering
+if it really _is_ a throne.  Upon closer examination, you notice the throne,
+has a very evil-looking king upon it.  He motions to his guards to set his 
+throne down and step aside.  He takes a light step off the throne, brushes
+himself off and clears his throat.  
+Do you want to 'listen' to the 'king' speak ?
+~
+51 9 0
+D0
+~
+~
+0 -1 5102
+D1
+~
+~
+0 -1 5121
+D2
+~
+~
+0 -1 5164
+D3
+~
+~
+0 -1 5124
+Z3
+C-1
+R0
+S
+#5121
+Eastern Trinidad Avenue~
+  You walk along a highly ornate citystreet going east and west.  While
+walking down the street, you come across an elegantly dressed man wearing
+a gold embroidered overcoat and is wearing a diamond-studded tophat.  He
+seems to take notice of you, nor of anything, for that matter,  His nose
+is in the air and he glides down the street with ease.  While walking however,
+he briefly looks down to notice that his boots have a smudge of dirt on them.
+He shakes his head and ducks out of the crowd and into an alley. You wonder
+if maybe you should deprive this man of his clothing and gold.. 
+Now's your chance, he's not looking! Quicky.. !
+~
+51 9 0
+D1
+~
+~
+0 -1 5123
+D3
+~
+~
+0 -1 5120
+Z3
+C-1
+R0
+S
+#5122
+Eastern Center Avenue~
+Various fruits and vegetables are strewn about the entire vicinity.  It
+seems some sort of a fight had recently broken out and an entire nearby
+fruit-stand was devastated.  A rather stout-looking Drow is here
+screaming at everyone, blaming anyone who will listen.  Some teenagers
+of the Goblin race come charging at the screaming Drow, knocking him
+down, causing a wrestling match.  The teenagers succesfully rob the
+remains of the Drow-merchant and flee the scene before guards could
+arrive.
+~
+51 1 1
+D1
+~
+~
+0 0 5101
+D3
+~
+~
+0 -1 5155
+Z3
+C-1
+R0
+S
+#5123
+Eastern Trinidad Avenue~
+  The entire crowd in the street seems to have dispersed leaving you literally
+all alone.  You hear a faint humming nosie from the south, while to the north,
+you hear and see nothing, how odd.  A group of robed figures walk in from the
+west chatting amongst themselves.  Upon notice of you, they half, nod their
+heads in your general direction and proceed to the building to the south.
+~
+51 9 0
+D0
+~
+~
+0 -1 5170
+D2
+~
+~
+0 -1 5169
+D3
+~
+~
+0 -1 5121
+Z3
+C-1
+R0
+S
+#5124
+Western Trinidad Avenue~
+  This street is somewhat less crowded as the others.  Probably do to the 
+excssive amount of guards that line sides of the streets.  As you push
+down the street you look at the sky, and are shocked to see bluish-greyish
+masses conglomorate into a devastatingly poweful cloud.  You can make out
+electrical currents that are flowing in and around this cloud.  As you
+try to continue to watch your extraterrestrial event take place, a hefty 
+man gives you a powerful nudge, which causes you to fly into nearby barrel.
+You stand-up, brush yourself off and curse at the man.  Instantly you watch 
+as a huge purple bolt incinerates the man where he stood.  You stand there
+in awe, mouth open, wondering.. What is that cloud ?
+~
+51 9 0
+D1
+~
+~
+0 -1 5120
+D3
+~
+~
+0 -1 5125
+Z3
+C-1
+R0
+S
+#5125
+Western Trinidad Avenue~
+   The streets are still calmner than others youve seen.  The cloud that
+previously incinerated your friend a bit down the street seems to be hovering
+above the building to the north.  To the north you here various battle and
+war cries.  Both buildings are decoratively embroidered with purple-adamantite
+letters that describe their reasons for being built.  You step up to the 
+northern building and read "Mage Hall of Training".  Nodding to youself,
+you take a step back and go to the southern end of the street and read
+"Warrior Hall Of Training".  You cautiously think about the dangers of
+walking ito a _drow_ training hall.  Decide wisesly my friend..
+~
+51 9 0
+D0
+~
+~
+0 -1 5168
+D1
+~
+~
+0 -1 5124
+D2
+~
+~
+0 -1 5167
+Z3
+C-1
+R0
+S
+#5126
+A Small Path To The Elegant Palace Courtyard~
+  Passing through here gives you a sense of ease.  The beautiful
+aroma of flowers and life gives you a relaxing sigh of relief.
+Completely mesmorized by the beauty you feel somehow compelled to
+pickup a nearby flower and give it a quick smell.  Why not, right?
+
+~
+51 9 0
+D0
+~
+~
+0 0 5127
+D2
+~
+~
+0 -1 5119
+Z3
+C-1
+R0
+S
+#5127
+The Courtyard~
+  After receiving a somewhat bad headache from the previous room, you
+arrive in a elegantly decorated palace courtyard.  A beautiful fountain
+flows pleasantly in the center of the yard.  The two Guardsman 
+in the room seem to have temporarily left, leaving you with the pleasure
+of tasting this delicious water.  As you near the fountain, a small
+button appears to be pressable on the bottom of the fountain.  You 
+curiously press the button which instantly explodes a large vibrant
+portal.. To where? No clue.. Hmm..
+~
+51 9 0
+D0
+~
+~
+0 0 5135
+D1
+~
+~
+0 0 5128
+D2
+~
+~
+0 0 5126
+D3
+~
+~
+0 0 5131
+Z3
+C-1
+R0
+S
+#5128
+The Western Wing of the Drow Castle~
+  You are in a long hallway lined with adamantite.  The walls are
+engraved with pictures of elves and spiders.  The hallway continues
+to the east.  As you peer down the hallway you can make out one or
+two bulky figures pacing about.
+~
+51 9 0
+D1
+~
+~
+0 0 5129
+D3
+~
+~
+0 0 5127
+Z3
+C-1
+R0
+S
+#5129
+The Western Wing of the Drow Castle~
+  You cautiously sneak down the hallway peering in each direction
+for a possible ambush or presence of an enemy.  As you quietly tiptoe
+down the hallway you seem to notice the hallway getting darker 
+and darker, making you even more frightened.  You notice a room
+to the north in which a large man appears to be hard at work fixing
+something.  He seems to be chatting with a few of his buddies which
+only makes your situation worse.  
+~
+51 9 0
+D0
+~
+~
+1 -1 5150
+D1
+~
+~
+0 0 5130
+D3
+~
+~
+0 0 5128
+Z3
+C-1
+R0
+S
+#5130
+The Eastern Wing of the Drow Castle~
+  You have to the end of a long adamantite hallway in which seems
+to be completely bare of any lamps, lanterns or pictures.  You search
+around for any possible secret passages but there are none.  You
+snap your fingers and continue back to the west.
+~
+51 9 0
+D3
+~
+~
+0 0 5129
+Z3
+C-1
+R0
+S
+#5131
+The Western Wing of the Drow Castle~
+  You are in a long hallway lined with adamantite.  The walls are
+engraved with pictures of elves and spiders.  The hallway continues
+to the west.  As you peer down the hallway you can make out one or
+two bulky figures pacing about.
+~
+51 9 0
+D1
+~
+~
+0 0 5127
+D3
+~
+~
+0 0 5132
+Z3
+C-1
+R0
+S
+#5132
+The Western Wing of the Drow Castle~
+  You cautiously leech down the hallway peering in each direction
+for an ambush or presence of an enemy.  As you quietly sneak down
+the hallway, you seem to notice the Hallway getting more and more
+darker, getting you more and more frightened.  You notice a room
+to the south in which is lit by a small lantern.  Peering into the
+room you notice nothing but a low snoring noise.  You crack your
+knuckles, unsheathe your weapon and give a quick prayer, hoping
+the figure(s) will not put up much of a fight.
+~
+51 9 0
+D1
+~
+~
+0 0 5131
+D2
+~
+~
+0 -1 5133
+D3
+~
+~
+0 0 5134
+Z3
+C-1
+R0
+S
+#5133
+Warrior's Barracks~
+  The instant you enter the room you notice the room to be completely
+lacking in furniture.  The entire room seems to have nothing but
+3 bunk beds on the far side of the room.  Other than the lack of 
+furniture you curiously wonder as to why the room is so orderly.
+Since when are drow warriors clean ?! Hmm.. anyway.. while your
+scanning the room, the drow guard on duty seems to have noticed you
+and is frantically trying to wake up the others.  Better keel him
+before he wakes up the others! 
+~
+51 9 0
+D0
+~
+~
+0 -1 5132
+Z3
+C-1
+R0
+S
+#5134
+The Western Wing of the Drow Castle~
+   You have finally come to the end of the Western Hallway in which
+appears to be nothing but a beautiful picture of a Female Human
+with her family.  You smile as you see it, it gives you a remembrance
+of your family back home... but wait.. what?! A _HUMAN FEMALE_ on
+the wall of a _Drow Palace_ ?! What the heck?!  You instantly 
+shriek in terror.. wondering.  Looking closer at the picture you
+notice a small hole that an object can be inserted into.  Odd..
+Very odd, indeed..
+~
+51 9 0
+D0
+~
+picture~
+8 5119 30200
+D1
+~
+~
+0 0 5132
+Z3
+C-1
+R0
+S
+#5135
+On a small path up to the Drow Palace~
+  You are standing at the bottom of a giant obsidian and adamantite
+stairway which swirls upwards.  The edges of the stairs are trimmed 
+with gold and look relatively new and clean.  Peering upwards you
+notice a large guard protecting the rooms from any unwanted
+visitors.
+~
+51 9 0
+D2
+~
+~
+0 0 5127
+D4
+~
+~
+0 0 5136
+Z3
+C-1
+R0
+S
+#5136
+Grand Hallway~
+     You are standing in the middle of a grand hallway. The walls are 
+of the purest adamantite with gold trim. Mosiacs line the walls.
+~
+51 9 0
+D0
+~
+~
+0 0 5138
+D1
+~
+~
+1 -1 5137
+D5
+~
+~
+0 0 5135
+Z3
+C-1
+R0
+S
+#5137
+Mage's Barrracks~
+     The mage's living quarters is rather clean with the exception of a few
+used component containers. It is rather well decorated as well. Cots line the
+floor for the mages to sleep on. the only door is to the west.
+~
+51 9 0
+D3
+~
+~
+1 -1 5136
+Z3
+C-1
+R0
+S
+#5138
+Grand Hallway~
+     You are walking down a grand hallway, heavily decorated with adamantite
+and gold. To the north the hall goes down a flight of stairs while a door is 
+too the west.
+~
+51 9 0
+D2
+~
+~
+0 0 5136
+D3
+~
+~
+1 -1 5139
+D5
+~
+~
+0 0 5140
+Z3
+C-1
+R0
+S
+#5139
+Cleric's Barracks~
+     The bed chamber is brightly decorated with spider shaped statues, murals
+and the like. Large beds line the floor making this a comfortable room to live 
+in.
+~
+51 9 0
+D1
+~
+~
+1 -1 5138
+Z3
+C-1
+R0
+S
+#5140
+In front of the Golden Doors to the Throne Room~
+  You have come to entrance to the main throne room of the king
+of this dastardly evil palace.  You see a beautiful ornate set
+of golden doors with a small keyhole.  You can hear laughing and
+loud music beyond the doors and anxiously await to eradicate the
+evil Drow once and for all.
+~
+51 13 0
+D0
+~
+golden~
+2 5133 5141
+D4
+~
+~
+0 0 5138
+Z3
+C-1
+R0
+S
+#5141
+Main Chamber~
+  You have entered an extremely large throne room in which various
+sorts of entertainers are here trying to show-off their talents
+to the King.  You gaze in awe as bellydancers shake their buttom
+wildly in front of you.  ( Can you tell a guy did this zone? :) )
+At the far northern end of the room is a rather fat man who is
+cackling loudly over a bellydancer who slipped on a banana peel.
+Throughout the commotion however, you fail to notice the throne
+guards sneaking behind you.  In an instant the room becomes quiet
+as you quickly unsheathe your swords.  You find it odd that the King
+is still laughing..
+~
+51 137 0
+D0
+~
+~
+0 -1 5145
+D1
+~
+~
+0 -1 5142
+D2
+~
+golden~
+1 -1 5140
+D3
+~
+~
+0 -1 5144
+Z3
+C-1
+R0
+S
+#5142
+Easternside of Chamber~
+  The room is filled with bellydancers and entertainers who seem
+to take no notice of you.  Elegant pictures of past kings line the
+walls and beautiful floral arrangements hang from the ceiling.
+~
+51 137 0
+D3
+~
+~
+0 -1 5141
+Z3
+C-1
+R0
+S
+#5143
+An Endless Void~
+Walking into this room was just plain stupid, I put about one-thousand
+warnings not to walk down and what do you do ? Walk down! Duh! I mean
+Hellooooo..?!" Anyways, ask someone to help you do the "timequest
+because you have just lost all of your equipment.
+Oh.. and have a nice day ! =-)
+~
+51 16777222 8
+Z3
+C-1
+R0
+S
+#5144
+Westernside of Chamber~
+  The room is filled with bellydancers and entertainers who seem
+to take no notice of you.  Elegant pictures of past kings line the
+walls and beautiful floral arrangements hang from the ceiling.
+~
+51 137 0
+D1
+~
+~
+0 -1 5141
+Z3
+C-1
+R0
+S
+#5145
+Above The Sacrifical Pit~
+  You are standing below a freshly bloodstained pit.  Engraved on
+the top of the pit is a picture of a giant spider with a human head.
+Looking down the pit you seem to notice nothing but an endless void.
+Looking to the north, the King is still cackling away.  The man is
+still drinking and feeding his face while pointing at you and
+laughing.  Isn't odd how he is about to die and could care less?
+Hmm.. oh well.. heh
+~
+51 137 0
+D2
+~
+~
+0 -1 5141
+D3
+~
+~
+0 -1 30210
+D5
+~
+~
+0 0 5143
+Z3
+C-1
+R0
+S
+#5146
+Slave Cells~
+     This is the main rooom to the cell chambers for the slaves to be 
+sacrificed. You notice there are no guards around.
+~
+51 9 0
+D0
+~
+~
+1 -1 5147
+Z3
+C-1
+R0
+S
+#5147
+Slave Pen~
+     Rotten meat and breads lie about the floor while shackles hang from the 
+walls. The room wreaks of death. You almost become nausious and ecide to leave
+the room since you were obviously too late to save the slave.
+~
+51 9 0
+D2
+~
+~
+1 -1 5146
+Z3
+C-1
+R0
+S
+#5148
+This is nowhere.~
+~
+51 141 0
+Z3
+C-1
+R0
+S
+#5149
+(*)(*)(*)(*)   THE TREASURE CHAMBER    (*)(*)(*)(*)~
+  You have found the infamous Treasure Chamber of the Drow palace.
+Several items are strewn about on the floor waiting to be picked
+up.  The room is lavishly decorated with ancient pictures and
+murals of past Kings and leaders.  You greedily take the items,
+wiggle your litle buttom and pat yourself on the back.
+~
+51 137 0
+D1
+~
+~
+0 -1 30210
+Z3
+C-1
+R0
+S
+#5150
+Weaponsmaster's Chamber~
+  You are in a room in which an assortment of weapons hangs from
+each of the walls.  The owner of the weapons seems to take much 
+pride in his weapons as he paces about cleaning them and sharpening
+those that need sharpening.  A few local guards off duty appear
+to be in the room chatting with the smith as he completes his
+daily cleaning.  In the midst of a conversation one of the guards
+notices you and unsheathes his sword.  The smith ironically shrieks
+in utter terror and huddles beneath the counter.  The guards snicker
+at each other as they glance at the smith then instantly charge
+you.
+~
+51 9 0
+D2
+~
+~
+1 -1 5129
+Z3
+C-1
+R0
+S
+#5151
+{R}The Northern Guard Tower{r}~
+
+
+  {Y}Beds lines the wall on each side of you making this seem to be
+  a barracks. The Drow place their barracks close to the gate of
+  the city to enable themselves to defend their city quicker in 
+  case of an invasion.  Various deadly swords, suits of armor,
+  shields and weapons of destruction hang on the walls above each 
+  guardsmans' bed {y}
+
+
+~
+51 0 1
+D2
+~
+~
+0 -1 5101
+D4
+~
+~
+0 -1 5153
+Z3
+C-1
+R0
+S
+#5152
+The Northern Guard Tower~
+The room is filled with beds from one end of the room to the other,
+as well as various tables, cabinets and bathrooms.  This seems to
+be the resting-place of the Drow Elite.  They seem to place their
+barracks so close to the gate of the city to enable themselves
+to defend their city quicker in case of an invasion.  Various swords
+and weapons hang on the walls, ready to be used at any given time.
+You notice a small man holding a pair of binoculars in the room
+above you.
+~
+51 0 1
+D0
+~
+~
+0 -1 5101
+D4
+~
+~
+0 -1 5154
+Z3
+C-1
+R0
+S
+#5153
+The Northern Guard Tower Lookout Point~
+A small and skinny man is here peering intently through a pair
+of binoculars.  You notice he is looking at the landscape surrounding
+Drow.  He seems to take no notice of your approach and simply picks
+up a nearby glass of water and takes a sip, still looking into
+the binoculars.  The room has nothing in it but a chair that
+lies by the window.  You would assume it is there to help the 
+look-out get more comfortable when his legs start to cramp.  
+~
+51 0 1
+D5
+~
+~
+0 -1 5151
+Z3
+C-1
+R0
+S
+#5154
+The Northern Guard Tower Lookout Point~
+A small and skinny man is here peering intently through a pair
+of binoculars.  You notice he is looking at the landscape surrounding
+Drow.  He seems to take no notice of your approach and simply picks
+up a nearby glass of water and takes a sip, still looking into
+the binoculars.  The room has nothing in it but a chair that
+lies by the window.  You would assume it is there to help the 
+look-out get more comfortable when his legs start to cramp.  
+~
+51 0 1
+D5
+~
+~
+0 -1 5152
+Z3
+C-1
+R0
+S
+#5155
+Eastern Center Avenue~
+     A large Drow man with tattoos up and down his arms and chest stands here
+wielding a black whip.  He is violently, viciously yelling at three
+goblin slaves that appear to be pulling the wagon that he is in.  The 
+goblins appear to be nearly dead as the so-called Drow Master furiously
+whips the life out of the innocen and helpless.  You wish there was something
+you could do, something you could say to _help_ the goblins.
+~
+51 0 1
+D0
+~
+~
+0 -1 5172
+D1
+~
+~
+0 -1 5122
+D2
+~
+~
+0 -1 5171
+D3
+~
+~
+0 -1 5158
+Z3
+C-1
+R0
+S
+#5156
+The Shop of the Drow Armourer~
+An average-sized Drow with an emotionless face is sitting on an
+oak chair, with his legs kick backed.  He is reading the newspaper and
+seems to take absolutely no interest in you whatsoever.  You calmnly
+yet firmly walk up the desk where he sits and ring the bell.  The
+Armourer does nothing but itch his nose and make a slight cough.
+You are quite distubed at this and begin to furiously ring the bell,
+hoping that he will help you.  The Armourer stands up, walks around his
+desk, unsheathes his sword, takes a fighting stance, and
+says, "I'll show you what happened to the last person who interrupted me
+while reading the comics!" and charges you.
+~
+51 0 1
+D2
+~
+~
+0 -1 5172
+Z3
+C-1
+R0
+S
+#5157
+The Shop of the Drow Weaponsmith~
+As you enter the room, a large argument breaks out between the weaponsmith
+and a customer.  You try to eavesdrop a bit while scanning the large array
+of drowish weapons that have been displayed.  It seems that the customer had
+bought a weapon that he claims has no magical value and demands his money
+back.  You curiously wonder what magical item this individual is talking 
+about, but you are a bit too far away to get a good hear, and inch a little
+forward.  The weaponsmith turns his head and notices you and completely
+ignores the other customer, and asks you if there is anything he can do.
+You nod in your head, and tell him you are looking for a good sword, and would
+be willing to pay well for one.  He shows you an assortment of swords and 
+blades but none seem to take your interest.  He then continues to show you
+his other wares, but still nothing satisfies yo, until he comes across
+a unique pair of boots.. Should you "buy" the boots for 20 mil ?
+~
+51 0 1
+D0
+~
+~
+0 -1 5171
+Z3
+C-1
+R0
+S
+#5158
+Center Square~
+You have come to the Main Center Square of the City of Drow.
+Various mechants, peddlers, beggars and thieves are all joined
+and condensed in this intersection.  Loud shouts and arguments
+can be heard and seen from every which way.  Guardsman seem
+to attempt to watch the crowd and prevent as much crime and
+disturbances as possible.
+
+To the North lies the Palace of King Dai'Shan.
+
+To the South lies the Slave City of the Goblins.
+
+To the West and East lies the Dark Wilderness.
+
+~
+51 0 1
+D0
+~
+~
+0 -1 5165
+D1
+~
+~
+0 -1 5155
+D2
+~
+~
+0 -1 5102
+D3
+~
+~
+0 -1 5159
+Z3
+C-1
+R0
+S
+#5159
+Western Center Avenue~
+You are pushed and shoved every which way by the massive crowd.  Maneuvering
+through this is extremely difficult.  You manage to get to a part of the
+street that is a little less crowded and give a sigh of relief.  You wipe the
+swear from your brow and gain your posture.  You bend over to brush your pants
+off and notice in the corner of your eye a woman being robbed.  You take a quick
+moment to decide on what you should do, either let her be, and avoid danger,
+or help an innocent woman.  You go with your conscious and decide to help the
+woman out.  You run towards the thugs and draw your weapon.  Upon seeing you,
+they immediately shriek in terror and drop the lady and her possessions and
+flee the scene.  The lady gains her posture and thanks you heartily.  She tells
+you of a red dragon that can be found to the south that has great treasure.
+You thank the lady for the information and politely escort her to her house.
+~
+51 0 1
+D0
+~
+~
+0 -1 5173
+D1
+~
+~
+0 -1 5158
+D2
+~
+~
+0 -1 5174
+D3
+~
+~
+0 -1 5114
+Z3
+C-1
+R0
+S
+#5160
+The Drow Wizard's Shop~
+A fairly plain-looking room with nothing in it but a small globe sitting
+on a pedestal in the center.  You curiously look at the globe, and notice
+nothing amazing about it.  While looking, a small, old drowish man walks in
+from the backroom and greets you happily.  The man pulls up his multi-colored
+pants and walks up to you and the globe.  "You like the globe, yes?," he says.
+You nod your head, still completely confused as to what its purpose could be.
+"This here globe will tell ya something that will most likely aid you in your
+journeys.  I can't tell ya what because it varies on the person.
+"During my younger years, while adventuring, I found this in Dargamoth Castle
+under a bed.  I brought it back to my house and studied it.  After years of
+fiddling with it, it shocked me as to how its powers worked. While cleaning
+one Spring morning like this, it started to glow.  You try.. "rub" it like so.
+~
+51 0 1
+D2
+~
+~
+0 -1 5173
+Z3
+C-1
+R0
+S
+#5161
+The Drow Cleric's Sanctuary~
+A strong stench fills your nostrils as you enter the room.  You gag as
+you proceed to the desk in which a small little girl is happily mixing
+various colored potions together.  You notice one of the beakers is starting
+to vigurously shake until it shatters.  The little girl screams and ducks
+under the desk.  A moment later two older drow step in from the back and
+peer around and sigh.  Realizing the young girl must be their daughter,
+you wonder if now would be the right time to ask the merchant about his
+wares.  While putting all his effort into cleaning, he looks up and notices
+you.  He politely asks you what he can do and you tell him you are looking
+for a good potion.  He motions his wife to bring an odd-colored beaker to
+him.  He takes the beaker and explains that this potion is mystical.
+It has the power to protect you from enemies before and during battle.
+You gasp in astonishment and ask the man his price... 250k he says.
+~
+51 0 1
+D0
+~
+~
+0 -1 5174
+Z3
+C-1
+R0
+S
+#5162
+Inside the Western Gate of the City of Drow~
+  A lone drow guardsman stands here.  As you approach him, he proceeds to
+explain that the wilderness to the west has not yet been created by the
+almighty God Zoharn but will soon exist.  He goes into detail about the many
+powerful items and monsters that have been rumored to soon exist in this
+wilderness.  Obviously this guardsman isn't the brightest.  First, he isnt
+supposed to be speaking with anyone but his comrades or of the Drow race. 
+Second, he shouldnt be revealing such confidential information.  No matter,
+you think.  He seems harmless enough.  You thank the drow for his time and
+proceed back to the east.
+~
+51 0 1
+D1
+~
+~
+0 -1 5114
+D3
+~
+~
+0 -1 30171
+Z3
+C-1
+R0
+S
+#5163
+Executioners Lane~
+You are standing in nowhere !!!!
+~
+51 0 1
+D0
+~
+~
+0 -1 5158
+D2
+~
+~
+0 -1 5164
+Z3
+C-1
+R0
+S
+#5164
+Checkpoint to Slave City~
+  Two extremely massive, well-built Drow Imperial Guardsman stand at each
+side of the gate.  They seem to be someone you _do not_ want to _attack_.
+You approach the gates and ask them to let you pass, but get nothing but
+a snicker and a chuckle from one of them.  You reach for your money pouch
+and show it to one of them who starts to chuckle even louder.  Obviously,
+these men are dedicated to their King.  You notice a small slot in which
+could fit a piece of paper adjacent to the door.  You wonder what paper 
+, parchment or scroll is to be placed there.
+~
+51 0 1
+D0
+~
+~
+0 -1 5120
+D2
+~
+gate~
+2 5108 5103
+Z3
+C-1
+R0
+S
+#5165
+Path to the Drow Palace of Lloth~
+A beautifully decorated brick path extends to the north in which a
+gloomy palace awaits.  The streets seem to be somewhat empty except
+for the occasional begger or merchant who brings wares to the
+palace nobles. Although somewhat afraid of what lies ahead, you
+crack your neck, clench your fists and move onward.
+~
+51 1 1
+D0
+~
+~
+0 -1 5166
+D2
+~
+~
+0 -1 5158
+Z3
+C-1
+R0
+S
+#5166
+Checkpoint to the Drow Palace of Lloth~
+You have to a small gatehouse in which a robed figure is guarding.
+The long individual is shrouded in a lavishly decorated black robe
+which is completely covering his body.  He strides with ease and
+appears to have the movements of a master.  The small double-bladed
+twisted dagger to his side indicates a man that you probably do
+not want to mess with.  Beyond the figure lies a small slot in which
+a card is placed.
+~
+51 0 1
+D0
+~
+gate~
+2 5121 5119
+D2
+~
+~
+0 -1 5165
+Z3
+C-1
+R0
+S
+#5167
+The Battle Grounds of the Drow Warrior~
+   Grunts and moan are emitted by the warriors of this room.  You see one
+man stand out from the rest.  Clad in pitch-black armor he seems to fight
+with undeniable passion.  You start to move toward the soldier, hoping
+he will have some useful information.  While moving closer, you overhear him
+say, "Thats it! Good work! Think of them as humans, dwarves, giants, elfs
+or those puny halflings!".  You take a gulp and start to step backwards 
+when you realize it is too late, he notices you.  "Ahh! Good! Better practice!
+Men! Let me see how good I've trained you!".
+~
+51 0 1
+D0
+~
+~
+0 -1 5125
+Z3
+C-1
+R0
+S
+#5168
+The Drow Wizard and Sorcerer Training Ground~
+  Sparks of electricity fly about the room, bouncing everywhere.  A pure
+white bolt of mana is released from one apprentices hand and flies directly
+in your direction.  Frozen with fear, you manage to raise your shield in
+defense.  You wince and duck, hoping this bolt of magic will not harm you.
+Moments later you hear cackling and laughing in the distance.  A powerful
+Arch-Wizard wielding a long-white staff is standing in front of you.  He 
+helps you up and explains that the bolt was nothing more than an illusion.
+You brush yourself off and go on to tell him you saw a cloud of electrical
+currents hovering above the building.  The Mage nods and states that when
+mass amounts of mana are used in this area, it forms into a cloud, not a
+regular cloud though. More like a being, when created, it will either help
+you or hurt you.  Watch out for that lightning in various places..
+~
+51 0 1
+D2
+~
+~
+0 -1 5125
+Z3
+C-1
+R0
+S
+#5169
+The Drow Clerics Inner Sanctum~
+   A simple room with nothing but an altar at one end.  You see a group
+of well-robed individuals sitting indian-style meditating.  You creep 
+around the room, examining it in its entirety.  You notice a small holy 
+cross in the hands of one of the priests that seems to be in a deep
+trance.  You lick your mouth and smile, knowing that it has to have some
+decent value to it.  You stealthily sneak up to the robed figure and
+reach for the cross when the priest jumps up and shouts, "Ala Viern Dierce!"
+and you begin to shake and shiver.  He then speaks in a very calm voice
+the words, "You seek this?", and points to his cross.  "Let's see you 
+attempt, little man." the cleric mutters.  He motions the clerics to stand
+and begin to mutter some magical words...
+~
+51 0 1
+D0
+~
+~
+0 -1 5123
+Z3
+C-1
+R0
+S
+#5170
+The Drow Thieves Guild~
+  You see several drowish men wearing all black practicing the proper 
+backstab technique.  You admire the ease in which these thiefs slip behind
+their opponents.  The armor they were is nothing more than a light drowish
+leathery armor.  As you examine the pupils, a figure grabs you from behind
+and enfolds his arm around your neck, and positions the point of his
+dagger into your back.  You gulp and frantically attempt to explain that
+you were just observing.  The man utters in a low, calm, monotone voice
+the word, "Rasa Ia Adib" and inserts his dagger into your back..
+~
+51 0 1
+D2
+~
+~
+0 -1 5123
+Z3
+C-1
+R0
+S
+#5171
+The Protector~
+As you enter the room, the most noticeable of anything is the figure
+that stands in the center.  He stands straight and upright.  You see
+no known weaknesses, and have a fear that every step you take, no matter
+the direction, that this figure is watching you.  You cant possibly
+think of the reason for this figure and persist to move to the adjacent
+room.  As you begin to move, you feel a slight push and notice your
+legs have been swiped from beneath you and you are flat on the
+ground.  The huge figure in the center of the room seems to have
+slipped behind you and tripped you.  You demand the reason for such a
+foul deed.  The figure tells you that you must be of the Drow race
+to enter the shops, and no other.  Although, while he talks he
+seems to take a large interest in your gold pouch.  At the end of the
+conversation, the so-called body-guard, coughs very low, and you can
+make the faint sound of the word five-million leave his mouth.
+~
+51 0 1
+D0
+~
+~
+0 -1 5155
+D2
+~
+~
+0 -1 5157
+Z3
+C-1
+R0
+S
+#5172
+The Protector~
+As you enter the room, the most noticeable of anything is the figure
+that stands in the center.  He stands straight and upright.  You see
+no known weaknesses, and have a fear that every step you take, no matter
+the direction, that this figure is watching you.  You cant possibly
+think of the reason for this figure and persist to move to the adjacent
+room.  As you begin to move, you feel a slight push and notice your
+legs have been swiped from beneath you and you are flat on the
+ground.  The huge figure in the center of the room seems to have
+slipped behind you and tripped you.  You demand the reason for such a
+foul deed.  The figure tells you that you must be of the Drow race
+to enter the shops, and no other.  Although, while he talks he
+seems to take a large interest in your gold pouch.  At the end of the
+conversation, the so-called body-guard, coughs very low, and you can
+make the faint sound of the word five-million leave his mouth.
+~
+51 0 1
+D0
+~
+~
+0 -1 5156
+D2
+~
+~
+0 -1 5155
+Z3
+C-1
+R0
+S
+#5173
+The Protector~
+As you enter the room, the most noticeable of anything is the figure
+that stands in the center.  He stands straight and upright.  You see
+no known weaknesses, and have a fear that every step you take, no matter
+the direction, that this figure is watching you.  You cant possibly
+think of the reason for this figure and persist to move to the adjacent
+room.  As you begin to move, you feel a slight push and notice your
+legs have been swiped from beneath you and you are flat on the
+ground.  The huge figure in the center of the room seems to have
+slipped behind you and tripped you.  You demand the reason for such a
+foul deed.  The figure tells you that you must be of the Drow race
+to enter the shops, and no other.  Although, while he talks he
+seems to take a large interest in your gold pouch.  At the end of the
+conversation, the so-called body-guard, coughs very low, and you can
+make the faint sound of the word five-million leave his mouth.
+~
+51 0 1
+D0
+~
+~
+0 -1 5160
+D2
+~
+~
+0 -1 5159
+Z3
+C-1
+R0
+S
+#5174
+The Protector~
+As you enter the room, the most noticeable of anything is the figure
+that stands in the center.  He stands straight and upright.  You see
+no known weaknesses, and have a fear that every step you take, no matter
+the direction, that this figure is watching you.  You cant possibly
+think of the reason for this figure and persist to move to the adjacent
+room.  As you begin to move, you feel a slight push and notice your
+legs have been swiped from beneath you and you are flat on the
+ground.  The huge figure in the center of the room seems to have
+slipped behind you and tripped you.  You demand the reason for such a
+foul deed.  The figure tells you that you must be of the Drow race
+to enter the shops, and no other.  Although, while he talks he
+seems to take a large interest in your gold pouch.  At the end of the
+conversation, the so-called body-guard, coughs very low, and you can
+make the faint sound of the word five-million leave his mouth.
+~
+51 0 1
+D0
+~
+~
+0 -1 5159
+D2
+~
+~
+0 -1 5161
+Z3
+C-1
+R0
+S
+#5175
+Western Torture Street~
+You are walking along a dirty trash-ridden street that the local 
+seem to take no notice of.  As dirty as the streets are, the people
+are no where near as rude as those in the City.  Probably because
+they dont own much and have very little to defend.
+
+~
+51 1 1
+D0
+~
+~
+0 -1 5176
+D1
+~
+~
+0 -1 5113
+D2
+~
+~
+0 -1 5178
+D3
+~
+~
+0 -1 5177
+Z3
+C-1
+R0
+S
+#5176
+A Goblin House With Odd-Colored Walls~
+You are standing in a messy room that is best described as a
+laboratory.  It has various flasks and beakers scattered about with
+an array of insects and animal appendages in them.  The music of
+both Beethoven and Marilyn Manson can be heard as you take notice
+of a man in the corner of the room laughing hysterically.  He seems
+to have cornered a small hamster to the corner of the room and is
+about ready to step on it.  Eek! DIE HAMSTER KILLER! DIE!
+
+~
+51 0 1
+D2
+~
+~
+0 -1 5175
+Z3
+C-1
+R0
+S
+#5177
+A Totally Destroyed Goblin House~
+You have come to a totally destroyed and pillaged house.  It seems
+the owner of this adobe was attempting to conjure a plan in
+which to fight back against the Drow.  A Drow soldier overheard
+the coversation of such a plan, reported back to his commander,
+in which the Commander ordered a full-scale raid on the house
+and the people in it.  All that is left is a few pots and some
+very frightened citizens.
+
+~
+51 0 1
+D1
+~
+~
+0 -1 5175
+Z3
+C-1
+R0
+S
+#5178
+Western Torture Street~
+You are walking along a dirty trash-ridden street that the local 
+seem to take no notice of.  As dirty as the streets are, the people
+are no where near as rude as those in the City.  Probably because
+they dont own much and have very little to defend.
+
+~
+51 1 1
+D0
+~
+~
+0 -1 5175
+D2
+~
+~
+0 -1 5179
+Z3
+C-1
+R0
+S
+#5179
+Blackadder Lane~
+You have come to a cleaner part of the street in which the dirt
+and rubble has been pushed aside.  To the south lies a somewhat
+run down building in which several well-fed Goblins are standing
+guard.  To the west lies a house which looks old and beaten down.
+To the east the road continues to a large Central Dump site.
+
+~
+51 1 1
+D0
+~
+~
+0 -1 5178
+D1
+~
+~
+0 -1 5183
+D2
+~
+~
+0 -1 5181
+D3
+~
+~
+0 -1 5180
+Z3
+C-1
+R0
+S
+#5180
+A Goblin House With _NO FLOOR_ !'~
+Oh come on man!  Theres a fricken sign one east of this room that
+states that this room is a fricken deathtrap and I mean if all
+else fails have a nice little thief peek west.  The name of the
+room is A Goblin Room with _NO_ Floor..  Ask someone to help you
+with the timequest if you forget to equip yourself with an item
+that gives you the ability to fly.  
+
+REMEMBER : Read everything, Even those annoying little signs!
+
+~
+51 16777218 9
+D1
+~
+~
+0 -1 5179
+Z3
+C-1
+R0
+S
+#5181
+A Goblin Meeting House~
+You have come to a rather small room in which several Goblins stand
+guard.  They watch your every move and seem ready for combat at
+any moment.  To the north-eastern part of the room lies a spiral
+staircase that continues upwards.  
+
+~
+51 8 1
+D0
+~
+~
+0 -1 5179
+D4
+~
+~
+0 -1 5182
+Z3
+C-1
+R0
+S
+#5182
+Second Level Of The Goblin Meeting House~
+The room is of average size but the amazing amount of furniture
+and statues makes the room cluttered.  Standing by an oak table
+stands three men.  One of the men is extremely large and seems
+to be staring at a piece of paper on the table while the other
+two men just nod and smirk at each other.  As you walk up the 
+stairs, however, the man jump back and within a flash of an 
+instant one of them is behind you.  You are trapped! Ironically,
+the large men is still in deep concentration over the piece of
+paper on the table.
+
+~
+51 8 1
+D5
+~
+~
+0 -1 5181
+Z3
+C-1
+R0
+S
+#5183
+Blackadder Lane~
+You have come to cleaner part of the city in which the dirt
+and rubble has been pushed aside.  To the south lies a small adobe
+from which you hear a crying child.  To the west the street 
+continues while to the east lies a Dump.
+
+~
+51 1 1
+D1
+~
+~
+0 -1 5186
+D2
+~
+~
+0 -1 5184
+D3
+~
+~
+0 -1 5179
+Z3
+C-1
+R0
+S
+#5184
+An Empty Goblin House~
+It's a room with 3 walls... happy? :)
+
+~
+51 0 1
+D0
+~
+~
+0 -1 5183
+D5
+~
+trapdoor~
+2 5116 5185
+Z3
+C-1
+R0
+S
+#5185
+The Hidden Cellar~
+A dusty old cellar with cobwebs and insects.  It appears to be
+an old cellar that was once used to hide themselves from the
+Drow during invasions.
+
+~
+51 0 1
+D4
+~
+trapdoor~
+1 -1 5184
+Z3
+C-1
+R0
+S
+#5186
+Blackadder Lane~
+You have come to a cleaner part of the street in which the dirt
+and rubble has been pushed aside.  To the south lies a somewhat
+run down building in which several well-fed Goblins are standing
+guard.  To the west lies a house which looks old and beaten down.
+To the east the road continues to a large Central Dump site.
+
+~
+51 1 1
+D1
+~
+~
+0 -1 5117
+D2
+~
+~
+0 -1 5187
+D3
+~
+~
+0 -1 5183
+Z3
+C-1
+R0
+S
+#5187
+A Museum~
+A completely empy room with nothing but a single painting at
+the far end of the room.  The room is amazingly clean and shows
+no sign of wear or tear.  The walls are all white and it seems they
+have been recently painted.. by who? Good question..
+
+~
+51 0 1
+D0
+~
+~
+0 -1 5186
+Z3
+C-1
+R0
+S
+#5188
+A Dark Alley~
+You have arrived in a small alleyway that is completely pitch-black.
+You hear faint noises in the distance and a small light can
+be seen further down the alley.
+
+~
+51 0 1
+D1
+~
+~
+0 -1 5190
+D3
+~
+~
+0 -1 5189
+Z3
+C-1
+R0
+S
+#5189
+A Dark Alley~
+You have arrived in a small alleyway that is completely pitch-black.
+You hear faint noises in the distance and a small light can
+be seen further down the alley.
+
+~
+51 0 1
+D1
+~
+~
+0 -1 5188
+D3
+~
+door~
+1 -1 5117
+Z3
+C-1
+R0
+S
+#5190
+The Entrance to the Goblin Kings House~
+You stand before a house that seems to be hidden amongst a huge
+pile of trash.   There must be something or someone of importance
+in that pile of trash or else there wouldn't be these huge burly
+guards here to defend it.  Soon after you near the house a large
+pile of trash falls behind you blocking your way back.  You
+realize that your only choice is to either kindly ask these guys
+to let you pass or fight them.  Well, since you cant talk to them
+to convince them because I dont feel like waiting twenty years for
+a comm to input a specproc your just going to have to fight 
+them. :)
+
+~
+51 0 1
+D1
+~
+~
+0 -1 5191
+Z3
+C-1
+R0
+S
+#5191
+Outside the Goblin Kings Bedroom~
+You have defeated the four guards in the previous room and strut
+your way into this room only to notice another guard.  This guard
+is, however, different.  He sees you walk into the room and does
+nothing more than give a smirk and chuckle.  As you draw your 
+weapon the soldier does nothing but laugh harder.  After several
+minutes of watching him continue to belittle you he unsheathes his
+long black sword, cracks his neck, and exclaims, "Now, Let's Dance!"
+The soldier charges at you...
+
+~
+51 0 1
+D1
+~
+~
+0 -1 5192
+D3
+~
+~
+0 -1 5190
+Z3
+C-1
+R0
+S
+#5192
+The Goblin King's Bedroom~
+You have finally made it to the Kings Bedroom.  He is sitting here
+on his bed staring at the floor and shaking his head.  Upon your
+entrance he jumps out and screams, "Ack! Guards! HELP!".  You 
+give a loud cackle and ready yourself to have the poor King
+meet his maker.  In a flash of a second the King is on the opposite
+side of the room in which he presses a dark blue button.  The
+door behind you fades away while the walls to the left and right
+of you become transparent.  You shrug helplessly and charge the
+King.
+
+~
+51 16532 1
+D0
+~
+~
+0 -1 5158
+D2
+~
+~
+0 -1 5158
+Z3
+C-1
+R0
+S
+#5193
+The Bad Part Of Gravity~
+As you can now see this room is a complete mirage.  The DT was 
+nothing more than a mob.  I wouldn't suggest telling anyone about
+this little mirage, though.  All in all this room gives the image
+that you are standing in between two cliffs which is actually
+quite frightening.  
+
+~
+51 132 1
+D0
+~
+~
+0 -1 5118
+D2
+~
+~
+0 -1 5194
+D5
+~
+hidden~
+8 -1 30211
+Z3
+C-1
+R0
+S
+#5194
+Other Side Of The Cliff~
+You have reached the other side of the cliff.  It has beautiful
+scenery that expands all the way up to the top.  Red roses and 
+an assortment of trees and bushes pop up all around.  While
+taking in the amazingly beautiful scenery you notice a small 
+lizard zip by your feet.  You shake your head in disbelief..
+Then.. All at once, another lizard-shaped figure nears you,
+except this time even closer.  The lizard-like beings slowly
+near you and circle you as if circling a prey.  You shake and 
+shudder, hoping they arent hostile.  One of the snaps at your
+ankle but you miraculously leap away and unsheathe your weapon.
+
+~
+51 64 4
+D0
+~
+~
+0 -1 5193
+D4
+~
+~
+0 -1 5196
+Z3
+C-1
+R0
+S
+#5195
+This is nowhere.~
+~
+51 1 0
+Z3
+C-1
+R0
+S
+#5196
+Climbing the Mountain~
+As you climb this mountain you realize the heat is really starting
+to get to you. Sweat seems to be drenching your body and making
+visibility hard.  You notice a massive figure that must be at least
+fourteen or fifteen feet tall standing before you wielding a huge
+spiked club.  He seems to take no notice of you yet but once he
+does, I would ran away as fast as possible.  
+
+~
+51 64 4
+D4
+~
+~
+0 -1 5197
+D5
+~
+~
+0 -1 5194
+Z3
+C-1
+R0
+S
+#5197
+Entrance to the Dragons Lair~
+You have come before a large cave that stinks of burning flesh.
+A growl can be heard from within and your attempts to peek inside
+reveal nothing but a few decomposing corpses.  A warm wind is 
+slowly blowing out from within the cave making you as fearful
+as ever.  You gather your wits and courage and prepare to enter
+the dangerous cave.
+
+~
+51 64 4
+D2
+~
+~
+0 -1 5198
+D5
+~
+~
+0 -1 5196
+Z3
+C-1
+R0
+S
+#5198
+Entrance to the Dragons Lair~
+As you enter the cave the amount of decayed corpses and distorted
+bodies increases more and more.   You gasp and shake your head in
+despair, deeply pondering as to who or what could have done such
+a massacre.  The lifeless bodies were seem to have burned alive 
+and had no chance of survival.  Searching of the vicinity shows
+that there is a small feather in one of the corpses that looks
+fairly unique from any other kind.  You push your fears aside and
+press onward.
+
+~
+51 64 4
+D0
+~
+~
+0 -1 5197
+D2
+~
+~
+0 -1 5199
+Z3
+C-1
+R0
+S
+#5199
+A Pool of Radiance~
+You have arrived in the lair of the King of the Dragons.  The
+lair has a huge pool of translucent water in the center.  It seems
+the King is asleep right now and has been for quite a while.  
+According to ancient stories the Kings wife was killed by a 
+warring raid of Orcs.  Since the occurence the King has been 
+asleep in his cave.  The estimated size of this beast must be 
+at least fourty feet tall and at least 30 feet long.  You definetly
+do not want to wake up this monster without preparing for the
+consequences.
+
+~
+51 129 6
+D0
+~
+~
+0 -1 5198
+Z3
+C-1
+R0
+S
+$~

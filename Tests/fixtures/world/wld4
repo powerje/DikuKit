@@ -1,0 +1,2212 @@
+#400
+{BO,R} Broca Beach {bo,r}~
+
+   The Hovercraft brings you up to shore a few miles northeast of the town and
+   turns to return home.  Day gives way to night in the sky above as you wade up
+   to the sandy beach.  You see the sand stretching north and south for miles 
+   while the orange and burgundy rays flashing from the setting sun bounce off 
+   the waters creating a deep blood red shimmer that ripples through the waves.
+   It's a breathtakingly tranquil sight as you stop to gaze at the water and 
+   sky.  With a shrug you shoulder your pack, check your weapons and gear and
+   begin to cover the tracks you've made.  To the south the beach stretches on
+   for as far as the eye can see, while to the east lies your path to the town 
+   of Broca.  Here is where you decide, a stroll on the beach or will you begin
+   the eastward march towards your goal?
+
+~
+4 21020804 7
+D1
+~
+~
+0 -1 401
+D2
+~
+~
+0 -1 449
+E
+sign~
+~
+X10
+Z3
+C-1
+S
+#401
+{Y}Path to town{y}~
+
+   After a mile or two of steady marching your path veers off towards a
+   more southeastern direction taking you to the brink of the small forest
+   looming up ahead.  The forest is the last barrier between you and the town.
+   As you creep your way through you notice an eerie silence, the very air 
+   seems deathly calm and all around you hear not a buzz of insect or rustle
+   of leaf.  You move on and finally come to the far edge of trees where, at
+   first glance down into the town below you see no activity, it looks almost
+   as if it has been deserted.  As you make your way closer to the town you
+   begin to notice signs of life and see movement on the streets and windows 
+   below.
+
+~
+4 20988036 2
+D1
+~
+~
+0 -1 402
+D3
+~
+~
+0 -1 400
+Z3
+C-1
+S
+#402
+Arbco road~
+
+   You stand on the beginnings of Arbco Road, the main street in Broca Beach
+   which leads straight through the small town.  To the north lies the eerie 
+   woods surrounding the town while the road south leads to the town itself.
+   Now that you have reached the outskirts of town you notice quite a bit of 
+   activity.  People are lining the streets, slowly shambling from one place 
+   to another in some trance-like state, apparently oblivious to the world 
+   around them.
+
+~
+4 20988032 1
+D2
+~
+~
+0 -1 403
+D3
+~
+~
+0 -1 401
+Z3
+C-1
+S
+#403
+Arbco road~
+not done yet!
+~
+4 20988032 1
+D0
+~
+~
+0 -1 402
+D1
+~
+~
+0 -1 408
+D2
+~
+~
+0 -1 404
+Z3
+C-1
+S
+#404
+Arbco road~
+not done yet
+~
+4 20988032 1
+D0
+~
+~
+0 -1 403
+D1
+~
+~
+0 -1 410
+Z3
+C-1
+S
+#405
+{W}Inside {R}Arbco {M}Theatre{w}~
+~
+4 20988040 0
+D2
+~
+~
+0 -1 406
+Z3
+C-1
+S
+#406
+{W}Snack Bar{w}~
+
+not done yet!
+~
+4 20988040 0
+D0
+~
+~
+0 -1 405
+D1
+A thin sheet of plywood with a cheap rusty handle separates you from the Ticket Booth
+~
+Door~
+1 -1 407
+D2
+A dusty, dirty looking door stands here, barely attached to its hinges.  A big blue sign tells you that this is the entrance to the rather musty smelling bathroom.
+~
+Bathroom~
+1 -1 420
+D3
+~
+~
+0 -1 412
+Z3
+C-1
+S
+#407
+{W}Ticket Booth{w}~
+
+You move closer to the building and discover it is a HUGE factory.  So this
+is the Arbco factory that this town is apparently known for.  Well it 
+certainly looks gloomy, and.....scary?  You peer even closer and realize 
+that the factory is closed with a set of giant doubledoors with a chain 
+lock thicker than your waist.  This may be a dangerous place but thats 
+where the party is.  You don't wanna miss the party do ya??
+
+~
+4 20988040 0
+D3
+~
+Door~
+1 -1 406
+Z3
+C-1
+S
+#408
+Inside the General store~
+not done yet!
+
+~
+4 20988040 0
+D3
+~
+~
+0 -1 403
+Z3
+C-1
+S
+#409
+{BLU}The Rooftop Escape{blu}~
+
+   Up from the smoky gloom you climb, to reach the relative safety of the
+   rooftops above the maze of alleys.  A large skylight can be seen to the
+   south, emitting a dim glow.  With a glance back down into the alleys, you
+   turn and make your way to the skylight, glad to be rid of the misty shroud
+   that harboured the deadly lurking Ninja.
+    
+
+~
+4 20988032 1
+D2
+~
+~
+0 -1 411
+Z3
+C-1
+S
+#410
+Merc street~
+
+With your decision made, you head off into the gloomy shadows of Merc 
+street.  Once on the road you question yourself, thinking this may not have
+been such a bright idea.  Too late for regrets now.  You near the end of 
+the street without once seeing the slightest signs of life other than the 
+rats and spiders scurrying about.  The street ends abruptly and you stand
+before a narrow alley leading into darkness.
+
+~
+4 20988036 1
+D1
+~
+~
+0 -1 417
+D3
+~
+~
+0 -1 404
+Z3
+C-1
+S
+#411
+{BLU}Through the Skylight{blu}~
+
+   Looking down through the skylight you notice people milling about and
+   standing in lines.  The place appears to be a movie theater, complete
+   with snack bar and ticket booths.  There doesn't appear to be any {BO,BLU}C{BO,R}o{BO,BLU}b{BO,R}r{BO,BLU}a{bo,blu} 
+   agents around to further hinder your recon patrol, however the only 
+   visible access to the theater is the skylight, or down the ladder and
+   back through the maze of alleys.  A latch on the inside of the window 
+   would release the lock and allow you entrance to the theater, if you 
+   could get something in there to push it aside.
+
+~
+4 22036608 1
+D5
+~
+~
+0 -1 405
+Z3
+C-1
+S
+#412
+{B}Ai{BLU}sle Sea{B}ts{b}~
+
+How exciting!! You find a good seat and settle in.  This is gonna be great.
+You notice the ticket attendent coming around to check tickets so you pull
+yours out of your pocket and get ready for him.  He steps up to you and
+grins "May i see your ticket?"
+
+~
+4 20988040 0
+D1
+~
+~
+0 -1 406
+D2
+~
+~
+0 -1 413
+Z3
+C-1
+S
+#413
+{B}Ai{BLU}sle Sea{B}ts{b}~
+
+You step up to the front desk and notice the dust piled high everywhere.
+There is no one here to give you a lane or shoes, and it appears there 
+hasn't been for quite a while.  Looks like bowling wasn't too popular 
+around here.   To the south there are Video games and pool tables and more 
+lanes.  What a shame, a round of bowling would have been nice. Oh well, 
+guess you'll have to find something else to do!
+
+~
+4 20988040 0
+D0
+~
+~
+0 -1 412
+D2
+~
+~
+0 -1 414
+Z3
+C-1
+S
+#414
+{B}A Rip in the Screen{b}~
+
+
+Here its is the same as everywhere, dust piled high on all the games,
+tables and lanes.  You wonder why they don't just tear it down and make
+something useful out of the space!  As you wander around, looking at the
+surroundings in puzzlement, you notice footprints leading down lane 12.
+This is the only sign of life in this entire building and it looks pretty
+recent.
+
+~
+4 20988040 0
+D0
+~
+~
+0 -1 413
+D3
+You notice a small rip in the screen that could be persuaded to open up with just a little coaxing.  Perhaps a few quick swipes will show you exactly what it is that hides behind the theater screens.
+~
+Screen~
+1 -1 421
+Z3
+C-1
+S
+#415
+{B}L{BLU}a{B}b{BLU}y{B}r{BLU}i{B}n{BLU}t{B}h{BLU} o{B}f{BLU} A{B}l{BLU}l{B}e{BLU}y{B}s{b}~
+
+   You step off the main street and into the dreary alleys.  Tendrils of
+   smokey, gray fog swirl about, wrapping your legs and body, taking on a 
+   wraith-like form only to be blown away and reformed elsewhere.  Only 
+   moments after venturing into the dark system of alleys you find yourself
+   utterly lost.  Strange noises seem to generate out of thin air, coming at 
+   you from all directions.  All about you a presence can be sensed, yet there
+   is nothing and no one in sight!
+
+~
+4 20989344 1
+D0
+~
+~
+0 -1 417
+D1
+~
+~
+0 -1 424
+D2
+~
+~
+0 -1 419
+D3
+~
+~
+0 -1 425
+T409
+X6291456
+Z3
+C-1
+S
+#416
+{B}L{BLU}a{B}b{BLU}y{B}r{BLU}i{B}n{BLU}t{B}h{BLU} o{B}f{BLU} A{B}l{BLU}l{B}e{BLU}y{B}s{b}~
+
+   You step off the main street and into the dreary alleys.  Tendrils of
+   smokey, gray fog swirl about, wrapping your legs and body, taking on a 
+   wraith-like form only to be blown away and reformed elsewhere.  Only 
+   moments after venturing into the dark system of alleys you find yourself
+   utterly lost.  Strange noises seem to generate out of thin air, coming at 
+   you from all directions.  All about you a presence can be sensed, yet there
+   is nothing and no one in sight!
+
+~
+4 20989344 1
+D0
+~
+~
+0 -1 417
+D1
+~
+~
+0 -1 423
+D2
+~
+~
+0 -1 415
+D3
+~
+~
+0 -1 422
+T409
+X6291456
+Z3
+C-1
+S
+#417
+{B}L{BLU}a{B}b{BLU}y{B}r{BLU}i{B}n{BLU}t{B}h{BLU} o{B}f{BLU} A{B}l{BLU}l{B}e{BLU}y{B}s{b}~
+
+   You step off the main street and into the dreary alleys.  Tendrils of
+   smokey, gray fog swirl about, wrapping your legs and body, taking on a 
+   wraith-like form only to be blown away and reformed elsewhere.  Only 
+   moments after venturing into the dark system of alleys you find yourself
+   utterly lost.  Strange noises seem to generate out of thin air, coming at 
+   you from all directions.  All about you a presence can be sensed, yet there
+   is nothing and no one in sight!
+
+~
+4 20989344 1
+D0
+~
+~
+0 -1 415
+D1
+~
+~
+0 -1 419
+D2
+~
+~
+0 -1 415
+D3
+~
+~
+0 -1 410
+T409
+X6291456
+Z3
+C-1
+S
+#418
+{B}L{BLU}a{B}b{BLU}y{B}r{BLU}i{B}n{BLU}t{B}h{BLU} o{B}f{BLU} A{B}l{BLU}l{B}e{BLU}y{B}s{b}~
+
+   You step off the main street and into the dreary alleys.  Tendrils of
+   smokey, gray fog swirl about, wrapping your legs and body, taking on a 
+   wraith-like form only to be blown away and reformed elsewhere.  Only 
+   moments after venturing into the dark system of alleys you find yourself
+   utterly lost.  Strange noises seem to generate out of thin air, coming at 
+   you from all directions.  All about you a presence can be sensed, yet there
+   is nothing and no one in sight!
+
+~
+4 20989344 1
+D0
+~
+~
+0 -1 426
+D1
+~
+~
+0 -1 416
+D2
+~
+~
+0 -1 424
+D3
+~
+~
+0 -1 425
+T409
+X6291456
+Z3
+C-1
+S
+#419
+{B}L{BLU}a{B}b{BLU}y{B}r{BLU}i{B}n{BLU}t{B}h{BLU} o{B}f{BLU} A{B}l{BLU}l{B}e{BLU}y{B}s{b}~
+
+   You step off the main street and into the dreary alleys.  Tendrils of
+   smokey, gray fog swirl about, wrapping your legs and body, taking on a 
+   wraith-like form only to be blown away and reformed elsewhere.  Only 
+   moments after venturing into the dark system of alleys you find yourself
+   utterly lost.  Strange noises seem to generate out of thin air, coming at 
+   you from all directions.  All about you a presence can be sensed, yet there
+   is nothing and no one in sight!
+
+~
+4 20989344 1
+D0
+~
+~
+0 -1 424
+D1
+~
+~
+0 -1 419
+D2
+~
+~
+0 -1 417
+D3
+~
+~
+0 -1 422
+T409
+X6291456
+Z3
+C-1
+S
+#420
+{B}Musty Washroom{b}~
+You are standing right in the middle of the last lane in the now shut-down Arbco Bowling Alley.  The secret doorway to the alley lies behind you.  Inside the bowling alley you see signs of current use and hear noises coming from behind the pins, to the east of you.  To the west is the front doors, now locked and barred, and the front desk.  It appears empty, but there is no harm in checking, just to be on the safe side.
+~
+4 20988040 0
+D0
+~
+Bathroom~
+1 -1 406
+T409
+X6291456
+Z3
+C-1
+S
+#421
+{B}Behind the Screen{b}~
+You walk down lane 12 and notice that there are more than one set of prints.  As you make it the end of the alley you duck under the wall and past the pins.  Here the prints end, right into the wall.  You realize there must be a door around here somewhere and start searching.  Well it shouldn't be to hard to find a door when everytnig is covered in dust except the floor where the prints lead east!
+~
+4 20988040 0
+D3
+~
+~
+0 -1 427
+E
+button~
+~
+T409
+X6291456
+Z3
+C-1
+S
+#422
+{B}L{BLU}a{B}b{BLU}y{B}r{BLU}i{B}n{BLU}t{B}h{BLU} o{B}f{BLU} A{B}l{BLU}l{B}e{BLU}y{B}s{b}~
+
+   You step off the main street and into the dreary alleys.  Tendrils of
+   smokey, gray fog swirl about, wrapping your legs and body, taking on a 
+   wraith-like form only to be blown away and reformed elsewhere.  Only 
+   moments after venturing into the dark system of alleys you find yourself
+   utterly lost.  Strange noises seem to generate out of thin air, coming at 
+   you from all directions.  All about you a presence can be sensed, yet there
+   is nothing and no one in sight!
+
+~
+4 20989344 1
+D0
+~
+~
+0 -1 416
+D1
+~
+~
+0 -1 415
+D2
+~
+~
+0 -1 415
+D3
+~
+~
+0 -1 424
+T409
+X6291456
+Z3
+C-1
+S
+#423
+{B}L{BLU}a{B}b{BLU}y{B}r{BLU}i{B}n{BLU}t{B}h{BLU} o{B}f{BLU} A{B}l{BLU}l{B}e{BLU}y{B}s{b}~
+
+   You step off the main street and into the dreary alleys.  Tendrils of
+   smokey, gray fog swirl about, wrapping your legs and body, taking on a 
+   wraith-like form only to be blown away and reformed elsewhere.  Only 
+   moments after venturing into the dark system of alleys you find yourself
+   utterly lost.  Strange noises seem to generate out of thin air, coming at 
+   you from all directions.  All about you a presence can be sensed, yet there
+   is nothing and no one in sight!
+
+~
+4 20989344 1
+D0
+~
+~
+0 -1 419
+D1
+~
+~
+0 -1 425
+D2
+~
+~
+0 -1 418
+D3
+~
+~
+0 -1 416
+T409
+X6291456
+Z3
+C-1
+S
+#424
+{B}L{BLU}a{B}b{BLU}y{B}r{BLU}i{B}n{BLU}t{B}h{BLU} o{B}f{BLU} A{B}l{BLU}l{B}e{BLU}y{B}s{b}~
+
+   You step off the main street and into the dreary alleys.  Tendrils of
+   smokey, gray fog swirl about, wrapping your legs and body, taking on a 
+   wraith-like form only to be blown away and reformed elsewhere.  Only 
+   moments after venturing into the dark system of alleys you find yourself
+   utterly lost.  Strange noises seem to generate out of thin air, coming at 
+   you from all directions.  All about you a presence can be sensed, yet there
+   is nothing and no one in sight!
+
+~
+4 20989344 1
+D0
+~
+~
+0 -1 417
+D1
+~
+~
+0 -1 419
+D2
+~
+~
+0 -1 417
+D3
+~
+~
+0 -1 415
+T409
+X6291456
+Z3
+C-1
+S
+#425
+{B}L{BLU}a{B}b{BLU}y{B}r{BLU}i{B}n{BLU}t{B}h{BLU} o{B}f{BLU} A{B}l{BLU}l{B}e{BLU}y{B}s{b}~
+
+   You step off the main street and into the dreary alleys.  Tendrils of
+   smokey, gray fog swirl about, wrapping your legs and body, taking on a 
+   wraith-like form only to be blown away and reformed elsewhere.  Only 
+   moments after venturing into the dark system of alleys you find yourself
+   utterly lost.  Strange noises seem to generate out of thin air, coming at 
+   you from all directions.  All about you a presence can be sensed, yet there
+   is nothing and no one in sight!
+
+~
+4 20989344 1
+D0
+~
+~
+0 -1 419
+D1
+~
+~
+0 -1 422
+D2
+~
+~
+0 -1 417
+D3
+~
+~
+0 -1 415
+T409
+X6291456
+Z3
+C-1
+S
+#426
+{B}L{BLU}a{B}b{BLU}y{B}r{BLU}i{B}n{BLU}t{B}h{BLU} o{B}f{BLU} A{B}l{BLU}l{B}e{BLU}y{B}s{b}~
+
+   You step off the main street and into the dreary alleys.  Tendrils of
+   smokey, gray fog swirl about, wrapping your legs and body, taking on a 
+   wraith-like form only to be blown away and reformed elsewhere.  Only 
+   moments after venturing into the dark system of alleys you find yourself
+   utterly lost.  Strange noises seem to generate out of thin air, coming at 
+   you from all directions.  All about you a presence can be sensed, yet there
+   is nothing and no one in sight!
+
+~
+4 20989344 1
+D0
+~
+~
+0 -1 417
+D1
+~
+~
+0 -1 417
+D2
+~
+~
+0 -1 417
+D3
+~
+~
+0 -1 417
+D4
+~
+ladder~
+1 -1 409
+T409
+X6291456
+Z3
+C-1
+S
+#427
+{BO,W}Blinding Flash of Light!{bo,w}~
+You are standing in nowhere !!!!
+~
+4 20988040 0
+D0
+~
+~
+0 -1 428
+Z3
+C-1
+S
+#428
+{BLU}A {BO,R}S{BLU}e{BO,R}c{BLU}r{BO,R}e{BLU}t{BO,R} L{BLU}a{BO,R}b{blu}~
+
+   Your eyes slowly refocus and adjust to a normal degree of light and you notice 
+   you are in a labratory of some sort.  Files and vials cover the counters 
+   and floors, while computers line the entire room.  This room is full of 
+   hi-tech hardware and hi-tech guards.  Swarming with Techno Vipers who 
+   appear to be rather heavily guarding a door on the far side of the room, 
+   it all seems very out-of-place in a small town like Broca Beach.  What  
+   kind of technology is {BO,BLU}C{BO,R}o{BO,BLU}b{BO,R}r{BO,BLU}a{bo,blu} researching?  
+
+~
+4 20988040 0
+D0
+~
+~
+0 -1 429
+D3
+~
+~
+0 -1 431
+Z3
+C-1
+S
+#429
+{BLU}A {BO,R}S{BLU}e{BO,R}c{BLU}r{BO,R}e{BLU}t{BO,R} L{BLU}a{BO,R}b{blu}~
+
+   You make your way towards the guarded door, fighting Techno Vipers every 
+   inch of the way.  Whatever research is in this lab, it must be pretty
+   important if {BO,BLU}C{BO,R}o{BO,BLU}b{BO,R}r{BO,BLU}a{bo,r} is willing to stock so many guards to protect it.
+   You try grabbing some files but the constant barrage of attacks keeps
+   you off balance and forces your attention on the fighting at hand.
+   Research can hold off until the last Viper is dealt with. 
+
+~
+4 20988040 0
+D2
+~
+~
+0 -1 428
+D3
+~
+~
+0 -1 430
+Z3
+C-1
+S
+#430
+{BLU}A {BO,R}S{BLU}e{BO,R}c{BLU}r{BO,R}e{BLU}t{BO,R} L{BLU}a{BO,R}b{blu}~
+
+   A large metal door stands locked before you, preventing your entrance to, 
+   most likely the reason for or result of all this research.  The door is
+   covered completely from top to bottom with circuits, wiring and 
+   electronics.  A slot for an electronic keycard seems to be the unlocking
+   mechanism.  Once you find the card and finish off the Vipers you'll be able
+   to discover exactly what it is {BO,BLU}C{BO,R}o{BO,BLU}b{BO,R}r{BO,BLU}a{bo,r} is doing in this town.  In the meantime
+   you'll need to eliminate the Vipers and gather as much info as you can to report
+   back to {BO,G}G.I. Joe{bo,g} Headquarters.
+
+~
+4 20988040 0
+D1
+~
+~
+0 -1 429
+D2
+~
+~
+0 -1 431
+D3
+A great metallic door stands before you, with flashing lights and electronics riddling the surface.  Through the thick glass window is a chamber wherein lies a solitary seat.  You notice a slot where a card can be inserted to unlock the heavy door.
+~
+Chamber~
+1 -1 432
+Z3
+C-1
+S
+#431
+{BLU}A {BO,R}S{BLU}e{BO,R}c{BLU}r{BO,R}e{BLU}t{BO,R} L{BLU}a{BO,R}b{blu}~
+
+   Glancing around the room you pick up bits of information on the research lab,
+   notes mentioning development of some device known as the "Brain Wave 
+   Scanner" seem to mark numerous pages.  It appears that {BO,BLU}C{BO,R}o{BO,BLU}b{BO,R}r{BO,BLU}a{bo,blu} also has a file
+   on every Broca citizen marked with test results and scores.  Whatever
+   research they are doing here it appears they are using the citizens of 
+   Broca Beach as the guinea pigs.  You quickly snap back to attention as 
+   another charge of Techno Vipers fly your way.
+
+~
+4 20988040 0
+D0
+~
+~
+0 -1 430
+D1
+~
+~
+0 -1 428
+Z3
+C-1
+S
+#432
+{W}Take a Seat!{w}~
+~
+4 20988040 0
+D1
+~
+Chamber~
+1 -1 430
+Z3
+C-1
+S
+#433
+{BLI,BO,R}T{BLI,BO,G}h{BLI,BO,BLU}e {BLI,BO,MA}C{BLI,BO,Y}a{BLI,BO,C}r{BLI,BO,R}n{BLI,BO,G}i{BLI,BO,BLU}v{BLI,BO,MA}a{BLI,BO,Y}l{bli,bo,y}~
+
+   The sights and sounds surround you in flash, crashing in on you like a wave 
+   beating itself in on the shore.  Grinning faces flit by in a blinding, nearly
+   unrecognizable blur while the din of laughter, the buzzing and beeping of
+   games, the roar of rides and the blaring music assault your ears.  You hear
+   the game attendants howling for your attention while the overpowering smells
+   of hot dogs and candy floss waft by in nauseating bursts.  Shoulders smash 
+   into you as one after another the expressionless zombies blow by as if you 
+   don't even exist.  You're vision starts to spin as the Carnival sweeps you 
+   into its vortex and utterly consumes you.  All sense of direction is lost 
+   as your mind numbs to the brutal attack on your senses leaving you in utter
+   despair, craving a way out that doesn't seem to be there.   
+
+~
+4 20989312 1
+D0
+~
+~
+0 -1 433
+D1
+~
+~
+0 -1 433
+D2
+~
+~
+0 -1 433
+D3
+~
+~
+0 -1 442
+T434
+Z3
+C-1
+S
+#434
+The {BO,Y}Trap{bo,y} is sprung!~
+So you have finally made it to the center of the maddness and the source of the smell.  Why do you look so disappointed?? Is it because you realize it is a trap and that vat of goop in front of you is the concoction that brought you here and not the smell of candy??  Or perhaps you are disappointed to see both Zarana and her dim-witted protector beside her?  Well it doesn't matter much why you are upset, all that matters is that the big brute Roadpig doesn't make you 'roadkill'!!
+~
+4 20988032 1
+D2
+~
+~
+0 -1 446
+Z3
+C-1
+S
+#435
+{BLI,BO,R}T{BLI,BO,G}h{BLI,BO,BLU}e {BLI,BO,MA}C{BLI,BO,Y}a{BLI,BO,C}r{BLI,BO,R}n{BLI,BO,G}i{BLI,BO,BLU}v{BLI,BO,MA}a{BLI,BO,Y}l{bli,bo,y}~
+
+   The sights and sounds surround you in flash, crashing in on you like a wave 
+   beating itself in on the shore.  Grinning faces flit by in a blinding, nearly
+   unrecognizable blur while the din of laughter, the buzzing and beeping of
+   games, the roar of rides and the blaring music assault your ears.  You hear
+   the game attendants howling for your attention while the overpowering smells
+   of hot dogs and candy floss waft by in nauseating bursts.  Shoulders smash 
+   into you as one after another the expressionless zombies blow by as if you 
+   don't even exist.  You're vision starts to spin as the Carnival sweeps you 
+   into its vortex and utterly consumes you.  All sense of direction is lost 
+   as your mind numbs to the brutal attack on your senses leaving you in utter
+   despair, craving a way out that doesn't seem to be there.   
+
+~
+4 20989312 1
+D0
+~
+~
+0 -1 436
+D1
+~
+~
+0 -1 433
+D2
+~
+~
+0 -1 433
+D3
+~
+~
+0 -1 433
+T434
+Z3
+C-1
+S
+#436
+{BO,BLI,R}T{BO,BLI,G}h{BO,BLI,BLU}e {BO,BLI,M}C{BO,BLI,Y}a{BO,BLI,C}r{BO,BLI,R}n{BO,BLI,G}i{BO,BLI,BLU}v{BO,BLI,M}a{BO,BLI,Y}l{bo,bli,r}~
+
+   The sights and sounds surround you in flash, crashing in on you like a wave 
+   beating itself in on the shore.  Grinning faces flit by in a blinding, nearly
+   unrecognizable blur while the din of laughter, the buzzing and beeping of
+   games, the roar of rides and the blaring music assault your ears.  You hear
+   the game attendants howling for your attention while the overpowering smells
+   of hot dogs and candy floss waft by in nauseating bursts.  Shoulders smash 
+   into you as one after another the expressionless zombies blow by as if you 
+   don't even exist.  You're vision starts to spin as the Carnival sweeps you 
+   into its vortex and utterly consumes you.  All sense of direction is lost 
+   as your mind numbs to the brutal attack on your senses leaving you in utter
+   despair, craving a way out that doesn't seem to be there.   
+
+~
+4 20989312 1
+D0
+~
+~
+0 -1 433
+D1
+~
+~
+0 -1 433
+D2
+~
+~
+0 -1 433
+D3
+~
+~
+0 -1 434
+T434
+Z3
+C-1
+S
+#437
+{C}Haven {M}of {C}Peace{c}~
+
+   Inside, the cottage is sparsely furnished with only a table, a few chairs
+   and a long soft couch which sits in front of the fireplace.  A bearskin 
+   rug lies cozily before the soft fire.  As soon as you enter this room you
+   are filled with an aura of peace, and the warmth seems to penetrate deep
+   inside your very bones.  You feel revitalized almost instantly, and know
+   that this place offers complete protection for you and your party.  
+
+~
+4 16785416 0
+D3
+~
+~
+0 -1 441
+Z3
+C-1
+S
+#438
+{B}Th{BO,BLU}ro{B}ug{BO,BLU}h T{B}he{BO,BLU} Se{B}we{BO,BLU}r S{B}y{BO,BLU}st{B}em{BO,BLU}s!{b}~
+You are standing in nowhere !!!!
+~
+4 21020840 0
+D1
+~
+~
+0 -1 439
+D3
+~
+Grate~
+1 -1 453
+Z3
+C1
+S
+#439
+{B}Th{BO,BLU}ro{B}ug{BO,BLU}h T{B}he{BO,BLU} Se{B}we{BO,BLU}r S{B}y{BO,BLU}st{B}em{BO,BLU}s!{b}~
+
+=== MAIN MENU =======================================
+
+New players: please type 'ncc' or 'help' after entering the game.
+             and be sure to visit the MUD school.
+
+These are the current game's settings:
+--------------------------------------
+ Type 'home' to recall
+ Let's play tag!
+
+0) Exit the server
+1) Enter the crossroads
+2) Change/Create your player's description
+3) Change your password (recommended every 2 months)
+4) Delete a player
+
+What'cha want, buddd-dy?:
+
+~
+4 21020840 0
+D1
+~
+~
+0 -1 440
+D3
+~
+~
+0 -1 438
+Z3
+C1
+S
+#440
+{B}Th{BO,BLU}ro{B}ug{BO,BLU}h T{B}he{BO,BLU} Se{B}we{BO,BLU}r S{B}y{BO,BLU}st{B}em{BO,BLU}s!{b}~
+
+As you step through the broken remains of the door into the gloom of the
+house you look about at your surroundings.  You can't seem to see anything
+more than a few feet in front of you even with the sunlight streaming
+through the broken door.  An archway is barely recognizable through the
+impenetrable darkness leading north deeper into the gaping jaws of night.
+Dare you venture on?
+
+~
+4 21020840 0
+D3
+~
+~
+0 -1 439
+D4
+Above you a bit of light penetrates through the small holes and gaps in the manhole reaching up to the streets above.
+~
+Manhole~
+1 -1 433
+X6291456
+Z3
+C1
+S
+#441
+{BO,Y}The Patio{bo,y}~
+
+   The patio offers an enchanting view of the sea and the surrounding beach.
+   With the warm glow of candlelight seeping out of the open door and windows
+   of the cottage behind, it offers a warm peaceful ambience to the charming 
+   nightime sights and sounds.  Below your feet a ladder offers access back 
+   down to the soft cushion of sand, while the doorway behind invites you to
+   warmth, protection and a place to rest and relax.
+
+~
+4 20996224 8
+D1
+~
+~
+0 -1 437
+D5
+~
+~
+0 -1 450
+Z3
+C-1
+S
+#442
+{BLI,BO,R}T{BLI,BO,G}h{BLI,BO,BLU}e {BLI,BO,MA}C{BLI,BO,Y}a{BLI,BO,C}r{BLI,BO,R}n{BLI,BO,G}i{BLI,BO,BLU}v{BLI,BO,MA}a{BLI,BO,Y}l{bli,bo,y}~
+
+   The sights and sounds surround you in flash, crashing in on you like a wave 
+   beating itself in on the shore.  Grinning faces flit by in a blinding, nearly
+   unrecognizable blur while the din of laughter, the buzzing and beeping of
+   games, the roar of rides and the blaring music assault your ears.  You hear
+   the game attendants howling for your attention while the overpowering smells
+   of hot dogs and candy floss waft by in nauseating bursts.  Shoulders smash 
+   into you as one after another the expressionless zombies blow by as if you 
+   don't even exist.  You're vision starts to spin as the Carnival sweeps you 
+   into its vortex and utterly consumes you.  All sense of direction is lost 
+   as your mind numbs to the brutal attack on your senses leaving you in utter
+   despair, craving a way out that doesn't seem to be there.   
+
+~
+4 20989312 1
+D0
+~
+~
+0 -1 433
+D1
+~
+~
+0 -1 433
+D2
+~
+~
+0 -1 443
+D3
+~
+~
+0 -1 433
+T434
+Z3
+C-1
+S
+#443
+{BLI,BO,R}T{BLI,BO,G}h{BLI,BO,BLU}e {BLI,BO,MA}C{BLI,BO,Y}a{BLI,BO,C}r{BLI,BO,R}n{BLI,BO,G}i{BLI,BO,BLU}v{BLI,BO,MA}a{BLI,BO,Y}l{bli,bo,y}~
+
+   The sights and sounds surround you in flash, crashing in on you like a wave 
+   beating itself in on the shore.  Grinning faces flit by in a blinding, nearly
+   unrecognizable blur while the din of laughter, the buzzing and beeping of
+   games, the roar of rides and the blaring music assault your ears.  You hear
+   the game attendants howling for your attention while the overpowering smells
+   of hot dogs and candy floss waft by in nauseating bursts.  Shoulders smash 
+   into you as one after another the expressionless zombies blow by as if you 
+   don't even exist.  You're vision starts to spin as the Carnival sweeps you 
+   into its vortex and utterly consumes you.  All sense of direction is lost 
+   as your mind numbs to the brutal attack on your senses leaving you in utter
+   despair, craving a way out that doesn't seem to be there.   
+
+~
+4 20989312 1
+D0
+~
+~
+0 -1 433
+D1
+~
+~
+0 -1 433
+D2
+~
+~
+0 -1 444
+D3
+~
+~
+0 -1 433
+T434
+Z3
+C-1
+S
+#444
+{BLI,BO,R}T{BLI,BO,G}h{BLI,BO,BLU}e {BLI,BO,MA}C{BLI,BO,Y}a{BLI,BO,C}r{BLI,BO,R}n{BLI,BO,G}i{BLI,BO,BLU}v{BLI,BO,MA}a{BLI,BO,Y}l{bli,bo,y}~
+
+   The sights and sounds surround you in flash, crashing in on you like a wave 
+   beating itself in on the shore.  Grinning faces flit by in a blinding, nearly
+   unrecognizable blur while the din of laughter, the buzzing and beeping of
+   games, the roar of rides and the blaring music assault your ears.  You hear
+   the game attendants howling for your attention while the overpowering smells
+   of hot dogs and candy floss waft by in nauseating bursts.  Shoulders smash 
+   into you as one after another the expressionless zombies blow by as if you 
+   don't even exist.  You're vision starts to spin as the Carnival sweeps you 
+   into its vortex and utterly consumes you.  All sense of direction is lost 
+   as your mind numbs to the brutal attack on your senses leaving you in utter
+   despair, craving a way out that doesn't seem to be there.   
+
+~
+4 20989312 1
+D0
+~
+~
+0 -1 433
+D1
+~
+~
+0 -1 435
+D2
+~
+~
+0 -1 433
+D3
+~
+~
+0 -1 433
+T434
+Z3
+C-1
+S
+#445
+{M}In{Y}si{M}de{Y} th{M}e T{Y}en{M}t{m}~
+You are standing in nowhere !!!!
+~
+4 20988040 0
+D2
+~
+~
+0 -1 447
+Z3
+C-1
+S
+#446
+{BO,R}Arbco Road{bo,r}~
+You are standing in nowhere !!!!
+~
+4 20988032 1
+D2
+Before you stands a massive set of gates blocking you entrance to the smoke-filled Arbco Factory.  Holding the gates closed is a large lock, roughly the size of your torso.
+~
+Gates~
+1 -1 447
+Z3
+C-1
+S
+#447
+{B}The Factory{b}~
+You snap out of your daydream to notice that there is a lake just to the northeast of you.  You see a beach on the southside of the lake but have no idea how to get to it.  There is, however, a trail leading north to a small cliff which ends at the lake.  Maybe you could dive off that cliff into the lake, since you can't go any other way, unless you want to hack through dense forest.   
+~
+4 20988040 0
+D2
+~
+~
+0 -1 460
+Z3
+C-1
+S
+#448
+{BLU}A Path {Y}into{G} the Forest{blu}~
+
+~
+4 21020800 7
+D0
+~
+~
+0 -1 450
+D1
+~
+~
+0 -1 451
+Z3
+C-1
+S
+#449
+{BLU}The {Y}Sandy{BLU} Beach{blu}~
+
+   The sand cools beneath your feet and a chill wind blows in from the sea as
+   night totally envelops the last fading rays of light.  You are surrounded
+   by the peaceful sounds of the waves lapping against the shore and the 
+   lulling hums and buzzes of night critters.  Your mind seems clearer and
+   your senses sharper as you drink in the intoxicatingly cool, crisp air on
+   this evening in paradise. 
+
+~
+4 21020800 7
+D0
+~
+~
+0 -1 400
+D2
+~
+~
+0 -1 450
+Z3
+C-1
+S
+#450
+{BLU}The{Y} Sandy {BLU}beach{blu}~
+
+   Time slips away in this tranquil piece of heaven as you stroll along the
+   beach in a daze of thought and contemplation.  Your snapped out of your 
+   reverie by the soft glow of light up ahead.  As you make your way toward
+   the light a ladder materialize out of the darkness, followed by the deck 
+   patio and eventually the little cottage where the light is emanating from.
+      
+
+~
+4 21020800 7
+D0
+~
+~
+0 -1 449
+D2
+~
+~
+0 -1 448
+D4
+~
+~
+0 -1 441
+Z3
+C-1
+S
+#451
+{BLU}The Rush of Water{blu}~
+
+~
+4 21020800 7
+D2
+~
+~
+0 -1 452
+D3
+~
+~
+0 -1 448
+Z3
+C-1
+S
+#452
+{BLU}A Large Waterfall{blu}~
+You have come to the source of the roar, a large, beautiful waterfall.  You 
+peer over the edge and see the mist floating back up towards you.  With a sigh of utter contentment you realize fully the beauty of Mother nature.  Freedom and immortality seem almost within your grasp in this haven of the gods, which is what this wonderous place must be!  What would happen if i were to throw myself into the roaring waves below, you think to yourself with a grin.  However after a  serious two second debate with yourself, you realize that MAY be a bad idea.  Even if you survived the drop, would the water below be deep enough to stop your descent before smashing through the rocks jutting out from the water?  The only way to find out is to try it. Now if only you had something to slow your descent once you hit the water.....
+~
+4 21020800 7
+D0
+~
+~
+0 -1 451
+D5
+~
+~
+0 -1 453
+Z3
+C-1
+S
+#453
+{BLU}A Beautiful Pool of Water{blu}~
+maybe i will create a dt here, drowned by the waterfall? unless you got waterwings on!  have to see if it is poosible to have a semi-DT?
+l
+~
+4 21020800 7
+D1
+A large rusty sewer grate stands rusted shut.
+~
+Grate~
+3 -1 438
+Z3
+C-1
+S
+#454
+{W}Top of the Stairs{w}~
+You are standing in nowhere !!!!
+~
+4 20988040 0
+D3
+~
+~
+0 -1 459
+D5
+~
+~
+0 -1 493
+Z3
+C2
+S
+#455
+{BO,R} Rush the crowd!!{bo,r}~
+You look around you trying to find a way out and then {BO,R}<--**BAM**-->{bo,r} you rush the crowd and try to push a way out. Your momentum starts to slow but you keep pushing.  This just may work.......a few more steps and you may be out.  You think you see a way out, you just have to make it there!!  Push!!! PUSH!!!!!!!!!
+~
+4 20989064 0
+D0
+~
+~
+0 -1 461
+D1
+~
+~
+0 -1 463
+D2
+~
+~
+0 -1 464
+D3
+~
+~
+0 -1 457
+Z3
+C-1
+S
+#456
+{BO,R} Rush the crowd!!{bo,r}~
+You look around you trying to find a way out and then {BO,R}<--**BAM**-->{bo,r} you rush the crowd and try to push a way out. Your momentum starts to slow but you keep pushing.  This just may work.......a few more steps and you may be out.  You think you see a way out, you just have to make it there!!  Push!!! PUSH!!!!!!!!!
+~
+4 20989064 0
+D0
+~
+~
+0 -1 461
+D1
+~
+~
+0 -1 462
+D2
+~
+~
+0 -1 464
+D3
+~
+~
+0 -1 457
+Z3
+C-1
+S
+#457
+{BO,R} Rush the crowd!!{bo,r}~
+You look around you trying to find a way out and then {BO,R}<--**BAM**-->{bo,r} you rush the crowd and try to push a way out. Your momentum starts to slow but you keep pushing.  This just may work.......a few more steps and you may be out.  You think you see a way out, you just have to make it there!!  Push!!! PUSH!!!!!!!!!
+~
+4 20989064 0
+D0
+~
+~
+0 -1 456
+D1
+~
+~
+0 -1 464
+D2
+~
+~
+0 -1 455
+D3
+~
+~
+0 -1 464
+Z3
+C-1
+S
+#458
+{BO,R}Rush the crowd!!{bo,r}~
+You look around you trying to find a way out and then {BO,R}<--**BAM**-->{bo,r} you rush the crowd and try to push a way out. Your momentum starts to slow but you keep pushing.  This just may work.......a few more steps and you may be out.  You see a way out, you just have to make it there!!  Push!!! PUSH!!!!!!!!!
+~
+4 20989064 0
+D0
+~
+~
+0 -1 457
+D1
+~
+~
+0 -1 461
+D2
+~
+~
+0 -1 465
+D3
+~
+~
+0 -1 464
+Z3
+C-1
+S
+#459
+{W}Upper Offices{w}~
+You heave the great doubledoors open and see utter darkness.  You can tell by the humming silence that this building is much more vast than it appears from the outside.  You step thruogh the great doors and hear the door slam behind you.  Well i guees that means someone saw, or heard, you enter.  They must be close by,  so better pack up and get moving.
+~
+4 20988040 0
+D1
+~
+~
+0 -1 454
+D3
+This is the final door in the hallway, and also the most exquisite.  Its appears to me made of pure marble and polished to a perfect shiny lustre.  There is a slot off to the right of the door which requires a passcard for admittance.
+~
+Office~
+1 -1 467
+Z3
+C2
+S
+#460
+{BO,B}Inside {BO,BLU}the {BO,M}Ring.{bo,b}~
+The lights go on in a flash and blind you temporarily.  As your vision begins to return you notice a very unpleasant thing goin on about you.  You spin left, then right, then in a full circle.  Yep!! There is no doubt about it, you are utterly trapped within a circle of Cobras B.A.T.s, NInjas and mindless citizens.  Well you could give up now, but where is the fun in that?  Lets show them what you are made of, you scream "YO JOE!!!!!!!!!!!!!!!!!!" and run off into the crowd!!!
+~
+4 20989064 0
+D0
+~
+~
+0 -1 456
+D1
+~
+~
+0 -1 462
+D2
+~
+~
+0 -1 463
+D3
+~
+~
+0 -1 457
+Z3
+C-1
+S
+#461
+{BO,B}Tossed {BO,BLU}Back in {BO,M} the Ring.{bo,b}~
+You push and push, struggling to make it out of the ring, and you are almost there.  Three......Two......One more step......Arggggghhhh!   You were so close but you finally get tossed back in the center of the circle.  So here you are again.  Totally surrounded and looking for a way out.  Well there is no sense giving up, might as well try, try again.  Don't worry champ, you'll break through eventually!
+~
+4 20989064 0
+D0
+~
+~
+0 -1 457
+D1
+~
+~
+0 -1 463
+D2
+~
+~
+0 -1 455
+D3
+~
+~
+0 -1 458
+Z3
+C-1
+S
+#462
+{BO,R} Rush the crowd!!{bo,r}~
+You look around you trying to find a way out and then {BO,R}<--**BAM**-->{bo,r} you rush the crowd and try to push a way out. Your momentum starts to slow but you keep pushing.  This just may work.......a few more steps and you may be out.  You think you see a way out, you just have to make it there!!  Push!!! PUSH!!!!!!!!!
+~
+4 20989064 0
+D0
+~
+~
+0 -1 456
+D1
+~
+~
+0 -1 461
+D2
+~
+~
+0 -1 463
+D3
+~
+~
+0 -1 464
+Z3
+C-1
+S
+#463
+{BO,R} Rush the crowd!!{bo,r}~
+You look around you trying to find a way out and then {BO,R}<--**BAM**-->{bo,r} you rush the crowd and try to push a way out. Your momentum starts to slow but you keep pushing.  This just may work.......a few more steps and you may be out.  You think you see a way out, you just have to make it there!!  Push!!! PUSH!!!!!!!!!
+~
+4 20989064 0
+D0
+~
+~
+0 -1 462
+D1
+~
+~
+0 -1 464
+D2
+~
+~
+0 -1 455
+D3
+~
+~
+0 -1 461
+Z3
+C-1
+S
+#464
+{BO,B}Tossed {BO,BLU}Back in {BO,M} the Ring.{bo,b}~
+You push and push, struggling to make it out of the ring, and you are almost there.  Three......Two......One more step......Arggggghhhh!   You were so close but you finally get tossed back in the center of the circle.  So here you are again.  Totally surrounded and looking for a way out.  Well there is no sense giving up, might as well try, try again.  Don't worry champ, you'll break through eventually!!
+~
+4 20989064 0
+D0
+~
+~
+0 -1 456
+D1
+~
+~
+0 -1 462
+D2
+~
+~
+0 -1 463
+D3
+~
+~
+0 -1 457
+Z3
+C-1
+S
+#465
+Running from the Mob~
+YES!!!!! you made it through!  but as you glance behind you you realize that they have all turned and are now chasing you!  I suggest you run, and run FAST!!!  You look around for a way out and notice a little office to the south, with stairs going up and a door.....maybe one that locks!!  
+~
+4 20988040 0
+D2
+The door to the supervisors office is closed and locked.  It appears as if the room is unoccupied because the lights are out and no sound comes from behind the doors.
+~
+Door~
+1 -1 466
+Z3
+C-1
+S
+#466
+The Supervisors Office~
+
+You rush into the office and slam the door behind you, using the desk to your right as a barrier to block the door and hopefully keep it closed, and keep the mob out!!  You turn and rest on the desk catching your breath.  With an eerie feeling, like you are being watched, your gaze is slowly pulled up to a sight of big black boots, then long muscular legs all the way up to powerful, broad shoulders.  Resting on top of this formidable specimen are the handsome features of a face covered by a bright, gleaming silver mask!!  Your eyes pop wide open as you realize that you have barricaded yourself in with Destro, one of the most dangerous men alive!!!!  You start to sweat as you watch Destro standing there firmly, showing no sign of surprise or fear.  In fact you get the feeling that he is laughing at you behind that mask.  Man don't you feel dumb now!!
+~
+4 20988040 0
+D0
+Leaving the way you came in seems to be a bad idea.  Why would you want to run back into the mob you just ran AWAY from??
+~
+Door~
+1 -1 460
+D4
+~
+~
+0 -1 493
+Z3
+C-1
+S
+#467
+{W}Lavish Office{w}~
+OOMPHH!!!!!!!!! You hit the ground with a great !!THUD!! and gaze up at the hole you just came crashing through!  Good thing you didn't land on that pair of scissors right next to you,  or that sharp looking spike protruding from the ground!!   You get up and dust of your clothes and search for a way out!  As you glance south you notice and exit and perhaps a way out!! Then again perhaps it isn't?!?
+~
+4 20988040 0
+D2
+~
+~
+0 -1 468
+Z3
+C-1
+S
+#468
+{B}Tr{BO,W}ap{B}pe{BO,W}d i{B}n t{BO,W}he {B}Ma{BO,W}ch{B}in{BO,W}e{b}~
+You notice the stairs are a little worn out and wonder whether it is safe to climb or not.  You have little choice however because this is the only exit you can find in this basement.  Do you dare to ascend the stairs??  
+~
+4 20989096 8
+D0
+~
+~
+0 -1 471
+D1
+~
+~
+0 -1 470
+D2
+~
+~
+0 -1 469
+D3
+~
+~
+0 -1 473
+Z3
+C2
+S
+#469
+{B}Tr{BO,W}ap{B}pe{BO,W}d i{B}n t{BO,W}he {B}Ma{BO,W}ch{B}in{BO,W}e{b}~
+~
+4 20989096 8
+D0
+~
+~
+0 -1 468
+D1
+~
+~
+0 -1 473
+D2
+~
+~
+0 -1 470
+D3
+~
+~
+0 -1 472
+Z3
+C2
+S
+#470
+{B}Tr{BO,W}ap{B}pe{BO,W}d i{B}n t{BO,W}he {B}Ma{BO,W}ch{B}in{BO,W}e{b}~
+~
+4 20989096 8
+D0
+~
+~
+0 -1 473
+D1
+~
+~
+0 -1 469
+D2
+~
+~
+0 -1 473
+D3
+~
+~
+0 -1 472
+Z3
+C2
+S
+#471
+{B}Tr{BO,W}ap{B}pe{BO,W}d i{B}n t{BO,W}he {B}Ma{BO,W}ch{B}in{BO,W}e{b}~
+You step up the ladder leading to the upper offices of the factory, having absolutlely no idea what to expect. The one thing you can probably rely on though, is that no good will come from going up here, but hopefully its not as bad as being slowly killed by a rushing mob.  You slowly make your way up, hearing the crashing and banging on your barricaded door, and open the hatch at the top of the ladder.  As you peek your head through you notice the room looks empty, therefore relatively safe.......for now!!
+~
+4 20989096 8
+D0
+~
+~
+0 -1 470
+D1
+~
+~
+0 -1 469
+D2
+A gap in the shimmering, fluctuating walls appears here, but it is too small for anything to fit through.  If only there were a way to make the break a little larger!
+~
+Break~
+1 -1 474
+D3
+~
+~
+0 -1 473
+Z3
+C2
+S
+#472
+{B}Tr{BO,W}ap{B}pe{BO,W}d i{B}n t{BO,W}he {B}Ma{BO,W}ch{B}in{BO,W}e{b}~
+You open the hatch fully and pull yourself through.  As your feet settle on the floor you hear the crash of the hatch closing and you turn about quickly.  Well at least no one was in front of the hatch!!!  Behind you, barring your way out the door to the west, AND the hatch below, are several B.A.T.s standing protectively in front of Cobra Commander himself.  
+~
+4 20989096 8
+D0
+~
+~
+0 -1 469
+D1
+~
+~
+0 -1 472
+D2
+~
+~
+0 -1 473
+D3
+~
+~
+0 -1 470
+T475
+Z3
+C2
+S
+#473
+{B}Tr{BO,W}ap{B}pe{BO,W}d i{B}n t{BO,W}he {B}Ma{BO,W}ch{B}in{BO,W}e{b}~
+You walk through the halls of the upper ofices, following the B.A.T.s and Cobra Commander.  If only you can get your hands on Cobra Commander, maybe you can ransom your way out of here.  So you steadily work to close him in, knowing these halls have to end sooner or later.
+~
+4 20989096 8
+D0
+~
+~
+0 -1 472
+D1
+~
+~
+0 -1 473
+D2
+~
+~
+0 -1 469
+D3
+~
+~
+0 -1 470
+Z3
+C2
+S
+#474
+{W}Inside the Brainwave Scanner{w}~
+You have come to the end of the hall and only one offices lies ahead of you.  Once you push the Commander and his B.A.T.s in here, there is no escape, at least you hope not.  It seems like this cowardly Cobra always finds a way to retreat.  But hopefully if you can get him there you can stop him once and for all.  Here's your chance, show them what you're made of!
+~
+4 20988040 8
+D2
+~
+~
+0 -1 475
+Z3
+C-1
+S
+#475
+{BO,BLU}Ha{B}ll {BO,R}of{B} Me{BO,R}mo{B}ri{BO,BLU}es{bo,blu}~
+You step into the lavish office, decorated with all sorts of art pieces and the most comfortable furniture you have ever seen.  The only blemish in the entire office are the ones standing in front of you.  So here you stand face to face with the Cobra Commander and his remaining B.A.T.s, with no means of escape for either of you.  Here is the last showdown, and only one of you will be walking away from this one.  You better make sure it's you walking away, cause a rescue mission in here is only for the suicidal and the crazy.  
+~
+4 20988040 8
+D0
+~
+~
+0 -1 474
+D2
+~
+~
+0 -1 478
+Z3
+C-1
+S
+#476
+{BO,BLU}Ha{B}ll {BO,R}of{B} Me{BO,R}mo{B}ri{BO,BLU}es{bo,blu}~
+You are standing in nowhere !!!!
+~
+4 20988040 8
+D0
+This door appears to be and ordinary oak door like the kind you would find in your house, leading to your room or den.  Unfortunately, this door likely leads to something much less pleasant!
+~
+Door~
+1 -1 479
+D1
+~
+~
+0 -1 478
+D2
+This door appears to be and ordinary oak door like the kind you would find in your house, leading to your room or den.  Unfortunately, this door likely leads to something much less pleasant!
+~
+Door~
+1 -1 480
+D3
+The door seems strangely out of place here, but then nothing here is as it seems.  This door appears to belong to a beat up, brown van.  What it's doing in this hallway is anybody's guess, but it's up to you to find out whats behind it!
+~
+Door~
+1 -1 483
+Z0
+C-1
+S
+#477
+{BO,BLU}Ha{B}ll {BO,R}of{B} Me{BO,R}mo{B}ri{BO,BLU}es{bo,blu}~
+You are standing in nowhere !!!!
+~
+4 20988040 8
+D0
+This door appears to be and ordinary oak door like the kind you would find in your house, leading to your room or den.  Unfortunately, this door likely leads to something much less pleasant!
+~
+Door~
+1 -1 481
+D1
+This door keeps blinking in and out of sight and appears to be slowly fading away into nothing.  Each time it fades it is lost for a longer and longer time.  Soon it will cease to exist, so be quick if you decide to enter!
+~
+Door~
+1 -1 484
+D2
+This door appears to be and ordinary oak door like the kind you would find in your house, leading to your room or den.  Unfortunately, this door likely leads to something much less pleasant!
+~
+Door~
+1 -1 482
+D3
+~
+~
+0 -1 478
+Z0
+C-1
+S
+#478
+{BO,BLU}H{R}ea{BO,B}Rt o{BLU}F {BO,R}mAD{B}nE{BO,BLU}Ss{bo,blu}~
+You are standing in nowhere !!!!
+~
+4 20988040 8
+D0
+~
+~
+0 -1 475
+D1
+~
+~
+0 -1 477
+D2
+Again there is a gap in the wall here, but this wall appears to be different.  A new key must be found to rend an opening in the break in this wall.
+~
+Break~
+1 -1 485
+D3
+~
+~
+0 -1 476
+Z0
+C-1
+S
+#479
+{W}Welc{BO,B}o{W}me t{BO,B}o Y{W}ou{BO,B}r Past{bo,blu}~
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+~
+4 20988056 8
+D2
+~
+Door~
+1 -1 476
+Z0
+C-1
+S
+#480
+{W}Welc{BO,B}o{W}me t{BO,B}o Y{W}ou{BO,B}r Past{bo,blu}~
+You are standing in nowhere !!!!
+~
+4 20988040 8
+D0
+~
+Door~
+1 -1 476
+Z0
+C-1
+S
+#481
+{W}Welc{BO,B}o{W}me t{BO,B}o Y{W}ou{BO,B}r Past{bo,blu}~
+You are standing in nowhere !!!!
+~
+4 20988040 8
+D2
+~
+Door~
+1 -1 477
+Z0
+C-1
+S
+#482
+{W}Welc{BO,B}o{W}me t{BO,B}o Y{W}ou{BO,B}r Past{bo,blu}~
+You are standing in nowhere !!!!
+~
+4 20988040 8
+D0
+~
+Door~
+1 -1 477
+Z0
+C-1
+S
+#483
+{Y}Be{BO,B}hi{Y}nd{BO,B} Th{Y}e W{BO,B}he{Y}el{y}~
+You are standing in nowhere !!!!
+~
+4 20988040 8
+D1
+~
+Door~
+1 -1 476
+Z0
+C2
+S
+#484
+{BO,B}Slipping Away......{bo,b}~
+You are standing in nowhere !!!!
+~
+4 20988040 8
+D3
+~
+Door~
+1 -1 477
+Z0
+C1
+S
+#485
+{BO,B}S{W}ig{BO,B}na{W}ls B{BO,B}l{W}ur{BO,B}ring{bo,b}~
+You are standing in nowhere !!!!
+~
+4 20988040 8
+D2
+Here lies yet another break in the fabrics of your mind.  Yet this one seems slightly different.  It is already wide enough for you to enter, however through the gap all you can see is pitch.  It almost seems as if the dark inside has sucked away absolutely all form of light, and is pulsating from the gap, eager to feed.
+~
+Break~
+1 -1 486
+Z0
+C1
+S
+#486
+{BO,B}Utter Darkness{bo,b}~
+You are standing in nowhere !!!!
+~
+4 20988040 8
+Z0
+C-1
+S
+#487
+{G}Up From T{B}he Undergroud{g}~
+You are standing in nowhere !!!!
+~
+4 20988032 0
+D4
+~
+~
+0 -1 488
+Z0
+C-1
+S
+#488
+{W}Inside the Newstand{w}~
+You are standing in nowhere !!!!
+~
+4 20988040 0
+D2
+~
+~
+0 -1 489
+D5
+~
+~
+0 -1 487
+Z0
+C-1
+S
+#489
+{Y}Th{W}e C{Y}on{W}su{Y}la{W}te {Y}Fo{W}ye{Y}r{y}~
+You are standing in nowhere !!!!
+~
+4 20988040 0
+D0
+~
+~
+0 -1 488
+D1
+~
+~
+0 -1 490
+D2
+~
+~
+0 -1 492
+Z0
+C-1
+S
+#490
+{Y}Th{W}e C{Y}on{W}su{Y}la{W}te {Y}Fo{W}ye{Y}r{y}~
+You are standing in nowhere !!!!
+~
+4 20988040 0
+D2
+~
+~
+0 -1 491
+D3
+~
+~
+0 -1 489
+Z0
+C-1
+S
+#491
+{Y}Th{W}e C{Y}on{W}su{Y}la{W}te {Y}Fo{W}ye{Y}r{y}~
+You are standing in nowhere !!!!
+~
+4 20988040 0
+D0
+~
+~
+0 -1 490
+D3
+~
+~
+0 -1 492
+Z0
+C-1
+S
+#492
+{Y}Th{W}e C{Y}on{W}su{Y}la{W}te {Y}Fo{W}ye{Y}r{y}~
+You are standing in nowhere !!!!
+~
+4 20988040 0
+D0
+~
+~
+0 -1 489
+D1
+~
+~
+0 -1 491
+Z0
+C-1
+S
+#493
+{W}Stairwell{w}~
+You are standing in nowhere !!!!
+~
+4 20988040 0
+D4
+~
+~
+0 -1 454
+D5
+~
+~
+0 -1 466
+Z0
+C2
+S
+#494
+{G}Underground Rail Systems{g}~
+
+   A hatch opens up in the floor with stairs taking you down into a musty, dark
+   tunnel, lit every so often with a dim bulb.  The air starts to buzz and the
+   ground quakes, as out of nowhere a large underground rail train hammers 
+   into the station with a deafening scream.  Screeching to halt, the train 
+   doors open and light floods the tunnel from inside the train.  First and
+   last stop, the streets below the Cobra consulate building.  This train will
+   take you to the newstand, a secret {BO,G}Joe{bo,g} surveillance base, across from
+   the consulate building. From there you're on your own.
+
+~
+4 20988040 0
+D4
+~
+~
+0 -1 497
+Z0
+C-1
+S
+#495
+{G}The Docks{g}~
+
+   Inside the {BO,G}Joe{bo,g} Docks are dozens are various watercraft, from Hovercrafts 
+   to SHARC's to Water Moccasins.  The dock is a large underground facility
+   leading out to the bay.  A Hovercraft sits ready awaiting departure to
+   drop you and your special forces team on a beach just outside of Broca Beach.
+   The drop off time is set for just before dusk, where you are to make way quietly
+   and quickly to Broca Beach fo surveillance.  {BLU}Cobra Commander{blu} is rumored to be
+   there, so be on your toes.
+
+~
+4 20988040 0
+D1
+~
+~
+0 -1 497
+Z0
+C-1
+S
+#496
+{G}The Hangar{g}~
+
+   Inside the cavernous underground hangar sit dozens of planes and helicopters all
+   primed up and ready to fly on a moments notice.  As you gaze around you 
+   notice Conquest X-30's, the elite fighter attack bomber, Skystrikers, the 
+   ultimate in stealth and recon, Skyhawks, vertical take off and landing 
+   assault chopper, Dragonflys able to outmaneuver most other aircrafts, and 
+   lastly the Tomahawk heavy lift assault/troop carrier helicopter.  This will
+   be your ticket for your excursion into the mountains of Barovia to 
+   infiltrate Castle Destro.  The rotors start to crank as all is prepared for
+   departure.
+
+~
+4 20988040 0
+D3
+~
+~
+0 -1 497
+Z0
+C-1
+S
+#497
+{G}The Command Center{g}~
+
+   Back in the jeep the lift takes you down through one more level of reinforced 
+   steel before coming to a stop at the {BO,G}G.I. JOE{bo,g} training center.  From here
+   you'll have to take the passenger elevator down past the living quarters and
+    down to the fifth floor Tech rooms.  This floor contains the brains of
+   "The Pit", one huge super computer and files on every criminal, {BO,G}Joe{bo,g} and {BO,BLU}C{BO,R}o{BO,BLU}b{BO,R}r{BO,BLU}a{bo,blu}
+   operative known.  From here you can reach The Docks which can take you to Broca Beach,
+   The Hangar with jets fueled up and ready to drop you near Castle Destro in Barovia,
+   or the Underground Rail System which will lead you to the steps of the Cobra 
+   Consulate building.  Follow the path you must to find and stop {BO,BLU}Cobra Commander{bo,blu}.
+
+~
+4 20971656 0
+D0
+~
+~
+0 -1 498
+D1
+~
+~
+0 -1 496
+D3
+~
+~
+0 -1 495
+D5
+~
+~
+0 -1 494
+Z0
+C-1
+S
+#498
+{G}Inside the Pitt{g}~
+
+    The lift takes you down through 5 levels of reinforced steel.  The first 
+   level is where all the {BO,G}Joe{bo,g} vehicles are stored.  The second is the Comms
+   level where the lift stops to let you off.  You are met by General Hawk
+   in the briefing room where your mission is outlined to you.  {BO,BLU}Cobra Commander{bo,blu},
+   the leader of the terrorist organisation {BO,BLU}C{BO,R}o{BO,BLU}b{BO,R}r{BO,BLU}a{bo,blu}, must be found and stopped.
+   Choose your {BO,G}G.I. Joe{bo,g} special unit and take out the madman behind the mask. 
+
+~
+4 20988040 0
+D0
+~
+Gates~
+1 -1 499
+D2
+~
+~
+0 -1 497
+Z0
+C-1
+S
+#499
+{G}The Front Gates{g}~
+
+   Before you stand the gates to a large Motor Pool where you can drop    
+   transmissions and get complete lube jobs.  You glance at the sign above the
+   entrance, HQ Company MOTOR POOL, as you drive through the gates.  Unknown
+   to the rest of the world, this simple complex is actually know as "The 
+   Pit", the {BO,G}G.I. Joe{bo,g} Command Center.  The jeep takes you to the 
+   main service building and stops on the hydraulic lift, the lift starts to 
+   move, however it takes you down, rather than up, right into the heart of 
+   "the Pit". 
+
+~
+4 20988032 2
+D2
+Before you stands a large set of gates leading to the Pit, home of the {BO,G}GI Joe{bo,g} special forces squad.
+~
+Gates~
+1 -1 498
+Z0
+C-1
+S
+$~

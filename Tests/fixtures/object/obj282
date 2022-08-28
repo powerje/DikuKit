@@ -1,0 +1,326 @@
+#28200
+compass dragon drdcompass~
+a compass with a golden dragon inlay~
+A large compass with a dragon inlaid in gold is laying here.~
+~
+12 69632 1024 1
+0 0 0 0
+5 0 0
+E
+compass dragon drdcompass~
+
+   This is a large, cylindrical artifact, about 2 fingers thick. Unlike
+   regular compasses with an arrow that points to magnetic north, this
+   points towards the Dungeon Lair!
+   It's made of wood, with the shape of a dragon inlaid in gold on the
+   back.
+
+~
+L
+1
+#28201
+map dragon drdmap blank~
+a map of the Dragon Dungeon~
+A map of the Dragon Dungeon is laying here.~
+~
+12 69632 1024 1
+0 0 0 0
+2 1 1
+E
+map dragon drdmap blank~
+
+     Dragon Dungeon Map
+     ------------------
+
+        [ ][ ][ ][ ]
+     [ ][ ][ ][ ][ ][ ]
+     [ ][ ]      [ ][ ]
+     [ ][ ][ ]   [ ]
+     [ ]
+     [ ]
+     [ ]   [ ]
+     [ ][E][ ]
+
+~
+L
+1
+#28202
+map dragon drdmap~
+a map of the Dragon Dungeon~
+A map of the Dragon Dungeon is laying here.~
+~
+12 69632 1024 1
+0 0 0 0
+2 1 1
+E
+map dragon drdmap~
+
+     Dragon Dungeon Map
+     ------------------
+
+        [ ][ ][ ][{RE,BO,BLI}x{re,bo,bli}]
+     [ ][ ][ ][ ][ ][ ]
+     [ ][ ]      [ ][ ]
+     [ ][ ][ ]   [ ]
+     [ ]
+     [ ]
+     [ ]   [ ]
+     [ ][E][ ]
+
+
+        Map Legend
+
+       [ ] - a room
+        E  - Entrance
+        {RE,BO,BLI}x{re,bo,bli}  - the Dungeon Secret
+
+~
+L
+1
+#28203
+compass demon dedcompass~
+a compass with a golden demon inlay~
+A large compass with a demon inlaid in gold is laying here.~
+~
+12 69632 1024 1
+0 0 0 0
+5 0 0
+E
+compass demon dedcompass~
+
+   This is a large, cylindrical artifact, about 2 fingers thick. Unlike
+   regular compasses with an arrow that points to magnetic north, this
+   points towards the Dungeon Lair!
+   It's made of wood, with the shape of a demon inlaid in gold on the
+   back.
+
+~
+L
+1
+#28204
+map demon dedmap blank~
+a map of the Demon Dungeon~
+A map of the Demon Dungeon is laying here.~
+~
+12 69632 1024 1
+0 0 0 0
+2 1 1
+E
+map demon dedmap blank~
+
+     {GR,BO}Demon Dungeon Map{gr,bo}
+     -----------------
+
+     [ ][ ][ ][ ][ ][ ]
+     [ ][ ][ ][ ][ ]
+     [ ][ ][ ][ ]
+     [ ][ ][ ]
+     [ ][ ]
+     [ ][ ][ ][ ]
+     [ ][ ][ ][ ][ ][ ]
+     [ ][E][ ]
+
+~
+L
+1
+#28205
+map demon dedmap~
+a map of the Demon Dungeon~
+A map of the Demon Dungeon is laying here.~
+~
+12 69632 1024 1
+0 0 0 0
+2 1 1
+E
+map demon dedmap~
+
+     {GR,BO}Demon Dungeon Map{gr,bo}
+     -----------------
+
+     [ ][ ][ ][ ][ ][ ]
+     [ ][ ][ ][ ][ ]
+     [ ][ ][ ][{RE,BO,BLI}x{re,bo,bli}]
+     [ ][ ][ ]
+     [ ][ ]
+     [ ][ ][ ][ ]
+     [ ][ ][ ][ ][ ][ ]
+     [ ][E][ ]
+
+
+        Map Legend
+
+       [ ] - a room
+        E  - Entrance
+        {RE,BO,BLI}x{re,bo,bli}  - the Dungeon Secret
+
+~
+L
+1
+#28206
+compass lion head lhdcompass~
+a compass with a golden lion's head inlay~
+A large compass with a lion's head inlaid in gold is laying here.~
+~
+12 69632 1024 1
+0 0 0 0
+5 0 0
+E
+compass lion head lhdcompass~
+
+   This is a large, cylindrical artifact, about 2 fingers thick. Unlike
+   regular compasses with an arrow that points to magnetic north, this
+   points towards the Dungeon Lair!
+   It's made of wood, with the shape of a lion's head inlaid in gold on
+   the back.
+
+~
+L
+1
+#28207
+map lion head lhdmap blank~
+a map of the Lion's Head Dungeon~
+A map of the Lion's Head Dungeon is laying here.~
+~
+12 69632 1024 1
+0 0 0 0
+2 1 1
+E
+map lion head lhdmap blank~
+
+   {BL,BO}Lion Head Dungeon Map{bl,bo}
+   ---------------------
+
+              [ ]
+           [ ][ ][ ]
+        [ ][ ][ ]
+     [ ][ ][ ][ ][ ]
+     [ ][ ][ ][ ]
+        [ ][ ][ ][ ]
+              [ ]
+        [ ][ ][E][ ]
+
+~
+L
+1
+#28208
+map lion head lhdmap~
+a map of the Lion's Head Dungeon~
+A map of the Lion's Head Dungeon is laying here.~
+~
+12 69632 1024 1
+0 0 0 0
+2 1 1
+E
+ map lion head lhdmap~
+
+   {BL,BO}Lion Head Dungeon Map{bl,bo}
+   ---------------------
+
+              [ ]
+           [ ][ ][ ]
+        [{RE,BO,BLI}x{re,bo,bli}][ ][ ]
+     [ ][ ][ ][ ][ ]
+     [ ][ ][ ][ ]
+        [ ][ ][ ][ ]
+              [ ]
+        [ ][ ][E][ ]
+
+
+        Map Legend
+
+       [ ] - a room
+        E  - Entrance
+        {RE,BO,BLI}x{re,bo,bli}  - the Dungeon Secret
+
+~
+L
+1
+#28209
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#28210
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#28211
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#28212
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#28213
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#28214
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#28215
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#28216
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#28217
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#28218
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#28219
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+$~

@@ -1,0 +1,637 @@
+#37600
+gauntlet Infinity Danger's (godtoy)~
+Danger's Infinity Gauntlet~
+A shiny glove with embedded gems puts you into a trance.~
+~
+5 2148602115 0 16801921
+0 0 0 0
+5 0 0
+E
+A rare toy~
+A special at K-Mart is the valuable tool of the gods.
+~
+E
+gauntlet Infinity Danger's (godtoy)~
+l
+~
+A
+19 101
+A
+18 101
+B
+2
+L
+1
+C
+7000 1
+G
+101
+M
+104
+#37601
+serum goblin~
+{BOLD}Goblin Serum{bold}~
+{BOLD}A bubbling green vial lies on the ground.{bold}~
+~
+10 8192 0 1
+32 28 28 28
+2 1 1500
+E
+serum goblin~
+
+  {BOLD}       ___
+         )_(     
+         | |      
+       .-'-'-.     A bubbling green liquid is seeping out of its flask.
+      /-::_..-\    It looks dangerous enough to be be POISON.
+      )_     _(    Do you want to take the risk on quaffing this serum?
+      |:::    |
+      |:::    |
+      |:::    |
+      |:::-.._|
+      `-.._..-'
+  {bold}
+
+~
+#37602
+key janitor~
+{B}OSCORP Janitor's Key{b}~
+{B}A janitor's key have been left on the floor{b}~
+~
+18 65536 0 1
+10 0 0 0
+1 1 0
+#37603
+key receptionist~
+OSCORP Receptionist Key~
+The receptionist at OSCORP seems to have dropped her key.~
+~
+18 65536 0 1
+0 0 0 0
+1 0 0
+E
+key receptionist~
+  {BOLD} 
+       8 8 8 8                     ,ooo.    The Receptionist keeps valuables
+       8a8 8a8                    oP   ?b   hidden in her desk. Close inspect-
+      d888a888zzzzzzzzzzzzzzzzzzzz8     8b  ion of the key shows some of the 
+       `''^'''                    ?o___oP'  groves broken, but the key will still
+                                            work.
+  {bold}
+
+
+~
+#37604
+keycard one key~
+{B,R}OSCORP Level 1 Keycard{b,r}~
+{B,R}The OSCORP Security Keycard to access Level 1 Doors{b,r}~
+~
+18 65536 0 1
+0 0 0 0
+1 1 1
+E
+keycard one key~
+   {BOLD,RED}
+        (--------------------) 
+        |                    | This keycard is given to employees granted
+        |       OSCORP       | access to Level 1 doors in the OSCORP 
+        |      Security      | Building. This card is a low level 
+        |      Access 1      | keycard for this building. Only certain 
+        |        RED         | non-employees can use this key.
+        |                    |
+        (--------------------)
+  {bold,red}
+~
+E
+keycard one key~
+
+  {B,R}
+      (--------------------) 
+      |                    | This keycard is given to employees granted
+      |       OSCORP       | access to Level 1 doors in the OSCORP 
+      |      Security      | Building. This card is a low level 
+      |      Access 1      | keycard for this building. Only certain 
+      |         RED        | non-employees can use this key.
+      |                    |
+      (--------------------)
+  {b,r}
+
+
+~
+E
+keycard one key~
+   {BOLD,RED}
+        (--------------------) 
+        |                    | This keycard is given to employees granted
+        |       OSCORP       | access to Level 1 doors in the OSCORP 
+        |      Security      | Building. This card is a low level 
+        |      Access 1      | keycard for this building. Only certain 
+        |       RED          | non-employees can use this key.
+        |                    |
+        (--------------------)
+  {bold,red}
+~
+#37605
+keycard two key~
+{B,BLUE}OSCORP Level 2 Keycard{b,blue}~
+{B,BLUE}The OSCORP Security Keycard to access Level 2 Doors{b,blue}~
+~
+18 65536 0 1
+0 0 0 0
+1 1 1
+E
+keycard two key~
+
+  {B,BLUE}
+      (--------------------) 
+      |                    | This keycard is given to employees granted
+      |       OSCORP       | access to Level 2 doors in the OSCORP 
+      |      Security      | Building. This card is a low level 
+      |      Access 2      | keycard for this building. Only certain 
+      |        BLUE        | unimportant employees can use this key.
+      |                    |
+      (--------------------)
+  {b,blue}
+
+
+~
+#37606
+keycard three key~
+{B}{MAG}OSCORP Level 3 Keycard{mag}{b}~
+{B,MAG}The OSCORP Security Keycard to access Level 3 Doors{b,mag}~
+~
+18 65536 0 1
+0 0 0 0
+1 1 1
+E
+keycard three key~
+
+  {MAGENTA}
+      (--------------------) 
+      |                    | This keycard is given to employees granted
+      |       OSCORP       | access to Level 3 doors in the OSCORP 
+      |      Security      | Building. This card is a medium level 
+      |      Access 3      | keycard for this building. Only certain 
+      |       MAGENTA      | somewhat important employee can use this key.
+      |                    |
+      (--------------------)
+  {magenta}
+
+
+~
+#37607
+keycard four key~
+{WH}OSCORP Level 4 Keycard{wh}~
+{WH}The OSCORP Security Keycard to access Level 4 Doors{wh}~
+~
+18 65536 0 1
+0 0 0 0
+1 1 1
+E
+keycard four key~
+  {WH}
+        (--------------------) 
+        |                    | This keycard is given to employees granted
+        |       OSCORP       | access to Level 4 doors in the OSCORP 
+        |      Security      | Building. This card is a medium level 
+        |      Access 4      | keycard for this building. Only certain 
+        |       SILVER       | somewhat important employee can use this key.
+        |                    |
+        (--------------------)
+    {wh}
+
+~
+#37608
+keycard five key~
+{B,YELLOW}OSCORP Keycard Access Level Five{b,yellow}~
+{B,YELLOW}The OSCORP Security Keycard to access Level 5 Doors{b,yellow}~
+~
+18 65536 0 1
+0 0 0 0
+1 1 1
+E
+keycard five key~
+
+  {B,YELLOW}      (--------------------) 
+        |                    | This keycard is given to employees granted
+        |       OSCORP       | access to Level 5 doors in the OSCORP 
+        |      Security      | Building. This card is one of the secure 
+        |      Access 5      | keycard for the building. Only certain 
+        |        GOLD        | high ups can use this key.
+        |                    |
+        (--------------------)
+  {b,yellow}
+
+~
+#37609
+keycard six key~
+{B,WH}OSCORP Keycard Access Level Six{b,wh}~
+{B,WH}The OSCORP Security Keycard to access Level 6 Doors{b,wh}~
+~
+18 65536 0 1
+0 0 0 0
+1 1 1
+E
+keycard six key~
+
+  {B,WH} 
+        (--------------------) 
+        |                    | This keycard is given to employees granted
+        |       OSCORP       | access to Level 6 doors in the OSCORP 
+        |      Security      | Building,  this is the most secure keycard
+        |      Access 6      | for the building. Only certain higher ups
+        |      PLATINUM      | can have this key.
+        |                    |
+        (--------------------)
+  {b,wh}
+
+~
+#37610
+cowl goblin~
+Cowl of the Goblin~
+You cower in fear as you see the cowl and mask of the Green Goblin~
+~
+9 2148547072 0 5
+10 0 0 0
+5 1 1000000
+E
+cowl goblin~
+    {BOLD}
+          )               (    
+         / \  .-'''''-.  / \
+        (   \/  \   /  \/   )   The cowl of terror, mask of despair. 
+         )  ,   _\ /_   ,  (    The cowl strikes fear in the hearts of
+        (   |  / \ / \  |   )   men, women, and children. The previous 
+         \ (,  \{BLI,BOLD,R}0{bli,bold,r}{BOLD}/_\{BLI,BOLD,R}0{bli,r}{BOLD}/  ,) /    owner of the cowl was killed mysteriously.
+          \_|   /   \   |_/     Legend has it that this cowl holds 
+            |  _\___/_  |       mysterious power but can lead the wearer
+            .\ \ =.= / /.       to a painful instant death.
+           {  \ '===' /  }
+          {    `.___.'    }
+           {             }
+            `'='='='='='`
+    {bold}
+
+
+~
+A
+19 5
+A
+18 5
+B
+16777216
+L
+50
+C
+7000 3
+#37611
+bomb pumpkin~
+{BOLD}Pumpkin Bomb{bold}~
+{yellow} A pumpkin bomb lies on the floor ready to explode at any minute.{yellow}~
+~
+17 0 0 49153
+150 0 22 0
+3 1 1000
+E
+bomb pumpkin~
+    {WHITE}   {BLINK}         *{blink}
+                
+                ] {white}
+    {GREEN}         __J'L__{green}
+    {YELLOW}     ,-'`--...--''-.
+        / {RED} /\       /\{red}{YELLOW}  \
+       J  {RED}/__\ {red}{YELLOW} _{yellow}{RED}  /__\{red}{YELLOW}  L
+       |       / \       |
+       J    _  '''  _    F
+        \   \\/\_/\//   /
+         '-._\/\_/\/_,-'
+             '''''''
+    {yellow}
+    {BOLD}MUHAHAHAHAHAHAHAHAHHA!{bold}
+~
+B
+1024
+#37612
+labcoat lizard~
+{WHITE}OSCORP Standard issue labcoat{white}~
+{WHITE}An OSCORP labcoat belonging to Dr. Curt Conners.{white}~
+~
+9 2147496580 0 1025
+15 0 0 0
+1 1 10000
+E
+labcoat lizard~
+
+    
+     {B,WH}You have in your hand, a white lab coat worn by Dr. Curt 
+     Connors. After close inspections of the lab coat, you notice 
+     flaky reptile skin lodged in the lining of the coat. You think 
+     nothing of it.{b,wh}      
+
+
+~
+E
+labcoat lizard~
+  {WHITE}
+     You have in your hand, a white lab coat worn by Dr. Curt 
+     Connors. After close inspections of the lab coat, you notice 
+     flaky reptile skin lodged in the lining of the coat. You think 
+     nothing of it.
+  {white}
+~
+A
+18 4
+A
+19 4
+B
+524288
+L
+50
+C
+7000 1
+G
+50
+M
+40
+#37613
+cane kingpin~
+{BOLD,WHITE}Cane of the Mob boss{bold,white}~
+{MAGENTA}The cane belonging to the villianous Kingpin of crime{magenta}~
+~
+5 2148545044 0 24577
+3 8 7 6
+10 50000 5000
+E
+cane kingpin~
+  {B,R} 
+        ____
+       /\__/\
+      /_/  \_\
+      \ \__/ /
+       \/__\/ {b,r}{B,WH}    Carried by the powerful Kingpin of Crime, this staff is
+        (  )      made of a sturdy wood and used as a walking stick by a
+        (  )      500lb Man. On the top of the staff is a 20 carat
+        (  )      red gem that shines in brilliant light. 
+        (  )
+        (  )
+        =++={wh}
+  {b,r}
+
+
+~
+A
+19 4
+A
+18 5
+B
+32768
+L
+20
+C
+5600 2
+G
+75
+M
+67
+#37614
+bowl mysterio helmet~
+{BOLD}Helmet of Illusions{bold}~
+{BOLD}A strange looking fishbowl is set on the ground{bold}~
+(null)~
+9 2148536320 0 17
+12 12 12 12
+7 1 9999
+E
+bowl mysterio helmet~
+
+     {BOLD}What seems to look like a fishbowl is actual a helmet used 
+     by Quentin Beck. You can't really look inside the helmet as 
+     it seems the bowl is all fogged up.{bold}   
+
+
+~
+E
+bowl mysterio helmet~
+
+       {BOLD}{WHITE}What seems to look like a fishbowl is actual a helmet used 
+       by Quentin Beck. You can't really look inside the helmet, 
+       as it seems the bowl is all fogged up.{bold}{white}
+
+
+~
+A
+19 5
+A
+18 5
+B
+1073741824
+L
+40
+C
+7000 1
+G
+57
+M
+71
+#37615
+serum goblin~
+{BOLD}Goblin Serum{bold}~
+{BOLD}A bubbling green vial lies on the ground.{bold}~
+~
+10 8192 0 1
+32 33 38 69
+2 1 1500
+E
+serum goblin~
+
+  {BOLD,R}       ___
+         )_(     
+         | |      
+       .-'-'-.     A bubbling red liquid is seeping out of its flask.
+      /-::_..-\    It looks dangerous enough to be be POISON.
+      )_     _(    Do you want to take the risk on quaffing this serum?
+      |:::    |
+      |:::    |
+      |:::    |
+      |:::-.._|
+      `-.._..-'
+  {bold,r}
+
+~
+#37616
+picture photo frame~
+{WHITE}The Osborn family picture.{white}~
+{WHITE}A picture frame with a picture of the Osborns.{white}~
+~
+18 73728 0 1
+75 0 0 0
+1 10000 0
+E
+picture photo frame~
+{WHITE}
+   To the best dad in the whole world.
+
+                        Love,
+                       Harry.
+~
+#37617
+boots Kraven~
+{YELLOW}Savage Boots of the Wilderness{yellow}~
+{YELLOW}Boots made of tiger hide lies on the ground.{yellow}~
+~
+9 2148536324 0 65
+11 0 0 0
+1 1 1
+A
+19 6
+A
+25 50
+B
+268435456
+L
+30
+C
+7000 1
+G
+80
+#37618
+nothing~
+a little pile of nothing~
+A little pile of nothing is lying here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#37619
+nothing~
+a little pile of nothing~
+A little pile of nothing is lying here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#37620
+nothing~
+a little pile of nothing~
+A little pile of nothing is lying here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#37621
+nothing~
+a little pile of nothing~
+A little pile of nothing is lying here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#37622
+nothing~
+a little pile of nothing~
+A little pile of nothing is lying here.~
+~
+13 4096 0 1
+0 0 0 0
+1 1 1
+B
+128
+L
+30
+#37623
+nothing~
+a little pile of nothing~
+A little pile of nothing is lying here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#37624
+nothing~
+a little pile of nothing~
+A little pile of nothing is lying here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#37625
+comic book~
+{R}C{r}{Y}o{y}{BOLD}m{BOLD}{BLUE}i{blue}{M}c{m} {BOLD,WH}Book{b,wh}~
+{BOLD,WHITE}A valuable rare {bold,white}{R}C{r}{Y}o{y}{BOLD}m{BOLD}{BLUE}i{blue}{M}c{m} {BOLD,WH}Book lies on the floor, unwanted.{bold,white}~
+~
+13 8462336 0 1
+0 0 0 0
+1 0 0
+E
+comic book~
+{BOLD,WHITE}
+   YOU HAVE FOUND:
+   A Ultra Rare Copy of {bold,white}{BOLD,CYAN}X-Men {bold,cyan}{BOLD,WHITE}Number 1 Circa 1964
+   Congratulations.
+{bold,white}
+~
+#37626
+comic book~
+{R}C{r}{Y}o{y}{BOLD}m{BOLD}{BLUE}i{blue}{M}c{m} {BOLD,WH}Book{b,wh}~
+{BOLD,WHITE}A valuable rare {bold,white}{R}C{r}{Y}o{y}{BOLD}m{BOLD}{BLUE}i{blue}{M}c{m} {BOLD,WH}Book lies on the floor, unwanted.{bold,white}~
+~
+13 8462336 0 1
+0 0 0 0
+1 0 0
+E
+comic book~
+{BOLD,WHITE}
+   YOU HAVE FOUND:
+   A Rare Copy of {bold,white}{BOLD,MAG}WildCATS {bold,mag}{BOLD,WHITE}Number 1 Circa 1994
+   Whoopdeedo.
+{bold,white}
+~
+#37627
+comic book~
+{R}C{r}{Y}o{y}{BOLD}m{BOLD}{BLUE}i{blue}{M}c{m} {BOLD,WH}Book{b,wh}~
+{BOLD,WHITE}A valuable rare {bold,white}{R}C{r}{Y}o{y}{BOLD}m{BOLD}{BLUE}i{blue}{M}c{m} {BOLD,WH}Book lies on the floor, unwanted.{bold,white}~
+~
+13 8462336 0 1
+0 0 0 0
+1 0 0
+E
+comic book~
+{BOLD,WHITE}
+   YOU HAVE FOUND:
+   A Rare Copy of {bold,white}{BOLD,YELLOW}Ghost Rider {bold,yellow}{BOLD,WHITE}Number 1 Circa 1994
+   Whoopdeedo.
+{bold,white}
+~
+#37628
+xorn helmet (testeq)~
+{CYAN}{BOLD}Xorn's Helmet{cyan}{bold}~
+{CYAN}{BOLD}Helmet encasing belonging to the X-Man, Xorn{cyan}{bold}~
+~
+5 65536 0 4194303
+3 3 3 3
+1 1 1
+A
+19 100
+A
+18 100
+C
+7000 2
+M
+40
+#37629
+bone marrow (testeq)~
+{MAGENTA}{BOLD}Marrow's Bone{magenta}{bold}~
+{MAGENTA}{BOLD}A bone belonging to the former X-Man, Marrow{magenta}{bold}~
+~
+9 0 0 1
+100 100 100 100
+1 1 1
+A
+18 40
+A
+19 40
+C
+7000 2
+M
+40
+$~

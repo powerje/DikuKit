@@ -1,0 +1,280 @@
+#152
+{Y}{BO}Springfield{y} {R}{BO}U{r}{W}{BO}S{w}{BLU}{BO}A{blu}(Akatosh)~
+15299 500 1
+*
+X 75506
+D 0 15200     0     1    (N:CLOSED) {YELLOW,BOLD}Cheezwiz's Cheezwiz Factory {RED,red}
+D 0 15200     5     0    (D:OPEN) {YELLOW,BOLD}Cheezwiz's Cheezwiz Factory {RED,red}
+O 0 15200     1 15201    A television
+M 0 15230     4 15203    {YELLOW,BOLD}A {GREEN}Springfield {BLUE}Cop{WHITE,white}
+M 0 15200    10 15203    {YELLOW,BOLD}A {GREEN}Springfielder{RED,red}{WHITE,white}
+M 0 15200    10 15203    {YELLOW,BOLD}A {GREEN}Springfielder{RED,red}{WHITE,white}
+M 0 15200    10 15204    {YELLOW,BOLD}A {GREEN}Springfielder{RED,red}{WHITE,white}
+M 0 15200    10 15204    {YELLOW,BOLD}A {GREEN}Springfielder{RED,red}{WHITE,white}
+M 0 15201    36 15208    {RED,BOLD}A Student{WHITE,white}
+M 0 15201    36 15208    {RED,BOLD}A Student{WHITE,white}
+M 0 15201    36 15208    {RED,BOLD}A Student{WHITE,white}
+M 0 15201    36 15209    {RED,BOLD}A Student{WHITE,white}
+M 0 15201    36 15209    {RED,BOLD}A Student{WHITE,white}
+D 0 15209     1     2    (E:LOCKED) {BLUE,BOLD}A School Hallway{RED,red}
+D 0 15209     3     1    (W:CLOSED) {BLUE,BOLD}A School Hallway{RED,red}
+M 0 15201    36 15210    {RED,BOLD}A Student{WHITE,white}
+M 0 15201    36 15210    {RED,BOLD}A Student{WHITE,white}
+M 0 15201    36 15210    {RED,BOLD}A Student{WHITE,white}
+M 0 15201    36 15210    {RED,BOLD}A Student{WHITE,white}
+D 0 15210     1     1    (E:CLOSED) {BLUE,BOLD}A School Hallway{RED,red}
+D 0 15210     3     1    (W:CLOSED) {BLUE,BOLD}A School Hallway{RED,red}
+M 0 15201    36 15211    {RED,BOLD}A Student{WHITE,white}
+M 0 15201    36 15211    {RED,BOLD}A Student{WHITE,white}
+M 0 15201    36 15211    {RED,BOLD}A Student{WHITE,white}
+M 0 15201    36 15211    {RED,BOLD}A Student{WHITE,white}
+M 0 15209     1 15211    {RED,BOLD}Groundskeeper {MAGENTA}Willy{WHITE,white}
+G 1 15213     4     0    {MAGENTA,BOLD}Yet Another {BLUE}Strange {MAGENTA}Lookin' {RED}key{RED,red}
+D 0 15211     0     1    (N:CLOSED) {BLUE,BOLD}End of the Hallway{RED,red}
+D 0 15211     1     1    (E:CLOSED) {BLUE,BOLD}End of the Hallway{RED,red}
+D 0 15211     3     1    (W:CLOSED) {BLUE,BOLD}End of the Hallway{RED,red}
+D 0 15211     5     2    (D:LOCKED) {BLUE,BOLD}End of the Hallway{RED,red}
+M 0 15201    36 15212    {RED,BOLD}A Student{WHITE,white}
+D 0 15212     1     1    (E:CLOSED) {BLUE,BOLD}A School Hallway{RED,red}
+D 0 15212     3     1    (W:CLOSED) {BLUE,BOLD}A School Hallway{RED,red}
+M 0 15201    36 15213    {RED,BOLD}A Student{WHITE,white}
+M 0 15201    36 15213    {RED,BOLD}A Student{WHITE,white}
+D 0 15213     1     0    (E:OPEN) {BLUE,BOLD}A School Hallway{RED,red}
+D 0 15213     3     1    (W:CLOSED) {BLUE,BOLD}A School Hallway{RED,red}
+M 0 15201    36 15214    {RED,BOLD}A Student{WHITE,white}
+M 0 15201    36 15214    {RED,BOLD}A Student{WHITE,white}
+M 0 15201    36 15214    {RED,BOLD}A Student{WHITE,white}
+D 0 15214     1     2    (E:LOCKED) {BLUE,BOLD}End of the Hallway{RED,red}
+D 0 15214     2     2    (S:LOCKED) {BLUE,BOLD}End of the Hallway{RED,red}
+M 0 15202     8 15215    {WHITE,white}A {GREEN}Teacher{RED,red}{WHITE,white}
+M 0 15202     8 15216    {WHITE,white}A {GREEN}Teacher{RED,red}{WHITE,white}
+M 0 15201    36 15217    {RED,BOLD}A Student{WHITE,white}
+M 0 15201    36 15217    {RED,BOLD}A Student{WHITE,white}
+M 0 15201    36 15217    {RED,BOLD}A Student{WHITE,white}
+M 0 15202     8 15217    {WHITE,white}A {GREEN}Teacher{RED,red}{WHITE,white}
+D 0 15217     1     1    (E:CLOSED) {GREEN}Inside a classroom{RED,red}
+M 0 15201    36 15218    {RED,BOLD}A Student{WHITE,white}
+M 0 15201    36 15218    {RED,BOLD}A Student{WHITE,white}
+M 0 15201    36 15218    {RED,BOLD}A Student{WHITE,white}
+M 0 15202     8 15218    {WHITE,white}A {GREEN}Teacher{RED,red}{WHITE,white}
+D 0 15218     3     1    (W:CLOSED) {GREEN}Inside a classroom{RED,red}
+M 0 15201    36 15219    {RED,BOLD}A Student{WHITE,white}
+M 0 15201    36 15219    {RED,BOLD}A Student{WHITE,white}
+M 0 15201    36 15219    {RED,BOLD}A Student{WHITE,white}
+M 0 15202     8 15219    {WHITE,white}A {GREEN}Teacher{RED,red}{WHITE,white}
+D 0 15219     1     1    (E:CLOSED) {GREEN}Inside a classroom{RED,red}
+M 0 15201    36 15220    {RED,BOLD}A Student{WHITE,white}
+M 0 15201    36 15220    {RED,BOLD}A Student{WHITE,white}
+M 0 15201    36 15220    {RED,BOLD}A Student{WHITE,white}
+M 0 15202     8 15220    {WHITE,white}A {GREEN}Teacher{RED,red}{WHITE,white}
+D 0 15220     3     1    (W:CLOSED) {GREEN}Inside a classroom{RED,red}
+M 0 15202     8 15221    {WHITE,white}A {GREEN}Teacher{RED,red}{WHITE,white}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+D 0 15221     1     0    (E:OPEN) {GREEN}Inside a classroom{RED,red}
+M 0 15201    36 15222    {RED,BOLD}A Student{WHITE,white}
+M 0 15201    36 15222    {RED,BOLD}A Student{WHITE,white}
+M 0 15201    36 15222    {RED,BOLD}A Student{WHITE,white}
+M 0 15202     8 15222    {WHITE,white}A {GREEN}Teacher{RED,red}{WHITE,white}
+D 0 15222     1     1    (E:CLOSED) {GREEN}Inside a classroom{RED,red}
+M 0 15210     1 15223    {RED,red}{RED}Principal {RED,BOLD}Skinner{WHITE,white}
+G 1 15204     2     0    {RED,red}{YELLOW}The Bathroom key{RED,red}
+D 0 15223     2     1    (S:CLOSED) {RED,BOLD}Principal {GREEN}Skinner's {RED}Office{RED,red}
+M 0 15211     1 15224    {GREEN,green}{GREEN}Nelson {BLUE}Muntz{WHITE,white}
+G 1 15205     2     0    {GREEN,BOLD}The Playground key{RED,red}
+D 0 15224     3     0    (W:OPEN) {BLUE,BOLD}Boy's Bathroom{RED,red}
+M 0 15201    36 15225    {RED,BOLD}A Student{WHITE,white}
+M 0 15201    36 15225    {RED,BOLD}A Student{WHITE,white}
+M 0 15205     1 15225    {RED,red}{YELLOW}Martin Prince{RED,red}
+M 0 15204     1 15225    {RED,red}{CYAN}Milhouse Van Houten{WHITE,white}
+M 0 15203     1 15225    {RED,red}Mrs. {RED,BOLD}Krabappel{WHITE,white}
+G 1 15202     1     0    {CYAN,BOLD}The key to Mrs. Hoover's Room{RED,red}
+D 0 15225     3     0    (W:OPEN) {RED,BOLD}Mrs. {RED,red}Krabappel's {RED,BOLD}Fourth Grade Class{RED,red}
+M 0 15206     1 15226    {WHITE,white}Mrs. {CYAN}Hoover{WHITE,white}
+M 0 15207     1 15226    {RED,red}{BLUE}Ralph {RED}Wiggum{RED,red}{WHITE,white}
+M 0 15208     1 15226    {YELLOW,BOLD}Lisa {RED}Simpson{WHITE,white}
+E 1 15216     3     3    (NECK) {YELLOW,BOLD}Lisa {RED}Simpson{WHITE}'s {WHITE}Necklace{RED,red}
+D 0 15226     3     0    (W:OPEN) {GREEN,BOLD}Mrs. {WHITE}Hoover's {GREEN}Second Grade Class{RED,red}
+M 0 15212     1 15227    {YELLOW,BOLD}Bart {RED}Si{BLUE}mp{YELLOW}so{BLUE}n{WHITE,white}
+E 1 15215     3     8    (FEET) {Y,BOLD}B{B}art's {BLU}Snea{bold}{BLU}kers{blue}
+G 1 15214     2     0    {CYAN,BOLD}And another Strange Lookin' {RED}key{b}
+D 0 15227     0     2    (N:LOCKED) {GREEN,BOLD}Playground{RED,red}
+M 0 15200    10 15228    {YELLOW,BOLD}A {GREEN}Springfielder{RED,red}{WHITE,white}
+M 0 15200    10 15228    {YELLOW,BOLD}A {GREEN}Springfielder{RED,red}{WHITE,white}
+M 0 15230     4 15228    {YELLOW,BOLD}A {GREEN}Springfield {BLUE}Cop{WHITE,white}
+M 0 15230     4 15228    {YELLOW,BOLD}A {GREEN}Springfield {BLUE}Cop{WHITE,white}
+M 0 15215     1 15229    {GREEN,green}{GREEN}J{YELLOW}i{WHITE}m{YELLOW}b{GREEN}o{WHITE,white}
+M 0 15214     1 15229    {RED,red}K{GREEN}ea{YELLOW}r{GREEN}ne{GREEN}{WHITE}y
+M 0 15213     1 15229    {RED,red}{YELLOW}Apu {YELLOW,BOLD}Nahasapeemapetilon{WHITE,white}
+G 1 15211     1     0    {GREEN,BOLD}A {BLUE}Strange {GREEN}Lookin' {RED}key{RED,red}
+D 0 15229     0     2    (N:LOCKED) {CYAN,BOLD}Kwik{GREEN}-E-{CYAN}Mart{RED,red}
+M 0 15230     4 15230    {YELLOW,BOLD}A {GREEN}Springfield {BLUE}Cop{WHITE,white}
+M 0 15200    10 15230    {YELLOW,BOLD}A {GREEN}Springfielder{RED,red}{WHITE,white}
+M 0 15200    10 15230    {YELLOW,BOLD}A {GREEN}Springfielder{RED,red}{WHITE,white}
+M 0 15200    10 15230    {YELLOW,BOLD}A {GREEN}Springfielder{RED,red}{WHITE,white}
+M 0 15200    10 15231    {YELLOW,BOLD}A {GREEN}Springfielder{RED,red}{WHITE,white}
+D 0 15234     0     1    (N:CLOSED) {WHITE,BOLD}Entrance to the {YELLOW}H{GREEN}o{YELLOW}u{GREEN}s{YELLOW}e{bold}
+M 0 15216     1 15235    {RED,BOLD}Santa's {WHITE}Little {GREEN}Helper{WHITE,white}
+G 1 15206     2     0    {RED,red}The {RED,BOLD}Kitchen {RED,red}key{RED,red}
+M 0 15218     1 15235    {WHITE,WHITE}Grandpa {YELLOW}Simpson{WHITE,white}
+G 1 15208     2     0    {RED,red}{RED}The {RED,BOLD}Nuclear Plant {RED,red}key{RED,red}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+D 0 15235     2     1    (S:CLOSED) {YELLOW,BOLD}Foyer{bold}
+D 0 15237     0     2    (N:LOCKED) {BLUE,BOLD}Dining {GREEN}Room{bold}
+M 0 15219     1 15238    {BLUE,BOLD}Mar{YELLOW}ge {GREEN}Simp{YELLOW}so{RED}n{WHITE,white}
+E 1 15217     3    11    (SHIELD) {BLU,BO}Mar{bo}{BLU}ge's {B,BO}Skill{G}et{bo}
+D 0 15238     2     2    (S:LOCKED) {RED,BOLD}The Kitchen{RED,red}
+M 0 15217     1 15239    {WHITE,BOLD}Snowball {RED,red}{CYAN}II{WHITE,white}
+G 1 15207     2     0    {GREEN,green}{GREEN}The {GREEN,BOLD}Bedroom {RED,red}{GREEN}key{RED,red}
+D 0 15239     0     2    (N:LOCKED) {GREEN,BOLD}Second Floor Hallway{RED,red}
+M 0 15220     1 15241    {RED,BOLD}M{YELLOW}agg{RED}i{YELLOW}e {BLUE}Simpson{WHITE,white}
+E 1 15218     2     6    (HEAD) {Y,BO}Ma{bo}g{C}gi{C,BO}e's {B}Pac{BLU}ifier{bo}
+D 0 15241     2     0    (S:OPEN) {YELLOW,BOLD}Homer and {BLUE}Marge's {MAGENTA}Bedroom{RED,red}
+D 0 15242     1     2    (E:LOCKED) {YELLOW,BOLD}Bart Simpson's {RED,BOLD}Bedroom{RED,red}
+M 0 15231     1 15245    {RED,red}{CYAN}Chief Clancy Wiggum{WHITE,white}
+G 1 15212     2     0    {YELLOW,BOLD}Another {BLUE}Strange {YELLOW}Lookin' {RED}key{RED,red}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+D 0 15245     2     2    (S:LOCKED) {YELLOW,BOLD}End of {GREEN}Evergreen Terrace{RED,red}
+M 0 15223     1 15246    {RED,red}{YELLOW}Moe{WHITE,white}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15222     1 15246    {GREEN,green}{GREEN}Barney Gumble{RED,red}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15221     3 15246    {RED,red}{YELLOW}A Drunken {GREEN,BOLD}Customer{RED,red}{WHITE,white}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15221     3 15246    {RED,red}{YELLOW}A Drunken {GREEN,BOLD}Customer{RED,red}{WHITE,white}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15221     3 15246    {RED,red}{YELLOW}A Drunken {GREEN,BOLD}Customer{RED,red}{WHITE,white}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15224     1 15249    {BLUE,BOLD}The {CYAN}Nuclear {RED}Plant {YELLOW}Guard{WHITE,white}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15250    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15250    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15250    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15251    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15251    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15251    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15251    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15251    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15252    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15253    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15254    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+M 0 15225    36 15254    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15254    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15254    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15254    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15255    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15255    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15256    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15256    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15256    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15257    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15257    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15257    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15258    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15258    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15258    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15258    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15258    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15258    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15259    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15260    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15260    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15260    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15227     1 15260    {YELLOW,BOLD}Weyla{GREEN}nd Smi{CYAN}thers{WHITE,white}
+G 1 15209     2     0    {YELLOW,BOLD}Mr. Burn's Key{RED,red}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15260    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15261    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+M 0 15225    36 15261    {YELLOW,BOLD}An {GREEN}Employee{RED,red}{WHITE}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+D 0 15263     2     2    (S:LOCKED) {WHITE,BOLD}End of the {GREEN}Ma{GREEN,green}{GREEN}ze{RED,red}
+D 0 15263     3     2    (W:LOCKED) {WHITE,BOLD}End of the {GREEN}Ma{GREEN,green}{GREEN}ze{RED,red}
+M 0 15240     9 15264    {RED,red}A {RED,BOLD}Lawyer{WHITE,white}
+M 0 15240     9 15264    {RED,red}A {RED,BOLD}Lawyer{WHITE,white}
+M 0 15240     9 15264    {RED,red}A {RED,BOLD}Lawyer{WHITE,white}
+M 0 15240     9 15264    {RED,red}A {RED,BOLD}Lawyer{WHITE,white}
+M 0 15240     9 15264    {RED,red}A {RED,BOLD}Lawyer{WHITE,white}
+M 0 15240     9 15264    {RED,red}A {RED,BOLD}Lawyer{WHITE,white}
+M 0 15240     9 15264    {RED,red}A {RED,BOLD}Lawyer{WHITE,white}
+M 0 15240     9 15264    {RED,red}A {RED,BOLD}Lawyer{WHITE,white}
+M 0 15240     9 15264    {RED,red}A {RED,BOLD}Lawyer{WHITE,white}
+M 0 15228     1 15264    {YELLOW,BOLD}Charles {RED}Montgomery {MAGENTA}Burns{WHITE,white}
+E 1  3009   113     6    (HEAD) Random Stat Obj
+G 1 15210     1     0    {RED,red}{WHITE}The {RED,BOLD}Key {RED,red}to {RED,BOLD}Sector {RED,red}{RED}7G{RED,red}
+D 0 15264     0     0    (N:OPEN) {RED,BOLD}Mr. {YELLOW}B{RED}u{YELLOW}r{RED}n{YELLOW}'{RED}s {YELLOW}Office{RED,red}
+D 0 15265     0     1    (N:CLOSED) {GREEN,BOLD}Sector {RED,red}{CYAN}7G{RED,red}
+D 0 15265     1     0    (E:OPEN) {GREEN,BOLD}Sector {RED,red}{CYAN}7G{RED,red}
+M 0 15229     1 15266    {YELLOW,BOLD}Homer {WHITE}Simp{BLUE}son{WHITE,white}
+E 1 15219     2    16    (WIELD) {W,BO}A {B}Rod{W} of {G}Ura{bo}{G}nium{W} 235{bo}
+G 1 15223     3     0    {Y}Homer's{y}{b} {R}F{r}{b}{R}l{r}{R}a{r}{b}{R}m{r}{R}i{r}{b}{R}n{r}{R}g{r}{b} {Y}Donut{y}{b}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+D 0 15266     2     0    (S:OPEN) {RED,BOLD}SAFETY ROOM{RED,red}
+M 0 15234     1 15267    {RED,red}{GREEN}Apu's Brother{RED,red}
+D 0 15267     2     0    (S:OPEN) {RED,red}{YELLOW}Back of {YELLOW,BOLD}Kwik{RED,red}{YELLOW}-E-{YELLOW,BOLD}Mart{RED,red}
+M 0 15232     1 15268    {RED,BOLD}Mayor {CYAN}Quimby{WHITE,white}
+G 1 15213     4     0    {MAGENTA,BOLD}Yet Another {BLUE}Strange {MAGENTA}Lookin' {RED}key{RED,red}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+G 1 15201   243     0    {RED,BOLD}Duff {RED,red}{YELLOW}Beer{RED,red}
+D 0 15268     0     2    (N:LOCKED) {CYAN,BOLD}Back {BLUE,BOLD}Alleyway{RED,red}
+M 0 15233     1 15269    {RED,red}{YELLOW}Doris{RED,red}
+E 1 15221     4     7    (LEGS) {B,BO}A freshly {W}ironed{B} pair of {bo}khakis
+D 0 15269     4     2    (U:LOCKED) {RED,BOLD}Vault of {WHITE}Permanent {YELLOW}Records{RED,red}
+O 0 15220     3 15270    {RED,red}A {YELLOW}Rotting {RED,red}Tuxedo
+D 0 15270     3     0    (W:OPEN) {YELLOW,BOLD}Bart {WHITE,BOLD}Simpson's {BLUE}C{RED,red}l{BLUE,BOLD}o{RED,red}s{BLUE,BOLD}e{RED,red}t{RED,red}
+M 0 15238     4 15271    {MAGENTA,BOLD}A {BLUE}Scared {MAGENTA}Employee{bold}
+M 0 15237     4 15271    {BLUE,BOLD}A {RED}Bloodthirsty {BLUE}Employee{bold}
+M 0 15237     4 15271    {BLUE,BOLD}A {RED}Bloodthirsty {BLUE}Employee{bold}
+M 0 15237     4 15271    {BLUE,BOLD}A {RED}Bloodthirsty {BLUE}Employee{bold}
+M 0 15237     4 15271    {BLUE,BOLD}A {RED}Bloodthirsty {BLUE}Employee{bold}
+M 0 15238     4 15272    {MAGENTA,BOLD}A {BLUE}Scared {MAGENTA}Employee{bold}
+M 0 15238     4 15272    {MAGENTA,BOLD}A {BLUE}Scared {MAGENTA}Employee{bold}
+M 0 15236     4 15273    {GREEN,BOLD}A Deranged Employee{bold}
+M 0 15236     4 15273    {GREEN,BOLD}A Deranged Employee{bold}
+M 0 15236     4 15273    {GREEN,BOLD}A Deranged Employee{bold}
+M 0 15238     4 15273    {MAGENTA,BOLD}A {BLUE}Scared {MAGENTA}Employee{bold}
+M 0 15236     4 15273    {GREEN,BOLD}A Deranged Employee{bold}
+D 0 15274     5     1    (D:CLOSED) {bold}{YELLOW}The {CYAN}Janitor's {YELLOW}Closet{bold}
+D 0 15275     4     0    (U:OPEN) {bold}{RED}The {RED,BOLD}Generator {bold}{RED}Room{bold}
+D 0 15275     5     1    (D:CLOSED) {bold}{RED}The {RED,BOLD}Generator {bold}{RED}Room{bold}
+D 0 15276     4     1    (U:CLOSED) {BLUE,BOLD}Sub{bold}{CYAN}basement{bold}
+D 0 15276     5     0    (D:OPEN) {BLUE,BOLD}Sub{bold}{CYAN}basement{bold}
+$~

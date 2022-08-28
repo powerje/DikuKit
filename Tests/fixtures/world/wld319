@@ -1,0 +1,2627 @@
+#31900
+{bo,Y} A Tunnel {bo,y}~
+  
+  
+  {bo,YELLOW}This place appears to be a tunnel of some sort.  Rough-hewn granite
+  forms the walls and ceiling of the tube, but the floors have been
+  planed smoother. In fact, you can see a pair of grooves worn into the
+  floor, perhaps by the repeated passage of many carts.{bo,yellow}
+
+
+~
+319 12 0
+D1
+~
+~
+0 -1 31901
+D3
+~
+~
+0 -1 4014
+Z3
+C-1
+R0
+S
+#31901
+{bo,Y} Widening of the Tunnel {bo,y}~
+
+  {bo,YELLOW}From here, the tunnel's mouth widens to the east where you can see a
+  dim area, possibly a cavern.  You can occasionally see glints or
+  sparkles from that direction.  To the north you see a doorway cut into
+  the wall.  Piled outside the door are empty baskets, picks and shovels.{bo,yellow}
+  
+  
+~
+319 13 0
+D0
+~
+~
+0 -1 31902
+D1
+~
+~
+0 -1 31903
+D3
+~
+~
+0 -1 31900
+Z3
+C-1
+R0
+S
+#31902
+Kurg's Gem Purchasing Co., Inc.~
+  
+  
+  {BO,G}Upon entering this small shop, you are intimidated by the two burly
+  stone statues on either side of the door.  Even though their eyes are
+  stone, they glare at you under lowered brows.  Behind a lavish desk a
+  well dressed man shuffles papers, reaching from time to time into the
+  pile of uncut gems by his side.  A placard above the desk proclaims the
+  regulations of Kurg {BO,BLUE}Gem {bo,blue}Purchasing Company, Incorporated.{bo,g}
+  
+  
+  
+  
+~
+319 8200 1
+D2
+~
+~
+0 -1 31901
+E
+placard sign~
+It is the policy of Kurg's Gem Purchasing Co., Inc. to buy gems based only
+on the size of the gem, not by the type.  The standard prices are as follows:
+Chip              2,000 gold coins
+Small            50,000 gold coins
+Medium          300,000 gold coins
+Large           750,000 gold coins
+Exceptional   1,500,000 gold coins
+
+*** Kurg's Gem Purchasing Co., Inc. CAN NOT be held responsible for items
+    lost or stolen from careless adventurers. ***
+~
+X128
+Z3
+C-1
+R0
+S
+#31903
+{bo,M} Vaulted Antechamber {bo,m}~
+  
+  
+  {bo,M}The tunnel's roof shoots  sharply upward, relieving some of your
+  claustrophobia.  A number of creatures are busy attacking the chinks in
+  the walls with mining equipment.  A few of the greedy-eyed Kobolds dare
+  to pilfer some gemstones, but are quickly chased by their pick wielding
+  peers.  The thieves are politely persuaded to return the pilfered products.{bo,m}
+  
+  
+  
+  
+  
+~
+319 8 1
+D0
+~
+~
+0 -1 31904
+D1
+~
+~
+0 -1 31906
+D3
+~
+~
+0 -1 31901
+Z3
+C-1
+R0
+S
+#31904
+{bo,C}Tool Shed{bo,c}~
+  
+  
+  {bo,C}This empty shack probably held a number of picks and shovels at one
+  time.  Now, its walls are bare and the floor has nothing but dust thanks
+  to the generations of looters that have visited over the years.{bo,c}
+    
+  
+~
+319 8 1
+D2
+~
+~
+0 -1 31903
+Z3
+C-1
+R0
+S
+#31905
+{bo,Y}Off-Shoot of the Chamber{bo,y}~
+  
+  {bo,Y}This is little more than a narrow fault leading back further into the rock. 
+  It quickly closes from three directions as the ceiling and walls converge
+  to the back of the offshoot. Only the very dedicated kobolds bother to
+  inspect this area of the cavern.{bo,y}
+  
+    
+~
+319 9 1
+D1
+~
+~
+0 -1 31908
+Z3
+C-1
+R0
+S
+#31906
+{bo,Y}Southern End of the Cavern{bo,y}~
+  
+  {bo,Y}You can barely make out the ceiling of the cavern, stalactites reaching
+  to touch the stalagmites rising from the floor.  Not far away the
+  cavern ends at a corrugated wall, chipped and broken from the mining.{bo,y}
+  
+ 
+~
+319 8 1
+D0
+~
+~
+0 -1 31907
+D1
+~
+~
+0 -1 31910
+D3
+~
+~
+0 -1 31903
+Z3
+C-1
+R0
+S
+#31907
+{bo,Y}Cavernous Chamber{bo,y}~
+  
+  {bo,Y}The echo of pick on stone batters your ears from all directions.
+  The high ceiling is lost in the darkness. Lanterns illuminate the
+  dark a few feet above your head.  Cool air, the perpetual temperature
+  of the underground catacombs.  The musty smell is less strong here,
+  due to a slight breeze from a unseen vent in the ceiling.{bo,y}
+  
+  
+~
+319 8 1
+D0
+~
+~
+0 -1 31908
+D1
+~
+~
+0 -1 31911
+D2
+~
+~
+0 -1 31906
+Z3
+C-1
+R0
+S
+#31908
+{bo,Y} Northern End of the Cavern {bo,y}~
+  
+  {bo,Y}On this side of the cavern the rock is extremely broken.  Tumbled
+  masses are piled in many places, exposing weak areas in the stone.  A
+  number of dark openings are visible from where you stand.  Some are
+  large enough to enter.  Most barely large enough for a chr-eff'n to
+  pass through.{bo,y}
+  
+  
+~
+319 8 1
+D0
+~
+~
+0 -1 31909
+D1
+~
+~
+0 -1 31912
+D2
+~
+~
+0 -1 31907
+D3
+~
+~
+0 -1 31905
+Z3
+C-1
+R0
+S
+#31909
+{bo,Y} Crevice in the Rock{bo,y}~
+   
+  {bo,Y}The only way to get in or out of this crevice by holding one's breath,
+  leaving a fair amount of skin and sliding through a narrow gap
+  between two slabs of stone.  All told, this is a disappointing
+  crack for the gem-hunters.{bo,y}
+    
+    
+~
+319 9 1
+D1
+~
+~
+0 -1 31913
+D2
+~
+~
+0 -1 31908
+Z3
+C-1
+R0
+S
+#31910
+{bo,Y} Southern End of the Cavern{bo,y}~
+  
+
+  {bo,Y}You can barely make out the ceiling of the cavern, stalactites reaching
+  to touch the stalagmites rising from the floor.  Not far away the
+  cavern ends at a corrugated wall, chipped and broken from the mining.{bo,y}
+  
+  
+~
+319 8 1
+D0
+~
+~
+0 -1 31911
+D1
+~
+~
+0 -1 31915
+D3
+~
+~
+0 -1 31906
+Z3
+C-1
+R0
+S
+#31911
+{bo,Y} Cavernous Chamber{bo,y}~
+  
+  {bo,Y}The echo of pick on stone batters your ears from all directions.
+  The high ceiling is lost in the darkness. Lanterns illuminate the
+  dark a few feet above your head.  Cool air, the perpetual temperature
+  of the underground catacombs.  The musty smell is less strong here,
+  due to a slight breeze from a unseen vent in the ceiling.{bo,y}
+  
+  
+~
+319 8 1
+D0
+~
+~
+0 -1 31912
+D1
+~
+~
+0 -1 31916
+D2
+~
+~
+0 -1 31910
+D3
+~
+~
+0 -1 31907
+Z3
+C-1
+R0
+S
+#31912
+{bo,Y} Cavernous Chamber{bo,y}~
+  
+  {bo,Y}The echo of pick on stone batters your ears from all directions.
+  The high ceiling is lost in the darkness. Lanterns illuminate the
+  dark a few feet above your head.  Cool air, the perpetual temperature
+  of the underground catacombs.  The musty smell is less strong here,
+  due to a slight breeze from a unseen vent in the ceiling.{bo,y}
+  
+  
+~
+319 8 1
+D0
+~
+~
+0 -1 31913
+D1
+~
+~
+0 -1 31917
+D2
+~
+~
+0 -1 31911
+D3
+~
+~
+0 -1 31908
+Z3
+C-1
+R0
+S
+#31913
+{bo,Y} Northern End of the Cavern{bo,y}~
+  
+  {bo,Y}On this side of the cavern the rock is extremely broken.  Tumbled
+  masses are piled in many places, exposing weak areas in the stone.  A
+  number of dark openings are visible from where you stand.  Some are
+  large enough to enter.  Most barely large enough for a chr-eff'n to
+  pass through.{bo,y}
+  
+  
+~
+319 8 1
+D0
+~
+rock~
+1 -1 31914
+D1
+~
+~
+0 -1 31918
+D2
+~
+~
+0 -1 31912
+D3
+~
+~
+0 -1 31909
+Z3
+C-1
+R0
+S
+#31914
+{BO,R} Raiders' Hideout{bo,r}~
+   
+  {BO,R}Intruders!!{bo,R}  As you crawl into the room some extremely LARGE kobolds
+  express their displeasure at your trespassing.  Their faces have
+  nothing resembling rational thought and even less in the way of
+  congeniality.  Perhaps you should think of making a fast departure?{bo,r}
+    
+    
+~
+319 9 1
+D1
+~
+slab~
+1 -1 31919
+D2
+~
+rock~
+1 -1 31913
+Z3
+C-1
+R0
+S
+#31915
+{bo,Y} Southern End of the Cavern{bo,y}~
+  
+
+  {bo,Y}You can barely make out the ceiling of the cavern, stalactites reaching
+  to touch the stalagmites rising from the floor.  Not far away the
+  cavern ends at a corrugated wall, chipped and broken from the mining.{bo,y}
+  
+  
+~
+319 8 1
+D0
+~
+~
+0 -1 31916
+D1
+~
+~
+0 -1 31920
+D3
+~
+~
+0 -1 31910
+Z3
+C-1
+R0
+S
+#31916
+{bo,Y} Cavernous Chamber{bo,y}~
+  
+  {bo,Y}The echo of pick on stone batters your ears from all directions.
+  The high ceiling is lost in the darkness. Lanterns illuminate the
+  dark a few feet above your head.  Cool air, the perpetual temperature
+  of the underground catacombs.  The musty smell is less strong here,
+  due to a slight breeze from a unseen vent in the ceiling.{bo,y}
+  
+  
+~
+319 8 1
+D0
+~
+~
+0 -1 31917
+D1
+~
+~
+0 -1 31921
+D2
+~
+~
+0 -1 31915
+D3
+~
+~
+0 -1 31911
+Z3
+C-1
+R0
+S
+#31917
+{bo,Y} Cavernous Chamber{bo,y}~
+  
+  {bo,Y}The echo of pick on stone batters your ears from all directions.
+  The high ceiling is lost in the darkness. Lanterns illuminate the
+  dark a few feet above your head.  Cool air, the perpetual temperature
+  of the underground catacombs.  The musty smell is less strong here,
+  due to a slight breeze from a unseen vent in the ceiling.{bo,y}
+  
+  
+~
+319 8 1
+D0
+~
+~
+0 -1 31918
+D1
+~
+~
+0 -1 31922
+D2
+~
+~
+0 -1 31916
+D3
+~
+~
+0 -1 31912
+Z3
+C-1
+R0
+S
+#31918
+{bo,Y} Northern End of the Cavern{bo,y}~
+  
+  {bo,Y}On this side of the cavern the rock is extremely broken.  Tumbled
+  masses are piled in many places, exposing weak areas in the stone.  A
+  number of dark openings are visible from where you stand.  Some are
+  large enough to enter.  Most barely large enough for a chr-eff'n to
+  pass through.{bo,y}
+  
+  
+~
+319 8 1
+D1
+~
+~
+0 -1 31923
+D2
+~
+~
+0 -1 31917
+D3
+~
+~
+0 -1 31913
+Z3
+C-1
+R0
+S
+#31919
+{BO,BLACK} Crawlspace {bo,black}~
+  
+  
+  {BO,BLACK}Maybe you shouldn't have eaten those extra tarts?  This is a tight fit..
+  You're lucky to be able to breathe and move at the same time. 
+  Hopefully, it won't get any more narrow.{bo,black}
+  
+  
+~
+319 13 1
+D1
+~
+~
+0 -1 31924
+D3
+~
+slab~
+1 -1 31914
+Z3
+C1
+R0
+S
+#31920
+{bo,M} Southeastern corner of the Cavern {bo,m}~
+  
+  
+  {bo,M}You can just make out the ceiling.  There are stalactites reaching
+  to touch the stalagmites rising from the floor.  Not far away the
+  cavern ends at a corrugated wall, which is chipped and broken  
+  from the mining.  A shimmering curtain glows softly to the east,
+  and catching glints from the flecks of gems embedded in the
+  surrounding stones.  The curtain appears to be wavering slightly,
+  as though it is not as solid as it seems.{BO,R} 
+  
+  A *SIGN* is posted beside the shimmering curtain.{bo,r}
+   
+  
+~
+319 8 1
+D0
+~
+~
+0 -1 31921
+D1
+~
+~
+0 -1 31925
+D3
+~
+~
+0 -1 31915
+E
+sign~
+To insure your safety Kurg's Gemstone Purchasing Company, Inc. has placed a
+magical barrier here to reduce the risk of injury to younger explorers.
+Due to limited access to magic, Kurg's does not guarantee absolute protection
+and therefore will not accept responsibility for any loss, maiming or death
+experienced by those who choose to pass the field.  Thank you.
+~
+Z3
+C-1
+R0
+S
+#31921
+{BO,M} Estern Edge of the Cavern {bo,m}~
+  
+  
+  {BO,M}The shimmering curtain approaches along the eastern edge of the cavern,
+  it merges with the lowering stalactites and stalagmites that close just to the
+  north.  The floor begins a barely-noticeable slope as you move to the east.{bo,m}
+   
+  
+~
+319 8 1
+D0
+~
+~
+0 -1 31922
+D1
+~
+~
+0 -1 31925
+D2
+~
+~
+0 -1 31920
+D3
+~
+~
+0 -1 31916
+Z3
+C-1
+R0
+S
+#31922
+{BO,M} Estern Edge of the Cavern {bo,m}~
+  
+  
+  {bo,M}Stalactites close with the stalagmites, forming an imposing
+  lace closing off the rest of the cavern from this chamber.  There may
+  be a way through the stone deposits, but you see nothing apparent.
+  You can peek through the gaps in the stalactites and stalagmites and
+  catch a glimpse of narrow ledges continuing onward to the east.{bo,m}
+  
+~
+319 8 1
+D0
+~
+~
+0 -1 31923
+D1
+~
+stalagmite~
+1 -1 31926
+D2
+~
+~
+0 -1 31921
+D3
+~
+~
+0 -1 31917
+Z3
+C-1
+R0
+S
+#31923
+{BO,M} Estern Edge of the Cavern {bo,m}~
+  
+  
+  {bo,M}Stalactites close with the stalagmites, forming an imposing
+  lace closing off the rest of the cavern from this chamber.  There may
+  be a way through the stone deposits, but you see nothing apparent.
+  You can peek through the gaps in the stalactites and stalagmites and
+  catch a glimpse of narrow ledges continuing onward to the east.{bo,m}
+  
+~
+319 8 1
+D2
+~
+~
+0 -1 31922
+D3
+~
+~
+0 -1 31918
+Z3
+C-1
+R0
+S
+#31924
+{bo,R} Hidden Cache{bo,r}~
+  
+  {BO,R}At the end of the crawlspace, there is a natural basin.  The raiders
+  have piled their stash here.  No wonder they guarded this place so
+  zealously!{bo,r}
+  
+~
+319 9 1
+D3
+~
+~
+0 -1 31919
+Z3
+C-1
+R0
+S
+#31925
+{bo,BLUE} Unsure Footing {bo,blue}~
+  
+  
+  {bo,BLUE}Well, you had to be the daring one, didn't you?  You left the ledge to
+  pursue the lure of treasure and now you're in perilous straits.  The
+  rocks under you shift dangerously, requiring careful balance to keep
+  your footing.{bo,blue}
+  
+   
+  
+~
+319 1048584 1
+D5
+~
+~
+0 -1 31927
+M25
+Z3
+C-1
+R0
+S
+#31926
+{bo,Y} Narrow Ledge {bo,y}~
+  
+  
+  {bo,Y}You are forced to sidle your way along this ledge, sending tiny rocks
+  skittering down into the depths below you.  To the south of the ledge
+  is the yawning expanse of a crevasse whose nearer portions glisten
+  slightly in the dim light of your lamp.  Far below your light catches a
+  ray or two of something shiny.  Gems?  Or just the rusting equipment of
+  past fallen adventurers?{bo,y}
+  
+    
+~
+319 8 1
+D1
+~
+~
+0 -1 31928
+D2
+~
+~
+0 -1 31925
+D3
+~
+stalagmite~
+1 -1 31922
+Z3
+C-1
+R0
+S
+#31927
+{BO,Y} Funnel{bo,y}~
+  
+  
+  {BO,Y}What is this goo all over the place?  Something very slick coats the
+  rocks everywhere you can see.  Only now do you realize the nature of
+  this trap.  Sharply sloping floors funnel down to a single hole in the
+  nethermost part of the crevasse.{bo,y}
+  
+  
+~
+319 1048585 1
+D5
+~
+~
+0 -1 31936
+Z3
+C-1
+R0
+S
+#31928
+{bo,RED} Narrow Ledge{bo,red}~
+  
+  
+  {bo,Y}You are forced to sidle your way along this ledge, sending tiny rocks
+  skittering down into the depths below you.  To the south of the ledge
+  is the yawning expanse of a crevasse whose nearer portions glisten
+  slightly in the dim light of your lamp.  Far below your light catches a
+  ray or two of something shiny.  Gems?  Or just the rusting equipment of
+  past fallen adventurers?{bo,y}
+  
+    
+~
+319 9 1
+D1
+~
+~
+0 -1 31929
+D2
+~
+~
+0 -1 31925
+D3
+~
+~
+0 -1 31926
+Z3
+C-1
+R0
+S
+#31929
+{bo,R} Narrow Ledge{bo,r}~
+  
+  
+  {bo,Y}You are forced to sidle your way along this ledge, sending tiny rocks
+  skittering down into the depths below you.  To the south of the ledge
+  is the yawning expanse of a crevasse whose nearer portions glisten
+  slightly in the dim light of your lamp.  Far below your light catches a
+  ray or two of something shiny.  Gems?  Or just the rusting equipment of
+  past fallen adventurers?{bo,y}
+  
+    
+~
+319 9 1
+D1
+~
+~
+0 -1 31933
+D2
+~
+~
+0 -1 31925
+D3
+~
+~
+0 -1 31928
+D4
+~
+boulder~
+1 -1 31930
+Z3
+C-1
+R0
+S
+#31930
+{BO,Y} Outcropping{bo,y}~
+  
+  
+  {bo,Y}You are forced to sidle your way along this ledge, sending tiny rocks
+  skittering down into the depths below you.  To the south of the ledge
+  is the yawning expanse of a crevasse whose nearer portions glisten
+  slightly in the dim light of your lamp.  Far below your light catches a
+  ray or two of something shiny.  Gems?  Or just the rusting equipment of
+  past fallen adventurers?{bo,y}
+  
+    
+~
+319 13 1
+D5
+~
+boulder~
+1 -1 31929
+Z3
+C-1
+R0
+S
+#31931
+{BO,Y} Lower Ledge{bo,y}~
+  
+  
+  {BO,Y}A wider ledge slopes up to the north toward and melds where you might
+  be reasonably safe to rest for a bit.  You can see the floor just
+  beyond the ledge it drops off out of sight.  There are fewer loose pebbles
+  here, but the footing is still precarious.{bo,y}
+  
+  
+~
+319 9 1
+D0
+~
+~
+0 -1 31932
+D3
+~
+~
+0 -1 31925
+Z3
+C-1
+R0
+S
+#31932
+{bo,Y} Lower Ledge {bo,y}~
+  
+  
+  {BO,Y}A wider ledge slopes up to the north toward and melds where you might
+  be reasonably safe to rest for a bit.  You can see the floor just
+  beyond the ledge it drops off out of sight.  There are fewer loose pebbles
+  here, but the footing is still precarious.{bo,y}
+  
+  
+~
+319 9 1
+D0
+~
+~
+0 -1 31933
+D2
+~
+~
+0 -1 31931
+D3
+~
+~
+0 -1 31925
+Z3
+C-1
+R0
+S
+#31933
+{BO,Y} Melding of Pathways {bo,y}~
+  
+  
+  {BO,Y}A wider ledge slopes up to the north toward and melds where you might
+  be reasonably safe to rest for a bit.  You can see the floor just
+  beyond the ledge it drops off out of sight.  There are fewer loose pebbles
+  here, but the footing is still precarious.{bo,y}
+  
+  
+~
+319 9 1
+D0
+~
+~
+0 -1 31934
+D2
+~
+~
+0 -1 31932
+D3
+~
+~
+0 -1 31929
+Z3
+C-1
+R0
+S
+#31934
+Ornate Corridor~
+Some fanatic must have spent years carving out this portion of the
+catacombs.  The walls are gorgeously sculpted to resemble fine hardwood
+panelling, polished to a glossy hue.  If you had not touched the
+silvery grey oaken wall, you would have never realized it was actually
+cold stone.  What purpose could this have possibly served in the grand
+scheme of things?
+~
+319 9 1
+D0
+~
+~
+0 -1 31935
+D2
+~
+~
+0 -1 31933
+Z3
+C-1
+R0
+S
+#31935
+{BO,Y}Ornate Corridor{bo,y}~
+  
+  
+  {BO,Y}Some fanatic must have spent years carving out this portion of the
+  catacombs.  The walls are gorgeously sculpted to resemble fine hardwood
+  panelling, polished to a glossy hue.  If you had not touched the
+  silvery grey oaken wall, you would have never realized it was actually
+  cold stone.  What purpose could this have possibly served in the grand
+  scheme of things?{bo,y}
+  
+  
+~
+319 9 1
+D2
+~
+~
+0 -1 31934
+D4
+~
+stone-panel~
+2 31900 31939
+Z3
+C-1
+R0
+S
+#31936
+{BO,BLACK} Rough Landing{bo,black}~
+  
+  
+  {BO,BLACK}You crash to the floor at the outlet of the funnel, landing on a pile
+  of assorted broken bones and gems.  The slippery goo still coats
+  everything, but the floor is at least level. You are fairly certain you
+  can traverse the paths without much trouble.{bo,black}
+  
+  
+~
+319 9 1
+D1
+~
+~
+0 -1 31937
+Z3
+C-1
+R0
+S
+#31937
+{bo,BLACK} Slimy Cave{bo,black}~
+  
+  
+  {bo,BLACK}You finally discover the source of the trail of slime coating the
+  passage.  Reclining in the middle of the path, surrounded by a pool of
+  its own slime, is a huge blob of albino pale blubber.  Eeeewww!  The
+  giant slug's eyestalks swivel around to notice you standing at the
+  entrance to its lair.  Something tells you that you're going to have to
+  fight your way out of this one.{bo,black}
+  
+  
+~
+319 9 1
+D1
+~
+~
+0 -1 31938
+D3
+~
+~
+0 -1 31936
+Z3
+C-1
+R0
+S
+#31938
+{bo,BLACK} Path to Stable Ground{bo,black}~
+  
+  
+  {bo,BLACK}Toward the far end of the slug's slimy cave there is a narrow corner
+  which looks like there could be a way out.  The wall is quite rugged
+  here and should be easily climbable.  Fortunately, the slug does not
+  seem to have spread much of his goo in this corner of the lair and it
+  will not be too troublesome to climb out.
+  {bo,black}
+  
+  
+~
+319 9 1
+D3
+~
+~
+0 -1 31937
+D4
+~
+~
+0 -1 31931
+Z3
+C-1
+R0
+S
+#31939
+{BO,BLACK} Domed Chamber{bo,black}~
+  
+  
+  {bo,BLACK}The ornate corridor opens into an equally ornately carved chamber.  The
+  walls continue to echo the wood panelling motif, but the ceiling of the
+  chamber is a large dome, cut to resemble the facets of a premier
+  quality gemstone.  Five doors stand at points around the chamber
+  equidistant from each other.  Each has a unique seal emblazoned on its
+  face.{bo,black}
+  
+  
+~
+319 12 1
+D0
+~
+shield~
+2 31907 31961
+D1
+~
+gauntlet~
+2 31900 31940
+D2
+~
+boots~
+2 31912 31973
+D3
+~
+lamp~
+2 31903 31950
+D4
+~
+facet~
+2 31915 31985
+D5
+~
+stone-panel~
+1 -1 31935
+Z3
+C-1
+R0
+S
+#31940
+{BO,M} Amethyst Entryway {bo,m}~
+  
+  
+  {BO,M}You are blinded almost immediately upon entering this room by the
+  reflection of you lamps from hundreds of amethysts encrusted in the
+  walls of this area.  While your eyes become adjusted to the violet
+  glare from the room, you begin to notice the air is much drier than it
+  had been.  Surrounding you on the floor are numerous mottled reptiles
+  in purple hues.{bo,m}
+  
+  
+~
+319 8 1
+D1
+~
+~
+0 -1 31941
+D3
+~
+gauntlet~
+1 -1 31939
+Z3
+C-1
+R0
+S
+#31941
+{BO,M} Amethyst Entryway {bo,m}~
+  
+  
+  {BO,M}You are blinded almost immediately upon entering this room by the
+  reflection of you lamps from hundreds of amethysts encrusted in the
+  walls of this area.  While your eyes become adjusted to the violet
+  glare from the room, you begin to notice the air is much drier than it
+  had been.  Surrounding you on the floor are numerous mottled reptiles
+  in purple hues.{bo,m}
+  
+  
+~
+319 8 1
+D1
+~
+~
+0 -1 31942
+D3
+~
+~
+0 -1 31940
+Z3
+C-1
+R0
+S
+#31942
+{BO,M} Amethyst Entryway {bo,m}~
+  
+  
+  {BO,M}You are blinded almost immediately upon entering this room by the
+  reflection of you lamps from hundreds of amethysts encrusted in the
+  walls of this area.  While your eyes become adjusted to the violet
+  glare from the room, you begin to notice the air is much drier than it
+  had been.  Surrounding you on the floor are numerous mottled reptiles
+  in purple hues.{bo,m}
+  
+  
+~
+319 72 1
+D0
+~
+~
+0 -1 31943
+D3
+~
+~
+0 -1 31941
+Z3
+C-1
+R0
+S
+#31943
+{BO,M} Amethyst Entryway {bo,m}~
+  
+  
+  {BO,M}You are blinded almost immediately upon entering this room by the
+  reflection of you lamps from hundreds of amethysts encrusted in the
+  walls of this area.  While your eyes become adjusted to the violet
+  glare from the room, you begin to notice the air is much drier than it
+  had been.  Surrounding you on the floor are numerous mottled reptiles
+  in purple hues.{bo,m}
+  
+  
+~
+319 72 1
+D1
+~
+violet~
+2 31901 31944
+D2
+~
+~
+0 -1 31942
+Z3
+C-1
+R0
+S
+#31944
+{BO,M} Amethyst Corridor{bo,m}~
+  
+  
+  {BO,M}Continuing down the corridor the violet reflections dazzle your eyes
+  with their brilliance, but the increasing dryness makes you very
+  uncomfortable.  The hissing reptiles dart out of crevices and niches to
+  snap at your legs and feet.{bo,m}
+  
+  
+~
+319 72 1
+D1
+~
+~
+0 -1 31945
+D3
+~
+violet~
+1 -1 31943
+Z3
+C-1
+R0
+S
+#31945
+{BO,M} Amethyst Corridor{bo,m}~
+  
+  
+  {BO,M}Continuing down the corridor the violet reflections dazzle your eyes
+  with their brilliance, but the increasing dryness makes you very
+  uncomfortable.  The hissing reptiles dart out of crevices and niches to
+  snap at your legs and feet.{bo,m}
+  
+  
+~
+319 72 1
+D2
+~
+amethyst~
+2 31902 31946
+D3
+~
+~
+0 -1 31944
+Z3
+C-1
+R0
+S
+#31946
+{BO,M} Amethyst Corridor{bo,m}~
+  
+  
+  {BO,M}Continuing down the corridor the violet reflections dazzle your eyes
+  with their brilliance, but the increasing dryness makes you very
+  uncomfortable.  The hissing reptiles dart out of crevices and niches to
+  snap at your legs and feet.{bo,m}
+  
+  
+~
+319 72 1
+D0
+~
+amethyst~
+1 -1 31945
+D2
+~
+~
+0 -1 31947
+Z3
+C-1
+R0
+S
+#31947
+{BO,M} Amethyst Corridor{bo,m}~
+  
+  
+  {BO,M}Continuing down the corridor the violet reflections dazzle your eyes
+  with their brilliance, but the increasing dryness makes you very
+  uncomfortable.  The hissing reptiles dart out of crevices and niches to
+  snap at your legs and feet.{bo,m}
+  
+  
+~
+319 72 1
+D0
+~
+~
+0 -1 31946
+D3
+~
+~
+0 -1 31948
+Z3
+C-1
+R0
+S
+#31948
+{BO,M} Hall of Amethyst{bo,m}~
+  
+  {BO,M}The culmination of the passage is a grand hall carved from the inside 
+  of a giant amethyst crystal.  You can see only the deep purple depths
+  of this astounding phenomenon, making you wonder exactly how large this
+  could be.  The lack of humidity has become unbearable by this point,
+  your entire body feeling parched and weak.  Curled around itself, a
+  large dragon slumbers fitfully.  Throbbing echoes of the dragon's
+  heartbeat and breathing fill the room.{bo,m}
+
+
+~
+319 72 1
+D1
+~
+~
+0 -1 31947
+Z3
+C-1
+R0
+S
+#31949
+{BO,R} Ruby Narthex {bo,r}~
+  
+  {BO,R}Tall pillars of ruby line the entrance to this section of the hatchery.
+  Within the facets of the rubies along the walls, you begin to notice
+  the rounded shapes of eggs, hundreds of them.  Where a few have
+  already hatched, the ruby facets are crumbled and broken.  Signs show
+  the slow healing of the rubies, preparing themselves for the next
+  clutch of eggs.  Crimson whelps from the hatched eggs are creeling
+  hungrily around you.{bo,r}
+  
+  
+~
+319 8 1
+D0
+~
+~
+0 -1 31950
+Z3
+C-1
+R0
+S
+#31950
+{BO,R} Ruby Narthex {bo,r}~
+  
+  {BO,R}Tall pillars of ruby line the entrance to this section of the hatchery.
+  Within the facets of the rubies along the walls, you begin to notice
+  the rounded shapes of eggs, hundreds of them.  Where a few have
+  already hatched, the ruby facets are crumbled and broken.  Signs show
+  the slow healing of the rubies, preparing themselves for the next
+  clutch of eggs.  Crimson whelps from the hatched eggs are creeling
+  hungrily around you.{bo,r}
+  
+  
+~
+319 8 1
+D0
+~
+~
+0 -1 31951
+D1
+~
+lamp~
+1 -1 31939
+D2
+~
+~
+0 -1 31949
+Z3
+C-1
+R0
+S
+#31951
+{bo,R} Dimly Lit Ruby Corridor {bo,r}~
+  
+  
+  {bo,R}Along the corridor you see facets similar to those at the entryway.
+  These are much larger, however, and appear to be absorbing the light
+  from your lamps making it more difficult to see.  Emanating from the
+  walls you feel a growing heat touching your skin.{bo,r}
+  
+  
+~
+319 25 1
+D0
+~
+~
+0 -1 31952
+D2
+~
+~
+0 -1 31950
+Z3
+C-1
+R0
+S
+#31952
+{bo,R} Dimly Lit Ruby Corridor {bo,r}~
+  
+  
+  {bo,R}Along the corridor you see facets similar to those at the entryway.
+  These are much larger, however, and appear to be absorbing the light
+  from your lamps making it more difficult to see.  Emanating from the
+  walls you feel a growing heat touching your skin.{bo,r}
+  
+  
+~
+319 25 1
+D2
+~
+~
+0 -1 31951
+D3
+~
+~
+0 -1 31953
+Z3
+C-1
+R0
+S
+#31953
+{bo,R} Dimly Lit Ruby Corridor {bo,r}~
+  
+  
+  {bo,R}Along the corridor you see facets similar to those at the entryway.
+  These are much larger, however, and appear to be absorbing the light
+  from your lamps making it more difficult to see.  Emanating from the
+  walls you feel a growing heat touching your skin.{bo,r}
+  
+  
+~
+319 25 1
+D0
+~
+red~
+2 31904 31959
+D1
+~
+~
+0 -1 31952
+D3
+~
+~
+0 -1 31954
+Z3
+C-1
+R0
+S
+#31954
+{bo,R} Dimly Lit Ruby Corridor {bo,r}~
+  
+  
+  {bo,R}Along the corridor you see facets similar to those at the entryway.
+  These are much larger, however, and appear to be absorbing the light
+  from your lamps making it more difficult to see.  Emanating from the
+  walls you feel a growing heat touching your skin.{bo,r}
+  
+  
+~
+319 25 1
+D1
+~
+~
+0 -1 31953
+D2
+~
+~
+0 -1 31955
+Z3
+C-1
+R0
+S
+#31955
+{bo,R} Dimly Lit Ruby Corridor {bo,r}~
+  
+  
+  {bo,R}Along the corridor you see facets similar to those at the entryway.
+  These are much larger, however, and appear to be absorbing the light
+  from your lamps making it more difficult to see.  Emanating from the
+  walls you feel a growing heat touching your skin.{bo,r}
+  
+  
+~
+319 25 1
+D0
+~
+~
+0 -1 31954
+D2
+~
+~
+0 -1 31956
+Z3
+C-1
+R0
+S
+#31956
+{bo,R} Dimly Lit Ruby Corridor {bo,r}~
+  
+  
+  {bo,R}Along the corridor you see facets similar to those at the entryway.
+  These are much larger, however, and appear to be absorbing the light
+  from your lamps making it more difficult to see.  Emanating from the
+  walls you feel a growing heat touching your skin.{bo,r}
+  
+  
+~
+319 25 1
+D0
+~
+~
+0 -1 31955
+D2
+~
+~
+0 -1 31957
+Z3
+C-1
+R0
+S
+#31957
+{bo,R} Dimly Lit Ruby Corridor {bo,r}~
+  
+  
+  {bo,R}Along the corridor you see facets similar to those at the entryway.
+  These are much larger, however, and appear to be absorbing the light
+  from your lamps making it more difficult to see.  Emanating from the
+  walls you feel a growing heat touching your skin.{bo,r}
+  
+  
+~
+319 25 1
+D0
+~
+~
+0 -1 31956
+D1
+~
+ruby~
+2 31906 31958
+Z3
+C-1
+R0
+S
+#31958
+{BO,R}Hall of Ruby{bo,r}~
+  
+  
+  {BO,R}Like the Hall of Amethyst, this hall is cut from an impossibly large
+  gem into what looks like a temple of some sort.  Blistering heat
+  radiates from all sides, punishing you with its blazing fury.  An altar
+  dominates the far side of the hall, and behind it, a second dragon
+  rears to its full height and roars defiantly.{bo,r}
+  
+  
+~
+319 24 1
+D3
+~
+ruby~
+1 -1 31957
+Z3
+C-1
+R0
+S
+#31959
+{BO,R} Ruby Antechamber {bo,r}~
+  
+  
+  {BO,R}You feel yourself melting in the heat of this room, eyes stabbed by the
+  sudden brightness after the dim corridor.  The light in the antechamber
+  is glaring red, causing you to drop your eyes before it.  Looking
+  downward, you glimpse your own sweat beading on your skin and dripping
+  to the ruby tiles in what looks like a stream of blood due to the
+  glare.{bo,r}
+  
+  
+~
+319 24 1
+D0
+~
+crimson~
+2 31905 31960
+D2
+~
+red~
+1 -1 31953
+Z3
+C-1
+R0
+S
+#31960
+{BO,R} Ruby Antechamber {bo,r}~
+  
+  
+  {BO,R}You feel yourself melting in the heat of this room, eyes stabbed by the
+  sudden brightness after the dim corridor.  The light in the antechamber
+  is glaring red, causing you to drop your eyes before it.  Looking
+  downward, you glimpse your own sweat beading on your skin and dripping
+  to the ruby tiles in what looks like a stream of blood due to the
+  glare.{bo,r}
+  
+  
+~
+319 24 1
+D2
+~
+crimson~
+1 -1 31959
+Z3
+C-1
+R0
+S
+#31961
+{BO,G} Emerald Grove {bo,g}~
+  
+  
+  {BO,G}The view in this section of the hatchery is spectacular, and amazing to
+  behold.  A grove of trees somehow is growing underground in the
+  catacombs.  But these trees are nothing like those above ground with
+  their organic leaves.  The trunks are of pure silver, and from the
+  foliage a soft tinkling sound comes from the brushing of emerald leaves
+  upon each other.  As you walk through the grove, you spy a clearing a
+  bit to the north.{bo,g}
+  
+  
+~
+319 32777 1
+D0
+~
+~
+0 -1 31962
+D2
+~
+shield~
+1 -1 31939
+Z3
+C-1
+R0
+S
+#31962
+{BO,G}Emerald Gates{bo,g}~
+  
+  
+  {BO,G}The grove of unusual trees parts here to reveal three sets
+  of burnished steel gates. The gates are inlaid with an emerald
+  mosaic depicting a dragon in various positions.  To the north,
+  the dragon is rampant, clawing the air with its forelegs.  To the 
+  west, the mosaic shows the dragon with wings extended in flight.
+  To the east, the dragon is lounging on a mountaintop basking in
+  the sun.  Hovering above the three gates are tiny iridescent green
+  dragons peering down at you curiously.  {bo,g}
+  
+  
+~
+319 32777 1
+D0
+~
+rampant~
+2 31909 31967
+D1
+~
+basking~
+2 31910 31969
+D2
+~
+~
+0 -1 31961
+D3
+~
+flight~
+2 31908 31963
+Z3
+C-1
+R0
+S
+#31963
+{BO,G}Western Emerald Forest{bo,g}~
+  
+  
+  {BO,G}The young sapling trees of the grove have given way to the slender,
+  graceful trees in this section.  The colors of the leaves are vibrant,
+  surprising you with how many shades of emerald there can be.  Rain
+  patters down, making the emerald leaves chime in resonant tones.
+  Gazing upward, you are unsure if you see pairs of blinking eyes, or
+  merely rain glistening on the vivid gems.  {bo,g}
+  
+  
+~
+319 32777 1
+D0
+~
+~
+0 -1 31964
+D1
+~
+flight~
+1 -1 31962
+Z3
+C-1
+R0
+S
+#31964
+{BO,GREEN} Western Emerald Forest {bo,green}~
+  
+  
+  {BO,G}The young sapling trees of the grove have given way to the slender,
+  graceful trees in this section.  The colors of the leaves are vibrant,
+  surprising you with how many shades of emerald there can be.  Rain
+  patters down, making the emerald leaves chime in resonant tones.
+  Gazing upward, you are unsure if you see pairs of blinking eyes, or
+  merely rain glistening on the vivid gems.  {bo,g}
+  
+  
+~
+319 32777 1
+D0
+~
+~
+0 -1 31966
+D2
+~
+~
+0 -1 31963
+D3
+~
+~
+0 -1 31965
+Z3
+C-1
+R0
+S
+#31965
+{BO,GREEN} Western Emerald Forest {bo,green}~
+  
+  
+  {BO,G}The young sapling trees of the grove have given way to the slender,
+  graceful trees in this section.  The colors of the leaves are vibrant,
+  surprising you with how many shades of emerald there can be.  Rain
+  patters down, making the emerald leaves chime in resonant tones.
+  Gazing upward, you are unsure if you see pairs of blinking eyes, or
+  merely rain glistening on the vivid gems.  {bo,g}
+  
+  
+~
+319 32777 1
+D1
+~
+~
+0 -1 31964
+Z3
+C-1
+R0
+S
+#31966
+{BO,GREEN} Western Emerald Forest {bo,green}~
+  
+  
+  {BO,G}The young sapling trees of the grove have given way to the slender,
+  graceful trees in this section.  The colors of the leaves are vibrant,
+  surprising you with how many shades of emerald there can be.  Rain
+  patters down, making the emerald leaves chime in resonant tones.
+  Gazing upward, you are unsure if you see pairs of blinking eyes, or
+  merely rain glistening on the vivid gems.  {bo,g}
+  
+  
+~
+319 32777 1
+D2
+~
+~
+0 -1 31964
+Z3
+C-1
+R0
+S
+#31967
+{BO,GREEN} Western Emerald Forest {bo,green}~
+  
+  
+  {BO,G}The young sapling trees of the grove have given way to the slender,
+  graceful trees in this section.  The colors of the leaves are vibrant,
+  surprising you with how many shades of emerald there can be.  Rain
+  patters down, making the emerald leaves chime in resonant tones.
+  Gazing upward, you are unsure if you see pairs of blinking eyes, or
+  merely rain glistening on the vivid gems.  {bo,g}
+  
+  
+~
+319 32777 1
+D0
+~
+~
+0 -1 31968
+D2
+~
+rampant~
+1 -1 31962
+Z3
+C-1
+R0
+S
+#31968
+{BO,GREEN}Northern Emerald Forest {bo,green}~
+  
+  
+  {BO,G}The young sapling trees of the grove have given way to the slender,
+  graceful trees in this section.  The colors of the leaves are vibrant,
+  surprising you with how many shades of emerald there can be.  Rain
+  patters down, making the emerald leaves chime in resonant tones.
+  Gazing upward, you are unsure if you see pairs of blinking eyes, or
+  merely rain glistening on the vivid gems.  {bo,g}
+  
+  
+~
+319 32777 1
+D2
+~
+~
+0 -1 31967
+Z3
+C-1
+R0
+S
+#31969
+{BO,GREEN}Northern Emerald Forest {bo,green}~
+  
+  
+  {BO,G}The young sapling trees of the grove have given way to the slender,
+  graceful trees in this section.  The colors of the leaves are vibrant,
+  surprising you with how many shades of emerald there can be.  Rain
+  patters down, making the emerald leaves chime in resonant tones.
+  Gazing upward, you are unsure if you see pairs of blinking eyes, or
+  merely rain glistening on the vivid gems.  {bo,g}
+  
+  
+~
+319 32777 1
+D0
+~
+~
+0 -1 31970
+D3
+~
+basking~
+1 -1 31962
+Z3
+C-1
+R0
+S
+#31970
+{BO,GREEN}Northern Emerald Forest {bo,green}~
+  
+  
+  {BO,G}The young sapling trees of the grove have given way to the slender,
+  graceful trees in this section.  The colors of the leaves are vibrant,
+  surprising you with how many shades of emerald there can be.  Rain
+  patters down, making the emerald leaves chime in resonant tones.
+  Gazing upward, you are unsure if you see pairs of blinking eyes, or
+  merely rain glistening on the vivid gems.  {bo,g}
+  
+  
+~
+319 32777 1
+D0
+~
+~
+0 -1 31971
+D2
+~
+~
+0 -1 31969
+D4
+~
+emerald~
+2 31911 31972
+Z3
+C-1
+R0
+S
+#31971
+{BO,GREEN}Northern Emerald Forest {bo,green}~
+  
+  
+  {BO,G}The young sapling trees of the grove have given way to the slender,
+  graceful trees in this section.  The colors of the leaves are vibrant,
+  surprising you with how many shades of emerald there can be.  Rain
+  patters down, making the emerald leaves chime in resonant tones.
+  Gazing upward, you are unsure if you see pairs of blinking eyes, or
+  merely rain glistening on the vivid gems.  {bo,g}
+  
+  
+~
+319 32777 1
+D2
+~
+~
+0 -1 31970
+Z3
+C-1
+R0
+S
+#31972
+{BO,GREEN}Emerald Gazebo{bo,green}~
+  
+  
+  {BO,G}Embraced within the boughs of this grandmother of all trees is the
+  gazebo in which you now stand. Tendrils of the tree's own branches lace
+  together to form the walls of the gazebo, and thankfully provide enough
+  cover to shelter you from the pounding rain.  Draped across the central
+  beam of the gazebo, the green dragon blends well with the emerald
+  foliage.  Amazingly, it's ponderous weight does not topple the
+  precariously perched structure
+ {bo,g}
+  
+  
+~
+319 32777 1
+D5
+~
+emerald~
+1 -1 31970
+Z3
+C-1
+R0
+S
+#31973
+{BO,BLUE}Sapphire Dock{bo,blue}~
+  
+  
+  {BO,BLUE}You stand on a pier of a single sapphire jutting out into an expanse of
+  sparkling blue water.  Rising from the mirror placid lake are spears of
+  sapphire, pointing in various directions or clustered into mini-islets.
+  Your breath puffs as you exhale, the frigid air causing it to frost.
+  You become decidedly chilly when your clothes drenched from the emerald
+  forest begin to freeze.
+ {bo,blue}
+  
+  
+~
+319 41 1
+D0
+~
+boots~
+1 -1 31939
+D2
+~
+~
+0 -1 31974
+Z3
+C-1
+R0
+S
+#31974
+{BO,CYAN}Languid Lake{bo,cyan}~
+  
+  
+  {BO,CYAN}Pale blue waters ripple slightly below you as you make you way over the
+  lake.  The currents are sluggish, but the fish that dart under its
+  surface are anything but slow.  Circling the schools of fish are young
+  dragon whelps, seeking food.  Their tiny scales glimmer frosty blue
+  when touched by the rays of your light.
+  {bo,cyan}
+  
+  
+~
+319 297 7
+D0
+~
+~
+0 -1 31973
+D2
+~
+~
+0 -1 31975
+T31979
+Z3
+C-1
+R0
+S
+#31975
+{BO,CYAN}Languid Lake{bo,cyan}~
+  
+  
+  {BO,CYAN}Pale blue waters ripple slightly below you as you make you way over the
+  lake.  The currents are sluggish, but the fish that dart under its
+  surface are anything but slow.  Circling the schools of fish are young
+  dragon whelps, seeking food.  Their tiny scales glimmer frosty blue
+  when touched by the rays of your light.
+  {bo,cyan}
+  
+  
+~
+319 297 7
+D0
+~
+~
+0 -1 31974
+D2
+~
+~
+0 -1 31976
+T31979
+Z3
+C-1
+R0
+S
+#31976
+{BO,CYAN}Languid Lake{bo,cyan}~
+  
+  
+  {BO,CYAN}Pale blue waters ripple slightly below you as you make you way over the
+  lake.  The currents are sluggish, but the fish that dart under its
+  surface are anything but slow.  Circling the schools of fish are young
+  dragon whelps, seeking food.  Their tiny scales glimmer frosty blue
+  when touched by the rays of your light.
+  {bo,cyan}
+  
+  
+~
+319 297 7
+D0
+~
+~
+0 -1 31975
+D1
+~
+~
+0 -1 31977
+T31979
+Z3
+C-1
+R0
+S
+#31977
+{BO,CYAN}Languid Lake{bo,cyan}~
+  
+  
+  {BO,CYAN}Pale blue waters ripple slightly below you as you make you way over the
+  lake.  The currents are sluggish, but the fish that dart under its
+  surface are anything but slow.  Circling the schools of fish are young
+  dragon whelps, seeking food.  Their tiny scales glimmer frosty blue
+  when touched by the rays of your light.
+  {bo,cyan}
+  
+  
+~
+319 297 7
+D1
+~
+~
+0 -1 31978
+D3
+~
+~
+0 -1 31976
+T31979
+Z3
+C-1
+R0
+S
+#31978
+{BO,CYAN}Languid Lake{bo,cyan}~
+  
+  
+  {BO,CYAN}The air temperature drops the further over the water you go.  Snow
+  flurries eddy around you, the breeze swirls them past your body and
+  some cling to your stiff clothes.  Swooping and diving ecstatically
+  among the flakes are the whelps, little more than flitting snowdrops
+  themselves.
+  {bo,cyan}
+  
+  
+~
+319 297 7
+D0
+~
+~
+0 -1 31981
+D1
+~
+blue~
+2 31913 31979
+D3
+~
+~
+0 -1 31977
+T31979
+Z3
+C-1
+R0
+S
+#31979
+{BO,BLUE}Isle of View{bo,blue}~
+  
+  {BO,BLUE}You are able to pause on solid ground here for a short time.  Cobalt
+  blue barbs of sapphire are exposed from the lake here, a jagged edge
+  but nonetheless solid ground.  Floating on the lake's surface are
+  shining scales probably from the whelps fluttering around the lake's
+  shores and spires.  Small waves rise and fall, lapping at the sapphire
+  barbs and depositing a few more of the lost scales with each pass.
+    {bo,blue}
+  
+  
+~
+319 41 1
+D3
+~
+blue~
+1 -1 31978
+Z3
+C-1
+R0
+S
+#31980
+{BO,CYAN}Languid Lake{bo,cyan}~
+  
+  
+  {BO,CYAN}The air temperature drops the further over the water you go.  Snow
+  flurries eddy around you, the breeze swirls them past your body and
+  some cling to your stiff clothes.  Swooping and diving ecstatically
+  among the flakes are the whelps, little more than flitting snowdrops
+  themselves.
+  {bo,cyan}
+  
+  
+~
+319 297 7
+D3
+~
+~
+0 -1 31981
+T31979
+Z3
+C-1
+R0
+S
+#31981
+{BO,CYAN}Languid Lake{bo,cyan}~
+  
+  
+  {BO,CYAN}The air temperature drops the further over the water you go.  Snow
+  flurries eddy around you, the breeze swirls them past your body and
+  some cling to your stiff clothes.  Swooping and diving ecstatically
+  among the flakes are the whelps, little more than flitting snowdrops
+  themselves.
+  {bo,cyan}
+  
+  
+~
+319 297 7
+D1
+~
+~
+0 -1 31980
+D2
+~
+~
+0 -1 31978
+D3
+~
+~
+0 -1 31982
+T31979
+Z3
+C-1
+R0
+S
+#31982
+{BO,CYAN}Languid Lake{bo,cyan}~
+  
+  
+  {BO,CYAN}The air temperature drops the further over the water you go.  Snow
+  flurries eddy around you, the breeze swirls them past your body and
+  some cling to your stiff clothes.  Swooping and diving ecstatically
+  among the flakes are the whelps, little more than flitting snowdrops
+  themselves.
+  {bo,cyan}
+  
+  
+~
+319 297 7
+D0
+~
+~
+0 -1 31983
+D1
+~
+~
+0 -1 31981
+T31979
+Z3
+C-1
+R0
+S
+#31983
+{BO,CYAN}Languid Lake{bo,cyan}~
+  
+  
+  {BO,CYAN}By this time the snow has become a steady driving fall, making it
+  difficult to see more than a few feet ahead.  The wind buffets you and
+  stings your eyes with thin shards of ice from the storm.  The sapphire
+  spears have grown numerous, and you find you have lost sight of the
+  dock entirely with their crowding.  The once sluggish waters of the
+  lake have become slushy, congealing gradually into ice.
+  is a blue dragon, whose eyes are no more than a pair of icy chips
+  against its deep blue hide.  It raises its head and swivels it to
+  inspect you as you alight upon its island.
+  {bo,cyan}
+  
+  
+~
+319 41 7
+D0
+~
+sapphire~
+2 31914 31984
+D2
+~
+~
+0 -1 31982
+T31979
+Z3
+C-1
+R0
+S
+#31984
+{BO,W}Spires of Sapphire{bo,w}~
+  
+  
+  {BO,CYAN}Here the sapphire spears form an elaborate lattice and as a whole
+  resemble a tower with three primary spires.  The air is bitterly cold
+  in this area, and snow blankets the isle and dusts the spires
+  themselves with highlights of white.  Nestled amidst the three spires
+  is a blue dragon, whose eyes are no more than a pair of icy chips
+  against its deep blue hide.  It raises its head and swivels it to
+  inspect you as you alight upon its island.{bo,cyan}
+  
+  
+~
+319 40 1
+D2
+~
+sapphire~
+1 -1 31983
+Z3
+C-1
+R0
+S
+#31985
+{BO,BLACK}Atop the Domed Chamber{bo,black}~
+  
+  
+  {BO,CYAN}Here the sapphire spears form an elaborate lattice and as a whole
+  resemble a tower with three primary spires.  The air is bitterly cold
+  in this area, and snow blankets the isle and dusts the spires
+  themselves with highlights of white.  Nestled amidst the three spires
+  is a blue dragon, whose eyes are no more than a pair of icy chips
+  against its deep blue hide.  It raises its head and swivels it to
+  inspect you as you alight upon its island.{bo,cyan}
+  
+  
+~
+319 25 1
+D1
+~
+~
+0 -1 31986
+D5
+~
+facet~
+1 -1 31939
+Z3
+C-1
+R0
+S
+#31986
+{BO,BLACK}Twisting Burrow{bo,black}~
+  
+  
+  {BO,BLACK}Something tells you this was not dug by experts.  Sharp points appear
+  at irregular intervals to poke your hands and knees as you crawl, not
+  to mention the damage to your scalp.  The definition of a line for the
+  miners of this tunnel apparently was not 'straight'.{bo,black}
+  
+  
+~
+319 9 1
+D1
+~
+rubble~
+2 31901 31987
+D3
+~
+~
+0 -1 31985
+Z3
+C2
+R0
+S
+#31987
+{BO,BLACK}Torturous Corner{bo,black}~
+  
+  
+  {BO,BLACK}And you thought the twists and turns of the earlier burrows were tough,
+  that was a cakewalk compared to this angle in the burrow.  Turning at a
+  45 degree angle with all the equipment you're wearing isn't easy.{bo,black}
+  
+  
+~
+319 9 1
+D0
+~
+~
+0 -1 31988
+D3
+~
+rubble~
+1 -1 31986
+Z3
+C1
+R0
+S
+#31988
+{BO,BLACK}Twisting Burrow{bo,black}~
+  
+  
+  {BO,BLACK}Something tells you this was not dug by experts.  Sharp points appear
+  at irregular intervals to poke your hands and knees as you crawl, not
+  to mention the damage to your scalp.  The definition of a line for the
+  miners of this tunnel apparently was not 'straight'.{bo,black}
+  
+  
+~
+319 9 1
+D0
+~
+~
+0 -1 31989
+D2
+~
+~
+0 -1 31987
+Z3
+C2
+R0
+S
+#31989
+{BO,BLACK}Agonizing Angle{bo,black}~
+  
+  
+  {BO,BLACK}This bend in the tunnel was probably invented to punish those who
+  eschewed the light of the surface to plunder the breast of the mother
+  world.  No wait, that's not possible.  The idiots who dug this had to
+  have been lost!{bo,black}
+  
+  
+~
+319 9 1
+D2
+~
+~
+0 -1 31988
+D3
+~
+~
+0 -1 31990
+Z3
+C1
+R0
+S
+#31990
+{BO,BLACK}Twisting Burrow{bo,black}~
+  
+  
+  {BO,BLACK}Something tells you this was not dug by experts.  Sharp points appear
+  at irregular intervals to poke your hands and knees as you crawl, not
+  to mention the damage to your scalp.  The definition of a line for the
+  miners of this tunnel apparently was not 'straight'.  At last, you
+  begin to see the outlines of a bright light behind a boulder that was
+  probably placed to block an entrance.{bo,black}
+  
+  
+~
+319 25 1
+D1
+~
+~
+0 -1 31989
+D3
+~
+boulder~
+2 31905 31991
+Z3
+C-1
+R0
+S
+#31991
+{BO,WHITE}Crystalline Cavern{bo,white}~
+  
+  
+  {BO,WHITE}After the darkness of the burrows, your eyes are dazzled by the sudden
+  spray of rainbow colored light.  At some point the vein of clear
+  crystal that surrounds you must reach the surface to be able to refract
+  sunlight this far underground.  Gorgeous blocks and shapes of naturally
+  fractured crystal decorate the cavern from floor to ceiling.  Your nose
+  cringes at the scent of sulfur in the air, and the orange glow to the
+  south overpowers the softer tones of the rainbows.{bo,white}
+  
+  
+~
+319 24 1
+D0
+~
+~
+0 -1 31993
+D1
+~
+boulder~
+1 -1 31990
+D2
+~
+~
+0 -1 31992
+D3
+~
+shard~
+2 31916 31999
+Z3
+C-1
+R0
+S
+#31992
+{BO,RED}Batholith{bo,red}~
+  
+  
+  {BO,RED}The temperature in this bubbling cauldron of lava is approximately 1200
+  degrees centigrade.  This is certainly high enough to melt not only
+  your skin and bones, but also everything you are wearing and carrying.
+  
+  Sorry, you have been rendered inoperative.  But the chemicals of your
+  body will live forever as a form of igneous rock at some point in the
+  future.{bo,red}
+  
+  
+~
+319 16777242 1
+Z3
+C-1
+R0
+S
+#31993
+{BO,WHITE}Crystal Grotto{bo,white}~
+  
+  
+  {BO,WHITE}The heat fades as you move away from the first cavern, but the scent of
+  sulfur pervades the grotto relentlessly.  Small crystal abound here,
+  multicolored depending on the angle of the light.  The silence is
+  eerie, broken only by the tramp of your boots on the uneven crystalline
+  planes of the floor.  Periodically, eyes blink behind the crystals,
+  magnified by the thick minerals.{bo,white}
+  
+  
+~
+319 8 1
+D0
+~
+crystal~
+2 31910 31994
+D2
+~
+~
+0 -1 31991
+Z3
+C-1
+R0
+S
+#31994
+{BO,WHITE}Crystal Grotto{bo,white}~
+  
+  
+  {BO,WHITE}The heat fades as you move away from the first cavern, but the scent of
+  sulfur pervades the grotto relentlessly.  Small crystal abound here,
+  multicolored depending on the angle of the light.  The silence is
+  eerie, broken only by the tramp of your boots on the uneven crystalline
+  planes of the floor.  Periodically, eyes blink behind the crystals,
+  magnified by the thick minerals.{bo,white}
+  
+  
+~
+319 8 1
+D0
+~
+crystal~
+2 31913 31995
+D2
+~
+crystal~
+1 -1 31993
+Z3
+C-1
+R0
+S
+#31995
+{BO,WHITE}Crystal Grotto{bo,white}~
+  
+  
+  {BO,WHITE}The heat fades as you move away from the first cavern, but the scent of
+  sulfur pervades the grotto relentlessly.  Small crystal abound here,
+  multicolored depending on the angle of the light.  The silence is
+  eerie, broken only by the tramp of your boots on the uneven crystalline
+  planes of the floor.  Periodically, eyes blink behind the crystals,
+  magnified by the thick minerals.{bo,white}
+  
+  
+~
+319 8 1
+D0
+~
+crystal~
+2 31909 31996
+D2
+~
+crystal~
+1 -1 31994
+Z3
+C-1
+R0
+S
+#31996
+{BO,WHITE}Crystal Grotto{bo,white}~
+  
+  
+  {BO,WHITE}As you move through the subterranean tract, the crystals grow in size.
+  Larger crystals here seem to gleam on their own, rather than simply
+  project the light refracted from outside. The dragon whelps here are
+  more numerous for some reason, and much bolder than those past{bo,white}
+  
+  
+~
+319 8 1
+D0
+~
+crystal~
+2 31902 31997
+D2
+~
+crystal~
+1 -1 31995
+Z3
+C-1
+R0
+S
+#31997
+{BO,WHITE}Crystal Grotto{bo,white}~
+  
+  
+  {BO,WHITE}As you move through the subterranean tract, the crystals grow in size.
+  Larger crystals here seem to gleam on their own, rather than simply
+  project the light refracted from outside. The dragon whelps here are
+  more numerous for some reason, and much bolder than those past{bo,white}
+  
+  
+~
+319 8 1
+D0
+~
+crystal~
+2 31900 31998
+D2
+~
+crystal~
+1 -1 31996
+Z3
+C-1
+R0
+S
+#31998
+{BO,WHITE}End of the Grotto{bo,white}~
+  
+  
+  {BO,WHITE}You have reached the end of the grotto, but it is now obvious the
+  grotto is an enormous geode.  Huge polygons of crystal are jumbled
+  together here, blocking off any further passage in this direction.  The
+  light is blindingly bright and you can even see the source of the
+  sunlight at one point in the ceiling.  While you are gazing at the
+  ceiling, you see only a glimpse of the northern wall turning to face
+  you.{bo,white}
+  
+  
+~
+319 8 1
+D2
+~
+crystal~
+1 -1 31997
+Z3
+C-1
+R0
+S
+#31999
+{BO,WHITE}Crystalline Temple{bo,white}~
+  
+  
+  {BO,WHITE}A more awe-inspiring place you have never imagined.  Formed primarily
+  of the crystal from the geode, it is pristine white accented by
+  splashes of color from pillars of the other gemstones.  The outermost
+  pillars of amethyst brace the doorway, dominating the lower level of
+  the shrine.  The second level has pillars of ruby leading you to the
+  next plateau with emerald.  Last are the pillars of sapphire bracketing
+  a crystal altar{bo,white}
+  
+  
+~
+319 8 1
+D1
+~
+shard~
+1 -1 31991
+Z3
+C-1
+R0
+S
+$~

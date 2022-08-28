@@ -1,0 +1,706 @@
+#2000
+book blood~
+the Book of Blood~
+The Book of Blood rests on a marble pedastal in the middle of the room.~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+#2001
+potion sparkling~
+a sparkling potion of Immortality~
+The sparkling potion of Immortality is lying on the ground.~
+~
+10 65536 0 16385
+13 36 -1 -1
+1 3500 1
+E
+potion sparkling~
+Only for seekers of Immortality !!!!!
+~
+#2002
+board score PK~
+the PK Score Board~
+The PK Score Board stands here.~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+#2003
+leaf olive~
+{G}{BOLD}An olive leaf{g}{bold}~
+An olive leaf is sticking in the ground making a mellow mood in the room.~
+~
+9 4161 0 129
+2 0 0 0
+1 3500 3000
+E
+leaf olive~
+To get the power of the leaf ..... just drop it and rest there.
+~
+C
+7000 2
+#2004
+practomat practo~
+the practomat~
+A practomat is standing here, waiting for customers.~
+~
+12 2 0 0
+13 36 -1 -1
+1000 1 1
+E
+practomat practo~
+It's simply a dispenser for practice session. It will give you one
+session, when you have allready used all your session. Just push the
+red button on the front of the practomat.
+
+The price of one practice session is 50,000 coins/level at the moment
+which will be automatically withdrawn from your cash.
+
+(fine print: Avatar 35 and above only!)
+~
+E
+practomat practo~
+It's simply a dispenser for practice session. It will give you one
+session, when you have allready used all your session. Just push the
+
+The price of one practice session is 50,000 coins/level at the moment
+which will be automatically withdrawn from your cash.
+~
+#2005
+cashcard card cash atm~
+a cashcard~
+A cashcard lies on the ground.~
+~
+12 0 0 0
+0 0 0 0
+5000 10000 1000
+E
+card cashcard~
+This is your cashcard ... 
+Here are the instructions:
+
+Balance           : shows your balance.
+Withdraw <number> : receives money from your account.
+Deposit  <number> : puts money in your account.
+~
+#2006
+rose~
+Cyron's red rose~
+It's just a rose, but ......~
+~
+5 2147487744 0 8193
+2 3 4 11
+10 34464 100000
+E
+rose~
+This is a powerful weapon !!!!!
+~
+L
+25
+C
+900 40
+#2007
+needle clubneedle~
+the club-needle of the Underworld Society~
+The club-needle of the Underworld is lying on the ground.~
+~
+9 4161 0 25
+20 0 0 0
+1 3500 1
+E
+underworld needle~
+This is the needle of the Underworld.
+The Canucks are a peculiar club of people which is established at
+Northern Crossroads. The Club-house is north of the peaceful place.
+~
+C
+7000 2
+#2008
+statue olive~
+the olive club statue~
+The large and heavy olive club statue is resting in the middle of the room.~
+~
+12 0 0 0
+0 0 0 0
+12000 16960 1000
+E
+statue olive~
+You feel that the statue is surrounded by a healing aura. Maybe you
+should rest here ?
+~
+#2009
+sword living~
+the living sword~
+A living sword is crawling over the floor.~
+~
+5 4096 0 8193
+3 4 5 4
+12 350 200
+E
+sword living~
+It thinks........
+~
+C
+7000 1
+#2010
+sufferor~
+the Consequence Sufferor~
+The Consequence Sufferor is sticking in the ground.~
+~
+5 4096 0 8193
+1 3 5 4
+12 15000 10000
+E
+sufferor consequence~
+It resinates the power of death. It was the sword of STEALBLADE, the
+bold fighter who is without equal in VIEmud.
+~
+C
+7000 1
+#2011
+trap~
+Mallin's trap~
+It's just a trap, but ......~
+~
+14 0 0 1
+-1 2 3 4096
+8 350 200
+#2012
+newspaper star paper~
+The Northern Daily Star~
+A copy of the Northern Daily Star has been thrown away here.~
+~
+16 0 0 1
+0 0 0 0
+1 350 200
+E
+techno star newspaper~
+It says:
+
+Wanted: Dead or alive!!
+
+	A maniac by the name of Nemesis is running lose on the mud.
+Reward of 50,000 gold coins for the corpse of Nemesis.  Last seen on
+Northern Gateway on mv.ecf.toronto.edu ...........
+......unreadable becase Nemesis ate the other parts........
+~
+#2013
+newspaper sun paper~
+The Northern Sun~
+A dirty copy of the Northern Sun has been thrown away here.~
+~
+16 0 0 1
+0 0 0 0
+1 350 200
+E
+northern sun paper newspaper~
+It says:
+
+	Page 3.....ah....the Sunshine Girlbot!  Wow!  It's a model
+number 3000.  Dressed in a metallic grey bathing suit............
+......hey!!  the bottom half is gone!!!  Must be Nemesis...*sigh* 
+~
+#2014
+fork~
+an old fork~
+A bold wizard has left his old fork here.~
+~
+5 0 0 8193
+3 3 3 3
+8 350 200
+B
+4194304
+C
+7000 1
+#2015
+axe candy sweetness~
+The Candy Axe of Eternal Sweetness~
+The Candy Axe of Eternal Sweetness is here.~
+slices~
+5 64 0 8193
+0 2 7 3
+12 5000 2000
+A
+18 2
+A
+1 2
+C
+7000 1
+#2016
+hammer newbie~
+a newbie hammer~
+A newbie hammer is lying around here here.~
+~
+5 0 0 8193
+0 2 3 3
+5 500 200
+A
+18 1
+C
+7000 1
+#2017
+gun~
+a pirate's gun~
+An old gun of a pirate-mate is lying on a table.~
+~
+6 0 0 8193
+1 70 10 1
+5 500 200
+C
+7000 1
+#2018
+bullets~
+a bunch of lead bullets~
+A bunch of lead-bullets are lying here.~
+~
+25 0 0 1
+10 0 5 6
+1 500 200
+#2019
+projectils~
+a round of combat projectils~
+A round of combat-projectils is lying here.~
+~
+25 0 0 1
+30 0 10 10
+1 500 200
+#2020
+jackets jacket~
+a pack of full metal jackets~
+A pack of full metal jackets of WW II is sticking in the mud.~
+~
+25 0 0 1
+2 0 0 50
+2 1 1
+#2021
+MG~
+the 2nd WW MG~
+An MG of the 2nd WW is lying here.~
+~
+6 0 0 8193
+2 80 0 10
+1 1 1
+C
+7000 1
+#2022
+guide for newbies~
+A Guide for Newbies by Richter~
+You see a small golden book entitled 'Richter's Guide to Newbieism'~
+~
+16 65537 0 1
+0 0 0 0
+5 500 100
+E
+guide for newbies~
+SHORT AND PAINLESS GUIDE FOR NEWBIES-(Richter tm1993)
+*****************************************************
+1) TYPE 'HELP' FOR ALL COMMANDS FOR VIEMUD
+2) MAKE A MAP OF THE TOWN TO HELP YOU AROUND
+3) GO 'UP' FROM ST. STEPHANS CATHEDRAL FOR THE MUD SCHOOL
+4) GO 'UP' FROM NORTHERN ST. STEPHANS SQUARE FOR TRAINING
+5) BUY ANY SUPPLIES YOU NEED AT THE STORES IN TOWN
+6) WHEN GAME SAYS 'YOU ARE HUNGRY' THEN EAT!
+7) 'WEAR (ITEM)' FOR ARMOR, 'WIELD (WEAPON)' FOR WEAPON
+8) TYPE 'INV' TO SEE YOUR INVENTORY, 'HOLD NET' FOR THE NET 
+9) ANY QUESTIONS TYPE 'HELP (SUBJECT)' LIKE 'HELP CLUB'
+10) SOME PLAYERS MIGHT HELP YOU IF YOU ASK NICELY
+11) 'NORTH' OF THE CATHEDRAL IS THE MAIN MESSAGE BOARD
+     'L AT BOARD' FOR ITS USE...AND......H A V E  F U N!
+~
+#2023
+lasersword laser sword~
+Luke's laser-sword~
+Luke's lasersword is sticking in the sand.~
+~
+5 2 0 8193
+0 3 4 108
+6 20000 1
+E
+lasersword laser sword~
+This is a laser-sword made by LUKE SKYWALKER ....
+~
+A
+13 3
+A
+19 3
+B
+537133064
+C
+7000 0
+#2024
+corpse ancient~
+the corpse of the Ancient~
+The corpse of the Ancient sits at the food of the marble pedastal.~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+E
+The Ancient now rests here at the foot of the book that he so feared will fall
+into the hands of the Evil ones.  Now that you have found it, be sure you know
+what you wish to do.
+~
+#2025
+board agree agreeing agreement agreements~
+#2025
+board agree agreeing agreement agreements~
+#2025
+board agree agreeing agreement agreements~
+1 0 0 1
+1 1 1 1
+1 1 1
+#2026
+board nomination god appointment~
+The Board of Nomination for Appointment~
+1 0 0 1
+1 1 1 1
+1 1 1
+A
+1 1
+#2027
+board idea~
+1 0 0 1
+1 1 1 1
+1 1 1
+#2028
+board promotion promo~
+The Board of Promotion Requests!~
+A Board for Promotion Requests . . .~
+1 0 0 1
+1 1 1 1
+1 1 1
+#2029
+board contest~
+The Board of Contests!~
+A Board for Contests . . .~
+~
+1 0 0 1
+1 1 1 1
+1 1 1
+#2030
+board bulletin ruinan~
+Ruinan's Data Board~
+You see Ruinan's data terminal board on the wall.~
+~
+13 0 0 0
+0 0 0 0
+0 0 0
+E
+board bulletin ruinan~
+All wired up!
+~
+#2031
+tag dog~
+a dog tag with a sign on it.~
+There's a little dog tag on a collar lying around here.~
+~
+9 8448 0 5
+5 0 0 0
+1 3000 700
+E
+sign~
+rabies vaccination for 1993
+~
+E
+tag dog~
+You see a little collar with a tag hanging on it.
+On a closer look you see a small sign too.
+~
+A
+5 2
+A
+12 -10
+B
+8192
+C
+7000 1
+#2032
+hundekuchen kuchen~
+a Hundekuchen~
+You see a tasty Hundekuchen lying here in the dirt.~
+~
+19 0 0 1
+10 0 0 0
+1 30 1
+E
+hundekuchen kuchen~
+This is a real tasty Hundekuchen... but don't eat! Just for dogs!!!!
+~
+#2033
+desinfector wc~
+a WC-Desinfector~
+You see a WC-Desinfector standing in the corner.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+E
+desinfector wc~
+The label says:
+
+    WC-ENTE
+Q
+~
+#2034
+board bulletin reviewers~
+Reviewers Bulletin Board~
+A large chalkboard with REVIEWERS scribbled across the top...~
+~
+13 0 0 0
+0 0 0 0
+5000 1 1
+#2038
+beer duncans~
+Duncan's beer~
+Duncan's beer is here. Ahh that smells GOOOOD!~
+~
+17 0 0 24577
+20 20 1 0
+1 1 1
+#2039
+broom duncans~
+a golden broom~
+A golden broom hoovers in the air. WHRUUUM,  WHRUUUM.~
+~
+12 65795 0 8193
+0 0 0 0
+16 1 10000
+E
+broom duncans~
+The broom is made from pure gold and decorated with a lot of jewelry. It is
+a worthy symbol of the special abilities his bearer calls his own.
+Thereis a small sign with some engraved signs on it.
+~
+E
+sign engravement~
+To my good old friend and prooven comrade
+                                   Roger Wilco
+~
+A
+11 100
+A
+11 100
+B
+1073742336
+#2040
+printout x~
+a computer printout~
+A computer printout is flapping in the wind.~
+~
+11 65539 0 16385
+0 0 0 0
+1 8000 800
+E
+printout x~
+Its a common computer printout full of hexadecimal digits. You admire all
+the people, who can read this. And you feel sure, this paper full of such
+important numbers will increase your ability in learning and practizing.
+~
+A
+4 2
+A
+3 2
+#2050
+sword mystic~
+A mystic sword~
+Apolo's mystic sword is emitting golden light.~
+~
+5 12288 0 8193
+3 10 3 3
+12 350 200
+A
+19 8
+A
+18 8
+B
+512
+L
+25
+C
+0 1
+#2051
+sword long~
+A long sword~
+You see a long sword lying on the floor..~
+~
+5 12292 0 8193
+1 5 9 104
+30 16960 100000
+A
+18 20
+A
+19 25
+B
+855900860
+C
+7000 0
+#2080
+board personal morlock~
+Morlock's Personal Message Board~
+Morlock's Personal Message Board floats around the room.~
+~
+13 4096 0 0
+0 0 0 0
+0 0 0
+L
+20
+#2081
+board bulletin wizard wiz~
+the Wizard's Bulletin Board~
+The large Wizard's Bulletin Board is standing here.~
+~
+13 0 0 0
+0 0 0 0
+0 0 0
+#2082
+board bulletin god~
+the God's Bulletin Board~
+The large God's Bulletin Board is standing here.~
+~
+13 0 0 0
+0 0 0 0
+0 0 0
+#2083
+board bulletin high god hgod~
+the High God's Bulletin Board~
+The large High God's Bulletin Board is standing here.~
+~
+13 0 0 0
+0 0 0 0
+0 0 0
+#2084
+board bulletin quest questing~
+the Questing Bulletin Board~
+The large Questing Bulletin Board is standing here.~
+~
+13 0 0 0
+0 0 0 0
+0 0 0
+#2085
+board bulletin executive exec~
+the Executive Bulletin Board~
+The large Executive Bulletin Board is standing here.~
+~
+13 0 0 0
+0 0 0 0
+0 0 0
+#2086
+board bulletin committee comm~
+the COMMITTEE's Bulletin Board~
+The large COMMITTEE's Bulletin Board is standing here.~
+~
+13 0 0 0
+0 0 0 0
+0 0 0
+#2087
+board bulletin poetry~
+Forge's Poetry Bulletin Board~
+Forge's Poetry Board is standing here.~
+~
+13 0 0 0
+0 0 0 0
+0 0 0
+#2088
+board bulletin unknown~
+Unknown's Private Bulletin Board~
+The large Bulletin Board of Unknown is standing here.~
+~
+13 0 0 0
+0 0 0 0
+0 0 0
+E
+board~
+Use "Look AT board" to see a listing of the messages.
+Use "Read <message number>" to read a message and
+    "Remove <message number>" to remove a message.
+
+With <write to: Name> you can write personal messages
+that can only be written/deleted by the receiver or
+the sender.
+~
+#2089
+board bulletin encino~
+Encino's Personal Message Board~
+Encino's Personal Message Board is standing here.~
+~
+13 0 0 0
+0 0 0 0
+0 0 0
+#2090
+board bulletin forge~
+Forge's Personal Message Board~
+Forge's Personal Message Board is standing here.~
+~
+13 0 0 0
+0 0 0 0
+0 0 0
+#2091
+board bulletin lsd~
+LSD's Personal Message Board~
+LSD's Personal Message Board is standing here.~
+~
+13 0 0 0
+0 0 0 0
+0 0 0
+#2092
+board bulletin ottomix~
+Ottomix's Personal Message Board~
+Ottomix's Personal Message Board is standing here.~
+~
+13 0 0 0
+0 0 0 0
+0 0 0
+#2093
+board bulletin club~
+Immortal Request Board~
+{BO,Y}A great board stands here with the names of those wishing to gain IMMORTALITY.{bo}~
+~
+13 0 0 0
+0 0 0 0
+0 0 0
+#2094
+board bulletin rygar~
+Rygar's Personal Message Board~
+Rygar's Personal Message Board is standing here.~
+~
+13 0 0 163841
+0 0 0 0
+1 0 0
+A
+3 -100
+A
+4 -100
+#2095
+board bulletin caveman~
+Caveman's Personal Message Board~
+Caveman's Personal Message Board is standing here.~
+~
+13 0 0 0
+0 0 0 0
+0 0 0
+#2096
+board bulletin ncc chronicles~
+NCC Message Board~
+The NCC Message Board is standing here.~
+~
+13 0 0 0
+0 0 0 0
+0 0 0
+#2097
+board bulletin spec proc~
+Spec Proc Request Board~
+The Spec Proc Request Board is standing here.~
+~
+13 0 0 0
+0 0 0 0
+0 0 0
+#2098
+board bulletin quest~
+Quest Idea/Discussion Board~
+The Quest Idea/Discussion Board is standing here.~
+~
+13 0 0 0
+0 0 0 0
+0 0 0
+$~

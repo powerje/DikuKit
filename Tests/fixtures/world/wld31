@@ -1,0 +1,1462 @@
+#3100
+Northwest end of Concourse~
+  You are at the concourse, the city wall is just west.  A small promenade
+goes east, and the bridge is just north of here.  The concourse continues
+south along the city wall.
+~
+31 0 0
+D0
+You see the Bridge.
+~
+~
+0 -1 3051
+D1
+You see the promenade.
+~
+~
+0 -1 3101
+D2
+You see the tunnel under the Clock Tower.
+~
+~
+0 -1 13035
+Z3
+C-1
+S
+#3101
+Promenade~
+  The river gently flows west just north of here.  The promenade continues
+further east and to the west you see the city wall.  Park Road leads south
+from here.
+~
+31 0 0
+D1
+The promenade.
+~
+~
+0 -1 3102
+D2
+Park Road leads south.
+~
+~
+0 -1 3131
+D3
+You see the Concourse.
+~
+~
+0 -1 3100
+Z3
+C-1
+S
+#3102
+Promenade~
+  The river gently flows west just north of here.  The promenade continues
+both east and west.  South of here you see the entrance to the park, and a
+small building seems to be just west of the entrance.
+~
+31 0 0
+D1
+You see the promenade.
+~
+~
+0 -1 3103
+D2
+You see the park entrance.
+~
+~
+0 -1 3105
+D3
+You see the promenade.
+~
+~
+0 -1 3101
+Z3
+C-1
+S
+#3103
+Promenade~
+  The river gently flows west just north of here.  The promenade continues
+both east and west.  A small path leads south.  Looking across the river you
+see the levee.
+~
+31 0 0
+D1
+You see the Concourse.
+~
+~
+0 -1 3104
+D2
+The small path leads south.
+~
+~
+0 -1 3132
+D3
+You see the promenade.
+~
+~
+0 -1 3102
+Z3
+C-1
+S
+#3104
+Northeast end of Concourse~
+  You are at the Concourse.  The city wall is just east and a small
+promenade goes west.  Looking across the river you see a building that
+resembles a warehouse.  The Concourse continues south along the city wall.
+~
+31 0 0
+D0
+You see the Bridge.
+~
+~
+0 -1 13027
+D2
+The Concourse Continues.
+~
+~
+0 -1 13028
+D3
+You see the promenade.
+~
+~
+0 -1 3103
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+Z3
+C-1
+S
+#3105
+Park Entrance~
+  You are standing just inside the small park of Midgaard.  To the north is
+the promenade and a small path leads south into the park.  To your east is
+the famous Park Cafe.
+~
+31 4 0
+D0
+You see the promenade.
+~
+~
+0 -1 3102
+D1
+You see Park Cafe.
+~
+~
+0 -1 3106
+D2
+You see the park.
+~
+~
+0 -1 3108
+Z3
+C-1
+S
+#3106
+Park Cafe~
+  You are inside Park Cafe, a very well lighted, cosy place. The cafe
+is built from large logs. Through the windows in the northern wall you
+see the river, and through the southern window you see many vigorous
+colourful plants.
+~
+31 8 0
+D3
+You see the park entrance.
+~
+~
+0 -1 3105
+Z3
+C-1
+S
+#3107
+Small path through the park~
+  You are walking along a small path through the park.  The path continues
+south and east.
+~
+31 0 0
+D1
+(null)~
+~
+0 -1 3108
+D2
+(null)~
+~
+0 -1 3113
+Z3
+C-1
+S
+#3108
+Small path in the park~
+  You are standing on a small path inside the park.  The park entrance is
+just north of here, and Park Cafe is just east of the entrance.  The path
+leads further east and west.
+~
+31 0 0
+D0
+You see the northern park entrance.
+~
+~
+0 -1 3105
+D1
+(null)~
+~
+0 -1 3109
+D3
+(null)~
+~
+0 -1 3107
+Z3
+C-1
+S
+#3109
+Small path in the park~
+  You are on a small path running through the park.  It continues west and
+south and just north of here you see the southern wall of Park Cafe.
+~
+31 0 0
+D2
+(null)~
+~
+0 -1 3115
+D3
+(null)~
+~
+0 -1 3108
+Z3
+C-1
+S
+#3110
+Cityguard Head Quarters~
+  You are inside a tidy office.
+~
+31 8 0
+D1
+You see the park road.
+~
+door~
+1 3120 3111
+Z3
+C-1
+S
+#3111
+Park Road~
+  The road continues north and south.  A building is just west of here, you
+notice a sign on the door.  The park entrance is to the east.
+~
+31 0 0
+D0
+(null)~
+~
+0 -1 3131
+D1
+You see the park entrance.
+~
+~
+0 -1 3112
+D2
+(null)~
+~
+0 -1 3118
+D3
+You see the cityguard head quarters.
+~
+door~
+1 3120 3110
+E
+building door sign~
+The sign on the door says:-
+
+                 Cityguard Head Quarters
+
+           WARNING: Authorized Personnel Only!
+~
+Z3
+C-1
+S
+#3112
+Western Park Entrance~
+  You are standing at the western end of the park.  A small path leads east
+into the park and going west through the entrance you will reach Park Road.
+~
+31 4 0
+D1
+(null)~
+~
+0 -1 3113
+D3
+(null)~
+~
+0 -1 3111
+Z3
+C-1
+S
+#3113
+A path in the park~
+  You are in the park.  The paths lead north and west.  Westwards is the
+park entrance and to the east you see a small pond.
+~
+31 0 0
+D0
+(null)~
+~
+0 -1 3107
+D1
+You see the pond.
+~
+~
+0 -1 3114
+D3
+You see the western park entrance.
+~
+~
+0 -1 3112
+Z3
+C-1
+S
+#3114
+The Pond~
+  You are swimming around in the pond, feeling rather stupid.  You can get
+back on the path from the eastern and western end of the pond.
+~
+31 0 6
+D1
+(null)~
+~
+0 -1 3115
+D3
+(null)~
+~
+0 -1 3113
+Z3
+C-1
+S
+#3115
+A path in the park~
+  You are in the park.  The paths lead north and east.  Eastwards is the
+park entrance and to the west you see a small pond.
+~
+31 0 0
+D0
+(null)~
+~
+0 -1 3109
+D1
+(null)~
+~
+0 -1 3116
+D3
+(null)~
+~
+0 -1 3114
+Z3
+C-1
+S
+#3116
+Eastern Park Entrance~
+  You are standing at the eastern end of the park.  A small path leads west
+into the park.  Going east through the entrance you will reach Emerald
+Avenue.
+~
+31 4 0
+D1
+(null)~
+~
+0 -1 3117
+D3
+(null)~
+~
+0 -1 3115
+Z3
+C-1
+S
+#3117
+Emerald Avenue~
+  You are standing on the north end of Emerald Avenue.  To the north is the
+promenade and to the west is the park entrance.  To the east is the not very
+big Town Hall of Midgaard.
+~
+31 0 0
+D0
+(null)~
+~
+0 -1 3132
+D1
+(null)~
+~
+0 -1 3137
+D2
+(null)~
+~
+0 -1 3119
+D3
+(null)~
+~
+0 -1 3116
+Z3
+C-1
+S
+#3118
+Park Road~
+  You are on Park Road which leads north and south.
+~
+31 0 0
+D0
+(null)~
+~
+0 -1 3111
+D2
+(null)~
+~
+0 -1 3135
+Z3
+C-1
+S
+#3119
+Emerald Avenue~
+  You are standing on the Emerald Avenue. The entrance to the local smithy
+is in the west. The road leads north and south.
+~
+31 0 0
+D0
+(null)~
+~
+0 -1 3117
+D1
+You see the Healer-Shop.
+~
+~
+0 -1 3074
+D2
+(null)~
+~
+0 -1 3133
+D3
+(null)~
+~
+0 -1 3142
+Z3
+C-1
+S
+#3120
+Road Crossing~
+  You are in the middle of the road cross.  Roads lead in all directions.
+A huge black iron chain as thick as a tree trunk is fastened into the ground
+at the centre of the road cross.  Its other end leads directly upwards towards
+the sky.
+A road sign is here.
+~
+31 0 0
+D0
+(null)~
+~
+0 -1 3133
+D1
+(null)~
+~
+0 -1 3136
+D2
+(null)~
+~
+0 -1 3134
+D3
+(null)~
+~
+0 -1 3135
+D4
+~
+~
+0 -1 8084
+E
+sign~
+The sign points in all directions:
+
+   North - Emerald Avenue.
+   East  - Park Road.
+   South - Emerald Avenue.
+   West  - Park Road.
+
+Someone has added the following with red paint:
+
+   Up    - Redferne's Flying Citadel.
+~
+E
+chain~
+The chain reaches the clouds high above you.  It must take some really
+powerful magic to hold such a chain in place.
+~
+Z3
+C-1
+S
+#3121
+Emerald Avenue~
+  You are standing at a bend on Emerald Avenue.  The road leads south and
+east.
+~
+31 0 0
+D1
+(null)~
+~
+0 -1 3134
+D2
+(null)~
+~
+0 -1 3125
+Z3
+C-1
+S
+#3122
+Park Road~
+  You are on Park Road which leads south and north.  Elm Street is east of
+here.
+~
+31 0 0
+D0
+(null)~
+~
+0 -1 3136
+D1
+(null)~
+~
+0 -1 3123
+D2
+(null)~
+~
+0 -1 3126
+Z3
+C-1
+S
+#3123
+Elm Street~
+  You are on Elm street.  Park Road is to the west and Elm Street continues
+in eastward direction.
+~
+31 0 0
+D1
+(null)~
+~
+0 -1 3124
+D3
+(null)~
+~
+0 -1 3122
+Z3
+C-1
+S
+#3124
+End of Elm Street~
+  You are at the end of Elm Street.  You see an old boarded up building to
+the north.  An old elm tree grows here.
+~
+31 0 0
+D1
+(null)~
+~
+0 -1 13029
+D3
+(null)~
+~
+0 -1 3123
+E
+elm tree~
+The fresh young leaves of the elm tree wave gently in the wind.
+~
+E
+building boarded old~
+There is a sign on the door saying "FYS moved due to recent jump in property
+taxes."
+~
+Z3
+C-1
+S
+#3125
+Emerald Avenue~
+  You are on Emerald Avenue which continues north.  The Concourse is south
+of here.
+~
+31 0 0
+D0
+(null)~
+~
+0 -1 3121
+D2
+(null)~
+~
+0 -1 3128
+Z3
+C-1
+S
+#3126
+Park Road~
+  You are on Park Road which continues north.  The Concourse is south of
+here. An old two storey house is to the east.
+~
+31 0 0
+D0
+(null)~
+~
+0 -1 3122
+D1
+A heavy oaken door is to the east.~
+door~
+2 3301 6904
+D2
+(null)~
+~
+0 -1 3129
+E
+door knocker~
+As you look at it, the goblin door knocker comes alive!
+
+The head splutters 'Tiz iz da houze uff Kwiff... Kuiffe... Qwiff... Erhm...'
+The head splutters 'Quiff... Quiffil...  Ne'er mind!  Quiffy livez ere!'
+
+It opens its mouth wide and gobbles 'Unlokk me!'
+~
+E
+house~
+The house is obviously very old and needs painting.  The heavy oaken door is
+equipped with a brass door knocker shaped as a goblin's head.  No name plate
+is to be seen anywhere.
+~
+Z3
+C-1
+S
+#3127
+On the Concourse~
+  You are at the southwest corner of the city wall.  The Concourse leads
+both north and east.  To the south you see the Star Battle Grounds.
+~
+31 0 0
+D0
+You see the tunnel under the Clock Tower.
+~
+~
+0 -1 13035
+D1
+(null)~
+~
+0 -1 3128
+Z3
+C-1
+S
+#3128
+On the Concourse~
+  The Concourse continues both east and west.  Emerald Avenue is north of
+here.
+~
+31 0 0
+D0
+(null)~
+~
+0 -1 3125
+D1
+(null)~
+~
+0 -1 3129
+D3
+(null)~
+~
+0 -1 3127
+Z3
+C-1
+S
+#3129
+On the Concourse~
+  The Concourse continues both east and west.  Park Road is north of here
+and an iron grate leads south to the graveyard.
+~
+31 0 0
+D0
+(null)~
+~
+0 -1 3126
+D1
+(null)~
+~
+0 -1 3130
+D2
+Through the solid Iron gate you see a graveyard.
+~
+grate gate~
+1 3121 3400
+D3
+(null)~
+~
+0 -1 3128
+Z3
+C-1
+S
+#3130
+On the Concourse~
+  You are at the southeast corner of the city wall.  The Concourse leads
+both north and west.
+~
+31 0 0
+D0
+(null)~
+~
+0 -1 3156
+D1
+~
+~
+0 -1 25705
+D3
+(null)~
+~
+0 -1 3129
+Z3
+C-1
+S
+#3131
+Park Road~
+  You are at Park Road which continues north and south.
+~
+31 0 0
+D0
+(null)~
+~
+0 -1 3101
+D1
+You see the Patisserie
+~
+~
+0 -1 13033
+D2
+(null)~
+~
+0 -1 3111
+D3
+You see the Map store.
+~
+~
+0 -1 13034
+Z3
+C-1
+S
+#3132
+Emerald Avenue~
+  You are at Emerald Avenue which continues north and south.  Penny Lane leads
+east from here.
+~
+31 0 0
+D0
+(null)~
+~
+0 -1 3103
+D1
+(null)~
+~
+0 -1 3139
+D2
+(null)~
+~
+0 -1 3117
+D3
+You see the Alchemists.
+~
+~
+0 -1 13031
+Z3
+C-1
+S
+#3133
+Emerald Avenue~
+  You are standing on Emerald Avenue.  To the north the road goes on
+and to the south is the Road Crossing.
+~
+31 0 1
+D0
+(null)~
+~
+0 -1 3119
+D2
+(null)~
+~
+0 -1 3120
+Z3
+C-1
+S
+#3134
+Emerald Avenue~
+  You are standing at a bend on Emerald Avenue.  To the west the road goes on
+and to the north is the Road Crossing.
+~
+31 0 0
+D0
+(null)~
+~
+0 -1 3120
+D3
+(null)~
+~
+0 -1 3121
+Z3
+C-1
+S
+#3135
+Park Road~
+  You are at a bend on Park Road.  To the north the road goes on and to the
+east is the Road Crossing.
+~
+31 0 0
+D0
+(null)~
+~
+0 -1 3118
+D1
+(null)~
+~
+0 -1 3120
+Z3
+C-1
+S
+#3136
+Park Road~
+  You are at a bend on Park Road.  To the south the road goes on and to the
+west is the Road Crossing.
+~
+31 0 0
+D2
+(null)~
+~
+0 -1 3122
+D3
+(null)~
+~
+0 -1 3120
+Z3
+C-1
+S
+#3137
+The Waiting Room~
+  You are standing in the waiting room at the town hall.  Wooden chairs stand
+along the walls and a long desk with a typewriter is placed in the middle of
+the room.
+~
+31 8 0
+D1
+It looks like some kind of office.
+~
+~
+0 -1 3138
+D3
+The exit west leads to Emerald Avenue.
+~
+~
+0 -1 3117
+E
+chair chairs~
+Not the very least comfortable.
+~
+E
+desk~
+An extremely heavy desk.  It is so large that it doesn't even need drawers.
+Everything can be stored on its top.
+~
+E
+typewriter~
+It is an ancient Quifatronic T-1000 mk I.  These machines are known for their
+incredible durability, and for their even more incredible weight.  They make
+a Cray II look like a laptop.
+~
+Z3
+C-1
+S
+#3138
+The Mayors Office~
+  You are in the not very big office of the Mayor of Midgaard.  A large and
+polished but completely empty desk is standing in front of an armchair that
+looks so comfortable that it most of all resembles a bed with the head end
+raised slightly.
+~
+31 8 0
+D3
+The waiting room is to the west.
+~
+~
+0 -1 3137
+E
+desk~
+This desk is obviously very old.  Nevertheless it looks as if has never been
+used.
+~
+E
+chair armchair~
+This chair is really a masterpiece.  A chair where one can sit as comfortably
+as in a bed.  All auditoriums should be equipped with these things.  A shame
+that there wouldn't be room for the students too, though.
+~
+Z3
+C-1
+S
+#3139
+Penny Lane~
+  You are on Penny Lane.  Emerald Avenue is to the west and Penny Lane
+continues in eastward direction.
+~
+31 0 0
+D1
+(null)~
+~
+0 -1 3140
+D3
+(null)~
+~
+0 -1 3132
+Z3
+C-1
+S
+#3140
+Penny Lane~
+  You are on Penny Lane.  The narrow road continues north and west.
+The Concourse is to the east.
+~
+31 0 0
+D0
+(null)~
+~
+0 -1 3141
+D1
+(null)~
+~
+0 -1 13028
+D3
+(null)~
+~
+0 -1 3139
+Z3
+C-1
+S
+#3141
+End of Penny Lane~
+  You are at the end of Penny Lane.  The only exit appears to be south.
+~
+31 0 0
+D2
+(null)~
+~
+0 -1 3140
+D5
+~
+door~
+2 17017 17000
+Z3
+C-1
+S
+#3142
+The Smithy~
+
+  You are standing inside a very dark smithy. You notice the absense of
+windows, only the red light of the fireplace lightens the room. A lot of
+useless broken weapons and pieces of armour are lying around, making
+it difficult to cross the room. There is a sign up by the entrance door.
+
+~
+31 8332 0
+D1
+(null)~
+~
+0 -1 3119
+E
+sign entrance door~
+The sign says:
+
+ Repairing all kinds of metal equiptment. Service at once.
+ Type:
+
+    OFFER  <item>
+    REPAIR <Item>
+
+ to order the service.
+~
+Z3
+C-1
+S
+#3150
+{BLUE}{BOLD}Under the Bridge{blue}{bold}~
+
+   The arch under the bridge is covered by seaweed for one foot above the
+surface of the river.   The water gently flows through an opening in the 
+lower part of the city wall.
+
+~
+31 0 7
+D1
+(null)~
+~
+0 -1 3151
+D3
+You see the river flowing west into the Forest of Haon-Dor.
+~
+opening wall~
+0 -1 3166
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  Looks pretty solid.
+~
+Z3
+C-1
+S
+#3151
+{BLUE}{BOLD}On the River{blue}{bold}~
+
+North of here you see the miserable builinds on the poor alley.  The
+river flows west towards the bridge.  The riverbanks are too steep to climb.
+
+~
+31 0 7
+D1
+(null)~
+~
+0 -1 3152
+D2
+(null)~
+~
+0 -1 5959
+D3
+(null)~
+~
+0 -1 3150
+Z3
+C-1
+S
+#3152
+{BLUE}{BOLD}On the River{blue}{bold}~
+
+The river flows from east to west.  The riverbanks are too steep to climb.
+
+~
+31 0 7
+D1
+(null)~
+~
+0 -1 3153
+D3
+(null)~
+~
+0 -1 3151
+Z3
+C-1
+S
+#3153
+{BLUE}{BOLD}On the River{blue}{bold}~
+
+The levess is directly north of here.  The river flows in an east-west
+direction.
+
+~
+31 0 7
+D0
+(null)~
+~
+0 -1 3049
+D1
+(null)~
+~
+0 -1 3154
+D3
+(null)~
+~
+0 -1 3152
+Z3
+C-1
+S
+#3154
+{BLUE}{BOLD}On the River{blue}{bold}~
+
+    You see the warehouse on the northern riverbank.  East of here you see
+the city wall.   The river flows west towards the levee.
+
+~
+31 0 7
+D1
+(null)~
+~
+0 -1 3155
+D3
+(null)~
+~
+0 -1 3153
+Z3
+C-1
+S
+#3155
+{BLU}{BOLD}On the River{blue}{bo}~
+
+    The river enters from a hole in the eastern city wall.  The hole has
+been blocked by several vertically positioned iron bars set into the wall.
+
+~
+31 0 7
+D0
+~
+~
+0 -1 16099
+D1
+(null)~
+~
+0 -1 5001
+D3
+(null)~
+~
+0 -1 3154
+Z3
+C-1
+S
+#3156
+Concourse~
+
+
+  You are walking along the concourse.  To the west you see a large,
+  strange looking building.
+
+
+~
+31 0 0
+D0
+The Concourse continues.
+~
+~
+0 -1 13029
+D2
+The Concourse continues.
+~
+~
+0 -1 3130
+D3
+~
+gate~
+2 2701 3157
+Z3
+C-1
+S
+#3157
+{Y}Path to the {Y}{BOLD}TimeLords'{bol}{Y} Palace{y}~
+
+
+  You are walking along the path that leads to the Palace of the 
+  Timelords.  To the east you see the Concourse, and to the west
+  you see the Mighty Palace.
+
+
+~
+31 0 0
+D1
+You see the Concourse.
+~
+gate~
+2 13000 3156
+D3
+You see the foyer to the TimeLord's Palace.
+~
+~
+0 -1 13018
+E
+gate~
+You see a Large, Iron gate.
+~
+Z3
+C-1
+S
+#3166
+Under the western City Wall~
+  The Danube flows through a little whole in the western city wall.
+You can hear the sound of fast moving water behind the wall.
+Although you feel a little afraid when you look westwards you think the
+way is save.
+~
+31 0 7
+D1
+You see the Danube flowing under the bridge.
+~
+~
+0 -1 3150
+D3
+The water disappears in a dark tunnel to the west.
+~
+~
+0 -1 3167
+Z3
+C-1
+S
+#3167
+In the dark water tunnel~
+  The water falls down into the tunnel from the entrance in the east.
+When you look in this direction you can see some light. Maybe it's 
+the way out? To the west there is nothing but darkness.
+~
+31 9 7
+D0
+A small stream comes from the north
+~
+~
+0 -1 900
+D1
+A little shimmer of light.
+~
+~
+0 -1 3166
+D2
+~
+~
+0 -1 14334
+D3
+An even darker part of the water tunnel.
+~
+~
+0 -1 3168
+Z3
+C-1
+S
+#3168
+The rapids in the darkness.~
+  The water quickly moves westwards. It is nearly impossible to move
+in the other direction. You can hear nothing but the sound of
+moving water. The tunnel leads from east to west.
+~
+31 9 7
+D1
+Nothing but darkness.
+~
+~
+0 -1 3167
+D3
+Nothing but darkness.
+~
+~
+0 -1 3169
+Z3
+C-1
+S
+#3169
+The eastern part of the little sea~
+  From the east the water rushes into this little sea. As you look
+around, you can hardly see the walls. The water is calm and quit
+here. You can move in each direction.
+~
+31 9 7
+D1
+Nothing but darkness.
+~
+~
+0 -1 3168
+D3
+The middle of the little see in the tunnel.
+~
+~
+0 -1 3170
+Z3
+C-1
+S
+#3170
+The middle of a little sea in the tunnel~
+  The water is calm and quiet. Maybe too calm!
+You can move in any direction. 
+~
+31 9 7
+D0
+The northern part of the little see in the tunnel.
+~
+~
+0 -1 3171
+D1
+The eastern part of the little see in the tunnel.
+~
+~
+0 -1 3169
+D2
+The southern part of the little see in the tunnel.
+~
+~
+0 -1 3172
+D3
+The western part of the little see in the tunnel.
+~
+~
+0 -1 3173
+Z3
+C-1
+S
+#3171
+The northern part of the little see in the tunnel.~
+  The water seems to be a littel darker here.
+~
+31 9 7
+D2
+The middle of the little see in the tunnel.
+~
+~
+0 -1 3170
+Z3
+C-1
+S
+#3172
+The southern part of the little see in the tunnel.~
+  The water seems to be a littel darker here.
+~
+31 9 7
+D0
+The middle of the little see in the tunnel.
+~
+~
+0 -1 3170
+Z3
+C-1
+S
+#3173
+The western part of the little see in the tunnel.~
+  You are on a little see deep under the earth. To the
+east you can see nothing but deep darkness. To the
+west there seems to be some light.
+~
+31 9 7
+D1
+The middle of the little see in the tunnel.
+~
+~
+0 -1 3170
+D3
+The end of the little see.
+~
+~
+0 -1 3174
+Z3
+C-1
+S
+#3174
+The end of the water in the tunnel.~
+  The water ends here. You see a little see to the east.
+To the west the tunnel continues, but it seems to be
+a little more light there. Also the air gets fresher
+here. You discover a small hole in the south.
+~
+31 9 1
+D1
+Into the little underground see.
+~
+~
+0 -1 3173
+D2
+A small hole.
+~
+~
+0 0 2180
+D3
+The light tunnel.
+~
+~
+0 -1 3175
+Z3
+C-1
+S
+#3175
+The light tunnel.~
+  You are in a wide open tunnel. In the ceiling there is a big hole.
+Some light makes it possible to see here. To the east the tunnel
+continues getting darker. To the west the tunnel continues.
+~
+31 0 1
+D1
+The tunnel gets wet in this direction.
+~
+~
+0 -1 3174
+D3
+The tunnel continues.
+~
+~
+0 -1 3176
+Z3
+C-1
+S
+#3176
+The light tunnel.~
+  You are in a wide open tunnel. The ceiling is open above your
+head. Some light makes it possible to see here. To the east the
+tunnel continues. To the west you see a bright light.
+~
+31 0 1
+D1
+The tunnel continue.
+~
+~
+0 -1 3175
+D3
+A bright light.
+~
+~
+0 -1 3177
+Z3
+C-1
+S
+#3177
+The dunes at the windy shore.~
+  You are at the hill of a little dune on a windy shore. To the north
+you can see the great sea. The air is filled with the fresh smell
+of sea water. Seagulls draw their circles into the air and their
+cries echo in your head. To the east there is a large cliff. At the
+bottom of it you see a wide open tunnel. West of here the dunes
+continue.
+~
+31 0 1
+D0
+The shore.
+~
+~
+0 -1 5600
+D1
+A tunnel.
+~
+~
+0 -1 3176
+D3
+The dunes.
+~
+~
+0 -1 3178
+Z3
+C-1
+S
+#3178
+The dry dunes.~
+  You are at the top of a dry dune. To the north there is a steep
+cliff down to the great see. As you look north west you see the
+cliff continue. There seems to be a peninsula with a jungle!
+You can go east or west.
+~
+31 0 1
+D1
+The dunes.
+~
+~
+0 -1 3177
+D3
+The dunes.
+~
+~
+0 -1 3179
+Z3
+C-1
+S
+#3179
+The sandy place~
+  You are at a very sandy place. Sand in any direction you look.
+Only to the north you can see some green. It looks like the
+beginning of a jungle. You can go east or north.
+~
+31 0 1
+D0
+~
+~
+0 -1 2900
+D1
+The dunes.
+~
+~
+0 -1 3178
+Z3
+C-1
+S
+$~

@@ -1,0 +1,599 @@
+#46500
+sith trooper~
+Sith Trooper~
+{W}A sith trooper aims his rifle towards you.{b}
+~
+
+{W}  While the majority of the battalions now under Sith 
+{W}  command are comprised of traitorous Republic forces, 
+{W}  they are far from hodge-podges of disorganized troops. 
+{W}  Only the strong are granted acceptance into the ranks 
+{W}  of the Sith army; those judged too weak to be of use 
+{W}  are put to an ignoble end. Traitors may be welcomed 
+{W}  into the ranks, but a level of fear is quickly established 
+{W}  to make certain they are not so quick to change sides 
+{W}  again. {b}
+
+~
+562053222 1342440360 -750 S
+50 -60 -6 1d1+1999 1d1+49
+500000 5000000
+8 8 1
+D 20
+A 12
+#46501
+resident~
+{C}An Apartment Resident{b}~
+{C}One of the residents loiters about aimlessly.{b}
+~
+
+{C}  Adorned with regular clothing, the occupant wears a
+{C}  typical blue vest with a pair of black trousers. Fairly
+{C}  decent is apparel, no major tarnishes come to harm the
+{C}  overall appearance, yet it is very obvious that this
+{C}  person makes no hefty income.{b}
+
+~
+562053222 1342440360 -750 S
+50 -60 -6 1d1+1999 0d0+66
+125000 10000000
+8 8 1
+S 591
+R 12
+D 20
+A 12
+#46502
+citizen taris~
+{R}Citizen of Taris{b}~
+{R}A simple citizen walks along the path, avoiding you.{b}
+~
+
+{R}  Though he makes it quite apparent he'd rather have
+{R}  nothing to do with you. He casually stops by to ensure
+{R}  any fellow Tarisians that he will ensure their enjoyment
+{R}  by not allowing you any further.{b}
+
+~
+151003236 1611401768 0 S
+49 -90 -7 0d0+6500 20d10+400
+50000 15000000
+8 8 1
+S 526287
+R 12
+D 20
+A 12
+#46503
+shark pazaak~
+{G}Pazaak Shark{b}~
+{G}This Pazaak Shark challenges you to a game.{b}
+~
+
+{G}  With a modest deck of cards in his left hand, he approaches
+{G}  you and offers his other deck, no doubt set up unfairly.
+{G}  Despite your attempts to decline the game, he welcomes you
+{G}  with a malicious challenge.{b}
+
+~
+159383650 537135784 0 S
+51 -130 -6 0d0+8000 0d0+400
+500000 15000000
+8 8 1
+S 975
+R 12
+D 20
+A 12
+#46504
+noble citizen~
+{M}Tarisian Noble{b}~
+{M}This Tarisian Noble demands your immediate service.{b}
+~
+
+{M}  Being the noble that she is, she mistakes you for hired help. 
+{M}  Perhaps if you persuade her that you'll be bringing her drinks, 
+{M}  nothing will happen. If you insult her, however, she might get
+{M}  daddy involved.{b}
+
+~
+696254562 537135784 -100 S
+51 -130 -9 0d0+10000 0d0+400
+1000000 15000000
+8 8 2
+D 20
+A 12
+#46505
+ajuur~
+{Y}Ajuur the Hut{b}~
+{Y}Ajuur sloths around the room attempting to find a duelist{b}
+~
+
+{Y}  This vile creature decides it is within his power to give
+{Y}  you a nickname. How disgusting! What is worse, the name he
+{Y}  gives you is "Mysterious Stranger." What??{b}
+
+~
+285215778 262824 0 S
+51 -180 -10 0d0+15000 0d0+500
+1000000 2000000000
+8 8 1
+S 33563535
+R 12
+D 20
+A 12
+#46506
+duncan dead eye~
+{Y}Dead-eye Duncan~
+{Y}Dead-eye Duncan, the man with no aim.{b}
+~
+
+{Y}  Dead-eye gets his name because he acts worse than
+{Y}  a blind man in the ring!{b}
+
+~
+159416354 262696 0 S
+51 -80 -6 0d0+2000 0d0+250
+1000000 200000000
+8 8 0
+S 4064
+R 12
+D 20
+A 12
+#46507
+gerlon two fingers~
+{G}Gerlon Two-Fingers{b}~
+{G}Gerlon wields his blaster with just three fingers!{b}
+~
+
+{G}  He gets his name because of a critical accident in the 
+{G}  ring, where he lost his fingers! But he is still here, 
+{G}  and he won't leave the duel ring until he loses his hands!{b}
+
+~
+331382818 262824 0 S
+51 -130 -8 0d0+9000 0d0+250
+1000000 20000000
+8 8 0
+S 135136
+R 12
+D 20
+A 12
+#46508
+ice~
+{C,BO}Ice{b}~
+{C,BO}Ice, the woman with steel in her blood and ice water in her veins.{b}
+~
+
+{C,BO}  She gets her name because her blood is stone cold! 
+{C,BO}  She is tough, she is fierce, and she comes to kill. 
+
+{C,BO}                  Ice is no pushover.{b}
+
+~
+331350562 262824 0 C 4
+51 -155 -10 0d0+15000 0d0+400
+1000000 10000000
+8 8 0
+S 3040
+R 12
+D 20
+A 12
+#46509
+marl~
+{WH,BO}Marl{b}~
+{WH,BO}Marl stares at you with his vicious double-blade.{b}
+~
+
+{WH,BO}  Marl is a nice guy, but he is getting pretty old at this. 
+{WH,BO}  You will have to show him that the newer generation will 
+{WH,BO}  prevail!{b}
+
+~
+734036002 262824 500 C 4
+51 -155 -10 0d0+17500 0d0+333
+1000000 10000000
+8 8 1
+S 134112
+R 12
+D 20
+A 12
+#46510
+twitch~
+{G}Twitch{b}~
+{G}"Shoot first! Shoot last! Party with me, we'll have a blast!"{b}
+~
+
+{G}  "Shoot first! Shoot last! Party with me, we'll have a blast!" 
+{G}  This is always Twitch's motto, and he just very well might be crazy. 
+{G}  Twitch is the champion in Taris, and you have to dethrone him.{b}
+
+~
+734040098 262840 0 C 41
+51 -180 -8 0d0+20000 0d0+350
+1000000 20000000
+8 8 1
+S 4064
+D 20
+A 12
+#46511
+bendak starkiller~
+{Y}Bendak Starkiller{b}~
+{Y}Bendak Starkiller, most deadly fighter in the universe.{b}
+~
+
+{R,BO}  Bendak... Starkiller. The name just flies off your tongue, 
+{R,BO}  doesn't it? You have a date with one of Taris's toughest 
+{R,BO}  opponents.{b}
+
+~
+1122009382 201597628 -250 S
+51 -180 -12 0d0+20000 0d0+400
+5000000 200000000
+8 8 1
+S 134112
+R 8388620
+D 4
+A 12
+#46512
+nobody~
+nobody~
+Nobody is standing around here.
+~
+It's nothing to see !!!
+~
+2 0 0 S
+1 10 5 0d0+0 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#46513
+nobody~
+nobody~
+Nobody is standing around here.
+~
+It's nothing to see !!!
+~
+2 0 0 S
+1 10 5 0d0+0 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#46514
+nobody~
+nobody~
+Nobody is standing around here.
+~
+It's nothing to see !!!
+~
+2 0 0 S
+1 10 5 0d0+0 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#46515
+nobody~
+nobody~
+Nobody is standing around here.
+~
+It's nothing to see !!!
+~
+2 0 0 S
+1 10 5 0d0+0 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#46516
+nobody~
+nobody~
+Nobody is standing around here.
+~
+It's nothing to see !!!
+~
+2 0 0 S
+1 10 5 0d0+0 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#46517
+nobody~
+nobody~
+Nobody is standing around here.
+~
+It's nothing to see !!!
+~
+2 0 0 S
+1 10 5 0d0+0 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#46518
+nobody~
+nobody~
+Nobody is standing around here.
+~
+It's nothing to see !!!
+~
+2 0 0 S
+1 10 5 0d0+0 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#46519
+nobody~
+nobody~
+Nobody is standing around here.
+~
+It's nothing to see !!!
+~
+2 0 0 S
+1 10 5 0d0+0 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#46520
+nobody~
+nobody~
+Nobody is standing around here.
+~
+It's nothing to see !!!
+~
+2 0 0 S
+1 10 5 0d0+0 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#46521
+nobody~
+nobody~
+Nobody is standing around here.
+~
+It's nothing to see !!!
+~
+2 0 0 S
+1 10 5 0d0+0 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#46522
+nobody~
+nobody~
+Nobody is standing around here.
+~
+It's nothing to see !!!
+~
+2 0 0 S
+1 10 5 0d0+0 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#46523
+nobody~
+nobody~
+Nobody is standing around here.
+~
+It's nothing to see !!!
+~
+2 0 0 S
+1 10 5 0d0+0 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#46524
+nobody~
+nobody~
+Nobody is standing around here.
+~
+It's nothing to see !!!
+~
+2 0 0 S
+1 10 5 0d0+0 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#46525
+nobody~
+nobody~
+Nobody is standing around here.
+~
+It's nothing to see !!!
+~
+2 0 0 S
+1 10 5 0d0+0 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#46526
+nobody~
+nobody~
+Nobody is standing around here.
+~
+It's nothing to see !!!
+~
+2 0 0 S
+1 10 5 0d0+0 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#46528
+nobody~
+nobody~
+Nobody is standing around here.
+~
+It's nothing to see !!!
+~
+2 0 0 S
+1 10 5 0d0+0 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#46529
+nobody~
+nobody~
+Nobody is standing around here.
+~
+It's nothing to see !!!
+~
+2 0 0 S
+1 10 5 0d0+0 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#46530
+nobody~
+nobody~
+Nobody is standing around here.
+~
+It's nothing to see !!!
+~
+2 0 0 S
+1 10 5 0d0+0 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#46531
+nobody~
+nobody~
+Nobody is standing around here.
+~
+It's nothing to see !!!
+~
+2 0 0 S
+1 10 5 0d0+0 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#46532
+nobody~
+nobody~
+Nobody is standing around here.
+~
+It's nothing to see !!!
+~
+2 0 0 S
+1 10 5 0d0+0 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#46533
+nobody~
+nobody~
+Nobody is standing around here.
+~
+It's nothing to see !!!
+~
+2 0 0 S
+1 10 5 0d0+0 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#46534
+nobody~
+nobody~
+Nobody is standing around here.
+~
+It's nothing to see !!!
+~
+2 0 0 S
+1 10 5 0d0+0 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#46535
+nobody~
+nobody~
+Nobody is standing around here.
+~
+It's nothing to see !!!
+~
+2 0 0 S
+1 10 5 0d0+0 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#46536
+nobody~
+nobody~
+Nobody is standing around here.
+~
+It's nothing to see !!!
+~
+2 0 0 S
+1 10 5 0d0+0 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#46537
+nobody~
+nobody~
+Nobody is standing around here.
+~
+It's nothing to see !!!
+~
+2 0 0 S
+1 10 5 0d0+0 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#46538
+nobody~
+nobody~
+Nobody is standing around here.
+~
+It's nothing to see !!!
+~
+2 0 0 S
+1 10 5 0d0+0 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#46539
+nobody~
+nobody~
+Nobody is standing around here.
+~
+It's nothing to see !!!
+~
+2 0 0 S
+1 10 5 0d0+0 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#46540
+nobody~
+nobody~
+Nobody is standing around here.
+~
+It's nothing to see !!!
+~
+2 0 0 S
+1 10 5 0d0+0 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+$~

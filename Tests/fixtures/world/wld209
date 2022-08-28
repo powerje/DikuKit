@@ -1,0 +1,66 @@
+#20900
+{BOLD,BLACK}An Old Shack{g}~
+   This small shack is hardly decorated with anything. Its walls
+have only a few shelves along them fill with only herbs. Off in
+the corner is a small bed and a stand. You wonder who lives here?
+~
+209 0 1
+Z0
+C-1
+S
+#20901
+{BOLD,BLACK}The ruins of the temple Vaulter{b}~
+
+   These are the ruins of a once mighty temple. Its ruins seem to glow
+blue warning evil to stay away. I wonder who or what destroyed this temple? 
+It must of been a force of evil unknown to this mortal world. You notice something
+that looks like a door beneath the rubble. Where could it lead?
+~
+209 0 1
+D5
+~
+~
+0 -1 20902
+Z0
+C-1
+S
+#20902
+{BOLD,BLACK}Pathway into Darkness{b}~
+   You are surrounded by darkness. The only direction you can go now is down,
+down into the abyss. Strange sounds come from below you.....
+~
+209 262144 1
+D4
+~
+~
+0 -1 20901
+D5
+~
+~
+0 -1 20903
+Z0
+C-1
+S
+#20903
+{BOLD,BLACK}Intersection{b}~
+   You stand at the crossroads of two underground tunnels. Each
+heading to a unknown destination. What adventures lie ahead of you? Well you
+are not going to find out by standing here the whole time.
+~
+209 0 1
+D4
+~
+~
+0 -1 20902
+Z0
+C-1
+S
+#20904
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+209 262144 1
+Z0
+C-1
+S
+$~

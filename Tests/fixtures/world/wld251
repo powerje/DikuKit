@@ -1,0 +1,1956 @@
+#25100
+{BO,C}On The Drawbridge{bo,c}~
+
+   You stand on the drawbridge leading into the Castle of
+   Hearts.  Ahead lies a set of portcullis in the lowered
+   position.  Below you is the moat.  No telling what
+   fierce creatures inhabit those waters.
+
+~
+251 260 2
+D1
+The portcullis is made of thick iron bars and rests firmly
+within metal groves lining the castle wall.
+ 
+~
+Portcullis~
+1 24024 25102
+D5
+~
+~
+0 -1 25101
+E
+graffiti~
+ 
+Beware the Captain of the Guards.  Seems he has been drinking
+battery fluid and it has done wonders for his breath.
+ 
+~
+E
+portcullis~
+ 
+These strong iron bars will certainly resist all efforts to pry apart.
+There seems no way to get past them.
+ 
+~
+T25101
+Z3
+C-1
+S
+#25101
+{BO,Y}In The Moat{bo,y}~
+
+   You have plunged down into the moat.  The areas to
+   your north and south are overgrown with weeds and seem
+   impassable.  In both directions you can see a thick
+   scaly trunk extending about the castle.  A large
+   serpentine tail suddenly emerges from the water in
+   front of you.  That can only mean that the head is
+   emerging from...
+
+~
+251 4210857 6
+D4
+~
+~
+0 -1 25100
+Z3
+C-1
+S
+#25102
+{BO,C}The Gate House{bo,c}~
+
+   This is a standard gate house.  A portcullis lies
+   behind you and one lies in front of you.  Sure enough,
+   there are several murder holes above.  Some of them
+   even seem to be dripping with fresh hot oil.
+
+~
+251 0 0
+D1
+The portcullis is made of thick iron bars and rests firmly
+within metal groves lining the castle wall.
+ 
+~
+Portcullis~
+1 24024 25105
+D3
+The portcullis is made of thick iron bars and rests firmly
+within metal groves lining the castle wall.
+ 
+~
+Portcullis~
+1 24024 25100
+E
+portcullis~
+
+These strong iron bars will certainly resist all efforts to pry apart.
+There seems no way to get past them.
+
+~
+Z3
+C-1
+S
+#25103
+{BO,C}Guard Barracks{bo,c}~
+
+   These are standard guard barracks.  Several wooden
+   cots lie scattered about the room.  A footlocker rests
+   at the end of each.  The air is permeated with the
+   smell of rotted leather and stinky gym socks.
+
+~
+251 0 0
+D1
+~
+~
+0 -1 25108
+D2
+The barracks door is made of thick oak reinforced with iron bands.
+ 
+~
+Door~
+1 -1 25104
+Z3
+C-1
+S
+#25104
+{BO,C}Castle Courtyard{bo,c}~
+
+   You stand in the castle courtyard.  The gate house is
+   in the middle of the west wall.  In the middle of the
+   east wall is a set or ornate double doors.  On the
+   north and south walls are doors and in the south east
+   corner are the royal stables.
+
+~
+251 0 1
+D0
+The barracks door is made of thick oak reinforced with iron bands.
+ 
+~
+Door~
+1 -1 25103
+D1
+~
+~
+0 -1 25109
+D2
+~
+~
+0 -1 25105
+Z3
+C-1
+S
+#25105
+{BO,C}Castle Courtyard{bo,c}~
+
+   You stand in the castle courtyard.  The gate house is
+   in the middle of the west wall.  In the middle of the
+   east wall is a set or ornate double doors.  On the
+   north and south walls are doors and in the south east
+   corner are the royal stables.
+
+~
+251 0 1
+D0
+~
+~
+0 -1 25104
+D1
+~
+~
+0 -1 25110
+D2
+~
+~
+0 -1 25106
+D3
+The portcullis is made of thick iron bars and rests firmly
+within metal groves lining the castle wall.
+ 
+~
+Portcullis~
+1 24024 25102
+Z3
+C-1
+S
+#25106
+{BO,C}Castle Courtyard{bo,c}~
+
+   You stand in the castle courtyard.  The gate house is
+   in the middle of the west wall.  In the middle of the
+   east wall is a set or ornate double doors.  On the
+   north and south walls are doors and in the south east
+   corner are the royal stables.
+
+~
+251 0 1
+D0
+~
+~
+0 -1 25105
+D1
+~
+~
+0 -1 25111
+D2
+The barracks door is made of thick oak reinforced with iron bands.
+ 
+~
+Door~
+1 -1 25107
+Z3
+C-1
+S
+#25107
+{BO,C}Guard Barracks{bo,c}~
+
+   These are standard guard barracks.  Several wooden
+   cots lie scattered about the room.  A footlocker rests
+   at the end of each.  The air is permeated with the
+   smell of rotted leather and stinky gym socks.
+
+~
+251 0 0
+D0
+The barracks door is made of thick oak reinforced with iron bands.
+ 
+~
+Door~
+1 -1 25106
+D1
+~
+~
+0 -1 25112
+Z3
+C-1
+S
+#25108
+{BO,C}Guard Barracks{bo,c}~
+
+   These are standard guard barracks.  Several wooden
+   cots lie scattered about the room.  A footlocker rests
+   at the end of each.  The air is permeated with the
+   smell of rotted leather and stinky gym socks.
+
+~
+251 0 0
+D0
+The barracks door is made of thick oak reinforced with iron bands.
+ 
+~
+Door~
+1 24024 25146
+D3
+~
+~
+0 -1 25103
+Z3
+C-1
+S
+#25109
+{BO,C}Castle Courtyard{bo,c}~
+
+   You stand in the castle courtyard.  The gate house is
+   in the middle of the west wall.  In the middle of the
+   east wall is a set or ornate double doors.  On the
+   north and south walls are doors and in the south east
+   corner are the royal stables.
+
+~
+251 0 1
+D2
+~
+~
+0 -1 25110
+D3
+~
+~
+0 -1 25104
+Z3
+C-1
+S
+#25110
+{BO,C}Castle Courtyard{bo,c}~
+
+   You stand in the castle courtyard.  The gate house is
+   in the middle of the west wall.  In the middle of the
+   east wall is a set or ornate double doors.  On the
+   north and south walls are doors and in the south east
+   corner are the royal stables.
+
+~
+251 0 1
+D0
+~
+~
+0 -1 25109
+D1
+Huge double doors lie to the east.  They are ornately carved with
+many royal symbols and can certainly only lead to the royal chambers.
+ 
+~
+Double Doors~
+2 24024 25113
+D3
+~
+~
+0 -1 25105
+Z3
+C-1
+S
+#25111
+{BO,Y}Stable{bo,y}~
+
+   The stable smells of dung!  What a surprise.  Several
+   horses of fine breeding stand tethered in their
+   stalls.  It appears as if they have been left
+   unattended.  Lucky you.
+
+~
+251 0 1
+D3
+~
+~
+0 -1 25106
+Z3
+C-1
+S
+#25112
+{BO,C}Guard Barracks{bo,c}~
+
+   These are standard guard barracks.  Several wooden
+   cots lie scattered about the room.  A footlocker rests
+   at the end of each.  The air is permeated with the
+   smell of rotted leather and stinky gym socks.
+
+~
+251 0 0
+D2
+The barracks door is made of thick oak reinforced with iron bands.
+ 
+~
+Door~
+1 24024 25159
+D3
+~
+~
+0 -1 25107
+Z3
+C-1
+S
+#25113
+{BO,C}The Palace Foyer{bo,c}~
+
+   You stand in the palace foyer.  It is constructed of
+   marble and alabaster.  The vaulted ceiling has several
+   columns reaching up to support and exquisitely crafted
+   mosaic ceiling.
+
+~
+251 0 0
+D1
+~
+~
+0 -1 25115
+D3
+Huge double doors lie to the east.  They are ornately carved with
+many royal symbols and can certainly only lead to the royal chambers.
+ 
+~
+Double Doors~
+2 24024 25110
+Z3
+C-1
+S
+#25114
+{BO,C}The Northern Staircase{bo,c}~
+
+   A set up stairs rising up above you leading to the second floor.
+
+~
+251 0 0
+D2
+~
+~
+0 -1 25115
+D4
+~
+~
+0 -1 25128
+Z3
+C-1
+S
+#25115
+{BO,C}The Palace Foyer{bo,c}~
+
+   You stand in the palace foyer.  It is constructed of
+   marble and alabaster.  The vaulted ceiling has several
+   columns reaching up to support and exquisitely crafted
+   mosaic ceiling.
+
+~
+251 0 0
+D0
+~
+~
+0 -1 25114
+D1
+~
+~
+0 -1 25117
+D2
+~
+~
+0 -1 25116
+D3
+~
+~
+0 -1 25113
+Z3
+C-1
+S
+#25116
+{BO,C}The Northern Staircase{bo,c}~
+
+   A set up stairs rising up above you leading to the
+   second floor.
+
+~
+251 0 0
+D0
+~
+~
+0 -1 25115
+D4
+~
+~
+0 -1 25129
+Z3
+C-1
+S
+#25117
+{BO,C}Before The Audience Hall{bo,c}~
+
+   You stand before the a set of iron doors with the
+   King's seal set upon them.  They can certainly only
+   led to the throne room.  Two short rolly polly twins
+   stand in front of the door.  The stare through you
+   with blank eyes and seem oblivious to your presence.
+   Hardly the sort of sentinels you were expecting.
+
+~
+251 0 0
+D1
+Huge double doors lie to the east.  They are ornately carved with
+many royal symbols and can certainly only lead to the royal chambers.
+ 
+~
+Kings Doors~
+2 24024 25118
+D3
+~
+~
+0 -1 25115
+Z3
+C-1
+S
+#25118
+{BO,C}King's Hall{bo,c}~
+
+   A royal red carpet extends out in front of you.  The
+   hall is lined with fine sets of armor from various
+   ages of warfare.  At the far end of the east hall you
+   see the throne room itself.
+
+~
+251 0 0
+D1
+~
+~
+0 -1 25119
+D3
+Huge double doors lie to the east.  They are ornately carved with
+many royal symbols and can certainly only lead to the royal chambers.
+ 
+~
+Kings Doors~
+2 24024 25117
+Z3
+C-1
+S
+#25119
+{BO,C}King's Hall{bo,c}~
+
+   A royal red carpet extends out in front of you.  The
+   hall is lined with fine sets of armor from various
+   ages of warfare.  At the far end of the east hall you
+   see the throne room itself.
+
+~
+251 0 0
+D1
+~
+~
+0 -1 25120
+D3
+~
+~
+0 -1 25118
+Z3
+C-1
+S
+#25120
+{BO,C}The Throne Room{bo,c}~
+
+   The size of the throne room only helps to humble you
+   who should already be aware of your place in the grand
+   scheme of things.  Several noble personages are
+   assembled about the room and within the gallery above.
+
+   Perched upon a raised dais and set into the far wall
+   is the throne of the King of Hearts.  It is encrusted
+   with jewels and seems to be made of the purest gold. 
+   Upon it sits the awesome figure of the King himself.
+   Smiling, he beckons you to approach.  You dare not
+   deny.
+
+~
+251 16388 0
+D3
+~
+~
+0 -1 25119
+D5
+~
+Throne~
+3 -1 25121
+E
+throne~
+ 
+The throne is encrusted with the most precious jewels the earth
+has to offer, but pry as you might, they fail to come loose.
+
+~
+Z3
+C-1
+S
+#25121
+{BO,R}Your Own Personal Little Hell{bo,r}~
+
+   The floor of this tiny room is inordinately hot. Small
+   flames lick out of the tiles and snake about your
+   toes.  On one wall you see a sweet young girl chained
+   up.  Standing in front of her is the object of your
+   torment.  THE WHITE RABBIT!  He appears to be removing
+   his vest and looking at the young girl in a rather
+   unsettling way.
+
+~
+251 1305 0
+D1
+~
+~
+0 -1 24025
+D4
+~
+Throne~
+3 -1 25120
+T25122
+Z3
+C-1
+S
+#25122
+{BO,C}On The Balcony{bo,c}~
+
+   Standing upon the balcony, you can see the whole of
+   Wonderland.  Below lies the croquette field.  To west
+   is the rose garden and the tea party.  To the west and
+   north lies a rolling sea.
+
+   Propped on the railing overlooking the land is the
+   Queen of Hearts.  It does not appear that she has yet
+   noticed your intrusion.  Perhaps now would be a good
+   time to jump her.
+
+~
+251 128 0
+D1
+A lovely leaded glass set of french doors leads off to the east.
+ 
+~
+French Door~
+2 -1 25123
+Z3
+C-1
+S
+#25123
+{BO,C}Queen's Bedroom{bo,c}~
+
+   The Queen's bedroom is decorated as a pauper would
+   furnish his abode.  Rickety furniture and barren walls
+   suggest nothing of the wealth of this castle.
+
+   To the west lie a set of ornate french doors.  They
+   appear to lead to the balcony, and if you are not
+   mistaken, it appears that the majestic figure of the
+   queen stands there.
+
+~
+251 0 0
+D1
+These are the doors to the Queen's bedroom.
+ 
+~
+Bedroom Door~
+2 24024 25125
+D3
+A lovely leaded glass set of french doors leads off to the west.
+ 
+~
+French Door~
+2 24026 25122
+Z3
+C-1
+S
+#25124
+{BO,C}Second Floor Hallway{bo,c}~
+
+   The carpets of this hallway are a rich red velvet.
+   Looking closely, you could swear the carpet moves
+   under you with the slow ebb of blood within arteries.
+
+   The hallway appears to make a large loop around the
+   top of the palace proper.  Several doors dot the
+   perimeter of the hall.
+
+~
+251 0 0
+D1
+~
+~
+0 -1 25128
+D2
+~
+~
+0 -1 25125
+Z3
+C-1
+S
+#25125
+{BO,C}Second Floor Hallway{bo,c}~
+
+   The carpets of this hallway are a rich red velvet.
+   Looking closely, you could swear the carpet moves
+   under you with the slow ebb of blood within arteries.
+
+   The hallway appears to make a large loop around the
+   top of the palace proper.  Several doors dot the
+   perimeter of the hall.
+
+~
+251 0 0
+D0
+~
+~
+0 -1 25124
+D2
+~
+~
+0 -1 25126
+D3
+These are the doors to the Queen's bedroom.
+ 
+~
+Bedroom Door~
+2 24024 25123
+Z3
+C-1
+S
+#25126
+{BO,C}Second Floor Hallway{bo,c}~
+
+   The carpets of this hallway are a rich red velvet.
+   Looking closely, you could swear the carpet moves
+   under you with the slow ebb of blood within arteries.
+
+   The hallway appears to make a large loop around the
+   top of the palace proper.  Several doors dot the
+   perimeter of the hall.
+
+~
+251 0 0
+D0
+~
+~
+0 -1 25125
+D1
+~
+~
+0 -1 25129
+Z3
+C-1
+S
+#25127
+{BO,C}Guest Room{bo,c}~
+
+   This is obviously a guest room.  It is modestly
+   furnished and an assortment of reading materials line
+   a book case set into the far wall.
+
+~
+251 0 0
+D2
+These are doors to a guest room.
+ 
+~
+Guestroom Door~
+2 24024 25128
+Z3
+C-1
+S
+#25128
+{BO,C}Second Floor Hallway{bo,c}~
+
+   The carpets of this hallway are a rich red velvet.
+   Looking closely, you could swear the carpet moves
+   under you with the slow ebb of blood within arteries.
+
+   The hallway appears to make a large loop around the
+   top of the palace proper.  Several doors dot the
+   perimeter of the hall.
+
+~
+251 0 0
+D0
+These are doors to a guest room.
+ 
+~
+Guestroom Door~
+2 24024 25127
+D1
+~
+~
+0 -1 25131
+D3
+~
+~
+0 -1 25124
+D5
+~
+~
+0 -1 25114
+Z3
+C-1
+S
+#25129
+{BO,C}Second Floor Hallway{bo,c}~
+
+   The carpets of this hallway are a rich red velvet.
+   Looking closely, you could swear the carpet moves
+   under you with the slow ebb of blood within arteries.
+
+   The hallway appears to make a large loop around the
+   top of the palace proper.  Several doors dot the
+   perimeter of the hall.
+
+~
+251 0 0
+D1
+~
+~
+0 -1 25132
+D2
+These are doors to a guest room.
+ 
+~
+Guestroom Door~
+2 24024 25130
+D3
+~
+~
+0 -1 25126
+D5
+~
+~
+0 -1 25116
+Z3
+C-1
+S
+#25130
+{BO,C}Guest Room{bo,c}~
+
+   This is obviously a guest room.  It is modestly
+   furnished and an assortment of reading materials line
+   a book case set into the far wall.
+
+~
+251 0 0
+D0
+These are doors to a guest room.
+ 
+~
+Guestroom Door~
+2 24024 25129
+Z3
+C-1
+S
+#25131
+{BO,C}Second Floor Hallway{bo,c}~
+
+   The carpets of this hallway are a rich red velvet.
+   Looking closely, you could swear the carpet moves
+   under you with the slow ebb of blood within arteries.
+
+   The hallway appears to make a large loop around the
+   top of the palace proper.  Several doors dot the
+   perimeter of the hall.
+
+~
+251 0 0
+D1
+~
+~
+0 -1 25134
+D3
+~
+~
+0 -1 25128
+Z3
+C-1
+S
+#25132
+{BO,C}Second Floor Hallway{bo,c}~
+
+   The carpets of this hallway are a rich red velvet.
+   Looking closely, you could swear the carpet moves
+   under you with the slow ebb of blood within arteries.
+
+   The hallway appears to make a large loop around the
+   top of the palace proper.  Several doors dot the
+   perimeter of the hall.
+
+~
+251 0 0
+D1
+~
+~
+0 -1 25135
+D3
+~
+~
+0 -1 25129
+Z3
+C-1
+S
+#25133
+{BO,C}Guest Room{bo,c}~
+
+   This is obviously a guest room.  It is modestly
+   furnished and an assortment of reading materials line
+   a book case set into the far wall.
+
+~
+251 0 0
+D1
+~
+~
+0 -1 25137
+D2
+These are doors to a guest room.
+ 
+~
+Guestroom Door~
+2 24024 25134
+Z3
+C-1
+S
+#25134
+{BO,C}Second Floor Hallway{bo,c}~
+
+   The carpets of this hallway are a rich red velvet.
+   Looking closely, you could swear the carpet moves
+   under you with the slow ebb of blood within arteries.
+
+   The hallway appears to make a large loop around the
+   top of the palace proper.  Several doors dot the
+   perimeter of the hall.
+
+~
+251 0 0
+D0
+These are doors to a guest room.
+ 
+~
+Guestroom Door~
+2 24024 25133
+D1
+~
+~
+0 -1 25138
+D3
+~
+~
+0 -1 25131
+Z3
+C-1
+S
+#25135
+{BO,C}Second Floor Hallway{bo,c}~
+
+   The carpets of this hallway are a rich red velvet.
+   Looking closely, you could swear the carpet moves
+   under you with the slow ebb of blood within arteries.
+
+   The hallway appears to make a large loop around the
+   top of the palace proper.  Several doors dot the
+   perimeter of the hall.
+
+~
+251 0 0
+D1
+~
+~
+0 -1 25140
+D2
+These are doors to a guest room.
+ 
+~
+Guestroom Door~
+2 24024 25136
+D3
+~
+~
+0 -1 25132
+Z3
+C-1
+S
+#25136
+{BO,C}Guest Room{bo,c}~
+
+   This is obviously a guest room.  It is modestly
+   furnished and an assortment of reading materials line
+   a book case set into the far wall.
+
+~
+251 0 0
+D0
+These are doors to a guest room.
+ 
+~
+Guestroom Door~
+2 24024 25135
+Z3
+C-1
+S
+#25137
+{BO,C}Guest Room{bo,c}~
+
+   This is obviously a guest room.  It is modestly
+   furnished and an assortment of reading materials line
+   a book case set into the far wall.
+
+~
+251 0 0
+D3
+~
+~
+0 -1 25133
+Z3
+C-1
+S
+#25138
+{BO,C}Second Floor Hallway{bo,c}~
+
+   The carpets of this hallway are a rich red velvet.
+   Looking closely, you could swear the carpet moves
+   under you with the slow ebb of blood within arteries.
+
+   The hallway appears to make a large loop around the
+   top of the palace proper.  Several doors dot the
+   perimeter of the hall.
+
+~
+251 0 0
+D2
+~
+~
+0 -1 25139
+D3
+~
+~
+0 -1 25134
+Z3
+C-1
+S
+#25139
+{BO,C}Second Floor Hallway{bo,c}~
+
+   The carpets of this hallway are a rich red velvet.
+   Looking closely, you could swear the carpet moves
+   under you with the slow ebb of blood within arteries.
+
+   The hallway appears to make a large loop around the
+   top of the palace proper.  Several doors dot the
+   perimeter of the hall.
+
+~
+251 0 0
+D0
+~
+~
+0 -1 25138
+D1
+These are the doors to the King's bedroom.
+ 
+~
+Bedroom Door~
+2 24024 25141
+D2
+~
+~
+0 -1 25140
+Z3
+C-1
+S
+#25140
+{BO,C}Second Floor Hallway{bo,c}~
+
+   The carpets of this hallway are a rich red velvet.
+   Looking closely, you could swear the carpet moves
+   under you with the slow ebb of blood within arteries.
+
+   The hallway appears to make a large loop around the
+   top of the palace proper.  Several doors dot the
+   perimeter of the hall.
+
+~
+251 0 0
+D0
+~
+~
+0 -1 25139
+D3
+~
+~
+0 -1 25135
+Z3
+C-1
+S
+#25141
+{BO,C}King's Bedroom{bo,c}~
+
+   Lush tapestries hang from the walls.  Between these,
+   an assortment of weapons and the heads of exotic
+   beasts hang from great iron hooks.  Opulent
+   furnishings are spread throughout the room.  Given
+   time, the sales of all the items in this room could
+   set a person for life.
+
+~
+251 0 0
+D3
+These are the doors to the King's bedroom.
+ 
+~
+Bedroom Door~
+2 24024 25139
+Z3
+C-1
+S
+#25142
+{BO,B}Wall Road{bo,b}~
+
+   This path runs the length of the outer wall.  On the
+   inside track are the various buildings which make up
+   the castle grounds and the castle proper.
+
+~
+251 0 0
+D0
+~
+~
+0 -1 25143
+Z3
+C-1
+S
+#25143
+{BO,B}Wall Road{bo,b}~
+
+   This path runs the length of the outer wall.  On the
+   inside track are the various buildings which make up
+   the castle grounds and the castle proper.
+
+~
+251 0 0
+D0
+~
+~
+0 -1 25144
+D2
+~
+~
+0 -1 25142
+Z3
+C-1
+S
+#25144
+{BO,B}Wall Road{bo,b}~
+
+   This path runs the length of the outer wall.  On the
+   inside track are the various buildings which make up
+   the castle grounds and the castle proper.
+
+~
+251 0 0
+D1
+~
+~
+0 -1 25145
+D2
+~
+~
+0 -1 25143
+Z3
+C-1
+S
+#25145
+{BO,B}Wall Road{bo,b}~
+
+   This path runs the length of the outer wall.  On the
+   inside track are the various buildings which make up
+   the castle grounds and the castle proper.
+
+~
+251 0 0
+D1
+~
+~
+0 -1 25146
+D3
+~
+~
+0 -1 25144
+Z3
+C-1
+S
+#25146
+{BO,B}Wall Road{bo,b}~
+
+   This path runs the length of the outer wall.  On the
+   inside track are the various buildings which make up
+   the castle grounds and the castle proper.
+
+~
+251 0 0
+D1
+~
+~
+0 -1 25147
+D2
+The barracks door is made of thick oak reinforced with iron bands.
+ 
+~
+Door~
+1 24024 25108
+D3
+~
+~
+0 -1 25145
+Z3
+C-1
+S
+#25147
+{BO,B}Wall Road{bo,b}~
+
+   This path runs the length of the outer wall.  On the
+   inside track are the various buildings which make up
+   the castle grounds and the castle proper.
+
+~
+251 0 0
+D1
+~
+~
+0 -1 25148
+D3
+~
+~
+0 -1 25146
+Z3
+C-1
+S
+#25148
+{BO,B}Wall Road{bo,b}~
+
+   This path runs the length of the outer wall.  On the
+   inside track are the various buildings which make up
+   the castle grounds and the castle proper.
+
+~
+251 0 0
+D1
+~
+~
+0 -1 25149
+D3
+~
+~
+0 -1 25147
+Z3
+C-1
+S
+#25149
+{BO,B}Wall Road{bo,b}~
+
+   This path runs the length of the outer wall.  On the
+   inside track are the various buildings which make up
+   the castle grounds and the castle proper.
+
+~
+251 0 0
+D1
+~
+~
+0 -1 25150
+D3
+~
+~
+0 -1 25148
+Z3
+C-1
+S
+#25150
+{BO,B}Wall Road{bo,b}~
+
+   This path runs the length of the outer wall.  On the
+   inside track are the various buildings which make up
+   the castle grounds and the castle proper.
+
+~
+251 0 0
+D1
+~
+~
+0 -1 25151
+D3
+~
+~
+0 -1 25149
+Z3
+C-1
+S
+#25151
+{BO,B}Wall Road{bo,b}~
+
+   This path runs the length of the outer wall.  On the
+   inside track are the various buildings which make up
+   the castle grounds and the castle proper.
+
+~
+251 0 0
+D1
+~
+~
+0 -1 25152
+D3
+~
+~
+0 -1 25150
+Z3
+C-1
+S
+#25152
+{BO,B}Wall Road{bo,b}~
+
+   This path runs the length of the outer wall.  On the
+   inside track are the various buildings which make up
+   the castle grounds and the castle proper.
+
+~
+251 0 0
+D1
+~
+~
+0 -1 25153
+D3
+~
+~
+0 -1 25151
+Z3
+C-1
+S
+#25153
+{BO,B}Wall Road{bo,b}~
+
+   This path runs the length of the outer wall.  On the
+   inside track are the various buildings which make up
+   the castle grounds and the castle proper.
+
+~
+251 0 0
+D2
+~
+~
+0 -1 25154
+D3
+~
+~
+0 -1 25152
+Z3
+C-1
+S
+#25154
+{BO,B}Wall Road{bo,b}~
+
+   This path runs the length of the outer wall.  On the
+   inside track are the various buildings which make up
+   the castle grounds and the castle proper.
+
+~
+251 0 0
+D0
+~
+~
+0 -1 25153
+D2
+~
+~
+0 -1 25177
+Z3
+C-1
+S
+#25155
+{BO,B}Wall Road{bo,b}~
+
+   This path runs the length of the outer wall.  On the
+   inside track are the various buildings which make up
+   the castle grounds and the castle proper.
+
+~
+251 0 0
+D2
+~
+~
+0 -1 25156
+Z3
+C-1
+S
+#25156
+{BO,B}Wall Road{bo,b}~
+
+   This path runs the length of the outer wall.  On the
+   inside track are the various buildings which make up
+   the castle grounds and the castle proper.
+
+~
+251 0 0
+D0
+~
+~
+0 -1 25155
+D2
+~
+~
+0 -1 25157
+Z3
+C-1
+S
+#25157
+{BO,B}Wall Road{bo,b}~
+
+   This path runs the length of the outer wall.  On the
+   inside track are the various buildings which make up
+   the castle grounds and the castle proper.
+
+~
+251 0 0
+D0
+~
+~
+0 -1 25156
+D1
+~
+~
+0 -1 25158
+Z3
+C-1
+S
+#25158
+{BO,B}Wall Road{bo,b}~
+
+   This path runs the length of the outer wall.  On the
+   inside track are the various buildings which make up
+   the castle grounds and the castle proper.
+
+~
+251 0 0
+D1
+~
+~
+0 -1 25159
+D3
+~
+~
+0 -1 25157
+Z3
+C-1
+S
+#25159
+{BO,B}Wall Road{bo,b}~
+
+   This path runs the length of the outer wall.  On the
+   inside track are the various buildings which make up
+   the castle grounds and the castle proper.
+
+~
+251 0 0
+D0
+The barracks door is made of thick oak reinforced with iron bands.
+ 
+~
+Door~
+1 24024 25112
+D1
+~
+~
+0 -1 25160
+D3
+~
+~
+0 -1 25158
+Z3
+C-1
+S
+#25160
+{BO,B}Wall Road{bo,b}~
+
+   This path runs the length of the outer wall.  On the
+   inside track are the various buildings which make up
+   the castle grounds and the castle proper.
+
+~
+251 0 0
+D1
+~
+~
+0 -1 25161
+D3
+~
+~
+0 -1 25159
+Z3
+C-1
+S
+#25161
+{BO,B}Wall Road{bo,b}~
+
+   This path runs the length of the outer wall.  On the
+   inside track are the various buildings which make up
+   the castle grounds and the castle proper.
+
+~
+251 0 0
+D1
+~
+~
+0 -1 25162
+D3
+~
+~
+0 -1 25160
+Z3
+C-1
+S
+#25162
+{BO,B}Wall Road{bo,b}~
+
+   This path runs the length of the outer wall.  On the
+   inside track are the various buildings which make up
+   the castle grounds and the castle proper.
+
+~
+251 0 0
+D1
+~
+~
+0 -1 25163
+D3
+~
+~
+0 -1 25161
+Z3
+C-1
+S
+#25163
+{BO,B}Wall Road{bo,b}~
+
+   This path runs the length of the outer wall.  On the
+   inside track are the various buildings which make up
+   the castle grounds and the castle proper.
+
+~
+251 0 0
+D1
+~
+~
+0 -1 25164
+D3
+~
+~
+0 -1 25162
+Z3
+C-1
+S
+#25164
+{BO,B}Wall Road{bo,b}~
+
+   This path runs the length of the outer wall.  On the
+   inside track are the various buildings which make up
+   the castle grounds and the castle proper.
+
+~
+251 0 0
+D1
+~
+~
+0 -1 25165
+D3
+~
+~
+0 -1 25163
+Z3
+C-1
+S
+#25165
+{BO,B}Wall Road{bo,b}~
+
+   This path runs the length of the outer wall.  On the
+   inside track are the various buildings which make up
+   the castle grounds and the castle proper.
+
+~
+251 0 0
+D1
+~
+~
+0 -1 25166
+D3
+~
+~
+0 -1 25164
+Z3
+C-1
+S
+#25166
+{BO,B}Wall Road{bo,b}~
+
+   This path runs the length of the outer wall.  On the
+   inside track are the various buildings which make up
+   the castle grounds and the castle proper.
+
+~
+251 0 0
+D0
+~
+~
+0 -1 25167
+D3
+~
+~
+0 -1 25165
+Z3
+C-1
+S
+#25167
+{BO,B}Wall Road{bo,b}~
+
+   This path runs the length of the outer wall.  On the
+   inside track are the various buildings which make up
+   the castle grounds and the castle proper.
+
+~
+251 0 0
+D0
+~
+~
+0 -1 25168
+D2
+~
+~
+0 -1 25166
+Z3
+C-1
+S
+#25168
+{W}The {BLU}Royal {BO,G}Garden{bo,g}~
+
+   Lush flowers from various tropical regions bloom in
+   abundance in this spectacular display of colour and
+   variety.  The path seems to lead off in all
+   directions.  An easy place to get lost you say to
+   yourself.
+
+~
+251 1028 0
+D0
+~
+~
+0 -1 25172
+D1
+~
+~
+0 -1 25169
+D2
+~
+~
+0 -1 25167
+Z3
+C-1
+S
+#25169
+{W}The {BLU}Royal {BO,G}Garden{bo,g}~
+
+   Lush flowers from various tropical regions bloom in
+   abundance in this spectacular display of colour and
+   variety.  The path seems to lead off in all
+   directions.  An easy place to get lost you say to
+   yourself.
+
+~
+251 1028 0
+D0
+~
+~
+0 -1 25173
+D1
+~
+~
+0 -1 25170
+D3
+~
+~
+0 -1 25168
+Z3
+C-1
+S
+#25170
+{W}The {BLU}Royal {BO,G}Garden{bo,g}~
+
+   Lush flowers from various tropical regions bloom in
+   abundance in this spectacular display of colour and
+   variety.  The path seems to lead off in all
+   directions.  An easy place to get lost you say to
+   yourself.
+
+~
+251 1028 0
+D0
+~
+~
+0 -1 25174
+D1
+~
+~
+0 -1 25171
+D3
+~
+~
+0 -1 25169
+Z3
+C-1
+S
+#25171
+{W}The {BLU}Royal {BO,G}Garden{bo,g}~
+
+   Lush flowers from various tropical regions bloom in
+   abundance in this spectacular display of colour and
+   variety.  The path seems to lead off in all
+   directions.  An easy place to get lost you say to
+   yourself.
+
+~
+251 1028 0
+D0
+~
+~
+0 -1 25175
+D3
+~
+~
+0 -1 25170
+Z3
+C-1
+S
+#25172
+{W}The {BLU}Royal {BO,G}Garden{bo,g}~
+
+   Lush flowers from various tropical regions bloom in
+   abundance in this spectacular display of colour and
+   variety.  The path seems to lead off in all
+   directions.  An easy place to get lost you say to
+   yourself.
+
+~
+251 1028 0
+D0
+~
+~
+0 -1 25177
+D1
+~
+~
+0 -1 25173
+D2
+~
+~
+0 -1 25168
+Z3
+C-1
+S
+#25173
+{W}The {BLU}Royal {BO,G}Garden{bo,g}~
+
+   Lush flowers from various tropical regions bloom in
+   abundance in this spectacular display of colour and
+   variety.  The path seems to lead off in all
+   directions.  An easy place to get lost you say to
+   yourself.
+
+~
+251 1028 0
+D0
+~
+~
+0 -1 25172
+D1
+~
+~
+0 -1 25174
+D2
+~
+~
+0 -1 25172
+D3
+~
+~
+0 -1 25172
+Z3
+C-1
+S
+#25174
+{W}The {BLU}Royal {BO,G}Garden{bo,g}~
+
+   Lush flowers from various tropical regions bloom in
+   abundance in this spectacular display of colour and
+   variety.  The path seems to lead off in all
+   directions.  An easy place to get lost you say to
+   yourself.
+
+~
+251 1028 0
+D0
+~
+~
+0 -1 25172
+D1
+~
+~
+0 -1 25172
+D2
+~
+~
+0 -1 25172
+D3
+~
+~
+0 -1 25173
+Z3
+C-1
+S
+#25175
+{W}The {BLU}Royal {BO,G}Garden{bo,g}~
+
+   Lush flowers from various tropical regions bloom in
+   abundance in this spectacular display of colour and
+   variety.  The path seems to lead off in all
+   directions.  An easy place to get lost you say to
+   yourself.
+
+~
+251 1028 0
+D0
+~
+~
+0 -1 25180
+D1
+~
+~
+0 -1 25176
+D2
+~
+~
+0 -1 25171
+D3
+~
+~
+0 -1 25174
+Z3
+C-1
+S
+#25176
+{BO,C}The {B}O{C}u{B}t{C}s{B}i{C}d{B}e {C}Wall{bo,c}~
+
+   Part of the outer wall stands here.  It is craggy and
+   crumbling and appears that it may collapse at any
+   moment without warning.
+
+   Perched precariously at the peek of the most unstable
+   segment sits a large egg.  It is painted the way
+   Easter eggs are sometimes done, with a little costume
+   and a big smiley face.  It rocks to and fro humming a
+   careless tune.  Uh oh, looks like it is about to lose
+   it's purchase.  Better hope that this is a hard boiled
+   egg.
+
+~
+251 1156 0
+D3
+~
+~
+0 -1 25172
+Z3
+C-1
+S
+#25177
+{W}The {BLU}Royal {BO,G}Garden{bo,g}~
+
+   Lush flowers from various tropical regions bloom in
+   abundance in this spectacular display of colour and
+   variety.  The path seems to lead off in all
+   directions.  An easy place to get lost you say to
+   yourself.
+
+~
+251 1028 0
+D0
+~
+~
+0 -1 25154
+D1
+~
+~
+0 -1 25178
+D2
+~
+~
+0 -1 25172
+Z3
+C-1
+S
+#25178
+{W}The {BLU}Royal {BO,G}Garden{bo,g}~
+
+   Lush flowers from various tropical regions bloom in
+   abundance in this spectacular display of colour and
+   variety.  The path seems to lead off in all
+   directions.  An easy place to get lost you say to
+   yourself.
+
+~
+251 1028 0
+D1
+~
+~
+0 -1 25179
+D2
+~
+~
+0 -1 25173
+D3
+~
+~
+0 -1 25177
+Z3
+C-1
+S
+#25179
+{W}The {BLU}Royal {BO,G}Garden{bo,g}~
+
+   Lush flowers from various tropical regions bloom in
+   abundance in this spectacular display of colour and
+   variety.  The path seems to lead off in all
+   directions.  An easy place to get lost you say to
+   yourself.
+
+~
+251 1028 0
+D1
+~
+~
+0 -1 25180
+D2
+~
+~
+0 -1 25174
+D3
+~
+~
+0 -1 25178
+Z3
+C-1
+S
+#25180
+{W}The {BLU}Royal {BO,G}Garden{bo,g}~
+
+   Lush flowers from various tropical regions bloom in
+   abundance in this spectacular display of colour and
+   variety.  The path seems to lead off in all
+   directions.  An easy place to get lost you say to
+   yourself.
+
+~
+251 1028 0
+D2
+~
+~
+0 -1 25175
+D3
+~
+~
+0 -1 25179
+Z3
+C-1
+S
+#25199
+{W}Still Lost{w}~
+
+   Your becoming pretty familiar with several different
+   types of flora and fauna.  Like you really care.  You
+   are a warrior, you just want to kill something.  Now
+   get your fat ass in gear and find that rabbit.
+
+~
+251 33025 3
+D0
+~
+~
+0 -1 24005
+D1
+~
+~
+0 -1 24004
+D2
+~
+~
+0 -1 24004
+D3
+~
+~
+0 -1 24004
+T24009
+Z3
+C-1
+S
+$~

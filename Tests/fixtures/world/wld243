@@ -1,0 +1,2311 @@
+#24300
+{Y}A Large Pasture{y}~
+{Y}
+  You round the bend and find yourself in a large field.
+  It seems to be a farm of some sort.  Better watch where
+  you step!!  You might get something nasty on your boots!
+{y}
+~
+243 4 2
+D1
+~
+~
+0 -1 49600
+D3
+~
+~
+0 -1 24301
+Z3
+C-1
+S
+#24301
+A Large Pasture~
+
+Boy!!! This field is really starting to get smelly. You look
+down at your boots and realize you stepped in a huge pile of dung!
+YUCK!!!!
+
+~
+243 0 2
+D0
+~
+~
+0 -1 24304
+D1
+~
+~
+0 -1 24300
+D3
+~
+~
+0 -1 24302
+Z3
+C-1
+S
+#24302
+A large Pasture~
+     Whoa!! You almost slipped and fell!  You just stepped
+in what must be the largest pile of poop you have ever seen.
+There are piles everywhere.  Certainly would be messy if
+you fell.  You better be really careful.
+~
+243 0 2
+D0
+~
+~
+0 -1 24303
+D1
+~
+~
+0 -1 24301
+D3
+~
+~
+0 -1 24306
+Z3
+C-1
+S
+#24303
+A Large Pasture~
+     More piles..  Piles as far as the eye can see.
+The flies are really starting to bother you now.
+~
+243 0 2
+D0
+~
+~
+0 -1 24312
+D1
+~
+~
+0 -1 24304
+D2
+~
+~
+0 -1 24302
+D3
+~
+~
+0 -1 24305
+Z3
+C-1
+S
+#24304
+A Large Pasture~
+     More piles.. Piles as far as the eye can see.
+The flies are really starting to bother you now.
+~
+243 0 2
+D0
+~
+~
+0 -1 24308
+D1
+~
+~
+0 -1 24305
+D2
+~
+~
+0 -1 24301
+D3
+~
+~
+0 -1 24303
+Z3
+C-1
+S
+#24305
+A Large Pasture~
+     More piles.. Piles as far as the eye can see.
+The flies are really starting to bother you now.
+~
+243 0 2
+D0
+~
+~
+0 -1 24307
+D1
+~
+~
+0 -1 24303
+D2
+~
+~
+0 -1 24306
+D3
+~
+~
+0 -1 24304
+Z3
+C-1
+S
+#24306
+A Large Pasture~
+     More piles.. Piles as far as the eye can see.
+The flies are really starting to bother you.
+~
+243 0 2
+D0
+~
+~
+0 -1 24305
+D1
+~
+~
+0 -1 24302
+D2
+~
+~
+0 -1 24307
+D3
+~
+~
+0 -1 24301
+Z3
+C-1
+S
+#24307
+A Large Pasture~
+
+     More piles.. Piles as far as the eye can see.
+The flies are really thick around here.  You notice they
+seem to be covering the ground.  OH MY! You just realized
+the ground here isn't dirt at all!!
+
+~
+243 0 2
+D0
+~
+~
+0 -1 24306
+D2
+~
+~
+0 -1 24305
+D3
+~
+~
+0 -1 24308
+Z3
+C-1
+S
+#24308
+A Large Pasture~
+     Well the dung is hardly around here at all.  To
+the north you can see a house.
+~
+243 0 2
+D0
+~
+~
+0 -1 24393
+D1
+~
+~
+0 -1 24307
+D2
+~
+~
+0 -1 24304
+D3
+~
+~
+0 -1 24312
+Z3
+C-1
+S
+#24309
+Sheep Chute~
+
+     Wow! You are standing in front of a large barn.
+The noise and smell are beginning to get on your nerves.
+You notice to the north is a dark tunnel that looks
+like a chute leading down from the barn.
+
+~
+243 0 1
+D1
+~
+gate~
+1 -1 24312
+Z3
+C-1
+S
+#24310
+The chute~
+one man one way room south smile
+~
+243 0 1
+D0
+~
+~
+0 -1 24311
+D2
+~
+~
+0 -1 24309
+Z3
+C1
+S
+#24311
+DO NOT ENTER.. massive spam~
+Damn.. its crowded in here.. Lots of animals.. you cant move!! 
+~
+243 0 1
+D2
+~
+~
+0 -1 24310
+Z3
+C-1
+S
+#24312
+A Large Pasture~
+     To the west you can see a large barn in the distance.
+There seems to be alot of noise comming from that direction.
+There also is a gate to the west with a fence surrounding
+the barn.
+~
+243 0 2
+D1
+~
+~
+0 -1 24308
+D2
+~
+~
+0 -1 24303
+D3
+~
+gate~
+1 -1 24309
+Z3
+C-1
+S
+#24313
+Near a Large Farmhouse~
+
+     A beautiful farmhouse is here. This must belong
+to the person that owns the sheep.  The house sits
+on the edge of the woods.  
+ 
+You can see the trail through the woods continues
+from here.
+
+~
+243 0 4
+D0
+~
+~
+0 -1 24314
+D3
+~
+~
+0 -1 24315
+Z3
+C-1
+S
+#24314
+Well worn path through the woods~
+     You find yourself walking through a thick forest.
+You hear only the sound of your feet rustling
+the dried leaves on the ground.  It sounds
+eerily quiet here.
+~
+243 4 3
+D0
+~
+~
+0 -1 24316
+D2
+~
+~
+0 -1 24313
+Z3
+C-1
+S
+#24315
+Turn in the Path~
+
+     Suddenly the ground seems a little unstable.  You look
+down but everything seems to be in place. Strange!! 
+
+There is a sign here.  Maybe you should read it.  
+The path continues on to the east.
+
+
+~
+243 33554432 3
+D1
+~
+~
+0 -1 24313
+D2
+~
+~
+0 -1 24393
+E
+sign~
+                 _______
+                |     '"|
+ #######################################
+ #                                     #
+ #              WARNING!!              #
+ #   You are now entering a No Summons #
+ #   No Visit area.  If you don't      #
+ #   know what that means, You better  #
+ #   ask someone!                      #
+ #                                     #
+ #   Thank you -- The Management.      #
+ #                                     #
+ #######################################
+                |     '"|
+                |     '"|
+              \ | ; ? /'| /
+               \|/\# / ;:/
+~
+Z3
+C-1
+S
+#24316
+End of a Small Neighborhood Street~
+
+     Standing here you get a great view of the Neighborhood.
+What a nice place to live!!  Too bad looks are deceiving!!
+Better not judge this book by its cover!
+
+~
+243 4194304 1
+D1
+~
+~
+0 -1 24317
+D2
+~
+~
+0 -1 24314
+Z3
+C-1
+S
+#24317
+Neighborhood Street~
+
+     To the north is a park.  You hear laughter and splashing
+coming from that general direction.  There must be a pool!!
+You check your watch.  Maybe you have time to take a swim!
+     To the south is a cute house... White picket fence and
+a two car garage.  What a dream house!!  Maybe you should
+go see who's home!
+
+~
+243 4 1
+D0
+~
+~
+0 -1 24318
+D1
+~
+~
+0 -1 24339
+D2
+~
+~
+0 -1 24324
+D3
+~
+~
+0 -1 24316
+Z3
+C-1
+S
+#24318
+Park Entrance~
+     
+     What a nice little park. You can see children
+running about having a great time. In the far northwest
+corner is a huge old oak tree. Directly to the west is
+a community pool. You begin to get anxious to take that
+swim!
+
+~
+243 0 1
+D0
+~
+~
+0 -1 24323
+D2
+~
+~
+0 -1 24317
+D3
+~
+~
+0 -1 24319
+Z3
+C-1
+S
+#24319
+The Park~
+     Wow what a fun park!  Its so nice here.  You'll have to
+bring the family along next time!
+
+     To the west is the community pool.  The water looks so
+inviting!!  You realize that you left your swim suit at home.
+I guess if anyone gives you a hard time you'll just have to 
+kill them.
+~
+243 0 1
+D0
+~
+~
+0 -1 24322
+D1
+~
+~
+0 -1 24318
+D3
+~
+~
+0 -1 24320
+Z3
+C-1
+S
+#24320
+Pool House~
+     You're in the pool house now.  You can smell the
+chlorine from the pool already.  Good thing too! Looking
+into the pool, you witness the brats having a great time
+splashing about.  You know they've been using that pool
+as their own personal toilet!  Time to ruin their day
+and make that pool safe to swim in!
+
+~
+243 0 1
+D0
+This is one of those new Electronic Locks.  You Need
+the card to open it.
+~
+gate~
+2 24303 24321
+D1
+~
+~
+0 -1 24319
+Z3
+C-1
+S
+#24321
+The Pool!~
+
+     Here it is!! Its killing time!  How refreshing!!
+Swimming and killing! What could be a more perfect day!
+
+   
+The water feels great.
+
+~
+243 128 6
+D2
+~
+gate~
+1 -1 24320
+Z3
+C-1
+S
+#24322
+Northwest Corner of the Park~
+     You are standing under a huge tree.  Scattered around on the
+ground are small action figure dolls.  Hmm.. this looks like the
+perfect place to take a nap! Too bad you dont have the time!
+~
+243 0 1
+D1
+~
+~
+0 -1 24323
+D2
+~
+~
+0 -1 24319
+E
+tree~
+
+    I would like to thank the following people
+who have helped me create this zone.  Either by
+their hints or their time and patience when it
+came to learning how to create.
+     Shirokuma
+     Alban
+     Bledsoe
+     Keg
+
+Id like to thank Dizzy for his patience when going
+through looking for my silly typing errors.
+
+And most of all the people who reviewed this zone.
+Silverdust
+~
+Z3
+C-1
+S
+#24323
+Northeast Corner of the Park~
+     Your standing here on the edge of a huge paved area created
+just for people who like to skateboard and rollerblade.
+The paved areas seem to go on forever.
+~
+243 0 1
+D2
+~
+~
+0 -1 24318
+D3
+~
+~
+0 -1 24322
+Z3
+C-1
+S
+#24324
+The Front Yard~
+     Your standing here on a perfectly manicured lawn.
+This house looks like it is well cared for.  Time to kill the
+owners!
+
+~
+243 0 1
+D0
+~
+~
+0 -1 24317
+D2
+~
+~
+0 -1 24325
+Z3
+C-1
+S
+#24325
+Front Hall~
+ 
+     You step inside this house and immediately smell dinner.
+Everything is quiet except for the muffled sounds of someone
+talking.
+~
+243 4194313 1
+D0
+~
+~
+0 -1 24324
+D2
+~
+~
+0 -1 24326
+Z3
+C-1
+S
+#24326
+The Family Room~
+
+     This is a cozy room!  There is a fireplace here.  A very 
+comfortable couch is here also!  There also seems to be a musty 
+smell of a pipe.  You figure the old man must be around here 
+somewhere.
+
+~
+243 4194313 1
+D0
+~
+~
+0 -1 24325
+D1
+~
+~
+0 -1 24327
+Z3
+C-1
+S
+#24327
+The Dining Room~
+
+     How nicely the table is set.  Perfect china set out
+in four settings.  Against the wall is the china cabinet
+that matches the dining room set perfectly!  Too bad they
+wont get to eat dinner!
+
+
+~
+243 4194313 1
+D0
+~
+~
+0 -1 24330
+D2
+~
+~
+0 -1 24328
+D3
+~
+~
+0 -1 24326
+Z3
+C-1
+S
+#24328
+Office ~
+
+     Just by looking at the furniture here you know this is
+an office.  There is a large sliding glass door to the
+south that leads to the backyard.  The desk is against 
+the wall.
+
+~
+243 4194313 1
+D0
+~
+~
+0 -1 24327
+D2
+A Sliding Glass Door that leads to the back yard.
+
+~
+Sliding~
+1 -1 24329
+Z3
+C-1
+S
+#24329
+The Back Yard~
+
+     What a perfect back yard!  Complete with swing set
+and sand box.  You see a doghouse here.  Spot has his
+name painted over the door.  How quaint!
+
+~
+243 4194304 1
+D0
+~
+Sliding~
+1 -1 24328
+Z3
+C-1
+S
+#24330
+The Kitchen~
+
+     Ahhhh! This is the source of that wonderful smell!
+Your stomach begins to growl and you feel a stream of drool
+make its way down your chin.  You are Hungry.
+     A quick investigation of this room may lead
+to some gastric goodies!  Search it well!
+
+~
+243 4194313 1
+D1
+~
+~
+0 -1 24338
+D2
+~
+~
+0 -1 24327
+D4
+~
+~
+0 -1 24333
+D5
+T     This has got to be the Basement Door..
+Wonder what is down there.. you'd love to find out but you gotta
+get the key.  Wonder who has it
+
+~
+Basement~
+1 24304 24331
+Z3
+C-1
+S
+#24331
+The Basement~
+
+     Hey! This is the old Dude's little workshop...
+Boy, is he handy or what!  Mr. Fix-it, he is... Just look at all
+this stuff!  Gadgets for just about everything!
+
+     Judging from the lock on the door, he must come down
+here to get away from his perfect family.
+
+~
+243 4194313 1
+D0
+This is a very heavy looking door.  What ever is
+behind it must be VERY valuable.  Maybe you should find the key.
+~
+Door~
+2 24304 24332
+D4
+~
+Basement~
+1 -1 24330
+Z3
+C-1
+S
+#24332
+Dad's Hideaway~
+
+     WOW!! The old guy was a total PERVERT!!  Looking around
+this room gives you a headache.  Pornography is scattered
+all over the place!!  And look at the toys!! you examine one up
+close and cant begin to imagine what it is used for!  OR who its
+supposed to be used on!  Whoa!! Good thing you killed the guy!!
+Now women all over can sleep safe at night!  Then it occurs to you..
+You wonder if his wife knew.  You shudder at the thought!  OH!
+But then .... Maybe she was part of it!
+~
+243 4456457 1
+D2
+~
+Door~
+1 -1 24331
+Z3
+C-1
+S
+#24333
+The Upstairs Hallway~
+
+     Your standing here in the upstairs hallway..  Its VERY dark!
+So dark your light doesnt even seem to penetrate the darkness.
+Better be careful here!
+
+~
+243 4194313 1
+D1
+~
+~
+0 -1 24334
+D2
+~
+~
+0 -1 24336
+D5
+~
+~
+0 -1 24330
+Z3
+C-1
+S
+#24334
+The Boy's Bedroom~
+
+     Look at this mess!  Toys strown all over the room!!  There is
+a rather large stack of music lyrics here and also hung up on the
+walls.  On the desk, is something the child appears to be working
+on.  Its unknown at this time what exactly this project will be
+when its finished.
+
+~
+243 0 1
+D3
+~
+~
+0 -1 24333
+E
+project~
+
+     Hmmmmm.  You still cannot figure this one out.  It's
+made from some sort of metal.  Seems to be of Unknown Origin.  STRANGE!
+ 
+~
+Z3
+C-1
+S
+#24335
+The Bathroom~
+
+     Looks like a typical bathroom.  Nothing to report here!
+Lots of make-up and stuff cluttering up the vanity.  Other
+then that.. Pretty ordinary!
+
+~
+243 0 1
+D3
+~
+Door~
+1 -1 24336
+Z3
+C1
+S
+#24336
+The Upstairs Hallway~
+
+     Your standing here in the upstairs hallway..  Its VERY dark!
+So dark your light doesnt even seem to penetrate the darkness.
+Better be careful here!
+
+~
+243 4194313 1
+D0
+~
+~
+0 -1 24333
+D1
+~
+Door~
+1 -1 24335
+D3
+~
+~
+0 -1 24337
+Z3
+C-1
+S
+#24337
+The Girl's Bedroom~
+
+     Grrooovvvvyyyy! This chick has a style that can only be
+retro-sixties.  Poster on the wall remind you of those carefree
+days.  Lots of dead musicians are depicted on these walls.
+     The only light source here is the black light on the dresser.
+Look! Its turning your teeth a sickening blue-green color.  Looks
+like she's been cleaning too.  A full bottle of Mr. Cleen brand
+household cleaner is sitting next to the light giving off a bright
+green glow.
+~
+243 4194313 1
+D1
+~
+~
+0 -1 24336
+Z3
+C-1
+S
+#24338
+The Garage~
+
+     There are two cars here.  One is the perfect family car,
+a station wagon.  The other is a sporty Lexus.  Boy, isn't
+this the perfect family!  Well they were until you killed
+them.  Now they are perfect corpses!!
+
+~
+243 4194313 1
+D0
+~
+~
+0 -1 24324
+D3
+~
+~
+0 -1 24330
+Z3
+C-1
+S
+#24339
+Neighborhood Street~
+
+     Your standing in the middle of the street.  This is such a
+nice quiet neighboorhood you dont even need to move out of the
+way for cars!  Doesnt matter anyway.. if they came
+you'd kill them anyway.. just for kicks!
+
+     Further to the east, you can see a large building.  Maybe
+you should investigate!
+
+~
+243 4194304 1
+D1
+~
+~
+0 -1 24340
+D3
+~
+~
+0 -1 24317
+Z3
+C-1
+S
+#24340
+Neighborhood Street~
+
+     Your standing in the middle of the street.  This is such a
+nice quiet neighborhood.  You dont even need to move out of the way 
+for cars!  Doesn't matter anyway.. If they came, You'd kill
+the driver anyway, just for kicks!
+
+     Further east, you can see a large building.  Maybe you
+should investigate!
+
+~
+243 4194304 1
+D0
+~
+~
+0 -1 24362
+D1
+~
+~
+0 -1 24341
+D2
+~
+~
+0 -1 24367
+D3
+~
+~
+0 -1 24339
+Z3
+C-1
+S
+#24341
+The Parking Lot~
+
+     There's a rather large sized building here.  Looking around,
+you see many cars here.  You begin to wonder what this 
+building is.. Maybe it would be a good idea to check out the sign!
+
+~
+243 4194308 1
+D1
+~
+~
+0 -1 24342
+D3
+~
+~
+0 -1 24340
+E
+sign~
+     ____________________________________________________________
+     ############################################################
+     #^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^#
+     #                  Northern Crossroads                     #
+     #                       High School                        #
+     #                                                          #
+     #               Home of the Fighting Dragons!              #
+     #                                                          #
+     #                                                          #
+     ############################################################
+     ############################################################
+~
+Z3
+C-1
+S
+#24342
+The Hallway~
+
+     Well, you have entered the realm of High School Education!
+YUCK! Looking up and down the hallway, you see all those high
+school students chatting away about their teachers and homework.
+You hear the bell ring signaling the start of class.  Suddenly,
+you feel that your mission in life has become clear to you.
+You are the hall monitor!  Time to clear the halls!  WHOO WHOO!
+
+~
+243 4194313 1
+D0
+~
+~
+0 -1 24345
+D1
+~
+~
+0 -1 24343
+D2
+~
+~
+0 -1 24361
+D3
+~
+~
+0 -1 24341
+Z3
+C-1
+S
+#24343
+The Main Office~
+
+     Oh!! You know this place well!  It's the school's Main Office!
+You've been here many times for all sorts of things!  Good thing
+this time you are here for REVENGE!!
+
+     Now where did that principal go?? I'm sure he's around here
+somewhere!     GO GET HIM BIG BOY!
+~
+243 4194313 1
+D0
+~
+~
+0 -1 24344
+D3
+~
+~
+0 -1 24342
+Z3
+C-1
+S
+#24344
+The Principal's Office~
+
+     Oh NO!! It's the place you hate most of all!!
+Wait a minute.. What are you worried about?  You're here to
+give that idiot detention.. Better yet.. 
+EXPEL his butt!
+
+~
+243 4194313 1
+D2
+~
+~
+0 -1 24343
+Z3
+C-1
+S
+#24345
+The Hallway~
+
+     The hallway seems to go on forever.  On each wall of
+this hallway, there are banks of lockers as far as the eye
+can see.  Every row of 50 lockers seems to end at a door.
+Time to watch those teachers in action!  I wonder if they
+realize that they are the ones being graded today!
+
+~
+243 4194313 1
+D0
+~
+~
+0 -1 24346
+D2
+~
+~
+0 -1 24342
+Z3
+C-1
+S
+#24346
+The Hallway~
+
+     The hallway seems to go on forever.  On each wall of
+this hallway, there are banks of lockers as far as the eye
+can see.  Every row of 50 lockers seems to end at a door.
+Time to watch those teachers in action!  I wonder if they
+realize that they are the ones being graded today!
+
+~
+243 4194313 1
+D1
+~
+~
+0 -1 24347
+D2
+~
+~
+0 -1 24345
+Z3
+C-1
+S
+#24347
+The Hallway~
+
+     The hallway seems to go on forever.  On each wall of
+this hallway, there are banks of lockers as far as the eye
+can see.  Every row of 50 lockers seems to end at a door.
+Time to watch those teachers in action!  I wonder if they
+realize that they are the ones being graded today!
+
+~
+243 4194313 1
+D0
+~
+~
+0 -1 24348
+D1
+~
+~
+0 -1 24349
+D3
+~
+~
+0 -1 24346
+Z3
+C-1
+S
+#24348
+Math Class~
+
+     Well, here you are in math class once again!  Looking
+around the room you see all the student setting quietly waiting
+for their next assignment.  Too bad they wont get a chance to
+complete it!
+
+~
+243 4194313 1
+D2
+~
+~
+0 -1 24347
+Z3
+C-1
+S
+#24349
+The Hallway~
+
+     The hallway seems to go on forever.  On each wall of
+this hallway, there are banks of lockers as far as the eye
+can see.  Every row of 50 lockers seems to end at a door.
+Time to watch those teachers in action!  I wonder if they
+realize that they are the ones being graded today!
+
+~
+243 4194313 1
+D0
+~
+~
+0 -1 24350
+D1
+~
+~
+0 -1 24351
+D2
+~
+~
+0 -1 24384
+D3
+~
+~
+0 -1 24347
+Z3
+C-1
+S
+#24350
+The English Class~
+
+     Uhhhgggg! The walls are covered with sappy and some crappy
+poems.  You look at them and begin to feel ill. You never were
+one to get into that sappy stuff.  There is a sentence written
+on the blackboard.  Apparently the teacher is trying to explain
+something to his attentive students.  This guy's sensitivity is
+really starting to make you sick.  Time to kill him.. Go FOR IT!
+~
+243 4456457 1
+D2
+~
+~
+0 -1 24349
+Z3
+C-1
+S
+#24351
+The Hallway~
+
+     The hallway seems to go on forever.  On each wall of
+this hallway, there are banks of lockers as far as the eye
+can see.  Every row of 50 lockers seems to end at a door.
+Time to watch those teachers in action!  I wonder if they
+realize that they are the ones being graded today!
+
+~
+243 4194313 1
+D2
+~
+~
+0 -1 24352
+D3
+~
+~
+0 -1 24349
+Z3
+C-1
+S
+#24352
+The Hallway~
+
+     The hallway seems to go on forever.  On each wall of
+this hallway, there are banks of lockers as far as the eye
+can see.  Every row of 50 lockers seems to end at a door.
+Time to watch those teachers in action!  I wonder if they
+realize that they are the ones being graded today!
+
+~
+243 4194313 1
+D0
+~
+~
+0 -1 24351
+D1
+~
+~
+0 -1 24373
+D2
+~
+~
+0 -1 24353
+D3
+~
+~
+0 -1 24374
+Z3
+C-1
+S
+#24353
+The Hallway~
+
+     The hallway seems to go on forever.  On each wall of
+this hallway, there are banks of lockers as far as the eye
+can see.  Every row of 50 lockers seems to end at a door.
+Time to watch those teachers in action!  I wonder if they
+realize that they are the ones being graded today!
+
+~
+243 4194313 1
+D0
+~
+~
+0 -1 24352
+D1
+~
+~
+0 -1 24375
+D2
+~
+~
+0 -1 24354
+Z3
+C-1
+S
+#24354
+The Hallway~
+
+     Hmmm... There seems to be a faint aroma coming from
+somewhere around here. You are not sure exactly what the
+smell is or the origin, but its really starting to make you
+feel a little sick to the stomach.
+     You take a big whiff, and realize it is coming up from
+the stairs that lead down.  Time to investigate!
+
+~
+243 4194313 1
+D0
+~
+~
+0 -1 24353
+D3
+~
+~
+0 -1 24355
+D5
+~
+~
+0 -1 24376
+Z3
+C-1
+S
+#24355
+The Hallway~
+
+     The hallway seems to go on forever.  On each wall of
+this hallway, there are banks of lockers as far as the eye
+can see.  Every row of 50 lockers seems to end at a door.
+Time to watch those teachers in action!  I wonder if they
+realize that they are the ones being graded today!
+
+~
+243 4194313 1
+D0
+~
+~
+0 -1 24383
+D1
+~
+~
+0 -1 24354
+D2
+~
+~
+0 -1 24382
+D3
+~
+~
+0 -1 24356
+Z3
+C-1
+S
+#24356
+The Hallway~
+
+     The hallway seems to go on forever.  On each wall of
+this hallway, there are banks of lockers as far as the eye
+can see.  Every row of 50 lockers seems to end at a door.
+Time to watch those teachers in action!  I wonder if they
+realize that they are the ones being graded today!
+
+~
+243 4194313 1
+D1
+~
+~
+0 -1 24355
+D2
+~
+~
+0 -1 24358
+D3
+~
+~
+0 -1 24359
+Z3
+C-1
+S
+#24357
+A mountain cabin~
+You find yourself in a cozy room.  Looking up you see a vaulted ceiling
+supported by heavy looking oak beams.  The north wall is composed completely
+of stone with a huge fireplace built into the wall.  There is a fire
+burning which illuminates the room with a mellow light.  The west wall is a
+marine aquarium.  It looks like a huge reef with colorful fish swimming
+about.  It almost looks as though this may be the entrance to an undersea
+dimension.  The south wall has a large window.  The view through the window
+is overlooking a mountain range.  Evergreens weighted with snow are
+scattered on the mountain slope below.  It is snowing outside except the
+snow never seems to accumulate.  Large flakes resembling feathers fall to
+the ground.  To the east is a heavy oak door trimmed in brass.
+~
+243 4268044 0
+D1
+~
+Oak~
+1 -1 24399
+D2
+~
+window~
+3 -1 3014
+D3
+~
+reef~
+3 -1 3157
+M56
+Z3
+C0
+S
+#24358
+The Hallway~
+
+     The hallway seems to go on forever.  On each wall of
+this hallway, there are banks of lockers as far as the eye
+can see.  Every row of 50 lockers seems to end at a door.
+Time to watch those teachers in action!  I wonder if they
+realize that they are the ones being graded today!
+
+~
+243 4194313 1
+D0
+~
+~
+0 -1 24356
+D3
+~
+~
+0 -1 24360
+Z3
+C-1
+S
+#24359
+The Health Room~
+
+     Hmmm... Ok, Now you find yourself here in the health room..
+Just goes to show you that you should have paid attention.  The
+Nurse here just slammed the door on ya.  Now your stuck!  Welp..
+Only one way out!  Through her!!  FINISH HER!
+
+~
+243 4194313 1
+D1
+~
+~
+0 -1 24356
+Z3
+C-1
+S
+#24360
+The Hallway~
+
+     The hallway seems to go on forever.  On each wall of
+this hallway, there are banks of lockers as far as the eye
+can see.  Every row of 50 lockers seems to end at a door.
+Time to watch those teachers in action!  I wonder if they
+realize that they are the ones being graded today!
+
+~
+243 4194313 1
+D1
+~
+~
+0 -1 24358
+D2
+~
+~
+0 -1 24363
+D3
+~
+~
+0 -1 24361
+Z3
+C-1
+S
+#24361
+The Hallway~
+
+     The hallway seems to go on forever.  On each wall of
+this hallway, there are banks of lockers as far as the eye
+can see.  Every row of 50 lockers seems to end at a door.
+Time to watch those teachers in action!  I wonder if they
+realize that they are the ones being graded today!
+
+~
+243 4194313 1
+D0
+~
+~
+0 -1 24342
+D1
+~
+~
+0 -1 24360
+Z3
+C-1
+S
+#24362
+Busy Street~
+
+     Hey! This Street seems to have a little more traffic on it!
+Watch out for those cars! They look like they could do some damage!
+
+     Further to the north looks like another large sprawling building.
+You can see all the cars parked around it.. Maybe you should do a little
+investigating!
+
+~
+243 4194304 1
+D0
+~
+~
+0 -1 24366
+D2
+~
+~
+0 -1 24340
+Z3
+C-1
+S
+#24363
+The Cafeteria~
+
+     Yummy!  Smell all that delicious food comming from the 
+school's cafeteria!  It's making you hungry!
+
+You are STARVING!
+
+     Lets see if you can start a food fight!!  Go to it
+
+~
+243 4194313 1
+D0
+~
+~
+0 -1 24360
+D3
+~
+~
+0 -1 24364
+Z3
+C-1
+S
+#24364
+The Cafeteria~
+
+     Yummy!  Smell all that delicious food comming from the 
+school's cafeteria!  It's making you hungry!
+
+You are STARVING!
+
+     Lets see if you can start a food fight!!  Go to it
+
+~
+243 4194313 1
+D1
+~
+~
+0 -1 24363
+D2
+~
+~
+0 -1 24365
+Z3
+C-1
+S
+#24365
+The Cafeteria~
+
+     Yummy!  Smell all that delicious food comming from the 
+school's cafeteria!  It's making you hungry!
+
+You are STARVING!
+
+     Lets see if you can start a food fight!!  Go to it
+
+~
+243 4194313 1
+D0
+~
+~
+0 -1 24364
+Z3
+C-1
+S
+#24366
+Busy Street~
+
+     Hey! This Street seems to have a little more traffic on it!
+Watch out for those cars! They look like they could do some damage!
+
+     Further to the north looks like another large sprawling building.
+You can see all the cars parked around it.. Maybe you should do a little
+investigating!
+
+~
+243 4194304 1
+D0
+~
+~
+0 -1 24367
+D2
+~
+~
+0 -1 24362
+Z3
+C-1
+S
+#24367
+Busy Intersection~
+
+     Whoa! Busy Intersection!! So Busy in fact, there has been
+an accident!  Watch out for the glass!
+
+     Towards the west seems to be a large parking lot.  Maybe
+there is something interesting there!
+~
+243 4194304 1
+D0
+~
+~
+0 -1 24340
+D2
+~
+~
+0 -1 24366
+D3
+~
+~
+0 -1 24368
+Z3
+C-1
+S
+#24368
+Large Parking Lot~
+
+     Oh My!  This is a rather large parking lot!  Dont 
+forget where you park your car.  You may never find it 
+if you dont pay attention!!
+
+~
+243 4194304 1
+D0
+~
+~
+0 -1 24369
+D1
+~
+~
+0 -1 24367
+D2
+~
+~
+0 -1 24368
+Z3
+C-1
+S
+#24369
+Parking Lot~
+
+     Uhhgg!! Cars everywhere!  Dont forget where you
+parked your car!  A person could get lost here!
+
+~
+243 4194304 1
+D0
+~
+~
+0 -1 24372
+D2
+~
+~
+0 -1 24369
+D3
+~
+~
+0 -1 24370
+Z3
+C-1
+S
+#24370
+Parking Lot~
+
+     Uhhgg!! Cars everywhere!  Dont forget where you
+parked your car!  A person could get lost here!
+
+~
+243 4194304 1
+D0
+~
+~
+0 -1 24371
+D1
+~
+~
+0 -1 24369
+D2
+~
+~
+0 -1 24369
+D3
+~
+~
+0 -1 24370
+Z3
+C-1
+S
+#24371
+Parking Lot~
+
+     Uhhgg!! Cars everywhere!  Dont forget where you
+parked your car!  A person could get lost here!
+
+~
+243 4194304 1
+D2
+~
+~
+0 -1 24370
+D3
+~
+~
+0 -1 24372
+Z3
+C-1
+S
+#24372
+Parking Lot~
+
+     Uhhgg!! Cars everywhere!  Dont forget where you
+parked your car!  A person could get lost here!
+
+~
+243 4194304 1
+D0
+~
+~
+0 -1 24370
+D1
+~
+~
+0 -1 24370
+D2
+~
+~
+0 -1 24369
+D3
+~
+~
+0 -1 24385
+Z3
+C-1
+S
+#24373
+Art Class~
+
+     *GASP*  Look at all the pretty pictures here!  This
+Teacher really knows his stuff!  Maybe if you stuck around
+and let him live long enough, he might teach ya something....
+     Nah!
+Kill him!
+
+~
+243 4456448 1
+D3
+~
+~
+0 -1 24352
+Z3
+C-1
+S
+#24374
+Teacher's Lounge~
+
+     Hmmm.. What a strange room! Seems extremely comfortable here.
+These teachers know how to relax!  Check out the couch and the
+TV!  There's even a fridge!!  Certainly is a shame that some unlucky
+teacher wont get a chance to eat their lunch!  Too bad for them..
+Goody for you!
+
+~
+243 4194313 1
+D1
+~
+~
+0 -1 24352
+Z3
+C-1
+S
+#24375
+Biology Class~
+
+     EWWWW!!! What's that nasty smell! IT REEKS!!
+Oh my.. You take a look around the room and see all 
+kinds of jars filled with something that was once alive!
+     Suddenly you don't seem so comfortable.  On each
+workstation, there's a pan with a dead frog pinned to
+the bottom and it's guts are pulled out.  Oh BOY!
+Disection!! Maybe it's better if you left this room 
+before you become the cadaver for their next lesson!
+
+~
+243 4194313 1
+D3
+~
+~
+0 -1 24353
+Z3
+C-1
+S
+#24376
+A Dark Stairwell~
+
+     This is a very dimly lit stairway.  The source of that
+disgusting smell is whafting up from below..  Lets go see
+what exactly is the source of that smell!
+
+~
+243 4194313 1
+D3
+~
+~
+0 -1 24377
+D4
+~
+~
+0 -1 24354
+Z3
+C-1
+S
+#24377
+A Dark Hallway~
+
+     The hallway here seems a little strange.  It seems
+to continue on towards the north.  Too bad there is a heavy
+gate preventing you from going there.  You wouldn't want
+to go that way anyway..  The hallway is completely dark.
+You stop and listen for a moment and realize that not a 
+sound is comming from that direction except a steady drip
+of liquid.  SPOOKY!  
+     There are double doors to the west of here.  Maybe
+you should find out what is behind them.
+~
+243 4194317 1
+D1
+~
+~
+0 -1 24376
+D3
+~
+Doubledoors~
+1 -1 24378
+Z3
+C-1
+S
+#24378
+The Gym~
+
+     Look at the size of this place!  It's Huge!  There's
+fold-away bleachers on each size of the gym and basketball
+hoops at both ends of the court!  Time to play some ball!
+
+~
+243 4194313 1
+D1
+~
+Doubledoors~
+1 -1 24377
+D3
+~
+~
+0 -1 24379
+Z3
+C-1
+S
+#24379
+The Gym~
+
+     Look at the size of this place!  It's Huge!  There's
+fold-away bleachers on each size of the gym and basketball
+hoops at both ends of the court!  Time to play some ball!
+
+~
+243 4194313 1
+D0
+~
+~
+0 -1 24380
+D1
+~
+~
+0 -1 24378
+Z3
+C-1
+S
+#24380
+Locker room~
+
+     Oh gross! This is the source of that sickening smell!
+It's the locker room.  The pungent smell of feet!  You 
+start to gag.  God! I hope you have'nt eaten anything 
+recently!  It will end up on the floor for sure!
+~
+243 4194313 1
+D0
+A Very heavy looking door with a great big
+exit sign over it!
+
+~
+Door~
+1 -1 3054
+D1
+~
+~
+0 -1 24381
+D2
+~
+~
+0 -1 24379
+Z3
+C-1
+S
+#24381
+The Coach's Office~
+
+     You can't even begin to understand why anyone would want
+their office down here in this incredible stench!  But then again...
+Maybe this guy likes the smell!!  His office seems to be pretty much
+bare except for a desk, chair, phone, and a calendar on the wall.
+
+~
+243 4194313 1
+D3
+~
+~
+0 -1 24380
+Z3
+C-1
+S
+#24382
+The Library~
+
+     Hmmm... Judging from all the books on the shelves.. You
+must be in the library!  You had better watch your mouth though!
+That prude of a librarian will get ya if you dont!  Maybe you 
+should just cut to the chase and kill her!!!
+
+~
+243 4194304 1
+D0
+~
+~
+0 -1 24355
+Z3
+C-1
+S
+#24383
+History Class~
+
+     You look around the room and notice all the old world
+maps tacked to the walls.  On the chalkboard looks to be
+notes from a recent discussion about World War I.
+
+     Suddenly you have the urge to make this teach part of
+history!  It must be time to end his miserable life once
+and for all.
+
+~
+243 4194313 1
+D2
+~
+~
+0 -1 24355
+Z3
+C-1
+S
+#24384
+The Guidance room~
+
+     Here you are in the guidance room.  You see a line of
+students requiring assistance with their troubled little lives.
+Look at them! Pitiful little things aren't they?  Time to help
+them solve their problems!  
+~
+243 4194313 1
+D0
+~
+~
+0 -1 24349
+Z3
+C-1
+S
+#24385
+The Shopping Center~
+
+    Congratulations!  You actually made it through the
+parking lot!  Ahh!  A shopper's paradise!  Look at all the
+stores!  Hope you brought your credit cards!  You might 
+find some excellent bargains!
+
+~
+243 4194304 1
+D0
+~
+~
+0 -1 24386
+D1
+~
+~
+0 -1 24372
+D2
+~
+~
+0 -1 24367
+Z3
+C-1
+S
+#24386
+In front of the Grocery Store~
+
+     Wow! To the west of you appears to be a small
+grocery store! Why don't ya go in and see what's on sale!
+
+~
+243 4194308 1
+D0
+~
+~
+0 -1 24389
+D2
+~
+~
+0 -1 24385
+D3
+~
+door~
+1 -1 24387
+Z3
+C-1
+S
+#24387
+The Grocery Store~
+
+     Oh look! Everything looks so yummy!  And shoppers are
+everywhere!  Wow! I bet there's lots of cash in the cash register!
+
+~
+243 4194312 1
+D1
+~
+door~
+1 -1 24386
+D3
+~
+~
+0 -1 24388
+Z3
+C-1
+S
+#24388
+The Back of the Store~
+
+     Looking at all the food here is starting to make you
+hungry!  Better hurry up and finish your business here and
+leave!
+
+~
+243 4194432 1
+D1
+~
+~
+0 -1 24387
+Z3
+C-1
+S
+#24389
+In front of the Jewelry Store~
+
+     Check out that window!  There is some beautiful jewelry in
+that place!  Good thing you're heavily armed!  Time to get some
+goodies!
+
+~
+243 4194304 1
+D0
+~
+~
+0 -1 24391
+D2
+~
+~
+0 -1 24386
+D3
+~
+door~
+1 -1 24390
+Z3
+C-1
+S
+#24390
+The Jewelry Store~
+     
+     Wow! The track lighting here really gives everything
+a sparkling appearance!  Take a look at those cases!  Ahhh!
+Beautiful!
+
+~
+243 4194304 1
+D1
+~
+door~
+1 -1 24389
+Z3
+C-1
+S
+#24391
+In front of a Strange looking store~
+
+     You try to peer through the windows of this store.
+The shelves seem to be filled with odd things.  Maybe you
+should investigate a little further!
+
+~
+243 4194304 1
+D2
+~
+~
+0 -1 24389
+D3
+~
+~
+0 -1 24392
+Z3
+C-1
+S
+#24392
+Strange Store~
+
+     What the hell!!?? This is an odd store! Every time
+you touch the merchandise, it disappears! Including the
+door! OH NO!
+     You begin to panic! You know there must be a way 
+out of here some how, some way!  Now, let's get in
+control of ourselves.  There must be a door here some
+where.
+~
+243 262144 1
+D5
+~
+Trapdoor~
+5 -1 3054
+Z3
+C-1
+S
+#24393
+Well worn path through the woods~
+     You find yourself walking through a thick forest.
+You hear only the sound of your feet rustling
+the dried leaves on the ground.  It sounds
+eerily quiet here.
+~
+243 1048576 3
+D0
+~
+~
+0 -1 24315
+D2
+~
+~
+0 -1 24308
+Z3
+C-1
+S
+#24394
+The Hall of Knowledge~
+
+     The energy emitting from this room is almost unbearable.
+So many memories of the past begin to rush through your head.
+It makes it so hard to think!  All you can do is try to fight
+to maintain your sanity.  Memories of the past are flashing so
+fast and at the same time, sensations of other events that may
+be the future, invade your mind at the same time causing
+intense pain within your pitiful skull.
+     You focus your thoughts enough to realize that there is a
+BRIGHT LIGHT in the center of the room.  You also sense a
+presence of great overwhelming strength.
+
+~
+243 264 1
+D0
+~
+door~
+1 -1 24398
+D2
+~
+Golden~
+1 -1 24397
+T3030
+Z3
+C-1
+S
+#24395
+Before the Golden Doors~
+
+     Looking out over the land from this vantage point makes
+you feel very light-headed.  If you are not careful you may
+fall down the steps.
+     In front of you are huge golden doors that have a strange
+inscription on them.  You feel the energy rush through your
+body and if you look closer at the doors you think you may
+somehow understand these symbols.
+
+~
+243 128 5
+D0
+You squint at the symbols and suddenly the
+hidden meaning invades your brain:
+
+     MORTALS WHO DARE TRESPASS SHALL BE UNDER
+     JUDGEMENT OF THE GODS.  ARE YOU WORTHY??
+
+     DARE NOT ENTER UNLESS YOU ARE WILLING TO
+     MAKE THE ULTIMATE SACRIFICE!
+
+As quickly as the words became readable they
+are gone.....
+
+~
+Golden~
+1 -1 24394
+D5
+~
+~
+0 -1 24396
+Z3
+C-1
+S
+#24396
+Base of the TEMPLE~
+
+     You look above you in total awe.  This temple glows
+a brilliant white.  This is definately the source of the
+humming sensation.
+     There are a set of stairs that lead to what must be
+the doors to this catherdral.  You step on to the first step, and
+instantly you entire body becomes aware of the electric
+pulses emitting from this building.
+
+~
+243 132 1
+D2
+~
+~
+0 -1 24397
+D4
+~
+~
+0 -1 24395
+Z3
+C-1
+S
+#24397
+A quiet meadow~
+
+     Your eyes re-focus to reveal a beautiful meadow. This
+is a strange magical land so far away from the pressure of
+adventuring. You see a beautiful pond that looks brilliant
+with the light from the sun reflecting off its surface. The
+sun's heat warms your heart as well and helps to lift your
+spirits.  You soon forget all worries.
+     To the north, up a large hill, is the most magnificent
+temple. It almost appears to glow. You detect a strange hum
+coming from that direction. You can't really hear it, only
+feel its ominous pulse.
+
+~
+243 128 1
+D0
+~
+~
+0 -1 24396
+Z3
+C-1
+S
+#24398
+BRIGHT LIGHT~
+
+     Ahhhh! This room is much easier on your brain then the last
+room!  You find yourself enjoying quiet time and wonder how long 
+it will last.
+     You look around and find a small fountain in the corner.  It's
+quiet bubbling sound almost puts you into a trance.
+
+~
+243 128 0
+D2
+~
+door~
+1 -1 24394
+Z3
+C-1
+S
+#24399
+The Night Sky~
+ 
+  *                                               +
+               +                      *                                  *
+                         *                                +
+       +                                     +
+                              *                                      *
+             *                                        *
+                                    +                          *
+      *              +
+                                                   *
+                               *       +                                *
+/\             *                                           /\
+  \    /\                                 /\           /\ /  \
+   \  /  \          /\         /\        /  \         /  \ /\ \/\
+    /\    \/\      /  \      /\  \     /\  /\\ /\    /  /\/  \ \ \  /\
+   /  \/\ /  \  /\/    \/\  /  \/\\   /  \/  \/  \  /  /  \   \ \ \/  \
+ 
+~
+243 65536 3
+D3
+~
+Oak~
+1 -1 24357
+M56
+Z3
+C-1
+S
+$~

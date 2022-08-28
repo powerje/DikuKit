@@ -1,0 +1,175 @@
+#414
+{R}The Siege of Tolkeen{r}(Helsing)~
+41499 60 0
+*
+X 3174354
+D 0 41402     0     0    (N:OPEN) {R}The Shattered Streets of Tolkeen{r}
+D 0 41403     2     0    (S:OPEN) {R}Entrance to the Ley Line Nexus{r}
+D 0 41404     4     2    (U:LOCKED) {R}The Nexus{r}
+M 0 41413     1 41405    {C}Warlord Umbra{c}
+G 1 41419     4     0    {W,BO}The Warlord's Key{w,bo}
+O 0 41413     1 41405    {C}A Rift to the Northern Quadrant{c}
+M 0 41414     1 41406    {R,BO}Warlord Grimm{r,bo}
+G 1 41419     4     0    {W,BO}The Warlord's Key{w,bo}
+O 0 41414     1 41406    {R,BO}A Rift to the Eastern Quadrant{r,bo}
+M 0 41415     1 41407    {M}Warlord Firesol{m}
+G 1 41419     4     0    {W,BO}The Warlord's Key{w,bo}
+O 0 41415     1 41407    {M}A Rift to the Southern Quadrant{m}
+M 0 41416     1 41408    {Y}Warlord Stygian{y}
+G 1 41419     4     0    {W,BO}The Warlord's Key{w,bo}
+O 0 41416     1 41408    {Y}A Rift to the Western Quadrant{y}
+O 0 41417     1 41409    {BLU,BO}A Rift to the King's Tower{blu,bo}
+D 0 41409     5     0    (D:OPEN) {BLU,BO}Portal to the King's Tower{blu,bo}
+M 0 41420     8 41410    {BLA}A Coalition Commando{bla}
+D 0 41410     3     2    (W:LOCKED) {CY}Along the Northern Wall{cy}
+M 0 41420     8 41412    {BLA}A Coalition Commando{bla}
+M 0 41418    14 41413    {BLU,BO}A Tolkeen Defender{blu,bo}
+M 0 41419    14 41413    The Coalition Grunt
+M 0 41418    14 41413    {BLU,BO}A Tolkeen Defender{blu,bo}
+M 0 41418    14 41413    {BLU,BO}A Tolkeen Defender{blu,bo}
+M 0 41419    14 41415    The Coalition Grunt
+M 0 41420     8 41415    {BLA}A Coalition Commando{bla}
+M 0 41403     1 41416    {Y}Mi{y}{G}da{g} {Y}Elek{y}{G}tis{g}
+E 1 41403     1     0    (LIGHT) {M}Th{m}{W}e Fo{w}{M}un{m}{W}der{w}{M}'s{m} {W}Sto{w}{M}ne{m}
+M 0 41420     8 41417    {BLA}A Coalition Commando{bla}
+D 0 41417     1     1    (E:CLOSED) {CY}A Debris-Filled Path{cy}
+M 0 41420     8 41418    {BLA}A Coalition Commando{bla}
+M 0 41420     8 41418    {BLA}A Coalition Commando{bla}
+M 0 41412     1 41419    {CY,BO}Maxim{cy,bo} {Y,BO}Current{y,bo}
+E 1 41412     1    17    (HELD) {Y}T{y}{W}he Book of Te{w}{Y}n{y}
+P 1 41433     1 41412    {M,BO}Warrior Horde{m,bo}
+P 1 41432     1 41412    {G,BO}Rune{g,bo}
+P 1 41431     1 41412    {R}Vicious Circle{r}
+P 1 41430     1 41412    {C}The Slowness{c}
+P 1 41429     1 41412    {M}Sanctuary{m}
+P 1 41428     1 41412    {BLU}Protection{blu}
+P 1 41427     1 41412    {W,BO}Silence{w,bo}
+P 1 41426     1 41412    {Y}Hivemind{y}
+P 1 41425     1 41412    {R,BO}Blood and Thunder{r,bo}
+P 1 41424     1 41412    {BLA}The Blight of Ages{bla}
+M 0 41419    14 41420    The Coalition Grunt
+M 0 41418    14 41420    {BLU,BO}A Tolkeen Defender{blu,bo}
+M 0 41420     8 41421    {BLA}A Coalition Commando{bla}
+M 0 41420     8 41421    {BLA}A Coalition Commando{bla}
+M 0 41406     1 41422    {W}Kueda the Grey{w}
+G 1 41406     1     0    {BL}T{bl}{C}h{c}{BL}e{bl} {C}M{c}{BL}o{bl}{C}b{c}{BL}i{bl}{C}u{c}{BL}s{bl}
+O 0 41418     5 41423    {W}A Rift to the Nexus{w}
+D 0 41423     3     0    (W:OPEN) {CY}Techno-Wizard Transport Station{cy}
+O 0 41418     5 41424    {W}A Rift to the Nexus{w}
+D 0 41424     1     1    (E:CLOSED) {R,BO}Techno-Wizard Transport Station{r,bo}
+M 0 41418    14 41425    {BLU,BO}A Tolkeen Defender{blu,bo}
+M 0 41419    14 41425    The Coalition Grunt
+M 0 41421     2 41425    {R}A{r} {G}D{g}{R}a{r}{G}e{g}{R}m{r}{G}o{g}{R}n{r}{G}i{g}{R}x{r}
+M 0 41419    14 41425    The Coalition Grunt
+D 0 41425     0     2    (N:LOCKED) {R,BO}Long Avenue{r,bo}
+D 0 41425     3     0    (W:OPEN) {R,BO}Long Avenue{r,bo}
+M 0 41418    14 41426    {BLU,BO}A Tolkeen Defender{blu,bo}
+M 0 41421     2 41427    {R}A{r} {G}D{g}{R}a{r}{G}e{g}{R}m{r}{G}o{g}{R}n{r}{G}i{g}{R}x{r}
+M 0 41418    14 41427    {BLU,BO}A Tolkeen Defender{blu,bo}
+M 0 41417     2 41428    {C}The Damaged Coalition RPA{c}
+M 0 41417     2 41428    {C}The Damaged Coalition RPA{c}
+M 0 41408     1 41429    {G,BO}T{g,bo}{Y}h{y}{G,BO}e{g,bo} {Y}W{y}{G,BO}i{g,bo}{Y}n{y}{G,BO}g{g,bo}{Y}e{y}{G,BO}d{g,bo} {Y}F{y}{G,BO}u{g,bo}{Y}r{y}{G,BO}y{g,bo}
+E 1 41408     1    12    (ABOUT) {G,BO}W{g}{Y}i{y}{G,BO}n{g}{Y}g{y}{G,BO}s{g} {Y}o{y}{G,BO}f{g} {Y}F{y}{G,BO}u{g}{Y}r{y}{G,BO}y{g,bo}
+M 0 41409     1 41431    {W}Iron{w}{BL}hea{bl}{Y}rt{y}
+E 1 41409     1     8    (FEET) {W}Fee{w}{Y}t of I{y}{BLA}ron{bla}
+D 0 41431     0     2    (N:LOCKED) {R,BO}Path to the King's Tower{r,bo}
+M 0 41401     1 41433    {R}Warlord{r} {R,BO}Scard{r,bo}
+E 1 41400     1    12    (ABOUT) {Y}I{y}{BL}r{bl}{Y}o{y}{BL}n{bl}{Y}b{y}{BL}a{bl}{Y}n{y}{BL}e{bl}
+M 0 41425     8 41433    {Y}A Dog Boy{y}
+M 0 41425     8 41433    {Y}A Dog Boy{y}
+M 0 41425     8 41433    {Y}A Dog Boy{y}
+M 0 41425     8 41433    {Y}A Dog Boy{y}
+M 0 41425     8 41433    {Y}A Dog Boy{y}
+M 0 41425     8 41433    {Y}A Dog Boy{y}
+M 0 41425     8 41433    {Y}A Dog Boy{y}
+M 0 41425     8 41433    {Y}A Dog Boy{y}
+D 0 41434     3     1    (W:CLOSED) {M}A Bio-Dome{m}
+M 0 41422    10 41435    {CY,BO}A Cyb{c,bo}{W,BO}er Kn{w,bo}{C,BO}ight{c,bo}
+M 0 41419    14 41435    The Coalition Grunt
+D 0 41435     1     0    (E:OPEN) {M}Palladium Boulevard{m}
+D 0 41435     3     1    (W:CLOSED) {M}Palladium Boulevard{m}
+O 0 41418     5 41436    {W}A Rift to the Nexus{w}
+D 0 41436     1     0    (E:OPEN) {M}Techno-Wizard Transport Station{m}
+M 0 41418    14 41437    {BLU,BO}A Tolkeen Defender{blu,bo}
+D 0 41437     1     2    (E:LOCKED) {M}Palladium Boulevard{m}
+M 0 41422    10 41438    {CY,BO}A Cyb{c,bo}{W,BO}er Kn{w,bo}{C,BO}ight{c,bo}
+M 0 41422    10 41438    {CY,BO}A Cyb{c,bo}{W,BO}er Kn{w,bo}{C,BO}ight{c,bo}
+D 0 41438     1     1    (E:CLOSED) {M}A Stately Manor{m}
+D 0 41438     3     2    (W:LOCKED) {M}A Stately Manor{m}
+M 0 41404     1 41439    {W,BO}Cerv{w,bo}{BLA}ega{bla}
+E 1 41404     1    28    (FACE) {W,BO}The Quicksilver Mask{w,bo}
+D 0 41439     3     1    (W:CLOSED) {M}The Ballroom{m}
+M 0 41422    10 41440    {CY,BO}A Cyb{c,bo}{W,BO}er Kn{w,bo}{C,BO}ight{c,bo}
+M 0 41422    10 41440    {CY,BO}A Cyb{c,bo}{W,BO}er Kn{w,bo}{C,BO}ight{c,bo}
+D 0 41440     1     2    (E:LOCKED) {M}Palladium Boulevard{m}
+M 0 41422    10 41441    {CY,BO}A Cyb{c,bo}{W,BO}er Kn{w,bo}{C,BO}ight{c,bo}
+M 0 41419    14 41441    The Coalition Grunt
+M 0 41422    10 41442    {CY,BO}A Cyb{c,bo}{W,BO}er Kn{w,bo}{C,BO}ight{c,bo}
+G 1 41422     1     0    {R}A Pass{r} {W}to Fre{w}{BLU}edom{blu}
+M 0 41422    10 41442    {CY,BO}A Cyb{c,bo}{W,BO}er Kn{w,bo}{C,BO}ight{c,bo}
+M 0 41422    10 41442    {CY,BO}A Cyb{c,bo}{W,BO}er Kn{w,bo}{C,BO}ight{c,bo}
+M 0 41422    10 41444    {CY,BO}A Cyb{c,bo}{W,BO}er Kn{w,bo}{C,BO}ight{c,bo}
+M 0 41419    14 41444    The Coalition Grunt
+D 0 41444     0     2    (N:LOCKED) {M}History Repeats...{m}
+M 0 41411     1 41445    {C,REV}Conjurer Trenshire{c,rev}
+E 1 41411     1     9    (HANDS) {C,REV}Knuc{c,rev}{W,REV}klebus{w,rev}{C,REV}ters{c,rev}
+D 0 41445     2     2    (S:LOCKED) {M}The Invisible Workshop{m}
+M 0 41418    14 41448    {BLU,BO}A Tolkeen Defender{blu,bo}
+M 0 41419    14 41448    The Coalition Grunt
+M 0 41423     6 41448    {M}A Refugee{m}
+M 0 41418    14 41448    {BLU,BO}A Tolkeen Defender{blu,bo}
+D 0 41448     0     1    (N:CLOSED) {Y}Carella Lane{y}
+M 0 41423     6 41449    {M}A Refugee{m}
+D 0 41449     2     1    (S:CLOSED) {Y}Carella Lane{y}
+M 0 41423     6 41450    {M}A Refugee{m}
+M 0 41423     6 41450    {M}A Refugee{m}
+M 0 41419    14 41451    The Coalition Grunt
+M 0 41423     6 41451    {M}A Refugee{m}
+D 0 41451     3     1    (W:CLOSED) {Y}Carella Lane{y}
+O 0 41418     5 41452    {W}A Rift to the Nexus{w}
+D 0 41452     2     0    (S:OPEN) {Y}Techno-Wizard Transport Station{y}
+D 0 41453     0     0    (N:OPEN) {Y}A Dragon's Estate{y}
+M 0 41419    14 41454    The Coalition Grunt
+M 0 41419    14 41454    The Coalition Grunt
+M 0 41419    14 41454    The Coalition Grunt
+M 0 41419    14 41454    The Coalition Grunt
+M 0 41405     1 41455    {G,BO}Barrtk, the Dragon{g,bo}
+E 1 41405     1     6    (HEAD) {BLA}Eye Patch{bla}
+D 0 41456     0     2    (N:LOCKED) {Y}The Smithy{y}
+M 0 41418    14 41457    {BLU,BO}A Tolkeen Defender{blu,bo}
+M 0 41418    14 41457    {BLU,BO}A Tolkeen Defender{blu,bo}
+M 0 41418    14 41457    {BLU,BO}A Tolkeen Defender{blu,bo}
+D 0 41457     2     0    (S:OPEN) {W,BO}The Hidden Staircase{w,bo}
+M 0 41407     1 41458    {BL}La{bl}{W}dy{w} {BL}Sm{bl}{W}it{w}{BL}h{bl}
+E 1 41407     1     5    (BODY) {Y,BO}D{y}{W}y{w}{Y,BO}n{y}{W}a{w}{Y,BO}m{y}{W}o{w} {Y,BO}A{y}{W}r{w}{Y,BO}m{y}{W}o{w}{Y,BO}r{y,bo}
+D 0 41459     1     0    (E:OPEN) {Y}The Techno-Wizard Factory{y}
+M 0 41418    14 41460    {BLU,BO}A Tolkeen Defender{blu,bo}
+M 0 41427     2 41460    {W,BO}An Assembly Machine{w,bo}
+M 0 41427     2 41460    {W,BO}An Assembly Machine{w,bo}
+D 0 41461     1     2    (E:LOCKED) {Y}The Mages{y}
+M 0 41410     1 41462    {CY,UND}Malik Savant{cy,und}
+E 1 41410     1    15    (WRIST) {W,BO}Radiant{w,bo} {CY,BO}Sword{cy,bo} {W,BO}Wristband{w,bo}
+D 0 41462     3     2    (W:LOCKED) {Y}Research & Development{y}
+M 0 41423     6 41463    {M}A Refugee{m}
+D 0 41463     1     2    (E:LOCKED) {Y}Carella Lane{y}
+O 0 41423     1 41465    {W}A{w} {M,BO,BLINK}Secret{m,bo,blink} {W}Note!{w}
+O 0 41418     5 41465    {W}A Rift to the Nexus{w}
+M 0 41424     5 41469    {R,BO}An Expendable{r,bo}
+M 0 41424     5 41474    {R,BO}An Expendable{r,bo}
+M 0 41424     5 41474    {R,BO}An Expendable{r,bo}
+M 0 41424     5 41475    {R,BO}An Expendable{r,bo}
+M 0 41424     5 41476    {R,BO}An Expendable{r,bo}
+D 0 41476     0     1    (N:CLOSED) {BLU,BO}The Hallway{blu,bo}
+M 0 41400     1 41477    {Y,BO}King Creed{y,bo}
+E 1 41401     1     2    (FINGER) {W}The Ri{w}{BLU}ng of{blu} {W}Elder{w}
+D 0 41477     0     1    (N:CLOSED) {BLU,BO}The Throne Room{blu,bo}
+D 0 41477     2     0    (S:OPEN) {BLU,BO}The Throne Room{blu,bo}
+M 0 41402     1 41486    {W,BO}Salkind, The Metal Mage{w,bo}
+G 1 41402     1     0    {BLA}Po{bla}{R}o{r}{BLA}r Y{bla}{R}o{r}{BLA}rick{bla}
+M 0 41426     1 41487    {M,BO}The Keymaster{m,bo}
+G 1 41420     1     0    {BLU,BO}Key to the King's Tower{blu,bo}
+D 0 41487     1     1    (E:CLOSED) {BLA}Munitions Depot{bla}
+D 0 41488     2     1    (S:CLOSED) {BLA}Munitions Depot{bla}
+D 0 41489     3     1    (W:CLOSED) {BLA}Munitions Depot{bla}
+D 0 41490     3     1    (W:CLOSED) {BLA}Munitions Depot{bla}
+$~

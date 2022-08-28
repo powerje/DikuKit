@@ -1,0 +1,899 @@
+#21200
+Offramp to {WHITE}Interstate{white} {BLUE}84{blue}.~
+  Traveling along {WHITE}Interstate{white} {BLUE}84{blue}.  Small shrubbery grows all around you, but not much vegitation can grow around this harsh region.  Off to the north in the distance you can see mist rolling off Waco lake.  Looking east you can see an outline of an upcoming city.
+~
+212 16 1
+D0
+~
+shrub~
+1 -1 21214
+D1
+~
+~
+0 -1 21201
+M35
+T21226
+Z3
+C-1
+S
+#21201
+Along {WHITE}Interstate{white} {BLUE}84{blue}.~
+  The road seems the stretch out for what seems like miles.  But that could be just the sun reflecting off the hot asphalt.  You see the city coming into view more clearly now.  A signpost is up ahead.
+~
+212 16 1
+D1
+~
+~
+0 -1 21202
+D3
+~
+~
+0 -1 21200
+Z3
+C-1
+S
+#21202
+Along {WHITE}Interstate{white} {BLUE}84{blue}.~
+  Sweat trickles down your neck making its way to your sunburned back where it evaporates on contact.  The asphalt here feels as though it could burn through the soles of your shoes at any moment.  You can just make out the city outline up ahead.  You see a {BLINK}{RED}SIGN{red}{blink} here.
+~
+212 16 1
+D1
+~
+~
+0 -1 21203
+D3
+~
+~
+0 -1 21201
+E
+SIGN~
+
+
+                    {WHITE}Welcome to Waco Texas{white}
+
+               The key to {BLINK}{YELLOW}salvation{yellow}{blink} lies ahead..
+                             are
+                          you {RED}SAVED{red}?
+
+~
+Z3
+C-1
+S
+#21203
+In front of a blockade.~
+  You slowly lift your sweat laiden head to focus your eyes on two {BLACK}ATF{black} agents standing infront of you.  Behind them you find yourself confronted with a 4-foot concrete barracade blocking off the Highway.  The two agents guarding the wall don't seem to pay much attention to you.  Parked off to the side of the road you see a long {BLACK}black{black} car.  Standing on the right side of the car is a telescope.
+~
+212 16 1
+D1
+You see a very solid {WHITE}wall{white} of concrete.  The barracade appears to be closed off.
+~
+wall~
+4 21209 21204
+D3
+~
+~
+0 -1 21202
+E
+telescope~
+  You see an extremely immense traffic jam on the other side of the barracade.  Beyond the traffic you can make out three doors.  Wholly shit! Someone just fell into a pothole and got thier head {BLINK}{RED}smashed{red}{blink}!
+~
+E
+Limo Limosine~
+  This once beautiful limosine looks as though it has been through some sort of war.  Bullet holes a all over the body of the vehile.  The back window seems to have been blown out by a stray bullet meant for the driver of the vehicle.  You nice a small recording device in the back seat of the car.  Wonder what it could be.....
+~
+E
+recorder tape~
+You barely manage to sqeeze your arm through the small crack in the window of the limousine.  You press the play button on the tape device and a few words from some man can be heard coming from the device.....
+            .....I say read the words of Revelations 4:1 it says...
+
+After this I looked, and, behold, a door was opened in heaven: and the first voice which I heard was as it were of a trumpet talking to me which said, Come hither, and I will shew thee things which must be hereafter.
+
+The tape suddenly comes to an end, and you slowly remove your arm from the tight window sill.
+~
+E
+Limo~
+~
+Z3
+C-1
+S
+#21204
+Before the traffic jam.~
+
+   {CY}You made it past the blockade but what do you plan to do about the traffic up ahead.  If you make a dash for it you just might be able to make it.  The exhaust fumes assault your senses and make you feel like you want to puke.  This is not your day.{cy}
+
+~
+212 0 1
+D1
+A {RED}Stopsign{red} is held in place here by solid concrete.
+~
+Stop~
+1 -1 21220
+D3
+~
+wall~
+1 -1 21203
+Z3
+C-1
+S
+#21205
+Lost in Wako.~
+
+   {RE}The heat radiating off the asphalt is enough to make you die of thirst.  You can barely make out
+   which direction your going because of the noxious fumes in the air.  You feel light headed as
+   you make your way to the next overpass.  Or is that an underpass?  You see something sprayed on
+   the wall here.....{re}
+
+~
+212 17680 1
+D0
+~
+~
+0 -1 21221
+D1
+~
+~
+0 -1 21205
+D2
+~
+~
+0 -1 21220
+D3
+~
+~
+0 -1 21206
+E
+wall~
+From the Koresh Manuscript......
+
+
+                           EDEN TO EDEN
+
+               Search forth for the meaning here,
+                    Hidden within these words.
+            'Tis a song that's sung of fallen tears,
+                  Given way for two love birds.
+
+                                2.7
+~
+Z3
+C2
+S
+#21206
+Lost in Wako.~
+
+   {RE}The heat radiating off the asphalt is enough to make you die of thirst.  You can barely make out
+   which direction your going because of the noxious fumes in the air.  You feel light headed as
+   you make your way to the next overpass.  Or is that an underpass?  You see something sprayed on
+   the wall here.....{re}
+
+~
+212 17680 1
+D0
+~
+~
+0 -1 21206
+D1
+~
+~
+0 -1 21205
+D2
+~
+~
+0 -1 21221
+D3
+~
+~
+0 -1 21207
+E
+wall~
+
+               Love birds yet not of feathered creed,
+                     Shot down for gambled play.
+          And caged a far distance betweenst themselves,
+               For the hunter felt it best that way.
+
+
+                                2.7
+~
+Z3
+C2
+S
+#21207
+Lost in Wako.~
+
+   {RE}The heat radiating off the asphalt is enough to make you die of thirst.  You can barely make out
+   which direction your going because of the noxious fumes in the air.  You feel light headed as
+   you make your way to the next overpass.  Or is that an underpass?  You see something sprayed on
+   the wall here.....{re}
+
+~
+212 17680 1
+D0
+~
+~
+0 -1 21208
+D1
+~
+~
+0 -1 21212
+D2
+~
+~
+0 -1 21206
+D3
+~
+~
+0 -1 21207
+E
+wall~
+
+
+               "She bird is mine," the hunter said,
+           'Twas this bird I raised and faithfully fed."
+           'Twas he bird who released her from her cage,
+                  Sought her womb in youthful age.
+
+                                1.12
+~
+Z3
+C2
+S
+#21208
+Lost in Wako.~
+
+   {RE}The heat radiating off the asphalt is enough to make you die of thirst.  You can barely make out
+   which direction your going because of the noxious fumes in the air.  You feel light headed as
+   you make your way to the next overpass.  Or is that an underpass?  You see something sprayed on
+   the wall here.....{re}
+
+~
+212 17680 1
+D0
+~
+~
+0 -1 21209
+D1
+~
+~
+0 -1 21221
+D2
+~
+~
+0 -1 21205
+D3
+~
+~
+0 -1 21206
+E
+wall~
+
+
+                Love birds the name, these birds they call,
+                     Two, plural, love bird, takes two. 
+                  'Twas not her womb of which he sought, 
+                       And certainly not her youth. 
+
+                                    3.5
+~
+Z3
+C2
+S
+#21209
+Lost in Wako.~
+
+   {RE}The heat radiating off the asphalt is enough to make you die of thirst.  You can barely make out
+   which direction your going because of the noxious fumes in the air.  You feel light headed as
+   you make your way to the next overpass.  Or is that an underpass?  You stub your toe on something.
+
+   {CY}Ouch !!!{cy}{RE}
+
+   You see something sprayed on the wall here....{re} 
+
+~
+212 17424 1
+D0
+~
+~
+0 -1 21221
+D1
+~
+~
+0 -1 21210
+D2
+~
+~
+0 -1 21209
+D3
+~
+~
+0 -1 21208
+D5
+A small almost unnoticable manhole cover is at your feet.
+~
+manhole~
+1 21210 21226
+E
+wall~
+
+
+                Love birds, the name these birds they call,
+                     Two, plural, love bird, takes two,
+                        It's just that he needed she, 
+                          To fly the skies of blue.
+
+                                    1.4
+~
+Z3
+C2
+S
+#21210
+Lost in Wako.~
+
+   {RE}The heat radiating off the asphalt is enough to make you die of thirst.  You can barely make out
+   which direction your going because of the noxious fumes in the air.  You feel light headed as
+   you make your way to the next overpass.  Or is that an underpass?  You see something sprayed on
+   the wall here.....{re}
+
+~
+212 17680 1
+D0
+~
+~
+0 -1 21211
+D1
+~
+~
+0 -1 21205
+D2
+~
+~
+0 -1 21205
+D3
+~
+~
+0 -1 21205
+E
+wall~
+
+
+                       And now we see the hunter man,
+                            Robbed without a prey,
+                       The evil which he sought to do,
+                        Caused the birds to pass away.
+
+                                    1.4
+~
+Z3
+C2
+S
+#21211
+Lost in Wako.~
+
+   {RE}The heat radiating off the asphalt is enough to make you die of thirst.  You can barely make out
+   which direction your going because of the noxious fumes in the air.  You feel light headed as
+   you make your way to the next overpass.  Or is that an underpass?  You see something sprayed on
+   the wall here.....{re}
+
+~
+212 17680 1
+D0
+~
+~
+0 -1 21212
+D1
+~
+~
+0 -1 21205
+D2
+~
+~
+0 -1 21208
+D3
+~
+~
+0 -1 21221
+E
+wall~
+
+
+                        For loneliness and solitaire,
+                           Is death to every soul.
+                    For birds of God were meant to pair,
+                       The two to complete the whole.
+
+                                    1.6 
+~
+Z3
+C2
+S
+#21212
+Lost in Wako.~
+
+   {RE}The heat radiating off the asphalt is enough to make you die of thirst.  You can barely make out
+   which direction your going because of the noxious fumes in the air.  You feel light headed as
+   you make your way to the next overpass.  Or is that an underpass?  You see something sprayed on
+   the wall here.....{re}
+
+~
+212 17680 1
+D0
+~
+~
+0 -1 21207
+D1
+~
+~
+0 -1 21213
+D2
+~
+~
+0 -1 21221
+D3
+~
+~
+0 -1 21207
+E
+wall~
+
+
+                      And now we see the final meaning
+                          Of this rhyme and verse:
+                      The pending judgment of the King
+                           Who rules the universe.
+
+                                    3.5
+
+~
+Z3
+C2
+S
+#21213
+Lost in Wako.~
+
+   {RE}The heat radiating off the asphalt is enough to make you die of thirst.  You can barely make out
+   which direction your going because of the noxious fumes in the air.  You feel light headed as
+   you make your way to the next overpass.  Or is that an underpass?  You see something sprayed on
+   the wall here.....{re}
+
+~
+212 17680 1
+D0
+~
+~
+0 -1 21207
+D1
+~
+~
+0 -1 21221
+D2
+~
+~
+0 -1 21219
+D3
+~
+~
+0 -1 21205
+E
+wall~
+
+
+                      For with Adam and his spirit Eve, 
+                         To share the kingdom fair
+                 But when they sinned they lost their crown
+                       In exchange for shame to bear.
+
+                                    2.3
+~
+Z3
+C2
+S
+#21214
+Path to Waco Lake.~
+  Heavy fog rolls quietly across this small path leading further into {BLACK}darkness{black}.  Not a sound can be heard except the faint trickle of water coming from up ahead.  You notice a break in the tree line up ahead revealing the full splendor of the new {WHITE}moon{white}.
+~
+212 32769 3
+D0
+~
+~
+0 -1 21215
+D2
+~
+shrub~
+1 -1 21200
+Z3
+C-1
+S
+#21215
+Clearing before Waco Lake.~
+  You are standing in a clearing.  The rocks and waterline seem to be covered with a slimy residue.  You see steam eminating from the moist earth boardering the lake front.  The wet clay smells pungeant and almost causes you to gag as it wafts past you nostrils.  You can here the trickle of water coming from just below your feet.
+~
+212 32769 3
+D2
+~
+~
+0 -1 21214
+D5
+A small {GREEN}slime{green} covered rock lies at your feet half buried in wet clay.
+~
+stone~
+1 -1 21216
+Z3
+C-1
+S
+#21216
+Cramped space.~
+  You seem to have crawled into a small snake hole.  Maybe you should have thought it over before you climbed down head first.  Looks like the only way to go is down.
+~
+212 32769 0
+D5
+~
+~
+0 -1 21217
+Z3
+C2
+S
+#21217
+Further down the hole.~
+  {WHITE}Woah!!{white} This is a tight Son of a {BLINK}{WHITE}#{BLUE}*{GREEN}${CYAN}%{cyan}{blink}! Prolly thinking to yourself what the hell have I gotten myself into.
+~
+212 32769 0
+D5
+~
+~
+0 -1 21218
+Z3
+C2
+S
+#21218
+Bottom of the snake hole.~
+  You smell a horrible stench eminating from the {WHITE}bones{white} and {YELLOW}rotted flesh{yellow} that lay scattered about the room.  Something pretty vicious must live here.  There is a nest made of {WHITE}bones{white} and {YELLOW}thatch{yellow} in the northern corner of the room.
+~
+212 4194305 0
+D0
+~
+thatch~
+1 -1 21232
+Z3
+C-1
+S
+#21219
+Lost in Wako.~
+
+   {RE}The heat radiating off the asphalt is enough to make you die of thirst.  You can barely make out
+   which direction your going because of the noxious fumes in the air.  You feel light headed as
+   you make your way to the next overpass.  Or is that an underpass?  You see something sprayed on
+   the wall here.....{re}
+
+~
+212 17680 1
+D0
+~
+~
+0 -1 21221
+D1
+~
+~
+0 -1 21206
+D2
+~
+~
+0 -1 21222
+D3
+~
+~
+0 -1 21205
+E
+wall~
+
+
+                 So Eve travailed and brought forth death,
+                        And passed the crown to all
+                     For each to learn the lesson here,
+                          The kingdom of the fall.
+
+                                    1.1
+~
+Z3
+C2
+S
+#21220
+Standing on a curb.~
+  You begin to feel the pressure as your sweat laden brow glares into the oncoming traffic.  Directly ahead of you is a series of underpasses and overpasses.  You ask yourself one question as you step off the curb into the {BLINK}{RED}busy{red}{blink} street.  Why did the {YELLOW}chicken{yellow} cross the road?
+~
+212 0 1
+D0
+~
+~
+0 -1 21205
+D3
+A {RED}Stopsign{red} is held in place here by solid concrete.
+~
+Stop~
+1 -1 21204
+Z3
+C-1
+S
+#21221
+A VERY LARGE POTHOLE!!!~
+
+   {RE}You have stumbled into a very large pothole!!!
+
+   As you attempt to pull yourself out a large 18-wheeler comes along an squashes your head like a grape!!!
+{re}
+~
+212 2 1
+Z3
+C-1
+S
+#21222
+Lost in Wako.~
+
+   {RE}The heat radiating off the asphalt is enough to make you die of thirst.  You can barely make out
+   which direction your going because of the noxious fumes in the air.  You feel light headed as
+   you make your way to the next overpass.  Or is that an underpass?  You see something sprayed on
+   the wall here.....{re}
+
+~
+212 17680 1
+D0
+~
+~
+0 -1 21205
+D1
+~
+~
+0 -1 21223
+D2
+~
+~
+0 -1 21221
+D3
+~
+~
+0 -1 21208
+E
+wall~
+
+
+                     For virgins do not bring forth sons,
+                           Until God does reverse,
+                        The inner meaning of the law,
+                        To remove man from the curse. 
+
+                                    4.4
+~
+Z3
+C2
+S
+#21223
+Lost in Wako.~
+
+   {RE}The heat radiating off the asphalt is enough to make you die of thirst.  You can barely make out
+   which direction your going because of the noxious fumes in the air.  You feel light headed as
+   you make your way to the next overpass.  Or is that an underpass?  You see something sprayed on
+   the wall here.....{re}
+
+~
+212 17680 1
+D0
+~
+~
+0 -1 21224
+D1
+~
+~
+0 -1 21205
+D2
+~
+~
+0 -1 21221
+D3
+~
+~
+0 -1 21205
+E
+wall~
+
+
+                    For in the Christ, we've seen a bride, 
+                          The water mixed with blood, 
+                     The wife with cloven tongues of fire, 
+                         Of whom the Christ has loved. 
+
+                                    1.5
+~
+Z3
+C2
+S
+#21224
+Lost in Wako.~
+
+   {RE}The heat radiating off the asphalt is enough to make you die of thirst.  You can barely make out
+   which direction your going because of the noxious fumes in the air.  You feel light headed as
+   you make your way to the next overpass.  Or is that an underpass?  You see something sprayed on
+   the wall here.....{re}
+
+~
+212 17680 1
+D0
+~
+~
+0 -1 21213
+D1
+~
+~
+0 -1 21225
+D2
+~
+~
+0 -1 21211
+D3
+~
+~
+0 -1 21221
+E
+wall~
+
+                     And now He's back to sing His song, 
+                          The life of every spring, 
+                  And love birds gather, each one with mate, 
+                        For the marriage of the King 
+
+                                    3.7
+~
+Z3
+C2
+S
+#21225
+No longer lost.~
+
+   {CY}Wow!! Great job making it across that busy highway but this is only the beginning of your journey.{cy}
+   {CY}You still have many hard choices before your quest is done.  Choose right and you will find great
+   riches ahead.  Choose wrong and you will find it rather painful.{cy}
+
+~
+212 129 1
+D1
+The can see a crystal clear glass door.  You sense danger in this direction.
+~
+glass~
+2 21203 21227
+D3
+You see a sturdy wooden door here.
+~
+wood~
+2 21203 21221
+Z3
+C-1
+S
+#21226
+In the dark.~
+  Your standing knee-high in sewer sludge.  The stence of rotting flesh wafts past your nostrils almost making you gag.  You notice a ripple in the sludge as something brushes up against your leg from behind you !!  You see some blood and a few scratches on the far wall......
+
+~
+212 4243457 6
+E
+wall~
+  I tried to make it out of here but failed.  I wish I had seen that tinge of daylight when i first came in here.  Go into the light !!!! ......
+~
+T21200
+Z3
+C2
+S
+#21227
+The {BLUE}CH{GREEN}OI{BLACK}CE{black}.~
+
+   {CY}Now is the time you must make a decision.  You see three paths laid out
+   before you other than that from which you just came.{cy}
+
+   SOUTH is a door made of {BLU}sapphires{blu}.
+   NORTH is a door made of {GRE}emeralds{gre}.
+   EAST is a door made of {BL}onyx{bl} and {YE}gold{ye}.
+
+   {CY}Choose your destiny . . .{cy}
+
+~
+212 0 1
+D0
+You see a remarkably beautiful door made entirely of {GREEN}emeralds{green}.  It has some markings written on it.
+~
+emerald~
+1 -1 21272
+D1
+The see a door made of the blackest obsidian {BLACK}onyx{black}.  It is extremely well designed and inlaid with {YELLOW}gold leaf{yellow}.  You see some markings written upon it.
+~
+onyx~
+1 -1 21227
+D2
+You see a remarkably beautiful door made entirely of {BLUE}sapphires{blue}.  It has some markings written on it.
+~
+sapphire~
+1 -1 21228
+D3
+You see a crystal clear glass door.
+~
+glass~
+2 21203 21225
+E
+onyx~
+  This area is not currently open.
+~
+E
+sapphire~
+  Take this path if you are in groups of 2-5 Advanced Players.  It covers the WACO invasion from {WHITE}February 28th - March 16th{white}.
+~
+E
+emerald~
+  Take this path if you are in groups of 3-5 Advanced Players.  It covers the WACO invasion from {WHITE}March 17th - April 2nd{white}.
+~
+Z3
+C-1
+S
+#21228
+The Initial Conflict: {WHITE}February 28th - March 16th{white}.~
+
+   {WH}The story of the WACO conflict is a strange one indeed.  The events of February 28, 1993 thru
+   April 19, 1993 will forever be etched in the memories of all free thinking people.{wh}
+
+~
+212 0 1
+Z3
+C-1
+S
+#21232
+Mongoose den.~
+  You have stumbled into the wrong place.  This is the home of none other than Shredder the most fierce mongoose that ever lived.  He has piles of bones and equipment that once were his enemies stacked up in piles all around him.
+~
+212 132097 0
+D0
+~
+~
+0 -1 21218
+Z3
+C-1
+S
+#21272
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+212 262144 1
+Z3
+C-1
+S
+#21298
+{CY}Cruz's think tank{cy}~
+
+   {RE}This is the bear loading zone stand back please.{re}
+
+~
+212 262144 1
+D4
+~
+door~
+1 -1 2011
+Z0
+C-1
+S
+#21299
+{BL}Cruz's Bonsai Garden{bl}~
+Just chill out and relax...   %%%%%%%%%% %%%  %%%%%%%%%%
+                            %%%%%% % %%%%%%%%%%%%%%%%%%%%
+                %% %%%%%%%%%%%%%%%%%%%%%%%%%%% %%%%%% %%
+              %%%%%  %%% % %%%%%%%%%%%%%%%%   %%%%%%%
+                %%%%%  %%%%%%%%%%%% %%%%%%  %%%
+            %%%%%%%%% %%%%%%%%%%%%%% %% %%%%%%%
+      %%  %%%% %  %%%%% %% %%     %%%%%%%
+     %%%%%%%%%% %%    %  %%%    %%%%%%%%%%%
+       %%%%%%%%%%%%% %%%%%%%%    %%%% %%%%%%%
+           %% %%%%       %%%%%%%%%    %  % %
+                        %% %%%%%
+                     //%%\\ Cruz's Banzai Garden
+                 +--/------\--+
+                 +------------+
+~
+212 139264 5
+M53
+Z3
+C-1
+S
+$~

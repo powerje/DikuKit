@@ -1,0 +1,102 @@
+#207
+Chessboard(Revenge)~
+20799 30 1
+*
+X 1120
+M 0 20709     2 20701    {BLA,BO}A black rook{bla,bo}
+E 1 20701     2    12    (ABOUT) {BLA,BO}Black Rook's Armor{bla,bo}
+M 0 20710     2 20702    {BLA,BO}A black knight{bla,bo}
+E 1 20704     2    16    (WIELD) {BLA,BO}Black Knight's Lance{bla,bo}
+M 0 20711     2 20703    {BLA,BO}A black bishop{bla,bo}
+M 0 20712     1 20704    {BLA,BO}The Black Queen{bla,bo}
+E 1 20706     1     6    (HEAD) {BLA,BO}Black Queen's Tiara{bla,bo}
+G 1 20717     1     0    {Y,BO}A {BLA,BO}marble {Y,BO}key{y,bo}
+D 0 20704     5     2    (D:LOCKED) {BOLD}{W}White Square{w}
+M 0 20713     1 20705    {BLA,BO}The King{bla,bo}
+E 1 20710     1    16    (WIELD) {BOLD}{W}S{B}c{W}e{B}p{W}t{B}r{W}e{w} {BOLD}{W}of the{w} {BOLD}{B}Black King{b}
+M 0 20711     2 20706    {BLA,BO}A black bishop{bla,bo}
+M 0 20710     2 20707    {BLA,BO}A black knight{bla,bo}
+E 1 20704     2    16    (WIELD) {BLA,BO}Black Knight's Lance{bla,bo}
+M 0 20709     2 20708    {BLA,BO}A black rook{bla,bo}
+E 1 20701     2    12    (ABOUT) {BLA,BO}Black Rook's Armor{bla,bo}
+M 0 20700     8 20709    {BLA,BO}A black pawn{bla,bo}
+E 1 20700    15    16    (WIELD) {BLA,BO}a pawn's long sword{bla,bo}
+M 0 20700     8 20710    {BLA,BO}A black pawn{bla,bo}
+E 1 20700    15    16    (WIELD) {BLA,BO}a pawn's long sword{bla,bo}
+M 0 20700     8 20711    {BLA,BO}A black pawn{bla,bo}
+E 1 20700    15    16    (WIELD) {BLA,BO}a pawn's long sword{bla,bo}
+M 0 20700     8 20712    {BLA,BO}A black pawn{bla,bo}
+E 1 20700    15    16    (WIELD) {BLA,BO}a pawn's long sword{bla,bo}
+M 0 20700     8 20713    {BLA,BO}A black pawn{bla,bo}
+E 1 20700    15    16    (WIELD) {BLA,BO}a pawn's long sword{bla,bo}
+M 0 20700     8 20714    {BLA,BO}A black pawn{bla,bo}
+E 1 20700    15    16    (WIELD) {BLA,BO}a pawn's long sword{bla,bo}
+M 0 20700     8 20715    {BLA,BO}A black pawn{bla,bo}
+E 1 20700    15    16    (WIELD) {BLA,BO}a pawn's long sword{bla,bo}
+M 0 20700     8 20716    {BLA,BO}A black pawn{bla,bo}
+E 1 20700    15    16    (WIELD) {BLA,BO}a pawn's long sword{bla,bo}
+D 0 20725     3     1    (W:CLOSED) {BOLD}{BLACK}Black Square{black}
+M 0 20717     8 20749    {W,BO}A white pawn{w,bo}
+M 0 20717     8 20750    {W,BO}A white pawn{w,bo}
+E 1 20700    15    16    (WIELD) {BLA,BO}a pawn's long sword{bla,bo}
+M 0 20717     8 20751    {W,BO}A white pawn{w,bo}
+E 1 20700    15    16    (WIELD) {BLA,BO}a pawn's long sword{bla,bo}
+M 0 20717     8 20752    {W,BO}A white pawn{w,bo}
+E 1 20700    15    16    (WIELD) {BLA,BO}a pawn's long sword{bla,bo}
+M 0 20717     8 20753    {W,BO}A white pawn{w,bo}
+E 1 20700    15    16    (WIELD) {BLA,BO}a pawn's long sword{bla,bo}
+M 0 20717     8 20754    {W,BO}A white pawn{w,bo}
+E 1 20700    15    16    (WIELD) {BLA,BO}a pawn's long sword{bla,bo}
+M 0 20717     8 20755    {W,BO}A white pawn{w,bo}
+E 1 20700    15    16    (WIELD) {BLA,BO}a pawn's long sword{bla,bo}
+M 0 20717     8 20756    {W,BO}A white pawn{w,bo}
+E 1 20700    15    16    (WIELD) {BLA,BO}a pawn's long sword{bla,bo}
+M 0 20718     2 20757    {W,BO}A white rook{w,bo}
+E 1 20703     1     5    (BODY) {W,BO}White Rook's Armor{w,bo}
+M 0 20719     2 20758    {W,BO}A white knight{w,bo}
+E 1 20705     1    16    (WIELD) {W,BO}White Knight's Lance{w,bo}
+M 0 20720     2 20759    {W,BO}A white bishop{w,bo}
+M 0 20722     1 20760    {W,BO}The White Queen{w,bo}
+E 1 20707     2     6    (HEAD) {W,BO}White Queen's Tiara{w,bo}
+G 1 20716     1     0    {Y,BO}A {W,BO}marble{Y,BO} key{y,bo}
+D 0 20760     5     2    (D:LOCKED) {BOLD}{W}White Square{w}
+M 0 20721     1 20761    {W,BO}The White King{w,bo}
+E 1 20711     2    16    (WIELD) {BOLD}{B}S{W}c{B}e{W}p{B}t{W}r{B}e{b} {BOLD}{B}of the{b} {BOLD}{W}White King{w}
+M 0 20720     2 20762    {W,BO}A white bishop{w,bo}
+M 0 20719     2 20763    {W,BO}A white knight{w,bo}
+M 0 20718     2 20764    {W,BO}A white rook{w,bo}
+O 0 20720     3 20765    {Y,BO}a small pile of gold coins{y}
+D 0 20765     4     1    (U:CLOSED) {Y}***{y}{BOLD}{Y}Treasure{y}{Y}***{y}
+O 0 20720     3 20766    {Y,BO}a small pile of gold coins{y}
+D 0 20766     4     2    (U:LOCKED) {Y}***{y}{BOLD}{Y}Treasure{y}{Y}***{y}
+D 0 20767     1     1    (E:CLOSED) {BOLD}{W}The {BLACK}Gates {W}Of {BLACK}The {W}Great {BLACK}Eastern {W}Midgaard {BLACK}Chessboard.{black}
+M 0 20723     5 20771    {G}A{Y} bandit{y}
+M 0 20723     5 20782    {G}A{Y} bandit{y}
+M 0 20723     5 20785    {G}A{Y} bandit{y}
+M 0 20723     5 20785    {G}A{Y} bandit{y}
+M 0 20723     5 20788    {G}A{Y} bandit{y}
+O 0 20702     1 20790    {Y,BO}A beautiful {BLA,BO}velvet{Y,BO} chest{y,bo}
+D 0 20790     2     1    (S:CLOSED) {Y}Lost{y} {R}in{r} {G}Sherwood{g}
+D 0 20791     0     1    (N:CLOSED) {G}Overgrown{g} {Y}brush{y}
+M 0 20724     1 20792    {G}Some{Y} mulch{y}
+E 1 20712     1    13    (WAIST) {Y}Deerskin Pouch{y}
+M 0 20729     1 20794    {Y}The hunter{y}
+E 1 20719     1     6    (HEAD) {Y}The Deer Antlers{y}
+D 0 20794     3     1    (W:CLOSED) {G}Dense {Y}Brush {G}and {BLA,BO}Rock{bla,bo}
+M 0 20726     1 20795    {Y}Friar Tuck{y}
+E 1 20714     1    12    (ABOUT) {Y}Friar Tuck's Robe{y}
+M 0 20725     1 20795    {Y}Little John{y}
+E 1 20713     1    16    (WIELD) {Y}Little John's Stick{y}
+D 0 20795     1     1    (E:CLOSED) {R}Robin{r} {G}Hood's{g} {Y}Camp{y}
+D 0 20795     2     1    (S:CLOSED) {R}Robin{r} {G}Hood's{g} {Y}Camp{y}
+D 0 20795     3     1    (W:CLOSED) {R}Robin{r} {G}Hood's{g} {Y}Camp{y}
+M 0 20727     1 20796    {C}Maid Marian{c}
+G 1 20715     1     0    {Y}A golden key{y}
+M 0 20728     1 20796    {G}Robin Hood{g}
+E 1 20718     1    16    (WIELD) {Y}Merry Man's Longbow{y}
+D 0 20796     0     1    (N:CLOSED) {R}Robins{r} {Y}Hut{y}
+O 0 20708     1 20797    {Y,BO}a golden chest{y,bo}
+P 1 20720     3 20708    {Y,BO}a small pile of gold coins{y}
+D 0 20797     1     1    (E:CLOSED) {Y}Thatched Hut{y}
+D 0 20797     5     1    (D:CLOSED) {Y}Thatched Hut{y}
+$~

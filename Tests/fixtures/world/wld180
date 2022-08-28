@@ -1,0 +1,1025 @@
+#18000
+Inside the Chapel~
+You stand in a fairly large chapel.  You stare around in wonder at the
+stained-glass windows.  You walk along the aisle, passing by the pews
+to both side of you toward the altar.  As you step up to stand before
+the altar, you notice that there's an exit on the rear wall that seems
+to lead outside again.
+~
+180 8200 1
+D1
+~
+~
+0 -1 3900
+D3
+~
+~
+0 -1 18001
+M1
+Y100
+Z0
+C-1
+R0
+S
+#18001
+Chapel Garden~
+You are standing behind the chapel in a beautiful garden.  Flowers
+line the garden beds all around you, and a sweet fragrant scent fills
+the air, making you feel restful and relaxed.  However, there doesn't
+seem to be anything interesting out here.  Wait...  you think you
+see a dim and little-used path leading out of the north-west corner
+of the garden.  You peer ahead through the trees surrounding the garden,
+and you think you can make out another building, but you couldn't
+be certain.
+~
+180 16384 2
+D1
+~
+~
+0 -1 18000
+D3
+~
+~
+0 -1 18002
+Z0
+C-1
+R0
+S
+#18002
+The Faded Garden Trail~
+You're walking along a faint trail through the trees toward what appears
+to be a dark and run-down building, but there's something odd about its
+shape that you can't quite pin down.  However, as you walk closer to it,
+you finally realize that it must be a monastery of some sort.  It appears
+to be abandoned though.  Maybe you should walk closer to be sure...
+~
+180 16384 2
+D0
+~
+~
+0 -1 18003
+D1
+~
+~
+0 -1 18001
+Z0
+C-1
+R0
+S
+#18003
+The Shotokan Monastery~
+You are now standing before a large four story run-down looking monastery.
+However, from the screams and yells coming from inside it, you realize
+that it's not abandoned, after all.  Suddenly one of the windows explode
+outwards, showering you with fragments of glass!  You throw an arm up to
+protect your face as a body hurtles through it to crash into a tree with
+a gut-wrenching thunk, then it collapses to the ground and lies still.
+~
+180 16384 1
+D0
+~
+~
+0 -1 18004
+D2
+~
+~
+0 -1 18002
+Z0
+C-1
+R0
+S
+#18004
+The Monastery Lobby~
+You're now standing in the entry lobby of the monastery.  It has a slightly
+dusty look and feel to it.  There's nobody here, but you can hear screams
+coming from ahead of you.  Upon investigating, you discover that the 
+lobby opens up into a huge room filled with men in white baggy clothings
+running around yelling and screaming at each other.  You realize that
+this is a dojo, and these are apprentices practicing their skills.  One
+scrawny-looking man attempts a roundhouse kick, then suddenly grabs his
+groin, and sinks to the floor in pain from his pulled muscle.
+~
+180 262284 1
+D0
+~
+~
+0 -1 18005
+D2
+~
+~
+0 -1 18003
+X128
+Z0
+C-1
+R0
+S
+#18005
+The White Dojo~
+You are in a large padded room.  There are many people here wearing white
+robes and belts.  They all scream as they do a flying kick at each other,
+then grunting in pain as they fall short and land on their asses.  You see
+one particularly young-looking fellow throwing a punch at someone, only
+to end up punching himself in the face, giving himself a bloody nose.
+~
+180 136 1
+D0
+~
+~
+0 -1 18009
+D1
+~
+~
+0 -1 18007
+D2
+~
+~
+0 -1 18004
+D3
+~
+~
+0 -1 18006
+X128
+Z0
+C-1
+R0
+S
+#18006
+The White Dojo~
+You are in a large padded room.  There are many people here wearing white
+robes and belts.  They all scream as they do a flying kick at each other,
+then grunting in pain as they fall short and land on their asses.  You see
+one particularly young-looking fellow throwing a punch at someone, only
+to end up punching himself in the face, giving himself a bloody nose.
+~
+180 136 1
+D0
+~
+~
+0 -1 18008
+D1
+~
+~
+0 -1 18005
+X128
+Z0
+C-1
+R0
+S
+#18007
+The White Dojo~
+You are in a large padded room.  There are many people here wearing white
+robes and belts.  They all scream as they do a flying kick at each other,
+then grunting in pain as they fall short and land on their asses.  You see
+one particularly young-looking fellow throwing a punch at someone, only
+to end up punching himself in the face, giving himself a bloody nose.
+~
+180 16520 1
+D0
+~
+~
+0 -1 18010
+D3
+~
+~
+0 -1 18005
+X128
+Z0
+C-1
+R0
+S
+#18008
+The White Dojo~
+You are in a large padded room.  There are many people here wearing white
+robes and belts.  They all scream as they do a flying kick at each other,
+then grunting in pain as they fall short and land on their asses.  You see
+one particularly young-looking fellow throwing a punch at someone, only
+to end up punching himself in the face, giving himself a bloody nose.
+~
+180 136 1
+D0
+~
+~
+0 -1 18011
+D1
+~
+~
+0 -1 18009
+D2
+~
+~
+0 -1 18006
+X128
+Z0
+C-1
+R0
+S
+#18009
+The White Dojo~
+You are in a large padded room.  There are many people here wearing white
+robes and belts.  They all scream as they do a flying kick at each other,
+then grunting in pain as they fall short and land on their asses.  You see
+one particularly young-looking fellow throwing a punch at someone, only
+to end up punching himself in the face, giving himself a bloody nose.
+~
+180 136 1
+D0
+~
+~
+0 -1 18012
+D1
+~
+~
+0 -1 18010
+D2
+~
+~
+0 -1 18005
+D3
+~
+~
+0 -1 18008
+D5
+~
+Doom~
+2 18000 18036
+X128
+Z0
+C-1
+R0
+S
+#18010
+The White Dojo~
+You are in a large padded room.  There are many people here wearing white
+robes and belts.  They all scream as they do a flying kick at each other,
+then grunting in pain as they fall short and land on their asses.  You see
+one particularly young-looking fellow throwing a punch at someone, only
+to end up punching himself in the face, giving himself a bloody nose.
+~
+180 136 1
+D0
+~
+~
+0 -1 18013
+D2
+~
+~
+0 -1 18007
+D3
+~
+~
+0 -1 18009
+X128
+Z0
+C-1
+R0
+S
+#18011
+The White Dojo~
+You are in a large padded room.  There are many people here wearing white
+robes and belts.  They all scream as they do a flying kick at each other,
+then grunting in pain as they fall short and land on their asses.  You see
+one particularly young-looking fellow throwing a punch at someone, only
+to end up punching himself in the face, giving himself a bloody nose.
+~
+180 136 1
+D1
+~
+~
+0 -1 18012
+D2
+~
+~
+0 -1 18008
+X128
+Z0
+C-1
+R0
+S
+#18012
+The White Dojo~
+You are in a large padded room.  There are many people here wearing white
+robes and belts.  They all scream as they do a flying kick at each other,
+then grunting in pain as they fall short and land on their asses.  You see
+one particularly young-looking fellow throwing a punch at someone, only
+to end up punching himself in the face, giving himself a bloody nose.
+~
+180 136 1
+D1
+~
+~
+0 -1 18013
+D2
+~
+~
+0 -1 18009
+D3
+~
+~
+0 -1 18011
+X128
+Z0
+C-1
+R0
+S
+#18013
+The White Dojo~
+You are in a large padded room.  There are many people here wearing white
+robes and belts.  They all scream as they do a flying kick at each other,
+then grunting in pain as they fall short and land on their asses.  You see
+one particularly young-looking fellow throwing a punch at someone, only
+to end up punching himself in the face, giving himself a bloody nose.
+~
+180 136 1
+D2
+~
+~
+0 -1 18010
+D3
+~
+~
+0 -1 18012
+D4
+~
+Second~
+2 18001 18014
+X128
+Z0
+C-1
+R0
+S
+#18014
+The Green Dojo~
+You are in another large room, but this one seems a bit more ornately
+decorated than the room below.  The walls and floors are padded, but the
+paddings have the Shotokan family symbols on them.  The people here are
+in green outfits and belts, and they seem more experienced than the
+white belts.  That is, until you witnessed one woman who misjudged her
+flying kick and shot out the window.  You wince as you hear a thud outside.
+~
+180 136 1
+D2
+~
+~
+0 -1 18017
+D3
+~
+~
+0 -1 18015
+D5
+~
+Second~
+1 -1 18013
+X128
+Z0
+C-1
+R0
+S
+#18015
+The Green Dojo~
+You are in another large room, but this one seems a bit more ornately
+decorated than the room below.  The walls and floors are padded, but the
+paddings have the Shotokan family symbols on them.  The people here are
+in green outfits and belts, and they seem more experienced than the
+white belts.  That is, until you witnessed one woman who misjudged her
+flying kick and shot out the window.  You wince as you hear a thud outside.
+~
+180 136 1
+D1
+~
+~
+0 -1 18014
+D2
+~
+~
+0 -1 18018
+D3
+~
+~
+0 -1 18016
+X128
+Z0
+C-1
+R0
+S
+#18016
+The Green Dojo~
+You are in another large room, but this one seems a bit more ornately
+decorated than the room below.  The walls and floors are padded, but the
+paddings have the Shotokan family symbols on them.  The people here are
+in green outfits and belts, and they seem more experienced than the
+white belts.  That is, until you witnessed one woman who misjudged her
+flying kick and shot out the window.  You wince as you hear a thud outside.
+~
+180 136 1
+D1
+~
+~
+0 -1 18015
+D2
+~
+~
+0 -1 18019
+X128
+Z0
+C-1
+R0
+S
+#18017
+The Green Dojo~
+You are in another large room, but this one seems a bit more ornately
+decorated than the room below.  The walls and floors are padded, but the
+paddings have the Shotokan family symbols on them.  The people here are
+in green outfits and belts, and they seem more experienced than the
+white belts.  That is, until you witnessed one woman who misjudged her
+flying kick and shot out the window.  You wince as you hear a thud outside.
+~
+180 136 1
+D0
+~
+~
+0 -1 18014
+D2
+~
+~
+0 -1 18020
+D3
+~
+~
+0 -1 18018
+X128
+Z0
+C-1
+R0
+S
+#18018
+The Green Dojo~
+You are in another large room, but this one seems a bit more ornately
+decorated than the room below.  The walls and floors are padded, but the
+paddings have the Shotokan family symbols on them.  The people here are
+in green outfits and belts, and they seem more experienced than the
+white belts.  That is, until you witnessed one woman who misjudged her
+flying kick and shot out the window.  You wince as you hear a thud outside.
+~
+180 136 1
+D0
+~
+~
+0 -1 18015
+D1
+~
+~
+0 -1 18017
+D2
+~
+~
+0 -1 18021
+D3
+~
+~
+0 -1 18019
+X128
+Z0
+C-1
+R0
+S
+#18019
+The Green Dojo~
+You are in another large room, but this one seems a bit more ornately
+decorated than the room below.  The walls and floors are padded, but the
+paddings have the Shotokan family symbols on them.  The people here are
+in green outfits and belts, and they seem more experienced than the
+white belts.  That is, until you witnessed one woman who misjudged her
+flying kick and shot out the window.  You wince as you hear a thud outside.
+~
+180 136 1
+D0
+~
+~
+0 -1 18016
+D1
+~
+~
+0 -1 18018
+D2
+~
+~
+0 -1 18022
+X128
+Z0
+C-1
+R0
+S
+#18020
+The Green Dojo~
+You are in another large room, but this one seems a bit more ornately
+decorated than the room below.  The walls and floors are padded, but the
+paddings have the Shotokan family symbols on them.  The people here are
+in green outfits and belts, and they seem more experienced than the
+white belts.  That is, until you witnessed one woman who misjudged her
+flying kick and shot out the window.  You wince as you hear a thud outside.
+~
+180 136 1
+D0
+~
+~
+0 -1 18017
+D3
+~
+~
+0 -1 18021
+X128
+Z0
+C-1
+R0
+S
+#18021
+The Green Dojo~
+You are in another large room, but this one seems a bit more ornately
+decorated than the room below.  The walls and floors are padded, but the
+paddings have the Shotokan family symbols on them.  The people here are
+in green outfits and belts, and they seem more experienced than the
+white belts.  That is, until you witnessed one woman who misjudged her
+flying kick and shot out the window.  You wince as you hear a thud outside.
+~
+180 136 1
+D0
+~
+~
+0 -1 18018
+D1
+~
+~
+0 -1 18020
+D3
+~
+~
+0 -1 18022
+X128
+Z0
+C-1
+R0
+S
+#18022
+The Green Dojo~
+You are in another large room, but this one seems a bit more ornately
+decorated than the room below.  The walls and floors are padded, but the
+paddings have the Shotokan family symbols on them.  The people here are
+in green outfits and belts, and they seem more experienced than the
+white belts.  That is, until you witnessed one woman who misjudged her
+flying kick and shot out the window.  You wince as you hear a thud outside.
+~
+180 136 1
+D0
+~
+~
+0 -1 18019
+D1
+~
+~
+0 -1 18021
+D4
+~
+Third~
+2 18002 18023
+X128
+Z0
+C-1
+R0
+S
+#18023
+The Black Dojo~
+You're in a large room, and it's quite an elegant room too.  Gold trimmings
+line the wood panels on the walls, and japanese-style painting hang on
+the walls.  The floor is painted jet black with a huge white Shotokan 
+symbol painted in the middle.  *SNAP!*  Your head jolts around just in time
+to see a body hurtling toward you!  You duck just in time and the body
+crashes into the wall behind you.  It slides to the floor, leaving behind
+a red bloody streak.  You gulp.
+~
+180 136 1
+D0
+~
+~
+0 -1 18026
+D1
+~
+~
+0 -1 18024
+D5
+~
+Third~
+1 -1 18022
+X128
+Z0
+C-1
+R0
+S
+#18024
+The Black Dojo~
+You're in a large room, and it's quite an elegant room too.  Gold trimmings
+line the wood panels on the walls, and japanese-style painting hang on
+the walls.  The floor is painted jet black with a huge white Shotokan 
+symbol painted in the middle.  *SNAP!*  Your head jolts around just in time
+to see a body hurtling toward you!  You duck just in time and the body
+crashes into the wall behind you.  It slides to the floor, leaving behind
+a red bloody streak.  You gulp.
+~
+180 136 1
+D0
+~
+~
+0 -1 18027
+D1
+~
+~
+0 -1 18025
+D3
+~
+~
+0 -1 18023
+X128
+Z0
+C-1
+R0
+S
+#18025
+The Black Dojo~
+You're in a large room, and it's quite an elegant room too.  Gold trimmings
+line the wood panels on the walls, and japanese-style painting hang on
+the walls.  The floor is painted jet black with a huge white Shotokan 
+symbol painted in the middle.  *SNAP!*  Your head jolts around just in time
+to see a body hurtling toward you!  You duck just in time and the body
+crashes into the wall behind you.  It slides to the floor, leaving behind
+a red bloody streak.  You gulp.
+~
+180 136 1
+D0
+~
+~
+0 -1 18028
+D3
+~
+~
+0 -1 18024
+X128
+Z0
+C-1
+R0
+S
+#18026
+The Black Dojo~
+You're in a large room, and it's quite an elegant room too.  Gold trimmings
+line the wood panels on the walls, and japanese-style painting hang on
+the walls.  The floor is painted jet black with a huge white Shotokan 
+symbol painted in the middle.  *SNAP!*  Your head jolts around just in time
+to see a body hurtling toward you!  You duck just in time and the body
+crashes into the wall behind you.  It slides to the floor, leaving behind
+a red bloody streak.  You gulp.
+~
+180 136 1
+D0
+~
+~
+0 -1 18029
+D1
+~
+~
+0 -1 18027
+D2
+~
+~
+0 -1 18023
+X128
+Z0
+C-1
+R0
+S
+#18027
+The Black Dojo~
+You're in a large room, and it's quite an elegant room too.  Gold trimmings
+line the wood panels on the walls, and japanese-style painting hang on
+the walls.  The floor is painted jet black with a huge white Shotokan 
+symbol painted in the middle.  *SNAP!*  Your head jolts around just in time
+to see a body hurtling toward you!  You duck just in time and the body
+crashes into the wall behind you.  It slides to the floor, leaving behind
+a red bloody streak.  You gulp.
+~
+180 136 1
+D0
+~
+~
+0 -1 18030
+D1
+~
+~
+0 -1 18028
+D2
+~
+~
+0 -1 18024
+D3
+~
+~
+0 -1 18026
+X128
+Z0
+C-1
+R0
+S
+#18028
+The Black Dojo~
+You're in a large room, and it's quite an elegant room too.  Gold trimmings
+line the wood panels on the walls, and japanese-style painting hang on
+the walls.  The floor is painted jet black with a huge white Shotokan 
+symbol painted in the middle.  *SNAP!*  Your head jolts around just in time
+to see a body hurtling toward you!  You duck just in time and the body
+crashes into the wall behind you.  It slides to the floor, leaving behind
+a red bloody streak.  You gulp.
+~
+180 136 1
+D0
+~
+~
+0 -1 18031
+D2
+~
+~
+0 -1 18025
+D3
+~
+~
+0 -1 18027
+X128
+Z0
+C-1
+R0
+S
+#18029
+The Black Dojo~
+You're in a large room, and it's quite an elegant room too.  Gold trimmings
+line the wood panels on the walls, and japanese-style painting hang on
+the walls.  The floor is painted jet black with a huge white Shotokan 
+symbol painted in the middle.  *SNAP!*  Your head jolts around just in time
+to see a body hurtling toward you!  You duck just in time and the body
+crashes into the wall behind you.  It slides to the floor, leaving behind
+a red bloody streak.  You gulp.
+~
+180 136 1
+D1
+~
+~
+0 -1 18030
+D2
+~
+~
+0 -1 18026
+X128
+Z0
+C-1
+R0
+S
+#18030
+The Black Dojo~
+You're in a large room, and it's quite an elegant room too.  Gold trimmings
+line the wood panels on the walls, and japanese-style painting hang on
+the walls.  The floor is painted jet black with a huge white Shotokan 
+symbol painted in the middle.  *SNAP!*  Your head jolts around just in time
+to see a body hurtling toward you!  You duck just in time and the body
+crashes into the wall behind you.  It slides to the floor, leaving behind
+a red bloody streak.  You gulp.
+~
+180 136 1
+D1
+~
+~
+0 -1 18031
+D2
+~
+~
+0 -1 18027
+D3
+~
+~
+0 -1 18029
+X128
+Z0
+C-1
+R0
+S
+#18031
+The Black Dojo~
+You're in a large room, and it's quite an elegant room too.  Gold trimmings
+line the wood panels on the walls, and japanese-style painting hang on
+the walls.  The floor is painted jet black with a huge white Shotokan 
+symbol painted in the middle.  *SNAP!*  Your head jolts around just in time
+to see a body hurtling toward you!  You duck just in time and the body
+crashes into the wall behind you.  It slides to the floor, leaving behind
+a red bloody streak.  You gulp.
+~
+180 16520 1
+D2
+~
+~
+0 -1 18028
+D3
+~
+~
+0 -1 18030
+D4
+~
+Hidden~
+2 18003 18032
+X128
+Z0
+C-1
+R0
+S
+#18032
+The Master Dojo~
+WOW!  Opulent isn't a strong enough word for this room.  Pearl and jade
+statuettes rest on marble and ivory pedestals along the walls.  Expensive
+paintings hang on the wall, and the floor is... bloodstained?  You take
+another look.  Blood stains splatter the floor and walls, providing an 
+unpleasant dichotomy between the elegant and the ugly.  Your stomach
+turns as you discover a torn-off arm behind an immaculate pedestal.  What
+sort of monster reside up here?
+~
+180 136 1
+D0
+~
+~
+0 -1 18034
+D1
+~
+~
+0 -1 18033
+X128
+Z0
+C-1
+R0
+S
+#18033
+The Master Dojo~
+WOW!  Opulent isn't a strong enough word for this room.  Pearl and jade
+statuettes rest on marble and ivory pedestals along the walls.  Expensive
+paintings hang on the wall, and the floor is... bloodstained?  You take
+another look.  Blood stains splatter the floor and walls, providing an 
+unpleasant dichotomy between the elegant and the ugly.  Your stomach
+turns as you discover a torn-off arm behind an immaculate pedestal.  What
+sort of monster reside up here?
+~
+180 136 1
+D0
+~
+~
+0 -1 18035
+D3
+~
+~
+0 -1 18032
+D5
+~
+Hidden~
+2 18000 18031
+X128
+Z0
+C-1
+R0
+S
+#18034
+The Master Dojo~
+WOW!  Opulent isn't a strong enough word for this room.  Pearl and jade
+statuettes rest on marble and ivory pedestals along the walls.  Expensive
+paintings hang on the wall, and the floor is... bloodstained?  You take
+another look.  Blood stains splatter the floor and walls, providing an 
+unpleasant dichotomy between the elegant and the ugly.  Your stomach
+turns as you discover a torn-off arm behind an immaculate pedestal.  What
+sort of monster reside up here?
+~
+180 136 1
+D1
+~
+~
+0 -1 18035
+D2
+~
+~
+0 -1 18032
+X128
+Z0
+C-1
+R0
+S
+#18035
+The Master Dojo~
+WOW!  Opulent isn't a strong enough word for this room.  Pearl and jade
+statuettes rest on marble and ivory pedestals along the walls.  Expensive
+paintings hang on the wall, and the floor is... bloodstained?  You take
+another look.  Blood stains splatter the floor and walls, providing an 
+unpleasant dichotomy between the elegant and the ugly.  Your stomach
+turns as you discover a torn-off arm behind an immaculate pedestal.  What
+sort of monster reside up here?
+~
+180 136 1
+D2
+~
+~
+0 -1 18033
+D3
+~
+~
+0 -1 18034
+X128
+Z0
+C-1
+R0
+S
+#18036
+The Bloody Dojo~
+Gulp.  You can't believe the carnage in here.  Bodyparts litter everywhere.
+Maimed heads and eyeballs loll about, and copious amounts of blood and
+dried intestines coat the walls.  A rancid stench fills the air.  This
+does not look good.  This does not look good at all.
+~
+180 136 1
+D0
+~
+~
+0 -1 18038
+D1
+~
+~
+0 -1 18037
+X128
+Z0
+C-1
+R0
+S
+#18037
+The Bloody Dojo~
+Gulp.  You can't believe the carnage in here.  Bodyparts litter everywhere.
+Maimed heads and eyeballs loll about, and copious amounts of blood and
+dried intestines coat the walls.  A rancid stench fills the air.  This
+does not look good.  This does not look good at all.
+~
+180 136 1
+D0
+~
+~
+0 -1 18039
+D3
+~
+~
+0 -1 18036
+X128
+Z0
+C-1
+R0
+S
+#18038
+The Bloody Dojo~
+Gulp.  You can't believe the carnage in here.  Bodyparts litter everywhere.
+Maimed heads and eyeballs loll about, and copious amounts of blood and
+dried intestines coat the walls.  A rancid stench fills the air.  This
+does not look good.  This does not look good at all.
+~
+180 136 1
+D1
+~
+~
+0 -1 18039
+D2
+~
+~
+0 -1 18036
+X128
+Z0
+C-1
+R0
+S
+#18039
+The Bloody Dojo~
+Gulp.  You can't believe the carnage in here.  Bodyparts litter everywhere.
+Maimed heads and eyeballs loll about, and copious amounts of blood and
+dried intestines coat the walls.  A rancid stench fills the air.  This
+does not look good.  This does not look good at all.
+~
+180 16520 1
+D2
+~
+~
+0 -1 18037
+D3
+~
+~
+0 -1 18038
+D5
+~
+Freedom~
+2 18019 3014
+X128
+Z0
+C-1
+R0
+S
+$~

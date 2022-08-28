@@ -1,0 +1,302 @@
+#1800
+CARP~
+{W}A carp{w}~
+A carp is here eating all the garbage it can get.
+~
+You see a 4 foot CARP, what an ugly fish. Now you know why these fish
+are called junk fish AHHHH UGLY!!!
+~
+16452 0 -200 S
+1 -2 -1 10d10+10 4d5+0
+0 0
+8 8 0
+S 8192
+D 20
+A 12
+#1801
+bass~
+{W}A bass{w}~
+A very pretty striped bass is swimming here.
+~
+This is a pretty fish, it has white and silver lines running across its 
+body. It must be a good fighter because of the extremely large head.
+~
+268484674 1107558536 200 S
+40 -5 -4 110d110+700 10d10+40
+100 50000
+8 8 0
+S 8192
+D 20
+A 12
+#1802
+Boater~
+A {BO,C}Boater{bo,c}~
+{W}A{w} {BO,C}boater{bo,c} {W}is getting ready to go{w} {BO,C}boating{bo,c}{W}.{w}
+~
+
+   He looks like a fairly normal guy, maybe a bit fat though. I wonder how tough
+   he would be to fight? Or how loyal he is to his fellow {BO,C}boaters{bo,c}?
+
+~
+49218 294920 0 S
+50 -10 -1 10d10+200 5d5+15
+10000 1000
+8 8 1
+S 1
+D 20
+A 12
+#1803
+boat~
+A possessed boat~
+A possessed boat is moving wildly about here.
+~
+This looks like a real nice boat, but it is obvious that some evil 
+spirit has possessed it.
+~
+411091042 1394868904 -500 S
+51 -20 -3 50d50+8000 10d15+20
+15000 1000
+8 8 0
+S 6207
+D 20
+A 12
+#1804
+catfish~
+{W}A catfish{w}~
+A catfish is lazily swimming here.
+~
+This fish has some long whiskers that you just know can sting you hard
+if you attack it
+~
+4 33816584 -50 S
+30 0 -3 60d60+400 5d5+10
+1000 1000
+8 8 2
+S 8192
+D 20
+A 12
+#1805
+waterskiier~
+{W}A waterskiier{w}~
+a waterskiier is having way too much fun skiing
+~
+This is a man with some big muscles, probably from waterskiing so much
+I'll bet he has a lot of endurance
+~
+671137830 1092386952 100 S
+50 -20 -3 100d100+10000 5d20+15
+50000 37835
+5 8 1
+S 67633215
+R 2097152
+D 20
+A 12
+#1806
+fisherman~
+{W}A fisherman{w}~
+A fisherman is here lazily waiting for a fish to bite.
+~
+This is an old man who passes all his time away fishing it looks like 
+he has caught some carp and some catfish but no bass. He looks really 
+disappointed about this and is very irritable.
+~
+57446 302252168 0 S
+40 -10 -2 80d80+0 10d10+10
+20000 1000
+8 8 0
+R 1048576
+D 20
+A 12
+#1807
+person~
+{W}A person{w}~
+A person pissed off at NC adventurers is here.
+~
+It is a person that is obviously pissed off at YOU!
+~
+0 33816584 -50 S
+30 10 -1 60d60+400 5d5+10
+1000 1000
+8 8 2
+R 524288
+D 20
+A 12
+#1808
+sea creature~
+{W}A sea creature{w}~
+A large sea creature is here standing in you way.
+~
+This is one huge fresh water fish!! It is ugly and I am sure 
+it wants to eat you!
+~
+268451938 1108083080 -50 S
+50 -5 -2 85d85+1000 10d10+20
+1000000 1000
+8 8 1
+S 1
+D 20
+A 12
+#1809
+sea elephant~
+{W}A sea elephant{w}~
+A sea elephant swims here patiently.
+~
+It looks like an elephant except it lives in the water
+~
+268451938 1108083080 -50 S
+50 -5 -2 85d85+1000 10d10+20
+1000000 1000
+8 8 1
+S 1
+D 20
+A 12
+#1810
+sea hag~
+{W}A sea hag{w}~
+A sea hag is swimming here.
+~
+This is one strange looking creature with many arms!
+~
+268451938 1108083080 -50 S
+50 -5 -2 85d85+1000 10d10+20
+1000000 1000
+8 8 1
+S 1
+D 20
+A 12
+#1811
+sea anemone~
+{W}A sea anemone{w}~
+A sea anemone is attacked to a rock here.
+~
+This creature looks like a huge flower with tentacles, it looks very
+poisonous!
+~
+268451938 1108083080 -50 S
+50 -5 -2 85d85+1000 10d10+20
+1000000 1000
+8 8 1
+S 17
+D 20
+A 12
+#1812
+sea cow~
+{W}A sea cow{w}~
+A sea cow is swimming and mooing here.
+~
+It looks like well, a cow, but it swims. It sounds like a cow also!
+~
+268451938 1108083080 -50 S
+50 -15 -2 85d85+1000 10d10+20
+1000000 1000
+8 8 1
+S 1
+D 20
+A 12
+#1813
+sea horse~
+{W}A sea horse{w}~
+A sea horse is swimming here.
+~
+It looks like a horse, with a tail and wings. hmmm maybe you are seeing
+things? Could this be pegasus swimming?
+~
+268451938 1108083080 -50 S
+50 -5 -2 85d85+1000 10d10+20
+1000000 1000
+8 8 1
+S 8
+D 20
+A 12
+#1814
+sea rat~
+{W}A sea rat{w}~
+A sea rat is swimming here.
+~
+It looks like a rat, but it has gills, and webbed feet. You shake your
+head and wonder about all that beer you have been drinking.
+~
+268451938 1108083080 -50 S
+50 -5 -2 85d85+1000 10d10+20
+1000000 1000
+8 8 1
+S 36
+R 1048576
+D 20
+A 12
+#1815
+sea dinosaur~
+{W}A sea dinosaur{w}~
+a sea dinosaur is trying to swim here
+~
+It looks like a prehistoric animal from Jurassic park. But it is, well
+it is trying to swim.
+~
+268451938 1108083080 -50 S
+50 -5 -2 85d85+1000 10d10+20
+1000000 1000
+8 8 1
+S 1
+D 20
+A 12
+#1816
+lizard~
+{W}A lizard{w}~
+A lizard is here soaking in the sun.
+~
+This is just a plain old lizard that you might see in any desert.
+~
+4 33816584 -50 S
+30 10 -3 60d60+400 5d5+10
+1000 1000
+8 8 2
+D 20
+A 12
+#1817
+scorpion~
+{W}A scorpion{w}~
+a scorpion is here ready to sting you
+~
+It looks like a normal scorpion you might find in any desert
+~
+4 33816584 -50 S
+30 10 -3 60d60+400 5d5+10
+1000 1000
+8 8 2
+D 20
+A 12
+#1818
+sunbather~
+{W}A sunbather{w}~
+A sunbather is here trying to get a great tan.
+~
+This is a good looking woman! She is wearing a French bikini and has 
+her eyes closed. She has dark brown skin, apparently from all the sun 
+bathing she does.
+~
+671138342 1125941384 100 S
+50 0 -3 100d100+10000 5d20+15
+50000 1
+8 8 1
+S 1
+D 20
+A 12
+#1819
+monster~
+{W}Monster{w}~
+The lake powell monster
+~
+
+   {BLU}This is the Lake Powell Monster, if you don't 
+   run quick it will kill you veryy quickly!!!!!{blu}
+
+{R,BO}RRRRRRRRRR{bo,r}{Y}UUUUUUUUUUUUUUU{y}{M}NNNNNNNNNNNNNNNNNNN{m}{C}!!!!!!!!!!!!!!!!!{c}
+
+~
+1073774720 1606282 -100 S
+51 -20 -5 0d0+25000 5d100+50
+1 1000
+8 8 2
+D 20
+A 12
+$~

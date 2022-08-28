@@ -1,0 +1,129 @@
+#36
+{bold}{RED}Catacombs{bold}(Arkady)~
+3699 20 1
+*
+X 1024
+D 0  3601     4     1    (U:CLOSED) {bold}{RED}North entrance to the catacombs{bold}
+M 0  3603     4  3604    a templar page
+M 0  3604    16  3604    a templar
+M 0  3604    16  3604    a templar
+M 0  3603     4  3604    a templar page
+M 0  3603     4  3605    a templar page
+M 0  3601    16  3607    a bat
+M 0  3601    16  3607    a bat
+M 0  3604    16  3608    a templar
+M 0  3604    16  3609    a templar
+M 0  3604    16  3609    a templar
+M 0  3604    16  3611    a templar
+M 0  3604    16  3611    a templar
+M 0  3601    16  3612    a bat
+M 0  3604    16  3613    a templar
+M 0  3603     4  3615    a templar page
+G 1  3601     1     0    A Glowing Key
+M 0  3604    16  3615    a templar
+M 0  3604    16  3616    a templar
+M 0  3604    16  3616    a templar
+M 0  3604    16  3617    a templar
+M 0  3604    16  3617    a templar
+M 0  3604    16  3618    a templar
+M 0  3604    16  3618    a templar
+M 0  3601    16  3620    a bat
+M 0  3601    16  3620    a bat
+M 0  3601    16  3620    a bat
+M 0  3601    16  3621    a bat
+M 0  3601    16  3621    a bat
+M 0  3604    16  3623    a templar
+M 0  3605     3  3624    a templar officer
+E 1  3616     1    16    (WIELD) {YELLOW}-){BOLD}{BLACK}A{bold}{YELLOW}-{BOLD}{BLACK}Templar's{bold}{YELLOW}-{BOLD}{BLACK}Sword{bold}{YELLOW}-{bold}
+M 0  3605     3  3624    a templar officer
+E 1  3610     1     3    (NECK) {BOLD}{WHITE}A White Cape{bold}
+M 0  3605     3  3624    a templar officer
+E 1  3609     1     5    (BODY) {BOLD}{BLACK}A Suit of {BOLD}{WHITE}C{BLACK}h{WHITE}a{BLACK}i{WHITE}n{BLACK}m{WHITE}a{BLACK}i{WHITE}l{bold}
+M 0 42400     1  3625    Baphomet
+M 0  3606     1  3625    the grand templar
+E 1  3602     1     5    (BODY) {BOLD}{BLACK}A Suit of {bold}{YELLOW}Gra{RED}nite Platem{YELLOW}ail{bold}
+E 1  3606     1     6    (HEAD) {BOLD}{YELLOW}A {BLUE}K{YELLOW}in{MAGENTA}g{YELLOW}ly {GREEN}C{YELLOW}ro{RED}w{YELLOW}n{bold}
+M 0  3601    16  3626    a bat
+M 0  3601    16  3626    a bat
+M 0  3601    16  3626    a bat
+M 0  3601    16  3627    a bat
+M 0  3601    16  3627    a bat
+D 0  3628     2     2    (S:LOCKED) {bold}{RED}The holy grove{bold}
+M 0  3613    18  3629    the mist
+M 0  3613    18  3629    the mist
+M 0  3613    18  3629    the mist
+M 0  3607     1  3631    a spelunker
+M 0  3619     1  3632    The holy guardian
+G 1  3624     1     0    A Key
+G 1  3611     1     0    {CYAN}The {BLUE}Shield {CYAN}of {BLUE}Defense{bold}
+O 0  3607     1  3632    stone
+P 1  3605     1  3607    {BOLD}{BLACK}-){WHITE}-{RED}The{WHITE}-{RED}Sword{WHITE}-{RED}Excalibur{WHITE}-{bold}
+D 0  3632     0     2    (N:LOCKED) {bold}{RED}The holy place{bold}
+M 0  3613    18  3633    the mist
+M 0  3613    18  3633    the mist
+M 0  3613    18  3633    the mist
+M 0  3609    23  3636    a skeleton
+M 0  3609    23  3637    a skeleton
+M 0  3609    23  3637    a skeleton
+M 0  3609    23  3638    a skeleton
+M 0  3609    23  3638    a skeleton
+M 0  3613    18  3640    the mist
+M 0  3613    18  3641    the mist
+M 0  3613    18  3642    the mist
+M 0  3613    18  3642    the mist
+M 0  3613    18  3643    the mist
+M 0  3613    18  3643    the mist
+M 0  3613    18  3643    the mist
+M 0  3609    23  3645    a skeleton
+M 0  3601    16  3645    a bat
+M 0  3609    23  3645    a skeleton
+M 0  3609    23  3646    a skeleton
+M 0  3601    16  3646    a bat
+M 0  3610     3  3647    a mysterious wraith
+M 0  3610     3  3647    a mysterious wraith
+M 0  3610     3  3647    a mysterious wraith
+M 0  3613    18  3648    the mist
+M 0  3613    18  3648    the mist
+M 0  3614     1  3650    the prism dragon
+E 1  3612     1    11    (SHIELD) {BOLD}{GREEN}A {bold}{GREEN}Dragon{BOLD}s{bold}{GREEN}c{BOLD}ale Shie{bold}{GREEN}ld{bold}
+E 1  3613     1    17    (HELD) {BOLD}{GREEN}A {BLUE}P{MAGENTA}r{CYAN}i{RED}s{WHITE}m {YELLOW}W{GREEN}a{BLUE}n{MAGENTA}d{bold}
+M 0  3609    23  3652    a skeleton
+M 0  3609    23  3652    a skeleton
+M 0  3602     1  3652    a vampire bat
+M 0  3609    23  3653    a skeleton
+M 0  3609    23  3653    a skeleton
+M 0  3609    23  3653    a skeleton
+M 0  3608     2  3653    a graverobber
+M 0  3608     2  3653    a graverobber
+M 0  3612     1  3653    the evil necromancer
+E 1  3603     1     2    (FINGER) {RED}A{BOLD}{BLACK}n {bold}{RED}O{BOLD}{BLACK}nyx {bold}{RED}R{BOLD}{BLACK}ing{bold}
+G 1  3615     3     0    {BOLD}{WHITE}A M{BLACK}i{WHITE}sty P{BLACK}oti{WHITE}on{bold}
+G 1  3615     3     0    {BOLD}{WHITE}A M{BLACK}i{WHITE}sty P{BLACK}oti{WHITE}on{bold}
+G 1  3615     3     0    {BOLD}{WHITE}A M{BLACK}i{WHITE}sty P{BLACK}oti{WHITE}on{bold}
+M 0  3601    16  3654    a bat
+M 0  3609    23  3654    a skeleton
+M 0  3609    23  3655    a skeleton
+M 0  3609    23  3655    a skeleton
+M 0  3611     3  3655    a zombie mage
+M 0  3611     3  3655    a zombie mage
+M 0  3611     3  3655    a zombie mage
+M 0  3613    18  3656    the mist
+M 0  3613    18  3656    the mist
+M 0  3613    18  3656    the mist
+M 0  3609    23  3659    a skeleton
+M 0  3609    23  3659    a skeleton
+M 0  3609    23  3660    a skeleton
+M 0  3609    23  3661    a skeleton
+M 0  3609    23  3661    a skeleton
+M 0  3609    23  3662    a skeleton
+M 0  3609    23  3662    a skeleton
+D 0  3665     4     1    (U:CLOSED) {bold}{RED}Southern entrance to the catacombs{bold}
+M 0  3620     1  3666    The beast
+M 0  3615     1  3670    the shadows
+E 1  3614     1    12    (ABOUT) {BOLD}{BLACK}A Shadow Cloak{bold}
+M 0  3616     1  3671    the darkness
+E 1  3619     1     8    (FEET) {BOLD}{BLACK}A Pair of Shadow Boots{bold}
+M 0  3617     1  3672    An angry spirit
+M 0  3618     1  3673    The walking dead
+E 1  3623     1     5    (BODY) {BOLD}{BLACK}A Death Shroud{bold}
+$~

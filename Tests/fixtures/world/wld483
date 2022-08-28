@@ -1,0 +1,431 @@
+#48300
+{BLA}A dark alley{bla}~
+
+
+   {BLA,BOL}You and your crew have just left your favorite hang out spot when
+   a fast moving vehicle screams past you.  A few of your people have
+   to jump back to avoid being road kill.  As soon as they are out of
+   sight you then turn your attention to the man on foot running after
+   the speeding car.  As he approaches closer you realize he isn't just
+   any man, but a sturdy looking police officer.  Before you have any
+   time to respond the officer has interrogated, tried and convicted you
+   of being in cahoots with the felons in the car that just nearly 
+   wiped your guts all over the pavement.  You tell yourself this can't
+   be happening, not again.  You and your crew have no choice but to
+   silence this cop.. forever.{bla}   
+
+
+~
+483 1 1
+X2097152
+Z6
+C-1
+R0
+S
+#48301
+{BLA,BOL}Cell 1{bla}~
+
+
+  {YEL}Yep, you really messed up this time.  It took 30 minutes for a jury 
+  of your peers to sentence you to The Chair.  Your surroundings are
+  depressing to say the least.  The walls are worn and etched with the
+  desperate ramblings of convited murderers that have long since passed.
+  The smells that waft all around you violate your nasal passages making
+  it almost unbearable to breathe.  Your only consolation is the fact   
+  that this won't last forever...{yel} {RED}because you intend to escape!{red}
+
+
+
+~
+483 4210824 1
+D1
+~
+hiddenholebehindtheposter~
+3 -1 48302
+D2
+~
+Irondoor~
+1 -1 48309
+Z6
+C-1
+R0
+S
+#48302
+{BLA,BOL}Cell 2{bla}~
+
+
+  {YEL}Yep, you really messed up this time.  It took 30 minutes for a jury 
+  of your peers to sentence you to The Chair.  Your surroundings are
+  depressing to say the least.  The walls are worn and etched with the
+  desperate ramblings of convited murderers that have long since passed.
+  The smells that waft all around you violate your nasal passages making
+  it almost unbearable to breathe.  Your only consolation is the fact   
+  that this won't last forever...{yel} {RED}because you intend to escape!{red}
+
+
+
+~
+483 4210825 1
+D1
+~
+hiddenholebehindtheposter~
+3 -1 48303
+D2
+~
+Irondoor~
+1 -1 48308
+D3
+~
+hiddenholebehindtheposter~
+3 -1 48301
+Z6
+C-1
+R0
+S
+#48303
+{BLA,BOL}Cell 3{bla}~
+
+
+  {YEL}Yep, you really messed up this time.  It took 30 minutes for a jury 
+  of your peers to sentence you to The Chair.  Your surroundings are
+  depressing to say the least.  The walls are worn and etched with the
+  desperate ramblings of convited murderers that have long since passed.
+  The smells that waft all around you violate your nasal passages making
+  it almost unbearable to breathe.  Your only consolation is the fact   
+  that this won't last forever...{yel} {RED}because you intend to escape!{red}
+
+
+
+~
+483 4210825 1
+D2
+~
+Irondoor~
+1 -1 48307
+D3
+~
+hiddenholebehindtheposter~
+3 -1 48302
+Z6
+C-1
+R0
+S
+#48304
+{BLA,BOL}Utility Closet{bla}~
+
+
+
+  {BLA,BOL}This utility closet looks like the perfect place to hide out.  From
+  the smell of the cell block you can tell it hasn't been cleaned in
+  months, possibly years.  From the looks of the rat droppings and the
+  mildew covered walls no one has utilized this small room in a long 
+  time.  Dry rotted mops hang on the walls along with a push broom 
+  covered in cobwebs.{bla}
+
+
+
+~
+483 8205 1
+D2
+~
+door~
+1 -1 48305
+Z6
+C3
+R0
+S
+#48305
+{BLA,BOL}Walking Down Death Row{bla}~
+
+  {BLA,BOL}The floor is faded and worn, more so in certain places.  There's a 
+  groove down the center showing just how many years people have walked
+  their last few steps down this row.  The smell in the air is a mixture 
+  of sweat, dust and hopelessness.  The feelings of dread standing here 
+  are almost too much to bare.  The steel bars of the human cages that
+  line the walls on both sides are reminiscent of the monkey bars at the
+  zoo.{bla}  
+
+
+~
+483 4194432 1
+D0
+~
+door~
+1 -1 48304
+D2
+~
+~
+0 -1 48318
+D3
+~
+~
+0 -1 48306
+Z0
+C-1
+R0
+S
+#48306
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+483 0 1
+D1
+~
+~
+0 -1 48305
+D2
+~
+~
+0 -1 48310
+D3
+~
+~
+0 -1 48307
+Z0
+C-1
+R0
+S
+#48307
+{BLA,BOL}Walking Down Death Row{bla}~
+You are standing in nowhere !!!!
+~
+483 9 1
+D0
+~
+Irondoor~
+1 -1 48303
+D1
+~
+~
+0 -1 48306
+D2
+~
+~
+0 -1 48311
+D3
+~
+~
+0 -1 48308
+Z-1
+C-1
+R0
+S
+#48308
+{BLA,BOL}Walking Down Death Row{bla}~
+You are standing in nowhere !!!!
+~
+483 9 1
+D0
+~
+Irondoor~
+1 -1 48302
+D1
+~
+~
+0 -1 48307
+D2
+~
+~
+0 -1 48312
+D3
+~
+~
+0 -1 48309
+Z3
+C-1
+R0
+S
+#48309
+{BLA,BOL}Walking Down Death Row{bla}~
+You are standing in nowhere !!!!
+~
+483 4194312 1
+D0
+~
+Irondoor~
+1 -1 48301
+D1
+~
+~
+0 -1 48308
+D2
+~
+~
+0 -1 48313
+D3
+~
+~
+0 -1 48314
+Z0
+C-1
+R0
+S
+#48310
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+483 262144 1
+D0
+~
+~
+0 -1 48306
+Z0
+C-1
+R0
+S
+#48311
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+483 262144 1
+D0
+~
+~
+0 -1 48307
+Z0
+C-1
+R0
+S
+#48312
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+483 262144 1
+D0
+~
+~
+0 -1 48308
+Z0
+C-1
+R0
+S
+#48313
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+483 262144 1
+D0
+~
+~
+0 -1 48309
+Z0
+C-1
+R0
+S
+#48314
+{BLA,BOL}Before The Big Iron Door{bla}~
+You are standing in nowhere !!!!
+~
+483 8 1
+D1
+~
+~
+0 -1 48309
+D2
+~
+Securitydoor~
+1 -1 48316
+D3
+~
+HeavyIronDoor~
+1 -1 48315
+Z0
+C-1
+R0
+S
+#48315
+{BLA,BOL}The Chair{bla}~
+You are standing in nowhere !!!!
+~
+483 10 1
+D1
+~
+HeavyIronDoor~
+1 -1 48314
+Z0
+C-1
+R0
+S
+#48316
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+483 0 1
+D0
+~
+Securitydoor~
+1 -1 48314
+D2
+~
+~
+0 -1 48317
+Z0
+C-1
+R0
+S
+#48317
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+483 262144 1
+D0
+~
+~
+0 -1 48316
+D4
+~
+~
+0 -1 48319
+Z0
+C-1
+R0
+S
+#48318
+{WHI}A Padded Room{whi}~
+You are standing in nowhere !!!!
+~
+483 4219016 1
+D0
+~
+~
+0 -1 48305
+Z0
+C-1
+R0
+S
+#48319
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+483 0 1
+D5
+~
+~
+0 -1 48317
+Z0
+C-1
+R0
+S
+#48399
+{WHI,BOL}The Meditation Room{whi}~
+
+   {WHI}This is my private personal confidential place. The walls are a soft
+   blue that seem to shimmer to violet randomly. A very aromatic scent 
+   of lilacs and strawberries lingers in the air and sends you into an 
+   instant calming trance. It's bright around you but it doesn't hurt your
+   eyes, infact you have a very serene positive feeling sitting here.
+   All around you are sitting mats scattered around the floor.{whi}
+
+
+~
+483 26888 1
+D3
+~
+~
+0 -1 48494
+T48494
+Z0
+C-1
+R0
+S
+$~

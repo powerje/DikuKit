@@ -1,0 +1,414 @@
+#2700
+Under a strange machine.~
+You are standing on a grassy field. Some birds are singing and a mellow wind
+is floating around you. As you try to look to the sky you discover a strange
+machine flying at a altitude of approximately 20 meters.
+You discover a metal ladder.
+~
+27 4 3
+D4
+~
+~
+0 -1 2701
+E
+ladder~
+A metal ladder is leading to a small hole in the machine.
+~
+E
+machine~
+You have never seen such a machine .... you cannot even imagine what this
+could be ?
+~
+Z3
+C-1
+R0
+S
+#2701
+On the ladder.~
+You are in the middle of a metal ladder. The ladder is wet and slippery. Do
+not stay here for long.
+~
+27 0 4
+D4
+~
+~
+0 -1 2702
+D5
+~
+~
+0 -1 2700
+Z3
+C-1
+R0
+S
+#2702
+The entrance of the strange machine.~
+You are at a hole of the strange machine. From inside you hear a faint humming
+sound from an engine running. You cannot even now explain why this machine is
+flying above the ground. As you take a quick look inside you see a small sign.
+~
+27 8 4
+D2
+~
+hatch outer~
+2 2701 2703
+D5
+~
+~
+0 -1 2701
+E
+sign~
+Information for time travellers: Do NOT interfere the problems of the
+civilisation you enter. Stay out of any trouble.
+
+..... you get an idea what machine this could be .....
+
+.......... A TIME MACHINE
+~
+Z3
+C-1
+R0
+S
+#2703
+The Hatch~
+You are in a metal chamber which looks like a hatch. It is used if the time
+machine enters deep space or more unfriendly worlds.
+You have an outer hatch to the outside and an inner hatch to the machine.
+~
+27 9 0
+D0
+~
+hatch outer~
+2 2701 2702
+D2
+~
+hatch inner~
+1 -1 2704
+Z3
+C-1
+R0
+S
+#2704
+The Outfit Room~
+This is the room where the time travellers can dress themselves.
+~
+27 8 0
+D0
+~
+hatch inner~
+1 -1 2703
+D1
+~
+door~
+1 -1 2705
+D3
+~
+~
+0 -1 2706
+Z3
+C-1
+R0
+S
+#2705
+The Store Room.~
+It's just an ordinary store-room.
+~
+27 65544 0
+D3
+~
+door~
+1 -1 2704
+Z3
+C-1
+R0
+S
+#2706
+A corridor~
+You are in a corridor in the time machine.
+To the north there is a glass door ..... to the west there seems to be a door
+to the control room. In the south there is ...... ohhhhhhhhhhh.....
+~
+27 9 0
+D1
+~
+~
+0 -1 2704
+D2
+~
+~
+0 -1 2708
+D3
+~
+door metal~
+2 2703 2709
+Z3
+C-1
+R0
+S
+#2708
+A hole in the time.~
+You are floating around in the maelstream. Time means now nothing to you ....
+You feel getting older and older.....
+A strang feeling, ehhh?
+~
+27 13 0
+D4
+~
+~
+0 -1 2706
+D5
+~
+~
+0 -1 2701
+Z3
+C-1
+R0
+S
+#2709
+The Control Room~
+You are in the control room of the time machine. There are a lot of controls
+for the time machine. To the south you see a floating TIME GATE. From here you
+can enter the Maelstream of time .................
+There is a INSTRUCTION SIGN here.
+~
+27 8 0
+D1
+~
+door metal~
+2 2703 2706
+D2
+~
+gate time~
+1 -1 2710
+E
+instruction sign~
+The instruction for time-travellers:
+
+There is a treasure room of the high gods imbedded in one Time area.
+To open it you need a 4 digit combination. The digits are know by the
+4 TIME AGENTS which are in the areas, you can reach trough the time
+gate.
+When you discover one agent, just SAY CODE or SAY DIGIT and he will
+tell you what he knows.
+~
+Z3
+C-1
+R0
+S
+#2710
+The TIME GATE~
+You are in the MAELSTREAM .... time means nothing to you  ........
+from here you can enter many different periods of time ....... but be careful,
+you have to find a time gate to LEAVE the scenario......
+~
+27 8 0
+D0
+~
+~
+0 -1 2301
+D1
+~
+~
+0 -1 2500
+D2
+~
+~
+0 -1 2720
+D3
+~
+~
+0 -1 5100
+Z3
+C-1
+R0
+S
+#2711
+The TIME GATE~
+You are in the MAELSTREAM .... time means nothing to you  ........
+from here you can enter many different periods of time ....... but be careful,
+you have to find a time gate to LEAVE the scenario......
+~
+27 8 0
+D0
+~
+~
+0 -1 2700
+D2
+~
+gate~
+2 2703 2709
+Z3
+C-1
+R0
+S
+#2720
+In an old Actec Pyramid~
+Odd.... you are standing in the middle of a large room which looks like from
+an old monumental film. You discover that the time gate is still here. As you
+look to the north you see a dim light falling trough an opening in a huge
+stone door. In the corner of the room there are large statues to prevent the
+keeper of this rooms from magic.
+~
+27 137 3
+D0
+~
+~
+0 -1 2721
+D4
+~
+~
+0 -1 2711
+Z3
+C-1
+R0
+S
+#2721
+An ancient throne hall.~
+You are standing in a ancient throne hall. The walls are covered with
+paintings and the floor is made from marvel stone. In the middle of the room
+you see the huge throne of the godness Krah'tnikja. You notice something on
+the throne.
+~
+27 9 1
+D2
+~
+~
+0 -1 2720
+D5
+~
+throne~
+2 2720 2722
+E
+throne~
+On the throne there is a sign which shows a rectangle with three points in it.
+..... maybe it's a magic lock ???
+~
+Z3
+C-1
+R0
+S
+#2722
+A small room under the throne.~
+The walls are covered with pictures of nasty ghosts and ghouls .......
+ ..... you feel very uncomfortable here. Up you see a ladder leading under the
+throne. To the west you discover an old stone door. It looks very odd.
+~
+27 9 1
+D3
+~
+door stone old~
+2 2721 2723
+D4
+~
+throne~
+2 2720 2721
+E
+stone door~
+You discover an old ancient sign over there. It shows a glowing ball.
+~
+Z3
+C-1
+R0
+S
+#2723
+A very, very odd room.~
+OOPPPS ....  where are you here. It looks like a high-tech room with walls
+made of a strange red metal. The floor is covered with dust. It must have been
+unused for a long time. You are in the southern part of the room. In the
+middle there is something like an energy barrier. In the northern part ....
+..... you see a HUUUUUUUUUGGGGGGGGGGEEEEEEEEEE treasure.
+On the right side there is the control for the barrier.
+~
+27 8 1
+D0
+~
+barrier~
+2 -1 2724
+D1
+~
+stone door~
+2 2720 2722
+E
+control~
+You see a keyboard in which you can ENTER the code for the barrier.
+Use ENTER <code> to enter the accesscode for the barrier.
+~
+E
+barrier~
+You cannot go through the energy barrier .... you have to desactivate it.
+~
+Z3
+C-1
+R0
+S
+#2724
+The treasure chamber.~
+OOPPPS ....  where are you here. It looks like a high-tech room with walls
+made of a strange red metal. The floor is covered with dust. It must have been
+unused for a long time. You are in the northern part of the room. In the
+middle there is something like an energy barrier. In the southern part there
+is the exit.
+~
+27 8 1
+D2
+~
+barrier~
+2 -1 2723
+Z3
+C-1
+R0
+S
+#2725
+A Hidden Cave~
+You are inside a damp and cold cave that seems to have strange.
+designs scribed upon the wall. You think you feel a prescene
+in the room and turn your head. Seeing nothing, you shrug and
+make your way out the exit, which is to the west.
+~
+27 1 0
+D3
+~
+~
+0 -1 5100
+Z0
+C-1
+R0
+S
+#2726
+The Transporter Room~
+It's like on the Enterprise.... only Scottie is missing... the circle
+with the transporter and the transporter panel. On that panel is a
+white button. To the north there leads a glass hatch to the corridor.
+~
+27 0 1
+D0
+~
+glass~
+1 -1 2501
+Z0
+C-1
+R0
+S
+#2727
+The Polar Star~
+You have entered the private chamber of Polaris. This is a room of great significance. You can see a powerful telescope pointing down towards the Universe(SNOOPING!). It is from here that Polaris commands the Universe. You feel you have come to end of your search in this galaxy...
+~
+27 0 1
+D0
+~
+~
+0 -1 2370
+Z0
+C-1
+R0
+S
+#2728
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+27 0 1
+Z0
+C-1
+R0
+S
+$~

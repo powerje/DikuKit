@@ -1,0 +1,301 @@
+#48001
+{BLA,BO}Ancient Courtyard{blink}~
+ {BLACK,BO}
+    Piles of stone that have fallen off the wall are
+    scattereed about the edges of the courtyard.  The 
+    ramparts look as if they are about to collapse, as
+    do the towers.  The whole castle is in awful
+    condition, except for the gatehouse...
+ {blink}
+~
+480 0 1
+D0
+~
+~
+0 -1 48002
+D3
+~
+~
+0 -1 17196
+Z0
+C-1
+S
+#48002
+{BLA,BO}Ancient Courtyard{blink}~
+ {BLACK,BO}
+    Piles of stone that have fallen off the wall are
+    scattereed about the edges of the courtyard.  The 
+    ramparts look as if they are about to collapse, as
+    do the towers.  The whole castle is in awful
+    condition, except for the gatehouse...
+ {blink}
+~
+480 0 1
+D0
+~
+~
+0 -1 48003
+D2
+~
+~
+0 -1 48001
+D3
+~
+~
+0 -1 17197
+Z0
+C-1
+S
+#48003
+{BLA,BO}Ancient Courtyard{blink}~
+ {BLACK,BO}
+    Piles of stone that have fallen off the wall are
+    scattereed about the edges of the courtyard.  The 
+    ramparts look as if they are about to collapse, as
+    do the towers.  The whole castle is in awful
+    condition, except for the gatehouse...
+ {blink}
+~
+480 0 1
+D2
+~
+~
+0 -1 48002
+D3
+~
+~
+0 -1 48004
+Z0
+C-1
+S
+#48004
+{BLA,BO}Ancient Courtyard{blink}~
+ {BLACK,BO}
+    Piles of stone that have fallen off the wall are
+    scattereed about the edges of the courtyard.  The 
+    ramparts look as if they are about to collapse, as
+    do the towers.  The whole castle is in awful
+    condition, except for the gatehouse...
+ {blink}
+~
+480 0 1
+D1
+~
+~
+0 -1 48003
+D2
+~
+~
+0 -1 17197
+D3
+~
+~
+0 -1 48005
+Z0
+C-1
+S
+#48005
+{BLA,BO}Ancient Courtyard{blink}~
+ {BLACK,BO}
+    Piles of stone that have fallen off the wall are
+    scattereed about the edges of the courtyard.  The 
+    ramparts look as if they are about to collapse, as
+    do the towers.  The whole castle is in awful
+    condition, except for the gatehouse...
+ {blink}
+~
+480 0 1
+D0
+~
+~
+0 -1 48006
+D1
+~
+~
+0 -1 48004
+D2
+~
+~
+0 -1 17199
+Z0
+C-1
+S
+#48006
+{BLA,BO}Stairs to the Ramparts{blink}~
+ {BLACK,BO}
+    A set of ancient, crumbling stairs leads up
+    to the ramparts of the wall.  The steps
+    are cracked and worn, and look as if they could
+    collapse at any moment...
+ {blink}
+~
+480 0 1
+D2
+~
+~
+0 -1 48005
+D4
+~
+~
+0 -1 48007
+Z3
+C-1
+S
+#48007
+{BLA,BO}Dangerous Stairway{blink}~
+{BLA,BO}
+   The higher you go on the steps, the more the stones seem loose, and a bigger sense of
+   fear grows in you.  The top is in sight now, there is only a few steps to go...
+{bli}
+~
+480 0 1
+D4
+~
+~
+0 -1 48008
+D5
+~
+~
+0 -1 48006
+Z0
+C-1
+S
+#48008
+{BLACK,BO}The Ramparts{blink}~
+ {BLACK,BO}
+    You finally reach the top, only to find
+    that fallen stones an mortar block
+    your path.  Looks like you'll have to climb over,
+    or find another way.
+ {blink}
+~
+480 0 1
+D2
+~
+~
+0 -1 48009
+D5
+~
+~
+0 -1 48007
+Z3
+C-1
+S
+#48009
+{BLACK,BO}The Ramparts{blink}~
+{BLAC,BO}
+   You trudge your way along, only finding more rubble.  You see the 
+   gatehouse not far up ahead.
+{blin}
+~
+480 0 1
+D0
+~
+~
+0 -1 48008
+D2
+~
+~
+0 -1 48010
+Z3
+C-1
+S
+#48010
+{BLACK,BO}The Ramparts{blink}~
+{BLAC,BO}
+   You trudge your way along, only finding more rubble.  You see the 
+   gatehouse not far up ahead.
+{blin}
+~
+480 0 1
+D0
+~
+~
+0 -1 48009
+D1
+~
+~
+0 -1 48011
+Z3
+C-1
+S
+#48011
+{BLA,BO}Approaching the Gatehouse{blink}~
+{BLA,BO}
+   The gatehouse is in sight, the old wooden door hangs on one hinge and looks 
+   as if its about to fall.  A soft grey aura pulsates from behind the door, and 
+   eery moan around you.....
+{blin}
+~
+480 0 1
+D1
+And old wooden door hangs here
+~
+door~
+1 17117 48012
+D3
+~
+~
+0 -1 48010
+E
+door~
+~
+Z3
+C-1
+S
+#48012
+{BLA,BO}Inside the Gatehouse{blin}~
+{BLA,BO}
+   Inside the gatehouse, the air is fresh, not moldy and old as it is outside. 
+   Somehow you traveled back through time to when the Ghosts-yet-to-be were defending 
+   Bel-azar from the Nadir, and Tenaka Khan.  Four heroes, Chareos, Magrigg, Finn, 
+   and Beltzer have taken refuge here.  Careful not to let them mistake you for
+   a Nadir.
+{blin}
+~
+480 0 1
+D3
+~
+door~
+1 -1 48011
+Z3
+C-1
+S
+#48013
+{BLAC,BO}Plains of Death{blink}~
+{BLA,BO}
+   Darkness.  All you see is darkness.  The darkness is getting inside you.
+   Emptying your soul.  You wonder if this is what it is like to be dead.  
+   You feel a dangerous presence about, a malicious, malevolent presence.
+{blin}
+~
+480 4210688 1
+D4
+{CYAN,BO}
+    Bright blue heavens finally open for you.
+ {blink}
+~
+Eternity~
+2 17122 48014
+T2011
+X268435462
+Z3
+C-1
+S
+#48014
+{WHITE}Peace{blink}~
+ 
+    {WHITE}After finally defeating Tenaka, you have reached the end
+    of the quest.  You now realize that you are the hero that
+    this whole journey was about finding.  Be well adventurer.
+ {blink}
+~
+480 0 1
+D5
+~
+Eternity~
+1 -1 48013
+Z3
+C-1
+S
+$~

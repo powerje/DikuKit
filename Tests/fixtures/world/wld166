@@ -1,0 +1,2288 @@
+#16600
+{BOLD,BLUE}The Kellshire Road{bold,blue}~
+     
+     The road here shows little sign of use.  The undergrowth of
+     the surrounding forest has slowly made its way to the road
+     as if attempting to cover it completely.
+     
+~
+166 1 3
+D1
+~
+~
+0 -1 6104
+D3
+~
+~
+0 -1 16601
+X40
+Z-1
+C-1
+S
+#16601
+{BOLD,BLUE}The Kellshire Road{bold,blue}~
+
+     The road here shows little sign of use.  The undergrowth of
+     the surrounding forest has slowly made its way to the road
+     as if attempting to cover it completely.
+      
+~
+166 1 3
+D1
+~
+~
+0 -1 16600
+D3
+~
+~
+0 -1 16602
+X40
+Z-1
+C-1
+S
+#16602
+{BOLD,BLUE}The Kellshire Road{bold,blue}~
+
+     The road here shows little sign of use.  The undergrowth of
+     the surrounding forest has slowly made its way to the road
+     as if attempting to cover it completely.
+     
+~
+166 1 3
+D0
+~
+~
+0 -1 16603
+D1
+~
+~
+0 -1 16601
+D3
+~
+~
+0 -1 16604
+X40
+Z-1
+C-1
+S
+#16603
+{W}Snake's Nest{w}~
+     
+     The walls of this small alcove are all adorned
+     with dozens of red circles. Each circle is
+     surrounded by a different snake-like squiggle
+     symbol. You turn to leave the alcove only to
+     realize you aren't alone. 
+     
+~
+166 0 1
+D2
+~
+~
+0 -1 16602
+Z-1
+C-1
+S
+#16604
+{BOLD,BLUE}The Kellshire Road{bold,blue}~
+     
+     The road here shows little sign of use.  The undergrowth of
+     the surrounding forest has slowly made its way to the road
+     as if attempting to cover it completely.
+     
+~
+166 1 3
+D1
+~
+~
+0 -1 16602
+D3
+~
+~
+0 -1 16605
+X40
+Z-1
+C-1
+S
+#16605
+{BOLD,BLUE}The Kellshire Road{bold,blue}~
+     
+     The road here shows little sign of use.  The undergrowth of
+     the surrounding forest has slowly made its way to the road
+     as if attempting to cover it completely.
+     
+~
+166 5 3
+D0
+~
+Thicket~
+2 16603 16610
+D1
+~
+~
+0 -1 16604
+D3
+~
+~
+0 -1 16606
+X40
+Z-1
+C-1
+S
+#16606
+{BOLD,BLUE}The Kellshire Road{bold,blue}~
+
+     The road here shows little sign of use.  The undergrowth of
+     the surrounding forest has slowly made its way to the road
+     as if attempting to cover it completely.
+     
+~
+166 1 3
+D1
+~
+~
+0 -1 16605
+D3
+~
+~
+0 -1 16609
+X40
+Z-1
+C-1
+S
+#16607
+{BOLD,BLUE}The Kellshire Road{bold,blue}~
+     
+     The road here shows little sign of use.  The undergrowth of
+     the surrounding forest has slowly made its way to the road
+     as if attempting to cover it completely.
+     
+~
+166 0 3
+D1
+~
+~
+0 -1 16605
+X40
+Z-1
+C-1
+S
+#16608
+{BOLD,BLUE}The Kellshire Road{bold,blue}~
+     
+     The road here shows little sign of use.  The undergrowth of
+     the surrounding forest has slowly made its way to the road
+     as if attempting to cover it completely.
+     
+~
+166 0 3
+D2
+~
+~
+0 -1 16605
+X40
+Z-1
+C-1
+S
+#16609
+{BOLD,BLUE}The Kellshire Road{bold,blue}~
+     
+     The road here shows little sign of use.  The undergrowth of
+     the surrounding forest has slowly made its way to the road
+     as if attempting to cover it completely.
+     
+~
+166 33554432 3
+D1
+~
+~
+0 -1 16606
+D3
+~
+stump~
+2 16611 16659
+X40
+Z-1
+C-1
+S
+#16610
+{R}A Path into The Mountains{r}~
+     
+     As you begin the climb into the mountains, you hear a strange
+     rumble begin. You wonder if it is thunder, or if you should
+     be afraid.
+     
+~
+166 0 5
+D0
+~
+~
+0 -1 16619
+D2
+~
+Thicket~
+1 -1 16605
+Z-1
+C-1
+S
+#16611
+{R}A Path into The Mountains{r}~
+     
+     As you begin the climb into the mountains, you hear a strange
+     rumble begin. You wonder if it is thunder, or if you should
+     be afraid.
+     
+~
+166 0 5
+D4
+~
+~
+0 -1 16612
+D5
+~
+~
+0 -1 16619
+Z-1
+C-1
+S
+#16612
+{R}A Path into The Mountains{r}~
+     
+     As you ascend further up the mountain you 
+     realize that the rumbling you heard earlier is 
+     much closer. You also realize it isn't thunder.
+     
+~
+166 0 5
+D4
+~
+~
+0 -1 16613
+D5
+~
+~
+0 -1 16611
+Z-1
+C-1
+S
+#16613
+{R}The Top of The Mountain{r}~
+                                              
+     Finally! You've finally gotten to the top. 
+     Someone's house is here, and they don't seem 
+     to take too well to uninvited guests.  Oh well, 
+     looks like you are going to have to adjust 
+     their attitude.
+     
+~
+166 4 5
+D3
+~
+~
+0 -1 16614
+D5
+~
+~
+0 -1 16612
+Z-1
+C-1
+S
+#16614
+{Y}The Trail Through The Forest{y}~
+                                                  
+     Traveling through the forest you begin to 
+     wonder if it is night or day. The canopy of
+     trees is so thick, you can't tell the difference.
+     Something seems out of place...
+     You can't hear the birds singing anymore.
+     
+~
+166 32 3
+D1
+~
+~
+0 -1 16613
+D3
+~
+~
+0 -1 16615
+Z-1
+C-1
+S
+#16615
+{Y}The Trail Through The Forest{y}~
+     
+     Traveling through the forest you begin to 
+     wonder if it is night or day. The canopy of
+     trees is so thick you can't tell the difference.
+     Something is also out of the normal...
+     You can't hear the birds singing anymore.
+     
+~
+166 32 3
+D0
+~
+~
+0 -1 16620
+D1
+~
+~
+0 -1 16614
+D3
+~
+~
+0 -1 16616
+Z-1
+C-1
+S
+#16616
+{Y}The Trail Through The Forest{y}~
+     
+     Traveling through the forest you begin to 
+     wonder if it is night or day. The canopy of
+     trees is so thick you can't tell the difference.
+     Something is also out of the normal...
+     You can't hear the birds singing anymore.
+     
+~
+166 32 3
+D1
+~
+~
+0 -1 16615
+D3
+~
+~
+0 -1 16617
+Z-1
+C-1
+S
+#16617
+{Y}The Trail Through The Forest{y}~
+     
+     Traveling through the forest you begin to 
+     wonder if it is night or day. The canopy of
+     trees is so thick you can't tell the difference.
+     Something is also out of the normal...
+     You can't hear the birds singing anymore.
+     
+~
+166 32 3
+D1
+~
+~
+0 -1 16616
+D2
+~
+~
+0 -1 16618
+D3
+~
+~
+0 -1 16615
+Z3
+C-1
+S
+#16618
+{R}An Unsure Ledge{r}~
+                       
+     Just as you step onto this platform, you get an uneasy 
+     feeling. As you begin to plummet some 1000 feet to the
+     ground below, you realize stepping onto this platform was
+     a big mistake.
+     
+~
+166 2 5
+D0
+~
+~
+0 -1 16617
+Z-1
+C-1
+S
+#16619
+{R}A Path into The Mountains{r}~
+     
+     As you begin the climb into the mountains, you hear a strange
+     rumble begin. You wonder if it is thunder, or if you should
+     be afraid.
+     
+~
+166 0 5
+D2
+~
+~
+0 -1 16610
+D4
+~
+~
+0 -1 16611
+Z-1
+C-1
+S
+#16620
+{BO,R}The Cavern's Entrance{bo,r}~
+     
+     This chamber is completely dark, but you can sense it is 
+     a fairly large chamber. Somewhere in the room you can hear
+     a large creature of some sort growling as though it is
+     hungry. Guess who the main course is?
+     
+~
+166 32769 1
+D0
+~
+~
+0 -1 16621
+D2
+~
+~
+0 -1 16615
+Z-1
+C-1
+S
+#16621
+{BO,CY}An Intersection{bo,cy}~
+     
+     This room is dark, with little if any signs
+     of recent traffic. The surface of a pool 
+     glimmers in a recess along the west wall.
+     There is a smoky haze in the room, a faint
+     disagreeable odor, and an odd tingling on 
+     your tongue.
+     
+~
+166 72 1
+D0
+~
+~
+0 -1 16633
+D1
+~
+~
+0 -1 16628
+D2
+~
+~
+0 -1 16620
+D3
+~
+~
+0 -1 16622
+Z-1
+C-1
+S
+#16622
+{BO,W} Inside The Caves {bo,w}~
+     
+     This room is dark, with little if any signs
+     of recent traffic. The surface of a pool 
+     glimmers in a recess along the west wall.
+     There is a smoky haze in the room, a faint
+     disagreeable odor, and an odd tingling on 
+     your tongue.
+     
+~
+166 72 1
+D1
+~
+~
+0 -1 16621
+D3
+~
+~
+0 -1 16623
+Z-1
+C-1
+S
+#16623
+{BO,W} Inside The Caves {bo,w}~
+     
+     This room is dark, with little if any signs
+     of recent traffic. The surface of a pool 
+     glimmers in a recess along the west wall.
+     There is a smoky haze in the room, a faint
+     disagreeable odor, and an odd tingling on 
+     your tongue.
+     
+~
+166 72 1
+D0
+~
+~
+0 -1 16624
+D1
+~
+~
+0 -1 16622
+D2
+~
+~
+0 -1 16626
+Z-1
+C-1
+S
+#16624
+{BO,W} Inside The Caves {bo,w}~
+     
+     This room is dark, with little if any signs
+     of recent traffic. The surface of a pool 
+     glimmers in a recess along the west wall.
+     There is a smoky haze in the room, a faint
+     disagreeable odor, and an odd tingling on 
+     your tongue.
+     
+~
+166 72 1
+D1
+~
+~
+0 -1 16625
+D2
+~
+~
+0 -1 16623
+Z-1
+C-1
+S
+#16625
+{BO,W} Inside The Caves {bo,w}~
+     
+     This room is dark, with little if any signs
+     of recent traffic. The surface of a pool 
+     glimmers in a recess along the west wall.
+     There is a smoky haze in the room, a faint
+     disagreeable odor, and an odd tingling on 
+     your tongue.
+     
+~
+166 72 1
+D3
+~
+~
+0 -1 16624
+Z-1
+C-1
+S
+#16626
+{BO,W} Inside The Caves {bo,w}~
+     
+     This room is dark, with little if any signs
+     of recent traffic. The surface of a pool 
+     glimmers in a recess along the west wall.
+     There is a smoky haze in the room, a faint
+     disagreeable odor, and an odd tingling on 
+     your tongue.
+     
+~
+166 72 1
+D0
+~
+~
+0 -1 16623
+D1
+~
+~
+0 -1 16627
+Z-1
+C-1
+S
+#16627
+{Y}Mort{R}'{Y}s {W}Quarters{w}~
+
+     Unlike the rest of the caverns, this chamber seems to be used
+     quite often.. As a matter of fact it appears someone has 
+     made it their living quarters. He doesn't appear to enjoy 
+     company either.
+     
+~
+166 72 1
+D3
+~
+~
+0 -1 16626
+Z-1
+C-1
+S
+#16628
+{BO,W} Inside The Caves {bo,w}~
+
+     This room is dark, with little if any signs
+     of recent traffic. The surface of a pool 
+     glimmers in a recess along the west wall.
+     There is a smoky haze in the room, a faint
+     disagreeable odor, and an odd tingling on 
+     your tongue.
+
+~
+166 72 1
+D0
+~
+~
+0 -1 16630
+D1
+~
+~
+0 -1 16629
+D3
+~
+~
+0 -1 16621
+Z-1
+C-1
+S
+#16629
+{BO,W} Inside The Caves {bo,w}~
+     
+     This room is dark, with little if any signs
+     of recent traffic. The surface of a pool 
+     glimmers in a recess along the west wall.
+     There is a smoky haze in the room, a faint
+     disagreeable odor, and an odd tingling on 
+     your tongue.
+     
+~
+166 72 1
+D2
+~
+~
+0 -1 16631
+D3
+~
+~
+0 -1 16628
+Z-1
+C-1
+S
+#16630
+{BO,Y}The Harpy's Lair{bo,y}~
+                    
+     A stinking mound of straw covered with untanned and 
+     raw animal skins in the corner of this room
+     appears to be something's bed. The stench is
+     overwhelming. As you bring yourself together, you see 
+     something on the mound....GOD is she UGLY!
+     
+~
+166 72 1
+D2
+~
+~
+0 -1 16628
+Z-1
+C-1
+S
+#16631
+{BO,W} Inside The Caves {bo,w}~
+     
+     This room is dark, with little if any signs
+     of recent traffic. The surface of a pool 
+     glimmers in a recess along the west wall.
+     There is a smoky haze in the room, a faint
+     disagreeable odor, and an odd tingling on 
+     your tongue.
+     
+~
+166 72 1
+D0
+~
+~
+0 -1 16629
+D3
+~
+~
+0 -1 16632
+Z3
+C-1
+S
+#16632
+{BO,W} Inside The Caves {bo,w}~
+     
+     This room is dark, with little if any signs
+     of recent traffic. The surface of a pool 
+     glimmers in a recess along the west wall.
+     There is a smoky haze in the room, a faint
+     disagreeable odor, and an odd tingling on 
+     your tongue.
+     
+~
+166 72 1
+D1
+~
+~
+0 -1 16631
+Z-1
+C-1
+S
+#16633
+{BO,W} Inside The Caves {bo,w}~
+    
+     This room is dark, with little if any signs
+     of recent traffic. The surface of a pool 
+     glimmers in a recess along the west wall.
+     There is a smoky haze in the room, a faint
+     disagreeable odor, and an odd tingling on 
+     your tongue.
+     
+~
+166 72 1
+D0
+~
+~
+0 -1 16634
+D2
+~
+~
+0 -1 16621
+Z-1
+C-1
+S
+#16634
+{BO,W} Inside The Caves {bo,w}~
+    
+     This room is dark, with little if any signs
+     of recent traffic. The surface of a pool 
+     glimmers in a recess along the west wall.
+     There is a smoky haze in the room, a faint
+     disagreeable odor, and an odd tingling on 
+     your tongue.
+     
+~
+166 72 1
+D0
+~
+~
+0 -1 16635
+D2
+~
+~
+0 -1 16633
+Z-1
+C-1
+S
+#16635
+{BO,W} Inside The Caves {bo,w}~
+     
+     This room is dark, with little if any signs
+     of recent traffic. The surface of a pool 
+     glimmers in a recess along the west wall.
+     There is a smoky haze in the room, a faint
+     disagreeable odor, and an odd tingling on 
+     your tongue.
+     
+~
+166 72 1
+D0
+~
+~
+0 -1 16636
+D2
+~
+~
+0 -1 16634
+Z-1
+C-1
+S
+#16636
+{BO,Y} A Slope In The Passage{bo,y}~
+     
+     This part of the passage slopes rather 
+     violently. Luckily you managed to keep 
+     your footing. Ahead, all that can be seen
+     is darkness.
+      
+~
+166 0 4
+D1
+~
+~
+0 -1 16637
+D2
+~
+~
+0 -1 16635
+Z-1
+C-1
+S
+#16637
+{BO,W} Inside The Caves {bo,w}~
+
+     This room is dark, with little if any signs
+     of recent traffic. The surface of a pool 
+     glimmers in a recess along the west wall.
+     There is a smoky haze in the room, a faint
+     disagreeable odor, and an odd tingling on 
+     your tongue.
+     
+~
+166 72 1
+D2
+~
+~
+0 -1 16638
+D3
+~
+~
+0 -1 16636
+Z-1
+C-1
+S
+#16638
+{BO,W} Inside The Caves {bo,w}~
+
+     This room is dark, with little if any signs
+     of recent traffic. The surface of a pool 
+     glimmers in a recess along the west wall.
+     There is a smoky haze in the room, a faint
+     disagreeable odor, and an odd tingling on 
+     your tongue.
+     
+~
+166 72 1
+D0
+~
+~
+0 -1 16637
+D2
+~
+~
+0 -1 16639
+Z-1
+C-1
+S
+#16639
+{BO,W} Inside The Caves {bo,w}~
+                    
+     This room is dark, with little if any signs
+     of recent traffic. The surface of a pool
+     glimmers in a recess along the west wall.
+     There is a smoky haze in the room, a faint
+     disagreeable odor, and an odd tingling 
+     sensation on your tongue. Something catches 
+     your attention from behind the animal skin,
+     hanging on the east wall.
+     
+~
+166 72 1
+D0
+~
+~
+0 -1 16638
+D1
+~
+skin~
+1 -1 16641
+D2
+~
+~
+0 -1 16640
+Z-1
+C-1
+S
+#16640
+{BO,R}A Murky Pool{bo,r}~
+       
+     As soon as you enter the waist-deep
+     water in this room, you feel something grab
+     your legs from below!!!! You are suddenly 
+     dragged beneath the water's surface. As you 
+     look upward, the light begins to get dimmer 
+     and dimmer until...DARKNESS
+     
+~
+166 2 1
+D0
+~
+~
+0 -1 16639
+Z-1
+C-1
+S
+#16641
+{BO,W} Inside The Caves {bo,w}~
+
+     This room is dark, with little if any signs
+     of recent traffic. The surface of a pool 
+     glimmers in a recess along the west wall.
+     There is a smoky haze in the room, a faint
+     disagreeable odor, and an odd tingling on 
+     your tongue.
+     
+~
+166 72 1
+D1
+~
+~
+0 -1 16642
+D3
+~
+skin~
+1 -1 16639
+Z-1
+C-1
+S
+#16642
+{BO,R}Inside The Lair{bo,r}~
+     
+     This room is dimly lit by luminous objects
+     fastened to the walls around the room at
+     shoulder height. Along the northern walls 
+     of this large chamber are heaps of rotting
+     vegetation. Hanging on the walls are dried 
+     husks of giant beetles and centipedes.
+     
+~
+166 0 1
+D1
+~
+~
+0 -1 16643
+D3
+~
+~
+0 -1 16641
+Z-1
+C-1
+S
+#16643
+{BO,R}Inside The Lair{bo,r}~
+     
+     This room is dimly lit by luminous objects
+     fastened to the walls around the room at
+     shoulder height. Along the northern walls 
+     of this large chamber are heaps of rotting
+     vegetation. Hanging on the walls are dried 
+     husks of giant beetles and centipedes.
+     
+~
+166 0 1
+D1
+~
+~
+0 -1 16648
+D2
+~
+~
+0 -1 16644
+D3
+~
+~
+0 -1 16642
+Z-1
+C-1
+S
+#16644
+{BO,R}Inside The Lair{bo,r}~
+     
+     This room is dimly lit by luminous objects
+     fastened to the walls around the room at
+     shoulder height. Along the northern walls 
+     of this large chamber are heaps of rotting
+     vegetation. Hanging on the walls are dried 
+     husks of giant beetles and centipedes.
+     
+~
+166 0 1
+D0
+~
+~
+0 -1 16643
+D2
+~
+~
+0 -1 16645
+Z-1
+C-1
+S
+#16645
+{BO,R}Inside The Lair{bo,r}~
+     
+     This room is dimly lit by luminous objects
+     fastened to the walls around the room at
+     shoulder height. Along the northern walls 
+     of this large chamber are heaps of rotting
+     vegetation. Hanging on the walls are dried 
+     husks of giant beetles and centipedes.
+     
+~
+166 0 1
+D0
+~
+~
+0 -1 16644
+D3
+~
+~
+0 -1 16646
+Z-1
+C-1
+S
+#16646
+{BO,R}Inside The Lair{bo,r}~
+     
+     This room is dimly lit by luminous objects
+     fastened to the walls around the room at
+     shoulder height. Along the northern walls 
+     of this large chamber are heaps of rotting
+     vegetation. Hanging on the walls are dried 
+     husks of giant beetles and centipedes.
+     
+~
+166 0 1
+D0
+~
+skin~
+1 -1 16647
+D1
+~
+~
+0 -1 16645
+Z-1
+C-1
+S
+#16647
+{BO,BLU}The Priest's Chambers{bo,blu}~
+    
+     A strange, bright orange lizardman is hunched over, peering
+     into a beetle carapace and stirring some smoking compounds 
+     with a claw. He turns at your approach, grabs a staff from
+     the floor, and attacks!!!!!
+     
+~
+166 0 1
+D2
+~
+skin~
+1 -1 16646
+Z-1
+C-1
+S
+#16648
+{BO,R}Inside The Lair{bo,r}~
+     
+     This room is dimly lit by luminous objects
+     fastened to the walls around the room at
+     shoulder height. Along the northern walls 
+     of this large chamber are heaps of rotting
+     vegetation. Hanging on the walls are dried 
+     husks of giant beetles and centipedes.
+     
+~
+166 0 1
+D0
+~
+JadeDoor~
+2 16612 16651
+D2
+~
+~
+0 -1 16649
+D3
+~
+~
+0 -1 16643
+Z-1
+C-1
+S
+#16649
+{BO,R}Inside The Lair{bo,r}~
+     
+     This room is dimly lit by luminous objects
+     fastened to the walls around the room at
+     shoulder height. Along the northern walls 
+     of this large chamber are heaps of rotting
+     vegetation. Hanging on the walls are dried 
+     husks of giant beetles and centipedes.
+     
+~
+166 0 1
+D0
+~
+~
+0 -1 16648
+D2
+~
+~
+0 -1 16650
+Z-1
+C-1
+S
+#16650
+{BO,R}Inside The Lair{bo,r}~
+     
+     This room is dimly lit by luminous objects
+     fastened to the walls around the room at
+     shoulder height. Along the northern walls 
+     of this large chamber are heaps of rotting
+     vegetation. Hanging on the walls are dried 
+     husks of giant beetles and centipedes.
+     
+~
+166 0 1
+D0
+~
+~
+0 -1 16649
+Z-1
+C-1
+S
+#16651
+{BO,R}Inside The Lair{bo,r}~
+     
+     This room is dimly lit by luminous objects
+     fastened to the walls around the room at
+     shoulder height. Along the northern walls 
+     of this large chamber are heaps of rotting
+     vegetation. Hanging on the walls are dried 
+     husks of giant beetles and centipedes.
+     
+~
+166 0 1
+D1
+~
+~
+0 -1 16652
+Z-1
+C-1
+S
+#16652
+{Y}A {BL}Dark {R}pool{r}~
+
+  This room is dimly lit by small ceramic jars on the walls
+  at short intervals. The room has been flooded to the point 
+  of the water being about four feet deep.
+  
+  You suddenly feel something rather large and slimy rub 
+  against your legs as though trying to grab you.
+  
+~
+166 0 1
+D1
+~
+~
+0 -1 16653
+D2
+~
+~
+0 -1 16654
+D3
+~
+~
+0 -1 16651
+Z3
+C-1
+S
+#16653
+{RED,BO} Deeper Into The Lair{red,bo}~
+     
+     This room is dimly lit by luminous objects
+     fastened to the walls around the room at
+     shoulder height. Along the northern walls 
+     of this large chamber are heaps of rotting
+     vegetation. Hanging on the walls are dried 
+     husks of giant bettles and centipedes.
+     
+~
+166 0 1
+D2
+~
+~
+0 -1 16655
+D3
+~
+~
+0 -1 16652
+Z-1
+C-1
+S
+#16654
+{RED,BO} Deeper Into The Lair{red,bo}~
+     
+     This room is dimly lit by luminous objects
+     fastened to the walls around the room at
+     shoulder height. Along the northern walls 
+     of this large chamber are heaps of rotting
+     vegetation. Hanging on the walls are dried 
+     husks of giant bettles and centipedes.
+     
+~
+166 0 1
+D0
+~
+~
+0 -1 16652
+D1
+~
+~
+0 -1 16655
+Z3
+C-1
+S
+#16655
+{RED,BO} Deeper Into The Lair{red,bo}~
+     
+     This room is dimly lit by luminous objects
+     fastened to the walls around the room at
+     shoulder height. Along the northern walls 
+     of this large chamber are heaps of rotting
+     vegetation. Hanging on the walls are dried 
+     husks of giant bettles and centipedes.
+     
+~
+166 0 1
+D0
+~
+~
+0 -1 16653
+D2
+~
+~
+0 -1 16656
+D3
+~
+~
+0 -1 16654
+Z-1
+C-1
+S
+#16656
+{RED,BO} Deeper Into The Lair{red,bo}~
+     
+     This room is dimly lit by luminous objects
+     fastened to the walls around the room at
+     shoulder height. Along the northern walls 
+     of this large chamber are heaps of rotting
+     vegetation. Hanging on the walls are dried 
+     husks of giant bettles and centipedes.
+     
+~
+166 0 1
+D0
+~
+~
+0 -1 16655
+D2
+~
+~
+0 -1 16658
+D3
+~
+~
+0 -1 16657
+Z-1
+C-1
+S
+#16657
+{BO,R}A Murky Pool{bo,r}~
+       
+     As soon as you enter the waist-deep
+     water in this room, you feel something grab
+     your legs from below!!!! You are suddenly 
+     dragged beneath the water's surface. As you 
+     look upward, the light begins to get dimmer 
+     and dimmer until...DARKNESS
+     
+~
+166 2 1
+D1
+~
+~
+0 -1 16656
+Z-1
+C-1
+S
+#16658
+{BO,G} The Dragon's Lair{bo,g}~
+    
+     At the southern end of the room is a great and ghastly 
+     sight: the largest dragon you have ever seen!! It stares 
+     at you with great intensity. Apparently it is willing to 
+     die to protect its treasure. It rears up showing its immense 
+     size, then rushes forward to defend its wealth to the death.
+     
+~
+166 0 1
+D0
+~
+~
+0 -1 16656
+Z-1
+C-1
+S
+#16659
+{BO,BL}The Murky Swamp{bo,bl}~
+                           
+     This cavern is dark as pitch, the only light in the room 
+     is that which is your own reflecting off of the black 
+     water that fills the area. Ripples from your disturbance
+     of the water causes gentle slapping sounds on the other 
+     side in the darkness.
+        
+~
+166 33857 1
+D0
+~
+~
+0 -1 16660
+D1
+~
+stump~
+1 -1 16609
+D2
+~
+~
+0 -1 16664
+D3
+~
+~
+0 -1 16662
+Z-1
+C-1
+S
+#16660
+{BO,BL}The Murky Swamp{bo,bl}~
+                           
+     This cavern is dark as pitch, the only light in the room 
+     is that which is your own reflecting off of the black 
+     water that fills the area. Ripples from your disturbance
+     of the water causes gentle slapping sounds on the other 
+     side in the darkness.
+        
+~
+166 33857 1
+D0
+~
+~
+0 -1 16665
+D1
+~
+~
+0 -1 16660
+D2
+~
+~
+0 -1 16659
+D3
+~
+~
+0 -1 16661
+Z-1
+C-1
+S
+#16661
+{BO,BL}The Murky Swamp{bo,bl}~
+                           
+     This cavern is dark as pitch, the only light in the room 
+     is that which is your own reflecting off of the black 
+     water that fills the area. Ripples from your disturbance
+     of the water causes gentle slapping sounds on the other 
+     side in the darkness.
+        
+~
+166 33857 1
+D0
+~
+~
+0 -1 16666
+D1
+~
+~
+0 -1 16660
+D2
+~
+~
+0 -1 16662
+D3
+~
+~
+0 -1 16670
+Z3
+C-1
+S
+#16662
+{BO,BL}The Murky Swamp{bo,bl}~
+                           
+     This cavern is dark as pitch, the only light in the room 
+     is that which is your own reflecting off of the black 
+     water that fills the area. Ripples from your disturbance
+     of the water causes gentle slapping sounds on the other 
+     side in the darkness.
+        
+~
+166 33857 1
+D0
+~
+~
+0 -1 16661
+D1
+~
+~
+0 -1 16659
+D2
+~
+~
+0 -1 16663
+D3
+~
+~
+0 -1 16669
+Z-1
+C-1
+S
+#16663
+{BO,BL}The Murky Swamp{bo,bl}~
+                           
+     This cavern is dark as pitch, the only light in the room 
+     is that which is your own reflecting off of the black 
+     water that fills the area. Ripples from your disturbance
+     of the water causes gentle slapping sounds on the other 
+     side in the darkness.
+        
+~
+166 33857 1
+D0
+~
+~
+0 -1 16662
+D1
+~
+~
+0 -1 16664
+D2
+~
+~
+0 -1 16666
+D3
+~
+~
+0 -1 16668
+Z-1
+C-1
+S
+#16664
+{BO,BL}The Murky Swamp{bo,bl}~
+                           
+     This cavern is dark as pitch, the only light in the room 
+     is that which is your own reflecting off of the black 
+     water that fills the area. Ripples from your disturbance
+     of the water causes gentle slapping sounds on the other 
+     side in the darkness.
+        
+~
+166 33857 1
+D0
+~
+~
+0 -1 16659
+D1
+~
+~
+0 -1 16664
+D2
+~
+~
+0 -1 16665
+D3
+~
+~
+0 -1 16663
+Z-1
+C-1
+S
+#16665
+{BO,BL}The Murky Swamp{bo,bl}~
+                           
+     This cavern is dark as pitch, the only light in the room 
+     is that which is your own reflecting off of the black 
+     water that fills the area. Ripples from your disturbance
+     of the water causes gentle slapping sounds on the other 
+     side in the darkness.
+        
+~
+166 33857 1
+D0
+~
+~
+0 -1 16664
+D1
+~
+~
+0 -1 16665
+D2
+~
+~
+0 -1 16660
+D3
+~
+~
+0 -1 16666
+Z-1
+C-1
+S
+#16666
+{BO,BL}The Murky Swamp{bo,bl}~
+                           
+     This cavern is dark as pitch, the only light in the room 
+     is that which is your own reflecting off of the black 
+     water that fills the area. Ripples from your disturbance
+     of the water causes gentle slapping sounds on the other 
+     side in the darkness.
+        
+~
+166 33857 1
+D0
+~
+~
+0 -1 16663
+D1
+~
+~
+0 -1 16665
+D2
+~
+~
+0 -1 16661
+D3
+~
+~
+0 -1 16667
+Z-1
+C-1
+S
+#16667
+{BO,BL}The Murky Swamp{bo,bl}~
+                           
+     This cavern is dark as pitch, the only light in the room 
+     is that which is your own reflecting off of the black 
+     water that fills the area. Ripples from your disturbance
+     of the water causes gentle slapping sounds on the other 
+     side in the darkness.
+        
+~
+166 33857 1
+D0
+~
+~
+0 -1 16668
+D1
+~
+~
+0 -1 16666
+D2
+~
+~
+0 -1 16670
+D3
+~
+~
+0 -1 16665
+Z-1
+C-1
+S
+#16668
+{BO,BL}The Murky Swamp{bo,bl}~
+                           
+     This cavern is dark as pitch, the only light in the room 
+     is that which is your own reflecting off of the black 
+     water that fills the area. Ripples from your disturbance
+     of the water causes gentle slapping sounds on the other 
+     side in the darkness.
+        
+~
+166 33857 1
+D0
+~
+~
+0 -1 16669
+D1
+~
+~
+0 -1 16663
+D2
+~
+~
+0 -1 16667
+D3
+~
+~
+0 -1 16664
+Z-1
+C-1
+S
+#16669
+{BO,BL}The Murky Swamp{bo,bl}~
+                           
+     This cavern is dark as pitch, the only light in the room 
+     is that which is your own reflecting off of the black 
+     water that fills the area. Ripples from your disturbance
+     of the water causes gentle slapping sounds on the other 
+     side in the darkness.
+        
+~
+166 33857 1
+D0
+~
+~
+0 -1 16670
+D1
+~
+~
+0 -1 16662
+D2
+~
+~
+0 -1 16668
+D3
+~
+~
+0 -1 16659
+Z-1
+C-1
+S
+#16670
+{BO,BL}The Murky Swamp{bo,bl}~
+                           
+     This cavern is dark as pitch, the only light in the room 
+     is that which is your own reflecting off of the black 
+     water that fills the area. Ripples from your disturbance
+     of the water causes gentle slapping sounds on the other 
+     side in the darkness.
+        
+~
+166 33857 1
+D0
+~
+~
+0 -1 16667
+D1
+~
+~
+0 -1 16661
+D2
+~
+~
+0 -1 16669
+D3
+~
+~
+0 -1 16671
+Z-1
+C-1
+S
+#16671
+{BL}A Dark Cave{bl}~
+
+     This cavern is dark, with no signs of recent traffic.
+     The air feels funny - not just a smell, but something
+     that makes your head throb..
+
+~
+166 1 4
+D1
+~
+~
+0 -1 16670
+D2
+~
+~
+0 -1 16672
+Z3
+C-1
+S
+#16672
+{BL}A Dark Cave{bl}~
+
+     This cavern is dark, with no signs of recent traffic.
+     The air feels funny - not just a smell, but something
+     that makes your head throb..
+
+~
+166 1 4
+D0
+~
+~
+0 -1 16671
+D2
+~
+~
+0 -1 16673
+D3
+~
+~
+0 -1 16677
+Z3
+C-1
+S
+#16673
+{BL}A Dark Cave{bl}~
+
+     This cavern is dark, with no signs of recent traffic.
+     The air feels funny - not just a smell, but something
+     that makes your head throb..
+
+~
+166 1 4
+D0
+~
+~
+0 -1 16672
+D2
+~
+~
+0 -1 16674
+D3
+~
+~
+0 -1 16678
+Z3
+C-1
+S
+#16674
+{BL}A Dark Cave{bl}~
+
+     This cavern is dark, with no signs of recent traffic.
+     The air feels funny - not just a smell, but something
+     that makes your head throb..
+
+~
+166 1 4
+D0
+~
+~
+0 -1 16673
+D2
+~
+~
+0 -1 16675
+Z3
+C-1
+S
+#16675
+{BL}A Dark Cave{bl}~
+
+     This cavern is dark, with no signs of recent traffic.
+     The air feels funny - not just a smell, but something
+     that makes your head throb..
+
+~
+166 1 4
+D0
+~
+~
+0 -1 16674
+D1
+~
+~
+0 -1 16676
+Z3
+C-1
+S
+#16676
+{BLU}The {BL}Dark{R}ness{r}~
+              
+     This cavern is dark as pitch, the only light in the room.
+     
+     As you enter this small chamber, a cloud of black smoke 
+     puffs through the opening. The room smells of curing 
+     meat. A fire smolders in a pit in the center of 
+     the chamber.
+          
+~
+166 1 1
+D3
+~
+~
+0 -1 16675
+Z-1
+C-1
+S
+#16677
+{BL}A Dark Cave{bl}~
+
+     This cavern is dark, with no signs of recent traffic.
+     The air feels funny - not just a smell, but something
+     that makes your head throb..
+
+~
+166 1 4
+D1
+~
+~
+0 -1 16672
+D2
+~
+~
+0 -1 16678
+Z3
+C-1
+S
+#16678
+{BL}A Dark Cave{bl}~
+
+     This cavern is dark, with no signs of recent traffic.
+     The air feels funny - not just a smell, but something
+     that makes your head throb..
+
+~
+166 1 4
+D0
+~
+~
+0 -1 16677
+D1
+~
+~
+0 -1 16673
+D3
+~
+IronGate~
+2 16613 16679
+Z3
+C-1
+S
+#16679
+{MAG}Into {CY}The {Y}Caverns{y}~
+      
+     The cavern is dimly lit by flickering flames rising from 
+     shallow stone bowls resting in carved niches along the 
+     sandstone walls. A sharp, musty odor like an overripe cheese
+     assails your nostrils.
+     
+~
+166 32832 1
+D0
+~
+~
+0 -1 16681
+D1
+~
+IronGate~
+1 -1 16678
+D2
+~
+~
+0 -1 16680
+D3
+~
+~
+0 -1 16682
+Z-1
+C-1
+S
+#16680
+{MAG}Into {CY}The {Y}Caverns{y}~
+
+     This cavern is dimly lit by flickering flames rising from 
+     shallow stone bowls, resting in carved niches along the 
+     sandstone walls. A sharp, musty odor like an overripe cheese
+     assails your nostrils.
+     
+~
+166 32832 1
+D0
+~
+~
+0 -1 16679
+Z-1
+C-1
+S
+#16681
+{MAG}Into {CY}The {Y}Caverns{y}~
+
+     This cavern is dimly lit by flickering flames rising from 
+     shallow stone bowls, resting in carved niches along the 
+     sandstone walls. A sharp, musty odor like an overripe cheese
+     assails your nostrils.
+     
+~
+166 32832 1
+D2
+~
+~
+0 -1 16679
+Z-1
+C-1
+S
+#16682
+{MAG}Into {CY}The {Y}Caverns{y}~
+
+     This cavern is dimly lit by flickering flames rising from 
+     shallow stone bowls, resting in carved niches along the 
+     sandstone walls. A sharp, musty odor like an overripe cheese
+     assails your nostrils.
+     
+~
+166 32832 1
+D1
+~
+~
+0 -1 16679
+D3
+~
+~
+0 -1 16683
+Z-1
+C-1
+S
+#16683
+{MAG}Into {CY}The {Y}Caverns{y}~
+
+     This cavern is dimly lit by flickering flames rising from 
+     shallow stone bowls, resting in carved niches along the 
+     sandstone walls. A sharp, musty odor like an overripe cheese
+     assails your nostrils.
+     
+~
+166 32832 1
+D0
+~
+ScaleDoor~
+2 16616 16686
+D1
+~
+~
+0 -1 16682
+D2
+~
+RustedDoor~
+2 16615 16684
+Z-1
+C-1
+S
+#16684
+{MAG}Into {CY}The {Y}Caverns{y}~
+
+     This cavern is dimly lit by flickering flames rising from 
+     shallow stone bowls, resting in carved niches along the 
+     sandstone walls. A sharp, musty odor like an overripe cheese
+     assails your nostrils.
+     
+~
+166 32832 1
+D0
+~
+RustedDoor~
+1 -1 16683
+D1
+~
+~
+0 -1 16685
+Z-1
+C-1
+S
+#16685
+{MAG}Into {CY}The {Y}Caverns{y}~
+
+     This cavern is dimly lit by flickering flames rising from 
+     shallow stone bowls, resting in carved niches along the 
+     sandstone walls. A sharp, musty odor like an overripe cheese
+     assails your nostrils.
+     
+~
+166 32832 1
+D3
+~
+~
+0 -1 16684
+Z-1
+C-1
+S
+#16686
+{MAG}Into {CY}The {Y}Caverns{y}~
+
+     This cavern is dimly lit by flickering flames rising from 
+     shallow stone bowls, resting in carved niches along the 
+     sandstone walls. A sharp, musty odor like an overripe cheese
+     assails your nostrils.
+     
+~
+166 32832 1
+D0
+~
+~
+0 -1 16687
+D2
+~
+ScaleDoor~
+1 -1 16683
+Z-1
+C-1
+S
+#16687
+{MAG}Into {CY}The {Y}Caverns{y}~
+
+     This cavern is dimly lit by flickering flames rising from 
+     shallow stone bowls, resting in carved niches along the 
+     sandstone walls. A sharp, musty odor like an overripe cheese
+     assails your nostrils.
+     
+~
+166 32832 1
+D0
+~
+~
+0 -1 16693
+D1
+~
+CavernDoor~
+2 16617 16688
+D2
+~
+~
+0 -1 16686
+Z-1
+C-1
+S
+#16688
+{MAG}Into {CY}The {Y}Caverns{y}~
+
+     This cavern is dimly lit by flickering flames rising from 
+     shallow stone bowls, resting in carved niches along the 
+     sandstone walls. A sharp, musty odor like an overripe cheese
+     assails your nostrils.
+     
+~
+166 32832 1
+D2
+~
+~
+0 -1 16689
+D3
+~
+CavernDoor~
+1 -1 16687
+Z-1
+C-1
+S
+#16689
+{MAG}Into {CY}The {Y}Caverns{y}~
+
+     This cavern is dimly lit by flickering flames rising from 
+     shallow stone bowls, resting in carved niches along the 
+     sandstone walls. A sharp, musty odor like an overripe cheese
+     assails your nostrils.
+     
+~
+166 32832 1
+D0
+~
+~
+0 -1 16688
+Z-1
+C-1
+S
+#16690
+{MAG}Into {CY}The {Y}Caverns{y}~
+
+     This cavern is dimly lit by flickering flames rising from 
+     shallow stone bowls, resting in carved niches along the 
+     sandstone walls. A sharp, musty odor like an overripe cheese
+     assails your nostrils.
+     
+~
+166 32832 1
+D1
+~
+~
+0 -1 16691
+D3
+~
+SilverDoor~
+1 -1 16693
+Z-1
+C-1
+S
+#16691
+{MAG}Into {CY}The {Y}Caverns{y}~
+
+     This cavern is dimly lit by flickering flames rising from 
+     shallow stone bowls, resting in carved niches along the 
+     sandstone walls. A sharp, musty odor like an overripe cheese
+     assails your nostrils.
+     
+~
+166 32832 1
+D2
+~
+~
+0 -1 16692
+D3
+~
+~
+0 -1 16690
+Z-1
+C-1
+S
+#16692
+{BLUE,BO}The{blue,bo} {RED,BO}Lord{red,bo}{BLUE,BO}'{blue,bo}{RED,BO}s{red,bo} {BLUE,BO}Chamber{blue,bo}~
+                                     
+     Upon entering this chamber you notice something out of the
+     ordinary...the appearance of royalty. You also notice that
+     the owner of this well-kept chamber has noticed you. He looks
+     at you with an evil smirk and stares in your direction while
+     drawing his sword.
+     
+~
+166 0 1
+D0
+~
+~
+0 -1 16691
+Z-1
+C-1
+S
+#16693
+{MAG}Into {CY}The {Y}Caverns{y}~
+
+     This cavern is dimly lit by flickering flames rising from 
+     shallow stone bowls, resting in carved niches along the 
+     sandstone walls. A sharp, musty odor like an overripe cheese
+     assails your nostrils.
+     
+~
+166 32832 1
+D0
+~
+OnyxGate~
+2 16614 16694
+D1
+~
+SilverDoor~
+2 16618 16690
+D2
+~
+~
+0 -1 16687
+Z-1
+C-1
+S
+#16694
+{BLACK,BO}The Black Dragon's Lair{black,bo}~
+
+     This passage is lit by a single flickering bowl lamp.  The
+     walls are decorated with crude murals depicting lizard men
+     in various activities:  harvesting slime and algae,
+     tunneling caves, raiding other lizard caves, hunting a
+     variety of swamp creatures, and so forth.  Most striking
+     are the repeated scenes of a huge black dragon devouring
+     bound lizard men, giant otters and humans.  You notice
+     that in several murals the large dragon is accompanied by
+     two smaller dragons.
+     
+~
+166 5 4
+D0
+~
+~
+0 -1 16695
+D2
+~
+OnyxGate~
+1 -1 16693
+Z-1
+C-1
+S
+#16695
+{BLACK,BO}The Black Dragon's Lair{black,bo}~
+
+     This passage is lit by a single flickering bowl lamp.  The
+     walls are decorated with crude murals depicting lizard men
+     in various activities:  harvesting slime and algae,
+     tunneling caves, raiding other lizard caves, hunting a
+     variety of swamp creatures, and so forth.  Most striking
+     are the repeated scenes of a huge black dragon devouring
+     bound lizard men, giant otters and humans.  You notice
+     that in several murals the large dragon is accompanied by
+     two smaller dragons.
+     
+~
+166 1 4
+D0
+~
+~
+0 -1 16696
+D2
+~
+~
+0 -1 16694
+Z-1
+C-1
+S
+#16696
+{BLACK,BO}The Black Dragon's Lair{black,bo}~
+
+     This passage is lit by a single flickering bowl lamp.  The
+     walls are decorated with crude murals depicting lizard men
+     in various activities:  harvesting slime and algae,
+     tunneling caves, raiding other lizard caves, hunting a
+     variety of swamp creatures, and so forth.  Most striking
+     are the repeated scenes of a huge black dragon devouring
+     bound lizard men, giant otters and humans.  You notice
+     that in several murals the large dragon is accompanied by
+     two smaller dragons.
+     
+~
+166 1 4
+D0
+~
+~
+0 -1 16697
+D2
+~
+~
+0 -1 16695
+Z-1
+C-1
+S
+#16697
+{BLACK,BO}The Black Dragon's Lair{black,bo}~
+
+     This passage is lit by a single flickering bowl lamp.  The
+     walls are decorated with crude murals depicting lizard men
+     in various activities:  harvesting slime and algae,
+     tunneling caves, raiding other lizard caves, hunting a
+     variety of swamp creatures, and so forth.  Most striking
+     are the repeated scenes of a huge black dragon devouring
+     bound lizard men, giant otters and humans.  You notice
+     that in several murals the large dragon is accompanied by
+     two smaller dragons.
+     
+~
+166 1 4
+D2
+~
+~
+0 -1 16696
+D3
+~
+~
+0 -1 16698
+Z-1
+C-1
+S
+#16698
+{Y}The {BL}Black Dragon{Y}'{BL}s {Y}Horde{y}~
+
+     This Chamber is absolutely dark, but you sense a large
+     open space.  You hear a loud, rattling hissing like a giant
+     snoring from the west side of the room...
+
+~
+166 4210693 4
+D1
+~
+~
+0 -1 16697
+X28
+Z-1
+C-1
+S
+#16699
+unused room~
+You are standing in nowhere !!!!
+~
+166 0 1
+Z-1
+C-1
+S
+$~

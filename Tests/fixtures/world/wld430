@@ -1,0 +1,1594 @@
+#43000
+{R,BO}Gundam {Y}Wing {C}Prep Room{bo,c}~
+
+{BLA,BO}                                             \{Y}@@@@@@@{BL}/  {Y}@  {BL}\{Y}@@@@@@@{BL}/
+{BLU,BO}         ---------------------------------     {Y}@@@    {BL}/{Y}@{BL}/   {Y}@@@
+{BLU,BO}          ---------------------------------    {Y}@@    @@@   @@
+{R,BO}     /****/ *   */ *   */ ****\    */   *    */{Y}@   @@@   @@
+{R,BO}    *      *   */ **  */ *   */  * *   **  **/{Y}@@  @ @  @@
+{R,BO}   *  **/ *   */ * * */ *   */  * */  * * **/{Y}@@ @  @ @@
+{R,BO}  *   */ *   */ *  **/ *   */ *****  *    */ {Y}@@    @@
+{R,BO} \****/ \***/  *   */ ****/  *   */ *    */ {Y}@@    @@
+{BLA,BO}                                           \{Y}@    @{BL}/
+~
+430 12 1
+D1
+~
+~
+0 -1 43001
+Z-1
+C-1
+S
+#43001
+{R,BO}Gundam {Y}Wing {C}Entry Portal{bo,c}~
+
+        {Y}00      {W}SSSSS#SSSSS      {Y}00
+         000  {W}SSSSSS#{G,BLI}*{bli}{W}#SSSSSS  {Y}000
+           00{W}SSSSSSS###SSSSSSS{Y}00
+          0000{W}SSSSS/{Y}000{W}\SSSSS{Y}0000
+        {W}S  S{Y}0000{W}SSS{Y}00000{W}SSS{Y}0000{W}S  S
+         SSS    {Y}00 0{BLU}$$${Y}0 00    {W}SSS
+         SSS  SSSS  {BLU}${R}3{BLU}$  {W}SSSS  SSS
+{BLU}    BBB   {W}SS   SSSS {BLU}${R}3{BLU}$ {W}SSSS   SS   {BLU}BBB
+{BLU}    BBB    {W}S  S{BLU}---  $$$  ---{W}S  S    {BLU}BBB
+   BBBBBB  {W}S  S {G}***     *** {W}S  S  {BLU}BBBBBB
+   BBBBBB  {W}S   S           S   S  {BLU}BBBBBB
+   BBBBBB  {W}S    SSS====={W}SSS    S  {BLU}BBBBBB
+   BBBBBB  {W}S    SSS====={W}SSS    S  {BLU}BBBBBB
+  BBBBBBBB  {Y}00{W}S     {R}333     {W}S{Y}00  {BLU}BBBBBBBB  {W}There is a
+{BLU}  BBBBBBBB    {Y}000{W}SSS{R}333{W}SSS{Y}000    {BLU}BBBBBBBB  {M}sign {W}here...
+{BLU}  BBBBBBBBBBBBB {Y}000{W}S{R}333{W}S{Y}000 {BLU}BBBBBBBBBBBBB  
+  BBBBBBBBBBBBB   {Y}00{R}333{Y}00   {BLU}BBBBBBBBBBBBB  
+
+~
+430 12 1
+D1
+~
+~
+0 -1 43002
+D3
+~
+~
+0 -1 43000
+E
+sign~
+  
+  {R,BO,BLINK}WARNING!!!{blink}
+  
+  {Y,BO}This zone is for {C}HIGH LEVEL ADVANCED GROUPS ONLY!!!
+  {Y}It contains powerful, aggressive mobs as well as 
+  saccers and multiple death traps. 
+  
+  {R}Enter at your own risk!
+  
+~
+Z-1
+C-1
+S
+#43002
+{BLU,BO}Entrance to the Mines{bo,blu}~
+  
+  {BLA,BO}This looks like the upper level of a mine shaft.  
+  Mining tools and other debris litter the floor.  
+  
+  The walls of the tunnel are scored with markings from 
+  tools.  There are chunks of material scattered about 
+  that appear to be hewn from the tunnel.  The rocks and 
+  the walls have an unusual metallic sheen to them.
+  
+~
+430 16777228 1
+D3
+~
+~
+0 -1 43001
+D5
+{BL,BO}You see a tunnel leading down the mine shaft.
+
+~
+~
+0 -1 43003
+Z3
+C-1
+S
+#43003
+{BLU,BO}Down to the Mines{bo,blu}~
+ 
+  {BLA}This is the center of the mine shaft.  You would expect
+  the temperature to be decreasing as you go underground,
+  but it seems like its getting warmer.
+ 
+  There is also a peculiar odor in the air that you can't
+  quite place.  You listen for any sounds of life, but
+  all you hear is an eerie silence.
+ 
+~
+430 12 1
+D4
+~
+~
+0 -1 43002
+D5
+~
+~
+0 -1 43004
+Z0
+C-1
+S
+#43004
+{BLU,BO}Entrance to the Mines{bo,blu}~
+  
+  {BLA}This is the bottom of the vertical entrance to the
+  mine area where the rare metal Gundanium is processed.
+  
+  A large metal airlock separates you from the inner 
+  workings of the mining operation.  You look the 
+  hatch over carefully before you decide to open it...
+  
+~
+430 12 1
+D1
+{R,BO} R O M E F E L L E R
+ 
+      {R}E N T E R P R I S E S
+ 
+      {bo,C}EXTRACTION/PROCESSING
+      {C}   PLANT S-75R
+ 
+      {W} AUTHORIZED PERSONS
+      {W}       ONLY
+ 
+~
+hatch~
+1 -1 43005
+D4
+~
+~
+0 -1 43003
+E
+hatch~
+ 
+      {R,BO} R O M E F E L L E R
+ 
+      {R}E N T E R P R I S E S
+ 
+      {bo,C}EXTRACTION/PROCESSING
+      {C}   PLANT S-75R
+ 
+      {W} AUTHORIZED PERSONS
+      {W}       ONLY
+ 
+~
+Z0
+C-1
+S
+#43005
+{C}Gundanium Processing Plant{c}~
+  
+  {C}You find yourself in a large dormant factory.  This place
+  looks like it was originally designed to smelt and process
+  metals, but the equipment looks futuristic.{w}
+  
+~
+430 24 1
+D0
+~
+~
+0 -1 43007
+D1
+~
+~
+0 -1 43006
+D2
+~
+~
+0 -1 43009
+D3
+~
+hatch~
+1 -1 43004
+Z0
+C-1
+S
+#43006
+{R,BO}Reactor Chamber{bo,r}~
+ 
+  {R,BO}Now you have done it!  You entered the chamber where the raw gundanium
+  is irradiated with Kappa Rays...and the dosage is still lethal.
+  
+  Your body evaporates in a puff of smoke!
+  {bo,r}
+~
+430 262154 1
+Z0
+C-1
+S
+#43007
+{C}Gundanium Processing Plant{c}~
+  
+  {C}There are bizarre tools and other junk littering the floor.
+  The walls are covered with every conceivable kind of button
+  and dial, all frozen forever in time.
+  
+~
+430 24 1
+D0
+~
+~
+0 -1 43008
+D2
+~
+~
+0 -1 43005
+Z0
+C-1
+S
+#43008
+{C}Gundanium Processing Plant{c}~
+ 
+  {C}At the corner of the plant are a set of unused desks where
+  the plant operators used to sit.  They used to control the 
+  smelting operations from here since the radiation levels in
+  the magnetic crucibles would kill a man instantly.{c}
+ 
+~
+430 0 1
+D1
+~
+~
+0 -1 43013
+D2
+~
+~
+0 -1 43007
+Z0
+C-1
+S
+#43009
+{C}Gundanium Processing Plant{c}~
+  
+  {C}There are bizarre tools and other junk littering the floor.
+  The walls are covered with every conceivable kind of button
+  and dial, all frozen forever in time.
+  
+~
+430 24 1
+D0
+~
+~
+0 -1 43005
+D2
+~
+~
+0 -1 43010
+Z0
+C-1
+S
+#43010
+{C}Gundanium Processing Plant{c}~
+  
+  {C}In the center of the room is a huge chamber with huge
+  magnetic interlocks.  This is the reactor chamber where 
+  the raw gundanium ore was processed to manufacture the 
+  materials for making mobile suits.
+  
+~
+430 24 1
+D0
+~
+~
+0 -1 43009
+D1
+~
+~
+0 -1 43011
+Z0
+C-1
+S
+#43011
+{C}Gundanium Processing Plant{c}~
+  
+  {C}There in another opening in the reactor chamber, which
+  might still contain some valuable bars of gundanium.
+  
+  There is another hatch to south that leads toward the 
+  executive offices of the plant.
+  
+  The passageway to the east is blocked by a cave-in.
+  
+~
+430 24 1
+D0
+~
+~
+0 -1 43006
+D2
+~
+~
+0 -1 43012
+D3
+~
+~
+0 -1 43010
+Z0
+C-1
+S
+#43012
+{C}Plant Supervisor's Office{c}~
+  
+  {C}This office may have been quite fashionable at once time,
+  but now it is a wreck of broken chairs, smashed furniture
+  and mildewed papers.
+  
+  On the floor toward the south of the room is a teleporter
+  pad, which looks like it might still be active...care to
+  see where it leads?
+  
+~
+430 24 1
+D0
+~
+~
+0 -1 43011
+Z0
+C-1
+S
+#43013
+{C}Gundanium Processing Plant{c}~
+  
+  {C}There in another opening in the reactor chamber, which
+  might still contain some valuable bars of gundanium.
+  
+  There is another hatch to north that leads toward the 
+  worker's quarters and laboratory facilities.
+  
+  The passageway to the east is blocked by a cave-in.
+  
+~
+430 24 1
+D0
+~
+~
+0 -1 43014
+D2
+~
+~
+0 -1 43006
+D3
+~
+~
+0 -1 43008
+Z0
+C-1
+S
+#43014
+{C}Gundanium Plant - North Hall{c}~
+  
+  {W}This is the entryway into the area where the plant workers
+  lived and the scientists performed their quality assurance.
+  
+  The Romefeller Foundation must have put a lot of money
+  into making sure their workers were comfortable.  There
+  are sleeping quarters and a galley as well as a rec room
+  toward the west.
+  
+  Toward the east is the scientific area of the factory where
+  you could find the computers that controlled the dangerous
+  extraction process.
+  
+~
+430 8 1
+D1
+~
+~
+0 -1 43015
+D2
+~
+~
+0 -1 43013
+D3
+~
+door~
+1 43014 43017
+Z0
+C-1
+S
+#43015
+{M}Laboratory{m}~
+  
+  {C}All around this room are strewn shattered glass and 
+  broken instruments.  This is the place where the Romefeller
+  scientists tested the refined gundanium ore for its quality.
+  
+  All around you are various containers marked with biohazard
+  warnings.  Maybe you shouldn't open any of them up.
+  
+~
+430 8 1
+D0
+~
+~
+0 -1 43016
+D3
+~
+~
+0 -1 43014
+Z0
+C-1
+S
+#43016
+{C}Computer Central{c}~
+  
+  {W}This used to be the nerve center of the entire complex. 
+  Computer terminals and office equipment are just strewn about
+  the room now.
+  
+  Despite the fact that none of the computers are operational,
+  you hear a humming noise coming from underneath some 
+  junked equipment...
+  
+~
+430 8 1
+D2
+~
+~
+0 -1 43015
+Z0
+C-1
+S
+#43017
+{M}Galley{m}~
+  
+  {W}This is the galley - a small kitchen that also serves as
+  the crew's dining room and recreation area.  There are
+  still dirty dishes in the sink, and magazines from over
+  a hundred years ago are disintegrating on the coffee 
+  tables.{w}
+  
+~
+430 262152 1
+D0
+~
+~
+0 -1 43018
+D1
+~
+door~
+1 -1 43014
+Z0
+C-1
+S
+#43018
+{M}Sleeping Quarters{m}~
+  
+  {C}This mine must have been abandoned rather suddenly
+  because you can see people's personal belongings 
+  were left lying all over this communal bedroom.
+  
+~
+430 8 1
+D2
+~
+~
+0 -1 43017
+Z0
+C-1
+S
+#43019
+{BO,C}A Secret Closet{c,bo}~
+  
+  {BLA}You are in a small utility closet just off the main
+  hall of the processing plant.  Brooms and mops and other
+  pieces of cleaning equipment litter the floor.
+  
+~
+430 0 1
+D2
+~
+~
+0 -1 43014
+Z0
+C-1
+S
+#43020
+{BO,C}C{M}i{C}r{M}c{C}u{M}s {W}- Entryway{w,bo}~
+  
+  {W}You find yourself at the gate of a traveling circus, but 
+  you can immediately see that all is not well...there are no 
+  people around and the animals are running rampant around 
+  the tents.  
+  
+  There is no going back now, you are just going to have to 
+  get past them...but the entryway is exceedingly narrow...
+  
+~
+430 4194304 2
+D0
+~
+~
+0 -1 43021
+Z0
+C-1
+S
+#43021
+{BO,C}C{M}i{C}r{M}c{C}u{M}s {W}- Entryway{w,bo}~
+  
+  {C}This narrow entryway is occupied by a rather large, extremely
+  angry pachyderm.  Good luck getting past this guy.
+  
+  Ahead of you, you can see entrance to the big top tent, which is
+  swarming with crazed circus animals.
+  
+~
+430 4194432 2
+D0
+~
+~
+0 -1 43022
+D2
+~
+~
+0 -1 43020
+Z0
+C1
+S
+#43022
+{C,BO}C{M}i{C}r{M}c{C}u{M}s{W} - Midway{w,bo}~
+ 
+  {Y,BO}You are outside of the main circus tent.  You are
+  surrounded by swarms of very angry, very destructive animals
+  that seemed to have escaped from the circus.  You have to
+  wind your way through here to find the exit.{y,bo}
+  
+~
+430 4194688 2
+D0
+~
+~
+0 -1 43022
+D1
+~
+~
+0 -1 43023
+D2
+~
+~
+0 -1 43022
+D3
+~
+~
+0 -1 43022
+T43021
+Z3
+C-1
+S
+#43023
+{C,BO}C{M}i{C}r{M}c{C}u{M}s{W} - Midway{w,bo}~
+ 
+  {Y,BO}You are outside of the main circus tent.  You are
+  surrounded by swarms of very angry, very destructive animals
+  that seemed to have escaped from the circus.  You have to
+  wind your way through here to find the exit.{y,bo}
+  
+~
+430 4194688 2
+D0
+~
+~
+0 -1 43024
+D1
+~
+~
+0 -1 43023
+D2
+~
+~
+0 -1 43023
+D3
+~
+~
+0 -1 43022
+T43021
+Z3
+C-1
+S
+#43024
+{C,BO}C{M}i{C}r{M}c{C}u{M}s{W} - Midway{w,bo}~
+ 
+  {Y,BO}You are outside of the main circus tent.  You are
+  surrounded by swarms of very angry, very destructive animals
+  that seemed to have escaped from the circus.  You have to
+  wind your way through here to find the exit.{y,bo}
+  
+~
+430 4194688 2
+D0
+~
+~
+0 -1 43023
+D1
+~
+~
+0 -1 43024
+D2
+~
+~
+0 -1 43025
+D3
+~
+~
+0 -1 43022
+T43021
+Z3
+C-1
+S
+#43025
+{C,BO}C{M}i{C}r{M}c{C}u{M}s{W} - Midway{w,bo}~
+ 
+  {Y,BO}You are outside of the main circus tent.  You are
+  surrounded by swarms of very angry, very destructive animals
+  that seemed to have escaped from the circus.  You have to
+  wind your way through here to find the exit.{y,bo}
+  
+~
+430 4194688 2
+D0
+~
+~
+0 -1 43025
+D1
+~
+~
+0 -1 43022
+D2
+~
+~
+0 -1 43023
+D3
+~
+~
+0 -1 43026
+T43021
+Z3
+C-1
+S
+#43026
+{C,BO}C{M}i{C}r{M}c{C}u{M}s{W} - Midway{w,bo}~
+ 
+  {Y,BO}You are outside of the main circus tent.  You are
+  surrounded by swarms of very angry, very destructive animals
+  that seemed to have escaped from the circus.  You have to
+  wind your way through here to find the exit.{y,bo}
+  
+~
+430 4194688 2
+D0
+~
+~
+0 -1 43027
+D1
+~
+~
+0 -1 43023
+D2
+~
+~
+0 -1 43023
+D3
+~
+~
+0 -1 43023
+T43021
+Z3
+C-1
+S
+#43027
+{C,BO}T{M}h{C}e {M}B{C}i{M}g {C}T{M}o{C}p{W} - Ticket Booth{w,bo}~
+ 
+  {C,BO}This is the ticket booth where you ought to be able 
+  to buy a lovely evening of entertainment.  Since the
+  animals have overrun the place, there won't be any
+  show tonight.  You still need to get a ticket or
+  you won't be allowed inside, and you notice that you
+  can't go back the way you came...
+  
+~
+430 0 1
+D1
+You see a large tent flap with a bizarre
+  padlock keeping it closed.
+
+~
+flap~
+2 43010 43028
+E
+flap~
+
+  You see a large tent flap with a bizarre
+  padlock keeping it closed.
+~
+Z0
+C-1
+S
+#43028
+{C,BO}T{M}h{C}e {M}B{C}i{M}g {C}T{M}o{C}p{w,bo}~
+  
+  {M,BO}You are inside a gigantic circus tent, full of empty seats 
+  and broken equipment.  The top of the tent soars some one 
+  hundred fifty feet above your head.  Twisted and tangled 
+  trapezes hang down from wires over ripped netting.
+  
+~
+430 136 1
+D2
+~
+~
+0 -1 43029
+D3
+~
+flap~
+1 -1 43027
+Z5
+C-1
+S
+#43029
+{C,BO}T{M}h{C}e {M}B{C}i{M}g {C}T{M}o{C}p{w,bo}~
+  
+  {M,BO}You are inside a gigantic circus tent, full of empty seats 
+  and broken equipment.  The top of the tent soars some one 
+  hundred fifty feet above your head.  Twisted and tangled 
+  trapezes hang down from wires over ripped netting.
+  
+~
+430 136 1
+D0
+~
+~
+0 -1 43028
+D2
+~
+~
+0 -1 43030
+Z0
+C-1
+S
+#43030
+{C,BO}T{M}h{C}e {M}B{C}i{M}g {C}T{M}o{C}p{w,bo}~
+  
+  {M,BO}You are inside a gigantic circus tent, full of empty seats 
+  and broken equipment.  The top of the tent soars some one 
+  hundred fifty feet above your head.  Twisted and tangled 
+  trapezes hang down from wires over ripped netting.
+  
+~
+430 136 1
+D0
+~
+~
+0 -1 43029
+Z0
+C-1
+S
+#43031
+{C,BO}T{M}h{C}e {M}B{C}i{M}g {C}T{M}o{C}p{w,bo}~
+You are standing in nowhere !!!!
+~
+430 262144 1
+Z0
+C-1
+S
+#43032
+{Y,BO}The Desert Sands{bo,y}~
+ 
+{Y}  Having plunged deep into the Sanc Kingdom in pursuit of
+  Quatre Rababa Winner, you find yourself in a vast desert.
+  You are surrounded by sand in every direction you look.
+  The sun beats down relentlessly, quickly dehydrating
+  you. Lost and tired, you aimlessly wander on, hoping to
+  find shelter before your water runs out.
+ 
+~
+430 64 1
+D0
+~
+~
+0 -1 43032
+D1
+~
+~
+0 -1 43033
+D2
+~
+~
+0 -1 43032
+D3
+~
+~
+0 -1 43032
+Z0
+C-1
+S
+#43033
+{Y}The Desert Sands{y}~
+
+  Having plunged deep into the Sanc Kingdom in pursuit of
+  Quatre Rababa Winner, you find yourself in a vast desert.
+  You are surrounded by sand in every direction you look.
+  The sun beats down relentlessly, quickly dehydrating
+  you. Lost and tired, you aimlessly wander on, hoping to
+  find shelter before your water runs out.
+
+~
+430 64 1
+D0
+~
+~
+0 -1 43034
+D1
+~
+~
+0 -1 43033
+D2
+~
+~
+0 -1 43033
+D3
+~
+~
+0 -1 43032
+Z0
+C-1
+S
+#43034
+{Y}The Desert Sands{y}~
+
+  Having plunged deep into the Sanc Kingdom in pursuit of
+  Quatre Rababa Winner, you find yourself in a vast desert.
+  You are surrounded by sand in every direction you look.
+  The sun beats down relentlessly, quickly dehydrating
+  you. Lost and tired, you aimlessly wander on, hoping to
+  find shelter before your water runs out.
+
+~
+430 64 1
+D0
+~
+~
+0 -1 43035
+D1
+~
+~
+0 -1 43034
+D2
+~
+~
+0 -1 43040
+D3
+~
+~
+0 -1 43032
+Z0
+C-1
+S
+#43035
+{Y}The Desert Sands{y}~
+
+  Having plunged deep into the Sanc Kingdom in pursuit of
+  Quatre Rababa Winner, you find yourself in a vast desert.
+  You are surrounded by sand in every direction you look.
+  The sun beats down relentlessly, quickly dehydrating
+  you. Lost and tired, you aimlessly wander on, hoping to
+  find shelter before your water runs out.
+
+~
+430 64 1
+D0
+~
+~
+0 -1 43034
+D1
+~
+~
+0 -1 43034
+D2
+~
+~
+0 -1 43036
+D3
+~
+~
+0 -1 43032
+Z0
+C-1
+S
+#43036
+{Y}The Desert Sands{y}~
+
+  Having plunged deep into the Sanc Kingdom in pursuit of
+  Quatre Rababa Winner, you find yourself in a vast desert.
+  You are surrounded by sand in every direction you look.
+  The sun beats down relentlessly, quickly dehydrating
+  you. Lost and tired, you aimlessly wander on, hoping to
+  find shelter before your water runs out.
+
+~
+430 64 1
+D0
+~
+~
+0 -1 43040
+D1
+~
+~
+0 -1 43034
+D2
+~
+~
+0 -1 43032
+D3
+~
+~
+0 -1 43037
+Z0
+C-1
+S
+#43037
+{Y}The Desert Sands{y}~
+
+  Having plunged deep into the Sanc Kingdom in pursuit of
+  Quatre Rababa Winner, you find yourself in a vast desert.
+  You are surrounded by sand in every direction you look.
+  The sun beats down relentlessly, quickly dehydrating
+  you. Lost and tired, you aimlessly wander on, hoping to
+  find shelter before your water runs out.
+
+~
+430 64 1
+D0
+~
+~
+0 -1 43038
+D1
+~
+~
+0 -1 43033
+D2
+~
+~
+0 -1 43035
+D3
+~
+~
+0 -1 43040
+Z0
+C-1
+S
+#43038
+{Y}The Desert Sands{y}~
+
+  Having plunged deep into the Sanc Kingdom in pursuit of
+  Quatre Rababa Winner, you find yourself in a vast desert.
+  You are surrounded by sand in every direction you look.
+  The sun beats down relentlessly, quickly dehydrating
+  you. Lost and tired, you aimlessly wander on, hoping to
+  find shelter before your water runs out.
+
+~
+430 64 1
+D0
+~
+~
+0 -1 43040
+D1
+~
+~
+0 -1 43040
+D2
+~
+~
+0 -1 43032
+D3
+~
+~
+0 -1 43039
+Z0
+C-1
+S
+#43039
+{Y}The Desert Sands{y}~
+
+  Having plunged deep into the Sanc Kingdom in pursuit of
+  Quatre Rababa Winner, you find yourself in a vast desert.
+  You are surrounded by sand in every direction you look.
+  The sun beats down relentlessly, quickly dehydrating
+  you. Lost and tired, you aimlessly wander on, hoping to
+  find shelter before your water runs out.
+
+~
+430 64 1
+D0
+~
+~
+0 -1 43041
+D1
+~
+~
+0 -1 43040
+D2
+~
+~
+0 -1 43032
+D3
+~
+~
+0 -1 43040
+Z0
+C-1
+S
+#43040
+{Y}Quicksand!!!{y}~
+
+  As you move forwards, you get the wierd sensation
+  that you are getting shorter. Suddenly, you realize
+  that it is because you are sinking into the ground!
+  Too late you notice the dried bones of animals around
+  you. The quicksand sucks you downwards relentlessly,
+  and the more you struggle the deeper you sink. Slowly,
+  it smothers you...
+
+~
+430 2 1
+Z0
+C-1
+S
+#43041
+{Y}A Desert Ravine{y}~
+
+  You have finally made it out of the desert,
+  and into the welcome shade of a ravine. On
+  either side of you tower huge granite spires.
+  Suddenly, the ground before you bursts from
+  the impact of a laser beam. It's an ambush!
+
+~
+430 16384 1
+D0
+~
+~
+0 -1 43042
+D2
+~
+~
+0 -1 43039
+Z0
+C1
+S
+#43042
+{Y}A Desert Ravine{y}~
+
+  You have finally made it out of the desert,
+  and into the welcome shade of a ravine. On
+  either side of you tower huge granite spires.
+  Suddenly, the ground before you bursts from
+  the impact of a laser beam. It's an ambush!
+
+~
+430 16384 1
+D0
+~
+~
+0 -1 43043
+D2
+~
+~
+0 -1 43041
+Z0
+C2
+S
+#43043
+{Y}Sanc Kingdom Desert Base{y}~
+
+  As you come out of the ravine, you are amazed to see
+  an entire base spread out before you. This must be
+  the mobile suit base of the Sanc Kingdom. Swarms of
+  mobiles suits are now swooping down towards you. Looks
+  like you'll have to fight your way in.
+
+~
+430 64 1
+D2
+~
+~
+0 -1 43042
+Z0
+C-1
+S
+#43044
+{W,BO}The Ice Shelf{w,bo}~
+ 
+  {W,BO}You find yourself on the edge of a vast, frozen wasteland.
+  Your back is to the briny sea, so there is no way to go 
+  but forward.  A path leads away from the ice and fades
+  into a whirling snowstorm.
+  
+~
+430 4194337 4
+Z5
+C-1
+S
+#43045
+{W,BO}The Whirling Snowstorm{w,bo}~
+ 
+  {W,BO}You wander around aimlessly, searching for a clue as to which
+  way you should go.  The ice and snow blows in your face as 
+  the wind howls in your ears.
+  
+  Despite the frigid conditions, there are still dangerous 
+  creatures lurking about.  The scent of warm flesh draws them
+  out of their dens in search of food.
+  
+~
+430 4194469 4
+D1
+~
+~
+0 -1 43053
+D3
+~
+~
+0 -1 43046
+Z0
+C-1
+S
+#43046
+{C,BO}The Whirling Snowstorm{c,bo}~
+ {W,REV}
+        \                                 \                       
+         *                 \               \              \       
+       \            \       \               *              \      
+        \            \       *                      \       *     
+         *            \                \             \            
+                       *                \  \          *           
+                \                        *  \                \    
+\                \            \       \      *                *   
+ *     \          *            \       \           \      \       
+        \                       *       *           \      *      
+         *                                           *            
+{rev} 
+~
+430 4211105 4
+D0
+~
+~
+0 -1 43047
+D1
+~
+~
+0 -1 43045
+D2
+~
+~
+0 -1 43046
+D3
+~
+~
+0 -1 43046
+T43053
+Z0
+C2
+S
+#43047
+{C,BO}The Whirling Snowstorm{c,bo}~
+ {W,REV}
+        \                                 \                       
+         *                 \               \              \       
+       \            \       \               *              \      
+        \            \       *                      \       *     
+         *            \                \             \            
+                       *                \  \          *           
+                \                        *  \                \    
+\                \            \       \      *                *   
+ *     \          *            \       \           \      \       
+        \                       *       *           \      *      
+         *                                           *            
+{rev} 
+~
+430 4211105 4
+D0
+~
+~
+0 -1 43046
+D1
+~
+~
+0 -1 43047
+D2
+~
+~
+0 -1 43048
+D3
+~
+~
+0 -1 43047
+T43053
+Z0
+C2
+S
+#43048
+{C,BO}The Whirling Snowstorm{c,bo}~
+ {W,REV}
+        \                                 \                       
+         *                 \               \              \       
+       \            \       \               *              \      
+        \            \       *                      \       *     
+         *            \                \             \            
+                       *                \  \          *           
+                \                        *  \                \    
+\                \            \       \      *                *   
+ *     \          *            \       \           \      \       
+        \                       *       *           \      *      
+         *                                           *            
+{rev} 
+~
+430 4211105 4
+D0
+~
+~
+0 -1 43046
+D1
+~
+~
+0 -1 43048
+D2
+~
+~
+0 -1 43047
+D3
+~
+~
+0 -1 43049
+T43053
+Z0
+C2
+S
+#43049
+{C,BO}The Whirling Snowstorm{c,bo}~
+ {W,REV}
+        \                                 \                       
+         *                 \               \              \       
+       \            \       \               *              \      
+        \            \       *                      \       *     
+         *            \                \             \            
+                       *                \  \          *           
+                \                        *  \                \    
+\                \            \       \      *                *   
+ *     \          *            \       \           \      \       
+        \                       *       *           \      *      
+         *                                           *            
+{rev} 
+~
+430 4211105 4
+D0
+~
+~
+0 -1 43047
+D1
+~
+~
+0 -1 43046
+D2
+~
+~
+0 -1 43050
+D3
+~
+~
+0 -1 43046
+T43053
+Z0
+C2
+S
+#43050
+{C,BO}The Whirling Snowstorm{c,bo}~
+ {W,REV}
+        \                                 \                       
+         *                 \               \              \       
+       \            \       \               *              \      
+        \            \       *                      \       *     
+         *            \                \             \            
+                       *                \  \          *           
+                \                        *  \                \    
+\                \            \       \      *                *   
+ *     \          *            \       \           \      \       
+        \                       *       *           \      *      
+         *                                           *            
+{rev} 
+~
+430 4211105 4
+D0
+~
+~
+0 -1 43046
+D1
+~
+~
+0 -1 43051
+D2
+~
+~
+0 -1 43047
+D3
+~
+~
+0 -1 43047
+T43053
+Z0
+C2
+S
+#43051
+{C,BO}The Whirling Snowstorm{c,bo}~
+ {W,REV}
+        \                                 \                       
+         *                 \               \              \       
+       \            \       \               *              \      
+        \            \       *                      \       *     
+         *            \                \             \            
+                       *                \  \          *           
+                \                        *  \                \    
+\                \            \       \      *                *   
+ *     \          *            \       \           \      \       
+        \                       *       *           \      *      
+         *                                           *            
+{rev} 
+~
+430 4211105 4
+D0
+~
+~
+0 -1 43047
+D1
+~
+~
+0 -1 43046
+D2
+~
+~
+0 -1 43048
+D3
+~
+~
+0 -1 43052
+T43053
+Z0
+C2
+S
+#43052
+{C,BO}The Whirling Snowstorm{c,bo}~
+ {W,REV}
+        \                                 \                       
+         *                 \               \              \       
+       \            \       \               *              \      
+        \            \       *                      \       *     
+         *            \                \             \            
+                       *                \  \          *           
+                \                        *  \                \    
+\                \            \       \      *                *   
+ *     \          *            \       \           \      \       
+        \                       *       *           \      *      
+         *                                           *            
+{rev} 
+~
+430 4211105 4
+D0
+~
+~
+0 -1 43047
+D1
+~
+~
+0 -1 43046
+D2
+~
+~
+0 -1 43048
+D3
+~
+~
+0 -1 43055
+T43053
+Z0
+C2
+S
+#43053
+{W,BO}A Hidden Cave{w,bo}~
+  {BO,C}
+  You wander into an icy cave.  Your breath is bitter cold as
+  you scan the surroundings for signs of life.
+  
+  If you listen carefully, there are other sounds in the cave
+  beside the howling of the winds off the glacier.  But what
+  kind of sounds?
+  
+~
+430 4210721 5
+D3
+~
+~
+0 -1 43045
+Z0
+C-1
+S
+#43054
+{C,BO}The Whirling Snowstorm{c,bo}~
+
+  {C,BO}CRASH!!! You fall through the ice into the sub-zero water!
+
+  {W}As you feel the frigid water sap away your strength you see
+  your life flash before your eyes....what a way to go!
+
+~
+430 35 4
+T43053
+Z0
+C-1
+S
+#43055
+{C,BO}The Foot of the Glacier{c,bo}~
+  {W,BO}
+  After a narrow escape from a vicious blizzard, you find yourself 
+  at the foot of an enormous barren sheet of ice.
+  
+  You realize that you cannot go back through the snowstorm, so the
+  only way to go is up.  There is a path cut over the glacier, but
+  it is narrow and treacherous.
+  
+~
+430 37 5
+D1
+~
+~
+0 -1 43052
+D4
+~
+~
+0 -1 43056
+Z0
+C-1
+S
+#43056
+{C,BO}Scaling the Glacier{c,bo}~
+ {BO,W}
+  Hand over hand, you clamber up the glacier's face, carefully 
+  grasping the cable planted in the path.  Step by step, you
+  try to make sure you don't slip and fall.
+  
+~
+430 289 5
+D4
+~
+~
+0 -1 43057
+D5
+~
+~
+0 -1 43055
+T43055
+Z0
+C1
+S
+#43057
+{C,BO}Scaling the Glacier{c,bo}~
+ {BO,W}
+  Hand over hand, you clamber up the glacier's face, carefully 
+  grasping the cable planted in the path.  Step by step, you
+  try to make sure you don't slip and fall.
+  
+~
+430 289 5
+D4
+~
+~
+0 -1 43058
+D5
+~
+~
+0 -1 43056
+T43056
+Z0
+C1
+S
+#43058
+{C,BO}Scaling the Glacier{c,bo}~
+ {BO,W}
+  Hand over hand, you clamber up the glacier's face, carefully 
+  grasping the cable planted in the path.  Step by step, you
+  try to make sure you don't slip and fall.
+  
+~
+430 289 5
+D4
+~
+~
+0 -1 43059
+D5
+~
+~
+0 -1 43057
+T43057
+Z0
+C1
+S
+#43059
+{C,BO}Scaling the Glacier{c,bo}~
+ {BO,W}
+  Hand over hand, you clamber up the glacier's face, carefully 
+  grasping the cable planted in the path.  Step by step, you
+  try to make sure you don't slip and fall.
+  
+~
+430 289 5
+D4
+~
+~
+0 -1 43060
+D5
+~
+~
+0 -1 43058
+T43058
+Z0
+C1
+S
+#43060
+{C,BO}Atop the Glacier{bo,c}~
+  {C,BO}
+  Atop the glacier all you see is a sheet of ice extending 
+  beyond your sight in all directions, except to the east 
+  where you see a ravine cut into the surface.
+  
+  This narrow pass decends below your line of sight.
+  
+~
+430 4194337 5
+D1
+~
+~
+0 -1 43061
+D5
+~
+~
+0 -1 43059
+T43058
+Z0
+C-1
+S
+#43061
+{C,BO}Atop the Glacier{bo,c}~
+  {C,BO}
+  A burst of crackling blue energy bursts out of the ravine and
+  you see the towering form of a Gundam clamber out!
+  
+~
+430 4194465 5
+D3
+~
+~
+0 -1 43060
+Z0
+C-1
+S
+#43062
+{G,BO}Jungle Encampment{bo,g}~
+  
+  {G,BO}You appear in the midst of a lush, steamy jungle. 
+  
+  All around you are hundreds of different tropical plants, some
+  blooming in brilliant colors.  The air is thick with the 
+  sounds of the jungle birds and beasts.
+  
+~
+430 262148 3
+Z0
+C-1
+S
+$~

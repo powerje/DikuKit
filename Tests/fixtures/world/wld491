@@ -1,0 +1,738 @@
+#49100
+{GR,BO}Northern Rail Train Depot- South Valley Station{gr,bo}~
+              {Y}_________________________  {R}===    {GR,BO}% % %  %  %    
+           {Y}__|Northern Rail Train Depot|_{R}| |     {GR,BO}%    % {gr,bo}{Y}/   {GR,BO}%
+          {Y}/                              {R}| |   {GR,BO}%  % %   % %  %
+         {Y}/                               {R}| |     {GR,BO}%  {gr,bo}{Y}\{GR,BO}%   {gr,bo}{Y}/{GR,BO}%  %
+        {Y}/                               /{R}| |{Y}\   {GR,BO}%  % {gr,bo}{Y}\{GR,BO}%  {gr,bo}{Y}|{GR,BO}%
+       {Y}/_______________________________/ {R}| |{Y} \   {GR,BO}%    {gr,bo}{Y}|  |
+        {Y}|_tickets_____________________| {R}/   \{Y}|        {y,bo}{Y}|  |       
+ {GR}-------{Y}|__/   \______|    |__________| {R}|   |{Y}|{GR}-------{Y}/{GR}----{Y}\{GR}----------
+ {BL,BO}+++++++{Y}|__|   |______|    |__________| {R}|   |{Y}|{BL,BO}++++++++++++++++++++++
+ +++++++{Y}|__|___|______|   o|__________| {R}|   |{Y}|{BL,BO}++++++++++++++++++++++
+        {Y}|_____________|    |__________| {R}|   |{Y}|
+   
+~
+491 0 2
+D3
+~
+~
+0 -1 49460
+Z3
+C-1
+S
+#49101
+{B,BO}A Secret Passage{b,bo}~
+{BL,BO}  
+  This small narrow vent is just large 
+  enough for two people to crawl through.
+  At one end is the Pet Shop and at the
+  other end is Benson's Tavern. 
+{bl,bo}
+~
+491 13 0
+D1
+~
+~
+0 -1 49597
+D5
+~
+~
+0 -1 49595
+Z5
+C2
+S
+#49102
+STUFF TO DO!~
+ 
+  procs have been resent to Loco and Guard 8/11/04
+ 
+  Enix is onboard to help with NPCs and gear ... fightable, basic eq
+ 
+ added room 49103 as a mob chute for the NPCs. They are instazoned there now. As eq is created
+ we will need to instazone the eq to them in that room. Make sure the stay-zone flags are NOT
+ on these mobs as they are meant to wander the LS freely. 
+~
+491 0 1
+Z0
+C-1
+S
+#49103
+NPC mob Chute~
+ 
+  This room is a mob chute depositing NPC (flavour mobs) in
+  various rooms around the landscape.
+ 
+~
+491 65536 1
+D0
+~
+~
+0 -1 49400
+D1
+~
+~
+0 -1 49700
+D2
+~
+~
+0 -1 49300
+D3
+~
+~
+0 -1 49500
+D4
+~
+~
+0 -1 49800
+D5
+~
+~
+0 -1 49356
+Z0
+C-1
+S
+#49104
+{BO,CY}The {bo,cy}{CY}Eudelta{BO,CY} Video Store{bo,cy}~
+
+   {CY}Glass doors open quickly and silently before you, providing
+   a blast of {WH}cool air {CY}from inside the building. As soon as you
+   enter, the doors close and block out all of the noise coming
+   from the busy streets of Eudelta. You slowly look around at the
+   many {BO,YEL}bright{BO,WH} lights {BO,YEL}{BLINK}flashing{bo,yel}{blink}{CY} in hypnotic rhythms and settle 
+   yourself into the comfortable atmosphere that this video store
+   provides.{cy}
+
+~
+491 262144 1
+D2
+~
+~
+0 -1 49105
+Z-1
+C-1
+S
+#49105
+{CY}Inside the {BO,CY}Eudelta{bo,cy}{CY} Video Store{cy}~
+
+   {CY}As you walk further into the store, and further from the annoying
+   ramblings of the storekeeper, you get more of a feel for the place.
+   There are dozens of promotional posters for many movies, including
+   "{RE}Morlock III: The {BO,RE}Demon's{bo,re}{RE} Awakening{CY}" and "{YEL}Zorro's Last Stand{CY}". There
+   are two main aisles: Video games to the east and movies to the west.{cy}
+
+~
+491 262144 1
+D0
+~
+~
+0 -1 49104
+Z-1
+C-1
+S
+#49110
+{BLA,BO}Under a Manhole{bla,bo}~
+{BLA,BO}
+  After climbing down a metal ladder, you find yourself on
+  a walkway beside a main of raw sewage.  The smell is
+  awful, you gag a little looking down into the waste. The
+  tunnel is at a bend here, it leads to the north and to
+  the east.
+{bla,bo}
+~
+491 12 1
+D1
+~
+~
+0 -1 49111
+D4
+~
+cover manhole~
+1 -1 49898
+Z7
+C-1
+S
+#49111
+{BLA,BO}Sewers{bla,bo}~
+{BLA,BO}
+  The walkway you stand on alongside the sewage is very
+  slick and dangerous, you have to be very careful not
+  to slip.  The Sewers continue to the east and west.
+{bla,bo}
+~
+491 8 1
+D1
+~
+~
+0 -1 49112
+D3
+~
+~
+0 -1 49110
+Z7
+C-1
+S
+#49112
+{BLA,BO}Sewers{bla,bo}~
+{BLA,BO}
+  The walkway you stand on alongside the sewage is very
+  slick and dangerous, you have to be very careful not
+  to slip.  The Sewers continue to the east and west.
+{bla,bo}
+~
+491 8 1
+D1
+~
+~
+0 -1 49113
+D3
+~
+~
+0 -1 49111
+Z7
+C-1
+S
+#49113
+{BLA,BO}Sewers{bla,bo}~
+{BLA,BO}
+  The walkway you stand on alongside the sewage is very
+  slick and dangerous, you have to be very careful not
+  to slip.  The Sewers continue to the east and west.
+{bla,bo}
+~
+491 8 1
+D1
+~
+~
+0 -1 49114
+D3
+~
+~
+0 -1 49112
+Z7
+C-1
+S
+#49114
+{BLA,BO}Under a Manhole{bla,bo}~
+{BLA,BO}
+  You stand on a narrow ledge in the Sewers beside an
+  old, rusty metal ladder.  Part of the walkway is
+  crumbling here, better not fall in.  The Sewer
+  continues to the east and west here.
+{bla,bo}
+~
+491 8 1
+D1
+~
+~
+0 -1 49115
+D3
+~
+~
+0 -1 49113
+D4
+~
+~
+0 -1 49694
+Z6
+C-1
+S
+#49115
+{BLA,BO}Sewers{bla,bo}~
+{BLA,BO}
+  The walkway you stand on alongside the sewage is very
+  slick and dangerous, you have to be very careful not
+  to slip.  The Sewers continue to the east and west.
+{bla,bo}
+~
+491 8 1
+D1
+~
+~
+0 -1 49116
+D3
+~
+~
+0 -1 49114
+Z7
+C-1
+S
+#49116
+{BLA,BO}Sewers{bla,bo}~
+{BLA,BO}
+  The walkway you stand on alongside the sewage is very
+  slick and dangerous, you have to be very careful not
+  to slip.  The Sewers continue to the east and west.
+{bla,bo}
+~
+491 8 1
+D1
+~
+~
+0 -1 49117
+D3
+~
+~
+0 -1 49115
+Z7
+C-1
+S
+#49117
+{BLA,BO}Sewers{bla,bo}~
+{BLA,BO}
+  The walkway you stand on alongside the sewage is very
+  slick and dangerous, you have to be very careful not
+  to slip.  The Sewers continue to the east and west.
+{bla,bo}
+~
+491 8 1
+D1
+~
+~
+0 -1 49118
+D3
+~
+~
+0 -1 49116
+Z7
+C-1
+S
+#49118
+{BLA,BO}Under a Manhole{bla,bo}~
+{BLA,BO}
+  The sewer is wider in this spot than any in other,
+  leaving room for a large ledge.  A metal ladder
+  along the north wall leads both above and below
+  you in the sewer.
+{bla,bo}
+~
+491 12 1
+D3
+~
+~
+0 -1 49117
+D4
+~
+~
+0 -1 49318
+D5
+~
+~
+0 -1 49119
+Z5
+C-1
+S
+#49119
+{BLA,BO}Service Tunnel{bla,bo}~
+{BLA,BO}
+  This service tunnel was once used by sanitation
+  workers to maintain the city system, but has long
+  been long abandoned.  Only rodents and the most
+  hardened street people would come here now.  An
+  old metal ladder leads up into the sewer main.
+{bla,bo}
+~
+491 40 1
+D1
+~
+~
+0 -1 49120
+D3
+~
+~
+0 -1 49122
+D4
+~
+~
+0 -1 49118
+Z8
+C-1
+S
+#49120
+{BLA,BO}Service Tunnel{bla,bo}~
+{BLA,BO}
+  Mounds of trash obstruct your way through this
+  old service tunnel.  It was once upkept by city
+  workers, but has long since been abandoned.  The
+  constant work of rats and other creaturs of the
+  sewers is unnerving.  The tunnel continues east
+  and west.
+{bla,bo}
+~
+491 40 1
+D1
+~
+~
+0 -1 49121
+D3
+~
+~
+0 -1 49119
+Z8
+C-1
+S
+#49121
+{BLA,BO}Service Tunnel{bla,bo}~
+{BLA,BO}
+  Mounds of trash obstruct your way through this
+  old service tunnel.  It was once upkept by city
+  workers, but has long since been abandoned.  The
+  constant work of rats and other creaturs of the
+  sewers is unnerving.  The tunnel continues east
+  and west.
+{bla,bo}
+~
+491 40 1
+D1
+~
+~
+0 -1 49122
+D3
+~
+~
+0 -1 49120
+Z8
+C-1
+S
+#49122
+{BLA,BO}Service Tunnel{bla,bo}~
+{BLA,BO}
+  Mounds of trash obstruct your way through this
+  old service tunnel.  It was once upkept by city
+  workers, but has long since been abandoned.  The
+  constant work of rats and other creaturs of the
+  sewers is unnerving.  The tunnel continues east
+  and west.
+{bla,bo}
+~
+491 40 1
+D1
+~
+~
+0 -1 49119
+D3
+~
+~
+0 -1 49121
+D4
+~
+~
+0 -1 1169
+D5
+~
+~
+0 -1 34383
+Z8
+C-1
+S
+#49130
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+491 262144 1
+D0
+~
+~
+0 -1 49131
+Z0
+C-1
+S
+#49131
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+491 262144 1
+D2
+~
+~
+0 -1 49130
+Z0
+C-1
+S
+#49198
+{R,BO}Crossroads News Stand{r,bo}~
+{W,BO}  
+  People gather in this small white washed shack
+  to learn about all the mud happenings. Flyers 
+  about new zones, magazines with self help articles,
+  best sellers, and of course, the Crossroads Press
+  are all crammmed in the small wire rack sitting 
+  in the middle of it all. 
+{BL}
+  There's some {Y} _  _ _  |` |`._|_. {BL}decorating the wall.
+               {Y}(_|| (_| |= |=| | |
+                _| 
+{y,bo}               
+   
+~
+491 0 1
+D0
+~
+~
+0 -1 49889
+E
+graffiti~
+{C}  
+  d0-10
+       d10-15
+             d15-20
+                   d20-25
+                         d25-30
+                               d30-50
+{C}
+  Upon further examination, it seems to
+  be some sort of cryptic code.
+{c}
+~
+E
+d0-10~
+{C}
+  Dual levels 0-10
+  GREAT TREE 
+  NEWBIE SCHOOL
+  PESCADERO MENTAL INSTITUTION
+{c}
+~
+E
+d10-15~
+{C}
+  Dual levels 10-15
+  TREE  cougars, golems,  racoons, gorillas
+  NARSHE  chocobos, citizens
+  PESCADERO MENTAL INSTITUTION  all (except War Criminals and Rapists)
+  CAMELOT bats, citizens
+{c}
+~
+E
+d15-20~
+{C}
+  Dual levels 15-20
+  CAMELOT  servants, caterers, nuns, priests
+  GILLIGAN'S ISLAND  natives
+  JURASSIC  Dinos (stop when you reach the gate)
+  AMSTERDAMNED gals
+{c}
+~
+E
+d25-30~
+{C}
+  Dual levels 25-30
+  HAWAII  Humuhumunukunukuapua'a
+  CAMELOT  sir lancelot, sir bedivere, sir tristam
+  COMPUTER WORLD   eight meg
+{c}
+~
+E
+d30-50~
+{C}
+  Dual levels 30-50
+  CARNIVAL   Freaks, Zombies
+  COMPUTER WORLD  sixteen meg sims,  thirty-two meg sims (grouped)
+  CENTAUR ISLE   male centaurs, child centaurs, female centaurs
+  AFRICAN PLAINS  furball
+  DIMENSIONS   perverts
+  SERIN RIVER  alligators
+  MARSHLAND  all (except spirit)
+{c}
+~
+E
+a1-5~
+{G}
+  Advanced Levels 1-5
+  CAMELOT  servants, caterers, nuns, priests, citizens
+  GILLIGAN'S ISLAND natives
+{g}
+~
+E
+a5-15~
+{G}
+  Advanced Levels 5-15
+  CAMELOT  knights
+  FINAL FANTASY III
+  HAWAII  ahi,  humuhumunukunukuapua'a
+  COMPUTER WORLD  customers, four meg sims, eight meg sims, sales clerks
+  MT. SEPHER  hobgoblin sentry, harpy sentry, will o' wisp
+  CAT IN THE HAT  truffula trees
+{g}
+~
+E
+a15-30~
+{G}
+  Advanced Levels 15-30
+  CARNIVAL  freaks, zombies
+  GOLDEN TEMPLE of KUNG-FU
+  MELNIBONE  chaos vipers
+  MARSHLANDS
+  FABLE
+  CITY of LANKHMAR  pirates
+  SHAOLIN TEMPLE  sleepy monks
+  COMPUTER WORLD  sixteen meg simms, thirty-two meg sims
+  PENTARA  pentara soldier, thugs
+  CENTAUR ISLE  male centaurs, female centaurs, child centaurs
+  DARWIN'S KEEP  alligators
+{g}
+~
+E
+a30-50~
+{G}
+  Advanced Levels 30-50
+  AFRICAN PLAINS  saras (watch out, they sac!)
+  FINAL FANTASY 8  Cactuars 
+  THE WEBB   gremlins (watch out, they sac!)
+  CENTAUR ISLE  male centaurs, female centaurs, child centaurs
+  DARWIN'S KEEP  alligators
+  {R,BO}GO ZONE!
+{r,bo}
+~
+Z0
+C-1
+S
+#49199
+{R,BO}Crossroads News Stand{r,bo}~
+{W,BO}  
+  People gather in this small white washed shack
+  to learn about all the mud happenings. Flyers 
+  about new zones, magazines with self help articles,
+  best sellers, and of course, the Crossroads Press
+  are all crammmed in the small wire rack sitting 
+  in the middle of it all. 
+{BL}
+  There's some {Y} _  _ _  |` |`._|_. {BL}decorating the wall.
+               {Y}(_|| (_| |= |=| | |
+                _| 
+{y,bo}               
+   
+~
+491 0 1
+D0
+~
+~
+0 -1 49496
+E
+a30-50~
+{G}
+  Advanced Levels 31-50
+  AFRICAN PLAINS  saras (watch out, they sac!)
+  FINAL FANTASY 8  Cactuars 
+  THE WEBB   gremlins (watch out, they sac!)
+  CENTAUR ISLE  male centaurs, female centaurs, child centaurs
+  DARWIN'S KEEP  alligators
+  {R,BO}GO ZONE!
+{r,bo}
+~
+E
+d0-10~
+{C}
+  Dual levels 0-10
+  GREAT TREE 
+  NEWBIE SCHOOL
+  PESCADERO MENTAL INSTITUTION
+{c}
+~
+E
+d10-15~
+{C}
+  Dual levels 10-15
+  TREE  cougars, golems,  racoons, gorillas
+  NARSHE  chocobos, citizens
+  PESCADERO MENTAL INSTITUTION  all (except War Criminals and Rapists)
+  CAMELOT bats, citizens
+{c}
+~
+E
+d15-20~
+{C}
+  Dual levels 15-20
+  CAMELOT  servants, caterers, nuns, priests
+  GILLIGAN'S ISLAND  natives
+  JURASSIC  Dinos (stop when you reach the gate)
+  AMSTERDAMNED gals
+{c}
+~
+E
+d20-25~
+{C}
+  Dual levels 20-25
+  HAWAII  mahimahi, ahi, pigs, mynahs, menehune
+  CAMELOT  knights
+  COMPUTER WORLD  customers, four meg sims, sales clerks
+  DIMENSIONS  mercenary
+{c}
+~
+E
+d25-30~
+{C}
+  Dual levels 25-30
+  HAWAII  Humuhumunukunukuapua'a
+  CAMELOT  sir lancelot, sir bedivere, sir tristam
+  COMPUTER WORLD   eight meg
+{c}
+~
+E
+d30-50~
+{C}
+  Dual levels 30-50
+  CARNIVAL   Freaks, Zombies
+  COMPUTER WORLD  sixteen meg sims,  thirty-two meg sims (grouped)
+  CENTAUR ISLE   male centaurs, child centaurs, female centaurs
+  AFRICAN PLAINS  furball
+  DIMENSIONS   perverts
+  SERIN RIVER  alligators
+  MARSHLAND  all (except spirit)
+{c}
+~
+E
+a1-5~
+{G}
+  Advanced Levels 1-5
+  CAMELOT  servants, caterers, nuns, priests, citizens
+  GILLIGAN'S ISLAND natives
+{g}
+~
+E
+a15-30~
+{G}
+  Advanced Levels 15-30
+  CARNIVAL  freaks, zombies
+  GOLDEN TEMPLE of KUNG-FU
+  MELNIBONE  chaos vipers
+  MARSHLANDS
+  FABLE
+  CITY of LANKHMAR  pirates
+  SHAOLIN TEMPLE  sleepy monks
+  COMPUTER WORLD  sixteen meg simms, thirty-two meg sims
+  PENTARA  pentara soldier, thugs
+  CENTAUR ISLE  male centaurs, female centaurs, child centaurs
+  DARWIN'S KEEP  alligators
+{g}
+~
+E
+a5-15~
+{G}
+  Advanced Levels 5-15
+  CAMELOT  knights
+  FINAL FANTASY III
+  HAWAII  ahi,  humuhumunukunukuapua'a
+  COMPUTER WORLD  customers, four meg sims, eight meg sims, sales clerks
+  MT. SEPHER  hobgoblin sentry, harpy sentry, will o' wisp
+  CAT IN THE HAT  truffula trees
+{g}
+~
+E
+graffiti~
+{C}  
+  d0-10
+       d10-15
+             d15-20
+                   d20-25
+                         d25-30
+                               d30-50
+{C}
+  Upon further examination, it seems to
+  be some sort of cryptic code.
+{c}
+~
+Z-1
+C-1
+S
+$~

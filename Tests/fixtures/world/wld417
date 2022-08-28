@@ -1,0 +1,2213 @@
+#41700
+The Wheel of Time~
+  
+  {W,BO}The Wheel of Time turns, and Ages come and pass,
+  leaving memories that become legend. Legend fades
+  to myth and even myth is long forgotten when the Age 
+  that gave it birth comes again. You see the threads
+  of everything that lives being spun out into the world,
+  yet there are a few threads that are causing every other
+  thread to bend to them.{w,bo}
+ 
+~
+417 0 8
+Z0
+C-1
+S
+#41701
+Approaching Tear~
+  
+  {W,BO}As you are spun into the world you notice that you
+  are in a field. All around you there are trees and flowers.
+  If you look north you see a vast city that could only be Tear. 
+  Banners and flags fly from poles. One of the banners is the
+  banner of Tear, and one is the banner of the great Dragon Reborn.{w,bo}
+ 
+~
+417 0 3
+D0
+~
+~
+0 -1 41702
+Z-1
+C-1
+S
+#41702
+The Main Gates of Tear~
+ 
+  {W,BO}As you approach the gates you see traffic going through
+  quite steadily. Guards are posted at the gate to stop anyone
+  that looks suspicious. Past the gate you can see a huge palace. 
+  For many centuries the Stone of Tear held a weapon of prophetic
+  powers. Recently, the weapon was removed as fulfillment of one 
+  of the many prophecies of the Dragon.{w,bo}
+ 
+~
+417 0 1
+D0
+A very tall and very sturdy {W,LOW}iron{w,low} gate blocks your path north.
+ 
+~
+gate~
+2 41702 41703
+D2
+~
+~
+0 -1 41701
+Z-1
+C-1
+S
+#41703
+Inside the Gates of Tear~
+  
+  {W,BO}You have made it past the guards at the gate and are now in 
+  the city. There seem to be a lot of people traveling from place
+  to place. Strewn throughout the city are shops and inns of all
+  kinds. Straight ahead is the gateway to the Stone of Tear.{w,bo}
+ 
+~
+417 0 1
+D0
+~
+~
+0 -1 41704
+D2
+~
+gate~
+1 -1 41702
+Z-1
+C-1
+S
+#41704
+Main Street~
+
+  {WHITE,BOLD}You are traveling the main street in the city. Shops are 
+  everywhere with the occasional inn thrown in as well. 
+  The crowd seems to thicken as you get farther along 
+  the road.
+
+~
+417 0 1
+D0
+~
+~
+0 -1 43200
+D2
+~
+~
+0 -1 41703
+Z-1
+C-1
+S
+#41705
+Main Street~
+
+  {WHITE,BOLD}You are traveling the main street in the city. Shops are 
+  everywhere with the occasional inn thrown in as well. 
+  The crowd seems to thicken as you get farther along 
+  the road.
+
+~
+417 0 1
+D0
+~
+~
+0 -1 41706
+D2
+~
+~
+0 -1 43206
+D3
+~
+~
+0 -1 41707
+Z-1
+C-1
+S
+#41706
+Main Street~
+
+  {WHITE,BOLD}You are traveling the main street in the city. Shops are 
+  everywhere with the occasional inn thrown in as well. 
+  The crowd seems to thicken as you get farther along 
+  the road.
+
+~
+417 0 1
+D0
+~
+~
+0 -1 41714
+D1
+~
+~
+0 -1 41713
+D2
+~
+~
+0 -1 41705
+Z-1
+C-1
+S
+#41707
+Weapon Shop~
+ 
+  {W,BO}You enter this little shop and see weapons galore.
+  A variety of swords and spears line the wall.{w,bo}
+ 
+~
+417 8192 1
+D1
+~
+~
+0 -1 41705
+Z-1
+C-1
+S
+#41708
+The Star~
+~
+417 128 1
+D3
+~
+door~
+1 -1 43204
+D4
+~
+~
+0 -1 41709
+Z-1
+C-1
+S
+#41709
+Upstairs~
+
+  {WHITE,BOLD}The upstairs of the inn is rather plain. The only things
+  you can see are three doors of people who have already
+  taken a room. Do Not Disturb signs hang on the door.
+  Maybe it would be best not to disturb these people.
+
+~
+417 0 1
+D0
+A {Y,LOW}wooden{y,low} door with a {Y,BO}brass{y,bo} handle blocks your way north.
+ 
+~
+door~
+2 41703 41716
+D1
+A {Y,LOW}wooden{y,low} door with a {Y,BO}brass{y,bo} handle blocks your way east.
+ 
+~
+door~
+2 41703 41711
+D3
+A {Y,LOW}wooden{y,low} door with a {Y,BO}brass{y,bo} handle blocks your way west. 
+ 
+~
+door~
+2 41703 41710
+D5
+~
+~
+0 -1 41708
+Z-1
+C-1
+S
+#41710
+Mat's Room~
+  
+  {W,BO}This seems to be a typical room. There is a bed in the
+  middle of the room and a bathroom to the left. Several
+  weapons are leaning against the wall next to the bed.{w,bo}
+ 
+~
+417 0 1
+D1
+~
+door~
+1 -1 41709
+Z-1
+C-1
+S
+#41711
+Thom's Room~
+  
+  {W,BO}This seems to be a typical room. There is a bed in the
+  middle of the room and a bathroom to the left. Several
+  weapons are leaning against the wall next to the bed.{w,bo}
+ 
+~
+417 0 1
+D3
+~
+door~
+1 -1 41709
+Z-1
+C-1
+S
+#41712
+Grand Hall~
+~
+417 0 1
+X30
+Z-1
+C-1
+S
+#41713
+Armor Shop~
+ 
+  {W,BO}You enter this little shop and see armor galore.
+  A variety of shields and armors line the wall.{w,bo}
+ 
+~
+417 8192 1
+D3
+~
+~
+0 -1 41706
+Z-1
+C-1
+S
+#41714
+Palace Gates~
+  
+  {W,BO}You are standing at the gates leading to the legendary
+  Stone of Tear. Guards stand here barring everybody's
+  path. Only the High Lords of Tear are allowed in
+  without permission.{w,bo}
+ 
+~
+417 0 1
+D0
+~
+gate~
+1 41724 41715
+D2
+~
+~
+0 -1 41706
+Z-1
+C-1
+S
+#41715
+The Stone of Tear~
+  
+  {W,BO}You have entered the Stone of Tear. A legendary weapon was 
+  stored here, but it has been removed! There seem to be two
+  extremely evil men standing before you.{w,bo}
+ 
+~
+417 0 1
+D2
+~
+gate~
+1 -1 41714
+D3
+~
+~
+0 -1 41717
+Z-1
+C-1
+S
+#41716
+Perrin's Room~
+  
+  {W,BO}This seems to be a typical room. There is a bed in the
+  middle of the room and a bathroom to the left. Several
+  weapons are leaning against the wall next to the bed.{w,bo}
+ 
+~
+417 0 1
+D2
+~
+door~
+1 -1 41709
+Z-1
+C-1
+S
+#41717
+A Hallway~
+  
+  {W,BO}This seems to be an ordinary hallway, but there is an
+  addition to the pictures and the tables. There seems to
+  be a guard blocking your way.{w,bo}
+  
+~
+417 0 1
+D1
+~
+~
+0 -1 41715
+D3
+~
+~
+0 -1 41718
+Z-1
+C-1
+S
+#41718
+A Hallway~
+ 
+  {W,BO}This seems to be an ordinary hallway, but there is an
+  addition to the pictures and the tables. There seems to
+  be two women blocking your way. Not ordinary women--these 
+  are veiled and have spears.{w,bo}
+ 
+~
+417 0 1
+D1
+~
+~
+0 -1 41717
+D3
+~
+~
+0 -1 41719
+Z-1
+C-1
+S
+#41719
+A Hallway~
+  
+  {W,BO}This seems to be an ordinary hallway, but there is an
+  addition to the pictures and the tables. There seems to
+  be a guard blocking your way.{w,bo}
+  
+~
+417 0 1
+D0
+~
+~
+0 -1 41720
+D1
+~
+~
+0 -1 41718
+Z-1
+C-1
+S
+#41720
+Rand's Room~
+  
+  {W,BO}This appears to be the largest room in the castle. Pictures
+  and tapestries are on the wall. In the middle of the room
+  there is a huge table with a bunch of maps on it. In the 
+  middle of the room there is a woman.{w,bo}
+ 
+~
+417 128 1
+D2
+~
+~
+0 -1 41719
+Z-1
+C-1
+S
+#41721
+{YELLOW,BOLD}P{yellow}{YELLOW}l{yellow}{YELLOW,BOLD}a{yellow}{YELLOW}i{yellow}{YELLOW,BOLD}n{yellow}{YELLOW}s{yellow}~
+   
+  {W,BO}As you come through the portal you notice that you
+  are in a deserted plain. Well, almost deserted. Besides
+  the very few shrubs that you can see, there seem to be
+  creatures wandering around. Some of them appear to
+  have a snout, and some of them appear to have no faces.{w,bo}
+ 
+~
+417 4 1
+D3
+~
+~
+0 -1 41722
+Z-1
+C-1
+S
+#41722
+{YELLOW,BOLD}P{yellow}{YELLOW}l{yellow}{YELLOW,BOLD}a{yellow}{YELLOW}i{yellow}{YELLOW,BOLD}n{yellow}{YELLOW}s{yellow}~
+    
+  {WHI,BO}As you come through the portal you notice that you
+  are in a deserted plain. Well, almost deserted. Besides
+  the very few shrubs that you can see, there seem to be
+  creatures wandering around. Some of them appear to
+  have a snout, and some of them appear to have no faces.{whi,bo}
+ 
+~
+417 4 1
+D0
+~
+~
+0 -1 41721
+D1
+~
+~
+0 -1 41721
+D2
+~
+~
+0 -1 41723
+D3
+~
+~
+0 -1 41722
+D4
+~
+~
+0 -1 41721
+D5
+~
+~
+0 -1 41724
+Z-1
+C-1
+S
+#41723
+{YELLOW,BOLD}P{yellow}{YELLOW}l{yellow}{YELLOW,BOLD}a{yellow}{YELLOW}i{yellow}{YELLOW,BOLD}n{yellow}{YELLOW}s{yellow}~
+   
+  {W,BO}As you come through the portal you notice that you
+  are in a deserted plain. Well, almost deserted. Besides
+  the very few shrubs that you can see, there seem to be
+  creatures wandering around. Some of them appear to
+  have a snout, and some of them appear to have no faces.{w,bo}
+ 
+~
+417 4 1
+D0
+~
+~
+0 -1 41721
+D1
+~
+~
+0 -1 41722
+D2
+~
+~
+0 -1 41723
+D3
+~
+~
+0 -1 41721
+D5
+~
+~
+0 -1 41721
+Z-1
+C-1
+S
+#41724
+{YELLOW,BOLD}P{yellow}{YELLOW}l{yellow}{YELLOW,BOLD}a{yellow}{YELLOW}i{yellow}{YELLOW,BOLD}n{yellow}{YELLOW}s{yellow}~
+   
+  {W,BO}As you come through the portal you notice that you
+  are in a deserted plain. Well, almost deserted. Besides
+  the very few shrubs that you can see, there seem to be
+  creatures wandering around. Some of them appear to
+  have a snout, and some of them appear to have no faces.{w,bo}
+ 
+~
+417 4 1
+D0
+~
+~
+0 -1 41721
+D1
+~
+~
+0 -1 41726
+D2
+~
+~
+0 -1 41725
+D3
+~
+~
+0 -1 41723
+Z-1
+C-1
+S
+#41725
+{YELLOW,BOLD}P{yellow}{YELLOW}l{yellow}{YELLOW,BOLD}a{yellow}{YELLOW}i{yellow}{YELLOW,BOLD}n{yellow}{YELLOW}s{yellow}~
+   
+  {W,BO}As you come through the portal you notice that you
+  are in a deserted plain. Well, almost deserted. Besides
+  the very few shrubs that you can see, there seem to be
+  creatures wandering around. Some of them appear to
+  have a snout, and some of them appear to have no faces.{w,bo}
+ 
+~
+417 4 1
+D0
+~
+~
+0 -1 41724
+Z-1
+C-1
+S
+#41726
+{YELLOW,BOLD}P{yellow}{YELLOW}l{yellow}{YELLOW,BOLD}a{yellow}{YELLOW}i{yellow}{YELLOW,BOLD}n{yellow}{YELLOW}s{yellow}~
+   
+  {W,BO}As you come through the portal you notice that you
+  are in a deserted plain. Well, almost deserted. Besides
+  the very few shrubs that you can see, there seem to be
+  creatures wandering around. Some of them appear to
+  have a snout, and some of them appear to have no faces.{w,bo}
+ 
+~
+417 4 1
+D0
+~
+~
+0 -1 41722
+D1
+~
+~
+0 -1 41724
+D2
+~
+~
+0 -1 41721
+D3
+~
+~
+0 -1 41722
+D4
+~
+~
+0 -1 41723
+D5
+~
+~
+0 -1 41727
+Z-1
+C-1
+S
+#41727
+{YELLOW,BOLD}P{yellow}{YELLOW}l{yellow}{YELLOW,BOLD}a{yellow}{YELLOW}i{yellow}{YELLOW,BOLD}n{yellow}{YELLOW}s{yellow}~
+   
+  {W,BO}As you come through the portal you notice that you
+  are in a deserted plain. Well, almost deserted. Besides
+  the very few shrubs that you can see, there seem to be
+  creatures wandering around. Some of them appear to
+  have a snout, and some of them appear to have no faces.{w,bo}
+ 
+~
+417 4 1
+D0
+~
+~
+0 -1 41725
+D1
+~
+~
+0 -1 41728
+D2
+~
+~
+0 -1 41727
+D3
+~
+~
+0 -1 41724
+D4
+~
+~
+0 -1 41725
+D5
+~
+~
+0 -1 41721
+Z-1
+C-1
+S
+#41728
+{YELLOW,BOLD}P{yellow}{YELLOW}l{yellow}{YELLOW,BOLD}a{yellow}{YELLOW}i{yellow}{YELLOW,BOLD}n{yellow}{YELLOW}s{yellow}~
+   
+  {W,BO}As you come through the portal you notice that you
+  are in a deserted plain. Well, almost deserted. Besides
+  the very few shrubs that you can see, there seem to be
+  creatures wandering around. Some of them appear to
+  have a snout, and some of them appear to have no faces.{w,bo}
+ 
+~
+417 4 1
+D0
+~
+~
+0 -1 41722
+D1
+~
+~
+0 -1 41723
+D2
+~
+~
+0 -1 41721
+D3
+~
+~
+0 -1 41723
+D4
+~
+~
+0 -1 41729
+D5
+~
+~
+0 -1 41727
+Z-1
+C-1
+S
+#41729
+{YELLOW,BOLD}P{yellow}{YELLOW}l{yellow}{YELLOW,BOLD}a{yellow}{YELLOW}i{yellow}{YELLOW,BOLD}n{yellow}{YELLOW}s{yellow}~
+   
+  {W,BO}As you come through the portal you notice that you
+  are in a deserted plain. Well, almost deserted. Besides
+  the very few shrubs that you can see, there seem to be
+  creatures wandering around. Some of them appear to
+  have a snout, and some of them appear to have no faces.{w,bo}
+ 
+~
+417 4 1
+D0
+~
+~
+0 -1 41730
+D1
+~
+~
+0 -1 41726
+D3
+~
+~
+0 -1 41726
+D4
+~
+~
+0 -1 41721
+D5
+~
+~
+0 -1 41727
+Z0
+C-1
+S
+#41730
+{YELLOW,BOLD}P{yellow}{YELLOW}l{yellow}{YELLOW,BOLD}a{yellow}{YELLOW}i{yellow}{YELLOW,BOLD}n{yellow}{YELLOW}s{yellow}~
+   
+  {W,BO}As you come through the portal you notice that you
+  are in a deserted plain. Well, almost deserted. Besides
+  the very few shrubs that you can see, there seem to be
+  creatures wandering around. Some of them appear to
+  have a snout, and some of them appear to have no faces.{w,bo}
+ 
+~
+417 4 1
+D0
+~
+~
+0 -1 41728
+D1
+~
+~
+0 -1 41722
+D2
+~
+~
+0 -1 41725
+D3
+~
+~
+0 -1 41722
+D4
+~
+~
+0 -1 41731
+D5
+~
+~
+0 -1 41727
+Z-1
+C-1
+S
+#41731
+{YELLOW,BOLD}P{yellow}{YELLOW}l{yellow}{YELLOW,BOLD}a{yellow}{YELLOW}i{yellow}{YELLOW,BOLD}n{yellow}{YELLOW}s{yellow}~
+   
+  {W,BO}As you come through the portal you notice that you
+  are in a deserted plain. Well, almost deserted. Besides
+  the very few shrubs that you can see, there seem to be
+  creatures wandering around. Some of them appear to
+  have a snout, and some of them appear to have no faces.{w,bo}
+ 
+~
+417 4 1
+D0
+~
+~
+0 -1 41732
+D1
+~
+~
+0 -1 41722
+D2
+~
+~
+0 -1 41722
+D3
+~
+~
+0 -1 41722
+D5
+~
+~
+0 -1 41723
+Z-1
+C-1
+S
+#41732
+{YELLOW,BOLD}P{yellow}{YELLOW}l{yellow}{YELLOW,BOLD}a{yellow}{YELLOW}i{yellow}{YELLOW,BOLD}n{yellow}{YELLOW}s{yellow}~
+   
+  {W,BO}As you come through the portal you notice that you
+  are in a deserted plain. Well, almost deserted. Besides
+  the very few shrubs that you can see, there seem to be
+  creatures wandering around. Some of them appear to
+  have a snout, and some of them appear to have no faces.{w,bo}
+ 
+~
+417 4 1
+D0
+~
+~
+0 -1 41724
+D1
+~
+~
+0 -1 41733
+D2
+~
+~
+0 -1 41728
+D3
+~
+~
+0 -1 41734
+D5
+~
+~
+0 -1 41721
+Z-1
+C-1
+S
+#41733
+{YELLOW,BOLD}P{yellow}{YELLOW}l{yellow}{YELLOW,BOLD}a{yellow}{YELLOW}i{yellow}{YELLOW,BOLD}n{yellow}{YELLOW}s{yellow}~
+   
+  {W,BO}As you come through the portal you notice that you
+  are in a deserted plain. Well, almost deserted. Besides
+  the very few shrubs that you can see, there seem to be
+  creatures wandering around. Some of them appear to
+  have a snout, and some of them appear to have no faces.{w,bo}
+ 
+~
+417 4 1
+D0
+~
+~
+0 -1 41734
+D1
+~
+~
+0 -1 41732
+D2
+~
+~
+0 -1 41734
+D3
+~
+~
+0 -1 41721
+Z-1
+C-1
+S
+#41734
+{YELLOW,BOLD}P{yellow}{YELLOW}l{yellow}{YELLOW,BOLD}a{yellow}{YELLOW}i{yellow}{YELLOW,BOLD}n{yellow}{YELLOW}s{yellow}~
+   
+  {W,BO}As you come through the portal you notice that you
+  are in a deserted plain. Well, almost deserted. Besides
+  the very few shrubs that you can see, there seem to be
+  creatures wandering around. Some of them appear to
+  have a snout, and some of them appear to have no faces.{w,bo}
+ 
+~
+417 4 1
+D0
+~
+~
+0 -1 41724
+D1
+~
+~
+0 -1 41732
+D2
+~
+~
+0 -1 41730
+D3
+~
+~
+0 -1 41735
+Z-1
+C-1
+S
+#41735
+{YELLOW,BOLD}P{yellow}{YELLOW}l{yellow}{YELLOW,BOLD}a{yellow}{YELLOW}i{yellow}{YELLOW,BOLD}n{yellow}{YELLOW}s{yellow}~
+   
+  {W,BO}As you come through the portal you notice that you
+  are in a deserted plain. Well, almost deserted. Besides
+  the very few shrubs that you can see, there seem to be
+  creatures wandering around. Some of them appear to
+  have a snout, and some of them appear to have no faces.{w,bo}
+ 
+~
+417 4 1
+D0
+~
+~
+0 -1 41736
+D1
+~
+~
+0 -1 41732
+D2
+~
+~
+0 -1 41733
+D3
+~
+~
+0 -1 41734
+Z-1
+C-1
+S
+#41736
+Base of the White Tower~
+ 
+  {W,BO}As you approach this white tower you are stunned at
+  the beauty of it. There are huge double doors in front
+  of you. As you look up the tower appears to go high
+  up into the sky. On top of the tower there are seven
+  flags representing all seven of the Ajahs. Rumor has it
+  that no one has ever been able to take the White Tower
+  from the Aes Sedai and their warders. There appear to
+  be two guards at the doors preventing anyone but women
+  going to be trained from entering.{w,bo}
+ 
+~
+417 4 1
+D0
+Huge {W,BO}ivory{w,bo} doors block your way north.
+ 
+~
+double~
+2 41742 41737
+D2
+~
+~
+0 -1 41735
+Z-1
+C-1
+S
+#41737
+Inside the Tower~
+
+  {WHITE,BOLD}As you enter the tower you stare in wonder. There are
+  women all over the place, and they don't seem happy
+  to see you. There are pictures all over the walls. A red
+  carpet seems to stretch forever in front of you.{white}
+
+~
+417 0 1
+D0
+~
+~
+0 -1 41738
+D2
+~
+double~
+1 -1 41736
+Z-1
+C-1
+S
+#41738
+First Floor~
+
+  {WHITE,BOLD}The red carpet seems to continue on up the levels as
+  you look. Some women pass you by, and some women
+  try to stop you as you ascend up the levels of the tower
+  to the top.{white}
+
+~
+417 0 1
+D1
+~
+~
+0 -1 41739
+D2
+~
+~
+0 -1 41737
+Z-1
+C-1
+S
+#41739
+First Floor~
+
+  {WHITE,BOLD}The red carpet seems to continue on up the levels as
+  you look. Some women pass you by, and some women
+  try to stop you as you ascend up the levels of the tower
+  to the top.{white}
+
+~
+417 0 1
+D2
+~
+~
+0 -1 41740
+D3
+~
+~
+0 -1 41738
+Z-1
+C-1
+S
+#41740
+First Floor~
+
+  {WHITE,BOLD}The red carpet seems to continue on up the levels as
+  you look. Some women pass you by, and some women
+  try to stop you as you ascend up the levels of the tower
+  to the top.{white}
+
+~
+417 0 1
+D0
+~
+~
+0 -1 41739
+D4
+~
+~
+0 -1 41741
+Z-1
+C-1
+S
+#41741
+Second Floor~
+
+  {WHITE,BOLD}The red carpet seems to continue on up the levels as
+  you look. Some women pass you by, and some women
+  try to stop you as you ascend up the levels of the tower
+  to the top.{white}
+
+~
+417 0 1
+D3
+~
+~
+0 -1 41742
+D5
+~
+~
+0 -1 41740
+Z-1
+C-1
+S
+#41742
+Second Floor~
+
+  {WHITE,BOLD}The red carpet seems to continue on up the levels as
+  you look. Some women pass you by, and some women
+  try to stop you as you ascend up the levels of the tower
+  to the top.{white}
+
+~
+417 0 1
+D0
+~
+~
+0 -1 41743
+D1
+~
+~
+0 -1 41741
+Z-1
+C-1
+S
+#41743
+Second Floor~
+
+  {WHITE,BOLD}The red carpet seems to continue on up the levels as
+  you look. Some women pass you by, and some women
+  try to stop you as you ascend up the levels of the tower
+  to the top.{white}
+
+~
+417 0 1
+D2
+~
+~
+0 -1 41742
+D4
+~
+~
+0 -1 41744
+Z-1
+C-1
+S
+#41744
+Third Floor~
+
+  {WHITE,BOLD}The red carpet seems to continue on up the levels as
+  you look. Some women pass you by, and some women
+  try to stop you as you ascend up the levels of the tower
+  to the top.{white}
+
+~
+417 0 1
+D1
+~
+~
+0 -1 41745
+D5
+~
+~
+0 -1 41743
+Z-1
+C-1
+S
+#41745
+Third Floor~
+
+  {WHITE,BOLD}The red carpet seems to continue on up the levels as
+  you look. Some women pass you by, and some women
+  try to stop you as you ascend up the levels of the tower
+  to the top.{white}
+
+~
+417 0 1
+D2
+~
+~
+0 -1 41746
+D3
+~
+~
+0 -1 41744
+Z-1
+C-1
+S
+#41746
+Third Floor~
+
+  {WHITE,BOLD}The red carpet seems to continue on up the levels as
+  you look. Some women pass you by, and some women
+  try to stop you as you ascend up the levels of the tower
+  to the top.{white}
+
+~
+417 0 1
+D0
+~
+~
+0 -1 41745
+D4
+~
+~
+0 -1 41747
+Z-1
+C-1
+S
+#41747
+Fourth Floor~
+
+  {WHITE,BOLD}The red carpet seems to continue on up the levels as
+  you look. Some women pass you by, and some women
+  try to stop you as you ascend up the levels of the tower
+  to the top.{white}
+
+~
+417 0 1
+D3
+~
+~
+0 -1 41748
+D5
+~
+~
+0 -1 41746
+Z-1
+C-1
+S
+#41748
+Fourth Floor~
+
+  {WHITE,BOLD}The red carpet seems to continue on up the levels as
+  you look. Some women pass you by, and some women
+  try to stop you as you ascend up the levels of the tower
+  to the top.{white}
+
+~
+417 0 1
+D0
+~
+~
+0 -1 41749
+D1
+~
+~
+0 -1 41747
+Z-1
+C-1
+S
+#41749
+Fourth Floor~
+
+  {WHITE,BOLD}The red carpet seems to continue on up the levels as
+  you look. Some women pass you by, and some women
+  try to stop you as you ascend up the levels of the tower
+  to the top.{white}
+
+~
+417 0 1
+D2
+~
+~
+0 -1 41748
+D4
+~
+~
+0 -1 41750
+Z-1
+C-1
+S
+#41750
+Top Floor~
+ 
+  {W,BO}At the top of the stairs you see a huge wooden door 
+  most likely leading to an office. In front of the door
+  there are two men.{w,bo}
+ 
+~
+417 4 1
+D0
+~
+door~
+2 41749 41751
+D5
+~
+~
+0 -1 41749
+Z-1
+C-1
+S
+#41751
+Egwene's Room~
+ 
+  {W,BO}As you walk into this room you are amazed. There is almost
+  every luxury here. There are chairs, tables, paintings and a 
+  fireplace. Standing behind the desk is a young women.{w,bo}
+ 
+~
+417 128 1
+D2
+~
+door~
+1 -1 41750
+Z-1
+C-1
+S
+#41752
+Approaching the {BLACK}Black{black} Tower~
+ 
+  {BLA,BO}As you walk down the path you see a huge tower 
+  looming above you. The tower is almost invisible 
+  because it is as black as night. As you get closer 
+  you realize that it reminds you of the White Tower.{bla,bo}
+ 
+~
+417 4 2
+D0
+~
+~
+0 -1 41753
+Z-1
+C-1
+S
+#41753
+The Base of the {BL}Black{bl} Tower~
+ 
+  {BLA,BO}As you come to the base of the tower you notice something. 
+  This Black Tower looks similar to the{bla,bo} {W,BO}White{w,bo} {BLA,BO}Tower! It's as 
+  tall but has no flags on the top. It is jet black instead 
+  of{bla,bo} {W,BO}white{w,bo}{BLA,BO}. Standing before the doors appears to be men 
+  without weapons.{bla,bo}
+ 
+~
+417 4 1
+D0
+A huge jet {BLACK,LOW}door{black,low} blocks your way in to the tower.
+ 
+~
+door~
+1 41743 41754
+D2
+~
+~
+0 -1 41752
+Z-1
+C-1
+S
+#41754
+Inside the {BL}Black{bl} Tower~
+  
+  {BLA,BO}The inside of the tower is stunning. In this small room
+  there is furniture, paintings, and a fireplace. This seems 
+  to be the gathering place for the tower if its occupants 
+  aren't outside receiving leasons from the M'Hael or other 
+  Asha'man.{bla,bo}
+  
+~
+417 0 1
+D0
+~
+~
+0 -1 41755
+D2
+~
+door~
+1 -1 41753
+Z-1
+C-1
+S
+#41755
+First Floor~
+ 
+  {BLA,BO}These seem to be simple wooden steps. There is nothing 
+  special about them. There are very few paintings on the 
+  walls, and doors leading to bedrooms all over the place.{bla,bo}
+ 
+~
+417 0 1
+D1
+~
+~
+0 -1 41756
+D2
+~
+~
+0 -1 41754
+Z-1
+C-1
+S
+#41756
+First Floor~
+ 
+  {BLA,BO}These seem to be simple wooden steps. There is nothing 
+  special about them. There are very few paintings on the 
+  walls, and doors leading to bedrooms all over the place.{bla,bo}
+ 
+~
+417 0 1
+D2
+~
+~
+0 -1 41757
+D3
+~
+~
+0 -1 41755
+Z-1
+C-1
+S
+#41757
+First Floor~
+ 
+  {BLA,BO}These seem to be simple wooden steps. There is nothing 
+  special about them. There are very few paintings on the 
+  walls, and doors leading to bedrooms all over the place.{bla,bo}
+ 
+~
+417 0 1
+D0
+~
+~
+0 -1 41756
+D4
+~
+~
+0 -1 41758
+Z-1
+C-1
+S
+#41758
+Second Floor~
+ 
+  {BLA,BO}These seem to be simple wooden steps. There is nothing 
+  special about them. There are very few paintings on the 
+  walls, and doors leading to bedrooms all over the place.{bla,bo}
+ 
+~
+417 0 1
+D3
+~
+~
+0 -1 41759
+D5
+~
+~
+0 -1 41757
+Z-1
+C-1
+S
+#41759
+Second Floor~
+ 
+  {BLA,BO}These seem to be simple wooden steps. There is nothing 
+  special about them. There are very few paintings on the 
+  walls, and doors leading to bedrooms all over the place.{bla,bo}
+ 
+~
+417 0 1
+D0
+~
+~
+0 -1 41760
+D1
+~
+~
+0 -1 41758
+Z-1
+C-1
+S
+#41760
+Second Floor~
+ 
+  {BLA,BO}These seem to be simple wooden steps. There is nothing 
+  special about them. There are very few paintings on the 
+  walls, and doors leading to bedrooms all over the place.{bla,bo}
+ 
+~
+417 0 1
+D2
+~
+~
+0 -1 41759
+D4
+~
+~
+0 -1 41761
+Z-1
+C-1
+S
+#41761
+Third Floor~
+ 
+  {BLA,BO}These seem to be simple wooden steps. There is nothing 
+  special about them. There are very few paintings on the 
+  walls, and doors leading to bedrooms all over the place.{bla,bo}
+ 
+~
+417 0 1
+D1
+~
+~
+0 -1 41762
+D5
+~
+~
+0 -1 41760
+Z-1
+C-1
+S
+#41762
+Third Floor~
+ 
+  {BLA,BO}These seem to be simple wooden steps. There is nothing 
+  special about them. There are very few paintings on the 
+  walls, and doors leading to bedrooms all over the place.{bla,bo}
+ 
+~
+417 0 1
+D2
+~
+~
+0 -1 41763
+D3
+~
+~
+0 -1 41761
+Z-1
+C-1
+S
+#41763
+Third Floor~
+ 
+  {BLA,BO}These seem to be simple wooden steps. There is nothing 
+  special about them. There are very few paintings on the 
+  walls, and doors leading to bedrooms all over the place.{bla,bo}
+ 
+~
+417 0 1
+D0
+~
+~
+0 -1 41762
+D4
+~
+~
+0 -1 41764
+Z-1
+C-1
+S
+#41764
+Fourth Floor~
+ 
+  {BLA,BO}These seem to be simple wooden steps. There is nothing 
+  special about them. There are very few paintings on the 
+  walls, and doors leading to bedrooms all over the place.{bla,bo}
+ 
+~
+417 0 1
+D3
+~
+~
+0 -1 41765
+D5
+~
+~
+0 -1 41763
+Z-1
+C-1
+S
+#41765
+Fourth Floor~
+ 
+  {BLA,BO}These seem to be simple wooden steps. There is nothing 
+  special about them. There are very few paintings on the 
+  walls, and doors leading to bedrooms all over the place.{bla,bo}
+ 
+~
+417 0 1
+D0
+~
+~
+0 -1 41766
+D1
+~
+~
+0 -1 41764
+Z-1
+C-1
+S
+#41766
+Fourth Floor~
+ 
+  {BLA,BO}These seem to be simple wooden steps. There is nothing 
+  special about them. There are very few paintings on the 
+  walls, and doors leading to bedrooms all over the place.{bla,bo}
+ 
+~
+417 0 1
+D2
+~
+~
+0 -1 41765
+D4
+~
+~
+0 -1 41767
+Z-1
+C-1
+S
+#41767
+Top Floor~
+  
+  {BLA,BO}At the top of the stairs you see a huge wooden door 
+  most likely leading to an office. In front of the door 
+  there are two men.{bla,bo}
+  
+~
+417 4 1
+D0
+An extremely solid door bars your path north.
+ 
+~
+door~
+1 41738 41768
+D5
+~
+~
+0 -1 41766
+Z-1
+C-1
+S
+#41768
+The M'Hael's Room~
+ 
+  {BL,BO}This room is rather simple. There is nothing but a desk 
+  and chairs. Standing behind the desk is a man in a black 
+  uniform with a silver pin in the shape of a sword.{bl}
+ 
+~
+417 128 1
+D2
+~
+door~
+1 -1 41767
+Z-1
+C-1
+S
+#41769
+Approaching Illian~
+ 
+  {W,BO}As you exit the gateway you notice that you are in 
+  some kind of port. There seem to be a lot of people 
+  going from place to place doing business. In front of 
+  you is a huge gate leading in to the city.{w,bo}
+ 
+~
+417 0 1
+D0
+~
+~
+0 -1 41770
+Z-1
+C-1
+S
+#41770
+The Main Gate of Illian~
+ 
+  {W,BO}As you approach the gate two guards step in front of 
+  you to prevent you from entering. Through the gate 
+  you can see the city square.{w}
+ 
+~
+417 0 1
+D0
+~
+gate~
+2 41733 41771
+D2
+~
+~
+0 -1 41769
+Z-1
+C-1
+S
+#41771
+The City Square~
+ 
+  {W,BO}The City Square of Illian is most likely the busiest 
+  part of the city. All kinds of shops line the square, 
+  and there are many people.{w,bo}
+ 
+~
+417 0 1
+D0
+~
+~
+0 -1 41775
+D1
+~
+~
+0 -1 41772
+D2
+~
+gate~
+1 -1 41770
+D3
+~
+~
+0 -1 41773
+Z-1
+C-1
+S
+#41772
+The City Square~
+ 
+  {W,BO}The City Square of Illian is most likely the busiest 
+  part of the city. All kinds of shops line the square, 
+  and there are many people.{w,bo}
+ 
+~
+417 0 1
+D0
+~
+~
+0 -1 41776
+D3
+~
+~
+0 -1 41771
+Z-1
+C-1
+S
+#41773
+The City Square~
+ 
+  {W,BO}The City Square of Illian is most likely the busiest 
+  part of the city. All kinds of shops line the square, 
+  and there are many people.{w,bo}
+ 
+~
+417 0 1
+D0
+~
+~
+0 -1 41774
+D1
+~
+~
+0 -1 41771
+Z-1
+C-1
+S
+#41774
+The City Square~
+ 
+  {W,BO}The City Square of Illian is most likely the busiest 
+  part of the city. All kinds of shops line the square, 
+  and there are many people.{w,bo}
+ 
+~
+417 0 1
+D0
+~
+~
+0 -1 41779
+D1
+~
+~
+0 -1 41775
+D2
+~
+~
+0 -1 41773
+Z-1
+C-1
+S
+#41775
+The City Square~
+ 
+  {W,BO}The City Square of Illian is most likely the busiest 
+  part of the city. All kinds of shops line the square, 
+  and there are many people.{w,bo}
+ 
+~
+417 0 1
+D0
+~
+~
+0 -1 41778
+D1
+~
+~
+0 -1 41776
+D2
+~
+~
+0 -1 41771
+D3
+~
+~
+0 -1 41774
+Z-1
+C-1
+S
+#41776
+The City Square~
+ 
+  {W,BO}The City Square of Illian is most likely the busiest 
+  part of the city. All kinds of shops line the square, 
+  and there are many people.{w,bo}
+ 
+~
+417 0 1
+D0
+~
+~
+0 -1 41777
+D2
+~
+~
+0 -1 41772
+D3
+~
+~
+0 -1 41775
+Z-1
+C-1
+S
+#41777
+The City Square~
+ 
+  {W,BO}The City Square of Illian is most likely the busiest 
+  part of the city. All kinds of shops line the square, 
+  and there are many people.{w,bo}
+ 
+~
+417 0 1
+D2
+~
+~
+0 -1 41776
+D3
+~
+~
+0 -1 41778
+Z-1
+C-1
+S
+#41778
+The City Square~
+ 
+  {W,BO}The City Square of Illian is most likely the busiest 
+  part of the city. All kinds of shops line the square, 
+  and there are many people.{w,bo}
+ 
+~
+417 0 1
+D0
+~
+~
+0 -1 41780
+D1
+~
+~
+0 -1 41777
+D2
+~
+~
+0 -1 41775
+D3
+~
+~
+0 -1 41779
+Z-1
+C-1
+S
+#41779
+The City Square~
+ 
+  {W,BO}The City Square of Illian is most likely the busiest 
+  part of the city. All kinds of shops line the square, 
+  and there are many people.{w,bo}
+ 
+~
+417 0 1
+D1
+~
+~
+0 -1 41778
+D2
+~
+~
+0 -1 41774
+Z-1
+C-1
+S
+#41780
+Main Street~
+ 
+  {W,BO}The Main Street of Illian is almost as busy as the city 
+  square. Shops line the street, and there are a lot of people 
+  going from place to place. Occasionally there is a guard 
+  patrolling trying to keep peace in the city.{w,bo}
+ 
+~
+417 0 1
+D0
+~
+~
+0 -1 41781
+D2
+~
+~
+0 -1 41778
+Z-1
+C-1
+S
+#41781
+Main Street~
+ 
+  {W,BO}The Main Street of Illian is almost as busy as the city 
+  square. Shops line the street, and there are a lot of people 
+  going from place to place. Occasionally there is a guard 
+  patrolling trying to keep peace in the city.{w,bo}
+ 
+~
+417 0 1
+D0
+~
+~
+0 -1 41782
+D2
+~
+~
+0 -1 41780
+Z-1
+C-1
+S
+#41782
+Gates to the Palace~
+ 
+  {W,BO}The gates to the palace seem to be heavily guarded.
+  Beyond the gates you can see the doors to the palace.
+  The doors are open, leading to a very long hall. If you
+  could only get past the guards, you could get in.{w,bo}
+ 
+~
+417 0 1
+D0
+~
+gate~
+2 41750 41783
+D2
+~
+~
+0 -1 41781
+Z-1
+C-1
+S
+#41783
+Grand Hall~
+  
+  {W,BO}The Grand Hall of the palace is almost breathtaking. A huge 
+  red carpet with gold trim runs up the middle of it, and paintings 
+  line the wall. Guards are positioned throughout the hall to protect 
+  the king from anyone that would seek to cause harm.{w,bo}
+ 
+~
+417 0 1
+D0
+~
+~
+0 -1 41798
+D1
+~
+~
+0 -1 41792
+D2
+~
+gate~
+1 -1 41782
+D3
+~
+~
+0 -1 41786
+Z-1
+C-1
+S
+#41784
+Before the Throne~
+ 
+  {W,BO}The red carpet comes to a stop and so do the paintings. 
+  Through the open door you can see someone in the throne 
+  room. There are two guards trying to keep you out.{w,bo}
+ 
+~
+417 0 1
+D0
+~
+~
+0 -1 41785
+D2
+~
+~
+0 -1 41799
+Z-1
+C-1
+S
+#41785
+The Throne Room~
+  
+  {W,BO}As you walk into this room you see a man sitting on 
+  a throne. There is a chandelier hanging from the ceiling 
+  and paintings are all over the room. Servants are running 
+  back and forth doing the king's bidding.{w,bo}
+ 
+~
+417 16 1
+D2
+~
+~
+0 -1 41784
+Z-1
+C-1
+S
+#41786
+A Hallway~
+  
+  {W,BO}This hallway is relatively dull compared to the one you 
+  just came from. The red carpet continues, but there are no 
+  paintings. There are occasional doorways throughout the hall.{w,bo}
+ 
+~
+417 0 1
+D0
+~
+~
+0 -1 41789
+D1
+~
+~
+0 -1 41783
+D3
+~
+~
+0 -1 41787
+Z-1
+C-1
+S
+#41787
+A Hallway~
+  
+  {W,BO}This hallway is relatively dull compared to the one you 
+  just came from. The red carpet continues, but there are no 
+  paintings. There are occasional doorways throughout the hall.{w,bo}
+ 
+~
+417 0 1
+D1
+~
+~
+0 -1 41786
+D2
+~
+~
+0 -1 41790
+D3
+~
+~
+0 -1 41788
+Z-1
+C-1
+S
+#41788
+A Hallway~
+  
+  {W,BO}This hallway is relatively dull compared to the one you 
+  just came from. The red carpet continues, but there are no 
+  paintings. There are occasional doorways throughout the hall.{w,bo}
+ 
+~
+417 0 1
+D0
+~
+~
+0 -1 41791
+D1
+~
+~
+0 -1 41787
+Z-1
+C-1
+S
+#41789
+A Room~
+ 
+  {W,BO}There isn't much to this room. There is a bed, a table, 
+  and a few chairs.{w,bo}
+ 
+~
+417 0 1
+D2
+~
+~
+0 -1 41786
+Z-1
+C-1
+S
+#41790
+A Room~
+ 
+  {W,BO}There isn't much to this room. There is a bed, a table, 
+  and a few chairs.{w,bo}
+ 
+~
+417 0 1
+D0
+~
+~
+0 -1 41787
+Z-1
+C-1
+S
+#41791
+A Room~
+ 
+  {W,BO}There isn't much to this room. There is a bed, a table, 
+  and a few chairs.{w,bo}
+ 
+~
+417 0 1
+D2
+~
+~
+0 -1 41788
+Z-1
+C-1
+S
+#41792
+A Hallway~
+  
+  {W,BO}This hallway is relatively dull compared to the one you 
+  just came from. The red carpet continues, but there are no 
+  paintings. There are occasional doorways throughout the hall.{w,bo}
+ 
+~
+417 0 1
+D1
+~
+~
+0 -1 41793
+D2
+~
+~
+0 -1 41795
+D3
+~
+~
+0 -1 41783
+Z-1
+C-1
+S
+#41793
+A Hallway~
+  
+  {W,BO}This hallway is relatively dull compared to the one you 
+  just came from. The red carpet continues, but there are no 
+  paintings. There are occasional doorways throughout the hall.{w,bo}
+ 
+~
+417 0 1
+D0
+~
+~
+0 -1 41796
+D1
+~
+~
+0 -1 41794
+D3
+~
+~
+0 -1 41792
+Z-1
+C-1
+S
+#41794
+A Hallway~
+  
+  {W,BO}This hallway is relatively dull compared to the one you 
+  just came from. The red carpet continues, but there are no 
+  paintings. There are occasional doorways throughout the hall.{w,bo}
+ 
+~
+417 0 1
+D2
+~
+~
+0 -1 41797
+D3
+~
+~
+0 -1 41793
+Z-1
+C-1
+S
+#41795
+A Room~
+ 
+  {W,BO}There isn't much to this room. There is a bed, a table, 
+  and a few chairs.{w,bo}
+ 
+~
+417 0 1
+D0
+~
+~
+0 -1 41792
+Z-1
+C-1
+S
+#41796
+A Room~
+ 
+  {W,BO}There isn't much to this room. There is a bed, a table, 
+  and a few chairs.{w,bo}
+ 
+~
+417 0 1
+D2
+~
+~
+0 -1 41793
+Z-1
+C-1
+S
+#41797
+A Room~
+ 
+  {W,BO}There isn't much to this room. There is a bed, a table, 
+  and a few chairs.{w,bo}
+ 
+~
+417 16 1
+D0
+~
+~
+0 -1 41794
+Z-1
+C-1
+S
+#41798
+Grand Hall~
+  
+  {W,BO}The Grand Hall of the palace is almost breathtaking. A huge 
+  red carpet with gold trim runs up the middle of it, and paintings 
+  line the wall. Guards are positioned throughout the hall to protect 
+  the king from anyone that would seek to cause harm.{w,bo}
+ 
+~
+417 0 1
+D0
+~
+~
+0 -1 41799
+D2
+~
+~
+0 -1 41783
+Z-1
+C-1
+S
+#41799
+Grand Hall~
+  
+  {W,BO}The Grand Hall of the palace is almost breathtaking. A huge 
+  red carpet with gold trim runs up the middle of it, and paintings 
+  line the wall. Guards are positioned throughout the hall to protect 
+  the king from anyone that would seek to cause harm.{w,bo}
+ 
+~
+417 0 1
+D0
+~
+~
+0 -1 41784
+D2
+~
+~
+0 -1 41798
+Z-1
+C-1
+S
+$~

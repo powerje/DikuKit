@@ -1,0 +1,122 @@
+#170
+ MarbleLabyrinth(Keena)~
+17099 15 2
+*
+O 0 17018 1 17000   ; A Marble plaque
+D 0 17000 0 1   ; Entrance to the Labyrinth
+D 0 17000 1 1   ; Entrance to the Labyrinth
+D 0 17000 2 1   ; Entrance to the Labyrinth
+D 0 17000 3 1   ; Entrance to the Labyrinth
+D 0 17000 4 1   ; Entrance to the Labyrinth
+D 0 17000 5 1   ; Entrance to the Labyrinth
+M 0 17004 10 17004   ; The Displacer Beast
+M 0 17004 10 17004   ; The Displacer Beast
+M 0 17006 2 17005   ; An otyugh
+M 0 17007 1 17005   ; The Neo Otyugh
+M 0 17006 2 17005   ; An otyugh
+M 0 17001 10 17007   ; A giant scorpion
+E 1 17001 10 17   ; A scorpion's sting
+M 0 17001 10 17008   ; A giant scorpion
+E 1 17001 10 17   ; A scorpion's sting
+M 0 17004 10 17009   ; The Displacer Beast
+M 0 17001 10 17013   ; A giant scorpion
+E 1 17001 10 17   ; A scorpion's sting
+M 0 17001 10 17013   ; A giant scorpion
+E 1 17001 10 17   ; A scorpion's sting
+M 0 17004 10 17014   ; The Displacer Beast
+M 0 17003 10 17015   ; The Bugbear
+M 0 17001 10 17018   ; A giant scorpion
+E 1 17001 10 17   ; A scorpion's sting
+D 0 17018 2 1   ; A Junction in the Labyrinth
+M 0 17001 10 17020   ; A giant scorpion
+E 1 17001 10 17   ; A scorpion's sting
+M 0 17002 10 17024   ; An Ankheg
+M 0 17001 10 17029   ; A giant scorpion
+E 1 17001 10 17   ; A scorpion's sting
+M 0 17004 10 17029   ; The Displacer Beast
+M 0 17003 10 17030   ; The Bugbear
+D 0 17032 1 1   ; A Junction in the Labyrinth
+D 0 17033 3 1   ; A Junction in the Labyrinth
+M 0 17003 10 17036   ; The Bugbear
+M 0 17002 10 17037   ; An Ankheg
+M 0 17003 10 17038   ; The Bugbear
+M 0 17004 10 17042   ; The Displacer Beast
+M 0 17004 10 17043   ; The Displacer Beast
+M 0 17003 10 17047   ; The Bugbear
+D 0 17047 0 1   ; A Junction in the Labyrinth
+M 0 17001 10 17049   ; A giant scorpion
+E 1 17001 10 17   ; A scorpion's sting
+M 0 17004 10 17050   ; The Displacer Beast
+M 0 17003 10 17056   ; The Bugbear
+M 0 17002 10 17058   ; An Ankheg
+M 0 17003 10 17059   ; The Bugbear
+M 0 17002 10 17062   ; An Ankheg
+M 0 17002 10 17062   ; An Ankheg
+M 0 17003 10 17062   ; The Bugbear
+M 0 17000 11 17063   ; The elven guard
+M 0 17005 11 17063   ; The Giant Cooshee
+D 0 17063 2 1   ; Guardians Chamber
+M 0 17000 11 17064   ; The elven guard
+M 0 17005 11 17064   ; The Giant Cooshee
+D 0 17064 2 1   ; Guardians Chamber
+M 0 17008 1 17065   ; A cutesy furball
+E 1 17017 1 5   ; A finely woven scarf
+D 0 17065 2 1   ; Furrball's room
+D 0 17066 0 1   ; A Dead End in the Labyrinth
+D 0 17067 0 1   ; A Junction in the Labyrinth
+M 0 17004 10 17069   ; The Displacer Beast
+D 0 17070 1 1   ; A Bend in the Labyrinth
+M 0 17000 11 17071   ; The elven guard
+M 0 17005 11 17071   ; The Giant Cooshee
+D 0 17071 3 1   ; Guardians Chamber
+M 0 17001 10 17072   ; A giant scorpion
+E 1 17001 10 17   ; A scorpion's sting
+M 0 17001 10 17072   ; A giant scorpion
+E 1 17001 10 17   ; A scorpion's sting
+M 0 17004 10 17073   ; The Displacer Beast
+D 0 17073 1 1   ; A Junction in the Labyrinth
+M 0 17000 11 17074   ; The elven guard
+M 0 17005 11 17074   ; The Giant Cooshee
+D 0 17074 3 1   ; Guardians Chamber
+D 0 17076 1 1   ; A Bend in the Labyrinth
+M 0 17000 11 17077   ; The elven guard
+M 0 17005 11 17077   ; The Giant Cooshee
+D 0 17077 3 1   ; Guardians Chamber
+M 0 17000 11 17078   ; The elven guard
+M 0 17005 11 17078   ; The Giant Cooshee
+D 0 17078 1 1   ; Guardians Chamber
+D 0 17079 3 1   ; A Bend in the Labyrinth
+M 0 17002 10 17080   ; An Ankheg
+M 0 17005 11 17081   ; The Giant Cooshee
+M 0 17000 11 17081   ; The elven guard
+E 1 17002 2 5   ; elven chainmail shirt
+D 0 17081 1 1   ; Guardians Chamber
+M 0 17002 10 17082   ; An Ankheg
+M 0 17003 10 17082   ; The Bugbear
+M 0 17002 10 17082   ; An Ankheg
+D 0 17082 3 1   ; A Junction in the Labyrinth
+M 0 17002 10 17083   ; An Ankheg
+M 0 17000 11 17084   ; The elven guard
+M 0 17005 11 17084   ; The Giant Cooshee
+D 0 17084 1 1   ; Guardians Chamber
+M 0 17002 10 17085   ; An Ankheg
+D 0 17085 3 1   ; A Bend in the Labyrinth
+M 0 17003 10 17086   ; The Bugbear
+D 0 17087 2 1   ; A Dead End in the Labyrinth
+D 0 17088 2 1   ; A Junction in the Labyrinth
+D 0 17089 2 1   ; A Dead End in the Labyrinth
+M 0 17000 11 17090   ; The elven guard
+M 0 17005 11 17090   ; The Giant Cooshee
+D 0 17090 0 1   ; Guardians Chamber
+M 0 17000 11 17091   ; The elven guard
+M 0 17005 11 17091   ; The Giant Cooshee
+D 0 17091 0 1   ; Guardians Chamber
+M 0 17000 11 17092   ; The elven guard
+M 0 17005 11 17092   ; The Giant Cooshee
+D 0 17092 0 1   ; Guardians Chamber
+D 0 17093 0 2   ; Landing
+D 0 17096 2 1   ; The Long Hall
+M 0 17009 1 17099   ; The Palace Guardian
+E 1 17019 1 17   ; The rod of Keena
+D 0 17099 4 1   ; Stairs
+$~

@@ -1,0 +1,2698 @@
+#200
+{Y,BO}--======{b}{Y}(+- {BLU,BO}Underworld Sanctuary{b} {Y}-+){Y,BO}======--{b}~
+
+{BLUE,BO}                **       {GR,BO}**     ** **   **       {BLUE,BO}**{b}  
+{BLUE,BO}               **{b}       {GR}/{GR,BO}**{g}    {GR}/{GR,BO}**{g}{GR}/{GR,BO}**  **{g}       {BLUE}//{BLUE,BO}**{b} 
+{BLUE,BO}              **{b}        {GR}/{GR,BO}**{g}    {GR}/{GR,BO}**{g}{GR}/{GR,BO}** **{g}         {BLUE}//{b}{BLUE,BO}**{b}
+{BLUE}             /{BLUE,BO}**{b}        {GR}/{GR,BO}**{g}    {GR}/{GR,BO}**{b}{GR}/{GR,BO}****{b}           {BLUE}/{BLUE,BO}**{b}
+{BLUE}             /{BLUE,BO}**{b}        {GR}/{GR,BO}**{b}    {GR}/{GR,BO}**{g}{GR}/{GR,BO}**{g}{GR}/{GR,BO}**{b}          {BLUE}/{BLUE,BO}**{b}
+{BLUE}             //{BLUE,BO}**{b}       {GR}/{GR,BO}**{g}    {GR}/{GR,BO}**{g}{GR}/{GR,BO}**{b}{GR}//{GR,BO}**         {BLUE,BO}** {b}
+{BLUE}              //{BLUE,BO}**{b}      {GR}//{GR,BO}******* {b}{GR}/{GR,BO}**{b} {GR}//{GR,BO}**       {BLUE,BO}**{b}  
+{BLUE}               //        {GR}///////  //   //       {BLUE}//{b} 
+
+~
+2 66572 0
+D0
+~
+~
+0 -1 3014
+D1
+~
+~
+0 -1 28599
+D2
+~
+maze~
+1 -1 263
+D3
+~
+~
+0 -1 203
+D4
+~
+~
+0 -1 258
+D5
+~
+Underworld~
+1 -1 201
+E
+sign wall~
+Instructions:
+There can occur numbers from 0 to 36. You can either choose a number
+or choose pair or unpair. Depending on the range of the number you
+have chosen you win an amount of money.
+
+The command is:
+
+bet <number, pair, unpair> <amount (default: 1000)>
+
+The drawings are each tick.
+~
+Z-1
+C-1
+R0
+S
+#201
+{GREEN,BOLD}Deeper into the {BLUE,BOLD}Sanctuary{b}~
+
+{R} To the north there is the UK repair room. It has a grindstone
+{R} workbench to repair your equipment. To your east there is the
+{R} club donation room containing equipment other players no longer
+{R} need. Lots of the members come here to hang out and gather.
+{R} down below you there is a staircase going to other parts of
+{R} the clubhouse.{r}
+
+~
+2 0 0
+D0
+~
+~
+0 -1 259
+D1
+~
+~
+0 -1 202
+D2
+~
+~
+0 -1 257
+D4
+~
+Underworld~
+1 -1 200
+D5
+~
+~
+0 -1 206
+Z-1
+C-1
+R0
+S
+#202
+{BO}{BLU}The {G}Underworld {BLU}Donation Room{blu}~
+  
+   Any equipment that you want donated can be left in this room.  Chances
+   are, even after a crash, the equipment will still be here.  You see a
+   large sign above you which states, "There's NO GUARANTEE that someone
+   won't take your stuff.  The Underworld is not responsible for personal
+   losses." Do not donate something if you don't want someone else to have
+   it.  Also, if you donate limited items, they will be destroyed in the
+   transfer.
+  
+~
+2 65544 0
+D3
+~
+~
+0 -1 201
+Z-1
+C-1
+R0
+S
+#203
+Silent's Room~
+   A man's room. A queen sized bed. A small bedside table.
+   A small desk with a simple lamp on it. One large window
+   looks out onto Market Square.
+
+~
+2 8 0
+D1
+~
+~
+0 -1 200
+Z-1
+C-1
+R0
+S
+#204
+{BO,BLUE}({G}UK{BLUE}) {Y}MAZE{bo,y}~
+  
+  
+  {BO,BLACK}You find yourself in a long, dark tunnel.  The steam from the underground
+  river surrounds everything with a hazy fog.  As you step deeper within the
+  abyss, the air is gradually becoming less breathable.  Continuing on this
+  path will only bring you misery.{bo,black}
+
+
+~
+2 1 0
+D0
+~
+~
+0 -1 279
+D1
+~
+WrOnGtURn~
+1 -1 229
+D2
+~
+GoThIsWaY~
+1 -1 205
+E
+sign~
+It says 'MEMBERS OF OTHER CLUBS ARE NOT WELCOME'.
+~
+Z0
+C-1
+R0
+S
+#205
+{BO,BLUE}({G}UK{BLUE}) {Y}MAZE{bo,y}~
+  
+  
+  {BO,BLACK}You find yourself in a long, dark tunnel.  The steam from the underground
+  river surrounds everything with a hazy fog.  As you step deeper within the
+  abyss, the air is gradually becoming less breathable.  Continuing on this
+  path will only bring you misery.{bo,black}
+  
+  
+~
+2 1048577 0
+D3
+~
+closed~
+1 -1 204
+Z0
+C-1
+R0
+S
+#206
+{BLACK,BOLD}Marked for Death{b}~
+
+{G} Death, the Underworlds protector sits in a corner watching you closely.
+{G} The staircase to your west leads up into the club board room. Your eyes
+{G} look towards the staircase on your east, and notice that it goes up into
+{G} the Underworld dining room and living quarters for most of the members.{g}
+
+~
+2 8 1
+D1
+~
+~
+0 -1 211
+D3
+~
+~
+0 -1 210
+D4
+~
+~
+0 -1 201
+Z-1
+C-1
+R0
+S
+#210
+{BLUE,BOLD}Underworld Boards{b}~
+
+{BLU} Your eyes relax. The light is easy, and air perfect. You look around
+{BLU} and see a few boards on the floor. Each one of the containing different
+{BLU} words and messages. There are paintings on the walls of many leaders
+{BLU} of UK such as Tsukai, Oblivion, and Darrious. The club board is to
+{BLU} the north. The NCC board is to the west, and the poetry board is to
+{BLU} the east
+
+~
+2 4 0
+D0
+~
+~
+0 -1 274
+D1
+~
+~
+0 -1 206
+D2
+~
+~
+0 -1 216
+D3
+~
+~
+0 -1 215
+E
+building buildings~
+Hmmmmm.... try to decide at which building you would like to look.
+~
+E
+underworld uk~
+A wooden sign says 'Here lies the entrance to the Underworld.'
+~
+E
+crc confectionary~
+Enter members to the pleasant, relaxing fun filled CRC
+confectionary club area.  All your candy desires can be
+filled inside.  The founder, Richter, welcomes you and wishes
+you the best in your life endeavors!
+~
+Z-1
+C-1
+R0
+S
+#211
+{BLACK,BOLD}Dining Room{b}~
+
+{BLACK,BOLD} There is a fridge in the corner or the room filled with beef
+{BLACK,BOLD} stew. A few of the club members usually come here to reside.
+{BLACK,BOLD} Up the staircase are the living quarters for most of the club
+{BLACK,BOLD} members. To the south there is a room containing nothing but
+{BLACK,BOLD} a coffin.{b}
+
+~
+2 0 0
+D2
+~
+~
+0 -1 212
+D3
+~
+~
+0 -1 206
+D4
+~
+~
+0 -1 252
+E
+sign~
+	This is the old tournament ground of TechnoII.  Players can 
+have battles here without loosing or gaining experience.
+~
+Z-1
+C-1
+R0
+S
+#212
+{RED}Large Space{r}~
+
+{R} The room is a large space in the club house. To the south
+{R} you seem to be able to reach the recall room. The room is
+{R} made of stone. The floors are hard and cracked, and the
+{R} walls appear to be able to cave in at any minute. A large
+{R} stained-glass illustration of UK is on the wall.{r}
+
+~
+2 0 1
+D0
+~
+~
+0 -1 211
+D2
+~
+~
+0 -1 200
+Z0
+C-1
+R0
+S
+#213
+Level 3 of the UK Residential Area~
+
+{BLACK} As you walk through the hallowed halls of the Underworld Knights
+{BLACK} you notice that members have apartments here. To the north you
+{BLACK} see Cait's room, to the west you see Berkana's chamber, to the
+{BLACK} south you see Stare's Labirynth, and to the east you see Kuno's
+{BLACK} dojo.{b}
+
+~
+2 0 1
+D0
+~
+~
+0 -1 222
+D1
+~
+~
+0 -1 251
+D2
+~
+~
+0 -1 224
+D3
+~
+~
+0 -1 223
+D4
+~
+~
+0 -1 214
+D5
+~
+~
+0 -1 253
+Z0
+C-1
+R0
+S
+#214
+Level 4 of the UK Residential Area~
+
+{R} As you walk through the hallowed halls of the Underworld Knights
+{R} you notice that members have apartments here. To the north you
+{R} see Image's room. Above you there is a path to the recall room.{r}
+
+~
+2 0 1
+D0
+~
+~
+0 -1 261
+D4
+~
+~
+0 -1 200
+D5
+~
+~
+0 -1 213
+Z0
+C-1
+R0
+S
+#215
+{R}Ideas{r}~
+
+{R}  The NCC board sits on the floor waiting to be read. A few
+{R}  golden statues line the walls resembling members of the Underworld
+{R}  Knights.{r}
+
+~
+2 0 1
+D1
+~
+~
+0 -1 210
+Z-1
+C-1
+R0
+S
+#216
+{BLACK,BOLD}Fix You{black}~
+
+{BLACK,BOLD} When you try your best but you don't succeed.
+{BLACK,BOLD} When you get what you want but not what you need.
+{BLACK,BOLD} When you feel so tired but you can't sleep.
+{BLACK,BOLD} Stuck in reverse.
+
+{BLACK,BOLD} And the tears come streaming down your face.
+{BLACK,BOLD} When you lose something you can't replace.
+{BLACK,BOLD} When you love someone but it goes to waste.
+{BLACK,BOLD} Could it be worse?
+
+{RED,BOLD} Lights will guide you home.
+{RED,BOLD} And ignite your bones.
+{RED,BOLD} And I will try to fix you.
+
+{BLACK,BOLD} And high up above or down below.
+{BLACK,BOLD} When you're too in love to let it go.
+{BLACK,BOLD} But if you never try you'll never know.
+{BLACK,BOLD} Just what you're worth.
+
+{RED,BOLD} Lights will guide you home.
+{RED,BOLD} And ignite your bones.
+{RED,BOLD} And I will try to fix you.
+
+{BLACK,BOLD} Tears stream down your face.
+{BLACK,BOLD} When you lose something you cannot replace
+{BLACK,BOLD} Tears stream down your face
+
+~
+2 1 0
+D0
+~
+~
+0 -1 210
+Z-1
+C-1
+R0
+S
+#220
+Winding Tunnel~
+DEATH!
+~
+2 142 0
+E
+poster postersž~
+You are looking a the deeds of the FYS-members, who fought against the EVIL
+with valor without equal. The fame is them certain and they never will be
+forgotten.
+~
+Z-1
+C-1
+R0
+S
+#221
+Wyverns' and Athena's Apartment~
+You look around this large room and see on one wall many beautiful works
+of art, apparently drawn by Athena.  Against the opposing  wall is a large
+Swedish flag. Strun about the room are various fragments of clothing. In the
+center of the room is a large bed that sits like 3 feet off the ground. There
+is a small kitchen that is off to the south.
+~
+2 8 0
+D0
+~
+Door~
+1 -1 253
+Z-1
+C-1
+R0
+S
+#222
+{BO}{M}--{BLU}=={M} Cait {BLU}=={M}--{m}~
+   
+   As you stand in this room a sense of peace and
+   tranquility washes over you.  The pale green 
+   walls relax you.  A skylight high above you 
+   allows the sun to shine down and refresh you.
+  
+~
+2 8 0
+D2
+~
+~
+0 -1 213
+Z-1
+C-1
+R0
+S
+#223
+Berkana's Hall~
+
+  "You see a cozy room decorated in deep purple and warm 
+  yellow. There is very little furniture in the place. A pastel 
+  yellow futon lies against the wall, while a small cherry wood 
+  table stands in the center. Apparently, Berkana doesn't 
+  spend much time here, but there is a basket of large red 
+  apples. Berkana's favorite, upon the table."
+
+~
+2 8 0
+D1
+~
+~
+0 -1 213
+Z-1
+C-1
+R0
+S
+#224
+Strae's Labirynth~
+
+  Fighting against spider webs you stumble into the cave. Pausing 
+  for a breath your eyes try to adjust to the darkness and the complete 
+  silence offers a moment of introspection.  
+
+  {R}Damn. you've taken a wrong turn. How the hell did you get here? {r}
+
+  At the far end of the cave a multiplicity of paths onwards present 
+  themselves. How should you choose? The urge to linger in the warmth 
+  of nothingness invites you. - Then a flicker seen out of the corner of 
+  your eyes. Searching the shadows you realize that maybe you aren't 
+  alone after all.
+
+~
+2 8 0
+D0
+~
+~
+0 -1 213
+Z-1
+C-1
+R0
+S
+#225
+Cryptkeeper~
+
+                      {BO,BLACK}The Crypt{bo}
+
+  {BO,BLACK}There are no flowers in this room, feeble screams
+  of the dying souls echo inside these walls. Dark runes cover
+  these walls and you can feel death crawling near.
+
+  You can see a strange company, sitting in the middle of this
+  room, giving you the creeps. They all are his children, his
+  followers, the unholy knights of the Underwolrd!{bo}
+
+          {BO,CY}<======{BL}(({bo}{YE}{}=={BO,CY}o{RE}CryptKeeper {CY}o{bo}{YE}=={BO,BL})){CY}======>{bo}
+
+~
+2 65544 0
+D1
+~
+Door~
+1 -1 253
+Z-1
+C-1
+R0
+S
+#226
+{BO,BLUE}({G}UK{BLUE}) {Y}MAZE{bo,y}~
+  
+  
+  {BO,BLACK}You find yourself in a long, dark tunnel.  The steam from the underground
+  river surrounds everything with a hazy fog.  As you step deeper within the
+  abyss, the air is gradually becoming less breathable.  Continuing on this
+  path will only bring you misery.{bo,black}
+  
+  
+~
+2 5 0
+D0
+~
+~
+0 -1 243
+D1
+~
+~
+0 -1 244
+D2
+~
+~
+0 -1 231
+D3
+~
+~
+0 -1 205
+D4
+~
+~
+0 -1 244
+D5
+~
+~
+0 -1 244
+Z0
+C-1
+R0
+S
+#227
+{BO,BLUE}({GR}UK{BLUE}) {Y}MAZE{bo,y}~
+  
+  
+  {BO,BLACK}You find yourself in a long, dark tunnel.  The steam from the underground
+  river surrounds everything with a hazy fog.  As you step deeper within the
+  abyss, the air is gradually becoming less breathable.  Continuing on this
+  path will only bring you misery.{bo,black}
+  
+  
+~
+2 1049609 1
+D4
+~
+~
+0 -1 229
+D5
+~
+~
+0 -1 243
+Z20
+C-1
+R0
+S
+#228
+{BO,BLUE}({GR}UK{BLUE}) {Y}MAZE{bo,y}~
+  
+  
+  {BO,BLACK}You find yourself in a long, dark tunnel.  The steam from the underground
+  river surrounds everything with a hazy fog.  As you step deeper within the
+  abyss, the air is gradually becoming less breathable.  Continuing on this
+  path will only bring you misery.{bo,black}
+  
+  
+~
+2 1033 1
+D0
+~
+~
+0 -1 205
+D1
+~
+~
+0 -1 227
+D2
+~
+~
+0 -1 243
+D3
+~
+~
+0 -1 234
+D4
+~
+~
+0 -1 239
+D5
+~
+~
+0 -1 233
+Z20
+C-1
+R0
+S
+#229
+{BO,BLUE}({GR}UK{BLUE}) {Y}MAZE{bo,y}~
+  
+  
+  {BO,BLACK}You find yourself in a long, dark tunnel.  The steam from the underground
+  river surrounds everything with a hazy fog.  As you step deeper within the
+  abyss, the air is gradually becoming less breathable.  Continuing on this
+  path will only bring you misery.{bo,black}
+  
+  
+~
+2 1161 1
+D0
+~
+GoThIsWaY~
+1 -1 204
+D1
+~
+~
+0 -1 243
+D2
+~
+~
+0 -1 234
+D3
+~
+~
+0 -1 205
+D4
+~
+~
+0 -1 232
+D5
+~
+~
+0 -1 227
+Z20
+C-1
+R0
+S
+#230
+{BO,BLUE}({GR}UK{BLUE}) {Y}MAZE{bo,y}~
+  
+  
+  {BO,BLACK}You find yourself in a long, dark tunnel.  The steam from the underground
+  river surrounds everything with a hazy fog.  As you step deeper within the
+  abyss, the air is gradually becoming less breathable.  Continuing on this
+  path will only bring you misery.{bo,black}
+  
+  
+~
+2 1033 1
+D0
+~
+~
+0 -1 205
+D1
+~
+WrOnGtUrN~
+1 -1 226
+D2
+~
+GoThIsWay~
+1 -1 244
+D3
+~
+~
+0 -1 229
+D4
+~
+~
+0 -1 243
+D5
+~
+~
+0 -1 227
+Z20
+C-1
+R0
+S
+#231
+{BO,BLUE}({G}UK{BLUE}) {Y}MAZE{bo,y}~
+  
+  
+  {BO,BLACK}You find yourself in a long, dark tunnel.  The steam from the underground
+  river surrounds everything with a hazy fog.  As you step deeper within the
+  abyss, the air is gradually becoming less breathable.  Continuing on this
+  path will only bring you misery.{bo,black}
+  
+  
+~
+2 5 0
+D0
+~
+~
+0 -1 243
+D1
+~
+~
+0 -1 244
+D2
+~
+~
+0 -1 205
+D3
+~
+~
+0 -1 236
+D4
+~
+~
+0 -1 229
+D5
+~
+~
+0 -1 237
+Z20
+C-1
+R0
+S
+#232
+{BO,BLUE}({G}UK{BLUE}) {Y}MAZE{bo,y}~
+  
+  
+  {BO,BLACK}You find yourself in a long, dark tunnel.  The steam from the underground
+  river surrounds everything with a hazy fog.  As you step deeper within the
+  abyss, the air is gradually becoming less breathable.  Continuing on this
+  path will only bring you misery.{bo,black}
+  
+  
+~
+2 1 1
+D0
+~
+WrOnGtUrN~
+1 -1 227
+D1
+~
+~
+0 -1 205
+D2
+~
+~
+0 -1 237
+D3
+~
+~
+0 -1 229
+D4
+~
+~
+0 -1 227
+D5
+~
+~
+0 -1 239
+Z0
+C-1
+R0
+S
+#233
+{BO,BLUE}({G}UK{BLUE}) {Y}MAZE{bo,y}~
+  
+  
+  {BO,BLACK}You find yourself in a long, dark tunnel.  The steam from the underground
+  river surrounds everything with a hazy fog.  As you step deeper within the
+  abyss, the air is gradually becoming less breathable.  Continuing on this
+  path will only bring you misery.{bo,black}
+  
+  
+~
+2 1048577 1
+D4
+~
+~
+0 -1 234
+D5
+~
+~
+0 -1 227
+Z20
+C-1
+R0
+S
+#234
+{BO,BLUE}({G}UK{BLUE}) {Y}MAZE{bo,y}~
+  
+  
+  {BO,BLACK}You find yourself in a long, dark tunnel.  The steam from the underground
+  river surrounds everything with a hazy fog.  As you step deeper within the
+  abyss, the air is gradually becoming less breathable.  Continuing on this
+  path will only bring you misery.{bo,black}
+  
+  
+~
+2 5 0
+D0
+~
+~
+0 -1 228
+D1
+~
+~
+0 -1 238
+D2
+~
+~
+0 -1 232
+D3
+~
+~
+0 -1 205
+D4
+~
+~
+0 -1 244
+D5
+~
+~
+0 -1 229
+E
+sign~
+These are the RULES OF THE MERCENARY KNIGHTS:
+
+1. No MK may refuse a challenge to personal combat.
+2. An MK must come to the aid of another MK in need, if that MK asks.
+3. We do not consider mixing rules 1 & 2 dishonorable (i.e. if you
+   are challenged and ask help from another MK, that's fine).
+4. No MK may issue a challenge to another MK.
+5. Is is deemed dishonorable to show mercy in combat.
+6. Any MK breaking the above rules is exempt from help.
+7. Real MK's never flee from a fight. WIN or DIE !!!!
+~
+Z0
+C-1
+R0
+S
+#235
+{BO,BLUE}({G}UK{BLUE}) {Y}MAZE{bo,y}~
+  
+  
+  {BO,BLACK}You find yourself in a long, dark tunnel.  The steam from the underground
+  river surrounds everything with a hazy fog.  As you step deeper within the
+  abyss, the air is gradually becoming less breathable.  Continuing on this
+  path will only bring you misery.{bo,black}
+  
+  
+~
+2 5 0
+D0
+~
+~
+0 -1 230
+D1
+~
+~
+0 -1 232
+D2
+~
+WrOnGtUrN~
+1 -1 227
+D3
+~
+~
+0 -1 243
+D4
+~
+~
+0 -1 205
+D5
+~
+~
+0 -1 205
+Z0
+C-1
+R0
+S
+#236
+{BO,BLUE}({G}UK{BLUE}) {Y}MAZE{bo,y}~
+  
+  
+  {BO,BLACK}You find yourself in a long, dark tunnel.  The steam from the underground
+  river surrounds everything with a hazy fog.  As you step deeper within the
+  abyss, the air is gradually becoming less breathable.  Continuing on this
+  path will only bring you misery.{bo,black}
+  
+  
+~
+2 1048577 1
+D3
+~
+~
+0 -1 229
+D5
+~
+~
+0 -1 241
+Z0
+C-1
+R0
+S
+#237
+{BO,BLUE}({GR}UK{BLUE}) {Y}MAZE{bo,y}~
+  
+  
+  {BO,BLACK}You find yourself in a long, dark tunnel.  The steam from the underground
+  river surrounds everything with a hazy fog.  As you step deeper within the
+  abyss, the air is gradually becoming less breathable.  Continuing on this
+  path will only bring you misery.{bo,black}
+  
+  
+~
+2 1049609 1
+D0
+~
+~
+0 -1 232
+D1
+~
+WrOnGtUrn~
+1 -1 238
+D2
+~
+GoThIsWay~
+1 -1 205
+D3
+~
+~
+0 -1 243
+D5
+~
+~
+0 -1 205
+Z20
+C-1
+R0
+S
+#238
+{BO,BLUE}({G}UK{BLUE}) {Y}MAZE{bo,y}~
+  
+  
+  {BO,BLACK}You find yourself in a long, dark tunnel.  The steam from the underground
+  river surrounds everything with a hazy fog.  As you step deeper within the
+  abyss, the air is gradually becoming less breathable.  Continuing on this
+  path will only bring you misery.{bo,black}
+  
+  
+~
+2 1 1
+D0
+~
+~
+0 -1 205
+D1
+~
+~
+0 -1 227
+D2
+~
+~
+0 -1 243
+D3
+~
+~
+0 -1 229
+D4
+~
+~
+0 -1 244
+D5
+~
+~
+0 -1 233
+Z0
+C-1
+R0
+S
+#239
+{BO,BLUE}({G}UK{BLUE}) {Y}MAZE{bo,y}~
+  
+  
+  {BO,BLACK}You find yourself in a long, dark tunnel.  The steam from the underground
+  river surrounds everything with a hazy fog.  As you step deeper within the
+  abyss, the air is gradually becoming less breathable.  Continuing on this
+  path will only bring you misery.{bo,black}
+  
+  
+~
+2 1 1
+D0
+~
+~
+0 -1 229
+D1
+~
+GoThIsWay~
+1 -1 205
+D2
+~
+WrOnGtUrN~
+1 -1 244
+D3
+~
+~
+0 -1 243
+D4
+~
+~
+0 -1 227
+D5
+~
+~
+0 -1 240
+Z0
+C-1
+R0
+S
+#240
+{BO,BLUE}({GR}UK{BLUE}) {Y}MAZE{bo,y}~
+  
+  
+  {BO,BLACK}You find yourself in a long, dark tunnel.  The steam from the underground
+  river surrounds everything with a hazy fog.  As you step deeper within the
+  abyss, the air is gradually becoming less breathable.  Continuing on this
+  path will only bring you misery.{bo,black}
+  
+  
+~
+2 1033 1
+D0
+~
+~
+0 -1 239
+D1
+~
+GoThIsWaY~
+1 -1 235
+D2
+~
+~
+0 -1 238
+D3
+~
+~
+0 -1 229
+D4
+~
+~
+0 -1 205
+D5
+~
+~
+0 -1 232
+Z20
+C-1
+R0
+S
+#241
+{BO,BLUE}({G}UK{BLUE}) {Y}MAZE{bo,y}~
+  
+  
+  {BO,BLACK}You find yourself in a long, dark tunnel.  The steam from the underground
+  river surrounds everything with a hazy fog.  As you step deeper within the
+  abyss, the air is gradually becoming less breathable.  Continuing on this
+  path will only bring you misery.{bo,black}
+  
+  
+~
+2 133 0
+D0
+~
+~
+0 -1 205
+D1
+~
+~
+0 -1 232
+D2
+~
+~
+0 -1 245
+D3
+~
+~
+0 -1 244
+D5
+~
+~
+0 -1 234
+Z20
+C-1
+R0
+S
+#242
+{BO,BLUE}({GR}UK{BLUE}) {Y}MAZE{bo,y}~
+  
+  
+  {BO,BLACK}You find yourself in a long, dark tunnel.  The steam from the underground
+  river surrounds everything with a hazy fog.  As you step deeper within the
+  abyss, the air is gradually becoming less breathable.  Continuing on this
+  path will only bring you misery.{bo,black}
+  
+  
+~
+2 1033 1
+D0
+~
+~
+0 -1 227
+D1
+~
+~
+0 -1 243
+D2
+~
+~
+0 -1 246
+D3
+~
+~
+0 -1 234
+D4
+~
+~
+0 -1 232
+D5
+~
+~
+0 -1 229
+Z-1
+C-1
+R0
+S
+#243
+{BO,BLUE}({GR}UK{BLUE}) {Y}MAZE{bo,y}~
+  
+  
+  {BO,BLACK}You find yourself in a long, dark tunnel.  The steam from the underground
+  river surrounds everything with a hazy fog.  As you step deeper within the
+  abyss, the air is gradually becoming less breathable.  Continuing on this
+  path will only bring you misery.{bo,black}
+  
+  
+~
+2 1033 1
+D0
+~
+~
+0 -1 229
+D1
+~
+~
+0 -1 227
+D2
+~
+~
+0 -1 233
+D3
+~
+~
+0 -1 244
+D4
+~
+~
+0 -1 205
+D5
+~
+~
+0 -1 233
+E
+engraving~
+This pedestal made from the finest iron in the world.
+The orb above is for zoning, but must be used with caution.
+~
+E
+plaque~
+Willy Wonka was here!  "I just love CRC, it is a tribute
+to candy lovers everywhere. Have a fizzy lifting drink on
+me next time you stop by my factory"
+~
+E
+sign~
+This room completed February 1, 1993-tm Richter
+~
+Z20
+C-1
+R0
+S
+#244
+{BO,BLUE}({G}UK{BLUE}) {Y}MAZE{bo,y}~
+  
+  
+  {BO,BLACK}You find yourself in a long, dark tunnel.  The steam from the underground
+  river surrounds everything with a hazy fog.  As you step deeper within the
+  abyss, the air is gradually becoming less breathable.  Continuing on this
+  path will only bring you misery.{bo,black}
+  
+  
+~
+2 65547 0
+Z0
+C-1
+R0
+S
+#245
+{BO,BLUE}({G}UK{BLUE}) {Y}MAZE{bo,y}~
+  
+  
+  {BO,BLACK}You find yourself in a long, dark tunnel.  The steam from the underground
+  river surrounds everything with a hazy fog.  As you step deeper within the
+  abyss, the air is gradually becoming less breathable.  Continuing on this
+  path will only bring you misery.{bo,black}
+  
+  
+~
+2 5 0
+D0
+~
+~
+0 -1 205
+D1
+~
+~
+0 -1 229
+D2
+~
+~
+0 -1 244
+D3
+~
+~
+0 -1 243
+D4
+~
+~
+0 -1 205
+D5
+~
+~
+0 -1 242
+Z0
+C-1
+R0
+S
+#246
+{BO,BLUE}({G}UK{BLUE}) {Y}MAZE{bo,y}~
+  
+  
+  {BO,BLACK}You find yourself in a long, dark tunnel.  The steam from the underground
+  river surrounds everything with a hazy fog.  As you step deeper within the
+  abyss, the air is gradually becoming less breathable.  Continuing on this
+  path will only bring you misery.{bo,black}
+  
+  
+~
+2 1048577 1
+D4
+~
+~
+0 -1 204
+D5
+~
+~
+0 -1 248
+Z0
+C-1
+R0
+S
+#247
+{BO,BLUE}({GR}UK{BLUE}) {Y}MAZE{bo,y}~
+  
+  
+  {BO,BLACK}You find yourself in a long, dark tunnel.  The steam from the underground
+  river surrounds everything with a hazy fog.  As you step deeper within the
+  abyss, the air is gradually becoming less breathable.  Continuing on this
+  path will only bring you misery.{bo,black}
+  
+  
+~
+2 1165 1
+D0
+~
+~
+0 -1 233
+D1
+~
+~
+0 -1 229
+D2
+~
+~
+0 -1 248
+D3
+~
+~
+0 -1 243
+D4
+~
+~
+0 -1 205
+D5
+~
+~
+0 -1 234
+Z0
+C-1
+R0
+S
+#248
+{BO,BLUE}({G}UK{BLUE}) {Y}MAZE{bo,y}~
+  
+  
+  {BO,BLACK}You find yourself in a long, dark tunnel.  The steam from the underground
+  river surrounds everything with a hazy fog.  As you step deeper within the
+  abyss, the air is gradually becoming less breathable.  Continuing on this
+  path will only bring you misery.{bo,black}
+  
+  
+~
+2 133 0
+D0
+~
+~
+0 -1 233
+D1
+~
+~
+0 -1 205
+D2
+~
+~
+0 -1 299
+D3
+~
+~
+0 -1 229
+D4
+~
+~
+0 -1 244
+D5
+~
+~
+0 -1 238
+Z-1
+C-1
+R0
+S
+#249
+{BO,C}A Solitary Cloud In the Caverns{bo,c}~
+                          {BO,W}               *"_"*
+                                   __    /`_`\    __
+                                 .'  '. | / \ | .'  '.
+                           ,    /      ')\^_^/('      \    ,
+                           \`--'  .    (_.> <._)    .  '--`/
+                            '.__.' '._/   \_/   \_.' '.__.'
+                                     /  ,  _  ,  \
+                                     \  \_/|\_/  /
+                                      \  //^\\  /
+                                       \/`   `\/
+                    ..            ..:::.|     | ..::::.  ..
+           ..::::..::::...     .::::::::|     |:::::::::::::::.
+          ::::::::::::::::::.:::::::::::|     |:::::::::::::::::.
+          ':::::::::::{C}CYNTHIA{W}:::::::::::|     |:::::::::::::::::::
+            ::::::::::::::::::::::::::::|     |::::::::::::::::::'
+                '':::' '::::::::::::::::\_.__./:::::::::::::::''
+~
+2 0 8
+D5
+~
+~
+0 -1 297
+Z-1
+C-1
+R0
+S
+#250
+{RED,BOLD}Tsukai's Room of Might.{red}~
+
+{RED,BOLD} When you step into the room you instantly feel warm and safe.
+{RED,BOLD} A statue of the {BLUE,BOLD}({GREEN,BOLD}UK{BLUE,BOLD}) {RED,BOLD}leader{b} {RED}Tsukai {RED,BOLD}hangs up on a wall towering
+{RED,BOLD} above. As you look through the room you notie an empty glass
+{RED,BOLD} of{b} {CYAN}water {RED,BOLD}and a turned on{b} {GREEN}Xb{RED}o{GREEN}x {RED}360 {RED,BOLD}still running{b} {RED}Tsukai's {RED,BOLD}favorite
+{RED,BOLD} game, {BLACK,BOLD}Call of Duty, Black Ops{RED,BOLD}.{red}
+
+~
+2 0 0
+D1
+~
+Tsukai~
+1 -1 252
+Z-1
+C-1
+R0
+S
+#251
+Kuno's Dojo~
+Racks of weapons line the walls, and training mats pad the floors.
+You respectfully remove your shoes as you step into the training
+room. A bokken prominently displayed on the south wall catches
+your eye.  Is this the legendary blade of the Blue Thunder / Rising
+Star of Buddoken High?
+
+~
+2 1032 0
+D3
+~
+~
+0 -1 213
+Z-1
+C-1
+R0
+S
+#252
+Level 1 of the UK Residential Area~
+
+{BLACK,BOLD} You walk into the {BLUE,BOLD}({GREEN,BOLD}UK{BLUE,BOLD}) {BLACK,BOLD}Residential Area and notice the four different
+{BLACK,BOLD} apartments for different highly inspirational members of the {GREEN,BOLD}UK {BLACK,BOLD}club.
+{BLACK,BOLD} When you look north you notice the hall of Obli{RED}V{BLACK}ion. To the west you
+{BLACK,BOLD} notice the great and mighty leader {RED}Tsukai{BLACK}. {BLUE}BloodRain's {BLACK}hall lies to
+{BLACK,BOLD} the south, and to the east you see {GREEN,BOLD}FoRD's {BLACK,BOLD}chamber.{black}
+
+~
+2 8 0
+D0
+~
+Oblivion~
+1 -1 287
+D1
+~
+FoRD~
+1 -1 267
+D2
+~
+BloodRain~
+1 -1 273
+D3
+~
+Tsukai~
+1 -1 250
+D4
+~
+recall~
+1 -1 200
+D5
+~
+~
+0 -1 211
+Z-1
+C-1
+R0
+S
+#253
+Level 2 of the UK Residential Area~
+
+{BLU,BO} As you walk through the hallowed halls of the Underworld Knights
+{BLU,BO} you notice that members have apartments here. To the north you
+{BLU,BO} see Eilserus's chamber, to the south you see Wyverns room,
+{BLU,BO} to the west you see Cryptkeeper's room, and to the east you see
+{BLU,BO} Rathus's room.{b}
+
+~
+2 8 0
+D0
+~
+Door~
+1 -1 266
+D1
+~
+~
+0 -1 255
+D2
+~
+Door~
+1 -1 221
+D3
+~
+Door~
+1 -1 225
+D4
+~
+~
+0 -1 213
+Z-1
+C-1
+R0
+S
+#254
+{BO}{C}----====={BLU}*{C}== {BLU}Queen MeKare {C}=={BLU}*{C}=====----{c}~
+
+   You are standing in the realm of Queen Mekare.  Her jewels and
+   riches decorate the walls - great portraits of valiant warriors
+   hang proudly here.  You stand in awe over the massive golden 
+   throne she is heiress to and plunge into a dream of royalty.
+   As you awake you notice a tall figure with a huge mace over your
+   head; you start to panic!
+
+          . . .then all is black
+
+~
+2 0 1
+D0
+~
+~
+0 -1 222
+Z-1
+C-1
+R0
+S
+#255
+{REV}{BO}{C}R{G}a{Y}t{R}h{M}u{BLU}s{B}'{R}s{BLU} {C}I{G}t{Y}t{R}y{M}-{BLU}B{B}i{R}t{C}t{G}y{Y} {R}L{M}i{BLU}v{B}i{C}n{G}g{Y} {R}S{M}p{BLU}a{B}c{R}e{C} {G}{rev}{BO}{BLU}({BO}{G}UK{BLU}){blu}~
+{bo}{W}  
+   You are in the immense living space of {BO}{R}Rathus{r}{bo}{W}.  You see many things
+   spread throughout the walls and floor.  Some things include speech
+   pathology texts, tattered guides to {BO}{R}zone{r}{bo}{W} building, computer repair
+   manuals, and many malformed {BO}{BLU}objects{blu}{bo}{W} and {BO}{C}mobs{c}{bo}{W}.  Some of these objects
+   have {BO}{G}mutant{g}{bo}{W} stats which grew from an outpour of the {BO}{M}GOD{m}{bo}{W}s {BO}{Y}imagination{y}{bo}{W}.
+   Enjoy your stay here but be careful you are not here upon the {BO}{M}GOD{m}{bo}{W}'s
+   return!  Have a nice {BO}{Y}day{y}{bo}{W}.
+{w}
+~
+2 65544 0
+D3
+~
+~
+0 -1 253
+Z-1
+C-1
+R0
+S
+#256
+{BO}{W}+{BO}{REV}{W} The Underworld Sanctuary {rev}{BO}{W}+{w}~
+  
+   A large sanctuary leading south comes to an intersection.  There
+   are numerous places all around you including a blacksmith to the
+   east, a postman to the south, and the inn to the west.  You look
+   around and notice that this is a good place to just hang out 
+   while you are waiting for someone or just mend your equipment and
+   tinker.  Stay here for your comfort and solace.
+  
+~
+2 0 0
+D0
+~
+~
+0 -1 201
+D1
+~
+~
+0 -1 259
+D2
+~
+~
+0 -1 257
+Z-1
+C-1
+R0
+S
+#257
+{BO}{BLU}The {G}Underworld{BLU} Post Office - {R}45673{r}~
+  
+   This is the {BO}{BLU}({G}UK{BLU}){blu} division of the NC Postal Service.  It connects
+   with all the other post offices in this realm. All mail sent from
+   here can be received at another post office and vice versa. Your 
+   message is INSTANTLY delievered to its recipient.  It is the most
+   efficient system since E-mail!
+  
+~
+2 16392 0
+D0
+~
+~
+0 -1 201
+Z-1
+C-1
+R0
+S
+#258
+{BO}{BLU}The {G}Underworld {BLU}Inn{blu}~
+
+{G}                                                                                                       
+{G}           _!_     ()              ()     _!_       
+{G}          |-@-|    ||______________||    |-@-|      
+{G}          |___|    |                |    |___|       
+{G}            |      |      -@@-      |      |       
+{G}           ( )     |_______  _______|     ( )     
+{G}        __(___)__  {__-@-__}{__-@-__}  __(___)__  
+{G}         |__-__|   %%%%%%%%%%%%%%%%%%   |__-__|   
+{G}         |_____|_ %%%%%%%%%%%%%%%%%%%% _|_____|
+{G}         |     | %%%%%%%%%%%%%%%%%%%%%% |     |
+{G}                %%%%%%%%%%%%%%%%%%%%%%%%
+{G}               %%%%%%%%%%%%%%%%%%%%%%%%%%
+{G}              %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+{G}             /!!!!!!!!!!!!!!!!!!!!!!!!!!!!\
+{G}             !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  
+{G}             !!!!!!!!!!!!!!!!!!!!!!!!!!lc!!{g}
+
+
+~
+2 8 0
+D5
+~
+~
+0 -1 200
+Z-1
+C-1
+R0
+S
+#259
+{BO}{G}Underworld {BLU}Weapons{BLU} and {G}Armor{BLU} Repair{blu}~
+  
+     The {BO}{BLU}({G}UK{BLU}){blu} Repair Shop    {BO}{Y}   8@8
+             .::::.             888
+         @\\/W\/\/W\//@         8@8
+          \\/^\/\/^\//     _    )8(    _
+           \_O_--_O_/     (@)__/8@8\__(@)
+                           `--=):::(=--`
+     |------  |  |  ------|     |.|
+     |--      |  |      --|     |:|
+     |--      |  |      --|     |'|
+     |--   .--------.   --|     |.|
+     |     |   ()   |     |     |:|
+     |_____| (O\/O) |_____|     |'|
+     |     \   /\   /     |     |.|
+     |------\  \/  /------|     |:|
+     |       '.__.'       |     |'|
+     |        |  |        |     |.|
+     :        |  |        :     |:|
+      \--     |  |     --/      |'|
+       \--    |  |    --/       |.|
+        \--   |  |   --/        |:|
+         `\-- |  | --/'         |'|
+           `-.|  |.-`           \ /
+              '--'               ^
+{y}
+~
+2 8 0
+D2
+~
+~
+0 -1 201
+D5
+~
+~
+0 -1 200
+Z-1
+C-1
+R0
+S
+#260
+{BO}{BLU}The Cave of {G}Death{g}~
+  
+   You seem to be hovering above a large cave in which
+   the corpses of the Underworld Knights' enemies have
+   dropped.  The acrid smell of death teases your nostrils
+   as you realize that invaders are often the first ones
+   to be served the death blow.
+   
+~
+2 8 0
+D4
+~
+~
+0 -1 200
+Z-1
+C-1
+R0
+S
+#261
+Welcome to Image's Room~
+You are standing in what appears to be a dark chasm of some sort and
+feel an eerie presence around you... like you are being watched.  That
+would be the understatement of the day!  You see a faint image of light
+darting across the wall.  Just as you look, a wisp of a blade comes
+toward your throat.  The shadow sees you and reveals himself... come
+on... sit on the sofa...
+~
+2 8 0
+D2
+~
+~
+0 -1 214
+Z-1
+C-1
+R0
+S
+#263
+{BO,BLUE}({G}UK{BLUE}) {YELLOW}MAZE SECURITY{bo,y}~
+  
+   If you are here, you are at the edge of the Underworld Knights'
+   elaborate maze.  Be careful as you proceed, for if you are an 
+   invader, the true members of the Underworld Knights will 
+   dispense you with GREAT prejudice.  This sacred club of elite
+   and new warriors was wrought from the finest of this realm.  
+   They teach the younger knights their magical ways of their arts.
+  
+~
+2 8 0
+D3
+~
+~
+0 -1 299
+D4
+~
+Maze~
+1 -1 201
+Z-1
+C-1
+R0
+S
+#264
+This is Unknown's Room~
+    Ok this is just a test.  This room is created using the online creator.
+If it works cool!  If not too bad!
+~
+2 0 1
+D2
+(null)~
+~
+0 -1 3054
+Z-1
+C-1
+R0
+S
+#265
+{BO}{B}Dojo{bo}{W}'s P{BO}{R}racti{bo}{W}ce R{BO}{B}oom{b}~
+{BO}{B}  
+   The last samu{bo}{W}rai stands{BO}{R} here wielding {bo}{W}a worn wa{BO}{B}kizashi.  His  
+   deep eyes sho{bo}{W}w the fire{BO}{R} of a t{BO}{W}r{R}ue warr{bo}{W}ior and h{BO}{B}is robes are 
+   flowing and b{bo}{W}lack.  His{BO}{R} face {BO}{W}has{R} many {bo}{W}scars - e{BO}{B}vidence of the
+   battles he ha{bo}{W}s fought. {BO}{R} Sudden{BO}{W}l{R}y he dr{bo}{W}aws his s{BO}{B}word and cuts
+   off your arm!{bo}{W}  You scre{BO}{R}am in agony as {bo}{W}the rest {BO}{B}of your group
+   draws their w{bo}{W}eapons to {BO}{R}face this legen{bo}{W}dary weap{BO}{B}ons master of the
+   silver screen{bo}{W}!
+  
+~
+2 8 0
+Z-1
+C-1
+R0
+S
+#266
+{BLUE}Eilserus's Dominion of Despair{blue}~
+Stumbling through the dark doorway, you trip and fall over a pair of
+Doc Martins that have been carelessly tossed aside.  A large Nine
+Inch Nails banner lines one wall; and bottles of Pete's Wicked Ale
+are thrown about.  A nice Rotel stereo system sits in the corner
+with Ministry blaring through a pair of Vandersteens 1B's.  CD's
+litter the top of the Rotel pre-amp and you notice such cool groups
+as NIN, Ministry, Bad Religion, Suicidal Tendencies, Skinny Puppy,
+and other assorted names of punk and industrial bands.
+The lyrics:
+     "Just get out of my face and watch me DIE!!! ...Burning Inside
+     ...Burning Inside... Burning Inside..."
+ring clearly in your sensitive ears and you calmly think, "Fuck...
+this chick is fucking insane!"  It's time for you to jet before she
+catches you in here!
+~
+2 65544 0
+D2
+~
+Door~
+1 -1 253
+Z-1
+C-1
+R0
+S
+#267
+{GREEN,BOLD}FoRD's Chamber{g}~
+
+{GREEN,BO} A small pin sits in the corner wasting away in the dust.
+{GREEN,BO} as you look closer it looks like an old insignia.
+{GREEN,BO} You look around the room and see a legion raindrops
+{GREEN,BO} falling from what appears to be empty space. As the
+{GREEN,BO} rain now spreading throughout your body you find
+{GREEN,BO} yourself in a fully grown forest. There is a large 
+{GREEN,BO} booming explosion off in the distance while a thick
+{GREEN,BO} burst of {BLACK,BOLD}smoke {GREEN,BOLD}fills your lungs. You look up into
+{GREEN,BO} the sky and notice a flash of a {YELLOW,BOLD}yellow gold glow
+{GREEN,BO} coming from behind the mountains. While frantically
+{GREEN,BO} coughing out all of the {BLACK,BOLD}black ash {GREEN,BOLD}in your lungs
+{GREEN,BO} balls of {RED,BOLD}flame {GREEN,BOLD}quickly fall from the sky onto your
+{BL,BO} darkened skin {GR,BO}and {RE,BO}scorch your burning flesh{GR,BO}.{b}
+
+~
+2 0 1
+D3
+~
+FoRD~
+1 -1 252
+Z-1
+C-1
+R0
+S
+#268
+Residential Hallway~
+The hall is filled with the doors of personal residences.
+Make sure you knock before entering, and don't go wandering
+into someone else's room without an invitation!
+~
+2 0 1
+D5
+~
+Door~
+1 -1 278
+Z-1
+C-1
+R0
+S
+#269
+The Unknown River~
+  You are travelling on the Unknown River.  The river is pretty shallow.  
+Looking down, you can almost see all the rocks and fish underneath.  The 
+water is very clean and clear.  Sticking your finger into the water 
+underneath, you get a tingling feeling.....
+  You can barely see what's ahead of you.....
+    As you carefully listens, you can hear the sound of ancient chinese
+      music coming from the south.
+~
+2 1120 6
+Z-1
+C-1
+R0
+S
+#270
+Unknown's Private Chamber~
+    You are in a small ordinary room.  The room is filled with trash.
+By the left wall there is a large oak desk with a small lamp on top.
+Straight ahead you see a large portrait of a tall beautiful blonde.
+There's a small hand written message at the bottom of the portrait.
+As you examine closer, you notice the portrait has been shifted
+from it's original position.  Maybe you should help Unknown
+reposition his mistress's portrait :)
+~
+2 147464 0
+D0
+You see the Underworld's storage room.
+~
+~
+0 -1 202
+D1
+(null)~
+~
+0 -1 271
+E
+portrait~
+You see a beautiful young lady dressed in a long red dress.  She
+is the cutest thing you ever seen.  From her appearance, you can
+sense that's she's only in her early 20.  Now why would Unknown
+hang such a picture around his room.....
+At the bottom of the portrait is a hand written message.
+
+        "To Him:
+            Don't make me kill you...because I will.
+                         From: Sandy"
+
+~
+M54
+Z-1
+C-1
+R0
+S
+#271
+Unknown's Chat Room~
+  You are in Unknown's chatting chamber.  This is where he chat with all the
+important people on Northern Crossroads.  There's a lamp on a little table
+in the corner of the room.  In the middle, there's a huge conference table.
+On the far wall hang a portrait of a blonde.  Leaning against the south wall
+is a table with a VCR sitting on it.  As you observe closely, you can see
+also a old brass coin and a diamond ring on top of the VCR.
+~
+2 262280 0
+D2
+(null)~
+~
+0 -1 272
+D3
+(null)~
+~
+0 -1 270
+E
+coin gold~
+(null)~
+E
+coin~
+You see Unknown's special token.  It's made out of brass.  On one side of the
+token is printed a maple leaf.  On the opposite side there's a picture of a
+clown. This token came from an unknown place.  It must have some special 
+power since Unknown treasures it so much....
+~
+Z-1
+C-1
+R0
+S
+#272
+Unknown's Arcade Room~
+  This is Unknown's famuous game room.  As you look around, you can see all the
+most popular arcade games of the century standing against the walls.  In the 
+middle stands a large billiard table.  There's a full set of high tech stereo
+system in one corner of the room.  As you look over the room again, you notice
+something strange.  There is only one game machine with it's power on.  As you
+look carefully, the game is called Stree Fighter II Hyper Fighting.
+~
+2 8 0
+D0
+(null)~
+~
+0 -1 271
+D5
+(null)~
+~
+0 -1 273
+E
+game~
+This is the most popular video game of this century.  Unlike the normal machine,
+this one have a joystick made out of gold.  Looking down below the joystick
+you see two coin slots.  These coin slots are made in a way that only game
+tokens can be put in....
+~
+Z-1
+C-1
+R0
+S
+#273
+{BLUE,BOLD}BloodRain's Room{blue}~
+
+{BLUE,BOLD}     A sense of {WHITE,BOLD}absence {BLUE,BOLD}is strongly apparent when entering
+{BLUE,BOLD}   this room. Dust has settled on the floor and the lights
+{BLUE,BOLD}   flicker before steadying as you hit the switch. The room
+{BLUE,BOLD}   seems barren, {WHITE,BOLD}abandoned{BLUE,BOLD}, your eyes search for a story
+{BLUE,BOLD}   amongst the additions left untouched.
+
+{BLUE,BOLD}     Suddenly your eyes settle on a portion of the floor that
+{BLUE,BOLD}   appears to have been cleaned, inhabited. An empty {GREEN,BOLD}Monster can
+{BLUE,BOLD}   leaves a ring in the dust from where it sat. A heart has been
+{BLUE,BOLD}   drawn by someones finger. Your sense of {WHITE,BOLD}absence {BLUE,BOLD}is replaced
+{BLUE,BOLD}   by one of {RED,BOLD}longing {BLUE,BOLD}and {RED,BOLD}patience{BLUE,BOLD}.{b}
+
+~
+2 32777 0
+D0
+~
+BloodRain~
+1 -1 252
+Z-1
+C-1
+R0
+S
+#274
+{BLACK,BOLD}Club Board Room{b}~
+
+{BLACK,BOLD} The club board sits in the middle of the floor holding all
+{BLACK,BOLD} of the newest club news. There is a statue of Robo in the
+{BLACK,BOLD} corner watching over the room. Your feet are cold upon the
+{BLACK,BOLD} marble floor.{b}
+
+~
+2 8 0
+D2
+~
+~
+0 -1 210
+Z-1
+C-1
+R0
+S
+#275
+A mysterious tunnel~
+  You are in the middle of a mysterious tunnel.  Being here give you an 
+omnious feeling.  You can see some light coming from the southern direction.
+~
+2 32809 0
+Z-1
+C-1
+R0
+S
+#276
+A dark tunnel~
+  You are standing on the southern end of a dark tunnel.  Looking north, all
+you can see is darkness.  The look of this place gives you the creeps.
+Seems like alot of fearless adventurers died here before.....
+Looking in the east direction, you get a VERY COOL feeling.  Close examination
+of this place, you see a small sign hidden behind a pile of dead weed.
+~
+2 32809 0
+D0
+~
+~
+0 -1 275
+D1
+(null)~
+~
+0 -1 277
+D2
+(null)~
+~
+0 -1 278
+E
+sign~
+WARNING: all who enters without judgement of directions will be punished!
+~
+Z-1
+C-1
+R0
+S
+#277
+{C}Council{BO}{BLU} Chambers{blu}~
+  
+   These chambers are the abode of the Old Council of the Underworld Knights.
+   Here, ages ago, leaders discussed the politics and club policies which 
+   would affect its members.  Because of increasing dissention in the club,
+   The Underworld Knights felt the icy hand of death creeping among them.  
+   Because of the dedication of one member, Wyverns, the challenges a club
+   must face were met.  As life took its toll on this valiant leader, another
+   stepped up to take his place.  His name was Arfon.  Soon another warrior 
+   emerged to assist Arfon with his task of building the club back up.  His name
+   was Rathus who continues to lead even to this day.
+ 
+~
+2 8 0
+D2
+~
+~
+0 -1 203
+Z-1
+C-1
+R0
+S
+#278
+{BO}{BLU}The {G}Underworld{BLU} Map Room{blu}~
+
+   This is a room dedicated to the posting of directions for fellow
+   Underworld Knights.  Your contribution is greatly accepted by the
+   leaders of this club.  If your intent is to come in and rip the
+   bountiful knowledge from this board, may God place a curse on you
+   that your characters be deleted and your presence is no longer
+   welcome in the Northern Crossroads.
+
+~
+2 0 0
+D0
+~
+Door~
+1 -1 203
+E
+hockey~
+This is a good zone for those around level 30, dirs are: s4w3sw
+~
+E
+Zombies~
+This is a great place to level for high duals(round like 40+). The max dual
+xp is around 10mil, max adv exp is about 4-5mil. kill zombies, also thief's
+in this area give ego. And the freaks carry pouches, in pouches is armourall.
+Dirs: 8e4n2enw
+~
+E
+Scorpions~
+Scorpions are the best ego mobs around, but you need to start with a lotta
+damage, like a backstab or solar flare. The do hit hard if you let them. 
+Dirs:8eu
+~
+E
+colc~
+~
+Z-1
+C-1
+R0
+S
+#279
+{BO,BLUE}({G}UK{BLUE}) {Y}MAZE{bo,y}~
+  
+  
+  {BO,BLACK}You find yourself in a long, dark tunnel.  The steam from the underground
+  river surrounds everything with a hazy fog.  As you step deeper within the
+  abyss, the air is gradually becoming less breathable.  Continuing on this
+  path will only bring you misery.{bo,black}
+  
+  
+~
+2 1 0
+D0
+~
+~
+0 -1 21979
+D2
+~
+~
+0 -1 204
+Z-1
+C-1
+R0
+S
+#280
+Winding Tunnel~
+
+You find yourself in a long, dark tunnel.  The steam from the underground
+river surrounds everything with a hazy fog.  As you step deeper within the
+abyss, the air is gradually becoming less breathable.  Continuing on this
+path will only bring you misery.
+
+~
+2 17449 0
+D0
+~
+~
+0 -1 280
+D1
+~
+~
+0 -1 285
+D2
+~
+~
+0 -1 280
+D3
+~
+~
+0 -1 220
+D4
+~
+~
+0 -1 279
+D5
+~
+~
+0 -1 281
+Z-1
+C-1
+R0
+S
+#281
+Winding Tunnel~
+
+You find yourself in a long, dark tunnel.  The steam from the underground
+river surrounds everything with a hazy fog.  As you step deeper within the
+abyss, the air is gradually becoming less breathable.  Continuing on this
+path will only bring you misery.
+
+~
+2 17453 0
+D0
+~
+~
+0 -1 285
+D1
+~
+~
+0 -1 285
+D2
+~
+~
+0 -1 281
+D4
+~
+~
+0 -1 220
+D5
+~
+~
+0 -1 281
+Z-1
+C-1
+R0
+S
+#282
+Winding Tunnel~
+
+You find yourself in a long, dark tunnel.  The steam from the underground
+river surrounds everything with a hazy fog.  As you step deeper within the
+abyss, the air is gradually becoming less breathable.  Continuing on this
+path will only bring you misery.
+
+~
+2 17449 0
+D0
+~
+~
+0 -1 285
+D1
+~
+~
+0 -1 281
+D2
+~
+~
+0 -1 281
+D3
+~
+~
+0 -1 220
+D5
+~
+~
+0 -1 282
+Z-1
+C-1
+R0
+S
+#283
+Winding Tunnel~
+
+You find yourself in a long, dark tunnel.  The steam from the underground
+river surrounds everything with a hazy fog.  As you step deeper within the
+abyss, the air is gradually becoming less breathable.  Continuing on this
+path will only bring you misery.
+
+~
+2 17453 0
+D1
+~
+~
+0 -1 284
+D2
+~
+~
+0 -1 285
+D3
+~
+~
+0 -1 282
+D4
+~
+~
+0 -1 282
+D5
+~
+~
+0 -1 220
+Z-1
+C-1
+R0
+S
+#284
+Winding Tunnel~
+
+You find yourself in a long, dark tunnel.  The steam from the underground
+river surrounds everything with a hazy fog.  As you step deeper within the
+abyss, the air is gradually becoming less breathable.  Continuing on this
+path will only bring you misery.
+
+~
+2 17449 0
+D0
+~
+~
+0 -1 286
+D1
+~
+~
+0 -1 281
+D2
+~
+~
+0 -1 285
+D3
+~
+~
+0 -1 220
+D4
+~
+~
+0 -1 287
+D5
+~
+~
+0 -1 283
+Z-1
+C-1
+R0
+S
+#285
+Winding Tunnel~
+
+You find yourself in a long, dark tunnel.  The steam from the underground
+river surrounds everything with a hazy fog.  As you step deeper within the
+abyss, the air is gradually becoming less breathable.  Continuing on this
+path will only bring you misery.
+
+~
+2 17449 0
+D2
+~
+~
+0 -1 285
+D4
+~
+~
+0 -1 220
+Z-1
+C-1
+R0
+S
+#286
+{BO,BLUE}Mephisto's Cavern{bo,blue}~
+
+  {BO,BLUE}
+   \++================================|                    _=_
+    \_________________________________/              ___/==+++==\___
+                 """\__      \"""       |======================================/
+                       \__    \_          / ..  . _/--===+_____+===--""
+                          \__   \       _/.  .. _/         `+'
+                             \__ \   __/_______/                      \ /
+                            ___-\_\-'---==+____|                  ---==O=-
+                      __--+" .    . .        "==_                     / \
+                      /  |. .  ..     -------- | \
+                      "==+_    .   .  -------- | /
+                           ""\___  . ..     __=="
+                                 """"--=--""   {bo,blue}
+  
+  
+~
+2 8 0
+D2
+~
+~
+0 -1 295
+Z-1
+C-1
+R0
+S
+#287
+{BLACK,BOLD}Obli{RED,BOLD}V{BLACK,BOLD}ion's Chamber of Death.{black}~
+
+{BLACK,BOLD}   As you ener the room, the air grows chill.
+{BLACK,BOLD}   Your eyes dilate as they strain to see a
+{BLACK,BOLD}   shadow approach in this pitch black room.
+{BLACK,BOLD}   There is a flash of light and suddenly,
+{BLACK,BOLD}   the wall displays the words...
+{BLACK,BOLD}        "Death is watching"
+{BLACK,BOLD}   written in {RED,BOLD}bl{b}{RED}oo{RED,BOLD}d{BLACK,BOLD}. The lights fade, and you
+{BLACK,BOLD}   are again left in complete, utter darkness.
+
+{BLACK,BOLD}   Somehow, you don't feel very alone.{black}
+
+~
+2 0 1
+D2
+~
+Oblivion~
+1 -1 252
+Z-1
+C-1
+R0
+S
+#288
+OPEN~
+You are standing in nowhere !!!!
+~
+2 0 1
+D3
+~
+~
+0 -1 295
+Z-1
+C-1
+R0
+S
+#289
+OPEN~
+You are standing in nowhere !!!!
+~
+2 0 1
+D1
+~
+~
+0 -1 296
+Z-1
+C-1
+R0
+S
+#290
+OPEN~
+You are standing in nowhere !!!!
+~
+2 0 1
+D3
+~
+~
+0 -1 296
+E
+plaque~
+                 _______________________  
+                /\**********************\ 
+               (D K\*********k\;\&j******) 
+               |\+DK+\*******,'    `*****| 
+               |**\+DK+\***;' __n,    `:*|
+               |****\+DK+\**jT****i. ,***| 
+                |*****\+DK+\*******;J***| 
+                |*******\+DK+\**********| 
+                 \********\+DK+\*******/ 
+                  \*********\+DK+\****/  
+                   \**********\+DK+\*/ 
+                    \***********\D K/ 
+                     \************\/  
+                       \*********/    
+                         \*****/   
+                           \*/    
+
+                  ---"Keep The Faith"---
+
+~
+Z-1
+C-1
+R0
+S
+#291
+OPEN~
+You are standing in nowhere !!!!
+~
+2 0 1
+D1
+~
+~
+0 -1 297
+Z-1
+C-1
+R0
+S
+#292
+OPEN~
+You are standing in nowhere !!!!
+~
+2 0 1
+D3
+~
+~
+0 -1 297
+Z-1
+C-1
+R0
+S
+#293
+OPEN~
+You are standing in nowhere !!!!
+~
+2 262144 1
+D1
+~
+~
+0 -1 298
+Z-1
+C-1
+R0
+S
+#294
+Data's Lair~
+    |____________________________________________________|
+    | __     __   ____   ___ ||  ____    ____     _  __  |
+    ||  |__ |--|_|O|| |_|   |||_|**|O|__|+|+||___|H||  | |
+    ||==|^^||--| |R||=| |=*=||| |  |R|  |=|=|| | |A||==| |
+    ||  |##||  | |A|| | |SEX|||-|  |G|==|+|+||-|-|R||__| |
+    ||__|__||__|_|L||_|_|___|||_|__|Y|__|_|_||_|_|D||__|_|
+    ||_______________________||__________________________|
+    | _____________________  ||__    __   __  _  __    _ |
+    ||=|=|=|=|=|=|=|=|=|=|=| ||==|__|  |_|  ||#||==|  / /|
+    ||H|A|R|D| |C|O|R|E| | | ||  |**|++|=|  || ||==| / / |
+    ||_|_|_|_|_|_|_|_|_|_|_| ||__|__|__|_|__||_||__|/_/__|
+    |________________________||__________________________|
+    | __   __    _  _     _ _||____    _    ___     _____|
+    ||  |_|..|__| || |_ _|A|A||TITS|__|=|__|x|x|___|S|S|S|
+    ||--|+|^^|==|1||2| | |S|S||----|**| |==|x|x|+|+|&|&|&|
+    ||__|_|__|__|_||_|_|_|S|S||____|__|_|__|x|x|_|_|M|M|M|
+~
+2 8 0
+D3
+~
+~
+0 -1 298
+Z-1
+C-1
+R0
+S
+#295
+{BO,BLACK}The Deeper Caverns{bo,black}~
+
+  
+  {BO,BLACK}Soft light glows from  multi-colored lichens lining the cavern.  
+  As you walk down the long corridor you can see that the curved
+  walls have just recently been cut.  The tread of your boots
+  resound off the smooth floor.  At regular intervals arched 
+  doorways line the hall.  Stone slabs are perfectly balanced on
+  unseen hinges.  Each stone door has a name etched into it, 
+  indicating who dwells there.  A door opens in the distance and
+  a flood of music and laughter fills the passage.  It feels just
+  like home.  The construction of the new {BLUE}({G}UK{BLUE}){BLACK} residential area
+  is now complete.{bo,black}
+  
+  
+~
+2 8 0
+D0
+~
+~
+0 -1 286
+D1
+~
+~
+0 -1 288
+D2
+~
+~
+0 -1 296
+Z-1
+C-1
+R0
+S
+#296
+{BO,BLACK}The Deeper Caverns{bo,black}~
+
+  
+  {BO,BLACK}Soft light glows from  multi-colored lichens lining the cavern.  
+  As you walk down the long corridor you can see that the curved
+  walls have just recently been cut.  The tread of your boots
+  resound off the smooth floor.  At regular intervals arched 
+  doorways line the hall.  Stone slabs are perfectly balanced on
+  unseen hinges.  Each stone door has a name etched into it, 
+  indicating who dwells there.  A door opens in the distance and
+  a flood of music and laughter fills the passage.  It feels just
+  like home.  The construction of the new {BLUE}({G}UK{BLUE}){BLACK} residential area
+  is now complete.{bo,black}
+  
+  
+~
+2 8 0
+D0
+~
+~
+0 -1 295
+D1
+~
+~
+0 -1 290
+D2
+~
+~
+0 -1 297
+D3
+~
+~
+0 -1 289
+Z-1
+C-1
+R0
+S
+#297
+{BO,BLACK}The Deeper Caverns{bo,black}~
+
+  
+  {BO,BLACK}Soft light glows from  multi-colored lichens lining the cavern.  
+  As you walk down the long corridor you can see that the curved
+  walls have just recently been cut.  The tread of your boots
+  resound off the smooth floor.  At regular intervals arched 
+  doorways line the hall.  Stone slabs are perfectly balanced on
+  unseen hinges.  Each stone door has a name etched into it, 
+  indicating who dwells there.  A door opens in the distance and
+  a flood of music and laughter fills the passage.  It feels just
+  like home.  The construction of the new {BLUE}({G}UK{BLUE}){BLACK} residential area
+  is now complete.{bo,black}
+  
+  
+~
+2 8 0
+D0
+~
+~
+0 -1 296
+D1
+~
+~
+0 -1 292
+D2
+~
+~
+0 -1 298
+D3
+~
+~
+0 -1 291
+D4
+~
+~
+0 -1 249
+Z-1
+C-1
+R0
+S
+#298
+{BO,BLACK}The Deeper Caverns{bo,black}~
+
+  
+  {BO,BLACK}Soft light glows from  multi-colored lichens lining the cavern.  
+  As you walk down the long corridor you can see that the curved
+  walls have just recently been cut.  The tread of your boots
+  resound off the smooth floor.  At regular intervals arched 
+  doorways line the hall.  Stone slabs are perfectly balanced on
+  unseen hinges.  Each stone door has a name etched into it, 
+  indicating who dwells there.  A door opens in the distance and
+  a flood of music and laughter fills the passage.  It feels just
+  like home.  The construction of the new {BLUE}({G}UK{BLUE}){BLACK} residential area
+  is now complete.{bo,black}
+  
+  
+~
+2 8 0
+D0
+~
+~
+0 -1 297
+D1
+~
+~
+0 -1 294
+D3
+~
+~
+0 -1 293
+Z-1
+C-1
+R0
+S
+#299
+{BO,BLUE}({G}UK{BLUE}) {Y}MAZE{bo,y}~
+  
+  
+  {BO,BLACK}You find yourself in a long, dark tunnel.  The steam from the underground
+  river surrounds everything with a hazy fog.  As you step deeper within the
+  abyss, the air is gradually becoming less breathable.  Continuing on this
+  path will only bring you misery.{bo,black}
+  
+  
+~
+2 133 0
+D0
+~
+~
+0 -1 248
+D1
+~
+~
+0 -1 263
+Z-1
+C-1
+R0
+S
+$~

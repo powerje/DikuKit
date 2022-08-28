@@ -1,0 +1,172 @@
+#2401
+acolyte aco~
+{B,WH}The acolyte{b}~
+{wh}{B,WH}An acolyte stands here, supporting a man weakened by illness.{b}
+~
+{B,WH}
+  The acolyte looks warmly at you. He is helping a sick man
+  who has been healed by the mighty priests of Paladine. 
+  The man at his side is so bad that he can't even stand on his own
+  feet making you feel so pitty for him that you can't dream of
+  attacking him. The acylote is ready to assist you anyway he can.
+{b}
+~
+208 0 700 S
+6 15 4 3d5+60 5d10+10
+50 1000
+8 8 1
+D 20
+A 12
+#2402
+acolyte aco~
+{B,WH}The acolyte{b}~
+{wh}{B,WH}An acolyte stands here, supporting a man weakened by illness.{b}
+~
+{B,WH}
+  The acolyte looks warmly at you. He is helping a sick man
+  who has been healed by the mighty priests of Paladine.
+  The man at his side is so bad that he can't even stand on his own
+  feet making you feel so pitty for him that you can't dream of
+  attacking him. The acylote is ready to assist you anyway he can.
+  He carries a skin filled with water and a small purse with herbs in it.
+  He is nicely build and looks fit.
+{b}
+~
+208 0 700 S
+7 14 4 3d5+70 2d3+5
+50 1200
+8 8 1
+D 20
+A 12
+#2403
+priest~
+{B,WH}The priest{b}~
+{B,BL}A priest walks here, {WH}discussing relig{BL}ous aspects of life.{b}
+~
+{B,BL}
+  This priest is one of {WH}Paladine's migh{BL}ty priests. He is wise
+  in the field of religi{WH}on questions. H{BL}e will always have time
+  to help the poor thoug{WH}h. Great warrio{BL}rs and old wealthy people 
+  comes to the priests a{WH}nd asks for hea{BL}ling at the these holy
+  servants of Paladine.
+{bl}
+~
+208 0 900 S
+9 12 4 2d10+100 2d5+4
+250 5000
+8 8 1
+D 20
+A 12
+#2404
+priestess priest~
+{B,WH}The priestess{b}~
+{B,WH}A priestess walks here, discussing religous aspects of life.{wh}
+~
+  {B,WH}
+  This priest is one of Paladine's mighty priestesses. She is wise
+  in the field of religion questions. She will always have time
+  to help the poor though. Great warriors and old wealthy people
+  comes to the priests, and asks for healing at the these holy
+  servants of Paladine. 
+{b}
+~
+208 0 900 S
+10 11 4 2d10+105 2d5+4
+450 7000
+8 8 2
+R 524288
+D 20
+A 12
+#2405
+man weak~
+{y}{Y}the weak man{ye}~
+{y}{Y}A weak man is lying here, begging for help.{ye}
+~
+{YE}
+  This man has walked a long way to get Paladine's temple.
+  His legs can't carry him any further and he got some nasty wounds.
+  It might be a good idea to heal him.
+{ye}
+~
+208 2 100 S
+3 18 7 3d4+25 1d7+1
+100 200
+8 5 1
+D 20
+A 12
+#2406
+high priest arch~
+{B,BL}the h{WH}igh p{BL}riest{b}~
+{B,BL}The high priest o{WH}f Paladine's temp{BL}le is smiles at you.{b}
+~
+{B,BL}
+  The arch priest of the t{WH}emple looks ve{BL}ry wise and has
+  powers of great healing.{WH} If you are bad th{BL}ough then he might
+  deal with you as his bel{WH}ief is that no evi{BL}l should live.
+  He may look old and and {WH}not used to physic{BL}al work, but if 
+  necessary he can fight l{WH}ong and hard. 
+{b}
+~
+208 0 800 S
+15 6 1 3d4+180 3d5+2
+500 15000
+8 8 1
+D 20
+A 12
+#2407
+priest~
+{B,BL}the {WH}pri{BL}est{b}~
+{B,BL}A priest walks h{WH}ere, pra{BL}ising Kimberly.{b}
+~
+{B,BL}
+  This priest is one of Pa{WH}ladine's mighty pr{BL}iests. He is wise
+  in the field of religion{WH} questions. He will al{BL}ways have time
+  to help the poor though.{WH} Great warriors and ol{BL}d wealthy people
+  comes to the priests and{WH} asks for healing at t{BL}he these holy
+  servants of Paladine.
+{b}
+~
+208 0 900 S
+9 12 4 2d10+120 2d5+4
+600 4000
+8 8 1
+D 20
+A 12
+#2408
+{y}{Y}Erin the pilgrim{y}~
+{y}{Y}Erin the pilgrim{y}~
+{yellow}{Y}Erin the pilgrim stands here, finally found her way to Paladine's temple.{y}
+~
+{YE}
+  She has come a far way and has at last found the temple of 
+  her religion. It has been a long way for her and she has
+  gone through many dangerous experiences. This has given her a
+  lot of combat skills.
+{ye}
+~
+64 0 700 S
+10 -1 2 3d4+120 1d14+1
+700 7000
+8 8 2
+D 20
+A 12
+#2409
+pigeon curious osprey~
+{B,BL}the curious pigeon{b}~
+{B,BL}A curious pigeon is flabbing around here, unfortunately his wings are clipped.{bl}
+~
+  {B,BL}
+  This fine pigeon is flabbing around. He spen{WH}ds mos{BL}t of his time 
+  looking into things and he signals a strong curiousity about
+  everything t{WH}hat i{BL}s going on. He is not happy with the the fact
+  that his wings are clipped so s{WH}ometim{BL}es he is grumbling at life
+  and all that.
+{bl}
+~
+128 0 77 S
+2 1 6 2d12+10 1d6+10
+50 300
+8 8 1
+D 20
+A 12
+$~

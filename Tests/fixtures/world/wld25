@@ -1,0 +1,494 @@
+#2500
+The Prison Cell~
+You are in a Prison Cell. The walls are very smooth and you seem to be
+in a future time. From outside you hear loud klingon voices. To the
+west you discover a energy barrier.
+~
+25 0 1
+D3
+A energy barrier.
+~
+barrier~
+1 0 2501
+Z3
+C-1
+R0
+S
+#2501
+The Corridor~
+You are standing on the south end of a corridor. To the east there is
+a prison cell and the corridor continues to the north. To the south
+there is a glass hatch to the transporter room.
+~
+25 0 1
+D0
+~
+~
+0 0 2502
+D1
+A prison cell.
+~
+barrier~
+1 0 2500
+D2
+The Transporter Room.
+~
+glass~
+1 2502 2726
+Z3
+C-1
+R0
+S
+#2502
+The Corridor~
+You are in a dim corridor. To the north you see a junction and to the
+south the corridor continues. Watch out for guards. To the west and
+east you see the corridor walls made out of a shimmering metal.
+~
+25 0 1
+D0
+~
+~
+0 0 2503
+D2
+~
+~
+0 0 2501
+Z3
+C-1
+R0
+S
+#2503
+The Corridor~
+You are in a dim corridor. To the north you see a junction and to the
+south the corridor continues. Watch out for guards. To the west and
+east you see the corridor walls made out of a shimmering metal. You 
+notice something else.
+~
+25 0 1
+D0
+~
+~
+0 0 2504
+D2
+~
+~
+0 0 2502
+D3
+~
+wall~
+1 0 2513
+Z3
+C-1
+R0
+S
+#2504
+The bend in the corridor~
+There is a bend in the corridor. To the west there is there are the
+leisure rooms of the crew. You hear happy (!? klingon) voices from
+there.
+~
+25 0 1
+D2
+~
+~
+0 0 2503
+D3
+~
+~
+0 0 2505
+Z3
+C-1
+R0
+S
+#2505
+The leisure section~
+You see many odd looking machines..... It looks rather like a torture
+room. To the west there is the main-corridor. You hear the low humming
+of the starships engines.
+~
+25 0 1
+D1
+~
+~
+0 0 2504
+D3
+You see a hatch to the main corridor.
+~
+hatch~
+1 0 2506
+Z3
+C-1
+R0
+S
+#2506
+The main corridor~
+You are in the main corridor of the Klingon ship. It continues to the
+north. There is a light barrier to the north.... it looks like a
+security system.
+~
+25 0 1
+D0
+~
+~
+0 0 2518
+D1
+You see a hatch.
+~
+hatch~
+1 0 2505
+D3
+You see a hatch.
+~
+hatch~
+1 0 2507
+Z3
+C-1
+R0
+S
+#2507
+Restricted Area~
+This is a section of the ship which is less safe than the other areas.
+The klingon technology is not that good as said. So be careful.
+To the south there is the computer room. A large glass door bars your way.
+~
+25 0 1
+D1
+You see a hatch.
+~
+hatch~
+1 0 2506
+D2
+The entrance to the computer room.
+~
+door glass~
+1 0 2509
+Z3
+C-1
+R0
+S
+#2508
+The main reactor~
+You are silly !!! Can you enter a main reactor in real life ??? NO !!!
+So you cannot do it here either !!!!! ---- > You are smolderd by the
+enormous heat of the reactor.
+~
+25 16777218 1
+Z3
+C-1
+R0
+S
+#2509
+The Computer room~
+The computer of the klingon spaceship are useless, because the klingon
+did never understand to use them. So mostly stolen technology is
+unused and partly destroyed here. To the east you see the entrance to
+the engine section of the ship and to the south are the crew quartiers.
+~
+25 1 1
+D0
+You see a glass door.
+~
+glass door~
+1 0 2507
+D1
+You see a metal hatch.
+~
+metal hatch~
+1 0 2513
+D2
+The crew quarters.
+~
+~
+0 0 2510
+Z3
+C-1
+R0
+S
+#2510
+The Crew Quarters~
+You are in a large room. On the west and east wall there are some
+'beds' for the Klingons. There are NO washing facilities because the
+Klingons do not wash themselves. To the west there is the shipmasters
+office. To the south there is a hatch.
+~
+25 0 1
+D0
+~
+~
+0 0 2509
+D2
+You see a hatch with the sign 'EMERGENCY EXIT' on it.
+~
+hatch~
+1 0 2512
+D3
+You see a door.
+~
+door~
+1 0 2511
+Z3
+C-1
+R0
+S
+#2511
+The Shipmaster's Office~
+Here is the shipmaster's office from which he controls the discipline
+of the whole crew of the ship. On the walls there are a lot of
+monitors to see all sections of the ship.
+~
+25 0 1
+D1
+You see the door to the quartiers.
+~
+door~
+1 0 2510
+Z3
+C-1
+R0
+S
+#2512
+The Deep Space~
+You are in the deep space without a Space-suit. Very bad for you !!!
+~
+25 16777218 1
+Z3
+C-1
+R0
+S
+#2513
+The engine corridor~
+The huge engines of the Klingon Spaceship are surrounding you. They
+emit a faint humming sound and you feel very uncomfortable here. To
+the below you there is the main reactor. South of you, a corridor
+leads towards the engine control room. To the east there is a movable
+wall.
+~
+25 0 1
+D1
+~
+wall~
+1 0 2503
+D2
+~
+~
+0 0 2514
+D3
+You see a metal hatch.
+~
+metal hatch~
+1 0 2509
+D5
+You see a grate covering the main reactor.
+~
+grate~
+1 0 2508
+Z3
+C-1
+R0
+S
+#2514
+The engine corridor~
+The huge engines of the Klingon Spaceship are surrounding you. They
+emit a faint humming sound and you feel very uncomfortable here.
+To the south is the Engine control room.
+~
+25 0 1
+D0
+~
+~
+0 0 2513
+D2
+The hatch to the engine room.
+~
+hatch~
+2 2501 2515
+Z3
+C-1
+R0
+S
+#2515
+The engine Room~
+You are standing in the center of a large engine room. From here most
+of the spaceships aggregates are powered. You see the large
+warp-engine to the south, the general power control to the west and
+the weapon and shield controls to the east.
+~
+25 0 1
+D0
+~
+hatch~
+2 2501 2514
+D1
+~
+~
+0 0 2516
+D3
+~
+~
+0 0 2517
+Z3
+C-1
+R0
+S
+#2516
+The shield and weapon controls~
+You are standing in a section of the engine room which is very
+important to the ship. In front of you there are the shield controls.
+A red switch is in the middle of the shield control panel.
+~
+25 0 1
+D3
+~
+~
+0 0 2515
+E
+switch red~
+This must be the shield control switch which toggles the shield on and
+off.
+~
+Z3
+C-1
+R0
+S
+#2517
+The power controls~
+You are standing in a section of the engine room which is very
+important to the ship. In front of you there are the power controls.
+A green switch is in the middle of the shield control panel.
+~
+25 0 1
+D1
+~
+~
+0 0 2515
+E
+switch green~
+This must be the power control switch which toggles the power on the
+spaceship on and off.
+~
+Z3
+C-1
+R0
+S
+#2518
+The main Corridor~
+You are in the main cooridor leading to the north to the spaceship's
+stern. As you take a closer look you discover a security system in
+this section.
+~
+25 5 1
+D0
+~
+~
+0 0 2519
+D2
+~
+~
+0 0 2506
+Z3
+C-1
+R0
+S
+#2519
+The main Corridor~
+You are in the main cooridor leading to the north to the spaceship's
+stern. As you take a closer look you discover a security system in
+this section.
+~
+25 0 1
+D0
+~
+~
+0 0 2520
+D2
+~
+~
+0 0 2518
+D3
+Entrance to the Storeroom.
+~
+door metal~
+2 2503 2524
+Z3
+C-1
+R0
+S
+#2520
+The entrance to the Bridge~
+You are standing before the Bridge, the main control room of the
+spaceship. To the north you see the heavy titanium hatch of the
+bridge. To the south there is the main corridor.
+~
+25 0 1
+D0
+You see a titanium hatch.
+~
+hatch~
+1 0 2521
+D2
+~
+~
+0 0 2519
+Z3
+C-1
+R0
+S
+#2521
+The bridge~
+This is the control room of the spaceship. To the north you can see
+some screens with odd figures on it. Everywhere are some graffity
+written in klingon script. (awful) The ships controls seems a little
+old fashioned copared with the ones you have seen lately but they do
+their work. To the east you see the navigator's cabin.
+~
+25 0 1
+D1
+~
+~
+0 0 2522
+D2
+~
+hatch~
+1 0 2520
+Z3
+C-1
+R0
+S
+#2522
+The navigator's Cabin~
+You see some instruments which you cannot use.....
+~
+25 0 1
+D3
+~
+~
+0 0 2521
+Z3
+C-1
+R0
+S
+#2523
+This is nowhere.~
+~
+25 0 1
+Z3
+C-1
+R0
+S
+#2524
+The storeroom~
+You are in the ship's storeroom. There might be some useful Klingon
+items.
+~
+25 0 1
+D1
+You see a metal door.
+~
+door metal~
+2 2503 2519
+Z3
+C-1
+R0
+S
+$~

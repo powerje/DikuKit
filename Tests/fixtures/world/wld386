@@ -1,0 +1,1507 @@
+#38600
+Rith's Hermitage~
+{Y}
+  Welcome to{y} {MAG,BLI,BO}Rith's Hermitage{mag,bli,bo}{Y}, high up on fabled Mt. Kadr. To
+  have reached this point, you must be either very strong, very
+  lucky...or an Immortal.{y}
+{Y}
+  This very place is where Rith comes to spend some time alone
+  after a long day. The floor is bare, except for a{y} {MAG,BO}cushion{mag,bo}{Y} near
+  the far end, and a{y} {GREEN,BO}grass mat{green,bo} {Y}in the far corner. Numerous weapons
+  are hanging up on the walls, some recognizable, some rather
+  exotic. Rith keeps his most favored weapon well out of reach of
+  mortals, who could easily hurt themselves with it...{y}
+{Y}
+  Rith lives a peaceful life here, alone.
+{y}
+~
+386 4194312 5
+D2
+~
+Rith~
+1 -1 38601
+E
+cushion~
+{MAG,BO}
+  This cushion looks very comfortable. Occasionally Rith uses
+  it for meditating, when the weather outside is unpleasant,
+  but he also offers it willingly to guests requiring a place
+  to sit down and relax.{mag,bo}
+~
+E
+mat~
+{GREEN,BO}
+  This is a wonderful mat made from Kadr grass, the special
+  grass that only grows upon Mt. Kadr's slopes. This grass
+  is durable, yet soft, and ideal for sleeping upon.{green,bo}
+~
+Z-1
+C0
+S
+#38601
+A quiet mountain path...~
+  {GR}
+  You have been summoned to the top of the forbidding
+  Mt. Kadr.  Examining your surroundings, you are in
+  awe of the beauty you see before you. A magnificent{gr}{CY,BO}
+  waterfall{cy,bo} {GR}cascades down the cliff to your right, and
+  nearby is a carefully tended garden of exotic{gr} {R,BO}flowers{r,bo}{GR}.
+  To your left, you spy a single{gr} {BLA,BO}tombstone{bla,bo}{GR}, standing
+  proudly in the far-off sunset's red glow.
+  {gr}
+~
+386 4194304 5
+D0
+~
+Rith~
+1 -1 38600
+E
+waterfall~
+  {CY,BO}
+  What a lovely sight! It appears as though a tall
+  curtain of pure water is whipping back and forth
+  in the wind. Rith often comes here to reflect on
+  life, gazing into the crystal-clear cascade...{cy,bo} 
+~
+E
+flowers~
+  {Y,BO}
+  A charming panoply of color dazzles your eyes as
+  you gaze upon the flowers lining the pathway,
+  ranging from{y,bo} {R,BO}brightest reds{r,bo} {Y,BO}to{y,bo} {BLUE}deepest blues{blue}{Y,BO}. The
+  flowers are well tended and look very healthy.{y,bo} 
+~
+E
+tombstone~
+{BLA,BO}
+  In loving memory of my father,
+      Kenneth Louis Pritt{bla,bo}
+ 
+{BLA,BO}         Jan 26, 1959-
+          Mar 3, 1982{bla,bo}
+{WHI}
+     Your presence is missed.
+      Your absence is felt.{whi}
+~
+Z3
+C-1
+S
+#38602
+{BLA,BO}Bored?{bla,bo} {WHI,BLI,BO}GAMES!{whi,bli,bo}~
+{WHI}
+  Welcome to{whi} {BLA,BO}Bored?{bla,bo} {WHI,BLI,BO}GAMES!{whi,bli,bo}
+{WHI}
+  In this zone, you will be required to pit your strengths
+  against a world of board games gone bad! This does require
+  a good deal of physical strength, but one must also be
+  strong of mind to conquer some areas. Caution is advised,
+  for these are dangerous games we play, and an instant death
+  may be lurking within...{whi}
+{WHI}
+  A{whi} {MAG,BO}sign{mag,bo} {WHI}is standing here.
+{whi}
+~
+386 12 1
+D3
+~
+~
+0 -1 38603
+E
+sign~
+{CY,BO}
+  Newbies to the west...
+   /
+  <------------
+   \
+{cy,bo}{BLU,BO}
+                  Advanced chars to the east...
+                                              \
+                                  ------------->
+                                              /{blu,bo}
+~
+Z-1
+C-1
+S
+#38603
+{WHI,BO}Corridor to the{whi,bo} {CY,BO}newbie games{cy,bo}~
+{CY,BO}
+  This way, boys and girls!
+ 
+  This corridor is very cheerful, with lots of pretty
+  colors beaming from the walls: bright{cy,bo} {RED,BO}reds{red,bo} {CY,BO}and{cy,bo} {WHI,BO}whites {whi,bo} 
+  {CY,BO}and{cy,bo} {Y,BO}yellows{y,bo}{CY,BO}. What fun this will be!
+  
+  There is a{cy,bo} {MAG,BO}sign{mag,bo} {CY,BO}here.
+{cy,bo}
+~
+386 33554432 1
+D1
+~
+~
+0 -1 38602
+D3
+~
+~
+0 -1 38604
+E
+sign~
+  IOU one sign
+~
+Z-1
+C-1
+S
+#38604
+{WHI,BO}You are{whi,bo} {GREEN}HOME{green}{WHI,BO}!{whi,bo}~
+{GREE,BO}
+  Well, not YOUR home precisely, but more of a greenish
+  circle on the board, with the word{gree,bo} {GREE}HOME{gree} {GREE,BO}printed on it.
+  You look around curiously, wondering where to go from
+  here, but the only exit you see is just south of you.
+  Perhaps you should explore, but be careful or you might
+  be...{gree,bo}{WHI,BO,REV}Sorry!
+{whi,bo,rev}
+~
+386 33554432 1
+D2
+~
+~
+0 -1 38605
+Z-1
+C-1
+S
+#38605
+{WHI,BO}Path to{whi,bo} {GREEN}HOME{green}~
+{GREEN,BO}
+  Normally, you would be travelling TOWARDS{gree,bo} {GREE}HOME{gree} {GREE,BO}rather than
+  away from it. However, these are hardly normal circumstances.
+  As you make your way down the path, though, you do see a
+  lonely Green Pawn standing here, looking bored, waiting to
+  move the 1 or 2 spaces left to get{gree,bo} {GREE}HOME{gree}{GREE,BO}. He might be waiting
+  here a loooooong time. Maybe you should put him out of his
+  misery...
+{gree,bo}
+~
+386 33554432 1
+D0
+~
+~
+0 -1 38604
+D2
+~
+~
+0 -1 38606
+Z-1
+C-1
+S
+#38606
+{WHI,BO}A{whi,bo} {GREE,BO}green slide{gree,bo}~
+{GREE,BO}
+  These slides were once used to zip pawns rapidly from one  
+  end to the other, but now they lie broken, their powers
+  gone. Lucky for you, actually. To the west, you can see
+  that part of the board is missing, and there is an{gree,bo}
+  {BLA,BO,BLI}endless pit{bla,bo,bli} {GREE,BO}where the Green Pawns{gree,bo} {GREE}START{gree} {GREE,BO}area used to be.
+  If the slide was working, you'd be tossed right in! Best
+  to avoid that area...
+{gree,bo}
+~
+386 33554432 1
+D0
+~
+~
+0 -1 38605
+D1
+~
+~
+0 -1 38608
+D3
+~
+~
+0 -1 38607
+Z-1
+C-1
+S
+#38607
+{WHI,BO}The{whi,bo} {BLA,BO,BLI}endless pit{black,bo,blin}{WHI,BO}!!!{whi,bo}~
+{WHI}
+  You don't take hints very well, do you?
+ 
+  You are just barely hanging on to the edge of the board,
+  which you somehow managed to snag. Looks like you should
+  pay more attention to where you're going!  
+  
+  All right, seeing as how this IS the newbie area, I'll
+  let you off the hook THIS time. Climb back on up, and
+  please, if you want to survive, be more careful! It's a
+  long way down, if you catch my drift...
+{whi}
+~
+386 33554432 1
+D4
+~
+~
+0 -1 38606
+Z-1
+C-1
+S
+#38608
+{WHI,BO}Corner of the board{whi,bo}~
+{WHI,BO}
+  You are standing on the southeast corner of the
+  board. Looking north, you see that you have quite
+  a journey ahead of you. The board stretches off
+  into the distance, and along the way, you spot
+  several different colored pawns moving about. They
+  appear to be trying to knock each other off the
+  board! You stare in horror as you witness a{whi,bo} {RED,BO}Red
+  Pawn{red,bo} {WHI,BO}ram into a{whi,bo} {Y,BO}Yellow Pawn{y,bo}{WHI,BO}, tossing it into the
+  inky blackness below. GULP!
+{whi,bo}
+~
+386 33554432 1
+D0
+~
+~
+0 -1 38609
+D3
+~
+~
+0 -1 38606
+Z-1
+C-1
+S
+#38609
+{WHI,BO}A{whi,bo} {Y,BO}yellow slide{y,bo}~
+{Y,BO}
+  You make your way forward, nervously now, on
+  constant alert for the{y,bo} {RED,BO}Red Pawns{red,bo}{Y,BO}, which seem to
+  be far more aggresive than the rest. Cautiously,
+  you continue down the defunct slide.
+{y,bo}
+~
+386 33554432 1
+D0
+~
+~
+0 -1 38610
+D2
+~
+~
+0 -1 38608
+Z-1
+C-1
+S
+#38610
+{WHI,BO}A white square{whi,bo}~
+{WHI,BO}
+  You are stopped suddenly by a gruesome sight. Two {whi,bo}{RED,BO}  
+  Red Pawns{red,bo} {WHI,BO}have ganged up on a{whi,bo} {Y,BO}Yellow Pawn{y,bo}{WHI,BO}, and have
+  just savagely snapped off it's head! This is just
+  too horrible! The{whi,bo} {RED,BO}Red Pawns{red,bo} {WHI,BO}casually sweep the sad
+  remains off the board. They must be stopped!
+{whi,bo}
+~
+386 33554432 1
+D0
+~
+~
+0 -1 38611
+D2
+~
+~
+0 -1 38609
+Z-1
+C-1
+S
+#38611
+{WHI,BO}Outside{whi,bo} {Y}START{y}~
+{WHI,BO}
+  To your west, you see the entrance to{whi,bo} {Y}START{y}{WHI,BO}, the
+  starting point for the{whi,bo} {Y,BO}Yellow Pawns{y,bo}{WHI,BO}. However, this
+  entry has been boarded up! Peeking through a crack
+  in the boards, you notice several{whi,bo} {Y,BO}Yellow Pawns{y,bo} {WHI,BO}up
+  against the far end, huddled in a clumps, shivering,
+  scared to death. After what you've witnessed, you
+  don't blame them.
+{whi,bo}
+~
+386 33554432 1
+D0
+~
+~
+0 -1 38612
+D2
+~
+~
+0 -1 38610
+Z-1
+C-1
+S
+#38612
+{Y,BO}Slide{y,bo} {WHI,BO}outside of{whi,bo} {Y}HOME{y}~
+{Y,BO}
+  Up ahead, you can see the edge of the board! Thank
+  goodness! Surely all you have to do is go around that
+  corner, and you can get out of here! You definitely
+  aren't going to be able to enter the yellow{y,bo} {Y}HOME{y}{Y,BO}, for
+  it is boarded up just as well as{y,bo} {Y}START{y} {Y,BO}was. You pray
+  for the safety of the Yellow Pawns and continue...
+{y,bo}
+~
+386 33554432 1
+D0
+~
+~
+0 -1 38613
+D2
+~
+~
+0 -1 38611
+Z-1
+C-1
+S
+#38613
+{WHI,BO}Corner of the board{whi,bo}~
+{WHI,BO}
+  Well, you finally made it to the edge! Feels pretty
+  good, huh? You glance to the west...and are stunned
+  to see that you still have a long way to go! You've
+  now entered the domain of the{whi,bo} {BLU,BO}Blue Pawns{blu,bo}{WHI,BO}. You hope
+  they are friendly...
+{whi,bo}
+~
+386 33554432 1
+D2
+~
+~
+0 -1 38612
+D3
+~
+~
+0 -1 38614
+Z-1
+C-1
+S
+#38614
+{WHI,BO}A{whi,bo} {BLU,BO}blue slide{blu,bo}~
+{BLU,BO}
+  Walking along, you look ahead of you. The{blu,bo} {RED,BO}Red Pawns{red,bo}
+  {BLU,BO}are still destroying the Blue Pawns, but at least it
+  isn't a slaughter. The Blue Pawns have actually set
+  up small defense forces of twos and threes, which
+  have kept the{blu,bo} {RED,BO}Red Pawns{red,bo} {BLU,BO}from decimating them like
+  they did the{blu,bo} {Y,BO}Yellow Pawns{y,bo}{BLU,BO}.
+{blu,bo}
+~
+386 33554432 1
+D1
+~
+~
+0 -1 38613
+D3
+~
+~
+0 -1 38615
+Z-1
+C-1
+S
+#38615
+{WHI,BO}A white square{whi,bo}~
+{WHI,BO}
+  Strange. The{whi,bo} {BLU,BO}Blue Pawns{blu,bo} {WHI,BO}seem to have some sort of
+  shielding on them that makes them difficult to hurt.
+  However, that isn't stopping the{whi,bo} {RED,BO}Red Pawns{red,bo} {WHI,BO}from
+  attacking in large packs, using their combined might
+  to push the{whi,bo} {BLU,BO}Blue Pawns{blu,bo} {WHI,BO}over the edge, since they
+  can't seem to damage them.
+{whi,bo}
+~
+386 33554432 1
+D1
+~
+~
+0 -1 38614
+D3
+~
+~
+0 -1 38616
+Z-1
+C-1
+S
+#38616
+{WHI,BO}Outside{whi,bo} {BLU}START{blu}~
+{WHI,BO}
+  You have now reached the{whi,bo} {BLU}START{blu} {WHI,BO}point for the{whi,bo} {BLU,BO}Blue
+  Pawns{blu,bo}{WHI,BO}. Looking south, you can see the entrance,
+  while not boarded up, is still well protected, with
+  numerous{whi,bo} {BLU,BO}Blue Pawns{blu,bo} {WHI,BO}guarding it. They look sad, 
+  but stern, and it is clear that they will not trust 
+  you enough to allow you in.
+{whi,bo}
+~
+386 33554432 1
+D1
+~
+~
+0 -1 38615
+D3
+~
+~
+0 -1 38617
+Z-1
+C-1
+S
+#38617
+{BLU,BO}Slide{blu,bo} {WHI,BO}outside of{whi,bo} {BLU}HOME{blu}~
+{BLU,BO}
+  As you expected,{blu,bo} {BLU}HOME{blu} {BLU,BO}is just as well guarded as{blu,bo} {BLU}START{blu}  {BLU,BO}
+  was, and there is no way to break through the dense
+  protective wall of Blue Pawns standing guard. Really,
+  the only thing you can do now is forge ahead and try
+  your best to put an end to this madness.
+{blu,bo}
+~
+386 33554432 1
+D1
+~
+~
+0 -1 38616
+D3
+~
+~
+0 -1 38618
+Z-1
+C-1
+S
+#38618
+{WHI,BO}Corner of the board{whi,bo}~
+{WHI,BO}
+  You have successfully travelled through the{whi,bo} {BLU,BO}Blue{blu,bo}{WHI,BO}  
+  section. Turning south, you see that there is a
+  new twist in the Battle for the Board. A small
+  force of{whi,bo} {GREE,BO}Green Pawns{gree,bo} {WHI,BO}are fighting back! You fear
+  that they are too few to make a difference, and
+  decide to rush in and help!
+{whi,bo}
+~
+386 33554432 1
+D1
+~
+~
+0 -1 38617
+D2
+~
+~
+0 -1 38619
+Z-1
+C-1
+S
+#38619
+{WHI,BO}A{whi,bo} {RED,BO}red slide{red,bo}~
+{RED,BO}
+  You can tell by the color of the slide you
+  are walking on that this is the territory of
+  the Red Pawns. Even though the{red,bo} {GREE,BO}Green Pawns{gree,bo}{RED,BO}  
+  seem to be holding their own fairly well, they
+  are no match for the home team advantage of
+  the Red Pawns.
+{red,bo}
+~
+386 33554432 1
+D0
+~
+~
+0 -1 38618
+D2
+~
+~
+0 -1 38620
+Z-1
+C-1
+S
+#38620
+{WHI,BO}A white square{whi,bo}~
+{WHI,BO}
+  Up ahead, you see two{whi,bo} {GREE,BO}Green Pawns{gree,bo} {WHI,BO}making a mad
+  dash at the{whi,bo} {RED,BO}Red Pawns{red,bo} {WHI,BO}guarding{whi,bo}{RED} START{red}{WHI,BO}. The group
+  of{whi,bo} {RED,BO}Red Pawns{red,bo} {WHI,BO}manages to shove a{whi,bo}{GREE,BO} Green Pawn{gree,bo} {WHI,BO}over
+  the edge. The other one is furious, and knocks
+  two{whi,bo} {RED,BO}Red Pawns{red,bo} {WHI,BO}over the edge before they finally
+  manage to snap it in half. Be careful!
+{whi,bo}
+~
+386 33554432 1
+D0
+~
+~
+0 -1 38619
+D2
+~
+~
+0 -1 38621
+Z-1
+C-1
+S
+#38621
+{WHI,BO}Outside{whi,bo} {RED}START{red}~
+{WHI,BO}
+  You have penetrated deep into the heart of the{whi,bo}{RED,BO}
+  Red Pawns{red,bo} {WHI,BO}territory. Things are going to get
+  difficult now. To the east, you can see into
+  the{whi,bo} {RED,BO}Red Pawns{red,bo}{RED} START{red}{WHI,BO} point. There is only one {whi,bo}{RED,BO}  
+  Pawn{red,bo} {WHI,BO}inside, but you have to be able to get
+  past all the ones outside first!
+{whi,bo}
+~
+386 33554432 1
+D0
+~
+~
+0 -1 38620
+D1
+~
+~
+0 -1 38622
+D2
+~
+~
+0 -1 38623
+Z-1
+C-1
+S
+#38622
+{WHI,BO}Inside the enemy's{whi,bo} {RED}START{red}~
+{RED,BO}
+  You should be proud! You've made it all the
+  way here! But you may not go much further.
+  This particular Red Pawns looks rather hard
+  to defeat. Nevertheless, the evil must be
+  defeated! Attack!
+{red,bo}
+~
+386 33554432 1
+D3
+~
+~
+0 -1 38621
+Z-1
+C-1
+S
+#38623
+{RED,BO}Slide{red,bo} {WHI,BO}outside of{whi,bo} {RED}HOME{red}~
+{RED,BO}  
+  You have almost reached your final destination!
+  The Red Pawn Army lies broken behind you, and
+  now you can move onward, knowing you have saved
+  the day. However...it appears that the Red Pawns
+  have erected a gate here to stop intruders. You
+  will have to find some way past! 
+  
+  To the south, you notice that the corner of the
+  board has been destroyed, reminding you of the{red,bo}{GREE,BO}  
+  Green Pawns{gree,bo} {GREE}START{gree} {RED,BO}point. Perhaps the Red Pawns
+  were afraid that the{red,bo} {GREE,BO}Green Pawns{gree,bo} {RED,BO}would put up
+  too great a resistance, and destroyed the board
+  themselves...
+{red,bo}
+~
+386 33554432 1
+D0
+~
+~
+0 -1 38621
+D1
+{RED,BO}
+  This gate looks very strong. You are not going to
+  be able to force your way in. Looks like you will
+  have to find some other solution...
+{red,bo}
+~
+red~
+2 -1 38624
+Z-1
+C-1
+S
+#38624
+{WHI,BO}Path to{whi,bo} {RED}HOME{red}~
+{RED,BO}
+  As you make your way down the path, suddenly
+  a monstrous Red Pawn steps in your way! This
+  is the Red Pawns greatest warrior, and he is
+  rather upset. He challenges you to a fight to
+  the death! Will you accept?
+{red,bo}
+~
+386 33554432 1
+D1
+~
+~
+0 -1 38625
+D3
+~
+red~
+1 -1 38623
+Z-1
+C-1
+S
+#38625
+{WHI,BO}You are{whi,bo} {RED}HOME{red}{WHI,BO}!{whi,bo}~
+{RED,BO}
+  Whew! You made it past the best that this area
+  had to offer! Kicking aside a rug you find in
+  the middle of the circle, you see a trapdoor on
+  the floor. Looks like this is your ticket out
+  of here!
+{red,bo}
+~
+386 33554432 1
+D3
+~
+~
+0 -1 38624
+D5
+~
+trapdoor~
+1 -1 38626
+Z-1
+C-1
+S
+#38626
+{WHI,BO}A vibrating field...{whi,bo}~
+{GREE}
+  Well, this is a hippo of a different color! You
+  look around curiously. You are standing in a vast
+  open field surrounded entirely by trees. You have
+  trouble finding your footing. The ground is shaking
+  beneath your feet! What is this, an earthquake?
+  The odd seismic activity is moving a large number
+  of{gree} {WHI,BO}small plastic balls{whi,bo} {GREE}around, and some occasionally
+  disappear into the forest. Better have a look around.
+{gree}
+~
+386 33554432 2
+D1
+~
+~
+0 -1 38627
+D2
+~
+~
+0 -1 38629
+Z-1
+C-1
+S
+#38627
+{WHI,BO}A vibrating field...{whi,bo}~
+{GREE}
+  All this stumbling around is driving you crazy!
+  Just what could be making the ground shake so
+  badly? Furthermore, these{gree} {WHI,BO}tiny spheres{whi,bo} {GREE}are always
+  getting underfoot. Even if you take a few of them
+  out, more appear! Argh!
+  
+  You spot a few of the{gree} {WHI,BO}plastic balls{whi,bo} {GREE}rolling over
+  to the edge of the forest, where you spot a way
+  through the tightly packed trees. Perhaps the
+  exit you are looking for is in there...
+{gree}
+~
+386 33554432 2
+D0
+~
+~
+0 -1 38636
+D1
+~
+~
+0 -1 38628
+D2
+~
+~
+0 -1 38630
+D3
+~
+~
+0 -1 38626
+Z-1
+C-1
+S
+#38628
+{WHI,BO}A vibrating field...{whi,bo}~
+{GREE}
+  You are standing in another corner of the field,
+  and throw out your hands as the steady vibrations
+  nearly throw you into the wall of trees. The trees
+  stand defiantly in your way, and you cannot find
+  a way through. Time to look around a bit more.
+{gree}
+~
+386 33554432 2
+D2
+~
+~
+0 -1 38631
+D3
+~
+~
+0 -1 38627
+Z-1
+C-1
+S
+#38629
+{WHI,BO}A vibrating field...{whi,bo}~
+{GREE}
+  All this stumbling around is driving you crazy!
+  Just what could be making the ground shake so
+  badly? Furthermore, these{gree} {WHI,BO}tiny spheres{whi,bo} {GREE}are always
+  getting underfoot. Even if you take a few of them
+  out, more appear! Argh!
+  
+  You spot a few of the{gree} {WHI,BO}plastic balls{whi,bo} {GREE}rolling over
+  to the edge of the forest, where you spot a way
+  through the tightly packed trees. Perhaps the
+  exit you are looking for is in there...
+{gree}
+~
+386 33554432 2
+D0
+~
+~
+0 -1 38626
+D1
+~
+~
+0 -1 38630
+D2
+~
+~
+0 -1 38632
+D3
+~
+~
+0 -1 38635
+Z-1
+C-1
+S
+#38630
+{WHI,BO}A vibrating field...{whi,bo}~
+{GR}  
+  This is the center of the field. The number of
+  these{gr} {WHI,BO}little white orbs{whi,bo} {GR}seems endless as you
+  survey the land. To the north, south, east, and
+  west, you can see openings in the encompassing
+  forest. The openings don't look very inviting.
+  They are dark and gloomy-looking. But, as there
+  seems to be no other way into the otherwise
+  impenetrable wall of trees, one of those openings
+  must be the exit out of this endlessly-shaking
+  field. 
+{gr}
+~
+386 33554432 2
+D0
+~
+~
+0 -1 38627
+D1
+~
+~
+0 -1 38631
+D2
+~
+~
+0 -1 38633
+D3
+~
+~
+0 -1 38629
+Z-1
+C-1
+S
+#38631
+{WHI,BO}A vibrating field...{whi,bo}~
+{GREE}
+  All this stumbling around is driving you crazy!
+  Just what could be making the ground shake so
+  badly? Furthermore, these{gree} {WHI,BO}tiny spheres{whi,bo} {GREE}are always
+  getting underfoot. Even if you take a few of them
+  out, more appear! Argh!
+  
+  You spot a few of the{gree} {WHI,BO}plastic balls{whi,bo} {GREE}rolling over
+  to the edge of the forest, where you spot a way
+  through the tightly packed trees. Perhaps the
+  exit you are looking for is in there...
+{gree}
+~
+386 33554432 2
+D0
+~
+~
+0 -1 38628
+D1
+~
+~
+0 -1 38637
+D2
+~
+~
+0 -1 38634
+D3
+~
+~
+0 -1 38630
+Z-1
+C-1
+S
+#38632
+{WHI,BO}A vibrating field...{whi,bo}~
+{GREE}
+  You are standing in another corner of the field,
+  and throw out your hands as the steady vibrations
+  nearly throw you into the wall of trees. The trees
+  stand defiantly in your way, and you cannot find
+  a way through. Time to look around a bit more.
+{gree}
+~
+386 33554432 2
+D0
+~
+~
+0 -1 38629
+D1
+~
+~
+0 -1 38633
+Z-1
+C-1
+S
+#38633
+{WHI,BO}A vibrating field...{whi,bo}~
+{GREE}
+  All this stumbling around is driving you crazy!
+  Just what could be making the ground shake so
+  badly? Furthermore, these{gree} {WHI,BO}tiny spheres{whi,bo} {GREE}are always
+  getting underfoot. Even if you take a few of them
+  out, more appear! Argh!
+  
+  You spot a few of the{gree} {WHI,BO}plastic balls{whi,bo} {GREE}rolling over
+  to the edge of the forest, where you spot a way
+  through the tightly packed trees. Perhaps the
+  exit you are looking for is in there...
+{gree}
+~
+386 33554432 2
+D0
+~
+~
+0 -1 38630
+D1
+~
+~
+0 -1 38634
+D2
+~
+~
+0 -1 38638
+D3
+~
+~
+0 -1 38632
+Z-1
+C-1
+S
+#38634
+{WHI,BO}A vibrating field...{whi,bo}~
+{GREE}
+  You are standing in another corner of the field,
+  and throw out your hands as the steady vibrations
+  nearly throw you into the wall of trees. The trees
+  stand defiantly in your way, and you cannot find
+  a way through. Time to look around a bit more.
+{gree}
+~
+386 33554432 2
+D0
+~
+~
+0 -1 38631
+D3
+~
+~
+0 -1 38633
+Z-1
+C-1
+S
+#38635
+{GR}A{gr} {GR,BO}Hippo{gr,bo}{GR}'s Lair{gr}~
+{GREE}
+  There is a rustling in the nearby bushes. You
+  can tell that this particular something is
+  rather large. The earth shakes with the forest
+  monster's movements. What could it be? All of
+  a sudden, a few trees nearby topple over, and
+  you can finally get a glimpse of the hideous
+  beast! Make it a quick glimpse, though, or else
+  it may notice you, and decide to satisfy its
+  hunger...
+{gree}
+~
+386 33554432 2
+D1
+~
+~
+0 -1 38629
+Z-1
+C-1
+S
+#38636
+{GR}A{gr} {MAG,BO}Hippo{mag,bo}{GR}'s Lair{gr}~
+{GREE}
+  There is a rustling in the nearby bushes. You
+  can tell that this particular something is
+  rather large. The earth shakes with the forest
+  monster's movements. What could it be? All of
+  a sudden, a few trees nearby topple over, and
+  you can finally get a glimpse of the hideous
+  beast! Make it a quick glimpse, though, or else
+  it may notice you, and decide to satisfy its
+  hunger...
+{gree}
+~
+386 33554432 2
+D2
+~
+~
+0 -1 38627
+Z-1
+C-1
+S
+#38637
+{GRE}A{gre} {BLU,BO}Hippo{blu,bo}{GR}'s Lair{gr}~
+{GREE}
+  There is a rustling in the nearby bushes. You
+  can tell that this particular something is
+  rather large. The earth shakes with the forest
+  monster's movements. What could it be? All of
+  a sudden, a few trees nearby topple over, and
+  you can finally get a glimpse of the hideous
+  beast! Make it a quick glimpse, though, or else
+  it may notice you, and decide to satisfy its
+  hunger...
+{gree}
+~
+386 33554432 2
+D3
+~
+~
+0 -1 38631
+Z-1
+C-1
+S
+#38638
+{GR}A{gr} {Y,BO}Hippo{y,bo}{GR}'s Lair{gr}~
+{GR}
+  Strange. This section of the forest is remarkably
+  quiet. The constant trembling of the earth seems
+  distant as well. The silence is almost eerie, but
+  it is quickly cut off by a VERY loud snorting noise!
+  It seems whatever is in these woods has found you!
+  Turning to look, you gaze upon the largest{gr} {Y,BO}Hippo{y,bo}{GR}
+  you have ever seen. This{gr} {Y,BO}Hippo{y,bo} {GR}could easily tear
+  this entire forest apart, and you with it. However,
+  it seems to be asleep, and snoring. It's mouth is
+  shut very tight as it breathes through its nostrils,
+  and you wonder if it could be hiding anything...
+{gr}
+~
+386 33554432 2
+D0
+~
+~
+0 -1 38633
+D2
+{Y,BO}
+  You are gazing at the enormous Hippo's mouth.
+  It is sealed very tightly, almost like the
+  Hippo is experiencing some discomfort. You
+  feel the urge to get a peek at what is inside
+  his massive jaws, but first you are going to
+  need some way to coax his mouth open...
+{y,bo}
+~
+mouth~
+2 -1 38639
+Z-1
+C-1
+S
+#38639
+{WHI,BO}Inside a large{whi,bo} {Y,BO}Hippo{y,bo}~
+{Y,BO}
+  This would be rather disgusting if it weren't for
+  the fact that this Hippo isn't a real hippo! How
+  odd! As you make your way through the inside, you
+  can tell that this Hippo is obviously made of some
+  sort of yellow plastic. But it seemed so real on
+  the outside...
+  
+  Bright light shines up ahead, and you determine
+  that you are almost out of the yellow tunnel. What
+  awaits you on the other side?
+{y,bo}
+~
+386 33554440 1
+D0
+~
+mouth~
+1 -1 38638
+D2
+~
+~
+0 -1 38640
+Z-1
+C-1
+S
+#38640
+{WHI,BO}The first floor{whi,bo}~
+{WHI,BO}
+  A soft breeze whispers lightly against your
+  cheek. Birds twitter nearby. You can hear
+  the faraway sounds of children at play. You
+  close your eyes and soak in the peace. Smiling,
+  you gaze up...and up, and up, and UP! There
+  are multiple platforms stacked right above the
+  one you are standing on! And there is nothing
+  holding them up! Turning back toward the tunnel,
+  you find it has vanished...no escape that way.
+  
+  Taking another look at your surroundings, you
+  see that connected to each platform are randomly
+  placed ladders and slides. But what mysterious
+  force could be holding the thing together?
+{whi,bo}
+~
+386 33554432 1
+D1
+~
+~
+0 -1 38641
+Z-1
+C-1
+S
+#38641
+{WHI,BO}The first floor{whi,bo}~
+{WHI,BO}
+  Walking along, you are suddenly aware that
+  you are not alone on this platform. Glancing
+  down, you spot numerous{whi,bo} {GR}snakes{gr} {WHI,BO}slithering
+  here and there. The floor is almost totally
+  covered by their{whi,bo} {GR}scaly serpent bodies{gr}{WHI,BO}. Oh,
+  chute! What are you going to do now?
+{whi,bo}
+~
+386 33554432 1
+D1
+~
+~
+0 -1 38642
+D3
+~
+~
+0 -1 38640
+Z-1
+C-1
+S
+#38642
+{WHI,BO}The first floor{whi,bo}~
+{WHI,BO}
+  Here is the only ladder that you can locate
+  on the first floor. Hopefully, this ladder,
+  which leads up to the second floor, will
+  also take you away from all the vile snakes
+  that are constantly hissing at you and trying
+  to bite your ankles.
+{whi,bo}
+~
+386 33554432 1
+D1
+~
+~
+0 -1 38643
+D3
+~
+~
+0 -1 38641
+D4
+~
+~
+0 -1 38646
+Z-1
+C-1
+S
+#38643
+{WHI,BO}The first floor{whi,bo}~
+{WHI,BO}
+  Pausing to take a breather for a while, you once
+  again turn your gaze toward the platforms above
+  you, wondering with renewed curiosity how it is
+  possible for them to remain standing in mid-air.
+  There are no supports around, only the ladders
+  and slides you've seen before. Asking these
+  questions unfortunately does not provide you
+  with any answers, but as you bring yourself back
+  to this floor, you notice the end of a rather long
+  slide in this area.
+{whi,bo}
+~
+386 33554432 1
+D1
+~
+~
+0 -1 38644
+D3
+~
+~
+0 -1 38642
+Z-1
+C-1
+S
+#38644
+{WHI,BO}The first floor{whi,bo}~
+{WHI,BO}
+  This floor seems to stretch on forever! Staring
+  at the floor is beginning to take on a hypnotic
+  quality, as the slender shapes writhe and slither
+  along the floor. Vaguely, you wonder if perhaps
+  there might be fewer{whi,bo} {GR}snakes{gr} {WHI,BO}on one of the higher
+  levels...
+{whi,bo}
+~
+386 33554432 1
+D1
+~
+~
+0 -1 38645
+D3
+~
+~
+0 -1 38643
+Z-1
+C-1
+S
+#38645
+{WHI,BO}End of the first floor{whi,bo}~
+{WHI,BO}
+  There is nothing here, other than the vast amount
+  of{whi,bo} {GR}snakes{gr} {WHI,BO}littering the floor. Obviously the exit
+  is not in this direction. Perhaps you should head
+  back to the ladder and see what you can find on one
+  of the floating platforms above you. 
+{whi,bo}
+~
+386 33554432 1
+D3
+~
+~
+0 -1 38644
+Z-1
+C-1
+S
+#38646
+{WHI,BO}Ladder to the second floor{whi,bo}~
+{WHI,BO}
+  It is a long way up to the second floor. You
+  can feel yourself breaking a sweat as you climb
+  the ladder. Gritting your teeth, you continue
+  your ascent.
+{whi,bo}
+~
+386 33554432 1
+D4
+~
+~
+0 -1 38647
+Z-1
+C-1
+S
+#38647
+{WHI,BO}The second floor{whi,bo}~
+{WHI,BO}
+  You are now standing upon the first floating
+  platform. It seems sturdy enough. In fact, the
+  ground beneath your feet doesn't move even the
+  tiniest bit. A breeze is blowing all around you,
+  yet the platform does not sway or tremble at all.
+  
+  Looking down, you notice that you are standing
+  in mid-air! You quickly run to stand on the edge
+  of the platform and look down. It's a long way
+  to the bottom! You put your foot over the hole
+  you came up through and press down lightly. Your
+  foot hits the air like solid ground. It isn't 
+  clear what unusual forces are at work in this
+  area, but clearly what goes up does not go back
+  down.
+{whi,bo}
+~
+386 33554432 1
+D1
+~
+~
+0 -1 38655
+D3
+~
+~
+0 -1 38648
+Z-1
+C-1
+S
+#38648
+{WHI,BO}The second floor{whi,bo}~
+{WHI,BO}  
+  Once the initial wonder of walking on a floating
+  platform leaves, you notice that there are{whi,bo} {GR}snakes{gr}
+  {WHI,BO}on this floor too, although not as many. Looking
+  south, you see one of the slides making its way
+  past this floor to the bottom. From your viewpoint,
+  you can't tell where the top of the chute is. 
+{whi,bo}
+~
+386 33554432 1
+D1
+~
+~
+0 -1 38647
+D3
+~
+~
+0 -1 38649
+Z-1
+C-1
+S
+#38649
+{WHI,BO}The second floor{whi,bo}~
+{WHI,BO}
+  You have reached the west end of the second
+  floor. Looking over the edge of the platform,
+  you can see the ground about 40 feet below
+  you! Quickly averting your gaze from the steep
+  drop, you notice the ladder leading up to the
+  third level. After what you just saw, though,
+  are you sure you want to continue climbing?
+{whi,bo}
+~
+386 33554432 1
+D1
+~
+~
+0 -1 38648
+D4
+~
+~
+0 -1 38650
+Z-1
+C-1
+S
+#38650
+{WHI,BO}Ladder to the third floor{whi,bo}~
+{WHI,BO}
+  This ladder is even taller than the one to the
+  second level was. You can detect a slight chill
+  in the air from the high altitude. Nevertheless,
+  the air seems a bit cleaner up here. The scent
+  coming off of the numerous{whi,bo} {GR}snakes{gr} {WHI,BO}below doesn't
+  seem as stifling anymore. Perhaps you are finally
+  leaving them behind.
+{whi,bo}
+~
+386 33554432 1
+D4
+~
+~
+0 -1 38651
+Z-1
+C-1
+S
+#38651
+{WHI,BO}The third floor{whi,bo}~
+{WHI,BO}
+  Panting for air, you climb onto the surface of
+  the third level. Peeking over the edge, you can
+  now see the ground about 90 feet below! You 
+  quickly decide not to look over the edge again.
+  However, you did get a slight sense of relief
+  as you saw the{whi,bo} {GR}snakes{gr} {WHI,BO}far, far below. Standing
+  up, you make your way along the third floor. 
+{whi,bo}
+~
+386 33554432 1
+D1
+~
+~
+0 -1 38652
+Z-1
+C-1
+S
+#38652
+{WHI,BO}The third floor{whi,bo}~
+{WHI,BO}
+  Walking along, you can feel your body relax as
+  it doesn't have to contend with those vicious{whi,bo}
+  {GR}snakes{gr} {WHI,BO}anymore. Up above you, you hear the sounds
+  of children playing! How curious! What are they
+  doing here with all the{whi,bo} {GR}snakes{gr} {WHI,BO}around? They sound
+  like they are having fun. Their laughter is a
+  welcome, pleasant sound to your ears. Smiling to
+  yourself, you continue along the path.
+{whi,bo}
+~
+386 33554432 1
+D1
+~
+~
+0 -1 38653
+D3
+~
+~
+0 -1 38651
+Z-1
+C-1
+S
+#38653
+{WHI,BO}The third floor{whi,bo}~
+{WHI,BO}
+  This is the end of the third floor? The platform
+  suddenly stops here. What's worse, there is no
+  ladder! You can't go up any more. And since you
+  can't climb down a ladder, you can't go back the
+  way you came. Fortunately, there is a chute here.
+  However, you have no idea where it leads to. Only
+  way to find out is to take it...
+{whi,bo}
+~
+386 33554432 1
+D3
+~
+~
+0 -1 38652
+D5
+~
+~
+0 -1 38654
+Z-1
+C-1
+S
+#38654
+{R,BO}A long and winding chute...{r,bo}~
+{R,BO}
+  D
+   O
+    W
+     N
+      
+       Y
+      O
+     U
+ 
+   G
+    O
+     O
+      O
+       O
+        O
+         O
+{r,bo}
+~
+386 34603008 1
+D5
+~
+~
+0 -1 38640
+Z-1
+C-1
+S
+#38655
+{WHI,BO}The second floor{whi,bo}~
+{WHI,BO}
+  The floor up ahead lies broken, smashed to pieces.
+  There are a few scattered chunks of cardboard lying
+  around the huge gap where this section of the platform
+  once was. It's clear that you won't be able to continue
+  on this way, but there is a ladder here, in case you
+  want to continue up.
+{whi,bo}
+~
+386 33554432 1
+D3
+~
+~
+0 -1 38647
+D4
+~
+~
+0 -1 38656
+Z-1
+C-1
+S
+#38656
+{WHI,BO}Ladder to the third floor{whi,bo}~
+{WHI,BO}
+  The ladder to the third floor is incredibly tall!
+  The air around you is starting to really develop
+  a chill now, as you climb the ladder, higher, and
+  higher still! Looking down, you can see the ground
+  a GREAT distance below you. Turning your gaze upward,
+  you sigh as you see that you still have a long way
+  to go...
+{whi,bo}
+~
+386 33554432 1
+D4
+~
+~
+0 -1 38657
+Z-1
+C-1
+S
+#38657
+{WHI,BO}The third floor{whi,bo}~
+{WHI,BO}  
+  Panting and gasping for air, you stand up and get
+  a look at your surroundings. The first thing that
+  is obvious is that there are no{whi,bo} {GR}snakes{gr}{WHI,BO}! In fact,
+  there is really nothing extraordinary about this
+  level. There is a slight chill to the air, due to
+  your high altitude, and you wish you'd brought a
+  jacket along.
+{whi,bo}
+~
+386 33554432 1
+D1
+~
+~
+0 -1 38658
+Z-1
+C-1
+S
+#38658
+{WHI,BO}The third floor{whi,bo}~
+{WHI,BO}
+  Above you, you can hear the delightful sound of
+  children laughing and playing. Finally, something
+  cheerful! Suddenly, there is a loud noise from the
+  platform just above your head. It kind of sounded
+  like blasting caps, but you can't be certain. There
+  is a ladder that leads up from here. Perhaps you
+  should investigate the source of the blast. You 
+  hope none of the children were hurt.
+{whi,bo}
+~
+386 33554432 1
+D3
+~
+~
+0 -1 38657
+Z-1
+C-1
+S
+$~

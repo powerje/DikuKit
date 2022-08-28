@@ -1,0 +1,110 @@
+#24
+Paladine's Temple(Zepher)~
+2499 45 1
+*
+M 0  2401    10  2404    the acolyte
+M 0  3077     1  2405    A Decreped Elf
+M 0  2401    10  2405    the acolyte
+D 0  2407     1     0    (E:OPEN) The gardens of Paladine's temple.
+M 0  2403    13  2408    the priest
+E 1  2401    27    12    (ABOUT) {W,BO}The white robe{w}
+M 0  2403    13  2408    the priest
+E 1  2401    27    12    (ABOUT) {W,BO}The white robe{w}
+M 0  2402     6  2409    the acolyte
+G 1  2404     7     0    {Y}A waterskin{y}
+M 0  2402     6  2409    the acolyte
+G 1  2404     7     0    {Y}A waterskin{y}
+M 0  2403    13  2410    the priest
+E 1  2401    27    12    (ABOUT) {W,BO}The white robe{w}
+M 0  2403    13  2410    the priest
+E 1  2401    27    12    (ABOUT) {W,BO}The white robe{w}
+M 0  2404    12  2412    the priestess
+E 1  2401    27    12    (ABOUT) {W,BO}The white robe{w}
+M 0  2404    12  2412    the priestess
+E 1  2401    27    12    (ABOUT) {W,BO}The white robe{w}
+M 0  2407     1  2413    the priest
+E 1  2401    27    12    (ABOUT) {W,BO}The white robe{w}
+M 0  2404    12  2414    the priestess
+E 1  2401    27    12    (ABOUT) {W,BO}The white robe{w}
+M 0  2408     1  2415    Erin the pilgrim
+E 1  3040     2     5    (BODY) a breast plate
+E 1  3081     2     7    (LEGS) a pair of leather pants
+E 1  6002     2     8    (FEET) a pair of leather boots
+E 1  3013     2    16    (WIELD) a light sword
+E 1  3008     1    17    (HELD) a gladiators combat net
+M 0  2404    12  2416    the priestess
+E 1  2401    27    12    (ABOUT) {W,BO}The white robe{w}
+M 0  2404    12  2416    the priestess
+E 1  2401    27    12    (ABOUT) {W,BO}The white robe{w}
+M 0  2401    10  2418    the acolyte
+M 0  2401    10  2418    the acolyte
+M 0  2404    12  2420    the priestess
+E 1  2401    27    12    (ABOUT) {W,BO}The white robe{w}
+M 0  2401    10  2422    the acolyte
+M 0  2401    10  2422    the acolyte
+M 0  2402     6  2424    the acolyte
+G 1  2404     7     0    {Y}A waterskin{y}
+M 0  2402     6  2424    the acolyte
+G 1  2404     7     0    {Y}A waterskin{y}
+M 0  2403    13  2427    the priest
+E 1  2401    27    12    (ABOUT) {W,BO}The white robe{w}
+M 0  2403    13  2427    the priest
+E 1  2401    27    12    (ABOUT) {W,BO}The white robe{w}
+M 0  2403    13  2428    the priest
+E 1  2401    27    12    (ABOUT) {W,BO}The white robe{w}
+M 0  2402     6  2430    the acolyte
+G 1  2404     7     0    {Y}A waterskin{y}
+M 0  2402     6  2430    the acolyte
+G 1  2404     7     0    {Y}A waterskin{y}
+M 0  2403    13  2434    the priest
+E 1  2401    27    12    (ABOUT) {W,BO}The white robe{w}
+M 0  2403    13  2434    the priest
+E 1  2401    27    12    (ABOUT) {W,BO}The white robe{w}
+D 0  2434     1     0    (E:OPEN) Northern parts of the gardens.
+M 0  2403    13  2435    the priest
+E 1  2401    27    12    (ABOUT) {W,BO}The white robe{w}
+D 0  2435     0     0    (N:OPEN) At the corner of the grand hall.
+D 0  2435     3     0    (W:OPEN) At the corner of the grand hall.
+M 0  2404    12  2436    the priestess
+E 1  2401    27    12    (ABOUT) {W,BO}The white robe{w}
+M 0  2401    10  2436    the acolyte
+M 0  2401    10  2436    the acolyte
+D 0  2437     0     0    (N:OPEN) At the corner of the grand hall.
+D 0  2437     1     0    (E:OPEN) At the corner of the grand hall.
+M 0  2404    12  2438    the priestess
+E 1  2401    27    12    (ABOUT) {W,BO}The white robe{w}
+D 0  2438     3     0    (W:OPEN) Northern parts of the gardens.
+M 0  2409     2  2440    the curious pigeon
+M 0  2405     1  2440    the weak man
+M 0  2404    12  2441    the priestess
+E 1  2401    27    12    (ABOUT) {W,BO}The white robe{w}
+O 0  2405     1  2442    The white book
+M 0  2403    13  2443    the priest
+E 1  2401    27    12    (ABOUT) {W,BO}The white robe{w}
+M 0  2403    13  2445    the priest
+E 1  2401    27    12    (ABOUT) {W,BO}The white robe{w}
+D 0  2446     3     0    (W:OPEN) Behind the altar.
+M 0  2404    12  2447    the priestess
+E 1  2401    27    12    (ABOUT) {W,BO}The white robe{w}
+D 0  2447     3     0    (W:OPEN) In a hallway to the private quarters.
+M 0  2406     1  2448    the high priest
+E 1  2401    27    12    (ABOUT) {W,BO}The white robe{w}
+E 1  2402     1    17    (HELD) {Y}The{y} {Y,BO}light{y} {Y}staff{y}
+D 0  2448     0     0    (N:OPEN) Office of the high priest of Paladine.
+M 0  2404    12  2449    the priestess
+E 1  2401    27    12    (ABOUT) {W,BO}The white robe{w}
+M 0  2401    10  2451    the acolyte
+M 0  2401    10  2452    the acolyte
+M 0  2403    13  2454    the priest
+E 1  2401    27    12    (ABOUT) {W,BO}The white robe{w}
+M 0  2404    12  2455    the priestess
+E 1  2401    27    12    (ABOUT) {W,BO}The white robe{w}
+D 0  2455     0     0    (N:OPEN) At the end of the hall.
+D 0  2458     0     0    (N:OPEN) Outside the private quarters of the high priest.
+D 0  2458     2     0    (S:OPEN) Outside the private quarters of the high priest.
+M 0  2409     2  2464    the curious pigeon
+M 0  2001     1  2464    the shrine
+O 0  2403     1  2464    {W,BO}The white book{w}
+D 0  2464     2     0    (S:OPEN) Secret room of Paladine's temple.
+D 0  2465     2     0    (S:OPEN) Private room of Paladine's high priest.
+$~

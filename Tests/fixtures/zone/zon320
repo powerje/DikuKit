@@ -1,0 +1,43 @@
+#320
+{BOLD,BLACK}The Castle Of Valorn{b}(Zepher)~
+32099 30 1
+*
+X 290736
+M 0 32000     2 32002    {C}A Stone Gargoyle{b}
+M 0 32000     2 32002    {C}A Stone Gargoyle{b}
+M 0 32001    16 32003    {BOLD,WHITE}A Ghost{b}
+M 0 32001    16 32004    {BOLD,WHITE}A Ghost{b}
+M 0 32001    16 32007    {BOLD,WHITE}A Ghost{b}
+M 0 32001    16 32007    {BOLD,WHITE}A Ghost{b}
+M 0 32001    16 32007    {BOLD,WHITE}A Ghost{b}
+M 0 32001    16 32008    {BOLD,WHITE}A Ghost{b}
+M 0 32001    16 32008    {BOLD,WHITE}A Ghost{b}
+M 0 32001    16 32008    {BOLD,WHITE}A Ghost{b}
+D 0 32009     0     2    (N:LOCKED) {WHI,BO}A Hallway{bo}
+M 0 32001    16 32010    {BOLD,WHITE}A Ghost{b}
+M 0 32001    16 32010    {BOLD,WHITE}A Ghost{b}
+M 0 32001    16 32011    {BOLD,WHITE}A Ghost{b}
+M 0 32001    16 32011    {BOLD,WHITE}A Ghost{b}
+M 0 32002     1 32012    {C}The {MAG}Queen{C} of the Castle{b}
+G 1 32003     1     0    a marble key
+D 0 32012     2     0    (S:OPEN) {BOLD,WHITE}The Royal Bedroom{b}
+M 0 32001    16 32014    {BOLD,WHITE}A Ghost{b}
+D 0 32014     0     0    (N:OPEN) {BOLD,WHITE}Before the Throne Room{b}
+M 0 32005     1 32015    {BOLD,YELL}The King{b}
+G 1 32001     1     0    a black key
+D 0 32015     0     2    (N:LOCKED) {BOLD,WHITE}The Throne Room{b}
+D 0 32015     2     0    (S:OPEN) {BOLD,WHITE}The Throne Room{b}
+D 0 32016     2     0    (S:OPEN) {BOLD,BLACK}A Hidden Passageway{b}
+M 0 32006     1 32020    The One true God
+M 0 32001    16 32022    {BOLD,WHITE}A Ghost{b}
+M 0 32001    16 32026    {BOLD,WHITE}A Ghost{b}
+D 0 32026     0     2    (N:LOCKED) {BOLD,WHITE}Before the Priest's Room{b}
+M 0 32004     1 32027    A Priest
+G 1 32000     1     0    a white key
+D 0 32027     2     0    (S:OPEN) {BOLD,WHITE}The Priest's Room{b}
+M 0 32001    16 32029    {BOLD,WHITE}A Ghost{b}
+D 0 32030     2     2    (S:LOCKED) {BOLD,BLACK}A Dark Hallway{b}
+M 0 32003     1 32031    A lonely peasant
+G 1 32002     1     0    rusty key
+D 0 32031     0     0    (N:OPEN) {BOLD,WHITE}Before a Great Fountain{b}
+$~

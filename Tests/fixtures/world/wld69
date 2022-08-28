@@ -1,0 +1,1207 @@
+#6900
+{MAGENTA,BOLD}Me{magenta}{MAGENTA}nz{BLACK}oberr{MAGENTA}anz{BOLD}aN{red}~
+{W}You are standing in a dark corridor which seems to be 
+a path by the well worn tracks. {G,BO}Slime {W}drips off
+the top of the ceiling as you hear the squeaks and 
+scratching of rats. Further down the cavern, you see
+a dimming {Y,BO}light {W}drearily swaying.  You notice a
+small sign hanging from the remnants of a shattered
+caravan and think to yourself, "What could have caused
+such {M}mayhem."
+~
+69 1 5
+D0
+~
+~
+0 -1 6901
+E
+sign~
+{RED,BOLD}Menzoberranzan North.  {BLINK}Proceed with extreme caution!
+~
+M50
+X1048628
+Z3
+C-1
+S
+#6901
+{MAGENTA,BOLD}Gates {BLACK}to {RED}Me{red}{RED}nz{white}{WHITE}ob{BOLD}er{white}{WHITE}ra{red}{RED}za{BOLD}n{white}~
+
+{BLACK,BOLD}You are standing at the mammoth gates of Menzoberranzan.
+You hear the creaks of the {GREEN,BOLD}corroded{BLACK} hinges as you see
+only darkness inside of the city.  A {YELLOW,BOLD}torch {BLACK}here lights 
+a statue of {MAGENTA,BOLD}Lloth, Queen of the Underdark{BLACK}.  You {RED}Cringe{BLACK}
+as you see the terror which the statue unleashes.
+~
+69 5 5
+D0
+~
+Gate~
+2 6901 6902
+D2
+~
+~
+0 -1 6900
+M50
+X1048628
+Z3
+C-1
+S
+#6902
+{BLACK,BOLD}Street in Town{white}~
+
+{BLACK,BOLD}You are standing on the main street of Menzoberranzan.  To you
+far north you see a descrete temple surrounded by changing priests.
+Up and down the streets you notice differnt types of drow ranging
+from cut throat mercenaries to mere merchants.
+
+~
+69 0 1
+D0
+~
+~
+0 -1 6906
+D2
+~
+Gate~
+1 -1 6901
+Z3
+C-1
+S
+#6903
+{BLACK,BOLD}Street in Town{white}~
+
+{BLACK,BOLD}You are standing on the main street of Menzoberranzan.  To you
+far north you see a descrete temple surrounded by changing priests.
+Up and down the streets you notice differnt types of drow ranging
+from cut throat mercenaries to mere merchants.
+
+~
+69 0 1
+D0
+~
+~
+0 -1 6904
+D2
+~
+~
+0 -1 6906
+Z3
+C-1
+S
+#6904
+{WHITE,BOLD}Inte{CYAN}rse{WHITE}ction{white}~
+{WHITE}You stand at a four-way intersection.  You notice a gate north that 
+blocks off the commoners from the mighty temple.  You see a drow 
+conducting the paths and blocking off un-authorized personel.  You 
+notice a {GREEN}sign{WHITE} with 3 arrows with directions written in 
+{RED}blood{white}.
+~
+69 0 1
+D0
+~
+~
+0 -1 6947
+D1
+~
+~
+0 -1 6934
+D2
+~
+~
+0 -1 6903
+D3
+~
+~
+0 -1 6910
+E
+sign~
+{red}{RED}Slums ----> West
+High Council ---> North
+{red}{RED}Bazaar ---> East
+Tresspassers will be dealt with harshly.
+Family Do'urden
+~
+Z3
+C-1
+S
+#6905
+{GREEN,BOLD}City Dump{white}~
+{GREEN,BOLD}You see everything that could possibly stink and disgust the normal being.
+A foul gas rises to your nose where you soon pass out.
+When you awake you notice the trash compactor and soon discover 
+yourself to be DEAD
+*SPLAT*
+~
+69 524294 1
+D1
+~
+~
+0 -1 6906
+Z3
+C-1
+S
+#6906
+{BLACK,BOLD}Street in Town{white}~
+
+{BLACK,BOLD}You are standing on the main street of Menzoberranzan.  To you
+far north you see a descrete temple surrounded by changing priests.
+Up and down the streets you notice differnt types of drow ranging
+from cut throat mercenaries to mere merchants.
+
+~
+69 0 1
+D0
+~
+~
+0 -1 6903
+D2
+~
+~
+0 -1 6902
+D3
+~
+~
+0 -1 6905
+Z3
+C-1
+S
+#6910
+{GREEN,BOLD}Road {red}to the {YELLOW,BOLD}Sl{yellow}{YELLOW}ums{red}~
+
+{YELLOW}You are on a crowded path towards the lower class area of 
+Menzoberranzan.  You notice the stinch of {RED}putrid flesh {YELLOW}and
+begin to feel {GREEN,BOLD}sick {yellow}{YELLOW}at your stomach.  Trash is scattered 
+along the road as well as the corpses of thoses not strong
+enough to live in a world of no rules.  This tunnel is made
+entirely of obsidian and there is an {BLUE,BOLD}eerie {yellow}{YELLOW}draft. 
+
+~
+69 16425 1
+D1
+~
+~
+0 -1 6904
+D3
+~
+~
+0 -1 6911
+Z3
+C-1
+S
+#6911
+{GREEN,BOLD}Road {red}to the {YELLOW,BOLD}Sl{yellow}{YELLOW}ums{red}~
+
+{YELLOW}You are on a crowded path towards the lower class area of 
+Menzoberranzan.  You notice the stinch of {RED}putrid flesh {YELLOW}and
+begin to feel {GREEN,BOLD}sick {yellow}{YELLOW}at your stomach.  Trash is scattered 
+along the road as well as the corpses of thoses not strong
+enough to live in a world of no rules.  This tunnel is made
+entirely of obsidian and there is an {BLUE,BOLD}eerie {yellow}{YELLOW}draft. 
+
+~
+69 16425 1
+D0
+~
+~
+0 -1 6916
+D1
+~
+~
+0 -1 6910
+Z3
+C-1
+S
+#6912
+{GREEN,BOLD}Road {green}{GREEN}to the {YELLOW,BOLD}Sl{yellow}{YELLOW}ums~
+{YELLOW}You are on a crowded path towards the lower class area of 
+Menzoberranzan.  You notice the stinch of {RED}putrid flesh{YELLOW} 
+and start to feel sick to your stomach.  Trash is scattered on the road 
+as well as the dead of them not strong enough to survive world with no 
+ rules.  The path is just a mere rock and you can feel the 
+{BLUE,BOLD}wind{yellow}{YELLOW} blowing down the cave.
+~
+69 16425 1
+D2
+~
+~
+0 -1 6916
+Z3
+C-1
+S
+#6913
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+69 262144 1
+Z3
+C-1
+S
+#6914
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+69 262144 1
+Z3
+C-1
+S
+#6915
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+69 262144 1
+Z3
+C-1
+S
+#6916
+{GREEN,BOLD}Road {red}to the {YELLOW,BOLD}Sl{yellow}{YELLOW}ums{red}~
+
+{YELLOW}You are on a crowded path towards the lower class area of 
+Menzoberranzan.  You notice the stinch of {RED}putrid flesh {YELLOW}and
+begin to feel {GREEN,BOLD}sick {yellow}{YELLOW}at your stomach.  Trash is scattered 
+along the road as well as the corpses of thoses not strong
+enough to live in a world of no rules.  This tunnel is made
+entirely of obsidian and there is an {BLUE,BOLD}eerie {yellow}{YELLOW}draft. 
+
+~
+69 16425 1
+D0
+~
+~
+0 -1 6922
+D2
+~
+~
+0 -1 6911
+D3
+~
+~
+0 -1 6920
+Z3
+C-1
+S
+#6920
+{GREEN,BOLD}Road {green}{GREEN}to the {YELLOW,BOLD}Sl{yellow}{YELLOW}ums~
+{YELLOW}You are on a crowded path towards the lower class area of 
+Menzoberranzan.  You notice the stinch of {RED}putrid flesh{YELLOW} 
+and start to feel sick to your stomach.  Trash is scattered on the road 
+as well as the dead of them not strong enough to survive world with no 
+ rules.  The path is just a mere rock and you can feel the 
+{BLUE,BOLD}wind{yellow}{YELLOW} blowing down the cave.
+~
+69 1065001 1
+D1
+~
+~
+0 -1 6916
+D3
+~
+~
+0 -1 6921
+Z3
+C-1
+S
+#6921
+{MAGENTA,BOLD}Sacri{bold}{MAGENTA}fici{BLACK}al{MAGENTA} P{BOLD}it{white}~
+
+{MAGENTA}You are standing in a blood stained corrider in which
+you see the decaying corpses of past friends.  You look
+around and notice movement from under a wrecked wagon.
+Taking a closer examination you see a {GREEN,BOLD}large basilisk{red}{MAGENTA} 
+devouring a lost citizen.{red}
+~
+69 1048832 1
+D1
+~
+~
+0 -1 6920
+T6900
+Z3
+C-1
+S
+#6922
+{GREEN,BOLD}Road {red}to the {YELLOW,BOLD}Sl{yellow}{YELLOW}ums{red}~
+
+{YELLOW}You are on a crowded path towards the lower class area of 
+Menzoberranzan.  You notice the stinch of {RED}putrid flesh {YELLOW}and
+begin to feel {GREEN,BOLD}sick {yellow}{YELLOW}at your stomach.  Trash is scattered 
+along the road as well as the corpses of thoses not strong
+enough to live in a world of no rules.  This tunnel is made
+entirely of obsidian and there is an {BLUE,BOLD}eerie {yellow}{YELLOW}draft. 
+
+~
+69 16425 1
+D0
+~
+~
+0 -1 6923
+D2
+~
+~
+0 -1 6916
+Z3
+C-1
+S
+#6923
+{GREEN,BOLD}Road {red}to the {YELLOW,BOLD}Sl{yellow}{YELLOW}ums{red}~
+
+{YELLOW}You are on a crowded path towards the lower class area of 
+Menzoberranzan.  You notice the stinch of {RED}putrid flesh {YELLOW}and
+begin to feel {GREEN,BOLD}sick {yellow}{YELLOW}at your stomach.  Trash is scattered 
+along the road as well as the corpses of thoses not strong
+enough to live in a world of no rules.  This tunnel is made
+entirely of obsidian and there is an {BLUE,BOLD}eerie {yellow}{YELLOW}draft. 
+
+~
+69 16425 1
+D0
+~
+~
+0 -1 6924
+D2
+~
+~
+0 -1 6922
+Z3
+C-1
+S
+#6924
+{GREEN,BOLD}{RED,BOLD}Ba{WHITE}d S{BLACK}ide {RED}of T{GREEN}own{white}~
+{GREEN,BOLD}You are standing at the entrance to the poor division of 
+Menzoberranzan.  Further down the road you see beggars, 
+prostitutues, and horrid figures of disgust.  They look 
+they would kill their own brothers for a bite to eat. 
+The Guard looks frustrated considering he was assigned
+to such a pitiful gate.
+~
+69 16 1
+D0
+You see a Drow riding a {GREEN}Lizard{red} scouting for intruders.
+~
+Gate~
+1 6925 6925
+D2
+~
+~
+0 -1 6923
+Z3
+C-1
+S
+#6925
+{GREEN,BOLD}Grudge Filled Streets{white}~
+{WHITE} You are tanding on the main alley where the less fortunate live.  
+Further down the road you see a Rusty old shack with 2 guards blocking 
+the entrance.  The streets are filled with everything from garbage to 
+small children left to rot. 
+~
+69 0 1
+D0
+~
+~
+0 -1 6926
+D2
+~
+Gate~
+1 -1 6924
+D3
+~
+~
+0 -1 6927
+Z3
+C-1
+S
+#6926
+{GREEN,BOLD}Grudge Filled Streets{white}~
+{WHITE} You are tanding on the main alley where the less fortunate live.  
+Further down the road you see a Rusty old shack with 2 guards blocking 
+the entrance.  The streets are filled with everything from garbage to 
+small children left to rot. 
+~
+69 0 1
+D2
+~
+~
+0 -1 6925
+D3
+~
+~
+0 -1 6927
+Z3
+C-1
+S
+#6927
+{GREEN,BOLD}Grudge Filled Streets{white}~
+{WHITE} You are tanding on the main alley where the less fortunate live.  
+Further down the road you see a Rusty old shack with 2 guards blocking 
+the entrance.  The streets are filled with everything from garbage to 
+small children left to rot. 
+~
+69 0 1
+D0
+~
+~
+0 -1 6928
+D1
+~
+~
+0 -1 6926
+Z3
+C-1
+S
+#6928
+{GREEN,BOLD}Grudge Filled Streets{white}~
+{WHITE} You are tanding on the main alley where the less fortunate live.  
+Further down the road you see a Rusty old shack with 2 guards blocking 
+the entrance.  The streets are filled with everything from garbage to 
+small children left to rot. 
+~
+69 0 1
+D1
+~
+~
+0 -1 6929
+D2
+~
+~
+0 -1 6927
+Z3
+C-1
+S
+#6929
+{GREEN,BOLD}Grudge Filled Streets{white}~
+{WHITE} You are tanding on the main alley where the less fortunate live.  
+Further down the road you see a Rusty old shack with 2 guards blocking 
+the entrance.  The streets are filled with everything from garbage to 
+small children left to rot. 
+~
+69 0 1
+D0
+~
+~
+0 -1 6930
+D3
+~
+~
+0 -1 6928
+Z3
+C-1
+S
+#6930
+{GREEN,BOLD}Grudge Filled Streets{white}~
+{WHITE} You are tanding on the main alley where the less fortunate live.  
+Further down the road you see a Rusty old shack with 2 guards blocking 
+the entrance.  The streets are filled with everything from garbage to 
+small children left to rot. 
+~
+69 0 1
+D0
+~
+~
+0 -1 6931
+D2
+~
+~
+0 -1 6929
+Z3
+C-1
+S
+#6931
+{GREEN,BOLD}Grudge Filled Streets{white}~
+{WHITE} You are tanding on the main alley where the less fortunate live.  
+Further down the road you see a Rusty old shack with 2 guards blocking 
+the entrance.  The streets are filled with everything from garbage to 
+small children left to rot. 
+~
+69 0 1
+D0
+~
+~
+0 -1 6932
+D2
+~
+~
+0 -1 6930
+Z3
+C-1
+S
+#6932
+{MAGENTA,BOLD}Doors to a {YELLOW}Rusty {MAGENTA}Shack{red}~
+
+{RED}You see the {YELLOW}rusty shack {RED}rocking back and forth due to pure
+poverty and condition of the structure.  You here the screams
+comming inside as if someone was being tortured.  The two guards 
+must be put here to protect what is inside.
+
+~
+69 262144 1
+D0
+~
+Door~
+1 -1 6933
+D2
+~
+~
+0 -1 6931
+Z3
+C-1
+S
+#6933
+{YELLOW}Inside the Sh{BOLD}ack{white}~
+
+{RED}   You are standing inside the desolated shack and see a large drow 
+{RED}brutally torturing a human.  You notice the drow seems to be of a 
+{RED}richer porportion then the other drows.  The human looks terrorised as 
+{RED}you come closer.
+~
+69 0 1
+D2
+~
+Door~
+1 6933 6932
+Z3
+C-1
+S
+#6934
+{WHITE,BOLD}Path to the {CYAN}Bazaar{white}~
+
+{RED}You are standing before the road to the {CYAN,BOLD}marketplace{red}{RED}.  All
+transactions go through this highway of underground goods.
+Further down this path, you see a large crowd of people 
+forming a large circle.
+
+~
+69 0 1
+D1
+~
+~
+0 -1 6935
+D3
+~
+~
+0 -1 6904
+Z3
+C-1
+S
+#6935
+{WHITE,BOLD}Path to the {CYAN}Bazaar{white}~
+
+{RED}You are standing before the road to the {CYAN,BOLD}marketplace{red}{RED}.  All
+transactions go through this highway of underground goods.
+Further down this path, you see a large crowd of people 
+forming a large circle.
+
+~
+69 0 1
+D1
+~
+~
+0 -1 6936
+D3
+~
+~
+0 -1 6934
+Z3
+C-1
+S
+#6936
+{WHITE,BOLD}Path to the {CYAN}Bazaar{white}~
+
+{RED}You are standing before the road to the {CYAN,BOLD}marketplace{red}{RED}.  All
+transactions go through this highway of underground goods.
+Further down this path, you see a large crowd of people 
+forming a large circle.
+
+~
+69 0 1
+D1
+~
+~
+0 -1 6937
+D3
+~
+~
+0 -1 6935
+Z3
+C-1
+S
+#6937
+{CYAN,BOLD}Bazaar {WHITE}of {MAGENTA,BOLD}Me{magenta}{MAGENTA}nz{BLACK}oberr{red}{MAGENTA}anz{BOLD}aN{red}~
+
+{WHITE,BOLD}You are standing in the middle of the bazaar.  All around 
+see small booths and hagglars trying to make an few {YELLOW}gold{WHITE} 
+coins.  In the middle of the bazaar there seems to be a 
+{RED}fight{WHITE} which people are gambling over.
+
+~
+69 0 1
+D0
+~
+~
+0 -1 6938
+D1
+~
+~
+0 -1 6945
+D2
+~
+~
+0 -1 6944
+D3
+~
+~
+0 -1 6936
+Z0
+C-1
+S
+#6938
+{CYAN,BOLD}Bazaar {WHITE}of {MAGENTA,BOLD}Me{magenta}{MAGENTA}nz{BLACK}oberr{red}{MAGENTA}anz{BOLD}aN{red}~
+
+{WHITE,BOLD}You are standing in the middle of the bazaar.  All around 
+see small booths and hagglars trying to make an few {YELLOW}gold{WHITE} 
+coins.  In the middle of the bazaar there seems to be a 
+{RED}fight{WHITE} which people are gambling over.
+
+~
+69 0 1
+D1
+~
+~
+0 -1 6939
+D2
+~
+~
+0 -1 6937
+Z0
+C-1
+S
+#6939
+{CYAN,BOLD}Bazaar {WHITE}of {MAGENTA,BOLD}Me{magenta}{MAGENTA}nz{BLACK}oberr{red}{MAGENTA}anz{BOLD}aN{red}~
+
+{WHITE,BOLD}You are standing in the middle of the bazaar.  All around 
+see small booths and hagglars trying to make an few {YELLOW}gold{WHITE} 
+coins.  In the middle of the bazaar there seems to be a 
+{RED}fight{WHITE} which people are gambling over.
+
+~
+69 0 1
+D1
+~
+~
+0 -1 6940
+D2
+~
+~
+0 -1 6945
+D3
+~
+~
+0 -1 6938
+Z0
+C-1
+S
+#6940
+{CYAN,BOLD}Bazaar {WHITE}of {MAGENTA,BOLD}Me{magenta}{MAGENTA}nz{BLACK}oberr{red}{MAGENTA}anz{BOLD}aN{red}~
+
+{WHITE,BOLD}You are standing in the middle of the bazaar.  All around 
+see small booths and hagglars trying to make an few {YELLOW}gold{WHITE} 
+coins.  In the middle of the bazaar there seems to be a 
+{RED}fight{WHITE} which people are gambling over.
+
+~
+69 0 1
+D2
+~
+~
+0 -1 6941
+D3
+~
+~
+0 -1 6939
+Z0
+C-1
+S
+#6941
+{CYAN,BOLD}Bazaar {WHITE}of {MAGENTA,BOLD}Me{magenta}{MAGENTA}nz{BLACK}oberr{red}{MAGENTA}anz{BOLD}aN{red}~
+
+{WHITE,BOLD}You are standing in the middle of the bazaar.  All around 
+see small booths and hagglars trying to make an few {YELLOW}gold{WHITE} 
+coins.  In the middle of the bazaar there seems to be a 
+{RED}fight{WHITE} which people are gambling over.
+
+~
+69 0 1
+D0
+~
+~
+0 -1 6940
+D2
+~
+~
+0 -1 6942
+D3
+~
+~
+0 -1 6945
+Z0
+C-1
+S
+#6942
+{CYAN,BOLD}Bazaar {WHITE}of {MAGENTA,BOLD}Me{magenta}{MAGENTA}nz{BLACK}oberr{red}{MAGENTA}anz{BOLD}aN{red}~
+
+{WHITE,BOLD}You are standing in the middle of the bazaar.  All around 
+see small booths and hagglars trying to make an few {YELLOW}gold{WHITE} 
+coins.  In the middle of the bazaar there seems to be a 
+{RED}fight{WHITE} which people are gambling over.
+
+~
+69 0 1
+D0
+~
+~
+0 -1 6941
+D3
+~
+~
+0 -1 6943
+Z0
+C-1
+S
+#6943
+{CYAN,BOLD}Bazaar {WHITE}of {MAGENTA,BOLD}Me{magenta}{MAGENTA}nz{BLACK}oberr{red}{MAGENTA}anz{BOLD}aN{red}~
+
+{WHITE,BOLD}You are standing in the middle of the bazaar.  All around 
+see small booths and hagglars trying to make an few {YELLOW}gold{WHITE} 
+coins.  In the middle of the bazaar there seems to be a 
+{RED}fight{WHITE} which people are gambling over.
+
+~
+69 0 1
+D0
+~
+~
+0 -1 6945
+D1
+~
+~
+0 -1 6942
+D3
+~
+~
+0 -1 6944
+Z0
+C-1
+S
+#6944
+{CYAN,BOLD}Bazaar {WHITE}of {MAGENTA,BOLD}Me{magenta}{MAGENTA}nz{BLACK}oberr{red}{MAGENTA}anz{BOLD}aN{red}~
+
+{WHITE,BOLD}You are standing in the middle of the bazaar.  All around 
+see small booths and hagglars trying to make an few {YELLOW}gold{WHITE} 
+coins.  In the middle of the bazaar there seems to be a 
+{RED}fight{WHITE} which people are gambling over.
+
+~
+69 0 1
+D0
+~
+~
+0 -1 6937
+D1
+~
+~
+0 -1 6943
+Z0
+C-1
+S
+#6945
+{WHITE,BOLD}Cir{CYAN}cle o{YELLOW}f Peo{RED}ple{red}~
+
+{YELLOW}In the middle of the large crowd of people, there appears
+to be a small {MAGENTA}duergar {YELLOW}fighting a male {CYAN}drow{YELLOW}.  They appear 
+equal in skill, but the drow has the crowds favor.  With 
+a final slash, the duergar {RED}decapitates{YELLOW} the drow and the
+air fills with the chants of {RED}KILL THE DUERGAR!{YELLOW}  There
+seems to be a large tower above you.
+
+~
+69 262276 1
+D0
+~
+~
+0 -1 6939
+D1
+~
+~
+0 -1 6941
+D2
+~
+~
+0 -1 6943
+D3
+~
+~
+0 -1 6937
+D4
+~
+grate d~
+1 -1 6946
+Z0
+C-1
+S
+#6946
+{BLACK}The Mayor's {WHITE}Tower{red}~
+{Y}Upon entering what was once a large well furnished office you are assaulted by a horrid stench. 
+The large oak desk in the center of the room is now covered in cigarette burns, as is the carpet.
+Finally you realize the smell is coming from the body of a dead white man half covered by the files
+strewn about the floor, and you relize that the huge man standing in front of you is the new mayor now. {Y}
+~
+69 262144 1
+D5
+~
+grate d~
+1 1 6945
+T6900
+Z0
+C-1
+S
+#6947
+{BLUE,BOLD}Climbing the {CYAN}Steps{red}~
+
+{RED}Looking up you see a large {YELLOW}temple{RED} dedicated to the most 
+powerful drows in all of {BLACK}Menzoberranzan{red}{RED}.  The giant flight
+of stairs looks wicked as you see {BOLD}guards{red}{RED} lined up and down
+preventing tresspassers from entering the temple.
+
+~
+69 262144 1
+D2
+~
+~
+0 -1 6904
+D4
+~
+~
+0 -1 6948
+Z0
+C-1
+S
+#6948
+{BLUE,BOLD}Climbing the {CYAN}Steps{red}~
+
+{RED}Looking up you see a large {YELLOW}temple{RED} dedicated to the most 
+powerful drows in all of {BLACK}Menzoberranzan{red}{RED}.  The giant flight
+of stairs looks wicked as you see {BOLD}guards{red}{RED} lined up and down
+preventing tresspassers from entering the temple.
+
+~
+69 262144 1
+D0
+~
+~
+0 -1 6949
+D5
+~
+~
+0 -1 6947
+Z0
+C-1
+S
+#6949
+{BLUE,BOLD}Climbing the {CYAN}Steps{red}~
+
+{RED}Looking up you see a large {YELLOW}temple{RED} dedicated to the most 
+powerful drows in all of {BLACK}Menzoberranzan{red}{RED}.  The giant flight
+of stairs looks wicked as you see {BOLD}guards{red}{RED} lined up and down
+preventing tresspassers from entering the temple.
+
+~
+69 262144 1
+D2
+~
+~
+0 -1 6948
+D4
+~
+~
+0 -1 6950
+Z0
+C-1
+S
+#6950
+{BLUE,BOLD}Climbing the {CYAN}Steps{red}~
+
+{RED}Looking up you see a large {YELLOW}temple{RED} dedicated to the most 
+powerful drows in all of {BLACK}Menzoberranzan{red}{RED}.  The giant flight
+of stairs looks wicked as you see {BOLD}guards{red}{RED} lined up and down
+preventing tresspassers from entering the temple.
+
+~
+69 262144 1
+D0
+~
+~
+0 -1 6951
+D5
+~
+~
+0 -1 6949
+Z0
+C-1
+S
+#6951
+{WHITE,BOLD}At {RED}The {BLACK}Temple {WHITE}Doors{red}~
+
+{WHITE}You are standing at the doors of the mightiest structure
+{RED}in all Menzoberranzan.  The doors appear wide open and 
+{BLACK}there seems to be no danger in site.  You begin to worry
+{WHITE}as you see shadows swifting back and forth to the north.
+
+~
+69 262144 1
+D0
+~
+~
+0 -1 6952
+D2
+~
+~
+0 -1 6950
+Z0
+C-1
+S
+#6952
+{YELLOW}Insid{BLACK}e Th{YELLOW}e Templ{BLACK}e{red}~
+
+{YELLOW}Looking around, you see giant statues praising their 
+god {MAGENTA,BOLD}Lloth{red}{YELLOW} and begin to wander the true terror these
+drows unleash.  You hear men walking around and begin
+to wander if they are looking for you.
+
+~
+69 262144 1
+D0
+~
+~
+0 -1 6953
+D2
+~
+~
+0 -1 6951
+Z0
+C-1
+S
+#6953
+{YELLOW}Insid{BLACK}e Th{YELLOW}e Templ{BLACK}e{red}~
+
+{YELLOW}Looking around, you see giant statues praising their 
+god {MAGENTA,BOLD}Lloth{red}{YELLOW} and begin to wander the true terror these
+drows unleash.  You hear men walking around and begin
+to wander if they are looking for you.
+
+~
+69 262144 1
+D0
+~
+~
+0 -1 6954
+D2
+~
+~
+0 -1 6952
+Z0
+C-1
+S
+#6954
+{YELLOW}Insid{BLACK}e Th{YELLOW}e Templ{BLACK}e{red}~
+
+{YELLOW}Looking around, you see giant statues praising their 
+god {MAGENTA,BOLD}Lloth{red}{YELLOW} and begin to wander the true terror these
+drows unleash.  You hear men walking around and begin
+to wander if they are looking for you.
+
+~
+69 262144 1
+D2
+~
+~
+0 -1 6953
+Z0
+C-1
+S
+#6969
+{R,BO}Ghetto's {Y,BO}Crib.~
+
+     {Y}As you step into this {W,BO}multi-million dollar drug palace, {Y}you are shocked to see {R}speakers {Y}lying here and there as well as several sets of {M}rims. {Y}It seems as though every piece of furniture also doubles as a {G}bong{Y}, and the {W,BO}mirror {Y}coffee table is smeared with a {W,BO}white substance. {Y}All of a sudden the room starts spinning as the smoky hazy finally overtakes you and sends you into a fit of {Y,BO}giggles. 
+~
+69 262144 1
+D0
+~
+~
+0 -1 3014
+D1
+~
+~
+0 -1 6300
+D2
+~
+~
+0 -1 1205
+D3
+~
+~
+0 -1 2000
+Z0
+C-1
+S
+#6990
+{CYAN,BOLD}En{white}{WHITE}te{cyan}{CYAN}ri{WHITE,BOLD}ng {CYAN}Th{white}{WHITE}e {CYAN}Fr{WHITE,BOLD}en{CYAN}zY{red}~
+
+     {BLACK}As you {red}{MAGENTA}Walk into {BOLD}the frenzy you {red}{MAGENTA}feel the evil {BLACK}penetrating through
+     {BLACK}the path {red}{MAGENTA}ahead.  {BOLD}The overwhelmin{red}{MAGENTA}g sensation of{BLACK} help radiates before
+     {BLAC}as you b{red}{MAGENTA}egan to {BOLD}realize this is n{red}{MAGENTA}ot a atmospher{BLACK}e  where the rules of
+     {BLACK}physics {red}{MAGENTA}to not pl{BOLD}ay a heavy role.{red}{MAGENTA}  As you proce{BLACK}ed forward the a hex
+     {BLAC}forms in {red}{MAGENTA}front of {BOLD}you beckoning to{red}{MAGENTA} begin your  {BLACK}   Drug Test of {CYAN,BOLD,BLINK}Doom{red}.
+
+~
+69 262144 0
+D0
+~
+~
+0 -1 6991
+Z0
+C-1
+S
+#6991
+{RED,BOLD}Pi{white}{WHITE}ck{red}{RED} Y{WHITE,BOLD}ou{red}{RED}r D{white}{WHITE}ru{RED,BOLD}G{red}~
+
+{RED}     {CYAN,BOLD}You arrive in a peacefull ro{WHITE}om full of sobriety.  As you look around
+{RED}     {CYAN,BOLD}you witness the distorted v{WHITE}ision in which drugs envoke.  You realize
+{RED}     {CYAN,BOLD}the torment and evil the dr{WHITE}ugs are unleashing and vow to stop them at
+{RED}     {CYAN,BOLD}all costs.  
+
+~
+69 262144 1
+D0
+~
+~
+0 -1 6993
+D1
+~
+~
+0 -1 6994
+D2
+~
+~
+0 -1 6990
+D3
+~
+~
+0 -1 6992
+D4
+~
+~
+0 -1 6995
+D5
+~
+~
+0 -1 6996
+Z0
+C-1
+S
+#6992
+{CYAN,BOLD,BLINK}L{blue}{BLUE,BOLD}eech {CYAN,BOLD,BLINK}S{blue}{BLUE,BOLD}eek {CYAN,BOLD,BLINK}D{blue}{BLUE,BOLD}estroy{red}~
+
+{BLACK,BOLD}     As you enter the room an overwhelming haze encompasses you.  Your
+     vision becomes distorted and your mind is at the drugs will.  When
+     you gain a split second of recollection you see the Evil himself
+     as he presents you with a {YELLOW,BOLD,BLINK}BAD TRIP{red}
+
+~
+69 262144 1
+D1
+~
+~
+0 -1 6991
+Z0
+C-1
+S
+#6993
+{YELLOW}The Sickness Inside {BOLD}You{red}~
+
+{RED}     {YELLOW}When you arrive you see the sickly worshippin{BLACK}g{red}{YELLOW} their golden god
+{RED}     {red}{YELLOW}as he drains the power from them and le{BLACK}a{red}{YELLOW}v{YELLOW}eing them empty.  The 
+{RED}     {YELLOW}torment in their faces makes you {BLACK}w{red}{YELLOW}on{BLACK}d{red}{YELLOW}er what ever could derrive
+{RED}     {YELLOW}a person into forgoing int{BLACK}o{red}{YELLOW} this ter{BLACK}r{red}{YELLOW}ible tradition.  As you 
+{RED}     {YELLOW}take a moment to th{BLACK}i{red}{YELLOW}nk you notice tha{BLACK}t{red}{YELLOW} you have already been 
+{RED}     {YELLOW}infected.  {BLACK}L{red}{YELLOW}et the Heroine take CoNtR{BLACK}o{red}{YELLOW}L.
+
+~
+69 262144 1
+D2
+~
+~
+0 -1 6991
+Z0
+C-1
+S
+#6994
+{BLUE,BOLD}/{CYAN}*{WHITE}Cocaine Dream{CYAN}*{BLUE}\{red}~
+
+{RED}{CYAN,BOLD}***************{WHITE,LOW}Oh yeah. You wanna find it, c'mon yeah{CYAN,BOLD}***************
+{RED}{CYAN,BOLD}********************{WHITE,LOW}I'm on a plane with cocaine{CYAN,BOLD}*********************
+{RED}{CYAN,BOLD}********************{WHITE,LOW}And yes I'm all lit up again{CYAN,BOLD}********************
+{RED}{CYAN,BOLD}*********************{WHITE,LOW}Cough up love and touch up{CYAN,BOLD}*********************
+{RED}{CYAN,BOLD}****************{WHITE,LOW}Your mama said packing lines is sin{CYAN,BOLD}***************** 
+{RED}{CYAN,BOLD}********************{WHITE,LOW}And yes I'm all lit up again,{CYAN,BOLD}*******************
+{RED}{CYAN,BOLD}**********************{WHITE,LOW}On the couch in my bed{CYAN,BOLD}************************
+{RED}{CYAN,BOLD}***************{WHITE,LOW}And yes I'm all lit up again, flyin'{CYAN,BOLD}*****************
+{RED}{CYAN,BOLD}**************{WHITE,LOW}I love the cocaine, I love the cocaine{CYAN,BOLD}****************
+~
+69 262144 1
+D3
+~
+~
+0 -1 6991
+Z0
+C-1
+S
+#6995
+{GREEN}Last Dance with {YELLOW,BOLD}M{GREEN}ary Jan{YELLOW}e{red}~
+
+{RED}{red}{WHITE}As you enter the {BLACK}smog{WHITE} filled room you instantly become light
+{RED}{WHITE}headed and start to grin.  You slowly feel your body numbing
+{RED}{WHITE}and smell the sweet perfume of the Loved One.  As the bright
+{RED}{YELLOW,BOLD}light{red} {WHITE}beckons you you realize it is time to dance with the
+{RED}{white}{WHITE}matriarch of high....{GREEN,BOLD,REVERSE}Mary Jane{red}{WHITE}...
+
+~
+69 262144 1
+D5
+~
+~
+0 -1 6991
+Z0
+C-1
+S
+#6996
+{BLACK,BOLD}X{white}{WHITE}t{BOLD}c{BLACK}...{red}~
+
+{GREEN,BOLD,REVERSE}{red}{BOLD}{CYAN}X{MAGENTA,BOLD,REVERSE}___________{red}{BOLD}{CYAN}X
+{GREEN,BOLD,REVERSE}|{red}{BOLD}{CYAN}X         X{GREEN,BOLD,REVERSE}|{red}
+{GREEN,BOLD,REVERSE}| {red}{BOLD}{CYAN}X       X{GREEN,BOLD,REVERSE} |{red}
+{GREEN,BOLD,REVERSE}|  {red}{BOLD}{CYAN}X     X{GREEN,BOLD,REVERSE}  |{red}
+{GREEN,BOLD,REVERSE}|   {red}{BOLD}{CYAN}X   X{GREEN,BOLD,REVERSE}   |{red}
+{GREEN,BOLD,REVERSE}|    {red}{BOLD}{CYAN}X X{GREEN,BOLD,REVERSE}    |{red} {CYAN,BOLD}T{WHITE,BOLD,REVERSE}   {red}{CYAN,BOLD}C
+{GREEN,BOLD,REVERSE}|     {red}{BOLD}{CYAN}X{GREEN,BOLD,REVERSE}     |{red}
+{GREEN,BOLD,REVERSE}|    {red}{BOLD}{CYAN}X X{GREEN,BOLD,REVERSE}    |{red}
+{GREEN,BOLD,REVERSE}|   {red}{BOLD}{CYAN}X   X{GREEN,BOLD,REVERSE}   |{red}
+{GREEN,BOLD,REVERSE}|  {red}{BOLD}{CYAN}X     X{GREEN,BOLD,REVERSE}  |{red}
+{GREEN,BOLD,REVERSE}| {red}{BOLD}{CYAN}X       X{GREEN,BOLD,REVERSE} |{red}
+~
+69 262144 1
+D4
+~
+~
+0 -1 6991
+Z0
+C-1
+S
+$~

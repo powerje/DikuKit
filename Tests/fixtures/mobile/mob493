@@ -1,0 +1,1608 @@
+#49300
+armourer merchant armorer~
+{R}The Armourer{r}~
+{R}A stout old merchant sells armour from behind the counter.{r}
+~
+{R}
+  This old merchant has been selling armour in this city
+  for countless years, and has built himself quite a
+  reputation in Eudelta.  His wares are well known for
+  their reliability and fair price.
+{r}
+~
+524354 1076101672 0 S
+50 -80 0 1d1+1000 1d2+0
+100000 1000
+8 8 1
+S 655744
+R 412
+D 20
+A 12
+#49301
+weaponsmith merchant~
+{R}The Weaponsmith{r}~
+{R}A middle aged man sits here polishing weapons from behind the counter.{r}
+~
+{R}
+  This wise merchant has been selling his fine blades
+  next to the armourer for many years now.  His fine
+  shop was added next to the long-standing armoury
+  twenty-something years ago, and has since enjoyed
+  much prosperity along the main street of Eudelta.
+{r}
+~
+524354 1076101672 0 S
+50 -80 0 1d1+1000 1d2+0
+0 1000
+8 8 1
+S 655744
+R 412
+D 20
+A 12
+#49302
+tattoo artist merchant~
+{R}The Tattoo Artist{r}~
+{R}A man covered head-to-toe in body art tattoos a young client here.{r}
+~
+{R}
+  This man looks like he has been into tattoos for a
+  very long time.  He expertly marks his clients with
+  a clean, professional needle, while making small
+  talk to try and put his clients at ease.  His arms,
+  neck, and face are nearly completely covered in
+  body art.  He seems to have a great love for his
+  craft.
+{r}
+~
+524354 1076101672 0 S
+50 -80 0 1d1+1000 1d2+0
+0 1000
+8 8 1
+S 655744
+R 412
+D 20
+A 12
+#49303
+acolyte guard~
+{W,BO}The acolyte guard{w,bo}~
+{W,BO}A young acolyte stands guard here, allowing only followers of the temple by.{w,bo}
+~
+{W,BO}
+  From a young age, this man has devoted himself to
+  a monastic life.  From his heavily muscled body to
+  his flowing chi, his training seems to have done
+  him well.  He now guards the temple from those
+  who would violate it's sacred ground.
+{w,bo}
+~
+1078460482 1914995372 250 C 4
+50 -80 0 1d1+10000 40d10+50
+50000 1000
+8 8 1
+S 17958208
+R 268
+D 20
+A 12
+#49304
+blacksmith smith merchant~
+{R}The Blacksmith{r}~
+{R}The Blacksmith sits here, reforging an old blade.{r}
+~
+{R}
+  With a good natured smile, the blacksmith of Eudelta
+  repairs and polishes equipment for all his customers.
+  An older gentleman, he remains fit and heavily muscled
+  from the many years he has spent working in this very
+  shop.
+{r}
+~
+524354 1076101672 0 S
+50 -80 0 1d1+1000 1d2+0
+0 1000
+8 8 0
+S 131456
+R 444
+D 20
+A 12
+#49305
+thief guard~
+{Y}The thief guard{y}~
+{Y}A young thief closely inspects all those wishing to enter the secret guild.{y}
+~
+{B,BO}
+  The man guarding the Thieves guild of Eudelta does
+  so at great personal risk to himself.  Recent laws
+  passed in the city banning the existence of such a
+  guild make guarding it from outsiders that much
+  more important of a job.  He appears skilled and
+  well trained in the arts of thievery, more than a
+  match for any adventurer foolish enough to try
+  and get by.
+{b,bo}
+~
+1078460482 1379173036 0 C 3
+50 -80 0 1d1+10000 40d10+50
+50000 2000000
+8 8 1
+S 17958208
+R 268
+D 20
+A 12
+#49306
+mage guard~
+{M}the mage guard{m}~
+{M}A hooded guard of slight build guards the entrance to the mages guild.{m}
+~
+{M}
+  Behind the shadow of the guard's long hood is the
+  face of a committed young woman.  She has devoted
+  her life to the fine art of magic, and has sworn
+  to protect it from those who would violate the
+  sacred order.
+{m}
+~
+1095237698 1378091694 0 C 1
+50 -80 0 1d1+10000 40d10+50
+50000 2000000
+8 8 2
+S 17958208
+R 268
+D 20
+A 12
+#49307
+warrior guard~
+{B,BO}the warrior guard{b,bo}~
+{B,BO}A tough looking warrior guards the entrance to the guild.{b,bo}
+~
+{B,BO}
+  This tough looking warrior sternly guards the entrance
+  to the warrior's guild.  His long years of sparring in
+  these halls have made him into a very strong protector
+  of the guild's interests.
+{b,bo}
+~
+1078460482 1378124456 0 C 4
+50 -80 0 1d1+10000 40d10+55
+50000 2000000
+8 8 1
+S 17827136
+R 268
+D 20
+A 12
+#49308
+cleric guard~
+{C}The cleric guard{c}~
+{C}A powerful looking priest stands guard here.{c}
+~
+{C}
+  This scholarly looking priest stands guard over
+  the entrance to the Clerics' Guild.  His frame is
+  powerful and his eyes glow with mystic power.  He
+  allows only priests of the guild and the seriously
+  ill to pass into these pure halls.
+{c}
+~
+1078460482 1881440936 0 C 2
+50 -80 0 1d1+10000 40d10+45
+0 2000000
+8 8 0
+S 17827648
+R 284
+D 20
+A 12
+#49309
+Grant bistro employee~
+{BL,BO}Grant{bl,bo}~
+{C,BO}The Bistro's host appears apathetic.{c,bo}
+~
+{C}
+  Grant is five foot ten, slender with pin straight
+  brown hair. His hazel eyes glimmer in the black
+  lights. He leans against the glass counter top
+  with one elbow and stares off into space. He is 
+  wearing a pair of perfectly pressed black pants
+  and a metallic gray silk shirt. He looks simply
+  dashing, yet somewhat unapproachable. 
+{c}
+~
+67108930 1076101672 0 C 4
+57 10 5 600d300+200 12d12+10
+0 1000
+8 8 1
+R 128
+D 20
+A 12
+#49310
+jeweler merchant~
+{Y}The Jeweler{y}~
+{Y}The Jeweler smiles as he sees another happy customer.{y}
+~
+{Y}
+  A middle-aged man with telescopic glasses sits behind the 
+  counter explaining the 4 C's of diamonds to a young couple.
+  He looks up and motions that he'll be there in a minute.
+  The smile on his face tells you this is a good day.
+{y}
+~
+67108930 1074004648 0 S
+51 -131 -24 3000d2+25 200d1+2
+1000 2000000
+8 8 0
+D 20
+A 12
+#49311
+Joe Crazy~
+{Y,BO}CrAzY jOe{y,bo}~
+{Y,BO}CrAzY jOe's hypnotic eyes convince you that you NEED to buy a ride.{y,bo}
+~
+{Y,BO}
+  Joe stares directly at the patrons with eyes glazed  
+  over. His extreme excitement at selling anything at
+  a bargain just makes him insane. His oversized bell-
+  bottomed brown plaid pants clash horribly with the
+  bright yellow shirt and green wide tie.
+{y,bo}
+~
+67108930 1073742344 0 S
+15 -101 5 1000d1+50 50d1+10
+50000 1000
+8 8 1
+R 128
+D 20
+A 12
+#49312
+Bubha clerk~
+{GR,BO}Bubha, the clerk{gr,bo}~
+{GR,BO}The clerk offers little help. Seems he's never left this store.{gr,bo}
+~
+{GR,BO}
+  Bubha is a round man. He sits eating a bag of chips and slurping
+  down a Big Gulp of cola. Other than the trip he made to get to
+  the job, he's never gone anywhere. He just sells the maps, so
+  don't waste any time asking how to use them.
+{gr,bo}
+~
+67633218 1074004520 0 S
+5 -32 5 500d1+50 3d3+3
+50 1000
+6 5 1
+R 128
+D 20
+A 12
+#49313
+sabrina~
+{M}S{BLU}a{M}b{BLU}r{M}i{BLU}n{M}a{m}~
+{M}S{BLU}a{M}b{BLU}r{M}i{BLU}n{M}a{m} offers suggestions for that cough.
+~
+{M}
+  Though this young blonde causes much trouble 
+  with her magic, she really is quite knowledgeable. 
+  She stands here making a variety of potions to
+  heal this and that. 
+{m}
+~
+268435522 1074004536 0 C 72
+50 -40 -11 4000d1+30 5d15+12
+0 1000
+8 8 2
+D 20
+A 12
+#49314
+samantha~
+{M}Samantha{m}~
+{M}A master of the craft stirs the cauldron.{m}
+~
+{M}
+  Samantha is a master of the craft. She's studied long and hard.
+  She can help with all the things that Sabrina could not. However,
+  the things Samantha creates are not for everyone.
+{m}
+~
+268435522 1074004536 0 S
+50 10 -11 4000d1+30 5d15+12
+0 1000
+8 8 2
+D 20
+A 12
+#49315
+Stan~
+{CY,BO}Old Stan, the boat man{cy,bo}~
+{CY,BO}Old Stan works on another fine boat.{cy,bo}
+~
+{C,BO}
+  Old Stan towers over most at 7 feet tall. He wears torn dungarees
+  and a sun drenched smile. His golden locks glisten in the sun
+  as he whittles the perfect boat from a single piece of wood.
+{c,bo}
+~
+335544386 1074004520 0 S
+25 -80 -7 5000d1+420 5d6+20
+50 1000
+8 8 1
+R 128
+D 20
+A 12
+#49316
+student grasshopper~
+{WH}Grasshopper{wh}~
+{WH}A student meditates reverently.{wh}
+~
+{WH}
+  This young student sits in perfect form, head held high,
+  back straight, taking nice deep breaths. What is on his
+  mind, only he knows. One things is for certain, this 
+  fellow is going to succeed for he is determined.
+{wh}
+~
+285212738 1140886048 0 S
+20 -50 -3 3000d1+275 5d7+35
+0 1000
+8 8 0
+S 12582912
+D 20
+A 12
+#49317
+pickpocket boy~
+{R}A Pickpocket{r}~
+{R}A young boy tries to pickpocket passers-by.{r}
+~
+{R}
+  From between the shadows of the building this young 
+  lad scouts his next victim. Finding just the right
+  sucker, he walks out into the open like he's on an
+  errand for his dear mother. Seeing nothing unusual
+  about this boy is his trick. He blends in to the 
+  scenery and then WHAM! your wallet's gone!
+{r}
+~
+64 1075315200 0 C 3
+15 -20 -3 10d100+500 5d5+15
+15000 2400
+8 8 1
+D 9
+A 12
+#49318
+earl alchemist merchant~
+{M,BO}Earl the Alchemist{m,bo}~
+{M}A stern looking merchant mixes some chemicals.{m}
+~
+{M,BO}
+  This old man has been running the Alchemist's shop
+  in Eudelta for many years, and will likely continue
+  to do so until the end of his days.  He sometimes
+  experiments with rare and dangerous chemicals, so
+  he keeps his shop in the corner of the city.
+{m,bo}
+~
+524354 1076101672 0 S
+50 -80 0 1d1+1000 1d2+0
+0 1000
+8 8 1
+S 656320
+R 412
+D 20
+A 12
+#49319
+geno merchant deli~
+{WH,BO}Geno, the deli guy{wh,bo}~
+{WH,BO}Geno looks at the next customer and barks, "Whatcha want?"{wh,bo}
+~
+{WH,BO}
+  Geno, the deli guy, is covered in oil and bits of lettuce.
+  He makes some of the best sandwiches is all of Eudelta. The 
+  big fat guy with a white apron and blue t-shirt works hard
+  for every penny he makes.
+{wh,bo}
+~
+536870978 1074004000 0 S
+15 -18 -1 4839d1+200 6d7+3
+25000 1000
+8 8 1
+S 832
+R 412
+D 20
+A 12
+#49320
+Lou merchant butcher~
+{BLU,BO}Lou, The Happy Clam's Butcher{blu,bo}~
+{BLU,BO}The Butcher greets you with his {R}bloody{BLU} cleaver in hand.{blu,bo}
+~
+{BLU,BO}
+  Lou greets you at the counter with a cleaver in hand.
+  He's obviously been preparing fresh meat as his apron
+  is blood stained and the cleaver is dripping. The least 
+  he could have done was put the cleaver down first.
+{bl,bo}
+~
+66 1074004008 0 S
+1 -130 5 5000d1+500 8d7+350
+0 1000
+8 8 1
+S 656192
+R 408
+D 20
+A 12
+#49321
+waitress~
+{GR,BO}A young waitress{gr,bo}~
+{GR,BO}A young waitress hustles about busily.{gr,bo}
+~
+{G,BO}
+  With long red hair tied back into a simple blue 
+  ribbon, this yound waitress runs about getting
+  this and that for various customers. She sees you,
+  but you'll have to be patient. She is the only 
+  one on staff today.
+{g,bo}
+~
+66 1073741864 0 S
+50 10 5 1d1+1000 1d2+0
+0 1000
+8 8 2
+S 131072
+R 412
+D 10
+A 12
+#49322
+male man patron~
+{Y}A male Patron{y}~
+{Y}A man eats a gourmet dinner with his girlfriend.{y}
+~
+{Y}
+  A man sits here in the booth with his girlfriend, enjoying
+  the gourmet food as he stares into her eyes.  The waiters
+  and waitresses of the Happy Clam are attentive, but not
+  intrusive.
+{y}
+~
+67108930 512 0 S
+10 -5 2 1d1+200 5d3+5
+5000 11000
+8 8 1
+R 12
+D 20
+A 12
+#49323
+female woman patron~
+{M}A female Patron{m}~
+{M}A woman sits in the booth with her boyfriend, enjoying a gourmet dinner.{m}
+~
+{M}
+  This woman sits in a booth in the Happy Clam, and eats
+  a fine dinner with her boyfriend across the table.
+{m}
+~
+67108930 512 0 S
+1 0 1 1d1+200 4d4+6
+5000 1000
+8 8 2
+R 12
+D 20
+A 12
+#49324
+receptionist~
+{GR}The receptionist{gr}~
+{GR}The receptionist looks at you like you are the center of the universe.{gr}
+~
+{GR}
+  With a half smile, the receptionist grabs a key
+  from the wall and points you to your room.
+{gr}
+~
+1207961602 1073742336 900 S
+51 10 -2 6d10+6900 5d8+22
+2000 80000
+8 8 2
+R 128
+D 20
+A 12
+#49325
+Snake man creepy figure~
+{R}S{BLU}n{WH}A{Y}k{M}E{m}~
+{GR}A creepy figure glares at you from across the desk.{gr}
+~
+{GR}
+  Covered in tattoos from head to toe, it's hard
+  to keep your eyes off of {R}S{BLU}n{WH}A{Y}k{M}E{GR}. He glares at
+  customers as they wander around looking at old
+  junk. 
+{gr}
+ 
+~
+66 1074004008 0 S
+1 -104 5 5000d1+346 4d9+235
+0 1000
+8 8 1
+S 131072
+R 412
+D 20
+A 12
+#49326
+DrHertzalot~
+{BLU}Dr. Hertzalot{blu}~
+{WH}Dr. Hertzalot is ready to cure the pain.{wh}
+~
+{R,BO}
+  Dr. Hertzalot wears a white lab coat and small reading specs.
+  He is middle-aged and balding. This kind gentleman wants nothing
+  more than to help the patient.
+{r,bo}
+~
+335544386 1073741864 0 S
+25 -10 -2 5329d1+392 3d6+25
+30000 155000
+8 8 1
+D 20
+A 12
+#49327
+bozo master trainer~
+Bozo, the Master Trainer~
+Bozo is here teaching his spells and skills.
+~
+{Y,BO}
+  He is one of the most experienced fighters in 
+  all NC. Noone has ever won a fight against him.
+  But he's getting old and now he trains the young 
+  fighters in his room.
+{y,bo}
+~
+1225264131 1076101672 800 S
+56 10 -10 1d1+32000 150d150+100
+20000 50000
+8 8 1
+R 140
+D 20
+A 12
+#49328
+fisherman angler slicker~
+{Y,BO}A humble fisherman{y,bo}~
+{Y,BO}A yellow slicker casts its line.{y,bo}
+~
+{Y,BO}
+  Looking like he jumped off the Gorton's box, this
+  fisherman is decked out from head to toe in bright
+  yellow. Waterproofed! But that doesn't make him 
+  immune to the odor of fish. This gent needs a shower!
+{y,bo}
+~
+67633218 1207960232 0 S
+50 -105 -1 1d1+5000 15d15+60
+75000 5000000
+8 8 1
+D 20
+A 12
+#49329
+acolyte student~
+{Y,BO}A young Acolyte{y,bo}~
+{Y,BO}A young acolyte sits meditating.{y,bo}
+~
+{Y}
+  This young man sits in the guild in deep meditation.
+  His training and discipline now will help him develop
+  the inner balance needed to become a full-fledged
+  monk.
+{y}
+~
+524354 270794784 0 S
+20 -30 0 1d1+1000 3d10+3
+5000 50000
+6 6 0
+D 20
+A 12
+#49330
+nurse inzabaht~
+{W,BO}Nurse P.A. Inzabaht{w,bo}~
+{W,BO}The nurse is here to assist you.{w,bo}
+~
+{WH,BO}
+  Dressed in his white lab coat and green scrubs,
+  Nurse P.A. Inzabaht is here to assist you. His
+  bedside manner is superb and his training tip-
+  top. You couldn't ask for a better nurse!
+{wh,bo}
+~
+524354 1073741824 0 S
+5 -30 5 550d10+20 3d3+4
+5000 2000
+8 8 1
+D 20
+A 12
+#49331
+mayor aislinn laird~
+{BLU,BO}Mayor Aislinn Laird{blu,bo}~
+{BLU,BO}All hail Mayor Aislinn Laird of Eudelta!{blu,bo}
+~
+{BLU,BO}
+  Mayor Aislinn Laird is a hard-working lady in about
+  her mid-thirties. Her long, flowing, red hair is often
+  pinned up as she's walking around town or sitting at 
+  her desk taking care of the endless paperwork that is
+  required of her. In the evenings, this warrior-woman
+  lets her hair down and hangs out with the locals and 
+  the travellers in the taverns and other night time 
+  hot spots. She's lively, active, interesting and loved
+  by all. She's a good mother, wife, daughter and friend.
+  Eudelta is pleased to call her mayor.
+{blu,bo}
+
+~
+1124073536 1426325664 0 C 55
+50 -230 -30 35000d1+400 50d50+20
+1000000 1000
+8 8 2
+R 128
+D 20
+A 12
+#49332
+sammy shopkeeper keeper~
+{C}Sammy, the shop keeper{c}~
+{C}Sammy sits mindlessly watching an old black and white tube.{c}
+~
+{C}
+  Sammy is a retired fisherman. Now, he spends his
+  days sitting indoors where the cold won't chill 
+  his bones. He enjoys watching old reruns of the
+  Honeymooners and drinking root beer while he waits
+  around for some chump to purchase any of the old
+  junk he has sitting in the shop.
+{c}
+~
+83886146 1076101672 0 C 3
+51 -230 -30 2000d1+5 40d400+40
+1000 1000
+6 6 1
+S 131072
+R 128
+D 20
+A 12
+#49333
+Melvin magic merchant~
+{M,BO}M{R}e{M}l{R}v{M}i{R}n{m,bo}, the Magic School Flunky~
+{M,BO}M{R}e{M}l{R}v{M}i{R}n{m,bo}, the Magic School Flunky, fumbles with a wand he insists you need.
+~
+{M,BO}
+  M{R}e{M}l{R}v{M}i{R}n{m,bo}, the Magic School Flunky, approaches in a cheesy 
+  red velvet cape with a pink satin linking. He's holding 
+  a stack of wands and tells you about the one that does 
+  some amazing thing that you KNOW is impossible. It would
+  be nice if Merlin had hired someone more knowledgable to
+  assist you.
+{g} 
+~
+268435522 1074004536 0 S
+50 10 -11 4000d1+30 5d15+12
+0 1000
+8 8 0
+D 20
+A 12
+#49334
+waitress~
+{GR,BO}A young waitress{gr,bo}~
+{GR,BO}A young waitress hustles about busily.{gr,bo}
+~
+{G,BO}
+  With long red hair tied back into a simple blue 
+  ribbon, this yound waitress runs about getting
+  this and that for various customers. She sees you,
+  but you'll have to be patient. She is the only 
+  one on staff today.
+{g,bo}
+~
+66 1073741864 0 S
+50 10 5 1d1+1000 1d2+0
+0 1000
+8 8 2
+D 10
+A 12
+#49335
+busy person~
+{MAGE}A busy person{mage}~
+{MAGE}A person busies themself with daily activities{cyan}
+~
+   
+   {MAGE}This person fumbles with boxes and trinkets that he has 
+   bought at the market. When he passes people he hardly 
+   notices them.{mage} 
+
+~
+67108930 1208222336 0 S
+30 -30 -1 1d1+3000 8d10+30
+55000 100000
+8 8 1
+D 20
+A 12
+#49336
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49337
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49338
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49339
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49340
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49341
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49342
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49343
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49344
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49345
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49346
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49347
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49348
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49349
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49350
+Bishop trainer acolyte elder master~
+{W,BO}Bishop{w,bo}~
+{Y}The highest ranking acolyte is here instructing his students{y}
+~
+
+  This is the ranking Acolyte of this guild.  His sole purpose
+  here is to train young acolytes with the skills to defend
+  themselves from all aggressors.  Learning from him is a great
+  honour.
+
+~
+1296096834 128 0 S
+53 10 5 1000d1000+320000 1d2+0
+0 0
+8 8 0
+S 1856
+R 400
+D 20
+A 12
+#49351
+clark cleric trainer elder master~
+{W}Clark{w}~
+{W}A holy cleric leads his students in an ancient change.{w}
+~
+{W}
+  The trainer is dressed in white garments which drape 
+  to the floor. His face is smooth and pure. His voice
+  is clear and solemn. He reads from an ancient text.
+{w}
+~
+66 1076101800 0 S
+51 10 5 0d0+30000 1d2+0
+0 1000
+8 8 1
+S 1984
+R 400
+D 20
+A 12
+#49352
+Shade thief elder trainer master~
+{BL,BO}Shade{bl,bo}~
+A dark figure steps out from the shadows and begins to speak.
+~
+{BL,BO}
+  Dressed in only a dusty rugged looking outfit this
+  little dark elf does not appear to be much of a 
+  threat. However, you grow somewhat concerned when 
+  he holds out his hand presenting to you the ring 
+  you had only moments ago been wearing on your finger.
+  What? He has not moved since you entered the room! 
+  Or has he?
+{bl,bo}
+~
+66 1076101800 0 S
+51 10 5 0d0+30000 1d2+0
+0 1000
+8 8 0
+S 1984
+R 400
+D 20
+A 12
+#49353
+Victor trainer warrior elder master~
+{BLU,BO}Victor{blu,bo}~
+{BLU,BO}A warrior stands drilling his trainees in the art of battle.{blu,bo}
+~
+{BLU,BO}
+  This old warrior has lived through many great 
+  battles. He trained under Kruik, the great 
+  warrior. As you walk across the room the trainer 
+  seems to follow you with his eyes, step for step. 
+  He wears a suit of traditional gladiator equipment, 
+  with a golden ring upon his finger. The ring begins
+  to glow brightly as you stare at it, strange.
+{blu,bo}
+~
+66 1076101800 0 S
+51 10 5 0d0+2000 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49354
+Abracadabra mage elder trainer master~
+{M}Abracadabra{m}~
+{M}A great mage strokes his beard knowingly.{m}
+~
+{BLU}
+  A short, man with a long white beard and a pointed 
+  silvery hat looks you over as you look him over. 
+  His tunic, pants and hooded robe fit loosely about
+  his slender body. His blue velvet sash holds it all
+  together. The crystal on his staff catches your eye
+  as the light hits it. You're mesmerized at his power.
+{blu}
+~
+66 1076101800 0 S
+51 10 5 0d0+30000 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49355
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49356
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49357
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49358
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49359
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49360
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49361
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49362
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49363
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49364
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49365
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49366
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49367
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49368
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49369
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49370
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49371
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49372
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49373
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49374
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49375
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49376
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49377
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49378
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49379
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49380
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49381
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49382
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49383
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49384
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49385
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49386
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49387
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49388
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49389
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49390
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49391
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49392
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49393
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49394
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49395
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49396
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49397
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49398
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#49399
+Cole Pup Coleco Coli Babybee~
+{BL,BO}Cole{bl,bo}~
+{B,BO}Cole Guards the cave.{b,bo}
+~
+{BL}
+                                    
+                                 ,\  /'\  
+                                // \v  ^
+                                \| / ^  6\___
+                                |     6      4
+                                |            /
+                                \{R,BO}_    {bo,BL}   .--'
+                                {R,BO}(_'---'`)
+                                {bo,BL}/ {R,BO}`'---`{Y}(){bo,BL}
+                              ,'        |
+              ,            .'`          |
+              )\       _.-'             '
+             / |    .'`   _            /
+           /` /   .'       '.        , |
+          /  /   /           \   \   | |
+          |  \  |            |  .|   | |
+           \  `"|           /.-' |   | |
+            '-..-\       _.
+                  \    <`.._  )) |  .;-. ))
+                  (__.  `  ))-'  \_    ))'
+                      `'--"`       `"""`
+{bl}
+~
+1111752770 1073742336 0 S
+55 -230 -30 9999d9999+500 9999d9999+9999
+0 500000000
+5 5 1
+S 92276032
+R 412
+D 20
+A 12
+$~

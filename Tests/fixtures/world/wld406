@@ -1,0 +1,2646 @@
+#40600
+{BOLD,WHITE}Welcome{bold,white} to {BOLD,GREEN,BLINK}Super Mario World{bold,green,blink}~
+
+    Welcome to the land of Mario.  Looks like Princess Toadstool has been
+    kidnapped again.  Go rescue her and you will be rewarded.  But beware
+    most who enter the land of Mario do not make it through alive.
+
+~
+406 262148 1
+D0
+~
+EntranceGate~
+1 -1 40601
+X134217816
+Z0
+C-1
+S
+#40601
+{BOLD,GREEN}Yoshi's Island 1{bold,green}~
+
+    {WHITE,BOLD}You are entering the first of many worlds in the land of Mario.
+    This world, the Island of Yoshi, contains the easiest of enimies in
+    the land of Mario.  Have fun here before you get into the hard parts.
+
+~
+406 262144 1
+D0
+~
+~
+0 -1 40610
+D1
+~
+~
+0 -1 40602
+Z0
+C-1
+S
+#40602
+{GREEN,BOLD}Yoshi's Island 2{green,bold}~
+
+{WHITE,BOLD}    You are going deeper into the land of Yoshi's, but you're also finding
+    many other creatures in this land like turtles, moles and gumbas.
+    These creatures aren't as friendly as Yoshis so you better kill
+    them before they kill you.
+
+~
+406 262144 1
+D0
+~
+~
+0 -1 40603
+D3
+~
+~
+0 -1 40601
+X134217742
+Z0
+C-1
+S
+#40603
+{GREEN,BOLD}Yoshi's Island 3{green,bold}~
+
+{WHITE,BOLD}    You are now on top of some platforms in Yoshi's Island.  WHEE!
+    You are surrounded by empty space, one wrong move and it could be
+    all over.  But going the right way will get you one step closer to
+    the magical castle of Iggy.
+
+~
+406 262144 1
+D0
+~
+~
+0 -1 40604
+D2
+~
+~
+0 -1 40602
+X140509230
+Z0
+C-1
+S
+#40604
+{GREEN,BOLD}Yoshi's Island 4{green,bold}~
+
+{WHITE,BOLD}    All of a sudden, you feel the rush of water coming at you from all
+    directions.  You try to jump from platform to platform hoping to avoid
+    falling in the water with spiked metal balls.  Becareful not to rush out
+    too fast, you might end up in really bad shape.
+
+~
+406 294912 1
+D0
+~
+CastleGate~
+2 40600 40609
+D2
+~
+~
+0 -1 40603
+Z0
+C-1
+S
+#40605
+{BOLD,GREEN}Green Switch Palace{bold,green}~
+
+    {BOLD,GREEN}A huge ass green button is in the room!{bold,green}
+
+~
+406 278541 1
+D1
+~
+green~
+1 -1 40613
+Z15
+C-1
+S
+#40606
+{BLACK}Not a place you want to be.{black}~
+If you can read this, then you just dt'ed :P
+~
+406 262146 1
+Z0
+C-1
+S
+#40607
+{RED,BOLD}Red Switch Palace{red,bold}~
+
+    {BOLD,WHITE}A giant red button lies in the middle of the room
+    waiting to be pushed.
+
+~
+406 263177 1
+D3
+~
+red~
+1 -1 40625
+X84836352
+Z15
+C-1
+S
+#40608
+{WHITE}Before Iggy's Chamber{white}~
+
+{WHITE,BOLD}    You are now in the guard room to Iggy's lair.  You
+    see 5 powerful guards blocking the entrance to Iggy's lair.
+    There are rays of bright red light radiating from Iggy's
+    chamber.
+
+~
+406 278681 1
+D0
+~
+~
+0 -1 40609
+X512
+Z15
+C-1
+S
+#40609
+{BOLD,WHITE}Iggy's Castle{bold,red}~
+
+{BOLD,RED}    You've finally made your way to Iggy's room.  Iggy
+    is here bouncing around the room and siezing up his
+    next victims.  You find yourself at one end of a 
+    see-saw platform facing Iggy on the other side of the
+    platform.  There's lava all around you, one wrong move
+    and it could be all over.
+
+~
+406 278681 1
+D0
+~
+DonutGate~
+1 40600 40612
+D1
+~
+~
+0 -1 40606
+D3
+~
+~
+0 -1 40606
+D5
+~
+~
+0 -1 40611
+Z15
+C-1
+S
+#40610
+{BOLD,YELLOW}Yellow Switch Palace{bold,yellow}~
+
+{BOLD,WHITE}    You have found the first of the switch palaces in this land.
+    It will be to your advantage to find all of the switch palaces, 
+    they'll make your stay here a lot more pleasant.
+
+~
+406 262156 1
+D2
+~
+~
+0 -1 40601
+Z0
+C-1
+S
+#40611
+{BOLD,RED}WUSS{bold,red}~
+
+{BOLD,WHITE}                   WUSS!
+{BOLD,WHITE}                   WUSS!
+{BOLD,WHITE}                   WUSS!
+{BOLD,WHITE}                   WUSS!
+{BOLD,WHITE}                   WUSS!
+{BOLD,WHITE}                   WUSS!
+{BOLD,WHITE}                   WUSS!
+{BOLD,WHITE}                   WUSS!
+{BOLD,WHITE}                   WUSS!
+{BOLD,WHITE}                   WUSS!
+{BOLD,WHITE}                   WUSS!
+{BOLD,WHITE}                   WUSS!
+
+~
+406 1310720 1
+D5
+~
+~
+0 -1 2011
+Z0
+C-1
+S
+#40612
+{GREEN,BOLD}Donut Plains 1{green,bold}~
+
+{GREEN,BOLD}    Welcome!!  You've made it to Donut Plains.  You'll
+    find this area to be much more hostile than Yoshi's
+    Island.  It is also rumored that this land is haunted
+    by ghosts, so beware...
+
+~
+406 262208 1
+D0
+~
+Passageway~
+1 -1 40614
+D3
+~
+~
+0 -1 40613
+Z0
+C-1
+S
+#40613
+{GREEN,BOLD}Donut Plains 2{green,bold}~
+
+   {BOLD,GREEN}You are in a dark, spooky cave.  There are bats
+   flying over your head and critters circling you.
+   You find it very hard to concentrate while
+   fighting with all the mysterious noises around you.{bold,green}
+
+~
+406 262153 1
+D0
+~
+~
+0 -1 40616
+D2
+~
+~
+0 -1 40612
+D3
+~
+green~
+3 1 40605
+Z15
+C-1
+S
+#40614
+{BOLD,WHITE}Donut Secret 1{bold,white}~
+
+{WHITE,BOLD}    You are now in a secret underwater passage 
+    to the Valley of Bowser.  If you find your
+    way through.  You could be at the backdoor
+    of Bowser's Castle very soon.
+
+~
+406 294912 6
+D0
+~
+n~
+1 -1 40616
+D1
+~
+~
+0 -1 40615
+D2
+~
+Passageway~
+1 -1 40612
+Z0
+C-1
+S
+#40615
+{BOLD,GREEN}Donut Secret House{bold,green}~
+
+{WHITE,BOLD}    You have a bad feeling about this place.  You can sense evil
+    beings surrounding you.  You think you see a ghost but
+    as you turn your head you see nothing there.  SPOOKY!
+
+~
+406 278665 1
+D1
+~
+~
+0 -1 40621
+D2
+~
+~
+0 -1 40623
+D3
+~
+~
+0 -1 40614
+Z14
+C-1
+S
+#40616
+{BOLD,GREEN}Donut Ghost House{bold,green}~
+
+{WHITE,BOLD}    You sense the souls of the dead surrounding you and telling
+    you to leave as you enter the haunted ghost house of Donut
+    Plains.  It is rumored that there is a secret exit to this 
+    ghost house.  Find it, you'll be glad.
+
+~
+406 278665 1
+D0
+~
+secret~
+3 40600 40617
+D1
+~
+~
+0 -1 40618
+D2
+~
+n~
+1 -1 40614
+D3
+~
+~
+0 -1 40613
+Z14
+C-1
+S
+#40617
+{GREEN,BOLD}Top Secret Area!{green,bold}~
+
+{WHITE,BOLD}    Wow, you've found the top secret area!!  You sense peace
+    in this room.  Look there's even a fountain for you here.
+    Come back here as often as you need to take a break from
+    fighting all the mean mobs in this zone.
+
+~
+406 270340 1
+D2
+~
+secret~
+1 -1 40616
+Z0
+C-1
+S
+#40618
+{GREEN,BOLD}Donut Plains 3{green,bold}~
+
+{BOLD,WHITE}    Wow, as you enter the room, you see platforms everyone.  Flying
+    turtles are zooming over your head.  You try to jump from one moving
+    platform to another while avoiding the turtles.  If you get hit, you're
+    a goner.
+
+~
+406 262144 2
+D1
+~
+~
+0 -1 40619
+D2
+~
+~
+0 -1 40622
+D3
+~
+~
+0 -1 40616
+Z4
+C-1
+S
+#40619
+{GREEN,BOLD}Donut Plains 4{green,bold}~
+
+{WHITE,BOLD}    The first thing you notice as you step into this room is all the pipes
+    that are around you.  They seem to be coming in and out of the ground with
+    a wierd pattern.  You have to figure out these patterns and at the same time
+    deal with all the turtles looking to end your stay in their land.
+
+~
+406 262144 1
+D0
+~
+CastleGate~
+1 40600 40620
+D3
+~
+~
+0 -1 40618
+Z0
+C-1
+S
+#40620
+{WHITE,BOLD}Morton's Castle{white,bold}~
+
+{WHITE,BOLD}    Good job, you've made it to the second castle in Mario World.  In
+    this castle, the evil Morton awaits you.  As soon as Morton lays his eyes
+    on you, the doors around you turn into walls.  There is only one way out
+    and that's to kill Morton.  Good Luck!
+
+~
+406 262297 1
+D0
+~
+~
+0 -1 40624
+D1
+~
+~
+0 -1 40606
+D3
+~
+~
+0 -1 40606
+D5
+~
+~
+0 -1 40611
+Z13
+C-1
+S
+#40621
+{BOLD,GREEN}A FREAKING PIPE ROOM!{bold,green}~
+
+{WHITE,BOLD}    Before you lies a great pipe, interested in where it leads to?
+    Enter and find out...
+
+~
+406 262144 1
+D3
+~
+~
+0 -1 40615
+Z0
+C-1
+S
+#40622
+{BOLD,GREEN}A FREAKING PIPE ROOM!{bold,green}~
+
+{WHITE,BOLD}    Before you lies a great pipe, interested in where it leads to?
+    Enter and find out...
+
+~
+406 262144 1
+D3
+~
+~
+0 -1 40618
+Z0
+C-1
+S
+#40623
+{BOLD,YELLOW}STAR ROAD!{bold,yellow}~
+
+    {WHITE,BOLD}Great!  You have found one of the five entrances to {white,bold}{BOLD,YELLOW}Star Road.
+
+~
+406 270340 1
+D0
+~
+~
+0 -1 40615
+Z0
+C-1
+S
+#40624
+{CYAN}Vanilla Dome 1{cyan}~
+
+    {BOLD,WHITE}Great, you've found your way through Donut Plains.  It's time to 
+    venture into the mystical Vanilla dome.  This is a small but very 
+    dangerous area.  Like always beware of ghosts...
+
+~
+406 262280 0
+D1
+~
+~
+0 -1 40625
+D3
+~
+~
+0 -1 40635
+Z0
+C-1
+S
+#40625
+{CYAN}Vanilla Dome 2{cyan}~
+{WHITE}
+    As you enter the room you suddenly slide down a steep ramp
+    and quickly find yourself submerged in water.  You try and
+    get out but find killer fishes all around you.  Better get
+    out before you drown, or worse become food for the fishes.
+
+~
+406 295048 6
+D0
+~
+~
+0 -1 40626
+D1
+~
+red~
+3 30404220 40607
+D2
+~
+~
+0 -1 40624
+Z0
+C-1
+S
+#40626
+{WHITE,BOLD}Vanilla Ghost House{white,bold}~
+
+    {WHITE,BOLD}You smell the fumes from the past victims who have
+    entered the dreaded vanilla ghost house.  If you're not
+    careful, you may end up the same way, DEAD.
+
+~
+406 262281 0
+D1
+~
+~
+0 -1 40627
+D2
+~
+~
+0 -1 40625
+Z14
+C-1
+S
+#40627
+{CYAN}Vanilla Dome 3{cyan}~
+
+    {WHITE,BOLD}You are surrounded by lava as you go deeper
+    into the haunted dome.  You find mysterious transporters
+    made of skulls that magically float on top of the lava
+    as your only way of moving around in this place.
+
+~
+406 262168 0
+D0
+~
+~
+0 -1 40626
+D2
+~
+~
+0 -1 40628
+Z0
+C-1
+S
+#40628
+{CYAN}Vanilla Dome 4{cyan}~
+
+    {WHITE,BOLD}You get the feeling that you are not on secure land
+    any more.  There spring boards everywhere and you have
+    to go from one to the next if you want any chance of
+    surviving here.  You are also showered by bits of 
+    speeding bullets.
+
+~
+406 262273 9
+D0
+~
+~
+0 -1 40627
+D2
+~
+CastleGate~
+1 40600 40629
+Z10
+C-1
+S
+#40629
+{BOLD,WHITE}Lemmy's Castle{bold,white}~
+
+    {WHITE,BOLD}You are consumed by the evil and darkness
+    around you.  You are standing on top of some
+    pipes and Lemmy is popping out through one
+    of these pipes at random.  But beware, there
+    are also two look alikes coming out of
+    these pipes also.  Be sure to hit the
+    right target.
+
+~
+406 262289 1
+D0
+~
+CastleGate~
+1 -1 40628
+D1
+~
+~
+0 -1 40606
+D2
+~
+~
+0 -1 40630
+D3
+~
+~
+0 -1 40606
+D5
+~
+~
+0 -1 40611
+X268435968
+Z14
+C-1
+S
+#40630
+{BOLD,GREEN}A FREAKING PIPE ROOM!{bold,green}~
+
+{WHITE,BOLD}    Before you lies a great pipe, interested in where it leads to?
+    Enter and find out...
+
+~
+406 262144 1
+D0
+~
+~
+0 -1 40629
+Z0
+C-1
+S
+#40631
+{BOLD,GREEN}A FREAKING PIPE ROOM!{bold,green}~
+
+{WHITE,BOLD}    Before you lies a great pipe, interested in where it leads to?
+    Enter and find out...
+
+~
+406 262144 1
+D1
+~
+~
+0 -1 40632
+Z0
+C-1
+S
+#40632
+{GREEN,BOLD}Cheese Bridge Area{green,bold}~
+
+    {WHITE,BOLD}You are at the bottom of the Butter Bridge Area.
+    Whether you walked here or slid in here, this is the
+    path you'll have to take now to reacy the next castle.
+
+~
+406 262144 9
+D1
+~
+~
+0 -1 40644
+D3
+~
+~
+0 -1 40631
+D5
+You put your ear up against the metal on the ground and hear
+   crashing waves.
+
+~
+soda~
+4 40650 40633
+Z0
+C-1
+S
+#40633
+{BLUE,BOLD}Soda Lake{blue,bold}~
+
+    {WHITE,BOLD}Wow, you've found the most secretive level in Mario World.
+    You are submerged in water and fighting for air.  You also
+    have to worry about the fishes and the torpedos which are
+    looking to end your stay in the land of Mario.
+
+~
+406 295040 6
+D2
+~
+~
+0 -1 40634
+D4
+~
+soda~
+1 -1 40632
+X268435456
+Z0
+C-1
+S
+#40634
+{BOLD,YELLOW}STAR ROAD!{bold,yellow}~
+
+    {WHITE,BOLD}Great!  You have found one of the five entrances to {white,bold}{BOLD,YELLOW}Star Road.
+
+~
+406 270340 1
+D0
+~
+~
+0 -1 40633
+Z0
+C-1
+S
+#40635
+{CYAN}Vanilla Secret 1{cyan}~
+
+{WHITE,BOLD}    The secret path to the famous Butter Bridge Area has been revealed
+    now.  In this room, you are surrounded by flying turtles.  Don't be 
+    fooled by their looks, they may seem cute but will tear you to pieces
+    in no time.
+
+~
+406 262153 0
+D0
+~
+~
+0 -1 40637
+D2
+~
+~
+0 -1 40624
+D3
+~
+star~
+3 3000000 40636
+Z4
+C-1
+S
+#40636
+{BOLD,YELLOW}STAR ROAD!{bold,yellow}~
+
+    {WHITE,BOLD}Great!  You have found one of the five entrances to {white,bold}{BOLD,YELLOW}Star Road.
+
+~
+406 270340 1
+D1
+~
+star~
+1 -1 40635
+Z0
+C-1
+S
+#40637
+{BOLD,GREEN}A FREAKING PIPE ROOM!{bold,green}~
+
+{WHITE,BOLD}    Before you lies a great pipe, interested in where it leads to?
+    Enter and find out...
+
+~
+406 262144 1
+D2
+~
+~
+0 -1 40635
+Z0
+C-1
+S
+#40638
+{BOLD,GREEN}A FREAKING PIPE ROOM!{bold,green}~
+
+{WHITE,BOLD}    Before you lies a great pipe, interested in where it leads to?
+    Enter and find out...
+
+    {BOLD,WHITE}You are getting ever closer to the Vanilla Fortress.  Most
+    who have entered the fortress has never been heard from again.
+    Hope and pray that won't be the case for you.
+
+~
+406 262144 1
+D1
+~
+~
+0 -1 40639
+Z0
+C-1
+S
+#40639
+{GREEN,BOLD}Vanilla Secret 2{green,bold}~
+
+    {BOLD,WHITE}You are getting ever closer to the Vanilla Fortress.  Most
+    who have entered the fortress has never been heard from again.
+    Hope and pray that won't be the case for you.
+
+~
+406 262144 1
+D1
+~
+~
+0 -1 40640
+D3
+~
+~
+0 -1 40638
+Z0
+C-1
+S
+#40640
+{BLUE,BOLD}Vanilla Secret 3{blue,bold}~
+{WHITE,BOLD}
+    Surrounded by dolphins, you can't help but to let down your
+    guard a little.  Out of nowhere you see a spiked monster 
+    ready to protect the entrance to the Fortress.
+
+~
+406 295040 6
+D1
+~
+FortressGate~
+2 -1 40641
+D3
+~
+~
+0 -1 40639
+Z0
+C-1
+S
+#40641
+{WHITE}Vanilla Fortress{white}~
+
+{WHITE,BOLD}    Ranzors are one of the most feared creatures in Mario
+    World.  They kill ruthlessly and they enjoy doing it.
+    Good thing you only have to deal with them in 
+    fortresses.
+
+~
+406 262297 1
+D1
+~
+~
+0 -1 40645
+D3
+~
+FortressGate~
+1 -1 40640
+X268435456
+Z0
+C-1
+S
+#40642
+{BOLD,GREEN}Butter Bridge 1{bold,green}~
+{WHITE,BOLD}
+    Whoa.  You've made it to the slippery and slimy Butter Bridge Area.
+    If your group is still intact, lucky you.  If not, Ludwig's Castle
+    is meant to be done by 2 groups rushing in at the same time...
+
+~
+406 262144 1
+D1
+~
+~
+0 -1 40643
+Z0
+C-1
+S
+#40643
+{GREEN,BOLD}Butter Bridge 2{green,bold}~
+{WHITE,BOLD}
+    You stand here before the great gate of Ludwig's castle.
+    If your party has survived to this point.  You'll have
+    no trouble getting past this castle.  But beware, the
+    Forest of Illusions is up next, and it'll take splitting
+    your group up in order to get through the whole maze.  Have
+    fun.
+
+~
+406 262144 1
+D1
+~
+CastleGate~
+1 40600 40646
+D3
+~
+~
+0 -1 40642
+Z0
+C-1
+S
+#40644
+{BOLD,GREEN}Cookie Mountain{bold,green}~
+{WHITE,BOLD}
+    The gates of Ludwig's Castle is the only thing that stops Ludwig
+    from coming out and killing you.  If you're able to kill Ludwig
+    you'll have a chance to leave the zone or go on to the dangerous
+    but fun Forest of Illusions.
+
+~
+406 262208 5
+D0
+~
+CastleGate~
+1 40600 40646
+D3
+~
+~
+0 -1 40632
+Z0
+C-1
+S
+#40645
+Sliding away.....~
+
+    WHEEEEE!
+    You slide away.......
+
+~
+406 1310720 1
+D1
+~
+~
+0 -1 40632
+D3
+~
+~
+0 -1 40642
+Z0
+C-1
+S
+#40646
+{BOLD,WHITE}Ludwig's Castle{bold,white}~
+{BOLD,RED}
+    You are burning up!  You find yourself in a very hostile place.
+    There are fireball shooting at you while you're trying to fight
+    Ludwig.  The walls of the castle also seem to be converging so
+    you better kill Ludwig fast or you won't go on to see the great
+    Forest of Illusions.
+
+~
+406 262297 0
+D2
+~
+~
+0 -1 40675
+D5
+~
+~
+0 -1 40611
+X268435456
+Z0
+C-1
+S
+#40647
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 134480193 1
+D0
+~
+~
+0 -1 40680
+D1
+~
+~
+0 -1 40648
+D2
+~
+~
+0 -1 40680
+D3
+~
+~
+0 -1 40680
+D4
+~
+~
+0 -1 40680
+D5
+~
+~
+0 -1 40680
+T40673
+X268435456
+Z10
+C-1
+S
+#40648
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 134480193 1
+D0
+~
+~
+0 -1 40680
+D1
+~
+~
+0 -1 40680
+D2
+~
+~
+0 -1 40680
+D3
+~
+~
+0 -1 40649
+D4
+~
+~
+0 -1 40680
+D5
+~
+~
+0 -1 40680
+T40673
+X268435456
+Z0
+C-1
+S
+#40649
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 1074004289 1
+D0
+~
+~
+0 -1 40673
+D1
+~
+~
+0 -1 40680
+D2
+~
+~
+0 -1 40680
+D3
+~
+~
+0 -1 40680
+D4
+~
+~
+0 -1 40680
+D5
+~
+~
+0 -1 40680
+T40673
+X268435456
+Z0
+C-1
+S
+#40650
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 134480193 1
+D0
+~
+~
+0 -1 40680
+D1
+~
+~
+0 -1 40651
+D2
+~
+~
+0 -1 40680
+D3
+~
+~
+0 -1 40680
+D4
+~
+~
+0 -1 40680
+D5
+~
+~
+0 -1 40680
+T40673
+X268435456
+Z0
+C-1
+S
+#40651
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 134480193 1
+D0
+~
+~
+0 -1 40680
+D1
+~
+~
+0 -1 40680
+D2
+~
+~
+0 -1 40674
+D3
+~
+~
+0 -1 40680
+D4
+~
+~
+0 -1 40680
+D5
+~
+~
+0 -1 40680
+T40673
+X268435456
+Z0
+C-1
+S
+#40652
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 262465 1
+D0
+~
+~
+0 -1 40680
+D1
+~
+~
+0 -1 40680
+D2
+~
+~
+0 -1 40680
+D3
+~
+~
+0 -1 40680
+D4
+~
+~
+0 -1 40680
+D5
+~
+~
+0 -1 40653
+T40735
+X336527360
+Z0
+C-1
+S
+#40653
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 262465 1
+D0
+~
+~
+0 -1 40680
+D1
+~
+~
+0 -1 40680
+D2
+~
+~
+0 -1 40654
+D3
+~
+~
+0 -1 40680
+D4
+~
+~
+0 -1 40680
+D5
+~
+~
+0 -1 40680
+T40735
+X336527360
+Z0
+C-1
+S
+#40654
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 262465 1
+D0
+~
+~
+0 -1 40680
+D1
+~
+~
+0 -1 40673
+D2
+~
+~
+0 -1 40680
+D3
+~
+~
+0 -1 40680
+D4
+~
+~
+0 -1 40680
+D5
+~
+~
+0 -1 40680
+T40735
+X336527360
+Z0
+C-1
+S
+#40655
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 262465 1
+D0
+~
+~
+0 -1 40680
+D1
+~
+~
+0 -1 40680
+D2
+~
+~
+0 -1 40680
+D3
+~
+~
+0 -1 40680
+D4
+~
+~
+0 -1 40680
+D5
+~
+~
+0 -1 40656
+T40735
+X336527360
+Z0
+C-1
+S
+#40656
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 262465 1
+D0
+~
+~
+0 -1 40680
+D1
+~
+~
+0 -1 40680
+D2
+~
+~
+0 -1 40680
+D3
+~
+~
+0 -1 40680
+D4
+~
+~
+0 -1 40680
+D5
+~
+~
+0 -1 40674
+T40735
+X336527360
+Z0
+C-1
+S
+#40657
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 1074004289 1
+D0
+~
+~
+0 -1 40680
+D1
+~
+~
+0 -1 40680
+D2
+~
+~
+0 -1 40680
+D3
+~
+~
+0 -1 40658
+D4
+~
+~
+0 -1 40680
+D5
+~
+~
+0 -1 40680
+T40735
+X268435456
+Z0
+C-1
+S
+#40658
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 1074004289 1
+D0
+~
+~
+0 -1 40680
+D1
+~
+~
+0 -1 40680
+D2
+~
+~
+0 -1 40680
+D3
+~
+~
+0 -1 40659
+D4
+~
+~
+0 -1 40680
+D5
+~
+~
+0 -1 40680
+T40735
+X268435456
+Z0
+C-1
+S
+#40659
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 1074004289 1
+D0
+~
+~
+0 -1 40680
+D1
+~
+~
+0 -1 40673
+D2
+~
+~
+0 -1 40680
+D3
+~
+~
+0 -1 40680
+D4
+~
+~
+0 -1 40680
+D5
+~
+~
+0 -1 40680
+T40735
+X268435456
+Z0
+C-1
+S
+#40660
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 1074004289 1
+D0
+~
+~
+0 -1 40680
+D1
+~
+~
+0 -1 40680
+D2
+~
+~
+0 -1 40680
+D3
+~
+~
+0 -1 40680
+D4
+~
+~
+0 -1 40661
+D5
+~
+~
+0 -1 40680
+T40735
+X268435456
+Z0
+C-1
+S
+#40661
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 1074004289 1
+D0
+~
+~
+0 -1 40680
+D1
+~
+~
+0 -1 40674
+D2
+~
+~
+0 -1 40680
+D3
+~
+~
+0 -1 40680
+D4
+~
+~
+0 -1 40680
+D5
+~
+~
+0 -1 40680
+T40735
+X268435456
+Z0
+C-1
+S
+#40662
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 537133377 1
+D0
+~
+~
+0 -1 40680
+D1
+~
+~
+0 -1 40680
+D2
+~
+~
+0 -1 40680
+D3
+~
+~
+0 -1 40680
+D4
+~
+~
+0 -1 40680
+D5
+~
+~
+0 -1 40663
+T40735
+X268435456
+Z0
+C-1
+S
+#40663
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 537133377 1
+D0
+~
+~
+0 -1 40680
+D1
+~
+~
+0 -1 40680
+D2
+~
+~
+0 -1 40664
+D3
+~
+~
+0 -1 40680
+D4
+~
+~
+0 -1 40680
+D5
+~
+~
+0 -1 40680
+T40735
+X268435456
+Z0
+C-1
+S
+#40664
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 537133377 1
+D0
+~
+~
+0 -1 40680
+D1
+~
+~
+0 -1 40680
+D2
+~
+~
+0 -1 40680
+D3
+~
+~
+0 -1 40680
+D4
+~
+~
+0 -1 40680
+D5
+~
+~
+0 -1 40673
+T40735
+X268435456
+Z0
+C-1
+S
+#40665
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 537133377 1
+D0
+~
+~
+0 -1 40680
+D1
+~
+~
+0 -1 40666
+D2
+~
+~
+0 -1 40680
+D3
+~
+~
+0 -1 40680
+D4
+~
+~
+0 -1 40680
+D5
+~
+~
+0 -1 40680
+T40735
+X268435456
+Z0
+C-1
+S
+#40666
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 537133377 1
+D0
+~
+~
+0 -1 40680
+D1
+~
+~
+0 -1 40680
+D2
+~
+~
+0 -1 40680
+D3
+~
+~
+0 -1 40680
+D4
+~
+~
+0 -1 40674
+D5
+~
+~
+0 -1 40680
+T40735
+X268435456
+Z0
+C-1
+S
+#40667
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 268697921 1
+D0
+~
+~
+0 -1 40668
+D1
+~
+~
+0 -1 40680
+D2
+~
+~
+0 -1 40680
+D3
+~
+~
+0 -1 40680
+D4
+~
+~
+0 -1 40680
+D5
+~
+~
+0 -1 40680
+T40735
+X268435456
+Z0
+C-1
+S
+#40668
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 268697921 1
+D0
+~
+~
+0 -1 40680
+D1
+~
+~
+0 -1 40680
+D2
+~
+~
+0 -1 40680
+D3
+~
+~
+0 -1 40680
+D4
+~
+~
+0 -1 40680
+D5
+~
+~
+0 -1 40669
+T40735
+X268435456
+Z0
+C-1
+S
+#40669
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 268697921 1
+D0
+~
+~
+0 -1 40680
+D1
+~
+~
+0 -1 40680
+D2
+~
+~
+0 -1 40680
+D3
+~
+~
+0 -1 40680
+D4
+~
+~
+0 -1 40673
+D5
+~
+~
+0 -1 40680
+T40735
+X268435456
+Z0
+C-1
+S
+#40670
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 268697921 1
+D0
+~
+~
+0 -1 40680
+D1
+~
+~
+0 -1 40680
+D2
+~
+~
+0 -1 40671
+D3
+~
+~
+0 -1 40680
+D4
+~
+~
+0 -1 40680
+D5
+~
+~
+0 -1 40680
+T40735
+X268435456
+Z0
+C-1
+S
+#40671
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 268697921 1
+D0
+~
+~
+0 -1 40680
+D1
+~
+~
+0 -1 40680
+D2
+~
+~
+0 -1 40674
+D3
+~
+~
+0 -1 40680
+D4
+~
+~
+0 -1 40680
+D5
+~
+~
+0 -1 40680
+T40735
+X268435456
+Z0
+C-1
+S
+#40672
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 262465 1
+D0
+~
+~
+0 -1 40680
+D1
+~
+~
+0 -1 40680
+D2
+~
+~
+0 -1 40676
+D3
+~
+~
+0 -1 40680
+D4
+~
+~
+0 -1 40680
+D5
+~
+~
+0 -1 40680
+T40735
+X286228480
+Z0
+C-1
+S
+#40673
+{WHITE}Forest Fortress{white}~
+
+{WHITE}    In the midst of all the chaos of the Forest of Illusion
+    you come across an ancient towering fortress known only by
+    the bravest.  You see all kinds of body parts and eq lying
+    here from all the dead warriors who ventured into the
+    Forest of Illusion
+
+~
+406 262272 1
+D0
+~
+~
+0 -1 40670
+D1
+~
+~
+0 -1 40665
+D2
+~
+~
+0 -1 40678
+D3
+~
+~
+0 -1 40660
+D4
+~
+~
+0 -1 40650
+D5
+~
+~
+0 -1 40655
+X268435456
+Z0
+C-1
+S
+#40674
+{BOLD,BLUE}Blue Switch Palace{bold,blue}~
+
+{BOLD,WHITE}    The safe haven of the blue switch palace lies in the
+    middle of the dangerous Forest of Illusions.  This is a very
+    helpful place, use this room correctly and your trip in the
+    forest will be much more pleasant.
+
+~
+406 262148 1
+D2
+~
+CastleGate~
+1 40600 40683
+D3
+~
+~
+0 -1 40716
+T40675
+Z0
+C-1
+S
+#40675
+{BOLD,GREEN}Entrance to Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    Before you go any further, this is your last warning about the
+    dangerous, but fun Forest of Illusions.  Many have been known to 
+    die here and never be seen again...
+
+~
+406 262148 1
+D0
+~
+~
+0 -1 40647
+D1
+~
+~
+0 -1 40657
+D2
+~
+~
+0 -1 40652
+D3
+~
+~
+0 -1 40662
+D4
+~
+~
+0 -1 40667
+D5
+~
+~
+0 -1 40676
+Z0
+C-1
+S
+#40676
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 262465 1
+D0
+~
+~
+0 -1 40680
+D1
+~
+~
+0 -1 40677
+D2
+~
+~
+0 -1 40680
+D3
+~
+~
+0 -1 40680
+D4
+~
+~
+0 -1 40680
+D5
+~
+~
+0 -1 40680
+T40735
+X286228480
+Z0
+C-1
+S
+#40677
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 262465 1
+D0
+~
+~
+0 -1 40680
+D1
+~
+~
+0 -1 40680
+D2
+~
+~
+0 -1 40680
+D3
+~
+~
+0 -1 40680
+D4
+~
+~
+0 -1 40673
+D5
+~
+~
+0 -1 40680
+T40735
+X286228480
+Z0
+C-1
+S
+#40678
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 262465 1
+D0
+~
+~
+0 -1 40680
+D1
+~
+~
+0 -1 40679
+D2
+~
+~
+0 -1 40680
+D3
+~
+~
+0 -1 40680
+D4
+~
+~
+0 -1 40680
+D5
+~
+~
+0 -1 40680
+T40735
+X286228480
+Z0
+C-1
+S
+#40679
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 262465 1
+D0
+~
+~
+0 -1 40680
+D1
+~
+~
+0 -1 40680
+D2
+~
+~
+0 -1 40680
+D3
+~
+~
+0 -1 40680
+D4
+~
+~
+0 -1 40680
+D5
+~
+~
+0 -1 40674
+T40735
+X286228480
+Z0
+C-1
+S
+#40680
+{BOLD,GREEN}Somewhere in the Forest of Illusions{bold,green}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 1311169 1
+D1
+~
+~
+0 -1 40681
+D3
+~
+~
+0 -1 40682
+T40735
+X268435456
+Z0
+C-1
+S
+#40681
+{BOLD,GREEN}The pit of the Forest of Illusions{bo,gr}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 262593 1
+D0
+~
+~
+0 -1 40680
+D1
+~
+~
+0 -1 40675
+D2
+~
+~
+0 -1 40680
+D3
+~
+~
+0 -1 40680
+D4
+~
+~
+0 -1 40680
+D5
+~
+~
+0 -1 40680
+T40735
+X268435456
+Z0
+C-1
+S
+#40682
+{BOLD,GREEN}The pit of the Forest of Illusions{bo,gr}~
+{BOLD,WHITE}
+    You are somewhere in the Forest of Illusions.  In order to get your
+    whole party through the forest, you will have to split your group up.
+    Becareful tho cause one wrong move can get the whole group killed.
+
+~
+406 262593 1
+D0
+~
+~
+0 -1 40675
+D1
+~
+~
+0 -1 40680
+D2
+~
+~
+0 -1 40680
+D3
+~
+~
+0 -1 40680
+D4
+~
+~
+0 -1 40680
+D5
+~
+~
+0 -1 40680
+T40735
+X268435456
+Z0
+C-1
+S
+#40683
+{WHITE}Roy's Castle{white}~
+
+{BOLD,WHITE}    Now that you have made it through the tricky forest
+    of illusions, the might castle of Roy awaits you.  Roy
+    has been known to toast his opponents with his awesome
+    breath of fire so beware.
+
+~
+406 262288 1
+D2
+~
+~
+0 -1 40684
+D5
+~
+~
+0 -1 40611
+X268435456
+Z0
+C2
+S
+#40684
+{YELLOW}Chocolate Island 1{yellow}~
+{WHITE}
+    Yummy!  The first thing that you notice as you enter chocolate island
+    is that there is chocolate everywhere.  This may look like a fun and
+    tasty area but if you're not careful, you will die in an instant.
+
+~
+406 262144 1
+D2
+~
+~
+0 -1 40685
+Z0
+C-1
+S
+#40685
+{WHITE} Chocolate Ghost House{white}~
+{WHITE}
+    The ghosts are back and they're badder than ever.  They are
+    mad that you have invaded their wonderful land made of chocolate.
+    They are out to kill anyone who they did not welcome so
+    beware.
+
+~
+406 262272 1
+D0
+~
+~
+0 -1 40684
+D2
+~
+~
+0 -1 40686
+Z0
+C-1
+S
+#40686
+{YELLOW}Chocolate Island 2{yellow}~
+{WHITE}
+    The monsters in this land seem to be different from any other
+    you've come across so far.  There's these big creatures
+    that seem comfortable to ride on among other wierd
+    monsters that are just ready to rip you apart.
+
+~
+406 262144 1
+D0
+~
+~
+0 -1 40685
+D2
+~
+~
+0 -1 40693
+D3
+~
+~
+0 -1 40687
+Z0
+C-1
+S
+#40687
+{YELLOW}Chocolate Island 3{ye}~
+{WHITE}
+    You've reached another one of the many platform rooms
+    in mario world.  You many platforms moving in circular
+    paths as you try to jump from one platform to the next.
+
+~
+406 262144 9
+D0
+~
+~
+0 -1 40687
+D1
+~
+~
+0 -1 40686
+D2
+~
+~
+0 -1 40687
+D3
+~
+~
+0 -1 40688
+X268435456
+Z0
+C-1
+S
+#40688
+{WHITE}Chocolate Fortress{white}~
+{WHITE}
+    In the middle of Chocolate Island lies a great towering fortress.
+    As with any other fortress, there are 4 ranzor's guarding the 
+    exit.  The only way to go in this great island is to kill these
+    ranzors.
+
+    Bowser with the constant roars coming from area ahead
+    of you.
+
+~
+406 262300 1
+D1
+~
+~
+0 -1 40687
+D2
+~
+~
+0 -1 40689
+X268435456
+Z0
+C-1
+S
+#40689
+{YELLOW}Chocolate Island 4{yel}~
+{WHITE}
+    You can sense that you're getting closer to the Valley of
+    Bowser and you start to hear the constant roars that can
+    only be made by the evil monsters from the Valley.
+
+~
+406 262144 1
+D0
+~
+~
+0 -1 40688
+D3
+~
+~
+0 -1 40690
+Z0
+C-1
+S
+#40690
+{YELLOW}Chocolate Island 5{yell}~
+{WHITE}
+    You enter what seems to be a cave.  The further you go
+    in this cave, the more it seems like a trap.  Don't sweat
+    there is a way out...
+
+~
+406 262296 1
+D0
+~
+CastleGate~
+1 40600 40691
+D1
+~
+~
+0 -1 40689
+Z0
+C-1
+S
+#40691
+{WHITE}Wendy's Castle{white}~
+{WHITE}
+    The evil Wendy is here with her tow doubles/bodyguards.
+    She tries to confuse you right as you're trying to hit
+    her.  There's an very easy way to kill her, can you 
+    figure it out?
+
+~
+406 262300 1
+D0
+~
+CastleGate~
+1 40600 40692
+D4
+~
+~
+0 -1 40698
+D5
+~
+~
+0 -1 40611
+X268435456
+Z0
+C-1
+S
+#40692
+{WHITE,BOLD}Sunken Ghost Ship{white,bold}~
+{WHITE,BOLD}
+    Not many have made it all the way through chocolate island.
+    Even less have made it into the valley of bowser.  To reach
+    the valley of bowser, you'll have to get through the haunted
+    sunken ship.  The spirits of those who have failed has joined
+    the evil souls that were already here.  Beware: if you die,
+    your spirit will join the evil spirits that have haunted this
+    ship for ages.
+
+~
+406 295040 7
+D0
+{BOLD,RED}You sense great evil on the other side of this gate.
+    Entering will mean DEATH!
+
+~
+DoomGate~
+1 -1 40701
+X268435456
+Z0
+C-1
+S
+#40693
+{BOLD,GREEN}A FREAKING PIPE ROOM!{bold,green}~
+
+{WHITE,BOLD}    Before you lies a great pipe, interested in where it leads to?
+    Enter and find out...
+
+~
+406 262144 1
+D0
+~
+~
+0 -1 40686
+Z0
+C-1
+S
+#40694
+{BOLD,GREEN}A FREAKING PIPE ROOM!{bold,green}~
+
+{WHITE,BOLD}    Before you lies a great pipe, interested in where it leads to?
+    Enter and find out...
+
+~
+406 262144 1
+D3
+~
+~
+0 -1 40696
+Z0
+C-1
+S
+#40695
+{WHITE,BOLD}Donut Secret 2{white,bold}~
+{WHITE}
+    From the frozen land of donuet secret 2, you are able to
+    get a glimpse of what lies ahead for you in the valley of
+    bowser.  Scary isn't it?
+
+~
+406 262176 1
+D0
+~
+~
+0 -1 40712
+D3
+~
+~
+0 -1 40711
+Z0
+C-1
+S
+#40696
+{YEL}Chocolate Secret{yel}~
+{WHITE}
+    You are awed by by the countless big, bag monsters
+    who await you here.  It may be worth your time to
+    kill them since they block the way through a very
+    useful shortcut.
+
+~
+406 262296 1
+D1
+~
+~
+0 -1 40694
+D3
+~
+~
+0 -1 40697
+Z0
+C-1
+S
+#40697
+{BOLD,GREEN}A FREAKING PIPE ROOM!{bold,green}~
+
+{WHITE,BOLD}    Before you lies a great pipe, interested in where it leads to?
+    Enter and find out...
+
+~
+406 262144 1
+D1
+~
+~
+0 -1 40696
+Z0
+C-1
+S
+#40698
+{BOLD,GREEN}A FREAKING PIPE ROOM!{bold,green}~
+
+{WHITE,BOLD}    Before you lies a great pipe, interested in where it leads to?
+    Enter and find out...
+
+~
+406 262144 1
+D5
+~
+~
+0 -1 40691
+Z0
+C-1
+S
+#40699
+Jiayi's relaxing lounge~
+
+   A room filled with lazy boys and big screen tv's showing as many games as in a sports bar.
+   Bean bag chairs and inflatable chairs surround the room with liquor being passed around.
+
+~
+406 9 1
+D5
+~
+~
+0 -1 3036
+M60
+Z-1
+C-1
+S
+$~

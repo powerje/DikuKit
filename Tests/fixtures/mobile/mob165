@@ -1,0 +1,702 @@
+#16500
+galbadian soldier~
+{B,BO}A Galbadian Soldier{b,bo}~
+{B,BO}A Galbadian Soldier partrols the area.{b,bo}
+~
+{B,BO}
+  This man is covered head-to-toe in the standard
+  issue Galbadian soldier uniform.  He carries a
+  rifle that looks like it could do some real
+  damage.
+{b,bo}
+~
+205520994 1378091948 0 S
+40 -80 -2 1d1+8000 5d10+25
+150000 1200000
+8 8 1
+S 37753807
+R 2097164
+D 20
+A 10
+#16501
+galbadian man~
+{W,BO}A Galbadian Man{w,bo}~
+{W,BO}A Galbadian Man is walking here.{w,bo}
+~
+{W,BO}
+  This man walks along the streets of Deling
+  City to wherever his destination may be.
+{w,bo}
+~
+67633344 1074004664 0 S
+35 -55 -1 1d1+3000 10d10+10
+50000 950000
+8 8 1
+S 512
+D 14
+A 12
+#16502
+galbadian woman~
+{M}A Galbadian Woman{m}~
+{M,BO}A galbadian woman walks along a street here.{m,bo}
+~
+{M}
+  This woman is going about her business in
+  the city.  She seems hardly concerned that
+  you are staring at her.
+{m}
+~
+67633344 1376518840 0 S
+34 -56 -1 1d1+2000 5d10+25
+50000 900000
+8 8 2
+S 512
+D 16
+A 12
+#16503
+sacred monster brother GF~
+{BLU}Sa{blu}{BLU,BO}cr{blu,bo}{BLU}ed{blu}~
+{BLU}Two foot tall Sa{blu}{BLU,BO}cr{blu,bo}{BLU}ed stands here, hammer in hand.{blu}
+~
+{BLU,BO}
+  He looks like a blue mini-demon, he's not about
+  to take any crap from a punk like you!  Look out!
+{blu,bo}
+~
+411181155 1108607932 100 C 4
+45 -155 -10 1d1+10000 12d10+25
+500000 1450000
+8 8 1
+S 4786944
+R 268
+D 20
+A 10
+#16504
+minotaur monster brother GF~
+{R}Minotaur{r}~
+{R,BO}Ten foot tall Minotaur stands here with his hammer, he's ready for business!
+~
+{R}
+  This huge half-bull, half human stands alongside
+  his brother defending the Tomb of the Unknown
+  King from looters such as yourself.
+{r}
+~
+142778466 1109689276 0 S
+45 -155 -7 1d1+15000 1d1+300
+500000 1450000
+8 8 1
+S 15206016
+R 12
+D 20
+A 14
+#16505
+diablos demon GF~
+{B,BO}D{b,bo}{R}i{r}{R,BO}abl{r,bo}{R}o{r}{B,BO}s{b,bo}~
+{R,BO}A huge {r,bo}{B,BO}black{b,bo}{R,BO} and red Demon is here!{r,bo}
+~
+{R,BO}
+  This monster looks like the demon form of
+  the dark prince himself, Diablos.
+{r,bo}
+~
+297844834 1261699774 0 S
+50 -80 -8 1d1+17500 10d10+150
+500000 2000000
+8 8 0
+S 287616
+R 16
+D 20
+A 11
+#16506
+edea sorceress~
+{M}The Sorceress Edea{m}~
+{M}The Sorceress herself, Edea is standing before you.{m}
+~
+{M}
+  This woman seems to radiate an unnatural aura
+  of magic.  A cold glare in her eyes indicate
+  that your life may well be comming to an end
+  soon.
+{m}
+~
+427851875 3409717694 -1000 C 72
+50 -90 -5 1d1+20000 5d10+125
+1000000 2000000
+8 8 2
+S 40959
+R 8388636
+D 12
+A 10
+#16507
+seifer almasy~
+{W,BO}Se{w,bo}{B,BO}if{b,bo}{W,BO}er{w,bo}~
+{W,BO}Seifer Almasy stands here, ready to protect the Sorceress.{w,bo}
+~
+{W,BO}
+  He is a young man with a sinister grin on his face.
+  He stands ready to protect the sorceress, completely
+  enthralled by her power.
+{w,bo}
+~
+767574115 1110180764 -250 C 4
+50 -80 -4 1d1+10000 10d8+75
+500000 2000000
+8 8 1
+S 5247680
+R 268
+D 20
+A 12
+#16508
+creeps shadow~
+{B,BO}Creeps{b,bo}~
+{B,BO}A very long shadow creeps along the floor with two {b,bo}{Y,BO}yellow eyes{y,bo}{B,BO}...{b,bo}
+~
+{B,BO}
+  It looks like the shadow of something, only there isn't
+  something here to give a shadow there!  Two small {b,bo}{Y,BO}yellow{y,bo}{B,BO}
+  eyes peer from the shadow, giving you an indication that
+  it is indeed alive.
+{b,bo}
+~
+411045986 3443262398 -100 S
+35 -70 -2 1d1+1800 10d5+90
+50000 950000
+8 8 0
+S 4199253
+R 272
+D 20
+A 12
+#16509
+red bat~
+{R}A Red Bat{r}~
+{R}A Red Bat flaps around here.{r}
+~
+{R}
+  The bat flaps around here, annoying the
+  hell out of you!
+{r}
+~
+1152 1224999320 0 S
+25 -40 0 1d1+1000 5d10+25
+50000 155000
+8 8 0
+S 33555216
+D 10
+A 8
+#16510
+general caraway~
+{BLU,BO}General {blu,bo}{C}Caraway{c}~
+{C}General Caraway is sitting at his desk here.{c}
+~
+{C}
+  General Caraway is a middle-aged gentleman who
+  looks like he has seen a lot in his career.  He
+  looks annoyed at you for barging in to his
+  mansion uninvited.
+{c}
+~
+406847554 1210319544 100 S
+45 -75 -10 1d1+9000 10d8+60
+250000 1450000
+8 8 1
+S 4736776
+R 284
+D 20
+A 12
+#16511
+galbadian guard soldier prison~
+{B,BO}A Prison Guard{b,bo}~
+{B,BO}A Prison Guard patrols the area here.{b,bo}
+~
+{B,BO}
+  This man is covered head-to-toe in the standard
+  issue Galbadian soldier uniform.  He carries a
+  rifle that looks like it could do some real
+  damage.
+{b,bo}
+~
+209715298 1378091948 -100 S
+40 -90 -5 1d1+9000 9d10+25
+300000 1200000
+8 8 1
+S 33559311
+R 12
+D 20
+A 12
+#16512
+prison warden guard galbadian~
+{R,BO}The Warden{r,bo}~
+{R,BO}The Prison Warden is here, preparing the torture chamber for you.{r,bo}
+~
+{B,BO}
+  This guy is dressed head-to-toe in uniform, holding
+  a huge baton for beating information out of his
+  prisoners.  He looks at you with a mean grin, as if
+  he already has a plan on exactly how to torture you.
+{b,bo}
+~
+214048870 1510245052 -500 S
+45 -105 -5 1d1+10000 9d10+45
+400000 1450000
+8 8 1
+S 1575488
+R 12
+D 14
+A 12
+#16513
+squall leonhart~
+{B,BO}Squall {b,bo}{Y}Leonhart{y}~
+{W,BO}A young man with a large sword and leather jacket is standing here.{w,bo}
+~
+{W,BO}
+  Squall Leonhart is known through out the Garden for
+  his skill with the Gunblade, which he wields with
+  ease.  He is also known for being overly serious and
+  sometimes anti-social to his peers.  But, behind his
+  stand-offish demeanor he is a dedicated and loyal
+  SeeD.
+{w,bo}
+~
+406847554 2083261100 500 S
+50 -155 -10 1d1+20000 1d1+150
+500000 2000000
+8 8 1
+S 6836160
+R 268
+D 20
+A 10
+#16514
+thrustaevis bird~
+{BLU,BO}Thrustaevis{blu,bo}~
+{BLU,BO}A huge bird with four wings flies overhead.{blu,bo}
+~
+{BLU,BO}
+  This massive bird has two wings on each side
+  of its body and a razor sharp set of claws
+  on its feet.
+{blu,bo}
+~
+41955424 1764535224 -50 S
+40 -130 -7 1d1+2250 7d9+65
+100000 1200000
+8 8 0
+S 1050112
+D 18
+A 12
+#16515
+pupu alien~
+{C,BO}PuPu{c,bo}~
+{C,BO}A light blue, two foot tall Alien stares at you in curiosity.{c,bo}
+~
+{C,BO}
+  This little guy appears two feet tall and has very
+  light blue skin.  He gazes at you in curiosity with
+  his black, beady eyes.
+{c,bo}
+~
+29392995 1832133310 1000 S
+50 -155 -8 1d1+10000 1d1+500
+750000 2000000
+8 8 0
+S 16820160
+R 256
+D 20
+A 12
+#16516
+tonberry~
+{B,BO}A Tonberry{b,bo}~
+{B,BO}A short, hooded figure with a knife and a lantern walks towards you...{b,bo}
+~
+{B,BO}
+  This short little creature walks slowly towards
+  you, with its knife in one hand and a lantern in
+  the other.
+{b,bo}
+~
+3246432288 1243873960 -500 S
+50 -130 -10 1d1+10000 10d10+50
+1000000 2000000
+8 8 0
+S 37755712
+R 272
+D 40
+A 12
+#16517
+imp demon~
+{M,BO}An Imp{m,bo}~
+{R,BO}A evil looking Imp glares at you here...{r,bo}
+~
+{M,BO}
+  This little demon scampers around beside you,
+  glaring at you all along the way.  Its tiny
+  little claws appear to be razor sharp, while
+  its barbed tail flips around it madly.
+{m,bo}
+~
+2285904165 1228702652 -500 C 12
+45 -135 -10 1d1+8000 1d1+150
+250000 1450000
+8 8 0
+S 265728
+D 20
+A 12
+#16518
+iguion lion lizard~
+{Y}An Igu{y}{G}ion{g}~
+{Y}Half-Lion, {y}{G}Half-Lizard, {g}{Y}an Iguion is stalking you here,{y}{G} ready to pounce!{g}
+~
+{Y}
+  This beast's upper body is that of a gigantic{y}{G}
+  Lizard, and his rear is that of a massive Lion.{g}{Y}
+  He stalks you along with his sibling, wetting{y}{G}
+  his long reptilian tongue in anticipation...
+{g}
+~
+2608865376 1076102056 0 S
+45 -85 -10 1d1+5500 10d10+50
+500000 1450000
+8 8 1
+S 17843776
+R 268
+D 20
+A 12
+#16519
+blobra blob jelly~
+{BLU,BO}The Blobra{blu,bo}~
+{BLU,BO}A huge, gelatinous blob oozes down the hallway here.{blu,bo}
+~
+{BLU,BO}
+  This creature looks like a huge gelatinous mass
+  with two oozing eyes.  It oozes down the hallway,
+  preventing you from passing.
+{blu,bo}
+~
+4227136 1244398504 -100 S
+40 -150 -9 1d1+8000 1d1+400
+50000 1200000
+8 8 0
+S 4344719
+R 284
+D 30
+A 18
+#16520
+selphie tilmitt~
+{Y,BO}Selphie{y,bo}{R,BO} Tilmitt{r,bo}~
+{Y,BO}A spunky young woman with a carefree attitude plans for the Garden Festival.{y,bo}
+~
+{Y,BO}
+  Selphie is a spunky young woman with a carefree
+  attitude towards life.  She wears a bright yellow
+  mini-dress, cut low, but not too low.  Don't let
+  her innocent appearance fool you, this woman is a
+  member of SeeD, the Garden's elite mercenary force.
+{y,bo}
+~
+557842499 1378091688 500 S
+50 -155 -10 1d1+16000 1d1+135
+500000 2000000
+8 8 2
+S 5768130
+R 268
+D 20
+A 12
+#16521
+phantom minotaur GF brother~
+{B,BO}Phantom {b,bo}{R}Minotaur{r}~
+{R,BO}Ten foot tall Minotaur looms over the room!{r,bo}
+~
+{R}
+  The phantom spirit of Minotaur looms over the room,
+  defending the tomb from raiders such as yourself.
+{r}
+~
+134742114 69501116 0 S
+45 -130 -5 1d1+10000 1d1+300
+0 1450000
+8 8 0
+S 4720257
+R 348
+D 20
+A 14
+#16522
+irvine kinneas~
+{Y}Irvine {y}{W,BO}Kinneas{w,bo}~
+{Y}A young man with a double-barreled shotgun sits here waiting for a goot shot...{y}
+~
+{Y}
+  This young man is a trained sharpshooter, one of the
+  elite employed by SeeD.  He hides and waits in the
+  Carousel until he can get a clear shot at the Sorceress.
+{y}
+~
+406847554 1110737576 400 S
+50 -165 -9 1d1+15000 1d1+150
+500000 2000000
+8 8 1
+S 4198340
+R 268
+D 20
+A 12
+#16523
+weaponsmith merchant smith~
+{R,BO}The Weaponsmith{r,bo}~
+{R}The Weaponsmith is selling his wares here.{r}
+~
+{R}
+  He's an older gentleman that has been forging and
+  selling weapons in Deling City for over 20 years.
+  He says "If you want something, type LIST to see
+  what I've got for sale.".
+{r}
+~
+1124108354 1378091688 200 S
+50 -230 -25 1d1+60000 100d100+1000
+0 2000000
+8 8 1
+S 67823552
+R 476
+D 20
+A 1
+#16524
+merchant potion~
+{C}The Potion Merchant{c}~
+{C}A Merchant sells potions here.{c}
+~
+{C}
+  He is a fairly young man that sells potions and
+  other wares to all who enter his shop.  He says
+  "Type LIST to see what's available.".
+{c}
+~
+1074266178 1378091688 100 S
+50 -230 -25 1d1+60000 100d100+10000
+0 2000000
+8 8 1
+S 713664
+R 476
+D 20
+A 1
+#16525
+city guard timber~
+{G}A Timber City Guard{g}~
+{G}A Timber City Guard watches over the gates to the city.{g}
+~
+{G}
+  He actually looks like a fairly normal resident of
+  the city, just doing his job as a guard for the city.
+{g}
+~
+469762114 1076102056 75 S
+38 -85 -2 1d1+7500 5d10+25
+100000 1100000
+8 8 0
+S 17302020
+R 264
+D 20
+A 12
+#16526
+timber maniacs editor~
+{G}The Editor of Timber Maniacs{g}~
+{G}The Editor sits here smoking a cigarette, babbling about days past.{g}
+~
+{G}
+  The Editor of Timber Maniacs sits here, chatting
+  small talk to anyone and everyone who enters his
+  office.  All the while, he chain smokes and drinks
+  cup after cup of black coffee.
+{g}
+~
+1140850754 1109689000 100 S
+40 -105 -3 1d1+7500 10d5+10
+500000 1200000
+8 8 1
+S 91016
+R 12
+D 20
+A 11
+#16527
+political prisoner man activist~
+{R}An Activist{r}~
+{R}A Political Activist is sleeping here.{r}
+~
+{R}
+  This man has been imprisoned by the Galbadian
+  Secret Military Police on allogations that he
+  is part of a radical independence "terrorist
+  organization".  He now faces a trial by a
+  secret military tribunal where he could be
+  facing execution.
+{r}
+~
+402653250 1076241064 1000 S
+45 -120 -6 1d1+15000 1d1+250
+2 1450000
+4 4 1
+S 13107328
+R 284
+D 20
+A 12
+#16528
+hotel owner woman~
+{M,BO}The Hotel Owner{m,bo}~
+{M}The Hotel Owner sits behind a desk here, watching you intently.{m}
+~
+{M}
+  This woman owns the Deling City Hotel, and doesn't
+  want grubby adventurers such as yourself to scare
+  away her other rich patrons.
+{m}
+~
+469762118 1109689000 0 S
+34 -90 0 1d1+6000 1d1+75
+350000 900000
+8 8 2
+S 71944752
+R 284
+D 20
+A 12
+#16529
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#16530
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#16531
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#16532
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#16533
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#16534
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#16535
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#16536
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#16537
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#16538
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#16539
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+$~

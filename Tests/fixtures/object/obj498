@@ -1,0 +1,1342 @@
+#49800
+armor leather~
+{Y}Leather Armor{y}~
+{Y}A large pile of leather lies here.{y}~
+~
+9 0 0 9
+13 0 0 0
+5 2000 1
+E
+armor leather~
+{Y}
+  This suit of armor has strapped together with and
+  made by thick, high quality leather.  It offers
+  some of the benefits of sturdy armor, without
+  being heavy and bulky.
+{y}
+~
+A
+13 20
+A
+18 3
+B
+524288
+C
+7000 2
+#49801
+robe cotton white~
+{W,BO}A White Cotton Robe{w,bo}~
+{W,BO}A robe made of white cotton has been discarded here.{w,bo}~
+~
+9 67126280 2048 1025
+8 0 0 0
+3 800 1
+E
+robe cotton white~
+{W,BO}
+  This flowing white robe is made of the highest
+  quality cotton picked in the Eudelta valley.
+  Many young acolytes adorn robes such as these
+  in the years of their training.
+{w,bo}
+~
+A
+12 18
+A
+18 2
+B
+536870912
+C
+7000 2
+#49802
+lamp oil lantern~
+{GR}An Old Oil Lantern{gr}~
+{GR}An old oil lantern glows softly.{gr}~
+~
+1 3 0 1
+-1 -1 15 2
+2 900 1
+E
+lamp oil lantern~
+{GR}           
+          
+         __0__
+        /     \
+       /       \
+      /_________\
+    {Y,BO}\  {Y,BO,REV}I       I{y,bo,rev} {Y,BO}/
+   --  {Y,BO,REV}I  (^)  I{y,bo,rev} {Y,BO}--
+    /  {Y,BO,REV}I___|___I{y,bo,rev} {Y,BO}\{y,bo}{GR}
+      (         )
+      (_________)
+{gr}{Y}   
+      In the dark, its good to 
+      have even a little bit of
+      light. This copper, oil
+      lamp is perfect for just
+      that... a little light.
+{y}
+~
+A
+18 2
+A
+13 25
+B
+8
+#49803
+fountain brass~
+{Y}Eudelta Square's Large Brass Fountain{y}~
+{Y}Eudelta Square's large brass fountain sprays water clear up and over the second tier.{y}~
+~
+17 0 0 0
+-1 10000 0 0
+1 1 1
+E
+fountain brass~
+{CY,BO}                      .      .       .       .
+  .   .       .          .      . .      .         .          .    .
+         .       .         .    .   .         .         .            .
+    .   .    .       .         . . .        .        .     .    .
+ .          .   .       .       . .      .        .  .              .
+      .  .    .  .       .     . .    .       . .      .   .        .
+ .   .       .    . .      .    . .   .      .     .          .     .
+    .            .    .     .   . .  .     .   .               .
+     .               .  .    .  . . .    .  .                 .
+                        . .  .  . . .  . .
+                            . . . . . .
+                              . . . .
+                               {cy,bo}{Y}I {y}{C,BO}. {c,bo}{Y}I
+                     ___________III___________
+                    /    .       .       .    \
+                   ( EEE .  EEE  .  EEE  . EEE )
+                     \^^^^^^^^^^^^^^^^^^^^^^^/
+                        \                 /
+                          \             /
+                            \^^^^^^^^^/
+    ___________________________________________________________
+   (___________________________________________________________)
+     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^           
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^{y}
+~
+#49804
+dumpster~
+{GR}A Large Green Smelly Dumpster{gr}~
+{GR}A large green smelly Dumpster gathers flies.{gr}~
+~
+15 0 0 0
+5000 1 0 0
+1 1 1
+E
+dumpster~
+{GR}
+  This large Dumpster has been placed here to collect the
+  city's trash. Things placed in the Dumpster will not last
+  long and will not be retrievable. {R}DO NOT put things in
+  the DUMPTSTER if you intend to keep it or reclaim it.
+{r}
+~
+E
+dumpster~
+{GR}
+  This large Dumpster has been placed here to collect the
+  city's trash. Things placed in the Dumpster will not last
+  long and will not be retrievable. {R}DO NOT put things in
+  the DUMPSTER if you intend to keep it or reclaim it.
+{r}
+~
+#49805
+sabre~
+{BL,BO}A sabre{bl,bo}~
+{BL,BO}A sabre rests here.{bl,bo}~
+~
+5 0 0 8193
+1 3 4 3
+3 15000 1
+E
+sabre~
+{BL,BO}
+  The handle is wrapped in black leather and the guard
+  shines a brazen hue. The blade gleams of a silvery 
+  metal. Sheathed at your side, this sabre will become
+  your best friend.
+{bl,bo}
+~
+C
+7000 2
+#49806
+sword blunt~
+{Y}A blunt sword{y}~
+{Y}A blunt sword sits on the ground.{y}~
+~
+5 0 0 8193
+2 1 6 7
+1 45000 1
+E
+sword blunt~
+{Y}
+  Another fine masterpiece from Eudelta's smithy, this
+  blunt sword is perfect for any job.  The handle and 
+  blade have been forged of the same metal and 
+  strengthened in the fires of hell itself.
+{y}
+~
+A
+19 1
+A
+19 1
+C
+7000 2
+#49807
+stash your~
+{CY}Your Stash{c}~
+Tucked neatly in your jacket is {C}Your Stash{c}.~
+~
+15 0 0 16385
+250 0 0 0
+1 4000 1
+E
+stash your~
+{C}
+  A place to stash it all.
+{C}
+  Your secret stash.
+{C}
+  Stashing it away for later.
+{C}
+  Gotta get your stash.
+{C}
+  Where's the stash?
+{C} 
+  I left my stash at home.
+{c}
+  
+~
+#49808
+leggings chainmail mail~
+{C}Some shiny chainmail leggings{c}~
+{C}A warrior has discarded some leggings here.{c}~
+~
+9 0 0 33
+4 0 0 0
+5 25000 1
+E
+leggings chainmail mail~
+{C}
+  Handcrafted from the finest steels in the country, these
+  leggings are sure to keep you protected.
+{c}
+~
+A
+13 20
+A
+19 2
+C
+7000 2
+#49809
+boots cloth~
+{W}A pair of {Y}c{W}l{Y}o{W}t{Y}h {W}b{Y}o{W}o{Y}t{W}s{w}~
+{W}A pair of {Y}c{W}l{Y}o{W}t{Y}h {W}b{Y}o{W}o{Y}t{W}s sit to your left.{w}~
+~
+9 0 0 65
+2 0 0 0
+1 1000 1
+E
+boots cloth~
+{W}
+  Fashioned by the local cobler, these cloth boots
+  will keep your feet from injury, moisture and rot.
+{w}
+~
+A
+18 2
+A
+14 15
+B
+2048
+C
+7000 1
+#49810
+fountain water dragon~
+{W}{BOLD}A white Dragonfountain{w}~
+{Y}{BOLD}A{W}{BOLD} white Dragon-fountain{Y} flows pleasantly as it rests in the center of{G}{BOLD} Market Square{g}.~
+~
+17 0 0 0
+500 500 0 0
+4788 5000 1000
+#49811
+board sign road~
+nothing~
+{RED,BO}There is a road-sign here, better read it.{red}~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+E
+board sign road~
+   
+   {YELLO,BO}The mobs to the north and south of here are meant for 25-50
+   level duals. If you fail to read this sign and die, you will
+   not be reimbursted. Have fun!{yello}
+~
+#49812
+sign street~
+nothing~
+{RED,BO}A streetsign points out directions{red}~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+E
+sign street~
+   
+    {YELL,BO}The area to the east and west is meant for level 25-50
+    dual. If you fail to read this and die, you will not be
+    reimbursed. Have fun!{yell}
+~
+#49813
+board~
+nothing~
+{RED,BO}A very important looking board is posted here, better read it!{red}~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+E
+board~
+   
+   {YELL,BO}This zone is under revamping. You may check the zone out
+   and see how it looks. Be aware that this is supposed to 
+   be a newbie zone, but not all of the mobs here are newbie
+   level. I have changed some of the zone to be low advanced.
+   If you see something that you would like changed, be sure
+   to post it on the main board. If you find a dt, let me 
+   know, Capulet, and I will fix it. If you see a sign posted
+   in the zone, be sure to read it! Have fun.{yell}
+
+~
+#49814
+helmet sheriff police~
+{C}A Sheriff {c}{BLA,BO}Helmet{bla,bo}~
+{Y}A helmet inscribed with the words "{C}City of Eudelta Police Dpt.{c}{Y}" rests here.{y}~
+~
+9 2147483648 0 17
+14 0 0 0
+1 1 1
+E
+helmet sheriff police~
+
+   {BLA,BO}This helmet is made of a very hard material. It is 
+   covered in black leather and polished to a gloss. 
+   There is a chin strap on it so that it can be secured
+   to your head.{bla}
+
+~
+A
+19 4
+A
+18 4
+B
+8224
+C
+7000 1
+#49815
+board sign~
+nothing~
+{RED,BO}A very important looking sign is posted here.{red}~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+E
+board sign~
+
+   {YELL,BO}The area leading up and leading down is meant for 
+   advanced people only. You are warned that if you
+   are a dual that you should not explore those areas.{yell}
+~
+#49816
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49817
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49818
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49819
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49820
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49821
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49822
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49823
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49824
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49825
+map Eudelta~
+{C}A map of Eudelta{c}~
+{C}A folded map of Eudelta has been left behind.{c}~
+~
+16 0 0 1
+0 0 0 0
+1 50 1
+E
+cgc golf~
+{Y}
+  Crossroads Golf Club
+         (DUAL)
+{y}
+~
+E
+vid starwars~
+{Y,BO}
+  Eudelta Video Store
+     Now Featuring:
+{W,BO}       STAR WARS
+    (GROUP ADVANCED)
+{w,bo}
+~
+E
+vid~
+{Y,BO}
+  Eudelta Video Store
+     Now Featuring:
+       STAR WARS
+     (GROUP ADVANCED)
+~
+E
+washington dc washingtondc~
+{M}
+  Washington Square Park and District of Columbia
+                 (GROUP ADVANCED)
+{m}
+~
+E
+spider spiderman~
+{R}
+   Spider{r}-{BLU}Man{BLU}{W,BO}
+ (GROUP ADVANCED)
+{w,bo}
+~
+E
+hg~
+{C,BO}
+   Hockey Game
+   (GROUP DUAL)
+{c,bo}
+~
+E
+map Eudelta~
+{C}
+             Welcome to the city                 
+                      of
+                E U D E L T A
+ 
+                           last update: 11/30/05
+{G}
+  This map has been designed to help you find
+  your way about the city. You can type :
+  LOOK feature. The feature of the map are listed
+  below. While viewing a particular feature you
+  may wish to LOOK # or LOOK KEYWORD for more
+  information.
+{C}
+  FEATURES
+{G}
+  WELCOME          UPPER           LOWER
+~
+E
+monument earthprime ep~
+{C}
+  Momument City  -  EARTH PRIME
+            (ADVANCED)
+{c}
+~
+E
+lt~
+{C}
+  Looney Tunes
+     (DUAL)
+{c}
+~
+E
+HC~
+{C}
+  The Happy Clam
+{c}
+~
+E
+boardwalk~
+{C}
+  Seaside Boardwalk
+{C}
+  This magical place near the shore is a wonderful
+  place to enjoy the company of friends and family.
+  Grab a crew and head to the boardwalk!
+{c}
+~
+E
+Mountains~
+{C}
+  Head up to the mountains for an afternoon of 
+  adventure and fun!
+{c}
+~
+E
+p~
+{C}
+  The Pawn Shop
+{c}
+~
+E
+tp~
+{C}
+  The Tattoo Parlour
+{c}
+~
+E
+SMR~
+{C}
+  Sabrina's Miracle Remedies
+{c}
+~
+E
+25~
+{C}
+  Pet Central
+{C}
+  Go in and bring home a pal! Pet Central 
+  is stocked with critters of all kinds and the
+  supplies you'll need to care for them.
+{c}
+~
+E
+27~
+{C}
+  Eudelta Hotel Lobby
+{c}
+~
+E
+26~
+{C}
+  Dr. Hertzalot's Office
+{c}
+~
+E
+24~
+{C}
+  Sammy's Used Wares
+{c}
+~
+E
+23~
+{C}
+  Benson's Tavern
+{c}
+~
+E
+22~
+{C}
+  The Deli
+{c}
+~
+E
+PK~
+{C}
+  PK Score Board
+{c}
+~
+E
+T~
+{C}
+  Thieves' Guild
+{C}
+  Come train with the finest in the business!
+{c}
+~
+E
+21~
+{C,BO}
+  Kooz{Y}L{C,BO}'s Bistro
+{c,bo}{G}
+  Stop in for a snack! Refill your ginger ale!
+  Have a sandwich and relax!
+{g}
+~
+E
+LE~
+{C}
+  Lower Eudelta Square
+{C}
+  In Lower Eudelta Square, you will find a fabulous fountain
+  in the center of laughter and enjoyment. Here in the heart 
+  of the city, everyone gathers for food, fun and business.
+{c}
+~
+E
+E~
+{C}
+  Eudelta Square
+{c}
+~
+E
+lower~
+Lower Eudelta
+                          |
+                          + 26
+                   PK     |
+                  /    27 +
+             25  23       |
+ Beach <- + - + - + - + (LE) - 21
+          M      24  22   | \
+                          |  Subway
+                          + -
+                             \
+                              T
+~
+E
+welcome~
+{G}
+             Welcome to the city                 
+                      of
+                E U D E L T A
+{G}
+{G}
+  Eudelta was founded in a time when the people
+  of the Crossroads demanded change. This change
+  was a good one. Eudelta is a full service city
+  which features an intercity subway, train system,
+  shops, trainers, postal service, etc. While in
+  town be sure to visit the park and the beach. 
+  Most of all enjoy your stay. Hope to see you here.
+{G}
+  Mayor Aislinn Laird
+{g}
+~
+E
+Upper~
+{C}Upper Eudelta{c}
+ 
+                  {Y}Mountains & CGC{y}
+                         ^
+ ^                       |
+ |     DUMP           HG-+
+ + - + + + + + + + - - - + 
+ | [MAP] |SMR   TP  P    |  Aco   
+ + - + + + + + + + - - - + - + - + - - - +  Spider-Man
+         |  |            |       |       | /
+         +-HC          H +-BOZO  |       |OSCORP   
+         | 8 9 J 11 MBMS-+-PO    |  GB   | |
+      +- + + + + + - - +{C}[ ]{c}+ - - + + + + + +-> {Y}Wellington{y}
+     /   |  CJ   10 smith+ Arm   |       |\    LT
+ {Y}Beach{y}   |               + Weap  |       | Monument City
+         |               |       |       |
+         |          BANK-+ - - - DP- - - +
+         |               |       |       |
+         |           WAR +       |       |
+     BOAT|      ALCHEM   +VID    |       |
+Pier <-+ + + + + - + - - + - - - + - - - +
+                         |   Washington
+                         v
+                    {G}Marsh Lands{g}
+~
+E
+map Eudelta~
+{C}
+             Welcome to the city                 
+                      of
+                E U D E L T A
+{G}
+{G}
+  This map has been designed to help you find
+  your way about the city. You can type :
+  LOOK feature. The feature of the map are listed
+  below. While viewing a particular feature you
+  may wish to LOOK # or LOOK KEYWORD for more
+  information.
+{C}
+  {UND}FEATURES{c,und}
+{G}
+  WELCOME          UPPER           LOWER
+{g}
+~
+E
+beach~
+{C}
+  The Beach
+{c}
+  Spend a day of fun in the sun!
+{g}
+~
+E
+cj~
+{C}
+  Crazy Joe's Rent-A-Ride
+{c}
+~
+E
+EJ~
+{C}
+  Eudelta Jewelers
+{c}
+~
+E
+mbms~
+{C}
+  Merlin's Bargain Magic Shop
+{c}
+~
+E
+smith~
+{C}
+  Eudelta Blacksmith
+{c}
+~
+E
+H~
+{C}
+  Eudelta Hotel
+{c}
+~
+E
+bozo~
+{C}
+  Bozo, the trainer!
+{c}
+~
+E
+mail~
+{C}
+  The Eudelta Post Office
+{c}
+~
+E
+arm~
+{C}
+  The Armoury
+{c}
+~
+E
+weap~
+{C}
+  The Weapon Smith
+{c}
+~
+E
+gb~
+{C}
+  Eudelta City Hall
+{c}
+  General Board     Donation Room     Mayor's Office
+{c}
+~
+E
+wellington~
+{C}
+  The Town of Wellington
+{c}
+~
+E
+bank~
+{C}
+  Eudelta Bank
+{c}
+~
+E
+DP~
+{C}
+  Diamond Park
+{c}
+~
+E
+boat~
+{C}
+  Stan's Boat Shop
+{c}
+~
+E
+Alchem~
+{C}
+  The Alchemist
+{c}
+~
+E
+war~
+{C}
+  The Warrior's Guild
+{C}
+  Battle it out with the toughest in town.
+  Learn the tricks of the trade and train
+  for a life of adventure!
+{c}
+~
+E
+pier~
+{C}
+  The Pier is a wonderful place to go fishing!
+{c}
+~
+E
+marsh lands~
+{C}
+  The marsh lands are an unexplored abandoned territory 
+  to the south of Eudelta. The mysteries contained within
+  may not be for everyone, but certainly promise excitement!
+{c}
+~
+E
+es~
+{C}
+  Eudelta Square
+{C}
+  At the center of this great city everyone gathers
+  before rushing off to a day of work or exploration.
+{c}
+~
+E
+8~
+{Y,BO}
+   McDonalds{y,bo}{W,BO}
+  (DUAL GROUP)
+{w,bo}
+~
+E
+9~
+{W,BO}
+    Pizza Hut
+ (GROUP ADVANCED)
+{w,bo}
+~
+E
+10~
+{M}
+   Victoria's Secret
+     (GROUP DUAL)
+{m}
+~
+E
+11~
+{G}
+   The Greenwood Mall
+    (ADVANCED GROUP)
+{g}
+~
+E
+j~
+{C}
+  Eudelta Jewelers
+{c}
+~
+E
+oscorp~
+{M}
+   OSCORP
+ (ADVANCED)
+{m}
+~
+#49826
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49827
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49828
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49829
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49830
+beads plastic lovely~
+{M,BO}o{Y}o{C}o{G}o{R}o{M,BO}B{Y}E{C}A{G}D{R}S{M}o{Y}o{C}o{G}o{R}o{r,bo}~
+A lovely string of plastic {M,BO}B{Y}E{C}A{G}D{R}S{r,bo}.~
+~
+11 0 0 33560581
+0 0 0 0
+1 1 1
+E
+beads plastic lovely~
+
+{M,BO}o
+{Y}
+                           o                        o
+{C}
+           o                                  o
+{G}
+   o                                 o
+{R}
+                   o                                o
+{M,BO}
+                 o{Y}o{C}o{G}o{R}o{M,BO}B{Y}E{C}A{G}D{R}S{M}o{Y}o{C}o{G}o{R}o
+{M}
+                            o
+{Y}
+          o                                 o
+{C}
+                      o                  o
+{G}
+  o                                                 o
+{R}
+            o                             o
+{r,bo}
+~
+#49831
+rack breasts boobs bust tits nipples~
+{Y}A nice rack{y}~
+{Y}As a party girl rushes by, you grab hold of her nice rack.{y}~
+~
+11 0 0 16385
+0 0 0 0
+1 1 1
+E
+rack breasts boobs bust tits nipples~
+{Y}
+                $      -        )/                           .-$:
+            $       $        -:                         .$$:
+           $      .$        -:                     ..-$:/
+          .:     $:        -:                    -:
+         /$    $:         -:                   -:
+        .$   .-           -                  $
+       .$   ./  ..        -      ..           $
+       $    $  ($$        -      $$)          $
+       $    /-            -                   $
+       $     $.           -.                  $
+       $     /:$.      .    :-.          .   $
+       :-     --$::--::'$/    //$::----::$/  $
+        $      .$.                           $
+        $        ///--                       $
+{y}
+  
+  
+~
+#49832
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49833
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49834
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49835
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49836
+cake birthday~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49837
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#49838
+cake birthday three~
+{W,BO}A Birthday Cake!{w,bo}~
+{C,BO}Look! It's Arcane's Belated Birthday Cake!{c,bo}~
+~
+15 0 0 0
+900 896 0 900
+271 1 1
+E
+cake birthday three~
+
+                      {Y,BO}0   0{y,bo}
+                      {W}|   |
+                  {C,BO}____{c,bo}{W}|{C,BO}___{c,bo}{W}|{C,BO}____{c,bo}
+               {Y,BO}0  {C,BO}|{G,BO}- - - - - -{C,BO}|   {Y,BO}0{y,bo}
+               {W}|  {C,BO}|           |{c,bo}   {W}|{w}
+           {C,BO} ___{c,bo}{W}|{C,BO}__|___________|___{c,bo}{W}|{w}{C,BO}__
+            |{G,BO}/\/\/\/\/\/\/\/\/\/\/\/{g,bo}{C,BO}|
+        {Y,BO}0{y,bo}   {C,BO}|{c,bo}                       {C,BO}|   {Y,BO}0{y,bo}
+        {W}|{w}   {C,BO}|{G,BO}/\/\/\/\/\/\/\/\/\/\/\/{C,BO}|{c,bo}   {W}|
+      {C,BO} _{c,bo}{W}|{C,BO}___|_______________________|___{c,bo}{W}|{C,BO}_
+      |{G,BO}\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\{C,BO}|
+      |                                   |
+      |                                   |
+      |{G,BO} - - - - - - - - - - - - - - - - - {C,BO}|
+      |___________________________________|{c,bo}
+ 
+~
+#49839
+cake birthday two~
+{W,BO}A Birthday Cake!{w,bo}~
+{C,BO}Look! It's McBerot's Belated Birthday Cake!{c,bo}~
+~
+15 0 0 0
+900 896 900 900
+271 1 1
+E
+cake birthday two~
+
+                      {Y,BO}0   0{y,bo}
+                      {W}|   |
+                  {C,BO}____{c,bo}{W}|{C,BO}___{c,bo}{W}|{C,BO}____{c,bo}
+               {Y,BO}0  {C,BO}|{G,BO}- - - - - -{C,BO}|   {Y,BO}0{y,bo}
+               {W}|  {C,BO}|           |{c,bo}   {W}|{w}
+           {C,BO} ___{c,bo}{W}|{C,BO}__|___________|___{c,bo}{W}|{w}{C,BO}__
+            |{G,BO}/\/\/\/\/\/\/\/\/\/\/\/{g,bo}{C,BO}|
+        {Y,BO}0{y,bo}   {C,BO}|{c,bo}                       {C,BO}|   {Y,BO}0{y,bo}
+        {W}|{w}   {C,BO}|{G,BO}/\/\/\/\/\/\/\/\/\/\/\/{C,BO}|{c,bo}   {W}|
+      {C,BO} _{c,bo}{W}|{C,BO}___|_______________________|___{c,bo}{W}|{C,BO}_
+      |{G,BO}\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\{C,BO}|
+      |                                   |
+      |                                   |
+      |{G,BO} - - - - - - - - - - - - - - - - - {C,BO}|
+      |___________________________________|{c,bo}
+ 
+~
+#49840
+candycane candy cane cc~
+{R}A {W}C{R}a{W}n{R}d{W}y {R}C{W}a{R}n{W}e{w}~
+{R}A {W}C{R}a{W}n{R}d{W}y {R}C{W}a{R}n{W}e{w}~
+~
+19 0 0 1
+1 0 0 0
+1 1 1
+E
+candycane candy cane cc~
+           {W},{R}---{W}----,
+          {W},{R}/  {W}/  {R}/  ,
+          ;  {W}---{R}-   ;
+          ;/{W}_;   {W};/ ;
+                 ;  ;
+                 {R};/ ;
+                 ;  ;
+                 {W};/ ;
+                 ;  ;
+                 {R};/ ;
+                 ;  ;
+                 {W};/ ;
+                 ---{w}
+~
+#49841
+piece~
+{R}A {W}p{R}i{W}e{R}c{W}e {R}o{W}f {R}P{W}i{R}z{W}z{R}a{r}~
+{R}A {W}p{R}i{W}e{R}c{W}e {R}o{W}f {R}P{W}i{R}z{W}z{R}a{r}~
+~
+19 0 0 1
+5 0 0 0
+1 1 1
+E
+nothing~
+{Y} 
+[33m .d'[7;37m{W,REV}               [0;33m{rev,Y}`b.[0m
+[33m ::[7;37m{W,REV}               [0;33m{rev,Y}::[0m
+[33m ::[7;37m{W,REV}              [0;33m{rev,Y}::[0m
+[33m ::[7;37m{W,REV}             [0;33m{rev,Y}::[0m
+[33m `p.[7;37m{W,REV}         [0;33m{rev,Y}.q'[0m
+[33m  `p.[7;37m{W,REV}      [0;33m{rev,Y}.q'[0m
+[33m   `b.[7;37m{W,REV}   [0;33m{rev,Y}d'[0m
+[33m     `q..p'[0m
+[33m        ^[0m
+{y}
+[33m         [0m
+~
+E
+piece~
+{Y}
+ .d'{W,REV}               {rev,Y}`b.
+ ::{W,REV}               {rev,Y}::
+ ::{W,REV}              {rev,Y}::
+ ::{W,REV}             {rev,Y}::
+ `p.{W,REV}         {rev,Y}.q'
+  `p.{W,REV}      {rev,Y}.q'
+   `b.{W,REV}   {rev,Y}d'
+     `q..p'
+        ^
+{y}
+~
+#49842
+pizza~
+{R}A {W}L{R}a{W}r{R}g{W}e {R}C{W}h{R}e{W}e{R}s{W}y {R}P{W}i{R}z{W}z{R}a{r}~
+A {W}L{R}a{W}r{R}g{W}e {R}C{W}h{R}e{W}e{R}s{W}y {R}P{W}i{R}z{W}z{R}a{r} for Mithril's birthday!~
+~
+15 0 0 0
+200 0 0 0
+1 1 1
+E
+pizza~
+{Y}
+            .....
+        _d^^^^^^^^^b_
+     .d''{W,REV}           {rev}{Y}``b.
+   .p'{W,REV}                 {rev}{Y}`q.
+  .d'{W,REV}                   {rev}{Y}`b.
+ .d'{W,REV}                     {rev}{Y}`b.
+ ::{W,REV}                       {rev}{Y}::
+ ::{W,REV}                       {rev}{Y}::
+ ::{W,REV}                       {rev}{Y}::
+ `p.{W,REV}                     {rev}{Y}.q'
+  `p.{W,REV}                   {rev}{Y}.q'
+   `b.{W,REV}                {rev}{Y}.d'
+     `q..{W,REV}          {rev}{Y}..p'
+        ^q........p^
+            ''''
+{y}
+~
+#49843
+slab meat~
+{Y}A Slab of Meat{y}~
+{Y}The aroma of a slab of BBQ'd meat tempts you.{y}~
+~
+19 0 0 1
+10 0 0 0
+1 1 1
+E
+slab meat~
+{Y}
+  A giant slab of meat tempts you.
+{y}
+~
+#49844
+grill~
+{R}A BBQ Grill{r}~
+{R}Wysiwyg's Birthday BBQ Grill{r}~
+~
+15 0 0 0
+200 0 0 0
+1 1 1
+E
+grill~
+{R}
+  Since Wysiwyg can't have cake, we've decided to 
+  throw her a BBQ! YOU'RE INVITED!
+{r}
+~
+#49845
+piece food bday~
+{Y,BO}A piece of birthday cake{y,bo}~
+{Y,BO}A piece of birthday cake sits on a small round party plate.{y,bo}~
+~
+19 0 0 1
+1 0 0 0
+2 1 1
+E
+piece food bday~
+{C,BO}
+               O. 
+             O     '   .    
+           O              '  .
+           O{Y,BO}ssssssssssssssssss{C,BO}      
+           O{Y,BO}ssssssssssssssssss{C,BO}
+           OOOOOOOOOOOOOOOOOOO
+           O{Y,BO}ssssssssssssssssss{C,BO}
+           O{Y,BO}ssssssssssssssssss
+{c,bo}
+~
+#49846
+cake birthday~
+{C,BO}A Birthday Cake{c,bo}~
+{C,BO}Look! It's Mephisto's Birthday Cake!{c,bo}~
+~
+15 0 0 0
+900 0 0 0
+321 1 1
+E
+cake birthday~
+
+                      {Y,BO}0   0{y,bo}
+                      {W}|   |{w}
+                  {C,BO}____{c,bo}{W}|{w}{C,BO}___{c,bo}{W}|{w}{CY,BO}____{c,bo}
+               {Y,BO}0  {C,BO}|{c,bo}{G,BO}- - - - - -{g,bo}{C,BO}|{c,bo}   {Y,BO}0{y,bo}
+               {W}|  {C,BO}|           |{c,bo}   {W}|{w}
+           {CY,BO} ___{c,bo}{W}|{CY,BO}__|___________|___{c,bo}{W}|{w}{C,BO}__
+            |{G,BO}/\/\/\/\/\/\/\/\/\/\/\/{C,BO}|
+        {Y,BO}0   {CY,BO}|                       |   {Y,BO}0{y,bo}
+        {W}|   {C,BO}|{G,BO}/\/\/\/\/\/\/\/\/\/\/\/{g,bo}{C,BO}|{c,bo}   {W}|{w}
+      {C,BO} _{c,bo}{W}|{C,BO}___|_______________________|___{C,BO}{W}|{C,BO}_
+      |{G,BO}\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\{C,BO}|
+      |                                   |
+      |{c,bo}                                   {C,BO}|
+      |{G,BO} - - - - - - - - - - - - - - - - - {C,BO}|
+      |___________________________________|{c,bo}
+                              
+       
+ 
+~
+#49847
+wine Shiraz Barossa Vines~
+{R}A bottle of 1998 Shiraz Barossa Vines{r}~
+{R}A bottle of 1998 Shiraz Barossa Vines rolls on the ground.{r}~
+~
+17 0 0 1
+25 25 2 0
+1 1 1
+E
+wine Shiraz Barossa Vines~
+
+ {R}
+        _
+       |-|
+       |=|
+       |:|   
+      .'.'.
+     /   ::\   Jammy red berry and cherry fruit are lively
+     |_____|   and appealing, with a touch of spice emerging
+     |:.:..|   on the finish. Versatile with food. Ready to
+     |_____|   drink now and over the next four or five years.
+     |   ::|
+     |   .:|  
+     \_____/  
+{r}
+  
+~
+#49848
+rack cellar wine~
+{Y}A wine rack{y}~
+{Y}A lovely cellar wine rack proudly boasts its collection of wines.{y}~
+~
+15 0 0 0
+5000 0 0 0
+1 1 1
+E
+rack cellar wine~
+{Y}
+  ********************************************
+  ********************************************
+  **    /\        /\        /\        /\    **
+  **  /    \    /    \    /    \    /    \  **
+  **/        \/        \/        \/        \**
+  **\  {C}This rack is dedicated to the most{Y}  /**
+  **  \{C}noble teacher and friend known to{Y} /  **
+  **   {C}the Northern Crossroads on his{Y}       **
+  **  /{C}birthday. May you always know that{Y}\  **
+  **/  {C}you are loved, Don Zorro.{Y} \/        \**
+  **\        /\        /\        /\        /** 
+  **  \    /   {C}December 27, 2002{Y}    \    /  **
+  **    \/        \/        \/        \/    **
+  **    /\        /\        /\        /\    **
+  **  /    \    /    \    /    \    /    \  **
+  ********************************************
+  ********************************************
+{y}
+~
+#49849
+wine Shiraz Barossa~
+{M}A 1995 Shiraz Barossa{m}~
+{M}A bottle of 1995 Shiraz Barossa rolls here.{m}~
+~
+17 0 0 1
+25 25 2 0
+1 1 1
+E
+wine Shiraz Barossa~
+{M}
+        _
+       |-|
+       |=|
+       |:|   
+      .'.'.
+     /   ::\  Lush and silky cherry, blackberry, toasted
+     |_____|  oak and nutmeg run wild here. The finish 
+     |:.::.|  will knock your socks off. Awfully good now,  
+     |_____|  but this baby will cellar beautifully over
+     |   ::|  the next six or seven years.
+     |   ::|  
+     \_____/  
+{m}
+~
+$~

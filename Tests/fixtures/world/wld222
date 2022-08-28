@@ -1,0 +1,1972 @@
+#22200
+The Dispersal Room~
+In this room, contestants gather to prepare for the games.  You see six exits,
+each one leading to a different part of this playing field.
+There is a sign here.
+~
+222 0 0
+D0
+~
+~
+0 -1 22229
+D1
+~
+~
+0 -1 22255
+D2
+~
+~
+0 -1 22273
+D3
+~
+~
+0 -1 22248
+D4
+~
+~
+0 -1 22272
+D5
+~
+~
+0 -1 22213
+E
+sign~
+The following rules have been instituted to make the games fair for all
+involved:
+
+1) NO corpse looting
+2) NO blocking
+3) HAVE FUN!!!!
+
+The Game Master
+~
+Z3
+C-1
+S
+#22231
+A Great Hall~
+You are in the great council hall of this facility.  You seen maps and battle
+plans tacked up on the walls.  The fighting here seems also to have been 
+quite severe.  The marines must have fought to the last man to protect their
+leaders.
+~
+222 9 0
+D0
+~
+~
+0 -1 22230
+D2
+~
+~
+0 -1 22232
+Z3
+C-1
+S
+#22232
+A Great Hall~
+This is the rear entrance to the council chamber through which the generals
+would pass every morning and evening.  If there is anyone left alive, they 
+would be down this hallway.
+~
+222 9 0
+D0
+~
+~
+0 -1 22231
+D1
+~
+~
+0 -1 22233
+D3
+~
+~
+0 -1 22229
+Z3
+C-1
+S
+#22233
+A Hallway~
+This is just a hallway.
+~
+222 9 0
+D1
+~
+~
+0 -1 22234
+D3
+~
+~
+0 -1 22232
+Z3
+C-1
+S
+#22234
+A Landing~
+This large room used to contain a garden, complete with trees and birds and a
+large pool of water.  However, whatever attacked this place has turned the 
+water into toxic waste from which a foul smell arises.  You are glad someone
+decided to build a path across this pool.
+~
+222 9 0
+D0
+~
+~
+0 -1 22239
+D1
+~
+~
+0 -1 22235
+D3
+~
+~
+0 -1 22233
+Z3
+C-1
+S
+#22235
+A Path Through the Toxic Waste~
+This is a path through the Toxic Waste.  Better not stray too far away from 
+it, Toxic Waste can be hazardous to your health.
+~
+222 9 0
+D0
+~
+~
+0 -1 22238
+D1
+~
+~
+0 -1 22236
+D3
+~
+~
+0 -1 22234
+Z3
+C-1
+S
+#22236
+Toxic Waste~
+Ick!!!  This is toxic waste you're floating over!  Maybe you better get back
+to someplace safer and drier!
+~
+222 9 7
+D0
+~
+~
+0 -1 22237
+D3
+~
+~
+0 -1 22235
+Z3
+C-1
+S
+#22237
+A Path Through the Toxic Waste~
+This is a path through the Toxic Waste.  Better not stray too far away from 
+it, Toxic Waste can be hazardous to your health.
+~
+222 9 0
+D0
+~
+~
+0 -1 22242
+D2
+~
+~
+0 -1 22236
+D3
+~
+~
+0 -1 22238
+Z3
+C-1
+S
+#22238
+A Path Through the Toxic Waste~
+This is a path through the Toxic Waste.  Better not stray too far away from 
+it, Toxic Waste can be hazardous to your health.
+~
+222 9 0
+D0
+~
+~
+0 -1 22241
+D1
+~
+~
+0 -1 22237
+D2
+~
+~
+0 -1 22235
+D3
+~
+~
+0 -1 22239
+Z3
+C-1
+S
+#22239
+Toxic Waste~
+Ick!!!  This is toxic waste you're floating over!  Maybe you better get back
+to someplace safer and drier!
+~
+222 9 7
+D0
+~
+~
+0 -1 22240
+D1
+~
+~
+0 -1 22238
+D2
+~
+~
+0 -1 22234
+Z3
+C-1
+S
+#22240
+Toxic Waste~
+Ick!!!  This is toxic waste you're floating over!  Maybe you better get back
+to someplace safer and drier!
+~
+222 9 7
+D0
+~
+wall~
+1 -1 22243
+D1
+~
+~
+0 -1 22241
+D2
+~
+~
+0 -1 22239
+Z3
+C-1
+S
+#22241
+Toxic Waste~
+Ick!!!  This is toxic waste you're floating over!  Maybe you better get back
+to someplace safer and drier!
+~
+222 9 7
+D1
+~
+~
+0 -1 22242
+D2
+~
+~
+0 -1 22238
+D3
+~
+~
+0 -1 22240
+Z3
+C-1
+S
+#22242
+A Landing~
+This large room used to contain a garden, complete with trees and birds and a
+large pool of water.  However, whatever attacked this place has turned the 
+water into toxic waste from which a foul smell arises.  You are glad someone
+decided to build a path across this pool.
+~
+222 9 0
+D0
+~
+~
+0 -1 22245
+D2
+~
+~
+0 -1 22237
+D3
+~
+~
+0 -1 22241
+Z3
+C-1
+S
+#22243
+The Secret Room~
+This is a secret room in which reserve supplies were to be stored in case of
+seige.  However, even this room appears to have been found out.
+~
+222 9 0
+D2
+~
+wall~
+1 -1 22240
+D3
+~
+secret~
+1 -1 22244
+Z3
+C-1
+S
+#22244
+Secret Passageway~
+This passageway was once used as an escape route if all methods of defense
+failed.  However, it has been long forgotten and neglected and even the forces
+of evil which overran this base have not found it.  The passageway appears to
+have collapsed, but you can just make out a crack which leads down through
+the rock.
+~
+222 1048585 0
+D1
+~
+secret~
+1 -1 22243
+D5
+~
+~
+0 -1 22234
+T22212
+Z3
+C-1
+S
+#22245
+A Hallway~
+This hallway runs from the garden to towards the inner sanctum of the base.
+There is a door to the north.
+~
+222 9 0
+D0
+~
+door~
+1 -1 22249
+D1
+~
+wall~
+1 -1 22246
+D2
+~
+~
+0 -1 22242
+Z3
+C-1
+S
+#22246
+Secret Stairs~
+This hallway leads to the courtyard reserved for the leaders of this army.
+The hallway has been ravaged, with heavy signs of fighting.
+~
+222 9 0
+D3
+~
+wall~
+1 -1 22245
+D5
+~
+~
+0 -1 22247
+Z3
+C-1
+S
+#22247
+A Hallway~
+This is just a hallway.
+~
+222 9 0
+D1
+~
+~
+0 -1 22248
+D4
+~
+~
+0 -1 22246
+Z3
+C-1
+S
+#22248
+The Courtyard~
+This was once a beautiful courtyard, but it seems as if a mighty hand has 
+removed every living thing.  Where trees and grass once fluorished, now
+there is only parched earth.
+~
+222 9 0
+D0
+~
+~
+0 -1 22280
+D1
+~
+~
+0 -1 22282
+D2
+~
+~
+0 -1 22284
+D3
+~
+~
+0 -1 22247
+Z3
+C-1
+S
+#22249
+The Gauntlet~
+This room guards the way to the inner sanctum of the base.  You can see holes
+in the walls from which guards can fire missiles at invaders with only
+minimum exposer.  This looks like another fine area for an ambush.
+~
+222 9 0
+D0
+~
+~
+0 -1 22250
+D2
+~
+door~
+1 -1 22245
+Z3
+C-1
+S
+#22250
+Before The Door~
+You are standing before a fantastic door.  You wonder how such a massive object
+was placed in this position.  It seems to form a gate straight into the
+mountainside.  While it is not that tall or wide, it is 15 feet thick, thick 
+enough to stop any force.  However, it has been ripped off its hinges and the
+path to the inner sanctum is left un defended.
+~
+222 9 0
+D0
+~
+door~
+1 -1 22255
+D1
+~
+~
+0 -1 22253
+D2
+~
+~
+0 -1 22249
+D3
+~
+~
+0 -1 22251
+Z3
+C-1
+S
+#22251
+A Corner~
+This hallway leads to the guard rooms, which protect the entrance to the inner
+sanctum.  Heavy fighting has also taken place here.
+~
+222 9 0
+D1
+~
+~
+0 -1 22250
+D2
+~
+~
+0 -1 22252
+Z3
+C-1
+S
+#22252
+The Guard Room~
+From here, you can look out into "The Gauntlet".  This base was designed with
+maximum security in mind and this position look almost impregnible.  You see
+arms and armor arrainged carefully and a large cask of water, which has been
+turned to toxic waste.
+~
+222 9 0
+D0
+~
+~
+0 -1 22251
+Z3
+C-1
+S
+#22253
+A Corner~
+This hallway leads to the guard rooms, which protect the entrance to the inner
+sanctum.  Heavy fighting has also taken place here.
+~
+222 9 0
+D2
+~
+~
+0 -1 22254
+D3
+~
+~
+0 -1 22250
+Z3
+C-1
+S
+#22254
+The Guard Room~
+From here, you can look out into "The Gauntlet".  This base was designed with
+maximum security in mind and this position look almost impregnible.  You see
+arms and armor arrainged carefully and a large cask of water, which has been
+turned to toxic waste.
+~
+222 9 0
+D0
+~
+~
+0 -1 22253
+Z3
+C-1
+S
+#22255
+The End...~
+This appears to be the end of the line...the tunnel into the heart of the base
+has been collapsed.  But wait...Off to the east you see a gaping hole in the
+earth.  It is as if some huge body forced its way up out of the ground.  Now
+things seem to make for sense.  The invasion force was not from without, but
+from within.  As you approach the hole, you feel the presense of evil.
+~
+222 9 0
+D1
+~
+door~
+1 -1 22256
+D2
+~
+door~
+1 -1 22250
+Z3
+C-1
+S
+#22256
+A Tunnel~
+This tunnel has been roughly carved out of sheer rock, as if by thousands of
+hands.  It leads away from the base and slightly down...into the heart on the
+mountain.
+~
+222 9 0
+D3
+~
+door~
+1 -1 22255
+D5
+~
+stairs~
+1 -1 22257
+Z3
+C-1
+S
+#22257
+The Round Room~
+This round room has an evil glow, making you feel quite unsafe.  Or, maybe,
+it is the large number of large pink beasties looking to gnaw on your leg.
+~
+222 9 0
+D0
+~
+~
+0 -1 22258
+D1
+~
+~
+0 -1 22261
+D2
+~
+~
+0 -1 22259
+D4
+~
+stairs~
+1 -1 22256
+Z3
+C-1
+S
+#22258
+The Round Room~
+This round room has an evil glow, making you feel quite unsafe.  Or, maybe,
+it is the large number of large pink beasties looking to gnaw on your leg.
+~
+222 9 0
+D1
+~
+~
+0 -1 22260
+D2
+~
+~
+0 -1 22257
+Z3
+C-1
+S
+#22259
+The Round Room~
+This round room has an evil glow, making you feel quite unsafe.  Or, maybe,
+it is the large number of large pink beasties looking to gnaw on your leg.
+~
+222 9 0
+D0
+~
+~
+0 -1 22257
+D1
+~
+~
+0 -1 22262
+Z3
+C-1
+S
+#22260
+The Round Room~
+This round room has an evil glow, making you feel quite unsafe.  Or, maybe,
+it is the large number of large pink beasties looking to gnaw on your leg.
+~
+222 9 0
+D0
+~
+~
+0 -1 22267
+D1
+~
+~
+0 -1 22265
+D2
+~
+~
+0 -1 22261
+D3
+~
+~
+0 -1 22258
+Z3
+C-1
+S
+#22261
+The Center~
+You are floating a couple feet above a small pool of toxic waste.  From the
+age of the room, you deduce that this must be the headwaters for all the toxic
+waste you have seen up to this point.  Perhaps you'd better move, this is
+as waste pool you are floating over.
+~
+222 9 7
+D0
+~
+~
+0 -1 22260
+D1
+~
+~
+0 -1 22264
+D2
+~
+~
+0 -1 22262
+D3
+~
+~
+0 -1 22257
+Z3
+C-1
+S
+#22262
+The Round Room~
+This round room has an evil glow, making you feel quite unsafe.  Or, maybe,
+it is the large number of large pink beasties looking to gnaw on your leg.
+~
+222 9 0
+D0
+~
+~
+0 -1 22261
+D1
+~
+~
+0 -1 22263
+D3
+~
+~
+0 -1 22259
+Z3
+C-1
+S
+#22263
+The Round Room~
+This round room has an evil glow, making you feel quite unsafe.  Or, maybe,
+it is the large number of large pink beasties looking to gnaw on your leg.
+~
+222 9 0
+D0
+~
+~
+0 -1 22264
+D3
+~
+~
+0 -1 22262
+Z3
+C-1
+S
+#22264
+The Round Room~
+This round room has an evil glow, making you feel quite unsafe.  Or, maybe,
+it is the large pink beasties looking to gnaw on your leg.  The wall in this
+part of the room looks a bit strange...like a pair of elevator doors.
+~
+222 9 0
+D0
+~
+~
+0 -1 22265
+D2
+~
+~
+0 -1 22263
+D3
+~
+~
+0 -1 22261
+D4
+~
+elevator~
+1 -1 22266
+Z3
+C-1
+S
+#22265
+The Round Room~
+This round room has an evil glow, making you feel quite unsafe.  Or, maybe,
+it is the large number of large pink beasties looking to gnaw on your leg.
+~
+222 9 0
+D2
+~
+~
+0 -1 22264
+D3
+~
+~
+0 -1 22260
+Z3
+C-1
+S
+#22266
+The Storage Room~
+This room appears to have been a storage dump for war materials.  While there
+are some weapons on the floor, most of the boxes contain medical supplies.
+~
+222 9 0
+D5
+~
+elevator~
+1 -1 22264
+Z3
+C-1
+S
+#22267
+A Hallway~
+This is just a hallway.
+~
+222 9 0
+D0
+~
+door~
+1 -1 22269
+D1
+~
+wall~
+3 -1 22268
+D2
+~
+~
+0 -1 22260
+Z3
+C-1
+S
+#22268
+The Secret Room~
+You are standing in nowhere !!!!
+~
+222 0 1
+D3
+~
+wall~
+1 -1 22267
+Z3
+C-1
+S
+#22269
+The Hallway~
+While the previous hallways seemes as if they were blasted out of sheer rock,
+this one has smooth walls and floors.  The room is well lit from torches
+lining both walls.  The floor seems to gradually slope away to the north and
+there are dark caves to the east and west.
+~
+222 8 0
+D0
+~
+~
+0 -1 22270
+D1
+~
+~
+0 -1 22273
+D2
+~
+door~
+1 -1 22267
+D3
+~
+~
+0 -1 22274
+Z3
+C-1
+S
+#22270
+The Hallway~
+Torches line the wall of this magnificent hallway.  You take a few minutes to
+admire the intricate carvings in the stone wall and realize that they are all
+pictures of death and torture.  As you proceed to the north, you feel less at
+ease.
+~
+222 8 0
+D0
+~
+~
+0 -1 22271
+D2
+~
+~
+0 -1 22269
+Z3
+C-1
+S
+#22271
+The Hallway~
+Torches line the wall of this magnificent hallway.  You take a few minutes to
+admire the intricate carvings in the stone wall and realize that they are all
+pictures of death and torture.  As you proceed to the north, you feel less at
+ease.
+~
+222 8 0
+D2
+~
+~
+0 -1 22270
+D4
+~
+elevator~
+1 -1 22272
+Z3
+C-1
+S
+#22272
+Top Of The Elevator~
+The elevator has dropped you off in a huge room.  Two flames light the area in
+which you now stand, but the rest of the room is cloaked in total darkness.
+You are standing before a daiz upon which rest two large boxes, like coffins
+standing on end.  You hear the roars and snarls of beast off in the blackness of this room.
+~
+222 8 0
+D0
+~
+~
+0 -1 22275
+D5
+~
+elevator~
+1 -1 22271
+Z3
+C-1
+S
+#22273
+The Cave~
+This cave appears to have been used to store the equipment and supplies of
+war.  All around you are piled boxes of weapons and healing equipment.
+Evidently someone had been preparing for this invasion for quite some time.
+This room seems much darker that than any you have encountered before.
+~
+222 9 0
+D3
+~
+~
+0 -1 22269
+Z3
+C-1
+S
+#22274
+The Cave~
+This cave appears to have been used to store the equipment and supplies of
+war.  All around you are piled boxes of weapons and healing equipment.
+Evidently someone had been preparing for this invasion for quite some time.
+This room seems much darker that than any you have encountered before.
+~
+222 9 0
+D1
+~
+~
+0 -1 22269
+Z3
+C-1
+S
+#22275
+The Daiz~
+You're standing on a raised platform.  From here you can see that this largo
+room is shaped like a star.  You feel the presence of immense evil and it
+makes your skin crawl.
+~
+222 9 0
+D0
+~
+~
+0 -1 22288
+D1
+~
+~
+0 -1 22276
+D2
+~
+~
+0 -1 22272
+D3
+~
+~
+0 -1 22277
+Z3
+C-1
+S
+#22276
+The Daiz~
+You're standing on a raised platform.  From here you can see that this largo
+room is shaped like a star.  You feel the presence of immense evil and it
+makes your skin crawl.
+~
+222 9 0
+D0
+~
+door~
+1 -1 22279
+D3
+~
+~
+0 -1 22275
+Z3
+C-1
+S
+#22277
+The Daiz~
+You're standing on a raised platform.  From here you can see that this largo
+room is shaped like a star.  You feel the presence of immense evil and it
+makes your skin crawl.
+~
+222 9 0
+D0
+~
+door~
+1 -1 22278
+D1
+~
+~
+0 -1 22275
+Z3
+C-1
+S
+#22278
+A Lair~
+This is the lair of one of the Baron's of Hell.  Now you understand the
+strange markings of the walls, this is one very BAD dude.  He stands here,
+waiting for some unsuspecting adventurer to come into his reaches,
+and then......
+~
+222 9 0
+D2
+~
+door~
+1 -1 22277
+Z3
+C-1
+S
+#22279
+A Lair~
+This is the lair of one of the Baron's of Hell.  Now you understand the
+strange markings of the walls, this is one very BAD dude.  He stands here,
+waiting for some unsuspecting adventurer to come into his reaches,
+and then......
+~
+222 9 0
+D2
+~
+door~
+1 -1 22276
+Z3
+C-1
+S
+#22220
+The Column~
+A large column stands here, evidently designed to keep the roof from falling 
+on your head.  But this would also make a great spot for an ambush...
+~
+222 9 0
+D2
+~
+~
+0 -1 22219
+Z3
+C-1
+S
+#22221
+The Column~
+A large column stands here, evidently designed to keep the roof from falling 
+on your head.  But this would also make a great spot for an ambush...
+~
+222 9 0
+D0
+~
+~
+0 -1 22219
+Z3
+C-1
+S
+#22222
+Top of the Stairs~
+Wow...What a view!!  From here you can see that the entire countryside has
+been ravaged by unnatural forces.  But if the soldiers in this room are any
+indication, you can understand why the devastation was so complete.  There
+does not appear to be another living soul for as far as you can see.
+~
+222 9 0
+D5
+~
+~
+0 -1 22219
+Z3
+C-1
+S
+#22223
+A Hallway~
+Evidently the fighting was especially heavy here.  The was has been seared by
+repeated blasts and several bodies of Marine guards lie on the ground.  The 
+corpses have been grotesquely mutilated.
+~
+222 9 0
+D1
+~
+door~
+1 -1 22224
+D2
+~
+~
+0 -1 22218
+Z3
+C-1
+S
+#22224
+West End of a Great Hall~
+This is the western end of a great hall where the great military minds of the
+army came to draw up stratagy and play their war games.  You hear strange
+mummers and girglings coming from somewhere within the hall.
+~
+222 9 0
+D0
+~
+~
+0 -1 22226
+D1
+~
+~
+0 -1 22228
+D2
+~
+~
+0 -1 22225
+D3
+~
+door~
+1 -1 22223
+Z3
+C-1
+S
+#22225
+A Great Hall~
+You are in the great council hall of this facility.  You seen maps and battle
+plans tacked up on the walls.  The fighting here seems also to have been 
+quite severe.  The marines must have fought to the last man to protect their
+leaders.
+~
+222 9 0
+D0
+~
+~
+0 -1 22224
+D1
+~
+~
+0 -1 22229
+Z3
+C-1
+S
+#22226
+A Great Hall~
+You are in the great council hall of this facility.  You seen maps and battle
+plans tacked up on the walls.  The fighting here seems also to have been 
+quite severe.  The marines must have fought to the last man to protect their
+leaders.
+~
+222 9 0
+D1
+~
+~
+0 -1 22227
+D2
+~
+~
+0 -1 22224
+Z3
+C-1
+S
+#22227
+A Great Hall~
+You are in the great council hall of this facility.  You seen maps and battle
+plans tacked up on the walls.  The fighting here seems also to have been 
+quite severe.  The marines must have fought to the last man to protect their
+leaders.
+~
+222 9 0
+D1
+~
+~
+0 -1 22230
+D3
+~
+~
+0 -1 22226
+Z3
+C-1
+S
+#22228
+A Daiz~
+On this diaz, the great leaders of the army planned attacks and defenses for
+over 1000 years.  But the thrones on which they once sat have been burned and
+the tapestries forming the walls have been defaced with strange markings.  
+There are no corpses here.  Strange...
+~
+222 9 0
+D3
+~
+~
+0 -1 22224
+Z3
+C-1
+S
+#22229
+A Great Hall~
+You are in the great council hall of this facility.  You seen maps and battle
+plans tacked up on the walls.  The fighting here seems also to have been 
+quite severe.  The marines must have fought to the last man to protect their
+leaders.
+~
+222 9 0
+D1
+~
+~
+0 -1 22232
+D3
+~
+~
+0 -1 22225
+Z3
+C-1
+S
+#22230
+A Great Hall~
+You are in the great council hall of this facility.  You seen maps and battle
+plans tacked up on the walls.  The fighting here seems also to have been 
+quite severe.  The marines must have fought to the last man to protect their
+leaders.
+~
+222 9 0
+D2
+~
+~
+0 -1 22231
+D3
+~
+~
+0 -1 22227
+Z3
+C-1
+S
+#22201
+Tic's Lab~
+So this is the workroom of a god?!  As you look around you see various 
+concoctions bubbling away.  One the blackboard you see intricate plans
+detailing the contruction and maintainence of an entire world.  In one
+corner is you see the partially formed body of a monster.  You wonder, 
+"Can anyone actually be expected to live here?"
+~
+222 0 1
+D5
+~
+~
+0 -1 3001
+Z3
+C-1
+S
+#22202
+The Blue Corner~
+In this corner you see a small stool and a bucket in which to spit.  A trainer
+is here yelling out instructions to the fighters in the ring.
+~
+222 16388 0
+D1
+~
+~
+0 -1 22203
+D2
+~
+~
+0 -1 22207
+E
+stool~
+*Made by Tic Enterprises*
+~
+E
+bucket~
+*Made By Tic Enterprises*
+~
+Z3
+C-1
+S
+#22203
+The Ring~
+You're up against the ropes....better move fast!
+~
+222 16388 0
+D1
+~
+~
+0 -1 22204
+D2
+~
+~
+0 -1 22206
+D3
+~
+~
+0 -1 22202
+Z3
+C-1
+S
+#22204
+A Neutral Corner~
+For a prise fight, this arena is amazingly quiet.  In fact, you notice that
+there are no fans present, no bright lights, not even a pretty card girl
+to display the rounds.  Is this really a legal fight?
+~
+222 16388 0
+D2
+~
+~
+0 -1 22205
+D3
+~
+~
+0 -1 22203
+Z3
+C-1
+S
+#22205
+The Ring~
+You're up against the ropes....better move fast!
+~
+222 16388 0
+D0
+~
+~
+0 -1 22204
+D2
+~
+~
+0 -1 22210
+D3
+~
+~
+0 -1 22206
+Z3
+C-1
+S
+#22206
+Center Ring~
+You are in the center of a large fighting ring.  On the canvass below you is
+a large Budweiser logo, which reminds you that you would rather be hoisting
+a tall cold one.
+~
+222 16388 0
+D0
+~
+~
+0 -1 22203
+D1
+~
+~
+0 -1 22205
+D2
+~
+~
+0 -1 22209
+D3
+~
+~
+0 -1 22207
+Z3
+C-1
+S
+#22207
+The Ring~
+You're up against the ropes....better move fast!
+~
+222 16388 0
+D0
+~
+~
+0 -1 22202
+D1
+~
+~
+0 -1 22206
+D2
+~
+~
+0 -1 22208
+Z3
+C-1
+S
+#22208
+A Neutral Corner~
+For a prise fight, this arena is amazingly quiet.  In fact, you notice that
+there are no fans present, no bright lights, not even a pretty card girl
+to display the rounds.  Is this really a legal fight?
+~
+222 16388 0
+D0
+~
+~
+0 -1 22207
+D1
+~
+~
+0 -1 22209
+Z3
+C-1
+S
+#22209
+The Ring~
+You're up against the ropes....better move fast!
+~
+222 16388 0
+D0
+~
+~
+0 -1 22206
+D1
+~
+~
+0 -1 22210
+D3
+~
+~
+0 -1 22208
+Z3
+C-1
+S
+#22210
+The Red Corner~
+In this corner you see a small stool and a bucket in which to spit.  A trainer
+is here yelling out instructions to the fighters in the ring.
+~
+222 16388 0
+D0
+~
+~
+0 -1 22205
+D3
+~
+~
+0 -1 22209
+E
+stool~
+*Made by Tic Enterprises*
+~
+E
+bucket~
+*Made by Tic Enterprises*
+~
+Z3
+C-1
+S
+#22211
+The Waiting Room~
+In this room, many warriors have waited for their turn to die at the hands of
+their brethern.  Even now, you see other brave souls checking their
+equipment one last time.  You've never seen such an array of warriors and
+you wonder if you have the skills and courage to survive.  You notice that
+some writing has been chisled into the wall.
+~
+222 24580 0
+D1
+~
+~
+0 -1 22210
+D3
+~
+~
+0 -1 22202
+D5
+~
+~
+0 -1 3001
+E
+writing~
+Welcome brave warrior.  In the interest of competition and fair play, I have
+instituted the following rules which will be STRICTLY enforced during this
+tournament:
+
+1) NO corpse looting
+2) NO potions, scrolls, wands or staffs
+3) NO blocking
+4) Milk is allowed
+5) Recalls are allowed, but will be considered as a surrender
+6) HAVE FUN!!
+
+- The Master of the Tournament
+~
+E
+sign~
+
+Welcome brave warrior.  In the interest of competition and fair play, I have
+Instituted the following rules:
+1) NO corpse looting
+2) NO potions, wands or staffs
+3) Recalls are allowed but will be considered as a surrender
+4) Have fun!
+
+These rules will be STRICTLY enforced!
+
+- The Master of the Tournament
+
+~
+Z3
+C-1
+S
+#22212
+The Morgue~
+The stench of this room is enough to drive you mad.  You see piles of...well
+not really bodies, more like peices of bodies and equipment piled about on
+the floor.  You wade through the muck and ooze searching for your corpse.
+~
+222 0 0
+D5
+~
+~
+0 -1 3001
+Z3
+C-1
+S
+#22213
+Entrance~
+This appears to be an military base.  Once these halls would have been filled
+with soldiers, but now they are strangely silent.  You've heard the rumors
+that this base was over run but forces of indescribable evil and now, it
+appears, those rumors have been proved true.
+~
+222 9 0
+D0
+~
+~
+0 -1 22214
+D3
+~
+~
+0 -1 22215
+D4
+~
+~
+0 -1 210
+Z3
+C-1
+S
+#22214
+A Pool~
+This was once a pool of water in the lobby of the military base.  At the
+bottom you can see a few coins, which were tossed here by people seeking good
+luck.  Even this pool seems to have benn touched by the evil of this place.
+The water is dark and the goldfish which once inhabited this pool are
+floating belly up in one corner.
+~
+222 9 6
+D0
+~
+~
+0 -1 22218
+D2
+~
+~
+0 -1 22213
+D3
+~
+~
+0 -1 22216
+Z3
+C-1
+S
+#22215
+Around the Pool~
+This is a hallway, which leads around a pool of clear blue water.  THe whole
+room must have once been very beautiful, but now, for no apparent reason,
+the light coming into the room has been muted, leaving everything dark and 
+sinister.
+~
+222 8 0
+D0
+~
+~
+0 -1 22216
+D1
+~
+~
+0 -1 22213
+Z3
+C-1
+S
+#22216
+Around the Pool~
+This is a hallway, which leads around a pool of clear blue water.  THe whole
+room must have once been very beautiful, but now, for no apparent reason,
+the light coming into the room has been muted, leaving everything dark and 
+sinister.
+~
+222 8 0
+D0
+~
+~
+0 -1 22217
+D1
+~
+~
+0 -1 22214
+D2
+~
+~
+0 -1 22215
+D3
+~
+~
+0 -1 22219
+Z3
+C-1
+S
+#22217
+Around the Pool~
+This is a hallway, which leads around a pool of clear blue water.  THe whole
+room must have once been very beautiful, but now, for no apparent reason,
+the light coming into the room has been muted, leaving everything dark and 
+sinister.
+~
+222 8 0
+D1
+~
+~
+0 -1 22218
+D2
+~
+~
+0 -1 22216
+Z3
+C-1
+S
+#22218
+Around the Pool~
+This is a hallway, which leads around a pool of clear blue water.  The whole
+room must have once been very beautiful, but now, for no apparent reason,
+the light coming into the room has been muted, leaving everything dark and 
+sinister.
+~
+222 8 0
+D0
+~
+~
+0 -1 22223
+D2
+~
+~
+0 -1 22214
+D3
+~
+~
+0 -1 22217
+Z3
+C-1
+S
+#22219
+Before the Stairs~
+There are stairs here which lead up to an observation deck from which to
+observe the movement of the army.  Maybe from there you can look around and
+get your bearings.
+~
+222 9 0
+D0
+~
+~
+0 -1 22220
+D1
+~
+~
+0 -1 22216
+D2
+~
+~
+0 -1 22221
+D4
+~
+~
+0 -1 22222
+Z3
+C-1
+S
+#22280
+The Courtyard~
+This was once a beautiful courtyard, but it seems as if a mighty hand has 
+removed every living thing.  Where trees and grass once fluorished, now
+there is only parched earth.
+~
+222 9 0
+D1
+~
+~
+0 -1 22281
+D2
+~
+~
+0 -1 22248
+Z3
+C-1
+S
+#22281
+The Courtyard~
+This was once a beautiful courtyard, but it seems as if a mighty hand has 
+removed every living thing.  Where trees and grass once fluorished, now
+there is only parched earth.
+~
+222 9 0
+D1
+~
+~
+0 -1 22287
+D2
+~
+~
+0 -1 22282
+D3
+~
+~
+0 -1 22280
+Z3
+C-1
+S
+#22282
+Toxic Waste~
+Ick!!!  This is toxic waste you're floating over!  Maybe you better get back
+to someplace safer and drier!
+~
+222 9 7
+D0
+~
+~
+0 -1 22281
+D1
+~
+~
+0 -1 22286
+D2
+~
+~
+0 -1 22283
+D3
+~
+~
+0 -1 22248
+Z3
+C-1
+S
+#22283
+The Courtyard~
+This was once a beautiful courtyard, but it seems as if a mighty hand has 
+removed every living thing.  Where trees and grass once fluorished, now
+there is only parched earth.
+~
+222 9 0
+D0
+~
+~
+0 -1 22282
+D1
+~
+~
+0 -1 22285
+D3
+~
+~
+0 -1 22284
+Z3
+C-1
+S
+#22284
+The Courtyard~
+This was once a beautiful courtyard, but it seems as if a mighty hand has 
+removed every living thing.  Where trees and grass once fluorished, now
+there is only parched earth.
+~
+222 9 0
+D0
+~
+~
+0 -1 22248
+D1
+~
+~
+0 -1 22283
+Z3
+C-1
+S
+#22285
+The Courtyard~
+This was once a beautiful courtyard, but it seems as if a mighty hand has 
+removed every living thing.  Where trees and grass once fluorished, now
+there is only parched earth.
+~
+222 9 0
+D0
+~
+~
+0 -1 22286
+D3
+~
+~
+0 -1 22283
+Z3
+C-1
+S
+#22286
+The Courtyard~
+This was once a beautiful courtyard, but it seems as if a mighty hand has 
+removed every living thing.  Where trees and grass once fluorished, now
+there is only parched earth.
+~
+222 9 0
+D0
+~
+~
+0 -1 22287
+D2
+~
+~
+0 -1 22285
+D3
+~
+~
+0 -1 22282
+Z3
+C-1
+S
+#22287
+The Courtyard~
+This was once a beautiful courtyard, but it seems as if a mighty hand has 
+removed every living thing.  Where trees and grass once fluorished, now
+there is only parched earth.
+~
+222 9 0
+D2
+~
+~
+0 -1 22286
+D3
+~
+~
+0 -1 22281
+Z3
+C-1
+S
+#22288
+In The Star~
+It is very dark here.  You can barely see a few feet in front of your face.
+In the distance, you think you make out the walls of this room, shaped
+roughly like a large star.  The floor glows softly, but the light doesn't seem
+to light the room.
+~
+222 9 0
+D0
+~
+~
+0 -1 22289
+D2
+~
+~
+0 -1 22275
+Z3
+C-1
+S
+#22289
+In The Star~
+It is very dark here.  You can barely see a few feet in front of your face.
+In the distance, you think you make out the walls of this room, shaped
+roughly like a large star.  The floor glows softly, but the light doesn't seem
+to light the room.
+~
+222 9 0
+D0
+~
+~
+0 -1 22292
+D1
+~
+~
+0 -1 22294
+D2
+~
+~
+0 -1 22288
+D3
+~
+~
+0 -1 22290
+Z3
+C-1
+S
+#22290
+In The Star~
+It is very dark here.  You can barely see a few feet in front of your face.
+In the distance, you think you make out the walls of this room, shaped
+roughly like a large star.  The floor glows softly, but the light doesn't seem
+to light the room.
+~
+222 9 0
+D1
+~
+~
+0 -1 22289
+D3
+~
+~
+0 -1 22291
+Z3
+C-1
+S
+#22291
+In The Star~
+You are standing at the end of one of the points of a great star.  The room is
+exceedingly dark, you can barely see a few feet in front of your face.  In
+the distance you think you can make out the other arms of the star.  You
+hear the murmurings of many large beasts.
+~
+222 9 0
+D1
+~
+~
+0 -1 22290
+Z3
+C-1
+S
+#22292
+In The Star~
+It is very dark here.  You can barely see a few feet in front of your face.
+In the distance, you think you make out the walls of this room, shaped
+roughly like a large star.  The floor glows softly, but the light doesn't seem
+to light the room.
+~
+222 9 0
+D0
+~
+~
+0 -1 22293
+D2
+~
+~
+0 -1 22289
+Z3
+C-1
+S
+#22293
+In The Star~
+You are standing at the end of one of the points of a great star.  The room is
+exceedingly dark, you can barely see a few feet in front of your face.  In
+the distance you think you can make out the other arms of the star.  You
+hear the murmurings of many large beasts.
+~
+222 9 0
+D2
+~
+~
+0 -1 22292
+Z3
+C-1
+S
+#22294
+In The Star~
+It is very dark here.  You can barely see a few feet in front of your face.
+In the distance, you think you make out the walls of this room, shaped
+roughly like a large star.  The floor glows softly, but the light doesn't seem
+to light the room.
+~
+222 9 0
+D1
+~
+~
+0 -1 22295
+D3
+~
+~
+0 -1 22289
+Z3
+C-1
+S
+#22295
+In The Star~
+You are standing at the end of one of the points of a great star.  The room is
+exceedingly dark, you can barely see a few feet in front of your face.  In
+the distance you think you can make out the other arms of the star.  You
+hear the murmurings of many large beasts.
+~
+222 9 0
+D3
+~
+~
+0 -1 22294
+Z3
+C-1
+S
+#22298
+EQ Pickup room from 22299~
+Stuff drops here from 22299 from quest mobs that maim etc..
+~
+222 0 1
+Z3
+C-1
+S
+#22299
+In the pit.~
+  You stand in a pit, 20 feet or so deep. All around you are {CYAN}skeletons{cyan} of
+brave warriors who have given their lives before you in this very place.
+Rotating your head, you notice there are patches of dried {RED,BOLD}blood{red,bold} splattered
+along the wall, you notice that some of seems to still be somewhat wet, and
+suddenly hear a low grown emanating from a {CYAN}dark{cyan} corner of the pit, and turn
+only to see a set of {MAGENTA,BOLD}glaring{magenta,bold} eyes staring directly at you. You draw your
+weapon from it's holster and prepare to fight.
+ 
+~
+222 256 1
+T22298
+Z3
+C-1
+S
+$~

@@ -1,0 +1,643 @@
+#41500
+reception window~
+The reception window~
+{G}The{g} {W,BO}Re{bo,w}{W}ce{w}{C,BO}pt{bo,c}{C}ion{c} {BO,C}Wi{bo,c}{W}nd{w}{BO,W}ow{bo,w} looks open.~
+~
+27 0 0 0
+41513 0 0 0
+1 1 1
+#41501
+visitor badge~
+{R}A{r} {W}V{w}{R}I{r}{W}S{w}{R}I{r}{W}T{w}{R}O{r}{W}R{w} {R}B{r}{W}A{w}{R}D{r}{W}G{w}{R}E{r}~
+{G}You see{g} {R}A{r} {W}V{w}{R}I{r}{W}S{w}{R}I{r}{W}T{w}{R}O{r}{W}R{w} {R}B{r}{W}A{w}{R}D{r}{W}G{w}{R}E{r} lying here.~
+~
+18 8454145 32 65537
+90 0 0 0
+1 0 0
+E
+visitor badge~
+
+    {W}_________________________________________{w}
+   {W}|{w}           {R}___  __ ___ _____  __    _{r}   {W}|{w}
+   {W}|{w} {R}\      /   |  /    |    |   /  \  / \ {r} {W}|{w}
+   {W}|{w} {R} \    /    |   \   |    |  |    | |_/{r}  {W}|{w}
+   {W}|{w} {R}   \/     _|_ _/  _|_   |   \__/  | \{r}  {W}|{w}
+   {W}|________________________________________|{w}
+~
+#41502
+master key ring~
+{C} the Master key ring{c}~
+{C}You see a Master key ring lying here.{c}~
+~
+18 65536 0 1
+0 0 0 0
+1 1 1
+E
+master key ring~
+
+    {C}  ___ {c}
+    {C} / _ \_________________________{c}
+    {C}| |_| _______    __    ___    _|{c}
+    {C} \___/       |__| _|  |_  |  |{c}
+    {C}                 |_    _| |__|{c}
+    {C}                   |__|{c}
+      
+      {C,BO}This key looks like it will open 
+   any lock in this building! Almost any.
+~
+#41503
+planner appointment book~
+{M}an appointment planner{m}~
+{M}An appointment planner waiting to be filled is here.{m}~
+~
+1 3 0 16793601
+-1 -1 -1 2
+5 1 1
+E
+planner appointment book~
+
+    {C}________________________________{c}
+   {C}| Mon | Tues | Wed | Thurs | Fri |{c}
+   {C}|--------------------------------|{c}
+   {C}|     |      |     |       |     |{c}
+   {C}|_____|______|__x__|___xxx_|_xxx_|{c}
+   {C}| xx  |      |     |       |     |{c}
+   {C}|_xxx_|__xxx_|__x__|_______|_____|{c} 
+   {C}|     |      |     |       |     |{c}
+   {C}|_____|_xxxx_|__x__|_xxxxx_|__xx_|{c}
+   {C}|     |      |     |       |     |{c}
+   {C}|_XX__|_XxxX |_____|__xxXXX|_____|{c}             
+   {C}|                                |{c}
+   {C}|  *NOTHING BEFORE 12:00 NOON*   |{c}
+   {C}|________________________________|{c}
+~
+A
+4 5
+A
+3 5
+#41504
+bucket five gallon~
+A large Blue bucket~
+A large Blue bucket rests here.~
+~
+17 12641 0 16385
+250 200 200 200
+100 100 100
+E
+water mop bucket~
+   {C}This looks li{c}{C,BO}ke your typical mop buck{c,bo}{C}et. Old,{c}
+   {C}leaky, and full{c} {BO,C}of some truly god{c,bo}{C} awful, filthy,{c}
+   {C}stinky liquid, Better wa{c}{BO,C}sh it {bo,c}{C}out thoroughly{c}
+             {C}before drinking from it.{c}
+
+~
+A
+10 -10
+A
+10 -10
+#41505
+prescription pad~
+{C,BO}a {C,BO}prescription{c,bo} {C}pad{c}~
+{C,BO}a {C,BO}prescription{c,bo} {C}pad{c} is tucked away over somewhere.~
+~
+1 16451 32 16793601
+-1 -1 -1 4
+5 25000 1
+E
+prescription pad~
+
+   {C,BO} ____________________________________{bo,c}
+   {C,BO}|                                    |{bo,c}
+   {C,BO}|            {C}PRESCRIPTION{c}            {C,BO}|{bo,c} 
+   {BO,C}|                                    |{bo,c}
+   {C,BO}|     {C}Seroquel 25mg b.i.d.{c}           {C,BO}|{bo,c}
+   {C,BO}|     {C}Adderall XR 36mg{c}               {C,BO}|{bo,c}
+   {C,BO}|                                    |{bo,c}
+   {C,BO}|                                    |{bo,c}
+   {C,BO}|                                    |{c,bo}
+   {C,BO}| {C}For mom: a shot of whiskey PRN{c}     {C,BO}|{c,bo}         
+   {C,BO}|____________________________________|{bo,c}
+~
+A
+12 75
+A
+17 -25
+B
+2097160
+G
+25
+#41506
+hypo needle shot~
+{W,BO}a hypo-dermic needle{bo,w}~
+{W,BO}A hypo-dermic needle{bo,w} {W}is stuck into the floor here.{w}~
+~
+5 2684393474 32 24577
+3 6 7 11
+1 1 1
+E
+hypo needle shot~
+
+   {W,BO}|___       ______________
+   |   |_____|_______       \
+   |    _____|_______|       >---------
+   |___|     |______________/ 
+   |{bo,w}
+~
+A
+19 5
+A
+18 5
+B
+536870912
+L
+75
+C
+7000 5
+G
+90
+M
+35
+#41507
+id badge~
+{W}an{w} {BO,Y}F.{bo,y}{BO,G}H.{bo,g} {W}ID Badge{w}~
+{W}An{w} {BO,Y}F.{bo,y}{BO,G}H.{bo,g} {W}ID Badge is hanging here.{w}~
+~
+9 2147483649 32 2053
+12 7000 0 0
+10 35000 1
+A
+19 4
+A
+18 4
+B
+67108992
+C
+7000 5
+G
+75
+#41508
+Tee shirt~
+{BLU,BO}a tee shirt{blu,bo}~
+{BLU,BO}a{blu,bo} {BO,G}Friendship{bo,g} {BO,Y}House{bo,y} {BLU,BO}tee shirt has been discarded here.{blu,bo}~
+~
+9 2147487936 0 1033
+25 7000 0 0
+10 50000 1
+E
+Tee shirt~
+
+   {BO,G}A{bo,g} {BO,Y}crumpled{bo,y} {BO,G}old{bo,g} {BO,Y}Tee-Shirt{bo,y}
+   {BO,G}with{bo,g} {BO,Y}FRIENDSHIP HOUSE{bo,y} {BO,G}worn{bo,g} 
+   {BO,Y}nearly{bo,y} {BO,G}clean{bo,g} {BO,Y}away{bo,y} {BO,G}on{bo,g} {BO,Y}it.{bo,y}
+
+~
+A
+17 -10
+A
+13 45
+B
+134218240
+L
+75
+C
+7000 2
+#41509
+conference table olive~
+{C}an{c} {Y}olive{y} {C}wood table{c}~
+{C}An{c} {Y}olive{y} {C}wood table is here glowing softly.{c}~
+~
+12 3 0 1
+0 0 0 0
+12000 1 1
+E
+conference table olive~
+
+   {C}Here is a beautiful example of true craftmenship.{c}
+   {C}This table has been constructed of high quality{c}
+   {Y}Olive{y} {C}wood. It seems to be emitting a pure healing{c}
+   {C}aura.{c} {W}Go ahead and take a break. Your safe.{w} 
+
+~
+E
+conference table olive~
+
+   {C}Here is a beautiful example of true craftmanship.
+   This table has been constructed of high quality
+   {Y}Olive {C}wood. It seems to be emitting a pure healing
+   aura. {W}Go ahead and take a break. Your safe here.{w} 
+   
+~
+#41510
+dodgeball ball~
+{R}a harmless little{r} {R,BO}dodgeball{bo,r}~
+{R}You see a harmless little{r} {R,BO}dodgeball{bo,r} {R}resting here.{r}~
+~
+5 2147488256 0 8193
+2 6 6 6
+9 10000 0
+E
+dodgeball ball~
+
+                           
+    {R,BO}                              ,o888888o.     
+                               . 8888 8888`88.   
+                              ,8 8888 8888 8`8b  
+                              88 8888 8888 8 `8b 
+                              88 8888 8888 8  88 
+                              88 8888 8888 8  88 
+                              88 8888 8888 8 ,8P 
+                              `8 8888 8888 8,8P  
+                               ` 8888 8888,88'   
+                                  `8888888P'    {r,bo}
+                                
+
+
+~
+A
+18 6
+A
+19 4
+B
+33554432
+L
+75
+C
+7000 2
+#41511
+change purse~
+{C,BO}a little{c,bo} {M,BO}change{m,bo} {G,BO}purse{c,bo}~
+{W,BO}You see{bo,w} {C,BO}a little{c,bo} {M,BO}change{m,bo} {G,BO}purse{c,bo} {W,BO}busting at the seems.{bo,w}~
+]{red}~
+15 6291456 0 1845510145
+350 0 0 0
+10 25922 10000
+#41512
+lock box~
+{W}a plain lock box{w}~
+{W}You see a plain{w} {BO,W}lock box{bo,w} {W}bolted to the floor here.{w}~
+~
+15 0 0 0
+10000 15 41513 0
+1000 1 1
+E
+lock box~
+
+
+     
+         {W}_________{w}
+       {W} /\____''___\{w}
+       {W}| /    ``   /{w}
+       {W}`. ())oo() .{w}
+        {W}|\(%()*^^()^\{w}
+       {W}%| |-%-------|{w}
+      {W}% \ | %{w}  {Y,BO}F{bo,y}{BO,G}H{bo,g}   {W}|{w}
+      {W}%  \|%________|{w}
+       {W}%%%%{w}
+
+~
+#41513
+plain key~
+{W}a plain white key{w}~
+{W}You see a{w} {W,BO}plain white{w,bo} {W}key lying here.{w}~
+~
+18 0 0 1
+0 0 0 1
+1 1 1
+E
+plain key~
+
+     
+        {W,BO}ad8888888888ba
+      /dP'         `"8b,
+     8  ,aaa,       "Y888a     ,aaaa,     ,aaa,  ,aa,
+     8  8' `8           "88baadP""""YbaaadP"""YbdP""Yb
+     8  8   8              """        """      ""    8b
+     8  8, ,8         ,aaaaaaaaaaaaaaaaaaaaaaaaddddd88P
+     8  `"""'       ,d8""
+      Yb,         ,ad8"    
+      "Y8888888888P"{bo,w}
+
+~
+#41514
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#41515
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#41516
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#41517
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#41518
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#41519
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#41520
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#41521
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#41522
+silmaril~
+{W,BO}The la{C}st Silma{W}ril{w,bo}~
+{W,BO}The la{C}st Silma{W}ril{w,bo}~
+~
+1 0 0 16385
+-1 -1 -1 1
+1 1 1
+A
+17 -100
+A
+17 -100
+M
+107
+#41523
+desert sand godtoy~
+{Y}A {C}Pearl {Y}of {C}Desert {Y}Sand{y}~
+you {bo}{C}see per{Y}fect grai{C}ns of des{Y}ert san{C}d scat{Y}tered a{C}bout{c}~
+~
+9 16777216 0 67100671
+100 0 0 0
+1 1 1
+A
+18 100
+A
+18 100
+B
+128
+C
+7000 1
+M
+107
+#41524
+Tiara Silmarillien godtoy~
+{C}a pie{c}{C,BO}ce{bo,c} {W}of{w} {W,BO}Fea{bo,w}{W}no{w}{C,BO}r's p{c,bo}{C}ride{c}~
+{C}This w{c}{C,BO}onder i{bo,c}{W}s too{w}{W,BO} beautifu{bo,w}{W}l for th{w}{BO,C}e word's{bo,c} {C}of men.{c}~
+~
+9 16777536 1024 17
+100 0 0 0
+1 1 1
+E
+Tiara Silmarillien godtoy~
+
+   {C,BO}Set apon a tiara of true silver, is the 
+   madness of Feanor. A jewel so perfect, so
+   brillant, so magnificant that wars were 
+   waged and continents broken a sunder.{bo,c}
+             
+                     {BO,W}|
+                \    |    /
+                  \  |  /    
+            ________\|/_________
+                    /|\
+                  /  |  \
+                /    |    \
+                     |{bo,w}
+
+~
+E
+silmaril~
+
+                     {BO,W}|
+                \    |    /
+                  \  |  /    
+            ________\|/_________
+                    /|\
+                  /  |  \
+                /    |    \
+                     |{bo,w}
+   
+   {C}This je{C,BO}wel is{W} so cle{C,BO}ar and pe{bo,c}{C}rfect{c}
+    {C,BO}You ca{W}n see to{w}{W,BO}day{W}, yesterd{C,BO}ay and{bo,c}
+        {C}Tomo{C,BO}rro{W}w in i{BO,C}t's de{bo,c}{C}pths.{c}
+~
+A
+28 12
+A
+17 -100
+B
+68157606
+C
+7000 1
+M
+107
+#41525
+Sword chief godtoy~
+{C}the sw{c}{Y}ord of y{y}{C}our fath{c}{Y}ers'{y}~
+{C}Laying h{c}{Y}ere is{y} {C}the sw{c}{Y}ord of y{y}{C}our fath{c}{Y}ers'{y}~
+~
+5 134222176 1280 24577
+3 20 20 9
+1 1 1
+E
+Sword chief godtoy~
+
+   {C}This sword takes{c}{Y} on the character{y}{C}istics of it's {c}{Y}owner.
+   As long as t{y}{C}he Chieftess{c} {W,BO}Nomad{bo,w} {C}lives it w{c}{Y}ill be both
+   as bea{y}{C}utiful as an innocent chi{c}{Y}ld, and as deadly as a{y}{C}n
+   Egyptian Asp. Beware those who tr{c}{Y}y to wield it while 
+                  she yet wal{y}{C}ks the earth.{c} 
+~
+A
+18 100
+A
+28 12
+B
+603979904
+L
+1
+C
+7000 1
+M
+107
+#41526
+desert rose ring godtoy~
+{C}a{c} {Y}desert{y} {C}rose{c}~
+{C}You see a D{c}{Y}esert R{y}{C}ose twi{c}{Y}sted in a kn{y}{C}ot here{c}~
+~
+9 67109185 1280 67002335
+100 7000 0 0
+1 1 1
+E
+ring desert rose~
+
+   {C}There is a bea{c}{Y}utiful Desert Ro{y}{C}se here. As{c}{Y} is
+   the cu{y}{C}stom of the{c}{Y} nomads, it has {y}{C}been twiste{c}{Y}d
+   into a kn{y}{C}ot. As such it c{c}{Y}an be worn as{y}{C} a ring.
+   Only th{y}{C}e most perfect and h{c}{Y}ardy roses ca{y}{C}n be
+   used fo{c}{Y}r the ruling f{y}{C}amily.{c}
+~
+A
+19 100
+A
+19 100
+B
+1862803602
+C
+7000 1
+M
+50
+#41527
+cheiftan staff godtoy~
+{C}The s{c}{Y}taff of{y}{C} the t{c}{Y}rue l{y}{C}eader.{c}~
+{C}The s{c}{Y}taff of{y}{C} the t{c}{Y}rue l{y}{C}eader{c}{Y} is flo{y}{C}ating ab{c}{Y}out the sands.{y}~
+~
+5 4129 1280 24577
+3 20 20 7
+1 1 1
+E
+cheiftan staff godtoy~
+
+   {Y}This beaut{y}{C}iful yet powerful sta{c}{Y}ff has been the
+   possessi{y}{C}on of the ruli{c}{Y}ng family for cent{y}{C}uries.
+   It can never break. A{c}{Y}nyone hit by it will m{y}{C}ost
+   certainly die. A{c}{Y}nd the owner has ne{y}{C}ver fallen
+   in battle.{c} 
+   
+   {Y,BO}Along the leather strapping you see the name:{bo,y}
+                     
+                     {BO,C}"BAMON"{bo,c}
+  
+
+~
+A
+19 100
+A
+18 100
+L
+1
+C
+7000 1
+M
+106
+#41528
+nomadic robes godtoy~
+{Y}Rob{y}{C}es o{c}{Y}f a Des{y}{C}ert N{c}{Y}omad{y}~
+{C,BO}You see the{bo,c} {Y}Rob{y}{C}es o{c}{Y}f a Des{y}{C}ert N{c}{Y}omad{y} {C,BO}lying here in the sand.{bo,c}~
+~
+9 16781409 9472 1025
+100 0 0 0
+1 1 1
+E
+nomadic robes godtoy~
+
+   {Y}These ro{y}{C}bes have bee{c}{Y}n handed dow{y}{C}n from chieft{c}{Y}an
+   to child {y}{C}for generation{c}{Y}s. Rema{y}{C}rkably they ha{c}{Y}ve 
+   never neede{y}{C}d repairs or even darn{c}{Y}ing. The sands
+   se{y}{C}em to swirl out of{c}{Y} the way of the wear{y}{C}er and
+   form again b{c}{Y}ehind them. Power{y}{C} flows from thes{c}{Y}e
+   robes a{y}{C}nd into the wear{c}{Y}er, then back again.{y}
+~
+E
+{Y}Noma{y}{C}dic Ro{c{{Y}bes{y}~
+
+   {Y}These ro{y}{C}bes have bee{c}{Y}n handed dow{y}{C}n from chieft{c}{Y}an
+   to child {y}{C}for generation{c}{Y}s. Rema{y}{C}rkably they ha{c}{Y}ve 
+   never neede{y}{C}d repairs or even darn{c}{Y}ing. The sands
+   se{y}{C}em to swirl out of{c}{Y} the way of the wear{y}{C}er and
+   form again b{c}{Y}ehind them. Power{y}{C} flows from thes{c}{Y}e
+   robes a{y}{C}nd into the wear{c}{Y}er, then back again.{y}
+
+~
+A
+19 100
+A
+18 100
+B
+907051138
+C
+7000 1
+M
+106
+#41529
+insignia faithful FM~
+{C}Wings of the{c} {BO,Y}FAITHFUL{bo,y}~
+{C}The shredded wings of a faithful{c} {BO,Y}Angel{bo,y} {C}hover here.{c}~
+~
+13 139266 0 65537
+0 0 0 0
+1 1 1
+E
+insignia faithful FM~
+
+
+     {W,BO}\                  /
+      \    {Y} _____{W}      /
+      \\\  {Y}(_____){W}   /// 
+      \\\\          ////
+        \\\  {C}_{W}      ///
+         \\{C}|_ |\/|{W}//
+         //{C}|  |  |{W}\\
+       ///   / \   \\\
+     ////  //   \\  \\\\
+     ///  ///   \\\  \\\
+     // /////   \\\\\ \\
+     /  //         \\  \
+    /   /           \   \
+       /             \{w,bo}
+
+~
+E
+insignia faithful FM~
+
+  {BO,W}\                  {BO,W}/{bo,w}
+   {BO,W}\{bo,w}     {BO,Y}_____{bo,y}      {BO,W}/{bo,w}
+   {BO,W}\\\{bo,w}  {BO,Y}(_____){bo,y}   {BO,W}///{bo,w} 
+   {BO,W}\\\\          ////{bo,w}
+    {BO,W}\\\{bo,w}  {C}_{c}      {BO,W}///{bo,w}
+      {BO,W}\\{bo,w}{C}|_ |\/|{c}{BO,W}//{bo,w}
+      {BO,W}//{bo,w}{C}|  |  |{c}{BO,W}\\{bo,w}
+    {BO,W}///   / \   \\\{bo,w}
+  {BO,W}////  //   \\  \\\\{bo,w}
+  {BO,W}///  ///   \\\  \\\{bo,w}
+  {BO,W}// /////   \\\\\ \\{bo,w}
+  {BO,W}/  //         \\  \{bo,w}
+ {BO,W}/   /           \   \{bo,w}
+    {BO,W}/             \{bo,w}
+~
+$~

@@ -1,0 +1,2700 @@
+#16500
+{Y,BO}Outside the {y,bo}{B,BO}D-District Prison{b,bo}~
+{Y}
+  You stand before a huge metal tower in the
+  middle of the desert.  The building here
+  blocks much of the wind blowing across the
+  dunes.  As you examine the tower, you notice
+  a closed hatch to the north, leading into the
+  building.
+{y}
+~
+165 80 2
+D0
+~
+hatch door~
+1 -1 16590
+D1
+~
+~
+0 -1 30796
+Z2
+C-1
+S
+#16501
+{C}Deling City - Station Yard{c}~
+{C}
+  When you exit from the train, you step onto a long
+  platform running alongside train tracks on both
+  sides of you.  You notice that the station is well
+  illuminated by rows and rows of fluorescent lights
+  hung from the ceiling.  While the station appears
+  as though it could easily hold hundreds of people
+  going to and from the city by train, it now looks
+  like the only passengers at the station are from
+  the train you rode to get here.
+
+  To the north, you spot an escalator leading out of
+  the train station.
+{c}
+~
+165 8 0
+D0
+{C}
+
+  To the north, an escalator leads you out of the
+  train station into the city.
+{c}
+~
+~
+0 -1 16502
+Z-1
+C-1
+S
+#16502
+{W,BO}Deling City - Station Lobby{w,bo}~
+{W,BO}
+  The Lobby above the tracks appears to be a fairly
+  clean and well maintained place.  Train schedules
+  are posted above benches that line the walls of
+  the station.  An exposed wall serving as the north
+  entrance to the station offers an excellent view
+  overlooking the main street of the city.
+{w,bo}
+~
+165 0 1
+D0
+{M}
+  As you gaze over the streets of the city, a huge
+  arch in the middle of the city immediatly grabs
+  your attention.  It appears well lit with torches
+  illuminating the carvings of massive stone
+  creatures.
+{m}
+~
+~
+0 -1 16503
+D2
+{C}
+  A long escalador leads down into where the trains
+  arrive and depart from.
+{c}
+~
+~
+0 -1 16501
+Z-1
+C-1
+S
+#16503
+{BLA,BO}Deling City Road{bla,bo}~
+{M}
+  This small road runs in between the main street
+  of the city and the Deling City station.  To the
+  west, the road continues and curves leading
+  outside the city.
+{m}
+~
+165 0 1
+D0
+{M}
+  Main street is directly to the north, it
+  runs underneath a huge arch clearly visible
+  from anywhere in the city.
+{m}
+~
+~
+0 -1 16507
+D2
+{W,BO}
+  To the south, you see a the upper lobby of the train
+  station, clearly visible through an exposed wall
+  which serves as the enterance.
+{w,bo}
+~
+~
+0 -1 16502
+D3
+{M}
+  Deling City Road continues to the west.
+{m}
+~
+~
+0 -1 16504
+Z-1
+C-1
+S
+#16504
+{BLA,BO}Deling City Road{bla,bo}~
+{M}
+  This wide, clean road curves around a large
+  building which appears to be an underground
+  train station.  To the south, the road
+  continues to lead outside of the city.
+{m}
+~
+165 0 1
+D0
+~
+~
+0 -1 16512
+D1
+~
+~
+0 -1 16503
+D2
+~
+~
+0 -1 16505
+Z5
+C-1
+S
+#16505
+{BLA,BO}Deling City Road{bla,bo}~
+{M}
+  As you walk along the road leading out of
+  Deling city, the {BO}flashing neon lights {bo}{M}of a
+  car rental shop catches your attention.  As
+  you begin to walk towards the shop, you notice
+  the office looks like it's closed.  Oh well,
+  some other time then.
+
+  The road runs from north to south, with south
+  leading directly out of the city.
+{m}
+~
+165 1028 1
+D0
+{BLA,BO}
+  The road to the north leads to Deling City road,
+  which bends around the southwest corner of the
+  city.
+{bla,bo}
+~
+~
+0 -1 16504
+D2
+{W,BO}
+  The road to the south leads directly out Deling
+  City into a sea of grasslands.
+{w,bo}
+~
+~
+0 -1 30801
+Z5
+C-1
+S
+#16506
+{BLU,BO}Deling City - Item Shop{blu,bo}~
+{M}
+  The Deling City Item Shop is actually quite
+  small.  A Merchant sits behind the counter
+  here, selling a few types of powerful
+  potions.  The street exit is to the east.
+{m}
+~
+165 8332 1
+D1
+~
+~
+0 -1 16518
+Z-1
+C2
+S
+#16507
+{R}Deling City - Main Street{r}~
+{M}
+  You stand in the middle of the south end of
+  main street.  The occasional pedestrian, car,
+  or uniformed military officer pass you by
+  without paying you any heed.  Main street
+  continues to the north, while Deling City
+  road bends around the southwest.  You also
+  notice that there are wider, more heavily
+  traversed roads to the east which appear
+  to lead to the commercial district.
+{m}
+~
+165 0 1
+D0
+{M}
+  Main street continues to the north, eventually
+  leading through a very large arch in the middle
+  of the city.
+{m}
+~
+~
+0 -1 16508
+D1
+{C}
+  A wide, heavilly traversed road leads east
+  into the commerical district of Deling city.
+{c}
+~
+~
+0 -1 16520
+D2
+{BLA,BO}
+  Deling City road lies directly to the south.  The
+  train station and the road out of town are clearly
+  visible.
+{bla,bo}
+~
+~
+0 -1 16503
+D3
+{BLA,BO}
+  The western end of Deling City road lies to the
+  west.  You can exit the city or walk along
+  the west side streets of the city.
+{bla,bo}
+~
+~
+0 -1 16504
+Z-1
+C-1
+S
+#16508
+{R}Deling City - Main Street{r}~
+{R}
+  This road is relatively calm for being the
+  main street of the city.  The occasional car,
+  bus, or pedestrian passes you by, but
+  traffic is pretty minimal here.  A huge
+  stone arch looms over the street to the
+  north, eventually leading to the gates of
+  the Presidential palace.
+{r}
+~
+165 0 1
+D0
+{Y}
+  There is a gate to the north under a gigantic
+  stone arch that rests over main street.  It
+  is ingraved deep with images of very odd
+  looking beasts.
+{y}
+~
+gate~
+1 -1 16509
+D2
+{M}
+  Main street continues south, leading into
+  a junction for the rest of the main roads
+  of the city.
+{m}
+~
+~
+0 -1 16507
+Z-1
+C-1
+S
+#16509
+{Y}Under the Gate{y}~
+{Y}
+  As you pass under this massive stone gate,
+  you notice the stone engravings of ancient
+  Galbadian warriors carved into both sides
+  of the Arch.  On both sides of the arch,
+  you cannot help but notice the sharp points
+  of the bottom of the gates looming over
+  each and every citizen, bus, and traveller
+  passing underneath the arch.
+{y}
+~
+165 1036 1
+D0
+{R}
+  The jagged daggers which make up the bottom
+  of the gate loom over those passing below
+  the arch from main street to the north.
+{r}
+~
+gate~
+1 -1 16510
+D1
+{Y}
+  There is a door to the east that appears
+  to lead to some sort of utility control
+  station engraved into the archway.
+{y}
+~
+door~
+1 -1 16521
+D2
+{R}
+  The jagged edges of the gate loom over
+  those passing through here from main street
+  to the south.
+{r}
+~
+gate~
+1 -1 16508
+Z-1
+C-1
+S
+#16510
+{R}Deling City - Main Street{r}~
+{R}
+  Main street is a relatively calm place for
+  being the primary road of a bustling center
+  of commerce like Deling City.  A massive
+  double-gated arch looms over the busses and
+  pedestrians that pass underneath.  An
+  elegant park is visible to the east, and
+  the presidential avenue is to the north.
+{r}
+~
+165 0 1
+D0
+{C}
+  To the north, you see that main street ends at
+  the gates of the Presidential Palace.
+{c}
+~
+~
+0 -1 16511
+D2
+{Y}
+  To the south, you see the massive gates hanging
+  over a massive stone arch.
+{y}
+~
+gate~
+1 -1 16509
+D3
+{G}
+  The path to the west leads into Deling City
+  Park.
+{g}
+~
+~
+0 -1 16513
+Z-1
+C-1
+S
+#16511
+{C}Presidential Lane{c}~
+{C}
+  The road that runs in front of the Presidential
+  Palace happens to be an intersection for the
+  main streets of the city.  The roads and side-
+  walks are very wide here, apparently so the
+  President can address his citizens from a
+  podium clearly visible to the people below on
+  the street.
+{c}
+~
+165 0 1
+D0
+{C}
+  Upon closer examination of the gate to the
+  north, you conclude that opening the gate
+  to the palace would be no simple task.
+  This Mythril Reinforced gate is being
+  protected by many locks, some mundane, some
+  magic.
+{c}
+~
+gate~
+2 16599 16549
+D1
+{M,BO}
+  The road to the east leads into the commercial
+  district of the city.  Bright lights are very
+  visible from this part of the city, with
+  the various merchants of the city competing
+  at the highest level for your attention.
+{m,bo}
+~
+~
+0 -1 16518
+D2
+{M}
+  The road to the south is the main street of Deling
+  City.  It runs underneath a huge stone arch in the
+  center of the city.
+{m}
+~
+~
+0 -1 16510
+D3
+{BLA,BO}
+  The street to the west turns into Caraway
+  lane, the road that runs past a large mansion
+  on the western end of the city.
+{bla,bo}
+~
+~
+0 -1 16512
+Z-1
+C-1
+S
+#16512
+{M}Deling City - Caraway Lane{m}~
+{BLA,BO}
+  The main street on the western side of the
+  city runs from Deling City Road to the south
+  to the Presidential lane to the north.  There
+  is a path leading through a small park to the
+  east, and the gate to an impressive mansion
+  to the west.
+{bla,bo}
+~
+165 0 1
+D0
+{C}
+  The street bends northeast to eventually reach
+  the presidential palace.
+{c}
+~
+~
+0 -1 16511
+D1
+{G}
+  There is a path leading east through Deling
+  City park.
+{g}
+~
+~
+0 -1 16513
+D2
+{BLA,BO}
+  The street leads south into Deling City road
+  which leads either to the train station or
+  out of the city.
+{bla,bo}
+~
+~
+0 -1 16504
+D3
+{W,BO}
+  There is a gate here blocking the lane leading
+  into a large mansion.  Over the top of the gate,
+  there is a sign with the name "CARAWAY" on it.
+{w,bo}
+~
+gate~
+1 -1 16514
+Z-1
+C-1
+S
+#16513
+{G}Strolling through Deling Park{g}~
+{G}
+  As you walk along the path leading through
+  Deling City park, you pass by several artifical
+  ponds and streams.  Little gardens of flowers
+  adorn the elegant, yet confined city park.
+{g}
+~
+165 4 2
+D1
+{R}
+  To the east, you see the wide, paved streets of
+  Main street with the massive gateway looming
+  over everything.
+{r}
+~
+~
+0 -1 16510
+D3
+{BLA,BO}
+  To the east, you see Caraway Lane.
+{bla,bo}
+~
+~
+0 -1 16512
+Z-1
+C-1
+S
+#16514
+{C}Outside the General's Mansion{c}~
+{C,BO}
+  The yard outside of Caraway Mansion is
+  actually surprisingly small.  A few exotic
+  plants adorn the yard outside, but a large
+  garden is obviously not the most important
+  thing to occupants of the mansion.  A door
+  to the west leads directly into the
+  mansion.
+{c,bo}
+~
+165 0 1
+D1
+{BLA,BO}
+  To the east, you see the wide streets of Caraway
+  Lane, with Deling City park in the distance.
+{bla,bo}
+~
+gate~
+1 -1 16512
+D3
+{Y}
+  An old oak door blocks your way into
+  the mansion.  After closer examination
+  of the door, you conclude that the lock
+  is indeed sturdy, but not infallable.
+{y}
+~
+door oak~
+1 -1 16515
+Z-1
+C-1
+S
+#16515
+{C}Caraway Mansion{c}~
+{C}
+  Caraway Mansion appears fairly typical of people
+  with all too much money to spend.  From the fine
+  art being displayed everywhere in the house to
+  the crystal chandelier hanging from the
+  cathedral ceiling, it is clear the owners are
+  among the wealthiest in the city.  To the north,
+  the door to what appears to be an office is wide
+  open.
+{c}
+~
+165 8 0
+D0
+{C}
+  Peering into the next room, you conclude
+  that this must be the Caraways office.
+{c}
+~
+door~
+1 -1 16517
+D1
+{W,BO}
+  The front door is to the east.
+{w,bo}
+~
+door oak~
+1 -1 16514
+Z-1
+C-1
+S
+#16516
+{R,BO}Den of Spies{r,bo}~
+{R}
+  This small room behind the throne must be where
+  Shoju gathers all of his information to make the
+  decisions that move empires.  A board along one
+  wall mirrors the wizard's bulletin board of the
+  immortal realms.  There are also portals along
+  various points in the room, leading to other
+  relevant locations in the realm.
+{r}
+~
+165 73736 0
+D0
+{R}
+  The portal to the north leads to the throne
+  room of the Lord of Scorpions.
+{r}
+~
+seal magic~
+4 16599 16599
+D1
+~
+~
+0 -1 16501
+D2
+~
+~
+0 -1 49800
+D3
+~
+~
+0 -1 37896
+D4
+{W}
+  Through a portal above you, you see the
+  blinding light of the immortal realms.
+{w}
+~
+~
+0 -1 2006
+D5
+{C}
+  Through a portal below you, you see the
+  elegant halls of the Flying Maverik's
+  communication wing.
+{c}
+~
+~
+0 -1 528
+M51
+Z-1
+C-1
+S
+#16517
+{W,BO}Caraway's Office{w,bo}~
+{C}
+  General Caraway's office is quite large.
+  On one side of the room, a large couch
+  surrounded by several cushioned chairs
+  sits by the windows.  At the other end of
+  the room, a massive oak desk sits beside
+  a private library.  A porcelain bust sits
+  against the west wall, it's pure milky
+  white eyes staring sightlessly over the
+  room.
+{c}
+~
+165 16392 0
+D2
+{C}
+  The door to the south leads back into
+  the rest of the mansion.
+{C}
+~
+door~
+1 -1 16515
+D3
+{W,BO}
+  On the western side of the wall, a
+  porcelain bust stares sightlessly over
+  Caraway's office.  There is something
+  fishy about this statue...
+{w,bo}
+~
+bust statue secret~
+3 -1 16526
+Z-1
+C-1
+S
+#16518
+{M}Deling City - Eastern Road{m}~
+{C}
+  The eastern road is probably the brightest
+  section in the city with all of the street
+  lights, glowing store signs, and bright
+  advertisements.  Traffic is heavy here,
+  with busses, people, and cars all making
+  their way through the downtown.  The road
+  runs north to south with shops on both
+  sides of the road.
+{c}
+~
+165 0 1
+D0
+{C}
+  The road continues to the northwest, it bends
+  around the item shop of the city eventually
+  reaching the Lane in front of the Presidential
+  Palace.
+{c}
+~
+~
+0 -1 16511
+D1
+{R}
+  The Deling City Weapon Shop is to the
+  east, it's glowing sign informing you
+  that they are indeed open.
+{r}
+~
+~
+0 -1 16525
+D2
+{C}
+  The Eastern road continues south through
+  Deling city downtown.
+{c}
+~
+~
+0 -1 16519
+D3
+~
+~
+0 -1 16506
+Z-1
+C-1
+S
+#16519
+{M}Deling City - Eastern Road{m}~
+{C}
+  The commercial district of Deling city is
+  a bustling place indeed.  People, cars, and
+  busses pass by in large numbers going to
+  one place or another.  The Deling city
+  hotel is to the west, and the street
+  continues north to south.
+{c}
+~
+165 0 1
+D0
+~
+~
+0 -1 16518
+D2
+{C}
+  The road continues to the south out of
+  the commercial district.
+{c}
+~
+~
+0 -1 16520
+D3
+~
+~
+0 -1 16523
+Z-1
+C-1
+S
+#16520
+{M}Deling City - Eastern Road{m}~
+{C}
+  The eastern road of Deling city is definitely
+  one of the busiest locations in the city.  A
+  very high volume of busses and cars go to and
+  from the commercial district of the city
+  through this road.  Main Street is to the
+  west, and the commercial district is to the
+  north.
+{c}
+~
+165 0 1
+D0
+{C}
+  To the north, the bright lights of the
+  commercial district are clearly visible.
+  Many pedestrians, cars, and busses pass
+  through this part of the street to get
+  to the commercial district.
+{c}
+~
+~
+0 -1 16519
+D3
+{R}
+  To the west, you see the wide road that is
+  main street.
+{r}
+~
+~
+0 -1 16507
+Z-1
+C-1
+S
+#16521
+{C}Deling City - Utility Station{c}~
+{C}
+  The room inside the stone archway is really
+  quite small.  On one side of the room, a row
+  of utility meters keeps track of the utility
+  use throughout the city.  At the other end
+  of the room, a ladder leads down below the
+  city into the sewers.
+{c}
+~
+165 1036 1
+D3
+{C}
+  The door to the west leads out of the station
+  and under the archway.
+{c}
+~
+door~
+1 -1 16509
+D5
+{W,BO}
+  The ladder leads down into the sewers of the
+  City.
+{w,bo}
+~
+~
+0 -1 16548
+Z-1
+C-1
+S
+#16522
+{B,BO}A Cell{b,bo}~
+{B,BO}
+  These cells house particularly radical political
+  prisoners in the D-District Prison.  The only
+  things allowed in this cell are a toilet, a
+  sink, and a mirror.  The only exit is the way
+  you came in.
+{b,bo}
+~
+165 4210856 0
+D2
+~
+cell~
+2 30722 16591
+X2
+Z-1
+C-1
+S
+#16523
+{M,BO}Deling City - Hotel{m,bo}~
+{Y}
+  The lobby of the Deling City Hotel is actually
+  very very furnished.  Expensive rugs are laid
+  out over the shiny marble floor.  A receptionist
+  sits behind a counter at the end of the lobby,
+  patiently watching you.  A staircase at one end
+  of the lobby leads down into a bar of some sort.
+{y}
+~
+165 1036 0
+D1
+~
+~
+0 -1 16519
+D4
+~
+door~
+1 30723 30899
+D5
+~
+~
+0 -1 16524
+Z-1
+C-1
+S
+#16524
+{R}The Hotel Bar{r}~
+{R}
+  The hotel bar is actually very quiet right now.
+  It's been a while since the last event here for
+  some reason.  A concert piano sits at the end
+  of the room, with numerous boothes situated
+  around it.
+{r}
+~
+165 8204 0
+D4
+~
+~
+0 -1 16523
+X2048
+Z-1
+C-1
+S
+#16525
+{R}Deling City - Weapon Shop{r}~
+{R}
+  The Deling City Weapon shop is pretty much a small
+  room with a large counter.  An old man waits behind
+  the counter, waiting for you to inquire about a
+  purchase.  The Eastern Road is to the west.
+{r}
+~
+165 8332 0
+D3
+~
+~
+0 -1 16518
+Z-1
+C2
+S
+#16526
+{BLU}A Hidden Passage{blu}~
+{B,BO}
+  It appears that you have found a hidden passage
+  in the Caraway mansion.  Cobwebs cover every-
+  thing here, sticking to your clothing as you try
+  and pass through.  Some stairs here lead down to
+  a ladder that descends deep below ground.
+{b,bo}
+~
+165 16397 0
+D1
+{C}
+  The hidden tunnel you just came through
+  is to the east, leading back into the
+  office.
+{c}
+~
+bust statue secret~
+1 -1 16517
+D5
+{BLA,BO}
+  A ladder here leads down below ground level.
+  You think you can hear the sound of running
+  water below you...
+{bla,bo}
+~
+~
+0 -1 16527
+Z9
+C-1
+S
+#16527
+{BLU,BO}The Sewers{blu,bo}~
+{BLU,BO}
+  As you reach the bottom of the ladder, you
+  find that you are in the Deling City
+  Sewers.  It doesn't smell quite a foul
+  down here as you might expect, but it
+  certainly isn't pleasant.  There is a
+  ledge that runs alongside the sewage that
+  continues to the north.
+{blu,bo}
+~
+165 264 0
+D0
+{BLU,BO}
+  The ledge you are standing on continues
+  down this tunnel to the north.
+{blu,bo}
+~
+~
+0 -1 16528
+D4
+{BLA,BO}
+  A ladder leads up into a hole in the
+  ceiling.
+{bla,bo}
+~
+~
+0 -1 16526
+T16598
+Z5
+C-1
+S
+#16528
+{BLU,BO}The Sewers{blu,bo}~
+{BLU,BO}
+  As you continue down the walkway, you take
+  a second to look back, and see an entire
+  section of the walkway crumble and fall in
+  to the sewage.  You must be the first
+  adventurer down here in years, so you had
+  better keep your wits about you.  The
+  walkway continues to the north.
+{blu,bo}
+~
+165 264 0
+D0
+{BLU,BO}
+  The walkway along the water continues to
+  the north, deeper and deeper into the
+  sewers of the city.
+{blu,bo}
+~
+~
+0 -1 16529
+T16598
+Z5
+C-1
+S
+#16529
+{BLU,BO}The Sewers{blu,bo}~
+{BLU,BO}
+  As you continue along the path beside the
+  sewage, the tunnel crosses paths with another
+  tunnel, this one running east to west.  As
+  you cross the bridge to make it to the other
+  side of the sewage, you notice the footpath
+  to the north is sealed off by a thick, steel
+  gate.  As you scan about the tunnel, looking
+  for more exits, you notice a walkway running
+  west along the north side of the tunnel.
+{blu,bo}
+~
+165 265 1
+D2
+{BLU,BO}
+  The walkway leading down the south pipe
+  appears both stable and safe.
+{blu,bo}
+~
+~
+0 -1 16528
+D3
+{BLU,BO}
+  The walkway down the west pipe appears
+  both stable and safe.
+{blu,bo}
+~
+~
+0 -1 16530
+T16598
+Z5
+C-1
+S
+#16530
+{BLU,BO}The Sewers{blu,bo}~
+{BLU,BO}
+  This ancient tunnel under Deling city
+  continues from east to west here, with
+  walkways on the north and south walls.
+  There is a piece of scrap metal placed
+  over the water, resting on both walkways
+  in the tunnel.  The metal might serve
+  as a bridge were you to try and get to
+  the south walkway in the tunnel.
+{blu,bo}
+~
+165 265 0
+D1
+{BLU,BO}
+  The walkway continues to the east, leading
+  into an intersection in the tunnels.
+{blu,bo}
+~
+~
+0 -1 16529
+D2
+{BLU,BO}
+  To the south, you see a piece of scap
+  metal propped over the walkways on both
+  sides of the sewage, serving as a bridge
+  to get to the walkway on the south side
+  of the tunnel.
+{blu,bo}
+~
+~
+0 -1 16531
+D3
+{BLU,BO}
+  The footpath continues to the west.
+{blu,bo}
+~
+~
+0 -1 16533
+T16598
+Z5
+C-1
+S
+#16531
+{BLU,BO}The Sewers{blu,bo}~
+{BLU,BO}
+  After gingerly making your way across
+  the piece of metal which served as a
+  bridge to get here, you find yourself
+  walking along the walkway which runs
+  along the south wall of the tunnel.
+  The path continues along the south
+  wall to the west.
+{blu,bo}
+~
+165 265 1
+D0
+{BLU,BO}
+  The same piece of scap metal sits over
+  both ends of the tunnel, serving as a
+  bridge to the north end.
+{blu,bo}
+~
+~
+0 -1 16530
+D3
+{BLU,BO}
+  The walkway continues to the west, in the
+  south end of the tunnel.
+{blu,bo}
+~
+~
+0 -1 16532
+T16598
+Z5
+C-1
+S
+#16532
+{BLU,BO}The Sewers{blu,bo}~
+{BLU,BO}
+  As you walk along the walkway on the
+  south side of the tunnel, it eventually
+  leads into a dead end.  Thick steel
+  gates block off anything but sewage
+  from getting through the tunnel to the
+  west.
+{blu,bo}
+~
+165 13 1
+D1
+~
+~
+0 -1 16531
+T16598
+Z5
+C-1
+S
+#16533
+{BLU,BO}The Sewers{blu,bo}~
+{BLU,BO}
+  Continuing along the north wall of the
+  tunnel, the walkway turns onto a connecting
+  tunnel to the north.
+{blu,bo}
+~
+165 33033 1
+D0
+{BLU,BO}
+  The walkway veers off to a connecting
+  tunnel to the north.  It continues for
+  as long as you can see down these dark
+  tunnels (which isn't too far).
+{blu,bo}
+~
+~
+0 -1 16534
+D1
+{BLU,BO}
+  The walkway continues east along the
+  north wall of the tunnel.
+{blu,bo}
+~
+~
+0 -1 16530
+T16598
+Z6
+C-1
+S
+#16534
+{BLU,BO}The Sewers{blu,bo}~
+{BLU,BO}
+  This walkwalk runs north-south along the
+  east wall of the tunnel.  A thick {blu,bo}{G,BO}slime{g,bo}{BLU,BO}
+  covers part of the path here making you
+  walk very gingerly as not to fall in to
+  the sewage.
+{blu,bo}
+~
+165 265 0
+D0
+{BLU,BO}
+  To the north, you notice that the path
+  veers off to the right into a connecting
+  tunnel.
+{blu,bo}
+~
+~
+0 -1 16535
+D2
+{BLU,BO}
+  The walkway continues to the south, leading to
+  a connecting east-west tunnel.
+{blu,bo}
+~
+~
+0 -1 16533
+T16598
+Z6
+C-1
+S
+#16535
+{BLU,BO}The Sewers{blu,bo}~
+{BLU,BO}
+  The walkway here veers off right into a
+  connecting tunnel.  Metal bars block the
+  south walkway in the connecting tunnel,
+  but a bridge has been built to the north
+  walkway.  It continues down the tunnel to
+  the east.
+{blu,bo}
+~
+165 265 1
+D1
+{BLU,BO}
+  The walkway continues straight down this
+  old sewage tunnel east.
+{blu,bo}
+~
+~
+0 -1 16536
+D2
+{BLU,BO}
+  The walkway continues south along the
+  east wall of the tunnel.
+{blu,bo}
+~
+~
+0 -1 16534
+T16598
+Z6
+C-1
+S
+#16536
+{BLU,BO}The Sewers{blu,bo}~
+{BLU,BO}
+  The walkway here continues straight down
+  the old tunnel to the east.  To the west,
+  a bridge is visible leading over the
+  sewage.
+{blu,bo}
+~
+165 265 0
+D1
+~
+~
+0 -1 16537
+D3
+~
+~
+0 -1 16535
+T16598
+Z6
+C-1
+S
+#16537
+{BLU,BO}The Sewers{blu,bo}~
+{BLU,BO}
+  The walkway here ends at the intersection
+  between two connecting tunnels.  However,
+  there is a bridge here that connects to
+  the walkway running along the south
+  tunnel.
+{blu,bo}
+~
+165 265 0
+D2
+{BLU,BO}
+  A bridge has been constructed here over
+  the sewage.  It leads to the south walkway
+  of the tunnel.
+{blu,bo}
+~
+~
+0 -1 16538
+D3
+{BLU,BO}
+  The walkway on the north wall runs west
+  down the tunnel.
+{blu,bo}
+~
+~
+0 -1 16536
+T16598
+Z6
+C-1
+S
+#16538
+{BLU,BO}The Sewers{blu,bo}~
+{BLU,BO}
+  The walkway here runs east-west along
+  the south wall of the tunnel.  A bridge
+  to the north leads to the walkway
+  running along the north wall of the
+  tunnel.
+{blu,bo}
+~
+165 265 0
+D0
+{BLU,BO}
+  A bridge to the north connects to the
+  walkway on the north wall of the tunnel.
+{blu,bo}
+~
+~
+0 -1 16537
+D1
+~
+~
+0 -1 16540
+D3
+~
+~
+0 -1 16539
+T16598
+Z6
+C-1
+S
+#16539
+{BLU,BO}The Sewers{blu,bo}~
+{BLU,BO}
+  The walkway here turns out to be a dead
+  end.  Thick steel gates block your way
+  from continuing west.
+{blu,bo}
+~
+165 265 0
+D1
+~
+~
+0 -1 16538
+T16598
+Z6
+C-1
+S
+#16540
+{BLU,BO}The Sewers{blu,bo}~
+{BLU,BO}
+  As you continue down the walkway, you
+  start to notice that the tunnel slopes
+  slightly down.  Not only that, but the
+  walkway is also coated in a thick
+  slime, making it quite difficult for
+  you to get much in the way of traction.
+  The tunnel continues to the south.
+{blu,bo}
+~
+165 265 0
+D2
+~
+~
+0 -1 16541
+T16598
+Z6
+C-1
+S
+#16541
+{BLU,BO}The Sewers{blu,bo}~
+{BLU,BO}
+  After continuing down the walkway, you turn
+  around to notice that backtracking will be
+  nearly impossible.  All of the slime and
+  decay covering the walkway makes walking
+  back up the sloped path quite dangerous.
+  The walkway continues on a downward slope
+  to the south.
+{blu,bo}
+~
+165 265 0
+D2
+~
+~
+0 -1 16542
+T16598
+Z6
+C-1
+S
+#16542
+{BLU,BO}The Sewers{blu,bo}~
+{BLU,BO}
+  As you continue along the walkway, the angle
+  levels out, and the grime isn't so bad.  A
+  bridge to south leads to the other end of
+  the tunnel.
+{blu,bo}
+~
+165 265 0
+D2
+~
+~
+0 -1 16543
+T16598
+Z6
+C-1
+S
+#16543
+{BLU,BO}The Sewers{blu,bo}~
+{BLU,BO}
+  The walkway here runs east to west along
+  the south wall of the tunnel.  A bridge
+  here links to the walkway running along
+  the north wall.  The walkway to the west
+  drops suddenly down to another lower
+  tunnel.
+{blu,bo}
+~
+165 265 0
+D0
+~
+~
+0 -1 16542
+D1
+~
+~
+0 -1 16544
+D3
+~
+~
+0 -1 16527
+T16598
+Z6
+C-1
+S
+#16544
+{BLU,BO}The Sewers{blu,bo}~
+{BLU,BO}
+  The walkway here runs east-west along the
+  south wall of the tunnel.  A bridge to
+  the north links to a connecting tunnel.
+{blu,bo}
+~
+165 265 0
+D0
+~
+~
+0 -1 16547
+D1
+~
+~
+0 -1 16545
+D3
+~
+~
+0 -1 16543
+T16598
+Z6
+C-1
+S
+#16545
+{BLU,BO}The Sewers{blu,bo}~
+{BLU,BO}
+  The walkway runs east-west along the south
+  wall of the tunnel.  The tunnel continues
+  for as long as the eye can see.
+{blu,bo}
+~
+165 265 0
+D1
+~
+~
+0 -1 16546
+D3
+~
+~
+0 -1 16544
+T16598
+Z6
+C-1
+S
+#16546
+{BLU,BO}The Sewers{blu,bo}~
+{BLU,BO}
+  The walkway here ends at a row of thick
+  steel bars, blocking you from continuing
+  any further down the tunnel.  However, a
+  ladder hangs against one wall, leading
+  up and out of the sewers.
+{blu,bo}
+~
+165 265 0
+D3
+~
+~
+0 -1 16545
+D4
+~
+~
+0 -1 16549
+T16598
+Z6
+C-1
+S
+#16547
+{BLU,BO}The Sewers{blu,bo}~
+{BLU,BO}
+  The walkway here runs along the west wall of
+  the tunnel.  It comes to a dead end here.
+  Blocked by a ledge, you might be able to
+  climb down from atop, but not up.  The
+  walkway continues to the north.
+{blu,bo}
+~
+165 269 0
+D0
+~
+~
+0 -1 16548
+T16598
+Z6
+C-1
+S
+#16548
+{BLU,BO}The Sewers{blu,bo}~
+{BLU,BO}
+  A large pump at the end of tunnel here pumps
+  sewage down the tunnel and keeps everything
+  flowing.  A walkway along the west wall leads
+  south, and a ladder here leads up to a utility
+  station.
+{blu,bo}
+~
+165 1289 0
+D2
+~
+~
+0 -1 16547
+D4
+~
+~
+0 -1 16521
+T16598
+Z6
+C-1
+S
+#16549
+{Y}Outside the Presidential Palace{y}~
+{W,BO}
+  You stand on the driveway for the President's
+  cars.  Several old cars sit parked against the
+  wall of the palace.  A large gate to the south
+  remains closed, preventing the residents from
+  entering this restricted area.  An open man-
+  hole here leads down into the sewers, and the
+  driveway continues to the north.
+{w,bo}
+~
+165 1028 1
+D0
+~
+~
+0 -1 16550
+D2
+~
+gate~
+1 -1 16511
+D5
+~
+~
+0 -1 16546
+Z-1
+C-1
+S
+#16550
+{Y}Outside the Presidential Palace{y}~
+{W,BO}
+  This part of the driveway is full of crates
+  stacked on top of each other along the wall
+  of the Presidential palace.  Maybe you could
+  reach a place to scale the walls by climbing
+  these crates.
+{w,bo}
+~
+165 1028 1
+D2
+~
+~
+0 -1 16549
+D4
+~
+~
+0 -1 16551
+Z-1
+C-1
+S
+#16551
+{Y}Scaling the Palace Walls{y}~
+{W,BO}
+  After climbing the stacks of crates, you
+  reach one of the ledges along the wall of
+  the palace.  At one end of the ledge, you
+  spot a ladder leading up to another level
+  in the palace.
+{w,bo}
+~
+165 0 1
+D4
+~
+~
+0 -1 16552
+D5
+~
+~
+0 -1 16550
+Z-1
+C-1
+S
+#16552
+{Y}Scaling the Palace Walls{y}~
+{W,BO}
+  The ladder leads to another ledge along the
+  walls of the Presidential Palace.  Above
+  you, you spot the President's Balcony.  It
+  looks like you could climb up there from
+  here...
+{w,bo}
+~
+165 0 1
+D4
+~
+~
+0 -1 16553
+D5
+~
+~
+0 -1 16551
+Z-1
+C-1
+S
+#16553
+{W,BO}The Palace Balcony{w,bo}~
+{W,BO}
+  This private balcony overlooks the entire city.
+  The main balcony for addressing the city is to
+  the east, and a ledge within jumping distance
+  leading down the walls is below you.
+{w,bo}
+~
+165 0 1
+D1
+~
+~
+0 -1 16554
+D5
+~
+~
+0 -1 16552
+Z-1
+C-1
+S
+#16554
+{W,BO}On the Balcony{w,bo}~
+{C}
+  The balcony here runs west along the out-
+  side of the Presidential palace.  There is
+  a large podium to the south, for the
+  President to speak to the citizens of his
+  city.  A hallway leading into the palace is
+  to the north.
+{c}
+~
+165 0 1
+D0
+~
+~
+0 -1 16556
+D2
+~
+~
+0 -1 16555
+D3
+~
+~
+0 -1 16553
+Z-1
+C-1
+S
+#16555
+{W,BO}The Podium{w,bo}~
+{C}
+  This podium has a very impressive view over
+  the city, with the wide street of the
+  Presidential Lane below you.  The main arch
+  sits in the center of the city, illuminated
+  by dozens of spotlights placed around the
+  arch.  The balcony and palace hallway are
+  to the north.
+{C}
+~
+165 1028 1
+D0
+~
+~
+0 -1 16554
+D5
+~
+~
+0 -1 16511
+Z-1
+C-1
+S
+#16556
+{W,BO}The Hallway{w,bo}~
+{W,BO}
+  The hallway inside this part of the
+  Presidential Palace is surprisingly bare.
+  As you are walking, you immediatly notice
+  that a panel on the floor of the hallway
+  is loose.  The hallway continues south in
+  to a larger room.
+{w,bo}
+~
+165 8 0
+D0
+~
+~
+0 -1 16559
+D2
+~
+~
+0 -1 16554
+D5
+~
+panel~
+1 -1 16557
+Z-1
+C-1
+S
+#16557
+{BLA,BO}Under the Hallway{bla,bo}~
+{B,BO}
+  This little passage lies under the main hallway
+  in the Presidential Palace.  Numerous levers
+  and wires are hanging from the wall here,
+  probably for operating what appears to be a
+  carousel to the east.
+{b,bo}
+~
+165 1037 1
+D1
+~
+~
+0 -1 16558
+D4
+~
+panel~
+1 -1 16556
+Z4
+C-1
+S
+#16558
+{M,BO}The Carousel{m,bo}~
+{M,BO}
+  As you step onto the carousel, merry music starts
+  playing, and you feel the carousel start to rise
+  through the floor.  The ceiling opens up to reveal
+  the night sky, and the carousel raises up to rest
+  on the roof.  To the south, you could jump off and
+  probably safely land on the walkway of the
+  Presidential Palace.
+{m,bo}
+~
+165 1024 1
+D2
+~
+~
+0 -1 16554
+Z-1
+C-1
+S
+#16559
+{M}Edea's Room{m}~
+{M}
+  Upon entering this room in the Presidential Palace,
+  you notice a large chair facing away from you at one
+  end of the room.  Very long, flowing sheets of silk
+  surround the chair, forming something of a hallway
+  to the chair...
+{m}
+~
+165 1036 0
+D2
+~
+~
+0 -1 16556
+Z-1
+C-1
+S
+#16560
+{G}Outside the {g}{BLA,BO}Tomb of the Unknown King{bla,bo}~
+{W,BO}
+  After passing the end of the road, you look down
+  and notice that you are standing on a gigantic
+  marble slab overgrown by thousands of vines and
+  grasses.  The slab appears to be part of a huge
+  stone builiding directly to the east.  Whatever
+  the building might be used for, it appears older
+  than history itself.
+{w,bo}
+~
+165 4 3
+D1
+~
+~
+0 -1 16561
+D3
+~
+~
+0 -1 30811
+Z6
+C-1
+S
+#16561
+{BLA,BO}Tomb of the Unknown King{bla,bo}~
+{B,BO}
+  Upon entering the structure, you immediately notice
+  that most of the hallway that you can see ahead of
+  you is illuminated by sunlight shining through a
+  large crack in the stone ceiling.  {b,bo}{BLU,BO}Little streams
+  of water{blu,bo}{B,BO} run alongside both walls of the passage
+  for as long as you can see.
+{b,bo}
+~
+165 41 0
+D1
+~
+~
+0 -1 16562
+D3
+~
+~
+0 -1 16560
+Z8
+C-1
+S
+#16562
+{BLA,BO}Tomb of the Unknown King{bla,bo}~
+{B,BO}
+  As you travel down the passageway, it divides
+  into an intersection leading all cardinal
+  directions.  Little {b,bo}{BLU,BO}streams of water{blu,bo}{B,BO} flow along-
+  side the marble walls of the passage, giving the
+  air a very moist feel to it.
+{b,bo}
+~
+165 41 0
+D0
+~
+~
+0 -1 16563
+D1
+~
+~
+0 -1 16584
+D2
+~
+~
+0 -1 16583
+D3
+~
+~
+0 -1 16561
+Z8
+C-1
+S
+#16563
+{BLA,BO}Tomb of the Unknown King{bla,bo}~
+{BLA,BO}
+  As you continue through the passageway, the walls
+  gradually bend around a corner, going from the south
+  to the east.  Small {bla,bo}{BLU,BO}streams of water {blu,bo}{B,BO}flow along the
+  walls of the passage, making the air very moist.
+{b,bo}
+~
+165 41 0
+D1
+~
+~
+0 -1 16564
+D2
+~
+~
+0 -1 16562
+Z8
+C-1
+S
+#16564
+{BLA,BO}Tomb of the Unknown King{bla,bo}~
+{B,BO}
+  As you travel down the passageway, it divides
+  into an intersection leading all cardinal
+  directions.  Little {b,bo}{BLU,BO}streams of water{blu,bo}{B,BO} flow along-
+  side the marble walls of the passage, giving the
+  air a very moist feel to it.
+{b,bo}
+~
+165 41 0
+D0
+~
+~
+0 -1 16565
+D1
+~
+~
+0 -1 16587
+D2
+~
+~
+0 -1 16584
+D3
+~
+~
+0 -1 16563
+Z8
+C-1
+S
+#16565
+{BLA,BO}Tomb of the Unknown King{bla,bo}~
+{BLA,BO}
+  As you continue through the passageway, the walls
+  gradually bend around a corner, going from the south
+  to the east.  Small {bla,bo}{BLU,BO}streams of water {blu,bo}{B,BO}flow along the
+  walls of the passage, making the air very moist.
+{b,bo}
+~
+165 41 0
+D1
+~
+~
+0 -1 16566
+D2
+~
+~
+0 -1 16564
+Z8
+C-1
+S
+#16566
+{BLA,BO}Tomb of the Unknown King{bla,bo}~
+{B,BO}
+  As you travel down the passageway, it divides
+  into an intersection leading all cardinal
+  directions.  Little {b,bo}{BLU,BO}streams of water{blu,bo}{B,BO} flow along-
+  side the marble walls of the passage, giving the
+  air a very moist feel to it.
+{b,bo}
+~
+165 41 0
+D0
+~
+~
+0 -1 16567
+D1
+~
+~
+0 -1 16569
+D2
+~
+~
+0 -1 16587
+D3
+~
+~
+0 -1 16565
+Z8
+C-1
+S
+#16567
+{BLA,BO}Tomb of the Unknown King{bla,bo}~
+{B,BO}
+  The passageway here leads north to what appears
+  to be a larger room.  A marble slab sits at the
+  north end of the passageway blocks the passage
+  of all who are ignorant to the secrets of the
+  Tomb of the Unknown King.
+{b,bo}
+~
+165 41 0
+D0
+~
+slab stone marble~
+2 16599 16568
+D2
+~
+~
+0 -1 16566
+Z8
+C-1
+S
+#16568
+{BLA,BO}Tomb of the Unknown King{bla,bo}~
+{W,BO}
+  This small stone room in the tomb is covered in
+  all kinds of mosses and algea.  Old gears and
+  wheels sit at one end of the room, used for
+  controlling the water flow for the entire tomb.
+{w,bo}
+~
+165 8 0
+D2
+~
+slab stone marble~
+1 -1 16567
+Z6
+C-1
+S
+#16569
+{BLA,BO}Tomb of the Unknown King{bla,bo}~
+{B,BO}
+  As you continue through the passageway, the walls
+  gradually bend around a corner, going from the south
+  to the west.  Small {b,bo}{BLU,BO}streams of water{blu,bo}{B,BO} flow along the
+  walls of the passage, making the air very moist.
+{b,bo}
+~
+165 41 0
+D2
+~
+~
+0 -1 16570
+D3
+~
+~
+0 -1 16566
+Z8
+C-1
+S
+#16570
+{BLA,BO}Tomb of the Unknown King{bla,bo}~
+{B,BO}
+  As you travel down the passageway, it divides
+  into an intersection leading all cardinal
+  directions.  Little {b,bo}{BLU,BO}streams of water{blu,bo}{B,BO} flow along-
+  side the marble walls of the passage, giving the
+  air a very moist feel to it.
+{b,bo}
+~
+165 41 0
+D0
+~
+~
+0 -1 16569
+D1
+~
+~
+0 -1 16571
+D2
+~
+~
+0 -1 16586
+D3
+~
+~
+0 -1 16587
+Z8
+C-1
+S
+#16571
+{BLA,BO}Tomb of the Unknown King{bla,bo}~
+{B,BO}
+  As you continue through the passageway, the walls
+  gradually bend around a corner, going from the south
+  to the west.  Small {b,bo}{BLU,BO}streams of water{blu,bo}{B,BO} flow along the
+  walls of the passage, making the air very moist.
+{b,bo}
+~
+165 41 0
+D2
+~
+~
+0 -1 16572
+D3
+~
+~
+0 -1 16570
+Z8
+C-1
+S
+#16572
+{BLA,BO}Tomb of the Unknown King{bla,bo}~
+{B,BO}
+  As you travel down the passageway, it divides
+  into an intersection leading all cardinal
+  directions.  Little {b,bo}{BLU,BO}streams of water{blu,bo}{B,BO} flow along-
+  side the marble walls of the passage, giving the
+  air a very moist feel to it.
+{b,bo}
+~
+165 41 0
+D0
+~
+~
+0 -1 16571
+D1
+~
+~
+0 -1 16573
+D2
+~
+~
+0 -1 16575
+D3
+~
+~
+0 -1 16586
+Z8
+C-1
+S
+#16573
+{BLA,BO}Tomb of the Unknown King{bla,bo}~
+{B,BO}
+  The passageway here leads east to what appears
+  to be a larger room.  A marble slab sits at the
+  east end of the passageway blocking the passage
+  of those who are ignorant to the secrets of the
+  tomb.
+{b,bo}
+~
+165 41 0
+D1
+~
+slab stone marble~
+2 13199 16574
+D3
+~
+~
+0 -1 16572
+Z8
+C-1
+S
+#16574
+{BLA,BO}Tomb of the Unknown King{bla,bo}~
+{W,BO}
+  This small room in the tomb is illuminated by the
+  sunlight shining through a rectangular hole in the
+  wall here.  A grate sits below the hole, apparently
+  for water to flow through.
+{w,bo}
+~
+165 32777 0
+D3
+~
+slab stone marble~
+1 -1 16573
+Z10
+C-1
+S
+#16575
+{BLA,BO}Tomb of the Unknown King{bla,bo}~
+{B,BO}
+  As you continue down the passageway, the walls
+  gradually bend around a corner, going from north
+  to west.  Small {b,bo}{BLU,BO}streams of water{blu,bo}{B,BO} flow along the
+  walls of the passage, making the air very moist.
+{b,bo}
+~
+165 41 0
+D0
+~
+~
+0 -1 16572
+D3
+~
+~
+0 -1 16576
+Z8
+C-1
+S
+#16576
+{BLA,BO}Tomb of the Unknown King{bla,bo}~
+{B,BO}
+  As you travel down the passageway, it divides
+  into an intersection leading all cardinal
+  directions.  Little {b,bo}{BLU,BO}streams of water{blu,bo}{B,BO} flow along-
+  side the marble walls of the passage, giving the
+  air a very moist feel to it.
+{b,bo}
+~
+165 41 0
+D0
+~
+~
+0 -1 16586
+D1
+~
+~
+0 -1 16575
+D2
+~
+~
+0 -1 16577
+D3
+~
+~
+0 -1 16585
+Z8
+C-1
+S
+#16577
+{BLA,BO}Tomb of the Unknown King{bla,bo}~
+{B,BO}
+  As you continue down the passageway, the walls
+  gradually bend around a corner, going from north
+  to west.  Small {b,bo}{BLU,BO}streams of water{blu,bo}{B,BO} flow along the
+  walls of the passage, making the air very moist.
+{b,bo}
+~
+165 41 0
+D0
+~
+~
+0 -1 16576
+D3
+~
+~
+0 -1 16578
+Z8
+C-1
+S
+#16578
+{BLA,BO}Tomb of the Unknown King{bla,bo}~
+{B,BO}
+  As you travel down the passageway, it divides
+  into an intersection leading all cardinal
+  directions.  Little {b,bo}{BLU,BO}streams of water{blu,bo}{B,BO} flow along-
+  side the marble walls of the passage, giving the
+  air a very moist feel to it.
+{b,bo}
+~
+165 41 0
+D0
+~
+~
+0 -1 16585
+D1
+~
+~
+0 -1 16577
+D2
+~
+~
+0 -1 16579
+D3
+~
+~
+0 -1 16581
+Z8
+C-1
+S
+#16579
+{BLA,BO}Tomb of the Unknown King{bla,bo}~
+{B,BO}
+  The passageway here leads directly south into
+  what appears to be a larger room.  A chilling
+  draft blows from the south, making you very
+  uncomfortable.
+{b,bo}
+~
+165 41 0
+D0
+~
+~
+0 -1 16578
+D2
+~
+~
+0 -1 16580
+Z8
+C-1
+S
+#16580
+{BLA,BO}Tomb of the Unknown King{bla,bo}~
+{B,BO}
+  As you enter the room, a draft blowing down
+  the hall chills you to the bone.  In the
+  darkness of the chamber, some sort of beast
+  looms overhead.
+{b,bo}
+~
+165 45 0
+D0
+~
+~
+0 -1 16579
+Z10
+C-1
+S
+#16581
+{BLA,BO}Tomb of the Unknown King{bla,bo}~
+{B,BO}
+  As you continue down the passageway, the walls
+  gradually bend around a corner, going from north
+  to east.  Small {b,bo}{BLU,BO}streams of water{blu,bo}{B,BO} flow along the
+  walls of the passage, making the air very moist.
+{b,bo}
+~
+165 41 0
+D0
+~
+~
+0 -1 16582
+D1
+~
+~
+0 -1 16578
+Z8
+C-1
+S
+#16582
+{BLA,BO}Tomb of the Unknown King{bla,bo}~
+{B,BO}
+  As you travel down the passageway, it divides
+  into an intersection leading all cardinal
+  directions.  Little {b,bo}{BLU,BO}streams of water{blu,bo}{B,BO} flow along-
+  side the marble walls of the passage, giving the
+  air a very moist feel to it.
+{b,bo}
+~
+165 41 0
+D0
+~
+~
+0 -1 16584
+D1
+~
+~
+0 -1 16585
+D2
+~
+~
+0 -1 16581
+D3
+~
+~
+0 -1 16583
+Z8
+C-1
+S
+#16583
+{BLA,BO}Tomb of the Unknown King{bla,bo}~
+{B,BO}
+  As you continue down the passageway, the walls
+  gradually bend around a corner, going from north
+  to east.  Small {b,bo}{BLU,BO}streams of water{blu,bo}{B,BO} flow along the
+  walls of the passage, making the air very moist.
+{b,bo}
+~
+165 41 0
+D0
+~
+~
+0 -1 16562
+D1
+~
+~
+0 -1 16582
+Z8
+C-1
+S
+#16584
+{BLA,BO}Tomb of the Unknown King{bla,bo}~
+{B,BO}
+  As you travel down the passageway, it divides
+  in to an intersection leading all cardinal
+  directions.  The exit east leads in to the
+  open air center of the tomb with a small
+  building surrounded on all sides by very deep
+  water.
+{b,bo}
+~
+165 41 0
+D0
+~
+~
+0 -1 16564
+D1
+~
+bridge~
+2 16599 16588
+D2
+~
+~
+0 -1 16582
+D3
+~
+~
+0 -1 16562
+Z8
+C-1
+S
+#16585
+{BLA,BO}Tomb of the Unknown King{bla,bo}~
+{B,BO}
+  As you travel down the passageway, it divides
+  into an intersection leading all cardinal
+  directions.  The exit to the north leads down
+  into a huge, open air pool with a stone build- 
+  ing in the center.
+{b,bo}
+~
+165 41 0
+D1
+~
+~
+0 -1 16576
+D2
+~
+~
+0 -1 16578
+D3
+~
+~
+0 -1 16582
+Z8
+C-1
+S
+#16586
+{BLA,BO}Tomb of the Unknown King{bla,bo}~
+{B,BO}
+  As you travel down the passageway, it divides
+  into an intersection leading all cardinal
+  directions.  The exit to the west leads down
+  into a huge, open air pool with a stone build-
+  ing in the center.
+{b,bo}
+~
+165 41 0
+D0
+~
+~
+0 -1 16570
+D1
+~
+~
+0 -1 16572
+D2
+~
+~
+0 -1 16576
+Z8
+C-1
+S
+#16587
+{BLA,BO}Tomb of the Unknown King{bla,bo}~
+{B,BO}
+  As you travel down the passageway, it divides
+  into an intersection leading all cardinal
+  directions.  The exit to the south leads down
+  into a huge, open air pool with a stone build-
+  ing in the center.
+{b,bo}
+~
+165 41 0
+D0
+~
+~
+0 -1 16566
+D1
+~
+~
+0 -1 16570
+D3
+~
+~
+0 -1 16564
+Z8
+C-1
+S
+#16588
+{BLA,BO}The {bla,bo}{Y}Il{y}{Y,BO}lu{y,bo}{M,BO}sio{m,bo}{Y,BO}na{y,bo}{Y}ry{y}{B,BO} Bridge{b,bo}~
+{C}
+  The bridge that you are standing on is invisible,
+  except for the reflection of water on the surface
+  of the bridge.  Directly below you, you stare at
+  the waters collecting in the center pool from the
+  streams pouring from the cracks in the Tomb.  A
+  small building sits in the center of the pool,
+  with the bridge leading directly to it.
+{c}
+~
+165 388 1
+D1
+~
+~
+0 -1 16589
+D3
+~
+bridge~
+1 -1 16584
+T16598
+Z-1
+C2
+S
+#16589
+{BLA,BO}Crypt of the Unknown King{bla,bo}~
+{B,BO}
+  The center chamber in the tomb houses the body of
+  the last king of Dollet.  It is protected by the
+  Guardian Brothers from looters like yourself.  The
+  only exit is the way you came in.
+{b,bo}
+~
+165 16425 0
+D3
+~
+~
+0 -1 16588
+Z7
+C-1
+S
+#16590
+{BLA,BO}Inside the D-District Prison{bla,bo}~
+{B,BO}
+  The hallway inside this level of the tower is
+  covered in sand from the desert outside.  Hidden
+  cameras monitor everything going into and out of
+  this facility from the end of the hallway.  To
+  the north, the building appears to open up into
+  a open ceiling tower.
+{b,bo}
+~
+165 44 0
+D0
+~
+~
+0 -1 16591
+D2
+~
+hatch door~
+1 -1 16500
+Z-1
+C-1
+S
+#16591
+{BLA,BO}Outside the Cell{bla,bo}~
+{B,BO}
+  As you enter the center of the tower, you notice
+  immediately that there is a hole in the top and
+  bottom of the center of the floor and ceiling.
+  Looking up, you see another 30 floors with holes
+  in the center.  Closed and sealed cells surround
+  each floor, possibly housing thousands of inmates
+  in this facility.
+{b,bo}
+~
+165 40 0
+D0
+{W,BO}
+  The cell at the north end of the room requires
+  code {w,bo}{R,BO}red{r,bo}{W,BO} access codes to open.
+{w,bo}
+~
+cell~
+2 30722 16522
+D2
+~
+~
+0 -1 16590
+Z-1
+C-1
+S
+#16592
+{BLA,BO}A Corridor in the D-District Prison{bla,bo}~
+{B,BO}
+  As you exit the cell into the hallway, you
+  notice that the cell has brought you to the
+  very top of the tower.  The elevator mechanism
+  that suspends it is hanging from the ceiling.
+  The hallway continues to the east.
+{b,bo}
+~
+165 40 0
+D1
+~
+~
+0 -1 16593
+Z-1
+C-1
+S
+#16593
+{BLA,BO}A Corridor in the D-District Prison{bla,bo}~
+{B,BO}
+  As you continue down the corridor of the prison,
+  the hallway ends at a door labeled {b,bo}{R,BO}RESTRICTED{r,bo}{B,BO} --{b,bo}{W,BO}
+  AUTHORIZED PERSONNEL ONLY{w,bo}{B,BO}.  The sound of someone
+  screaming can be heard from behind a door to the
+  north.
+{b,bo}
+~
+165 40 0
+D0
+~
+door~
+1 -1 16594
+D3
+~
+~
+0 -1 16592
+Z-1
+C-1
+S
+#16594
+{BLA,BO}The D-District {bla,bo}{R,BO}Torture Chamber{r,bo}~
+{B,BO}
+  As you enter the chamber, you notice two guards
+  hauling off a prisoner from a rack along one of
+  the walls here.  The lights are dimmed so you
+  cannot see much of the man behind the controls
+  of the rack.  The door leading out of the
+  chamber is to the south.
+{b,bo}
+~
+165 9 0
+D2
+~
+door~
+1 -1 16593
+Z7
+C-1
+S
+#16595
+{BLA,BO}The Cell{bla,bo}~
+{B,BO}
+  As you enter the cell, the door closes and locks
+  behind you.  The cell is only about 5 feet tall,
+  forcing most inhabitants to crouch to enter.  A
+  long metal slab along one side of the cell serves
+  as a bed for prisoners in transit.  As you sit
+  down, you feel the cell start to rise up through
+  the tower.  After some time, the cell stops
+  ascending, and all is quiet.
+{b,bo}
+~
+165 40 0
+D2
+~
+cell door~
+1 -1 16592
+Z-1
+C1
+S
+#16596
+{BLA,BO}The Cell{bla,bo}~
+{B,BO}
+  As you enter the cell, the door closes and locks
+  behind you.  The cell is only about five feet
+  tall, forcing most inhabitants to crouch to
+  enter.  A long metal slab along one side of the
+  cell serves as a bed for prisoners in transit.
+  As you sit down, you feel the cell start to
+  descend to the bottom of the tower.  After some
+  time, the cell stops descending, and the doors
+  unlock.
+{b,bo}
+~
+165 40 0
+D2
+~
+cell door~
+1 -1 16591
+Z-1
+C1
+S
+#16597
+{C}Shoju's Library{c}~
+{C}
+  As you enter the room, you are immediately awed
+  by the sight of row upon row of shelves lined  
+  up orderly throughout this massive chamber.
+  Every text here appears neatly organized
+  according to date and subject.  This is no
+  mortal library.  What could possibly be missing
+  from the library of the Gods?
+{c}
+~
+165 4277384 0
+D4
+~
+~
+0 -1 16599
+M51
+X14
+Z-1
+C-1
+S
+#16598
+{B,BO}The Void{b,bo}~
+{B,BO}
+  The void here is endless, you seem to be in
+  the middle of nowhere.
+{b,bo}
+~
+165 16424 0
+Z-1
+C-1
+S
+#16599
+{R,BO}Shoju's{r,bo}{R} Common Room{r}~
+{Y,BO}        ,=========================,
+        |{y,bo}{R,BO}   P  R  O  T  E  S  T   {r,bo}{Y,BO}|
+        |{y,bo}{R,BO}   T H E   R I S I N G   {r,bo}{Y,BO}|
+        |{y,bo}{R,BO}   T  I  D  E     O  F   {r,bo}{Y,BO}|
+        |{y,bo}{R,BO}   C O N F O R M I T Y   {r,bo}{Y,BO}|
+        '========================='{y,bo}
+~
+165 4259848 0
+D2
+~
+seal magic~
+4 16599 16516
+D4
+~
+ceiling roof~
+2 16599 13198
+D5
+~
+ladder~
+0 -1 16597
+X78
+Z-1
+C-1
+S
+$~

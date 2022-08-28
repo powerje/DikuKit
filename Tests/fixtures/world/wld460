@@ -1,0 +1,1945 @@
+#46000
+{BO,C}Lookout Point{bo,c}~
+  
+  
+  {BO,C}An ancient oak tree stands proudly at the highest elevation
+  in this region.  It is surrounded on all four sides by park
+  benches.  Gas lamps line the lanes leading away from where
+  you stand.  To the west at the bottom of the hill you see
+  people moving their wares in and out of Bowerstone South.
+  When you look to the north you see a majestic building 
+  made of stone.  Two solid wooden doors fill the arched
+  entrance.  A golden seal is placed on both doors, The 
+  Heroes' Guild.{bo,c}
+  
+  
+~
+460 4 2
+D0
+~
+~
+0 -1 46001
+D3
+~
+~
+0 -1 46004
+Z3
+C-1
+R0
+S
+#46001
+{BO,W}Heroes' Guild{bo,w}~
+  
+  
+  {BO,W}The entrance to the Guild of Heroes is a large room topped
+  by a cathedral ceiling.  In the center of the room is a huge
+  topographical map of Albion.  A double staircase will lead you
+  to the dorm rooms above.  Arched doorways surround the room.
+  Each exit leads to another part of the guild where young 
+  apprentices are training to be heroes.
+  
+  
+     
+~
+460 8 0
+D0
+~
+Chamber Door~
+4 -1 46002
+D2
+~
+~
+0 -1 46000
+Z3
+C-1
+R0
+S
+#46002
+{bo,BLACK}Chamber of Fate{bo,black}~
+  
+  
+  {BO,W}Multi-colored, marble tiled steps lead to dais in the 
+  center of the room.  Pale light softly filters through
+  stained glass windows on the domed ceiling.  This large
+  round room is where all ceremonies at the Heroes' Guild
+  are held.  Unfortunately, what has happened here today
+  is much more menacing.
+  
+     
+~
+460 0 0
+D1
+~
+~
+0 -1 46003
+D2
+~
+~
+0 -1 46001
+Z3
+C-1
+R0
+S
+#46003
+{BO,M}Teleport Room{bo,m}~
+  
+  
+  {BO,M}Every hero is given a guild seal upon earning the rank of 
+  hero.  This seal gives them the ability to teleport through
+  cullis gates.  From this room you can move easily between
+  regions.  Be warned, there are some places that aren't as 
+  friendly as others.{bo,m}
+  
+  
+~
+460 8 0
+D3
+~
+~
+0 -1 46002
+Z3
+C-1
+R0
+S
+#46004
+{BO,Y}Bowerstone South{bo,y}~
+  
+  
+  {BO,Y}Bowerstone is one of the larger towns in Ablion.  As it is 
+  the town closest to the Heroes' Guild, many heroes shop here
+  for supplies.  Friendly townspeople walk by you on cobbled
+  lanes.  Stone buildings with thatched roofs line the street.
+  The sharp sounds of metal upon metal come from the direction 
+  of the town blacksmith.  Raucous laughter and jeering can be 
+  heard coming from the Bowerstone Inn. {bo,y}
+  
+  
+~
+460 0 1
+D0
+~
+~
+0 -1 46005
+D1
+~
+~
+0 -1 46000
+Z3
+C-1
+R0
+S
+#46005
+{bo,Y}Bowerstone North{bo,y}~
+  
+  {bo,Y}Bowerstone North is the wealthier side of Bowerstone.  Here you
+  see the mayor's security guards patrolling the streets.  Spiraled
+  rooftops raise about the stone buildings.  Although this is 
+  considered more influential than Bowerstone South, you can't
+  see much of a difference.{bo,y}
+  
+  
+~
+460 0 1
+D0
+~
+~
+0 -1 46006
+D2
+~
+~
+0 -1 46004
+D3
+~
+~
+0 -1 46022
+Z3
+C-1
+R0
+S
+#46006
+{BO,M}Mayor's Garden{bo,m}~
+  
+  
+  {BO,M}The Mayor's garden is filled with multi-colored shrubs and
+  bushes that surround stone statues.  Because it is enclosed
+  on three sides by stone walls, the garden doesn't seem 
+  quite real.  Odd, how something that should be beautiful 
+  should feel so sterile. {bo,m}
+  
+  
+~
+460 0 1
+D0
+~
+~
+0 -1 46034
+D2
+~
+~
+0 -1 46005
+Z3
+C-1
+R0
+S
+#46007
+{YELLOW}Oakvale{bold}~
+ 
+  You stand in a dilapidated village that is shrouded in darkness.
+  Between the mists and the shadows from the ancient trees you
+  can make out some small run-down shacks.  As a strong wind blows
+  an eerie howl whistles through the leaves.  Looking around you
+  see nothing out of place, but the hairs on the back of your 
+  neck are still tingling.
+
+~
+460 0 1
+D1
+~
+~
+0 -1 46008
+D2
+~
+~
+0 -1 46035
+D3
+~
+~
+0 -1 46009
+Z3
+C-1
+R0
+S
+#46008
+{bo,Y}Family Cottage{bo,y}~
+  
+  
+  {Y}This is a small family cottage with arched double doors and
+  windows.  The floors are made of wide wooden planks and 
+  covered with handmade rugs.  Whoever lives here has a
+  nice collection of books filling the shelves on two walls.
+  You feel the heat radiating from a fire that crackles in 
+  the fireplace.  Lying on the floor in front of the hearth
+  is a young boy with black, unruly hair.
+  
+  
+     
+~
+460 0 1
+D3
+~
+~
+0 -1 46007
+Z3
+C-1
+R0
+S
+#46009
+{BO,G}Oakvale{bo,g}~
+ 
+  You stand in a dilapidated village that is shrouded in darkness.
+  Between the mists and the shadows from the ancient trees you
+  can make out some small run-down shacks.  As a strong wind blows
+  an eerie howl whistles through the leaves.  Looking around you
+  see nothing out of place, but the hairs on the back of your 
+  neck are still tingling.
+
+~
+460 0 1
+D0
+~
+~
+0 -1 46010
+D1
+~
+~
+0 -1 46007
+Z3
+C-1
+R0
+S
+#46010
+{bo,Y}Clifftop Path{bo,y}~
+  
+  
+  {bo,Y}This winding path takes you across the cliff between Oakvale
+  and the ocean.  It's quite beautiful here.  Tall trees shade
+  you from the sun.  A cool breeze comes in off the water.  The
+  ocean roars as its waves hit the rocks at the bottom of the
+  cliff.  Birds call to each other from the trees.  You would
+  like nothing more than to find a comfortable spot and relax
+  for the rest of the day.
+  
+  
+~
+460 0 1
+D0
+~
+~
+0 -1 46011
+D2
+~
+~
+0 -1 46009
+Z3
+C-1
+R0
+S
+#46011
+{bo,M}Twinblade's Camp{bo,m}~
+  
+  
+  {BO,M}Small fires surround this area, and around each fire is a group
+  of bandits.  These rough men and women only know how to
+  take from this world.  Cradled between two hills is a make
+  shift tavern.  Here the bandits become even more dangerous 
+  as they drink pint after pint of ale.  Crude steps lead up
+  the hill to a large pavilion. 
+  
+  
+~
+460 0 1
+D2
+~
+~
+0 -1 46010
+D4
+~
+~
+0 -1 46012
+Z3
+C-1
+R0
+S
+#46012
+{BO,M}Twinblade's Elite Camp{bo,m}~
+  
+  
+  {BO,M}This area seems to be more organized than the bandit camp
+  below.  Here the men and women practice with swords and cross
+  bows.  You hear metal on metal as they spar.  The shelters 
+  surrounding a central fire are more permanent.  Only a few 
+  notice as you pass, but they take in every detail.  This is
+  a highly disciplined group.  You'd best watch your step here.
+  
+  
+~
+460 0 1
+D5
+~
+~
+0 -1 46011
+Z3
+C-1
+R0
+S
+#46013
+Not in Zone~
+not in zone!
+cs
+cd
+~
+460 0 1
+Z3
+C2
+R0
+S
+#46014
+{bo,G}Witchwood Cullis Gate{bo,g}~
+   
+  
+  {bo,G}Stepping off the teleport you notice that you are in an
+  extremely rocky area surrounded by pine trees.  Everything
+  that isn't stone is a vibrant forest green.  You realize
+  why all of the plant life is so healthy as you walk up the
+  path, a slow steady rain begins to fall from the sky.{bo,g}
+  
+  
+~
+460 0 1
+D0
+~
+~
+0 -1 46015
+Z3
+C-1
+R0
+S
+#46015
+{bo,G}Witchwood Lake{bo,g}~
+    
+  
+  {bo,G}The land slopes gently down into an area that is riddled 
+  with small lakes.  Travelers and traders walk through 
+  the rain along side you.  The people of this area will 
+  not travel unless in a large group.  They tell stories
+  of creatures coming out of the woods to prey on humans.
+  But the people of Knothole Glade love to watch Heroes 
+  fight in the arena.  Not even the fear of being eaten 
+  alive will keep them from walking this path.{bo,g}  
+
+
+~
+460 0 1
+D0
+~
+~
+0 -1 46064
+D1
+~
+~
+0 -1 46018
+D2
+~
+~
+0 -1 46014
+D3
+~
+~
+0 -1 46016
+Z3
+C-1
+R0
+S
+#46016
+{bold}{GREEN}Knothole Glade{bold}~
+ 
+  {BOLD}{GREEN}Knothole Glade is a small close knit community.  It's{bold}
+{BOLD}{GREEN}  nestled on the side of a mountain and surrounded by {bold}
+{BOLD}{GREEN}  pine trees.  The homes here shaped with sharp angles{bold}
+{BOLD}{GREEN}  and points.  This gives Knothole Glade a unique look {bold}
+{BOLD}{GREEN}  when it's compared to the rest of Albion.  As you {bold}
+{BOLD}{GREEN}  walk through town you notice no one is out and about.{bold}
+{BOLD}{GREEN}  All the homes are locked down tight and you can see {bold}
+{BOLD}{GREEN}  people peeking out their windows at you.{bold}
+
+~
+460 0 1
+D0
+~
+~
+0 -1 46017
+D1
+~
+~
+0 -1 46015
+Z3
+C-1
+R0
+S
+#46017
+{bold}{GREEN}Knothole Glade{bold}~
+ 
+  {BOLD}{GREEN}Knothole Glade is a small close knit community.  It's{bold}
+{BOLD}{GREEN}  nestled on the side of a mountain and surrounded by {bold}
+{BOLD}{GREEN}  pine trees.  The homes here shaped with sharp angles{bold}
+{BOLD}{GREEN}  and points.  This gives Knothole Glade a unique look {bold}
+{BOLD}{GREEN}  when it's compared to the rest of Albion.  As you {bold}
+{BOLD}{GREEN}  walk through town you notice no one is out and about.{bold}
+{BOLD}{GREEN}  All the homes are locked down tight and you can see {bold}
+{BOLD}{GREEN}  people peeking out their windows at you.{bold}
+
+~
+460 0 1
+D0
+~
+~
+0 -1 46066
+D1
+~
+~
+0 -1 46064
+D2
+~
+~
+0 -1 46016
+Z3
+C-1
+R0
+S
+#46018
+{bo,G}Knothole Glade{bo,g}~
+  
+  
+  {BO,G}Knothole Glade is a small close knit community.  It's
+  nestled on the side of a mountain and surrounded by 
+  pine trees.  The homes here shaped with sharp angles
+  and points.  This gives Knothole Glade a unique look 
+  when it's compared to the rest of Albion.  As you 
+  walk through town you notice no one is out and about.
+  All the homes are locked down tight and you can see 
+  people peeking out their windows at you.
+  
+  
+~
+460 0 1
+D3
+~
+~
+0 -1 46015
+Z3
+C-1
+R0
+S
+#46019
+{BO,W}Hook Coast{bo,w}~
+  
+  
+  {BO,W}When you step off the teleport your eyes begin to tear
+  as the icy cold wind hits you in the face.  This is a 
+  frozen wasteland dotted by the buildings of the strong
+  people who choose to live here.  Treading carefully you
+  follow the icy path down into town.  The wind off the
+  ocean chills you to the bone.  Shivering you pull your
+  cloak tighter around you.
+  
+  
+~
+460 0 1
+D1
+~
+~
+0 -1 46021
+D3
+~
+~
+0 -1 46020
+Z3
+C-1
+R0
+S
+#46020
+{BO,W}Old Abbey{bo,w}~
+  
+  
+  {BO,W}This abandoned abbey is nothing more than a pile of frozen
+  stones.  The ceiling has been gone for many years.  Snow
+  and ice clings to every available surface.  Dark 
+  shadows begin to move just out of your visual range.  
+  Every surface here is blinding white.  Suddenly there
+  is a rush and the shadows are flying toward you out of
+  the snow. 
+  
+  
+~
+460 0 1
+D1
+~
+~
+0 -1 46019
+Z3
+C-1
+R0
+S
+#46021
+{BO,W}Old Lighthouse{bo,w}~
+  
+  
+  {BO,W}Calling to you as if you were lost at sea, the lighthouse 
+  draws you toward it.  Like everything else in Hook Coast,
+  the lighthouse is cold and frigid.  The silence here is
+  overwhelming.  The solid walls hold out the sound of the
+  wind and ocean waves.  You could almost believe that you
+  are the only person alive.  
+  
+  
+~
+460 4194312 1
+D3
+~
+~
+0 -1 46019
+Z3
+C-1
+R0
+S
+#46022
+{bo,G}Bowerstone Jail{bo,g}~
+ 
+  {BOLD}{GREEN}Although this path leads to the infamous Bowerstone Jail,{bold}
+{BOLD}{GREEN}  stepping out of the back gate of Bowerstone North is almost {bold}
+{BOLD}{GREEN}  like walking into a fairy tale.  The trees and gardens along{bold}
+{BOLD}{GREEN}  the way make it one of the most beautiful places you have {bold}
+{BOLD}{GREEN}  ever seen.  However, the sign at the gate does have the word{bold}
+{BOLD}{GREEN}  jail on it.  Maybe it would be best if you didn't allow your{bold}
+{BOLD}{GREEN}  surroundings to relax you too much.  {bold}
+
+~
+460 0 1
+D0
+~
+~
+0 -1 46023
+D1
+~
+~
+0 -1 46005
+Z3
+C-1
+R0
+S
+#46023
+{bo,C}Windmill Hill{bo,c}~
+  
+  
+  {BO,BLUE}Walking around a bend in the path you find a small, weather
+  beaten cottage.  The cottage is surrounded by a garden full of
+  grains and vegetables.  Every few seconds a shadow flickers 
+  from above you as the sun shines past the lazy blades of 
+  a windmill.  All you can hear are the sounds of nature as
+  you continue on your way leaving the small cottage and 
+  windmill behind.
+  
+  
+~
+460 4 1
+D0
+~
+~
+0 -1 46024
+D2
+~
+~
+0 -1 46022
+Z3
+C-1
+R0
+S
+#46024
+{BO,G}Gibbet Woods{bo,g}~
+  
+  
+  {BO,G}Less than 100 yards past the windmill the forest closes
+  in around you.  The path has become narrow and the footing 
+  dangerous.  There is very little light sifting in through
+  the branches of the trees.  This only makes navigation 
+  along this trail filled with small boulders more 
+  difficult.  Either the shadows are playing tricks on you
+  or that large pile of rocks just moved.
+
+~
+460 4 1
+D0
+~
+~
+0 -1 46025
+D1
+~
+~
+0 -1 46034
+D2
+~
+~
+0 -1 46023
+Z3
+C-1
+R0
+S
+#46025
+{bo,BLACK}Lynchfield Graveyard{bo,black}~
+    
+  
+  {bo,BLACK}The woods begin to thin out giving you more room to 
+  walk.  You follow a bare path as it slowly takes you 
+  down into the Lynchfield Graveyard.  Iron gates protest
+  noisily as you push them open.  Low stone walls separate
+  family plots.  Some areas have simple stones to mark
+  where people have been buried.  Other areas have 
+  intricate crypts.  At one time this was a part of the
+  forest.  Now, the only trees left standing are dead.{bo,black}
+  
+  
+~
+460 0 1
+D1
+~
+~
+0 -1 46026
+D2
+~
+~
+0 -1 46024
+D3
+~
+~
+0 -1 46027
+Z3
+C-1
+R0
+S
+#46026
+{bo,W}Lynchfield Graveyard{bo,w}~
+    
+  
+  {bo,BLACK}The woods begin to thin out giving you more room to 
+  walk.  You follow a bare path as it slowly takes you 
+  down into the Lynchfield Graveyard.  Iron gates protest
+  noisily as you push them open.  Low stone walls separate
+  family plots.  Some areas have simple stones to mark
+  where people have been buried.  Other areas have 
+  intricate crypts.  At one time this was a part of the
+  forest.  Now, the only trees left standing are dead.{bo,black}
+  
+  
+~
+460 0 1
+D3
+~
+~
+0 -1 46025
+Z3
+C-1
+R0
+S
+#46027
+{bo,BLACK}Old Graveyard Path{bo,black}~
+ 
+  
+  After coming through the gate, you find yourself on an
+  old path.  Everything appears to be dead here.  The
+  weeds are all brown and the trees are dried and
+  leafless.   The cobbles under your feet seem to crumble
+  with each step you take. 
+ 
+
+~
+460 0 1
+D0
+~
+~
+0 -1 46028
+D1
+~
+~
+0 -1 46025
+Z3
+C-1
+R0
+S
+#46028
+{bo,BLACK}Underground Chamber{bo,black}~
+
+    
+  {bo,W}At the end of the old graveyard path you step through
+  an ancient crumbling crypt.  Its inscriptions were so
+  worn that it was impossible for you to read.  Now you
+  find yourself in a circular underground chamber.  In 
+  the center of the room is a large body of water.  A 
+  glowing green light shines from its depths.  The 
+  best thing to do at this point is to get the hell out
+  of here.
+  
+  
+~
+460 8 1
+D2
+~
+~
+0 -1 46027
+D3
+~
+~
+0 -1 46029
+Z3
+C-1
+R0
+S
+#46029
+{bo,BLACK}Underground Passage{bo,black}~
+ 
+  You are unsure why, but the air here seems to be fresher.  There are
+  boxes and barrels lining the walls of this passage.  Dust covers
+  everything.  It appears this place is being used for more than just a
+  crypt. 
+
+~
+460 8 1
+D0
+~
+~
+0 -1 46030
+D1
+~
+~
+0 -1 46028
+Z3
+C-1
+R0
+S
+#46030
+{BO,R}Torture Chamber{bo,r}~
+  
+  
+  {BO,R}Close to the end of the last passage you begin to hear the
+  sounds of people screaming.  Not even in your worse nightmare
+  have you ever considered making such a sound.  Cautiously
+  you slip into the torture chamber.  The screaming and 
+  wailing stops when the guards notice they have an audience.
+  
+  
+  
+~
+460 4194312 1
+D2
+~
+~
+0 -1 46029
+Z3
+C-1
+R0
+S
+#46031
+{bo,W}Hobbe Cave Entrance{bo,w}~
+  
+  
+  {BO,W}This is a poorly lit underground chamber.  Your feet meet
+  wet stone with each step you take.  As you walk further into
+  the cave entrance you notice that your way is lit by fluorescent
+  mushrooms that line the sides of the cave.  As far as caves go,
+  this isn't so bad.  But, you had better keep your eyes open
+  for the Hobbes who live here.  It is said that they are nasty 
+  little buggers.
+  
+  
+~
+460 8 1
+D5
+~
+~
+0 -1 46032
+Z3
+C-1
+R0
+S
+#46032
+{bo,W}Main Chamber{bo,w}~
+ 
+  {BOLD}{WHITE}Smoke fills your eyes and your stomach turns as you enter{bold}
+{BOLD}{WHITE}  the main Chamber of the Hobbe domain. On the left side of {bold}
+{BOLD}{WHITE}  the room is a miniature throne. On the right side of the {bold}
+{BOLD}{WHITE}  room is a pile of rubbish as tall as you. Smokey torches{bold}
+{BOLD}{WHITE}  cast shadows on the walls. It's now easy to see why Hobbes{bold}
+{BOLD}{WHITE}  smell so bad.{bold}
+
+~
+460 8 1
+D4
+~
+~
+0 -1 46031
+D5
+~
+~
+0 -1 46033
+Z3
+C-1
+R0
+S
+#46033
+{BO,R}Focus Chamber{bo,r}~
+  
+  
+  {BO,R}In the center of the room stands a dome shaped stone.  It's
+  three times your height and covered in strange rune markings.
+  Surrounding the stone is a body of water that comes up to
+  your knees.  On the outer edge are more of the fluorescent 
+  mushrooms.
+  
+ 
+~
+460 4194304 1
+D4
+~
+~
+0 -1 46032
+Z3
+C-1
+R0
+S
+#46034
+{BO,R}Focus Point{bo,r}~
+
+    
+  {BO,R}On a high cliff in Gibbet woods sits another focus point.
+  Once a source of great magic, these points now stand 
+  neglected and worn.  This domed fixture looks identical
+  to the one in the Hobbe cave.  Only the elements have worn
+  away the rune markings from its surface.  Surrounding it are
+  rows of stone arches.  
+  
+  
+~
+460 0 1
+D2
+~
+~
+0 -1 46006
+D3
+~
+~
+0 -1 46024
+Z3
+C-1
+R0
+S
+#46035
+{bo,Y}Barrow Fields{bo,y}~
+  
+  
+  {bo,Y}Barrow Fields is a small community outside the gates of 
+  Oakvale.  It's a hilly area full of tall grasses and 
+  thick with trees.  Close to the gates of Oakvale people
+  have set up tables where they sell their wares, to those
+  entering and leaving the town.  Here paths lined by low 
+  stone fences lead away from Oakvale.
+
+
+~
+460 0 2
+D0
+~
+~
+0 -1 46007
+D4
+~
+~
+0 -1 46036
+Z3
+C-1
+R0
+S
+#46036
+{bo,W}Path to Grey House{bo,w}~
+
+    
+  {BO,W}As the low stone walls fade you go deeper into the woods
+  surrounding Barrow Fields.  Most of the trees are dead.  
+  The air here is chilled and there's a mist rising from
+  the many small bodies of water that line the path you're
+  on.  In the distance you can see the Grey House that is 
+  the object of your journey.
+  
+  
+~
+460 4 3
+D4
+~
+~
+0 -1 46037
+D5
+~
+~
+0 -1 46035
+Z3
+C-1
+R0
+S
+#46037
+{bo,W}Grey House{bo,w}~
+  
+  
+  {BO,W}It has been over a decade since any human has lived in 
+  this house.  When the old owners left, they must have 
+  done so hastily.  Old dusty furniture fills the rooms.
+  Bookshelves stand against the walls holding books that
+  have been chewed on by rats.  An old grandfather clock
+  stares at you hauntingly from the corner.  {bo,w}
+  
+  
+   
+~
+460 4 1
+D5
+~
+~
+0 -1 46036
+Z3
+C-1
+R0
+S
+#46038
+{BO,G}Greatwood{bo,g}~
+    
+   
+  {BO,G}Very little sunlight filters through the trees into this 
+  great forest.  The trees here are so large twenty men
+  would have to hold hands to form a circle around their 
+  base.  Old leaves crunch under your feet as you walk.  
+  There are many hills and valleys to be explored.  However,
+  you should be careful. Bandits are rumored to live here. {bo,g}
+  
+      
+~
+460 0 3
+D0
+~
+~
+0 -1 46042
+D1
+~
+~
+0 -1 46043
+D2
+~
+~
+0 -1 46039
+D3
+~
+~
+0 -1 46058
+Z3
+C-1
+R0
+S
+#46039
+{BO,G}Greatwood{bo,g}~
+    
+   
+  {BO,G}Very little sunlight filters through the trees into this 
+  great forest.  The trees here are so large twenty men
+  would have to hold hands to form a circle around their 
+  base.  Old leaves crunch under your feet as you walk.  
+  There are many hills and valleys to be explored.  However,
+  you should be careful. Bandits are rumored to live here. {bo,g}
+  
+      
+~
+460 0 3
+D0
+~
+~
+0 -1 46038
+D1
+~
+~
+0 -1 46044
+D2
+~
+~
+0 -1 46040
+D3
+~
+~
+0 -1 46059
+Z3
+C-1
+R0
+S
+#46040
+{BO,G}Greatwood{bo,g}~
+ 
+  {BOLD}{GREEN}Very little sunlight filters through the trees into this {bold}
+{BOLD}{GREEN}  great forest.  The trees here are so large twenty men{bold}
+{BOLD}{GREEN}  would have to hold hands to form a circle around their {bold}
+{BOLD}{GREEN}  base.  Old leaves crunch under your feet as you walk.  {bold}
+{BOLD}{GREEN}  There are many hills and valleys to be explored.  However,{bold}
+{BOLD}{GREEN}  you should be careful.  Bandits are rumored to live here. {bold}
+
+~
+460 0 3
+D0
+~
+~
+0 -1 46039
+D1
+~
+~
+0 -1 46045
+D2
+~
+~
+0 -1 46041
+D3
+~
+~
+0 -1 46060
+Z3
+C-1
+R0
+S
+#46041
+{BO,G}Greatwood{bo,g}~
+ 
+  {BOLD}{GREEN}Very little sunlight filters through the trees into this {bold}
+{BOLD}{GREEN}  great forest.  The trees here are so large twenty men{bold}
+{BOLD}{GREEN}  would have to hold hands to form a circle around their {bold}
+{BOLD}{GREEN}  base.  Old leaves crunch under your feet as you walk.  {bold}
+{BOLD}{GREEN}  There are many hills and valleys to be explored.  However,{bold}
+{BOLD}{GREEN}  you should be careful.  Bandits are rumored to live here. {bold}
+
+~
+460 0 3
+D0
+~
+~
+0 -1 46040
+D1
+~
+~
+0 -1 46046
+D2
+~
+~
+0 -1 46042
+D3
+~
+~
+0 -1 46061
+Z3
+C-1
+R0
+S
+#46042
+{BO,G}Greatwood{bo,g}~
+ 
+  {BOLD}{GREEN}Very little sunlight filters through the trees into this {bold}
+{BOLD}{GREEN}  great forest.  The trees here are so large twenty men{bold}
+{BOLD}{GREEN}  would have to hold hands to form a circle around their {bold}
+{BOLD}{GREEN}  base.  Old leaves crunch under your feet as you walk.  {bold}
+{BOLD}{GREEN}  There are many hills and valleys to be explored.  However,{bold}
+{BOLD}{GREEN}  you should be careful.  Bandits are rumored to live here. {bold}
+
+~
+460 4 3
+D0
+~
+~
+0 -1 46041
+D1
+~
+~
+0 -1 46047
+D2
+~
+~
+0 -1 46038
+D3
+~
+~
+0 -1 46062
+Z3
+C-1
+R0
+S
+#46043
+{BO,G}Greatwood{bo,g}~
+ 
+  {BOLD}{GREEN}Very little sunlight filters through the trees into this {bold}
+{BOLD}{GREEN}  great forest.  The trees here are so large twenty men{bold}
+{BOLD}{GREEN}  would have to hold hands to form a circle around their {bold}
+{BOLD}{GREEN}  base.  Old leaves crunch under your feet as you walk.  {bold}
+{BOLD}{GREEN}  There are many hills and valleys to be explored.  However,{bold}
+{BOLD}{GREEN}  you should be careful.  Bandits are rumored to live here. {bold}
+
+~
+460 0 3
+D0
+~
+~
+0 -1 46047
+D1
+~
+~
+0 -1 46048
+D2
+~
+~
+0 -1 46044
+D3
+~
+~
+0 -1 46038
+Z3
+C-1
+R0
+S
+#46044
+{BO,G}Greatwood{bo,g}~
+ 
+  {BOLD}{GREEN}Very little sunlight filters through the trees into this {bold}
+{BOLD}{GREEN}  great forest.  The trees here are so large twenty men{bold}
+{BOLD}{GREEN}  would have to hold hands to form a circle around their {bold}
+{BOLD}{GREEN}  base.  Old leaves crunch under your feet as you walk.  {bold}
+{BOLD}{GREEN}  There are many hills and valleys to be explored.  However,{bold}
+{BOLD}{GREEN}  you should be careful.  Bandits are rumored to live here. {bold}
+
+~
+460 0 3
+D0
+~
+~
+0 -1 46043
+D1
+~
+~
+0 -1 46049
+D2
+~
+~
+0 -1 46045
+D3
+~
+~
+0 -1 46039
+Z3
+C-1
+R0
+S
+#46045
+{BO,G}Greatwood{bo,g}~
+ 
+  {BOLD}{GREEN}Very little sunlight filters through the trees into this {bold}
+{BOLD}{GREEN}  great forest.  The trees here are so large twenty men{bold}
+{BOLD}{GREEN}  would have to hold hands to form a circle around their {bold}
+{BOLD}{GREEN}  base.  Old leaves crunch under your feet as you walk.  {bold}
+{BOLD}{GREEN}  There are many hills and valleys to be explored.  However,{bold}
+{BOLD}{GREEN}  you should be careful.  Bandits are rumored to live here. {bold}
+
+~
+460 0 3
+D0
+~
+~
+0 -1 46044
+D1
+~
+~
+0 -1 46050
+D2
+~
+~
+0 -1 46046
+D3
+~
+~
+0 -1 46040
+Z3
+C-1
+R0
+S
+#46046
+{BO,G}Greatwood{bo,g}~
+ 
+  {BOLD}{GREEN}Very little sunlight filters through the trees into this {bold}
+{BOLD}{GREEN}  great forest.  The trees here are so large twenty men{bold}
+{BOLD}{GREEN}  would have to hold hands to form a circle around their {bold}
+{BOLD}{GREEN}  base.  Old leaves crunch under your feet as you walk.  {bold}
+{BOLD}{GREEN}  There are many hills and valleys to be explored.  However,{bold}
+{BOLD}{GREEN}  you should be careful.  Bandits are rumored to live here. {bold}
+
+~
+460 0 3
+D0
+~
+~
+0 -1 46045
+D1
+~
+~
+0 -1 46051
+D2
+~
+~
+0 -1 46047
+D3
+~
+~
+0 -1 46041
+Z3
+C-1
+R0
+S
+#46047
+{BO,G}Greatwood{bo,g}~
+ 
+  {BOLD}{GREEN}Very little sunlight filters through the trees into this {bold}
+{BOLD}{GREEN}  great forest.  The trees here are so large twenty men{bold}
+{BOLD}{GREEN}  would have to hold hands to form a circle around their {bold}
+{BOLD}{GREEN}  base.  Old leaves crunch under your feet as you walk.  {bold}
+{BOLD}{GREEN}  There are many hills and valleys to be explored.  However,{bold}
+{BOLD}{GREEN}  you should be careful.  Bandits are rumored to live here. {bold}
+
+~
+460 0 3
+D0
+~
+~
+0 -1 46046
+D1
+~
+~
+0 -1 46052
+D2
+~
+~
+0 -1 46043
+D3
+~
+~
+0 -1 46042
+Z3
+C-1
+R0
+S
+#46048
+{BO,G}Greatwood{bo,g}~
+    
+   
+  {BO,G}Very little sunlight filters through the trees into this 
+  great forest.  The trees here are so large twenty men
+  would have to hold hands to form a circle around their 
+  base.  Old leaves crunch under your feet as you walk.  
+  There are many hills and valleys to be explored.  However,
+  you should be careful. Bandits are rumored to live here. {bo,g}
+  
+      
+~
+460 0 3
+D0
+~
+~
+0 -1 46052
+D1
+~
+~
+0 -1 46053
+D2
+~
+~
+0 -1 46049
+D3
+~
+~
+0 -1 46043
+Z3
+C-1
+R0
+S
+#46049
+{BO,G}Greatwood{bo,g}~
+    
+   
+  {BO,G}Very little sunlight filters through the trees into this 
+  great forest.  The trees here are so large twenty men
+  would have to hold hands to form a circle around their 
+  base.  Old leaves crunch under your feet as you walk.  
+  There are many hills and valleys to be explored.  However,
+  you should be careful. Bandits are rumored to live here. {bo,g}
+  
+      
+~
+460 0 3
+D0
+~
+~
+0 -1 46048
+D1
+~
+~
+0 -1 46054
+D2
+~
+~
+0 -1 46050
+D3
+~
+~
+0 -1 46044
+Z3
+C-1
+R0
+S
+#46050
+{BO,G}Greatwood{bo,g}~
+ 
+  {BOLD}{GREEN}Very little sunlight filters through the trees into this {bold}
+{BOLD}{GREEN}  great forest.  The trees here are so large twenty men{bold}
+{BOLD}{GREEN}  would have to hold hands to form a circle around their {bold}
+{BOLD}{GREEN}  base.  Old leaves crunch under your feet as you walk.  {bold}
+{BOLD}{GREEN}  There are many hills and valleys to be explored.  However,{bold}
+{BOLD}{GREEN}  you should be careful.  Bandits are rumored to live here. {bold}
+
+~
+460 0 3
+D0
+~
+~
+0 -1 46049
+D1
+~
+~
+0 -1 46055
+D2
+~
+~
+0 -1 46051
+D3
+~
+~
+0 -1 46045
+Z3
+C-1
+R0
+S
+#46051
+{BO,G}Greatwood{bo,g}~
+ 
+  {BOLD}{GREEN}Very little sunlight filters through the trees into this {bold}
+{BOLD}{GREEN}  great forest.  The trees here are so large twenty men{bold}
+{BOLD}{GREEN}  would have to hold hands to form a circle around their {bold}
+{BOLD}{GREEN}  base.  Old leaves crunch under your feet as you walk.  {bold}
+{BOLD}{GREEN}  There are many hills and valleys to be explored.  However,{bold}
+{BOLD}{GREEN}  you should be careful.  Bandits are rumored to live here. {bold}
+
+~
+460 0 3
+D0
+~
+~
+0 -1 46050
+D1
+~
+~
+0 -1 46056
+D2
+~
+~
+0 -1 46052
+D3
+~
+~
+0 -1 46046
+Z3
+C-1
+R0
+S
+#46052
+{BO,G}Greatwood{bo,g}~
+ 
+  {BOLD}{GREEN}Very little sunlight filters through the trees into this {bold}
+{BOLD}{GREEN}  great forest.  The trees here are so large twenty men{bold}
+{BOLD}{GREEN}  would have to hold hands to form a circle around their {bold}
+{BOLD}{GREEN}  base.  Old leaves crunch under your feet as you walk.  {bold}
+{BOLD}{GREEN}  There are many hills and valleys to be explored.  However,{bold}
+{BOLD}{GREEN}  you should be careful.  Bandits are rumored to live here. {bold}
+
+~
+460 4 3
+D0
+~
+~
+0 -1 46051
+D1
+~
+~
+0 -1 46057
+D2
+~
+~
+0 -1 46048
+D3
+~
+~
+0 -1 46047
+Z3
+C-1
+R0
+S
+#46053
+{BO,G}Greatwood{bo,g}~
+ 
+  {BOLD}{GREEN}Very little sunlight filters through the trees into this {bold}
+{BOLD}{GREEN}  great forest.  The trees here are so large twenty men{bold}
+{BOLD}{GREEN}  would have to hold hands to form a circle around their {bold}
+{BOLD}{GREEN}  base.  Old leaves crunch under your feet as you walk.  {bold}
+{BOLD}{GREEN}  There are many hills and valleys to be explored.  However,{bold}
+{BOLD}{GREEN}  you should be careful.  Bandits are rumored to live here. {bold}
+
+~
+460 0 3
+D0
+~
+~
+0 -1 46057
+D1
+~
+~
+0 -1 46058
+D2
+~
+~
+0 -1 46054
+D3
+~
+~
+0 -1 46048
+Z3
+C-1
+R0
+S
+#46054
+{BO,G}Greatwood{bo,g}~
+ 
+  {BOLD}{GREEN}Very little sunlight filters through the trees into this {bold}
+{BOLD}{GREEN}  great forest.  The trees here are so large twenty men{bold}
+{BOLD}{GREEN}  would have to hold hands to form a circle around their {bold}
+{BOLD}{GREEN}  base.  Old leaves crunch under your feet as you walk.  {bold}
+{BOLD}{GREEN}  There are many hills and valleys to be explored.  However,{bold}
+{BOLD}{GREEN}  you should be careful.  Bandits are rumored to live here. {bold}
+
+~
+460 0 3
+D0
+~
+~
+0 -1 46053
+D1
+~
+~
+0 -1 46059
+D2
+~
+~
+0 -1 46055
+D3
+~
+~
+0 -1 46049
+Z3
+C-1
+R0
+S
+#46055
+{BO,G}Greatwood{bo,g}~
+ 
+  {BOLD}{GREEN}Very little sunlight filters through the trees into this {bold}
+{BOLD}{GREEN}  great forest.  The trees here are so large twenty men{bold}
+{BOLD}{GREEN}  would have to hold hands to form a circle around their {bold}
+{BOLD}{GREEN}  base.  Old leaves crunch under your feet as you walk.  {bold}
+{BOLD}{GREEN}  There are many hills and valleys to be explored.  However,{bold}
+{BOLD}{GREEN}  you should be careful.  Bandits are rumored to live here. {bold}
+
+~
+460 0 3
+D0
+~
+~
+0 -1 46054
+D1
+~
+~
+0 -1 46060
+D2
+~
+~
+0 -1 46056
+D3
+~
+~
+0 -1 46050
+Z3
+C-1
+R0
+S
+#46056
+{BO,G}Greatwood{bo,g}~
+ 
+  {BOLD}{GREEN}Very little sunlight filters through the trees into this {bold}
+{BOLD}{GREEN}  great forest.  The trees here are so large twenty men{bold}
+{BOLD}{GREEN}  would have to hold hands to form a circle around their {bold}
+{BOLD}{GREEN}  base.  Old leaves crunch under your feet as you walk.  {bold}
+{BOLD}{GREEN}  There are many hills and valleys to be explored.  However,{bold}
+{BOLD}{GREEN}  you should be careful.  Bandits are rumored to live here. {bold}
+
+~
+460 0 3
+D0
+~
+~
+0 -1 46055
+D1
+~
+~
+0 -1 46061
+D2
+~
+~
+0 -1 46057
+D3
+~
+~
+0 -1 46051
+Z3
+C-1
+R0
+S
+#46057
+{BO,G}Greatwood{bo,g}~
+ 
+  {BOLD}{GREEN}Very little sunlight filters through the trees into this {bold}
+{BOLD}{GREEN}  great forest.  The trees here are so large twenty men{bold}
+{BOLD}{GREEN}  would have to hold hands to form a circle around their {bold}
+{BOLD}{GREEN}  base.  Old leaves crunch under your feet as you walk.  {bold}
+{BOLD}{GREEN}  There are many hills and valleys to be explored.  However,{bold}
+{BOLD}{GREEN}  you should be careful.  Bandits are rumored to live here. {bold}
+
+~
+460 0 3
+D0
+~
+~
+0 -1 46056
+D1
+~
+~
+0 -1 46062
+D2
+~
+~
+0 -1 46053
+D3
+~
+~
+0 -1 46052
+Z3
+C-1
+R0
+S
+#46058
+{BO,G}Greatwood{bo,g}~
+ 
+  {BOLD}{GREEN}Very little sunlight filters through the trees into this {bold}
+{BOLD}{GREEN}  great forest.  The trees here are so large twenty men{bold}
+{BOLD}{GREEN}  would have to hold hands to form a circle around their {bold}
+{BOLD}{GREEN}  base.  Old leaves crunch under your feet as you walk.  {bold}
+{BOLD}{GREEN}  There are many hills and valleys to be explored.  However,{bold}
+{BOLD}{GREEN}  you should be careful.  Bandits are rumored to live here. {bold}
+
+~
+460 0 3
+D0
+~
+~
+0 -1 46062
+D1
+~
+~
+0 -1 46038
+D2
+~
+~
+0 -1 46059
+D3
+~
+~
+0 -1 46053
+Z3
+C-1
+R0
+S
+#46059
+{BO,G}Greatwood{bo,g}~
+ 
+  {BOLD}{GREEN}Very little sunlight filters through the trees into this {bold}
+{BOLD}{GREEN}  great forest.  The trees here are so large twenty men{bold}
+{BOLD}{GREEN}  would have to hold hands to form a circle around their {bold}
+{BOLD}{GREEN}  base.  Old leaves crunch under your feet as you walk.  {bold}
+{BOLD}{GREEN}  There are many hills and valleys to be explored.  However,{bold}
+{BOLD}{GREEN}  you should be careful.  Bandits are rumored to live here. {bold}
+
+~
+460 0 3
+D0
+~
+~
+0 -1 46058
+D1
+~
+~
+0 -1 46039
+D2
+~
+~
+0 -1 46060
+D3
+~
+~
+0 -1 46054
+Z3
+C-1
+R0
+S
+#46060
+{BO,G}Greatwood{bo,g}~
+ 
+  {BOLD}{GREEN}Very little sunlight filters through the trees into this {bold}
+{BOLD}{GREEN}  great forest.  The trees here are so large twenty men{bold}
+{BOLD}{GREEN}  would have to hold hands to form a circle around their {bold}
+{BOLD}{GREEN}  base.  Old leaves crunch under your feet as you walk.  {bold}
+{BOLD}{GREEN}  There are many hills and valleys to be explored.  However,{bold}
+{BOLD}{GREEN}  you should be careful.  Bandits are rumored to live here. {bold}
+
+~
+460 0 3
+D0
+~
+~
+0 -1 46059
+D1
+~
+~
+0 -1 46040
+D2
+~
+~
+0 -1 46061
+D3
+~
+~
+0 -1 46055
+Z3
+C-1
+R0
+S
+#46061
+{BO,G}Greatwood{bo,g}~
+ 
+  {BOLD}{GREEN}Very little sunlight filters through the trees into this {bold}
+{BOLD}{GREEN}  great forest.  The trees here are so large twenty men{bold}
+{BOLD}{GREEN}  would have to hold hands to form a circle around their {bold}
+{BOLD}{GREEN}  base.  Old leaves crunch under your feet as you walk.  {bold}
+{BOLD}{GREEN}  There are many hills and valleys to be explored.  However,{bold}
+{BOLD}{GREEN}  you should be careful.  Bandits are rumored to live here. {bold}
+
+~
+460 0 3
+D0
+~
+~
+0 -1 46060
+D1
+~
+~
+0 -1 46041
+D2
+~
+~
+0 -1 46062
+D3
+~
+~
+0 -1 46056
+Z3
+C-1
+R0
+S
+#46062
+{BO,G}Greatwood{bo,g}~
+ 
+  {BOLD}{GREEN}Very little sunlight filters through the trees into this {bold}
+{BOLD}{GREEN}  great forest.  The trees here are so large twenty men{bold}
+{BOLD}{GREEN}  would have to hold hands to form a circle around their {bold}
+{BOLD}{GREEN}  base.  Old leaves crunch under your feet as you walk.  {bold}
+{BOLD}{GREEN}  There are many hills and valleys to be explored.  However,{bold}
+{BOLD}{GREEN}  you should be careful.  Bandits are rumored to live here. {bold}
+
+~
+460 4 3
+D0
+~
+~
+0 -1 46061
+D1
+~
+~
+0 -1 46042
+D2
+~
+~
+0 -1 46058
+D3
+~
+~
+0 -1 46057
+Z3
+C-1
+R0
+S
+#46063
+nowhere~
+~
+460 4194304 1
+Z3
+C2
+R0
+S
+#46064
+{bold}{GREEN}Knothole Glade{bold}~
+ 
+  {BOLD}{GREEN}Knothole Glade is a small close knit community.  It's{bold}
+{BOLD}{GREEN}  nestled on the side of a mountain and surrounded by {bold}
+{BOLD}{GREEN}  pine trees.  The homes here shaped with sharp angles{bold}
+{BOLD}{GREEN}  and points.  This gives Knothole Glade a unique look {bold}
+{BOLD}{GREEN}  when it's compared to the rest of Albion.  As you {bold}
+{BOLD}{GREEN}  walk through town you notice no one is out and about.{bold}
+{BOLD}{GREEN}  All the homes are locked down tight and you can see {bold}
+{BOLD}{GREEN}  people peeking out their windows at you.{bold}
+
+~
+460 0 1
+D0
+~
+~
+0 -1 46065
+D2
+~
+~
+0 -1 46015
+D3
+~
+~
+0 -1 46017
+Z3
+C-1
+R0
+S
+#46065
+{bold}{GREEN}Knothole Glade{bold}~
+ 
+  {BOLD}{GREEN}Knothole Glade is a small close knit community.  It's{bold}
+{BOLD}{GREEN}  nestled on the side of a mountain and surrounded by {bold}
+{BOLD}{GREEN}  pine trees.  The homes here shaped with sharp angles{bold}
+{BOLD}{GREEN}  and points.  This gives Knothole Glade a unique look {bold}
+{BOLD}{GREEN}  when it's compared to the rest of Albion.  As you {bold}
+{BOLD}{GREEN}  walk through town you notice no one is out and about.{bold}
+{BOLD}{GREEN}  All the homes are locked down tight and you can see {bold}
+{BOLD}{GREEN}  people peeking out their windows at you.{bold}
+
+~
+460 0 1
+D2
+~
+~
+0 -1 46064
+D3
+~
+~
+0 -1 46066
+Z3
+C-1
+R0
+S
+#46066
+{bold}{GREEN}Knothole Glade{bold}~
+ 
+  {BOLD}{GREEN}Knothole Glade is a small close knit community.  It's{bold}
+{BOLD}{GREEN}  nestled on the side of a mountain and surrounded by {bold}
+{BOLD}{GREEN}  pine trees.  The homes here shaped with sharp angles{bold}
+{BOLD}{GREEN}  and points.  This gives Knothole Glade a unique look {bold}
+{BOLD}{GREEN}  when it's compared to the rest of Albion.  As you {bold}
+{BOLD}{GREEN}  walk through town you notice no one is out and about.{bold}
+{BOLD}{GREEN}  All the homes are locked down tight and you can see {bold}
+{BOLD}{GREEN}  people peeking out their windows at you.{bold}
+
+~
+460 0 1
+D1
+~
+~
+0 -1 46065
+D2
+~
+~
+0 -1 46017
+Z3
+C-1
+R0
+S
+#46080
+A Small Trail leading North~
+
+{bold}{GREEN}  The main trail is to the south.  You are on a small trail that has{bold}
+{bold}{GREEN}  branched off of it.  This trail continues to the north.  The trail{bold}
+{bold}{GREEN}  itself is just a simple dirt path which is heavily vegetated on either{bold}
+{bold}{GREEN}  side.  Overhead, there are plenty of places where sunlight penetrates{bold}
+{bold}{GREEN}  the canopy.  A small sign posted to the side of the trail reads,{bold}
+{bold}{GREEN}  "Bowerstone".{bold}
+
+~
+460 4 3
+D0
+~
+~
+0 -1 46081
+D2
+~
+~
+0 -1 13991
+Z3
+C-1
+R0
+S
+#46081
+Continuing Down the Trail~
+ 
+{bold}{GREEN}  This trail runs north to south.  The trail itself is just a{bold} {bold}{GREEN}simple{bold}
+{bold}{GREEN}  dirt path which is heavily vegetated on either side.  Overhead,{bold}
+{bold}{GREEN}  there are plenty of places where sunlight penetrates the canopy. {bold}
+{bold}{GREEN}  The{bold} {bold}{GREEN}wind gently ruffles leafs overhead.{bold}
+
+~
+460 0 3
+D0
+~
+~
+0 -1 46082
+D2
+~
+~
+0 -1 46080
+Z3
+C-1
+R0
+S
+#46082
+A Bend in the Path~
+
+{bold}{GREEN}  This trail bends from south to west.  An old bench is resting off to{bold}
+{bold}{GREEN}  the side of the path.  The bench looks old and does not seem to be{bold}
+{bold}{GREEN}  able to support that much weight.  Vegetation has already overcome{bold}
+{bold}{GREEN}  most of it.  You can smell a burning fireplace or campfire coming{bold}
+{bold}{GREEN}  from somewhere.{bold}
+
+~
+460 0 3
+D2
+~
+~
+0 -1 46081
+D3
+~
+~
+0 -1 46083
+Z3
+C-1
+R0
+S
+#46083
+A Clearing in the Path~
+ 
+{bold}{GREEN}  The path here comes to an end but opens up in to a small clearing.{bold}
+{bold}{GREEN}  A large stone platform rests in the middle of this clearing. The{bold}
+{bold}{GREEN}  platform has 4 large stone arches circling the platform.  The arches{bold}
+{bold}{GREEN}  come together as they go up, but never actually meet.{bold}
+
+~
+460 0 3
+D1
+~
+~
+0 -1 46082
+X2147483648
+Z3
+C-1
+R0
+S
+$~

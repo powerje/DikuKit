@@ -1,0 +1,640 @@
+#25000
+Tree Justin~
+{BOLD}{GREEN}A Justin Tree{bold}{green}~
+{BOLD}{GREEN}A large tree is growing here and you feel safe under its branches.{bold}{green}
+~
+   {BO,GRE}     
+   You see standing in the middle of the town square a large tree.  Its
+   branches reach over the intersection of roads providing ample shade
+   from the midsummer sun.  As you sit down to rest for a moment you notice
+   that the bark is colored fairly lightly and has an almost fleshy coloring
+   to it.  Perhaps this tree used to be a man ? Heh !  Who ever heard of
+   such a thing !
+    
+~
+66 262780 1000 C 67
+50 -100 -10 1d1+29999 1d1+3999
+10000000 1200000000
+8 8 1
+S 67633216
+R 2097168
+D 20
+A 12
+#25001
+Healer~
+{BOLD}{CYAN}The Healer of North Village{bold}{cyan}~
+{BOLD}{CYAN}An old man is here chasing a cat with nine tails.{bold}{cyan}
+~
+{BOLD}{CYAN}
+   There is an old wizened man dressed in tattered robes here.  He
+   has a smile of amusement on his face as he tries to calm his nine
+   tailed friend.  As you look more closely at the old fool you see that
+   there is a strange look of intelligence in his eyes that betrays the
+   look of careless playfulness on his face.
+
+~
+16777282 33816700 1000 S
+51 -80 -10 1d1+29999 1d1+1400
+0 180000000
+8 8 1
+S 81266496
+R 192
+D 20
+A 12
+#25002
+Warrior~
+{BOLD}{RED}The Ultimate Warrior{bold}{red}~
+{BOLD}{RED}The Instrument of Your Death !!{bold}{red}
+~
+{BOLD}{RED}
+  You see before you a warrior of incredible stature!
+  As you look at him more closely you can see a bright aura
+ surrounding him.  He holds in his hand an axe of incredible size !
+  You are quite sure that he could hack you in half with hardly
+   an effort !
+{bold}{red}
+~
+1090560066 1124338364 0 C 41
+55 -100 -10 1d1+29999 1d1+200
+5000000 1000
+8 8 0
+S 1984
+D 20
+A 12
+#25003
+Njord Looser~
+Njord~
+A goofy looser stands gawkingly before you.
+~
+It looks like nobody!
+~
+16386 0 0 S
+60 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#25004
+guard clubguard~
+The statue of Forge~
+A large statue of Forge seems to be telling you to turn back.
+~
+
+The statue seems to be grinning at you.
+~
+1264631874 1428431804 1000 S
+52 10 -10 1d0+32000 25d25+75
+0 0
+8 8 1
+D 20
+A 12
+#25005
+blademaster trainer blade~
+{RE,BO}The {GREEN}Xanthian {RE}BLADEMASTER{re}~
+{CYAN}{BOLD}A very powerful and knowledgeable{cyan}{bold} {RED}{BOLD}warrior{red}{bold} {CYAN}{BOLD}is standing here, observing you.{cyan}{bold}
+~
+{C,BO}The{c} {B,BO}ghost{b} {C,BO}of the{c} {W,BO}supreme blademaster{w} {C,BO}may be able to help you train and
+practice.  It is he who decides who the next blademasters shall be!{c}
+
+~
+1073743938 128 0 C 4
+60 10 -10 1d1+30000 30d30+200
+0 1000
+8 8 1
+R 128
+D 20
+A 12
+#25006
+alchemist~
+the Alchemist~
+The Alchemist is here mixing dangerous chemicals trying to make gold.
+~
+The Alchemist has nearly destroyed the place. There are burn marks
+all over his face and hands and his clothes are little more than ash.
+~
+18 0 500 S
+48 10 2 0d0+32000 2d8+5
+100000 10000
+8 8 1
+R 128
+D 20
+A 12
+#25007
+clothier worker shop shopkeeper keeper~
+{CYA,BO}the Clothier{cy}~
+A nice man with a tuft of curly hair hanging over his eyes.
+~
+
+
+{YEL}
+The Clothier is about five feet tall, and the same
+in width. The massive girth of this man makes him
+almost comical. His clothes are well worn and made
+of the finest leather in all the land.
+{yel}
+~
+1275068994 1376027274 0 S
+53 10 -4 23000d1+1 10d10+342
+100000 15000000
+9 9 0
+R 128
+D 20
+A 12
+#25008
+jeweller~
+the Jeweller~
+The Jeweller is standing behind the desk.
+~
+He is fat and has a content although watchful look on his face.
+~
+6 512 1000 S
+52 10 2 1d1+30000 8d8+12
+300000 80000
+8 8 1
+D 20
+A 12
+#25009
+herbalist shopkeeper~
+{RE,BO}The H{WH}e{RE}r{WH}b{RE}a{WH}l{RE}i{WH}s{RE}t{re}~
+The herbalist is here, reading to her plants.
+~
+The herbalist is an ancient woman, but she still seems spry and
+sharp-minded when it comes to plants.  You've no doubt this woman is
+an expert in her field.
+~
+2 128 500 S
+23 10 20 6d10+390 1d8+12
+5000 80000
+8 8 2
+D 20
+A 12
+#25010
+Bar Brawler~
+{BOLD,GREEN}A Bar Brawler{bold,green}~
+{WHITE}A big guy, looking for a {YEL,BO}GREAT! {bo,RE}time is wandering around.
+~
+A rather large, well muscled, tattooed guy is sauntering around, looking
+for a place he can get a drink and maybe something more.  He seems quite
+at home here, and you get the distinct impression that he's been here
+before.
+~
+134217794 1211401128 0 S
+45 10 -3 0d0+9000 12d9+40
+100000 1000000
+8 8 0
+D 20
+A 12
+#25011
+armourer~
+{BO,G}The Armourer{bo,g}~
+An Armourer stands here.
+~
+{BO,CYA}
+The armorer of Xanth has a magical ability to sell high
+and buy low!
+{bo}
+~
+2050 128 900 S
+52 10 -2 6d10+9900 8d8+32
+25000 80000
+8 8 1
+R 128
+D 20
+A 12
+#25012
+tree druid~
+the Druid Master~
+{BO,BLA}The D{RE}r{BLA}u{RE}i{BLA}d Master.{BL}
+~
+An old tree is here, teaching the Druids of the Crossroads the 
+traits, and spells of the world to you.
+~
+16450 262312 -500 S
+56 10 1 0d0+32000 2d8+2
+5000 21000
+8 8 1
+R 128
+D 20
+A 12
+#25013
+great archmage~
+the Great One~
+The Greatest Archmage of all Xanth!
+~
+The Great Archmage looks at you,
+and asks you what your business here is.
+~
+16386 648 -400 S
+56 10 -4 0d0+3200 3d5+10
+4672 31050
+8 8 1
+R 128
+D 20
+A 12
+#25014
+seamstress~
+The Seamstress~
+The Seamstress notices you and glares agitatedly.
+~
+The Seamstress looks at you with bright blue eyes.
+~
+6 640 1000 S
+52 10 2 1d1+30000 8d8+12
+300000 80000
+8 8 1
+D 20
+A 12
+#25015
+brewer~
+The Brewer~
+A large muscle bound man.
+~
+      
+      {CYAN}The Brewer is quite muscled, which must come from
+      years of work hefting large kegs around for his loyal
+      customers.  The life of a brewer must be a good one, as
+      you note the brewer smiling happily while going about his
+      business.
+      
+~
+66 128 0 S
+1 -100 5 1d1+10 100d200+500
+0 1000
+8 8 0
+R 128
+D 20
+A 12
+#25016
+butcher keith~
+Keith the Butcher~
+A butcher stands here wearing a blood-soaked apron.
+~
+{RE,BO}     
+          A bit scarred from working with knives all of his life,
+     Keith the Butcher will serve you up some tasty morsels.
+     Don't let him gip you with his thumb on the balance!
+     
+     
+~
+1140850754 128 0 S
+60 10 -10 10d10+30000 10d10+1000
+1000 1000
+8 8 1
+R 32
+D 20
+A 12
+#25017
+tanner bob~
+Bob the Tanner~
+The superior Tanner, Bob!
+~
+Tanner Bob looks over jovially.
+He is THE superior tanner, he {UNDER}mends{under} EVERYTHING!
+~
+16777282 684 0 S
+1 10 5 1d1+10 100d100+1000
+0 20000000
+8 8 0
+R 128
+D 20
+A 12
+#25018
+time keeper~
+the Keeper of Time~
+The Impenetrable Keeper of Time
+~
+{WHITE,BO}The Timekeeper seems a bit miffed about losing
+his shroud. {wh}
+~
+16777282 140 0 S
+50 10 5 5000d2+5000 30d2+100
+0 1000
+8 8 0
+R 128
+D 20
+A 12
+#25019
+Stanely Dragon Gap~
+{BO,B}The Gap Dragon{bo,b}~
+{BO,B}The Great Dragon of the Greeat Chasm{bo,b}
+~
+{RE,BO}Stanely the Gap Dragon is a steamer.
+The type of dragon who hasn't had his brain totally fried
+by exhaustive heat, but isn't quite as intelligent as
+your smaller wyrm.
+~
+2114 262200 0 S
+55 -70 -9 0d0+30000 0d0+50
+0 1000
+8 8 0
+D 20
+A 12
+#25020
+magician storm king stormking~
+{RE,BO}the S{YE}torm Kin{RE}g{re}~
+An aging figure of a man that wears a Crown of great proportions upon his head.
+~
+The Storm King is not one of the best Kings
+that Xanth has ever had.
+
+Constantly fighting the Magician Humfrey just
+because he's a possible rival for the throne.
+
+The Storm King looks aged.
+~
+1207959872 268698280 -400 S
+50 -70 -6 300d10+25000 10d50+100
+5000000 20000000
+8 8 0
+S 512
+D 20
+A 12
+#25021
+smith blacksmith~
+the Blacksmith~
+A Blacksmith is working here, swinging his hammer.
+~
+
+{YEL,BO}
+  You see a middle-aged, very tall and strong man with very
+  big hands.  The Blacksmith is wearing a leather coat to
+  protect him from the heat of his oven. He is swinging a
+  very big hammer.
+{yel}
+~
+2 0 900 S
+52 10 -1 10d100+30000 5d10+18
+400000 400000
+8 8 1
+D 20
+A 12
+#25022
+seer great~
+the Great Seer~
+A dark shrouded figure.
+~
+The Great Seer grins happily.
+~
+66 128 0 S
+50 -50 -3 0d0+6000 30d10+20
+500000 5000000
+8 8 1
+D 20
+A 12
+#25023
+assassin~
+A Mighty Assassin~
+A face wearing a crooked smile.
+~
+
+
+{RED,BO}He is a thief who has specialized in killing
+others as effectively as possible, using all
+sorts of weapons.  His superior knowledge of
+how and where to use them combined with his
+extraordinary stealth makes him a deadly opponent.
+{re}
+~
+402653187 640 800 C 94
+50 -60 -8 0d0+10000 30d10+100
+2000000 7000000
+8 8 1
+D 20
+A 12
+#25024
+bob bartender bar tender~
+the Bar Tender~
+Bobby the Bar Tender.
+~
+Bobby is a funny looking fellow with a large nose and
+a jovial smile on his face.  His magical talent is to make
+alcoholic beverages taste like anything he wants them to.
+What a talent !
+~
+536870978 128 200 S
+50 -20 -3 0d0+5000 10d50+50
+20000000 20000000
+8 8 0
+R 128
+D 20
+A 12
+#25025
+citizen xanth girl~
+{YEL,BO}a short blonde girl{yel}~
+{GREEN}Curly blonde hair bounces around on this girls shoulders as she runs about happily.{gre}
+~
+{YEL,BO}
+The girl smiles at you and teeters with excitement,
+scampering off in the other direction.
+{ye}
+~
+268435584 128 400 C 2
+50 -80 -1 0d0+1900 10d10+0
+100000 5000000
+8 8 2
+R 524288
+D 20
+A 12
+#25026
+citizen xanth boy~
+{RE,BO}a tall red headed boy{re}~
+{BLUE,BO}A Xanthian boy plays here.{blu}
+~
+{RE,BO}
+The boy gives you a generous grin and swats a fly.
+{re}
+~
+192 128 400 C 2
+50 10 -1 0d0+1900 2d2+90
+100000 6000000
+8 8 1
+D 20
+A 12
+#25027
+child small boy~
+{GREE,BO}a small {CYA}Xanthian{GREE} boy{gree}~
+{GREE}The face of a happy young boy smiles up at you.
+~
+{RE,BO}
+The boy gives you a generous grin and swats a fly.
+{re}
+~
+268435584 128 400 C 2
+50 10 -1 0d0+1900 10d10+40
+100000 4000000
+8 8 1
+D 20
+A 12
+#25028
+child small girl~
+{GREE,BO}a small {CYA}Xanthian{GREE} girl{gree}~
+{MAG,BO}A giddy young girl twirls around in circles.{mag}
+~
+{RE,BO}
+The boy gives you a generous grin and swats a fly.
+{re}
+~
+268435584 128 400 C 2
+25 10 -1 0d0+1900 10d10+0
+100000 155000
+8 8 2
+D 20
+A 12
+#25029
+xray x x-ray~
+{CYAN}the X-RAY{cyan}~
+The X-RAY bears down upon you, with a snarl twisted upon his lips!
+~
+The X-RAY seems to look right through you!!
+~
+545276130 684 -700 S
+50 -140 -8 0d0+13000 15d8+200
+10000000 20000000
+8 8 1
+S 128
+D 20
+A 12
+#25030
+xanthian guard xanth human~
+{CYA,BO}a Xanthian Guard{cya}~
+{CYA,BO}A Guard of Xanth's {GRE}North Village{CYA} peers about intently.{cya}
+~
+{CYAN}
+The Xanthian Guard has a demeanor of kindness and
+seems ready to lend a helping hand.
+{cya}
+~
+64 2097696 500 S
+49 -80 5 0d0+6000 10d10+20
+25000 8000000
+8 8 0
+D 20
+A 12
+#25031
+captain guard xanth xanthian~
+{CYAN,BO}The Shining Guard {YEL}Captain{yel}~
+{CYA,BO}A Guard of Xanth's {GRE}North Village{CYA} peers about intently.{cya}
+~
+{CYAN}
+The Xanthian Guard has a demeanor of kindness and
+seems ready to lend a helping hand.
+{cya}
+~
+536870976 2097696 500 S
+48 10 5 0d0+8000 10d10+20
+25000 10000000
+8 8 0
+R 1048576
+D 20
+A 12
+#25032
+Guard~
+Guard~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#25033
+master warlock~
+The master warlock~
+The master warlock roams around turning everything into rabbits
+~
+
+  No one can match this great warlock in the knowledge of wizardary
+  and witchcraft.  All warlocks and witches look up to this great figure
+  to train and teach them to be like him.
+~
+1073758274 1107296896 1000 S
+45 10 -16 1d1+7500 8d8+70
+5000000 1000
+8 8 0
+R 412
+D 20
+A 12
+#25034
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#25035
+xxx xxxmob~
+XXX~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#25036
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#25037
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#25038
+mob~
+a dirty mob~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+20000000 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#25039
+stranger~
+A Stranger~
+A strange man walk quietly past you.
+~
+It looks like nobody!
+~
+536871040 1075314816 0 S
+60 -100 -10 0d0+60000 0d0+1000
+1000000000 1000
+8 8 1
+S 100138944
+R 284
+D 20
+A 12
+$~

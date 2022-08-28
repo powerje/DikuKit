@@ -1,0 +1,483 @@
+#5301
+stag~
+{Y}a Stag{b}~
+{Y}Large antlers wielded atop this large beast are aimed in your path.{b}
+~
+
+{Y}  Huge horns reign atop his skull. His eyes are a deep, beady
+{Y}  chocolate that peer at you from behind the veil of night. A
+{Y}  curious glossy chromatin glitters through the night, an embryo of
+{Y}  mistaken stars for poorly adjusted eyes.{b}
+
+~
+16777312 262956 250 S
+40 -30 -1 0d0+6000 0d0+500
+1000 3000000
+8 8 0
+S 783
+R 12
+D 20
+A 12
+#5302
+porcupine~
+{Y}a Porcupine{b}~
+{Y}Prickly thorns guard this small creature from wandering adventurers.{b}
+~
+
+{Y}  Old World porcupines are stout, heavily built animals, with
+{Y}  blunt, rounded heads, fleshy, mobile snouts, and coats of thick
+{Y}  cylindrical or flattened spines, which form the whole covering of
+{Y}  their bodies, and are not intermingled with ordinary hairs. The
+{Y}  habits of most species are strictly terrestrial.{b}
+
+~
+16777312 262956 250 S
+40 -30 -1 0d0+4500 0d0+500
+1000 3000000
+8 8 0
+S 783
+R 12
+D 20
+A 12
+#5303
+badger~
+{BLA,BO}a Badger{b}~
+{BLA,BO}A short, fat bodied creature with small legs peers at you intently.{b}
+~
+
+{BLA,BO}  Badgers have rather short, fat bodies, with short legs for
+{WH,BO}  digging. They have elongated weasel-like heads with small ears.
+{BLA,BO}  Their tails vary in length depending on species; the stink badger
+{WH,BO}  has a very short tail, while the ferret badger's tail can vary
+{BLA,BO}  depending on age. They have black faces with distinctive white
+{WH,BO}  markings, gray bodies with a light-coloured stripe from head to
+{BLA,BO}  tail, and dark legs with light coloured underbellies.{b}
+
+~
+16777312 262700 250 S
+40 -30 -1 0d0+4500 0d0+500
+1000 3000000
+8 8 0
+S 783
+R 12
+D 20
+A 12
+#5304
+fox~
+{WH,BO}a Fox{b}~
+{WH,BO}A sleek coat shelters this dexterous fox from the rainy night.{b}
+~
+
+{WH,BO}  This fox's coat is absolutely beautiful; light reflects off its
+{WH,BO}  glossy texture as though unworthy to be near such perfection. The
+{WH,BO}  furs are silky and smooth, coating over the animal to protect it
+{WH,BO}  from the cold, rainy night.{b}
+
+~
+16777312 262700 250 S
+40 -30 -5 0d0+5500 0d0+600
+750000 3000000
+8 8 0
+S 783
+R 12
+D 20
+A 12
+#5305
+elf forest~
+{G}a Forest Elf{b}~
+{G}Discrepancies in the forest vaguely outline the figure of an Elf.{b}
+~
+
+{G}  She wears a cloak, some leather, and a sturdy pair of boots. Among
+{G}  those additions, her apparel is typical to her low status. It
+{G}  consists of some forest, camouflaged pants and a green, brown
+{G}  tunic which fits poorly to her figure.{b}
+
+~
+423661664 1610875804 500 S
+50 -55 -5 0d0+10000 0d0+750
+100000 10000000
+8 8 2
+S 131983
+R 33100
+D 4
+A 12
+#5306
+scout elf~
+{G}an Elven Scout{b}~
+{G}The elf scout is not only serious and focused, but efficient and precise.{b}
+~
+
+{G}  The Elven scout stares straight forward, seemingly ignorant
+{G}  of your very presence. His pupils remain focused intently on
+{G}  the nothing that presents itself before him. Him and his
+{G}  companion scan the wilderness of the forest out towards the
+{G}  west with scrutinizing curiosity.{b}
+
+~
+687902758 539231164 500 S
+50 -55 -5 0d0+10000 10d15+100
+500000 70000000
+8 8 1
+S 132095
+R 92
+D 20
+A 12
+#5307
+leader scout elf~
+{G,BO}Elf Scout Leader{b}~
+{G}The scout leader is an adept tracker.{b}
+~
+
+{G,BO}  This female's eyes seem constantly attached to every possible
+{G,BO}  moving entity in the area. Her eyes dart towards you, fierce
+{G,BO}  and ready for the absolute worst. She begins to prepare her
+{G,BO}  blade, though she hesitates before unleashing her fury. You're
+{G,BO}  of no immediate danger to her.{b}
+
+~
+1258328070 539231164 500 S
+50 -55 -6 0d0+15000 15d15+150
+500000 70000000
+8 8 2
+S 67240959
+R 348
+D 20
+A 12
+#5308
+hunter elf~
+{G}an Elven Hunter{b}~
+{BLA,BO}An elven hunter carefully twines his bow, arrow precariously notched.{b}
+~
+
+{G}  This elf appears fierce. She steps in front of you as
+{G}  you begin to cross her path. Her and her companion extend
+{G}  their oaken staves to intersect, elimanting the opportunity
+{G}  of traveling forward.{b}
+
+~
+725651554 570688444 250 C 4
+50 -50 -7 0d0+15000 20d20+100
+500000 7000000
+8 8 2
+S 133058
+R 32844
+D 20
+A 12
+#5309
+scout elf~
+{G}an Elven Scout{b}~
+{G}The elf scout is not only serious and focused, but efficient and precise.{b}
+~
+
+{G}  The Elven scout stares straight forward, seemingly ignorant
+{G}  of your very presence. His pupils remain focused intently on
+{G}  the nothing that presents itself before him. Him and his
+{G}  companion scan the wilderness of the forest out towards the
+{G}  west with scrutinizing curiosity.{b}
+
+~
+696291366 539231164 500 S
+50 -55 -5 0d0+10000 10d15+100
+500000 70000000
+8 8 1
+S 557506
+R 92
+D 20
+A 12
+#5310
+hunter elf~
+{G}an Elven Hunter{b}~
+{BLA,BO}An elven hunter carefully twines his bow, arrow precariously notched.{b}
+~
+
+{G}  This elf appears fierce. She steps in front of you as
+{G}  you begin to cross her path. Her and her companion extend
+{G}  their oaken staves to intersect, elimanting the opportunity
+{G}  of traveling forward.{b}
+
+~
+734040162 570688444 250 C 4
+50 -50 -7 0d0+12500 20d20+100
+500000 7000000
+8 8 2
+S 962
+R 348
+D 20
+A 12
+#5311
+captain elf~
+{R}The Elf Captain{b}~
+{G,BO}Emerald eyes evaluate the broad plaza with a scrupulous gaze.{b}
+~
+
+{WH,BO}  The captain brandishes a fearsome long sword at your approach.
+{WH,BO}  It has been sharpened to a deadly razor edge. Donned upon her
+{WH,BO}  skull, a beautifully polished silver helm has crowned her as
+{WH,BO}  the reigning captain charged with the duty of guarding the
+{WH,BO}  entrance to this beloved city. Several other ornaments decorate
+{WH,BO}  her body.{b}
+
+~
+1270911078 570688188 750 C 4
+52 -80 -8 0d0+40000 20d20+200
+500000 7000000
+8 8 2
+S 1986
+R 76
+D 4
+A 12
+#5312
+dragon blue~
+{C,BO}The Blue Dragon{b}~
+{C,BO}The Blue Dragon aggressively protects its silver chest.{b}
+~
+
+{BLU,BO}  This massive blue dragon is awesome to behold. Its teeth are
+{BLU,BO}  nearly two feet in length and its body almost a hundred feet from
+{BLU,BO}  head to the end of the tail.{b}
+
+~
+1262522690 17040028 1000 C 12
+56 -230 -20 0d0+200000 50d50+1000
+1000000 1170898586
+8 8 0
+S 262656
+R 8421660
+D 12
+A 12
+#5313
+tree ancient~
+{C,BO}The Ancient Tree{b}~
+{G,BO}This tree has hundreds of {C}shimmering blue leaves {G}that sway in the wind.{b}
+~
+
+{G,BO}  The Tree builds a picture in your mind of the creations in nature
+{G,BO}  and how they are important in the environment. From this you gain
+{G,BO}  insight to a mist covered, dark area known only as the hollows.{b}
+
+~
+1224736834 537133756 1000 S
+53 -130 -15 0d0+50000 25d25+350
+500000 64601600
+8 8 0
+D 20
+A 12
+#5314
+lord old elf~
+{Y}Old Elf Lord{b}~
+{Y}An ancient-looking elf occupies his time with various plants.{b}
+~
+
+{Y}  He sits on the hard wood bench and looks at you with soft eyes
+{Y}  before returning to his work. {G,BO}He has some plants in his hands and
+{G,BO}  seems to be a botanist of sorts.{b}
+
+~
+423661634 537133228 1000 C 4
+53 -70 -10 0d0+35000 20d20+800
+500000 204015533
+8 8 0
+S 133056
+R 33100
+D 4
+A 12
+#5315
+guard elf~
+{G}an Elven Guard{b}~
+{G}A soldier of the Elven Guard stands here ready to defend his Nation.{b}
+~
+
+{G}  The Elf Guard is a soldier in the Elven Army. He wields two
+{G}  swords and appears prepared to defend his duty to his death.{b}
+
+~
+432050274 570688444 250 C 4
+50 -80 -5 0d0+10000 0d0+400
+500000 12870000
+8 8 0
+S 132035
+R 348
+D 4
+A 12
+#5316
+guard elf castle~
+{R}a Castle Guard{b}~
+{G}The guard glares at any intruders with a soul-grasping gaze.{b}
+~
+
+{R}  The guard's gaze fixes upon you for a moment
+{R}  then moves on, searching for any threat to
+{R}  the castle.{b}
+
+~
+700485732 570688444 250 S
+50 -90 -8 0d0+10000 0d0+400
+500000 53748000
+8 8 0
+S 132095
+R 348
+D 4
+A 12
+#5317
+commander elf~
+{R,BO}Elf Commander{b}~
+{G}Years of tactics and swordplay have crafted this commander.{b}
+~
+
+{R,BO}  Dark, calculating eyes stare out of a hard, angular face.
+{R,BO}  Exceptionally tall for an elf, the commander has not visibly
+{R,BO}  weakened during his years of practicing tactics instead of
+{R,BO}  swordplay.{b}
+
+~
+736137318 570426044 500 C 64
+54 -130 -9 0d0+60000 25d25+333
+1000000 197065440
+8 8 1
+S 14280
+R 33116
+D 20
+A 12
+#5318
+queen Tauramandil~
+{M,BO}Queen Tauramandil{b}~
+{C,BO}Pale blue eyes stare past you, searching for something of importance.{b}
+~
+
+{C}  There could be no way to mistake her as anything but the queen.
+{C}  She appears to be in complete control of everything around her,
+{C}  even the way the light plays off of her wispy golden hair. Her
+{C}  pale blue eyes stare past you, searching for something of greater
+{C}  importance.{b}
+
+~
+1138790500 637797052 1000 S
+55 -100 -12 0d0+60000 25d25+300
+1000000 195980400
+8 8 2
+S 2181087168
+R 8421725
+D 4
+A 12
+#5319
+prince faro~
+{BLU,BO}Prince Faro{b}~
+{Y,BO}This young prince is used to charming his way through life.{b}
+~
+
+{BLU,BO}  Judging by his ready smile and twinkling eyes, this young prince
+{BLU,BO}  is used to charming his way through life.{b}
+
+~
+2172657764 680 0 S
+50 -230 0 0d0+5000 0d0+4000
+1000000 252000000
+8 8 0
+D 1
+A 12
+#5320
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#5321
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#5322
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#5323
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#5324
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#5325
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#5326
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#5327
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+$~

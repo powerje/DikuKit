@@ -1,0 +1,400 @@
+#10000
+key rust~
+A rusty key~
+You see an old rusty key.~
+~
+18 0 0 1
+1000 0 0 0
+0 0 0
+E
+key rust~
+ 
+  An old rusty key that is almost useless.  Its decaying quickly.
+~
+#10001
+key gold~
+{Y}{BOLD}a gold key{y}{bold}~
+There is a {Y}{BOLD}gold key{y}{bold} here.~
+
+~
+18 0 0 1
+1000 0 0 0
+0 0 0
+#10002
+key old~
+an old key~
+There is a old key here~
+
+~
+18 0 0 1
+1000 0 0 0
+0 0 0
+#10003
+boots strange~
+{G}a pair of{G}{BOLD} strange{bold}{G} boots{g}~
+A pair of strange boots sit on the floor rather correctly.~
+~
+9 2147487746 0 65
+12 7000 0 0
+2 10000 1200
+E
+boots strange~
+ 
+  Boots so strange, you don't know where to wear them.
+ 
+~
+A
+18 4
+A
+13 85
+B
+1073741824
+L
+7
+C
+7000 20
+G
+75
+#10004
+claymore~
+{BLU}{BOLD}A{CY} G{W}a{BLU}la{W}ct{CY}ic {BLU}Cla{CY}ymo{W}re{bla}~
+A galactic claymore sits heavily on the ground.~
+~
+5 2147500057 0 8193
+1 11 10 6
+12 20000 15000
+E
+claymore~
+ 
+   Galactic smantic, bash someone on the head with it. 
+ 
+~
+A
+19 6
+A
+12 100
+B
+536870912
+C
+7000 1
+G
+25
+#10005
+shield opalescent~
+{CY}{BOLD}An {BLU}opalescent{blu} {CY}shield{cy}~
+An opalescent shield lies here.~
+~
+9 4112 0 513
+7 7000 0 0
+10 5000 2000
+E
+shield opalescent~
+An opalescent shield blinds you with its beauty.
+You hope it will protect you from all harm.
+~
+A
+18 6
+A
+19 3
+B
+1073741824
+L
+1
+C
+7000 1
+G
+35
+#10006
+pants parachute hot pink pair~
+{M}A pair of{M}{BOL}{BLINK} HOT PINK{blink}{bol}{M} parachute pants{m}~
+{CYAN}A pair of hot{cyan} {MAGENTA}pink{magenta} {CYAN}parachute pants calls to you.{cyan}~
+~
+9 2147487744 0 33
+10 0 0 0
+5 100 100
+E
+pants parachute hot pink pair~
+You'll just die for a pair of these hot pink parachute pants.
+~
+A
+19 5
+A
+18 4
+B
+32768
+L
+10
+C
+7000 15
+G
+100
+#10007
+slippers ruby~
+a pair of ruby slippers~
+A pair of ruby slippers light up the room.~
+~
+1 1 64 65
+-1 -1 -1 3
+2 100 100
+A
+18 5
+A
+17 -14
+B
+16777216
+#10008
+ring opal~
+{BOLD}{M}O{W}p{BLU}a{M}l{BLU} R{W}i{M}n{G}g{g}~
+{CYAN}An opal ring{cyan}~
+~
+9 2148536387 0 3
+9 0 0 0
+1 2000 4000
+E
+ring~
+ 
+   {CYAN}A glowing opan ring draws you to it.{cyan}
+ 
+~
+A
+19 5
+A
+13 75
+B
+32
+L
+7
+C
+5250 2
+#10009
+bracelet opal~
+{BOLD}{M}O{W}p{BLU}a{M}l{BLU} B{W}r{M}a{G}c{W}e{BLU}l{M}e{G}t{g}~
+You see an opal bracelet here~
+~
+9 2147487747 0 4097
+12 0 0 0
+1 2000 4000
+E
+bracelet~
+ 
+  {CYAN}An opal bracelet eminates evil.{cyan}
+ 
+~
+A
+19 4
+A
+13 65
+B
+536870912
+L
+7
+C
+6300 1
+#10010
+case display~
+display case~
+There is a large display case here~
+~
+15 0 0 0
+10000 15 10011 0
+1000 0 0
+E
+case display~
+ 
+  This once lovely case is now battered and damaged.  You are surprised
+the lock still works.  I'm sure what ever was kept in it was very
+valueable.  There is little chance it is still there.  Or is there?
+~
+#10011
+chain key~
+key chain~
+A large chain of keys are lying here~
+~
+18 65536 0 1
+0 0 0 0
+1 10 10
+E
+chain key~
+A typical ring of keys.  Most of which no longer fit a lock.
+~
+#10012
+dish dog~
+{CYAN}a dog dish{cyan}~
+{CYAN} A dog dish full of drool...{cyan}{BLACK}(moldy){black}  {CYAN}(gross){cyan}~
+~
+17 8256 0 16401
+200 200 26 0
+1 34464 2000
+E
+dish~
+ 
+  {CYAN}A disgusting and slimy dish with....things....growing in it!{cyan}
+ 
+~
+A
+17 -10
+#10013
+bone~
+{CY}a dog bone{cy}~
+{CYAN}Some dog left a tasty bone here....yummmm{cyan}~
+~
+19 0 0 1
+1 0 0 0
+1 1 1
+E
+bone~
+ 
+  {CYAN}If they're good for Mel Gibson they're good for you.{cyan}
+ 
+~
+#10014
+dagger runed~
+a runed dagger~
+A runed dagger, almost hideen from sight, lies here.~
+~
+5 513 0 24577
+2 5 5 11
+5 2000 3000
+A
+13 15
+A
+19 2
+B
+33554432
+C
+750 1
+#10015
+wall~
+wall~
+~
+~
+27 0 0 0
+10009 0 0 0
+0 0 1
+E
+wall~
+~
+#10016
+dagger enfan~
+{BLACK}Shadow's{black} {CYAN}own dagger{cyan}~
+{CYAN}Only{cyan} {BLACK}Shadow{black} {CYAN}would carry this dagger.{cyan}~
+~
+5 0 0 40961
+1 2 4 5
+10 400 100
+E
+dager~
+ 
+  {CYAN}It's not much more than a piece of junk.{cyan}
+ 
+~
+E
+dagger enfan~
+ 
+  {CYAN}It's not much more than a piece of junk.{cyan}
+ 
+~
+A
+19 2
+A
+13 2
+C
+100 1
+#10017
+key sanctum~
+The Sanctum Key~
+The holy Sanctum Key reflecitng all colors of the spectrum.~
+~
+18 0 0 1
+500 0 0 0
+1 1 1
+E
+key sanctum~
+ 
+  The power radiating from this key makes it hard to concentrate.
+You must use the key quickly before it is destroyed by its own power.
+~
+#10018
+Desk Rolltop~
+the desk~
+~
+~
+15 0 0 0
+10000 5 0 0
+1020 1 1
+E
+drawer~
+ 
+  This large drawer does not appear to be tightly closed.  It might
+open if you gave it a mightly pull.  What treasures might a Cleric
+hoard?
+~
+#10019
+drawer~
+the drawer~
+~
+~
+15 0 0 0
+10000 5 0 0
+1000 1 1
+#10020
+scroll power~
+a scroll of {BLACK}power{black}~
+A scroll has carelessly been left here.~
+~
+2 64 0 16385
+20 120 120 120
+4 3000 100
+E
+scroll~
+ 
+ 
+    a glowing {BLACK}black{black} scroll
+ 
+ 
+~
+#10021
+bones~
+A pile of bones~
+A pile of bones from the old shopeekper sit in the corner.~
+~
+15 0 0 0
+10000 0 0 0
+1001 1 1
+#10022
+potion black viscous~
+a {BLACK}black{black} viscous potion~
+An {BLACK}evil{black} looking potion rests here~
+~
+10 19 0 1
+25 1 105 39
+1 1000 0
+E
+potion black viscous~
+ 
+This evil looking potion hums with power.  It vibrates in your hand.
+Dare you test its power on yourself?
+~
+#10023
+sign~
+~
+~
+~
+27 0 0 0
+585 0 0 0
+1 1 1
+E
+sign~
+ 
+                ANNOUNCING THE GRAND REOPENING OF ENFAN'S
+ 
+        We would like to invite you to revist the old favorite...
+   Enfans!  Located off Tern Road.    All new and exciting rooms!
+ New and improved equipment.   More challenging and fearsom Monsters.
+ This zone has it all.  Its not for the faint of heart.  We recommend
+ levels 15 thru 25 to venture here.  And groups are especially welcome.
+ Don't miss this opportunity to be the first in the neighborhood to
+ own some new and fantastic equipment.  Be the first on your block to
+ Battle the evil Enfans.  from m[] go 2n w n e n and your there.
+~
+$~

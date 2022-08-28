@@ -1,0 +1,1903 @@
+#30600
+Southern end of Newbie road.~
+You are on a blue road that continues north towards newbie square,
+and the rest of newbie village. Along the way, you see roads branching
+off to newbie zones.
+
+To go to the Menagerie go <EAST>
+To go to the Great Tree go <SOUTH>
+~
+306 0 1
+D0
+~
+~
+0 -1 30601
+D1
+~
+~
+0 -1 1701
+D2
+~
+~
+0 -1 13703
+Z3
+C-1
+R0
+S
+#30601
+Southern newbie road.~
+You are on southern newbie road, the road continues south, and north
+is newbie square.
+~
+306 0 1
+D0
+~
+~
+0 -1 30602
+D2
+~
+~
+0 -1 30600
+Z3
+C-1
+R0
+S
+#30602
+Newbie Square.~
+  This is newbie square, this is the center of Newbie Village. Here,
+you see a fountain, and a statue of a warrior slaying smurfs and
+looney toons.
+~
+306 0 1
+D0
+~
+~
+0 -1 30603
+D1
+~
+~
+0 -1 30611
+D2
+~
+~
+0 -1 30601
+D5
+~
+~
+0 -1 1051
+Z3
+C-1
+R0
+S
+#30603
+Northern end of Newbie road.~
+You are travelling along newbie road. To your immediate south is
+newbie square, and newbie road continues north. There are entrances
+to newbie zones that branch off of the roads
+~
+306 0 1
+D0
+~
+~
+0 -1 30604
+D2
+~
+~
+0 -1 30602
+Z3
+C-1
+R0
+S
+#30604
+Newbie road.~
+You are on a green road that continues south towards newbie square.
+To the south is newbie square, and to the north is the end of newbie 
+road.
+
+To go to Smurf village go <WEST>.
+To go to the Dump go <EAST>.
+
+~
+306 0 1
+D0
+~
+~
+0 -1 30605
+D1
+~
+~
+0 -1 7030
+D2
+~
+~
+0 -1 30603
+D3
+~
+~
+0 -1 1774
+Z3
+C-1
+R0
+S
+#30605
+End of newbie road.~
+You are on a green road that continues south towards newbie square,
+and the rest of newbie village. Along the way you see roads branching
+off to newbie zones.
+
+To go to the Shire go <EAST>.
+To go to Gnome Village go <NORTH>.
+
+~
+306 0 1
+D0
+~
+~
+0 -1 1501
+D1
+~
+~
+0 -1 3800
+D2
+~
+~
+0 -1 30604
+Z3
+C-1
+R0
+S
+#30606
+Shrine to the Unknown~
+You step up small stone steps to a great golden shrine.  The enormity
+and awe of the monument leaves you wondering who this could be in honour
+of.  You look upwards and see the 45-lbs physique and that funky
+hair-do and you know it can be no one else.  Is is the mighty Unknown,
+the original founding COMMITTEE members of Northern Crossroads MUD.  You
+look up and see a huge sigh above his head "Aahhhh... Duhhh!"  You bow your
+head and pay your respects to the now graduated Electrical Engineer.
+~
+306 0 1
+D1
+~
+~
+0 -1 30602
+D3
+~
+~
+0 -1 30607
+Z3
+C-1
+R0
+S
+#30607
+North bound road to newbie concourse.~
+ You come to a turn in the road, where newbie road ends, and newbie
+concouse begins. Newbie concourse leads to the Timelord guard, and
+his infamous chocolate milk.
+~
+306 0 3
+D0
+~
+~
+0 -1 30608
+D1
+~
+~
+0 -1 30606
+D3
+~
+~
+0 -1 30610
+Z3
+C-1
+R0
+S
+#30608
+Newbie concourse.~
+ You're on a bright {YELLOW,BOLD}orange{yellow,bold} road, that leads west to the Chocolate
+fountain.
+~
+306 0 2
+D1
+~
+~
+0 -1 30609
+D2
+~
+~
+0 -1 30607
+Z3
+C-1
+R0
+S
+#30609
+In front of Timelord's palace.~
+ You are in front of the Timelords palace, inside these gates are
+chocolate milk, and the timelords palace.
+~
+306 0 4
+D3
+~
+~
+0 -1 30608
+Z3
+C-1
+R0
+S
+#30610
+Monument of Apolo~
+There is a large stone statue of Apolo riding the back of a fierce
+dragon. In one hand, he holds a bright red juicy Apple, and in the
+other he holds a huge paper bag filled with groceries.  Obviously he
+had just gone shopping for supplies.  You have no idea where he is,
+but it is likely that he is working in Taiwan making more money
+than you'll ever see.  You bow your head and pay your respects to
+Apolo the Computer Engineer.
+~
+306 0 1
+D1
+~
+~
+0 -1 30607
+Z3
+C-1
+R0
+S
+#30611
+{GRE}Newbie Street{gre}~
+You are on Newbie Street. To your west is the newbie square,
+and above you is the newbie healer. The thick smell of brewing
+potions wafts through the air.
+~
+306 0 1
+D1
+~
+~
+0 -1 30612
+D2
+~
+~
+0 -1 9900
+D3
+~
+~
+0 -1 30602
+D4
+~
+~
+0 -1 30617
+Z3
+C-1
+R0
+S
+#30612
+The Main Street~
+ You are on the Main newbie street, crossing through town. To the 
+south is the newbie general store, and to the west you see newbie
+square.
+~
+306 0 1
+D2
+~
+~
+0 -1 30616
+D3
+~
+~
+0 -1 30611
+Z3
+C-1
+R0
+S
+#30613
+Remembrance of Nixdorf~
+You are in a large open area with a large rock pedestal in the middle.
+On the pedestal, you see a dozen bronze waffles.  Beside it, you see
+a sign with the following enscription: "Here lies Nixdorf's last
+breakfast before he was assassinated by the sponsors of Kellogg's Pop
+Tarts." He is now a rich computer programmer working for the richer
+powers that be.  You grab the nearest waffle and pay your respects.
+~
+306 0 1
+D3
+~
+~
+0 -1 30612
+Z3
+C-1
+R0
+S
+#30614
+Unforgotten Fields of LSD~
+You walk into a large park-like area with hemp plants.  Several people are
+working here harvesting the leave and flowers off these illegal plants.
+There is a large section of the park where these are dried and packaged.
+In the centre of the park, there is a drunk sitting on a park bench.  You
+feel light-headed and you approach him.  As you get closer, you see a
+bronze plaque on the bench saying "Dedication to LSD, the COMMITTEE
+member of Northern Crossroads."  You know that he would be proud of
+this dedication and you bow your head at the drunk and thank him for his
+many years of service.
+~
+306 0 1
+D1
+~
+~
+0 -1 30601
+Z3
+C-1
+R0
+S
+#30615
+Statue of Ottomix~
+Here you see a life-size platic statue of Ottomix the macro COMMITTEE
+member of Northern Crossroads.  Although he is severly muscular and
+probably stands at over 16 feet high, he does not look opposing since
+he is in such a strange looking pose.  A stream of thick liquid
+constantly runs from his mouth down his chin.  You drink some of his
+drool, bow your head, and pay respects to Ottomix.
+~
+306 0 1
+D3
+~
+~
+0 -1 30601
+Z3
+C-1
+R0
+S
+#30616
+Newbie general store.~
+ You enter a store, through a wooden door, and an old man with a
+mustache walks up to you and points his finger at a glass case which
+contains all sorts of interesting things to help you along your 
+road to success.
+~
+306 8192 0
+D0
+~
+~
+0 -1 30612
+Z3
+C-1
+R0
+S
+#30617
+Healer shop~
+ You enter a small shop, and in a corner, you see an old balding man
+concocting some sort of potions and labelling them for sale.
+~
+306 37757056 0
+D5
+~
+~
+0 -1 30611
+Y20
+Z3
+C-1
+R0
+S
+#30618
+{M}Welcome to the {WH,BO}Wizard{w,bo}{M}'s Training Grounds{m}~
+{M}
+  Welcome, new {W,BO}Wizard{w,bo}{M}, to the wonderful world of immortality! 
+  Here, in Wizard's Training, you will learn vital commands, some rules,
+  and what being an Immortal on {R,BO}NC{r,bo}{M} is all about!!
+{M}  
+  The school is broken into sections so that you may revisit various
+  parts at anytime. However, it is strongly advised that you go through 
+  the entire school. Take you time and ask questions along the way.
+{GR}
+  Being a Wizard... Type goto 30679
+  Wizard's Play!... Type goto 30671
+  The Host...       Type goto 30630
+  Helping Morts...  Type goto 30677
+  The creator...    Type goto 30678
+{M}  
+  ENJOY!
+{m}  
+ 
+~
+306 1024 4
+D1
+~
+~
+0 -1 2099
+Z3
+C-1
+R0
+S
+#30619
+Wizhelp~
+{G}
+  The first command you are going to learn, is wizhelp, typing this
+  will give you a list of all the commands you can use at your current
+  level. Each time you raise a level in immortality, you will get
+  new commands, and you will see them appear on your wizhelp.
+{g}
+~
+306 0 2
+D3
+~
+~
+0 -1 30621
+D4
+~
+~
+0 -1 30671
+Z3
+C-1
+R0
+S
+#30620
+Goto.~
+{G} 
+  Your next command, is goto, this is the command is used when you
+  want to get around the mud, each room on this mud has a number, just
+  like this room number is 30620...Market Square is 3014, and The
+  Wizhall is 2000. There are several ways you can use goto. You can 
+{G}
+  A) Goto a room, like goto 3014.
+  B) Goto a player, like goto Loco.
+  C) Goto an item, like goto sword.
+{g}
+~
+306 0 0
+D2
+~
+~
+0 -1 30621
+D4
+~
+~
+0 -1 30631
+Z3
+C-1
+R0
+S
+#30621
+AT~
+{G}
+  At, is a command that lets you look somewhere or at someone without
+  actually being at that place, or at that person. Try it out! Type
+  at 3014 look --> You're looking at Market Square but you aren't really
+  there!! Cool huh? :)
+{g}
+~
+306 0 0
+D0
+~
+~
+0 -1 30620
+D1
+~
+~
+0 -1 30619
+Z3
+C-1
+R0
+S
+#30622
+Blah~
+{G}
+  The blah command, gives you information on a person, the info
+  it gives you, is Time they have played on the mud (total time), 
+  The last date the logged in, the last time they got a Promo, the 
+  name of the last person who gave them a promo, and the last place
+  they logged in from (their ip address). Below is a sample of what
+  it should look like. 
+{G}
+  Here's the information on Loco:
+    Time Played: 33192 minutes.
+    Last Logon: Sun Nov 17 22:18:58 2002
+{g}
+~
+306 0 0
+D1
+~
+~
+0 -1 30649
+D4
+~
+~
+0 -1 30673
+Z3
+C-1
+R0
+S
+#30623
+Bulletin~
+{G} 
+  The Bulletin command, is for the bulletins you should read as a 
+  new immortal, the bulletins, all 3 of them are guidelines of how
+  you should act as an immortal, and what you can and can't do. 
+  To read a bulletin, type help bulletin1 or help bulletin3, you should
+  read ALL 3 of them because the rules they contain are VERY important.
+{g}
+~
+306 0 3
+D1
+~
+~
+0 -1 30671
+D2
+~
+~
+0 -1 30679
+Z3
+C-1
+R0
+S
+#30624
+Clist.~
+{G}
+  Clist is a command to find out what zones an immortal has create
+  permission on. Create permission means that person may edit a zone
+  you will be able to create a zone when you hit the Wizard status. 
+{G}
+  Typing clist Loco(a fellow immortal) would look like this:
+{G} 
+  Loco has create permission in zones:
+    306
+    142
+    200
+    294
+    7
+    287
+    307
+    132
+{G} 
+  Typing clist 5(a zone number) would look like this:  
+{G} 
+  Creators for zone 5:
+  koozl
+  sparky
+  shoju
+  zieb
+  majere
+{g}
+~
+306 0 1
+D1
+~
+~
+0 -1 30625
+D5
+~
+~
+0 -1 30678
+Z3
+C-1
+R0
+S
+#30625
+Create~
+  
+{G}
+  Create is a command you will use when you start creating, it is 
+  used to obtain a link on a zone, object, mob, or room. it is
+  also used to save a room, obj, mob, or room, and drop link. 
+{g}
+~
+306 0 0
+D2
+~
+~
+0 -1 30626
+D3
+~
+~
+0 -1 30624
+Z3
+C-1
+R0
+S
+#30626
+Creators~
+{G}
+  This comand gives you a list of zone #'s and the people who 
+  own them (have create permission on them). 
+{C} 
+  Note{G} - This command only shows one person, so if more then 1 person
+  have create permission on the zone, it will only show 1.
+{g}
+~
+306 0 0
+D0
+~
+~
+0 -1 30625
+D2
+~
+~
+0 -1 30651
+Z3
+C-1
+R0
+S
+#30627
+Diary~
+{G}
+  Diary, is a command that shows you the immortal Diary. This
+  diary is here, for when immorts do something important or see
+  something important, they can post it. The diary is NOT for posting
+  that you helped a newbie, or that you loaded a newbie package. It
+  IS for when you reimburse someone their corpse, or do something
+  irregular that you feel is important. The command line for diary is:
+  Diary --> Will list the previous diary entries.
+  Diary <message> --> Will enter the message you want.
+{g}
+~
+306 0 0
+D1
+~
+~
+0 -1 30664
+D2
+~
+~
+0 -1 30674
+Z3
+C-1
+R0
+S
+#30628
+Edit~
+{G}
+  Edit, is a command you use when you learn to create, it is used 
+  like this: Edit room 30000, or edit obj 12345, etc. 
+{g}
+~
+306 0 1
+Z3
+C-1
+R0
+S
+#30629
+Fog~
+{G}
+  This is a command you use, after a god+ has given you a FOG_LEADER
+  flag. It puts the fog flag on mortals. The command is: Fog <person>
+  Like - Fog Loco 
+{C}
+  Note{G} - For the fog flags to work, chaos must be on.
+{g}
+~
+306 0 1
+D1
+~
+~
+0 -1 30630
+D3
+~
+~
+0 -1 30646
+Z3
+C-1
+R0
+S
+#30630
+{Y,BO}The Host{y,bo}~
+{Y,BO}
+  As a host or hostess here on NC you need to be aware
+  of a few gaming commands. The commands found in this
+  section of the school are used for various games/events
+  you may wish to host for the mortals.
+{y,bo}
+~
+306 0 1
+D3
+~
+~
+0 -1 30629
+D4
+~
+~
+0 -1 30641
+Z3
+C-1
+R0
+S
+#30631
+Invis~
+{G}
+  Invis is a toggle which will set your status of
+  invisibility on and off. Simply typing invis will
+  set your invisibility to your current immort level
+  (i52) or if you are invis already it will make you
+  visible to all. Also, typing invis + a number will
+  make you invisible to those under that level. (i15)
+  will make you invisible to those under level 15. 
+  As a wizard (level 52), you can make yourself invis
+  to other wizards by typing invis 53. 
+{g}
+~
+306 0 1
+D2
+~
+~
+0 -1 30642
+D5
+~
+~
+0 -1 30620
+Z3
+C-1
+R0
+S
+#30632
+Load~
+{G}
+  Load is a command which loads a mob or an object. To be able to
+  load, you must have create permission on a zone and get the load
+  flag from a COMM.
+{G} 
+  To use load, type: load o or m, if you want a object or mob, then
+  the object or mob #, like: {C}load o 12345.
+{c}
+~
+306 0 1
+D0
+~
+~
+0 -1 30633
+Z3
+C-1
+R0
+S
+#30633
+Medit~
+{G}
+  Medit is a command you use when you are creating a 
+  zone, and want to edit a mob that a COMM give you. 
+  The command to use this is: {C}med <option> 
+{c}
+~
+306 0 1
+D1
+~
+~
+0 -1 30638
+D3
+~
+~
+0 -1 30676
+Z3
+C-1
+R0
+S
+#30634
+Membership.~
+{G}
+  Membership is a command you use when REF mode is on. It puts
+  someone on, or off of a REF team. 
+  The command line is: {C}membership <person> a or b{G} 
+  Like - mem loco a, or mem loco b
+{g}
+~
+306 0 1
+D1
+~
+~
+0 -1 30663
+D5
+~
+~
+0 -1 30646
+Z3
+C-1
+R0
+S
+#30635
+Newbie.~
+{G}
+  The newbie command is used to load a newbie package
+  and give it to a newbie. When you type the word newbie,
+  some eq and some gold will drop to the ground. Only use
+  this command one time when greeting a newbie, and there
+  is no giving this to people who are logging on as second
+  characters.
+{g}
+~
+306 0 1
+Z3
+C-1
+R0
+S
+#30636
+Noshout~
+{G}
+  You use this command, when you feel someone is abusing
+  the shout channel. This will give that person a NOSHOUT
+  flag which will ban them from shouting untill it is removed. 
+  The command line is: {C}noshout <name>
+{c}
+~
+306 0 1
+D1
+~
+~
+0 -1 30666
+D4
+~
+~
+0 -1 30669
+Z3
+C-1
+R0
+S
+#30637
+Nowiz.~
+{GR}
+  The command nowiz is for when you wish to sign off 
+  ALL the immort channels, or sign back on once you 
+  have turned them off. 
+{gr}
+~
+306 0 1
+D2
+~
+~
+0 -1 30640
+D4
+~
+~
+0 -1 30664
+Z3
+C-1
+R0
+S
+#30638
+Oedit.~
+{G}
+  Oedit is a flag exactly like Medit, but you use it for editing 
+  objects instead of mobs.
+  Command line: {C}oed <command line>
+{c}
+~
+306 0 1
+D2
+~
+~
+0 -1 30645
+D3
+~
+~
+0 -1 30633
+Z3
+C-1
+R0
+S
+#30639
+Page~
+{G}
+  This command, is for when you want to get someone's 
+  attention. When you page someone, it will make their 
+  computer beep if they have sound on. Here try it...
+  type: {C}page <yourname> {G}like page Loco :) 
+  Your pager may be toggled on and off simply by typing
+  page.
+{g}
+~
+306 0 1
+D1
+~
+~
+0 -1 30655
+D4
+~
+~
+0 -1 30644
+Z3
+C-1
+R0
+S
+#30640
+Pecho~
+{G}
+  Pecho is a command used to "Echo" someone, when you use 
+  this command it will look like something actually happened,
+  like if you type pecho rygar A bug lands on your nose, Rygar
+  will see "a bug lands on your nose". 
+  The command is: {C}pecho <name> <message> 
+{c}
+~
+306 0 1
+D0
+~
+~
+0 -1 30637
+D5
+~
+~
+0 -1 30641
+Z3
+C-1
+R0
+S
+#30641
+Pkill~
+{G}
+  The pkill command lets you view the PK scoreboard.
+{g}
+~
+306 0 1
+D4
+~
+~
+0 -1 30640
+D5
+~
+~
+0 -1 30630
+Z3
+C-1
+R0
+S
+#30642
+Poofin~
+{G}
+  Your poofin is the message seen as an immortal enters the room
+  on a goto command.  It is very much like using the title command.
+  The command line would be: {C}poofin blah blah @ blah blah{G}
+  Type the following: poofin @ is the newbie immort! Kill me!
+{g}
+~
+306 0 1
+D0
+~
+~
+0 -1 30631
+D3
+~
+~
+0 -1 30643
+Z3
+C-1
+R0
+S
+#30643
+Poofout.~
+{G}
+  Poofout is exactly like poofin, except people will see this when
+  you leave a room using the goto command. 
+  Type the following: {C}@ has the coolest poofout ever!!
+{c}
+~
+306 0 1
+D0
+~
+~
+0 -1 30659
+D1
+~
+~
+0 -1 30642
+Z3
+C-1
+R0
+S
+#30644
+Quiet~
+{G}
+  Quiet is used when you want to ignore all outside noise, typing
+  this will channel you out of all channels, including immort and mortal
+  channels, and also make it so you no longer hear IRC, call, or tells.
+  Typing Quiet again will turn this off and channel you back into all
+  the channels you were previously on and allow you to see tells and
+  IRC once again. 
+{g}
+~
+306 0 1
+D1
+~
+~
+0 -1 30674
+D5
+~
+~
+0 -1 30639
+Z3
+C-1
+R0
+S
+#30645
+Redit~
+{G}
+  Redit is like oedit, and medit only you use it to edit 
+  rooms instead of mobs or objects. Just like typing oedit
+  or medit, typing redit by itself will give you a list of 
+  room editing options.
+{g}
+~
+306 0 1
+D0
+~
+~
+0 -1 30638
+D4
+~
+~
+0 -1 30656
+Z3
+C-1
+R0
+S
+#30646
+RefA and RefB~
+{G}
+  RefA and RefB are the REF gossip channels where teams can communicate
+  during the ref. To use them type refa <message> or refb <message>, or
+  if you wish to send a message to both teams at once simply type
+  ref <message>. 
+{g}
+~
+306 0 1
+D1
+~
+~
+0 -1 30629
+D4
+~
+~
+0 -1 30634
+Z3
+C-1
+R0
+S
+#30647
+Rlevel.~
+{G}
+  Rlevel is used when you wish to know what the current room level is.
+  If a room level is above your level, you may not enter it unless someone
+  transfers you there. For instance if you are level 51 and the rlev on a
+  room is 52 you can not enter it. 
+{g} 
+~
+306 0 1
+D0
+~
+~
+0 -1 30648
+D4
+~
+~
+0 -1 30677
+Z3
+C-1
+R0
+S
+#30648
+Rwho.~
+{G}
+  Rwho is used when you wish to get a "WHO" list with everyone's
+  level, hitpoints, mana, energy, and experience on it.
+{g}
+~
+306 0 1
+D1
+~
+~
+0 -1 30654
+D2
+~
+~
+0 -1 30647
+Z3
+C-1
+R0
+S
+#30649
+Set.~
+{G}
+  The command set is to set things to do with your character. At your
+  level you will see that you may have a limited of things to set, but
+  as you progress up in levels you will get more things to be able to
+  set, and at GOD status you can set other people's stats. 
+{g}
+~
+306 0 1
+D3
+~
+~
+0 -1 30622
+D4
+~
+~
+0 -1 30650
+Z3
+C-1
+R0
+S
+#30650
+Setflag~
+{G}
+  Setflag is like the set command, only it sets flags instead of
+  setting stats.
+  Type setflag to learn more.
+{g}
+~
+306 0 1
+D1
+~
+~
+0 -1 30678
+D5
+~
+~
+0 -1 30649
+Z3
+C-1
+R0
+S
+#30651
+Show.~
+{G}
+  Use this command to show a variety of things around the mud.
+  For example, you can show rooms, mobs, objects, zones, etc.
+  Type {C}show z 7{G} and you get infomation on zone 7:
+{C}
+      Zone: 7 - Hockey Game(Loco)
+     Rooms: 700 - 799
+   Players:  0    Rooms:  0       Mobiles: 121    Objects: 0
+  Owned by: loco  
+{G}
+  Try show m 7 or show o 7 or show r 7. At level 52, you are limited
+  as to the things you can show, but this will change with time.
+  Soon, you'll be able to show pco and look at what eq a character
+  has even if it is not logged onto the mud.
+{g}
+~
+306 0 1
+D0
+~
+~
+0 -1 30626
+D3
+~
+~
+0 -1 30656
+Z3
+C-1
+R0
+S
+#30652
+Stat.~
+{G}
+  Stat will give you an stats on mobs and objects, like how 
+  much damroll or hitroll it has. It will also tell you some 
+  of the descriptions for the mob or object.
+  Command lines: {C}ostat ###    mstat ###  
+  {R,BO} 
+  NOTE{r,bo}{G}: This command is NOT to be used to find out the stats on
+  a piece of eq your mortal has that is magical, or to stat a mob that
+  your mortal is going to fight, this is only to be used if you are making
+  a zone and need to compare stats, or you have prior approval. Abuse
+  of this command will result in SEVERE punishment such as demotion,
+  or deletion. 
+{g}
+~
+306 0 1
+D0
+~
+~
+0 -1 30653
+D2
+~
+~
+0 -1 30676
+Z3
+C-1
+R0
+S
+#30653
+Switch.~
+{G}
+  Switch is used to switch over to a mob, and take control over it.
+  When you are switched into a mob, your immortal will become invisible,
+  and you can use the mob to move around, talk and gossip. This also
+  is not to be abused like switching to a blocking mob in a zone your
+  mort is doing and moving it out of the way, and breaking this rule
+  will be dealt with SEVERLY. Switch is great for avoiding the use of
+  the force command which spams the higher ups. Switch into your mob 
+  and wear all...
+{g}
+~
+306 0 1
+D1
+~
+~
+0 -1 30658
+D2
+~
+~
+0 -1 30652
+Z3
+C-1
+R0
+S
+#30654
+Users.~
+{G}
+  Typing users will give you a list of all the players on, their IP
+  address, how long they have been idle for, and what they are doing.
+{g}
+~
+306 0 1
+D2
+~
+~
+0 -1 30666
+D3
+~
+~
+0 -1 30648
+Z3
+C-1
+R0
+S
+#30655
+Wizlog.~
+{G}
+  Wizlog is used to toggle various wizlogs on or off. Simply typing
+  wizlog will give you a list of 7 logs. To toggle these logs, type
+  wizlog #, like wizlog 1 or wizlog 4.
+{g}
+~
+306 0 1
+D3
+~
+~
+0 -1 30639
+D5
+~
+~
+0 -1 30659
+Z3
+C-1
+R0
+S
+#30656
+Zedit.~
+{G}
+  Zedit is like medit, oedit, and redit, except it is used to 
+  set flags on your zone instead of editing mobs, rooms, and 
+  objects. After creating a lock for your zone, type zedit to
+  explore the options.
+{g}
+~
+306 0 1
+D1
+~
+~
+0 -1 30651
+D5
+~
+~
+0 -1 30645
+Z3
+C-1
+R0
+S
+#30657
+{C}FiNiTo!{c}~
+{C}
+  Well, you are now ready to enter the world of immortal hood.
+  As you gain experience in being immortal, you will become
+  a higher level, with new commands to your disposal.
+  We cannot explain all commands in detail here, so, if you
+  have any questions, ask one of the older and more experienced
+  immortals to explain it to you.
+ {C}
+  Have fun being immortal!  Create lots, be helpful, don't cheat,
+  and DO NOT HARASS MORTS!
+{c}
+~
+306 0 1
+D5
+~
+~
+0 -1 30672
+Z3
+C-1
+R0
+S
+#30658
+Zreset~
+{G}
+  Zreset is a zone reset command. By typing zreset you will reset
+  the zone you are standing in. By typing zreset ## you will 
+  be able to reset that zone. You should never reset a zone with
+  the reason that a group of mortals wishes to do that zone. Zreset
+  should be used to reset what you are working on. Use your best
+  judgement! Afterall, you are a wizard now.
+{g}
+~
+306 1024 1
+D3
+~
+~
+0 -1 30653
+D4
+~
+~
+0 -1 30665
+Z3
+C-1
+R0
+S
+#30659
+WIZ~
+{G}
+  Wiz is the command you use to speak on wizard channel. This 
+  channel is heard by those of wizard status and above. Unlike
+  gossip, wizard cannot be toggled on and off separately from 
+  other channels. Nowiz and quiet will help you there.
+{g}
+~
+306 32 9
+D2
+~
+~
+0 -1 30643
+D4
+~
+~
+0 -1 30655
+Z3
+C-1
+R0
+S
+#30660
+First National Bank of Midgaard!~
+  You enter a huge room, the walls are lined with pictures of all 
+the senic areas of Northern Crossroads. Along the east wall is the
+vault, and to the north is the teller line. Also on your left is
+an ATM machine.
+~
+306 0 0
+D0
+~
+~
+0 -1 30661
+D1
+A huge metal circle has been cut into the wall, and guards the
+money of Midgaard.
+~
+Vault~
+4 30628 30662
+D2
+~
+~
+0 -1 3026
+Z3
+C-1
+R0
+S
+#30661
+Teller line.~
+ 
+  You approach the teller and see piles of money lined against the
+wall behind her. You stare at the money for a while before the man in
+back of you shoves you and tells you to hurry up. 
+ 
+  Along the floor, are marble tiles which lead out from here to 
+the entrance of the bank.
+~
+306 0 0
+D2
+~
+~
+0 -1 30660
+Z3
+C-1
+R0
+S
+#30662
+The Vault of the First National Bank of Midgaard.~
+  
+  The walls of the room are steel, lined with small cabinets which
+contain all of the precious money of the citizens of Midgaard. As
+you reach out and begin to turn the knob of the first cabinet, the
+alarm goes off, you better hurry up and get out of here!
+~
+306 0 1
+D3
+~
+Vault~
+4 30628 30660
+Z3
+C-1
+R0
+S
+#30663
+Winner~
+{G}
+  The winner command will allow you to set the winning team during
+  a fog or ref so that they may use the winner command to claim
+  their prize.
+{g}
+~
+306 0 5
+D2
+~
+~
+0 -1 30677
+D3
+~
+~
+0 -1 30634
+Z3
+C-1
+R0
+S
+#30664
+Jobs~
+{G}
+  The jobs command offers up a list of jobs that the COMMITTEE 
+  have deemed important. Anything you can do to complete or further
+  any listed tasks is greatly appreciated. 
+{g}
+~
+306 0 2
+D3
+~
+~
+0 -1 30627
+D5
+~
+~
+0 -1 30637
+Z3
+C-1
+R0
+S
+#30665
+Darklevel~
+{G}
+  Typing darklevel will not only explain darklevels to you, but 
+  give you the darklevel of the room in you are in. It looks like
+  this...
+{C} 
+  Usage: darklevel <level> (-1 to 20)
+         darklevel <level> zone (-1 to 20)
+  Current darklevel: 4
+{C}
+   Set to -1 for invariant base darklevel of 3, regardless of time.
+   Darklevels 0-2 represent levels of light (0 = intense, 2 = bright).
+   Darklevel 1 represents the high-noon value.
+   Darklevel 3 represents the base level of dark/light during daylight.
+   Darklevel 4 represents daybreak/nightfall value.
+   Darklevel 6 represents twilight value.
+   Darklevel 9 represents night value.
+   Darklevel above 15 is quite dark, above 17 requires magical light to see.
+   To make the darklevel invariant at different times of the day, 
+   the DARK flag must be set. 
+{c}  
+~
+306 1 1
+D1
+~
+~
+0 -1 30672
+D5
+~
+~
+0 -1 30658
+Z4
+C-1
+R0
+S
+#30666
+Corpse~
+{G}
+  The corpse command is used to see the items that a player had
+  when he last died. It is useful when varifying that the player
+  had the item they claim is now missing. It will also show you 
+  information about where and when that player died last, and 
+  how much gold the corpse contained. 
+  Command line: {C}corpse look (player) {G}and {C}corpse look player.old
+{c}
+~
+306 0 2
+D0
+~
+~
+0 -1 30654
+D3
+~
+~
+0 -1 30636
+Z3
+C-1
+R0
+S
+#30667
+Unaffect~
+{G}
+  Unaffect will remove the spells casted on a player. The command 
+  line looks like this: unaffect loco silence. Cast a few spells 
+  on yourself and then try removing them using unaffect.
+{g}
+~
+306 8 1
+D1
+~
+~
+0 -1 30670
+D4
+~
+~
+0 -1 30668
+Z3
+C-1
+R0
+S
+#30668
+Transfer~
+{G}
+  Transfer is the immortal equivalent of summon. It allows you to
+  summon a mortal or mob to any given room. Again before transferring
+  a mortal to any room be sure you have good reason and permission
+  from the mortal. Do Not abuse this command or use it to help a
+  mortal cheat.
+{g}
+~
+306 0 5
+D2
+~
+~
+0 -1 30669
+D5
+~
+~
+0 -1 30667
+Z-1
+C-1
+R0
+S
+#30669
+Snoop~
+{G}
+  Snoop allows you to see everything a certain player does, sees,
+  or says. It is a great way to help fix aliases or colour problems.
+  Unless you suspect a mortal of cheating you must ALWAYS ask for 
+  permission to snoop. If you do suspect that a mortal is cheating
+  ask to speak to someone about it on wiz channel and begin snooping.
+  If you seem to be having trouble while learning to create, you 
+  might wish to ask a more experienced immortal of a higher level
+  to snoop you and see what's giving you trouble.
+{g}
+~
+306 16 1
+D0
+~
+~
+0 -1 30668
+D5
+~
+~
+0 -1 30636
+Z3
+C-1
+R0
+S
+#30670
+Restore~
+{G} 
+  Restore is a useful command. There is no need to cast miracle
+  on yourself while other immortals are abusing you. You can just
+  type restore like... restore loco. This command will also enable 
+  you to aid newbies. When the wizlog announces the incapacitation 
+  of one of our newer players(level 15 or lower, newbie) you may type
+  At player restore player to save him.
+{g}
+~
+306 0 1
+D2
+~
+~
+0 -1 30673
+D3
+~
+~
+0 -1 30667
+Z3
+C-1
+R0
+S
+#30671
+{M}Wizard's Play{m}~
+{M}
+                        WIZARD'S PLAY
+{M}
+  In the next few rooms you will learn the commands that make
+  being a wizard fun. YOU have some really cool new commands 
+  to test out. Well... What are you waiting for?
+{m}  
+~
+306 0 1
+D3
+~
+~
+0 -1 30623
+D5
+~
+~
+0 -1 30619
+T30670
+Z3
+C-1
+R0
+S
+#30672
+Force~
+{G}
+  Force is used to command a player or mob to do something such 
+  as wear/remove objects, set alias, edit alias, etc. Keep in
+  mind that this command is not to be abused. Forcing a mortal
+  to do anything they don't want done is illegal. On rare occasions
+  you may wish to use this command to help a new player set colour
+  defaults or fix aliases. However, it is better if you can avoid
+  forcing and teach them how to do it on their own.
+{g}
+~
+306 0 1
+D3
+~
+~
+0 -1 30665
+D4
+~
+~
+0 -1 30657
+Z3
+C-1
+R0
+S
+#30673
+Newbize~
+{G}
+  Newbize is a cool command which enables a newbie to be easily 
+  identified. This command places a NEWBIE flag on the player.
+  Before you newbize a character be sure that it is the first 
+  character of this player. Explain to them that the newbie flag
+  will  protect them from harm for a few levels and invite more
+  experienced players to share advice and offer help. If they wish
+  not to wear the flag respect their wishes.
+{g}
+~
+306 0 1
+D0
+~
+~
+0 -1 30670
+D5
+~
+~
+0 -1 30622
+Z3
+C-1
+R0
+S
+#30674
+Peace~
+{G}
+  Peace is the immortal form of pax. This will cause all in a room
+  to be seated and stop whatever it is that was going on. Again,
+  don't use peace to interfere with mortals. The common use for 
+  peace around here is during an immortal battle where there is 
+  much spam. Perhaps later we'll show you what that means. :)
+{g}
+~
+306 0 1
+D0
+~
+~
+0 -1 30627
+D3
+~
+~
+0 -1 30644
+Z3
+C-1
+R0
+S
+#30675
+ARE YOU READY TO BE SCARED?~
+  The halloween Quest will be starting momentarily. Please stand 
+by.
+~
+306 0 1
+D3
+~
+~
+0 -1 30599
+Z3
+C-1
+R0
+S
+#30676
+Purge~
+{G}
+  The purge command is used to get rid of or delete items and mobs
+  from a room. Be careful when using this command as you may purge 
+  something you didn't intend to purge. Typing purge mob will delete
+  the first mob in the room. Typing purge smurfette will purge just 
+  smurfette. Typing purge by itself will clear the room of everything
+  except other players. As tempting as it might be at times DO NOT
+  purge other players or you will suffer severe consequences.
+{g}
+~
+306 0 4
+D0
+~
+~
+0 -1 30652
+D1
+~
+~
+0 -1 30633
+Z-1
+C-1
+R0
+S
+#30677
+{WH,BO}Helping Mortals{wh,bo}~
+{W,BO}
+  As you know by now, helping mortals, especially newbies,
+  is your job! It is easier to help them with little things
+  when you know what information you have about each mortal
+  readily available to you. 
+{w,bo}
+~
+306 0 1
+D0
+~
+~
+0 -1 30663
+D5
+~
+~
+0 -1 30647
+Z3
+C-1
+R0
+S
+#30678
+{M}The Creator{m}~
+{M}
+  At first, creating may seem like a lot to remember. However,
+  like most things, the more you practice the easier it will  
+  become. The following rooms will provide you with an explanation
+  of various creation commands. Remember, if you need help or 
+  have a question don't hesitate to ask.
+{m}
+~
+306 0 1
+D3
+~
+~
+0 -1 30650
+D4
+~
+~
+0 -1 30624
+Z3
+C-1
+R0
+S
+#30679
+{M}Being a Wizard{m}~
+{M}
+  There is a lot to know about being a Wizard. Your love 
+  of NC and dreams of great things has brought you to
+  this place. Now you have much work to do...
+{M}
+  Deep within you is knowledge and power like you've not 
+  known before. Each day you will learn more and more.
+  Revisiting the Training Grounds would be a wise decision.
+{M}
+  In this part of your adventure you will be introduced to
+  rules which apply to this realm. You are no longer mortal
+  and things have certainly changed.
+{m} 
+~
+306 0 1
+D0
+~
+~
+0 -1 30623
+Z3
+C-1
+R0
+S
+#30697
+Gambit's Den~
+ 
+The smell of cajun cooking sends you reeling with memories of the deep
+south. Those cajun spices and foods sure do make your mouth water! Looking
+out the windows you can see the bayou and swamps and magnolia trees. 
+Plenty of photos adorn the walls that the charming rogue calls home. You
+can see pictures of all the HELLIONS after they have ruthlessly slaughtered
+all the members of the other clubs. Such pleasant memories! You are
+surprised to see a small lab where the cajun cooks up some unpleasant
+mischief for those who would stand in his way! The place abound with
+charisma and charm - the charisma and charm of GAMBIT!
+ 
+ 
+~
+306 0 1
+D4
+~
+~
+0 -1 2000
+D5
+~
+~
+0 -1 3014
+Z3
+C-1
+R0
+S
+#30698
+The Last Resort~
+She came from Providence, the one in Rhode Island... Where the Old World 
+shadows hang, heavy in the air.  She packed her hopes and dreams, like a 
+refugee.... Just as her father came across the sea.  She heard about a 
+place, people were smiling.... They came from everywhere to the Great 
+Divine. Seeking a place to stand.....or a place to hide...."    -Eagles
+~
+306 65544 3
+D0
+~
+~
+0 -1 201
+D1
+~
+~
+0 -1 30500
+D2
+~
+~
+0 -1 20366
+D3
+~
+~
+0 -1 -1
+D4
+~
+~
+0 -1 3333
+D5
+~
+~
+0 -1 3014
+Z3
+C-1
+R0
+S
+#30699
+Titannia's mountain top~
+As you finish your long climb to the top of this majestic mountain, you
+see a woman sitting on the edge of a pond.  Her hair is flowing in the 
+gentle breeze, and her feet are in the water.  She looks up as you approach,
+and smiles at you.  You realize that you've seen this lady before, it's 
+Titannia, Queen of Fairie.
+~
+306 73736 0
+D2
+~
+~
+0 -1 18601
+D5
+You see the door to Titannia's heart.
+~
+Alban~
+1 -1 10300
+M51
+Z3
+C-1
+R0
+S
+$~

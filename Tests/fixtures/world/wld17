@@ -1,0 +1,3103 @@
+#1701
+Entrance to the Menagerie~
+        You are standing on a smooth road that leads to the Menagerie.
+To the north you can see the ticket office and to the south the road you
+just left.
+~
+17 4 1
+D0
+You can see the ticket office.
+~
+~
+0 -1 1702
+D2
+~
+~
+0 -1 3503
+E
+sign~
+
+         ***********************************************
+        **                                             **
+       **                 MENAGERIE                     **
+       **     Open daily from sun rise till sun set     **
+        **                                             **
+         ***********************************************
+                   |                          |
+                   ****************************
+                   * AFTER DARK THE MENAGERIE *
+                   *  IS STILL OPEN, BUT YOU  *
+                   *  ENTER AT YOUR OWN RISK  *
+                   ****************************
+~
+Z3
+C-1
+R0
+S
+#1702
+Main gate of the Menagerie~
+        You are stand just outside a large gate which is the ONLY entrance
+into the Menagerie.  The gate and wall that connect to it look as if they
+where built to keep something in not you out. To the north you can see the
+main square in the menagerie and off to the west you can see a large aviary.
+There is a large sign on the wall here.
+~
+17 0 1
+D0
+The main square of the menagerie.
+~
+gate~
+1 -1 1703
+D1
+You see a small office, where tickets are sold.
+~
+~
+0 -1 1704
+D2
+This is the way out of the menagerie.
+~
+~
+0 -1 1701
+E
+sign~
+
+                   /---------------------------------------\
+                   |  Please enter the ticket booth to the  |
+                   |   east to purchase your ticket to the   |
+                   |               Menagerie.               |
+                   \----------------------------------------/
+
+~
+E
+gate~
+The gate is about 10 feet tall made entirely of steel.  From the way the
+hinges of the gate are mounted you can tell this gate was made to keep someone
+or something in not out.
+~
+Z3
+C-1
+R0
+S
+#1703
+Menagerie main square~
+        You are standing at the crossroads of the Menagerie. Carved into the
+large stone that makes up the walkway is a map of the Menagerie.  It shows
+the Aviary to the west.  The Dog Kennels and Mammals to the north with what
+looks like a large lake to the east, it may be a complete ocean.
+~
+17 4 1
+D0
+The land to the north looks wide open.
+~
+~
+0 -1 1705
+D1
+You can see a large body of water in the distance.
+~
+~
+0 -1 1706
+D2
+You can see the main gate of the menagerie.
+~
+gate~
+1 -1 1702
+D3
+You can see what looks like four large trees caught in a fish net.
+~
+~
+0 -1 1707
+E
+map floor stone~
+
+                     MAMMALS
+                        |
+                      [path]- DOG KENNELS
+                        |
+            REPTILES -[path]
+                        |
+      AVIARY -[path]-[square]-[path]- Large body of water
+                        |
+                      [gate]-[ticket office]
+                        |
+
+~
+E
+gate~
+The gate is about 10 feet tall made entirely of steel.  From the way the
+hinges of the gate are mounted you can tell this gate was made to keep someone
+or something in not out.
+~
+Z3
+C-1
+R0
+S
+#1704
+Ticket office~
+        As you walk into the office you notice a small sign on the wall.
+On the north wall is a counter that runs the full length of the wall.  From
+ceiling to the counter are iron bars, behind the iron bars is a young lady
+selling tickets to the Menagerie.  The smell of popcorn with melted butter
+fills the air.
+~
+17 0 0
+D3
+The way to the main gate.
+~
+~
+0 -1 1702
+E
+SIGN LIST MENU~
+
+
+                       TICKETS 100 coins
+                       POPCORN 25 coins a bag
+
+~
+Z3
+C-1
+R0
+S
+#1705
+The Main path~
+        You arrive here to discover that your surroundings have started to
+change.  The closer you get to the mammals area the more wide open the area
+has become.  The noise of barking dogs is all that you can hear coming from
+the east.  The sign over the path to the north say "MAMMALS" and "KENNELS"
+and to the west you see a small cave.  Over the entrance to this cave is
+a sign that reads "REPTILES".
+~
+17 4 1
+D0
+The path this way seems to be getting wider.
+~
+~
+0 -1 1745
+D2
+You can see the main square quite clearly.
+~
+~
+0 -1 1703
+D3
+It is too dark to tell.
+~
+~
+0 -1 1736
+E
+sign north~
+
+                            *******************************
+                            ***** MAMMALS and KENNELS *****
+                            *****     to the north    *****
+                            *******************************
+~
+E
+sign west~
+
+                            ********************
+                            ***** REPTILES *****
+                            ********************
+~
+Z3
+C-1
+R0
+S
+#1706
+The Main path~
+        You are standing on the main path of the Menagerie, the walkway
+looks like it is made from large stones cut thin and laid out flat.  You
+can tell that a lot of work went into making the menagerie.  You can here
+the sounds of many different animals from all over the world.  You can also
+smell a few of them, maybe some of the workers are not working so hard.
+~
+17 0 1
+D1
+~
+~
+0 -1 1738
+D3
+~
+~
+0 -1 1703
+Z3
+C-1
+R0
+S
+#1707
+The Main path~
+        You are standing on the main path of the Menagerie, the walkway
+looks like it is made from large stones cut thin and laid out flat.  You
+can tell that a lot of work went into making the menagerie.  You can here
+the sounds of many different animals from all over the world.  You can also
+smell a few of them, maybe some of the workers are not working so hard.
+~
+17 0 1
+D1
+Is that the main square you can see?
+~
+~
+0 -1 1703
+D3
+It sure looks like the trees are caught in a fish net.
+~
+~
+0 -1 1708
+Z3
+C-1
+R0
+S
+#1708
+Entrance to the Aviary~
+     You are standing just east of the door to the aviary, there is a sign on
+the door you should read.  A large net draped over two large trees blocks your
+view of anything else to the west.
+~
+17 4 1
+D1
+You see the way to the main square.
+~
+~
+0 -1 1707
+D3
+You see the door leading into the Aviary.
+~
+door~
+1 -1 1709
+E
+sign~
+Please do not let any of the birds out of the Aviary.
+If you close the door behind you this will help us ensure
+that enjoy you visit, as well as those who come after you.
+~
+E
+door~
+It is a door made of the same kind of net as the aviary.
+~
+Z3
+C-1
+R0
+S
+#1709
+Inside the Aviary~
+     As you step inside of the aviary you can see the large net that makes up
+the aviary many feet above you.  This net allows rain, sunshine, and air in
+and out of the aviary yet keeps all the birds in.  The net is draped over four
+large trees which make up the corners of the aviary.
+~
+17 0 1
+D0
+You can see the tree in the northeast corner of the aviary.
+~
+~
+0 -1 1710
+D1
+You can see the back side of the door leading out of the aviary.
+~
+door~
+1 -1 1708
+D2
+You can see the tree in the southeast corner of the aviary.
+~
+~
+0 -1 1711
+D3
+You see the center of the aviary.
+~
+~
+0 -1 1713
+E
+net~
+It looks a lot like a fishing net, only the gaps between the twine are
+smaller.  The way it is thrown over the trees makes a nice enclosure.
+~
+E
+birds~
+You can see hundreds of them to many to count.
+~
+E
+trees~
+You can see four large trees, one in each corner of the aviary.
+~
+Z3
+C-1
+R0
+S
+#1710
+Northeastern corner of the Aviary~
+        You are standing in the northeast corner a large Aviary.  The
+aviary itself is construed with what looks like a tight nit fish net.  The
+net is supported by four large trees one in each corner of the aviary.  The
+ladders used to construct the aviary are still in place making it possible
+to climb up into the trees.
+~
+17 0 1
+D2
+~
+~
+0 -1 1709
+D3
+~
+~
+0 -1 1712
+D4
+~
+~
+0 -1 1721
+E
+net~
+It looks a lot like a fishing net, only the gaps between the twine are
+smaller.  The way it is thrown over the trees makes a nice enclosure.
+~
+E
+birds~
+You can see hundreds of them to many to count.
+~
+E
+trees~
+You can see four large trees, one in each corner of the aviary.
+~
+Z3
+C-1
+R0
+S
+#1711
+Southeastern corner of the Aviary~
+        You are standing in the southeast corner a large Aviary.  The
+aviary itself is construed with what looks like a tight nit fish net.  The
+net is supported by four large trees one in each corner of the aviary.  The
+ladders used to construct the aviary are still in place making it possible
+to climb up into the trees.
+~
+17 0 1
+D0
+~
+~
+0 -1 1709
+D3
+~
+~
+0 -1 1714
+D4
+~
+~
+0 -1 1720
+E
+net~
+It looks a lot like a fishing net, only the gaps between the twine are
+smaller.  The way it is thrown over the trees makes a nice enclosure.
+~
+E
+birds~
+You can see hundreds of them to many to count.
+~
+E
+trees~
+You can see four large trees, one in each corner of the aviary.
+~
+Z3
+C-1
+R0
+S
+#1712
+North side of the Aviary~
+        Looking to the south you get a real good view of the aviary from
+here including a small pond just down a small hill.  Towards the center
+of the aviary you can see many birds flying around, some large some small
+but all are content living in this enclosed world.
+~
+17 0 1
+D1
+~
+~
+0 -1 1710
+D2
+~
+~
+0 -1 1713
+D3
+~
+~
+0 -1 1715
+E
+net~
+It looks a lot like a fishing net, only the gaps between the twine are
+smaller.  The way it is thrown over the trees makes a nice enclosure.
+~
+E
+birds~
+You can see hundreds of them to many to count.
+~
+E
+trees~
+You can see four large trees, one in each corner of the aviary.
+~
+Z3
+C-1
+R0
+S
+#1713
+The center of the Aviary~
+     From here you have to best view of the Aviary. You can clearly see all
+four trees that form the support for the net that encloses the aviary.  You
+can see the tops of each of the trees, the north, west and south sides.
+Birds flutter all around you making the most breath taking sight you have
+ever seen.
+~
+17 0 1
+D0
+You can see all the way to the net on the north side of the aviary.
+~
+~
+0 -1 1712
+D1
+You can see the door leading out of the aviary.
+~
+~
+0 -1 1709
+D2
+You can see all the way to the net on the south side of the aviary.
+~
+~
+0 -1 1714
+D3
+You can see what looks like a small pond in the distance.
+~
+~
+0 -1 1716
+E
+net~
+It looks a lot like a fishing net, only the gaps between the twine are
+smaller.  The way it is thrown over the trees makes a nice enclosure.
+~
+E
+birds~
+You can see hundreds of them to many to count.
+~
+E
+trees~
+You can see four large trees, one in each corner of the aviary.
+~
+Z3
+C-1
+R0
+S
+#1714
+South side of the Aviary~
+        Looking to the north you get a real good view of the aviary from here
+including the large trees that make up the aviary supports to the east and
+west.  Towards the center of the aviary you can see many birds flying around,
+some large some small but all are content living in this enclosed world.
+~
+17 0 1
+D0
+~
+~
+0 -1 1713
+D1
+~
+~
+0 -1 1711
+D3
+~
+~
+0 -1 1717
+E
+net~
+It looks a lot like a fishing net, only the gaps between the twine are
+smaller.  The way it is thrown over the trees makes a nice enclosure.
+~
+E
+birds~
+You can see hundreds of them to many to count.
+~
+E
+trees~
+You can see four large trees, one in each corner of the aviary.
+~
+Z3
+C-1
+R0
+S
+#1715
+Northwestern corner of the Aviary~
+        You are standing in the northwest corner a large Aviary.  The
+aviary itself is construed with what looks like a tight nit fish net.  The
+net is supported by four large trees one in each corner of the aviary.  The
+ladders used to construct the aviary are still in place making it possible
+to climb up into the trees.
+~
+17 0 1
+D1
+~
+~
+0 -1 1712
+D2
+~
+~
+0 -1 1716
+D4
+~
+~
+0 -1 1722
+E
+net~
+It looks a lot like a fishing net, only the gaps between the twine are
+smaller.  The way it is thrown over the trees makes a nice enclosure.
+~
+E
+birds~
+You can see hundreds of them to many to count.
+~
+E
+trees~
+You can see four large trees, one in each corner of the aviary.
+~
+Z3
+C-1
+R0
+S
+#1716
+West side of the Aviary~
+        Looking to the east you get a real good view of the aviary from here
+including a small pond just down a small hill.  Towards the center of the
+aviary you can see many birds flying around, some large some small but all
+are content living in this enclosed world.
+~
+17 4 1
+D0
+~
+~
+0 -1 1715
+D1
+~
+~
+0 -1 1713
+D2
+~
+~
+0 -1 1717
+D3
+~
+~
+0 -1 1735
+D5
+~
+~
+0 -1 1718
+E
+net~
+It looks a lot like a fishing net, only the gaps between the twine are
+smaller.  The way it is thrown over the trees makes a nice enclosure.
+~
+E
+birds~
+You can see hundreds of them to many to count.
+~
+E
+trees~
+You can see four large trees, one in each corner of the aviary.
+~
+Z3
+C-1
+R0
+S
+#1717
+Southwestern corner of the Aviary~
+        You are standing in the southwest corner a large Aviary.  The
+aviary itself is construed with what looks like a tight nit fish net.  The
+net is supported by four large trees one in each corner of the aviary.  The
+ladders used to construct the aviary are still in place making it possible
+to climb up into the trees.
+~
+17 0 1
+D0
+~
+~
+0 -1 1716
+D1
+~
+~
+0 -1 1714
+D4
+~
+~
+0 -1 1719
+E
+net~
+It looks a lot like a fishing net, only the gaps between the twine are
+smaller.  The way it is thrown over the trees makes a nice enclosure.
+~
+E
+birds~
+You can see hundreds of them to many to count.
+~
+E
+trees~
+You can see four large trees, one in each corner of the aviary.
+~
+Z3
+C-1
+R0
+S
+#1718
+Small pond in the Aviary~
+     You are standing in a small pond about knee deep.  You can feel that
+unlike most pons you have been the bottom of this on is not covered in mud.
+The hard rock bottom leads you to believe that it must be a man made pond.
+~
+17 0 6
+D4
+~
+~
+0 -1 1716
+Z3
+C-1
+R0
+S
+#1719
+Up in the trees~
+        From here you can see most of the aviary including three large
+limbs branching off the tree you are in.  These three limbs look very
+strong easily being able to easily support your weight.
+~
+17 4 1
+D1
+~
+~
+0 -1 1726
+D2
+~
+~
+0 -1 1727
+D3
+~
+~
+0 -1 1728
+D5
+~
+~
+0 -1 1717
+E
+limb~
+You can see that it is a long way down, you try not to look again.
+~
+E
+net~
+It looks a lot like a fishing net, only the gaps between the twine are
+smaller.  The way it is thrown over the trees makes a nice enclosure.
+~
+E
+birds~
+You can see hundreds of them to many to count.
+~
+E
+trees~
+You can see four large trees, one in each corner of the aviary.
+~
+Z3
+C-1
+R0
+S
+#1720
+Up in the trees~
+        From here you can see most of the aviary including three large
+limbs branching off the tree you are in.  These three limbs look very
+strong easily being able to easily support your weight.
+~
+17 4 1
+D1
+~
+~
+0 -1 1723
+D2
+~
+~
+0 -1 1724
+D3
+~
+~
+0 -1 1725
+D5
+~
+~
+0 -1 1711
+E
+limb~
+You can see that it is a long way down, you try not to look again.
+~
+E
+net~
+It looks a lot like a fishing net, only the gaps between the twine are
+smaller.  The way it is thrown over the trees makes a nice enclosure.
+~
+E
+birds~
+You can see hundreds of them to many to count.
+~
+E
+trees~
+You can see four large trees, one in each corner of the aviary.
+~
+Z3
+C-1
+R0
+S
+#1721
+Up in the trees~
+        From here you can see most of the aviary including three large
+limbs branching off the tree you are in.  These three limbs look very
+strong easily being able to easily support your weight.
+~
+17 4 1
+D0
+~
+~
+0 -1 1733
+D1
+~
+~
+0 -1 1734
+D3
+~
+~
+0 -1 1732
+D5
+~
+~
+0 -1 1710
+E
+limb~
+You can see that it is a long way down, you try not to look again.
+~
+E
+net~
+It looks a lot like a fishing net, only the gaps between the twine are
+smaller.  The way it is thrown over the trees makes a nice enclosure.
+~
+E
+birds~
+You can see hundreds of them to many to count.
+~
+E
+trees~
+You can see four large trees, one in each corner of the aviary.
+~
+Z3
+C-1
+R0
+S
+#1722
+Up in the trees~
+        From here you can see most of the aviary including three large
+limbs branching off the tree you are in.  These three limbs look very
+strong easily being able to easily support your weight.
+~
+17 4 1
+D0
+~
+~
+0 -1 1730
+D1
+~
+~
+0 -1 1731
+D3
+~
+~
+0 -1 1729
+D5
+~
+~
+0 -1 1715
+E
+limb~
+You can see that it is a long way down, you try not to look again.
+~
+E
+net~
+It looks a lot like a fishing net, only the gaps between the twine are
+smaller.  The way it is thrown over the trees makes a nice enclosure.
+~
+E
+birds~
+You can see hundreds of them to many to count.
+~
+E
+trees~
+You can see four large trees, one in each corner of the aviary.
+~
+Z3
+C-1
+R0
+S
+#1723
+Out on a limb~
+        From here you have no problem seeing all of the Menagerie to the
+east.  Looking down you notice that you are a lot higher up than you had
+thought you where.  The limb you are standing on is quite thin so you are
+careful of your footing.
+~
+17 0 1
+D2
+~
+~
+0 -1 1724
+D3
+~
+~
+0 -1 1720
+E
+limb~
+You can see that it is a long way down, you try not to look again.
+~
+Z3
+C-1
+R0
+S
+#1724
+Out on a limb~
+        From here you have no problem seeing all of the Menagerie to the
+east.  Looking down you notice that you are a lot higher up than you had
+thought you where.  The limb you are standing on is quite thin so you are
+careful of your footing.
+~
+17 0 1
+D0
+~
+~
+0 -1 1720
+D1
+~
+~
+0 -1 1723
+D3
+~
+~
+0 -1 1725
+E
+limb~
+You can see that it is a long way down, you try not to look again.
+~
+Z3
+C-1
+R0
+S
+#1725
+Out on a limb~
+        From here you have no problem seeing all of the Menagerie to the
+east.  Looking down you notice that you are a lot higher up than you had
+thought you where.  The limb you are standing on is quite thin so you are
+careful of your footing.
+~
+17 0 1
+D1
+~
+~
+0 -1 1720
+D2
+~
+~
+0 -1 1724
+E
+limb~
+You can see that it is a long way down, you try not to look again.
+~
+Z3
+C-1
+R0
+S
+#1726
+Out on a limb~
+        From here you have no problem seeing all of the Menagerie to the
+east.  Looking down you notice that you are a lot higher up than you had
+thought you where.  The limb you are standing on is quite thin so you are
+careful of your footing.
+~
+17 0 1
+D2
+~
+~
+0 -1 1727
+D3
+~
+~
+0 -1 1719
+E
+limb~
+You can see that it is a long way down, you try not to look again.
+~
+Z3
+C-1
+R0
+S
+#1727
+Out on a limb~
+        From here you have no problem seeing all of the Menagerie to the
+east.  Looking down you notice that you are a lot higher up than you had
+thought you where.  The limb you are standing on is quite thin so you are
+careful of your footing.
+~
+17 0 1
+D0
+~
+~
+0 -1 1719
+D1
+~
+~
+0 -1 1726
+D3
+~
+~
+0 -1 1728
+E
+limb~
+You can see that it is a long way down, you try not to look again.
+~
+Z3
+C-1
+R0
+S
+#1728
+Out on a limb~
+        From here you have no problem seeing all of the Menagerie to the
+east.  Looking down you notice that you are a lot higher up than you had
+thought you where.  The limb you are standing on is quite thin so you are
+careful of your footing.
+~
+17 0 1
+D1
+~
+~
+0 -1 1719
+D2
+~
+~
+0 -1 1727
+E
+limb~
+You can see that it is a long way down, you try not to look again.
+~
+Z3
+C-1
+R0
+S
+#1729
+Out on a limb~
+        From here you have no problem seeing all of the Menagerie to the
+east.  Looking down you notice that you are a lot higher up than you had
+thought you where.  The limb you are standing on is quite thin so you are
+careful of your footing.
+~
+17 0 1
+D0
+~
+~
+0 -1 1730
+D1
+~
+~
+0 -1 1722
+E
+limb~
+You can see that it is a long way down, you try not to look again.
+~
+Z3
+C-1
+R0
+S
+#1730
+Out on a limb~
+        From here you have no problem seeing all of the Menagerie to the
+east.  Looking down you notice that you are a lot higher up than you had
+thought you where.  The limb you are standing on is quite thin so you are
+careful of your footing.
+~
+17 0 1
+D1
+~
+~
+0 -1 1731
+D2
+~
+~
+0 -1 1722
+D3
+~
+~
+0 -1 1729
+E
+limb~
+You can see that it is a long way down, you try not to look again.
+~
+Z3
+C-1
+R0
+S
+#1731
+Out on a limb~
+        From here you have no problem seeing all of the Menagerie to the
+east.  Looking down you notice that you are a lot higher up than you had
+thought you where.  The limb you are standing on is quite thin so you are
+careful of your footing.
+~
+17 0 1
+D0
+~
+~
+0 -1 1730
+D3
+~
+~
+0 -1 1722
+E
+limb~
+You can see that it is a long way down, you try not to look again.
+~
+Z3
+C-1
+R0
+S
+#1732
+Out on a limb~
+        From here you have no problem seeing all of the Menagerie to the
+east.  Looking down you notice that you are a lot higher up than you had
+thought you where.  The limb you are standing on is quite thin so you are
+careful of your footing.
+~
+17 0 1
+D0
+~
+~
+0 -1 1733
+D1
+~
+~
+0 -1 1721
+E
+limb~
+You can see that it is a long way down, you try not to look again.
+~
+Z3
+C-1
+R0
+S
+#1733
+Out on a limb~
+        From here you have no problem seeing all of the Menagerie to the
+east.  Looking down you notice that you are a lot higher up than you had
+thought you where.  The limb you are standing on is quite thin so you are
+careful of your footing.
+~
+17 0 1
+D1
+~
+~
+0 -1 1734
+D2
+~
+~
+0 -1 1721
+D3
+~
+~
+0 -1 1732
+E
+limb~
+You can see that it is a long way down, you try not to look again.
+~
+Z3
+C-1
+R0
+S
+#1734
+Out on a limb~
+        From here you have no problem seeing all of the Menagerie to the
+east.  Looking down you notice that you are a lot higher up than you had
+thought you where.  The limb you are standing on is quite thin so you are
+careful of your footing.
+~
+17 0 1
+D0
+~
+~
+0 -1 1733
+D3
+~
+~
+0 -1 1721
+E
+limb~
+You can see that it is a long way down, you try not to look again.
+~
+Z3
+C-1
+R0
+S
+#1735
+The small pond in the Aviary~
+     You find yourself standing knee deep in the waters of a small pond.  The
+sides are made of smooth stones and you can clearly tell the pond is man.
+You can feel that the bottom of the pond is covered entirely with mud, but
+there is hard surface under the mud.
+~
+17 0 6
+D1
+~
+~
+0 -1 1716
+E
+rock~
+The rocks are smooth with tool marks on the side.
+~
+E
+water~
+the water is to dirty to see though.
+~
+E
+mud~
+ICK! You sure wish you had not stepped it.
+~
+Z3
+C-1
+R0
+S
+#1736
+Just inside the cave~
+        You can tell right away you are going to need some more light.  Now
+that you can see you notice you are standing inside of a cold damp cave. The
+smell of bat guano makes it real unpleasant in here.  You can see the lighted
+path to the west and can feel a cool breeze coming from the west.
+~
+17 9 0
+D0
+~
+~
+0 -1 1770
+D1
+You can see the lighted path.
+~
+~
+0 -1 1705
+D3
+It is too dark to tell.
+~
+~
+0 -1 1737
+Z3
+C-1
+R0
+S
+#1737
+Deeper inside the cave~
+     You are deep within the REPTILE exhibit, be careful not to step on any of
+the exhibits.  The combination of the cold and the dark make you very
+uncomfortable in this room.  There is a fine green slim growing on the floor
+and walls making this the perfect habitat for snakes, snails, and other slimy
+reptiles.
+~
+17 9 0
+D1
+You can see a light at the end of the tunnel.
+~
+~
+0 -1 1736
+E
+slim~
+The fine green slim is growing on everything here.
+~
+Z3
+C-1
+R0
+S
+#1738
+The end of the rock path~
+      You are standing at the end of the rock walkway, even thou the walkway
+ends here you can still continue east and south into the water.  The rock
+walkway has been extended out into the water this far to allow you to see as
+many water inhabitance as possible.  However with the water next to the path
+being only a foot or two deep it is hard to see any fish or other sea life.
+~
+17 0 1
+D1
+You see only water this way.
+~
+~
+0 -1 1740
+D2
+Looks like the water is deeper this way.
+~
+~
+0 -1 1739
+D3
+You can see the path in the menagerie.
+~
+~
+0 -1 1706
+E
+water~
+The water to the east and south look about two feet deep.
+~
+Z3
+C-1
+R0
+S
+#1739
+Knee deep in the ocean~
+     You have just stepped into water about two feet deep at the deepest part,
+there are signs that some birds where wading here lately.  Near the edge of
+the water is a large clump of feathers splattered with blood.  Like something
+ATE a bird and spat out the feathers.
+~
+17 0 3
+D0
+You can see the rock path.
+~
+~
+0 -1 1738
+D1
+The water looks even deeper this way.
+~
+~
+0 -1 1741
+E
+feathers~
+The feathers are white but look almost pink with all the blood on them.
+Looking closer you can tell this is the wing of a bird that would be three
+feet tall.
+~
+Z3
+C-1
+R0
+S
+#1740
+Knee deep in the ocean~
+     You have just stepped into water about two feet deep at the deepest part,
+there are signs that some birds where wading here lately.  Near the edge of
+the water is a large clump of feathers splattered with blood.  Like something
+ATE a bird and spat out the feathers.
+~
+17 0 3
+D1
+The water this way looks deeper, you will have to swim to go this way.
+~
+~
+0 -1 1742
+D2
+The water this way looks deeper you will have to swim to go this way.
+~
+~
+0 -1 1741
+D3
+You can see a small rock path.
+~
+~
+0 -1 1738
+E
+feathers~
+The feathers are white but look almost pink with all the blood on them.
+Looking closer you can tell this is the wing of a bird that would be three
+feet tall.
+~
+Z3
+C-1
+R0
+S
+#1741
+Water to deep to stand in~
+     Unlike the water to the west you can not stand up here it is much to deep.
+You can feel small fish swimming around your feet but are unable to see them
+do to the blackness of the water.  With all of the equipment you are wearing
+it is getting hard to stay a float.
+~
+17 0 6
+D0
+The water does not look as deep this way.
+~
+~
+0 -1 1740
+D1
+The water this way even deeper than the water here.
+~
+~
+0 -1 1743
+D3
+The water this way does not look as deep.
+~
+~
+0 -1 1739
+E
+water~
+Water, Water everywhere and not a drop to drink.
+~
+Z3
+C-1
+R0
+S
+#1742
+Water to deep to stand in~
+     Unlike the water to the west you can not stand up here it is much to deep.
+You can feel small fish swimming around your feet but are unable to see them
+do to the blackness of the water.  With all of the equipment you are wearing
+it is getting hard to stay a float.
+~
+17 0 6
+D1
+The water this way is even deeper than the water you are in.
+~
+~
+0 -1 1744
+D2
+The water this way is even deeper than the water you are in.
+~
+~
+0 -1 1743
+D3
+The water this way does not look so deep.
+~
+~
+0 -1 1740
+E
+water~
+Water, Water everywhere and not a drop to drink.
+~
+Z3
+C-1
+R0
+S
+#1743
+Deep Deep water~
+     The water here is cold and deep.  You can feel the coldness of the water
+sucking the life from your body and you know you can not stay here long.  You
+feel fish swimming around your feet and this time you can see them.  They look
+large enough to eat even you.
+~
+17 0 6
+D0
+Water, Water everywhere, which way??
+~
+~
+0 -1 1742
+D1
+Water, Water everywhere, which way??
+~
+~
+0 -1 1744
+D3
+Water, Water everywhere, which way??
+~
+~
+0 -1 1741
+E
+water~
+Water, Water everywhere and not a drop to drink.
+~
+Z3
+C-1
+R0
+S
+#1744
+Deep Deep water~
+     The water here is cold and deep.  You can feel the coldness of the water
+sucking the life from your body and you know you can not stay here long.  You
+feel fish swimming around your feet and this time you can see them.  They look
+large enough to eat even you.
+~
+17 0 6
+D2
+Water, Water everywhere, which way??
+~
+~
+0 -1 1743
+D3
+Water, Water everywhere, which way??
+~
+~
+0 -1 1742
+E
+water~
+Water, Water everywhere and not a drop to drink.
+~
+Z3
+C-1
+R0
+S
+#1745
+The Main path~
+        You are standing on the main path of the Menagerie, the walkway
+looks like it is made from large stones cut thin and laid out flat.  You
+can tell that a lot of work went into making the menagerie.  You can here
+the sounds of many different animals from all over the world.  You can also
+smell a few of them, maybe some of the workers are not working so hard.
+~
+17 0 1
+D0
+The path this way seems to be getting wider, and wider.
+~
+~
+0 -1 1769
+D1
+You can see the entrance to the Kennels.
+~
+~
+0 -1 1746
+D2
+You can see the path leading south.
+~
+~
+0 -1 1705
+Z3
+C-1
+R0
+S
+#1746
+The Main path~
+        You are standing on the main path of the Menagerie, the walkway
+looks like it is made from large stones cut thin and laid out flat.  You
+can tell that a lot of work went into making the menagerie.  You can here
+the sounds of many different animals from all over the world.  You can also
+smell a few of them, maybe some of the workers are not working so hard.
+~
+17 0 1
+D1
+~
+~
+0 -1 1747
+D3
+~
+~
+0 -1 1745
+Z3
+C-1
+R0
+S
+#1747
+Entry way for the Dog Kennels~
+      As you step into the room you can tell this place has not been well
+kept.  The walls are covered with photos of dog of all shapes, sizes, and
+breeds.  By the smell of the room you can tell there have been a lot of dogs
+here at one time or another.  You can see into the next room and it doesn't
+look any better than this one.
+~
+17 8 0
+D0
+You can see another room in the kennel.
+~
+~
+0 -1 1750
+D1
+You can see another room in the kennel.
+~
+~
+0 -1 1749
+D2
+You can see another room in the kennel.
+~
+~
+0 -1 1748
+D3
+You can see you way back to the main path.
+~
+~
+0 -1 1746
+E
+picture~
+Yeap, thats a picture of a dog.
+~
+Z3
+C-1
+R0
+S
+#1748
+Examining room~
+      This room is much cleaner than any you have seen in the kennel, with
+white tile floors, walls, and counters.  In the center of the room is a large
+silver table polished to a high shine, you can see you self in the shine.
+~
+17 8 0
+D0
+You can see the center of the kennel.
+~
+~
+0 -1 1749
+D1
+It looks like someones office.
+~
+~
+0 -1 1751
+D3
+The entrance to the Kennel.
+~
+~
+0 -1 1747
+E
+table shine silver~
+You can see your self looking back at you.
+WOW! Now thats a shine.
+~
+E
+walls floor counter~
+The white tiles make for a real clean looking room.
+~
+Z3
+C-1
+R0
+S
+#1749
+Center of the Kennel~
+      From here you can see the kennel extends in all directions.   The over
+powering smell of dog dropings makes you sick to your stomach.  Looking around
+you see chairs and benches lineing the walls, so you decide this must be some
+kind of witting room.  On the walls are the diplomas of the vettranairen who
+runs the kennel.
+~
+17 8 0
+D0
+You can see another room of the Kennel.
+~
+~
+0 -1 1750
+D1
+You can see another room of the Kennel.
+~
+~
+0 -1 1751
+D2
+You can see another room of the Kennel.
+~
+~
+0 -1 1748
+D3
+You can see another room of the Kennel.
+~
+~
+0 -1 1747
+E
+chair~
+This chair looks real bad, you decide not to sit in it.
+~
+E
+bench~
+The bench looks no better than the chair, you decide not to sit on it.
+~
+E
+diploma~
+You sure wish you could read the diploma, but it is written in some forgen
+lanague.
+~
+Z3
+C-1
+R0
+S
+#1750
+Examining room~
+      This room is much cleaner than any you have seen in the kennel, with
+white tile floors, walls, and counters.  In the center of the room is a large
+silver table polished to a high shine, you can see you self in the shine.
+~
+17 8 0
+D1
+~
+warning~
+0 -1 1751
+D2
+~
+~
+0 -1 1749
+D3
+~
+~
+0 -1 1747
+E
+table shine silver~
+You can see your self looking back at you.
+WOW! Now thats a shine.
+~
+E
+walls floor counter~
+The white tiles make for a real clean looking room.
+~
+Z3
+C-1
+R0
+S
+#1751
+The Veterinarian office~
+      This is a well furnished office, with bookshelf, a desk, and nice
+carpeting.  The room is quite large yet is real cozy because it is so nicely
+furnished.  The books on the shelf reach all the way to the ceiling.  The
+desk is a cluttered with papers and open books you nothing else there.
+~
+17 8 0
+D0
+You can see another room of the Kennel
+~
+~
+0 -1 1750
+D1
+You see a large door with a warning sign on it.
+~
+warning~
+1 -1 1752
+D2
+You can see another room of the kennel
+~
+~
+0 -1 1748
+D3
+The center of the kennel is this way.
+~
+~
+0 -1 1749
+E
+sign~
+                         ******** WARNING **********
+                         ***** DO NOT ENTER ********
+                         * RABBED DOG HOLDING AREA *
+                         ***** DO NOT ENTER ********
+                         *******  WARNING **********
+~
+E
+books shelf~
+You get a book from the shelf.
+
+The book is written in a language you can not read.
+
+You put the book on the shelf.
+~
+E
+desk~
+You see nothing of interest here.
+~
+Z3
+C-1
+R0
+S
+#1752
+The Holding area for rabbed dogs.~
+      It is obvious that you should not be in this room.  It is filled with
+dead dogs, dyeing dogs, and very mean looking dogs.  The ones that are living
+look crazed and are looking that way at you.  The smell of dog #%&! leads you
+to believe that no one has cleaned up in here in a long time.
+~
+17 8 0
+D0
+All the exits lead back to this room.
+~
+~
+0 -1 1752
+D1
+This is done to keep all the infected dogs here.
+~
+~
+0 -1 1752
+D2
+We don't want them getting out and attacking all the people.
+~
+~
+0 -1 1752
+D3
+That would not be good at all.
+~
+~
+0 -1 1752
+D4
+So we set this room up with exits leading back to
+~
+~
+0 -1 1752
+D5
+its self, that way no dogs can get out.  Should have read the sign!
+~
+~
+0 -1 1752
+E
+sign~
+                         **** DO NOT ENTER ****
+                         RABBED DOG HOLDING AREA
+                         **** DO NOT ENTER ****
+~
+Z3
+C-1
+R0
+S
+#1753
+Edge of the great plains.~
+        You are standing on the edge of a great wide open space to the north,
+the menagerie to the south.  Looking out into this wide open space you can
+see that the wall around the menagerie still encloses the great wide open
+but where it ends you can not see.
+~
+17 0 2
+D0
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1755
+D1
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1756
+D2
+You can see the main path.
+~
+~
+0 -1 1769
+D3
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1754
+Z3
+C-1
+R0
+S
+#1754
+Just north of the edge of the great plains.~
+        Standing a little further into the great wide open, you find the
+tracks of many LARGE aniamls.  Looking out into this wide open space you
+can see that the wall around the menagerie still encloses the great wide
+open but where it ends you can not see.
+~
+17 0 1
+D0
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1758
+D1
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1755
+D2
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1753
+D3
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1757
+Z3
+C-1
+R0
+S
+#1755
+Just north of the edge of the great plains.~
+        Standing a little further into the great wide open, you find the
+tracks of many LARGE aniamls.  Looking out into this wide open space you
+can see that the wall around the menagerie still encloses the great wide
+open but where it ends you can not see.
+~
+17 0 2
+D0
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1759
+D1
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1756
+D2
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1753
+D3
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1754
+Z3
+C-1
+R0
+S
+#1756
+Just north of the edge of the great plains.~
+        Standing a little further into the great wide open, you find the
+tracks of many LARGE aniamls.  Looking out into this wide open space you
+can see that the wall around the menagerie still encloses the great wide
+open but where it ends you can not see.
+~
+17 0 2
+D0
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1760
+D1
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1761
+D2
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1753
+D3
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1755
+Z3
+C-1
+R0
+S
+#1757
+Out on the great plains.~
+        All around you is wide open spaces, with slow rolling hills and
+fields of knee high grasses blowing in the breaze.  Here and there scatered
+out on the plains you can spot a tree, but they are few and far between.  You
+look back over your sholder and can see nothing more than what is in front
+of you.  You are truely in the middle of no-where.
+~
+17 0 2
+D0
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1762
+D1
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1758
+D2
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1754
+D3
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1768
+Z3
+C-1
+R0
+S
+#1758
+Out on the great plains.~
+        All around you is wide open spaces, with slow rolling hills and
+fields of knee high grasses blowing in the breaze.  Here and there scatered
+out on the plains you can spot a tree, but they are few and far between.  You
+look back over your sholder and can see nothing more than what is in front
+of you.  You are truely in the middle of no-where.
+~
+17 0 2
+D0
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1763
+D1
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1759
+D2
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1754
+D3
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1757
+Z3
+C-1
+R0
+S
+#1759
+Out on the great plains.~
+        All around you is wide open spaces, with slow rolling hills and
+fields of knee high grasses blowing in the breaze.  Here and there scatered
+out on the plains you can spot a tree, but they are few and far between.  You
+look back over your sholder and can see nothing more than what is in front
+of you.  You are truely in the middle of no-where.
+~
+17 0 2
+D0
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1764
+D1
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1760
+D2
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1755
+D3
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1758
+Z3
+C-1
+R0
+S
+#1760
+Out on the great plains.~
+        All around you is wide open spaces, with slow rolling hills and
+fields of knee high grasses blowing in the breaze.  Here and there scatered
+out on the plains you can spot a tree, but they are few and far between.  You
+look back over your sholder and can see nothing more than what is in front
+of you.  You are truely in the middle of no-where.
+~
+17 0 2
+D0
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1765
+D1
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1761
+D2
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1756
+D3
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1759
+Z3
+C-1
+R0
+S
+#1761
+Out on the great plains.~
+        All around you is wide open spaces, with slow rolling hills and
+fields of knee high grasses blowing in the breaze.  Here and there scatered
+out on the plains you can spot a tree, but they are few and far between.  You
+look back over your sholder and can see nothing more than what is in front
+of you.  You are truely in the middle of no-where.
+~
+17 0 2
+D0
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1766
+D1
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1767
+D2
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1756
+D3
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1760
+Z3
+C-1
+R0
+S
+#1762
+Deep in the heart land of the Menagerie~
+        Out here in the middle of no-where you find the quite relaxing
+setting that you have always hoped for.  For miles around there is nothing,
+no people, no buildings, nothing.  Don't you thing you've gone just a little
+north of where you want to be?
+~
+17 0 2
+D0
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1766
+D1
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1763
+D2
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1757
+D3
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1768
+Z3
+C-1
+R0
+S
+#1763
+Deep in the heart land of the Menagerie~
+        Out here in the middle of no-where you find the quite relaxing
+setting that you have always hoped for.  For miles around there is nothing,
+no people, no buildings, nothing.  Don't you thing you've gone just a little
+north of where you want to be?
+~
+17 0 2
+D0
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1768
+D1
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1764
+D2
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1758
+D3
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1762
+Z3
+C-1
+R0
+S
+#1764
+Deep in the heart land of the Menagerie~
+        Out here in the middle of no-where you find the quite relaxing
+setting that you have always hoped for.  For miles around there is nothing,
+no people, no buildings, nothing.  Don't you thing you've gone just a little
+north of where you want to be?
+~
+17 0 2
+D0
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1762
+D1
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1765
+D2
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1759
+D3
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1763
+Z3
+C-1
+R0
+S
+#1765
+Deep in the heart land of the Menagerie~
+        Out here in the middle of no-where you find the quite relaxing
+setting that you have always hoped for.  For miles around there is nothing,
+no people, no buildings, nothing.  Don't you thing you've gone just a little
+north of where you want to be?
+~
+17 0 2
+D0
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1767
+D1
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1766
+D2
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1760
+D3
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1764
+Z3
+C-1
+R0
+S
+#1766
+Deep in the heart land of the Menagerie~
+        Out here in the middle of no-where you find the quite relaxing
+setting that you have always hoped for.  For miles around there is nothing,
+no people, no buildings, nothing.  Don't you thing you've gone just a little
+north of where you want to be?
+~
+17 0 2
+D0
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1763
+D1
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1767
+D2
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1761
+D3
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1765
+Z3
+C-1
+R0
+S
+#1767
+Deep in the heart land of the Menagerie~
+        Out here in the middle of no-where you find the quite relaxing
+setting that you have always hoped for.  For miles around there is nothing,
+no people, no buildings, nothing.  Don't you thing you've gone just a little
+north of where you want to be?
+~
+17 0 2
+D0
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1765
+D1
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1768
+D2
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1761
+D3
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1766
+Z3
+C-1
+R0
+S
+#1768
+Deep in the heart land of the Menagerie~
+        Out here in the middle of no-where you find the quite relaxing
+setting that you have always hoped for.  For miles around there is nothing,
+no people, no buildings, nothing.  Don't you thing you've gone just a little
+north of where you want to be?
+~
+17 0 2
+D0
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1764
+D1
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1762
+D2
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1757
+D3
+There is nothing in your way except wide open spaces.
+~
+~
+0 -1 1767
+Z3
+C-1
+R0
+S
+#1769
+The Main path~
+        You are standing on the main path of the Menagerie, the walkway
+looks like it is made from large stones cut thin and laid out flat.  You
+can tell that a lot of work went into making the menagerie.  You can here
+the sounds of many different animals from all over the world.  You can also
+smell a few of them, maybe some of the workers are not working so hard.
+~
+17 0 1
+D0
+The path seems to get wider in this direction.
+~
+~
+0 -1 1753
+D2
+The way to the central square.
+~
+~
+0 -1 1745
+Z3
+C-1
+R0
+S
+#1770
+Deeper inside the cave~
+     You are deep within the REPTILE exhibit, be careful not to step on any of
+the exhibits.  The combination of the cold and the dark make you very
+uncomfortable in this room.  There is a fine green slim growing on the floor
+and walls making this the perfect habitat for snakes, snails, and other slimy
+reptiles.
+~
+17 9 0
+D2
+~
+~
+0 -1 1736
+E
+slim~
+The fine green slim is growing on everything here.
+~
+Z3
+C-1
+R0
+S
+#1771
+{YELLOW}{BOLD}Dimly{yellow}{bold} {WHITE}{BOLD}Lit{white}{bold}{YELLOW}{BOLD} Path{yellow}{bold}~
+
+
+    {YELLOW,BOLD}This path is made of {WHITE}crushed granite wit{YELLOW}h curious blue streaks
+    {YELLOW}in it.  The path cont{WHITE}inues north to a vi{YELLOW}llage, or south to the
+                             {WHITE}west gate.{b}
+
+
+~
+17 0 3
+D0
+The path continues toward the village.
+~
+~
+0 -1 1772
+D2
+The path back toward the forest.
+~
+~
+0 -1 6000
+Z3
+C-1
+R0
+S
+#1772
+{YELLOW}{BOLD}Dimly{yellow}{bold} {WHITE}{BOLD}Lit{white}{bold}{YELLOW}{BOLD} Path{yellow}{bold}~
+
+    {YELLOW,BOLD}This section of the {WHITE}road appears badly {YELLOW}worn and is frequently
+    {YELLOW}traversed. There is {WHITE}a faint singing to {YELLOW}the north.  The road
+                {YELLOW}back to {WHITE}the forest lies to {YELLOW}the south.{b}
+
+
+~
+17 4 3
+D0
+The path continues toward the village.
+~
+~
+0 -1 1773
+D2
+The dimly lit path.
+~
+~
+0 -1 1771
+Z3
+C-1
+R0
+S
+#1773
+{YELLOW}{BOLD}Dimly{yellow}{bold} {WHITE}{BOLD}Lit{white}{bold}{YELLOW}{BOLD} Path{yellow}{bold}~
+
+    {YELLOW,BOLD}This section of the {WHITE}road appears badly w{YELLOW}orn and is frequently
+    {YELLOW}traversed.  Singing {WHITE}is getting stronger {YELLOW}to the north.  The
+              {YELLOW}road back {WHITE}to the forest lies t{YELLOW}o the south.{b}
+
+
+~
+17 0 3
+D0
+The entrance to smurf village.
+~
+~
+0 -1 1774
+D2
+The dimly lit path.
+~
+~
+0 -1 1772
+Z3
+C-1
+R0
+S
+#1774
+{WHITE}{BOLD}Entrance To{white}{bold}{CYAN}{BOLD} Smurf Village{cyan}{bold}~
+
+
+    {WHITE,BOLD}You stand at the entrance to a{CYAN} tiny village.  You can see
+    {WHITE}across the whole village easily{CYAN}.  Little blue creatures with
+    {WHITE}white hats and boots along with{CYAN} little fluffy tails scamper
+                    {WHITE}about.  They si{CYAN}ng continuously.{b}
+
+    {WHITE,BOLD}The {b}{MAGENTA}singing{WHITE,BOLD} is getting on your {CYAN}nerves and you have the sudden
+                        {WHITE}urge to {RED}squash {CYAN}them.{b}
+
+
+~
+17 0 2
+D0
+Smurfy Road
+~
+~
+0 -1 1775
+D2
+Dimly Lit Path
+~
+~
+0 -1 1773
+Z3
+C-1
+R0
+S
+#1775
+{WHITE,BOLD}Smurfy {CYAN}Road{b}~
+
+
+    {WHITE,BOLD}You are way too big to be usin{CYAN}g this road, but who cares.
+    {WHITE}Who's gonna stop you?  These l{CYAN}ittle blue smurfs?  The {b}{MAGENTA}singing
+    {WHITE,BOLD}is growing intense.  Your ears {CYAN}are starting to ring.  Smurfy
+    {WHITE}Road continues to the north, e{CYAN}ast, and west.  There is still
+                   {WHITE}time to turn ba{CYAN}ck and go south.{b}
+
+
+~
+17 0 1
+D0
+Smurfy Road
+~
+~
+0 -1 1776
+D1
+Smurfy Road
+~
+~
+0 -1 1780
+D2
+Entrance to smurf village
+~
+~
+0 -1 1774
+D3
+Smurfy Road
+~
+~
+0 -1 1781
+Z3
+C-1
+R0
+S
+#1776
+{WHITE,BOLD}Smurfy {CYAN}Road{b}~
+
+
+    {WHITE,BOLD}You continue to travel down Sm{CYAN}urfy Road.  Isn't it just smurfy?
+    {WHITE}Smurfy Road continues its smur{CYAN}fy path to the smurfy north, smurfy
+    {WHITE}west and smurfy south.  A smur{CYAN}fy home lies to the smurfy east.
+                {WHITE}Are you sick of th{CYAN}e word "smurf" yet?
+
+                          {WHITE}SMURF SM{CYAN}URF SMURF{b}
+
+
+~
+17 0 1
+D0
+Smurfy Road
+~
+~
+0 -1 1777
+D1
+Smurfy Home
+~
+~
+0 -1 1790
+D2
+Smurfy Road
+~
+~
+0 -1 1775
+D3
+Smurfy Road
+~
+~
+0 -1 1782
+Z3
+C-1
+R0
+S
+#1777
+{WHITE,BOLD}Smurfy {CYAN}Road{b}~
+
+
+    {WHITE,BOLD}Oh boy, another smurfy road! S{CYAN}murfy Road goes north and south
+         {WHITE}here. There is a smurfy m{CYAN}ushroom home to the west.
+
+        {RED}A beautiful smurfberry patch is to the east as well.{b}
+
+~
+17 0 1
+D0
+Smurfy Road
+~
+~
+0 -1 1778
+D1
+Smurfberry Patch
+~
+~
+0 -1 1786
+D2
+Smurfy Road
+~
+~
+0 -1 1776
+D3
+A Smurfy Home
+~
+~
+0 -1 1799
+Z3
+C-1
+R0
+S
+#1778
+{WHITE,BOLD}Smurfy {CYAN}Road{b}~
+
+
+    {WHITE,BOLD}Smurfy Road continues to smurf {CYAN}on to its end to the north.
+        {WHITE}It smurfs back the way you {CYAN}came to the south too.
+
+                {RED}A smurfberry patch is to the east.
+                   {MAGENTA}A stone path lies to the west.{b}
+
+
+~
+17 0 1
+D0
+Smurfy Road
+~
+~
+0 -1 1779
+D1
+Smurfberry patch
+~
+~
+0 -1 1787
+D2
+Smurfy Road
+~
+~
+0 -1 1777
+D3
+A stone path
+~
+~
+0 -1 1783
+Z3
+C-1
+R0
+S
+#1779
+{WHITE,BOLD}Smurfy {CYAN}Road{b}~
+
+
+    {WHITE,BOLD}A smurfy well lies here in the {CYAN}middle of Smurfy Road. A fence
+            {WHITE}separates the smurfs fr{CYAN}om harm to the north.
+            {WHITE}Smurfy Road continues t{CYAN}o the south and west.
+
+                {RED}A smurfberry patch is to the east.{b}
+
+
+~
+17 0 1
+D1
+Smurfberry Patch
+~
+~
+0 -1 1788
+D2
+Smurfy Road
+~
+~
+0 -1 1778
+D3
+Smurfy Road
+~
+~
+0 -1 1784
+Z3
+C-1
+R0
+S
+#1780
+{WHITE,BOLD}Smurfy {CYAN}Road{b}~
+
+
+    {BOLD}A corner of Smurfy Road is whe{CYAN}re you stand.  A smurfy fence
+    {WHITE}blocks passage to the east or {CYAN}south.  A smurfy home is to the
+             {WHITE}north.  Smurfy Road g{CYAN}oes back to the west.{b}
+
+
+~
+17 0 1
+D0
+Smurfy Home
+~
+~
+0 -1 1789
+D3
+Smurfy Road
+~
+~
+0 -1 1775
+Z3
+C-1
+R0
+S
+#1781
+{WHITE,BOLD}Smurfy {CYAN}Road{b}~
+
+
+    {WHITE,BOLD}You are at the western corner {CYAN}of Smurfy Road. You can continue
+    {WHITE}to smurf down the road to the {CYAN}east and north.  You can also
+              {WHITE}smurf into a smurfy {CYAN}home to the south.{b}
+
+
+~
+17 0 1
+D0
+Smurfy Road
+~
+~
+0 -1 1782
+D1
+Smurfy Road
+~
+~
+0 -1 1775
+D2
+Smurfy Home
+~
+~
+0 -1 1791
+Z3
+C-1
+R0
+S
+#1782
+{WHITE,BOLD}Smurfy {CYAN}Road{b}~
+
+
+    {WHITE,BOLD}There's no place like smurf.  {CYAN}There's no place like smurf.
+    {WHITE}Sorry wrong movie. A smurfy ho{CYAN}me is to the west. Papa Smurf's
+    {WHITE}backyard is to the north, but {CYAN}you can't go there. Smurfy Road
+                 {WHITE}continues to the {CYAN}south and east.{b}
+
+
+~
+17 0 1
+D1
+Smurfy Road
+~
+~
+0 -1 1776
+D2
+Smurfy Road
+~
+~
+0 -1 1781
+D3
+Smurfy Home
+~
+~
+0 -1 1792
+Z3
+C-1
+R0
+S
+#1783
+{MAGENTA}{BOLD}Stone Path{magenta}{bold}~
+
+
+    {WHITE,BOLD}You are walking alon{MAGENTA}g a cute little ston{WHITE}e path.  To the south
+    lies Papa Smurf's ho{MAGENTA}use. A Smurfy house {WHITE}is to the west. Smurfy
+    Road is to the east.{MAGENTA} Everything is so pe{WHITE}aceful here, you wish
+                       y{MAGENTA}ou could stay foreve{WHITE}r.{b}
+
+
+~
+17 0 1
+D1
+Smurfy Road
+~
+~
+0 -1 1778
+D2
+Papa Smurf's House
+~
+door~
+1 1713 1795
+D3
+Smurfy House
+~
+~
+0 -1 1793
+Z3
+C-1
+R0
+S
+#1784
+{WHITE,BOLD}Smurfy {CYAN}Road{b}~
+
+
+    {WHITE,BOLD}Yet another part of Smurfy Roa{CYAN}d. Hey, if you go west its the
+    {WHITE}last section of Smurfy Road.  {CYAN}You can go back to the smurfy
+                          {WHITE}well to {CYAN}the east.{b}
+
+
+~
+17 0 1
+D1
+Smurfy Road
+~
+~
+0 -1 1779
+D3
+Smury Road
+~
+~
+0 -1 1785
+Z3
+C-1
+R0
+S
+#1785
+{WHITE,BOLD}Smurfy {CYAN}Road{b}~
+
+
+    {WHITE,BOLD}Finally, the last part of Smur{CYAN}fy Road.  You can go back to
+    {WHITE}Smurfy Road to the east. A ver{CYAN}y beautiful mushroom smurf home
+                          {WHITE}is to th{CYAN}e south.
+
+      {b}{RED}Down a path to the {YELLOW}north you can see {RED}Gargamel's Castle.{b}
+
+
+~
+17 0 1
+D0
+Path to Gargamel's Castle
+~
+~
+0 -1 1796
+D1
+Smurfy Road
+~
+~
+0 -1 1784
+D2
+Smurfy Home
+~
+~
+0 -1 1794
+Z3
+C-1
+R0
+S
+#1786
+{RED}{BOLD}Smurfberry Patch{red}{bold}~
+
+
+                  {GREEN}Del{RED,BOLD}ic{b}{GREEN}ious smurfberr{RED,BOLD}ie{b}{GREEN}s grow here.
+              You could prob{RED,BOLD}ab{b}{GREEN}ly eat a yea{RED,BOLD}r's{b}{GREEN} worth of
+         smu{RED,BOLD}rfb{b}{GREEN}erries in {RED,BOLD}o{b}{GREEN}ne sitting.  Smurfy R{RED,BOLD}oa{b}{GREEN}d is back
+      to the west.  Another smurfb{RED,BOLD}er{b}{GREEN}ry patch is to the north.{b}
+
+
+~
+17 0 2
+D0
+Smurfberry Patch
+~
+~
+0 -1 1787
+D3
+Smurfy Road
+~
+~
+0 -1 1777
+Z3
+C-1
+R0
+S
+#1787
+{RED}{BOLD}Smurfberry Patch{red}{bold}~
+
+
+                  {GREEN}Del{RED,BOLD}ic{b}{GREEN}ious smurfberr{RED,BOLD}ie{b}{GREEN}s grow here.
+              You could prob{RED,BOLD}ab{b}{GREEN}ly eat a yea{RED,BOLD}r's{b}{GREEN} worth of
+         smu{RED,BOLD}rfb{b}{GREEN}erries in {RED,BOLD}o{b}{GREEN}ne sitting.  Smurfy R{RED,BOLD}oa{b}{GREEN}d is back
+    to the west.  Smurfb{RED,BOLD}er{b}{GREEN}ry patches are t{RED,BOLD}o{b}{GREEN} the north and south.{b}
+
+
+~
+17 0 2
+D0
+Smurfberry Patch
+~
+~
+0 -1 1788
+D2
+Smurfberry Patch
+~
+~
+0 -1 1786
+D3
+Smurfy Road
+~
+~
+0 -1 1778
+Z3
+C-1
+R0
+S
+#1788
+{RED,BOLD}Smurfberry Patch{b}~
+
+
+                  {GREEN}Del{RED,BOLD}ic{b}{GREEN}ious smurfberr{RED,BOLD}ie{b}{GREEN}s grow here.
+              You could prob{RED,BOLD}ab{b}{GREEN}ly eat a yea{RED,BOLD}r's{b}{GREEN} worth of
+         smu{RED,BOLD}rfb{b}{GREEN}erries in {RED,BOLD}o{b}{GREEN}ne sitting.  Smurfy R{RED,BOLD}oa{b}{GREEN}d is back
+      to the west.  Other smurfb{RED,BOLD}er{b}{GREEN}ry patches are to the south.{b}
+
+
+~
+17 0 2
+D2
+Smurfberry Patch
+~
+~
+0 -1 1787
+D3
+Smurfy Road
+~
+~
+0 -1 1779
+Z3
+C-1
+R0
+S
+#1789
+{b}{BLUE,BOLD}Brainy {b}{CYAN}Smurf's {WHITE,BOLD}Home{b}~
+
+
+
+                            {BLUE,BOLD}With a roar,
+                          you rip the roof{b}{CYAN}
+                        off {BLUE,BOLD}the home to ge{b}{CYAN}t a
+                   {BLUE,BOLD}g{b}{CYAN}ood look {BLUE,BOLD}inside. Y{b}{CYAN}ou see many
+                {BLUE,BOLD}smu{b}{CYAN}rfy books.  The print is {BLUE,BOLD}so small{b}{CYAN}
+             {BLUE,BOLD}you c{b}{CYAN}ouldn't even read it {BLUE,BOLD}with a magnifying
+                     {WHITE,BOLD}glass.  I wonder if Brainy
+                     Smurf minds if you destroy
+                     his home?   Smurfy Road is
+                     ooo back to the south. ooo{b}
+
+
+~
+17 0 1
+D2
+Smurfy Road
+~
+~
+0 -1 1780
+Z3
+C-1
+R0
+S
+#1790
+{b}{CYAN}Handy {WHITE}Smurf's {CYAN,BOLD}Home{b}~
+
+
+                            {b}{CYAN}Handy's home
+                           {BOLD}w{b}{CYAN}as well buil{BOLD}t
+                        until {b}{CYAN}you ripp{BOLD}ed it
+                   {b}{CYAN}in {BOLD}half with your hands. Th{b}{CYAN}ere
+               are tools scattered all over the place{b}
+                     {WHITE}but they are too small for
+                     you to use. Smurfy Road is
+                     just outside the door back
+                     oooooo to the west. oooooo{b}
+
+
+~
+17 0 1
+D3
+Smurfy Road
+~
+~
+0 -1 1776
+Z3
+C-1
+R0
+S
+#1791
+{b}{CYAN}Hefty {BOLD}Smurf's {RED}Home{b}~
+
+
+                           {RED,BOLD}Eek!{b}  {CYAN}Hefty is
+                         anyt{RED,BOLD}hi{b}{CYAN}ng but wimpy
+                        {RED,BOLD}s{b}{CYAN}o is {RED,BOLD}his house.  As
+                      you {b}{CYAN}Look {RED,BOLD}around{b}{CYAN}, you see
+                  nothing but big heavy {RED,BOLD}dumb{b}{CYAN}bells,
+             weight sets, and other exe{RED,BOLD}rcise{b}{CYAN} equipment.
+                      {BOLD}Better watch out!  Looks
+                      like he is pretty mad at
+                      you for messing with his
+                      house. Smurfy Road is to
+                      oooooo the north. oooooo{b}
+
+
+~
+17 0 1
+D0
+Smurfy Road
+~
+~
+0 -1 1781
+Z3
+C-1
+R0
+S
+#1792
+{RED,BOLD}Sleepy {b}{YELLOW}Smurf's {WHITE,BOLD}Home{b}~
+
+
+                                {RED,BOLD}Upon walking
+                             {WHITE}in, you{RED} hear a lo{WHITE}t{RED}
+                          of loud {WHITE}sno{RED}ring.  S{WHITE}leepy
+                       S{RED}murf must {WHITE}be a{RED}round somewhere.
+                   {WHITE}Ther{RED}e are {WHITE}so many {RED}unmade beds {WHITE}in {RED}here,
+               he must use all of them d{WHITE}ur{RED}ing the day. As you
+                          {b}{YELLOW}creep up to the bed he's
+                          in, he snorts and begins
+                          to stir.  You need to go
+                          back east to Smurfy Road
+                          oo and let him sleep. oo{b}
+
+
+~
+17 0 1
+D1
+Smurfy Road
+~
+~
+0 -1 1782
+Z3
+C-1
+R0
+S
+#1793
+{YELLOW,BOLD}Grumpy {b}{WHITE}Smurf's {YELLOW}Home{b}~
+
+
+                           {YELLOW,BOLD}This is Gru{b}{YELLOW}mpy
+                        {BOLD}Smurf's Home.  {b}{YELLOW}He is
+                    {BOLD}pis{b}{YELLOW}sed off{BOLD} at you.  However,
+                 {b}{YELLOW}he is pissed at{BOLD} everyone so do {b}{YELLOW}not
+              take it too personally.  Maybe you could{b}
+                       {WHITE}leave before he really
+                       loses it.  Smurfy Road
+                       back to the east might
+                       o be your last hope. o
+
+                   {MAGENTA,BOLD}A stone path lies to the east.{b}
+
+
+~
+17 0 1
+D1
+Smurfy Road
+~
+~
+0 -1 1783
+Z3
+C-1
+R0
+S
+#1794
+{RED,BOLD}Jokey {WHITE}Smurf's {YELLOW}Home{b}~
+
+
+                            {RED,BOLD}You pull the
+                         {YELLOW}top o{RED}ff his h{YELLOW}ouse,
+                     only to have it expl{RED}ode in
+                 {YELLOW}your face.  That Jok{RED}ey Smurf, what
+             {YELLOW}a kidder.  You {RED}can hear him laughing while
+                       {WHITE}you wipe the ashes off
+                       your face.  You better
+                       get even!  Smurfy Road
+                       oo is to the north. oo{b}
+
+
+~
+17 0 1
+D0
+Smurfy Road
+~
+~
+0 -1 1785
+Z3
+C-1
+R0
+S
+#1795
+{RED,BOLD}Papa {YELLOW}Smurf's {RED}Home{b}~
+
+
+                          {RED,BOLD}This is the home
+                       of the smurf's leader.
+                 While it looks like he has simpler
+            tastes than the others, Papa Smurf's home is
+            still very nicely decorated.  He takes pride
+                     {YELLOW}in his work. If Papa Smurf
+                     is not here, he is over at
+                     Smurfette's place, putting
+                     ooo some moves on her. ooo
+
+                   {MAGENTA}A stone path lies to the north.{b}
+
+
+~
+17 0 1
+D0
+Stone Path
+~
+door~
+1 1713 1783
+Z3
+C-1
+R0
+S
+#1796
+{b}{RED}Path to {YELLOW}Gargamel{RED}'s Castle{b}~
+
+
+    {b}{RED}You are walking alon{YELLOW}g a path to Gargamel{RED}'s Castle.  For some
+    reason, you are gett{YELLOW}ing an ominous feeli{RED}ng as you look north
+                        {YELLOW}towards the castle.{b}
+
+                   {WHITE,BOLD}Smurfy Road lie{CYAN}s to the south.{b}
+
+
+~
+17 0 1
+D0
+Outside Gargamel's Castle
+~
+~
+0 -1 1797
+D2
+Smurfy Road
+~
+~
+0 -1 1785
+Z3
+C-1
+R0
+S
+#1797
+{b}{RED}Outside {YELLOW}Gargamel'{RED}s Castle{b}~
+
+
+    {b}{RED}You are standing out{YELLOW}side Gargamel's Cast{RED}le.  You can hear him
+    screaming at Azreal {YELLOW}from inside.  You al{RED}so hear him cursing
+    about those wretched{YELLOW} smurfs.  His castle{RED} is to the north.  Go
+            ahead, open {YELLOW}the door and snoop a{RED}round a bit.{b}
+
+
+~
+17 0 1
+D0
+Gargamel's Castle
+~
+door~
+1 1715 1798
+D2
+Path to Gargamel's Castle
+~
+~
+0 -1 1796
+Z3
+C-1
+R0
+S
+#1798
+{RED,BOLD}Gargamel's {BLACK}"Huge" {RED}Castle{b}~
+
+
+    {RED,BOLD}This is Gargamel's C{BLACK}astle.  Only one roo{RED}m?  It seemed so much
+    bigger from the outs{BLACK}ide. His big black k{RED}ettle is in the middle
+              of the roo{BLACK}m. Where else would {RED}he put it?{b}
+
+
+~
+17 0 1
+D2
+Outside Gargamel's Castle
+~
+door~
+1 1715 1797
+Z3
+C-1
+R0
+S
+#1799
+{MAGENTA,BOLD}Smurf{WHITE}ette'{YELLOW}s Home{b}~
+  This house is conviently next to Papa Smurfs.  Makes it easier for Papa
+Smurf to sneak over at night.  I hope he uses protection.  I would hate to
+have little smurfs running around.  The only exit is to the east.
+~
+17 0 1
+D1
+Smurfy Road
+~
+~
+0 -1 1777
+Z3
+C-1
+R0
+S
+$~

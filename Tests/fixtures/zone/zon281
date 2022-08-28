@@ -1,0 +1,115 @@
+#281
+Xfiles  (Death)(Itherian)~
+28199 500 2
+*
+X 10672
+M 0 28100     2 28103    The terrorist
+M 0 28100     2 28104    The terrorist
+G 1 28106    10     0    Molotov Cocktail
+G 1 28106    10     0    Molotov Cocktail
+G 1 28106    10     0    Molotov Cocktail
+G 1 28106    10     0    Molotov Cocktail
+G 1 28106    10     0    Molotov Cocktail
+G 1 28106    10     0    Molotov Cocktail
+G 1 28106    10     0    Molotov Cocktail
+G 1 28106    10     0    Molotov Cocktail
+G 1 28106    10     0    Molotov Cocktail
+G 1 28106    10     0    Molotov Cocktail
+M 0 28103    22 28106    An FBI Agent
+M 0 28103    22 28106    An FBI Agent
+M 0 28103    22 28106    An FBI Agent
+M 0 28103    22 28108    An FBI Agent
+M 0 28103    22 28108    An FBI Agent
+M 0 28103    22 28109    An FBI Agent
+M 0 28103    22 28110    An FBI Agent
+M 0 28103    22 28111    An FBI Agent
+M 0 28103    22 28111    An FBI Agent
+M 0 28103    22 28112    An FBI Agent
+M 0 28103    22 28112    An FBI Agent
+M 0 28103    22 28112    An FBI Agent
+M 0 28103    22 28113    An FBI Agent
+O 0 28101     1 28113    A set of keys
+M 0 28103    22 28114    An FBI Agent
+O 0  1201    23 28114    {BOLD}{BLACK}A Black Rose of Crystal{black}{bold}
+D 0 28114     0     2    (N:LOCKED) Bend In Hallway
+M 0 28109     1 28115    Skinner
+G 1 28100     1     0    Fox's Passcard
+D 0 28115     2     2    (S:LOCKED) Skinner's Office
+M 0 28103    22 28116    An FBI Agent
+M 0 28103    22 28116    An FBI Agent
+M 0 28103    22 28116    An FBI Agent
+M 0 28103    22 28118    An FBI Agent
+O 0 28119     1 28120    A Surprise
+M 0 28103    22 28121    An FBI Agent
+D 0 28122     2     2    (S:LOCKED) In The Basement
+M 0 28103    22 28123    An FBI Agent
+M 0 28104     1 28125    Fox Moulder
+G 1 28102     1     0    A Passcard
+D 0 28125     0     2    (N:LOCKED) Spooky Office
+M 0 28103    22 28126    An FBI Agent
+M 0 28103    22 28128    An FBI Agent
+D 0 28129     0     2    (N:LOCKED) End Of Hallway
+D 0 28133     1     0    (E:OPEN) In The Lab
+D 0 28135     3     2    (W:LOCKED) Meat Locker
+D 0 28136     1     0    (E:OPEN) A Small Hallway
+M 0 28105     1 28137    Scully
+E 1 28111     1    17    (HELD) A Passcard key
+D 0 28137     3     0    (W:OPEN) Scully's Office
+M 0 28101     1 28145    Seargent Packer
+M 0 28107     4 28146    A soldier
+M 0 28107     4 28146    A soldier
+M 0 28107     4 28147    A soldier
+M 0 28107     4 28147    A soldier
+M 0 28110    13 28148    A scientist
+O 0  1201    23 28148    {BOLD}{BLACK}A Black Rose of Crystal{black}{bold}
+M 0 28110    13 28149    A scientist
+M 0 28110    13 28149    A scientist
+M 0 28110    13 28150    A scientist
+M 0 28110    13 28150    A scientist
+M 0 28110    13 28150    A scientist
+M 0 28110    13 28150    A scientist
+M 0 28110    13 28150    A scientist
+M 0 28110    13 28153    A scientist
+O 0 28118     6 28158    A broken shard of wood.
+O 0 28118     6 28158    A broken shard of wood.
+O 0 28118     6 28158    A broken shard of wood.
+O 0 28118     6 28158    A broken shard of wood.
+O 0 28118     6 28158    A broken shard of wood.
+M 0 28110    13 28159    A scientist
+M 0 28110    13 28159    A scientist
+O 0 28118     6 28159    A broken shard of wood.
+D 0 28160     3     2    (W:LOCKED) {MA}Bottom of stairs{ma}
+D 0 28161     1     2    (E:LOCKED) Towards alien ship
+M 0 28108    12 28165    An alien
+M 0 28108    12 28165    An alien
+M 0 28108    12 28166    An alien
+M 0 28108    12 28168    An alien
+M 0 28108    12 28168    An alien
+M 0 28108    12 28168    An alien
+O 0 28103     1 28169    A jagged piece of shiney metal.
+O 0 28113     1 28172    abducted avatar
+P 1 28115     1 28113    A passcard made of some strange plastic.
+D 0 28173     1     2    (E:LOCKED) Cramped Hallway
+D 0 28174     3     2    (W:LOCKED) Research Facility
+M 0 28108    12 28175    An alien
+M 0 28108    12 28175    An alien
+O 0 28117     1 28175    A big Brown Cow
+M 0 28108    12 28179    An alien
+D 0 28180     1     0    (E:OPEN) {RED}Service Tunnel{re}
+D 0 28182     3     2    (W:LOCKED) Main Engineering
+M 0 28110    13 28184    A scientist
+M 0 28110    13 28184    A scientist
+D 0 28184     0     2    (N:LOCKED) Back Hallway
+D 0 28185     1     0    (E:OPEN) {RED}Service Tunnel{re}
+M 0 28111     1 28186    The evil comm
+M 0 28108    12 28187    An alien
+M 0 28108    12 28187    An alien
+M 0 28108    12 28192    An alien
+D 0 28195     2     0    (S:OPEN) Dark Tunnel
+M 0 28106     1 28197    Cancerman
+G 1 28104     1     0    A passkey with cigarette holes burned in.
+D 0 28198     3     0    (W:OPEN) A Secret Place
+M 0 28102     1 28199    Lord Kimbo
+G 1 28112     1     0    A metal spike
+D 0 28199     1     2    (E:LOCKED) Lord Kimbo's Cell
+$~

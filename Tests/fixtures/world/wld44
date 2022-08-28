@@ -1,0 +1,1085 @@
+#4400
+forest path~
+The path that you've been following curves eastward, deeper into the
+forest. The sounds of chirping birds surround you, filling you with a sense
+of inner peace.  Looking around, you see that this path has been seldom
+tread, and you're certain you can rest here without being disturbed.
+~
+44 8192 3
+D1
+(null)~
+~
+0 -1 4401
+E
+sign ~
+you should be here! go away!
+~
+Z3
+C-1
+S
+#4401
+forest path~
+You start daydreaming about your last heroic encounter when you realize that
+the sounds of chirping no longer accompanies you.  Looking behind, you see
+that the path you've been following has disappeared!  The only visible exit
+is north, deeper into the forest.
+~
+44 128 3
+D0
+(null)~
+~
+0 -1 4402
+Z3
+C-1
+S
+#4402
+Narrowing path~
+A sense of urgency grips you as you see the path that you've been following
+begin to narrow.  The trees around you seem darker and more foreboding.  You
+decide to backtrack, but no path lies behind you!  Instead, the trees seem to
+have risen up and created a wall of branches to block your way.
+~
+44 128 3
+D1
+(null)~
+~
+0 -1 4402
+D3
+(null)~
+branches~
+1 -1 4403
+E
+w~
+(null)~
+Z3
+C-1
+S
+#4403
+Small clearing~
+You make your way through the branches and find yourself under a night sky.  The
+stars above seem unfamiliar to you, and no moon graces it's beam upon you.  The
+small glow from your own light reveals a strange vehicle to your left and a 
+large, masonite structure further to the north.
+~
+44 33 3
+D0
+(null)~
+~
+0 -1 4405
+D1
+(null)~
+branches~
+1 -1 4402
+D3
+(null)~
+hatch~
+1 -1 4404
+E
+hatch door~
+You can barely make out a door on the side of the vehicle, it's outlines
+almost invisible in the light.
+~
+E
+vehicle~
+As you approach the vehicle, your light source reflects off it's metallic
+skin, revealing strange markings.  You don't understand them, but they form
+the words, "UNITED FEDERATION MARINES".
+~
+Z3
+C-1
+S
+#4404
+APC~
+If the outside wasn't strange enough, the inside leaves you in disarray.  Two
+long benches line the walls on one end.  Tough, fabric straps dangling from 
+everal places.  Several square-opaque glass pieces are set into the walls at
+ye-level, yet their purpose is a mystery.  To the other end of the vehicle are
+large windows that allow you to see the masonite structure from another angle. 
+You conclude that this must be wizard's transport, since strange gems are set  
+into the metal tables below the windows, blinking in a myriad of colors.  One
+particular glass pane catches your eyes, light blinking across it's surface. 
+~
+44 9 0
+D1
+(null)~
+hatch~
+1 -1 4403
+D3
+(null)~
+door~
+1 -1 4416
+E
+pane~
+EMERGENCY : LIFE SIGNS OF SQUAD HAVE TERMINATED.
+EMERGENCY : SUPPORT PERSONNEL HAVE TERMINATED.
+~
+Z3
+C-1
+S
+#4405
+front of Station~
+You are standing in front of a pair of large blue-steel doors.  A small,
+silver plaque can be seen next to the right door, above a red button.  You
+guess a large dragon must have tried to gain entry here, since the doors are
+charred with large, black streaks, and deep gouges marr the once smooth
+surface. You look around uncomfortably, expecting the beast to reappear at
+any moment.
+~
+44 0 1
+D0
+(null)~
+doors~
+1 -1 4408
+D1
+(null)~
+~
+0 -1 4407
+D2
+(null)~
+~
+0 -1 4403
+D3
+(null)~
+~
+0 -1 4406
+E
+doors door blue~
+The doors looked scarred by a great dragon.  You see holes large enough to
+stick your hands through.  Perhaps you can pry them open?
+~
+E
+button red~
+The button is made of a strange material, plastic, you've heard it called.
+It's half melted by whatever charred the doors.
+~
+E
+silver plaque~
+STATION ALPHA : constructed 2022 A.D.
+Push button and await authorization.
+~
+Z3
+C-1
+S
+#4406
+west of the Station doors~
+You make your way west of the blue doors and find yourself blocked by
+a large lake.  Kneeling down, you try to discern any creatures below, but
+blackness is all you see.  A smell similar to rotting corpses discourages
+you from investigating further.
+~
+44 0 1
+D1
+(null)~
+~
+0 -1 4405
+E
+lake water~
+The water here is black as night and thick as tar.  You don't doubt that
+one drink would leave you outside death's door.
+~
+Z3
+C-1
+S
+#4407
+east of the Station doors~
+You follow a masonite trail eastward.  You are forced to stop as you come
+upon a strange fence, made of thick wire.  You peer through the fence and
+see lights ahead, and a large metallic mass, steam issuing from it.
+~
+44 0 1
+D3
+(null)~
+~
+0 -1 4405
+E
+fence wire~
+Along the top of the fence, you see viscious spikes, and from where you are,
+you can sense powerful energies emanating from them.
+~
+Z3
+C-1
+S
+#4408
+dark hallway~
+As you enter, you turn around just in time to see the doors shut with a large
+clang! Steeling yourself for what may lie ahead, you examine your
+surroundings. It is very dark here, but your light source does show that
+there must have been a great battle here.  Large scraps of metal lie on the
+floor and strange instruments of war lie in disarray.  You carefully examine
+the walls and see the same gouges you notices earlier, and melted steel from
+what must have been a huge fireball.  Water leaks through grates in the
+ceiling, where you see more melted steel.  Upon further inspection, the
+liquid dripping from the ceiling is acid!  It's drops fizzling on the floor
+below. You step back in fear.
+~
+44 9 0
+D0
+You see the metallic hallway continue northward.  Large pipes running along the
+walls.
+~
+~
+0 -1 4410
+E
+door~
+The doors are closed shut.  You can exit this way.
+~
+E
+acid~
+The powerful acid steams and it eats away at the steel and masonite floor.
+~
+E
+grate~
+Although large holes have been gouged into the grates, you are wary to climb
+up for fear of the acid.
+~
+Z3
+C-1
+S
+#4409
+Death by acid~
+You jump up and manage to grab hold of hanging beam.  While pulling yourself
+up, the beam gives way!  You plummet down through the floor and into an acid
+pool below.  You try in vain to grab a hold of the floor above.  Your equipment
+dissolves, and you along with it.
+~
+44 2 1
+Z3
+C-1
+S
+#4410
+dark hallway~
+The signs of battle continue up the hallway.  Something doesn't feel right
+about this battle.  You look around and see more equipment scattered about
+and blood stains cover the floor.  Suddenly you realize what it is...
+the blood stains are fresh, yet there are no dead bodies!  You find it very
+hard to believe that both sides would have left with their dead companions and
+not the equipment you see around you.
+~
+44 9 1
+D0
+(null)~
+~
+0 -1 4411
+D2
+(null)~
+~
+0 -1 4408
+Z3
+C-1
+S
+#4411
+dark hallway~
+As you continue up the hallway, the only sound you hear is the dripping of acid
+from the ceiling.  To the east, you see a hallway that ends in a steel hatch.
+Several drag marks can be seen from the eastern hallway and here leading north
+and through a pair of sliding doors...
+~
+44 9 0
+D0
+You see another sliding door, partially open, at the end of the hallway.
+~
+~
+0 -1 4412
+D1
+(null)~
+~
+0 -1 4414
+D2
+(null)~
+~
+0 -1 4410
+D3
+(null)~
+~
+0 -1 4417
+Z3
+C-1
+S
+#4412
+dark hallway~
+The sliding doors loom further ahead of you.  Blood continues to stain the
+walls, and an awful smell hangs like an omen around you.  Your only thoughts
+are on the warm and comforting Inn that you passed earlier.
+~
+44 0 1
+D0
+(null)~
+~
+0 -1 4413
+D2
+(null)~
+~
+0 -1 4411
+Z3
+C-1
+S
+#4413
+Elevator shaft~
+The doors are open wide enough for you to squeeze through.  You peer down the   
+shaft and see a light far below.  There are cables here that looks sturdy  
+enough to support your weight...           
+~
+44 8 1
+D2
+(null)~
+~
+0 -1 4412
+D5
+~
+~
+0 -1 4453
+Z3
+C-1
+S
+#4414
+Before the metal hatch~
+The battle seems to have reached a crescendo here.  The stains on the walls
+have dripped into large puddles on the floor, where you see drag marks leading
+back the way you came.
+~
+44 9 0
+D1
+You see an oval hatch.  It's locking mechanism smashed apart.
+~
+hatch~
+1 -1 4415
+D3
+(null)~
+~
+0 -1 4411
+Z3
+C-1
+S
+#4415
+landing field~
+You open the hatch and walk into night.  Mist swirls around you, emmitted
+from huge metallic constructs, the likes of which you have never seen.  To the
+north is a platform leading up a strange machine.  To the south, you can see
+a chain fence.
+~
+44 262144 2
+D0
+(null)~
+~
+0 -1 4483
+D3
+You see an oval hatch.  It's locking mechanism smashed apart.
+~
+hatch~
+1 -1 4414
+Z3
+C-1
+S
+#4416
+closet~
+You enter a small closet, barely big enough for a gnome!  Whatever used to be
+kept here are long gone now.
+~
+44 262152 1
+D1
+(null)~
+door~
+1 -1 4404
+Z3
+C-1
+S
+#4417
+Ionization Chamber~
+You enter an elliptical room.  In the center of the room is a round pedastal
+encased in glass which reaches from up from the floor to the ceiling.  The 
+battle that raged outside does not seem to have affected this room.
+~
+44 8 1
+D1
+(null)~
+~
+0 -1 4411
+D5
+(null)~
+glass~
+1 4404 4482
+Z3
+C-1
+S
+#4450
+dark hallway~
+You tread warily down the hallway, knowing that danger is everywhere.  You can
+almost feel their presence in the air shafts above and below you.  One wrong
+step could cost you your life.
+~
+44 9 1
+D1
+(null)~
+~
+0 -1 4451
+Z3
+C-1
+S
+#4451
+dark hallway~
+Again, mist starts rising from the metal grates you are walking on.  How 
+easily the Aliens can reach up and pull you down into the unknown depths below,
+you think in dizzy fear.  Perhaps you should turn back now, and remininsce with
+your companions on what could have been...
+~
+44 9 1
+D1
+(null)~
+~
+0 -1 4452
+D3
+(null)~
+~
+0 -1 4450
+Z3
+C-1
+S
+#4452
+dark hallway~
+A sound from below...
+....
+....
+....
+....sends you into a vertigo adrenaline rush.  Before you are the open doors to
+an elevator shaft.
+~
+44 9 1
+D0
+(null)~
+~
+0 -1 4453
+D3
+(null)~
+~
+0 -1 4451
+Z3
+C-1
+S
+#4453
+Elevator shaft~
+The doors are open wide enough for you to squeeze through.  You peer down the
+shaft and see a light far below.  There are cables here that looks sturdy
+enough to support your weight...
+~
+44 9 1
+D2
+(null)~
+~
+0 -1 4452
+D4
+~
+~
+0 -1 4413
+D5
+(null)~
+~
+0 -1 4454
+Z3
+C-1
+S
+#4454
+Elevator shaft~
+You carefully climb down the shaft, holding on to the cables.  It's tedious
+work, climbing hand over hand with all your equipment on, but looking at the
+darkness below, better slow than dead.
+~
+44 9 1
+D5
+(null)~
+~
+0 -1 4455
+Z3
+C-1
+S
+#4455
+Elevator shaft~
+You make your way down the elevator and come to a pair of double doors.
+Carefully holding on to the cable with one hand, you try to pry the doors apart
+with no success.
+~
+44 9 1
+D5
+(null)~
+~
+0 -1 4457
+Z3
+C-1
+S
+#4456
+Elevator shaft~
+You carefully climb down the shaft, holding on to the cables.  It's tedious
+work, climbing hand over hand with all your equipment on, but looking at the
+darkness below, better slow than dead.
+~
+44 9 1
+Z3
+C-1
+S
+#4457
+Elevator shaft~
+You make your way down the elevator and come to a pair of double doors.
+Carefully holding on to the cable with one hand, you try to pry the doors apart
+with no success.
+~
+44 9 1
+D5
+(null)~
+~
+0 -1 4458
+Z3
+C-1
+S
+#4458
+Elevator shaft~
+You carefully climb down the shaft, holding on to the cables.  It's tedious
+work, climbing hand over hand with all your equipment on, but looking at the
+darkness below, better slow than dead.
+~
+44 9 1
+D5
+(null)~
+~
+0 -1 4459
+Z3
+C-1
+S
+#4459
+Elevator shaft~
+You make your way down the elevator and come to a pair of double doors.
+Carefully holding on to the cable with one hand, you try to pry the doors apart
+with no success.
+~
+44 9 1
+Z3
+C-1
+S
+#4470
+Prison Cell~
+You crawl through the hatch and enter a sparse cell.  A metal drain in the
+middle of the floor serves as the only means of body relief.  There are no
+other furniture here.
+~
+44 262152 1
+D4
+~
+~
+0 -1 4471
+D5
+~
+~
+0 -1 4491
+Z3
+C-1
+S
+#4471
+Air-shaft~
+You are crawling along a metallic tube.  The air is starting to run out as
+you crawl forward.
+~
+44 8 1
+D1
+(null)~
+~
+0 -1 4472
+D3
+(null)~
+~
+0 -1 4479
+D5
+~
+~
+0 -1 4470
+Z3
+C-1
+S
+#4472
+Air-shaft~
+You are crawling along a metallic tube.  The air is starting to run out as
+you crawl forward.
+~
+44 8 1
+D1
+(null)~
+~
+0 -1 4473
+D3
+(null)~
+~
+0 -1 4471
+Z3
+C-1
+S
+#4473
+Air-shaft~
+You are crawling along a metallic tube.  The air is starting to run out as
+you crawl forward.
+~
+44 8 1
+D1
+(null)~
+~
+0 -1 4474
+D3
+(null)~
+~
+0 -1 4472
+D4
+(null)~
+~
+0 -1 4476
+D5
+(null)~
+~
+0 -1 4477
+Z3
+C-1
+S
+#4474
+Air-shaft~
+You are crawling along a metallic tube.  The air is starting to run out as
+you crawl forward.
+~
+44 8 1
+D3
+(null)~
+~
+0 -1 4473
+D5
+(null)~
+~
+0 -1 4476
+Z3
+C-1
+S
+#4475
+Air-shaft~
+You are crawling along a metallic tube.  The air is starting to run out as
+you crawl forward.
+~
+44 8 1
+D1
+(null)~
+~
+0 -1 4475
+D3
+(null)~
+~
+0 -1 4475
+D4
+~
+~
+0 -1 4490
+D5
+(null)~
+~
+0 -1 4477
+Z3
+C-1
+S
+#4476
+Air-shaft~
+You are crawling along a metallic tube.  The air is starting to run out as
+you crawl forward.
+~
+44 8 1
+D1
+(null)~
+~
+0 -1 4478
+D3
+(null)~
+~
+0 -1 4475
+D4
+(null)~
+~
+0 -1 4474
+Z3
+C-1
+S
+#4477
+Refuse ~
+You have fallen.
+
+
+
+.
+
+
+Into
+
+
+.
+
+a
+PILE OF GARBAGE!
+~
+44 524296 1
+D4
+(null)~
+~
+0 -1 4475
+Z3
+C-1
+S
+#4478
+Air-shaft~
+You are crawling along a metallic tube.  The air is starting to run out as
+you crawl forward.
+~
+44 8 1
+D3
+(null)~
+~
+0 -1 4476
+D5
+(null)~
+~
+0 -1 4477
+Z3
+C-1
+S
+#4479
+Air-shaft~
+You are crawling along a metallic tube.  The air is starting to run out as
+you crawl forward.
+~
+44 8 1
+D1
+(null)~
+~
+0 -1 4480
+D3
+(null)~
+~
+0 -1 4476
+D5
+(null)~
+~
+0 -1 4477
+Z3
+C-1
+S
+#4480
+Air-shaft~
+You are crawling along a metallic tube.  The air is starting to run out as
+you crawl forward.
+~
+44 8 1
+D1
+(null)~
+~
+0 -1 4480
+D3
+(null)~
+~
+0 -1 4479
+D5
+(null)~
+~
+0 -1 4481
+Z3
+C-1
+S
+#4481
+Air-shaft~
+You are crawling along a metallic tube.  The air is starting to run out as
+you crawl forward.
+~
+44 8 1
+D4
+(null)~
+~
+0 -1 4480
+D5
+(null)~
+~
+0 -1 4482
+E
+stairs~
+The stairs are barred with a large chain.  The receptionist says to you,
+Upstairs is for renting customers only.
+~
+Z3
+C-1
+S
+#4482
+Air-shaft~
+You are crawling along a metallic tube.  The air is starting to run out as
+you crawl forward.
+~
+44 8 1
+D4
+(null)~
+~
+0 -1 4481
+E
+cauldron~
+The large cauldron is bubbling happily with broth filled with carrots, celery,
+potatoes, beef cubes and small cherry tomatoes.
+~
+Z3
+C-1
+S
+#4483
+Landing Field~
+Besides the humming of machinery around you, and the random hiss of escaping
+gas from various pipes, you find the landing field deathly silent.  There are
+no signs of battle that raged in the building behind you, and no telltale
+evidence of struggle on the platform that leads into darkness before you...
+~
+44 262144 1
+D0
+(null)~
+~
+0 -1 4484
+D2
+(null)~
+~
+0 -1 4415
+Z3
+C-1
+S
+#4484
+Gangplank~
+You are walking up a large metal plank, leading into the great metallic beast
+you saw from outside the chain fence.  No sound emanates from within, and you
+find yourself treading lightly.
+~
+44 262144 1
+D2
+(null)~
+~
+0 -1 4483
+D4
+(null)~
+~
+0 -1 4485
+Z3
+C-1
+S
+#4485
+The Sulaco~
+The room you have entered is shrouded in darkness, and it is difficulty to
+discern where the room actually ends.  Steam from foot-level pipes hiss
+continuously and serves to reduce visibility further.
+~
+44 262152 1
+D0
+(null)~
+~
+0 -1 4485
+D1
+(null)~
+~
+0 -1 4486
+D2
+(null)~
+~
+0 -1 4486
+D3
+(null)~
+~
+0 -1 4486
+D5
+(null)~
+~
+0 -1 4484
+Z3
+C-1
+S
+#4486
+The Sulaco~
+The room you have entered is shrouded in darkness, and it is difficulty to
+discern where the room actually ends.  Steam from foot-level pipes hiss
+continuously and serves to reduce visibility further.
+~
+44 262153 1
+D0
+(null)~
+~
+0 -1 4488
+D1
+(null)~
+~
+0 -1 4487
+D2
+(null)~
+~
+0 -1 4486
+D3
+(null)~
+~
+0 -1 4487
+Z3
+C-1
+S
+#4487
+The Sulaco~
+The room you have entered is shrouded in darkness, and it is difficulty to
+discern where the room actually ends.  Steam from foot-level pipes hiss
+continuously and serves to reduce visibility further.
+~
+44 262153 1
+D1
+(null)~
+~
+0 -1 4487
+D2
+(null)~
+~
+0 -1 4486
+D3
+(null)~
+~
+0 -1 4485
+Z3
+C-1
+S
+#4488
+The Sulaco~
+The room you have entered is shrouded in darkness, and it is difficulty to
+discern where the room actually ends.  Steam from foot-level pipes hiss
+continuously and serves to reduce visibility further.
+~
+44 262153 1
+D1
+(null)~
+~
+0 -1 4489
+D2
+(null)~
+~
+0 -1 4487
+D3
+(null)~
+~
+0 -1 4487
+Z3
+C-1
+S
+#4489
+The Sulaco~
+The room you have entered is shrouded in darkness, and it is difficulty to
+discern where the room actually ends.  Steam from foot-level pipes hiss
+continuously and serves to reduce visibility further.
+~
+44 262153 1
+D0
+(null)~
+depot~
+1 -1 4490
+D1
+(null)~
+~
+0 -1 4489
+D2
+(null)~
+~
+0 -1 4487
+D3
+(null)~
+~
+0 -1 4487
+Z3
+C-1
+S
+#4490
+Arms Depot~
+The door opens easily to your touch and you enter a medium sized room, shaped
+in a narrow, rectangular pattern.  Although the room is basically empty, you do
+discern a few trinkets that someone has left here.
+~
+44 262153 1
+D2
+(null)~
+depot~
+1 -1 4489
+D5
+~
+~
+0 -1 4475
+Z3
+C-1
+S
+#4491
+UNDERGROUND PRISON TORTURE ROOM~
+Save me MY FRIEDNS!!
+~
+44 262144 1
+Z3
+C-1
+S
+#4497
+Cafe Aroma - Ye Underground Coffee Shoppe~
+You are pretty tired of the everyday hubub of Mud life and decide to duck into
+the local coffee shop, Cafe Aroma.  The floors are made of some art deco
+marble, which form into columns which reach the ceiling.  Following the column,
+you see notice that the ceiling is actually about 20 feet high, with a 'false'
+ceiling made of steel girders some 15 feet off the ground.  You stretch and
+yawn for a bit, before going towards the shop counter.  The smell of fresh
+ground coffee, steamed latte, and melted chocolate all encourage you to sample
+the many fine offerings here.
+~
+44 66700 1
+D0
+(null)~
+~
+0 -1 2011
+Z3
+C-1
+S
+#4498
+DarkSpear's locker room~
+A sweet, musty aroma fills your nostrils as you enter this dim room.  A large
+locker stands against the wall to your left, it's door ajar.  Directly in front
+of you is a large chalkboard with complicated symbols on it.
+~
+44 32968 1
+D1
+(null)~
+~
+0 -1 4499
+E
+locker~
+You look inside the locker room and see a jockstrap of GIGANTIC proportions
+hanging from a hook.  Beneath it are a pair of Air Jordans and a Spalding
+leather basketball.
+~
+E
+chalkboard~
+You examine the chalkboard more closely and recognize a common box and one
+defense above a four-one offensive play.
+~
+Z3
+C0
+S
+#4499
+The DSDome~
+You appear in an old basketball gym.  Graffitti covers the walls and broken
+stadium chairs.  Scanning the court, however, you notice that the lines are
+freshly painted and the floor freshly waxed.  You hear dribbling and as you
+listen closely, it gets louder.  Out of the corner of you eye, you see a
+fleeting shadow fly across the floor, doing a 360 degree, alley-oop slam dunk!
+~
+44 65544 0
+D2
+(null)~
+~
+0 -1 9824
+D3
+(null)~
+~
+0 -1 4498
+D5
+(null)~
+~
+0 -1 3001
+E
+scoreboard~
+You look up at the scoreboard and read : DarkSpear [535]  Mortals [2]
+~
+Z3
+C-1
+S
+$~

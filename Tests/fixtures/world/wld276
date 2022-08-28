@@ -1,0 +1,1937 @@
+#27600
+{BO,BLUE}Video Store{bo,blue}~
+As you walk into this bustling video store you are nerly run over by a
+pair of bratty kids as they chase after each other.  A quick scan of the
+store allows you to quickly locate what you have come after.  Directly
+in the center of the building is a large display announcing the
+re-release of the Star Wars Trilogy.  As you walk towards the display
+the world around you begins to warp and twist.......your stomach churns
+as you continue to stumble towards the display............
+~
+276 140 1
+D3
+~
+~
+0 -1 49852
+Z3
+C-1
+S
+#27601
+{bo,Y}Deserts of Tatooine{bo,y}~
+You wake up to find yourself lying face down on a baking rock!
+Looking around you realize that you have absolutely no idea where
+you are!  These barren wastelands seem to stretch on forever, miles
+and miles of hard rock and sand.  To the north, at the very edge of
+your vision, you can barely make out a large, man-made object.
+~
+276 16777296 0
+D0
+~
+~
+0 -1 27602
+Z3
+C-1
+S
+#27602
+{bo,Y}Deserts of Tatooine{bo,y}~
+After almost thirty minutes of walking you are finally able to make out
+what exactly it is you are walking towards.  In the distance you can see
+a giant sandcrawler.  Small shapes scurry about the giant vehicle,
+watching you as you approach.
+~
+276 80 0
+D0
+~
+~
+0 -1 27603
+D2
+~
+~
+0 -1 27601
+Z3
+C-1
+S
+#27603
+{bo,Y}Before the Sandcrawler{bo,y}~
+You stand before a monstrous vehicle!  The treads alone are three times
+your height, and the entire sandcrawler is taller than the largest dragon
+you have ever seen!!!  Right now the sandcrawler is not moving, but you
+can no longer see any of the creatures that you made out in the distance.
+~
+276 80 0
+D0
+You can barely make out seams in the side of the sandcrawler.
+~
+hatch~
+1 -1 27604
+D2
+~
+~
+0 -1 27602
+Z3
+C-1
+S
+#27604
+{bo,Y}Inside the Sandcrawler{y}~
+The air inside this huge vehicle is stale, but refreshingly cool in
+comparison to the surface of this planet.  After your eyes re-adjust you
+find yourself standing in a small, poorly lit corridor.  From deeper
+inside the sandcrawler you can hear more Jawas scurrying about.
+~
+276 9 0
+D0
+This hatch probably leads out of the sandcrawler.
+~
+hatch~
+2 27600 27611
+D1
+~
+~
+0 -1 27605
+D3
+~
+~
+0 -1 27609
+Z3
+C-1
+S
+#27605
+{bo,Y}Inside the Sandcrawler{y}~
+The air inside this huge vehicle is stale, but refreshingly cool in
+comparison to the surface of this planet.  After your eyes re-adjust you
+find yourself standing in a small, poorly lit corridor.  From deeper
+inside the sandcrawler you can hear more Jawas scurrying about.
+~
+276 137 0
+D3
+~
+~
+0 -1 27604
+D4
+~
+~
+0 -1 27606
+Z3
+C-1
+S
+#27606
+{bo,Y}Inside the Sandcrawler{y}~
+The air inside this huge vehicle is stale, but refreshingly cool in
+comparison to the surface of this planet.  After your eyes re-adjust you
+find yourself standing in a small, poorly lit corridor.  From deeper
+inside the sandcrawler you can hear more Jawas scurrying about.
+~
+276 137 0
+D3
+~
+~
+0 -1 27607
+D5
+~
+~
+0 -1 27605
+Z3
+C-1
+S
+#27607
+{bo,Y}Inside the Sandcrawler{y}~
+The air inside this huge vehicle is stale, but refreshingly cool in
+comparison to the surface of this planet.  After your eyes re-adjust you
+find yourself standing in a small, poorly lit corridor.  From deeper
+inside the sandcrawler you can hear more Jawas scurrying about.
+~
+276 137 0
+D0
+As you examine the walls of this corridor you notice a small button.
+~
+door~
+1 -1 27610
+D1
+~
+~
+0 -1 27606
+D3
+~
+~
+0 -1 27608
+Z3
+C-1
+S
+#27608
+{bo,Y}Inside the Sandcrawler{y}~
+The air inside this huge vehicle is stale, but refreshingly cool in
+comparison to the surface of this planet.  After your eyes re-adjust you
+find yourself standing in a small, poorly lit corridor.  From deeper
+inside the sandcrawler you can hear more Jawas scurrying about.
+~
+276 137 0
+D1
+~
+~
+0 -1 27607
+D5
+~
+~
+0 -1 27609
+Z3
+C-1
+S
+#27609
+{bo,Y}Inside the Sandcrawler{y}~
+The air inside this huge vehicle is stale, but refreshingly cool in
+comparison to the surface of this planet.  After your eyes re-adjust you
+find yourself standing in a small, poorly lit corridor.  From deeper
+inside the sandcrawler you can hear more Jawas scurrying about.
+~
+276 137 0
+D1
+~
+~
+0 -1 27604
+D4
+~
+~
+0 -1 27608
+Z3
+C-1
+S
+#27610
+{BLACK}{BO}Storage Room{black}{bo}~
+The first thing you notice upon entering this room is the state of
+disarray that it is in.  Scrap metal, broken instruments, and pieces of
+robots are strewn all across the floor.  Huddled in the back corner of
+the room is a tall golden droid and a short white droid.
+~
+276 9 0
+D2
+~
+door~
+1 -1 27607
+Z3
+C-1
+S
+#27611
+{bo,Y}Deserts of Tatooine{y}~
+As you step out of the sandcrawler you nearly pass out at the intensity
+of the heat.  Looking around you can make out what appears to be rockier
+terrain to the north.  Since you have no better destination in mind you
+decide to head north and explore.
+~
+276 80 0
+D0
+~
+~
+0 -1 27612
+Z3
+C-1
+S
+#27612
+{bo,W}Rocky Hills{w}~
+The terrain is very rough here.  Sunbleached rocks jut out of the ground
+at wierd angles.  It is very quiet here.......almost too quiet.
+~
+276 80 0
+D1
+It appears you can shove this boulder aside....but are you strong enough?
+~
+rock~
+1 -1 27613
+D2
+~
+~
+0 -1 27611
+Z3
+C-1
+S
+#27613
+{bo,W}Obi{BO,W}-{BO,BLUE}Wan's Cave{bo,blue}~
+You are standing in the cave of Obi-Wan Kenobi.  Though it is still very
+dry in here, at least it is not nearly as hot.  The room is almost completely
+devoid of furniture, with only a modest stone bunk and hard wood table
+decorating it.  Sitting on one of the rocks that poses as a chair you see
+an elderly man clothed in robes.
+~
+276 72 0
+D0
+When you first examined this wall you didn't notice anything unusual.  A
+second, closer look reveals a small wooden door.
+~
+door~
+3 -1 27614
+D3
+~
+rock~
+1 -1 27612
+Z3
+C-1
+S
+#27614
+{bo,G}Ro{bo,W}ad to Mos Eisl{bo,G}ey{g}~
+You step out of the cave into the blistering heat to find yourself on a
+fair sized road leading north.  Looking back you can see no sign of the
+cave....in fact the entire landscape seems to be different.  Scratching
+your head, you begin to trudge northwards.
+~
+276 80 0
+D0
+~
+~
+0 -1 27615
+Z3
+C-1
+S
+#27615
+{bo,W} Mos Eisley{w}~
+You are standing in the middle of a busy city.  All the buildings are
+made of the same white stone.  The people walking through the streets
+seem strangely subdued....not surprising considering that everywhere
+you look you can make out the white and black armour of patrolling
+Stormtroopers.  To the west you notice a large building with a sign
+reading "Cantina" hanging from it.
+~
+276 0 1
+D2
+~
+~
+0 -1 27614
+D3
+This is the main door to the Cantina.  From inside you can hear the faint
+sound of music mixed with that of many voices.
+~
+door~
+1 -1 27616
+Z3
+C-1
+S
+#27616
+{BO,R}Cantina{r}~
+This place is filled with smugglers and low lifes of all types.  The air
+is dark and smokey and smells like stale gym socks.  From the back of
+the bar you can hear a band playing some sort of jazz music, but it is
+almost drowned out by the hundreds of voices talking at once.  "This isn't
+a very safe place to be", you think to yourself.
+~
+276 8 0
+D0
+~
+~
+0 -1 27617
+D1
+~
+door~
+1 -1 27615
+D2
+~
+~
+0 -1 27618
+D3
+~
+~
+0 -1 27619
+Z3
+C-1
+S
+#27617
+{BO,R}Cantina{r}~
+This place is filled with smugglers and low lifes of all types.  The air
+is dark and smokey and smells like stale gym socks.  From the back of
+the bar you can hear a band playing some sort of jazz music, but it is
+almost drowned out by the hundreds of voices talking at once.  "This isn't
+a very safe place to be", you think to yourself.
+~
+276 8 0
+D2
+~
+~
+0 -1 27616
+D3
+~
+~
+0 -1 27620
+Z3
+C-1
+S
+#27618
+{BO,R}Cantina{r}~
+This place is filled with smugglers and low lifes of all types.  The air
+is dark and smokey and smells like stale gym socks.  From the back of
+the bar you can hear a band playing some sort of jazz music, but it is
+almost drowned out by the hundreds of voices talking at once.  "This isn't
+a very safe place to be", you think to yourself.
+~
+276 8 0
+D0
+~
+~
+0 -1 27616
+D3
+~
+~
+0 -1 27621
+Z3
+C-1
+S
+#27619
+{BO,R}Cantina{r}~
+This place is filled with smugglers and low lifes of all types.  The air
+is dark and smokey and smells like stale gym socks.  From the back of
+the bar you can hear a band playing some sort of jazz music, but it is
+almost drowned out by the hundreds of voices talking at once.  "This isn't
+a very safe place to be", you think to yourself.
+~
+276 8 0
+D0
+~
+~
+0 -1 27620
+D1
+~
+~
+0 -1 27616
+D2
+~
+~
+0 -1 27621
+Z3
+C-1
+S
+#27620
+{BO,R}Cantina{r}~
+This place is filled with smugglers and low lifes of all types.  The air
+is dark and smokey and smells like stale gym socks.  From the back of
+the bar you can hear a band playing some sort of jazz music, but it is
+almost drowned out by the hundreds of voices talking at once.  "This isn't
+a very safe place to be", you think to yourself.
+~
+276 8 0
+D1
+~
+~
+0 -1 27617
+D2
+~
+~
+0 -1 27619
+Z3
+C-1
+S
+#27621
+{BO,R}Cantina{r}~
+This place is filled with smugglers and low lifes of all types.  The air
+is dark and smokey and smells like stale gym socks.  From the back of
+the bar you can hear a band playing some sort of jazz music, but it is
+almost drowned out by the hundreds of voices talking at once.  "This isn't
+a very safe place to be", you think to yourself.
+~
+276 8 0
+D0
+~
+~
+0 -1 27619
+D1
+~
+~
+0 -1 27618
+D3
+There is an EXIT sign hanging about this door.
+~
+door~
+2 27604 27622
+Z3
+C-1
+S
+#27622
+{bo,BLUE}Hangar Bay{blue}~
+You leave the din of the Cantina behind as you enter this docking area.
+All around you there are huge crafts of all different shapes and sizes. One
+in particular catches your eye.....the Millennium Falcon.  The hatch is
+open so you decide to check it out.
+~
+276 8 0
+D2
+The Millennium Falcon appears ready to leave in a hurry.
+~
+hatch~
+1 -1 27623
+Z3
+C-1
+S
+#27623
+{bo,W}Millennium Falcon{BO,W} - {BO,BLUE}Main{bo,blue}~
+Seconds after you step all the way into this spacecraft you hear the
+hatch behind you slam shut and the engines roar to life.  Well....now
+you have no choice but to stick this ride out.....may as well explore in
+the meantime.  After what could have been minutes or hours you feel the
+ship finally come to rest.
+~
+276 8 0
+D0
+Taking a deep breath you prepare to step out of the Millennium Falcon and
+see where it landed.
+~
+hatch~
+1 27634 27626
+D3
+~
+~
+0 -1 27624
+D5
+~
+~
+0 -1 27625
+Z3
+C-1
+S
+#27624
+{bo,W}Millennium Falcon{BO,W} - {BO,BLUE}Cockpit{bo,blue}~
+Feeling slightly bored, you decide to take a stroll up to the front of
+the ship to try to figure out the controls.  You sit down in the pilot's
+seat and put your feet up on the dash.........and almost pass out as you
+notice the eight foot figure sitting next to you.
+~
+276 8 0
+D1
+~
+~
+0 -1 27623
+Z3
+C-1
+S
+#27625
+{bo,W}Millennium Falcon{BO,W} - {BO,BLUE}Engine Room{bo,blue}~
+This is the engine room of the Millennium Falcon.  It is a mess of
+loose wires, switches, and strangely flashing lights.
+~
+276 8 0
+D4
+~
+~
+0 -1 27623
+Z3
+C-1
+S
+#27626
+{BO,BLACK}Death Star{BO,W} - {bo,R}Hangar Bay{bo,r}~
+Hmmmm.....maybe it wasn't such a hot idea to get off the Falcon after
+all.  As you set foot outside the hatch two white armoured stormtroopers
+immediately sound an alarm and open fire on you.  So much for a surprise
+visit........
+~
+276 8 0
+D0
+~
+~
+0 -1 27627
+Z3
+C-1
+S
+#27627
+{BO,BLACK}Death Star{W} - {bo,RED}Hallway{r}~
+As you dash down the hallway you can hear the sound of blasters firing
+off and see red bolts of heated light streak by your head.  You have
+almost no time to take in your surroundings as you flee the wave of
+stormtroopers that is at your heels.  There are only so many times you
+can get lucky.
+~
+276 8 0
+D0
+~
+~
+0 -1 27630
+D1
+~
+~
+0 -1 27630
+D2
+~
+~
+0 -1 27626
+D3
+~
+~
+0 -1 27628
+Z3
+C-1
+S
+#27628
+{BO,BLACK}Death Star{W} - {bo,RED}Hallway{r}~
+As you dash down the hallway you can hear the sound of blasters firing
+off and see red bolts of heated light streak by your head.  You have
+almost no time to take in your surroundings as you flee the wave of
+stormtroopers that is at your heels.  The are only so many times you
+can get lucky.  Directly in front of you a door is sliding shut to
+block off the corridor....better hurry!
+~
+276 8 0
+D1
+~
+~
+0 -1 27627
+D3
+The door slams shut with a dull thud just as you reach it.  Frustrated,
+you slam into it as hard as you can.  Surprisingly, the door seems to
+give a little.
+~
+door~
+6 -1 27631
+Z3
+C-1
+S
+#27629
+{BO,BLACK}The Chasm{bo,black}~
+You have come to the edge of a deep chasm in the Death Star.  As you look
+for a way across this deep pit you notice a long cable lying on the ground.
+Whirling it around above your head you fling it into the pipework above.
+It takes three or four tries, but you finally get it securely snagged.  Taking
+a deep breath you grip the cable tightly and push off......
+
+           Time stretches out as you swing across the gap......glancing
+           down into the infinite darkness you pray that luck is with you.
+
+~
+276 10 9
+D2
+~
+~
+0 -1 27636
+Z3
+C1
+S
+#27630
+{BO,BLACK}Death Star{W} - {bo,RED}Hallway{red}~
+As you dash down this hallway you hear the sounds of blasters firing off
+behind you and an officer barking orders to his troops.  Looking ahead
+you can see and electronic door silently sliding shut.  Even running
+as hard as you can you fail to reach the door before it slams shut.
+Banging your fists off the door you curse your ill luck.
+
+    Pain rips through your side as a laser tears through your armour...
+    .........seconds later another slams into your leg and you crumple
+    to the floor.
+
+        You wake to find yourself tied firmly upright..........five
+        stormtroopers are facing you ten yards away, blasters all
+        levelled at your chest.  The officer looks at you, contempt
+        showing in his face............"Fire"...
+
+            Your entire body explodes in pain...........
+            You do not wake up.
+
+~
+276 10 1
+Z3
+C-1
+S
+#27631
+{BO,Y}Security Post{bo,y}~
+You burst through the door into a small, official looking room.  Lights
+are blinking on and off on the many control panels all throughout the
+room.  To the north you can see a door that leads to the detention
+cells.
+~
+276 8 0
+D0
+~
+~
+0 -1 27632
+Z3
+C-1
+S
+#27632
+{BO,BLACK}Death Star{W} - {bo,RED}Hallway{red}~
+Things are really beginning to get frantic now.  All through the Death
+Star alarms are going off and stormtroopers are scurrying about trying to
+locate the mysterious invaders.  One thing is for certain - when they find
+you things are gonna get really messy, really quickly.  The hallway
+branches off to the west, while you see a sturdy door to the north.  You
+also notice a small grate on the east wall.
+~
+276 8 0
+D0
+There is a number on the cell:  AA-23
+~
+cell~
+1 27634 27633
+D1
+There is a man sized grate on this wall....it may be possible to shove
+it aside.  From the other side you can smell a faintly acidic aroma.
+~
+grate~
+3 27634 27634
+D2
+~
+~
+0 -1 27631
+D3
+~
+~
+0 -1 27630
+Z3
+C-1
+S
+#27633
+{BO,W}Leia's {bo,W}Cell{w}~
+You enter a small, cramped cell.  There are no furnishings in this room
+with the exception of a hard white bunk on the far wall.  There is a woman
+robed in a pure white dress sitting here.
+~
+276 8 0
+D2
+~
+cell~
+1 -1 27632
+Z3
+C2
+S
+#27634
+{bo,W}Trash Compactor{w}~
+Ewwww......who's idea was this anyways???  You are standing knee deep in
+a mixture of scrap metal, half eaten food, and raw sewage.  Maybe facing
+a legion of stormtroopers wouldn't be so bad after all.
+~
+276 8 0
+D1
+As you cross the room to check out the large metal door you feel something
+wrapping itself around your leg.
+~
+metal~
+1 -1 27635
+D3
+~
+grate~
+1 -1 27632
+Z3
+C-1
+S
+#27635
+{BO,BLACK}Death Star{W} - {bo,RED}Hallway{red}~
+After walking through that sewage pit you feel a strong urge to bathe.
+Unfortunately, with god-knows-how-many stormtroopers after you, you'll
+have to hold that thought for at least a little longer.  Right now your
+number one priority is finding the Millennium Falcon and getting the
+hell outta here!  That point is emphasized as a bolt of energy whips by
+your head.
+~
+276 8 0
+D2
+~
+~
+0 -1 27629
+Z3
+C-1
+S
+#27636
+{BO,BLACK}Death Star{W} - {bo,RED}Hallway{red}~
+As you run down the corridor you can see that it opens up into the hangar
+bay ahead of you.  With a patrol of stormtroopers behind you all you can
+do is keep running and hope for the best.
+~
+276 8 0
+D2
+~
+~
+0 -1 27637
+Z3
+C-1
+S
+#27637
+{BO,BLACK}Death Star{W} - {bo,R}Hangar Bay{r}~
+You dash into the hangar bay and frantically look around for the Falcon.
+A quick scan of the area tells you that it is conveniently parked on the
+*other* side of the room.  Moving as silently and quickly as possible you
+begin to manuver your way towards the ship.  "HALT!"  The words cut through
+your head like thunder.  Looking back you see a group of five stormtroopers!
+This is gonna be messy!
+~
+276 8 0
+D2
+~
+~
+0 -1 27638
+Z3
+C-1
+S
+#27638
+{bo,W}Millennium Falcon{w}~
+As you slam the hatch to the Falcon shut you can hear blaster fire
+pummeling the hull of the ship.  The engines roar to life and you are
+almost thrown off your feet as the Millennium Falcon escapes the jaws
+of the Death Star.  Looking around you notice something odd.....a shimmering
+doorway stands in the center of the room....you feel compelled to enter it.
+~
+276 8 0
+Z3
+C-1
+S
+#27639
+{BO,BLACK}Deep Space{bo,black}~
+A chilling sensation passes through your body as you step through the
+doorway......
+
+You open your eyes and look around.  You are floating in space, not far
+from the gigantic Death Star.  All around the giant moon you can see space
+fighters darting around engaging each other in high speed combat.
+Periodically ships explode, sending debris off in all directions.  Suddenly,
+without warning, the entire Death Star erupts in a huge mass of flames!  You
+are deafened by the sound of the explosion and blinded by the incredible
+light.
+
+As you regain your vision you see a lone X-wing heading back to
+base.....mission completed.
+~
+276 0 8
+D0
+~
+~
+0 -1 27640
+Z3
+C-1
+S
+#27640
+{BO,W}Hoth{bo,w}~
+You wake up face down in snow.  Every muscle in your body screams out in
+agony as you haul yourself to your feet.  Wrapping your cloak about your
+body tightly to try to keep out the blizzard wind and snow, you survey
+your surroundings.  You can see nothing but snow and ice all around you.
+~
+276 16416 1
+D3
+~
+~
+0 -1 27641
+Z3
+C-1
+S
+#27641
+{BO,W}Hoth - Frozen Wastelands{bo,w}~
+You shiver and pull your cloak tighter around yourself as you walk blindly
+through this blizzard.  Visibility is so poor that you can barely make out
+your feet as you put your head down and trudge forward.
+~
+276 16416 2
+D0
+~
+~
+0 -1 27642
+D1
+~
+~
+0 -1 27641
+D2
+~
+~
+0 -1 27641
+D3
+~
+~
+0 -1 27641
+Z3
+C-1
+S
+#27642
+{BO,W}Hoth - Frozen Wastelands{bo,w}~
+You shiver and pull your cloak tighter around yourself as you walk blindly
+through this blizzard.  Visibility is so poor that you can barely make out
+your feet as you put your head down and trudge forward.
+~
+276 16416 2
+D0
+~
+~
+0 -1 27642
+D1
+~
+~
+0 -1 27643
+D2
+~
+~
+0 -1 27641
+D3
+~
+~
+0 -1 27642
+Z3
+C-1
+S
+#27643
+{BO,W}Hoth - Frozen Wastelands{bo,w}~
+You shiver and pull your cloak tighter around yourself as you walk blindly
+through this blizzard.  Visibility is so poor that you can barely make out
+your feet as you put your head down and trudge forward.
+~
+276 16416 2
+D0
+~
+~
+0 -1 27643
+D1
+~
+~
+0 -1 27641
+D2
+~
+~
+0 -1 27642
+D3
+~
+~
+0 -1 27644
+Z3
+C-1
+S
+#27644
+{BO,W}Hoth - Frozen Wastelands{bo,w}~
+You shiver and pull your cloak tighter around yourself as you walk blindly
+through this blizzard.  Visibility is so poor that you can barely make out
+your feet as you put your head down and trudge forward.
+~
+276 16416 2
+D0
+~
+~
+0 -1 27645
+D1
+~
+~
+0 -1 27641
+D2
+~
+~
+0 -1 27644
+D3
+~
+~
+0 -1 27643
+Z3
+C-1
+S
+#27645
+{BO,W}Hoth - Frozen Wastelands{bo,w}~
+You shiver and pull your cloak tighter around yourself as you walk blindly
+through this blizzard.  Visibility is so poor that you can barely make out
+your feet as you put your head down and trudge forward.
+~
+276 16416 2
+D0
+~
+~
+0 -1 27646
+D1
+~
+~
+0 -1 27642
+D2
+~
+~
+0 -1 27641
+D3
+~
+~
+0 -1 27645
+Z3
+C-1
+S
+#27646
+{BO,W}Hoth - Frozen Wastelands{bo,w}~
+You shiver and pull your cloak tighter around yourself as you walk blindly
+through this blizzard.  Visibility is so poor that you can barely make out
+your feet as you put your head down and trudge forward.
+~
+276 16416 2
+D0
+~
+~
+0 -1 27644
+D1
+~
+~
+0 -1 27647
+D2
+~
+~
+0 -1 27641
+D3
+~
+~
+0 -1 27643
+Z3
+C-1
+S
+#27647
+{BO,W}Hoth - Frozen Wastelands{bo,w}~
+You shiver and pull your cloak tighter around yourself as you walk blindly
+through this blizzard.  Visibility is so poor that you can barely make out
+your feet as you put your head down and trudge forward.
+~
+276 16416 2
+D0
+~
+~
+0 -1 27647
+D1
+~
+~
+0 -1 27641
+D2
+~
+~
+0 -1 27648
+D3
+~
+~
+0 -1 27642
+Z3
+C-1
+S
+#27648
+{BO,W}Hoth - Frozen Wastelands{bo,w}~
+You shiver and pull your cloak tighter around yourself as you walk blindly
+through this blizzard.  Visibility is so poor that you can barely make out
+your feet as you put your head down and trudge forward.
+~
+276 16416 2
+D0
+~
+~
+0 -1 27649
+D1
+~
+~
+0 -1 27648
+D2
+~
+~
+0 -1 27641
+D3
+~
+~
+0 -1 27645
+Z3
+C-1
+S
+#27649
+{BO,W}Hoth - Frozen Wastelands{bo,w}~
+You shiver and pull your cloak tighter around yourself as you walk blindly
+through this blizzard.  Visibility is so poor that you can barely make out
+your feet as you put your head down and trudge forward.
+~
+276 16416 2
+D0
+~
+~
+0 -1 27641
+D1
+~
+~
+0 -1 27650
+D2
+~
+~
+0 -1 27643
+D3
+~
+~
+0 -1 27642
+Z3
+C-1
+S
+#27650
+{BO,W}Ca{BLACK}ve Mou{W}th{bo,w}~
+Finally.....shelter from the blizzard at last!  Not caring what may lurk
+inside this cave you make your way through the entrance....
+~
+276 1064992 2
+D0
+~
+~
+0 -1 27641
+D1
+~
+~
+0 -1 27651
+D2
+~
+~
+0 -1 27641
+D3
+~
+~
+0 -1 27649
+Z3
+C-1
+S
+#27651
+{BO,W}Ho{BLACK}th - Cav{W}es{bo,w}~
+You enter this ice cave thanking the gods for being merciful and
+providing you with shelter from the storm raging outside.  Huge
+stalactites hang from the ceiling......not only that, frozen bodies
+are also hanging...dead!  Maybe this isn't such a good place to be.
+As you turn around to leave the cave you hear a thunderous roar and
+see thousands of pounds of ice and snow tumble down to block off
+your only exit.  Oh sh*t.......
+~
+276 16424 0
+D1
+~
+~
+0 -1 27652
+Z3
+C-1
+S
+#27652
+{BO,W}Ho{BLACK}th - Cav{W}es{bo,w}~
+Realizing that the only way to go is deeper into the cave you very
+cautiously begin to advance.  Glancing around you see nothing that
+could have roared to cause that cave in.....so far so good.
+~
+276 16424 0
+D2
+~
+~
+0 -1 27653
+D3
+~
+~
+0 -1 27651
+Z3
+C-1
+S
+#27653
+{BO,W}Ho{BLACK}th - Cav{W}es{bo,w}~
+As you round this bend in the ice cave you are knocked off your feet
+as something huge hits you square in the back.  Picking yourself up
+you look around just in time to see a massive claw slam into you and
+throw you back five feet, into the cave wall.  The creature is huge,
+and it's coming towards you!
+~
+276 16424 0
+D3
+It looks as if you can pry away a large chunk of ice here.
+~
+ice~
+3 -1 27654
+Z3
+C-1
+S
+#27654
+{BO,W}Hoth - Frozen Wastelands{bo,w}~
+You clamber up out of the Wampa's lair and back on to the barren
+surface of this frozen planet.  The blizzard seems to have calmed
+down while you were in the caves, much to your relief.  To the north
+you can see a faint metallic gleam on top of a small hill.
+~
+276 16416 2
+D0
+~
+~
+0 -1 27655
+Z3
+C-1
+S
+#27655
+{BO,W}Hoth - Frozen Wastelands{bo,w}~
+As you get closer to the hill you can see that the object at the peak
+is some kind of droid.  It appears to be studying the surrounding terrain
+in great detail.  Suddenly its small head swivels around so that it is
+looking right at you!
+~
+276 16416 4
+D0
+~
+~
+0 -1 27656
+D2
+~
+~
+0 -1 27654
+Z3
+C-1
+S
+#27656
+{BO,W}Hoth - Frozen Wastelands{bo,w}~
+Finally!  Some sign of intelligent life on this ball of ice!  In the
+distance you can see what appears to be some sort of military base,
+and from what you can tell it is under attack.  Soldiers are scrambling
+around like small ants, exchanging fire.  You can also make out larger,
+four-legged walkers moving around.
+~
+276 16416 2
+D0
+~
+~
+0 -1 27657
+Z3
+C-1
+S
+#27657
+{BO,W}Hoth {BLACK}- {Y}Under Seige{bo,y}~
+As you draw closer to the large fortress you can hear a loud alarm
+sounding.  All around you rebel soldiers are fighting off the invading
+stormtroopers.....and it's a losing battle it appears.  The huge walkers
+are devestating the rebel base with powerful blaster fire.
+~
+276 16416 1
+D0
+~
+~
+0 -1 27658
+D2
+~
+~
+0 -1 27656
+Z3
+C-1
+S
+#27658
+{BO,W}Hoth {BLACK}- {Y}Under Seige{bo,y}~
+Geez......not only do you have stormtroopers firing at you, but the
+rebels seem to think you are the enemy as well!  Ahead you can see a
+trench.
+~
+276 16416 1
+D0
+~
+~
+0 -1 27659
+D2
+~
+~
+0 -1 27657
+Z3
+C-1
+S
+#27659
+{BO,W}Hoth {BLACK}- {Y}Under Seige{bo,y}~
+Hopping down into the trench you can see the bodies of dead and dying
+rebel soldiers.  The trench runs east-west, or you can climb up the
+other side and continue going north.
+~
+276 16416 1
+D0
+~
+~
+0 -1 27662
+D1
+~
+~
+0 -1 27660
+D2
+~
+~
+0 -1 27658
+D3
+~
+~
+0 -1 27661
+Z3
+C-1
+S
+#27660
+{BO,W}Hoth {BLACK}- {Y}Under Seige{bo,y}~
+Continuing down this trench you can see fewer and fewer bodies as you
+move away from the front lines.  Other than that, nothing appears to be
+different.
+~
+276 16416 1
+D3
+~
+~
+0 -1 27659
+Z3
+C-1
+S
+#27661
+{BO,W}Hoth - The Trench{bo,w}~
+Continuing down this trench you can see fewer and fewer bodies as you
+move away from the front lines.  Other than that, nothing appears to be
+different.
+~
+276 16416 1
+D1
+~
+~
+0 -1 27659
+Z3
+C-1
+S
+#27662
+{BO,W}Hoth {BLACK}- {Y}Under Seige{bo,y}~
+Uh oh......this isn't good.  As you climb up the other side of
+the trench you see that one of the huge, four-legged walkers has
+breached the lines and is wreaking havok on this side of the trench!
+~
+276 16416 1
+D0
+~
+~
+0 -1 27663
+D1
+~
+~
+0 -1 27697
+D2
+~
+~
+0 -1 27659
+Z3
+C-1
+S
+#27663
+{BO,W}Hoth {BLACK}- {Y}Under Seige{bo,y}~
+You are standing in front of an access door to the subterranean rebel
+base.  All around you blaster fire zips by.....sometimes hitting soldiers
+and sometimes exploding harmlessly against the ice.
+~
+276 16416 1
+D1
+If you had one of the stormtrooper's blasters you could ignore this lock.
+Unfortunately you need a key.
+~
+door~
+2 27612 27664
+D2
+~
+~
+0 -1 27662
+Z3
+C-1
+S
+#27664
+{BO,W}Hoth {BLACK}- {Y}Under Seige{bo,y}~
+You are standing in a small room chiselled out of ice.  The only
+exit you can see is a ladder leading down into the heart of the rebel
+fortress.  You can hear the sounds of battle drifting up from below.
+~
+276 16424 0
+D5
+~
+~
+0 -1 27665
+Z3
+C-1
+S
+#27665
+{BO,W}Hoth {bo,W}- {BO,BLACK}Rebel Base{bo,black}~
+This part of the base appears to be currently unoccupied.  Bodies of
+both stormtroopers and rebels indicate that there was fighting here
+earlier.  The passageway leads off to the east and west.
+~
+276 16424 0
+D1
+~
+~
+0 -1 27666
+D3
+~
+~
+0 -1 27667
+D4
+~
+~
+0 -1 27664
+Z3
+C-1
+S
+#27666
+{BO,W}Hoth {bo,W}- {BO,BLACK}Rebel Base{bo,black}~
+This corridor comes to a rather abrupt end.  It looks as if the
+hallway supports were destroyed by blaster fire causing the
+entire roof to cave in.
+~
+276 16424 0
+D3
+~
+~
+0 -1 27665
+Z3
+C-1
+S
+#27667
+{BO,W}Hoth {bo,W}- {BO,BLACK}Rebel Base{bo,black}~
+This corridor branches off to the left and also continues straight
+ahead.  The sounds of fighting seem more intense from the corridor in
+front of you.
+~
+276 16424 0
+D0
+~
+~
+0 -1 27669
+D1
+~
+~
+0 -1 27665
+D3
+~
+~
+0 -1 27668
+Z3
+C-1
+S
+#27668
+{BO,W}Hoth {bo,W}- {BO,BLACK}Rebel Base{bo,black}~
+You run down the corridor eager to join the fighting up ahead.  As you
+draw closer and closer to the site of the battle you have to dodge stray
+laser beams as they ricochet down the hallway.
+
+       Without warning the entire ceiling gives way.....the first chunk
+       of ice hits you full in the back, knocking you down.  The next
+       cracks off your skull, smashing it into the icy floor.  After that
+       you lose track of the ice boulders as they batter your body.
+
+           Life was fun while it lasted....too bad it's over for you.
+
+~
+276 10 0
+Z3
+C-1
+S
+#27669
+{BO,W}Hoth {bo,W}- {BO,BLACK}Rebel Base{bo,black}~
+The hallway appears to widen out a bit here as you wander through the
+rebel base.  The sounds of fighting are very distant....or maybe they
+have stopped all together.  You can't tell.
+~
+276 16424 1
+Z3
+C-1
+S
+#27670
+{bo,G}A Swamp{g}~
+As you stumble through the doorway you barely avoid falling face first
+into a murky pool of....water???  Whatever it is you are glad that you
+aren't swimming in it right now.  All around you there are huge trees,
+gnarled with age.  Long vines dangle down from above, and roots shoot up
+from the ground at impossible angles.  A small path leads off to the
+east.
+~
+276 0 2
+D1
+~
+~
+0 -1 27671
+Z3
+C-1
+S
+#27671
+{bo,G}Dagobah{g}~
+This small path winds its way roughly east around murky pools and
+fallen trees.  You have no idea where it leads, but it seems to be
+the only logical choice, unless of course you'd prefer to slog your
+way through the marsh.
+~
+276 0 2
+D1
+~
+~
+0 -1 27672
+D3
+~
+~
+0 -1 27670
+Z3
+C-1
+S
+#27672
+{bo,G}Dagobah{g}~
+As you are walking down the path you fail to notice a large root jutting
+out of the ground.  Catching your foot on it, you are sent sprawling
+into a large pool.  The muck in the pool is disgusting.....this stuff could
+probably rival Campbell's Chunky Soup, you think to yourself as you pick
+yourself up and try to wipe away the grime.  It is then that you notice
+the two evil looking eyes and huge set of teeth smiling at you......
+~
+276 0 2
+D2
+~
+~
+0 -1 27673
+D3
+~
+~
+0 -1 27671
+Z3
+C-1
+S
+#27673
+{bo,G}Dagobah{g}~
+You are *REALLY* beginning to hate this whole Star Wars thing.  You
+are soaked to the bone and caked in grime.  You grumble to yourself
+as you continue to walk down the path.  Off to the left you see a
+faint light.
+~
+276 0 2
+D0
+~
+~
+0 -1 27672
+D1
+Whoa....you almost walked by the entrance to this cave!  The door is
+tiny, but you think you can squeeze in on your hands and knees.
+~
+cave~
+1 -1 27674
+D2
+~
+~
+0 -1 27675
+Z3
+C-1
+S
+#27674
+{bo,G}Yoda's Cave{g}~
+It's a tight fit, but you manage to squeeze through the entrance and
+into the main part of this cave.  There are no real furnishings to speak
+of, which makes sense considering that this is the first sign of
+intelligent life that you have seen on this swampy planet.  A small
+gnomish figure is standing in the back of this cave looking at you
+questioningly.
+~
+276 8 0
+D3
+~
+cave~
+1 -1 27673
+Z3
+C2
+S
+#27675
+{bo,G}Dagobah{g}~
+This sucks!  Will this swamp ever end???  You certainly hope so!  The
+feeling of water squishing in your boots is not at all comfortable.  The
+path turns sharply up ahead.
+~
+276 0 1
+D0
+~
+~
+0 -1 27673
+D3
+~
+~
+0 -1 27676
+Z3
+C-1
+S
+#27676
+{bo,G}Before the {BLACK}Evil {bo,G}Tree{g}~
+Before you looms a huge imposing tree.  Over the millennia the tree
+has been warped and shaped into a dark cavern.  Pure evil radiates
+from the cavern sending shivers through your entire being.
+~
+276 0 1
+D1
+~
+~
+0 -1 27675
+Z3
+C-1
+S
+#27677
+{BO,C}A Small Room{bo,c}~
+You wake up to find yourself lying on the floor of a small, nicely
+furnished room.  There are a few cosy couches along with an armchair,
+all of which are arrayed around a large black screen.  The air tastes
+very sterile.  There is a door to the south.
+~
+276 8 0
+D2
+There is a small button that you can push to open this door.
+~
+door~
+1 -1 27678
+Z3
+C-1
+S
+#27678
+{BO,W}Clo{C}ud City - Hall{W}way{bo,w}~
+The halls in this massive building are empty...you don't see or hear
+anyone or anything.  The hall leads off in both directions and there
+is a door to the north.
+~
+276 8 0
+D0
+~
+door~
+1 -1 27677
+D1
+~
+~
+0 -1 27679
+D3
+~
+~
+0 -1 27688
+Z3
+C-1
+S
+#27679
+{BO,W}Clo{C}ud City - Hall{W}way{bo,w}~
+There is still no sign of life as you walk down this wide hall.  Up
+ahead it appears to open up into a large area, and to the north you see
+a large set of double doors.
+~
+276 8 0
+D0
+You see a heavy set of double doors.
+~
+door~
+1 -1 27682
+D1
+~
+~
+0 -1 27680
+D3
+~
+~
+0 -1 27678
+Z3
+C-1
+S
+#27680
+{BO,C}Cloud City {BLUE}- {W}Hangar Bay{w}~
+At least forty ships fill this immense docking bay.  You recognize
+two of the ships on sight.  One is the Millennium Falcon, and the other
+looks like something you saw in the Death Star's hangar bay.  A closed
+hatch is on the far side of this room.
+~
+276 8 0
+D1
+This hatch appartently leads to outside.  It will take a bit of work to
+open, but you think you can handle it.
+~
+hatch~
+1 27634 27681
+D3
+~
+~
+0 -1 27679
+Z3
+C-1
+S
+#27681
+{BO,W}Outside {C}Cloud {W}City{w}~
+As you step out the hatch you realize that maybe this wasn't such a hot
+idea after all.  Cloud City, as it's name suggests, is in the clouds.
+~
+276 130 9
+Z3
+C-1
+S
+#27682
+{BO,C}Cloud City{BLUE} - {W}Meeting Chamber{w}~
+This large audience chamber is where the future of Cloud City is
+decided by the high council.  A huge table fills most of the room.
+There are doors to the north and east.
+~
+276 8 0
+D0
+This door appears to have a simple security system built into it.
+Nothing a good set of lock picks can't handle though :)
+~
+door~
+1 27634 27687
+D1
+You see a large off-white door.
+~
+door~
+1 -1 27683
+D2
+~
+door~
+1 -1 27679
+Z3
+C-1
+S
+#27683
+{BO,C}Cloud City{BLUE} - {W}Hallway{w}~
+This is a short stretch of hallway with two doors branching from it.
+The door to the south is marked "ARCHIVES", and to the north there is
+a door with a complex security system.
+~
+276 8 0
+D0
+To open this door type: "OPEN <PASSWORD>"...where <PASSWORD> is
+the security code.
+~
+730619476~
+3 -1 27685
+D2
+Other than the plaque reading "ARCHIVES" this door in plain.
+~
+door~
+1 -1 27684
+D3
+~
+door~
+1 -1 27682
+Z3
+C-1
+S
+#27684
+{BO,C}Cloud City{BLUE} - {W}Archives{w}~
+No one has been here in ages it seems, there are layers of dust
+covering everything.  Shelves and shelves of books line the walls,
+and there are filing cabinets filled with old documents.  An old desk is
+pushed up against one wall.  There is a piece of paper lying crumpled
+on it.
+~
+276 9 0
+D0
+~
+door~
+1 -1 27683
+E
+paper~
+A sequence of numbers is jotted down on this piece of paper: 730619476
+~
+Z3
+C-1
+S
+#27685
+{BO,C}Cloud City {BLUE}- {W}Small Hallway{w}~
+This is a small hallway....maybe only 15 feet in length.  It serves no
+useful purpose that you can see.
+~
+276 8 0
+D0
+A plain white door.
+~
+door~
+1 27634 27686
+D2
+~
+730619476~
+1 -1 27683
+Z3
+C-1
+S
+#27686
+{BO,C}Lando's Room{c}~
+This is Lando Calrissian's private bedchamber.  It is not what you expected
+from the head of Cloud City.  Although everything is of good quality, it is
+also very plain.  The room is done mostly in white, much like the rest of
+this city.
+~
+276 16520 0
+D2
+~
+door~
+1 -1 27685
+Z3
+C-1
+S
+#27687
+{BO,C}Cloud City {BLUE}- {W}Guest Apartments{w}~
+Usually these apartments are occupied by visiting dignitaries and other
+important people.  Right now though they are completely empty.  Come to
+think of it, this entire city seems to be empty......what could be wrong??
+~
+276 8 0
+D2
+~
+door~
+1 -1 27682
+Z3
+C-1
+S
+#27688
+{BO,W}Clo{C}ud City - Hall{W}way{bo,w}~
+The sound of your footsteps echo through these empty corridors sounding like
+thunder against the surrounding quiet.  The hallway turns to the left up
+ahead.
+~
+276 8 0
+D0
+~
+~
+0 -1 27689
+D1
+~
+~
+0 -1 27678
+Z3
+C-1
+S
+#27689
+{BO,W}Clo{C}ud City - Hall{W}way{bo,w}~
+As you walk down this corridor you think you can hear the faint scuffling
+of boots up ahead somewhere.  Beginning to move very silently, you continue
+to walk down the hall.
+~
+276 8 0
+D1
+~
+~
+0 -1 27690
+D2
+~
+~
+0 -1 27688
+Z3
+C-1
+S
+#27690
+{BO,W}Clo{C}ud City - Hall{W}way{bo,w}~
+This is a short stretch of hall that turns sharply to the right.  So far,
+so good.
+~
+276 8 0
+D0
+~
+~
+0 -1 27691
+D3
+~
+~
+0 -1 27689
+Z3
+C-1
+S
+#27691
+{BO,W}Clo{C}ud City - Hall{W}way{bo,w}~
+As you turn this corner you find yourself face to face with three
+stormtroopers!  So this is why the entire city is abandoned!  "HALT!",
+shouts the lead trooper as you rush to attack him.
+~
+276 8 0
+D0
+This door is marked "Carbon Freezing Chamber".
+~
+door~
+2 27618 27692
+D2
+~
+~
+0 -1 27690
+Z3
+C-1
+S
+#27692
+{BO,BLACK}Carbon Freezing Chamber{bo,black}~
+You enter a large heated chamber.  The entire room is lit by a warm glow
+emenating from the floor below your feet.  The steam that rises up between
+the cracks in the floor gives the room a very eerie look.  There is a
+stairway at the back of the room leading up to a door that is swung open.
+You can see a black robed figure standing on the other side.
+~
+276 25 0
+D0
+~
+~
+0 -1 27693
+D2
+~
+door~
+1 -1 27691
+Z3
+C-1
+S
+#27693
+{BO,BLACK}Catwalk{bo,black}~
+As you step through the door it slams shut, trapping you.  Looking around,
+you see that you are standing on a narrow catwalk with no way off.  Glancing
+down you see a long drop into darkness.
+~
+276 8 0
+D5
+~
+~
+0 -1 27694
+Z3
+C-1
+S
+#27694
+{BO,BLACK}Falling{bo,black}~
+You have no sense of time or space as you fall through the darkness.
+~
+276 1065129 8
+D5
+~
+~
+0 -1 8600
+Z3
+C-1
+S
+#27695
+{BO,BLACK}Death Star - Throne Room{bo,black}~
+
+Finally!  There can't be any more battles to fight, this portal has to
+lead home.
+
+~
+276 8 0
+Z3
+C-1
+S
+#27696
+{BO,BLACK}I Hate Teleport!{bo,black}~
+You are standing in nowhere !!!!
+~
+276 2 1
+Z3
+C-1
+S
+#27697
+{bo,W}The AT-AT Walker{w}~
+Yikes!  The AT-AT Walker is rampaging here, watch out!
+~
+276 16416 0
+D3
+~
+~
+0 -1 27662
+Z3
+C-1
+S
+#27698
+Rahvin's Loft~
+You are standing in Rahvin's private chamber.  The room is small, but very
+comfortable looking.  You see a king-sized bed with two cats curled up on
+it pushed up against the far wall, along with a shelf filled with books and
+other trinkets from around the world.  A small writing desk cluttered with
+papers is on the east wall, and on the west wall there is a comfortable
+loveseat.  Other than the desk, everything appears to be very neat and
+organized.
+~
+276 2121736 0
+D5
+A small wooden door appears to lead to a stairway.
+~
+door~
+1 -1 27699
+M55
+Z3
+C0
+S
+#27699
+The Common Room~
+You enter a crowded bar filled with dozens of people, both young and old.  At
+first glance there is nothing to distinguish this bar from any other, but as
+time passes you begin to notice a disturbing pattern.  Every one of the bar's
+patrons wears a slightly glazed look on his or her face, and every one of them
+go through the same routine over and over and over.....nothing ever changes.
+The only person in here without that blank expression is a tall, dark man
+robed in pitch black.  He walks around the bar with an amused expression on
+his face.  After serveral minutes the mysterious man seems to take notice of
+you.  As he approaches you see a faint smirk cross his face and then disappear
+just as quickly.   "I am Rahvin", he tells you in a dark voice, "Welcome to
+my bar.  How may I help you?"   With a flick of his wrist a tall mug of ale
+appears before you.  You take a small sip and all goes blank............
+~
+276 8 0
+D4
+~
+door~
+1 -1 27698
+D5
+This trapdoor leads to the Golden Temple.
+~
+trapdoor~
+1 -1 3001
+M51
+Z3
+C-1
+S
+$~

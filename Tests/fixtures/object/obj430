@@ -1,0 +1,624 @@
+#43000
+ring gundanium~
+{W,BO}Gundanium{C} Ring{c,bo}~
+{C,BO}A ring of pure {W}Gundanium{C} lies on the floor...{bo,c}~
+~
+9 2148536322 64 3
+12 7000 0 0
+1 1 1
+E
+ring gundanium~
+ 
+{C,BO}You see a glowing ring of the purest and hardest
+metals known to man.  As one of the rarest metals,
+it is also very valuable, so you don't see a ring 
+like this very often.{c,bo}
+ 
+~
+A
+19 5
+A
+17 -12
+B
+160
+L
+40
+C
+7000 1
+G
+80
+M
+83
+#43001
+leggings gundanium~
+{W,BO}Gundanium {C}Leggings{c,bo}~
+{C,BO}Leg-shaped plates of {W}Gundanium{C} lie here...{bo}~
+~
+9 2148536322 0 33
+13 0 0 0
+6 1 1
+E
+leggings gundanium~
+ 
+{W,BO}Made from the hardest metal know to man, these 
+leggings have some marks on them, but they appear
+to be impenetrable.  Although quite heavy, they
+do not seem to interfere with movement when worn.
+If you look carefully, you can see a federation
+symbol in red that is worn away from a history of 
+battle.{w,bo}
+ 
+~
+A
+19 5
+A
+17 -13
+B
+268435456
+L
+40
+C
+7000 2
+G
+60
+M
+82
+#43002
+cloak deathscythe death~
+{BLU,BO}D{BLA}e{BLU}a{BLA}t{BLU}h{BLA}s{BLU}c{BLA}y{BLU}t{BLA}h{BLU}e{BLA}'{BLU}s {BLA}C{BLU}l{BLA}o{BLU}a{BLA}k{bla,bo}~
+{BLA,BO}A grim cloak with an aura of death lies here{bo,bla}~
+~
+9 2148536833 0 1025
+17 0 0 0
+10 15000 0
+E
+cloak deathscythe death~
+
+
+This is the cloak of Deathscythe, the Gundam of the Shadows.
+As you put it on, you notice your body shimmering out of existence.
+It is apparent that there is a built in cloaking device.
+
+
+~
+A
+19 6
+A
+17 -13
+B
+18350082
+L
+44
+C
+6300 2
+G
+84
+M
+80
+#43003
+shirt hawai'ian hawaiian~
+{BO,Y}H{R}a{Y}w{R}a{Y}i{R}'{Y}i{R}a{Y}n {R}S{Y}h{R}i{Y}r{R}t{r,bo}~
+{Y,BO}A cool shirt with colorful hibiscus flowers lies here{y,bo}~
+~
+9 2147487745 0 9
+18 7000 15 15
+1 1 1
+A
+19 4
+A
+18 4
+B
+2214592512
+L
+100
+C
+7000 2
+#43004
+rifle buster~
+{C,BO}Buster Rifle{bo,c}~
+{C,BO}A high-powered laser rifle lies here{bo,c}~
+~
+5 2148536322 0 8193
+3 10 8 13
+7 1 2000000
+A
+19 7
+A
+18 7
+B
+128
+C
+7000 3
+G
+80
+M
+78
+#43005
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#43006
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#43007
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#43008
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#43009
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#43010
+key office~
+{Y,BO}Office Key{bo,y}~
+{Y,BO}A brass key gleams in the dark.{bo,y}~
+~
+18 65536 8192 129
+150 0 0 1
+1 1 1
+E
+key office~
+  
+{W}          __  __ _          
+    ___  / _|/ _(_) ___ ___ 
+   / _ \| |_| |_| |/ __/ _ \
+  | (_) |  _|  _| | (_|  __/
+   \___/|_| |_| |_|\___\___|
+  
+~
+G
+101
+#43011
+key quarters~
+{Y,BO}Quarters Key{bo,y}~
+{Y,BO}A brass key gleams in the dark.{bo,y}~
+~
+18 65536 8192 129
+150 150 150 1
+1 1 1
+E
+key quarters~
+  
+{Y}                          _                
+    __ _ _   _  __ _ _ __| |_ ___ _ __ ___ 
+   / _` | | | |/ _` | '__| __/ _ \ '__/ __|
+  | (_| | |_| | (_| | |  | ||  __/ |  \__ \
+   \__, |\__,_|\__,_|_|   \__\___|_|  |___/
+      |_|                                  
+~
+G
+101
+#43012
+key computer room~
+{BO,Y}Computer Room Key{y,bo}~
+{Y,BO}A brass key gleams in the dark.{bo,y}~
+~
+18 65536 8192 129
+150 150 150 1
+1 1 1
+E
+key quarters~
+  {Y,BO}
+                                   _            
+                                  | |           
+    ___ ___  _ __ ___  _ __  _   _| |_ ___ _ __ 
+   / __/ _ \| '_ ` _ \| '_ \| | | | __/ _ \ '__|
+  | (_| (_) | | | | | | |_) | |_| | ||  __/ |   
+   \___\___/|_| |_| |_| .__/ \__,_|\__\___|_|   
+                      | |                       
+                      |_|   
+~
+G
+101
+#43013
+key laboratory lab~
+{BO,Y}Laboratory Key{y,bo}~
+{Y,BO}A brass key gleams in the dark.{bo,y}~
+~
+18 65536 8192 129
+150 150 150 1
+1 1 1
+E
+key laboratory lab~
+  {Y,BO} 
+   _       _                     _                   
+  | |     | |                   | |                  
+  | | __ _| |__   ___  _ __ __ _| |_ ___  _ __ _   _ 
+  | |/ _` | '_ \ / _ \| '__/ _` | __/ _ \| '__| | | |
+  | | (_| | |_) | (_) | | | (_| | || (_) | |  | |_| |
+  |_|\__,_|_.__/ \___/|_|  \__,_|\__\___/|_|   \__, |
+                                                __/ |
+                                               |___/ 
+~
+G
+101
+#43014
+key galley~
+{BO,Y}Galley Key{y,bo}~
+{Y,BO}A brass key gleams in the dark.{bo,y}~
+~
+18 65536 8192 129
+150 150 150 1
+1 1 1
+E
+key galley~
+  {Y,BO} 
+               _ _            
+              | | |           
+    __ _  __ _| | | ___ _   _ 
+   / _` |/ _` | | |/ _ \ | | |
+  | (_| | (_| | | |  __/ |_| |
+   \__, |\__,_|_|_|\___|\__, |
+    __/ |                __/ |
+   |___/                |___/ 
+~
+G
+101
+#43015
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#43016
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#43017
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#43018
+eye C3PO eyeball~
+{YELLOW}{BOLD}C3PO'S  {CYAN}{BOLD}EYE {cyan}{b}~
+C3PO's lost eyeball rolls around here. Return it to him!~
+~
+1 2148536320 320 16777217
+-1 -1 -1 5
+10 1 1
+E
+eye C3PO eyeball~
+
+
+It looks like C3PO lost his eyeball again! Oh what a pity.
+Well, finders keepers!
+~
+A
+18 8
+A
+17 -16
+B
+40
+G
+100
+M
+40
+#43019
+nothing~
+A Smurf's Poison~
+The poison extracted from an Evil Smurf oozes here.~
+~
+13 65536 0 1
+0 0 0 0
+1 1 1
+E
+nothing~
+
+Who knew smurfs were poisonous?
+~
+#43020
+armor test~
+armor~
+testEQ NOT FOR MORTS~
+~
+9 0 0 9
+100 0 0 0
+1 1 1
+A
+18 100
+A
+19 100
+B
+1459880104
+C
+7000 1
+G
+1
+M
+1
+#43021
+weapon test~
+weapon~
+dont touch~
+~
+5 0 0 8193
+3 12 10 9
+1 1 1
+A
+18 40
+A
+17 -100
+C
+7000 1
+M
+1
+#43022
+nothing~
+A DatComp~
+A battered DatComp lies on its side here, its screen cracked.~
+~
+16 0 0 0
+0 0 0 0
+1000 1 1
+E
+nothing~
+
+
+This data computer is scratched and dented, and
+rests in a slight depression in the ground. It must
+have been jettisoned from a ship!
+There is a message on its screen blinking on and off:
+To whoever reads this, our ship was attacked by poisonous
+Gemulonian space wyverns in midflight, and our captain has
+been poisoned by their bite! We have crash landed on this planet,
+and need to find the ingredients for the remedy. We 
+will need the poison from the fang of a smurf,
+a vial of crystal clear condensed water, a herb that
+originated from Degobah, and the fresh carcass of an
+atlantic cod.
+In addition, the essense of chaos will greatly aid in the
+recovery process. Although this is not required, it would
+be greatly appreciated.
+These ingredients must be boiled together in order to create
+the remedy which can save our captain. If anyone is able
+to bring us these ingredients, they will be greatly rewarded
+in the meantime, we will do our utmost to keep our captain alive.
+
+~
+E
+DatComp computer data screen~
+
+
+This data computer is scratched and dented, and
+rests in a slight depression in the ground. It must
+have been jettisoned from a ship!
+There is a message on its screen blinking on and off:
+To whoever reads this, our ship was attacked by poisonous
+Gemulonian space wyverns in midflight, and our captain has
+been poisoned by their bite! We have crash landed on this planet,
+and need to find the ingredients for the remedy. We 
+will need the poison from the fang of a chaos viper,
+a vial of crystal clear condensed water, a herb that
+originated from Degobah, and the fresh carcass of an
+atlantic cod.
+These ingredients must be boiled together in order to create
+the remedy which can save our captain. If anyone is able
+to bring us these ingredients, they will be greatly rewarded
+in the meantime, we will do our utmost to keep our captain alive.
+
+
+~
+E
+DatComp computer data screen~
+
+
+This data computer is scratched and dented, and
+rests in a slight depression in the ground. It must
+have been jettisoned from a ship!
+There is a message on its screen blinking on and off:
+To whoever reads this, our ship was attacked by poisonous
+Gemulonian space wyverns in midflight, and our captain has
+been poisoned by their bite! We have crash landed on this planet,
+and need to find the ingredients for the remedy. We 
+will need the poison from the fang of a smurf,
+a vial of crystal clear condensed water, a herb that
+originated from Degobah, and the fresh carcass of an
+atlantic cod.
+In addition, the essense of chaos will greatly aid in the
+recovery process. Although this is not required, it would
+be greatly appreciated.
+These ingredients must be boiled together in order to create
+the remedy which can save our captain. If anyone is able
+to bring us these ingredients, they will be greatly rewarded
+in the meantime, we will do our utmost to keep our captain alive.
+
+~
+#43023
+nothing~
+A vial of Reviving Potion~
+A vial filled with a golden liquid floats above the ground here.~
+~
+10 65536 1024 1
+20 115 145 199
+1 1 1
+E
+nothing~
+
+This is the Revival Potion made from the rarest ingredients.
+It is said to be able to cure anything short of death. Since
+few know how to make it, it is extremely expensive and sought after.
+
+~
+#43024
+pad transporter circus~
+{W,BO}Transporter Pad{bo,w}~
+{W,BO}A transporter pad flashes here{bo,w}~
+~
+27 4098 0 0
+43020 43020 43020 43020
+1 1 1
+E
+nothing~
+
+This pilot's helmet is branded with the red Rogue Squadron
+emblem on both sides. Yellow goggles can be raised or lowered from
+inside the helmet.
+
+~
+E
+pad transporter circus~
+  
+  {G,W}The pad is a flat cylindrical object with
+  just enough room for a person to stand.  The pad
+  is humming quietly, and its lights are slowly 
+  blinking.
+~
+L
+1
+#43025
+pad transporter desert~
+{W,BO}Transporter Pad{bo,w}~
+{W,BO}A transporter pad flashes here{bo,w}~
+~
+27 2 0 0
+43032 43020 43020 43020
+1 1 1
+E
+transporter pad~
+~
+E
+pad transporter desert~
+  
+  {G,W}The pad is a flat cylindrical object with
+  just enough room for a person to stand.  The pad
+  is humming quietly, and its lights are slowly 
+  blinking.
+~
+#43026
+pad transporter antarctic~
+{W,BO}Transporter Pad{bo,w}~
+{W,BO}A transporter pad flashes here{bo,w}~
+~
+27 2 0 0
+43044 43032 43032 43032
+1 1 1
+E
+pad transporter antarctic~
+  
+  {G,W}The pad is a flat cylindrical object with
+  just enough room for a person to stand.  The pad
+  is humming quietly, and its lights are slowly 
+  blinking.
+~
+E
+essence chaos~
+
+
+This fang drips venom from its sharp end, and is still bloodied where it was joined
+to a chaos viper. Although the venom can kill in seconds, distilled and properly
+prepared it is an antidote for many poisons.
+
+~
+E
+nothing~
+
+This is the pure essense of chaos, but ironically, it
+can be used to bind forces of good together!
+~
+#43027
+pad transporter jungle~
+{W,BO}Transporter Pad{bo,w}~
+{W,BO}A transporter pad flashes here{bo,w}~
+~
+27 2 1024 0
+43062 43032 43032 43032
+1 1 1
+E
+pad transporter~
+  
+  {G,W}The pad is a flat cylindrical object with
+  just enough room for a person to stand.  The pad
+  is humming quietly, and its lights are slowly 
+  blinking.
+~
+E
+water condensed crystal clear~
+
+
+By gathering water vapor from the most pure clouds and distilling,
+this vial of water has been formed. It is said that water this pure is required
+in the most potent of concoctions.
+
+~
+#43028
+nothing~
+A bitter Degobah herb~
+A small brown and twisted plant grows here, extruding a stinging odor.~
+~
+13 2147553280 1024 1
+0 0 0 0
+3 0 1
+E
+herb degobah bitter plant~
+This is a plant originally found on the planet Dagobah. It is said to be able
+to cure colds and headaches, although this has never been scientifically proven.
+
+~
+E
+credit credcoin imperial 1~
+
+~
+E
+herb dagobah bitter~
+
+This is a herb that originated on the marsh planet Dagobah.
+It is said to be able to cure high fevers and headaches. Spores carried
+by starships has brought this plant to the Realms of Northern Crossroads.
+~
+E
+nothing~
+
+
+This is a plant originally found on the planet Dagobah.
+It is said to be ableto cure colds and headaches, although 
+this has never been scientifically proven.
+
+~
+L
+10
+M
+101
+#43029
+bowl chicken dumplings~
+{W}Mithril's Chicken and Dumplings{w}~
+A bowl of Mithril's Chicken and Dumplings steams here.~
+~
+19 67108864 320 1
+0 0 0 0
+1 1 1
+$~

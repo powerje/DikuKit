@@ -1,0 +1,142 @@
+#80
+Castle Redferne, II(Jazz)~
+8099 60 2
+*
+X 8320
+M 0  7907     7  8000    The shadows
+D 0  8000     3     1    (W:CLOSED) The north/south hallway
+D 0  8001     1     1    (E:CLOSED) North/south hallway
+D 0  8002     3     1    (W:CLOSED) The fish section of the trophy room
+M 0  7912     2  8003    The baron
+M 0  7913     2  8005    The baronness
+M 0  7917     5  8006    The servant
+D 0  8006     1     1    (E:CLOSED) The northern end of the dining hall
+M 0  7907     7  8007    The shadows
+D 0  8007     3     1    (W:CLOSED) The north/south hallway
+M 0  7908     3  8009    The stuffed animal
+M 0  7908     3  8009    The stuffed animal
+M 0  7908     3  8009    The stuffed animal
+D 0  8009     0     2    (N:LOCKED) The mammal area of the trophy room
+M 0  7913     2  8010    The baronness
+M 0  7912     2  8012    The baron
+M 0  7917     5  8013    The servant
+M 0  7917     5  8013    The servant
+M 0  7917     5  8013    The servant
+M 0  7917     5  8013    The servant
+D 0  8013     0     1    (N:CLOSED) The northern end of the dining hall
+D 0  8013     1     1    (E:CLOSED) The northern end of the dining hall
+M 0  7907     7  8014    The shadows
+D 0  8014     3     1    (W:CLOSED) The north/south hallway
+O 0  7912     6  8016    The treasure
+D 0  8016     2     2    (S:LOCKED) The treasure chamber
+M 0  7916     1  8017    Prince Nautius
+G 1  7905     1     0    a regal key
+M 0  7914     1  8018    King Redferne
+E 1  7904     1    17    (HELD) a golden key
+M 0  7915     1  8019    Queen Lomilwa
+E 1  7922     2    20    (EAR) {BO,WH}Diamond earring{wh}
+M 0  7918     1  8020    The chef
+D 0  8020     2     1    (S:CLOSED) The kitchen
+O 0  7912     6  8023    The treasure
+D 0  8023     0     0    (N:OPEN) The golden room
+O 0  7912     6  8024    The treasure
+D 0  8024     0     0    (N:OPEN) The golden room
+D 0  8024     1     2    (E:LOCKED) The golden room
+D 0  8024     3     2    (W:LOCKED) The golden room
+O 0  7912     6  8025    The treasure
+D 0  8025     0     0    (N:OPEN) The golden room
+D 0  8025     3     0    (W:OPEN) The golden room
+M 0  7907     7  8027    The shadows
+O 0  7912     6  8028    The treasure
+D 0  8028     1     0    (E:OPEN) The golden room
+D 0  8028     2     2    (S:LOCKED) The golden room
+O 0  7909     1  8029    a huge treasure
+D 0  8029     0     2    (N:LOCKED) The golden room
+D 0  8029     1     2    (E:LOCKED) The golden room
+D 0  8029     2     2    (S:LOCKED) The golden room
+D 0  8029     3     2    (W:LOCKED) The golden room
+O 0  7912     6  8030    The treasure
+D 0  8030     2     2    (S:LOCKED) The golden room
+D 0  8030     3     0    (W:OPEN) The golden room
+M 0  7907     7  8031    The shadows
+D 0  8032     0     1    (N:CLOSED) Bend in the Hallway
+D 0  8034     2     2    (S:LOCKED) T-Intersection
+D 0  8036     0     1    (N:CLOSED) Bend in the Hallway
+D 0  8037     2     1    (S:CLOSED) Guest's quarters
+M 0  7907     7  8039    The shadows
+D 0  8041     2     1    (S:CLOSED) Guest's quarters
+M 0  7907     7  8044    The shadows
+D 0  8048     1     2    (E:LOCKED) The Royal Chambers
+D 0  8049     0     1    (N:CLOSED) The three doors
+D 0  8049     1     2    (E:LOCKED) The three doors
+D 0  8049     3     2    (W:LOCKED) The three doors
+D 0  8050     3     2    (W:LOCKED) The Prince's Room
+M 0  7920     1  8052    The ghost
+M 0  7921     1  8053    The ghost
+D 0  8054     2     1    (S:CLOSED) Eerie Hallway
+M 0  7923     1  8056    The ghost
+D 0  8059     1     1    (E:CLOSED) Eerie Hallway
+M 0  7924     3  8060    The pet
+M 0  7924     3  8060    The pet
+M 0  7924     3  8060    The pet
+D 0  8060     3     1    (W:CLOSED) The Wizard's Room
+M 0  7922     1  8061    Galfreid
+E 1  7918     1     8    (FEET) {BO,WH}The wizard's shoes{wh}
+M 0  7925     1  8062    The living statue
+E 1  7917     4    14    (WRIST) {MA}The source of {ma,RE}Naris' {re,MA}power {ma}
+E 1  7917     4    15    (WRIST) {MA}The source of {ma,RE}Naris' {re,MA}power {ma}
+G 1  7917     4     0    {MA}The source of {ma,RE}Naris' {re,MA}power {ma}
+G 1  7917     4     0    {MA}The source of {ma,RE}Naris' {re,MA}power {ma}
+G 1  7916     3     0    {MA}The source of {ma,RE}Naris' {re,MA}power {ma}
+G 1  7916     3     0    {MA}The source of {ma,RE}Naris' {re,MA}power {ma}
+O 0  7914     1  8062    The statue
+P 1  7915     1  7914    the key
+P 1  7913     1  7914    A key
+D 0  8063     1     1    (E:CLOSED) The shrine of Naris
+D 0  8064     3     1    (W:CLOSED) End of the Eerie Hallway
+D 0  8065     1     1    (E:CLOSED) Jazz's Abode
+D 0  8066     4     0    (U:OPEN) Jazz's Bachelor Pad
+M 0  7934    30  8068    The Immortal Killer
+M 0  7934    30  8068    The Immortal Killer
+M 0  7934    30  8068    The Immortal Killer
+M 0  7934    30  8068    The Immortal Killer
+M 0  7934    30  8068    The Immortal Killer
+M 0  7934    30  8068    The Immortal Killer
+M 0  7934    30  8068    The Immortal Killer
+M 0  7934    30  8068    The Immortal Killer
+M 0  7934    30  8068    The Immortal Killer
+M 0  7934    30  8068    The Immortal Killer
+M 0  7934    30  8068    The Immortal Killer
+M 0  7934    30  8068    The Immortal Killer
+M 0  7934    30  8068    The Immortal Killer
+M 0  7934    30  8068    The Immortal Killer
+M 0  7934    30  8068    The Immortal Killer
+M 0  7934    30  8068    The Immortal Killer
+M 0  7934    30  8068    The Immortal Killer
+M 0  7934    30  8068    The Immortal Killer
+M 0  7934    30  8068    The Immortal Killer
+M 0  7934    30  8068    The Immortal Killer
+M 0  7934    30  8068    The Immortal Killer
+M 0  7934    30  8068    The Immortal Killer
+M 0  7934    30  8068    The Immortal Killer
+M 0  7934    30  8068    The Immortal Killer
+M 0  7934    30  8068    The Immortal Killer
+M 0  7934    30  8068    The Immortal Killer
+M 0  7934    30  8068    The Immortal Killer
+M 0  7934    30  8068    The Immortal Killer
+M 0  7934    30  8068    The Immortal Killer
+M 0  7934    30  8068    The Immortal Killer
+D 0  8071     1     0    (E:OPEN) The Southern end of the hall
+D 0  8071     2     0    (S:OPEN) The Southern end of the hall
+D 0  8073     3     0    (W:OPEN) The Artifact room of Naris
+D 0  8074     1     0    (E:OPEN) The Northern end of the hall
+D 0  8074     3     0    (W:OPEN) The Northern end of the hall
+D 0  8075     1     0    (E:OPEN) The Sitting room of Naris
+D 0  8076     0     0    (N:OPEN) The Kitchen of Naris
+D 0  8076     1     0    (E:OPEN) The Kitchen of Naris
+D 0  8077     2     0    (S:OPEN) The Larder
+D 0  8078     3     0    (W:OPEN) The Fridge
+D 0  8080     1     0    (E:OPEN) The Treasure room
+D 0  8080     3     0    (W:OPEN) The Treasure room
+D 0  8083     3     0    (W:OPEN) The Monster Pen
+$~

@@ -1,0 +1,2438 @@
+#46500
+{G}Your House{b}~
+
+{G}  This day may start out like any other, but this is a special day
+{G}  for you. This is the day that you get to embark on your own
+{G}  Pokemon adventure. You'll travel the world, see lots of
+{G}  interesting places, and meet lots of interesting people. But most
+{G}  of all, you will set out to become one of the greatest Pokmon
+{G}  trainers the world has ever known. After saying good morning to
+{G}  your mom, you step out the door to find the one man who can start
+{G}  you on your journey: Professor Oak.{b}
+
+~
+465 12 1
+D5
+~
+~
+0 -1 46501
+X528
+Z-1
+C-1
+R0
+S
+#46501
+{G}Your House{b}~
+
+{G}  This day may start out like any other, but this is a special day
+{G}  for you. This is the day that you get to embark on your own
+{G}  Pokemon adventure. You'll travel the world, see lots of
+{G}  interesting places, and meet lots of interesting people. But most
+{G}  of all, you will set out to become one of the greatest Pokemon
+{G}  trainers the world has ever known. After saying good morning to
+{G}  your mom, you step out the door to find the one man who can start
+{G}  you on your journey: Professor Oak.{b}
+
+~
+465 8 1
+D2
+~
+~
+0 -1 46502
+D4
+~
+~
+0 -1 46500
+Z-1
+C-1
+R0
+S
+#46502
+{G}Pallet Town{b}~
+
+{G,BO}  This is where it all begins, Pallet Town, home to you and your
+{G,BO}  mom, your rival and his sister, and the Pallet Town Pokemon
+{G,BO}  Research Lab. The head of this research lab is none other than
+{G,BO}  the world renowned Professor Oak.{b}
+
+~
+465 0 1
+D0
+~
+~
+0 -1 46501
+D1
+~
+~
+0 -1 46503
+Z-1
+C-1
+R0
+S
+#46503
+{G}Pallet Town{b}~
+
+{G,BO}  This is where it all begins, Pallet Town, home to you and your
+{G,BO}  mom, your rival and his sister, and the Pallet Town Pokemon
+{G,BO}  Research Lab. The head of this research lab is none other than
+{G,BO}  the world renowned Professor Oak.{b}
+
+~
+465 0 1
+D2
+~
+~
+0 -1 46504
+D3
+~
+~
+0 -1 46502
+Z-1
+C-1
+R0
+S
+#46504
+{G}Pallet Town{b}~
+
+{G,BO}  This is where it all begins, Pallet Town, home to you and your
+{G,BO}  mom, your rival and his sister, and the Pallet Town Pokemon
+{G,BO}  Research Lab. The head of this research lab is none other than
+{G,BO}  the world renowned Professor Oak.{b}
+
+~
+465 0 1
+D0
+~
+~
+0 -1 46503
+D1
+~
+~
+0 -1 46505
+E
+fire~
+
+{cyan} {BLACK,BOLD}  Oh no the fire to the east might cause your death.{black,bold}
+
+~
+E
+pipes~
+
+{cyan} {BLACK,BOLD}  They gleam, fleshly painted!
+{black,bold}
+~
+Z-1
+C-1
+R0
+S
+#46505
+{G}Pallet Town{b}~
+
+{G,BO}  This is where it all begins, Pallet Town, home to you and your
+{G,BO}  mom, your rival and his sister, and the Pallet Town Pokemon
+{G,BO}  Research Lab. The head of this research lab is none other than
+{G,BO}  the world renowned Professor Oak.{b}
+
+~
+465 0 1
+D0
+~
+~
+0 -1 46506
+D3
+~
+~
+0 -1 46504
+Z-1
+C-1
+R0
+S
+#46506
+{C}Upper City South{b}~
+
+{C}  Woah! Apparently you were nowhere near the ground! In fact,
+{C}  you're extremely far from it! Your hand careful trails
+{C}  over a nearby rail-guard as you peer down below. What a
+{C}  drop! There is at least a mile of free-fall between you
+{C}  and the pavement. The street has been swept of cars, and
+{C}  instead is replaced with a dozen citizens wandering about.{b}
+
+~
+465 0 1
+D0
+~
+door~
+1 -1 46505
+D2
+~
+~
+0 -1 46505
+Z-1
+C2
+R0
+S
+#46507
+{C}Upper City South{b}~
+
+{C}  Becoming more accustomed to the height, your footing
+{C}  gradually becomes more confident with every step. With
+{C}  your courage being boosted somewhat, an opportunity to
+{C}  investigate the surroundings presents itself. Skyscrapers
+{C}  taller than you've ever imagined litter other blocks of
+{C}  the sky. It is obvious that this city has far greater
+{C}  technological advancements than many could comprehend.
+{C}  Signs lead you in either direction, though the most
+{C}  apparent one reads "Cantina," to your south.{b}
+
+~
+465 8 1
+D0
+~
+~
+0 -1 46506
+D2
+~
+~
+0 -1 46510
+D3
+~
+~
+0 -1 46508
+E
+blood~
+
+{cyan} {RED,BOLD}  Your out of luck. Your going to die here!{red,bold}
+
+~
+Z-1
+C-1
+R0
+S
+#46508
+{C}Upper City South{b}~
+
+{C}  Becoming more accustomed to the height, your footing
+{C}  gradually becomes more confident with every step. With
+{C}  your courage being boosted somewhat, an opportunity to
+{C}  investigate the surroundings presents itself. Skyscrapers
+{C}  taller than you've ever imagined litter other blocks of
+{C}  the sky. It is obvious that this city has far greater
+{C}  technological advancements than many could comprehend.
+{C}  Signs lead you in either direction, though the most
+{C}  apparent one reads "Cantina," to your south.{b}
+
+~
+465 8 1
+D1
+~
+~
+0 -1 46507
+D2
+~
+~
+0 -1 46509
+Z-1
+C-1
+R0
+S
+#46509
+{C}Upper City South{b}~
+
+{C}  Becoming more accustomed to the height, your footing
+{C}  gradually becomes more confident with every step. With
+{C}  your courage being boosted somewhat, an opportunity to
+{C}  investigate the surroundings presents itself. Skyscrapers
+{C}  taller than you've ever imagined litter other blocks of
+{C}  the sky. It is obvious that this city has far greater
+{C}  technological advancements than many could comprehend.
+{C}  Signs lead you in either direction, though the most
+{C}  apparent one reads "Cantina," to your south.{b}
+
+~
+465 8 1
+D0
+~
+~
+0 -1 46508
+D1
+~
+~
+0 -1 46510
+Z-1
+C-1
+R0
+S
+#46510
+{C}Upper City South{b}~
+
+{C}  Becoming more accustomed to the height, your footing
+{C}  gradually becomes more confident with every step. With
+{C}  your courage being boosted somewhat, an opportunity to
+{C}  investigate the surroundings presents itself. Skyscrapers
+{C}  taller than you've ever imagined litter other blocks of
+{C}  the sky. It is obvious that this city has far greater
+{C}  technological advancements than many could comprehend.
+{C}  Signs lead you in either direction, though the most
+{C}  apparent one reads "Cantina," to your south.{b}
+
+~
+465 8 1
+D0
+~
+~
+0 -1 46507
+D2
+~
+~
+0 -1 46511
+D3
+~
+~
+0 -1 46509
+Z-1
+C-1
+R0
+S
+#46511
+{C}Upper City South{b}~
+
+{C}  Becoming more accustomed to the height, your footing
+{C}  gradually becomes more confident with every step. With
+{C}  your courage being boosted somewhat, an opportunity to
+{C}  investigate the surroundings presents itself. Skyscrapers
+{C}  taller than you've ever imagined litter other blocks of
+{C}  the sky. It is obvious that this city has far greater
+{C}  technological advancements than many could comprehend.
+{C}  Signs lead you in either direction, though the most
+{C}  apparent one reads "Cantina," to your south.{b}
+
+~
+465 8 1
+D0
+~
+~
+0 -1 46510
+D2
+~
+~
+0 -1 46513
+D3
+~
+~
+0 -1 46512
+Z-1
+C-1
+R0
+S
+#46512
+{WH,BO}Equipment Emporium{b}~
+
+{WH,BO}  Weapons of all sorts litter the racks to your
+{WH,BO}  left and right. A sturdy table rests in the center
+{WH,BO}  of the room with a polite young woman standing behind
+{WH,BO}  watching her customers cautiously, albeit untrustingly.
+{WH,BO}  A few grenades here and there, a sniper in the corner,
+{WH,BO}  and even a few swords can all be seen in plain sight.{b}
+
+~
+465 0 0
+D1
+~
+~
+0 -1 46511
+Z-1
+C-1
+R0
+S
+#46513
+{C}Upper City South{b}~
+
+{C}  Becoming more accustomed to the height, your footing
+{C}  gradually becomes more confident with every step. With
+{C}  your courage being boosted somewhat, an opportunity to
+{C}  investigate the surroundings presents itself. Skyscrapers
+{C}  taller than you've ever imagined litter other blocks of
+{C}  the sky. It is obvious that this city has far greater
+{C}  technological advancements than many could comprehend.
+{C}  Signs lead you in either direction, though the most
+{C}  apparent one reads "Cantina," to your south.{b}
+
+~
+465 8 1
+D0
+~
+~
+0 -1 46511
+D2
+~
+cantina~
+1 -1 46514
+Z-1
+C-1
+R0
+S
+#46514
+{Y}Upper City Cantina{b}~
+
+{G}  In the main room of the Cantina, groups of Pazaak card
+{G}  players talk about their latest games and achievements.
+{G}  A few challenge you to a game, obviously not caring
+{G}  whether or not you would truly like to play. A shady man
+{G}  in the corner glares at you, though each time you turn
+{G}  to glance in his direction, he simply moves along as if
+{G}  nothing happened. Three couches rest on either side of
+{G}  the Pazaak card table. A fair amount of citizens have
+{G}  stopped by to enjoy themselves during their own leisure.{b}
+
+~
+465 0 0
+D0
+~
+cantina~
+1 -1 46513
+D3
+~
+~
+0 -1 46515
+Z-1
+C-1
+R0
+S
+#46515
+{Y}Upper City Cantina{b}~
+
+{G}  In the main room of the Cantina, groups of Pazaak card
+{G}  players talk about their latest games and achievements.
+{G}  A few challenge you to a game, obviously not caring
+{G}  whether or not you would truly like to play. A shady man
+{G}  in the corner glares at you, though each time you turn
+{G}  to glance in his direction, he simply moves along as if
+{G}  nothing happened. Three couches rest on either side of
+{G}  the Pazaak card table. A fair amount of citizens have
+{G}  stopped by to enjoy themselves during their own leisure.{b}
+
+~
+465 0 0
+D1
+~
+~
+0 -1 46514
+D3
+~
+~
+0 -1 46516
+Z-1
+C-1
+R0
+S
+#46516
+{Y}Upper City Cantina{b}~
+
+{Y}  Tables with alcohol drinks rest to your left and right.
+{Y}  Patrons flirting and drinking seem to be the majority
+{Y}  of the crowd, while a few other are here for business
+{Y}  and other needs. A few creatures you've never seen before
+{Y}  shroud themselves into the corner, practically cowering
+{Y}  from your presence.{b}
+
+~
+465 0 0
+D1
+~
+~
+0 -1 46515
+D3
+~
+~
+0 -1 46517
+Z-1
+C-1
+R0
+S
+#46517
+{Y}Upper City Cantina{b}~
+
+{Y}  Tables with alcohol drinks rest to your left and right.
+{Y}  Patrons flirting and drinking seem to be the majority
+{Y}  of the crowd, while a few other are here for business
+{Y}  and other needs. A few creatures you've never seen before
+{Y}  shroud themselves into the corner, practically cowering
+{Y}  from your presence.{b}
+
+~
+465 0 0
+D0
+~
+~
+0 -1 46518
+D1
+~
+~
+0 -1 46516
+D2
+~
+~
+0 -1 46520
+D3
+~
+~
+0 -1 46519
+Z-1
+C-1
+R0
+S
+#46518
+{Y}Upper City Cantina{b}~
+
+{Y}  Tables with alcohol drinks rest to your left and right.
+{Y}  Patrons flirting and drinking seem to be the majority
+{Y}  of the crowd, while a few other are here for business
+{Y}  and other needs. A few creatures you've never seen before
+{Y}  shroud themselves into the corner, practically cowering
+{Y}  from your presence.{b}
+
+~
+465 0 0
+D2
+~
+~
+0 -1 46517
+Z-1
+C-1
+R0
+S
+#46519
+{Y}Upper City Cantina{b}~
+
+{Y}  Tables with alcohol drinks rest to your left and right.
+{Y}  Patrons flirting and drinking seem to be the majority
+{Y}  of the crowd, while a few other are here for business
+{Y}  and other needs. A few creatures you've never seen before
+{Y}  shroud themselves into the corner, practically cowering
+{Y}  from your presence.{b}
+
+~
+465 0 0
+D1
+~
+~
+0 -1 46517
+Z-1
+C-1
+R0
+S
+#46520
+{Y}Upper City Cantina{b}~
+
+{Y}  Tables with alcohol drinks rest to your left and right.
+{Y}  Patrons flirting and drinking seem to be the majority
+{Y}  of the crowd, while a few other are here for business
+{Y}  and other needs. A few creatures you've never seen before
+{Y}  shroud themselves into the corner, practically cowering
+{Y}  from your presence.{b}
+
+~
+465 0 0
+D0
+~
+~
+0 -1 46517
+Z-1
+C-1
+R0
+S
+#46521
+{W}Upper City Arena{b}~
+
+{W}  A glowing force field radiates all throughout the
+{W}  arena. The field washes over your body, and you feel
+{W}  a sensation similar to that of a massive force
+{W}  holding you down to the area. Multitudes have gathered
+{W}  in the stands to watch you and your opponent battle
+{W}  to the DEATH.
+
+{W}               Good luck,
+{W}                   Mysterious Stranger.{b}
+
+~
+465 136 0
+D5
+~
+~
+0 -1 46522
+X134
+Z-1
+C1
+R0
+S
+#46522
+{W}Upper City Arena{b}~
+
+{W}  A glowing force field radiates all throughout the
+{W}  arena. The field washes over your body, and you feel
+{W}  a sensation similar to that of a massive force
+{W}  holding you down to the area. Multitudes have gathered
+{W}  in the stands to watch you and your opponent battle
+{W}  to the DEATH.
+
+{W}               Good luck,
+{W}                   Mysterious Stranger.{b}
+
+~
+465 136 0
+D5
+~
+~
+0 -1 46523
+X134
+Z-1
+C1
+R0
+S
+#46523
+{W}Upper City Arena{b}~
+
+{W}  A glowing force field radiates all throughout the
+{W}  arena. The field washes over your body, and you feel
+{W}  a sensation similar to that of a massive force
+{W}  holding you down to the area. Multitudes have gathered
+{W}  in the stands to watch you and your opponent battle
+{W}  to the DEATH.
+
+{W}               Good luck,
+{W}                   Mysterious Stranger.{b}
+
+~
+465 136 0
+D5
+~
+~
+0 -1 46524
+X134
+Z-1
+C1
+R0
+S
+#46524
+{W}Upper City Arena{b}~
+
+{W}  A glowing force field radiates all throughout the
+{W}  arena. The field washes over your body, and you feel
+{W}  a sensation similar to that of a massive force
+{W}  holding you down to the area. Multitudes have gathered
+{W}  in the stands to watch you and your opponent battle
+{W}  to the DEATH.
+
+{W}               Good luck,
+{W}                   Mysterious Stranger.{b}
+
+~
+465 136 0
+D5
+~
+~
+0 -1 46525
+X134
+Z-1
+C1
+R0
+S
+#46525
+{W}Upper City Arena{b}~
+
+{W}  A glowing force field radiates all throughout the
+{W}  arena. The field washes over your body, and you feel
+{W}  a sensation similar to that of a massive force
+{W}  holding you down to the area. Multitudes have gathered
+{W}  in the stands to watch you and your opponent battle
+{W}  to the DEATH.
+
+{W}               Good luck,
+{W}                   Mysterious Stranger.{b}
+
+~
+465 136 0
+D5
+~
+~
+0 -1 46526
+X134
+Z-1
+C1
+R0
+S
+#46526
+{W}Upper City Arena{b}~
+
+{W}  A glowing force field radiates all throughout the
+{W}  arena. The field washes over your body, and you feel
+{W}  a sensation similar to that of a massive force
+{W}  holding you down to the area. Multitudes have gathered
+{W}  in the stands to watch you and your opponent battle
+{W}  to the DEATH.
+
+{W}               Good luck,
+{W}                   Mysterious Stranger.{b}
+
+~
+465 136 0
+D5
+~
+~
+0 -1 46520
+X134
+Z-1
+C1
+R0
+S
+#46527
+Guns~
+
+{cyan} {BLACK,BOLD}  This is a dark room. The only light you can make out
+{cyan} {BLACK,BOLD}  is the hanging one from the ceiling. You glace around at
+{cyan} {BLACK,BOLD}  all the guns you could just take, but they're guarded by
+{cyan} {BLACK,BOLD}  some glass that requires a key, saddly you must keep
+{cyan} {BLACK,BOLD}  moving forward.
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46528
+D1
+~
+~
+0 -1 46525
+Z6
+C-1
+R0
+S
+#46528
+Finally!~
+
+{cyan} {BLACK,BOLD}  You back into action! Guns blazing in all directions!
+{cyan} {BLACK,BOLD}  Its humans vs. aliens but you figure you might as well kill
+{cyan} {BLACK,BOLD}  all of them. Before you head over to the captain to claim
+{cyan} {BLACK,BOLD}  his head your going to have to take them all out
+{cyan} {BLACK,BOLD}  while in your berserk rage.
+
+~
+465 9 1
+D2
+~
+~
+0 -1 46527
+D3
+~
+~
+0 -1 46529
+Z-1
+C-1
+R0
+S
+#46529
+Almost There~
+
+{cyan} {BLACK,BOLD}  All around you, you see pilots working hard to keep the
+{cyan} {BLACK,BOLD}  ship in the air. You can just barely spot out whats going
+{cyan} {BLACK,BOLD}  on. It seems that the aliens have boarded the ship.
+{cyan} {BLACK,BOLD}  You hear a man shouting orders and you instantly
+{cyan} {BLACK,BOLD}  have a grin on your face.
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46530
+D1
+~
+~
+0 -1 46528
+D3
+~
+door~
+2 -1 46535
+Z9
+C-1
+R0
+S
+#46530
+Pilot's Station~
+
+{cyan} {BLACK,BOLD}  Along the walls you get a better view of whats happening.
+{cyan} {BLACK,BOLD}  On the screen monitors you can see the crew members
+{cyan} {BLACK,BOLD}  being slaughtered. There's a siren blaring while flashing
+{cyan} {BLACK,BOLD}  a {RED,BOLD}red light along the walls {BLACK,BOLD}.
+{cyan} {BLACK,BOLD}  Your on the bridge, or atleast part of it. This has
+{cyan} {BLACK,BOLD}  got to be where the captain is!
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46532
+D1
+~
+~
+0 -1 46531
+D2
+~
+~
+0 -1 46529
+Z-1
+C-1
+R0
+S
+#46531
+Pilot's Station~
+
+{cyan} {BLACK,BOLD}  Along the walls you get a better view of whats happening.
+{cyan} {BLACK,BOLD}  On the screen monitors you can see the crew members
+{cyan} {BLACK,BOLD}  being slaughtered. There's a siren blaring while flashing
+{cyan} {BLACK,BOLD}  a {RED,BOLD}red light along the walls {BLACK,BOLD}.
+{cyan} {BLACK,BOLD}  Your on the bridge, or atleast part of it. This has
+{cyan} {BLACK,BOLD}  got to be where the captain is!
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46533
+D3
+~
+~
+0 -1 46530
+Z-1
+C-1
+R0
+S
+#46532
+Captain's Quarters~
+
+{cyan} {BLACK,BOLD}  There's a big screen on the wall showing a bunch of random
+{cyan} {BLACK,BOLD}  shapes and objects that must have something to do with
+{cyan} {BLACK,BOLD}  the balance of the ship. Below you is a giant computer
+{cyan} {BLACK,BOLD}  that glows with a {MAGENTA,BOLD}purple light {BLACK,BOLD}
+{cyan} {BLACK,BOLD}  Your in the Captain's Quarters where he leads the crew.
+{cyan} {BLACK,BOLD}  Before you is a giant glass window that shows a giant
+{cyan} {BLACK,BOLD}  black nothingness.
+
+~
+465 9 1
+D1
+~
+~
+0 -1 46533
+D2
+~
+~
+0 -1 46530
+D5
+~
+~
+0 -1 46534
+Z-1
+C-1
+R0
+S
+#46533
+Pilot's Station~
+
+{cyan} {BLACK,BOLD}  Along the walls you get a better view of whats happening.
+{cyan} {BLACK,BOLD}  On the screen monitors you can see the crew members
+{cyan} {BLACK,BOLD}  being slaughtered. There's a siren blaring while flashing
+{cyan} {BLACK,BOLD}  a {RED,BOLD}red light along the walls {BLACK,BOLD}.
+{cyan} {BLACK,BOLD}  got to be where the captain is!
+
+~
+465 9 1
+D2
+~
+~
+0 -1 46531
+D3
+~
+~
+0 -1 46532
+Z-1
+C-1
+R0
+S
+#46534
+{MAGENTA,BOLD}Cortana{magenta,bold}~
+
+{BLACK,BOLD} {MAGENTA,BOLD}This here is Cortana's home. A computer generated
+{BLACK,BOLD} {MAGENTA,BOLD}room that was put into this ship. In this room
+{BLACK,BOLD} {MAGENTA,BOLD}it is almost like a big factory of numbers
+{BLACK,BOLD} {MAGENTA,BOLD}that go on in a random sequence.
+{magenta,bold}
+~
+465 9 1
+D4
+~
+~
+0 -1 46532
+Z-1
+C-1
+R0
+S
+#46535
+{BLACK,BOLD}Black{black,bold}~
+
+{cyan} {BLACK,BOLD}  As you stand here you notice a few shady figures in the
+{cyan} {BLACK,BOLD}  background. You cannot tell what they are, but they're small
+{cyan} {BLACK,BOLD}  and are making strange noices. You draw your sword, but you
+{cyan} {BLACK,BOLD}  begin to drool as you turn to see the lunch area.
+
+~
+465 9 1
+D1
+~
+door~
+1 -1 46529
+D2
+~
+~
+0 -1 46536
+Z9
+C-1
+R0
+S
+#46536
+Dining Room~
+
+{cyan} {BLACK,BOLD}  Here is the dining room. Normally where people eat.
+{cyan} {BLACK,BOLD}  Today, it seems theres a fight going on. Just your luck!
+{cyan} {BLACK,BOLD}  Be careful. You better hide behind the barricade before
+{cyan} {BLACK,BOLD}  more plasma hits your skin. While in the midst of battle
+{cyan} {BLACK,BOLD}  you can spot out an exit to your north.
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46535
+D2
+~
+~
+0 -1 46537
+Z-1
+C-1
+R0
+S
+#46537
+Hallway~
+
+{cyan} {BLACK,BOLD}  You cannot believe it. This damn ship has so many hallways.
+{cyan} {BLACK,BOLD}  Maybe your just used to your enclosed case that you've been
+{cyan} {BLACK,BOLD}  sleeping in. This is where the aliens have been coming
+{cyan} {BLACK,BOLD}  from. There's burned things on the ground. Your unable
+{cyan} {BLACK,BOLD}  to figure out what they are. To your west there is a very
+{cyan} {BLACK,BOLD}  dark enterance.{black,bold}
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46536
+Z3
+C-1
+R0
+S
+#46538
+Darkness~
+
+{cyan} {BLACK,BOLD}  You stand here in the darkness. Wondering which way to
+{cyan} {BLACK,BOLD}  go. As you search around the room, you discover the only
+{cyan} {BLACK,BOLD}  way to progress is by going south. Don't worry, your almost out.
+{black,bold}
+
+~
+465 9 1
+D1
+~
+~
+0 -1 46540
+D2
+~
+~
+0 -1 46539
+Z3
+C-1
+R0
+S
+#46539
+Hallway~
+
+{cyan} {BLACK,BOLD}  It got lighter. In fact its perfectly well lit in this room.
+{cyan} {BLACK,BOLD}  There's not much to look at, but to the west is the way
+{cyan} {BLACK,BOLD}  to leave. Might as well see where it puts you.{black,bold}
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46538
+D1
+~
+~
+0 -1 46540
+Z3
+C-1
+R0
+S
+#46540
+To the action~
+
+{cyan} {BLACK,BOLD}  Your getting closer, you can feel it in your veins.
+{cyan} {BLACK,BOLD}  Don't be impatient. Keep your cool.
+{cyan} {BLACK,BOLD}  These things lead to death. You don't
+{cyan} {BLACK,BOLD}  want to end up like the guy on the floor.
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46541
+D3
+~
+~
+0 -1 46539
+Z3
+C-1
+R0
+S
+#46541
+Large Space~
+
+{cyan} {BLACK,BOLD}  Oh finally. A hallway that isn't all white.
+{cyan} {BLACK,BOLD}  In this room there are yet more burn marks on the floor.
+{cyan} {RED,BOLD}  To the east you can spot a room sealed with a door
+{cyan} {RED,BOLD}  That appears to be blasted through. All  
+{cyan} {BLACK,BOLD}  around you, you see guns a blown off
+{cyan} {BLACK,BOLD}  chunks of bodies. It makes you sick to your stomach.
+{cyan} {RED,BOLD}  Let's leave, you think.{red,bold}
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46542
+D2
+~
+~
+0 -1 46540
+D3
+~
+~
+0 -1 46543
+Z3
+C-1
+R0
+S
+#46542
+{MAGENTA,BOLD}Overshield{magenta,bold}~
+
+{cyan} {magenta}  Inside this Purple space. It looks very
+{cyan} {magenta}  high tech. Its risky to touch things in here
+{cyan} {magenta,BOLD}  you say to yourself. On the walls, there
+{cyan} {magenta}  tons of circles and openings. There's a circle
+{cyan} {magenta} In front of you. It appears to lead to the 
+{cyan} {magenta}  intruders ship. The floor is purple, with {cyan}guts
+{cyan} {magenta}  lieing all over the place. 
+
+~
+465 9 1
+D2
+~
+~
+0 -1 46541
+Z3
+C-1
+R0
+S
+#46543
+Large Space~
+
+{cyan} {BLACK,BOLD}  Your ending the peace. Atleast you get to
+{cyan} {BLACK,BOLD}  go kill more things. Up ahead there are boxes
+{cyan} {BLACK,BOLD}  filled with a strange liquid. The floors
+{cyan} {BLACK,BOLD}  are marked with {YELLOW,BOLD}s{BLACK,BOLD}t{YELLOW,BOLD}r{BLACK,BOLD}i{YELLOW,BOLD}p{BLACK,BOLD}e{YELLOW,BOLD}s {BLACK,BOLD}
+{cyan} {BLACK,BOLD}  possible marking a warning.{black,bold}
+
+~
+465 9 1
+D1
+~
+~
+0 -1 46541
+D2
+~
+~
+0 -1 46544
+Z3
+C-1
+R0
+S
+#46544
+Keep going!~
+
+{cyan} {BLACK,BOLD}  Let's go man. Don't stop now. Your almost
+{cyan} {BLACK,BOLD}  there. Just a few more steps. I guess
+{cyan} {BLACK,BOLD}  you can take a break on the pole in front
+{cyan} {BLACK,BOLD}  of you, but I think you better be on
+{cyan} {BLACK,BOLD}  your way if you ever want to escape.
+
+{black,bold}
+~
+465 9 1
+D0
+~
+~
+0 -1 46543
+D2
+~
+~
+0 -1 46545
+Z3
+C-1
+R0
+S
+#46545
+More Containers~
+
+{cyan} {BLACK,BOLD}  Another bland room. You look around and
+{cyan} {BLACK,BOLD}  notice everything is black. Even the floor.
+{cyan} {BLACK,BOLD}  You wonder why the creators were so bland
+{cyan} {BLACK,BOLD}  making this ship. Was it to make you angry?
+{cyan} {BLACK,BOLD}  To the east you see something strange.{black,bold}
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46544
+D1
+~
+~
+0 -1 46546
+Z3
+C-1
+R0
+S
+#46546
+AHHHH!!!!~
+
+{cyan} {BLACK,BOLD}  AHHHHHH!!! Your falling! Be careful. Watch
+{cyan} {BLACK,BOLD}  that...Ah never mind...Stop screaming. Your
+{cyan} {BLACK,BOLD}  mind was wondering off again. When you
+{cyan} {BLACK,BOLD}  come back to reality. You see that there's a dark
+{cyan} {BLACK,BOLD}  enterance to the south. All around you
+{cyan} {BLACK,BOLD}  there's {RED,BOLD}flaming {BLACK,BOLD}barrels
+{cyan} {BLACK,BOLD}  and boxes.{black,bold}
+
+~
+465 9 1
+D2
+~
+~
+0 -1 46547
+D3
+~
+~
+0 -1 46545
+Z3
+C-1
+R0
+S
+#46547
+Dark...With a monster!~
+
+{cyan} {BLACK,BOLD}  Its very dark in here. You wonder if you'll
+{cyan} {BLACK,BOLD}  be able to find you way around.
+{cyan} {BLACK,BOLD}  AHH! what was that? Did something just hit you?
+{cyan} {BLACK,BOLD}  Off in the distance you hear a faint laughter
+{cyan} {BLACK,BOLD}  He approaches you and you frighten. For
+{cyan} {BLACK,BOLD}  some reason, you notice the {RED,BOLD}flashing
+{cyan} {BLACK,BOLD}  alarm.{black,bold}
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46546
+D3
+~
+~
+0 -1 46548
+Z3
+C-1
+R0
+S
+#46548
+Another hallway~
+
+{cyan} {BLACK,BOLD}  Sigh. Back in another hallway. It's grey.
+{cyan} {BLACK,BOLD}  go figure. But something is different about
+{cyan} {BLACK,BOLD}  this one. There is a faint echo. and progresses
+{cyan} {BLACK,BOLD}  in light. Its strange.{black,bold}
+
+~
+465 9 1
+D1
+~
+~
+0 -1 46547
+D2
+~
+~
+0 -1 46549
+Z3
+C-1
+R0
+S
+#46549
+Hallway~
+
+{BLACK,BOLD} Another plain dull room. The echos of war grow
+{BLACK,BOLD} louder almost as if they're in front of you.
+{BLACK,BOLD} You squint your eyes, maybe your seeing things.
+{BLACK,BOLD} No, its true! People shooting guns. Of in the distance
+{BLACK,BOLD} two little dots firing round after round.{black,bold}
+
+~
+465 9 1
+D2
+~
+~
+0 -1 46550
+D3
+~
+~
+0 -1 46551
+Z3
+C-1
+R0
+S
+#46550
+Allies~
+
+{BLACK,BOLD} Here are the tiny dots you saw. Ignoring you
+{BLACK,BOLD} completely. They're only mind setting is staying alive.
+{BLACK,BOLD} Maybe you should do the same. There's no way to
+{BLACK,BOLD} leave from here but the way you came. Metal
+{BLACK,BOLD} tins are blocking the enterance from intruders.{black,bold}
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46549
+Z3
+C-1
+R0
+S
+#46551
+Close~
+
+{BLACK,BOLD} There's {RED,BOLD}blood {BLACK,BOLD}on the floor
+{BLACK,BOLD} next to the corpse of a dead marine. Its gross but
+{BLACK,BOLD} it makes you happy. There are more attackers. You
+{BLACK,BOLD} seem to notice strange figures on the walls, maybe
+{BLACK,BOLD} markings of some kind.{black,bold}
+
+~
+465 9 1
+D1
+~
+~
+0 -1 46549
+D2
+~
+~
+0 -1 46552
+Z3
+C-1
+R0
+S
+#46552
+Boarding~
+
+{BLACK,BOLD} Your out of the hallway atlast. On the floor there's
+{BLACK,BOLD} a metal grate for air to seep through. It's darker
+{BLACK,BOLD} in here than most other rooms. Elites and Grunts
+{BLACK,BOLD} all over.{black,bold}
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46551
+D3
+~
+~
+0 -1 46553
+Z3
+C-1
+R0
+S
+#46553
+Bodies~
+
+{BLACK,BOLD} Bodies on the floor. Why is this happening?
+{BLACK,BOLD} so many questions rushing through your head.
+{BLACK,BOLD} Is there even a way off this place. Theres a door
+{BLACK,BOLD} to the north where you can hear faint laughter.
+{black,bold}
+~
+465 9 1
+D0
+~
+door~
+1 -1 46554
+D1
+~
+~
+0 -1 46552
+Z3
+C-1
+R0
+S
+#46554
+Room~
+
+{BLACK,BOLD} Just a piece to connect rooms. You admire the
+{BLACK,BOLD} dead bodies of aliens on the floor though.
+{black,bold}
+
+~
+465 9 1
+D2
+~
+door~
+1 -1 46553
+D3
+~
+~
+0 -1 46555
+Z3
+C-1
+R0
+S
+#46555
+Room~
+
+{BLACK,BOLD} Again just another connecting room.{black,bold}
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46556
+D1
+~
+~
+0 -1 46554
+Z3
+C-1
+R0
+S
+#46556
+A way with two exits~
+
+{BLACK,BOLD} Which way should you go?
+{BLACK,BOLD} North?
+{BLACK,BOLD} West?{black,bold}
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46558
+D2
+~
+~
+0 -1 46555
+D3
+~
+~
+0 -1 46557
+Z3
+C-1
+R0
+S
+#46557
+Dark~
+
+{BLACK,BOLD} Its too dark to see anything.
+{BLACK,BOLD} You might as well turn back now!{black,bold}
+
+~
+465 9 1
+D1
+~
+~
+0 -1 46556
+Z3
+C-1
+R0
+S
+#46558
+Connecting Room~
+
+{BLACK,BOLD} Another room to connect two, but the way to
+{BLACK,BOLD} the next room looks very dark almost too hard to
+{BLACK,BOLD} see in. You know that if you just keep moving West
+{BLACK,BOLD} you'll make it out.{black,bold}
+
+~
+465 9 1
+D2
+~
+~
+0 -1 46556
+D3
+~
+~
+0 -1 46559
+Z3
+C-1
+R0
+S
+#46559
+Dark~
+
+{BLACK,BOLD} Its too dark to see! Just remember what
+{BLACK,BOLD} you thought!{black,bold}
+
+~
+465 9 1
+D1
+~
+~
+0 -1 46558
+D3
+~
+door~
+1 -1 46560
+Z3
+C-1
+R0
+S
+#46560
+Hanger~
+
+{BLACK,BOLD} Your in the hanger. There are no ships there
+{BLACK,BOLD} places taken by bodies. There's a sealed door
+{BLACK,BOLD} to the south, and another passage to the north.{black,bold}
+
+~
+465 9 1
+D1
+~
+door~
+1 -1 46559
+D4
+~
+~
+0 -1 46561
+Z3
+C-1
+R0
+S
+#46561
+Boxes~
+
+{BLACK,BOLD} Following the path, you come along some boxes. They're all sorts
+{BLACK,BOLD} of different colors. {GREEN,BOLD}Green, {RED,BOLD}Red, {BLACK,BOLD}Black.
+{BLACK,BOLD} To the south, there is another passage way contain what appears
+{BLACK,BOLD} to be another boarding dock.{black,bold}
+
+~
+465 9 1
+D2
+~
+~
+0 -1 46562
+D3
+~
+~
+0 -1 46562
+D5
+~
+~
+0 -1 46560
+Z3
+C-1
+R0
+S
+#46562
+Hangers~
+
+{BLACK,BOLD} This is where the ship contains more boarding docks. To the west
+{BLACK,BOLD} there is one that just boarded and is pouring on some aliens.
+{BLACK,BOLD} There is some sort of shield in front of you. It glows with a light
+{BLACK,BOLD} that seems to fill the room. The rooms are painted {RED,BOLD}red {BLACK,BOLD}and white.
+{BLACK,BOLD} On the floor A big sign say Danger!{black,bold}
+
+~
+465 9 1
+D1
+~
+~
+0 -1 46561
+D2
+~
+~
+0 -1 46564
+D3
+~
+~
+0 -1 46563
+Z3
+C-1
+R0
+S
+#46563
+{MAGENTA,BOLD}Ship{magenta,bold}~
+
+{MAGENTA,BOLD} You stand here in this ship that once was filled with aliens,
+{MAGENTA,BOLD} and find that it is mostly purple just like the last one you saw.
+{CYAN,BOLD} At the end there is a circle and some other round circles around it.
+{MAGENTA,BOLD} The walls are lined with what appears to be blood and guts.
+{MAGENTA,BOLD} Through the mess, you can spot out little torn pieces of human flesh.{magenta,bold}
+
+~
+465 1 1
+D1
+~
+~
+0 -1 46562
+Z3
+C-1
+R0
+S
+#46564
+Signs of Battle~
+
+{BLACK,BOLD} In this room there are greatly noticable signs of battle.
+{BLACK,BOLD} The largest being the dead scattered bodies on the floor.
+{BLACK,BOLD} You search through the dead comrades and come to a conclusion
+{BLACK,BOLD} that they must be looking for something. Wether a map or a device.
+{BLACK,BOLD} You do not know.{black,bold}
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46562
+D1
+~
+~
+0 -1 46565
+Z3
+C-1
+R0
+S
+#46565
+Fire~
+
+{BLACK,BOLD} Its very dark in here. There's light to the south. Something is
+{BLACK,BOLD} burning in this room and is realeasing a very foul odor your way.
+{BLACK,BOLD} Maybe you should leave.{black,bold}
+
+~
+465 25 1
+D2
+~
+~
+0 -1 46566
+D3
+~
+~
+0 -1 46564
+Z3
+C-1
+R0
+S
+#46566
+Room with many doors~
+
+{BLACK,BOLD} You stand here in a room filled with many doors. To the west
+{BLACK,BOLD} there is a door going somewhere around the corner. Further
+{BLACK,BOLD} south you see what could possibly be where it connects.
+{BLACK,BOLD} The room is long. It has obviously been used to store
+{BLACK,BOLD} equipment of all kinds. From tanks to rockets and even nukes.{black,bold}
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46565
+D2
+~
+~
+0 -1 46569
+D3
+~
+~
+0 -1 46567
+Z3
+C-1
+R0
+S
+#46567
+Connecting Room~
+
+{BLACK,BOLD} This room connects to another where you can see a lone alien.
+{BLACK,BOLD} trying to fight his way out of a deep situation. Through the
+{BLACK,BOLD} hallway, its very dark you you'll just have to keep going south.{black,bold}
+
+~
+465 9 1
+D1
+~
+~
+0 -1 46566
+D2
+~
+~
+0 -1 46568
+Z3
+C-1
+R0
+S
+#46568
+Blast~
+
+{BLACK,BOLD} Slowly approaching this room. A big {CYAN,BOLD}plasma blast
+{BLACK,BOLD} tears the room apart. The room is scorched in flame and is slowely
+{BLACK,BOLD} ripping off from the ship. You keep your head down trying not
+{BLACK,BOLD} to breathe in the fumes. The smoke fills the room and you are
+{BLACK,BOLD} having a troublesome time seeing.{black,bold}
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46567
+D1
+~
+~
+0 -1 46569
+D3
+~
+door~
+3 -1 46570
+Z3
+C-1
+R0
+S
+#46569
+Big Area~
+
+{BLACK,BOLD} You stand here looking around and finding aliens everywhere.
+{BLACK,BOLD} this part of the ship has been over ran with them. There's a box
+{BLACK,BOLD} in front of you that appears to openable. To the east you see an exit.
+{BLACK,BOLD} and to the south you see another sealed door.{black,bold}
+
+~
+465 9 1
+D1
+~
+~
+0 -1 46571
+D3
+~
+~
+0 -1 46568
+Z3
+C-1
+R0
+S
+#46570
+Treasure~
+
+{BLACK,BOLD} This is the first of XxX's treasure rooms. There is a chest
+{BLACK,BOLD} filled with gold in front of you. Maybe take a look.{black,bold}
+
+~
+465 9 1
+D1
+~
+door~
+1 -1 46568
+Z3
+C-1
+R0
+S
+#46571
+Hallway~
+
+{BLACK,BOLD} This hallway has 3 holes in the wall. Near them, bodies are
+{BLACK,BOLD} floating about from the loss of gravity. You instantly feel lighter.
+{BLACK,BOLD} its harder to move and its freezing. The aliens came from this direction.
+{BLACK,BOLD} You can tell from the blood on the floor and the sliced through
+{BLACK,BOLD} doors.{black,bold}
+
+~
+465 9 1
+D2
+~
+~
+0 -1 46572
+D3
+~
+~
+0 -1 46569
+Z3
+C-1
+R0
+S
+#46572
+A flight of Stairs~
+
+{BLACK,BOLD} You find yourself on the bottom floor with two flights of stairs.
+{BLACK,BOLD} At the top, you can see grunts and elites firing down below
+{BLACK,BOLD} at the marines. The floor is silver but has some green paint on
+{BLACK,BOLD} it saying {GREEN,BOLD}"STAIRS".{green,bold}
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46571
+D4
+~
+~
+0 -1 46573
+Z3
+C-1
+R0
+S
+#46573
+Stairs~
+
+{BLACK,BOLD} Climbing the stairs. The battle has left {RED,BOLD}blood {BLACK,BOLD}and {BLUE,BOLD}g{GREEN,BOLD}u{CYAN,BOLD}t{BLUE,BOLD}s
+{BLACK,BOLD} everywhere. You continue to climb through the dead tissues
+{BLACK,BOLD} and maybe that liver on the floor.{black,bold}
+
+~
+465 9 1
+D4
+~
+~
+0 -1 46574
+D5
+~
+~
+0 -1 46572
+Z3
+C-1
+R0
+S
+#46574
+Top of the Stairs~
+
+{BLACK,BOLD} You reached the top of the stairs. Evil little bastards are still
+{BLACK,BOLD} flowing in from the south. To your east and west are locked doors
+{BLACK,BOLD} that are impossible to open. The heat has turned up. They must
+{BLACK,BOLD} have gotten to the bridge. You better hurry.{black,bold}
+
+~
+465 9 1
+D2
+~
+~
+0 -1 46575
+D5
+~
+~
+0 -1 46573
+Z3
+C-1
+R0
+S
+#46575
+Airlock~
+
+{BLACK,BOLD} As you enter this room the doors lock and close behind you.
+{BLACK,BOLD} Atleast you escaped that mess. To the west there is another room
+{BLACK,BOLD} much like the one you are in.{black,bold}
+
+~
+465 9 1
+D3
+~
+~
+0 -1 46576
+Z3
+C-1
+R0
+S
+#46576
+Cover~
+
+{BLACK,BOLD} Running as fast as you can. Bullets fly all over in your direction.
+{BLACK,BOLD} There is cover in fron't of you but it doesn't seem to protect
+{BLACK,BOLD} very well. On the floor there are three dead bodies of fallen
+{BLACK,BOLD} men protecting the ship. Up ahead it grows dark and there is little
+{BLACK,BOLD} light.{black,bold}
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46577
+D1
+~
+~
+0 -1 46575
+D3
+~
+~
+0 -1 46578
+Z3
+C-1
+R0
+S
+#46577
+Storage~
+
+{BLACK,BOLD} All the lights in this room are at full blast. There are boxes
+{BLACK,BOLD} everywhere making it seemingly impossible to move from your
+{BLACK,BOLD} position. To the south you see the way you came.{black,bold}
+
+~
+465 9 1
+D2
+~
+~
+0 -1 46576
+Z3
+C-1
+R0
+S
+#46578
+Black~
+
+{BLACK,BOLD} Its very hard to see in this room. You follow your ears to
+{BLACK,BOLD} the happy cheers of the grunts. You think they
+{BLACK,BOLD} are coming from the north but you can't be sure.{black,bold}
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46579
+Z3
+C-1
+R0
+S
+#46579
+Black~
+
+{BLACK,BOLD} The room has three boxes filled with more interesting liquid.
+{BLACK,BOLD} This liquid is the only source of light, it seems to glow.
+{BLACK,BOLD} You don't think it is wise to drink from there as it looks
+{BLACK,BOLD} like it might kill you. {CYAN,BOLD}Blue blood covers the floor.{cyan,bold}
+
+~
+465 9 1
+D2
+~
+~
+0 -1 46578
+D3
+~
+~
+0 -1 46580
+Z3
+C-1
+R0
+S
+#46580
+Windows~
+
+{BLACK,BOLD} This room is all one big window. The entire floor is made of glass.
+{BLACK,BOLD} everything around you is glass. You hope that your weight doesn't
+{BLACK,BOLD} crack the floor. Or you'll be lost in space. To the north, it grows
+{BLACK,BOLD} darker and darker turning into nothing.{black,bold}
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46581
+D1
+~
+~
+0 -1 46579
+Z3
+C-1
+R0
+S
+#46581
+Windows~
+
+{BLACK,BOLD} You look out a window. You see the escape pods leaving and getting
+{BLACK,BOLD} shot at by alien cannon fire. It sends a {CYAN,BOLD}plasma explosion
+{BLACK,BOLD} that shakes the room you are in. Every time the cannon fires
+{BLACK,BOLD} The Pillar of Autumn shakes harder everytime. To the north
+{BLACK,BOLD} there is a few grunts laughing at your existance.{black,bold}
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46582
+D2
+~
+~
+0 -1 46580
+Z3
+C-1
+R0
+S
+#46582
+Dead end~
+
+{BLACK,BOLD} You ran into a dead end. Did all this work go to nothing?
+{BLACK,BOLD} You search the room to be sure. To the east you finially find
+{BLACK,BOLD} a dark hallway. One of the grunts must have the key.{black,bold}
+
+~
+465 9 1
+D1
+~
+door~
+1 -1 46583
+D2
+~
+~
+0 -1 46581
+Z3
+C-1
+R0
+S
+#46583
+Tunnels~
+
+{BLACK,BOLD} At the end of the tunnel there is light. But which direction
+{BLACK,BOLD} do you go to get to the light? In here is is dark, only light
+{BLACK,BOLD} are the dull red lights above.{black,bold}
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46583
+D1
+~
+~
+0 -1 46584
+D2
+~
+~
+0 -1 46583
+D3
+~
+door~
+1 -1 46582
+D4
+~
+~
+0 -1 46583
+D5
+~
+~
+0 -1 46583
+Z3
+C-1
+R0
+S
+#46584
+Tunnels~
+
+{BLACK,BOLD} At the end of the tunnels there is light. But how do you get
+{BLACK,BOLD} to the light?{black,bold}
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46585
+D1
+~
+~
+0 -1 46584
+D2
+~
+~
+0 -1 46584
+D3
+~
+~
+0 -1 46584
+D4
+~
+~
+0 -1 46584
+D5
+~
+~
+0 -1 46584
+Z3
+C-1
+R0
+S
+#46585
+Tunnels~
+
+{BLACK,BOLD} There is light at the end of the tunnel. How do you get
+{BLACK,BOLD} to the end of the tunnel?{black,bold}
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46585
+D1
+~
+~
+0 -1 46585
+D2
+~
+~
+0 -1 46585
+D3
+~
+~
+0 -1 46586
+D4
+~
+~
+0 -1 46585
+D5
+~
+~
+0 -1 46585
+Z3
+C-1
+R0
+S
+#46586
+Tunnels~
+
+{BLACK,BOLD} There is light at the end of the tunnel. Which direction
+{BLACK,BOLD} should you take? Is there even a way out?{black,bold}
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46587
+D1
+~
+~
+0 -1 46586
+D2
+~
+~
+0 -1 46586
+D3
+~
+~
+0 -1 46586
+D4
+~
+~
+0 -1 46586
+D5
+~
+~
+0 -1 46586
+Z3
+C-1
+R0
+S
+#46587
+Tunnels~
+
+{BLACK,BOLD} There is light at the end of the tunnel. The walls are appearing
+{BLACK,BOLD} to get smaller.{black,bold}
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46587
+D1
+~
+~
+0 -1 46587
+D2
+~
+~
+0 -1 46587
+D3
+~
+~
+0 -1 46588
+D4
+~
+~
+0 -1 46587
+D5
+~
+~
+0 -1 46587
+Z3
+C-1
+R0
+S
+#46588
+Tunnels~
+
+{BLACK,BOLD} The light is glowing brigher. It's coming from the west.{black,bold}
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46588
+D1
+~
+~
+0 -1 46588
+D2
+~
+~
+0 -1 46588
+D3
+~
+~
+0 -1 46589
+D4
+~
+~
+0 -1 46588
+D5
+~
+~
+0 -1 46588
+Z3
+C-1
+R0
+S
+#46589
+Light~
+
+{BLACK,BOLD} You've made it out of the tunnels. There are elites and grunts
+{BLACK,BOLD} flooding the hallways making sure no one gets past.
+{BLACK,BOLD} There is a way out to the west, but you better be careful
+{BLACK,BOLD} as you move. There are many of them and they are alert.
+{BLACK,BOLD} The leader stands here telling them all what to do.{black,bold}
+
+~
+465 9 1
+D1
+~
+~
+0 -1 46588
+D3
+~
+~
+0 -1 46590
+Z3
+C-1
+R0
+S
+#46590
+Control Panel~
+
+{BLACK,BOLD} When you enter this room a bunch of red flares go up to warn
+{BLACK,BOLD} the intruders you are here. All the buttons on the keyboard in
+{BLACK,BOLD} front of you turn off and the screen goes black. To the south
+{BLACK,BOLD} there is a room that turns off into another direction.{black,bold}
+
+~
+465 9 1
+D1
+~
+~
+0 -1 46589
+D2
+~
+~
+0 -1 46591
+Z3
+C-1
+R0
+S
+#46591
+Bridge~
+
+{BLACK,BOLD} As you enter the bridge You look down below and you see where
+{BLACK,BOLD} you woke up. You find that the aliens have reached there also.
+{BLACK,BOLD} You are the last human left. If you are to make it out alive
+{BLACK,BOLD} you better be smart and wise with your moves.{black,bold}
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46590
+D1
+~
+door~
+3 -1 46593
+D2
+~
+~
+0 -1 46592
+Z3
+C-1
+R0
+S
+#46592
+Burnt room~
+
+{BLACK,BOLD} So much plasma fire in this room that it caused some barrels
+{BLACK,BOLD} to explode leaving the room in ruins. This is where they stored
+{BLACK,BOLD} possesions of marines that lived here. On the floor you see a
+{BLACK,BOLD} picture of a family all smiling. To the south you sense that
+{BLACK,BOLD} it will explode at any minute. You decide it isn't wise to go
+{BLACK,BOLD} in. To the west, is where the fire started.{black,bold}
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46591
+D2
+~
+~
+0 -1 46595
+D3
+~
+~
+0 -1 46594
+Z3
+C-1
+R0
+S
+#46593
+Treasure~
+
+{BLACK,BOLD} Good job! You found XxX's second treasure room! In the chests you'll
+{BLACK,BOLD} like what you find.{black,bold}
+
+~
+465 9 1
+D3
+~
+door~
+1 -1 46591
+Z3
+C-1
+R0
+S
+#46594
+Burnt Room~
+
+{BLACK,BOLD} Fire is all around this room leaving one path.
+{RED,BOLD} Luckily it leads to a door going through more tunnels.
+{BLACK,BOLD} You look around and see more belongings to fallen men.
+{BLACK,BOLD} On the floor there is a trophy and next to it some
+{BLACK,BOLD} metals.{black,bold}
+
+~
+465 9 1
+D1
+~
+~
+0 -1 46592
+D2
+~
+~
+0 -1 46596
+Z3
+C-1
+R0
+S
+#46595
+Dead~
+
+{BLACK,BOLD} The fire erupts inveloping your body. If your lucky you are
+{BLACK,BOLD} flying above it.{black,bold}
+
+~
+465 11 9
+D0
+~
+~
+0 -1 46592
+Z3
+C-1
+R0
+S
+#46596
+Tunnels~
+
+{BLACK,BOLD} Your lost again in a bunch of tunnels. At the end
+{BLACK,BOLD} there is no light. Only more tunnels.{black,bold}
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46596
+D1
+~
+~
+0 -1 46596
+D2
+~
+~
+0 -1 46596
+D3
+~
+~
+0 -1 46597
+D4
+~
+~
+0 -1 46596
+D5
+~
+~
+0 -1 46596
+Z3
+C-1
+R0
+S
+#46597
+Tunnels~
+
+{BLACK,BOLD} In this tunnel to the north you see a boiling pit of acid.
+{BLACK,BOLD} Going south there is still no light. The other directions
+{BLACK,BOLD} seem to lead to the same room.{black,bold}
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46598
+D1
+~
+~
+0 -1 46597
+D2
+~
+~
+0 -1 46599
+D3
+~
+~
+0 -1 46597
+D4
+~
+~
+0 -1 46597
+D5
+~
+~
+0 -1 46597
+Z3
+C-1
+R0
+S
+#46598
+Acid~
+
+{GREEN,BOLD} You fall into a deep pit of acid. The acid burns the flesh off
+{GREEN,BOLD} your bones and destroys most of you equipment. The rest of what
+{GREEN,BOLD} is left sinks with your corpse. If you live, you must have been
+{GREEN,BOLD} flying.{green,bold}
+
+~
+465 11 9
+D2
+~
+~
+0 -1 46597
+Z3
+C-1
+R0
+S
+#46599
+Tunnels~
+
+{BLACK,BOLD} A light glows in the distance, you are getting closer.
+{BLACK,BOLD} If I were you I wouldn't go east.{black,bold}
+
+~
+465 9 1
+D0
+~
+~
+0 -1 46599
+D1
+~
+~
+0 -1 46598
+D2
+~
+~
+0 -1 46599
+D3
+~
+~
+0 -1 46600
+D4
+~
+~
+0 -1 46599
+D5
+~
+~
+0 -1 46599
+Z3
+C-1
+R0
+S
+$~

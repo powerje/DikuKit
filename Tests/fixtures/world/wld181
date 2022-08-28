@@ -1,0 +1,2436 @@
+#18100
+{BOLD}{RED}DeathQuest {CYAN}Repair Room{cyan}~
+Fix it, load up stuffs etc!
+~
+181 8320 0
+D0
+~
+~
+0 -1 28584
+Z3
+C-1
+R0
+S
+#18101
+{Y}Central Station{b}~
+
+{R,BO}  AMSTERDAM!! THE CITY OF LIGHT, LUST, AND PLEASURE!{b}
+
+{Y}  A sense of contentment, achievement settles upon you as you mix in
+{Y}  with the thousands upon thousands of visitors that come to this city
+{Y}  every day to enjoy the sights, wonders and adventures of the Old World.
+{Y}  As you look around the large central hall of the station, you notice an
+{Y}  information booth around the corner, to the west you see ticket offices
+{Y}  and to the south you can see Station Square, teeming with people{b}
+
+~
+181 0 0
+D0
+~
+~
+0 -1 28598
+D1
+~
+~
+0 -1 18102
+D2
+~
+~
+0 -1 18112
+D3
+~
+~
+0 -1 18103
+Z3
+C-1
+R0
+S
+#18102
+{Y,BO}Information Booth{b}~
+
+{C}  Posters everywhere!  The colourful plates of the famed places in Amsterdam
+{C}  are a veritable assault on your optic nerves!  You sigh in anticipation
+{C}  as you see the prints of the canals, the zoo, the museums, the palace and
+{C}  hundreds of other things.{b}
+
+{C}  On the desk you see a catalogue with information about the city.{b}
+
+~
+181 0 0
+D3
+~
+~
+0 -1 18101
+E
+catalog~
+Welcome to Amsterdam!  The city of delight!  We have many a tour organized
+for your convenience.  If you are new to this, then we suggest you visit
+the Zoo, for the bit more experienced vistors we would propose a visit to
+the famed Red Light District, and for the veterans a trip to the palace
+(if you can obtain an invitation, that is) or an extraordinary view of
+the wonders of the city by canalboat is what our recomendation would be!
+But, remember, having fun is the most important part of ANY stay in this
+fair town!
+~
+Z3
+C-1
+R0
+S
+#18103
+{Y}Central Station{b}~
+
+{Y}  You wander about the great central hall of the Central Station. People
+{Y}  are milling about, going here, coming from there, buying tickets, 
+{Y}  hurrying to trains, looking at maps, sleeping in quiet corners.  Through
+{Y}  the great bay windows to the south you can see Station Square, teeming
+{Y}  with people, hauling taxis, jumping on buses and trains or just walking
+{Y}  about.{b}
+
+~
+181 0 0
+D0
+~
+~
+0 -1 18104
+D1
+~
+~
+0 -1 18101
+D3
+~
+~
+0 -1 18106
+Z3
+C-1
+R0
+S
+#18104
+{R}Waiting in line{b}~
+
+{R}  You find yourself standing in a line, with tourists milling about you.
+{R}  You wonder what they are all so anxious about?  Some of the people around
+{R}  you are whispering in excited voices among each other, in clear anticipation
+{R}  of something.  Still, this mucking about is getting boring.  When is it
+{R}  going to be your turn to come to the counter you can see a bit further up
+{R}  north? And, what would they be selling tickets to?{b}
+
+~
+181 0 0
+D0
+~
+~
+0 -1 18105
+D2
+~
+~
+0 -1 18103
+Z3
+C-1
+R0
+S
+#18105
+{Y,BO}Ticket Booth{b}~
+
+{G,BO}  Finally! You made it to the end of the line!  As you look around
+{G,BO}  the room, you see posters and pictures of all sorts of animals,
+{G,BO}  some of which you've never seen the likes of before!{b}
+
+{G,BO}  Behind the counter you see a very pretty girl selling tickets
+{G,BO}  to Artis, the famous Amsterdam Zoo!{b}
+
+~
+181 0 0
+D2
+~
+~
+0 -1 18104
+Z3
+C-1
+R0
+S
+#18106
+{Y}Central Station{b}~
+
+{Y}  You wander about the great central hall of the Central Station. People
+{Y}  are milling about, going here, coming from there, buying tickets, 
+{Y}  hurrying to trains, looking at maps, sleeping in quiet corners.  Through
+{Y}  the great bay windows to the south you can see Station Square, teeming
+{Y}  with people, hauling taxis, jumping on buses and trains or just walking
+{Y}  about.{b}
+
+~
+181 0 0
+D0
+~
+~
+0 -1 18107
+D1
+~
+~
+0 -1 18103
+D3
+~
+~
+0 -1 18109
+Z3
+C-1
+R0
+S
+#18107
+{R}Waiting in line{b}~
+
+{R}  You find yourself standing in a line, with tourists milling about you.
+{R}  You wonder what they are all so anxious about?  Some of the people around
+{R}  you are whispering in excited voices among each other, in clear anticipation
+{R}  of something.  Still, this mucking about is getting boring.  When is it
+{R}  going to be your turn to come to the counter you can see a bit further up
+{R}  north? And, what would they be selling tickets to?{b}
+
+~
+181 0 0
+D0
+~
+~
+0 -1 18108
+D2
+~
+~
+0 -1 18106
+Z3
+C-1
+R0
+S
+#18108
+{Y,BO}Ticket Booth{b}~
+
+{R,BO}  Finally! You made it to the end of the line!  This booth sure looks like a
+{R,BO}  strange place to sell tickets to anything though....  VERY revealing 
+{R,BO}  pictures of men and women adorn the walls and the whole room is enveloped
+{R,BO}  in a subdued red light.....{b}
+
+~
+181 0 0
+D2
+~
+~
+0 -1 18107
+Z3
+C-1
+R0
+S
+#18109
+{Y}Central Station{b}~
+
+{Y}  You wander about the great central hall of the Central Station. People
+{Y}  are milling about, going here, coming from there, buying tickets, 
+{Y}  hurrying to trains, looking at maps, sleeping in quiet corners.  Through
+{Y}  the great bay windows to the south you can see Station Square, teeming
+{Y}  with people, hauling taxis, jumping on buses and trains or just walking
+{Y}  about.{b}
+
+~
+181 0 0
+D0
+~
+~
+0 -1 18110
+D1
+~
+~
+0 -1 18106
+Z3
+C-1
+R0
+S
+#18110
+{R}Waiting in line{b}~
+
+{R}  You find yourself standing in a line, with tourists milling about you.
+{R}  You wonder what they are all so anxious about?  Some of the people around
+{R}  you are whispering in excited voices among each other, in clear anticipation
+{R}  of something.  Still, this mucking about is getting boring.  When is it
+{R}  going to be your turn to come to the counter you can see a bit further up
+{R}  north? And, what would they be selling tickets to?{b}
+
+~
+181 0 0
+D0
+~
+~
+0 -1 18111
+D2
+~
+~
+0 -1 18109
+Z3
+C-1
+R0
+S
+#18111
+{Y,BO}Ticket Booth{b}~
+
+{C}  Finally! You made it to the end of the line.  No more irritating tourists
+{C}  that keep you from signing up for your dream-tour of Amsterdam, the trip
+{C}  you've wanted to take all your life, to float down the canals, see the
+{C}  city in a unique way, visit the famous locations, the museums, just
+{C}  EVERYTHING! And, oh boy!, that is the way to start this trip when you
+{C}  discover the lusty redhead on the other side of the counter, ready to
+{C}  sell you your ticket!{b}
+
+~
+181 128 0
+D2
+~
+~
+0 -1 18110
+Z3
+C-1
+R0
+S
+#18112
+{Y,BO}Station Square{b}~
+
+{Y}  You are standing on the large square in front of Central station.
+{Y}  People from all nationalities surround you and seem to know where
+{Y}  they are going.  You see a band playing in a corner of the square,
+{Y}  jugglers in another corner, a fire eater is catching a lot of 
+{Y}  attention in the center of the square and some seedy looking 
+{Y}  characters slink their way in and out of the crowds.{b}
+
+~
+181 0 1
+D0
+~
+~
+0 -1 18101
+D1
+~
+~
+0 -1 18115
+D2
+~
+~
+0 -1 18119
+D3
+~
+~
+0 -1 18113
+Z3
+C-1
+R0
+S
+#18113
+{Y,BO}Station Square{b}~
+
+{Y}  You are standing on the large square in front of Central station.
+{Y}  People from all nationalities surround you and seem to know where
+{Y}  they are going.  You see a band playing in a corner of the square,
+{Y}  jugglers in another corner, a fire eater is catching a lot of 
+{Y}  attention in the center of the square and some seedy looking 
+{Y}  characters slink their way in and out of the crowds.{b}
+
+~
+181 0 1
+D1
+~
+~
+0 -1 18112
+D2
+~
+~
+0 -1 18118
+D3
+~
+~
+0 -1 18114
+Z3
+C-1
+R0
+S
+#18114
+{Y,BO}Station Square{b}~
+
+{Y}  You are standing on the large square in front of Central station.
+{Y}  People from all nationalities surround you and seem to know where
+{Y}  they are going.  You see a band playing in a corner of the square,
+{Y}  jugglers in another corner, a fire eater is catching a lot of 
+{Y}  attention in the center of the square and some seedy looking 
+{Y}  characters slink their way in and out of the crowds.{b}
+
+~
+181 0 1
+D1
+~
+~
+0 -1 18113
+D2
+~
+~
+0 -1 18117
+Z3
+C-1
+R0
+S
+#18115
+{Y,BO}Station Square{b}~
+
+{Y}  You are standing on the large square in front of Central station.
+{Y}  People from all nationalities surround you and seem to know where
+{Y}  they are going.  You see a band playing in a corner of the square,
+{Y}  jugglers in another corner, a fire eater is catching a lot of 
+{Y}  attention in the center of the square and some seedy looking 
+{Y}  characters slink their way in and out of the crowds.{b}
+
+~
+181 0 1
+D1
+~
+~
+0 -1 18116
+D2
+~
+~
+0 -1 18120
+D3
+~
+~
+0 -1 18112
+Z3
+C-1
+R0
+S
+#18116
+{Y,BO}Station Square{b}~
+
+{Y}  You are standing on the large square in front of Central station.
+{Y}  People from all nationalities surround you and seem to know where
+{Y}  they are going.  You see a band playing in a corner of the square,
+{Y}  jugglers in another corner, a fire eater is catching a lot of 
+{Y}  attention in the center of the square and some seedy looking 
+{Y}  characters slink their way in and out of the crowds.{b}
+
+~
+181 0 1
+D2
+~
+~
+0 -1 18121
+D3
+~
+~
+0 -1 18115
+D5
+The doors to the Metropolitan transportation system
+appear to be in a state of disuse.  Rust is forming on the
+once shiney metal automatic doors.
+~
+Metro~
+4 18102 18124
+Z3
+C-1
+R0
+S
+#18117
+{Y,BO}Station Square{b}~
+
+{Y}  You are standing on the large square in front of Central station.
+{Y}  People from all nationalities surround you and seem to know where
+{Y}  they are going.  You see a band playing in a corner of the square,
+{Y}  jugglers in another corner, a fire eater is catching a lot of 
+{Y}  attention in the center of the square and some seedy looking 
+{Y}  characters slink their way in and out of the crowds.{b}
+
+~
+181 0 1
+D0
+~
+~
+0 -1 18114
+D1
+~
+~
+0 -1 18118
+D3
+A canalboat is moored to the quay here.
+~
+boat~
+2 18103 18123
+Z3
+C-1
+R0
+S
+#18118
+{Y,BO}Station Square{b}~
+
+{Y}  You are standing on the large square in front of Central station.
+{Y}  People from all nationalities surround you and seem to know where
+{Y}  they are going.  You see a band playing in a corner of the square,
+{Y}  jugglers in another corner, a fire eater is catching a lot of 
+{Y}  attention in the center of the square and some seedy looking 
+{Y}  characters slink their way in and out of the crowds.{b}
+
+~
+181 0 1
+D0
+~
+~
+0 -1 18113
+D1
+~
+~
+0 -1 18119
+D2
+~
+~
+0 -1 18125
+D3
+~
+~
+0 -1 18117
+Z3
+C-1
+R0
+S
+#18119
+{Y,BO}Station Square{b}~
+
+{Y}  You are standing on the large square in front of Central station.
+{Y}  People from all nationalities surround you and seem to know where
+{Y}  they are going.  You see a band playing in a corner of the square,
+{Y}  jugglers in another corner, a fire eater is catching a lot of 
+{Y}  attention in the center of the square and some seedy looking 
+{Y}  characters slink their way in and out of the crowds.{b}
+
+~
+181 0 1
+D0
+~
+~
+0 -1 18112
+D1
+~
+~
+0 -1 18120
+D3
+~
+~
+0 -1 18118
+Z3
+C-1
+R0
+S
+#18120
+{Y,BO}Station Square{b}~
+
+{Y}  You are standing on the large square in front of Central station.
+{Y}  People from all nationalities surround you and seem to know where
+{Y}  they are going.  You see a band playing in a corner of the square,
+{Y}  jugglers in another corner, a fire eater is catching a lot of 
+{Y}  attention in the center of the square and some seedy looking 
+{Y}  characters slink their way in and out of the crowds.{b}
+
+~
+181 0 1
+D0
+~
+~
+0 -1 18115
+D1
+~
+~
+0 -1 18121
+D2
+You see a tram standing at platform 5, it is going to the Zoo!
+~
+tram~
+2 18101 18122
+D3
+~
+~
+0 -1 18119
+Z3
+C-1
+R0
+S
+#18121
+{Y,BO}Station Square{b}~
+
+{Y}  You are standing on the large square in front of Central station.
+{Y}  People from all nationalities surround you and seem to know where
+{Y}  they are going.  You see a band playing in a corner of the square,
+{Y}  jugglers in another corner, a fire eater is catching a lot of 
+{Y}  attention in the center of the square and some seedy looking 
+{Y}  characters slink their way in and out of the crowds.{b}
+
+~
+181 0 1
+D0
+~
+~
+0 -1 18116
+D3
+~
+~
+0 -1 18120
+Z3
+C-1
+R0
+S
+#18122
+{G,BO}In the Tram{b}~
+
+{G,BO}  As you enter the tram, it leaves the station and you can see the
+{G,BO}  city go by the windows.  There's the Mint!  And there's the Palace!
+{G,BO}  It goes slow enough so that you can get a good impression of the
+{G,BO}  city, but still fast enough to get you to your destination quickly.
+{G,BO}  After a fifteen minute ride, the driver yells:{b}
+
+{G,BO}  ARTIS! ARTIS!   Everybody that is going to the Zoo.
+{G,BO}  Leave the tram please!{b}
+
+~
+181 4 1
+D0
+~
+~
+0 -1 18120
+D1
+~
+~
+0 -1 28501
+Z3
+C-1
+R0
+S
+#18123
+{C}In the Canalboat{b}~
+
+{C}  The sights of Amsterdam slowly pass on the other side of the window,
+{C}  the tour-operators voice is a continuous drone that is making you sleepy.
+{C}  The gentle lapping of the waves against the side of the boat doesn't
+{C}  help much in reducing the sense of comfort and happiness that is slowly
+{C}  descending on you.
+
+{R}  And to you right you see the house where Anne Frank hid during the 
+{R}  Second World War.  That is where she wrote her diary and ......."
+{R}  Almost wakes you up.
+
+{Y}  We have arranged a tour of the house, which comes with this trip.
+{Y}  I will see you in the boat for the rest of the trip after a visit
+{Y}  to the house."{b}
+
+~
+181 4 1
+D0
+~
+~
+0 -1 28400
+Z3
+C-1
+R0
+S
+#18124
+{R,BO}Entrance to the Metro{b}~
+
+{R,BO}  You quickly turn around as you hear the sound of the door to
+{R,BO}  the Metro slide closed behind you.  It is locked!  You can't
+{R,BO}  go back the way you came....  When you look around you, you 
+{R,BO}  can see that the metro isn't in too great a shape.  The rails
+{R,BO}  are bent and it makes you seriously doubt whether you'll see
+{R,BO}  a train appearing here.....{b}
+
+~
+181 4194437 1
+D0
+~
+~
+0 -1 28531
+Z3
+C-1
+R0
+S
+#18125
+{Y}Damrak{b}~
+
+{Y}  This is the Damrak, the main street that leads from the station
+{Y}  into town.  It ends on the Dam, and you see a steady stream of
+{Y}  people moving up and down this busy street.{b}
+
+~
+181 0 1
+D0
+~
+~
+0 -1 18118
+D2
+~
+~
+0 -1 18126
+Z3
+C-1
+R0
+S
+#18126
+{Y}Damrak{b}~
+
+{Y}  This is the Damrak, the main street that leads from the station
+{Y}  into town.  It ends on the Dam, and you see a steady stream of
+{Y}  people moving up and down this busy street.{b}
+
+~
+181 0 1
+D0
+~
+~
+0 -1 18125
+D2
+~
+~
+0 -1 18127
+Z3
+C-1
+R0
+S
+#18127
+{Y}Damrak{b}~
+
+{Y}  This is the Damrak, the main street that leads from the station
+{Y}  into town.  It ends on the Dam, and you see a steady stream of
+{Y}  people moving up and down this busy street.{b}
+
+~
+181 0 1
+D0
+~
+~
+0 -1 18126
+D2
+~
+~
+0 -1 18128
+Z3
+C-1
+R0
+S
+#18128
+{C}The Dam{b}~
+
+{C}  This is the Dam!  The central square of the city of Amsterdam.  In its
+{C}  center you can see a large fountain, where people are playing games,
+{C}  just enjoying the day or selling stuff.  On the west side of the Dam
+{C}  you can see the {Y,BO}Royal Palace {b}{C}on the Dam, and to the south you see the
+{C}  shopping district.{b}
+
+~
+181 0 1
+D0
+~
+~
+0 -1 18127
+D1
+~
+~
+0 -1 18129
+D3
+~
+~
+0 -1 18130
+Z3
+C-1
+R0
+S
+#18129
+{C}The Dam{b}~
+
+{C}  This is the Dam!  The central square of the city of Amsterdam.  In its
+{C}  center you can see a large fountain, where people are playing games,
+{C}  just enjoying the day or selling stuff.  On the west side of the Dam
+{C}  you can see the {Y,BO}Royal Palace {b}{C}on the Dam, and to the south you see the
+{C}  shopping district.{b}
+
+~
+181 0 1
+D3
+~
+~
+0 -1 18128
+Z3
+C-1
+R0
+S
+#18130
+{C}The Dam{b}~
+
+{C}  This is the Dam!  The central square of the city of Amsterdam.  In its
+{C}  center you can see a large fountain, where people are playing games,
+{C}  just enjoying the day or selling stuff.  On the west side of the Dam
+{C}  you can see the {Y,BO}Royal Palace {b}{C}on the Dam, and to the south you see the
+{C}  shopping district.{b}
+
+~
+181 0 1
+D1
+~
+~
+0 -1 18128
+D2
+~
+~
+0 -1 18132
+D3
+The entrance to the Palace on the Dam.
+~
+Entrance~
+2 18106 18131
+Z3
+C-1
+R0
+S
+#18131
+{Y,BO}Palace Entrance{b}~
+
+{Y,BO}  You have entered the palace on the Dam.  It is said that the royal
+{Y,BO}  family occasionally resides in this palace.  The other thing that
+{Y,BO}  you have heard about this family is that they immensely wealthy.
+{Y,BO}  The room itself is lavishly decorated, and the common theme seems to
+{Y,BO}  be gold.  To the north you can see a reception area, and a grand
+{Y,BO}  staircase to the west.{b}
+
+~
+181 20971524 0
+D0
+~
+~
+0 -1 18178
+D1
+~
+Entrance~
+1 -1 18130
+D2
+~
+door~
+1 -1 18179
+D3
+~
+~
+0 -1 18160
+Z3
+C-1
+R0
+S
+#18132
+{G}The Kalverstraat{b}~
+
+{G}  This is the Kalverstraat, the main shopping street.  You see shops
+{G}  everywhere, people milling about, it is busy, busy, busy!
+{G}  Everyone seems to think of only one thing!  Buy, Buy, Buy!{b}
+
+~
+181 0 1
+D0
+~
+~
+0 -1 18130
+D2
+~
+~
+0 -1 18133
+Z3
+C-1
+R0
+S
+#18133
+{G}The Kalverstraat{b}~
+
+{G}  This is the Kalverstraat, the main shopping street.  You see shops
+{G}  everywhere, people milling about, it is busy, busy, busy!
+{G}  Everyone seems to think of only one thing!  Buy, Buy, Buy!{b}
+
+~
+181 0 1
+D0
+~
+~
+0 -1 18132
+D1
+Max's diamonds!  For the best cut stones see Max!
+~
+door~
+2 18108 18138
+D2
+~
+~
+0 -1 18134
+D3
+~
+~
+0 -1 18137
+Z3
+C-1
+R0
+S
+#18134
+{G}The Kalverstraat{b}~
+
+{G}  This is the Kalverstraat, the main shopping street.  You see shops
+{G}  everywhere, people milling about, it is busy, busy, busy!
+{G}  Everyone seems to think of only one thing!  Buy, Buy, Buy!{b}
+
+~
+181 0 1
+D0
+~
+~
+0 -1 18133
+D2
+~
+~
+0 -1 18135
+Z3
+C-1
+R0
+S
+#18135
+{G}The Kalverstraat{b}~
+
+{G}  This is the Kalverstraat, the main shopping street.  You see shops
+{G}  everywhere, people milling about, it is busy, busy, busy!
+{G}  Everyone seems to think of only one thing!  Buy, Buy, Buy!{b}
+
+~
+181 0 1
+D0
+~
+~
+0 -1 18134
+D1
+~
+~
+0 -1 18141
+D2
+~
+~
+0 -1 18136
+D3
+~
+~
+0 -1 18140
+Z3
+C-1
+R0
+S
+#18136
+{G}The Kalverstraat{b}~
+
+{G}  This is the Kalverstraat, the main shopping street.  You see shops
+{G}  everywhere, people milling about, it is busy, busy, busy!
+{G}  Everyone seems to think of only one thing!  Buy, Buy, Buy!{b}
+
+~
+181 0 1
+D0
+~
+~
+0 -1 18135
+D2
+~
+~
+0 -1 18142
+Z3
+C-1
+R0
+S
+#18137
+{M}Gizzy's Contemporary Wear{b}~
+
+{M}  Gizzy's shop is amazing!  You can find anything you would want to
+{M}  wear in this place!  That is, if you like bell-bottom jeans, frilly
+{M}  see-through pajama's or a hat covered in exotic fruits.  {b}
+
+{M,BO}  Gizzy herself is a walking advertisement of the wares she sells.....{b}
+
+~
+181 128 0
+D1
+~
+~
+0 -1 18133
+Z3
+C-1
+R0
+S
+#18138
+{C,BO}Max's Diamond Cutters{b}~
+
+{C}  This looks like a diamond shop.  Everything is very clean and orderly,
+{C}  which is not very surprising, as you wouldn't want to lose a diamond or 
+{C}  two in a mess......    As you look around, you notice a security guard
+{C}  keeping a close eye on you, making sure you leave everything in place.
+{C}  Max himself is a cheerful and happy man, obviously doing very well and
+{C}  he seems very willing to help you, still, there's something secretive
+{C}  about him that you can't quite make out.....{b}
+
+~
+181 4 0
+D3
+~
+door~
+1 -1 18133
+D5
+~
+secret~
+7 4 18139
+Z3
+C-1
+R0
+S
+#18139
+{C}Max's Hideout{b}~
+
+{C,BO}  This is the room where Max keeps his treasures!{b}
+
+~
+181 128 1
+D4
+~
+secret~
+1 -1 18138
+Z3
+C-1
+R0
+S
+#18140
+{R}Archie's Art Corner{b}~
+
+{R}  A veritable mess!  Old pieces of furniture everywhere! 
+
+{R}  What to think of a place like this?  What could one possibly want
+{R}  with all this old junk?  And Archie's not much better looking
+{R}  than his shop.{b}
+
+~
+181 128 0
+D1
+~
+~
+0 -1 18135
+Z3
+C-1
+R0
+S
+#18141
+{Y}Basil's Breadpalace{b}~
+
+{Y}  Loafs of bread EVERYWHERE.  All kinds of 'm!
+
+{Y}  They are stacked to the ceiling and there's so much choice that your
+{Y}  mouth begins to water....  FOOD!!!{b}
+
+~
+181 128 0
+D3
+~
+~
+0 -1 18135
+Z3
+C-1
+R0
+S
+#18142
+{C}Rich's, First Floor{b}~
+
+{BLU,BO}  You find yourself in a gigantic department store.  They must sell
+{BLU,BO}  everything here!  And you are not the only one who thinks they can
+{BLU,BO}  find what they need in here.
+
+{BLU,BO}  Friendly sales-clerks direct the customers to the places where they
+{BLU,BO}  can purchase that which they have come for.{b}
+
+~
+181 0 0
+D0
+~
+~
+0 -1 18136
+D1
+~
+~
+0 -1 18147
+D2
+~
+~
+0 -1 18145
+D3
+~
+~
+0 -1 18143
+Z3
+C-1
+R0
+S
+#18143
+{C}Rich's, First Floor{b}~
+
+{BLU,BO}  You find yourself in a gigantic department store.  They must sell
+{BLU,BO}  everything here!  And you are not the only one who thinks they can
+{BLU,BO}  find what they need in here.
+
+{BLU,BO}  Friendly sales-clerks direct the customers to the places where they
+{BLU,BO}  can purchase that which they have come for.{b}
+
+~
+181 0 0
+D1
+~
+~
+0 -1 18142
+D2
+~
+~
+0 -1 18144
+D3
+~
+~
+0 -1 18148
+Z3
+C-1
+R0
+S
+#18144
+{C}Rich's, First Floor{b}~
+
+{BLU,BO}  You find yourself in a gigantic department store.  They must sell
+{BLU,BO}  everything here!  And you are not the only one who thinks they can
+{BLU,BO}  find what they need in here.
+
+{BLU,BO}  Friendly sales-clerks direct the customers to the places where they
+{BLU,BO}  can purchase that which they have come for.{b}
+
+~
+181 0 0
+D0
+~
+~
+0 -1 18143
+D1
+~
+~
+0 -1 18145
+Z3
+C-1
+R0
+S
+#18145
+{C}Rich's, First Floor{b}~
+
+{BLU,BO}  You find yourself in a gigantic department store.  They must sell
+{BLU,BO}  everything here!  And you are not the only one who thinks they can
+{BLU,BO}  find what they need in here.
+
+{BLU,BO}  Friendly sales-clerks direct the customers to the places where they
+{BLU,BO}  can purchase that which they have come for.{b}
+
+~
+181 0 0
+D0
+~
+~
+0 -1 18142
+D1
+~
+~
+0 -1 18146
+D3
+~
+~
+0 -1 18144
+Z3
+C-1
+R0
+S
+#18146
+{C}Rich's, First Floor{b}~
+
+{BLU,BO}  You find yourself in a gigantic department store.  They must sell
+{BLU,BO}  everything here!  And you are not the only one who thinks they can
+{BLU,BO}  find what they need in here.
+
+{BLU,BO}  Friendly sales-clerks direct the customers to the places where they
+{BLU,BO}  can purchase that which they have come for.{b}
+
+~
+181 0 0
+D0
+~
+~
+0 -1 18147
+D1
+~
+~
+0 -1 18149
+D3
+~
+~
+0 -1 18145
+Z3
+C-1
+R0
+S
+#18147
+{C}Rich's, First Floor{b}~
+
+{BLU,BO}  You find yourself in a gigantic department store.  They must sell
+{BLU,BO}  everything here!  And you are not the only one who thinks they can
+{BLU,BO}  find what they need in here.
+
+{BLU,BO}  Friendly sales-clerks direct the customers to the places where they
+{BLU,BO}  can purchase that which they have come for.{b}
+
+~
+181 0 0
+D2
+~
+~
+0 -1 18146
+D3
+~
+~
+0 -1 18142
+Z3
+C-1
+R0
+S
+#18148
+{G}The John{b}~
+
+{Y}  Just another bathroom.....{b}
+
+~
+181 128 1
+D1
+~
+~
+0 -1 18143
+Z3
+C-1
+R0
+S
+#18149
+{BLA,BO}Ele{C}v{BLA}a{C,BO}t{BLA}or{b}~
+
+{BLA,BO}  You are in an elevator going to the second floor of the store.
+{BLA,BO}  A voice fills the elevator and informs you that you will be able
+{BLA,BO}  to find the {R,BO}hardware department{BLA,BO}, oils and {C}potions {BLA,BO}and everything
+{BLA,BO}  you wish for in leather on that floor.{b}
+
+~
+181 0 0
+D3
+~
+~
+0 -1 18150
+Z3
+C-1
+R0
+S
+#18150
+{BLU,BO}Rich's, Second floor{b}~
+
+{R,BO}  You find yourself in a gigantic department store.  They must sell
+{R,BO}  everything here!  And you are not the only one who thinks they can
+{R,BO}  find what they need in here.{b}
+
+{R,BO}  Friendly sales-clerks direct the customers to the places where they
+{R,BO}  can purchase that which they have come for.{b}
+
+~
+181 0 0
+D0
+~
+~
+0 -1 18152
+D1
+~
+~
+0 -1 18151
+D3
+~
+~
+0 -1 18156
+Z3
+C-1
+R0
+S
+#18151
+{BLA,BO}Ele{C}v{BLA}a{C}t{BLA}or{b}~
+
+{BLA,BO}  You are in an elevator going down to the first floor of the store.
+{BLA,BO}  A voice fills the elevator and informs you that you will be able
+{BLA,BO}  to find the {G,BO}clothing department{BLA}, {WH,BO}kitchen appliances {BLA}and the 
+{BLA,BO}  ultimate in hi-fi equipment on that floor.{b}
+
+~
+181 0 0
+D3
+~
+~
+0 -1 18146
+Z3
+C-1
+R0
+S
+#18152
+{BLU,BO}Rich's, Second floor{b}~
+
+{R,BO}  You find yourself in a gigantic department store.  They must sell
+{R,BO}  everything here!  And you are not the only one who thinks they can
+{R,BO}  find what they need in here.{b}
+
+{R,BO}  Friendly sales-clerks direct the customers to the places where they
+{R,BO}  can purchase that which they have come for.{b}
+
+~
+181 0 0
+D2
+~
+~
+0 -1 18150
+D3
+~
+~
+0 -1 18153
+Z3
+C-1
+R0
+S
+#18153
+{BLU,BO}Rich's, Second floor{b}~
+
+{R,BO}  You find yourself in a gigantic department store.  They must sell
+{R,BO}  everything here!  And you are not the only one who thinks they can
+{R,BO}  find what they need in here.{b}
+
+{R,BO}  Friendly sales-clerks direct the customers to the places where they
+{R,BO}  can purchase that which they have come for.{b}
+
+~
+181 0 0
+D1
+~
+~
+0 -1 18152
+D2
+~
+~
+0 -1 18156
+D3
+~
+~
+0 -1 18154
+Z3
+C-1
+R0
+S
+#18154
+{R,BO}Department Store, Second Floor{b}~
+
+{R,BO}  You find yourself in a gigantic department store.  They must sell
+{R,BO}  everything here!  And you are not the only one who thinks they can
+{R,BO}  find what they need in here.
+
+{R,BO}  Friendly sales-clerks direct the customers to the places where they
+{R,BO}  can purchase that which they have come for.{b}
+
+~
+181 8320 0
+D1
+~
+~
+0 -1 18153
+D2
+~
+~
+0 -1 18155
+Z3
+C-1
+R0
+S
+#18155
+{BLU,BO}Rich's, Second floor{b}~
+
+{R,BO}  You find yourself in a gigantic department store.  They must sell
+{R,BO}  everything here!  And you are not the only one who thinks they can
+{R,BO}  find what they need in here.{b}
+
+{R,BO}  Friendly sales-clerks direct the customers to the places where they
+{R,BO}  can purchase that which they have come for.{b}
+
+~
+181 0 0
+D0
+~
+~
+0 -1 18154
+D1
+~
+~
+0 -1 18156
+D2
+A small plate says "Manager"
+~
+door~
+1 -1 18157
+Z3
+C-1
+R0
+S
+#18156
+{BLU,BO}Rich's, Second floor{b}~
+
+{R,BO}  You find yourself in a gigantic department store.  They must sell
+{R,BO}  everything here!  And you are not the only one who thinks they can
+{R,BO}  find what they need in here.{b}
+
+{R,BO}  Friendly sales-clerks direct the customers to the places where they
+{R,BO}  can purchase that which they have come for.{b}
+
+~
+181 0 0
+D0
+~
+~
+0 -1 18153
+D1
+~
+~
+0 -1 18150
+D3
+~
+~
+0 -1 18155
+Z3
+C-1
+R0
+S
+#18157
+{BLA,BO}The Manager's Office{b}~
+
+{C}  A very clean and cozy office.  It is clear that whoever is in
+{C}  charge of this place has his things in order.
+
+{Y,BO}  There is a small safe standing behind the desk, the walls are
+{Y,BO}  covered with company awards for Best Manager of the Year.{b}
+
+~
+181 16777344 0
+D0
+~
+door~
+1 -1 18155
+Z3
+C-1
+R0
+S
+#18158
+{M}The {M,BO}Queen's {b}{M}Bedroom{b}~
+
+{M}  The Queens Bedroom is a richly decorated room, the center-piece of which
+{M}  is formed by a gigantic bed, on which the queen is being entertained....
+{M}  Being of young years and actually the Kings second wife, she has to find
+{M}  her entertainment elsewhere.  The beautiful young queen has numerous 
+{M}  admirers in her court, most of which have come to know her intimately....{b}
+
+~
+181 4194440 0
+D1
+~
+~
+0 -1 18176
+Z3
+C-1
+R0
+S
+#18159
+{M}The {Y,BO}King's {b}{M}Bedroom{b}~
+
+{M}  The King's bedroom is a sparsely furnished room that only contains a
+{M}  small, wooden bed and an old desk.  It exhibits the weariness that
+{M}  the old king feels whenever he thinks about those that are dearest
+{M}  to him.{b}
+
+~
+181 4194312 0
+D3
+~
+~
+0 -1 18177
+Z3
+C-1
+R0
+S
+#18160
+{Y,BO}The Staircase{b}~
+
+{Y,BO}  In front of you a grand and ornately carved stairway curves up to
+{Y,BO}  the second floor of the palace.  It looks like there's bedrooms and
+{Y,BO}  more real living areas up there.  To the north, south and west you
+{Y,BO}  see hallways leading of into the unknown.{b}
+
+~
+181 4194312 0
+D0
+~
+~
+0 -1 18165
+D1
+~
+~
+0 -1 18131
+D2
+~
+~
+0 -1 18161
+D3
+~
+~
+0 -1 18169
+D4
+~
+~
+0 -1 18173
+Z3
+C-1
+R0
+S
+#18161
+{Y,BO}A Hallway in the Palace{b}~
+
+{Y,BO}  You are walking in a hallway in the palace, your feet sink deep
+{Y,BO}  into the thick carpet.  Paintings line the walls and you can see
+{Y,BO}  doors on either side of you.{b}
+
+~
+181 4194312 0
+D0
+~
+~
+0 -1 18160
+D2
+~
+~
+0 -1 18162
+Z3
+C-1
+R0
+S
+#18162
+{Y,BO}A Hallway in the Palace{b}~
+
+{Y,BO}  You are walking in a hallway in the palace, your feet sink deep
+{Y,BO}  into the thick carpet.  Paintings line the walls and you can see
+{Y,BO}  doors on either side of you.{b}
+
+~
+181 4194312 0
+D0
+~
+~
+0 -1 18161
+D2
+~
+~
+0 -1 18163
+Z3
+C-1
+R0
+S
+#18163
+{Y,BO}A Hallway in the Palace{b}~
+
+{Y,BO}  You are walking in a hallway in the palace, your feet sink deep
+{Y,BO}  into the thick carpet.  Paintings line the walls and you can see
+{Y,BO}  doors on either side of you.{b}
+
+~
+181 4194312 0
+D0
+~
+~
+0 -1 18162
+D2
+~
+~
+0 -1 18164
+D3
+~
+~
+0 -1 18185
+Z3
+C-1
+R0
+S
+#18164
+{Y,BO}A Hallway in the Palace{b}~
+
+{Y,BO}  You are walking in a hallway in the palace, your feet sink deep
+{Y,BO}  into the thick carpet.  Paintings line the walls and you can see
+{Y,BO}  doors on either side of you.{b}
+
+~
+181 4194312 0
+D0
+~
+~
+0 -1 18163
+D2
+~
+door~
+1 -1 18180
+Z3
+C-1
+R0
+S
+#18165
+{Y,BO}A Hallway in the Palace{b}~
+
+{Y,BO}  You are walking in a hallway in the palace, your feet sink deep
+{Y,BO}  into the thick carpet.  Paintings line the walls and you can see
+{Y,BO}  doors on either side of you.{b}
+
+~
+181 4194312 0
+D0
+~
+~
+0 -1 18166
+D2
+~
+~
+0 -1 18160
+Z3
+C-1
+R0
+S
+#18166
+{Y,BO}A Hallway in the Palace{b}~
+
+{Y,BO}  You are walking in a hallway in the palace, your feet sink deep
+{Y,BO}  into the thick carpet.  Paintings line the walls and you can see
+{Y,BO}  doors on either side of you.{b}
+
+~
+181 4194312 0
+D0
+~
+~
+0 -1 18167
+D2
+~
+~
+0 -1 18165
+D3
+~
+~
+0 -1 18192
+Z3
+C-1
+R0
+S
+#18167
+{Y,BO}A Hallway in the Palace{b}~
+
+{Y,BO}  You are walking in a hallway in the palace, your feet sink deep
+{Y,BO}  into the thick carpet.  Paintings line the walls and you can see
+{Y,BO}  doors on either side of you.{b}
+
+~
+181 4194312 0
+D0
+~
+~
+0 -1 18168
+D2
+~
+~
+0 -1 18166
+Z3
+C-1
+R0
+S
+#18168
+{Y,BO}A Hallway in the Palace{b}~
+
+{Y,BO}  You are walking in a hallway in the palace, your feet sink deep
+{Y,BO}  into the thick carpet.  Paintings line the walls and you can see
+{Y,BO}  doors on either side of you.{b}
+
+~
+181 4194312 0
+D0
+~
+door~
+1 -1 18181
+D2
+~
+~
+0 -1 18167
+D3
+~
+~
+0 -1 18194
+Z3
+C-1
+R0
+S
+#18169
+{Y,BO}A Hallway in the Palace{b}~
+
+{Y,BO}  You are walking in a hallway in the palace, your feet sink deep
+{Y,BO}  into the thick carpet.  Paintings line the walls and you can see
+{Y,BO}  doors on either side of you.{b}
+
+~
+181 4194312 0
+D1
+~
+~
+0 -1 18160
+D3
+~
+~
+0 -1 18170
+Z3
+C-1
+R0
+S
+#18170
+{Y,BO}A Hallway in the Palace{b}~
+
+{Y,BO}  You are walking in a hallway in the palace, your feet sink deep
+{Y,BO}  into the thick carpet.  Paintings line the walls and you can see
+{Y,BO}  doors on either side of you.{b}
+
+~
+181 4194312 0
+D0
+~
+~
+0 -1 18192
+D1
+~
+~
+0 -1 18169
+D3
+~
+~
+0 -1 18171
+Z3
+C-1
+R0
+S
+#18171
+{Y,BO}A Hallway in the Palace{b}~
+
+{Y,BO}  You are walking in a hallway in the palace, your feet sink deep
+{Y,BO}  into the thick carpet.  Paintings line the walls and you can see
+{Y,BO}  doors on either side of you.{b}
+
+~
+181 4194312 0
+D1
+~
+~
+0 -1 18170
+D3
+~
+~
+0 -1 18172
+Z3
+C-1
+R0
+S
+#18172
+{Y,BO}A Hallway in the Palace{b}~
+
+{Y,BO}  You are walking in a hallway in the palace, your feet sink deep
+{Y,BO}  into the thick carpet.  Paintings line the walls and you can see
+{Y,BO}  doors on either side of you.{b}
+
+~
+181 4194312 0
+D0
+~
+~
+0 -1 18193
+D1
+~
+~
+0 -1 18171
+D3
+~
+door~
+1 -1 18182
+Z3
+C-1
+R0
+S
+#18173
+{Y,BO}Second Floor Hallway{b}~
+
+{Y,BO}  You are walking in a hallway in the palace, your feet sink deep
+{Y,BO}  into the thick carpet.  Paintings line the walls and you can see
+{Y,BO}  doors on either side of you.{b}
+
+~
+181 4194312 0
+D0
+~
+~
+0 -1 18174
+D2
+~
+~
+0 -1 18176
+D5
+~
+~
+0 -1 18160
+Z3
+C-1
+R0
+S
+#18174
+{Y,BO}Second Floor Hallway{b}~
+
+{Y,BO}  You are walking in a hallway in the palace, your feet sink deep
+{Y,BO}  into the thick carpet.  Paintings line the walls and you can see
+{Y,BO}  doors on either side of you.{b}
+
+~
+181 4194312 0
+D0
+~
+~
+0 -1 18175
+D1
+~
+~
+0 -1 18196
+D2
+~
+~
+0 -1 18173
+Z3
+C-1
+R0
+S
+#18175
+{Y,BO}Second Floor Hallway{b}~
+
+{Y,BO}  You are walking in a hallway in the palace, your feet sink deep
+{Y,BO}  into the thick carpet.  Paintings line the walls and you can see
+{Y,BO}  doors on either side of you.{b}
+
+~
+181 4194312 0
+D2
+~
+~
+0 -1 18174
+D3
+~
+~
+0 -1 18198
+Z3
+C-1
+R0
+S
+#18176
+{Y,BO}Second Floor Hallway{b}~
+
+{Y,BO}  You are walking in a hallway in the palace, your feet sink deep
+{Y,BO}  into the thick carpet.  Paintings line the walls and you can see
+{Y,BO}  doors on either side of you.{b}
+
+~
+181 4194312 0
+D0
+~
+~
+0 -1 18173
+D2
+~
+~
+0 -1 18177
+D3
+~
+~
+0 -1 18158
+Z3
+C-1
+R0
+S
+#18177
+{Y,BO}Second Floor Hallway{b}~
+
+{Y,BO}  You are walking in a hallway in the palace, your feet sink deep
+{Y,BO}  into the thick carpet.  Paintings line the walls and you can see
+{Y,BO}  doors on either side of you.{b}
+
+~
+181 4194312 0
+D0
+~
+~
+0 -1 18176
+D1
+~
+~
+0 -1 18159
+Z3
+C-1
+R0
+S
+#18178
+{C}Reception{b}~
+
+{C}  This is the formal reception room of the palace, where guests are
+{C}  received and conferences are held.  A very large table stands in the
+{C}  center of the room, the walls are decorated with the arms of the most
+{C}  important supporters of the King.{b}
+
+~
+181 4194312 0
+D2
+~
+~
+0 -1 18131
+Z3
+C-1
+R0
+S
+#18179
+{BLA,BO}Secret Service{b}~
+
+{BLA,BO}  In this room the secret service keeps an eye on things.  You see
+{BLA,BO}  a man bent over a screen, intent on what is happening on the 
+{BLA,BO}  monitor. What could be so interesting?{b}
+
+~
+181 4194312 0
+D0
+~
+door~
+1 -1 18131
+E
+screen computer monitor~
+When you look at the monitor you see a naked young man 
+grabbing a young girl, reach behind him and yank a strip of
+leather of the bed.  Suddenly he looks straight at you in 
+the camera, says something and the screen goes dark.......
+~
+Z3
+C-1
+R0
+S
+#18180
+{G}The Garden{b}~
+
+{G}  Inside a very lush garden.  It has been meticulously kept.
+{G}  You can see {WH,BO}e{Y}x{WH}o{Y}t{WH}i{Y}c {R}f{Y}l{WH}o{M}w{R}e{Y}r{M}s{b}{G}, trees, {WH,BO}statues {b}{G}and a {C}fountain
+{G}  or two.  A little ways away you see the {M}Royal Stable{G}.{b}
+
+~
+181 4194304 2
+D0
+~
+~
+0 -1 18182
+D1
+~
+~
+0 -1 18182
+D2
+~
+~
+0 -1 18183
+D3
+~
+~
+0 -1 18181
+Z3
+C-1
+R0
+S
+#18181
+{G}The Garden{b}~
+
+{G}  Inside a very lush garden.  It has been meticulously kept.
+{G}  You can see {WH,BO}e{Y}x{WH}o{Y}t{WH}i{Y}c {R}f{Y}l{WH}o{M}w{R}e{Y}r{M}s{b}{G}, trees, {WH,BO}statues {b}{G}and a {C}fountain
+{G}  or two.  A little ways away you see the {M}Royal Stable{G}.{b}
+
+~
+181 4194304 2
+D0
+~
+~
+0 -1 18194
+D1
+~
+~
+0 -1 18180
+D2
+~
+door~
+1 -1 18168
+D3
+~
+~
+0 -1 18182
+Z3
+C-1
+R0
+S
+#18182
+{G}The Garden{b}~
+
+{G}  Inside a very lush garden.  It has been meticulously kept.
+{G}  You can see {WH,BO}e{Y}x{WH}o{Y}t{WH}i{Y}c {R}f{Y}l{WH}o{M}w{R}e{Y}r{M}s{b}{G}, trees, {WH,BO}statues {b}{G}and a {C}fountain
+{G}  or two.  A little ways away you see the {M}Royal Stable{G}.{b}
+
+~
+181 4194304 2
+D0
+~
+~
+0 -1 18183
+D1
+~
+door~
+1 -1 18172
+D2
+~
+~
+0 -1 18180
+D3
+~
+~
+0 -1 18181
+Z3
+C-1
+R0
+S
+#18183
+{G}The Garden{b}~
+
+{G}  Inside a very lush garden.  It has been meticulously kept.
+{G}  You can see {WH,BO}e{Y}x{WH}o{Y}t{WH}i{Y}c {R}f{Y}l{WH}o{M}w{R}e{Y}r{M}s{b}{G}, trees, {WH,BO}statues {b}{G}and a {C}fountain
+{G}  or two.  A little ways away you see the {M}Royal Stable{G}.{b}
+
+~
+181 4194304 2
+D0
+~
+Stable~
+3 -1 18184
+D1
+~
+~
+0 -1 18181
+D2
+~
+~
+0 -1 18180
+D3
+~
+~
+0 -1 18182
+Z3
+C-1
+R0
+S
+#18184
+{M}The Royal Stable{b}~
+
+{BLA,BO}  These are the royal stables!   You see the beautiful black horses,
+{BLA,BO}  famed for pulling the Golden Coach every year.
+
+{Y,BO}  OH!!!!! LOOK!!!!!   There's the golden coach itself!!!!
+{Y,BO}  You can hardly believe your eyes.....  All that gold!!!!!{b}
+
+~
+181 4194304 0
+D2
+~
+Stable~
+1 -1 18183
+Z3
+C-1
+R0
+S
+#18185
+{WH,BO}The {b}{M}Royal {WH,BO}Kitchen{b}~
+
+{WH,BO}  This is the royal kitchen, food everywhere!  Pots and pans and many
+{WH,BO}  many cooks and apprentices running around.
+
+{WH,BO}  You can see the Chief Cook milling his spatula around, ordering
+{WH,BO}  his apprentices around.  You can see some palace servants leaving
+{WH,BO}  the kitchen through a small door in the back wall.{b}
+
+~
+181 4194304 0
+D0
+~
+~
+0 -1 18186
+D1
+~
+~
+0 -1 18163
+Z3
+C-1
+R0
+S
+#18186
+{WH,BO}The {b}{M}Royal {WH,BO}Kitchen{b}~
+
+{WH,BO}  This is the royal kitchen, food everywhere!  Pots and pans and many
+{WH,BO}  many cooks and apprentices running around.
+
+{WH,BO}  You can see the Chief Cook milling his spatula around, ordering
+{WH,BO}  his apprentices around.  You can see some palace servants leaving
+{WH,BO}  the kitchen through a small door in the back wall.{b}
+
+~
+181 4194304 0
+D2
+~
+~
+0 -1 18185
+D3
+~
+~
+0 -1 18187
+Z3
+C-1
+R0
+S
+#18187
+{Y}Servants' Passage{b}~
+
+{C}  It is a rather dull looking passage, servants use it to bring food
+{C}  and services around the palace without being noticed.
+
+{C}  There are branches going everywhere.....  They must lead to the 
+{C}  different parts of the palace.{b}
+
+~
+181 4194312 0
+D0
+~
+~
+0 -1 18188
+D1
+~
+~
+0 -1 18186
+D2
+~
+~
+0 -1 18190
+D3
+~
+~
+0 -1 18189
+D4
+~
+~
+0 -1 18191
+Z3
+C-1
+R0
+S
+#18188
+{Y}Servants' Passage{b}~
+
+{C}  It is a rather dull looking passage, servants use it to bring food
+{C}  and services around the palace without being noticed.
+
+{C}  There are branches going everywhere.....  They must lead to the 
+{C}  different parts of the palace.{b}
+
+~
+181 4194312 0
+D0
+~
+~
+0 -1 18194
+D1
+~
+~
+0 -1 18178
+D2
+~
+~
+0 -1 18187
+D3
+~
+~
+0 -1 18192
+Z3
+C-1
+R0
+S
+#18189
+{Y}Servants' Passage{b}~
+
+{C}  It is a rather dull looking passage, servants use it to bring food
+{C}  and services around the palace without being noticed.
+
+{C}  There are branches going everywhere.....  They must lead to the 
+{C}  different parts of the palace.{b}
+
+~
+181 4194312 0
+D0
+~
+~
+0 -1 18193
+D1
+~
+~
+0 -1 18187
+Z3
+C-1
+R0
+S
+#18190
+{Y}Servants' Passage{b}~
+
+{C}  It is a rather dull looking passage, servants use it to bring food
+{C}  and services around the palace without being noticed.
+
+{C}  There are branches going everywhere.....  They must lead to the 
+{C}  different parts of the palace.{b}
+
+~
+181 4194312 0
+D0
+~
+~
+0 -1 18187
+D2
+You see a very well hidden little door.
+~
+hidden~
+3 -1 18195
+Z3
+C-1
+R0
+S
+#18191
+{Y}Servants' Passage{b}~
+
+{C}  It is a rather dull looking passage, servants use it to bring food
+{C}  and services around the palace without being noticed.
+
+{C}  There are branches going everywhere.....  They must lead to the 
+{C}  different parts of the palace.{b}
+
+~
+181 4194312 0
+D5
+~
+~
+0 -1 18187
+Z3
+C-1
+R0
+S
+#18192
+{C}Ballroom{b}~
+
+{M}  The royal ballroom.  This is the party room of the palace!
+
+{Y}  Here's where the rich and famous gather to have a good time
+{Y}  and to plot who's going to {WH,BO}marry {b}{Y}whom.
+
+{C,BO}  All in all, its a pretty damn nice room.  Big mirrors line the
+{C,BO}  walls, huge chandeliers and a podium.{b}
+
+~
+181 4194312 0
+D1
+~
+~
+0 -1 18166
+D2
+~
+~
+0 -1 18170
+D3
+~
+~
+0 -1 18193
+Z3
+C-1
+R0
+S
+#18193
+{C}The Antechamber{b}~
+
+{C}  As you look around in this room, you see many sofas and tables.
+{C}  Clearly this is a place where people come to relax after all the
+{C}  hard dancing they did in the ballroom!  To your north you see
+{C}  the throne room.{b}
+
+~
+181 4194312 0
+D0
+~
+~
+0 -1 18194
+D1
+~
+~
+0 -1 18192
+D2
+~
+~
+0 -1 18172
+Z3
+C-1
+R0
+S
+#18194
+{M}Throne Room{b}~
+
+{M}  The throne room of the palace!  On the throne you can see a
+{M}  man who looks like he's taking a nap.  Must be the king!
+{M}  Always figured being a king would  be boring.......  And he
+{M}  sure looks bored.......{b}
+
+~
+181 4194316 0
+D1
+~
+~
+0 -1 18168
+D2
+~
+~
+0 -1 18193
+Z3
+C-1
+R0
+S
+#18195
+{BOLD,YELLOW}Olde Royal Arms Repair Shoppe{bold,yellow}~
+
+{R}  The Royal Arms Repair Shop is undoubtedly the best equipped
+{R}  repair shop around. It is rumoured that here they can repair
+{R}  items and damage that other shops send away.
+
+{R}  The Master Repairman here applies some magic OIL OF VITRIOL
+{R}  that he as soon can hurl on an enemy as on the items  under
+{R}  his care.{b}
+
+~
+181 4202632 0
+D0
+~
+hidden~
+1 -1 18190
+E
+sign~
+Welcome to the royal arms repair shop!
+To repair your items, type 'repair'
+
+~
+Z3
+C2
+R0
+S
+#18196
+{Y}Library{b}~
+
+{Y}  Books! Books!  Books everywhere!
+
+{Y}  This must be the {M}Royal {Y}Library.  You have heard that there
+{Y}  is some sort of a treasure hidden in here.  But, who cares?
+{Y}  Books are a rare treasure indeed!  And there's stacks and stacks
+{Y}  and heaps of 'm here!{b}
+
+~
+181 4194312 0
+D0
+~
+bookcase~
+4 18107 18197
+D3
+~
+~
+0 -1 18174
+Z3
+C-1
+R0
+S
+#18197
+{BLA,BO}Hidden Passage{b}~
+
+{BLA,BO}  You hear the bookcase close behind you, whirling around, you try to
+{BLA,BO}  prevent it from closing.  No such luck.....  When you look around,
+{BLA,BO}  you find yourself in a hidden passage, with no way to go but forward...{b}
+
+~
+181 5242892 0
+D5
+~
+~
+0 -1 28380
+Z3
+C-1
+R0
+S
+#18198
+{M}The {C,BO}Prince's {b}{M}Bedchamber{b}~
+
+{M}  A BIG bed.  Now, that is truly a BIG bed.  There must be 
+{M}  something about being royalty that demands that size of a
+{M}  bed.... Maybe its the presence of those three girls?  
+{M}  You need a big bed to play with so many at once......{b}
+
+~
+181 4194312 0
+D1
+~
+~
+0 -1 18175
+D3
+You see a very big bed...  Who knows what is hiding behind it...
+~
+big~
+3 -1 18199
+Z3
+C-1
+R0
+S
+#18199
+{M}The {C,BO}Prince's {R,BO}Playchamber{b}~
+
+{M,BO}  WHOA! That is not what you had expected......  A girl tied
+{M,BO}  to a rack and the prince whipping her.....   Quite some playchamber..
+{M,BO}  He doesn't look too pleased at being interrupted either....{b}
+
+~
+181 4194312 0
+D1
+~
+big~
+1 -1 18198
+Z3
+C-1
+R0
+S
+$~

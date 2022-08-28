@@ -1,0 +1,641 @@
+#44200
+traveler galactic man~
+{BLA,BO}An intergalactic traveler{b}~
+{G,BO}An intergalactic traveler stands in line, waiting for his flight.{b}
+~
+
+{G}  This man is standing here waiting in line, holding his pass-badge
+{G}  and luggage. He is swathed in layers of cloth to keep out the
+{G}  heat. {BLU}His eyes glow an eerie blue, the result of consuming
+{BLU}  melange.{b}
+
+~
+335544512 1342440360 0 S
+30 -60 -12 0d0+5000 10d5+200
+300000 1000
+8 8 0
+S 33620863
+R 12
+D 20
+A 12
+#44201
+cutpurse thief dirty~
+{R,BO}A cutpurse{b}~
+{R,BO}A cutpurse stealthily sneaks around, looking for potential targets.{b}
+~
+
+{R}  A young boy is here, wandering around seemingly aimlessly.
+{R}  He seems to be ordinary, although a bit skinny and dirty. However,
+{R}  just as you turn away from him, you feel a tug on your money pouch.
+{R}  Hey! He's trying to steal your money!{b}
+
+~
+1243611348 1377305098 -1000 C 3
+40 -80 -18 0d0+8000 5d5+160
+1000000 1000
+8 8 1
+S 71566144
+D 4
+A 12
+#44202
+citizen arrakis~
+{C}A citizen{b}~
+A citizen of Arrakis strolls down the street, wiping sweat from his face.
+~
+
+{BLU}  This citizen of Arrakis strolls past you, in no particular hurry
+{BLU}  to get to wherever he's going. In this kind of heat, it is wise
+{BLU}  not to move too quickly.
+
+~
+70 1073775232 200 S
+20 -80 -17 0d0+3000 5d6+80
+10000 1000
+8 8 0
+S 262144
+D 20
+A 12
+#44203
+guard atreides~
+{BLA,BO}A guard{b}~
+{BLU}An Atreides Guard patrols here, weapon at the ready.{b}
+~
+
+{BLA,BO}  A guard patrols here, the family crest of the Atreides decorating
+{BLA,BO}  his uniform. His weapon looks very sharp and polished, a sure sign
+{BLA,BO}  of a well trained and disciplined soldier. His whole attitude
+{BLA,BO}  suggests that he is ready and willing to kill, although not
+{BLA,BO}  overwhelmingly so.{b}
+
+~
+754974818 1375732648 600 C 4
+40 -80 -12 0d0+7000 10d10+130
+100000 1000
+8 8 0
+S 1023
+R 12
+D 20
+A 12
+#44204
+gardener man~
+{G}A gardener{b}~
+{G}A gardener wearing {Y}a straw hat {G}is here, trimming the {WH,BO}flowers{b}{G}.{b}
+~
+
+{G}  This man is kneeling here, using his clippers to trim the
+{G}  hedges and flowers. He is apparently quite experienced, and
+{G}  deftly forms beautiful creations with the various flowers
+{G}  growing here. He seems peaceful enough, but those clippers look
+{G}  sharp!{b}
+
+~
+419430496 1107559336 300 S
+40 -60 -8 0d0+6000 6d10+150
+20000 1000
+8 8 0
+S 14681039
+R 12
+D 20
+A 12
+#44205
+trainee boy fighter~
+{R}A trainee{b}~
+{R}A battle trainee is here, sparring against motorized dummies.{b}
+~
+
+{R}  This young man aspires to become a proud Atreides soldier.
+{R}  Having heard legendary tales about the feats of such warriors
+{R}  as {C,BO}Gurney Halleck{b}{R}, he now aspires to become one. He will
+{R}  train hard in order to achieve this goal.{b}
+
+~
+486539360 1109394216 1000 S
+45 -40 -13 0d0+7000 10d10+250
+0 1000
+8 8 0
+S 79692751
+R 12
+D 20
+A 12
+#44206
+dummy battle~
+{Y}A dummy{b}~
+{Y}A battle dummy is here, waiting for someone to spar with it.{b}
+~
+
+{Y}  This battle dummy looks quite worn out from frequent use. It is
+{Y}  set to automatically engage anyone who approaches it. Although
+{Y}  its weapons are all fake, it can still do some serious damage!{b}
+
+~
+1082130528 1107296808 0 S
+50 -80 -13 0d0+8000 5d5+300
+0 1000
+8 8 0
+S 1048640
+D 20
+A 12
+#44207
+halleck gurney man~
+{G}Gurney Halleck{b}~
+{BLA,BO}Gurney Hallect sits here, playing a{b} {R,BO}bl{b}{R}oo{R,BO}d {BLA,BO}stirring tune on a baliset.{b}
+~
+
+{BLA,BO}  This man looks like he has been in many battles, and seen
+{b}{G}  more than his share of {R,BO}bloodshed{b}{G}. {Y}Wrinkles {G}and {Y}scars {G}cross
+{BLA,BO}  his face, giving him an {C,BO}aged {b}{BLA,BO}and {R,BO}powerful {BLA,BO}look. Although he is
+{b}{G}  currently playing a baliset, his hands can handle a sword
+{BLA,BO}  equally well.{b}
+
+~
+264241250 1107591850 1000 C 4
+50 -80 -10 0d0+10000 20d20+250
+1000000 1000
+8 8 0
+S 15204928
+R 12
+D 20
+A 12
+#44208
+dummy crystal 12 training~
+{CY,BO}The Twelve Crystal Dummy{b}~
+{C,BO}The dangerous Twelve Crystal Training Dummy blurs forward at you!{b}
+~
+
+{C,BO}  This is the personal training dummy of {b}{Y}Paul Atreides{C,BO}. It is
+{C,BO}  said that only he and his sister {b}{G}Alia {C,BO}are capable of moving
+{Y,BO}  fast enough to fight this dummy! {C,BO}You wonder if approaching it
+{C,BO}  was really such a good idea...{b}
+
+~
+1136656482 1378091562 0 S
+45 -40 -10 0d0+15000 20d10+400
+0 1000
+8 8 0
+S 975
+R 12
+D 20
+A 12
+#44209
+Jessica Lady woman~
+{M,BO}Lady Jessica{b}~
+{M}Lady Jessica is here, practicing her mysterious fighting technique.{b}
+~
+
+{M}  This is Lady Jessica, royal concubine of {M,BO}Duke Atreides{b}{M} and mother of
+{Y}  Paul Muadib Atreides{M}. She is also a {WH,BO}Benne Gesserit{b}{M}, well versed in
+{M}  their mysteries and ways. She is an excellent fighter, making you wonder
+{M}  if you can match her strength and speed.{b}
+
+~
+721436742 2064386734 0 S
+51 -80 -12 0d0+40000 10d10+550
+2500000 2000000
+8 8 2
+S 133064
+R 32780
+D 20
+A 12
+#44210
+mapes shadout fremen hag~
+{Y}Sh{R}a{Y}d{R}ou{Y}t M{R}a{Y}p{R}e{Y}s{b}~
+{Y}An old {R,BO}Fremen {b}{Y}hag hobbles around here, cleaning up the room.{b}
+~
+
+{Y}  This is Shadout Mapes, the mysterious {R,BO}Fremen {b}{Y}servant of {R,BO}House Atriedes{b}{Y}.
+{Y}  No one knows her exact origin, but it is said that she was sent
+{Y}  to test {M,BO}Lady Jessica {b}{Y}upon the arrival of the {R,BO}Atreides{b}{Y} on Dune.{b}
+
+~
+329252966 1074004744 0 S
+51 10 -1 50d50+50 12d11+33
+50000 1000
+8 8 0
+D 20
+A 12
+#44211
+Boy Harkonnen trainee combatant~
+{C}A trainee combatant{b}~
+{C}A boy circles around his opponent desperately, fighting to survive.{b}
+~
+
+{R}  This boy is bl{R,BO}ee{b}{R}d{R,BO}i{b}{R}ng from many wounds, and is fighting desperately
+{R}  against his opponent.{b}
+
+~
+427819104 1107591976 -50 S
+30 -80 -11 0d0+5000 10d10+400
+0 1000
+8 8 0
+S 4195264
+D 20
+A 12
+#44212
+Feyd Rautha~
+{R,BO}Feyd{b}~
+{BLU,BO}Feyd {R,BO}Rautha, {BLU,BO}na-barron {R,BO}of {BLU,BO}the {R,BO}Harkonnens, {BLU,BO}is {R,BO}here {BLU,BO}supervising {R,BO}the {BLU,BO}sparring {R,BO}trainees.{b}
+~
+
+{Y,BO}  A tall blond haired man stares at you, murder clearly written in his eyes.
+{R,BO}  Having grown up surrounded by deceit, violence, and death, this man is capable
+{R,BO}  of all three. {b}{BLU,BO}Trained by the best to the very pinnacle of combat ability,
+{BLU,BO}  he is eager to do battle with you.{b}
+
+~
+1300267047 1679033002 -1000 S
+51 -80 -15 200d300+1000 40d25+100
+3000000 82000
+8 8 1
+D 20
+A 12
+#44213
+guard Harkonnen~
+{BLU,BO}A Harkonnen Guard{b}~
+{BLU,BO}A Guard in a Harkonnen uniform stands at attention here.{b}
+~
+
+{BLU,BO}  Having been hand picked for their ruthlessness and
+{BLU,BO}  unconventional combat tactics, the Harkonnen guards 
+{BLU,BO}  are trained to kill at the slightest provocation.{b}
+
+~
+696254562 1375732648 -1000 S
+54 -40 -7 0d0+10000 10d10+300
+0 1000
+8 8 1
+S 1078985215
+R 14
+D 20
+A 12
+#44214
+boy pleasure~
+{Y}A boy{b}~
+{Y}A boy is here dressed in nothing but a loincloth for the pleasure of the {R,BO}Baron.{b}
+~
+
+{Y}  This boy is wearing nothing but a loincloth. His eyes are slightly
+{Y}  glazed from the drugs used to keep these pleasure boys manageable.
+{Y}  The Baron's taste for young men is well known, and he often
+{Y}  has his soldiers kidnap children specifically for this purpose.{b}
+~
+545259622 1074528936 0 S
+45 -60 -10 0d0+5000 20d20+100
+0 1000
+8 8 0
+S 262720
+R 28
+D 20
+A 12
+#44215
+prisoner man emaciated~
+{Y}A prisoner{b}~
+{Y}A whipped and scarred old man hangs here lifelessly, held motionless by steel chains.{b}
+~
+
+{Y}  This unfortunate man had angered the {R,BO}Baron{b}{Y}, and now pays for it
+{Y}  in this dungeon. Having been abducted by illegal means, he is
+{Y}  now held here until merciful death finally comes for him.{b}
+
+~
+2621542 1073743624 100 S
+1 -110 -5 0d0+1000 0d0+100
+0 1000
+8 8 0
+S 262912
+R 131356
+D 20
+A 12
+#44216
+torturer masked man~
+{R,BO}A torturer{b}~
+{R,BO}A man in a {BLA,BO}black mask{R,BO}, wielding a {BLA,BO}whip {R,BO}and a {b}{R}blood soaked {WH,BO}knife{R,BO}, lumbers around here.{b}
+~
+
+{R,BO}  This man looks ferocious! He lumbers towards you, raising his whip
+{R,BO}  over his head, about to flay you alive!{b}
+
+~
+595591266 1073775272 -1000 C 94
+51 -40 -4 0d0+18000 30d20+200
+0 1000
+8 8 0
+S 13632448
+R 12
+D 20
+A 12
+#44217
+Leto duke Atreides~
+{BLA,BO}Duke Leto{b}~
+{BLA,BO}Duke Leto Atreides hangs here from chains on the wall, half unconscious.{b}
+~
+
+{BLA,BO}  Once the proud {b}{R}Duke of Caladan{BLA,BO}, the Duke is now nothing more than a mere
+{BLA,BO}  shadow of his old self, having been {b}{R}betrayed by Yueh {BLA,BO}and now awaiting
+{BLA,BO}  execution by the {BLU,BO}Baron Harkonnen{BLA,BO}. His only desire now is to kill
+{BLA,BO}  the {BLU,BO}Baron Harkonnen{BLA,BO}, with the false tooth embedded inside of him.{b}
+
+~
+734005346 1073742504 1000 S
+50 -70 0 0d0+25000 20d20+300
+0 1000
+8 8 1
+S 1073873856
+R 30
+D 20
+A 12
+#44218
+Baron Harkonnen Fat~
+{R,BO}Baron Harkonnen{b}~
+{R,BO}The Baron {BLU,BO}Harkonnen {b}{WH,BO}hovers around here on h{b}{Y}is repulsor harness.{b}
+~
+
+{Y}  A fat, putrid, ugly baby of a man hovers around here. How filthy!
+{Y}  You want nothing more than to rip him to shreds.{b}
+
+~
+1136656486 1359512234 -1000 S
+51 -230 -12 0d0+55000 30d25+200
+1000000 1000
+8 8 0
+S 12846016
+R 8388620
+D 20
+A 11
+#44219
+Fremen warrior cloaked~
+{R}A Fremen Warrior{b}~
+{BLU,BO}Pure blue eyes stare at you through a slit in the cloak of this figure.{b}
+~
+
+{BLA,BO}  This is a Fremen, a creature of the desert. You have trouble
+{BLA,BO}  seeing him as his cloak blends in and out of the sand dunes.{b}
+
+~
+1224736992 1073742760 0 S
+40 -60 -15 0d0+7000 10d10+300
+0 1000
+8 8 0
+S 16782223
+R 12
+D 20
+A 12
+#44220
+Fremen relaxed resting relaxing~
+{Y}A Resting Fremen{b}~
+{WH,BO}A {R,BO}Fremen {WH,BO}with his stillsuit off rests here, relaxing.{b}
+~
+
+{BLU,BO}  This Fremen has taken off his stillsuit in the moisture-tight confines
+{BLU,BO}  of his sietch. However, this does not make him any less deadly!{b}
+
+~
+1266679904 1110999978 1000 S
+50 -80 -12 0d0+12000 0d0+300
+0 1000
+8 8 0
+S 12846079
+R 28
+D 20
+A 12
+#44221
+Stilgar Naib Fremen~
+{BLA,BO}Stilgar{b}~
+{BLA,BO}Stilgar, N{BLU,BO}ai{BLA,BO}b of S{BLU,BO}ie{BLA,BO}tch Tabr, gl{BLU,BO}o{BLA,BO}w{BLU,BO}e{BLA,BO}rs at y{BLU,BO}ou {BLA,BO}through {BLU,BO}blue {BLA,BO}eyes.{b}
+~
+
+{BLA,BO}  This is Stilgar, the leader of the Fremen tribe at
+{BLA,BO}  Sietch Tabr. Skilled in fighting and a fanatic servant
+{BLA,BO}  of his Mahdi, he is highly respected.{b}
+
+~
+1329594434 1378124456 1000 C 46
+50 -80 -15 0d0+40000 10d10+500
+0 1000
+8 8 0
+S 13632463
+R 8388620
+D 10
+A 12
+#44222
+Chani Fremen woman~
+{BLU,BO}Chani{b}~
+{BLU,BO}Chani, w{BLA,BO}i{BLU,BO}f{BLA,BO}e {BLU,BO}of {BLA,BO}Usul {BLU,BO}and d{BLA,BO}au{BLU,BO}ght{BLA,BO}e{BLU,BO}r of {BLA,BO}Stilgar, {BLU,BO}sits h{BLA,BO}e{BLU,BO}r{BLA,BO}e.{b}
+~
+
+{BLU,BO}  This is Chani, wife of Usul. She will do anything to 
+{BLU,BO}  protect her beloved!{b}
+
+~
+696254562 1107296938 1000 S
+50 -30 -10 0d0+30000 10d10+400
+0 1000
+8 8 0
+S 4197199
+R 12
+D 20
+A 12
+#44223
+maker worm sandworm~
+{Y}A large worm{b}~
+{BLACK}{black}
+~
+
+{Y}  A giant worm crawls out of a whole in the vast dunes.
+{Y}  As soon as the dust and waves of sand part, it slithers
+{Y}  towards you, ready to devour your soon-to-be lifeless
+{Y}  corpse.{b}
+
+~
+327156070 1073742634 0 C 3
+56 -70 0 0d0+50000 10d10+350
+0 1000
+8 8 0
+S 79692736
+R 12
+D 20
+A 12
+#44224
+Maker Giant worm sandworm~
+{Y}A massive worm{b}~
+{BLACK}{black}
+~
+
+{Y}  One of the largest sandworms known to man conquers past
+{Y}  the mountainous hills of sand. Its mouth opens like a
+{Y}  cave of obsidian black, eager and destined to envelop
+{Y}  you whole.{b}
+
+~
+601884774 1074037544 0 S
+59 -60 -1 0d0+45000 40d40+200
+0 1000
+8 8 0
+S 79694287
+R 12
+D 20
+A 12
+#44225
+Fedaykin Fremen Death Commando~
+{BLA,BO}A {R,BO}F{WH,BO}e{BLA,BO}d{R,BO}a{WH,BO}y{BLA,BO}k{R,BO}i{WH,BO}n{b}~
+{BLA,BO}A {WH,BO}Fedaykin {BLA,BO}Death {WH,BO}Commando {R,BO}rushes at you{BLA,BO}, glinting {WH,BO}knife {BLA,BO}in {WH,BO}hand.{b}
+~
+
+His whole life dedicated to protecting the Mahdi, this Fremen
+is eager to die in battle. With a snarl on his lips,
+he lunges at you, a wicked blade drawn.
+
+~
+1266679904 305693608 300 S
+55 -70 -14 0d0+9000 20d20+300
+0 1000
+8 8 0
+S 13894607
+R 12
+D 20
+A 12
+#44226
+Alia girl~
+{M,BO}Alia{b}~
+{M,BO}Alia, sister of Paul Atreides, rests here.{b}
+~
+
+{M,BO}  This is Alia of the Knife, doomed to be possessed by the Baron
+{M,BO}  Harkonnen. Pity her while she is still herself, and weep for
+{M,BO}  while dying to her blade!{b}
+
+~
+1266712674 1125909160 0 C 41
+50 -70 -13 0d0+40000 25d25+125
+0 1000
+8 8 0
+S 131520
+R 12
+D 10
+A 12
+#44227
+Paul Muadhib Atreides Kwizatch Haderach Usul Mahdi~
+{BLA,BO}Paul Muahdhib Atreides{b}~
+{BLA,BO}P{BLU,BO}au{BLA,BO}l M{BLU,BO}ua{BLA,BO}hdh{BLU,BO}ib {BLA,BO}Atr{BLU,BO}ei{BLA,BO}d{BLU,BO}e{BLA,BO}s, {R,BO}Emperor {BLA,BO}of {b}{Y}Dune{BLA,BO}, sits here on his throne.{b}
+~
+
+{BLA,BO}  This is Paul Atreides, known as the Kwizatch
+{BLU,BO}  Haderach to the Benne Gesserit, Usul to his Fremen
+{BLA,BO}  friends, Muadhib to his worshippers. Able to see
+{BLU,BO}  the past, present, and future, with the Power of
+{BLA,BO}  the Desert behind him, he brings the Jihad
+{BLU,BO}  wherever he goes.{b}
+
+~
+1270874210 1346144936 1000 C 46
+57 -85 -15 0d0+75000 10d10+500
+0 1000
+8 8 0
+S 3438353344
+R 8394591
+D 20
+A 12
+#44228
+commander Harkonnen~
+{BLU,BO}H{b}{BLU}a{BLU,BO}rk{b}{BLU}o{BLU,BO}nn{b}{BLU}e{BLU,BO}n C{b}{BLU}o{BLU,BO}mm{b}{BLU}a{BLU,BO}nd{b}{BLU}e{BLU,BO}r{b}~
+{BLU,BO}This commander has snuck away from his duties for some private time.{b}
+~
+
+{BLU,BO}  Having been the top of his class, this man displays the agile cunning
+{BLU,BO}  of the most nimble among mortals. Accompanying that, he is strong and
+{BLU,BO}  physically unmatched. His right arm bulges dominantly with muscle and
+{BLU,BO}  strength, likely from the hours spent watching these young boys in
+{BLU,BO}  far too little clothing.{b}
+
+~
+734019682 1074004648 -500 S
+50 -100 -8 0d0+17500 17d19+333
+1000000 7000000
+6 6 1
+S 6980
+R 409628
+D 20
+A 12
+#44229
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44230
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44231
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44232
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44233
+turkey thanksgiving~
+the {RED}Thanksgiving Turkey{red}~
+{CYAN}The Thanksgiving Turkey stands here gobbling at you...{cyan}
+~
+  You see this angry looking person shaking his head as you walk
+into his domain. He looks at you with a cold grim stare.
+~
+738230339 262844 -20 S
+51 10 -2 200d200+51 0d0+300
+30000000 25000000
+8 8 1
+D 20
+A 12
+#44234
+Mockturtle Turtle~
+{BO,B}The {G}Mock {bo,G}Turtle{g}~
+{BO,G}A pathetic looking creatures looks at you through teared eyes.{bo,g}
+~
+{BO,G}
+   The mock turtle is truly the most ridiculous creature on the planet. 
+   Wanting to avoid this sad sight, you can not help but be impressed
+   by the quality of the shell it has found for itself.
+
+~
+1270909030 1075086014 0 C 4
+55 -200 -30 20d1000+400000 40d35+200
+2500000 250000000
+8 8 0
+D 20
+A 25
+$~

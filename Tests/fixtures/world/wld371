@@ -1,0 +1,2351 @@
+#37100
+{R}The Dwarven Ruins{r}~
+{R}
+   As your eyes begin to adjust, an enormous mountain range
+   fills your vision. A ruined fort of dwarven make blocks the
+   only path to the mountains. It looks like your only choice
+   is to go through the ruins. Better be careful.
+{r}
+~
+371 20 5
+D0
+~
+~
+0 -1 37101
+Z0
+C-1
+S
+#37101
+{R}The Dwarven Ruins{r}~
+{R}
+   Climbing and pulling yourself along what serves as a path,
+   you see large worn down slabs of some unknown rock that
+   probably served as walls to this former fortress. Inspecting
+   these closer reveals strange engravings that confirm your
+   thoughts. This was indeed part of the fortress.
+{r}
+~
+371 16 5
+D1
+~
+~
+0 -1 37102
+D2
+~
+~
+0 -1 37100
+Z0
+C-1
+S
+#37102
+{R}The Dwarven Ruins{r}~
+{R}
+   Climbing and pulling yourself along what serves as a path,
+   you see large worn down slabs of some unknown rock that
+   probably served as walls to this former fortress. Inspecting
+   these closer reveals strange engravings that confirm your
+   thoughts. This was indeed part of the fortress.
+{r}
+~
+371 16 5
+D1
+~
+door~
+3 -1 37103
+D3
+~
+~
+0 -1 37101
+Z0
+C-1
+S
+#37103
+{R}The Dwarven Stronghold{r}~
+{R}
+   This stronghold was perfectly camouflaged by the mountains
+   and the ruins, and probably by dwarven magic. The size and
+   beauty of the stronghold is overwhelming. Woven tapestries
+   adorning the walls depict mighty dwarven battles and the
+   creation of important dwarven innovations. The hard stone
+   floor is likewise dotted with superbly crafted statues of
+   great dwarven heros.
+{r}
+~
+371 24 5
+D0
+~
+~
+0 -1 37104
+D1
+~
+~
+0 -1 37107
+D2
+~
+~
+0 -1 37105
+D3
+~
+door~
+1 -1 37102
+Z0
+C-1
+S
+#37104
+{R}The Dwarven Stronghold{r}~
+{R}
+   The size and beauty of the stronghold is overwhelming. Woven
+   tapestries adorning the walls depict mighty dwarven battles
+   and the creation of important dwarven innovations. The hard
+   stone floor is likewise dotted with superbly crafted statues
+   of great dwarven heros.
+{r}
+~
+371 24 5
+D1
+~
+~
+0 -1 37108
+D2
+~
+~
+0 -1 37103
+Z0
+C-1
+S
+#37105
+{R}The Dwarven Stronghold{r}~
+{R}
+   The size and beauty of the stronghold is overwhelming. Woven
+   tapestries adorning the walls depict mighty dwarven battles
+   and the creation of important dwarven innovations. The hard
+   stone floor is likewise dotted with superbly crafted statues
+   of great dwarven heros.
+{r}
+~
+371 24 5
+D0
+~
+~
+0 -1 37103
+D1
+~
+~
+0 -1 37106
+Z0
+C-1
+S
+#37106
+{R}The Dwarven Stronghold{r}~
+{R}
+   The size and beauty of the stronghold is overwhelming. Woven
+   tapestries adorning the walls depict mighty dwarven battles
+   and the creation of important dwarven innovations. The hard
+   stone floor is likewise dotted with superbly crafted statues
+   of great dwarven heros.
+{r}
+~
+371 24 5
+D0
+~
+~
+0 -1 37107
+D1
+~
+~
+0 -1 37111
+D3
+~
+~
+0 -1 37105
+Z0
+C-1
+S
+#37107
+{R}The Dwarven Stronghold{r}~
+{R}
+   The size and beauty of the stronghold is overwhelming. Woven
+   tapestries adorning the walls depict mighty dwarven battles
+   and the creation of important dwarven innovations. The hard
+   stone floor is likewise dotted with superbly crafted statues
+   of great dwarven heros.
+{r}
+~
+371 24 5
+D0
+~
+~
+0 -1 37108
+D1
+~
+~
+0 -1 37110
+D2
+~
+~
+0 -1 37106
+D3
+~
+~
+0 -1 37103
+Z0
+C-1
+S
+#37108
+{R}The Dwarven Stronghold{r}~
+{R}
+   The size and beauty of the stronghold is overwhelming. Woven
+   tapestries adorning the walls depict mighty dwarven battles
+   and the creation of important dwarven innovations. The hard
+   stone floor is likewise dotted with superbly crafted statues
+   of great dwarven heros.
+{r}
+~
+371 24 5
+D1
+~
+~
+0 -1 37109
+D2
+~
+~
+0 -1 37107
+D3
+~
+~
+0 -1 37104
+Z0
+C-1
+S
+#37109
+{R}The Dwarven Stronghold{r}~
+{R}
+   The size and beauty of the stronghold is overwhelming. Woven
+   tapestries adorning the walls depict mighty dwarven battles
+   and the creation of important dwarven innovations. The hard
+   stone floor is likewise dotted with superbly crafted statues
+   of great dwarven heros.
+{r}
+~
+371 24 5
+D1
+~
+Portcullis~
+4 36928 37112
+D2
+~
+~
+0 -1 37110
+D3
+~
+~
+0 -1 37108
+Z0
+C-1
+S
+#37110
+{R}The Dwarven Stronghold{r}~
+{R}
+   The size and beauty of the stronghold is overwhelming. Woven
+   tapestries adorning the walls depict mighty dwarven battles
+   and the creation of important dwarven innovations. The hard
+   stone floor is likewise dotted with superbly crafted statues
+   of great dwarven heros.
+{r}
+~
+371 24 5
+D0
+~
+~
+0 -1 37109
+D2
+~
+~
+0 -1 37111
+D3
+~
+~
+0 -1 37107
+Z0
+C-1
+S
+#37111
+{R}The Dwarven Stronghold{r}~
+{R}
+   The size and beauty of the stronghold is overwhelming. Woven
+   tapestries adorning the walls depict mighty dwarven battles
+   and the creation of important dwarven innovations. The hard
+   stone floor is likewise dotted with superbly crafted statues
+   of great dwarven heros.
+{r}
+~
+371 24 5
+D0
+~
+~
+0 -1 37110
+D3
+~
+~
+0 -1 37106
+Z0
+C-1
+S
+#37112
+{R}A Trail Through The Mountains{r}~
+{R}
+   Leaving behind the beauty of the dwarves, you set out on the
+   the barren trail ahead. Very little can grow in this harsh
+   wasteland. Large holes in the ground have been made in an
+   attempt to collect some rainwater, but even these are dried
+   out and collect only sand and rocks. Best to continue on in
+   hopes of more hospitable terrain.
+{r}
+~
+371 16 5
+D1
+~
+~
+0 -1 37113
+D3
+~
+Portcullis~
+1 -1 37109
+Z0
+C-1
+S
+#37113
+{R}A Trail Through The Mountains{r}~
+{R}
+   As you travel along this dusty path, you notice that it
+   begins to rise. Higher and higher you go as you ascend the
+   large mountain of Kher Ridge.
+{r}
+~
+371 0 5
+D0
+~
+~
+0 -1 37114
+D3
+~
+~
+0 -1 37112
+Z0
+C-1
+S
+#37114
+{R}A Trail Through The Mountains{r}~
+{R}
+   As you travel along this dusty path, you notice that it
+   begins to rise. Higher and higher you go as you ascend the
+   large mountain of Kher Ridge.
+{r}
+~
+371 0 5
+D0
+~
+~
+0 -1 37115
+D2
+~
+~
+0 -1 37113
+Z0
+C-1
+S
+#37115
+{R}A Turn In The Trail{r}~
+{R}
+   This sudden turn in the path would be a perfect place for
+   an ambush. Signs of fierce battles here make you think
+   you're not the first person to come to that conclusion.
+{r}
+~
+371 0 5
+D2
+~
+~
+0 -1 37114
+D3
+~
+~
+0 -1 37116
+Z0
+C-1
+S
+#37116
+{R}A Trail Through The Mountains{r}~
+{R}
+   The trail is beginning to rise steeply. The thinness of
+   the air makes you pant as you labor up the trail, and the
+   coldness of the air turns those breaths into little puffs
+   of smoke. You trudge on, buried deeper into your cloak
+   for warmth.
+{r}
+~
+371 32 5
+D1
+~
+~
+0 -1 37115
+D3
+~
+~
+0 -1 37117
+Z0
+C-1
+S
+#37117
+{R}A Trail Through The Mountains{r}~
+{R}
+   The trail is beginning to rise steeply. The thinness of
+   the air makes you pant as you labor up the trail, and the
+   coldness of the air turns those breaths into little puffs
+   of smoke. You trudge on, buried deeper into your cloak
+   for warmth.
+{r}
+~
+371 32 5
+D1
+~
+~
+0 -1 37116
+D3
+~
+~
+0 -1 37118
+Z0
+C-1
+S
+#37118
+{R}A Trail Through The Mountains{r}~
+{R}
+   The trail is beginning to rise steeply. The thinness of
+   the air makes you pant as you labor up the trail, and the
+   coldness of the air turns those breaths into little puffs
+   of smoke. You trudge on, buried deeper into your cloak
+   for warmth.
+{r}
+~
+371 32 5
+D1
+~
+~
+0 -1 37117
+D3
+~
+~
+0 -1 37119
+Z0
+C-1
+S
+#37119
+{R}A Trail Through The Mountains{r}~
+{R}
+   The trail is beginning to rise steeply. The thinness of
+   the air makes you pant as you labor up the trail, and the
+   coldness of the air turns those breaths into little puffs
+   of smoke. You trudge on, buried deeper into your cloak
+   for warmth.
+{r}
+~
+371 32 5
+D1
+~
+~
+0 -1 37118
+D3
+~
+~
+0 -1 37120
+Z0
+C-1
+S
+#37120
+{R}A Turn In The Trail{r}~
+{R}
+   One more turn in the path, and a small trading post is
+   revealed to the north. It looks warm at least, if not
+   exactly friendly. Maybe you're just being paranoid. After
+   all, it is a trading post. You think.
+{r}
+~
+371 32 5
+D0
+~
+~
+0 -1 37121
+D1
+~
+~
+0 -1 37119
+Z0
+C-1
+S
+#37121
+{R}Before A Small Trading Post{r}~
+{R}
+   A small village seems to have developed near the trading
+   post. Its citizens, barbarians by the looks of them, peer at
+   you suspiciously as you pass by. Mother grab their children
+   and hustle them indoors. Men's hands stray nervously to
+   their weapons. It would probably be best to pass through
+   here quickly.
+{r}
+~
+371 32 5
+D0
+~
+~
+0 -1 37122
+D2
+~
+~
+0 -1 37120
+Z0
+C-1
+S
+#37122
+{R}Through The Gates{r}~
+{R}
+   These gates were designed to be easily defended. Sturdy but
+   narrow, there is barely enough room for two people to go
+   through at a time. The barbarians are apparently smarter
+   than most people give them credit for.
+{r}
+~
+371 32 5
+D0
+~
+~
+0 -1 37123
+D2
+~
+~
+0 -1 37121
+Z0
+C2
+S
+#37123
+{R}Balduvian Trading Post{r}~
+{R}
+   Behind the gates, it is apparent that this is more than a
+   mere trading post. This has become a staging area for the
+   Balduvian's ongoing war with the Keldons. Inside these walls
+   lies a massive army just waiting for the orders to attack.
+{r}
+~
+371 32 5
+D0
+~
+~
+0 -1 37128
+D1
+~
+~
+0 -1 37124
+D2
+~
+~
+0 -1 37122
+Z0
+C-1
+S
+#37124
+{R}Balduvian Trading Post{r}~
+{R}
+   Behind the gates, it is apparent that this is more than a
+   mere trading post. This has become a staging area for the
+   Balduvian's ongoing war with the Keldons. Inside these walls
+   lies a massive army just waiting for the orders to attack.
+{r}
+~
+371 32 5
+D0
+~
+~
+0 -1 37127
+D1
+~
+~
+0 -1 37125
+D3
+~
+~
+0 -1 37123
+Z0
+C-1
+S
+#37125
+{R}Balduvian Trading Post{r}~
+{R}
+   Behind the gates, it is apparent that this is more than a
+   mere trading post. This has become a staging area for the
+   Balduvian's ongoing war with the Keldons. Inside these walls
+   lies a massive army just waiting for the orders to attack.
+{r}
+~
+371 32 5
+D0
+~
+~
+0 -1 37126
+D3
+~
+~
+0 -1 37124
+Z0
+C-1
+S
+#37126
+{R}Balduvian Trading Post{r}~
+{R}
+   Behind the gates, it is apparent that this is more than a
+   mere trading post. This has become a staging area for the
+   Balduvian's ongoing war with the Keldons. Inside these walls
+   lies a massive army just waiting for the orders to attack.
+{r}
+~
+371 32 5
+D0
+~
+~
+0 -1 37131
+D2
+~
+~
+0 -1 37125
+D3
+~
+~
+0 -1 37127
+Z0
+C-1
+S
+#37127
+{R}Balduvian Trading Post{r}~
+{R}
+   Behind the gates, it is apparent that this is more than a
+   mere trading post. This has become a staging area for the
+   Balduvian's ongoing war with the Keldons. Inside these walls
+   lies a massive army just waiting for the orders to attack.
+{r}
+~
+371 32 5
+D0
+~
+~
+0 -1 37130
+D1
+~
+~
+0 -1 37126
+D2
+~
+~
+0 -1 37124
+D3
+~
+~
+0 -1 37128
+Z0
+C-1
+S
+#37128
+{R}Balduvian Trading Post{r}~
+{R}
+   Behind the gates, it is apparent that this is more than a
+   mere trading post. This has become a staging area for the
+   Balduvian's ongoing war with the Keldons. Inside these walls
+   lies a massive army just waiting for the orders to attack.
+{r}
+~
+371 32 5
+D0
+~
+~
+0 -1 37129
+D1
+~
+~
+0 -1 37127
+D2
+~
+~
+0 -1 37123
+Z0
+C-1
+S
+#37129
+{R}Balduvian Trading Post{r}~
+{R}
+   Behind the gates, it is apparent that this is more than a
+   mere trading post. This has become a staging area for the
+   Balduvian's ongoing war with the Keldons. Inside these walls
+   lies a massive army just waiting for the orders to attack.
+{r}
+~
+371 32 5
+D1
+~
+~
+0 -1 37130
+D2
+~
+~
+0 -1 37128
+Z0
+C-1
+S
+#37130
+{R}Balduvian Trading Post{r}~
+{R}
+   Behind the gates, it is apparent that this is more than a
+   mere trading post. This has become a staging area for the
+   Balduvian's ongoing war with the Keldons. Inside these walls
+   lies a massive army just waiting for the orders to attack.
+{r}
+~
+371 32 5
+D1
+~
+~
+0 -1 37131
+D2
+~
+~
+0 -1 37127
+D3
+~
+~
+0 -1 37129
+Z0
+C-1
+S
+#37131
+{R}At the north gate{r}~
+{R}   Just as you're about free from these barbarians you see your problems
+   worsen.  Standing before you is the Keldon's army.  Led by one of the fiercest
+   Keldon warlords ever to take the title.  With the balduvians gone it
+   looks like you're on your own.   {r}
+~
+371 32 5
+D0
+~
+~
+0 -1 37132
+D2
+~
+~
+0 -1 37126
+D3
+~
+~
+0 -1 37130
+Z0
+C-1
+S
+#37132
+{R}The path to the Kher Ridges{r}~
+{R}   You've come a long way but you've still got quite a journey ahead.
+   Looking up you see the climbing gets much harder to ascend the peak.
+   {r}
+~
+371 32 5
+D0
+~
+~
+0 -1 37133
+D2
+~
+~
+0 -1 37131
+Z0
+C-1
+S
+#37133
+{R}The path to the Kher Ridges{r}~
+{R}   You've come a long way but you've still got quite a journey ahead.
+   Looking up you see the climbing gets much harder to ascend the peak.
+   {r}
+~
+371 32 5
+D2
+~
+~
+0 -1 37132
+D3
+~
+~
+0 -1 37134
+Z0
+C-1
+S
+#37134
+{R}Base of the mighty Kher Ridge mountains{r}~
+{R}   You've come to the nearly sheer face of the Kher Ridges.  Climbing
+   your way up this mountain is going to be treacherous at best.  The rough
+   walls will offer some foot and hand holds but for the most part it's
+   simply going to be a test of your will versus the mountains if you want
+   to reach the top.   {r}
+~
+371 32 5
+D1
+~
+~
+0 -1 37133
+D4
+~
+~
+0 -1 37135
+Z0
+C-1
+S
+#37135
+{R}Base of the mighty Kher Ridge mountains{r}~
+{R}   You've come to the nearly sheer face of the Kher Ridges.  Climbing
+   your way up this mountain is going to be treacherous at best.  The rough
+   walls will offer some foot and hand holds but for the most part it's
+   simply going to be a test of your will versus the mountains if you want
+   to reach the top.   {r}
+~
+371 32 5
+D4
+~
+~
+0 -1 37136
+D5
+~
+~
+0 -1 37134
+Z0
+C-1
+S
+#37136
+{R}Climbing the mighty mountains{r}~
+{R} As you begin, your long climb up the mountain, you start to wonder about what
+ you will find at the top.  Maybe the ruins of an ancient civilization or
+ maybe a hidden treasure trove. Hopefully it will be worth it because this is a 
+ very long climb. {r}
+~
+371 0 1
+D4
+~
+~
+0 -1 37137
+D5
+~
+~
+0 -1 37135
+Z0
+C-1
+S
+#37137
+{R}A small resting place{r}~
+{R}   This narrow ledge offers some small protection from the elements.  The
+   wind still howls around you blowing up spin drifts of snow but at least you
+   can rest your legs and bot be totally in the wind.{r}
+~
+371 32 5
+D1
+~
+~
+0 -1 37138
+D5
+~
+~
+0 -1 37136
+Z0
+C2
+S
+#37138
+{R}A small resting place{r}~
+{R}   This narrow ledge offers some small protection from the elements.  The
+   wind still howls around you blowing up spin drifts of snow but at least you
+   can rest your legs and bot be totally in the wind.{r}
+~
+371 32 5
+D3
+~
+~
+0 -1 37137
+D4
+~
+~
+0 -1 37139
+Z0
+C2
+S
+#37139
+{R}nearing the summit{r}~
+{R}   At last you're almost there. The cold thin air burns in your lungs and
+   the frost bite creeping into your hands and feet ache severely but you've
+   just about made it.  Only a little farther to go...{r}
+~
+371 32 5
+D4
+~
+~
+0 -1 37140
+D5
+~
+~
+0 -1 37138
+Z0
+C-1
+S
+#37140
+{R}High atop the Kher Ridge mountains{r}~
+{R}   At last you've finally reached the very summit of the Kher Ridge mountains.
+   The top of this mountain is actually a rather large plateau.  Looking around
+   you can't help but marvel at it's beauty.  Looking in the four cardinal
+   directions so can see wide sweeping plains to the east, lush green forests 
+   to the west, sparkling blue oceans dotted with islands north, and murky
+   black swamps south.  What an amazing view.{r}
+~
+371 32 5
+D0
+~
+~
+0 -1 37146
+D1
+~
+~
+0 -1 37144
+D3
+~
+~
+0 -1 37141
+D5
+~
+~
+0 -1 37139
+Z0
+C-1
+S
+#37141
+{R}High atop the Kher Ridge mountains{r}~
+{R}   At last you've finally reached the very summit of the Kher Ridge mountains.
+   The top of this mountain is actually a rather large plateau.  Looking around
+   you can't help but marvel at it's beauty.  Looking in the four cardinal
+   directions so can see wide sweeping plains to the east, lush green forests 
+   to the west, sparkling blue oceans dotted with islands north, and murky
+   black swamps south.  What an amazing view.{r}
+~
+371 32 5
+D0
+~
+~
+0 -1 37147
+D1
+~
+~
+0 -1 37140
+D3
+~
+~
+0 -1 37142
+Z0
+C-1
+S
+#37142
+{R}High atop the Kher Ridge mountains{r}~
+{R}   At last you've finally reached the very summit of the Kher Ridge mountains.
+   The top of this mountain is actually a rather large plateau.  Looking around
+   you can't help but marvel at it's beauty.  Looking in the four cardinal
+   directions so can see wide sweeping plains to the east, lush green forests 
+   to the west, sparkling blue oceans dotted with islands north, and murky
+   black swamps south.  What an amazing view.{r}
+~
+371 32 5
+D0
+~
+~
+0 -1 37148
+D1
+~
+~
+0 -1 37141
+D3
+~
+~
+0 -1 37143
+Z0
+C-1
+S
+#37143
+{R}High atop the Kher Ridge mountains{r}~
+{R}   At last you've finally reached the very summit of the Kher Ridge mountains.
+   The top of this mountain is actually a rather large plateau.  Looking around
+   you can't help but marvel at it's beauty.  Looking in the four cardinal
+   directions so can see wide sweeping plains to the east, lush green forests 
+   to the west, sparkling blue oceans dotted with islands north, and murky
+   black swamps south.  What an amazing view.{r}
+~
+371 32 5
+D0
+~
+~
+0 -1 37149
+D1
+~
+~
+0 -1 37142
+Z0
+C-1
+S
+#37144
+{R}High atop the Kher Ridge mountains{r}~
+{R}   At last you've finally reached the very summit of the Kher Ridge mountains.
+   The top of this mountain is actually a rather large plateau.  Looking around
+   you can't help but marvel at it's beauty.  Looking in the four cardinal
+   directions so can see wide sweeping plains to the east, lush green forests 
+   to the west, sparkling blue oceans dotted with islands north, and murky
+   black swamps south.  What an amazing view.{r}
+~
+371 32 5
+D0
+~
+~
+0 -1 37145
+D3
+~
+~
+0 -1 37140
+Z0
+C-1
+S
+#37145
+{R}High atop the Kher Ridge mountains{r}~
+{R}   At last you've finally reached the very summit of the Kher Ridge mountains.
+   The top of this mountain is actually a rather large plateau.  Looking around
+   you can't help but marvel at it's beauty.  Looking in the four cardinal
+   directions so can see wide sweeping plains to the east, lush green forests 
+   to the west, sparkling blue oceans dotted with islands north, and murky
+   black swamps south.  What an amazing view.{r}
+~
+371 32 5
+D2
+~
+~
+0 -1 37144
+D3
+~
+~
+0 -1 37146
+Z0
+C-1
+S
+#37146
+{R}High atop the Kher Ridge mountains{r}~
+{R}   At last you've finally reached the very summit of the Kher Ridge mountains.
+   The top of this mountain is actually a rather large plateau.  Looking around
+   you can't help but marvel at it's beauty.  Looking in the four cardinal
+   directions so can see wide sweeping plains to the east, lush green forests 
+   to the west, sparkling blue oceans dotted with islands north, and murky
+   black swamps south.  What an amazing view.{r}
+~
+371 32 5
+D1
+~
+~
+0 -1 37145
+D2
+~
+~
+0 -1 37140
+D3
+~
+~
+0 -1 37147
+Z0
+C-1
+S
+#37147
+{R}High atop the Kher Ridge mountains{r}~
+{R}   At last you've finally reached the very summit of the Kher Ridge mountains.
+   The top of this mountain is actually a rather large plateau.  Looking around
+   you can't help but marvel at it's beauty.  Looking in the four cardinal
+   directions so can see wide sweeping plains to the east, lush green forests 
+   to the west, sparkling blue oceans dotted with islands north, and murky
+   black swamps south.  What an amazing view.{r}
+~
+371 32 5
+D1
+~
+~
+0 -1 37146
+D2
+~
+~
+0 -1 37141
+D3
+~
+~
+0 -1 37148
+Z0
+C-1
+S
+#37148
+{R}High atop the Kher Ridge mountains{r}~
+{R}   At last you've finally reached the very summit of the Kher Ridge mountains.
+   The top of this mountain is actually a rather large plateau.  Looking around
+   you can't help but marvel at it's beauty.  Looking in the four cardinal
+   directions so can see wide sweeping plains to the east, lush green forests 
+   to the west, sparkling blue oceans dotted with islands north, and murky
+   black swamps south.  What an amazing view.{r}
+~
+371 32 5
+D1
+~
+~
+0 -1 37147
+D2
+~
+~
+0 -1 37142
+D3
+~
+~
+0 -1 37149
+Z0
+C-1
+S
+#37149
+{R}High atop the Kher Ridge mountains{r}~
+{R}   At last you've finally reached the very summit of the Kher Ridge mountains.
+   The top of this mountain is actually a rather large plateau.  Looking around
+   you can't help but marvel at it's beauty.  Looking in the four cardinal
+   directions so can see wide sweeping plains to the east, lush green forests 
+   to the west, sparkling blue oceans dotted with islands north, and murky
+   black swamps south.  What an amazing view.{r}
+~
+371 32 5
+D1
+~
+~
+0 -1 37148
+D2
+~
+~
+0 -1 37143
+Z0
+C-1
+S
+#37150
+{G}Havenwood Battlegrounds{g}~
+  {G}You stand in one of the horrific burned out patches caused by man's war with
+nature.  This was the site of the last great battle of the Llanowar elves.  There
+are still rumored to be some of this great race left but no one has seen them for 
+sure in many years.  Tread carefully here and remember the elves for what they were,
+a great and mighty race.{g}
+~
+371 16516 3
+D0
+~
+~
+0 -1 37155
+D1
+~
+~
+0 -1 37151
+Z0
+C-1
+S
+#37151
+{G}Havenwood Battlegrounds{g}~
+{G}   Walking into this large open battlefield, you begin to see nature once again
+   reclaiming its' land. Small green shrubs and bushes protrude here and there 
+   working their way upwards through discarded weapons and armor.  Though it is
+   only a small beginning, you know in your heart that it will once again be
+   as lush and mighty as it must have been long ago.{g}
+~
+371 16384 3
+D0
+~
+~
+0 -1 37156
+D1
+~
+~
+0 -1 37152
+D3
+~
+~
+0 -1 37150
+X4194304
+Z0
+C-1
+S
+#37152
+{G}Havenwood Battlegrounds{g}~
+{G}   Walking into this large open battlefield, you begin to see nature once again
+   reclaiming its' land. Small green shrubs and bushes protrude here and there 
+   working their way upwards through discarded weapons and armor.  Though it is
+   only a small beginning, you know in your heart that it will once again be
+   as lush and mighty as it must have been long ago.{g}
+~
+371 16384 3
+D0
+~
+~
+0 -1 37157
+D1
+~
+~
+0 -1 37153
+D3
+~
+~
+0 -1 37151
+X4194304
+Z0
+C-1
+S
+#37153
+{G}Havenwood Battlegrounds{g}~
+{G}   Walking into this large open battlefield, you begin to see nature once again
+   reclaiming its' land. Small green shrubs and bushes protrude here and there 
+   working their way upwards through discarded weapons and armor.  Though it is
+   only a small beginning, you know in your heart that it will once again be
+   as lush and mighty as it must have been long ago.{g}
+~
+371 16384 3
+D0
+~
+~
+0 -1 37158
+D1
+~
+~
+0 -1 37154
+D3
+~
+~
+0 -1 37152
+X4194304
+Z0
+C-1
+S
+#37154
+{G}Havenwood Battlegrounds{g}~
+{G}   Walking into this large open battlefield, you begin to see nature once again
+   reclaiming its' land. Small green shrubs and bushes protrude here and there 
+   working their way upwards through discarded weapons and armor.  Though it is
+   only a small beginning, you know in your heart that it will once again be
+   as lush and mighty as it must have been long ago.{g}
+~
+371 16384 3
+D0
+~
+~
+0 -1 37159
+D3
+~
+~
+0 -1 37153
+X4194304
+Z0
+C-1
+S
+#37155
+{G}Havenwood Battlegrounds{g}~
+{G}   Walking into this large open battlefield, you begin to see nature once again
+   reclaiming its' land. Small green shrubs and bushes protrude here and there 
+   working their way upwards through discarded weapons and armor.  Though it is
+   only a small beginning, you know in your heart that it will once again be
+   as lush and mighty as it must have been long ago.{g}
+~
+371 16384 3
+D0
+~
+~
+0 -1 37160
+D1
+~
+~
+0 -1 37156
+D2
+~
+~
+0 -1 37150
+X4194304
+Z0
+C-1
+S
+#37156
+{G}Havenwood Battlegrounds{g}~
+{G}   Walking into this large open battlefield, you begin to see nature once again
+   reclaiming its' land. Small green shrubs and bushes protrude here and there 
+   working their way upwards through discarded weapons and armor.  Though it is
+   only a small beginning, you know in your heart that it will once again be
+   as lush and mighty as it must have been long ago.{g}
+~
+371 16384 3
+D0
+~
+~
+0 -1 37161
+D1
+~
+~
+0 -1 37157
+D2
+~
+~
+0 -1 37151
+D3
+~
+~
+0 -1 37155
+X4194304
+Z0
+C-1
+S
+#37157
+{G}Havenwood Battlegrounds{g}~
+{G}   Walking into this large open battlefield, you begin to see nature once again
+   reclaiming its' land. Small green shrubs and bushes protrude here and there 
+   working their way upwards through discarded weapons and armor.  Though it is
+   only a small beginning, you know in your heart that it will once again be
+   as lush and mighty as it must have been long ago.{g}
+~
+371 16384 3
+D0
+~
+~
+0 -1 37162
+D1
+~
+~
+0 -1 37158
+D2
+~
+~
+0 -1 37152
+D3
+~
+~
+0 -1 37156
+X4194304
+Z0
+C-1
+S
+#37158
+{G}Havenwood Battlegrounds{g}~
+{G}   Walking into this large open battlefield, you begin to see nature once again
+   reclaiming its' land. Small green shrubs and bushes protrude here and there 
+   working their way upwards through discarded weapons and armor.  Though it is
+   only a small beginning, you know in your heart that it will once again be
+   as lush and mighty as it must have been long ago.{g}
+~
+371 16384 3
+D0
+~
+~
+0 -1 37163
+D1
+~
+~
+0 -1 37159
+D2
+~
+~
+0 -1 37153
+D3
+~
+~
+0 -1 37157
+X4194304
+Z0
+C-1
+S
+#37159
+{G}Havenwood Battlegrounds{g}~
+{G}   Walking into this large open battlefield, you begin to see nature once again
+   reclaiming its' land. Small green shrubs and bushes protrude here and there 
+   working their way upwards through discarded weapons and armor.  Though it is
+   only a small beginning, you know in your heart that it will once again be
+   as lush and mighty as it must have been long ago.{g}
+~
+371 16384 3
+D0
+~
+~
+0 -1 37164
+D2
+~
+~
+0 -1 37154
+D3
+~
+~
+0 -1 37158
+X4194304
+Z0
+C-1
+S
+#37160
+{G}Havenwood Battlegrounds{g}~
+{G}   Walking into this large open battlefield, you begin to see nature once again
+   reclaiming its' land. Small green shrubs and bushes protrude here and there 
+   working their way upwards through discarded weapons and armor.  Though it is
+   only a small beginning, you know in your heart that it will once again be
+   as lush and mighty as it must have been long ago.{g}
+~
+371 16384 3
+D1
+~
+~
+0 -1 37161
+D2
+~
+~
+0 -1 37155
+X4194304
+Z0
+C-1
+S
+#37161
+{G}Havenwood Battlegrounds{g}~
+{G}   Walking into this large open battlefield, you begin to see nature once again
+   reclaiming its' land. Small green shrubs and bushes protrude here and there 
+   working their way upwards through discarded weapons and armor.  Though it is
+   only a small beginning, you know in your heart that it will once again be
+   as lush and mighty as it must have been long ago.{g}
+~
+371 16384 3
+D1
+~
+~
+0 -1 37162
+D2
+~
+~
+0 -1 37156
+D3
+~
+~
+0 -1 37160
+X4194304
+Z0
+C-1
+S
+#37162
+{G}Havenwood Battlegrounds{g}~
+{G}   Walking into this large open battlefield, you begin to see nature once again
+   reclaiming its' land. Small green shrubs and bushes protrude here and there 
+   working their way upwards through discarded weapons and armor.  Though it is
+   only a small beginning, you know in your heart that it will once again be
+   as lush and mighty as it must have been long ago.{g}
+~
+371 16384 3
+D1
+~
+~
+0 -1 37163
+D2
+~
+~
+0 -1 37157
+D3
+~
+~
+0 -1 37161
+X4194304
+Z0
+C-1
+S
+#37163
+{G}Havenwood Battlegrounds{g}~
+{G}   Walking into this large open battlefield, you begin to see nature once again
+   reclaiming its' land. Small green shrubs and bushes protrude here and there 
+   working their way upwards through discarded weapons and armor.  Though it is
+   only a small beginning, you know in your heart that it will once again be
+   as lush and mighty as it must have been long ago.{g}
+~
+371 16384 3
+D1
+~
+~
+0 -1 37164
+D2
+~
+~
+0 -1 37158
+D3
+~
+~
+0 -1 37162
+X4194304
+Z0
+C-1
+S
+#37164
+{G}Havenwood Battlegrounds{g}~
+{G}   Walking into this large open battlefield, you begin to see nature once again
+   reclaiming its' land. Small green shrubs and bushes protrude here and there 
+   working their way upwards through discarded weapons and armor.  Though it is
+   only a small beginning, you know in your heart that it will once again be
+   as lush and mighty as it must have been long ago.{g}
+~
+371 16384 3
+D0
+~
+~
+0 -1 37165
+D2
+~
+~
+0 -1 37159
+D3
+~
+~
+0 -1 37163
+X4194304
+Z0
+C-1
+S
+#37165
+{G}The Path to Yavimaya{g}~
+{G}   You have found the magical shortcut to harsh forest of Yavimaya. Years ago,
+   the elves and druids of Havenwood, Yavimaya, and Fyndhorn worked together to make
+   these magical paths in order to offer aid to each other in case of attack.  One
+   single step actually carries you many leagues across Dominaria allowing you to
+   reach Yavimaya very quickly. {g}
+~
+371 0 3
+D0
+~
+~
+0 -1 37166
+D2
+~
+~
+0 -1 37164
+Z0
+C-1
+S
+#37166
+{G}The Lush Forests Of Yavimaya{g}~
+{G}   As you walk boldly into the lush majesty of the Yavimaya forest, you are
+   immediately humbled by its' grandeur and age.  Much of this forest hasn't been
+   seen by human eyes in hundreds of years. Many of these large oaks and pines are
+   big enough to build an entire house from one tree.  Amazing, you think, as you
+   attempt to find any trace of a trail.{g}
+~
+371 16384 3
+D0
+~
+~
+0 -1 37177
+D1
+~
+~
+0 -1 37167
+D2
+~
+~
+0 -1 37165
+X4194304
+Z0
+C-1
+S
+#37167
+{G}Yavimaya{g}~
+{G}   After much searching you find what looks as though it may have been a path.
+   It's very overgrown now so the going will be rough but it's better then nothing.
+   Best stay on your guard however since there are large animal prints everywhere.
+{g}
+~
+371 16384 3
+D0
+~
+~
+0 -1 37176
+D1
+~
+~
+0 -1 37168
+D3
+~
+~
+0 -1 37166
+X4194304
+Z0
+C-1
+S
+#37168
+{G}Yavimaya{g}~
+{G}   After much searching you find what looks as though it may have been a path.
+   It's very overgrown now so the going will be rough but it's better then nothing.
+   Best stay on your guard however since there are large animal prints everywhere.
+{g}
+~
+371 16384 3
+D0
+~
+~
+0 -1 37175
+D1
+~
+~
+0 -1 37169
+D3
+~
+~
+0 -1 37167
+X4194304
+Z0
+C-1
+S
+#37169
+{G}Yavimaya{g}~
+{G}   After much searching you find what looks as though it may have been a path.
+   It's very overgrown now so the going will be rough but it's better then nothing.
+   Best stay on your guard however since there are large animal prints everywhere.
+{g}
+~
+371 16384 3
+D0
+~
+~
+0 -1 37174
+D1
+~
+~
+0 -1 37170
+D3
+~
+~
+0 -1 37168
+X4194304
+Z0
+C-1
+S
+#37170
+{G}Yavimaya{g}~
+{G}   After much searching you find what looks as though it may have been a path.
+   It's very overgrown now so the going will be rough but it's better then nothing.
+   Best stay on your guard however since there are large animal prints everywhere.
+{g}
+~
+371 16384 3
+D0
+~
+~
+0 -1 37173
+D1
+~
+~
+0 -1 37171
+D3
+~
+~
+0 -1 37169
+X4194304
+Z0
+C-1
+S
+#37171
+{G}Yavimaya{g}~
+{G}   After much searching you find what looks as though it may have been a path.
+   It's very overgrown now so the going will be rough but it's better then nothing.
+   Best stay on your guard however since there are large animal prints everywhere.
+{g}
+~
+371 16384 3
+D0
+~
+~
+0 -1 37172
+D3
+~
+~
+0 -1 37170
+X4194304
+Z0
+C-1
+S
+#37172
+{G}Yavimaya{g}~
+{G}   After much searching you find what looks as though it may have been a path.
+   It's very overgrown now so the going will be rough but it's better then nothing.
+   Best stay on your guard however since there are large animal prints everywhere.
+{g}
+~
+371 16384 3
+D0
+~
+~
+0 -1 37183
+D2
+~
+~
+0 -1 37171
+D3
+~
+~
+0 -1 37173
+X4194304
+Z0
+C-1
+S
+#37173
+{G}The Heart Of Yavimaya{g}~
+{G}   As You stare about in wonder you realize you must have stumbled through some
+   enchantment to reach this marvelous place that had kept it hidden so well for
+   so many years.  This is where the elves and and druids live and keep the forest
+   alive. Enormous tree houses rise impossibly high into the the tree tops where
+   the elves live while large sprawling buildings house the druids at ground level.
+   What an amazing place.   {g}
+~
+371 16384 3
+D0
+~
+~
+0 -1 37182
+D1
+~
+~
+0 -1 37172
+D2
+~
+~
+0 -1 37170
+D3
+~
+~
+0 -1 37174
+Z0
+C-1
+S
+#37174
+{G}The Heart Of Yavimaya{g}~
+{G}   As You stare about in wonder you realize you must have stumbled through some
+   enchantment to reach this marvelous place that had kept it hidden so well for
+   so many years.  This is where the elves and and druids live and keep the forest
+   alive. Enormous tree houses rise impossibly high into the the tree tops where
+   the elves live while large sprawling buildings house the druids at ground level.
+   What an amazing place.   {g}
+~
+371 16384 3
+D0
+~
+~
+0 -1 37181
+D1
+~
+~
+0 -1 37173
+D2
+~
+~
+0 -1 37169
+D3
+~
+~
+0 -1 37175
+Z0
+C-1
+S
+#37175
+{G}The Heart Of Yavimaya{g}~
+{G}   As You stare about in wonder you realize you must have stumbled through some
+   enchantment to reach this marvelous place that had kept it hidden so well for
+   so many years.  This is where the elves and and druids live and keep the forest
+   alive. Enormous tree houses rise impossibly high into the the tree tops where
+   the elves live while large sprawling buildings house the druids at ground level.
+   What an amazing place.   {g}
+~
+371 16384 3
+D0
+~
+~
+0 -1 37180
+D1
+~
+~
+0 -1 37174
+D2
+~
+~
+0 -1 37168
+D3
+~
+~
+0 -1 37176
+Z0
+C-1
+S
+#37176
+{G}The Heart Of Yavimaya{g}~
+{G}   As You stare about in wonder you realize you must have stumbled through some
+   enchantment to reach this marvelous place that had kept it hidden so well for
+   so many years.  This is where the elves and and druids live and keep the forest
+   alive. Enormous tree houses rise impossibly high into the the tree tops where
+   the elves live while large sprawling buildings house the druids at ground level.
+   What an amazing place.   {g}
+~
+371 16384 3
+D0
+~
+~
+0 -1 37179
+D1
+~
+~
+0 -1 37175
+D2
+~
+~
+0 -1 37167
+D3
+~
+~
+0 -1 37177
+Z0
+C-1
+S
+#37177
+{G}Yavimaya{g}~
+{G}   After much searching you find what looks as though it may have been a path.
+   It's very overgrown now so the going will be rough but it's better then nothing.
+   Best stay on your guard however since there are large animal prints everywhere.
+{g}
+~
+371 16384 3
+D0
+~
+~
+0 -1 37178
+D1
+~
+~
+0 -1 37176
+D2
+~
+~
+0 -1 37166
+X4194304
+Z0
+C-1
+S
+#37178
+{G}Yavimaya{g}~
+{G}   After much searching you find what looks as though it may have been a path.
+   It's very overgrown now so the going will be rough but it's better then nothing.
+   Best stay on your guard however since there are large animal prints everywhere.
+{g}
+~
+371 16384 3
+D1
+~
+~
+0 -1 37179
+D2
+~
+~
+0 -1 37177
+X4194304
+Z0
+C-1
+S
+#37179
+{G}Yavimaya{g}~
+{G}   After much searching you find what looks as though it may have been a path.
+   It's very overgrown now so the going will be rough but it's better then nothing.
+   Best stay on your guard however since there are large animal prints everywhere.
+{g}
+~
+371 16384 3
+D1
+~
+~
+0 -1 37180
+D2
+~
+~
+0 -1 37176
+D3
+~
+~
+0 -1 37178
+X4194304
+Z0
+C-1
+S
+#37180
+{G}Yavimaya{g}~
+{G}   After much searching you find what looks as though it may have been a path.
+   It's very overgrown now so the going will be rough but it's better then nothing.
+   Best stay on your guard however since there are large animal prints everywhere.
+{g}
+~
+371 16384 3
+D1
+~
+~
+0 -1 37181
+D2
+~
+~
+0 -1 37175
+D3
+~
+~
+0 -1 37179
+X4194304
+Z0
+C-1
+S
+#37181
+{G}Yavimaya{g}~
+{G}   After much searching you find what looks as though it may have been a path.
+   It's very overgrown now so the going will be rough but it's better then nothing.
+   Best stay on your guard however since there are large animal prints everywhere.
+{g}
+~
+371 16384 3
+D1
+~
+~
+0 -1 37182
+D2
+~
+~
+0 -1 37174
+D3
+~
+~
+0 -1 37180
+X4194304
+Z0
+C-1
+S
+#37182
+{G}Yavimaya{g}~
+{G}   After much searching you find what looks as though it may have been a path.
+   It's very overgrown now so the going will be rough but it's better then nothing.
+   Best stay on your guard however since there are large animal prints everywhere.
+{g}
+~
+371 16384 3
+D1
+~
+~
+0 -1 37183
+D2
+~
+~
+0 -1 37173
+D3
+~
+~
+0 -1 37181
+X4194304
+Z0
+C-1
+S
+#37183
+{G}Escape{g}~
+{G}   At last you've escaped the Yavamaya forest.  Now at least you understand why
+   all those natural resources have been untapped for so long.  While you may
+   have done some damage to their system and order you have no doubt that soon it
+   will be repaired and once again this land will lay dormant waiting its' next 
+   victims.{g}
+~
+371 0 3
+D0
+~
+~
+0 -1 37184
+D2
+~
+~
+0 -1 37172
+D3
+~
+~
+0 -1 37182
+Z0
+C-1
+S
+#37184
+{G}The Path to Fyndhorn{g}~
+{G}   Once again you are on a magically created path carrying you very quickly
+   towards the ancient forest of Fyndhorn. You can feel the air getting colder and 
+   colder with each breath you take. Just hold on, you're almost there.{g}
+~
+371 16388 3
+D0
+~
+~
+0 -1 37187
+D2
+~
+~
+0 -1 37183
+Z0
+C-1
+S
+#37185
+{G}Fyndhorn Forest{g}~
+{G}   As you trudge through the snow miserably, you look around at all the green
+   pine trees about you and smile at the distinct contrast. It looks like something
+   from a Norman Rockwell painting that is until you look down and see the large
+   strange footprints in the snow.  Best to move along and avoid whatever made those
+   tracks.  {g}
+~
+371 16416 3
+D0
+~
+~
+0 -1 37194
+D1
+~
+~
+0 -1 37186
+Z0
+C-1
+S
+#37186
+{G}Fyndhorn Forest{g}~
+{G}   As you trudge through the snow miserably, you look around at all the green
+   pine trees about you and smile at the distinct contrast. It looks like something
+   from a Norman Rockwell painting that is until you look down and see the large
+   strange footprints in the snow.  Best to move along and avoid whatever made those
+   tracks.  {g}
+~
+371 16416 3
+D0
+~
+~
+0 -1 37193
+D1
+~
+~
+0 -1 37187
+D3
+~
+~
+0 -1 37185
+Z0
+C-1
+S
+#37187
+{G}Fyndhorn Forest{g}~
+{G}   As you trudge through the snow miserably, you look around at all the green
+   pine trees about you and smile at the distinct contrast. It looks like something
+   from a Norman Rockwell painting that is until you look down and see the large
+   strange footprints in the snow.  Best to move along and avoid whatever made those
+   tracks.  {g}
+~
+371 16416 3
+D0
+~
+~
+0 -1 37192
+D1
+~
+~
+0 -1 37188
+D2
+~
+~
+0 -1 37184
+D3
+~
+~
+0 -1 37186
+Z0
+C-1
+S
+#37188
+{G}Fyndhorn Forest{g}~
+{G}   As you trudge through the snow miserably, you look around at all the green
+   pine trees about you and smile at the distinct contrast. It looks like something
+   from a Norman Rockwell painting that is until you look down and see the large
+   strange footprints in the snow.  Best to move along and avoid whatever made those
+   tracks.  {g}
+~
+371 16416 3
+D0
+~
+~
+0 -1 37191
+D1
+~
+~
+0 -1 37189
+D3
+~
+~
+0 -1 37187
+Z0
+C-1
+S
+#37189
+{G}Fyndhorn Forest{g}~
+{G}   As you trudge through the snow miserably, you look around at all the green
+   pine trees about you and smile at the distinct contrast. It looks like something
+   from a Norman Rockwell painting that is until you look down and see the large
+   strange footprints in the snow.  Best to move along and avoid whatever made those
+   tracks.  {g}
+~
+371 16416 3
+D0
+~
+~
+0 -1 37190
+D3
+~
+~
+0 -1 37188
+Z0
+C-1
+S
+#37190
+{G}Fyndhorn Forest{g}~
+{G}   As you trudge through the snow miserably, you look around at all the green
+   pine trees about you and smile at the distinct contrast. It looks like something
+   from a Norman Rockwell painting that is until you look down and see the large
+   strange footprints in the snow.  Best to move along and avoid whatever made those
+   tracks.  {g}
+~
+371 16416 3
+D0
+~
+~
+0 -1 37199
+D2
+~
+~
+0 -1 37189
+D3
+~
+~
+0 -1 37191
+Z0
+C-1
+S
+#37191
+{G}Fyndhorn Forest{g}~
+{G}   As you trudge through the snow miserably, you look around at all the green
+   pine trees about you and smile at the distinct contrast. It looks like something
+   from a Norman Rockwell painting that is until you look down and see the large
+   strange footprints in the snow.  Best to move along and avoid whatever made those
+   tracks.  {g}
+~
+371 16416 3
+D0
+~
+~
+0 -1 37198
+D1
+~
+~
+0 -1 37190
+D2
+~
+~
+0 -1 37188
+D3
+~
+~
+0 -1 37192
+Z0
+C-1
+S
+#37192
+{G}Fyndhorn Forest{g}~
+{G}   As you trudge through the snow miserably, you look around at all the green
+   pine trees about you and smile at the distinct contrast. It looks like something
+   from a Norman Rockwell painting that is until you look down and see the large
+   strange footprints in the snow.  Best to move along and avoid whatever made those
+   tracks.  {g}
+~
+371 16416 3
+D0
+~
+~
+0 -1 37197
+D1
+~
+~
+0 -1 37191
+D2
+~
+~
+0 -1 37187
+D3
+~
+~
+0 -1 37193
+Z0
+C-1
+S
+#37193
+{G}Fyndhorn Forest{g}~
+{G}   As you trudge through the snow miserably, you look around at all the green
+   pine trees about you and smile at the distinct contrast. It looks like something
+   from a Norman Rockwell painting that is until you look down and see the large
+   strange footprints in the snow.  Best to move along and avoid whatever made those
+   tracks.  {g}
+~
+371 16416 3
+D0
+~
+~
+0 -1 37196
+D1
+~
+~
+0 -1 37192
+D2
+~
+~
+0 -1 37186
+D3
+~
+~
+0 -1 37194
+Z0
+C-1
+S
+#37194
+{G}Fyndhorn Forest{g}~
+{G}   As you trudge through the snow miserably, you look around at all the green
+   pine trees about you and smile at the distinct contrast. It looks like something
+   from a Norman Rockwell painting that is until you look down and see the large
+   strange footprints in the snow.  Best to move along and avoid whatever made those
+   tracks.  {g}
+~
+371 16416 3
+D0
+~
+~
+0 -1 37195
+D1
+~
+~
+0 -1 37193
+D2
+~
+~
+0 -1 37185
+Z0
+C-1
+S
+#37195
+{G}Fyndhorn Forest{g}~
+{G}   As you trudge through the snow miserably, you look around at all the green
+   pine trees about you and smile at the distinct contrast. It looks like something
+   from a Norman Rockwell painting that is until you look down and see the large
+   strange footprints in the snow.  Best to move along and avoid whatever made those
+   tracks.  {g}
+~
+371 16416 3
+D1
+~
+~
+0 -1 37196
+D2
+~
+~
+0 -1 37194
+Z0
+C-1
+S
+#37196
+{G}Fyndhorn Forest{g}~
+{G}   As you trudge through the snow miserably, you look around at all the green
+   pine trees about you and smile at the distinct contrast. It looks like something
+   from a Norman Rockwell painting that is until you look down and see the large
+   strange footprints in the snow.  Best to move along and avoid whatever made those
+   tracks.  {g}
+~
+371 16416 3
+D1
+~
+~
+0 -1 37197
+D2
+~
+~
+0 -1 37193
+D3
+~
+~
+0 -1 37195
+Z0
+C-1
+S
+#37197
+{G}Fyndhorn Forest{g}~
+{G}   As you trudge through the snow miserably, you look around at all the green
+   pine trees about you and smile at the distinct contrast. It looks like something
+   from a Norman Rockwell painting that is until you look down and see the large
+   strange footprints in the snow.  Best to move along and avoid whatever made those
+   tracks.  {g}
+~
+371 16416 3
+D1
+~
+~
+0 -1 37198
+D2
+~
+~
+0 -1 37192
+D3
+~
+~
+0 -1 37196
+Z0
+C-1
+S
+#37198
+{G}Fyndhorn Forest{g}~
+{G}   As you trudge through the snow miserably, you look around at all the green
+   pine trees about you and smile at the distinct contrast. It looks like something
+   from a Norman Rockwell painting that is until you look down and see the large
+   strange footprints in the snow.  Best to move along and avoid whatever made those
+   tracks.  {g}
+~
+371 16416 3
+D1
+~
+~
+0 -1 37199
+D2
+~
+~
+0 -1 37191
+D3
+~
+~
+0 -1 37197
+Z0
+C-1
+S
+#37199
+{G}The Heart Of the Forest{g}~
+{G}   At last you've reached the end of the forest.  In this room is your power to
+   leave this place.  Half-buried in the snow you see the Black Lotus that will 
+   grant you passage out of here if you want to leave that is...{g}
+~
+371 32 3
+D2
+~
+~
+0 -1 37190
+D3
+~
+~
+0 -1 37198
+Z0
+C-1
+S
+$~

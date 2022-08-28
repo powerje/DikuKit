@@ -1,0 +1,3152 @@
+#2900
+{BLUE}{BOLD}On the River of Kong{blue}~
+
+
+  {CY}{BOLD}You are now on a great and mighty river flowing from the
+  east to the west.{G}{BOLD} The thick foliage along the river prevents
+  you from being able to land on shore here.{g}{bold}
+
+
+~
+29 16809988 7
+D0
+~
+~
+0 -1 4801
+D3
+~
+~
+0 -1 2901
+M45
+X1
+Z7
+C2
+R0
+S
+#2901
+{BLUE}{BOLD}On the River of Kong{blue}~
+
+
+  {CY}{BOLD}You are on the mighty {BLU}{BOLD}River of Kong{blu}{bold}{CY}{BOLD} which pleasantly flows
+  from the {W}{BOLD}east{CY}{BOLD} to the {W}{BOLD}west.{CY}{BOLD}  To the distant {W}{BOLD}west{CY}{BOLD}, you can 
+  make out a village, and to the {W}{BOLD}north{CY}{BOLD} an eerie shore can
+  be seen.  The foliage on the {W}{BOLD}southern{CY}{BOLD} bank is thick 
+  and {G}{BOLD}lush{CY}{BOLD}, which prevents your movement to the {W}{BOLD}south.{w}{bold}
+
+
+~
+29 32768 7
+D0
+You can see a murky shore. Looks dangerous.
+~
+~
+0 -1 2903
+D1
+You can see the Jungle of Kong in the distance.
+~
+~
+0 -1 2900
+D3
+You can see a Tribal Village in the distance.
+~
+~
+0 -1 2909
+Z7
+C2
+R0
+S
+#2902
+{BLU}{BOLD}The Hidden C{CY}ave Behind The W{BLU}aterfall{blu}~
+
+
+  {Y}{BOLD}You enter a smelly old cave which surrounds you with various
+  types of {G}{BOLD}fungus{Y}{BOLD} and {y}{G}{BOLD}moss {g}{Y}{BOLD}that hang from the ceiling.  Forms
+  of recent inhabitants can be noticed by the presence of
+  footprints and unusual cleanliness.
+{y}
+  {BLU}{BOLD}You search the room more carefully but notice nothing
+  unusual aside from a small, {blu}{bold}{G}{BOLD}green leprechaun{g}{bold}{BLU}{BOLD} who appears
+  to be hanging vertically from the ceiling.  The little 
+  critter giggles insanely and leaps toward you.. Eeek!{blu}{bold}
+
+
+~
+29 17577 5
+D0
+~
+rock~
+1 -1 2978
+Z10
+C2
+R0
+S
+#2903
+{GREEN}A Murky Shore{green}~
+
+
+ {Y} You are now at a murky shore that is covered with various forms of
+  rocks and algae.  The river bank reveals that many struggles have
+  occurred in this vicinity.  
+{y}
+  {Y}A rotting, wooden {W}{BOLD}sign{y}{bold}{Y} sinks deeply into the shore-line.{y}
+
+
+~
+29 0 6
+D0
+It gets a little darker in this direction.
+~
+~
+0 -1 2904
+D2
+You see the River of Kong.
+~
+~
+0 -1 2901
+D3
+You see a muddy trail.
+~
+~
+0 -1 2914
+E
+sign~
+
+ {Y,BO}
+  *********************************************
+  *                                           *
+  *                                           *
+  *                                           *
+  *        {R,BO}BEWARE OF THE CROCODILES !!{Y,BO}        *
+  *                                           *
+  *                                           *
+  ********************************************* 
+{y,bo}
+~
+Z5
+C2
+R0
+S
+#2904
+{G}The Entrance to the{G}{BOLD} Giant Crocodile's Lair{g}{bold}~
+
+
+{Y}  You stand before a large hole in the ground. Leading downward 
+  into what appears to be a dark abyss, the ground here is moist 
+  and covered with a stringy moss. Massive crocodile tracks 
+  lead into the hole.  {y}
+
+
+~
+29 4 6
+D2
+You can see the river bank.
+~
+~
+0 -1 2903
+D5
+~
+~
+0 -1 2905
+Z5
+C2
+R0
+S
+#2905
+{G}{BOLD}The Giant Crocodile's Lair{g}{bold}~
+
+
+  {Y}The ground here is knee-deep in a {R}{BOLD}red{r}{bold}{Y}-colored mud that 
+  covers the floor. A stringy {G}{BOLD}moss{g}{bold}{Y} also covers the floor 
+  making it difficult to move around. Be careful, {G}{BOLD}the Giant
+  Crocodile{g}{bold}{Y} could be anywhere!{y}
+
+
+~
+29 129 6
+D0
+~
+~
+0 -1 2906
+D1
+~
+~
+0 -1 2907
+D2
+~
+~
+0 -1 2908
+D4
+~
+~
+0 -1 2900
+Z9
+C2
+R0
+S
+#2906
+{G}{BOLD}The Giant Crocodile's Lair{g}{bold}~
+
+
+  {Y}The ground here is knee-deep in a {R}{BOLD}red{r}{bold}{Y}-colored mud that 
+  covers the floor. A stringy {G}{BOLD}moss{g}{bold}{Y} also covers the floor 
+  making it difficult to move around. Be careful, {G}{BOLD}the Giant
+  Crocodile{g}{bold}{Y} could be anywhere!{y}
+
+
+~
+29 129 6
+D2
+~
+~
+0 -1 2905
+Z10
+C1
+R0
+S
+#2907
+{G}{BOLD}The Giant Crocodile's Lair{g}{bold}~
+
+
+  {Y}The ground here is knee-deep in a {R}{BOLD}red{r}{bold}{Y}-colored mud that 
+  covers the floor. A stringy {G}{BOLD}moss{g}{bold}{Y} also covers the floor 
+  making it difficult to move around. Be careful, {G}{BOLD}the Giant
+  Crocodile{g}{bold}{Y} could be anywhere!{y}
+
+
+~
+29 129 6
+D3
+~
+~
+0 -1 2905
+Z10
+C1
+R0
+S
+#2908
+{G}{BOLD}The Giant Crocodile's Lair{g}{bold}~
+
+
+  {Y}The ground here is knee-deep in a {R}{BOLD}red{r}{bold}{Y}-colored mud that 
+  covers the floor. A stringy {G}{BOLD}moss{g}{bold}{Y} also covers the floor 
+  making it difficult to move around. Be careful, {G}{BOLD}the Giant
+  Crocodile{g}{bold}{Y} could be anywhere!{y}
+
+
+~
+29 129 6
+D0
+~
+~
+0 -1 2905
+Z10
+C1
+R0
+S
+#2909
+{BLUE}{BOLD}On the River of Kong{blue}~
+
+
+  {CY}{BOLD}You are now on a great and mighty river flowing from the
+  {W}east{CY} to the {W}west{G}. The thick foliage along the river prevents
+  you from being able to land on shore here.{g}
+
+
+~
+29 32768 7
+D1
+~
+~
+0 -1 2901
+D3
+You can see a bend in the river.
+~
+~
+0 -1 2910
+X1
+Z7
+C2
+R0
+S
+#2910
+{BLUE}{BOLD}A Bend in the River of Kong{blue}~
+
+
+  {CY}{BOLD}You are on a great and mighty river that flows from the {W}east{CY} 
+  and continues to the {W}south{CY}.  The {BLU}water{CY} gets a little rougher
+  to the {W}south{CY}, however, and it would be advisable to prepare 
+  yourself with a canoe or flight spell before heading in that
+  direction.{cy}
+
+
+~
+29 4 7
+D0
+You can see the Village Shore in this direction.
+~
+~
+0 -1 2911
+D1
+You see water.
+~
+~
+0 -1 2909
+D2
+You see water.
+~
+~
+0 -1 2970
+Z7
+C2
+R0
+S
+#2911
+{YELLOW}{BOLD}The Aucan Shore{yellow}~
+
+
+  {Y}The bank of the river is scarred from all the canoes that 
+  have been brought ashore.  The village is to the {W}{BOLD}west{w}{bold}{Y} and 
+  a small hut is to the {W}{BOLD}north{w}{bold}{Y}. The {BLU}{BOLD}River of Kong{bold}{Y} is to the{WH}{BOLD}
+  south.{wh}
+
+
+~
+29 4 6
+D0
+You can see that all the canoes have been drug in this direction.
+~
+~
+0 -1 2912
+D1
+You see a damp and murky path.
+~
+~
+0 -1 2914
+D2
+You can see the River of Kong in this direction. It appears to bend from the
+east to the south.
+~
+~
+0 -1 2910
+D3
+You see that this path leads to the Aucan Village.
+~
+~
+0 -1 2915
+Z4
+C2
+R0
+S
+#2912
+{Y}{BOLD}Villager's Canoe Storage Hut{y}~
+
+
+  {Y}You enter a large hut where the {Y}{BOLD}Aucan{y}{bold}{Y}s keep their canoes.
+  Along the walls are an array of canoes and boats with tribal 
+  markings etched along them.{y}  
+
+
+~
+29 8 1
+D0
+You see an interesting looking hut with several half-finished hulls outside.
+~
+~
+0 -1 2913
+D2
+You see the bank of the river.
+~
+~
+0 -1 2911
+Z3
+C2
+R0
+S
+#2913
+{Y}{BOLD}The{BLU}{BOLD} Canoe{W}{BOLD} A{BLU}{BOLD}r{W}{BOLD}t{BLU}{BOLD}i{W}{BOLD}s{BLU}{BOLD}a{W}{BOLD}n{w}~
+
+
+  {Y}You now stand in the humble abode of the Villager's Canoe Artisan.
+  He works diligently here day in and day out creating the finest 
+  canoes on the continent. His works are proudly displayed on the
+  walls of this well-maintained hut.
+{y}
+  {Y}{BOLD}The Aucan Canoe Artisan notices you enter, flashes a smile and says, 
+  "{y}{bold}{W}Need any help?{w}{Y}{BOLD}"{y}{bold}
+
+
+~
+29 8332 1
+D2
+~
+~
+0 -1 2912
+Z3
+C2
+R0
+S
+#2914
+{G}{BOLD}The Murky Trail{g}{bold}~
+
+
+  {Y}The ground here is damp from the {BLU}{BOLD}River of Kong,{blu}{bold}{Y} which you can see 
+  to the {W}{BOLD}south{w}{bold}{Y}.  The river is barely visible due to the heavy 
+  foliage that exists along its edges.  There is no way you can get
+  to it from here. The trail here runs {W}{BOLD}east{w}{bold}{Y} and {W}{BOLD}west{w}{bold}{Y} towards a {G}{BOL}jungle{g}{bold}{Y}
+  village.{y}
+
+
+~
+29 32900 2
+D1
+~
+~
+0 -1 2903
+D3
+You see a bank to the River of Kong.
+~
+~
+0 -1 2911
+Z5
+C2
+R0
+S
+#2915
+{GREEN}Trail to the{YELLOW}{BOLD} Aucan Village{yel}~
+
+
+  {Y}You are now on a trail that starts at the shore of the {BLU}{BOLD}River
+  of Kong{blu}{bold}{Y} and leads to the {Y}{BOLD}Aucan Village.{y}{bold}
+
+
+~
+29 0 1
+D1
+You see the bank of the River of Kong.
+~
+~
+0 -1 2911
+D3
+You can see the Aucan Village.
+~
+~
+0 -1 2916
+Z3
+C2
+R0
+S
+#2916
+{YELLOW}{BOLD}Path through the Village{yellow}~
+
+
+  {Y}You are on a path that wanders through the {Y}{BOLD}Aucan Village{y}{bold}{Y}. 
+  There are {Y}{BOLD}Aucan Huts{y}{bold}{Y} both to the {W}{BOLD}north{w}{bol}{Y} and to the {W}{BOLD}south.{w}{bold} 
+
+
+~
+29 0 1
+D0
+You see a straw hut.
+~
+~
+0 -1 2917
+D1
+You can see the bank of the River of Kong in the distance.
+~
+~
+0 -1 2915
+D2
+You see a straw hut.
+~
+~
+0 -1 2918
+D3
+You see the center of the Village.
+~
+~
+0 -1 2919
+Z3
+C2
+R0
+S
+#2917
+{YELLOW}An Aucan Hut{yellow}~
+
+
+ {Y} Made of straw, the walls here are weak to intruders, yet very
+  water resistant.  A variety of different Aucan possessions have
+  been neatly arranged around the hut.  You peer around the room
+  looking for anything of possible value, but are halted promptly by 
+  a large guard who demands you leave the area at once.{y}
+
+
+~
+29 8 1
+D2
+~
+~
+0 -1 2916
+E
+bottom wall~
+
+{Y}  As stated in the book, on the bottom corner of this wall is engraved a word :
+                 {y}
+                  {R}  valakuna{r}
+
+~
+Z3
+C2
+R0
+S
+#2918
+{YELLOW}An Aucan Hut{yellow}~
+
+
+ {Y} Made of straw, the walls here are weak to intruders, yet very
+  water resistant.  A variety of different Aucan possessions have
+  been neatly arranged around the hut.  You peer around the room
+  looking for anything of possible value, but are halted promptly by 
+  a large guard who demands you leave the area at once.{y}
+
+
+~
+29 8 0
+D0
+~
+~
+0 -1 2916
+Z3
+C2
+R0
+S
+#2919
+{YELLOW}{BOLD}The Aucan Village Square{yellow}~
+
+
+  {Y}You are standing in the center of the {Y}{BOLD}Aucan Village{y}{bold}{Y}.  A dusty path 
+  leads in all directions.  To the {W}{BOLD}north{w}{bold}{Y} you can see the hut of the 
+  {CY}{BOLD}Aucan Medicine Man{cy}{bold}{Y}. The village encompasses you in the other directions. 
+
+
+~
+29 0 1
+D0
+You see the Aucan Medicine Man's hut.
+~
+~
+0 -1 2920
+D1
+You see the River of Kong in the distance.
+~
+~
+0 -1 2916
+D2
+You see the main portion of the Aucan Village.
+~
+~
+0 -1 2947
+D3
+In the distance, you can see a Sacred Aucan Burial Ground.
+~
+~
+0 -1 2922
+Z3
+C2
+R0
+S
+#2920
+{C}{BOLD}The{Y} Aucan{R} M{W}e{R}d{W}i{R}c{W}i{R}n{W}e{CY} Man's Hut{cy}{bold}~
+
+
+  {Y}You stand in the hut of a very old and wise Aucan man.  He stands 
+  before you wearing Aucan holy garments decorated with miscellaneous
+  magical items that give him his powers.  He is the most respected member
+  of the Tribe.  Adventurers come from many miles to seek his
+  services.{y}
+
+
+~
+29 140 0
+D0
+As you move closer to the door, the lock begins to emit a 
+high-pitched noise, as if it was seeking something... but what ?
+
+~
+thecircleoflife~
+8 2901 2921
+D2
+You see the Aucan Village.
+~
+~
+0 -1 2919
+Z3
+C2
+R0
+S
+#2921
+{CY}{BOLD}-+-{cy}{bold}{W}{BOLD} The Healing Ground{w}{bold}{CY}{BOLD} -+-{cy}{bold}~
+
+
+  {Y}The ground you are now on is of a special nature.  The holy 
+  ground is encircling a staff from which hangs a Talisman that 
+  radiates a {CY}{BOLD}m{W}a{CY}g{W}i{C}c{W}a{C}l{c}{bold}{Y} aura. It is rumored that the soul of a great
+  {Y}{BOLD}Aucan{y}{bold}{Y} Hero resides with the talisman.
+
+
+~
+29 12 1
+D2
+~
+thecircleoflife~
+4 2901 2920
+T2999
+Z3
+C2
+R0
+S
+#2922
+{YELLOW}{BOLD}Path through the Village{yellow}~
+
+
+  {Y}You are on a path that wanders through the Aucan Village. 
+  The Aucan Warriors train and reside to the north of here, while 
+  the {Y}{BOLD}Village Square{y}{bold}{Y} is to the {W}{BOLD}east{w}{bold}{Y} and the {W}Sacred Burial 
+  Ground{w}{Y} is to the {W}{BOLD}west.{w}{bold}
+
+
+~
+29 0 1
+D0
+You see a few warriors taunting each other.
+~
+~
+0 -1 2923
+D1
+You see the center of the Village.
+~
+~
+0 -1 2919
+D3
+You can see the Sacred Burial Grounds in this direction.
+~
+~
+0 -1 2926
+Z3
+C2
+R0
+S
+#2923
+{YELLOW}Aucan Warrior's Sparring Grounds{yellow}~
+
+
+{Y}  The ground here is covered with tracks and shows signs of
+  struggle.  All of the {Y,BO}Aucan{y,bo}{Y} Warriors learned how to fight
+  under the teaching of the Master {Y,BO}Aucan{y,bo}{Y} Warrior, a fierce 
+  fighter. 
+{Y}
+  To become a member of the war party, an {y}{Y,BO}Aucan{y,bo}{Y} must kill the
+  Giant Sloth.
+{y}
+ {R,BO} Think you have what it takes, adventurer?{r}
+
+
+~
+29 0 1
+D0
+You see a hut were the real warriors hang out.
+~
+~
+0 -1 2925
+D1
+You can see a training hut.
+~
+~
+0 -1 2924
+D2
+~
+~
+0 -1 2922
+Z3
+C2
+R0
+S
+#2924
+{Y}Young{Y}{BOLD} Aucan{y}{bold}{Y} Warrior's Training Hut{y}~
+
+
+{Y}  The hut here is very large and looks like it has been 
+  through hell. Everything in the hut has been torn up by 
+  the mischievous young {Y,BO}Aucan{y}{Y}s. The young {Y,BO}Aucan{y}{Y} Warriors 
+  train here until they feel fit to combat the Giant Sloth.{y} 
+
+
+~
+29 8 0
+D3
+~
+~
+0 -1 2923
+Z3
+C2
+R0
+S
+#2925
+{YELLOW}Aucan Warrior's Hut{yellow}~
+
+
+  {Y}The hut you have just entered is very intimidating.  The 
+  shrunken heads of hostile adventurers hang on the wall as 
+  trophies.  Hanging with the adventurers' heads are the heads
+  of past neighboring chieftains that have tried to invade 
+  Aucan territory.{y}
+
+
+~
+29 8 0
+D2
+~
+~
+0 -1 2923
+E
+heads head~
+One of the heads looks like YOU!!!
+~
+Z3
+C2
+R0
+S
+#2926
+{YELLOW}{BOLD}Path to the{WHITE}{BOLD} Sacred Aucan Burial Grounds{whi}~
+
+
+  {Y}The path you are now on leads to a dangerous graveyard where many
+  ghosts lurk about.  Some of the ghosts that abide there were killed
+  by adventurers such as you. 
+{y}
+  {R,BOL}Proceed with caution{r}{W} -{w}{Y}  They may still have a grudge.{y} 
+
+
+~
+29 0 1
+D1
+~
+~
+0 -1 2922
+D3
+It looks a little spooky in this direction.
+~
+gate~
+1 2910 2927
+Z3
+C2
+R0
+S
+#2927
+{WHITE}{BOLD}Entrance to the Sacred Aucan Burial Grounds{white}~
+
+
+{Y}  The air here is a bit misty.  The lights of the village seem to
+  refuse to illuminate this portion of the area at night.   No {Y,BO}Aucan{y}{Y} has
+  ever entered the {W,BO}Sacred Burial Grounds{w}{Y} unless they came to bury a 
+  fellow{y}{Y,BO} Aucan{y}{Y}.  It is rumored that there are many spirits of past
+  {Y,BO}Aucan{y}{Y}s that roam about the Burial Grounds, seeking {R,BO}revenge{r}{Y} for their
+  deaths at the hands of Adventurers like you.  The first great 
+  Chieftain of the {Y,BOL}Aucan{y}{Y} Tribe is buried somewhere in these Sacred 
+  Grounds.  It has been said that he buried the secret to a great Aucan
+  treasure in a hidden {W,BOL}tomb{w}{Y} and you begin to wonder if the rumors could
+  possibly be real.{y}
+
+
+~
+29 12 0
+D0
+You can hear the cry of children in this direction.
+~
+~
+0 -1 2928
+D1
+You can see the Aucan Village.
+~
+gate~
+1 -1 2926
+D2
+You see the corner of the Burial Ground.
+~
+~
+0 -1 2933
+D3
+You see an eerie path.
+~
+~
+0 -1 2932
+D5
+~
+tomb~
+8 2967 30215
+Z3
+C2
+R0
+S
+#2928
+{WHITE}The Aucan Children's Graves{white}~
+
+
+  {Y}You are surrounded by a vast array of small tombstones.  Each of the
+  tombstones has an assortment of children's toys and dolls placed in 
+  front of them.  A {W}scream{w}{Y} can be heard in the distance, sending a 
+  {CY}shiver{cy}{Y} down your spine.{y}
+
+
+~
+29 128 0
+D0
+You see more small tombstones.
+~
+~
+0 -1 2929
+D2
+~
+~
+0 -1 2927
+D3
+You see more small tombstones.
+~
+~
+0 -1 2931
+E
+toys~
+It appears to be a simple string with a rock tied to the end.
+~
+E
+tombstones small~
+It is really a sad sight, the Village must have a high infant mortality rate.
+~
+Z3
+C2
+R0
+S
+#2929
+{WHITE}The Aucan Children's Graves{white}~
+
+
+  {Y}You are surrounded by a vast array of small tombstones.  Each of the
+  tombstones has an assortment of children's toys and dolls placed in 
+  front of them.  A {W}scream{w}{Y} can be heard in the distance, sending a 
+  {CY}shiver{cy}{Y} down your spine.{y}
+
+
+~
+29 128 0
+D2
+You see several small tombstones.
+~
+~
+0 -1 2928
+D3
+You see several small tombstones.
+~
+~
+0 -1 2930
+Z3
+C2
+R0
+S
+#2930
+{WHITE}The Aucan Children's Graves{white}~
+
+
+  {Y}You are surrounded by a vast array of small tombstones.  Each of the
+  tombstones has an assortment of children's toys and dolls placed in 
+  front of them.  A {W}scream{w}{Y} can be heard in the distance, sending a 
+  {CY}shiver{cy}{Y} down your spine.{y}
+
+
+~
+29 128 0
+D1
+You see several small tombstones.
+~
+~
+0 -1 2929
+D2
+You see several small tombstones.
+~
+~
+0 -1 2931
+Z3
+C2
+R0
+S
+#2931
+{WHITE}The Aucan Children's Graves{white}~
+
+
+  {Y}You are surrounded by a vast array of small tombstones.  Each of the
+  tombstones has an assortment of children's toys and dolls placed in 
+  front of them.  A {W}scream{w}{Y} can be heard in the distance, sending a 
+  {CY}shiver{cy}{Y} down your spine.{y}
+
+
+~
+29 128 0
+D0
+You see several small tombstones.
+~
+~
+0 -1 2930
+D1
+You see several small tombstones.
+~
+~
+0 -1 2928
+Z3
+C2
+R0
+S
+#2932
+{WHITE}{BOLD}A Path through the Sacred Aucan Burial Ground{white}{bold}~
+
+
+{Y}  You are on a rugged, dusty path that extends westward towards an
+  intersection, and east back to the entrance.  {W,BOL}Ghosts{w}{Y} hover around you
+  aimlessly, using their translucent bodies to scare off any unwanted 
+  guests.  The ground is covered with {R,BOL}ants{r}{Y} and {BLA}spiders{bla}{Y} that begin to crawl
+  up your leg if you are still for too long.{y}
+
+
+~
+29 0 2
+D1
+You see the entrance to the Burial Ground.
+~
+~
+0 -1 2927
+D3
+You see an intersection.
+~
+~
+0 -1 2936
+Z3
+C2
+R0
+S
+#2933
+{WHITE}{BOLD}The Southeastern Corner of the Burial Grounds{white}~
+
+
+{Y}  You are on a rugged, dusty corner-path that extends westward towards an
+  intersection, and north back to the entrance.  {W,BOL}Ghosts{w}{Y} hover around you
+  aimlessly, using their translucent bodies to scare off any unwanted 
+  guests.  The ground is covered with {R,BOL}ants{r}{Y} and {BLA}spiders{bla}{Y} that begin to crawl
+  up your leg if you are still for too long.{y}
+
+
+~
+29 0 2
+D0
+You see the entrance to the Sacred Aucan Burial Grounds.
+~
+~
+0 -1 2927
+D3
+You see a large tombstone.
+~
+~
+0 -1 2934
+Z3
+C2
+R0
+S
+#2934
+The Grave of {RED}{BOLD}Tjowi{r}{bold}{W}, the Great{w}{Y}{BOLD} Aucan{y}{bold} Warrior~
+
+
+   {Y}Before you is a large tombstone with detailed {Y}{BOLD}Aucan{bold}{Y} markings etched upon
+   its {W}stone{w}{Y} surface.  A large {R}ceramic{r}{Y} dish is placed in front of the coffin
+   as a way of donating gifts to the dead.  According to {BOLD}Aucan{bold}{Y} legend, the
+   village was invaded by the Mal Mani's nearly two-hundred years ago.   
+   {M}Tjowi{m}{Y} single-handedly killed forty-three men in a vain attempt to protect
+   the children of the village.{y}
+
+
+~
+29 16396 0
+D1
+You see the corner of the Burial Grounds.
+~
+~
+0 -1 2933
+D3
+You see another tombstone.
+~
+~
+0 -1 2935
+E
+tombstone large~
+                              _____________
+                             /             \
+                            /               \
+                           /      TJOWI      \
+                          |       R.I.P.      |
+                          |                   |
+                          |                   |
+                          |___________________|
+~
+Z3
+C2
+R0
+S
+#2935
+The Grave of{GR}{BOLD} Bawji{gr}{bold}{W}, the Great{w}{Y}{BOLD} Aucan{y}{bold}{W} Mother{w}~
+
+
+  {Y}Before you is a large tombstone with detailed {Y,BOL}Aucan{y,bol}{Y} markings etched 
+  upon its {W}stone{w}{Y} surface.  A large {RED}ceramic{r}{Y} dish is placed in front of the 
+  coffin as a way of donating gifts to the dead.  According to {Y,BOL}Aucan{y,bol}{Y} legend, 
+  Bawji led five warriors behind enemy lines and {BLA}assassinated{bla}{Y} the leader of
+  the Mal Malni's.  Bawji unfortunately died shortly after his heroic deed, 
+  yet it forced the enemy to fall back, thus giving the {Y,BOL}Aucan{y,bol}{Y}s victory.{y}
+
+
+~
+29 4 2
+D0
+You see an intersection.
+~
+~
+0 -1 2936
+D1
+You see another tombstone.
+~
+~
+0 -1 2934
+D3
+You see another tombstone.
+~
+~
+0 -1 2938
+E
+tombstone large~
+                                ------------
+                              /              \
+                             /                \
+                            /      BAWJI       \
+                            |      R.I.P.      |
+                            |                  |
+                            |                  |
+                            |__________________|
+~
+Z3
+C2
+R0
+S
+#2936
+{WHITE}{BOLD}An Intersection in the Sacred Aucan Burial Ground{white}{bold}~
+
+
+{Y}  You stand at an intersection which diverges into three directions,
+  all of which {RED}{BOLD}DO NOT{red}{bold}{Y} look inviting.  Guess you better head back
+  now... {WH}{BOLD}while you still can{wh}{bold}.
+
+
+~
+29 8 0
+D1
+You see a path.
+~
+~
+0 -1 2932
+D2
+You see a large tombstone.
+~
+~
+0 -1 2935
+D3
+You see a large, open grave. Several Aucan Spirits stand there with shovels,
+waiting for someone to fall in.
+~
+~
+0 -1 2937
+Z3
+C2
+R0
+S
+#2937
+{RED}{BOLD}A Dead End{red}~
+
+
+  {BLA}You step off into an open grave and the spirits of the 
+  dead Aucan Warriors begin to cover you with dirt.  The 
+  dirt covers you more and more until you find it almost 
+  impossible to breathe.  You finally choke and go unconscious. 
+{bl}{BL}
+  Guess you should look before you leap...{bl}
+
+
+~
+29 2 1
+D1
+~
+~
+0 -1 2936
+Z3
+C-1
+R0
+S
+#2938
+{WHITE}The Grave of Adjitu, the Great Aucan Elder{white}~
+
+
+  {Y}Before you is a large tombstone.  The greatest of all Aucan
+  elders is buried here.  He was killed at the ripe, old age
+  of 122.  His body was still young in appearance, and many
+  wonder whether his death really did occur... or if he fled
+  to other lands in search of knowledge.{y}
+
+
+~
+29 0 2
+D1
+You see a large tombstone.
+~
+~
+0 -1 2935
+D3
+You see a bend in the path.
+~
+~
+0 -1 2939
+E
+tombstone large~
+                                ------------
+                              /              \
+                             /                \
+                            /      ADJITU      \
+                            |      R.I.P.?     |
+                            |                  |
+                            |                  |
+                            |__________________|
+~
+Z3
+C2
+R0
+S
+#2939
+{W}{BOLD}The Southwestern Corner of the Burial Grounds{w}{bold}~
+
+
+{Y}  You are on a rugged, dusty corner-path that extends westward towards an
+  intersection, and north back to the entrance.  {W,BOL}Ghosts{w}{Y} hover around you
+  aimlessly, using their translucent bodies to scare off any unwanted 
+  guests.  The ground is covered with {R,BOL}ants{r}{Y} and {BLA}spiders{bla}{Y} that begin to crawl
+  up your leg if you are still for too long.{y}
+
+
+~
+29 0 2
+D0
+You see a large tombstone.
+~
+~
+0 -1 2940
+D1
+You see a large tombstone.
+~
+~
+0 -1 2938
+Z3
+C2
+R0
+S
+#2940
+{W}The Grave of Racikol, the Great {Y}{BOLD}Aucan{y}{bold} {BL}Blacksmith{bl}~
+
+
+  {Y}Before you is a large tombstone with detailed {Y}{BOLD}Aucan{y}{bold}{Y} markings etched
+  upon its stone surface.  A large {R}ceramic{r}{Y} dish is placed in front of
+  the coffin as a way of donating gifts to the dead.  According to {y}{Y}{BOLD}Aucan{y}{bold}{Y}
+  legend, Racikol was the mastermind behind the creation of many
+  of the instruments of defense that the {Y}{BOLD}Aucans{y}{bold}{Y} used
+  in battle years ago.  {y}
+
+
+~
+29 0 2
+D0
+You see a large tombstone.
+~
+~
+0 -1 2941
+D2
+You see a bend in the path.
+~
+~
+0 -1 2939
+E
+tombstone large~
+                                ------------
+                              /              \
+                             /                \
+                            /      RACIKOL     \
+                            |                  |
+                            |   YOU NEVER HAD  |
+                            |     A CHANCE     |
+                            |__________________|
+~
+Z3
+C2
+R0
+S
+#2941
+{WHITE}The Grave of Owgi, the Militant One{white}~
+
+
+ {Y} Before you is a large tombstone with detailed {Y}{BOL}Aucan{y}{bold}{Y} markings etched
+  upon its {W}stone{w}{Y} surface.  A large {R}ceramic{r}{Y} dish is placed in front of
+  the coffin as a way of donating gifts to the dead.  According to {Y,BOL}Aucan{y,bold}{Y}
+  legend, Owgi was rumored to be useless.  He did nothing but drink and
+  smoke, and constantly gloated to others about his amazing hair.  After
+  the war, a huge party took place, one in which Owgi drank himself silly 
+  and died of alcohol poisoning.{y}  
+
+
+~
+29 0 2
+D1
+You see an intersection.
+~
+~
+0 -1 2942
+D2
+You see another tombstone.
+~
+~
+0 -1 2940
+Z3
+C2
+R0
+S
+#2942
+{WHITE}{BOLD}An Intersection in the Sacred Aucan Burial Ground{white}~
+
+
+ {Y} You now stand at an intersection that leads in many
+  directions,  all of which do not look inviting. Guess
+  you had better head back now...
+{y}
+{BL}     . . . while you still can{bl}
+
+
+~
+29 0 2
+D0
+You see a shrine of some sorts.
+~
+~
+0 -1 2945
+D1
+An awful smell emanates from this direction.
+~
+~
+0 -1 2943
+D3
+You see another tombstone.
+~
+~
+0 -1 2941
+Z3
+C2
+R0
+S
+#2943
+{WHITE}{BOLD}The Mass Grave{white}{bold}~
+
+
+ {Y} You now stand in front of a massive grave.  The stench of
+  rotting flesh fills the air. Piled here, are the decaying corpses 
+  of fallen adventurers who have attempted to find the {W}{BOL}Spirit of the 
+  Chieftain{w}{bold}{Y}, who holds the secret of the {Y}{BOLD}Aucan Treasure{y}{bold}.
+
+
+~
+29 0 2
+D0
+You can see a pile of bones.
+~
+~
+0 -1 2944
+D3
+You see an intersection.
+~
+~
+0 -1 2942
+Z3
+C2
+R0
+S
+#2944
+{WHITE}{BOLD}A Heaping Pile of Bones{white}~
+
+{Y}  Never before have you ever seen such a collection of bones.
+  All of them have apparently been ripped off of adventurers
+  before they had a chance to react.
+  
+  {Y,BOLD}To the {BLU,BOLD}West{blu,bold}{Y}{BOLD}, the trail of{y}{bold}{W}{BOLD} bones{b}{bold}{Y}{BOLD} continues...{y}{bold}
+  
+  {Y}{BOLD}To the{BLU,BOLD} South{blu,bold}{Y}{BOLD}, a strange and unique smell blows in...{y}{bold}.
+
+
+~
+29 0 2
+D2
+You see a large pile of bodies.
+~
+~
+0 -1 2943
+D3
+You see a shrine of some sorts.
+~
+~
+0 -1 2945
+Z3
+C2
+R0
+S
+#2945
+{WHITE}The Ancient Chieftain's Shrine{white}~
+
+
+  {Y}You stand before a great work of {W}stone{w}{Y} and wood.  The 
+  carvings on the side of the Shrine appear to tell a story
+  of the formation of the tribe.  The First Chieftain of the 
+  {Y,BOLD}Aucan Tribe{y,bold}{Y} was buried here centuries ago.  All who have
+  entered the Shrine have never returned.   Nobody knows what 
+  lies inside.{y}
+
+
+~
+29 0 2
+D1
+~
+~
+0 -1 2944
+D2
+~
+~
+0 -1 2942
+D3
+{W}  You see a large door made of ivory and marble.{w}
+
+
+~
+door large~
+1 -1 2946
+X2048
+Z3
+C2
+R0
+S
+#2946
+{WHITE}The Chieftain's Tomb{white}~
+
+
+  {Y}You are breathless, as the room gives you a feeling of awe and 
+  amazement. The walls are layered in pure {Y,BOL}g{y,bol}{Y}o{y}{Y,BOL}l{y,bold}{Y}d, and lavish
+  {R}carpets{r}{Y} and {y}{BLU,BOLD}tapestries{bold}{Y} decorate the area.  The {Y,BOL}Aucan{y,bold}{Y} tribe must 
+  have spent years of labor preparing this tomb for their supreme
+  ruler.  You feel as if you have made a mistake entering this 
+  tomb. Perhaps it would be a good time to leave while the {W}Ancient
+  Chieftain{W}{Y} is not looking ?!{y}
+
+
+~
+29 17420 0
+D1
+~
+door~
+1 -1 2945
+T2999
+Z3
+C2
+R0
+S
+#2947
+{YELLOW}{BOLD}Path through the Village{yellow}~
+
+
+ {Y} You are on a dusty path that crosses near the center of 
+  {Y,BOL}Aucan{y}{Y}. Common-folk peer at you inquisitively concerned 
+  as you make your way through the dangerous village street. Various 
+  peddlers stop you to try and hawk their products, screaming 
+  obscenities as you ignore them and push forward.  The {M}{BOL}Aucan 
+  Elders{m}{bold}{Y} gather at the clearing to the {Y,BOL}west{y}{Y}.  To the {Y,BOL}east{y}{Y} of here, you
+  see the village granary, where the {Y}{BOL}Aucan Baker{y}{Y} works to sell his 
+  goods. {y}
+
+
+~
+29 0 1
+D0
+You can see the center of the Aucan Village.
+~
+~
+0 -1 2919
+D1
+~
+~
+0 -1 2949
+D2
+The path continues in this direction.
+~
+~
+0 -1 2950
+D3
+~
+~
+0 -1 2948
+Z3
+C2
+R0
+S
+#2948
+{Y}{BOLD}Aucan{MAG}{BOLD} Elder's{Y} Gathering Place{y}~
+
+
+  {Y}Covering the ground, you notice it is covered with special {G}{BOLD} pot {g}{bold}{Y}
+  leaves, often smoked by the villagers.  Nearby, you can overhear 
+  the villagers telling stories of past tribal wars and of the many 
+  hapless adventurers they have defeated in the past. The elders of 
+  the Village sit around a {R}{BOLD}fire{r}{bold}{Y} in the middle of this area telling 
+  stories of past Tribal Wars and of many adventurers they have killed 
+  in the past.{y}
+
+
+~
+29 0 1
+D1
+~
+~
+0 -1 2947
+Z3
+C2
+R0
+S
+#2949
+{Y}Auca{Y}{BOLD}n Village Gra{y}{bold}{Y}nary{y}~
+
+
+  {Y}Your senses come alive as you step into this hut.  The
+  smell of freshly baked bread comes from the earthern
+  hearth.  The baker works diligently, all day and all 
+  night to make sure the villagers have enough to eat. {y}
+
+
+~
+29 8332 0
+D3
+~
+~
+0 -1 2947
+Z3
+C2
+R0
+S
+#2950
+{YELLOW}{BOLD}Path through the Village{yellow}~
+
+
+ {Y} You are on a dusty path that crosses near the center of
+  {Y}{BOLD}Aucan{y}{bold}{Y}.  Common-folk peer at you inquisitively concerned
+  as you make your way through the dangerous village street.  Various
+  peddlers stop you and attempt to hawk their wares, screaming
+  obscenities as you ignore them and push forward.{y}
+
+
+~
+29 0 1
+D0
+~
+~
+0 -1 2947
+D2
+~
+~
+0 -1 2952
+Z3
+C2
+R0
+S
+#2951
+{YELLOW}The Aucan Village Craftsman{yellow}~
+
+
+  {Y}You are now in a hut filled with various types of items the {Y}{BOLD}Aucan
+  Craftsmen{y}{bold}{Y} expertly created from the {G}{BOLD}jungle{g}{bold}{Y}s resources. {R}Adventurers{r}{Y} 
+  stop here often to buy supplies before venturing forth into the 
+  distant lands.{y} 
+
+
+~
+29 8332 0
+Z3
+C2
+R0
+S
+#2952
+{YELLOW}{BOLD}Path through the Village{yellow}{bold}~
+
+
+ {Y} You are on a dusty path that crosses near the center of 
+  {Y,BOL}Aucan{y}{Y}. Common-folk peer at you inquisitively concerned 
+  as you make your way through the dangerous village street. Various 
+  peddlers stop you to try and haggle their products, screaming 
+  obscenities as you ignore them and push forward. To the {Y}{BOLD}west{y}{bold}{Y} a 
+  {W}{BOLD}sign{w}{bold}{Y} is posted next to the {R}{BOLD}Chieftain Guards Hut{r}{bold}{Y} that you may
+  want to read.
+{y}
+  {W}{BOLD}You see the  Chieftain's Hut to the east. {w}{bold}
+   
+
+~
+29 4 1
+D0
+~
+~
+0 -1 2950
+D1
+~
+door~
+1 -1 2954
+D2
+~
+~
+0 -1 2960
+D3
+You see an official looking hut.
+~
+~
+0 -1 2953
+E
+sign~
+
+                     ==================================
+                     |         DO NOT ENTER           |
+                     |     CHIEFTAIN GUARDS ONLY      |
+                     ==================================
+~
+Z3
+C2
+R0
+S
+#2953
+{R}{BOLD}Chieftain's Guards' Hut{red}{bold}~
+
+
+  {Y}You now stand in the headquarters of the Chieftain's
+  guards.  These {Y}{BOLD}Aucan{y}{bold}{Y}s are held responsible for the 
+  Chieftain's safety, and are willing to sacrifice their 
+  lives to keep the secret of the {Y}{BOL}Aucan{y}{bold}{Y} treasures out 
+  of the hands of pilferers such as you. {y}
+
+
+~
+29 12 0
+D1
+~
+~
+0 -1 2952
+Z3
+C2
+R0
+S
+#2954
+{WHITE}{BOLD}Entrance to Chieftain's Hut{white}~
+
+
+{Y}  You have entered the grandest of all huts in the village. 
+  The hut itself does not grab you as spectacular, however,
+  you can tell that a highly respected person lives here. 
+  Hanging from the walls, you see the gifts of other tribe 
+  chieftains decorating the room.
+{y}
+  {G}{BOLD}There is a large{W}{BOLD} sign{w}{bold}{G}{BOLD} posted to a totem pole here.{g}{bold}
+
+
+~
+29 8 0
+D1
+You can see a path outside the hut.
+~
+~
+0 -1 2957
+D2
+You see a large table.
+~
+~
+0 -1 2955
+D3
+You see a room with floor mats on the ground.
+~
+door~
+1 -1 2952
+E
+sign~
+
+
+                    {Y}{BOLD}=================================={y}{bold}
+                    {Y}{BOLD}|{y}{bold}                                {Y}{BOLD}|{y}{bold}
+                    {Y}{BOLD}|{y}{bold}     {R}{BOLD} DO NOT{r}{bold}{W} ENTER HUT{w}         {Y}{BOLD} |{y}{bold}
+                    {Y}{BOLD}|{y}{bold}      {W}WITHOUT CHIEFTAIN'S{w}       {Y}{BOLD}|{y}{bold}
+                    {Y}{BOLD}|{y}{bold}     {W}EXPLICIT PERMISSION!!!{w}     {Y}{BOLD}|{y}{bold}
+                    {Y}{BOLD}|{y}{bold}                                {Y}{BOLD}|{y}{bold}
+                    {Y}{BOLD}=================================={y}{bold}
+
+
+~
+Z3
+C2
+R0
+S
+#2955
+{WHITE}{BOLD}The Chieftain's Dining Room{white}~
+
+
+{Y}  Entering a large dining room, you notice the main feature appears
+  to be the large table in the corner.  The {R}{BOLD}half-eaten{r}{bold}{Y} remains of 
+  several different animals are strewn about the table.  Rumors have 
+  been told that the {Y}{BOLD}Aucan Chieftain{y}{bold}{Y} often eats three monkeys 
+  in one sitting.
+{y}
+  {BLA}What a scary and digusting thought... {bl}
+
+
+~
+29 8 0
+D0
+You see the entrance to the hut.
+~
+~
+0 -1 2954
+D1
+You see a large room that is elaborately decorated.
+~
+~
+0 -1 2956
+E
+table~
+It is covered with monkey bones and left-over banana pudding.
+~
+Z3
+C-1
+R0
+S
+#2956
+{WHITE}{BOLD}The Chieftain's Entertainment Room{white}~
+
+
+ {Y} Scattered about the room, you see several of the Chieftain's guests 
+  sitting on floormats and watching in awe as the beautiful {R}{BOLD}belly{r}{bold}{Y} dancers 
+  gyrate to the beat of the drums.{y}
+
+
+~
+29 8 0
+D0
+You see a room with floor mats on the ground.
+~
+~
+0 -1 2957
+D3
+You see a large table.
+~
+~
+0 -1 2955
+Z3
+C1
+R0
+S
+#2957
+{WHITE}{BOLD}A Waiting Room in the Chieftain's Hut{white}~
+
+
+  {Y}You have entered a large room within the hut.  You see the 
+  perimeter is lined with {R}floor mats{r}{Y}, where several {BLU}diplomats{blu}{Y} from 
+  neighboring tribes are sitting and waiting.  After a few moments of 
+  conversing with one of the {BLU}diplomats{blu}{Y} you learn they're waiting to 
+  speak with the {Y}{BOLD}Aucan{W}{BOLD} Chieftain{w}{bold}{Y}.  The beating of drums bellows 
+  throughout the room as {G}{BOLD}snake-charmers{g}{bold}{Y} magically move snakes out of
+  a vase.{y}
+
+
+~
+29 8 0
+D0
+~
+~
+0 -1 2958
+D2
+You see an elaborately decorated room.
+~
+~
+0 -1 2956
+D3
+You see the entrance to the hut.
+~
+~
+0 -1 2954
+E
+diplomats tribal~
+They represent a vast array of different jungle tribes.
+~
+Z3
+C2
+R0
+S
+#2958
+{WHITE}{BOLD}The Chieftain's Outer Chamber{white}~
+
+
+ {Y} As you enter the {W}Outer Chamber{w}{Y}, you begin to realize 
+  the power and the riches of this mighty Chieftain. 
+  For an {Y}{BOLD}Aucan{y}{bold}{Y} to become the Chieftain of the Tribe, 
+  there must be a battle between all the contenders.. 
+  to the death.  The last {Y}{BOLD}Aucan{y}{bold}{Y} standing is crowned 
+  Chieftain of the Tribe.  To fight the Chieftain is 
+  to fight the mightiest of all {Y}{BOLD}Aucan{y}{bold}{Y}s.{y}
+
+
+~
+29 136 0
+D2
+You see the waiting room.
+~
+~
+0 -1 2957
+D3
+You see the Inner Chamber.
+~
+~
+0 -1 2959
+Z3
+C1
+R0
+S
+#2959
+{WHITE}{BOLD}The Chieftain's Inner Chamber{white}~
+
+
+  {Y}You have entered a room of absolute {BLU}{BOLD}splendor{blu}{bold}{Y} and {RED}{BOLD}glory{red}{bold}{Y}.
+  The walls are layered with {Y}{BOLD}gold{y}{bold}{Y} and decorated with 
+  trophies of war.  The chieftain is responsible for keeping
+  the treasure of the {Y}{BOLD}Aucan{y}{bold}{Y}s safe and only he has the key
+  to the {BL}hidden{bl}{Y}{BOLD} treasure{y}{bold}{Y} room.{y}
+
+
+~
+29 16392 0
+D1
+~
+~
+0 -1 2958
+Z3
+C2
+R0
+S
+#2960
+{Y}{BOLD}Path through the Village{y}~
+
+
+  {Y}You are on a dusty path that crosses near the center of 
+  {Y}{BOLD}Aucan{y}{bold}{Y}. Common-folk peer at you inquisitively concerned 
+  as you make your way through the dangerous village street. Various 
+  peddlers stop you to try and hawk their products, screaming 
+  obscenities as you ignore them and push forward.
+  {y}
+  {W}{BOLD}The{Y}{BOLD} Aucan{BLU}{BOLD} Weaponsmith{blu}{bold}{Y} is to the west.
+
+
+~
+29 0 1
+D0
+~
+~
+0 -1 2952
+D2
+~
+~
+0 -1 2962
+D3
+~
+~
+0 -1 2961
+Z3
+C2
+R0
+S
+#2961
+{W}{BOLD}The{Y}{BOLD} Aucan{BLU}{BOLD} Weaponsmith{blu}{bold}~
+
+
+  {Y}This hut is filled with the latest in
+  {Y}{BOLD}Aucan{y}{bold}{Y} weaponry.  The Aucans are famous for their
+  superior weapons and exquisite armor.  They are also known
+  to sell their weapons and armor to anyone who can 
+  meet the price.
+
+
+~
+29 140 0
+D1
+~
+~
+0 -1 2960
+D3
+{Y} An ancient {BOLD}Aucan{bold}{Y} locking feature encompasses the center front
+  of this door.  The door has an alphabetical dial and ten small
+  niches in which need to be filled with letters.  Adjusting the
+  tuner to the correct letter, followed by pressing a small red 
+  button on the tuner, will set that letter into the niche.  The
+  door will remain firmly shut until correct letters are set and
+  the {BOLD}{M}m{W}a{CY}g{R}i{M}c{W}a{CY}l{bold}{Y} word is revealed.{y}
+
+
+~
+deathtoall~
+3 -1 30224
+Z3
+C2
+R0
+S
+#2962
+{YELLOW}{BOLD}Path through the Village{yellow}~
+
+
+  {Y}You are on a dusty path that crosses near the center of 
+  {Y}{BOLD}Aucan{y}{bold}{Y}. Common-folk peer at you inquisitively concerned 
+  as you make your way through the dangerous village street. Various 
+  peddlers stop you to try and hawk their products, screaming 
+  obscenities as you ignore them and push forward.
+  You are on a path that wanders through the {Y}{BOLD}Aucan {y}{bold}{Y}Village.
+{W}
+  {BOLD}To the {Y}{BOLD}west{y}{bold}{W}{BOLD} you can see the {Y}{BOLD}Aucan Inn.
+{y}{bold}
+  {W}{BOLD}To the {Y}{BOLD}east{y}{bold}{W}{BOLD} you can see the {CY}{BOLD}Aucan Domesticated Animal Shop.
+{cy}{bold}
+  {W}{BOLD}To the {Y}{BOLD}south{y}{bold}{W}{BOL} lies the {YELLO}{BOLD}Ancient Chieftain's {WH}Cenotaph.{wh}
+
+
+~
+29 4 1
+D0
+~
+~
+0 -1 2960
+D1
+~
+~
+0 -1 2963
+D2
+~
+~
+0 -1 2965
+D3
+~
+~
+0 -1 2968
+Z3
+C2
+R0
+S
+#2963
+{YELLOW}Aucan Domesticated Animal Shop{yellow}~
+
+
+  {Y}In this hut you see many different jungle animals in cages. 
+  All of them have been domesticated and have been known to
+  be excellent pets to their owners.
+{y}
+  {Y}{BOLD}There is a {W}{BOLD}sign{w}{bold}{Y}{BOLD} on the counter for further instructions.
+{y}{bold}
+  {Y}The Aucan Animal Keeper stands here, waiting to help you.{y}
+
+
+~
+29 12 0
+D3
+~
+~
+0 -1 2962
+D5
+~
+passageway~
+3 -1 30214
+E
+aucan animal keeper~
+
+
+ {Y} He is a portly fellow of medium age. He has been endowed by the 
+  Medicine Man with the special power of wild animal domestication.
+  Don't even think about attacking him, he has a special 
+  cloaking ability that prevents any aggressor from harming him.{y}
+
+
+~
+E
+sign~
+
+
+   {Y}{BOLD}The sign reads:
+{y}{bold}
+   {W}{BOLD}Use 'List' to see the pets available.
+   Use 'Buy <pet>' to buy yourself a pet.
+{w}{bold}
+   {Y}{BOLD}Instructions for having pets:
+{y}{bold}
+   {W}{BOLD}You can use 'order <pet> <instructions>' to order your pets around. If you
+   abuse your pet, it will no longer regard you as its master. If you have
+   several pets, you may use 'order followers <instructions>'
+{w}{bold}
+  
+
+~
+Z3
+C2
+R0
+S
+#2964
+{YELLOW}Aucan Domesticated Animal Shop Store Room{yellow}~
+~
+29 8 0
+Z3
+C-1
+R0
+S
+#2965
+{BLACK}{BOLD}The Ancient Chieftain's Cenotaph{black}~
+
+
+  {Y}You now stand before a great work of stone.  This {WH}{BOLD}cenotaph{w}{bold}{Y}
+  was constructed by the greatest {Y}{BOLD}Aucan{y}{bold}{Y} artistans in honor 
+  of their first Chieftain's death.  It stands here as a
+  reminder to the Aucans of their heritage and might.
+   
+  An {W}{BOLD}inscription{w}{bold}{Y} is carved on a {W}{BOLD}plaque{w}{bold}{Y} at the bottom of the 
+  cenotaph.{y}
+
+
+~
+29 0 1
+D0
+~
+~
+0 -1 2962
+D1
+~
+plaque~
+2 2904 2966
+E
+cenotaph~
+
+
+  {Y}It is made of granite stone that the Aucans mine from 
+  an old quarry south of here.  There is a thin slit at the 
+  bottom of the plaque, giving you the suspicion that the 
+  plaque could be pried open.  It looks like you could do it
+  with a thin sliver of metal.{y}
+
+
+~
+E
+plaque inscription~
+
+
+              {W}{BOL}=============================================={w}{bol}
+              {W}{BOLD}|{w}{bold}                                            {W}{BOLD}|{w}{bold}
+              {W}{BOLD}|{w}{bold}   {Y} In Honor of the First {Y}{BOLD}Aucan{y}{bold}{Y} Chieftain {y}  {W}{BOLD}|{w}{bold}
+              {W}{BOLD}|{w}{bold}      {Y}We, the {Y}{BOLD}Aucan Tribe{y}{bold}{Y}, Dedicate this{y}    {W}{BOLD}|{w}{bold}
+              {W}{BOLD}|{w}{bold}     {Y} Structure to the Chieftain and the{y}    {W}{BOLD}|{w}{bold}
+              {W}{BOLD}|{w}{bold}     {R}{BOLD}Protection{r}{bold}{Y} of His {y}{BLU}{BOLD}Armor{blu}{bold}{Y} and {Y}{BOLD}Treasure{y}{bold}   {W}{BOLD}|{w}{bold}
+              {W}{BOLD}|{w}{bold}                                            {W}{BOLD}|{w}{bold}
+              {W}{BOLD}=============================================={w}{bold}
+
+
+~
+Z3
+C2
+R0
+S
+#2966
+{BLACK}{BOLD}Inside the Cenotaph{black}~
+
+
+  {Y}You are now inside the cenotaph, where you see many fine works of art 
+  decorating the {W}wall{w}{Y}s.  {Y}{BOLD}Gold{y}{bold}{Y} goblets, chalices, rings, armor and weapons 
+  are all placed in nearly every ideal location that presents the room 
+  to be like a museum.  A certain glitter catches your eye, however.  
+  Upon closer examination, you notice a large {W}shield{w}{Y}-like ornament
+  on the west wall.  You scratch your head and ponder to yourself.  Is this
+  a mere illusion or really the Sacred Treasure spoke of in {Y}{BOLD}Aucan{y}{bold}{Y} Lore?{y}
+
+
+~
+29 8 0
+D3
+~
+plaque~
+2 2904 2965
+D5
+~
+shield~
+8 2903 2967
+E
+shield~
+
+
+  {Y}There is a small hole in the center, as if a key could
+  fit into it.{y}
+
+
+~
+E
+walls~
+
+
+  {Y}The walls here are absolutely breathtaking. They all appear
+  to be constructed of sturdy iron, but one appears to be 
+  moveable. A locked hinge, however, keeps you from doing 
+  this. I wonder who has the key...{y}
+
+
+~
+Z3
+C2
+R0
+S
+#2967
+{WHITE}The Chieftain's{BLACK}{BOLD} Secret Armoury{black}~
+
+
+ {Y} You have entered the great storage room for the Chieftain's 
+  mighty armor.  The {Y}{BOLD}Aucan{y}{bold}{Y} Chieftains have kept this room private
+  for centuries.  Only Chieftains have ever worn this armor, though
+  legend has it that any other person who wears this armor will 
+  become part of the Aucan tribe and gain all the {R}warring{r}{Y} instincts
+  the people pride themselves in.{Y}
+
+
+~
+29 17549 9
+D4
+~
+shield~
+2 2903 2966
+T2999
+Z3
+C2
+R0
+S
+#2968
+{Y}The Aucan Inn & Tavern{y}~
+
+
+  {Y}You enter a large oval room in which comfortable cots and beds line
+  the edge of the room.  To your left, the receptionist is curiously
+  staring at you, wondering what your presence in the Inn requests of
+  her.  In the far corner of the Inn, a group of men sit at a large
+  wooden {W}{BOLD}table{w}{bold}{Y} playing cards.  One of the gentlemen, sitting relaxed 
+  in a chair and puffing on a pipe, looks over his shoulder and flashes 
+  a mean grin at you.{y}
+
+
+~
+29 8204 0
+D1
+~
+~
+0 -1 2962
+E
+table~
+
+
+  {Y}You and your companion head toward the table where the stranger 
+  sits, formally introduce yourselves, and ask if you may sit and join
+  them.  The men at the table seem the rowdy type, and by the way the 
+  heavier set man of the bunch is gulping his ale, you can tell your 
+  going to be in for one hell of a night.  
+{y}
+  {Y}For most of the night, the men talk about women and previous visits
+  to various towns and villages, however, one of the men at the table
+  says {W}something{w}{Y} that catches your ear. {y}
+
+
+~
+E
+something~
+
+
+{Y}  The man, now half-drunk, begins to babble about the existence of a
+  hidden {W}passageway{w}{Y}, somewhere in Aucan, which may contain treasure.{y}
+
+
+~
+E
+detail~
+
+  {Y}.. once the trapdoor is opened, an undead creature has been 
+  rumored to walk the ancient halls beneath, ensuring nothing contained
+  within the chests is removed.  Be careful..  The man then proceeds 
+  to fall flat on his face and snore loudly.{y}
+
+
+~
+E
+locked~
+
+
+ {Y} Despite how many rounds of alcohol you buy him, he still shrugs to 
+  every question regarding the details of unlocking them.  The drunk 
+  man falls off his chair and moans loudly.  You grab his arms and
+  pull him up, and watch as he sprawls forward, onto the table.  You
+  get up and begin to walk away and leave the man to sleep off his
+  condition, when he grabs you by the shoulder, pulls you down, and 
+  whispers in your ear, ''.. wait, one last {W}{BOLD}detail{w}{bold}{Y} ..''{y}
+
+
+~
+E
+purchase~
+
+
+  {Y}Now content, he continues to explain that the passageway diverges 
+  into four directions, and at the end of each path lies a {W}{BOLD}locked{w}{bold}{Y} 
+  chest. {y}
+
+
+~
+E
+passageway~
+
+
+  {Y}He refuses to say another word without the {W}{BOLD}purchase{w}{bold}{Y} of another
+  ale.  {y}
+
+
+~
+E
+sign~
+The rooms are a tad bit expensive, but worth it!!! You may:
+
+    Offer - get an offer on a room (time is in real days).
+    Rent - rent a room (saves your equip, and quits the game),
+           minimum charge is one day.
+~
+Z3
+C2
+R0
+S
+#2969
+{Y}{BO}The Island Of The Monks{y}~
+
+
+{Y}  Stepping onto this small {Y}{BOLD}island{y}{bold}{Y} you feel a sense of overall 
+  {CY}{BOLD}calmness{cy}{bold}{Y} and {CY}{BOLD}peace{cy}{bold}{Y}.  There seems to be no signs of danger in 
+  any direction.  Your surroundings are unbelievably amazing, the 
+  flowers and trees are lush and beautiful. 
+{y}
+  {Y}You figure it would be a good idea to just kick back and 
+  relax for a while . . . {y}
+
+
+~
+29 82964 8
+E
+island~
+
+
+  {Y}Looking more carefully around the island you notice that this is
+  no normal island. It seems to be tainted in some way, some sort of
+  uniqueness presents itself in a very mysterious way.  You take a 
+  closer study at the flower and realize that it is a mystical
+  {R}{BOLD}Kalamandua{r}{bold}{Y} plant.  If you touch it or even get too close to
+  it a cloud of sleeping gas will explode putting everyone to sleep,
+  while the plant waits until the heat dries your bones to a crisp and 
+  then has you for its meal. Eek!{y}
+
+
+~
+Z3
+C-1
+R0
+S
+#2970
+{BLUE}{BOLD}The River of Kong{blue}~
+{C,BO}
+  You are on a great and mighty river that flows from 
+  the north to the south. {G}Both of the banks of the 
+  river are totally covered with thick foliage which 
+  keeps you from coming ashore.
+{g,bo}
+~
+29 1048580 7
+D0
+You see water.
+~
+~
+0 -1 2910
+D1
+~
+~
+0 -1 2969
+D2
+You see water.
+~
+~
+0 -1 2971
+E
+banks~
+You see that it is impossible to go ashore here.
+~
+Z7
+C2
+R0
+S
+#2971
+{BLUE}{BOLD}The River of Kong{blue}~
+{C,BO}
+  You are on a great and mighty river that flows from 
+  the north to the south. {G}Both of the banks of the 
+  river are totally covered with thick foliage which 
+  keeps you from coming ashore.
+{g,bo}
+~
+29 4 7
+D0
+You see water.
+~
+~
+0 -1 2970
+D2
+You see water.
+~
+~
+0 -1 2972
+E
+banks~
+You see that it is impossible to go ashore here.
+~
+Z7
+C2
+R0
+S
+#2972
+{BLUE}{BOLD}The River of Kong{blue}~
+{C,BO}
+  You are on a great and mighty river that flows from 
+  the north to the south. {G}Both of the banks of the 
+  river are totally covered with thick foliage which 
+  keeps you from coming ashore.
+{g,bo}
+~
+29 4 7
+D0
+You see water.
+~
+~
+0 -1 2971
+D2
+You see water.
+~
+~
+0 -1 2973
+E
+banks~
+You see that it is impossible to go ashore here.
+~
+Z7
+C2
+R0
+S
+#2973
+{BLUE}{BOLD}The River of Kong{blue}~
+{C,BO}
+  You are on a great and mighty river that flows from 
+  the north to the south. {G}Both of the banks of the 
+  river are totally covered with thick foliage which 
+  keeps you from coming ashore.
+{g,bo}
+~
+29 4 7
+D0
+You see water.
+~
+~
+0 -1 2972
+D1
+This portion of the river appears to head somewhere.
+~
+~
+0 -1 2985
+D2
+You see water.
+~
+~
+0 -1 2974
+E
+banks~
+You see that it is impossible to go ashore here.
+~
+Z7
+C2
+R0
+S
+#2974
+{BLUE}{BOLD}The River of Kong{blue}~
+
+
+  {CY}{BOLD}You are on a great and mighty river that flows from the 
+  north to the south.{G}{BOLD} Both of the banks of the river are 
+  totally covered with thick foliage which keeps you from
+  coming ashore.  You stub your toe on a decaying{W}{BOLD} corpse.{w}{bold}
+
+
+~
+29 4 7
+D0
+~
+~
+0 -1 2973
+D2
+~
+~
+0 -1 2975
+D3
+~
+lezaraj~
+7 -1 30213
+E
+creature~
+
+
+  {Y}You jolt back in shock, unaware that this creature could speak. A 
+  bright glow emanates as the being cups his hands together to form
+  a huge ball of fire.  She unleashes the ball between you and your 
+  partner, just barely missing.  You attempt to draw your weapons
+  and cast your spells, but all aside from your mouth is frozen 
+  instantly.  Scared beyond belief, you implore to this being that you
+  and your partner are mere treasure hunters, searching the river 
+  and village for any possible artifacts.  After explaining for
+  endless hours about who you are and where your from, the flying
+  {y}{W}being{w}{Y} floats down and paces around slowly, as if in deep thought.{y}  
+
+
+~
+E
+detail~
+
+
+  {Y}You spend a short-while comforting Maya, and her quiet sobbing
+  begins to cease.  She smiles, for only a brief second, and floats
+  next to you.{y} 
+  {R}{BOLD}         I appreciate you helping me in my time of need.  I
+           am sorry about not trusting you, but I didnt know who 
+           you were.  Listen.. Jarazel had some items you might 
+           find of value that I stashed in a hidden alcove west 
+           of here.  The magical word to gain entrance is named
+           after my dear friend, however a mirror may be necessary.{r} 
+
+
+~
+E
+being~
+
+
+  {Y}Time passes, then, she peers up at you, and introduces herself as 
+ "Maya the Pixie".  Maya rises a few inches from the earth, lifts her head
+  to the sky, and goes on to explain in a very cute high-pitched voice,
+  how she used to travel everywhere with her Human companion, Jarazel.  They
+  left Aucan to explore the jungle, took a wrong turn and ended up fleeing 
+  down the river from crocodiles.  Maya sobs  and her face turns red as she
+  goes into {W}{BOLD}detail{w}{bold}{Y} about how the crocodiles encircled them and managed to 
+  kill her poor companion.{y}
+
+
+~
+E
+corpse~
+
+
+ {Y} Utterly disgusted by your own clumsiness, you bend down to 
+  investigate the pile of bones that lay before you.  After 
+  a few moments of poking and prodding, a figure resembling 
+  that of a butterfly begins to swirl around you and your
+  partners heads.  Annoyed by the miniature figures actions, you try
+  in vain to hit it with your hand, but to no avail.  After a few
+  moments the creature makes what seems to be a sigh of exhaustion.  
+  You mutter to yourself, Ah.. Poor little guy is all tired, hehe...  
+  The creature snaps its mini-fingers, and within a flash of a second 
+  appears directly in front of your face.  
+{y}
+{W}{BOLD}  I am no 'HE'! I am a 'SHE'! Who the hell are you, and dont 
+  even think about looting this corpse?!{w}{bold}{Y},  the {MAG}{BOLD}creature {mag}{bold}{Y}
+  exclaims.  
+{y}
+   
+
+
+~
+E
+banks~
+You see that it is impossible to go ashore here.
+~
+Z7
+C2
+R0
+S
+#2975
+{BLUE}{BOLD}The River of Kong{blue}~
+{C,BO}
+  You are on a great and mighty river that flows from 
+  the north to the south. {G}Both of the banks of the 
+  river are totally covered with thick foliage which 
+  keeps you from coming ashore.
+{g,bo}
+~
+29 4 7
+D0
+~
+~
+0 -1 2974
+D2
+~
+~
+0 -1 2976
+E
+banks~
+You see that it is impossible to go ashore here.
+~
+Z7
+C2
+R0
+S
+#2976
+{BLUE}{BOLD}The River of Kong{blue}~
+{C,BO}
+  You are on a great and mighty river that flows from 
+  the north to the south. {G}Both of the banks of the 
+  river are totally covered with thick foliage which 
+  keeps you from coming ashore.
+{g,bo}
+~
+29 4 7
+D0
+You see water.
+~
+~
+0 -1 2975
+D2
+You see water.
+~
+~
+0 -1 2977
+D3
+You can see a clearing on this shore.
+~
+~
+0 -1 2979
+Z7
+C2
+R0
+S
+#2977
+{BLUE}{BOLD}The River of Kong{blue}~
+
+
+  {CY}{BOLD}You are on a great and mighty river that flows from the
+  north to the south.  The river bank to the west has a 
+  clearing in which you can land if you like.  It appears
+  to be a good place to rest and offers a good amount of shade.
+  {cy}{bold}
+  {BLU}{BOLD}A great waterfall is to the south.{blu}{bold}
+
+
+~
+29 4 7
+D0
+You see water.
+~
+~
+0 -1 2976
+D1
+You see a peaceful shore.
+~
+~
+0 -1 2984
+D2
+~
+~
+0 -1 2978
+Z7
+C2
+R0
+S
+#2978
+You get a bad feeling looking in that direction !!~
+
+
+  {CY}{BOLD}You are on a great and mighty river that flows
+  from the north to the south, but you went a little 
+  too far...
+{cy}{bold}
+    {Y}{BOLD}
+              YOU
+     {Y}{BOLD}
+           FALL
+         {Y}{BOLD}
+             TO
+           {Y}{BOLD}
+            YOUR
+             {BLU}{BOLD}
+          WATERY
+             {RED}{BOLD}
+           DEATH
+                {Y}{BOLD}  
+           AT THE
+                 {Y}{BOLD}
+             BASE 
+             {Y}{BOLD}
+               OF
+             {Y}{BOLD} 
+              THE
+                {BLU}{BOLD}   
+                  WATERFALL!!!!
+{blu}{bold}
+  {CY}{BOLD}( just kidding.. !! :) ) {cyan}{bold}
+
+
+~
+29 4 9
+D0
+~
+~
+0 -1 2977
+D2
+~
+rock~
+1 -1 2902
+Z3
+C1
+R0
+S
+#2979
+{YELLOW}{BOLD}A Sandy Shore{yellow}~
+
+
+  {Y}You have come upon an {Y}{BOLD}Aucan{y}{bold}{R}{BOLD} Warring{r}{bold}{Y} party's encampment. 
+  Decapitated heads pierced with long poles are mounted
+  deeply into the ground.  The sound of war cries can be
+  heard around you as various warriors practice their skills
+  with one another. In a small hut off in the distance, an 
+  Aucan warrior can be seen painting his face with an array 
+  of colors. The Aucans tend to do this before going on a 
+  large hunt or battle. Better leave before they see you, 
+  they may think you are from a rival tribe. {y}
+
+
+~
+29 4 2
+D0
+~
+~
+0 -1 2980
+D1
+~
+~
+0 -1 2976
+D2
+~
+~
+0 -1 2981
+D3
+~
+~
+0 -1 2982
+Z3
+C2
+R0
+S
+#2980
+{Y}In the {Y}{BOLD}Aucan{y}{bold}{Y} Warring Encampment{y}~
+
+
+  {Y}You have come upon an {Y}{BOLD}Aucan{R}{BOLD} Warring{r}{bold}{Y} party's encampment. 
+  Decapitated heads pierced with long poles are mounted
+  deeply into the ground.  The sound of war cries can be heard around
+  you as various warriors practice their skills with one another.
+  One of the men gets close to your face and begins to snarl, as
+  if in a position to attack or threaten.  He starts to yell at you in
+  the {Y}{BOLD}Aucan{y}{bold}{Y} tongue as he waves his sword at you.  From behind,
+  another warrior pushes you forward, determined to watch your demise.{y}
+
+
+~
+29 0 2
+D2
+~
+~
+0 -1 2979
+Z3
+C2
+R0
+S
+#2981
+{Y}In the {Y}{BOLD}Aucan{y}{bold}{Y} Warring Encampment{y}~
+
+
+  {Y}You have come upon an {Y}{BOLD}Aucan{R}{BOLD} Warring{r}{bold}{Y} party's encampment. 
+  Decapitated heads pierced with long poles are mounted
+  deeply into the ground.  The sound of war cries can be heard around
+  you as various warriors practice their skills with one another.
+  One of the men gets close to your face and begins to snarl, as
+  if in a position to attack or threaten.  He starts to yell at you in
+  the {Y}{BOLD}Aucan{y}{bold}{Y} tongue as he waves his sword at you.  From behind,
+  another warrior pushes you forward, determined to watch your demise.{y}
+
+
+~
+29 0 2
+D0
+~
+~
+0 -1 2979
+Z3
+C2
+R0
+S
+#2982
+{Y}In the {Y}{BOLD}Aucan{y}{bold}{Y} Warring Encampment{y}~
+
+
+  {Y}You have come upon an {Y}{BOLD}Aucan{R}{BOLD} Warring{r}{bold}{Y} party's encampment. 
+  Decapitated heads pierced with long poles are mounted
+  deeply into the ground.  The sound of war cries can be heard around
+  you as various warriors practice their skills with one another.
+  One of the men gets close to your face and begins to snarl, as
+  if in a position to attack or threaten.  He starts to yell at you in
+  the {Y}{BOLD}Aucan{y}{bold}{Y} tongue as he waves his sword at you.  From behind,
+  another warrior pushes you forward, determined to watch your demise.{y}
+
+
+~
+29 0 2
+D0
+The size of the black, volcanic rocks get larger in this direction.
+~
+~
+0 -1 2983
+D1
+You see a black sand shore.
+~
+~
+0 -1 2979
+Z3
+C2
+R0
+S
+#2983
+{WHITE}{BOLD}The Aucan Command Hut{white}~
+
+
+  {Y}You have entered the hut where the {Y}{BOLD}Aucan{BL} General{bl}{Y} makes
+  his decisions. Only high ranking officers are allowed to enter
+  this hut, while all others have been {R}{BOLD}decapitated{r}{bold}.
+
+
+~
+29 16520 0
+D2
+~
+~
+0 -1 2982
+Z3
+C2
+R0
+S
+#2984
+{CYAN}{BOLD}A Peaceful Shore{cyan}~
+
+
+  {Y}As you step onto the shore, you feel safe from the dangers
+  of the {BLU}{BOLD}River of Kong{blu}{bold}{Y}. This looks like a safe place to rest 
+  for a bit before traveling onward. {y}
+
+
+~
+29 8196 1
+D3
+~
+~
+0 -1 2977
+Z3
+C-1
+R0
+S
+#2985
+{BLUE}{BOLD}On the River of Kong{blue}~
+
+
+  {CY}{BOLD}You are on a great and mighty river that flows from the 
+  east to the west.{GR}{BOLD} Both of the banks of the river are 
+  totally covered with foliage which keeps you from coming
+  ashore.{gr}
+
+
+~
+29 16809985 7
+D1
+You see water.
+~
+~
+0 -1 2986
+D3
+You see water.
+~
+~
+0 -1 2973
+E
+banks~
+You see that it is impossible to go ashore here.
+~
+M1
+X1
+Z7
+C2
+R0
+S
+#2986
+{BLUE}{BOLD}On the River of Kong{blue}~
+
+
+  {CY}{BOLD}You are on a great and mighty river that flows from the 
+  east to the west.{GR}{BOLD} Both of the banks of the river are 
+  totally covered with foliage which keeps you from coming
+  ashore.{gr}
+
+
+~
+29 32769 7
+D2
+You see water.
+~
+~
+0 -1 2987
+D3
+You see water.
+~
+~
+0 -1 2985
+E
+banks~
+You see that it is impossible to go ashore here.
+~
+X1
+Z7
+C2
+R0
+S
+#2987
+{BLUE}{BOLD}The River of Kong{blue}~
+
+
+ {CY}{BOLD} You are on a great and mighty river that flows from the 
+  north to the south.{G}{BOLD} The foliage now appears to be thinning 
+  out as you notice the climate changing slowly back to a more
+  arid one.{g}{bold}
+
+
+~
+29 0 7
+D0
+You can see a bend in the river further north.
+~
+~
+0 -1 2986
+D2
+You see land in the distance.
+~
+~
+0 -1 2988
+E
+banks~
+The foliage is beginning to die, the air is too dry for them to flourish here.
+~
+Z7
+C2
+R0
+S
+#2988
+{BLUE}{BOLD}The River of Kong{blue}~
+
+
+ {CY}{BOLD} You are on a great and mighty river that flows from the
+  {W}{BOLD}north{CY}{BOLD} to the {W}{BOLD}south.  {BLU}{BOLD}To the {W}{BOLD}west{w}{bold}{BLU}{BOLD} an eddy, a swirling mess
+  of {G}{BOLD}moss{BLU}{BOLD} and {GR}{BOLD}algae{gr}{bold}{BLU}{BOLD}, make this the perfect habitat for river 
+  snakes.{blu}{bold}
+
+
+~
+29 4 7
+D0
+You see water.
+~
+~
+0 -1 2987
+D2
+You see land in the distance.
+~
+~
+0 -1 2990
+D3
+You see a commotion in the water.
+~
+~
+0 -1 2989
+Z3
+C2
+R0
+S
+#2989
+{W}A Small Cave{w}~
+
+
+  {BLU}{BOLD}The water here flows in a circular pattern and collects
+  all the junk that flows down the river.   Not the best 
+  place for adventurers, but a great place for river {G}{BOLD}snakes{g}{bold}{BLU}{BOLD}!!!{blu}{bold} 
+
+
+~
+29 0 6
+D1
+~
+~
+0 -1 2988
+Z3
+C2
+R0
+S
+#2990
+{BLUE}{BOLD}The River of Kong{blue}~
+
+
+  {CY}{BOLD}You are on a great and mighty river that flows from the
+  north to the south.  The banks that were once thick with
+  jungle plants are now barren and dry.  The air here is 
+  slightly drier than what you are used to.{cy}{bol}
+
+
+~
+29 0 7
+D0
+You see water.
+~
+~
+0 -1 2988
+D2
+You see land in the distance.
+~
+~
+0 -1 2991
+E
+banks~
+The banks are steep here, you couldn't get to shore if you tried.
+~
+Z3
+C2
+R0
+S
+#2991
+{BLUE}{BOLD}The River of Kong{blue}~
+
+
+  {CY}{BOLD}You are on a great and mighty river that flows from the 
+  north to the south. Both of the banks of the river are 
+  totally covered with thick foliage which keeps you from
+  coming ashore.{cy}{bold}
+{W}{BOLD}
+  To the south, is a cleared river bank.{w}{bold}
+
+
+~
+29 4 7
+D0
+You see water.
+~
+~
+0 -1 2990
+D2
+You see dry land.
+~
+~
+0 -1 2992
+E
+banks~
+You see that it is impossible to go ashore here.
+~
+Z3
+C2
+R0
+S
+#2992
+{YELLOW}{BOLD}A Dry Bank{yellow}~
+
+
+  {Y}One of the branches to the {BLU}{BOLD}River of Kong{blu}{bold}{Y} ends here.  
+  The river can no longer help the land here with its
+  unquenchable thirst.  The air is dry and the ground
+  parched, despite the river's presence.  All you
+  can see is{Y}{BOLD}desert{y}{bold}{Y} for miles.{y}
+
+
+~
+29 0 2
+D0
+You see the River of Kong.
+~
+~
+0 -1 2991
+D1
+You see tall grass.
+~
+~
+0 -1 2993
+D2
+You see tall grass.
+~
+~
+0 -1 2995
+D3
+You see tall grass.
+~
+~
+0 -1 2997
+Z3
+C2
+R0
+S
+#2993
+{G,BOL}On a Grassy Plain{g}~
+
+
+  {G}{BOLD}The climate is cool and soothing as a slight breeze blows by.  The
+  overall clear sky holds the occasional white cloud that can be
+  seen slowly floating above.  The gazelles are peacefully munching
+  on some grass next to you, enjoying the surroundings. One of
+  them hits you from the side causing you to stumble over, as if
+  appearing to make you not feel welcome to join them in the plains. {cy}{bold}
+  
+
+
+~
+29 0 2
+D2
+The tall grass continues in this direction.
+~
+~
+0 -1 2994
+D3
+You see a bank to the River of Kong.
+~
+~
+0 -1 2992
+Z3
+C2
+R0
+S
+#2994
+{G,BOL}On a Grassy Plain{g}~
+
+
+  {G}{BOLD}The climate is {CY}{BOLD}cool{cy}{bold}{G}{BOLD} and {CY}{BOLD}soothing{cy}{bold}{G}{BOLD} as a slight breeze blows.
+  The overall clear sky holds the occasional white cloud that can be
+  seen slowly floating above.  The gazelles are peacefully munching
+  on some grass next to you, enjoying the surroundings. One of
+  them hits you from the side causing you to stumble over, as if
+  appearing to make you not feel welcome to join them in the plains. 
+  {g}{bold}
+{R}  To the {R}{BOLD}extreme{r}{bold}{R} west, you can see the beginning of the Serengetti.{r}
+
+
+~
+29 0 2
+D0
+The tall grass continues in this direction.
+~
+~
+0 -1 2993
+D1
+You see the Serengetti in the extreme distance.
+~
+~
+0 -1 2998
+D3
+The tall grass continues in this direction.
+~
+~
+0 -1 2995
+Z3
+C2
+R0
+S
+#2995
+{G,BOL}On a Grassy Plain{g}~
+
+
+  {G}{BOLD}The climate is cool and soothing as a slight breeze blows.  The
+  overall clear sky holds the occasional white cloud that can be
+  seen slowly floating above.  The gazelles are peacefully munching
+  on some grass next to you, enjoying the surroundings. One of
+  them hits you from the side causing you to stumble over, as if
+  appearing to make you not feel welcome to join them in the plains. 
+  {g}{bold}  
+  {Y}{BOLD}The Dry Bank{y}{bold}{G}{BOLD} to the{BLU}{BOLD} River of Kong{blu}{bold}{G}{BOLD} is to the {W}{BOLD}north.{w}{bold}
+
+
+~
+29 0 2
+D0
+You see the bank of the River of Kong.
+~
+~
+0 -1 2992
+D1
+The tall grass continues in this direction.
+~
+~
+0 -1 2994
+D3
+The tall grass continues in this direction.
+~
+~
+0 -1 2996
+Z3
+C2
+R0
+S
+#2996
+{G,BOL}On a Grassy Plain{g}~
+
+
+  {G}{BOLD}The climate is cool and soothing as a slight breeze blows by.  The
+  overall clear sky holds the occasional white cloud that can be
+  seen slowly floating above.  The gazelles are peacefully munching
+  on some grass next to you, enjoying the surroundings. One of
+  them hits you from the side causing you to stumble over, as if
+  appearing to make you not feel welcome to join them in the plains. {cy}{bold}
+  
+
+
+~
+29 0 2
+D0
+The tall grass continues in this direction.
+~
+~
+0 -1 2997
+D1
+The tall grass continues in this direction.
+~
+~
+0 -1 2995
+Z3
+C2
+R0
+S
+#2997
+{G,BOL}On a Grassy Plain{g}~
+
+
+ {G}{BOLD} The climate is cool and soothing as a slight breeze blows. 
+  The overall clear sky holds the occasional white cloud that can be
+  seen slowly floating above.  The gazelles are peacefully munching
+  on some grass next to you, enjoying the surroundings. One of
+  them hits you from the side causing you to stumble over, as if
+  appearing to make you not feel welcome to join them in the plains. 
+{g}{bold}
+  {G}{BOLD}The {Y}{BOLD}plain{y}{bold}{G}{BOLD} extends into the {W}{BOLD}south{w}{Y}, the Dry Bank{y}{G} to the {BLU}River of Kong{blu}{G}{BOLD} 
+  is to the {g}{bold}{W}{BOLD}east{w}{bold}.
+
+
+~
+29 0 2
+D1
+You see the bank of the River of Kong.
+~
+~
+0 -1 2992
+D2
+The tall grass continues in this direction.
+~
+~
+0 -1 2996
+Z3
+C2
+R0
+S
+#2998
+{G,BOL}On a Grassy Plain{g}~
+
+
+  {G}{BOLD}The climate is cool and soothing as a slight breeze blows by.  The
+  overall clear sky holds the occasional white cloud that can be
+  seen slowly floating above.  The gazelles are peacefully munching
+  on some grass next to you, enjoying the surroundings. One of
+  them hits you from the side causing you to stumble over, as if
+  appearing to make you not feel welcome to join them in the plains. {cy}{bold}
+  
+
+
+~
+29 0 2
+D1
+{Y}{BOLD}  A mysterious faint glow is emitting from this direction...{y}{bold}
+
+
+~
+valakuna~
+8 2910 2999
+D3
+You see tall grass covering flattened land.
+~
+~
+0 -1 2994
+Z3
+C2
+R0
+S
+#2999
+{YE}The Cave of the Giant Sloth{ye}~
+
+
+  {Y}What an unusual place to find a sloth.. aren't they usually
+  seen hanging from a tree... You proceed cautiously forward, 
+  noticing the steady increase of a rancid smell.  Toward the
+  end of the cave, piles of bones are strewn about on both sides. 
+  Eek! What the hell... This is not a normal Sloth!! {y}
+
+
+~
+29 81924 2
+D2
+Not implemented..... YET!!!
+~
+~
+0 -1 -1
+D3
+You see a beaten path.
+~
+valakuna~
+1 -1 2998
+Z3
+C2
+R0
+S
+$~

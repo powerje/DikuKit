@@ -1,0 +1,37 @@
+#255
+Pierzin's zone(Pierzin)~
+25599 60 0
+*
+X 17060
+M 0 25500     1 25501    A lazy guard
+M 0 25501    11 25502    Alert guard
+M 0 25501    11 25503    Alert guard
+M 0 25501    11 25505    Alert guard
+M 0 25501    11 25506    Alert guard
+M 0 25501    11 25508    Alert guard
+M 0 25501    11 25510    Alert guard
+M 0 25501    11 25511    Alert guard
+M 0 25501    11 25511    Alert guard
+M 0 25501    11 25511    Alert guard
+M 0 25502     1 25512    Xanatos
+E 1 25502     1     5    (BODY) A exosuit
+E 1 25500     1    17    (HELD) A keycard
+D 0 25512     5     2    (D:LOCKED) Xanatos's command room
+M 0 25501    11 25513    Alert guard
+M 0 25501    11 25514    Alert guard
+D 0 25522     0     2    (N:LOCKED) Before the Window
+M 0 25503     1 25523    The Beast
+E 1 25501     1     3    (NECK) The eye of Oden
+D 0 25523     2     0    (S:OPEN) At the Window
+M 0 25505     1 25525    A Red Head
+M 0 25506     2 25526    A police officer
+M 0 25507     1 25527    The captian
+M 0 25506     2 25528    A police officer
+M 0 25508     1 25529    Matt Bluestone
+G 1 25503     1     0    A closet key
+D 0 25529     3     2    (W:LOCKED) Elisa Maza's office
+D 0 25530     1     2    (E:LOCKED) Closet
+D 0 25535     1     1    (E:CLOSED) By the refrigerator
+M 0 25509     1 25536    {RED}S{BLUE}P{GREEN}A{RED}M{red}
+D 0 25536     3     0    (W:OPEN) Inside the refrigerator
+$~

@@ -1,0 +1,1441 @@
+#21400
+bat~
+{BOLD,RED}A Bat{bold,red}~
+{BOLD,BLACK}Something with glowing red {BLINK,RED}e{blink}{BOLD,BLACK}y{BLINK,RED}e{blink}{BOLD,BLACK}s swoops towards your head.{bold,black}
+~
+{BOLD,BLACK}
+   A stout, furry bat flaps madly above your head.  Swatting at it in
+   annoyance, you neglect to notice the froth dripping from its mouth.
+   The aggravated bat's glowing red eyes glare back at you, as he digs
+   his long claws into the nape of your neck.
+{bold,black}
+~
+66 1157636668 0 S
+25 -25 3 28d28+28 5d6+10
+5000 155000
+8 8 0
+D 20
+A 12
+#21401
+witch~
+{BOLD,RED}A Witch{bold,red}~
+{BOLD,RED}An old, decrepit woman hovers over a steaming caldron.{bold,red}
+~
+{BOLD,BLACK}
+   You nudge her with your elbow, and she peers at you from within
+   her overbearing cloak. Hollow, sunken eyes stare back at you. As
+   she smiles, you see sections of green rotted skin crackle and fall
+   into the caldron. What a terrifying sight! She throws her head back
+   and cackles, running her bony fingers through her black hair.  
+   It looks as though many creatures have begun to nest her stinky
+   locks.
+{bold,black}
+~
+66 1141121596 0 S
+30 -25 -1 1d1+899 8d8+10
+50000 1000
+8 8 0
+D 20
+A 12
+#21402
+Swampthing~
+{GREEN}The Swampthing{green}~
+{GREEN}A maggoty, muddy figure lurches about the Murky Pool.{green}
+~
+{BOLD,GREEN}
+   In the distance lurks a dark figure, covered in what seems to be
+   mud. As you approach it, you can hear the squishing sounds of his
+   feet as he enters the murky pool. He notices your presence, and
+   emits a low snarl. The last thing you see is his webbed hand
+   thrusting your face into the foul mud at your feet.
+{bold,green}
+~
+134217794 1074004668 -500 S
+35 -25 -1 1d1+1499 8d5+25
+50000 220000
+8 8 0
+R 524288
+D 20
+A 12
+#21403
+Knight~
+{BOLD,BLUE}A Knight of Camelot{bold,blue}~
+{BOLD,CYAN}A bold Knight of Camelot rides a white horse here.{bold,cyan}
+~
+
+   A handsome man equipped in shining silver armour, rides a top his
+   proud steed.  He proudly displays the crest of Camelot upon his 
+   shield.  He regards you with confidence, knowing that he could
+   easily dispatch you, should you challenge his honour.
+
+~
+134217795 2105916 0 S
+40 -25 -1 1d1+4399 1d8+56
+50000 3000000
+8 8 1
+D 20
+A 12
+#21404
+woman~
+{BOLD,YELLOW}A Woman{bold,yellow}~
+{Y}A mortified expression darkens this woman's face.{y}
+~
+{WHITE}
+   Tears have stained the face of this fair woman, and grief for her
+   lost son has drove her into madness. She runs about the streets
+   screaming his name. Her belongings lay scattered about her as she
+   collapses.
+{white}
+~
+67108931 1074004536 0 S
+35 -25 -1 30d30+30 5d5+10
+0 10000
+8 8 2
+D 20
+A 12
+#21405
+man~
+{BOLD,YELLOW}A Man{bold,yellow}~
+{Y}A man stands here holding several packages, a look of worry on his brow.{y}
+~
+{WHITE}
+   This man looks as though he just came back from a long day of
+   shopping at the Camelot market, as he holds several parcels in
+   hands. He keeps searching the crowd impatiently for a familiar
+   face, as he waits for his wife to return.
+{white}
+~
+67108931 1074004536 0 S
+35 -25 -1 33d33+33 7d7+10
+4000 10000
+8 8 1
+D 20
+A 12
+#21406
+lady~
+{WHITE}A Lady{white}~
+{BOLD,MAGENTA}A wealthy Camelot lady goes about her errands here.{bold,magenta}
+~
+{BOLD,MAGENTA}
+   An extravagantly dressed woman stands before you, absorbed in
+   her shopping. Decorative robes hug her vivacious curves, and
+   gleaming jewels adorn her.  Foreign fabrics, and exotic delicacies
+   are of the few priceless items in her bundle.
+{bold,magenta}
+~
+67108931 1074004536 0 S
+35 -25 -1 32d32+32 6d6+10
+4000 10000
+8 8 2
+D 20
+A 12
+#21407
+Gypsy beggar~
+{BOLD,YELLOW}A Gypsy{bold,yellow}~
+{YELLOW}A gypsy woman stares at your parcels, her eyes begging for a donation.{yellow}
+~
+{BOLD,YELLOW}
+   A Gypsy woman dressed in colourful rags, seems to be sizing you
+   up. She grins in your direction, ready to do whatever it takes to get
+   a hold of your precious parcels. Although she appears to be fragile
+   and feminine, don't assume she is not capable of slitting your
+   throat with ease.
+{bold,yellow}
+~
+134217795 1107559096 0 S
+40 -25 -1 1d1+1699 5d10+20
+50000 1200000
+8 8 2
+D 20
+A 12
+#21408
+nun~
+{BOLD,BLACK}A Nun{bold,black}~
+{CYAN}A nun walks briskly down the street, a bible tucked under her arm.{cyan}
+~
+{WHITE}
+   A nun dressed in traditional gown and habit scurries about town.
+   She smiles shyly in your direction as she passes you, clenching her
+   rosary in the palm of her hand.
+{white}
+~
+134217794 1745093176 500 S
+42 -25 -1 1d1+1450 9d9+5
+50000 1200000
+8 8 2
+D 20
+A 12
+#21409
+priest~
+{BOLD,BLACK}A Priest{bold,black}~
+{CYAN}A Priest walks calmly down the street, smiling to those he meets.{cyan}
+~
+{WHITE}
+   Although deep in thought, the Priest takes the time to greet all the
+   citizens he meets during this trip to the city. Blessing all those who
+   show faith, as he contemplates thoughts of an afterlife.
+{white}
+~
+134217794 1745093160 500 S
+42 -25 -1 1d1+1725 10d10+5
+50000 1200000
+8 8 1
+D 20
+A 12
+#21410
+trinket maker~
+{BOLD,CYAN}The Trinket Maker{bold,cyan}~
+{C}A trinket maker sits on his stool, polishing silver.{c}
+~
+{CYAN}
+   A little man stands here, his chubby fingers handing you his latest
+   pieces of art.  Every corner of the shop shines, the display case to
+   your left twinkles and chimes.
+{cyan}
+~
+66 1074004520 0 S
+51 -25 -1 1d1+6800 10d13+10
+50000 20000000
+8 8 1
+D 20
+A 12
+#21411
+Lady Scarlette~
+{BOLD,MAGENTA}Lady Scarlette{bold,magenta}~
+{BOLD,MAGENTA}Lady Scarlette stands here arranging some flowers in a vase.{bold,magenta}
+~
+{WHITE}
+   As you enter the room, you take a moment to collect your
+   thoughts, as the Lady's beauty overwhelms you. Her scarlet velvet
+   gown hugs her body like a glove, and her shiny black hair cascades
+   down her back in loose waves. She captures your gaze with her
+   sparkling violet eyes.
+{white}
+~
+66 1074004536 0 S
+51 -25 -1 1d1+6800 10d13+10
+50000 20000000
+8 8 2
+D 20
+A 12
+#21412
+Lady Anne~
+{BOLD,MAGENTA}Queen Anne{bold,magenta}~
+{MAGENTA}A chubby little lady is behind the counter, preparing pastries.{magenta}
+~
+{WHITE}
+   A petite gray haired woman in a high-necked blue dress and white
+   apron stands behind a counter preparing sweet pastries. The aroma
+   is making you hungrier by the minute, you must remind yourself to
+   return here often.
+{white}
+~
+66 1074012856 0 S
+51 -25 -1 1d1+6800 10d13+10
+50000 20000000
+8 8 2
+D 20
+A 12
+#21413
+knight~
+{WHITE}A Knight{white}~
+{BOLD,BLUE}A brawny Knight sits at the table chugging his foaming mug of brew.{bold,blue}
+~
+{BOLD,BLUE}
+   Although like other noble Camelot Knights, he is equipped in the
+   finest silver armour, this Knight feels quite at ease amongst the
+   common folk. He seems to be drowning his sorrows in his mug of
+   brew.
+{bold,blue}
+~
+134217795 1074004648 0 S
+40 -25 -1 1d1+2199 6d10+20
+50000 1000000
+8 8 1
+D 20
+A 12
+#21414
+Lion~
+{BOLD,YELLOW}A Fierce Lion{bold,yellow}~
+{BOLD,YELLOW}A male lion paces around you, saliva dripping from its mouth.{bold,yellow}
+~
+{WHITE}
+   The immense beast stalks you from the other side of the room. As
+   he approaches you can feel his hot, rancid breath on your flesh. 
+{white}
+~
+98 1141121596 0 S
+26 -25 -1 1d1+1800 5d10+15
+50000 155000
+8 8 0
+D 20
+A 12
+#21415
+Rat~
+{BOLD,BLACK}The Mangey Rat{bold,black}~
+{BOLD,BLACK}A disease ridden rat gnaws at your ankles.{bold,black}
+~
+{WHITE}
+   The rat peers back at you with beady black eyes, all the while
+   chewing chunks of your flesh, your steaming blood matting his fur.
+{white}
+~
+98 1074012728 0 S
+25 -25 -1 28d28+28 5d6+10
+5000 155000
+8 8 0
+D 20
+A 12
+#21416
+Streetwalker Prostitute~
+{WHITE}the{BOLD,RED} Floozie{bold,red}~
+{MAGENTA}A streetwalker leers in your direction, and shows you a little thigh.{magenta}
+~
+{WHITE}
+   From first glance, this girl seems pretty and friendly enough.
+   But your instincts tell you this floozie has seen more
+   action then the Tavern's privy. In respect to your health,
+   you would be better off declining her offers.
+{white}
+~
+134217794 1074004520 -10 S
+26 -25 -1 1d1+1199 7d7+15
+5000 155000
+8 8 2
+D 20
+A 12
+#21417
+Prisoner~
+{BOLD,RED}The Prisoner{bold,red}~
+{BOLD,BLACK} A hardened criminal clenches his fists, ready to bash in your brains.{bold,black}
+~
+{WHITE}
+   He approaches you with the challenging look in your gaze, the smell
+   of his sweat and excretions fill your nostrils. You grab for a rag in your
+   inventory to filter the rancid smell.  He takes this moment to tackle
+   you to the ground. With fists and elbows flying it looks as though this
+   shifty prisoner is more of a nuisance than a threat. Draw your sword
+   from its scabbard and be done with this menace.
+{white}
+~
+134217826 1074004520 0 S
+26 -25 -1 1d1+1199 7d7+12
+5000 155000
+8 8 1
+D 20
+A 12
+#21418
+Boy Pickpocket~
+{YELLOW}The Pickpocket{yellow}~
+{Y}A small boy is here with a guilty look in his eyes, your wallet in his hand.{y}
+~
+{WHITE}
+   A filthy young boy peers back at you through a mud covered face.
+   His red hair and freckles soften your heart, but you must teach this
+   child stealing is a crime in the land of Camelot.
+{white}
+~
+134217794 1074004520 0 S
+26 -25 -1 1d1+1199 6d7+10
+5000 155000
+8 8 1
+D 20
+A 12
+#21419
+Prisoner~
+{BOLD,RED}An Emaciated Prisoner{bold,red}~
+{BOLD,BLACK}A frail, gaunt prisoner stares back at you through yellowed eyes.{bold,black}
+~
+{WHITE}
+   The prisoner's eyes roll lazily in his skull, hunger and darkness has robbed him
+   of his vision and his will to live.  His jaundiced skin, hangs loosely against
+   his delicate frame.  Don't let his apparent weakness fool you, disease has drove 
+   him mad, and there is no telling what he might do to those from the outside.
+{white}
+~
+134217826 1074004520 -100 S
+27 -25 -1 1d1+1499 8d8+15
+5000 255000
+8 8 1
+D 20
+A 12
+#21420
+Boy Altar~
+{CYAN}An Altar Boy{cyan}~
+{WHITE}An altar boy sits in a pew, quietly humming hymns.{white}
+~
+{WHITE}
+   An angelic looking young boy sits peacefully in a pew. His blonde hair covering
+   his magestically blue eyes, as he bows his head in prayer.
+{white}
+~
+66 1610875432 750 S
+30 -25 -1 1d1+1349 5d10+10
+50000 700000
+8 8 1
+D 20
+A 12
+#21421
+Cardinal~
+{RED}The Cardinal{red}~
+{WHITE}The church's Cardinal stands here, conducting a mass.{white}
+~
+{WHITE}
+
+An old man dressed in fine robs of red conducts a religious service.
+{wh}
+~
+67108930 1610875432 750 S
+36 -25 -1 1d1+1724 8d10+10
+50000 1000000
+8 8 1
+D 20
+A 12
+#21422
+Priest~
+{YELLOW}The Priest{yellow}~
+{WHITE}A Priest stands here welcoming members of his church.{white}
+~
+{WHITE}
+   A slender man dressed in a black robe and white collar stands before you.
+   His expression is warm and genuine, as he welcomes you to worship in
+   his church.
+{white}
+~
+134217794 1610875432 750 C 2
+37 -25 -1 1d1+1999 5d20+6
+50000 1000000
+8 8 1
+D 20
+A 12
+#21423
+Bishop~
+{BOLD,YELLOW}The Bishop{bold,yellow}~
+{WHITE}The Bishop quietly observes the large congregation.{white}
+~
+{WHITE}
+   The Bishop returns your smile and continues watching the mass.
+   He nudges you toward a pew, and tells you to have faith in God,
+   for it is he who will be your saviour.
+{white}
+~
+67108930 1610875432 750 S
+36 -25 -1 1d1+1649 9d9+11
+50000 1000000
+8 8 1
+D 20
+A 12
+#21424
+Nun~
+{BOLD,YELLOW}The Nun{bold,yellow}~
+{WHITE}A Nun sits here, deep in prayer.{white}
+~
+{WHITE}
+   She sits in the pew, completely absorbed in prayer.  She raises her head
+   and greets you with a warm smile, and starts singing along with the
+   church's congregation in a upbeat religious hymn.
+{white}
+~
+66 1074004496 750 S
+36 -25 -1 1d1+1350 5d10+12
+25000 1000000
+8 8 2
+D 20
+A 12
+#21425
+Dragonfly~
+{BOLD,YELLOW}The {RED}D{GREEN}r{BLUE}a{YELLOW}g{GREEN}o{BLUE}n{GREEN}f{BLUE}l{RED}y{bold,red}~
+{BOLD,YELLOW}A pesky {RED}D{GREEN}r{BLUE}a{YELLOW}g{GREEN}o{BLUE}n{GREEN}f{BLUE}l{RED}y {YELLOW}buzzes past your head.{bold,yellow}
+~
+{BOLD,YELLOW}
+   A large iridescent insect lands on your nose and looks at you
+   accusingly with his big black eyes, his wings flapping madly.
+{bold,yellow}
+~
+134217794 1090519552 0 S
+25 -25 -1 28d28+28 5d6+10
+5000 155000
+8 8 0
+D 20
+A 12
+#21426
+Falcore Dragon~
+{BOLD,GREEN}F{WHITE}a{GREEN}l{WHITE}c{GREEN}o{WHITE}r{GREEN}e {bold,green}~
+{BOLD,GREEN}The last of the white Dragons rests here.{bold,green}
+~
+{CYAN}
+   In appearance this is the most dramatic dragon you have ever come across.
+   This beautiful beast is long-necked, long-tailed, lineous, winged, and his scales
+   glow with a metallic sheen. His bulbous, glowing gem-like eyes allows him to
+   see all around without turning his head.   Both his teeth and claws look deadly
+   but their only purpose is for defense, as this race of dragons do not eat flesh.
+   Falcore is the last of the white dragons, you think to yourself, as you prepare
+   to kill him. You grin with delight, knowing that just one of his pearly white 
+   claws would make a great trophy.
+{cyan}
+~
+134218050 1141113512 -500 S
+51 -25 -1 1d1+2799 10d10+25
+70000 20000000
+8 8 0
+D 20
+A 12
+#21427
+Nymph Sea~
+{BOLD,YELLOW}The {BLUE}S{CYAN}e{WHITE}a {BLUE}N{CYAN}y{WHITE}m{BLUE}p{CYAN}h {bold,cyan}~
+{BOLD,YELLOW}You are splashed with water as the {BLUE}S{CYAN}e{WHITE}a {BLUE}N{CYAN}y{WHITE}m{BLUE}p{CYAN}h {YELLOW}swims away.{bold,yellow}
+~
+{WHITE}
+   A beautiful little creature stares back at you with big black eyes.
+   Her long blue hair flows about her body, she sings you a sweet
+   hello, then dissapears back into the water.
+{white}
+~
+134217794 1074012720 0 S
+26 -25 -1 28d28+28 6d6+10
+6000 200000
+8 8 2
+D 20
+A 12
+#21428
+Citizen Man Sharlotte~
+{CYAN}A Young Man{cyan}~
+{BOLD,CYAN}A citizen of Shalotte wanders about aimlessly.{bold,cyan}
+~
+{WHITE}
+   A young man wanders around, apparently lost in thought.
+   Seems he is a citizen of Sharlotte, you look at him curiously,
+   wondering what he could be up to.
+{white}
+~
+66 1074004536 0 S
+36 -25 -1 1d1+1100 10d2+25
+25000 700000
+8 8 1
+D 20
+A 12
+#21429
+Pixie Woman~
+{BOLD,CYAN}A {MAGENTA}P{CYAN}i{MAGENTA}x{CYAN}i{MAGENTA}e{CYAN} L{MAGENTA}a{CYAN}d{MAGENTA}y{bold,magenta}~
+{MAGENTA}You barely see the tiny woman sitting on a daisy, she must be a Pixie.{magenta}
+~
+{WHITE}
+   If it were not for her loud singing voice, you would have probably stepped
+   on this tiny little elfish woman.  Her clear blue eyes twinkle back at you.
+{white}
+~
+66 1157636656 0 S
+26 -25 -1 28d28+28 7d7+10
+6000 200000
+8 8 2
+D 20
+A 12
+#21430
+Demon Shadow~
+{YELLOW}The Demon{yellow}~
+{BOLD,BLACK}Shadows peer back at you in the darkness, their {bold}{BLINK,YELLOW}e{blink}{BOLD,BLACK}y{bold}{BLINK,YELLOW}e{blink}{BOLD,BLACK}s illuminating the room.{bold,black}
+~
+{BOLD,BLACK}
+   A short potbellied creature grins, saliva dripping from his lips.  Blood and puss drip
+   from his gaping wounds and sores.  His piercing yellow eyes put shivers up
+   your spine.
+{bold,black}
+~
+134217826 1076101672 -500 S
+41 -25 -1 50d50+50 12d8+10
+70000 1000000
+8 8 0
+D 20
+A 12
+#21431
+Spider~
+{BOLD,BLACK} A {RED}H{BLACK}a{RED}i{BLACK}r{RED}y{BLACK} B{RED}l{BLACK}a{RED}c{BLACK}k{RED} S{BLACK}p{RED}i{BLACK}d{RED}e{BLACK}r{bold,black}~
+{BOLD,BLACK}You feel something crawl up your pant leg.{bold,black}
+~
+{WHITE}
+   You run around shaking your leg, finally something hairy comes rolling out
+   your pant leg.  It quickly scurries away as you wield your dagger.
+{white}
+~
+134217794 1141113360 -500 S
+26 -25 -1 28d28+28 6d6+10
+6000 200000
+8 8 0
+D 20
+A 12
+#21432
+Lady Shalotte~
+{CYAN}The Lady of Shalotte{cyan}~
+{BOLD,CYAN}A beautiful woman is sitting on a stool working her hand loom.{bold,cyan}
+~
+{WHITE}
+   This fair maiden works diligently, not even noticing your gaze.
+   Long blonde hair cascades down her white gown, you marvel
+   in her beauty for a long while before she realizes you presence.
+{white}
+~
+134226114 1074004648 500 S
+51 -25 -1 1d1+3299 12d12+6
+900000 2000000
+8 8 2
+D 20
+A 12
+#21433
+Citizen Camelot~
+{YELLOW}A Citizen of Camelot{yellow}~
+{BOLD,YELLOW}A Citizen of Camelot bumps into you, knocking your parcels to the ground.{bold,yellow}
+~
+{WHITE}
+   She bends down immediately to help you with your belongings,
+   that now lay scattered at your feet. Apologetically, she offers her assistance
+   and a friendly smile.
+{white}
+~
+66 1074004520 0 S
+36 -25 -1 1d1+1100 10d2+25
+30000 900000
+8 8 1
+D 20
+A 12
+#21434
+Guard Royal~
+{BLUE}A Royal Guard of Camelot{blue}~
+{WHITE}A handsome guard stands here at attention.{white}
+~
+{WHITE}
+   You need to tilt your head to the sky in order to meet this guard's 
+   fierce gaze. He bumps into you as you attempt to pass him, and
+   demands you declare your business here in Camelot.
+{white}
+~
+134217795 1074004904 0 S
+41 -25 -1 1d1+2099 8d10+10
+70000 700000
+8 8 1
+D 20
+A 12
+#21435
+Servant Royal Camelot~
+{RED}A Royal Servant of Camelot{red}~
+{BLUE}A servant rushes past you, carrying bundles of boxes.{blue}
+~
+{WHITE}
+   The servant bumps into you dropping all the boxes he was carrying.
+   He apologizes prophetically, gathers his bundle and continues to
+   perform his duties. He is dressed in a red uniform, he must be a 
+   servant to King Arthur.
+{red}
+{white}
+~
+134217794 1140851216 0 S
+36 -25 -1 1d1+1349 6d10+13
+60000 300000
+8 8 1
+D 20
+A 12
+#21436
+Child Servant Camelot~
+{RED}A Servant's Child{red}~
+{BLUE}You stomp on a pile of toys, and hear a child begin to cry.{BLUE}
+~
+{WHITE}
+   You kick the toys in a corner and glare at the little boy.
+   You throw him a gold coin hoping to cease his crying.
+{white}
+~
+66 1073742336 0 S
+26 -25 -1 1d1+799 3d9+20
+40001 300000
+8 8 1
+D 20
+A 12
+#21437
+Woman Servant Camelot~
+{RED}A Woman Servant{red}~
+{BLUE}A large woman sits here mending some clothes.{blue}
+~
+{WHITE}
+   A portly woman hums a tune while mending some clothes.
+   She pricks her finger with a needle and mutters some
+   obscenities to herself.
+{white}
+~
+134217795 1073742336 0 S
+31 -25 -1 1d1+1624 8d8+15
+60000 500000
+8 8 2
+D 20
+A 12
+#21438
+Chef Head Camelot~
+{RED}The Head Chef{red}~
+{W}{BOL}The Head Chef screams at the cooking staff as you hear pots clanging on the floor.{w}
+~
+{WHITE}
+   A portly man in a white uniform and a tall chef's hat is
+   bellowing at the top of his lungs, while the other cooks
+   scurry around him. It must be a big occasion, for plates
+   of exotic foods fill the room, the aromas stinging your 
+   hungry belly.
+{white}
+~
+134217795 1073742336 0 S
+31 -25 -1 1d1+1649 8d8+20
+60000 900000
+8 8 1
+D 20
+A 12
+#21439
+Man Servant Camelot~
+{RED}A Man Servant{red}~
+{BLUE}A rotund servant is sanding a chair here.{blue}
+~
+{WHITE}
+   A large brown-skinned man stands before you, his 
+   muscles buldging as he sands down a chair.
+   The expression on his face tells you he is not impressed
+   that he has been given this job.
+{white}
+~
+134217795 1073742336 0 S
+31 -25 -1 1d1+1674 9d9+17
+60000 800000
+8 8 1
+D 20
+A 12
+#21440
+Caterer Servant Camelot~
+{RED}A Caterer{red}~
+{WHITE}Frowning, the caterer samples the food and curses his staff.{white}
+~
+{WHITE}
+   A handsome man dressed in a black uniform runs in and 
+   out of the room carrying plates of food.
+{white}
+~
+66 1074004520 0 S
+36 -25 -1 1d1+1100 10d2+25
+30000 900000
+8 8 1
+D 20
+A 12
+#21441
+Cook Royal Camelot~
+{BLUE}The Royal Cook of Camelot{blue}~
+{WHITE}A man holds a pot over a fire, stirring its contents rapidly.{white}
+~
+{WHITE}
+   A short man dressed in white holds a steaming pot
+   over a burning fire. It seems he is making the King's
+   favourite gravy.  Looks like he is the only servant who
+   actually enjoy's his job. He glances back at you and smiles,
+   letting you try the special sauce.
+{white}
+~
+66 1074004520 0 S
+36 -25 -1 1d1+1324 10d4+25
+30000 900000
+8 8 1
+D 20
+A 12
+#21442
+Queen Guinevere~
+{BOLD,YELLOW}Queen Guinevere{bold,yellow}~
+{BOLD,RED}You see a woman gazing into a mirror and brushing her hair.{bold,red}
+~
+{WHITE}
+   Your eyes fall upon a lovely middle-aged woman. 
+   She sits at her vanity, brushing her long, luxurious brown
+   hair. Her violet gown trails behind her, and her gold 
+   jewelry glitter in the pale light. Her bold green eyes 
+   sparkle as she turns around to greet you.
+{white}
+~
+134226114 1074004520 500 S
+51 -30 -3 1d1+5999 12d11+5
+60000 2000000
+8 8 2
+D 20
+A 12
+#21443
+Lady~
+{MAGENTA}The Lady-in-Waiting{magenta}~
+{MAGENTA}A lovely lady-in-waiting  beams a smile at you.{magenta}
+~
+{WHITE}
+   When you meet this young girl's gaze, she quickly
+   looks down  at the ground, obviously feeling awkward.
+   She curtseys and ruffles her skirts walking quickly
+   towards the balcony door.
+{white}
+~
+134217794 1074004520 0 S
+36 -25 -1 1d1+1300 9d4+25
+40000 700000
+8 8 2
+D 20
+A 12
+#21444
+Butterfly~
+{BOLD,YELLOW}A {RED}B{BLUE}u{WHITE}t{YELLOW}t{CYAN}e{YELLOW}r{WHITE}f{BLUE}l{RED}y{bold,red}~
+{BOLD,YELLOW}All you see are flapping wings, then it lands on your nose.{bold,yellow}
+~
+{WHITE}
+   Your nose begins to tickle as the Butterfly's little feet walk up and
+   down the length of your nose.  This is the smallest creature you have 
+   seen during your travels in Camelot.  She spreads her wings,
+   revealing the colours of the rainbow.
+{white}
+~
+134217795 1610875432 300 S
+36 -25 -1 1d1+998 7d7+15
+7000 500000
+8 8 0
+D 20
+A 12
+#21445
+Spirit~
+{YELLOW}An Evil Spirit{yellow}~
+{BOLD,BLACK}Tingles shoot up your spine as you feel a cold presence enter the room.{bold,black}
+~
+{WHITE}
+   You quickly turn around trying to locate what is making you
+   feel so cold.  Then out of the shadows you barely see
+   the faint smokey outline of a spirit.
+{white}
+~
+99 1076101672 0 S
+20 -25 -1 1d1+1449 8d9+15
+70000 50000
+8 8 0
+D 20
+A 12
+#21446
+Pandora~
+{RED}P{BOLD,RED}a{bold,RED}n{BOLD,RED}d{bold,RED}o{BOLD,RED}r{bold,RED}a{red}~
+{BOLD,RED}Pandora is crouched in the corner, opening a a small box.{bold,red}
+~
+{WHITE}
+   The remnants of a youthful school girl, lay tattered in the corner.
+   As she opens the box, she grins with delight, then screams
+   in horror as the evils from within transform her into a
+   hiddeous monster.
+{white}
+~
+134217827 1075839616 0 C 12
+50 -25 -1 1d1+2749 8d8+14
+70000 3000000
+8 8 2
+D 20
+A 12
+#21447
+banshee~
+{BOLD,CYAN}A {BLACK}B{BLUE}a{CYAN}n{BLACK}s{BLUE}h{BLACK}e{CYAN}e{bold,cyan}~
+{BOLD,CYAN}A female spirit wails uncontrollably, she must be warning you of your impending doom.{bold,cyan}
+~
+{BOLD,BLACK}
+   A woman dressed in a dark flowing robe stands before you.
+   Her expression is grim as she stops screaming to look you
+   deep in the eye. She bows her head and covers her face,
+   as she makes her way past you she whispers the words,
+   "death to you". 
+{bold,black}
+~
+134217827 1075839616 0 S
+51 -25 -1 1d1+2599 8d9+15
+70000 3000000
+8 8 2
+D 20
+A 12
+#21448
+Vulture~
+{BOLD,BLACK}A {RED}V{BLACK}u{RED}l{BLACK}t{RED}u{BLACK}r{RED}e{bold,red}~
+{BOLD,BLACK}A scraggly bird picks at a dead corpse.{bold,black}
+~
+{BOLD,RED}
+   Eyeballs, and Intestines lay half eaten on the ground. 
+   Looks like this vulture is a bit fussy today.  Scars and 
+   infected wounds can be seen on his body, where 
+   there are no feathers.
+{bold,red}
+~
+134217826 1076101672 0 S
+36 -25 -1 1d1+1899 10d5+15
+60000 800000
+8 8 1
+D 20
+A 12
+#21449
+Ezmirelda~
+{BOLD,GREEN}E{BLACK}z{GREEN}m{BLACK}i{GREEN}r{BLACK}e{GREEN}l{BLACK}d{GREEN}a{bold,green}~
+{BOLD,GREEN}A woman sits in her window sill, gazing into the dark sky.{bold,green}
+~
+{BOLD,GREEN}
+   Age has made this once beautiful woman decrepit, but her wisdom
+   has given her the strength to remain on this plain of existance.
+   Her long purple robe flutters in the breeze, as she looks dreamily
+   out her window.  She grabs clumsily at a scroll, her gnarled hands
+   creaking and cracking.  She whips around and glares at you,
+   her once violet eyes, not cataraxed and milky white.
+   She howls and curses as she hobbles towards you, you feel her
+   long crooked nails dig deep into your cheek.
+{bold,green}
+~
+134226019 1074004648 -500 C 12
+51 -25 -1 1d1+3174 10d10+15
+70000 40000000
+8 8 2
+D 20
+A 12
+#21450
+leprechaun~
+{BOLD,GREEN}A Leprechaun{bold,green}~
+{GREEN}You feel something untie your boot laces.{green}
+~
+{WHITE}
+   You look down to find a tiny little man. He giggles to himself
+   as you take a step and fall to the ground. Looks as though
+   he has tied your boots together.  He rolls in the grass
+   holding his sides. When you untie your boots and glare at
+   him in annoyance, he pops up, straightens his green darby,
+   adjusts his four leaf clover pin. The last thing you see is
+   red hair running through the stems of grass.
+{white}
+~
+67108930 1076101672 0 S
+33 -25 -1 1d10+5000 2d25+19
+90000 600000
+8 8 1
+D 20
+A 12
+#21451
+Sir Gawain~
+{BLUE}Sir Gawain{blue}~
+{WHITE}A knight of the round table stands here.{white}
+~
+{WHITE}
+   A tall, handsome knight returns your curious gaze with
+   a warm smile. His armor gleams and medals adorn 
+   him.  Word has it that he is one of the Knights of 
+   King Arthur's Round Table.
+{white}
+~
+134225987 1074004648 500 S
+52 -25 -1 1d1+3799 12d12+12
+80000 3000000
+8 8 1
+D 20
+A 12
+#21452
+knight green~
+{BOLD,GREEN}A Green Knight of Camelot{bold,green}~
+{WHITE}A  Knight of Camelot stands here.{white}
+~
+{WHITE}
+   A brawny man equipped in shining green armour
+   stands before you. He stands rigidly with his nose in the air.
+   He wants everyone to know he is a noble knight of
+   Camelot.
+{white}
+~
+134225987 262696 500 S
+52 -25 -1 1d1+7499 12d11+12
+60000 3000000
+8 8 1
+S 134217728
+D 20
+A 12
+#21453
+Modred~
+{BOLD,RED}Modred{bold,red}~
+{WHITE}Modred, the nephew of the Royal Family stands here.{white}
+~
+{WHITE}
+   A handsome young man looks at you with playful blue eyes.
+   He too wears the crest of Camelot on his clothing. His boisterous
+   behaviour is a good sign that this young man is not a knight.
+{white}
+~
+134225985 1074004648 500 S
+52 -25 -1 1d1+3799 12d11+15
+60000 3000000
+8 8 1
+D 20
+A 12
+#21454
+Dragon Emerald~
+{BOLD,GREEN}The Emerald Dragon{bold,green}~
+{GREEN}A dragon with gleaming green scales sleeps here.{green}
+~
+{WHITE}
+   As you enter the room, the dragon raises his sleepy head
+   and snorts at you, singing your packs. His large black bulbous
+   eyes look back at you innocently.
+{white}
+~
+134218051 1074004648 -75 C 12
+26 -25 -1 1d1+4999 10d10+20
+70000 30000000
+8 8 0
+D 20
+A 12
+#21455
+Sir Kay Knight Camelot~
+{BLUE}Sir Kay{blue}~
+{WHITE}A Knight of the round table stands here talking.{white}
+~
+{WHITE}
+   A gallant, middle aged Knight stands here talking amongst his peers.
+   His silver armour gleams as the light from the room's fire reflects 
+   off it. As he smiles, you notice a deep scar on his left cheek.
+{white}
+~
+134225987 1074004648 500 S
+52 -25 -1 1d1+3799 12d12+12
+60000 30000000
+8 8 1
+D 20
+A 12
+#21456
+Singer Opera Woman~
+{CYAN}The Opera Singer{cyan}~
+{WHITE}An Opera Singer stands on stage, entertaining her audience.{white}
+~
+{WHITE}
+   An elegantly dressed woman's cleavage heaves as she 
+   hits a high note.  You hear glass breaking in the 
+   background.
+{white}
+~
+66 1076101672 0 S
+40 -25 -1 1d1+1299 1d40+20
+60000 900000
+8 8 2
+D 20
+A 12
+#21457
+Phantom Opera~
+{BOLD,BLACK}The Phantom of the Opera{bold,black}~
+{BOLD,WHITE}You see a man holding a molded mask to his face here.{bold,white}
+~
+{WHITE}
+   A tall slender man dressed in black, 
+   looks at you curiously.  He tries 
+   his best to avoid eye contact for
+   too long. In a flash he is gone.
+{white}
+~
+134217826 1074004664 -400 S
+42 -25 -1 1d1+2199 12d6+13
+10000 20000000
+8 8 1
+R 1048576
+D 20
+A 12
+#21458
+Wealthy Citizen~
+{BOLD,MAGENTA}The Prima Donna{bold,magenta}~
+{BOLD,MAGENTA}A Wealthy Citizen of Camelot looks at you with disgust.{bold,magenta}
+~
+
+{W,BO}In your rags and mismatched armour, you feel unworthy
+in the presence of this magnificent woman.
+She is adorned with the finest furs and jewelry.{w,bo}
+~
+66 1074004520 0 S
+36 -25 -1 1d1+1299 10d4+20
+40000 700000
+8 8 2
+D 20
+A 12
+#21459
+Usher~
+{CYAN}An Usher{cyan}~
+{BOLD,WHITE}An Usher is here helping people to their seats.{bold,white}
+~
+{WHITE}
+   A pleasant looking young man dressed in a red
+   uniform smiles at you, and ushers you to
+   your seat in the Opera House.
+   {white}
+~
+66 1074004520 0 S
+36 -25 -1 1d1+1249 10d3+20
+30000 7000000
+8 8 1
+D 20
+A 12
+#21460
+Sir Gareth Knight Camelot~
+{BLUE}Sir Gareth{blue}~
+{WHITE}A Knight of the round table stands here eating a rack of lamb.{white}
+~
+{WHITE}
+   Sir Gareth devours his dinner, and pays you no attention,
+   as you walk his way.
+{white}
+~
+134225987 1074004648 500 S
+52 -25 -1 1d1+3499 11d11+10
+60000 30000000
+8 8 1
+R 1048576
+D 20
+A 12
+#21461
+King Arthur~
+{BOLD,YELLOW}King Arthur of Camelot{bold,yellow}~
+{BOLD,RED}King Arthur of Camelot sits here studying a map of a neighbouring territory.{bold,red}
+~
+{WHITE}
+   His long luxurious robe trails behind his chair,
+   as he studies his map grumbling bitterly
+   to himself.
+{white}
+~
+134217795 1074004648 500 S
+53 -30 -3 1d1+5499 12d12+15
+60000 30000000
+8 8 1
+D 20
+A 12
+#21462
+Sir Lancelot Knight Camelot~
+{BLUE}Sir Lancelot{blue}~
+{WHITE}Sir Lancelot rides atop his beautiful white steed.{white}
+~
+{WHITE}
+   A dashingly handsome man glares down at you from 
+   atop his horse.  His armour gleams like none of the other
+   Knights you have seen. He is clearly one of the King's
+   most proud prodigy's.
+{white}
+~
+134225987 1074004520 500 S
+52 -30 -3 1d1+8499 12d12+20
+60000 40000000
+8 8 1
+D 20
+A 12
+#21463
+Sir Percival Knight Camelot~
+{BLUE}Sir Percival{blue}~
+{WHITE}A Knight of the round table discusses his next attack.{white}
+~
+{WHITE}
+   A valliant Knight sits at a table, loudly discussing
+   his next attack on Camelot's neighbouring village.
+   His devlish grin tells you he is not to be trusted.
+{white}
+~
+134225985 1074004648 500 S
+52 -25 -1 1d1+3499 11d11+10
+60000 30000000
+8 8 1
+D 20
+A 12
+#21464
+Sir Knight Tristram~
+{BLUE}Sir Tristram{blue}~
+{WHITE}A Knight of the round table stands here.{white}
+~
+A rough looking knight sits before you.  He
+is very burly and intimidating.
+~
+134225987 1074004648 500 S
+52 -25 -1 1d1+3499 11d11+10
+60000 30000000
+8 8 1
+D 20
+A 12
+#21465
+Sir Knight Bedivere~
+{BLUE}Sir Bedivere{blue}~
+{WHITE}A Knight of the round table stands here.{white}
+~
+A curious looking knight stands before you.  He
+looks very wise, yet confused.  He looks young,
+yet his eyes tell you otherwise.
+~
+134225987 1074004648 500 S
+52 -25 -1 1d1+3299 10d10+12
+60000 30000000
+8 8 1
+D 20
+A 12
+#21466
+Sir Knight Galahad~
+{BLUE}Sir Galahad{blue}~
+{WHITE}A Knight of the round table stands here.{white}
+~
+A young man stands here awkwardly.  He seems
+to be having a hard time relaxing.  As you
+look at him, his mind seems to be elsewhere.
+~
+134225987 1074004648 500 S
+52 -25 -1 1d1+3699 11d11+14
+60000 30000000
+8 8 1
+D 20
+A 12
+#21467
+Pianist~
+{CYAN}The Pianist{cyan}~
+{CYAN}A Pianist is here tinkling the ivorys.{cyan}
+~
+{WHITE}
+   A frail looking man in a red uniform 
+   nervously plays the piano, afraid he will
+   upset the King.
+{white}
+~
+66 1074004520 0 S
+36 -25 -1 1d1+1199 10d2+20
+30000 700000
+8 8 1
+D 20
+A 12
+#21468
+Gnome~
+{BOLD,BLUE}A Gnome{bold,blue}~
+{BOLD,BLUE}A Gnome peers back at you with a menacing look in his tiny eyes.{bold,blue}
+~
+
+A small elfish creature stands before you.  His
+long white hair and long white beard make him
+look very curious.  He smiles at you with a 
+mischievous sort of smirk.
+~
+66 1074004520 0 S
+57 -25 -1 1d1+1499 10d10+100
+5000 2000
+8 8 0
+D 20
+A 12
+#21469
+Hermit~
+{BOLD,RED}The Hermit{bold,red}~
+{BOLD,YELLOW}A man sits at his desk, quietly reading.{bold,yellow}
+~
+An old peaceful looking man looks at you with
+knowing eyes.  He looks wise and lonely.
+~
+134217795 1076101672 0 C 12
+41 -25 -1 1d1+1999 8d8+20
+60000 70000
+8 8 0
+D 20
+A 12
+#21471
+Knight Kriege~
+{BOLD,CYAN}Knight Kriege{bold,cyan}~
+{BOLD,BLACK}A shimmering, ghostly figure can be seen through the mists.{bold,black}
+~
+It looks like nobody!
+~
+1279320162 1865689852 1000 C 4
+50 10 5 0d0+30000 1d2+0
+10000000 1000
+8 8 1
+D 20
+A 12
+#21472
+Knight Spice~
+{BOLD,CYAN}Knight Spice{bold,cyan}~
+{BOLD,BLACK}A shimmering, ghostly figure can be seen through the mists.{bold,black}
+~
+It looks like nobody!
+~
+1279320162 1865689852 1000 C 4
+50 10 5 0d0+30000 1d2+0
+10000000 1000
+8 8 1
+D 20
+A 12
+#21473
+Knight Vector~
+{BOLD,CYAN}Knight Vector{bold,cyan}~
+{BOLD,BLACK}A shimmering, ghostly figure can be seen through the mists.{bold,black}
+~
+It looks like nobody!
+~
+1279320162 1865689852 1000 C 4
+50 10 5 0d0+30000 1d2+0
+10000000 1000
+8 8 1
+D 20
+A 12
+#21474
+Knight Oxden~
+{BOLD,CYAN}Knight Oxden{bold,cyan}~
+{BOLD,BLACK}A shimmering, ghostly figure can be seen through the mists.{bold,black}
+~
+It looks like nobody!
+~
+1279320162 1865689852 1000 C 4
+50 10 5 0d0+30000 1d2+0
+10000000 1000
+8 8 1
+D 20
+A 12
+#21475
+Knight Barona~
+{BOLD,CYAN}Knight Barona{bold,cyan}~
+{BOLD,BLACK}A shimmering, ghostly figure can be seen through the mists.{bold,black}
+~
+It looks like nobody!
+~
+1279320162 1865689852 1000 C 4
+50 10 5 0d0+30000 1d2+0
+10000000 1000
+8 8 1
+D 20
+A 12
+#21476
+Knight Cyrilla~
+{BOLD,CYAN}Knight Cyrilla{bold,cyan}~
+{BOLD,BLACK}A shimmering, ghostly figure can be seen through the mists.{bold,black}
+~
+It looks like nobody!
+~
+1279320162 1865689852 1000 C 43
+50 10 5 0d0+30000 1d2+0
+10000000 1000
+8 8 2
+D 20
+A 12
+#21477
+Knight Carnella~
+{BOLD,CYAN}Knight Carnella{bold,cyan}~
+{BOLD,BLACK}A shimmering, ghostly figure can be seen through the mists.{bold,black}
+~
+It looks like nobody!
+~
+1279320162 1865689852 1000 C 42
+50 10 5 0d0+30000 1d2+0
+10000000 1000
+8 8 2
+S 19400640
+D 20
+A 12
+#21478
+Demon~
+{BOLD,BLACK}The D{RED}e{BLACK}m{RED}o{BLACK}n{bold,red}~
+{BOLD,RED}Smells of rotting flesh and excriment begin to make you feel nautious.{bold,red}
+~
+It looks like nobody!
+~
+402710754 128 -1000 S
+49 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#21479
+Lady Vivian~
+{BOLD,BLUE}The {BOLD,CYAN}Lad{bold,CYAN}y of Th{BOLD,CYAN}e L{BOLD,BLUE}ake{bold,blue}~
+{CYAN}You see a figure rise from the waters of the lake.{cyan}
+~
+{BOLD,BLUE}
+   Freed of her enwrapping cloaks and shawls, Viviane, The Lady of
+   the Lake, is a surprisingly little woman, no taller than a well-grown
+   girl of eight or ten. In her loose tunic with its wrapped belt, a knife
+   sheathed at her waist, and bulky woolen breeches, legs wrapped
+   with thick leggings, she looked tiny, a child put into adult clothes.
+   Her face is small, swarthy and triangular, the forehead low beneath
+   hair dark as the shadows beneath the crags. Her eyes are dark, too,
+   and large in her small face.
+
+
+   Vivian, Lady of the Lake and of the Holy Isle, is at this time in her
+   thirties, eldest daughter of the ancient priestess of the Lake, she
+   has succeeded to her mother's office. Her knuckles whiten as she 
+   holds something tightly in her hands.
+{bold,cyan}
+~
+419487990 4012122804 1000 C 1
+53 -60 -8 0d0+20000 0d0+200
+3000000 40000000
+8 8 2
+S 52955008
+D 20
+A 12
+#21480
+merlin mage~
+{BOLD,MAGENTA}Merlin{bold,magenta}~
+{BOLD,WHITE}A man steps out of a portal just as you enter the room.{bold,white}
+~
+~
+134250562 1764491946 300 C 1
+20 -35 -3 0d0+12000 8d8+62
+2500000 40000000
+8 8 1
+S 335544320
+D 20
+A 12
+#21481
+peasant briton~
+{BOLD,YELLOW}A familiar looking peasant{bold,yellow}~
+{BOLD,CYAN}A british peasant sits under a tree, recanting some babblous story.{bold,cyan}
+~
+{BOLD,YELLOW}
+   You have ventured to Camelot many times as of today,
+   and this flubbering idiot is telling the same story. You wish he'd
+   travel, so he would have something different to say.
+
+   Oh the stories this old man has told.....and boy is he telling them!!
+{bold,yellow}
+~
+134225987 1074004648 500 S
+52 10 -3 1d1+8499 12d12+20
+1000000 60000000
+8 8 1
+D 20
+A 12
+#21482
+BlackKnight Black Knight~
+The BlackKnight~
+The BlackKnight stands here guarding the bridge.
+~
+{BOLD,YELLOW}
+   You have ventured to Camelot many times as of today,
+   and this flubbering idiot is telling the same story. You wish he'd
+   travel, so he would have something different to say.
+
+   Oh the stories this old man has told.....and boy is he telling them!!
+{bold,yellow}
+~
+134225987 1074004648 500 S
+52 10 -3 1d1+8499 12d12+20
+60000 40000000
+8 8 1
+D 20
+A 12
+#21483
+rat~
+A rat~
+A large nasty rat scurries about.
+~
+A gray rat, larger than you have ever seen stands here.  His
+red eyes flas at you through the darkness, making you uneasy.
+~
+917696 1209795240 0 S
+25 10 -1 28d28+28 5d6+10
+1 155000
+8 8 0
+D 20
+A 12
+#21484
+alien~
+A Really Nasty Alien~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 262156 0 S
+56 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+$~

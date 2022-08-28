@@ -1,0 +1,160 @@
+#234
+{BOLD}{GREEN}The Northern Kingdom{bold}{green}(Guard)~
+23499 300 2
+*
+X 11730
+M 0  2041     1 23400    The Postmaster
+O 0 23440     1 23401    {B}A Layer of Mist{b}
+P 1 23400     1 23440    {BOLD}{CYAN}Glimmering Body of Water{bold}{cyan}
+O 0 23407     1 23401    {BOLD}{YELLOW}A Dusty Sign{bold}{yellow}
+O 0 23420     1 23408    {BOLD}{YELLOW}a bundle of keys{bold}{yellow}
+O 0 23404     1 23408    {BLACK}A Rotting Corpse{black}
+P 1 23405     1 23404    {BOLD}{WHITE}A key covered with magots.{bold}{white}
+O 0 23418     1 23412    {BOLD}{BLACK}A Dense Fog{bold}{black}
+O 0 23413     1 23416    {BOLD}{CYAN}A Vast Body of Crystal Clear Water{bold}{cyan}
+P 1 23415     1 23413    {YELLOW}A Glowing Scroll{yellow}
+O 0 23412     1 23416    {BOLD}{YELLOW}The Stump of an Ancient Oak{bold}{yellow}
+P 1 23414     1 23412    {BOLD}{YELLOW}A Splinter of {GREEN}Earth {YELLOW}Magic{bold}{yellow}
+D 0 23418     1     0    (E:OPEN) {G}The Green Lake{g}
+D 0 23418     3     0    (W:OPEN) {G}The Green Lake{g}
+D 0 23418     4     1    (U:CLOSED) {G}The Green Lake{g}
+D 0 23419     5     1    (D:CLOSED) {BOLD}{YELLOW}A Rope Dangling from the Bridge{bold}{yellow}
+D 0 23424     1     0    (E:OPEN) {GREEN}Eilin's Garden{green}
+M 0 23410     1 23425    {BOLD}{BLACK}Shaggy Silver Wolf{bold}{black}
+E 1 23417     1    17    (HELD) {BOLD}{BLACK} the Tower Gate Key.{bold}{black}
+D 0 23425     4     2    (U:LOCKED) {BO,B}The Gates of Eilin's Tower{bo,b}
+D 0 23426     3     0    (W:OPEN) {BO,B}Eilin's Tower - The Kitchen{bo,b}
+D 0 23426     5     2    (D:LOCKED) {BO,B}Eilin's Tower - The Kitchen{bo,b}
+M 0 23414     2 23430    {BOLD}{YELLOW}The City GateKeeper{bold}{yellow}
+M 0 23414     2 23430    {BOLD}{YELLOW}The City GateKeeper{bold}{yellow}
+D 0 23430     2     2    (S:LOCKED) {BOLD}{YELLOW}At The Gates of The City of NeXis{bold}{yellow}
+D 0 23431     0     2    (N:LOCKED) {BOLD}{YELLOW}On A Dirt Road in NeXis{bold}{yellow}
+M 0 23412     1 23433    {WHITE}Grandpa{white}
+G 1 31829     1     0    {BOLD,BLACK}A Dented Tin Cup{bold,black}
+O 0 23452     1 23433    {BO,B}B{R}r{B}i{R}c{B}k {R}O{B}v{R}e{B}n{bo,b}
+P 1 31835     1 23452    {BO,Y}Fresh Loaf of Bread{bo,y}
+P 1 31820     1 31835    {BO,B}A Pile Of Rocks{bo,b}
+P 1 31809    11 23452    {BOLD}{MAGENTA}Chocolate Cake{bold}{magenta}
+P 1 31809    11 23452    {BOLD}{MAGENTA}Chocolate Cake{bold}{magenta}
+P 1 31809    11 23452    {BOLD}{MAGENTA}Chocolate Cake{bold}{magenta}
+P 1 31809    11 23452    {BOLD}{MAGENTA}Chocolate Cake{bold}{magenta}
+P 1 31809    11 23452    {BOLD}{MAGENTA}Chocolate Cake{bold}{magenta}
+P 1 31809    11 23452    {BOLD}{MAGENTA}Chocolate Cake{bold}{magenta}
+P 1 31809    11 23452    {BOLD}{MAGENTA}Chocolate Cake{bold}{magenta}
+P 1 31809    11 23452    {BOLD}{MAGENTA}Chocolate Cake{bold}{magenta}
+P 1 31809    11 23452    {BOLD}{MAGENTA}Chocolate Cake{bold}{magenta}
+P 1 31809    11 23452    {BOLD}{MAGENTA}Chocolate Cake{bold}{magenta}
+P 1 31809    11 23452    {BOLD}{MAGENTA}Chocolate Cake{bold}{magenta}
+P 1 24020    70 23452    {W}A {R}Strawberry {BO,R}Tart{bo,r}
+P 1 24020    70 23452    {W}A {R}Strawberry {BO,R}Tart{bo,r}
+P 1 24020    70 23452    {W}A {R}Strawberry {BO,R}Tart{bo,r}
+P 1 24020    70 23452    {W}A {R}Strawberry {BO,R}Tart{bo,r}
+P 1 24020    70 23452    {W}A {R}Strawberry {BO,R}Tart{bo,r}
+P 1 24020    70 23452    {W}A {R}Strawberry {BO,R}Tart{bo,r}
+P 1 24020    70 23452    {W}A {R}Strawberry {BO,R}Tart{bo,r}
+P 1 24020    70 23452    {W}A {R}Strawberry {BO,R}Tart{bo,r}
+P 1 24020    70 23452    {W}A {R}Strawberry {BO,R}Tart{bo,r}
+P 1 24020    70 23452    {W}A {R}Strawberry {BO,R}Tart{bo,r}
+P 1 21423   500 23452    {BOLD,YELLOW}a {RED}Raspberry {YELLOW}Tart{yellow}
+P 1 21423   500 23452    {BOLD,YELLOW}a {RED}Raspberry {YELLOW}Tart{yellow}
+P 1 21423   500 23452    {BOLD,YELLOW}a {RED}Raspberry {YELLOW}Tart{yellow}
+P 1 21423   500 23452    {BOLD,YELLOW}a {RED}Raspberry {YELLOW}Tart{yellow}
+P 1 21423   500 23452    {BOLD,YELLOW}a {RED}Raspberry {YELLOW}Tart{yellow}
+P 1 21423   500 23452    {BOLD,YELLOW}a {RED}Raspberry {YELLOW}Tart{yellow}
+P 1 21423   500 23452    {BOLD,YELLOW}a {RED}Raspberry {YELLOW}Tart{yellow}
+P 1 21423   500 23452    {BOLD,YELLOW}a {RED}Raspberry {YELLOW}Tart{yellow}
+P 1 21423   500 23452    {BOLD,YELLOW}a {RED}Raspberry {YELLOW}Tart{yellow}
+P 1 21423   500 23452    {BOLD,YELLOW}a {RED}Raspberry {YELLOW}Tart{yellow}
+P 1 21421    11 23452    {BOLD,MAGENTA}a slice of cherry pie{bold,magenta}
+P 1 21421    11 23452    {BOLD,MAGENTA}a slice of cherry pie{bold,magenta}
+P 1 21421    11 23452    {BOLD,MAGENTA}a slice of cherry pie{bold,magenta}
+P 1 21421    11 23452    {BOLD,MAGENTA}a slice of cherry pie{bold,magenta}
+P 1 21421    11 23452    {BOLD,MAGENTA}a slice of cherry pie{bold,magenta}
+P 1 21421    11 23452    {BOLD,MAGENTA}a slice of cherry pie{bold,magenta}
+P 1 21421    11 23452    {BOLD,MAGENTA}a slice of cherry pie{bold,magenta}
+P 1 21421    11 23452    {BOLD,MAGENTA}a slice of cherry pie{bold,magenta}
+P 1 21421    11 23452    {BOLD,MAGENTA}a slice of cherry pie{bold,magenta}
+P 1 21421    11 23452    {BOLD,MAGENTA}a slice of cherry pie{bold,magenta}
+P 1 21420    21 23452    {YELLOW}a delicious danish pastry{yellow}
+P 1 21420    21 23452    {YELLOW}a delicious danish pastry{yellow}
+P 1 21420    21 23452    {YELLOW}a delicious danish pastry{yellow}
+P 1 21420    21 23452    {YELLOW}a delicious danish pastry{yellow}
+P 1 21420    21 23452    {YELLOW}a delicious danish pastry{yellow}
+P 1 21420    21 23452    {YELLOW}a delicious danish pastry{yellow}
+P 1 21420    21 23452    {YELLOW}a delicious danish pastry{yellow}
+P 1 21420    21 23452    {YELLOW}a delicious danish pastry{yellow}
+P 1 21420    21 23452    {YELLOW}a delicious danish pastry{yellow}
+P 1 21420    21 23452    {YELLOW}a delicious danish pastry{yellow}
+P 1 21420    21 23452    {YELLOW}a delicious danish pastry{yellow}
+P 1 21420    21 23452    {YELLOW}a delicious danish pastry{yellow}
+P 1 21420    21 23452    {YELLOW}a delicious danish pastry{yellow}
+P 1 21420    21 23452    {YELLOW}a delicious danish pastry{yellow}
+P 1 21420    21 23452    {YELLOW}a delicious danish pastry{yellow}
+P 1 21420    21 23452    {YELLOW}a delicious danish pastry{yellow}
+P 1 21420    21 23452    {YELLOW}a delicious danish pastry{yellow}
+P 1 21420    21 23452    {YELLOW}a delicious danish pastry{yellow}
+P 1 21420    21 23452    {YELLOW}a delicious danish pastry{yellow}
+P 1 21420    21 23452    {YELLOW}a delicious danish pastry{yellow}
+P 1  7090     1 23452    a waybread
+P 1  3010    12 23452    {W,BO}A {Y}loaf {W}of {Y}bread{y,bo}
+P 1  3010    12 23452    {W,BO}A {Y}loaf {W}of {Y}bread{y,bo}
+P 1  3010    12 23452    {W,BO}A {Y}loaf {W}of {Y}bread{y,bo}
+P 1  3010    12 23452    {W,BO}A {Y}loaf {W}of {Y}bread{y,bo}
+P 1  3010    12 23452    {W,BO}A {Y}loaf {W}of {Y}bread{y,bo}
+P 1  3010    12 23452    {W,BO}A {Y}loaf {W}of {Y}bread{y,bo}
+P 1  3010    12 23452    {W,BO}A {Y}loaf {W}of {Y}bread{y,bo}
+P 1  3010    12 23452    {W,BO}A {Y}loaf {W}of {Y}bread{y,bo}
+P 1  3010    12 23452    {W,BO}A {Y}loaf {W}of {Y}bread{y,bo}
+P 1  3010    12 23452    {W,BO}A {Y}loaf {W}of {Y}bread{y,bo}
+M 0 23448     6 23435    {B}A Mangey Rat{b}
+M 0 23448     6 23435    {B}A Mangey Rat{b}
+M 0 23448     6 23435    {B}A Mangey Rat{b}
+M 0 23448     6 23435    {B}A Mangey Rat{b}
+M 0 23448     6 23435    {B}A Mangey Rat{b}
+M 0 23448     6 23435    {B}A Mangey Rat{b}
+M 0 23418     5 23435    {BOLD}{YELLOW}A Citizen of NeXis{bold}{yellow}
+M 0 23419     6 23437    {BOLD}{YELLOW}A Citizen of NeXis{bold}{yellow}
+M 0 23419     6 23437    {BOLD}{YELLOW}A Citizen of NeXis{bold}{yellow}
+M 0 23436     1 23438    {BOLD,BLACK}Jarvas{bold,black}
+M 0 23419     6 23438    {BOLD}{YELLOW}A Citizen of NeXis{bold}{yellow}
+D 0 23438     2     1    (S:CLOSED) {BOLD,BLACK}The Drunken Dog{bold,black}
+M 0 23418     5 23439    {BOLD}{YELLOW}A Citizen of NeXis{bold}{yellow}
+M 0 23419     6 23439    {BOLD}{YELLOW}A Citizen of NeXis{bold}{yellow}
+D 0 23439     0     1    (N:CLOSED) {BOLD,BLACK}Before The Tavern{bold,black}
+M 0 23417     8 23440    {BOLD}{WHITE}Miathin's Minion{bold}{white}
+M 0 23417     8 23440    {BOLD}{WHITE}Miathin's Minion{bold}{white}
+M 0 23417     8 23440    {BOLD}{WHITE}Miathin's Minion{bold}{white}
+M 0 23417     8 23440    {BOLD}{WHITE}Miathin's Minion{bold}{white}
+M 0 23417     8 23440    {BOLD}{WHITE}Miathin's Minion{bold}{white}
+M 0 23417     8 23440    {BOLD}{WHITE}Miathin's Minion{bold}{white}
+M 0 23418     5 23441    {BOLD}{YELLOW}A Citizen of NeXis{bold}{yellow}
+M 0 23419     6 23441    {BOLD}{YELLOW}A Citizen of NeXis{bold}{yellow}
+M 0 23418     5 23441    {BOLD}{YELLOW}A Citizen of NeXis{bold}{yellow}
+M 0 23418     5 23441    {BOLD}{YELLOW}A Citizen of NeXis{bold}{yellow}
+M 0 23419     6 23441    {BOLD}{YELLOW}A Citizen of NeXis{bold}{yellow}
+M 0 23417     8 23457    {BOLD}{WHITE}Miathin's Minion{bold}{white}
+M 0 23417     8 23457    {BOLD}{WHITE}Miathin's Minion{bold}{white}
+E 1 23435     1    17    (HELD) {BOLD,CYAN}The GateHouse Key{bold,cyan}
+D 0 23457     1     2    (E:LOCKED) {BOLD}{CYAN}Main Entrance Gate of the Promontory{bold}{cyan}
+D 0 23458     3     2    (W:LOCKED) {BOLD}{CYAN}The Promontory Gatehouse{bold}{cyan}
+O 0 23436     1 23460    {MAGENTA}The Singing Fountain{magenta}
+M 0 23403     1 23466    {RED}Bragar{red}
+M 0 23407     1 23467    {WHITE}{BOLD}Mage {bold}{CYAN}Davorshan{cyan}
+M 0 23404     1 23467    {BOLD}{BLUE}Eliseth{bold}{blue}
+M 0 23421     1 23495    {GREEN}Eilin{green}
+E 1 23419     1     3    (NECK) {BO,Y}A Jewelled Pendant{bo,y}
+O 0 23441     1 23495    {BO,Y}A Framed Painting{bo,y}
+P 1 31803     1 23441    {BO,G}Eilin's Staff of {Y}[{G}Earth{W}-{G}Magic{Y}]{bo,y}
+O 0 23437     1 23495    {BOLD,CYAN}A Portal to another Realm{bold,cyan}
+D 0 23496     1     0    (E:OPEN) {BO,B}Eilin's Tower - Aurian's Bedroom{bo,b}
+M 0 31817     9 23499    {BOLD,BLACK}The {BOLD,YELLOW}Bu{bold,YELLOW}z{BOLD,YELLOW}z{bold,YELLOW}i{BOLD,YELLOW}n{bold,YELLOW}g{BOLD,BLACK} Bee{bold,black}
+M 0 31817     9 23499    {BOLD,BLACK}The {BOLD,YELLOW}Bu{bold,YELLOW}z{BOLD,YELLOW}z{bold,YELLOW}i{BOLD,YELLOW}n{bold,YELLOW}g{BOLD,BLACK} Bee{bold,black}
+M 0 31817     9 23499    {BOLD,BLACK}The {BOLD,YELLOW}Bu{bold,YELLOW}z{BOLD,YELLOW}z{bold,YELLOW}i{BOLD,YELLOW}n{bold,YELLOW}g{BOLD,BLACK} Bee{bold,black}
+M 0 31817     9 23499    {BOLD,BLACK}The {BOLD,YELLOW}Bu{bold,YELLOW}z{BOLD,YELLOW}z{bold,YELLOW}i{BOLD,YELLOW}n{bold,YELLOW}g{BOLD,BLACK} Bee{bold,black}
+M 0 31817     9 23499    {BOLD,BLACK}The {BOLD,YELLOW}Bu{bold,YELLOW}z{BOLD,YELLOW}z{bold,YELLOW}i{BOLD,YELLOW}n{bold,YELLOW}g{BOLD,BLACK} Bee{bold,black}
+M 0 31817     9 23499    {BOLD,BLACK}The {BOLD,YELLOW}Bu{bold,YELLOW}z{BOLD,YELLOW}z{bold,YELLOW}i{BOLD,YELLOW}n{bold,YELLOW}g{BOLD,BLACK} Bee{bold,black}
+M 0 31817     9 23499    {BOLD,BLACK}The {BOLD,YELLOW}Bu{bold,YELLOW}z{BOLD,YELLOW}z{bold,YELLOW}i{BOLD,YELLOW}n{bold,YELLOW}g{BOLD,BLACK} Bee{bold,black}
+M 0 31817     9 23499    {BOLD,BLACK}The {BOLD,YELLOW}Bu{bold,YELLOW}z{BOLD,YELLOW}z{bold,YELLOW}i{BOLD,YELLOW}n{bold,YELLOW}g{BOLD,BLACK} Bee{bold,black}
+M 0 31817     9 23499    {BOLD,BLACK}The {BOLD,YELLOW}Bu{bold,YELLOW}z{BOLD,YELLOW}z{bold,YELLOW}i{BOLD,YELLOW}n{bold,YELLOW}g{BOLD,BLACK} Bee{bold,black}
+D 0 23499     3     0    (W:OPEN) {Y}The Beehive{y}
+$~

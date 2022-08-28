@@ -1,0 +1,2188 @@
+#31500
+{C}The Portal{c}~
+
+     {C}({W}IIIIIIIIIIIIIIIIIII{C})   {Y}The window catch seems{C}
+     )  .'.':.:.:'.'.    ( 
+     (  .'..' {B}|{C} `:.'.    )   {Y}frozen shut.{C}   
+     )   .'.'  {B}|{C}  `:'.   ( 
+     (   ..'   {B}|{C}   `:.   )   {Y}You try hammering at it{C} 
+     )   .'{B}____|____{C}`:'.'( 
+     ({W}={G}hp{C}'     {B}|{G}     `ph={C})   {Y}with your boot, muttering{C} 
+     )   .   {M}P{G}(){C}     :   (
+     (   .   {G}() ({M}O {C}   .   )  {Y}your favourite curses, but{C} 
+     )   .  {G}() (){M}T{G}){C}  .   (
+     (   .   _{G}\|/_{C}   .   )   {Y}it refuses to budge.{C} 
+     )   .  {W}|-----|{C}  .   ( 
+     (   .{W}___\___/___{C}.   )   {Y}It occurs to you that you{C} 
+     )  '{Y}============={C}' (
+     (  .             '. )   {Y}must find a way out, or be{C}
+      .                 . 
+                             {Y}forever trapped.
+{y}
+~
+315 33 0
+Z4
+C-1
+S
+#31501
+{W}Snow Drift{w}~
+{W}
+{W}
+  The snow has drifted deep below the window,
+  and you sink in almost over your head, gasping.
+  The cold is intense.
+
+  You flounder out of the drift as wind hits you,
+  flaying your face with flying snow. You strike
+  out toward the bridge, slipping and falling and
+  picking yourself up, bending into the gale that
+  wipes out your footprints behind you.
+{w}
+~
+315 32897 3
+D1
+~
+~
+0 -1 31502
+Z6
+C-1
+S
+#31502
+{W}Along the bridge{w}~
+{REV,BLI,W}
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+{rev,bli,w}
+~
+315 32770 9
+D1
+~
+~
+0 -1 31503
+D2
+~
+~
+0 -1 23418
+D3
+~
+~
+0 -1 31501
+Z3
+C2
+S
+#31503
+{W}Along the bridge{w}~
+{REV,BLI,W}
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+{rev,bli,w}
+~
+315 32770 9
+D0
+~
+~
+0 -1 31504
+D1
+~
+~
+0 -1 31503
+D3
+~
+~
+0 -1 31502
+D5
+~
+~
+0 -1 23418
+Z3
+C1
+S
+#31504
+{W}Along the bridge{w}~
+{REV,BLI,W}
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+{rev,bli,w}
+~
+315 32770 9
+D1
+~
+~
+0 -1 31505
+D2
+~
+~
+0 -1 31503
+D3
+~
+~
+0 -1 23418
+D5
+~
+~
+0 -1 23418
+Z3
+C1
+S
+#31505
+{W}Along the bridge{w}~
+{REV,BLI,W}
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+ ':..:'':..:'':..:'':..:'':..:'':..:'':..:'':..' 
+{rev,bli,w}
+~
+315 32770 9
+D0
+~
+~
+0 -1 31506
+D1
+~
+~
+0 -1 23418
+D2
+~
+~
+0 -1 23418
+D3
+~
+~
+0 -1 31504
+D5
+~
+~
+0 -1 23418
+Z3
+C1
+S
+#31506
+{W}Along the bridge{w}~
+{W}
+You stop, uncertain. Where was the copse? You
+should have reached it ages ago. You were sure
+you had been going in the right direction, but 
+the swirling snow, makes it impossible to see 
+anything.
+{w}
+~
+315 32775 9
+D0
+~
+~
+0 -1 31507
+D1
+~
+~
+0 -1 23418
+D2
+~
+~
+0 -1 31505
+D3
+~
+~
+0 -1 23418
+D5
+~
+~
+0 -1 23418
+X3145728
+Z3
+C1
+S
+#31507
+{W}Along the Bridge{w}~
+{W}
+I'm  tired from crossing the bridge, you think. 
+That's why it is taking so long. The memory makes 
+you shudder. You have been forced to slide across
+the slender, slippery span inch by inch, clinging 
+to the frozen rail with numb fingers, terrified 
+that the wind will blow you into the lake. Now you
+cant feel your hands and feet. You suddenly are 
+very frightened.
+{w}
+~
+315 32771 9
+D0
+~
+~
+0 -1 23418
+D1
+~
+~
+0 -1 31508
+D2
+~
+~
+0 -1 31506
+D3
+~
+~
+0 -1 23418
+D5
+~
+~
+0 -1 23418
+Z3
+C1
+S
+#31508
+{W}Along the Bridge{w}~
+{W}
+You weren't sure that you don't want to die, but 
+you need to find Eilin and gain the first artefact
+of power. A tear freezes on your face.
+"Don't be stupid." you tell yourself. 
+{W}
+Bracing yourself, you set off into the darkness
+once more. 
+{w}
+~
+315 32771 9
+D0
+~
+~
+0 -1 31509
+D1
+~
+~
+0 -1 23418
+D2
+~
+~
+0 -1 23418
+D3
+~
+~
+0 -1 31507
+D5
+~
+~
+0 -1 23418
+Z3
+C1
+S
+#31509
+{BO}{G}The Great Forest{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D2
+~
+~
+0 -1 31508
+D3
+~
+~
+0 -1 31510
+Z3
+C-1
+S
+#31510
+{BO}{G}The Great Forest{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D0
+~
+~
+0 -1 31511
+D1
+~
+~
+0 -1 31509
+D2
+~
+Tree~
+4 31500 31526
+D3
+~
+~
+0 -1 31510
+Z3
+C-1
+S
+#31511
+{BO}{G}The Great Forest{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D0
+~
+~
+0 -1 31512
+D2
+~
+~
+0 -1 31510
+Z3
+C-1
+S
+#31512
+{BO}{G}The Great Forest{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D0
+~
+~
+0 -1 31513
+D2
+~
+~
+0 -1 31511
+Z3
+C-1
+S
+#31513
+{BO}{G}The Great Forest{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D1
+~
+~
+0 -1 31514
+D2
+~
+~
+0 -1 31512
+Z3
+C-1
+S
+#31514
+{BO}{G}The Great Forest{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D1
+~
+~
+0 -1 31515
+D2
+~
+~
+0 -1 31516
+D3
+~
+~
+0 -1 31513
+Z3
+C-1
+S
+#31515
+{BO}{G}The Great Forest{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D2
+~
+~
+0 -1 31516
+D3
+~
+~
+0 -1 31514
+Z3
+C-1
+S
+#31516
+{BO}{G}The Great Forest{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D0
+~
+~
+0 -1 31515
+D1
+~
+~
+0 -1 31517
+Z3
+C-1
+S
+#31517
+{BO}{G}The Great Forest{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D0
+~
+~
+0 -1 31518
+D3
+~
+~
+0 -1 31516
+Z3
+C-1
+S
+#31518
+{BO}{G}The Great Forest{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D1
+~
+~
+0 -1 31519
+D2
+~
+~
+0 -1 31517
+Z3
+C-1
+S
+#31519
+{BO}{G}The Great Forest{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D0
+~
+~
+0 -1 31520
+D3
+~
+~
+0 -1 31518
+Z3
+C-1
+S
+#31520
+{BO}{G}The Great Forest{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D1
+~
+Tree~
+4 31501 31531
+D2
+~
+~
+0 -1 31519
+D3
+~
+~
+0 -1 31521
+Z3
+C-1
+S
+#31521
+{BO}{G}The Great Forest{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D2
+~
+~
+0 -1 31522
+Z3
+C-1
+S
+#31522
+{BO}{G}The Great Forest{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D0
+~
+~
+0 -1 31521
+D3
+~
+~
+0 -1 31523
+Z3
+C-1
+S
+#31523
+{BO}{G}The Great Forest{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D0
+~
+~
+0 -1 31524
+D1
+~
+~
+0 -1 31522
+Z3
+C-1
+S
+#31524
+{BO}{G}The Great Forest{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D0
+~
+~
+0 -1 31525
+D2
+~
+~
+0 -1 31523
+Z3
+C-1
+S
+#31525
+{BO}{G}The Great Forest{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D0
+~
+Tree~
+4 31502 31536
+D2
+~
+~
+0 -1 31524
+Z3
+C-1
+S
+#31526
+{BO}{G}The {bo}{G}First {BO}{G}Glade{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32773 3
+D0
+~
+Tree~
+1 -1 31510
+D3
+~
+~
+0 -1 31527
+Z3
+C-1
+S
+#31527
+{BO}{G}The {bo}{G}First {BO}{G}Glade{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D0
+~
+~
+0 -1 31528
+D1
+~
+~
+0 -1 31526
+Z3
+C-1
+S
+#31528
+{BO}{G}The {bo}{G}First {BO}{G}Glade{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D1
+~
+~
+0 -1 31529
+D2
+~
+~
+0 -1 31527
+Z3
+C-1
+S
+#31529
+{BO}{G}The {bo}{G}First {BO}{G}Glade{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D2
+~
+~
+0 -1 31530
+D3
+~
+~
+0 -1 31528
+Z3
+C-1
+S
+#31530
+{BO}{G}The {bo}{G}First {BO}{G}Glade{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D0
+~
+~
+0 -1 31529
+Z3
+C-1
+S
+#31531
+{BO}{G}The {bo}{G}Second {BO}{G}Glade{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32773 3
+D1
+~
+~
+0 -1 31532
+D3
+~
+Tree~
+1 -1 31520
+Z3
+C-1
+S
+#31532
+{BO}{G}The {bo}{G}Second {BO}{G}Glade{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D2
+~
+~
+0 -1 31533
+D3
+~
+~
+0 -1 31531
+Z3
+C-1
+S
+#31533
+{BO}{G}The {bo}{G}Second {BO}{G}Glade{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D0
+~
+~
+0 -1 31532
+D1
+~
+~
+0 -1 31534
+Z3
+C-1
+S
+#31534
+{BO}{G}The {bo}{G}Second {BO}{G}Glade{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D0
+~
+~
+0 -1 31535
+D1
+~
+~
+0 -1 31534
+D3
+~
+~
+0 -1 31533
+Z3
+C-1
+S
+#31535
+{BO}{G}The {bo}{G}Second {BO}{G}Glade{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D2
+~
+~
+0 -1 31534
+Z3
+C-1
+S
+#31536
+{BO}{G}The {bo}{G}Third {BO}{G}Glade{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32773 3
+D1
+~
+~
+0 -1 31537
+D2
+~
+Tree~
+1 -1 31525
+Z3
+C-1
+S
+#31537
+{BO}{G}The {bo}{G}Third {BO}{G}Glade{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D2
+~
+~
+0 -1 31538
+D3
+~
+~
+0 -1 31536
+Z3
+C-1
+S
+#31538
+{BO}{G}The {bo}{G}Third {BO}{G}Glade{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D0
+~
+~
+0 -1 31537
+D1
+~
+~
+0 -1 31539
+Z3
+C-1
+S
+#31539
+{BO}{G}The {bo}{G}Third {BO}{G}Glade{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D0
+~
+~
+0 -1 31540
+D1
+~
+~
+0 -1 31539
+D3
+~
+~
+0 -1 31538
+Z3
+C-1
+S
+#31540
+{BO}{G}The {bo}{G}Third {BO}{G}Glade{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D0
+~
+Tree~
+4 31503 31541
+D2
+~
+~
+0 -1 31539
+Z3
+C-1
+S
+#31541
+{BO}{G}The Heart of the Forest{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32773 3
+D0
+~
+~
+0 -1 31542
+D1
+~
+~
+0 -1 31546
+D2
+~
+Tree~
+1 -1 31540
+Z3
+C-1
+S
+#31542
+{BO}{G}The Heart of the Forest{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D0
+~
+~
+0 -1 31543
+D2
+~
+~
+0 -1 31541
+Z3
+C-1
+S
+#31543
+{BO}{G}The Heart of the Forest{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D1
+~
+~
+0 -1 31544
+D2
+~
+~
+0 -1 31542
+Z3
+C-1
+S
+#31544
+{BO}{G}The Heart of the Forest{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D2
+~
+~
+0 -1 31545
+D3
+~
+~
+0 -1 31543
+Z3
+C-1
+S
+#31545
+{BO}{G}The Heart of the Forest{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D0
+~
+~
+0 -1 31544
+Z3
+C-1
+S
+#31546
+{BO}{G}The Heart of the Forest{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D0
+~
+~
+0 -1 31547
+D3
+~
+~
+0 -1 31541
+Z3
+C-1
+S
+#31547
+{BO}{G}The Heart of the Forest{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D2
+~
+~
+0 -1 31546
+D3
+~
+~
+0 -1 31548
+Z3
+C-1
+S
+#31548
+{BO}{G}The Heart of the Forest{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D0
+~
+~
+0 -1 31549
+D1
+~
+~
+0 -1 31547
+Z3
+C-1
+S
+#31549
+{BO}{G}The Heart of the Forest{bo}{g}~
+{BO}{G}
+            Oo*oOoOo
+       oOoO*Oo*oOoOoOoO@o
+      oOoOoO8OoO@o@oOoOoOo
+      oOoO@Oo8oOoo@oOo8@OoO
+    ooOo8oOoOoO@00OoO*OoOoOo
+  ooOoOoO@OoOoOo0oO@OoOoOoO@Oo
+ooOo8oOoOoOoO@O*ooOo8oO@OoOoOoOo
+oOoOoOo*8OoOoOoOoO8OoOoOoOo8oOoO
+*ooOooOooOooOoo@*ooOooO8oOooOoo*
+    O  *ooO x {Y}XXXX{G}*Oo*  @  *o
+         Oo  {Y}xXXXX{G}*oo
+              {Y}XX@Xx
+              XXXX
+              XXXX
+            xXXXXXx
+           xXXXXXXXXx
+        XXXXXXXXXXXXXXXXx
+{bo}{G}================================
+
+~
+315 32769 3
+D0
+~
+~
+0 -1 31550
+D2
+~
+~
+0 -1 31548
+Z3
+C-1
+S
+#31550
+{BOLD,CYAN}Before the Palace of the Forest Lord{bold,cyan}~
+{BOLD,CYAN}
+   In these lands of the North, yet in a place unreachable within
+   the boundaries of the mundane world, the palace of the Forest
+   Lord, with its treelike towers and innumerable gardens and
+   glades, lay deceptively tranquil in a waiting silence, within
+   and upon this massive hill. Upon the craggy slopes of the
+   mound, a ferny hollow cupped a crystal pool, fed by a silvery
+   filigree of water that twists and tumbles down a stony
+   precipice from the heights above.
+
+   The Lady of the Lake sits by the water, combining the silver
+   shot strands of her long brown hair.
+{bold,cyan}
+~
+315 262276 3
+D0
+~
+~
+0 -1 31551
+D2
+~
+~
+0 -1 31549
+X42
+Z3
+C-1
+S
+#31551
+{C}The Palace Gates{c}~
+  {BO,Y,REV}_________________________________________________________{bo}
+  {C}\  / /                                             \  / / 
+   \/ /              {W}T     h     e{C}                    \/ / 
+   / /\{W}        P     a     l     a     c     e{C}        / /\ 
+  / /\ \{W}                o     f{C}                      / /\ \  
+ ( (  ) ){W}            T     h     e{C}                  ( (  ) ) 
+  \ \/ /{W}    P     h     a     e     r     i     e{C}    \ \/ / 
+   \/ /{BO,Y}_______________________________________________{bo,C}\/ /{BO,Y}   
+   ----                                               ----  {bo,y,rev}
+~
+315 0 3
+D0
+~
+~
+0 -1 8908
+D2
+~
+~
+0 -1 31550
+Z3
+C-1
+S
+#31552
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31553
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31554
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31555
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31556
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31557
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31558
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31559
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+E
+mystic runes rune sign~
+Beyond this door lies the treasure hoard of a powerful
+Dragon.  Only those of strength to slay the dragon, and
+speed to return here with his prize will be rewarded.
+~
+Z3
+C-1
+S
+#31560
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31561
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31562
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31563
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31564
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31565
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31566
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31567
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31568
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31569
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31570
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31571
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31572
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31573
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31574
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31575
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31576
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31577
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31578
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31579
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31580
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31581
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31582
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31583
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31584
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31585
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31586
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31587
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31588
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31589
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31590
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31591
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31592
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31593
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31594
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31595
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31596
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31597
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31598
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 0 1
+Z3
+C-1
+S
+#31599
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+315 262144 1
+Z3
+C-1
+S
+$~

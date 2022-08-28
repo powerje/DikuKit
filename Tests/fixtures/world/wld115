@@ -1,0 +1,2355 @@
+#11500
+{Y,BO}On the way to school{b}~
+
+{WH,BO}  Oh God no! {BLA,BO}This can't be happening! {R,BO}You can't escape it..
+{G,BO}                      ITS ITS ITS!
+{Y,BO}                SCHOOL! ARRRRRRRRRRRRRRGH!{b}
+
+{G}  And here you thought mudding was a good escape from school?
+{G}  Ha! Anyways, here you are, backpack in hand, walking towards
+{G}  your early morning classes. Beautiful trees and singing
+{G}  birds create an inspiring scenery along the way. Wandering
+{G}  along the path, you become nostalgic for your warm, cozy
+{G}  bed.{b}
+
+~
+115 0 1
+D0
+~
+~
+0 -1 11501
+Z3
+C-1
+R0
+S
+#11501
+{G}Before the {R,BO}B{Y,BO}ui{R,BO}ld{Y,BO}i{R,BO}ng {Y,BO}o{R,BO}f N{Y,BO}e{R,BO}rds{b}~
+
+{WH,BO}  A six story white building filled with wonders of knowledge
+{WH,BO}  and enlightenment stands before your very eyes. You wish
+{WH,BO}  you had something better to do, but unfortunately, you are
+{WH,BO}  wasting your life away. Up ahead, you can see a lobby and a
+{WH,BO}  path that leads around the building.{b}
+
+{G}  There's also a sign here. Maybe you should read it.{b}
+
+~
+115 4 1
+D0
+~
+door~
+1 69 11502
+D2
+~
+~
+0 -1 11500
+E
+sign~
+
+
+
+
+                "WELCOME TO THE FACULTY OF NERDS!   <U of Midgaard Math!>"
+                "ENTER AND BECOME AS COOL AND AS SMART AS WE ARE!"
+
+          ***** SLAYING OF PROFS AND STUDENTS IS FORBIDDEN ******
+
+                            -- Doufis McGilicutty, Dean of Nerds
+~
+Z3
+C-1
+R0
+S
+#11502
+{M}Lobby {b}-- {R,BO}Building {Y,BO}of {R,BO}Nerds{b}~
+
+{M}  Behold! The glorious lobby within the very {R,BO}Building {Y,BO}of
+{R,BO}  Nerds{b}{M}. Wooden panelling all around you has been accented by
+{Y,BO}  gold-plated{b} {M}door frames. Your eyes take particular notice to
+{M}  the ten-foot brain smelt from pure, solid {Y,BO}gold{b}{M}. The riches
+{M}  and wonders of this building must be endless! Northward,
+{M}  there is a long hallway and a few stairs lead upward.{b}
+
+~
+115 12 1
+D0
+~
+~
+0 -1 11503
+D4
+~
+stairs~
+2 11501 11518
+Z3
+C-1
+R0
+S
+#11503
+{BLA,BO}Hallway{b}~
+
+{BLA,BO}  Along this hallway, the dull grey floor matches quite nicely
+{BLA,BO}  with everything else... 
+{BLA,BO}       That is... 
+{BLA,BO}              Dull... 
+{BLA,BO}                  And... 
+{BLA,BO}                     Grey.{b}
+
+~
+115 8 1
+D0
+~
+~
+0 -1 11504
+D1
+~
+~
+0 -1 11510
+D2
+~
+~
+0 -1 11502
+D3
+~
+~
+0 -1 11509
+Z3
+C-1
+R0
+S
+#11504
+{BLA,BO}Hallway{b}~
+
+{BLA,BO}  Along this hallway, the dull grey floor matches quite nicely
+{BLA,BO}  with everything else... 
+{BLA,BO}       That is... 
+{BLA,BO}              Dull... 
+{BLA,BO}                  And... 
+{BLA,BO}                     Grey.{b}
+
+~
+115 8 1
+D0
+~
+~
+0 -1 11505
+D1
+~
+~
+0 -1 11512
+D2
+~
+~
+0 -1 11503
+D3
+~
+~
+0 -1 11511
+Z3
+C-1
+R0
+S
+#11505
+{BLA,BO}Hallway{b}~
+
+{BLA,BO}  Along this hallway, the dull grey floor matches quite nicely
+{BLA,BO}  with everything else... 
+{BLA,BO}       That is... 
+{BLA,BO}              Dull... 
+{BLA,BO}                  And... 
+{BLA,BO}                     Grey.{b}
+
+~
+115 8 1
+D0
+~
+~
+0 -1 11506
+D1
+~
+~
+0 -1 11513
+D2
+~
+~
+0 -1 11504
+Z3
+C-1
+R0
+S
+#11506
+{BLA,BO}Hallway{b}~
+
+{BLA,BO}  Along this hallway, the dull grey floor matches quite nicely
+{BLA,BO}  with everything else... 
+{BLA,BO}       That is... 
+{BLA,BO}              Dull... 
+{BLA,BO}                  And... 
+{BLA,BO}                     Grey.{b}
+
+~
+115 8 1
+D1
+~
+~
+0 -1 11507
+D2
+~
+~
+0 -1 11505
+Z3
+C-1
+R0
+S
+#11507
+{Y}Eastern Hallway{b}~
+
+{Y}  Walking down the eastern hallway, you notice that this
+{Y}  portion of the building lacks the increasingly familiar dull
+{Y}  and boring grey tone. While the walls still fashion that
+{Y}  hue, the floor has collected numerous prizes falling out of
+{Y}  backpacks. There's some {R}pens{Y} over there, a {BLA,BO}calculator{b}{Y} near
+{Y}  your foot, and even the {WH,BO}shredded shards of glass{b}{Y} from one
+{Y}  unlucky nerd's {WH,BO}glasses{b}{Y}. Loud shouts and yelps are coming 
+{Y}  from the east. Perhaps you should investigate the party.{b}
+
+~
+115 8 1
+D0
+~
+~
+0 -1 11514
+D1
+~
+~
+0 -1 11508
+D2
+~
+~
+0 -1 11513
+D3
+~
+~
+0 -1 11506
+Z3
+C-1
+R0
+S
+#11508
+{Y}Book Club{b}~
+
+{Y}  Pages, parchments, words everywhere! What's worse -- people
+{Y}  are actually reading them! This could cause you some
+{Y}  clinical depression. The true companions are nearby too:
+{Y}  pocket protectors, reading glasses, and even a dictionary.
+{Y}  Mouldy, old pairs of underwear are strewn without care and
+{Y}  glasses of grape juice flatten against the kiss of an
+{Y}  overhead lamp's light.{b}
+
+~
+115 12 1
+D3
+~
+~
+0 -1 11507
+Z3
+C-1
+R0
+S
+#11509
+{G}A Math Classroom{b}~
+
+{G}  (u/v)^2 < 4wv ->
+{G}  P(t) = e^(gt)(A1cos(ht) + A2sin(ht)) - (c/w) ->
+{G}  g = - (u/2v), h= (1/2)sq[(4w/v) - (u/w)^2]
+
+{G}  Ugh. Hopefully you aced calculus.{b}
+
+~
+115 8 1
+D1
+~
+~
+0 -1 11503
+Z3
+C-1
+R0
+S
+#11510
+{G}A Math Classroom{b}~
+
+{G}  (u/v)^2 < 4wv ->
+{G}  P(t) = e^(gt)(A1cos(ht) + A2sin(ht)) - (c/w) ->
+{G}  g = - (u/2v), h= (1/2)sq[(4w/v) - (u/w)^2]
+
+{G}  Ugh. Hopefully you aced calculus.{b}
+
+~
+115 8 1
+D3
+~
+~
+0 -1 11503
+Z3
+C-1
+R0
+S
+#11511
+{R}Classroom of Nerds{b}~
+
+{R}  Did you know that the guy at the front of the classroom
+{R}  teaches? Of course not! The gum dripping off the button of
+{R}  your wooden desk was far more entertaining. The professor
+{R}  stops mid-sentence, rambling off about something your brain
+{R}  could hardly comprehend even if you were awake during your
+{R}  studies. The students rush to catch up with the professor's
+{R}  lecture, this pause giving their pencils to cool from the
+{R}  flare of excessive scribbling.
+
+~
+115 8 1
+D1
+~
+~
+0 -1 11504
+Z3
+C-1
+R0
+S
+#11512
+{R}Classroom of Nerds{b}~
+
+{R}  Did you know that the guy at the front of the classroom
+{R}  teaches? Of course not! The gum dripping off the button of
+{R}  your wooden desk was far more entertaining. The professor
+{R}  stops mid-sentence, rambling off about something your brain
+{R}  could hardly comprehend even if you were awake during your
+{R}  studies. The students rush to catch up with the professor's
+{R}  lecture, this pause giving their pencils to cool from the
+{R}  flare of excessive scribbling.
+
+~
+115 8 1
+D3
+~
+~
+0 -1 11504
+Z3
+C-1
+R0
+S
+#11513
+{WH,BO}Freshman Tutorial Centre{b}~
+
+{WH,BO}  This relatively small room hosts five tables paired with
+{WH,BO}  five chairs for students to come and work on their
+{WH,BO}  assignments several weeks before their true due date and ask
+{WH,BO}  any questions that may arise during their study. The {G,BO}s{b}{Y}m{G}el{G,BO}l
+{WH,BO}  of the room is almost {b}{G}n{G,BO}a{b}{G}u{G,BO}s{b}{G}e{G,BO}a{b}{G}t{G,BO}i{b}{G}n{G,BO}g{WH,BO}. Have these people {C,BO}showered
+{WH,BO}  in years?
+
+~
+115 8 1
+D0
+~
+~
+0 -1 11507
+D3
+~
+~
+0 -1 11505
+Z3
+C-1
+R0
+S
+#11514
+{C,BO}First Floor Washroom{b}~
+
+{C}  Here is the first floor washroom. Luckily for you, this
+{C}  bathroom seems to be Co-Ed. Perhaps you found the first and
+{C}  only truly awesome portion about this school. These nerds
+{C}  sure know how to play spy.{b}
+
+{Y}  A bathroom stall awaits your squat to the north and your
+{Y}  studies to the south.{b}
+
+~
+115 8 1
+D0
+~
+stall~
+1 -1 11515
+D2
+~
+~
+0 -1 11507
+Z3
+C-1
+R0
+S
+#11515
+{Y}The Washroom Stall{b}~
+
+{C}  This washroom stall seems to be the epitome of all that is
+{C}  wrong with public restrooms:
+
+{WH,BO}  1)  There is no toilet paper.
+{C,BO}  2)  There are drawings of penises scribbled everywhere.{b}
+{Y}  3)  The floor is unnaturally sticky (and slightly brown).
+{Y,BO}  4)  The toilet itself is yet to be flushed.{b}
+
+~
+115 8 1
+D2
+~
+stall~
+1 -1 11514
+D5
+~
+~
+0 -1 11516
+Z3
+C-1
+R0
+S
+#11516
+{Y}In the Toilet{b}~
+
+{C}This is disgusting. Once the deb{G}ris clears from your eyes,
+{G}you see not{C}hing but gobs of slime and human{G}ly fluids that
+{G}ar{C}e yet to be cleared away. {G}Do janitors even work here, {C}or
+{C}are they too occupied with pillaging for some adv{G}enturer's
+{G}fancy gear? Is there so{C}mething moving in here?{b}
+
+~
+115 8 1
+D4
+~
+~
+0 -1 11515
+D5
+~
+~
+0 -1 11517
+Z3
+C-1
+R0
+S
+#11517
+{Y}Down the Pipes{b}~
+
+{C}  YOU FALL!
+{C}    DOWN!
+{G}        DOWN!
+{C}            DOWN!
+{G}                DOWN!
+{Y}                    DOWN!
+{C}                        DOWN!
+{G}                            DOWN!
+{C}                                DOWN!
+{G}                                   DOWN!
+{C}                                       DOWN!
+
+{Y,BO}           AAAAAAAAaaaaaaaaaaaarrrrrrrrrrrrrrrrrrrrrrgh!
+
+{R,BO}  Now what did your mommy tell you about playing in the
+{R,BO}  toilet?{b}
+
+~
+115 10 1
+Z3
+C-1
+R0
+S
+#11518
+{R,BO}Stairway - Second Floor{b}~
+
+{BLA,BO}  Black lettering embroiders the grey wall with the words,
+{BLA,BO}  "Second Floor". The area reeks of food - it must be the
+{BLA,BO}  cafeteria floor for professors and nerds alike, rather...
+{BLA,BO}  The students of this lovely faculty.{b}
+
+~
+115 12 1
+D0
+~
+~
+0 -1 11519
+D4
+~
+stairs~
+2 11507 11538
+D5
+~
+stairs~
+1 -1 11502
+Z3
+C-1
+R0
+S
+#11519
+{BLA,BO}Down the hall{b}~
+
+{C}  Walking down this corridor, you notice a large amount of
+{C}  traffic. Students from every direction practically attempt
+{C}  to murder you in their frantic running. Classes must truly
+{C}  be more important than human life, ironic that some are
+{C}  studying for medical degrees! This floor seems to be the
+{C}  lunch and relaxation level of the {R,BO}Building {Y,BO}of {R,BO}Nerds{b}{C}.{b}
+
+~
+115 8 1
+D0
+~
+~
+0 -1 11521
+D1
+~
+~
+0 -1 11520
+D2
+~
+~
+0 -1 11518
+D3
+~
+~
+0 -1 11534
+Z3
+C-1
+R0
+S
+#11520
+{C}Comfy Lounge{b}~
+
+{C}  Wandering out of the busy hallway, you finally find a small
+{C}  amount of peace and tranquility, excluding the exterior
+{C}  shuffling of students, here in the lounge. Couches are lined
+{C}  with nerds fantasizing about dates they'll never go on, and
+{C}  video games which occupy most of their lives.{b}
+
+{Y}  Some yummy vending machines are placed up against the wall.{b}
+
+~
+115 8 1
+D3
+~
+~
+0 -1 11519
+Z3
+C-1
+R0
+S
+#11521
+{BLA,BO}Hallway{b}~
+
+{BLA,BO}  This is a long, barren hallway. No one besides the
+{BLA,BO}  occasional janitor or nerd walks to and from their classes.
+{BLA,BO}  The floor is dull and littered with grey candy wrappers.
+{BLA,BO}  Some smashed coke cans have found their untimely death
+{BLA,BO}  beneath the wrath of some student's shoe. The janitors do
+{BLA,BO}  not do the best job at cleaning, now do they?{b}
+
+~
+115 8 1
+D0
+~
+~
+0 -1 11522
+D2
+~
+~
+0 -1 11519
+D3
+~
+~
+0 -1 11524
+Z3
+C-1
+R0
+S
+#11522
+{R}Workout Room{b}~
+
+{R}  To your awe, this building actually has an athletic
+{R}  department. Not to your awe, the occupants are rather slim
+{R}  and few between. {BLA,BO}Barbells{b}{R}, {b}{Y}running tracks{b}{R}, {WH,BO}whirlpools{b}{R}, and
+{R}  other equipment is littered around. This room doesn't seem
+{R}  to be used for the equipment, however, as cobwebs and dust
+{R}  have taken occupation along the leather and rusted metal.
+{WH,BO}  Instead, nerds enjoy s{C,BO}oa{WH,BO}k{C,BO}i{WH,BO}ng in the {C,BO}b{WH,BO}u{C,BO}b{WH,BO}b{C,BO}l{WH,BO}i{C,BO}n{WH,BO}g {C,BO}h{WH,BO}o{C,BO}tt{WH,BO}u{C,BO}b {WH,BO}just a
+{WH,BO}  step away.{b}
+
+~
+115 8 1
+D2
+~
+~
+0 -1 11521
+D5
+~
+~
+0 -1 11523
+Z3
+C-1
+R0
+S
+#11523
+{CY,BO}In the Hottub{b}~
+
+{C,BO}  This is the life! {WH,BO}This bubbling hottub coaxes you into a
+{WH,BO}  soaked, warm state of ultimate bliss. {C,BO}From here you can
+{C,BO}  enjoy the scenery of sweaty nerds and some of the more
+{M,BO}  flamboyant students {C,BO}that wish to come {Y,BO}"play" {C,BO}in the tub. {b}{G}Old
+{G}  forest green tiles touch your feet, {M}and a few glasses of
+{M}  spilled grape juice are laying along the rim of the
+{M}  entrance.{b}
+
+~
+115 8 1
+D4
+~
+~
+0 -1 11522
+Z3
+C-1
+R0
+S
+#11524
+{BLA,BO}Hallway{b}~
+
+{BLA,BO}  This is a long, barren hallway. No one besides the
+{BLA,BO}  occasional janitor or nerd walks to and from their classes.
+{BLA,BO}  The floor is dull and littered with grey candy wrappers.
+{BLA,BO}  Some smashed coke cans have found their untimely death
+{BLA,BO}  beneath the wrath of some student's shoe. The janitors do
+{BLA,BO}  not do the best job at cleaning, now do they?{b}
+
+~
+115 8 1
+D0
+~
+door~
+1 -1 11526
+D1
+~
+~
+0 -1 11521
+D2
+~
+~
+0 -1 11530
+D3
+~
+~
+0 -1 11525
+Z3
+C-1
+R0
+S
+#11525
+{BLA,BO}Hallway{b}~
+
+{BLA,BO}  This is a long, barren hallway. No one besides the
+{BLA,BO}  occasional janitor or nerd walks to and from their classes.
+{BLA,BO}  The floor is dull and littered with grey candy wrappers.
+{BLA,BO}  Some smashed coke cans have found their untimely death
+{BLA,BO}  beneath the wrath of some student's shoe. The janitors do
+{BLA,BO}  not do the best job at cleaning, now do they?{b}
+
+~
+115 8 1
+D0
+~
+~
+0 -1 11532
+D1
+~
+~
+0 -1 11524
+D3
+~
+~
+0 -1 11527
+Z3
+C-1
+R0
+S
+#11526
+{BLA,BO}Janitor's Closet{b}~
+
+{BLA,BO}  Here, you stand in the center of a five by five room, barely
+{BLA,BO}  large enough for just two people. You notice a horrible
+{BLA,BO}  stench coming from the drain below, and the mop there in the
+{BLA,BO}  corner has roughly three years of compiled {b}{G}m{Y}o{G}l{Y}d{BLA,BO} upon it. You
+{BLA,BO}  wonder if it has ever even been used. Along the top shelf,
+{BLA,BO}  you notice a wide variation of cleaning products and
+{BLA,BO}  bleaches all of which appear to be empty.{b}
+
+~
+115 8 1
+D2
+~
+door~
+1 -1 11524
+Z3
+C-1
+R0
+S
+#11527
+{BLA,BO}At the bend{b}~
+
+{BLA,BO}  You stand at the corner of the dreariest hallway you've ever
+{BLA,BO}  seen, and this is called the recreation floor! You hear a
+{BLA,BO}  lot of noise coming from the west and a great addition of
+{BLA,BO}  'weird' noises coming from the north.{b}
+
+~
+115 8 1
+D0
+~
+~
+0 -1 11528
+D1
+~
+~
+0 -1 11525
+D2
+~
+~
+0 -1 11529
+Z3
+C-1
+R0
+S
+#11528
+{WH,BO}Toga Party{b}~
+
+{WH,BO}  Nerds in togas? Nerds in togas! This is a complete mockery
+{WH,BO}  of Greek culture! The geeks are running around in these
+{WH,BO}  make-shift, pink, flowery garments called togas, completed
+{WH,BO}  by velcroed pocket protectors. They seem to be having so
+{WH,BO}  much fun sitting around playing truth or dare, to the point
+{WH,BO}  where they don't even notice you. This room is entirely
+{WH,BO}  barren except for a few tables and chairs sitting in the
+{WH,BO}  center.{b}
+
+~
+115 8 1
+D2
+~
+~
+0 -1 11527
+Z3
+C-1
+R0
+S
+#11529
+{BLA,BO}Hallway{b}~
+
+{BLA,BO}  This is a long, barren hallway. No one besides the
+{BLA,BO}  occasional janitor or nerd walks to and from their classes.
+{BLA,BO}  The floor is dull and littered with grey candy wrappers.
+{BLA,BO}  Some smashed coke cans have found their untimely death
+{BLA,BO}  beneath the wrath of some student's shoe. The janitors do
+{BLA,BO}  not do the best job at cleaning, now do they?{b}
+
+~
+115 8 1
+D0
+~
+~
+0 -1 11527
+D2
+~
+~
+0 -1 11531
+Z3
+C-1
+R0
+S
+#11530
+{Y}Janitor's Lunch Room{b}~
+
+{G}  You are instantly overwhelmed by the stench of old, mouldy
+{G}  ham sandwiches and cheese slices. Do these janitors
+{G}  comprehend how to do anything? Some of the slightly above
+{G}  intelligence janitors spot your presence and scan you
+{G}  head-to-toe. A fridge in the corner hums lowly and a long
+{G}  table hosts a few other janitors to eat their garbage.{b}
+
+~
+115 8 1
+D0
+~
+~
+0 -1 11524
+Z3
+C-1
+R0
+S
+#11531
+{R}Southwest Corner{b}~
+
+{R,BO}  This floor is crazy! You've never seen people act like such
+{R,BO}  morons in your life! Beyond the occasional drunken nerd
+{R,BO}  standing nearby, little decorates this room.{b}
+
+~
+115 8 1
+D0
+~
+~
+0 -1 11529
+D1
+~
+~
+0 -1 11533
+D2
+~
+~
+0 -1 11535
+Z3
+C-1
+R0
+S
+#11532
+{C}An empty room{b}~
+
+{Y}  Finally! A safe haven from the rest of this mad facility.
+{Y}  Not much in here other than dust, cobwebs, and silence.{b}
+
+~
+115 12 1
+D2
+~
+~
+0 -1 11525
+Z3
+C-1
+R0
+S
+#11533
+{BLA,BO}Hallway{b}~
+
+{BLA,BO}  This is a long, barren hallway. No one besides the
+{BLA,BO}  occasional janitor or nerd walks to and from their classes.
+{BLA,BO}  The floor is dull and littered with grey candy wrappers.
+{BLA,BO}  Some smashed coke cans have found their untimely death
+{BLA,BO}  beneath the wrath of some student's shoe. The janitors do
+{BLA,BO}  not do the best job at cleaning, now do they?{b}
+
+~
+115 8 1
+D1
+~
+~
+0 -1 11534
+D3
+~
+~
+0 -1 11531
+Z3
+C-1
+R0
+S
+#11534
+{BLA,BO}Hallway{b}~
+
+{BLA,BO}  This is a long, barren hallway. No one besides the
+{BLA,BO}  occasional janitor or nerd walks to and from their classes.
+{BLA,BO}  The floor is dull and littered with grey candy wrappers.
+{BLA,BO}  Some smashed coke cans have found their untimely death
+{BLA,BO}  beneath the wrath of some student's shoe. The janitors do
+{BLA,BO}  not do the best job at cleaning, now do they?{b}
+
+~
+115 8 1
+D1
+~
+~
+0 -1 11519
+D3
+~
+~
+0 -1 11533
+Z3
+C-1
+R0
+S
+#11535
+{R}Library - Checkout Desk{b}~
+
+{Y}  This is the entrance to the nerd's library. Apparently, even
+{Y}  on Saturday night, the line for check out goes all the way
+{Y}  to the doors! Two library attendants are working feverishly
+{Y}  to ensure the students' contentment, scanning and offering
+{Y}  out books with a passion. Most of the students wander around
+{Y}  with {C,BO}scientific journals {b}{Y}and {G,BO}National Geographics{b}{Y}.{b}
+
+{G}  Your stomach violently churns upon noticing the puke-green
+{G}  floor clashing with the forest-green wall covering.
+{G}  Eastward, perhaps you can escape this awful display with
+{G}  rows and rows of seemingly endless books.{b}
+
+~
+115 12 1
+D0
+~
+~
+0 -1 11531
+D1
+~
+~
+0 -1 11536
+Z3
+C-1
+R0
+S
+#11536
+{R}Library - Stacks of Books{b}~
+
+{Y}  Here you stand in the center of an ocean of knowledge. Every
+{Y}  aisle contains hundreds, if not thousands of books to pick
+{Y}  up and explore. You're almost tempted to seize one from the
+{Y}  shelf, but your friends would likely laugh. Fortunately, the
+{Y}  "cool" books, magazines, appear to be collected towards the
+{Y}  east.{b}
+
+~
+115 8 1
+D1
+~
+~
+0 -1 11537
+D3
+~
+~
+0 -1 11535
+Z3
+C-1
+R0
+S
+#11537
+{R}Library - Periodicals{b}~
+
+{R,BO}  This is slightly more interesting than the previous
+{R,BO}  sections. The library hosts a huge magazine section! Some
+{R,BO}  that you didn't even knew existed until now! Several comfy
+{R,BO}  chairs have been placed against the eastern wall so that you
+{R,BO}  can sit and enjoy your reading.{b}
+
+~
+115 8 1
+D3
+~
+~
+0 -1 11536
+Z3
+C-1
+R0
+S
+#11538
+{C}Stairway - Third Floor{b}~
+
+{C}  Welcome to the third floor in the {R,BO}Building{Y,BO} of {R,BO}Nerds{b}{C}. This
+{C}  floor is home to the computing facilities! You can barely
+{C}  look through the door due to the plethora of people crowding
+{C}  your view. This portion of the building sure does seem to be
+{C}  popular.{b}
+
+{C,BO}  Above you, a big sign, suspended by glasses tape, rests. 
+{C,BO}  Read it!{b}
+
+~
+115 12 1
+D0
+~
+~
+0 -1 11539
+D5
+~
+stairs~
+1 -1 11518
+E
+sign~
+
+{WH}  "Fourth floor off limits to students,
+{WH}   Professors, use 'alternate' route!"{b}
+
+~
+Z3
+C-1
+R0
+S
+#11539
+{C}Annex{b}~
+
+{C}  You find yourself in the meeting place of a four-way
+{C}  hallway. In all directions your ears perceive nothing but
+{C}  the fast clacking of keyboards and mouse clicks. Their
+{C}  commanding nerds occasionally stifle out a frustrated grunt
+{C}  or amused giggle. This floor must be the busiest of the
+{C}  building. Where else would nerds spend all their free time?{b}
+
+~
+115 8 1
+D0
+~
+~
+0 -1 11543
+D1
+~
+~
+0 -1 11540
+D2
+~
+~
+0 -1 11538
+D3
+~
+~
+0 -1 11544
+Z3
+C-1
+R0
+S
+#11540
+{Y}Eastern Hallway{b}~
+
+{BLA,BO}  This is the end of a very short hallway. Nothing describes
+{BLA,BO}  this place better than the single piece of garbage off in
+{BLA,BO}  the corner: worthless and remote. A lot of activity seems to
+{BLA,BO}  be coming from the north.{b}
+
+~
+115 8 1
+D0
+~
+~
+0 -1 11541
+D3
+~
+~
+0 -1 11539
+Z3
+C-1
+R0
+S
+#11541
+{C}Freshman Computer Lab 1{b}~
+
+{C}  This is the first year computer lab. Like usual, you don't
+{C}  have a free terminal for your use, but you are partially
+{C}  glad that there isn't one to suck in your attention. In
+{C}  fact, upon closer inspection, these computers appear to be
+{C}  utterly horrid -- Original Macintosh. There is even an Apple
+{C}  running on Turbo C. Freshmen have it bad. Very bad.{b}
+
+~
+115 8 1
+D0
+~
+~
+0 -1 11542
+D2
+~
+~
+0 -1 11540
+Z3
+C-1
+R0
+S
+#11542
+{C}Freshman Computer Lab 2{b}~
+
+{C}  Will the pain end?! Students here are learning C++ on
+{C}  Commodore 64's and Vic 20's. Poor, poor freshmen. Obviously,
+{C}  nothing of real interest is here. Nothing even worth
+{C}  stealing. Feverish typing clutters your already frustrated
+{C}  mind. Compilers nearly overload under the burden of
+{C}  sponsoring an aspiring freshman.{b}
+
+~
+115 8 1
+D2
+~
+~
+0 -1 11541
+Z3
+C-1
+R0
+S
+#11543
+{R}Northern Hallway{b}~
+
+{Y}  You are strolling along the northern hallway off into the
+{Y}  building. People here are standing around, uselessly
+{Y}  discussing their favourite compilers like their friendly
+{Y}  associates actually care.{b}
+
+~
+115 8 1
+D0
+~
+~
+0 -1 11553
+D2
+~
+~
+0 -1 11539
+Z3
+C-1
+R0
+S
+#11544
+{C}Western Hallway{b}~
+
+{C}  Walking down the western hallway, you notice that this area
+{C}  has a little more style than most other portions of the
+{C}  facility. Nothing in particular sparks your interest, but
+{C}  perhaps the constant shuffling of people causes it to
+{C}  contain some amount of popular satisfaction. Furthermore, it
+{C}  would be likely to defend the title of cleanest floor on the
+{C}  building. People really do care about the things they love.
+{C}  And for nerds, that heated passion is for computers.{b}
+
+~
+115 8 1
+D0
+~
+~
+0 -1 11560
+D1
+~
+~
+0 -1 11539
+D2
+~
+~
+0 -1 11558
+D3
+~
+~
+0 -1 11545
+Z3
+C-1
+R0
+S
+#11545
+{C}Western Hallway{b}~
+
+{C}  Walking down the western hallway, you notice that this area
+{C}  has a little more style than most other portions of the
+{C}  facility. Nothing in particular sparks your interest, but
+{C}  perhaps the constant shuffling of people causes it to
+{C}  contain some amount of popular satisfaction. Furthermore, it
+{C}  would be likely to defend the title of cleanest floor on the
+{C}  building. People really do care about the things they love.
+{C}  And for nerds, that heated passion is for computers.{b}
+
+~
+115 8 1
+D0
+~
+~
+0 -1 11561
+D1
+~
+~
+0 -1 11544
+D2
+~
+~
+0 -1 11559
+D3
+~
+~
+0 -1 11546
+Z3
+C-1
+R0
+S
+#11546
+{Y,BO}Hallway of Gold{b}~
+
+{Y,BO}  You cannot believe your very eyes. One minute you are in a
+{Y,BO}  piece of crap hallway, and the next you are walking down a
+{Y,BO}  glistening aisle constructed of gold. Even the floor that
+{Y,BO}  supports your weight is built of solid gold. Something
+{Y,BO}  incredible must be at the end of this path.{b}
+
+~
+115 12 1
+D0
+~
+~
+0 -1 11562
+D1
+~
+~
+0 -1 11545
+D2
+~
+~
+0 -1 11547
+Z3
+C-1
+R0
+S
+#11547
+{Y,BO}Checkpoint 1{b}~
+
+{Y,BO}  You come upon a door of monstrous proportion. That paired by
+{Y,BO}  the fact of its solid gold construction, it is slightly
+{Y,BO}  intimidating. You cannot believe that the entire western
+{Y,BO}  wall is made of this door. Just one look, and you are
+{Y,BO}  reassured that it would never budge without the key keeping
+{Y,BO}  its secrets hidden.{b}
+
+~
+115 8 1
+D0
+~
+~
+0 -1 11546
+D3
+You see a titanium steel door.
+~
+door~
+2 11503 11548
+Z3
+C-1
+R0
+S
+#11548
+{BLA,BO}Hallway of Echoes{b}~
+
+{WH,BO}  That was a close one back at the checkpoint. This hallway is
+{WH,BO}  no longer of gold plating. Instead, the area is metallic and
+{WH,BO}  barren. Your steps create an echo loud enough to be heard
+{WH,BO}  likely a mile away.{b}
+
+~
+115 8 1
+D1
+~
+door~
+1 -1 11547
+D3
+~
+~
+0 -1 11549
+Z3
+C-1
+R0
+S
+#11549
+{BLA,BO}Checkpoint 2{b}~
+
+{WH,BO}  Another checkpoint -- just what you wanted. In a building of
+{WH,BO}  such losers, why all this high-level security? What is
+{WH,BO}  behind these doors? Surely the answers to the questions will
+{WH,BO}  be revealed soon. Again, a monstrous door stands between you
+{WH,BO}  and the mystery just beyond.{b}
+
+~
+115 8 1
+D0
+You see a titanium steel door ahead.
+~
+door~
+2 11504 11550
+D1
+~
+~
+0 -1 11548
+Z3
+C-1
+R0
+S
+#11550
+{M,BO}Checkpoint 3{b}~
+
+{M}  Another checkpoint?! Whatever is behind these doors surely
+{M}  must be extremely important. High-tech security devices hold
+{M}  this door closed. Someone of utter importance must hold the
+{M}  key to reach what is on the other side.{b}
+
+~
+115 8 1
+D0
+You notice a titanium door up ahead, with a large amount of light peeking
+through the cracks!
+~
+door~
+2 11505 11551
+D2
+~
+door~
+1 -1 11549
+Z3
+C-1
+R0
+S
+#11551
+{WH,BO}The Lights{b}~
+
+{WH,BO}  White. Bright, bedazzling white. Your eyes burn, and you
+{WH,BO}  find it difficult to see clearly. Only a force field
+{WH,BO}  guarding some brightly lit pathway to the north catches your
+{WH,BO}  vision. What is prized so heavily that it mandates this
+{WH,BO}  amount of security? Speaking of which -- watch the guard.{b}
+
+~
+115 8 1
+D0
+You see a magical force field here . . .
+~
+barrier~
+2 11509 11552
+D2
+~
+door~
+1 -1 11550
+Z3
+C-1
+R0
+S
+#11552
+{WH,BO}T{C,BO}h{Y,BO}e {WH,BO}M{C,BO}u{Y,BO}d{BLA,BO}!{b}~
+
+{WH,BO}  The worship place of all nerds alike, the very entity of all
+{WH,BO}  things wonderful in the realm of the internet, your love and
+{WH,BO}  life here in one single room.
+
+{C,BO}  The bright lights are growing painful and wearing on your
+{C,BO}  retinas. The Northern Crossroads is running off the machine
+{C,BO}  that seems to be distributing surge upon surge of useless
+{C,BO}  data and sloppily written code. The machine:
+
+{BLA,BO}                    "C B M  P E T"{b}
+
+{R,BO}  No wonder the MUD lags so heavily; this game is based off a
+{R,BO}  pet. A user sits in a dull corner, occupied by the screen of
+{R,BO}  his CPU, readily typing on the keys to enter in a username
+{R,BO}  and password. The name 'Forge' catches your eye. THE Forge,
+{R,BO}  the ultimate pest of the mud.{b}
+
+~
+115 8 1
+D2
+~
+barrier~
+1 -1 11551
+Z3
+C-1
+R0
+S
+#11553
+{BLA,BO}Hallway{b}~
+
+{BLA,BO}  This is a long, barren hallway. No one besides the
+{BLA,BO}  occasional janitor or nerd walks to and from their classes.
+{BLA,BO}  The floor is dull and littered with grey candy wrappers.
+{BLA,BO}  Some smashed coke cans have found their untimely death
+{BLA,BO}  beneath the wrath of some student's shoe. The janitors do
+{BLA,BO}  not do the best job at cleaning, now do they?{b}
+
+~
+115 8 1
+D2
+~
+~
+0 -1 11543
+D3
+~
+~
+0 -1 11554
+Z3
+C-1
+R0
+S
+#11554
+{Y,BO}Before the Great Room{b}~
+
+{Y,BO}  Walking down the hall, swarms of people in high-tech
+{Y,BO}  radiation-style suits are wandering along with fancy notepad
+{Y,BO}  computers, furiously punching out words and gibberish far
+{Y,BO}  beyond your comprehension. A sign decorates the room ahead.
+
+{BLINK}{G,BO}                     G{C,BO}R{G,BO}E{C,BO}A{G,BO}T {C,BO}R{G,BO}O{C,BO}O{G,BO}M{b}
+
+~
+115 12 1
+D1
+~
+~
+0 -1 11553
+D3
+~
+~
+0 -1 11555
+Z3
+C-1
+R0
+S
+#11555
+{R,BO}At the Entrance to Ultimate Power{b}~
+
+{R,BO}  To the north, a huge, metal door hums with the sounds of a
+{R,BO}  great computer generator. The rumble from within sparks an
+{R,BO}  amount of anxiety, dare-say an arousal, deep within your
+{R,BO}  sub-conscious, rumbling mad by the aspiration to conquer all
+{R,BO}  that stand between you and this glorious machine. A sign
+{R,BO}  hangs just above the magnetic lock.{b}
+
+~
+115 8 1
+D0
+You see a metalic door to the north of you.
+~
+platinum~
+2 11512 11556
+D1
+~
+~
+0 -1 11554
+E
+sign~
+          "Building of Nerds File Server Area
+               * AUTHORIZATION RESTRICTED *
+
+               ALL INTRUDERS SHALL DIE!"
+~
+Z3
+C-1
+R0
+S
+#11556
+{C}Server Room{b}~
+
+{C}  When pubescent little boys have their {WH,BO}wet-dreams{b}{C}, this must
+{C}  be what those visions are made of. {Y,BO}Supercomputers{b}{C} on top of
+{Y,BO}  supercomputers {b}{C}on top of even more {Y,BO}supercomputers{b}{C}! All these
+{C}  machines are running things that are completely and entirely
+{C}  beyond your yet-to-be elevated existence. Someone's office
+{C}  is hidden between {BLU,BO}two monitors {b}{Y,BO}buzzing{b}{C} with {BLU,BO}bright blue{b}
+{C}  error messages blaring on their screens.{b}
+
+~
+115 8 1
+D0
+~
+~
+0 -1 11557
+D2
+~
+platinum~
+1 -1 11555
+Z3
+C-1
+R0
+S
+#11557
+{G,BO}Administrator's Office{b}~
+
+{G}  This is the office of the head administrator of the entire
+{G}  facility. Whatever mad genius claims this residence, their
+{G}  intelligence must far surpass yours, in order to lead this
+{G}  army of nerd computers. The owner of that swiveling chair in
+{G}  the corner is the very reason these nerds are able to log
+{G}  into their MUDs and watch Saturday Night live from the
+{G}  comfort of their dorms. Everything around is so beautiful,
+{G}  or rather as beautiful as screensavers of nature can be.
+{G}  Behind one of the many monitors, a portrait hides, held
+{G}  stagnant by a nail in the wall.{b}
+
+~
+115 8 1
+D0
+~
+portrait~
+2 11513 11563
+D2
+~
+~
+0 -1 11556
+E
+portrait~
+You see a strange keyhole in the eyes of the portrait... Hmmmm...
+~
+E
+portraiyt~
+~
+Z3
+C-1
+R0
+S
+#11558
+{C}Second Year Computer Lab{b}~
+
+{C}  This computer lab is reserved entirely for the Sophomore
+{C}  nerds. You are awed as to the advanced equipment used in the
+{C}  lab. X-Terminals are a friendly sight, to begin. A number of
+{C}  students happily occupy their respective seat and clack
+{C}  loudly against their keyboards at a quick pace. A pair of
+{C}  students off in the corner are screaming about one terminal
+{C}  on the other side of the lab.{b}
+
+~
+115 8 1
+D0
+~
+~
+0 -1 11544
+D3
+~
+~
+0 -1 11559
+Z3
+C-1
+R0
+S
+#11559
+{C}Second Year Computer Lab{b}~
+
+{C}  This computer lab is reserved entirely for the Sophomore
+{C}  nerds. You are awed as to the advanced equipment used in the
+{C}  lab. X-Terminals are a friendly sight, to begin. A number of
+{C}  students happily occupy their respective seat and clack
+{C}  loudly against their keyboards at a quick pace. Some
+{C}  interest is placed in a terminal off in the distance. Your
+{C}  own curiosity grows as you witness a spam of text fire
+{C}  vertically along the screen. To your horror, it appears that
+{C}  an immortal of the Crossroads is tormenting the little
+{C}  mortals. Can you find it within yourself to stand up for all
+{C}  of {WH,BO}truth {b}{C}and {WH,BO}justice{b}{C}?{b}
+
+~
+115 8 1
+D0
+~
+~
+0 -1 11545
+D1
+~
+~
+0 -1 11558
+Z3
+C-1
+R0
+S
+#11560
+{G}Upper Year Graphics Lab{b}~
+
+{G}  The upper year nerds have it lucky. They are host to some of
+{G}  the best graphical design equipment known to man. Students
+{G}  are feverishly hacking their way at high-resolution
+{G}  terminals. Three dimensional objects are being rotated
+{G}  swiftly in all different directions.{b}
+
+~
+115 8 1
+D2
+~
+~
+0 -1 11544
+D3
+~
+~
+0 -1 11561
+Z3
+C-1
+R0
+S
+#11561
+{G}Upper Year Graphics Lab{b}~
+
+{G}  The upper year nerds have it lucky. They are host to some of
+{G}  the best graphical design equipment known to man. Students
+{G}  are feverishly hacking their way at high-resolution
+{G}  terminals. Three dimensional objects are being rotated
+{G}  swiftly in all different directions.{b}
+
+~
+115 8 1
+D1
+~
+~
+0 -1 11560
+D2
+~
+~
+0 -1 11545
+Z3
+C-1
+R0
+S
+#11562
+{BLA,BO}Printer Room{b}~
+
+{BLA,BO}  A printer files out paper after paper. Strangely, no complex
+{BLA,BO}  coding or relative assignments can be found upon the paper.
+{BLA,BO}  Instead, ASCII pictures of sexual scenes defile the blank,
+{BLA,BO}  white space. Is this why the nerds enjoy computers so much
+{BLA,BO}  -- access to free, online porn? Along the backwall, rows and
+{BLA,BO}  rows advanced laser printers.{b}
+
+~
+115 8 1
+D2
+~
+~
+0 -1 11546
+Z3
+C-1
+R0
+S
+#11563
+{BLA,BO}Stinking Stairwell{b}~
+
+{BLA,BO}  Here, behind the administrator's office, stands another
+{BLA,BO}  stairwell leading upstairs. Why do the professors need a
+{BLA,BO}  'secret' entrance to the upper levels of the building? Oh,
+{BLA,BO}  of course, students and nerds are pests. If they can't
+{BLA,BO}  manage to walk the stairs, they can't come up! Quite the
+{BLA,BO}  perfect plan, although perhaps something went a little
+{BLA,BO}  wrong; there's {b}{R}blood{BLA,BO} on the stairs.{b}
+
+~
+115 8 1
+D2
+~
+portrait~
+1 -1 11557
+D4
+~
+~
+0 -1 11564
+Z3
+C-1
+R0
+S
+#11564
+{BLA,BO}Fourth Floor{b}~
+
+{BLA,BO}  You've managed to accomplish what no other student has done
+{BLA,BO}  before you: make it to the fourth floor. Professors must be
+{BLA,BO}  such idiots, profusely hiding away from their students. Are
+{BLA,BO}  they simply too lazy? Do you {b}{G}smell{BLA,BO}? What's with all the
+{BLA,BO}  privacy?{b}
+
+~
+115 12 1
+D2
+~
+~
+0 -1 11565
+D5
+~
+~
+0 -1 11563
+Z3
+C-1
+R0
+S
+#11565
+{BLA,BO}Hall of Cobwebs{b}~
+
+{BLA,BO}  This place is awful. When was the last time a janitor
+{BLA,BO}  actually sweeped these halls? Likely never. The sound of
+{BLA,BO}  your boots against the floor echoes through the area, and
+{BLA,BO}  the silence is chilling to the bone. Something must await at
+{BLA,BO}  the end of the hallway, if the spiders haven't already
+{BLA,BO}  gotten to it. Judging by the size of these cobwebs,
+{BLA,BO}  something huge must lurk within the darkness, hanging in the
+{BLA,BO}  ceiling, or hiding in the lining of the walls. Hunchback
+{BLA,BO}  people walk back and forth in the next corridor.{b}
+
+~
+115 9 1
+D0
+~
+~
+0 -1 11564
+D2
+~
+~
+0 -1 11566
+Z3
+C-1
+R0
+S
+#11566
+{BLA,BO}Hall of Cobwebs{b}~
+
+{BLA,BO}  This place is awful. When was the last time a janitor
+{BLA,BO}  actually sweeped these halls? Likely never. The sound of
+{BLA,BO}  your boots against the floor echoes through the area, and
+{BLA,BO}  the silence is chilling to the bone. Something must await at
+{BLA,BO}  the end of the hallway, if the spiders haven't already
+{BLA,BO}  gotten to it. Judging by the size of these cobwebs,
+{BLA,BO}  something huge must lurk within the darkness, hanging in the
+{BLA,BO}  ceiling, or hiding in the lining of the walls. Hunchback
+{BLA,BO}  people walk back and forth in the next corridor.{b}
+
+~
+115 9 1
+D0
+~
+~
+0 -1 11565
+D2
+~
+cobwebs~
+1 -1 11567
+Z3
+C-1
+R0
+S
+#11567
+{R}Onward to the Offices{b}~
+
+{R}  You're glad to get your ass out of the sticky cobwebs.
+{R}  Unfortunately, just as you leave the spiders' realm, they
+{R}  seal your closest exit and you're left with the option to
+{R}  move only onward. A bad feeling begins to settle within the
+{R}  pit of your stomach, and it becomes increasingly clear why
+{R}  students wouldn't dare near this place even if presented the
+{R}  opportunity.{b}
+
+~
+115 8 1
+D0
+~
+cobwebs~
+1 -1 11566
+D1
+~
+~
+0 -1 11568
+Z3
+C-1
+R0
+S
+#11568
+{BLA,BO}Professors' Offices{b}~
+
+{R}  To the north and south, offices contain the brains and raw
+{R}  power behind this building's influence. A stench of
+{R}  un-showered, au-naturelle overtakes your lungs. Hand prints
+{R}  and streaks of {R,BO}blood{b}{R} mar the dirty walls, and the {R,BO}pool of
+{R,BO}  gore{b}{R} must have been left behind from some sacrificial
+{R}  animal. This school has gone from intelligent and
+{R}  sophisticated to creepy and weird.{b}
+
+~
+115 8 1
+D1
+~
+~
+0 -1 11569
+D3
+~
+~
+0 -1 11567
+Z3
+C-1
+R0
+S
+#11569
+{BLA,BO}Professors' Offices{b}~
+
+{R}  To the north and south, offices contain the brains and raw
+{R}  power behind this building's influence. A stench of
+{R}  un-showered, au-naturelle overtakes your lungs. Hand prints
+{R}  and streaks of {R,BO}blood{b}{R} mar the dirty walls, and the {R,BO}pool of
+{R,BO}  gore{b}{R} must have been left behind from some sacrificial
+{R}  animal. This school has gone from intelligent and
+{R}  sophisticated to creepy and weird.{b}
+
+~
+115 8 1
+D0
+~
+~
+0 -1 11571
+D1
+~
+~
+0 -1 11570
+D2
+~
+~
+0 -1 11572
+D3
+~
+~
+0 -1 11568
+Z3
+C-1
+R0
+S
+#11570
+{BLA,BO}Professors' Offices{b}~
+
+{R}  To the north and south, offices contain the brains and raw
+{R}  power behind this building's influence. A stench of
+{R}  un-showered, au-naturelle overtakes your lungs. Hand prints
+{R}  and streaks of {R,BO}blood{b}{R} mar the dirty walls, and the {R,BO}pool of
+{R,BO}  gore{b}{R} must have been left behind from some sacrificial
+{R}  animal. This school has gone from intelligent and
+{R}  sophisticated to creepy and weird.{b}
+
+~
+115 8 1
+D0
+~
+~
+0 -1 11573
+D1
+~
+admantium~
+2 11515 11575
+D2
+~
+~
+0 -1 11574
+D3
+~
+~
+0 -1 11569
+Z3
+C-1
+R0
+S
+#11571
+{R}Prof's Office - Room 501{b}~
+
+{BLA,BO}  You see a small, 8-by-8 room with nothing but books
+{BLA,BO}  regarding calculus, linear algebra, and database theory. The
+{BLA,BO}  textbooks are piled against walls, as the bookshelves have
+{BLA,BO}  previously been filled. A desk is placed up against a large,
+{BLA,BO}  grungy window, and after clearing the dust, you see someone
+{BLA,BO}  hard at work. {R,BO}His eyes glow with a burning red heat.{b}
+
+~
+115 12 1
+D2
+~
+~
+0 -1 11569
+Z3
+C-1
+R0
+S
+#11572
+{BLA,BO}Prof's Office - Room 502{b}~
+
+{BLA,BO}  You stand in the center of a barren 8-by-8 room. Unlike room
+{BLA,BO}  501, there truly isn't much to behold. In fact, the remains
+{BLA,BO}  of this room include but one lonely desk off in the corner.
+{BLA,BO}  Your nose adjusts to the stench, the floor having been
+{BLA,BO}  occupied by empty bottles of Molson Canadian and Coors
+{BLA,BO}  Light. A student sulks in the corner, a soft and gentle
+{BLA,BO}  moan of agony pouring from their dehydrated lips.
+
+~
+115 12 1
+D0
+~
+~
+0 -1 11569
+Z3
+C-1
+R0
+S
+#11573
+{C}Prof's Office - Room 503{b}~
+
+{Y}  No books, no desks... What is this? Judging from the large
+{Y}  plethora of whips, leathers, and sharp metallic objects, the
+{Y}  best guess is to assume this is the sex-ed laboratory. Who
+{Y}  knew that professors could get so kinky? You, an upstanding
+{Y}  citizen, are fully prepared to leave this scarring memory
+{Y}  behind, but the cracking of a whip behind your head would
+{Y}  suggest whoever is here with you has another agenda. Did you
+{Y}  bring your whistle?{b}
+
+~
+115 12 1
+D2
+~
+~
+0 -1 11570
+Z3
+C-1
+R0
+S
+#11574
+{BLA,BO}Prof's Office - Room 502{b}~
+
+{BLA,BO}  You stand in the center of a barren 8-by-8 room. Unlike room
+{BLA,BO}  501, there truly isn't much to behold. In fact, the remains
+{BLA,BO}  of this room include but one lonely desk off in the corner.
+{BLA,BO}  Your nose adjusts to the stench, the floor having been
+{BLA,BO}  occupied by empty bottles of Molson Canadian and Coors
+{BLA,BO}  Light. A student sulks in the corner, a soft and gentle
+{BLA,BO}  moan of agony pouring from their dehydrated lips.
+
+~
+115 12 1
+D0
+~
+~
+0 -1 11570
+Z3
+C-1
+R0
+S
+#11575
+{G}Hallway of Adamantium{b}~
+
+{G}  Adamantium lines the walls. This school is out of the
+{G}  ordinary. Why would the floor hidden away by the professors
+{G}  need to be lined in one of the heaviest metals known to
+{G}  mankind? What are the planning here within the darkness?{b}
+
+~
+115 12 1
+D2
+~
+~
+0 -1 11576
+D3
+~
+admantium~
+1 -1 11570
+Z3
+C-1
+R0
+S
+#11576
+{Y,BO}Entrance to the Office of Department Heads{b}~
+
+{Y,BO}  This must be the largest building in the school. Walls,
+{Y,BO}  floors, and ceilings alike are all coated in gold and the
+{Y,BO}  dimensions must be at least fifty by fifty. There must be
+{Y,BO}  some evil, diabolical reason for this room's availability.
+{Y,BO}  An electronic keypad is placed upon the western wall.{b}
+
+~
+115 8 1
+D0
+~
+~
+0 -1 11575
+D3
+~
+door~
+2 11516 11577
+Z3
+C-1
+R0
+S
+#11577
+{C}Department of Computer Science{b}~
+
+{C}  Here you stand in a room meant for Computer Science.
+{C}  Networked CPU's line every wall, and it is strange why so
+{C}  many are wired together. Numbers and functions are being
+{C}  calculated simultaneously at an astronomical rate. One of
+{C}  the screens has a cross-section of Midgaard upon it! A faint
+{C}  tapping awaits your perception off in the corner, and with
+{C}  just a quick glance, it comes from no ordinary nerd.{b}
+
+~
+115 168 1
+D1
+~
+door~
+1 -1 11576
+D2
+~
+~
+0 -1 11578
+Z3
+C-1
+R0
+S
+#11578
+{G}Department of Pure Math{b}~
+
+{G}  Blackboards with scribbles of white chalk decorate this
+{G}  little room. Your mind puzzles out the equations and comes
+{G}  up with no correct answer. Formulas and ugly relational
+{G}  alegebra can also be found by the motivational posters
+{G}  hanging crookedly along the wall. Something of interest,
+{G}  however, is scribed in the center of all the theorems.{b}
+
+~
+115 168 1
+D0
+~
+~
+0 -1 11577
+D3
+~
+~
+0 -1 11579
+E
+blackboard~
+A portion of the blackboard says:
+
+".... Optimal Distance for detonation ... $$##$$*((
+
+... Destruction is total."
+
+What is this guy talking about? What type of destruction will occur?
+Ack! Pfft! This sucks!
+~
+Z3
+C-1
+R0
+S
+#11579
+{G}Department of Applied Math{b}~
+
+{G}  The floors have papers scattered aplenty. Your foot never
+{G}  once touches a spot not burdened by inked tapestry. Various
+{G}  diagrams and vectors are drawn everywhere, some even with
+{G}  pencil on wall.{b}
+
+~
+115 168 1
+D0
+~
+~
+0 -1 11580
+D1
+~
+~
+0 -1 11578
+E
+page~
+You see the following:
+
+"Optimal firing trajector for nuclear warhead onto Midgaard . . . . "
+
+The rest of the page is a big scribble and you can barely make out the
+drawings! What is going on here? Why do they want to destroy Midgaard?
+Nooooooooooooooooooooooooooooooooooooooo....
+~
+Z3
+C-1
+R0
+S
+#11580
+{WH,BO}Turbolift{b}~
+
+{WH,BO}  A turbolift? In a school? Where does it lead? Why is it
+{WH,BO}  here? So many questions and so little answers. While taking
+{WH,BO}  a moment to observe, you notice that a bright silver
+{WH,BO}  adamantium lines the walls of the lift, floor, and ceiling.
+{WH,BO}  Only one door remains due to the cracks against the wall. A
+{WH,BO}  control panel is also nearby.{b}
+
+~
+115 12 1
+D2
+~
+~
+0 -1 11579
+D4
+~
+~
+0 -1 11581
+D5
+~
+~
+0 -1 11582
+E
+panel~
+***************** Turbolift Control System ********************
+
+                        C O M M A N D S
+
+
+             D = Go down 55 levels
+             U = You die
+~
+Z3
+C-1
+R0
+S
+#11581
+{BLA,BO}Turbolift{b}~
+
+{BLA,BO}  You moron!
+
+{BLA,BO}  As it is flying downward at the speed of light,
+{BLA,BO}  you are not supposed to playfully stick your
+{BLA,BO}  foot out the doors.{b}
+
+~
+115 16777226 1
+Z3
+C-1
+R0
+S
+#11582
+{BLA,BO}Bottom Floor - Turbolift{b}~
+
+{WH,BO}  The Turbolift plummets to the very bottom of its design.
+{WH,BO}  Upon reaching the ground, a cheerful ding echoes within the
+{WH,BO}  steel walls and alerts you:{b}
+
+{R}                     Floor Fifty
+
+{BLA,BO}  The noise leaves as soon as it came and you are, again, left
+{BLA,BO}  in silence and darkness. The only notable resident of this
+{BLA,BO}  below-ground area seems to be the spiders lurking in the
+{BLA,BO}  shadows, leaving their webs embedded into the hallway.{b}
+
+~
+115 28 1
+D2
+~
+door~
+1 -1 11583
+D4
+~
+~
+0 -1 11580
+Z3
+C-1
+R0
+S
+#11583
+{BLA,BO}Glowing Shaft{b}~
+
+{BLA,BO}  Coal and gold are hidden away, kept secret from the views of
+{BLA,BO}  outsiders. {BLU,BO}Water puddles {BLA,BO}at your feet, the clack of your boots
+{BLA,BO}  creating a loud, resonating {b}{C}s{BLU,BO}p{b}{C}l{BLU,BO}a{b}{C}s{BLU,BO}h {BLA,BO}that could be heard a few
+{BLA,BO}  miles away. Your spine develops a cooling shiver as the echo
+{BLA,BO}  stretches away from you and explores ahead. Little can be seen
+{BLA,BO}  apart from the {b}{G}green glow {BLA,BO}which lines the walls. Whether this
+{BLA,BO}  strange material be some kind of {G,BO}a{b}{G}c{G,BO}i{b}{G}d {BLA,BO}or {G,BO}r{b}{G}a{G,BO}d{b}{G}i{G,BO}o{b}{G}a{G,BO}c{b}{G}t{G,BO}i{b}{G}v{G,BO}e{b} {BLA,BO}material,
+{BLA,BO}  it does provide the small amount of {WH,BO}light {BLA,BO}required for you to
+{BLA,BO}  venture further into this abyss.{b}
+
+~
+115 152 1
+D0
+~
+door~
+1 -1 11582
+D2
+~
+~
+0 -1 11584
+Z3
+C-1
+R0
+S
+#11584
+{BLA,BO}Glowing Shaft{b}~
+
+{BLA,BO}  Coal and gold are hidden away, kept secret from the views of
+{BLA,BO}  outsiders. {BLU,BO}Water puddles {BLA,BO}at your feet, the clack of your boots
+{BLA,BO}  creating a loud, resonating {b}{C}s{BLU,BO}p{b}{C}l{BLU,BO}a{b}{C}s{BLU,BO}h {BLA,BO}that could be heard a few
+{BLA,BO}  miles away. Your spine develops a cooling shiver as the echo
+{BLA,BO}  stretches away from you and explores ahead. Little can be seen
+{BLA,BO}  apart from the {b}{G}green glow {BLA,BO}which lines the walls. Whether this
+{BLA,BO}  strange material be some kind of {G,BO}a{b}{G}c{G,BO}i{b}{G}d {BLA,BO}or {G,BO}r{b}{G}a{G,BO}d{b}{G}i{G,BO}o{b}{G}a{G,BO}c{b}{G}t{G,BO}i{b}{G}v{G,BO}e{b} {BLA,BO}material,
+{BLA,BO}  it does provide the small amount of {WH,BO}light {BLA,BO}required for you to
+{BLA,BO}  venture further into this abyss.{b}
+
+~
+115 152 1
+D0
+~
+~
+0 -1 11583
+D1
+~
+~
+0 -1 11585
+Z3
+C-1
+R0
+S
+#11585
+{BLA,BO}Glowing Shaft{b}~
+
+{BLA,BO}  Coal and gold are hidden away, kept secret from the views of
+{BLA,BO}  outsiders. {BLU,BO}Water puddles {BLA,BO}at your feet, the clack of your boots
+{BLA,BO}  creating a loud, resonating {b}{C}s{BLU,BO}p{b}{C}l{BLU,BO}a{b}{C}s{BLU,BO}h {BLA,BO}that could be heard a few
+{BLA,BO}  miles away. Your spine develops a cooling shiver as the echo
+{BLA,BO}  stretches away from you and explores ahead. Little can be seen
+{BLA,BO}  apart from the {b}{G}green glow {BLA,BO}which lines the walls. Whether this
+{BLA,BO}  strange material be some kind of {G,BO}a{b}{G}c{G,BO}i{b}{G}d {BLA,BO}or {G,BO}r{b}{G}a{G,BO}d{b}{G}i{G,BO}o{b}{G}a{G,BO}c{b}{G}t{G,BO}i{b}{G}v{G,BO}e{b} {BLA,BO}material,
+{BLA,BO}  it does provide the small amount of {WH,BO}light {BLA,BO}required for you to
+{BLA,BO}  venture further into this abyss.{b}
+
+~
+115 152 1
+D2
+~
+~
+0 -1 11586
+D3
+~
+~
+0 -1 11584
+Z3
+C-1
+R0
+S
+#11586
+{WH,BO}Room of Illusion{b}~
+
+{BLA,BO}  Your vision grows blurry until all light in the area simply fades.
+{BLA,BO}  You are left alone in a room of midnight. Your burning retinas
+{BLA,BO}  create imaginative {WH,BO}s{b}{WH}p{WH,BO}e{b}{WH}c{WH,BO}k{b}{WH}l{WH,BO}e{b}{WH}s {BLA,BO}in the heavens, {BLINK}{WH,BO}stars{b} {BLA,BO}against the
+{BLA,BO}  shell of night.
+
+{BLA,BO}  Something {b}{Y}obliterates {R,BO}YOU {b}{BLA,BO}out of {b}{C}existence {BLA,BO}with its hit.{b}
+
+{R}  A figurine in the shadows lunges out towards you, knife reaching
+{R}  to scratch at your neck and draw a painful douse of blood. A few
+{R}  trickles run down your {b}{WH}sweat-stained {R}skin while another cloaked
+{R}  man dashes towards you. Your fogged mind creates a most intense,
+{R}  dramatic event for one's own life: {BLA,BO}their untimely death.{b}
+
+~
+115 184 9
+D0
+~
+~
+0 -1 11585
+D2
+~
+door~
+2 11528 11587
+Z3
+C-1
+R0
+S
+#11587
+{R,BO}The War Room{b}~
+
+{Y}  A mahogany table plays host to twelve chars, all sat in a
+{Y}  circular design as to face a large screen projecting up upon
+{Y}  the eastern wall. {R}Corpses of students and professors alike
+{R}  have lined each other wall, their spilt blood used to paint
+{R}  a massage:{b}
+
+{BLINK}{R,BO}                    Leave {b}{R}{BLINK}This {R,BO}{BLINK}Place!{b}
+
+~
+115 156 1
+D0
+~
+door~
+1 -1 11586
+D1
+~
+~
+0 -1 11588
+Z3
+C-1
+R0
+S
+#11588
+{Y,BO}N{BLA,BO}u{Y,BO}k{BLA,BO}e{b}~
+
+{R,BO}  Computers rage with fury, a large majority of them with maps
+{R,BO}  of a poorly pictured Midgaard emblazoned upon the screens.
+{R,BO}  Crew workers wander through the area furiously scribbling
+{R,BO}  down notes and equations in order to prepare the rocket for
+{R,BO}  launch. The Northern Crossroads itself is in danger of
+{R,BO}  complete, total annihilation. These nerds have built a {Y,BO}n{BLA,BO}u{Y,BO}k{BLA,BO}e{R,BO}!{b}
+
+~
+115 136 1
+D3
+~
+~
+0 -1 11587
+Z3
+C-1
+R0
+S
+#11589
+Wildnerness path~
+Here you walk along a beaten path surrounded by beautiful trees and bird.
+~
+115 262144 1
+Z3
+C-1
+R0
+S
+#11598
+{BO}{R}SubHuman Art{r}{bo}~
+
+
+{BOLD}{RED}                    ,       ,
+                   /(       )`
+                   \ \__   / |
+                   /- {WHITE}_{RED} `-/  '
+                  ({WHITE}/\/ \{RED} \   /\ 
+                  {WHITE}/ /   | {RED}`    \  
+                  {BLUE}O O   {WHITE}){RED}      |  
+                  {WHITE}`-^--'`{BLACK}<{RED}     '  
+                 (_{BLACK}.{RED})  {WHITE}_ {BLACK})    /   
+                  `.{WHITE}___/`{RED}    /   
+                    `-----' /
+       {BLACK}<----.     {RED}__ / __   \   
+       {BLACK}<----|===={RED}O))){BLACK}=={RED}) \) /{BLACK}============={RED}
+       {BLACK}<----'    {RED}`--' `.__,' \
+                    |         |
+                     \       /  
+                 ____( (_   / \______
+               ,'  ,----'   |        \ 
+               `--{__________)       \/{BOLD}
+
+
+~
+115 4194309 1
+X1048798
+Z0
+C-1
+R0
+S
+#11599
+{BLU,BO}<{WH,BO}<{R,BO}< {BLU,BO}G{WH}r{BLU}a{WH}d{BLU}u{WH}a{BLU}t{WH}i{BLU}o{WH}n {R,BO}>{WH,BO}>{BLU,BO}>{b}~
+
+{BLU,BO}       _.-'`'-._     The spotlights blaze down upon
+{BLU,BO}    .-'    {WH,BO}_ {BLU,BO}   '-.  {WH}one young man, praising him in
+{BLU,BO}     `-.__  {WH,BO}`\{BLU,BO}_.-'   {BLU}the splendour of radiant light.
+{BLU,BO}       |  `-``{WH}\{BLU}|     {WH}His blue and white coloured robes
+{BLU,BO}       `-.....-{WH}A     {BLU}hang loose by his side, and a 
+{BLU,BO}               {WH}#     {WH}graduation diploma is gripped
+{BLU,BO}               {WH}#     {BLU}tightly within the left hand.{b}
+
+{BLU,BO}   _______  _______  __     ______ 
+{WH,BO}  / ___   )(  __   )/  \   / ____ \
+{BLU,BO}  \/   )  || (  )  |\/) ) ( (    \/
+{WH,BO}      /   )| | /   |  | | | (____  
+{BLU,BO}    _/   / | (/ /) |  | | |  ___ \ 
+{WH,BO}   /   _/  |   / | |  | | | (   ) )
+{BLU,BO}  (   (__/\|  (__) |__) (_( (___) )
+{WH,BO}  \_______/(_______)\____/ \_____/ {b}
+
+~
+115 8192 0
+D2
+~
+~
+0 -1 3300
+Z-1
+C-1
+R0
+S
+$~

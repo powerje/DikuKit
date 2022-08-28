@@ -1,0 +1,702 @@
+#40701
+{YELLOW}Valley of Bowser 1{yell}~
+{WHITE}
+    You have made it very far in this dangerous land.  It takes
+    very dedicated players to make it this far.  Now only a few
+    rooms left and then you'll be able to claim you beat Super
+    Mario World.
+
+~
+407 262152 1
+D3
+~
+~
+0 -1 40702
+Z0
+C-1
+S
+#40702
+{YEL}Valley of Bowser 2{yel}~
+{WHITE}
+    The stench of death is getting stronger as you venture deeper
+    into the valley of bowser.  You can barely make out the 
+    outline of Bowser's castle.  You are getting closer to 
+    facing the ultimate evil.
+
+~
+407 262152 1
+D0
+~
+~
+0 -1 40703
+D1
+~
+~
+0 -1 40701
+D3
+~
+~
+0 -1 40704
+Z0
+C-1
+S
+#40703
+{WHITE}Valley Fortress{white}~
+{WHITE}
+    The final fortress in this land lies here blocking your
+    way to the secret backdoor entrance of Bowser's Castle.
+    The ranzor's here are even more vicious than the ones
+    before.  It might be a good idea just to avoid ranzors
+    and go through Larry's Castle.
+
+~
+407 262292 1
+D0
+~
+~
+0 -1 40710
+D2
+~
+~
+0 -1 40702
+X268435456
+Z0
+C-1
+S
+#40704
+{WHITE}Valley Ghost House{white}~
+{WHITE}
+    The final ghost house of Mario land lies here.  Only
+    the few brave legandary warriors have made it this
+    far.  Only a few rooms left and you'll be at the
+    dreaded Castle of Bowser.
+
+~
+407 262272 1
+D0
+~
+CastleGate~
+1 40600 40707
+D1
+~
+~
+0 -1 40702
+D3
+~
+~
+0 -1 40705
+X268435456
+Z0
+C-1
+S
+#40705
+{YEL}Valley of Bowser 3{yel}~
+{WHITE}
+    From here you can see the towering gates of Bowser's
+    Castle.  What catches your eyes is another castle that
+    seems to be guarding the entrance to Bowser's Castle.
+    You figure it has to be the Castle of Larry.
+
+~
+407 262144 1
+D0
+~
+n star~
+1 -1 40706
+D1
+~
+~
+0 -1 40704
+Z0
+C-1
+S
+#40706
+{YEL}Valley of Bowser 4{yel}~
+{WHITE}
+    You are now in the cave leading to Larry's Castle.
+    Somehow there's lava pit in the middle of this cave
+    and you can feel the heat it's generating.  You can
+    barely stand the little bits of lava hitting your
+    skin as you try to make it to the end of the cave.
+
+~
+407 262168 1
+D0
+~
+star~
+3 -1 40709
+D1
+~
+CastleGate~
+1 40600 40707
+D2
+~
+n star~
+1 -1 40705
+Z0
+C-1
+S
+#40707
+{WHITE}Larry's Castle{white}~
+{WHITE}
+    The legandary castle that blocks the entrance to Bowser's
+    Castle lies here waiting in your way.  The defeat Larry
+    remember the way you defeated Iggy.  They are brothers
+    after all.
+
+~
+407 262288 1
+D0
+~
+FinalGate~
+3 40600 40708
+D2
+~
+CastleGate~
+1 -1 40704
+D3
+~
+CastleGate~
+1 -1 40706
+X268435456
+Z0
+C-1
+S
+#40708
+{BOLD,RED,BLINK}Bowser's Castle{bold,red,bl}~
+
+    {RED}Only the best of the best have reached the towering castle
+    of evil.  All who have been here have failed to achieve the
+    ultimate goal of killing Bowser.  You see Bowser hovering
+    over your head in a blimp while throwing monsters down at
+    you.  Avoid them and you will be able to succeed where all
+    others have failed.
+
+~
+407 262292 1
+D1
+~
+~
+0 -1 40710
+D2
+~
+FinalGate~
+1 -1 40707
+X268435456
+Z0
+C-1
+S
+#40709
+{BOLD,YELLOW}STAR ROAD!{bold,yellow}~
+
+    {WHITE,BOLD}Great!  You have found one of the five entrances to {white,bold}{BOLD,YELLOW}Star Road.
+
+~
+407 270340 1
+D2
+~
+star~
+1 -1 40706
+Z0
+C-1
+S
+#40710
+{RED,BOLD}Castle Backdoor{red,bold}~
+
+    {RED}You are now at the backdoor of Bowser's Castle.  This is a huge
+    shortcut from the other route, but the difficulty more than makes
+    up for it.  So, beware.
+
+~
+407 262288 1
+D2
+~
+~
+0 -1 40703
+D3
+~
+~
+0 -1 40708
+X268435456
+Z0
+C-1
+S
+#40711
+{BOLD,GREEN}A FREAKING PIPE ROOM!{bold,green}~
+
+{WHITE,BOLD}    Before you lies a great pipe, interested in where it leads to?
+    Enter and find out...
+
+~
+407 262144 1
+D1
+~
+~
+0 -1 40695
+Z0
+C-1
+S
+#40712
+{BOLD,GREEN}A FREAKING PIPE ROOM!{bold,green}~
+
+{WHITE,BOLD}    Before you lies a great pipe, interested in where it leads to?
+    Enter and find out...
+
+~
+407 262144 1
+D2
+~
+~
+0 -1 40695
+Z0
+C-1
+S
+#40713
+{BOLD,YELLOW}STAR ROAD!{bold,yellow}~
+
+    {WHITE,BOLD}Great!  You have found one of the five entrances to {white,bold}{BOLD,YELLOW}Star Road.
+
+~
+407 270340 1
+D1
+~
+~
+0 -1 40723
+D2
+~
+~
+0 -1 40719
+Z0
+C-1
+S
+#40714
+{BOLD,YELLOW}STAR ROAD!{bold,yellow}~
+
+    {WHITE,BOLD}Great!  You have found one of the five entrances to {white,bold}{BOLD,YELLOW}Star Road.
+
+~
+407 270340 1
+D1
+~
+~
+0 -1 40720
+D3
+~
+~
+0 -1 40719
+Z0
+C-1
+S
+#40715
+{BOLD,YELLOW}STAR ROAD!{bold,yellow}~
+
+    {WHITE,BOLD}Great!  You have found one of the five entrances to {white,bold}{BOLD,YELLOW}Star Road.
+
+~
+407 270340 1
+D1
+~
+~
+0 -1 40721
+D3
+~
+~
+0 -1 40720
+Z0
+C-1
+S
+#40716
+{BOLD,YELLOW}STAR ROAD!{bold,yellow}~
+
+    {WHITE,BOLD}Great!  You have found one of the five entrances to {white,bold}{BOLD,YELLOW}Star Road.
+
+~
+407 270340 1
+Z0
+C-1
+S
+#40717
+{BOLD,YELLOW}STAR ROAD!{bold,yellow}~
+
+    {WHITE,BOLD}Great!  You have found one of the five entrances to {white,bold}{BOLD,YELLOW}Star Road.
+
+~
+407 270340 1
+D2
+~
+~
+0 -1 40722
+D3
+~
+~
+0 -1 40721
+Z0
+C-1
+S
+#40718
+{BOLD,YELLOW}STAR ROAD!{bold,yellow}~
+
+    {WHITE,BOLD}Great!  You have found one of the five entrances to {white,bold}{BOLD,YELLOW}Star Road.
+
+~
+407 270340 1
+D0
+~
+~
+0 -1 40722
+D3
+~
+~
+0 -1 40723
+Z0
+C-1
+S
+#40719
+{YELLOW,BOLD}Star Road 1{yellow,bold}~
+{BOLD,WHITE}
+    There have been rumors that Star Road contains 3 very
+    powerful types of Yoshi's.  To gain the services of these
+    powerful creatures you have to feed them first since they
+    only come in baby form.
+
+~
+407 262152 1
+D0
+~
+~
+0 -1 40713
+D1
+~
+~
+0 -1 40714
+Z0
+C-1
+S
+#40720
+{BOLD,YELLOW}Star Road 2{bold,yellow}~
+{BOLD,WHITE}
+    You drift into the water as soon as you reach the second
+    stage of Star Road.  You find a baby blue yoshi read to 
+    chow down on anything it can find.  Feed this yoshi and
+    maybe it can help you get through the Special Star Road.
+
+~
+407 262272 7
+D1
+~
+~
+0 -1 40715
+D3
+~
+~
+0 -1 40714
+Z0
+C-1
+S
+#40721
+{BOLD,YELLOW}Star Road 3{yel,bol}~
+{BOLD,WHITE}
+    A very small but deadly room lies here with spikey creatures
+    prawling around.  Don't be fooled by the look of this room.
+    You may get killed before you even know it.
+
+~
+407 262144 9
+D1
+~
+~
+0 -1 40717
+D3
+~
+~
+0 -1 40715
+Z0
+C-1
+S
+#40722
+{BOLD,YEL}Star Road 4{bold,yel}~
+{BOLD,WHITE}
+    In middle of the chaos you found a young, tiny red yoshi.
+    It seems to have very powerful legs even at its infant
+    stage.  Just think what it can do when it's full grown.
+
+~
+407 262144 1
+D0
+~
+~
+0 -1 40717
+D2
+~
+~
+0 -1 40718
+Z0
+C-1
+S
+#40723
+{BOLD,YEL}Star Road 5{bold,yel}~
+{BOLD,WHITE}
+    The final of the 5 star road rooms is rumored to have a
+    secret entrance to the special star road.  To find the
+    entrance you must look where others have not...
+
+~
+407 262144 9
+D0
+~
+heaven~
+3 -1 40724
+D1
+~
+~
+0 -1 40718
+D3
+~
+~
+0 -1 40713
+Z0
+C-1
+S
+#40724
+{BOLD,YELLOW}STAR ROAD!{bold,yellow}~
+{BOLD,WHITE}
+    Wow.  You have found the top secret entrance to {bold,white}{BOLD,YEL}Special Star Road.
+
+~
+407 270340 1
+D2
+~
+heaven~
+1 -1 40723
+Z0
+C-1
+S
+#40725
+{BOLD,YELLOW}STAR ROAD!{bold,yellow}~
+{BOLD,WHITE}
+    Wow.  You have found the top secret entrance to {bold,white}{BOLD,YEL}Special Star Road.
+
+~
+407 270340 1
+D1
+~
+~
+0 -1 40726
+Z0
+C-1
+S
+#40726
+{BOLD,YEL}Gnarly{bold,yel}~
+{BOLD,WHITE}
+    It's a wonder you have made it this far to the secretive
+    special star road.  In order to finish the rest you will
+    need to pull out all the tricks you have in your bag.
+
+~
+407 262144 1
+D1
+~
+~
+0 -1 40727
+D3
+~
+~
+0 -1 40725
+X256
+Z0
+C1
+S
+#40727
+{BOLD,YEL}Tubular{bold,yel}~
+
+    {BOLD,WHITE}The gravity seems to have become non-existant as
+    you start to float in mid air.  You feel like a
+    balloon as you float around and try to avoid the
+    evil creatures who are trying to pop you.  If you
+    make it through, you will be one step closer to
+    completing the {bold,white}{BOLD,YEL}Special Star Road.{bold,yel}
+
+~
+407 262272 9
+D1
+~
+~
+0 -1 40728
+D3
+~
+~
+0 -1 40726
+X256
+Z0
+C-1
+S
+#40728
+{BOLD,YELLOW}Way Cool{bold,yellow}~
+{BOLD,WHITE}
+    As you glide to the ground after feeling like a
+    balloon, you find a platform waiting to take you
+    further in {bold,white}{BOLD,YEL}Special Star Road{bold,yel}{BOLD,WHITE}, there are
+    many switches you will have to hit in order to 
+    continue.
+
+~
+407 262272 9
+D1
+~
+~
+0 -1 40729
+D3
+~
+~
+0 -1 40727
+X256
+Z0
+C2
+S
+#40729
+{BOLD,YELLOW}Awesome{bold,yellow}~
+
+    {BOLD,WHITE}You step off of the moving platform and onto
+    an icy area.  You try not to fall but the
+    ground is way too slippery.  In order to continue,
+    keeping your footing is as important as 
+    killing the enemies.  Better get out before
+    something spooky happens.
+
+~
+407 262144 1
+D1
+~
+~
+0 -1 40730
+D3
+~
+~
+0 -1 40728
+X256
+Z0
+C-1
+S
+#40730
+{BOLD,YELLOW}Groovy{bold,yellow}~
+{BOLD,WHITE}
+    Dejavu!  You found yourself in a place that looks
+    exactly like the entrance to Mario World.  You 
+    better get out before something spooky happens.
+
+~
+407 262272 1
+D1
+~
+~
+0 -1 40729
+D3
+~
+~
+0 -1 40731
+X268435712
+Z0
+C2
+S
+#40731
+{BOLD,YELLOW}Mondo{bold,yellow}~
+{BOLD,WHITE}
+    You come upon a very strange place where the water
+    level varies.  One second you find yourself on solid
+    land, the next, you are submerged in water.  You
+    gain hope as you find out this is the 6th level
+    of {bol,white}{BOLD,YELLOW}Special Star Road.
+
+~
+407 262272 6
+D1
+~
+~
+0 -1 40730
+D3
+~
+~
+0 -1 40732
+X256
+Z0
+C-1
+S
+#40732
+{BOLD,YELLOW}Outrageous{bold,yellow}~
+{BOLD,WHITE}
+    You are now at perhaps the hardest place in all of Mario World.
+    You see so many different creatures who are just ready to rip
+    you apart.  In addition you can't find any yoshi's here to 
+    assist you.  You're on your own now, but if you have made 
+    it this far, I'm sure you won't have any problems with the
+    mobs in this place.
+
+~
+407 262336 3
+D1
+~
+~
+0 -1 40731
+D3
+~
+~
+0 -1 40733
+M50
+X268435712
+Z0
+C2
+S
+#40733
+{BOLD,YELLOW}Funky{bold,yellow}~
+{BOLD,WHITE}
+    You are a super player!  You have completed the
+    daunting task of finishing {BOLD,YELLOW}Special Star Road{bold,yellow}{BOLD,WHITE}.  Now
+    it's time to be rewarded.
+
+~
+407 262144 1
+D1
+~
+~
+0 -1 40732
+D3
+~
+~
+0 -1 40734
+X256
+Z0
+C-1
+S
+#40734
+{BOLD,YELLOW}STAR ROAD!{bold,yellow}~
+{BOLD,WHITE}
+    You have earned your way back to the real world, just
+    enter star and you'll be at Mallins.
+
+~
+407 270340 1
+D1
+~
+~
+0 -1 40733
+Z0
+C-1
+S
+#40735
+{BOLD,GREEN}Heart of the Forest{bold,green}~
+
+    {BOLD,WHITE}Finally, you've made it to the center of the Forest of Illusions
+    of the infamous Mario World.  You see corpses of many fallen warriors here
+    who fought bravely.  Just hope you don't make the same mistakes.
+
+{bold,white}
+~
+407 278592 3
+D0
+~
+~
+0 -1 40675
+Z0
+C-1
+S
+$~

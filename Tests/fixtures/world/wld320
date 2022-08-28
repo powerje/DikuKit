@@ -1,0 +1,912 @@
+#32000
+{BOLD,WHITE}Before the Ruins of Valorn{b}~
+{C}
+   These once great gates stood here to protect from invaders and the 
+   beasts of the night, now they are dilapidated and entwined with 
+   vines, hardly protection from the outside world now. You wonder 
+   what things are hidden behind these gates; and whether it be 
+   treasure or guardians of the damned. Just beyond the gates you can 
+   see the entryway to the castle. A sign is on the gates, barely 
+   visible.
+{b}
+~
+320 4 1
+D0
+~
+~
+0 -1 32001
+D2
+~
+~
+0 -1 5537
+Z3
+C-1
+S
+#32001
+{BOLD,WHITE}At the Gates{b}~
+{C}
+   These once great gates stood here to protect from invaders and the 
+   beasts of the night, now they are dilapidated and entwined with 
+   vines, hardly protection from the outside world now. You wonder 
+   what things are hidden behind these gates, and whether it be 
+   treasure, or guardians of the damned. Just beyond the gates you can 
+   see the entryway to the castle. A sign is on the gates, barely 
+   visible.
+{c}
+~
+320 67109120 1
+D0
+~
+~
+0 -1 32002
+D2
+~
+~
+0 -1 32000
+E
+sign~
+{BOLD,RED}Beware all that enter... Death awaits beneath the ruins....{b}
+~
+T32000
+Z3
+C1
+S
+#32002
+{BOLD,WHITE}Entryway to the Castle{b}~
+{C}
+   A large wooden door, barely scarred by the passing of time, blocks 
+   your entrance into the castle. The stones around the door have 
+   started to crumble and vines have covered them. The entryway is 
+   guarded by two fierce looking stone gargoyles that are worn with 
+   age. They seem so life like, that look as if they are breathing....
+{b}
+~
+320 67109120 1
+D0
+~
+~
+0 -1 32003
+D2
+~
+~
+0 -1 32001
+T32000
+Z3
+C1
+S
+#32003
+{BOLD,WHITE}Grand Hallway{b}~
+{C}
+   This was once the grand hallway of the castle. Its' peak looks to be
+   nearly twenty feet. The once great tapestries that covered the 
+   walls are now decayed and crumbling from age. High above, light 
+   enters through large stained glass windows. The windows seem to depict
+   the great battles the castle has seen.
+{b}
+~
+320 67109120 1
+D0
+~
+~
+0 -1 32004
+D2
+~
+~
+0 -1 32002
+D3
+~
+~
+0 -1 32021
+T32000
+Z3
+C1
+S
+#32004
+{BOLD,WHITE}The Spiral Staircase{b}~
+{C}
+    You stand before a beautiful large spiral staircase. Carved statues of 
+    knights in armour, kings on thrones, and battles of long forgotten line 
+    the staircase as it winds upward to the second floor. A large stained 
+    glass window lets sunlight through in a dazzling array of colors. 
+{b}
+~
+320 67109120 1
+D1
+~
+~
+0 -1 32014
+D2
+~
+~
+0 -1 32003
+D3
+~
+~
+0 -1 32028
+D4
+~
+~
+0 -1 32005
+T32000
+Z3
+C1
+S
+#32005
+{WHI,BO}A Hallway{bo}~
+{C}
+    The Hallway is lined with a tattered tapestry of
+    magnificent proportions.  The once masterful artwork
+    on the tapestry has been smudged with time and the
+    corners have been unraveled by time.
+{b}
+~
+320 67109124 1
+D0
+~
+~
+0 -1 32006
+D5
+~
+~
+0 -1 32004
+T32000
+Z3
+C1
+S
+#32006
+{WHI,BO}A Hallway{bo}~
+{C}
+    The Hallway is lined with a tattered tapestry of
+    magnificent proportions.  The once masterful artwork
+    on the tapestry has been smudged with time and the
+    corners have been unraveled by time.
+{b}
+~
+320 67109120 1
+D0
+~
+~
+0 -1 32009
+D1
+~
+~
+0 -1 32007
+D2
+~
+~
+0 -1 32005
+D3
+~
+~
+0 -1 32008
+T32000
+Z3
+C1
+S
+#32007
+{BOLD,WHITE}A bedroom{b}~
+{b}
+   This place looks to be a bedroom, no different from any other bed room.
+   It has a bed, a dresser, and a night stand. There are no windows, and 
+   only one door. A small candle on the wall flickers to and fro from a 
+   slight breeze.
+{C}
+~
+320 67109120 1
+D3
+~
+~
+0 -1 32006
+T32000
+Z3
+C1
+S
+#32008
+{BOLD,WHITE}A bedroom{b}~
+{b}
+   This place looks to be a bedroom, no different from any other bed room.
+   It has a bed, a dresser, and a night stand. There are no windows, and 
+   only one door. A small candle on the wall flickers to and fro from a 
+   slight breeze.
+{C}
+~
+320 256 1
+D1
+~
+~
+0 -1 32006
+T32000
+Z3
+C1
+S
+#32009
+{WHI,BO}A Hallway{bo}~
+{C}
+    The Hallway is lined with a tattered tapestry of
+    magnificent proportions.  The once masterful artwork
+    on the tapestry has been smudged with time and the
+    corners have been unraveled by time.
+{b}
+~
+320 67109120 1
+D0
+~
+door~
+6 32000 32012
+D1
+~
+~
+0 -1 32010
+D2
+~
+~
+0 -1 32006
+D3
+~
+~
+0 -1 32011
+T32000
+Z0
+C1
+S
+#32010
+{BOLD,WHITE}A bedroom{b}~
+{b}
+   This place looks to be a bedroom, no different from any other bed room.
+   It has a bed, a dresser, and a night stand. There are no windows, and 
+   only one door. A small candle on the wall flickers to and fro from a 
+   slight breeze.
+{C}
+~
+320 67109120 1
+D3
+~
+~
+0 -1 32009
+T32000
+Z0
+C1
+S
+#32011
+{BOLD,WHITE}A bedroom{b}~
+{b}
+   This place looks to be a bedroom, no different from any other bed room.
+   It has a bed, a dresser, and a night stand. There are no windows, and 
+   only one door. A small candle on the wall flickers to and fro from a 
+   slight breeze.
+{C}
+~
+320 67109120 1
+D1
+~
+~
+0 -1 32009
+T32000
+Z0
+C1
+S
+#32012
+{BOLD,WHITE}The Royal Bedroom{b}~
+{C}
+   This is where the king and queen must of slept. The walls are covered 
+   with tapestries and paintings. A large covered bed sits along the far
+   wall. A large chandelier made of gold and silver hangs above the room. 
+   The river of time has not touched this room.
+{b}
+~
+320 67109120 1
+D2
+~
+door~
+1 -1 32009
+T32000
+Z0
+C1
+S
+#32013
+DELETED~
+~
+320 67109120 1
+T32000
+Z0
+C1
+S
+#32014
+{BOLD,WHITE}Before the Throne Room{b}~
+{C}
+   This hallway is decorated with paintings of the past kings and queens of 
+   Valorn. A long red carpet leads north to what looks like a throne room. 
+   While to the west you can see a large white spiral staircase. On the 
+   wall to the east is a suit of black shining armor.
+{b}
+~
+320 67109120 1
+D0
+~
+door~
+1 -1 32015
+D3
+~
+~
+0 -1 32004
+T32000
+Z0
+C1
+S
+#32015
+{BOLD,WHITE}The Throne Room{b}~
+{C}
+   Before you is a large throne made out of what looks like white ivory. It 
+   looks as if magic bound this throne toghether because it has no seems or 
+   mark on it, as if it was carved out of one piece of ivory. This room has
+   no windows or lights, yet you are surround by light. Everything in the
+   room seems to have a glow about it, even your equipment.
+{b}
+~
+320 67109120 1
+D0
+~
+throne~
+4 32002 32016
+D2
+~
+door~
+1 -1 32014
+T32000
+Z0
+C1
+S
+#32016
+{BOLD,BLACK}A Hidden Passageway{b}~
+{C}
+   You are in a small passage behind the throne. The passage leads north 
+   downward into the dark, and south into the throne room. It is deathly 
+   quiet around, you can hardly hear your foot steps on the stone floor. 
+   You wonder what lurks in the shadows around you.
+{c}
+~
+320 67109120 1
+D0
+~
+~
+0 -1 32017
+D2
+~
+throne~
+1 -1 32015
+T32000
+Z0
+C1
+S
+#32017
+{BOLD,BLACK}A Stairway leading downward{b}~
+{BOLD,BLACK}
+   You are on top of a staircase, it leads downward into the dark unknown and south 
+   to the throne room. You wonder what the darkness downward has in store for you,
+   weather it be treasure or monsters.
+{b}
+~
+320 67109120 1
+D2
+~
+~
+0 -1 32016
+D5
+~
+~
+0 -1 32018
+T32000
+Z0
+C1
+S
+#32018
+{BOLD,BLACK}Slip in the Dark{b}~
+   {BOLD,WHITE}*SLIP*{b}
+                    {BOLD,BLACK}*POW*
+                                 {RED}Oh Crap.........{b}
+{BOLD,WHITE}        Your slip on the wet stairs and fall........{b}
+~
+320 68157696 1
+D4
+~
+~
+0 -1 32017
+D5
+~
+~
+0 -1 32019
+T32000
+Z0
+C1
+S
+#32019
+{BOLD,BLACK}At the bottom of the Stairway{b}~
+{C}
+   You look around confused from you fall, trying to get your bearings.
+   The ceiling above you is crumbling from the constant flow of dripping 
+   water. It is so musty around you it is nearly choking you. To the west
+   you can barely make out the outline of a stone door half-way ajar. 
+{b}
+~
+320 67109120 1
+D3
+~
+~
+0 -1 32020
+D4
+~
+~
+0 -1 32018
+T32000
+Z0
+C1
+S
+#32020
+{BOLD,WHITE}An Altar to the Gods{b}~
+{BOLD,WHITE}
+   Entering the room you are surround by a bright light. As your eyes 
+   adjust you focus in on a small shrine that is emitting the bright light. 
+   It is a simple white shrine with a bowl on top of it. A slight humming 
+   sound is coming from the shrine itself. Is this the place where the mighty
+   hero is bestowed his powers from the gods?
+{b}
+~
+320 67109120 1
+D1
+~
+~
+0 -1 32019
+T32000
+Z0
+C1
+S
+#32021
+{BOLD,WHITE}A Passageway{b}~
+    {CYAN} 
+   As darkness surrounds you, so does the cold. The only light here is the
+   light which you give off. This is a small passageway, that runs to the 
+   east and west. The walls are covered in moss, because of the dampness of
+   them. As you move about your footsteps echo down the passageway, which 
+   is the only sound you hear. 
+   
+~
+320 67109120 1
+D1
+~
+~
+0 -1 32003
+D3
+~
+~
+0 -1 32022
+T32000
+Z0
+C1
+S
+#32022
+{BOLD,WHITE}A Passageway{b}~
+    {CYAN} 
+   As darkness surrounds you, so does the cold. The only light here is the
+   light which you give off. This is a small passageway, that runs to the 
+   east and west. The walls are covered in moss, because of the dampness of
+   them. As you move about your footsteps echo down the passageway, which 
+   is the only sound you hear. 
+   
+~
+320 67109120 1
+D0
+~
+~
+0 -1 32025
+D1
+~
+~
+0 -1 32021
+D2
+~
+~
+0 -1 32023
+T32000
+Z0
+C1
+S
+#32023
+{BOLD,RED}A Dangerous Looking Passageway{b}~
+{BOLD,BLACK}
+   As you walk in to the room the floor gives away and you fall........
+         and fall........
+          and fall........
+            and fall........
+ {C}
+~
+320 67109120 1
+D0
+~
+~
+0 -1 32022
+D5
+~
+~
+0 -1 32024
+T32000
+Z0
+C1
+S
+#32024
+{BOLD,BLACK}Death...{b}~
+{BOLD,RED} Opps your dead...........{b}
+~
+320 67109120 1
+D4
+~
+~
+0 -1 32023
+T32000
+Z0
+C1
+S
+#32025
+{BOLD,WHITE}A Passageway{b}~
+    {CYAN} 
+   As darkness surrounds you, so does the cold. The only light here is the
+   light which you give off. This is a small passageway, that runs to the 
+   east and west. The walls are covered in moss, because of the dampness of
+   them. As you move about your footsteps echo down the passageway, which 
+   is the only sound you hear. 
+   
+~
+320 67109120 1
+D0
+~
+~
+0 -1 32026
+D2
+~
+~
+0 -1 32022
+T32000
+Z0
+C1
+S
+#32026
+{BOLD,WHITE}Before the Priest's Room{b}~
+{C}  
+   The only thing in the room is a small shrine decorated with candles, 
+   and pictures. The flickering light from the candles makes your
+   shadows look as if they are alive and breathing. There is a large 
+   door with a cross on it to the north, behind it you can here the 
+   chanting of a muffled voice. As you look around, you notice there 
+   is a glowing light coming from under the door. 
+{b}
+~
+320 67109120 1
+D0
+~
+door~
+5 32001 32027
+D2
+~
+~
+0 -1 32025
+T32000
+Z0
+C1
+S
+#32027
+{BOLD,WHITE}The Priest's Room{b}~
+{C} 
+   This is a small room, in the center of it is a desk. The walls are 
+   decorated with crosses of all sorts and pictures of some guy named 
+   Jesus. On the desk there is a large book, entitled "{BOL,Y}The Holy Bible{b,C}", 
+   wonder what it could be about?
+{b}
+~
+320 67109120 1
+D2
+~
+door~
+1 -1 32026
+T32000
+Z0
+C1
+S
+#32028
+{BOLD,BLACK}A Dark Hallway{b}~
+{C}  
+    The darkness is so thick here that even with your light, you can 
+    hardly see your hands in front of you face. The air is so damp it 
+    is almost a fog and your body is covered in a gentle cool mist.
+    On the outermost of your vision you think you can see something moving,
+    is it just you imagination?
+{b}
+~
+320 67109120 1
+D1
+~
+~
+0 -1 32004
+D3
+~
+~
+0 -1 32029
+T32000
+Z0
+C1
+S
+#32029
+{BOLD,BLACK}A Dark Hallway{b}~
+{C}  
+    The darkness is so thick here that even with your light, you can 
+    hardly see your hands in front of you face. The air is so damp it 
+    is almost a fog and your body is covered in a gentle cool mist.
+    On the outermost of your vision you think you can see something moving,
+    is it just you imagination?
+{b}
+~
+320 67109120 1
+D1
+~
+~
+0 -1 32028
+D3
+~
+~
+0 -1 32030
+T32000
+Z0
+C1
+S
+#32030
+{BOLD,BLACK}A Dark Hallway{b}~
+{C}  
+    The darkness is so thick here that even with your light, you can 
+    hardly see your hands in front of you face. The air is so damp it 
+    is almost a fog and your body is covered in a gentle cool mist.
+    On the outermost of your vision you think you can see something moving,
+    is it just you imagination?
+{b}
+~
+320 67109120 1
+D1
+~
+~
+0 -1 32029
+D2
+~
+door~
+6 32003 32031
+T32000
+Z0
+C1
+S
+#32031
+{BOLD,WHITE}Before a Great Fountain{b}~
+{C}
+   A beautiful large fountain stand in the middle of the room. Its white
+   marble still shines brilliant white, even tho its been here for hundreds
+   of years, as if its been protected by the gods. The fountain has statues
+   of three people on it, one a baby, another a teenager, and the last a
+   old man. The details of the fountain are so good, it almost looks as if 
+   the baby is about to cry.
+{c}  
+~
+320 67109120 1
+D0
+~
+door~
+1 -1 32030
+T32000
+Z0
+C1
+S
+#32032
+{C}Along the Castle Wall{b}~
+You are standing in nowhere !!!!
+~
+320 262144 1
+D1
+~
+~
+0 -1 32033
+Z0
+C-1
+S
+#32033
+{C}Along the Castle Wall{b}~
+You are standing in nowhere !!!!
+~
+320 1048576 1
+D5
+~
+~
+0 -1 32034
+Z0
+C-1
+S
+#32034
+{BOLD,RED}F{Y}A{G}L{BLU}L{C}I{BLACK}N{MAG}G{b}~
+{BOLD}
+ {R}F   F   F   F   F   F   F   F   F   F   F
+  {Y}A   A   A   A   A   A   A   A   A   A   A
+   {G}L   L   L   L   L   L   L   L   L   L   L
+    {BLU}L   L   L   L   L   L   L   L   L   L   L
+     {C}I   I   I   I   I   I   I   I   I   I   I
+      {BLACK}N   N   N   N   N   N   N   N   N   N   N
+       {MAG}G   G   G   G   G   G   G   G   G   G   G
+~
+320 1310720 1
+D0
+~
+~
+0 -1 32035
+D1
+~
+~
+0 -1 32035
+D2
+~
+~
+0 -1 32036
+D3
+~
+~
+0 -1 32035
+D4
+~
+~
+0 -1 32035
+D5
+~
+~
+0 -1 32035
+Z0
+C-1
+S
+#32035
+{BOLD,RED}F{Y}A{G}L{BLU}L{C}I{BLACK}N{MAG}G{b}~
+{BOLD}
+ {R}F   F   F   F   F   F   F   F   F   F   F
+  {Y}A   A   A   A   A   A   A   A   A   A   A
+   {G}L   L   L   L   L   L   L   L   L   L   L
+    {BLU}L   L   L   L   L   L   L   L   L   L   L
+     {C}I   I   I   I   I   I   I   I   I   I   I
+      {BLACK}N   N   N   N   N   N   N   N   N   N   N
+       {MAG}G   G   G   G   G   G   G   G   G   G   G
+~
+320 1310720 1
+D0
+~
+~
+0 -1 32036
+D1
+~
+~
+0 -1 32034
+D2
+~
+~
+0 -1 32034
+D3
+~
+~
+0 -1 32034
+D4
+~
+~
+0 -1 32034
+D5
+~
+~
+0 -1 32037
+Z0
+C-1
+S
+#32036
+{BOLD,RED}F{Y}A{G}L{BLU}L{C}I{BLACK}N{MAG}G{b}~
+{BOLD}
+ {R}F   F   F   F   F   F   F   F   F   F   F
+  {Y}A   A   A   A   A   A   A   A   A   A   A
+   {G}L   L   L   L   L   L   L   L   L   L   L
+    {BLU}L   L   L   L   L   L   L   L   L   L   L
+     {C}I   I   I   I   I   I   I   I   I   I   I
+      {BLACK}N   N   N   N   N   N   N   N   N   N   N
+       {MAG}G   G   G   G   G   G   G   G   G   G   G
+~
+320 262144 1
+D0
+~
+~
+0 -1 32034
+D2
+~
+~
+0 -1 32035
+Z0
+C-1
+S
+#32037
+{BOLD,BLACK}Somewhere beneath the Castle{b}~
+You are standing in nowhere !!!!
+~
+320 262144 1
+D0
+~
+~
+0 -1 32038
+Z0
+C-1
+S
+#32038
+{BOLD,BLACK}A Long Narrow Tunnel{b}~
+You are standing in nowhere !!!!
+~
+320 262144 1
+D0
+~
+~
+0 -1 32039
+D2
+~
+~
+0 -1 32037
+Z0
+C2
+S
+#32039
+{BOLD,BLACK}A Long Narrow Tunnel{b}~
+You are standing in nowhere !!!!
+~
+320 0 1
+D0
+~
+~
+0 -1 32040
+D2
+~
+~
+0 -1 32038
+Z0
+C2
+S
+#32040
+{BOLD,BLACK}A Small Room{b}~
+You are standing in nowhere !!!!
+~
+320 262144 1
+D2
+~
+~
+0 -1 32039
+D5
+~
+~
+0 -1 32041
+Z0
+C2
+S
+#32041
+{BOLD,BLACK}Beneath The Evil Archmages Room{b}~
+You are standing in nowhere !!!!
+~
+320 262144 1
+D4
+~
+~
+0 -1 32040
+D5
+~
+~
+0 -1 32042
+Z0
+C-1
+S
+#32042
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+320 4243701 10
+X1230
+Z0
+C-1
+S
+$~

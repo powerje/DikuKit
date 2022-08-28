@@ -1,0 +1,1250 @@
+#9500
+A path to the Tower of Doom~
+{Y}
+  You are standing on a path leadin to the Tower of Doom.
+  It is strangely quiet around here. No birds, no wind
+  and no signs of life.
+{Y}
+  To the North, you see a {BL,BO}dark tower{bl,bo}{Y} in the distance.
+{y}
+~
+95 4 1
+D0
+~
+~
+0 -1 9501
+D2
+~
+~
+0 -1 6100
+Z3
+C2
+S
+#9501
+A path to the Tower of Doom~
+{Y}
+  As you move closer to the {BL,BO}tower{bl,bo}{Y},  you can see some
+  shadows in the windows of the tower. It sends a  
+  chill down your spine as you glare upwards and see
+  a tower of at least fifteen floors. The walls are
+  very dark and covered in a {GR}mossy{Y} substance.
+{y}
+~
+95 4 3
+D0
+~
+~
+0 -1 9502
+D2
+~
+~
+0 -1 9500
+Z3
+C-1
+S
+#9502
+The entrance of the Tower of Doom~
+{Y}
+The {BL,BO}Tower of Doom{bl,bo}{Y} looks very old. You have a 
+chilling feeling as you look at the cold stone
+building. You see an iron gate in front of the 
+tower.
+{Y}
+A {R,BO}sign{r,bo}{Y} is posted on the wall next to the tower
+gate.
+{y}
+~
+95 33 1
+D0
+The rusty old gate prevents the unworthy from entering.
+
+~
+gate~
+2 9502 9503
+D2
+~
+~
+0 -1 9501
+E
+sign~
+{Y}
+  The {BL,BO}Tower of Doom{bl,bo}{Y} is a quest area. It is recomended that only adventurers
+  above level 45 attempt to challenge the tower.  Players should group together
+  and be on the alert. The {BL,BO}Tower of Doom{bl,bo}{Y} is very powerful, even immortals can do
+  nothing to assist you once you are inside. 
+{R,BO}
+  WARNING: The tower should only be attempted in groups!
+{r,bo}{Y}
+  After you complete the quest, give the magical paper to a God or higher immort.
+{BLU,BO}
+  Good Luck!
+{blu,bo}
+~
+Z3
+C2
+S
+#9503
+First level of Tower of Doom~
+{Y}
+  You are standing on the ground level of the {BL,BO}tower
+  of doom{bl,bo}{Y} and sense a chill creeping slowly down your
+  spine. You don't like it at all and want to run 
+  quickly from this place. As you look upward, you
+  notice some stairs leading to the second level of
+  the tower. 
+{y}
+~
+95 37 1
+D0
+~
+~
+0 0 9505
+D1
+~
+~
+0 0 9504
+D2
+~
+gate~
+1 -1 9502
+D3
+~
+~
+0 0 9506
+D4
+~
+~
+0 -1 9507
+Z3
+C2
+S
+#9504
+East wing~
+{BL,BO}
+  You look around and see some strange markings on 
+  the wall that look like a foreign language. Though
+  you study them carefully, you are unable to 
+  understand them.
+{bl,bo}
+~
+95 33 1
+D3
+~
+~
+0 0 9503
+Z3
+C2
+S
+#9505
+North wing~
+{BL,BO}
+  The place is full of dust. A small dim light coming
+  from a window of the north wall. A voice inside your
+  head tells you to go back and leave this tower as soon
+  as possible.
+{bl,bo}
+~
+95 33 1
+D2
+~
+~
+0 0 9503
+Z3
+C2
+S
+#9506
+East wing~
+{BL,BO}
+  You look around and see some strange markings on 
+  the wall that look like a foreign language. Though
+  you study them carefully, you are unable to 
+  understand them.
+{bl,bo}
+~
+95 33 1
+D1
+~
+~
+0 0 9503
+Z3
+C2
+S
+#9507
+Second level of Tower of Doom~
+{C}
+  You are standing on the second level of the {BL,BO}tower 
+  of doom{bl,bo}{C}. You hear the sound of water dripping down
+  from the ceiling. NO! It's not water! It's {R}blood{C}! Your
+  heart begins to pump faster. There are stairs leading 
+  down to the ground level of the tower. Turn back! This 
+  may be the last chance...
+{c}
+~
+95 37 1
+D0
+~
+~
+0 0 9508
+D5
+~
+~
+0 0 9503
+Z3
+C2
+S
+#9508
+Second level of Tower of Doom~
+{C}
+  You are standing on the second level of the {BL,BO}tower 
+  of doom{bl,bo}{C}. It is dark and wet in here. There's no 
+  window to look out. You hear footsteps coming from
+  above. You want to leave this place quick. There are
+  stairs leading up to the third level of the tower. 
+{c}
+~
+95 33 1
+D2
+~
+~
+0 0 9507
+D4
+~
+~
+0 0 9509
+Z3
+C2
+S
+#9509
+Third level of Tower of Doom~
+{C}
+  You are standing on the third level of the {BL,BO}tower 
+  of doom{bl,bo}{C}. There are stairs leading down to the ground
+  level of the tower. 
+{Y}  
+  You feel lucky to have come this far.
+{y}
+~
+95 33 1
+D3
+~
+~
+0 0 9510
+D5
+~
+~
+0 0 9508
+Z3
+C2
+S
+#9510
+Third level of Tower of Doom~
+{C} 
+  You are standing on the third level of the {BL,BO}tower of 
+  doom{bl,bo}{C}. You see bones scattered all over the place. The 
+  voice inside your head says, "It's not too late to
+  turn back now."
+{C}
+  The stairs lead up. 
+{c}
+~
+95 33 1
+D1
+~
+~
+0 0 9509
+D4
+~
+cover~
+1 14 9511
+Z3
+C2
+S
+#9511
+Fourth level of the Tower of Doom~
+{BL,BO}
+  The room is extremely dark. Your light doesn't seem 
+  to help much. A voice says, "{bl,bo}{R}Go home travellers. It 
+  is still not too late to turn back. The evils inside
+  this tower are too great. Greater than you can  
+  imagine.{BL,BO}" 
+{bl,bo}
+~
+95 33 1
+D2
+~
+~
+0 0 9513
+D5
+~
+cover~
+1 0 9510
+Z3
+C2
+S
+#9512
+Fourth level of the Tower of Doom~
+{BL,BO}
+  The scent of fresh {R}blood{BL} taints the chilled air.
+  With no windows in sight the darkness has over-
+  come the room. All you feel is your hands clenched
+  tightly around your weapon and the hairs on your
+  body standing on end.
+{bl,bo}
+~
+95 33 1
+D3
+~
+~
+0 0 9513
+Z3
+C2
+S
+#9513
+Fourth level of the Tower of Doom~
+{BL,BO}
+  Through the darkness you sense that this room is 
+  larger than the last. Air seems to flow with greater
+  ease carrying with it the promise of death. With a 
+  hint of light peeking through the shadows, you see
+  bones scattered about the floor and more of that 
+  mysterious writing you found on the first level.
+{bl,bo}
+~
+95 33 1
+D0
+~
+~
+0 0 9511
+D1
+~
+~
+0 0 9512
+D4
+~
+~
+0 0 9514
+E
+writings writing wall~
+"Only the wise and the brave will survive"
+~
+Z3
+C2
+S
+#9514
+Fifth level of Tower of Doom~
+{BL,BO}
+  The room is extremely dark and you can hardly see 
+  anything with your light. You no longer hear voices
+  inside your head. However, that doesn't give your 
+  much relief. You feel as if you have been abandoned. 
+{bl,bo}
+~
+95 33 1
+D1
+~
+~
+0 0 9515
+D5
+~
+~
+0 0 9513
+Z3
+C2
+S
+#9515
+Fifth level of the Tower of Doom~
+{BL,BO}
+  The scent of fresh {R}blood{BL} taints the chilled air.
+  With no windows in sight the darkness has over-
+  come the room. All you feel is your hands clenched
+  tightly around your weapon and the hairs on your
+  body standing on end.
+{bl,bo}
+~
+95 37 1
+D3
+~
+~
+0 0 9514
+D4
+~
+~
+0 0 9516
+Z3
+C2
+S
+#9516
+Sixth level of Tower of Doom~
+{BL,BO}
+  Here in the dark your mind turns to things of the
+  light. If you ever make it out alive, you promise 
+  yourself to be a valiant servant to those in this
+  world that they may never feel the sadness, pain
+  and fear that this darkness has brought upon you.
+{bl,bo}
+~
+95 33 1
+D0
+~
+~
+0 0 9517
+D5
+~
+~
+0 0 9515
+Z3
+C2
+S
+#9517
+Sixth level of Tower of Doom~
+{BL,BO}
+  The cold stone steps beneath your feet create
+  an echo. You try to step softer so that the
+  creatures you've been below and the ones you
+  have heard from above don't find you before 
+  you find them. You move cautiously up the
+  neverending stair uncertain of what lies ahead.
+{bl,bo} 
+~
+95 33 1
+D2
+~
+~
+0 0 9516
+D4
+~
+~
+0 0 9518
+Z3
+C2
+S
+#9518
+Seventh level of the Tower of Doom~
+{BL,BO}
+  The scent of fresh {R}blood{BL} taints the chilled air.
+  With no windows in sight the darkness has over-
+  come the room. All you feel is your hands clenched
+  tightly around your weapon and the hairs on your
+  body standing on end.
+{bl,bo}
+~
+95 33 1
+D3
+~
+~
+0 0 9520
+D5
+~
+~
+0 0 9517
+Z3
+C2
+S
+#9519
+Seventh level of Tower of Doom~
+{Y}
+  A small window on the south wall sheds some light
+  on the room. You notice more of the writings you've
+  seen before. Looking over them again, you still
+  can't make sense of them. However, you note that
+  unlike before these are written in {R}blood{Y}.
+{y}
+~
+95 33 1
+D0
+~
+~
+0 0 9520
+E
+writings writing wall~
+The writing is not very clear. All you can make out of it is
+"Kill the lord, you will be ......"
+~
+Z3
+C2
+S
+#9520
+Seventh level of Tower of Doom~
+{BL,BO}
+  The darkness consumes you once again. Any hope you 
+  felt in the light is pushed aside with determination
+  to end this madness. Feeling around you note a small
+  {bl,bo}{C}cover{BL,BO} above your head.
+{bl,bo}
+~
+95 33 1
+D1
+~
+~
+0 0 9518
+D2
+~
+~
+0 0 9519
+D4
+You see a rusty hatch with a broken latch.
+
+~
+cover hatch~
+3 15 9521
+Z3
+C2
+S
+#9521
+Eighth level of Tower of Doom~
+{BL,BO}
+  As you close the {bl,bo}{C}cover{BL,BO} behind, it slowly disapears 
+  into the ground. It leaves no hole on the ground.
+  There is NO turning back now.
+{bl,bo}
+~
+95 33 1
+D2
+~
+~
+0 0 9522
+Z3
+C2
+S
+#9522
+Eighth level of Tower of Doom~
+{BL,BO}
+  Having come this far, you recount all that has
+  happened. What lies ahead no longer worries you.
+  Eleven floors up, you take a deep breath and
+  press forward through the cold and dark.
+{bl,bo}
+~
+95 33 1
+D0
+~
+~
+0 0 9521
+D4
+~
+~
+0 0 9523
+Z3
+C2
+S
+#9523
+Ninth level of the Tower of Doom~
+{BL,BO}
+  The scent of fresh {R}blood{BL} taints the chilled air.
+  With no windows in sight the darkness has over-
+  come the room. All you feel is your hands clenched
+  tightly around your weapon and the hairs on your
+  body standing on end.
+{bl,bo}
+~
+95 33 1
+D1
+~
+~
+0 0 9525
+D5
+~
+~
+0 0 9522
+Z3
+C2
+S
+#9524
+Ninth level of Tower of Doom~
+{BL,BO}
+  A stream of light peeks through the window on 
+  the north wall, and you feel a little warmer
+  here. Suddenly, the voice inside your head 
+  reawakens and says,"{bl,bo}{R}Fight Smart. Save your
+  strength for the last battle{BL,BO}."
+{bl,bo}
+~
+95 33 1
+D2
+~
+~
+0 0 9525
+Z3
+C2
+S
+#9525
+Ninth level of Tower of Doom~
+{BL,BO}
+  Ah! Steps leading up. Perhaps, the mysteries of 
+  the tower will be revealed: the strange writings,
+  the horrific sounds, the darkness, the lifeless-
+  ness, the bloodshed. 
+{bl,bo}
+~
+95 33 1
+D0
+Somehow, you feel you should not go there. You sense danger.
+~
+~
+0 0 9524
+D3
+~
+~
+0 0 9523
+D4
+~
+~
+0 0 9526
+Z3
+C2
+S
+#9526
+Tenth level of the Tower of Doom~
+{BL,BO}
+  Dark and lifeless like all the rest, this room
+  has an eerie feel. Your skin crawls and your
+  body shivers. It is cold, dark and the stench
+  of rotting flesh and mildew fills each room.
+{bl,bo}
+~
+95 33 1
+D0
+~
+~
+0 0 9527
+D5
+~
+~
+0 0 9525
+Z3
+C2
+S
+#9527
+Tenth level of  Tower of Doom~
+{Y}
+  A crack in the tower wall allows a single beam 
+  of light to peek through. The beam rests on the
+  opposing wall lighting the gruesome sceen. The
+  pentagram in the center of the room is mapped
+  out in bones and blood while more of the strange
+  symbols appear on the wall.
+{y}
+~
+95 37 1
+D2
+~
+~
+0 0 9526
+D4
+~
+~
+0 0 9528
+Z3
+C2
+S
+#9528
+Eleventh level of Tower of Doom~
+{BL,BO}
+  A chill sweeps through the room numbing the little
+  sensation you had left in your fingers. You can't
+  feel your fist clasped around your weapon any longer.
+  The hairs on the back of your neck stand up and
+  your breath is heavy. The air you draw in freezes
+  your lungs. There is no light. There are no shadows.
+  Yet, you don't feel as if you are alone here.
+{bl,bo}
+~
+95 33 1
+D3
+~
+~
+0 0 9529
+D5
+~
+~
+0 0 9527
+Z3
+C2
+S
+#9529
+Eleventh level of Tower of Doom~
+{BL,BO}
+  Each breath takes great effort as you make 
+  your way through the tower. At first, intrigue
+  kept you motivated to move on. Then, fear had
+  filled your body as you pushed your way through
+  cobwebs and corpses. Now, sheer determination
+  in the face of death compels you to complete
+  the task at hand:{M} YOU MUST REACH THE TOP! 
+{m}
+~
+95 33 1
+D1
+~
+~
+0 0 9528
+D4
+~
+~
+0 0 9530
+Z3
+C2
+S
+#9530
+Twelfth level of Tower of Doom~
+{BL,BO}
+  The presence of evil surrounds you. The darkness 
+  seems to s{bl,bo}{M}w{BL,BO}i{bl,bo}{M}r{BL,BO}l around you making you colder and
+  colder. Fastening the clasps on your cloak to 
+  keep what little body heat you have left in, you
+  survery the room and deside there is nothing
+  you can do but move forward.
+{bl,bo}
+~
+95 33 1
+D0
+Somehow, you feel you should not go there. You sense danger.
+~
+~
+0 0 9531
+D2
+~
+ ~
+0 0 9532
+D5
+~
+~
+0 0 9529
+Z3
+C2
+S
+#9531
+Twelfth level of Tower of Doom~
+{BL,BO}
+  The darkness eases and light seeps into the room.
+  You feel a little warmer. The voice inside your
+  head states the obvious, "{bl,bo}{R}Most of the doors here
+  have been locked for a long time and not ONE soul
+  knows where the keys are{BL,BO}."
+{bl,bo}
+~
+95 33 1
+D2
+~
+~
+0 0 9530
+Z3
+C2
+S
+#9532
+Twelfth level of Tower of Doom~
+{BL,BO}
+  Cautiously navigating the room, you discover a
+  small ladder propped up against the wall. Stepping 
+  up and reaching over your head to see why it might
+  be there you discover a small {bl,bo}{C}door{BL,BO}.
+{bl,bo}
+~
+95 33 1
+D0
+~
+~
+0 0 9530
+D4
+~
+door~
+1 9532 9533
+Z3
+C2
+S
+#9533
+Thirteenth level of Tower of Doom~
+{BL,BO}
+  The altitude here is very high. The air is very 
+  thin. You notice your breathing is getting heavier
+  and heavier.
+{bl,bo}
+~
+95 33 1
+D1
+~
+~
+0 0 9534
+D5
+~
+door~
+1 9532 9532
+Z3
+C2
+S
+#9534
+Thirteenth level of Tower of Doom~
+{BL,BO}
+  Having climbed this high up in the tower, it 
+  is no wonder that the air seems so thin. The
+  ground and the life you lived seem to be a
+  distant memory. What lies ahead? Will you
+  ever be the same?
+{bl,bo}
+~
+95 9 1
+D3
+~
+~
+0 0 9533
+D4
+~
+~
+0 0 9535
+Z3
+C2
+S
+#9535
+Fourteenth level of Tower of Doom~
+{BL,BO}
+  With each advance you feel the tower's darkness
+  wrap itself tighter and tighter around you. At 
+  first the darkness just made it difficult to see,
+  but now in the cold and height of the tower, you 
+  find it hard to breathe.
+{bl,bo} 
+~
+95 9 1
+D0
+~
+door steel~
+2 9535 9538
+D3
+~
+~
+0 0 9536
+D5
+~
+~
+0 0 9534
+Z3
+C2
+S
+#9536
+Fourteenth level of Tower of Doom~
+{BL,BO}
+  You feel horrible here. You are wondering if you 
+  will get killed by monsters or just suffocate to 
+  death. The exit to north seems somewhat wierd.
+  You better becareful.
+{bl,bo}
+~
+95 41 1
+D0
+Somehow, you sense danger from there.
+~
+~
+0 0 9537
+D1
+~
+~
+0 0 9535
+Z3
+C2
+S
+#9537
+Fourteenth level of Tower of Doom~
+{C}
+  A slit in the stone wall creates a much welcomed
+  window. Pressing your face against this narrow 
+  opening you draw in a deep breath overjoyed at 
+  the fortunate opportunity to rid your nostrils
+  of the terrible odors that lurk in the tower. 
+  Upon doing so, you feel quite refreshed and ready
+  to continue.
+{c}
+~
+95 33 1
+D1
+~
+~
+0 0 9538
+D2
+~
+~
+0 0 9536
+Z3
+C2
+S
+#9538
+Fourteenth level of Tower of Doom~
+{BL,BO}
+  Having moved away from the window and into the 
+  sparse air, you suddenly become nausiated and
+  dizzy. You blink your eyes and yawn in an effort
+  to fight the sudden feeling of sleepiness. You
+  reach for the {bl,bo}{Y}door{BL,BO} to the south.
+{bl,bo}
+~
+95 41 1
+D2
+~
+Steel door~
+2 9535 9535
+D3
+~
+~
+0 0 9537
+D4
+~
+~
+0 0 9539
+Z3
+C2
+S
+#9539
+Fifteenth level of Tower of Doom~
+{BL,BO}
+  This might be the fifteenth floor though the journey
+  has been rough and you've lost track of where you are.
+  Your bones shiver and you yawn constantly trying to 
+  feed oxygen to your brain to keep you moving. It can't
+  be too much further to the top. Can it?
+{bl,bo}
+~
+95 41 1
+D3
+~
+~
+0 0 9540
+D5
+~
+~
+0 0 9538
+Z3
+C2
+S
+#9540
+Fifteenth level of Tower of Doom~
+{BL,BO}
+  This might be the fifteenth floor though the journey
+  has been rough and you've lost track of where you are.
+  Your bones shiver and you yawn constantly trying to 
+  feed oxygen to your brain to keep you moving. It can't
+  be too much further to the top. Can it?
+{BL,BO}
+  You seem to be repeating yourself...
+{bl,bo}
+~
+95 41 1
+D1
+~
+~
+0 0 9539
+D4
+~
+~
+0 0 9541
+Z3
+C2
+S
+#9541
+Sixteenth level of Tower of Doom~
+{BL,BO}
+  "{bl,bo}{R}Too tired and worn out to move on? The tower of doom
+  has the tendancy to suck the life out of everything
+  that enters it. How you managed to come this far is
+  a complete mystery{BL,BO}." The lack of oxygen to your brain 
+  has you nodding in agreement to the voices in your head.
+{bl,bo}
+~
+95 41 1
+D2
+~
+~
+0 0 9542
+D5
+~
+~
+0 0 9540
+Z3
+C2
+S
+#9542
+Sixteenth level of Tower of Doom~
+{BL,BO}
+  Each step is more difficult than the last. You
+  recall the warning given earlier, "{bl,bo}{R}Fight smart.
+  Save your strength for the last battle{BL,BO}." Maybe
+  it's time for a rest.
+{bl,bo}
+~
+95 41 1
+D0
+~
+~
+0 0 9541
+D4
+~
+~
+0 0 9543
+Z3
+C2
+S
+#9543
+Seventeenth level of Tower of Doom~
+{BL,BO}
+  You barely notice your surroundings. In the darkness,
+  you have become tired, worn out and wiped. The air
+  grows even thinner and the darkness darker. You have
+  recommitted yourself to reaching the top, but don't
+  be fooled... the tower will own you.
+{bl,bo}
+~
+95 41 1
+D1
+~
+~
+0 0 9545
+D5
+~
+~
+0 0 9542
+Z3
+C2
+S
+#9544
+Seventeenth level of Tower of Doom~
+{Y}
+  A small window on the north wall gives some light to the room.
+  You feel a little warmer in this room. The voice inside your 
+  head suggests, "{R}Some door have been here for a long time and
+  may not be very strong{Y}."
+{y}
+~
+95 33 1
+D2
+~
+~
+0 0 9545
+Z3
+C2
+S
+#9545
+Seventeenth level of Tower of Doom~
+{C}
+  You feel a breeze coming from the north and feel 
+  a lot better. However, the exit north seems a bit
+  odd. Better be careful!
+{c}
+~
+95 33 1
+D0
+You feel unease going in that direction. You sense danger.
+~
+~
+0 0 9544
+D3
+~
+~
+0 0 9543
+D4
+As you look up, you see a door above your head.
+
+~
+door~
+2 -1 9546
+Z3
+C2
+S
+#9546
+Top level of Tower of Doom~
+{BL,BO}
+  Frozen to the core, gasping for air, trudging 
+  along, you have reached the top. The lack of
+  feeling in your fingers and toes no longer
+  concerns you. The recollection of a final
+  battle weighs heavily on your mind. Are you
+  prepared to meet your doom?
+{bl,bo}
+~
+95 45 1
+D0
+~
+~
+0 0 9547
+D5
+~
+door~
+2 0 9545
+Z3
+C2
+S
+#9547
+The entrance to the Altar of Doom~
+{BL,BO}
+  The hint of torch light doesn't cut through the
+  darkness and neither does the light you are
+  using. You stand in front of the Altar of Doom.
+  A great force beckons you: {R}Dare to challenge me?
+{r,bo}
+~
+95 41 1
+D0
+~
+~
+0 -1 9559
+D1
+~
+~
+0 0 9548
+D2
+~
+~
+0 0 9546
+Z3
+C2
+S
+#9548
+Guard room of the Altar~
+{BL,BO}
+  The tower is colder and darker still as you approach the altar.
+  Anticipation builds as you move closer to the altar. Blood 
+  drips from the ceiling and splatters the floor. You wince with
+  concern for your own existance.
+{bl,bo}
+~
+95 41 1
+D3
+~
+~
+0 0 9547
+Z3
+C2
+S
+#9549
+The Altar of Doom~
+{BL,BO}
+  You thought you could find an easy way to the top
+  of the Tower of Doom. IMPOSSIBLE! Face death like 
+  a true warrior! That is, you can't get to the top
+  from Tapestry smartass!
+{bl,bo}
+~
+95 41 1
+Z3
+C2
+S
+#9556
+Point of No Return~
+{R}
+  This is the last chance to retreat from the tower.
+  Only adventurers with great abilities should advance
+  onward. It is advised that you venture with a group.
+{r}
+~
+95 33 1
+D2
+~
+~
+0 -1 9505
+D4
+~
+~
+0 -1 9507
+Z3
+C2
+S
+#9557
+The battle ground~
+{Y}
+  You feel a a chill as you stand on the battleground.
+  The gore before you play out in your mind. The 
+  crushed bones, the bloodshed, the rotting corpses in
+  contorted position. Who or what were they fighting?
+{y}
+~
+95 41 1
+D2
+~
+~
+0 -1 9508
+D5
+~
+~
+0 -1 9506
+Z3
+C2
+S
+#9558
+The battle ground~
+{Y}
+  All around you are the remains of great warriors. Some
+  you even recognize by the armour which they wear. Their
+  legends you have heard since childhood. Often you wondered
+  where they all went. Now you know...
+{y}
+~
+95 41 1
+D0
+~
+~
+0 -1 9507
+D1
+~
+door~
+0 13 9509
+Z3
+C2
+S
+#9559
+The Altar of Doom~
+{BL,BO}
+  Standing at the top of the Tower of Doom, pride
+  fills your bossom. Reaching this altar proved 
+  that you are a true adventurer. You feel like
+  the great knights of old and solemnly vow to be
+  virtuous.
+{bl,bo} 
+~
+95 45 1
+D2
+~
+~
+0 -1 9547
+Z3
+C2
+S
+#9560
+A misty tunnel~
+{C}
+  The walls have closed around you as you push
+  your way through this tunnel. It is difficult
+  to see what is ahead and what is behind through
+  the mist which fills this cramped space.
+{c}
+~
+95 33 1
+D0
+~
+~
+0 -1 9511
+D2
+~
+~
+0 -1 9509
+Z3
+C2
+S
+#9561
+A misty tunnel~
+{C}
+  You reach the end of the tunnel and have to make
+  a decision. With two choices available, turn back
+  or move forward, you examine the cover which 
+  prevents you from moving forward.
+{c}
+~
+95 33 1
+D2
+~
+~
+0 -1 9510
+D4
+~
+cover~
+0 15 9513
+Z3
+C2
+S
+$~

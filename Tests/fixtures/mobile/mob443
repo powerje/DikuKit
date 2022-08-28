@@ -1,0 +1,772 @@
+#44300
+cityguard guard~
+{BO,G}Cityguard{bo,g}~
+{BO,CY}A cityguard stands here.{bo,cy}
+~
+
+  A big, strong, helpful, trustworthy guard.
+
+~
+8384 512 1000 S
+11 10 0 1d12+140 1d6+4
+0 8
+8 8 1
+D 20
+A 12
+#44301
+guard elite~
+{BO,G}Elite Guard{bo,g}~
+{BO,CY}An elite guard trained in hunting and killing stands here.{bo,cy}
+~
+
+  You see a man of power and integrity. He walks proudly
+  through the streets protecting its fair inhabitants. 
+  His large muscular frame, and powerful armor makes him
+  a deadly enemy and trustworthy companion.
+
+~
+1 262696 0 C 4
+35 0 -5 10d10+750 8d5+10
+0 40000
+8 8 0
+D 20
+A 12
+#44302
+drunk~
+{BO,G}Drunk{bo,g}~
+{BO,CY}A singing, happy Drunk.{bo,CY}
+~
+
+  The town drunk typically dwells in a small enough town
+  that he is the only conspicuous alcoholic. 
+
+~
+0 0 400 S
+2 19 8 2d6+22 1d6+0
+85 200
+8 8 1
+D 20
+A 12
+#44303
+candle maker candlemaker~
+{BO,G}Candle Maker{bo,g}~
+{BO,CY}A young candle maker is standing behind the counter.{bo,cy}
+~
+
+  Candle making was developed independently in many
+  countries throughout history. The earliest known 
+  candles were made from whale fat by the Chinese,
+  during the Qin Dynasty. In early China and Japan,
+  tapers were made with wax from insects and seeds,
+  wrapped in paper. In India, wax from boiling
+  cinnamon was used for temple candles. During the
+  1st century AD, indigenous people of the Pacific
+  Northwest fused oil from the eulachon, or 
+  "candlefish", for illumination.
+
+~
+66 640 0 S
+52 10 2 0d0+30000 8d8+14
+0 1000
+8 8 0
+S 524288
+R 128
+D 20
+A 12
+#44304
+baker~
+{BO,G}Baker{bo,g}~
+{BO,CY}A Baker is standing over a oven baking bread.{bo,cy}
+~
+
+  During the very very old ages it was common for each
+  landlord to have a bakery, which was actually a public
+  oven. Housewives would bring dough that they had prepared
+  to the baker, who would tend the oven and bake them into
+  bread. As time went on, bakers would also sell their own
+  goods.
+
+~
+66 640 0 S
+52 10 2 0d0+30000 8d8+14
+0 1000
+8 8 0
+D 20
+A 12
+#44305
+fur trader~
+{BO,G}Fur Trader{bo,g}~
+{BO,C}A fur trader is in the back making armor.{bo,c}
+~
+
+  The fur trade is a worldwide industry dealing in the
+  acquisition and sale of animal fur. Since the 
+  establishment of world market for in the early modern
+  period furs of boreal, polar and cold temperate 
+  mammalian animals have been the most valued.
+
+~
+66 640 0 S
+52 10 2 0d0+30000 8d8+14
+0 1000
+8 8 0
+D 20
+A 12
+#44306
+armourer~
+{BO,G}Armourer{bo,g}~
+{BO,C}An Armourer is standing by his forge pounding out a breastplate.{bo,c}
+~
+
+  The Medieval Armorer held a very important position in
+  the workforce. Not only were his skills highly required
+  by nobles and monarchs, but the commoners enlisted his
+  services during times of war as well.
+
+~
+66 640 0 S
+52 10 2 0d0+30000 8d8+14
+0 1000
+8 8 0
+D 20
+A 12
+#44307
+weaponsmith weapon~
+{BO,G}Weaponsmith{bo,g}~
+{BO,CY}A Weaponsmith is pounding out a new shortsword.{bo,cy}
+~
+
+  Weaponsmithing is a crafting profession to create 
+  weapons. Please order any weapon in the list and 
+  it will be created in the forge in a matter of 
+  hours.
+
+~
+66 640 0 S
+52 10 2 0d0+30000 8d8+14
+0 1000
+8 8 0
+D 20
+A 12
+#44308
+citizen~
+{BLU,BO}A Citizen{b}~
+{WH,BO}A citizen attends to his everyday business.{b}
+~
+
+{WH,BO}  The citizen walks around town attending to its everyday
+{WH,BO}  business. It seems to be wandering town attending to all
+{WH,BO}  he needs to accomplish today.{w}
+
+~
+64 262696 0 S
+10 0 -5 0d0+50 2d2+6
+10000 11000
+8 8 0
+D 8
+A 12
+#44309
+knight guard~
+{BO,G}Knight{bo,g}~
+{BO,BLA}A knight in a suit of black iron stands guarding the entrance.{bo,bla}
+~
+It looks like nobody!
+~
+557875266 536879784 100 C 4
+56 -140 -17 0d0+25000 10d10+200
+0 1000
+8 8 0
+S 75514624
+R 12
+D 20
+A 12
+#44310
+mayor~
+the {BOLD,GREEN}Mayor{green}~
+{BO,CY}The Mayor is sitting in his huge chair.{bo,cy}
+~
+He is a stocky, middle-aged man with thin, grey hair.
+~
+604110850 640 900 S
+50 0 -1 1d1+30000 5d8+5
+5000 50000
+8 8 1
+D 20
+A 12
+#44311
+secretary~
+The {BO,G}Secretary{bo,g}~
+{BO,CY}A secretary is sitting at the desk, typing away on the typewriter.{bo,cy}
+~
+She looks very busy.
+
+>
+The Secretary says 'Sorry, but the Mayor is extremely busy today.'
+The Secretary says 'Please sit down and have a seat in the meantime.'
+~
+2 128 900 S
+12 9 2 1d12+148 2d7+1
+100 13000
+8 8 2
+D 20
+A 12
+#44312
+White Bishop~
+{W,BO}A white bishop{w,bo}~
+{BO,CY}A white bishop is here struggling with thin air.{bo,cy}
+~
+
+{BOLD}{WHITE}  The white bishop makes the sign of the
+  cross over you and gives you your last
+  rites as you are about to die.
+                      {REVERSE}<>_
+{reverse}                    {BOLD}{WHITE}{REVERSE}(\)  )
+{reverse}                     {BOLD}{WHITE}{REVERSE}\__/
+{reverse}                    {BOLD}{WHITE}{REVERSE}(____)
+{reverse}                     {BOLD}{WHITE}{REVERSE}|  |
+{reverse}                     {BOLD}{WHITE}{REVERSE}|__|
+{reverse}                    {BOLD}{WHITE}{REVERSE}/____\
+{reverse}                   {BOLD}{WHITE}{REVERSE}(______)
+~
+66 128 1000 S
+18 -10 3 3d8+900 3d8+15
+25000 8334
+7 8 0
+D 20
+A 12
+#44313
+guard mayor personal bodyguard~
+{Y,BO}The Mayor's Guard{b}~
+{Y,BO}The personal bodyguard of the Mayor stands here blocking the entrance.{b}
+~
+
+{Y,BO}  The bodyguard stands here looking very serious. He stares
+{Y,BO}  at you and in the deepest voice, mutters, "Go Away."
+{Y,BO}  Obviously this guard is not going to let you by.{b}
+
+~
+134742082 262184 0 C 4
+25 0 -8 0d0+1131 15d15+100
+10000 16045
+8 8 1
+S 1
+D 20
+A 12
+#44314
+assassin thieves guild guard~
+{R}The Assassin{r}~
+{R}An Assassin stands here guarding the entrance to the Thieves Guild.{r}
+~
+
+{R}  This assassin has been hired by the Thieves Guild,
+{R}  to keep out anybody unwanted to the guild. His black
+{R}  outfit keeps him hidden in the shadows. He appears
+{R}  very quick and nimble. He seems to let only thieves
+{R}  into the guild.{r}
+
+~
+66 262792 -1000 C 3
+25 0 -8 100d9+600 20d9+100
+10000 155000
+8 8 0
+S 512
+R 12
+D 20
+A 12
+#44315
+berserker brawlers guild guard~
+{R,BO}The Berserker{b}~
+{R,BO}A Berserker stands strong, guarding the entrance to the Brawlers Guild.{b}
+~
+
+{R,BO}  The brawlers muscles bulge with superior strength. 
+{R,BO}  He appears as though he could easily squash any being
+{R,BO}  as if it were a bug. The berserker is guarding the
+{R,BO}  entrance to the Brawlers Guild, and appears to only
+{R,BO}  let in brawlers.{b}
+
+~
+66 262792 -1000 C 4
+25 -30 -8 100d9+600 20d9+100
+10000 155000
+8 8 0
+S 512
+R 12
+D 20
+A 12
+#44316
+thief~
+{BLACK,BOLD}A thief{b}~
+{BLACK,BOLD}A thief takes to the shadows as you approach.{b}
+~
+
+{BL,BO}  The thief stays in the shadows as you approach.
+{BL,BO}  It goes through its newly gained loot from pick
+{BL,BO}  pocketing, stealing from houses, and ripping off
+{BL,BO}  citizens with lies and fake money. This thief is
+{BL,BO}  a master of deceit.{b}  
+
+~
+268435522 262696 -500 S
+25 10 -5 22d22+247 10d4+25
+10000 100000
+8 8 0
+S 512
+R 8
+D 20
+A 12
+#44317
+guildmaster master~
+the Guildmaster~
+Your guildmaster is standing here.
+~
+Even though your guildmaster looks old and tired, you can clearly see the
+vast amount of knowledge she posesses. She is wearing fine magic clothing,
+and you notice that she is surrounded by a blue shimmering aura.
+~
+134225666 0 1000 S
+50 0 0 6d10+3000 10d8+40
+8794 100000
+8 8 2
+D 20
+A 12
+#44318
+noble nobility nobles~
+{M,BO}A noble{b}~
+{Y,BO}A noble dressed in elegant furs walks past you.{y}
+~
+
+{Y,BO}  The noble are dressed in elegant furs and jewelry
+{Y,BO}  marking their importance to the world. They are
+{Y,BO}  obviously rich and very powerful. They walk down
+{Y,BO}  the street, disregarding your very existence.{b}
+
+~
+64 262696 0 S
+25 -30 -8 10d50+250 10d4+50
+100000 200000
+8 8 0
+D 4
+A 12
+#44319
+priest pastor pope leader~
+{WH,BO}A Priest{b}~
+{WH,BO}A priest stands near the front leading the sermon.{b}
+~
+
+{WH,BO}  One of the most holy men in all of town. The priest
+{WH,BO}  is guiding citizens attending church into the Lord's
+{WH,BO}  grace. He prays for those requesting prayer and attends
+{WH,BO}  to his everyday duties such as counting the offering,
+{WH,BO}  ushering, and worshipping.{b}
+
+~
+66 684 1000 C 12
+25 -30 -8 30d30+500 1d2+0
+10000 300000
+8 8 1
+S 512
+R 12
+D 20
+A 12
+#44320
+priest head leader~
+{WH,BO}The head priest{b}~
+{G,BO}The head priest rests behind the pulpit waiting for somebody to council.{b}
+~
+
+{BLU,BO}  The head priest looks old and tired. As he speaks,
+{BLU,BO}  he has such a way with words that you almost feel
+{BLU,BO}  as if you are speaking with a genius. His robe hangs
+{BLU,BO}  lose and fit.{b}
+
+~
+671121474 537133736 1000 S
+30 -55 -8 15d19+900 10d4+25
+0 1000
+8 8 0
+D 20
+A 12
+#44321
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44322
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44323
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44324
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44325
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44326
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44327
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44328
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44329
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44330
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44331
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44332
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44333
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44334
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44335
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44336
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44337
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44338
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44339
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44340
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44341
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44342
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44343
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44344
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44345
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44346
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44347
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44348
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#44349
+Raziel~
+{WHI,BOL}R{whi,bol}{CYA}aziel{cya}~
+{BLA,BO}The{bla,bol} {CYA}Harvester{BLA,BOL} of{BLU} Souls {BLA}is creeping behind{bla,bol} {RED}YOUR{BLA,BO} back!{bla,bol}
+~
+
+{B} {b}{B} {b}{B} {b}{BLA,BO}A soul-devouring wraith. Once a Sarafan warrior priest,
+{B} {b}{B} {b}{B} {b}{BLA,BO}resurrected as a vampire lieutenant. Then cast down to
+{B} {b}{B} {b}{B} {b}{BLA,BO}endless abyss, he is now sent back as an angel of death.
+{B} {b}{B} {b}{B} {b}{BLA,BO}He is wielding the legendary Soul Reaver..{bla,bol}
+
+~
+1258319968 2031911870 -1000 C 4
+55 10 -15 380d380+158 30d40+200
+1000000 2000000
+8 8 1
+D 4
+A 9
+$~

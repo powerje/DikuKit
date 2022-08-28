@@ -1,0 +1,1997 @@
+#32100
+{CYAN}On the Bridge{cyan}~
+   You are now standing on a bridge where many fierce battles have
+ been fought. The stone blocks that hold up this massive structure
+ have begun to decay, but they were well crafted and should hold up
+ through the test of time. There is an Iron gate to the north. To 
+ the east and west is a large pit. The bridge continues to the south.
+
+~
+321 4 5
+D0
+~
+Iron~
+1 -1 32149
+D1
+~
+~
+0 -1 32103
+D2
+~
+~
+0 -1 32101
+D3
+~
+~
+0 -1 32103
+T32199
+Z3
+C-1
+R0
+S
+#32101
+{CYAN}On the Bridge{cyan}~
+    You now stand in the middle of the bridge, covered in deep
+ red stains, you can see that many have met their match at this
+ dreary site. As you look over the sides of the bridge, you start
+ to get dizzy from looking at the long drop to the surface below.
+ You can feel the warm air wafting up from the pit below. 
+
+~
+321 0 5
+D0
+~
+~
+0 -1 32100
+D1
+~
+~
+0 -1 32106
+D2
+~
+~
+0 -1 32102
+D3
+~
+~
+0 -1 32106
+Z3
+C-1
+R0
+S
+#32102
+{CYAN}On the Bridge{cyan}~
+   You are now standing on a bridge where many fierce battles have
+ been fought. The stone blocks that hold up this massive structure
+ have begun to decay, but they were well crafted and should hold up
+ through the test of time. To the south, you can see a small building.
+ The bridge continues to the north. To the edge of the bridge is to
+ the east and west.
+
+~
+321 0 5
+D0
+~
+~
+0 -1 32101
+D1
+~
+~
+0 -1 32108
+D2
+~
+~
+0 -1 32121
+D3
+~
+~
+0 -1 32108
+T32199
+Z3
+C-1
+R0
+S
+#32103
+{RED}{BOLD}FALLING!!!{red}{bold}~
+   As you near the edge of the bridge you slip and fall over the side,
+ you speed towards the bottom and whatever dangers may lurk there. You
+ can see spikes pointing up towards you as you get closer and closer to
+ the bottom!
+
+~
+321 1048832 5
+D5
+~
+~
+0 -1 32104
+T32199
+Z3
+C-1
+R0
+S
+#32104
+{BOLD}{BLACK}The Pit{bold}{black}~
+   Luckily you missed landing on any of the many spikes protruding
+ from the ground. Blood and gore are littered all around you, and
+ the whole place reaks from the stench of death. Your in a deep pit,
+ surrounded on all sides by rock except for the faint light to the
+ south. The pit continues to the south before it ends in another 
+ pile of rocks. It looks like it is possible to climb back up this
+ rock face wall.
+
+~
+321 16 1
+D2
+~
+~
+0 -1 32107
+D4
+~
+~
+0 -1 32105
+T32199
+Z3
+C-1
+R0
+S
+#32105
+Climbing Up~
+  The going is hard here, it's almost impossible to find any good
+ hand holds. If you're not careful you could slip and slide back
+ down into the pit. If you are lucky you might be able to grab onto
+ a few more rocks and pull yourself back up onto the bridge.
+
+~
+321 1048580 1
+D4
+~
+~
+0 -1 32100
+D5
+~
+~
+0 -1 32104
+T32199
+Z3
+C-1
+R0
+S
+#32106
+{RED}{BOLD}FALLING!!!{red}{bold}~
+   As you near the edge of the bridge you slip and fall over the side,
+ you speed towards the bottom and whatever dangers may lurk there. You
+ can see spikes pointing up towards you as you get closer and closer to
+ the bottom!
+
+~
+321 1048576 5
+D5
+~
+~
+0 -1 32107
+T32199
+Z3
+C-1
+R0
+S
+#32107
+{BOLD}{BLACK}The Pit{bold}{black}~
+   Luckily you missed landing on any of the many spikes protruding
+ from the ground. Blood and gore are littered all around you, and
+ the whole place reaks from the stench of death. Your in a deep pit,
+ surrounded on all sides by rock except for the faint light to the
+ north and south. The pit continues to the north and south before it
+ ends in another pile of rocks. It looks like it is possible to climb
+ back up this rock face wall.
+
+~
+321 16 1
+D0
+~
+~
+0 -1 32104
+D2
+~
+~
+0 -1 32109
+T32199
+Z3
+C-1
+R0
+S
+#32108
+{RED}{BOLD}FALLING!!!{red}{bold}~
+   As you near the edge of the bridge you slip and fall over the side,
+ you speed towards the bottom and whatever dangers may lurk there. You
+ can see spikes pointing up towards you as you get closer and closer to
+ the bottom!
+
+~
+321 1048576 5
+D5
+~
+~
+0 -1 32109
+T32199
+Z3
+C-1
+R0
+S
+#32109
+{BOLD}{BLACK}The Pit{bold}{black}~
+   Luckily you missed landing on any of the many spikes protruding
+ from the ground. Blood and gore are littered all around you, and
+ the whole place reaks from the stench of death. Your in a deep pit,
+ surrounded on all sides by rock except for the faint light to the
+ north. The pit continues to the north before it ends in another 
+ pile of rocks. It looks like it is possible to climb back up this
+ rock face wall.
+
+~
+321 16 1
+D0
+~
+~
+0 -1 32107
+D4
+~
+~
+0 -1 32110
+T32199
+Z3
+C-1
+R0
+S
+#32110
+Climbing Up~
+  The going is hard here, it's almost impossible to find any good
+ hand holds. If you're not careful you could slip and slide back
+ down into the pit. If you are lucky you might be able to grab onto
+ a few more rocks and pull yourself back up onto the bridge.
+
+~
+321 1048580 1
+D4
+~
+~
+0 -1 32102
+D5
+~
+~
+0 -1 32109
+T32199
+Z3
+C-1
+R0
+S
+#32111
+{CYAN}The Platform{cyan}~
+    You are on a wooden platform floating on what seems to be an 
+ underground lake. As you look up at the ceiling, you can see the
+ hole you fell through is too high for you to reach. To the east
+ you can see another platform like the one you are on, but its too
+ far for you to get a good look of it. Looks like your gonna have
+ to get wet.
+  
+
+~
+321 37 0
+D1
+~
+~
+0 -1 32112
+D2
+~
+~
+0 -1 32112
+D3
+~
+~
+0 -1 32112
+D5
+~
+~
+0 -1 32112
+T32199
+Z3
+C-1
+R0
+S
+#32112
+{BOLD,BLUE} An underground lake {bold,blue}~
+
+    You are surrounded on all sides by frigid water. This prolly
+ wouldn't be a very good place to get attacked, better find yer 
+ way out of here. Theres a platform beside you which you could
+ climb up onto, and you can see another platform off to the east
+ Below you the frigid water continues down into the darkness.
+
+~
+321 32800 6
+D1
+~
+~
+0 -1 32113
+D3
+~
+~
+0 -1 32112
+D4
+~
+~
+0 -1 32111
+D5
+~
+~
+0 -1 32116
+T32199
+Z3
+C-1
+R0
+S
+#32113
+{BOLD,BLUE} An underground lake {bold,blue}~
+
+    You are surrounded on all sides by frigid water. This prolly
+ wouldn't be a very good place to get attacked, better find yer 
+ way out of here. Theres a platform off to the west and you can
+ see another in the distance to the east. Below you the frigid
+ water continues down into the darkness.
+
+~
+321 32801 6
+D1
+~
+~
+0 -1 32114
+D3
+~
+~
+0 -1 32112
+D5
+~
+~
+0 -1 32116
+T32199
+Z3
+C-1
+R0
+S
+#32114
+{BOLD,BLUE} An underground lake {bold,blue}~
+
+    You are surrounded on all sides by frigid water. This prolly
+ wouldn't be a very good place to get attacked, better find yer 
+ way out of here. Theres a platform beside you which you could
+ climb up onto, and you can see another platform off to the west
+ Below you the frigid water continues down into the darkness.
+
+~
+321 32801 6
+D1
+~
+~
+0 -1 32114
+D3
+~
+~
+0 -1 32113
+D4
+~
+~
+0 -1 32115
+D5
+~
+~
+0 -1 32116
+T32199
+Z3
+C-1
+R0
+S
+#32115
+{CYAN}The Platform{cyan}~
+
+    You are on a wooden platform floating on what seems to be an
+ underground lake. There's an opening above you. To the west you
+ can see another platform like the one you are on, but its too far
+ to see it very well. The air coming from above feels warmer.
+
+~
+321 37 1
+D0
+~
+~
+0 -1 32114
+D1
+~
+~
+0 -1 32114
+D2
+~
+~
+0 -1 32114
+D3
+~
+~
+0 -1 32114
+D4
+~
+~
+0 -1 32131
+D5
+~
+~
+0 -1 32114
+T32199
+Z3
+C-1
+R0
+S
+#32116
+{BOLD}{BLUE}Below the Surface{bold}{blue}~
+   You can just about reach the surface from here. It is extremely
+ cold here, but at the moment your biggest problem is that your
+ running out of air. The area down here seems to have a magical 
+ quality. Water continues in every direction except up.
+
+~
+321 32800 10
+D0
+~
+~
+0 -1 32119
+D1
+~
+~
+0 -1 32117
+D2
+~
+~
+0 -1 32120
+D3
+~
+~
+0 -1 32118
+D4
+~
+~
+0 -1 32113
+D5
+~
+~
+0 -1 32116
+T32199
+Z3
+C-1
+R0
+S
+#32117
+{BOLD}{BLUE}Below the Surface{bold}{blue}~
+   You are surrounded in every direction by freezing water. At this
+ depth you can't see which way is up, no light can penetrate this far
+ down. All you can think about is how cold you are, the lack of oxygen
+ in your lungs and that somewhere down here is probably someone who
+ wants to kill you.  
+~
+321 32801 10
+D0
+~
+~
+0 -1 32117
+D1
+~
+~
+0 -1 32118
+D2
+~
+~
+0 -1 32117
+D3
+~
+~
+0 -1 32116
+D4
+~
+~
+0 -1 32117
+D5
+~
+~
+0 -1 32117
+T32199
+Z3
+C-1
+R0
+S
+#32118
+{BOLD}{BLUE}Below the Surface{bold}{blue}~
+   You are surrounded in every direction by freezing water. At this
+ depth you can't see which way is up, no light can penetrate this far
+ down. All you can think about is how cold you are, the lack of oxygen
+ in your lungs and that somewhere down here is probably someone who
+ wants to kill you.  
+~
+321 32801 10
+D0
+~
+~
+0 -1 32118
+D1
+~
+~
+0 -1 32116
+D2
+~
+~
+0 -1 32118
+D3
+~
+~
+0 -1 32117
+D4
+~
+~
+0 -1 32118
+D5
+~
+~
+0 -1 32118
+T32199
+Z3
+C-1
+R0
+S
+#32119
+{BOLD}{BLUE}Below the Surface{bold}{blue}~
+   You are surrounded in every direction by freezing water. At this
+ depth you can't see which way is up, no light can penetrate this far
+ down. All you can think about is how cold you are, the lack of oxygen
+ in your lungs and that somewhere down here is probably someone who
+ wants to kill you.  
+~
+321 32801 10
+D0
+~
+~
+0 -1 32120
+D1
+~
+~
+0 -1 32119
+D2
+~
+~
+0 -1 32116
+D3
+~
+~
+0 -1 32119
+D4
+~
+~
+0 -1 32119
+D5
+~
+~
+0 -1 32119
+T32199
+Z3
+C-1
+R0
+S
+#32120
+{BOLD}{BLUE}Below the Surface{bold}{blue}~
+   You are surrounded in every direction by freezing water. At this
+ depth you can't see which way is up, no light can penetrate this far
+ down. All you can think about is how cold you are, the lack of oxygen
+ in your lungs and that somewhere down here is probably someone who
+ wants to kill you.  
+~
+321 32801 10
+D0
+~
+~
+0 -1 32116
+D1
+~
+~
+0 -1 32120
+D2
+~
+~
+0 -1 32119
+D3
+~
+~
+0 -1 32120
+D4
+~
+~
+0 -1 32120
+D5
+~
+~
+0 -1 32120
+T32199
+Z3
+C-1
+R0
+S
+#32121
+Outside a small hut~
+    You are outside a small thatched-roof hut. Unlike most the other 
+ buildings around here, it appears to be still be occupied.
+    It looks as though it could be a shop of some sort. You can hear
+ the clanging of metal against metal coming from inside. 
+
+~
+321 32 5
+D0
+~
+~
+0 -1 32102
+D3
+~
+~
+0 -1 32122
+T32199
+Z3
+C-1
+R0
+S
+#32122
+The Smithy~
+
+  You are standing inside a very dark smithy. You notice the absence
+ of windows, only the red light of the fire in the forge lightens
+ the room. A lot of broken and therefore useless weapons and pieces
+ of armour are lying around, making it difficult to cross the room.
+
+~
+321 128 0
+D1
+~
+~
+0 -1 32121
+D2
+~
+~
+0 -1 32124
+T32199
+Z3
+C-1
+R0
+S
+#32123
+{BOLD}{RED}The Cage{bold}{red}~
+You are in a fairly small cage, contained by thick iron bars. The floor is made
+or rough rock, like the top of a mountain. Looking through the bars to the south
+and west you see that you are indeed on a high mountain peak. To the east and north
+are the other parts of the cage.
+~
+321 256 5
+D1
+~
+~
+0 -1 32124
+Z3
+C-1
+R0
+S
+#32124
+{BLUE} Rest area? {blue}~
+
+   You walk into an area that contains a large fountain. The
+ area around is soft and sandy. You notice many different sized
+ footprints in the sand, and in some places dark crimson stains.
+ More signs of the ruthless nature of this place... Keep moving
+ or that unlucky rogues fate may be yours as well.
+
+~
+321 256 5
+D2
+~
+doorway~
+1 -1 32152
+Z3
+C-1
+R0
+S
+#32125
+{BO,YE}The Colosseum{bo,ye}~
+   You stand in a large blood-stained battlefield. Entrails and other
+ maimed bodyparts litter the area. Many battles have been fought here,
+ many won and many lost. At first you are overwhelmed, but your warrior
+ senses soon take over and remind you, Kill or be killed! You glance
+ over your shoulder, then begin the hunt for your prey.
+
+~
+321 0 0
+D0
+~
+Iron~
+1 -1 32150
+D1
+~
+~
+0 -1 32126
+D2
+~
+~
+0 -1 32130
+T32199
+Z3
+C-1
+R0
+S
+#32126
+{BO,YE}The Colosseum{bo,ye}~
+   You stand in a large blood-stained battlefield. Entrails and other
+ maimed bodyparts litter the area. Many battles have been fought here,
+ many won and many lost. At first you are overwhelmed, but your warrior
+ senses soon take over and remind you, Kill or be killed! You glance
+ over your shoulder, then begin the hunt for your prey.
+
+~
+321 0 0
+D1
+~
+~
+0 -1 32127
+D2
+~
+~
+0 -1 32131
+D3
+~
+~
+0 -1 32125
+T32199
+Z3
+C-1
+R0
+S
+#32127
+{BO,YE}The Colosseum{bo,ye}~
+   You stand in a large blood-stained battlefield. Entrails and other
+ maimed bodyparts litter the area. Many battles have been fought here,
+ many won and many lost. At first you are overwhelmed, but your warrior
+ senses soon take over and remind you, Kill or be killed! You glance
+ over your shoulder, then begin the hunt for your prey.
+
+~
+321 0 0
+D1
+~
+~
+0 -1 32128
+D2
+~
+~
+0 -1 32132
+D3
+~
+~
+0 -1 32126
+T32199
+Z3
+C-1
+R0
+S
+#32128
+{BO,YE}The Colosseum{bo,ye}~
+   You stand in a large blood-stained battlefield. Entrails and other
+ maimed bodyparts litter the area. Many battles have been fought here,
+ many won and many lost. At first you are overwhelmed, but your warrior
+ senses soon take over and remind you, Kill or be killed! You glance
+ over your shoulder, then begin the hunt for your prey.
+
+~
+321 256 0
+D1
+~
+~
+0 -1 32129
+D2
+~
+~
+0 -1 32133
+D3
+~
+~
+0 -1 32127
+T32199
+Z3
+C-1
+R0
+S
+#32129
+{BO,YE}The Colosseum{bo,ye}~
+   You stand in a large blood-stained battlefield. Entrails and other
+ maimed bodyparts litter the area. Many battles have been fought here,
+ many won and many lost. At first you are overwhelmed, but your warrior
+ senses soon take over and remind you, Kill or be killed! You glance
+ over your shoulder, then begin the hunt for your prey.
+
+~
+321 0 0
+D2
+~
+~
+0 -1 32134
+D3
+~
+~
+0 -1 32128
+T32199
+Z3
+C-1
+R0
+S
+#32130
+{BO,YE}The Colosseum{bo,ye}~
+   You stand in a large blood-stained battlefield. Entrails and other
+ maimed bodyparts litter the area. Many battles have been fought here,
+ many won and many lost. At first you are overwhelmed, but your warrior
+ senses soon take over and remind you, Kill or be killed! You glance
+ over your shoulder, then begin the hunt for your prey.
+
+~
+321 0 0
+D0
+~
+~
+0 -1 32125
+D1
+~
+~
+0 -1 32131
+D2
+~
+~
+0 -1 32135
+T32199
+Z3
+C-1
+R0
+S
+#32131
+{BO,YE}The Colosseum{bo,ye}~
+   You stand in a large blood-stained battlefield. Entrails and other
+ maimed bodyparts litter the area. Many battles have been fought here,
+ many won and many lost. At first you are overwhelmed, but your warrior
+ senses soon take over and remind you, Kill or be killed! You glance
+ over your shoulder, then begin the hunt for your prey.
+
+~
+321 0 0
+D0
+~
+~
+0 -1 32126
+D1
+~
+~
+0 -1 32132
+D2
+~
+~
+0 -1 32136
+D3
+~
+~
+0 -1 32130
+D5
+~
+~
+0 -1 32111
+T32199
+Z3
+C-1
+R0
+S
+#32132
+{BO,YE}The Colosseum{bo,ye}~
+   You stand in a large blood-stained battlefield. Entrails and other
+ maimed bodyparts litter the area. Many battles have been fought here,
+ many won and many lost. At first you are overwhelmed, but your warrior
+ senses soon take over and remind you, Kill or be killed! You glance
+ over your shoulder, then begin the hunt for your prey.
+
+~
+321 0 0
+D0
+~
+~
+0 -1 32127
+D1
+~
+~
+0 -1 32133
+D2
+~
+~
+0 -1 32137
+D3
+~
+~
+0 -1 32131
+T32199
+Z3
+C-1
+R0
+S
+#32133
+{BO,YE}The Colosseum{bo,ye}~
+   You stand in a large blood-stained battlefield. Entrails and other
+ maimed bodyparts litter the area. Many battles have been fought here,
+ many won and many lost. At first you are overwhelmed, but your warrior
+ senses soon take over and remind you, Kill or be killed! You glance
+ over your shoulder, then begin the hunt for your prey.
+
+~
+321 0 0
+D0
+~
+~
+0 -1 32128
+D1
+~
+~
+0 -1 32134
+D2
+~
+~
+0 -1 32138
+D3
+~
+~
+0 -1 32132
+T32199
+Z3
+C-1
+R0
+S
+#32134
+{BO,YE}The Colosseum{bo,ye}~
+   You stand in a large blood-stained battlefield. Entrails and other
+ maimed bodyparts litter the area. Many battles have been fought here,
+ many won and many lost. At first you are overwhelmed, but your warrior
+ senses soon take over and remind you, Kill or be killed! You glance
+ over your shoulder, then begin the hunt for your prey.
+
+~
+321 0 0
+D0
+~
+~
+0 -1 32129
+D2
+~
+~
+0 -1 32139
+D3
+~
+~
+0 -1 32133
+T32199
+Z3
+C-1
+R0
+S
+#32135
+{BO,YE}The Colosseum{bo,ye}~
+   You stand in a large blood-stained battlefield. Entrails and other
+ maimed bodyparts litter the area. Many battles have been fought here,
+ many won and many lost. At first you are overwhelmed, but your warrior
+ senses soon take over and remind you, Kill or be killed! You glance
+ over your shoulder, then begin the hunt for your prey.
+
+~
+321 0 0
+D0
+~
+~
+0 -1 32130
+D1
+~
+~
+0 -1 32136
+D2
+~
+~
+0 -1 32140
+T32199
+Z3
+C-1
+R0
+S
+#32136
+{BO,YE}The Colosseum{bo,ye}~
+   You stand in a large blood-stained battlefield. Entrails and other
+ maimed bodyparts litter the area. Many battles have been fought here,
+ many won and many lost. At first you are overwhelmed, but your warrior
+ senses soon take over and remind you, Kill or be killed! You glance
+ over your shoulder, then begin the hunt for your prey.
+
+~
+321 0 0
+D0
+~
+~
+0 -1 32131
+D1
+~
+~
+0 -1 32137
+D2
+~
+~
+0 -1 32141
+D3
+~
+~
+0 -1 32135
+T32199
+Z3
+C-1
+R0
+S
+#32137
+{BO,YE}The Colosseum{bo,ye}~
+   You stand in a large blood-stained battlefield. Entrails and other
+ maimed bodyparts litter the area. Many battles have been fought here,
+ many won and many lost. At first you are overwhelmed, but your warrior
+ senses soon take over and remind you, Kill or be killed! You glance
+ over your shoulder, then begin the hunt for your prey.
+
+~
+321 0 0
+D0
+~
+~
+0 -1 32132
+D1
+~
+~
+0 -1 32138
+D2
+~
+~
+0 -1 32142
+D3
+~
+~
+0 -1 32136
+T32199
+Z3
+C-1
+R0
+S
+#32138
+{BO,YE}The Colosseum{bo,ye}~
+   You stand in a large blood-stained battlefield. Entrails and other
+ maimed bodyparts litter the area. Many battles have been fought here,
+ many won and many lost. At first you are overwhelmed, but your warrior
+ senses soon take over and remind you, Kill or be killed! You glance
+ over your shoulder, then begin the hunt for your prey.
+
+~
+321 0 0
+D0
+~
+~
+0 -1 32133
+D1
+~
+~
+0 -1 32139
+D2
+~
+~
+0 -1 32143
+D3
+~
+~
+0 -1 32137
+T32199
+Z3
+C-1
+R0
+S
+#32139
+{BO,YE}The Colosseum{bo,ye}~
+   You stand in a large blood-stained battlefield. Entrails and other
+ maimed bodyparts litter the area. Many battles have been fought here,
+ many won and many lost. At first you are overwhelmed, but your warrior
+ senses soon take over and remind you, Kill or be killed! You glance
+ over your shoulder, then begin the hunt for your prey.
+
+~
+321 0 0
+D0
+~
+~
+0 -1 32134
+D2
+~
+~
+0 -1 32144
+D3
+~
+~
+0 -1 32138
+T32199
+Z3
+C-1
+R0
+S
+#32140
+{BO,YE}The Colosseum{bo,ye}~
+   You stand in a large blood-stained battlefield. Entrails and other
+ maimed bodyparts litter the area. Many battles have been fought here,
+ many won and many lost. At first you are overwhelmed, but your warrior
+ senses soon take over and remind you, Kill or be killed! You glance
+ over your shoulder, then begin the hunt for your prey.
+
+~
+321 0 0
+D0
+~
+~
+0 -1 32135
+D1
+~
+~
+0 -1 32141
+D2
+~
+~
+0 -1 32145
+T32199
+Z3
+C-1
+R0
+S
+#32141
+{BO,YE}The Colosseum{bo,ye}~
+   You stand in a large blood-stained battlefield. Entrails and other
+ maimed bodyparts litter the area. Many battles have been fought here,
+ many won and many lost. At first you are overwhelmed, but your warrior
+ senses soon take over and remind you, Kill or be killed! You glance
+ over your shoulder, then begin the hunt for your prey.
+
+~
+321 0 0
+D0
+~
+~
+0 -1 32136
+D1
+~
+~
+0 -1 32142
+D2
+~
+~
+0 -1 32146
+D3
+~
+~
+0 -1 32140
+T32199
+Z3
+C-1
+R0
+S
+#32142
+{BO,YE}The Colosseum{bo,ye}~
+   You stand in a large blood-stained battlefield. Entrails and other
+ maimed bodyparts litter the area. Many battles have been fought here,
+ many won and many lost. At first you are overwhelmed, but your warrior
+ senses soon take over and remind you, Kill or be killed! You glance
+ over your shoulder, then begin the hunt for your prey.
+
+~
+321 0 0
+D0
+~
+~
+0 -1 32137
+D1
+~
+~
+0 -1 32143
+D2
+~
+~
+0 -1 32147
+D3
+~
+~
+0 -1 32141
+T32199
+Z3
+C-1
+R0
+S
+#32143
+{BO,YE}The Colosseum{bo,ye}~
+   You stand in a large blood-stained battlefield. Entrails and other
+ maimed bodyparts litter the area. Many battles have been fought here,
+ many won and many lost. At first you are overwhelmed, but your warrior
+ senses soon take over and remind you, Kill or be killed! You glance
+ over your shoulder, then begin the hunt for your prey.
+
+~
+321 0 0
+D0
+~
+~
+0 -1 32138
+D1
+~
+~
+0 -1 32144
+D2
+~
+~
+0 -1 32148
+D3
+~
+~
+0 -1 32142
+T32199
+Z3
+C-1
+R0
+S
+#32144
+{BO,YE}The Colosseum{bo,ye}~
+   You stand in a large blood-stained battlefield. Entrails and other
+ maimed bodyparts litter the area. Many battles have been fought here,
+ many won and many lost. At first you are overwhelmed, but your warrior
+ senses soon take over and remind you, Kill or be killed! You glance
+ over your shoulder, then begin the hunt for your prey.
+
+~
+321 0 0
+D0
+~
+~
+0 -1 32139
+D2
+~
+~
+0 -1 32149
+D3
+~
+~
+0 -1 32143
+T32199
+Z3
+C-1
+R0
+S
+#32145
+{BO,YE}The Colosseum{bo,ye}~
+   You stand in a large blood-stained battlefield. Entrails and other
+ maimed bodyparts litter the area. Many battles have been fought here,
+ many won and many lost. At first you are overwhelmed, but your warrior
+ senses soon take over and remind you, Kill or be killed! You glance
+ over your shoulder, then begin the hunt for your prey.
+
+~
+321 0 0
+D0
+~
+~
+0 -1 32140
+D1
+~
+~
+0 -1 32146
+T32199
+Z3
+C-1
+R0
+S
+#32146
+{BO,YE}The Colosseum{bo,ye}~
+   You stand in a large blood-stained battlefield. Entrails and other
+ maimed bodyparts litter the area. Many battles have been fought here,
+ many won and many lost. At first you are overwhelmed, but your warrior
+ senses soon take over and remind you, Kill or be killed! You glance
+ over your shoulder, then begin the hunt for your prey.
+
+~
+321 0 0
+D0
+~
+~
+0 -1 32141
+D1
+~
+~
+0 -1 32147
+D3
+~
+~
+0 -1 32145
+T32199
+Z3
+C-1
+R0
+S
+#32147
+{BO,YE}The Colosseum{bo,ye}~
+   You stand in a large blood-stained battlefield. Entrails and other
+ maimed bodyparts litter the area. Many battles have been fought here,
+ many won and many lost. At first you are overwhelmed, but your warrior
+ senses soon take over and remind you, Kill or be killed! You glance
+ over your shoulder, then begin the hunt for your prey.
+
+~
+321 0 0
+D0
+~
+~
+0 -1 32142
+D1
+~
+~
+0 -1 32148
+D3
+~
+~
+0 -1 32146
+T32199
+Z3
+C-1
+R0
+S
+#32148
+{BO,YE}The Colosseum{bo,ye}~
+   You stand in a large blood-stained battlefield. Entrails and other
+ maimed bodyparts litter the area. Many battles have been fought here,
+ many won and many lost. At first you are overwhelmed, but your warrior
+ senses soon take over and remind you, Kill or be killed! You glance
+ over your shoulder, then begin the hunt for your prey.
+
+~
+321 0 0
+D0
+~
+~
+0 -1 32143
+D1
+~
+~
+0 -1 32149
+D3
+~
+~
+0 -1 32147
+T32199
+Z3
+C-1
+R0
+S
+#32149
+{BO,YE}The Colosseum{bo,ye}~
+   You stand in a large blood-stained battlefield. Entrails and other
+ maimed bodyparts litter the area. Many battles have been fought here,
+ many won and many lost. At first you are overwhelmed, but your warrior
+ senses soon take over and remind you, Kill or be killed! You glance
+ over your shoulder, then begin the hunt for your prey.
+
+~
+321 0 0
+D0
+~
+~
+0 -1 32144
+D2
+~
+Iron~
+1 -1 32100
+D3
+~
+~
+0 -1 32148
+T32199
+Z3
+C-1
+R0
+S
+#32150
+{CYAN}On the Bridge{cyan}~
+   You are now standing on a bridge where many fierce battles have
+ been fought. The stone blocks that hold up this massive structure
+ have begun to decay, but they were well crafted and should hold up
+ through the test of time. There is an Iron gate to the south. To 
+ the east and west is a large pit. The bridge continues to the north.
+
+~
+321 4 5
+D0
+~
+~
+0 -1 32151
+D1
+~
+~
+0 -1 32153
+D2
+~
+Iron~
+1 -1 32125
+D3
+~
+~
+0 -1 32153
+T32199
+Z3
+C-1
+R0
+S
+#32151
+{CYAN}On the Bridge{cyan}~
+    You now stand in the middle of the bridge, covered in deep
+ red stains, you can see that many have met their match at this
+ dreary site. As you look over the sides of the bridge, you start
+ to get dizzy from looking at the long drop to the surface below.
+ You can feel the warm air wafting up from the pit below. 
+
+~
+321 0 5
+D0
+~
+~
+0 -1 32152
+D1
+~
+~
+0 -1 32156
+D2
+~
+~
+0 -1 32150
+D3
+~
+~
+0 -1 32156
+T32199
+Z3
+C-1
+R0
+S
+#32152
+{CYAN}On the Bridge{cyan}~
+   You are now standing on a bridge where many fierce battles have
+ been fought. The stone blocks that hold up this massive structure
+ have begun to decay, but they were well crafted and should hold up
+ through the test of time. There's a doorway to the north. To the
+ east and west is a large pit. The bridge continues to the south.
+
+~
+321 0 5
+D0
+~
+doorway~
+1 -1 32124
+D1
+~
+~
+0 -1 32158
+D2
+~
+~
+0 -1 32151
+D3
+~
+~
+0 -1 32158
+T32199
+Z3
+C-1
+R0
+S
+#32153
+{RED}{BOLD}FALLING!!!{red}{bold}~
+   As you near the edge of the bridge you slip and fall over the side,
+ you speed towards the bottom and whatever dangers may lurk there. You
+ can see spikes pointing up towards you as you get closer and closer to
+ the bottom!
+
+~
+321 1048576 5
+D5
+~
+~
+0 -1 32159
+T32199
+Z3
+C-1
+R0
+S
+#32154
+{BOLD}{BLACK}The Pit{bold}{black}~
+   Luckily you missed landing on any of the many spikes protruding
+ from the ground. Blood and gore are littered all around you, and
+ the whole place reaks from the stench of death. Your in a deep pit,
+ surrounded on all sides by rock except for the faint light to the
+ south. The pit continues to the south before it ends in another 
+ pile of rocks. It looks like it is possible to climb back up this
+ rock face wall.
+
+~
+321 16 1
+D2
+~
+~
+0 -1 32157
+D4
+~
+~
+0 -1 32160
+T32199
+Z3
+C-1
+R0
+S
+#32155
+Climbing Up~
+  The going is hard here, it's almost impossible to find any good
+ hand holds. If you're not careful you could slip and slide back
+ down into the pit. If you are lucky you might be able to grab onto
+ a few more rocks and pull yourself back up onto the bridge.
+
+~
+321 1048580 1
+D4
+~
+~
+0 -1 32150
+D5
+~
+~
+0 -1 32159
+T32199
+Z3
+C-1
+R0
+S
+#32156
+{RED}{BOLD}FALLING!!!{red}{bold}~
+   As you near the edge of the bridge you slip and fall over the side,
+ you speed towards the bottom and whatever dangers may lurk there. You
+ can see spikes pointing up towards you as you get closer and closer to
+ the bottom!
+
+~
+321 1048576 5
+D5
+~
+~
+0 -1 32157
+T32199
+Z3
+C-1
+R0
+S
+#32157
+{BOLD}{BLACK}The Pit{bold}{black}~
+   Luckily you missed landing on any of the many spikes protruding
+ from the ground. Blood and gore are littered all around you, and
+ the whole place reaks from the stench of death. Your in a deep pit,
+ surrounded on all sides by rock except for the faint light to the
+ north and south. The pit continues to the north and south before it
+ ends in another pile of rocks. It looks like it is possible to climb
+ back up this rock face wall.
+
+~
+321 16 1
+D0
+~
+~
+0 -1 32154
+D2
+~
+~
+0 -1 32159
+T32199
+Z3
+C-1
+R0
+S
+#32158
+{RED}{BOLD}FALLING!!!{red}{bold}~
+   As you near the edge of the bridge you slip and fall over the side,
+ you speed towards the bottom and whatever dangers may lurk there. You
+ can see spikes pointing up towards you as you get closer and closer to
+ the bottom!
+
+~
+321 1048576 5
+D5
+~
+~
+0 -1 32154
+T32199
+Z3
+C-1
+R0
+S
+#32159
+{BOLD}{BLACK}The Pit{bold}{black}~
+   Luckily you missed landing on any of the many spikes protruding
+ from the ground. Blood and gore are littered all around you, and
+ the whole place reaks from the stench of death. Your in a deep pit,
+ surrounded on all sides by rock except for the faint light to the
+ north. The pit continues to the north before it ends in another 
+ pile of rocks. It looks like it is possible to climb back up this
+ rock face wall.
+
+~
+321 16 1
+D0
+~
+~
+0 -1 32157
+D4
+~
+~
+0 -1 32155
+T32199
+Z3
+C-1
+R0
+S
+#32160
+Climbing Up~
+  The going is hard here, it's almost impossible to find any good
+ hand holds. If you're not careful you could slip and slide back
+ down into the pit. If you are lucky you might be able to grab onto
+ a few more rocks and pull yourself back up onto the bridge.
+
+~
+321 1048580 1
+D4
+~
+~
+0 -1 32152
+T32199
+Z3
+C-1
+R0
+S
+#32161
+{RED}Sounds of Battle{red}~
+   You can see a large stone building dead ahead. Loud battlecries,
+ and the sounds of weapons clashing against shields fill the air.
+ You also smell a faintly familiar smell in the air, which makes 
+ the back of your neck tingle... Its the smell of {RED}blood... 
+    {YE}A small sign demands your attention.{ye}
+
+~
+321 16785796 1
+D0
+~
+~
+0 -1 32162
+D3
+~
+~
+0 -1 32199
+E
+sign~
+ This area is intended for those who are willing to fight each
+ other, either in groups or 1 on 1. There is no con loss for dying
+ in here, but there will be a corpse to retrieve. Also all maimed
+ eq, or dropped items which you will want to retrieve will be in
+ the collection room to your west. Be honest, only take what's yours.
+ Taking other peoples gear will be considered the same as looting.
+ Enjoy!
+
+~
+Z3
+C-1
+R0
+S
+#32162
+{RED}Joining the massacre...{red}~
+   Grab your weapons and prepare to fight for your life!!
+  BANZAI!!!!
+
+~
+321 1048577 1
+D0
+~
+~
+0 -1 32100
+D1
+~
+~
+0 -1 32104
+D2
+~
+~
+0 -1 32111
+D3
+~
+~
+0 -1 32130
+D4
+~
+~
+0 -1 32150
+D5
+~
+~
+0 -1 32126
+Z3
+C-1
+R0
+S
+#32189
+{BOLD}{GREEN}The Thick Jungle{bold}{green}~
+Above your head is an incredibly thick canopy made up of various exotic
+plants, half of which are most likely poisonous. The canopy is so thick
+that almost no light can pass through, making it impossible for anything
+to grow on the ground. Half decayed plant, animal, and humanoid carcasses
+have formed a mud-like soil beneath your feet. Thick tree trunks block the
+way in all directions accept north and south, and they make it so that there
+is only room for two people to pass here.
+~
+321 557201 3
+D0
+~
+~
+0 -1 32191
+Z3
+C2
+R0
+S
+#32190
+{BOLD}{GREEN}The Thick Jungle{bold}{green}~
+Above your head is an incredibly thick canopy made up of various exotic
+plants, half of which are most likely poisonous. The canopy is so thick
+that almost no light can pass through, making it impossible for anything
+to grow on the ground. Half decayed plant, animal, and humanoid carcasses
+have formed a mud-like soil beneath your feet. The jungle continues in all
+directions accept south and west, where thick tree trunks make the way
+impassable.
+~
+321 557073 3
+D0
+~
+~
+0 -1 32195
+D1
+~
+~
+0 -1 32198
+Z3
+C-1
+R0
+S
+#32191
+{BOLD}{GREEN}The Thick Jungle{bold}{green}~
+Above your head is an incredibly thick canopy made up of various exotic
+plants, half of which are most likely poisonous. The canopy is so thick
+that almost no light can pass through, making it impossible for anything
+to grow on the ground. Half decayed plant, animal, and humanoid carcasses
+have formed a mud-like soil beneath your feet. The jungle continues in all
+directions accept east, where thick tree trunks make the way impassable.
+~
+321 557073 3
+D0
+~
+~
+0 -1 32196
+D2
+~
+~
+0 -1 32189
+D3
+~
+~
+0 -1 32198
+Z3
+C-1
+R0
+S
+#32192
+{BOLD}{GREEN}The Thick Jungle{bold}{green}~
+Above your head is an incredibly thick canopy made up of various exotic
+plants, half of which are most likely poisonous. The canopy is so thick
+that almost no light can pass through, making it impossible for anything
+to grow on the ground. Half decayed plant, animal, and humanoid carcasses
+have formed a mud-like soil beneath your feet. The jungle continues in all
+directions accept north and east, where thick tree trunks make the way
+impassable.
+~
+321 557073 3
+D2
+~
+~
+0 -1 32196
+D3
+~
+~
+0 -1 32197
+Z3
+C-1
+R0
+S
+#32193
+{BOLD}{GREEN}The Thick Jungle{bold}{green}~
+Above your head is an incredibly thick canopy made up of various exotic
+plants, half of which are most likely poisonous. The canopy is so thick
+that almost no light can pass through, making it impossible for anything
+to grow on the ground. Half decayed plant, animal, and humanoid carcasses
+have formed a mud-like soil beneath your feet. The jungle continues in all
+directions accept north and west, where thick tree trunks make the way
+impassable.
+~
+321 557073 3
+D1
+~
+~
+0 -1 32197
+D2
+~
+~
+0 -1 32195
+Z3
+C-1
+R0
+S
+#32194
+{BOLD}{GREEN}Up A Tree{bold}{green}~
+The rope ladder is old but sturdy, giving you access to the high
+treetops. Down from here is a 10 foot drop to the ground, and you
+can continue climbing up to the lower canopy of the jungle.
+~
+321 557073 3
+D5
+~
+rope~
+1 -1 32198
+Z3
+C-1
+R0
+S
+#32195
+{BOLD}{GREEN}The Thick Jungle{bold}{green}~
+Above your head is an incredibly thick canopy made up of various exotic
+plants, half of which are most likely poisonous. The canopy is so thick
+to grow on the ground. Half decayed plant, animal, and humanoid carcasses
+have formed a mud-like soil beneath your feet. The jungle continues in all
+directions accept west, where thick tree trunks make the way impassable.
+~
+321 557073 3
+D0
+~
+~
+0 -1 32193
+D1
+~
+~
+0 -1 32199
+D2
+~
+~
+0 -1 32190
+Z3
+C-1
+R0
+S
+#32196
+{BOLD}{GREEN}The Thick Jungle{bold}{green}~
+Above your head is an incredibly thick canopy made up of various exotic
+plants, half of which are most likely poisonous. The canopy is so thick
+that almost no light can pass through, making it impossible for anything
+to grow on the ground. Half decayed plant, animal, and humanoid carcasses
+have formed a mud-like soil beneath your feet. The jungle continues in all
+directions accept east, where thick tree trunks make the way impassable.
+~
+321 557073 3
+D0
+~
+~
+0 -1 32192
+D2
+~
+~
+0 -1 32191
+D3
+~
+~
+0 -1 32199
+Z3
+C-1
+R0
+S
+#32197
+{BOLD}{GREEN}The Thick Jungle{bold}{green}~
+Above your head is an incredibly thick canopy made up of various exotic
+plants, half of which are most likely poisonous. The canopy is so thick
+that almost no light can pass through, making it impossible for anything
+to grow on the ground. Half decayed plant, animal, and humanoid carcasses
+have formed a mud-like soil beneath your feet. The jungle continues in all
+directions accept north, where thick tree trunks make the way impassable.
+~
+321 557073 3
+D1
+~
+~
+0 -1 32192
+D2
+~
+~
+0 -1 32199
+D3
+~
+~
+0 -1 32193
+Z3
+C-1
+R0
+S
+#32198
+{BOLD}{GREEN}The Thick Jungle{bold}{green}~
+Above your head is an incredibly thick canopy made up of various exotic
+plants, half of which are most likely poisonous. The canopy is so thick
+that almost no light can pass through, making it impossible for anything
+to grow on the ground. Half decayed plant, animal, and humanoid carcasses
+have formed a mud-like soil beneath your feet. The jungle continues in all
+directions accept south, where thick tree trunks make the way impassable.
+~
+321 557073 3
+D0
+~
+~
+0 -1 32199
+D1
+~
+~
+0 -1 32191
+D3
+~
+~
+0 -1 32190
+D4
+~
+rope~
+3 -1 32194
+E
+tree~
+Looking carefully you see a rope dangling from the tree, maybe
+if you pull it something will happen.
+~
+Z3
+C-1
+R0
+S
+#32199
+{YE}Collection Room{ye}~
+   Collect your belongings here if you died, were maimed, disarmed, ect.
+ Hope you enjoyed your fight!
+                        {RED}**REMINDER** 
+                (1) Take only what belongs to you please.
+                (2) Make sure you have detect invis. ;)
+{red} 
+~
+321 8192 0
+D1
+~
+~
+0 -1 32161
+Z3
+C-1
+R0
+S
+$~

@@ -1,0 +1,262 @@
+#433
+{BO,C}Gondolin, The Hidden Kingdom{bo,c}(Heathen)~
+43399 5000 2
+*
+X 2106322
+O 0 43300     1 43300    {BO,G}Gondolin{bo,g}
+M 0 43300     1 43305    {W}The First Guard{w}
+O 0 43301     1 43305    {BLU}A puddle{blu}
+M 0 43301     7 43309    {BO,G}A keen and aware Elf{bo,g}
+G 1 43302     1     0    {Y}a small wooden key{y}
+D 0 43309     0     2    (N:LOCKED) {Y}The Wooden Gate{y}
+M 0 43301     7 43310    {BO,G}A keen and aware Elf{bo,g}
+G 1 43304     1     0    {C}A key of solid stone{c}
+D 0 43310     0     2    (N:LOCKED) {C}The Stone Gate{c}
+D 0 43310     2     0    (S:OPEN) {C}The Stone Gate{c}
+M 0 43301     7 43311    {BO,G}A keen and aware Elf{bo,g}
+G 1 43305     1     0    {BO,Y}A bronze key.{bo,y}
+D 0 43311     0     2    (N:LOCKED) {BO,Y}The Bronze Gate{bo,y}
+D 0 43311     2     0    (S:OPEN) {BO,Y}The Bronze Gate{bo,y}
+M 0 43301     7 43312    {BO,G}A keen and aware Elf{bo,g}
+G 1 43306     1     0    {C}An iron key.{c}
+D 0 43312     0     2    (N:LOCKED) {C,BO}The Iron Gate{bo,c}
+D 0 43312     2     0    (S:OPEN) {C,BO}The Iron Gate{bo,c}
+M 0 43301     7 43313    {BO,G}A keen and aware Elf{bo,g}
+G 1 43307     1     0    {C,BO}An ornate silver key{bo,c}
+D 0 43313     0     2    (N:LOCKED) {M}The Silver Gate{m}
+D 0 43313     2     0    (S:OPEN) {M}The Silver Gate{m}
+M 0 43318     3 43314    {BO,G}A keen and aware Elf{bo,g}
+M 0 43318     3 43314    {BO,G}A keen and aware Elf{bo,g}
+G 1 43308     1     0    {BO,Y}A key of solid gold{bo,y}
+D 0 43314     0     2    (N:LOCKED) {BO,Y}The Gold Gate{bo,y}
+D 0 43314     2     0    (S:OPEN) {BO,Y}The Gold Gate{bo,y}
+M 0 43318     3 43315    {BO,G}A keen and aware Elf{bo,g}
+G 1 43303     1     0    {BLU}A cold steel key.{blu}
+M 0 43301     7 43315    {BO,G}A keen and aware Elf{bo,g}
+M 0 43301     7 43315    {BO,G}A keen and aware Elf{bo,g}
+D 0 43315     0     2    (N:LOCKED) {BLU}The Steel Gate{blu}
+D 0 43315     2     2    (S:LOCKED) {BLU}The Steel Gate{blu}
+M 0 43302    11 43316    {Y}An outcast from Gondolin{y}
+M 0 43302    11 43316    {Y}An outcast from Gondolin{y}
+M 0 43302    11 43317    {Y}An outcast from Gondolin{y}
+M 0 43302    11 43317    {Y}An outcast from Gondolin{y}
+M 0 43302    11 43318    {Y}An outcast from Gondolin{y}
+M 0 43302    11 43319    {Y}An outcast from Gondolin{y}
+M 0 43302    11 43319    {Y}An outcast from Gondolin{y}
+M 0 43302    11 43321    {Y}An outcast from Gondolin{y}
+M 0 43302    11 43321    {Y}An outcast from Gondolin{y}
+M 0 43302    11 43323    {Y}An outcast from Gondolin{y}
+M 0 43302    11 43323    {Y}An outcast from Gondolin{y}
+M 0 43316    32 43327    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43327    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43327    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43328    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43328    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43328    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43330    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43333    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43333    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43333    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43335    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43336    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43336    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43338    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43338    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43338    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43338    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43339    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43339    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43339    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43341    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43342    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43342    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43344    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43344    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43345    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43345    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43345    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43346    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43346    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43346    {W}A Gondolindrium Citizen{w}
+M 0 43316    32 43347    {W}A Gondolindrium Citizen{w}
+M 0 43303     1 43348    {B}Eol's Ghost{b}
+E 1 43320     2     5    (BODY) {B}Armour of Black Steel{b}
+E 1 43325     3    17    (HELD) {B}R{W}o{B}t{W}t{B}e{W}n {B}S{W}a{B}c{b}
+P 1 43309     1 43325    {BO,W}The key to the main gate{bo,w}
+O 0 43324     1 43349    a back entrance
+M 0 43304     4 43350    {BO,G}The Stair Guard{bo,g}
+M 0 43304     4 43350    {BO,G}The Stair Guard{bo,g}
+M 0 43304     4 43351    {BO,G}The Stair Guard{bo,g}
+M 0 43304     4 43351    {BO,G}The Stair Guard{bo,g}
+M 0 43305     1 43352    {BO,G}Ecthelion of the Fountain{bo,g}
+E 1 43319     4    11    (SHIELD) {CY}{BOLD}the Shield of Ecthelion{cy}
+D 0 43352     0     2    (N:LOCKED) {BO,Y}The {BO,C}Main {BO,G}Gate{bo,g}
+D 0 43353     2     0    (S:OPEN) {C}A Crossroads within the Gate{c}
+M 0 43306    30 43354    {C,BO}An Elven Guard{bo,c}
+M 0 43306    30 43354    {C,BO}An Elven Guard{bo,c}
+M 0 43306    30 43355    {C,BO}An Elven Guard{bo,c}
+M 0 43306    30 43355    {C,BO}An Elven Guard{bo,c}
+M 0 43306    30 43356    {C,BO}An Elven Guard{bo,c}
+M 0 43306    30 43356    {C,BO}An Elven Guard{bo,c}
+M 0 43306    30 43357    {C,BO}An Elven Guard{bo,c}
+M 0 43306    30 43357    {C,BO}An Elven Guard{bo,c}
+D 0 43357     4     2    (U:LOCKED) {W}Tower Square{w}
+M 0 43306    30 43358    {C,BO}An Elven Guard{bo,c}
+M 0 43306    30 43358    {C,BO}An Elven Guard{bo,c}
+M 0 43306    30 43359    {C,BO}An Elven Guard{bo,c}
+M 0 43306    30 43359    {C,BO}An Elven Guard{bo,c}
+M 0 43319     6 43359    {C,BO}An Elven Guard{bo,c}
+M 0 43306    30 43360    {C,BO}An Elven Guard{bo,c}
+M 0 43306    30 43360    {C,BO}An Elven Guard{bo,c}
+M 0 43313    27 43361    {Y}A common citizen{y}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43306    30 43361    {C,BO}An Elven Guard{bo,c}
+M 0 43306    30 43361    {C,BO}An Elven Guard{bo,c}
+M 0 43306    30 43362    {C,BO}An Elven Guard{bo,c}
+M 0 43306    30 43362    {C,BO}An Elven Guard{bo,c}
+M 0 43306    30 43363    {C,BO}An Elven Guard{bo,c}
+M 0 43306    30 43363    {C,BO}An Elven Guard{bo,c}
+M 0 43319     6 43363    {C,BO}An Elven Guard{bo,c}
+M 0 43306    30 43364    {C,BO}An Elven Guard{bo,c}
+M 0 43306    30 43364    {C,BO}An Elven Guard{bo,c}
+M 0 43306    30 43365    {C,BO}An Elven Guard{bo,c}
+M 0 43306    30 43365    {C,BO}An Elven Guard{bo,c}
+M 0 43312    21 43367    {BO,G}A tall and fair Gondolindrium{bo,g}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43313    27 43367    {Y}A common citizen{y}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43313    27 43368    {Y}A common citizen{y}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43313    27 43368    {Y}A common citizen{y}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43313    27 43368    {Y}A common citizen{y}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43313    27 43368    {Y}A common citizen{y}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43312    21 43368    {BO,G}A tall and fair Gondolindrium{bo,g}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43313    27 43368    {Y}A common citizen{y}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43312    21 43368    {BO,G}A tall and fair Gondolindrium{bo,g}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+P 1 43311     1 43313    {C}A {M}Royal {C}invitation.{c}
+M 0 43313    27 43369    {Y}A common citizen{y}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43312    21 43369    {BO,G}A tall and fair Gondolindrium{bo,g}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43313    27 43369    {Y}A common citizen{y}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43313    27 43369    {Y}A common citizen{y}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43312    21 43370    {BO,G}A tall and fair Gondolindrium{bo,g}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43312    21 43370    {BO,G}A tall and fair Gondolindrium{bo,g}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43312    21 43370    {BO,G}A tall and fair Gondolindrium{bo,g}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43319     6 43370    {C,BO}An Elven Guard{bo,c}
+M 0 43307     4 43371    {BO,M}The Tower Guard{bo,m}
+M 0 43307     4 43371    {BO,M}The Tower Guard{bo,m}
+D 0 43371     5     0    (D:OPEN) {W}First Floor of the Tower{w}
+M 0 43307     4 43372    {BO,M}The Tower Guard{bo,m}
+M 0 43307     4 43372    {BO,M}The Tower Guard{bo,m}
+M 0 43310     1 43373    {R}Maeglin, son of Eol{r}
+E 1 43318     2    17    (HELD) {B}Dagger of Black Steel{b}
+D 0 43373     4     0    (U:OPEN) {W}Third Floor of the Tower{w}
+M 0 43308     4 43374    {M}A Palace Guard{m}
+M 0 43308     4 43374    {M}A Palace Guard{m}
+M 0 43308     4 43375    {M}A Palace Guard{m}
+M 0 43308     4 43375    {M}A Palace Guard{m}
+D 0 43375     0     2    (N:LOCKED) {BO,Y}Before the {BO,W}Palace{bo,w}
+M 0 43317     5 43376    {BO,G}The{bo,g} {G}Royal{g} {BO,G}Guard{bo,g}
+M 0 43317     5 43376    {BO,G}The{bo,g} {G}Royal{g} {BO,G}Guard{bo,g}
+M 0 43317     5 43376    {BO,G}The{bo,g} {G}Royal{g} {BO,G}Guard{bo,g}
+M 0 43309     1 43376    {BO,G}Lord Turgon{bo,g}
+E 1 43314     3     2    (FINGER) {W,BO}Th{bo,w}{W}e Rin{BO,C}g of{bo,c} {C}t{c}{BO,C}he V{bo,c}{W}any{w}{BO,W}ar{bo,w}
+E 1  3009    74    12    (ABOUT) Random Stat Obj
+D 0 43376     2     0    (S:OPEN) {BO,G}Turgon's Throne Room{bo,g}
+M 0 43306    30 43377    {C,BO}An Elven Guard{bo,c}
+M 0 43306    30 43377    {C,BO}An Elven Guard{bo,c}
+M 0 43312    21 43378    {BO,G}A tall and fair Gondolindrium{bo,g}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43319     6 43378    {C,BO}An Elven Guard{bo,c}
+M 0 43313    27 43379    {Y}A common citizen{y}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43313    27 43380    {Y}A common citizen{y}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43313    27 43380    {Y}A common citizen{y}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+P 1 43312     1 43313    {W}A simple house key.{w}
+M 0 43312    21 43380    {BO,G}A tall and fair Gondolindrium{bo,g}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43312    21 43381    {BO,G}A tall and fair Gondolindrium{bo,g}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43313    27 43381    {Y}A common citizen{y}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43312    21 43381    {BO,G}A tall and fair Gondolindrium{bo,g}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43313    27 43381    {Y}A common citizen{y}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43313    27 43381    {Y}A common citizen{y}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43312    21 43381    {BO,G}A tall and fair Gondolindrium{bo,g}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43313    27 43381    {Y}A common citizen{y}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43313    27 43382    {Y}A common citizen{y}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43312    21 43382    {BO,G}A tall and fair Gondolindrium{bo,g}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43313    27 43383    {Y}A common citizen{y}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43313    27 43383    {Y}A common citizen{y}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43313    27 43383    {Y}A common citizen{y}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43312    21 43383    {BO,G}A tall and fair Gondolindrium{bo,g}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43311     1 43384    {BLU,BO}Ulmo{blu,bo}
+E 1 43317     5     5    (BODY) {BO,BLU}Ulmo's Shadow{blu,bo}
+M 0 43306    30 43386    {C,BO}An Elven Guard{bo,c}
+M 0 43306    30 43386    {C,BO}An Elven Guard{bo,c}
+M 0 43317     5 43387    {BO,G}The{bo,g} {G}Royal{g} {BO,G}Guard{bo,g}
+M 0 43317     5 43387    {BO,G}The{bo,g} {G}Royal{g} {BO,G}Guard{bo,g}
+D 0 43387     0     2    (N:LOCKED) {BLU,BO}Road of Pomps{blu,bo}
+D 0 43388     2     2    (S:LOCKED) {C}The Foyer{c}
+M 0 43314     1 43390    {C}Tuor, son of Huor{c}
+E 1 43315     1    16    (WIELD) {BO,Y}The {R}Sword {Y}of the Edain{bo,y}
+M 0 43315     1 43391    {BO,C}Indril{bo,c}
+E 1 43316     1     6    (HEAD) {C}a pie{c}{C,BO}ce{bo,c} {W}of{w} {W,BO}Fea{bo,w}{W}no{w}{C,BO}r's p{c,bo}{C}ride{c}
+M 0 43319     6 43392    {C,BO}An Elven Guard{bo,c}
+M 0 43312    21 43392    {BO,G}A tall and fair Gondolindrium{bo,g}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43313    27 43393    {Y}A common citizen{y}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43313    27 43393    {Y}A common citizen{y}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43312    21 43393    {BO,G}A tall and fair Gondolindrium{bo,g}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+P 1 43310     1 43313    {C}A key to the King's Tower.{c}
+M 0 43312    21 43394    {BO,G}A tall and fair Gondolindrium{bo,g}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43319     6 43394    {C,BO}An Elven Guard{bo,c}
+M 0 43312    21 43394    {BO,G}A tall and fair Gondolindrium{bo,g}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43313    27 43395    {Y}A common citizen{y}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43312    21 43395    {BO,G}A tall and fair Gondolindrium{bo,g}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43312    21 43395    {BO,G}A tall and fair Gondolindrium{bo,g}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43313    27 43395    {Y}A common citizen{y}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43312    21 43395    {BO,G}A tall and fair Gondolindrium{bo,g}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43313    27 43396    {Y}A common citizen{y}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43313    27 43396    {Y}A common citizen{y}
+G 1 43313    48     0    {BO,Y}A large bag{bo,y}
+M 0 43306    30 43398    {C,BO}An Elven Guard{bo,c}
+M 0 43306    30 43398    {C,BO}An Elven Guard{bo,c}
+D 0 43399     5     0    (D:OPEN) {BLU}Bell Room{blu}
+$~

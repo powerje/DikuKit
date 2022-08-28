@@ -1,0 +1,260 @@
+#413
+{C,BO}City of Lankhmar{bo,c}(Borealis)~
+41399 200 1
+*
+X 25808
+O 0 41325     1 41311    {Y}Oo0oO A Fountain of Gingerale Oo0oO{y}
+O 0 41324     1 41313    The Ferry to Lankhmar
+M 0 41310    10 41316    {R}A Brigand of the Streets{r}
+M 0 41310    10 41320    {R}A Brigand of the Streets{r}
+M 0 41302    14 41321    {C}A priest of {W}Lanhkmar{w}
+D 0 41321     2     1    (S:CLOSED) {W}Street of the Gods{w}
+M 0 41314     8 41322    {C}A Thief of {W}Lankhmar{w}
+M 0 41314     8 41322    {C}A Thief of {W}Lankhmar{w}
+M 0 41314     8 41322    {C}A Thief of {W}Lankhmar{w}
+D 0 41322     0     2    (N:LOCKED) {C}Thieves' House{c}
+M 0 41311     7 41323    {W}A Scalawag of Lankhmar{w}
+M 0 41314     8 41323    {C}A Thief of {W}Lankhmar{w}
+M 0 41314     8 41323    {C}A Thief of {W}Lankhmar{w}
+M 0 41314     8 41323    {C}A Thief of {W}Lankhmar{w}
+M 0 41314     8 41324    {C}A Thief of {W}Lankhmar{w}
+M 0 41314     8 41324    {C}A Thief of {W}Lankhmar{w}
+M 0 41322    10 41324    {M}A Pimp{m}
+E 1 41303     1     6    (HEAD) {M}A Pimp Hat{m}
+M 0 41315     1 41325    {R}Fissif {C}the Thief{c}
+G 1 41315     1     0    {C,BO}Silver Key{bo,c}
+D 0 41325     2     0    (S:OPEN) {Y,BO}Rats' Nest{y,bo}
+M 0 41313    14 41326    {Y,BO}A Street Vendor{bo,y}
+M 0 41313    14 41326    {Y,BO}A Street Vendor{bo,y}
+D 0 41326     0     2    (N:LOCKED) {Y}Lankhmar: {G}Cash Street{g}
+M 0 41316     4 41327    {W}A God of Lankhmar{w}
+M 0 41316     4 41327    {W}A God of Lankhmar{w}
+G 1 41300     2     0    {W,BO}+{Y}+{W}+{bo,W}Ivory Staff{W,BO}+{Y}+{W}+{w,bo}
+M 0 41316     4 41327    {W}A God of Lankhmar{w}
+M 0 41316     4 41327    {W}A God of Lankhmar{w}
+D 0 41328     2     0    (S:OPEN) {Y,BO}Temple of the {W}Gods of Lankhmar{w,bo}
+M 0 41302    14 41329    {C}A priest of {W}Lanhkmar{w}
+M 0 41302    14 41329    {C}A priest of {W}Lanhkmar{w}
+D 0 41329     0     2    (N:LOCKED) {W}Street of the Gods{w}
+M 0 41317     1 41330    {C,BO}Jengao {R}the Jeweler{bo,r}
+G 1 41318     1     0    {R,BO}G{C}e{R}m{C}m{R}e{C}d {Y}Key{y,bo}
+D 0 41330     2     0    (S:OPEN) {R,BO}Jengao's {C}Gems{c,bo}
+M 0 41318     3 41331    {BL,BO}A Kleshite Priestess{bo,bl}
+M 0 41318     3 41331    {BL,BO}A Kleshite Priestess{bo,bl}
+E 1 41301     2    17    (HELD) {BL,BO}A Kleshite Icon{bl,bo}
+M 0 41318     3 41331    {BL,BO}A Kleshite Priestess{bo,bl}
+D 0 41331     0     2    (N:LOCKED) {BLA,BO}Shrine of the Black Virgin{bla,bo}
+D 0 41331     3     0    (W:OPEN) {BLA,BO}Shrine of the Black Virgin{bla,bo}
+M 0 41311     7 41332    {W}A Scalawag of Lankhmar{w}
+M 0 41310    10 41333    {R}A Brigand of the Streets{r}
+M 0 41313    14 41333    {Y,BO}A Street Vendor{bo,y}
+M 0 41313    14 41333    {Y,BO}A Street Vendor{bo,y}
+M 0 41319     1 41334    {Y}A Barbarian Priest{y}
+E 1 41302     1    12    (ABOUT) {Y}A Flea-Bitten fur{y}
+G 1 41311     1     0    {Y}Fuzzy Key{y}
+D 0 41334     2     0    (S:OPEN) {Y,BO}Temple of {R}Kos{r,bo}
+M 0 41302    14 41335    {C}A priest of {W}Lanhkmar{w}
+M 0 41302    14 41335    {C}A priest of {W}Lanhkmar{w}
+D 0 41335     0     2    (N:LOCKED) {W}Street of the Gods{w}
+M 0 41310    10 41336    {R}A Brigand of the Streets{r}
+M 0 41320     1 41336    A Wine Merchant
+G 1 41309   230     0    {W}0o.o*{C}Bubbly Wine{W}*o.o0{w}
+M 0 41321     3 41337    {BL,BO}A{W}n {BL}A{W}s{BL}t{W}r{BL}a{W}l {BL}H{W}o{BL}u{W}n{BL}d
+M 0 41321     3 41337    {BL,BO}A{W}n {BL}A{W}s{BL}t{W}r{BL}a{W}l {BL}H{W}o{BL}u{W}n{BL}d
+M 0 41321     3 41337    {BL,BO}A{W}n {BL}A{W}s{BL}t{W}r{BL}a{W}l {BL}H{W}o{BL}u{W}n{BL}d
+M 0 41310    10 41338    {R}A Brigand of the Streets{r}
+M 0 41322    10 41338    {M}A Pimp{m}
+M 0 41322    10 41338    {M}A Pimp{m}
+M 0 41313    14 41339    {Y,BO}A Street Vendor{bo,y}
+M 0 41313    14 41339    {Y,BO}A Street Vendor{bo,y}
+M 0 41323     1 41340    {C}The Beastmaster{c}
+E 1 41304     1    10    (ARMS) {C}={R}Beastly{C}={R}Sleeves{C}={c}
+G 1 41321     1     0    {C,BO}Electrum Key{c,bo}
+D 0 41340     2     0    (S:OPEN) {Y,BO}Temple of {C}Beasts{c,bo}
+D 0 41341     0     2    (N:LOCKED) {W}Street of the Gods{w}
+D 0 41342     2     2    (S:LOCKED) {Y}Lankhmar: {M,BO}Whore Street{m,bo}
+M 0 41324     1 41343    {BL,BO}Prince Faroomfar{bo,bl}
+G 1 41322     1     0    {BL,BO}Ebony Key{bo,bl}
+D 0 41343     0     0    (N:OPEN) {BL,BO}Murder Alley{bl,bo}
+M 0 41311     7 41346    {W}A Scalawag of Lankhmar{w}
+M 0 41313    14 41346    {Y,BO}A Street Vendor{bo,y}
+M 0 41313    14 41346    {Y,BO}A Street Vendor{bo,y}
+M 0 41325     9 41347    {M,BO}A Priest of Hates{bo,m}
+M 0 41325     9 41347    {M,BO}A Priest of Hates{bo,m}
+M 0 41325     9 41347    {M,BO}A Priest of Hates{bo,m}
+M 0 41325     9 41348    {M,BO}A Priest of Hates{bo,m}
+M 0 41325     9 41348    {M,BO}A Priest of Hates{bo,m}
+M 0 41325     9 41348    {M,BO}A Priest of Hates{bo,m}
+D 0 41348     2     0    (S:OPEN) {BL,BO}Temple of {R}Hates{r,bo}
+M 0 41302    14 41349    {C}A priest of {W}Lanhkmar{w}
+M 0 41302    14 41349    {C}A priest of {W}Lanhkmar{w}
+M 0 41302    14 41349    {C}A priest of {W}Lanhkmar{w}
+M 0 41302    14 41349    {C}A priest of {W}Lanhkmar{w}
+D 0 41349     0     2    (N:LOCKED) {W}Street of the Gods{w}
+D 0 41349     2     0    (S:OPEN) {W}Street of the Gods{w}
+D 0 41350     0     0    (N:OPEN) {Y}Lankhmar: {C,BO}Cheap Street{c,bo}
+M 0 41310    10 41352    {R}A Brigand of the Streets{r}
+M 0 41313    14 41354    {Y,BO}A Street Vendor{bo,y}
+M 0 41313    14 41354    {Y,BO}A Street Vendor{bo,y}
+M 0 41325     9 41355    {M,BO}A Priest of Hates{bo,m}
+M 0 41325     9 41355    {M,BO}A Priest of Hates{bo,m}
+M 0 41325     9 41355    {M,BO}A Priest of Hates{bo,m}
+M 0 41326     1 41356    {M,BO}Priestess of Illala{bo,m}
+E 1 41305     2     5    (BODY) {W}::A Platinum Corset::{w}
+G 1 41319     1     0    {C,BO}Platinum Key{c,bo}
+D 0 41356     2     0    (S:OPEN) {Y,BO}Temple of {M}Illala{m,bo}
+M 0 41302    14 41357    {C}A priest of {W}Lanhkmar{w}
+D 0 41357     0     2    (N:LOCKED) {W}Street of the Gods{w}
+M 0 41327     1 41358    {C}Nattick{c}
+G 1 41320     1     0    {Y}Clay Key{y}
+D 0 41358     1     0    (E:OPEN) {R,BO}Death {BL}Alley{bl,bo}
+M 0 41311     7 41360    {W}A Scalawag of Lankhmar{w}
+M 0 41328     1 41360    {C}Alyx the Picklock{c}
+G 1 41310     1     0    {BLU,BO}Sapphire Key{bo}
+M 0 41329     1 41361    {BL,BO}An Iron Statue{bo,bl}
+M 0 41310    10 41362    {R}A Brigand of the Streets{r}
+M 0 41313    14 41362    {Y,BO}A Street Vendor{bo,y}
+M 0 41313    14 41362    {Y,BO}A Street Vendor{bo,y}
+M 0 41330     1 41363    {W,BO}T{R}h{W}e {R}F{W}o{R}g{bo}
+E 1 41308     2    18    (INSIGNIA) {BL,BO}The Badge of {R}Hates{r,bo}
+G 1 41313     1     0    {Y,BO}Gold Key{bo,y}
+M 0 41331     1 41364    {W}Issek of the Jug{w}
+E 1 41306     1    15    (WRIST) {Y}A pair of {C}Brass {Y}o-o{C} Cuffs{c}
+E 1 41323     1    17    (HELD) {Y}Issek's Jug{y}
+G 1 41316     1     0    {C,BO}Steel Key{c,bo}
+D 0 41364     2     0    (S:OPEN) {Y,BO}Temple of {C}Issek of the Jug{c,bo}
+M 0 41302    14 41365    {C}A priest of {W}Lanhkmar{w}
+M 0 41302    14 41365    {C}A priest of {W}Lanhkmar{w}
+M 0 41302    14 41365    {C}A priest of {W}Lanhkmar{w}
+M 0 41302    14 41365    {C}A priest of {W}Lanhkmar{w}
+D 0 41365     0     2    (N:LOCKED) {W}Street of the Gods{w}
+M 0 41332     8 41366    {R}A Giant Rat{r}
+M 0 41332     8 41366    {R}A Giant Rat{r}
+M 0 41332     8 41366    {R}A Giant Rat{r}
+M 0 41332     8 41366    {R}A Giant Rat{r}
+D 0 41366     3     2    (W:LOCKED) {R,BO}Plague {BL}Court{bl,bo}
+M 0 41332     8 41367    {R}A Giant Rat{r}
+M 0 41332     8 41367    {R}A Giant Rat{r}
+M 0 41332     8 41367    {R}A Giant Rat{r}
+M 0 41332     8 41367    {R}A Giant Rat{r}
+D 0 41367     2     2    (S:LOCKED) {R,BO}Plague {BL}Court{bl,bo}
+M 0 41333     1 41368    {BL,BO}A Black Cloak{bo,bl}
+G 1 41317     1     0    {R,BO}Ruby Key{r,bo}
+D 0 41368     0     0    (N:OPEN) {W,BO}B{BL}o{W}n{BL}e{W}s A{BL}l{W}l{BL}e{W}y{w,bo}
+M 0 41310    10 41370    {R}A Brigand of the Streets{r}
+M 0 41313    14 41370    {Y,BO}A Street Vendor{bo,y}
+M 0 41313    14 41370    {Y,BO}A Street Vendor{bo,y}
+M 0 41335     1 41371    {R}Tyaa{r}
+E 1 41307     1    17    (HELD) {W,BO}--){BL}-- Ebon Rapier --{R}--{r}
+G 1 41312     1     0    {W}Ivory Key{w}
+D 0 41371     2     0    (S:OPEN) {W,BO}S{BL}p{W}e{BL}c{W}t{BL}r{W}e A{BL}l{W}l{BL}e{W}y{w,bo}
+D 0 41372     0     2    (N:LOCKED) {W}The Marsh Gate{w}
+M 0 41311     7 41373    {W}A Scalawag of Lankhmar{w}
+M 0 41336    17 41373    A Lankhmar Soldier
+M 0 41336    17 41373    A Lankhmar Soldier
+M 0 41336    17 41373    A Lankhmar Soldier
+M 0 41336    17 41373    A Lankhmar Soldier
+M 0 41336    17 41373    A Lankhmar Soldier
+M 0 41336    17 41373    A Lankhmar Soldier
+M 0 41336    17 41373    A Lankhmar Soldier
+M 0 41336    17 41374    A Lankhmar Soldier
+M 0 41336    17 41374    A Lankhmar Soldier
+M 0 41336    17 41374    A Lankhmar Soldier
+M 0 41336    17 41374    A Lankhmar Soldier
+M 0 41336    17 41375    A Lankhmar Soldier
+M 0 41336    17 41375    A Lankhmar Soldier
+M 0 41336    17 41375    A Lankhmar Soldier
+M 0 41336    17 41376    A Lankhmar Soldier
+M 0 41336    17 41376    A Lankhmar Soldier
+M 0 41310    10 41377    {R}A Brigand of the Streets{r}
+M 0 41336    17 41377    A Lankhmar Soldier
+M 0 41310    10 41378    {R}A Brigand of the Streets{r}
+M 0 41337     1 41378    {BL,BO}The {R}D{BL}e{R}a{BL}d {R}M{BL}a{R}s{BL}t{R}e{BL}r {R}T{BL}h{R}i{BL}e{R}f{r}
+G 1 41314     1     0    {BL,BO}Bone Key{bo,bl}
+M 0 41339    36 41380    {R}A Pirate{r}
+M 0 41339    36 41380    {R}A Pirate{r}
+M 0 41339    36 41380    {R}A Pirate{r}
+M 0 41338    39 41380    {Y}A Sailor{y}
+M 0 41338    39 41380    {Y}A Sailor{y}
+M 0 41338    39 41380    {Y}A Sailor{y}
+M 0 41338    39 41380    {Y}A Sailor{y}
+M 0 41339    36 41381    {R}A Pirate{r}
+M 0 41339    36 41381    {R}A Pirate{r}
+M 0 41339    36 41381    {R}A Pirate{r}
+M 0 41338    39 41381    {Y}A Sailor{y}
+M 0 41338    39 41381    {Y}A Sailor{y}
+M 0 41338    39 41381    {Y}A Sailor{y}
+M 0 41339    36 41382    {R}A Pirate{r}
+M 0 41338    39 41382    {Y}A Sailor{y}
+M 0 41338    39 41382    {Y}A Sailor{y}
+M 0 41338    39 41382    {Y}A Sailor{y}
+M 0 41338    39 41382    {Y}A Sailor{y}
+M 0 41339    36 41383    {R}A Pirate{r}
+M 0 41339    36 41383    {R}A Pirate{r}
+M 0 41339    36 41383    {R}A Pirate{r}
+M 0 41338    39 41383    {Y}A Sailor{y}
+M 0 41338    39 41383    {Y}A Sailor{y}
+M 0 41338    39 41383    {Y}A Sailor{y}
+M 0 41339    36 41384    {R}A Pirate{r}
+M 0 41339    36 41384    {R}A Pirate{r}
+M 0 41339    36 41384    {R}A Pirate{r}
+M 0 41339    36 41384    {R}A Pirate{r}
+M 0 41338    39 41384    {Y}A Sailor{y}
+M 0 41338    39 41384    {Y}A Sailor{y}
+M 0 41338    39 41384    {Y}A Sailor{y}
+M 0 41339    36 41385    {R}A Pirate{r}
+M 0 41339    36 41385    {R}A Pirate{r}
+M 0 41339    36 41385    {R}A Pirate{r}
+M 0 41338    39 41385    {Y}A Sailor{y}
+M 0 41338    39 41385    {Y}A Sailor{y}
+M 0 41338    39 41385    {Y}A Sailor{y}
+M 0 41339    36 41386    {R}A Pirate{r}
+M 0 41339    36 41386    {R}A Pirate{r}
+M 0 41339    36 41386    {R}A Pirate{r}
+M 0 41338    39 41386    {Y}A Sailor{y}
+M 0 41338    39 41386    {Y}A Sailor{y}
+M 0 41338    39 41386    {Y}A Sailor{y}
+M 0 41338    39 41386    {Y}A Sailor{y}
+M 0 41338    39 41387    {Y}A Sailor{y}
+M 0 41338    39 41387    {Y}A Sailor{y}
+M 0 41339    36 41387    {R}A Pirate{r}
+M 0 41339    36 41387    {R}A Pirate{r}
+M 0 41338    39 41388    {Y}A Sailor{y}
+M 0 41338    39 41388    {Y}A Sailor{y}
+M 0 41339    36 41388    {R}A Pirate{r}
+M 0 41339    36 41388    {R}A Pirate{r}
+M 0 41338    39 41389    {Y}A Sailor{y}
+M 0 41338    39 41389    {Y}A Sailor{y}
+M 0 41339    36 41389    {R}A Pirate{r}
+M 0 41339    36 41389    {R}A Pirate{r}
+M 0 41339    36 41389    {R}A Pirate{r}
+M 0 41339    36 41389    {R}A Pirate{r}
+M 0 41338    39 41390    {Y}A Sailor{y}
+M 0 41338    39 41390    {Y}A Sailor{y}
+M 0 41338    39 41390    {Y}A Sailor{y}
+M 0 41338    39 41390    {Y}A Sailor{y}
+M 0 41339    36 41390    {R}A Pirate{r}
+M 0 41339    36 41390    {R}A Pirate{r}
+M 0 41339    36 41390    {R}A Pirate{r}
+M 0 41339    36 41390    {R}A Pirate{r}
+M 0 41339    36 41390    {R}A Pirate{r}
+M 0 41339    36 41391    {R}A Pirate{r}
+M 0 41338    39 41391    {Y}A Sailor{y}
+M 0 41338    39 41391    {Y}A Sailor{y}
+M 0 41339    36 41392    {R}A Pirate{r}
+M 0 41339    36 41392    {R}A Pirate{r}
+M 0 41338    39 41392    {Y}A Sailor{y}
+M 0 41338    39 41392    {Y}A Sailor{y}
+M 0 41338    39 41392    {Y}A Sailor{y}
+M 0 41322    10 41393    {M}A Pimp{m}
+M 0 41322    10 41393    {M}A Pimp{m}
+M 0 41322    10 41394    {M}A Pimp{m}
+M 0 41322    10 41394    {M}A Pimp{m}
+M 0 41322    10 41394    {M}A Pimp{m}
+M 0 41311     7 41395    {W}A Scalawag of Lankhmar{w}
+M 0 41311     7 41395    {W}A Scalawag of Lankhmar{w}
+M 0 41322    10 41395    {M}A Pimp{m}
+M 0 41322    10 41395    {M}A Pimp{m}
+M 0 41334     1 41396    {BL,BO}Slivikin{bo,bl}
+D 0 41396     1     0    (E:OPEN) {Y}Lankhmar: {W}Silver Street{w}
+$~

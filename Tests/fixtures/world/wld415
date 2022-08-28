@@ -1,0 +1,2337 @@
+#41500
+{C,BO}Nomad's Cozy Little Office{c,bo}~
+
+   {BO,W}You've entered into a meticulously appointed office.
+   A large leather covered Settee sits waitingly in the
+   corner. Opposite the settee is an oversized leather
+   chair and ottoman. With the lights at a comfortable
+   level and the air conditioner humming pleasantly in
+   the background, you feel totaly at ease and ready to
+   discuss you most intimate and most personal secrets.{bo,w}
+
+~
+415 262144 1
+Z-1
+C-1
+S
+#41501
+{BO,W}Welcome to{bo,w} {BO,G}Fr{bo,g}{BO,Y}ie{bo,y}{BO,G}nd{bo,g}{BO,Y}Sh{bo,y}{BO,G}ip{bo,g} {BO,Y}Ho{bo,y}{BO,G}u{bo,g}{BO,Y}se{bo,y}~
+
+   {W}You had to fight through  hellish traffic and parking lot 
+   kamikazes, but you  finally made it. OK, now that you are 
+   here where should you go to first? Perhaps there is a 
+   friendly and informative Receptionist nearby. Anyway, 
+       just take a look around, and for God's sake... 
+                    
+                 {BO,W}Beware the Children!{bo,w}
+
+~
+415 8 1
+D1
+{BO,C}You see a pleasant enough looking Waiting Room.{bo,c}
+
+~
+~
+0 -1 41502
+D2
+~
+~
+0 -1 41503
+M25
+Y50
+Z-1
+C-1
+S
+#41502
+{BO,Y}The busy waiting room{bo,y}~
+
+   {BO,W}As you enter the waiting area you come across several angry faces. 
+   The parents of two of the troublesome youths who attend this school 
+   are unhappily sitting here. You want to say something clever and 
+   encouraging, but you seem to blank out on the right words. You had 
+   better just keep moving before you make matters worse for them.{bo,w}
+
+~
+415 8 1
+D2
+{BO,C}You see some another Waiting Room{bo,c}
+
+~
+~
+0 -1 41504
+D3
+~
+~
+0 -1 41501
+Z-1
+C-1
+S
+#41503
+{BO,Y}The busy waiting room.{bo,y}~
+
+   {W}You follow what looks to be a well worn foot path in the Berber rug.{w}
+
+~
+415 8 1
+D0
+~
+~
+0 -1 41501
+D1
+~
+~
+0 -1 41504
+D2
+~
+~
+0 -1 41505
+Z-1
+C-1
+S
+#41504
+{BO,Y}The busy waiting room.{bo,y}~
+                    
+   {BO,W}Sitting here are several well dressed Case Workers from various
+   counties. At first you wonder why they are sitting apart from the
+   parents. But, when two of them start yelling into their Nextel 
+   phones and another starts clicking away on his Palm Pilot, you
+   get the picture pretty quickly. The Parents are sitting AWAY from
+   them. You get the feeling you should hurry on along.{bo,w}
+
+~
+415 264 1
+D0
+~
+~
+0 -1 41502
+D3
+You see an angry young woman sitting behind some plexi-glass.
+   As you stare at her she looks up from her cat pictures and snarls:
+   "Whadda want!!!"
+
+~
+~
+0 -1 41503
+T41533
+Z-1
+C-1
+S
+#41505
+{BO,Y}Main Hallway.{bo,y}~
+
+   {W,BO}You enter into a noisy hallway. Kids of all shapes and sizes{w,bo}
+   {W,BO}are running this way and that. To your right you see a small{w,bo}
+   {BO,W}window. Peeking through this window may be a good idea.{bo,w}
+
+~
+415 8 1
+D0
+~
+~
+0 -1 41503
+D2
+~
+~
+0 -1 41506
+E
+window~
+
+ 
+   {Y}You see a woman sitting here trying to hide
+   her growing years and god given ugliness with.
+   layer upon layer of make-up. When she finally 
+   notices you, she looks up from her cat pictures 
+   and snarls at you...{y} {Y,BO}"WHAT D'YA WANT!?"{bo,y}
+   {C}Behind the woman there is a ring of keys.
+   Perhaps you could climb through this window.{c}
+~
+Z-1
+C-1
+S
+#41506
+{BO,Y}Main Hallway.{bo,y}~
+
+   {W}I hope for your sake you are wearing a{w} {R}VISITOR's Badge{r}{W}!{w}   
+   {W}You are now standing in the main hallway. The hall splits
+   both left and right. You also notice a door straight ahead
+   of you. You consider opening the door, but then{w} {G,BO}it{bo,g} {W}hits you.{w}
+                 {BO,G}What the hell is that smell?!{bo,g}
+
+~
+415 12 1
+D0
+Back towards the enterance
+~
+~
+0 -1 41505
+D1
+~
+~
+0 -1 41509
+D2
+{BO,BLU}Janitor's Closet{bo,blu}
+  
+  {BO,W}If this door is locked
+check with the receptionist
+     Thanks, Mr. Vic{w,bo}
+
+~
+closet~
+2 41502 41508
+D3
+~
+~
+0 -1 41507
+Z-1
+C-1
+S
+#41507
+{BO,Y}Moving towards the Executive offices.{bo,y}~
+
+   {C}You have to dodge a few{c} {BO,BLI,C}HYPER-ACTIVE{bo,bli,c} {C}kids as you move along the hallway.{c}
+
+~
+415 8 1
+D0
+~
+reception door~
+4 -1 41513
+D1
+~
+~
+0 -1 41506
+D3
+~
+~
+0 -1 41514
+Z-1
+C-1
+S
+#41508
+{G,BO}Janitor's Closet{g,bo}~
+    
+   {BLU}Man! Is it dark and stinky in here? You must have
+   stumbled into the nastiest janitor's closet in the
+   world, let alone this building. Sitting in here is
+   Mr. Vic. Poor Mr. Vic, always having to do the dirty
+   work for the rest of the staff. Why don't you put
+   him out of his olfactory misery.{blu}
+
+~
+415 280 1
+D0
+~
+closet~
+1 -1 41506
+T41533
+Z15
+C2
+S
+#41509
+{BO,Y}Moving towards the classrooms.{bo,y}~
+  
+   {BO,C}As you head down in this direction the kids seem to be getting louder.
+   {BO,G}You hear someone shouting on their phone in the room in front of you!{bo,g}
+
+~
+415 8 1
+D0
+The Placard reads:
+     {W}Judy So-and-So{w}
+~
+office door~
+2 41502 41515
+D1
+~
+~
+0 -1 41510
+D3
+~
+~
+0 -1 41506
+Z-1
+C-1
+S
+#41510
+{BO,Y}Moving towards the classrooms.{bo,y}~
+
+   {BO,C}As you head down in this direction the kids seem to be getting louder.{c,bo}
+
+~
+415 0 1
+D1
+~
+~
+0 -1 41511
+D3
+~
+~
+0 -1 41509
+Z-1
+C-1
+S
+#41511
+{BO,Y}Moving towards the classrooms.{bo,y}~
+
+   {BO,C}As you head down in this direction the kids seem to be getting louder.{c,bo}
+
+~
+415 0 1
+D1
+~
+~
+0 -1 41512
+D3
+~
+~
+0 -1 41510
+Z-1
+C-1
+S
+#41512
+{BO,Y}Moving towards the classrooms.{bo,y}~
+
+   
+   {C,BO}As you head down in this direction, the kids seem to 
+   be getting louder. You are not quite sure, but you 
+   think you hear snoring in the office in front of you.{c,bo}
+
+~
+415 0 1
+D0
+The placard reads: "Evening Program Office"
+~
+office door~
+2 41502 41516
+D1
+~
+~
+0 -1 41517
+D3
+~
+~
+0 -1 41511
+Z-1
+C-1
+S
+#41513
+{BO,Y}Behind the Reception Desk,{bo,y}~
+ 
+             {BO,W,BLI}RING!!! RING!!! BUZZ!!! BUZZ!!!
+             BUZZ!!! BUZZ!!! RING!!! RING!!!{bo,bli,w}
+   {BO,Y}Oh, man! You have just wandered behind the Receptionist's
+   desk. This is one of those few No Man's Lands here at FH{bo,y}
+    {W}Better skaddadle before she realizes that you are here.{w}
+
+~
+415 8 1
+D2
+Reception Door
+~
+reception door~
+1 41502 41507
+E
+hook~
+
+   Behind the receptionist is a key hook nailed to the wall.
+   These keys look awfully important.
+
+~
+Z-1
+C2
+S
+#41514
+{BO,Y}Moving down the Hallway.{bo,y}~
+
+   {Y}Pondering to yourself about the questionability of your surroundings, 
+   you press onward through the crowded hallway, cautiously avoiding 
+   trampling over a small child.{y}
+
+~
+415 8 1
+D0
+{W,BO}Executive Offices{bo,w}
+
+~
+executive door~
+2 41502 41571
+D1
+~
+~
+0 -1 41507
+D3
+~
+~
+0 -1 41545
+Z-1
+C-1
+S
+#41515
+{BO,W}Judy So-and-So's Office{bo,w}~
+
+   {BO,M}So this is Judy So-and-So's office.{bo,m}
+   {BO,M}So{bo,m} {BO,R}Warm and Cosy.{bo,r} {BO,M}No wonder she{bo,m} {BO,M,BLI}NEVER{bo,m,bli} {BO,M}leaves it.{bo,m}
+
+~
+415 0 1
+D2
+You a seldom used door here.
+~
+office door~
+1 -1 41509
+Z-1
+C-1
+S
+#41516
+{BO,W}Jim and Dana's Office{bo,w}~
+
+   {M}You look around this mess and finally understand why
+   Jim {BO,BLI,M}NEVER{bo,bli,m} {M}gets anything done and loses everything. Jim
+   and Dana are both in here hiding under the paperwork.{m}
+
+~
+415 0 1
+D2
+Office door.
+~
+office door~
+1 -1 41512
+Z-1
+C-1
+S
+#41517
+{BO,Y}A Bend in the Hall{bo,y}~
+
+   {BO,G}The noise level seems to be dropping into more of an organized 
+   sort of cadence. There are choruses of "Yessirs" and "Nosirs." 
+   You must be nearing the first set of classrooms. And you had 
+   thought that the hallways were loud enough.{bo,g}
+
+~
+415 8 1
+D2
+~
+~
+0 -1 41518
+D3
+~
+~
+0 -1 41512
+Z-1
+C-1
+S
+#41518
+{BO,Y}Around a Bend{bo,y}~
+
+   {BO,G}The shouts in unison from these kids are starting to drive 
+   you mad. It certainly wasn't like this in your school. You 
+   get the overwhelming urge to squash the first child you see, 
+   whether they're making noise or not!{bo,g}
+
+~
+415 8 1
+D0
+~
+~
+0 -1 41517
+D1
+~
+~
+0 -1 41519
+Z-1
+C-1
+S
+#41519
+{BLU}In the Dark{blu}~
+    
+   {BLU}One of the overhead light strips appears to be out.  
+   Hope you didn't kill the janitor. You are starting 
+   to get a bad feeling in the dark. Better get moving!{blu}
+
+~
+415 8 1
+D2
+~
+~
+0 -1 41520
+D3
+~
+~
+0 -1 41518
+Z18
+C-1
+S
+#41520
+{BO,Y}-A- Section{bo,y}~
+
+   {BO,Y}This is the beginning of the -A- Section wing. This 
+   section houses the more violent and aggressive of 
+   FH's Children. It also is attached to the Gymnasium 
+   up ahead. Oh great, you've found the gym.{bo,y}
+
+~
+415 8 1
+D0
+~
+~
+0 -1 41519
+D2
+~
+~
+0 -1 41521
+Z-1
+C-1
+S
+#41521
+{BO,Y}The First Crossroad{bo,y}~
+
+   {BO,Y}You are standing at a four-way crossroad. Deciding which 
+   way to go might be harder, if not for the little {BLU}SIGN{Y}.{y,bo}
+
+~
+415 8 1
+D0
+~
+~
+0 -1 41520
+D1
+{BO,C}The -A- Section classrooms lay ahead.
+   {BO,C}Perhaps you shouldn't go here.
+
+~
+~
+0 -1 41597
+D2
+~
+~
+0 -1 41522
+D3
+~
+~
+0 -1 41599
+E
+Sign~
+
+    {C}__________________________{c}
+   {C}|                          |{c}
+   {C}|{c}{BO,C}Business Hallway --- North{bo,c}{C}|{c}
+   {C}|{c}{BO,C}-A- Section Rooms --- East{bo,c}{C}|{c}
+   {C}|{c}{BO,C}-B- Section Wing --- South{bo,c}{C}|{c}
+   {C}|{c}{BO,C}Multipurpose Room --- West{bo,c}{C}|{c}
+   {C}|__________________________|{c}
+
+~
+Z-1
+C-1
+S
+#41522
+{BO,Y}-B-Section{bo,y}~
+
+   {Y,BO}You switch gears and are now headed towards -B- Section.
+   The kids here may be calmer, but are equally crazy in the 
+   {bo}{Y}head. Perhaps you should just go kill SMURFS instead.{y}
+
+~
+415 8 1
+D0
+~
+~
+0 -1 41521
+D2
+~
+~
+0 -1 41523
+Z-1
+C-1
+S
+#41523
+{BO,Y}-B-Section{bo,y}~
+
+   {BO,Y}As you continue down this hall you notice yet another bend up 
+   ahead. While wandering you slowly go from intrigued to scared
+   to terrified..... And now you simply feel numb to the idea of 
+   slaughtering little screaming kids.{bo,y}
+
+~
+415 8 1
+D0
+~
+~
+0 -1 41522
+D3
+~
+~
+0 -1 41524
+Z-1
+C-1
+S
+#41524
+{BO,Y}-B-Section Corner{bo,y}~
+
+   {Y}You are turning a corner in FH's -B- Section.
+   You have heard stories of some of the crazy 
+   old teachers down in -B-. Perhaps you should 
+   just keep going past this place. Sounds kinda 
+   hokey.{y}
+
+~
+415 8 1
+D1
+~
+~
+0 -1 41523
+D2
+~
+~
+0 -1 41525
+Z-1
+C-1
+S
+#41525
+{BO,Y}-B- Section Crossroad{bo,y}~
+
+   {BO,Y}Once again you are standing at a crossroad. You can't 
+   seem to figure out which way to go. Perhaps you ought 
+   to check out that {BLU}SIGN {Y}over there.{bo,y}
+
+~
+415 40 1
+D0
+~
+~
+0 -1 41524
+D2
+{BO,M}This section houses some fun yet crazy teachers and students alike.
+
+~
+~
+0 -1 41551
+D3
+~
+~
+0 -1 41526
+E
+sign~
+
+
+   {BO,C} __________________________
+   |                          |
+   |-A- Section Wing --- North|
+   |-B- Section Wing --- South|
+   |-C- Section Wing --- West |
+   |   Storage Hall  --- West |
+   |__________________________|{bo,c}
+
+~
+Z-1
+C-1
+S
+#41526
+{BO,Y}Storage Corridor{bo,y}~
+ 
+   {Y}Down this hallway are several storage rooms.
+   Some look inviting, and others not so much.
+   One thing is for sure, You wish there weren't 
+   so many damn kids running around.{y}
+
+~
+415 8 1
+D1
+~
+~
+0 -1 41525
+D3
+~
+~
+0 -1 41527
+Z-1
+C-1
+S
+#41527
+{BO,Y}Storage Corridor{bo,y}~
+ 
+   {Y}Down this hallway are several storage rooms.
+   Some look inviting, and others not so much.
+   One thing is for sure, You wish there weren't 
+   so many damn kids running around.{y}
+
+~
+415 8 1
+D0
+{BO,C}You see a door that you just can not open.
+
+~
+Storage Room~
+2 -1 41527
+D1
+~
+~
+0 -1 41526
+D2
+{BO,C}You see a door you just can not open.
+
+~
+Storage Room~
+2 -1 41527
+D3
+~
+~
+0 -1 41528
+E
+north~
+
+   {BO,C}You see a door you just can not open.
+
+~
+Z-1
+C-1
+S
+#41528
+{BO,Y}Storage Corridor{bo,y}~
+ 
+   {Y}Down this hallway are several storage rooms.
+   Some look inviting, and others not so much.
+   One thing is for sure, You wish there weren't 
+   so many damn kids running around.{y}
+
+~
+415 8 1
+D0
+{BO,C}You see a door that you just can not open.
+
+~
+Storage Room~
+2 -1 41528
+D1
+~
+~
+0 -1 41527
+D2
+{BO,C}You see a door that you just can not open.
+
+~
+Storage Room~
+2 -1 41528
+D3
+~
+~
+0 -1 41529
+Z-1
+C-1
+S
+#41529
+{BO,Y}Storage Corridor{bo,y}~
+ 
+   {Y}Down this hallway are several storage rooms.
+   Some look inviting, and others not so much.
+   One thing is for sure, You wish there weren't 
+   so many damn kids running around.{y}
+
+~
+415 8 1
+D0
+{BO,C}You see a door that you just can not open.
+
+~
+Storage Room~
+2 -1 41529
+D1
+~
+~
+0 -1 41528
+D2
+{BO,C}You see a door that you just can not open.
+
+~
+Storage Room~
+2 -1 41529
+D3
+~
+~
+0 -1 41530
+Z-1
+C-1
+S
+#41530
+{BO,Y}Storage Corridor{bo,y}~
+
+   {Y}Down this hallway are several storage room.
+   Some look inviting, and others not so much.
+   One thing is for sure. You wish there weren't
+   so many damn kids running around.{y}
+
+~
+415 8 1
+D0
+~
+closet door~
+4 41502 41559
+D1
+~
+~
+0 -1 41529
+D2
+{BO,C}You see a door that you just can not open.
+
+~
+Storage Room~
+2 -1 41530
+D3
+~
+~
+0 -1 41531
+E
+n~
+
+   {W}To the north you see the slightest crack of light
+   coming from where the wall meets the floor...{w}
+
+~
+Z-1
+C-1
+S
+#41531
+{BO,Y}-C- Section{bo,y}~
+
+   {BO,Y}Good for you! You've made it through the dreaded storage area. 
+   Welcome to {BLU}-C- Section{Y}, home of the oldest girls, and most of 
+   the peripubescent kids. I wouldn't rest here for too long. I'd 
+   just keep moving if I were you.{bo,y}
+
+~
+415 8 1
+D1
+~
+~
+0 -1 41530
+D3
+~
+~
+0 -1 41534
+Z-1
+C-1
+S
+#41532
+{BO,Y}Conference Room One{bo,y}~
+
+   {W}This is one of a few conference rooms in this facility. It was created 
+   for meetings, conferences, interviews, what have you. And of course to 
+   give the Executives another place to hang out. However, it is more 
+   often used as an inpromptu {C}JAIL CELL {W}for some of the more out of control 
+   children. At the moment there are two of FH's most wanted in here.{w}
+
+~
+415 256 1
+D0
+~
+boardroom door~
+1 -1 41545
+T41533
+Z-1
+C-1
+S
+#41533
+{BO,Y}Storage Basement{bo,y}~
+
+ 
+   {BLU,BO}This is the old storage basement. It looks to 
+   be mostly unused at the moment. But by searching 
+   around you just may find many of the items you{blu,bo} 
+   {BO,C}dropped{c,bo} {BLU,BO}while here at FH.{blu,bo}
+   
+
+~
+415 32777 1
+D4
+~
+trapdoor~
+1 -1 41589
+Z10
+C-1
+S
+#41534
+{BO,Y}-C- Section{bo,y}~
+
+   {BO,Y}As you move closer to the classrooms you can hear the din of 
+   squeaky little voices. You get a chill down your spine and 
+   find yourself longing for Joanne's voice. {C}Let's just get down 
+   there and and stop this noise.{bo,c}
+
+~
+415 8 1
+D1
+~
+~
+0 -1 41531
+D3
+~
+~
+0 -1 41535
+Z-1
+C-1
+S
+#41535
+{BO,Y}-C- Section{bo,y}~
+
+   {Y,BO}Once again you stand at yet another crossroad.  And once 
+   again there is a handy dandy little {BLU}SIGN{Y}. Well, have you 
+   made up your mind? Good. Then let's get moving!{bo,y}
+
+~
+415 8 1
+D0
+{BO,R}Going north brings to the gym entrance and the nurse's office.
+
+~
+~
+0 -1 41536
+D1
+{BO,Y}This hall taked you to the Storage Area and Sections -A- and -B-.
+
+~
+~
+0 -1 41534
+D2
+{BO,G}-C- Section houses the three most feminine teachers at FH.
+
+~
+~
+0 -1 41560
+E
+sign~
+  
+   {C} ___________________________{c}
+   {C}|                           |{c}
+   {C}|{c}{BO,C}-C- Section Rooms --- South{c,bo}{C}|{c}
+   {C}|{c}{BO,C}Nurse's Hallway ----- North{bo,c}{C}|{c}
+   {C}|{c}{BO,C}Storage Hallway ------ East{c,bo}{C}|{c}
+   {C}|___________________________|{c}
+
+~
+Z-1
+C-1
+S
+#41536
+{BO,Y}The End of the Bend{bo,y}~
+
+   {BO,C}Just your standard issue bend in the hallway.
+   The noise from the nurse's office just died 
+   down. It died down just enough to hear the 
+   noise from the next section of kids. The noise 
+   just never stops. NEVER!!!{bo,c}
+
+~
+415 8 1
+D2
+~
+~
+0 -1 41535
+D3
+~
+~
+0 -1 41537
+Z-1
+C-1
+S
+#41537
+{BO,Y}A Bend in the Bend{bo,y}~
+
+   {BO,Y}The hallway continues to turn away from the noisy kids, and not 
+   a moment too soon. You were ready to puncture your own eardrums.
+   {bo}{Y}Perhaps the next area will provide more peace and quiet.{y}
+
+~
+415 8 1
+D0
+~
+~
+0 -1 41538
+D1
+~
+~
+0 -1 41536
+Z-1
+C-1
+S
+#41538
+{BO,Y}A Bend in the Hallway{bo,y}~
+
+   {BO,Y}Here begins yet another bend in the all too bendy hallway.
+   {BO,Y}I guess you ought to just follow it like everyone else does.
+
+~
+415 8 1
+D0
+~
+~
+0 -1 41539
+D2
+~
+~
+0 -1 41537
+Z-1
+C-1
+S
+#41539
+{BO,Y}Gym Crossroad{bo,y}~
+
+   {BO,C}To the East is the school's multipurpose room. At this 
+   hour it is being used as a gym. However, in merely ten
+   minutes it will be magically transformed into a cafeteria.{bo,c} 
+
+~
+415 8 1
+D0
+{BO,C}Up ahead you can see the Nurse's Office.
+
+~
+~
+0 -1 41540
+D1
+{BO,C}To the Multipurpose room.
+
+~
+~
+0 -1 41579
+D2
+{BO,C}To the south you see a bend in the hallway.
+
+~
+~
+0 -1 41538
+Z-1
+C-1
+S
+#41540
+{BO,Y}Outside the Nurse's Office{bo,y}~
+
+   {C}This is where it all happens. Kids get their shots, their 
+   meds and their nasal spray. Every child in the building 
+   will eventually be in this exact spot at some point today.
+   {BO,C}Maybe you should wait here and see if you know anyone.
+   
+   {bo}{W}To the west is the actual nursing station. You wonder if 
+   she has any treats or anything else useful in there.{w}
+
+~
+415 8 1
+D0
+~
+~
+0 -1 41541
+D2
+~
+~
+0 -1 41539
+D3
+~
+Nurse's Office~
+1 -1 41566
+Z-1
+C-1
+S
+#41541
+{BO,Y}The Nursing Corridor{bo,y}~
+
+   {C}As the hallway straightens out again you see a line of chairs 
+   full of sick kids. You see kids with every ailment known to 
+   man. Oddly, they all seem to have different symptoms.
+   Almost as though they planned this...{c}{BO,C}COULD THEY BE FAKING?!?!?{bo,c}
+
+~
+415 8 1
+D1
+~
+~
+0 -1 41542
+D2
+~
+~
+0 -1 41540
+Z-1
+C-1
+S
+#41542
+{BO,Y}Rounding the Bend{bo,y}~
+
+   {BO,C}As you continue around the bend you start to smell antiseptic spray and vomit. 
+   You can not put your finger on it, but it almost reminds you of highschool.{bo,c}
+
+~
+415 8 1
+D0
+~
+~
+0 -1 41543
+D3
+~
+~
+0 -1 41541
+Z-1
+C-1
+S
+#41543
+{BO,Y}A Bend in the Hallway{bo,y}~
+
+   {BO,C}You follow the natural curves of the building to the south. 
+   The children are everywhere by this point. Where the hell 
+   is their staff? To the west is another conference room or 
+   is it just another J{bo}{W}ail {BO,C}C{bo}{W}ell?{w}
+
+~
+415 8 1
+D1
+~
+~
+0 -1 41544
+D2
+~
+~
+0 -1 41542
+D3
+~
+Conference Room~
+1 -1 41569
+Z-1
+C-1
+S
+#41544
+{BO,Y}Moving down the Hallway.{bo,y}~
+
+   {C}The volume of kids seems to be getting more and more dense
+   as you move along. You aren't sure, but you think you might 
+   have stepped on one of the smaller ones.{c}
+
+~
+415 8 1
+D1
+~
+~
+0 -1 41545
+D3
+~
+~
+0 -1 41543
+Z-1
+C-1
+S
+#41545
+{BO,Y}Moving down the Hallway.{bo,y}~
+
+   {C}The volume of kids seems to be getting more and more dense
+   as you move along. You aren't sure, but you think you might 
+   have stepped on one of the smaller ones.{c}
+
+~
+415 8 1
+D1
+~
+~
+0 -1 41514
+D2
+~
+boardroom door~
+1 41502 41532
+D3
+~
+~
+0 -1 41544
+Z-1
+C-1
+S
+#41546
+{BO,Y}-A- Section{bo,y}~
+
+   {BO,Y}You are now halfway down the {BLU}-A- Section {Y}hallway.  The noise 
+   from the classrooms is really starting to drive you MAD. Man, 
+   you can not wait to shut all those kids up! And shut them up 
+   for good!{bo,y}
+
+~
+415 8 1
+D1
+~
+~
+0 -1 41547
+D3
+~
+~
+0 -1 41597
+Z-1
+C-1
+S
+#41547
+{BO,Y}-A- Section Crossroad{bo,y}~
+
+   {BO,Y}Standing here in the middle of {BLU}-A- Section {Y}is nearly too much 
+   for your brain to handle. You can either go North or South to 
+   a classroom, or East to the Therapists' Office. But no matter 
+   where you go, you better get killing quickly, before your 
+   eardrums begin to bleed or your head simply explodes.{bo,y}
+
+~
+415 12 1
+D0
+{BO,Y}Classroom -A1-
+        {BO,Y}Mr. Rob
+
+~
+classroom~
+1 -1 41548
+D1
+{BO,Y}Office -A2-
+   {BO,Y}Miss Jen and Miss Sue
+
+~
+Office~
+1 -1 41549
+D2
+{BO,Y}Classroom -A3-
+        {BO,Y}Mr. Bob
+
+~
+classroom~
+1 -1 41550
+D3
+~
+~
+0 -1 41546
+Z-1
+C-1
+S
+#41548
+{BO,C}-A1- Mr. Rob's Class{bo,c}~
+
+   {C,BO}Damn, it is hot in here! What the hell is wrong with 
+   Mr. Rob anyway? Doesn't he know that making these kids 
+   hotter only gets them angrier and more violent!? You{bo} 
+   {C}count eight kids from the RTF program screaming and 
+   fighting amongst themselves. Perhaps you should leave 
+   before one sees you...{BO,R}TOO LATE!{bo,r}
+
+~
+415 280 1
+D2
+~
+classroom~
+1 -1 41547
+T41533
+Z-1
+C-1
+S
+#41549
+{BO,BLU}-A2- Jen and Sue's Office{bo,blu}~
+
+ 
+   {BLU,BO}Miss Jen has a fish on her desk and PLAY-DOHtm on the floor
+   and Miss Sue seems to be obsessed with Frogs. Frogs here, 
+   Frogs there, Frogs everywhere. Neither seems to be working, 
+   instead they are sitting back drinking a Mocha Lata Something.
+   It looks as though each would have the others' back if you 
+   disturbed either one of them. Don't touch the frogs either.{blu,bo}
+
+~
+415 392 1
+D3
+~
+Office~
+1 -1 41547
+T41533
+Z-1
+C-1
+S
+#41550
+{BO,M}-A3- Mr. Bob's Class{bo,m}~
+
+ 
+   {BO,M}Man, it is wicked cold in here. Someone broke the OFF button  
+   on the AC, but no one seems to care all that much. All five 
+   kids seem to be enjoying a lesson on ethics. However as one 
+   turns and catches you in the corner of his eye, you can tell
+   that it is time to run, and run fast!{bo,m}
+
+~
+415 296 1
+D0
+~
+classroom~
+1 -1 41547
+T41533
+Z-1
+C-1
+S
+#41551
+{BO,Y}-B- Section{bo,y}~
+
+   {C,BO}Heading down this hallway seems unremarkably similar to 
+   {BLU}-A- Section{C}. However the noise isn't quite as loud and 
+   the screaming seems to be coming from the{bo} {C}adults {BO,C}rather 
+   than the children. This may actually be fun.{bo,c}
+
+~
+415 8 1
+D0
+~
+~
+0 -1 41525
+D2
+~
+~
+0 -1 41552
+Z-1
+C-1
+S
+#41552
+{BO,Y}-B- Section{bo,y}~
+
+   {BO,C}You feel the {W}air conditioning {C}getting stronger down this way. 
+   It seems to be coming from the south. Someone must have left 
+   one of the {W}AC {C}units running again. Maybe you can be nice and 
+   shut it down.{c,bo}
+
+~
+415 8 1
+D0
+~
+~
+0 -1 41551
+D2
+~
+~
+0 -1 41553
+Z-1
+C-1
+S
+#41553
+{BO,Y}-B- Section Classrooms{bo,y}~
+
+   {BO,C}You are once again at a three way fork into three 
+   seperate classrooms. At this point the only thing
+   you have to decide is which classroom to check out 
+   first.{bo,c} {Y}Bobbie K's room sounds like it is full of 
+   older, louder males. While the other two rooms 
+   sound like much younger children.{y}
+
+~
+415 12 1
+D0
+~
+~
+0 -1 41552
+D1
+{BO,BLU}Classroom -B4-
+   {BO,BLU}Miss Joanne's Room
+
+~
+classroom door~
+1 -1 41554
+D2
+{BO,BLU}Classroom -B5-
+   {BO,BLU}Mr. Walter's Room
+
+~
+classroom door~
+1 -1 41555
+D3
+{BO,BLU}Classroom -B6-
+   {BO,BLU}Mr. Bobbie K's Room
+
+~
+classroom door~
+1 -1 41556
+Z-1
+C-1
+S
+#41554
+{BO,Y}-B4- Miss Joanne's Class{bo,y}~
+
+   {M,BO}Standing at the head of the class is a rather short woman.
+   Her shrill voice is worse than fingernails on a chalkboard.
+   You realize you only have two chooses: {W}KILL HER or LEAVE!{w,bo}
+
+~
+415 296 1
+D3
+~
+classroom door~
+1 -1 41553
+T41533
+Z-1
+C-1
+S
+#41555
+{BO,Y}-B5- Mr. Walter's Class{bo,y}~
+
+   {BLU,BO}Here we have an older gentlemen. Mr. Walter looks as    
+   if he not only lived through the original Wookstock, 
+   but might also have gotten stuck there as well.{blu,bo} {C}The 
+   kids here are running their own little schooling on
+   how to put the smack down on the teacher.{c}
+
+~
+415 296 1
+D0
+~
+classroom door~
+1 -1 41553
+T41533
+Z-1
+C-1
+S
+#41556
+{BO,Y}-B6- Mr. Bobbie K's's Class{bo,y}~
+ 
+   {G,BO}In front of you is the coolest person you have ever seen. He can 
+   stand in front of 14 miscreants and focus each of their attention 
+   on him. Of course, all he is doing is handing out sodas and dollar 
+   bills. Why don't you put the poor misdirected fool out of his misery.{bo,g}
+
+~
+415 296 1
+D1
+~
+classroom door~
+1 -1 41553
+T41533
+Z-1
+C-1
+S
+#41557
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+415 8 1
+Z-1
+C-1
+S
+#41558
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+415 262144 1
+Z0
+C-1
+S
+#41559
+{BO,Y}A Damp Storage Room{bo,y}~
+
+   {W,BO}You stepped into a damp and smelly unused storage room. Perhaps you 
+   {bo}{W}should just leave... What was that noise? Go check it out, tiger!{w}
+
+~
+415 32921 1
+D2
+~
+closet door~
+1 -1 41530
+Z13
+C-1
+S
+#41560
+{BO,Y}-C- Section{bo,y}~
+
+   {C}You are heading down a steep incline, heading into uncertain 
+   dread.At this point you might want to reconsider what you are
+   doing.{c} {BO,C}You can still go back to the {BO,R}Dodge Ball{bo,r} {BO,C}Game.{bo,c} {C}Really
+   it is not too late...or maybe it is!{c}
+
+~
+415 8 1
+D0
+~
+~
+0 -1 41535
+D2
+~
+~
+0 -1 41561
+Z-1
+C-1
+S
+#41561
+{BO,Y}-C- Section{bo,y}~
+
+   {BO,BLU}The noise seems to be coming mostly from the left and
+   the right, rather then straight ahead. But that doesn't
+   mean much to you at this point. Just keep moving!!!{bo,blu}
+   
+~
+415 9 1
+D0
+~
+~
+0 -1 41560
+D2
+~
+~
+0 -1 41562
+Z-1
+C-1
+S
+#41562
+{BO,Y}-C- Section Classrooms{bo,y}~
+
+   {BO,BLU}Yet another wonderful crossroad. You can go one way to 
+   kill little'uns. Another way for barely legal chickies. 
+   Or the last for some annoying prepubescent little scum.
+                   {bo}{C}You be the judge.{c}
+
+~
+415 13 1
+D0
+~
+~
+0 -1 41561
+D1
+{W}Classroom -C7-
+   Miss Tracy's Classroom
+
+~
+Classroom~
+1 -1 41563
+D2
+{W}Classroom -C8-
+  Miss AnnaMae's Classroom
+
+~
+Classroom~
+1 -1 41564
+D3
+{W}Classroom -C9-
+  Miss Michelle's Classroom
+
+~
+Classroom~
+1 -1 41565
+Z-1
+C-1
+S
+#41563
+{BO,Y}-C7- Miss Tracey's Class{bo,y}~
+
+   {BO,M}Before you stands a perky little Ms. Thing. Her teaching 
+   philosophy is the same as her dating philosophy...{bo}{M,BLI}FOR THE 
+   MONEY!{m,bli} {BO,M}Why don't you just knock her down a peg or two?{bo,m}
+
+~
+415 265 1
+D3
+~
+Classroom~
+1 -1 41562
+T41533
+Z-1
+C-1
+S
+#41564
+{BO,Y}-C7- Miss Annamae's Class{bo,y}~
+
+   {BO,M}Annamae{bo} {M}is a tall imposing woman. You can tell by her tone 
+   of voice and non-verbal cues that she uses good old fashioned 
+   guilt to control her young, impressionable charges.{m}
+
+~
+415 265 1
+D0
+~
+Classroom~
+1 -1 41562
+T41533
+Z-1
+C-1
+S
+#41565
+{BO,Y}-C7- Miss Michelle's Class{bo,y}~
+
+   {M,BO}Miss Michelle usually isn't here most of the 
+   time. She is typically running over to Annammae's
+   room for some sagely teaching advice. If you wait 
+   long enough she ought to return....{bo,m}{M}THERE SHE IS!{m}
+
+~
+415 265 1
+D1
+~
+Classroom~
+1 -1 41562
+T41533
+Z-1
+C-1
+S
+#41566
+{BO,W}The Nurse's Office{bo,w}~
+
+   {BO,W}You walk through the door and enter into a standard issue School 
+   Nursing Office with standard chairs, standard cabinets, standard
+   school nurses and of course there is that awful standard issue 
+   medicine smell.{bo} {C}Sitting behind the closest desk to the door is 
+   what looks to be a nurse's aide. Perhaps she can answer a few of 
+   life's little questions for you.{c}
+
+~
+415 8 1
+D1
+~
+Nurse's Office~
+1 -1 41540
+D3
+~
+LPN Office~
+1 -1 41567
+Z-1
+C-1
+S
+#41567
+{BO,W}The LPN Exam Room{bo,w}~
+
+   {BO,W}Something about this room makes you want to drop your pants and 
+   cough! Is it the lights? Is it the paper rolled over the exam 
+   table? You can't quite put your finger on it, but the {Y}LPN {W}will 
+   certainly put her finger IN it!{bo} {C}Looks like there is nothing too 
+   fun going on in here, keep it moving. From the next room you can 
+   hear a child screaming for someone to "keep that damn needle away!"{c}
+
+~
+415 8 1
+D0
+~
+RN Office~
+2 41502 41568
+D1
+~
+LPN Office~
+1 -1 41566
+Z-1
+C-1
+S
+#41568
+{BO,W}The RN's Office{bo,w}~
+
+   {W,BO}As you enter you see a frumpy old woman trying to 
+   jab a needle into a screaming child. You think 
+   about helping for a moment, then the kid lets out 
+   a stream of obscenities, so you think to yourself... 
+                 let him {R}burn{W}.{bo}
+   {C}However, that needle looks like it might be useful 
+   for something else, let's grab it and get out.{c}
+
+~
+415 296 1
+D2
+~
+RN Office~
+2 -1 41567
+T41533
+Z-1
+C-1
+S
+#41569
+{BO,Y}Conference Room Two{bo,y}~
+
+   {Y}This room is not unlike the others. However, this one here 
+   is not in use at the moment. In fact, this room looks 
+   like a nice safe place to rest and regain your strength.
+   I just wouldn't put your feet up on the leather furniture.{y}
+
+~
+415 8204 1
+D1
+~
+Conference Room~
+1 -1 41543
+Z10
+C-1
+S
+#41570
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+415 262144 1
+Z0
+C-1
+S
+#41571
+{BO,Y}The Executive Hallway{bo,y}~
+
+   {BO,G}This hallway is significantly quieter than the last. You smell 
+   expensive perfumes and Cuban cigars in the air. You realize 
+   that you must have stumbled upon the Executive Offices.{bo,g}
+
+~
+415 8 1
+D0
+~
+~
+0 -1 41572
+D2
+~
+executive door~
+1 -1 41514
+Z-1
+C-1
+S
+#41572
+{BO,Y}The Executive Hallway{bo,y}~
+
+   {BO,G}This hallway is significantly quieter than the last. You smell 
+   expensive perfumes and Cuban cigars in the air. You realize 
+   that you must have stumbled upon the Executive Offices.{bo,g}
+
+~
+415 8 1
+D0
+~
+Doctor's Office~
+1 -1 41573
+D1
+~
+Bathroom Door~
+4 41502 41581
+D2
+~
+~
+0 -1 41571
+D3
+~
+~
+0 -1 41574
+E
+Bathroom Door~
+
+   {BO,W}Immediately to the east you see the infamous UniSex Executive Bathhrooms.{w,bo}
+
+~
+Z-1
+C-1
+S
+#41573
+{BO,Y}A Doctor's Office{bo,y}~
+   
+   {C}You have entered one of a few standard offices.
+   This one houses a particularly loud and cocky 
+   Psychiatrist. You are not sure, but she seems 
+   to be analyzing you at the moment.{c}
+
+~
+415 136 1
+D2
+~
+Doctor's Office~
+1 -1 41572
+Z-1
+C2
+S
+#41574
+{BO,Y}The Executive Hallway{bo,y}~
+
+   {BO,G}This hallway is significantly quieter than the last. You smell 
+   expensive perfumes and Cuban cigars in the air. You realize 
+   that you must have stumbled upon the Executive Offices.{bo,g}
+
+~
+415 8 1
+D0
+~
+Doctor's Office~
+1 -1 41575
+D1
+~
+~
+0 -1 41572
+D3
+~
+~
+0 -1 41576
+Z-1
+C-1
+S
+#41575
+{BO,Y}A Doctor's Office{bo,y}~
+
+   {BO,G}You have entered one of a few standard offices. This one houses a 
+   particularly old and slow psychiatrist. You are not sure but you 
+   think he may be snoring. {W}Perhaps you should wake him before killing 
+   him...nah!{bo,w}
+
+~
+415 136 1
+D2
+~
+Doctor's Office~
+1 -1 41574
+Z-1
+C2
+S
+#41576
+{BO,Y}The Executive Hallway{bo,y}~
+
+   {BO,G}This hallway is significantly quieter than the last. You smell 
+   expensive perfumes and Cuban cigars in the air. You realize 
+   that you must have stumbled upon the Executive Offices.{bo,g}
+
+~
+415 8 1
+D1
+~
+~
+0 -1 41574
+D3
+~
+~
+0 -1 41577
+Z-1
+C-1
+S
+#41577
+{BO,Y}The Doctor's Secretary{bo,y}~
+
+   {BO,C}You've entered into a well appointed office. Sitting behind 
+   the desk is a pretty young thing.She turns away from her {R}Red 
+   Book Magazine {C}and snarls at you, {W}"I am sorry the Doctor is BUSY!"{w,bo}
+
+~
+415 65544 1
+D0
+~
+Doctor's Office~
+2 41502 41578
+D1
+~
+~
+0 -1 41576
+Z-1
+C-1
+S
+#41578
+{C,BO}Nomad's Cozy Little Office{c,bo}~
+
+   {W}You've entered into a meticulously appointed office. A large leather covered 
+   settee sits in the corner waiting for you. Opposite the settee is an oversized 
+   leather chair and ottoman. With the lights at a comfortable level and the air 
+   conditioner humming pleasantly in the background, you feel totally at ease 
+   and ready to discuss your most intimate and most personal secrets.{w}
+
+~
+415 392 1
+D2
+~
+Doctor's Office~
+1 -1 41577
+T41533
+Z4
+C-1
+S
+#41579
+{BO,Y}Entering the Gym{bo,y}~
+
+   {BO,R}You are soon to be entering the multi-purpose room.
+   Currently the Early Childhood class is playing dodge 
+   ball. However since this isn't a regular school, it 
+   stands to reason, that this isn't regular dodge ball.{bo,r}
+
+~
+415 8 1
+D1
+~
+~
+0 -1 41580
+D3
+~
+~
+0 -1 41539
+Z-1
+C-1
+S
+#41580
+{BO,Y}The Multipurpose Room{bo,y}~
+
+   {BO,C}You feel safe from trouble standing here. Perhaps we should 
+   just sit awhile and takea short breather before moving on.
+   {R}Dodge ball can be a dangerous game you know.{bo,r}
+
+~
+415 28 1
+D1
+~
+~
+0 -1 41582
+Z-1
+C-1
+S
+#41581
+{W}Inside the Executive Bathroom.{w}~
+
+   {BO,C}The famed, yet mysterious -Executive Bathrooms-
+   
+   {bo}{C}Although this is a four person unisex facility,
+   since three of the four stalls never work, it is 
+   more of a single-sex at a time bathroom.{c}
+
+~
+415 49480 10
+D3
+~
+Bathroom Door~
+1 -1 41572
+T41533
+Z-1
+C1
+S
+#41582
+{BO,Y}The Gym{bo,y}~
+
+   {BO,R}A dodge ball whips past your face. These wicked little guys 
+   certainly can throw the ball. They must feed them Wheaties.
+   
+                           {BO,R,BLI}DUCK!!!!!!{bo,r,bli}
+
+~
+415 25 1
+D0
+~
+~
+0 -1 41583
+D1
+~
+~
+0 -1 41585
+D2
+~
+~
+0 -1 41586
+D3
+~
+~
+0 -1 41580
+Z-1
+C-1
+S
+#41583
+{BO,Y}The Gym{bo,y}~
+
+   {BO,R}A dodge ball whips past your face. These wicked little guys 
+   certainly can throw the ball. They must feed them Wheaties.
+   
+                           {BO,R,BLI}DUCK!!!!!!{bo,r,bli}
+
+~
+415 25 1
+D1
+~
+~
+0 -1 41587
+D2
+~
+~
+0 -1 41582
+Z-1
+C-1
+S
+#41584
+{BO,Y}The Gym{bo,y}~
+
+   {BO,R}A dodge ball whips past your face. These wicked little guys 
+   certainly can throw the ball. They must feed them Wheaties.
+   
+                           {BO,R,BLI}DUCK!!!!!!{bo,r,bli}
+
+~
+415 25 1
+D1
+~
+~
+0 -1 41590
+D2
+~
+~
+0 -1 41585
+D3
+~
+~
+0 -1 41586
+Z-1
+C-1
+S
+#41585
+{BO,Y}The Gym{bo,y}~
+
+   {BO,R}A dodge ball whips past your face. These wicked little guys 
+   certainly can throw the ball. They must feed them Wheaties.
+   
+                           {BO,R,BLI}DUCK!!!!!!{bo,r,bli}
+
+~
+415 25 1
+D0
+~
+~
+0 -1 41584
+D1
+~
+~
+0 -1 41589
+D2
+~
+~
+0 -1 41587
+D3
+~
+~
+0 -1 41582
+Z-1
+C-1
+S
+#41586
+{BO,Y}The Gym{bo,y}~
+
+   {BO,R}A dodge ball whips past your face. These wicked little guys 
+   certainly can throw the ball. They must feed them Wheaties.
+   
+                           {BO,R,BLI}DUCK!!!!!!{bo,r,bli}
+
+~
+415 25 1
+D0
+~
+~
+0 -1 41582
+D1
+~
+~
+0 -1 41584
+Z-1
+C-1
+S
+#41587
+{BO,Y}The Gym{bo,y}~
+
+   {BO,R}A dodge ball whips past your face. These wicked little guys 
+   certainly can throw the ball. They must feed them Wheaties.
+   
+                           {BO,R,BLI}DUCK!!!!!!{bo,r,bli}
+
+~
+415 25 1
+D0
+~
+~
+0 -1 41585
+D1
+~
+~
+0 -1 41588
+D3
+~
+~
+0 -1 41583
+Z-1
+C-1
+S
+#41588
+{BO,Y}The Gym{bo,y}~
+
+   {BO,R}A dodge ball whips past your face. These wicked little guys 
+   certainly can throw the ball. They must feed them Wheaties.
+   
+                           {BO,R,BLI}DUCK!!!!!!{bo,r,bli}
+
+~
+415 25 1
+D1
+~
+~
+0 -1 41593
+D2
+~
+~
+0 -1 41589
+D3
+~
+~
+0 -1 41587
+Z-1
+C-1
+S
+#41589
+{BO,Y}The Center of the Gym{bo,y}~
+
+   {W}You have finally made it to the center of what must be 
+   the hottest Gym in America.{w} {BO,W}Here you find Mr. Mike, the 
+   coolest Gym Teacher to ever live.{bo,w} {W}Mike looks up from his
+   crossword puzzle and stares at you, wondering where your 
+   ID badge is?!{w}
+
+~
+415 25 1
+D0
+~
+~
+0 -1 41588
+D1
+~
+~
+0 -1 41592
+D2
+~
+~
+0 41502 41590
+D3
+~
+~
+0 -1 41585
+D5
+{BO,W}You see a very unassuming trapdoor.
+
+~
+trapdoor~
+4 -1 41533
+Z-1
+C-1
+S
+#41590
+{BO,Y}The Gym{bo,y}~
+
+   {BO,R}A dodge ball whips past your face. These wicked little guys 
+   certainly can throw the ball. They must feed them Wheaties.
+   
+                           {BO,R,BLI}DUCK!!!!!!{bo,r,bli}
+
+~
+415 25 1
+D0
+~
+~
+0 -1 41589
+D1
+~
+~
+0 -1 41591
+D3
+~
+~
+0 -1 41584
+Z-1
+C-1
+S
+#41591
+{BO,Y}The Gym{bo,y}~
+
+   {BO,R}A dodge ball whips past your face. These wicked little guys 
+   certainly can throw the ball. They must feed them Wheaties.
+   
+                           {BO,R,BLI}DUCK!!!!!!{bo,r,bli}
+
+~
+415 25 1
+D1
+~
+~
+0 -1 41596
+D2
+~
+~
+0 -1 41592
+D3
+~
+~
+0 -1 41590
+Z-1
+C-1
+S
+#41592
+{BO,Y}The Gym{bo,y}~
+
+   {BO,R}A dodge ball whips past your face. These wicked little guys 
+   certainly can throw the ball. They must feed them Wheaties.
+   
+                           {BO,R,BLI}DUCK!!!!!!{bo,r,bli}
+
+~
+415 25 1
+D0
+~
+~
+0 -1 41591
+D1
+~
+~
+0 -1 41595
+D2
+~
+~
+0 -1 41593
+D3
+~
+~
+0 -1 41589
+Z-1
+C-1
+S
+#41593
+{BO,Y}The Gym{bo,y}~
+
+   {BO,R}A dodge ball whips past your face. These wicked little guys 
+   certainly can throw the ball. They must feed them Wheaties.
+   
+                           {BO,R,BLI}DUCK!!!!!!{bo,r,bli}
+
+~
+415 25 1
+D0
+~
+~
+0 -1 41592
+D1
+~
+~
+0 -1 41594
+D3
+~
+~
+0 -1 41588
+Z0
+C-1
+S
+#41594
+{BO,Y}The Gym{bo,y}~
+
+   {BO,R}A dodge ball whips past your face. These wicked little guys 
+   certainly can throw the ball. They must feed them Wheaties.
+   
+                           {BO,R,BLI}DUCK!!!!!!{bo,r,bli}
+
+~
+415 25 1
+D2
+~
+~
+0 -1 41595
+D3
+~
+~
+0 -1 41593
+Z-1
+C-1
+S
+#41595
+{BO,Y}The Gym{bo,y}~
+
+   {BO,R}A dodge ball whips past your face. These wicked little guys 
+   certainly can throw the ball. They must feed them Wheaties.
+   
+                           {BO,R,BLI}DUCK!!!!!!{bo,r,bli}
+
+~
+415 25 1
+D0
+~
+~
+0 -1 41594
+D1
+~
+~
+0 -1 41598
+D2
+~
+~
+0 -1 41596
+D3
+~
+~
+0 -1 41592
+Z-1
+C-1
+S
+#41596
+{BO,Y}The Gym{bo,y}~
+
+   {BO,R}A dodge ball whips past your face. These wicked little guys 
+   certainly can throw the ball. They must feed them Wheaties.
+   
+                           {BO,R,BLI}DUCK!!!!!!{bo,r,bli}
+
+~
+415 25 1
+D0
+~
+~
+0 -1 41595
+D3
+~
+~
+0 -1 41591
+Z-1
+C-1
+S
+#41597
+{BO,Y}-A- Section{bo,y}~
+ 
+   {BO,C}As you move down the hall you notice a particularly steep 
+   pitch in the floor. You certainly are glad that you don't 
+   have to push a TV/VCR cart up and down this hill.{bo,c}
+
+~
+415 8 1
+D1
+~
+~
+0 -1 41546
+D3
+~
+~
+0 -1 41521
+Z-1
+C-1
+S
+#41598
+{BO,Y}Leaving the Gym{bo,y}~
+
+   {R,BO}PHEW!!!!!! You finally made it through those damn kids. After you 
+   check yourself over, you realize that you are no worse the wear, 
+   even after your ordeal with those fifty or so dodge balls.{bo,r}
+
+~
+415 29 1
+D1
+~
+~
+0 -1 41599
+D3
+~
+~
+0 -1 41595
+Z-1
+C-1
+S
+#41599
+{BO,Y}The Multipurpose Room{bo,y}~
+ 
+   {C,BO}You are standing in a little niche outside the 
+   Multipur...the GYM. You can hear the pleasant 
+   screaming of 20 or so little kids playing inside.{bo,c}
+   {M,BO}You see a very standard looking gym DOOR here. 
+   Why dont you stop and take a look.{m,bo}
+
+~
+415 9 1
+D1
+~
+~
+0 -1 41521
+E
+gym~
+
+   {W}You try to peek through the little window, but
+   are unable to get a good look at anything good.{w}
+
+~
+E
+door~
+
+   {M,BO}This DOOR seems to only open from the other side.{m,bo}
+
+~
+Z-1
+C-1
+S
+$~

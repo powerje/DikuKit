@@ -1,0 +1,501 @@
+#38100
+{M}Valet Parking.{G}~
+
+{M}     As you walk towards the large building, the bright
+     flashing lights displaying the racetracks name is
+     almost blinding you at times.
+
+     You feel the {G}{BLINK}Moneylust{blink}{M} run through your veins as
+     you are pulled towards the building by a force unknown.
+
+~
+381 262144 1
+D0
+~
+~
+0 -1 38101
+D1
+~
+~
+0 -1 38105
+Z0
+C-1
+S
+#38101
+{R}Entrance to Woodbine Racetrack.{G}~
+
+     As you walk into the racetrack, you smell
+     the overpowering smell of success and 
+     utter failure.  Yet your legs still carry
+     you onward.
+
+     To the north of you is where they check
+     your ID, better hope you have yours.
+
+~
+381 262144 1
+D0
+~
+~
+0 -1 38104
+D1
+~
+~
+0 -1 38102
+D2
+~
+~
+0 -1 38100
+Z0
+C-1
+S
+#38102
+{R}Entrance to Woodbine Racetrack.{G}~
+
+     As you walk into the racetrack, you smell
+     the overpowering smell of success and 
+     utter failure.  Yet your legs still carry
+     you onward.
+
+     To the north of you is where they check
+     your ID, better hope you have yours.
+
+~
+381 262144 1
+D0
+~
+~
+0 -1 38104
+D2
+~
+~
+0 -1 38105
+D3
+~
+~
+0 -1 38101
+Z0
+C-1
+S
+#38103
+{B,BO}In line for {W}ID{B,BO} check.{G}{bo}~
+
+{B,BO}     As you wait in the short lineup for the large man
+     in the bullet proof vest to check your id, you
+     study the faces of those around you, many asians
+     and women wearing tacky seemingly spray-painted
+     gold bags and shoes.  Men with open shirts hairy chests
+     and excessive gold chains. Finally the line moves
+     forward and you come closer to the {W}Bouncer.{G}
+
+~
+381 262144 1
+D1
+~
+~
+0 -1 38104
+D3
+~
+~
+0 -1 38101
+Z0
+C-1
+S
+#38104
+{B,BO}In line for {W}ID{B,BO} check.{G}{bo}~
+
+{B,BO}     As you wait in the short lineup for the large man
+     in the bullet proof vest to check your id, you
+     study the faces of those around you, many asians
+     and women wearing tacky seemingly spray-painted
+     gold bags and shoes.  Men with open shirts hairy chests
+     and excessive gold chains. Finally the line moves
+     forward and you come closer to the {W}Bouncer.{G}
+
+~
+381 262144 1
+D0
+~
+~
+0 -1 38109
+D1
+~
+~
+0 -1 38106
+D2
+~
+~
+0 -1 38101
+D3
+~
+~
+0 -1 38103
+Z0
+C-1
+S
+#38105
+{M}Valet Parking.{G}~
+
+{M}     As you walk towards the large building, the bright
+     flashing lights displaying the racetracks name is
+     almost blinding you at times.
+
+     You feel the {G}{BLINK}Moneylust{blink}{M} run through your veins as
+     you are pulled towards the building by a force unknown.
+
+~
+381 262144 1
+D0
+~
+~
+0 -1 38102
+D3
+~
+~
+0 -1 38100
+Z0
+C-1
+S
+#38106
+{Y,BO}Mutual Windows.{bo}{G}~
+
+{M}     You stand before a long room encased behind
+     durable glass, and many camera's.
+     The horse's standings and basic info is on
+     board behind the Woman directly in front of you.
+
+     After you purchase your ticket you watch
+     her hand you the change through the slot
+     and show you her palms.
+
+~
+381 262176 1
+D0
+~
+~
+0 -1 38107
+D3
+~
+~
+0 -1 38104
+Z0
+C-1
+S
+#38107
+{Y,BO}Mutual Windows.{bo}{G}~
+
+{M}     You stand before a long room encased behind
+     durable glass, and many camera's.
+     The horse's standings and basic info is on
+     board behind the Woman directly in front of you.
+
+     After you purchase your ticket you watch
+     her hand you the change through the slot
+     and show you her palms.
+
+~
+381 262176 1
+D0
+~
+~
+0 -1 38108
+D2
+~
+~
+0 -1 38106
+Z0
+C-1
+S
+#38108
+{Y,BO}Mutual Windows.{bo}{G}~
+
+{M}     You stand before a long room encased behind
+     durable glass, and many camera's.
+     The horse's standings and basic info is on
+     board behind the Woman directly in front of you.
+
+     After you purchase your ticket you watch
+     her hand you the change through the slot
+     and show you her palms.
+
+~
+381 262176 1
+D0
+~
+~
+0 -1 38114
+D2
+~
+~
+0 -1 38107
+D3
+~
+~
+0 -1 38110
+Z0
+C-1
+S
+#38109
+Bathrooms.~
+
+     Somewhat clean bathrooms, with the likely
+     smell of urinal pucks, cologne/perfum,
+     and on the wall a dispencer for needles.
+     whoa, what have you gotten yourself into?
+     Seems that there may be a hidden underground
+     world to this racetrack afterall...
+
+~
+381 262144 1
+D2
+~
+~
+0 -1 38104
+Z0
+C-1
+S
+#38110
+{R,BO}The Lucky Horseshoe{G}{bo}~
+
+     {C}Nice elevator music is playing in the 
+     backround as you walk into the beautifully
+     decorated bar. Everyone seems to be dressed
+     in thier best, and drinking expensive drinks,
+     almost oblivious to the races.
+
+~
+381 262144 1
+D1
+~
+~
+0 -1 38108
+D3
+~
+~
+0 -1 38111
+Z0
+C-1
+S
+#38111
+{R,BO}The Lucky Horseshoe{G}{bo}~
+
+     {C}Nice elevator music is playing in the 
+     backround as you walk into the beautifully
+     decorated bar. Everyone seems to be dressed
+     in thier best, and drinking expensive drinks,
+     almost oblivious to the races.
+
+~
+381 262144 1
+D1
+~
+~
+0 -1 38110
+Z0
+C-1
+S
+#38112
+{G,BO}The Winners Circle.{bo}~
+
+     Flowers, horses and the unique smell of
+     crap and victory. What a strange combination.
+     Did your horse win?
+
+~
+381 262144 1
+D3
+~
+~
+0 -1 38113
+D4
+~
+~
+0 -1 38119
+Z0
+C-1
+S
+#38113
+{G,BO}The Winners Circle.{bo}~
+
+     Flowers, horses and the unique smell of
+     crap and victory. What a strange combination.
+     Did your horse win?
+
+~
+381 262144 1
+D1
+~
+~
+0 -1 38112
+Z0
+C-1
+S
+#38114
+{B,BO}The Night Mare.{G}{bo}~
+
+{R,BO}     Strange, as you only walked up one small flight
+     of stairs, yet you are in a very nice revolving
+     upperclass resturaunt. Immediately the hostess
+     comes over to you and points out that you must
+     wear a tie to be a patron of this establishment.
+
+~
+381 262144 1
+D1
+~
+~
+0 -1 38115
+D2
+~
+~
+0 -1 38108
+D5
+~
+~
+0 -1 38116
+Z0
+C-1
+S
+#38115
+{B,BO}The Night Mare.{bo}{G}~
+
+{B,BO}
+
+     Carnage and death everywhere. The seemingly
+      nice rich folk who frequent this establishment
+     have turned on you. Luckily, your brains and
+     cat-like reflexes have taken you this far into
+     the Night Mare.
+     Enjoy your food.
+
+
+~
+381 262144 1
+D1
+~
+VIP~
+1 -1 38120
+D3
+~
+~
+0 -1 38114
+Z0
+C-1
+S
+#38116
+{C,BO}The Stands. {bo}{G}~
+
+     {C}You are standing in the shaded stands
+     the horses are going around and around.
+     The heat is making you feel so heavy and 
+     drained.  Maybe a nap would be nice?
+
+     But then you wont know if your horse won...
+     Oh what to do...
+
+~
+381 263184 1
+D4
+~
+~
+0 -1 38114
+D5
+~
+~
+0 -1 38117
+Z0
+C-1
+S
+#38117
+{C,BO}The Stands. {bo}{G}~
+
+     {C}You are standing in the shaded stands
+     the horses are going around and around.
+     The heat is making you feel so heavy and 
+     drained.  Maybe a nap would be nice?
+
+     But then you wont know if your horse won...
+     Oh what to do...
+
+~
+381 263184 1
+D4
+~
+~
+0 -1 38116
+D5
+~
+~
+0 -1 38118
+Z0
+C-1
+S
+#38118
+{C,BO}The Stands. {bo}{G}~
+
+     {C}You are standing in the shaded stands
+     the horses are going around and around.
+     The heat is making you feel so heavy and 
+     drained.  Maybe a nap would be nice?
+
+     But then you wont know if your horse won...
+     Oh what to do...
+
+~
+381 263184 1
+D1
+~
+~
+0 -1 38119
+D4
+~
+~
+0 -1 38117
+Z0
+C-1
+S
+#38119
+{C,BO}The Stands. {bo}{G}~
+
+     {C}You are standing in the shaded stands
+     the horses are going around and around.
+     The heat is making you feel so heavy and 
+     drained.  Maybe a nap would be nice?
+
+     But then you wont know if your horse won...
+     Oh what to do...
+
+~
+381 263184 1
+D3
+~
+~
+0 -1 38118
+D5
+~
+~
+0 -1 38112
+Z0
+C-1
+S
+#38120
+{R,BO}V.{W}I.{B}P.{bo}{G}~
+
+{R,BO}
+     As you walk into the entrance of the V.{W}I.{B}P.{R} area
+     A man comes quickly over to you with a radio. 
+     He thinks he is important, simply working here.
+     Guess you gotta show these people who's boss.
+     Money dosen't qualify you for V.{W}I.{B}P.{R}
+     The person with the bigger blade does now!!
+
+~
+381 262144 1
+D3
+~
+VIP~
+1 -1 38115
+Z0
+C-1
+S
+$~

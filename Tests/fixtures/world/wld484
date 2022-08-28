@@ -1,0 +1,2657 @@
+#48400
+{BLACK,BOLD}Gate to the Castle{black}~
+
+   Here are a set of{YELL} rusted and withered {WHI}steel
+   gates{whi} that have withstood the battery of ages.
+   They protect the path to the{BLA,BO} Castle of Lost 
+   Souls{bla}, where all the lost and restless souls 
+   of past warriors still roam. They will roam
+   until they find peace and only then can lay 
+   their souls to rest. The land around the gates 
+   is barren and void of life. Only the screeching
+   of the{YELL} rusted gates{yell} and the whistle of wind can
+   be heard.
+
+~
+484 16777349 3
+D0
+You see a gate closing off the path to the north.
+~
+gate~
+2 48400 48401
+D2
+~
+~
+0 -1 48468
+Z5
+C-1
+R0
+S
+#48401
+{BLACK,BOLD}Path to the Castle{black,bold}~
+   
+   This path leads straight to the {BLA,BO}Castle of Lost
+   Souls{bla}. Silence still prevails from the{BLA,BO} black 
+   forest{bla}. It is so {WHI}foggy{whi} that focusing on the 
+   path ahead is getting more difficult. Careful
+   balance and sure footing are needed to traverse 
+   the path ahead.
+
+~
+484 5 3
+D0
+~
+~
+0 -1 48402
+D1
+~
+~
+0 -1 48413
+D2
+~
+gate~
+1 -1 48400
+D3
+~
+~
+0 -1 48413
+X24
+Z9
+C-1
+R0
+S
+#48402
+{BLACK,BOLD}Path to the Castle{black,bold}~
+   
+   This path leads straight to the {BLA,BO}Castle of Lost
+   Souls{bla}. Silence still prevails from the{BLA,BO} black 
+   forest{bla}. It is so {WHI}foggy{whi} that focusing on the 
+   path ahead is getting more difficult. Careful
+   balance and sure footing are needed to traverse 
+   the path ahead.
+
+~
+484 1 3
+D0
+~
+~
+0 -1 48404
+D1
+~
+~
+0 -1 48403
+D2
+~
+~
+0 -1 48401
+D3
+~
+~
+0 -1 48405
+X24
+Z9
+C-1
+R0
+S
+#48403
+{YELLOW}A Cottage path{yellow}~
+     
+   This path is blanketed in wet decaying leaves.
+   The trees seem to twist into what appears to
+   be faces. The{WHI,BO} moonlight{whi} is {WHI}reflecting{whi} off the 
+   {RED,BLINK}eyes{red} of the small animals in the {BLA,BO}dreary forest.{bla}
+   A little further down the path, the outline of
+   a cottage can be made out. There may be a dry 
+   spot to rest for the night.
+
+~
+484 1 3
+D0
+~
+~
+0 -1 48413
+D1
+~
+~
+0 -1 48406
+D2
+~
+~
+0 -1 48413
+D3
+~
+~
+0 -1 48402
+X24
+Z9
+C-1
+R0
+S
+#48404
+{BLACK,BOLD}Path to the Castle{black,bold}~
+   
+   This path leads straight to the {BLA,BO}Castle of Lost
+   Souls{bla}. Silence still prevails from the{BLA,BO} black 
+   forest{bla}. It is so {WHI}foggy{whi} that focusing on the 
+   path ahead is getting more difficult. Careful
+   balance and sure footing are needed to traverse 
+   the path ahead.
+
+~
+484 1 3
+D0
+~
+~
+0 -1 48413
+D2
+~
+~
+0 -1 48402
+X24
+Z9
+C-1
+R0
+S
+#48405
+{BLACK,BOLD}Path to{black} {RED}Lost{red} {BLACK,BOLD}Souls{black}~
+          
+   This unusually dark path is dreary and overgrown.
+   Great evil lurks about. No noises, other than
+   the rustling of leaves and underbrush, can be
+   heard. Large {YELL}rodents {RED}stare {red}from the distance
+   in search of a decent meal. Haste is necessary 
+   in order to keep this from becoming reality.
+
+~
+484 0 3
+D0
+~
+~
+0 -1 48400
+D1
+~
+~
+0 -1 48402
+D2
+~
+~
+0 -1 48405
+D3
+~
+~
+0 -1 48409
+Z6
+C-1
+R0
+S
+#48406
+{YELLOW}Before the Cottage{yellow}~
+       
+  {YELL} The path has now split into many directions.
+   There is a cottage just around the bend from 
+   here. The wind howls through the trees. The 
+   breeze is cold and harsh. The smell of decay 
+   has passed with the breeze. A new smell of
+   burning cedar now fills the air. The trees
+   droop over the path, making it difficult to 
+   see any light on the other side.{yell}
+
+~
+484 1 3
+D0
+~
+~
+0 -1 48405
+D1
+~
+~
+0 -1 48405
+D2
+~
+~
+0 -1 48407
+D3
+~
+~
+0 -1 48403
+X24
+Z9
+C-1
+R0
+S
+#48407
+{BLACK,BOLD}Path to the Castle{black,bold}~
+  
+   {YELL}This cottage is small and overgrown. The door 
+   is already open, as to invite travelers inside.
+   There is a flickering light coming from the
+   cottage. The light appears to be coming from a 
+   fireplace. The smell of burning cedar is now at 
+   its peak.{yell}
+
+~
+484 1 3
+D0
+~
+~
+0 -1 48406
+D1
+~
+exit~
+1 -1 48408
+E
+dflag locked~
+~
+X24
+Z9
+C-1
+R0
+S
+#48408
+{RED}DooM{red}~
+          
+   Inside the cottage, the illusion of a peaceful
+   place has faded away. There is no warm dry place
+   to rest. There is only the cold slimy stone that
+   make up this dark room. Small insects scurry about 
+   the floor. The smell of decaying flesh fills the 
+   air now. There is no light to help find the exit
+   to the outside.
+
+~
+484 41 3
+D3
+~
+exit~
+3 -1 48407
+X78
+Z9
+C-1
+R0
+S
+#48409
+{BLACK,BOLD}Path to{black} {RED}Lost{red} {BLACK,BOLD}Souls{black}~
+          
+   This unusually dark path is dreary and overgrown.
+   Great evil lurks about. No noises, other than
+   the rustling of leaves and underbrush, can be
+   heard. Large {YELL}rodents {RED}stare {red}from the distance
+   in search of a decent meal. Haste is necessary 
+   in order to keep this from becoming reality.
+
+~
+484 0 3
+D0
+~
+~
+0 -1 48410
+D1
+~
+~
+0 -1 48405
+D2
+~
+~
+0 -1 48410
+D3
+~
+~
+0 -1 48410
+Z6
+C-1
+R0
+S
+#48410
+{BLACK,BOLD}Path to{black} {RED}Lost{red} {BLACK,BOLD}Souls{black}~
+  
+   This unusually dark path is dreary and unkept.
+   Great evil lurks about. No noises are audible 
+   other than the rustling of leaves and underbrush. 
+   Large {YELL}rodents {RED,BLIN}stare {red}from the distance in search
+   of a decent meal. Haste is necessary in order 
+   to keep this from becoming reality.
+
+~
+484 0 3
+D2
+~
+~
+0 -1 48409
+D3
+~
+Door~
+4 48403 48411
+Z6
+C-1
+R0
+S
+#48411
+{RED}Room of LOST Souls!!{red}~
+
+   {WHI}There are hundreds of specters soaring all about
+   the room. Their faces are twisted with the pain 
+   that they suffer. An unbearable heat rises from 
+   the earth below.  The tormented souls start to 
+   {RED}s{BLU}w{YELL}i{CYAN}r{MAGE}l{WHI} around in evil glee you as if they were 
+   awaiting someone to join them.{whi}
+
+~
+484 16408 3
+D1
+~
+Door~
+2 -1 48410
+D2
+~
+Barrier~
+2 48403 48412
+X142
+Z9
+C-1
+R0
+S
+#48412
+{RED}Room of LOST Souls!!{red}~
+          
+   {BLA,BO}An unbearable heat rises from the floor. The stones
+   that make up the dilapidated room are glistening with
+   a film of slime. Smells of death fill the air. A mist
+   swirls in the air making it hard to focus on any dangers
+   that may lie within these walls.{bla}
+
+~
+484 152 3
+D0
+~
+Barrier~
+1 -1 48411
+X76
+Z0
+C-1
+R0
+S
+#48413
+{WHITE,BOLD}Before the Castle{white,bold}~
+          
+  {BLA,BO} Standing here is the door that has guarded the Castle 
+   of Lost Souls for ages. It is moldy and rotted from 
+   age and weather. The Castle looks as if it touches 
+   the sky. It looks like a vision from a nightmare. A 
+   mist surrounds the area adding to the nightmarish
+   appearance. The moon penetrates the night sky and 
+   lights up the area so that the castle may be seen 
+   a little more clearly.{bla} 
+
+~
+484 1 3
+D1
+{YELLOW}Towering rotted doors{yellow}
+~
+Gates~
+2 48401 48414
+D2
+~
+~
+0 -1 48404
+Z9
+C-1
+R0
+S
+#48414
+{BLACK,BOLD}Castle Foyer{black}~
+   
+   {WHI,BO}This is the foyer of the{BLA} Castle of Lost Souls{WHI}. A
+   magnificent staircase winds upward . There are
+   tales of ghosts and hauntings in this debilitated
+   castle. There are many secrets to unlock here. Each
+   room in the castle holds its own secret. The age of 
+   the castle has filled the rooms with the scent of
+   mold. There are cobwebs hanging about ceilings and 
+   fixtures. There is no light visible throughout the
+   grand hallways.{whi}
+
+~
+484 4194313 1
+D4
+~
+~
+0 -1 48415
+E
+scouts~
+
+   
+   {WHITE,BOLD}Standing here are your finest scouts. Each
+   is trained in tracking and the art of death. 
+   Legend says they can see your soul by looking
+   into your eyes. Masters of the shadow world, 
+   they move through the night with silent footsteps,
+   remaining unnoticed. They stealthily move in for 
+   the kill. With haste and skills, these scouts do
+   their job accurately and proficiently. They live 
+   for the thrill of their job.{white}
+
+~
+X78
+Z9
+C-1
+R0
+S
+#48415
+{RED}The Grand Hallway{red}~
+          
+   {WHI,BO}This is a large scenic hallway with a vaulted ceiling
+   upon which paintings depict angels, cherubs and robed
+   figures in postures of ecstasy. The walls are made of
+   wood and stone. They are all but rotted away. By the
+   looks of the surroundings, this place was once detailed
+   in beauty. A thick layer of dust now covers everything 
+   here. This hallway splits in all directions for great
+   lengths. A cool breeze blows down the hallway through
+   the shattered windows. Everything here is in ruins.{whi}
+
+~
+484 9 3
+D0
+~
+~
+0 -1 48416
+D2
+~
+~
+0 -1 48417
+D3
+~
+~
+0 -1 48418
+D4
+~
+~
+0 -1 48419
+D5
+~
+~
+0 -1 48414
+Z0
+C-1
+R0
+S
+#48416
+{RED,BOLD}A Hallway in the Castle{red}~
+
+                         {RED} *
+                         **
+                         *{YELL,BO}*{yell}{RED}*
+                         *{YELL,BO}*{yell}{RED}*
+                          **
+                           {BLA,BO}I{bla}
+                         {WHI,BO} I I
+                          I I
+                          I I 
+                          I I  {whi}{YELL}*
+                         {WHI,BO} I I{whi}{YELL} * *
+                        <=====*
+   {RED}This area has opened into one of the many long hallways
+   of the Castle. The dimness of a single candle now lights 
+   the way. The flicker of this candle is making the shadows
+   dance along the walls. The wind whips through the hallway,
+   bringing with it a bone chilling coldness. The strong wind
+   causes the floorboards and walls to creak an eerie melody.{red}
+ 
+~
+484 9 3
+D2
+~
+~
+0 -1 48415
+D3
+~
+~
+0 -1 48420
+X78
+Z9
+C-1
+R0
+S
+#48417
+{RED,BOLD}A Hallway in the Castle{red}~
+
+                         {RED} *
+                         **
+                         *{YELL,BO}*{yell}{RED}*
+                         *{YELL,BO}*{yell}{RED}*
+                          **
+                           {BLA,BO}I{bla}
+                         {WHI,BO} I I
+                          I I
+                          I I 
+                          I I  {whi}{YELL}*
+                         {WHI,BO} I I{whi}{YELL} * *
+                        <=====*
+   {RED}This area has opened into one of the many long hallways
+   of the Castle. The dimness of a single candle now lights 
+   the way. The flicker of this candle is making the shadows
+   dance along the walls. The wind whips through the hallway,
+   bringing with it a bone chilling coldness. The strong wind
+   causes the floorboards and walls to creak an eerie melody.{red}
+ 
+~
+484 9 3
+D0
+~
+~
+0 -1 48415
+D2
+~
+~
+0 -1 48425
+D5
+~
+~
+0 -1 48426
+X78
+Z9
+C-1
+R0
+S
+#48418
+{BLACK,BOLD}A Room in the Castle{black}~
+   YOU HAVE FALLEN TO YOUR DEATH!!!!
+                   GAME OVER!!!!!
+~
+484 6 1
+D1
+~
+~
+0 -1 48415
+Z9
+C-1
+R0
+S
+#48419
+{BLACK,BOLD}Path to{black} {RED}Lost{red} {BLACK,BOLD}Souls{black}~
+          
+   This unusually dark path is dreary and overgrown.
+   Great evil lurks about. No noises, other than
+   the rustling of leaves and underbrush, can be
+   heard. Large {YELL}rodents {RED}stare {red}from the distance
+   in search of a decent meal. Haste is necessary 
+   in order to keep this from becoming reality.
+
+~
+484 0 3
+D5
+~
+~
+0 -1 48415
+Z0
+C-1
+R0
+S
+#48420
+{BLACK,BOLD}A Room in the Castle{black}~
+
+  {CYAN} The hallway has opened up into an empty room. There
+   is a layer of dust covering the floor, with no sign
+   of being disturbed. The thick dust also fills the air
+   giving off a dingy smell. There are three doors exiting
+   this room. With the darkness, there is no way to tell
+   what is in the adjoining rooms.{cyan}
+
+~
+484 9 3
+D1
+~
+~
+0 -1 48416
+D2
+~
+~
+0 -1 48434
+D3
+~
+~
+0 -1 48421
+D5
+~
+~
+0 -1 48422
+X78
+Z9
+C-1
+R0
+S
+#48421
+{BLACK,BOLD}A Room in the Castle{black}~
+
+  {CYAN} The hallway has opened up into an empty room. There
+   is a layer of dust covering the floor, with no sign
+   of being disturbed. The thick dust also fills the air
+   giving off a dingy smell. There are three doors exiting
+   this room. With the darkness, there is no way to tell
+   what is in the adjoining rooms.{cyan}
+
+~
+484 9 3
+D1
+~
+~
+0 -1 48420
+D2
+~
+~
+0 -1 48423
+X78
+Z9
+C-1
+R0
+S
+#48422
+{BLACK,BOLD}A Room in the Castle{black}~
+   YOU HAVE FALLEN TO YOUR DEATH!!!!
+                   GAME OVER!!!!!
+~
+484 6 1
+Z0
+C-1
+R0
+S
+#48423
+{YELLOW}The Royal Chamber{yell}~
+
+   {WHI,BO}This room is obviously the royal chambers. The room
+   is spacious, domed with a chapel style ceiling. The
+   remains of an extravagant bed sit in the center of 
+   the room. Many bulky pieces of wooden furniture occupy
+   the room. Most of them are dilapidated from termites
+   and lack of care. Moth eaten tapestries are draped 
+   about. Some articles of clothing are in a pile in a
+   corner. A painting hangs from the eastern wall. It
+   has two figures in it that are not easily recognizable,
+   but must have been the king and queen of this castle. {whi} 
+
+~
+484 9 3
+D0
+~
+~
+0 -1 48421
+D1
+~
+~
+0 -1 48415
+D2
+~
+~
+0 -1 48415
+D3
+~
+~
+0 -1 48424
+X78
+Z9
+C-1
+R0
+S
+#48424
+{YELLOW}The Queens Room{yellow}~
+          
+   {WHI}This room is unlike any other in the castle. The
+   room is still finely decorated with brilliant 
+  {RED} c{BLUE}o{YELL}l{BLUE}o{CYA}r{MAGE}s{WHI}. The smell of rose fills the air, not death.
+   It is a peaceful place. There is a baby's crib in 
+   the corner but no child in it. The bed looks as if
+   it has never been slept in. However, everything is 
+   kept clean and tidy.{whi}
+
+~
+484 4210728 3
+D1
+~
+~
+0 -1 48415
+X78
+Z6
+C-1
+R0
+S
+#48425
+{RED}A Passageway{red}~
+          
+   {WHI,BO}This is a small passageway leading to
+   different rooms within the castle. The
+   walls may not be any more than three
+   feet from each other. Cold stone walls
+   make up the walls and floors. The dust 
+   shows that no one has traveled this way 
+   in many years.{whi}
+
+~
+484 9 3
+D0
+~
+~
+0 -1 48417
+D1
+~
+~
+0 -1 48428
+D2
+~
+~
+0 -1 48427
+D3
+~
+~
+0 -1 48429
+D4
+~
+~
+0 -1 48430
+Z9
+C-1
+R0
+S
+#48426
+{BLACK,BOLD}A Room in the Castle{black}~
+   YOU HAVE FALLEN TO YOUR DEATH!!!!
+                   GAME OVER!!!!!
+~
+484 6 1
+Z0
+C-1
+R0
+S
+#48427
+{BLACK,BOLD}A Room in the Castle{black}~
+   YOU HAVE FALLEN TO YOUR DEATH!!!!
+                   GAME OVER!!!!!
+~
+484 7 3
+D0
+~
+~
+0 -1 48425
+X4194304
+Z9
+C-1
+R0
+S
+#48428
+{WHITE}Before the Antichamber{white}~
+          
+   {WHI,BO}This hall leads into the throne room of
+   the castle. There are suits of rusty armor
+   standing along the wall. Pictures of past
+   royalty hang here. Many flags from battles
+   and crusades stand in the hallway. This 
+   hallway has many memories. This once great
+   castle has fallen to a terrible evil.{whi}
+
+~
+484 9 3
+D1
+~
+~
+0 -1 48435
+D3
+~
+~
+0 -1 48425
+X4194382
+Z9
+C-1
+R0
+S
+#48429
+{BLACK,BOLD}A Room in the Castle{black}~
+           
+   {RED}This is one of the many long hallways in the castle. 
+   There are no windows or lights to help traverse the 
+   path. Shadows play games upon the walls and ceilings.
+   The hallway is narrow and hard to move around in. The
+   walls seem to close in as the hallway gets longer.{red}
+
+~
+484 9 3
+D0
+~
+~
+0 -1 48485
+D1
+~
+~
+0 -1 48425
+D2
+~
+~
+0 -1 48487
+D3
+~
+~
+0 -1 48438
+X4194382
+Z0
+C-1
+R0
+S
+#48430
+{YELLOW}A Spiral Stairway{yell}~
+
+   {YELL}This spiral stairway looks as if it 
+   may fall apart at any time. The boards
+   crack as the pressure of footsteps is
+   placed on them. Wind howls through the 
+   stairway from high above. There is no 
+   light to show the path ahead, even though
+   many torches adorn the walls. The stone
+   walls are covered with moss. A chill
+   fills the stairway as the cool breeze 
+   bounces off the stone walls.{yell}
+
+~
+484 16393 3
+D4
+~
+~
+0 -1 48431
+D5
+~
+~
+0 -1 48425
+X4194382
+Z9
+C-1
+R0
+S
+#48431
+{YELLOW}A Spiral Stairway{yell}~
+
+   {YELL}This spiral stairway looks as if it 
+   may fall apart at any time. The boards
+   crack as the pressure of footsteps is
+   placed on them. Wind howls through the 
+   stairway from high above. There is no 
+   light to show the path ahead, even though
+   many torches adorn the walls. The stone
+   walls are covered with moss. A chill
+   fills the stairway as the cool breeze 
+   bounces off the stone walls.{yell}
+
+~
+484 16393 3
+D1
+~
+passage~
+3 -1 48432
+D4
+~
+~
+0 -1 48430
+D5
+~
+~
+0 -1 48430
+X4194382
+Z9
+C-1
+R0
+S
+#48432
+{YELLOW}Before the Prince's Room{yellow}~
+
+   {YELL}The staircase has come to an abrupt end. There
+   are two doors here. They are overrun with age as
+   is everything else here. The unnatural presence
+   of another creature can be felt. The wind howls 
+   through a broken window, which adds to the uneasiness.{yell} 
+
+~
+484 13 1
+D0
+~
+door~
+2 48409 48433
+D3
+~
+passage~
+1 -1 48431
+X78
+Z9
+C-1
+R0
+S
+#48433
+{YELLOW}The Prince's Bedroom{yellow}~
+           
+   {WHI,BO}This is a room of great honors. There are medals 
+   hooked to a suit of gallant armor. Many objects of
+   war fill the room and walls. Battle scarred shields
+   and swords of many types are along one wall. Staffs
+   and spears are along another. There is a fire burning
+   in the enormous brick fireplace. It has filled the 
+   room with an intense heat and  a wonderful smell of 
+   cedar. There is a large brass bed in the center of 
+   the room covered in silk sheets. There is an outline
+   of a persons body underneath the sheets. Further 
+   inspection may help to tell who the person is.{whi}
+
+~
+484 145 1
+D4
+~
+~
+0 -1 48425
+D5
+~
+~
+0 -1 48427
+X78
+Z9
+C-1
+R0
+S
+#48434
+{BLUE}The Servants Quarters{blue}~
+   
+   {CYAN}This is a small, humble room where the servants once
+   lived. It is clear that they had only the necessities
+   of life. There are rows of cots with thin bedding and
+   blankets. There is little privacy for anyone who might
+   share this place.{cyan}
+
+~
+484 9 3
+D0
+~
+~
+0 -1 48420
+Z9
+C-1
+R0
+S
+#48435
+{YELL,BOL}The Antechamber{yell}~
+           
+   {WHI}This enormous room is round with ceilings at
+   least thirty feet tall. The floor has Inlayed
+   marble of different colors depicting a star.
+   In the center of the star is a {BLUE,BO}plaque{blue}{WHI} which 
+   is a little hard to read do to the thick layer
+   of dust. A huge set of doors are open to the
+   south. Two statues of warriors sit to either
+   side of the doors. The throne is clearly 
+   visible from here.{whi}
+
+~
+484 9 3
+D0
+~
+~
+0 -1 48436
+D2
+~
+Double~
+1 -1 48437
+D3
+~
+~
+0 -1 48428
+E
+plaque~
+
+   {YELLOW,BOLD}This room is in honor of all of our fallen
+   warriors. To all that have been killed in 
+   battle protecting our land, let this be 
+   your light in the afterlife. Follow well to
+   your homeland.{yellow}
+~
+X78
+Z9
+C-1
+R0
+S
+#48436
+{WHITE}A Lavishly Decorated Room{white}~
+   YOU HAVE FALLEN TO YOUR DEATH!!!!
+                   GAME OVER!!!!!
+~
+484 2 1
+D2
+~
+~
+0 -1 48435
+X4194304
+Z9
+C-1
+R0
+S
+#48437
+{WHITE}Throne Room{white}~
+   
+   {RED}A magnificent throne of{YELL} gold {RED}and {WHI}ivory {RED}sits
+   in the middle of the throne room. Everything
+   else is ruined and covered in dust. A bright 
+   {WHI,BO}light{whi}{RED} rains down onto the throne from above,
+   as if it were calling to its king.{red}
+
+~
+484 153 3
+D0
+~
+Double~
+1 -1 48435
+D5
+~
+~
+0 -1 48425
+X78
+Z9
+C-1
+R0
+S
+#48438
+{BLACK,BOLD}A Room in the Castle{black}~
+
+   {CYAN}This room is small in comparison to the others. It
+   almost looks as if it is a small hallway. There is
+   nothing along the walls. There appears to be nothing
+   grand or interesting about this room at all.{cyan}
+
+~
+484 8 1
+D1
+~
+~
+0 -1 48429
+D2
+~
+~
+0 -1 48439
+X78
+Z9
+C-1
+R0
+S
+#48439
+{RED}A Junction in the Castle{red}~
+  
+   {CYAN}Here is a junction that leads into the wine cellar and
+   a staircase that leads upwards. It is made of concrete,
+   which appears to be decaying from age and moisture. A
+   still coolness fills the air. There are no windows to
+   allow light into the cramped junction.{cyan} 
+
+~
+484 9 1
+D0
+~
+~
+0 -1 48438
+D1
+~
+~
+0 -1 48440
+D4
+~
+~
+0 -1 48441
+Z9
+C-1
+R0
+S
+#48440
+{MAGENTA}Wine Cellar{magenta}~
+           
+   {CYAN}Many tiers of wine still stand here.
+   The bottles are so old that the labels
+   are unreadable. In the back of the cellar
+   sits large barrels waiting to be bottled.
+   The damp cool  room keeps the wine from 
+   turning into vinegar.{cya}
+
+~
+484 9 3
+D3
+~
+~
+0 -1 48439
+Z9
+C-1
+R0
+S
+#48441
+{YELLOW}Staircase to the Keep{yellow}~
+           
+   {YELL}Ascending far above the ground into the keep,
+   nothing can be seen from the small windows, other
+   than fog. Small candles now light the way up to 
+   the keep. A coolness surrounds the damp stone 
+   that create the stairway. There is faint outline 
+   of a door a little higher up.{yell}
+
+~
+484 9 3
+D4
+~
+~
+0 -1 48442
+D5
+~
+~
+0 -1 48439
+Z0
+C-1
+R0
+S
+#48442
+{YELL}Before the Keep{yell}~
+           
+   {YELL}The cool night wind blows in from the north.
+   A fine mist fills the room making the keep
+   seem a little darker than the lower floors.
+   A odd stench follows the wind into the keep.
+   Nests can be seen in the rafters, but the
+   birds have long left them behind. The creaking 
+   of old wood and moaning of the night wind can
+   be heard  echoing through the stairway.{yell}
+
+~
+484 9 3
+D1
+~
+~
+0 -1 48443
+D5
+~
+~
+0 -1 48441
+Z9
+C-1
+R0
+S
+#48443
+{BLACK,BOLD}The Keep{black}~
+
+   {BLA,BO}The keep is the highest room in the castle. It stands
+   on decayed boards far above the earth. Noises like no 
+   other come from all around. The stench of death is it's 
+   strongest yet. Shadows dance on the walls around the 
+   keep. Nothing could prepare you for what you may face 
+   here.{bla}
+
+~
+484 41 3
+D3
+~
+~
+0 -1 48442
+D5
+~
+~
+0 -1 48444
+X16
+Z0
+C-1
+R0
+S
+#48444
+SLIDING DOWN~
+
+   YOU ARE SLIDING DOWN INTO WHO KNOWS WHERE!!!!!
+
+~
+484 1048588 1
+D1
+~
+~
+0 -1 48446
+D4
+~
+~
+0 -1 48443
+D5
+~
+~
+0 -1 48445
+Z9
+C-1
+R0
+S
+#48445
+{BLACK,BOLD}The Dungeon{black}~
+
+   {RED}You are standing in the dungeon of the castle. All 
+   the most gruesome things happened to trespassers
+   here. Blood has stained the walls. Chains are strung
+   everywhere. There are cells for holding prisoners 
+   until they are to be tortured. The bars are rusty,
+   the locks are frozen with age. There are paths in
+   every direction. The dungeon appears to be a maze,
+   used to keep prisoners from attempting to escape.{red}
+
+~
+484 16396 3
+D0
+~
+~
+0 -1 48449
+D1
+~
+~
+0 -1 48448
+D2
+~
+~
+0 -1 48450
+D3
+~
+~
+0 -1 48447
+D4
+~
+~
+0 -1 48451
+D5
+~
+~
+0 -1 48452
+X8
+Z9
+C-1
+R0
+S
+#48446
+{YELLOW,BOLD}The Treasure Room{yellow}~
+              
+   {YELL}You are standing in a room filled with
+   wonderful treasures. Take what you like.{yell}
+
+~
+484 8 3
+D5
+~
+~
+0 -1 48445
+Z4
+C-1
+R0
+S
+#48447
+{BLACK,BOLD}The Dungeon{black}~
+   YOU ARE VERY DEAD!!!! HAHAHA....
+~
+484 1048581 3
+D0
+~
+~
+0 -1 48447
+D1
+~
+~
+0 -1 48456
+D2
+~
+~
+0 -1 48450
+D3
+~
+~
+0 -1 48457
+D4
+~
+~
+0 -1 48458
+D5
+~
+~
+0 -1 48453
+X12
+Z9
+C-1
+R0
+S
+#48448
+{BLACK,BOLD}The Dungeon{black}~
+   YOU ARE VERY DEAD!!!! HAHAHA....
+~
+484 1048581 3
+D0
+~
+~
+0 -1 48452
+D1
+~
+~
+0 -1 48448
+D2
+~
+~
+0 -1 48447
+D3
+~
+~
+0 -1 48450
+D4
+~
+~
+0 -1 48451
+D5
+~
+~
+0 -1 48452
+X12
+Z9
+C-1
+R0
+S
+#48449
+{BLACK,BOLD}The Dungeon{black}~
+
+   {RED}You are standing in the dungeon of the castle. All 
+   the most gruesome things happened to trespassers
+   here. Blood has stained the walls. Chains are strung
+   everywhere. There are cells for holding prisoners 
+   until they are to be tortured. The bars are rusty,
+   the locks are frozen with age. There are paths in
+   every direction. The dungeon appears to be a maze,
+   used to keep prisoners for attempting to escape.{red}
+
+~
+484 16521 3
+D0
+~
+~
+0 -1 48453
+D1
+~
+~
+0 -1 48455
+D2
+~
+~
+0 -1 48454
+D3
+~
+~
+0 -1 48456
+D4
+~
+~
+0 -1 48457
+D5
+~
+~
+0 -1 48458
+X12
+Z9
+C-1
+R0
+S
+#48450
+{BLACK,BOLD}The Dungeon{black}~
+   YOU ARE VERY DEAD!!!! HAHAHA....
+~
+484 1048581 3
+D0
+~
+~
+0 -1 48459
+D1
+~
+~
+0 -1 48450
+D2
+~
+~
+0 -1 48447
+D3
+~
+~
+0 -1 48456
+D4
+~
+~
+0 -1 48459
+D5
+~
+~
+0 -1 48457
+X12
+Z9
+C-1
+R0
+S
+#48451
+{BLACK,BOLD}The Dungeon{black}~
+   YOU ARE VERY DEAD!!!! HAHAHA....
+~
+484 1048581 3
+D0
+~
+~
+0 -1 48450
+D1
+~
+~
+0 -1 48447
+D2
+~
+~
+0 -1 48451
+D3
+~
+~
+0 -1 48454
+D4
+~
+~
+0 -1 48459
+D5
+~
+~
+0 -1 48457
+X12
+Z9
+C-1
+R0
+S
+#48452
+{BLACK,BOLD}The Dungeon{black}~
+   YOU ARE VERY DEAD!!!! HAHAHA....
+~
+484 1048581 3
+D0
+~
+~
+0 -1 48459
+D1
+~
+~
+0 -1 48450
+D2
+~
+~
+0 -1 48458
+D3
+~
+~
+0 -1 48456
+D4
+~
+~
+0 -1 48450
+D5
+~
+~
+0 -1 48447
+X12
+Z9
+C-1
+R0
+S
+#48453
+{BLACK,BOLD}The Dungeon{black}~
+   YOU ARE VERY DEAD!!!! HAHAHA....
+~
+484 1048581 3
+D0
+~
+~
+0 -1 48447
+D1
+~
+~
+0 -1 48451
+D2
+~
+~
+0 -1 48450
+D3
+~
+~
+0 -1 48452
+D5
+~
+~
+0 -1 48454
+X12
+Z0
+C-1
+R0
+S
+#48454
+{BLACK,BOLD}The Dungeon{black}~
+   YOU ARE VERY DEAD!!!! HAHAHA....
+~
+484 1048581 3
+D0
+~
+~
+0 -1 48447
+D1
+~
+~
+0 -1 48451
+D2
+~
+~
+0 -1 48450
+D3
+~
+~
+0 -1 48452
+D5
+~
+~
+0 -1 48454
+X12
+Z9
+C-1
+R0
+S
+#48455
+{BLACK,BOLD}The Dungeon{black}~
+
+   {RED}You are standing in the dungeon of the castle. All 
+   the most gruesome things happened to trespassers
+   here. Blood has stained the walls. Chains are strung
+   everywhere. There are cells for holding prisoners 
+   until they are to be tortured. The bars are rusty,
+   the locks are frozen with age. There are paths in
+   every direction. The dungeon appears to be a maze,
+   used to keep prisoners for attempting to escape.{red}
+
+~
+484 16521 3
+D0
+~
+~
+0 -1 48447
+D1
+~
+~
+0 -1 48451
+D2
+~
+~
+0 -1 48450
+D3
+~
+~
+0 -1 48452
+D4
+~
+~
+0 -1 48453
+D5
+~
+~
+0 -1 48459
+X12
+Z9
+C-1
+R0
+S
+#48456
+{BLACK,BOLD}The Dungeon{black}~
+   YOU ARE VERY DEAD!!!! HAHAHA....
+~
+484 1048581 3
+D0
+~
+~
+0 -1 48447
+D1
+~
+~
+0 -1 48451
+D2
+~
+~
+0 -1 48450
+D3
+~
+~
+0 -1 48452
+D5
+~
+~
+0 -1 48454
+X12
+Z9
+C-1
+R0
+S
+#48457
+{BLACK,BOLD}The Dungeon{black}~
+   YOU ARE VERY DEAD!!!! HAHAHA....
+~
+484 1048581 3
+D0
+~
+~
+0 -1 48447
+D1
+~
+~
+0 -1 48451
+D2
+~
+~
+0 -1 48450
+D3
+~
+~
+0 -1 48452
+D5
+~
+~
+0 -1 48454
+X12
+Z9
+C-1
+R0
+S
+#48458
+{BLACK,BOLD}The Dungeon{black}~
+   YOU ARE VERY DEAD!!!! HAHAHA....
+~
+484 1048581 3
+D0
+~
+~
+0 -1 48447
+D1
+~
+~
+0 -1 48451
+D2
+~
+~
+0 -1 48450
+D3
+~
+~
+0 -1 48452
+D5
+~
+~
+0 -1 48454
+X12
+Z9
+C-1
+R0
+S
+#48459
+{BLACK,BOLD}The Dungeon{black}~
+
+   {RED}You are standing in the dungeon of the castle. All 
+   the most gruesome things happened to trespassers
+   here. Blood has stained the walls. Chains are strung
+   everywhere. There are cells for holding prisoners 
+   until they are to be tortured. The bars are rusty,
+   the locks are frozen with age. There are paths in
+   every direction. The dungeon appears to be a maze,
+   used to keep prisoners for attempting to escape.{red}
+
+~
+484 16521 3
+D0
+~
+~
+0 -1 48460
+D1
+~
+~
+0 -1 48451
+D2
+~
+~
+0 -1 48450
+D3
+~
+~
+0 -1 48452
+D4
+~
+~
+0 -1 48453
+D5
+~
+~
+0 -1 48447
+X12
+Z9
+C-1
+R0
+S
+#48460
+{BLACK,BOLD}The Dungeon{black}~
+
+   {RED}You are standing in the dungeon of the castle. All 
+   the most gruesome things happened to trespassers
+   here. Blood has stained the walls. Chains are strung
+   everywhere. There are cells for holding prisoners 
+   until they are to be tortured. The bars are rusty,
+   the locks are frozen with age. There are paths in
+   every direction. The dungeon appears to be a maze,
+   used to keep prisoners for attempting to escape.{red}
+
+~
+484 16521 3
+D0
+~
+~
+0 -1 48461
+D1
+~
+~
+0 -1 48451
+D2
+~
+~
+0 -1 48450
+D3
+~
+~
+0 -1 48452
+D4
+~
+~
+0 -1 48453
+D5
+~
+~
+0 -1 48447
+X12
+Z9
+C-1
+R0
+S
+#48461
+{BLACK,BOLD}The Dungeon{black}~
+
+   {RED}You are standing in the dungeon of the castle. All 
+   the most gruesome things happened to trespassers
+   here. Blood has stained the walls. Chains are strung
+   everywhere. There are cells for holding prisoners 
+   until they are to be tortured. The bars are rusty,
+   the locks are frozen with age. There are paths in
+   every direction. The dungeon appears to be a maze,
+   used to keep prisoners for attempting to escape.{red}
+
+~
+484 16521 3
+D0
+~
+~
+0 -1 48447
+D1
+~
+~
+0 -1 48451
+D2
+~
+~
+0 -1 48450
+D3
+~
+~
+0 -1 48462
+D4
+~
+~
+0 -1 48453
+D5
+~
+~
+0 -1 48452
+X12
+Z9
+C-1
+R0
+S
+#48462
+{BLACK,BOLD}The Dungeon{black}~
+
+   {RED}You are standing in the dungeon of the castle. All 
+   the most gruesome things happened to trespassers
+   here. Blood has stained the walls. Chains are strung
+   everywhere. There are cells for holding prisoners 
+   until they are to be tortured. The bars are rusty,
+   the locks are frozen with age. There are paths in
+   every direction. The dungeon appears to be a maze,
+   used to keep prisoners for attempting to escape.{red}
+
+~
+484 16521 3
+D0
+~
+~
+0 -1 48447
+D1
+~
+~
+0 -1 48451
+D3
+~
+~
+0 -1 48463
+D4
+~
+~
+0 -1 48453
+D5
+~
+~
+0 -1 48452
+X12
+Z9
+C-1
+R0
+S
+#48463
+{BLACK,BOLD}The Dungeon{black}~
+
+   {RED}You are standing in the dungeon of the castle. All 
+   the most gruesome things happened to trespassers
+   here. Blood has stained the walls. Chains are strung
+   everywhere. There are cells for holding prisoners 
+   until they are to be tortured. The bars are rusty,
+   the locks are frozen with age. There are paths in
+   every direction. The dungeon appears to be a maze,
+   used to keep prisoners for attempting to escape.{red}
+
+~
+484 16521 3
+D1
+~
+~
+0 -1 48451
+D2
+~
+~
+0 -1 48464
+D3
+~
+~
+0 -1 48450
+D4
+~
+~
+0 -1 48453
+D5
+~
+~
+0 -1 48452
+X12
+Z9
+C-1
+R0
+S
+#48464
+{BLACK,BOLD}The Dungeon{black}~
+
+   {RED}You are standing in the dungeon of the castle. All 
+   the most gruesome things happened to trespassers
+   here. Blood has stained the walls. Chains are strung
+   everywhere. There are cells for holding prisoners 
+   until they are to be tortured. The bars are rusty,
+   the locks are frozen with age. There are paths in
+   every direction. The dungeon appears to be a maze,
+   used to keep prisoners for attempting to escape.{red}
+
+~
+484 16521 3
+D0
+~
+~
+0 -1 48447
+D1
+~
+~
+0 -1 48451
+D2
+~
+~
+0 -1 48453
+D4
+~
+~
+0 -1 48465
+D5
+~
+~
+0 -1 48452
+X12
+Z9
+C-1
+R0
+S
+#48465
+{BLACK,BOLD}The Dungeon{black}~
+
+   {RED}You are standing in the dungeon of the castle. All 
+   the most gruesome things happened to trespassers
+   here. Blood has stained the walls. Chains are strung
+   everywhere. There are cells for holding prisoners 
+   until they are to be tortured. The bars are rusty,
+   the locks are frozen with age. There are paths in
+   every direction. The dungeon appears to be a maze,
+   used to keep prisoners for attempting to escape.{red}
+
+~
+484 16393 3
+D4
+~
+~
+0 -1 48483
+X8
+Z9
+C-1
+R0
+S
+#48466
+{MAGENTA}In the purple rose garden{magenta}~
+
+   {CYAN,BO}There are purple roses filling this section
+   of the garden. A fragrance pours from them
+   filling the air. There must be hundreds of 
+   them, all carefully pruned. It is obvious 
+   that someone takes great pride in this 
+   garden.{cyan}
+
+~
+484 0 3
+T48483
+Z9
+C-1
+R0
+S
+#48467
+{RED,BOLD}In the red rose garden{red}~
+
+   {CYAN,BO}There are red roses filling this section
+   of the garden. A fragrance pours from them
+   filling the air. There must be hundreds of 
+   them, all carefully pruned. It is obvious 
+   that someone takes great pride in this 
+   garden.{cyan}
+
+~
+484 1 3
+T48483
+Z9
+C-1
+R0
+S
+#48468
+{YELLOW,BOLD}In the yellow rose garden{yellow}~
+
+   {CYAN,BO}There are yellow roses filling this section
+   of the garden. A fragrance pours from them
+   filling the air. There must be hundreds of 
+   them, all carefully pruned. It is obvious 
+   that someone takes great pride in this 
+   garden.{cyan}
+
+~
+484 257 3
+D0
+~
+~
+0 -1 48400
+T48483
+Z9
+C-1
+R0
+S
+#48469
+{BLUE,BOLD}The Rose Bushes{blue}~
+
+   {WHITE,BOLD}Many beautiful rose bushes are growing here.
+   They stand at different lengths, but are all
+   equally breathtaking. The blooms are open
+   revealing their aromatic petals. The roses
+   appear to be reaching for sunlight, looking 
+   for the warmth of day. The stems twist upward,
+   holding the bulbous flowers firmly. The silky
+   smooth roses are inviting travelers to walk 
+   throughout the gardens and marvel at their
+   artistry.{white}
+   
+~
+484 1 3
+D2
+~
+~
+0 -1 48470
+Z9
+C-1
+R0
+S
+#48470
+{BLACK,BOLD}Entering the {RED,BOLD}Rose {GREEN,BOLD}Garden{green}~
+    
+   {WHI,BO}This extravagant rose garden is full of brilliant
+   colors. The fragrance of fresh roses fill the air.
+   The roses seem to branch out by colors, each having
+   its own place in the garden. There are paths leading 
+   threw each section of roses. Each one is surrounded 
+   by hedges standing that stand no more than four feet 
+   high. The path is made up of small flat stones, making
+   it easy to traverse. A light mist blankets the ground
+   and the rose bushes, creating a bewitching vision.{whi}
+
+~
+484 1 3
+D0
+~
+~
+0 -1 48469
+D3
+~
+rosebush~
+1 -1 48471
+Z9
+C-1
+R0
+S
+#48471
+{CYAN}The Moat's Tower{cyan}~
+     
+   {WHI,BO}Many windows cover the stone walls of the tower, 
+   one of which is a huge {RED}s{BLU}t{YELL}a{GREE}i{CYA}n{MAG}e{BLA}d {WHI}glass window that 
+   showers the whole room with a {RED}r{BLU}a{YEL}i{GREE}n{CYA}b{MAG}o{BLA}w {WHI}of colors.  
+   As the wind blows a window open, eerie sounds 
+   pour from the castle off in the distance. The 
+   screaming of the sea gulls above fill the empty 
+   room of the tower. Suddenly there is a calming 
+   breeze of cool air. This place seems as if it 
+   would make a decent resting place.{whi}
+
+~
+484 1 3
+D1
+~
+rosebush~
+4 48402 48470
+D3
+~
+~
+0 -1 48472
+D4
+~
+painting~
+3 -1 48484
+E
+PAINTING~
+~
+E
+rainbow~
+
+   {MAGENTA,BOLD}An {RED,BOLD}a{GREEN,BOLD}r{BLUE,BOLD}r{YELLOW,BOLD}a{WHITE,BOLD}y {MAGENTA,BOLD}of {BLUE,BOLD}c{WHITE,BOLD}o{YELLOW,BOLD}l{RED,BOLD}o{GREEN,BOLD}r {MAGENTA,BOLD}is spraying over the room. 
+   The {BLUE,BOLD}c{WHITE,BOLD}o{YELLOW,BOLD}l{RED,BOLD}o{GREEN,BOLD}r{BLACK,BOLD}s {MAGENTA,BOLD}are making the shadows dance about 
+   the walls. There is a large {BLUE,BOLD}oil painting {MAGENTA,BOLD}of a
+   cherub sitting in the corner.{magenta}
+
+~
+E
+dflag locked~
+~
+Z9
+C-1
+R0
+S
+#48472
+{CYAN,BOLD}Under the Moat{cyan}~
+              
+   {CYA}The water is cold and murky with all manners of debris
+   floating about. It could be trash dumped from the windows
+   of the Castle by the staff, or it could be parts of bodies 
+   of those who have dared attack the Castle. The Moat continues 
+   across the front and sides of the Castle. The channel of
+   water seems endless.{cyan}
+
+~
+484 32769 10
+D1
+~
+~
+0 -1 48471
+D2
+~
+~
+0 -1 48473
+Z9
+C-1
+R0
+S
+#48473
+{CYAN,BOLD}Under the Moat{cyan}~
+              
+   {CYA}The water is cold and murky with all manners of debris
+   floating about. It could be trash dumped from the windows
+   of the Castle by the staff, or it could be parts of bodies 
+   of those who have dared attack the Castle. The Moat continues 
+   across the front and sides of the Castle. The channel of
+   water seems endless.{cyan}
+
+~
+484 32769 10
+D0
+~
+~
+0 -1 48472
+D1
+~
+~
+0 -1 48475
+D2
+~
+~
+0 -1 48474
+Z9
+C-1
+R0
+S
+#48474
+{CYAN,BOLD}Under the Moat{cyan}~
+
+   {CYA}There is a fine oily film that rests upon the top 
+   of the water. Beneath the surface small fish and a few 
+   pieces of refuse can be seen. The sand on the bottom 
+   of the moat is not what it appears to be. Like tiny 
+   daggers, shards of crystal lie waiting to impale the  
+   feet of intruders. Shades of {GRE}d{GRE,BOL}a{gre}{GRE}r{GRE,BOL}k{gre} {GRE}g{GRE,BOL}r{gre}{GRE}e{GRE,BOL}e{gre}{GRE}n {GRE}seaweed{gre} {CYA}can be
+   seen waving back and forth like ghostly fingers aching
+   to reach your throat.{cya}
+
+~
+484 32769 10
+D0
+~
+~
+0 -1 48473
+D1
+~
+~
+0 -1 48475
+D2
+~
+~
+0 -1 48475
+D3
+~
+~
+0 -1 48475
+Z9
+C-1
+R0
+S
+#48475
+{CYAN,BOLD}At the Edge of the Moat{cyan}~
+   
+   {CYAN}The moat is dimly lit by the moonlight. Flicks
+   of{WHI} silver{CYAN} bounce off the shallow water. Otherwise,
+   the darkness seems enormously oppressive here.
+   The moat, too dark to make out what is lurking
+   beneath the surface, is dank and the rocks that 
+   line the edge are slime covered.  Faint sounds of
+   breezes rustling the leaves on the ground and in
+   the old distorted trees are all that can be heard.{cyan}
+
+~
+484 1 3
+D1
+~
+~
+0 -1 48476
+D3
+~
+~
+0 -1 48474
+Z9
+C-1
+R0
+S
+#48476
+{CYAN,BOLD}At the Edge of the Moat{cyan}~
+   
+   {CYAN}The moat is dimly lit by the moonlight. Flicks
+   of{WHI} silver{CYAN} bounce off the shallow water. Otherwise,
+   the darkness seems enormously oppressive here.
+   The moat, too dark to make out what is lurking
+   beneath the surface, is dank and the rocks that 
+   line the edge are slime covered.  Faint sounds of
+   breezes rustling the leaves on the ground and in
+   the old distorted trees are all that can be heard.{cyan}
+
+~
+484 5 3
+D1
+~
+~
+0 -1 48478
+D3
+~
+~
+0 -1 48475
+Z9
+C-1
+R0
+S
+#48477
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+484 262144 1
+Z0
+C-1
+R0
+S
+#48478
+{BLU,BO}T{blu}{BLA,BO}h{bla}{BLU,BO}e{blu} {BLA,BO}Black{bla} {BLU,BO}Forest{blu}~
+     
+   {CYAN,BO}The trail has spread into a new direction. There is 
+   movement from the nearby woods every so often. A fresh
+   bout of evil laughter comes in on a chilling breeze.
+   It echoes off the trees, refusing to die. The  new path
+   to the west leads to a large moat while the path to the
+   north continues on.{cya}
+
+~
+484 1 3
+D0
+~
+~
+0 -1 48480
+D2
+~
+~
+0 -1 48479
+D3
+~
+~
+0 -1 48476
+Z9
+C-1
+R0
+S
+#48479
+{WHITE}The outskirts of the{white} {BLACK,BOLD}Black Forest{black}~
+   
+   {WHI,BO}Little light penetrates the dense tree line of the 
+   forest. The path seems to lead into total darkness. 
+   With the occasional breeze, there is a faint sound 
+   that drifts in. It's reminiscent of a spine tingling 
+   diabolical sound. There is a path opening to the north 
+   into the dense, dark forest. The smell of death is 
+   thick in the air. A fine moisture covers everything 
+   around the area.{whi}
+
+~
+484 5 3
+D0
+~
+~
+0 -1 48478
+Z9
+C-1
+R0
+S
+#48480
+{YELLOW}Standing by a great oak tree{yellow}~
+     
+   {YELL}This is the largest tree in the forest. It stretches
+   high overhead. The gnarled limbs hang high above like 
+   grasping hands waiting to strangle trespassers. The
+   bark is rough and blood stained. At the roots lie a
+   fallen hero. His body well along in decomposition, but
+   the cause of death is obvious. This foolish hero has 
+   been decapitated. There is a particularly noticeable 
+   {WHIT}knot {YELL}under a low branch where his head used to be.{yello}
+
+~
+484 1 3
+D0
+~
+hole~
+3 -1 48481
+D2
+~
+~
+0 -1 48478
+E
+knot~
+
+   {WHI}A prefectly rounded extension of the tree. It 
+   looks as if a branch has been cut from the tree
+   with a man made tool. This knot is not formed 
+   from the bark of the tree like the others. The
+   most peculiar thing about the knot is, there is
+   a triangular{whi} {YELL}hole {WHIT}in the middle of it.{whi}
+
+~
+Z9
+C-1
+R0
+S
+#48481
+{YELLOW}Inside the great oak tree{yellow}~
+
+   {BOL,GRE}The path has opened into a small ravine inside
+   the great oak tree. Sparse vegetation manages 
+   to grow in the small pockets of soil throughout
+   the ravine. A faint glow can be seen coming from
+   the tiny m{BLU}u{GRE}s{BLU}h{GRE}r{BLU}o{GRE}o{BLU}m{GRE}s all about the ravine floor. A
+   musty smell of rotted wood fills the air.{gre}
+
+~
+484 1 3
+D0
+~
+~
+0 -1 48481
+D1
+~
+~
+0 -1 48482
+D2
+~
+hole~
+1 -1 48480
+Z9
+C-1
+R0
+S
+#48482
+{BLUE}The Dark Heart of the Woods{blue}~
+   
+   {CYAN,BO}In the heart of the woods, things are strangely calm.  
+   But it is the calm before the storm. In the soft earth
+   hoof marks of a horse can clearly be seen. Around the 
+   hoof marks the earth is s{RED}c{CYAN}o{RED}r{CYAN}c{RED}h{CYAN}e{RED}d{CYAN} as if by a hot flame.  
+   Looking around there are signs of a struggle. Someone
+   placed their bets against whatever made the hoof marks,
+   and lost.
+
+~
+484 1 3
+D1
+~
+~
+0 -1 48483
+D3
+~
+~
+0 -1 48481
+Z9
+C-1
+R0
+S
+#48483
+{BLUE}A Dead End{blue}~
+     
+   {WHI,BO}This portion of the forest is blocked by a towering wall. 
+   It is an imposing mass of cold, smooth, black granite. 
+   So near the vile castle, this is not a place that travelers 
+   should wander into. Further inspection reveals {CYAN}a small 
+   {WHI}rock out of place. It looks as if something could have
+   been {CYAN}hidden {WHI}there. Maybe even an {CYAN}entrance {WHI}to the castle.{whi}
+
+~
+484 5 3
+D1
+~
+asmallhiddenentrance~
+3 -1 48445
+D3
+~
+~
+0 -1 48482
+Z9
+C-1
+R0
+S
+#48484
+{CYAN}Atop of the Tower{cyan}~
+
+   {CYAN,BOLD}As the doors to the top of the tower open, the warmth 
+   of a grand fire expands throughout the room. The east
+   wall is adorned with well stocked bookcases. The north
+   wall has a rather quaint and cozy{cyan} {CYAN}sofa{cyan} {CYAN,BOLD}with a side table.
+   The west wall is adorned with a coat of arms and an
+   impressive sword collection. In the center of the room 
+   is a round table with six chairs around it. In the middle 
+   of the table stands a vase filled with fresh roses.{cyan}
+
+~
+484 9 3
+D5
+~
+painting~
+1 -1 48471
+Z5
+C-1
+R0
+S
+#48485
+{RED,BOLD}The Cellar{red}~
+
+   {BLACK,BOLD}This is where food was kept when the 
+   castle was thriving. All that remains
+   now is empty boxes and cobwebbs. Fallen
+   shelves lie about the floor. Empty flower
+   sacks are scattered around the floor. 
+   The dampness has cause the stone wall to
+   start to crumble. Small rodents scurry 
+   about looking for food.{black}
+
+~
+484 9 3
+D2
+~
+~
+0 -1 48429
+Z0
+C-1
+R0
+S
+#48486
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+484 262144 1
+Z0
+C-1
+R0
+S
+#48487
+{RED,BOLD}The Kitchen{red}~
+
+   {RED,BO}The kitchen of the castle has many cabinets.
+   There are four large ovens against the north
+   wall. Cookware hangs from the ceiling and is
+   scattered around the countertops. Broken glass
+   glistens on the floor as light reflects off of 
+   it. Many great meals were prepared here.{red}
+
+~
+484 25 3
+D0
+~
+~
+0 -1 48429
+Z0
+C-1
+R0
+S
+#48488
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+484 262144 1
+Z0
+C-1
+R0
+S
+#48489
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+484 262144 1
+Z0
+C-1
+R0
+S
+#48490
+nowhere~
+~
+484 4194304 1
+D0
+~
+~
+0 -1 2051
+D1
+~
+~
+0 -1 2000
+D2
+~
+~
+0 -1 48494
+D5
+~
+~
+0 -1 49352
+Z0
+C-1
+R0
+S
+#48491
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+484 262144 1
+Z0
+C-1
+R0
+S
+#48492
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+484 262144 1
+Z0
+C-1
+R0
+S
+#48493
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+484 262144 1
+Z0
+C-1
+R0
+S
+#48494
+{BLU,BOL}The Hang Out{blu}~
+
+
+   {WHI}It seemed as if you had been wandering lost for days when you 
+   happened upon this place.  All your worries melt away the longer
+   you stand here.  Soon you don't remember why you were lost in
+   the first place or what you were searching for.  An oh so 
+   comfortable looking couch beckons you to rest on it.  The moment
+   you rest your weary bones three beautiful women appear, eager 
+   to massage every part of your body.  You don't ever want to 
+   leave this wonderful place.{whi} 
+
+
+~
+484 12 1
+D0
+~
+~
+0 -1 2006
+D1
+~
+~
+0 -1 48399
+D2
+~
+~
+0 -1 3036
+D5
+~
+~
+0 -1 3014
+Z-1
+C-1
+R0
+S
+#48495
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+484 262144 1
+Z0
+C-1
+R0
+S
+#48496
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+484 262144 1
+Z0
+C-1
+R0
+S
+#48497
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+484 262144 1
+Z0
+C-1
+R0
+S
+#48498
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+484 262144 1
+Z0
+C-1
+R0
+S
+#48499
+{RED,BO}TORTURE{red}~
+
+                              {YEL,BO}''``{yell}
+                             {WH}( {BLU,BO}o o{blue}{WHI} )
+     {YELL}+------------------.{WHI}oooO{YELL}--{WHI}(_){YELL}--{WHI}Oooo{YELL}.------------------+
+     |                                                     |
+     |    {RED,BO} C      A      P{red}{WHI}.oooO{RED,BO} U     L      E      T {red}{YELL}     |
+     |                    {WHI}(   )   Oooo.{YELL}                    |
+     +---------------------{WHI}\ ({YELL}----{WHI}(   ){YELL}--------------------+{WHI}
+                            \_) || ) /
+                                ||(_/
+                                ||  
+                                || 
+                                {RED,BOLD}\/{red}
+~
+484 8197 1
+D4
+~
+~
+0 -1 15167
+X2048
+Z-1
+C0
+R0
+S
+$~

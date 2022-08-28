@@ -1,0 +1,307 @@
+#3100
+00 cup tea drink DRK~
+a cup~
+A cup has been set here.~
+~
+23 0 0 1
+8 8 11 0
+2 5 1
+#3101
+01 cup coffee drink DRK~
+a cup~
+A cup has been set here.~
+~
+23 0 0 1
+8 8 12 0
+2 7 1
+#3102
+02 cup water drink DRK~
+a cup~
+A cup has been set here.~
+~
+23 0 0 1
+8 8 0 0
+2 2 1
+#3103
+03 tart raspberry food FDD~
+{BOLD,YELLOW}a {RED}Raspberry {YELLOW}Tart{yellow}~
+{BOLD,RED}Wow, this tart laying here looks SO yummy. You should put a hundred of them in your backpack!{bold,red}~
+~
+19 0 0 1
+1 0 0 0
+1 1 1
+#3104
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#3105
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#3106
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#3107
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#3108
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#3109
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#3110
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#3111
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#3112
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#3113
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#3114
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#3115
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#3116
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#3117
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#3118
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#3119
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#3120
+key iron KYY~
+a key~
+An iron key has been left here.~
+~
+18 65536 0 1
+0 0 0 5
+1 0 100
+E
+key iron KYY~
+The iron key is not special.
+~
+#3121
+21 rusty key KYY~
+a key~
+A rusty key has been left here.~
+~
+18 65536 0 1
+0 0 0 5
+1 0 100
+E
+21 rusty key KYY~
+The key is a fairly large rusty key. You notice a lot of dirt it.
+~
+#3122
+22 wooden key KYY~
+a key~
+A real wooden key has been left here.~
+~
+18 65536 0 1
+0 0 0 3
+1 0 100
+E
+22 wooden key KYY~
+The wooden key is not special.
+~
+#3123
+23 brass key KYY~
+a key~
+A brass key has been left here.~
+~
+18 65536 0 1
+0 0 0 1
+1 0 1000
+E
+23 brass key KYY~
+The brass key is small and looks like it fits a very complicated lock.
+~
+#3124
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#3125
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#3126
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#3130
+drawer desk~
+the desk~
+A desk is set against the western wall.~
+~
+15 0 0 0
+34 15 3122 0
+100 0 0
+E
+drawer~
+You notice a keyhole in the drawer.
+~
+#3131
+safe~
+the safe~
+A safe is placed in a dark corner of the room.~
+~
+15 0 0 0
+34 15 3123 0
+100 0 0
+E
+safe~
+The safe is very heavy.
+~
+#3132
+coins gold~
+the gold~
+A lot of gold is here.~
+~
+20 0 0 1
+34500 0 0 0
+0 34500 0
+#3133
+33 city key KYY~
+the City Key~
+The very big City Key is lying here.~
+~
+18 65536 0 1
+0 0 0 10
+10 5000 10000
+#3134
+bench~
+the Bench~
+A white-painted wooden bench is standing here.~
+~
+12 0 0 0
+0 0 0 0
+100 0 0
+E
+bench~
+It is a quite heavy but very comfortable bench.  It is placed with its front
+towards the river so you can sit and watch the river and the houses on the
+other side.
+~
+#3135
+fountain~
+a fountain~
+A small white fountain is standing at the end of the road.~
+~
+17 0 0 0
+10000 10000 0 0
+500 0 0
+E
+fountain~
+It is very nice.  Made from fine white marble.
+~
+#3136
+coins gold~
+a small pile of gold coins~
+A small pile of gold coins lies here.~
+~
+20 0 0 1
+20 0 0 0
+0 20 0
+$~

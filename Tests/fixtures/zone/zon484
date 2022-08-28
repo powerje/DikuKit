@@ -1,0 +1,332 @@
+#484
+Castle of Lost Souls(Giogia)~
+48499 300 2
+*
+X 2434245
+M 0 48400     1 48400    {BLACK,BOLD}The Guardian of the Gates{black}
+G 1 48400     1     0    {YELLOW}A Gate Key{yellow}
+D 0 48400     0     2    (N:LOCKED) {BLACK,BOLD}Gate to the Castle{black}
+D 0 48401     2     2    (S:LOCKED) {BLACK,BOLD}Path to the Castle{black,bold}
+M 0 48401    20 48403    {RED}The Wraith{red}
+M 0 48401    20 48403    {RED}The Wraith{red}
+M 0 48401    20 48403    {RED}The Wraith{red}
+M 0 48401    20 48404    {RED}The Wraith{red}
+M 0 48402     2 48407    {RED}The Keeper of Doom{red}
+M 0 48402     2 48407    {RED}The Keeper of Doom{red}
+M 0 48401    20 48407    {RED}The Wraith{red}
+D 0 48407     1     1    (E:CLOSED) {BLACK,BOLD}Path to the Castle{black,bold}
+M 0 48404    27 48408    {BLACK,BOLD}The Lost Soul{black}
+M 0 48404    27 48408    {BLACK,BOLD}The Lost Soul{black}
+M 0 48404    27 48408    {BLACK,BOLD}The Lost Soul{black}
+M 0 48404    27 48408    {BLACK,BOLD}The Lost Soul{black}
+M 0 48404    27 48408    {BLACK,BOLD}The Lost Soul{black}
+M 0 48404    27 48408    {BLACK,BOLD}The Lost Soul{black}
+M 0 48404    27 48408    {BLACK,BOLD}The Lost Soul{black}
+M 0 48404    27 48408    {BLACK,BOLD}The Lost Soul{black}
+M 0 48403     1 48408    {RED}A Man of Doom{red}
+E 1 48418     1    20    (EAR) {WHI,BO}The eye of Doom{whi}
+M 0 48404    27 48408    {BLACK,BOLD}The Lost Soul{black}
+M 0 48404    27 48408    {BLACK,BOLD}The Lost Soul{black}
+M 0 48404    27 48408    {BLACK,BOLD}The Lost Soul{black}
+M 0 48404    27 48408    {BLACK,BOLD}The Lost Soul{black}
+M 0 48404    27 48408    {BLACK,BOLD}The Lost Soul{black}
+M 0 48404    27 48408    {BLACK,BOLD}The Lost Soul{black}
+M 0 48404    27 48408    {BLACK,BOLD}The Lost Soul{black}
+M 0 48404    27 48408    {BLACK,BOLD}The Lost Soul{black}
+M 0 48404    27 48408    {BLACK,BOLD}The Lost Soul{black}
+M 0 48404    27 48408    {BLACK,BOLD}The Lost Soul{black}
+M 0 48404    27 48408    {BLACK,BOLD}The Lost Soul{black}
+D 0 48408     3     1    (W:CLOSED) {RED}DooM{red}
+M 0 48401    20 48410    {RED}The Wraith{red}
+M 0 48404    27 48410    {BLACK,BOLD}The Lost Soul{black}
+M 0 48404    27 48410    {BLACK,BOLD}The Lost Soul{black}
+M 0 48404    27 48410    {BLACK,BOLD}The Lost Soul{black}
+M 0 48404    27 48410    {BLACK,BOLD}The Lost Soul{black}
+G 1 48403     2     0    {MAGENTA}A Key of Flesh{magenta}
+D 0 48410     3     2    (W:LOCKED) {BLACK,BOLD}Path to{black} {RED}Lost{red} {BLACK,BOLD}Souls{black}
+M 0 48405     4 48411    {YELLOW}A rotted hound{yellow}
+M 0 48405     4 48411    {YELLOW}A rotted hound{yellow}
+M 0 48404    27 48411    {BLACK,BOLD}The Lost Soul{black}
+M 0 48404    27 48411    {BLACK,BOLD}The Lost Soul{black}
+M 0 48404    27 48411    {BLACK,BOLD}The Lost Soul{black}
+M 0 48404    27 48411    {BLACK,BOLD}The Lost Soul{black}
+G 1 48403     2     0    {MAGENTA}A Key of Flesh{magenta}
+D 0 48411     1     2    (E:LOCKED) {RED}Room of LOST Souls!!{red}
+D 0 48411     2     2    (S:LOCKED) {RED}Room of LOST Souls!!{red}
+M 0 48406     1 48412    {RED}The Withered Soul{red}
+E 1 48404     1    17    (HELD) {WHI}A W{RED}it{WHI}he{RED}red {WHI}SOUL{whi}
+D 0 48412     0     2    (N:LOCKED) {RED}Room of LOST Souls!!{red}
+M 0 48401    20 48413    {RED}The Wraith{red}
+M 0 48407     2 48413    {BLACK,BOLD}The Guardian of the Gates{black}
+G 1 48401     1     0    {BLACK,BOLD}The Key to the Castle{black}
+M 0 48407     2 48413    {BLACK,BOLD}The Guardian of the Gates{black}
+M 0 48401    20 48413    {RED}The Wraith{red}
+M 0 48401    20 48413    {RED}The Wraith{red}
+M 0 48401    20 48413    {RED}The Wraith{red}
+M 0 48401    20 48413    {RED}The Wraith{red}
+M 0 48401    20 48413    {RED}The Wraith{red}
+M 0 48401    20 48413    {RED}The Wraith{red}
+M 0 48401    20 48413    {RED}The Wraith{red}
+M 0 48401    20 48413    {RED}The Wraith{red}
+M 0 48401    20 48413    {RED}The Wraith{red}
+M 0 48401    20 48413    {RED}The Wraith{red}
+M 0 48401    20 48413    {RED}The Wraith{red}
+M 0 48401    20 48413    {RED}The Wraith{red}
+M 0 48401    20 48413    {RED}The Wraith{red}
+D 0 48413     1     2    (E:LOCKED) {WHITE,BOLD}Before the Castle{white,bold}
+M 0 48419    59 48414    {RED}The tortured{red}
+M 0 48408    28 48414    {YELLOW}The Warrior{yellow}
+G 1 48406    32     0    a small bag
+M 0 48410    21 48414    {YELLOW}The HUNTER{yellow}
+G 1 48406    32     0    a small bag
+M 0 48419    59 48414    {RED}The tortured{red}
+M 0 48410    21 48415    {YELLOW}The HUNTER{yellow}
+M 0 48410    21 48415    {YELLOW}The HUNTER{yellow}
+M 0 48419    59 48415    {RED}The tortured{red}
+M 0 48410    21 48415    {YELLOW}The HUNTER{yellow}
+M 0 48419    59 48415    {RED}The tortured{red}
+M 0 48410    21 48415    {YELLOW}The HUNTER{yellow}
+M 0 48419    59 48416    {RED}The tortured{red}
+M 0 48408    28 48416    {YELLOW}The Warrior{yellow}
+G 1 48406    32     0    a small bag
+M 0 48408    28 48416    {YELLOW}The Warrior{yellow}
+G 1 48406    32     0    a small bag
+M 0 48419    59 48417    {RED}The tortured{red}
+M 0 48419    59 48417    {RED}The tortured{red}
+M 0 48419    59 48417    {RED}The tortured{red}
+M 0 48419    59 48419    {RED}The tortured{red}
+M 0 48408    28 48419    {YELLOW}The Warrior{yellow}
+G 1 48406    32     0    a small bag
+M 0 48419    59 48419    {RED}The tortured{red}
+M 0 48408    28 48419    {YELLOW}The Warrior{yellow}
+G 1 48406    32     0    a small bag
+M 0 48419    59 48419    {RED}The tortured{red}
+M 0 48408    28 48419    {YELLOW}The Warrior{yellow}
+G 1 48406    32     0    a small bag
+M 0 48410    21 48419    {YELLOW}The HUNTER{yellow}
+M 0 48419    59 48420    {RED}The tortured{red}
+M 0 48405     4 48420    {YELLOW}A rotted hound{yellow}
+M 0 48419    59 48420    {RED}The tortured{red}
+M 0 48410    21 48420    {YELLOW}The HUNTER{yellow}
+M 0 48419    59 48420    {RED}The tortured{red}
+M 0 48409     1 48424    {MAGENTA,BOLD}The Queen{magenta}
+G 1 48408     1     0    {CYAN,BO}A {YELL}Knight's {CYAN}Legacy{cyan}
+M 0 48408    28 48424    {YELLOW}The Warrior{yellow}
+G 1 48406    32     0    a small bag
+M 0 48408    28 48425    {YELLOW}The Warrior{yellow}
+G 1 48406    32     0    a small bag
+M 0 48408    28 48425    {YELLOW}The Warrior{yellow}
+G 1 48406    32     0    a small bag
+M 0 48419    59 48425    {RED}The tortured{red}
+M 0 48419    59 48425    {RED}The tortured{red}
+M 0 48408    28 48425    {YELLOW}The Warrior{yellow}
+G 1 48406    32     0    a small bag
+M 0 48408    28 48425    {YELLOW}The Warrior{yellow}
+G 1 48406    32     0    a small bag
+G 1 48406    32     0    a small bag
+M 0 48405     4 48428    {YELLOW}A rotted hound{yellow}
+M 0 48410    21 48428    {YELLOW}The HUNTER{yellow}
+M 0 48419    59 48428    {RED}The tortured{red}
+M 0 48410    21 48428    {YELLOW}The HUNTER{yellow}
+M 0 48410    21 48428    {YELLOW}The HUNTER{yellow}
+M 0 48419    59 48428    {RED}The tortured{red}
+M 0 48410    21 48429    {YELLOW}The HUNTER{yellow}
+M 0 48419    59 48429    {RED}The tortured{red}
+M 0 48419    59 48429    {RED}The tortured{red}
+M 0 48408    28 48429    {YELLOW}The Warrior{yellow}
+G 1 48406    32     0    a small bag
+M 0 48419    59 48430    {RED}The tortured{red}
+M 0 48419    59 48430    {RED}The tortured{red}
+M 0 48419    59 48430    {RED}The tortured{red}
+M 0 48419    59 48430    {RED}The tortured{red}
+M 0 48419    59 48430    {RED}The tortured{red}
+M 0 48408    28 48430    {YELLOW}The Warrior{yellow}
+G 1 48406    32     0    a small bag
+M 0 48419    59 48431    {RED}The tortured{red}
+M 0 48419    59 48431    {RED}The tortured{red}
+D 0 48431     1     0    (E:OPEN) {YELLOW}A Spiral Stairway{yell}
+M 0 48411     1 48432    {BLACK,BOLD}The Prince's Assassin{black}
+G 1 48409     1     0    {YELLOW}The key to the Prince's Bedroom{yellow}
+D 0 48432     0     2    (N:LOCKED) {YELLOW}Before the Prince's Room{yellow}
+D 0 48432     3     0    (W:OPEN) {YELLOW}Before the Prince's Room{yellow}
+M 0 48412     4 48433    {WHITE,BOLD}The Spirit of Old{white}
+M 0 48412     4 48433    {WHITE,BOLD}The Spirit of Old{white}
+M 0 48412     4 48433    {WHITE,BOLD}The Spirit of Old{white}
+M 0 48412     4 48433    {WHITE,BOLD}The Spirit of Old{white}
+M 0 48413     1 48433    {YELLOW}The Prince of Souls{yellow}
+E 1 48410     1    16    (WIELD) {RED}The Chronicles of {BLACK,BO}DEATH{black}
+M 0 48419    59 48434    {RED}The tortured{red}
+M 0 48419    59 48434    {RED}The tortured{red}
+M 0 48419    59 48434    {RED}The tortured{red}
+M 0 48408    28 48434    {YELLOW}The Warrior{yellow}
+G 1 48406    32     0    a small bag
+M 0 48419    59 48435    {RED}The tortured{red}
+M 0 48419    59 48435    {RED}The tortured{red}
+M 0 48408    28 48435    {YELLOW}The Warrior{yellow}
+G 1 48406    32     0    a small bag
+M 0 48408    28 48435    {YELLOW}The Warrior{yellow}
+G 1 48406    32     0    a small bag
+M 0 48419    59 48435    {RED}The tortured{red}
+M 0 48408    28 48435    {YELLOW}The Warrior{yellow}
+G 1 48406    32     0    a small bag
+D 0 48435     2     1    (S:CLOSED) {YELL,BOL}The Antechamber{yell}
+M 0 48414     1 48437    {YELLOW}The King{yellow}
+E 1 48411     1     6    (HEAD) {YEL,BO}Th{CYAN}e C{YELL}ro{CYA}wn {YELL}of {CYAN}So{YELL}uls{yel}
+M 0 48415     1 48437    {BLACK,BOLD}The Leader{black}
+E 1 48412     1     2    (FINGER) {CYAN,BOLD}The Ring of Souls{cyan}
+D 0 48437     0     1    (N:CLOSED) {WHITE}Throne Room{white}
+M 0 48410    21 48438    {YELLOW}The HUNTER{yellow}
+M 0 48419    59 48438    {RED}The tortured{red}
+M 0 48419    59 48438    {RED}The tortured{red}
+M 0 48410    21 48438    {YELLOW}The HUNTER{yellow}
+M 0 48419    59 48438    {RED}The tortured{red}
+M 0 48419    59 48438    {RED}The tortured{red}
+M 0 48419    59 48439    {RED}The tortured{red}
+M 0 48410    21 48439    {YELLOW}The HUNTER{yellow}
+M 0 48410    21 48439    {YELLOW}The HUNTER{yellow}
+M 0 48419    59 48439    {RED}The tortured{red}
+M 0 48408    28 48439    {YELLOW}The Warrior{yellow}
+G 1 48406    32     0    a small bag
+M 0 48430     1 48439    {YELLOW}The Warrior{yellow}
+G 1 48406    32     0    a small bag
+P 1 48407     1 48406    {BLACK,BOLD}BADGE{black} {RED}of the{red} {BLACK,BOLD}U{black}{RED}nde{red}{BLACK,BOLD}ad{black} {YELLOW}ARMY{yellow}
+M 0 48419    59 48440    {RED}The tortured{red}
+M 0 48419    59 48440    {RED}The tortured{red}
+M 0 48408    28 48440    {YELLOW}The Warrior{yellow}
+G 1 48406    32     0    a small bag
+M 0 48408    28 48440    {YELLOW}The Warrior{yellow}
+G 1 48406    32     0    a small bag
+M 0 48408    28 48440    {YELLOW}The Warrior{yellow}
+G 1 48406    32     0    a small bag
+M 0 48419    59 48440    {RED}The tortured{red}
+O 0 48425    11 48440    {MAGENTA}A bottle of wine{mage}
+O 0 48425    11 48440    {MAGENTA}A bottle of wine{mage}
+O 0 48425    11 48440    {MAGENTA}A bottle of wine{mage}
+O 0 48425    11 48440    {MAGENTA}A bottle of wine{mage}
+O 0 48425    11 48440    {MAGENTA}A bottle of wine{mage}
+O 0 48425    11 48440    {MAGENTA}A bottle of wine{mage}
+O 0 48425    11 48440    {MAGENTA}A bottle of wine{mage}
+O 0 48425    11 48440    {MAGENTA}A bottle of wine{mage}
+O 0 48425    11 48440    {MAGENTA}A bottle of wine{mage}
+O 0 48425    11 48440    {MAGENTA}A bottle of wine{mage}
+O 0 48425    11 48440    {MAGENTA}A bottle of wine{mage}
+M 0 48408    28 48441    {YELLOW}The Warrior{yellow}
+G 1 48406    32     0    a small bag
+M 0 48408    28 48441    {YELLOW}The Warrior{yellow}
+G 1 48406    32     0    a small bag
+M 0 48419    59 48441    {RED}The tortured{red}
+M 0 48419    59 48441    {RED}The tortured{red}
+M 0 48408    28 48441    {YELLOW}The Warrior{yellow}
+G 1 48406    32     0    a small bag
+M 0 48419    59 48441    {RED}The tortured{red}
+M 0 48408    28 48441    {YELLOW}The Warrior{yellow}
+G 1 48406    32     0    a small bag
+M 0 48410    21 48441    {YELLOW}The HUNTER{yellow}
+M 0 48419    59 48441    {RED}The tortured{red}
+M 0 48410    21 48441    {YELLOW}The HUNTER{yellow}
+G 1 48406    32     0    a small bag
+M 0 48408    28 48442    {YELLOW}The Warrior{yellow}
+G 1 48406    32     0    a small bag
+M 0 48419    59 48442    {RED}The tortured{red}
+M 0 48417     1 48443    {RED}The Keeper{red}
+G 1 48414     1     0    {BLACK,BOLD}A Glance of{black} {RED}HATES{red}
+M 0 48410    21 48443    {YELLOW}The HUNTER{yellow}
+M 0 48419    59 48443    {RED}The tortured{red}
+O 0 48415     1 48446    {YELLOW}An small Treasure Chest{yellow}
+P 1 48416     1 48415    {MAGENTA,BOLD}The Scar of the Underworld{magenta}
+M 0 48418     1 48465    {CYAN}The Master Torturer{cyan}
+G 1 48417     1     0    {CYAN,BOLD}The Spiked Collar of the{cyan} {RED,BOLD}MASTER TORTURER{red}
+M 0 48426     1 48466    {MAGENTA}The Purple Rose Bush{magenta}
+O 0 48422     1 48466    {RED,BOLD}A red rose bush{red}
+M 0 48427     1 48467    {RED}The Red Rose Bush{red}
+O 0 48421     1 48467    {YELL,BO}A yellow rose bush{yell}
+M 0 48428     1 48468    {YELLOW}The Yellow Rose Bush{yellow}
+O 0 48423     1 48469    {MAGENTA,BOLD}A purple rose bush{magenta}
+D 0 48470     3     2    (W:LOCKED) {BLACK,BOLD}Entering the {RED,BOLD}Rose {GREEN,BOLD}Garden{green}
+M 0 48431     4 48471    {WHI,BO}A Dead Oak Tree{whi}
+M 0 48431     4 48471    {WHI,BO}A Dead Oak Tree{whi}
+D 0 48471     1     2    (E:LOCKED) {CYAN}The Moat's Tower{cyan}
+D 0 48471     4     1    (U:CLOSED) {CYAN}The Moat's Tower{cyan}
+M 0 48425     5 48472    . . . {GRE}Th{BLA,BO}e{bla} {GRE}Al{gre}{BLA,BO}ga{bla}{GREE}e M{gre}{BLA,BO}on{bla}{GRE}s{gre}{BLA,BO}ter{bla}
+M 0 48425     5 48472    . . . {GRE}Th{BLA,BO}e{bla} {GRE}Al{gre}{BLA,BO}ga{bla}{GREE}e M{gre}{BLA,BO}on{bla}{GRE}s{gre}{BLA,BO}ter{bla}
+M 0 48425     5 48473    . . . {GRE}Th{BLA,BO}e{bla} {GRE}Al{gre}{BLA,BO}ga{bla}{GREE}e M{gre}{BLA,BO}on{bla}{GRE}s{gre}{BLA,BO}ter{bla}
+M 0 48425     5 48473    . . . {GRE}Th{BLA,BO}e{bla} {GRE}Al{gre}{BLA,BO}ga{bla}{GREE}e M{gre}{BLA,BO}on{bla}{GRE}s{gre}{BLA,BO}ter{bla}
+M 0 48425     5 48474    . . . {GRE}Th{BLA,BO}e{bla} {GRE}Al{gre}{BLA,BO}ga{bla}{GREE}e M{gre}{BLA,BO}on{bla}{GRE}s{gre}{BLA,BO}ter{bla}
+M 0 48431     4 48475    {WHI,BO}A Dead Oak Tree{whi}
+M 0 48431     4 48475    {WHI,BO}A Dead Oak Tree{whi}
+M 0 48421    18 48478    {YELLOW}The Medium Oak Tree{yellow}
+M 0 48421    18 48478    {YELLOW}The Medium Oak Tree{yellow}
+M 0 48421    18 48478    {YELLOW}The Medium Oak Tree{yellow}
+M 0 48421    18 48478    {YELLOW}The Medium Oak Tree{yellow}
+M 0 48421    18 48478    {YELLOW}The Medium Oak Tree{yellow}
+M 0 48421    18 48478    {YELLOW}The Medium Oak Tree{yellow}
+M 0 48420    14 48478    {GREEN,BOLD}The Oak Tree{green}
+M 0 48421    18 48478    {YELLOW}The Medium Oak Tree{yellow}
+M 0 48420    14 48478    {GREEN,BOLD}The Oak Tree{green}
+M 0 48420    14 48478    {GREEN,BOLD}The Oak Tree{green}
+M 0 48421    18 48478    {YELLOW}The Medium Oak Tree{yellow}
+M 0 48420    14 48478    {GREEN,BOLD}The Oak Tree{green}
+M 0 48421    18 48478    {YELLOW}The Medium Oak Tree{yellow}
+M 0 48421    18 48478    {YELLOW}The Medium Oak Tree{yellow}
+O 0 48419     1 48479    {BLACK,BOLD}A Stone{bla} {WHITE}Fountain{white}
+M 0 48421    18 48480    {YELLOW}The Medium Oak Tree{yellow}
+M 0 48420    14 48480    {GREEN,BOLD}The Oak Tree{green}
+M 0 48420    14 48480    {GREEN,BOLD}The Oak Tree{green}
+M 0 48421    18 48480    {YELLOW}The Medium Oak Tree{yellow}
+M 0 48420    14 48480    {GREEN,BOLD}The Oak Tree{green}
+M 0 48420    14 48480    {GREEN,BOLD}The Oak Tree{green}
+M 0 48420    14 48480    {GREEN,BOLD}The Oak Tree{green}
+M 0 48421    18 48480    {YELLOW}The Medium Oak Tree{yellow}
+M 0 48420    14 48480    {GREEN,BOLD}The Oak Tree{green}
+M 0 48421    18 48480    {YELLOW}The Medium Oak Tree{yellow}
+M 0 48421    18 48480    {YELLOW}The Medium Oak Tree{yellow}
+M 0 48421    18 48480    {YELLOW}The Medium Oak Tree{yellow}
+M 0 48421    18 48480    {YELLOW}The Medium Oak Tree{yellow}
+M 0 48420    14 48480    {GREEN,BOLD}The Oak Tree{green}
+M 0 48420    14 48480    {GREEN,BOLD}The Oak Tree{green}
+M 0 48421    18 48480    {YELLOW}The Medium Oak Tree{yellow}
+M 0 48420    14 48480    {GREEN,BOLD}The Oak Tree{green}
+M 0 48420    14 48480    {GREEN,BOLD}The Oak Tree{green}
+D 0 48480     0     1    (N:CLOSED) {YELLOW}Standing by a great oak tree{yellow}
+M 0 48423     2 48481    A Fluorescent Mushroom
+M 0 48423     2 48481    A Fluorescent Mushroom
+M 0 48424     1 48481    {RED}A Red Fluorescent Mushroom{red}
+D 0 48481     2     1    (S:CLOSED) {YELLOW}Inside the great oak tree{yellow}
+M 0 48416     1 48482    {CYAN}A Blue Fluorescent Mushroom{cyan}
+E 1 48413     1     0    (LIGHT) {CYA,BO}A {BLU,BO}B{CYA,BO}l{BLU,BO}u{CYA,BO}e {GREE,BO}Mushroom{gree}
+D 0 48483     1     1    (E:CLOSED) {BLUE}A Dead End{blue}
+O 0 48431     1 48484    A Sofa
+P 1 48430     5 48431    {YELLOW,BOLD}A pile of gold coins{yellow}
+P 1 48430     5 48431    {YELLOW,BOLD}A pile of gold coins{yellow}
+P 1 48430     5 48431    {YELLOW,BOLD}A pile of gold coins{yellow}
+P 1 48430     5 48431    {YELLOW,BOLD}A pile of gold coins{yellow}
+P 1 48430     5 48431    {YELLOW,BOLD}A pile of gold coins{yellow}
+P 1 48402     2 48431    {RED,BO}A beautiful rose{red}
+O 0 48402     2 48484    {RED,BO}A beautiful rose{red}
+D 0 48484     5     1    (D:CLOSED) {CYAN}Atop of the Tower{cyan}
+M 0 48419    59 48485    {RED}The tortured{red}
+M 0 48419    59 48485    {RED}The tortured{red}
+M 0 48419    59 48485    {RED}The tortured{red}
+M 0 48419    59 48485    {RED}The tortured{red}
+M 0 48408    28 48485    {YELLOW}The Warrior{yellow}
+G 1 48406    32     0    a small bag
+M 0 48419    59 48485    {RED}The tortured{red}
+M 0 48419    59 48485    {RED}The tortured{red}
+M 0 48419    59 48485    {RED}The tortured{red}
+M 0 48410    21 48485    {YELLOW}The HUNTER{yellow}
+M 0 48419    59 48485    {RED}The tortured{red}
+M 0 48410    21 48487    {YELLOW}The HUNTER{yellow}
+M 0 48408    28 48487    {YELLOW}The Warrior{yellow}
+G 1 48406    32     0    a small bag
+M 0 48410    21 48487    {YELLOW}The HUNTER{yellow}
+M 0 48419    59 48487    {RED}The tortured{red}
+M 0 48419    59 48487    {RED}The tortured{red}
+M 0 48419    59 48487    {RED}The tortured{red}
+O 0 48424     5 48487    {BLACK,BOLD}A large wood burning stove{black}
+O 0 48424     5 48487    {BLACK,BOLD}A large wood burning stove{black}
+O 0 48424     5 48487    {BLACK,BOLD}A large wood burning stove{black}
+O 0 48424     5 48487    {BLACK,BOLD}A large wood burning stove{black}
+O 0 48424     5 48487    {BLACK,BOLD}A large wood burning stove{black}
+O 0 17918     2 48490    Lazlo Board
+O 0 48434     1 48494    A large white dry erase board
+$~

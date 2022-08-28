@@ -1,0 +1,658 @@
+#1100
+The Joker~
+{GREEN,BOLD}The Joker{green,bold}~
+{WHITE,BOLD}A pasty faced man looks like he's ready to kill you.{white,bold}
+~
+{WHITE,BOLD}He's a wierd looking fellow with {GREEN,BOLD}bright green hair{green,bold}{WHITE,BOLD}. His skin is a
+chalky white and is quite smooth. His {MAGENTA,BOLD}large purple suit{magenta,bold}{WHITE,BOLD} and huge
+shoes just add to the persona. He does, however, have an evil
+{RED,BOLD}glow{red,bold}{WHITE,BOLD} in his eyes.{white,bold}
+~
+1233158247 1396474504 1000 C 94
+60 -70 -6 0d0+64000 30d30+150
+10000 80000
+8 8 1
+S 33554432
+R 8388608
+D 20
+A 12
+#1101
+citizen~
+{YELLOW}A citizen of {WHITE,BOLD}Gotham City{white,bold}~
+A citizen of this fair town wanders the streets.
+~
+{YELLOW}An average looking citizen rushes from here to there in a big
+city daze. He doesn't even acknowledge you staring at him.{yellow}
+
+~
+469762256 1074004488 100 S
+32 -40 0 1000d1+5 5d10+25
+15000 6000
+8 8 1
+D 20
+A 12
+#1102
+bat batman~
+{WHITE}The Batman{white}~
+{WHITE}A man all dressed in black is going to defend Gotham City{white}
+~
+{RED,BOLD}Before you stands the man they call {red,bold}{WHITE}Batman{white}, {RED,BOLD}looking at you through
+the cowl. These are not the eyes of a criminal but of a hero. Bruce
+Wayne, millionaire, secretly battles crime as {red,bold}{WHITE}the Batman{white}. {RED,BOLD}This
+experience will make him a most formidable opponent.{red,bold}
+
+~
+704688673 1360790152 0 S
+50 -100 -5 1d1+28000 15d15+200
+60000 200000
+8 8 1
+S 71303359
+D 20
+A 12
+#1103
+PENGUIN~
+{BOLD}{W}T{BL}h{W}e {BL}P{W}e{BL}n{W}g{BL}u{W}i{BL}n{bold}~
+{WHITE,BOLD}Oswald Cobblepot,{white,bold}{WHITE} a very ugly man,{white}{WHITE,BOLD} is determined to take over Gotham City{white,bold}
+~
+{WHITE}A fat, ugly, little man waddles towards you with a sneer on his
+face and and evil in his eyes. Judging by the expression on his face
+and the terror in your gut, you know nothing will stop him from becoming
+head of {WHITE,BOLD}Gotham City's{white,bold}{WHITE} criminal element.{white}
+
+~
+717259267 1394344584 0 S
+52 -40 -4 1d1+24999 15d15+100
+60000 200000
+8 8 0
+S 67108864
+R 8388608
+D 20
+A 12
+#1104
+mayor~
+{BLUE}{BO}The Mayor{bold}~
+{BLUE,BOLD}The Mayor of Gotham City is worried about the criminals running loose{blue,bold}
+~
+{WHITE,BOLD}The Mayor of Gotham {BLUE,BOLD}wanders around the town looking for the next 
+building or park he can name after himself.  Oblivious to the poor
+and dazed citizens walking past him, {WHITE,BOLD}da Mayor {BLUE,BOLD}looks at his Rolex to
+see if he is late for dinner. {blue,bold}
+
+~
+268435718 532906 1000 S
+35 -40 -1 0d0+7500 20d10+10
+100000 3000000
+8 8 1
+S 65544
+D 20
+A 12
+#1105
+lawyer attorney attourney district lady~
+{YELLOW}The District Lawyer{yellow}~
+The District Lawyer of {BLACK}{BO}Gotham City{bo} pondering her next case.
+~
+{YELLOW}You see a tall, slim, looking woman with skin-tight clothes and gorgeous
+shoulder-length brown hair. She is wearing a skirt that comes up well over her
+knees and her silk blouse is only buttoned up half-way. If justice is truly
+blind... it's missing a lot.{yellow}
+
+~
+402661445 1073750696 0 S
+35 -40 -2 1d1+8999 20d8+10
+100000 2000000
+8 8 2
+S 14
+D 20
+A 12
+#1106
+police officer~
+{BLUE}{BOLD}A Police{BOLD}{WHITE} Officer{bo}~
+{BLUE}{BOLD}A Police{BOLD}{WHITE} Officer{bo} sits here on his duff doing nothing about the criminals.
+~
+{CYAN}A rather large bellied man, this {BLUE,BOLD}Police {WHITE,BOLD}Officer{white,bold}{CYAN} would have a tough time
+tracking down criminals without having a heart attack. Doughnut crumbs
+and coffee stains are apparently part of the uniform here in Gotham.
+He then slowly turns to look at you, and yells "Get out of here!"{cyan}
+
+~
+276955185 1074004872 0 S
+35 -55 -2 1d1+999 10d10+10
+5000 40000
+8 8 0
+D 20
+A 12
+#1107
+cat catwoman~
+{WHITE,BOLD}A huge black cat{white,bold}~
+An enormous {BLACK}{BO}black cat{bo} hisses as you walk by.
+~
+{WHITE}The cat looks at you through it's {YELLOW,BOLD,BLINK}bright yellow eyes{yellow,bold,blink}{WHITE}. A strange gleam
+seems to appear as the cat extends one of its massive claws. Scars
+all over it's body suggest that this cat has been in some battles and
+will know how to defend itself.
+
+~
+411185184 1107559296 -1000 S
+45 -70 -5 6d6+4000 20d4+30
+700000 13000000
+9 9 2
+D 20
+A 12
+#1108
+selina kyle cat catwoman~
+{BLACK}{BOLD}The Catwoman{bo}~
+Selina Kyle, aka {BOLD}{BLACK}The Catwoman{bo}, is thinking of stealing more money.
+~
+{WHITE}You see a tall, slim cat-like woman dressed in a black
+skin-tight body suit to fit her every curve. The suit
+covers her whole body and has cat ears on her head.
+You notice the claws on her fingers that glitter in
+the dim lighting. She looks like she could mean buisness.
+She looks at you and purrs.{white}
+
+~
+683717155 1394344584 0 S
+50 -55 -3 1d1+23999 18d18+60
+60000 200000
+8 8 0
+S 71434240
+D 20
+A 12
+#1109
+Stray Cat~
+{WHITE,BOLD}A stray cat{white,bold}~
+{WHITE}You see a {WHITE,BOLD}s{white,bold}{WHITE}t{white}{WHITE,BOLD}r{white,bold}{WHITE}a{white}{WHITE,BOLD}y{white,bold} {WHITE,BOLD}c{white,bold}{WHITE}a{white}{WHITE,BOLD}t{white,bold} {WHITE}wandering about.{white}
+~
+{WHITE}This cat appears malnourished and in dire need of attention. It walks
+the streets of {WHITE,BOLD}Gotham City{white,bold}{WHITE} like a tiny prowler. Looking up at you 
+through it's {YELLOW}golden yellow eyes{yellow}{WHITE}, it makes a faint meow, as if it was
+begging for food. Realizing it has failed, it claws at your shin and
+continues on it's way.{white}
+
+~
+8527968 296 700 S
+21 -55 0 1d1+200 1d1+59
+50000 50000
+8 8 0
+D 20
+A 12
+#1110
+bat bats swarm~
+{WHITE}A swarm of bats{white}~
+{WHITE}A swarm of bats looks down at you and attacks.{white}
+~
+{WHITE}A group of bats hang on the wall, {white}{RED}blood-lust{red}{WHITE} in their blind eyes. Suddenly,
+in a synchronous dive, the swarm of bats swoop down to attack.{white}
+
+~
+415760482 1074037544 200 S
+48 -100 -9 1d1+1400 15d15+105
+0 2000000
+8 8 1
+S 16645
+D 20
+A 12
+#1111
+A black crow~
+crow~
+You see a rather large black crow flying about.
+~
+~
+268435492 128 -400 S
+50 -40 0 1d4+500 10d20+0
+1000 40000
+8 8 1
+D 20
+A 12
+#1112
+afro man~
+{BO}{BL}A{W}f{BO}{BL}r{W}o{bo}~
+{YELLOW}A huge man laughs as you try to kill him.{yellow}
+~
+{YELLOW}A huge black man towers over you and lets out a deep rumbling laugh.
+At about seven feet and three hundred pounds, this man is someone to be
+reckoned with. A large "do" sits on top of his head, making him seem
+all that much more looming. One look at his thigh tells the tale of his
+strength - it's about as wide as you are. He is a massive individual indeed.{yellow}
+~
+1258291271 2100044520 0 C 4
+57 -980 -12 0d0+75800 35d35+130
+100000 2000000
+8 8 1
+S 80616706
+R 8388608
+D 20
+A 12
+#1113
+Joker's hand~
+{WHITE,BOLD}One of {MAGENTA,BOLD}Joker's {GREEN,BOLD}hired {MAGENTA,BOLD}hands{magenta,bold}~
+{WHITE,BOLD}One of {MAGENTA,BOLD}Joker's {GREEN,BOLD}hired {MAGENTA,BOLD}hands {WHITE,BOLD}is up and about, making sure you don't pass.
+~
+{WHITE,BOLD}This sneaky little guy looks like he's really got it in for
+you. If he kills you, maybe Joker will promote him. {white,bold}
+
+~
+478150752 1074004488 100 S
+32 -40 -1 6d6+2000 5d9+10
+15000 6000
+8 8 1
+R 2097152
+D 20
+A 12
+#1114
+Spider~
+{RED}An ugly spider{red}~
+{RED}An ugly spider crawls down from the ceiling.{red}
+~
+{WHITE}From it's dank home in the ceiling, a long, hairy legged creature dangles
+here. It looks at you through one of it's million eyes, and continues
+down its silken line towards the floor.{white}
+
+~
+545259618 1396179328 0 S
+22 -40 5 3d12+500 3d6+30
+0 1000
+8 8 1
+S 15
+D 20
+A 12
+#1115
+Knox:~
+{BO}{BLU}K{W}n{BLU}o{W}x{bo}~
+{BLUE,BOLD}K{WHITE,BOLD}N{BLUE,BOLD}O{WHITE,BOLD}X,{white,bold} {CYAN}the chief of police, sits here avoiding any criminals.{cyan}
+~
+{CYAN}Tired from the constant battle with crime, {BLUE,BOLD}Police {WHITE,BOLD}Chief {BLUE,BOLD}Knox{blue,bold}{CYAN}
+lounges here avoiding any sort of criminal activity. Medals adorn
+his chest, and his uniform is well kept. His moustache extends from
+one cheek to the other with a slight curl in the end. Looking over
+in your direction, he arises and begins to walk towards you.{cyan}
+
+~
+268435718 532650 1000 S
+35 -40 -1 1d1+9499 10d10+60
+100000 3000000
+8 8 1
+S 15
+D 20
+A 12
+#1116
+vicki vale~
+{WHITE}Vicki Vale{white}~
+{BO,WHITE}A reporter yearning to learn your secrets is winking your way.
+~
+{BO,WHITE}This woman is{bo,white}{BO,RED} HOT{bo,red}{WHITE}!{white}  {BO,WHITE}One look at her and you
+want to tell her everything, even about that
+spelling test you cheated on in the first grade!{bo,white}
+
+~
+780148960 1342440104 100 S
+35 -90 -2 0d0+10000 10d20+25
+1000000 14000000
+8 8 2
+S 384
+D 20
+A 12
+#1117
+BOB~
+{WHITE,BOLD}Bob{white,bold}~
+{WHITE}A shady character leans up against one of the columns.{white}
+~
+{WHITE}An average sized fellow, {WHITE,BOLD}Bob{white,bold}{WHITE} is wearing thick glasses, and a cheap leather
+jacket. His hair is greased to the top of his head, and he seems to
+emit an odor a skunk would envy. He's been climbing the criminal ladder
+for years and now he's finally the assistant of the {RED,BOLD}J{YELLOW,BOLD}o{BLUE,BOLD}k{GREEN,BOLD}e{CYAN,BOLD}r{cyan,bold}.
+
+~
+411050087 1073750696 0 S
+35 -40 -2 0d0+7500 15d15+50
+100000 2000000
+8 8 1
+S 131082
+D 20
+A 12
+#1118
+bat mobile batmobile~
+{RED,BOLD}The Batmobile{red,bold}~
+{WHITE,BOLD}A sleek, black vehicle looks like it's coming your way!{white,bold}
+~
+{RED,BOLD}Out of the darkness emerges a jet black vehicle. Long, sleek and powered
+by a jet engine, this car chases down offenders and deals with them. The
+driver is seemingly invisible through the tinted bullet-proof windshield.
+The car stops not more then 2 feet from you; it must think you're the
+next criminal.{red,bold}
+
+~
+1082532960 1427898536 0 S
+30 -40 -1 1d1+6599 8d12+40
+50000 1000
+8 8 0
+S 4194816
+D 20
+A 12
+#1119
+after birth blob~
+{BOLD}{G}A{W}f{bo}{W}t{bo}e{BO}{G}r {BO}{G}B{bo}i{BO}{W}r{bo}t{BO}h{bo}~
+The blob known as, {BOLD}{G}A{W}f{bo}{W}t{bo}e{BO}{G}r {BO}{G}B{bo}i{BO}{W}r{bo}t{BO}h{bo}, slithers toward you.
+~
+{GREEN,BOLD}Eeeewwww... A giant green blob slithers toward you. If you look
+carefully, you can see parts of his last victim in there.
+Yuck!
+
+{green,bold}
+~
+276824358 1573034 1000 S
+35 -40 0 1d1+11999 25d10+10
+100000 3000000
+8 8 1
+S 15
+D 20
+A 12
+#1120
+kid child boy girl~
+{YELLOW}A child of {WHITE,BOLD}Gotham City{white,bold}~
+Some young kid wanders the streets of Gotham City
+~
+{YELLOW}A scruffy little kid moves in and out of the shadows, trying not to
+get stepped on or arrested. Picking up debris as he goes, he's like a
+miniature janitor. His clothes are all torn, and he's only wearing one
+shoe yet he appears to be quite happy, none-the-less.
+
+~
+469762244 1074004488 100 S
+32 -40 -1 2d3+750 5d9+10
+50000 6000
+8 8 1
+D 20
+A 12
+#1121
+Fruit Fly~
+{MAGENTA}A fruit fly{magenta}~
+{MAGENTA}A large Fruit Fly is flying about.{magenta}
+~
+{MAGENTA,BOLD}A small bug flies around and gets in your face. You better squash
+it before it causes any trouble.{magenta,bold}
+
+~
+411050080 1074004488 100 S
+32 -40 1 4d25+1 5d9+10
+15000 6000
+8 8 1
+S 15
+D 20
+A 12
+#1122
+penguins penguin~
+{WHITE}A small{WHITE,BOLD} Penguin{white,bold}~
+{WHITE}A small{WHITE,BOLD} Penguin{white,bold}{WHITE} waddles around the room.{white}
+~
+{WHITE}Wow! How the hell did they get a {WHITE,BOLD}penguin{white,bold} {WHITE}from the Arctic? Before you can
+answer that question... the little guy attacks you!{white}
+
+~
+8388706 1394606344 0 S
+22 -40 5 1d1+1199 13d13+15
+300000 1000
+8 8 1
+S 15
+D 20
+A 12
+#1123
+City Clerk~
+{CYAN,BOLD}The City Clerk{cyan,bold}~
+{CYAN}A young lady appears to be the {CYAN,BOLD}City Clerk.{cyan,bold}
+~
+{CYAN}The lady standing before you has served for over two decades as 
+{WHITE,BOLD}Gotham City's{white,bold}{CYAN,BOLD} City Clerk.{cyan,bold}{CYAN} This poor woman dashes after the mayor,
+continually updating him on his schedules and typing notes for his 
+meetings.  'One of these days,' she thinks, 'that cheap bastard
+is going to give me a raise.'  Little does she know...{cyan}
+
+~
+402661445 1073750696 0 S
+35 -40 -2 1d1+8887 10d10+42
+100000 2000000
+8 8 2
+S 15
+D 20
+A 12
+#1124
+Joker's spy~
+{BL}{BO}One of {R}J{Y}o{BLU}k{G}e{CY}r'{R}s {BL}Spies{bo}~
+{B}{BO}A man dressed in black slithers around Gotham City{bo}
+~
+{WHITE,BOLD}You see a man dressed in a purpleish black overcoat.{white,bold}
+{MAGENTA,BOLD}He appears to be looking straight at you with an{magenta,bold}
+{GREEN,BOLD}evil look in his eye.  He smiles and says.. 'You{green,bold}
+{MAGENTA}Won't Get Past Me..... Hee Hee Hee.'{magenta}
+
+~
+335676768 1195115450 0 S
+40 -40 -3 0d0+10000 12d13+50
+75000 1000
+8 8 1
+S 64
+D 20
+A 12
+#1125
+killer croc~
+{GREEN}Killer{green} {BO,GRE}C{bo,gre}{GRE}r{gre}{WHITE}o{whi}{BO,GRE}c{bo,gre}~
+{GREEN,BOLD}A huge crocodile in the form of a man rushes toward you.{green,bold}
+~
+{GREEN,BOLD}The features on this giant of a man make him appear to be a mutated
+crocodile. A long snout, sharp teeth, and very pale, rough skin have 
+completely screwed up his dating life... Uh-oh!  He's looking at you
+and licking his chops.  Must be lunch time!
+{green,bold}
+~
+713033830 1881408168 -500 C 47
+50 -80 -4 1d1+24999 15d15+75
+500000 1000
+8 8 1
+S 67108927
+D 20
+A 12
+#1126
+thing toy~
+{BO}{R}J{Y}o{BLU}k{G}e{CY}r'{R}s {Y}T{BLU}o{G}y{bo}~
+{WHITE}A funny metallic thing becomes animated, then attacks!{white}
+~
+{WHITE,BOLD}Aw... how cute! is the first impression you get when you see
+this thing, but now it looks like it's gonna rip your throat out.
+You better watch it! It looks mean!{white,bold}
+
+~
+545259618 1074004520 0 S
+40 -40 -2 10d10+40 8d8+8
+5000 1000
+8 8 0
+S 1
+D 20
+A 12
+#1127
+green blob~
+A {BO}Gooey {bo}Green {BO}Blob{bo}~
+{GREEN,BOLD}A slimy, green blob shuffles along the ground.{green,bold}
+~
+{GREEN,BOLD}Eeeewwww... A giant green blob slithers toward you. If you look
+carefully, you can see parts of his last victim in there.  Is that
+a U.K. patch you see in there?
+Yuck!
+{green,bold}
+~
+66 1342440360 0 S
+51 -40 -1 0d0+750 5d5+150
+250000 1000
+8 8 0
+S 15
+D 20
+A 12
+#1128
+henchman afro~
+{WHITE,BOLD}Afro's{RED,BOLD} Henchman{red,bold}~
+{RED,BOLD}It's a shady character who looks like he's from the 70s.{red,bold}
+~
+{WHITE,BOLD}Wow! This fellow looks like he's stuck in a time warp from the
+days when Shaft ruled the movie screens, but he looks like he can
+still put up a rather tough fight, be careful!
+{white,bold}
+~
+329252962 1074004744 0 S
+51 -40 -1 50d50+50 12d11+33
+50000 1000
+8 8 0
+S 67109376
+R 284
+D 20
+A 12
+#1129
+Body Builder~
+body builder~
+short man
+~
+A stranger walking around town. He looks like a super
+built stuby midget!!!
+~
+17301604 536873512 0 S
+59 10 -7 0d0+6000 15d10+500
+2000 200000000
+8 8 1
+D 20
+A 12
+#1130
+leopard shark~
+{YE}Leopard{ye} {BO,BL}Shark{bo,bl}~
+{BO,BL}A pair of pale yellow eyes are here glaring at you!{bo,bl}
+~
+It looks like nobody!
+~
+1207960166 3489923872 0 C 3
+50 -63 -7 0d0+15000 10d20+75
+5000000 1000
+8 8 0
+S 71303200
+D 20
+A 12
+#1131
+Servant~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+50 10 5 1d1+10 0d0+200
+1000000 70000
+8 8 0
+D 20
+A 12
+#1132
+alfred butler~
+{YELLOW,BOLD}Bruce Wayne's{yellow,bold} {YELLOW}butler,{yellow}{YELLOW,BOLD} Alfred{yellow,bold}~
+{YELLOW,BOLD}Aflred, Bruce Wayne's{yellow,bold} {YELLOW}butler, stands here cleaning.{yellow}
+~
+{YELLOW,BOLD}A tall english gentleman, Alfred has worked for "Master Wayne" for
+as long as anyone can remember.  Alfred seems to be a polite man
+as well as a person obsessed with neatness. He walks in with a broom
+in one hand and a scowl on his face.  You must be getting the carpet
+dirty.{yellow,bold}
+
+~
+545267748 1426850464 0 S
+30 -100 -10 20000d1+4 30d32+150
+1000000 1000
+8 8 0
+S 695
+D 20
+A 12
+#1133
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#1134
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#1135
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#1136
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#1137
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#1138
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#1139
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+$~

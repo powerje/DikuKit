@@ -1,0 +1,1177 @@
+#3700
+The entrance to the catacombs~
+    The air smells rotten and heavy. The breath of death
+surrounds you. Silence all over the place. You shiver!
+The little room you are standing in is dirty and looks,
+as if no mortal has been here for a very long time. You
+can go north into the catacombs (if you really want it),
+or up to some fresher air.
+~
+37 9 0
+D0
+You see a big dark room.
+~
+~
+0 -1 3701
+D4
+You see a spiral staircase leading up.
+~
+~
+0 -1 3060
+Z3
+C-1
+S
+#3701
+The southern part of the great gallery~
+	The air here in the great gallery is a little
+fresher. But you still smell the breath of death.
+Along the walls, there are hundrets or even thousands
+of skulls. Maybe the skulls of adventurers like you.
+You can go any direction.
+~
+37 9 0
+D0
+You see the northern part of the great gallery.
+~
+~
+0 -1 3704
+D1
+You see the south eastern part of the great gallery.
+~
+~
+0 -1 3706
+D2
+You see the entrance to the catacombs.
+~
+~
+0 -1 3700
+D3
+You see the south western part of the great gallery.
+~
+~
+0 -1 3702
+Z3
+C-1
+S
+#3702
+The south western part of the great gallery~
+	This is a boring ugly corner of the gallery.
+If you concentrate, you can hear some strange noises.
+Spiderwebs cover the skulls on the southern wall.
+The gallery continues to the east and north.
+~
+37 9 0
+D0
+You see the north western part of the great gallery.
+~
+~
+0 -1 3703
+D1
+You see the southern part of the great gallery.
+~
+~
+0 -1 3701
+Z3
+C-1
+S
+#3703
+The north western part of the great gallery~
+	There are some strange looking signs on the northern
+wall. Some fresh air seems to touch your face from the
+west. The gallery continues to the east and south. There
+is a little wooden door to the west.
+~
+37 9 0
+D1
+You see the northern part of the great gallery.
+~
+~
+0 -1 3704
+D2
+You see the south western part of the great gallery.
+~
+~
+0 -1 3702
+D3
+You see a little wooden door.
+~
+door wooden~
+1 3701 3707
+E
+sign signs wall~
+Even if you get very close, you can't read this old runes.
+But they look like a maze.
+~
+E
+door wooden~
+The wooden door is very small and looks old.
+~
+Z3
+C-1
+S
+#3704
+The northern part of the great gallery.~
+	There is nothing special in this room. Aside from
+the skulls. Hundrets, or even thousands of them are piled
+up at the northern wall. The gallery continues to the 
+east, south and west.
+~
+37 9 0
+D1
+You see the north eastern part of the great gallery.
+~
+~
+0 -1 3705
+D2
+You see the southern part of the great gallery.
+~
+~
+0 -1 3701
+D3
+You see the north western part of the great gallery.
+~
+~
+0 -1 3703
+Z3
+C-1
+S
+#3705
+The north eastern part of the great gallery.~
+	This is the eastern end of the gallery - or not?
+To the north there is a small passage into the darknes.
+The gallery continues to the south and west.
+~
+37 9 0
+D0
+You see a little passage.
+~
+~
+0 -1 3731
+D2
+You see the south eastern part of the great gallery.
+~
+~
+0 -1 3706
+D3
+You see the northern part of the great gallery.
+~
+~
+0 -1 3704
+Z3
+C-1
+S
+#3706
+The south eastern part of the great gallery.~
+	Skulls, skulls everywhere! The sight is amazing
+and disgusting at the same time. Sometimes you can
+see big fat rats between the skulls. There are some
+unknown signs on the southern wall. There is a small
+entry to the east. The gallery continues to the north
+and west.
+~
+37 9 0
+D0
+You see the north eastern part of the great gallery.
+~
+~
+0 -1 3705
+D1
+You see a dark passage.
+~
+~
+0 -1 3714
+D3
+You see the southern part of the great gallery.
+~
+~
+0 -1 3701
+Z3
+C-1
+S
+#3707
+The hall to the cross~
+	This hall is much bigger than you expected.
+The walls are more than 20 feet high, and the distance
+of them is more than twice that value. As you look down
+the hall, you can see a dark figure to the west. To the
+east you can see a little wooden door.
+~
+37 13 0
+D1
+You see a little wooden door.
+~
+door wooden~
+1 3701 3703
+D3
+You see the endless hallway.
+~
+~
+0 -1 3708
+E
+figure dark~
+Hey! There is absolutly nothing. You must have made a mistake.
+~
+E
+door wooden~
+The wooden door is very small an looks old.
+~
+Z3
+C-1
+S
+#3708
+The endless hallway to the cross~
+	You are really impressed by the length of the
+hallway. It seems to be nearly endless. You are
+walking on shimmering red and white marble. The
+northern wall is made of the same material. The
+southern wall seems to be made of a slightly different
+material. It's color is a little bit darker.
+The hallway still continues to the east and west.
+~
+37 9 0
+D1
+You see the endless hallway.
+~
+~
+0 -1 3710
+D3
+You see the endless hallway.
+~
+~
+0 -1 3709
+Z3
+C-1
+S
+#3709
+The endless hallway to the cross~
+	You are really impressed by the length of the
+hallway. It seems to be nearly endless. You are
+walking on shimmering red and white marble. The
+northern wall is made of the same material. The
+southern wall seems to be made of a slightly different
+material. It's color is a little bit darker.
+The hallway still continues to the east and west.
+~
+37 9 0
+D1
+You see the endless hallway.
+~
+~
+0 -1 3708
+D3
+You see the endless hallway.
+~
+~
+0 -1 3710
+Z3
+C-1
+S
+#3710
+The endless hallway to the cross~
+	You are really impressed by the length of the
+hallway. It seems to be nearly endless. You are
+walking on shimmering red and white marble. The
+northern wall is made of the same material. The
+southern wall seems to be made of a slightly different
+material. It's color is a little bit brighter.
+The hallway still continues to the east and west.
+~
+37 9 0
+D0
+You see a wall. Very interesting.
+~
+hidden~
+2 -1 3711
+D1
+You see the endless hallway.
+~
+~
+0 -1 3709
+D3
+You see the endless hallway.
+~
+~
+0 -1 3708
+Z3
+C-1
+S
+#3711
+The hidden crawlway~
+	You are in a VERY narrow crawlway leading
+to the west. The air is smelling, like an old
+tomb. You do not feel very comfortable in this
+little dark hole. There is a stone door to the
+south.
+~
+37 9 0
+D2
+You see a stone door.
+~
+stone door~
+2 -1 3710
+D3
+You see the crawlway continue.
+~
+~
+0 -1 3712
+E
+stone door~
+The stone door is very small and difficult to open.
+~
+Z3
+C-1
+S
+#3712
+The crawlway~
+	You can´t believe this! Dust and ... oh no!!!
+... everywhere!! Iiihhk! What a mess. You hope to 
+get out of here soon. This little crawlway is no 
+place to stay for longer than 2 seconds. The 
+crawlway continues to the east and south.
+~
+37 9 0
+D1
+You wish you could look in that direction.
+~
+~
+0 -1 3711
+D2
+You wish you could look in that direction.
+~
+~
+0 -1 3713
+Z3
+C-1
+S
+#3713
+The strange room~
+	This room is really strange. One second the walls are
+near - you think you can touch them. The other second
+they seem to be far away - you hardly can see them. There
+is a little exit to the north, but it doesn´t look very
+inviting. To the west is an arcade made of yellow marble.
+~
+37 9 0
+D0
+No!!! You don´t want to see what´s in there.
+~
+~
+0 -1 3712
+D3
+You see a fantastic looking arcade of yellow marble.
+~
+~
+0 -1 3739
+Z3
+C-1
+S
+#3714
+The passage to the maze~
+        As usual, the walls are hidden behind hundreds of
+skulls. The passage leads from south to east.
+~
+37 9 0
+D1
+You see just another tunnel of the maze.
+~
+~
+0 -1 3715
+D2
+You see the north eastern corner of the great gallery.
+~
+~
+0 -1 3705
+Z3
+C-1
+S
+#3715
+An east west leading tunnel in the maze of death.~
+	Cobwebs, rats and bones surround you. You think at 
+those thousands of human beeings that have been burried
+here. The tunnel continues east and west.
+~
+37 9 0
+D1
+You see just another tunnel of the maze.
+~
+~
+0 -1 3716
+D3
+You see the passage to the maze.
+~
+~
+0 -1 3714
+Z3
+C-1
+S
+#3716
+The t-cross in the maze of death.~
+	You stand in the middle of a t-cross. The maze
+continues north, south and west. Hmmm... which one
+is the right way?
+~
+37 9 0
+D0
+You see just another tunnel of the maze.
+~
+~
+0 -1 3717
+D2
+You see just another tunnel of the maze.
+~
+~
+0 -1 3718
+D3
+You see just another tunnel of the maze.
+~
+~
+0 -1 3715
+Z3
+C-1
+S
+#3717
+The interesting corner in the maze of death~
+	The walls are full of skulls and bones. You
+have seen so much of them until now. They are not
+very interesting anymore. But wait! On the northern
+wall behind the skulls you can see some writing.
+And maybe the skulls and bones aren't that boring
+here? The tunnel continues east and south.
+~
+37 9 0
+D1
+You see just another tunnel of the maze.
+~
+~
+0 -1 3719
+D2
+You see just another tunnel of the maze.
+~
+~
+0 -1 3716
+E
+bones bone~
+On the bone you can read these engraved words:
+	...the way out is hard to find. If you loose your way, you
+come back to the cross again. But it's not sure that it is
+the same cross. There are three of them. No one who entered
+this maze did ever came back! ...
+
+This is the end of the message!
+~
+E
+skulls skull~
+On the skull you can read these engraved words:
+	From the entrance go west to the endless hall. The exit is
+to the north. When you enter the cross be aware! There are
+three of them. They look as one, but ...
+
+This is the end of the message!
+~
+E
+writing wall~
+...there's more than just one cross where you can go...
+           ...look the same as ...     ...but be aware ...
+
+... a fighter who has lost his way down there!
+~
+Z3
+C-1
+S
+#3718
+The t-cross in the maze of death~
+	Just a boring little t-cross leading to north,
+east and south. The same pile of skulls and bones 
+everywhere.
+~
+37 9 0
+D0
+You see just another tunnel of the maze.
+~
+~
+0 -1 3716
+D1
+You see just another tunnel of the maze.
+~
+~
+0 -1 3729
+D2
+You see just another tunnel of the maze.
+~
+~
+0 -1 3728
+Z3
+C-1
+S
+#3719
+The slippery tunnel~
+	The ground is wet in this east west leading
+tunnel. It seems to be moss-grown and very slippery.
+Suddenly you discover a little entrance to the south.
+~
+37 9 0
+D1
+You see just another tunnel of the maze.
+~
+~
+0 -1 3720
+D2
+You see a little entrance into darkness.
+~
+entrance~
+0 -1 3708
+D3
+You see just another tunnel of the maze.
+~
+~
+0 -1 3717
+Z3
+C-1
+S
+#3720
+The northern L-turn~
+	The tunnel turns here from west to south. The 
+ground is moss-grown and shimmers in a fale green.
+~
+37 9 0
+D2
+You see just another tunnel of the maze.
+~
+~
+0 -1 3721
+D3
+You see just another tunnel of the maze.
+~
+~
+0 -1 3733
+Z3
+C-1
+S
+#3721
+In front of the black stone door~
+	The tunnel leads from north to south. On the western
+wall you can see the usual pile of skulls. But to the
+east is something different. A huge black stone door!
+~
+37 9 0
+D0
+You see just another tunnel of the maze.
+~
+~
+0 -1 3720
+D1
+You see a heavy looking huge black stone door.
+~
+huge black stone door~
+1 -1 3722
+D2
+You see just another tunnel of the maze.
+~
+~
+0 -1 3728
+E
+huge black stone door~
+The door looks very heavy. It is made of black stone.
+There are some runes in the middle of the door:
+
+   The wise won't enter, 
+     the strong will fight,
+       the weak will die!
+~
+Z3
+C-1
+S
+#3722
+The Lair of Orcus, Lord of Death~
+	You feel the presence of the evil! The air is cold
+and the walls glow in a weird looking red light. You
+definitly don't want to go any further!!! This is the
+Lair of Death. You can go east or west.
+~
+37 8 0
+D1
+You see the Inner Lair of Orcus.
+~
+~
+0 -1 3723
+D3
+You see the exit! Go out, quick!!!!!
+~
+huge black stone door~
+1 -1 3721
+Z3
+C-1
+S
+#3723
+The inner Lair of Orcus, Lord of Death~
+	The walls here are black. But still they glow in
+a deadly red light. The eastern wall seems to be made
+of glass. You can look right through it into the Land
+of Death! In the middle of the room, you see an altar
+made of a black material. You can go south or west.
+~
+37 8 0
+D2
+You see the center of the Inner Lair.
+~
+~
+0 -1 3724
+D3
+You see the Inner Lair.
+~
+~
+0 -1 3722
+E
+altar~
+The altar is VERY huge. The surface looks like the
+eastern wall. It seems to be made of black glass.
+But if you come nearer, you see it's just black marble.
+~
+Z3
+C-1
+S
+#3724
+The center of the Inner Lair of Orcus, Lord of Death~
+	Now you are in the hard of the Lair. You are still
+alive, so you are lucky! Orcus doesn't like adventurers
+like you. Better flee as long as you CAN flee. Sometimes
+doors don't open anymore. You can go north and south.
+~
+37 8 0
+D0
+You see the Inner Lair.
+~
+~
+0 -1 3723
+D2
+You see the Inner Lair
+~
+~
+0 -1 3725
+Z3
+C-1
+S
+#3725
+The Inner Lair of Orcus, the Lord of Death~
+	The walls here are black. But still they glow in
+a deadly red light. The eastern wall seems to be made
+of glass. You can look right through it into the Land
+of Death! In the middle of the room, you see an altar
+made of a red material. You can go north or west.
+~
+37 8 0
+D0
+You see the center of the Inner Lair.
+~
+~
+0 -1 3724
+D3
+You see the Lair of Orcus.
+~
+~
+0 -1 3726
+E
+altar~
+The altar is VERY huge. It seems to be made of red glass.
+But if you come nearer, you see it's just red marble.
+~
+Z3
+C-1
+S
+#3726
+The Lair of Orcus, Lord of Death~
+	You feel the presence of the evil! The air is cold
+and the walls glow in a weird looking red light. You
+definitly don't want to go any further!!! This is the
+Lair of Death. You can go east or west.
+~
+37 8 0
+D1
+You see the Inner Lair of Orcus.
+~
+~
+0 -1 3725
+D3
+You see the exit! Go out, quick!!!!!
+~
+huge red stone door~
+1 -1 3727
+Z3
+C-1
+S
+#3727
+In front of the red stone door~
+	The tunnel leads from north to south. On the western
+wall you can see the usual pile of skulls. But to the
+east is something different. A huge red stone door!
+~
+37 9 0
+D0
+You see just another tunnel of the maze.
+~
+~
+0 -1 3728
+D1
+You see a heavy looking huge red stone door.
+~
+huge red stone door~
+1 -1 3726
+D2
+You see just another tunnel of the maze.
+~
+~
+0 -1 3734
+E
+huge red stone door~
+The door looks very heavy. It is made of red stone.
+There are some runes in the middle of the door:
+
+   The wise won't enter, 
+     the strong will fight,
+       the weak will die!
+~
+Z3
+C-1
+S
+#3728
+Between the stone doors~
+	You are in a t-cross. The tunnel continues to the
+north, south and west. The air is getting colder here.
+Suddenly you know, that you are near of Orcus. The 
+stone doors to his Lair are not far away.
+~
+37 9 0
+D0
+You see just another tunnel of the maze.
+~
+~
+0 -1 3721
+D2
+You see just another tunnel of the maze.
+~
+~
+0 -1 3727
+D3
+You see just another tunnel of the maze.
+~
+~
+0 -1 3729
+Z3
+C-1
+S
+#3729
+The tunnel leading from east to west~
+	This is just a boring east west leading tunnel.
+Nothing special to see here. Oh - except the wooden door leading south.
+~
+37 9 0
+D1
+You see just another tunnel of the maze.
+~
+~
+0 -1 3728
+D2
+You see a wooden door
+~
+door wooden~
+2 -1 3747
+D3
+You see just another tunnel of the maze.
+~
+~
+0 -1 3718
+Z3
+C-1
+S
+#3730
+A t-cross in the maze~
+And another t-cross in the maze. Nothing but
+bones, skulls and rats. Sometimes you see rats
+skulls and bones. And sometimes you hear some
+strange noises.
+~
+37 9 0
+D0
+You see just another tunnel of the maze.
+~
+~
+0 -1 3728
+D2
+You see just another tunnel of the maze.
+~
+~
+0 -1 3732
+D3
+You see just another tunnel of the maze.
+~
+~
+0 -1 3731
+Z3
+C-1
+S
+#3731
+The dark passage~
+	You are in a VERY dark passage leading from
+from east to west. There is a sign on the northern
+wall.
+~
+37 9 0
+D1
+You see a tunnel of the maze.
+~
+~
+0 -1 3730
+D3
+You see the south eastern part of the great gallery.
+~
+~
+0 -1 3733
+E
+sign~
+
+     Those who seek danger, those who seek death
+	 enter the maze of Orcus. 
+
+~
+Z3
+C-1
+S
+#3732
+The southern L-turn in the maze~
+	Alongside the walls you can see thousands of
+skulls and bones. From the east you hear some
+strange noises. Maybe better go back! You can
+go north and east.
+~
+37 9 0
+D0
+You see just another tunnel of the maze.
+~
+~
+0 -1 3730
+D1
+You see just another tunnel of the maze.
+~
+~
+0 -1 3733
+Z3
+C-1
+S
+#3733
+The east west leading tunnel~
+	This is just a boring east west leading tunnel.
+The same old pile of skulls and bones everywhere.
+No wait! Between the skulls and bones at the northern
+wall you can see a narrow black entrance.
+~
+37 9 0
+D0
+You see a narrow black entrance into darkness.
+~
+~
+0 -1 3708
+D1
+You see just another tunnel of the maze.
+~
+~
+0 -1 3734
+D3
+You see just another tunnel of the maze.
+~
+~
+0 -1 3732
+Z3
+C-1
+S
+#3734
+The L-turn to Orcus~
+	You can't see him, but you feel him. The Lord of
+Death is near. Maybe you should better go back. The
+air is getting colder to the north. You can go north
+and west.
+~
+37 9 0
+D0
+You see just another tunnel of the maze.
+~
+~
+0 -1 3727
+D2
+You see a wall - not very interesting. Ah - there is
+a little gap.
+~
+gap wall~
+1 3700 3735
+D3
+You see just another tunnel of the maze.
+~
+~
+0 -1 3719
+Z3
+C-1
+S
+#3735
+The secret treasure pit~
+	As you open the wall, you smell the old and heavy
+air. But look at that. What a treasure! Nothing!!!
+You can go north and south.
+~
+37 9 0
+D0
+You see a huge stone wall that can be opened and closed.
+~
+wall stone~
+1 3700 3734
+D2
+You see the center of the treasure pit.
+~
+~
+0 -1 3736
+Z3
+C-1
+S
+#3736
+The center of the treasure pit~
+	This room is just the bottom of a large, deep pit.
+When you look up, you can't see the ceiling. The floor
+is covered with a lot of dust. You can go north, east
+and west.
+~
+37 9 0
+D0
+You see the entrance of the treasure pit.
+~
+~
+0 -1 3735
+D1
+You see the eastern part of the treasure pit.
+~
+~
+0 -1 3737
+D3
+You see the western part of the treasure pit.
+~
+~
+0 -1 3738
+Z3
+C-1
+S
+#3737
+The eastern part of the treasure pit~
+	This room is just the bottom of a large, deep pit.
+When you look up, you can't see the ceiling. The floor
+is covered with a lot of dust. You can go back west.
+~
+37 9 0
+D3
+You see the center of the treasure pit.
+~
+~
+0 -1 3736
+Z3
+C-1
+S
+#3738
+The western part of the treasure pit~
+	This room is just the bottom of a large, deep pit.
+When you look up, you can't see the ceiling. The floor
+is covered with a lot of dust. You can back east.
+~
+37 9 0
+D1
+You see the center of the treasure pit.
+~
+~
+0 -1 3736
+Z3
+C-1
+S
+#3739
+The hidden room behind the entrance~
+	You are in a hidden room behind the entrance
+to the catacombs. Thank god you have been teleported
+here. This room is made of grey stone. No skulls!!
+You can go north, back to the entrance.
+~
+37 8 0
+D0
+You see the entrance to the catacombs.
+~
+~
+0 -1 3700
+Z3
+C-1
+S
+#3740
+A small tunnel~
+	You are in a small dirty tunnel leading from north to south.
+It smells awfully here. The floor is full of dirt. You wish to be
+somewhere else.
+~
+37 9 0
+D0
+You see the Cave entrance
+~
+~
+0 -1 7400
+D2
+You see the tunnel continue.
+~
+~
+0 -1 3741
+Z3
+C-1
+S
+#3741
+At the black shaft~
+	The tunnel end here, leading into a black shaft. You can't see
+the bottom of this black pit. There is a metal ladder leading
+down.
+~
+37 9 0
+D0
+You see the tunnel continue.
+~
+~
+0 -1 3740
+D5
+You see the black shaft.
+~
+~
+0 -1 3742
+Z3
+C-1
+S
+#3742
+Down the black shaft~
+	You are climbing the metal ladder inside the black shaft. Your
+voice reflects on the wet walls. You can climb up and down.
+~
+37 9 0
+D4
+You see the ladder continue up.
+~
+~
+0 -1 3741
+D5
+You see the ladder continue down.
+~
+~
+0 -1 3743
+Z3
+C-1
+S
+#3743
+Down the black shaft~
+	You are climbing the metal ladder inside the black shaft. Your
+voice reflects on the wet walls. You can climb up and down.
+~
+37 9 0
+D4
+You see the ladder continue up.
+~
+~
+0 -1 3742
+D5
+You see the ladder continue down.
+~
+~
+0 -1 3744
+Z3
+C-1
+S
+#3744
+The bottom of the black shaft~
+	You are at the bottom of the black shaft. Your feet stand on (of
+better in) something you don't even want describe. The smell is breathtaking.
+There are bones scattered onto the floor. The walls are wet. On the northern
+wall you can see some scratches, as if it hase been moved very often. Spiders
+and rats would like this place, but not you. There is a metal ladder leading
+up.
+~
+37 9 0
+D0
+~
+wall~
+2 -1 3745
+D4
+You see a ladder leading up.
+~
+~
+0 -1 3743
+Z3
+C-1
+S
+#3745
+At the end of the winding tube~
+	You are at the end of this winding little tube. Some water is at
+the bottom of this room. The northern wall is full of scratches. As if
+it hase been moved very often. The tube leads up with an angle of about
+45 degrees.
+~
+37 9 0
+D2
+~
+wall~
+2 -1 3744
+D4
+You see the tube leading up.
+~
+~
+0 -1 3746
+Z3
+C-1
+S
+#3746
+The winding tube~
+	You are inside a black winding tube leading up and down.
+~
+37 9 0
+D4
+You see the tube leading up.
+~
+grate metal rusty~
+2 -1 3747
+D5
+You see the tube leading down.
+~
+~
+0 -1 3745
+E
+grate metal rusty~
+The rusty metal grate looks very heavy and old. There are little runes 
+engraved on some parts of it. But you can't read them. They seem to be
+very old too.
+~
+Z3
+C-1
+S
+#3747
+The quiet room~
+	This is a neat little room compared with the rest of the Catacombs. 
+The floor and the walls are dry, and there are NO bones lying around. The
+walls are made of a black, strange looking material, absorbing most of
+the normal sounds. Near the middle of the southern wall you see a rusty
+metal grate. There is a wooden door leading north.
+~
+37 9 0
+D0
+You see a wooden door.
+~
+door wooden~
+2 -1 3729
+D5
+You see a rusty metal grate leading down into a black tube.
+~
+grate metal rusty~
+2 -1 3746
+E
+grate metal rusty~
+The rusty metal grate looks very heavy and old. There are little runes 
+engraved on some parts of it. But you can't read them. They seem to be
+very old too.
+~
+Z3
+C-1
+S
+$~

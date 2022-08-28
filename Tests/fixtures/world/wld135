@@ -1,0 +1,1905 @@
+#13500
+{G}A Grassy Trail{g}~
+
+  {G}You leave the main road and see a grassy path leading into
+  a wood.  There is a {BO}sign{bo,G} here with writing in the common 
+  tongue, with an arrow pointing toward the wood.  All around you
+  is the stark beauty of nature, and you feel at peace.
+
+~
+135 16777220 2
+D3
+{G,BO}The path leading west disappears into the wood.  You 
+  cannot see where it leads. It is well-made and well-
+  maintained and lined with small stones.{bo,g}
+
+~
+~
+0 -1 13501
+E
+sign~
+
+  {G,BO}Follow the path west to the {W}Chapel of the Wood{w,bo}
+
+~
+Z3
+C1
+R0
+S
+#13501
+{G}A Grassy Trail Ends{g}~
+
+  {G}The manicured trail ends abruptly as it passes narrowly between
+  two great elm trees.  A path cuts through the wood and turns 
+  to the left, out of your sight beyond the treeline.
+
+~
+135 16777220 2
+D1
+~
+~
+0 -1 13500
+D3
+~
+~
+0 -1 13502
+Z3
+C1
+R0
+S
+#13502
+{G,BO}The Silent Wood{bo,g}~
+
+  {BO,G}The trail quickly disappears from your sight, and you find yourself 
+  surrounded by ancient trees with huge limbs and thick branches.
+  You try to peer back out to the trail, but it is now out of sight.
+  There is complete silence - no whispering of the wind, no birds
+  chirping, not a sound from the underbrush.{bo,g}
+
+~
+135 16793600 3
+D1
+~
+~
+0 -1 13501
+D2
+~
+~
+0 -1 13503
+Z3
+C1
+R0
+S
+#13503
+{G,BO}The Silent Wood{bo,g}~
+
+  {G,BO}You walk along the wood line but you cannot see out of the forest
+  due to the profusion of thick, twisted branches.  The sky is almost
+  completely hidden by the canopy of leaves over head.  You look south and
+  see a whitewashed stone building in the distance.  The silence
+  begins to unnerve you.
+  
+~
+135 16793600 3
+D0
+~
+~
+0 -1 13502
+D2
+~
+~
+0 -1 13504
+Z3
+C1
+R0
+S
+#13504
+{W,BO}Approaching the Chapel{bo,w}~
+
+  {G,BO}The forest trail ends at a curious white building.  It has a single
+  reinforced door facing you and no indication of its purpose.  You do 
+  notice that the white compound used to paint the stones of the building
+  seems to be somewhat new, and that there are footprints in the patch
+  of grass leading up to the grim door.{bo,g}
+
+~
+135 16793600 3
+D0
+~
+~
+0 -1 13503
+D2
+~
+door~
+1 -1 13505
+Z3
+C1
+R0
+S
+#13505
+{W,BO}The Chapel of the Wood{bo,w}~
+
+  {BO,W}The entryway into this strange building fills you with a sense of 
+  wonder and foreboding.  As the door closes behind you, you realize that you
+  are alone.  From somewhere you cannot determine, the sweet scent of
+  incense wafts through the room.  The walls are covered in strange sigils
+  in a language you cannot understand.  The sigils seem to shine like silver,
+  which gives the room an eerie, cold light.  Your eyes fall to a stone
+  door with no lock or knob, and you start to question whether or not
+  you belong here.
+
+~
+135 24584 0
+D0
+~
+door~
+1 -1 13504
+D2
+~
+~
+0 -1 13506
+Z3
+C1
+R0
+S
+#13506
+{BO,W}The Guardian of the Chapel{w,bo}~
+
+  {W,BO}When you come inside this chamber, you see an aged knight in bright
+  silver armor and a white cloak.  He holds a glowing sword between his
+  hands as he kneels to pray silently.  He does not look up at you as you
+  enter, but keeps his stoic vigil at the door to the inner chamber.
+
+~
+135 24588 0
+D0
+~
+~
+0 -1 13505
+D2
+~
+chamber~
+1 -1 13507
+D3
+~
+~
+0 -1 13508
+Z3
+C1
+R0
+S
+#13507
+{W,BO}T{BLA}h{W}e {BLA}G{W}r{BLA}a{W}n{BLA}d {W}P{BLA}a{W}l{BLA}a{W}d{BLA}i{W}n{bo,w}~
+
+  {W,BO}You are in the presence of The Grand Paladin, the chief of the order of
+  the Holy Chapel.  He is the only one that is permitted (or able) to train 
+  you in the special skills that only a true Paladin can use.  You feel an
+  aura of peace and blessedness around this holy place.
+
+~
+135 16396 0
+D0
+~
+chamber~
+1 -1 13506
+Z3
+C-1
+R0
+S
+#13508
+{R,BO}Entrance to the Crypts{r,bo}~
+
+  {R,BO}In the floor you see a square hole, large enough for a man to fit down
+  easily.  You can just make out the rungs of a ladder cut into the sides of the pit.
+  When you look down, all you see is an eerie blackness, and a chilly, damp
+  current of air blows into your face.
+
+~
+135 16392 0
+D1
+~
+~
+0 -1 13506
+D5
+~
+~
+0 -1 13509
+Z3
+C-1
+R0
+S
+#13509
+{R,BO}Climbing Down to the Crypts{bo,r}~
+
+  {R,BO}As you descend the ladder you start to realize how alone you 
+  really are.  You hear muffled sounds from below as well as the 
+  ever-present sound of water dripping in the darkness.
+
+~
+135 71319564 0
+D4
+~
+~
+0 -1 13508
+D5
+~
+~
+0 -1 13510
+Z3
+C-1
+R0
+S
+#13510
+{R,BO}Climbing Down to the Crypts{bo,r}~
+
+  {R,BO}As you descend the ladder you start to realize how alone you 
+  really are.  You hear muffled sounds from below as well as the 
+  ever-present sound of water dripping in the darkness.
+
+~
+135 71319564 0
+D4
+~
+~
+0 -1 13509
+D5
+~
+~
+0 -1 13511
+Z3
+C-1
+R0
+S
+#13511
+A Turn in the Hallway~
+   This appears to be a small hallway withen the castle of Tapis. Large
+torches, with a bright blue flame, illuminate the hallway. Dark, blood
+red bricks form the floor that connects to a black stone wall.
+~
+135 1033 0
+D0
+~
+~
+0 -1 13512
+D3
+~
+~
+0 -1 13510
+D4
+~
+~
+0 -1 13510
+Z3
+C-1
+R0
+S
+#13512
+A Hallway~
+   This appears to be a small hallway withen the castle of Tapis. Large
+torches, with a bright blue flame, illuminate the hallway. Dark, blood
+red bricks form the floor that connects to a black stone wall.
+~
+135 1033 0
+D0
+~
+~
+0 -1 13513
+D1
+~
+~
+0 -1 13522
+D2
+~
+~
+0 -1 13511
+Z3
+C-1
+R0
+S
+#13513
+A Hallway~
+   This appears to be a small hallway withen the castle of Tapis. Large
+torches, with a bright blue flame, illuminate the hallway. Dark, blood
+red bricks form the floor that connects to a black stone wall.
+~
+135 1033 0
+D0
+~
+~
+0 -1 13514
+D2
+~
+~
+0 -1 13512
+Z3
+C-1
+R0
+S
+#13514
+A Hallway~
+   This appears to be a small hallway withen the castle of Tapis. Large
+torches, with a bright blue flame, illuminate the hallway. Dark, blood
+red bricks form the floor that connects to a black stone wall.
+~
+135 1033 0
+D0
+~
+~
+0 -1 13515
+D1
+~
+~
+0 -1 13523
+D2
+~
+~
+0 -1 13513
+Z3
+C-1
+R0
+S
+#13515
+A Hallway~
+   This appears to be a small hallway withen the castle of Tapis. Large
+torches, with a bright blue flame, illuminate the hallway. Dark, blood
+red bricks form the floor that connects to a black stone wall.
+~
+135 1033 0
+D0
+~
+~
+0 -1 13516
+D2
+~
+~
+0 -1 13514
+Z3
+C-1
+R0
+S
+#13516
+A Hallway~
+   This appears to be a small hallway withen the castle of Tapis. Large
+torches, with a bright blue flame, illuminate the hallway. Dark, blood
+red bricks form the floor that connects to a black stone wall.
+~
+135 1033 0
+D0
+~
+~
+0 -1 13517
+D2
+~
+~
+0 -1 13515
+Z3
+C-1
+R0
+S
+#13517
+A Turn in the Hallway~
+   This appears to be a small hallway withen the castle of Tapis. Large
+torches, with a bright blue flame, illuminate the hallway. Dark, blood
+red bricks form the floor that connects to a black stone wall.
+~
+135 1033 0
+D2
+~
+~
+0 -1 13516
+D3
+~
+~
+0 -1 13518
+Z3
+C-1
+R0
+S
+#13518
+A Turn in the Hallway~
+   This appears to be a small hallway withen the castle of Tapis. Large
+torches, with a bright blue flame, illuminate the hallway. Dark, blood
+red bricks form the floor that connects to a black stone wall.
+~
+135 1033 0
+D0
+~
+~
+0 -1 13525
+D1
+~
+~
+0 -1 13517
+D2
+~
+~
+0 -1 13519
+Z3
+C-1
+R0
+S
+#13519
+A Hallway~
+   This appears to be a small hallway withen the castle of Tapis. Large
+torches, with a bright blue flame, illuminate the hallway. Dark, blood
+red bricks form the floor that connects to a black stone wall.
+~
+135 1033 0
+D0
+~
+~
+0 -1 13518
+D2
+~
+~
+0 -1 13520
+Z3
+C-1
+R0
+S
+#13520
+The Layer of Tapis, Master of the Golden Threads~
+   A large golden thrown floats above your head. The air here is thick with
+the smell of death and decay. A large hole rests in the middle of the room,
+with a thick black fog rising from its massive mouth. The walls are seem to
+shift and change as you look at them. From one scene to another the walls
+change, showing the history of our great world.
+~
+135 1029 1
+X6291456
+Z3
+C-1
+R0
+S
+#13521
+The Guests Quarters~
+   A Large bed rests along the western wall. A small window above the bed
+allows the occupant of this room to wake to beautiful sunrise. A small
+serving try rests upoon a wooden desk. A large portrait of Judas Iscariot,
+the Betrayer of God, adourns the eastern wall.
+~
+135 1029 1
+X6291456
+Z3
+C-1
+R0
+S
+#13522
+The Guests Quarters~
+   A Large bed rests along the western wall. A small window above the bed
+allows the occupant of this room to wake to beautiful sunrise. A small
+serving try rests upoon a wooden desk. A large portrait of Judas Iscariot,
+the Betrayer of God, adourns the eastern wall.
+~
+135 1029 1
+X6291456
+Z3
+C-1
+R0
+S
+#13523
+The Guests Quarters~
+   A Large bed rests along the western wall. A small window above the bed
+allows the occupant of this room to wake to beautiful sunrise. A small
+serving try rests upoon a wooden desk. A large portrait of Judas Iscariot,
+the Betrayer of God, adourns the eastern wall.
+~
+135 1057 1
+D3
+~
+~
+0 -1 13514
+Z3
+C-1
+R0
+S
+#13524
+The Guests Quarters~
+   A Large bed rests along the western wall. A small window above the bed
+allows the occupant of this room to wake to beautiful sunrise. A small
+serving try rests upoon a wooden desk. A large portrait of Judas Iscariot,
+the Betrayer of God, adourns the eastern wall.
+~
+135 1029 1
+X6291456
+Z3
+C-1
+R0
+S
+#13525
+The Treasure Room~
+   Huge mounds of gold, silver, diamonds, rubies, and sapphire stand
+before you. there is more treasure here than you have ever seen before.
+A huge mirror hangs far overhead, reflecting you intrusion into this
+private place.
+~
+135 1029 0
+X6291456
+Z3
+C-1
+R0
+S
+#13526
+A Fall from Grace~
+   The flesh lined walls make an uneasy feeling run up your spine. Huge
+pillers made of human bone support the golden ceiling just inches above
+your head. A small river of blood runs down the dark hall splashing small
+droplets of blood on your once clean boots. The hot and must air makes it
+hard for you to breath.
+You notice small writing on one of the Gothic pillers.
+~
+135 1029 0
+X6291456
+Z3
+C-1
+R0
+S
+#13527
+Out on a Limb~
+   You are standing on a small cypress limb. From this height you can see the
+bottom of the marsh more clearly. Large crocs and alligators float in the
+putrid marsh awaiting their next meal. The sun is still well hidden by the
+thick foliage, so it makes your climb more difficult.
+~
+135 1025 5
+D4
+~
+~
+0 -1 13528
+Z3
+C-1
+R0
+S
+#13528
+Out on a Limb~
+   You are standing on a small cypress limb. From this height you can see the
+bottom of the marsh more clearly. Large crocs and alligators float in the
+putrid marsh awaiting their next meal. The sun is still well hidden by the
+thick foliage, so it makes your climb more difficult.
+~
+135 1281 5
+D4
+~
+~
+0 -1 13529
+D5
+~
+~
+0 -1 13527
+Z3
+C-1
+R0
+S
+#13529
+Withen the Foliage~
+   You find yourself at the peek of this great cypress. To the west you
+notice a small island, with a town at its center. To the north you see a
+fantastic castle with buildings fashioned from the ancient Greek buildings
+of myth. To the east you notice a massive castle. It looms far overhead
+and casts a shadow all about the top of the trees.
+~
+135 1281 5
+D1
+~
+~
+0 -1 13530
+D5
+~
+~
+0 -1 13528
+Z3
+C-1
+R0
+S
+#13530
+Before the Tapestry~
+  As you walk closer to the castle you notice that it is not a castle after
+all. It appears to be a huge golden tapestry. The scenes change before your
+eyes. The sheer thought of the creature that created suh a wonderful object
+makes your eyes bulge. You notice a small path through the leaves that lead
+towards the tapestry.
+~
+135 1025 5
+D1
+~
+~
+0 -1 13472
+D3
+~
+~
+0 -1 13529
+Z3
+C-1
+R0
+S
+#13531
+The Altar of the Dark Queen~
+   The haze of the evil that composses the hallway slowly coalesces into
+a more solid, familiar type of terrain. Unfortunately, the relief of solid
+does not last long, for you find yourself in the most horrific of places
+imaginable. An altar, made of bone and gold, and serpent skin, lies blood
+stained in the center of the room. Standing in back of it is a portal,
+the likes of which you have never seen. Five dragon heads, form a circle
+around a mirror. Each head a different color, black, white, blue, green,
+red, and each caught in an act of what looks to be a scream of exquisite
+agony. Looking through the mirror, you see a land that twists and convulses,
+ever-changing, chaotic. You look upon the Abyss, the home of the dark
+queen herself. You have entered the home of the Dark Queen herself. You
+have reached the Altar of Takhisis, Goddess of Evil.
+~
+135 1025 1
+D0
+~
+~
+0 -1 13532
+Z3
+C-1
+R0
+S
+#13532
+The Halls of the Pantheon~
+   You move to the south, through the thick haze until you finally reach
+a place where you must rest. As you sit for a moment, collecting your
+breath and your wits, to doors on opposite sides of the "Hall" matierlize.
+Though you may still continue to the north, and south, you feel a very
+distinct evilness, even more than the rest of this place, emanating from
+the south.
+~
+135 263169 1
+D0
+~
+~
+0 -1 13535
+D1
+~
+~
+0 -1 13534
+D2
+~
+~
+0 -1 13531
+D3
+~
+~
+0 -1 13533
+Z3
+C-1
+R0
+S
+#13533
+The Realm off Zebiom~
+   Zebiom, the Goddess of the Great Seas, is the evil daughter of Sargonnus
+and Takhisis. She was banished to this hollow room for betraying her father
+to the dark god Soth. She must live out her life as a hobbit, never inter-
+reacting with another life. She stands before you, floating in midair. A 
+large black cloud fills the room, and sends an odd sensation through your
+body. Two large heads, one dragons the other human, have beed mounted on the
+far northern wall. A large hole in the ceiling casts a golden light down
+upon Zebiom's massive head.
+~
+135 1025 1
+D1
+~
+~
+0 -1 13532
+Z3
+C-1
+R0
+S
+#13534
+The Realm of Xilaminirstiff~
+   Xilaminirstiff, the god of Ice and Hate, stands here before you. He rests
+upon a large throne made of Ice and blood. A large pit directly in the middle
+of the room emits a torent of snow that fills the room almost completely. The
+severed head of the Christkind is mounted on the wall above a small table of
+ice.
+~
+135 1057 0
+D3
+~
+~
+0 -1 13532
+Z3
+C-1
+R0
+S
+#13535
+The Court of the Pantheon~
+   A large golden dome, supported by six pillers made of bone, towers
+above your head. The walls are covered in a thick layer of human skin
+and blood. A small fountain, spirting out blood, rests in the middle
+of the room. The Halls of the Pantheon stretch out in all directions 
+from this point, and a great evil can be felt eminating from the south.
+~
+135 1025 1
+D0
+~
+~
+0 -1 13540
+D1
+~
+~
+0 -1 13538
+D2
+~
+~
+0 -1 13532
+D3
+~
+~
+0 -1 13536
+Z3
+C-1
+R0
+S
+#13536
+The Halls of the Pantheon~
+   A cold chill runs up your spine as you notice the walls made of human
+flesh and blood. Huge pillers of human bone support the golden ceiling 
+just inches above your head. Two small rivers of blood flow freely down
+the sides of the walls, splattering your once clean boots with fresh
+droplets of blood. A warm breeze slowly fills the hot chamber making your
+wet clothes stick even more to your taunt body.
+~
+135 1057 1
+D1
+~
+~
+0 -1 13535
+D3
+~
+~
+0 -1 13537
+Z3
+C-1
+R0
+S
+#13537
+The Halls of the Pantheon~
+   A cold chill runs up your spine as you notice the walls made of human
+flesh and blood. Huge pillers of human bone support the golden ceiling 
+just inches above your head. Two small rivers of blood flow freely down
+the sides of the walls, splattering your once clean boots with fresh
+droplets of blood. A warm breeze slowly fills the hot chamber making your
+wet clothes stick even more to your taunt body.
+~
+135 1057 1
+D1
+~
+~
+0 -1 13536
+D2
+~
+~
+0 -1 13544
+Z3
+C-1
+R0
+S
+#13538
+The Halls of the Pantheon~
+   A cold chill runs up your spine as you notice the walls made of human
+flesh and blood. Huge pillers of human bone support the golden ceiling 
+just inches above your head. Two small rivers of blood flow freely down
+the sides of the walls, splattering your once clean boots with fresh
+droplets of blood. A warm breeze slowly fills the hot chamber making your
+wet clothes stick even more to your taunt body.
+~
+135 1057 1
+D1
+~
+~
+0 -1 13539
+D3
+~
+~
+0 -1 13535
+Z3
+C-1
+R0
+S
+#13539
+The Halls of the Pantheon~
+   A cold chill runs up your spine as you notice the walls made of human
+flesh and blood. Huge pillers of human bone support the golden ceiling 
+just inches above your head. Two small rivers of blood flow freely down
+the sides of the walls, splattering your once clean boots with fresh
+droplets of blood. A warm breeze slowly fills the hot chamber making your
+wet clothes stick even more to your taunt body.
+~
+135 1057 1
+D2
+~
+~
+0 -1 13543
+D3
+~
+~
+0 -1 13538
+Z3
+C-1
+R0
+S
+#13540
+The Halls of the Pantheon~
+   A cold chill runs up your spine as you notice the walls made of human
+flesh and blood. Huge pillers of human bone support the golden ceiling 
+just inches above your head. Two small rivers of blood flow freely down
+the sides of the walls, splattering your once clean boots with fresh
+droplets of blood. A warm breeze slowly fills the hot chamber making your
+wet clothes stick even more to your taunt body.
+~
+135 1057 1
+D0
+~
+~
+0 -1 13541
+D2
+~
+~
+0 -1 13535
+Z3
+C-1
+R0
+S
+#13541
+The Halls of the Pantheon~
+   A cold chill runs up your spine as you notice the walls made of human
+flesh and blood. Huge pillers of human bone support the golden ceiling 
+just inches above your head. Two small rivers of blood flow freely down
+the sides of the walls, splattering your once clean boots with fresh
+droplets of blood. A warm breeze slowly fills the hot chamber making your
+wet clothes stick even more to your taunt body.
+~
+135 1057 1
+D0
+~
+~
+0 -1 13542
+D2
+~
+~
+0 -1 13540
+Z3
+C-1
+R0
+S
+#13542
+The Realm of Soth~
+   A large pool of human blood rests in the middle of the room. Human
+flesh, torn from human bodies, caovers the blood red floor. The head
+of Zeus, god of Olympus, has been mounted above a large table made of
+bone. Various parts of human anatomy cover the table, dripping with
+fresh blood. The walls, made of flesh, are ripped and torn at numerous
+places. A hollow, methodical laughter can be heard echoing off of the
+walls, filling your entire body with dread.
+~
+135 1025 1
+D2
+~
+~
+0 -1 13541
+Z3
+C-1
+R0
+S
+#13543
+The Realm of Sargonnus~
+   A hollow chamber stands before you. No light has never penetrated this
+massive chamber, and no light ever will. The evilness of this place sinks
+into every crevice of your body. The walls seem to breath with a life of
+their own, and cunvulse in pain. An arid stench fills the room making
+your cloths very damn, and sapping all the strength from your body.
+~
+135 1025 1
+D0
+~
+~
+0 -1 13539
+Z3
+C-1
+R0
+S
+#13544
+The Church of Bluudslyur~
+   A huge Crucifix, hung upside down, is suspended by four cables made of
+human flesh from the ceiling. Six pews, in six rows, stand before you. A large
+bowl of human blood stands at an altar made of gold. Red velvet adourns the
+walls, with two massive murals of Soth on both the eastern and western
+walls.
+~
+135 1025 1
+D0
+~
+~
+0 -1 13537
+Z3
+C-1
+R0
+S
+#13545
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D1
+~
+~
+0 -1 13556
+D2
+~
+~
+0 -1 13546
+D4
+~
+~
+0 -1 13531
+Z3
+C-1
+R0
+S
+#13546
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13545
+D1
+~
+~
+0 -1 13555
+D2
+~
+~
+0 -1 13547
+Z3
+C-1
+R0
+S
+#13547
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13546
+D1
+~
+~
+0 -1 13554
+D2
+~
+~
+0 -1 13548
+Z3
+C-1
+R0
+S
+#13548
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13547
+D1
+~
+~
+0 -1 13553
+D2
+~
+~
+0 -1 13549
+Z3
+C-1
+R0
+S
+#13549
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13548
+D1
+~
+~
+0 -1 13552
+D2
+~
+~
+0 -1 13550
+Z3
+C-1
+R0
+S
+#13550
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13549
+D1
+~
+~
+0 -1 13551
+Z3
+C-1
+R0
+S
+#13551
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13552
+D1
+~
+~
+0 -1 13562
+D3
+~
+~
+0 -1 13550
+Z3
+C-1
+R0
+S
+#13552
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13553
+D1
+~
+~
+0 -1 13561
+D2
+~
+~
+0 -1 13551
+D3
+~
+~
+0 -1 13549
+Z3
+C-1
+R0
+S
+#13553
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13554
+D1
+~
+~
+0 -1 13560
+D2
+~
+~
+0 -1 13552
+D3
+~
+~
+0 -1 13548
+Z3
+C-1
+R0
+S
+#13554
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13555
+D1
+~
+~
+0 -1 13559
+D2
+~
+~
+0 -1 13553
+D3
+~
+~
+0 -1 13547
+Z3
+C-1
+R0
+S
+#13555
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13556
+D1
+~
+~
+0 -1 13558
+D2
+~
+~
+0 -1 13554
+D3
+~
+~
+0 -1 13546
+Z3
+C-1
+R0
+S
+#13556
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D1
+~
+~
+0 -1 13557
+D2
+~
+~
+0 -1 13555
+D3
+~
+~
+0 -1 13545
+Z3
+C-1
+R0
+S
+#13557
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D1
+~
+~
+0 -1 13569
+D2
+~
+~
+0 -1 13558
+D3
+~
+~
+0 -1 13556
+Z3
+C-1
+R0
+S
+#13558
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13557
+D1
+~
+~
+0 -1 13568
+D2
+~
+~
+0 -1 13559
+D3
+~
+~
+0 -1 13555
+Z3
+C-1
+R0
+S
+#13559
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13558
+D1
+~
+~
+0 -1 13567
+D2
+~
+~
+0 -1 13560
+D3
+~
+~
+0 -1 13554
+Z3
+C-1
+R0
+S
+#13560
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13559
+D1
+~
+~
+0 -1 13565
+D2
+~
+~
+0 -1 13561
+D3
+~
+~
+0 -1 13553
+Z3
+C-1
+R0
+S
+#13561
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13560
+D1
+~
+~
+0 -1 13564
+D2
+~
+~
+0 -1 13562
+D3
+~
+~
+0 -1 13552
+Z3
+C-1
+R0
+S
+#13562
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13561
+D1
+~
+~
+0 -1 13563
+D3
+~
+~
+0 -1 13551
+Z3
+C-1
+R0
+S
+#13563
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13564
+D1
+~
+~
+0 -1 13575
+D3
+~
+~
+0 -1 13562
+Z3
+C-1
+R0
+S
+#13564
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13565
+D1
+~
+~
+0 -1 13574
+D2
+~
+~
+0 -1 13563
+D3
+~
+~
+0 -1 13561
+Z3
+C-1
+R0
+S
+#13565
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13567
+D1
+~
+~
+0 -1 13573
+D2
+~
+~
+0 -1 13564
+D3
+~
+~
+0 -1 13560
+Z3
+C-1
+R0
+S
+#13567
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13568
+D1
+~
+~
+0 -1 13572
+D2
+~
+~
+0 -1 13565
+D3
+~
+~
+0 -1 13559
+Z3
+C-1
+R0
+S
+#13568
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13569
+D1
+~
+~
+0 -1 13571
+D2
+~
+~
+0 -1 13567
+D3
+~
+~
+0 -1 13558
+Z3
+C-1
+R0
+S
+#13569
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D2
+~
+~
+0 -1 13568
+D3
+~
+~
+0 -1 13557
+Z3
+C-1
+R0
+S
+#13570
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D1
+~
+~
+0 -1 13576
+D2
+~
+~
+0 -1 13571
+D3
+~
+~
+0 -1 13569
+Z3
+C-1
+R0
+S
+#13571
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13570
+D1
+~
+~
+0 -1 13577
+D2
+~
+~
+0 -1 13572
+D3
+~
+~
+0 -1 13568
+Z3
+C-1
+R0
+S
+#13572
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13571
+D1
+~
+~
+0 -1 13578
+D2
+~
+~
+0 -1 13573
+D3
+~
+~
+0 -1 13567
+Z3
+C-1
+R0
+S
+#13573
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13572
+D1
+~
+~
+0 -1 13579
+D2
+~
+~
+0 -1 13574
+D3
+~
+~
+0 -1 13565
+Z3
+C-1
+R0
+S
+#13574
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13573
+D1
+~
+~
+0 -1 13580
+D2
+~
+~
+0 -1 13575
+D3
+~
+~
+0 -1 13564
+Z3
+C-1
+R0
+S
+#13575
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13574
+D1
+~
+~
+0 -1 13581
+D3
+~
+~
+0 -1 13563
+Z3
+C-1
+R0
+S
+#13576
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D2
+~
+~
+0 -1 13577
+D3
+~
+~
+0 -1 13570
+Z3
+C-1
+R0
+S
+#13577
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13576
+D2
+~
+~
+0 -1 13578
+D3
+~
+~
+0 -1 13571
+Z3
+C-1
+R0
+S
+#13578
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13577
+D2
+~
+~
+0 -1 13579
+D3
+~
+~
+0 -1 13572
+Z3
+C-1
+R0
+S
+#13579
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13578
+D2
+~
+~
+0 -1 13580
+D3
+~
+~
+0 -1 13573
+Z3
+C-1
+R0
+S
+#13580
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13579
+D2
+~
+~
+0 -1 13581
+D3
+~
+~
+0 -1 13574
+Z3
+C-1
+R0
+S
+#13581
+The Abyss~
+   The Abyss is a plane of shear chaos, whose only method of madness
+can be discerned by its owner, the Queen of Darkness. The terrain in
+front of your eyes even as you watch change from, Tropical Rainforest,
+to Desert, to Frozen Tundra, and what you see never truly matches what
+you feel you are standing on. Going is difficult at best.
+~
+135 17441 9
+D0
+~
+~
+0 -1 13580
+D3
+~
+~
+0 -1 13575
+Z3
+C-1
+R0
+S
+#13582
+The Region of Madness~
+You are standing in nowhere !!!!
+~
+135 279585 0
+D0
+~
+~
+0 -1 13581
+Z3
+C-1
+R0
+S
+#13598
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+135 262144 1
+D2
+~
+~
+0 -1 13598
+Z3
+C-1
+R0
+S
+#13599
+{C}Talos' Bag o' Tricks{c}~
+redit desc
+{Y}UNDER CONSTRUCTION{y}
+{Y}UNDER CONSTRUCTION{y}
+~
+135 8 1
+Z3
+C-1
+R0
+S
+$~

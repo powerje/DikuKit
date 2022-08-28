@@ -1,0 +1,489 @@
+#7900
+key tower~
+a tower key~
+You see the tower key here.~
+~
+18 65536 0 1
+0 0 0 0
+3 6500 25000
+#7901
+key palace~
+the palace key~
+you see the key to the palace.~
+~
+18 65536 0 1
+0 0 0 0
+0 0 0
+#7902
+plaque redferne~
+the plaque~
+You see an inscribed plaque on top of the fountain.~
+~
+13 65536 0 0
+0 0 0 0
+1 1 1
+E
+plaque redferne~
+ 
+This is the fountain in honor of the Great God Naris.  It is
+rumored that these gargoyles were the sons of Naris, sent here
+to guard his treasure.
+ 
+~
+#7903
+key ornate~
+a ornate key~
+You see an ornate key.~
+~
+18 65536 0 1
+0 0 0 0
+0 1 1
+#7904
+key golden~
+a golden key~
+You see a golden key here.~
+~
+18 65568 0 16385
+0 0 0 0
+0 1 0
+#7905
+key regal~
+a regal key~
+You see a regal key here.~
+~
+18 65536 0 1
+0 0 0 0
+1 1 1
+#7906
+footlocker~
+{YE}A footlocker{ye}~
+{YE}You see a servant's footlocker here.{ye}~
+~
+15 0 0 1
+60 5 0 0
+25 7906 1
+E
+footlocker~
+You see a footlocker lying here.  It appears to be
+large enough to hold a couple sets of clothes and
+a couple of objects.
+~
+E
+footlocker~
+You see a little footlocker.  It appears to be large enough
+to only hold a couple sets of clothing and a few objects.
+~
+E
+footlocker~
+{YE}You see a footlocker lying here.  It appears to be
+large enough to hold a couple sets of clothes and
+a couple of objects.{ye}
+~
+#7907
+footlocker magic~
+{YE}A footlocker{ye}~
+{YE}You see a servant's footlocker here.{ye}~
+~
+15 266240 0 16385
+200 207 7913 200
+6 1200 200
+E
+footlocker magic~
+{YE}You see a footlocker lying here.  It appears to be
+large enough to hold a couple sets of clothes and
+a couple of objects.{ye}
+~
+E
+footlocker magic~
+You see a footlocker lying here.  It appears to be
+large enough to hold a couple sets of clothers and
+a couple of objects.
+~
+E
+footlocker magic~
+You see a footlocker lying here.  It appears to be
+large enough to hold a couple sets of clothers and
+a couple of objects.
+~
+L
+50
+#7908
+cabinet~
+A large wooden cabinet~
+You see a large wooden cabinet against the wall.~
+~
+15 0 0 0
+500 5 7911 0
+1 1 1
+E
+cabinet~
+This cabinet is made of what appears to be pine.
+~
+#7909
+treasure coins~
+a huge treasure~
+There is a huge treasure here, looking very valuable.~
+~
+20 0 0 1
+50000 0 0 0
+0 53392 0
+E
+treasure~
+This looks like a whole lot of coins.
+~
+#7910
+ring gargoyle gargoyles~
+{BO,MA}The Ring of {ma,BLA}Gargoyles{bla}~
+{WH}You see something {wh,YE}shiny{ye,WH} on the floor.{wh}~
+~
+9 4160 0 3
+8 0 0 0
+2 100 50000
+E
+ring gargoyle gargoyles~
+{BLA}This is a ring which appears to be made of {bla,BO,WH}sterling silver.  {wh,BLA}There is a
+gargoyle grasping onto a {bla,RE}blood-red stone.{re}
+~
+E
+ring gargoyle gargoyles~
+It is a robust chest made from short, heavy planks that have been fastened
+together with tenons.  It is equipped with a simple brass lock.
+~
+E
+ring gargoyle~
+You see something shining on the floor.  It appears to be a ring.
+~
+A
+19 4
+A
+18 3
+B
+2097152
+L
+30
+C
+70 7
+G
+25
+#7911
+key~
+a small brass key~
+A small brass key lies here.~
+~
+18 65536 0 1
+0 0 0 1
+1 100 10000
+E
+key~
+It is a small, simple brass key with no inscriptions or marks of any kind.
+~
+#7912
+treasure huge~
+The treasure~
+You see a huge pile of gold sitting here.~
+~
+20 0 0 16385
+500000 0 0 0
+1 1 1
+#7913
+key~
+A key~
+You see a key here.~
+~
+18 65536 0 16385
+0 0 0 2
+0 1 1
+#7914
+statue naris~
+The statue~
+You see a large statue of Naris here.~
+~
+15 0 0 0
+500 5 0 0
+1 1 1
+E
+statue naris~
+The statue of Naris is extremely scary.  It signifies the power
+of this kingdom.
+~
+#7915
+key~
+the key~
+There is a small key here.~
+~
+18 65536 0 1
+0 0 0 4
+0 1 1
+E
+key~
+This is a small unadorned key.
+~
+#7916
+bracelet naris magic~
+{MA}The source of {ma,RE}Naris' {re,MA}power {ma}~
+{MA}You see the source of {ma,RE}Naris'{re,MA} power here.{ma}~
+~
+9 2147487760 0 4097
+10 7000 0 0
+10 1 250000
+E
+bracelet naris magic~
+{BO,YE}You see a powerful looking bracelet.  {ye,BLU}This appears to
+have been the source of all of the {blu,RE}statue's{re,BLU} power.  Without
+it, it is powerless.{blu}
+~
+E
+bracelet naris magic~
+You see a powerful looking bracelet.  This appears to
+have been the source of all of the statue's power.  Without
+it, it is powerless.
+~
+E
+bracelet naris magic~
+You see a powerful looking bracelet.  This appears to
+have been the source of all of the statue's power.  Without
+it, it is powerless.
+~
+E
+bracelet naris magic~
+You see a powerful looking bracelet.  This appears to
+have been the source of all the statue's power.  Without
+it, it is powerless.
+~
+A
+19 3
+A
+12 50
+B
+268435458
+L
+100
+C
+7000 10
+G
+75
+M
+30
+#7917
+bracelet naris~
+{MA}The source of {ma,RE}Naris' {re,MA}power {ma}~
+{MA}You see the source of {ma,RE}Naris'{re,MA} power here.{ma}~
+~
+9 0 0 4097
+5 0 0 0
+1 7916 100
+E
+bracelet naris~
+You see a powerful looking bracelet.  This appears to
+have been the source of all of the statue's power.  Without
+it, it is powerless.
+~
+E
+bracelet naris~
+{BO,YE}You see a powerful looking bracelet.  {ye,BLU}This appears to
+have been the source of all of the {blu,RE}statue's{re,BLU} power.  Without
+it, it is powerless.{blu}
+~
+A
+19 1
+A
+18 1
+C
+7000 10
+#7918
+shoes wizard~
+{BO,WH}The wizard's shoes{wh}~
+{BO,WH}You see some pointed shoes with {wh,BO,YE}stars{ye,BO,WH} on them.{wh}~
+~
+9 2147504136 536870924 65
+10 0 0 0
+10 1 1000000
+E
+shoes wizard~
+{BO,WH}These are the shoes of the {wh,RE}wizard.{re,BO,WH}  He apparently cast a spell onto
+them to make them as powerful as they are.  Good thing you have 
+them now.{wh}
+~
+E
+shoes wizard~
+These are the shoes of the wizard.  He apparently cast a spell onto
+them to make them as powerful as they are.  Good thing you have 
+them now.
+~
+A
+19 4
+A
+12 50
+B
+40
+L
+75
+C
+7000 10
+G
+50
+M
+40
+#7919
+sign redferne warning~
+The sign~
+You see a large sign here.~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+E
+sign redferne warning~
+This is the Castle Redferne.  Within this castle there is
+a shrine to the Greater God, Naris.  Naris is a powerful
+being and has enveloped this, his sacred land with a magical
+aura which seemed to seep into everything.  The king is highly
+devoted and gives SACRIFICES daily to his god, so beware.  
+Crossing this man's path may cost more than your life.
+ 
+The courtyard is full of beautiful flowers for the young to
+destroy, but be wary of the castle, it contains much danger to
+the weak.
+ 
+Sincerely,
+Jazz
+~
+E
+sign redferne warning~
+This is the Castle Redferne.  It contains many different parts to it.
+The main courtyard is used for experience for low to mid-level duals.
+The first floor should be mid to high-level duals, while the second
+floor is for groups of mid to high-level duals.  All of the equipment
+is tough to get so beware and bring friends.  Beware of the
+FOUNTAIN for the low-level characters.
+P.S.  AVATARS NOT INVITED!!
+Sincerely,
+Jazz
+~
+E
+sign redferne warning~
+This is the Castle Redferne.  It contains many different parts to it.
+The main courtyard is used for experience for low to mid-level duals.
+The first floor should be mid to high-level duals, while the second
+floor is for groups of mid to high-level duals.  All of the equipment
+is tough to get so beware and bring friends.  Beware of the
+FOUNTAIN for the low-level characters.  Also, beware of your 
+equipment, it sometimes has a tendency to disappear here.
+P.S.  AVATARS NOT INVITED!!
+Sincerely,
+Jazz
+~
+#7920
+gauntlets thordin spiked~
+{Y}{BOLD}A pair of the{R} Guard Captain's {Y}{BOLD}spiked{Y} gauntlets{y}{bol}~
+You see a strong pair of shiny spiked gauntlets.~
+~
+9 4609 1245184 129
+10 10 10 10
+8 10000 5000
+A
+19 6
+A
+18 4
+B
+268435456
+L
+10
+C
+7000 2
+G
+15
+#7921
+testeq eq test~
+Test equipment~
+Jazz's test eq is here.~
+~
+9 0 31 305
+100 0 0 0
+2 5000 10
+A
+18 34
+B
+1024196778
+C
+7000 2
+#7922
+earrings earring diamond~
+{BO,WH}Diamond earring{wh}~
+{MA}You see that a beautiful {ma,BO,WH}diamond earring{wh,MA} has been dropped here.{ma}~
+~
+9 1 8 131073
+0 0 0 0
+1 1 1000000
+E
+earrings earring diamond~
+{MA}Looking at this {ma,BO,WH}earring, {wh,MA}you see the true wealth that the
+queen must have possessed.  This is truly a work of art.
+Intricately carved and set in {ma,BO,YE}perfect gold, {ye,MA}this is truly
+a beautiful addition to any ensemble.{ma}
+~
+E
+earrings earring diamond~
+Looking at this earring, you see the true wealth that the
+queen must have possessed.  This is truly a work of art.
+Intricately carved and set in perfect gold, this is truly
+a beautiful addition to any ensemble.
+~
+A
+12 10
+A
+19 1
+C
+7000 10
+M
+57
+#7923
+breastplate thordin~
+Thordin's Shiny Breastplate~
+You see a shiny golden breastplate lying here!~
+~
+9 6553703 0 9
+10 20 20 20
+8 55464 121000
+E
+breastplate thordin~
+You wonder how much something like this is worth....
+~
+A
+19 3
+A
+17 -10
+B
+1073741824
+C
+7000 5
+G
+35
+M
+32
+#7924
+whip sadistic~
+Sadis's Sadistic Whip~
+You see a large thick bullwhip lying here.~
+~
+5 2721 0 8193
+2 7 5 2
+6 3392 150000
+E
+whip sadistic~
+
+What a brutal looking whip... and it gives you beautifully
+evil ideas on what to do with it... *cackle!*
+
+~
+A
+19 4
+A
+18 4
+C
+7000 1
+G
+75
+M
+35
+$~

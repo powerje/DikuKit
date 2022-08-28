@@ -1,0 +1,1144 @@
+#46600
+Hallway~
+
+{BLACK,BOLD} You made it to the light again. In the middle of the room there
+{BLACK,BOLD} is a big shield. It glows bright and fills the room.
+{BLACK,BOLD} There are signs of struggle here. Chairs are tipped over
+{BLACK,BOLD} boxes pushed out of the way, and gun bullets flying everywhere.{black,bold}
+
+~
+466 9 1
+D2
+~
+~
+0 -1 46601
+Z-1
+C-1
+R0
+S
+#46601
+Connecting Room~
+
+{BLACK,BOLD} This room bends around the corner. Only one grunt in this room.
+{BLACK,BOLD} He must've been taken a break here.{black,bold}
+
+~
+466 9 1
+D3
+~
+~
+0 -1 46602
+Z-1
+C-1
+R0
+S
+#46602
+Two ways~
+
+{BLACK,BOLD} To the north you can see aliens shuffling about eagerly. At the
+{BLACK,BOLD} south you see a sealed door that will be impossible to move.
+{BLACK,BOLD} In the middle of the room, the is a glowing plasma shield
+{BLACK,BOLD} that you duck behind for cover.{black,bold}
+
+~
+466 0 1
+D0
+~
+~
+0 -1 46603
+D1
+~
+~
+0 -1 46601
+Z0
+C-1
+R0
+S
+#46603
+Escape Pods~
+
+{BLACK,BOLD} You made it to the escape mobs. Area 63. There are bunkers
+{BLACK,BOLD} in front of you to stop oncoming intruders. The ship starts to
+{BLACK,BOLD} shake. You can feel it coming apart. Leave now before its too
+{BLACK,BOLD} late.{black,bold}
+
+~
+466 9 1
+Z-1
+C-1
+R0
+S
+#46604
+{BLACK,BOLD}XxX!~
+
+{cyan} {BLACK,BOLD}  XXXXXXXXXXXXX            XXXXXXXXXXXXX
+{cyan} {green} {BLACK,BOLD}  XXXXXXXXXXXXX          XXXXXXXXXXXXX
+{cyan} {green} {cyan} {BLACK,BOLD}  XXXXXXXXXXXXX        XXXXXXXXXXXXX
+{cyan} {green} {cyan} {green} {BLACK,BOLD}  XXXXXXXXXXXXX      XXXXXXXXXXXXX
+{cyan} {green} {cyan} {green} {cyan} {BLACK,BOLD}  XXXXXXXXXXXXX    XXXXXXXXXXXXX
+{cyan} {green} {cyan} {green} {cyan} {green} {BLACK,BOLD}  XXXXXXXXXXXXX  XXXXXXXXXXXXX
+{cyan} {green} {cyan} {green} {cyan} {green} {cyan} {BLACK,BOLD}  XXXXXXXXXXXXXXXXXXXXXXXXXX
+{cyan} {green} {cyan} {green} {cyan} {green} {BLACK,BOLD}  XXXXXXXXXXXXX  XXXXXXXXXXXXX
+{cyan} {green} {cyan} {green} {cyan} {BLACK,BOLD}  XXXXXXXXXXXXX    XXXXXXXXXXXXX
+{cyan} {green} {cyan} {green} {BLACK,BOLD}  XXXXXXXXXXXXX      XXXXXXXXXXXXX
+{cyan} {green} {cyan} {BLACK,BOLD}  XXXXXXXXXXXXX        XXXXXXXXXXXXX
+{cyan} {green} {BLACK,BOLD}  XXXXXXXXXXXXX          XXXXXXXXXXXXX
+{cyan} {BLACK,BOLD}  XXXXXXXXXXXXX            XXXXXXXXXXXXX
+
+~
+466 0 1
+D0
+~
+~
+0 -1 46606
+Z0
+C-1
+R0
+S
+#46605
+{BLUE,BOLD}Setti{blue,bold}~
+
+{BLUE,BOLD} Here stands Setti. The man that taught me NC.{blue,bold}
+
+~
+466 0 1
+Z0
+C-1
+R0
+S
+#46606
+{RED,BOLD}Crossroads{red,bold}~
+
+{BLACK,BOLD} North is the Market Square
+{RED,BOLD} East is the Wizard Hall
+{BLUE,BOLD} West is to the Trophy Rooms
+{GREEN,BOLD} South is to XxX's Room
+{CYAN,BOLD} Up is to the Hall of XxX
+{BLACK,BOLD} Down is my mail guy{black,bold}
+
+~
+466 0 1
+D0
+~
+~
+0 -1 3014
+D1
+~
+~
+0 -1 2000
+D2
+~
+~
+0 -1 46604
+D3
+~
+~
+0 -1 46607
+D4
+~
+~
+0 -1 46611
+D5
+~
+~
+0 -1 46610
+Z0
+C-1
+R0
+S
+#46607
+{RED,BOLD}Peeshu's Den{red,bold}~
+{cyan} {RED,BOLD}  In honor of one of the best NCer's alive!
+{cyan} {RED,BOLD}  Cheers to Peeshu!
+
+~
+466 0 1
+D0
+~
+~
+0 -1 46608
+D1
+~
+~
+0 -1 46606
+Z0
+C-1
+R0
+S
+#46608
+{BLUE,BOLD}Darrious{blue,bold}~
+
+{BLUE,BOLD} You are standing in the great room of Darrious.
+{BLUE,BOLD} A great and true friend. My helper and mentor in the ways of NC{blue,bold}
+
+~
+466 0 1
+D2
+~
+~
+0 -1 46607
+D3
+~
+~
+0 -1 46609
+Z0
+C-1
+R0
+S
+#46609
+{GREEN,BOLD}Sukiyaki{green,bold}~
+
+{GREEN,BOLD} You are in the midst of the godly room of Sukiyaki!
+{GREEN,BOLD} A dear and kingly family member. From birth to death
+{GREEN,BOLD} He's got my back. The one the only SUKIYAKI!{green,bold}
+
+~
+466 0 1
+D1
+~
+~
+0 -1 46608
+D2
+~
+~
+0 -1 46606
+Z0
+C-1
+R0
+S
+#46610
+{CYAN,BOLD}Mail Room{cyan,bold}~
+
+{CYAN,BOLD} You better get out before XxX finds you going through his mail!{cyan,bold}
+
+~
+466 0 1
+D4
+~
+~
+0 -1 46606
+Z0
+C-1
+R0
+S
+#46611
+{BLACK,BOLD}The beginning of the hall{black,bold}~
+
+{BLACK,BOLD} In this hall, you will see the work XxX has done.
+{BLACK,BOLD} From his first zone, to his last zone. Don't be angry
+{BLACK,BOLD} If there are rooms you cannot get into. They are
+{BLACK,BOLD} closed for a good reason.{black,bold}
+
+~
+466 0 1
+D0
+~
+~
+0 -1 46614
+D1
+~
+~
+0 -1 46613
+D3
+~
+~
+0 -1 46612
+D5
+~
+~
+0 -1 46606
+Z0
+C-1
+R0
+S
+#46612
+{BLUE,BOLD}Immortal{blue,bold}~
+
+{BLUE,BOLD} XxX got finished being the newbie Immortal. Gratz!{blue,bold}
+
+~
+466 0 1
+D1
+~
+~
+0 -1 46611
+Z0
+C-1
+R0
+S
+#46613
+{WHITE,BOLD}CREATOR{white,bold}~
+
+{WHITE,BOLD} XxX's is a CREATOR. A builder of Zones.{white,bold}
+
+~
+466 0 1
+D3
+~
+~
+0 -1 46611
+Z0
+C-1
+R0
+S
+#46614
+{BLACK,BOLD}Farther down the Hallway{black,bold}~
+
+{BLACK,BOLD} You have gotten farther down the hallway! Are you sure you want to see more?{black,bold}
+
+~
+466 0 1
+D0
+~
+~
+0 -1 46617
+D1
+~
+~
+0 -1 46616
+D2
+~
+~
+0 -1 46611
+D3
+~
+~
+0 -1 46615
+Z0
+C-1
+R0
+S
+#46615
+{RED,BOLD}Pillar of Autumn{red,bold}~
+
+{RED,BOLD} This is XxX's first work of art. The very first zone he made.
+{RED,BOLD} It is an advanced zone that requires a group of atleast 4 characters
+{RED,BOLD} Unless are a "Anonymous"{red,bold}
+
+~
+466 0 1
+D1
+~
+~
+0 -1 46614
+Z0
+C-1
+R0
+S
+#46616
+{GREEN,BOLD}Dark Brotherhood{green,bold}~
+
+{GREEN,BOLD}XxX's second zone!
+{GREEN,BOLD}This is his favorite so far.
+{GREEN,BOLD}It takes you through the path of killing.
+{GREEN,BOLD}And if you are lucky. You will meet the
+{CYAN,BOLD}NIGHT MOTHER!{cyan,bold}
+
+~
+466 0 1
+D3
+~
+~
+0 -1 46614
+Z0
+C-1
+R0
+S
+#46617
+{BLACK,BOLD}Hallway{black,bold}~
+
+{BLACK,BOLD}XxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXx
+{RED,BOLD}XxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXx
+{BLUE,BOLD}XxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXx
+{GREEN,BOLD}XxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXx{green,bold}
+
+~
+466 0 1
+D1
+~
+~
+0 -1 46618
+D2
+~
+~
+0 -1 46614
+D3
+~
+~
+0 -1 46618
+Z0
+C-1
+R0
+S
+#46618
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 0 1
+D1
+~
+~
+0 -1 46617
+D3
+~
+~
+0 -1 46617
+M51
+Z0
+C-1
+R0
+S
+#46619
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 0 1
+Z0
+C-1
+R0
+S
+#46620
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 0 1
+Z0
+C-1
+R0
+S
+#46621
+{BLACK,BOLD}XxX!~
+
+{cyan} {BLACK,BOLD}  XXXXXXXXXXXXX            XXXXXXXXXXXXX
+{cyan} {green} {BLACK,BOLD}  XXXXXXXXXXXXX          XXXXXXXXXXXXX
+{cyan} {green} {cyan} {BLACK,BOLD}  XXXXXXXXXXXXX        XXXXXXXXXXXXX
+{cyan} {green} {cyan} {green} {BLACK,BOLD}  XXXXXXXXXXXXX      XXXXXXXXXXXXX
+{cyan} {green} {cyan} {green} {cyan} {BLACK,BOLD}  XXXXXXXXXXXXX    XXXXXXXXXXXXX
+{cyan} {green} {cyan} {green} {cyan} {green} {BLACK,BOLD}  XXXXXXXXXXXXX  XXXXXXXXXXXXX
+{cyan} {green} {cyan} {green} {cyan} {green} {cyan} {BLACK,BOLD}  XXXXXXXXXXXXXXXXXXXXXXXXXX
+{cyan} {green} {cyan} {green} {cyan} {green} {BLACK,BOLD}  XXXXXXXXXXXXX  XXXXXXXXXXXXX
+{cyan} {green} {cyan} {green} {cyan} {BLACK,BOLD}  XXXXXXXXXXXXX    XXXXXXXXXXXXX
+{cyan} {green} {cyan} {green} {BLACK,BOLD}  XXXXXXXXXXXXX      XXXXXXXXXXXXX
+{cyan} {green} {cyan} {BLACK,BOLD}  XXXXXXXXXXXXX        XXXXXXXXXXXXX
+{cyan} {green} {BLACK,BOLD}  XXXXXXXXXXXXX          XXXXXXXXXXXXX
+{cyan} {BLACK,BOLD}  XXXXXXXXXXXXX            XXXXXXXXXXXXX
+
+~
+466 0 1
+D0
+~
+~
+0 -1 46622
+Z0
+C-1
+R0
+S
+#46622
+{RED,BOLD}Peeshu's Den{red,bold}~
+{cyan} {RED,BOLD}  In honor of one of the best NCer's alive!
+{cyan} {RED,BOLD}  Cheers to Peeshu!
+
+~
+466 0 1
+D2
+~
+~
+0 -1 46621
+Z0
+C-1
+R0
+S
+#46623
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46624
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46625
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46626
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46627
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46628
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46629
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46630
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46631
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46632
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46633
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46634
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46635
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46636
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46637
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46638
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46639
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46640
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46641
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46642
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46643
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46644
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46645
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46646
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46647
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46648
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46649
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46650
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46651
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46652
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46653
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46654
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46655
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46656
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46657
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46658
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46659
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46660
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46661
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46662
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46663
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46664
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46665
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46666
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46667
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46668
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46669
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46670
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46671
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46672
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46673
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46674
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46675
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46676
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46677
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46678
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46679
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46680
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46681
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46682
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46683
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46684
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46685
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46686
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46687
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46688
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46689
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46690
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46691
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46692
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46693
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46694
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46695
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46696
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46697
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46698
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 262144 1
+Z0
+C-1
+R0
+S
+#46699
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+466 0 1
+Z0
+C-1
+R0
+S
+$~

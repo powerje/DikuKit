@@ -1,0 +1,907 @@
+#37000
+{B,BO} In the cul-de-sac before the gates {b,bo}~
+
+    {CYAN,BO}There is a huge gate laying ahead.  The gate itself
+    is one hundred feet high and about fourty feet wide.
+    About thirty sentary's are guarding it at the moment
+    making it extremly unpenetrable.
+
+~
+370 0 1
+D0
+~
+gate~
+6 -1 37002
+D2
+~
+~
+0 -1 32981
+X512
+Z0
+C-1
+S
+#37001
+{W,BO}STAGING ROOM FOR AMBUSHING MOBS{w,bo}~
+You are standing in nowhere !!!!
+~
+370 0 1
+D5
+~
+~
+0 -1 37000
+Z0
+C-1
+S
+#37002
+{B}Before the Central Keep{b}~
+
+    {CYAN,BO}This is the Donjon, the central keep.
+    Seven or eight stories high, pointed
+    gables with curved roofs at each level.
+    The tiles all gilded and the walls
+    blue.
+
+~
+370 0 1
+D1
+~
+~
+0 -1 37005
+D2
+~
+gate~
+1 -1 37000
+D4
+~
+~
+0 -1 37003
+Z0
+C-1
+S
+#37003
+{B}A wide staircase{b}~
+
+    {CYAN,BO}These stairs are made of solid marble, and are
+    extremly steep and high.
+
+~
+370 0 1
+D4
+~
+~
+0 -1 37026
+D5
+~
+~
+0 -1 37002
+Z0
+C-1
+S
+#37004
+{B}The door to the tower{b}~
+
+    {CYAN,BO}The door here's enermous, it's @
+~
+370 262144 1
+Z0
+C-1
+S
+#37005
+{B}approching the battlements{b}~
+
+    {CYAN,BO}The battlements of Osaka Castle run all to all
+    the turrets of Osaka they're very high and provide
+    both a nice platform to see out of the castle, but
+    also to see what's going on below.
+
+~
+370 0 1
+D3
+~
+~
+0 -1 37002
+D4
+~
+~
+0 -1 37006
+Z0
+C-1
+S
+#37006
+{B}The stairs to the battlements{b}~
+
+    {CYAN,BO}The stairs, unlike everything else in Osaka
+    are made of wood, so they can be easily burnt
+    if invaders attempt to climb them.
+
+~
+370 4 1
+D4
+~
+~
+0 -1 37007
+D5
+~
+~
+0 -1 37005
+Z0
+C1
+S
+#37007
+{B}The battlements{b}~
+
+    {CYAN,BO}The battlements are nice and wide, the walls on
+    either side are checkered with a large wall, then 
+    an empty space, for defenders to either shoot an 
+    arrow through or to take cover from returning fire.
+
+~
+370 0 1
+D0
+~
+~
+0 -1 37023
+D2
+~
+~
+0 -1 37008
+D5
+~
+~
+0 -1 37006
+Z0
+C-1
+S
+#37008
+{B}The battlements{b}~
+
+    {CYAN,BO}The battlements are nice and wide, the walls on
+    either side are checkered with a large wall, then 
+    an empty space, for defenders to either shoot an 
+    arrow through or to take cover from returning fire.
+
+~
+370 0 1
+D0
+~
+~
+0 -1 37007
+D1
+~
+~
+0 -1 37025
+D2
+~
+~
+0 -1 37009
+Z17
+C-1
+S
+#37009
+{B}The battlements{b}~
+
+    {CYAN,BO}The battlements are nice and wide, the walls on
+    either side are checkered with a large wall, then 
+    an empty space, for defenders to either shoot an 
+    arrow through or to take cover from returning fire.
+
+~
+370 0 1
+D0
+~
+~
+0 -1 37008
+D3
+~
+~
+0 -1 37010
+Z0
+C-1
+S
+#37010
+{B}The battlements{b}~
+
+    {CYAN,BO}The battlements are nice and wide, the walls on
+    either side are checkered with a large wall, then 
+    an empty space, for defenders to either shoot an 
+    arrow through or to take cover from returning fire.
+
+~
+370 0 1
+D1
+~
+~
+0 -1 37009
+D3
+~
+~
+0 -1 37011
+Z0
+C-1
+S
+#37011
+{B}The battlements{b}~
+
+    {CYAN,BO}The battlements are nice and wide, the walls on
+    either side are checkered with a large wall, then 
+    an empty space, for defenders to either shoot an 
+    arrow through or to take cover from returning fire.
+
+~
+370 0 1
+D1
+~
+~
+0 -1 37010
+D2
+~
+~
+0 -1 37012
+Z0
+C-1
+S
+#37012
+{B}The battlements{b}~
+
+    {CYAN,BO}The battlements are nice and wide, the walls on
+    either side are checkered with a large wall, then 
+    an empty space, for defenders to either shoot an 
+    arrow through or to take cover from returning fire.
+
+~
+370 0 1
+D0
+~
+~
+0 -1 37011
+D3
+~
+~
+0 -1 37013
+Z0
+C-1
+S
+#37013
+{B}The battlements{b}~
+
+    {CYAN,BO}The battlements are nice and wide, the walls on
+    either side are checkered with a large wall, then 
+    an empty space, for defenders to either shoot an 
+    arrow through or to take cover from returning fire.
+
+~
+370 0 1
+D1
+~
+~
+0 -1 37012
+D3
+~
+~
+0 -1 37014
+Z0
+C-1
+S
+#37014
+{B}The battlements{b}~
+
+    {CYAN,BO}The battlements are nice and wide, the walls on
+    either side are checkered with a large wall, then 
+    an empty space, for defenders to either shoot an 
+    arrow through or to take cover from returning fire.
+
+~
+370 0 1
+D1
+~
+~
+0 -1 37013
+D2
+~
+~
+0 -1 32920
+Z0
+C-1
+S
+#37015
+{B}The battlements{b}~
+
+    {CYAN,BO}The battlements are nice and wide, the walls on
+    either side are checkered with a large wall, then 
+    an empty space, for defenders to either shoot an 
+    arrow through or to take cover from returning fire.
+
+~
+370 0 1
+D0
+~
+~
+0 -1 37016
+D1
+~
+~
+0 -1 32920
+Z0
+C-1
+S
+#37016
+{B}The battlements{b}~
+
+    {CYAN,BO}The battlements are nice and wide, the walls on
+    either side are checkered with a large wall, then 
+    an empty space, for defenders to either shoot an 
+    arrow through or to take cover from returning fire.
+
+~
+370 0 1
+D0
+~
+~
+0 -1 37017
+D2
+~
+~
+0 -1 37015
+Z0
+C-1
+S
+#37017
+{B}The battlements{b}~
+
+    {CYAN,BO}The battlements are nice and wide, the walls on
+    either side are checkered with a large wall, then 
+    an empty space, for defenders to either shoot an 
+    arrow through or to take cover from returning fire.
+
+~
+370 0 1
+D0
+~
+~
+0 -1 37018
+D2
+~
+~
+0 -1 37016
+Z0
+C-1
+S
+#37018
+{B}The battlements{b}~
+
+    {CYAN,BO}The battlements are nice and wide, the walls on
+    either side are checkered with a large wall, then 
+    an empty space, for defenders to either shoot an 
+    arrow through or to take cover from returning fire.
+
+~
+370 0 1
+D2
+~
+~
+0 -1 37017
+D3
+~
+~
+0 -1 32941
+Z0
+C-1
+S
+#37019
+{B}The battlements{b}~
+
+    {CYAN,BO}The battlements are nice and wide, the walls on
+    either side are checkered with a large wall, then 
+    an empty space, for defenders to either shoot an 
+    arrow through or to take cover from returning fire.
+
+~
+370 0 1
+D1
+~
+~
+0 -1 37020
+D2
+~
+~
+0 -1 32941
+Z0
+C-1
+S
+#37020
+{B}The battlements{b}~
+
+    {CYAN,BO}The battlements are nice and wide, the walls on
+    either side are checkered with a large wall, then 
+    an empty space, for defenders to either shoot an 
+    arrow through or to take cover from returning fire.
+
+~
+370 0 1
+D1
+~
+~
+0 -1 37021
+D3
+~
+~
+0 -1 37019
+Z0
+C-1
+S
+#37021
+{B}The battlements{b}~
+
+    {CYAN,BO}The battlements are nice and wide, the walls on
+    either side are checkered with a large wall, then 
+    an empty space, for defenders to either shoot an 
+    arrow through or to take cover from returning fire.
+
+~
+370 0 1
+D1
+~
+~
+0 -1 37022
+D3
+~
+~
+0 -1 37020
+Z0
+C-1
+S
+#37022
+{B}The battlements{b}~
+
+    {CYAN,BO}The battlements are nice and wide, the walls on
+    either side are checkered with a large wall, then 
+    an empty space, for defenders to either shoot an 
+    arrow through or to take cover from returning fire.
+
+~
+370 0 1
+D0
+~
+~
+0 -1 37024
+D1
+~
+~
+0 -1 37023
+D3
+~
+~
+0 -1 37021
+Z0
+C-1
+S
+#37023
+{B}The battlements{b}~
+
+    {CYAN,BO}The battlements are nice and wide, the walls on
+    either side are checkered with a large wall, then 
+    an empty space, for defenders to either shoot an 
+    arrow through or to take cover from returning fire.
+
+~
+370 0 1
+D2
+~
+~
+0 -1 37007
+D3
+~
+~
+0 -1 37022
+Z0
+C-1
+S
+#37024
+{B}The Nothern Bastion{b}~
+
+    {CYAN,BO}A bastion is a part of the battlements or fortification
+    that protrudes so the commander of the defense can clearly
+    see the field of battle, also so attackers directly under
+    the wall can be dismissed.
+
+    It also happens to be the where the guards keep watch.
+
+~
+370 0 1
+D2
+~
+~
+0 -1 37022
+Z17
+C-1
+S
+#37025
+{B}The Eastern Bastion{b}~
+
+    {CYAN,BO}A bastion is a part of the battlements or fortification
+    that protrudes so the commander of the defense can clearly
+    see the field of battle, also so attackers directly under
+    the wall can be dismissed.
+
+    It also happens to be the where the guards keep watch.
+
+~
+370 0 1
+D3
+~
+~
+0 -1 37008
+Z0
+C-1
+S
+#37026
+{B}The Main Tower{b}~
+
+    {CYAN,BO}The main tower's even more massive now that it's
+    up close and personal.  Maybe you'd be better
+    served by turning around and going home.
+
+~
+370 0 1
+D0
+~
+~
+0 -1 37027
+D5
+~
+~
+0 -1 37003
+Z0
+C-1
+S
+#37027
+{B}The Enterance Hall{b}~
+
+    {CYAN,BO}The enterance hall is fairly small compared to the
+    grandor of the exterior.  The donjon was built for
+    practical purposes apparently.
+
+~
+370 0 1
+D2
+~
+~
+0 -1 37026
+Z0
+C-1
+S
+#37028
+This is nowhere.~
+
+    {CYAN,BO}You're in a hallway lined with scrolls that say
+    something in Japaneese which you don't understand.
+
+~
+370 0 1
+Z0
+C-1
+S
+#37029
+This is nowhere.~
+
+    {CYAN,BO}You're in a hallway lined with scrolls that say
+    something in Japaneese which you don't understand.
+
+~
+370 0 1
+Z0
+C-1
+S
+#37030
+This is nowhere.~
+
+    {CYAN,BO}The gallery is the cumulative collection of thousands
+    of years of Japaeese art and culture.
+
+~
+370 0 1
+Z0
+C-1
+S
+#37031
+{B}The armor exibit{b}~
+
+    {CYAN,BO}The Japaneese armor throughout the years hasn't really
+    changed, the Japaneese just collect ceremonial armor.
+
+~
+370 0 1
+D1
+~
+~
+0 -1 37032
+Z0
+C1
+S
+#37032
+{B}In the Gallery{b}~
+
+    {CYAN,BO}The gallery is the cumulative collection of thousands
+    of years of Japaeese art and culture.
+
+~
+370 0 1
+D0
+~
+~
+0 -1 37034
+D2
+~
+~
+0 -1 37033
+D3
+~
+~
+0 -1 37031
+Z0
+C2
+S
+#37033
+{B}The swords exibit{b}~
+
+    {CYAN,BO}There's hundreds of Japaneese samurai swords and seppku
+    daggers on display here.
+
+~
+370 0 1
+D0
+~
+~
+0 -1 37032
+Z0
+C1
+S
+#37034
+{B}The Painting Exibit{b}~
+
+    {CYAN,BO}The paintings here aren't simular to European paintings.
+    the Japaneese appreciate the form the painter used, rather
+    than the content of his paintings.  The lines of the brush
+    strokes and spacing of charaters.
+
+~
+370 128 1
+D2
+~
+~
+0 -1 37032
+Z0
+C-1
+S
+#37035
+{B}A tiny hallway barely wide enough to fit through{b}~
+
+    {CYAN,BO}The passage way's small, servants are expected to walk
+    it hundreds of times a day to wait on their liege lords.
+
+~
+370 0 1
+D0
+~
+~
+0 -1 37036
+Z0
+C2
+S
+#37036
+{B}A tiny hallway barely wide enough to fit through{b}~
+
+    {CYAN,BO}The passage way's small, servants are expected to walk
+    it hundreds of times a day to wait on their liege lords.
+
+~
+370 0 1
+D2
+~
+~
+0 -1 37035
+D5
+~
+~
+0 -1 37037
+Z0
+C-1
+S
+#37037
+{B}In the kitchen{b}~
+
+    {CYAN,BO}There's all sorts of exotic sea creatures in the
+    kitchen.
+
+~
+370 8208 1
+D3
+~
+~
+0 -1 37038
+D4
+~
+~
+0 -1 37036
+Z0
+C-1
+S
+#37038
+{B}The sushi table{b}~
+
+    {CYAN,BO}This is where Morimoto prepares his raw
+    dishes.  There is several kinds of sea
+    creatures on the cutting board here, and
+    there's a rack of knives on the wall, with
+    one missing.....
+
+~
+370 0 1
+D1
+~
+~
+0 -1 37037
+D2
+~
+~
+0 -1 37039
+Z0
+C-1
+S
+#37039
+{B}The hot kitchen{b}~
+
+    {CYAN,BO}Although much of the Japaneese diet revolves
+    around raw fish, there is several dishes that
+    require heat.
+
+~
+370 262144 1
+D0
+~
+~
+0 -1 37038
+D1
+~
+~
+0 -1 37040
+D3
+~
+~
+0 -1 37041
+Z0
+C-1
+S
+#37040
+{B}The hot kitchen{b}~
+
+    {CYAN,BO}Although much of the Japaneese diet revolves
+    around raw fish, there is several dishes that
+    require heat.
+
+~
+370 16 1
+D3
+~
+~
+0 -1 37039
+Z0
+C-1
+S
+#37041
+{B}A dim hallway{b}~
+
+    {CYAN,BO}A small hallway leading toward a light
+
+~
+370 4 1
+D0
+~
+~
+0 -1 37042
+D1
+~
+~
+0 -1 37039
+Z0
+C-1
+S
+#37042
+{B}The Servant's Quarters{b}~
+
+    {CYAN,BO}Several of the servants of the donjon live down here
+    in the depths of the castle.  There's no natural light
+    and only several flickering candles here and there. But
+    all togeather the living conditions aren't too bad when
+    compared to living conditions in the west.
+
+
+~
+370 262144 1
+D0
+~
+~
+0 -1 37043
+D2
+~
+~
+0 -1 37041
+Z0
+C-1
+S
+#37043
+{B}The Servant's Quarters{b}~
+
+    {CYAN,BO}Several of the servants of the donjon live down here
+    in the depths of the castle.  There's no natural light
+    and only several flickering candles here and there. But
+    all togeather the living conditions aren't too bad when
+    compared to living conditions in the west.
+
+
+~
+370 262144 1
+D2
+~
+~
+0 -1 37042
+Z0
+C-1
+S
+#37096
+{B}The Seventh Level{b}~
+You are standing in nowhere !!!!
+~
+370 0 1
+D0
+~
+~
+0 -1 37097
+Z0
+C-1
+S
+#37097
+{B}The Anterroom{b}~
+You are standing in nowhere !!!!
+~
+370 0 1
+D0
+~
+~
+0 -1 37098
+D2
+~
+~
+0 -1 37096
+Z0
+C-1
+S
+#37098
+{B}The {W}Great {B}Room{b}~
+
+    {CYAN,BO}Inside this room, three of the regents are meeting
+    to decide the path to war they will take.
+
+~
+370 0 1
+D2
+~
+~
+0 -1 37097
+Z0
+C-1
+S
+#37099
+{B}A{BLU}e{B}n{BLU}i{B}m{BLU}a{B}'{BLU}s {B}T{BLU}r{B}a{BLU}i{B}l{BLU}o{B}r{b}~
+
+    {B}Yeah, it's a trailor, so what?  What's it to you pal?
+    You got a problem with the fact that I live in a
+    trailor?  Fucking asshole.
+
+~
+370 2160148609 1
+X4126
+Z0
+C-1
+S
+$~

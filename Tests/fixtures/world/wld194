@@ -1,0 +1,1937 @@
+#19400
+A Narrow Trench~
+  It appears that you have stumbled upon a path leads away from the
+putrid marsh.  The path, worn from centuries of use, stands before
+you.  Along its edges can be seen small animals of various colours.  Oaks,
+maples, and elms seem to make up this small enclave.  Further to the
+east you see a small mound of earth rising to meet the sky.
+~
+194 1029 3
+D1
+~
+~
+0 -1 19401
+D5
+~
+~
+0 -1 19449
+Z3
+C-1
+S
+#19401
+Along the Trench~
+  As you continue down the path you slowly start to notice a change
+in the local vegetation.  Small bushes of various sizes now make up
+the colourful landscape.  Overhead can be seen both birds of prey
+and birds of fancy.  In all, this seems to be a somewhat peaceful land.
+As you return to the path, you notice that the large mound of earth
+you saw earlier is just over the horizon.
+~
+194 1025 3
+D1
+~
+~
+0 -1 19402
+D3
+~
+~
+0 -1 19400
+Z3
+C-1
+S
+#19402
+A Mound of Earth~
+  It appears that you have finally reached the end of the path.  A large,
+yet natural, mound of earth now stands before you.  Flowers of every
+colour cover its sod exterior.   Hundreds of insects seem to dance with
+delight as they go about gathering their precious nectar.
+
+  To your dismay, a door appears to have been cut directly into the mound.
+It's wooden frame shows signs of neglect, but other than than that, it
+appears to be in good working order.
+~
+194 1025 3
+D1
+An old, yet usuable, door stands before you.
+~
+door~
+4 19400 19403
+D3
+~
+~
+0 -1 19401
+Z3
+C-1
+S
+#19403
+The Sod House~
+  You appear to be standing in what seems to be a house.  Each wall
+is blanketed with large oaken beams which support the enterior.  Debris
+of all shapes and sizes has been scattered throughout the house.  Pieces
+of moldy bread seem to have been discarded in haste - almost as if the
+previous occupant didn't have time to collect his things before his
+untimely departure.
+
+  Towards the back of the house you see a small burrow.  From the looks
+of things, this is a somewhat new addition to the house.
+~
+194 16794629 0
+D1
+~
+~
+0 -1 19404
+D3
+An old, yet usuable, door stands before you.
+~
+door~
+4 19400 19402
+X512
+Z3
+C-1
+S
+#19404
+A Hollowed Out Cavern~
+  You seem to have entered a large and mysterious cavern.  Various
+tools of labour have been left behind - showing that this cavern was
+created by the hands of man.  Torches, resting in rusted iron sconces,
+help illuminate the dreary landscape.
+~
+194 16794625 0
+D0
+~
+~
+0 -1 19407
+D2
+~
+~
+0 -1 19410
+D3
+~
+~
+0 -1 19403
+X512
+Z3
+C-1
+S
+#19405
+The Crevice of Taleisin~
+  It appears that you have found the center of this large and mysterious
+cavern.  A large altar, contructed of both oak and maple, stands before
+you.  The carcasses of a striped goat, a dog, and a pig surround the
+dark altar.
+
+  The chant of, "Death from life.  Life from Death.  Take me.  Take me."
+can be heard echoing off of the root infested walls.
+~
+194 16794629 0
+D4
+An Illusion flickers into view...
+~
+Illusion~
+1 19401 19406
+X512
+Z3
+C-1
+S
+#19406
+Above the Crevice~
+  You stand above a large crevice that has been cut deep into the earth.
+As you study the crevice, you notice that something large lingers deep
+within the shadows.  A strange, yet familiar,  chant can be heard from
+below.
+~
+194 16794625 0
+D0
+~
+~
+0 -1 19409
+D2
+~
+~
+0 -1 19412
+D5
+~
+Illusion~
+1 -1 19405
+X512
+Z3
+C-1
+S
+#19407
+A Hollowed Out Cavern~
+  You seem to have entered a large and mysterious cavern.  Various
+tools of labour have been left behind - showing that this cavern was
+created by the hands of man.  Torches, resting in rusted iron sconces,
+help illuminate the dreary landscape.
+~
+194 16794625 0
+D1
+~
+~
+0 19405 19408
+D2
+~
+~
+0 -1 19404
+X512
+Z3
+C-1
+S
+#19408
+A Hollowed Out Cavern~
+  You seem to have entered a large and mysterious cavern.  Various
+tools of labour have been left behind - showing that this cavern was
+created by the hands of man.  Torches, resting in rusted iron sconces,
+help illuminate the dreary landscape.
+~
+194 16794625 0
+D1
+~
+~
+0 -1 19409
+D3
+~
+~
+0 -1 19407
+X512
+Z3
+C-1
+S
+#19409
+A Hollowed Out Cavern~
+  You seem to have entered a large and mysterious cavern.  Various
+tools of labour have been left behind - showing that this cavern was
+created by the hands of man.  Torches, resting in rusted iron sconces,
+help illuminate the dreary landscape.
+~
+194 16794625 0
+D2
+~
+~
+0 -1 19406
+D3
+~
+~
+0 -1 19408
+X512
+Z3
+C-1
+S
+#19410
+A Hollowed Out Cavern~
+  You seem to have entered a large and mysterious cavern.  Various
+tools of labour have been left behind - showing that this cavern was
+created by the hands of man.  Torches, resting in rusted iron sconces,
+help illuminate the dreary landscape.
+~
+194 16794625 0
+D0
+~
+~
+0 -1 19404
+D1
+~
+~
+0 -1 19411
+X512
+Z3
+C-1
+S
+#19411
+A Hollowed Out Cavern~
+  You seem to have entered a large and mysterious cavern.  Various
+tools of labour have been left behind - showing that this cavern was
+created by the hands of man.  Torches, resting in rusted iron sconces,
+help illuminate the dreary landscape.
+~
+194 16794625 0
+D1
+~
+~
+0 -1 19412
+D3
+~
+~
+0 -1 19410
+X512
+Z3
+C-1
+S
+#19412
+A Hollowed Out Cavern~
+  You seem to have entered a large and mysterious cavern.  Various
+tools of labour have been left behind - showing that this cavern was
+created by the hands of man.  Torches, resting in rusted iron sconces,
+help illuminate the dreary landscape.
+
+  Along the east wall you notice that a large slab of granite has been
+set into the wall of dirt.  Along its outer edges you can faintly make out
+the lines of small entryway...
+~
+194 16794625 0
+D0
+~
+~
+0 -1 19406
+D1
+You see a large slab of dirt.  It appears that it can be opened...
+~
+Slab~
+4 19401 19413
+D3
+~
+~
+0 -1 19411
+X512
+Z3
+C-1
+S
+#19413
+A Hollowed Out Tunnel~
+  The walls that surround you are held aloft by large beams of oak and maple.
+Roots of various plants dangle directly overhead and cause you to crouch.
+As you continue onward you begin to hear the sound of water rushing
+through a mighty chamber.
+~
+194 16794629 1
+D1
+~
+~
+0 -1 19414
+D3
+~
+Slab~
+4 19401 19412
+Z3
+C-1
+S
+#19414
+A Hollowed Out Tunnel~
+  The walls that surround you are held aloft by large beams of oak and maple.
+Roots of various plants dangle directly overhead and cause you to crouch.
+As you continue onward you begin to hear the sound of water rushing
+through a mighty chamber.
+~
+194 16794625 1
+D0
+~
+~
+0 -1 19415
+D3
+~
+~
+0 -1 19413
+Z3
+C-1
+S
+#19415
+A Turn in the Hollowed Out Tunnel~
+  The walls that surround you are held aloft by large beams of oak and maple.
+Roots of various plants dangle directly overhead and cause you to crouch.
+As you continue onward you begin to hear the sound of water rushing through
+a mighty chamber.
+
+  As you start to turn the corner you catch a small object out of the corner
+of you eye.  As you draw near you notice that a ladder has been woven from
+the roots of a long dead tree.
+~
+194 16794625 1
+D1
+~
+~
+0 -1 19418
+D2
+~
+~
+0 -1 19414
+D4
+You notice a Trapdoor has been placed directly overhead.
+~
+Trapdoor~
+3 -1 19416
+Z3
+C-1
+S
+#19416
+A Small Landing~
+  You are standing a small five-foot by five-foot landing.  Large crates
+of food and other perishible items have been stacked along the northern
+wall.  To the north is a small structure that looks something like a shanty.
+~
+194 16794629 1
+D0
+The door is closed and locked.  Looks like you need to find the key.
+~
+Door~
+4 19402 19417
+D5
+You notice a Trapdoor has been placed directly into the earth.
+~
+Trapdoor~
+1 -1 19415
+Z3
+C-1
+S
+#19417
+A Shanty Within the Mound~
+  You stand within a small shanty made out of both maple and elm.  Its low
+ceiling makes it somewhat hard to stand totally upright.  Along the eastern
+wall rests both a desk and a filing cabinet.  A small pallet of miss-
+matched blankets has been thrown across an old motheaten matress. 
+~
+194 16794629 1
+D2
+A small door stands before you.
+~
+Door~
+3 19402 19416
+Z3
+C-1
+S
+#19418
+A Hollowed Out Tunnel~
+  The walls that surround you are held aloft by large beams of oak and maple.
+Roots of various plants dangle directly overhead and cause you to crouch.
+As you continue onward you begin to hear the sound of water rushing
+through a mighty chamber.
+~
+194 16794625 1
+D1
+~
+~
+0 -1 19419
+D3
+~
+~
+0 -1 19415
+Z3
+C-1
+S
+#19419
+A Hollowed Out Tunnel~
+  The walls that surround you are held aloft by large beams of oak and maple.
+Roots of various plants dangle directly overhead and cause you to crouch.
+As you continue onward you begin to hear the sound of water rushing
+through a mighty chamber.
+~
+194 16794625 1
+D1
+~
+~
+0 -1 19420
+D3
+~
+~
+0 -1 19418
+Z3
+C-1
+S
+#19420
+End of the Hollowed Out Tunnel~
+  The walls that surround you are held aloft by large beams of oak and maple.
+Roots of various plants dangle directly overhead and cause you to crouch.
+The sound of rushing water is slowly starting to rise.  Instead of the once
+hard-packed earth, the walls now seem to become softer, muddier...
+
+  Below you, woven from the roots of a long dead tree, is a ladder.  It
+appears that you now have two options.  Continue or leave.
+~
+194 16794625 1
+D3
+~
+~
+0 -1 19419
+D5
+~
+~
+0 -1 19421
+Z3
+C-1
+S
+#19421
+Down the Ladder~
+  You stand upon a large ladder woven from the roots of what appears
+to be an oak tree.  The walls here seem to press in on you as you make
+your way down the ladder.  As you glance overhead you notice that the
+roots of other trees now block your way.  You now only have one option -
+continue onward with your quest.
+~
+194 16794629 1
+D5
+~
+~
+0 -1 19422
+Z3
+C2
+S
+#19422
+A Small Enclave~
+  You seem to have reached the halfway point down the ladder.  A small
+niche has been cut into the earth to provide a short rest for your weary
+bones.  A bench, constructed of ceder, stands along the northern edge.
+As you pause for a breath of fresh air you get the sudden urge to move
+along - something is not right here...
+~
+194 16794629 1
+D4
+~
+~
+0 -1 19421
+D5
+A small trapdoor lies beneath the dust.
+~
+~
+4 19403 19423
+X143
+Z3
+C-1
+S
+#19423
+The Dome of Destruction~
+  You seem to have entered a small domed chamber.  Large marble blocks
+have been used to construct the dome.  Iron rings have been inserted
+into the dome just out of reach and appear to drip with a dark red
+substance.  A small case of lead rests near a stone door to the south.
+~
+194 16794629 1
+D2
+A large stone door stands before you.
+~
+Stone~
+4 19404 19424
+Z3
+C-1
+S
+#19424
+The Ancient Hallway~
+  Cobwebs surround you.  From what you can see, it appears that you
+are walking along a very old, and seldom used hallway.  Strange sigels
+have been etched into the stone.  As you look closer you realize that
+you might have discovered the lost realm of the Tapestry!
+~
+194 16794625 1
+D0
+A stone door looms before you.
+~
+Stone~
+4 19404 19423
+D3
+~
+~
+0 -1 19425
+Z3
+C-1
+S
+#19425
+The Ancient Hallway~
+  Cobwebs surround you.  From what you can see, it appears that you
+are walking along a very old, and seldom used hallway.  Strange sigels
+have been etched into the stone.  As you look closer you realize that
+you might have discovered the lost realm of the Tapestry!
+~
+194 16794625 1
+D1
+~
+~
+0 -1 19424
+D3
+~
+~
+0 -1 19426
+Z3
+C-1
+S
+#19426
+The Ancient Hallway~
+  Cobwebs surround you.  From what you can see, it appears that you
+are walking along a very old, and seldom used hallway.  Strange sigels
+have been etched into the stone.  As you look closer you realize that
+you might have discovered the lost realm of the Tapestry!
+~
+194 16794625 1
+D0
+~
+~
+0 -1 19427
+D1
+~
+~
+0 -1 19425
+Z3
+C-1
+S
+#19427
+The Ancient Hallway~
+  Cobwebs surround you.  From what you can see, it appears that you
+are walking along a very old, and seldom used hallway.  Strange sigels
+have been etched into the stone.  As you look closer you realize that
+you might have discovered the lost realm of the Tapestry!
+~
+194 16794625 1
+D2
+~
+~
+0 -1 19426
+D3
+~
+~
+0 -1 19428
+Z3
+C-1
+S
+#19428
+The Ancient Hallway~
+  Cobwebs surround you.  From what you can see, it appears that you
+are walking along a very old, and seldom used hallway.  Strange sigels
+have been etched into the stone.  As you look closer you realize that
+you might have discovered the lost realm of the Tapestry!
+~
+194 16794625 1
+D1
+~
+~
+0 -1 19427
+D2
+~
+~
+0 -1 19429
+Z3
+C-1
+S
+#19429
+The Ancient Hallway~
+  Cobwebs surround you.  From what you can see, it appears that you
+are walking along a very old, and seldom used hallway.  Strange sigels
+have been etched into the stone.  As you look closer you realize that
+you might have discovered the lost realm of the Tapestry!
+~
+194 16794625 1
+D0
+~
+~
+0 -1 19428
+D2
+~
+~
+0 -1 19430
+Z3
+C-1
+S
+#19430
+The Ancient Gates of Klennan~
+  It appears that you have found your way to the mythical Gates of Klennan.  Two
+large gates stand before you.  Reaching from the floor to the ceiling, the gates
+still shine with awe and power.  Small diamonds and rubies have been enlayed
+into each bar - casting a rainbow of colours across the room.
+
+  Beyond the gates can be seen the lost city of Klennan, home of the Tapestry.  Hope
+fills your soul as you realize that you have almost reached your destination!
+~
+194 16794629 1
+D0
+~
+~
+0 -1 19429
+D2
+Legend has it that these doors were constructed by the gods themselves.  As you step
+closer you notice that the names Judas, Morlock, Forge, LSD, Zepher, Portia, Zoharn,
+Guard, Creator, and Nomad have been etched along each horizontal bar.
+~
+Iron Gates~
+4 19405 19431
+Z3
+C-1
+S
+#19431
+The Lost City of Klennan~
+  History has it that this "city" was once the most powerful city in all the land.
+Now it appears to be nothing more than a ghost town.  Constructed before the time
+of legends, each building looks like it would crumble with the slightest touch. 
+
+  Small tufts of smoke rise to the high ceiling above and swirl in eerie patterns.
+The walkways, which legend describes as "golden", appear to be nothing more than
+crushed limestone and mud.
+~
+194 16794625 1
+D0
+Legend has it that these doors were constructed by the gods themselves.  As you step
+closer you notice that the names Judas, Morlock, Forge, LSD, Zepher, Portia, Zoharn,
+Guard, Creator, and Nomad have been etched along each horizontal bar.
+~
+Iron Gates~
+4 19405 19430
+D2
+~
+~
+0 -1 19432
+Z3
+C-1
+S
+#19432
+A Crossroads on the "Golden Walkway"~
+  As you walk along the "Golden" Walkway you get the feeling that this land still
+holds some power.  A small cairn stands at every corner showing the lost souls of
+long dead travelers.  Above each building, hanging listless in the wind, is a
+sign depicting the "Skull and Crossbones" - death has reached these doors.
+
+  An old song your mother used to sing to you slowly starts to surface in your
+memory.  It goes something like this, "Klennan, magical and pure.  Klennan, sold
+their souls for sure.  Klennan, now dead and gone.  Klennan, lost to the
+beyond."
+
+  The "Golden Walkway" leads to both the east and west.  To the north stands
+the "Mythical Gates of Klennan".  To the south you see a small vortex of
+energy.
+~
+194 16794625 1
+D0
+~
+~
+0 -1 19431
+D1
+~
+~
+0 -1 19436
+D2
+A Vortex of Energy pulls you in...
+~
+Vortex~
+4 19406 19439
+D3
+~
+~
+0 -1 19433
+Z3
+C-1
+S
+#19433
+The "Golden" Walkway of Klennan~
+  As you walk along the "Golden" Walkway you get the feeling that this land still
+holds some power.  A small cairn stands at every corner showing the lost souls of
+long dead travelers.  Above each building, hanging listless in the wind, is a
+sign depicting the "Skull and Crossbones" - death has reached these doors.
+
+  An old song your mother used to sing to you slowly starts to surface in your
+memory.  It goes something like this, "Klennan, magical and pure.  Klennan, sold
+their souls for sure.  Klennan, now dead and gone.  Klennan, lost to the
+beyond."
+~
+194 16794625 1
+D1
+~
+~
+0 -1 19432
+D2
+~
+~
+0 -1 19434
+Z3
+C-1
+S
+#19434
+The "Golden" Walkway of Klennan~
+  As you walk along the "Golden" Walkway you get the feeling that this land still
+holds some power.  A small cairn stands at every corner showing the lost souls of
+long dead travelers.  Above each building, hanging listless in the wind, is a
+sign depicting the "Skull and Crossbones" - death has reached these doors.
+
+  An old song your mother used to sing to you slowly starts to surface in your
+memory.  It goes something like this, "Klennan, magical and pure.  Klennan, sold
+their souls for sure.  Klennan, now dead and gone.  Klennan, lost to the
+beyond."
+~
+194 16794625 1
+D0
+~
+~
+0 -1 19433
+D3
+A large wooden door stands before you.
+~
+Door~
+4 19405 19435
+Z3
+C-1
+S
+#19435
+The Immortal Mystik of Klennan~
+  You have entered a somewhat large hut constructed of limestone, oak, and mud.
+Mounted on each wall rests wooden shelves crammed with hundereds of vials.  A
+small pit has been dug out of the earth.  Within the pit can be seen the remains
+of animals, wood, and various cooking devices. 
+
+  A cold wind sweeps through the room from the east and reveals a small picture
+on the northern wall.  The picture seems to show Klennan in its prime.  When it
+was the cultural center of the land.
+~
+194 16794629 1
+D1
+A door stands before you.
+~
+Door~
+4 19405 19434
+Z3
+C-1
+S
+#19436
+The "Golden" Walkway of Klennan~
+  As you walk along the "Golden" Walkway you get the feeling that this land still
+holds some power.  A small cairn stands at every corner showing the lost souls of
+long dead travelers.  Above each building, hanging listless in the wind, is a
+sign depicting the "Skull and Crossbones" - death has reached these doors.
+
+  An old song your mother used to sing to you slowly starts to surface in your
+memory.  It goes something like this, "Klennan, magical and pure.  Klennan, sold
+their souls for sure.  Klennan, now dead and gone.  Klennan, lost to the
+beyond."
+~
+194 16794625 1
+D2
+~
+~
+0 -1 19437
+D3
+~
+~
+0 -1 19432
+Z3
+C-1
+S
+#19437
+The "Golden" Walkway of Klennan~
+  As you walk along the "Golden" Walkway you get the feeling that this land still
+holds some power.  A small cairn stands at every corner showing the lost souls of
+long dead travelers.  Above each building, hanging listless in the wind, is a
+sign depicting the "Skull and Crossbones" - death has reached these doors.
+
+  An old song your mother used to sing to you slowly starts to surface in your
+memory.  It goes something like this, "Klennan, magical and pure.  Klennan, sold
+their souls for sure.  Klennan, now dead and gone.  Klennan, lost to the
+beyond."
+~
+194 16794625 1
+D0
+~
+~
+0 -1 19436
+D1
+A large wooden door stands before you.
+~
+Door~
+4 19407 19438
+Z3
+C-1
+S
+#19438
+The Immortal Lord of Klennan~
+  This appears to be the most extravagant hut in all of Klennan.  The entire
+structure has been constructed of granite bricks and cured oak.  Unlike the
+other huts, where twigs make up the ceiling, this hut has shingles made
+out of overlaping limestone slats.
+
+  Along the southern wall stands the only furniture that you have seen - a
+small maple desk of primitive design.  Ancient remnants of paper and other
+writing utensils are heaped towards one corner.
+~
+194 16794629 1
+D3
+A large wooden door stands before you.
+~
+Door~
+4 19407 19437
+Z3
+C-1
+S
+#19439
+Outside the Vortex of Klennan~
+  You stand just outside of a maelstrom of colour.  Each colour is represented
+red, green, purple, yellow, blue, orange, white, and black.  As your senses
+try to fathom what you are seeing, the vortex slowly coalesces into a dark 
+and mysterious doorway.
+~
+194 16794625 1
+D0
+A Vortex of Energy pulls you in...
+~
+Vortex~
+4 19406 19432
+D2
+The Vortex.
+~
+Door~
+4 19408 19440
+Z3
+C-1
+S
+#19440
+The Vortex of Klennan~
+  You float within a sphere of nothingness.  Each colour of the rainbow has
+been constructed into walls of power which surround you.  The feeling of
+helplessness slowly starts to overtake you.  Your throat begins to itch and
+your loins quiver in fear as you realize that this is the beinning of the
+begining of the end...
+
+  Your only hope of escape is a small opening, a door, which fades in and out
+of existance below you.
+~
+194 16794625 1
+D0
+Outside the Vortex.
+~
+Door~
+4 19408 19439
+D5
+~
+~
+0 -1 3001
+Z3
+C-1
+S
+#19441
+The Dream of Klennan~
+  You stand within a long and winding tube of energy.  The walls, floor, and
+ceiling are made of a pure and pulsating light.  A slow, and methodical, hum-
+ming noise can be heard - making it almost impossible to concentrate.  You
+only have one option - continue forward.
+~
+194 22037649 1
+D2
+~
+~
+0 -1 19442
+Z3
+C-1
+S
+#19442
+The Dream of Klennan~
+  You stand within a long and winding tube of energy.  The walls, floor, and
+ceiling are made of a pure and pulsating light.  A slow, and methodical, hum-
+ming noise can be heard - making it almost impossible to concentrate.  You
+only have one option - continue forward.
+~
+194 22037649 1
+D2
+~
+~
+0 -1 19443
+Z3
+C-1
+S
+#19443
+The Dream of Klennan~
+  You stand within a long and winding tube of energy.  The walls, floor, and
+ceiling are made of a pure and pulsating light.  A slow, and methodical, hum-
+ming noise can be heard - making it almost impossible to concentrate.  You
+only have one option - continue forward.
+~
+194 22037649 1
+D1
+~
+~
+0 -1 19444
+Z3
+C-1
+S
+#19444
+The Dream of Klennan~
+  You stand within a long and winding tube of energy.  The walls, floor, and
+ceiling are made of a pure and pulsating light.  A slow, and methodical, hum-
+ming noise can be heard - making it almost impossible to concentrate.  You
+only have one option - continue forward.
+~
+194 22037649 1
+D1
+~
+~
+0 -1 19445
+Z3
+C-1
+S
+#19445
+{BOLD,BLACK} The Smithy {bold,black}~
+  You are standing in a small and very dark Smithy.  You notice the absence
+of windows, and only the red light of the fireplace lightens the room.  Small
+pieces of discarded armour and weapons have been thrown about the Smith.  The
+only exit out of the Smithy seems to be a small walkway to the south.
+~
+194 16778244 1
+D2
+~
+~
+0 -1 19446
+X2099200
+Z3
+C-1
+S
+#19446
+{R}C{W}a{R}n{W}d{R}y{W}l{R}a{W}n{R}d{W}~
+  You seem to have entered a small room.  Along each wall stands a 
+cabinet filled with all kinds of candy.  A small fountain, filled with
+chocolate milk, has been placed directly in front of you.  A sweet song
+of happiness is being pumped from four small speakers mounted in each
+corner.
+~
+194 16778244 1
+D2
+~
+~
+0 -1 19447
+X2099200
+Z3
+C-1
+S
+#19447
+{WHITE}The {BOLD,GREEN}Break{bold,green} {BOLD,WHITE}Room{bold,white}~
+  Four long tables have been placed strategically throughout the room.
+A five-bladed ceiling fan slowly rotates above you, powered by the wind.
+On the western wall a small sign reading, "This is an equal opportunity
+employer", waves in the breeze.  Along the eastern wall rests on old,
+weather beaten{BOLD,BLINK,GREEN} Jolt Vending Machine{bold,blink,green}.
+~
+194 16778244 1
+D2
+~
+~
+0 -1 19448
+X2099200
+Z3
+C-1
+S
+#19448
+{BOLD,MAGENTA}Queen Anne's Pastry Shop{bold,magenta}~
+{BOLD,MAGENTA}
+   Pies, tiny pastries, tarts and cakes lay cooling on the shop's
+   counter, their aromas filling your nostrils. Your hungry belly
+   yearns for something sweet, and filling. Queen Anne seems to
+   have enjoyed a tart or two herself. The rotund woman approaches
+   the counter, awaiting your purchase.
+{bold,magenta}
+~
+194 8200 1
+D2
+~
+~
+0 -1 19450
+X2099200
+Z3
+C-1
+S
+#19449
+Towards the Dream~
+  You stand in an old and musty chamber.  Constructed out of marble, large
+one-foot by three-foot blocks make up the floor and the walls.  Above you
+stands a ceiling wooden beams and plaster tiles.  A large eating table,
+measuring twelve-feet by five-feet rests along the northern wall.  A small
+{BOLD,YELLOW}T{G}a{Y}p{G}e{Y}s{G}t{Y}r{G}y{white} hangs above you.
+~
+194 16778244 1
+D4
+~
+~
+0 -1 19400
+X2099200
+Z3
+C-1
+S
+#19450
+{BOLD,YELLOW}Olde Royal Arms Repair Shoppe{bold,yellow}~
+The royal arms repair shop is undoubtetly the best equipped
+repair shop around.  It is rumored that here they can repair
+items that other shops have no way of repairing!
+
+There is a sign on the wall.
+
+~
+194 4202632 0
+D2
+~
+~
+0 -1 19449
+E
+sign~
+Repair your EQ from any and all acid damage!
+~
+Z3
+C2
+S
+#19451
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D1
+~
+~
+0 -1 19452
+X7340544
+Z3
+C2
+S
+#19452
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D1
+~
+~
+0 -1 19453
+D3
+~
+~
+0 -1 19451
+X7340544
+Z3
+C2
+S
+#19453
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D1
+~
+~
+0 -1 19454
+D3
+~
+~
+0 -1 19452
+X7340544
+Z3
+C2
+S
+#19454
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D2
+~
+~
+0 -1 19455
+D3
+~
+~
+0 -1 19453
+X7340544
+Z3
+C2
+S
+#19455
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D0
+~
+~
+0 -1 19454
+D1
+~
+~
+0 -1 19456
+X7340544
+Z3
+C2
+S
+#19456
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D2
+~
+~
+0 -1 19457
+D3
+~
+~
+0 -1 19455
+X7340544
+Z3
+C2
+S
+#19457
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D0
+~
+~
+0 -1 19456
+D4
+~
+~
+0 -1 19458
+X7340544
+Z3
+C2
+S
+#19458
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D4
+~
+~
+0 -1 19459
+D5
+~
+~
+0 -1 19457
+X7340544
+Z3
+C2
+S
+#19459
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D4
+~
+~
+0 -1 19460
+D5
+~
+~
+0 -1 19458
+X7340544
+Z3
+C2
+S
+#19460
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D4
+~
+~
+0 -1 13506
+D5
+~
+~
+0 -1 19459
+X7340544
+Z3
+C2
+S
+#19461
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D5
+~
+~
+0 -1 19462
+X7340544
+Z3
+C2
+S
+#19462
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D0
+~
+~
+0 -1 19463
+D4
+~
+~
+0 -1 19461
+X7340544
+Z3
+C2
+S
+#19463
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D1
+~
+~
+0 -1 19464
+D2
+~
+~
+0 -1 19462
+X7340544
+Z3
+C2
+S
+#19464
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D2
+~
+~
+0 -1 19465
+D3
+~
+~
+0 -1 19463
+X7340544
+Z3
+C2
+S
+#19465
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D0
+~
+~
+0 -1 19464
+D5
+~
+~
+0 -1 19466
+X7340544
+Z3
+C2
+S
+#19466
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D4
+~
+~
+0 -1 19465
+D5
+~
+~
+0 -1 19467
+X7340544
+Z3
+C2
+S
+#19467
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D3
+~
+~
+0 -1 19468
+D4
+~
+~
+0 -1 19466
+X7340544
+Z3
+C2
+S
+#19468
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D0
+~
+~
+0 -1 19469
+D1
+~
+~
+0 -1 19467
+X7340544
+Z3
+C2
+S
+#19469
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D0
+~
+~
+0 -1 19470
+D2
+~
+~
+0 -1 19468
+X7340544
+Z3
+C2
+S
+#19470
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D2
+~
+~
+0 -1 19469
+D5
+~
+~
+0 -1 13521
+X7340544
+Z3
+C2
+S
+#19471
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D4
+~
+~
+0 -1 19472
+X7340544
+Z3
+C2
+S
+#19472
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D0
+~
+~
+0 -1 19473
+D5
+~
+~
+0 -1 19471
+X7340544
+Z3
+C2
+S
+#19473
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D1
+~
+~
+0 -1 19474
+D2
+~
+~
+0 -1 19472
+X7340544
+Z3
+C2
+S
+#19474
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D0
+~
+~
+0 -1 19475
+D3
+~
+~
+0 -1 19473
+X7340544
+Z3
+C2
+S
+#19475
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D2
+~
+~
+0 -1 19474
+D4
+~
+~
+0 -1 19476
+X7340544
+Z3
+C2
+S
+#19476
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D1
+~
+~
+0 -1 19477
+D5
+~
+~
+0 -1 19475
+X7340544
+Z3
+C2
+S
+#19477
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D1
+~
+~
+0 -1 19478
+D3
+~
+~
+0 -1 19476
+X7340544
+Z3
+C2
+S
+#19478
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D1
+~
+~
+0 -1 19479
+D3
+~
+~
+0 -1 19477
+X7340544
+Z3
+C2
+S
+#19479
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D2
+~
+~
+0 -1 19480
+D3
+~
+~
+0 -1 19478
+X7340544
+Z3
+C2
+S
+#19480
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D0
+~
+~
+0 -1 19479
+D1
+~
+~
+0 -1 13522
+X7340544
+Z3
+C2
+S
+#19481
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D3
+~
+~
+0 -1 19482
+X7340544
+Z3
+C2
+S
+#19482
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D1
+~
+~
+0 -1 19481
+D3
+~
+~
+0 -1 19483
+X7340544
+Z3
+C2
+S
+#19483
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D0
+~
+~
+0 -1 19484
+D1
+~
+~
+0 -1 19482
+X7340544
+Z3
+C2
+S
+#19484
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D2
+~
+~
+0 -1 19483
+D5
+~
+~
+0 -1 19485
+X7340544
+Z3
+C2
+S
+#19485
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D4
+~
+~
+0 -1 19484
+D5
+~
+~
+0 -1 19486
+X7340544
+Z3
+C2
+S
+#19486
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D2
+~
+~
+0 -1 19487
+D4
+~
+~
+0 -1 19485
+X7340544
+Z3
+C2
+S
+#19487
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D0
+~
+~
+0 -1 19486
+D3
+~
+~
+0 -1 19488
+X7340544
+Z3
+C2
+S
+#19488
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D0
+~
+~
+0 -1 19489
+D1
+~
+~
+0 -1 19487
+X7340544
+Z3
+C2
+S
+#19489
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D2
+~
+~
+0 -1 19488
+D4
+~
+~
+0 -1 19490
+X7340544
+Z3
+C2
+S
+#19490
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D2
+~
+~
+0 -1 13525
+D5
+~
+~
+0 -1 19489
+X7340544
+Z3
+C2
+S
+#19491
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D5
+~
+~
+0 -1 19492
+X7340544
+Z3
+C2
+S
+#19492
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D0
+~
+~
+0 -1 19493
+D4
+~
+~
+0 -1 19491
+X7340544
+Z3
+C2
+S
+#19493
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D2
+~
+~
+0 -1 19492
+D5
+~
+~
+0 -1 19494
+X7340544
+Z3
+C2
+S
+#19494
+{BO,B}A Dark and Musty Corridor{w}~
+   You stand within a very {BO,B}dark{w} and {BO,B}dreary{w} chamber.  Spiders have made
+their homes within every nook and cranny.  A slimy substance seems to be leaking
+from the wooden ceiling.  A rustling sound can be heard just around the bend...
+~
+194 20987912 1
+D2
+~
+~
+0 -1 27200
+D4
+~
+~
+0 -1 19493
+X7340544
+Z3
+C2
+S
+#19495
+Mob Chute(Tap) R: 19400-19449~
+If you're here, your probably going to die.
+~
+194 262144 1
+D0
+~
+~
+0 -1 19432
+D1
+~
+~
+0 -1 19424
+D2
+~
+~
+0 -1 19420
+D3
+~
+~
+0 -1 19415
+D5
+~
+~
+0 -1 19427
+Z3
+C-1
+S
+#19499
+{BLINK,RED}A Wrong Step...{blink,red}~
+
+  You've chosen poorly...
+
+~
+194 18096389 1
+D0
+~
+~
+0 -1 3001
+D1
+~
+~
+0 -1 3001
+D2
+~
+~
+0 -1 3001
+D3
+~
+~
+0 -1 3001
+D4
+~
+~
+0 -1 3001
+D5
+~
+~
+0 -1 3001
+T19495
+X6291456
+Z3
+C2
+S
+$~

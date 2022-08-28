@@ -1,0 +1,443 @@
+#26300
+{G}LowLands{g}~
+{Y}The lowlands before Tantegel Castle cover a majority of the land that
+your eyes can see!  The grass is spungy and has an irish cent to it.
+As you look around you see some mobs in the way, but you have full
+confidence that they will not stop you.{y}
+~
+263 262144 2
+D0
+~
+~
+0 -1 26301
+Z1
+C1
+S
+#26301
+{BO,C}Before the{bo,c} {C}Gates{c}~
+{C}You stand before the majestic gates of Tantegel Castle.  The gates
+stand tall and proud.  You become completely awestruck when you see
+that they are made out of solid gold!
+~
+263 262144 2
+D0
+~
+~
+0 -1 26302
+D2
+~
+~
+0 -1 26300
+Z1
+C1
+S
+#26302
+{C}Tantegel Castle{c}~
+{R}This place is HUGE, but at the same time very mundane.  A road continues 
+North, East, and West.  Now, which way to go!
+~
+263 262144 2
+D0
+~
+~
+0 -1 26303
+D1
+~
+~
+0 -1 26306
+D2
+~
+~
+0 -1 26301
+D3
+~
+~
+0 -1 26310
+Z1
+C1
+S
+#26303
+{C}Northern Road{c}~
+{R}Even though the castle seems huge at first the roads are not that
+lengthy.  Infact you can see the castle exist comming up shortly.
+To the east you see a magic shop and to the west is a nice little hut.
+~
+263 262144 2
+D0
+~
+~
+0 -1 26304
+D1
+~
+~
+0 -1 26312
+D2
+~
+~
+0 -1 26302
+D3
+~
+~
+0 -1 26313
+Z1
+C1
+S
+#26304
+{C}Northern Road{c}~
+{R}Even though the castle seems huge at first the roads are not that
+lengthy.  Infact you can see the castle exist comming up shortly.
+East, you see a small village garden and to the West you see a young
+warrior with promising skills.
+~
+263 262144 2
+D0
+~
+~
+0 -1 26305
+D1
+~
+~
+0 -1 26314
+D2
+~
+~
+0 -1 26303
+D3
+~
+~
+0 -1 26315
+Z1
+C1
+S
+#26305
+{C}Exiting the Castle{c}~
+{R}You are now on your adventure young warrior.  You turn to take one
+last gander at the grand castle and sigh for you know the dangers
+that lurk ahead.{r}
+~
+263 262144 2
+D0
+~
+gate~
+2 26302 26316
+D2
+~
+~
+0 -1 26304
+Z1
+C1
+S
+#26306
+{C}Eastward Road{c}~
+{R}Hmm this road is no longer the mundane dirt road.  It seems that
+this one has been laid with brick and stone.  In the far distance you
+see the King's dwelling.  The building is made out of massive stones
+of marble.  Many hours must have been taken up to build this massive
+structure.{r}
+~
+263 262144 2
+D1
+~
+~
+0 -1 26307
+D3
+~
+~
+0 -1 26302
+Z1
+C1
+S
+#26307
+{C}Before the Kings Keep{c}~
+{R}Enter, for the king has urgent news for you young warrior!  You
+now follow the steps into the king's keep, you pray awfully hard that
+no one will jump you as you enter!  Everything seems normal and peaceful.{r}
+~
+263 262144 2
+D1
+~
+~
+0 -1 26308
+D3
+~
+~
+0 -1 26306
+Z1
+C1
+S
+#26308
+{W}The {C}King's Keep{c}~
+{R}Wow, this place is huge.  There is no other rooms but the one that leads
+North into the King's Throne room, this room is so massive that it
+contains all his living conditions.  And in the middle of the room
+is a huge round table like king arthur's in camelot.
+~
+263 262144 2
+D0
+~
+~
+0 -1 26309
+D3
+~
+~
+0 -1 26307
+Z1
+C1
+S
+#26309
+{C}King's {Y}Throne Room{y}~
+{R}Quite inpressive room to be in.  The King is sitting in his thrown
+as usual, but what is different is that his beautiful princess is 
+missing.  Perhaps she's changing at the moment, but anyhow you must
+concentrate on what they king has to say!  He looks rather upset
+perhaps you should SAY somthing like "what is your bidding?"{r}
+~
+263 262144 2
+D2
+~
+~
+0 -1 26308
+Z1
+C1
+S
+#26310
+{C}Westward Road{c}~
+{R}Hmm this road looks like the rest of the roads, dirty and short, but
+the walls surrounding the area have scuff marks all over them as if
+someone has been practicing for a war around here.{r}
+~
+263 262144 2
+D1
+~
+~
+0 -1 26302
+D3
+~
+~
+0 -1 26311
+Z1
+C1
+S
+#26311
+{C}The far corner of the Kingdom!{c}~
+{R}This is a dead end, but who is this rugged, but buff looking warrior
+Looks like he has been practicing for hours for somthing brutal!  The
+scuff marks are great and you notice in the very corner of the room
+stands an extremely battered wooden doll in which warriors practice upon.{r}
+~
+263 262144 2
+D1
+~
+~
+0 -1 26310
+Z1
+C1
+S
+#26312
+{C}Magic Shop{c}~
+{R}As you enter the shop you notice how small and compact it is.  you
+see many vials standing on the shelves behind the counter.  You sense
+great magic within this room.  The room it self makes you feel at home.{r}
+~
+263 262144 2
+D3
+~
+~
+0 -1 26303
+Z1
+C1
+S
+#26313
+{Y}Gabriel, the Crusader's {C}Hut{c}~
+{R}Oh my, its the last surviving crusader, Gabriel's hut glows with
+wisdom and power.  He has been on many quests throughout his life and
+now he wanders the streets of Miggarrad helping out future warriors.
+Many say that he has been blessed by God as he has survived so many fights
+and seen so many places.  Alas, Gabriel isn't here to greet you, but in
+his place you see a week plundering hermit.{r}
+~
+263 262144 1
+D1
+~
+~
+0 -1 26303
+Z1
+C-1
+S
+#26314
+{C}A small {G}Garden{g}~
+{R}Alas, the villagers have to eat!  Good thing this huge kindgom isnt
+full of many people they would surely starve!  You see a humble gardener
+working the sun away.{r}
+~
+263 262144 2
+D3
+~
+~
+0 -1 26304
+Z1
+C1
+S
+#26315
+{C}A patch of {G}grass{g}~
+{R}This is just a small opening in which the young ones play.  Hmm
+you don't see a lot of playing going on, but you happen to catch the eye
+of a young promising warrior.{r}
+~
+263 262144 2
+D1
+~
+~
+0 -1 26304
+Z1
+C1
+S
+#26316
+{G}LowLands{g}~
+{Y}The lowlands before Tantegel Castle cover a majority of the land that
+your eyes can see!  The grass is spungy and has an irish cent to it.
+As you look around you see some mobs in the way, but you have full
+confidence that they will not stop you.{y}
+~
+263 262144 2
+D0
+~
+~
+0 -1 26319
+D1
+~
+~
+0 -1 26318
+D2
+~
+gate~
+1 26302 26305
+D3
+~
+~
+0 -1 26317
+D4
+~
+~
+0 -1 26320
+Z0
+C1
+S
+#26317
+{G}LowLands{g}~
+{Y}The lowlands before Tantegel Castle cover a majority of the land that
+your eyes can see!  The grass is spungy and has an irish cent to it.
+As you look around you see some mobs in the way, but you have full
+confidence that they will not stop you.{y}
+~
+263 262144 2
+D1
+~
+~
+0 -1 26316
+D3
+~
+~
+0 -1 26323
+Z0
+C1
+S
+#26318
+{G}LowLands{g}~
+{Y}The lowlands before Tantegel Castle cover a majority of the land that
+your eyes can see!  The grass is spungy and has an irish cent to it.
+As you look around you see some mobs in the way, but you have full
+confidence that they will not stop you.{y}
+~
+263 262144 2
+D1
+~
+~
+0 -1 26322
+D3
+~
+~
+0 -1 26316
+Z0
+C1
+S
+#26319
+{G}LowLands{g}~
+{Y}The lowlands before Tantegel Castle cover a majority of the land that
+your eyes can see!  The grass is spungy and has an irish cent to it.
+As you look around you see some mobs in the way, but you have full
+confidence that they will not stop you.{y}
+~
+263 262144 2
+D0
+~
+~
+0 -1 26321
+D2
+~
+~
+0 -1 26316
+Z0
+C1
+S
+#26320
+{G}LowLands{g}~
+{Y}The lowlands before Tantegel Castle cover a majority of the land that
+your eyes can see!  The grass is spungy and has an irish cent to it.
+As you look around you see some mobs in the way, but you have full
+confidence that they will not stop you.{y}
+~
+263 262144 2
+D5
+~
+~
+0 -1 26316
+Z0
+C1
+S
+#26321
+{G}LowLands{g}~
+{Y}The lowlands before Tantegel Castle cover a majority of the land that
+your eyes can see!  The grass is spungy and has an irish cent to it.
+As you look around you see some mobs in the way, but you have full
+confidence that they will not stop you.{y}
+~
+263 262144 2
+D2
+~
+~
+0 -1 26319
+Z0
+C1
+S
+#26322
+{G}LowLands{g}~
+{Y}The lowlands before Tantegel Castle cover a majority of the land that
+your eyes can see!  The grass is spungy and has an irish cent to it.
+As you look around you see some mobs in the way, but you have full
+confidence that they will not stop you.{y}
+~
+263 262144 2
+D3
+~
+~
+0 -1 26318
+Z0
+C1
+S
+#26323
+{G}LowLands{g}~
+{Y}The lowlands before Tantegel Castle cover a majority of the land that
+your eyes can see!  The grass is spungy and has an irish cent to it.
+As you look around you see some mobs in the way, but you have full
+confidence that they will not stop you.{y}
+~
+263 262144 2
+D1
+~
+~
+0 -1 26317
+Z0
+C1
+S
+$~

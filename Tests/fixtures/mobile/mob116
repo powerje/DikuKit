@@ -1,0 +1,479 @@
+#11600
+deer~
+{Y}A deer{b}~
+{Y}A deer stares at you, quite unafraid.{b}
+~
+
+{Y}  This deer elevates her gaze at your arrival. She carries
+{Y}  an appearance that is both young and graceful. Large, 
+{Y}  chocolate eyes stare at you as her neck is crooned towards
+{Y}  the ground, biting off a mouthful of grass.{b}
+
+~
+64 512 0 S
+40 -30 -1 0d0+4500 0d0+75
+500000 3000000
+8 8 2
+R 540672
+D 20
+A 12
+#11601
+mouse~
+{WH,BO}A mouse{b}~
+{WH,BO}A mouse twitches its whiskers.{b}
+~
+
+{WH,BO}  This little mouse is adorable! It scurries about the farmhouse
+{WH,BO}  aimlessly and quite without purpose. Occasionally, it darts
+{WH,BO}  between the holes in the farmhouse planks and scurries the
+{WH,BO}  fields. Quite the courageous little beast.{b}
+
+~
+66 524800 -250 S
+35 -20 -1 0d0+2500 0d0+50
+500000 1500000
+8 8 1
+R 524288
+D 20
+A 12
+#11602
+blackbird~
+{BLA,BO}A blackbird{b}~
+{BLA,BO}A blackbird chirps quietly.{b}
+~
+
+{BLA,BO}  The small and hungry-looking blackbird flies from one
+{BLA,BO}  cornstalk to another, searching desperately for its next
+{BLA,BO}  meal. It chirps quietly as you approach, looking at you
+{BLA,BO}  with fearless, beady, black eyes.{b}
+
+~
+66 16777728 0 S
+45 -30 -1 0d0+4500 0d0+60
+500000 3500000
+8 8 2
+D 20
+A 12
+#11603
+bull~
+{Y}A bull{b}~
+{Y}Though weakened by hunger, this bull is large and powerful.{b}
+~
+
+{Y}  While this bull suffers from slight starvation, it still
+{Y}  appears powerful and strong. It occasionally runs his horns
+{Y}  against the nearby fence.{b}
+
+~
+66 512 0 S
+45 -30 -1 0d0+5000 0d0+70
+500000 4000000
+8 8 2
+S 4456832
+D 20
+A 12
+#11604
+chicken~
+{R}A chicken{b}~
+{R}A chicken pecks at the ground.{b}
+~
+
+{R}  This chicken is scratching at the ground. Its feathers are both
+{R}  short and clean. To accompany these features, it wields a sharp
+{R}  beak.{b}
+
+~
+66 16777728 0 S
+30 -30 -1 0d0+3000 0d0+50
+500000 2500000
+8 8 1
+D 20
+A 12
+#11605
+horse~
+{BLA,BO}A horse{b}~
+{BLA,BO}This black horse trots around.{b}
+~
+
+{BLA,BO}  This black horse is large and powerful. It trots around
+{BLA,BO}  with a self-dignified purpose.{b}
+
+~
+66 512 0 S
+45 -30 -1 0d0+5000 0d0+65
+500000 4000000
+8 8 2
+D 20
+A 12
+#11606
+cow~
+{WH,BO}A cow{b}~
+{WH,BO}A cow slowly ambles around the field.{b}
+~
+
+{Y}  This poor creature is starved. There is so little to graze
+{Y}  on in this pasture that its hide sags loosely. The cows
+{Y}  ribs show through its sides.{b}
+
+~
+66 16777728 0 S
+45 -30 -1 0d0+4500 0d0+60
+500000 4000000
+8 8 2
+D 20
+A 12
+#11607
+rattlesnake snake~
+{BLA,BO}A rattlesnake{b}~
+{BLA,BO}The rattlesnake flicks its tongue in and out lazily.{b}
+~
+
+{BLA,BO}  Coiled amidst the debris, the rattlesnake stares at you intently.
+{BLA,BO}  It would be practically invisible were it not for the rattling
+{BLA,BO}  of its tail.{b}
+
+~
+66 512 0 S
+45 -30 -1 0d0+5000 0d0+65
+500000 4000000
+8 8 2
+D 20
+A 12
+#11608
+nobody~
+nobody~
+{bo}=== MAIN MENU ======================================={bo}
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#11609
+Alien Queen~
+{G}The {BO}Alien Queen{bo}~
+{bo}New players: please type 'ncc' or 'help' after entering the game.{bo}
+~
+   
+   {G,BO}This is the most beautiful, yet most deadly alien you have ever
+seen before, and guess that you will ever see...if you aren't careful.
+Her glimmering scaly wings and blood stained fangs are enough to let
+you know...THIS IS THE QUEEN!{bo}
+   
+~
+1216348258 0 -1000 S
+1 10 10 1d1+0 0d0+0
+1 1
+8 8 0
+D 20
+A 12
+#11610
+Alien Queen~
+{G}The {BO}Alien Queen{bo}~
+{bo}             and be sure to visit the MUD school.{bo}
+~
+   
+   {G,BO}This is the most beautiful, yet most deadly alien you have ever
+seen before, and guess that you will ever see...if you aren't careful.
+Her glimmering scaly wings and blood stained fangs are enough to let
+you know...THIS IS THE QUEEN!{bo}
+   
+~
+1216348258 0 -1000 S
+1 10 10 1d1+0 0d0+0
+1 1
+8 8 0
+D 20
+A 12
+#11611
+Alien Queen~
+{G}The {BO}Alien Queen{bo}~
+{bo}These are the game's current settings:{bo}
+~
+   
+   {G,BO}This is the most beautiful, yet most deadly alien you have ever
+seen before, and guess that you will ever see...if you aren't careful.
+Her glimmering scaly wings and blood stained fangs are enough to let
+you know...THIS IS THE QUEEN!{bo}
+   
+~
+1216348258 0 -1000 S
+1 10 10 1d1+0 0d0+0
+1 1
+8 8 0
+D 20
+A 12
+#11612
+nobody~
+nobody~
+{bo}--------------------------------------{bo}
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#11613
+Alien Queen~
+{G}The {BO}Alien Queen{bo}~
+{bo}  Default game mode{bo}
+~
+   
+   {G,BO}This is the most beautiful, yet most deadly alien you have ever
+seen before, and guess that you will ever see...if you aren't careful.
+Her glimmering scaly wings and blood stained fangs are enough to let
+you know...THIS IS THE QUEEN!{bo}
+   
+~
+1216348258 0 -1000 S
+1 10 10 1d1+0 0d0+0
+1 1
+8 8 0
+D 20
+A 12
+#11614
+Alien Queen~
+{G}The {BO}Alien Queen{bo}~
+{bo}0) Exit the server{bo}
+~
+   
+   {G,BO}This is the most beautiful, yet most deadly alien you have ever
+seen before, and guess that you will ever see...if you aren't careful.
+Her glimmering scaly wings and blood stained fangs are enough to let
+you know...THIS IS THE QUEEN!{bo}
+   
+~
+1216348258 0 -1000 S
+1 10 10 1d1+0 0d0+0
+1 1
+8 8 0
+D 20
+A 12
+#11615
+Alien Queen~
+{G}The {BO}Alien Queen{bo}~
+{bo}1) Enter the crossroads{bo}
+~
+   
+   {G,BO}This is the most beautiful, yet most deadly alien you have ever
+seen before, and guess that you will ever see...if you aren't careful.
+Her glimmering scaly wings and blood stained fangs are enough to let
+you know...THIS IS THE QUEEN!{bo}
+   
+~
+1216348258 0 -1000 S
+1 10 10 1d1+0 0d0+0
+1 1
+8 8 0
+D 20
+A 12
+#11616
+Alien Queen~
+{G}The {BO}Alien Queen{bo}~
+{bo}2) Change/Create your player's description{bo}
+~
+   
+   {G,BO}This is the most beautiful, yet most deadly alien you have ever
+seen before, and guess that you will ever see...if you aren't careful.
+Her glimmering scaly wings and blood stained fangs are enough to let
+you know...THIS IS THE QUEEN!{bo}
+   
+~
+1216348258 0 -1000 S
+1 10 10 1d1+0 0d0+0
+1 1
+8 8 0
+D 20
+A 12
+#11617
+Alien Queen~
+{G}The {BO}Alien Queen{bo}~
+{bo}3) Change your password (recommended every 2 months){bo}
+~
+   
+   {G,BO}This is the most beautiful, yet most deadly alien you have ever
+seen before, and guess that you will ever see...if you aren't careful.
+Her glimmering scaly wings and blood stained fangs are enough to let
+you know...THIS IS THE QUEEN!{bo}
+   
+~
+1216348258 0 -1000 S
+1 10 10 1d1+0 0d0+0
+1 1
+8 8 0
+D 20
+A 12
+#11618
+Alien Queen~
+{G}The {BO}Alien Queen{bo}~
+{bo}4) Delete a player{bo}
+~
+   
+   {G,BO}This is the most beautiful, yet most deadly alien you have ever
+seen before, and guess that you will ever see...if you aren't careful.
+Her glimmering scaly wings and blood stained fangs are enough to let
+you know...THIS IS THE QUEEN!{bo}
+   
+~
+1216348258 0 -1000 S
+1 10 10 1d1+0 0d0+0
+1 1
+8 8 0
+D 20
+A 12
+#11619
+Alien Queen~
+{G}The {BO}Alien Queen{bo}~
+{bo}What'cha want, bud-dy?:{bo}
+~
+   
+   {G,BO}This is the most beautiful, yet most deadly alien you have ever
+seen before, and guess that you will ever see...if you aren't careful.
+Her glimmering scaly wings and blood stained fangs are enough to let
+you know...THIS IS THE QUEEN!{bo}
+   
+~
+1216348258 0 -1000 S
+1 -80 10 1d1+0 0d0+0
+1 501
+8 8 0
+S 13631488
+D 20
+A 12
+#11620
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#11621
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#11622
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#11623
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#11624
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#11625
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#11626
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#11627
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#11628
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#11629
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+$~

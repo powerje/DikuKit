@@ -1,0 +1,18 @@
+#227
+The Collossuem(Helsing)~
+22799 150 0
+*
+X 12286
+M 0 22701     1 22702    slave
+G 1 22700     1     0    portal
+M 0 22702     1 22703    Thief
+M 0 22703     1 22704    Murderer
+M 0 22704     1 22705    {BOLD,RED}A Bat{bold,red}
+G 1 22703     1     0    portal
+M 0 22705     1 22706    Soldier
+G 1 22704     1     0    portal
+M 0 22706     1 22707    {BOLD,YELLOW}A Fierce Lion{bold,yellow}
+G 1 22705     1     0    portal
+M 0 22707     1 22708    Greek Slave
+G 1 22706     1     0    portal
+$~

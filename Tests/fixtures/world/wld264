@@ -1,0 +1,1857 @@
+#26400
+HELP~
+"Mayday! Mayday! This is the UAC Mining colony on Phobos. We need help!"
+"Ahhh! things coming through the Gate."
+That was the end of the recording.
+"Well looks like we are going to Mar, alittle sooner then planed."
+"Your still coming with us, but remember you are still under arrest."
+"Everyone abourd! We are heading out." Yelled Boyd
+"You will stay in the detention cell untill we get there."
+~
+264 8 0
+D0
+black~
+~
+0 -1 26401
+Z3
+C-1
+S
+#26401
+Cell~
+This is a dull boring room that has no windows or anything.
+You can hear the guard coming down the corridor to get you.
+"Come on everyone we have a long trip ahead of us."
+This is the standard UAC transport ship. Used for long range missions.
+"Hey, someone get them into their cell."
+
+~
+264 0 1
+D1
+~
+~
+0 -1 26402
+Z3
+C-1
+S
+#26402
+Cell~
+This is another dull boring room with one little window. It's the kind of
+room that you can sit in all day and count your brain cells dying, one by
+one. As you look out the window to see Phobos, you wonder what it was coming
+through the gate. You also wonder if punching Goford was worth it.
+"Prepare to land" comes crackling over the speaker.
+~
+264 0 1
+D2
+~
+~
+0 -1 26403
+Z3
+C-1
+S
+#26403
+Kitchen~
+This is a military base mess hall with all the things that makes life easy
+for a cook. You can see the bathroom to the west and the rest of the 
+kitchen to the east. You can see the Ron's to the south making coffee.
+~
+264 0 1
+D1
+~
+~
+0 -1 26405
+D2
+~
+~
+0 -1 26407
+D3
+~
+~
+0 -1 26404
+Z3
+C-1
+S
+#26404
+Bathroom~
+The smell coming from the door when you entered almost made you puke. NO
+wonder this bathroom hasn't been cleaned for years, and you see that the
+vents on the ceiling don't have any air coming through them.
+~
+264 0 1
+D1
+~
+~
+0 -1 26403
+Z3
+C-1
+S
+#26405
+Back of kitchen~
+You notice a lot of knifes and other things scattered across the floor.
+It was like they were running for whatever life they had left.
+You can see the deep freezer door to the north.
+
+~
+264 0 1
+D0
+~
+~
+0 -1 26406
+D3
+~
+~
+0 -1 26403
+Z3
+C-1
+S
+#26406
+Freezer~
+This is a giant freezer that was used to store food and other items that 
+needed to be cold. The food here looks ok, but is not etible.
+~
+264 32 1
+D2
+~
+~
+0 -1 26405
+Z3
+C-1
+S
+#26407
+Air lock~
+This is the air lock leading to the other parts of the base. The two Ron's
+apper to be stuck here not knowing the way out.
+~
+264 4 1
+D2
+~
+~
+0 -1 26408
+Z3
+C-1
+S
+#26408
+Small corridor~
+You can barely make out what was once some people by the way they are 
+ripped apart, but you can see that they used to live. It looks as if they
+were trying to get to the air lock but got hit by a blowtorch on the way
+there. You can only pray that you don't meet the same end.
+~
+264 0 1
+D0
+~
+~
+0 -1 26407
+D1
+~
+~
+0 -1 26409
+X256
+Z3
+C-1
+S
+#26409
+A corridor~
+This is a larger corridor that has some blood stains on the wall.
+It look as if a mob of people tryed to make their way west to the air lock.
+~
+264 0 1
+D2
+~
+door~
+1 -1 26410
+D3
+~
+~
+0 -1 26408
+Z3
+C-1
+S
+#26410
+The ambush~
+Inside this room you can tell that some kind of ambush happened here. 
+There are bodys lieing in every corridor and even some parts on the celling
+You hope that you don't run into whatever did this before you get Angela.
+~
+264 0 1
+D0
+~
+door~
+1 -1 26409
+D1
+~
+~
+0 -1 26411
+Z3
+C-1
+S
+#26411
+a pile of rubble~
+This room has alittle blood on the walls, but no signs of bodys. It leads
+offer in all direction's but the north is cut off by a giants pile of rubble
+~
+264 0 1
+D1
+~
+~
+0 -1 26412
+D2
+~
+~
+0 -1 26418
+D3
+~
+~
+0 -1 26410
+Z3
+C-1
+S
+#26412
+after the rubble~
+This is a very small corridor with some wierd markings on the walls made 
+out of blood. The lights just can't stop flickersing and the smell is either
+getting less or your just getting used to it. Something just moved from 
+around the bend hopfully it'll be another demon to kill.
+~
+264 0 1
+D0
+~
+door~
+3 -1 26413
+D2
+~
+~
+0 -1 26414
+D3
+~
+~
+0 -1 26411
+Z3
+C-1
+S
+#26413
+A closet~
+The door through which you came in closes behind you like most of the others in 
+this place.  This room is about 8 feet by 8 feet and about 10 feet tall.  It 
+must of been used to store large crates and in the corner there is a pile
+of rubble.  You can't see very well in here but there might be another 
+way out, without going back into the hell outside the door.
+~
+264 0 1
+D2
+~
+door~
+1 -1 26412
+Z3
+C-1
+S
+#26414
+A corridor~
+This is a very small corridor with some wierd markings on the walls 
+made out of blood. The lights just can't stop flickering and the smell is 
+either getting less or your just getting used to it.  Something just moved 
+from around the bend hopfully it'll be another demon to kill.
+~
+264 0 1
+D0
+~
+~
+0 -1 26412
+D2
+~
+~
+0 -1 26415
+Z3
+C-1
+S
+#26415
+A small crack~
+This is a very small corridor with some wierd markings on the walls 
+made out of blood. The lights just can't stop flickering and the smell is 
+either getting less or your just getting used to it.  Something just moved 
+from around the bend hopfully it'll be another demon to kill.There is 
+A crack on the wall that Angela might have gone through here. After 
+taking time to make sure she hadn't gone through you go on.
+~
+264 0 1
+D0
+~
+~
+0 -1 26414
+D3
+~
+~
+0 -1 26416
+Z3
+C-1
+S
+#26416
+A intersection~
+As you peek around the corners of these rooms you can see no immediate 
+danger but are still very tense.  You can see some more of those swazaca's
+ on the floors, celling and  the walls.  These still make you feel very bad 
+but your starting to get us to the wierd diagrams around this place, maybe
+ you are getting sick thinking it looks NICE.
+~
+264 0 1
+D0
+~
+~
+0 -1 26417
+D1
+~
+~
+0 -1 26415
+D2
+~
+~
+0 -1 26447
+D3
+~
+Wall~
+1 -1 26419
+Z3
+C-1
+S
+#26417
+A small corridor~
+This is a very small corridor with some wierd markings on the walls 
+made out of blood. The lights just can't stop flickering and the smell is 
+either getting less or your just getting used to it.  Something just moved 
+from around the bend hopfully it'll be another demon to kill.
+~
+264 0 1
+D2
+~
+~
+0 -1 26416
+D3
+~
+~
+0 -1 26418
+Z3
+C-1
+S
+#26418
+A small corridor~
+This is a very small corridor with some wierd markings on the walls 
+made out of blood. The lights just can't stop flickering and the smell is 
+either getting less or your just getting used to it.  Something just moved 
+from around the bend hopfully it'll be another demon to kill.
+~
+264 0 1
+D0
+~
+~
+0 -1 26411
+D1
+~
+~
+0 -1 26417
+Z3
+C-1
+S
+#26419
+A bloody hallway~
+This is a hallway with blood covered wall that make you want to throwup
+all over the place. You hear strange noises and keep smelling the lemon
+smell.
+~
+264 0 1
+D1
+~
+Wall~
+2 -1 26416
+D2
+~
+~
+0 -1 26420
+Z3
+C-1
+S
+#26420
+A bloody hallway~
+This is a hallway with blood covered wall that make you want to throwup
+all over the place. You hear strange noises and keep smelling the lemon
+smell.You now know why it's so bloody from the looks of these
+guys.
+~
+264 0 1
+D0
+~
+~
+0 -1 26419
+D3
+~
+~
+0 -1 26421
+Z3
+C-1
+S
+#26421
+A bloody hallway~
+This is a hallway with blood covered wall that make you want to throwup
+all over the place. You hear strange noises and keep smelling the lemon
+smell.You now know why it's so bloody from the looks of these guys.
+~
+264 0 1
+D0
+~
+~
+0 -1 26422
+D1
+~
+~
+0 -1 26420
+Z3
+C-1
+S
+#26422
+A bloody hallway~
+This is a hallway with blood covered wall that make you want to throwup
+all over the place. You hear strange noises and keep smelling the lemon
+smell.You now know why it's so bloody from the looks of these things.
+~
+264 0 1
+D2
+~
+~
+0 -1 26421
+D3
+~
+~
+0 -1 26423
+Z3
+C-1
+S
+#26423
+A corridor~
+This is a corridor with massive walls and door about it. You can hear 
+some strange noises and keep to the ground expecting to be attacked any
+time now.
+~
+264 0 1
+D1
+~
+~
+0 -1 26422
+D2
+~
+~
+0 -1 26424
+Z3
+C-1
+S
+#26424
+A intersection~
+This is a intersection of the main corridor and two smaller one's. you can
+ see nothing either way but don't want to go back where you came from so
+ you push onword.But you hesiate as you see...
+~
+264 0 1
+D0
+~
+~
+0 -1 26423
+D1
+~
+~
+0 -1 26427
+D2
+~
+Wall~
+1 -1 26425
+Z3
+C-1
+S
+#26425
+Behind the wall~
+You are not standing behind the wall. It is amazing the you fit here.
+You should really go back out and kick some more butt.
+~
+264 0 1
+D0
+~
+Wall~
+2 -1 26424
+D3
+~
+Vent~
+2 -1 26426
+Z3
+C-1
+S
+#26426
+A hidden Cabinet~
+This is a small metal cabinet that looks as if it's been to hell and back,
+ but concidering where you are it's no suprise. As you look around, it appers
+ to be solid metal with no visible signs of damage.
+~
+264 0 1
+D1
+~
+Vent~
+3 -1 26425
+Z3
+C-1
+S
+#26427
+A corridor~
+This is a corridor with blood covered wall that make you want to throwup
+all over the place. You hear strange noises and keep smelling the lemon
+smell.
+~
+264 0 1
+D2
+~
+door~
+1 -1 26428
+D3
+~
+~
+0 -1 26424
+Z3
+C-1
+S
+#26428
+A small corridor~
+This is a very small corridor with some wierd markings on the walls 
+made out of blood. The lights just can't stop flickering and the smell is 
+either getting less or your just getting used to it.  Something just moved 
+from around the bend hopfully it'll be another demon to kill.
+~
+264 0 1
+D0
+~
+door~
+1 -1 26427
+D1
+~
+~
+0 -1 26429
+Z3
+C-1
+S
+#26429
+A small corridor~
+This is a small corridor with blood covered wall that make you want to throwup
+all over the place. You hear strange noises and keep smelling the lemon
+smell.
+~
+264 0 1
+D1
+~
+~
+0 -1 26430
+D3
+~
+~
+0 -1 26428
+Z3
+C-1
+S
+#26430
+A small corridor~
+This is a small corridor with blood covered wall that make you want to 
+throwup all over the place. You hear strange noises and keep smelling 
+the lemon smell.
+~
+264 0 1
+D2
+~
+wall~
+1 -1 26431
+D3
+~
+~
+0 -1 26429
+Z3
+C-1
+S
+#26431
+A stairway~
+Before you is the narrowest excuse for a stairway you haveever seen.  No
+ lightpermiates into its depths.  The ocational flash of a light at it's 
+begging shows the narrow stone stairs twisting down and away from 
+you.  Shadows dancing along it's walls dare you to enter.
+~
+264 0 1
+D0
+~
+wall~
+4 -1 26430
+D1
+~
+door~
+1 -1 26432
+D5
+~
+~
+0 -1 26453
+Z3
+C-1
+S
+#26432
+A corridor~
+This is a  corridor with blood covered wall that make you want to 
+throwup all over the place. You hear strange noises and keep smelling 
+the lemon smell.
+~
+264 0 1
+D1
+~
+~
+0 -1 26433
+D3
+~
+door~
+1 -1 26431
+Z3
+C-1
+S
+#26433
+A bend in the corridor~
+This is a  corridor with blood covered wall that make you want to 
+throwup all over the place. You hear strange noises and keep smelling 
+the lemon smell.
+~
+264 0 1
+D0
+~
+~
+0 -1 26434
+D3
+~
+~
+0 -1 26432
+Z3
+C-1
+S
+#26434
+Anothe bend~
+This is a  corridor with blood covered wall that make you want to 
+throwup all over the place. You hear strange noises and keep smelling 
+the lemon smell.
+~
+264 0 1
+D2
+~
+~
+0 -1 26433
+D3
+~
+~
+0 -1 26435
+Z3
+C-1
+S
+#26435
+A corridor~
+This is a  corridor with blood covered wall that make you want to 
+throwup all over the place. You hear strange noises and keep smelling 
+the lemon smell.
+~
+264 0 1
+D0
+~
+~
+0 -1 26436
+D1
+~
+~
+0 -1 26434
+Z3
+C-1
+S
+#26436
+A corridor~
+This is a  corridor with blood covered wall that make you want to 
+throwup all over the place. You hear strange noises and keep smelling 
+the lemon smell.
+~
+264 0 1
+D1
+~
+~
+0 -1 26437
+D2
+~
+~
+0 -1 26435
+Z3
+C-1
+S
+#26437
+A corridor~
+This is a  corridor with blood covered wall that make you want to 
+throwup all over the place. You hear strange noises and keep smelling 
+the lemon smell.
+~
+264 0 1
+D0
+~
+~
+0 -1 26438
+D3
+~
+~
+0 -1 26436
+Z3
+C-1
+S
+#26438
+A bend in the hall.~
+This is a  corridor with blood covered wall that make you want to 
+throwup all over the place. You hear strange noises and keep smelling 
+the lemon smell.
+~
+264 0 1
+D2
+~
+~
+0 -1 26437
+D3
+~
+~
+0 -1 26439
+Z3
+C-1
+S
+#26439
+A bend in the hall.~
+This is a  corridor with blood covered wall that make you want to 
+throwup all over the place. You hear strange noises and keep smelling 
+the lemon smell.
+~
+264 0 1
+D1
+~
+~
+0 -1 26438
+D3
+~
+~
+0 -1 26440
+Z3
+C-1
+S
+#26440
+A ruined intersection~
+This place that was once here used to be a four way intersection. Something
+has eaten away the suports untill it colapsed and is now blocking every
+way but the way you came and are going.
+~
+264 0 1
+D1
+~
+~
+0 -1 26439
+D2
+~
+~
+0 -1 26441
+Z3
+C-1
+S
+#26441
+A corridor~
+This is a  corridor with blood covered wall that make you want to 
+throwup all over the place. You hear strange noises and keep smelling 
+the lemon smell.
+~
+264 0 1
+D0
+~
+~
+0 -1 26440
+D3
+~
+~
+0 -1 26442
+Z3
+C-1
+S
+#26442
+A bend in the hall.~
+This is a  corridor with blood covered wall that make you want to 
+throwup all over the place. You hear strange noises and keep smelling 
+the lemon smell.
+~
+264 0 1
+D0
+~
+~
+0 -1 26443
+D1
+~
+~
+0 -1 26441
+Z3
+C-1
+S
+#26443
+A intersection~
+This is a intersection of the main corridor and two smaller one's. you can
+ see nothing either way but don't want to go back where you came from so
+ you push onword.But you hesiate as you see...
+~
+264 0 1
+D0
+~
+~
+0 -1 26445
+D2
+~
+~
+0 -1 26442
+D3
+~
+door~
+1 -1 26444
+Z3
+C-1
+S
+#26444
+A small room~
+The door through which you came closes behind you like most of the others
+in the place. This room is about 8 feet by 8feet and about 10 feet tall.
+It must of been used to store large crates and in the corner there is a 
+pile of rubble. You can't see very well in here but there might be another
+way out, without going back into the hell outside the door.
+~
+264 1 1
+D1
+~
+door~
+3 -1 26443
+Z3
+C-1
+S
+#26445
+A corridor~
+This is a  corridor with blood covered wall that make you want to 
+throwup all over the place. You hear strange noises and keep smelling 
+the lemon smell.
+~
+264 0 1
+D2
+~
+~
+0 -1 26443
+D3
+~
+~
+0 -1 26446
+Z3
+C-1
+S
+#26446
+A small corridor~
+This is a  corridor with blood covered wall that make you want to 
+throwup all over the place. You hear strange noises and keep smelling 
+the lemon smell.
+~
+264 0 1
+D1
+~
+~
+0 -1 26445
+D3
+~
+~
+0 -1 26447
+Z3
+C-1
+S
+#26447
+A corridor~
+This is a  corridor with blood covered wall that make you want to 
+throwup all over the place. You hear strange noises and keep smelling 
+the lemon smell.
+~
+264 0 1
+D0
+~
+~
+0 -1 26416
+D1
+~
+~
+0 -1 26446
+Z3
+C-1
+S
+#26448
+A ventalation shaft~
+As you crawl around the shaft you can see that there are no other
+shafts connection to this on, which is strange. You can see a light
+up ahead and hope that it is a way out of this giant TV dinner.
+~
+264 24581 1
+D3
+~
+~
+0 -1 26449
+Z3
+C1
+S
+#26449
+A Vent~
+You finally have com to the end of the sheft and hope it will not be
+your end as well. As you look down through the vent, you can see no danger
+in the room below.
+~
+264 0 1
+D1
+~
+~
+0 -1 26448
+D5
+~
+vent~
+1 -1 26450
+Z3
+C-1
+S
+#26450
+A store room~
+This is a small store room that has crates pilled upon all walls. You
+see some food in one and medkits in others.
+~
+264 0 1
+D1
+~
+~
+0 -1 26451
+Z3
+C-1
+S
+#26451
+A store room~
+This is a quite larger room then the last but is still crammed with
+crates. You can see that some other people made it here but left in a 
+hurry.
+~
+264 0 1
+D1
+~
+~
+0 -1 26410
+D2
+~
+door~
+1 -1 26452
+D3
+~
+~
+0 -1 26450
+Z3
+C-1
+S
+#26452
+A hidden store room~
+This room is used for the solo perpuse of storing medkits.
+~
+264 0 1
+D0
+~
+door~
+3 -1 26451
+Z3
+C-1
+S
+#26453
+Bottem of the stairs~
+At the bottom of the stairs you see in the dim flickering light chains 
+hanging down from the blood stained walls. Before you chould do anything
+the stairs seal off leaving you no choice but to venture on.
+~
+264 0 1
+D1
+~
+~
+0 -1 26466
+D2
+~
+~
+0 -1 26463
+D3
+~
+~
+0 -1 26454
+Z3
+C-1
+S
+#26454
+A small corridor~
+This is a small corridor that joins the sections of the dome together and
+ is used mainly for service and transporting supplies.  The walls are blood
+ stained and have a faint glow to them.
+~
+264 0 1
+D1
+~
+~
+0 -1 26453
+D3
+~
+~
+0 -1 26455
+Z3
+C-1
+S
+#26455
+A intersection~
+This is a intersection of four corridors. There is a lot of blood on 
+the ground here, you almost slipped. You wonder which of these corridors
+is the way out.
+~
+264 0 1
+D0
+~
+~
+0 -1 26456
+D1
+~
+~
+0 -1 26454
+D2
+~
+~
+0 -1 26459
+D3
+~
+~
+0 -1 26457
+Z3
+C-1
+S
+#26456
+DEAD END~
+This is a dead end you might as well go back.
+~
+264 262144 1
+D2
+~
+~
+0 -1 26455
+Z3
+C-1
+S
+#26457
+A back room~
+This is a small back room which looks like the way you came in is the
+only exit. You see some toxic waste in the middle of the room and 
+decide to avoid it.
+~
+264 0 1
+D0
+~
+Toxic~
+1 -1 26458
+D1
+~
+~
+0 -1 26455
+Z3
+C-1
+S
+#26458
+A hidden room~
+You have found a hidden room in the vast complex. You can see that this
+room has no blood or marks of a fight on anything. You feel relaxed
+to finely have a rest.
+~
+264 0 1
+D2
+~
+Toxic~
+4 -1 26457
+Z3
+C-1
+S
+#26459
+A corridor~
+This is a odd looking corridor that seems to be looking back at you
+as you walk. You feel bad about this place and want to leave quickly.
+~
+264 0 1
+D0
+~
+~
+0 -1 26455
+D2
+~
+~
+0 -1 26460
+D3
+~
+~
+0 -1 26461
+Z3
+C-1
+S
+#26460
+A Dead end~
+This is yet another dead end you have to turn back the way you came
+and hope that no zombies have blocked you in this death trap.
+~
+264 0 1
+D0
+~
+~
+0 -1 26459
+Z3
+C-1
+S
+#26461
+A back corridor~
+You sneak past a cupple of zombies into a small corridor that looks 
+well guarded.  You hope that you can avoid detection, as it will make
+ things go faster. You can see a cupple of imps guarding a room to the
+ south and wonder why?
+~
+264 0 1
+D1
+~
+~
+0 -1 26459
+D2
+~
+door~
+1 -1 26462
+Z3
+C-1
+S
+#26462
+A Large room~
+You can see now why the imps were guarding this room with care.
+As you look around you see a blue key on a crate and wonder what it
+is used for.
+~
+264 0 1
+D0
+~
+door~
+1 -1 26461
+Z3
+C-1
+S
+#26463
+A corridor~
+This is a  corridor with blood covered wall that make you want to 
+throwup all over the place. You hear strange noises and keep smelling 
+the lemon smell.
+~
+264 0 1
+D0
+~
+~
+0 -1 26453
+Z3
+C-1
+S
+#26464
+A corridor~
+This looks like the rest of the corridors in this god for saken place.
+You hope that this will be the last one.
+~
+264 1048576 1
+D2
+~
+~
+0 -1 26465
+Z3
+C-1
+S
+#26465
+A dead end~
+This room is a compleate dead end and your only hope of leaving is the 
+way you came in.
+~
+264 0 1
+D0
+~
+~
+0 -1 26464
+Z3
+C-1
+S
+#26466
+A side corridor~
+This is a side corridor that you hope will be the one leading to the end
+of this neverending hell, where ever that is. It has blood smeered on the
+walls in pentagrams and other symbols.
+~
+264 0 1
+D1
+~
+~
+0 -1 26467
+D3
+~
+~
+0 -1 26453
+Z3
+C-1
+S
+#26467
+A side corridor~
+This is a side corridor that you hope will be the one leading to the end
+of this neverending hell, where ever that is. It has blood smeered on the
+walls in pentagrams and other symbols.
+~
+264 0 1
+D0
+~
+~
+0 -1 26468
+D1
+~
+door~
+1 -1 26470
+D3
+~
+~
+0 -1 26466
+Z3
+C-1
+S
+#26468
+A corridor~
+The corridor is getting wider and now you have some moving room.
+You can still see the blood covering the walls but it looks alittle
+fainter then before.
+~
+264 0 1
+D1
+~
+~
+0 -1 26469
+D2
+~
+~
+0 -1 26467
+Z3
+C-1
+S
+#26469
+A small passageway~
+This is a much smaller passageway then the last corridor and makes
+you wonder what will jump out at you next. You see some more symbols on
+the walls and get a strange feeling your beeing looked at this second.
+~
+264 262144 1
+D2
+~
+~
+0 -1 26470
+D3
+~
+~
+0 -1 26468
+Z3
+C-1
+S
+#26470
+A small passageway~
+This is another small passageway that you hope will end soon. You
+can see the faint outline of a door to the west and east. Maybe you
+should go for a look. You can see no signs of trouble, but still
+sneak along just to be safe.
+~
+264 0 1
+D0
+~
+~
+0 -1 26469
+D1
+~
+wall~
+1 -1 26471
+D2
+~
+~
+0 -1 26473
+D3
+~
+door~
+4 -1 26467
+Z3
+C-1
+S
+#26471
+A back room~
+This room appers to have been hidden from the rest of the base. 
+From the looks of the clean walls it looks like the demons overlooked
+this room in their take over. This looks like a good place to rest
+and get your breath.
+~
+264 0 1
+D2
+~
+crate~
+1 -1 26472
+D3
+~
+wall~
+4 -1 26470
+Z3
+C-1
+S
+#26472
+Inside a Crate~
+This is a very small room that has only one thing in it and that is
+ a key card. Your glad that the demons overlooked this so that you
+ may keep going in hope of killing every last one.
+~
+264 0 1
+D0
+~
+crate~
+4 -1 26471
+Z3
+C-1
+S
+#26473
+A passageway~
+This is a passageway to the next part of the base.  The walls look 
+diferent and there is not that much blood around anymore.  Hopefully 
+what made the blood is gone too.
+~
+264 0 1
+D0
+~
+~
+0 -1 26470
+D3
+~
+~
+0 -1 26474
+Z3
+C-1
+S
+#26474
+A passageway~
+This is a average corridor with old blood stains on the walls and cracks
+ from floor to celling.  The lighting is so dim that you can barely make
+ out anything around you.  The leftovers of some meal is spued around
+ the ground here.
+~
+264 0 1
+D1
+~
+~
+0 -1 26473
+D2
+~
+~
+0 -1 26475
+Z3
+C-1
+S
+#26475
+A passageway~
+This is a average corridor with old blood stains on the walls and cracks
+ from floor to celling.  The lighting is so dim that you can barely make
+ out anything around you.  The leftovers of some meal is spued around
+ the ground here.
+~
+264 0 1
+D0
+~
+~
+0 -1 26474
+D2
+~
+~
+0 -1 26476
+Z3
+C-1
+S
+#26476
+A passageway~
+This is a average corridor with old blood stains on the walls and cracks
+ from floor to celling.  The lighting is so dim that you can barely make
+ out anything around you.  The leftovers of some meal is spued around
+ the ground here.
+~
+264 0 1
+D0
+~
+~
+0 -1 26475
+D1
+~
+~
+0 -1 26477
+Z3
+C-1
+S
+#26477
+A passageway~
+This is a average corridor with old blood stains on the walls and cracks
+ from floor to celling.  The lighting is so dim that you can barely make
+ out anything around you.  The leftovers of some meal is spued around
+ the ground here.
+~
+264 0 1
+D1
+~
+~
+0 -1 26478
+D3
+~
+~
+0 -1 26476
+Z3
+C-1
+S
+#26478
+A passageway~
+This is a average corridor with old blood stains on the walls and cracks
+ from floor to celling.  The lighting is so dim that you can barely make
+ out anything around you.  The leftovers of some meal is spued around
+ the ground here.
+~
+264 0 1
+D1
+~
+~
+0 -1 26478
+D2
+~
+~
+0 -1 26479
+D3
+~
+~
+0 -1 26477
+Z3
+C-1
+S
+#26479
+A passageway~
+This is a average corridor with old blood stains on the walls and cracks
+ from floor to celling.  The lighting is so dim that you can barely make
+ out anything around you.  The leftovers of some meal is spued around
+ the ground here.
+~
+264 0 1
+D0
+~
+~
+0 -1 26478
+D3
+~
+~
+0 -1 26480
+Z3
+C-1
+S
+#26480
+A passageway~
+This is a average corridor with old blood stains on the walls and cracks
+ from floor to celling.  The lighting is so dim that you can barely make
+ out anything around you.  The leftovers of some meal is spued around
+ the ground here.
+~
+264 0 1
+D1
+~
+~
+0 -1 26479
+D2
+~
+~
+0 -1 26481
+D3
+~
+~
+0 -1 26480
+Z3
+C-1
+S
+#26481
+A small passageway~
+This is a average corridor with old blood stains on the walls and cracks
+ from floor to celling.  The lighting is so dim that you can barely make
+ out anything around you.  The leftovers of some meal is spued around
+ the ground here.
+~
+264 0 1
+D0
+~
+~
+0 -1 26480
+D3
+~
+~
+0 -1 26482
+Z3
+C-1
+S
+#26482
+A small passageway~
+This is a average corridor with old blood stains on the walls and cracks
+ from floor to celling.  The lighting is so dim that you can barely make
+ out anything around you.  The leftovers of some meal is spued around
+ the ground here.
+~
+264 0 1
+D0
+~
+~
+0 -1 26482
+D1
+~
+~
+0 -1 26481
+D3
+~
+Door~
+1 -1 26483
+Z3
+C-1
+S
+#26483
+A small passageway~
+This is a average corridor with old blood stains on the walls and cracks
+ from floor to celling.  The lighting is so dim that you can barely make
+ out anything around you.  The leftovers of some meal is spued around
+ the ground here.
+~
+264 0 1
+D0
+~
+~
+0 -1 26484
+D1
+~
+Door~
+2 -1 26482
+Z3
+C-1
+S
+#26484
+A big corridor~
+This corridor is giant!  It's celling is about 10 feet up and about that
+far wide too.  This is a lot better then fighting in those crammed
+corridors.  Hanging from the celling is A chain with whats left of 
+a body attached to it.
+~
+264 0 1
+D0
+~
+~
+0 -1 26485
+D2
+~
+~
+0 -1 26483
+Z3
+C-1
+S
+#26485
+A corridor~
+This is a average corridor with old blood stains on the walls and cracks
+from floor to celling.  The lighting is so dim that you can barely make
+out anything around you.  The leftovers of some meal is spued around
+the ground here.
+~
+264 0 1
+D0
+~
+Wall~
+1 -1 26486
+D2
+~
+~
+0 -1 26484
+D3
+~
+~
+0 -1 26487
+Z3
+C-1
+S
+#26486
+A back room~
+This is a back store room.  There are lots of crates stacked up in here
+ and Blood everyhere.  It looks as if the people were hurded into the 
+room then killed. The lemon smell is back to full strangth and after a
+ min of barfing you decide to go on.
+~
+264 0 1
+D2
+~
+Wall~
+4 -1 26485
+Z3
+C-1
+S
+#26487
+A corridor~
+This is a average corridor with old blood stains on the walls and cracks
+from floor to celling.  The lighting is so dim that you can barely make
+out anything around you.  The leftovers of some meal is spued around
+the ground here.
+~
+264 0 1
+D1
+~
+~
+0 -1 26485
+D2
+~
+~
+0 -1 26488
+Z3
+C-1
+S
+#26488
+A corridor~
+This is a average corridor with old blood stains on the walls and cracks
+from floor to celling.  The lighting is so dim that you can barely make
+out anything around you.  The leftovers of some meal is spued around
+the ground here.
+~
+264 0 1
+D0
+~
+~
+0 -1 26487
+D2
+~
+~
+0 -1 26493
+D3
+~
+~
+0 -1 26489
+Z3
+C-1
+S
+#26489
+A small corridor~
+This is a average corridor with old blood stains on the walls and cracks
+from floor to celling.  The lighting is so dim that you can barely make
+out anything around you.  The leftovers of some meal is spued around
+the ground here.
+~
+264 0 1
+D1
+~
+~
+0 -1 26488
+D3
+~
+~
+0 -1 26490
+Z3
+C-1
+S
+#26490
+A small corridor~
+This is a average corridor with old blood stains on the walls and cracks
+from floor to celling.  The lighting is so dim that you can barely make
+out anything around you.  The leftovers of some meal is spued around
+the ground here.
+~
+264 0 1
+D0
+~
+Store~
+1 -1 26492
+D1
+~
+~
+0 -1 26489
+D3
+~
+~
+0 -1 26491
+Z3
+C-1
+S
+#26491
+A big room~
+This is a giant room with ladders leading to all walls. It looks
+like is was used for training in zero-G. There is massive amounts
+of blood and limbs thrown about here.
+~
+264 0 1
+D0
+~
+~
+0 -1 26491
+D1
+~
+~
+0 -1 26491
+D2
+~
+~
+0 -1 26491
+D3
+~
+~
+0 -1 26491
+D4
+~
+~
+0 -1 26491
+D5
+~
+~
+0 -1 26491
+Z3
+C-1
+S
+#26492
+A store room~
+This is a big store room with many different things about.  The most
+interesting whould be the key hanging on the northern wall. There
+are also lots of crates with the words MED-KITS, marked on them.
+~
+264 0 1
+D2
+~
+Store~
+4 -1 26490
+Z3
+C-1
+S
+#26493
+A corridor~
+This is a average corridor with old blood stains on the walls and cracks
+from floor to celling.  The lighting is so dim that you can barely make
+out anything around you.  The leftovers of some meal is spued around
+the ground here.
+~
+264 0 1
+D0
+~
+~
+0 -1 26488
+D2
+~
+~
+0 -1 26494
+Z3
+C-1
+S
+#26494
+In front of a dubble door.~
+You are now standing infront of two massive doors that look like 
+they can't be opened. You can see that they are a little cracked and
+you might be able to get through if you hold your breath.  You can 
+hear more sounds coming from the other side and wonder if this is 
+the way out or just another blood bath.
+~
+264 0 1
+D0
+~
+~
+0 -1 26493
+D1
+~
+~
+0 -1 26496
+D2
+~
+~
+0 -1 7700
+D3
+~
+~
+0 -1 26495
+Z3
+C-1
+S
+#26495
+By a wall~
+You can now relax as you lean on the wall where you can see any danger
+that might approch.  As you relax you see the strange image on the 
+wall that looks like a goats head, but with a strange thing sticking out 
+of it.
+~
+264 0 1
+D1
+~
+~
+0 -1 26494
+D2
+~
+WALL~
+1 -1 26498
+Z3
+C-1
+S
+#26496
+A barrel~
+You are now standing on top of a giant barrel. It has a cover
+and if you stand on it you can look out at the two massive doors
+before you.
+~
+264 0 1
+D2
+~
+Lid~
+1 -1 26497
+D3
+~
+~
+0 -1 26494
+Z3
+C-1
+S
+#26497
+Inside the barrel~
+It smells really bad inside here with all the toxic waste. It is 
+very hot and there is a strange glow about the room, caused by the
+toxic waste.
+~
+264 17 1
+D0
+~
+Lid~
+3 -1 26496
+Z3
+C-1
+S
+#26498
+Inside the wall~
+As you stand inside the wall you can see some suplies and different
+equipment scattered about. You can sit here and heal for the coming 
+battles.
+~
+264 16388 1
+D0
+~
+WALL~
+2 -1 26495
+Z3
+C-1
+S
+#26499
+Pierzin's room.~
+You are standing in nowhere !!!!
+~
+264 33805 1
+D0
+~
+~
+0 -1 26400
+D2
+~
+~
+0 -1 3014
+D4
+~
+~
+0 -1 2000
+Z3
+C-1
+S
+$~

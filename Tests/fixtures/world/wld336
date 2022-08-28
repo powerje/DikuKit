@@ -1,0 +1,2681 @@
+#33600
+{BO,RED}E{BO,MAGENTA}n{bo,MAGENTA}t{bo,RED}r{BO,RED}a{BO,MAGENTA}n{bo,MAGENTA}c{bo,RED}e {BO,RED}t{BO,MAGENTA}o {bo,MAGENTA}V{bo,RED}i{BO,RED}c{BO,MAGENTA}t{bo,MAGENTA}o{bo,RED}r{BO,RED}'{BO,MAGENTA}s {bo,MAGENTA}H{bo,RED}o{BO,RED}t{BO,MAGENTA}e{bo,MAGENTA}l {bo,RED}D{BO,RED}' {BO,MAGENTA}R{bo,MAGENTA}o{bo,RED}y{BO,RED}a{BO,MAGENTA}l{bo}~
+
+   {WHITE}Welcome to Victor's Hotel D' Royal.
+   The entrance seems to be blocked off...
+   You'll have to find another way to get in...
+   I'm sure you can manage.
+   Please enjoy your stay.{bo}
+
+~
+336 4 1
+D2
+~
+~
+0 -1 33534
+D3
+~
+~
+0 -1 33598
+Z-1
+C-1
+S
+#33601
+{BO,MAGENTA}V{bo,MAGENTA}i{BO,MAGENTA}c{bo,MAGENTA}t{BO,MAGENTA}o{bo,MAGENTA}r{BO,MAGENTA}'{bo,MAGENTA}s {BO,MAGENTA}H{bo,MAGENTA}o{BO,MAGENTA}t{bo,MAGENTA}e{BO,MAGENTA}l {bo,MAGENTA}D{BO,MAGENTA}' {bo,MAGENTA}R{BO,MAGENTA}o{bo,MAGENTA}y{BO,MAGENTA}a{bo,MAGENTA}l{bo}~
+
+   {bo,CYAN}Here you are at the reception of
+   this not-so-luxurious hotel.
+
+   {BO,CYAN}In fact, it's disgusting you so
+   much that you just can't wait to
+   get out of here.
+
+   {bo,CYAN}Hurry up and type rent...
+   Seeing as the receptionist looks
+   stressed out of her mind, I'm sure
+   she'd be ecstatic to see you
+   leave this world behind...
+   Or at least for a while.{bo}
+
+~
+336 0 1
+D1
+~
+~
+0 -1 33608
+D5
+~
+~
+0 -1 33657
+Z-1
+C-1
+S
+#33602
+{BO,MAGENTA}Remembrance of Nixdorf{bo}~
+
+  {bo,CYAN}There is a statue here,
+  commemorating the efforts
+  of Nixdorf, one of the finest
+  mudders Northern Crossroads has
+  ever come into contact with.
+
+  {BO,CYAN}In fact, his great great great
+  great great grandson (who really
+  isn't all that great) continues
+  to play here.
+
+  {bo,CYAN}Nixdorf is living to the north of here...
+  Go pay him a visit!{bo}
+
+~
+336 0 1
+D0
+~
+nix~
+2 33527 33606
+D1
+~
+~
+0 -1 33603
+D3
+~
+~
+0 -1 33536
+Z-1
+C-1
+S
+#33603
+{bo,WHITE}Inside the East Gate of Midgaard{bo}~
+
+   {bo,GREEN}You are just inside the eastern
+   gates of Midgaard, protecting the
+   town from any potentially hostile
+   outsiders.
+
+   {bo,YELLOW}If you go up from here, you
+   can get a great view of the
+   wilderness outside of town.
+
+   {bo,GREEN}Apparently that's the only way
+   out though, seeing as the gates
+   are bolted shut.... but why?{bo}
+
+~
+336 0 1
+D0
+~
+~
+0 -1 33608
+D1
+The gates are bolted shut.....
+~
+gate~
+2 -1 33603
+D2
+~
+~
+0 -1 33696
+D3
+~
+~
+0 -1 33602
+D4
+~
+~
+0 -1 33604
+E
+east~
+~
+E
+east {BO,RED}The gates are bolted shut.....{bo}~
+~
+Z-1
+C-1
+S
+#33604
+{BO,CYAN}Over the east gate of Midgaard{bo}~
+
+  {BO,WHITE}Wow!  Look at this!
+  {bo,WHITE}You're over the top of the eastern gates!
+
+  {CYAN}What a view!
+  {MAGENTA}What a thrill!{bo}
+
+~
+336 4 1
+D1
+~
+~
+0 -1 33605
+D3
+~
+~
+0 -1 33603
+Z-1
+C-1
+S
+#33605
+{BO,RED}An Angry Mob{bo}~
+
+   {bo,WHITE}Oh no!  You've gone outside the protective
+   boundaries of Midgaard!
+   {BO,RED}An angry mob awaits you, with clubs, knives, and the like!!
+
+   {bo,WHITE}With a quick swing of a sword, a man slices off your head!
+
+   {BO,WHITE}You're tumbling...
+      {BO,CYAN}Falling...
+         {bo,CYAN}Spinning....
+
+   {BO,BLACK}You maintain consciousness for a few seconds
+   before drifting into your eternal slumber...{bo}
+
+~
+336 2 1
+Z0
+C-1
+S
+#33606
+{bo,WHITE}A Messy Household{bo}~
+
+  {bo,CYAN}Look at this mess!
+
+  {bo,YELLOW}Whoever lives here, sure doesn't
+  make much of it...
+
+  {bo,MAGENTA}You start to wonder who would
+  leave dozens of candy wrappers
+  lying on the ground, and
+  half-chewed bubble gum
+  along with it.{bo}
+
+~
+336 4 1
+D2
+~
+nix~
+1 -1 33602
+D3
+~
+~
+0 -1 33607
+Z-1
+C-1
+S
+#33607
+{BO,WHITE}The Dining Room{bo}~
+
+   {bo,CYAN}What a mess!!!
+
+   {bo,MAGENTA}Papers are strewn throughout,
+   not to mention many other
+   things, some of which you can't
+   quite identify.
+
+   {bo,YELLOW}Who could be related to such
+   a slob??{bo}
+
+~
+336 0 1
+D1
+~
+~
+0 -1 33606
+Z-1
+C-1
+S
+#33608
+{BO,MAGENTA}T{bo,MAGENTA}h{BO,MAGENTA}e P{bo,MAGENTA}os{BO,MAGENTA}t Of{bo,MAGENTA}fi{BO,MAGENTA}ce o{bo,MAGENTA}f {BO,MAGENTA}t{bo,MAGENTA}h{BO,MAGENTA}e C{bo,MAGENTA}ro{BO,MAGENTA}s{bo,MAGENTA}sr{BO,MAGENTA}o{bo,MAGENTA}ad{BO,MAGENTA}s{bo}~
+
+   {bo,CYAN}Welcome to Northern Crossroads
+   Post Office. Here you can pick
+   up your mail, or deliver
+   to other players. The man
+   standing here looks quite
+   serious about his work.
+
+   {BO,CYAN}Maybe you shouldn't
+   disturb him, he has lots
+   of letters to send out.{bo}
+
+~
+336 0 1
+D2
+~
+~
+0 -1 33603
+D3
+~
+~
+0 -1 33601
+Z-1
+C-1
+S
+#33609
+{bo,WHITE}The Main Street{bo}~
+
+  {bo,CYAN}You are now wandering the main streets
+  of Midgaard. You feel safe inside the
+  gates, protecting the city.
+
+  {BO,CYAN}As long as you don't wander too far
+  past them, you're sure to be just fine.{bo}
+
+~
+336 0 1
+D1
+~
+~
+0 -1 33504
+D3
+~
+~
+0 -1 33610
+Z-1
+C-1
+S
+#33610
+{bo,WHITE}The Main Street{bo}~
+
+   {bo,CYAN}Hmm, that's odd... Where
+   are all the shops? Usually
+   there's an armoury, a weapon
+   shop, a bakery and lots more...
+
+   {BO,CYAN}But they all seem to have...
+   Disappeared....{bo}
+
+~
+336 0 1
+D1
+~
+~
+0 -1 33609
+D2
+~
+mage~
+2 33529 33616
+D3
+~
+~
+0 -1 33611
+Z-1
+C-1
+S
+#33611
+{BO,MAGENTA}Monument of Apolo{bo}~
+
+   {bo,CYAN}A large statue of Apolo stands
+   in the center of the street...
+
+   {BO,CYAN}You begin to wonder why it is
+   there, it could easily get run
+   over by a crowd of tourists.
+
+   {bo,MAGENTA}Then, to the north, you see
+   it... another monument....
+
+   {bo,WHITE}But this one looks quite real.{bo}
+
+~
+336 0 1
+D0
+~
+~
+0 -1 33612
+D1
+~
+~
+0 -1 33610
+D3
+~
+~
+0 -1 33613
+Z-1
+C-1
+S
+#33612
+{bo,WHITE}A Space Exhibit{bo}~
+
+   {CYAN}What's this doing here?  Hmm...
+   You don't quite see how
+   Neil Armstrong and Apolo could
+   possibly be related...
+
+   {BO}But then again, there's always
+   Apollo 13...
+
+   {bo,CYAN}Oh well, while you're here
+   you might as well check out
+   what the museum has in store
+   for you...  Just make sure
+   you don't bite off more than
+   you can chew.{bo}
+
+~
+336 0 1
+D0
+~
+~
+0 -1 33501
+D2
+~
+~
+0 -1 33611
+Z-1
+C-1
+S
+#33613
+{bo,WHITE}Inside the West Gate of Midgaard{bo}~
+
+   {bo,GREEN}You are just inside the western
+   gates of Midgaard, protecting the
+   town from any potentially hostile
+   outsiders.
+
+   {bo,YELLOW}If you go up from here, you
+   can get a great view of the
+   wilderness outside of town.
+
+   {bo,GREEN}Apparently that's the only way
+   out though, seeing as the gates
+   are bolted shut.... but why?{bo}
+
+~
+336 0 1
+D1
+~
+~
+0 -1 33611
+D2
+~
+~
+0 -1 33645
+D4
+~
+~
+0 -1 33614
+Z-1
+C-1
+S
+#33614
+{BO,CYAN}Over the east gate of Midgaard{bo}~
+
+  {BO,WHITE}Wow!  Look at this!
+  {bo,WHITE}You're over the top of the western gates!
+
+  {CYAN}What a view!
+  {MAGENTA}What a thrill!{bo}
+
+~
+336 4 1
+D1
+~
+~
+0 -1 33613
+D3
+~
+~
+0 -1 33615
+Z-1
+C-1
+S
+#33615
+{BO,RED}An Angry Mob{bo}~
+
+   {bo,WHITE}Oh no!  You've gone outside the protective
+   boundaries of Midgaard!
+   {BO,RED}An angry mob awaits you, with clubs, knives, and the like!!
+
+   {bo,WHITE}With a quick swing of a sword, a man slices off your head!
+
+   {BO,WHITE}You're tumbling...
+      {BO,CYAN}Falling...
+         {bo,CYAN}Spinning....
+
+   {BO,BLACK}You maintain consciousness for a few seconds
+   before drifting into your eternal slumber...{bo}
+
+~
+336 2 1
+Z0
+C-1
+S
+#33616
+{BO,CYAN}Entrance to Mage's Guild{bo}~
+
+   {CYAN}The gates leading into the
+   mage's guild seem to tower
+   above you, then they instantly
+   shrink down to miniscule
+   proportions. Could this be
+   yet another illusion conjured
+   up by the mage?
+
+   {M}Welcome to the realm of magic...
+   Be wary of those who wield the
+   powers of the dark.{bo}
+
+~
+336 0 1
+D0
+~
+mage~
+1 -1 33610
+D2
+~
+~
+0 -1 33617
+Z-1
+C-1
+S
+#33617
+{BO,MAGENTA}Mage's Bar{bo}~
+
+   {bo,CYAN}Guinness, the word of the mage...
+   Of course, they really don't like to
+   cast it on themselves, so
+   this is where they come instead.
+
+   {BO,CYAN}You definitely don't want to
+   come here before a big fight...
+   {bo,CYAN}It'd be kind of hard when all
+   you can do is cast spells on
+   the opponent...
+
+   {BO,CYAN}You can't really do that when
+   you're drunk.{bo}
+
+~
+336 4 1
+D0
+~
+~
+0 -1 33616
+D2
+~
+~
+0 -1 33618
+Z-1
+C-1
+S
+#33618
+{BO,RED}Field of Black Magic{bo}~
+
+  {bo,WHITE}You've entered the field of
+  black magic, where many young
+  magic users are practicing arcane
+  magics to become archmages...
+
+  {BO,WHITE}As a companion, the archmage
+  can be a valuable ally...
+
+  {bo,WHITE}As an opponent, you'd
+  best not let your guard down....{bo}
+
+~
+336 0 1
+D0
+~
+~
+0 -1 33617
+D1
+~
+~
+0 -1 33619
+D2
+~
+~
+0 -1 33625
+D3
+~
+~
+0 -1 33621
+Z-1
+C-1
+S
+#33619
+{BO,RED}Field of Black Magic{bo}~
+
+  {bo,WHITE}You've entered the field of
+  black magic, where many young
+  magic users are practicing arcane
+  magics to become archmages...
+
+  {BO,WHITE}As a companion, the archmage
+  can be a valuable ally...
+
+  {bo,WHITE}As an opponent, you'd
+  best not let your guard down....{bo}
+
+~
+336 0 1
+D1
+~
+~
+0 -1 33620
+D2
+~
+~
+0 -1 33626
+D3
+~
+~
+0 -1 33618
+Z-1
+C-1
+S
+#33620
+{BO,RED}Field of Black Magic{bo}~
+
+  {bo,WHITE}You've entered the field of
+  black magic, where many young
+  magic users are practicing arcane
+  magics to become archmages...
+
+  {BO,WHITE}As a companion, the archmage
+  can be a valuable ally...
+
+  {bo,WHITE}As an opponent, you'd
+  best not let your guard down....{bo}
+
+~
+336 0 1
+D2
+~
+~
+0 -1 33627
+D3
+~
+~
+0 -1 33619
+Z-1
+C-1
+S
+#33621
+{BO,RED}Field of Black Magic{bo}~
+
+  {bo,WHITE}You've entered the field of
+  black magic, where many young
+  magic users are practicing arcane
+  magics to become archmages...
+
+  {BO,WHITE}As a companion, the archmage
+  can be a valuable ally...
+
+  {bo,WHITE}As an opponent, you'd
+  best not let your guard down....{bo}
+
+~
+336 0 1
+D1
+~
+~
+0 -1 33618
+D2
+~
+~
+0 -1 33624
+D3
+~
+~
+0 -1 33622
+Z-1
+C-1
+S
+#33622
+{BO,RED}Field of Black Magic{bo}~
+
+  {bo,WHITE}You've entered the field of
+  black magic, where many young
+  magic users are practicing arcane
+  magics to become archmages...
+
+  {BO,WHITE}As a companion, the archmage
+  can be a valuable ally...
+
+  {bo,WHITE}As an opponent, you'd
+  best not let your guard down....{bo}
+
+~
+336 0 1
+D1
+~
+~
+0 -1 33621
+D2
+~
+~
+0 -1 33623
+Z-1
+C-1
+S
+#33623
+{BO,RED}Field of Black Magic{bo}~
+
+  {bo,WHITE}You've entered the field of
+  black magic, where many young
+  magic users are practicing arcane
+  magics to become archmages...
+
+  {BO,WHITE}As a companion, the archmage
+  can be a valuable ally...
+
+  {bo,WHITE}As an opponent, you'd
+  best not let your guard down....{bo}
+
+~
+336 0 1
+D0
+~
+~
+0 -1 33622
+D1
+~
+~
+0 -1 33624
+D2
+~
+~
+0 -1 33632
+Z-1
+C-1
+S
+#33624
+{BO,RED}Field of Black Magic{bo}~
+
+  {bo,WHITE}You've entered the field of
+  black magic, where many young
+  magic users are practicing arcane
+  magics to become archmages...
+
+  {BO,WHITE}As a companion, the archmage
+  can be a valuable ally...
+
+  {bo,WHITE}As an opponent, you'd
+  best not let your guard down....{bo}
+
+~
+336 0 1
+D0
+~
+~
+0 -1 33621
+D1
+~
+~
+0 -1 33625
+D2
+~
+~
+0 -1 33631
+D3
+~
+~
+0 -1 33623
+Z-1
+C-1
+S
+#33625
+{BO,RED}Field of Black Magic{bo}~
+
+  {bo,WHITE}You've entered the field of
+  black magic, where many young
+  magic users are practicing arcane
+  magics to become archmages...
+
+  {BO,WHITE}As a companion, the archmage
+  can be a valuable ally...
+
+  {bo,WHITE}As an opponent, you'd
+  best not let your guard down....{bo}
+
+~
+336 0 1
+D0
+~
+~
+0 -1 33618
+D1
+~
+~
+0 -1 33626
+D2
+~
+~
+0 -1 33630
+D3
+~
+~
+0 -1 33624
+Z-1
+C-1
+S
+#33626
+{BO,RED}Field of Black Magic{bo}~
+
+  {bo,WHITE}You've entered the field of
+  black magic, where many young
+  magic users are practicing arcane
+  magics to become archmages...
+
+  {BO,WHITE}As a companion, the archmage
+  can be a valuable ally...
+
+  {bo,WHITE}As an opponent, you'd
+  best not let your guard down....{bo}
+
+~
+336 0 1
+D0
+~
+~
+0 -1 33619
+D1
+~
+~
+0 -1 33627
+D2
+~
+~
+0 -1 33629
+D3
+~
+~
+0 -1 33625
+Z-1
+C-1
+S
+#33627
+{BO,RED}Field of Black Magic{bo}~
+
+  {bo,WHITE}You've entered the field of
+  black magic, where many young
+  magic users are practicing arcane
+  magics to become archmages...
+
+  {BO,WHITE}As a companion, the archmage
+  can be a valuable ally...
+
+  {bo,WHITE}As an opponent, you'd
+  best not let your guard down....{bo}
+
+~
+336 0 1
+D0
+~
+~
+0 -1 33620
+D2
+~
+~
+0 -1 33628
+D3
+~
+~
+0 -1 33626
+Z-1
+C-1
+S
+#33628
+{BO,RED}Field of Black Magic{bo}~
+
+  {bo,WHITE}You've entered the field of
+  black magic, where many young
+  magic users are practicing arcane
+  magics to become archmages...
+
+  {BO,WHITE}As a companion, the archmage
+  can be a valuable ally...
+
+  {bo,WHITE}As an opponent, you'd
+  best not let your guard down....{bo}
+
+~
+336 0 1
+D0
+~
+~
+0 -1 33627
+D2
+~
+~
+0 -1 33637
+D3
+~
+~
+0 -1 33629
+Z-1
+C-1
+S
+#33629
+{BO,RED}Field of Black Magic{bo}~
+
+  {bo,WHITE}You've entered the field of
+  black magic, where many young
+  magic users are practicing arcane
+  magics to become archmages...
+
+  {BO,WHITE}As a companion, the archmage
+  can be a valuable ally...
+
+  {bo,WHITE}As an opponent, you'd
+  best not let your guard down....{bo}
+
+~
+336 0 1
+D0
+~
+~
+0 -1 33626
+D1
+~
+~
+0 -1 33628
+D2
+~
+~
+0 -1 33636
+D3
+~
+~
+0 -1 33630
+Z-1
+C-1
+S
+#33630
+{BO,RED}Field of Black Magic{bo}~
+
+  {bo,WHITE}You've entered the field of
+  black magic, where many young
+  magic users are practicing arcane
+  magics to become archmages...
+
+  {BO,WHITE}As a companion, the archmage
+  can be a valuable ally...
+
+  {bo,WHITE}As an opponent, you'd
+  best not let your guard down....{bo}
+
+~
+336 0 1
+D0
+~
+~
+0 -1 33625
+D1
+~
+~
+0 -1 33629
+D2
+~
+~
+0 -1 33635
+D3
+~
+~
+0 -1 33631
+Z-1
+C-1
+S
+#33631
+{BO,RED}Field of Black Magic{bo}~
+
+  {bo,WHITE}You've entered the field of
+  black magic, where many young
+  magic users are practicing arcane
+  magics to become archmages...
+
+  {BO,WHITE}As a companion, the archmage
+  can be a valuable ally...
+
+  {bo,WHITE}As an opponent, you'd
+  best not let your guard down....{bo}
+
+~
+336 0 1
+D0
+~
+~
+0 -1 33624
+D1
+~
+~
+0 -1 33630
+D2
+~
+~
+0 -1 33634
+D3
+~
+~
+0 -1 33632
+Z-1
+C-1
+S
+#33632
+{BO,RED}Field of Black Magic{bo}~
+
+  {bo,WHITE}You've entered the field of
+  black magic, where many young
+  magic users are practicing arcane
+  magics to become archmages...
+
+  {BO,WHITE}As a companion, the archmage
+  can be a valuable ally...
+
+  {bo,WHITE}As an opponent, you'd
+  best not let your guard down....{bo}
+
+~
+336 0 1
+D0
+~
+~
+0 -1 33623
+D1
+~
+~
+0 -1 33631
+D2
+~
+~
+0 -1 33633
+Z-1
+C-1
+S
+#33633
+{BO,RED}Field of Black Magic{bo}~
+
+  {bo,WHITE}You've entered the field of
+  black magic, where many young
+  magic users are practicing arcane
+  magics to become archmages...
+
+  {BO,WHITE}As a companion, the archmage
+  can be a valuable ally...
+
+  {bo,WHITE}As an opponent, you'd
+  best not let your guard down....{bo}
+
+~
+336 0 1
+D0
+~
+~
+0 -1 33632
+D1
+~
+~
+0 -1 33634
+D2
+~
+~
+0 -1 33642
+Z-1
+C-1
+S
+#33634
+{BO,RED}Field of Black Magic{bo}~
+
+  {bo,WHITE}You've entered the field of
+  black magic, where many young
+  magic users are practicing arcane
+  magics to become archmages...
+
+  {BO,WHITE}As a companion, the archmage
+  can be a valuable ally...
+
+  {bo,WHITE}As an opponent, you'd
+  best not let your guard down....{bo}
+
+~
+336 0 1
+D0
+~
+~
+0 -1 33631
+D1
+~
+~
+0 -1 33635
+D2
+~
+~
+0 -1 33641
+D3
+~
+~
+0 -1 33633
+Z-1
+C-1
+S
+#33635
+{BO,RED}Field of Black Magic{bo}~
+
+  {bo,WHITE}You've entered the field of
+  black magic, where many young
+  magic users are practicing arcane
+  magics to become archmages...
+
+  {BO,WHITE}As a companion, the archmage
+  can be a valuable ally...
+
+  {bo,WHITE}As an opponent, you'd
+  best not let your guard down....{bo}
+
+~
+336 0 1
+D0
+~
+~
+0 -1 33630
+D1
+~
+~
+0 -1 33636
+D2
+~
+~
+0 -1 33640
+D3
+~
+~
+0 -1 33634
+Z-1
+C-1
+S
+#33636
+{BO,RED}Field of Black Magic{bo}~
+
+  {bo,WHITE}You've entered the field of
+  black magic, where many young
+  magic users are practicing arcane
+  magics to become archmages...
+
+  {BO,WHITE}As a companion, the archmage
+  can be a valuable ally...
+
+  {bo,WHITE}As an opponent, you'd
+  best not let your guard down....{bo}
+
+~
+336 0 1
+D0
+~
+~
+0 -1 33629
+D1
+~
+~
+0 -1 33637
+D2
+~
+~
+0 -1 33639
+D3
+~
+~
+0 -1 33635
+Z-1
+C-1
+S
+#33637
+{BO,RED}Field of Black Magic{bo}~
+
+  {bo,WHITE}You've entered the field of
+  black magic, where many young
+  magic users are practicing arcane
+  magics to become archmages...
+
+  {BO,WHITE}As a companion, the archmage
+  can be a valuable ally...
+
+  {bo,WHITE}As an opponent, you'd
+  best not let your guard down....{bo}
+
+~
+336 0 1
+D0
+~
+~
+0 -1 33628
+D2
+~
+~
+0 -1 33638
+D3
+~
+~
+0 -1 33636
+Z-1
+C-1
+S
+#33638
+{BO,RED}Field of Black Magic{bo}~
+
+  {bo,WHITE}You've entered the field of
+  black magic, where many young
+  magic users are practicing arcane
+  magics to become archmages...
+
+  {BO,WHITE}As a companion, the archmage
+  can be a valuable ally...
+
+  {bo,WHITE}As an opponent, you'd
+  best not let your guard down....{bo}
+
+~
+336 0 1
+D0
+~
+~
+0 -1 33637
+D3
+~
+~
+0 -1 33639
+Z-1
+C-1
+S
+#33639
+{BO,RED}Field of Black Magic{bo}~
+
+  {bo,WHITE}You've entered the field of
+  black magic, where many young
+  magic users are practicing arcane
+  magics to become archmages...
+
+  {BO,WHITE}As a companion, the archmage
+  can be a valuable ally...
+
+  {bo,WHITE}As an opponent, you'd
+  best not let your guard down....{bo}
+
+~
+336 0 1
+D0
+~
+~
+0 -1 33636
+D1
+~
+~
+0 -1 33638
+D3
+~
+~
+0 -1 33640
+Z-1
+C-1
+S
+#33640
+{BO,RED}Field of Black Magic{bo}~
+
+  {bo,WHITE}You've entered the field of
+  black magic, where many young
+  magic users are practicing arcane
+  magics to become archmages...
+
+  {BO,WHITE}As a companion, the archmage
+  can be a valuable ally...
+
+  {bo,WHITE}As an opponent, you'd
+  best not let your guard down....{bo}
+
+~
+336 0 1
+D0
+~
+~
+0 -1 33635
+D1
+~
+~
+0 -1 33639
+D2
+~
+inferno~
+2 33526 33643
+D3
+~
+~
+0 -1 33641
+Z-1
+C-1
+S
+#33641
+{BO,RED}Field of Black Magic{bo}~
+
+  {bo,WHITE}You've entered the field of
+  black magic, where many young
+  magic users are practicing arcane
+  magics to become archmages...
+
+  {BO,WHITE}As a companion, the archmage
+  can be a valuable ally...
+
+  {bo,WHITE}As an opponent, you'd
+  best not let your guard down....{bo}
+
+~
+336 0 1
+D0
+~
+~
+0 -1 33634
+D1
+~
+~
+0 -1 33640
+D3
+~
+~
+0 -1 33642
+Z-1
+C-1
+S
+#33642
+{BO,RED}Field of Black Magic{bo}~
+
+  {bo,WHITE}You've entered the field of
+  black magic, where many young
+  magic users are practicing arcane
+  magics to become archmages...
+
+  {BO,WHITE}As a companion, the archmage
+  can be a valuable ally...
+
+  {bo,WHITE}As an opponent, you'd
+  best not let your guard down....{bo}
+
+~
+336 0 1
+D0
+~
+~
+0 -1 33633
+D1
+~
+~
+0 -1 33641
+Z-1
+C-1
+S
+#33643
+{BO,CYAN}Infernal Entrapment{bo}~
+
+   {bo,RED}Find your place of power...
+      {bo,CYAN}Develop your sense of intuition....
+         {BO,RED}Build up that power until it explodes...
+            {BO,CYAN}Like a fiery hailstorm, incinerating your foes....
+
+   {BO,WHITE}This is the place of the archmage...
+
+   {bo,WHITE}Let it be known that the power of the mind
+   cannot be overexploited.{bo}
+
+~
+336 4 1
+D0
+~
+inferno~
+1 -1 33640
+D2
+~
+~
+0 -1 33644
+Z-1
+C-1
+S
+#33644
+{bo,CYAN}Raspu's Chamber{bo}~
+
+   {bo,MAGENTA}You've now entered the chamber
+   of the archmage Raspu. There are
+   many small trinkets in this room...
+
+   {bo,YELLOW}On a shelf, you can swear you
+   see a little figurine
+   resembling yourself...
+
+   {bo,MAGENTA}Is that a voodoo doll?{bo}
+
+~
+336 1 1
+D0
+~
+~
+0 -1 33643
+Z-1
+C-1
+S
+#33645
+{bo,WHITE}Wall Road{bo}~
+
+   {bo,CYAN}You are now walking along a
+   narrow road, with gigantic
+   stone walls lining the
+   western path.
+
+   {BO,CYAN}Maybe if you wander
+   around here a bit you'll
+   find something of use.{bo}
+
+~
+336 0 1
+D0
+~
+~
+0 -1 33613
+D1
+~
+~
+0 -1 33646
+D2
+~
+~
+0 -1 33694
+Z-1
+C-1
+S
+#33646
+{BO,BLACK}Back Alley{bo}~
+
+  {bo,WHITE}You are now in the back
+  alley of Midgaard. There's
+  not really much to see,
+  but you can hear some
+  gunshots coming from
+  the south.
+
+  {BO,WHITE}Maybe you should go
+  check it out!{bo}
+
+~
+336 0 1
+D1
+~
+~
+0 -1 33693
+D2
+~
+~
+0 -1 33647
+D3
+~
+~
+0 -1 33645
+Z-1
+C-1
+S
+#33647
+{BO,YELLOW}Concentration Camp{bo}~
+
+   {bo,CYAN}Oh no!  You've stepped
+   into the depths of modern
+   warfare!!
+
+   {BO,CYAN}You hear sounds coming
+   from all around you...
+   gunshots, the cry of
+   wounded soldiers...
+
+   {bo,CYAN}You just wish you could
+   end all this right now!{bo}
+
+~
+336 0 1
+D0
+~
+~
+0 -1 33646
+D1
+~
+tent~
+1 33600 33659
+D2
+~
+kitchen~
+2 33515 33648
+Z-1
+C-1
+S
+#33648
+{bo,YELLOW}The Kitchen{bo}~
+
+   {bo,CYAN}In this kitchen, you see various
+   utensils that the soup nazi
+   uses for cooking food...
+
+   {bo,WHITE}Sure, they look like torture devices,
+   but what harm could they do?...
+
+   {BO,WHITE}Maybe you shouldn't stick around to find out!{BO,WHITE}
+
+~
+336 0 1
+D0
+~
+kitchen~
+1 -1 33647
+D4
+~
+~
+0 -1 33649
+X268435456
+Z-1
+C-1
+S
+#33649
+{BO,YELLOW}Blitzkrieg{bo}~
+
+   {BO,CYAN}What's this??  You knew they were
+   in kahootz! It's Seinfeld and
+   Hitler, together again!
+
+
+   {bo,CYAN}It seems Hitler's the one in
+   control here...
+
+   Watch out! Seinfeld's got a
+   needy look in his eyes!
+
+~
+336 0 1
+D5
+~
+~
+0 -1 33648
+X2
+Z-1
+C-1
+S
+#33650
+{BO,YELLOW}Safe Room{bo}~
+
+   {BO,WHITE}Serenity now!
+   Serenity now!!{BO,WHITE}
+
+   {BO,CYAN}That's what you're chanting
+   as you enter this room.{BO,CYAN}
+
+~
+336 8196 1
+D1
+~
+fido~
+1 -1 33599
+M50
+X2048
+Z-1
+C-1
+S
+#33651
+{BO,WHITE}In the Clouds{bo}~
+
+   {CYAN}You are now inside a fluffy white cloud,
+   making it somewhat difficult to see things
+   around you. Be careful, for anything
+   could be lurking in the sky.
+
+~
+336 0 1
+D4
+~
+~
+0 -1 33654
+X22
+Z-1
+C1
+S
+#33652
+{BO,BLACK}S{bo,CYAN}t{BO,CYAN}u{BO,WHITE}c{bo,WHITE}k {BO,BLACK}i{bo,CYAN}n {BO,CYAN}L{BO,WHITE}i{bo,WHITE}m{BO,BLACK}b{bo,CYAN}o{bo}~
+
+   {BO,BLACK}You are stuck in a section of
+   reality where time stands still.
+
+   Hang in there... it looks
+   like there won't be much
+   happening for a while.{bo}
+
+~
+336 0 0
+Z-1
+C1
+S
+#33653
+{BO,RED}S{bo,RED}T{BO,RED}u{bo,RED}D{BO,RED}D{bo,RED}'{BO,RED}s {bo,RED}R{BO,RED}o{bo,RED}o{BO,RED}m{bo}~
+
+   {bo,CYAN}You never suspected Nixdorf would
+   be related to such an oddball,
+   did you??
+
+   {bo,MAGENTA}Well, now that you've found
+   out the family secret, I'm
+   sure STuDD's going to try to
+   keep it hidden from everyone
+   else!   Keep your guard up!{bo}
+
+~
+336 8 1
+X2
+Z-1
+C-1
+S
+#33654
+{BO,WHITE}Standing on the Clouds{bo}~
+
+   {CYAN}You are floating above the earth, on
+   top of the clouds... Things seem so
+   peaceful and serene... Yet you know
+   there is more than meets the eye...
+   When you're standing in the sky.{CYAN}
+
+~
+336 0 1
+D4
+~
+~
+0 -1 33655
+X268435458
+Z-1
+C2
+S
+#33655
+{BO,WHITE}Above the Clouds{bo}~
+
+   {CYAN}An unknown presence is pushing you upward...
+   and somehow you have ended up above the clouds,
+   above the world you used to know...
+
+   {BO,CYAN}Perhaps you are going beyond...
+   To the next world...
+   To the next life....{BO,CYAN}
+
+~
+336 0 1
+D4
+~
+sky~
+2 33522 33656
+X268435458
+Z-1
+C-1
+S
+#33656
+{WHITE}T{BO,WHITE}h{bo,WHITE}e {BO,WHITE}S{bo,WHITE}k{BO,WHITE}y{bo,WHITE}'{BO,WHITE}s {bo,WHITE}t{BO,WHITE}h{bo,WHITE}e {BO,WHITE}L{bo,WHITE}i{BO,WHITE}m{bo,WHITE}i{BO,WHITE}t{bo}~
+You are standing in nowhere !!!!
+~
+336 128 1
+D5
+~
+~
+0 -1 33655
+M52
+Z0
+C-1
+S
+#33657
+{BO,WHITE}Falling....{bo}~
+
+   {BO,CYAN}Whoa, that's a long drop!
+      {bo,CYAN}You're spinning, spiraling...
+         {BO,BLACK}Slipping....{bo}
+
+~
+336 1048576 1
+D5
+~
+~
+0 -1 33600
+Z-1
+C-1
+S
+#33658
+{BO,WHITE}The Beginning of the End{bo}~
+
+   {BO,MAGENTA}What?!?  Where is everyone?!
+   {CYAN}The streets are bare, and there seems to be no one in sight.
+   Could it be possible that perhaps you've stumbled upon.....
+
+   {YELLOW}Phantom Midgaard?
+
+   {BO,RED}There's a sign here: READ IT!{bo}
+
+~
+336 65540 1
+D1
+~
+~
+0 -1 33502
+E
+sign hazard warning~
+
+{BO,WHITE}(@)-{BLUE}Disclaimer/Copyright Notice{W}-_-_-_-_-_-_)
+|                                         /
+| {MA}Upon gaining entry to Phantom Midgaard, {W}|
+| {M}you hereby agree to the following:      {W}|
+|                                         |
+| {BLUE}o {BO,C}I have been trained to the extent     {W}|
+|   {C}that my skills and techniques are     {W}|
+|   {C}of a highly advanced nature.          {W}|
+| {BLUE}o {BO,C}I am not a lone soldier: I shall      {W}|
+|   {C}fight alongside my comrades or        {W}|
+|   {C}die trying.                           {W}|
+| {BLUE}o {BO,C}I am prepared to be brutally          {W}|
+|   {C}massacred if the need arises.         {W}|
+| {BLUE}o {BO,C}I am aware that there may be tricks   {W}|
+|   {C}ahead to daze and confuse me.         {W}|
+|/\/\-\/-/--\_-\_/_-/\_--_-\_-/-/-_/-\/\-//
+
+{BO,RED}The copyright notice seems to have been
+mysteriously torn off!{bo}
+
+~
+M35
+Z-1
+C-1
+S
+#33659
+{BO,CYAN}The Enemy Base{bo}~
+
+   {bo,WHITE}Welcome to the enemy base...
+   since this is not your place,
+   it is suggested that you
+   be very careful.
+
+   {BO,BLAC}If you're not, you could
+   end up getting locked up
+   and tortured for quite a
+   while.{bo}
+
+~
+336 0 1
+D1
+~
+~
+0 -1 33660
+D3
+~
+tent~
+1 -1 33647
+X2
+Z-1
+C-1
+S
+#33660
+{bo,MAGENTA}Camping Grounds{bo}~
+
+   {bo,CYAN}There is much death and
+   suffering to be found in
+   this place...
+
+   {BO,CYAN}The stench of the decaying
+   corpse lying at your feet
+   makes your stomach churn.{bo}
+
+~
+336 0 1
+D1
+~
+~
+0 -1 33661
+D3
+~
+~
+0 -1 33659
+X2
+Z-1
+C-1
+S
+#33661
+{BO,RED}Base Camp{bo}~
+
+   {bo,WHITE}You've now entered enemy
+   territory. You'd better go
+   through quietly, or one of
+   the guards might see you, and
+   capture you.
+
+   {BO,WHITE}But, if you're careful,
+   maybe you can rescue some
+   prisoners while you're here.
+ {bo}
+~
+336 0 1
+D3
+~
+~
+0 -1 33660
+X2
+Z-1
+C-1
+S
+#33662
+{WHITE}Going up the Ladder{bo}~
+
+   {BO,WHITE}You are now on your way up
+   the ladder to Bozo's Training
+   Room. What terrors await
+   you there?
+
+   {BO,CYAN}Well, you'll just have to
+   wait and see!{bo}
+
+~
+336 1281 9
+D4
+~
+~
+0 -1 33663
+T33503
+X2
+Z-1
+C1
+S
+#33663
+{WHITE}Higher on the Ladder{bo}~
+
+   {BO,WHITE}You are now a few steps
+   closer to reaching your goal.
+   Bozo's waiting for you
+   at the top of the ladder!
+
+   {BO,CYAN}You'd better hurry up
+   and make your way to him
+   before he gets angry!{bo}
+
+~
+336 1281 9
+D4
+~
+~
+0 -1 33664
+T33503
+X268435458
+Z-1
+C2
+S
+#33664
+{WHITE}Near the Top{bo}~
+
+   {BO,WHITE}You're getting closer and
+   closer to Bozo's Room. From
+   here you can see he the
+   many books that he uses
+   to train his disciples.
+
+   {BO,CYAN}You also see someone else
+   in the room with him...
+   Who could that be?{bo}
+
+~
+336 1281 9
+D4
+~
+~
+0 -1 33665
+T33503
+X268435458
+Z-1
+C-1
+S
+#33665
+{BO,WHITE}Bozo's Training Room{bo}~
+
+   {bo,CYAN}You have now entered the training
+   room of the famous Bozo, master
+   trainer for all those in Midgaard.
+   He has swatted flies bigger than you.
+   He's also trained flies bigger
+   than you.
+
+   {BO,CYAN}Perhaps if you stay a while you
+   will learn something...whether it
+   be something useful or something
+   deadly.{bo}
+
+~
+336 1 9
+X2
+Z-1
+C-1
+S
+#33666
+{BO,CYAN}Shallow Waters{bo}~
+
+   {WHITE}You are now immersed in somewhat
+   shallow waters. You're still going
+   to need your scuba gear however...
+
+   {BO}You can't seem to keep your
+   head above the water.{bo}
+
+~
+336 256 10
+D5
+~
+~
+0 -1 33667
+T33503
+X2
+Z-1
+C1
+S
+#33667
+{BO,CYAN}Deeper Waters{bo}~
+
+   {WHITE}At this point, the water is
+   beginning to get colder and
+   deeper...
+   Did you remember your
+   underwater equipment?{bo}
+
+~
+336 256 10
+D5
+~
+~
+0 -1 33668
+T33503
+X2
+Z-1
+C2
+S
+#33668
+{BO,CYAN}Below the Surface{bo}~
+
+   {WHITE}Well, you're pretty deep under
+   the water, no point in turning
+   back now. It's kind of chilly,
+   but it's still something you
+   can get used to.
+
+   {BO}It's getting kind of hard
+   to breath though, too bad
+   you don't have gills!{bo}
+
+~
+336 256 10
+D5
+~
+~
+0 -1 33669
+T33503
+X2
+Z-1
+C-1
+S
+#33669
+{BO,CYAN}Far Below{bo}~
+
+   {W}Wow, look at all the pretty
+   colours! There are rocks of every
+   size and shape, not to mention
+   some very unfamiliar plants...
+
+   {BO}Exactly the reason you wouldn't
+   want to get all that close
+   to them. They could be
+   dangerous!{bo}
+
+~
+336 384 10
+D5
+~
+~
+0 -1 33670
+T33665
+Z-1
+C-1
+S
+#33670
+{BO,WHITE}Rock Bottom{bo}~
+
+   {bo,CYAN}Well, you finally made it
+   to the sea floor. It's fairly
+   plain, aside from a few sea
+   creatures moving about. You
+   can feel the sand moving
+   over your toes, don't you
+   just love that feeling?
+
+   {BO,CYAN}There is a dark cave to the
+   south... Who (or what) do you
+   think lives there?{bo}
+
+~
+336 8196 10
+D2
+~
+~
+0 -1 33671
+X2
+Z-1
+C-1
+S
+#33671
+{BO,RED}Dax's Humble Abode{bo}~
+
+   {WHITE}So this is where Dax hides out
+   when she's not in Bozo's!
+   This place really gives you the
+   creeps...it's dark, small and...
+   well, underwater!
+
+   {BO}Who could live in such a place?
+   Well, obviously Dax can...
+   Better hurry up and get out
+   of here before you run
+   out of air!{bo}
+
+~
+336 0 10
+X2
+Z-1
+C-1
+S
+#33672
+{BO,WHITE}Lost in Space{bo}~
+
+   {BO,BLACK}You are drifting farther
+   and farther away from your
+   point of origin...
+
+   The pressure is too much...
+   Your oxygen won't last
+   much longer.{bo}
+
+~
+336 4211168 1
+D4
+~
+~
+0 -1 33673
+T33612
+X274727046
+Z-1
+C-1
+S
+#33673
+{BO,WHITE}Lost in Space{bo}~
+
+   {BO,BLACK}You are drifting farther
+   and farther away from your
+   point of origin...
+
+   The pressure is too much...
+   Your oxygen won't last
+   much longer.{bo}
+
+~
+336 4210912 1
+D0
+~
+~
+0 -1 33675
+D1
+~
+~
+0 -1 33676
+D2
+~
+~
+0 -1 33674
+D3
+~
+~
+0 -1 33673
+D4
+~
+~
+0 -1 33677
+D5
+~
+~
+0 -1 33501
+T33612
+X274727046
+Z-1
+C-1
+S
+#33674
+{BO,WHITE}Lost in Space{bo}~
+
+   {BO,BLACK}You are drifting farther
+   and farther away from your
+   point of origin...
+
+   The pressure is too much...
+   Your oxygen won't last
+   much longer.{bo}
+
+~
+336 4210912 1
+D0
+~
+~
+0 -1 33678
+D1
+~
+~
+0 -1 33674
+D2
+~
+~
+0 -1 33673
+D3
+~
+~
+0 -1 33675
+D4
+~
+~
+0 -1 33503
+D5
+~
+~
+0 -1 3014
+X274727046
+Z-1
+C-1
+S
+#33675
+{BO,WHITE}Lost in Space{bo}~
+
+   {BO,BLACK}You are drifting farther
+   and farther away from your
+   point of origin...
+
+   The pressure is too much...
+   Your oxygen won't last
+   much longer.{bo}
+
+~
+336 4210912 1
+X274727046
+Z-1
+C-1
+S
+#33676
+{BO,WHITE}Lost in Space{bo}~
+
+   {BO,BLACK}You are drifting farther
+   and farther away from your
+   point of origin...
+
+   The pressure is too much...
+   Your oxygen won't last
+   much longer.{bo}
+
+~
+336 4210912 1
+D1
+~
+~
+0 -1 33674
+D2
+~
+~
+0 -1 33501
+D3
+~
+~
+0 -1 33675
+D4
+~
+~
+0 -1 33501
+X274727046
+Z-1
+C-1
+S
+#33677
+{BO,RED}A{bo,RED}n {BO}E{bo,RED}x{BO}t{bo,RED}r{BO}e{bo,RED}m{BO}e{bo,RED}l{BO}y {bo,RED}Q{BO}u{bo,RED}i{BO}e{bo,RED}t {BO}C{bo,RED}o{BO}r{bo,RED}n{BO}e{bo,RED}r {BO}o{bo,RED}f {BO}t{bo,RED}h{BO}e {bo,RED}G{BO}a{bo,RED}l{BO}a{bo,RED}x{BO}y{bo}~
+
+   {BO,WHITE}The silence is deafening...
+   All that can be heard is the sound of the stars...
+
+   {bo,WHITE}The scattering of the debris break your
+   whisper... and you become one with the universe.
+
+   {BO,CYAN}Welcome to your endless dream.{bo}
+
+~
+336 262146 1
+Z0
+C-1
+S
+#33678
+{BO,WHITE}Lost in Space{bo}~
+
+   {BO,BLACK}You are drifting farther
+   and farther away from your
+   point of origin...
+
+   The pressure is too much...
+   Your oxygen won't last
+   much longer.{bo}
+
+~
+336 4210912 1
+D0
+~
+~
+0 -1 33674
+D1
+~
+~
+0 -1 33673
+D2
+~
+~
+0 -1 33675
+D3
+~
+~
+0 -1 33673
+D4
+~
+~
+0 -1 33679
+D5
+~
+~
+0 -1 33677
+X274727046
+Z-1
+C-1
+S
+#33679
+{BO,CYAN}A{bo,CYAN}n {BO}E{bo,CYAN}x{BO}t{bo,CYAN}r{BO}e{bo,CYAN}m{BO}e{bo,CYAN}l{BO}y {bo,CYAN}Q{BO}u{bo,CYAN}i{BO}e{bo,CYAN}t {BO}C{bo,CYAN}o{BO}r{bo,CYAN}n{BO}e{bo,CYAN}r {BO}o{bo,CYAN}f {BO}t{bo,CYAN}h{BO}e {bo,CYAN}G{BO}a{bo,CYAN}l{BO}a{bo,CYAN}x{BO}y{bo}~
+
+   {CYAN}You're safe it seems...
+   Or at least for the time being.
+
+   But in this corner of the galaxy...
+   How safe could you possibly be?{bo}
+
+~
+336 24580 1
+D1
+~
+~
+0 -1 33685
+X2050
+Z-1
+C-1
+S
+#33680
+{WHITE}A Gaseous Cloud{bo}~
+
+   {CYAN}You've entered a dense cloud
+   out in space. The blinding fog
+   which seems to be covering whatever
+   atmosphere that exists seems to
+   absorb light, and you can't help
+   but wonder what that might mean.
+
+~
+336 352 1
+D4
+~
+~
+0 -1 33681
+T33612
+X2
+Z-1
+C1
+S
+#33681
+{WHITE}A Gaseous Cloud{bo}~
+
+   {CYAN}You've entered a dense cloud
+   out in space. The blinding fog
+   which seems to be covering whatever
+   atmosphere that exists seems to
+   absorb light, and you can't help
+   but wonder what that might mean.
+
+~
+336 352 1
+D4
+~
+~
+0 -1 33682
+T33612
+X2
+Z-1
+C2
+S
+#33682
+{WHITE}A Gaseous Cloud{bo}~
+
+   {CYAN}You've entered a dense cloud
+   out in space. The blinding fog
+   which seems to be covering whatever
+   atmosphere that exists seems to
+   absorb light, and you can't help
+   but wonder what that might mean.
+
+~
+336 352 1
+D4
+~
+~
+0 -1 33683
+T33612
+X2
+Z-1
+C-1
+S
+#33683
+{WHITE}A Gaseous Cloud{bo}~
+
+   {CYAN}You've entered a dense cloud
+   out in space. The blinding fog
+   which seems to be covering whatever
+   atmosphere that exists seems to
+   absorb light, and you can't help
+   but wonder what that might mean.
+
+~
+336 352 1
+D1
+~
+~
+0 -1 33684
+T33612
+X2
+Z-1
+C-1
+S
+#33684
+{BO,CYAN}A{bo,CYAN}n {BO}E{bo,CYAN}x{BO}t{bo,CYAN}r{BO}e{bo,CYAN}m{BO}e{bo,CYAN}l{BO}y {bo,CYAN}Q{BO}u{bo,CYAN}i{BO}e{bo,CYAN}t {BO}C{bo,CYAN}o{BO}r{bo,CYAN}n{BO}e{bo,CYAN}r {BO}o{bo,CYAN}f {BO}t{bo,CYAN}h{BO}e {bo,CYAN}G{BO}a{bo,CYAN}l{BO}a{bo,CYAN}x{BO}y{bo}~
+
+   {CYAN}You're safe it seems...
+   Or at least for the time being.
+
+   But in this corner of the galaxy...
+   How safe could you possibly be?{bo}
+
+~
+336 24580 1
+D0
+~
+~
+0 -1 33686
+X2050
+Z-1
+C-1
+S
+#33685
+{BO,WHITE}T{CYAN}h{WHITE}e {CYAN}M{WHITE}i{CYAN}l{WHITE}k{CYAN}y {WHITE}W{CYAN}a{WHITE}y {CYAN}G{WHITE}a{CYAN}l{WHITE}a{CYAN}x{WHITE}y{bo}~
+
+   {MAGENTA}Oh my gosh! Look at that!
+   It's a vertical stream of milk!
+
+   {BO}Well then again, I guess you
+   can't really say it's vertical,
+   since there really isn't any
+   specific directions in space.
+
+   {MAGENTA}Got milk?
+   It does a body good.{bo}
+
+~
+336 352 1
+D3
+~
+~
+0 -1 33679
+D4
+~
+~
+0 -1 33680
+T33612
+X2
+Z-1
+C-1
+S
+#33686
+{CYAN}At the Very Beginning{bo}~
+
+   {YELLOW}You're back to the place where
+   all was created, all was nourished...
+   The birth of the world as you see it,
+   from the tiny seed of the earth that
+   is evolution.
+
+   {WHITE}Welcome to your life...
+   And all that has flourished
+   before it.{bo}
+
+~
+336 352 1
+D2
+~
+~
+0 -1 33684
+D4
+~
+~
+0 -1 33687
+T33612
+X2
+Z-1
+C-1
+S
+#33687
+{WHITE}A Gaseous Cloud{bo}~
+
+   {CYAN}You've entered a dense cloud
+   out in space. The blinding fog
+   which seems to be covering whatever
+   atmosphere that exists seems to
+   absorb light, and you can't help
+   but wonder what that might mean.
+
+~
+336 288 1
+D4
+~
+~
+0 -1 33688
+T33612
+X2
+Z0
+C1
+S
+#33688
+{WHITE}A Gaseous Cloud{bo}~
+
+   {CYAN}You've entered a dense cloud
+   out in space. The blinding fog
+   which seems to be covering whatever
+   atmosphere that exists seems to
+   absorb light, and you can't help
+   but wonder what that might mean.
+
+~
+336 288 1
+D4
+~
+~
+0 -1 33689
+D5
+~
+~
+0 -1 33687
+T33612
+X2
+Z-1
+C1
+S
+#33689
+{WHITE}A Gaseous Cloud{bo}~
+
+   {CYAN}You've entered a dense cloud
+   out in space. The blinding fog
+   which seems to be covering whatever
+   atmosphere that exists seems to
+   absorb light, and you can't help
+   but wonder what that might mean.
+
+~
+336 288 1
+D2
+~
+~
+0 -1 33690
+D5
+~
+~
+0 -1 33688
+T33612
+X2
+Z-1
+C1
+S
+#33690
+{BO,CYAN}A{bo,CYAN}n {BO}E{bo,CYAN}x{BO}t{bo,CYAN}r{BO}e{bo,CYAN}m{BO}e{bo,CYAN}l{BO}y {bo,CYAN}Q{BO}u{bo,CYAN}i{BO}e{bo,CYAN}t {BO}C{bo,CYAN}o{BO}r{bo,CYAN}n{BO}e{bo,CYAN}r {BO}o{bo,CYAN}f {BO}t{bo,CYAN}h{BO}e {bo,CYAN}G{BO}a{bo,CYAN}l{BO}a{bo,CYAN}x{BO}y{bo}~
+
+   {CYAN}You're safe it seems...
+   Or at least for the time being.
+
+   But in this corner of the galaxy...
+   How safe could you possibly be?{bo}
+
+~
+336 24580 1
+D0
+~
+~
+0 -1 33691
+X2050
+Z-1
+C-1
+S
+#33691
+{MAGENTA}C{CYAN}e{MAGENTA}n{CYAN}t{MAGENTA}e{CYAN}r {MAGENTA}o{CYAN}f {MAGENTA}t{CYAN}h{MAGENTA}e {CYAN}U{MAGENTA}n{CYAN}i{MAGENTA}v{CYAN}e{MAGENTA}r{CYAN}s{MAGENTA}e{bo}~
+
+   {WHITE}You've now reached the center of
+   the universe, where all is calm.
+   The stars reach farther than the
+   eye can see, and in the center of
+   your vision stands the one who
+   governs all this...
+
+   {BO,WHITE}This whole thing seems like a
+   fantasy...  but Galaxis will show
+   you just how real it is.{bo}
+
+~
+336 112 1
+T33612
+X2
+Z-1
+C-1
+S
+#33692
+{WHITE}West Side of Common Square{bo}~
+
+   {CYAN}Somewhere in the distance you
+   can hear the voices of sit-com
+   stars getting ready for their next
+   big show.
+
+   It's rumoured that nearby there
+   is a cook that can whip up some
+   delicious dishes. Maybe you could
+   go grab a bite to eat?{bo}
+
+~
+336 0 1
+D1
+~
+~
+0 -1 33566
+D3
+~
+~
+0 -1 33693
+Z-1
+C-1
+S
+#33693
+{BO,BLACK}Eastern End of Back Alley{bo}~
+
+   {WHITE}The smell of freshly baked food
+   grows nearer... Oh, the agony!
+
+   Your mouth waters at the thought
+   of getting a bite of that succulent
+   treat which the chef must be quite
+   busy perfecting.
+
+   {BO,WHITE}Hurry before it spoils!{bo}
+
+~
+336 0 1
+D1
+~
+~
+0 -1 33692
+D3
+~
+~
+0 -1 33646
+Z-1
+C-1
+S
+#33694
+{WHITE}The End of Wall Road{bo}~
+
+   {CYAN}You've reached a dead end!
+   Of all the problems in the
+   world, you had to be blocked
+   off by a stupid wall!
+
+   {MAGENTA}But that won't stop you,
+   ohh no...  There's got to
+   be some way to get around it.
+   Or you could always just explore
+   the rest of the zone instead of
+   wasting your time here. There's
+   nothing here!{bo}
+
+~
+336 0 1
+D0
+~
+~
+0 -1 33645
+Z-1
+C-1
+S
+#33695
+{BO,BLACK}Eastern End of Dark Alley{bo}~
+
+   {CYAN}You are now at the eastern end of
+   the dark alley. To the east you find
+   the infamous wall road, and to the
+   west continues the dark alley. As
+   you go farther along, you'll find the
+   poor alley and many other recognizable
+   areas.
+
+   {MAGENTA}Wander around, have fun!
+   That's what this zone is all about
+   isn't it?{bo}
+
+~
+336 0 1
+D1
+~
+~
+0 -1 33696
+D3
+~
+~
+0 -1 33697
+Z-1
+C-1
+S
+#33696
+{bo,WHITE}Wall Road{bo}~
+
+   {bo,CYAN}You are now walking along a
+   narrow road, with gigantic
+   stone walls lining the
+   western path.
+
+   {BO,CYAN}Maybe if you wander
+   around here a bit you'll
+   find something of use.{bo}
+
+~
+336 0 1
+D0
+~
+~
+0 -1 33603
+D2
+~
+~
+0 -1 33698
+D3
+~
+~
+0 -1 33695
+Z-1
+C-1
+S
+#33697
+{WHITE}Alley at Levee{bo}~
+
+   {CYAN}Normally, to the south would be
+   the levee...  But, the river's
+   dried up, so they took it down.
+
+   {MAGENTA}It's said that a monster drank
+   up all the water...
+   Could it be true?{bo}
+
+~
+336 0 1
+D1
+~
+~
+0 -1 33695
+D3
+~
+~
+0 -1 33568
+Z-1
+C-1
+S
+#33698
+{WHITE}The End of Wall Road{bo}~
+
+   {CYAN}You've reached a dead end!
+   Of all the problems in the
+   world, you had to be blocked
+   off by a stupid wall!
+
+   {MAGENTA}But that won't stop you,
+   ohh no...  There's got to
+   be some way to get around it.
+   Or you could always just explore
+   the rest of the zone instead of
+   wasting your time here. There's
+   nothing here!{bo}
+
+~
+336 0 1
+D0
+~
+~
+0 -1 33696
+Z-1
+C-1
+S
+#33699
+{BO,WHITE}The Beginning of the End{bo}~
+
+   {BO,MAGENTA}What?!?  Where is everyone?!
+   {CYAN}The streets are bare, and there seems to be no one in sight.
+   Could it be possible that perhaps you've stumbled upon.....
+
+   {YELLOW}Phantom Midgaard?
+
+   {BO,RED}There's a sign here: READ IT!{bo}
+
+~
+336 65540 1
+M35
+Z0
+C-1
+S
+$~

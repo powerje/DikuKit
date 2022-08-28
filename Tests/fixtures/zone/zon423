@@ -1,0 +1,32 @@
+#423
+{BLUE}{BOLD}L{RED}a{YELLOW}n{BLUE}s{RED}f{YELLOW}o{BLUE}r{RED}d{YELLOW}i{BLUE}a{RED}n {b}{WHITE}Tower(Drewman)~
+42399 2 2
+*
+X 26069
+M 0 42301     2 42305    A Guard
+M 0 42301     2 42305    A Guard
+D 0 42308     2     2    (S:LOCKED) Another Cooridor
+D 0 42308     3     0    (W:OPEN) Another Cooridor
+D 0 42309     0     2    (N:LOCKED) {CYAN}The Kitchen{cyan}
+O 0 42302     1 42310    shelves
+P 1 42301     1 42302    a key made of celery
+D 0 42311     1     0    (E:OPEN) {BLUE}{BOLD}The Dining Room {WHITE}{b}
+D 0 42315     1     2    (E:LOCKED) {GREEN}{BOLD}Lower Offices {WHITE}{b}
+D 0 42315     2     2    (S:LOCKED) {GREEN}{BOLD}Lower Offices {WHITE}{b}
+D 0 42317     3     2    (W:LOCKED) {BOLD}{YELLOW}O{GREEN}v{YELLOW}e{GREEN}r{YELLOW}s{GREEN}e{YELLOW}e{GREEN}r{YELLOW}'{GREEN}s {green}{yellow}{b}Office
+D 0 42318     0     2    (N:LOCKED) {BOLD}{RED}S{WHITE}e{RED}c{WHITE}r{RED}e{WHITE}t{RED}a{WHITE}r{RED}i{WHITE}e{RED}'{WHITE}s {red}{white}{b}Office
+D 0 42319     1     2    (E:LOCKED) {YELLOW}{BOLD}Middle Offices{WHITE}{b}
+D 0 42319     2     2    (S:LOCKED) {YELLOW}{BOLD}Middle Offices{WHITE}{b}
+D 0 42319     3     0    (W:OPEN) {YELLOW}{BOLD}Middle Offices{WHITE}{b}
+D 0 42320     3     2    (W:LOCKED) {BOLD}{GREEN}T{WHITE}r{GREEN}e{WHITE}a{GREEN}s{WHITE}u{GREEN}r{WHITE}e{GREEN}r{WHITE}'{GREEN}s {green}{white}{b}Office
+D 0 42321     0     2    (N:LOCKED) {BOLD}{BLUE}A{WHITE}d{BLUE}v{WHITE}i{BLUE}s{WHITE}o{BLUE}r{WHITE}'{BLUE}s {blue}{white}{b}Office
+D 0 42322     1     0    (E:OPEN) {RED}{BOLD}High Offices{WHITE}{b}
+D 0 42322     2     2    (S:LOCKED) {RED}{BOLD}High Offices{WHITE}{b}
+D 0 42322     3     2    (W:LOCKED) {RED}{BOLD}High Offices{WHITE}{b}
+D 0 42323     0     2    (N:LOCKED) {BOLD}{YELLOW}Prince's Office{WHITE}{b}
+D 0 42324     1     2    (E:LOCKED) {RED}{BOLD}Lord's Office{WHITE}{b}
+D 0 42340     0     2    (N:LOCKED) Upper Hall {RED}{BOLD}(Sixth Floor){WHITE}{b}
+D 0 42341     2     2    (S:LOCKED) {YELLOW}{BOLD}Prince's Vestibule{WHITE}{b}
+D 0 42347     3     2    (W:LOCKED) Vestibule
+D 0 42348     1     2    (E:LOCKED) {MAGENTA}{BOLD}Lady Lord's Vestibule{WHITE}{b}
+$~

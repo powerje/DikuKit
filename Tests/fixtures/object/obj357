@@ -1,0 +1,828 @@
+#35700
+structure crystallized~
+The Crystallized Structure~
+This structure is refracting every light that enters it.~
+~
+27 0 0 0
+35716 0 0 0
+2000 1 1
+E
+structure crystallized~
+
+  This structure is refracting every light that enters it.
+  There are rainbow colors bouncing of the crystals at
+  different angles.
+
+~
+E
+structure crystallized~
+
+  This structure is refracting every light that enters it.
+  There are rainbow colors bouncing off the crystals at
+  different angles.
+
+~
+#35701
+tank oxygen~
+An Oxygen Tank~
+You see a large green tank here.~
+~
+27 0 0 0
+35717 0 0 0
+1 1 1
+E
+tank oxygen~
+
+  A green sits here collecting dust.  The label
+  says, O2.
+
+~
+E
+tank oxygen~
+
+  A green tank sits here collecting dust.  The label
+  says, O2.
+
+
+~
+#35702
+tank helium~
+A tank of helium~
+A white tank labeled "Helium" sits here.~
+~
+27 0 0 0
+35718 0 0 0
+1 1 1
+E
+tank helium~
+
+  A white tank sits here collecting dust.  The label
+  says, He.
+
+~
+#35703
+symbol toxic~
+A toxic symbol~
+A toxic symbol rests on a wall.~
+~
+27 0 0 0
+35720 0 0 0
+1 1 1
+E
+symbol toxic~
+
+  A bubbling green ooze is seeping from this shape
+  on the floor.
+
+~
+#35704
+light neon~
+a neon light~
+A neon light hangs on the wall.~
+~
+27 0 0 0
+35726 0 0 0
+1 1 1
+E
+light neon~
+
+  You squint as you look at this light hanging on
+  the wall.  The lights spell out the word "Budweiser".
+
+~
+#35705
+floor~
+a secret passage in the floor~
+{BLA}There is something here under some books.{bla}~
+~
+27 0 0 0
+35728 0 0 0
+1 1 1
+E
+floor~
+
+  {BLA}You cannot see anything here.{bla}
+
+~
+#35706
+floor cement~
+a secret passage in the floor~
+{BLA}There is something here.{bla}~
+~
+27 0 0 0
+35734 0 0 0
+1 1 1
+E
+floor cement~
+
+  {BLA}You cannot see anything here.{bla}
+
+~
+#35707
+figure light stone~
+a stone figure~
+A figure stands in the center of the room.~
+~
+27 0 0 0
+35772 0 0 0
+1 1 1
+E
+figure light stone~
+
+  This faceless sculpture has been carved by hand.
+  Its empty face makes you feel uneasy.
+
+~
+#35708
+light swirl~
+a swirling mass~
+A swirling mass rumbles out from the ground to the sky.~
+~
+27 0 0 0
+35715 0 0 0
+1 1 1
+E
+swirl light~
+This portal was set here to punish those who
+do not read as they should.  To prevent
+these types of mistakes, you must read what
+to do in the descriptions of this zone.
+~
+E
+light swirl~
+
+
+  You should think long and hard before entering this portal.
+
+
+~
+#35709
+plaque~
+a small plaque~
+A small plaque lays at the base of the swirl.~
+~
+16 0 0 0
+0 0 0 0
+1 1 1
+E
+plaque~
+
+                       /  \
+/----------------------    ----------------------\
+|                                                |
+| This portal was set here to punish those who   |
+|    do not read as they should.  To prevent     |
+|  these types of mistakes, you must read what   |
+|    to do in the descriptions of this zone.     |
+|                                                |
+\---------------------\   /----------------------/
+
+~
+#35710
+reactor nuclear~
+a nuclear reactor~
+A huge nuclear reactor sits here blocking your exit.~
+~
+27 0 0 0
+35757 0 0 0
+1 1 1
+E
+reactor nuclear~
+
+{GRE,BO}        ( \      / )
+      (    \    /    )
+     (      \__/      )
+    (_______(__)_______)
+            /  \
+           /    \
+          /      \
+         /________\{gre,bo}
+
+~
+#35711
+car gay~
+a gay car~
+A gay looking car sits here in the shade.~
+~
+27 0 0 0
+35741 0 0 0
+1 1 1
+E
+car gay~
+  
+  
+  There is a huge 24 on the hood of the car.
+  You can see DuPont stickers along with other
+  stickers all over this rainbow-colored vehicle.
+  
+  
+~
+#35712
+button~
+a button~
+A large button is embedded in the wall.~
+~
+27 0 0 0
+35741 0 0 0
+1 1 1
+E
+button~
+
+  This button is beckoning you to push it.
+
+~
+#35713
+key gold~
+a small golden key~
+Something under the gold dust . . .~
+~
+18 65536 0 1
+0 0 0 0
+1 1 1
+E
+key gold~
+
+  This key was made from pure gold.
+
+~
+#35714
+key silver fork~
+a silver fork~
+A lavishly decorated fork lays on the table in front of you.~
+~
+18 65536 0 1
+0 0 0 3
+1 1 1
+E
+key silver fork~
+
+{WHI,BO}                                  ___________
+    __/{YEL,BO}({BLU,BO}--{YEL,BO}){WHI,BO}\____  ______  ______ /___________
+   (____{RED,BO}{}{WHI,BO}______{YEL,BO}(){WHI,BO}______{CYA,BO}[]{WHI,BO}______(____________
+   (__  {RED,BO}{}{WHI,BO}  ____{YEL,BO}(){WHI,BO}______{CYA,BO}[]{WHI,BO}______( ___________
+      \{YEL,BO}({BLU,BO}--{YEL,BO}){WHI,BO}/                     \___________{whi,bo}
+
+~
+E
+key silver~
+
+{WHI,BO}                                  ___________
+    __/{YEL,BO}({BLU,BO}--{YEL,BO}){WHI,BO}\____  ______  ______ /___________
+   (____{RED,BO}{}{WHI,BO}______{YEL,BO}(){WHI,BO}______{CYA,BO}[]{WHI,BO}______(____________
+   (__  {RED,BO}{}{WHI,BO}  ____{YEL,BO}(){WHI,BO}______{CYA,BO}[]{WHI,BO}______( ___________
+      \{YEL,BO}({BLU,BO}--{YEL,BO}){WHI,BO}/                     \___________{whi,bo}
+
+~
+#35715
+whirlwind~
+a whirlwind~
+You are surrounded by a huge storm.~
+~
+27 0 0 0
+35769 0 0 0
+1 1 1
+E
+whirlwind~
+
+  Wind gusts into your face, blinding you for a moment.
+  The rain stings your skin like little bees. It is
+  nearly unbearable.
+
+~
+#35716
+statue falcon~
+a falcon statue~
+A beautifully chiselled statue sits here.~
+~
+27 0 0 0
+35906 0 0 0
+1 1 1
+E
+statue falcon~
+
+  A marble statue carved into a large and beautiful bird
+  sits in the center of the room.
+
+~
+#35717
+picture wall hanging~
+a wall hanging~
+A picture hangs on the wall here.~
+~
+27 0 0 0
+35700 0 0 0
+1 1 1
+E
+picture wall hanging~
+
+                              .___.
+          /)               ,-^     ^-.
+         //               /           \
+.-------| |--------------/  __     __  \-------------------.__
+|WMWMWMW| |>>>>>>>>>>>>> | />>\   />>\ |>>>>>>>>>>>>>>>>>>>>>>:>
+`-------| |--------------| \__/   \__/ |-------------------'^^
+         \\               \    /|\    /
+          \)               \   \_/   /
+                            |       |
+                            |+H+H+H+|
+                            \       /
+                             ^-----^
+
+~
+#35718
+mass glowing~
+a glowing mass~
+A bright light is bursting out of the ground here.~
+~
+27 0 0 0
+35934 0 0 0
+2 1 1
+E
+mass glowing~
+
+You see a bright light protruding from the ground.
+
+~
+#35719
+key small copper~
+a copper key~
+A puny key sits here.~
+~
+18 65536 0 1
+0 0 0 1
+3 1 1
+E
+~
+Unstoppable
+~
+E
+key small copper~
+
+  Here is a small copper colored key.
+
+~
+#35720
+key small zinc~
+a small key of zinc~
+{BLU,BO}A small key of Zinc is here.{blu,bo}~
+~
+18 65536 8192 1
+-1 0 0 1
+1 1 1
+E
+key small zinc~
+
+It looks like this key could barely unlock
+something without breaking.
+
+~
+#35721
+key small titanium~
+{BLA,BO}a small key of Titanium{bla,bo}~
+{BLA,BO}A small key of Titanium is here.{bla,bo}~
+~
+18 69632 0 1
+-1 0 0 1
+1 1 1
+E
+key small titanium~
+
+  It looks like this key could barely unlock
+  something without breaking.
+
+~
+#35722
+key small arsenic~
+{GRE}a small key of arsenic{gre}~
+{GRE}A small key of Arsenic is here.{gre}~
+~
+18 69632 0 1
+-1 0 0 1
+1 1 1
+E
+key small arsenic~
+
+  It looks like this key could barely unlock
+  something without breaking.
+
+~
+E
+key small arsenic~
+
+It looks like this key could barely unlock
+something without breaking.
+
+~
+#35723
+key small platinum~
+{BLU}a small key of platinum{blu}~
+{BLU}A small key of {BLA,BO}Platinum {bla,bo}{BLU}is here.{blu}~
+~
+18 69632 0 1
+-1 500 500 2
+1 1 1
+E
+key small platinum~
+  
+  
+  Looks like this key could open a small lock
+  without breaking.
+  
+  
+~
+#35724
+labkey lab key~
+a lab key~
+A lab key rests here.~
+~
+18 65536 0 1
+-1 0 0 3
+1 1 1
+E
+labkey lab key~
+
+  This key is made from metal.  It could be the
+  hardest metal you have ever seen in your life.
+
+~
+E
+lower lab key~
+
+This key is made from metal.  It could be the
+hardest metal you have ever seen in your life.
+
+~
+#35725
+depressionkey depression key~
+a depression key~
+The ground seems to sink in here.~
+~
+18 65536 0 16385
+-1 0 0 1
+1 1 1
+E
+depressionkey depression key~
+
+  This object takes on the form of a key.  It
+  is small and intricately made.  When you hold
+  it up to something, it distorts the space
+  around it.  That is strange.
+
+~
+#35726
+box storage storagebox~
+{BLA,BO}Storage Box{bla,bo}~
+A metal storage box sits here.~
+~
+15 2147483648 0 33554433
+300 13 35714 0
+8 1 700
+E
+{BLA,BO}box storage storagebox{bla,bo}~
+
+A box made of many different types of
+metals sits at your feet.  It looks very
+heavy, so I doubt you could pick it up.
+There is a key hole in the front of it.
+
+~
+E
+{BLA,BO}box storage storagebox{bla,bo}~
+A box made of many different types of
+metals sits at your feet.  It looks very
+light.  A leather strap is wound around
+it like a belt.
+
+~
+G
+99
+#35727
+beam light~
+beam of light~
+{BO,WHITE}Light {CYAN}seems to be shooting from the ground to the {WHITE}moon{CYAN}.{bo,cyan}~
+~
+27 0 0 0
+35935 0 0 0
+1 1 1
+E
+beam light~
+
+  A great mass of energy pours from the
+  ground to the heavens.  It glows with
+  great intensity.  You shield your eyes
+  as you approach it.  The colors are
+  mystifying.
+
+~
+#35728
+crevice portal start~
+a crevice~
+Hidden behind the trees and foliage is a hint of light.~
+~
+27 0 0 0
+35700 0 0 0
+1 1 1
+E
+crevice portal start~
+
+  A small crevice sits among the trees.
+  Danger lies in waiting behind its
+  shadows.
+
+~
+#35729
+cover zinc~
+{BLUE,BO}Zinc {BLA}Cover{bla,bo}~
+{BLA,BO}A large piece of {BLU,BO}Zinc{BLA,BO} lays on the ground.{bla,bo}~
+~
+9 2148536320 32768 4101
+16 0 0 0
+4 50880 1
+E
+cover zinc~
+  
+  
+  The greatest scientists in the world created
+  this from mere scraps.  It glows with
+  great power.
+  
+  
+~
+E
+cover zinc~
+
+  The greatest scientist in the world
+  created this from mere scraps.  It glows
+  with great power.
+
+~
+A
+19 6
+A
+18 6
+L
+20
+C
+7000 1
+G
+50
+M
+85
+#35730
+ring crystallized chalcopyrite stone copper~
+{W}A{CY}{BOL} crystallized{bol}{W} ring of {BOL}{Y}Cha{R}lco{Y}pyr{R}ite{r}~
+A crystallized copper stone fitted into a ring lays in the dust.~
+~
+9 2148536323 0 3
+13 0 0 0
+4 1 1
+E
+ring copper~
+
+
+  Chalcopyrite is of primary origin and occurs in igneous and metamorphic 
+  rocks and in metalliferous veins. It is an important ore of copper 
+  and is widely distributed throughout the world.
+
+
+~
+A
+19 8
+A
+18 4
+B
+128
+L
+10
+C
+7000 1
+G
+50
+M
+75
+#35731
+body guard arsenic~
+{RED,BO}Arsenic {BLA,BO}Guard{bla,bo}~
+{BLA,BO}The body of a vile creature lays here.{bla,bo}~
+~
+9 2164264960 32768 9
+22 0 0 0
+8 50880 1
+E
+body guard arsenic~
+
+  This is the remains of a very wicked and
+  vile creature.  The black and blue appearance
+  adds character to its mangled form.  It
+  looks like it would wrap around you and
+  never let anything penetrate.
+
+~
+A
+13 100
+A
+19 6
+B
+128
+L
+15
+C
+7000 1
+G
+50
+M
+85
+#35732
+facemask mask face platinum~
+{BLA}{BOLD}A{W} platinum {BLA}{BOLD}facemask{bla}~
+{BLA,BO}A hard mask {WHI,BO}shines{BLA,BO} beneath the dust.{bla,bo}~
+~
+9 2148536322 8192 4194305
+16 7000 0 0
+4 50880 1
+E
+facemask mask face platinum~
+
+
+  This object looks like it could cover an entire head.  The
+  material is very sturdy and could not be broken.  The color
+  is dull to look at, but the great power you feel by having
+  it is overwhelming.
+
+
+~
+A
+19 6
+A
+18 6
+B
+67108896
+L
+10
+C
+7000 1
+G
+75
+M
+80
+#35733
+shield titanium~
+{W}A {CY}{BOLD}T{W}i{BLA}t{W}a{CY}n{W}i{BLA}u{CY}m{BLA} S{W}h{CY}i{BLA}e{W}ld{bla}~
+{BLA,BO}A very strong shield rests at your feet.{bla,bo}~
+~
+9 2214596608 8192 513
+21 7000 0 0
+15 50880 1
+E
+shield titanium~
+
+This shield was formed from the strongest material
+you have ever seen.  The crest on the shield is of
+a dragon and a warrior battling to the death.  The
+dragon has been slain by the warrior, but the
+warrior has suffered a terrible fate as well.
+~
+A
+19 8
+A
+13 100
+B
+301989888
+L
+10
+C
+7000 1
+G
+70
+M
+90
+#35734
+head white bone~
+{WHI,BO}A skeleton's {BLA}head{bla,bo}~
+{WHI,BO}The {BLA}head{WHI} of a skeleton nips at your feet.{whi,bo}~
+~
+5 2148536336 8192 8193
+3 9 7 9
+6 1 1
+E
+head white bone~
+  
+  
+  As you look into what you think are eyes
+  or is it a skull, red flames shoot out to
+  greet you.  It seems this thing is still
+  alive and trying to hurt you.
+  
+  
+  
+  
+~
+A
+19 7
+A
+17 -15
+B
+1572864
+L
+15
+C
+7000 1
+G
+100
+M
+95
+#35735
+machine magical mender~
+{BLA,BO}a mystical machine{bla,bo}~
+{BLA,BO}A small machine is sitting here glowing with a strange light.{bla,bo}~
+~
+3 65536 0 16385
+0 0 0 0
+30 1 1
+E
+machine magical mender~
+  
+  
+  This machine has a strange glow emanating from
+  its core. Its deep black color comes from the
+  years of dust that have collected on it.  It
+  looks like you could put something in it.
+  
+  
+  
+  
+~
+#35736
+sign warning~
+a {RED,BO}Warning{red,bo} Sign~
+{BLU}A sign that looks very important is posted here.{blu}~
+~
+12 0 0 0
+0 0 0 0
+1 1 1
+E
+{RED,BO}Warning{red,bo} Sign~
+
+{BLA,BO}  A thousand people have tried,
+  A thousand people have died.
+  A hundred people have tried,
+  A hundred people have not died.
+  A few people have seen and done,
+  A few people have done and won.{bla,bo}
+
+{RED}  Many awful things may occur in
+  this place.  Leave now if you are
+  too weak to handle such pressure.
+  You have been forewarned about
+  this dastardly place.{red}
+
+~
+#35737
+heater button switch~
+{BLA,BO}the button of a {RED}heater{red,bo}~
+{BLA,BO}A very {RED}HOT heater{BLA} is implanted in the wall.{bla,bo}~
+~
+27 0 0 0
+35971 0 0 0
+1 1 1
+E
+heater button switch~
+  
+  
+  The heater comes out about a half a
+  foot from the wall. There is a button
+  on the top that you can barely reach.
+  
+  
+~
+#35738
+treasure gold~
+a {YEL}golden{yel} piece of treasure~
+{WHI}Something is on the ground reflecting the lights in the room.{whi}~
+~
+20 0 0 1
+1000000 0 0 0
+1 1 1
+E
+treasure gold~
+
+A piece of treasure.
+
+~
+#35739
+Cracked Key~
+Cracked Key~
+Cracked Key~
+~
+18 8454144 0 1
+-1 0 0 1
+1 1 1
+E
+Cracked Key~
+
+  {BO,WHITE}This keey seems to be very fragile{bo,white}
+
+~
+M
+1
+$~

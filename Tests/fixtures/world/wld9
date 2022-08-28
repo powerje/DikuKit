@@ -1,0 +1,492 @@
+#900
+{BOLD,CYAN}On The {BLUE}Swift {CYAN}Flowing {BLUE}River~
+
+{CY,BO}     As the river exits the town of Midgaard it picks up speed and wisks
+  you along high banks flanked by the trees of Haon-Dor.  As the town
+  fades in the east, you approach a gloomy forest to the west.{cy,bo}
+
+~
+9 0 7
+D0
+~
+~
+0 -1 15700
+D2
+~
+~
+0 -1 3001
+D3
+~
+~
+0 -1 901
+Z3
+C-1
+S
+#901
+{GR,BO}The {BLU}River{GR}bank{gr}~
+
+{CY,BO}    The river is deep, and runs swiftly in an east-west direction.  To the
+  north the river eddies and enters a backwash where a small bank extends
+  down from a dark, thick stand of trees.  It doesn't look particulary
+  inviting however.{cy,bo}
+
+~
+9 0 7
+D0
+~
+~
+0 -1 6120
+D1
+~
+~
+0 -1 900
+D3
+~
+~
+0 -1 902
+Z3
+C-1
+S
+#902
+{CY,BO}The T{BLU}w{CY}i{BLU}s{CY}t{BLU}y{CY} Part{cy,bo}~
+{BOLD,CYAN}The river twists and turns and nearly tosses you out of your boat. The water is freezing and it's almost impossible to tell what is underneath you. But you get a feeling that there is something under there and it's not here to make friends with you. You have 2 choices, continue with your trek or head back east.
+~
+9 0 7
+D1
+~
+~
+0 -1 901
+D2
+~
+~
+0 -1 903
+Z3
+C-1
+S
+#903
+{BLU,BO}The {CY}Sc{BLU}en{CY}ic{BLU} Route{blu,bo}~
+{BOLD,CYAN}The water seems to calm down, and the Haon-Dor forest to the north is fading from you view. The river continues to the west towards a delta, and you can spot in the distance some large island. Might as well keep going.
+~
+9 0 7
+D1
+~
+~
+0 -1 902
+D3
+~
+~
+0 -1 904
+Z3
+C-1
+S
+#904
+{BLU,BO}Sw{CY}if{BLU}t R{CY}iv{BLU}er {CY}De{BLU}lt{CY}a{cy,bo}~
+
+{CY,BO}    You are at the edge of the river delta, where the river empties
+  out on its way to the sea.  The water here is Black. Deep. Dark. Deadly.
+  The tidal waves sweep you around and around up and down.{cy,bo}
+
+~
+9 0 7
+D0
+~
+~
+0 -1 911
+D1
+~
+~
+0 -1 903
+D2
+~
+~
+0 -1 906
+D3
+~
+~
+0 -1 905
+Z3
+C-1
+S
+#905
+{Y}Near the {BLA,BO}Rocks{bla,bo}~
+
+{CY,BO}    You bob up and down in the waves comming dangerously close to some
+  large, jagged rocks on the eastern shore of an unusual looking island.
+  There is no way you could possibly land there without getting killed.{cy,bo}
+
+~
+9 0 7
+D1
+~
+~
+0 -1 904
+D2
+~
+~
+0 -1 906
+Z3
+C-1
+S
+#906
+{CY,BO}So{BLU}uth{CY} Ri{BLU}ver D{CY}el{BLU}ta{blu,bo}~
+
+{CY,BO}    You are making your way along a channel in the river delta between
+  the island to the west and the shore to the south and east.  To the
+  south an aging broken down looking pier juts out from land and toward
+  the west the channel works it way close to the island as it moves around
+  its southern tip.{cy,bo}
+
+~
+9 0 7
+D0
+~
+~
+0 -1 905
+D1
+~
+~
+0 -1 904
+D2
+~
+~
+0 -1 907
+D3
+~
+~
+0 -1 908
+Z3
+C-1
+S
+#907
+{BLA,BO}The{bla,bo}{Y} Pier{y}~
+
+{CY,BO}    You float next to a crumbling pier long since neglected.
+  To the west the water gets sluggish and there are many weeds and
+  some seaweed floating about.{cy,bo}
+
+~
+9 0 7
+D0
+~
+~
+0 -1 906
+D3
+~
+~
+0 -1 908
+Z3
+C-1
+S
+#908
+{Y}Mired {BLA}in {GR}Seaweed{gr}~
+
+{CY,BO}    The going is rough here.  The tide struggles with the normal flow
+  of the river and here near the edge of the sea there is a large
+  amount of growth.  To the west the channel passes the southern tip of
+  the island and heads for open waters.{cy,bo}
+
+~
+9 0 7
+D0
+~
+~
+0 -1 906
+D1
+~
+~
+0 -1 907
+D3
+~
+~
+0 -1 909
+Z3
+C-1
+S
+#909
+{CY,BO}Last Stop{cy,bo}~
+
+{CY,BO}    The delta meets the sea here.  To the west you see nothing but
+  ocean on the horizon.  Sea birds squawk noisily at your approach
+  and take flight from a nearby beach head on the island.  It looks
+  as though this could be the last stop for those heading out to sea.{cy,bo}
+
+~
+9 0 7
+D0
+~
+~
+0 -1 910
+D1
+~
+~
+0 -1 908
+Z3
+C-1
+S
+#910
+{Y}The Beach Head{y}~
+
+{Y}    This is a secluded looking beach on the southern tip of the island.
+  There isn't much to see here and there is no way to cross the steep
+  rocky cliffs that wall in this place.{y}
+
+~
+9 0 2
+D2
+~
+~
+0 -1 909
+Z3
+C-1
+S
+#911
+{BLU,BO}North Channel{blu,bo}~
+
+{CY,BO}    The river splits as runs up against the island and a navigatble
+  channel slips off to the north and west.{cy,bo}
+
+~
+9 4 7
+D0
+~
+~
+0 -1 912
+D2
+~
+~
+0 -1 904
+D3
+~
+~
+0 -1 912
+Z3
+C-1
+S
+#912
+{BLU,BO}North Channel{blu,bo}~
+
+{CY,BO}    The river current carries you swiftly westward as the channel
+  begins to narrow as it squeezes past the north end of the island.{cy,bo}
+
+~
+9 0 7
+D1
+~
+~
+0 -1 911
+D2
+~
+~
+0 -1 911
+D3
+~
+~
+0 -1 913
+Z3
+C-1
+S
+#913
+{BLU,BO}Near the {GR}Isle{gr,bo}~
+
+{CY,BO}    You are sitting just off a small landing on the island that
+  appears to be nothing more than a short path that leads to the
+  side of a hill.{cy,bo}
+
+~
+9 4 7
+D1
+~
+~
+0 -1 912
+D2
+~
+~
+0 -1 914
+Z3
+C-1
+S
+#914
+{Y}The {BLA,BO}Lane{bla,bo}{Y} of the {R,BO}Lying{r,bo}~
+
+{Y}    Bodies lie everywhere.  Commoner, peasant, duke, duchess.  The gods
+  will not hear you call here.  Hence they will not answer you.  To the
+  south the path ends at a dark cave entrance.  A sign has been posted
+  beside the entrance.{y}
+
+~
+9 0 1
+D2
+~
+~
+0 -1 915
+E
+sign cave~
+A sign beside the dark cave opening reads:
+   WARNING! Only fools and dead people pass this way.
+   The tests of Minos our glorious ruler await.
+~
+Z3
+C-1
+S
+#915
+{W}The {R,BO}First{Y} Trial{Y,bo}{W} of {BLU,BO}Minos{blu,bo}~
+
+{R,BO}    Ah...you find yourself in Minos' battlefield playground.  
+  Minos loves to torture his people through these places.  He collects
+  the monsters of the world and stuffs them here.  Whatta guy!{r,bo}
+
+~
+9 1 1
+D1
+~
+~
+0 -1 916
+Z3
+C-1
+S
+#916
+{W}The {R,BO}Second {Y}Trial{y,bo}{W} of {BLU,BO}Minos{blu,bo}~
+{BOLD,RED}
+    Minos' voice reveberates from the four walls of this room:
+  "Get some rest and make sure you're healed.  You'll need it for the next
+  monster in my playground.  Or are you strong enough?"  To the south is
+  the entrance of Minos' stronghold.
+{b}
+~
+9 0 1
+D2
+~
+~
+0 -1 917
+Z3
+C-1
+S
+#917
+{W}The{R,BO} Third{Y} Trial{y,bo}{W} of{BLU,BO} Minos{blu,bo}~
+
+{R,BO}    You go inside a red room.  Very red.  As if the Minos King used them to
+  disembowel his guests.  The path continues eastward.  You see blue lights
+  in that direction.{r,bo}
+
+~
+9 9 0
+D1
+~
+~
+0 -1 918
+Z3
+C-1
+S
+#918
+{W}The{R,BO} Fourth{Y} Trial{y,bo}{W} of{BLU,BO} Minos{blu,bo}~
+
+{R,BO}    Minos must be a monster hacking machine.  You see a blue light flicker
+  {BLU,BLI}on{blu,bli}{R,BO} and {BLU,BLI}off{blu,bli}.  {R,BO}A voice crackles, "WHY ARE YOU HERE!"{r,bo}
+
+~
+9 9 0
+D2
+~
+~
+0 -1 919
+Z3
+C-1
+S
+#919
+{W}The{R,BO} Fifth{Y} Trial{y,bo}{W} of{BLU,BO} Minos{blu,bo}~
+
+    {R,BO}General Woundwort's quarters.  Hraka abound.  The frayed corpses of
+  rabbits lie scattered about this hell-hole.  The General is not a very
+  neat person as you can tell.{r,bo}
+
+~
+9 9 0
+D1
+~
+~
+0 -1 920
+Z3
+C-1
+S
+#920
+{W}The{R,BO} Sixth{Y} Trial{y,bo}{W} of{BLU,BO} Minos{blu,bo}~
+
+{R,BO}    Dare we surmise how many more rooms Minos has?  The paths appear to be
+  endless.  You shudder the sounds of death cries from the east.  A loud
+  voice bellows another warning: "Leave now or face my wrath!"
+  There is a crawlway leading upwards at the far end of the room and
+  there is a fresh breeze comming from there.{r,bo}
+
+~
+9 9 0
+D2
+~
+~
+0 -1 921
+D4
+~
+~
+0 -1 923
+Z3
+C-1
+S
+#921
+{W}The{R,BO} Final{Y} Trial{y,bo}{W} of{BLU,BO} Minos{blu,bo}~
+
+{R,BO}    Minos' room.  What else did you expect?  The room is lavishly decorated
+  for this bovine king.  Everything is so opulent it makes your eyes bulge.
+  Survive and reap his fortune!  The only exit is a large oak door in the
+  east wall.{r,bo}
+
+~
+9 9 0
+D1
+You see a rather massive oak door bound with iron and securely locked.
+~
+oak door~
+2 900 922
+Z3
+C-1
+S
+#922
+The Royal Chamber~
+
+    {Y,BO}The treasure room of Minos is dark save for your lantern.
+  Hopefully it has not been looted yet by the many legendary thieves
+  of Midgaard.  A clever looking secret door leads upward from here.{y,bo}
+
+~
+9 9 0
+D4
+~
+~
+0 -1 910
+Z3
+C-1
+S
+#923
+{BLU,BO}Above the{blu,bo}{Y} Beach{y}~
+
+{Y}    You sit amoungst the rocks above a small beach at the southern
+  end of the island.  You could clamber down easy enough, but getting
+  back up would be another story.{y}
+
+~
+9 0 4
+D5
+~
+~
+0 -1 910
+Z3
+C-1
+S
+#924
+{RED}CoCoNuT's room of spanking~
+
+HAHAHAHAHA what a mistake it was to come here, you sure have it coming now, you better drop your trousers before you make this sick freak angry.
+~
+9 262144 1
+Z0
+C-1
+S
+$~

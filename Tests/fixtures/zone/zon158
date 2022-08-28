@@ -1,0 +1,63 @@
+#158
+{BO,BLU}Computer World Warehouse{bo,blu}(Buzz)~
+15899 600 0
+*
+X 208598
+M 0 15811     1 15803    {BO,BLU}A Truck Driver{bo,blu}
+O 0 15817     1 15803    {BO,BLU}The Computer World Warehouse{bo,blu}
+M 0 15800    12 15804    A {bo,Y}Warehouse Employee{bo,y}
+M 0 15800    12 15804    A {bo,Y}Warehouse Employee{bo,y}
+M 0 15800    12 15806    A {bo,Y}Warehouse Employee{bo,y}
+M 0 15800    12 15806    A {bo,Y}Warehouse Employee{bo,y}
+M 0 15800    12 15807    A {bo,Y}Warehouse Employee{bo,y}
+M 0 15800    12 15807    A {bo,Y}Warehouse Employee{bo,y}
+D 0 15807     0     2    (N:LOCKED) {bo,M}The Shipping Bay{bo,m}
+D 0 15810     2     0    (S:OPEN) {bo,W}Shipping and Receiving{bo,w}
+D 0 15811     1     0    (E:OPEN) {bo,W}Warehouse Entrance{bo,w}
+D 0 15812     3     0    (W:OPEN) {bo,W}The Warehouse{bo,w}
+M 0 15812     3 15819    {BLA} A Palletjack{bla}
+M 0 15812     3 15819    {BLA} A Palletjack{bla}
+M 0 15812     3 15819    {BLA} A Palletjack{bla}
+D 0 15819     3     2    (W:LOCKED) {bo,M}Palletjack Storage{bo,m}
+M 0 15807     1 15820    {R}Jonis, The Forklift Operator{r}
+M 0 15803     3 15820    {BO,G} The Heister Forklift 1000{g}
+M 0 15803     3 15820    {BO,G} The Heister Forklift 1000{g}
+M 0 15803     3 15820    {BO,G} The Heister Forklift 1000{g}
+O 0 15819     1 15820    {R}A Mound of Cardboard Boxes{r}
+M 0 15800    12 15821    A {bo,Y}Warehouse Employee{bo,y}
+M 0 15800    12 15821    A {bo,Y}Warehouse Employee{bo,y}
+D 0 15821     1     2    (E:LOCKED) {bo,M}The Shipping Bay{bo,m}
+M 0 15804     1 15822    {BO,W}Ray {bo,W}D{BO,W}e{bo,W}l{BO,W}a{bo,W}c{BO,W}r{bo,W}u{BO,W}z{bo,w}
+O 0 15816     1 15822    Files on a Desk.
+O 0 15814     1 15822    Boxes on a shelf
+O 0 15813     1 15822    The boxes on the floor
+D 0 15826     1     0    (E:OPEN) {bo,W}Along A Musty Hallway{bo,w}
+D 0 15827     3     0    (W:OPEN) {bo,R}The Holding Vault{bo,r}
+D 0 15828     0     0    (N:OPEN) {bo,W}Current Storage{bo,w}
+D 0 15832     3     1    (W:CLOSED) {bo,W}Lost in Storage{bo,w}
+D 0 15835     2     0    (S:OPEN) {bo,W}Along A Musty Hallway{bo,w}
+M 0 15800    12 15837    A {bo,Y}Warehouse Employee{bo,y}
+M 0 15800    12 15837    A {bo,Y}Warehouse Employee{bo,y}
+M 0 15800    12 15838    A {bo,Y}Warehouse Employee{bo,y}
+M 0 15800    12 15838    A {bo,Y}Warehouse Employee{bo,y}
+D 0 15840     3     2    (W:LOCKED) {G}Inventory Manager's Office{g}{b}
+D 0 15842     1     1    (E:CLOSED) {bo,R}A Restroom{bo,r}
+D 0 15842     3     0    (W:OPEN) {bo,R}A Restroom{bo,r}
+D 0 15843     3     0    (W:OPEN) {bo,R}Janitor's Closet{bo,r}
+D 0 15844     1     0    (E:OPEN) {bo,W}Along A Musty Hallway{bo,w}
+D 0 15844     2     2    (S:LOCKED) {bo,W}Along A Musty Hallway{bo,w}
+D 0 15845     1     2    (E:LOCKED) {bo,R}The Purchasing Supervisor's Office{bo,r}
+D 0 15846     3     2    (W:LOCKED) {bo,R}Outside The Purchasing Supervisor's Office{bo,r}
+D 0 15851     1     2    (E:LOCKED) {BO,M}Inside A Small Cubicle{bo,m}
+D 0 15858     1     0    (E:OPEN) {bo,W}At The End Of The Hallway{bo,w}
+D 0 15859     1     0    (E:OPEN) {BO,W}Personnel{bo,w}
+D 0 15860     2     2    (S:LOCKED) {G}Warehouse Manager's Office{g}{b}
+D 0 15865     0     2    (N:LOCKED) {G}Secretary's Office{g}{b}
+D 0 15870     3     1    (W:CLOSED) {bo,R}Creeping Through The Crowded Room{bo,r}
+D 0 15889     0     2    (N:LOCKED) Administration
+D 0 15890     1     0    (E:OPEN) {bo,R}Administration Lobby{bo,r}
+D 0 15890     2     2    (S:LOCKED) {bo,R}Administration Lobby{bo,r}
+M 0 15810     1 15894    The {R}Mechanized Recycler{r}
+E 1 15820     1    12    (ABOUT) {BO,BLU}E{BLA}l{BLU}e{BLA}c{BLU}t{BLA}r{BLU}o{BLA}M{BLU}a{BLA}g{BLU}n{BLA}e{BLU}t{BLA}i{BLU}c {W}S{bo,W}h{BO,W}i{bo,W}e{BO,W}l{bo,W}d{w}
+M 0 15801     1 15895    {BO,R}J{bo,R}o{BO,R}e{bo,r}
+$~

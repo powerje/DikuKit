@@ -1,0 +1,2504 @@
+#45600
+{BLACK,BOLD}Dark Brotherhood{black,bold}~
+
+{BLACK,BOLD} You walk into the midst of the Dark Brotherhood.
+{BLACK,BOLD} Your killing has been observed by forces unknown
+{BLACK,BOLD} and the air grows chill as a shadow approaches.{black}
+
+~
+456 5 1
+D0
+~
+Brotherhood~
+1 -1 45601
+D2
+~
+~
+0 -1 6113
+Z6
+C-1
+R0
+S
+#45601
+{MAGENTA,BOLD}The Skooma Den{magenta,bold}~
+
+{YELLOW} As you enter the Skooma Den, you are blinded
+{YELLOW} by a puff of smoke. You stumble across the room
+{YELLOW} trying to find your way to the other side. There
+{YELLOW} are a few people sitting on the floor smoking pipes
+{YELLOW} and a few sleeping in beds scattered across the room.
+{YELLOW} One of the beds is open and is begging you to sleep.{yel}
+
+~
+456 9 1
+D2
+~
+Brotherhood~
+1 -1 45600
+Z6
+C-1
+R0
+S
+#45602
+{BLACK,BOLD}Introduction{black,bold}~
+
+{BLACK,BOLD}
+
+~
+456 16413 1
+Z6
+C-1
+R0
+S
+#45603
+{BLACK,BOLD}To the Inn of Ill Omen{black,bold}~
+
+{GREEN} The path before you leads to the Inn of Ill Omen.
+{GREEN} All around you there are green bushes marking a
+{GREEN} clear road. A hint of mushroom is in the air all
+{GREEN} around the forest. The trees around you are tall
+{GREEN} enough to block your vision of the sky. Just a few
+{GREEN} miles in front of you is the Inn.{green}
+
+~
+456 1025 3
+D0
+~
+~
+0 -1 45604
+D1
+~
+~
+0 -1 45603
+D2
+~
+~
+0 -1 45603
+D3
+~
+~
+0 -1 45603
+D4
+~
+~
+0 -1 45603
+D5
+~
+~
+0 -1 45603
+Z2
+C-1
+R0
+S
+#45604
+{BLACK,BOLD}To the Inn of Ill Omen{black,bold}~
+
+{GREEN} The path before you leads to the Inn of Ill Omen.
+{GREEN} All around you there are green bushes marking a
+{GREEN} clear road. A hint of mushroom is in the air all
+{GREEN} around the forest. The trees around you are tall
+{GREEN} enough to block your vision of the sky. Just a few
+{GREEN} miles in front of you is the Inn.{green}
+
+~
+456 1025 3
+D0
+~
+~
+0 -1 45604
+D1
+~
+~
+0 -1 45604
+D2
+~
+~
+0 -1 45604
+D3
+~
+~
+0 -1 45605
+D4
+~
+~
+0 -1 45604
+D5
+~
+~
+0 -1 45604
+Z0
+C-1
+R0
+S
+#45605
+{BLACK,BOLD}To the Inn of Ill Omen{black,bold}~
+
+{GREEN} The path before you leads to the Inn of Ill Omen.
+{GREEN} All around you there are green bushes marking a
+{GREEN} clear road. A hint of mushroom is in the air all
+{GREEN} around the forest. The trees around you are tall
+{GREEN} enough to block your vision of the sky. Just a few
+{GREEN} miles in front of you is the Inn.{green}
+
+~
+456 1025 3
+D0
+~
+~
+0 -1 45606
+D1
+~
+~
+0 -1 45605
+D2
+~
+~
+0 -1 45605
+D3
+~
+~
+0 -1 45605
+D4
+~
+~
+0 -1 45605
+D5
+~
+~
+0 -1 45605
+Z0
+C-1
+R0
+S
+#45606
+{BLACK,BOLD}To the Inn of Ill Omen{black,bold}~
+
+{GREEN} The path before you leads to the Inn of Ill Omen.
+{GREEN} All around you there are green bushes marking a
+{GREEN} clear road. A hint of mushroom is in the air all
+{GREEN} around the forest. The trees around you are tall
+{GREEN} enough to block your vision of the sky. Just a few
+{GREEN} miles in front of you is the Inn.{green}
+
+~
+456 1025 3
+D0
+~
+~
+0 -1 45606
+D1
+~
+~
+0 -1 45606
+D2
+~
+~
+0 -1 45606
+D3
+~
+~
+0 -1 45608
+D4
+~
+~
+0 -1 45606
+D5
+~
+~
+0 -1 45606
+Z0
+C-1
+R0
+S
+#45607
+{YELLOW}Inn of Ill Omen{yellow}~
+
+{YELLOW} You have entered the Inn of Ill Omen.
+{YELLOW} Looking around you notice the inn is
+{YELLOW} deserted. Death fills the air as you
+{YELLOW} approach. The bartender stares at you
+{YELLOW} wondering what you are going to do.
+{YELLOW} Below you is a trapdoor leading to the
+{YELLOW} private chambers.{yello}
+
+~
+456 36 3
+Z9
+C-1
+R0
+S
+#45608
+{YELLOW}Inn of Ill Omen{yellow}~
+
+{YELLOW} As you look around you notice that the entire
+{YELLOW} place is made out of wood. The scent of beer
+{YELLOW} still fills the air making you unperceptive.
+{YELLOW} The Inn is deserted except for the lonely
+{YELLOW} bartender waiting to offer a place to sleep
+{YELLOW} or hand out a beer. It's dead quiet which is
+{YELLOW} oddly strange for such a place. You barely
+{YELLOW} notice that you're standing on top of a trapdoor.{yel}
+
+~
+456 13 1
+D1
+~
+~
+0 -1 45606
+D5
+~
+trapdoor~
+1 -1 45609
+X14
+Z0
+C-1
+R0
+S
+#45609
+{BLACK,BOLD}Private Quarters{black,bold}~
+
+{BLACK,BOLD} As you enter the dark hallway, you can
+{BLACK,BOLD} hear an old man sleeping down the hall.
+{BLACK,BOLD} There is a door to the west with a large
+{BLACK,BOLD} sign that is hard to miss. As you slowly
+{BLACK,BOLD} walk down the hall, the old mans snores
+{BLACK,BOLD} grow louder.{black}
+
+~
+456 1037 1
+D0
+~
+~
+0 -1 45611
+D3
+{BLACK,BOLD} DO NOT ENTER!! THERE IS RUMOR THAT THERE IS NO FLOOR!{black,bold}
+
+~
+door~
+1 -1 45610
+D4
+~
+trapdoor~
+1 -1 45608
+E
+sign~
+
+{BLACK,BOLD} DO NOT COME INTO THIS ROOM. THERE HAS BEEN RUMOR OF NO FLOOR!{black,bold}
+
+~
+Z6
+C-1
+R0
+S
+#45610
+Room with no floor~
+
+{BLACK,BOLD} You take a leap of faith and come short
+{BLACK,BOLD} of your target. The world seems to stop
+{BLACK,BOLD} as you fall into nothing.{black}
+
+~
+456 15 0
+D1
+~
+door~
+1 -1 45609
+Z6
+C-1
+R0
+S
+#45611
+Farther Down the Hallway~
+
+{BLACK,BOLD} The old man's snoring grows louder. You soften your footsteps,
+{BLACK,BOLD} and reach or the door handle. The area around you is dark
+{BLACK,BOLD} and dusty. You can hear the bartender upstairs yelling at
+{BLACK,BOLD} someone. There is a {BLUE,BOLD}sign {BLACK,BOLD}on this door.{black}
+
+~
+456 9 1
+D2
+~
+~
+0 -1 45609
+D3
+{BLACK,BOLD} A Wooden Door to Rufio's Room{black,bold}
+
+~
+door~
+1 -1 45612
+E
+sign~
+
+{BLACK,BOLD} Rufio's Room{black,bold}
+
+~
+Z6
+C-1
+R0
+S
+#45612
+Rufio's Chamber~
+
+{BLACK,BOLD} As you slowly approach Rufio's room, you notice
+{BLACK,BOLD} that he is already awake. It is almost like he
+{BLACK,BOLD} knows you are there. The room is tainted black
+{BLACK,BOLD} in your favor. A bed is in the middle of the room.
+{BLACK,BOLD} There are posters on the wall of unknown people
+{BLACK,BOLD} fighting for freedom. Rufio falls asleep a few
+{BLACK,BOLD} moments later and is soundly sleeping.{black}
+
+~
+456 9 1
+D1
+~
+door~
+1 -1 45611
+Z9
+C-1
+R0
+S
+#45613
+{WHITE,BOLD}You sense a presence nearby...{white}~
+
+
+{BLACK,BOLD} You step out of bed and look around the room.
+{BLACK,BOLD} There are a few posters on the walls and a portal
+{BLACK,BOLD} in the middle. You sense a presence nearby and out
+{BLACK,BOLD} of nowhere a hooded man appears.{black}
+
+~
+456 9 1
+Z6
+C1
+R0
+S
+#45614
+To the Sanctuary~
+
+{GREEN,BOLD} You are in Cheydinhal. As you look around you notice that
+{GREEN,BOLD} you are surrounded by mountains, hills, and tons of buildings.
+{GREEN,BOLD} You stare up at the huge castle that gazes over the town.
+{GREEN,BOLD} A few blocks away is the Market and across the street
+{GREEN,BOLD} is the Chapel. Ahead of you there is an abandoned house that
+{GREEN,BOLD} hasn't been touched in years.{green}
+
+~
+456 1025 1
+D0
+~
+~
+0 -1 45614
+D1
+~
+~
+0 -1 45614
+D2
+~
+~
+0 -1 45614
+D3
+~
+~
+0 -1 45614
+D4
+~
+~
+0 -1 45615
+D5
+~
+~
+0 -1 45614
+Z6
+C-1
+R0
+S
+#45615
+To the Santuary~
+
+{GREEN,BOLD} You are in Cheydinhal. As you look around you notice that
+{GREEN,BOLD} you are surrounded by mountains, hills, and tons of buildings.
+{GREEN,BOLD} You stare up at the huge castle that gazes over the town.
+{GREEN,BOLD} A few blocks away is the Market and across the street
+{GREEN,BOLD} is the Chapel. Ahead of you there is an abandoned house that
+{GREEN,BOLD} hasn't been touched in years.{green}
+
+~
+456 1025 1
+D0
+~
+~
+0 -1 45615
+D1
+~
+~
+0 -1 45615
+D2
+~
+~
+0 -1 45616
+D3
+~
+~
+0 -1 45615
+D4
+~
+~
+0 -1 45615
+D5
+~
+~
+0 -1 45615
+Z6
+C-1
+R0
+S
+#45616
+Crossroads~
+
+{BLACK,BOLD} You look around and notice a door
+{BLACK,BOLD} to the east leading inside the abandoned
+{BLACK,BOLD} house. There is also a pathway leading
+{BLACK,BOLD} north into a dark cave.{black}
+
+~
+456 1 1
+D0
+~
+CaveDoor~
+1 -1 45694
+D1
+~
+door~
+1 -1 45617
+Z6
+C-1
+R0
+S
+#45617
+Abandoned House~
+
+{BLACK,BOLD} You walk in and look around, there is no
+{BLACK,BOLD} way this is the Sanctuary. The room is full
+{BLACK,BOLD} of dust and filled with crates and barrels.
+{BLACK,BOLD} Looking around you notice there is a pathway
+{BLACK,BOLD} going east.{black}
+
+~
+456 13 1
+D1
+{BLACK,BOLD} Wooden Door to the Abandoned Basement{black,bold}
+
+~
+door~
+1 -1 45618
+D3
+~
+door~
+1 -1 45616
+Z6
+C-1
+R0
+S
+#45618
+{BLACK,BOLD}Abandoned Basement{black,bold}~
+
+{BLACK,BOLD} You have entered the basement. You look around the room
+{BLACK,BOLD} and your keen perception catches the footprints on the
+{BLACK,BOLD} floor leading to a hole in the ground. The hole looks
+{BLACK,BOLD} extremely suspicious especially with the faint red glow
+{BLACK,BOLD} coming from below.{black}
+
+~
+456 13 1
+D3
+~
+door~
+1 -1 45617
+D5
+~
+~
+0 -1 45619
+Z6
+C-1
+R0
+S
+#45619
+Sanguine, my Brother~
+
+{BLACK,BOLD} You awlk down the stairs and come upon a very strange
+{BLACK,BOLD} door. This door is no ordinary door, it is the Ancient
+{BLACK,BOLD} Black Door of the Dark Brotherhood. You gaze upon its
+{BLACK,BOLD} detailed art and notice a giant red skull staring deep
+{BLACK,BOLD} into your soul. It has a bloody hand ingraved its forehead.
+{BLACK,BOLD} Down below you notice a figure stabbing a group of children
+{BLACK,BOLD} begging for mercy. As you draw closer to the door you hear
+{BLACK,BOLD} a dark evil voice, {RED,BOLD}What is the color of night?{red}
+
+~
+456 13 1
+D3
+{BLACK,BOLD} What, is the color of Night?{black,bold}
+
+~
+sanguine~
+3 1 45620
+D4
+~
+~
+0 -1 45618
+Z7
+C-1
+R0
+S
+#45620
+{BLACK,BOLD}Dark Brotherhood{black,bold}~
+
+{BLACK,BOLD} You guess the password correctly. As you
+{BLACK,BOLD} enter the Dark Brotherhood Sanctuary, a
+{BLACK,BOLD} sense of joy and bloodlust over comes you.
+{BLACK,BOLD} You come in and all the members stare at
+{BLACK,BOLD} you with blank expressions.{black}
+
+~
+456 13 1
+D0
+Old Wooden Door to the Dark Brotherhood Living Quarters.
+
+~
+door~
+1 -1 45633
+D1
+~
+sanguine~
+1 -1 45619
+D3
+~
+~
+0 -1 45621
+X12
+Z5
+C-1
+R0
+S
+#45621
+{BLACK,BOLD}Dark Brotherhood Sanctuary{black}~
+
+{RED,BOLD} The building is divided into three different parts.
+{RED,BOLD} The first part is the Dark Brotherhood Sanctuary.
+{RED,BOLD} In the Sanctuary most of the members usually talk
+{RED,BOLD} about their latest assignment and bloodiest kill.
+{RED,BOLD} The other part is the leveling quarters where everyone
+{RED,BOLD} sleeps after a long murderous day, and the last is
+{RED,BOLD} the Main Room where the heads of the Sanctuary live
+{RED,BOLD} and hand out tasks.{red}
+
+~
+456 9 1
+D1
+~
+~
+0 -1 45620
+D3
+{BLACK,BOLD} Door to Ocheeva's Quarters{black,bold}
+
+~
+door~
+1 -1 45623
+Z6
+C-1
+R0
+S
+#45622
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+456 262144 1
+Z0
+C-1
+R0
+S
+#45623
+Ocheeva's Quarters~
+
+{YELLOW} The room is kept in a quite neat fishion. Everything
+{YELLOW} is positioned to perfection. There is a rug on the
+{YELLOW} floor obviously covering up something but you find
+{YELLOW} it best not to look. As you look down you find a
+{YELLOW} trapdoor at your feet.{yel}
+
+~
+456 9 1
+D1
+~
+door~
+1 -1 45621
+D5
+{BLACK,BOLD} Trapdoor to the Dark Brotherhood Sanctuary{black,bold}
+
+~
+trapdoor~
+1 -1 45624
+Z6
+C-1
+R0
+S
+#45624
+Vicente Valtieri's Room~
+
+{BLACK,BOLD} This is Vicente Valtieri's room. He has a stone
+{BLACK,BOLD} bed with a stone pillow. Strange... As you turn
+{BLACK,BOLD} around you see him paying no attention to you
+{BLACK,BOLD} what so ever. Around the room you see paintings
+{BLACK,BOLD} of famous vampires and vampire hunters with arrows
+{BLACK,BOLD} through their heads.{black,bold}
+
+~
+456 9 1
+D4
+~
+trapdoor~
+1 -1 45623
+Z6
+C-1
+R0
+S
+#45625
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+456 262144 1
+Z0
+C-1
+R0
+S
+#45626
+{CYAN}Imperial City Waterfront{cyan}~
+
+{BLACK,BOLD} You are at the Imperial City Waterfront. To the north you see
+{BLACK,BOLD} a door leading to Lormir's House. Farther to the west you can
+{BLACK,BOLD} see a ship full of pirates. You find a well going down below
+{BLACK,BOLD} into what appears to be a fort.{black}
+
+~
+456 5 1
+D0
+Door to Lorkmir's House
+
+~
+door~
+1 0 45672
+D1
+~
+~
+0 -1 45626
+D2
+~
+~
+0 -1 45626
+D3
+~
+~
+0 -1 45627
+D5
+~
+well~
+1 -1 45673
+Z4
+C-1
+R0
+S
+#45627
+{CYAN}Imperial City Waterfront{cy}~
+
+{BLACK,BOLD} Your walking on the City Isle, an island
+{BLACK,BOLD} in Lake Rumar. The landscape goes in a
+{BLACK,BOLD} half circle around the dock. There are
+{BLACK,BOLD} ships lined up ready to set sail. Only
+{BLACK,BOLD} one catches your eye, the pirate ship.{black}
+
+~
+456 1 1
+D0
+~
+~
+0 -1 45627
+D1
+~
+~
+0 -1 45627
+D2
+~
+~
+0 -1 45627
+D3
+~
+~
+0 -1 45628
+Z4
+C-1
+R0
+S
+#45628
+Getting on the ship~
+
+{BLACK,BOLD} You are standing on the dock beside the pirate's
+{BLACK,BOLD} ship. There are four pirates loading crates before
+{BLACK,BOLD} embarking on their journey. You take one step onto
+{BLACK,BOLD} the ship and they are ready to attack. To the north
+{BLACK,BOLD} you can see the ship's deck.{black}
+
+~
+456 1 1
+D0
+~
+~
+0 -1 45630
+D3
+~
+~
+0 -1 45629
+Z4
+C-1
+R0
+S
+#45629
+A Watery Grave~
+
+{BLACK,BOLD} You were just looking at the water when you tripped
+{BLACK,BOLD} and splashed into the ocean. You forgot how to swim
+{BLACK,BOLD} and are now just kicking around. Suddenly, your
+{BLACK,BOLD} head starts to go under... Your last thought
+{BLACK,BOLD} is of killing a pirate.{black,bold}
+
+~
+456 3 1
+Z-1
+C-1
+R0
+S
+#45630
+The Ship~
+
+{BLACK,BOLD} You are standing on the deck of the ship. It is
+{BLACK,BOLD} shining with new paint and has a fresh scent of
+{BLACK,BOLD} wood. There is a door to the north leading into
+{BLACK,BOLD} the Captain's quarters, to the east and west you
+{BLACK,BOLD} see the ocean, and to the south you can see the
+{BLACK,BOLD} Imperial City Waterfront. A few pirates are here
+{BLACK,BOLD} washing this fine ship.{black}
+
+~
+456 1 1
+D0
+~
+door~
+1 -1 45631
+D1
+~
+~
+0 -1 45629
+D2
+~
+~
+0 -1 45628
+D3
+~
+~
+0 -1 45629
+Z4
+C-1
+R0
+S
+#45631
+{YELLOW}Captain's quarters{yel}~
+
+{BLACK,BOLD} The Captain is held up in here with two of his
+{BLACK,BOLD} top men. There is a desk in the middle of the
+{BLACK,BOLD} room. You see a door to the north leading out
+{BLACK,BOLD} to the Imperial Waterfront.{black}
+
+~
+456 9 1
+D0
+~
+door~
+2 45697 45632
+D2
+~
+door~
+1 -1 45630
+Z4
+C3
+R0
+S
+#45632
+{BLUE,BOLD}A Watery Grave{blue,bold}~
+
+{BLUE,BOLD} You fall off the ship into the waters
+{BLUE,BOLD} below. You can feel yourself sinking
+{BLUE,BOLD} into what appears to be the Sanctuary.{blue}
+
+~
+456 1048612 6
+D5
+~
+~
+0 -1 45620
+Z6
+C-1
+R0
+S
+#45633
+{BLACK,BOLD}Dark Brotherhood Living Quarters{black,bold}~
+
+{BLACK,BOLD} You are now in the living quarters. All around
+{BLACK,BOLD} you, you can see rats biting at random things in
+{BLACK,BOLD} the room. A few of the rats decide that you make
+{BLACK,BOLD} a worthy meal and start to gnaw on your skin.{black}
+
+~
+456 9 1
+D2
+~
+door~
+1 -1 45620
+Z0
+C-1
+R0
+S
+#45634
+{WHI,BO}Bruma{whi}~
+
+{WHITE,BOLD} The snow seems to have no affect on those around you.
+{BLACK,BOLD} They are all wandering about with barely any clothing.
+{WHITE,BOLD} As you come out of the portal fully, a guard gets bored
+{BLACK,BOLD} and decides to attack you.{black}
+
+~
+456 37 1
+D2
+~
+~
+0 -1 45635
+Z-1
+C-1
+R0
+S
+#45635
+Bruma~
+
+{BLACK,BOLD} You travel farther into the city. People are wandering
+{WHITE,BOLD} all around. In such a small town there must be nothing
+{BLACK,BOLD} to do. There are a few houses in front of you, but only
+{WHITE,BOLD} one stands out above all the rest: The House of Baenlin.{whi}
+
+~
+456 33 1
+D0
+~
+~
+0 -1 45634
+D1
+~
+door~
+1 -1 45697
+D2
+A Wooden Door to Baenlin's House.
+
+~
+door~
+1 1 45636
+Z-1
+C-1
+R0
+S
+#45636
+{YELLOW}Inside{yel}~
+
+{YELLOW} When you enter, you catch the scent of grilled steak. The
+{YELLOW} room is quite a mess. Everything is just flung together. You can
+{YELLOW} hear two men arguing. As one of them turns he catches your stare
+{YELLOW} and has an immediate angry glare. You withdraw your steps but it
+{YELLOW} is too late. The old man in the corner just smirks, waiting for
+{YELLOW} blood to stain his new carpet.{yell}
+
+~
+456 16525 0
+D0
+~
+door~
+1 -1 45635
+D5
+~
+~
+0 -1 45637
+Z0
+C-1
+R0
+S
+#45637
+{WHITE,BOLD}Accidents Happen{white}~
+
+{WHITE,BOLD} You slip into the hole in the floor of the house.
+{WHITE,BOLD} You fall and fall and are surprised you don't die.{white}
+
+~
+456 1048609 1
+D5
+~
+~
+0 -1 45638
+Z0
+C-1
+R0
+S
+#45638
+{BLACK,BOLD}Sewers{black}~
+
+{BLACK,BOLD} You have entered the sewers beneath the Imperial
+{BLACK,BOLD} Prison. You must now proceed through the sewers
+{BLACK,BOLD} and into the prison itself. You can hear faint
+{BLACK,BOLD} grunts that may be coming from a rat, but it is
+{BLACK,BOLD} too dark to tell.{black}
+
+~
+456 137 0
+D0
+~
+~
+0 -1 45639
+D1
+~
+~
+0 -1 45638
+D2
+~
+~
+0 -1 45638
+D3
+~
+~
+0 -1 45638
+Z9
+C-1
+R0
+S
+#45639
+{BLACK,BOLD}Sewers{black}~
+
+{BLACK,BOLD} You have entered the sewers beneath the Imperial
+{BLACK,BOLD} Prison. You must now proceed through the sewers
+{BLACK,BOLD} and into the prison itself. You can hear faint
+{BLACK,BOLD} grunts that may be coming from a rat, but it is
+{BLACK,BOLD} too dark to tell.{black}
+
+~
+456 137 0
+D0
+~
+~
+0 -1 45640
+D1
+~
+~
+0 -1 45638
+D2
+~
+~
+0 -1 45638
+D3
+~
+~
+0 -1 45638
+Z9
+C-1
+R0
+S
+#45640
+{BLACK,BOLD}Sewers{black}~
+
+{BLACK,BOLD} You have entered the sewers beneath the Imperial
+{BLACK,BOLD} Prison. You must now proceed through the sewers
+{BLACK,BOLD} and into the prison itself. You can hear faint
+{BLACK,BOLD} grunts that may be coming from a rat, but it is
+{BLACK,BOLD} too dark to tell.{black}
+
+~
+456 137 0
+D0
+Door to the Sewers
+
+~
+door~
+1 -1 45641
+D1
+~
+~
+0 -1 45638
+D2
+~
+~
+0 -1 45639
+D3
+~
+~
+0 -1 45638
+Z9
+C-1
+R0
+S
+#45641
+{BLACK,BOLD}Sewers{black}~
+
+{BLACK,BOLD} You have entered the sewers beneath the Imperial
+{BLACK,BOLD} Prison. You must now proceed through the sewers
+{BLACK,BOLD} and into the prison itself. You can hear faint
+{BLACK,BOLD} grunts that may be coming from a rat, but it is
+{BLACK,BOLD} too dark to tell.{black}
+
+~
+456 137 0
+D0
+~
+~
+0 -1 45638
+D1
+~
+~
+0 -1 45642
+D2
+~
+door~
+1 -1 45640
+D3
+~
+~
+0 -1 45638
+Z9
+C-1
+R0
+S
+#45642
+{BLACK,BOLD}Sewers{black}~
+
+{BLACK,BOLD} You have entered the sewers beneath the Imperial
+{BLACK,BOLD} Prison. You must now proceed through the sewers
+{BLACK,BOLD} and into the prison itself. You can hear faint
+{BLACK,BOLD} grunts that may be coming from a rat, but it is
+{BLACK,BOLD} too dark to tell.{black}
+
+~
+456 137 0
+D0
+~
+~
+0 -1 45638
+D1
+~
+~
+0 -1 45643
+D2
+~
+~
+0 -1 45638
+D3
+~
+~
+0 -1 45641
+Z9
+C-1
+R0
+S
+#45643
+{BLACK,BOLD}Sewers{black}~
+
+{BLACK,BOLD} You have entered the sewers beneath the Imperial
+{BLACK,BOLD} Prison. You must now proceed through the sewers
+{BLACK,BOLD} and into the prison itself. You can hear faint
+{BLACK,BOLD} grunts that may be coming from a rat, but it is
+{BLACK,BOLD} too dark to tell.{black}
+
+~
+456 137 0
+D0
+~
+~
+0 -1 45644
+D1
+~
+~
+0 -1 45638
+D2
+~
+~
+0 -1 45645
+D3
+~
+~
+0 -1 45642
+Z9
+C-1
+R0
+S
+#45644
+{BLACK,BOLD}Sewers{black}~
+
+{BLACK,BOLD} You have entered the sewers beneath the Imperial
+{BLACK,BOLD} Prison. You must now proceed through the sewers
+{BLACK,BOLD} and into the prison itself. You can hear faint
+{BLACK,BOLD} grunts that may be coming from a rat, but it is
+{BLACK,BOLD} too dark to tell.{black}
+
+~
+456 137 0
+D0
+~
+~
+0 -1 45638
+D1
+~
+~
+0 -1 45638
+D2
+~
+~
+0 -1 45643
+D3
+~
+gate~
+1 1 45646
+Z9
+C-1
+R0
+S
+#45645
+{BLACK,BOLD}Scheduled for Execution{black}~
+
+{RED,BOLD} You slowly walk down the hallway trying to
+{RED,BOLD} be as stealthy as possible. You stop for a
+{RED,BOLD} moment when you see a shadow drawing close.
+{RED,BOLD} You turn around and notice a guard with his
+{RED,BOLD} sword drawn. As you are about to lunge you take
+{RED,BOLD} your last minute looking at the other guards
+{RED,BOLD} enclosing you.{red}
+
+~
+456 11 0
+Z9
+C-1
+R0
+S
+#45646
+{BLACK,BOLD}Sewers{black}~
+
+{BLACK,BOLD} You have entered the sewers beneath the Imperial
+{BLACK,BOLD} Prison. You must now proceed through the sewers
+{BLACK,BOLD} and into the prison itself. You can hear faint
+{BLACK,BOLD} grunts that may be coming from a rat, but it is
+{BLACK,BOLD} too dark to tell.{black}
+
+~
+456 137 0
+D0
+~
+~
+0 -1 45638
+D1
+~
+gate~
+1 -1 45644
+D2
+~
+~
+0 -1 45638
+D3
+~
+~
+0 -1 45647
+Z9
+C-1
+R0
+S
+#45647
+{BLACK,BOLD}Sewers{black}~
+
+{BLACK,BOLD} You have entered the sewers beneath the Imperial
+{BLACK,BOLD} Prison. You must now proceed through the sewers
+{BLACK,BOLD} and into the prison itself. You can hear faint
+{BLACK,BOLD} grunts that may be coming from a rat, but it is
+{BLACK,BOLD} too dark to tell.{black}
+
+~
+456 137 0
+D0
+~
+~
+0 -1 45638
+D1
+~
+~
+0 -1 45646
+D2
+~
+~
+0 -1 45638
+D3
+Door to the Sewers
+
+~
+door~
+1 -1 45648
+Z9
+C-1
+R0
+S
+#45648
+{BLACK,BOLD}Sewers{black}~
+
+{BLACK,BOLD} You have entered the sewers beneath the Imperial
+{BLACK,BOLD} Prison. You must now proceed through the sewers
+{BLACK,BOLD} and into the prison itself. You can hear faint
+{BLACK,BOLD} grunts that may be coming from a rat, but it is
+{BLACK,BOLD} too dark to tell.{black}
+
+~
+456 137 0
+D0
+~
+~
+0 -1 45638
+D1
+~
+~
+0 -1 45648
+D2
+~
+~
+0 -1 45638
+D3
+~
+~
+0 -1 45648
+D5
+~
+~
+0 -1 45649
+Z9
+C-1
+R0
+S
+#45649
+{BLACK,BOLD}Sewers{black}~
+
+{BLACK,BOLD} You have entered the sewers beneath the Imperial
+{BLACK,BOLD} Prison. You must now proceed through the sewers
+{BLACK,BOLD} and into the prison itself. You can hear faint
+{BLACK,BOLD} grunts that may be coming from a rat, but it is
+{BLACK,BOLD} too dark to tell.{black}
+
+~
+456 137 0
+D0
+~
+~
+0 -1 45645
+D1
+~
+~
+0 -1 45650
+D2
+~
+~
+0 -1 45645
+D3
+~
+~
+0 -1 45645
+D4
+~
+~
+0 -1 45648
+Z9
+C-1
+R0
+S
+#45650
+{BLACK,BOLD}Sewers{black}~
+
+{BLACK,BOLD} You have entered the sewers beneath the Imperial
+{BLACK,BOLD} Prison. You must now proceed through the sewers
+{BLACK,BOLD} and into the prison itself. You can hear faint
+{BLACK,BOLD} grunts that may be coming from a rat, but it is
+{BLACK,BOLD} too dark to tell.{black}
+
+~
+456 137 0
+D0
+~
+~
+0 -1 45645
+D1
+~
+~
+0 -1 45645
+D2
+~
+~
+0 -1 45651
+D3
+~
+~
+0 -1 45649
+Z9
+C-1
+R0
+S
+#45651
+{BLACK,BOLD}Sewers{black}~
+
+{BLACK,BOLD} You have entered the sewers beneath the Imperial
+{BLACK,BOLD} Prison. You must now proceed through the sewers
+{BLACK,BOLD} and into the prison itself. You can hear faint
+{BLACK,BOLD} grunts that may be coming from a rat, but it is
+{BLACK,BOLD} too dark to tell.{black}
+
+~
+456 137 0
+D0
+~
+~
+0 -1 45650
+D1
+~
+~
+0 -1 45638
+D2
+~
+~
+0 -1 45638
+D3
+~
+~
+0 -1 45638
+D4
+~
+exit~
+1 1 45652
+Z9
+C-1
+R0
+S
+#45652
+{BLACK,BOLD}Sewers{black}~
+
+{BLACK,BOLD} You have entered the sewers beneath the Imperial
+{BLACK,BOLD} Prison. You must now proceed through the sewers
+{BLACK,BOLD} and into the prison itself. You can hear faint
+{BLACK,BOLD} grunts that may be coming from a rat, but it is
+{BLACK,BOLD} too dark to tell.{black}
+
+~
+456 137 0
+D2
+~
+~
+0 -1 45653
+Z9
+C-1
+R0
+S
+#45653
+{BLACK,BOLD}Sewers{black}~
+
+{BLACK,BOLD} You have entered the sewers beneath the Imperial
+{BLACK,BOLD} Prison. You must now proceed through the sewers
+{BLACK,BOLD} and into the prison itself. You can hear a faint
+{BLACK,BOLD} sounds of grunts that might be coming from a rat
+{BLACK,BOLD} but it is too dark for you to tell.{black}
+
+~
+456 137 0
+D0
+~
+~
+0 -1 45652
+D1
+~
+~
+0 -1 45654
+D2
+~
+~
+0 -1 45652
+D3
+~
+~
+0 -1 45645
+Z9
+C-1
+R0
+S
+#45654
+{BLACK,BOLD}Sanctum{black}~
+
+
+  {R}{BOLD}You are in the Prison and have to get to the Cells.
+  You realize that it will be no easy task with the
+  guards inspecting every little detail.{r}{bold}
+
+
+~
+456 137 1
+D0
+Door to the Imperial Subterrane
+
+~
+door~
+1 -1 45655
+D1
+~
+~
+0 -1 45652
+D2
+~
+~
+0 -1 45652
+D3
+~
+~
+0 -1 45653
+Z9
+C-1
+R0
+S
+#45655
+{BLACK,BOLD}Sanctum{black}~
+
+{RED,BOLD} You are in the prison and have to get to the cells.
+{RED,BOLD} You realize that it will e no easy task whith the
+{RED,BOLD} guards inspecting every little detail.{red}
+
+~
+456 137 1
+D0
+~
+~
+0 -1 45656
+D1
+~
+~
+0 -1 45652
+D2
+~
+door~
+1 -1 45654
+D3
+~
+~
+0 -1 45652
+Z9
+C-1
+R0
+S
+#45656
+{BLACK,BOLD}Sanctum{black}~
+
+{RED,BOLD} You are in the prison and have to get to the cells.
+{RED,BOLD} You realize that it will e no easy task whith the
+{RED,BOLD} guards inspecting every little detail.{red}
+
+~
+456 137 1
+D0
+~
+~
+0 -1 45652
+D1
+~
+~
+0 -1 45657
+D2
+~
+~
+0 -1 45655
+D3
+~
+~
+0 -1 45652
+Z9
+C-1
+R0
+S
+#45657
+{BLACK,BOLD}Sanctum{black}~
+
+{RED,BOLD} You are in the prison and have to get to the cells.
+{RED,BOLD} You realize that it will e no easy task whith the
+{RED,BOLD} guards inspecting every little detail.{red}
+
+~
+456 137 1
+D0
+~
+~
+0 -1 45652
+D1
+~
+~
+0 -1 45652
+D2
+~
+~
+0 -1 45658
+D3
+~
+~
+0 -1 45656
+Z9
+C-1
+R0
+S
+#45658
+{BLACK,BOLD}Sanctum{black}~
+
+{RED,BOLD} You are in the prison and have to get to the cells.
+{RED,BOLD} You realize that it will e no easy task whith the
+{RED,BOLD} guards inspecting every little detail.{red}
+
+~
+456 137 1
+D0
+~
+~
+0 -1 45657
+D1
+~
+~
+0 -1 45652
+D2
+~
+~
+0 -1 45652
+D3
+~
+~
+0 -1 45659
+Z9
+C-1
+R0
+S
+#45659
+{BLACK,BOLD}Sanctum{black}~
+
+{RED,BOLD} You are in the prison and have to get to the cells.
+{RED,BOLD} You realize that it will e no easy task whith the
+{RED,BOLD} guards inspecting every little detail.{red}
+
+~
+456 137 1
+D0
+~
+~
+0 -1 45660
+D1
+~
+~
+0 -1 45658
+D2
+~
+~
+0 -1 45652
+D3
+~
+~
+0 -1 45652
+Z9
+C-1
+R0
+S
+#45660
+Sanctum~
+
+{BLACK,BOLD} You finally reach the end of the Sanctum. To your south,
+{BLACK,BOLD} there is a door leading to a prison cell. All around you
+{BLACK,BOLD} it is nearly pitch black. You can hear nothing but a guard
+{BLACK,BOLD} patrolling the area.{black}
+
+~
+456 141 1
+D2
+~
+door~
+1 -1 45661
+Z9
+C-1
+R0
+S
+#45661
+Prison~
+
+{RED,BOLD} You are standing in your old prison cell. It has gotten
+{RED,BOLD} filled with dust and other small particles. You hear Valen
+{RED,BOLD} across the room screaming for help as you approach. The guard
+{RED,BOLD} comes running down the hall, but stops just short of the gate.
+{RED,BOLD} As you watch the guard begins to pace with two keys dangling
+{RED,BOLD} around his fingers.{red}
+
+~
+456 9 1
+D0
+~
+door~
+1 -1 45660
+D1
+~
+gate~
+1 -1 45662
+Z6
+C-1
+R0
+S
+#45662
+Prison~
+
+{BLACK,BOLD} You walk into the prison hallway, there are bloody
+{BLACK,BOLD} handprints on the walls and dirt everywhere. A guard
+{BLACK,BOLD} comes running around the corner.{black}
+
+~
+456 137 1
+D0
+A Gate.
+
+~
+gate~
+1 45615 45663
+D3
+~
+gate~
+1 -1 45661
+D4
+~
+door~
+2 45616 45664
+Z6
+C-1
+R0
+S
+#45663
+Prison Cell~
+
+{BLACK,BOLD} You begin to laugh uncontrollably as an intense rush
+{BLACK,BOLD} of anger fills your soul. You look deep into the eyes
+{BLACK,BOLD} of your prey, seeing his tears slowly fall to the ground
+{BLACK,BOLD} begging for your mercy. Valen falls to his knees weeping.{black}
+
+~
+456 9 1
+D2
+~
+gate~
+1 -1 45662
+X128
+Z9
+C2
+R0
+S
+#45664
+Outside~
+
+{BLACK,BOLD} Finally you are outside! As you take your first step
+{BLACK,BOLD} you place your foot into a huge pile of quicksand. You
+{BLACK,BOLD} fear for your life and know this will be the end. You
+{BLACK,BOLD} pray but the gods seem to have forsaken you. You slowly
+{BLACK,BOLD} slip away..{black}
+
+~
+456 1048581 1
+D0
+~
+~
+0 -1 45665
+Z-1
+C-1
+R0
+S
+#45665
+Motierre's House~
+
+{YELLOW} What a nice house! It is obvious a rich man owns it.
+{YELLOW} As you look around you notice two men about to go at it.
+{YELLOW} You eagerly stare at them wanting some blood, but one of them
+{YELLOW} turns toward you. It wouldn't be too bad to get into a fight...
+{YELLOW} Would it?{yellow}
+
+~
+456 16649 1
+D0
+~
+door~
+1 -1 45666
+T45670
+Z-1
+C-1
+R0
+S
+#45666
+Leaving the city~
+
+{GREEN,BOLD} The citizens must know you killed Motierre because they are chasing
+{GREEN,BOLD} you out of the town. To the east you can see a door to the chapel
+{GREEN,BOLD} where they put the corpse of Motierre and Hides-His-Heart. To the
+{GREEN,BOLD} north you can see off in the horizon the border of the Imperial
+{GREEN,BOLD} Waterfront.{gr}
+
+~
+456 1 1
+D0
+~
+~
+0 -1 45626
+D1
+~
+door~
+1 -1 45667
+D3
+~
+GreyMare~
+3 -1 45671
+Z6
+C-1
+R0
+S
+#45667
+Chapel~
+
+{YELLOW} As you enter the chapel everyone stares at you weird, and with
+{YELLOW} a little bit of anger. A few of them watch you carefully making
+{YELLOW} sure you don't kill anyone else. There is a door below leading
+{YELLOW} to the undercroft.{yellow}
+
+~
+456 9 1
+D3
+~
+door~
+1 -1 45666
+D5
+~
+door~
+1 -1 45668
+Z-1
+C-1
+R0
+S
+#45668
+Undercroft~
+
+{YELLOW} As you look around, you notice ghosts flying around everywhere.
+{YELLOW} There are ghosts to the north and west pulling apart corpses
+{YELLOW} almost like a DEATH TRAP! To the east you can see the corpses
+{YELLOW} of Motierre and Hides-His-Heart. There are a few zombies patrolling
+{YELLOW} the area. You better watch out!{yel}
+
+~
+456 9 1
+D0
+~
+~
+0 -1 45669
+D1
+~
+~
+0 -1 45670
+D3
+~
+~
+0 -1 45669
+D4
+~
+door~
+1 -1 45667
+Z6
+C-1
+R0
+S
+#45669
+{YELLOW}The Assassinated Man{yellow}~
+
+{YELLOW} You took a wrong turn and all the zombies and ghosts start to attack
+{YELLOW} you. Each of them takes off one of your limbs and your eq falls into
+{YELLOW} the ground and sinks away. You are dead before you can even scream
+{YELLOW} for help.. You are the {RED}A{RED,BOLD}ss{red,bold}{RED}a{RED,BOLD}ss{red,bold}{RED}i{RED,BOLD}n{red,bold}{RED}a{RED,BOLD}t{red,bold}{RED}e{RED,BOLD}d M{red,bold}{RED}a{RED,BOLD}n{red,bold}{YELLOW}.{yellow}
+
+~
+456 11 1
+Z6
+C-1
+R0
+S
+#45670
+Undercroft~
+
+{BLACK,BOLD} Here are the corpses or Motierre and Hides-Hides-Heart.
+{BLACK,BOLD} As you touch the corpse you hear moaning. Oh no! Motierre's
+{BLACK,BOLD} entire family wakes up! Now, they are zombies! One look
+{BLACK,BOLD} and you know they will destroy everything in YOUR corpse.
+{BLACK,BOLD} The Motierre that you killed wakes up too. He stares at
+{BLACK,BOLD} you with his eyes missing, what a disgusting sight!
+
+{BLACK,BOLD} AHHHHHHHHHHHHHHHHHHH!!!!!!! They start to attack!{black}
+
+~
+456 0 1
+D3
+~
+~
+0 -1 45668
+Z6
+C-1
+R0
+S
+#45671
+The Grey Mare~
+
+{YELLOW} You have stumbled into a small Inn. As you look around
+{YELLOW} the Grey Mare, you notice that is is quite a small and
+{YELLOW} humble Inn. The screaming from outside has died and you
+{YELLOW} feel it is safe to return outdoors. Inside it is dark,
+{YELLOW} small, and bare other than the dining area.{yell}
+
+~
+456 1 1
+D1
+~
+GreyMare~
+1 -1 45666
+Z0
+C-1
+R0
+S
+#45672
+Lorkmir's House~
+
+{BLACK,BOLD} Lorkmir's house is almost exactly like the skooma den. Everything
+{BLACK,BOLD} is thrown up against the walls creating a huge circle in the
+{BLACK,BOLD} middle of the room. In the corner you can see a lonely man
+{BLACK,BOLD} smoking some skooma. As he tries to walk to the door, he
+{BLACK,BOLD} falls on his face and starts to snore loudly.{black,bold}
+
+~
+456 9 1
+D2
+~
+door~
+1 -1 45626
+Z-1
+C-1
+R0
+S
+#45673
+{GREEN}Fort Sutch{g}~
+
+{BLACK,BOLD} You have successfully entered Fort Sutch. You can
+{BLACK,BOLD} hear a few men talking off in the distance about
+{BLACK,BOLD} guarding Roderick. After they finish their quick
+{BLACK,BOLD} chat, one of the guards comes up to investigate the
+{BLACK,BOLD} area and spots you.
+
+~
+456 9 1
+D2
+~
+~
+0 -1 45674
+Z9
+C-1
+R0
+S
+#45674
+{GREEN}Fort Sutch{g}~
+
+{BLACK,BOLD} You have successfully entered Fort Sutch. You can
+{BLACK,BOLD} hear a few men talking off in the distance about
+{BLACK,BOLD} guarding Roderick. After they finish their quick
+{BLACK,BOLD} chat, one of the guards comes up to investigate the
+{BLACK,BOLD} area and spots you.
+
+~
+456 9 1
+D0
+~
+~
+0 -1 45673
+D1
+~
+~
+0 -1 45675
+Z9
+C-1
+R0
+S
+#45675
+{GREEN}Fort Sutch{g}~
+
+{BLACK,BOLD} You have successfully entered Fort Sutch. You can
+{BLACK,BOLD} hear a few men talking off in the distance about
+{BLACK,BOLD} guarding Roderick. After they finish their quick
+{BLACK,BOLD} chat, one of the guards comes up to investigate the
+{BLACK,BOLD} area and spots you.
+
+~
+456 9 1
+D0
+~
+~
+0 -1 45676
+D3
+~
+~
+0 -1 45674
+Z9
+C-1
+R0
+S
+#45676
+{GREEN}Fort Sutch{g}~
+
+{BLACK,BOLD} You have successfully entered Fort Sutch. You can
+{BLACK,BOLD} hear a few men talking off in the distance about
+{BLACK,BOLD} guarding Roderick. After they finish their quick
+{BLACK,BOLD} chat, one of the guards comes up to investigate the
+{BLACK,BOLD} area and spots you.
+
+~
+456 9 1
+D2
+~
+~
+0 -1 45675
+D3
+~
+~
+0 -1 45677
+Z9
+C-1
+R0
+S
+#45677
+{GREEN}Fort Sutch{g}~
+
+{BLACK,BOLD} You have successfully entered Fort Sutch. You can
+{BLACK,BOLD} hear a few men talking off in the distance about
+{BLACK,BOLD} guarding Roderick. After they finish their quick
+{BLACK,BOLD} chat, one of the guards comes up to investigate the
+{BLACK,BOLD} area and spots you.
+
+~
+456 9 1
+D1
+~
+~
+0 -1 45676
+D3
+~
+~
+0 -1 45678
+Z9
+C-1
+R0
+S
+#45678
+{GREEN}Fort Sutch{g}~
+
+{BLACK,BOLD} You have successfully entered Fort Sutch. You can
+{BLACK,BOLD} hear a few men talking off in the distance about
+{BLACK,BOLD} guarding Roderick. After they finish their quick
+{BLACK,BOLD} chat, one of the guards comes up to investigate the
+{BLACK,BOLD} area and spots you.
+
+~
+456 9 1
+D0
+~
+~
+0 -1 45679
+D1
+~
+~
+0 -1 45677
+Z9
+C-1
+R0
+S
+#45679
+{GREEN}Fort Sutch{g}~
+
+{BLACK,BOLD} You have successfully entered Fort Sutch. You can
+{BLACK,BOLD} hear a few men talking off in the distance about
+{BLACK,BOLD} guarding Roderick. After they finish their quick
+{BLACK,BOLD} chat, one of the guards comes up to investigate the
+{BLACK,BOLD} area and spots you.
+
+~
+456 9 1
+D2
+~
+~
+0 -1 45678
+D4
+~
+~
+0 -1 45680
+Z9
+C-1
+R0
+S
+#45680
+Roderick's Room~
+
+{BLACK,BOLD} You walk into Roderick's Bedroom and see he is sound asleep.
+{BLACK,BOLD} The room is spotless, he obviously wants to be organized for
+{BLACK,BOLD} his newest evil plot. 
+
+~
+456 13 1
+D4
+~
+trapdoor~
+1 -1 45681
+D5
+~
+~
+0 -1 45679
+Z9
+C-1
+R0
+S
+#45681
+{YELLOW}Summitmist Manor{yellow}~
+
+{Y} You climb up the ladder, leading yourself right into
+{Y} the Summitmist Manor. As you look around you spot a few
+{Y} people waiting for you to arrive. An old woman approaches
+{Y} you angrily.{y}
+
+~
+456 9 1
+D2
+~
+door~
+2 45624 45685
+D4
+~
+~
+0 -1 45682
+D5
+~
+trapdoor~
+1 -1 45680
+Z-1
+C2
+R0
+S
+#45682
+{YELLOW}Summitmist Manor{yellow}~
+
+{YELLOW} You climb up the stairs only to meet with two more party guests.
+{YELLOW} The two in this room are standing here fighting with each other.
+{YELLOW} The manor is quite big and there is supposed to be a key hidden
+{YELLOW} somewhere in the house. As you look around it is obvious that this
+{YELLOW} was all set up. The more you look around, the more you notice that
+{YELLOW} there will be no key. There is one more flight of stairs heading
+{YELLOW} to the top of the manor.{yellow}
+
+~
+456 9 1
+D4
+~
+~
+0 -1 45683
+D5
+~
+~
+0 -1 45681
+Z-1
+C2
+R0
+S
+#45683
+{YELLOW}Summitmist Manor{yellow}~
+
+{B} You climb up the last flight up stairs and find yourself staring
+{B} at Fafnir. He has a key around his neck, which you imagine will lead
+{B} outside. The room is a square area fit for a dual. To your north there
+{B} is a door leading to one of the bedrooms.{b}
+
+~
+456 9 1
+D0
+~
+door~
+1 -1 45684
+D5
+~
+~
+0 -1 45682
+Z-1
+C2
+R0
+S
+#45684
+Bedroom~
+
+{BLACK,BOLD} You are standing in one of the many bedrooms
+{CYAN,BOLD} here in the mansion. You look around and notice
+{BLACK,BOLD} a key sitting here on the ground. You gaze out
+{CYAN,BOLD} the window and see a magnificent city all around.
+{BLACK,BOLD} Somehow, one of the party members managed to
+{CYAN,BOLD} make it into this room.{cyan,bold}
+
+~
+456 8 1
+D2
+~
+door~
+1 -1 45683
+Z-1
+C-1
+R0
+S
+#45685
+Outside the mansion~
+
+{GREEN} You survived that death trap mansion.
+{GREEN} One of the guards runs up to you
+{GREEN} but is too late and you fall
+{GREEN} into a hole in the ground.{green}
+
+~
+456 1048577 1
+D0
+~
+~
+0 -1 45686
+Z6
+C-1
+R0
+S
+#45686
+{CYAN}By the pool{cyan}~
+
+{CYAN} You fall off the sidewalk and land right next to
+{C} a pool. A few of the guards are here sitting or
+{C} chatting. One of them decides to go for a swim.
+{C} He is vulnerable in the pool alone. You look around
+{C} and see a bunch of mysterious creatures walking
+{C} around town. Is this a zoo?{c}
+
+~
+456 5 1
+D5
+~
+~
+0 -1 45687
+Z6
+C-1
+R0
+S
+#45687
+{CYAN}In the pool{cyan}~
+
+{CYAN} You take one step into the pool and instantly
+{CYAN} freeze. It's extremely cold in here! You can hear
+{CYAN} absolutely nothing but you sense the faint whisper
+{CYAN} of death nearby.{cyan}
+
+~
+456 49317 6
+D4
+~
+~
+0 -1 45688
+D5
+~
+~
+0 -1 45689
+Z-1
+C2
+R0
+S
+#45688
+{CYAN}Out of the water{cyan}~
+
+{RED,BOLD} You made it out of the water just in time!
+{RED,BOLD} Now that you can look around and see clearly,
+{RED,BOLD} you find yourself staring in disgust at the
+{RED,BOLD} two guards in front of you.{red}
+
+~
+456 1 1
+D0
+~
+~
+0 -1 45690
+D5
+~
+~
+0 -1 45687
+Z0
+C-1
+R0
+S
+#45689
+{CYAN}Permanent Retirement{cyan}~
+
+{CYAN} You stayed in the water too long! Now
+{CYAN} you are dead from lack of oxygen. You
+{CYAN} blink one last time before everything
+{CYAN} turns
+
+{BLACK,BOLD} {BLACK,BOLD} {BLACK,BOLD} {BLACK,BOLD} {BLACK,BOLD} BLACK{black,bold}{CYAN}...{cyan}
+
+~
+456 3 7
+Z-1
+C-1
+R0
+S
+#45690
+{white}Going to the Imperial Legion Offices~
+
+{Y} You are headed to the Imperial Legion
+{Y} Offices. You can see it in front of you
+{Y} but guards keep getting in your way! You
+{Y} draw your sword and slash through them
+{Y} with might.{y}
+
+~
+456 1 1
+D0
+~
+~
+0 -1 45691
+D2
+~
+~
+0 -1 45688
+Z9
+C-1
+R0
+S
+#45691
+{white}Going to the Imperial Legion Offices~
+
+{Y} You are headed to the Imperial Legion
+{Y} Offices. You can see it in front of you
+{Y} but guards keep getting in your way! You
+{Y} draw your sword and slash through them
+{Y} with might.{y}
+
+~
+456 1 1
+D0
+~
+~
+0 -1 45692
+D2
+~
+~
+0 -1 45690
+Z9
+C-1
+R0
+S
+#45692
+{white}Going to the Imperial Legion Offices~
+
+{Y} You are headed to the Imperial Legion
+{Y} Offices. You can see it in front of you
+{Y} but guards keep getting in your way! You
+{Y} draw your sword and slash through them
+{Y} with might.{y}
+
+~
+456 1 1
+D0
+~
+~
+0 -1 45616
+D2
+~
+~
+0 -1 45691
+D3
+~
+door~
+2 45626 45693
+Z9
+C-1
+R0
+S
+#45693
+{YELLOW}Imperial Legion Office{yellow}~
+
+{YELLOW} You are in the Imperial Legion Office.
+{YELLOW} There is a huge pile of gold on the ground.
+{YELLOW} It is near midnight and everyone is sleeping.
+{YELLOW} You still hear nothing and think it's safe
+{YELLOW} to pick up the gold. It is probably a good
+{YELLOW} idea to leave as soon as possible.{yel}
+
+~
+456 0 1
+D1
+~
+door~
+1 -1 45692
+Z10
+C-1
+R0
+S
+#45694
+{BLACK,BOLD} Leafrot Cave{black,bold}~
+
+{BLACK,BOLD} You find yourself within Leafrot Cave.
+{BLACK,BOLD} There is a rat here waiting for its
+{BLACK,BOLD} latest meal. You look around but you
+{BLACK,BOLD} can barely see a thing in the pitch black.
+{BLACK,BOLD} As you wait and listen, you finally hear
+{BLACK,BOLD} a short and brief grunt coming from an
+{BLACK,BOLD} unknown creature. At that very moment
+{BLACK,BOLD} there is a short glow in the distance.{black}
+
+~
+456 9 1
+D1
+~
+~
+0 -1 45695
+D2
+~
+CaveDoor~
+1 -1 45616
+Z12
+C-1
+R0
+S
+#45695
+{BLACK,BOLD}Celedaen's Chamber{black,bold}~
+
+{RED,BOLD} As you look around it is obvious that
+{RED,BOLD} this guy is insane! There are bloody
+{RED,BOLD} skulls and bones scattered across the
+{RED,BOLD} floor and some large chunks of flesh
+{RED,BOLD} dropped in the center. Is it possible
+{RED,BOLD} this man is a necromancer?{red}
+
+~
+456 9 1
+D3
+~
+~
+0 -1 45694
+D4
+~
+door~
+2 45621 45696
+Z12
+C-1
+R0
+S
+#45696
+{WHITE,BOLD}Applewatch{white,bold}~
+
+{WHITE,BOLD} You climb out of the cave and find yourself in Applewatch.
+{WHITE,BOLD} There are a few members of the Draconis family farming.
+{WHITE,BOLD} They look up and barely glance at you before returning
+{WHITE,BOLD} to their work. The only thing you can see around here
+{WHITE,BOLD} is a ton of snow. You are curious as to why they are out
+{WHITE,BOLD} farming in such weather.{white}
+
+~
+456 5 1
+D1
+~
+~
+0 -1 45635
+D5
+~
+door~
+1 -1 45695
+Z-1
+C-1
+R0
+S
+#45697
+{YELLOW}J'Ghasta's House{yellow}~
+
+{YELLOW} You enter J'Ghasta's House and something feels terribly
+{YELLOW} wrong. There is a secret training room below you. As you
+{YELLOW} look around you find that this man is probably a drunk.
+{YELLOW} There are kegs all over the house, some small, some very
+{YELLOW} large.{yellow}
+
+~
+456 41 1
+D3
+~
+door~
+1 -1 45635
+D5
+A Trapdoor leading below
+
+~
+trapdoor~
+3 1 45698
+Z-1
+C-1
+R0
+S
+#45698
+{YELLOW}Secret Training Room{yellow}~
+
+{Y} J'Ghasta is here training. He stays down in this cellar
+{Y} to escape the murdons of life. There are punching bags,
+{Y} dummies, and lots of weapons laying around. The floor
+{Y} and walls are designed with heavy brick. As you approach
+{Y} J'Ghasta he demands that you leave.{y}
+
+~
+456 9 1
+D5
+~
+door~
+2 45607 45699
+Z-1
+C-1
+R0
+S
+#45699
+{BLACK,BOLD}Flooded Mine{black,bold}~
+
+{BLACK,BOLD} You are in the flooded Mine. It's just under J'Ghasta's
+{BLACK,BOLD} house. There are lots of plants unknown to man in here.
+{BLACK,BOLD} The cave is filled with water (Flooded Mine) making it
+{BLACK,BOLD} hard to see anything. You just head north trying not
+{BLACK,BOLD} to run into any walls.{black}
+
+~
+456 41 6
+D0
+~
+~
+0 -1 45700
+D4
+~
+door~
+1 -1 45698
+Z14
+C-1
+R0
+S
+$~

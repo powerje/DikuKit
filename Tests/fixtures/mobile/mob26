@@ -1,0 +1,356 @@
+#2600
+fencer~
+The Fencer~
+A young and strong fencer stands here.
+~
+The Fencer looks strong, he has some armor about him,
+he looks very loyal to his king.
+~
+4 0 700 S
+7 14 4 4d5+70 2d4+1
+500 2250
+8 8 1
+D 20
+A 12
+#2601
+guard gastle~
+The Castle Guard~
+A Castle Guard is here, shining in silver.
+~
+The Castle Guard looks very strong, he has full armor and
+serves his King heartly.
+~
+70 8 800 S
+17 4 1 3d5+200 3d6+2
+10000 28000
+8 8 1
+D 20
+A 12
+#2602
+count~
+A Count~
+A Count stands here, looking down at you.
+~
+This Count has very elegant clothing, he looks strong.
+~
+198 0 900 S
+11 10 2 2d10+120 2d6+1
+1000 11000
+8 8 1
+D 20
+A 12
+#2603
+knight master~
+The Master Knight~
+The Master Knight is here, looking defensly at you.
+~
+The Master Knight is very big and strong, he has full silver
+armor and great weapons, he is the Special servant of the King.
+~
+102 8 1000 S
+20 1 0 4d5+230 3d6+4
+25000 40000
+8 8 1
+D 20
+A 12
+#2650
+hatchling dragon baby~
+{GR}The {RE}Dragon{GR} Hatchling{gr}~
+{BO,BLA}A dragon hatchling is here, {BO,RE}brutally gnawing on a bone.{bo,re}
+~
+
+   {GR}This small dragon bares it's already {BO,RE}sharp{bo,re}{WHI} fangs{GR} and
+   gives a {RE}warning hiss{GRE} as you approach it. Although it
+   is  only a few  few  long,  its {YEL}menacing  glare{GRE}  and 
+  {BO,BLUE} powerful jaw{bo,blue}{GR} make you think about getting any closer.{gr}
+ 
+
+~
+322 1090781312 -900 S
+60 -25 -5 0d0+2500 8d8+75
+2000 2250
+8 8 0
+S 1
+D 20
+A 12
+#2651
+draconian~
+the Draconian~
+The Draconian is standing here.
+~
+This horrible creature is a bizarre cross between a man and a dragon.  He 
+has black scales and a seven foot wingspan.  He scowls at you and hefts his 
+spear as you enter the room.
+~
+134242342 295432 -900 S
+50 -15 2 0d0+5000 10d10+50
+25000 15000
+8 8 1
+S 11
+D 20
+A 12
+#2652
+master corpse dragon crypt~
+{BO,BLA}The Crypt {bo,bla}{YEL}Master{yel}~
+{BO,BLA}A decaying corpse is towering over you and calling out orders to its pet {BO,GR}dragons.{bo,gre}
+~
+
+   {BO,BLA}As you eye this ghastly beast, you can't help but choke 
+   on the taste of {bo,bla}{RE}decay{re}{BO,BLA} that has settled upon your tongue.
+   Pieces of {BO,RE}rotten flesh{bo,re}{BO,BLA}  are peeling off of its face and 
+   skin, its insides clearly visible. It is holding onto a
+   {bo,bla}{YEL}long sword{BO,BLA} and is swinging it wildly while screaming at
+   its {BO,GRE}dragon servants{BO,BLA}.{bo,bla}
+
+~
+427851782 1644987054 -1000 S
+58 -60 -4 0d0+20000 8d17+57
+500000 60000
+8 8 1
+S 8405448
+D 20
+A 12
+#2653
+man mage wizard~
+a powerful mage~
+A man is here, studying some books.
+~
+A powerful looking mage is standing in this room studying his spells.  You are
+surprised at the fact that he is human, and realize that he must be very
+powerful to have been accepted by the creatures which live here.
+~
+3 138 -900 C 1
+44 0 0 0d0+5000 2d16+20
+600 45000
+8 8 1
+S 524288
+D 20
+A 12
+#2654
+Cleric Draconian~
+The Holy Draconian Cleric~
+A Draconian wise in the ways magical healing meditates here.
+~
+This draconian looks VERY busy as she orders her slaves around.  You think 
+it might be a good idea to leave her alone. 
+~
+268451847 1073742504 0 C 2
+55 -55 -5 0d0+10000 14d14+24
+10000 45000
+8 8 2
+S 524288
+D 20
+A 12
+#2655
+king draconian~
+the Draconian King~
+A Draconian wearing fine clothes is here, pondering his greatness.          
+~
+The king of the draconians sits here on a golden throne.  He looks as 
+though he could crush your head with a single blow.  Yet you sense that he 
+is controlled by a greater power. 
+~
+671105031 1074037384 -900 C 43
+56 -70 -5 0d0+12500 8d12+50
+800 100000
+8 8 1
+S 526722
+D 20
+A 12
+#2656
+concubine draconian~
+a concubine~
+A concubine is resting here. 
+~
+This is a concubine of the king.  She is lounging here, wearing nothing at 
+all.  You find yourself strangely repulsed as she draws a knife and 
+prepares to defend herself. 
+~
+1074534162 1073775360 -500 S
+25 -80 10 0d0+1000 10d5+15
+100 1000000
+8 8 2
+S 8
+D 20
+A 12
+#2657
+bodyguard draconian~
+A bodyguard~
+A bodyguard is here, staring at you menacingly. 
+~
+This creature has devoted its life to defending the king.  Your intrusion has
+not pleased it.
+~
+536870946 1074004012 -800 S
+51 -30 0 0d0+7500 5d5+50
+5000 30000
+8 8 1
+S 4
+R 524288
+D 20
+A 12
+#2670
+tiamat dragon~
+Tiamat~
+A five headed dragon hisses at you as you enter this room.
+~
+You see before you the master of this Tower, Tiamat.  She frowns at you as she
+prepares to make you pay for your insolence ... with your lives!
+~
+1073780518 1342177960 -1000 S
+50 -100 -4 0d0+20000 16d9+25
+1000000 3500000
+8 8 2
+S 16861184
+R 1048576
+D 20
+A 12
+#2671
+dragon red~
+the Great Red Dragon~
+A red dragon is here, contemplating your existence. 
+~
+This huge red dragon dominates the chamber.  As you turn to flee, he grins at
+you and invites you to stay ... forever! 
+~
+276857122 1073742376 -1000 S
+51 0 -4 0d0+6000 10d10+100
+250000 300000
+8 8 1
+R 524288
+D 20
+A 12
+#2672
+dragon black~
+the Great Black Dragon~
+A black dragon is here, laughing at your insolence. 
+~
+This huge black wyrm laughs at your puny weapons.  You realize that he is not
+going to roll over and die for you.
+~
+419471654 1074528808 -900 S
+50 -70 -3 0d0+13412 15d15+50
+250000 250000
+8 8 1
+D 20
+A 12
+#2673
+dragon white~
+the Great White Dragon~
+A white dragon is here, waiting for you. 
+~
+This dragon towers over you.  Recalling your previous experiences with white
+dragons, you are not afraid.  She smiles at you and says 'I think you will find
+me a greater challenge than my offspring.'
+~
+268435494 1090781736 -1000 S
+51 -55 -2 0d0+40000 24d22+71
+250000 200000
+8 8 2
+R 16
+D 20
+A 12
+#2675
+dragon green~
+the Ancient Green Dragon~
+A green dragon is here, looking distraught. 
+~
+This huge beast appears to be the most directly related to the draconians. 
+She looks at you with sorrow in her eyes and says 'You have slaughtered my 
+children.  Prepare to die.'
+~
+38 1090814632 -1000 S
+52 -80 -7 0d0+16969 12d11+75
+250000 500000
+8 8 2
+S 896
+R 272
+D 20
+A 12
+#2676
+hydra~
+a large hydra~
+A hydra is here, blocking the doorway. 
+~
+A hydra is here, guarding the entrance to a sealed vault.  You have the feeling
+it isn't happy to see you.
+~
+268435494 1073742504 -800 S
+47 3 -2 0d0+16500 25d8+75
+5000 35000
+8 8 0
+S 528644
+D 20
+A 12
+#2677
+slave human~
+A human slave~
+A Human slave is here, hard at work.          
+~
+He looks like he's under a lot of stress.  He would probably like it if you
+left him alone.
+~
+130 1073741824 0 S
+20 -30 6 0d0+2500 5d10+25
+100 900
+8 8 1
+D 20
+A 12
+#2690
+zombie draconian~
+a Draconian zombie~
+A Draconian zombie is here, staring at nothing in particular.
+~
+This used to be one of the warriors of this tribe.  He was denied his final
+rest, however, and now guards this corridor tirelessly as a zombie.
+~
+38 1074004520 -400 S
+51 20 -5 0d0+2500 0d0+500
+250000 3000
+8 8 0
+D 20
+A 12
+#2691
+dragon phase~
+the phase dragon~
+A Phase Dragon is darting around the room.          
+~
+This small dragon looks like he's up to no good. 
+~
+268959973 1073775144 -300 C 3
+60 -180 3 0d0+15000 10d10+45
+5000 6000
+8 8 1
+D 20
+A 12
+#2692
+fool draconian~
+the draconian fool~
+A Fool is here, making fun of you.          
+~
+This dragon man looks VERY foolish, dressed in a green and blue striped 
+suit.  As you enter the room, he points at you and laughs. 
+~
+524480 0 0 S
+30 -230 5 0d0+500 10d10+50
+500 800
+8 8 1
+D 20
+A 12
+#2693
+queen draconian~
+the Draconian Queen~
+A Female Draconian sits, here, looking very important.          
+~
+This draconian looks VERY busy as she orders her slaves around.  You think 
+it might be a good idea to leave her alone. 
+~
+67125255 1747223208 -600 C 2
+53 -55 -2 0d0+12500 20d25+50
+10000 45000
+8 8 2
+S 557248
+R 4
+D 20
+A 12
+$~

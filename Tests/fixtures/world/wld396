@@ -1,0 +1,2500 @@
+#39600
+{CY}The Road to a Small, Quiet Town{cy}~
+{BLA,BO}
+   You are now walking down a stretch of asphalt road
+   that is nearly deserted of vehicular traffic.  This
+   paved path goes as far as the eye can see, though
+   there seems to be a fork in the road up ahead.
+{bla,bo}
+~
+396 16777216 1
+D0
+~
+~
+0 -1 49743
+D1
+~
+~
+0 -1 39601
+Z3
+C-1
+R0
+S
+#39601
+{CY}The Road to a Small, Quiet Town{cy}~
+{BLA,BO}
+   You are now walking down a stretch of asphalt road
+   that is nearly deserted of vehicular traffic.  This
+   paved path goes as far as the eye can see, though
+   there seems to be a fork in the road up ahead.
+{bla,bo}
+~
+396 16777216 1
+D0
+~
+~
+0 -1 39602
+D1
+~
+~
+0 -1 39600
+D3
+~
+~
+0 -1 39600
+Z3
+C-1
+R0
+S
+#39602
+{CY}Welcome to{cy} {YEL,BO}Sunnydale{yel,bo}~
+{Y,BO}
+   Welcome to Sunnydale, California!
+{y,bo}
+~
+396 0 1
+D1
+~
+~
+0 -1 39603
+D2
+~
+~
+0 -1 39601
+Z3
+C-1
+R0
+S
+#39603
+{WHI,BO}Passing through a Quiet Neighborhood{whi,bo}~
+ 
+   You are walking through a model, suburban neighborhood.
+   The trees sway in the gentle breeze, birds chirp, a lawn
+   mower buzzes off in the distance.  What a nice, wonderful
+   town!
+ 
+~
+396 0 1
+D0
+~
+fence~
+4 39631 39700
+D1
+~
+~
+0 -1 39604
+D3
+~
+~
+0 -1 39602
+Z3
+C-1
+R0
+S
+#39604
+{WHI,BO}Passing through a Quiet Neighborhood{whi,bo}~
+ 
+   You are walking through a model, suburban neighborhood.
+   The trees sway in the gentle breeze, birds chirp, a lawn
+   mower buzzes off in the distance.  What a nice, wonderful
+   town!
+ 
+~
+396 0 1
+D0
+~
+~
+0 -1 39605
+D3
+~
+~
+0 -1 39603
+Z3
+C-1
+R0
+S
+#39605
+{WHI,BO}Passing through a Quiet Neighborhood{whi,bo}~
+ 
+   You are walking through a model, suburban neighborhood.
+   The trees sway in the gentle breeze, birds chirp, a lawn
+   mower buzzes off in the distance.  What a nice, wonderful
+   town!
+ 
+~
+396 0 1
+D0
+~
+~
+0 -1 39606
+D1
+~
+~
+0 -1 39624
+D2
+~
+~
+0 -1 39604
+Z3
+C-1
+R0
+S
+#39606
+{GRE,BO}Main Street{gre,bo}~
+{BL}
+   The sun begins to set as you leave the suburbs.  You
+   are walking through the center of town.  The shops
+   have all closed, and there is very little foot traffic
+   here.  In fact, it's downright deserted.  Is there
+   something to be afraid of at night?
+{bl}
+~
+396 0 1
+D0
+~
+~
+0 -1 39607
+D1
+{CY,BO}
+   The Sharper Image
+ 
+   *Useless Stuff at Ridiculous Prices*
+{cy,bo}
+~
+ShopDoor~
+1 -1 39698
+D2
+~
+~
+0 -1 39605
+D3
+{Y}
+    Home Depot
+ 
+   *Huge Store, Great Selection, but we never have
+    what you need in stock.*
+{y}
+~
+ShopDoor~
+1 -1 39698
+Z9
+C-1
+R0
+S
+#39607
+{GRE,BO}Main Street{gre,bo}~
+{BL}
+   The sun begins to set as you leave the suburbs.  You
+   are walking through the center of town.  The shops
+   have all closed, and there is very little foot traffic
+   here.  In fact, it's downright deserted.  Is there
+   something to be afraid of at night?
+{bl}
+~
+396 0 1
+D0
+~
+~
+0 -1 39608
+D1
+{W}
+   Victoria's Secret
+
+   *Sure, you're really looking at our catalogs for
+    your "girlfriend".  Uh huh.*
+{w}
+~
+ShopDoor~
+1 -1 39698
+D2
+~
+~
+0 -1 39606
+D3
+~
+~
+0 -1 39661
+Z9
+C-1
+R0
+S
+#39608
+{GRE,BO}Main Street{gre,bo}~
+{BL}
+   The sun begins to set as you leave the suburbs.  You
+   are walking through the center of town.  The shops
+   have all closed, and there is very little foot traffic
+   here.  In fact, it's downright deserted.  Is there
+   something to be afraid of at night?
+{bl}
+~
+396 1 1
+D0
+{R,BO}
+   The Magic Box
+ 
+   *Serving your Magical Needs since 2001*
+{r,bo}
+~
+MagicBox~
+1 39649 39705
+D1
+~
+~
+0 -1 39609
+D2
+~
+~
+0 -1 39607
+D3
+{R,BO}
+   RADIO SHACK
+ 
+   *Our employees know absolutely nothing*
+{r,bo}
+~
+ShopDoor~
+1 -1 39698
+Z9
+C-1
+R0
+S
+#39609
+{GRE,BO}Main Street{gre,bo}~
+{BL}
+   The sun begins to set as you leave the suburbs.  You
+   are walking through the center of town.  The shops
+   have all closed, and there is very little foot traffic
+   here.  In fact, it's downright deserted.  Is there
+   something to be afraid of at night?
+{bl}
+~
+396 0 1
+D0
+{G,BO}
+   STARBUCKS
+ 
+   *There's probably one across the street too.*
+{g,bo}
+~
+ShopDoor~
+1 -1 39698
+D1
+~
+~
+0 -1 39610
+D2
+{G,BO}
+   STARBUCKS
+ 
+   *There's probably one across the street too.*
+{g,bo}
+~
+ShopDoor~
+1 -1 39698
+D3
+~
+~
+0 -1 39608
+Z9
+C-1
+R0
+S
+#39610
+{GRE,BO}Main Street{gre,bo}~
+{BL}
+   The sun begins to set as you leave the suburbs.  You
+   are walking through the center of town.  The shops
+   have all closed, and there is very little foot traffic
+   here.  In fact, it's downright deserted.  Is there
+   something to be afraid of at night?
+{bl}
+~
+396 0 1
+D0
+~
+~
+0 -1 39611
+D1
+{Y,BO}
+   McDonald's
+ 
+   *Our Hot Coffee is hot. Please don't sue us
+    anymore!*
+{y,bo}
+~
+ShopDoor~
+1 -1 39698
+D2
+{R,BO}
+   Ethan's{r,bo} {BLA}Costume{bla} {R,BO}Shop
+{r,bo}
+~
+ShopDoor~
+1 0 39614
+D3
+~
+~
+0 -1 39609
+Z9
+C-1
+R0
+S
+#39611
+{GRE,BO}Main Street{gre,bo}~
+{BL}
+   The sun begins to set as you leave the suburbs.  You
+   are walking through the center of town.  The shops
+   have all closed, and there is very little foot traffic
+   here.  In fact, it's downright deserted.  Is there
+   something to be afraid of at night?
+{bl}
+~
+396 0 1
+D0
+~
+~
+0 -1 39612
+D1
+{M,BO}
+   Le Boutique
+ 
+   - Fancy, rich, snooty clothes you can never afford.
+{m,bo}
+~
+ShopDoor~
+1 1 39696
+D2
+~
+~
+0 -1 39610
+D3
+{G,BO}
+   STARBUCKS
+ 
+   *We're taking over the world!*
+{g,bo}
+~
+ShopDoor~
+1 -1 39698
+Z9
+C-1
+R0
+S
+#39612
+{GRE,BO}Main Street{gre,bo}~
+{BL}
+   The sun begins to set as you leave the suburbs.  You
+   are walking through the center of town.  The shops
+   have all closed, and there is very little foot traffic
+   here.  In fact, it's downright deserted.  Is there
+   something to be afraid of at night?
+{bl}
+~
+396 0 1
+D0
+~
+~
+0 -1 39613
+D1
+~
+door~
+4 39651 39721
+D2
+~
+~
+0 -1 39611
+D3
+~
+~
+0 -1 39657
+Z9
+C-1
+R0
+S
+#39613
+{YEL,BO}Before the Sunnydale Mall{yel,bo}~
+  
+   {BO,Y}You are now standing in front of the Sunnydale Mall,
+   the place to go for your shopping needs.  It's also 
+   one of the only places that is open at this time of
+   the night.
+ 
+   You hear muffled screams coming from within, and the
+   smell of burning flesh is wafting from this place...{bo,y}
+   
+~
+396 4 1
+D0
+{CY,BO}
+   These Sliding Doors are waiting for you to open
+   them.
+{c,bo}
+~
+SlidingDoor~
+1 -1 39616
+D2
+~
+~
+0 -1 39612
+Z9
+C-1
+R0
+S
+#39614
+{RED,BO}Ethan's{red,bo} {BLAC}Costume{blac} {RED,BO}Shop{red,bo}~
+{R,BO}
+   Ethan's Costume Shop is one of the newer shops in 
+   Sunnydale.  Their costume selection for Halloween
+   is excellent, containing all sorts of monster
+   costumes....
+{r,bo}
+~
+396 8 1
+D0
+~
+ShopDoor~
+1 -1 39610
+D2
+~
+~
+0 -1 39615
+X8
+Z-1
+C-1
+R0
+S
+#39615
+{BLACK,BO}The Backroom{black,bo}~
+{B}
+   The backroom of Ethan's is a freakish sight to behold.
+   All sorts of satanic items for bizarre rituals sit 
+   about, including a large marble bust filled with blood!
+{b}
+~
+396 8 1
+D0
+~
+~
+0 -1 39614
+X8202
+Z-1
+C2
+R0
+S
+#39616
+{YEL,BO}Sunnydale Mall{yel,bo}~
+{Y,BO}
+   The Sunnydale Mall is like any other mall you've seen.
+   In the far corner, there's a Starbucks, a Gap way
+   over there, and some Multi-plex theaters right across
+   from it.  Then there's the smoking husks of human
+   corpses lying about....
+ 
+   Holy Smokes!  Everyone in this mall is dead!  Get out
+   of here quick before you become the next victim!
+{y,bo}
+~
+396 136 1
+D1
+~
+~
+0 -1 39623
+D2
+~
+SlidingDoor~
+3 -1 39613
+D3
+~
+~
+0 -1 39617
+X4194318
+Z-1
+C-1
+R0
+S
+#39617
+{YEL,BO}Sunnydale Mall{yel,bo}~
+{Y,BO}
+   The Sunnydale Mall is like any other mall you've seen.
+   In the far corner, there's a Starbucks, a Gap way
+   over there, and some Multi-plex theaters right across
+   from it.  Then there's the smoking husks of human
+   corpses lying about....
+ 
+   Holy Smokes!  Everyone in this mall is dead!  Get out
+   of here quick before you become the next victim!
+{y,bo}
+~
+396 136 1
+D0
+~
+~
+0 -1 39618
+D1
+~
+~
+0 -1 39616
+X4194318
+Z-1
+C-1
+R0
+S
+#39618
+{YEL,BO}Sunnydale Mall{yel,bo}~
+{Y,BO}
+   The Sunnydale Mall is like any other mall you've seen.
+   In the far corner, there's a Starbucks, a Gap way
+   over there, and some Multi-plex theaters right across
+   from it.  Then there's the smoking husks of human
+   corpses lying about....
+ 
+   Holy Smokes!  Everyone in this mall is dead!  Get out
+   of here quick before you become the next victim!
+{y,bo}
+~
+396 136 1
+D0
+~
+~
+0 -1 39619
+D2
+~
+~
+0 -1 39617
+X4194318
+Z-1
+C-1
+R0
+S
+#39619
+{YEL,BO}Sunnydale Mall{yel,bo}~
+{Y,BO}
+   The Sunnydale Mall is like any other mall you've seen.
+   In the far corner, there's a Starbucks, a Gap way
+   over there, and some Multi-plex theaters right across
+   from it.  Then there's the smoking husks of human
+   corpses lying about....
+ 
+   Holy Smokes!  Everyone in this mall is dead!  Get out
+   of here quick before you become the next victim!
+{y,bo}
+~
+396 136 1
+D1
+~
+~
+0 -1 39620
+D2
+~
+~
+0 -1 39618
+X4194318
+Z-1
+C-1
+R0
+S
+#39620
+{YEL,BO}Sunnydale Mall{yel,bo}~
+{Y,BO}
+   The Sunnydale Mall is like any other mall you've seen.
+   In the far corner, there's a Starbucks, a Gap way
+   over there, and some Multi-plex theaters right across
+   from it.  Then there's the smoking husks of human
+   corpses lying about....
+ 
+   Holy Smokes!  Everyone in this mall is dead!  Get out
+   of here quick before you become the next victim!
+{y,bo}
+~
+396 136 1
+D1
+~
+~
+0 -1 39621
+D3
+~
+~
+0 -1 39619
+X4194318
+Z-1
+C-1
+R0
+S
+#39621
+{YEL,BO}Sunnydale Mall{yel,bo}~
+{Y,BO}
+   The Sunnydale Mall is like any other mall you've seen.
+   In the far corner, there's a Starbucks, a Gap way
+   over there, and some Multi-plex theaters right across
+   from it.  Then there's the smoking husks of human
+   corpses lying about....
+ 
+   Holy Smokes!  Everyone in this mall is dead!  Get out
+   of here quick before you become the next victim!
+{y,bo}
+~
+396 136 1
+D2
+~
+~
+0 -1 39622
+D3
+~
+~
+0 -1 39620
+X4194318
+Z-1
+C-1
+R0
+S
+#39622
+{YEL,BO}Sunnydale Mall{yel,bo}~
+{Y,BO}
+   The Sunnydale Mall is like any other mall you've seen.
+   In the far corner, there's a Starbucks, a Gap way
+   over there, and some Multi-plex theaters right across
+   from it.  Then there's the smoking husks of human
+   corpses lying about....
+ 
+   Holy Smokes!  Everyone in this mall is dead!  Get out
+   of here quick before you become the next victim!
+{y,bo}
+~
+396 136 1
+D0
+~
+~
+0 -1 39621
+D2
+~
+~
+0 -1 39623
+X4194318
+Z-1
+C-1
+R0
+S
+#39623
+{YEL,BO}Sunnydale Mall{yel,bo}~
+{Y,BO}
+   The Sunnydale Mall is like any other mall you've seen.
+   In the far corner, there's a Starbucks, a Gap way
+   over there, and some Multi-plex theaters right across
+   from it.  Then there's the smoking husks of human
+   corpses lying about....
+ 
+   Holy Smokes!  Everyone in this mall is dead!  Get out
+   of here quick before you become the next victim!
+{y,bo}
+~
+396 136 1
+D0
+~
+~
+0 -1 39622
+D3
+~
+~
+0 -1 39616
+X4194318
+Z-1
+C-1
+R0
+S
+#39624
+{BLA}Road to{bla} {YEL,BO}Sunnydale High School{yel,bo}~
+{CY}
+   As you leave the suburbs, you see several school buses
+   drive past you.  Up ahead, you see a modest campus that
+   can only be Sunnydale High School.
+{cy}
+~
+396 4 1
+D1
+~
+~
+0 -1 39625
+D3
+~
+~
+0 -1 39605
+Z3
+C-1
+R0
+S
+#39625
+{BLACK}The Parking Lot{black}~
+  
+   {bo,C}You are now in the student parking lot of Sunnydale High
+   School. All types of cars are parked here, from the modest
+   to the flashy sports cars, reflective of the diverse mix
+   of students that attend school here.{bo,c}
+  
+~
+396 0 1
+D1
+~
+~
+0 -1 39626
+D2
+~
+~
+0 -1 39628
+D3
+~
+~
+0 -1 39624
+Z3
+C-1
+R0
+S
+#39626
+{BLACK}The Parking Lot{black}~
+  
+   {bo,C}You are now in the student parking lot of Sunnydale High
+   School. All types of cars are parked here, from the modest
+   to the flashy sports cars, reflective of the diverse mix
+   of students that attend school here.{bo,c}
+  
+~
+396 0 1
+D1
+~
+~
+0 -1 39627
+D2
+~
+~
+0 -1 39629
+D3
+~
+~
+0 -1 39625
+Z3
+C-1
+R0
+S
+#39627
+{BLACK}The Parking Lot{black}~
+  
+   {bo,C}You are now in the student parking lot of Sunnydale High
+   School. All types of cars are parked here, from the modest
+   to the flashy sports cars, reflective of the diverse mix
+   of students that attend school here.{bo,c}
+  
+~
+396 0 1
+D2
+~
+~
+0 -1 39630
+D3
+~
+~
+0 -1 39626
+Z3
+C-1
+R0
+S
+#39628
+{BLACK}The Parking Lot{black}~
+  
+   {bo,C}You are now in the student parking lot of Sunnydale High
+   School. All types of cars are parked here, from the modest
+   to the flashy sports cars, reflective of the diverse mix
+   of students that attend school here.{bo,c}
+  
+~
+396 0 1
+D0
+~
+~
+0 -1 39625
+D1
+~
+~
+0 -1 39629
+D2
+~
+~
+0 -1 39631
+Z3
+C-1
+R0
+S
+#39629
+{BLACK}The Parking Lot{black}~
+  
+   {bo,C}You are now in the student parking lot of Sunnydale High
+   School. All types of cars are parked here, from the modest
+   to the flashy sports cars, reflective of the diverse mix
+   of students that attend school here.{bo,c}
+  
+~
+396 0 1
+D0
+~
+~
+0 -1 39626
+D1
+~
+~
+0 -1 39630
+D2
+~
+~
+0 -1 39631
+D3
+~
+~
+0 -1 39628
+Z3
+C-1
+R0
+S
+#39630
+{BLACK}The Parking Lot{black}~
+  
+   {bo,C}You are now in the student parking lot of Sunnydale High
+   School. All types of cars are parked here, from the modest
+   to the flashy sports cars, reflective of the diverse mix
+   of students that attend school here.{bo,c}
+  
+~
+396 0 1
+D0
+~
+~
+0 -1 39627
+D2
+~
+~
+0 -1 39631
+D3
+~
+~
+0 -1 39629
+Z3
+C-1
+R0
+S
+#39631
+{CY}Entrance to{cy} {YEL,BO}Sunnydale High{yel,bo}~
+{CY}
+   The parking lot comes to an end as you reach the front of
+   the main building.  Students scurry about, trying to
+   get to class on time...
+{cy}
+~
+396 0 1
+D0
+~
+~
+0 -1 39629
+D2
+{CY}
+   An ordinary front door is here.
+{cy}
+~
+School~
+1 -1 39632
+Z3
+C-1
+R0
+S
+#39632
+{WHI}A Long Hallway{whi}~
+{C}
+   You are walking down a long hallway in Sunnydale High
+   School.  Lockers line the walls on either side of you,
+   and a variety of posters announcing campus events and
+   clubs are posted up as well.
+{c}
+~
+396 1032 1
+D0
+~
+School~
+1 -1 39631
+D2
+~
+~
+0 -1 39633
+X8
+Z-1
+C-1
+R0
+S
+#39633
+{WHI}A Staircase{whi}~
+{C}
+   The hallway continues.  Off to the side, there is a staircase
+   leading to the upstairs classrooms.
+{c}
+~
+396 1024 1
+D0
+~
+~
+0 -1 39632
+D1
+{M}
+   A pair of doors lead to the Cafeteria.
+{m}
+~
+Cafeteria~
+1 -1 39638
+D2
+~
+~
+0 -1 39643
+D3
+{Y}
+   Double doors lead to Sunnydale High's Library.
+{y}
+~
+library~
+2 39650 39634
+D4
+~
+~
+0 -1 39686
+Z-1
+C-1
+R0
+S
+#39634
+{YEL}The Library{yel}~
+{Y}
+   You are now in the Sunnydale High Library.  There's 
+   a Book Return slot to your right, and various
+   Literacy and Pep Rally posters on the wall.
+{y}
+~
+396 1036 1
+D1
+~
+library~
+1 -1 39633
+D3
+~
+~
+0 -1 39635
+Z-1
+C-1
+R0
+S
+#39635
+{YEL}Center of the Library{yel}~
+{Y}
+   As you walk to the center of the library, you feel a surge
+   of power!  Something evil is emanating from the floor!
+{y}
+~
+396 1032 1
+D0
+~
+~
+0 -1 39636
+D1
+~
+~
+0 -1 39634
+D2
+{Y}
+   A cage door leads to the Off-Limits Collection.
+{y}
+~
+Cage~
+1 -1 39637
+D3
+~
+~
+0 -1 39709
+D5
+{R,BO}
+   The Hellmouth will swallow your soul!
+{r,bo}
+~
+Hellmouth~
+4 39639 39710
+Z-1
+C-1
+R0
+S
+#39636
+{YEL}Librarian's Office{yel}~
+{Y}
+   This tiny little closet is what the Head Librarian uses
+   for an office.  There's a stack of books on the desk and shelves, 
+   scattered about and unkempt as if someone were searching 
+   for something...
+{y}
+~
+396 1160 1
+D2
+~
+~
+0 -1 39635
+Z-1
+C-1
+R0
+S
+#39637
+{YEL}Off-Limits Collection{yel}~
+{Y}
+   What, you can't read?  This place is OFF-LIMITS!
+{y}
+~
+396 8 1
+Z-1
+C-1
+R0
+S
+#39638
+{MAG}The Cafeteria{mag}~
+{MAG}
+   Ah, the Cafeteria - it brings back memories of
+   indigestible meals, food poisoning, and other
+   wonderful events.  It seems that the Sunnydale
+   Cafeteria is like any other, if the odor of the
+   "food" is any indication.
+{mag}
+~
+396 1032 1
+D0
+~
+~
+0 -1 39639
+D1
+~
+~
+0 -1 39641
+D3
+~
+Cafeteria~
+1 -1 39633
+Z-1
+C-1
+R0
+S
+#39639
+{MAG}The Cafeteria{mag}~
+{MAG}
+   Ah, the Cafeteria - it brings back memories of
+   indigestible meals, food poisoning, and other
+   wonderful events.  It seems that the Sunnydale
+   Cafeteria is like any other, if the odor of the
+   "food" is any indication.
+{mag}
+~
+396 1032 1
+D1
+~
+~
+0 -1 39640
+D2
+~
+~
+0 -1 39638
+Z-1
+C-1
+R0
+S
+#39640
+{MAG}The Cafeteria{mag}~
+{MAG}
+   Ah, the Cafeteria - it brings back memories of
+   indigestible meals, food poisoning, and other
+   wonderful events.  It seems that the Sunnydale
+   Cafeteria is like any other, if the odor of the
+   "food" is any indication.
+{mag}
+~
+396 1032 1
+D0
+~
+~
+0 -1 39642
+D2
+~
+~
+0 -1 39641
+D3
+~
+~
+0 -1 39639
+Z-1
+C-1
+R0
+S
+#39641
+{MAG}The Cafeteria{mag}~
+{MAG}
+   Ah, the Cafeteria - it brings back memories of
+   indigestible meals, food poisoning, and other
+   wonderful events.  It seems that the Sunnydale
+   Cafeteria is like any other, if the odor of the
+   "food" is any indication.
+{mag}
+~
+396 1032 1
+D0
+~
+~
+0 -1 39640
+D3
+~
+~
+0 -1 39638
+Z-1
+C-1
+R0
+S
+#39642
+{MAG}Behind the Counter{mag}~
+{M}
+   You've now gone where few have ever returned... behind
+   the Cafeteria counter!  Now you'll be able to see what
+   exactly is in the "Monday Meatloaf"...
+ 
+   As you look around, you stumble upon a fresh, human
+   corpse!  Egads, Cafeteria Food is People!  People!!
+{m}
+~
+396 1032 1
+D2
+~
+~
+0 -1 39640
+Z-1
+C-1
+R0
+S
+#39643
+{WHI}A Long Hallway{whi}~
+{C}
+   You are walking down a long hallway in Sunnydale High
+   School.  Lockers line the walls on either side of you,
+   and a variety of posters announcing campus events and
+   clubs are posted up as well.
+{c}
+~
+396 1032 1
+D0
+~
+~
+0 -1 39633
+D1
+~
+~
+0 -1 39650
+D2
+~
+~
+0 -1 39644
+D3
+~
+~
+0 -1 39647
+X8
+Z-1
+C-1
+R0
+S
+#39644
+{WHI}A Long Hallway{whi}~
+{C}
+   You are walking down a long hallway in Sunnydale High
+   School.  Lockers line the walls on either side of you,
+   and a variety of posters announcing campus events and
+   clubs are posted up as well.
+{c}
+~
+396 1032 1
+D0
+~
+~
+0 -1 39643
+D1
+~
+~
+0 -1 39651
+D2
+~
+~
+0 -1 39645
+D3
+~
+~
+0 -1 39648
+X8
+Z-1
+C-1
+R0
+S
+#39645
+{WHI}A Long Hallway{whi}~
+{C}
+   You are walking down a long hallway in Sunnydale High
+   School.  Lockers line the walls on either side of you,
+   and a variety of posters announcing campus events and
+   clubs are posted up as well.
+{c}
+~
+396 1032 1
+D0
+~
+~
+0 -1 39644
+D2
+{R,BO}
+   The Door to the Office is here.
+{r,bo}
+~
+Door~
+1 -1 39646
+D3
+~
+~
+0 -1 39649
+X8
+Z-1
+C-1
+R0
+S
+#39646
+{R,BO}The Office{r,bo}~
+{R,BO}
+   Stepping through the doorway, you enter the Sunnydale
+   High School Office.  Only the troublemakers are sent
+   here.  You must have done something naughty to be here,
+   student!
+{r,bo}
+~
+396 1032 1
+D0
+~
+Door~
+1 -1 39645
+D2
+~
+~
+0 -1 39652
+Z-1
+C-1
+R0
+S
+#39647
+{BLUE,BO}English Class{blue,bo}~
+{BLU,BO}
+   As you walk into the room, you glance at the chalkboard
+   for today's subject...{blu,bo}
+{WHI,BO}
+   Really Boring Short Stories
+   Poems that Don't Rhyme
+   War and Peace, Extended Version
+{w,bo}
+{BLU,BO}   Egads!  Run away!
+{blue,bo}
+~
+396 1032 1
+D1
+~
+~
+0 -1 39643
+Z-1
+C-1
+R0
+S
+#39648
+{BLU,BO}Chemistry Lab{blue,bo}~
+{BLU,BO}
+   As you enter the lab, you see the chemistry teacher
+   vainly trying to extinguish a student's experiment.
+ 
+ 
+   Hrm, this place seems pretty dangerous!
+{blue,bo}
+~
+396 1032 1
+D1
+~
+~
+0 -1 39644
+D2
+~
+~
+0 -1 39649
+Z-1
+C-1
+R0
+S
+#39649
+{BLU,BO}Chemistry Lab{blue,bo}~
+{BLU,BO}
+   As you enter the lab, you see the chemistry teacher
+   vainly trying to extinguish a student's experiment.
+ 
+ 
+   Hrm, this place seems pretty dangerous!
+{blue,bo}
+~
+396 1032 1
+D0
+~
+~
+0 -1 39648
+D1
+~
+~
+0 -1 39645
+Z-1
+C-1
+R0
+S
+#39650
+{BLU,BO}Computer Lab{blue,bo}~
+{BLU,BO}
+   You see a couple pimply-faced geeks on a 486,
+   playing some sort of Internet text-based game.
+ 
+   ....what losers!
+{blu,bo}
+~
+396 1032 1
+D3
+~
+~
+0 -1 39643
+Z-1
+C-1
+R0
+S
+#39651
+{BLU,BO}Geography Class{blue,bo}~
+{BLU,BO}
+   Today's Lesson:
+{blu,bo}{WHI,BO}
+     Narnia
+     Calandra
+     Robotics Factory
+     Springfield, U.S.A.
+     Castle Northwind
+     Midgetland
+{whi,bo}
+{BLUE,BO}   Hrm, maybe you should sit in on this class...
+{blu,bo}
+~
+396 1032 1
+D3
+~
+~
+0 -1 39644
+Z-1
+C-1
+R0
+S
+#39652
+{R,BO}Principal Snyder's Office{r,bo}~
+{R,BO}
+   You are now standing in the inner sanctum of the
+   school, the heart of the campus, the headquarters
+   of order... the Principal's office!  Principal
+   Snyder keeps his office shockingly neat;  not a
+   stray paper or dull pencil can be seen!
+{r,bo}
+~
+396 1032 1
+D0
+~
+~
+0 -1 39646
+Z-1
+C-1
+R0
+S
+#39653
+{WHITE}Hallway to the Locker Room{whi}~
+{W}
+   You have reached the narrow hallway leading to the
+   Men's Locker Room.  You can hear some voices echoing
+   from within, as well as the sound of showers running.
+{w}
+~
+396 1036 1
+D1
+{BLU}
+   This door leads to the Locker Room.
+{blu}
+~
+Door~
+2 39638 39654
+D3
+~
+LockerRoom~
+1 -1 39691
+Z-1
+C-1
+R0
+S
+#39654
+{BLU}The Locker Room{blu}~
+{BLU}
+   Boy, is it hot in here, or what?  Seems like someone
+   left the showers running, since there's so much steam
+   in the room.  It's making it difficult to see, and
+   the incessant running water makes it hard to hear as
+   well.
+{blue}
+~
+396 1052 1
+D0
+~
+~
+0 -1 39655
+D3
+~
+Door~
+1 -1 39653
+Z-1
+C-1
+R0
+S
+#39655
+{BLU}The Locker Room{blu}~
+{BLU}
+   Boy, is it hot in here, or what?  Seems like someone
+   left the showers running, since there's so much steam
+   in the room.  It's making it difficult to see, and
+   the incessant running water makes it hard to hear as
+   well.
+{blue}
+~
+396 1052 1
+D0
+~
+~
+0 -1 39784
+D2
+~
+~
+0 -1 39654
+Z-1
+C-1
+R0
+S
+#39656
+NOT IN USE~
+{BLU}
+   Boy, is it hot in here, or what?  Seems like someone
+   left the showers running, since there's so much steam
+   in the room.  It's making it difficult to see, and
+   the incessant running water makes it hard to hear as
+   well.
+{blue}
+~
+396 1052 1
+Z-1
+C-1
+R0
+S
+#39657
+{UNDER}Town Hall{under}~
+{BLA}
+   You are now standing in front of Town Hall, the
+   center of government for the town of Sunnydale.
+   The modest building is kept in a meticulously 
+   neat state;  signs are perfectly aligned, no
+   gum can be found on the sidewalk, not even a 
+   stray leaf blows by!  Looking up, you notice 
+   the lights on in an office above.
+{bla}
+~
+396 1025 1
+D1
+~
+~
+0 -1 39612
+D3
+{Y,BO}
+   Sunnydale Town Hall
+ 
+        Honorable Mayor Richard Wilkins
+{y,bo}
+~
+Door~
+1 -1 39658
+Z9
+C-1
+R0
+S
+#39658
+{CY,BO}Staircase{cy,bo}~
+{C,BO}
+   As you enter City Hall, you see a staircase leading up
+   to the Mayor's office.
+ 
+   Taking a glance at the wall, you see portraits of the 
+   previous mayors of Sunnydale, going back to the early
+   1900's.  There's the first mayor, Richard Wilkins.  Then
+   the next one, Richard Wilkins II.  And the current, Mayor
+   Richard Wilkins III.  Oddly, each man looks completely
+   identical!  The Wilkins family either has really good
+   genes, or something fishy is going on here...
+{c,bo}
+~
+396 1032 1
+D1
+~
+Door~
+1 -1 39657
+D4
+~
+~
+0 -1 39659
+Z-1
+C-1
+R0
+S
+#39659
+{CY,BO}Reception Area{cy,bo}~
+{CY,BO}
+   You are now in a tiny waiting area, before the Mayor's
+   chamber.  A slick-looking character is blocking the
+   way....
+{cy,bo}
+~
+396 1032 1
+D1
+~
+~
+0 -1 39660
+D5
+~
+~
+0 -1 39658
+Z-1
+C-1
+R0
+S
+#39660
+{CY,BO}Mayor Wilkin's Office{cy,bo}~
+{CY,BO}
+   You are in an incredibly clean office.  Not a speck
+   of dirt can be found.  Mayor Wilkins certainly has
+   a thing about cleanliness.  He'd be pretty upset if
+   you so much as track dirt into his domain!
+{cy,bo}
+~
+396 1032 1
+D3
+~
+~
+0 -1 39659
+Z-1
+C-1
+R0
+S
+#39661
+{YEL}Downtown{yel}~
+{B,BO}
+   You are now strolling down the empty streets of Downtown,
+   the "darker" half of Sunnydale.  The nice, clean streets
+   you just went through, have melted away into dirty, trash-
+   filled avenues.  You feel as if your safety is in danger
+   as you stroll down the road....
+{b,bo}
+~
+396 1024 1
+D0
+~
+~
+0 -1 39695
+D1
+~
+~
+0 -1 39607
+D3
+~
+~
+0 -1 39662
+Z9
+C-1
+R0
+S
+#39662
+{YEL}Downtown{yel}~
+{B,BO}
+   You are now strolling down the empty streets of Downtown,
+   the "darker" half of Sunnydale.  The nice, clean streets
+   you just went through, have melted away into dirty, trash-
+   filled avenues.  You feel as if your safety is in danger
+   as you stroll down the road...
+ 
+   A black cat runs across your path, and under a chain-link
+   fence leading to an alley.  Not a good omen.
+{b,bo}
+~
+396 1024 1
+D0
+~
+Alley~
+3 39649 39665
+D1
+~
+~
+0 -1 39661
+D3
+~
+~
+0 -1 39663
+Z9
+C-1
+R0
+S
+#39663
+{YEL}Downtown{yel}~
+{B,BO}
+   You are now strolling down the empty streets of Downtown,
+   the "darker" half of Sunnydale.  The nice, clean streets
+   you just went through, have melted away into dirty, trash-
+   filled avenues.  You feel as if your safety is in danger
+   as you stroll down the road....
+{b,bo}
+~
+396 1024 1
+D1
+~
+~
+0 -1 39662
+D3
+~
+~
+0 -1 39664
+Z9
+C-1
+R0
+S
+#39664
+{YEL}Downtown{yel}~
+{B,BO}
+   You are now strolling down the empty streets of Downtown,
+   the "darker" half of Sunnydale.  The nice, clean streets
+   you just went through, have melted away into dirty, trash-
+   filled avenues.  You feel as if your safety is in danger
+   as you stroll down the road....
+{b,bo}
+~
+396 1025 1
+D0
+~
+~
+0 -1 39667
+D1
+~
+~
+0 -1 39663
+D2
+~
+~
+0 -1 39735
+D3
+~
+~
+0 -1 39675
+Z9
+C-1
+R0
+S
+#39665
+{BLA}A Dirty{bla} {YEL}Alley{yel}~
+{BLA}
+   You have stumbled upon an especially dirty alley.  Piles
+   of trash and broken lumber form an obstacle course that
+   you must navigate to get past.
+{bla}
+~
+396 1025 1
+D0
+{CY}
+   A tiny window is here, looking into a small
+   room at the Sunnydale Motel.  You feel like
+   some sort of Peeping Tom, you pervert.
+{cy}
+~
+Window~
+3 -1 39666
+D2
+~
+~
+0 -1 39662
+Z9
+C-1
+R0
+S
+#39666
+{YEL,BO}Sunnyd{yel,bo}{YEL}ale Motel{yel}~
+{BLA}
+   You are in a very low-budget motel room.  There's a bed,
+   and an old black-and-white television, complete with
+   tin foil-covered antennae, and... that's pretty much it.
+   This is a very humble abode for someone to live in.
+{bla}
+~
+396 1153 1
+D2
+~
+Window~
+1 -1 39665
+Z-1
+C2
+R0
+S
+#39667
+{YEL}Downtown{yel}~
+{BLA}
+   You are now strolling down the empty streets of Downtown,
+   the "darker" half of Sunnydale.  The nice, clean streets
+   you just went through have melted away into dirty, trash-
+   filled avenues.  You feel as if your safety is in danger
+   as you stroll down the road...
+{bla}
+~
+396 1024 1
+D0
+{M}
+   The Plaza Hotel
+ 
+     *A Place you can Never Afford to Stay at*
+{m}
+~
+Hotel~
+1 -1 39673
+D2
+~
+~
+0 -1 39664
+D3
+{Y}
+   A door to The Bronze, Sunnydale's hottest
+   club, is here.
+{y}
+~
+Bronze~
+1 -1 39668
+Z9
+C-1
+R0
+S
+#39668
+{YEL,UNDER}The Bronze{yel,under}~
+{Y}
+   You are now standing in The Bronze, Sunnydale's hottest 
+   (and only) nightclub!  You can barely hear yourself over
+   the "music" being played onstage, and the throng of young
+   people dancing about makes it difficult to go anywhere!
+{y}
+~
+396 1032 1
+D0
+~
+~
+0 -1 39669
+D1
+~
+Bronze~
+1 -1 39667
+D3
+~
+~
+0 -1 39670
+Z-1
+C-1
+R0
+S
+#39669
+{CY,BO}At the Bar{cy,bo}~
+
+
+  {BO,C}A bartender is standing here mixing and pouring 
+  drinks into glasses. He looks at you and says 
+  "No drinks if you're under 21!  We will card you!"{bo,c}
+
+~
+396 1032 1
+D2
+~
+~
+0 -1 39668
+Z-1
+C-1
+R0
+S
+#39670
+{YEL,UNDER}The Bronze{yel,under}~
+{Y}
+   You are now standing in The Bronze, Sunnydale's hottest 
+   (and only) nightclub!  You can barely hear yourself over
+   the "music" being played onstage, and the throng of young
+   people dancing about makes it difficult to go anywhere!
+{y}
+~
+396 1032 1
+D1
+~
+~
+0 -1 39668
+D3
+~
+~
+0 -1 39671
+Z-1
+C-1
+R0
+S
+#39671
+{GRE,BO}On{gre,bo}{MAG,BO}-St{mag,bo}{CY,BO}age{cy,bo}~
+{M,BO}
+   You've finally made it to the stage, only to find that the band
+   is already done!  Most of the equipment has already been packed
+   up, and the bass player is here finishing up the rest.
+{m,bo}
+~
+396 8 1
+D0
+{M,BO}
+   The curtain leading to the Backstage is closed.
+   You probably couldn't get in anyway, unless you
+   had some sort of Backstage Pass.
+{m,bo}
+~
+curtain~
+2 39632 39672
+D1
+~
+~
+0 -1 39670
+Z1
+C-1
+R0
+S
+#39672
+{BLACK,BO}Backstage{black,bo}~
+
+   {M}You've made it Backstage, thanks to that Pass you snagged.
+   Unfortunately, getting backstage isn't as cool as you thought
+   it would be.... there's just a bunch of roadies and band
+   members milling about loading up their gear in their van.
+   No groupies, no snacks, nothing.  How boring!{m}
+
+~
+396 1032 1
+D2
+~
+curtain~
+1 -1 39671
+Z5
+C-1
+R0
+S
+#39673
+{MAG}The Plaza Hotel{mag}~
+{MAG}
+   This is the spacious lobby of the Plaza Hotel,
+   Sunnydale's only 4-Star accommodations.  Only
+   the filthy rich can afford to stay here, and 
+   you wonder who you might run into at this
+   establishment.
+{mag}
+~
+396 1032 1
+D0
+~
+~
+0 -1 39674
+D2
+~
+Hotel~
+1 -1 39667
+Z-1
+C-1
+R0
+S
+#39674
+{MAG}The Plaza Hotel{mag}~
+{MAG}
+   This is the spacious lobby of the Plaza Hotel,
+   Sunnydale's only 4-Star accommodations.  Only
+   the filthy rich can afford to stay here, and 
+   you wonder who you might run into at this
+   establishment.
+{mag}
+~
+396 1032 1
+D2
+~
+~
+0 -1 39673
+D4
+~
+~
+0 -1 39745
+Z-1
+C-1
+R0
+S
+#39675
+{YEL}Downtown{yel}~
+
+   {BO,M}You are now strolling down the empty streets of downtown,
+   the "darker" half of Sunnydale.  The nice, clean streets
+   you just went through, have melted away into dirty, trash-
+   filled avenues.  You feel as if your safety is in danger
+   as you stroll down the road....{bo,m}
+ 
+
+~
+396 1024 1
+D1
+~
+~
+0 -1 39664
+D2
+{Y,BO}
+   NO ENTRY WITHOUT A HARDHAT!
+{y,bo}
+~
+ConstructionSite~
+1 -1 39676
+D3
+~
+~
+0 -1 39747
+Z9
+C-1
+R0
+S
+#39676
+{BLU,REV}Before the Monolith{blu,rev}~
+{BLU,REV}
+   This site was once the home of a future office building,   
+   but has been taken over by the followers of the mad god    
+   Glory.  They have constructed a crude monolith, reaching   
+   some 100-feet to the sky.  It looks dangerously wobbly!    
+{blu,rev}
+~
+396 0 1
+D0
+~
+ConstructionSite~
+1 -1 39675
+D2
+~
+~
+0 -1 39677
+D3
+~
+~
+0 -1 39679
+Z5
+C-1
+R0
+S
+#39677
+{BLU,REV}Before the Monolith{blu,rev}~
+{BLU,REV}
+   This site was once the home of a future office building,   
+   but has been taken over by the followers of the mad god    
+   Glory.  They have constructed a crude monolith, reaching   
+   some 100-feet to the sky.  It looks dangerously wobbly!    
+{blu,rev}
+~
+396 0 1
+D0
+~
+~
+0 -1 39676
+D3
+~
+~
+0 -1 39678
+Z5
+C-1
+R0
+S
+#39678
+{BLU,REV}Before the Monolith{blu,rev}~
+{BLU,REV}
+   This site was once the home of a future office building,   
+   but has been taken over by the followers of the mad god    
+   Glory.  They have constructed a crude monolith, reaching   
+   some 100-feet to the sky.  It looks dangerously wobbly!    
+{blu,rev}
+~
+396 0 1
+D0
+~
+~
+0 -1 39679
+D1
+~
+~
+0 -1 39677
+Z5
+C-1
+R0
+S
+#39679
+{BLU,REV}Before the Monolith{blu,rev}~
+{BLU,REV}
+   This site was once the home of a future office building,   
+   but has been taken over by the followers of the mad god    
+   Glory.  They have constructed a crude monolith, reaching   
+   some 100-feet to the sky.  It looks dangerously wobbly!    
+{blu,rev}
+~
+396 0 1
+D1
+~
+~
+0 -1 39676
+D2
+~
+~
+0 -1 39678
+D4
+~
+~
+0 -1 39680
+Z5
+C-1
+R0
+S
+#39680
+{BLU,REV}Climbing{blue,rev}~
+{BLU,REV}
+   You are now climbing the wobbly tower.  Every step you   
+   take creaks and cracks.... this is probably the spookiest
+   climb you've ever taken!                                 
+{blu,rev}
+~
+396 0 1
+D4
+~
+~
+0 -1 39681
+D5
+~
+~
+0 -1 39693
+Z5
+C1
+R0
+S
+#39681
+{BLU,REV}Climbing{blue,rev}~
+{BLU,REV}
+   You are now climbing the wobbly tower.  Every step you   
+   take creaks and cracks.... this is probably the spookiest
+   climb you've ever taken!                                 
+{blu,rev}
+~
+396 0 1
+D4
+~
+~
+0 -1 39682
+D5
+~
+~
+0 -1 39693
+Z5
+C1
+R0
+S
+#39682
+{BLU,REV}Atop the Wobbly Tower{blue,rev}~
+{BLU,REV}
+   You have finally made it to the top of this   
+   wobbly tower!  It's a short walk to the end   
+   of the plank, and then you will discover      
+   exactly why this monolith was built...        
+{blue,rev}
+~
+396 0 1
+D3
+~
+~
+0 -1 39683
+D5
+~
+~
+0 -1 39693
+Z5
+C2
+R0
+S
+#39683
+{BLU,REV}Atop the Wobbly Tower{blue,rev}~
+{BLU,REV}
+   You have finally made it to the top of this   
+   wobbly tower!  It's a short walk to the end   
+   of the plank, and then you will discover      
+   exactly why this monolith was built...        
+{blue,rev}
+~
+396 0 1
+D0
+~
+~
+0 -1 39693
+D1
+~
+~
+0 -1 39682
+D2
+~
+~
+0 -1 39693
+D3
+~
+~
+0 -1 39684
+Z5
+C2
+R0
+S
+#39684
+{WHI,BO}T{whi,bo}{YEL,BO}h{yel,bo}{WHI,BO}e{whi,bo} {YEL,BO}K{yel,bo}{WHI,BO}e{whi,bo}{YEL,BO}y{yel,bo}~
+{Y,BO}
+   The Key.  An entity of unspeakable power, a group of monks
+   formed it into human form, and gave it to the Slayer for 
+   protection.  Dawn Summers, the younger sister of Buffy, is
+   The Key, and Glory and her followers will bleed her in order
+   to usher in the Apocalypse.  She must be protected!
+{y,bo}
+~
+396 128 1
+D0
+~
+~
+0 -1 39694
+D2
+~
+~
+0 -1 39694
+D3
+~
+~
+0 -1 39694
+D5
+{W,BO}
+   When you're out of options, you just have to
+   rely on HOPE.
+{w,bo}
+~
+Hope~
+4 39630 39685
+X2097166
+Z-1
+C-1
+R0
+S
+#39685
+{CY,BO}F{cy,bo}{WHI,BO}a{whi,bo}{CY,BO}l{cy,bo}{WHI,BO}l{whi,bo}{CY,BO}i{cy,bo}{WHI,BO}n{whi,bo}{CY,BO}g{cy,bo}~
+{CY,BO}
+   This is it, the end of the world!!  Looks like there
+   is only one thing left to do....to keep the rift from
+   swallowing up the planet, you have to sacrifice your
+   own life and enter the rift!
+{cy,bo}
+~
+396 0 1
+Z-1
+C-1
+R0
+S
+#39686
+{WHI}A Long Hallway{whi}~
+{C}
+   You are walking down a long hallway in Sunnydale High
+   School.  Lockers line the walls on either side of you,
+   and a variety of posters announcing campus events and
+   clubs are posted up as well.
+{c}
+~
+396 1032 1
+D2
+~
+~
+0 -1 39687
+D5
+~
+~
+0 -1 39633
+X8
+Z-1
+C-1
+R0
+S
+#39687
+{WHI}A Long Hallway{whi}~
+{C}
+   You are walking down a long hallway in Sunnydale High
+   School.  Lockers line the walls on either side of you,
+   and a variety of posters announcing campus events and
+   clubs are posted up as well.
+{c}
+~
+396 1032 1
+D0
+~
+~
+0 -1 39686
+D1
+~
+~
+0 -1 39688
+D2
+~
+~
+0 -1 39690
+D3
+~
+~
+0 -1 39689
+X8
+Z-1
+C-1
+R0
+S
+#39688
+{BLU,BO}Math Class{blu,bo}~
+{BLU,BO}
+   As you enter the room, you see students furiously trying
+   to answer the equations on the chalkboard - {blu,bo}
+ 
+{WHI,BO}
+      3 + 1 = ?
+      2 - 1 = ?
+      1 x 1 = ?
+{whi,bo}
+{BLU,BO}
+   ......wow, they're doing harder math than you ever did!
+{blu,bo}
+~
+396 1032 1
+D3
+~
+~
+0 -1 39687
+Z-1
+C-1
+R0
+S
+#39689
+{BLU}Biology Class{blu}~
+
+  {B}All the students are sitting at tables with pans
+  in front of them. You walk over to one of the 
+  tables to see what is in it. Each pan has a small
+  frog lying inside.
+        Eww, it's Frog Dissecting Day!{b}
+
+~
+396 1032 1
+D1
+~
+~
+0 -1 39687
+Z-1
+C-1
+R0
+S
+#39690
+{WHI}A Long Hallway{whi}~
+{C}
+   You are walking down a long hallway in Sunnydale High
+   School.  Lockers line the walls on either side of you,
+   and a variety of posters announcing campus events and
+   clubs are posted up as well.
+{c}
+~
+396 1032 1
+D0
+~
+~
+0 -1 39687
+D1
+~
+~
+0 -1 39691
+D3
+~
+~
+0 -1 39692
+X8
+Z-1
+C-1
+R0
+S
+#39691
+{WHI}A Long Hallway{whi}~
+{C}
+   You are walking down a long hallway in Sunnydale High
+   School.  Lockers line the walls on either side of you,
+   and a variety of posters announcing campus events and
+   clubs are posted up as well.
+{c}
+~
+396 1032 1
+D1
+~
+LockerRoom~
+3 1 39653
+D3
+~
+~
+0 -1 39690
+X8
+Z-1
+C-1
+R0
+S
+#39692
+{BLU,BO}Band Class{blu,bo}~
+
+  {BLU}There are students sitting in chairs all around
+  the room. Some are blowing on instruments and 
+  others are talking to each other telling stories.
+           This one time, in Band Class...{blu}
+
+~
+396 8 1
+D1
+~
+~
+0 -1 39690
+Z-1
+C-1
+R0
+S
+#39693
+{WHI,BO}F{whi,bo}{CY,BO}a{cy,bo}{WHI,BO}l{whi,bo}{CY,BO}l{cy,bo}{WHI,BO}i{whi,bo}{CY,BO}n{cy,bo}{WHI,BO}g{whi,bo}~
+{CY,BO}
+   You 
+     are 
+       FALLING
+             to
+              your
+                 DEATH!
+ 
+   Better luck next time.
+{cy,bo}
+~
+396 2 9
+Z0
+C-1
+R0
+S
+#39694
+{RED}Out of Options{red}~
+{RED}
+   You're out of options now. Only one way to go.  Sorry!
+{red}
+~
+396 2 9
+Z0
+C-1
+R0
+S
+#39695
+{RED}Dou{red}{YEL}ble{yel}{RED}Meat{red} {YEL}Palace{yel}~
+{CY}
+   Welcome to the Doublemeat Palace, where you can satisfy your 
+   cravings for beef AND chicken, all under one sesame seed bun!
+   We take juicy beef and tender chicken for our process, creating
+   a unique and flavorful burger unlike any other!
+
+{cy}
+~
+396 8 1
+D2
+~
+~
+0 -1 39661
+Z-1
+C-1
+R0
+S
+#39696
+{MAG,BO}Le Boutique{mag,bo}~
+{MAG,BO}
+   You are now in Sunnydale's most expensive, fashion-trendy
+   establishment!  The racks are filled with outrageously
+   expensive clothes; stuff that you'll never be able to
+   afford!
+{mag,bo}
+~
+396 8 1
+D1
+~
+~
+0 -1 39697
+D3
+~
+ShopDoor~
+1 -1 39611
+Z-1
+C-1
+R0
+S
+#39697
+{MAG,BO}Dressing Room{mag,bo}~
+{MAG,BO}
+   You PERVERT!  What are you doing, entering a dressing room
+   when someone's in here changing?!
+{mag,bo}
+~
+396 8 1
+D3
+~
+~
+0 -1 39696
+X6
+Z-1
+C1
+R0
+S
+#39698
+{RED}Placeholder Room - NO ENTRY{red}~
+ 
+   Attn: Immortals.  This room is just a facade, there's no reason
+   why you should let anyone in here.  Don't unlock the door to this
+   room, if a mortal should ask.
+ 
+   Attn: Mortals.  If you're in here, shame on you.  Good luck getting
+   out.
+ 
+~
+396 21258388 1
+X4238
+Z0
+C1
+R0
+S
+#39699
+{BLU}Wi{blu}{CY}ld{cy}{WHI}st{whi}{BLA}ar's{bla} {MAG}Laboratory{mag}~
+ 
+   {CY}You are now in Wildstar's Laboratory.  He'll think of a
+   better description for this room later. {cy}
+ 
+~
+396 65536 1
+Z-1
+C-1
+R0
+S
+$~

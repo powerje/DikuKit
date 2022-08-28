@@ -1,0 +1,2377 @@
+#28400
+{R,BO}In Front of {Y}Anne Frank's {R}House{b}~
+
+{R}  As you look at the house where Anne Frank was kept hidden from
+{BLA,BO}  the Germans in the Second World War, you feel as if you can 
+{b}{R}  taste the fear she must've felt, being surrounded by people who
+{BLA,BO}  had only the extermination of her and others like her on their
+{b}{R}  minds! Before you, you see the entrance to the house, which is
+{BLA,BO}  now a museum of sorts. Remembering that the tourguide had 
+{b}{R}  mentioned that a visit to this house was included in the trip, 
+{BLA,BO}  you open the door and..............{b}
+
+~
+284 0 1
+Z3
+C-1
+R0
+S
+#28401
+{C}The Entrance{b}~
+
+{Y}  Now that was strange.....  You still feel wobbly from entering
+{Y}  that door. That certainly didn't feel like going through a door!
+{Y}  What the hell could have happened?? When you finally regain 
+{Y}  enough sense to look around, you get the distinct impression
+{Y}  that this is not a museum, but a house where people actually
+{Y}  live. No bright brochures, no signs telling you where to find 
+{Y}  the restrooms, no ticket counter, no nothing. What is this?!?!?{b}
+
+~
+284 16520 0
+D0
+~
+~
+0 -1 28402
+Z3
+C-1
+R0
+S
+#28402
+{BLA,BO}In the hallway{b}~
+
+{Y}  The boards in the hallway creak ominously as you step on them. 
+{Y}  Looking around you, you can see {WH,BO}paint peeling from badly
+{WH,BO}  whitewashed walls{b}{Y}. All around you, you can hear {R,BO}loud {b}{Y}noises, 
+{Y}  as if the place is being taken apart..... It slowly becomes
+{Y}  clear to you that something must have happened and that somehow 
+{Y}  you've ended up in {R}Anne Frank's{Y} house while she is hiding 
+{Y}  there.......{b}
+
+~
+284 16520 0
+D0
+~
+~
+0 -1 28404
+D1
+~
+~
+0 -1 28403
+Z3
+C-1
+R0
+S
+#28403
+{R}The Living Room{b}~
+
+{R,BO}  A couple of SS Sturmtroopers yells at you when you enter the
+{R,BO}  definitely don't seem very pleased at your presence here. Nor 
+{R,BO}  by your interrupting their search of the building.........{b}
+
+~
+284 16392 0
+D0
+~
+~
+0 -1 28405
+D3
+~
+~
+0 -1 28402
+Z3
+C-1
+R0
+S
+#28404
+{WH,BO}The K{b}{R}it{WH,BO}chen{b}~
+
+{WH,BO}  When you enter the kitchen, you interrupt a couple of SS 
+{R}  Stormtroopers who are obviously searching the place. As soon as
+{WH,BO}  you enter the room, the Nazi's turn around and yell: "Wass machen
+{R}  sie hier? Identifizieren Sie sich!  Auschweize!  Und Schnell!!!!"
+{WH,BO}  It is clear that they think you are taking too long in showing any
+{R}  paperwork and quickly raise their machine guns.......{b}
+
+~
+284 16392 0
+D1
+~
+~
+0 -1 28405
+D2
+~
+~
+0 -1 28402
+Z3
+C-1
+R0
+S
+#28405
+{R}The Stairs to the Second Floor{b}~
+
+{BLA,BO}  Shit! More Germans on the stairs! The whole house seems infected
+{BLA,BO}  with them! They must be looking for something. And, with their
+{BLA,BO}  attitude, you don't have time to do anything but defend yourself!{b}
+
+~
+284 16392 0
+D2
+~
+~
+0 -1 28403
+D3
+~
+~
+0 -1 28404
+D4
+~
+~
+0 -1 28406
+Z3
+C-1
+R0
+S
+#28406
+{R,BO}Second Floor Hallway{b}~
+
+{BLA,BO}  From your vantage point on the top of the stairs, you can see 
+{BLA,BO}  the open doors of three bedrooms that lead off this hallway. 
+{b}{R}  From every one of those rooms you can hear noises coming, 
+{BLA,BO}  noises that sound like somebody is trashing the room.......
+{b}{R}  Damn....  Must be more Germans in there.{b}
+
+~
+284 16520 0
+D1
+~
+~
+0 -1 28407
+D2
+~
+~
+0 -1 28408
+D3
+~
+~
+0 -1 28409
+D5
+~
+~
+0 -1 28405
+Z3
+C-1
+R0
+S
+#28407
+{Y}A Be{R}dro{Y}om{b}~
+
+{R}  Goddamn! The place is crawling with those bastards!  Still, it
+{R}  seems like they haven't exactly found what they were looking for.
+{R}  Maybe you can find it before they do.....{b}
+
+~
+284 16392 0
+D3
+~
+~
+0 -1 28406
+Z3
+C-1
+R0
+S
+#28408
+{Y}A Be{R}dro{Y}om{b}~
+
+{R}  Goddamn! The place is crawling with those bastards!  Still, it
+{R}  seems like they haven't exactly found what they were looking for.
+{R}  Maybe you can find it before they do.....{b}
+
+~
+284 16392 0
+D0
+~
+~
+0 -1 28406
+Z3
+C-1
+R0
+S
+#28409
+{Y}A Be{R}dro{Y}om{b}~
+
+{R}  Goddamn! The place is crawling with those bastards!  Still, it
+{R}  seems like they haven't exactly found what they were looking for.
+{R}  Maybe you can find it before they do.....{b}
+
+~
+284 16392 0
+D1
+~
+~
+0 -1 28406
+D4
+When you look closely at the ceiling, you can just make out something,
+that looks like a piece of it can move.
+~
+panel~
+1 -1 28410
+Z3
+C-1
+R0
+S
+#28410
+{BLA,BO}A {b}{Y}t{R}in{Y}y Hideo{R}u{Y}t{b}~
+
+{Y}  You have found the place where Anne has been hiding all this time!
+{Y}  It is too bad that she appears to be gone.....  The only one you
+{Y}  find in this tiny room is an SS officer who looks at you and yells:
+{R,BO}  "Verrater!  So du bist's der die Anne hier versteckt hat!  Fur Leute
+{BLA,BO}  wie dass haben wir nur einen Antwort!  Die Tot!  Sie wirden allen
+{R,BO}  sterben!"{b}
+
+~
+284 4211848 0
+Z3
+C2
+R0
+S
+#28411
+{R}The Concentration Camp{b}~
+
+{Y}  Looking around you, you can make out the dim shapes of thoroughly
+{Y}  underfed people, wearing rags and everyone of them is wearing what
+{Y}  looks like a yellow star. Most of the wretches look ready to drop
+{Y}  dead any instant, but they are forced along by burly looking
+{Y}  campguards, carrying automatic rifles and hitting the ones that
+{Y}  can't keep up with the butt of it. Around the edges of the central
+{Y}  field, you can make out barracks and some other buildings.{b}
+
+~
+284 16388 2
+D0
+~
+~
+0 -1 28412
+D1
+~
+~
+0 -1 28414
+D3
+~
+~
+0 -1 28418
+Z3
+C-1
+R0
+S
+#28412
+{R}The Concentration Camp{b}~
+
+{Y}  Looking around you, you can make out the dim shapes of thoroughly
+{Y}  underfed people, wearing rags and everyone of them is wearing what
+{Y}  looks like a yellow star. Most of the wretches look ready to drop
+{Y}  dead any instant, but they are forced along by burly looking
+{Y}  campguards, carrying automatic rifles and hitting the ones that
+{Y}  can't keep up with the butt of it. Around the edges of the central
+{Y}  field, you can make out barracks and some other buildings.
+
+~
+284 16384 2
+D0
+~
+~
+0 -1 28415
+D1
+~
+~
+0 -1 28413
+D2
+~
+~
+0 -1 28411
+Z3
+C-1
+R0
+S
+#28413
+{R}The Concentration Camp{b}~
+
+{Y}  Looking around you, you can make out the dim shapes of thoroughly
+{Y}  underfed people, wearing rags and everyone of them is wearing what
+{Y}  looks like a yellow star. Most of the wretches look ready to drop
+{Y}  dead any instant, but they are forced along by burly looking
+{Y}  campguards, carrying automatic rifles and hitting the ones that
+{Y}  can't keep up with the butt of it. Around the edges of the central
+{Y}  field, you can make out barracks and some other buildings.
+
+~
+284 16384 2
+D0
+~
+~
+0 -1 28419
+D1
+~
+~
+0 -1 28421
+D2
+~
+~
+0 -1 28414
+D3
+~
+~
+0 -1 28412
+Z3
+C-1
+R0
+S
+#28414
+{R}The Concentration Camp{b}~
+
+{Y}  Looking around you, you can make out the dim shapes of thoroughly
+{Y}  underfed people, wearing rags and everyone of them is wearing what
+{Y}  looks like a yellow star. Most of the wretches look ready to drop
+{Y}  dead any instant, but they are forced along by burly looking
+{Y}  campguards, carrying automatic rifles and hitting the ones that
+{Y}  can't keep up with the butt of it. Around the edges of the central
+{Y}  field, you can make out barracks and some other buildings.
+
+~
+284 16384 2
+D0
+~
+~
+0 -1 28413
+D1
+~
+~
+0 -1 28416
+D2
+~
+~
+0 -1 28417
+D3
+~
+~
+0 -1 28411
+Z3
+C-1
+R0
+S
+#28415
+{BLA,BO}The Showers{b}~
+
+{G}  As you enter the shower, the door closes behind you....  
+{G}  Fearfully you look around and look at the people that have been
+{G}  forced in the shower with you. Then, when the shower is turned on,
+{G}  you notice that there is no water coming out of the faucets.......
+{G}  Instead, you see some yellow colored substance filling the room. 
+{G}  Trying to hold your breath for as long as you possibly can, is of
+{G}  no use.... Eventually you are forced to breathe.... Your lungs are
+{G}  filled with large amounts of the gas, you scream, SCREAM for help,
+{G}  but there is nobody there to open the door and take you out, to let
+{G}  in fresh air. The agony of the paralyzing gas then makes it 
+{G}  impossible to do even that. All around you people are falling, dying.
+{G}  You know you will soon join them, and your last thought is:
+{G}  Never.... Never again....{b}
+
+~
+284 4210767 10
+Z3
+C1
+R0
+S
+#28416
+{R}Barracks{b}~
+
+{BLA,BO}  This is one of the barracks where the prisoners are housed. The
+{BLA,BO}  bunks are infested with vermin, congealed vomit covers most of 
+{BLA,BO}  the floors, rats scurry everywhere. Some of the bunks are 
+{BLA,BO}  occupied with those who are too sick to move, and will die soon.
+{BLA,BO}  The stark reality of the atrocities committed here is more than 
+{BLA,BO}  enough to make your stomach turn.{b}
+
+~
+284 16392 0
+D3
+~
+~
+0 -1 28414
+Z3
+C-1
+R0
+S
+#28417
+{R}Barracks{b}~
+
+{BLA,BO}  This is one of the barracks where the prisoners are housed. The
+{BLA,BO}  bunks are infested with vermin, congealed vomit covers most of 
+{BLA,BO}  the floors, rats scurry everywhere. Some of the bunks are 
+{BLA,BO}  occupied with those who are too sick to move, and will die soon.
+{BLA,BO}  The stark reality of the atrocities committed here is more than 
+{BLA,BO}  enough to make your stomach turn.{b}
+
+~
+284 16392 0
+D0
+~
+~
+0 -1 28414
+Z3
+C-1
+R0
+S
+#28418
+{R}Barracks{b}~
+
+{BLA,BO}  This is one of the barracks where the prisoners are housed. The
+{BLA,BO}  bunks are infested with vermin, congealed vomit covers most of 
+{BLA,BO}  the floors, rats scurry everywhere. Some of the bunks are 
+{BLA,BO}  occupied with those who are too sick to move, and will die soon.
+{BLA,BO}  The stark reality of the atrocities committed here is more than 
+{BLA,BO}  enough to make your stomach turn.{b}
+
+~
+284 16392 0
+D1
+~
+~
+0 -1 28411
+Z3
+C-1
+R0
+S
+#28419
+{R,BO}Hospital{b}~
+
+{R,BO}  This is the entrance {WH}to the camp hosp{R}ital. Here experiments on
+{R,BO}  human subjects are carr{WH}ied out. You can s{R}ee nurses walking 
+{R,BO}  briskly from room to room, t{WH}ending to the sub{R}jects that have 
+{R,BO}  been infected with the worst dise{WH}ases they have {R}been able to
+{R,BO}  construct.{b}
+
+~
+284 4210700 0
+D0
+~
+~
+0 -1 28420
+Z3
+C-1
+R0
+S
+#28420
+{R}Waiting Room{b}~
+
+{WH,BO}  The hospital waiting room is only used by {R}the campguards and 
+{WH,BO}  officers when they have an illness to{R} be taken care of{WH}. None
+{WH,BO}  of the prisoners ever sees this {R}room unless they {WH}are being
+{WH,BO}  transferred from the barracks{R} to the laborato{WH}ry, north of here.
+{WH,BO}  To the west you can make {R}out the showers {WH}and the incinerator is
+{WH,BO}  to your east.{b}
+
+~
+284 4210824 0
+D0
+~
+~
+0 -1 28422
+D1
+~
+~
+0 -1 28421
+D2
+~
+~
+0 -1 28419
+D3
+~
+~
+0 -1 28415
+Z3
+C-1
+R0
+S
+#28421
+{R,BO}The {Y}Inci{R}nera{Y}tor{b}~
+
+{R,BO}  This is the incinerator where they burn all the bodies of the 
+{Y,BO}  prisoners. It is HOT!!!   What did you think?  That you would be 
+{R,BO}  able to survive something that is used for burning corpses??? 
+{BLA,BO}                          FOOL!  {b}
+
+~
+284 16403 0
+Z3
+C-1
+R0
+S
+#28422
+{C}The Laboratory{b}~
+
+{Y}  This is Doctor Mengele's laboratory!  Here is where he does all
+{R,BO}  his research! And there is the infamous doctor himself, strapping
+{BLA,BO}  a patient to the examination table.  But, wait!  You recognize
+{b}{G}  that patient! That is Anne Frank!  Banzai!!  To the rescue!!!!!!{b}
+
+~
+284 20988044 0
+D2
+~
+~
+0 -1 28420
+X512
+Z3
+C-1
+R0
+S
+#28423
+{Y}In the Canalboat{b}~
+
+{C}  Phew!!! Back in the boat, a feeling of normalcy returns to you, 
+{C}  again you can hear the voice of the tour operator droning 
+{C}  soothingly while the sights of the city pass slowly. "We hope 
+{C}  you enjoyed your tour of the Anne Frank house, our next stop 
+{C}  will be the Rijksmuseum, famous for its large selection of 
+{C}  paintings from the Dutch masters. Any moment now we will more at
+{C}  the quay in front of the museum, and, as your travel brochure
+{C}  says, a visit is included in this tour."{b}
+
+~
+284 4 1
+D3
+~
+~
+0 -1 28424
+Z3
+C-1
+R0
+S
+#28424
+{C,BO}The Rijksmuseum Entrance{b}~
+
+{C}  You are standing in front of one of the most renowned museums in
+{C}  the world. Not as big as the Louvre or the Vatican museum, but it
+{C}  is nevertheless a very large building. In wonder you look up the
+{C}  ornate walls, the stained glass windows, the little turrets and
+{C}  much, much more than you can fully appreciate in one look. The 
+{C}  walls of the entrance are made of mosaics that portrait the muses, 
+{C}  a stunning work of art in itself. To your north you can see the
+{C}  first wing of the museum. Trembling in anticipation to actually
+{C}  see the wonders you've heard are contained in this building you
+{C}  take a bold step forward. Ready for it all!{b}
+
+~
+284 16793600 0
+D0
+~
+~
+0 -1 28425
+E
+mosaic~
+A beautiful mural, depicting tranquil yet compelling scenes of the famed
+greek muses set in their classic surroundings keeps your attention for
+a looooong time.
+~
+Z3
+C-1
+R0
+S
+#28425
+{Y}Groundfloor Lobby{b}~
+
+{C}  The ground floor lobby is the central room of the museum. From
+{C}  here you can see the various wings of the museum. A staircase
+{C}  leads up to the second floor, where, according to the brochures,
+{C}  the famed paintings are exhibited. To the west you can see the
+{Y}  Egyptian wing{C}, the gallery to the east leads to a special exhibit
+{C}  on the {M}origins of humanity {C}and to the north you can see another
+{C}  special exhibit, this one about Europe during the time of {BLU,BO}Napoleon{b}{C}.{b}
+
+~
+284 16777224 0
+D0
+~
+~
+0 -1 28428
+D1
+~
+~
+0 -1 28427
+D2
+~
+~
+0 -1 28424
+D3
+~
+~
+0 -1 28426
+D4
+~
+~
+0 -1 28429
+Z3
+C-1
+R0
+S
+#28426
+{Y}The Egyptian Exhibit{b}~
+
+{Y}  Surrounded by relics thousands and thousands of years old, you
+{Y}  feel that history has a weight of its own. These roots of 
+{Y}  civilization pervade deep into your bones and you can feel a 
+{Y}  pride in the achievements of humanity since these days where the
+{Y}  script was refined and many, many famous discoveries were made.
+{Y}  Your attention is drawn to the center-piece of the collection, a
+{Y,BO}  gold-plated {b}{Y}sarcophagus that seems in mint condition. The total 
+{Y}  arrangement seems to be made such that all other objects have
+{Y}  been made subjugate to this one, amazingly well preserved piece.{b}
+
+~
+284 16777224 0
+D1
+~
+~
+0 -1 28425
+Z3
+C-1
+R0
+S
+#28427
+{M,BO}The Dawn of Humanity Exhibit{b}~
+
+{M}  Spear-points, troughs, a rebuilt fireplace and even a rebuilt cave 
+{M}  is what you can see in this Exhibit. Reproductions of grotto
+{M}  paintings adorn the walls and all in all, you can get at least a
+{M}  passing glance at what life must've been like for our ancestors not
+{M}  long after they learned to use their hands to craft simple tools
+{M}  and the most important of all, the use of fire.{b}
+
+~
+284 16777224 0
+D3
+~
+~
+0 -1 28425
+Z3
+C-1
+R0
+S
+#28428
+{BLU,BO}THe Napoleontic Exhibition{b}~
+
+{BLU,BO}  The exhibition in this room offers the life-story of one of the
+{BLU,BO}  most infamous of all world leaders, Napoleon. His story of
+{BLU,BO}  conquest and heroism, egotism and nepotism, and finally of the
+{BLU,BO}  fall of the great. The tools of his trade, muskets and canons 
+{BLU,BO}  and many, many other weapons are displayed. There are 
+{BLU,BO}  reproductions of the famous marches, the famous battles, the 
+{BLU,BO}  fall of Italy, the conquest of North Africa, and, of course,
+{BLU,BO}  the battle of Waterloo.{b}
+
+~
+284 16777224 0
+D2
+~
+~
+0 -1 28425
+Z3
+C-1
+R0
+S
+#28429
+First Floor Lobby~
+
+{C}  The lobby on the first floor offers you a nice recluse from the
+{C}  myriad impressions that assault you from the numerous works of 
+{C}  art that the museum has to offer. Comfortable couches, a place
+{C}  where you can buy coffee, and only a painting or two occupy 
+{C}  this room. When you look around, you can see the various wings
+{C}  that hold the painting collections. To the north you see the 
+{C}  wing with the {R,BO}Dutch classics{b}{C}, the west offers you an {R}impression
+{C}  of the {R}impressionists{C}, {C,BO}modern paintings {b}{C}can be found to the east
+{C}  and the {WH,BO}truly abstract{b}{C} to the south.{b}
+
+~
+284 16777224 0
+D0
+~
+~
+0 -1 28430
+D1
+~
+~
+0 -1 28432
+D2
+~
+~
+0 -1 28433
+D3
+~
+~
+0 -1 28431
+D4
+The Gate to Enlightment.
+~
+gate~
+1 -1 28477
+D5
+~
+~
+0 -1 28425
+Z3
+C-1
+R0
+S
+#28430
+{R}The Classic Exhibit{b}~
+
+{R,BO}  In awe you stare at the paintings lining the wall. Vermeers, 
+{R,BO}  Rembrandts, Paulus Potters, Jan Steens and many, many more.  
+{R,BO}  Each artist seems to have captured a piece of reality that is
+{R,BO}  so overwhelming that it just blows your mind.  In particular 
+{R,BO}  the Rembrandts draw your attention, with the unchallenged
+{R,BO}  masterpiece the Nightwatch.  It has a special place, a whole
+{R,BO}  wall to itself.  For some reason, you cannot stop looking at 
+{R,BO}  that painting. So lifelike, so real, and yet so unreal.......{b}
+
+~
+284 16777224 0
+D2
+~
+~
+0 -1 28429
+Z3
+C-1
+R0
+S
+#28431
+{R,BO}The Impressionist Exhibit{b}~
+
+{R}  The paintings of the impressionists show you a view of the world that you
+{R}  know, yet not quite.  With rough strokes, points, and other special 
+{R}  techniques they give you two views of the world in one painting,  the unknown
+{R}  and the known, in a constant battle and clash.  Monet, Manet, Renoir,
+{R}  Pissaro and many many others have contributed in their own, particular
+{R}  fashion to this form of art, but none so overwhelming as Van Gogh.  Some of
+{R}  his painting are exhibited here as well, on loan from the Van Gogh museum,
+{R}  which is just across the road from the Rijksmuseum.  For some reason, your
+{R}  attention keeps getting drawn to one of his paintings, and you keep falling
+{R}  deeper and deeper in a {Y,BO}golden day{b}{R}, where a flock of {BLA,BO}crows {b}{R}navigates the
+{BLA,BO}  t{C}urb{BLA}ul{C}ent {Y}s{C}ki{BLA}e{C}s{b}{R}....{b}
+
+~
+284 16777224 0
+D1
+~
+~
+0 -1 28429
+Z3
+C-1
+R0
+S
+#28432
+{C,BO}The Modern Exhibit{b}~
+
+{C}  The modernists, close to abstract, but well beyond the first steps on the
+{C}  road away from realism that the impressionists explored.  A fine example
+{C}  of this type of art is shown in this wing.  You are surrounded by paintings
+{C}  by Gaugin, who's sometimes seen as an impressionist, but more often the first
+{C}  of the modernists and a true symbolist.  Dali, who uses realism to make it
+{C}  surreal, Degas and Klimt, who had their own interpretation of reality.  
+{C}  Many different views of reality try to crowd your mind at once, but none
+{C}  more than Magritte, whose rearrangement of reality simply boggles the mind.
+{C}  Especially captivating is a painting of an eye, a particular kind of mirror.{b}
+
+~
+284 16777224 0
+D3
+~
+~
+0 -1 28429
+Z3
+C-1
+R0
+S
+#28433
+{Y,BO}The Abstract Exhibit{b}~
+
+{WH,BO}  Abstraction of reality, to take reality so far away from itself that it
+{WH,BO}  starts leading its own life, is the most challenging of the art forms that
+{WH,BO}  have developed over the centuries.  It taxes both creator and observer in
+{WH,BO}  numerous, sometimes very subtle ways.  On the one hand, it can be 
+{WH,BO}  childishly simple and in its simplicity reveal a very complex truth, on the
+{WH,BO}  other hand, it can be extraordinarily complex, so complex, that the obvious 
+{WH,BO}  truth is hidden in layers of deception.  Some of the finest 
+{WH,BO}  examples of this artform can be found here.  Paintings by Picasso, Appel,
+{WH,BO}  de Koning and Mondriaan.  The childlike simplicity of the Red and Yellow
+{WH,BO}  and Blue squares of the Mondriaan paintings has an appeal.  Though
+{WH,BO}  its stark logical execution make them very difficult to appreciate.
+{WH,BO}  Still, there is something about those paintings.................{b}
+
+~
+284 16777224 0
+D0
+~
+~
+0 -1 28429
+Z3
+C-1
+R0
+S
+#28434
+A Hole in the Wall~
+AAAAAAAAAAAAAAAAARRRRRRRRRRRRRGGGGGGGGGGGGHHHHHHHHHHHHHH!!!!!!!!!!!
+
+What the hell was THAT!?!?!?!?
+
+Or, better, what the hell is this????  As you look around you can
+see the fabric of the room tearing apart under the impact of your
+landing...... HELP!!!!
+~
+284 17842184 0
+D0
+~
+~
+0 -1 28435
+D1
+~
+~
+0 -1 28438
+D2
+~
+~
+0 -1 28437
+D3
+~
+~
+0 -1 28436
+D4
+~
+~
+0 -1 28439
+D5
+~
+~
+0 -1 28440
+Z3
+C-1
+R0
+S
+#28435
+{C}On a Strand of Reality{b}~
+
+{R}  OH SHIT!!!!!!  This did not go as planned.....  I sure hope you
+{R}  know what you are doing......  As you hold on to the tiny strand
+{R}  that is the only remains of the painting that you can see,  you
+{R}  notice that you are surrounded by an immense darkness that seems
+{R}  to draw you in.....   Plunging into that darkness looks like something
+{R}  you would want to avoid at all cost......  
+
+{R,BO}  The only way out of here seems to be to follow this tiny strand that
+{R,BO}  you are holding on to.....   Then, you notice something else.  You 
+{R,BO}  appear to be all alone,  none of your friends are anywhere that you
+{R,BO}  can see....  Where the heck are they?!?!?!?!?{b}
+
+~
+284 21512440 0
+D0
+~
+strand~
+3 -1 28441
+D5
+~
+strand~
+3 -1 28447
+Z3
+C1
+R0
+S
+#28436
+{C}On a Strand of Reality{b}~
+
+{R}  OH SHIT!!!!!!  This did not go as planned.....  I sure hope you
+{R}  know what you are doing......  As you hold on to the tiny strand
+{R}  that is the only remains of the painting that you can see,  you
+{R}  notice that you are surrounded by an immense darkness that seems
+{R}  to draw you in.....   Plunging into that darkness looks like something
+{R}  you would want to avoid at all cost......  
+
+{R,BO}  The only way out of here seems to be to follow this tiny strand that
+{R,BO}  you are holding on to.....   Then, you notice something else.  You 
+{R,BO}  appear to be all alone,  none of your friends are anywhere that you
+{R,BO}  can see....  Where the heck are they?!?!?!?!?{b}
+
+~
+284 21512440 0
+D1
+~
+strand~
+3 -1 28442
+D3
+~
+strand~
+3 -1 28447
+Z3
+C1
+R0
+S
+#28437
+{C}On a Strand of Reality{b}~
+
+{R}  OH SHIT!!!!!!  This did not go as planned.....  I sure hope you
+{R}  know what you are doing......  As you hold on to the tiny strand
+{R}  that is the only remains of the painting that you can see,  you
+{R}  notice that you are surrounded by an immense darkness that seems
+{R}  to draw you in.....   Plunging into that darkness looks like something
+{R}  you would want to avoid at all cost......  
+
+{R,BO}  The only way out of here seems to be to follow this tiny strand that
+{R,BO}  you are holding on to.....   Then, you notice something else.  You 
+{R,BO}  appear to be all alone,  none of your friends are anywhere that you
+{R,BO}  can see....  Where the heck are they?!?!?!?!?{b}
+
+~
+284 21512440 0
+D1
+~
+strand~
+3 -1 28443
+D4
+~
+strand~
+3 -1 28447
+Z3
+C1
+R0
+S
+#28438
+{C}On a Strand of Reality{b}~
+
+{R}  OH SHIT!!!!!!  This did not go as planned.....  I sure hope you
+{R}  know what you are doing......  As you hold on to the tiny strand
+{R}  that is the only remains of the painting that you can see,  you
+{R}  notice that you are surrounded by an immense darkness that seems
+{R}  to draw you in.....   Plunging into that darkness looks like something
+{R}  you would want to avoid at all cost......  
+
+{R,BO}  The only way out of here seems to be to follow this tiny strand that
+{R,BO}  you are holding on to.....   Then, you notice something else.  You 
+{R,BO}  appear to be all alone,  none of your friends are anywhere that you
+{R,BO}  can see....  Where the heck are they?!?!?!?!?{b}
+
+~
+284 21512440 0
+D2
+~
+strand~
+3 -1 28444
+D3
+~
+strand~
+3 -1 28447
+Z3
+C1
+R0
+S
+#28439
+{C}On a Strand of Reality{b}~
+
+{R}  OH SHIT!!!!!!  This did not go as planned.....  I sure hope you
+{R}  know what you are doing......  As you hold on to the tiny strand
+{R}  that is the only remains of the painting that you can see,  you
+{R}  notice that you are surrounded by an immense darkness that seems
+{R}  to draw you in.....   Plunging into that darkness looks like something
+{R}  you would want to avoid at all cost......  
+
+{R,BO}  The only way out of here seems to be to follow this tiny strand that
+{R,BO}  you are holding on to.....   Then, you notice something else.  You 
+{R,BO}  appear to be all alone,  none of your friends are anywhere that you
+{R,BO}  can see....  Where the heck are they?!?!?!?!?{b}
+
+~
+284 21512440 0
+D2
+~
+strand~
+3 -1 28447
+D5
+~
+strand~
+3 -1 28445
+Z3
+C1
+R0
+S
+#28440
+{C}On a Strand of Reality{b}~
+
+{R}  OH SHIT!!!!!!  This did not go as planned.....  I sure hope you
+{R}  know what you are doing......  As you hold on to the tiny strand
+{R}  that is the only remains of the painting that you can see,  you
+{R}  notice that you are surrounded by an immense darkness that seems
+{R}  to draw you in.....   Plunging into that darkness looks like something
+{R}  you would want to avoid at all cost......  
+
+{R,BO}  The only way out of here seems to be to follow this tiny strand that
+{R,BO}  you are holding on to.....   Then, you notice something else.  You 
+{R,BO}  appear to be all alone,  none of your friends are anywhere that you
+{R,BO}  can see....  Where the heck are they?!?!?!?!?{b}
+
+~
+284 21512440 0
+D3
+~
+strand~
+3 -1 28447
+D4
+~
+strand~
+3 -1 28446
+Z3
+C1
+R0
+S
+#28441
+{C}Hovering {R,BO}Over {BLA}U{R}n{G}r{Y}e{BLU}a{M}l{C}i{WH}t{BLA}y{b}~
+
+{R,BO}  OH SHIT........   When you look down into the deep black abyss that
+{R,BO}  yawns beneath your feet, you wonder why you ever got an interest in
+{R,BO}  art in the first place.....  And this was definitely not the way you
+{R,BO}  imagined enjoying it.......   Whatever the goo is that this place is
+{R,BO}  made off, you'd better get out FAST........
+
+~
+284 20988122 9
+D3
+~
+~
+0 -1 28448
+Z3
+C1
+R0
+S
+#28442
+{C}Hovering {R,BO}Over {BLA}U{R}n{G}r{Y}e{BLU}a{M}l{C}i{WH}t{BLA}y{b}~
+
+{R,BO}  OH SHIT........   When you look down into the deep black abyss that
+{R,BO}  yawns beneath your feet, you wonder why you ever got an interest in
+{R,BO}  art in the first place.....  And this was definitely not the way you
+{R,BO}  imagined enjoying it.......   Whatever the goo is that this place is
+{R,BO}  made off, you'd better get out FAST........
+
+~
+284 20988122 9
+D4
+~
+~
+0 -1 28449
+Z3
+C1
+R0
+S
+#28443
+{C}Hovering {R,BO}Over {BLA}U{R}n{G}r{Y}e{BLU}a{M}l{C}i{WH}t{BLA}y{b}~
+
+{R,BO}  OH SHIT........   When you look down into the deep black abyss that
+{R,BO}  yawns beneath your feet, you wonder why you ever got an interest in
+{R,BO}  art in the first place.....  And this was definitely not the way you
+{R,BO}  imagined enjoying it.......   Whatever the goo is that this place is
+{R,BO}  made off, you'd better get out FAST........
+
+~
+284 20988122 9
+D2
+~
+~
+0 -1 28450
+Z3
+C1
+R0
+S
+#28444
+{C}Hovering {R,BO}Over {BLA}U{R}n{G}r{Y}e{BLU}a{M}l{C}i{WH}t{BLA}y{b}~
+
+{R,BO}  OH SHIT........   When you look down into the deep black abyss that
+{R,BO}  yawns beneath your feet, you wonder why you ever got an interest in
+{R,BO}  art in the first place.....  And this was definitely not the way you
+{R,BO}  imagined enjoying it.......   Whatever the goo is that this place is
+{R,BO}  made off, you'd better get out FAST........
+
+~
+284 20988122 9
+D5
+~
+~
+0 -1 28451
+Z3
+C1
+R0
+S
+#28445
+{C}Hovering {R,BO}Over {BLA}U{R}n{G}r{Y}e{BLU}a{M}l{C}i{WH}t{BLA}y{b}~
+
+{R,BO}  OH SHIT........   When you look down into the deep black abyss that
+{R,BO}  yawns beneath your feet, you wonder why you ever got an interest in
+{R,BO}  art in the first place.....  And this was definitely not the way you
+{R,BO}  imagined enjoying it.......   Whatever the goo is that this place is
+{R,BO}  made off, you'd better get out FAST........
+
+~
+284 20988122 9
+D1
+~
+~
+0 -1 28452
+Z3
+C1
+R0
+S
+#28446
+{C}Hovering {R,BO}Over {BLA}U{R}n{G}r{Y}e{BLU}a{M}l{C}i{WH}t{BLA}y{b}~
+
+{R,BO}  OH SHIT........   When you look down into the deep black abyss that
+{R,BO}  yawns beneath your feet, you wonder why you ever got an interest in
+{R,BO}  art in the first place.....  And this was definitely not the way you
+{R,BO}  imagined enjoying it.......   Whatever the goo is that this place is
+{R,BO}  made off, you'd better get out FAST........
+
+~
+284 20988122 9
+D0
+~
+~
+0 -1 28453
+Z3
+C1
+R0
+S
+#28447
+{C,BO}Plunging {R,BO}Into {BLA}R{R}e{G}a{Y}l{BLU}i{M}t{C}y{b}~
+
+{BLA,BO}                            ,-.
+{BLA,BO}        ___,---.__          /'|`\          __,---,___
+{BLA,BO}     ,-'    \`    `-.____,-'  |  `-.____,-'    //    `-.
+{BLA,BO}   ,'        |           '\     /`           |        `.
+{BLA,BO}  /      ___//              `. ,'          ,  , \___      \
+{BLA,BO} |    ,-'   `-.__   _         |        ,    __,-'   `-.    |
+{BLA,BO} |   /          /\_  `   .    |    ,      _/\          \   |
+{BLA,BO} \  |           \ \`-.___ \   |   / ___,-'/ /           |  /
+{BLA,BO}  \  \           | `._   `\\  |  //'   _,' |           /  /
+{BLA,BO}   `-.\         /'  _ `---'' , . ``---' _  `\         /,-'
+{BLA,BO}      ``       /     \    ,='/ \`=.    /     \       ''
+{BLA,BO}              |__   /|\_,--.,-.--,--._/|\   __|
+{BLA,BO}              /  `./  \\`\ |  |  | /,//' \,'  \
+{BLA,BO}             /   /     ||--+--|--+-/-|     \   \
+{BLA,BO}            |   |     /'\_\_\ | /_/_/`\     |   |
+~
+284 20988122 9
+Z3
+C-1
+R0
+S
+#28448
+{C}On a Patch{b}~
+
+{R}  Aaaahhh! Finally!  It feels a bit safer underfoot.  The strands seem
+{R}  to be holding together just fine here, just one problem is occurring now,
+{R}  it seems that you are not the only one who has sought refuge here....
+{R}  When you look closer, you can see a twist in reality just in front
+{R}  of you, no knowing what it might be hiding.......{b}
+
+~
+284 20988296 0
+D0
+~
+~
+0 -1 28454
+T28430
+Z3
+C1
+R0
+S
+#28449
+{C}On a Patch{b}~
+
+{R}  Aaaahhh! Finally!  It feels a bit safer underfoot.  The strands seem
+{R}  to be holding together just fine here, just one problem is occurring now,
+{R}  it seems that you are not the only one who has sought refuge here....
+{R}  When you look closer, you can see a twist in reality just in front
+{R}  of you, no knowing what it might be hiding.......{b}
+
+~
+284 20988296 0
+D0
+~
+~
+0 -1 28454
+T28430
+Z3
+C1
+R0
+S
+#28450
+{C}On a Patch{b}~
+
+{R}  Aaaahhh! Finally!  It feels a bit safer underfoot.  The strands seem
+{R}  to be holding together just fine here, just one problem is occurring now,
+{R}  it seems that you are not the only one who has sought refuge here....
+{R}  When you look closer, you can see a twist in reality just in front
+{R}  of you, no knowing what it might be hiding.......{b}
+
+~
+284 20988296 0
+D0
+~
+~
+0 -1 28454
+T28430
+Z3
+C1
+R0
+S
+#28451
+{C}On a Patch{b}~
+
+{R}  Aaaahhh! Finally!  It feels a bit safer underfoot.  The strands seem
+{R}  to be holding together just fine here, just one problem is occurring now,
+{R}  it seems that you are not the only one who has sought refuge here....
+{R}  When you look closer, you can see a twist in reality just in front
+{R}  of you, no knowing what it might be hiding.......{b}
+
+~
+284 20988296 0
+D0
+~
+~
+0 -1 28454
+T28430
+Z3
+C1
+R0
+S
+#28452
+{C}On a Patch{b}~
+
+{R}  Aaaahhh! Finally!  It feels a bit safer underfoot.  The strands seem
+{R}  to be holding together just fine here, just one problem is occurring now,
+{R}  it seems that you are not the only one who has sought refuge here....
+{R}  When you look closer, you can see a twist in reality just in front
+{R}  of you, no knowing what it might be hiding.......{b}
+
+~
+284 20988296 0
+D0
+~
+~
+0 -1 28454
+T28430
+Z3
+C1
+R0
+S
+#28453
+{C}On a Patch{b}~
+
+{R}  Aaaahhh! Finally!  It feels a bit safer underfoot.  The strands seem
+{R}  to be holding together just fine here, just one problem is occurring now,
+{R}  it seems that you are not the only one who has sought refuge here....
+{R}  When you look closer, you can see a twist in reality just in front
+{R}  of you, no knowing what it might be hiding.......{b}
+
+~
+284 20988296 0
+D0
+~
+~
+0 -1 28454
+T28430
+Z3
+C1
+R0
+S
+#28454
+{G,BO}Beyond Reality{b}~
+
+{G}  Soft ground under your feet....  You never thought it could feel this
+{G}  good...... This looks like it is a good place to wait for your friends, if
+{G}  they ever made it....   You can only wait and hope.  In the meantime, a
+{G}  small table on the east side of the field is filled with a repast of some
+{G}  sort, it looks like a pick-nick area!{b}
+
+~
+284 20996104 0
+D0
+~
+~
+0 -1 28455
+Z3
+C-1
+R0
+S
+#28455
+{G}In the Twilight Zone{b}~
+
+{BLA,BO}  Strange shapes and unvoiced sounds fill the air around you, never 
+{BLA,BO}  completely clear, never completely understood.  Still, a sense of foreboding
+{BLA,BO}  and danger fills the air, but, there is no way to go but onward from here.{b}
+
+~
+284 4210824 0
+D0
+~
+~
+0 -1 28457
+D1
+~
+~
+0 -1 28456
+D2
+~
+~
+0 -1 28458
+D3
+~
+~
+0 -1 28455
+Z3
+C-1
+R0
+S
+#28456
+{G}In the Twilight Zone{b}~
+
+{BLA,BO}  Strange shapes and unvoiced sounds fill the air around you, never 
+{BLA,BO}  completely clear, never completely understood.  Still, a sense of foreboding
+{BLA,BO}  and danger fills the air, but, there is no way to go but onward from here.{b}
+
+~
+284 4210824 0
+D0
+~
+~
+0 -1 28459
+D1
+~
+~
+0 -1 28457
+D2
+~
+~
+0 -1 28458
+D3
+~
+~
+0 -1 28455
+Z3
+C-1
+R0
+S
+#28457
+{G}In the Twilight Zone{b}~
+
+{BLA,BO}  Strange shapes and unvoiced sounds fill the air around you, never 
+{BLA,BO}  completely clear, never completely understood.  Still, a sense of foreboding
+{BLA,BO}  and danger fills the air, but, there is no way to go but onward from here.{b}
+
+~
+284 4210824 0
+D0
+~
+~
+0 -1 28455
+D1
+~
+~
+0 -1 28458
+D2
+~
+~
+0 -1 28456
+D3
+~
+~
+0 -1 28456
+Z3
+C-1
+R0
+S
+#28458
+{G}In the Twilight Zone{b}~
+
+{BLA,BO}  Strange shapes and unvoiced sounds fill the air around you, never 
+{BLA,BO}  completely clear, never completely understood.  Still, a sense of foreboding
+{BLA,BO}  and danger fills the air, but, there is no way to go but onward from here.{b}
+
+~
+284 4210824 0
+D0
+~
+~
+0 -1 28456
+D1
+~
+~
+0 -1 28457
+D2
+~
+~
+0 -1 28455
+D3
+~
+~
+0 -1 28458
+Z3
+C-1
+R0
+S
+#28459
+{BLA}R{R}e{Y}a{BLU}l{Y}i{M}t{C}y{b}~
+
+{BLA,BO}  A blackness so vast it is incomprehensible weighs down on you like nothing
+{BLA,BO}  you have ever experienced before.  This must be the place where all of 
+{BLA,BO}  reality is drawn from.  Its creativity, its wonder, it all comes from the
+{BLA,BO}  vast, vast unknowns beyond that which we know.  Looking around, you can
+{BLA,BO}  discern the remnants of those who dwelt here during their lives.  Close to
+{BLA,BO}  you, you can feel the presence of one such, who has been here many a time
+{BLA,BO}  during his short corporeal existence.  He must feel some comfort in this 
+{BLA,BO}  place where he has dwelt before, since he has chosen to remain here for
+{BLA,BO}  all of eternity........{b}
+
+~
+284 20987916 0
+D0
+~
+~
+0 -1 28430
+D2
+~
+~
+0 -1 28454
+Z3
+C-1
+R0
+S
+#28460
+{Y}In the Trenches{b}~
+
+{BLU,BO}  When you look around you, you see that you are in some sort of trenches,
+{BLU,BO}  discarded cans, bandages and some rusted weapons can be seen.  An 
+{BLU,BO}  occasional banner lets you to believe that you are now among the English
+{BLU,BO}  troops. The smell of decay is overwhelming and makes you gag. {b}
+
+~
+284 16384 2
+D1
+~
+~
+0 -1 28461
+D3
+~
+~
+0 -1 28462
+Z3
+C-1
+R0
+S
+#28461
+{Y}In the Trenches{b}~
+
+{BLU,BO}  When you look around you, you see that you are in some sort of trenches,
+{BLU,BO}  discarded cans, bandages and some rusted weapons can be seen.  An 
+{BLU,BO}  occasional banner lets you to believe that you are now among the English
+{BLU,BO}  troops. The smell of decay is overwhelming and makes you gag. {b}
+
+~
+284 16384 2
+D0
+A passage leading to the top of the barricades.
+~
+barricades~
+2 28418 28464
+D3
+~
+~
+0 -1 28460
+Z3
+C-1
+R0
+S
+#28462
+{Y}In the Trenches{b}~
+
+{BLU,BO}  When you look around you, you see that you are in some sort of trenches,
+{BLU,BO}  discarded cans, bandages and some rusted weapons can be seen.  An 
+{BLU,BO}  occasional banner lets you to believe that you are now among the English
+{BLU,BO}  troops. The smell of decay is overwhelming and makes you gag. {b}
+
+~
+284 16384 2
+D1
+~
+~
+0 -1 28460
+D2
+~
+~
+0 -1 28463
+Z3
+C-1
+R0
+S
+#28463
+{Y}In the Trenches{b}~
+
+{BLU,BO}  When you look around you, you see that you are in some sort of trenches,
+{BLU,BO}  discarded cans, bandages and some rusted weapons can be seen.  An 
+{BLU,BO}  occasional banner lets you to believe that you are now among the English
+{BLU,BO}  troops. The smell of decay is overwhelming and makes you gag. {b}
+
+~
+284 16384 2
+D0
+~
+~
+0 -1 28462
+D1
+~
+~
+0 -1 28465
+Z3
+C-1
+R0
+S
+#28464
+{R}On the Barricades{b}~
+
+{BLU,BO}  After scrambling up the barricades you are now in the no-man's-land between
+{BLU,BO}  the two opposing armies.  In general it is not considered a good idea to
+{BLU,BO}  stay too long here, there are always guards to be considered, and sometimes
+{BLU,BO}  they even mine these areas to discourage troops from crossing, or, if they
+{BLU,BO}  do, not to let it go by unnoticed.......{b}
+
+~
+284 16388 2
+D0
+~
+~
+0 -1 28466
+D2
+~
+barricades~
+1 -1 28461
+Z3
+C-1
+R0
+S
+#28465
+{Y}The Officer's Tent{b}~
+
+{Y}  You are inside an old tent, that has clearly seen many campaigns. One
+{Y}  of the british officers is sitting behind a desk, wondering why you have
+{Y}  come and interrupted his battle planning.  {b}
+
+~
+284 16384 2
+D3
+~
+~
+0 -1 28463
+Z3
+C-1
+R0
+S
+#28466
+{R}On the Barricades{b}~
+
+{BLU,BO}  After scrambling up the barricades you are now in the no-man's-land between
+{BLU,BO}  the two opposing armies.  In general it is not considered a good idea to
+{BLU,BO}  stay too long here, there are always guards to be considered, and sometimes
+{BLU,BO}  they even mine these areas to discourage troops from crossing, or, if they
+{BLU,BO}  do, not to let it go by unnoticed.......{b}
+
+~
+284 16388 2
+D0
+~
+~
+0 -1 28467
+D2
+~
+~
+0 -1 28464
+Z3
+C-1
+R0
+S
+#28467
+{BLU,BO}On the French Side{b}~
+
+{BLU,BO}  Looking around you, you can see the same carnage as on the British
+{BLU,BO}  side of the warzone.  The same bandages and discarded weapons.  The only
+{BLU,BO}  difference seems to be the color of the flags.  You can see cannons lined
+{BLU,BO}  up to your east, pointing south to where the British are camped.  To
+{BLU,BO}  the west you can see the tents of the officers.{b}
+
+~
+284 16384 2
+D1
+~
+~
+0 -1 28469
+D2
+~
+~
+0 -1 28466
+D3
+~
+~
+0 -1 28468
+Z3
+C-1
+R0
+S
+#28468
+{BLU,BO}On the French Side{b}~
+
+{BLU,BO}  Looking around you, you can see the same carnage as on the British
+{BLU,BO}  side of the warzone.  The same bandages and discarded weapons.  The only
+{BLU,BO}  difference seems to be the color of the flags.  You can see cannons lined
+{BLU,BO}  up to your east, pointing south to where the British are camped.  To
+{BLU,BO}  the west you can see the tents of the officers.{b}
+
+~
+284 16384 2
+D0
+~
+~
+0 -1 28471
+D1
+~
+~
+0 -1 28467
+Z3
+C-1
+R0
+S
+#28469
+{BLU,BO}On the French Side{b}~
+
+{BLU,BO}  Looking around you, you can see the same carnage as on the British
+{BLU,BO}  side of the warzone.  The same bandages and discarded weapons.  The only
+{BLU,BO}  difference seems to be the color of the flags.  You can see cannons lined
+{BLU,BO}  up to your east, pointing south to where the British are camped.  To
+{BLU,BO}  the west you can see the tents of the officers.{b}
+
+~
+284 16384 2
+D1
+~
+~
+0 -1 28470
+D3
+~
+~
+0 -1 28467
+Z3
+C-1
+R0
+S
+#28470
+{Y,BO}The Battery{b}~
+
+{BLU,BO}  The cannons of the French are situated here, pointing to the {R}English
+{BLU,BO}  across the field.  The thought of crossing that field with those things
+{BLU,BO}  blasting away at you makes your skin crawl.  The grenadiers are looking
+{BLU,BO}  after their tools of destruction and the captain of the guard is supervising
+{BLU,BO}  the progress being made.{b}
+
+~
+284 16384 2
+D3
+~
+~
+0 -1 28469
+Z3
+C-1
+R0
+S
+#28471
+{BLU,BO}On the French Side{b}~
+
+{BLU,BO}  Looking around you, you can see the same carnage as on the British
+{BLU,BO}  side of the warzone.  The same bandages and discarded weapons.  The only
+{BLU,BO}  difference seems to be the color of the flags.  You can see cannons lined
+{BLU,BO}  up to your east, pointing south to where the British are camped.  To
+{BLU,BO}  the west you can see the tents of the officers.{b}
+
+~
+284 16384 2
+D1
+The entrance to an officers tent.  A guard asks you whether you have
+some urgent business that would justify him letting you pass.
+~
+tent~
+2 -1 28472
+D2
+~
+~
+0 -1 28468
+Z3
+C-1
+R0
+S
+#28472
+{BLU,BO}An Officer's Tent{b}~
+
+{Y}  An officers tent, they clearly live better than the men.  There is no
+{Y}  visual sign of war here,  the bed is neatly made,  there is some water
+{Y}  and food on a small table next to the bed.  The officers clothes are
+{Y}  neatly stacked and he seems to have several sets of uniforms. {b}
+
+~
+284 16384 2
+D0
+~
+~
+0 -1 28473
+D1
+~
+~
+0 -1 28474
+D3
+~
+tent~
+1 -1 28471
+Z3
+C-1
+R0
+S
+#28473
+{BLU,BO}An Officer's Tent{b}~
+
+{Y}  An officers tent, they clearly live better than the men.  There is no
+{Y}  visual sign of war here,  the bed is neatly made,  there is some water
+{Y}  and food on a small table next to the bed.  The officers clothes are
+{Y}  neatly stacked and he seems to have several sets of uniforms. {b}
+
+~
+284 16384 2
+D2
+~
+~
+0 -1 28472
+Z3
+C-1
+R0
+S
+#28474
+{BLU,BO}An Officer's Tent{b}~
+
+{Y}  An officers tent, they clearly live better than the men.  There is no
+{Y}  visual sign of war here,  the bed is neatly made,  there is some water
+{Y}  and food on a small table next to the bed.  The officers clothes are
+{Y}  neatly stacked and he seems to have several sets of uniforms. {b}
+
+~
+284 16384 2
+D0
+~
+~
+0 -1 28475
+D3
+~
+~
+0 -1 28472
+Z3
+C-1
+R0
+S
+#28475
+{R,BO}The Planning Room{b}~
+
+{BLU,BO}  A big table in the center of this huge tent holds a miniature reproduction
+{BLU,BO}  of the area of Waterloo, little dolls indicate the placement of troops on
+{BLU,BO}  both sides.  Standing around the table are the generals of the French army,
+{BLU,BO}  all of them deferential to the small fat man who is orating while pointing
+{BLU,BO}  at tiny soldiers here and there.{b}
+
+~
+284 16793604 2
+D1
+~
+~
+0 -1 28476
+D2
+~
+~
+0 -1 28474
+Z3
+C-1
+R0
+S
+#28476
+{Y}Napoleon's Tent{b}~
+
+{M}  This is a true monstrosity of a tent.  It is absolutely HUGE!  A larger
+{M}  than life-sized bed is the center-piece of this pinnacle of decadence.  On
+{M}  the bed you see Josephine,  the woman behind the emperor.  If not for her,
+{M}  he might actually have won......  When you look at her, you wonder how she
+{M}  could ever have had that much of an influence on anybody, let alone a
+{M}  megalomaniac like Napoleon.  She sure doesn't do the paintings you've seen
+{M}  of her any justice,  the painters must've been scared stiff to paint
+{M}  the reality.{b}
+
+~
+284 16793600 2
+D0
+~
+~
+0 -1 28428
+D3
+~
+~
+0 -1 28475
+Z3
+C-1
+R0
+S
+#28477
+{C,BO}Before the Path to Enlightenment{b}~
+
+{C}  It is said, that those who conquer their worst enemies, will obtain
+{C}  treasure beyond belief.  It is also said that the path that is to be
+{C}  travelled is the harshest imaginable.  There are words of old that speak
+{C}  of the seven steps,  each providing its own challenge,  each only 
+{C}  attainable through dedication and perseverance.  Each challenge, so it
+{C}  is rumored, can only be met after gaining the Key to the Challenge.{b}
+
+~
+284 16777224 0
+D4
+A huge portal, carved with images of fire and destruction looms over you.
+~
+Fear~
+2 28410 28478
+D5
+~
+gate~
+1 -1 28429
+Z3
+C-1
+R0
+S
+#28478
+{BLA,BO}The First Step{b}~
+
+{BLA,BO}  Those who wish to go beyond their basic instincts first need to 
+{BLA,BO}  conquer their FEAR.  On YOUR way to enlightenment, you will need to
+{BLA,BO}  vanquish your fear.  It is only through facing your fear that you
+{BLA,BO}  may find the courage to continue on this dangerous journey.{b}
+
+~
+284 16793608 0
+D4
+A small, almost invisible, shimmering, piece of the wall casts back your
+destorted reflection.
+~
+Ignorance~
+2 28411 28479
+Z3
+C-1
+R0
+S
+#28479
+{R,BO}The Second Step{b}~
+
+{R,BO}  After conquering your fear, o' Seeker of Light, you will now have
+{R,BO}  to battle your inborn ignorance so you may find the knowledge that
+{R,BO}  you need to continue your strife.  There will be no mercy for those
+{R,BO}  that fail in their quest for knowledge.  Beware Seeker,  for there 
+{R,BO}  are many things that threaten your quest for knowledge.  BEWARE!{b}
+
+~
+284 16793608 0
+D4
+A gigantic, gold ensorcelled double gate takes up the whole wall.
+~
+Pride~
+2 28412 28480
+Z3
+C-1
+R0
+S
+#28480
+{G}The Third Step{b}~
+
+{G,BO}  After showing your Courage,  and gaining your Knowledge,  the pit that
+{G,BO}  faces you is deep indeed.  For now you are threatened with pitfalls of
+{G,BO}  pride. Pride will as surely kill you on your road to enlightenment as
+{G,BO}  any of those.  So now it is time to conquer your pride and find your 
+{G,BO}  inner balance, Seeker!{b}
+
+~
+284 16793608 0
+D4
+A cramped little hole blocks your way.
+~
+Chaos~
+2 28413 28481
+Z3
+C-1
+R0
+S
+#28481
+{Y}The Step of Chaos{b}~
+
+{Y,BO}  You have gained Balance, Knowledge and Courage,  Seeker!  You have
+{Y,BO}  fulfilled the condition that grant you Inner Peace!  Now it is time for
+{Y,BO}  you to expand your horizons,  to battle your selfishness and realize the
+{Y,BO}  true nature of the world around you.  It is time for you to find Chaos
+{Y,BO}  by destroying your limited view.{b}
+
+~
+284 16793608 0
+D4
+A swirling mist makes you dizzy as you look longer and longer into it.
+~
+Order~
+2 28414 28482
+Z3
+C-1
+R0
+S
+#28482
+{BLU}The Step of Order{b}~
+
+{BLU,BO}  Now that you realize that the world around you is as important as the
+{BLU,BO}  world within you,  and have successfully identified the first aspect of
+{BLU,BO}  that world,  Chaos,  it is time for you to look deeper,  to see beyond
+{BLU,BO}  the chaos and recognize the underlying Order.{b}
+
+~
+284 16793608 0
+D4
+A stark white rectangle of some unknown material covers most of the wall.
+~
+Reality~
+2 28415 28483
+Z3
+C-1
+R0
+S
+#28483
+{M}The Step of Reality{b}~
+
+{M,BO}  The recognition of an Order underlying Chaos is a very large step.  But!
+{M,BO}  There is more!  You will have to learn that Order is not the basis of
+{M,BO}  Reality! To gain an understanding, an access to Reality, you will need
+{M,BO}  to perceive the structure that binds the Order to the Chaos,  the balance
+{M,BO}  between the two.  Fight your sense of Order,  my Seeker!  And see reality
+{M,BO}  as it is meant to be!{b}
+
+~
+284 16793608 0
+D4
+A waterfall of colors soothes your fears.
+~
+Light~
+2 28416 28484
+Z3
+C-1
+R0
+S
+#28484
+{C}The Final Step{b}~
+
+{C,BO}  Almost, my Seeker.  Almost.  The last challenge,  the greatest of them
+{C,BO}  all. You will have to fight your concepts of Reality to become truly
+{C,BO}  enlightened. Let me warn you my brave Seeker.  Reality is overwhelming,
+{C,BO}  a concept so grand that it is nearly impossible to do so.  Many, many
+{C,BO}  have tried.  Nearly all have failed.  They may find in Death what they
+{C,BO}  could not gain in life,  but that cannot be of great comfort.......  Be
+{C,BO}  careful my Seeker.  Be very careful........{b}
+
+~
+284 16793608 0
+D4
+A bright light guides your final steps.
+~
+Treasure~
+2 28417 28485
+Z3
+C-1
+R0
+S
+#28485
+{WH,BO}In the Light{b}~
+
+{WH,BO}  CONGRATULATIONS! My Seeker.  I am proud of you.  As foretold, there
+{WH,BO}  are riches beyond your imagination waiting for you here.  Not many have
+{WH,BO}  tread here before you,  it is a place where the dead may visit,  yet
+{WH,BO}  gain nothing.  It is the living that leave this place with glee.  Now,
+{WH,BO}  begone and fare well Seeker,  remember the LIGHT!{b}
+
+~
+284 16777228 0
+D5
+~
+Treasure~
+1 -1 28484
+Z3
+C-1
+R0
+S
+#28486
+{WH,BO}A Junction of Colors{b}~
+
+{R,BO}  You are standing at a crossing between colors,  to the north you can
+{WH,BO}  see a red square, to the east a white square, the south shows a blue
+{BLU,BO}  square and a yellow square can be seen to the west.  It is said that
+{Y,BO}  the way through is given by, first, the colors of his birth,  and then,
+{BLU,BO}  in reverse, the colors of his death, in reverse.  There is also a rumor
+{WH,BO}  that he was born in Amsterdam, and died in New York.  And, the way out
+{R,BO}  comes but once.......{b}
+
+~
+284 16793608 0
+D0
+~
+~
+0 -1 28301
+D1
+~
+~
+0 -1 28308
+D2
+~
+~
+0 -1 28315
+D3
+~
+~
+0 -1 28493
+Z3
+C-1
+R0
+S
+#28487
+{WH,BO}A Junction of Colors{b}~
+
+{R,BO}  You are standing at a crossing between colors,  to the north you can
+{WH,BO}  see a red square, to the east a white square, the south shows a blue
+{BLU,BO}  square and a yellow square can be seen to the west.  It is said that
+{Y,BO}  the way through is given by, first, the colors of his birth,  and then,
+{BLU,BO}  in reverse, the colors of his death, in reverse.  There is also a rumor
+{WH,BO}  that he was born in Amsterdam, and died in New York.  And, the way out
+{R,BO}  comes but once.......{b}
+
+~
+284 16793608 0
+D0
+~
+~
+0 -1 28302
+D1
+~
+~
+0 -1 28309
+D2
+~
+~
+0 -1 28316
+D3
+~
+~
+0 -1 28494
+Z3
+C-1
+R0
+S
+#28488
+{WH,BO}A Junction of Colors{b}~
+
+{R,BO}  You are standing at a crossing between colors,  to the north you can
+{WH,BO}  see a red square, to the east a white square, the south shows a blue
+{BLU,BO}  square and a yellow square can be seen to the west.  It is said that
+{Y,BO}  the way through is given by, first, the colors of his birth,  and then,
+{BLU,BO}  in reverse, the colors of his death, in reverse.  There is also a rumor
+{WH,BO}  that he was born in Amsterdam, and died in New York.  And, the way out
+{R,BO}  comes but once.......{b}
+
+~
+284 16793608 0
+D0
+~
+~
+0 -1 28303
+D1
+~
+~
+0 -1 28310
+D2
+~
+~
+0 -1 28317
+D3
+~
+~
+0 -1 28495
+Z3
+C-1
+R0
+S
+#28489
+{WH,BO}A Junction of Colors{b}~
+
+{R,BO}  You are standing at a crossing between colors,  to the north you can
+{WH,BO}  see a red square, to the east a white square, the south shows a blue
+{BLU,BO}  square and a yellow square can be seen to the west.  It is said that
+{Y,BO}  the way through is given by, first, the colors of his birth,  and then,
+{BLU,BO}  in reverse, the colors of his death, in reverse.  There is also a rumor
+{WH,BO}  that he was born in Amsterdam, and died in New York.  And, the way out
+{R,BO}  comes but once.......{b}
+
+~
+284 16793608 0
+D0
+~
+~
+0 -1 28304
+D1
+~
+~
+0 -1 28311
+D2
+~
+~
+0 -1 28318
+D3
+~
+~
+0 -1 28496
+Z3
+C-1
+R0
+S
+#28490
+{WH,BO}A Junction of Colors{b}~
+
+{R,BO}  You are standing at a crossing between colors,  to the north you can
+{WH,BO}  see a red square, to the east a white square, the south shows a blue
+{BLU,BO}  square and a yellow square can be seen to the west.  It is said that
+{Y,BO}  the way through is given by, first, the colors of his birth,  and then,
+{BLU,BO}  in reverse, the colors of his death, in reverse.  There is also a rumor
+{WH,BO}  that he was born in Amsterdam, and died in New York.  And, the way out
+{R,BO}  comes but once.......{b}
+
+~
+284 16793608 0
+D0
+~
+~
+0 -1 28305
+D1
+~
+~
+0 -1 28312
+D2
+~
+~
+0 -1 28319
+D3
+~
+~
+0 -1 28497
+Z3
+C-1
+R0
+S
+#28491
+{WH,BO}A Junction of Colors{b}~
+
+{R,BO}  You are standing at a crossing between colors,  to the north you can
+{WH,BO}  see a red square, to the east a white square, the south shows a blue
+{BLU,BO}  square and a yellow square can be seen to the west.  It is said that
+{Y,BO}  the way through is given by, first, the colors of his birth,  and then,
+{BLU,BO}  in reverse, the colors of his death, in reverse.  There is also a rumor
+{WH,BO}  that he was born in Amsterdam, and died in New York.  And, the way out
+{R,BO}  comes but once.......{b}
+
+~
+284 16793608 0
+D0
+~
+~
+0 -1 28306
+D1
+~
+~
+0 -1 28313
+D2
+~
+~
+0 -1 28320
+D3
+~
+~
+0 -1 28498
+Z3
+C-1
+R0
+S
+#28492
+{WH,BO}A Junction of Colors{b}~
+
+{R,BO}  You are standing at a crossing between colors,  to the north you can
+{WH,BO}  see a red square, to the east a white square, the south shows a blue
+{BLU,BO}  square and a yellow square can be seen to the west.  It is said that
+{Y,BO}  the way through is given by, first, the colors of his birth,  and then,
+{BLU,BO}  in reverse, the colors of his death, in reverse.  There is also a rumor
+{WH,BO}  that he was born in Amsterdam, and died in New York.  And, the way out
+{R,BO}  comes but once.......{b}
+
+~
+284 16793608 0
+D0
+~
+~
+0 -1 28307
+D1
+~
+~
+0 -1 28314
+D2
+~
+~
+0 -1 28321
+D3
+~
+~
+0 -1 28499
+Z3
+C-1
+R0
+S
+#28493
+{Y}A Yellow Square{b}~
+
+{Y,BO}  Looking around you, you can see nothing but yellow.  The only difference
+{Y,BO}  you can see is that part of it seems not quite the same color of yellow,
+{Y,BO}  and to the east, you can see a crossing of colors.{b}
+
+~
+284 16793736 0
+D1
+~
+~
+0 -1 28486
+Z3
+C-1
+R0
+S
+#28494
+{Y}A Yellow Square{b}~
+
+{Y,BO}  Looking around you, you can see nothing but yellow.  The only difference
+{Y,BO}  you can see is that part of it seems not quite the same color of yellow,
+{Y,BO}  and to the east, you can see a crossing of colors.{b}
+
+~
+284 16793736 0
+D1
+~
+~
+0 -1 28486
+Z3
+C-1
+R0
+S
+#28495
+{Y}A Yellow Square{b}~
+
+{Y,BO}  Looking around you, you can see nothing but yellow.  The only difference
+{Y,BO}  you can see is that part of it seems not quite the same color of yellow,
+{Y,BO}  and to the east, you can see a crossing of colors.{b}
+
+~
+284 16793736 0
+D1
+~
+~
+0 -1 28486
+Z3
+C-1
+R0
+S
+#28496
+{Y}A Yellow Square{b}~
+
+{Y,BO}  Looking around you, you can see nothing but yellow.  The only difference
+{Y,BO}  you can see is that part of it seems not quite the same color of yellow,
+{Y,BO}  and to the east, you can see a crossing of colors.{b}
+
+~
+284 16793736 0
+D1
+~
+~
+0 -1 28486
+Z3
+C-1
+R0
+S
+#28497
+{Y}A Yellow Square{b}~
+
+{Y,BO}  Looking around you, you can see nothing but yellow.  The only difference
+{Y,BO}  you can see is that part of it seems not quite the same color of yellow,
+{Y,BO}  and to the east, you can see a crossing of colors.{b}
+
+~
+284 16793736 0
+D1
+~
+~
+0 -1 28486
+Z3
+C-1
+R0
+S
+#28498
+{Y}A Yellow Square{b}~
+
+{Y,BO}  Looking around you, you can see nothing but yellow.  The only difference
+{Y,BO}  you can see is that part of it seems not quite the same color of yellow,
+{Y,BO}  and to the east, you can see a crossing of colors.{b}
+
+~
+284 16793736 0
+D1
+~
+~
+0 -1 28486
+Z3
+C-1
+R0
+S
+#28499
+{Y}A Yellow Square{b}~
+
+{Y,BO}  Looking around you, you can see nothing but yellow.  The only difference
+{Y,BO}  you can see is that part of it seems not quite the same color of yellow,
+{Y,BO}  and to the east, you can see a crossing of colors.{b}
+
+~
+284 16793736 0
+D1
+~
+~
+0 -1 28300
+Z3
+C-1
+R0
+S
+$~

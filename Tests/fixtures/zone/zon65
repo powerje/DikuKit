@@ -1,0 +1,159 @@
+#65
+The Dwarven Kingdom(Heathen)~
+6599 60 2
+*
+X 8416
+O 0  6520     1  6500    a poster
+O 0  3013     2  6500    {W,BO}A {C}light {W}sword{w,bo}
+M 0  6501     6  6502    dwarven worker
+M 0  6501     6  6503    dwarven worker
+M 0  6501     6  6503    dwarven worker
+O 0  6507     4  6503    long, black stick
+M 0  6500    13  6505    dwarven guard
+E 1  6505     6     5    (BODY) {Y}dwarven plate mail{y}
+E 1  6504     7    16    (WIELD) a hammer
+M 0  6500    13  6505    dwarven guard
+E 1  6505     6     5    (BODY) {Y}dwarven plate mail{y}
+E 1  6504     7    16    (WIELD) a hammer
+E 1  6550     1    17    (HELD) an old key
+M 0  6501     6  6505    dwarven worker
+O 0  6507     4  6505    long, black stick
+D 0  6505     3     2    (W:LOCKED) {Y}Entrance to Mountain{y}
+M 0  6506     2  6508    The giant
+M 0  6500    13  6509    dwarven guard
+E 1  6505     6     5    (BODY) {Y}dwarven plate mail{y}
+E 1  6512     4     9    (HANDS) {BLACK}a pair of {Y}dwarven{y}{BLACK} gloves{black}
+E 1  6509     6    16    (WIELD) a two-handed dwarven axe
+M 0  6500    13  6509    dwarven guard
+E 1  6510     2     6    (HEAD) {Y}a dwarven helmet{y}
+E 1  6509     6    16    (WIELD) a two-handed dwarven axe
+D 0  6509     0     2    (N:LOCKED) {YELLOW}Door to {GREEN,BOLD}Kingdom{red}
+D 0  6510     2     2    (S:LOCKED) {GREEN,BOLD}Path to Castle{white}
+M 0  6500    13  6512    dwarven guard
+E 1  6508    10    16    (WIELD) dwarven club
+M 0  6500    13  6512    dwarven guard
+E 1  6508    10    16    (WIELD) dwarven club
+M 0  6500    13  6512    dwarven guard
+E 1  6508    10    16    (WIELD) dwarven club
+M 0  6500    13  6512    dwarven guard
+E 1  6508    10    16    (WIELD) dwarven club
+D 0  6512     1     2    (E:LOCKED) {YELLOW}Door to {WHITE}Castle{red}
+O 0  6507     4  6513    long, black stick
+D 0  6513     1     2    (E:LOCKED) {BLACK,BOLD}Inside the entr{YELLOW}an{BLACK}ce{white}
+M 0  6503     1  6516    the Hide & Tooth storekeeper
+E 1  6504     7    16    (WIELD) a hammer
+E 1  7909     2    17    (HELD) a huge treasure
+G 1  6551     1     0    {Y}{BOLD}a sturdy{bold}{Y} =={Y}{BOLD}"[{R}X{r}{Y}{BOLD}]"{bold}{Y}=={Y}{BOLD} beltpack{y}
+G 1  6512     4     0    {BLACK}a pair of {Y}dwarven{y}{BLACK} gloves{black}
+G 1  6511     1     0    {Y}the {W}ancient{Y}{BOLD} golden {bol}{Y}ring of the {Y}Dwarves{r}
+G 1  6510     2     0    {Y}a dwarven helmet{y}
+G 1  6505     6     0    {Y}dwarven plate mail{y}
+G 1  6504     7     0    a hammer
+M 0  6505     1  6518    The giant lizard
+M 0  6514     4  6521    the barrack's guard
+E 1  6509     6    16    (WIELD) a two-handed dwarven axe
+M 0  6514     4  6521    the barrack's guard
+E 1  6509     6    16    (WIELD) a two-handed dwarven axe
+M 0  6500    13  6521    dwarven guard
+M 0  6500    13  6521    dwarven guard
+M 0  6500    13  6521    dwarven guard
+M 0  6514     4  6521    the barrack's guard
+E 1  6509     6    16    (WIELD) a two-handed dwarven axe
+M 0  6514     4  6521    the barrack's guard
+E 1  6509     6    16    (WIELD) a two-handed dwarven axe
+D 0  6521     2     1    (S:CLOSED) {GREEN,BOLD}Entrance to {BLACK}barracks{white}
+M 0  6506     2  6522    The giant
+M 0  6511     9  6523    the dwarf
+E 1  7211    12    16    (WIELD) {C}a {R}two-handed{r}{C} scythe{c}
+M 0  6511     9  6523    the dwarf
+E 1  7211    12    16    (WIELD) {C}a {R}two-handed{r}{C} scythe{c}
+M 0  6511     9  6523    the dwarf
+E 1  7211    12    16    (WIELD) {C}a {R}two-handed{r}{C} scythe{c}
+M 0  6511     9  6523    the dwarf
+E 1  7211    12    16    (WIELD) {C}a {R}two-handed{r}{C} scythe{c}
+M 0  6511     9  6523    the dwarf
+E 1  7211    12    16    (WIELD) {C}a {R}two-handed{r}{C} scythe{c}
+M 0  6511     9  6523    the dwarf
+E 1  7211    12    16    (WIELD) {C}a {R}two-handed{r}{C} scythe{c}
+D 0  6523     0     1    (N:CLOSED) {BLACK,BOLD}First Barracks Room{white}
+M 0  6511     9  6524    the dwarf
+E 1  7211    12    16    (WIELD) {C}a {R}two-handed{r}{C} scythe{c}
+M 0  6511     9  6524    the dwarf
+E 1  7211    12    16    (WIELD) {C}a {R}two-handed{r}{C} scythe{c}
+M 0  6511     9  6524    the dwarf
+G 1  6514     1     0    a castle key
+O 0  6513     1  6524    a note
+D 0  6524     5     1    (D:CLOSED) {BLACK,BOLD}Back of the barracks{white}
+M 0  6513     3  6525    the unwanted daughter
+D 0  6525     3     2    (W:LOCKED) {GREEN,BOLD}Inside of Castle Strange{RED}love{red}
+D 0  6526     5     1    (D:CLOSED) {YELLOW}A store room{white}
+M 0  6502     1  6527    a wraith
+E 1  6503     1    17    (HELD) a bright golden key
+D 0  6527     4     1    (U:CLOSED) {RED,BOLD}Wine {red}{RED}Cellar{red}
+D 0  6527     5     1    (D:CLOSED) {RED,BOLD}Wine {red}{RED}Cellar{red}
+M 0  6512     3  6529    the unwanted son
+M 0  6513     3  6529    the unwanted daughter
+M 0  6512     3  6529    the unwanted son
+M 0  6513     3  6530    the unwanted daughter
+M 0  6515     4  6531    the man in waiting
+M 0  6515     4  6531    the man in waiting
+M 0  6515     4  6531    the man in waiting
+M 0  6515     4  6531    the man in waiting
+M 0  6512     3  6531    the unwanted son
+D 0  6531     0     1    (N:CLOSED) {RED,BOLD}Queen's waiting room{red}
+O 0  6516     1  6532    a mine key
+D 0  6532     2     1    (S:CLOSED) {WHITE}B{BOLD}e{red}{RED}d{BOLD}r{red}{RED}o{WHITE}o{BOLD}m{red}
+M 0  6510     4  6534    the dwarven peon
+E 1  7211    12    16    (WIELD) {C}a {R}two-handed{r}{C} scythe{c}
+M 0  6510     4  6534    the dwarven peon
+E 1  7211    12    16    (WIELD) {C}a {R}two-handed{r}{C} scythe{c}
+M 0  6509     1  6534    the dwarven doctor
+E 1  6506     1    17    (HELD) long, black stick
+M 0  6510     4  6534    the dwarven peon
+E 1  7211    12    16    (WIELD) {C}a {R}two-handed{r}{C} scythe{c}
+M 0  6510     4  6534    the dwarven peon
+E 1  7211    12    16    (WIELD) {C}a {R}two-handed{r}{C} scythe{c}
+M 0  6504     1  6535    Granite Head the baker
+E 1  6504     7    16    (WIELD) a hammer
+E 1  7909     2    17    (HELD) a huge treasure
+G 1  3031     2     0    {BOL}{Y}*{y}{W}|{w}{BOL}{BL}A{bl} {Y}Brass{y} {BOL}{BL}Lantern{bl}{BOL}{W}|{w}{BOL}{Y}*{y}
+G 1  3011     2     0    {W,BO}A {R}danish pastry{r,bo}
+G 1  3010     8     0    {W,BO}A {Y}loaf {W}of {Y}bread{y,bo}
+G 1  3003     6     0    a firebreather
+G 1  3000     3     0    A barrel
+M 0  6500    13  6540    dwarven guard
+E 1  6505     6     5    (BODY) {Y}dwarven plate mail{y}
+E 1  6504     7    16    (WIELD) a hammer
+M 0  6500    13  6540    dwarven guard
+E 1  6505     6     5    (BODY) {Y}dwarven plate mail{y}
+E 1  6504     7    16    (WIELD) a hammer
+E 1  6502     1    17    (HELD) a key
+M 0  6501     6  6540    dwarven worker
+M 0  6501     6  6540    dwarven worker
+O 0  6507     4  6540    long, black stick
+D 0  6540     1     2    (E:LOCKED) {BLACK,BOLD}Dark Path{red}
+D 0  6541     3     2    (W:LOCKED) {YELLOW,BOLD}Mine entrance{red}
+M 0  6507     4  6542    A dwarven mineworker
+E 1  6508    10    16    (WIELD) dwarven club
+M 0  6508     2  6543    A dwarven mine leader
+E 1  6512     4     9    (HANDS) {BLACK}a pair of {Y}dwarven{y}{BLACK} gloves{black}
+E 1  6508    10    16    (WIELD) dwarven club
+M 0  6507     4  6543    A dwarven mineworker
+E 1  6508    10    16    (WIELD) dwarven club
+M 0  6508     2  6543    A dwarven mine leader
+E 1  6512     4     9    (HANDS) {BLACK}a pair of {Y}dwarven{y}{BLACK} gloves{black}
+E 1  6508    10    16    (WIELD) dwarven club
+M 0  6507     4  6543    A dwarven mineworker
+E 1  6508    10    16    (WIELD) dwarven club
+M 0  6507     4  6543    A dwarven mineworker
+E 1  6508    10    16    (WIELD) dwarven club
+D 0  6544     0     2    (N:LOCKED) {W}Mine{w} Crossroads
+D 0  6546     2     2    (S:LOCKED) {MAGENTA,BOLD}Mine{YELLOW} Maze{red}
+M 0  6517     2  6548    the giant snake
+M 0  6517     2  6549    the giant snake
+O 0  6518     1  6551    a mining pick
+M 0  6516     1  6553    {WHITE,BOLD}The {RED}Maze{GREEN}keeper{red}
+E 1  6519     1    17    (HELD) {YELLOW,BOLD}A box of{YELLOW,BOLD} Birth{WHITE} C{YELLOW}ontro{WHITE}l {YELLOW}Pills{red}
+M 0 30619     1  6556    A dwarven miner's ghost
+E 1  6517     1    24    (TATTOO) A miners tattoo
+$~

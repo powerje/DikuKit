@@ -1,0 +1,2377 @@
+#17100
+{YELL}Enter the Forest of Talgithir{yell}~
+
+    {YELL}You find yourself wondering though the thick forests
+    of {WHI}Gothir, {YELL}heading towards the {RE}Castle of Talgithir.
+    {YELL}A thick canopy is over your head and not much light is 
+    filtering through. The lack of sound coming from these
+    surroundings are enough to make the sanest of men go
+    crazy. You being to feel a little uneasy.{yell}
+
+~
+171 4 3
+D0
+~
+~
+0 -1 17101
+Z3
+C-1
+R0
+S
+#17101
+{YELLOW}In the Forest of Talgithir{blink}~
+
+    {YELL}Working your way through the thick {GREE}undergrowth, 
+    {YELL}you continue heading north.  There is something
+    pulling you closer to the castle in the distance.
+    Something mysterious continues to lure you past 
+    dozens of {GREE,BO}trees,{gree}{YELL} their branches rustling gently 
+    with the breeze.  You see two towers {RED}looming{YELL} in 
+    the distance, yet never seeming to get any closer.{red}
+
+~
+171 0 3
+D0
+~
+~
+0 -1 17102
+D2
+~
+~
+0 -1 17100
+M50
+Z3
+C-1
+R0
+S
+#17102
+{YELLOW}In the Forest of Talgithir{blink}~
+
+    {YELL}Working your way through the thick {GREE}undergrowth, 
+    {YELL}you continue heading north.  There is something
+    pulling you closer to the castle in the distance.
+    Something mysterious continues to lure you past 
+    dozens of {GREE,BO}trees,{gree}{YELL} their branches rustling gently 
+    with the breeze.  You see two towers {RED}looming{YELL} in 
+    the distance, yet never seeming to get any closer.{red}
+
+~
+171 0 3
+D0
+~
+~
+0 -1 17103
+D2
+~
+~
+0 -1 17101
+Z3
+C-1
+R0
+S
+#17103
+{YELLOW}In the Forest of Talgithir{blink}~
+
+    {YELL}Working your way through the thick {GREE}undergrowth, 
+    {YELL}you continue heading north.  There is something
+    pulling you closer to the castle in the distance.
+    Something mysterious continues to lure you past 
+    dozens of {GREE,BO}trees,{gree}{YELL} their branches rustling gently 
+    with the breeze.  You see two towers {RED}looming{YELL} in 
+    the distance, yet never seeming to get any closer.{red}
+
+~
+171 0 3
+D0
+~
+~
+0 -1 17104
+D2
+~
+~
+0 -1 17102
+Z3
+C-1
+R0
+S
+#17104
+{CYAN}Emerging from the brush{blink}~
+
+    {WHI,BO}You are now standing on a well-traveled
+    road leading to the front gate of the 
+    castle.  You can see the large steeple of
+    a {CYA}monastery{WHI} jutting into the sky to the
+    east, and the sound of voices from inside the
+    castle can be heard.{whi}
+
+~
+171 4 1
+D0
+~
+Castle~
+1 -1 17105
+D2
+~
+~
+0 -1 17103
+Z3
+C-1
+R0
+S
+#17105
+{CYAN}Before the Castle{cya}~
+
+   {WHI,BO}The castle of Talgithir stands before you in granite fortitude. 
+   The castle looks like the perfect defense against the crude weapons of 
+   the infringing Nadir tribes.  The huge doors of the castle are made of 
+   sturdy oak, and there is a raised portcullis that could be dropped to 
+   prevent knocking the doors down.{whi}
+
+~
+171 4 1
+D0
+The Castle of Talgithir
+~
+Castle~
+2 17112 17106
+D2
+~
+Castle~
+1 -1 17104
+Z3
+C-1
+R0
+S
+#17106
+{CYAN}Inside the keep of Talgithir{blink}~
+{WHIT,BO}
+   You look around to see a few hallways and corridors leading to 
+   other parts of the castle.  At the moment, though, you need to not worry
+   about exploring them, for the castle guard seems to think you may have
+   come to do harm to the Earl.  You hear an alarm sound, and you see a few
+   armored men running towards you.
+{blin}
+~
+171 0 1
+D0
+~
+~
+0 -1 17113
+D1
+~
+~
+0 -1 17107
+D2
+~
+Castle~
+1 -1 17105
+D3
+~
+~
+0 -1 17110
+Z3
+C-1
+R0
+S
+#17107
+{CYAN}Down a lavishly decorated hallway{blink}~
+{WHIT}
+    This hallway is covered with beautiful
+    paintings and tapestries, while a soft
+    red carpet has been laid on the floor.
+{blin}
+~
+171 0 1
+D1
+~
+~
+0 -1 17108
+D3
+~
+~
+0 -1 17106
+Z3
+C-1
+R0
+S
+#17108
+{CYAN}End of the Corridor{blink}~
+ {WHITE}
+    Here at the end of the hall, there is an
+    intricately designed door to your left.  The
+    knobs are of beautiful silver and the smell
+    of incense can be scented burning on the other 
+    side of the door.
+{blink}
+~
+171 8 1
+D0
+~
+door~
+2 17113 17109
+D3
+~
+~
+0 -1 17107
+Z3
+C-1
+R0
+S
+#17109
+{CYAN}The Earl of Talgithir.{blin}~
+{WHITE}
+   And elegant room that houses the Earl.  It is obvious that the Earl enjoys
+   beauty and comfort around him.  There is a canopy hanging over the bed,
+   and silk curtains draped from it.  On one side of the room there 
+   is a large desk covered in scrolls in maps.  
+{blin}
+~
+171 8 1
+D2
+~
+door~
+1 -1 17108
+Z3
+C-1
+R0
+S
+#17110
+{CYA} Hallway leading to the Barracks{cyan}~
+
+{WHITE}   This room is a short corridor leading towards the barracks from
+   what you can see.  There are weapons and armor strewn about here, and 
+   it sounds like more soldiers further down the hall.
+{blin}
+~
+171 8 1
+D1
+~
+~
+0 -1 17106
+D3
+~
+~
+0 -1 17111
+Z3
+C-1
+R0
+S
+#17111
+{C}At the end of the Hall{cyan}~
+{WHITE}
+    You now find yourself at the end of the
+    hallway.  This hall is simple but not exquisitely
+    decorated nor extremely clean.
+{blin}
+~
+171 8 1
+D1
+~
+~
+0 -1 17110
+D3
+~
+door~
+1 -1 17112
+Z3
+C-1
+R0
+S
+#17112
+{C}Soldier's Quarters{cya}~
+{WHITE}
+    Unkempt bunks line the walls, some containing
+    sleeping soldiers, others just piles of linen.
+    There are two tables in the middle of the room 
+    at which a few soldiers are playing dice.
+{blin}
+~
+171 0 1
+D1
+~
+door~
+1 -1 17111
+Z3
+C-1
+R0
+S
+#17113
+{CYAN}The rear of the Castle{cyan}~
+{WHITE}
+   This room opens up into a large foyer, and it leads up to an old
+   metal door opening into the forest.  Past that, the Nadren border.  
+   There is a message on the wall reading, "To anyone who ventures past this 
+   door, beware of the Nadren Horde.  Jungir Khan and his wolves are on the 
+   prowl so walk softly...."  You take this in with some interest and 
+   continue on.
+{blin}
+~
+171 0 1
+D0
+~
+Door~
+1 3 17114
+D2
+~
+~
+0 -1 17106
+Z3
+C-1
+R0
+S
+#17114
+{BLU}{BOLD}The mountains of Northern Gothir{blu}~
+{CYAN}
+   A fresh breeze blows past as you take in the beautiful 
+   scenery.  Cedar trees span out in every direction, and there is a 
+   small stream running down the mountain here.  You continue 
+   on your journey, ever so far up into the mountains.
+{blin}
+~
+171 0 5
+D2
+~
+Door~
+1 -1 17113
+D4
+~
+~
+0 -1 17115
+Z3
+C-1
+R0
+S
+#17115
+{BLU}{BOLD}Higher into the mountains{blu}~
+{CYA}
+   Snow can now be seen in places as your ascent continues.  The wind 
+   constantly howling and biting through your clothes.  Luckily, you 
+   are not very far into the winter, and the real cold has not begun.  
+   Delnoch Pass can be detected in the distance above you.
+{blin}
+~
+171 32 5
+D3
+~
+~
+0 -1 17116
+D5
+~
+~
+0 -1 17114
+Z3
+C-1
+R0
+S
+#17116
+{BLU}{BOLD}Higher into the mountains{blu}~
+{CYA}
+   Snow can now be seen in places as your ascent continues.  The wind 
+   constantly howling and biting through your clothes.  Luckily, you 
+   are not very far into the winter, and the real cold has not begun.  
+   Delnoch Pass can be detected in the distance above you.
+{blin}
+~
+171 32 5
+D1
+~
+~
+0 -1 17115
+D3
+~
+~
+0 -1 17120
+D4
+~
+~
+0 -1 17117
+Z3
+C-1
+R0
+S
+#17117
+{BLU}{BOLD}Higher into the mountains{blu}~
+{CYA}
+   Snow can now be seen in places as your ascent continues.  The wind 
+   constantly howling and biting through your clothes.  Luckily, you 
+   are not very far into the winter, and the real cold has not begun.  
+   Delnoch Pass can be detected in the distance above you.
+{blin}
+~
+171 32 5
+D0
+~
+~
+0 -1 17118
+D5
+~
+~
+0 -1 17116
+Z3
+C-1
+R0
+S
+#17118
+{WHITE}{BOLD}At the top of Delnoch Pass{white}~
+{CYAN}
+    You are now at a split in the mountains that 
+    gives you access to the far side.  A blistering 
+    wind howls through here since there are no trees.
+    {blin}
+~
+171 32 5
+D2
+~
+~
+0 -1 17117
+D5
+~
+Pass~
+4 -1 17119
+Z3
+C-1
+R0
+S
+#17119
+{BLA}{BOLD}Lower in the Delnoch Mountains{bla}~
+{BO,BLAC}
+    This side of the mountains is a great
+    transition from the side from whence 
+    you came-there is no green vegetation, 
+    only cactus and sage brush.
+{blin}
+~
+171 0 4
+D0
+~
+~
+0 -1 17139
+D4
+~
+Pass~
+1 -1 17118
+Z3
+C-1
+R0
+S
+#17120
+{BLU}{BOLD}Higher into the mountains{blu}~
+{CYA}
+   Snow can now be seen in places as your ascent continues.  The wind 
+   constantly howling and biting through your clothes.  Luckily, you 
+   are not very far into the winter, and the real cold has not begun.  
+   Delnoch Pass can be detected in the distance above you.
+{blin}
+~
+171 32 5
+D0
+~
+~
+0 -1 17121
+D1
+~
+~
+0 -1 17116
+D3
+~
+~
+0 -1 17124
+Z3
+C-1
+R0
+S
+#17121
+{Y}{BOLD}The cabin{y}~
+{YEL}
+   Inside the cabin, you see two bunks, one perfectly made, the other 
+   made with little care.  You see quivers full of arrows, unfinished 
+   bows, and other miscellaneous archery tools.  There is a wood stove
+   and a small counter on one side of the room, and it is obvious that no 
+   one has been here in a week or two.
+{blin}
+~
+171 0 1
+D2
+~
+~
+0 -1 17120
+Z3
+C-1
+R0
+S
+#17122
+{YELL,BO}Com{yell}{YELL}edi{yell}{YELL,BO}an's {BLA}Hangout{bla}~
+
+A {YELL,BO}room for {yell}{YELL}Comedian{BLA,BO} to create and think{bla}
+
+~
+171 8 5
+M52
+X4194304
+Z3
+C-1
+R0
+S
+#17123
+{CY}Deep in the snow{cy}~
+{WHIT}
+    A blizzard has blown into the pass, and
+    between the howling wind, and the whirling snow
+    you can neither see or hear anything.  Your 
+    exposed skin is immediatly pierced seemingly
+    by thousands of tiny little daggers, better 
+    find your way to shelter quick.
+{blin}
+~
+171 32 5
+D0
+~
+~
+0 -1 17125
+D1
+~
+~
+0 -1 17129
+D2
+~
+~
+0 -1 17124
+D3
+~
+~
+0 -1 17126
+X4194304
+Z0
+C-1
+R0
+S
+#17124
+{CY}Deep in the snow{cy}~
+{WHIT}
+    A blizzard has blown into the pass, and
+    between the howling wind, and the whirling snow
+    you can neither see or hear anything.  Your 
+    exposed skin is immediatly pierced seemingly
+    by thousands of tiny little daggers, better 
+    find your way to shelter quick.
+{blin}
+~
+171 32 5
+D0
+~
+~
+0 -1 17123
+D2
+~
+~
+0 -1 17125
+D3
+~
+~
+0 -1 17127
+X4194304
+Z0
+C-1
+R0
+S
+#17125
+{CY}Deep in the snow{cy}~
+{WHIT}
+    A blizzard has blown into the pass, and
+    between the howling wind, and the whirling snow
+    you can neither see or hear anything.  Your 
+    exposed skin is immediatly pierced seemingly
+    by thousands of tiny little daggers, better 
+    find your way to shelter quick.
+{blin}
+~
+171 32 5
+D0
+~
+~
+0 -1 17124
+D1
+~
+~
+0 -1 17131
+D2
+~
+~
+0 -1 17123
+D3
+~
+~
+0 -1 17128
+X4194304
+Z0
+C-1
+R0
+S
+#17126
+{CY}Deep in the snow{cy}~
+{WHIT}
+    A blizzard has blown into the pass, and
+    between the howling wind, and the whirling snow
+    you can neither see or hear anything.  Your 
+    exposed skin is immediatly pierced seemingly
+    by thousands of tiny little daggers, better 
+    find your way to shelter quick.
+{blin}
+~
+171 32 5
+D0
+~
+~
+0 -1 17128
+D1
+~
+~
+0 -1 17123
+D2
+~
+~
+0 -1 17132
+D3
+~
+~
+0 -1 17129
+X4194304
+Z0
+C-1
+R0
+S
+#17127
+{CY}Deep in the snow{cy}~
+{WHIT}
+    A blizzard has blown into the pass, and
+    between the howling wind, and the whirling snow
+    you can neither see or hear anything.  Your 
+    exposed skin is immediatly pierced seemingly
+    by thousands of tiny little daggers, better 
+    find your way to shelter quick.
+{blin}
+~
+171 32 5
+D0
+~
+~
+0 -1 17126
+D1
+~
+~
+0 -1 17124
+D2
+~
+~
+0 -1 17128
+D3
+~
+~
+0 -1 17130
+X4194304
+Z0
+C-1
+R0
+S
+#17128
+{CY}Deep in the snow{cy}~
+{WHIT}
+    A blizzard has blown into the pass, and
+    between the howling wind, and the whirling snow
+    you can neither see or hear anything.  Your 
+    exposed skin is immediatly pierced seemingly
+    by thousands of tiny little daggers, better 
+    find your way to shelter quick.
+{blin}
+~
+171 32 5
+D0
+~
+~
+0 -1 17127
+D1
+~
+~
+0 -1 17125
+D2
+~
+~
+0 -1 17126
+D3
+~
+~
+0 -1 17131
+X4194304
+Z0
+C-1
+R0
+S
+#17129
+{CY}Deep in the snow{cy}~
+{WHIT}
+    A blizzard has blown into the pass, and
+    between the howling wind, and the whirling snow
+    you can neither see or hear anything.  Your 
+    exposed skin is immediatly pierced seemingly
+    by thousands of tiny little daggers, better 
+    find your way to shelter quick.
+{blin}
+~
+171 32 5
+D0
+~
+~
+0 -1 17131
+D1
+~
+~
+0 -1 17126
+D2
+~
+~
+0 -1 17130
+D3
+~
+~
+0 -1 17123
+X4194304
+Z0
+C-1
+R0
+S
+#17130
+{CY}Deep in the snow{cy}~
+{WHIT}
+    A blizzard has blown into the pass, and
+    between the howling wind, and the whirling snow
+    you can neither see or hear anything.  Your 
+    exposed skin is immediatly pierced seemingly
+    by thousands of tiny little daggers, better 
+    find your way to shelter quick.
+{blin}
+~
+171 32 5
+D0
+~
+~
+0 -1 17129
+D1
+~
+~
+0 -1 17127
+D2
+~
+~
+0 -1 17131
+D3
+~
+~
+0 -1 17124
+X4194304
+Z0
+C-1
+R0
+S
+#17131
+{CY}Deep in the snow{cy}~
+{WHIT}
+    A blizzard has blown into the pass, and
+    between the howling wind, and the whirling snow
+    you can neither see or hear anything.  Your 
+    exposed skin is immediatly pierced seemingly
+    by thousands of tiny little daggers, better 
+    find your way to shelter quick.
+{blin}
+~
+171 32 5
+D0
+~
+~
+0 -1 17130
+D1
+~
+~
+0 -1 17128
+D2
+~
+~
+0 -1 17129
+D3
+~
+~
+0 -1 17125
+X4194304
+Z0
+C-1
+R0
+S
+#17132
+{WHITE}A mountain clearing{blink}~
+{BLAC,BO}
+   The blizzard has cleared, and the wind has died.  All is still.  There 
+   seems to be a path leading down to the  valley below.  There is an ancient 
+   feeling about the path, it seems incredibly old.  Trying to see anything
+   outside of the clearing only reveals a dim picture of thick conifers.  Also,
+   there is a Sathuli burial ground nearby. 
+{blin}
+~
+171 1 5
+D0
+~
+~
+0 -1 17133
+Z3
+C-1
+R0
+S
+#17133
+{WHITE}A stone archway{blink}~
+{BLAC,BO}
+   After trudging through the snow, you have come upon another opening, 
+   only this one contains something much more interesting.  A large stone archway sits
+   in the middle of the meadow.
+{blin}
+~
+171 0 5
+D2
+~
+~
+0 -1 17132
+Z3
+C-1
+R0
+S
+#17134
+{YEL}A sweltering jungle{blink}~
+{GREEN,BO}
+   Huge trees festooned with vines surround you.  The heat is oppressive, 
+   and you begin to sweat in your winter clothing.
+{blin}
+~
+171 16 3
+D0
+~
+~
+0 -1 17135
+Z3
+C-1
+R0
+S
+#17135
+{YEL}A sweltering jungle{blink}~
+{GREEN,BO}
+   Huge trees festooned with vines surround you.  The heat is oppressive, 
+   and you begin to sweat in your winter clothing.
+{blin}
+~
+171 16 3
+D0
+~
+~
+0 -1 17136
+D2
+~
+~
+0 -1 17134
+Z3
+C-1
+R0
+S
+#17136
+{RED}A small village{blink}~
+{YEL}
+   Suddenly you stumble into a village being raided.  People are fleeing
+   while huts burn.  
+{blin}
+~
+171 0 1
+D1
+~
+~
+0 -1 17137
+D2
+~
+~
+0 -1 17135
+Z3
+C-1
+R0
+S
+#17137
+{RED}Steep hill past the village{blink}~
+{BLAC,BO}
+    You slip on some rocks an fall down the hill.
+
+
+                         #$&%*@!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Oof!  You finally stop tumbling.
+{blin}
+~
+171 1048576 1
+D3
+~
+~
+0 -1 17136
+D5
+~
+~
+0 -1 17141
+Z3
+C-1
+R0
+S
+#17138
+{WHITE}At the rear of the arch{blink}~
+{BLAC,BO}
+    You regain your footing behind the stone archway 
+    you arrived here in.  After seeing the raiders and
+    dangerous wildlife, you decide its time to get
+    out of this area.
+{blin}
+~
+171 0 3
+D3
+~
+~
+0 -1 17164
+D4
+~
+~
+0 -1 17141
+Z3
+C-1
+R0
+S
+#17139
+{RED}The Steppes{blink}~
+{YELL}
+       You have entered the Nadir lands!!
+    Jungir Khan is rallying the tribe to attack 
+    the rest of the continent.  Millions of savages, 
+    probably close, watch out.
+{blin}
+~
+171 0 4
+D0
+~
+~
+0 -1 17140
+D2
+~
+~
+0 -1 17119
+Z3
+C-1
+R0
+S
+#17140
+{RED}The Steppes{blink}~
+{YELL}
+       You have entered the Nadir lands!!
+    Jungir Khan is rallying the tribe to attack 
+    the rest of the continent.  Millions of savages, 
+    probably close, watch out.
+{blin}
+~
+171 0 4
+D0
+~
+~
+0 -1 17142
+D2
+~
+~
+0 -1 17139
+Z3
+C-1
+R0
+S
+#17141
+{RED}Falling.....{blink}~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       FALLING!!!!
+
+
+
+
+
+
+
+
+~
+171 1048576 1
+D5
+~
+~
+0 -1 17138
+Z0
+C-1
+R0
+S
+#17142
+{RED}Past the point of no return....{blink}~
+{YELLOW}
+    Ugh, dozens of corpses litter the ground 
+    here, they look like they were Chiatze.
+    These people were just recently slain, 
+    be on the lookout.
+{blin}
+~
+171 0 4
+D0
+~
+~
+0 -1 17143
+D3
+~
+~
+0 -1 17144
+Z3
+C-1
+R0
+S
+#17143
+{RED}The Steppes{blink}~
+{YELLOW}
+    The scenery is getting a little more lush,
+    but it is nothing to the jungle earlier.
+    You can make out a faint drumming noise is
+    the distance.  The danger is rapidly growing,
+    continue on before good sense asserts itself.
+{blin}
+~
+171 0 4
+D0
+~
+~
+0 -1 17145
+D2
+~
+~
+0 -1 17142
+E
+kkk~
+l
+~
+Z3
+C-1
+R0
+S
+#17144
+{RED}An immensly deep canyon{blink}~
+
+
+
+
+                  Your dead...
+
+
+
+
+~
+171 2 9
+Z0
+C-1
+R0
+S
+#17145
+{RED}Approaching a fortress{blink}~
+{BLACK,BO}
+    After miles of trudging through the steppes,
+    the silhouette of a large fortress appears ahead.
+               The fortress of Tenaka!
+    The old khan built it in the height of his reign
+    when he was ruling.  Though it doesn't seem real
+    sturdy.  The nomadic Nadir seem to lack construction
+    skills.
+{blin}
+~
+171 0 4
+D2
+~
+~
+0 -1 17143
+D3
+~
+~
+0 -1 17146
+Z3
+C-1
+R0
+S
+#17146
+{BLACK,BO}Closer to the fotress{blink}~
+{BLAC,BO}
+    As you approach the fortress, you reconsider
+    your previous thoughts about the fortress's weakness
+    it is nearly as strong as the Keep at Talgithir,
+    and boiling with Nadir.  There is a deep gorge 
+    to the north of here.
+{blin}
+~
+171 0 4
+D0
+~
+~
+0 -1 17149
+D1
+~
+~
+0 -1 17145
+D3
+~
+~
+0 -1 17147
+Z3
+C-1
+R0
+S
+#17147
+{BLACK,BO}At the gates{blink}~
+{BLACK,BO}
+    Huge metal gates block the entrance to the
+    castle's courtyard.  The wall is made of solid
+    stone, and obviously there is no other way in.
+{blin}
+~
+171 0 1
+D0
+{BLA,BO}
+Huge iron gates stop you from entering the courtyard.
+{blink}
+~
+Gates~
+2 17106 17148
+D1
+~
+~
+0 -1 17146
+Z3
+C-1
+R0
+S
+#17148
+{BLACK,BO}Inside the courtyard{blink}~
+{BLACK,BO}
+    At a closer look you notice that the castle
+    isn't really a castle, its a giant tent.
+    Realizing this, the castle seems a little less
+    sinister, until you notice the Nadir charging after you.
+{blin}
+~
+171 0 1
+D0
+~
+~
+0 -1 17168
+D2
+~
+Gates~
+1 -1 17147
+Z3
+C-1
+R0
+S
+#17149
+{BLACK,BO}A deep, narrow canyon{blink}~
+{BLAC,BO}
+    The canyon is deep and inky black-a jagged
+    tear in the earth's surface.  For some reason
+    you see no logic in exploring this monstrous 
+    fissure, but good sense would have had you turn
+    back miles ago.
+{blin}
+~
+171 4 5
+D2
+~
+~
+0 -1 17146
+D5
+~
+~
+0 -1 17150
+Z3
+C-1
+R0
+S
+#17150
+{BLACK,BO}Descending{blink}~
+{BLA,BO}
+   Climbing into the inky blackness almost robs you of your courage.  You
+   are forever peering down into the chasm's depths expecting to see a 
+   bottom, but it never appears.
+{blin}
+~
+171 0 5
+D4
+~
+~
+0 -1 17149
+D5
+~
+~
+0 -1 17151
+Z3
+C-1
+R0
+S
+#17151
+{BLACK,BO}Further into the Chasm{blink}~
+{BLAC,BO}
+    Sunlight barely penetrates the depths here.
+    You look around and can see nothing.  You listen 
+    closely and hear the flapping of heavy wings
+    below.  There is a ledge here emanating a gloomy blue light.
+{blin}
+~
+171 4 5
+D3
+~
+~
+0 -1 17153
+D4
+~
+~
+0 -1 17150
+D5
+~
+~
+0 -1 17152
+Z15
+C-1
+R0
+S
+#17152
+{BLACK,BO}Endlessly falling{blink}~
+
+
+
+
+
+
+
+
+
+
+
+
+                   The chasm now opens up to consume you.........
+
+
+
+
+
+
+
+
+
+
+~
+171 3 1
+Z0
+C-1
+R0
+S
+#17153
+{BLACK,BO}Entrance to a small cave{blink}~
+{BLAC,BO}
+    Runic symbols cover the walls.  They hum 
+    eerily as you near them.  The air is stale
+    here, and you are very uncomfortable.  You 
+    look down and see a small hole that seems to
+    be another exit...
+{blin}
+~
+171 5 5
+D1
+~
+~
+0 -1 17151
+D3
+~
+~
+0 -1 17154
+Z15
+C-1
+R0
+S
+#17154
+{BLACK,BO}Gauntlet of darkness{blink}~
+{BLAC,BO}
+    Darkness fills your eyes are you wonder
+    through here.  Everywhere around you, you
+    hear snarls and large wings flapping, and 
+    you notice something breathing heavily behind
+    you.
+{blin}
+~
+171 1 5
+D0
+~
+~
+0 -1 17158
+D1
+~
+~
+0 -1 17157
+D2
+~
+~
+0 -1 17155
+D3
+~
+~
+0 -1 17156
+Z15
+C-1
+R0
+S
+#17155
+{BLACK,BO}Bottomless chasm{blink}~
+
+
+
+
+
+     Sorry guy.....better hurry up and get to TQ
+
+
+
+
+
+~
+171 3 1
+Z20
+C-1
+R0
+S
+#17156
+{BLACK,BO}Bottomless chasm{blink}~
+
+
+
+
+
+
+        Sorry guy.....better hurry up and get to TQ
+
+
+
+
+~
+171 3 1
+Z0
+C-1
+R0
+S
+#17157
+{BLACK,BO}Bottomless chasm{blink}~
+
+
+
+
+
+
+        Sorry guy.....better hurry up and get to TQ
+
+
+
+
+~
+171 3 1
+Z0
+C-1
+R0
+S
+#17158
+{BLACK,BO}Running the gauntlet{blink}~
+ {BLACK,BO}
+    Now that you know that the sounds are 
+    coming from huge, savage animals, you
+    decide to pick up your pace a little.  
+    You realize you're on a ledge, and looking
+    off reveals an infinite fall!
+ {blin}
+~
+171 1 5
+D0
+~
+~
+0 -1 17160
+D1
+~
+~
+0 -1 17161
+D2
+~
+~
+0 -1 17156
+D3
+~
+~
+0 -1 17159
+Z15
+C-1
+R0
+S
+#17159
+{BLACK,BO}Darkness{blink}~
+ {BLACK}
+        Now you really can't make anything
+        out in the darkness.  You stumble
+        on blindly.
+ {blin}
+~
+171 1 1
+D0
+~
+~
+0 -1 17155
+D1
+~
+~
+0 -1 17156
+D2
+~
+~
+0 -1 17155
+D3
+~
+~
+0 -1 17162
+Z15
+C-1
+R0
+S
+#17160
+{BLACK,BO}Bottomless chasm{blink}~
+
+
+
+
+        Whoops, You're dead!
+
+
+ {blin}
+~
+171 3 1
+Z0
+C-1
+R0
+S
+#17161
+{BLACK,BO}Bottomless chasm{blink}~
+
+
+
+
+        Whoops, You're dead!
+
+
+ {blin}
+~
+171 3 1
+Z0
+C-1
+R0
+S
+#17162
+{BLACK,BO}End of the darkness{blink}~
+{RED}
+   Finally, you see a dim light up ahead.  Although its not much light, it illuminates
+   the area around you enough for you to make out your predicament.  Around you there 
+   is a giant rip in the rock running on the ground.  It seems a lifetime deep.  You
+   also see giant claw marks on the ground and walls.....
+{blin}
+~
+171 0 1
+D0
+~
+~
+0 -1 17163
+D1
+~
+~
+0 -1 17159
+D2
+~
+~
+0 -1 17155
+D3
+~
+~
+0 -1 17155
+Z0
+C-1
+R0
+S
+#17163
+{BLACK,BO}Lair of {RED,BO}A{BLACK}s{RED}t{BLACK}a {RED}K{BLACK}h{RED}a{BLACK}n{blink,BLACK,BO}, the shaman of Tenaka{blink}~
+{BLACK,BO}
+   You have entered a cave deep in the Mountains of the Moon.  There is a smell of death and you feel
+   a malevolent presence somewhere, as the hairs on the back of your neck stand on end.  Old bones
+   are scattered around, and a small pile of ashes can be seen near a row of ivory pots filled with something.
+{blin}
+~
+171 16 5
+D2
+~
+~
+0 -1 17162
+Z0
+C-1
+R0
+S
+#17164
+{RED}Village of the T{WH}a{RED}t{WHIT}t{RED}o{WHI}o{RED}e{WHI}d {RED}People{blink}~
+{BLAC,BO}
+   You come upon a small group of the tattooed people that fled
+   the burning village.  They are blinded by their anger and 
+   begin attacking you.
+   {blin}
+~
+171 0 3
+D1
+~
+~
+0 -1 17138
+D3
+~
+~
+0 -1 17165
+Z0
+C-1
+R0
+S
+#17165
+{RED}Village of the T{WH}a{RED}t{WHIT}t{RED}o{WHI}o{RED}e{WHI}d {RED}People{blink}~
+{BLAC,BO}
+   You come upon a small group of the tattooed people that fled
+   the burning village.  They are blinded by their anger and 
+   begin attacking you.
+   {blin}
+~
+171 0 3
+D0
+~
+~
+0 -1 17166
+D1
+~
+~
+0 -1 17164
+Z0
+C-1
+R0
+S
+#17166
+{YEL}A Clearing in the Foliage{blink}~
+
+   A clearing unveils where the tattooed people hide when they are under 
+   attack or in danger.  To the north you see an old man sitting 
+   behind a fire.
+{blink}
+~
+171 0 3
+D0
+~
+~
+0 -1 17167
+D2
+~
+~
+0 -1 17165
+Z0
+C-1
+R0
+S
+#17167
+{RED}The Shaman of the T{WH}a{RE}t{WH}t{RE}o{WH}o{RE}e{WH}d {RE}People{blink}~
+ {BLACK,BO}
+    A small man is here meditating quietly
+    to himself.  You hope your presence doesn't
+    disturb him...
+  {blink}
+~
+171 0 3
+D2
+~
+~
+0 -1 17166
+Z0
+C-1
+R0
+S
+#17168
+{BLA,BO}Before the Great Tent City{blink}~
+{BLA,BO}
+   You have reached what appears to serve as a door to the main tent.  Two massive guards stand
+   on either side of it, hefting rather odd looking spears.
+{blin}
+~
+171 0 1
+D0
+{BLA,BO}
+A large iron door has been secured here.
+{blink}
+~
+Iron~
+2 17107 17169
+D2
+~
+~
+0 -1 17148
+Z3
+C-1
+R0
+S
+#17169
+{BLA,BO}Main Hall of the Great Tent{blin}~
+{BLA,BO}
+   Crude attempts at decorations cover the walls.  It is obvious that the Nadir Horde
+   were wanderers of the steppes before they were united.  Small candles burn in
+   sconces up an down the halls, outlining the Nadir fighters that are advancing on you. 
+{blin}
+~
+171 0 1
+D0
+~
+~
+0 -1 17172
+D1
+~
+~
+0 -1 17171
+D2
+~
+Iron~
+1 -1 17168
+D3
+~
+~
+0 -1 17170
+Z3
+C-1
+R0
+S
+#17170
+{BLA,BO}Main Hall of the Great Tent{blin}~
+{BLA,BO}
+   Crude attempts at decorations cover the walls.  It is obvious that the Nadir Horde
+   were wanderers of the steppes before they were united.  Small candles burn in
+   sconces up an down the halls, outlining the Nadir fighters that are advancing on you. 
+{blin}
+~
+171 0 1
+D0
+~
+~
+2 -1 17173
+D1
+~
+~
+0 -1 17169
+D3
+~
+door~
+2 17108 17178
+Z3
+C-1
+R0
+S
+#17171
+{BLA,BO}Main Hall of the Great Tent{blin}~
+{BLA,BO}
+   Crude attempts at decorations cover the walls.  It is obvious that the Nadir Horde
+   were wanderers of the steppes before they were united.  Small candles burn in
+   sconces up an down the halls, outlining the Nadir fighters that are advancing on you. 
+{blin}
+~
+171 0 1
+D0
+~
+~
+0 -1 17174
+D1
+~
+door~
+2 17115 17176
+D3
+~
+~
+0 -1 17169
+Z3
+C-1
+R0
+S
+#17172
+{BLA,BO}Main Hall of the Great Tent{blin}~
+{BLA,BO}
+   Crude attempts at decorations cover the walls.  It is obvious that the Nadir Horde
+   were wanderers of the steppes before they were united.  Small candles burn in
+   sconces up an down the halls, outlining the Nadir fighters that are advancing on you. 
+{blin}
+~
+171 0 1
+D0
+~
+~
+0 -1 17175
+D1
+~
+~
+0 -1 17174
+D2
+~
+~
+0 -1 17169
+D3
+~
+~
+0 -1 17173
+Z3
+C-1
+R0
+S
+#17173
+{BLA,BO}Main Hall of the Great Tent{blin}~
+{BLA,BO}
+   Crude attempts at decorations cover the walls.  It is obvious that the Nadir Horde
+   were wanderers of the steppes before they were united.  Small candles burn in
+   sconces up an down the halls, outlining the Nadir fighters that are advancing on you. 
+{blin}
+~
+171 0 1
+D1
+~
+~
+0 -1 17172
+D2
+~
+~
+0 -1 17170
+Z3
+C-1
+R0
+S
+#17174
+{BLA,BO}Main Hall of the Great Tent{blin}~
+{BLA,BO}
+   Crude attempts at decorations cover the walls.  It is obvious that the Nadir Horde
+   were wanderers of the steppes before they were united.  Small candles burn in
+   sconces up an down the halls, outlining the Nadir fighters that are advancing on you. 
+{blin}
+~
+171 0 1
+D2
+~
+~
+0 -1 17171
+D3
+~
+~
+0 -1 17172
+Z3
+C-1
+R0
+S
+#17175
+{BLA,BO}Main Hall of the Great Tent{blin}~
+{BLA,BO}
+   Crude attempts at decorations cover the walls.  It is obvious that the Nadir Horde
+   were wanderers of the steppes before they were united.  Small candles burn in
+   sconces up an down the halls, outlining the Nadir fighters that are advancing on you. 
+{blin}
+~
+171 4 1
+D0
+{YEL}
+A door lined in gold, it is obvious this goes to an important place...{blink}
+
+~
+door~
+2 17109 17184
+D2
+~
+~
+0 -1 17172
+Z3
+C-1
+R0
+S
+#17176
+{BLA,BO}Tanaki, Jungir Khan's sister{blink}~
+{WHI}
+   Finally you have come across a room not decorated by savages.  It is obvious
+   that a woman chose everything that is this room.  Beautiful statues and artifacts are placed
+   in various places around the room.  There is a door to the north leading to the bedroom.
+{blin}
+~
+171 4 1
+D0
+~
+~
+0 -1 17177
+D3
+~
+door~
+1 -1 17171
+Z3
+C-1
+R0
+S
+#17177
+{BLA,BO}Tanaki, Jungir Khan's sister{blink}~
+{BLA,BO}
+   Silk sheets and various furs rest on the bed, and a beautiful mirror sits next to it.
+   A beautiful young woman, wearing a skirt of animal fur, and a leather shirt stands here
+   looking at you, quivering with anger....
+{blin}
+~
+171 0 1
+D2
+~
+~
+0 -1 17176
+Z0
+C-1
+R0
+S
+#17178
+{BLACK,BO}Dimly Lit Hallway{blink}~
+{BLA,BO}
+   You can barely make out the doors on either side of the hall. From the appearance you 
+   can guess that this is the guest quarters.
+{blin}
+~
+171 0 1
+D0
+~
+door~
+2 17108 17180
+D1
+~
+door~
+1 -1 17170
+D2
+~
+door~
+2 17108 17181
+D3
+~
+~
+0 -1 17179
+Z3
+C-1
+R0
+S
+#17179
+{BLACK,BO}Dimly Lit Hallway{blink}~
+{BLA,BO}
+   You can barely make out the doors on either side of the hall. From the appearance you 
+   can guess that this is the guest quarters.
+{blin}
+~
+171 0 1
+D0
+~
+door~
+2 17108 17182
+D1
+~
+~
+0 -1 17178
+D2
+~
+door~
+2 17108 17183
+Z3
+C-1
+R0
+S
+#17180
+{BLA,BO}Ambassador's Room{blink}~
+ {BLACK,BO}
+    This is a room where Jungir's visitors rest.
+    There are simple but comfortable furnishings 
+    around, but you can tell this room doesn't
+    get used much.
+   {blink}
+~
+171 0 1
+D2
+~
+door~
+1 -1 17178
+Z3
+C-1
+R0
+S
+#17181
+{BLA,BO}Ambassador's Room{blink}~
+ {BLACK,BO}
+    This is a room where Jungir's visitors rest.
+    There are simple but comfortable furnishings 
+    around, but you can tell this room doesn't
+    get used much.
+   {blink}
+~
+171 0 1
+D0
+~
+door~
+1 -1 17178
+Z3
+C-1
+R0
+S
+#17182
+{BLA,BO}Ambassador's Room{blink}~
+ {BLACK,BO}
+    This is a room where Jungir's visitors rest.
+    There are simple but comfortable furnishings 
+    around, but you can tell this room doesn't
+    get used much.
+   {blink}
+~
+171 0 1
+D2
+~
+door~
+1 -1 17179
+Z3
+C-1
+R0
+S
+#17183
+{BLA,BO}Ambassador's Room{blink}~
+ {BLACK,BO}
+    This is a room where Jungir's visitors rest.
+    There are simple but comfortable furnishings 
+    around, but you can tell this room doesn't
+    get used much.
+   {blink}
+~
+171 0 1
+D0
+~
+door~
+1 -1 17179
+Z3
+C-1
+R0
+S
+#17184
+{BLA,BO}Anteroom{blink}~
+{BLA,BO}
+   This room is covered in maps and other mysterious objects.  Various weapons decorate the wall, and
+   there is a large chair behind a desk covered in scrolls.  It looks to be a room where invasions
+   are planned.  To the north is the throne room.
+{blin}
+~
+171 0 1
+D0
+~
+~
+0 -1 17185
+D2
+~
+door~
+1 -1 17175
+Z3
+C-1
+R0
+S
+#17185
+{BLAC,BO}The Throne of Jungir{blink}~
+ {BLACK,BO}
+    A huge golden throne sits at the top of
+    a small flight of steps at the far
+    end of the room.  Jewels and beautiful weapons
+    line the walls.  There is a huge wolf skin
+    rug in the center of the floor.
+ {blink}
+~
+171 0 1
+D2
+~
+~
+0 -1 17184
+Z3
+C-1
+R0
+S
+#17186
+{CYAN}Som{BOLD}ewh{WHITE}er{BLACK}e ins{blink,WHITE}ide {CYAN,BO}th{WHITE}e {blink,WHITE}mist...{blink}~
+  {BLACK,BO}
+        The mist...
+
+                Where your worst nightmares...
+
+                                      Are waiting...
+
+ {blink}
+~
+171 4210688 8
+D0
+~
+~
+0 -1 17187
+Z3
+C2
+R0
+S
+#17187
+{CYAN}Som{BOLD}ewh{WHITE}er{BLACK}e ins{blink,WHITE}ide {CYAN,BO}th{WHITE}e {blink,WHITE}mist...{blink}~
+  {BLACK,BO}
+        The mist...
+
+                Where your worst nightmares...
+
+                                      Are waiting...
+
+ {blink}
+~
+171 4210688 8
+D2
+~
+~
+0 -1 17186
+D5
+~
+~
+0 -1 17188
+Z3
+C2
+R0
+S
+#17188
+{CYAN}Som{BOLD}ewh{WHITE}er{BLACK}e ins{blink,WHITE}ide {CYAN,BO}th{WHITE}e {blink,WHITE}mist...{blink}~
+  {BLACK,BO}
+        The mist...
+
+                Where your worst nightmares...
+
+                                      Are waiting...
+
+ {blink}
+~
+171 4210688 8
+D1
+~
+~
+0 -1 17189
+D4
+~
+~
+0 -1 17187
+Z3
+C2
+R0
+S
+#17189
+{CYAN}Som{BOLD}ewh{WHITE}er{BLACK}e ins{blink,WHITE}ide {CYAN,BO}th{WHITE}e {blink,WHITE}mist...{blink}~
+  {BLACK,BO}
+        The mist...
+
+                Where your worst nightmares...
+
+                                      Are waiting...
+
+ {blink}
+~
+171 4210688 8
+D3
+~
+~
+0 -1 17188
+D5
+~
+~
+0 -1 17190
+Z3
+C2
+R0
+S
+#17190
+{CYAN}Som{BOLD}ewh{WHITE}er{BLACK}e ins{blink,WHITE}ide {CYAN,BO}th{WHITE}e {blink,WHITE}mist...{blink}~
+  {BLACK,BO}
+        The mist...
+
+                Where your worst nightmares...
+
+                                      Are waiting...
+
+ {blink}
+~
+171 16388 8
+D1
+~
+~
+0 -1 17192
+D4
+~
+~
+0 -1 17189
+Z3
+C-1
+R0
+S
+#17191
+{BLACK,BO}Before the Ancient Castle of Bel-azar{blin}~
+ {BLACK,BO}
+    You have emerged from the mist and are standing
+    before the ancient Castle of Bel-azar.  Many
+    years ago, the Ghosts-Yet-To-Be fought off a Nadir
+    invasion here, and Tenaka Khan was forced
+    back to the steppes.
+ {blink}
+~
+171 0 1
+D0
+~
+~
+0 -1 17195
+Z3
+C-1
+R0
+S
+#17192
+{CYAN}Som{BOLD}ewh{WHITE}er{BLACK}e ins{blink,WHITE}ide {CYAN,BO}th{WHITE}e {blink,WHITE}mist...{blink}~
+  {BLACK,BO}
+        The mist...
+
+                Where your worst nightmares...
+
+                                      Are waiting...
+
+ {blink}
+~
+171 4210688 8
+D3
+~
+~
+0 -1 17190
+D5
+~
+~
+0 -1 17193
+Z3
+C-1
+R0
+S
+#17193
+{CYAN}Som{BOLD}ewh{WHITE}er{BLACK}e ins{blink,WHITE}ide {CYAN,BO}th{WHITE}e {blink,WHITE}mist...{blink}~
+{BLACK,BO}
+
+      The mist.....
+
+                   Where your worst nightmares.....
+
+                                                   Are waiting.......
+
+~
+171 4210688 8
+D4
+~
+~
+0 -1 17192
+D5
+~
+~
+0 -1 17194
+Z3
+C-1
+R0
+S
+#17194
+{CYAN}Som{BOLD}ewh{WHITE}er{BLACK}e ins{blink,WHITE}ide {CYAN,BO}th{WHITE}e {blink,WHITE}mist...{blink}~
+  {BLACK,BO}
+        The mist...
+
+                Where your worst nightmares...
+
+                                      Are waiting...
+
+ {blink}
+~
+171 4210688 8
+D4
+~
+~
+0 -1 17193
+Z3
+C-1
+R0
+S
+#17195
+{BLAC,BO}Before The Ancient Gates{blin}~
+ {BLACK,BO}
+    The ancient gates barely hang on the
+    hinges.  The iron is rusted, and looks
+    almost immovable.
+ {blink}
+~
+171 0 1
+D0
+~
+Gates~
+2 17116 17196
+D2
+~
+~
+0 -1 17191
+Z3
+C-1
+R0
+S
+#17196
+{BLA,BO}Ancient Courtyard{blink}~
+ {BLACK,BO}
+    Piles of stone that have fallen off the wall are
+    scattereed about the edges of the courtyard.  The 
+    ramparts look as if they are about to collapse, as
+    do the towers.  The whole castle is in awful
+    condition, except for the gatehouse...
+ {blink}
+~
+171 0 1
+D0
+~
+~
+0 -1 17197
+D1
+~
+~
+0 -1 48001
+D2
+~
+Gates~
+1 -1 17195
+D3
+~
+~
+0 -1 17198
+Z3
+C-1
+R0
+S
+#17197
+{BLA,BO}Ancient Courtyard{blink}~
+ {BLACK,BO}
+    Piles of stone that have fallen off the wall are
+    scattereed about the edges of the courtyard.  The 
+    ramparts look as if they are about to collapse, as
+    do the towers.  The whole castle is in awful
+    condition, except for the gatehouse...
+ {blink}
+~
+171 0 1
+D0
+~
+~
+0 -1 48004
+D1
+~
+~
+0 -1 48002
+D2
+~
+~
+0 -1 17196
+D3
+~
+~
+0 -1 17199
+Z0
+C-1
+R0
+S
+#17198
+{BLA,BO}Ancient Courtyard{blink}~
+ {BLACK,BO}
+    Piles of stone that have fallen off the wall are
+    scattereed about the edges of the courtyard.  The 
+    ramparts look as if they are about to collapse, as
+    do the towers.  The whole castle is in awful
+    condition, except for the gatehouse...
+ {blink}
+~
+171 0 1
+D0
+~
+~
+0 -1 17199
+D1
+~
+~
+0 -1 17196
+Z0
+C-1
+R0
+S
+#17199
+{BLA,BO}Ancient Courtyard{blink}~
+ {BLACK,BO}
+    Piles of stone that have fallen off the wall are
+    scattereed about the edges of the courtyard.  The 
+    ramparts look as if they are about to collapse, as
+    do the towers.  The whole castle is in awful
+    condition, except for the gatehouse...
+ {blink}
+~
+171 0 1
+D0
+~
+~
+0 -1 48005
+D1
+~
+~
+0 -1 17197
+D2
+~
+~
+0 -1 17198
+Z0
+C-1
+R0
+S
+$~

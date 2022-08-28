@@ -1,0 +1,2452 @@
+#1200
+{BOLD}{BLUE}An Entrance to the Shadows{bold}{blue}~
+{BOLD}{CYAN}
+   You stand withen a dark mist.  Small windows leading to other
+   parts in the realm surround you.  Choose your exit wisely,  for one
+   may lead you to certain death.
+
+~
+12 1032 0
+D0
+~
+~
+0 -1 1212
+D2
+~
+~
+0 -1 1211
+Z-1
+C-1
+R0
+S
+#1201
+{BOLD}{BLUE}An Entrance to the Shadows{bold}{blue}~
+{BOLD}{CYAN}
+   You stand withen a dark mist.  Small windows leading to other
+   parts in the realm surround you.  Choose your exit wisely,  for one
+   may lead you to certain death.
+
+~
+12 1032 0
+D1
+~
+~
+0 -1 1211
+D4
+~
+~
+0 -1 1268
+E
+1211~
+~
+Z-1
+C-1
+R0
+S
+#1202
+{BOLD}{BLUE}An Entrance to the Shadows{bold}{blue}~
+{BOLD}{CYAN}
+   You stand withen a dark mist.  Small windows leading to other
+   parts in the realm surround you.  Choose your exit wisely,  for one
+   may lead you to certain death.
+
+~
+12 1032 0
+D3
+~
+~
+0 -1 1211
+Z-1
+C-1
+R0
+S
+#1203
+{BO,C}The Sanctuary of the {bo,W}+{BO,B}Darknights{bo,W}+{w}~
+
+
+   {BO,CY}You find yourself in complete darkness, your senses void of any
+   feeling. You reach out into the darkness, only to find yourself
+   encased completely in a pit of space. Your pulse quickens as
+   sounds of agony and despair begin to fill your ears. As you stand
+   before the portals that lead to the outside realms, you hear
+   antagonizing screams.  They only remind you that you are entering
+   the mortal world and the safety of the Sanctuary is behind you.{bo,cy}
+
+
+          {BO,MAG}North:{bo,mag}{BO,CY} Golden Temple of Midgaard{bo,cy}
+          {BO,MAG}West:  {BO,CY}Outside the West Gate
+         {BO,MAG} East: {BO,CY} The Timelord's Palace
+         {BO,MAG} South:{BO,CY} Market Square
+          {BO,MAG}Up:    {BO,CY}Eudelta{bo,cy}
+
+
+~
+12 1036 0
+D0
+~
+~
+0 -1 3001
+D1
+~
+~
+0 -1 3156
+D2
+~
+~
+0 -1 3014
+D3
+~
+~
+0 -1 3052
+D4
+~
+~
+0 -1 49881
+D5
+~
+~
+0 -1 1205
+E
+* 
+  *                        `-._ -  -  - ,'                                * 
+  *                            \_____,-'                                  *  
+  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+
+~
+12 65548 0
+D0
+~
+Z-1
+C-1
+R0
+S
+#1204
+{BOLD}{BLUE}The Halls of Ancient Wisdom{bold}{blue}~
+
+   {BO,C}You stand in a large hall made of the purest ivory.  On the walls
+   are tapestries containing the secrets to the locations of the many
+   places to explore in the realm which the +Darknights+ call home.
+
+                           {BO,M}"Keep The Faith"
+
+   {bo,C}Mahn-tor         Kingdom Of Zom     Dragonnia     EC    
+   Valley of Kings  The Abyss          Hawaii        Olympus     Isle of Dread  
+   Paladine's       Jungle of Kong     Drow          Thalos      The Shire  
+   Tower of Doom    Gilligan's         Draconia      Hockey1     Hockey2{c}
+
+~
+12 0 1
+D4
+~
+~
+0 -1 1205
+E
+Mahn-tor~
+   From east gate goto turning point down then all north
+go e, e, d, 3e in coal room enter cave. Then 3s w s e 3s
+d s (blood sea portal) 4s e s e then continue s e until
+you can go up.
+
+~
+E
+Kingdom of Zom~
+
+   From common square d n n n w w n e d d  follow yellow road for
+orb. Follow red for ama.
+
+~
+E
+Dragonnia~
+
+Fron levee s 5w 4n e n 4w (putrid clearing) all d e all d 
+~
+E
+EC~
+ At levee s 11e 3n 3e 
+
+~
+E
+Valley of Kings~
+
+From Market sq go all west till inside tree then s w u e s d. 
+~
+E
+The Abyss~
+From market sq 14e 2s 4d 4e n 3e u u go north till mobs.
+~
+E
+Hawaii~
+
+At levee s 2w 4s e (in pacific) the go e n till shore.
+
+~
+E
+Olympus~
+From east gate all n 2w  all north (stop before Ninjaedge palace)
+3e all s all e all u 
+
+~
+E
+Isle of Dread~
+Fromw levee s 13w 3n (Great Sea) all north Isle
+~
+E
+Paladine's~
+From mk sq 10w n 
+~
+E
+Jungle of Kong~
+from levee s 15w n 
+~
+E
+Drow~
+From turning point 4s 2e s 2e d w s 2d then west
+~
+E
+Thalos~
+
+From turning point 4s all west
+~
+E
+Shire~
+from mk sq 9w all n 
+~
+E
+Tower of Doom~
+From mk sq 12w 7n 
+~
+E
+Gilligan's~
+At levee s 2w 8s 2e all s till island
+~
+E
+Draconia~
+From mk sq 15w n 
+~
+E
+hockey2~
+Back to after I killed the mob.... "hunt manager, hunt, hunt".. After
+I killed it, I hunted manager, and killed him, then I hunted the
+comissioner and killed guards blocking then killed him.. I think the door
+behind the goalie was called boards *shrug*. There you go,
+
+Slider
+~
+E
+hockey1~
+
+s,4w,3s,2
+Started by killing people bocking way.. when I got to the locker room
+bench warmers were not aggressive so I blinded then killed them, they
+wandered in and out of the rooms... I hunted "player" and killed the
+aggressive/wandering hockey players after getting skates from the
+equipment room, and a hockey stick key from another equipment room
+room descriptions told me where they were.. right outside the rink.
+I killed both goalies, one to the north had pads, the one to south
+blocked way to the comissioner....  I hunted manager after clearing
+the locker and the ice skating rink.  reporters are aggressive the
+cameramen weren't. I killed some more bench warmers, and killed a 
+mob that I got to when I typed the following commands: "hunt manager, 
+hunt, hunt". Back at the  beginning of the zone I killed a punk then 
+went up the vent and down the boards, and got a key... then I killed 
+a piece of turd, not sure if there was a hidden room over there though. 
+~
+Z-1
+C-1
+R0
+S
+#1205
+{BOLD}{CYAN}The Sanctuary of the {WHITE}+{BLACK}Darknights{WHITE}+{bold}~
+{BOLD}{CYAN}
+   You are in a great room in the center of the sanctuary.  It is
+   adorned with lavish comforts known only to those of this realm.
+
+   It is here, under the protection of the dark crystal that you may
+   regenerate yourself and rest for the coming battles.  You feel at
+   ease here and know that your brethren stand strongly behind you. 
+   No battle shall ever be fought here without the bloodshed and
+   deaths of those who dare to enter here uninvited.
+{bold}{cyan}
+~
+12 1032 1
+D0
+~
+~
+0 -1 1241
+D1
+~
+~
+0 -1 1206
+D2
+~
+~
+0 -1 1299
+D3
+~
+~
+0 -1 1207
+D4
+~
+~
+0 -1 1203
+D5
+~
+~
+0 -1 1204
+E
+jaccuzie~
+As you look out the sliding glass you see the jaccuzie that was tailor made for 
+War.  You notice that there is steem comming from the surface of the water.
+And one could imagine that the water temperature is set to a perfect 99 degrees.
+Upon further examination you notice that the door to the jaccuzie is locked.
+And that darn key is just not to be found anywhere.  It is juat as securly 
+fasten as the cabnet door to the bar.
+~
+E
+wetbar~
+On the opposite wall from the fireplace there is a built in wetbar.  This bar 
+comes complete with a fully stocked liquer cabnet.  But you notice that the 
+cabnet doors is locked and no matter how hard you try to pry it open it just
+wont budge.....(hey this is not your dads liquer cabnet this is WAR'S private 
+stock).
+~
+E
+fireplace~
+As you gaze into the fireplace you notice that it has hipnotic powers.
+Obviously just the way that War wants it.  It is a magnificent fireplace
+that houses a beautiful fire that will burn forever.  All through those winter
+nights without the aid of anyone have to stir the coals.
+~
+E
+window~
+This is a large bay window from where you can see all of the skiers.
+~
+Z-1
+C-1
+R0
+S
+#1206
+{BOLD}{BLUE}The Armoury of the Great Knight{bold}{blue}~
+{BOLD}{CYAN}
+   This oval room is filled with armor and weapons that have once
+   served the +DK+.  Among them are  shields, Golden Plate Mail,
+   Mahn-tor's Great Axe, Daggers of  Flame, as well as others that do
+   not seem familiar to you.  Near the end of the room is a large
+   golden statue of the Greatest of the Darknights, complete with rare
+   gems for eyes.  It is in this room that unfortunate +DK+ may
+   acquire extra equipment donated by the more fortunate. 
+
+~
+12 66568 1
+D1
+~
+IronDoor~
+1 -1 1265
+D3
+~
+~
+0 -1 1205
+Z-1
+C-1
+R0
+S
+#1207
+{BOLD}{BLUE}Meeting Chamber{bold}{blue}~
+{BO,C}
+   You are standing near the center of a large marble meeting hall.
+   There are intricate carvings on all the exposed surfaces, depicting
+   ancient battles won by the brotherhood.  In the center of the room
+   lies an enormous stone table, seemingly carved from the very earth
+   where it sits.  Over the doorway to the west hangs a painting of a
+   beautiful blonde woman, you are stunned by her beauty though the
+   painting is obviously very old.  Perhaps this is a portrait of an
+   ancient heroine, or just a fancy of Lord Molecular.  No one shall
+   ever know.....    Over the North wall hangs a tapestry with the
+   symbol :
+
+                             {bo,C}+  {BO,BLU}D  K  {bo,C}+
+
+                          {BO,M}"Keep The Faith"{BO,C}
+
+   This is where the Darknights discuss clan business and prepare for
+   upcoming battles and quests.
+
+~
+12 1032 1
+D0
+~
+~
+0 -1 1211
+D1
+~
+~
+0 -1 1205
+D2
+~
+~
+0 -1 1208
+D3
+~
+~
+0 -1 1210
+D4
+~
+~
+0 -1 1213
+Z-1
+C-1
+R0
+S
+#1208
+{BOLD}{BLUE}In the Shadows{bold}{blue}~
+{BOLD}{CYAN}
+   You are just inside the Entrance to the shadows, direction seems to
+   have no meaning here.  You are compelled to move north to the
+   lighted chamber known as the Meeting Hall, but notice that there
+   are magical exits to different corners of the realm from here. 
+   North is the Meeting Hall.
+
+~
+12 1032 1
+D0
+~
+~
+0 -1 1207
+D2
+~
+~
+0 -1 1209
+Z-1
+C-1
+R0
+S
+#1209
+{BOLD}{BLUE}Entrance to the Shadows{bold}{blue}~
+{BOLD}{CYAN}
+   Your standing before a dark entrance into what appears to be a
+   magical shadow.  Beware that only +DK+ may pass this point.
+   _ANYONE_ found inside without authorization shall be
+   terminated on site.  Sweat begins to bead over your brow as you
+   are sure that you saw something in the shadow move...
+
+~
+12 1033 1
+D0
+~
+~
+0 -1 1208
+D2
+~
+IronDoor~
+1 -1 1263
+Z-1
+C-1
+R0
+S
+#1210
+{BOLD}{BLUE}The Trophy Room{bold}{blue}~
+
+                 {BO,W}/{BLU}**********************{W}\
+              {W}({BLU}****************************{W})
+               {W}|{C}\+DK+\{BLU}********************{W}|
+               {W}|{M}**{C}\+DK+\{BLU}******************{W}|
+                {W}|{M}****{C}\+DK+\{BLU}**************{W}| 
+                 {W}|{M}***{C}\+DK+\{BLU}*************{W}|
+                 {W}|{M}*****{C}\+DK+\{BLU}***********{W}| 
+                  {W}\{M}******{C}\+DK+\{BLU}*********{W}/
+                   {W}\{M}*******{C}\+DK+\{BLU}******{W}/ 
+                    {W}\{M}********{C}\+DK+\{BLU}***{W}/   
+                     {W}\{M}********{C}\+DK+\{BLU}*{W}/ 
+                      {W}\{M}*************{W}/
+                       {W}\{M}***********{W}/  
+                        {W}\{M}*********{W}/
+                         {W}\{M}*******{W}/
+                          {W}-------{bo,w}
+
+~
+12 66568 1
+D1
+~
+~
+0 -1 1207
+D3
+~
+IronDoor~
+1 -1 1260
+Z-1
+C-1
+R0
+S
+#1211
+{BOLD}{BLUE}Among the Shadows{bold}{blue}~
+{BOLD}{CYAN}
+   You stand within the dark and mysterious shadows of the Dark
+   Knights Fortress.  Gigantic statues of Knights guard the sides of
+   the walkway as though observing your every move.
+
+   A dark stone ceiling rests some twenty feet above you.  The
+   pungent smell of slain invaders fills the room with the scent of
+   ancient death.
+
+
+          {MAGENTA}Up: {bold}{CYAN}Receptionist{BOLD}
+          {MAGENTA}Down: {bold}{CYAN}Blacksmith{cyan}
+
+
+
+~
+12 1032 0
+D0
+~
+~
+0 -1 1200
+D1
+~
+~
+0 -1 1202
+D2
+~
+~
+0 -1 1207
+D3
+~
+~
+0 -1 1201
+D4
+~
+~
+0 -1 1214
+D5
+~
+~
+0 -1 1215
+Z-1
+C-1
+R0
+S
+#1212
+{BOLD}{BLUE}An Entrance to the Shadows{bold}{blue}~
+{BOLD}{CYAN}
+   You stand withen a dark mist.  Small windows leading to other
+   parts in the realm surround you.  Choose your exit wisely,  for one
+   may lead you to certain death.
+
+~
+12 1032 0
+D0
+~
+IronDoor~
+1 -1 1257
+D2
+~
+~
+0 -1 1200
+Z-1
+C-1
+R0
+S
+#1213
+{BOLD}{BLUE}The Letter Room{bold}{blue}~
+{BOLD}{CYAN}
+   You have entered a small chamber filled with large vases of lilac's
+   and roses.  Towards the southern wall you see a small desk.  While
+   back to the east is a small cubical of mailboxes.
+
+~
+12 17420 1
+D5
+~
+~
+0 -1 1207
+Z-1
+C-1
+R0
+S
+#1214
+{BOLD}{BLUE}The Chamber of Hibernation{bold}{blue}~
+{BOLD}{CYAN}
+   Here is the mystical room of hibernation.  You have seen many of
+   your fellows travel the portal to the fabled realm of science before
+   you.  As you prepare for your journey you take a backward glance
+   at the great hall and reluctantly step into the portal taking with you
+   tales of great adventure to tide you over til next your return.
+
+~
+12 8 0
+D5
+~
+~
+0 -1 1211
+Z-1
+C-1
+R0
+S
+#1215
+{BOLD}{BLUE}The Mighty Weaponsmith{bold}{blue}~
+{BOLD}{CYAN}
+   A small ladder leading up stands behind you.  To both the east and
+   west of you is a small stack of shelves with all kinds of leather and
+   steelworks stacked upon them.
+
+~
+12 1032 0
+D4
+~
+~
+0 -1 1211
+Z-1
+C-1
+R0
+S
+#1216
+{BO}{BLU}Dark Knight's Maze{bo}{blu}~
+{BOLD}{CYAN}
+   The dark ebony walls seem to push in towards you.  Above is a
+   small globe of light that helps to light your path along this massive
+   chamber.  Your soul is filled with dread as a faint scream can be
+   heard echoing off the dark walls.  To the west you see a small
+   stream flowing freely down a trench at the base of the western
+   wall.  This is the land of the Dark Knights. This is the land where
+   boys are made men,  and where fear has no place.
+
+~
+12 1137 5
+D1
+~
+~
+0 -1 3075
+D3
+~
+~
+0 -1 1217
+Z-1
+C-1
+R0
+S
+#1217
+{BOLD}{BLUE}The Lair of the Dark Knights{bold}{blue}~
+{BOLD}{CYAN}
+   The dark ebony walls seem to push in towards you.  Above is a
+   small globe of light that helps to light your path along this massive
+   chamber.  Your soul is filled with dread as a faint scream can be
+   heard echoing off the dark walls.  To the west you see a small
+   stream flowing freely down a trench at the base of the western
+   wall.  This is the land of the Dark Knights. This is the land where
+   boys are made men,  and where fear has no place.
+
+~
+12 1269 5
+D1
+~
+~
+0 -1 1216
+D3
+~
+~
+0 -1 1218
+Z-1
+C-1
+R0
+S
+#1218
+{BOLD}{BLUE}The Lair of the Dark Knights{bold}{blue}~
+{BOLD}{CYAN}
+   The dark ebony walls seem to push in towards you.  Above is a
+   small globe of light that helps to light your path along this massive
+   chamber.  Your soul is filled with dread as a faint scream can be
+   heard echoing off the dark walls.  To the west you see a small
+   stream flowing freely down a trench at the base of the western
+   wall.  This is the land of the Dark Knights. This is the land where
+   boys are made men,  and where fear has no place.
+
+~
+12 1269 5
+D1
+~
+~
+0 -1 1217
+D3
+~
+~
+0 -1 1219
+Z-1
+C-1
+R0
+S
+#1219
+{BOLD}{BLUE}The Lair of the Dark Knights{bold}{blue}~
+{BOLD}{CYAN}
+   The dark ebony walls seem to push in towards you.  Above is a
+   small globe of light that helps to light your path along this massive
+   chamber.  Your soul is filled with dread as a faint scream can be
+   heard echoing off the dark walls.  To the west you see a small
+   stream flowing freely down a trench at the base of the western
+   wall.  This is the land of the Dark Knights. This is the land where
+   boys are made men,  and where fear has no place.
+
+~
+12 1137 5
+D0
+~
+~
+0 -1 1240
+D1
+~
+~
+0 -1 1218
+D2
+~
+~
+0 -1 1240
+D3
+~
+~
+0 -1 1275
+D4
+~
+~
+0 -1 1220
+D5
+~
+~
+0 -1 1240
+Z-1
+C-1
+R0
+S
+#1220
+{BOLD}{BLUE}The Lair of the Dark Knights{bold}{blue}~
+{BOLD}{CYAN}
+   The dark ebony walls seem to push in towards you.  Above is a
+   small globe of light that helps to light your path along this massive
+   chamber.  Your soul is filled with dread as a faint scream can be
+   heard echoing off the dark walls.  To the west you see a small
+   stream flowing freely down a trench at the base of the western
+   wall.  This is the land of the Dark Knights. This is the land where
+   boys are made men,  and where fear has no place.
+
+~
+12 1269 5
+D0
+~
+~
+0 -1 1240
+D1
+~
+~
+0 -1 1219
+D2
+~
+~
+0 -1 1275
+D3
+~
+~
+0 -1 1240
+D4
+~
+~
+0 -1 1221
+D5
+~
+~
+0 -1 1240
+Z-1
+C-1
+R0
+S
+#1221
+{BOLD}{BLUE}The Lair of the Dark Knights{bold}{blue}~
+{BOLD}{CYAN}
+   The dark ebony walls seem to push in towards you.  Above is a
+   small globe of light that helps to light your path along this massive
+   chamber.  Your soul is filled with dread as a faint scream can be
+   heard echoing off the dark walls.  To the west you see a small
+   stream flowing freely down a trench at the base of the western
+   wall.  This is the land of the Dark Knights. This is the land where
+   boys are made men,  and where fear has no place.
+
+~
+12 1137 5
+D0
+~
+~
+0 -1 1240
+D1
+~
+~
+0 -1 1240
+D2
+~
+~
+0 -1 1222
+D3
+~
+~
+0 -1 1240
+D4
+~
+~
+0 -1 1240
+D5
+~
+~
+0 -1 1220
+Z-1
+C-1
+R0
+S
+#1222
+{BOLD}{BLUE}The Lair of the Dark Knights{bold}{blue}~
+{BOLD}{CYAN}
+   The dark ebony walls seem to push in towards you.  Above is a
+   small globe of light that helps to light your path along this massive
+   chamber.  Your soul is filled with dread as a faint scream can be
+   heard echoing off the dark walls.  To the west you see a small
+   stream flowing freely down a trench at the base of the western
+   wall.  This is the land of the Dark Knights. This is the land where
+   boys are made men,  and where fear has no place.
+
+~
+12 1137 5
+D0
+~
+~
+0 -1 1221
+D1
+~
+~
+0 -1 1240
+D2
+~
+~
+0 -1 1240
+D3
+~
+~
+0 -1 1240
+D4
+~
+~
+0 -1 1223
+D5
+~
+~
+0 -1 1240
+Z-1
+C-1
+R0
+S
+#1223
+{BOLD}{BLUE}The Lair of the Dark Knights{bold}{blue}~
+{BOLD}{CYAN}
+   The dark ebony walls seem to push in towards you.  Above is a
+   small globe of light that helps to light your path along this massive
+   chamber.  Your soul is filled with dread as a faint scream can be
+   heard echoing off the dark walls.  To the west you see a small
+   stream flowing freely down a trench at the base of the western
+   wall.  This is the land of the Dark Knights. This is the land where
+   boys are made men,  and where fear has no place.
+
+~
+12 1137 5
+D0
+~
+~
+0 -1 1240
+D1
+~
+~
+0 -1 1224
+D2
+~
+~
+0 -1 1240
+D3
+~
+~
+0 -1 1240
+D4
+~
+~
+0 -1 1240
+D5
+~
+~
+0 -1 1222
+Z-1
+C-1
+R0
+S
+#1224
+{BOLD}{BLUE}The Lair of the Dark Knights{bold}{blue}~
+{BOLD}{CYAN}
+   The dark ebony walls seem to push in towards you.  Above is a
+   small globe of light that helps to light your path along this massive
+   chamber.  Your soul is filled with dread as a faint scream can be
+   heard echoing off the dark walls.  To the west you see a small
+   stream flowing freely down a trench at the base of the western
+   wall.  This is the land of the Dark Knights. This is the land where
+   boys are made men,  and where fear has no place.
+
+~
+12 1137 5
+D0
+~
+~
+0 -1 1225
+D1
+~
+~
+0 -1 1240
+D2
+~
+~
+0 -1 1240
+D3
+~
+~
+0 -1 1223
+D4
+~
+~
+0 -1 1240
+D5
+~
+~
+0 -1 1240
+Z-1
+C-1
+R0
+S
+#1225
+{BOLD}{BLUE}The Lair of the Dark Knights{bold}{blue}~
+{BOLD}{CYAN}
+   The dark ebony walls seem to push in towards you.  Above is a
+   small globe of light that helps to light your path along this massive
+   chamber.  Your soul is filled with dread as a faint scream can be
+   heard echoing off the dark walls.  To the west you see a small
+   stream flowing freely down a trench at the base of the western
+   wall.  This is the land of the Dark Knights. This is the land where
+   boys are made men,  and where fear has no place.
+
+~
+12 1137 5
+D0
+~
+~
+0 -1 1240
+D1
+~
+~
+0 -1 1240
+D2
+~
+~
+0 -1 1224
+D3
+~
+~
+0 -1 1226
+D4
+~
+~
+0 -1 1240
+D5
+~
+~
+0 -1 1240
+Z-1
+C-1
+R0
+S
+#1226
+{BOLD}{BLUE}The Lair of the Dark Knights{bold}{blue}~
+{BOLD}{CYAN}
+   The dark ebony walls seem to push in towards you.  Above is a
+   small globe of light that helps to light your path along this massive
+   chamber.  Your soul is filled with dread as a faint scream can be
+   heard echoing off the dark walls.  To the west you see a small
+   stream flowing freely down a trench at the base of the western
+   wall.  This is the land of the Dark Knights. This is the land where
+   boys are made men,  and where fear has no place.
+
+~
+12 1137 5
+D0
+~
+~
+0 -1 1227
+D1
+~
+~
+0 -1 1225
+D2
+~
+~
+0 -1 1240
+D3
+~
+~
+0 -1 1240
+D4
+~
+~
+0 -1 1240
+D5
+~
+~
+0 -1 1240
+Z-1
+C-1
+R0
+S
+#1227
+{BOLD}{BLUE}The Lair of the Dark Knights{bold}{blue}~
+{BOLD}{CYAN}
+   The dark ebony walls seem to push in towards you.  Above is a
+   small globe of light that helps to light your path along this massive
+   chamber.  Your soul is filled with dread as a faint scream can be
+   heard echoing off the dark walls.  To the west you see a small
+   stream flowing freely down a trench at the base of the western
+   wall.  This is the land of the Dark Knights. This is the land where
+   boys are made men,  and where fear has no place.
+
+~
+12 1137 5
+D0
+~
+~
+0 -1 1240
+D1
+~
+~
+0 -1 1240
+D2
+~
+~
+0 -1 1226
+D3
+~
+~
+0 -1 1240
+D4
+~
+~
+0 -1 1228
+D5
+~
+~
+0 -1 1240
+Z-1
+C-1
+R0
+S
+#1228
+{BOLD}{BLUE}The Lair of the Dark Knights{bold}{blue}~
+{BOLD}{CYAN}
+   The dark ebony walls seem to push in towards you.  Above is a
+   small globe of light that helps to light your path along this massive
+   chamber.  Your soul is filled with dread as a faint scream can be
+   heard echoing off the dark walls.  To the west you see a small
+   stream flowing freely down a trench at the base of the western
+   wall.  This is the land of the Dark Knights. This is the land where
+   boys are made men,  and where fear has no place.
+
+~
+12 1137 5
+D0
+~
+~
+0 -1 1240
+D1
+~
+~
+0 -1 1240
+D2
+~
+~
+0 -1 1240
+D3
+~
+~
+0 -1 1229
+D4
+~
+~
+0 -1 1240
+D5
+~
+~
+0 -1 1227
+Z-1
+C-1
+R0
+S
+#1229
+{BOLD}{BLUE}The Lair of the Dark Knights{bold}{blue}~
+{BOLD}{CYAN}
+   The dark ebony walls seem to push in towards you.  Above is a
+   small globe of light that helps to light your path along this massive
+   chamber.  Your soul is filled with dread as a faint scream can be
+   heard echoing off the dark walls.  To the west you see a small
+   stream flowing freely down a trench at the base of the western
+   wall.  This is the land of the Dark Knights. This is the land where
+   boys are made men,  and where fear has no place.
+
+~
+12 1137 5
+D0
+~
+~
+0 -1 1240
+D1
+~
+~
+0 -1 1228
+D2
+~
+~
+0 -1 1240
+D3
+~
+~
+0 -1 1230
+D4
+~
+~
+0 -1 1240
+D5
+~
+~
+0 -1 1240
+Z-1
+C-1
+R0
+S
+#1230
+{BOLD}{BLUE}The Lair of the Dark Knights{bold}{blue}~
+{BOLD}{CYAN}
+   The dark ebony walls seem to push in towards you.  Above is a
+   small globe of light that helps to light your path along this massive
+   chamber.  Your soul is filled with dread as a faint scream can be
+   heard echoing off the dark walls.  To the west you see a small
+   stream flowing freely down a trench at the base of the western
+   wall.  This is the land of the Dark Knights. This is the land where
+   boys are made men,  and where fear has no place.
+
+~
+12 1269 5
+D0
+~
+~
+0 -1 1240
+D1
+~
+~
+0 -1 1229
+D2
+~
+~
+0 -1 1231
+D3
+~
+~
+0 -1 1275
+D4
+~
+~
+0 -1 1240
+D5
+~
+~
+0 -1 1240
+Z-1
+C-1
+R0
+S
+#1231
+{BOLD}{BLUE}The Lair of the Dark Knights{bold}{blue}~
+{BOLD}{CYAN}
+   The dark ebony walls seem to push in towards you.  Above is a
+   small globe of light that helps to light your path along this massive
+   chamber.  Your soul is filled with dread as a faint scream can be
+   heard echoing off the dark walls.  To the west you see a small
+   stream flowing freely down a trench at the base of the western
+   wall.  This is the land of the Dark Knights. This is the land where
+   boys are made men,  and where fear has no place.
+
+~
+12 1137 5
+D0
+~
+~
+0 -1 1230
+D1
+~
+~
+0 -1 1240
+D2
+~
+~
+0 -1 1240
+D3
+~
+~
+0 -1 1240
+D4
+~
+~
+0 -1 1240
+D5
+~
+~
+0 -1 1232
+Z-1
+C-1
+R0
+S
+#1232
+{BOLD}{BLUE}The Lair of the Dark Knights{bold}{blue}~
+{BOLD}{CYAN}
+   The dark ebony walls seem to push in towards you.  Above is a
+   small globe of light that helps to light your path along this massive
+   chamber.  Your soul is filled with dread as a faint scream can be
+   heard echoing off the dark walls.  To the west you see a small
+   stream flowing freely down a trench at the base of the western
+   wall.  This is the land of the Dark Knights. This is the land where
+   boys are made men,  and where fear has no place.
+
+~
+12 1137 5
+D0
+~
+~
+0 -1 1240
+D1
+~
+~
+0 -1 1240
+D2
+~
+~
+0 -1 1233
+D3
+~
+~
+0 -1 1240
+D4
+~
+~
+0 -1 1231
+D5
+~
+~
+0 -1 1240
+Z-1
+C-1
+R0
+S
+#1233
+{BOLD}{BLUE}The Lair of the Dark Knights{bold}{blue}~
+{BOLD}{CYAN}
+   The dark ebony walls seem to push in towards you.  Above is a
+   small globe of light that helps to light your path along this massive
+   chamber.  Your soul is filled with dread as a faint scream can be
+   heard echoing off the dark walls.  To the west you see a small
+   stream flowing freely down a trench at the base of the western
+   wall.  This is the land of the Dark Knights. This is the land where
+   boys are made men,  and where fear has no place.
+
+~
+12 1137 5
+D0
+~
+~
+0 -1 1232
+D1
+~
+~
+0 -1 1234
+D2
+~
+~
+0 -1 1240
+D3
+~
+~
+0 -1 1240
+D4
+~
+~
+0 -1 1240
+D5
+~
+~
+0 -1 1240
+Z-1
+C-1
+R0
+S
+#1234
+{BOLD}{BLUE}The Lair of the Dark Knights{bold}{blue}~
+{BOLD}{CYAN}
+   The dark ebony walls seem to push in towards you.  Above is a
+   small globe of light that helps to light your path along this massive
+   chamber.  Your soul is filled with dread as a faint scream can be
+   heard echoing off the dark walls.  To the west you see a small
+   stream flowing freely down a trench at the base of the western
+   wall.  This is the land of the Dark Knights. This is the land where
+   boys are made men,  and where fear has no place.
+
+~
+12 1137 5
+D0
+~
+~
+0 -1 1235
+D1
+~
+~
+0 -1 1240
+D2
+~
+~
+0 -1 1240
+D3
+~
+~
+0 -1 1233
+D4
+~
+~
+0 -1 1240
+D5
+~
+~
+0 -1 1240
+Z-1
+C-1
+R0
+S
+#1235
+{BOLD}{BLUE}The Lair of the Dark Knights{bold}{blue}~
+{BOLD}{CYAN}
+   The dark ebony walls seem to push in towards you.  Above is a
+   small globe of light that helps to light your path along this massive
+   chamber.  Your soul is filled with dread as a faint scream can be
+   heard echoing off the dark walls.  To the west you see a small
+   stream flowing freely down a trench at the base of the western
+   wall.  This is the land of the Dark Knights. This is the land where
+   boys are made men,  and where fear has no place.
+
+~
+12 1269 5
+D0
+~
+~
+0 -1 1240
+D1
+~
+~
+0 -1 1240
+D2
+~
+~
+0 -1 1234
+D3
+~
+~
+0 -1 1240
+D4
+~
+~
+0 -1 1240
+D5
+~
+~
+0 -1 1236
+Z-1
+C-1
+R0
+S
+#1236
+{BOLD}{BLUE}The Lair of the Dark Knights{bold}{blue}~
+{BOLD}{CYAN}
+   The dark ebony walls seem to push in towards you.  Above is a
+   small globe of light that helps to light your path along this massive
+   chamber.  Your soul is filled with dread as a faint scream can be
+   heard echoing off the dark walls.  To the west you see a small
+   stream flowing freely down a trench at the base of the western
+   wall.  This is the land of the Dark Knights. This is the land where
+   boys are made men,  and where fear has no place.
+
+~
+12 1137 5
+D0
+~
+~
+0 -1 1240
+D1
+~
+~
+0 -1 1237
+D2
+~
+~
+0 -1 1240
+D3
+~
+~
+0 -1 1240
+D4
+~
+~
+0 -1 1235
+D5
+~
+~
+0 -1 1240
+Z-1
+C-1
+R0
+S
+#1237
+{BOLD}{BLUE}The Lair of the Dark Knights{bold}{blue}~
+{BOLD}{CYAN}
+   The dark ebony walls seem to push in towards you.  Above is a
+   small globe of light that helps to light your path along this massive
+   chamber.  Your soul is filled with dread as a faint scream can be
+   heard echoing off the dark walls.  To the west you see a small
+   stream flowing freely down a trench at the base of the western
+   wall.  This is the land of the Dark Knights. This is the land where
+   boys are made men,  and where fear has no place.
+
+~
+12 1137 5
+D0
+~
+~
+0 -1 1240
+D1
+~
+~
+0 -1 1240
+D2
+~
+~
+0 -1 1240
+D3
+~
+~
+0 -1 1236
+D4
+~
+~
+0 -1 1240
+D5
+~
+~
+0 -1 1238
+Z-1
+C-1
+R0
+S
+#1238
+{BOLD}{BLUE}The Lair of the Dark Knights{bold}{blue}~
+{BOLD}{CYAN}
+   The dark ebony walls seem to push in towards you.  Above is a
+   small globe of light that helps to light your path along this massive
+   chamber.  Your soul is filled with dread as a faint scream can be
+   heard echoing off the dark walls.  To the west you see a small
+   stream flowing freely down a trench at the base of the western
+   wall.  This is the land of the Dark Knights. This is the land where
+   boys are made men,  and where fear has no place.
+
+~
+12 1137 5
+D0
+~
+~
+0 -1 1240
+D1
+~
+~
+0 -1 1240
+D2
+~
+~
+0 -1 1240
+D3
+~
+~
+0 -1 1239
+D4
+~
+~
+0 -1 1237
+D5
+~
+~
+0 -1 1240
+Z-1
+C-1
+R0
+S
+#1239
+{BO}{BLU}Dark Knight's Maze{bo}{blu}~
+{BOLD}{CYAN}
+   The dark ebony walls seem to push in towards you.  Above is a
+   small globe of light that helps to light your path along this massive
+   chamber.  Your soul is filled with dread as a faint scream can be
+   heard echoing off the dark walls.  To the west you see a small
+   stream flowing freely down a trench at the base of the western
+   wall.  This is the land of the Dark Knights. This is the land where
+   boys are made men,  and where fear has no place.
+
+~
+12 1141 5
+D0
+~
+~
+0 -1 1240
+D1
+~
+~
+0 -1 1238
+D2
+~
+~
+0 -1 1240
+D3
+~
+~
+0 -1 1209
+D4
+~
+~
+0 -1 1240
+D5
+~
+~
+0 -1 1240
+Z-1
+C-1
+R0
+S
+#1240
+{BOLD}{BLUE}The Lair of the Dark Knights{bold}{blue}~
+{BOLD}{CYAN}
+   The dark ebony walls seem to push in towards you.  Above is a
+   small globe of light that helps to light your path along this massive
+   chamber.  Your soul is filled with dread as a faint scream can be
+   heard echoing off the dark walls.  To the west you see a small
+   stream flowing freely down a trench at the base of the western
+   wall.  This is the land of the Dark Knights. This is the land where
+   boys are made men,  and where fear has no place.
+
+~
+12 1049713 5
+D2
+~
+~
+0 -1 1219
+D5
+~
+~
+0 -1 1222
+Z-1
+C-1
+R0
+S
+#1241
+{BOLD}{BLUE}The Hall of the Great Knights{bold}{blue}~
+{BOLD}{CYAN}
+   You have entered a long ebony hallway.  It echos sharply as your
+   footsteps fall upon it.  You see large statues along the walls and
+   you can see doorways all along either side.  
+
+   As you walk along the cold floor you wonder if you should be
+   here, and you can feel the presence of greater beings.  The souls of
+   the past heroes of DK reside still in these halls.
+
+~
+12 16 1
+D0
+~
+~
+0 -1 1242
+D1
+~
+~
+0 -1 1247
+D2
+~
+~
+0 -1 1205
+D3
+~
+~
+0 -1 1246
+Z-1
+C-1
+R0
+S
+#1242
+{BOLD}{BLUE}The Hall of the Great Knights{bold}{blue}~
+{BOLD}{CYAN}
+   You have entered a long ebony hallway.  It echos sharply as your
+   footsteps fall upon it.  You see large statues along the walls and
+   you can see doorways all along either side.  
+
+   As you walk along the cold floor you wonder if you should be
+   here, and you can feel the presence of greater beings.  The souls of
+   the past heroes of DK reside still in these halls.
+
+~
+12 0 1
+D0
+~
+~
+0 -1 1243
+D1
+~
+~
+0 -1 1249
+D2
+~
+~
+0 -1 1241
+D3
+~
+~
+0 -1 1248
+Z-1
+C-1
+R0
+S
+#1243
+{BOLD}{BLUE}The Hall of the Great Knights{bold}{blue}~
+{BOLD}{CYAN}
+   You have entered a long ebony hallway.  It echos sharply as your
+   footsteps fall upon it.  You see large statues along the walls and
+   you can see doorways all along either side.  
+
+   As you walk along the cold floor you wonder if you should be
+   here, and you can feel the presence of greater beings.  The souls of
+   the past heroes of DK reside still in these halls.
+
+~
+12 0 1
+D0
+~
+~
+0 -1 1244
+D1
+~
+~
+0 -1 1251
+D2
+~
+~
+0 -1 1242
+D3
+~
+~
+0 -1 1250
+Z-1
+C-1
+R0
+S
+#1244
+{BOLD}{BLUE}The Hall of the Great Knights{bold}{blue}~
+{BOLD}{CYAN}
+   You have entered a long ebony hallway.  It echos sharply as your
+   footsteps fall upon it.  You see large statues along the walls and
+   you can see doorways all along either side.  
+
+   As you walk along the cold floor you wonder if you should be
+   here, and you can feel the presence of greater beings.  The souls of
+   the past heroes of DK reside still in these halls.
+
+~
+12 0 1
+D0
+~
+~
+0 -1 1245
+D1
+~
+~
+0 -1 1253
+D2
+~
+~
+0 -1 1243
+D3
+~
+~
+0 -1 1252
+Z-1
+C-1
+R0
+S
+#1245
+{BOLD}{BLUE}The Hall of the Great Knights{bold}{blue}~
+{BOLD}{CYAN}
+   You have entered a long ebony hallway.  It echos sharply as your
+   footsteps fall upon it.  You see large statues along the walls and
+   you can see doorways all along either side.  
+
+   As you walk along the cold floor you wonder if you should be
+   here, and you can feel the presence of greater beings.  The souls of
+   the past heroes of DK reside still in these halls.
+
+~
+12 0 1
+D0
+~
+~
+0 -1 1256
+D1
+~
+~
+0 -1 1255
+D2
+~
+~
+0 -1 1244
+D3
+~
+~
+0 -1 1254
+Z-1
+C-1
+R0
+S
+#1246
+{BLU}{BOLD}Gwynn's Tomb{blu}~
+
+{CYAN}{BOLD}Lying in a coffin of jewels and soft linens, the lifeless
+body of Gwynn is resting in peace. She was a kind person and
+always tried to help. She has taught fellow dk members to 
+show compassion for everyone and to help those in need.
+
+She will be remembered for her kind heart and soft nature.
+May the spirit of Gwynn rest in peace and find happinness as
+it wanders through the land of heaven.{cyan}
+
+~
+12 0 1
+D1
+~
+~
+0 -1 1241
+Z-1
+C-1
+R0
+S
+#1247
+{BLU}{BOLD}Molecular's Tomb{blu}{bold}~
+
+{CYAN}{BOLD}Here lies a brave and honorable DK warrior. He served
+this club with faithfulness and honor. He was brave 
+and courageous. 
+
+He will always be remembered as a true DK warrior.
+May his legacy live on forever in the minds of all
+DK.ers. May he rest in peace.{cyan}
+
+~
+12 0 1
+D3
+~
+~
+0 -1 1241
+Z-1
+C-1
+R0
+S
+#1248
+{BOLD}{BLUE}An Empty Tomb{bold}{blue}~
+{BOLD}{CYAN}
+   You are standing in an immense domed room.  The flames of the
+   sconces flicker along the intricately textured reliefs in the walls
+   and ceiling.  There is an empty sarcophagus in the center of the
+   room.
+
+   The room has been painstakingly prepared for the eternal resting
+   place of a fallen Dark Knight.  You hope that you will not see this
+   room soon, but pride fills your heart at the prospect.
+
+~
+12 262144 1
+D1
+~
+~
+0 -1 1242
+Z-1
+C-1
+R0
+S
+#1249
+{BOLD}{BLUE}An Empty Tomb{bold}{blue}~
+{BOLD}{CYAN}
+   You are standing in an immense domed room.  The flames of the
+   sconces flicker along the intricately textured reliefs in the walls
+   and ceiling.  There is an empty sarcophagus in the center of the
+   room.
+
+   The room has been painstakingly prepared for the eternal resting
+   place of a fallen Dark Knight.  You hope that you will not see this
+   room soon, but pride fills your heart at the prospect.
+
+~
+12 262144 1
+D3
+~
+~
+0 -1 1242
+Z-1
+C-1
+R0
+S
+#1250
+{B}T{BLU}h{B}e {BLU}H{B}al{BLU}l {B}of {BLU}Av{B}ata{BLU}rs{blu}~
+{B}
+   You walk into the room and marvel at the tranquility of it all. All through
+the room hangs large tapestries depicting a great many battles. The same person
+is depicted in all of them, but no. There are subtle differences within each 
+of the people pictured. Perhaps they are related in some way...
+   As you make your way through the room your questions about the tapestries
+are answered for there in the center of the far wall is the largest of them
+all. It is a tapestry depicting the God {BLU}Demnos{B} in all his glory. The faces 
+that you have seen throughout the other tapestries mirror his own. It is then
+that you realize that all the others are his avatars sent to the mortal realms
+to spread the word of his faith. They are but splinters of himself existing
+with but a thought.
+{b}
+~
+12 65548 0
+D1
+~
+~
+0 -1 1243
+X2048
+Z-1
+C-1
+R0
+S
+#1251
+{BOLD}{BLUE}An Empty Tomb{bold}{blue}~
+{BOLD}{CYAN}
+   You are standing in an immense domed room.  The flames of the
+   sconces flicker along the intricately textured reliefs in the walls
+   and ceiling.  There is an empty sarcophagus in the center of the
+   room.
+
+   The room has been painstakingly prepared for the eternal resting
+   place of a fallen Dark Knight.  You hope that you will not see this
+   room soon, but pride fills your heart at the prospect.
+
+~
+12 262144 1
+D3
+~
+~
+0 -1 1243
+Z-1
+C-1
+R0
+S
+#1252
+{BOLD}{BLUE}An Empty Tomb{bold}{blue}~
+{BOLD}{CYAN}
+   You are standing in an immense domed room.  The flames of the
+   sconces flicker along the intricately textured reliefs in the walls
+   and ceiling.  There is an empty sarcophagus in the center of the
+   room.
+
+   The room has been painstakingly prepared for the eternal resting
+   place of a fallen Dark Knight.  You hope that you will not see this
+   room soon, but pride fills your heart at the prospect.
+
+~
+12 262144 1
+D1
+~
+~
+0 -1 1244
+Z-1
+C-1
+R0
+S
+#1253
+{BOLD}{BLUE}An Empty Tomb{bold}{blue}~
+{BOLD}{CYAN}
+   You are standing in an immense domed room.  The flames of the
+   sconces flicker along the intricately textured reliefs in the walls
+   and ceiling.  There is an empty sarcophagus in the center of the
+   room.
+
+   The room has been painstakingly prepared for the eternal resting
+   place of a fallen Dark Knight.  You hope that you will not see this
+   room soon, but pride fills your heart at the prospect.
+
+~
+12 262144 1
+D3
+~
+~
+0 -1 1244
+Z-1
+C-1
+R0
+S
+#1254
+{BOLD}{BLUE}An Empty Tomb{bold}{blue}~
+{BOLD}{CYAN}
+   You are standing in an immense domed room.  The flames of the
+   sconces flicker along the intricately textured reliefs in the walls
+   and ceiling.  There is an empty sarcophagus in the center of the
+   room.
+
+   The room has been painstakingly prepared for the eternal resting
+   place of a fallen Dark Knight.  You hope that you will not see this
+   room soon, but pride fills your heart at the prospect.
+
+~
+12 262144 1
+D1
+~
+~
+0 -1 1245
+Z-1
+C-1
+R0
+S
+#1255
+{BOLD}{BLUE}An Empty Tomb{bold}{blue}~
+{BOLD}{CYAN}
+   You are standing in an immense domed room.  The flames of the
+   sconces flicker along the intricately textured reliefs in the walls
+   and ceiling.  There is an empty sarcophagus in the center of the
+   room.
+
+   The room has been painstakingly prepared for the eternal resting
+   place of a fallen Dark Knight.  You hope that you will not see this
+   room soon, but pride fills your heart at the prospect.
+
+~
+12 262144 1
+D3
+~
+~
+0 -1 1245
+Z-1
+C-1
+R0
+S
+#1256
+{BOLD}{BLUE}An Empty Tomb{bold}{blue}~
+{BOLD}{CYAN}
+   You are standing in an immense domed room.  The flames of the
+   sconces flicker along the intricately textured reliefs in the walls
+   and ceiling.  There is an empty sarcophagus in the center of the
+   room.
+
+   The room has been painstakingly prepared for the eternal resting
+   place of a fallen Dark Knight.  You hope that you will not see this
+   room soon, but pride fills your heart at the prospect.
+
+~
+12 262144 1
+D2
+~
+~
+0 -1 1245
+Z-1
+C-1
+R0
+S
+#1257
+{BO,BLU}A Dimly Lit Stone Corridor{bo,b}~
+{BO,C}
+   You find yourself walking along a long dark corridor deep
+   within the halls of this great fortress.  The walls are made
+   of large coarsely textured stone, and are cold to the touch.
+   You can see the dim flickering of sconces, and the warmth of
+   the light plays about the soft folds of the tapestries hung
+   along some of the walls.
+
+~
+12 0 1
+D1
+~
+~
+0 -1 1267
+D2
+~
+IronDoor~
+1 -1 1212
+D3
+~
+~
+0 -1 1258
+Z-1
+C-1
+R0
+S
+#1258
+{BO,BLU}A Dimly Lit Stone Corridor{bo,b}~
+{BO,C}
+   You find yourself walking along a long dark corridor deep
+   within the halls of this great fortress.  The walls are made
+   of large coarsely textured stone, and are cold to the touch.
+   You can see the dim flickering of sconces, and the warmth of
+   the light plays about the soft folds of the tapestries hung
+   along some of the walls.
+
+~
+12 0 1
+D1
+~
+~
+0 -1 1257
+D3
+~
+~
+0 -1 1259
+Z-1
+C-1
+R0
+S
+#1259
+{BO,BLU}A Dimly Lit Stone Corridor{bo,b}~
+{BO,C}
+   You find yourself walking along a long dark corridor deep
+   within the halls of this great fortress.  The walls are made
+   of large coarsely textured stone, and are cold to the touch.
+   You can see the dim flickering of sconces, and the warmth of
+   the light plays about the soft folds of the tapestries hung
+   along some of the walls.
+
+~
+12 0 1
+D1
+~
+~
+0 -1 1258
+D2
+~
+~
+0 -1 1260
+Z-1
+C-1
+R0
+S
+#1260
+{BO,BLU}A Dimly Lit Stone Corridor{bo,b}~
+{BO,C}
+   You find yourself walking along a long dark corridor deep
+   within the halls of this great fortress.  The walls are made
+   of large coarsely textured stone, and are cold to the touch.
+   You can see the dim flickering of sconces, and the warmth of
+   the light plays about the soft folds of the tapestries hung
+   along some of the walls.
+
+~
+12 0 1
+D0
+~
+~
+0 -1 1259
+D1
+~
+IronDoor~
+1 -1 1210
+D2
+~
+~
+0 -1 1261
+Z-1
+C-1
+R0
+S
+#1261
+{BO,BLU}A Dimly Lit Stone Corridor{bo,b}~
+{BO,C}
+   You find yourself walking along a long dark corridor deep
+   within the halls of this great fortress.  The walls are made
+   of large coarsely textured stone, and are cold to the touch.
+   You can see the dim flickering of sconces, and the warmth of
+   the light plays about the soft folds of the tapestries hung
+   along some of the walls.
+
+~
+12 0 1
+D0
+~
+~
+0 -1 1260
+D1
+~
+~
+0 -1 1262
+Z-1
+C-1
+R0
+S
+#1262
+{BO,BLU}A Dimly Lit Stone Corridor{bo,b}~
+{BO,C}
+   You find yourself walking along a long dark corridor deep
+   within the halls of this great fortress.  The walls are made
+   of large coarsely textured stone, and are cold to the touch.
+   You can see the dim flickering of sconces, and the warmth of
+   the light plays about the soft folds of the tapestries hung
+   along some of the walls.
+
+~
+12 0 1
+D1
+~
+~
+0 -1 1263
+D3
+~
+~
+0 -1 1261
+Z-1
+C-1
+R0
+S
+#1263
+{BO,BLU}A Dimly Lit Stone Corridor{bo,b}~
+{BO,C}
+   You find yourself walking along a long dark corridor deep
+   within the halls of this great fortress.  The walls are made
+   of large coarsely textured stone, and are cold to the touch.
+   You can see the dim flickering of sconces, and the warmth of
+   the light plays about the soft folds of the tapestries hung
+   along some of the walls.
+
+~
+12 16 1
+D0
+~
+IronDoor~
+1 -1 1209
+D1
+~
+~
+0 -1 1264
+D3
+~
+~
+0 -1 1262
+Z-1
+C-1
+R0
+S
+#1264
+{BO,BLU}A Dimly Lit Stone Corridor{bo,b}~
+{BO,C}
+   You find yourself walking along a long dark corridor deep
+   within the halls of this great fortress.  The walls are made
+   of large coarsely textured stone, and are cold to the touch.
+   You can see the dim flickering of sconces, and the warmth of
+   the light plays about the soft folds of the tapestries hung
+   along some of the walls.
+
+~
+12 0 1
+D0
+~
+~
+0 -1 1265
+D3
+~
+~
+0 -1 1263
+Z-1
+C-1
+R0
+S
+#1265
+{BO,BLU}A Dimly Lit Stone Corridor{bo,b}~
+{BO,C}
+   You find yourself walking along a long dark corridor deep
+   within the halls of this great fortress.  The walls are made
+   of large coarsely textured stone, and are cold to the touch.
+   You can see the dim flickering of sconces, and the warmth of
+   the light plays about the soft folds of the tapestries hung
+   along some of the walls.
+
+~
+12 0 1
+D0
+~
+~
+0 -1 1266
+D2
+~
+~
+0 -1 1264
+D3
+~
+IronDoor~
+1 -1 1206
+Z-1
+C-1
+R0
+S
+#1266
+{BO,BLU}A Dimly Lit Stone Corridor{bo,b}~
+{BO,C}
+   You find yourself walking along a long dark corridor deep
+   within the halls of this great fortress.  The walls are made
+   of large coarsely textured stone, and are cold to the touch.
+   You can see the dim flickering of sconces, and the warmth of
+   the light plays about the soft folds of the tapestries hung
+   along some of the walls.
+
+~
+12 0 1
+D2
+~
+~
+0 -1 1265
+D3
+~
+~
+0 -1 1267
+Z-1
+C-1
+R0
+S
+#1267
+{BO,BLU}A Dimly Lit Stone Corridor{bo,b}~
+{BO,C}
+   You find yourself walking along a long dark corridor deep
+   within the halls of this great fortress.  The walls are made
+   of large coarsely textured stone, and are cold to the touch.
+   You can see the dim flickering of sconces, and the warmth of
+   the light plays about the soft folds of the tapestries hung
+   along some of the walls.
+
+~
+12 0 1
+D1
+~
+~
+0 -1 1266
+D3
+~
+~
+0 -1 1257
+Z-1
+C-1
+R0
+S
+#1268
+{BO,BLU}A Room in the Great Tower{bo,blu}~
+{BO,C}
+   You are climbing a stone staircase in the Great Tower
+   of the fortress.  The stairs spiral upwards into the
+   dark heights.  As you ascend you notice glowing
+   mirrors on all sides. Each apparently leading to
+   another area of the fortress. 
+
+~
+12 0 1
+D4
+~
+~
+0 -1 1269
+D5
+~
+~
+0 -1 1201
+Z-1
+C-1
+R0
+S
+#1269
+{BO,BLU}A Room in the Great Tower{bo,blu}~
+{BO,C}
+   You are climbing a stone staircase in the Great Tower
+   of the fortress.  The stairs spiral upwards into the
+   dark heights.  As you ascend you notice glowing
+   mirrors on all sides. Each apparently leading to
+   another area of the fortress. 
+
+~
+12 0 1
+D4
+~
+~
+0 -1 1270
+D5
+~
+~
+0 -1 1268
+Z-1
+C-1
+R0
+S
+#1270
+{BO,BLU}A Room in the Great Tower{bo,blu}~
+{BO,C}
+   You are climbing a stone staircase in the Great Tower
+   of the fortress.  The stairs spiral upwards into the
+   dark heights.  As you ascend you notice glowing
+   mirrors on all sides. Each apparently leading to
+   another area of the fortress. 
+
+~
+12 0 1
+D4
+~
+~
+0 -1 1271
+D5
+~
+~
+0 -1 1269
+Z-1
+C-1
+R0
+S
+#1271
+{BO,BLU}A Room in the Great Tower{bo,blu}~
+{BO,C}
+   You are climbing a stone staircase in the Great Tower
+   of the fortress.  The stairs spiral upwards into the
+   dark heights.  As you ascend you notice glowing
+   mirrors on all sides. Each apparently leading to
+   another area of the fortress. 
+
+~
+12 0 1
+D4
+~
+~
+0 -1 1272
+D5
+~
+~
+0 -1 1270
+Z-1
+C-1
+R0
+S
+#1272
+{BO,BLU}A Room in the Great Tower{bo,blu}~
+{BO,C}
+   You are climbing a stone staircase in the Great Tower
+   of the fortress.  The stairs spiral upwards into the
+   dark heights.  As you ascend you notice glowing
+   mirrors on all sides. Each apparently leading to
+   another area of the fortress. 
+
+~
+12 0 1
+D4
+~
+~
+0 -1 1273
+D5
+~
+~
+0 -1 1271
+Z-1
+C-1
+R0
+S
+#1273
+{BO,BLU}A Room in the Great Tower{bo,blu}~
+{BO,C}
+   You are climbing a stone staircase in the Great Tower
+   of the fortress.  The stairs spiral upwards into the
+   dark heights.  As you ascend you notice glowing
+   mirrors on all sides. Each apparently leading to
+   another area of the fortress. 
+
+~
+12 0 1
+D4
+~
+~
+0 -1 1274
+D5
+~
+~
+0 -1 1272
+Z-1
+C-1
+R0
+S
+#1274
+{BO,BLU}A Room in the Great Tower{bo,blu}~
+{BO,C}
+   You are climbing a stone staircase in the Great Tower
+   of the fortress.  The stairs spiral upwards into the
+   dark heights.  As you ascend you notice glowing
+   mirrors on all sides. Each apparently leading to
+   another area of the fortress. 
+
+~
+12 0 1
+D0
+~
+~
+0 -1 1217
+D3
+~
+~
+0 -1 1218
+D5
+~
+~
+0 -1 1273
+Z-1
+C-1
+R0
+S
+#1275
+{BOLD}{BLUE}The Lair of the Dark Knights{bold}{blue}~
+{BOLD}{CYAN}
+   The dark ebony walls seem to push in towards you.  Above is a
+   small globe of light that helps to light your path along this massive
+   chamber.  Your soul is filled with dread as a faint scream can be
+   heard echoing off the dark walls.  To the west you see a small
+   stream flowing freely down a trench at the base of the western
+   wall.  This is the land of the Dark Knights. This is the land where
+   boys are made men,  and where fear has no place.
+
+~
+12 1139 0
+Z-1
+C-1
+R0
+S
+#1299
+{BOLD}{BLUE}The Shrine of the Darknights{bold}{blue}~
+{BOLD}{CYAN}
+   As you enter this room you fall silent in reverence.  About you are
+   the monuments of past heroes.  These are the great leaders who
+   came before you, and who shed their blood and lost their lives
+   striving to uphold the standards of the Darknight. 
+{bold}{cyan}
+~
+12 0 1
+D0
+~
+~
+0 -1 1205
+Z-1
+C-1
+R0
+S
+$~

@@ -1,0 +1,1112 @@
+#22000
+Title Screen~
+
+
+    Looking around at the {BOLD,GREEN}rolling green hills{b} and seeing the
+    {RED}red brick path{b} underneath your feet, you get the feeling that
+    you've seen this place before somewhere.
+
+    Suddenly, you hear an 8-bit song from ages past.
+    Your eyes light up as you recognize the tune, and you know
+    that somehow you've entered your favorite old video game.
+
+                          {BOLD,RED}SUPER MARIO BROS.{b}
+
+
+~
+220 1028 4
+D1
+~
+~
+0 -1 22001
+Z-1
+C-1
+R0
+S
+#22001
+World 1-1~
+You are standing in nowhere !!!!
+~
+220 1028 1
+D1
+~
+~
+0 -1 22002
+Z-1
+C-1
+R0
+S
+#22002
+Let the Fun Begin!~
+
+
+    Our legal department has requested that you please read
+    the warning placards placed throughout this area.  Also,
+    a legal waiver form must be filled out and given to our
+    filing clerk prior to entry to this zone.
+
+    Have a nice day.
+
+    -Management
+
+
+~
+220 1028 1
+D1
+A small, thin man, wearing thin framed glasses, is standing
+    here waiting to receive your filled out legal waiver.
+
+
+~
+filingclerk~
+2 22001 22003
+Z-1
+C-1
+R0
+S
+#22003
+A Familiar Beginning~
+
+
+    As you begin to run down the {RED}red brick path{b}, you see a
+    {YELLOW}glowing ? block{b}.  You are about to see what the {YELLOW}block{b}
+    contains when the sound of shuffling feet catches your
+    attention.  There are a few {YELLOW}brown mushroom-like things{b}
+    coming towards you.  You begin to smile as the memories
+    of this game from your childhood come rushing back.
+
+       You look up with a smile, and ready your weapon
+
+
+~
+220 0 1
+D1
+~
+~
+0 -1 22004
+D3
+~
+filingclerk~
+1 -1 22002
+D4
+~
+~
+0 -1 22005
+Z-1
+C-1
+R0
+S
+#22004
+More Goombas~
+
+
+    As you continue along this {RED}path{b}, you hear more footsteps.
+    Looks like more of these {YELLOW}strange creatures{b} are trying to get
+    you.  You begin to remember the joy from countless hours
+                wasted on this game in years past.
+
+    {CYAN,BOLD}Your eyes glow fiercely as you realize what you must do.{b}
+
+                     {RED,BOLD}Let's go kill {GREEN}Bowser!!{b}
+
+
+~
+220 0 1
+D1
+~
+~
+0 -1 22006
+D3
+~
+~
+0 -1 22003
+D4
+~
+secret~
+3 -1 22007
+Z0
+C-1
+R0
+S
+#22005
+Standing on a Pipe~
+
+
+    You jump on top of the {GREEN}green pipe{b} and are about to drop
+    down into it when a {GREEN}large, bloodthirsty plant comes out
+                         of the pipe.{b}
+
+             {RED,BOLD}Oh no, it's headed straight for you!!{b}
+
+
+~
+220 128 9
+D1
+~
+pipe~
+3 -1 22022
+D5
+~
+~
+0 -1 22003
+Z-1
+C-1
+R0
+S
+#22006
+More Goombas~
+You are standing in nowhere !!!!
+~
+220 0 1
+D1
+~
+~
+0 -1 22009
+D3
+~
+~
+0 -1 22004
+D5
+~
+~
+0 -1 22008
+Z0
+C-1
+R0
+S
+#22007
+Hidden ?~
+
+
+    You jump up randomly and happen to hit your head on something.
+    Hmm, a {YELLOW}hidden ? block{b}.  This just might contain something useful.
+    You should probably look for more hidden things like this.
+
+
+~
+220 0 9
+D5
+~
+secret~
+1 -1 22004
+Z0
+C-1
+R0
+S
+#22008
+The Pit~
+
+
+    You drop down into a deep pit and realize you have made a mistake.
+    There is no way to climb out of here.  Looks like the only way
+    out of here is to go down.  In the future, you should be more careful.
+    Rumor has it that there are death traps all over this place.
+
+
+~
+220 1065092 1
+D5
+~
+~
+0 -1 3014
+X110
+Z0
+C-1
+R0
+S
+#22009
+A New Foe~
+You are standing in nowhere !!!!
+~
+220 0 1
+D1
+~
+~
+0 -1 22010
+D3
+~
+~
+0 -1 22006
+D4
+~
+~
+0 -1 22011
+Z0
+C-1
+R0
+S
+#22010
+The Bottom Path~
+You are standing in nowhere !!!!
+~
+220 0 1
+D3
+~
+~
+0 -1 22009
+Z0
+C-1
+R0
+S
+#22011
+The Top Path~
+You are standing in nowhere !!!!
+~
+220 0 1
+D1
+~
+~
+0 -1 22012
+D5
+~
+~
+0 -1 22009
+Z0
+C-1
+R0
+S
+#22012
+The Top Path~
+You are standing in nowhere !!!!
+~
+220 0 1
+D3
+~
+~
+0 -1 22011
+D5
+~
+~
+0 -1 22013
+Z0
+C-1
+R0
+S
+#22013
+Back on the Ground~
+You are standing in nowhere !!!!
+~
+220 0 1
+D1
+~
+~
+0 -1 22014
+Z0
+C-1
+R0
+S
+#22014
+Before the Steps~
+You are standing in nowhere !!!!
+~
+220 0 1
+D3
+~
+~
+0 -1 22013
+D4
+~
+~
+0 -1 22015
+Z0
+C-1
+R0
+S
+#22015
+Ascending the Steps~
+You are standing in nowhere !!!!
+~
+220 0 1
+D4
+~
+~
+0 -1 22016
+D5
+~
+~
+0 -1 22014
+Z0
+C-1
+R0
+S
+#22016
+Top of the Steps~
+You are standing in nowhere !!!!
+~
+220 0 1
+D1
+~
+~
+0 -1 22017
+D5
+~
+~
+0 -1 22015
+Z0
+C-1
+R0
+S
+#22017
+Leap of Faith~
+You are standing in nowhere !!!!
+~
+220 2 9
+D1
+~
+~
+0 -1 22018
+Z0
+C1
+R0
+S
+#22018
+Top of the Flagpole~
+You are standing in nowhere !!!!
+~
+220 1048576 1
+D5
+~
+~
+0 -1 22019
+Z0
+C-1
+R0
+S
+#22019
+Back on the Ground~
+You are standing in nowhere !!!!
+~
+220 0 1
+D1
+~
+~
+0 -1 22020
+Z0
+C-1
+R0
+S
+#22020
+Inside the Pipe~
+You are standing in nowhere !!!!
+~
+220 0 1
+D5
+~
+cover~
+2 -1 22021
+Z0
+C-1
+R0
+S
+#22021
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22022
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22023
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22024
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22025
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22026
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22027
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22028
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22029
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22030
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22031
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22032
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22033
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22034
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22035
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22036
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22037
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22038
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22039
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22040
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22041
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22042
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22043
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22044
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22045
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22046
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22047
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22048
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22049
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22050
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22051
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22052
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22053
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22054
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22055
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22056
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22057
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22058
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22059
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22060
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22061
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22062
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22063
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22064
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22065
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22066
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22067
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22068
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22069
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22070
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22071
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22072
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22073
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22074
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22075
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22076
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22077
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22078
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22079
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22080
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22081
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22082
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22083
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22084
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22085
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22086
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+#22087
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 262144 1
+Z0
+C-1
+R0
+S
+#22088
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 262144 1
+Z0
+C-1
+R0
+S
+#22089
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 262144 1
+Z0
+C-1
+R0
+S
+#22090
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 262144 1
+Z0
+C-1
+R0
+S
+#22091
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 262144 1
+Z0
+C-1
+R0
+S
+#22092
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 262144 1
+Z0
+C-1
+R0
+S
+#22093
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 262144 1
+Z0
+C-1
+R0
+S
+#22094
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 262144 1
+Z0
+C-1
+R0
+S
+#22095
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 262144 1
+Z0
+C-1
+R0
+S
+#22096
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 262144 1
+Z0
+C-1
+R0
+S
+#22097
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 262144 1
+Z0
+C-1
+R0
+S
+#22098
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 262144 1
+Z0
+C-1
+R0
+S
+#22099
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+220 0 1
+Z0
+C-1
+R0
+S
+$~

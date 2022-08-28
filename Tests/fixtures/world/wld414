@@ -1,0 +1,2381 @@
+#41400
+{R}The Siege of Tolkeen{r}~
+{R}
+   As you step through the Rift, you are hurled through space
+   and time!  After a rough landing, you adjust your eyes to
+   take in the sights around you.
+ 
+   It appears that you are still in the Magic City of Tolkeen,
+   but the beautiful buildings and monuments you saw before
+   are now crumbling and ablaze!  The City of Tolkeen is 
+   under siege!
+{r}
+~
+414 4 1
+D0
+~
+~
+0 -1 41401
+Z3
+C2
+S
+#41401
+{R}The Shattered Streets of Tolkeen{r}~
+{R}
+   The once-peaceful streets of Tolkeen now lie in ruins.  The non-stop
+   bombing from Coalition forces have finally crushed this citadel of
+   magic.  As you walk through the ruins, you see the occasional wizard
+   battling a Coalition trooper.
+{r}
+~
+414 0 1
+D2
+~
+~
+0 -1 41400
+D3
+~
+~
+0 -1 41402
+X8
+Z3
+C2
+S
+#41402
+{R}The Shattered Streets of Tolkeen{r}~
+{R}
+   The once-peaceful streets of Tolkeen now lie in ruins.  The non-stop
+   bombing from Coalition forces have finally crushed this citadel of
+   magic.  As you walk through the ruins, you see the occasional wizard
+   battling a Coalition trooper.
+{r}
+~
+414 0 1
+D0
+{R}
+   The entrance to the Ley Line Nexus has been sealed off
+   by a wall of debris.
+{r}
+~
+Rubble~
+3 -1 41403
+D1
+~
+~
+0 -1 41401
+X8
+Z3
+C2
+S
+#41403
+{R}Entrance to the Ley Line Nexus{r}~
+{R}
+   You are now standing before a large pyramid, used to focus the power
+   of several ley lines at a nexus point.  This mystical structure
+   allowed Tolkeen to harness limitless magical energy, enough to power
+   the entire city for centuries.
+ 
+   Now, the grand pyramid is merely a burned-out husk, ravaged by 
+   Coalition bombardments.  The magical ley lines now surge out of 
+   control, gradually destroying what the enemy did not.
+{r}
+~
+414 0 1
+D2
+{R}
+   Some rubble is here.
+{r}
+~
+Rubble~
+1 -1 41402
+D4
+~
+~
+0 -1 41404
+X8
+Z3
+C2
+S
+#41404
+{R}The Nexus{r}~
+{R}
+   You are now within the Nexus of Tolkeen.  While this
+   pyramid has been all but destroyed, it still functions
+   as a gateway to the various Quadrants of the City.
+ 
+   Choose your path wisely, for the anarchy of war will
+   engulf the unprepared.
+{r}
+~
+414 8 1
+D0
+~
+~
+0 -1 41405
+D1
+~
+~
+0 -1 41406
+D2
+~
+~
+0 -1 41407
+D3
+~
+~
+0 -1 41408
+D4
+{BLU,BO}
+   Nothing to see here.  Move along.
+{blu,bo}
+~
+Secret~
+4 41420 41409
+D5
+~
+~
+0 -1 41403
+Z3
+C2
+S
+#41405
+{CY}Portal to the Northern Quadrant{cy}~
+{CY}
+   This branch of the Nexus leads to the Northern Quadrant, the 
+   "enlightened" portion of the city.  Many of the finest 
+   institutions for magical and conventional studies are found
+   in the North.
+ 
+   A rather short, green-skinned man is here, coordinating
+   his armies to attack the enemy.
+{cy}
+~
+414 8 1
+D2
+~
+~
+0 -1 41404
+X8
+Z3
+C2
+S
+#41406
+{R,BO}Portal to the Eastern Quadrant{r,bo}~
+{R,BO}
+   This branch of the Nexus leads to the Eastern Quadrant, the
+   heart of Tolkeen.  The main seat of the city's government
+   once was found in this Quadrant... one of the main reasons
+   the Coalition has focused the bulk of their attacks on the
+   East.
+ 
+   A monster of a man, laden with a variety of grotesque
+   Bio-Wizardry implants is here, coordinating his armies
+   to attack the enemy.
+{r,bo}
+~
+414 8 1
+D3
+~
+~
+0 -1 41404
+X8
+Z3
+C2
+S
+#41407
+{M}Portal to the Southern Quadrant{m}~
+{M}
+   This branch of the Nexus leads to the Southern Quadrant, the
+   residential portion of the city.  The largest concentrations of
+   homes, businesses, and recreational facilities are found in
+   the South.
+ 
+   A fiery young warlock is here, coordinating his armies to
+   attack the enemy.
+{m}
+~
+414 8 1
+D0
+~
+~
+0 -1 41404
+X8
+Z3
+C2
+S
+#41408
+{Y}Portal to the Western Quadrant{y}~
+{Y}
+   This branch of the Nexus leads to the Western Quadrant, the 
+   industrial portion of the city.  Workshops, warehouses,
+   and techno-wizard factories dot the Western landscape.
+ 
+   A knight with a skull helmet is here, coordinating
+   her armies to attack the enemy.
+{y}
+~
+414 8 1
+D1
+~
+~
+0 -1 41404
+X8
+Z3
+C2
+S
+#41409
+{BLU,BO}Portal to the King's Tower{blu,bo}~
+{BLU,BO}
+   This portal is for authorized personnel only.  Entry
+   into the King's Tower is forbidden, and punishable 
+   by death.
+{blu,bo}
+~
+414 8 1
+D5
+~
+Secret~
+1 -1 41404
+X8
+Z3
+C2
+S
+#41410
+{CY}Along the Northern Wall{cy}~
+{C}
+   You emerge from the portal alongside the Northern Wall of the city.
+   The magical walls in this part of town have crumbled, after a surprise
+   attack from Coalition Forces hiding in the northern wilderness.  What's
+   left of the various learning institutions in this quadrant of the city
+   have been replaced by smoldering craters and debris - tragic victims
+   in this war.  The wealth of magical and worldly knowledge lost will not
+   be reached again for hundreds of years.
+{c}
+~
+414 0 1
+D0
+~
+~
+0 -1 41411
+D2
+~
+~
+0 -1 41412
+D3
+{BLA}
+   The door to a fortified bunker is here.
+{bla}
+~
+Door~
+2 41419 41487
+X8
+Z3
+C2
+S
+#41411
+{CY}Outside the Wall{cy}~
+{CY}
+   As you step through the hole in the wall, Coalition war machines
+   cut you down mercilessly with high-powered laser cannons and rail
+   guns.  Sorry, better luck in your next life.
+{cy}
+~
+414 6 1
+X8
+Z3
+C2
+S
+#41412
+{CY}Siembieda Street{cy}~
+{CY}
+   You are now walking down a crater-filled street, heading towards
+   the college district.  Various institutions dedicated to magical
+   studies can be found further ahead.
+{cy}
+~
+414 0 1
+D0
+~
+~
+0 -1 41410
+D2
+~
+~
+0 -1 41413
+X8
+Z3
+C2
+S
+#41413
+{CY}Siembieda Street{cy}~
+{CY}
+   You have reached a four-way intersection.  The road splits in
+   each direction, heading to a various learning institution.  What's
+   left of a{cy} {Y,BO}road sign{y,bo} {CY}leans here.
+{cy}
+~
+414 0 1
+D0
+~
+~
+0 -1 41412
+D1
+~
+~
+0 -1 41414
+D2
+~
+~
+0 -1 41417
+D3
+~
+~
+0 -1 41420
+E
+sign~
+{Y,BO}
+   West  - College of Learning
+   East  - College of Magic
+   South - Tolkeen School of Medicine
+{y,bo}
+~
+X8
+Z3
+C2
+S
+#41414
+{CY}A Debris-Filled Path{cy}~
+{C}
+   Moving off the main road brings you to this debris-filled
+   path.  It's hard to believe, but this road is even more
+   devastated than the main street.  "Skeletons" of blasted
+   buildings and vehicles line the way.
+{c}
+~
+414 0 1
+D1
+~
+~
+0 -1 41415
+D3
+~
+~
+0 -1 41413
+X8
+Z3
+C2
+S
+#41415
+{CY}College of Magic{cy}~
+{CY}
+   You are now in the College of Magic, one of Tolkeen's finest
+   learning institutions.  Scholars from a myriad of dimensions
+   have pooled their knowledge here.  The school studies various
+   avenues of magical studies, from Ley Line Walking and Shifter
+   magic, to the dark arts of Necromancy and Diabolism.
+ 
+   The Coalition blitzkrieg has destroyed most of this once-
+   illustrious campus.  Great magics from countless worlds are
+   forever lost.
+{cy}
+~
+414 0 1
+D0
+~
+~
+0 -1 41416
+D3
+~
+~
+0 -1 41414
+X8
+Z0
+C2
+S
+#41416
+{CY}Chamber of Secrets{cy}~
+{CY}
+   This chamber has endured the relentless bombing and carnage
+   that has ravaged the rest of the College of Magic.  There
+   are many magical texts and relics lying about, though most of
+   the important artifacts have already been moved to a safer 
+   location.  
+ 
+   An ancient Elven woman is here, trying to save the last of the
+   great items. 
+{cy}
+~
+414 12 1
+D2
+~
+~
+0 -1 41415
+X8
+Z3
+C2
+S
+#41417
+{CY}A Debris-Filled Path{cy}~
+{C}
+   Moving off the main road brings you to this debris-filled
+   path.  It's hard to believe, but this road is even more
+   devastated than the main street.  "Skeletons" of blasted
+   buildings and vehicles line the way.
+{c}
+~
+414 0 1
+D0
+~
+~
+0 -1 41413
+D1
+{CY}
+   A door is here, leading to a small pyramid.
+{cy}
+~
+Door~
+1 -1 41423
+D2
+~
+~
+0 -1 41418
+X8
+Z3
+C2
+S
+#41418
+{CY}Tolkeen School of Medicine{cy}~
+{C}
+   The Tolkeen School of Medicine is a mind-blowing combination
+   of both magical and technological healing abilities.  Here,
+   both curative spells and high-tech nanomachines are used to
+   cure any number of ailments and wounds.  While many of the
+   building nearby were razed to the ground, this hospital
+   facility survived relatively intact, thanks to the great
+   sacrifices of the defenders of Tolkeen.
+{c}
+~
+414 8 1
+D0
+~
+~
+0 -1 41417
+D4
+~
+~
+0 -1 41419
+X8
+Z3
+C2
+S
+#41419
+{CY}Intensive Care Unit{cy}~
+{CY}
+   You are now in the Intensive Care Unit of this hospital
+   facility.  Only the seriously wounded can be found here,
+   as their fatal wounds are treated by the best doctors
+   and druids in the world.
+{cy}
+~
+414 12 1
+D5
+~
+~
+0 -1 41418
+X16392
+Z3
+C2
+S
+#41420
+{CY}A Debris-Filled Path{cy}~
+{C}
+   Moving off the main road brings you to this debris-filled
+   path.  It's hard to believe, but this road is even more
+   devastated than the main street.  "Skeletons" of blasted
+   buildings and vehicles line the way.
+{c}
+~
+414 0 1
+D1
+~
+~
+0 -1 41413
+D3
+~
+~
+0 -1 41421
+X8
+Z3
+C2
+S
+#41421
+{CY}College of Learning{cy}~
+{C}
+   The College of Learning once housed some of the greatest
+   collections of historical texts, fine art, and reference
+   material ever to be found in one location.  Great scholars
+   like Plato of Lazlo, and even the great storyteller Erin
+   Tarn, have marvelled at the wealth of knowledge stored here.
+ 
+   The College was one of the first targets levelled, tragically
+   mistaken for a munitions facility.
+{c}
+~
+414 0 1
+D1
+~
+~
+0 -1 41420
+D5
+~
+~
+0 -1 41422
+X8
+Z3
+C2
+S
+#41422
+{CY}The Library{cy}~
+{C}
+   A set of stairs leads to this hidden Library.  Sadly, 
+   it too has been destroyed by explosives and fire.
+   Walls of books sit charred, with wisps of smoke still
+   emanating from the texts.
+ 
+   A sagely man sits in the center of the room, pondering
+   about all the knowledge that has been lost.
+{c}
+~
+414 8204 1
+D4
+~
+~
+0 -1 41421
+X8
+Z3
+C2
+S
+#41423
+{CY}Techno-Wizard Transport Station{cy}~
+{CY}
+   This pyramid, while damaged, still appears to be operational.
+   The ley line energy is still strong in this construct, and there
+   appears to be an open portal leading back to the main Nexus point.
+{cy}
+~
+414 12 1
+D3
+{CY}
+   A door leading outside is here.
+{cy}
+~
+Door~
+1 -1 41417
+Z3
+C2
+S
+#41424
+{R,BO}Techno-Wizard Transport Station{r,bo}~
+{R,BO}
+   This pyramid, while damaged, still appears to be operational.
+   The ley line energy is still strong in this construct, and there
+   appears to be an open portal leading back to the main Nexus point.
+{r,bo}
+~
+414 12 1
+D1
+{R,BO}
+   A door leading outside is here.
+{r,bo}
+~
+Door~
+1 -1 41425
+Z3
+C2
+S
+#41425
+{R,BO}Long Avenue{r,bo}~
+{R,BO}
+   Long Avenue leads right into the heart of Tolkeen.  The Eastern
+   Quadrant of the city holds the true seat of power in this community.
+   The King's Tower, The Council Chamber for the Circle of Twelve, and
+   other government-related facilities resided here.  It's also the 
+   focus of the most intensive fighting in this campaign, as the Coalition
+   Army surges to breach the Eastern Wall!
+{r,bo}
+~
+414 0 1
+D0
+{BLA}
+   The door to a fortified bunker is here.
+{bla}
+~
+Door~
+2 41419 41488
+D1
+~
+~
+0 -1 41426
+D3
+{R,BO}
+   A door is here, leading to a small pyramid.
+{r,bo}
+~
+Door~
+1 -1 41424
+X8
+Z3
+C2
+S
+#41426
+{R,BO}Long Avenue{r,bo}~
+{R,BO}
+   Long Avenue leads right into the heart of Tolkeen.  The Eastern
+   Quadrant of the city holds the true seat of power in this community.
+   The King's Tower, The Council Chamber for the Circle of Twelve, and
+   other government-related facilities resided here.  It's also the 
+   focus of the most intensive fighting in this campaign, as the Coalition
+   Army surges to breach the Eastern Wall!
+{r,bo}
+~
+414 0 1
+D1
+~
+~
+0 -1 41430
+D2
+~
+~
+0 -1 41427
+D3
+~
+~
+0 -1 41425
+X8
+Z3
+C2
+S
+#41427
+{R,BO}The Council Chambers{r,bo}~
+{R,BO}
+   You are now in the Council Chambers for the Circle of Twelve,
+   the ruling body of mages and mystics who govern the magical city
+   of Tolkeen.  A large table rests in the center of this chamber, 
+   and twelve empty chairs sit around it. 
+ 
+   The light streams in from above, from a large hole in the ceiling.
+{r,bo}
+~
+414 8 1
+D0
+~
+~
+0 -1 41426
+D4
+~
+~
+0 -1 41428
+X8
+Z2
+C2
+S
+#41428
+{CY,BO}Up in the Sky{cy,bo}~
+{CY,BO}
+   You take to the air, the Council Chambers shrinking below you
+   as you ascend into the sky.  The epic battle continues even
+   in the clouds, as Coalition SAMAS units dogfight with dragons,
+   gargoyles, and bizarre techno-wizard flying machines.
+{cy,bo}
+~
+414 260 9
+D4
+~
+~
+0 -1 41429
+D5
+~
+~
+0 -1 41427
+T41427
+X8
+Z3
+C2
+S
+#41429
+{CY,BO}The Skies Above Tolkeen{cy,bo}~
+{CY,BO}
+   You are now high above Tolkeen, flying through clouds and walls
+   of thick, black smoke.  All around you, both Coalition machines 
+   and supernatural creatures fall as volleys of energy and magic
+   are shot across the sky.
+ 
+   A large dragon-like humanoid is here, showing his true power against
+   insignificant humans and their technology.
+{cy,bo}
+~
+414 4 9
+D5
+~
+~
+0 -1 41428
+T41427
+X8
+Z3
+C2
+S
+#41430
+{R,BO}Along the Eastern Wall{r,bo}~
+{R,BO}
+   You are now walking along the Eastern Wall, the final
+   obstacle in the way of total Coalition domination.  There's 
+   a large hole in the wall, and you can see flashes of
+   gunfire and explosions outside.
+ 
+   The path to the King's Tower runs to the north.
+{r,bo}
+~
+414 0 1
+D0
+~
+~
+0 -1 41431
+D1
+~
+~
+0 -1 41432
+D3
+~
+~
+0 -1 41426
+X8
+Z3
+C2
+S
+#41431
+{R,BO}Path to the King's Tower{r,bo}~
+{R,BO}
+   As you walk along the rubble-filled path, you come to a 
+   stop in front of an intimidating gate.  There's a large
+   iron statue to the side, and the gates themselves are
+   sealed shut.  Looks like you'll need to find a key, or some
+   other way in.
+ 
+   Just as you start to turn away, the iron statue starts to move!
+   It starts charging at you, just as you realize that it's not
+   really a statue!
+{r,bo}
+~
+414 132 1
+D0
+{R,BO}
+   The gate to the King's Tower has been welded
+   shut.
+{r,bo}
+~
+Gate~
+2 39649 41465
+D2
+~
+~
+0 -1 41430
+X8
+Z3
+C2
+S
+#41432
+{R,BO}Outside the Wall{r,bo}~
+{R,BO}
+   As you step through the hole in the wall, Coalition war machines
+   cut you down mercilessly with high-powered laser cannons and rail
+   guns.  Sorry, better luck in your next life.
+ 
+ 
+   Just kidding!  Despite the fierce fighting going on around you, 
+   you've made it unscathed.  Lucky bugger!
+{r,bo}
+~
+414 6 9
+D2
+~
+~
+0 -1 41433
+D3
+~
+~
+0 -1 41430
+X8
+Z3
+C2
+S
+#41433
+{R,BO}Center of the Battle{r,bo}~
+{R,BO}
+   The fighting is heaviest here!  A lone Tolkeen warrior
+   stands his ground against a Coalition squad.  He swings a
+   massive sword around with the greatest of ease, cutting 
+   down armored enemies like they were made of paper.  He 
+   seems to be caught up so much in his rage, that he's 
+   attacking friend and foe alike!
+{r,bo}
+~
+414 132 2
+D0
+~
+~
+0 -1 41432
+X8
+Z3
+C2
+S
+#41434
+{M}A Bio-Dome{m}~
+{M}
+   You step out of the portal, right into a hot, steamy jungle.
+   Looking around, you see prehistoric ferns, swampy water, and
+   little lizards running about.  Looking up, you see a large,
+   domed roof.  Aha, you're in a bio-dome, an environment created
+   to simulate some otherworldly land.
+ 
+   ...and no Pauly Shore in sight!  Phew!
+{m}
+~
+414 28 1
+D3
+{M}
+   This door keeps stuff in.  Duh.
+{m}
+~
+BioDoor~
+1 -1 41435
+X8
+Z3
+C2
+S
+#41435
+{M}Palladium Boulevard{m}~
+{M}
+   You are now travelling down a quiet road in the Southern Quadrant
+   of town.  Like the rest of the city, most of the large structures
+   have fallen, and fires rage out of control all around.  The 
+   fighting is relatively light here.
+{m}
+~
+414 0 1
+D0
+~
+~
+0 -1 41440
+D1
+{M}
+   The Bio-Dome door is here.
+{m}
+~
+BioDoor~
+1 -1 41434
+D2
+~
+~
+0 -1 41437
+D3
+{M}
+   A door is here, leading to a small pyramid.
+{m}
+~
+Door~
+1 -1 41436
+X8
+Z3
+C2
+S
+#41436
+{M}Techno-Wizard Transport Station{m}~
+{M}
+   This pyramid, while damaged, still appears to be operational.
+   The ley line energy is still strong in this construct, and there
+   appears to be an open portal leading back to the main Nexus point.
+{m}
+~
+414 12 1
+D1
+{M}
+   A door leading outside is here.
+{m}
+~
+Door~
+1 -1 41435
+Z3
+C2
+S
+#41437
+{M}Palladium Boulevard{m}~
+{M}
+   You are now travelling down a quiet road in the Southern Quadrant
+   of town.  Like the rest of the city, most of the large structures
+   have fallen, and fires rage out of control all around.  The 
+   fighting is relatively light here.
+{m}
+~
+414 0 1
+D0
+~
+~
+0 -1 41435
+D1
+~
+ReallyBigGates~
+3 39649 41438
+D2
+~
+~
+0 -1 41446
+X8
+Z3
+C2
+S
+#41438
+{M}A Stately Manor{m}~
+{M}
+   You are now on the grounds of a stately manor.  The mansion
+   is relatively unscathed from the carnage, and you can see
+   some lights on through the windows.  Could someone still
+   be here?
+{m}
+~
+414 4 1
+D1
+~
+FrontDoor~
+3 -1 41439
+D3
+{M}
+   Some really big gates are here.
+{m}
+~
+ReallyBigGates~
+1 -1 41437
+X8
+Z3
+C2
+S
+#41439
+{M}The Ballroom{m}~
+{M}
+   Wow!  You've stumbled upon a huge ballroom, with crown molding,
+   crystal chandeliers, and gold-inlaid carvings on the pillars.  
+   Whoever lives here must surely be a man of great distinction, 
+   taste, and class.
+{m}
+~
+414 136 1
+D3
+{M}
+   A really big door is here.
+{m}
+~
+FrontDoor~
+1 -1 41438
+X8
+Z3
+C2
+S
+#41440
+{M}Palladium Boulevard{m}~
+{M}
+   You are now travelling down a quiet road in the Southern Quadrant
+   of town.  Like the rest of the city, most of the large structures
+   have fallen, and fires rage out of control all around.  The 
+   fighting is relatively light here.
+{m}
+~
+414 0 1
+D0
+~
+~
+0 -1 41441
+D1
+{BLA}
+   The door to a fortified bunker is here.
+{bla}
+~
+Door~
+2 41419 41489
+D2
+~
+~
+0 -1 41435
+X8
+Z3
+C2
+S
+#41441
+{M}The Museum of Post-Apocalyptic History{m}~
+{M}
+   You are now standing in what remains of The Museum
+   of Post-Apocalyptic History.  Some of the greatest
+   documentation of the world after the Rifts is here
+   on display.  Perhaps you may even learn a thing or
+   two from the exhibitions here.
+{m}
+~
+414 8 1
+D0
+~
+~
+0 -1 41443
+D1
+~
+~
+0 -1 41444
+D2
+~
+~
+0 -1 41440
+D3
+~
+~
+0 -1 41442
+X8
+Z3
+C2
+S
+#41442
+{M}The Coming of the Rifts{m}~
+{M}
+   At some point in time, on a calendar long since abandoned,
+   the human race was in a glorious age of technological splendor.
+   The power of the atom had been conquered.  Medical technology
+   could double life expectancy, or create super-soldiers of 
+   unmatched power via chemical or cybernetic enhancements.  The
+   far reaches of this galaxy had been explored, and life was
+   comfortable and easy.
+ 
+   But the various empires of the world could not work in harmony.
+   War escalated on an unprecedented scale, and a bizarre chain of
+   events would bring back the power of magic to the world.  Then
+   came the bombs, though nobody was sure who fired first.  The 
+   simultaneous release of life energy all over the world merely
+   fed the magic with more energy, and the long-dormant ley lines
+   flared to life, perpetuating the chain of death and anarchy.
+{m}
+~
+414 8 1
+D1
+~
+~
+0 -1 41441
+X8
+Z3
+C2
+S
+#41443
+{M}The Dark Ages{m}~
+{M}
+   The survivors of the Rifts found life difficult.  With the
+   return of magic came the return of magical beings as well.
+   Demons, dragons, and the ancient races of magic slowly
+   returned to the land.  The Rifts brough other uninvited
+   guests as well - transdimensional beings and aliens, like
+   the insect-like Xiticix.
+ 
+   The pockets of humanity remaining strived to survive in these
+   hard centuries.  Many unearthed the technological machines of
+   old, like the Coalition States.  Others learned to harness
+   the powers of magic and the Rifts, like the communities of
+   Lazlo and Tolkeen.
+{m}
+~
+414 8 1
+D2
+~
+~
+0 -1 41441
+X8
+Z3
+C2
+S
+#41444
+{M}History Repeats...{m}~
+{M}
+   Several decades ago, the fledgling Coalition States waged a war with
+   the evil wizards of the Federation of Magic.  The Coalition barely
+   survived the ordeal, while the Federation was all but crushed.  As
+   a result of their near demise from the hands of magic users and 
+   demons, the Coalition States started down the road of anti-magic 
+   sentiments and human supremacy.  Their views eventually became so
+   polarized that they saw all magic, magic wielders, and supernatural
+   creatures as evil blights on the planet.
+ 
+   So ends the lesson.  History continues to unfold as we speak.
+{m}
+~
+414 8 1
+D0
+{M}
+   You see nothing!
+{m}
+~
+Invisible~
+3 39649 41445
+D3
+~
+~
+0 -1 41441
+X8
+Z3
+C2
+S
+#41445
+{M}The Invisible Workshop{m}~
+{M}
+   You have stumbled upon The Invisible Workshop, the hidden 
+   training grounds of a unique class of magic casters known
+   as the Conjurers.  One of the Circle of Twelve trains the
+   young acolytes in the ways of this unconventional magic
+   style.
+{m}
+~
+414 140 1
+D2
+{M}
+   You see nothing!
+{m}
+~
+Invisible~
+1 -1 41444
+X8
+Z3
+C2
+S
+#41446
+{M}Outside the Wall{m}~
+{M}
+   As you step through the hole in the wall, Coalition war machines
+   cut you down mercilessly with high-powered laser cannons and rail
+   guns.  Sorry, better luck in your next life.
+{m}
+~
+414 6 1
+X8
+Z3
+C2
+S
+#41447
+{CY,BO}Up in the Sky{cy,bo}~
+{CY,BO}
+   As you pop out of the portal, you find yourself
+   high above the western sky!  The unstable ley
+   lines have transported you above the city, and the 
+   ground is coming up fast!
+{cy,bo}
+~
+414 1048576 9
+D1
+~
+~
+0 -1 41448
+D3
+~
+~
+0 -1 41451
+X8
+Z3
+C2
+S
+#41448
+{Y}Carella Lane{y}~
+{Y}
+   Aside from a few spots on fire, the Western Quadrant of
+   Tolkeen has been spared much of the destruction that
+   has ravaged the rest of the city.  Many of the 
+   citizens of this land are passing through this 
+   industrial section, as they try to escape 
+   the siege for the safety of the Western lands.
+{y}
+~
+414 0 1
+D0
+{Y}
+   A door is here, leading to a small pyramid.
+{y}
+~
+Door~
+1 -1 41452
+D3
+~
+~
+0 -1 41449
+X8
+Z3
+C2
+S
+#41449
+{Y}Carella Lane{y}~
+{Y}
+   Aside from a few spots on fire, the Western Quadrant of
+   Tolkeen has been spared much of the destruction that
+   has ravaged the rest of the city.  Many of the 
+   citizens of this land are passing through this 
+   industrial section, as they try to escape 
+   the siege for the safety of the Western lands.
+{y}
+~
+414 0 1
+D1
+~
+~
+0 -1 41448
+D2
+{Y}
+   A massive building is to the south.
+{y}
+~
+Gate~
+3 -1 41453
+D3
+~
+~
+0 -1 41450
+X8
+Z3
+C2
+S
+#41450
+{Y}Carella Lane{y}~
+{Y}
+   Aside from a few spots on fire, the Western Quadrant of
+   Tolkeen has been spared much of the destruction that
+   has ravaged the rest of the city.  Many of the 
+   citizens of this land are passing through this 
+   industrial section, as they try to escape 
+   the siege for the safety of the Western lands.
+{y}
+~
+414 0 1
+D0
+~
+~
+0 -1 41456
+D1
+~
+~
+0 -1 41449
+D3
+~
+~
+0 -1 41451
+X8
+Z3
+C2
+S
+#41451
+{Y}Carella Lane{y}~
+{Y}
+   Aside from a few spots on fire, the Western Quadrant of
+   Tolkeen has been spared much of the destruction that
+   has ravaged the rest of the city.  Many of the 
+   citizens of this land are passing through this 
+   industrial section, as they try to escape 
+   the siege for the safety of the Western lands.
+{y}
+~
+414 0 1
+D0
+~
+~
+0 -1 41463
+D1
+~
+~
+0 -1 41450
+D3
+{Y}
+   The door to the Techno-Wizard Factory is here.
+{y}
+~
+Door~
+1 -1 41459
+X8
+Z3
+C2
+S
+#41452
+{Y}Techno-Wizard Transport Station{y}~
+{Y}
+   This pyramid, while damaged, still appears to be operational.
+   The ley line energy is still strong in this construct, and there
+   appears to be an open portal leading back to the main Nexus point.
+{y}
+~
+414 12 1
+D2
+{Y}
+   A door leading outside is here.
+{y}
+~
+Door~
+1 -1 41448
+Z3
+C2
+S
+#41453
+{Y}A Dragon's Estate{y}~
+{Y}
+   A large mansion stands before you.  Very large.
+   In fact, the front door stands about fifty feet 
+   tall!  This residence obviously belongs to a big
+   creature.
+{y}
+~
+414 4 1
+D0
+{Y}
+   A gate is here.
+{y}
+~
+Gate~
+1 -1 41449
+D2
+~
+~
+0 -1 41454
+X8
+Z3
+C2
+S
+#41454
+{Y}A Dragon's Estate{y}~
+{Y}
+   A large mansion stands before you.  Very large.
+   In fact, the front door stands about fifty feet 
+   tall!  This residence obviously belongs to a big
+   creature.
+{y}
+~
+414 4 1
+D0
+~
+~
+0 -1 41453
+D1
+~
+~
+0 -1 41455
+X8
+Z3
+C2
+S
+#41455
+{Y}Dragon's Den{y}~
+{Y}
+   You are now in the lair of a large, angry dragon.
+   Let's hope he doesn't spot you.
+{y}
+~
+414 28 1
+D3
+~
+~
+0 -1 41454
+X8
+Z3
+C2
+S
+#41456
+{Y}The Smithy{y}~
+{Y}
+   You are now standing inside a very dark smithy.  You
+   notice the absence of windows: only the red light of
+   the fireplace lightens the room.  A lot of useless,
+   broken weapons and pieces of armor are lying around,
+   making it difficult to cross the room.
+ 
+   There is a stream of white light coming from a crack
+   in the wall, near the back of the room.
+{y}
+~
+414 13 1
+D0
+{W,BO}
+   An intense light is streaming from a crack.
+{w,bo}
+~
+Hidden~
+3 39649 41457
+D2
+~
+~
+0 -1 41450
+X8
+Z8
+C2
+S
+#41457
+{W,BO}The Hidden Staircase{w,bo}~
+{W,BO}
+   You've discovered a secret staircase, hidden behind
+   the blacksmith shop.  The stone stairs spiral down
+   into an intense light, and you hear the sound of
+   metal upon metal echoing through the room.
+{w,bo}
+~
+414 9 1
+D2
+{W}
+   A hidden wall is here.
+{w}
+~
+Hidden~
+1 -1 41456
+D5
+~
+~
+0 -1 41458
+X8
+Z2
+C2
+S
+#41458
+{W,BO}The Mystical Forge{w,bo}~
+{W,BO}
+   You have found the Mystical Forge, a magic-powered
+   workshop that Tolkeen uses to create powerful 
+   magical weapons and armor!  The light here is 
+   intense, as ley line energy creates a super-heated
+   forge which allows the strongest of metals to be
+   crafted.
+{w,bo}
+~
+414 141 1
+D4
+~
+~
+0 -1 41457
+X8
+Z1
+C2
+S
+#41459
+{Y}The Techno-Wizard Factory{y}~
+{Y}
+   You are now in a large factory, where both automated
+   machines and young mages work together to produce 
+   techno-wizard weapons and machines.  You see a walkway
+   ahead, which passes the various stages of assembly.
+{y}
+~
+414 8 1
+D1
+{Y}
+   A door leading outside is here.
+{y}
+~
+Door~
+1 -1 41451
+D3
+~
+~
+0 -1 41460
+X8
+Z3
+C2
+S
+#41460
+{Y}The Machines{y}~
+{Y}
+   As you walk through the factory, you pass an assembly
+   line of machines, stamping out metal components for
+   various pistols and flying vehicles.
+{y}
+~
+414 8 1
+D1
+~
+~
+0 -1 41459
+D2
+~
+~
+0 -1 41461
+X136
+Z3
+C2
+S
+#41461
+{Y}The Mages{y}~
+{Y}
+   You now come to a room filled with young magic users,
+   assembling the component parts to create a variety
+   of weapons and equipment.
+ 
+   You watch in awe as they imbue magical spells in the
+   devices, creating self-contained weapons relying on
+   magical energy.
+{y}
+~
+414 8 1
+D0
+~
+~
+0 -1 41460
+D1
+~
+NoEntry~
+3 39649 41462
+X8
+Z3
+C2
+S
+#41462
+{Y}Research & Development{y}~
+{Y}
+   You are now in the Research & Development division
+   of this Techno-Wizard factory.  The incredible 
+   weapons, flying machines, and iron golems of the Tolkeen
+   armada were all concocted here.
+{y}
+~
+414 140 1
+D3
+{Y}
+   Hey, you're not supposed to be here.  No Entry!
+{y}
+~
+NoEntry~
+1 -1 41461
+X8
+Z3
+C2
+S
+#41463
+{Y}Carella Lane{y}~
+{Y}
+   Aside from a few spots on fire, the Western Quadrant of
+   Tolkeen has been spared much of the destruction that
+   has ravaged the rest of the city.  Many of the 
+   citizens of this land are passing through this 
+   industrial section, as they try to escape 
+   the siege for the safety of the Western lands.
+{y}
+~
+414 0 1
+D1
+{BLA}
+   The door to a fortified bunker is here.
+{bla}
+~
+Door~
+2 41419 41490
+D2
+~
+~
+0 -1 41451
+D3
+~
+~
+0 -1 41464
+X8
+Z3
+C2
+S
+#41464
+{Y}Outside the Wall{y}~
+{Y}
+   You have now passed out of the nation of Tolkeen.  Thank
+   whatever gods you worship, for letting you get out
+   safely.
+{y}
+~
+414 4 1
+D3
+~
+~
+0 -1 2011
+X8
+Z3
+C2
+S
+#41465
+{BLU,BO}Before the King's Tower{blu,bo}~
+{BLU,BO}
+   You are now standing in front of the King's Tower,
+   the beacon of hope for all of Tolkeen.  It is here
+   that King Creed sits, trying in vain to save his
+   kingdom from the senselessness of this war.
+{blu,bo}
+~
+414 0 1
+D4
+~
+~
+0 -1 41466
+X8
+Z3
+C2
+S
+#41466
+{BLU,BO}The King's Tower{blu,bo}~
+{BLU,BO}
+   You are now in the King's Tower.  There seems
+   to be several branches of hallway to walk
+   through, though they all look suspiciously 
+   similar.  It's almost as if you're in some 
+   sort of maze!
+{blu,bo}
+~
+414 264 1
+D0
+~
+~
+0 -1 41473
+D1
+~
+~
+0 -1 41473
+D2
+~
+~
+0 -1 41473
+D3
+~
+~
+0 -1 41473
+D4
+~
+~
+0 -1 41467
+D5
+~
+~
+0 -1 41465
+T41465
+X8
+Z3
+C2
+S
+#41467
+{BLU,BO}The King's Tower{blu,bo}~
+{BLU,BO}
+   You are now in the King's Tower.  There seems
+   to be several branches of hallway to walk
+   through, though they all look suspiciously 
+   similar.  It's almost as if you're in some 
+   sort of maze!
+{blu,bo}
+~
+414 264 1
+D0
+~
+~
+0 -1 41473
+D1
+~
+~
+0 -1 41473
+D2
+~
+~
+0 -1 41473
+D3
+~
+~
+0 -1 41473
+D4
+~
+~
+0 -1 41473
+D5
+~
+~
+0 -1 41468
+T41465
+X8
+Z3
+C2
+S
+#41468
+{BLU,BO}The King's Tower{blu,bo}~
+{BLU,BO}
+   You are now in the King's Tower.  There seems
+   to be several branches of hallway to walk
+   through, though they all look suspiciously 
+   similar.  It's almost as if you're in some 
+   sort of maze!
+{blu,bo}
+~
+414 264 1
+D0
+~
+~
+0 -1 41473
+D1
+~
+~
+0 -1 41473
+D2
+~
+~
+0 -1 41473
+D3
+~
+~
+0 -1 41473
+D4
+~
+~
+0 -1 41473
+D5
+~
+~
+0 -1 41469
+T41465
+X8
+Z3
+C2
+S
+#41469
+{BLU,BO}The King's Tower{blu,bo}~
+{BLU,BO}
+   You are now in the King's Tower.  There seems
+   to be several branches of hallway to walk
+   through, though they all look suspiciously 
+   similar.  It's almost as if you're in some 
+   sort of maze!
+{blu,bo}
+~
+414 264 1
+D0
+~
+~
+0 -1 41473
+D1
+~
+~
+0 -1 41473
+D2
+~
+~
+0 -1 41473
+D3
+~
+~
+0 -1 41470
+D4
+~
+~
+0 -1 41473
+D5
+~
+~
+0 -1 41473
+T41465
+X8
+Z3
+C2
+S
+#41470
+{BLU,BO}The King's Tower{blu,bo}~
+{BLU,BO}
+   You are now in the King's Tower.  There seems
+   to be several branches of hallway to walk
+   through, though they all look suspiciously 
+   similar.  It's almost as if you're in some 
+   sort of maze!
+{blu,bo}
+~
+414 264 1
+D0
+~
+~
+0 -1 41473
+D1
+~
+~
+0 -1 41471
+D2
+~
+~
+0 -1 41473
+D3
+~
+~
+0 -1 41473
+D4
+~
+~
+0 -1 41473
+D5
+~
+~
+0 -1 41473
+T41465
+X8
+Z3
+C2
+S
+#41471
+{BLU,BO}The King's Tower{blu,bo}~
+{BLU,BO}
+   You are now in the King's Tower.  There seems
+   to be several branches of hallway to walk
+   through, though they all look suspiciously 
+   similar.  It's almost as if you're in some 
+   sort of maze!
+{blu,bo}
+~
+414 264 1
+D0
+~
+~
+0 -1 41473
+D1
+~
+~
+0 -1 41473
+D2
+~
+~
+0 -1 41473
+D3
+~
+~
+0 -1 41472
+D4
+~
+~
+0 -1 41473
+D5
+~
+~
+0 -1 41473
+T41465
+X8
+Z3
+C2
+S
+#41472
+{BLU,BO}The King's Tower{blu,bo}~
+{BLU,BO}
+   You are now in the King's Tower.  There seems
+   to be several branches of hallway to walk
+   through, though they all look suspiciously 
+   similar.  It's almost as if you're in some 
+   sort of maze!
+{blu,bo}
+~
+414 264 1
+D0
+~
+~
+0 -1 41473
+D1
+~
+~
+0 -1 41474
+D2
+~
+~
+0 -1 41473
+D3
+~
+~
+0 -1 41473
+D4
+~
+~
+0 -1 41473
+D5
+~
+~
+0 -1 41473
+T41465
+X8
+Z3
+C2
+S
+#41473
+{BLU,BO}The King's Tower{blu,bo}~
+{BLU,BO}
+   You are now in the King's Tower.  There seems
+   to be several branches of hallway to walk
+   through, though they all look suspiciously 
+   similar.  It's almost as if you're in some 
+   sort of maze!
+{blu,bo}
+~
+414 264 1
+D0
+~
+~
+0 -1 41466
+D1
+~
+~
+0 -1 41466
+D2
+~
+~
+0 -1 41466
+D3
+~
+~
+0 -1 41466
+D4
+~
+~
+0 -1 41466
+D5
+~
+~
+0 -1 41466
+T41465
+X8
+Z3
+C2
+S
+#41474
+{BLU,BO}Top of the Tower{blu,bo}~
+{BLU,BO}
+   Phew!  You've finally made it through that maze!
+   There are a couple of defenders here that aren't
+   happy to see you.  Watch out!
+{blu,bo}
+~
+414 16392 1
+D0
+~
+~
+0 -1 41475
+D3
+~
+~
+0 -1 41472
+X10
+Z3
+C2
+S
+#41475
+{BLU,BO}The Hallway{blu,bo}~
+{BLU,BO}
+   You are now walking down a long hallway.  It's
+   sparsely decorated, and certainly not what you'd
+   expect for a royal chamber.  It's also eerily 
+   quiet;  your footsteps echo loudly through the
+   vaulted ceiling.
+{blu,bo}
+~
+414 16392 1
+D0
+~
+~
+0 -1 41476
+D2
+~
+~
+0 -1 41474
+X10
+Z3
+C2
+S
+#41476
+{BLU,BO}The Hallway{blu,bo}~
+{BLU,BO}
+   You are now walking down a long hallway.  It's
+   sparsely decorated, and certainly not what you'd
+   expect for a royal chamber.  It's also eerily 
+   quiet;  your footsteps echo loudly through the
+   vaulted ceiling.
+{blu,bo}
+~
+414 16392 1
+D0
+{BLU,BO}
+   A set of thick, wooden doors sit closed.
+{blu,bo}
+~
+Chamber~
+1 -1 41477
+D2
+~
+~
+0 -1 41475
+X10
+Z3
+C2
+S
+#41477
+{BLU,BO}The Throne Room{blu,bo}~
+{BLU,BO}
+   You have now entered the inner chamber of the King's
+   Tower.  King Creed, ruler of Tolkeen and Defender of
+   its people, is here pacing about.  He blindly chose
+   to fight in this war, and now regrets his decision,
+   as he watches the magical city go up in flames.
+{blu,bo}
+~
+414 16520 1
+D0
+{BLU,BO}
+   The King's Throne is here.  There's a funny-looking
+   area on the wall right behind it.
+{blue,bo}
+~
+Secret~
+3 -1 41478
+D2
+{BLU,BO}
+   A set of thick, wooden doors sit open.
+{blue,bo}
+~
+Chamber~
+1 -1 41476
+X10
+Z3
+C2
+S
+#41478
+{BLU,BO}Behind the Throne Room{blu,bo}~
+{BLU,BO}
+   You have found a hidden room behind the King's
+   throne!  It looks like there's a secret passageway
+   here, most likely built so that the King would
+   have a safe exit.
+{blu,bo}
+~
+414 8 1
+D0
+~
+~
+0 -1 41479
+X10
+Z3
+C2
+S
+#41479
+{BLU,BO}The Corridor{blu,bo}~
+{BLU,BO}
+   You are walking through a narrow corridor, most
+   likely an escape route for the King and his
+   entourage in case of an emergency.  It's damp, 
+   cold, and very dark.
+{blu,bo}
+~
+414 41 1
+D0
+~
+~
+0 -1 41480
+D2
+~
+~
+0 -1 41478
+X10
+Z17
+C2
+S
+#41480
+{BLU,BO}The Corridor{blu,bo}~
+{BLU,BO}
+   You are walking through a narrow corridor, most
+   likely an escape route for the King and his
+   entourage in case of an emergency.  It's damp, 
+   cold, and very dark.
+{blu,bo}
+~
+414 41 1
+D2
+~
+~
+0 -1 41479
+D3
+~
+~
+0 -1 41481
+X10
+Z17
+C2
+S
+#41481
+{BLU,BO}The Corridor{blu,bo}~
+{BLU,BO}
+   You are walking through a narrow corridor, most
+   likely an escape route for the King and his
+   entourage in case of an emergency.  It's damp, 
+   cold, and very dark.
+{blu,bo}
+~
+414 41 1
+D0
+~
+~
+0 -1 41482
+D1
+~
+~
+0 -1 41480
+X10
+Z17
+C2
+S
+#41482
+{BLU,BO}The Corridor{blu,bo}~
+{BLU,BO}
+   As you step in this room, floor panels suddenly
+   open and you go falling!
+{blu,bo}
+~
+414 1048617 1
+D5
+~
+~
+0 -1 41483
+X10
+Z17
+C2
+S
+#41483
+{BLU,BO}FALLING!{blu,bo}~
+{BLU,BO}
+   As you fall down this hole, you wonder when it'll
+   ever end.
+ 
+   Heck, you wonder IF it will ever end!
+{blu,bo}
+~
+414 1048616 1
+D5
+~
+~
+0 -1 41484
+X10
+Z17
+C2
+S
+#41484
+{BLU,BO}FALLING!{blu,bo}~
+{BLU,BO}
+   As you fall down this hole, you wonder when it'll
+   ever end.
+ 
+   Heck, you wonder IF it will ever end!
+{blu,bo}
+~
+414 1048616 1
+D0
+~
+~
+0 -1 41483
+D1
+~
+~
+0 -1 41483
+D2
+~
+~
+0 -1 41483
+D3
+~
+~
+0 -1 41485
+D4
+~
+~
+0 -1 41485
+D5
+~
+~
+0 -1 3014
+X10
+Z17
+C2
+S
+#41485
+{BLU,BO}Treasure Chamber{blu,bo}~
+{BLU,BO}
+   You've stumbled upon the King's hidden treasure chamber!
+   Various antiques line the walls, and many spell books sit
+   on the shelves.  In the center of the room, sits a lone
+   pedestal; something of great importance must have been
+   placed there, but it's gone now.
+{blu,bo}
+~
+414 8 1
+D0
+~
+~
+0 -1 41486
+X8
+Z3
+C2
+S
+#41486
+{BLU,BO}Techno-Wizard Transport Station{blu,bo}~
+{BLU,BO}
+   This pyramid has been laid to waste by the Coalition 
+   bombardment.  There's no way it is still operational, and 
+   it looks like nobody will be escaping through here.
+{blu,bo}
+~
+414 136 1
+D2
+~
+~
+0 -1 41485
+X10
+Z3
+C2
+S
+#41487
+{BLA}Munitions Depot{bla}~
+{W}
+   You have stumbled upon a Munitions Depot.  Empty
+   rifle racks line the wall, and stacks of wooden
+   crates are scattered throughout the room.
+{w}
+~
+414 8 1
+D1
+{BLA}
+   A door leading outside is here.
+{bla}
+~
+Door~
+1 -1 41410
+X8
+Z3
+C2
+S
+#41488
+{BLA}Munitions Depot{bla}~
+{W}
+   You have stumbled upon a Munitions Depot.  Empty
+   rifle racks line the wall, and stacks of wooden
+   crates are scattered throughout the room.
+{w}
+~
+414 8 1
+D2
+{BLA}
+   A door leading outside is here.
+{bla}
+~
+Door~
+1 -1 41425
+X8
+Z3
+C2
+S
+#41489
+{BLA}Munitions Depot{bla}~
+{W}
+   You have stumbled upon a Munitions Depot.  Empty
+   rifle racks line the wall, and stacks of wooden
+   crates are scattered throughout the room.
+{w}
+~
+414 8 1
+D3
+{BLA}
+   A door leading outside is here.
+{bla}
+~
+Door~
+1 -1 41440
+X8
+Z3
+C2
+S
+#41490
+{BLA}Munitions Depot{bla}~
+{W}
+   You have stumbled upon a Munitions Depot.  Empty
+   rifle racks line the wall, and stacks of wooden
+   crates are scattered throughout the room.
+{w}
+~
+414 8 1
+D3
+{BLA}
+   A door leading outside is here.
+{bla}
+~
+Door~
+1 -1 41463
+X8
+Z3
+C2
+S
+#41491
+{M,BO}Loading Program{m,bo}~
+{M,BO}
+   Explanation - 
+ 
+   Since this room will never be seen by a mort, and rather than
+   have to explain it over and over, this desc. describes how it
+   works.  This room has 4 1-way links, to rooms 41487-41490.
+   There's a key mob here, that wanders.  When the zone pops, 
+   he'll end up walking to one of the 4 rooms, and won't be able
+   to come back here.
+ 
+   In other words, the key and key mob will randomly end up in
+   1 of 4 areas of the zone, and it'll be up to the morts to find
+   which one.  Cool, eh?
+{m,bo}
+~
+414 262148 1
+D0
+~
+~
+0 -1 41487
+D1
+~
+~
+0 -1 41488
+D2
+~
+~
+0 -1 41489
+D3
+~
+~
+0 -1 41490
+X768
+Z-1
+C-1
+S
+#41498
+Test Room~
+You are standing in nowhere !!!!
+~
+414 262144 1
+Z0
+C-1
+S
+#41499
+{BLU}Wi{blu}{CY}ld{cy}{W}st{w}{BLA}ar's{bla} {Y}Mog House{y}~
+{C}
+   You are now standing in Wildstar's eternal shrine to his
+   time as a Beta Tester for FFXI.  This quaint Mog House 
+   features a sturdy Maple Table in the center of the room,
+   with various maps, a Chocobo License, and a Magicked Skull
+   resting atop it.  A suit of Centurion Scale Armor rests in 
+   one corner, and mounted on the walls are the weapons used 
+   to battle the Beastmen of Vana'diel.  A small but deadly
+   Decurion's Dagger, a Royal Footman's Bow, a Legionaire's 
+   Scythe, and the powerful Centurion's Sword are all 
+   displayed proudly here.
+{c}
+{W,BO}   Yupa, Final Fantasy XI Beta Test, Cactuar Server{w,bo}
+{W}   Hometown: Bastok   Missions Completed: 6  Quests:  98{w}
+ 
+{C}Jobs{c}
+   {R,BO}30 Red Mage,{r,bo} {BLU}12 Warrior{blu}, {B}11 Black Mage{b}
+   {G,BO}10 Ranger,{g,bo} {BL}10 Dark Knight,{bl} {Y}10 Beastmaster{y}
+   {G}10 Thief,{G} {W,BO}8 White Mage{w,bo}, {M}7 Monk{m}
+ 
+~
+414 65544 1
+Z-1
+C-1
+S
+$~

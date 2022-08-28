@@ -1,0 +1,2209 @@
+#19200
+{bo,W}Mouse{C}Rider{bo,W}'{C}s {Y}Temple{y}~
+   The inside of this temple is austere yet majestic.  The pillars of
+marble sweep up to the ceiling, melting into the dome overhead without
+a seam.  A blazing red carpet leads from the entrance to the throne in
+the center of the room.  This is truly the home of a great sage!
+~
+192 12 0
+D0
+~
+~
+0 -1 19201
+D2
+~
+~
+0 -1 19202
+E
+throne~
+Its nice, for a chair, but drab, for a throne.
+~
+Z3
+C-1
+S
+#19201
+{bo,W}Mouse{C}Rider{bo,W}'{C}s {W,BO}Bedroom{w,bo}~
+   This can hardly be a bedroom--this is a room so spartan surely no
+human could spend any time here at all!  There is a small pallet in
+one corner, with a chair and a paper-stand next to it.  A small lamp
+lights up that small area, leaving the rest of the room enshrouded in
+darkness.  In the gloom to the west, you can barely make out a large
+steel door.
+~
+192 8 0
+D2
+~
+~
+0 -1 19200
+E
+door west~
+This door seems welded shut.  You'll never open it!
+~
+Z3
+C-1
+S
+#19202
+{Y}Plaza {C}of {BLU,BO}Kerofk{blu,bo}~
+   This is the center of Kerofk, physically and culturally.  Many
+people are here, milling about and standing in line to enter the great
+white temple to your north.  To the south is a smaller blue temple,
+its doors locked by great bands of magic.  Several people glare at
+you, wondering if you're going to cut through the line.
+~
+192 8 1
+D0
+~
+~
+0 -1 19200
+D1
+~
+~
+0 -1 19204
+D2
+~
+gates~
+2 19225 19203
+D3
+~
+~
+0 -1 19225
+Z3
+C-1
+S
+#19203
+{Y}The {BLU,BO}Blue {bo,Y}Temple{y}~
+   You enter the temple, looking around with wonder at the dusty
+monument's interior.  From the carvings and inscriptions, you guess
+that it was built by elves and dwarves together during a peaceful age
+long ago.  Dust covers almost everything, especially the stairs
+leading down into the earth by the nave.
+~
+192 12 0
+D0
+~
+gates~
+1 19225 19202
+D5
+~
+~
+0 -1 19300
+Z3
+C-1
+S
+#19204
+{W}Center {Y}Road{W}, {R,BO}West{r,bo}~
+   This road is very busy with traffic.  It seems that all the
+citizens of Kerofk are here, bustling and jostling each other in an
+attempt to get all they have to do done as fast as possible.  Bump Oof
+Excuse Me!  There is a Mage's Guild to the north.
+~
+192 8 1
+D0
+~
+~
+0 -1 19249
+D1
+~
+~
+0 -1 19205
+D3
+~
+~
+0 -1 19202
+Z3
+C-1
+S
+#19205
+{W}Inter{Y}sec{W}tion{w}~
+   This is the intersection of Citizen Road and Center Road.  The
+pedestrians file past each other with practiced ease.  You have no
+clue how to get across...  Wait, there's an opening!  Sprint, Turn,
+Jab!  Run, Run, Run...  you're across! You look up at the never-ending
+twilight and wonder how so many people could bear to live here.
+~
+192 8 1
+D0
+~
+~
+0 -1 19218
+D1
+~
+~
+0 -1 19206
+D2
+~
+~
+0 -1 19213
+D3
+~
+~
+0 -1 19204
+Z3
+C-1
+S
+#19206
+{W}Center {Y}Road{W}, {R,BO}West{r,bo}~
+   The stars shine down on you blindly as you walk down Citizen's
+Road, and for a moment you forget what kind of strange place you're
+in.  A flowerbox filled with wilted flowers brings you back to
+reality; this city has seen the sun for decades...
+~
+192 8 1
+D1
+~
+~
+0 -1 19208
+D3
+~
+~
+0 -1 19205
+Z3
+C-1
+S
+#19207
+{C}The {R,BO}Red {bo,W}Card{w}~
+   This place is a dirty ugly scroungy disgusting gambling parlor for
+the lowest of classes.  The doors to the Red Card are perpetually
+open, to let the place air out.  Tired waitresses take orders in a
+bored fashion, and then hasten to fill them before the customers
+leave.  Something crunches under your step, and you're afraid to look
+down to see what it was....stay awhile?
+~
+192 8 0
+D0
+~
+~
+0 -1 19219
+Z3
+C-1
+S
+#19208
+{W}Inter{Y}sec{W}tion{Y} at the {W}Cliff{Y}'{W}s{C} Edge{c}~
+   This is the intersection of Cliffside Road, and Center Road.  
+   Cliffside?
+   About fifteen feet ahead of you there is a sheer precipice that
+drops down about a thousand feet into the dark ocean.  You don't think
+it would be a good idea to step off, but you've already guessed that,
+haven't you?
+   Cliffside Road runs north and south from here.
+~
+192 8 1
+D0
+~
+~
+0 -1 19214
+D1
+~
+~
+0 -1 19266
+D2
+~
+~
+0 -1 19209
+D3
+~
+~
+0 -1 19206
+Z3
+C-1
+S
+#19209
+{W}Cliffside {Y}Road{W}, {C}South{c}~
+   This looks like an interesting spot.
+   As you hug the buildings to keep away from the thousand foot drop
+to your east (that would surely KILL you), you notice a large casino
+establishment named 'The Edge of Luck' to the west.  Strangely enough,
+the citzenry of Kerofk walk up and down the street, almost oblivious to
+the incredible drop mere feet away.
+   Cliffside Road continues North and South.
+~
+192 8 1
+D0
+~
+~
+0 -1 19208
+D1
+~
+~
+0 -1 19267
+D2
+~
+~
+0 -1 19210
+D3
+~
+~
+0 -1 19241
+Z3
+C-1
+S
+#19210
+{W}Inter{Y}sec{W}tion{Y} at the {W}Cliff{Y}'{W}s{C} Edge{c}~
+   Here is where Cliffside Road and Moon Gate Road meet: at the edge
+of a cliff.  You feel distinctly uncomfortable as you look down at the
+thousand-foot drop and think it would not be very wise to go any
+further east.  Northwards is Cliffside Road, to the west is Moon Gate
+Road, and to the east a vast expanse of stars shine over the dark
+ocean below.
+~
+192 8 1
+D0
+~
+~
+0 -1 19209
+D1
+~
+~
+0 -1 19267
+D3
+~
+~
+0 -1 19211
+Z3
+C-1
+S
+#19211
+{Y,BO}Moon Gate{bo,Y} Road{W}, {Y,BO}East{y,bo}~
+   You near the end of Moon Gate Road, and ahead you spot a sharp
+dropoff aways to the east.  A large building to the south has a
+picture of a trout in full plate hanging out front.  'Bob's Armoury
+and Tackle' it proclaims.  Armoury? Tackle Shop?!?  How curious!
+   Moon Gate Road continues to the east and west.
+~
+192 8 1
+D1
+~
+~
+0 -1 19210
+D2
+~
+~
+0 -1 19243
+D3
+~
+~
+0 -1 19212
+Z3
+C-1
+S
+#19212
+{W}Inter{Y}sec{W}tion{w}~
+   Moon Gate Road and Citizen's Road intersect here.  Many citizens
+walk about under the starlight here, in a hurry to get to shops, their
+homes, to work, et cetera.  Citizen's Road is to the north, Moon Gate
+Road continues east and west.
+~
+192 8 1
+D0
+~
+~
+0 -1 19213
+D1
+~
+~
+0 -1 19211
+D3
+~
+~
+0 -1 19226
+Z3
+C-1
+S
+#19213
+{G}Citizen{W}'{G}s {Y}Road{W}, {C}South{c}~
+   Many private houses line this road:  this is obviously the residential
+district. It suddenly strikes you how orderly this city is planned...
+done that way on purpose?  Well, it doesn't look like there's anything
+interesting here, but the road continues north and south.
+~
+192 8 1
+D0
+~
+~
+0 -1 19205
+D2
+~
+~
+0 -1 19212
+Z3
+C-1
+S
+#19214
+{W}Cliffside {Y}Road{W}, {BLU,BO}North{blu,bo}~
+   Say, there's a bustling tavern to the west called, 'The
+Cliffhanger'!  Aptly named, too, since its oh...about 5 feet away from
+the cliff's edge.  That cliff looks kind of dangerous actually.  The
+Cliffhanger looks good, though.
+   Cliff Side Road continues to the north and south.
+~
+192 8 1
+D0
+~
+~
+0 -1 19215
+D1
+~
+~
+0 -1 19267
+D2
+~
+~
+0 -1 19208
+D3
+~
+~
+0 -1 19246
+Z3
+C-1
+S
+#19215
+{W}Inter{Y}sec{W}tion{Y} at the {W}Cliff{Y}'{W}s{C} Edge{c}~
+   This is an unearthly scene: the stars shining down pale light upon
+this intersection of Cliffside Road and Star Gate Road, the thousand
+foot drop off just to your east with the ocean below.  Hmm...something
+tells you not to go east...must be that brain thing, eh?
+   Cliffside road leads south, Star Gate Road leads west.
+~
+192 8 1
+D1
+~
+~
+0 -1 19266
+D2
+~
+~
+0 -1 19214
+D3
+~
+~
+0 -1 19216
+Z3
+C-1
+S
+#19216
+{W,BO}Star {Y,BO}Gate {bo,Y}Road{bo,y}~
+   This area is strangely quiet for such a bustling city.  The stars
+shine down as you look around for the source of the silence.  Ah,
+there's a bookstore/library to your north!  Moon Gate Road continues
+to the east and west as well.
+~
+192 8 1
+D0
+~
+~
+0 -1 19247
+D1
+~
+~
+0 -1 19215
+D3
+~
+~
+0 -1 19217
+Z3
+C-1
+S
+#19217
+{W}Inter{Y}sec{W}tion{w}~
+   Star Gate Road and Citizen's Road meet here where many people walk
+around and do their business.  Looks like there's some private homes
+on Citizen's Road to your south, and Star Gate Road continues to the
+east and west.
+~
+192 8 1
+D1
+~
+~
+0 -1 19216
+D2
+~
+~
+0 -1 19218
+D3
+~
+~
+0 -1 19219
+Z3
+C-1
+S
+#19218
+{G}Citizen{W}'{G}s {Y}Road{W}, {BLU,BO}North{blu,bo}~
+   Private homes line this street, but all seem to keep their distance
+from one mighty mansion to your west.  Its vine- encrusted walls and
+sagging demeanor seem to eminate an air of death and decay and
+cliche's.  Could anyone possibly live in there?
+   Citizen's Road continues north and south.
+~
+192 8 1
+D0
+~
+~
+0 -1 19217
+D2
+~
+~
+0 -1 19205
+D3
+~
+~
+0 -1 19278
+Z3
+C-1
+S
+#19219
+{W,BO}Star {Y,BO}Gate {bo,Y}Road, {Y,BO}East{bo,y}~
+   Star Gate Road continues on, towards a steep cliff to the east.
+Southwards is a rather dingy looking gambling parlor called 'The Red
+Card'.  The smell wafting out its doors is enough to make a dead man
+turn away in disgust...how about you?
+   Star Gate Road continues to the east and west
+~
+192 8 1
+D1
+~
+~
+0 -1 19217
+D2
+~
+~
+0 -1 19207
+D3
+~
+~
+0 -1 19220
+Z3
+C-1
+S
+#19220
+{W,BO}Star {Y,BO}Gate {bo,Y}Road{bo,y}~
+   The hustle and bustle of Star Gate Road dies down a little here,
+but not by much.  To the north is a large farmer's stand where a lot
+of the citizenry seem to be going in and out of.
+~
+192 8 1
+D0
+~
+~
+0 0 19352
+D1
+~
+~
+0 -1 19219
+D3
+~
+~
+0 -1 19221
+Z3
+C-1
+S
+#19221
+{W,BO}Star {Y,BO}Gate {bo,Y}Road, {R,BO}West{bo,r}~
+   The nighttime stars shine down on the establishment to your south,
+making all the glitter and metal attached to it shine spectacularly.
+The sign says, 'Kell's House'.  You hear many voices talking and
+laughing inside; it's obviously a tavern or an inn, and popular to
+boot.
+   Star Gate Road continues east and west
+~
+192 8 1
+D1
+~
+~
+0 -1 19220
+D2
+~
+~
+0 -1 19263
+D3
+~
+~
+0 -1 19222
+Z3
+C-1
+S
+#19222
+{W}Inter{Y}sec{W}tion{w}~
+   Business Road joins Star Gate Road here.  Small shops line the
+street to your south while Star Gate Road continues on its way east
+and west.
+
+   There is an odd feeling of power to your north.
+~
+192 8 1
+D0
+~
+~
+0 -1 19275
+D1
+~
+~
+0 -1 19221
+D2
+~
+~
+0 -1 19223
+D3
+~
+~
+0 -1 19237
+Z3
+C-1
+S
+#19223
+{BLU,BO}Business {bo,Y}Road{C}, {BLU,BO}North{blu,bo}~
+   A lovely smell wafts across the street here, coming from the open
+doors of the herbalist's shop to your east.  A variety of plants are
+arrayed outside its doors under heavy lamplight, and a sign proclaims
+assorted types of herbs on special today.
+   Business Road continues north and south.
+~
+192 8 1
+D0
+~
+~
+0 -1 19222
+D1
+~
+~
+0 -1 19254
+D2
+~
+~
+0 -1 19224
+Z3
+C-1
+S
+#19224
+{W}Inter{Y}sec{W}tion{w}~
+   There are just too many people here at the intersection of Center
+Road and Business Road!  Too many people, walking around hurriedly.
+You hustle to avoid getting bumped over only to nearly get pushed
+over.  Your reflexes save you, but you feel you better get out of this
+intersection soon.
+   Center Road is east-west, Business road is north-south.
+~
+192 8 1
+D0
+~
+~
+0 -1 19223
+D1
+~
+~
+0 -1 19225
+D2
+~
+~
+0 -1 19230
+D3
+~
+~
+0 -1 19238
+Z3
+C-1
+S
+#19225
+{W}Center {Y}Road{W}, {Y,BO}East{y,bo}~
+   Center Road is a madhouse of people bumping into other people,
+including you!  One of the main attractions here is the Town Hall to
+the north, which holds the city's jail, courtroom, and council
+chambers, not to mention Mayor Kell's office.  To the east you see a
+huge white temple with a line outside, and a smaller blue temple.
+   Center Road continues east and west.
+~
+192 8 1
+D0
+~
+~
+0 -1 19255
+D1
+~
+~
+0 -1 19202
+D3
+~
+~
+0 -1 19224
+Z3
+C-1
+S
+#19226
+{Y,BO}Moon Gate {bo,Y}Road{W}, {Y,BO}East{y,bo}~
+   This is Moon Gate Road, which runs from Moon Gate all the way to
+the cliff.  There is a tiny keep to your north, with an inn sign out
+front.  The keep looks like it was built to withstand floods,
+earthquakes, and even acts of God!
+   Moon Gate Road continues east and west.
+~
+192 8 1
+D0
+~
+~
+0 -1 19244
+D1
+~
+~
+0 -1 19212
+D3
+~
+~
+0 -1 19227
+Z3
+C-1
+S
+#19227
+{Y,BO}Moon Gate {bo,Y}Road{y}~
+   Here's something you weren't expecting in a city this size: a
+vacant lot to your south.  Also, Moon Gate Road continues east-west.
+The air seems to crackle with energy here, but you can find no source
+for such power.
+~
+192 8 1
+D1
+~
+~
+0 -1 19226
+D2
+~
+~
+0 -1 19273
+D3
+~
+~
+0 -1 19228
+Z3
+C-1
+S
+#19228
+{Y,BO}Moon Gate {bo,Y}Road{W}, {R,BO}West{r,bo}~
+   The starlight gives this section of Moon Gate Road a strangely
+surreal aspect, as if something were missing you can't put your finger
+on.  There's a few shops along this road, but they don't look terribly
+interesting under this aspect.  Looking around, you notice the
+entrance to the city graveyard to the south.
+~
+192 8 1
+D1
+~
+~
+0 -1 19227
+D2
+~
+~
+0 0 19348
+D3
+~
+~
+0 -1 19229
+Z3
+C-1
+S
+#19229
+{W}Inter{Y}sec{W}tion{w}~
+   Moon Gate Road intersects Business Road here, making this a hectic
+area as people go about their business.  Along Business Road to the
+north you see many types of different shops lining the street, and
+Moon Gate Road continues east-west.
+~
+192 8 1
+D0
+~
+~
+0 -1 19230
+D1
+~
+~
+0 -1 19228
+D3
+~
+~
+0 -1 19231
+Z3
+C-1
+S
+#19230
+{BLU,BO}Business {bo,Y}Road{W}, {C}South{c}~
+   Shops line this road , some open and some closed.  Northwards you
+see the intersection of of Center Road and Business Road, and
+southwards is another intersection--Business Road and Moon Gate Road.
+   There is a shop to the west, a dirty sign proclaiming it 'OPEN'.
+~
+192 8 1
+D0
+~
+~
+0 -1 19224
+D2
+~
+~
+0 -1 19229
+D3
+~
+~
+0 0 19347
+Z3
+C-1
+S
+#19231
+{Y,BO}Moon Gate {bo,Y}Road{W}, {R,BO}West{r,bo}~
+   An enterprising merchant has set up shop just to your south, the
+sign proclaiming, 'Jenk's Place' in a hundred point font.  It seems to
+be some sort of 'catch-all' general store.  Also, Moon Gate Road
+continues east towards the cliff, and west towards the actual Moon
+Gate.
+~
+192 8 1
+D1
+~
+~
+0 -1 19229
+D2
+~
+~
+0 -1 19239
+D3
+~
+~
+0 -1 19232
+Z3
+C-1
+S
+#19232
+{W}Inter{Y}sec{W}tion{w}~
+   You breathe the chill night air and look around at the passing
+citizenry just inside one of the city's gates here.  This city sure
+has some bustle to it...must be all that night life!  Feeling pleased
+at your prospects, you look around for something to do...
+   Wall Side Road leads north, Moon Gate Road leads east.
+~
+192 8 1
+D0
+~
+~
+0 -1 19233
+D1
+~
+~
+0 -1 19231
+D3
+~
+~
+0 -1 19277
+Z3
+C-1
+S
+#19233
+{W}Wall {C}Side {Y}Road{W}, {C}South{c}~
+   All the buildings in this area are semi-destroyed, victims of a
+raid or war it seems.  There are some signs of construction about, but
+it seems that there is no great need for more buildings right now.
+   Wall Side Road continues north and south.
+~
+192 8 1
+D0
+~
+~
+0 -1 19234
+D2
+~
+~
+0 -1 19232
+Z3
+C-1
+S
+#19234
+{W}Inter{Y}sec{W}tion{w}~
+   Center Road starts here, running deep into the heart of Kerofk.
+You see all sorts of large buildings down its length, including a big
+white temple structure along the north side far to the east, with a
+smaller blue temple across the street from it.  With all of the grand
+architecture, and the majesty of the starry skies above, you know this
+is a sight you'll never forget.
+   Center Road leads east, Wall Side Road continues north-south.
+~
+192 8 1
+D0
+~
+~
+0 -1 19235
+D1
+~
+~
+0 -1 19238
+D2
+~
+~
+0 -1 19233
+Z3
+C-1
+S
+#19235
+{W}Wall {C}Side {Y}Road{W}, {BLU,BO}North{blu,bo}~
+   This is Wall Side Road, named such for its proximity to...the
+city's wall.  To your east is a recruiting office for the city militia
+of Kerofk.  Wall Side Road continues north and south.
+~
+192 8 1
+D0
+~
+~
+0 -1 19236
+D1
+~
+~
+0 -1 19271
+D2
+~
+~
+0 -1 19234
+Z3
+C-1
+S
+#19236
+{W}Inter{Y}sec{W}tion{w}~
+   You enter the city proper with the sounds of the bustling crowds
+surrounding you.  Some people seem to be doing their morning business,
+others seem to be getting ready for bed...it must be strange to live
+in a world of eternal twilight.  A street sign informs you that this
+is Wall Side Road running south from here, and Star Gate Road leads
+away to the east.
+~
+192 8 1
+D1
+~
+~
+0 -1 19237
+D2
+~
+~
+0 -1 19235
+D3
+~
+~
+0 -1 19276
+Z3
+C-1
+S
+#19237
+{W,BO}Star {Y,BO}Gate{bo,Y} Road, {R,BO}West{r,bo}~
+   Kerofk's citizenry walk around, barely noticing as you walk down
+this busy street between and through them.  It seems that they're used
+to adventurers, or just don't care. Star Gate Road continues east and
+west, intersecting Business Road and Wall Side Road respectively.
+~
+192 8 1
+D1
+~
+~
+0 -1 19222
+D3
+~
+~
+0 -1 19236
+Z3
+C-1
+S
+#19238
+{W}Center {Y}Road{W}, {R,BO}West{r,bo}~
+   Center Road is lined with grand buildings up and down its entire
+length; for instance, a huge temple of Unknown lies to the south.  Even
+for a temple, this building is big!  Perhaps it would be worth a look
+around?
+   Center Road continues to the east and west.
+~
+192 8 1
+D1
+~
+~
+0 -1 19224
+D2
+~
+~
+0 -1 19269
+D3
+~
+~
+0 -1 19234
+Z3
+C-1
+S
+#19239
+{G}Jenk{W}'{G}s {W}Place{w}~
+   This store is such a crazy confusion of items for sale you can
+hardly figure out where to start looking.  You feel you could find
+EXACTLY what you've been looking for, if only you had enough time to
+look for it...
+   
+   As greediness lights your brain, you notice all of the concealed
+crossbows around the room.  Maybe it wouldn't be a hot idea to try
+tosteal something after all...
+~
+192 8 0
+D0
+~
+~
+0 -1 19231
+D1
+This is a big metal door with a sign hung on it saying, 'KEEP OUT!'  
+~
+door~
+1 19226 19240
+Z3
+C-1
+S
+#19240
+{Y}The {BLA,BO}Back {bo,Y}Room{y}~
+   This room is small, close, and quiet.  There are no windows, only
+the one entrance you came through, and virtually nothing else but for a
+rickety table, a worn chair and a lantern hanging from the ceiling.
+~
+192 12 0
+D3
+~
+door~
+1 -1 19239
+Z3
+C-1
+S
+#19241
+{C}The {BLA,BO}Edge {bo,C}of {Y,BO}Luck{y,bo}~
+   A blast of sound and music assault you as you enter this gambling
+parlor.  This is a high class place, where the rich and idle of Kerofk
+go to blow off steam and lose lots of money.  The whole place is
+decorated in shades of red, and most of the windows face the nearby
+cliff-- evidently to give the gamblers within that feeling of danger.
+The elegance is fabulous, and you feel as if you might want to join
+in.
+~
+192 8 0
+D1
+~
+~
+0 -1 19209
+D3
+~
+~
+0 -1 19242
+Z3
+C-1
+S
+#19242
+{M}Benzaldehyde{C}'{M}s {C}Office{c}~
+   This office is quite opulent.  The huge ebony desk in front of you
+completely dominates the room.  The desk is cluttered as the mind is
+sharp; Benzaldehyde is no fool.  A few pictures on the wall of family
+members show that Ben might have a nice side, but you suspect that
+they are there just for show.  A few vicious exotic weapons are also
+hanging up, looking very sharp.
+~
+192 8 0
+D1
+~
+~
+0 -1 19241
+E
+weapons~
+A closer examinations reveal the weapons are all junk.
+~
+E
+pictures~
+With a closer look, you realize the pictures are all of someone else's
+family.
+~
+Z3
+C-1
+S
+#19243
+{C}Bob{W}'{C}s {BLA,BO}Armoury {bo,C}and {Y}Tackle{y}~
+   This place has to be the WEIRDEST shop you've ever been in.
+Fishing poles and halberds decorate the walls.  Breast plates stacked
+with cups of nightcrawlers on top.  Bow strings and fishing line, etc,
+etc, etc.  The shopkeeper has made this nightmare somewhat homey,
+though, with doileys and pictures scattered about in a pleasing
+display.
+~
+192 8 0
+D0
+~
+~
+0 -1 19211
+Z3
+C-1
+S
+#19244
+{G}The {Y}Fortress{y}~
+   Wow! This place is better defended that some castles you've seen.
+In case Kerofk ever falls, this place will surely be the last to go,
+for this inn lives up to its name: 15 foot high walls, crenellations,
+arrow slits...its a remarkable bit of engineering.  As you walk in,
+you notice that everyone here is carrying some sort of weapon, and
+carry themselves like they know how to use it.  Seems like a fairly
+safe place!
+~
+192 8 0
+D2
+~
+~
+0 -1 19226
+D4
+~
+~
+0 -1 19245
+Z3
+C-1
+S
+#19245
+{C,BO}The {BLU,BO}Reception {M,BO}Area{m,bo}~
+   Here's where the private rooms of the Fortress are.  Steel doors
+leading to bedrooms line the halls, each with a lock bigger than your
+clenched fist.  A sign here proclaims the safeties of the fortress,
+including 'Barred Windows, and Guards You Can Really Count On!'  A
+small desk is here, a bored receptionist behind it.
+~
+192 8 0
+D5
+~
+~
+0 -1 19244
+Z3
+C-1
+S
+#19246
+{C}The {W}Cliff{Y}Hanger{y}~
+   This drinking establishment is placed a little too close to the
+edge of the cliff for your own comfort--about five feet close!  You
+briefly pray to Unknown, asking for no earthquakes in the immediate
+future.  As you look around, you see lots of people passed out on the
+floor--this is obviously a lower class dive.  The room is dark, the
+people sweaty, the barmaids tired, and you want a drink.
+~
+192 8 0
+D1
+~
+~
+0 -1 19214
+Z3
+C-1
+S
+#19247
+{Y}The {R,BO}Book{Y,BO}store{y,bo}~
+   Shelves fill this store with books to the brimming.  Tomes on cats,
+rats, plates, grates, mages, cages, stages, swords, hoards, dragons,
+goats, moats, croats, money, honey, spells, bells, Hell, smells, and
+on and on and on!  You think that you might be able to find something
+interesting here...
+~
+192 8 0
+D2
+~
+~
+0 -1 19216
+D3
+~
+bookcase~
+1 19224 19248
+Z3
+C-1
+S
+#19248
+{BLA,BO}Thieves {bo,W}Guild{w}~
+   The open hidden panel behind you seems to shed no light in here,
+and you find yourself in complete darkness.  You feel the presence of
+someone in the room with you--was that a finger on your purse?!?
+Quick!  Make a light!
+~
+192 9 0
+D1
+~
+bookcase~
+1 19224 19247
+Z3
+C-1
+S
+#19249
+{BLU,BO}Mages{bo,W}' {Y}Guild{W}, {C,BO}Entrance{c,bo}~
+   This is a nice, spacious area, filled with bright lights to keep
+the eternal twilight outside at bay.  There are three doors leading
+deeper into the guild: the east marked, 'Library', the north marked,
+'Leonna's Office', and the west marked, 'Storeroom'.  You can't but help to
+feel that this is a SMALL guild for such a large city...
+~
+192 8 0
+D0
+~
+north door~
+1 -1 19251
+D1
+~
+east door~
+1 -1 19253
+D2
+~
+~
+0 -1 19204
+D3
+~
+west door~
+1 19223 19252
+Z3
+C-1
+S
+#19250
+{W}The {BLU,BO}Kerofk{R,BO} Mob{Y,BO}Chute{y,bo}~
+   This room delivers mobs randomly around the city, and should not be
+reachable to player characters.  Thanks to Locke of Cthulhu mud for
+use of this idea!
+~
+192 8 0
+D0
+~
+~
+0 0 19225
+D1
+~
+~
+0 0 19213
+D2
+~
+~
+0 0 19208
+D3
+~
+~
+0 0 19216
+D4
+~
+~
+0 0 19237
+D5
+~
+~
+0 0 19234
+Z3
+C-1
+S
+#19251
+{R,BO}Leonna{bo,Y}'{R,BO}s {bo,Y}Office{y}~
+   This is Guildmistress Leonna's office.  It is bright and cheery,
+with a roaring fire in a fireplace and several songbirds in cages
+providing color.  Her desk is spotless but for some work she was just
+at a moment ago.  Black satin-covered chairs are arranged for comfort
+of her guests, and you have a sudden urge to just sit and rest snd
+perhaps talk a bit.
+~
+192 8 0
+D2
+~
+~
+0 -1 19249
+Z3
+C-1
+S
+#19252
+{BLU,BO}Mages{bo,W}' {Y}Guild {W}Storeroom{w}~
+   The Mage's Guild of Kerofk store their supplies here.  There are
+neat stacks of blank scrolls, quills, ink, unenchanted wands and
+staves, empty vials, and everything else the professional mage could
+want.
+~
+192 8 0
+D1
+~
+door~
+1 19223 19249
+Z3
+C-1
+S
+#19253
+{Y}The {BLU,BO}Mages{bo,W}' {Y,BO}Library{y,bo}~
+   The first thing you notice about this room, (other than the
+countless number of books inside), is the fact that the inside of this
+room couldn't possible fit into the building.  Hmm, you never can tell
+with those mages.  The books seem very well organized by the 'Tewey
+Teleportation System', another one of those mage gimmicks.  You wonder
+what you'd like to read.
+~
+192 8 0
+D3
+~
+door~
+1 -1 19249
+Z3
+C-1
+S
+#19254
+{Y}The {R}Herbalist{Y}'{R}s {Y}Shoppe{y}~
+   A wonderful smell wafts from the inside of this shop as you enter.
+What a beautiful place!  Freshly cut flowers decorate every nook and
+cranny, while small pots of herbs bubble faintly over candles.
+Extremely bright lanterns keep the place perpetually lit and the
+plants healthy.  You feel perfectly at home here, and the atmosphere
+is such that you can hardly pull yourself away...
+~
+192 8 0
+D3
+~
+~
+0 -1 19223
+Z3
+C-1
+S
+#19255
+{Y,BO}Town {bo,Y}Hall{W}--{R,BO}Entrance{r,bo}~
+   Organized Madness.  There are people going every which way here, up
+across, over, under, through!  Deliveries, messages, visits,
+appointments, WHEW!  You're suddenly glad you don't work here!
+
+	   There's a directory sign:
+		Up-Mayor Kell
+		Down-Jails
+		North-Courtroom
+		West-Council Chambers
+~
+192 8 0
+D0
+~
+~
+0 -1 19258
+D2
+~
+~
+0 -1 19225
+D3
+~
+~
+0 -1 19259
+D4
+~
+~
+0 -1 19256
+D5
+~
+~
+0 -1 19261
+Z3
+C-1
+S
+#19256
+{BLA,BO}Outer {bo,W}Office{w}~
+   This is a nice-looking office, with a big receiving desk in the
+middle.  The secretary's desk is a mess of unfinished work, and the
+wastecan looks full to the brimming.
+~
+192 8 0
+D0
+~
+~
+0 -1 19257
+D5
+~
+~
+0 -1 19255
+Z3
+C-1
+S
+#19257
+{R,BO}Mayor {Y,BO}Kell{BO,R}'{Y,BO}s {W}Office{w}~
+   Mayor Kell's office is very homey.  There are some plush chairs, a
+nice desk with a well-worn groove where someone puts their feet up
+undoubtedly, pictures of friends and family on the walls, and other
+touches of a well lived-in office.  There is also a well stocked bar
+here, probably stocked by Kell's own tavern in the northern part of
+town.
+~
+192 12 0
+D2
+~
+~
+0 -1 19256
+Z3
+C-1
+S
+#19258
+{Y}Court{R}room{r}~
+   Here's where the judges dispense the decisions of Kerofk upon the
+general populace. At the moment there is no court case going on, but
+it looks like they are setting up for one soon.
+~
+192 8 0
+D2
+~
+~
+0 -1 19255
+Z3
+C-1
+S
+#19259
+{Y}Outer Chamber{y}~
+   This is a small anteroom outside the Council Chambers.  The
+paneling is wood grain, the guards are big.  Waiting might be a good
+idea...
+~
+192 12 0
+D1
+~
+~
+0 -1 19255
+D3
+~
+door~
+1 -1 19260
+Z3
+C-1
+S
+#19260
+{C}Inner {W}Chamber{w}~
+   Now you've done it!  You've interrupted a Council Session!  You'll
+never work in this town again!  What?!?  You don't work here?  Guards,
+ATTACK!!!
+
+   There is a big round table here with 6 seats.  Otherwise, this room
+seems plain, to minimize the distractions upon the Council Members.
+~
+192 8 0
+D1
+~
+door~
+1 -1 19259
+E
+table~
+You notice a small engraving on one side:
+		'Amanda was here.'
+~
+Z3
+C-1
+S
+#19261
+{W}Jailer{BLA,BO}'{bo,W}s {BLA,BO}Room{bla,bo}~
+   A small clean room.  There is a comfortable easy chair and a key
+hook on the wall.  In one corner near the chair, there is a pile of
+discarded newspapers.
+~
+192 8 0
+D1
+~
+door~
+1 19226 19262
+D4
+~
+~
+0 -1 19255
+E
+chair~
+There's a tag on it: 'Laz-E-Goblin'
+~
+E
+newspaper~
+Seems all it is is war news.  How boring!
+~
+Z3
+C-1
+S
+#19262
+{BLA,BO}Cells{bla,bo}~
+    AT LAST!  A jail cell thats not damp, musty, smelly and
+cold... its only damp, musty and cold--they must air this place out
+every once in a while.  There is a bit of grime here, but most of its
+associated with the prisoner...
+~
+192 13 0
+D3
+~
+door~
+1 19226 19261
+Z3
+C-1
+S
+#19263
+{Y,BO}Kell{R,BO}'{Y,BO}s {bo,Y}House{y}~
+   This is Kell's House, the mayor of Kerofk.  To the east is the
+tavern he and his family run, and to the south is the reception area
+for the inn part of this establishment.  Somehow, this place manages
+to feel homey and efficient, as well as giving people a place to meet.
+~
+192 8 0
+D0
+~
+~
+0 -1 19221
+D1
+~
+~
+0 -1 19265
+D2
+~
+~
+0 -1 19264
+Z3
+C-1
+S
+#19264
+{C}Reception{c}~
+   Kell's wife, Myrama, greets you with a smile.  The rooms here are
+big and clean, and you'll never have a more comfortable stay than at
+Kell's House.
+~
+192 12 0
+D0
+~
+~
+0 -1 19263
+Z3
+C-1
+S
+#19265
+{Y,BO}Kell{bo,G}'{Y,BO}s {bo,G}Tavern{g}~
+   Here is the tavern area of Kell's House.  Many people are here,
+talking about everything from politics to hunting.  Is seems as if
+this is more of a thinker's bar than a drinker's, however.  The
+barmaids seem efficient, though, and the bar is very well stocked.
+~
+192 8 0
+D3
+~
+~
+0 -1 19263
+Z3
+C-1
+S
+#19266
+{R,BO}Uh{W,BO}-{C,BO}Oh{W,BO}!{w,bo}~
+   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA(breathe)AAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHH!!!!
+			THUD! CRACK!  KerPLOOMP!
+
+   	   (that wasn't a good idea, but now you know that, eh?)
+
+			  YOU ARE DEAD!  R.I.P.
+
+~
+192 2 0
+D0
+~
+~
+0 -1 19215
+D3
+~
+~
+0 -1 19208
+Z3
+C-1
+S
+#19267
+{BLU,BO}Whoops{W,BO}...{w,bo}~
+
+   Accelerating at 9.81 m/s2 is usually not a good idea unless you
+have a...  SSSSSSPPPPPPPLLLLLLAAAAAAAAATTTTTTTTT!!!!!
+
+(ewww!)  (you're dead, R.I.P.)
+
+~
+192 2 0
+D0
+~
+~
+0 -1 19210
+D3
+~
+~
+0 -1 19209
+Z3
+C-1
+S
+#19268
+{W}The {BLU,BO}Kerofk {R,BO}Mob{Y,BO}Chute{y,bo}~
+   This room delivers mobs randomly around the city, and should not be
+reachable to player characters.  Thanks to Locke of Cthulhu mud for
+use of this idea!
+~
+192 0 0
+D0
+~
+~
+0 0 19224
+D1
+~
+~
+0 0 19205
+D2
+~
+~
+0 0 19217
+D3
+~
+~
+0 0 19222
+D4
+~
+~
+0 0 19229
+D5
+~
+~
+0 0 19212
+Z3
+C-1
+S
+#19269
+{Y}Temple {W,BO}of {bo,W}Unknown{w}~
+   A familiar sight!  The altar of Unknown is decorated with the usual
+array of eagles in flight, and other signs of the god's power.  The
+statue stands proud...an aura around one upheld hand, the other
+holding an open book.  To the west are the living areas of the Priests
+of Unknown, but you think those are restricted to the devout.
+~
+192 8 0
+D0
+~
+~
+0 -1 19238
+D3
+~
+~
+0 -1 19270
+E
+statue~
+   Upon closer inspection, you notice the statue is sticking his
+tongue out at you...
+~
+Z3
+C-1
+S
+#19270
+{BLU,BO}Living {bo,C}Area{c}~
+   Small pallets are laid about in an orderly fashion for the priests.
+a small stool and writing desk is in one corner, a old looking man
+working quietly behind it.  A window lets dim light in to supplement
+the lanterns hanging on the brick walls.
+~
+192 8 0
+D1
+~
+~
+0 -1 19269
+Z3
+C-1
+S
+#19271
+{R,BO}Recruiting {bo,Y}Office{y}~
+   This office is clean and spacious.  A big desk faces the door, with
+a grizzled sergeant behind it.  He turns the paperwork in front of him
+around for you... 'Name, Race, Sex, Age, Address...'.  Behind him you
+see the office of the Captain of the Guard.
+~
+192 8 0
+D1
+~
+~
+0 -1 19272
+D3
+~
+~
+0 -1 19235
+Z3
+C-1
+S
+#19272
+{C,BO}Captain{W,BO}'{C,BO}s {W,BO}Office{w,bo}~
+   This man's office is a testimonial to battle.  Exotic weapons that
+you've never seen before line the walls, and you notice some
+bloodstains on the floor.  A large area in the center is bared,
+allowing sparring room.
+~
+192 8 0
+D3
+~
+~
+0 -1 19271
+Z3
+C-1
+S
+#19273
+{Y}Vacant {W}Lot{w}~
+There's a large flattened area in the middle of this lot.  You get the
+eerie feeling that something SHOULD be here, but isn't.  How Odd!
+Moon Gate Road is to the north.
+~
+192 8 0
+D0
+~
+~
+0 -1 19227
+Z3
+C-1
+S
+#19274
+{C}History {W}of {BLU,BO}Kerofk{blu,bo}~
+   This is an 'accidental room', provided only for room continuity.
+   And so, the history of Kerofk...
+   The city of Kerofk originated in the mind of Builder_5, as a major
+city for use in a role-playing game he was running at the time (a
+heavily modified version of Powers & Perils--a very out-of-print
+Avalon Hill game).  Amanda Eterniale was a player in this game, and
+loved the city.
+   About this time, Amanda received an invitation to build on the
+now-defunct AlbertMUD.  She was taught how to build by an imp
+named MJPrime there, and her first creation was the city of Kerofk,
+in honor of Builder_5's game.
+   AlbertMUD died in a fairly nasty manner, and about half a year
+later, Amanda convinced one of the imps to email her her areas.  She
+gave them to Builder_5, smiled, and said,
+   "Edit these?  Please?"
+   Builder_5 took the better part of 3 months to edit, fix, and convert
+these files into a version more suitable for a public release.  This
+is what you have now.
+   Both of us hope you enjoy this area, over a year in the making...
+	Amanda Eterniale			Builder_5
+~
+192 8 1
+Z3
+C-1
+S
+#19275
+{Y}Shrine {C}to the {BLU,BO}Emperor{blu,bo}~
+   This is a very historical spot for the people of Kerofk, where the
+wizard Rand entered this realm through the 'dimension portal' he made,
+and later went on to found this city. A giant slab of earth lies
+toppled over here, a strange eye-shaped stone embedded in it pointing
+at the sky.  A strange thrum of power in the background raises your
+hackles...remnants and echoes of Rand's power, evidently.
+~
+192 12 0
+D2
+~
+~
+0 -1 19222
+E
+stone eye shaped eye-shaped~
+   Now that you examine it closer, it really does seem to be a carved
+stone eye, worn smooth by time and the elements.  It feels strangely
+warm to the touch, and you feel a tingling as you pass your hand above
+it...
+~
+Z3
+C-1
+S
+#19276
+{W,BO}Star {bo,Y}Gate{y}~
+   This small gate seems to be the main entrance for the farmers
+entering the city with their produce.  Guards wave everyone through
+without a second glance.  There is a big sign here that you might want
+to read.
+~
+192 12 0
+D1
+~
+~
+0 0 19236
+D3
+~
+~
+0 0 19340
+E
+sign~
+			  ADVENTURERS!!!!
+
+I need a party of brave souls to enter the blue temple and destroy the
+evil orb inside.  I shall pay well for the deed!!!  Please stop by my
+temple and get the magic scroll used for entering the foul area if you
+are powerful enough to withstand the trials!!!
+--MouseRider, sage of Kerofk.
+~
+Z3
+C-1
+S
+#19277
+{Y,BO}Moon {bo,Y}Gate{y}~
+   This is Moon Gate, the main entrance to Kerofk and VERY well
+defended.  The guards look at you suspiciously, but let you by with
+little or no hassle. There is also a big sign here that you may want
+to read.
+~
+192 12 0
+D1
+~
+~
+0 0 19232
+D3
+~
+~
+0 0 19335
+E
+sign~
+			  ADVENTURERS!!!
+
+I need a party of brave souls to enter the blue temple and destroy the
+evil orb within.  I shall pay thee well for the deed!  Please stop by
+my temple and get the magic scroll used for entering the foul area, if
+you are powerful enough to withstand its trials!!!  
+--MouseRider, sage of Kerofk.
+~
+Z3
+C-1
+S
+#19278
+{G,BO}Front {bo,G}Yard{g}~
+   This, the front yard of the terrible mansion, seems to be more like
+a jungle than your normal, cultured lawn.  It's obvious that this area
+has not been kept up in many years, decades even! The front door lies
+ever-so-slightly ajar, seemingly to beckon the wary to enter.  The
+strange feelings you're getting you can't seem to attribute to horror
+or evil, so why push your luck?
+~
+192 12 0
+D1
+~
+~
+0 -1 19218
+D3
+~
+~
+0 -1 19279
+Z3
+C-1
+S
+#19279
+{BLU,BO}Foyer{blu,bo}~
+   Deep crevices rack the walls here, leaving holes big enough for
+something quite nasty to live in.  The front door creaks behind you,
+and you whirl about, expecting it to slam shut.  It doesn't and you
+feel kind of silly.  'No one lives here,' you say to yourself quietly,
+just as footsteps upstairs sound...
+~
+192 8 0
+D1
+~
+~
+0 -1 19278
+D3
+~
+~
+0 -1 19280
+Z3
+C-1
+S
+#19280
+{Y,BO}Main {bo,Y}Hall{y}~
+   This is an old, dusty room.  The patterns of filth on the floor
+indicate that several people have inhabited this house still, fairly
+recently in fact.  A once-ornate grand stairway leads up to the second
+floor, and below it's peak is a set of cracked glass doors that open
+up into the backyard.  The hall of the house leads north-south,
+gaining access to some of the interior rooms.
+~
+192 8 0
+D0
+~
+~
+0 -1 19286
+D1
+~
+~
+0 -1 19279
+D2
+~
+~
+0 -1 19289
+D3
+~
+~
+0 -1 19281
+D4
+~
+~
+0 -1 19291
+Z3
+C-1
+S
+#19281
+{G,BO}Back {bo,G}Yard{g}~
+   The backyard is even more overgrown than the front yard.  Here and
+there once-white benches poke up out of the tall grasses, testament to
+better times.  You feel a lot more comfortable here than you were
+inside the house, although there is a looming presence from the garden
+area opening up to your west.  A slight stench of decay passes over
+you, and you consider going back inside the house to your east.
+~
+192 8 0
+D1
+~
+~
+0 -1 19280
+D3
+~
+~
+0 -1 19282
+Z3
+C-1
+S
+#19282
+{C}Entrance{W} to the {G}Garden{g}~
+   Starlight gives this ill-seeming garden illumination, the dim
+twinkling giving the illusion of movement to the plantlife within.
+All around you vines crawl up decaying trellises and the other
+vegetation grows out of control, untended.  You hear a gentle swishing
+of water to a northernly direction, and you can go deeper into the
+garden to the east, but you definitely think going west might be the
+best idea...
+~
+192 8 0
+D0
+~
+~
+0 -1 19283
+D1
+~
+~
+0 -1 19281
+D3
+~
+~
+0 -1 19285
+Z3
+C-1
+S
+#19283
+{BLA,BO}Fountain {bo,C}Area{c}~
+   Unpruned trees block out what little light there was outside the
+garden in this close area.  A small fountain/pool of tarnished marble
+sits in the center, with scum and algae covering its surface.  Small
+creatures flit deep in its depths, and you are not sure you want to
+know exactly what they are.
+   You can head south, to the garden's entrance, or west, to a more
+open area in the garden.
+~
+192 9 0
+D2
+~
+~
+0 -1 19282
+D3
+~
+~
+0 -1 19284
+Z3
+C-1
+S
+#19284
+{C}In the {G}Garden{g}~
+   Here the garden looks dark and ominous, yet strangely beautiful.
+An easel has been set up here, and some art supplies lie on the
+ground, waiting to be used.  Faint light trickles down through the
+leaves like water on this scene, and you feel strangely at peace with
+the garden, recognizing it for the single growing entity it is.
+~
+192 8 0
+D1
+~
+~
+0 -1 19283
+D2
+~
+~
+0 -1 19285
+Z3
+C-1
+S
+#19285
+{C}In the {G}Garden{g}~
+   Ugh! The garden is absolutely dead here!  Fumes from the decaying
+plant matter make you dizzy and nauseous.  What ever killed the plants
+you want no part of.  Perhaps leaving post-haste would be wise.
+~
+192 8 0
+D0
+~
+~
+0 -1 19284
+D1
+~
+~
+0 -1 19282
+Z3
+C-1
+S
+#19286
+{R}Ha{Y}ll{R}wa{Y}y{y}~
+   This hallway was once tapestried in beautiful colors, and well-
+illuminated by the lamps on the walls.  Now the tapestries are
+thread-worn and moth-eaten and most the lamps have disappeared,
+leaving dark holes in the walls.  There is a door to your left and one
+to your right, both slightly ajar.  A window to your north looks out
+to an alley behind a gambling parlor, and to the south is the main
+room of the mansion.
+~
+192 8 0
+D1
+~
+~
+0 -1 19287
+D2
+~
+~
+0 -1 19280
+D3
+~
+~
+0 -1 19288
+Z3
+C-1
+S
+#19287
+{M}Sitting {Y}Room{y}~
+   Lots of extremely old, plush chairs sit about here.  A few tables
+covered with doilies are scattered about, and a large hutch filled
+with ancient cracked china stands against the north wall.  This looks
+like one of those rooms that are just for show and not for everyday
+use.  However, the thick layer of dust covering everything belies the
+neatness of the arrangement of furniture.
+~
+192 8 0
+D3
+~
+~
+0 -1 19286
+Z3
+C-1
+S
+#19288
+{W}A {BLA,BO}Trashed {bo,W}Room{w}~
+   This room looked to be a library once.  Now all the furniture has
+been moved out but for the bookshelves, which are now falling apart.
+It looks like a great deal of violence has occurred in this room, as
+if thousands of fights have occurred here over the years.  You wonder
+who could be capable of such wanton destruction.
+~
+192 8 0
+D1
+~
+~
+0 -1 19286
+Z3
+C-1
+S
+#19289
+{R}Ha{Y}ll{R}wa{Y}y{y}~
+   This section off the interior hallway looks well trodden from the
+tracks in the dust on the floor.  There are doors to the east and
+west, and northwards is the main room of the mansion.  A window once
+graced the south end of this hallway, but it has since been boarded up
+from the outside.
+~
+192 8 0
+D0
+~
+~
+0 -1 19280
+D1
+~
+~
+0 -1 19290
+D3
+~
+~
+0 -1 19292
+Z3
+C-1
+S
+#19290
+{R}Dining {Y}Room{y}~
+   This was once a grand dining hall.  Now the great oak table has
+been completely broken and leaned up against one wall to make room for
+a small folding table and a few chairs taking its place.  Obviously
+the current owners of this mansion don't care much about this place to
+let it fall into ruin so.
+~
+192 8 0
+D3
+~
+~
+0 -1 19289
+Z3
+C-1
+S
+#19291
+{W}Second {Y}Floor {R}Ha{Y}ll{R}wa{Y}y{y}~
+   This is the hallway at the top of the stairs, that leads
+north-south.  Doors line the hallway in both directions, and you can
+go down to the main room.  A big, ten foot tall window on the west
+wall of the stairwell seemed to have been a stained-glass window once,
+but has been worn and cracked by time to just be shards of colored
+glass that doesn't even keep the wind out.
+~
+192 8 0
+D0
+~
+~
+0 -1 19295
+D2
+~
+~
+0 -1 19293
+D5
+~
+~
+0 -1 19280
+Z3
+C-1
+S
+#19292
+{W}Kitchen{w}~
+   As all the other rooms in this house, this kitchen has been mostly
+destroyed by time and inconsideration by the current owners.  There is
+still some fresh food lying about, but a rotten smell fills the air,
+and you see small insects scuttling about in the trash on the floor.
+The one thing that is sure is that you don't want to eat anything that
+was prepared here!
+~
+192 8 0
+D1
+~
+~
+0 -1 19289
+Z3
+C-1
+S
+#19293
+{R}Ha{Y}ll{R}wa{Y}y{y}~
+   This hallway ends short to allow the fireplace in the kitchen to
+reach the roof.  A single door is set in the east wall, and the hall
+leads north to where the stairwell leads down.
+~
+192 8 0
+D0
+~
+~
+0 -1 19291
+D1
+~
+~
+0 -1 19294
+Z3
+C-1
+S
+#19294
+{BLU,BO}Bed{bo,C}room{c}~
+   This bedroom has been made up for two people.  There are bunk beds
+in the center of the room, and different sets of run-down furniture on
+each side.  On the right is a rather neat desk, chair, a chest of
+drawers, and on the left there is just a mess of clothes, papers,
+books, and half-eaten food.  There isn't much interesting here,
+though.
+~
+192 8 0
+D3
+~
+~
+0 -1 19293
+Z3
+C-1
+S
+#19295
+{R}Ha{Y}ll{R}wa{Y}y{y}~
+   This hall leads to the northern part of the second floor, where two
+bedrooms lead off to the east and west.  There is nothing remotely
+interesting here, since the general decrepency of the house is now no
+longer 'new' to you.  Another window looks out over top a gambling
+parlor to the north, where you see several low-life types walking and
+staggering in and out.  The starlight filtering in through the window
+makes this hall a bit more illuminated than the rest of the house.
+~
+192 8 0
+D1
+~
+~
+0 -1 19296
+D2
+~
+~
+0 -1 19291
+D3
+~
+~
+0 -1 19297
+Z3
+C-1
+S
+#19296
+{Y,BO}Guest {bo,Y}Bed{Y,BO}room{y,bo}~
+   This is a tiny little room, about 6 feet square and containing only
+a small bed, a small night-table and a stepladder leaning against the
+wall in one corner.  A lot of disturbed dust on the floor makes you
+wonder what this room is being used for, since it is obvious no one
+has used the bed for a _long_ time.
+~
+192 8 0
+D3
+~
+~
+0 -1 19295
+D4
+~
+trapdoor~
+1 -1 19298
+Z3
+C-1
+S
+#19297
+{M}Bed{M,BO}room{m,bo}~
+   You would guess that a young woman lives in this room, from the
+quality and newness of the clothes that are stacked neatly in the open
+hope-chest, and the different cosmetics lined up on a shelf just below
+a mirror on the far wall.  A small sleeping pallet lies rolled-up on
+the floor neatly, and you notice that there is hardly any dust
+anywhere in this room, making it seem somewhat 'fresh' despite the
+run-down-ness of the rest of the household.
+~
+192 8 0
+D1
+~
+~
+0 -1 19295
+Z3
+C-1
+S
+#19298
+{Y}Attic{y}~
+   This is the attic of the house.  There are shelves built into the
+sides of the roof all around with strange objects floating in jars
+stacked on them.  The smell of formaldehyde is very strong here and
+you begin to feel faint.  There's a door built into a partition to the
+south...maybe you can make it...
+~
+192 9 0
+D2
+~
+door~
+1 -1 19299
+D5
+~
+trapdoor~
+1 -1 19296
+E
+jar jars~
+   Um, the more you look at this jar, the more the thing floating
+inside begins to look at a piece of human anatomy.  *urp* You are
+beginning to feel _very_ ill.
+~
+Z3
+C-1
+S
+#19299
+{R}Bed{R,BO}room{r,bo}~
+   Something smells quite dead here.
+   There is a queen-sized bed taking up most of this small attic
+room. Some clothes are spread about in disorder and the bed isn't
+made.  A single chair is pulled up to a writing desk, where it looks
+like someone works frequently.  Up here it is very chill, much colder
+than it is outside.
+~
+192 8 0
+D0
+~
+door~
+1 -1 19298
+Z3
+C-1
+S
+$~

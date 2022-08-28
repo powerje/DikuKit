@@ -1,0 +1,218 @@
+#4000
+snake~
+the snake~
+A large dreadful snake.
+~
+It looks hungry.
+~
+34 8 -200 S
+11 7 4 5d10+50 3d6+0
+0 12000
+8 8 0
+D 20
+A 12
+#4001
+snake~
+the green snake~
+A small green snake.
+~
+It looks harmless.
+~
+2 0 -100 S
+7 12 4 3d10+30 2d6+1
+0 2500
+8 8 0
+D 20
+A 12
+#4002
+centipede~
+the centipede~
+A small centipede.
+~
+It looks complete harmless.
+~
+2 0 100 S
+3 20 6 2d10+20 1d6+0
+0 500
+8 8 0
+D 20
+A 12
+#4003
+kobold~
+the kobold~
+A ugly kobold.
+~
+It looks ugly.
+~
+68 0 -100 S
+4 16 5 2d10+40 1d8+1
+50 1000
+8 8 0
+R 524288
+D 20
+A 12
+#4004
+orc~
+the orc~
+The orc walks around, looking for someone to kill.
+~
+You notice an evil look in his eyes
+~
+100 0 -400 S
+5 15 5 2d10+60 2d4+0
+100 1300
+8 8 1
+D 20
+A 12
+#4005
+orc~
+the orc~
+A large orc, really mean.
+~
+He looks dreadful.
+~
+68 0 -500 S
+7 11 2 3d20+50 2d6+2
+200 4000
+8 8 1
+D 20
+A 12
+#4006
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#4007
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#4008
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#4050
+warrior~
+the warrior~
+A tall dangerous warrior. He has more scars than anyone you have seen before.
+~
+Well surely a strong, brainless fighter.
+~
+102 0 -300 S
+12 8 4 10d10+50 2d8+1
+1000 12000
+8 8 1
+D 20
+A 12
+#4051
+warrior~
+the warrior~
+A tall warrior.
+~
+He seems to know his way with weapons.
+~
+100 0 -400 S
+7 13 5 3d10+80 2d5+0
+200 3500
+8 8 1
+D 20
+A 12
+#4052
+hobgoblin~
+{G}{BOLD}the Hobgoblin{g}~
+{G}A rather large Hobgoblin looks at you awkwardly.{g}
+~
+
+
+  This rather ugly, large, green and somewhat disfigured creature 
+  has an evil presence about him.  Two large white teeth
+  protrude upward outside his mouth, one on each side.
+  As you get closer, he notices you, and begins making
+  grunting noises... Hmm...
+
+
+~
+68 262656 -300 C 43
+60 -80 0 0d0+31 100d20+0
+100 2000
+8 8 1
+D 20
+A 12
+#4053
+snake~
+the snake~
+A brown snake watches you.
+~
+The snake looks quite mean.
+~
+34 0 -600 S
+10 10 4 3d10+50 3d5+1
+0 10000
+8 8 0
+D 20
+A 12
+#4054
+centipede~
+the centipede~
+A white centipede is here.
+~
+The centipede doesn't really seem to notice you.
+~
+2 0 -100 S
+5 17 5 1d10+50 1d7+0
+0 1300
+8 8 0
+D 20
+A 12
+#4055
+hobgoblin~
+the hobgoblin~
+A large hobgoblin is here.
+~
+The hobgoblin looks quite dangerous.
+~
+68 0 -500 S
+10 11 2 1d10+120 2d6+1
+300 10000
+8 8 1
+D 20
+A 12
+#4056
+orc~
+the orc~
+An orc is here, looking for something (or perhaps someone ? ) to eat.
+~
+Well he doesn't seem to be friendly.
+~
+100 0 -800 S
+8 13 2 3d10+100 2d5+2
+150 7000
+8 8 1
+D 20
+A 12
+$~

@@ -1,0 +1,693 @@
+#9600
+Euparkeria~
+{BO,RED}The{bo,red} {BO,YEL}Euparkeria{bo,yel}~
+{BO,RED}An{bo,red} {BO,YEL}Euparkeria{bo,yel} {GR,GRE}is running about, looking for food.{gr,gre}
+~
+This reptile is only about 3 feet long with a heavy tail to balance its
+body as it runs.
+~
+524480 33280 0 S
+20 -40 3 2d25+500 10d3+5
+1000 30000
+8 8 0
+D 20
+A 12
+#9601
+Tanystropheus~
+{BO,CYA}The{bo,cya} {BO,YEL}Tanystropheus{bo,yel}~
+{YE,YEL}A{ye,yel} {BO,YEL}Tanystropheus{bo,yel} {YE,YEL}is{ye,yel} {BO,YEL}scavenging{bo,yel} {YE,YEL}for food.{ye,yel}
+~
+This strange looking reptile is 13 feet long and mostly neck!
+~
+524480 33280 0 S
+21 -40 3 2d25+500 2d20+5
+1000 30000
+8 8 0
+D 20
+A 12
+#9602
+Ankylosaurus~
+{BO,MAG}The{bo,mag} {BO,CYA}Ankylosaurus{bo,cya}~
+{BO,MAG}An{bo,mag} {BO,CYA}Ankylosaurus{bo,cya} {BO,MAG}is lumbering around in search of juicy plants.{bo,mag}
+~
+Thick bony plating almost completely covers this creature.  The tail is 
+covered with rings of spikes with a huge lump of bone at the end.
+~
+524480 33280 0 S
+23 -40 3 2d25+1000 9d5+5
+1000 150000
+8 8 0
+D 20
+A 12
+#9603
+Stegosaurus~
+The Stegosaurus~
+{BO,BLA}A Stegosaurus walks by, knocking down everything in its path.{bo,bla}
+~
+HUGE bony plates run down this creatures spine to a tail that is covered
+with long, sharp spikes.
+~
+524480 33280 0 S
+25 -40 3 50d2+2000 7d3+10
+1500 170000
+8 8 0
+D 20
+A 12
+#9604
+Dimetrodon~
+{BO,GRE}The{bo,gre} {BO,RED}Dimetrodon{bo,red}~
+{YE,YEL}A Dimetrodon looks{ye,yel} {BO,RED}at you{bo,red} {YE,YEL}like you are its next{ye,yel} {BO,BLU}meal{bo,blu}{BO,YEL}.{ye,yel}
+~
+The Dimetrodon's razor sharp teeth could easily pierce your armour.
+~
+268959936 33280 0 S
+30 -40 3 5d20+2500 8d4+15
+1500 190000
+8 8 0
+D 20
+A 12
+#9605
+Podekosaurus~
+{BO,WHI}T{bo,whi}h{BO,WHI}e{bo,whi} P{BO,WHI}o{bo,whi}d{BO,WHI}e{bo,whi}k{BO,WHI}o{bo,whi}s{BO,WHI}a{bo,whi}u{BO,WHI}r{bo,whi}u{BO,WHI}s{bo,whi}~
+{BO,GRE}A Podekosaurus darts around eratically.{bo,gre}
+~
+A small, but fast reptile.
+~
+524480 33280 0 S
+15 -40 3 5d8+400 2d6+4
+0 9493
+8 8 0
+D 20
+A 12
+#9606
+Protoceratops~
+{GR,GRE}The Protoceratops{gr,gre}~
+{BO,CYA}A{bo,cya} {BO,WHI}Protoceratops{bo,whi} {BO,CYA}stomps around.{bo,cya}
+~
+The whole head of this creature from its jaw to its neck is protected with a 
+thick plate of bone.
+~
+524480 33280 0 S
+20 -40 3 15d5+500 2d8+6
+0 1690
+8 8 0
+D 20
+A 12
+#9607
+Ornithomimus~
+{RE,RED}The{re,red} {YE,YEL}Ornithomimus{ye,yel}~
+{RE,RED}You pass between the legs of a{re,red} {YE,YEL}Ornithomimus{ye,yel} {BO,RED}as it runs over top of you!{bo,red}
+~
+This bi-pedal creature has LONG hind legs, a long tail and short forearms.
+It doesn't seem like its interested in killing you.
+~
+268959936 33280 0 S
+20 -40 3 1d15+800 3d8+8
+500 50000
+8 8 0
+D 20
+A 12
+#9608
+Teratosaurus~
+{BO,CYA}The{bo,cya} {CY,CYA}Teratosaurus{cy,cya}~
+{RE,RED}A Teratosaurus savagely devours the corpse of a dead Euparkeria.{re,red}
+~
+The Teratosaurus is only about 12 feet long, but it is savagely carniverous!
+Why is it looking at you like that!?  Uh oh, its starting to salivate!
+~
+524480 33280 0 S
+25 -40 3 4d10+1000 4d8+4
+500 100000
+8 8 0
+R 524288
+D 20
+A 12
+#9609
+Crocodilian~
+{BO,GRE}The{bo,gre} {GR,GRE}Crocodilian{gr,gre}~
+{YE,YEL}A{ye,yel} {BO,GRE}Crocodilian emerges from the{bo,gre} {BO,BLU}water{bo,blu} {BO,GRE}and{bo,gre} {BO,RED}snaps{bo,red} {BO,GRE}at you!{bo,gre}
+~
+This reptile is much like a crocodile except it is a lot meaner, tougher and
+hungrier!
+~
+268959968 33280 0 S
+29 -40 3 4d20+1000 5d6+6
+500 190000
+8 8 0
+D 20
+A 12
+#9610
+Elasmosaurus~
+{BO,CYA}The Elasmosaurus{bo,cya}~
+{BO,MAG}An Elasmosaurus rears its long neck and snaps at you!{bo,mag}
+~
+The Elasmosaurus has a long neck and four rather short paddle-like flippers.
+It grabs you in its powerful jaws!
+~
+268435680 33280 0 S
+35 -40 3 4d50+1500 7d6+6
+500 200000
+8 8 0
+D 20
+A 12
+#9611
+Gnathosaurus~
+{BO,WHI}The Gnathosaurus{bo,whi}~
+{BL,BLU}A huge wind blows you around the room as a{bl,blu} {BO,BLU}Gnathosaurus{bo,blu} {BL,BLU}beats its wings.{bl,blu}
+~
+The Gnathosaurus is another huge, bird-like reptile that lived millions of
+years ago.
+~
+268959808 33280 0 S
+30 -40 3 4d5+1100 7d4+6
+500 180000
+9 9 0
+D 20
+A 12
+#9612
+Park Owner Old Man~
+The Park Owner~
+An old mad starts telling you his life story.
+~
+This old gray-haired man is the source of money that made this park possible.
+~
+738197572 1376027304 0 S
+53 -40 -5 3d3+18000 15d15+0
+1000000 3500000
+8 8 0
+D 20
+A 12
+#9613
+Ranger~
+{BO,GRE}T{bo,gre}{GR,GRE}h{gr,gre}{BO,GRE}e{bo,gre} {GR,GRE}R{gr,gre}{BO,GRE}a{bo,gre}{GR,GRE}n{gr,gre}{BO,GRE}g{bo,gre}{GR,GRE}e{gr,gre}{BO,GRE}r{bo,gre}~
+{GR,GRE}The{gr,gre} {BO,GRE}Ranger{bo,gre} {GR,GRE}of the park is making sure the{gr,gre} {BO,BLA}dinosaurs{bo,bla} {GR,GRE}are under control.{gr,gre}
+~
+This man is a highly skilled tracker and hunter.  It is his job to keep the
+dinosaurs under control, and to search and destroy any that may threaten
+the safety of the visitors to the park.
+~
+738197572 1376551592 0 S
+53 -40 -5 3d3+15000 15d10+30
+100000 3000000
+5 8 0
+R 1048576
+D 20
+A 12
+#9614
+Paleontologist~
+{BO,CYA}The{bo,cya} {BO,GRE}Paleontologist{bo,gre}~
+{BO,CYA}A{bo,cya} {BO,GRE}P{bo,gre}{BO,CYA}aleontologist{bo,cya} {BO,GRE}d{bo,gre}{BO,CYA}igs{bo,cya} {BO,GRE}a{bo,gre}{BO,CYA}round{bo,cya} {BO,GRE}f{bo,gre}{BO,CYA}or{bo,cya} {BO,GRE}f{bo,gre}{BO,CYA}ossilized{bo,cya} {BO,GRE}b{bo,gre}{BO,CYA}ones.{bo,cya}
+~
+The Paleontologist has a scruffy beard and is covered in dirt from digging.
+~
+738197572 1376027304 0 S
+53 -40 -5 3d3+15000 15d10+0
+100000 3000000
+8 8 0
+D 20
+A 12
+#9615
+Tourist~
+The Tourist~
+A tourist is taking pictures of everything.  Say cheese!
+~
+A typical looking tourist with several camera's and a set of binoculars
+hanging around the neck.
+~
+738197572 1376027304 0 S
+53 -40 -5 3d3+15000 15d10+0
+100000 3000000
+8 8 0
+D 20
+A 12
+#9616
+Scientist~
+{BO,BLU}A{bo,blu} {BO,CYA}Scientist{bo,cya}~
+{BO,BLU}A{bo,blu} {BO,CYA}scientist{bo,cya} is working hard cloning {BO,YEL}D{bo,yel}{BO,BLU}N{bo,blu}{BO,GRE}A{bo,gre}.
+~
+The Scientists looks very busy working with a lot of testubes and very
+complicated equipment.  Even though they pay is good, you see a worried look
+on the scientists face about the morality or creating dinosaurs.
+~
+738197572 1376027304 0 S
+53 -40 -5 3d3+15000 15d10+0
+100000 3000000
+8 8 0
+R 2097152
+D 20
+A 12
+#9617
+Computer Engineer~
+{BO,CYA}The{bo,cya} {BO,GRE}Computer{bo,gre} {BO,CYA}Engineer{bo,cya}~
+{BO,RED}A computer engineer is trying to keep the security perimeter from crashing.{bo,red}
+~
+The Computer Engineer is typing away at a keyboard with with his nose almost
+touching the screen.
+~
+738197572 1376027304 0 S
+53 -40 -5 3d3+15000 15d10+0
+100000 3000000
+8 8 0
+D 20
+A 12
+#9618
+Brontosaurus~
+{BO,YEL}The Brontosaurus{bo,yel}~
+{BO,BLU}A{bo,blu} {BO,RED}Brontosaurus{bo,red} {BO,BLU}stretches its long neck to eat some leaves.{bo,blu}
+~
+It's HUGE!!  This MASSIVE creature is stretching its neck to eat the tree
+leaves. You are about the size of its big toe!  You'd better watch that you
+don't get SQUASHED!
+~
+1233682496 1107591848 0 S
+55 -40 -5 3d3+25000 15d20+0
+0 3000000
+8 8 0
+D 20
+A 12
+#9619
+Velociraptor Raptor~
+{BO,BLA}The Raptor{bo,bla}~
+{GR,GRE}A Velociraptor sneaks up behind you and tears you open with it's claws!{gr,gre}
+~
+RUN FOR YOUR LIFE!!  The claws on this creature can slice through you like
+butter! TOO LATE!!  IT HAS SEEN YOU!!!!
+~
+1266688224 1377600424 0 S
+59 -40 -5 2000d1+1 8d8+20
+0 1000000
+8 8 0
+D 20
+A 12
+#9620
+Tyrannosaurus Rex~
+{GR,GRE}T{gr,gre}{BO,BLA}h{bo,bla}{GR,GRE}e{gr,gre} {BO,BLA}T{bo,bla}{GR,GRE}y{gr,gre}{BO,BLA}r{bo,bla}{GR,GRE}a{gr,gre}{BO,BLA}n{bo,bla}{GR,GRE}n{gr,gre}{BO,BLA}o{bo,bla}{GR,GRE}s{gr,gre}{BO,BLA}a{bo,bla}{GR,GRE}u{gr,gre}{BO,BLA}r{bo,bla}{GR,GRE}u{gr,gre}{BO,BLA}s{bo,bla}~
+{YE,YEL}A Tyrannoaurus{ye,yel} {BO,RED}Rex{bo,red} {BO,GRE}ROARS{bo,gre} {BO,YEL}at{BO,yel} {BO,CYA}YOU{bo,cya}{BO,YEL}!!{bo,yel}
+~
+AAAAAAAAHHHHHHHHHH!!!!!! The Tyrannosaurus Rex has six inch teeth!  You see
+rotting meet stuck in his teeth as he ROARS at YOU!!  Maybe if you stand
+very still, it will go away!  Maybe not!
+~
+1207959648 1377600168 0 S
+60 -70 -7 3d3+32000 15d20+45
+0 4000000
+8 8 0
+S 1728
+R 8388892
+D 20
+A 12
+#9621
+Iguanodon~
+The Iguanodon~
+{BO,WHI}An Iguanodon walks past you, nearly stepping on you.{bo,whi}
+~
+The Iguanodon has a strange defensive claw with fingers adapted for digging.
+~
+1216380992 1107591848 0 S
+55 -40 -5 3d3+20000 15d8+0
+0 3000000
+8 8 0
+D 20
+A 12
+#9622
+Triceratops~
+The Triceratops~
+A Triceratops wanders around looking for its herd.
+~
+The Triceratops is equipped with 3 sword-like horns projecting from its head.
+It's neck and shoulders are encased in huge bone shields.
+~
+1233158208 1376027272 0 S
+53 -40 -5 100d5+25000 15d15+0
+1000 3500000
+8 8 0
+D 20
+A 12
+#9623
+Brachiosaurus~
+The Brachiosaurus~
+A Brachiosaurus is feeding from the trees above.
+~
+WOW! The sheer size of this creature astounds you!  It is even larger than
+the Brontosaurus!  It wouldn't even feel it if it stepped on you!  
+~
+1216380992 1107591848 0 S
+55 -40 -5 3d3+30000 15d8+0
+0 3200000
+8 8 0
+D 20
+A 12
+#9624
+Pteranodon~
+Pteranodon~
+A Pteranodon watches you from its perch in the trees.
+~
+The Pteranodon is a HUGE, bat-like reptile with a wing span of 27 feet!  It
+could carry you away effortlessly.
+~
+1216380992 1376027272 0 S
+53 -40 -5 27000d1+1 15d15+0
+1000 3500000
+8 8 0
+D 20
+A 12
+#9625
+Pterodactyl~
+The Pterodactyl~
+A Pterodactyl swoops down at you!
+~
+The Pterodactyl is a huge reptilian bird!  You would be a nice meal for its
+young.
+~
+1216380992 1107591848 0 S
+55 -40 -5 3d3+25000 15d8+0
+0 3000000
+9 9 0
+D 20
+A 12
+#9626
+Kronosaurus~
+The Kronosaurus~
+A Kronosaurus bites your leg and pulls you under the water!
+~
+The Kronosaurus is a marine reptile that rows its way through the water with
+powerful paddle-like limbs.  Its head is about 12 feet long!
+~
+1216381024 1107591848 0 S
+55 -40 -5 3d3+20000 15d8+0
+0 3000000
+8 8 0
+D 20
+A 12
+#9627
+Basilosaurus~
+The Basilosaurus~
+A Basilosaurus jumps out of the water and tries to swallow you whole!
+~
+The Basilosaurus is about 50 feet long and looks like a HUGE serpent!
+~
+1216381024 1107591848 0 S
+55 -40 -5 3d3+20000 15d8+0
+0 3000000
+8 8 0
+D 20
+A 12
+#9628
+Spinosaurus~
+The Spinosaurus~
+A Spinosaurus savagely shreds the corpse of a Triceratops with its sharp teeth!
+~
+The Spinosaurus is distinguished by its 3 foot high spine of bone.  It made
+quick work of that Triceratops, you could be next!
+~
+1216380992 1107591848 0 S
+55 -40 -5 3d3+20000 15d8+0
+0 3000000
+8 8 0
+D 20
+A 12
+#9629
+Allosaurus~
+The Allosaurus~
+An Allosaurus catches and devours a Protoceratops right before your eyes!
+~
+The Allosaurus is a vicious carnivore but not as terrifying as T-REX!
+~
+1233158240 1107591848 0 S
+55 -40 -5 3d3+20000 15d8+20
+0 3000000
+8 8 0
+D 20
+A 12
+#9630
+Santa~
+Santa Claus~
+Jolly 'Ol Saint Nick gives you a present!
+~
+A FAT guy who likes making people happy.
+~
+1141506048 1107591848 0 S
+60 -40 -10 1000d1000+10000 15d10+50
+0 3000000
+8 8 0
+S 12583872
+R 16
+D 20
+A 12
+#9631
+Peter Caine~
+Peter Caine~
+Peter Caine flashes his badge at you and points his gun in your face.
+~
+A sexy guy with a gun and an attitude.
+~
+1141374976 1107591848 0 S
+55 -40 -5 3d3+2000 7d7+0
+0 30000
+8 8 0
+D 20
+A 12
+#9632
+Kwai-Chang Caine~
+Kwai-Chang Caine~
+Kwai-Chang Caine wanders around telling everyone about their inner Chi.
+~
+He is a Shaolin priest.  Very honorable, and very deadly!
+~
+1141374976 1107591848 0 S
+55 -40 -5 3d3+2000 10d8+0
+0 30000
+8 8 0
+D 20
+A 12
+#9633
+Rudolph~
+Rudolph the red-nosed reindeer~
+Rudolph the red nosed reindeer shines his nose at you.
+~
+He's a cute little furry guy, but get's very upset when you look at his nose!
+~
+1141374976 1107591848 0 S
+55 -40 -5 30d1000+100 10d10+60
+0 30000
+8 8 0
+D 20
+A 12
+#9634
+Dancer~
+Dancer~
+Dancer rummages around for some grass and lichen.
+~
+           
+Dancer has a thick fur coat for pretection against the extreme cold of the
+north pole.
+~
+524288 1107591848 0 S
+55 -40 -5 3d3+2000 10d8+0
+0 30000
+8 8 0
+D 20
+A 12
+#9635
+Prancer~
+Prancer~
+                       
+Prancer rummages around for some grass and lichen.                          
+~
+Prancer has a thick fur coat for pretection against the extreme cold of the
+north pole.
+~
+524288 1107591848 0 S
+55 -40 -5 3d3+2000 10d8+0
+0 30000
+8 8 0
+D 20
+A 12
+#9636
+Vixen~
+Vixen~
+                       
+Vixen rummages around for some grass and lichen.                          
+~
+Vixen has a thick fur coat for pretection against the extreme cold of the
+north pole.
+~
+524288 1107591848 0 S
+55 -40 -5 3d3+2000 10d8+0
+0 30000
+8 8 0
+D 20
+A 12
+#9637
+Blitzen~
+Blitzen~
+                       
+Blitzen rummages around for some grass and lichen.                          
+~
+Blitzen has a thick fur coat for pretection against the extreme cold of the
+north pole.
+~
+524288 1107591848 0 S
+55 -40 -5 3d3+2000 10d8+0
+0 30000
+8 8 0
+D 20
+A 12
+#9638
+Comet~
+Comet~
+                       
+Comet rummages around for some grass and lichen.                          
+~
+Comet has a thick fur coat for pretection against the extreme cold of the
+north pole.
+~
+524288 1107591848 0 S
+55 -40 -5 3d3+2000 10d8+0
+0 30000
+8 8 0
+D 20
+A 12
+#9639
+Cupid~
+Cupid~
+                       
+Cupid rummages around for some grass and lichen.                          
+~
+Cupid has a thick fur coat for pretection against the extreme cold of the
+north pole.
+~
+524288 1107591848 0 S
+55 -40 -5 3d3+2000 10d8+0
+0 30000
+8 8 0
+D 20
+A 12
+#9640
+Donner~
+Donner~
+                       
+Donner rummages around for some grass and lichen.                          
+~
+Donner has a thick fur coat for pretection against the extreme cold of the
+north pole.
+~
+524288 1107591848 0 S
+55 -40 -5 3d3+2000 10d8+0
+0 30000
+8 8 0
+D 20
+A 12
+#9641
+Dasher~
+Dasher~
+                       
+Dasher rummages around for some grass and lichen.                          
+~
+Dasher has a thick fur coat for pretection against the extreme cold of the
+north pole.
+~
+524288 1107591848 0 S
+55 -40 -5 3d3+2000 10d8+0
+0 30000
+8 8 0
+D 20
+A 12
+#9642
+Elf~
+An elf~
+A little elf is here making a toy for Santa to deliver on Christmas.
+~
+It's a little guy with pointy ears, a pointy hat and wearing a green uniform
+with green shoes that have sleigh bells on the toes.
+~
+2215116800 1107591848 0 S
+55 -40 -5 10d100+1000 10d8+60
+0 30000
+8 8 0
+D 20
+A 12
+#9643
+Ace Ventura~
+Ace Ventura~
+Ace Ventura is struting around wearing his cool sunglasses.
+~
+A very wierd guy, but a brilliant pet detective!
+~
+524288 1107591848 0 S
+55 -40 -5 3d3+20000 10d8+0
+0 30000
+8 8 0
+D 20
+A 12
+#9644
+baby dinosaur t-rex trex t rex~
+A Baby Tyrannosaurus Rex~
+A rather small Tyranossaurus Rex paces around here in search of food.
+~
+
+It looks a lot smaller than it's parents but by the size of those teeth and the
+speed of that tail I wouldnt want to take any chances !
+
+~
+1300545639 1195156392 -750 C 4
+58 -100 -8 32000d1+1 0d0+300
+0 1000
+8 8 0
+D 20
+A 12
+#9645
+Scientist~
+{BO,BLU}A{bo,blu} {BO,CYA}Scientist{bo,cya}~
+{BO,BLU}A{bo,blu} {BO,CYA}scientist{bo,cya} is working hard cloning {BO,YEL}D{bo,yel}{BO,BLU}N{bo,blu}{BO,GRE}A{bo,gre}.
+~
+The Scientists looks very busy working with a lot of testubes and very
+complicated equipment.  Even though they pay is good, you see a worried look
+on the scientists face about the morality or creating dinosaurs.
+~
+738197572 1376027304 0 S
+53 10 -5 3d3+15000 15d10+0
+100000 3000000
+8 8 0
+D 20
+A 12
+#9646
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#9647
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#9648
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+$~

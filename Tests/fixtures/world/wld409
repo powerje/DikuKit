@@ -1,0 +1,1186 @@
+#40900
+Riddle Quest Start~
+{YELLOW,BOLD}Welcome to the Riddle Quest!{yellow,bold}
+ 
+{YELLOW,BOLD}This is a quest that tests your ability to answer riddles. However, you are in
+no threat of being eaten by a sphinx but there is a prize waiting at the end.{yellow,bold}
+ 
+{YELLOW,BOLD}You will now be divided into teams and told which way to go.{yellow,bold}
+ 
+{WHITE,BOLD}- North for Team A
+- East  for Team B
+- South for Team C
+- West  for Team D{white,bold}
+{YELLOW,BOLD}
+Wait in the next room and review the instructions in room's description until
+the immort running the quest yells the name of the hidden portal in the 
+starting room.  This will occur once everyone is ready to start.{yellow,bold}
+ 
+~
+409 8192 1
+D0
+~
+~
+0 -1 40901
+D1
+~
+~
+0 -1 40926
+D2
+~
+~
+0 -1 40951
+D3
+~
+~
+0 -1 40976
+X40
+Z-1
+C-1
+S
+#40901
+{CYAN}Team A Start{cyan}~
+{CYAN,BOLD}Welcome to Team A Start Room{cyan,bold}
+ 
+{CYAN,BOLD}You will be sent through a series of rooms.  In the description of each, you
+will find a riddle. The answer to the riddle gives you the name of the hidden
+portal in the room.  So, when you have an answer, type {cyan,bold}{MAGENTA,BOLD}"open <answer>"{magenta,bold}{CYAN,BOLD} and 
+if it opens, you have the correct one.{cyan,bold}
+ 
+{CYAN,BOLD}Please wait for the immort running the quest to yell the name of the hidden 
+portal in this room.{cyan,bold}
+ 
+~
+409 8192 1
+D0
+~
+simple~
+3 -1 40902
+X40
+Z-1
+C-1
+S
+#40902
+{CYAN}Team A Riddle 1{cyan}~
+{CYAN,BOLD}Riddle #1{cyan,bold}
+
+{CYAN,BOLD}What has a tongue, cannot walk, but gets around a lot?{cyan,bold}
+
+~
+409 24576 1
+D0
+~
+shoe~
+3 -1 40903
+D2
+~
+simple~
+3 -1 40901
+X40
+Z-1
+C-1
+S
+#40903
+{CYAN}Team A Riddle 2{cyan}~
+{CYAN,BOLD}Riddle #2{cyan,bold}
+
+{CYAN,BOLD}What flower grows between your nose and your chin? {cyan,bold}
+
+~
+409 24576 1
+D0
+~
+tulip~
+3 -1 40904
+D2
+~
+shoe~
+3 -1 40902
+X40
+Z-1
+C-1
+S
+#40904
+{CYAN}Team A Riddle 3{cyan}~
+{CYAN,BOLD}Riddle #3{cyan,bold}
+
+{CYAN,BOLD}What turns everything around, but does not move?{cyan,bold}
+
+~
+409 24576 1
+D0
+~
+mirror~
+3 -1 40905
+D2
+~
+tulip~
+3 -1 40903
+X40
+Z-1
+C-1
+S
+#40905
+{CYAN}Team A Riddle 4{cyan}~
+{CYAN,BOLD}Riddle #5{cyan,bold}
+ 
+{CYAN,BOLD}Common people always see it. Kings and Queens seldom see it. And God never see's it. What am I? {cyan,bold}
+ 
+~
+409 24576 1
+D0
+~
+peer~
+3 -1 40906
+D1
+~
+equal~
+3 -1 40906
+D2
+~
+mirror~
+3 -1 40904
+X40
+Z-1
+C-1
+S
+#40906
+{CYAN}Team A Riddle 5{cyan}~
+{CYAN,BOLD}Riddle #5{cyan,bold}
+ 
+{CYAN,BOLD}It has cities, but no houses;{cyan,bold}
+ 
+{CYAN,BOLD}It has forests, but no trees;{cyan,bold}
+ 
+{CYAN,BOLD}It has rivers, but no fish.{cyan,bold}
+ 
+{CYAN,BOLD}What is it?{cyan,bold}
+ 
+~
+409 24576 1
+D0
+~
+map~
+3 -1 40907
+D2
+~
+peer~
+1 -1 40905
+X40
+Z-1
+C-1
+S
+#40907
+{CYAN}Team A Riddle 6{cyan}~
+{CYAN,BOLD}Riddle #6{cyan,bold}
+ 
+{CYAN,BOLD}He has one and a person has two, a citizen has three and a human being 
+has four, a personality has five and an inhabitant of earth has six. What am I?{cyan,bold}
+ 
+~
+409 24576 1
+D0
+~
+syllable~
+3 -1 40908
+D2
+~
+map~
+3 -1 40906
+X40
+Z-1
+C-1
+S
+#40908
+{CYAN}Team A Riddle 7{cyan}~
+{CYAN,BOLD}Riddle #7{cyan,bold}
+ 
+{CYAN,BOLD}I am around long before dawn.
+But by lunch I am usually gone.
+You can see me summer, fall, and spring.
+I like to get on everything.
+But when winter winds start to blow;
+Burr, then it's time for me to go!{cyan,bold}
+ 
+ 
+{CYAN,BOLD}What am I?{cyan,bold}
+ 
+~
+409 24576 1
+D0
+~
+dew~
+3 -1 40909
+D2
+~
+syllable~
+3 -1 40907
+X40
+Z-1
+C-1
+S
+#40909
+{CYAN}Team A Riddle 8{cyan}~
+{CYAN,BOLD}Riddle #8{cyan,bold}
+ 
+{CYAN,BOLD}What is the fastest time that a group of four people
+can row to the other side of the river with the following rules 
+in place?{cyan,bold}
+ 
+{CYAN,BOLD}The speed of the rowers is as follows:{cyan,bold}
+  
+{CYAN,BOLD}Rower #1 -- rows in 1 minute 
+Rower #2 -- rows in 2 minutes 
+Rower #5 -- rows in 5 minutes 
+Rower #10 -- rows in 10 minutes{cyan,bold}
+ 
+{CYAN,BOLD}o All four people must get to the other side of the river using the rowboat.
+o Only two people can travel in, on, or around the boat at any one time. 
+o The person in the boat who rows at the slowest speed must do the rowing 
+(they travel at the speed of the slowest person).{cyan,bold}
+ 
+{CYAN,BOLD} NOTE: Spell out the answer{cyan,bold}
+ 
+~
+409 24576 1
+D0
+~
+seventeen~
+3 -1 40999
+D2
+~
+dew~
+3 -1 40908
+X40
+Z-1
+C-1
+S
+#40910
+{CYAN}Team A Riddle 9{cyan}~
+You are standing in nowhere !!!!
+~
+409 24576 1
+X40
+Z0
+C-1
+S
+#40911
+{CYAN}Team A Riddle 10{cyan}~
+You are standing in nowhere !!!!
+~
+409 24576 1
+X40
+Z0
+C-1
+S
+#40912
+{CYAN}Team A Riddle 11{cyan}~
+You are standing in nowhere !!!!
+~
+409 24576 1
+X40
+Z0
+C-1
+S
+#40913
+{CYAN}Team A Riddle 12{cyan}~
+You are standing in nowhere !!!!
+~
+409 24576 1
+X40
+Z0
+C-1
+S
+#40914
+{CYAN}Team A Riddle 13{cyan}~
+You are standing in nowhere !!!!
+~
+409 24576 1
+X40
+Z0
+C-1
+S
+#40915
+{CYAN}Team A Riddle 14{cyan}~
+You are standing in nowhere !!!!
+~
+409 24576 1
+X40
+Z0
+C-1
+S
+#40916
+{CYAN}Team A Riddle 15{cyan}~
+You are standing in nowhere !!!!
+~
+409 24576 1
+X40
+Z0
+C-1
+S
+#40926
+{MAGENTA}Team B Start{magenta}~
+{MAGENTA,BOLD}Welcome to Team B Start Room{magenta,bold}
+ 
+{MAGENTA,BOLD}You will be sent through a series of rooms.  In the description of each, you
+will find a riddle. The answer to the riddle gives you the name of the hidden
+portal in the room.  So, when you have an answer, type {magenta,bold}{CYAN,BOLD}"open <answer>"{cyan,bold}{MAGENTA,BOLD} and 
+if it opens, you have the correct one.{magenta,bold}
+ 
+{MAGENTA,BOLD}Please wait for the immort running the quest to yell the name of the hidden 
+portal in this room.{magenta,bold}
+ 
+~
+409 8192 1
+D0
+~
+simple~
+3 -1 40927
+X40
+Z-1
+C-1
+S
+#40927
+{MAGENTA}Team B Riddle 1{magenta}~
+{MAGENTA,BOLD}Riddle #1{magenta,bold}
+ 
+{MAGENTA,BOLD}What has a tongue, cannot walk, but gets around a lot?{magenta,bold}
+
+~
+409 24576 1
+D0
+~
+shoe~
+3 -1 40928
+D2
+~
+simple~
+3 -1 40926
+X40
+Z-1
+C-1
+S
+#40928
+{MAGENTA}Team B Riddle 2{magenta}~
+{MAGENTA,BOLD}Riddle #2{magenta,bold}
+ 
+{MAGENTA,BOLD}What flower grows between your nose and your chin? {magenta,bold}
+ 
+~
+409 24576 1
+D0
+~
+tulip~
+3 -1 40929
+D2
+~
+shoe~
+3 -1 40927
+X40
+Z-1
+C-1
+S
+#40929
+{MAGENTA}Team B Riddle 3{magenta}~
+{MAGENTA,BOLD}Riddle #3{magenta,bold}
+ 
+{MAGENTA,BOLD}What turns everything around, but does not move?{magenta,bold}
+ 
+~
+409 24576 1
+D0
+~
+mirror~
+3 -1 40930
+D2
+~
+tulip~
+3 -1 40928
+X40
+Z-1
+C-1
+S
+#40930
+{MAGENTA}Team B Riddle 4{magenta}~
+{MAGENTA,BOLD}Riddle #4{magenta,bold}
+ 
+{MAGENTA,BOLD}Common people always see it. Kings and Queens seldom see it. And God never see's it. What am I?{magenta,bold}
+ 
+~
+409 24576 1
+D0
+~
+peer~
+3 -1 40931
+D1
+~
+equal~
+3 -1 40931
+D2
+~
+mirror~
+1 -1 40929
+X40
+Z-1
+C-1
+S
+#40931
+{MAGENTA}Team B Riddle 5{magenta}~
+{MAGENTA,BOLD}Riddle #5{magenta,bold}
+ 
+{MAGENTA,BOLD}It has cities, but no houses;{magenta,bold}
+ 
+{MAGENTA,BOLD}It has forests, but no trees;{magenta,bold}
+ 
+{MAGENTA,BOLD}It has rivers, but no fish.{magenta,bold}
+ 
+ 
+{MAGENTA,BOLD}What is it?{magenta,bold}
+ 
+~
+409 24576 1
+D0
+~
+map~
+3 -1 40932
+D2
+~
+peer~
+1 -1 40930
+X40
+Z-1
+C-1
+S
+#40932
+{MAGENTA}Team B Riddle 6{magenta}~
+{MAGENTA,BOLD}Riddle #6{magenta,bold}
+ 
+{MAGENTA,BOLD}He has one and a person has two, a citizen has three and a human being has four, a personality has five and an inhabitant of earth has six. What am I?{magenta,bold}
+ 
+~
+409 24576 1
+D0
+~
+syllable~
+3 -1 40933
+D2
+~
+map~
+3 -1 40931
+X40
+Z-1
+C-1
+S
+#40933
+{MAGENTA}Team B Riddle 7{magenta}~
+{MAGENTA,BOLD}Riddle #7{magenta,bold}
+ 
+{MAGENTA,BOLD}I am around long before dawn.
+But by lunch I am usually gone.
+You can see me summer, fall, and spring.
+I like to get on everything.
+But when winter winds start to blow;
+Burr, then it's time for me to go!{magenta,bold}
+ 
+~
+409 24576 1
+D0
+~
+dew~
+3 -1 40934
+D2
+~
+syllable~
+3 -1 40932
+X40
+Z-1
+C-1
+S
+#40934
+{MAGENTA}Team B Riddle 8{magenta}~
+{MAGENTA,BOLD}Riddle #8{magenta,bold}
+ 
+{MAGENTA,BOLD}What is the fastest time that a group of four people
+can row to the other side of the river with the following rules 
+in place?{magenta,bold}
+ 
+{MAGENTA,BOLD}The speed of the rowers is as follows:{magenta,bold}
+  
+{MAGENTA,BOLD}Rower #1 -- rows in 1 minute 
+Rower #2 -- rows in 2 minutes 
+Rower #5 -- rows in 5 minutes 
+Rower #10 -- rows in 10 minutes{magenta,bold}
+ 
+{MAGENTA,BOLD}o All four people must get to the other side of the river using the rowboat.
+o Only two people can travel in, on, or around the boat at any one time. 
+o The person in the boat who rows at the slowest speed must do the rowing 
+(they travel at the speed of the slowest person).{magenta,bold}
+ 
+{MAGENTA,BOLD} NOTE: Spell out the answer{magenta,bold}
+ 
+~
+409 24576 1
+D0
+~
+seventeen~
+3 -1 40999
+D2
+~
+dew~
+3 -1 40933
+X40
+Z-1
+C-1
+S
+#40935
+{MAGENTA}Team B Riddle 9{magenta}~
+You are standing in nowhere !!!!
+~
+409 24576 1
+X40
+Z0
+C-1
+S
+#40936
+{MAGENTA}Team B Riddle 10{magenta}~
+You are standing in nowhere !!!!
+~
+409 24576 1
+X40
+Z0
+C-1
+S
+#40937
+{MAGENTA}Team B Riddle 11{magenta}~
+You are standing in nowhere !!!!
+~
+409 24576 1
+X40
+Z0
+C-1
+S
+#40938
+{MAGENTA}Team B Riddle 12{magenta}~
+You are standing in nowhere !!!!
+~
+409 24576 1
+X40
+Z0
+C-1
+S
+#40939
+{MAGENTA}Team B Riddle 13{magenta}~
+You are standing in nowhere !!!!
+~
+409 24576 1
+X40
+Z0
+C-1
+S
+#40940
+{MAGENTA}Team B Riddle 14{magenta}~
+You are standing in nowhere !!!!
+~
+409 24576 1
+X40
+Z0
+C-1
+S
+#40941
+{MAGENTA}Team B Riddle 15{magenta}~
+You are standing in nowhere !!!!
+~
+409 24576 1
+X40
+Z0
+C-1
+S
+#40951
+{GREEN}Team C Start{green}~
+{GREEN,BOLD}Welcome to Team C Start Room{green,bold}
+ 
+{GREEN,BOLD}You will be sent through a series of rooms.  In the description of each, 
+you will find a riddle. The answer to the riddle gives you the name of the 
+hidden portal in the room.  So, when you have an answer, type 
+{green,bold}{CYAN,BOLD}"open <answer>"{cyan,bold}{GREEN,BOLD} and if it opens, you have the correct one.{green,bold}
+ 
+ 
+{GREEN,BOLD}Please wait for the immort running the quest to yell the name of the hidden
+portal in this room.{green,bold}
+ 
+~
+409 8192 1
+D0
+~
+simple~
+3 -1 40952
+X40
+Z-1
+C-1
+S
+#40952
+{GREEN}Team C Riddle 1{green}~
+{GREEN,BOLD}Riddle #1{green,bold}
+ 
+{GREEN,BOLD}What has a tongue, cannot walk, but gets around a lot?{green,bold}
+ 
+~
+409 24576 1
+D0
+~
+shoe~
+3 -1 40953
+D2
+~
+simple~
+3 -1 40951
+X40
+Z-1
+C-1
+S
+#40953
+{GREEN}Team C Riddle 2{green}~
+{GREEN,BOLD}Riddle #2{green,bold}
+ 
+{GREEN,BOLD}What flower grows between your nose and your chin? {green,bold}
+ 
+~
+409 24576 1
+D0
+~
+tulip~
+3 -1 40954
+D2
+~
+shoe~
+3 -1 40952
+X40
+Z-1
+C-1
+S
+#40954
+{GREEN}Team C Riddle 3{green}~
+{GREEN,BOLD}Riddle #3{green,bold}
+ 
+{GREEN,BOLD}What turns everything around, but does not move?{green,bold}
+ 
+~
+409 24576 1
+D0
+~
+mirror~
+3 -1 40955
+D2
+~
+tulip~
+3 -1 40953
+X40
+Z-1
+C-1
+S
+#40955
+{GREEN}Team C Riddle 4{green}~
+{GREEN,BOLD}Riddle #4{green,bold}
+ 
+{GREEN,BOLD}Common people always see it. Kings and Queens seldom see it. And God
+ never see's it. What am I?{green,bold}
+ 
+~
+409 24576 1
+D0
+~
+peer~
+3 -1 40956
+D1
+~
+equal~
+3 -1 40956
+D2
+~
+mirror~
+3 -1 40954
+X40
+Z-1
+C-1
+S
+#40956
+{GREEN}Team C Riddle 5{green}~
+{GREEN,BOLD}Riddle #5{green,bold}
+ 
+{GREEN,BOLD}It has cities, but no houses;{green,bold}
+ 
+{GREEN,BOLD}It has forests, but no trees;{green,bold}
+ 
+{GREEN,BOLD}It has rivers, but no fish.{green,bold}
+ 
+ 
+{GREEN,BOLD}What is it?{green,bold}
+ 
+~
+409 24576 1
+D0
+~
+map~
+3 -1 40957
+D2
+~
+peer~
+3 -1 40955
+X40
+Z-1
+C-1
+S
+#40957
+{GREEN}Team C Riddle 6{green}~
+{GREEN,BOLD}Riddle #6{green,bold}
+ 
+{GREEN,BOLD}He has one and a person has two, a citizen has three and a human bei
+ng has four, a personality has five and an inhabitant of earth has six. What am
+I?{green,bold}
+ 
+~
+409 24576 1
+D0
+~
+syllable~
+3 -1 40958
+D2
+~
+map~
+3 -1 40956
+X40
+Z-1
+C-1
+S
+#40958
+{GREEN}Team C Riddle 7{green}~
+{GREEN,BOLD}Riddle #7{green,bold}
+ 
+{GREEN,BOLD}I am around long before dawn.
+But by lunch I am usually gone.
+You can see me summer, fall, and spring.
+I like to get on everything.
+But when winter winds start to blow;
+Burr, then it's time for me to go!{green,bold}
+ 
+~
+409 24576 1
+D0
+~
+dew~
+3 -1 40959
+D2
+~
+syllable~
+3 -1 40957
+X40
+Z-1
+C-1
+S
+#40959
+{GREEN}Team C Riddle 8{green}~
+{GREEN,BOLD}Riddle #8{green,bold}
+ 
+{GREEN,BOLD}What is the fastest time that a group of four people
+can row to the other side of the river with the following rules 
+in place?{green,bold}
+ 
+{GREEN,BOLD}The speed of the rowers is as follows:{green,bold}
+  
+{GREEN,BOLD}Rower #1 -- rows in 1 minute 
+Rower #2 -- rows in 2 minutes 
+Rower #5 -- rows in 5 minutes 
+Rower #10 -- rows in 10 minutes{green,bold}
+ 
+{GREEN,BOLD}o All four people must get to the other side of the river using the rowboat.
+o Only two people can travel in, on, or around the boat at any one time. 
+o The person in the boat who rows at the slowest speed must do the rowing 
+(they travel at the speed of the slowest person).{green,bold}
+ 
+{GREEN,BOLD} NOTE: Spell out the answer{green,bold}
+ 
+~
+409 24576 1
+D0
+~
+seventeen~
+3 -1 40999
+D2
+~
+dew~
+3 -1 40958
+X40
+Z-1
+C-1
+S
+#40960
+{GREEN}Team C Riddle 9{green}~
+You are standing in nowhere !!!!
+~
+409 24576 1
+X40
+Z0
+C-1
+S
+#40961
+{GREEN}Team C Riddle 10{green}~
+You are standing in nowhere !!!!
+~
+409 24576 1
+X40
+Z0
+C-1
+S
+#40962
+{GREEN}Team C Riddle 11{green}~
+You are standing in nowhere !!!!
+~
+409 24576 1
+X40
+Z0
+C-1
+S
+#40963
+{GREEN}Team C Riddle 12{green}~
+You are standing in nowhere !!!!
+~
+409 24576 1
+X40
+Z0
+C-1
+S
+#40964
+{GREEN}Team C Riddle 13{green}~
+You are standing in nowhere !!!!
+~
+409 24576 1
+X40
+Z0
+C-1
+S
+#40965
+{GREEN}Team C Riddle 14{green}~
+You are standing in nowhere !!!!
+~
+409 24576 1
+X40
+Z0
+C-1
+S
+#40966
+{GREEN}Team C Riddle 15{green}~
+You are standing in nowhere !!!!
+~
+409 24576 1
+X40
+Z0
+C-1
+S
+#40976
+{BOLD,RED}Team D Start{bold,red}~
+{RED,BOLD}Welcome to Team D Start Room{red,bold}
+ 
+{RED,BOLD}You will be sent through a series of rooms.  In the description of each, 
+you will find a riddle. The answer to the riddle gives you the name of the 
+hidden portal in the room.  So, when you have an answer, type 
+{red,bold}{CYAN,BOLD}"open <answer>"{cyan,bold}{RED,BOLD} and if it opens, you have the correct one.{red,bold}
+ 
+ 
+{RED,BOLD}Please wait for the immort running the quest to yell the name of the hidden
+portal in this room.{red,bold}
+ 
+~
+409 8192 1
+D0
+~
+simple~
+3 -1 40977
+X40
+Z-1
+C-1
+S
+#40977
+{BOLD,RED}Team D Riddle 1{bold,red}~
+{RED,BOLD}Riddle #1{red,bold}
+ 
+{RED,BOLD}What has a tongue, cannot walk, but gets around a lot?{red,bold}
+ 
+~
+409 24576 1
+D0
+~
+shoe~
+3 -1 40978
+D2
+~
+simple~
+3 -1 40976
+X40
+Z-1
+C-1
+S
+#40978
+{BOLD,RED}Team D Riddle 2{bold,red}~
+{RED,BOLD}Riddle #2{red,bold}
+ 
+{RED,BOLD}What flower grows between your nose and your chin? {red,bold}
+ 
+~
+409 24576 1
+D0
+~
+tulip~
+3 -1 40979
+D2
+~
+shoe~
+3 -1 40977
+X40
+Z-1
+C-1
+S
+#40979
+{BOLD,RED}Team D Riddle 3{bold,red}~
+{RED,BOLD}Riddle #3{red,bold}
+ 
+{RED,BOLD}What turns everything around, but does not move?{red,bold}
+ 
+~
+409 24576 1
+D0
+~
+mirror~
+3 -1 40980
+D2
+~
+tulip~
+3 -1 40978
+X40
+Z-1
+C-1
+S
+#40980
+{BOLD,RED}Team D Riddle 4{bold,red}~
+{RED,BOLD}Riddle #4{red,bold}
+ 
+{RED,BOLD}Common people always see it. Kings and Queens seldom see it. And God n
+ever see's it. What am I?{red,bold}
+ 
+~
+409 24576 1
+D0
+~
+peer~
+3 -1 40981
+D1
+~
+equal~
+3 -1 40981
+D2
+~
+mirror~
+3 -1 40979
+X40
+Z-1
+C-1
+S
+#40981
+{BOLD,RED}Team D Riddle 5{bold,red}~
+{RED,BOLD}Riddle #5{red,bold}
+ 
+{RED,BOLD}It has cities, but no houses;{red,bold}
+ 
+{RED,BOLD}It has forests, but no trees;{red,bold}
+ 
+{RED,BOLD}It has rivers, but no fish.{red,bold}
+ 
+ 
+{RED,BOLD}What is it?{red,bold}
+ 
+~
+409 24576 1
+D0
+~
+map~
+3 -1 40982
+D2
+~
+peer~
+3 -1 40980
+X40
+Z-1
+C-1
+S
+#40982
+{BOLD,RED}Team D Riddle 6{bold,red}~
+{RED,BOLD}Riddle #6{red,bold}
+ 
+{RED,BOLD}He has one and a person has two, a citizen has three and a human being
+ has four, a personality has five and an inhabitant of earth has six. What am I?
+{red,bold}
+ 
+~
+409 24576 1
+D0
+~
+syllable~
+3 -1 40983
+D2
+~
+map~
+3 -1 40981
+X40
+Z-1
+C-1
+S
+#40983
+{BOLD,RED}Team D Riddle 7{bold,red}~
+{RED,BOLD}Riddle #7{red,bold}
+ 
+{RED,BOLD}I am around long before dawn.
+But by lunch I am usually gone.
+You can see me summer, fall, and spring.
+I like to get on everything.
+But when winter winds start to blow;
+Burr, then it's time for me to go!{red,bold}
+ 
+~
+409 24576 1
+D0
+~
+dew~
+3 -1 40984
+D2
+~
+syllable~
+3 -1 40982
+X40
+Z-1
+C-1
+S
+#40984
+{BOLD,RED}Team D Riddle 8{bold,red}~
+{RED,BOLD}Riddle #8{red,bold}
+ 
+{RED,BOLD}What is the fastest time that a group of four people
+can row to the other side of the river with the following rules 
+in place?{red,bold}
+ 
+{RED,BOLD}The speed of the rowers is as follows:{red,bold}
+  
+{RED,BOLD}Rower #1 -- rows in 1 minute 
+Rower #2 -- rows in 2 minutes 
+Rower #5 -- rows in 5 minutes 
+Rower #10 -- rows in 10 minutes{red,bold}
+ 
+{RED,BOLD}o All four people must get to the other side of the river using the rowboat.
+o Only two people can travel in, on, or around the boat at any one time. 
+o The person in the boat who rows at the slowest speed must do the rowing 
+(they travel at the speed of the slowest person).{red,bold}
+ 
+{RED,BOLD} NOTE: Spell out the answer{red,bold}
+ 
+~
+409 24576 1
+D0
+~
+seventeen~
+3 -1 40999
+D2
+~
+dew~
+3 -1 40983
+X40
+Z-1
+C-1
+S
+#40985
+{BOLD,RED}Team D Riddle 9{bold,red}~
+You are standing in nowhere !!!!
+~
+409 24576 1
+X40
+Z0
+C-1
+S
+#40986
+{BOLD,RED}Team D Riddle 10{bold,red}~
+You are standing in nowhere !!!!
+~
+409 24576 1
+X40
+Z0
+C-1
+S
+#40987
+{BOLD,RED}Team D Riddle 11{bold,red}~
+You are standing in nowhere !!!!
+~
+409 24576 1
+X40
+Z0
+C-1
+S
+#40988
+{BOLD,RED}Team D Riddle 12{bold,red}~
+You are standing in nowhere !!!!
+~
+409 24576 1
+X40
+Z0
+C-1
+S
+#40989
+{BOLD,RED}Team D Riddle 13{bold,red}~
+You are standing in nowhere !!!!
+~
+409 24576 1
+X40
+Z0
+C-1
+S
+#40990
+{BOLD,RED}Team D Riddle 14{bold,red}~
+You are standing in nowhere !!!!
+~
+409 24576 1
+X40
+Z0
+C-1
+S
+#40991
+{BOLD,RED}Team D Riddle 15{bold,red}~
+You are standing in nowhere !!!!
+~
+409 24576 1
+X40
+Z0
+C-1
+S
+#40999
+{YELLOW}{BLINK}YOU HAVE WON THE RIDDLE QUEST!!!{yellow}~
+ 
+{YELLOW,BOLD}Congratulations.{yellow,bold}
+ 
+{YELLOW,BOLD}You have won.  Please pick up your prize and thanks for playing.{yellow,bold}
+ 
+{WHITE,BOLD}                               *          ,
+                                        `.|.'
+                            *     :    --=*=--
+                        *       `.| ,'  ,'|`.    *
+                            *  --=+=--    '
+                     *          ,'|`. `.: | :.'  * ,. ,
+                 *        `.\!/,' :   ::`.|.'::   `\|/'
+                   `.|,'  - =x= -   -----=+=-----,--*--'
+                    -+-   ,'/!\`.     ::.'|`.::  , /|\ ,
+                *  ,'|`. _\/_    \!/  .': | :`.   ' ' `
+                          /\    -=x=-            *       
+                              *  /!\   *
+                    *   *                    *{white,bold}
+   
+~
+409 0 1
+Z-1
+C-1
+S
+$~

@@ -1,0 +1,2636 @@
+#10000
+Cleric's Sanctum~
+ 
+ 
+    {CYAN}Dread fills you from the power emanating in this room.
+    Centuries of knowledge are here as well as something
+    very evil.  Many books & scrolls lie about giving off an
+    evil aura. Feeling very uneasy you look for an exit.{cyan}
+
+ 
+~
+100 8 0
+E
+books~
+ 
+  Your eyes blur and your head begins to hurt as you try to read these books.
+~
+E
+desk~
+ 
+ 
+  This old desk appears to be well used. A large drawer hangs
+  at an odd angle.
+ 
+ 
+~
+E
+drawer~
+ 
+ 
+   A large drawer does not appear to be tightly closed.
+ 
+ 
+~
+M35
+Z3
+C-1
+R0
+S
+#10001
+Tern Road~
+ 
+ 
+{CYAN}  A thin faint trail winds through the forest.  This trail was
+  once the middle of a large and busy thoroughfare.  Now it lies
+  overgrown by a thick impassable forest to the east and west.{cyan}
+ 
+ 
+~
+100 4 3
+D0
+More trail
+~
+~
+0 -1 10002
+D2
+~
+~
+0 -1 3057
+Z3
+C-1
+R0
+S
+#10002
+Tern Road~
+ 
+ 
+{CYAN}  A thin faint trail winds through the forest.  This trail was
+  once the middle of a large and busy thoroughfare.  Now it lies
+  overgrown by a thick impassable forest to the east and west.{cyan}
+ 
+ 
+~
+100 0 3
+D0
+More trail and a cottage
+~
+~
+0 -1 10003
+D2
+Nearer the city, less dense forest.
+~
+~
+0 -1 10001
+Z3
+C-1
+R0
+S
+#10003
+Intersection~
+ 
+ 
+  {CYAN}Tern road meets with Ershteep road here, the distinction largely
+  defined by the narrow swath of trees cut out of the forest in each
+  direction. On Ershteep road to the west can be seen a cottage.{cyan}
+   
+ 
+       A warped old {RED}sign{red} sticks out of the ground here.
+
+ 
+~
+100 4 3
+D2
+A trail through the forest.
+~
+~
+0 -1 10002
+D3
+A trail through the forest.
+~
+~
+0 -1 10005
+E
+sign~
+ 
+   {CYAN}North{cyan} - {BLACK}(smudged out){black}
+   {CYAN}West{cyan} - {MAGENTA}The city of Enfans,{cyan} {RED}Beware!!!{red}
+   {CYAN}South{cyan} - {YELLOW}Midgaard{yellow}
+ 
+~
+Z3
+C-1
+R0
+S
+#10004
+A deserted cottage~
+ 
+ 
+ 
+    {CYAN}Once inside, it is apparent, the former inhabitants
+    left in a hurry. Much of what was left is rotted and decayed.
+    There is a{cyan} {BLACK}fireplace{black} {CYAN}in the north wall over which a large 
+    dusty painting hangs.{cyan}
+ 
+~
+100 8 0
+D0
+A fireplace
+~
+fireplace lock grate~
+2 10001 10052
+D2
+A door back to the outside world!
+~
+~
+0 -1 10005
+E
+fireplace~
+ 
+   {CYAN}An ordinary old fireplace with a suspicious new lock on the grate.{cyan}
+ 
+~
+E
+painting~
+ 
+  {CYAN}This old painting was once wonderfully crafted. Through
+  the thick layer of dust you can barely make out a scene outside
+  a jewelers shop on a busy city street.{cyan}
+ 
+~
+E
+grate~
+ 
+   {CYAN}A lock made of fine steal locks the grate in place.{cyan}
+ 
+~
+Z3
+C-1
+R0
+S
+#10005
+Ershteep Road~
+ 
+ 
+{CYAN}  Ahead is a thin trail, only wide enough for two, leading
+  further east and west. To the north a small cottage lies
+  in a natural clearing. It looks deserted.{cyan}
+ 
+ 
+~
+100 0 3
+D0
+A cottage, the front door is open
+~
+~
+0 -1 10004
+D1
+More trail
+~
+~
+0 -1 10003
+D3
+More trail
+~
+~
+0 -1 10006
+Z3
+C-1
+R0
+S
+#10006
+Ershteep Road~
+ 
+ 
+{CYAN}  A thin trail only wide enough for two meanders along.  The
+  trail was once the middle of a large and busy thoroughfare.
+  It now lies overgrown by thick, impassable forest to the west
+  and south. The trail leads further east and north.{cyan}
+ 
+ 
+~
+100 0 3
+D0
+More trail
+~
+~
+0 -1 10007
+D1
+More trail
+~
+~
+0 -1 10005
+Z3
+C-1
+R0
+S
+#10007
+Ershteep Road~
+ 
+ 
+{CYAN}  A thin trail only wide enough for two meanders along.
+  The trail was once the middle of a large and busy
+  thoroughfare. It now lies overgrown by thick, nearly
+  impassable forest. The trail disappears to the west at
+  a plateau.{cyan}
+ 
+ 
+~
+100 0 5
+D2
+More trail
+~
+~
+0 -1 10006
+D3
+More trail
+~
+~
+0 -1 10008
+Z3
+C-1
+R0
+S
+#10008
+Ershteep Road~
+ 
+ 
+{CYAN}    A triple junction has you considering your options. To the north
+    is a wide boulevard, to the east a narrow trail leads down the hill
+    and to the west there is a large open field. The way south is
+    blocked by forest.{cyan}
+ 
+ 
+~
+100 0 5
+D0
+More road
+~
+~
+0 -1 10010
+D1
+More trail
+~
+~
+0 -1 10007
+D3
+A field
+~
+~
+0 -1 10009
+Z3
+C-1
+R0
+S
+#10009
+An open field~
+ 
+ 
+{CYAN}  A large unfamiliar tree is growing in the center of a field. 
+  It is surrounded by many concentric grassy rings. There
+  is a strange power coming from the tree but as you try 
+  to approach it you suddenly feel quite rejected.{cyan}
+ 
+ 
+~
+100 0 2
+D1
+The trail again
+~
+~
+0 -1 10008
+E
+circles~
+  You ponder the meaning of these circles.  Often you have heard of
+aliens possibly leaving such markings in fields.  You shiver in
+anticipation of what you may find in this strange land.
+~
+E
+tree~
+ 
+  A gnarled oak (or is it) of tremendous size towers above you.  Try as
+  you might you are unable to see the top of the tree.  Your skin crawls
+  from the power emanating from this mighty tree.  You'd like a better look
+  but are unable to move any closer.
+~
+Z3
+C-1
+R0
+S
+#10010
+Ershteep Road~
+ 
+ 
+{CYAN}  The road here is wider and seemingly more travelled. It
+  is surrounded by impassable forests to the east and west.
+  On the horizon you see a large city wall.{cyan}
+ 
+ 
+~
+100 0 3
+D0
+A road
+~
+~
+0 -1 10011
+D2
+A road
+~
+~
+0 -1 10008
+Z3
+C-1
+R0
+S
+#10011
+Outside the city wall~
+ 
+ 
+{CYAN}  Standing before the city, a very strange feeling overwhelms
+  you.  A sensation of great disaster fills your mind then is followed
+  by a sense of lasting peace. The gates stand before you wide open
+  and unattended. The road leads south and underneath the bridge
+  on which you stand runs a moat east and west.{cyan}
+ 
+ 
+~
+100 0 1
+D0
+The city.
+~
+~
+0 -1 10014
+D2
+A road.
+~
+~
+0 -1 10010
+E
+moat~
+You look into the murky water below you and surmise that
+jumping in there wuld not be a wise thing to do. A number of
+rather heavy objects seem to be floating on the surface!
+~
+Z3
+C-1
+R0
+S
+#10012
+Dead end~
+ 
+ 
+  {CYAN}The passage way ends here where a door in the west wall leads
+  further into the wall. The smell that comes from there tends to
+  indicate that it leads into the sewers.{cyan}
+
+ 
+~
+100 12 0
+D1
+A dimly lit passageway
+~
+~
+0 -1 10013
+D3
+A door
+~
+door~
+2 10002 10056
+E
+door~
+A narrow wooden door with a rusted keyhole.
+~
+Z3
+C-1
+R0
+S
+#10013
+East-West Passage~
+ 
+ 
+  {CYAN}The inside of the dimly lit passage has a feted smell. Do
+  you go back east to the relative safety of the main city gate
+  or do you head further into the dank unknown.{cyan}
+
+ 
+~
+100 8 0
+D1
+The city gates
+~
+~
+0 -1 10014
+D3
+An apparent dead end
+~
+~
+0 -1 10012
+Z3
+C-1
+R0
+S
+#10014
+City Gates~
+ 
+ 
+  {CYAN}Standing inside the wall of the city you realize thousands of feet
+  have trod here.  Strangely no normal city sounds seem to come
+  from within!{cyan}
+
+ 
+~
+100 8 0
+D0
+The city of Orshingal
+~
+~
+0 -1 10019
+D1
+A dim passage
+~
+~
+0 -1 10015
+D2
+Ershteep Road
+~
+~
+0 -1 10011
+D3
+A dim passage
+~
+~
+0 -1 10013
+Z3
+C-1
+R0
+S
+#10015
+East-West Passage~
+ 
+ 
+{CYAN}  Eerie sounds surround you in this dimly lit passage within
+  the city walls. Something scurries over your feet. A putrid 
+  smell drifts to your nose.{cyan}
+ 
+~
+100 8 0
+D1
+A seemingly dead end
+~
+~
+0 -1 10016
+D3
+City gates
+~
+~
+0 -1 10014
+Z3
+C-1
+R0
+S
+#10016
+Dead End~
+ 
+ 
+  {CYAN}The passageway ends here. Slime and ooze drip from the walls.
+  Something runs across your toes and disappears through a hole.
+  More noises seem to be coming from the other side of the wall.{cyan}
+
+ 
+~
+100 49164 0
+D1
+A crumbling hole in the wall
+ 
+~
+hole~
+3 -1 10053
+D3
+A dimly lit passageway
+~
+~
+0 -1 10015
+E
+door~
+A narrow wooden door with a rusted keyhole.
+~
+E
+hole~
+ 
+  A crumbling hole in the wall
+ 
+~
+Z3
+C-1
+R0
+S
+#10017
+On a Road~
+ 
+ 
+  {CYAN}The road turns the corner and continues to
+  follow to city wall.  Through huge amounts of rubble
+  there is a  road that leads north and east.{cyan}
+ 
+~
+100 0 1
+D0
+On a Road
+~
+~
+0 -1 10023
+D1
+On a Road
+~
+~
+0 -1 10018
+Z3
+C-1
+R0
+S
+#10018
+On a Road~
+ 
+ 
+     {CYAN}The road continues both east and west from here. To
+     the north is a broken down, old building.{cyan}
+
+ 
+~
+100 0 1
+D0
+An old building
+~
+~
+0 -1 10024
+D1
+A junction
+~
+~
+0 -1 10019
+D3
+Road
+~
+~
+0 -1 10017
+Z3
+C-1
+R0
+S
+#10019
+Inside the main gates~
+ 
+ 
+  {CYAN}Inside the main gates of Orshingal, a city in ruins.
+  The cities invaders seemed to take no care in their attack
+  and bodies and rubble line the streets. From here roads lead
+  north, east and west. South leads back to the city gates.{cyan}
+ 
+~
+100 0 1
+D0
+Road
+~
+~
+0 -1 10025
+D1
+Road
+~
+~
+0 -1 10020
+D2
+City gates
+~
+~
+0 -1 10014
+D3
+Road
+~
+~
+0 -1 10018
+Z3
+C-1
+R0
+S
+#10020
+On a Road~
+ 
+ 
+  {CYAN}Standing on a road covered in bodies and rubble brings
+  tears to your eyes. Everywhere is destruction and misery.
+  To the north is a mystic temple is strangely intact.{cyan}
+ 
+~
+100 0 1
+D0
+A temple
+~
+~
+0 -1 10026
+D1
+Road
+~
+~
+0 -1 10021
+D3
+A junction
+~
+~
+0 -1 10019
+Z3
+C-1
+R0
+S
+#10021
+On a Road~
+ 
+ 
+  {CYAN}Standing on a road covered in bodies and rubble brings
+  tears to your eyes. Everywhere is destruction and misery.
+ 
+~
+100 0 1
+D0
+Road
+~
+~
+0 -1 10027
+D3
+Road
+~
+~
+0 -1 10020
+Z3
+C-1
+R0
+S
+#10022
+On a Road~
+ 
+ 
+  {CYAN}Standing on a road covered in bodies and rubble brings
+  tears to your eyes. Everywhere is destruction and misery.
+ 
+~
+100 0 1
+D0
+Road
+~
+~
+0 -1 10029
+D1
+Road
+~
+~
+0 -1 10023
+Z3
+C-1
+R0
+S
+#10023
+On a Road~
+ 
+ 
+  {CYAN}Standing on a road covered in bodies and rubble brings
+  tears to your eyes. Everywhere is destruction and misery.
+ 
+~
+100 0 1
+D2
+Road
+~
+~
+0 -1 10017
+D3
+Road
+~
+~
+0 -1 10022
+Z3
+C-1
+R0
+S
+#10024
+Armoury~
+ 
+ 
+  {CYAN}This ransacked shop once was an armoury and there are many pieces of
+  ancient armour all rusting on the floor. There is a cabinet on the
+  floor which seems to have been overlooked. Doors lead to the north and
+  south.{cyan}
+ 
+~
+100 8 0
+D0
+A foyer
+~
+~
+0 -1 10031
+D2
+Road
+~
+~
+0 -1 10018
+Z3
+C-1
+R0
+S
+#10025
+A wide street~
+ 
+ 
+  {CYAN}A cobblestone street, meanders through the town. 
+  To the north is a large square dominated by a rather large
+  mound in the center with a tree on it. South is a junction of 
+  this street and another road.{cyan}
+ 
+~
+100 0 1
+D0
+A square
+~
+~
+0 -1 10038
+D2
+A junction
+~
+~
+0 -1 10019
+Z3
+C-1
+R0
+S
+#10026
+South Chapel of the Temple~
+ 
+ 
+  {CYAN}This is the south end of the great temple. It is bedecked
+  with many ancient symbols and artifacts. The strange thing 
+  about this temple is that unlike the rest of the city it seems
+  to be quite well kept. An exit lies to the south and the main
+  hall lies to the north.{cyan}
+
+ 
+~
+100 12 0
+D0
+The main hall
+~
+~
+0 -1 10032
+D2
+An exit back to the street
+~
+~
+0 -1 10020
+E
+symbols~
+Strange symbols all in yellow and black are written on the walls. You have
+never seen anything like it before in your life. The strangest thing is
+that you seem to think the symbols say something important.
+~
+Z3
+C-1
+R0
+S
+#10027
+On a Road~
+ 
+ 
+  {CYAN}A bend in the road. This was obviously where a great battle
+  was fought as the stench here is overpowering. The road
+  continues south and east from here.{cyan}
+ 
+~
+100 0 1
+D1
+Road
+~
+~
+0 -1 10028
+D2
+Road
+~
+~
+0 -1 10021
+Z3
+C-1
+R0
+S
+#10028
+On a Road~
+ 
+ 
+  {CYAN}The road heads north and west at this point because at this
+  point, what is left of the city wall dictates that it does.{cyan}
+
+ 
+~
+100 0 1
+D0
+Road
+~
+~
+0 -1 10034
+D3
+Road
+~
+~
+0 -1 10027
+Z3
+C-1
+R0
+S
+#10029
+On a Road~
+ 
+ 
+  {CYAN}You stand on a north-south section of the road. The city
+  wall is west of here and an old building lies to the east.{cyan}
+
+ 
+~
+100 0 1
+D0
+Road
+~
+~
+0 -1 10035
+D1
+An old building
+~
+~
+0 -1 10030
+D2
+Road
+~
+~
+0 -1 10022
+Z3
+C-1
+R0
+S
+#10030
+Weaponry~
+ 
+ 
+  {CYAN}This shop has been looted and pillaged many times and now all that is
+  left are broken swords and a few scabbards. There is an awful lot of blood
+  on the walls and a pile of bones lies behind the counter. There is an exit
+  to the west and a small foyer lies east of here.{cyan}
+ 
+~
+100 8 0
+D1
+A foyer
+~
+~
+0 -1 10031
+D3
+An exit to the street
+~
+~
+0 -1 10029
+E
+bones~
+ 
+   The last remains of the weaponsmith.
+ 
+~
+Z3
+C-1
+R0
+S
+#10031
+A small foyer~
+ 
+ 
+  {CYAN}This is a small room which connects three shops: The Armoury,
+  Weaponry and Jeweller. These lie to the south, west and north
+  respectively.{cyan}
+ 
+~
+100 8 0
+D0
+The Jewellery
+~
+~
+0 -1 10037
+D2
+The Armoury
+~
+~
+0 -1 10024
+D3
+The Weaponry
+~
+~
+0 -1 10030
+Z3
+C-1
+R0
+S
+#10032
+The Main Hall~
+ 
+ 
+  {CYAN}Amazing patterns and dazzling images crowd your
+  mind.  Swirling visual illusions make you reel
+  and almost fall over.  There are exits north and
+  south to small chapel like areas and there are stairs
+  leading to who knows where.{cyan}
+
+ 
+~
+100 8 0
+D0
+A chapel
+~
+~
+0 -1 10039
+D2
+A chapel
+~
+~
+0 -1 10026
+D4
+~
+~
+0 -1 10093
+Z3
+C-1
+R0
+S
+#10033
+This is nowhere.~
+~
+100 0 1
+E
+desk books~
+  Your eyes blur and your head begins to hurt as you try to read the books.
+~
+Z3
+C-1
+R0
+S
+#10034
+A street~
+ 
+ 
+  {CYAN}One street looks much the same as another. Passing
+  by you notice a vile stench coming from a grate at the
+  base of the wall.{cyan} 
+
+ 
+~
+100 0 1
+D0
+Road
+~
+~
+0 -1 10041
+D2
+Road
+~
+~
+0 -1 10028
+D5
+The city wall and a grate
+~
+grate~
+2 -1 10055
+E
+grate~
+It looks unlocked.
+~
+Z3
+C-1
+R0
+S
+#10035
+On a Road~
+ 
+{CYAN}  At this point you can see through a hole in the wall of the
+  city and see that there is a large plain to the east and moving
+  around you see a large mountain to the north. The road turns to
+  the south and east here.
+{cyan}
+ 
+~
+100 0 1
+D1
+Road
+~
+~
+0 -1 10036
+D2
+Road
+~
+~
+0 -1 10029
+Z3
+C-1
+R0
+S
+#10036
+On a Road~
+ 
+{CYAN}  The rubble lined road leads north and west from here.
+  Through the debris you see that the road leads distantly to the
+  north where the remnants of the wall impede its progress and
+  turns east.
+{cyan}
+ 
+~
+100 0 1
+D0
+Road
+~
+~
+0 -1 10042
+D3
+Road
+~
+~
+0 -1 10035
+Z3
+C-1
+R0
+S
+#10037
+The Jewelry Store~
+   With little regard for years of timeless work, the city's
+destroyers have badly damaged this place. You can see little of
+any value here. The bones of the shopkeeper lie where he fell
+and they still clutch something!
+~
+100 65676 0
+D1
+The City Square can be seen through the broken door.
+~
+~
+0 -1 10038
+D2
+A door to a small foyer
+~
+~
+0 -1 10031
+E
+bones~
+ 
+Even in death the shopkeeper holds that which he valued.
+~
+Z3
+C-1
+R0
+S
+#10038
+The City Square~
+ 
+ 
+  {CYAN} In the center of this large square, perched on the top of a
+   small hillock, is an unfamiliar tree. Radial lines of
+   grass feed out from the tree and you feel a sense of power
+   radiating from it.
+{cyan}
+ 
+~
+100 0 1
+D0
+Road
+~
+~
+0 -1 10044
+D1
+The temple
+~
+~
+0 -1 10039
+D2
+Road
+~
+~
+0 -1 10025
+D3
+An old, broken down building
+~
+~
+0 -1 10037
+D4
+Up to the tree
+~
+~
+0 -1 10059
+E
+tree~
+Why not go and take a closer look yourself?
+~
+Z3
+C-1
+R0
+S
+#10039
+North chapel of the Temple~
+The dim candle light and smell of incense makes your head spin and
+you get the feeling that you could very well be in for a bit of
+peril in here! There is an exit to the west and the Main Hall lies
+to the south.
+~
+100 8 0
+D2
+You see the main hall of the temple
+~
+~
+0 -1 10032
+D3
+A door back to the outside
+~
+~
+0 -1 10038
+Z3
+C-1
+R0
+S
+#10040
+On a Road~
+ 
+ 
+  {CYAN}The rubble-lined road leads north and east from here.
+  It disappears in the distant mountains.{cyan}
+
+ 
+~
+100 0 1
+D0
+Road
+~
+~
+0 -1 10046
+D1
+Road
+~
+~
+0 -1 10041
+Z3
+C-1
+R0
+S
+#10041
+On a Road~
+ 
+ 
+  {CYAN}The rubble lined road runs south and west.
+  One street looks much the same as another.{cyan}
+
+ 
+~
+100 0 1
+D2
+Road
+~
+~
+0 -1 10034
+D3
+Road
+~
+~
+0 -1 10040
+Z3
+C-1
+R0
+S
+#10042
+On a Road~
+ 
+  {CYAN}The rubble lining the road shows the battle that was fought
+  here.  A small house used to be to the east but is now in ruins.
+  You can almost make out what is beyond the wall through the many
+  holes that are in it.{cyan}
+ 
+~
+100 0 1
+D0
+Road
+~
+~
+0 -1 10047
+D2
+Road
+~
+~
+0 -1 10036
+Z3
+C-1
+R0
+S
+#10043
+Small House~
+ 
+  {CYAN}This small house appears to have once been occupied.  Now there is
+  nothing but ruins.  Bits of decayed food scraps litter the floor.  Some old
+  worn clothes lie strewn around the room. Fear grips you.{cyan}
+ 
+~
+100 9 0
+D0
+The door out!
+~
+~
+0 -1 10048
+Z3
+C-1
+R0
+S
+#10044
+A wide street~
+ 
+ 
+{CYAN}  A cobblestone street meanders through the town. To the south is a
+  large square dominated by a large mound in the center with a tree
+  on it. North is a junction of this street and another road. Small
+  homes can be seen east and west of here.
+{cyan}
+ 
+~
+100 0 1
+D0
+A junction
+~
+~
+0 -1 10049
+D2
+A square
+~
+~
+0 -1 10038
+Z3
+C-1
+R0
+S
+#10045
+Small House~
+ 
+ 
+    {CYAN}This small house, once occupied, now lies in ruins. There are
+    lots of dried food scraps on the floor. Here and there are some
+    broken pieces of furniture.{cyan} 
+ 
+~
+100 9 0
+D0
+The door out!
+~
+~
+0 -1 10050
+Z3
+C-1
+R0
+S
+#10046
+On a Road~
+ 
+ 
+   {CYAN}The rubble lined road leads north-south here. A small house lies
+   to the west but no door is apparent in the wall.{cyan}
+
+ 
+~
+100 0 1
+D0
+Road
+~
+~
+0 -1 10051
+D2
+Road
+~
+~
+0 -1 10040
+Z3
+C-1
+R0
+S
+#10047
+On a Road~
+ 
+
+{CYAN}  The road turns here and leads south and east. To the north the
+  city wall lies in complete ruin and all the city which was beyond it
+  is now just wasteland. You get a strange sense of fear as you get
+  closer to the wall. There is a small path through the rubble.
+{cyan}
+ 
+~
+100 0 1
+D0
+Something outside the city beckons from that direction.
+~
+~
+0 -1 10060
+D1
+Road
+~
+~
+0 -1 10048
+D2
+Road
+~
+~
+0 -1 10042
+Z3
+C-1
+R0
+S
+#10048
+On a Road~
+ 
+  {CYAN}Not a whisper, not a leaf moves. Only dead silence greats
+  you as you move along the road. A small dark house is to the south
+  but you have a feeling of dread as you think of entering it.{cyan}
+ 
+~
+100 0 1
+D1
+Road
+~
+~
+0 -1 10049
+D2
+A small house
+~
+~
+0 -1 10043
+D3
+Road
+~
+~
+0 -1 10047
+Z3
+C-1
+R0
+S
+#10049
+Road Junction~
+ 
+  {CYAN}The junction of two main roads in Orshingal. No noise
+  comes from east or west.  You wonder if there is any living
+  creature anywhere in this forsaken town.{cyan}
+ 
+~
+100 0 1
+D1
+Road
+~
+~
+0 -1 10050
+D2
+A wide street
+~
+~
+0 -1 10044
+D3
+Road
+~
+~
+0 -1 10048
+Z3
+C-1
+R0
+S
+#10050
+On a Road~
+ 
+ 
+  {CYAN}Fear continues to haunt you as you search the deserted city.
+  A small house seems to be draw you to the south.{cyan}
+
+ 
+~
+100 0 1
+D1
+Road
+~
+~
+0 -1 10051
+D2
+A small house
+~
+~
+0 -1 10045
+D3
+Road
+~
+~
+0 -1 10049
+Z3
+C-1
+R0
+S
+#10051
+On a Road~
+ 
+ 
+  {CYAN}The road turns here and leads south and west. To the north the
+  city wall lies in complete ruin and all the city which was beyond it
+  is now just wasteland. You get a strange sense of fear as you get
+  closer to the wall. There is no way thru all the rubble, luckily.{cyan}
+ 
+~
+100 0 1
+D2
+Road
+~
+~
+0 -1 10046
+D3
+Road
+~
+~
+0 -1 10050
+Z3
+C-1
+R0
+S
+#10052
+Fireplace~
+ 
+  {CYAN}Stumbling through the grate your light dances merrily on the 
+  dank walls. A disturbing growl startles you as it starts deep
+  in the throat of the rooms only inhabitant.{cyan}
+
+~
+100 9 0
+D2
+A grate
+~
+grate door~
+2 10001 10004
+D5
+The faint outline of a trapdoor shows through the ashes. Dare you try it?
+~
+trapdoor~
+2 10000 10061
+Z3
+C-1
+R0
+S
+#10053
+Sewer~
+ 
+ 
+   {CYAN}The stench is revolting! Critters have been coming here for many 
+   years. Trying not to gag you push onward.{cyan}
+
+ 
+~
+100 9 0
+D1
+More sewer
+~
+~
+0 -1 10054
+D3
+~
+hole~
+1 -1 10016
+E
+door~
+A plain wooden door
+~
+Z3
+C-1
+R0
+S
+#10054
+Sewer~
+ 
+ 
+  {CYAN}The stench is revolting!! Critters have been coming here for
+  many years.  Gagging, you desperately look for a way out.{cyan}
+ 
+~
+100 9 0
+D0
+More sewer
+~
+~
+0 -1 10055
+D2
+~
+~
+0 -1 10092
+D3
+More sewer
+~
+~
+0 -1 10053
+Z3
+C-1
+R0
+S
+#10055
+Sewer~
+ 
+  {CYAN}The smells have become overwhelming. One more dead end
+  and you think you will go insane. Frantic now, you push onward.{cyan}
+ 
+~
+100 9 0
+D2
+More sewer
+~
+~
+0 -1 10054
+D4
+A city street
+~
+grate ceiling~
+2 -1 10034
+Z3
+C-1
+R0
+S
+#10056
+Sewer~
+ 
+ 
+  {CYAN}The stench is revolting.  It is becoming doubtful if you
+  can stand it much longer.  How will you ever find your way out?{cyan}
+ 
+~
+100 9 0
+D1
+A door
+~
+door sewer~
+2 10002 10012
+D3
+More sewer
+~
+~
+0 -1 10057
+E
+door~
+A plain wooden door
+~
+Z3
+C-1
+R0
+S
+#10057
+Sewer~
+ 
+ 
+  {CYAN}The sewers lead east and north. You can only hope
+  For some relief from the stench to the north.{cyan}
+
+ 
+~
+100 9 0
+D0
+More sewer
+~
+~
+0 -1 10058
+D1
+More sewer
+~
+~
+0 -1 10056
+Z3
+C-1
+R0
+S
+#10058
+Sewer~
+ 
+ 
+  {CYAN}A junction.  A way out??? Oh please let it be a way out!!
+  Your stomach can heave no more. No longer can you trust your
+  own sanity. Stumbling forward you can only pray.{cyan}
+ 
+~
+100 9 0
+D1
+~
+~
+0 -1 10080
+D2
+More sewer
+~
+~
+0 -1 10057
+D3
+~
+~
+0 -1 10081
+Z3
+C-1
+R0
+S
+#10059
+By the Tree~
+ 
+ 
+  {CYAN}Here by the tree you find many piles of bones and bodies. 
+  The stench is overwhelming. Suddenly a creepy sensation runs over
+  the back of your neck.  Is someone watching you?{cyan}
+ 
+~
+100 0 1
+D4
+~
+~
+0 -1 10067
+D5
+The square
+~
+~
+0 -1 10038
+E
+tree~
+~
+E
+up~
+This tree looks like it might be a lot of fun.  There are huge branches
+to swing from and great clumps of leaves to hide in.  As you look closer
+you notice the leaves are all colors and not just green.  I wonder what
+you might find hiding up there.
+~
+Z3
+C-1
+R0
+S
+#10060
+Outside the Wall~
+ 
+ 
+  {CYAN}The wasteland is mostly littered with bricks and
+  other remnants of ancient construction. A great forest
+  is to the west with individual trees reaching nearly
+  to the clouds. The city wall to the south is in ruin
+  but a path leads through it.{cyan}
+ 
+~
+100 4 4
+D0
+~
+~
+0 -1 10073
+D2
+~
+~
+0 -1 10047
+E
+forest~
+ 
+A great forest spreads as far as the eye can see.  There is no
+discernable break in the trees.  It looks to be totally impenetrable.
+~
+Z3
+C-1
+R0
+S
+#10061
+Hidden Basement~
+ 
+  {CYAN}Tumbling into what appears to be a hidden basement below the house
+  you peer into the darkened corners but are unable to make out anything.
+  You run your hands along the wall hoping to find a way out.{cyan}
+
+~
+100 49161 0
+D0
+~
+~
+0 -1 10062
+Z3
+C-1
+R0
+S
+#10062
+Dark Basement~
+ 
+  {CYAN}This room seems to be under the main part of the house.
+  A scratching noise seems to be coming from all around you.{cyan}
+
+~
+100 49161 0
+D0
+~
+~
+0 -1 10064
+D1
+~
+~
+0 -1 10063
+D2
+~
+~
+0 -1 10061
+D3
+~
+~
+0 -1 10065
+Z3
+C-1
+R0
+S
+#10063
+Basement Corner~
+ 
+  {CYAN}This is a dark corner of the crumbling basement.  Rats scurry to
+  get out of your way.  There seems to be little of value here.  
+  Hopefully you can find your way out.{cyan}
+
+~
+100 49161 0
+D3
+~
+~
+0 -1 10062
+Z3
+C-1
+R0
+S
+#10064
+Basement Corner~
+ 
+  {CYAN}This is a dark corner of the crumbling basement.  Rats scurry to
+  get out of your way.  There seems to be little of value here.  
+  Hopefully you can find your way out.{cyan}
+
+~
+100 49161 0
+D2
+~
+~
+0 -1 10062
+Z3
+C-1
+R0
+S
+#10065
+Basement Corner~
+ 
+  {CYAN}This is a dark corner of the crumbling basement.  Rats scurry to
+  get out of your way.  There seems to be little of value here.  
+  A ray of light shines from the west.{cyan}
+
+~
+100 49161 0
+D1
+~
+~
+0 -1 10062
+D3
+~
+~
+0 -1 10066
+Z3
+C-1
+R0
+S
+#10066
+A Strange Room~
+ 
+  {CYAN}WOW! What a strange room.  Its round and rough.  One{cyan} {YELLOW,bold}wall{yellow} {CYAN}seems to
+  shimmer and move.  You can almost see through it but not quite.{cyan}
+
+~
+100 12 0
+E
+wall~
+ 
+  {CYAN}As you examine the wall more closely you begin to see through
+  it.  You walk towards it and slowly place your hand through 
+  the wall.....your body following.{cyan}
+ 
+~
+Z3
+C-1
+R0
+S
+#10067
+Rainbow Tree~
+ 
+ 
+  {CYAN}Gosh!  You've never seen anything like it.  The most{cyan}
+  {RED}c{red}{YELLOW}o{yellow}{GREEN}l{green}{BLUE}o{blue}{MAGENTA}r{magenta}{BLACK}f{black}{RED}u{red}{YELLOW}l{yellow}{CYAN} tree you have ever seen in your life.  You
+  wonder to yourself.... might there be a pot of gold
+  at the end of this rainbow?{cyan}
+
+ 
+~
+100 0 3
+D4
+~
+~
+0 -1 10068
+D5
+~
+~
+0 -1 10059
+Z3
+C-1
+R0
+S
+#10068
+Rainbow Limb~
+ 
+ 
+  {CYAN}The limb you are on is sturdy and strong.  It could probably hold
+  a hundred men.  This mystical tree enthralls you.  The {RED}c{red}{YELLOW}o{yellow}{GREEN}l{green}{BLUE}o{blue}{MAGENTA}r{magenta}{BLACK}s{black} {CYAN}seem
+  to weave a magical pattern.  If you stare too long....you might slip
+  and fall.{cyan}
+
+ 
+~
+100 0 3
+D1
+~
+~
+0 -1 10069
+D3
+~
+~
+0 -1 10071
+D4
+~
+~
+0 -1 10072
+D5
+~
+~
+0 -1 10067
+Z3
+C-1
+R0
+S
+#10069
+Bending Limb~
+ 
+ 
+  {CYAN}A dizzy feeling overcomes you as the limb you have just walked
+  out on bends and sways in the wind.  The world spins around you,
+  up and down, up and down, round and round.  The {RED}c{red}{YELLOW}o{yellow}{GREEN}l{green}{BLUE}o{blue}{MAGENTA}r{magenta}{BLACK}s{black} {CYAN}spin by.
+  Which way is up and which way is down, round and round.
+  Help!  Get me out of here!{cyan}
+
+ 
+~
+100 0 3
+D1
+~
+~
+0 -1 10070
+D3
+~
+~
+0 -1 10068
+Z3
+C-1
+R0
+S
+#10070
+S N A P~
+ 
+ 
+  {CYAN} DARN!    One step too many and the branch snaps.......Your only
+   hope is that you are flying!{cyan}
+ 
+             {RED} F         F        F         F          F
+ 
+               A         A        A         A          A
+ 
+                L         L        L         L          L
+ 
+                 L         L        L         L          L
+ 
+                  I         I        I         I          I
+ 
+                    N         N        N         N          N
+ 
+                      G         G        G         G          G{red}
+   {CYAN}**********************************************************************{cyan}
+ 
+~
+100 4 9
+D3
+~
+~
+0 -1 10069
+Z3
+C-1
+R0
+S
+#10071
+Bending Limb~
+ 
+ 
+  {CYAN}A dizzy feeling overcomes you as the limb you have just walked
+  out on bends and sways in the wind.  The world spins around you,
+  up and down, up and down, round and round.  The {RED}c{red}{YELLOW}o{yellow}{GREEN}l{green}{BLUE}o{blue}{MAGENTA}r{magenta}{BLACK}s{black} {CYAN}spin by.
+  Which way is up and which way is down, round and round.
+  Help!  Get me out of here!{cyan}
+
+ 
+~
+100 0 3
+D1
+~
+~
+0 -1 10068
+Z3
+C-1
+R0
+S
+#10072
+Top of the Rainbow~
+ 
+ 
+   {CYAN}Safety at last!  Now if you can just convince these guys to give you
+   their treasure you'll be the happiest mudder there ever was.  The view
+   is inspiring but you don't dare take your eyes off your target.{cyan}
+
+ 
+~
+100 0 3
+D5
+~
+~
+0 -1 10068
+Z3
+C-1
+R0
+S
+#10073
+Wastelands~
+ 
+ 
+   {CYAN}The wastelands seem to stretch on forever.  A feeling of dread
+   comes over you.  Dare you press onward in hopes of finding some life?{cyan}
+
+ 
+~
+100 64 4
+D0
+~
+~
+0 -1 10074
+D2
+~
+~
+0 -1 10060
+E
+forest~
+~
+T10060
+Z3
+C-1
+R0
+S
+#10074
+Wastelands~
+ 
+ 
+   {CYAN}The wastelands seem to stretch on forever.  A feeling of dread
+   comes over you.  Dare you press onward in hopes of finding some life?{cyan}
+
+ 
+~
+100 340 4
+D0
+~
+~
+0 -1 10075
+D1
+~
+~
+0 -1 10075
+D2
+~
+~
+0 -1 10075
+D3
+~
+~
+0 -1 10075
+T10060
+Z3
+C-1
+R0
+S
+#10075
+Wastelands~
+ 
+ 
+   {CYAN}The wastelands seem to stretch on forever.  A feeling of dread
+   comes over you.  Dare you press onward in hopes of finding some life?{cyan}
+
+ 
+~
+100 80 4
+D0
+~
+~
+0 -1 10076
+D1
+~
+~
+0 -1 10074
+D2
+~
+~
+0 -1 10074
+D3
+~
+~
+0 -1 10074
+T10060
+Z3
+C-1
+R0
+S
+#10076
+Wastelands~
+ 
+
+   {CYAN}The wastelands seem to stretch on forever.  A feeling of dread
+   comes over you.  Dare you press onward in hopes of finding some life?{cyan}
+
+ 
+~
+100 340 4
+D0
+~
+~
+0 -1 10074
+D1
+~
+~
+0 -1 10074
+D2
+~
+~
+0 -1 10077
+D3
+~
+~
+0 -1 10074
+T10060
+Z3
+C-1
+R0
+S
+#10077
+Wastelands~
+ 
+ 
+   {CYAN}The wastelands seem to stretch on forever.  A feeling of dread
+   comes over you.  Dare you press onward in hopes of finding some life?{cyan}
+
+ 
+~
+100 80 4
+D0
+~
+~
+0 -1 10078
+D1
+~
+~
+0 -1 10074
+D2
+~
+~
+0 -1 10074
+D3
+~
+~
+0 -1 10074
+T10060
+Z3
+C-1
+R0
+S
+#10078
+Wastelands~
+ 
+ 
+   {CYAN}The wastelands seem to stretch on forever.  A feeling of dread
+   comes over you.  Dare you press onward in hopes of finding some life?{cyan}
+
+ 
+~
+100 340 4
+D0
+~
+~
+0 -1 10074
+D1
+~
+~
+0 -1 10074
+D2
+~
+~
+0 -1 10079
+D3
+~
+~
+0 -1 10074
+T10060
+Z3
+C-1
+R0
+S
+#10079
+Wastelands~
+ 
+ 
+   {CYAN}Finally you have found him!!  The real{cyan} {BLACK,BOLD}SHADOW{black,bold} {CYAN}enfan.  He has been the
+   cause of all the trouble here.  You have defeated his minions now it is time
+   to deal with the criminal himself.  He's had thousands killed, he must pay 
+   for his crimes.  Only if you defeat him can the city be reclaimed.{cyan}
+ 
+~
+100 336 4
+D0
+~
+~
+0 -1 10060
+D1
+~
+~
+0 -1 10074
+D2
+~
+~
+0 -1 10074
+D3
+~
+~
+0 -1 10074
+T10060
+Z3
+C-1
+R0
+S
+#10080
+Sewer~
+ 
+ 
+  {CYAN}The noise***the sounds of scurrying things***  
+  ***all around you***  Twisting and turning,
+  try as you might you are unable to locate them!{cyan}
+
+ 
+~
+100 9 0
+D0
+~
+~
+0 -1 10083
+D3
+~
+~
+0 -1 10058
+Z3
+C-1
+R0
+S
+#10081
+Sewer~
+ 
+ 
+  {CYAN}The noise***the sounds of scurrying things***  
+  ***all around you***  Twisting and turning,
+  try as you might you are unable to locate them!{cyan}
+
+ 
+~
+100 9 0
+D0
+~
+~
+0 -1 10082
+D1
+~
+~
+0 -1 10058
+Z3
+C-1
+R0
+S
+#10082
+Sewer~
+ 
+ 
+  {CYAN}The noise***the sounds of scurrying things***  
+  ***all around you***  Twisting and turning,
+  try as you might you are unable to locate them!{cyan}
+
+ 
+~
+100 9 0
+D0
+~
+~
+0 -1 10085
+D2
+~
+~
+0 -1 10081
+Z3
+C-1
+R0
+S
+#10083
+Sewer~
+ 
+ 
+  {CYAN}The noise***the sounds of scurrying things***  
+  ***all around you***  Twisting and turning,
+  try as you might you are unable to locate them!{cyan}
+
+ 
+~
+100 9 0
+D0
+~
+~
+0 -1 10084
+D2
+~
+~
+0 -1 10080
+Z3
+C-1
+R0
+S
+#10084
+Sewer~
+ 
+ 
+  {CYAN}The noise***the sounds of scurrying things***  
+  ***all around you***  Twisting and turning,
+  try as you might you are unable to locate them!{cyan}
+
+ 
+~
+100 9 0
+D2
+~
+~
+0 -1 10083
+D3
+~
+~
+0 -1 10086
+Z3
+C-1
+R0
+S
+#10085
+Sewer~
+ 
+ 
+  {CYAN}The noise***the sounds of scurrying things***  
+  ***all around you***  Twisting and turning,
+  try as you might you are unable to locate them!{cyan}
+
+ 
+~
+100 9 0
+D1
+~
+~
+0 -1 10086
+D2
+~
+~
+0 -1 10082
+Z3
+C-1
+R0
+S
+#10086
+Sewer~
+ 
+ 
+  {CYAN}The noise***the sounds of scurrying things***  
+  ***all around you***  Twisting and turning,
+  try as you might you are unable to locate them!{cyan}
+
+  
+~
+100 9 0
+D0
+~
+~
+0 -1 10087
+D1
+~
+~
+0 -1 10084
+D3
+~
+~
+0 -1 10085
+Z3
+C-1
+R0
+S
+#10087
+Sewer~
+ 
+ 
+  {CYAN}The noise***the sounds of scurrying things***  
+  ***all around you***  Twisting and turning,
+  try as you might you are unable to locate them!{cyan}
+
+ 
+~
+100 9 0
+D1
+~
+~
+0 -1 10088
+D2
+~
+~
+0 -1 10086
+D3
+~
+~
+0 -1 10089
+Z3
+C-1
+R0
+S
+#10088
+Sewer~
+ 
+ 
+  {CYAN}The noise***the sounds of scurrying things***  
+  ***all around you***  Twisting and turning,
+  try as you might you are unable to locate them!{cyan}
+
+ 
+~
+100 9 0
+D0
+~
+~
+0 -1 10091
+D3
+~
+~
+0 -1 10087
+Z3
+C-1
+R0
+S
+#10089
+Sewer~
+ 
+ 
+  {CYAN}The noise***the sounds of scurrying things***  
+  ***all around you***  Twisting and turning,
+  try as you might you are unable to locate them!{cyan}
+ 
+~
+100 9 0
+D0
+~
+~
+0 -1 10090
+D1
+~
+~
+0 -1 10087
+Z3
+C-1
+R0
+S
+#10090
+Sewer~
+ 
+ 
+  {CYAN}The noise***the sounds of scurrying things***  
+  ***all around you***  Twisting and turning,
+  try as you might you are unable to locate them!{cyan}
+
+ 
+~
+100 9 0
+D1
+~
+~
+0 -1 10092
+D2
+~
+~
+0 -1 10089
+Z3
+C-1
+R0
+S
+#10091
+Sewer~
+ 
+ 
+  {CYAN}The noise***the sounds of scurrying things***  
+  ***all around you***  Twisting and turning,
+  try as you might you are unable to locate them!{cyan}
+
+ 
+~
+100 9 0
+D2
+~
+~
+0 -1 10088
+D3
+~
+~
+0 -1 10092
+Z3
+C-1
+R0
+S
+#10092
+Sewer~
+ 
+ 
+  {CYAN}The noise***the sounds of scurrying things***  
+  ***all around you***  Twisting and turning,
+  try as you might you are unable to locate them!{cyan}
+
+ 
+~
+100 9 0
+D0
+~
+~
+0 -1 10054
+D1
+~
+~
+0 -1 10091
+D3
+~
+~
+0 -1 10090
+Z3
+C-1
+R0
+S
+#10093
+Second Floor of the Chapel~
+ 
+ 
+  {CYAN}Swirling patterns and{cyan} {RED}c{red}{YELLOW}o{yellow}{GREEN}l{green}{BLUE}o{blue}{MAGENTA}r{magenta}{BLACK}s{black} {CYAN}continue to amaze and delight you.
+  You sense that somewhere ahead there is power and wealth.  Hurry
+  onward in search of your destiny.{cyan}
+
+ 
+~
+100 8 0
+D0
+~
+~
+0 -1 10094
+D5
+~
+~
+0 -1 10032
+Z3
+C-1
+R0
+S
+#10094
+Second Floor of the Chapel~
+ 
+ 
+  {CYAN}The{cyan} {RED}c{red}{YELLOW}o{yellow}{GREEN}l{green}{BLUE}o{blue}{MAGENTA}r{magenta}{BLACK}s{black} {CYAN}and patterns are moving faster now as you hurry
+  toward the unknown.  You are being drawn forward and there is
+  no turning back.{cyan}
+ 
+~
+100 8 0
+D1
+~
+~
+0 -1 10095
+Z3
+C-1
+R0
+S
+#10095
+Second Floor of the Chapel~
+ 
+ 
+  {CYAN}The{cyan} {RED}c{red}{YELLOW}o{yellow}{GREEN}l{green}{BLUE}o{blue}{MAGENTA}r{magenta}{BLACK}s{black} {CYAN}and patterns are moving faster now as you hurry
+  toward the unknown.  You are being drawn forward and there is
+  no turning back.{cyan}
+ 
+~
+100 8 0
+D2
+~
+~
+0 -1 10096
+Z3
+C-1
+R0
+S
+#10096
+Second Floor of the Chapel~
+ 
+ 
+  {CYAN}The{cyan} {RED}c{red}{YELLOW}o{yellow}{GREEN}l{green}{BLUE}o{blue}{MAGENTA}r{magenta}{BLACK}s{black} {CYAN}and patterns are moving faster now as you hurry
+  toward the unknown.  You are being drawn forward and there is
+  no turning back.{cyan}
+ 
+~
+100 8 0
+D4
+~
+~
+0 -1 10097
+Z3
+C-1
+R0
+S
+#10097
+Third Floor of the Chapel~
+ 
+ 
+  {CYAN}The urge to hurry has come over you.  You begin to run.  You
+  are unable to control your wanderings.  The{cyan} {RED}c{red}{YELLOW}o{yellow}{GREEN}l{green}{BLUE}o{blue}{MAGENTA}r{magenta}{BLACK}s{black} {CYAN}and patterns are
+  swirling continually forward, faster and faster.  The power is
+  growing stronger and stronger.{cyan}
+ 
+~
+100 8 0
+D0
+~
+~
+0 -1 10098
+D5
+~
+~
+0 -1 10096
+Z3
+C-1
+R0
+S
+#10098
+Third Floor of the Chapel~
+ 
+ 
+  {CYAN}Now you are running dead out.  As fast as you are capable of moving..
+  The corridor before you seems to be endless but you know the power
+  is there, waiting for you.  You hope you have enough energy left
+  when you get there.{cyan}
+ 
+~
+100 8 0
+D0
+~
+~
+0 -1 10099
+D2
+~
+~
+0 -1 10097
+Z3
+C-1
+R0
+S
+#10099
+Long Corridor~
+ 
+ 
+  {CYAN}The corridor continues before you.  But there is a door now in the
+  distance.  It almost vibrates from the power that is hiding behind it.
+  At last your goal is in sight.  The{cyan} {RED}c{red}{YELLOW}o{yellow}{GREEN}l{green}{BLUE}o{blue}{MAGENTA}r{magenta}{BLACK}s{black} {CYAN}have slowed now but are 
+  very bright and glowing.{cyan}
+ 
+~
+100 8 0
+D0
+~
+door~
+2 10017 10000
+D2
+~
+~
+0 -1 10098
+Z3
+C-1
+R0
+S
+$~

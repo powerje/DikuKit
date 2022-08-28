@@ -1,0 +1,2947 @@
+#16000
+The Great White Bear's Den~
+~
+160 0 1
+D2
+~
+~
+0 -1 23600
+D3
+~
+~
+0 -1 16100
+Z3
+C-1
+S
+#16001
+{GR}The Salt Marsh Estuary{g}~
+{WH}
+     You have entered a salt marsh estuary. Surrounding you on all
+sides are patches of {YE}land {WH}joined with patches of {BL,BOL}brackish {bol}{WH}estuary
+water. {GR}Tall marsh reeds {WH}and {GR}hardy sea grass {WH}grow all around. In the
+clear salty water beneath your feet you can see the {YE}sandy bottom{WH}.
+Small creatures of the sea and hardy larvae swim in these nutrient
+until they can venture into the harsh waters of the {BLU}open sea{WH}.
+
+~
+160 4 6
+D0
+~
+~
+0 -1 16002
+D2
+~
+~
+0 -1 16099
+Z3
+C-1
+S
+#16002
+{GR}The Salt Marsh Estuary{g}~
+{WH}
+     You have entered a salt marsh estuary. Surrounding you on all
+sides are patches of {YE}land {WH}joined with patches of {BL,BOL}brackish {bol}{WH}estuary
+water. {GR}Tall marsh reeds {WH}and {GR}hardy sea grass {WH}grow all around. In the
+clear salty water beneath your feet you can see the {YE}sandy bottom{WH}.
+Small creatures of the sea and hardy larvae swim in these nutrient
+until they can venture into the harsh waters of the {BLU}open sea{WH}.
+
+~
+160 4 6
+D0
+~
+~
+0 -1 16003
+D1
+~
+~
+0 -1 16098
+D2
+~
+~
+0 -1 16001
+Z3
+C-1
+S
+#16003
+{BLU,BOL}Coastal Waters{bl}~
+
+{WH}     You have left the security of the estuary. Before you lies the 
+open water of the treacherous sea. Here the brackish waters of the 
+estuary and the brine of the sea mix together. Life is abundant here
+as creatures swim in search of food, while the tides roll gently in 
+and out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16005
+D1
+~
+~
+0 -1 16004
+D2
+~
+~
+0 -1 16002
+Z3
+C-1
+S
+#16004
+{BLU,BOL}Coastal Waters{bl}~
+
+{WH}     You have left the security of the estuary. Before you lies the 
+open water of the treacherous sea. Here the brackish waters of the 
+estuary and the brine of the sea mix together. Life is abundant here
+as creatures swim in search of food, while the tides roll gently in 
+and out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16006
+D2
+~
+~
+0 -1 16098
+D3
+~
+~
+0 -1 16003
+E
+stairs~
+The stairs are barred with a large chain.  The receptionist says to you,
+Upstairs is for renting customers only.
+~
+Z3
+C-1
+S
+#16005
+{BLU}The Open Sea{bl}~
+{WH}
+     The open {BLU}ocean{WH} surrounds you here. As you scan the {YE}horizon{WH} all
+you can see is the {BLU}deep blue waters{WH} of the {BLU,BOL}Atlantic{bo}{WH}. Rolling waves
+rush by you heading for a fierce and violent demise when they rendezvous
+with the unmoving land. To the north stretches the limitless and 
+magnificent wonders of the {BLU}Atlantic Ocean.{blu}
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16008
+D1
+~
+~
+0 -1 16006
+D2
+~
+~
+0 -1 16003
+Z3
+C-1
+S
+#16006
+{BLU}The Open Sea{bl}~
+{WH}
+     The open {BLU}ocean{WH} surrounds you here. As you scan the {YE}horizon{WH} all
+you can see is the {BLU}deep blue waters{WH} of the {BLU,BOL}Atlantic{bo}{WH}. Rolling waves
+rush by you heading for a fierce and violent demise when they rendezvous
+with the unmoving land. To the north stretches the limitless and 
+magnificent wonders of the {BLU}Atlantic Ocean.{blu}
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16009
+D1
+~
+~
+0 -1 16007
+D2
+~
+~
+0 -1 16004
+D3
+~
+~
+0 -1 16005
+Z3
+C-1
+S
+#16007
+{BLU}The Open Sea{bl}~
+{WH}
+     The open {BLU}ocean{WH} surrounds you here. As you scan the {YE}horizon{WH} all
+you can see is the {BLU}deep blue waters{WH} of the {BLU,BOL}Atlantic{bo}{WH}. Rolling waves
+rush by you heading for a fierce and violent demise when they rendezvous
+with the unmoving land. To the north stretches the limitless and 
+magnificent wonders of the {BLU}Atlantic Ocean.{blu}
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16010
+D3
+~
+~
+0 -1 16006
+Z3
+C-1
+S
+#16008
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16018
+D1
+~
+~
+0 -1 16009
+D2
+~
+~
+0 -1 16005
+Z3
+C-1
+S
+#16009
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16019
+D1
+~
+~
+0 -1 16010
+D2
+~
+~
+0 -1 16006
+D3
+~
+~
+0 -1 16008
+Z3
+C-1
+S
+#16010
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16020
+D1
+~
+~
+0 -1 16011
+D2
+~
+~
+0 -1 16007
+D3
+~
+~
+0 -1 16009
+Z3
+C-1
+S
+#16011
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16021
+D1
+~
+~
+0 -1 16012
+D3
+~
+~
+0 -1 16010
+Z3
+C-1
+S
+#16012
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16022
+D1
+~
+~
+0 -1 16013
+D3
+~
+~
+0 -1 16011
+Z3
+C-1
+S
+#16013
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16023
+D1
+~
+~
+0 -1 16014
+D3
+~
+~
+0 -1 16012
+Z3
+C-1
+S
+#16014
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16024
+D1
+~
+~
+0 -1 16015
+D3
+~
+~
+0 -1 16013
+Z3
+C-1
+S
+#16015
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16025
+D1
+~
+~
+0 -1 16016
+D3
+~
+~
+0 -1 16014
+Z3
+C-1
+S
+#16016
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16026
+D1
+~
+~
+0 -1 16017
+D3
+~
+~
+0 -1 16015
+Z3
+C-1
+S
+#16017
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16027
+D3
+~
+~
+0 -1 16016
+Z3
+C-1
+S
+#16018
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16028
+D1
+~
+~
+0 -1 16019
+D2
+~
+~
+0 -1 16008
+Z3
+C-1
+S
+#16019
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16029
+D1
+~
+~
+0 -1 16020
+D2
+~
+~
+0 -1 16009
+D3
+~
+~
+0 -1 16018
+Z3
+C-1
+S
+#16020
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16030
+D1
+~
+~
+0 -1 16021
+D2
+~
+~
+0 -1 16010
+D3
+~
+~
+0 -1 16019
+Z3
+C-1
+S
+#16021
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16031
+D1
+~
+~
+0 -1 16022
+D2
+~
+~
+0 -1 16011
+D3
+~
+~
+0 -1 16020
+Z3
+C-1
+S
+#16022
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16032
+D1
+~
+~
+0 -1 16023
+D2
+~
+~
+0 -1 16012
+D3
+~
+~
+0 -1 16021
+Z3
+C-1
+S
+#16023
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16033
+D1
+~
+~
+0 -1 16024
+D2
+~
+~
+0 -1 16013
+D3
+~
+~
+0 -1 16022
+Z3
+C-1
+S
+#16024
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16034
+D1
+~
+~
+0 -1 16025
+D2
+~
+~
+0 -1 16014
+D3
+~
+~
+0 -1 16023
+Z3
+C-1
+S
+#16025
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16035
+D1
+~
+~
+0 -1 16026
+D2
+~
+~
+0 -1 16015
+D3
+~
+~
+0 -1 16024
+Z3
+C-1
+S
+#16026
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16036
+D1
+~
+~
+0 -1 16027
+D2
+~
+~
+0 -1 16016
+D3
+~
+~
+0 -1 16025
+Z3
+C-1
+S
+#16027
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16037
+D2
+~
+~
+0 -1 16017
+D3
+~
+~
+0 -1 16026
+Z3
+C-1
+S
+#16028
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16038
+D1
+~
+~
+0 -1 16029
+D2
+~
+~
+0 -1 16018
+Z3
+C-1
+S
+#16029
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16039
+D1
+~
+~
+0 -1 16030
+D2
+~
+~
+0 -1 16019
+D3
+~
+~
+0 -1 16028
+Z3
+C-1
+S
+#16030
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16040
+D1
+~
+~
+0 -1 16031
+D2
+~
+~
+0 -1 16020
+D3
+~
+~
+0 -1 16029
+Z3
+C-1
+S
+#16031
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16041
+D1
+~
+~
+0 -1 16032
+D2
+~
+~
+0 -1 16021
+D3
+~
+~
+0 -1 16030
+Z3
+C-1
+S
+#16032
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16042
+D1
+~
+~
+0 -1 16033
+D2
+~
+~
+0 -1 16022
+D3
+~
+~
+0 -1 16031
+Z3
+C-1
+S
+#16033
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16043
+D1
+~
+~
+0 -1 16034
+D2
+~
+~
+0 -1 16023
+D3
+~
+~
+0 -1 16032
+Z3
+C-1
+S
+#16034
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16044
+D1
+~
+~
+0 -1 16035
+D2
+~
+~
+0 -1 16024
+D3
+~
+~
+0 -1 16033
+Z3
+C-1
+S
+#16035
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16045
+D1
+~
+~
+0 -1 16036
+D2
+~
+~
+0 -1 16025
+D3
+~
+~
+0 -1 16034
+Z3
+C-1
+S
+#16036
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16046
+D1
+~
+~
+0 -1 16047
+D2
+~
+~
+0 -1 16026
+D3
+~
+~
+0 -1 16035
+Z3
+C-1
+S
+#16037
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16047
+D2
+~
+~
+0 -1 16027
+D3
+~
+~
+0 -1 16036
+Z3
+C-1
+S
+#16038
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16048
+D1
+~
+~
+0 -1 16039
+D2
+~
+~
+0 -1 16028
+Z3
+C-1
+S
+#16039
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16049
+D1
+~
+~
+0 -1 16040
+D2
+~
+~
+0 -1 16029
+D3
+~
+~
+0 -1 16038
+Z3
+C-1
+S
+#16040
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16050
+D1
+~
+~
+0 -1 16041
+D2
+~
+~
+0 -1 16030
+D3
+~
+~
+0 -1 16039
+Z3
+C-1
+S
+#16041
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16051
+D1
+~
+~
+0 -1 16042
+D2
+~
+~
+0 -1 16031
+D3
+~
+~
+0 -1 16040
+Z3
+C-1
+S
+#16042
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16052
+D1
+~
+~
+0 -1 16043
+D2
+~
+~
+0 -1 16032
+D3
+~
+~
+0 -1 16041
+Z3
+C-1
+S
+#16043
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16053
+D1
+~
+~
+0 -1 16044
+D2
+~
+~
+0 -1 16033
+D3
+~
+~
+0 -1 16042
+Z3
+C-1
+S
+#16044
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16054
+D1
+~
+~
+0 -1 16045
+D2
+~
+~
+0 -1 16034
+D3
+~
+~
+0 -1 16043
+Z3
+C-1
+S
+#16045
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16055
+D1
+~
+~
+0 -1 16046
+D2
+~
+~
+0 -1 16035
+D3
+~
+~
+0 -1 16044
+Z3
+C-1
+S
+#16046
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16056
+D2
+~
+~
+0 -1 16036
+D3
+~
+~
+0 -1 16045
+Z3
+C-1
+S
+#16047
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16057
+D2
+~
+~
+0 -1 16037
+D3
+~
+~
+0 -1 16036
+Z3
+C-1
+S
+#16048
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16058
+D1
+~
+~
+0 -1 16049
+D2
+~
+~
+0 -1 16038
+Z3
+C-1
+S
+#16049
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16059
+D1
+~
+~
+0 -1 16050
+D2
+~
+~
+0 -1 16039
+D3
+~
+~
+0 -1 16048
+Z3
+C-1
+S
+#16050
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16060
+D1
+~
+~
+0 -1 16051
+D2
+~
+~
+0 -1 16040
+D3
+~
+~
+0 -1 16049
+Z3
+C-1
+S
+#16051
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16061
+D1
+~
+~
+0 -1 16052
+D2
+~
+~
+0 -1 16041
+D3
+~
+~
+0 -1 16050
+Z3
+C-1
+S
+#16052
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16062
+D1
+~
+~
+0 -1 16053
+D2
+~
+~
+0 -1 16042
+D3
+~
+~
+0 -1 16051
+Z3
+C-1
+S
+#16053
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16063
+D1
+~
+~
+0 -1 16054
+D2
+~
+~
+0 -1 16043
+D3
+~
+~
+0 -1 16052
+Z3
+C-1
+S
+#16054
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16064
+D1
+~
+~
+0 -1 16055
+D2
+~
+~
+0 -1 16044
+D3
+~
+~
+0 -1 16053
+Z3
+C-1
+S
+#16055
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16065
+D1
+~
+~
+0 -1 16056
+D2
+~
+~
+0 -1 16045
+D3
+~
+~
+0 -1 16054
+Z3
+C-1
+S
+#16056
+{C}The {BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{CY}
+     You are now out on the {BLU}Atlantic Ocean{CY}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE,BOL}sun{b} {C}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {BLU}" {BLU,BOL}What would bad weather be like out here ?{bo}{BLU}"{CY} Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16066
+D1
+~
+~
+0 -1 16057
+D2
+~
+~
+0 -1 16046
+D3
+~
+~
+0 -1 16055
+Z3
+C-1
+S
+#16057
+{BL,BOL}The {bo}{BLU}Atlantic {BLU,BOL}Ocean{bl}~
+{BLU,BOLD}
+     You are now out on the {bol}{BLU}Atlantic Ocean{BLU,BOL}. The water here is a deep 
+blue and it is rather cold too. The water is thick with plankton and
+the fish feast on this abundant food source. Large waves roll gently
+past on their long journey to find land. The {YE}sun {BLU}shines down on you 
+here and you hope the good weather will last. You stop for a moment
+and wonder, {bol}{BLU}" {BL,BOL}What would bad weather be like out here ?{bol}{BLU}" {BLU,BOL}Let's hope
+you never have to find out.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16067
+D2
+~
+~
+0 -1 16047
+D3
+~
+~
+0 -1 16056
+Z3
+C-1
+S
+#16058
+{BLU}The {BLU,BOL}North {BLU}Atlantic{bl}~
+{BLU}
+     As you float into these {BLU,BOL}waters {bol}{BLU}you notice a sudden change. 
+The wind here is blowing harder and colder. The waves seem larger
+and have {WH}white caps{BLU}. The water is colder and a deeper blue. The 
+{YEL,BOL}sun{bol} {BLU}is gone and the sky seems somewhat overcast. Far off in the 
+distance you can see Humpback whales breaching. You silently hope
+that the weather doesn't get worse. You are already starting to 
+feel a little seasick.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16068
+D1
+~
+~
+0 -1 16059
+D2
+~
+~
+0 -1 16048
+Z3
+C-1
+S
+#16059
+{BLU}The {BLU,BOL}North {BLU}Atlantic{bl}~
+{BLU}
+     As you float into these {BLU,BOL}waters {bol}{BLU}you notice a sudden change. 
+The wind here is blowing harder and colder. The waves seem larger
+and have {WH}white caps{BLU}. The water is colder and a deeper blue. The 
+{YEL,BOL}sun{bol} {BLU}is gone and the sky seems somewhat overcast. Far off in the 
+distance you can see Humpback whales breaching. You silently hope
+that the weather doesn't get worse. You are already starting to 
+feel a little seasick.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16069
+D1
+~
+~
+0 -1 16060
+D2
+~
+~
+0 -1 16049
+D3
+~
+~
+0 -1 16058
+Z3
+C-1
+S
+#16060
+{BLU}The {BLU,BOL}North {BLU}Atlantic{bl}~
+{BLU}
+     As you float into these {BLU,BOL}waters {bol}{BLU}you notice a sudden change. 
+The wind here is blowing harder and colder. The waves seem larger
+and have {WH}white caps{BLU}. The water is colder and a deeper blue. The 
+{YEL,BOL}sun{bol} {BLU}is gone and the sky seems somewhat overcast. Far off in the 
+distance you can see Humpback whales breaching. You silently hope
+that the weather doesn't get worse. You are already starting to 
+feel a little seasick.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16070
+D1
+~
+~
+0 -1 16061
+D2
+~
+~
+0 -1 16050
+D3
+~
+~
+0 -1 16059
+Z3
+C-1
+S
+#16061
+{BLU}The {BLU,BOL}North {BLU}Atlantic{bl}~
+{BLU}
+     As you float into these {BLU,BOL}waters {bol}{BLU}you notice a sudden change. 
+The wind here is blowing harder and colder. The waves seem larger
+and have {WH}white caps{BLU}. The water is colder and a deeper blue. The 
+{YEL,BOL}sun{bol} {BLU}is gone and the sky seems somewhat overcast. Far off in the 
+distance you can see Humpback whales breaching. You silently hope
+that the weather doesn't get worse. You are already starting to 
+feel a little seasick.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16071
+D1
+~
+~
+0 -1 16062
+D2
+~
+~
+0 -1 16051
+D3
+~
+~
+0 -1 16060
+Z3
+C-1
+S
+#16062
+{BLU}The {BLU,BOL}North {BLU}Atlantic{bl}~
+{BLU}
+     As you float into these {BLU,BOL}waters {bol}{BLU}you notice a sudden change. 
+The wind here is blowing harder and colder. The waves seem larger
+and have {WH}white caps{BLU}. The water is colder and a deeper blue. The 
+{YEL,BOL}sun{bol} {BLU}is gone and the sky seems somewhat overcast. Far off in the 
+distance you can see Humpback whales breaching. You silently hope
+that the weather doesn't get worse. You are already starting to 
+feel a little seasick.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16072
+D1
+~
+~
+0 -1 16063
+D2
+~
+~
+0 -1 16052
+D3
+~
+~
+0 -1 16061
+Z3
+C-1
+S
+#16063
+{WH}The {BLU,BOLD}North Eastern {bol}{BLU}Atlantic{blu}~
+{WH}
+     You have reached {GR}George's Bank{WH}, a prolific fishing ground in the
+{BLU}Atlantic Ocean{WH}. The water here is cold and deep, perfect for many types
+of pelagic and benthic species of fish. The waves are rough and the wind
+is biting cold in these parts. If you have the determination and a bit of
+luck you may catch some fish here. Good luck fishing in these {BLU,BOL}rough waters{bol}{WH}.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16073
+D1
+~
+~
+0 -1 16064
+D2
+~
+~
+0 -1 16053
+D3
+~
+~
+0 -1 16062
+Z3
+C-1
+S
+#16064
+{WH}The {BLU,BOLD}North Eastern {bol}{BLU}Atlantic{blu}~
+{WH}
+     You have reached {GR}George's Bank{WH}, a prolific fishing ground in the
+{BLU}Atlantic Ocean{WH}. The water here is cold and deep, perfect for many types
+of pelagic and benthic species of fish. The waves are rough and the wind
+is biting cold in these parts. If you have the determination and a bit of
+luck you may catch some fish here. Good luck fishing in these {BLU,BOL}rough waters{bol}{WH}.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16074
+D1
+~
+~
+0 -1 16065
+D2
+~
+~
+0 -1 16054
+D3
+~
+~
+0 -1 16063
+Z3
+C-1
+S
+#16065
+{WH}The {BLU,BOLD}North Eastern {bol}{BLU}Atlantic{blu}~
+{WH}
+     You have reached {GR}George's Bank{WH}, a prolific fishing ground in the
+{BLU}Atlantic Ocean{WH}. The water here is cold and deep, perfect for many types
+of pelagic and benthic species of fish. The waves are rough and the wind
+is biting cold in these parts. If you have the determination and a bit of
+luck you may catch some fish here. Good luck fishing in these {BLU,BOL}rough waters{bol}{WH}.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16075
+D1
+~
+~
+0 -1 16066
+D2
+~
+~
+0 -1 16055
+D3
+~
+~
+0 -1 16064
+Z3
+C-1
+S
+#16066
+{WH}The {BLU,BOLD}North Eastern {bol}{BLU}Atlantic{blu}~
+{WH}
+     You have reached {GR}George's Bank{WH}, a prolific fishing ground in the
+{BLU}Atlantic Ocean{WH}. The water here is cold and deep, perfect for many types
+of pelagic and benthic species of fish. The waves are rough and the wind
+is biting cold in these parts. If you have the determination and a bit of
+luck you may catch some fish here. Good luck fishing in these {BLU,BOL}rough waters{bol}{WH}.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16076
+D1
+~
+~
+0 -1 16067
+D2
+~
+~
+0 -1 16056
+D3
+~
+~
+0 -1 16065
+Z3
+C-1
+S
+#16067
+{WH}The {BLU,BOLD}North Eastern {bol}{BLU}Atlantic{blu}~
+{WH}
+     You have reached {GR}George's Bank{WH}, a prolific fishing ground in the
+{BLU}Atlantic Ocean{WH}. The water here is cold and deep, perfect for many types
+of pelagic and benthic species of fish. The waves are rough and the wind
+is biting cold in these parts. If you have the determination and a bit of
+luck you may catch some fish here. Good luck fishing in these {BLU,BOL}rough waters{bol}{WH}.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16077
+D2
+~
+~
+0 -1 16057
+D3
+~
+~
+0 -1 16066
+Z3
+C-1
+S
+#16068
+{BLU}The {BLU,BOL}North {BLU}Atlantic{bl}~
+{BLU}
+     As you float into these {BLU,BOL}waters {bol}{BLU}you notice a sudden change. 
+The wind here is blowing harder and colder. The waves seem larger
+and have {WH}white caps{BLU}. The water is colder and a deeper blue. The 
+{YEL,BOL}sun{bol} {BLU}is gone and the sky seems somewhat overcast. Far off in the 
+distance you can see Humpback whales breaching. You silently hope
+that the weather doesn't get worse. You are already starting to 
+feel a little seasick.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16078
+D1
+~
+~
+0 -1 16069
+D2
+~
+~
+0 -1 16058
+Z3
+C-1
+S
+#16069
+{BLU}The {BLU,BOL}North {BLU}Atlantic{bl}~
+{BLU}
+     As you float into these {BLU,BOL}waters {bol}{BLU}you notice a sudden change. 
+The wind here is blowing harder and colder. The waves seem larger
+and have {WH}white caps{BLU}. The water is colder and a deeper blue. The 
+{YEL,BOL}sun{bol} {BLU}is gone and the sky seems somewhat overcast. Far off in the 
+distance you can see Humpback whales breaching. You silently hope
+that the weather doesn't get worse. You are already starting to 
+feel a little seasick.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16079
+D1
+~
+~
+0 -1 16070
+D2
+~
+~
+0 -1 16059
+D3
+~
+~
+0 -1 16068
+Z3
+C-1
+S
+#16070
+{BLU}The {BLU,BOL}North {BLU}Atlantic{bl}~
+{BLU}
+     As you float into these {BLU,BOL}waters {bol}{BLU}you notice a sudden change. 
+The wind here is blowing harder and colder. The waves seem larger
+and have {WH}white caps{BLU}. The water is colder and a deeper blue. The 
+{YEL,BOL}sun{bol} {BLU}is gone and the sky seems somewhat overcast. Far off in the 
+distance you can see Humpback whales breaching. You silently hope
+that the weather doesn't get worse. You are already starting to 
+feel a little seasick.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16080
+D1
+~
+~
+0 -1 16071
+D2
+~
+~
+0 -1 16060
+D3
+~
+~
+0 -1 16069
+Z3
+C-1
+S
+#16071
+{BLU}The {BLU,BOL}North {BLU}Atlantic{bl}~
+{BLU}
+     As you float into these {BLU,BOL}waters {bol}{BLU}you notice a sudden change. 
+The wind here is blowing harder and colder. The waves seem larger
+and have {WH}white caps{BLU}. The water is colder and a deeper blue. The 
+{YEL,BOL}sun{bol} {BLU}is gone and the sky seems somewhat overcast. Far off in the 
+distance you can see Humpback whales breaching. You silently hope
+that the weather doesn't get worse. You are already starting to 
+feel a little seasick.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16081
+D1
+~
+~
+0 -1 16072
+D2
+~
+~
+0 -1 16061
+D3
+~
+~
+0 -1 16070
+Z3
+C-1
+S
+#16072
+{BLU}The {BLU,BOL}North {BLU}Atlantic{bl}~
+{BLU}
+     As you float into these {BLU,BOL}waters {bol}{BLU}you notice a sudden change. 
+The wind here is blowing harder and colder. The waves seem larger
+and have {WH}white caps{BLU}. The water is colder and a deeper blue. The 
+{YEL,BOL}sun{bol} {BLU}is gone and the sky seems somewhat overcast. Far off in the 
+distance you can see Humpback whales breaching. You silently hope
+that the weather doesn't get worse. You are already starting to 
+feel a little seasick.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16082
+D1
+~
+~
+0 -1 16073
+D2
+~
+~
+0 -1 16062
+D3
+~
+~
+0 -1 16071
+Z3
+C-1
+S
+#16073
+{WH}The {BLU,BOLD}North Eastern {bol}{BLU}Atlantic{blu}~
+{WH}
+     You have reached {GR}George's Bank{WH}, a prolific fishing ground in the
+{BLU}Atlantic Ocean{WH}. The water here is cold and deep, perfect for many types
+of pelagic and benthic species of fish. The waves are rough and the wind
+is biting cold in these parts. If you have the determination and a bit of
+luck you may catch some fish here. Good luck fishing in these {BLU,BOL}rough waters{bol}{WH}.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16083
+D1
+~
+~
+0 -1 16074
+D2
+~
+~
+0 -1 16063
+D3
+~
+~
+0 -1 16072
+Z3
+C-1
+S
+#16074
+{WH}The {BLU,BOLD}North Eastern {bol}{BLU}Atlantic{blu}~
+{WH}
+     You have reached {GR}George's Bank{WH}, a prolific fishing ground in the
+{BLU}Atlantic Ocean{WH}. The water here is cold and deep, perfect for many types
+of pelagic and benthic species of fish. The waves are rough and the wind
+is biting cold in these parts. If you have the determination and a bit of
+luck you may catch some fish here. Good luck fishing in these {BLU,BOL}rough waters{bol}{WH}.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16084
+D1
+~
+~
+0 -1 16075
+D2
+~
+~
+0 -1 16064
+D3
+~
+~
+0 -1 16073
+Z3
+C-1
+S
+#16075
+{WH}The {BLU,BOLD}North Eastern {bol}{BLU}Atlantic{blu}~
+{WH}
+     You have reached {GR}George's Bank{WH}, a prolific fishing ground in the
+{BLU}Atlantic Ocean{WH}. The water here is cold and deep, perfect for many types
+of pelagic and benthic species of fish. The waves are rough and the wind
+is biting cold in these parts. If you have the determination and a bit of
+luck you may catch some fish here. Good luck fishing in these {BLU,BOL}rough waters{bol}{WH}.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16085
+D1
+~
+~
+0 -1 16076
+D2
+~
+~
+0 -1 16065
+D3
+~
+~
+0 -1 16074
+Z3
+C-1
+S
+#16076
+{WH}The {BLU,BOLD}North Eastern {bol}{BLU}Atlantic{blu}~
+{WH}
+     You have reached {GR}George's Bank{WH}, a prolific fishing ground in the
+{BLU}Atlantic Ocean{WH}. The water here is cold and deep, perfect for many types
+of pelagic and benthic species of fish. The waves are rough and the wind
+is biting cold in these parts. If you have the determination and a bit of
+luck you may catch some fish here. Good luck fishing in these {BLU,BOL}rough waters{bol}{WH}.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16086
+D1
+~
+~
+0 -1 16077
+D2
+~
+~
+0 -1 16066
+D3
+~
+~
+0 -1 16075
+Z3
+C-1
+S
+#16077
+{WH}The {BLU,BOLD}North Eastern {bol}{BLU}Atlantic{blu}~
+{WH}
+     You have reached {GR}George's Bank{WH}, a prolific fishing ground in the
+{BLU}Atlantic Ocean{WH}. The water here is cold and deep, perfect for many types
+of pelagic and benthic species of fish. The waves are rough and the wind
+is biting cold in these parts. If you have the determination and a bit of
+luck you may catch some fish here. Good luck fishing in these {BLU,BOL}rough waters{bol}{WH}.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16087
+D2
+~
+~
+0 -1 16067
+D3
+~
+~
+0 -1 16076
+Z3
+C-1
+S
+#16078
+{BLU}The {BLU,BOL}North {BLU}Atlantic{bl}~
+{BLU}
+     As you float into these {BLU,BOL}waters {bol}{BLU}you notice a sudden change. 
+The wind here is blowing harder and colder. The waves seem larger
+and have {WH}white caps{BLU}. The water is colder and a deeper blue. The 
+{YEL,BOL}sun{bol} {BLU}is gone and the sky seems somewhat overcast. Far off in the 
+distance you can see Humpback whales breaching. You silently hope
+that the weather doesn't get worse. You are already starting to 
+feel a little seasick.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16088
+D1
+~
+~
+0 -1 16079
+D2
+~
+~
+0 -1 16068
+Z3
+C-1
+S
+#16079
+{BLU}The {BLU,BOL}North {BLU}Atlantic{bl}~
+{BLU}
+     As you float into these {BLU,BOL}waters {bol}{BLU}you notice a sudden change. 
+The wind here is blowing harder and colder. The waves seem larger
+and have {WH}white caps{BLU}. The water is colder and a deeper blue. The 
+{YEL,BOL}sun{bol} {BLU}is gone and the sky seems somewhat overcast. Far off in the 
+distance you can see Humpback whales breaching. You silently hope
+that the weather doesn't get worse. You are already starting to 
+feel a little seasick.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16089
+D1
+~
+~
+0 -1 16080
+D2
+~
+~
+0 -1 16069
+D3
+~
+~
+0 -1 16078
+Z3
+C-1
+S
+#16080
+{BLU}The {BLU,BOL}North {BLU}Atlantic{bl}~
+{BLU}
+     As you float into these {BLU,BOL}waters {bol}{BLU}you notice a sudden change. 
+The wind here is blowing harder and colder. The waves seem larger
+and have {WH}white caps{BLU}. The water is colder and a deeper blue. The 
+{YEL,BOL}sun{bol} {BLU}is gone and the sky seems somewhat overcast. Far off in the 
+distance you can see Humpback whales breaching. You silently hope
+that the weather doesn't get worse. You are already starting to 
+feel a little seasick.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16090
+D1
+~
+~
+0 -1 16081
+D2
+~
+~
+0 -1 16070
+D3
+~
+~
+0 -1 16079
+Z3
+C-1
+S
+#16081
+{BLU}The {BLU,BOL}North {BLU}Atlantic{bl}~
+{BLU}
+     As you float into these {BLU,BOL}waters {bol}{BLU}you notice a sudden change. 
+The wind here is blowing harder and colder. The waves seem larger
+and have {WH}white caps{BLU}. The water is colder and a deeper blue. The 
+{YEL,BOL}sun{bol} {BLU}is gone and the sky seems somewhat overcast. Far off in the 
+distance you can see Humpback whales breaching. You silently hope
+that the weather doesn't get worse. You are already starting to 
+feel a little seasick.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16091
+D1
+~
+~
+0 -1 16082
+D2
+~
+~
+0 -1 16071
+D3
+~
+~
+0 -1 16080
+Z3
+C-1
+S
+#16082
+{BLU}The {BLU,BOL}North {BLU}Atlantic{bl}~
+{BLU}
+     As you float into these {BLU,BOL}waters {bol}{BLU}you notice a sudden change. 
+The wind here is blowing harder and colder. The waves seem larger
+and have {WH}white caps{BLU}. The water is colder and a deeper blue. The 
+{YEL,BOL}sun{bol} {BLU}is gone and the sky seems somewhat overcast. Far off in the 
+distance you can see Humpback whales breaching. You silently hope
+that the weather doesn't get worse. You are already starting to 
+feel a little seasick.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16092
+D1
+~
+~
+0 -1 16083
+D2
+~
+~
+0 -1 16072
+D3
+~
+~
+0 -1 16081
+Z3
+C-1
+S
+#16083
+{WH}The {BLU,BOLD}North Eastern {bol}{BLU}Atlantic{blu}~
+{WH}
+     You have reached {GR}George's Bank{WH}, a prolific fishing ground in the
+{BLU}Atlantic Ocean{WH}. The water here is cold and deep, perfect for many types
+of pelagic and benthic species of fish. The waves are rough and the wind
+is biting cold in these parts. If you have the determination and a bit of
+luck you may catch some fish here. Good luck fishing in these {BLU,BOL}rough waters{bol}{WH}.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16093
+D1
+~
+~
+0 -1 16084
+D2
+~
+~
+0 -1 16073
+D3
+~
+~
+0 -1 16082
+Z3
+C-1
+S
+#16084
+{WH}The {BLU,BOLD}North Eastern {bol}{BLU}Atlantic{blu}~
+{WH}
+     You have reached {GR}George's Bank{WH}, a prolific fishing ground in the
+{BLU}Atlantic Ocean{WH}. The water here is cold and deep, perfect for many types
+of pelagic and benthic species of fish. The waves are rough and the wind
+is biting cold in these parts. If you have the determination and a bit of
+luck you may catch some fish here. Good luck fishing in these {BLU,BOL}rough waters{bol}{WH}.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16094
+D1
+~
+~
+0 -1 16085
+D2
+~
+~
+0 -1 16074
+D3
+~
+~
+0 -1 16083
+Z3
+C-1
+S
+#16085
+{WH}The {BLU,BOLD}North Eastern {bol}{BLU}Atlantic{blu}~
+{WH}
+     You have reached {GR}George's Bank{WH}, a prolific fishing ground in the
+{BLU}Atlantic Ocean{WH}. The water here is cold and deep, perfect for many types
+of pelagic and benthic species of fish. The waves are rough and the wind
+is biting cold in these parts. If you have the determination and a bit of
+luck you may catch some fish here. Good luck fishing in these {BLU,BOL}rough waters{bol}{WH}.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16095
+D1
+~
+~
+0 -1 16086
+D2
+~
+~
+0 -1 16075
+D3
+~
+~
+0 -1 16084
+Z3
+C-1
+S
+#16086
+{WH}The {BLU,BOLD}North Eastern {bol}{BLU}Atlantic{blu}~
+{WH}
+     You have reached {GR}George's Bank{WH}, a prolific fishing ground in the
+{BLU}Atlantic Ocean{WH}. The water here is cold and deep, perfect for many types
+of pelagic and benthic species of fish. The waves are rough and the wind
+is biting cold in these parts. If you have the determination and a bit of
+luck you may catch some fish here. Good luck fishing in these {BLU,BOL}rough waters{bol}{WH}.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16096
+D1
+~
+~
+0 -1 16087
+D2
+~
+~
+0 -1 16076
+D3
+~
+~
+0 -1 16085
+Z3
+C-1
+S
+#16087
+{WH}The {BLU,BOLD}North Eastern {bol}{BLU}Atlantic{blu}~
+{WH}
+     You have reached {GR}George's Bank{WH}, a prolific fishing ground in the
+{BLU}Atlantic Ocean{WH}. The water here is cold and deep, perfect for many types
+of pelagic and benthic species of fish. The waves are rough and the wind
+is biting cold in these parts. If you have the determination and a bit of
+luck you may catch some fish here. Good luck fishing in these {BLU,BOL}rough waters{bol}{WH}.
+
+~
+160 0 6
+D0
+~
+~
+0 -1 16097
+D2
+~
+~
+0 -1 16077
+D3
+~
+~
+0 -1 16086
+Z3
+C-1
+S
+#16088
+{BLU}The {BLU,BOL}North {BLU}Atlantic{bl}~
+{BLU}
+     As you float into these {BLU,BOL}waters {bol}{BLU}you notice a sudden change. 
+The wind here is blowing harder and colder. The waves seem larger
+and have {WH}white caps{BLU}. The water is colder and a deeper blue. The 
+{YEL,BOL}sun{bol} {BLU}is gone and the sky seems somewhat overcast. Far off in the 
+distance you can see Humpback whales breaching. You silently hope
+that the weather doesn't get worse. You are already starting to 
+feel a little seasick.
+
+~
+160 0 6
+D1
+~
+~
+0 -1 16089
+D2
+~
+~
+0 -1 16078
+Z3
+C-1
+S
+#16089
+{BLU}The {BLU,BOL}North {BLU}Atlantic{bl}~
+{BLU}
+     As you float into these {BLU,BOL}waters {bol}{BLU}you notice a sudden change. 
+The wind here is blowing harder and colder. The waves seem larger
+and have {WH}white caps{BLU}. The water is colder and a deeper blue. The 
+{YEL,BOL}sun{bol} {BLU}is gone and the sky seems somewhat overcast. Far off in the 
+distance you can see Humpback whales breaching. You silently hope
+that the weather doesn't get worse. You are already starting to 
+feel a little seasick.
+
+~
+160 0 6
+D1
+~
+~
+0 -1 16090
+D2
+~
+~
+0 -1 16079
+D3
+~
+~
+0 -1 16088
+Z3
+C-1
+S
+#16090
+{BLU}The {BLU,BOL}North {BLU}Atlantic{bl}~
+{BLU}
+     As you float into these {BLU,BOL}waters {bol}{BLU}you notice a sudden change. 
+The wind here is blowing harder and colder. The waves seem larger
+and have {WH}white caps{BLU}. The water is colder and a deeper blue. The 
+{YEL,BOL}sun{bol} {BLU}is gone and the sky seems somewhat overcast. Far off in the 
+distance you can see Humpback whales breaching. You silently hope
+that the weather doesn't get worse. You are already starting to 
+feel a little seasick.
+
+~
+160 0 6
+D1
+~
+~
+0 -1 16091
+D2
+~
+~
+0 -1 16080
+D3
+~
+~
+0 -1 16089
+Z3
+C-1
+S
+#16091
+{BLU}The {BLU,BOL}North {BLU}Atlantic{bl}~
+{BLU}
+     As you float into these {BLU,BOL}waters {bol}{BLU}you notice a sudden change. 
+The wind here is blowing harder and colder. The waves seem larger
+and have {WH}white caps{BLU}. The water is colder and a deeper blue. The 
+{YEL,BOL}sun{bol} {BLU}is gone and the sky seems somewhat overcast. Far off in the 
+distance you can see Humpback whales breaching. You silently hope
+that the weather doesn't get worse. You are already starting to 
+feel a little seasick.
+
+~
+160 0 6
+D1
+~
+~
+0 -1 16092
+D2
+~
+~
+0 -1 16081
+D3
+~
+~
+0 -1 16090
+Z3
+C-1
+S
+#16092
+{BLU}The {BLU,BOL}North {BLU}Atlantic{bl}~
+{BLU}
+     As you float into these {BLU,BOL}waters {bol}{BLU}you notice a sudden change. 
+The wind here is blowing harder and colder. The waves seem larger
+and have {WH}white caps{BLU}. The water is colder and a deeper blue. The 
+{YEL,BOL}sun{bol} {BLU}is gone and the sky seems somewhat overcast. Far off in the 
+distance you can see Humpback whales breaching. You silently hope
+that the weather doesn't get worse. You are already starting to 
+feel a little seasick.
+
+~
+160 0 6
+D1
+~
+~
+0 -1 16093
+D2
+~
+~
+0 -1 16082
+D3
+~
+~
+0 -1 16091
+Z3
+C-1
+S
+#16093
+{WH}The {BLU,BOLD}North Eastern {bol}{BLU}Atlantic{blu}~
+{WH}
+     You have reached {GR}George's Bank{WH}, a prolific fishing ground in the
+{BLU}Atlantic Ocean{WH}. The water here is cold and deep, perfect for many types
+of pelagic and benthic species of fish. The waves are rough and the wind
+is biting cold in these parts. If you have the determination and a bit of
+luck you may catch some fish here. Good luck fishing in these {BLU,BOL}rough waters{bol}{WH}.
+
+~
+160 0 6
+D1
+~
+~
+0 -1 16094
+D2
+~
+~
+0 -1 16083
+D3
+~
+~
+0 -1 16092
+Z3
+C-1
+S
+#16094
+{WH}The {BLU,BOLD}North Eastern {bol}{BLU}Atlantic{blu}~
+{WH}
+     You have reached {GR}George's Bank{WH}, a prolific fishing ground in the
+{BLU}Atlantic Ocean{WH}. The water here is cold and deep, perfect for many types
+of pelagic and benthic species of fish. The waves are rough and the wind
+is biting cold in these parts. If you have the determination and a bit of
+luck you may catch some fish here. Good luck fishing in these {BLU,BOL}rough waters{bol}{WH}.
+
+~
+160 0 6
+D1
+~
+~
+0 -1 16095
+D2
+~
+~
+0 -1 16084
+D3
+~
+~
+0 -1 16093
+Z3
+C-1
+S
+#16095
+{WH}The {BLU,BOLD}North Eastern {bol}{BLU}Atlantic{blu}~
+{WH}
+     You have reached {GR}George's Bank{WH}, a prolific fishing ground in the
+{BLU}Atlantic Ocean{WH}. The water here is cold and deep, perfect for many types
+of pelagic and benthic species of fish. The waves are rough and the wind
+is biting cold in these parts. If you have the determination and a bit of
+luck you may catch some fish here. Good luck fishing in these {BLU,BOL}rough waters{bol}{WH}.
+
+~
+160 0 6
+D1
+~
+~
+0 -1 16096
+D2
+~
+~
+0 -1 16085
+D3
+~
+~
+0 -1 16094
+Z3
+C-1
+S
+#16096
+{WH}The {BLU,BOLD}North Eastern {bol}{BLU}Atlantic{blu}~
+{WH}
+     You have reached {GR}George's Bank{WH}, a prolific fishing ground in the
+{BLU}Atlantic Ocean{WH}. The water here is cold and deep, perfect for many types
+of pelagic and benthic species of fish. The waves are rough and the wind
+is biting cold in these parts. If you have the determination and a bit of
+luck you may catch some fish here. Good luck fishing in these {BLU,BOL}rough waters{bol}{WH}.
+
+~
+160 0 6
+D1
+~
+~
+0 -1 16097
+D2
+~
+~
+0 -1 16086
+D3
+~
+~
+0 -1 16095
+Z3
+C-1
+S
+#16097
+{WH}The {BLU,BOLD}North Eastern {bol}{BLU}Atlantic{blu}~
+{WH}
+     You have reached {GR}George's Bank{WH}, a prolific fishing ground in the
+{BLU}Atlantic Ocean{WH}. The water here is cold and deep, perfect for many types
+of pelagic and benthic species of fish. The waves are rough and the wind
+is biting cold in these parts. If you have the determination and a bit of
+luck you may catch some fish here. Good luck fishing in these {BLU,BOL}rough waters{bol}{WH}.
+
+~
+160 0 6
+D1
+~
+~
+0 -1 23601
+D2
+~
+~
+0 -1 16087
+D3
+~
+~
+0 -1 16096
+Z3
+C-1
+S
+#16098
+{GR}The Salt Marsh Estuary{g}~
+{WH}
+     You have entered a salt marsh estuary. Surrounding you on all
+sides are patches of {YE}land {WH}joined with patches of {BL,BOL}brackish {bol}{WH}estuary
+water. {GR}Tall marsh reeds {WH}and {GR}hardy sea grass {WH}grow all around. In the
+clear salty water beneath your feet you can see the {YE}sandy bottom{WH}.
+Small creatures of the sea and hardy larvae swim in these nutrient
+until they can venture into the harsh waters of the {BLU}open sea{WH}.
+
+~
+160 4 6
+D0
+~
+~
+0 -1 16004
+D3
+~
+~
+0 -1 16002
+Z3
+C-1
+S
+#16099
+{GR}The Salt Marsh Estuary{g}~
+{WH}
+     You have entered a salt marsh estuary. Surrounding you on all
+sides are patches of {YE}land {WH}joined with patches of {BL,BOL}brackish {bol}{WH}estuary
+water. {GR}Tall marsh reeds {WH}and {GR}hardy sea grass {WH}grow all around. In the
+clear salty water beneath your feet you can see the {YE}sandy bottom{WH}.
+Small creatures of the sea and hardy larvae swim in these nutrient
+until they can venture into the harsh waters of the {BLU}open sea{WH}.
+
+~
+160 4 6
+D0
+~
+~
+0 -1 16001
+D2
+~
+~
+0 -1 3155
+Z3
+C-1
+S
+$~

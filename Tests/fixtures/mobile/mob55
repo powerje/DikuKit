@@ -1,0 +1,232 @@
+#5500
+druid Aruncus~
+Aruncus the Druid~
+Aruncus the Druid is walking around here, searching for herbs.
+~
+Aruncus is a tall, skinny druid with a face marked by nature.
+He seems to be in peace with himself and his surroundings.
+~
+192 8 -500 S
+13 8 2 6d6+150 3d5+2
+500 15000
+8 8 1
+D 20
+A 12
+#5501
+hermit sorbus~
+Sorbus the Hermit~
+Sorbus the Hermit is sitting here, roasting a rabbit.
+~
+Sorbus bares the marks of a long, hard life in solitude.
+He is dressed in simple clothing and looks like he has little
+or nothing to say.
+~
+2 0 0 S
+4 16 6 8d8+20 1d9+2
+1 400
+6 6 1
+R 524288
+D 20
+A 12
+#5502
+merchant~
+street merchant~
+A street merchant is here, selling out from his extensive inventory.
+~
+The street merchant looks like he knows his way about.
+His face is scarred from numerous attacks, which he so far obviously
+has won.
+~
+197 0 0 S
+21 0 0 15d10+200 4d8+4
+3000 55000
+8 8 1
+D 20
+A 12
+#5503
+citizen~
+A citizen~
+{CY}A {CY}{BOLD}citizen of Graz{bold}{CY} shoves you to the side as he hurries to his destination{cy}.
+~
+He looks the average citizen of Graz.
+Basically he seems like a nice person with no interrest in harming
+you or others.
+He wears normal, light clothing and has an anonymous face.
+~
+68 1074561064 0 S
+42 -30 0 0d0+4500 7d7+20
+200 2800
+8 8 1
+D 20
+A 12
+#5504
+citizen~
+A citizen~
+{CY}A {CY}{BOLD}citizen of Graz{bold}{CY} shoves you to the side as she hurries to her destination{cy}.
+~
+He looks the average citizen of Graz.
+Basically he seems like a nice person with no interrest in harming
+you or others.
+He wears normal, light clothing and has an anonymous face.
+~
+68 1074561064 0 S
+42 -30 0 0d0+4500 7d7+20
+200 2800
+8 8 2
+D 20
+A 12
+#5505
+worm Shudde-M'ell~
+Shudde-M'ell~
+Shudde-M'ell the Giant worm of G'harne is guarding his treasure.
+~
+Shudde-M'ell is about 15 ft long and is surrounded by an evil stench,
+The worm is the protector of the treasure of G'harne and has been so
+for as long anyone can remember.
+~
+34 8 -1000 S
+24 0 0 44d2+50 3d8+4
+13666 75000
+8 8 0
+D 20
+A 12
+#5506
+luxan shopkeeper~
+Luxan~
+Luxan the Shopkeeper is here, eager to sell you anything.
+~
+Luxan is dressed in a strange jacket.
+He looks like a mean trader from the outskirts of Midgaard.
+His life is seems to be totally occupied with trading.
+He looks very fit and capable of protecting his goods.
+~
+7 1073742336 400 S
+23 0 0 1d1+30000 2d10+0
+8000 80000
+8 8 1
+R 128
+D 20
+A 12
+#5507
+daughter matty~
+Matty~
+Matty the daughter of Luxan is here, looking after the stored items.
+Matty is eager to serve you.
+~
+As you study Matty you notice that she has exactly the same taste
+in clothing as you.
+~
+3 1073742336 800 S
+22 0 0 2d2+28997 2d8+2
+0 80000
+8 8 2
+R 128
+D 20
+A 12
+#5508
+keeper innkeeper~
+the Innkeeper~
+An Innkeeper is here waiting for your order.
+~
+The Innkeeper looks skilled in brewing different beers and mixing the
+weirdest drinks known. He also looks very big.
+~
+3 512 -100 S
+23 0 0 1d1+30000 2d10+1
+100 80000
+8 8 1
+R 128
+D 20
+A 12
+#5550
+dragon pet~
+the pet dragon~
+Ravan's pet dragon is bouncing around here flapping her cute wings.
+~
+Ravan's pet dragon is about 3 ft. tall with small pointy teeth.
+The small wings are eagerly trying to lift her from the ground,
+but so far they haven't succeeded.
+~
+2 4194440 1000 S
+1 0 0 10d10+100 10d10+0
+0 30000
+8 8 2
+D 20
+A 12
+#5552
+citizen~
+the citizen~
+There is a citizen of Graz here hiking up to the ruins.
+~
+He looks the average citizen of Graz.
+Basically he seems like a nice person with no interrest in harming
+you or others. He is just interested to relax over weekend.
+He wears normal, light clothing, solid shoes and a rucksack.
+~
+68 0 0 S
+5 16 5 4d10+40 2d4+2
+200 2800
+8 8 1
+D 20
+A 12
+#5554
+citizen~
+A hiker~
+{CY}A {CY}{BOLD}citizen of Graz{bold}{C} struggles her way up to the top of the ruins{cy}.
+~
+She looks the average citizen of Graz.
+Basically she seems like a nice person with no interrest in harming
+you or others. She just wants to have fun over weekend...
+She wears a minimum of clothing and has big....eyes,
+and a even bigger....rucksack.
+~
+68 128 0 S
+46 -30 -1 0d0+5500 10d10+20
+100 2400
+8 8 2
+D 20
+A 12
+#5555
+kunibert ghost~
+Ghost Kunibert~
+The unreal ghost of Kunibert is waiting here for Kunigunde.
+~
+He looks very lonely and sad...
+Seems he has no fun as an undead being.
+~
+68 0 0 S
+6 16 4 4d10+60 2d4+3
+400 5000
+8 8 1
+R 524288
+D 20
+A 12
+#5556
+kunigunde ghost~
+Ghost Kunigunde~
+Here is the Ghost of Kunigunde waiting for Kunibert.
+~
+She looks very lonely and sad...
+She seems to have no fun as an undead being.
+~
+68 0 0 S
+6 16 4 3d10+60 2d4+2
+300 4800
+8 8 2
+D 20
+A 12
+#5558
+virgin ghost~
+Ghost of Virgin~
+Here is the Ghost of the Virgin reading her own tale.
+~
+She read her own tale, sniffing sadly after each chapter.
+She is not interested in anything else...
+~
+68 0 0 S
+7 16 3 3d10+80 3d3+3
+500 5800
+8 8 2
+D 20
+A 12
+$~

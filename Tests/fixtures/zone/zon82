@@ -1,0 +1,392 @@
+#82
+{bo,C}ROBOTICS {W,BO}FACTORY{bo}(Zoharn)~
+8299 13500 2
+*
+X 28370
+D 0  8201     0     1    (N:CLOSED) {W,BO}At the Entrance{bo}
+O 0  8227     1  8202    {BO,R}The Warning Sign{bo}
+D 0  8202     2     1    (S:CLOSED) {W,BO}Inside the Factory{bo}
+M 0  8201    15  8203    {BLU,BO}The {W}HH2{BLU}-{W}a {BLU}Helper Robot{bo}
+M 0  8202    14  8205    {R,BO}The Household Worker Robot{bo}
+M 0  8200     8  8206    {BO,C}The Teenage Clerk{bo}
+M 0  8201    15  8206    {BLU,BO}The {W}HH2{BLU}-{W}a {BLU}Helper Robot{bo}
+M 0  8203    13  8206    {G,BO}The Lawn Care Robot{bo}
+M 0  8202    14  8207    {R,BO}The Household Worker Robot{bo}
+M 0  8200     8  8207    {BO,C}The Teenage Clerk{bo}
+E 1  8202     1     3    (NECK) {bo,Y}Stock Room Key{bo}
+M 0  8201    15  8208    {BLU,BO}The {W}HH2{BLU}-{W}a {BLU}Helper Robot{bo}
+M 0  8200     8  8208    {BO,C}The Teenage Clerk{bo}
+M 0  8200     8  8208    {BO,C}The Teenage Clerk{bo}
+M 0  8202    14  8208    {R,BO}The Household Worker Robot{bo}
+M 0  8202    14  8209    {R,BO}The Household Worker Robot{bo}
+M 0  8203    13  8209    {G,BO}The Lawn Care Robot{bo}
+M 0  8201    15  8209    {BLU,BO}The {W}HH2{BLU}-{W}a {BLU}Helper Robot{bo}
+M 0  8200     8  8210    {BO,C}The Teenage Clerk{bo}
+M 0  8200     8  8210    {BO,C}The Teenage Clerk{bo}
+M 0  8203    13  8211    {G,BO}The Lawn Care Robot{bo}
+M 0  8202    14  8211    {R,BO}The Household Worker Robot{bo}
+M 0  8201    15  8212    {BLU,BO}The {W}HH2{BLU}-{W}a {BLU}Helper Robot{bo}
+M 0  8200     8  8212    {BO,C}The Teenage Clerk{bo}
+M 0  8202    14  8212    {R,BO}The Household Worker Robot{bo}
+M 0  8203    13  8212    {G,BO}The Lawn Care Robot{bo}
+M 0  8201    15  8212    {BLU,BO}The {W}HH2{BLU}-{W}a {BLU}Helper Robot{bo}
+D 0  8213     0     2    (N:LOCKED) {bo,Y}Secret Robotic Warfare Products{bo}
+M 0  8203    13  8214    {G,BO}The Lawn Care Robot{bo}
+M 0  8203    13  8214    {G,BO}The Lawn Care Robot{bo}
+M 0  8202    14  8214    {R,BO}The Household Worker Robot{bo}
+M 0  8201    15  8214    {BLU,BO}The {W}HH2{BLU}-{W}a {BLU}Helper Robot{bo}
+M 0  8201    15  8215    {BLU,BO}The {W}HH2{BLU}-{W}a {BLU}Helper Robot{bo}
+M 0  8202    14  8216    {R,BO}The Household Worker Robot{bo}
+M 0  8203    13  8216    {G,BO}The Lawn Care Robot{bo}
+M 0  8204     5  8218    {BO,BLA}The GIANT Rat{bo}
+D 0  8218     2     1    (S:CLOSED) {BO,B}Inside the Stock Room{bo}
+M 0  8204     5  8220    {BO,BLA}The GIANT Rat{bo}
+M 0  8204     5  8220    {BO,BLA}The GIANT Rat{bo}
+M 0  8204     5  8220    {BO,BLA}The GIANT Rat{bo}
+M 0  8204     5  8220    {BO,BLA}The GIANT Rat{bo}
+M 0  8205     4  8220    {BO,bo,R}The Securo-Bot{bo}
+E 1  8201    23    18    (INSIGNIA) {W,BO}A {bo,C}ROBOTICS {Y,BO}Inc.{W} Pin{bo}
+D 0  8222     0     1    (N:CLOSED) {W,BO}The Hallway{bo}
+D 0  8223     0     1    (N:CLOSED) {W,BO}The Hallway{bo}
+D 0  8223     3     2    (W:LOCKED) {W,BO}The Hallway{bo}
+D 0  8224     2     1    (S:CLOSED) {BO,C}The Women's Restroom{bo}
+D 0  8224     3     1    (W:CLOSED) {BO,C}The Women's Restroom{bo}
+M 0  8200     8  8225    {BO,C}The Teenage Clerk{bo}
+D 0  8225     1     1    (E:CLOSED) {C,BO}The Stall{bo}
+D 0  8226     1     1    (E:CLOSED) {Y,BO}Men's Restroom{bo}
+D 0  8226     2     1    (S:CLOSED) {Y,BO}Men's Restroom{bo}
+M 0  8201    15  8227    {BLU,BO}The {W}HH2{BLU}-{W}a {BLU}Helper Robot{bo}
+E 1  8200     1     3    (NECK) {Y,BO}A Golden Security Key{bo}
+E 1  8203    22    16    (WIELD) {BO,R}Robotic Blade {bo,R}of {BO}Mass Destruction{bo}
+E 1  8201    23    18    (INSIGNIA) {W,BO}A {bo,C}ROBOTICS {Y,BO}Inc.{W} Pin{bo}
+D 0  8227     3     1    (W:CLOSED) {Y,BO}The Stall{bo}
+M 0  8205     4  8228    {BO,bo,R}The Securo-Bot{bo}
+M 0  8205     4  8228    {BO,bo,R}The Securo-Bot{bo}
+M 0  8205     4  8228    {BO,bo,R}The Securo-Bot{bo}
+D 0  8228     1     2    (E:LOCKED) {G,BO}At the Base of the Stairs{bo}
+M 0  8206    24  8232    {BO,bo,R}The Small Elite Robot{bo}
+M 0  8206    24  8232    {BO,bo,R}The Small Elite Robot{bo}
+M 0  8206    24  8232    {BO,bo,R}The Small Elite Robot{bo}
+M 0  8206    24  8232    {BO,bo,R}The Small Elite Robot{bo}
+E 1  8203    22    16    (WIELD) {BO,R}Robotic Blade {bo,R}of {BO}Mass Destruction{bo}
+E 1  8201    23    18    (INSIGNIA) {W,BO}A {bo,C}ROBOTICS {Y,BO}Inc.{W} Pin{bo}
+M 0  8206    24  8232    {BO,bo,R}The Small Elite Robot{bo}
+M 0  8206    24  8232    {BO,bo,R}The Small Elite Robot{bo}
+D 0  8232     0     2    (N:LOCKED) {bo,R}The Top of the Stairs{bo}
+M 0  8206    24  8233    {BO,bo,R}The Small Elite Robot{bo}
+M 0  8206    24  8233    {BO,bo,R}The Small Elite Robot{bo}
+M 0  8206    24  8233    {BO,bo,R}The Small Elite Robot{bo}
+M 0  8206    24  8233    {BO,bo,R}The Small Elite Robot{bo}
+M 0  8206    24  8233    {BO,bo,R}The Small Elite Robot{bo}
+M 0  8206    24  8233    {BO,bo,R}The Small Elite Robot{bo}
+E 1  8203    22    16    (WIELD) {BO,R}Robotic Blade {bo,R}of {BO}Mass Destruction{bo}
+E 1  8201    23    18    (INSIGNIA) {W,BO}A {bo,C}ROBOTICS {Y,BO}Inc.{W} Pin{bo}
+M 0  8206    24  8234    {BO,bo,R}The Small Elite Robot{bo}
+M 0  8206    24  8234    {BO,bo,R}The Small Elite Robot{bo}
+E 1  8203    22    16    (WIELD) {BO,R}Robotic Blade {bo,R}of {BO}Mass Destruction{bo}
+E 1  8201    23    18    (INSIGNIA) {W,BO}A {bo,C}ROBOTICS {Y,BO}Inc.{W} Pin{bo}
+M 0  8206    24  8234    {BO,bo,R}The Small Elite Robot{bo}
+M 0  8206    24  8234    {BO,bo,R}The Small Elite Robot{bo}
+M 0  8206    24  8234    {BO,bo,R}The Small Elite Robot{bo}
+M 0  8206    24  8234    {BO,bo,R}The Small Elite Robot{bo}
+M 0  8206    24  8235    {BO,bo,R}The Small Elite Robot{bo}
+E 1  8203    22    16    (WIELD) {BO,R}Robotic Blade {bo,R}of {BO}Mass Destruction{bo}
+E 1  8201    23    18    (INSIGNIA) {W,BO}A {bo,C}ROBOTICS {Y,BO}Inc.{W} Pin{bo}
+M 0  8206    24  8235    {BO,bo,R}The Small Elite Robot{bo}
+M 0  8206    24  8235    {BO,bo,R}The Small Elite Robot{bo}
+M 0  8206    24  8235    {BO,bo,R}The Small Elite Robot{bo}
+M 0  8206    24  8235    {BO,bo,R}The Small Elite Robot{bo}
+M 0  8206    24  8235    {BO,bo,R}The Small Elite Robot{bo}
+D 0  8235     0     2    (N:LOCKED) {bo,R}The Hallway{bo}
+D 0  8235     2     1    (S:CLOSED) {bo,R}The Hallway{bo}
+M 0  8207     7  8236    {BO,bo,C}The Security Guard{bo}
+E 1  8223     2     0    (LIGHT) {BO,Y}A Mag-Lite Flashlight{bo}
+E 1  8204     2    17    (HELD) {C,BO}An Access Card{bo}
+G 1  8205     2     0    {G,BO}A small key{bo}
+D 0  8236     0     1    (N:CLOSED) {BO,R}Exterior Security Station{bo}
+M 0  8208     9  8237    {BO,bo,W}The Robot Assembly Worker{bo}
+M 0  8211    14  8237    {BO,bo,Y}An {BO}Incomplete {bo,Y}Robot{bo}
+M 0  8201    15  8237    {BLU,BO}The {W}HH2{BLU}-{W}a {BLU}Helper Robot{bo}
+M 0  8202    14  8237    {R,BO}The Household Worker Robot{bo}
+M 0  8201    15  8237    {BLU,BO}The {W}HH2{BLU}-{W}a {BLU}Helper Robot{bo}
+M 0  8202    14  8237    {R,BO}The Household Worker Robot{bo}
+D 0  8237     2     2    (S:LOCKED) {Y,BO}General Assembly Area{bo}
+M 0  8211    14  8238    {BO,bo,Y}An {BO}Incomplete {bo,Y}Robot{bo}
+M 0  8211    14  8238    {BO,bo,Y}An {BO}Incomplete {bo,Y}Robot{bo}
+M 0  8201    15  8238    {BLU,BO}The {W}HH2{BLU}-{W}a {BLU}Helper Robot{bo}
+M 0  8208     9  8239    {BO,bo,W}The Robot Assembly Worker{bo}
+M 0  8203    13  8239    {G,BO}The Lawn Care Robot{bo}
+M 0  8203    13  8240    {G,BO}The Lawn Care Robot{bo}
+M 0  8203    13  8240    {G,BO}The Lawn Care Robot{bo}
+M 0  8211    14  8241    {BO,bo,Y}An {BO}Incomplete {bo,Y}Robot{bo}
+M 0  8208     9  8241    {BO,bo,W}The Robot Assembly Worker{bo}
+M 0  8203    13  8241    {G,BO}The Lawn Care Robot{bo}
+M 0  8202    14  8242    {R,BO}The Household Worker Robot{bo}
+M 0  8202    14  8242    {R,BO}The Household Worker Robot{bo}
+M 0  8201    15  8242    {BLU,BO}The {W}HH2{BLU}-{W}a {BLU}Helper Robot{bo}
+M 0  8202    14  8242    {R,BO}The Household Worker Robot{bo}
+M 0  8208     9  8242    {BO,bo,W}The Robot Assembly Worker{bo}
+M 0  8203    13  8242    {G,BO}The Lawn Care Robot{bo}
+M 0  8202    14  8242    {R,BO}The Household Worker Robot{bo}
+M 0  8201    15  8242    {BLU,BO}The {W}HH2{BLU}-{W}a {BLU}Helper Robot{bo}
+M 0  8203    13  8242    {G,BO}The Lawn Care Robot{bo}
+M 0  8201    15  8242    {BLU,BO}The {W}HH2{BLU}-{W}a {BLU}Helper Robot{bo}
+D 0  8242     0     1    (N:CLOSED) {Y,BO}General Assembly Area{bo}
+M 0  8209     3  8243    {BO,R}The {bo,R}METAL{BO} Shredder{bo}
+M 0  8209     3  8243    {BO,R}The {bo,R}METAL{BO} Shredder{bo}
+M 0  8209     3  8243    {BO,R}The {bo,R}METAL{BO} Shredder{bo}
+D 0  8244     2     0    (S:OPEN) {bo,C}Inside the Chute{bo}
+D 0  8246     2     1    (S:CLOSED) {bo,C}Inside the Chute{bo}
+M 0  8211    14  8247    {BO,bo,Y}An {BO}Incomplete {bo,Y}Robot{bo}
+M 0  8208     9  8247    {BO,bo,W}The Robot Assembly Worker{bo}
+M 0  8208     9  8247    {BO,bo,W}The Robot Assembly Worker{bo}
+M 0  8210    17  8247    {BO,bo,C}The {BO}Large Elite Robot{bo}
+D 0  8247     0     1    (N:CLOSED) {R,BO}Military Robotic Assembly Area{bo}
+M 0  8211    14  8248    {BO,bo,Y}An {BO}Incomplete {bo,Y}Robot{bo}
+M 0  8208     9  8248    {BO,bo,W}The Robot Assembly Worker{bo}
+E 1  8225     1    22    (RUNEMARK) {W,BO}A {bo,C}ROBOTICS {Y,BO}Inc.{W} Pin{bo}
+M 0  8210    17  8248    {BO,bo,C}The {BO}Large Elite Robot{bo}
+M 0  8211    14  8249    {BO,bo,Y}An {BO}Incomplete {bo,Y}Robot{bo}
+M 0  8210    17  8249    {BO,bo,C}The {BO}Large Elite Robot{bo}
+M 0  8211    14  8250    {BO,bo,Y}An {BO}Incomplete {bo,Y}Robot{bo}
+M 0  8210    17  8251    {BO,bo,C}The {BO}Large Elite Robot{bo}
+M 0  8211    14  8252    {BO,bo,Y}An {BO}Incomplete {bo,Y}Robot{bo}
+M 0  8210    17  8252    {BO,bo,C}The {BO}Large Elite Robot{bo}
+D 0  8252     1     1    (E:CLOSED) {R,BO}Military Robotic Assembly Area{bo}
+M 0  8211    14  8253    {BO,bo,Y}An {BO}Incomplete {bo,Y}Robot{bo}
+M 0  8208     9  8253    {BO,bo,W}The Robot Assembly Worker{bo}
+G 1  8221     1     0    {BO,bo,W}A Lab Key{bo}
+M 0  8211    14  8254    {BO,bo,Y}An {BO}Incomplete {bo,Y}Robot{bo}
+M 0  8208     9  8254    {BO,bo,W}The Robot Assembly Worker{bo}
+M 0  8211    14  8254    {BO,bo,Y}An {BO}Incomplete {bo,Y}Robot{bo}
+M 0  8211    14  8254    {BO,bo,Y}An {BO}Incomplete {bo,Y}Robot{bo}
+M 0  8210    17  8254    {BO,bo,C}The {BO}Large Elite Robot{bo}
+M 0  8211    14  8255    {BO,bo,Y}An {BO}Incomplete {bo,Y}Robot{bo}
+M 0  8210    17  8255    {BO,bo,C}The {BO}Large Elite Robot{bo}
+M 0  8210    17  8256    {BO,bo,C}The {BO}Large Elite Robot{bo}
+E 1  8203    22    16    (WIELD) {BO,R}Robotic Blade {bo,R}of {BO}Mass Destruction{bo}
+E 1  8201    23    18    (INSIGNIA) {W,BO}A {bo,C}ROBOTICS {Y,BO}Inc.{W} Pin{bo}
+M 0  8210    17  8256    {BO,bo,C}The {BO}Large Elite Robot{bo}
+E 1  8203    22    16    (WIELD) {BO,R}Robotic Blade {bo,R}of {BO}Mass Destruction{bo}
+E 1  8201    23    18    (INSIGNIA) {W,BO}A {bo,C}ROBOTICS {Y,BO}Inc.{W} Pin{bo}
+D 0  8256     2     2    (S:LOCKED) {bo,R}Restricted Hallway{bo}
+M 0  8210    17  8257    {BO,bo,C}The {BO}Large Elite Robot{bo}
+E 1  8203    22    16    (WIELD) {BO,R}Robotic Blade {bo,R}of {BO}Mass Destruction{bo}
+E 1  8201    23    18    (INSIGNIA) {W,BO}A {bo,C}ROBOTICS {Y,BO}Inc.{W} Pin{bo}
+M 0  8210    17  8257    {BO,bo,C}The {BO}Large Elite Robot{bo}
+E 1  8203    22    16    (WIELD) {BO,R}Robotic Blade {bo,R}of {BO}Mass Destruction{bo}
+E 1  8201    23    18    (INSIGNIA) {W,BO}A {bo,C}ROBOTICS {Y,BO}Inc.{W} Pin{bo}
+D 0  8257     1     2    (E:LOCKED) {bo,R}Restricted Hallway{bo}
+M 0  8210    17  8258    {BO,bo,C}The {BO}Large Elite Robot{bo}
+M 0  8210    17  8258    {BO,bo,C}The {BO}Large Elite Robot{bo}
+M 0  8210    17  8258    {BO,bo,C}The {BO}Large Elite Robot{bo}
+M 0  8213    17  8258    {BO,bo,C}D{BO}e{W}s{bo,W}t{C}r{BO}o{W}y{bo,W}e{C}r {BO}C{W}l{bo,W}a{C}s{BO}s {W}R{bo,W}o{C}b{BO}o{W}t{bo}
+M 0  8213    17  8258    {BO,bo,C}D{BO}e{W}s{bo,W}t{C}r{BO}o{W}y{bo,W}e{C}r {BO}C{W}l{bo,W}a{C}s{BO}s {W}R{bo,W}o{C}b{BO}o{W}t{bo}
+M 0  8213    17  8258    {BO,bo,C}D{BO}e{W}s{bo,W}t{C}r{BO}o{W}y{bo,W}e{C}r {BO}C{W}l{bo,W}a{C}s{BO}s {W}R{bo,W}o{C}b{BO}o{W}t{bo}
+M 0  8213    17  8258    {BO,bo,C}D{BO}e{W}s{bo,W}t{C}r{BO}o{W}y{bo,W}e{C}r {BO}C{W}l{bo,W}a{C}s{BO}s {W}R{bo,W}o{C}b{BO}o{W}t{bo}
+M 0  8213    17  8258    {BO,bo,C}D{BO}e{W}s{bo,W}t{C}r{BO}o{W}y{bo,W}e{C}r {BO}C{W}l{bo,W}a{C}s{BO}s {W}R{bo,W}o{C}b{BO}o{W}t{bo}
+M 0  8213    17  8258    {BO,bo,C}D{BO}e{W}s{bo,W}t{C}r{BO}o{W}y{bo,W}e{C}r {BO}C{W}l{bo,W}a{C}s{BO}s {W}R{bo,W}o{C}b{BO}o{W}t{bo}
+M 0  8213    17  8258    {BO,bo,C}D{BO}e{W}s{bo,W}t{C}r{BO}o{W}y{bo,W}e{C}r {BO}C{W}l{bo,W}a{C}s{BO}s {W}R{bo,W}o{C}b{BO}o{W}t{bo}
+M 0  8213    17  8258    {BO,bo,C}D{BO}e{W}s{bo,W}t{C}r{BO}o{W}y{bo,W}e{C}r {BO}C{W}l{bo,W}a{C}s{BO}s {W}R{bo,W}o{C}b{BO}o{W}t{bo}
+M 0  8213    17  8258    {BO,bo,C}D{BO}e{W}s{bo,W}t{C}r{BO}o{W}y{bo,W}e{C}r {BO}C{W}l{bo,W}a{C}s{BO}s {W}R{bo,W}o{C}b{BO}o{W}t{bo}
+M 0  8213    17  8258    {BO,bo,C}D{BO}e{W}s{bo,W}t{C}r{BO}o{W}y{bo,W}e{C}r {BO}C{W}l{bo,W}a{C}s{BO}s {W}R{bo,W}o{C}b{BO}o{W}t{bo}
+D 0  8258     3     2    (W:LOCKED) {bo,R}Restricted Hallway{bo}
+M 0  8210    17  8259    {BO,bo,C}The {BO}Large Elite Robot{bo}
+M 0  8210    17  8259    {BO,bo,C}The {BO}Large Elite Robot{bo}
+M 0  8210    17  8259    {BO,bo,C}The {BO}Large Elite Robot{bo}
+D 0  8259     0     1    (N:CLOSED) {bo,R}Restricted Hallway{bo}
+D 0  8259     1     2    (E:LOCKED) {bo,R}Restricted Hallway{bo}
+M 0  8213    17  8260    {BO,bo,C}D{BO}e{W}s{bo,W}t{C}r{BO}o{W}y{bo,W}e{C}r {BO}C{W}l{bo,W}a{C}s{BO}s {W}R{bo,W}o{C}b{BO}o{W}t{bo}
+M 0  8213    17  8260    {BO,bo,C}D{BO}e{W}s{bo,W}t{C}r{BO}o{W}y{bo,W}e{C}r {BO}C{W}l{bo,W}a{C}s{BO}s {W}R{bo,W}o{C}b{BO}o{W}t{bo}
+M 0  8213    17  8260    {BO,bo,C}D{BO}e{W}s{bo,W}t{C}r{BO}o{W}y{bo,W}e{C}r {BO}C{W}l{bo,W}a{C}s{BO}s {W}R{bo,W}o{C}b{BO}o{W}t{bo}
+M 0  8212    16  8260    {BO,BLU}An Engineer{bo}
+M 0  8212    16  8260    {BO,BLU}An Engineer{bo}
+M 0  8212    16  8260    {BO,BLU}An Engineer{bo}
+M 0  8212    16  8260    {BO,BLU}An Engineer{bo}
+M 0  8212    16  8260    {BO,BLU}An Engineer{bo}
+M 0  8213    17  8261    {BO,bo,C}D{BO}e{W}s{bo,W}t{C}r{BO}o{W}y{bo,W}e{C}r {BO}C{W}l{bo,W}a{C}s{BO}s {W}R{bo,W}o{C}b{BO}o{W}t{bo}
+M 0  8212    16  8261    {BO,BLU}An Engineer{bo}
+M 0  8212    16  8261    {BO,BLU}An Engineer{bo}
+M 0  8212    16  8261    {BO,BLU}An Engineer{bo}
+M 0  8212    16  8261    {BO,BLU}An Engineer{bo}
+M 0  8212    16  8261    {BO,BLU}An Engineer{bo}
+M 0  8212    16  8261    {BO,BLU}An Engineer{bo}
+D 0  8261     1     1    (E:CLOSED) {BO,BLU}Engineering Area{bo}
+D 0  8261     3     1    (W:CLOSED) {BO,BLU}Engineering Area{bo}
+M 0  8213    17  8262    {BO,bo,C}D{BO}e{W}s{bo,W}t{C}r{BO}o{W}y{bo,W}e{C}r {BO}C{W}l{bo,W}a{C}s{BO}s {W}R{bo,W}o{C}b{BO}o{W}t{bo}
+M 0  8212    16  8262    {BO,BLU}An Engineer{bo}
+M 0  8212    16  8262    {BO,BLU}An Engineer{bo}
+M 0  8212    16  8262    {BO,BLU}An Engineer{bo}
+M 0  8212    16  8262    {BO,BLU}An Engineer{bo}
+M 0  8212    16  8262    {BO,BLU}An Engineer{bo}
+M 0  8223     1  8263    {BO,G}THE HUGE NERD{bo}
+E 1  8224     1    13    (WAIST) {BO,R}A Pair of Dorky Red Suspenders{bo}
+E 1  8214     1    16    (WIELD) {BO,Y}a Thick Lens with Sharp Edges{bo}
+D 0  8263     3     0    (W:OPEN) {bo,W}Prototype Storage Area{bo}
+M 0  8207     7  8264    {BO,bo,C}The Security Guard{bo}
+G 1  8206     2     0    {W,BO}Laser Key{bo}
+M 0  8207     7  8264    {BO,bo,C}The Security Guard{bo}
+D 0  8264     2     0    (S:OPEN) {BO,R}Advanced Security Station{bo}
+M 0  8224     1  8265    {BO,bo,Y}The {BO}Robotic {bo,Y}Elevator {BO}Operator{bo}
+O 0  8207     1  8265    {BO,bo,C}The Elevator{bo}
+O 0  8203    22  8265    {BO,R}Robotic Blade {bo,R}of {BO}Mass Destruction{bo}
+O 0  8201    23  8265    {W,BO}A {bo,C}ROBOTICS {Y,BO}Inc.{W} Pin{bo}
+D 0  8265     3     1    (W:CLOSED) {Y,BO}Restricted Elevator{bo}
+M 0  8227     7  8266    {BO,bo,C}D{BO}e{W}s{bo,W}t{C}r{BO}o{W}y{bo,W}e{C}r {BO}C{W}l{bo,W}a{C}s{BO}s {W}R{bo,W}o{C}b{BO}o{W}t{bo}
+E 1  8203    22    16    (WIELD) {BO,R}Robotic Blade {bo,R}of {BO}Mass Destruction{bo}
+E 1  8201    23    18    (INSIGNIA) {W,BO}A {bo,C}ROBOTICS {Y,BO}Inc.{W} Pin{bo}
+M 0  8213    17  8267    {BO,bo,C}D{BO}e{W}s{bo,W}t{C}r{BO}o{W}y{bo,W}e{C}r {BO}C{W}l{bo,W}a{C}s{BO}s {W}R{bo,W}o{C}b{BO}o{W}t{bo}
+E 1  8203    22    16    (WIELD) {BO,R}Robotic Blade {bo,R}of {BO}Mass Destruction{bo}
+E 1  8201    23    18    (INSIGNIA) {W,BO}A {bo,C}ROBOTICS {Y,BO}Inc.{W} Pin{bo}
+M 0  8213    17  8267    {BO,bo,C}D{BO}e{W}s{bo,W}t{C}r{BO}o{W}y{bo,W}e{C}r {BO}C{W}l{bo,W}a{C}s{BO}s {W}R{bo,W}o{C}b{BO}o{W}t{bo}
+E 1  8203    22    16    (WIELD) {BO,R}Robotic Blade {bo,R}of {BO}Mass Destruction{bo}
+E 1  8201    23    18    (INSIGNIA) {W,BO}A {bo,C}ROBOTICS {Y,BO}Inc.{W} Pin{bo}
+M 0  8227     7  8267    {BO,bo,C}D{BO}e{W}s{bo,W}t{C}r{BO}o{W}y{bo,W}e{C}r {BO}C{W}l{bo,W}a{C}s{BO}s {W}R{bo,W}o{C}b{BO}o{W}t{bo}
+M 0  8227     7  8267    {BO,bo,C}D{BO}e{W}s{bo,W}t{C}r{BO}o{W}y{bo,W}e{C}r {BO}C{W}l{bo,W}a{C}s{BO}s {W}R{bo,W}o{C}b{BO}o{W}t{bo}
+M 0  8227     7  8267    {BO,bo,C}D{BO}e{W}s{bo,W}t{C}r{BO}o{W}y{bo,W}e{C}r {BO}C{W}l{bo,W}a{C}s{BO}s {W}R{bo,W}o{C}b{BO}o{W}t{bo}
+D 0  8267     2     2    (S:LOCKED) {R,BO}Top Secret Hallway{bo}
+M 0  8227     7  8268    {BO,bo,C}D{BO}e{W}s{bo,W}t{C}r{BO}o{W}y{bo,W}e{C}r {BO}C{W}l{bo,W}a{C}s{BO}s {W}R{bo,W}o{C}b{BO}o{W}t{bo}
+E 1  8203    22    16    (WIELD) {BO,R}Robotic Blade {bo,R}of {BO}Mass Destruction{bo}
+E 1  8201    23    18    (INSIGNIA) {W,BO}A {bo,C}ROBOTICS {Y,BO}Inc.{W} Pin{bo}
+M 0  8227     7  8268    {BO,bo,C}D{BO}e{W}s{bo,W}t{C}r{BO}o{W}y{bo,W}e{C}r {BO}C{W}l{bo,W}a{C}s{BO}s {W}R{bo,W}o{C}b{BO}o{W}t{bo}
+M 0  8227     7  8268    {BO,bo,C}D{BO}e{W}s{bo,W}t{C}r{BO}o{W}y{bo,W}e{C}r {BO}C{W}l{bo,W}a{C}s{BO}s {W}R{bo,W}o{C}b{BO}o{W}t{bo}
+D 0  8268     0     2    (N:LOCKED) {R,BO}Top Secret Hallway{bo}
+D 0  8268     1     2    (E:LOCKED) {R,BO}Top Secret Hallway{bo}
+M 0  8207     7  8269    {BO,bo,C}The Security Guard{bo}
+M 0  8207     7  8269    {BO,bo,C}The Security Guard{bo}
+M 0  8207     7  8269    {BO,bo,C}The Security Guard{bo}
+E 1  8208     2     6    (HEAD) {R}{BOLD}Bloody Eyeball{r}{bold}
+M 0  8207     7  8269    {BO,bo,C}The Security Guard{bo}
+D 0  8269     3     2    (W:LOCKED) {BO,R}Sophisticated Security Outpost{bo}
+D 0  8270     2     1    (S:CLOSED) {BO,Y,BLI}T{bo,Y,BLI}E{BO}S{bo,Y,BLI}T{BO}I{bo,Y,BLI}N{BO}G{bo,Y,BLI} A{BO}R{bo,Y,BLI}E{BO}A{bo}
+D 0  8271     0     2    (N:LOCKED) {BO,Y,BLI}T{bo,Y,BLI}E{BO}S{bo,Y,BLI}T{BO}I{bo,Y,BLI}N{BO}G{bo,Y,BLI} A{BO}R{bo,Y,BLI}E{BO}A{bo}
+M 0  8214     1  8272    {R,BO}The ROBO Attendant{bo}
+E 1  8226     2     3    (NECK) {BO,bo,C}A {BO}Scrap{bo,C} of {BO}Metal{bo}
+G 1  8210     2     0    {BLU,BO}Master Control{bo}
+D 0  8272     2     2    (S:LOCKED) {BO,Y,BLI}T{bo,Y,BLI}E{BO}S{bo,Y,BLI}T{BO}I{bo,Y,BLI}N{BO}G{bo,Y,BLI} A{BO}R{bo,Y,BLI}E{BO}A{bo}
+D 0  8273     2     1    (S:CLOSED) {bo,W}Cyborg Creation Tank{bo}
+M 0  8221     4  8274    {BO,W}The CYBORG{bo}
+D 0  8274     1     0    (E:OPEN) {bo,W}Lost within the Tank{bo}
+M 0  8221     4  8275    {BO,W}The CYBORG{bo}
+D 0  8275     3     0    (W:OPEN) {bo,W}Lost within the Tank{bo}
+M 0  8221     4  8276    {BO,W}The CYBORG{bo}
+D 0  8276     5     0    (D:OPEN) {bo,W}Lost within the Tank{bo}
+M 0  8221     4  8277    {BO,W}The CYBORG{bo}
+D 0  8277     4     0    (U:OPEN) {bo,W}Lost within the Tank{bo}
+D 0  8278     0     1    (N:CLOSED) {bo,W}A Deeper Chamber of the Cyborg Creation Tank{bo}
+D 0  8278     1     0    (E:OPEN) {bo,W}A Deeper Chamber of the Cyborg Creation Tank{bo}
+D 0  8278     3     0    (W:OPEN) {bo,W}A Deeper Chamber of the Cyborg Creation Tank{bo}
+D 0  8278     4     0    (U:OPEN) {bo,W}A Deeper Chamber of the Cyborg Creation Tank{bo}
+D 0  8278     5     0    (D:OPEN) {bo,W}A Deeper Chamber of the Cyborg Creation Tank{bo}
+M 0  8219    21  8279    {BO,bo,Y}Incomplete Cyborg{bo}
+M 0  8219    21  8279    {BO,bo,Y}Incomplete Cyborg{bo}
+M 0  8219    21  8279    {BO,bo,Y}Incomplete Cyborg{bo}
+M 0  8219    21  8279    {BO,bo,Y}Incomplete Cyborg{bo}
+M 0  8219    21  8279    {BO,bo,Y}Incomplete Cyborg{bo}
+M 0  8219    21  8279    {BO,bo,Y}Incomplete Cyborg{bo}
+M 0  8219    21  8279    {BO,bo,Y}Incomplete Cyborg{bo}
+M 0  8219    21  8279    {BO,bo,Y}Incomplete Cyborg{bo}
+M 0  8219    21  8279    {BO,bo,Y}Incomplete Cyborg{bo}
+M 0  8219    21  8279    {BO,bo,Y}Incomplete Cyborg{bo}
+M 0  8219    21  8279    {BO,bo,Y}Incomplete Cyborg{bo}
+M 0  8219    21  8279    {BO,bo,Y}Incomplete Cyborg{bo}
+M 0  8219    21  8279    {BO,bo,Y}Incomplete Cyborg{bo}
+M 0  8219    21  8279    {BO,bo,Y}Incomplete Cyborg{bo}
+M 0  8219    21  8279    {BO,bo,Y}Incomplete Cyborg{bo}
+M 0  8219    21  8279    {BO,bo,Y}Incomplete Cyborg{bo}
+M 0  8219    21  8279    {BO,bo,Y}Incomplete Cyborg{bo}
+M 0  8219    21  8279    {BO,bo,Y}Incomplete Cyborg{bo}
+M 0  8219    21  8279    {BO,bo,Y}Incomplete Cyborg{bo}
+M 0  8219    21  8279    {BO,bo,Y}Incomplete Cyborg{bo}
+M 0  8219    21  8279    {BO,bo,Y}Incomplete Cyborg{bo}
+M 0  8225     4  8279    {BO,bo,C}The {BO}POWERFUL CYBORG{bo}
+E 1  8203    22    16    (WIELD) {BO,R}Robotic Blade {bo,R}of {BO}Mass Destruction{bo}
+E 1  8201    23    18    (INSIGNIA) {W,BO}A {bo,C}ROBOTICS {Y,BO}Inc.{W} Pin{bo}
+G 1  8212    12     0    {bo,Y}A tangle of wires and steel{bo}
+P 1  8209     1  8212    {BO,R}A High Powered {W,BLI,REV}Laser{bo}
+M 0  8225     4  8279    {BO,bo,C}The {BO}POWERFUL CYBORG{bo}
+E 1  8203    22    16    (WIELD) {BO,R}Robotic Blade {bo,R}of {BO}Mass Destruction{bo}
+E 1  8201    23    18    (INSIGNIA) {W,BO}A {bo,C}ROBOTICS {Y,BO}Inc.{W} Pin{bo}
+G 1  8212    12     0    {bo,Y}A tangle of wires and steel{bo}
+P 1  8216     2  8212    {BO,Y}A Strand of Sparking Wires{bo}
+M 0  8225     4  8279    {BO,bo,C}The {BO}POWERFUL CYBORG{bo}
+E 1  8203    22    16    (WIELD) {BO,R}Robotic Blade {bo,R}of {BO}Mass Destruction{bo}
+E 1  8201    23    18    (INSIGNIA) {W,BO}A {bo,C}ROBOTICS {Y,BO}Inc.{W} Pin{bo}
+G 1  8212    12     0    {bo,Y}A tangle of wires and steel{bo}
+P 1  8217     1  8212    {BO,B}CYBORG FIST{bo}
+M 0  8225     4  8279    {BO,bo,C}The {BO}POWERFUL CYBORG{bo}
+E 1  8203    22    16    (WIELD) {BO,R}Robotic Blade {bo,R}of {BO}Mass Destruction{bo}
+E 1  8201    23    18    (INSIGNIA) {W,BO}A {bo,C}ROBOTICS {Y,BO}Inc.{W} Pin{bo}
+G 1  8212    12     0    {bo,Y}A tangle of wires and steel{bo}
+P 1  8218     3  8212    {BO,bo,Y}A Suit of Decaying Flesh{bo}
+M 0  8220     2  8279    {BO,bo,C}The {BO}POWERFUL CYBORG{bo}
+E 1  8203    22    16    (WIELD) {BO,R}Robotic Blade {bo,R}of {BO}Mass Destruction{bo}
+E 1  8201    23    18    (INSIGNIA) {W,BO}A {bo,C}ROBOTICS {Y,BO}Inc.{W} Pin{bo}
+G 1  8212    12     0    {bo,Y}A tangle of wires and steel{bo}
+P 1  8219     2  8212    {BO,bo,C}Mechanical Skeleton{bo}
+M 0  8220     2  8279    {BO,bo,C}The {BO}POWERFUL CYBORG{bo}
+E 1  8203    22    16    (WIELD) {BO,R}Robotic Blade {bo,R}of {BO}Mass Destruction{bo}
+E 1  8201    23    18    (INSIGNIA) {W,BO}A {bo,C}ROBOTICS {Y,BO}Inc.{W} Pin{bo}
+G 1  8212    12     0    {bo,Y}A tangle of wires and steel{bo}
+P 1  8220     1  8212    {BO,G}The Cracked Circuit Board{bo}
+D 0  8279     2     1    (S:CLOSED) {BO,Y}Somewhere in the vast...{bo}
+D 0  8280     0     1    (N:CLOSED) {bo,Y}Entrance to the Cybernetics Laboratory{bo}
+M 0  8216    12  8282    {BO,bo,C}The Cybernetic Beastly Fido{bo}
+M 0  8217    14  8282    An Enhanced Cityguard
+M 0  8222     6  8282    {BO,C}Cybernetic Furball{bo}
+M 0  8216    12  8282    {BO,bo,C}The Cybernetic Beastly Fido{bo}
+M 0  8216    12  8282    {BO,bo,C}The Cybernetic Beastly Fido{bo}
+M 0  8222     6  8282    {BO,C}Cybernetic Furball{bo}
+M 0  8215     6  8282    {BO}{bo,W}The Lab Technician{bo}
+E 1  8203    22    16    (WIELD) {BO,R}Robotic Blade {bo,R}of {BO}Mass Destruction{bo}
+E 1  8201    23    18    (INSIGNIA) {W,BO}A {bo,C}ROBOTICS {Y,BO}Inc.{W} Pin{bo}
+M 0  8216    12  8282    {BO,bo,C}The Cybernetic Beastly Fido{bo}
+M 0  8216    12  8283    {BO,bo,C}The Cybernetic Beastly Fido{bo}
+M 0  8216    12  8283    {BO,bo,C}The Cybernetic Beastly Fido{bo}
+M 0  8222     6  8283    {BO,C}Cybernetic Furball{bo}
+M 0  8217    14  8284    An Enhanced Cityguard
+M 0  8216    12  8284    {BO,bo,C}The Cybernetic Beastly Fido{bo}
+M 0  8216    12  8284    {BO,bo,C}The Cybernetic Beastly Fido{bo}
+M 0  8215     6  8284    {BO}{bo,W}The Lab Technician{bo}
+M 0  8217    14  8284    An Enhanced Cityguard
+M 0  8222     6  8284    {BO,C}Cybernetic Furball{bo}
+M 0  8217    14  8285    An Enhanced Cityguard
+M 0  8217    14  8285    An Enhanced Cityguard
+M 0  8215     6  8285    {BO}{bo,W}The Lab Technician{bo}
+M 0  8215     6  8285    {BO}{bo,W}The Lab Technician{bo}
+M 0  8217    14  8285    An Enhanced Cityguard
+M 0  8217    14  8285    An Enhanced Cityguard
+M 0  8216    12  8286    {BO,bo,C}The Cybernetic Beastly Fido{bo}
+M 0  8217    14  8287    An Enhanced Cityguard
+M 0  8217    14  8287    An Enhanced Cityguard
+M 0  8217    14  8287    An Enhanced Cityguard
+M 0  8215     6  8288    {BO}{bo,W}The Lab Technician{bo}
+M 0  8222     6  8288    {BO,C}Cybernetic Furball{bo}
+M 0  8217    14  8289    An Enhanced Cityguard
+M 0  8216    12  8289    {BO,bo,C}The Cybernetic Beastly Fido{bo}
+M 0  8215     6  8290    {BO}{bo,W}The Lab Technician{bo}
+E 1  8211     1     3    (NECK) {BO,Y}A vault key{bo}
+M 0  8222     6  8290    {BO,C}Cybernetic Furball{bo}
+M 0  8216    12  8290    {BO,bo,C}The Cybernetic Beastly Fido{bo}
+M 0  8217    14  8290    An Enhanced Cityguard
+M 0  8217    14  8290    An Enhanced Cityguard
+M 0  8216    12  8290    {BO,bo,C}The Cybernetic Beastly Fido{bo}
+M 0  8217    14  8290    An Enhanced Cityguard
+D 0  8291     2     2    (S:LOCKED) {bo,W}Entrance to the Large Operating Chamber{bo}
+M 0  8218     1  8292    {BO,R}The Cybernetic DREDD{bo}
+E 1  8215     1     6    (HEAD) {R}The {R}{BOLD}SKULL{bold}{R} of {R}{BOL}DREDD{r}{bold}
+E 1  8203    22    16    (WIELD) {BO,R}Robotic Blade {bo,R}of {BO}Mass Destruction{bo}
+E 1  8201    23    18    (INSIGNIA) {W,BO}A {bo,C}ROBOTICS {Y,BO}Inc.{W} Pin{bo}
+M 0  8228     1  8292    {BO,bo,C}The Mechanical Lab Technician{bo}
+D 0  8292     0     1    (N:CLOSED) {BO,W}Cybernetic Enhancement Lab{bo}
+M 0  8226    10  8293    {BO,C}A Nano-technological Nightmare{bo}
+M 0  8226    10  8293    {BO,C}A Nano-technological Nightmare{bo}
+M 0  8226    10  8293    {BO,C}A Nano-technological Nightmare{bo}
+M 0  8226    10  8293    {BO,C}A Nano-technological Nightmare{bo}
+M 0  8226    10  8293    {BO,C}A Nano-technological Nightmare{bo}
+M 0  8226    10  8293    {BO,C}A Nano-technological Nightmare{bo}
+M 0  8226    10  8293    {BO,C}A Nano-technological Nightmare{bo}
+M 0  8226    10  8293    {BO,C}A Nano-technological Nightmare{bo}
+M 0  8226    10  8293    {BO,C}A Nano-technological Nightmare{bo}
+M 0  8226    10  8293    {BO,C}A Nano-technological Nightmare{bo}
+$~

@@ -1,0 +1,356 @@
+#10600
+board ~
+The Chemically Deranged Message Board~
+The Chemically Deranged Message Board~
+~
+13 0 0 0
+0 0 0 0
+0 0 0
+#10601
+club patch chemical hazard deranged ~
+{BLUE}A Chemical Hazard Patch{blue}~
+{BLUE}A Chemical Hazard Patch{blue} lies here.~
+~
+13 0 0 65537
+0 0 0 0
+1 1 1
+E
+club patch chemical hazard deranged ~
+The patch is stained with acid and it smells really bad.
+~
+#10602
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+#10603
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+#10604
+puddle~
+A puddle of chemicals~
+{BOLD}{GREEN}You se{MAGENTA}e a reflect{GREEN}ion of the time{MAGENTA}lord's in t{BLUE}he puddle of che{GREEN}micals{bold}~
+~
+27 0 0 0
+3156 3074 3074 3074
+1 1 1
+#10605
+fountain olive mara~
+A fountain~
+{bold}{YELLOW}A fo{GREEN}untain, wi{YELLOW}th a statue o{GREEN}f M{YELLOW}ara in t{GREEN}he middle, re{YELLOW}sts here.{bold}~
+~
+17 0 0 0
+9999 9999 0 0
+1 1 1
+E
+fountain olive mara~
+There is a small plaque here which reads :
+
+      Mara,
+        Where would we be without you? You have spent many
+      hours not leveling and gain wealth, but in making
+      this place a more chemically infested place to be.
+
+                                     We thank you,
+                                         ((CD))
+~
+#10606
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+B
+2133336762
+#10607
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+B
+4281084606
+#10608
+board map~
+The (CD) Map Board~
+The (CD) Map Board~
+~
+13 0 0 0
+0 0 0 0
+0 0 0
+#10609
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+E
+druidwep druid weapon test asbestos~
+~
+#10610
+insignia patch cd~
+{BOLD}{BLUE}=({RED}C{GREEN}D{BLUE})={bold}{GREEN} Chemic{RED}ally Derang{MAGENTA}ed in{RED}sig{bold}{GREEN}nia{bold}~
+{bold}{YELLOW}a {BOLD}{BLUE}=({RED}C{GREEN}D{BLUE})={bold}{GREEN} Chemic{RED}ally Derang{MAGENTA}ed in{RED}sig{bold}{GREEN}nia{bold}{YELLOW} lies here{bold}~
+~
+13 0 0 65537
+0 0 0 0
+1 1 1
+E
+club patch chemical hazard deranged ~
+oedit ldesc You see a special chemical insignia lying here...
+~
+#10611
+waste toxic~
+ToXic waSte~
+... a chunk of ToxiC waSte dripping with acid...~
+(null)~
+19 0 0 1
+10 0 0 0
+1 5 0
+E
+toxic waste chunk~
+...a piece of shiney toxic slime... yum yum
+~
+#10612
+container toxic~
+toxic container~
+A large toxic container full of chemicals is standing here...~
+~
+15 4098 0 0
+150 992 -1 999
+20 1 1
+E
+container large toxic~
+You begin to wonder if the chemicals inside the container are hazardous ...
+~
+E
+toxic container large~
+You begin to wonder if the chemicals insider the container are hazardous...
+~
+E
+large toxic container~
+You begin to wonder if the chemicals inside the container are hazardous...
+~
+L
+1
+#10613
+board CD high council~
+The CD High Council Board~
+The CD High Council Message Board.~
+(null)~
+13 0 0 0
+0 0 0 0
+1 5 10
+#10614
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+#10615
+Fountain of Toxic Jolt~
+a toxic Jolt fountain!~
+{bold}{MAGENTA}Wow! A humo{GREEN}ngous, chemi{MAGENTA}ca{GREEN}l fount{MAGENTA}ain fu{GREEN}ll of to{MAGENTA}xic Jo{GREEN}lt!..{bold}~
+~
+17 8195 0 0
+9999 9908 22 0
+4933 0 0
+E
+fountain cola jolt~
+  You see a highly polluted fountain, full of acidic liquid of jolt..
+~
+E
+Fountain of Toxic Jolt~
+  You see a highly polluted chemical fountain filled with acidic Jolt!
+~
+#10616
+legends chemical~
+A book of Chemical Legends~
+A book entitled "Chemical Legends" is lying in the toxic puddle.~
+~
+13 0 0 0
+0 0 0 0
+34464 1 0
+E
+map~
+(1)Lower Meeting Room                                            ___
+(2)Dressing Room               ___                              | 13|
+(3)CD Donation Room           | 8 |                             |___|
+(4)CD Reading Room            |_ _| Up       ___    ___    ___ /Up
+(5)CD Rules ___         ___    _|_ /  ___   | 12|__| 11|__| 10|
+           | 5 |       | 7 |__| 6 |__| 9 |  |___|  |___|  |___|
+           |_ _|Up     |___|  |___|  |___|               /     \
+            _|_ /  ___       /     \                 Down   Puddle: TimeLord
+           | 1 |__| 2 |  Down   Puddle: Healer
+       Down|___|  |___|
+      ___ / _|_ \                      (6)Meeting Room   (10)CD Reception Area
+     | 4 | | 3 | Puddle: Market Square (7)CD Post Office (11)CD Portrait Gallery
+     |___| |___|                       (8)CD Map Room    (12)CD Portrait Gallery
+          /Down: NC Donation Room      (9)CD Blacksmith  (13)Sanctuary
+~
+E
+book legends~
+
+   Since the begining, the Chemical Warriors have been standing together.
+                 Let it be until the end of time.
+
+
+
+WE, the Chemical Warriors, sons and daughters of the Chemically Deranged,
+are standing on guard of our homeland.
+
+WE, the Chemical Warriors, protect each other, guard our name and our
+property with our lives.
+
+WE, the Chemical Warriors, assist each other to achieve excellence worthy
+of great warriors.
+
+WE, the Chemical Warriors, remain loyal to our homeland forever.
+
+
+
+           May he who disobeys be banished and forgotten.
+                      
+
+~
+G
+101
+#10617
+board Portrait sign-up~
+A Board to nominate yourself for a portrait~
+The (CD) Portrait Nomination Board~
+(null)~
+13 0 0 0
+0 0 0 0
+1 5 10
+#10618
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+#10619
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+#10620
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+E
+nothing~
+~
+B
+148480
+#10621
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+E
+statue Baka~
+To live or not to live?
+~
+E
+statue baka super duper~
+You see a strange man hungrily eyeing your croch ...
+~
+#10622
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+#10623
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+E
+nothing~
+~
+#10624
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+#10625
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+#10626
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+#10627
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+B
+33587200
+#10628
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+#10629
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+$~

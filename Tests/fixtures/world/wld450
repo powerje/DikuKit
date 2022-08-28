@@ -1,0 +1,92 @@
+#45000
+How to Remort~
+
+Message 57 : Mon Sep  9 01:30 (Zepher)     :: How to Remort
+
+1. reroll name t
+2. set primary dual class and race
+3. advance name 15
+4. set stats name m   (sets all the atts to racial max)
+5. set class2 second class
+6. advance2 name 50
+7. advance name 50
+8. Load proper class trainer and have the char train or whatever
+   (this sets the primary dual class flag which is needed by casters and cant be set
+   with a command)
+9. advance name 50
+
+Oh ya set all skills to 86
+
+~
+450 0 1
+Z0
+C-1
+S
+#45001
+Reimb Rules~
+
+Message 26 : Fri Jul  5 16:11 (Zepher)     :: reimb rules
+
+If the player loses their eq due to a fault in the mud i.e. crash reimb OK
+
+If the player is 20 dual or below reimb OK
+
+If they player dies and REALLY TRIES HARD to get their own corpse then they
+get 50% of theur stuff back if they can't get it.  They should have died 5
+or more times while trying to even be considered for
+getting help.
+
+-Z
+
+~
+450 0 1
+Z0
+C-1
+S
+#45002
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+450 262144 1
+Z0
+C-1
+S
+#45003
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+450 262144 1
+Z0
+C-1
+S
+#45004
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+450 262144 1
+Z0
+C-1
+S
+#45005
+{BOLD,BLUE}Entrance to {YELLOW}the Mansion{bold,yellow}~
+
+{BOLD,Y}                                  {} {}              Welcome to the 
+                          !  !  ! II II !  !  !    Professor Xavier's 
+                       !  I__I__I_II II_I__I__I  !  School for Gifted
+                       I_/|__|__|_|| ||_|__|__|\_I     Youngsters
+                    ! /|_/|  |  | || || |  |  |\_|\ !
+        .--.        I//|  |  |  | || || |  |  |  |\\I        .--.
+       /-   \    ! /|/ |  |  |  | || || |  |  |  | \|\ !    /=   \
+       \=__ /    I//|  |  |  |  | || || |  |  |  |  |\\I    \-__ /
+        }  {  ! /|/ |  |  |  |  | || || |  |  |  |  | \|\ !  }  {
+       {____} I//|  |  |  |  |  | || || |  |  |  |  |  |\\I {____}
+ _!__!__|= |=/|/ |  |  |  |  |  | || || |  |  |  |  |  | \|\=|  |__!__!_
+ _I__I__|  ||/|__|__|__|__|__|__|_|| ||_|__|__|__|__|__|__|\||- |__I__I_
+ -|--|--|- ||-|--|--|--|--|--|--|-|| ||-|--|--|--|--|--|--|-||= |--|--|-
+  |  |  |  || |  |  |  |  |  |  | || || |  |  |  |  |  |  | ||  |  |  |{bold,y}
+~
+450 4 2
+Z0
+C-1
+S
+$~

@@ -1,0 +1,38 @@
+#89
+{BO,W}O{C}s{W}t{C}e{W}n{C} A{W}r{C}d{bo,w}(Gna)~
+8999 60 0
+*
+X 27645
+M 0  8900     1  8900    {BLU}Seoman {W}Snow{BLU}lock
+E 1  8901     1    16    (WIELD) The fabled {W}Bright Nail{w}, forged from The Tree.
+D 0  8900     1     1    (E:CLOSED) {BO,W}W{C}e{W}l{C}c{W}o{C}m{W}e{C} t{W}o{C} O{W}s{C}t{W}e{C}n{W} A{C}r{W}d{bo,w}
+D 0  8900     2     1    (S:CLOSED) {BO,W}W{C}e{W}l{C}c{W}o{C}m{W}e{C} t{W}o{C} O{W}s{C}t{W}e{C}n{W} A{C}r{W}d{bo,w}
+D 0  8900     3     1    (W:CLOSED) {BO,W}W{C}e{W}l{C}c{W}o{C}m{W}e{C} t{W}o{C} O{W}s{C}t{W}e{C}n{W} A{C}r{W}d{bo,w}
+D 0  8901     0     1    (N:CLOSED) {BLU}Kings Chambers{blu}
+D 0  8902     0     1    (N:CLOSED) {G}The Arena{g}
+D 0  8902     1     0    (E:OPEN) {G}The Arena{g}
+D 0  8902     2     1    (S:CLOSED) {G}The Arena{g}
+D 0  8902     3     1    (W:CLOSED) {G}The Arena{g}
+D 0  8903     0     1    (N:CLOSED) {W}Down the Corridor{w}
+D 0  8903     1     1    (E:CLOSED) {W}Down the Corridor{w}
+D 0  8903     2     1    (S:CLOSED) {W}Down the Corridor{w}
+D 0  8903     3     1    (W:CLOSED) {W}Down the Corridor{w}
+M 0  8901     1  8904    Binabik
+M 0  8904     1  8904    Great Grey Wolf
+O 0  8902     1  8904    A beautiful painting, capturing King and Queen in splendor!
+D 0  8904     0     1    (N:CLOSED) {M}Inside the Study{m}
+M 0  8902     1  8905    Josua "Lackhand"
+O 0  8904     1  8905    Chairs
+O 0  8903     1  8905    nothing
+D 0  8905     1     1    (E:CLOSED) {C}Meeting hall{c}
+M 0  8903     1  8906    Dr. Morgenes
+D 0  8906     2     1    (S:CLOSED) {Y}The Library{y}
+D 0  8907     0     1    (N:CLOSED) {R}The Armoury{r}
+D 0  8908     2     1    (S:CLOSED) {BO,Y}Overlooking the Hernystiri plains{bo,y}
+D 0  8923     1     0    (E:OPEN) {BO,B}Inside the Caves{bo,b}
+D 0  8924     3     0    (W:OPEN) {BO,B}Dwarrows home{bo,b}
+D 0  8994     0     1    (N:CLOSED) TEST
+D 0  8996     2     1    (S:CLOSED) Inside the cage
+D 0  8997     0     0    (N:OPEN) {BO,B}The Conference Hall{bo,b}
+D 0  8999     2     0    (S:OPEN) {BO,G}The Four Seasons{bo,g}
+$~

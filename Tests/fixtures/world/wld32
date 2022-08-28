@@ -1,0 +1,1511 @@
+#3200
+Under the Bridge~
+  The arch under the bridge is covered by seaweed for one foot above the
+surface of the Danube.  The water gently flows through an opening in the lower
+part of the city wall.
+~
+32 0 7
+D1
+(null)~
+~
+0 -1 3201
+D3
+You see the Danube flowing west into the Forest of Haon-Dor.~
+~
+0 -1 3206
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  Looks pretty solid.
+~
+Z3
+C-1
+R0
+S
+#3201
+On the Danube~
+  North of here you see the miserable buildings of the poor alley.  The
+Danube flows west towards the bridge.  The riverbanks are too steep to climb.
+~
+32 0 7
+D1
+(null)~
+~
+0 -1 3202
+D3
+(null)~
+~
+0 -1 3200
+Z3
+C-1
+R0
+S
+#3202
+On the Danube~
+  North of here you see the dump.  The Danube flows from east to west.  The
+riverbanks are too steep to climb.
+~
+32 0 7
+D1
+(null)~
+~
+0 -1 3203
+D3
+(null)~
+~
+0 -1 3201
+Z3
+C-1
+R0
+S
+#3203
+On the Danube~
+  The Levee is directly north of here.  The Danube flows in an east west
+direction.
+~
+32 0 7
+D0
+(null)~
+~
+0 -1 3049
+D1
+(null)~
+~
+0 -1 3204
+D3
+(null)~
+~
+0 -1 3202
+Z3
+C-1
+R0
+S
+#3204
+On the Danube~
+  You see the warehouse on the northern Danubebank.  East of here you see the
+city wall.  The Danube flows west towards the Levee.
+~
+32 0 7
+D1
+(null)~
+~
+0 -1 3205
+D3
+(null)~
+~
+0 -1 3203
+Z3
+C-1
+R0
+S
+#3205
+On the Danube~
+  The Danube enters from a hole in the eastern city wall.  The hole has been
+blocked by several vertically positioned iron bars set into the wall.
+~
+32 0 7
+D1
+The iron bars make it impossible to pass through the hole in the wall.
+Beyond the bars you see the great plains.
+~
+~
+0 -1 -1
+D3
+(null)~
+~
+0 -1 3204
+Z3
+C-1
+R0
+S
+#3206
+Under the western City Wall~
+  The Danube flows through a little whole in the western city wall.
+You can hear the sound of fast moving water behind the wall.
+Although you feel a little afraid when you look westwards you think the
+way is save.
+~
+32 0 7
+D1
+You see the Danube flowing under the bridge.
+~
+~
+0 -1 3200
+D3
+The water disappears in a dark tunnel to the west.
+~
+~
+0 -1 3207
+Z3
+C-1
+R0
+S
+#3207
+In the dark water tunnel~
+  The water falls down into the tunnel from the entrance in the east.
+When you look in this direction you can see some light. Maybe it's 
+the way out? To the west there is nothing but darkness.
+~
+32 9 7
+D1
+A little shimmer of light.
+~
+~
+0 -1 3206
+D3
+An even darker part of the water tunnel.
+~
+~
+0 -1 3208
+Z3
+C-1
+R0
+S
+#3208
+The rapids in the darkness.~
+  The water quickly moves westwards. It is nearly impossible to move
+in the other direction. You can hear nothing but the sound of
+moving water. The tunnel leads from east to west.
+~
+32 9 7
+D1
+Nothing but darkness.
+~
+~
+0 -1 3207
+D3
+Nothing but darkness.
+~
+~
+0 -1 3209
+Z3
+C-1
+R0
+S
+#3209
+The eastern part of the little see in the tunnel.~
+  From the east the water rushes into this little see. As you look
+around, you can hardly see the walls. The water is calm and quit
+here. You can move in each direction.
+~
+32 9 7
+D1
+Nothing but darkness.
+~
+~
+0 -1 3208
+D3
+The middle of the little see in the tunnel.
+~
+~
+0 -1 3210
+Z3
+C-1
+R0
+S
+#3210
+The middle of the little see in the tunnel.~
+  The water is calm and quiet. Maybe too calm!
+You can move in any direction. 
+
+~
+32 9 7
+D0
+The northern part of the little see in the tunnel.
+~
+~
+0 -1 3211
+D1
+The eastern part of the little see in the tunnel.
+~
+~
+0 -1 3209
+D2
+The southern part of the little see in the tunnel.
+~
+~
+0 -1 3212
+D3
+The western part of the little see in the tunnel.
+~
+~
+0 -1 3213
+Z3
+C-1
+R0
+S
+#3211
+The northern part of the little see in the tunnel.~
+  The water seems to be a littel darker here.
+~
+32 9 7
+D2
+The middle of the little see in the tunnel.
+~
+~
+0 -1 3210
+Z3
+C-1
+R0
+S
+#3212
+The southern part of the little see in the tunnel.~
+  The water seems to be a littel darker here.
+~
+32 9 7
+D0
+The middle of the little see in the tunnel.
+~
+~
+0 -1 3210
+Z3
+C-1
+R0
+S
+#3213
+The western part of the little see in the tunnel.~
+  You are on a little see deep under the earth. To the
+east you can see nothing but deep darkness. To the
+west there seems to be some light.
+~
+32 9 7
+D1
+The middle of the little see in the tunnel.
+~
+~
+0 -1 3210
+D3
+The end of the little see.
+~
+~
+0 -1 3214
+Z3
+C-1
+R0
+S
+#3214
+The end of the water in the tunnel.~
+  The water ends here. You see a little see to the east.
+To the west the tunnel continues, but it seems to be
+a little more light there. Also the air gets fresher
+here. You discover a small hole in the south.
+~
+32 9 1
+D1
+Into the little underground see.
+~
+~
+0 -1 3213
+D2
+A small hole.
+~
+~
+0 0 2180
+D3
+The light tunnel.
+~
+~
+0 -1 3215
+Z3
+C-1
+R0
+S
+#3215
+The light tunnel.~
+  You are in a wide open tunnel. In the ceiling there is a big hole.
+Some light makes it possible to see here. To the east the tunnel
+continues getting darker. To the west there seems to be a big town.
+~
+32 0 1
+D1
+The tunnels gets wet in this direction.
+~
+~
+0 -1 3214
+Z3
+C-1
+R0
+S
+#3220
+A small forest~
+You are standing in a small forest.  You notice a strange formation
+of bushes to the north.
+~
+32 5 1
+D0
+(null)~
+bushes~
+1 -1 3221
+D2
+(null)~
+~
+0 -1 3220
+D3
+(null)~
+~
+0 -1 3220
+D4
+~
+~
+0 -1 5051
+Z3
+C-1
+R0
+S
+#3221
+In a small forest~
+  As you venture into the forest, sunlight becomes increasingly scarce.
+You notice a round metal object beneath some dead leaves.  It 
+appears to be a solid iron grate.
+~
+32 1 3
+D2
+(null)~
+bushes~
+1 -1 3220
+D5
+(null)~
+grate~
+1 -1 3222
+Z3
+C-1
+R0
+S
+#3222
+First level of Dungeon Dorian~
+  The walls of the dungeon are made of large, smooth blocks
+of marble.  There is no sign of aging as time seems to have stood
+still in these hollow halls.
+~
+32 9 1
+D0
+(null)~
+~
+0 -1 3223
+D3
+(null)~
+~
+0 -1 3224
+D4
+(null)~
+grate~
+1 -1 3221
+Z3
+C-1
+R0
+S
+#3223
+First level of Dungeon Dorian~
+  You see a strange, faint, red light towards the north.  Strange sounds
+are filtering towards you accompanied by a sense of dread.
+~
+32 9 1
+D0
+(null)~
+~
+0 -1 3224
+D1
+(null)~
+~
+0 -1 3224
+D2
+(null)~
+~
+0 -1 3222
+Z3
+C-1
+R0
+S
+#3224
+First level of Dungeon Dorian~
+  The hallway is pretty slick with ....wha? Blood!?  Small trickles of
+the red stuff seem to be seeping under a large wooden door to the north.
+~
+32 9 1
+D0
+(null)~
+door~
+1 -1 3225
+D1
+(null)~
+~
+0 -1 3222
+D2
+(null)~
+~
+0 -1 3223
+D3
+(null)~
+~
+0 -1 3223
+Z3
+C-1
+R0
+S
+#3225
+A Large Domed Room~
+  You are standing in a large rom with a domed ceiling.  A series of
+torches hang on the walls giving off a faint red light and an acrid smell.
+You notice a grate on the floor.
+~
+32 540809 1
+D0
+(null)~
+~
+0 -1 3222
+D2
+(null)~
+door~
+1 -1 3224
+D5
+(null)~
+grate~
+1 -1 3226
+Z3
+C-1
+R0
+S
+#3226
+Second level of Dungeon Dorian~
+  As you drop down from the first level you find yourself landing in
+ankle-deep sludge water.  You become increasingly nervous seeing dark
+shapes move in the water.
+~
+32 9 1
+D0
+(null)~
+~
+0 -1 3227
+D2
+(null)~
+~
+0 -1 3227
+D3
+(null)~
+~
+0 -1 3226
+D4
+(null)~
+grate~
+1 -1 3225
+Z3
+C-1
+R0
+S
+#3227
+Second Level of Dungeon Dorian~
+  You are walking in a hallway.
+~
+32 9 1
+D0
+(null)~
+~
+0 -1 3230
+D2
+(null)~
+~
+0 -1 3226
+D3
+The Black Ways
+~
+door~
+1 -1 3229
+Z3
+C-1
+R0
+S
+#3228
+The Pit~
+  It is VERY slippery here! WHOA NICE SLOPE!!!!!!!!!
+
+
+
+AAAAAAAAAAAARRRRGGGGGGGGGHHHHHHHHHHHHHHHHHHHH!
+
+
+
+
+AAAAAAAAAAAAAAAAIIIIIIIIIIIIEEEEEEEEEEEEEEEEEEE!
+
+
+
+
+SPLASH! Drip drip drip....
+~
+32 524297 1
+D2
+(null)~
+door~
+1 -1 3234
+Z3
+C-1
+R0
+S
+#3229
+The Dark Ways~
+  You walk a rotted black road floating in the air.
+~
+32 9 1
+D1
+(null)~
+~
+0 -1 3229
+D3
+(null)~
+~
+0 -1 3250
+Z3
+C-1
+R0
+S
+#3230
+Second Level of Dungeon Dorian~
+  You are walking in a hallway.
+~
+32 9 1
+D0
+(null)~
+~
+0 -1 3232
+D1
+(null)~
+~
+0 -1 3230
+D2
+(null)~
+~
+0 -1 3227
+D3
+An Ancient Library.
+~
+door~
+1 -1 3231
+Z3
+C-1
+R0
+S
+#3231
+The Royal Library~
+  The walls are lined with dusty books and parchments.  The smell of extreme
+age permeates the entire room and your foot steps echo throughout
+the entire chamber.  It is very quiet here.  Too quiet.
+~
+32 9 1
+D1
+(null)~
+~
+0 -1 3260
+D3
+(null)~
+~
+0 -1 3231
+Z3
+C-1
+R0
+S
+#3232
+Second Level of Dungeon Dorian~
+  You are walking in a hallway.
+~
+32 9 1
+D0
+(null)~
+door~
+1 -1 3234
+D1
+(null)~
+~
+0 -1 3232
+D2
+(null)~
+~
+0 -1 3230
+D3
+The Chamber of War
+~
+door~
+1 -1 3233
+Z3
+C-1
+R0
+S
+#3233
+The Halls of War~
+  Dusty pictures of battles fought long ago are etched into the wall by
+stonemasons of ages past.
+~
+32 9 1
+D3
+(null)~
+~
+0 -1 3270
+Z3
+C-1
+R0
+S
+#3234
+Second Level of Dungeon Dorian~
+You are walking in a hallway and see a large stone gargoyle in front
+of you.  You have reached a crossroads.
+~
+32 9 1
+D0
+(null)~
+door~
+1 -1 3228
+D2
+(null)~
+door~
+1 -1 3232
+D3
+(null)~
+door~
+1 -1 3236
+E
+n~
+You hear the sound of water dripping. Drip drip drip drip...
+~
+Z3
+C-1
+R0
+S
+#3235
+The White Room~
+  You are in a VERY white room.  You cannot be sure that you are standing
+on anything but air.  It is almost like heaven.
+~
+32 524425 1
+D3
+(null)~
+door~
+1 -1 3277
+Z3
+C-1
+R0
+S
+#3236
+A White hallway~
+You are standing in a long white hallway with a bright light to the
+west and darkness from wence you came.
+~
+32 9 1
+D1
+(null)~
+door~
+1 -1 3234
+D3
+(null)~
+~
+0 -1 3235
+Z3
+C1
+R0
+S
+#3250
+The Dark Ways~
+  You walk a rotted black road floating in the air.
+~
+32 9 1
+D1
+(null)~
+~
+0 -1 3229
+D3
+(null)~
+~
+0 -1 3251
+Z3
+C-1
+R0
+S
+#3251
+The Dark Ways~
+  You walk a rotted black road floating in the air.
+~
+32 9 1
+D0
+(null)~
+~
+0 -1 3252
+Z3
+C-1
+R0
+S
+#3252
+The Dark Ways~
+  You walk a rotted black road floating in the air.
+~
+32 9 1
+D2
+(null)~
+~
+0 -1 3251
+D3
+(null)~
+~
+0 -1 3253
+Z3
+C-1
+R0
+S
+#3253
+The Dark Ways~
+  You walk a rotted black road floating in the air.
+~
+32 9 1
+D1
+(null)~
+~
+0 -1 3252
+D5
+(null)~
+grate~
+1 -1 3254
+Z3
+C-1
+R0
+S
+#3254
+The Dark Ways~
+  You walk a rotted black road floating in the air.
+~
+32 9 1
+D3
+(null)~
+door~
+1 -1 3255
+D4
+(null)~
+grate~
+1 -1 3253
+Z3
+C-1
+R0
+S
+#3255
+Sanctuary of the Dark Master~
+  There is a large steelwood throne sitting in the centre of the room with
+carvings of battle scenes on one arm and a gauntlet fist on the other.
+The chair appears very heavy and seems a part of the dias upon which it sits.
+~
+32 540808 1
+D1
+(null)~
+door~
+1 -1 3254
+D3
+(null)~
+door~
+1 -1 3256
+D5
+(null)~
+grate~
+1 -1 3277
+Z3
+C-1
+R0
+S
+#3256
+The Dark Ways~
+  You walk a rotted black road floating in the air.
+~
+32 9 1
+D1
+(null)~
+door~
+1 -1 3255
+D2
+(null)~
+door~
+1 -1 3257
+Z3
+C-1
+R0
+S
+#3257
+The Dark Ways~
+  You walk a rotted black road floating in the air.
+~
+32 9 1
+D0
+(null)~
+door~
+1 -1 3256
+D1
+(null)~
+~
+0 -1 3258
+Z3
+C-1
+R0
+S
+#3258
+The Dark Ways~
+  You walk a rotted black road floating in the air.
+~
+32 9 1
+D1
+The Oracle of Space
+~
+door~
+1 -1 3259
+D3
+(null)~
+~
+0 -1 3257
+Z3
+C-1
+R0
+S
+#3259
+Oracle of Space~
+  You enter a room which is entirely composed of darkness.  Under a backdrop
+of a starry sky you notice the silouettes of power wrought doors.
+~
+32 137 1
+D1
+(null)~
+door~
+1 -1 3227
+Z3
+C-1
+R0
+S
+#3260
+The Royal Library~
+  The walls are lined with dusty books and parchments.  The smell of extreme
+age permeates the entire room and your foot steps echo throughout
+the entire chamber.  It is very quiet here.  Too quiet.
+~
+32 9 1
+D0
+(null)~
+~
+0 -1 3261
+D3
+(null)~
+~
+0 -1 3231
+Z3
+C-1
+R0
+S
+#3261
+The Royal Library~
+  The walls are lined with dusty books and parchments.  The smell of extreme
+age permeates the entire room and your foot steps echo throughout
+the entire chamber.  It is very quiet here.  Too quiet.
+~
+32 9 1
+D2
+(null)~
+~
+0 -1 3260
+D3
+(null)~
+~
+0 -1 3262
+Z3
+C-1
+R0
+S
+#3262
+The Royal Library~
+  The walls are lined with dusty books and parchments.  The smell of extreme
+age permeates the entire room and your foot steps echo throughout
+the entire chamber.  It is very quiet here.  Too quiet.
+~
+32 9 1
+D3
+(null)~
+~
+0 -1 3261
+D5
+(null)~
+~
+0 -1 3263
+Z3
+C-1
+R0
+S
+#3263
+The Royal Library~
+  The walls are lined with dusty books and parchments.  The smell of extreme
+age permeates the entire room and your foot steps echo throughout
+the entire chamber.  It is very quiet here.  Too quiet.
+~
+32 9 1
+D1
+(null)~
+~
+0 -1 3264
+D4
+(null)~
+~
+0 -1 3262
+Z3
+C-1
+R0
+S
+#3264
+The Royal Library~
+  The walls are lined with dusty books and parchments.  The smell of extreme
+age permeates the entire room and your footsteps echo thoughout
+the entire chamber.  There seems to be a grate on the floor.
+~
+32 9 1
+D1
+(null)~
+door~
+1 -1 3265
+D3
+(null)~
+~
+0 -1 3263
+D5
+(null)~
+grate~
+1 3264 3268
+Z3
+C-1
+R0
+S
+#3265
+The Royal Library~
+  The walls are lined with dusty books and parchments.  The smell of extreme
+age permeates the entire room and your foot steps echo throughout
+the entire chamber.  It is very quiet here.  Too quiet.
+~
+32 9 1
+D1
+(null)~
+door~
+1 -1 3266
+D3
+(null)~
+door~
+1 -1 3264
+Z3
+C-1
+R0
+S
+#3266
+Room of the Ancients~
+  The walls are adorned with instruments of war.  Shields, lances, bows,
+halberds and broadswords give off sinister reflections as the light from
+your torches touch them.
+~
+32 540808 1
+D3
+(null)~
+door~
+1 -1 3265
+Z3
+C-1
+R0
+S
+#3267
+Oracle of Space~
+  You enter a room which is entirely composed of darkness.  Under a backdrop
+of a starry sky you notice the silouettes of power wrought doors.
+~
+32 137 1
+D4
+(null)~
+grate ~
+1 -1 3230
+Z3
+C-1
+R0
+S
+#3268
+The Cellar~
+  As your feet touch the floor a cloud of dust explodes from the tiles and
+obscures your vision.  You scan the room with an inquiring eye.
+~
+32 9 1
+D1
+(null)~
+~
+0 -1 3269
+D3
+(null)~
+~
+0 -1 3268
+D4
+(null)~
+grate~
+1 3268 3264
+Z3
+C-1
+R0
+S
+#3269
+The Cellar~
+  As your feet touch the floor a cloud of dust explodes from the tiles and
+obscures your vision.  You scan the room with an inquiring eye.
+~
+32 9 1
+D1
+(null)~
+door~
+1 -1 3267
+D3
+(null)~
+~
+0 -1 3268
+Z3
+C-1
+R0
+S
+#3270
+The Halls of War~
+  Dusty pictures of battles fought long ago are etched into the wall by
+stonemasons of ages past.
+~
+32 9 1
+D1
+(null)~
+~
+0 -1 3233
+D3
+(null)~
+~
+0 -1 3271
+Z3
+C-1
+R0
+S
+#3271
+The Halls of War~
+  Dusty pictures of battles fought long ago are etched into the wall by
+stonemasons of ages past.
+~
+32 9 1
+D1
+(null)~
+~
+0 -1 3270
+D2
+(null)~
+~
+0 -1 3272
+Z3
+C-1
+R0
+S
+#3272
+The Halls of War~
+  Dusty pictures of battles fought long ago are etched into the wall by
+stonemasons of ages past.
+~
+32 9 1
+D0
+(null)~
+~
+0 -1 3271
+D2
+(null)~
+~
+0 -1 3273
+Z3
+C-1
+R0
+S
+#3273
+The Halls of War~
+  Dusty pictures of battles fought long ago are etched into the wall by
+stonemasons of ages past.
+~
+32 9 1
+D0
+(null)~
+~
+0 -1 3272
+D3
+(null)~
+~
+0 -1 3274
+Z3
+C-1
+R0
+S
+#3274
+The Halls of War~
+  Dusty pictures of battles fought long ago are etched into the wall by
+stonemasons of ages past.
+~
+32 9 1
+D1
+(null)~
+~
+0 -1 3273
+D3
+(null)~
+door~
+1 -1 3275
+Z3
+C-1
+R0
+S
+#3275
+The Halls of War~
+  Dusty pictures of battles fought long ago are etched into the wall by
+stonemasons of ages past.
+~
+32 9 1
+D1
+(null)~
+door~
+1 -1 3274
+D5
+(null)~
+grate~
+1 -1 3276
+Z3
+C-1
+R0
+S
+#3276
+The Chamber of War~
+  Ancient armours adorn the walls of this room - a multitude of colours
+reflecting off shiney metal scales and plate steel.  The room is ominously
+quiet and everthing is unnatrually still.  You can almost hear the dust
+stir underneath your firm tread.
+~
+32 540808 1
+D1
+(null)~
+door~
+1 -1 3277
+D4
+(null)~
+grate~
+1 -1 3275
+Z3
+C-1
+R0
+S
+#3277
+Oracle of Space~
+  You enter a room which is entirely composed of darkness.  Under a backdrop
+of a starry sky you notice the silouettes of power wrought doors.
+~
+32 137 1
+D1
+(null)~
+door~
+1 -1 3232
+Z3
+C-1
+R0
+S
+#3278
+Quest of the Hopeless~
+You are standing in a barren wasteland.  There is no end in sight
+as sand shifts beneath your feet.
+~
+32 16 0
+D1
+(null)~
+~
+0 -1 3279
+Z3
+C-1
+R0
+S
+#3279
+Quest of the Hopeless~
+You are standing in a barren wasteland.  There is no end in sight
+as sand shifts beneath your feet.
+~
+32 16 0
+D1
+(null)~
+~
+0 -1 3280
+D3
+(null)~
+~
+0 -1 3278
+Z3
+C-1
+R0
+S
+#3280
+Quest of the Hopeless~
+You are standing in a barren wasteland.  There is no end in sight
+as sand shifts beneath your feet.
+~
+32 16 0
+D2
+(null)~
+~
+0 -1 3281
+D3
+(null)~
+~
+0 -1 3279
+Z3
+C-1
+R0
+S
+#3281
+Quest of the Hopeless~
+You are standing in a barren wasteland.  There is no end in sight
+as sand shifts beneath your feet.
+~
+32 16 0
+D0
+(null)~
+~
+0 -1 3280
+D3
+(null)~
+~
+0 -1 3282
+Z3
+C-1
+R0
+S
+#3282
+Quest of the Hopeless~
+You are standing in a barren wasteland.  There is no end in sight
+as sand shifts beneath your feet.
+~
+32 16 0
+D1
+(null)~
+~
+0 -1 3281
+D2
+(null)~
+~
+0 -1 3283
+Z3
+C-1
+R0
+S
+#3283
+Quest of the Hopeless~
+You are standing in a barren wasteland.  There is no end in sight
+as sand shifts beneath your feet.
+~
+32 16 0
+D0
+(null)~
+~
+0 -1 3282
+D3
+(null)~
+~
+0 -1 3284
+Z3
+C-1
+R0
+S
+#3284
+A Grassy Field~
+  You are standing in nowhere !!!!
+~
+32 0 1
+D1
+(null)~
+~
+0 -1 3283
+D3
+(null)~
+~
+0 -1 3285
+Z3
+C-1
+R0
+S
+#3285
+A Grassy Field~
+  You are standing in nowhere !!!!
+~
+32 0 1
+D1
+(null)~
+~
+0 -1 3284
+D2
+(null)~
+~
+0 -1 3286
+Z3
+C-1
+R0
+S
+#3286
+A Grassy Field~
+  You are standing in nowhere !!!!
+~
+32 0 1
+D0
+(null)~
+~
+0 -1 3285
+D3
+(null)~
+~
+0 -1 3287
+Z3
+C-1
+R0
+S
+#3287
+A Grassy Field~
+  You are standing in nowhere !!!!
+~
+32 0 1
+D1
+(null)~
+~
+0 -1 3286
+D2
+(null)~
+~
+0 -1 3288
+Z3
+C-1
+R0
+S
+#3288
+A Grassy Field~
+  You are standing in nowhere !!!!
+~
+32 0 1
+D0
+(null)~
+~
+0 -1 3287
+D2
+(null)~
+~
+0 -1 3289
+Z3
+C-1
+R0
+S
+#3289
+A Grassy Field~
+  You are standing in nowhere !!!!
+~
+32 0 1
+D0
+(null)~
+~
+0 -1 3288
+D2
+(null)~
+~
+0 -1 3290
+Z3
+C-1
+R0
+S
+#3290
+This is nowhere.~
+  You are standing in nowhere !!!!
+~
+32 0 1
+D0
+(null)~
+~
+0 -1 3289
+D2
+(null)~
+~
+0 -1 3291
+Z3
+C-1
+R0
+S
+#3291
+A Grassy Field~
+  You are standing in nowhere !!!!
+~
+32 0 1
+D0
+(null)~
+~
+0 -1 3290
+Z3
+C-1
+R0
+S
+#3292
+A Grassy Field~
+  You are standing in nowhere !!!!
+~
+32 0 1
+Z3
+C-1
+R0
+S
+#3293
+A Grassy Field~
+  You are standing in nowhere !!!!
+~
+32 0 1
+Z3
+C-1
+R0
+S
+#3294
+A Grassy Field~
+  You are standing in nowhere !!!!
+~
+32 0 1
+Z3
+C-1
+R0
+S
+#3295
+A Grassy Field~
+  You are standing in nowhere !!!!
+~
+32 0 1
+Z3
+C-1
+R0
+S
+#3296
+A Grassy Field~
+  You are standing in nowhere !!!!
+~
+32 0 1
+Z3
+C-1
+R0
+S
+#3297
+A Grassy Field~
+  You are standing in nowhere !!!!
+~
+32 0 1
+Z3
+C-1
+R0
+S
+#3298
+A Grassy Field~
+  You are standing in nowhere !!!!
+~
+32 0 1
+Z3
+C-1
+R0
+S
+#3299
+A Grassy Field~
+  You are standing in nowhere !!!!
+~
+32 0 1
+Z3
+C-1
+R0
+S
+$~

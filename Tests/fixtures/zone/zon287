@@ -1,0 +1,77 @@
+#287
+Washington DC part 2(Spoonwizard)~
+28799 650 1
+*
+X 11472
+M 0 28701     1 28701    {YELLOW}Blonde{yellow} Beach Bunny
+M 0 28702     1 28701    Brunette Beach Bunny
+O 0 28702     1 28701    Pizza Hut stand
+O 0 28701     1 28701    A booth, with a teenager selling taco's to all these happy people
+M 0 28703    17 28704    {BLACK,BOLD,UNDERLINE}Secret Service{black,bold,underline}
+M 0 28703    17 28704    {BLACK,BOLD,UNDERLINE}Secret Service{black,bold,underline}
+M 0 28703    17 28704    {BLACK,BOLD,UNDERLINE}Secret Service{black,bold,underline}
+M 0 28703    17 28706    {BLACK,BOLD,UNDERLINE}Secret Service{black,bold,underline}
+M 0 28703    17 28706    {BLACK,BOLD,UNDERLINE}Secret Service{black,bold,underline}
+M 0 28703    17 28707    {BLACK,BOLD,UNDERLINE}Secret Service{black,bold,underline}
+M 0 28703    17 28709    {BLACK,BOLD,UNDERLINE}Secret Service{black,bold,underline}
+M 0 28703    17 28710    {BLACK,BOLD,UNDERLINE}Secret Service{black,bold,underline}
+M 0 28703    17 28710    {BLACK,BOLD,UNDERLINE}Secret Service{black,bold,underline}
+M 0 28703    17 28710    {BLACK,BOLD,UNDERLINE}Secret Service{black,bold,underline}
+M 0 28703    17 28711    {BLACK,BOLD,UNDERLINE}Secret Service{black,bold,underline}
+M 0 28703    17 28712    {BLACK,BOLD,UNDERLINE}Secret Service{black,bold,underline}
+M 0 28703    17 28713    {BLACK,BOLD,UNDERLINE}Secret Service{black,bold,underline}
+M 0 28703    17 28715    {BLACK,BOLD,UNDERLINE}Secret Service{black,bold,underline}
+M 0 28703    17 28715    {BLACK,BOLD,UNDERLINE}Secret Service{black,bold,underline}
+M 0 28703    17 28721    {BLACK,BOLD,UNDERLINE}Secret Service{black,bold,underline}
+M 0 28703    17 28721    {BLACK,BOLD,UNDERLINE}Secret Service{black,bold,underline}
+M 0 28700     1 28721    {YELLOW}Head of Secret Service{yellow}
+E 1 28711     1     6    (HEAD) {BLA,BO}A {WHI}W{BLA}ireless {BLU}H{blu,bo}{BLU}eadset{blu}
+D 0 28730     0     1    (N:CLOSED) Hallway
+D 0 28731     0     2    (N:LOCKED) Hallway
+M 0 28712     1 28732    {BLACK}Bubbalou{black}
+E 1 28719     1     3    (NECK) Janitors keys
+D 0 28732     2     1    (S:CLOSED) Oval office.
+M 0 28706     1 28733    {WHITE,BOLD}The maid{white,bold}
+E 1 28713     1    12    (ABOUT) {WH,BO}W{wh,bo}{WH}h{BLA,BO}i{bla,bo}{WH}t{WH,BO}e {wh,bo}{WH}S{BLA,BO}t{bla,bo}{WH}o{WH,BO}c{wh,bo}{WH}k{BLA,BO}i{bla,bo}{WH}n{WH,BO}g{wh,bo}{WH}s
+D 0 28733     2     1    (S:CLOSED) Press room.
+M 0 28707     1 28734    {RED,BOLD}Attendant{red,bold}
+E 1 28714     1    17    (HELD) Pocket knife
+D 0 28735     4     2    (U:LOCKED) Back of the theater.
+M 0 28713     1 28736    {WHITE}Hillary Clinton{white}
+E 1 29414     1     2    (FINGER) {YEL,BO}A {BLU,BO}D{CYA,BO}i{WHI}a{CY}m{BLU}o{CYA}n{WHI}d {YEL}R{WHI}in{whi,bo}{YEL,BO}g{yel,bo}
+E 1 29403     4    17    (HELD) Bucket of greasy popcorn
+M 0 28714     1 28737    {BLUE}Chelsea Clinton{blue}
+E 1 29403     4    17    (HELD) Bucket of greasy popcorn
+O 0 29403     4 28737    Bucket of greasy popcorn
+M 0 28710     1 28738    {RED}Bubba{red}
+D 0 28738     1     2    (E:LOCKED) Front row.
+M 0 28708     1 28739    {YELLOW}Bob{yellow}
+G 1 28715     1     0    {YELLOW}DIE{yellow} {WHITE}HARD{white} video
+M 0 28709     1 28739    {BLUE}Susan{blue}
+D 0 28739     5     0    (D:OPEN) Projection booth.
+D 0 28740     3     2    (W:LOCKED) Outside the Whitehouse.
+D 0 28741     5     2    (D:LOCKED) 7-11.
+M 0 28711     1 28742    {CYAN,BOLD}Habib{cyan,bold}
+E 1 28704     1     6    (HEAD) {YEL}p{GRE}l{RED}a{BLU}i{WHI}d {BLA,BO}sock{bla,bo}
+O 0 28717     1 28742    A Safe
+P 1 28718    15 28717    One hundred dollars
+P 1 28718    15 28717    One hundred dollars
+P 1 28718    15 28717    One hundred dollars
+P 1 28718    15 28717    One hundred dollars
+P 1 28718    15 28717    One hundred dollars
+P 1 28718    15 28717    One hundred dollars
+P 1 28718    15 28717    One hundred dollars
+P 1 28718    15 28717    One hundred dollars
+P 1 28718    15 28717    One hundred dollars
+P 1 28718    15 28717    One hundred dollars
+P 1 28718    15 28717    One hundred dollars
+P 1 28718    15 28717    One hundred dollars
+P 1 28718    15 28717    One hundred dollars
+P 1 28718    15 28717    One hundred dollars
+P 1 28718    15 28717    One hundred dollars
+D 0 28742     4     0    (U:OPEN) Backroom.
+M 0 29408     1 28789    {CYAN}Bi{cyan}{CYAN,BOLD}ll{cyan,bold} {WHITE,BOLD}Cli{white,bold}{CYAN,BOLD}nt{cyan,bold}{CYAN}on{cyan}
+E 1 28708     2     5    (BODY) {CYAN,BOLD}Jo{bold,CYAN}gg{WHITE}ing S{CYAN}ui{BOLD,CYAN}t{cyan,bold}
+D 0 28790     3     0    (W:OPEN) Loco's Business Office
+O 0 28700     1 28799    Sign
+$~

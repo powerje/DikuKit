@@ -1,0 +1,424 @@
+#42300
+guard high~
+{BOLD}{WHITE}A High Guard{b}{white}~
+{BOLD}{WHITE}A High Guard{b}{CYAN} stands here protecting the upper levels of the Tower.{green}
+~
+
+  The High Guard is taller than you and has alot more muscle.  He is 
+  standing here with a serious look on his face.  His fighting skills
+  are highly trained and his fuse is short.  After looking at him you
+  realize that you could suffer a horrible, painful death.
+
+~
+71 1075577480 250 C 4
+60 10 -6 1d1+9000 30d30+60
+300000 1000
+8 8 1
+D 20
+A 12
+#42301
+guard~
+A Guard~
+A Guard stand here protecting the lower levels of the tower.
+~
+
+  The guard is standing here in iron clad armor.  He 
+  stands at attention and keeps an eye out for any
+  people who may be trying to infiltrate the Tower
+  without permission.  He eyes you warily and you 
+  realize that he could do alot of damage to you.
+
+~
+209715298 1378091948 -100 S
+40 10 -5 1d1+9000 9d10+25
+300000 1200000
+8 8 1
+D 20
+A 12
+#42302
+guard lord~
+{RED}{BOLD}A Lord's Guard{red}{b}~
+{RED}{BOLD}A Lord's Guard{red}{CYAN} stands here protecting the top of the Tower.{cyan}
+~
+
+  This gaurdian of the tower has been through many years
+  of training and has the greatest battle skills of all the
+  guards in the tower.  By looking at him he looks like he
+  could rip your head off your shoulders with his bare hands.
+
+~
+1098907750 1074004904 0 C 4
+40 10 -4 1d1+9999 14d14+45
+100000 17000000
+8 8 0
+S 128
+D 20
+A 12
+#42303
+servant~
+{RED}A {YELLOW}S{RED}e{YELLOW}r{RED}v{YELLOW}a{RED}n{YELLOW}t {yellow}~
+{RED}A {YELLOW}S{RED}e{YELLOW}r{RED}v{YELLOW}a{RED}n{YELLOW}t is here working busily.
+~
+
+  The servant is dressed in old clothes with patches.
+  His eyes have the look of a rundown person who is
+  just trying to make it through another day.  He looks
+  up at you his eyes pleading for mercy.
+
+~
+16777312 3423601320 0 S
+50 10 -5 1d1+10000 1d1+600
+500000 3000000
+8 8 0
+D 7
+A 12
+#42304
+servant master~
+{BOLD}{RED}A {YELLOW}M{RED}a{YELLOW}s{RED}t{YELLOW}e{RED}r {YELLOW}S{RED}e{YELLOW}r{RED}v{YELLOW}a{RED}n{YELLOW}t {yellow}~
+{BOLD}{RED}A {YELLOW}M{RED}a{YELLOW}s{RED}t{YELLOW}e{RED}r {YELLOW}S{RED}e{YELLOW}r{RED}v{YELLOW}a{RED}n{YELLOW}t {b}is here overlooking the other servants.
+~
+
+  This is the biggest Servant of them all.  He has
+  slightly better clothes and a look of authority.
+  He keeps walking back and forth making sure
+  all the servants are keeping hard at work.  He 
+  also carries a mean demeanor for anyone who
+  slacks off.
+
+~
+151011424 1076101820 0 S
+54 10 0 1d1+60000 0d0+1000
+1000000 2000000
+8 8 0
+D 6
+A 24
+#42305
+Irma~
+{MAGENTA}Irma{magenta}~
+{MAGENTA}Irma {magenta}{CYAN}stands here getting the next meal ready.{cyan}
+~
+~
+138414178 1207992456 50 C 4
+55 -112 5 0d0+80000 0d0+256
+0 1000
+8 8 2
+D 20
+A 12
+#42306
+testmob~
+testmob~
+testmob
+~
+This is a testmob
+~
+1075839074 536903682 0 C 3
+50 -230 -5 0d0+50000 15d18+250
+0 1000
+8 8 1
+S 17854527
+D 20
+A 12
+#42307
+aid cook~
+a Cook's Aid~
+A man is standing here cutting vegetables for the next meal.
+~
+It looks like nobody!
+~
+545259586 1610612872 -100 C 3
+50 -230 2 0d0+55000 10d10+4
+0 1000
+8 8 2
+S 285272200
+D 20
+A 12
+#42308
+dishwasher~
+a dishwasher~
+A man is standing here washing the dishes.
+~
+It looks like nobody!
+~
+436207682 1082261504 0 C 4
+45 -155 5 0d0+30000 13d13+3
+0 1000
+8 8 0
+S 4195072
+D 20
+A 12
+#42309
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#42310
+bane~
+{RED}{BOLD}Bane, Keeper of the Dead..{red}{bold}~
+{RED}{BOLD}Bane, Keeper of the Dead floats before you...{red}{bold}
+~
+   He is a raven. He is death and everything that death has to offer. He
+stalks this land picking carrion from bloody battle fields, and childern
+from their cribs. He is evil. He is Bane.
+~
+562593827 1294205116 0 C 2
+60 10 -2 3d4+30000 17d20+41
+0 1000
+8 8 0
+D 20
+A 12
+#42311
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#42312
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#42313
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#42314
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#42315
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#42316
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#42317
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#42318
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#42319
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#42320
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#42321
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#42322
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#42323
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#42324
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#42325
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#42326
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#42327
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#42328
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+#42329
+nobody~
+nobody~
+Nobody is floating around here.
+~
+It looks like nobody!
+~
+66 0 0 S
+1 10 5 1d1+10 1d2+0
+0 1000
+8 8 0
+D 20
+A 12
+$~

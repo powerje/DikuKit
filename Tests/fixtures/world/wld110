@@ -1,0 +1,2425 @@
+#11000
+{BLU,BOLD}Julli Oasis{blu,bold}~
+ {G,BO}
+  You have just entered the Julli Oasis. It is shocking
+  that such a beautiful,  thriving place could exist in 
+  the middle of the {R,BO}Red Sands{G,BO}. In olden times, it was a
+  custom of each caravan to plant a tree or bush here as
+  they arrived.  The water flows abundantly, and fodder
+  for the animals is plentiful.
+ {g,bo}
+~
+110 4 3
+D0
+~
+~
+0 -1 11001
+D2
+~
+~
+0 -1 11055
+E
+sign bright~
+
+{R} _____________________________
+ |  {Y}     Now Entering  {R}       |
+ |                            |
+ | {Y}   the Mystic Hills {R}       |
+ | {Y}  Retirement Village  {R}     |
+ |                            |
+ |{Y}Beware of Kooky Old Wizards,{R}|
+ |{Y}  Witches, and Warlocks  {R}   |
+ |____________________________|
+              | |
+              | |
+              | |  {BLU}  _---_
+         {R}     | |{BLU}   (_____)
+          {R}    | |    {BLU} | |
+           {R}   | |    {BLU} | |  
+~
+Z-1
+C-1
+S
+#11001
+{BLU,BO}The Well of Hearts{blu,bo}~
+  {G,BO}
+  Standing at the {BLU,BO}Well of Hearts{G,BO}, you are surrounded
+  by a throng of the nomads. Among them you note the
+  appearance of the Aqir and the Bershak. Everyone's
+  attention appears to be focused on getting a drink
+  of the sweet, refreshing water from the deep well.
+  Slowly, you edge your way to the well's edge.
+  {g,bo}
+~
+110 0 2
+D0
+~
+~
+0 -1 11003
+D1
+~
+~
+0 -1 11004
+D2
+~
+~
+0 -1 11000
+D3
+~
+~
+0 -1 11002
+Z-1
+C-1
+S
+#11002
+{BO,R}Ar{BO,Y}ou{BO,R}nd {BO,R}th{BO,Y}e {BO,R}Bon{BO,Y}fire{y}~
+   {G,BO}
+  A {R,BO}bo{Y,BO}nf{R,BO}ir{Y,BO}e{G,BO} burns in the midst of the Aqir camp.
+  The penalties are severe for bringing the touch
+  of flame to the grass and soil of Julli. A fire 
+  burns in a bronze dish, three paces wide. Around
+  the fire the members of the Aqir tribe and their
+  guests are gathered. Stories and wine are shared
+  freely. 
+ {g,bo}
+~
+110 0 2
+D1
+~
+~
+0 -1 11001
+D3
+~
+~
+0 -1 11005
+Z-1
+C-1
+S
+#11003
+{BLU,BO}The Crystal Blue Lake{b,bo}~
+  {BLU,BO}
+  You are standing knee deep in the cool, restoring
+  lake at the center of the {G,BO}Julli Oasis{BLU,BO}. Nomadic men
+  and women splash each other with the invigorating
+  waters.  Cackles of mirth escape from the lips of
+  the otherwise solemn people. It feels good to have
+  enough water to drink and bathe in after a section 
+  of the long, hot journey through the Red Sands.
+  {blu,bo}
+~
+110 262144 6
+D0
+~
+~
+0 -1 11008
+D2
+~
+~
+0 -1 11001
+Z-1
+C-1
+S
+#11004
+{GR,BO}The Grazing Area{gr,bo}~
+  {G,BO}
+  There are many horses and camels here nibbling on 
+  the sweet and succulent grass that abounds in the
+  Julli Oasis. Row upon row of picketed animals meet 
+  your gaze.  Only healthy animals can survive this
+  far into the {R,BO}Red Sands{G,BO}.  You examine their sinewy
+  muscles. Phew! They stink! Some of the riders are
+  roaming about the livestock,  examining harnesses
+  and the packages strapped to each horse and camel.
+  They are very thorough.
+  {g,bo}
+~
+110 0 2
+D3
+~
+~
+0 -1 11001
+Z-1
+C-1
+S
+#11005
+{Y,BO}The {BLU,BO}Aqir {Y,BO}Encampment{y,bo}~
+ {G,BO}
+  Many brightly-colored tents are clumped together
+  here.  Men and women walk  between them, as they
+  blithely talk in their nomadic tongues. Laughter 
+  abounds as a cask of wine is passed around in one
+  of the tents, in honor of some festivity.  To the
+  north you hear some extremely interesting sounds!
+  {g,bo}
+~
+110 262144 2
+D0
+{Y,BO}
+  A flap of brightly colored canvas-like
+  material bars your entrance into the tent.
+ {y,bo}
+~
+flap~
+1 -1 11006
+D1
+~
+~
+0 -1 11002
+D2
+{Y,BO}
+  A flap of brightly colored canvas-like
+  material bars your entrance into the tent.
+  {y,bo}
+~
+flap~
+1 -1 11007
+Z-1
+C-1
+S
+#11006
+{BLU,BO}A {R,BO}Noisy {BLU,BO}Tent{blu,bo}~
+ {Y,BO}
+  A nomadic man and woman are wrestling among the
+  pillows that line the ground here. They seem to 
+  be breathing fairly hard with exertion. This must
+  be how they train for battle. Maybe it could help
+  you?  Omigosh! That's not wrestling! 
+ {y,bo}
+~
+110 262144 0
+D2
+~
+flap~
+1 -1 11005
+Z-1
+C-1
+S
+#11007
+{Y,BO}The {BLU,BO}Feasting {Y,BO}Tent{y,bo}~
+ {G,BO}
+  A cluster of the Aqir are seated in a circle on
+  some soft cushions. A roasted haunch of some sort
+  sits in the middle of the circle on a bronze dish.
+  A cask of wine is passed around as everyone helps
+  themselves to the meat.  Your mouth waters at its
+  tangy aroma.
+ {g,bo}
+~
+110 262144 0
+D0
+~
+flap~
+1 -1 11005
+Z-1
+C-1
+S
+#11008
+{R,BO}The Red Sands{r,bo}~
+ {Y}
+  You look back at the lake with a tinge of
+  regret as you continue the journey on into
+  the Red Sands.  The desert sun beats down
+  maliciously from the clear sky above.  A 
+  sudden breeze carries a shower of stinging
+  hot sand into your mouth.
+ {y}
+~
+110 262228 2
+D0
+~
+~
+0 -1 11052
+D2
+~
+~
+0 -1 11003
+Z-1
+C-1
+S
+#11009
+{R,BO}The Red Sands{r,bo}~
+
+{Y}  The vast expanse of desert seems to stretch on forever in
+  all directions.  It is hard to believe that there is such
+  a thing as water and plantlife as you walk out here.  Not
+  even the cactus can survive in this desolate area.{y}
+
+~
+110 262144 1
+D0
+~
+~
+0 -1 11050
+Z-1
+C-1
+S
+#11010
+{Y}Before the {BO}Ruins{y,bo}~
+ {Y}
+  Suddenly, looming out of the amber haze, you
+  see stone columns and a tumbled down wall.  Some
+  of the columns are so broad that two people would
+  be unable to join hands around them.  They are
+  nine paces in height, and their tops are lost
+  in the flying sand. Their sides are as smooth as
+  polished glass.
+ {y}
+~
+110 262212 2
+D2
+~
+~
+0 -1 11058
+D3
+~
+~
+0 -1 11011
+Z-1
+C-1
+S
+#11011
+{Y}The Tunnel into the{BO} Temple{bo}~
+ {Y}
+  This tunnel is dark and claustrophobic. Yet,
+  at least it offers some protection from the
+  sandstorm outside.  Embossed on the tunnel
+  walls is some sort of ancient writing. This
+  temple has been sitting in the Red Sands for
+  close to twenty thousand years.  Who knows what
+  treasures might lie within these walls.
+ {y}
+~
+110 262144 0
+D0
+~
+~
+0 -1 11012
+D1
+~
+~
+0 -1 11010
+Z-1
+C-1
+S
+#11012
+{Y}An {BO}Intersection{bo}{Y} of {BO}Corridors{y,bo}~
+ {Y}
+  You have reached an intersection of four walled
+  corridors.  The air is completely brown, and 
+  visibility is less than an arms length. There is
+  no indication of what advancing in any direction 
+  other than the one you entered will bring.
+ {y}
+~
+110 262144 0
+D0
+~
+~
+0 -1 11019
+D1
+~
+~
+0 -1 11021
+D2
+~
+~
+0 -1 11011
+D3
+~
+~
+0 -1 11013
+Z-1
+C-1
+S
+#11013
+{Y}The{BO} Western{bo}{Y} Corridor{y}~
+
+{Y}Yikes!  The bottom of the corridor just dropped out beneath you!{y}
+
+~
+110 1048576 0
+D5
+~
+~
+0 -1 11014
+Z-1
+C-1
+S
+#11014
+{Y}Tunnel under the {Y,BO}Temple{y,bo}~
+  {Y}
+  The stone grates smoothly back into place, and
+  you're left standing at the entrance of an ancient
+  tunnel. There is a sweet smell of leather in the
+  air, and dust swirls from imperceptible air currents.
+  {y}
+~
+110 262144 0
+D0
+~
+wall~
+1 -1 11016
+Z-1
+C-1
+S
+#11015
+{BLU,BO}C{R}h{Y}a{CY}m{MAG}b{W}e{GR}r{MAG} of {W}J{BLU}e{R}w{Y}e{CY}l{MAG}s{mag}~
+  {BLU,BO}
+  {BLU,BO}The grating of stone on stone is heard as you
+  are sealed in this chamber. It's actually a 
+  circular room.  The walls glitter and sparkle
+  like the nighttime desert sky. Mighty figures
+  of mortals and gods are sculpted in low relief 
+  in the stone. Their features are all inlaid with
+  {M,BO}g{Y,BO}e{G,BO}m{C,BO}s{BLU,BO}. A huge desert flower made out of jewels
+  is inlaid in the floor. In its center is the
+  largest {C,BO}sapphire{BLU,BO} you've ever seen!
+ {blu,bo}
+~
+110 262144 0
+D5
+{C,BO}
+  This sapphire looks like you could just pop
+  it right out of the floor.  Hmmm...maybe it's
+  worth a try.  You sure could get a lot of gold
+  for a gem this size back at home!
+  {c,bo}
+~
+sapphire~
+3 -1 11016
+E
+sapphire~
+
+  {CY,BO}This sapphire looks like you could just pop it right out of the
+  floor.  Hmmm...maybe it is worth a try.  You sure could get a lot 
+  of gold for a gem this size back at home! {cy,bo}
+
+~
+X64
+Z-1
+C-1
+S
+#11016
+{Y}A {BLU,BO}Vast{blu,bo}{Y} Vault{y}~
+
+ {Y,BO}You find yourself in a vast vault the size of
+ a city square. Four stone columns are actually
+ giant lamps, with some substance burning at
+ their tops. By the light the columns provide
+ the central feature of the vault can be seen.
+ A {GR}black sphere{Y} as wide as ten men, is resting
+ on a low, cup-shaped base carved from {GR}black
+ marble{Y}. The base is inscribed with Hankaran
+ hieroglyphs inlaid with gold.
+
+~
+110 262144 0
+D0
+~
+~
+0 -1 11054
+D2
+~
+wall~
+1 -1 11014
+D3
+{BLA,BO}
+  The black sphere gleams dully in the light of the flame.
+  You wonder what it could possibly be covering in the
+  {Y,BO}golden base{BLA,BO}. Could it be some treasure?  The only way
+  to know is to push it aside.{bla,bo}
+
+~
+sphere~
+1 -1 11017
+E
+sphere black marble~
+
+  {BLA,BO}The black sphere gleams dully in the light of the flame.
+  You wonder what it could possibly be covering in the
+  {Y}golden{y}{BLA,BO} base.  Could it be some treasure?  The only way to
+  know is to push it aside.
+{BLA,BO}
+~
+Z-1
+C-1
+S
+#11017
+{BLA,BOL}The Tomb of K{W}a{BLA}u{W}r{BLA}o{W}u{BLA}s{bla}~
+ {BLA,BO}
+  The tomb in which K{W,BO}a{BLA,BO}u{W,BO}r{BLA,BO}o{W,BO}u{BLA,BO}s has spent twenty
+  thousand years is filled with a glowing {M,BO}pink 
+  mist{BLA,BO}. The {M,BO}mist{BLA,BO} spreads about the tomb, filling
+  every crack and crevice. A cold, clammy feeling 
+  settles about this ancient vault. The {M,BO}mist{BLA,BO} then
+  takes shape, materializing itself into the
+  dangerous efreeti, K{W,BO}a{BLA,BO}u{W,BO}r{BLA,BO}o{W,BO}u{BLA,BO}s.{bla,bo}
+
+~
+110 262144 1
+D1
+~
+sphere~
+1 -1 11016
+Z-1
+C-1
+S
+#11018
+{BLA,BO}A {bo}{Y}Dimly-Lit{BLA,BO} Room{bla,bo}~
+
+  {BLA,BO}Along the walls of this room are deep niches in the stone.  By the {bo}{Y}dim
+  torchlight{BLA,BO}, it soon becomes apparent that they are the final resting places
+  of the former acolytes of this temple.  The mummified remains can still
+  be seen.  Suddenly, a leathery hand extends from one of the niches. 
+  They are the guardians of this sacred place, and you have disturbed
+  their peace!{bla,bo}
+
+~
+110 262144 1
+Z-1
+C-1
+S
+#11019
+{Y}The {BO}Northern{bo}{Y} Corridor{y}~
+ {Y}
+  The floor has a very gradual slope, going deep
+  into the ground. The air is cooler, and signs of
+  moisture are on the floors and walls. The corridor
+  ends in a doorway to the west.  The top half of
+  the doorway is cracked, and it appears to be slightly
+  wider than the bottom half. Looks like a battering
+  ram was used on it at some point.
+ {y}
+~
+110 262144 0
+D2
+~
+~
+0 -1 11012
+D3
+~
+~
+0 -1 11020
+Z-1
+C-1
+S
+#11020
+{Y}An Empty Room{y}~
+ {Y}
+  You have entered what appears to be an empty room.
+  The only light that is provided comes from a trough
+  of lit bitumen near the far wall.  An image of a
+  {Y,BO}scorpion{bo}{Y} can be seen on the wall nearest you.  The
+  {Y,BO}copper{bo}{Y} image g{Y,BO}li{bo}{Y}st{Y,BO}en{bo}{Y}s in the flickering flame's
+  light.
+  {y}
+~
+110 262144 0
+D0
+{Y}
+  A {Y,BO}copper scorpion{bo,Y} is embossed upon the wall.
+  It gleams dully in the flickering flame. This 
+  symbol of the desert looks oddly out of place
+  in the otherwise bare room.
+ {y}
+~
+scorpion~
+3 -1 11022
+D1
+~
+~
+0 -1 11019
+E
+copper scorpion~
+
+  {Y}A {BO}copper scorpion{bo}{Y} is embossed upon the wall.  It gleams
+  dully in the flickering flame.  This symbol of the desert looks
+  oddly out of place in the otherwise bare room.
+
+~
+Z-1
+C-1
+S
+#11021
+{Y}The {BO}Eastern{bo}{Y} Corridor{y}~
+ {Y}
+  How odd!  It would seem that this corridor goes
+  nowhere.  The way is blocked on all three sides 
+  by unpenetrable stone walls.  A thick layer of
+  desert sand coats the walls and floor. Over the
+  many centuries it has gradually seeped in, filling
+  the temple.  The only path out is to the west,
+  back to the intersection.
+ {y}
+~
+110 262144 0
+D0
+~
+wall~
+1 -1 11020
+D3
+~
+~
+0 -1 11012
+Z-1
+C-1
+S
+#11022
+{Y}The {BO}Sanctuary{y,bo}~
+ {Y}
+  This room is the sanctuary of this ancient temple.
+  A {BLA,BO}stone altar{bo}{Y} takes up one section of wall. It is
+  covered in sand and grit. Beneath this layer of 
+  filth, you can barely make out some ancient glyphs.
+  The rest of the room seems to be in the same shape
+  as the other rooms of the temple--empty and ruined.
+  {y}
+~
+110 262144 0
+D3
+{BLA,BO}  The stone altar takes up the entire length of the western wall.
+  Ancient glyphs cover its dusty surface:  
+
+  THE RED SANDS HOLDS TREASURE FOR
+  THE CONTENT AND DEATH FOR THE 
+  GREED-FILLED.{bla,bo}
+
+~
+altar~
+1 -1 11015
+E
+stone altar~
+
+{BLA,BO}  The stone altar takes up the entire length of the western wall.
+  Ancient glyphs cover its dusty surface:  
+
+  THE RED SANDS HOLDS TREASURE FOR
+  THE CONTENT AND DEATH FOR THE 
+  GREED-FILLED.{bla,bo}
+
+~
+Z-1
+C-1
+S
+#11023
+{C}A Pool of {CY,BO}Shining{cy,bo}{CY} Water{c}~
+  {C}
+  The water in this pool {CY,BO}glitters{bo}{C} and {CY,BO}sparkles{bo}{C} as a
+  smiling mermaid merrily splashes around, oblivious
+  to the fact that she is merely the property of the
+  Sultan. She looks so happy that she might even fight
+  anyone who would attempt to free her! {c}
+
+~
+110 262144 6
+D3
+~
+gate~
+1 -1 11048
+Z-1
+C-1
+S
+#11024
+{Y}The {R}Gnole {Y}Encampment{y}~
+  {BLA,BO}
+  Gnoles are flanked around the bases of the Joj
+  Xarar, and they don't have any appearances of
+  letting you pass to go up the twin flues. They
+  jostle you with their hairy bodies and jeer
+  loudly.
+  {BLA,BO}
+~
+110 262144 1
+D0
+~
+~
+0 -1 11092
+D3
+~
+~
+0 -1 11089
+Z-1
+C-1
+S
+#11025
+{Y}The {R}Gnole {Y}Encampment{y}~
+  {BLA,BO}
+  Gnoles are flanked around the bases of the Joj
+  Xarar, and they don't have any appearances of
+  letting you pass to go up the twin flues. They
+  jostle you with their hairy bodies and jeer
+  loudly.
+  {BLA,BO}
+~
+110 262144 1
+D0
+~
+~
+0 -1 11091
+D1
+~
+~
+0 -1 11089
+Z-1
+C-1
+S
+#11026
+{Y}The {R}Gnole {Y}Encampment{y}~
+  {BLA,BO}
+  Gnoles are flanked around the bases of the Joj
+  Xarar, and they don't have any appearances of
+  letting you pass to go up the twin flues. They
+  jostle you with their hairy bodies and jeer
+  loudly.
+  {BLA,BO}
+~
+110 262144 1
+D2
+~
+~
+0 -1 11092
+D3
+~
+~
+0 -1 11031
+Z-1
+C-1
+S
+#11027
+{Y}The {R}Gnole {Y}Encampment{y}~
+  {BLA,BO}
+  Gnoles are flanked around the bases of the Joj
+  Xarar, and they don't have any appearances of
+  letting you pass to go up the twin flues. They
+  jostle you with their hairy bodies and jeer
+  loudly.
+  {BLA,BO}
+~
+110 262144 1
+D1
+~
+~
+0 -1 11031
+D2
+~
+~
+0 -1 11091
+Z-1
+C-1
+S
+#11028
+{Y}The top of {C}Joj Shanar{c}~
+  {BLA,BO}
+  You survived a climb that has killed many.  The
+  last thread of your rope snaps as you get to the
+  top of the flue.  Now, all that is left to do is 
+  light the flue and slide back down.
+  {bla,bo}
+~
+110 262144 1
+D5
+~
+~
+0 -1 11099
+Z-1
+C1
+S
+#11029
+{BLU,BO}The{BLA,BO} Path{BLU,BO} in the Pleasure Garden{blu,bo}~
+ {G,BO}
+  A walkway of {BLA,BO}crushed{G,BO} stone winds serpent-like
+  through the pleasure gardens. On either side
+  of the walkway are well-built iron pens, from
+  which {bo,W}glowing eyes{G,BO} peer out. The Sultan does
+  not waste his time collecting normal animals.
+  Only mythical beasts inhabit his menagerie.
+ {g,bo}
+~
+110 262144 2
+D0
+~
+~
+0 -1 11042
+D5
+~
+stone~
+1 -1 11039
+Z-1
+C-1
+S
+#11030
+{BO,BLA}A Prison Cell{bo,bla}~
+ {BLA,BO}
+  The four walls, the floor, and the ceiling of this cell are
+  all stone. The cell door is made of the hardest keshj wood,
+  strapped with black bands of cold forged iron. The floor is
+  smooth, but the walls are rough. The ceiling is one massive,
+  seamless block.  The  front and rear walls are black-veined
+  granite, set dry in sloping courses. The left and right walls
+  are limestone and set with mortar.
+ {bla,bo}
+~
+110 262148 0
+D3
+~
+limestone~
+1 -1 11032
+Z-1
+C-1
+S
+#11031
+{Y}The {R}Gnole {Y}Encampment{y}~
+  {BLA,BO}
+  Gnoles are flanked around the bases of the Joj
+  Xarar, and they don't have any appearances of
+  letting you pass to go up the twin flues. They
+  jostle you with their hairy bodies and jeer
+  loudly.
+  {BLA,BO}
+~
+110 262144 1
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 -1 11026
+D2
+~
+~
+0 -1 11090
+D3
+~
+~
+0 -1 11027
+Z-1
+C-1
+S
+#11032
+{BLA,BO}A Dark Corridor{bla,bo}~
+  {BLA,BO}
+  The massive blocks that form the walls of this
+  corridor bulge out from their centers like great
+  stone pillows. A rime of soft grey mold fills
+  every single crack.  Now and then a fat brown
+  rat squeals softly and runs into a hole in the
+  floor.
+  {bla,bo}
+~
+110 262144 0
+D1
+~
+limestone~
+1 -1 11030
+D3
+~
+~
+0 -1 11033
+Z-1
+C-1
+S
+#11033
+{BLA,BO}A Dark Corridor{bla,bo}~
+  {BLA,BO}
+  Several cells line the corridor. Each one is
+  bolted and silent. The sickly smell of death
+  and decay is in the air. The voices of alert
+  prison  guards suddenly sound down the hall.
+  It appears that your escape has been noticed.
+  {bla,bo}
+~
+110 262144 0
+D0
+~
+~
+0 -1 11035
+D1
+~
+~
+0 -1 11032
+Z-1
+C-1
+S
+#11034
+{G}Entering {Y}the {M}City {Y}of {C}Tantuffa{c}~
+ {G}
+  As you enter city gates, you're jostled by
+  the press of  bodies thronging to fill the 
+  city.  A conclave of the Five Cities is on
+  the minds of most,  since it is being held
+  in the palace this moon. Rumor has it that
+  Prince Lydon  has sent Narsia's royal seal
+  to show that it is behind the Five Cities'
+  alliance.
+ {g}
+~
+110 262144 1
+D0
+~
+~
+0 -1 11067
+D2
+~
+~
+0 -1 11040
+Z-1
+C-1
+S
+#11035
+{BLA,BO}A Dark Corridor{bla,bo}~
+ {BLA,BO}
+  You pass a series of niches deep in the walls of
+  the tunnel. By thrusting your light over each of
+  these you see that  they contain only skeletons,
+  some still clothed in rotting garments. Each one
+  is chained to the wall. spiders and other vermin
+  crouch in their eyesockets, and the skull mouths
+  hang open in unheard cries of silent agony.
+  {bla,bo}
+~
+110 262144 0
+D0
+~
+~
+0 -1 11037
+D1
+~
+~
+0 -1 11036
+D2
+~
+~
+0 -1 11033
+Z-1
+C-1
+S
+#11036
+{BLA,BO}A Deep Niche{bla,bo}~
+  {BLA,BO}
+  This niche is deeper than most of the others.  A
+  dark  figure rises up with a clanking of chains. 
+  Chained to the wall is a portly man of middle age.
+  {bo,Y}Bronze{BLA,BO} fetters chain him to the wall. He prays to
+  Agma for divine intervention,  because he has no
+  wish to become another skeleton lining the dungeon
+  of the Sultan. However, you don't seem to be the 
+  person he was expecting to deliver him!
+  {bla,bo}
+~
+110 262144 0
+D3
+~
+~
+0 -1 11035
+Z-1
+C-1
+S
+#11037
+{BLA,BO}A Set of Steps{bla,bo}~
+  {BLA,BO}
+  The smell of smoke drifts into your nostrils.
+  A breeze flows down the stairwell bringing with
+  it scents of the world above. The steps must
+  lead up near the street level where the home
+  fires are kindled.
+ {bla,bo}
+~
+110 262144 0
+D0
+~
+~
+0 -1 11039
+D2
+~
+~
+0 -1 11035
+Z-1
+C-1
+S
+#11038
+{BLA,BO}A Shaft{bla,bo}~
+ {BLA,BO}
+  You fall down the deep cyndrical shaft.
+
+          FASTER!!!!!
+
+
+                   FASTER!!!!!
+
+                                  FASTER!!!!!
+
+  You plummet toward the pile of decaying flesh below.
+  {bla,bo}
+~
+110 2 9
+D4
+~
+~
+0 -1 11039
+Z-1
+C-1
+S
+#11039
+{BLA,BO}The End of the Passage{bla,bo}~
+ {BLA,BO}
+  A pit fills the corridor from wall to wall, and
+  beyond it is yet another solid expanse of stone.
+  It is truly a dead end. But where was that fresh
+  air coming from? High above you see a copper set
+  of hinges worked into the stone ceiling. However,
+  down into the pit below another exit may exist.
+ {bla,bo}
+~
+110 262148 0
+D2
+~
+~
+0 -1 11037
+D4
+~
+stone~
+1 -1 11029
+D5
+{BLA,BO}This pit is deep and dark.  Perhaps it leads to some underground tunnel out
+  of the city! {bla,bo}
+
+~
+~
+0 -1 11038
+Z-1
+C-1
+S
+#11040
+{G}The{Y} Path {G}to {CY}Tantuffa{c}~
+ {G}
+  Tantuffa isn't far from here. It seems that
+  an eternity has lapsed since your captivity
+  in the Sultan's dungeons.  Ahead the spires
+  of the city can be seen surging up into the
+  clouds.
+ {g}
+~
+110 262148 3
+D0
+~
+~
+0 -1 11034
+D1
+~
+~
+0 -1 11041
+Z-1
+C-1
+S
+#11041
+{G}A {Y}Path{G} Out{g}~
+ {G}
+  A path out between the Joj Xarar magically 
+  opened when you lit the sacred flues.  The
+  gods were pleased with your obedience. Now
+  you may journey on to Tantuffa to retrieve
+  the Narisian seal. All your troubles shall
+  soon be over.
+ {g}
+~
+110 262144 3
+D2
+~
+~
+0 -1 11031
+D3
+~
+~
+0 -1 11040
+Z-1
+C-1
+S
+#11042
+{BLU,BO}The{BLA,BO} Path{BLU,BO} in the Pleasure Garden{blu,bo}~
+ {G,BO}
+  Chirping crickets fall mute as you pass by.  
+  Somewhere back in the green-black trees a 
+  nightjar whirs its song.  In response, a 
+  griffin's deep-throated growl reverberates
+  down the path.  Other sounds are heard, but 
+  they are so strange that it renders them to
+  be unidentifiable.
+ {g,bo}
+~
+110 262144 2
+D0
+~
+~
+0 -1 11047
+D1
+~
+cage~
+2 11005 11044
+D2
+~
+~
+0 -1 11029
+D3
+~
+cage~
+2 11005 11043
+Z-1
+C-1
+S
+#11043
+{Y}The Ape Pen{y}~
+ {Y}
+  Two brown eyes, each the size of a woman's fist,
+  glint out of the gloomy recesses of the pen. The
+  ape's thick, hairy arm reaches out as it blubbers
+  at the anguish of its captivity. This blubbering 
+  strikes a chord of pity for most,  which the ape
+  will use to its advantage.
+ {y}
+~
+110 262144 2
+D1
+~
+cage~
+1 -1 11042
+Z-1
+C-1
+S
+#11044
+{Y}The Griffin's Pen{y}~
+ {Y}
+  The sweet and sickly smell of decaying flesh 
+  pervades this pen. In one corner the remains
+  of the griffin's latest meal can be seen. It 
+  appears to be some poor wretch who was trying
+  to escape the Sultan's guard. The griffin now
+  lays placidly in one corner of its pen.
+  {y}
+~
+110 262144 2
+D3
+~
+cage~
+1 -1 11042
+Z-1
+C-1
+S
+#11045
+{Y}The {R,BO}P{r,bo}{Y}e{y}{Y,BO}n {R}of {R,BO}D{r,bo}{R}a{Y}g{Y,BO}r{R,BO}i{r,bo}{R}n{r}~
+ {G,BO}
+  The perfectly roasted carcass of a fellow adventurer
+  is stretched out in one corner of this spacious pen.
+  In another corner rests the mighty Dagrin, a silver
+  dragon whose scales are edged in gold. The spikes of
+  his emerald studded tail look like they can do some
+  serious damage. 
+ {g,bo}
+~
+110 262144 2
+D1
+~
+cage~
+1 -1 11047
+Z-1
+C-1
+S
+#11046
+{W,BO}Thistledown's{M,BO} Corral{m,bo}~
+ {G,BO}
+  One of the beautiful creatures in the Sultan's 
+  possession is housed in this pen. Thistledown, 
+  a glorious silver unicorn diminutively nibbles
+  the succulent grasses that are brought to his
+  pen each day. The soft light of his horn casts
+  an eerie glow about the corral.
+ {g,bo}
+~
+110 262144 2
+D2
+~
+gate~
+1 -1 11047
+Z-1
+C-1
+S
+#11047
+{BLU,BO}The{BLA,BO} Path {BLU,BO}in the Pleasure Garden{blu,bo}~
+ {G,BO}
+  The path of {BLA,BO}crushed stone{G,BO} continues its winding
+  through the Sultan's Pleasure Garden. An intense
+  heat comes from the west, while to the north an
+  eerie glow is visible. The path continues to the
+  east.
+  {g,bo}
+~
+110 262144 2
+D0
+~
+gate~
+2 11005 11046
+D1
+~
+~
+0 -1 11048
+D2
+~
+~
+0 -1 11042
+D3
+~
+cage~
+2 11005 11045
+Z-1
+C-1
+S
+#11048
+{BLU,BO}The {BLA,BO}Path{BLU,BO} in the Pleasure Garden{blu,bo}~
+ {G,BO}
+  The path seems to be nearing its end.  Northward
+  you see a tall stone wall that divides the palace
+  grounds from those of the desert outside. To the 
+  east a faint splashing can be heard.
+  {g,bo}
+~
+110 262144 2
+D0
+~
+~
+0 -1 11049
+D1
+{BLA,BO}
+  This wrought iron gate has images of sea life etched
+  onto it. {bla,bo}
+
+~
+gate~
+2 11005 11023
+D3
+~
+~
+0 -1 11047
+Z-1
+C-1
+S
+#11049
+{BLA,BO}A{bo} {C}Dead {BLA,BO}End{bla,bo}~
+  {GR,BO}
+  The stone path has reached its end before a tall
+  stone wall that surrounds the palace and its grounds,
+  protecting it from the treacherous heat of the {R,BO}Red
+  Sands{G,BO}.  A large, thorny plant, with blooms the color
+  of {bo}{R}blood{G,BO} covers the wall.  It appears there is no
+  way to leave other than by the path.{gr,bo}
+
+~
+110 262144 2
+D0
+{G,BO}
+  This huge vine emits a tangy perfume. It's {R,BO}blood-red{G,BO}
+  flowers make you think of the desert.
+ {g,bo}
+~
+vine~
+3 -1 11050
+D2
+~
+~
+0 -1 11048
+E
+vine thorny plant blood~
+ {G}
+  This huge vine emits a tangy perfume.  It's {R}blood-red{G}
+  flowers make you think of the desert.{g}
+
+~
+Z-1
+C-1
+S
+#11050
+{R,BO}The Red Sands{r,bo}~
+ {Y}
+  The sun mercilessly beats down upon the {R,BO}Red
+  Sands{r,bo}{Y}.  It is hot enough to not only fry an
+  egg on the sand, but to burn it up, too! To
+  the south the wavering outline of a wall can
+  be seen.  Is it a mirage, or is it real?{y}
+
+~
+110 262228 2
+D1
+~
+~
+0 -1 11057
+D2
+~
+vine~
+1 -1 11049
+D3
+~
+~
+0 -1 11051
+Z-1
+C-1
+S
+#11051
+{R,BO}The Red Sands{r,bo}~
+  {Y}
+  How many days has it been since you last 
+  saw water?  The only hope for those who 
+  roam this desert is in finding the Julli 
+  Oasis somewhere in the center of it. At 
+  the oasis, there are water and food for 
+  all those who need it.
+  {y}
+~
+110 262224 2
+D1
+~
+~
+0 -1 11050
+D3
+~
+~
+0 -1 11056
+Z-1
+C-1
+S
+#11052
+{R,BO}The Red Sands{r,bo}~
+  {Y}
+  The Red Sands are said to be very large,
+  but they are not impossible to cross. 
+  Somehow it seems that you are nearing
+  the end of the journey through the
+  evil desert.
+  {y}
+~
+110 262224 2
+D1
+~
+~
+0 -1 11061
+D2
+~
+~
+0 -1 11008
+D3
+~
+~
+0 -1 11058
+Z-1
+C-1
+S
+#11053
+{R,BO}The Red Sands{r,bo}~
+  {Y}
+  The sun continues to glare down out of the
+  unclouded sky.  Occasionally, the glint of
+  sun-bleached bones reminds you of what happens
+  to those who are not fortunate enough to find
+  Julli and its oasis.
+  {y}
+~
+110 262224 2
+D0
+~
+~
+0 -1 11058
+D1
+~
+~
+0 -1 11054
+Z-1
+C-1
+S
+#11054
+{R,BO}The Red Sands{r,bo}~
+  {Y}
+  How many days has it been since you last 
+  saw water?  The only hope for those who 
+  roam this desert is in finding the Julli 
+  Oasis somewhere in the center of it. At 
+  the oasis, there are water and food for 
+  all those who need it.
+  {y}
+~
+110 262224 2
+D0
+~
+~
+0 -1 11059
+D1
+~
+~
+0 -1 11055
+D3
+~
+~
+0 -1 11053
+Z-1
+C-1
+S
+#11055
+{R,BO}The Red Sands{r,bo}~
+  {Y}
+  The ground has become slightly more rocky.
+  Stumbling with heat exhaustion, you notice
+  that some of the rocks have a bit of moss
+  growing on them.  Water must be nearby.
+  Could it be the Julli Oasis, or are the
+  rocks themselves a mirage?
+  {y}
+~
+110 262224 2
+D0
+~
+~
+0 -1 11000
+D2
+~
+~
+0 -1 11056
+D3
+~
+~
+0 -1 11054
+Z-1
+C-1
+S
+#11056
+{R,BO}The Red Sands{r,bo}~
+  {Y}
+  The sun beats unmercifully down upon you as
+  you trudge through the Red Sands.  No sign
+  of life can be found.  Not even a slithering
+  snake or a single desert cactus enlivens the 
+  desolate landscape. 
+  {y}
+~
+110 262224 2
+D0
+~
+~
+0 -1 11055
+D1
+~
+~
+0 -1 11051
+D3
+~
+~
+0 -1 11057
+Z-1
+C-1
+S
+#11057
+{R,BO}The Red Sands{r,bo}~
+  {Y}
+  The sun continues to glare down out of the
+  unclouded sky.  Occasionally, the glint of
+  sun-bleached bones reminds you of what happens
+  to those who are not fortunate enough to find
+  Julli and its oasis.
+  {y}
+~
+110 262224 2
+D1
+~
+~
+0 -1 11056
+D3
+~
+~
+0 -1 11050
+Z-1
+C-1
+S
+#11058
+{R,BO}The Red Sands{r,bo}~
+  {Y}
+  How many days has it been since you last 
+  saw water?  The only hope for those who 
+  roam this desert is in finding the Julli 
+  Oasis somewhere in the center of it. At 
+  the oasis, there are water and food for 
+  all those who need it.
+  {y}
+~
+110 262224 2
+D0
+~
+~
+0 -1 11010
+D1
+~
+~
+0 -1 11052
+D2
+~
+~
+0 -1 11053
+Z-1
+C-1
+S
+#11059
+{R,BO}The Red Sands{r,bo}~
+  {Y}
+  The desert in its immensity surrounds you. A shiver
+  of fear works down your spine amid the intense heat
+  radiating off the sand.  Many adventurers have lost
+  their lives in the Red Sands. Be wary, or the number
+  will increase.
+ {y}
+~
+110 262224 2
+D1
+~
+~
+0 -1 11008
+D2
+~
+~
+0 -1 11054
+Z-1
+C-1
+S
+#11060
+{Y}The{BLA,BO} Gravel {bla,bo}{Y}Road{y}~
+
+  The trail bottoms out on a gravel road, well-worn 
+  but untended for a long time.  Grass pokes up from
+  among the pebbles that form the road.  The tang of
+  smoke drifts in from the south.
+
+~
+110 262144 2
+D2
+~
+~
+0 -1 11062
+D3
+~
+~
+0 -1 11066
+Z-1
+C-1
+S
+#11061
+{R,BO}The Red Sands{r,bo}~
+  {Y}
+  Just ahead the edge of the desert can be
+  seen. Scraggly plant-life gives way to
+  lush green trees. A dirt trail can be
+  seen leading through a forest.
+  {y}
+~
+110 262224 1
+D1
+~
+~
+0 -1 11066
+D3
+~
+~
+0 -1 11052
+Z-1
+C-1
+S
+#11062
+{CY}Entrance to Chatal{cy}~
+  {G,BO}
+  Thatched roofs and animal pens are now visible,
+  and an obelisk erected in the village's square
+  identifies this silent village as Chatal.  The 
+  fact that not a villager walks along the street
+  is odd.
+  {g,BO}
+~
+110 262144 1
+D0
+~
+~
+0 -1 11060
+D1
+~
+~
+0 -1 11063
+E
+obelisk~
+{BLA,BO}         /\
+        /  \
+       /    \
+      /      \
+     /        \ 
+    /          \
+    |   The    |
+    |  Village |
+    |    Of    |
+    |  Chatal  |
+    |          |{bla,bo}
+ {G,BO}   /|/|\||//||\{g,bo}
+~
+Z-1
+C-1
+S
+#11063
+{Y}A {BLA,BO}Street{bla,bo}{Y} Through {CY}Chatal{cy}~
+ {G,BO}
+  The same eerie quiet that haunted the gravel road
+  is present even in the town.  The small thatched
+  homes might as well be uninhabited. Not one house
+  has its shutters open, and all the doors are shut.
+  {g,bo}
+~
+110 262144 1
+D0
+~
+door~
+1 -1 11064
+D1
+~
+~
+0 -1 11068
+D2
+~
+door~
+1 -1 11065
+D3
+~
+~
+0 -1 11062
+Z-1
+C-1
+S
+#11064
+{W}A {Y}House{W} in {C}Chatal{c}~
+  {C}
+  A woman and her children are huddled next to each
+  other on the wooden floor of the house. They stare
+  blankly ahead, and their forms are wasted from the 
+  horrors of malnutrition.  Not a stick of furniture
+  or a morsel of food remains in the house.
+  {c}
+~
+110 262144 0
+D2
+~
+door~
+1 -1 11063
+Z-1
+C-1
+S
+#11065
+{W}A {Y}House{W} in{C} Chatal{cy}~
+ {C}
+  A fire burns in the fireplace of this house as a 
+  woman slowly feeds it bits of rags.  Many people 
+  sit on the floor, and the same blank stare is on
+  all of their faces.  You learn that it has been 
+  eighteen days since these poor wretches had food.
+  They're crazy with need of sustenance.
+  {c}
+~
+110 262144 0
+D0
+~
+door~
+1 -1 11063
+Z-1
+C-1
+S
+#11066
+{Y}Dirt Trail {BLA,BO}Through{bo}{G} the Forest{g}~
+ {G}
+  The forest is so cool and refreshing after
+  the devastating heat of the desert. This
+  trail winds through it. A peaceful feeling
+  resides in this place.
+ {g}
+~
+110 262148 3
+D1
+~
+~
+0 -1 11060
+D3
+~
+~
+0 -1 11061
+Z-1
+C-1
+S
+#11067
+{M}The Plaza{m}~
+ {G}
+  Men, women, and children pack this square yelling
+  about the quality of their wares.
+
+  {C}"Best turnips this side of the Cantiny!"
+
+  {C}"Get your armor here! Guaranteed not to rust!"
+
+ {G} It is hard to concentrate amid all the shouting.
+ {g}
+~
+110 262144 1
+D2
+~
+~
+0 -1 11034
+D3
+~
+~
+0 -1 11082
+Z-1
+C-1
+S
+#11068
+{Y}Leaving {C}Chatal{c}~
+  {G,BO}
+  The plight of the poor villagers of Chatal is a 
+  hard one to forget. Yet, they are lucky compared
+  to most of those people who meet Ubrith Zelka's
+  hoarding band of gnoles.  The road continues on 
+  up into the mountains.
+  {g,bo}
+~
+110 262144 1
+D3
+~
+~
+0 -1 11063
+D4
+~
+~
+0 -1 11069
+Z-1
+C-1
+S
+#11069
+{G}Into the {BLA,BO}Mountains{bla,bo}~
+ {BLA,BO}
+  A series of steps has been carved into the face of
+  the mountain. Though crude and steep, they are much
+  safer than climbing up the bare face. Who knows what
+  lies on the other side of the mountain?
+ {bla,bo}
+~
+110 262148 5
+D0
+~
+~
+0 -1 11070
+D5
+~
+~
+0 -1 11068
+Z-1
+C-1
+S
+#11070
+{G}Climbing the{BLA,BO} Mountain{bla,bo}~
+ {BLA,BO}
+  Oof!  Climbing a mountain, even a mountain etched 
+  with steps, isn't an easy task. This mountain must
+  not be as tall as most, because the peak of it is 
+  just ahead. It will be a perfect vantage point to 
+  look from.
+ {bla,bo}
+~
+110 262144 5
+D2
+~
+~
+0 -1 11069
+D4
+~
+~
+0 -1 11071
+Z-1
+C-1
+S
+#11071
+{C}The Top of the {BLA,BO}Mountain{bla,bo}~
+ {C}
+  From here it is possible to see back down the carved 
+  steps into the valley at your back. Ahead, a massive
+  volcanic crater can be seen. A flapping of wings can
+  be heard and you see many winged creatures flying in
+  and out of holes in the massive volcanic flues below.
+  {c}
+~
+110 262148 5
+D2
+~
+~
+0 -1 11072
+D5
+~
+~
+0 -1 11070
+Z-1
+C-1
+S
+#11072
+{Y}Down into the {M}'Strelli{Y} Village{y}~
+  {BLA,BO}
+  The floor of this volcanic crater is covered with
+  rock cinders and the hardened flows of black lava.
+  Sprouting from the crater's bottom are hundreds of
+  tall flues,  hollow towers of rock from which jets
+  of fire once spewed.  The largest of the flues are
+  homes for the strelli.
+  {bla,bo}
+~
+110 262144 1
+D0
+~
+~
+0 -1 11071
+D3
+~
+~
+0 -1 11073
+Z-1
+C-1
+S
+#11073
+{C}Walking Through the {M}'Strelli {C}Village{c}~
+ {BLA,BO}
+  The tall flues are on either side, and it is possible
+  to see how they were prepared. The pip'strelli carved 
+  openings in the sides, smoothed out the interiors, and
+  installed platforms inside. Some of the flues are more
+  than fifty paces high and house more than one hundred
+  pip'strelli.
+ {y}
+~
+110 262144 1
+D0
+~
+~
+0 -1 11074
+D1
+~
+~
+0 -1 11072
+D3
+~
+~
+0 -1 11078
+Z-1
+C-1
+S
+#11074
+{CY}First Level of a {M}'Strelli {CY}Flue{cy}~
+ {BLA,BO}
+  The rough black lava rock has been smoothed over
+  time to a shiny black. It looks like solid black 
+  marble. Colorful platforms are placed at varying
+  heights in the flue for the 'strelli to perch on.
+  Although cozy for a 'strelli, it isn't quite like
+  home to you.
+  {bla,bo}
+~
+110 262144 1
+D2
+~
+~
+0 -1 11073
+D4
+~
+~
+0 -1 11075
+Z-1
+C-1
+S
+#11075
+{CY}Second Level of a {M}'Strelli {CY}Flue{cy}~
+ {BLA,BO}
+  You wing your way up higher in the 'strelli flue.
+  The rough black lava rock has been smoothed over
+  time to a shiny black. It looks like solid black 
+  marble. Colorful platforms are placed at varying
+  heights in the flue for the 'strelli to perch on.
+  The flue extends on up.
+ {bla,bo}
+~
+110 262144 9
+D4
+~
+~
+0 -1 11076
+D5
+~
+~
+0 -1 11074
+Z-1
+C-1
+S
+#11076
+{C}Third Level of a {M}'Strelli{C} Flue{c}~
+ {BLA,BO}
+  You wing your way up higher in the 'strelli flue.
+  The rough black lava rock has been smoothed over
+  time to a shiny black. It looks like solid black 
+  marble. Colorful platforms are placed at varying
+  heights in the flue for the 'strelli to perch on.
+  The flue extends on up.
+  {bla,bo}
+~
+110 262144 9
+D4
+~
+~
+0 -1 11077
+D5
+~
+~
+0 -1 11075
+Z-1
+C-1
+S
+#11077
+{C}Top Level of a {M}'Strelli{C} Flue{c}~
+ {BLA,BO}
+  You wing your way up higher in the 'strelli Flue.
+  The rough black lava rock has been smoothed over
+  time to a shiny black.  It looks like solid black
+  marble.  Colorful platforms are placed at varying
+  heights in the flue for the 'strelli to perch on.
+  {bla,bo}
+~
+110 262144 9
+D5
+~
+~
+0 -1 11076
+Z-1
+C-1
+S
+#11078
+{C}Walking Through the {M}'Strelli {C}Village{c}~
+ {BLA,BO}
+  The tall flues are on either side, and it is possible
+  to see how they were prepared. The pip'strelli carved 
+  openings in the sides, smoothed out the interiors, and
+  installed platforms inside. Some of the flues are more
+  than fifty paces high and house more than one hundred
+  pip'strelli.
+ {y}
+~
+110 262144 1
+D0
+~
+~
+0 -1 11087
+D1
+~
+~
+0 -1 11073
+D2
+~
+~
+0 -1 11079
+Z-1
+C-1
+S
+#11079
+{CY}First Level of a {M}'Strelli {CY}Flue{cy}~
+ {BLA,BO}
+  The rough black lava rock has been smoothed over
+  time to a shiny black. It looks like solid black 
+  marble. Colorful platforms are placed at varying
+  heights in the flue for the 'strelli to perch on.
+  Although cozy for a 'strelli, it isn't quite like
+  home to you.
+  {bla,bo}
+~
+110 262144 1
+D0
+~
+~
+0 -1 11078
+D4
+~
+~
+0 -1 11080
+Z-1
+C-1
+S
+#11080
+{CY}Second Level of a {M}'Strelli {CY}Flue{cy}~
+ {BLA,BO}
+  You wing your way up higher in the 'strelli flue.
+  The rough black lava rock has been smoothed over
+  time to a shiny black. It looks like solid black 
+  marble. Colorful platforms are placed at varying
+  heights in the flue for the 'strelli to perch on.
+  The flue extends on up.
+ {bla,bo}
+~
+110 262144 9
+D4
+~
+~
+0 -1 11081
+D5
+~
+~
+0 -1 11079
+Z-1
+C-1
+S
+#11081
+{C}Top Level of a {M}'Strelli{C} Flue{c}~
+ {BLA,BO}
+  You wing your way up higher in the 'strelli Flue.
+  The rough black lava rock has been smoothed over
+  time to a shiny black.  It looks like solid black
+  marble.  Colorful platforms are placed at varying
+  heights in the flue for the 'strelli to perch on.
+  {bla,bo}
+~
+110 262144 9
+D5
+~
+~
+0 -1 11080
+Z-1
+C-1
+S
+#11082
+{C}Road to the Royal Palace{c}~
+ {G}
+  People of all nationalities pack the streets
+  straining to get a peek at the  visitors who 
+  are attending the ongoing conclave.  Just up
+  ahead the gates to the palace are open,  but
+  a group of guardsmen are blocking spectators
+  from entering.
+  {g}
+~
+110 262144 1
+D1
+~
+~
+0 -1 11067
+D3
+~
+~
+0 -1 11083
+Z-1
+C-1
+S
+#11083
+{C}Before the Palace Gates{c}~
+ {G}
+  These guardsmen don't seem to believe that you
+  are an ambassador from one of the Five Cities.
+  Checking over a scroll containing names of all
+  expected guests turns up a negative.  It seems
+  if you want in,  you'll be forced to bash some
+  heads!
+ {g}
+~
+110 262144 1
+D0
+~
+~
+0 -1 11084
+D1
+~
+~
+0 -1 11082
+Z-1
+C-1
+S
+#11084
+{C}Inside the Palace of Tantuffa{c}~
+ {G}
+  Apparently the only part of the palace that is
+  open right now is the lower conference room. A
+  sign directs ambassadors to go down to it. The
+  other areas of the palace, including the royal
+  living quarters are undergoing renovation.
+ {g}
+~
+110 262148 0
+D2
+~
+~
+0 -1 11083
+D5
+~
+~
+0 -1 11085
+Z-1
+C-1
+S
+#11085
+{C}Security Checkpoint into the Conference Room{c}~
+  {G}
+  The personal guard of the royal family is here
+  checking to  make sure that no  one eavesdrops 
+  on  the conclave.  To get into the  conference
+  room, you will have to go through them.
+ {g}
+~
+110 262144 0
+D4
+~
+~
+0 -1 11084
+D5
+~
+~
+0 -1 11086
+Z-1
+C-1
+S
+#11086
+{C}Conference Room in the Palace{c}~
+ {G}
+  Nestled down in the bottom of the palace for added 
+  protection is the royal conference room, where the
+  conclave is now taking place. It seems to be going
+  well, with all of the representatives in agreement
+  that the Sultan is a dirty, rotten, lying, no-good
+  son of a jackal.  (Which you could have told them) 
+  Marix is present with the royal seal of Narsia. It
+  seems that the conclave is a great success.
+ {g}
+~
+110 262144 0
+D4
+~
+~
+0 -1 11085
+Z-1
+C-1
+S
+#11087
+{C}Leaving the {M}'Strelli{C} Village{c}~
+ {BLA,BO}
+  A path winds its way out of the 'strelli village 
+  on into the crater. Two massive flues jut out of 
+  the landscape ahead. They are the Joj Xarar. The
+  fire from these sacred chimneys has been put out
+  by the evil general Ubrith Zelka and his band of 
+  gnoles.
+ {bla,bo}
+~
+110 262144 1
+D0
+~
+~
+0 -1 11088
+D2
+~
+~
+0 -1 11078
+Z-1
+C-1
+S
+#11088
+{Y}Heading Toward the {R}Gnole{Y} Encampment{y}~
+  {BLA,BO}
+  The twin flues of the Joj Xarar are just ahead.
+  Around the base of the pip'strelli's two sacred
+  chimneys the band of gnoles can be seen as well 
+  as heard. Their harsh voices rise with a frenzy
+  of hate and bloodlust, as they exalt their evil
+  commander General Zelka.
+  {bla,bo}
+~
+110 262148 1
+D0
+~
+~
+0 -1 11089
+D2
+~
+~
+0 -1 11087
+Z-1
+C-1
+S
+#11089
+{Y}Entering the {R}Gnole{Y} Encampment{y}~
+ {BLA,BO}
+  Gnoles are gathered around the twin chimneys of
+  the Joj Xarar.  For them it is a good omen that
+  the sacred fires have been extinguished. A true
+  hero would rekindle those fires to aid the poor
+  'strelli before continuing his adventures.
+  {bla,bo}
+~
+110 262144 1
+D0
+~
+~
+0 -1 11090
+D1
+~
+~
+0 -1 11024
+D2
+~
+~
+0 -1 11088
+D3
+~
+~
+0 -1 11025
+Z-1
+C-1
+S
+#11090
+{Y}Between the {M}Sacred{Y} Chimneys{y}~
+ {BLA,BO}
+  Between the Joj Xarar stands a powerful gnole.
+  Ubrith Zelka shouts at his hoard to catch you,
+  dead or alive. To the west the immense flue of
+  Joj Mirar stretches into the sky, while to the
+  east, Joj Shanar parallels its twin. It appears
+  that you won't be able to light either of them 
+  without evading or killing the gnoles.
+ {bla,bo}
+~
+110 262144 1
+D0
+~
+~
+0 -1 11031
+D1
+~
+~
+0 -1 11092
+D2
+~
+~
+0 -1 11089
+D3
+~
+~
+0 -1 11091
+Z-1
+C-1
+S
+#11091
+{Y}The Base of {M}Joj Mirar{m}~
+ {BLA,BO}
+  You are standing at the base of Joj Mirar.  It
+  stretches many, many feet above you.  The only
+  thing left to decide is whether or not you are
+  willing to risk life and limbs climbing up it,
+  or if you would rather battle  your way out of
+  the gnole encampment.
+ {bla,bo}
+~
+110 262144 1
+D0
+~
+~
+0 -1 11027
+D1
+~
+~
+0 -1 11090
+D2
+~
+~
+0 -1 11025
+D4
+~
+~
+0 -1 11093
+Z-1
+C1
+S
+#11092
+{Y}The Base of {C}Joj Shanar{c}~
+ {BLA,BO}
+  You are standing at the base of Joj Shanar. It
+  stretches many, many feet above you.  The only
+  thing left to decide is whether or not you are
+  willing to risk life and limbs climbing up it,
+  or if you would rather battle  your way out of
+  the gnole encampment.
+  {bla,bo}
+~
+110 262144 1
+D0
+~
+~
+0 -1 11026
+D2
+~
+~
+0 -1 11024
+D3
+~
+~
+0 -1 11090
+D4
+~
+~
+0 -1 11097
+Z-1
+C1
+S
+#11093
+{Y}Climbing up {M}Joj Mirar{m}~
+  {BLA,BO}
+  You are climbing up the steep flue of Joj Mirar.
+  The rope you have wrapped around the flue to aid
+  in pulling yourself up is quickly being shredded
+  by the rough surface of the flue.  Far above you
+  the top of the flue is visible, while from below
+  you can hear the angry bellows of the gnoles.
+  {bla,bo}
+~
+110 262144 1
+D4
+~
+~
+0 -1 11094
+D5
+~
+~
+0 -1 11091
+Z-1
+C1
+S
+#11094
+{Y}Climbing up {M}Joj Mirar{m}~
+ {BLA,BO}
+  The volcanic rock continues to eat away at the rope
+  you are using,  and it looks like continuing up the 
+  flue could be fatal. However, upon seeing the angry 
+  mob gathered below, you quickly conclude that up is 
+  the only option of prolonging your life.
+ {bla,bo}
+~
+110 262144 1
+D4
+~
+~
+0 -1 11095
+D5
+~
+~
+0 -1 11093
+Z-1
+C1
+S
+#11095
+{Y}Climbing up {M}Joj Mirar{m}~
+ {BLA,BO}
+  Just above you, the rim of the sacred flue is
+  visible.  Only a few more feet to go.  Now if 
+  the rope will only last long enough for you to
+  climb the extra bit. The rope itself consists
+  of only a few threads now.  Yikes!
+ {bla,bo}
+~
+110 262144 1
+D4
+~
+~
+0 -1 11096
+D5
+~
+~
+0 -1 11094
+Z-1
+C1
+S
+#11096
+{Y}The top of {M}Joj Mirar{m}~
+  {BLA,BO}
+  You survived a climb that has killed many.  The
+  last thread of your rope snaps as you get to the
+  top of the flue.  Now, all that is left to do is 
+  light the flue and slide back down.
+  {bla,bo}
+~
+110 262144 1
+D5
+~
+~
+0 -1 11095
+Z-1
+C1
+S
+#11097
+{Y}Climbing up {C}Joj Shanar{c}~
+ {BLA,BO}
+  You're climbing up the steep flue of Joj Shanar.
+  The rope you have wrapped around the flue to aid
+  in pulling yourself up is quickly being shredded
+  by the rough surface of the flue.  Far above you
+  the top of the flue is visible, while from below
+  you can hear the angry bellows of the gnoles.
+ {bla,bo}
+~
+110 262144 1
+D4
+~
+~
+0 -1 11098
+D5
+~
+~
+0 -1 11092
+Z-1
+C1
+S
+#11098
+{Y}Climbing up{C} Joj Shanar{c}~
+ {BLA,BO}
+  The volcanic rock continues to eat away at the rope
+  you are using,  and it looks like continuing up the 
+  flue could be fatal. However, upon seeing the angry 
+  mob gathered below, you quickly conclude that up is 
+  the only option of prolonging your life.
+ {bla,bo}
+~
+110 262144 1
+D4
+~
+~
+0 -1 11099
+D5
+~
+~
+0 -1 11097
+Z-1
+C1
+S
+#11099
+{Y}Climbing up {C}Joj Shanar{c}~
+ {BLA,BO}
+  Just above you, the rim of the sacred flue is
+  visible.  Only a few more feet to go.  Now if 
+  the rope will only last long enough for you to
+  climb the extra bit. The rope itself consists
+  of only a few threads now.  Yikes!
+ {bla,bo}
+~
+110 262144 1
+D4
+~
+~
+0 -1 11028
+D5
+~
+~
+0 -1 11098
+Z-1
+C1
+S
+$~

@@ -1,0 +1,1050 @@
+#4000
+The hills~
+
+  You are on a worn dirt path leading north, small hills surrond
+you. As you approach the mountains to your north you sense an air
+of evil, and the sky itself seems to darken.
+
+~
+40 4 4
+D0
+~
+~
+0 0 4001
+D2
+~
+~
+0 0 3500
+Z3
+C-1
+S
+#4001
+The hills~
+
+ You have continued north on the worn dirt path. The sky seems
+even darker here and the hills loom ominous all about you. All
+around you are threatening hill and you feel eyes upon you as 
+you walk. To your east the path continues and the sound of evil 
+laughter draws you. Its time to chose your path, choose carefully.
+
+~
+40 4 4
+D0
+~
+~
+0 0 4002
+D1
+~
+~
+0 -1 23995
+D2
+~
+~
+0 0 4000
+Z3
+C-1
+S
+#4002
+End of the path~
+
+  The path stops here, before you is an incredibly large mountain.
+The evil eminating from it shakes you to your very soul. To your 
+north appears a dark and frightening cave opening. The lure of the
+unknown compells you to venture forth and explore. On the side of
+the path is a sign worn and covered by debris.
+~
+40 4 4
+D0
+~
+~
+0 0 4010
+D2
+~
+~
+0 0 4001
+E
+sign~
+
+***************************************************
+
+*                                                 *
+
+*                                                 *
+* *********************************************** *
+* *                                             * *
+
+* *          The Mines of Moria                 * *
+
+* *                                             * *
+
+* *           Enter at own Risk                 * *
+
+* *                                             * * 
+
+* *                                             * *
+* *********************************************** *
+
+
+~
+Z3
+C-1
+S
+#4010
+The cave~
+   You are in a cave, to the south you sense fresh air. To the north a
+small tunnel continues into the mountain.
+~
+40 9 2
+D0
+~
+~
+0 0 4011
+D2
+~
+~
+0 0 4002
+Z3
+C-1
+S
+#4011
+The tunnel~
+   You force your way through a small tunnel, to you south you sense 
+a little fresh air, and to the north the tunnel continues.
+~
+40 9 3
+D0
+~
+~
+0 0 4014
+D2
+~
+~
+0 0 4010
+Z3
+C-1
+S
+#4012
+The tunnel~
+   You are in a small tunnel, to the north there is a cave. The tunnel
+continues to the east.
+~
+40 9 3
+D0
+~
+~
+0 0 4016
+D1
+~
+~
+0 0 4013
+Z3
+C-1
+S
+#4013
+The tunnel~
+   You are in a small tunnel leading east-west. The floor is covered by
+dust.
+~
+40 9 3
+D1
+~
+~
+0 0 4014
+D3
+~
+~
+0 0 4012
+Z3
+C-1
+S
+#4014
+The tunnel~
+   You are in a tunnel, the tunnel continues to the south and to the 
+west, to the north there is a cave.
+~
+40 9 3
+D0
+~
+~
+0 0 4018
+D1
+~
+~
+0 -1 31900
+D2
+~
+~
+0 0 4011
+D3
+~
+~
+0 0 4013
+Z3
+C-1
+S
+#4015
+The tunnel~
+   You are in a small tunnel, the tunnel continues west.
+~
+40 9 3
+D0
+~
+~
+0 0 4019
+D3
+~
+~
+0 0 4014
+Z3
+C-1
+S
+#4016
+The large cave~
+   You are in a large cave, the cave continues east and west, to the south
+you notice a small tunnel.
+~
+40 9 2
+D1
+~
+~
+0 0 4017
+D2
+~
+~
+0 0 4012
+D3
+~
+~
+0 0 4023
+Z3
+C-1
+S
+#4017
+The large cave~
+   You are in the east end of the large cave.
+~
+40 9 2
+D3
+~
+~
+0 0 4016
+Z3
+C-1
+S
+#4018
+The cave~
+   You are in the south end of a cave, to the south you see a tunnel. You
+notice a large pile of bones in the corner.
+~
+40 9 2
+D0
+~
+~
+0 0 4025
+D2
+~
+~
+0 0 4014
+E
+pile bones~
+Well you better watch out - some of the bones are human !
+~
+Z3
+C-1
+S
+#4019
+The tunnel~
+   You are in a north-south leading tunnel.
+~
+40 9 3
+D0
+~
+~
+0 0 4026
+D2
+~
+~
+0 0 4015
+Z3
+C-1
+S
+#4020
+The hole~
+   You are by a hole in the floor, you can leave down, or north.
+~
+40 13 3
+D0
+~
+~
+0 0 4027
+D5
+~
+~
+0 0 4064
+Z3
+C-1
+S
+#4021
+The hole~
+
+  You are by a hole in the floor, to your east is a dank
+hallway. At your feet is a small hole which appears to 
+drop down into yet another passageway in the subterranian
+lair.
+
+~
+40 13 3
+D1
+~
+~
+0 0 4022
+D5
+~
+~
+0 0 4115
+Z3
+C-1
+S
+#4022
+The damp tunnel~
+   You are in a damp tunnel, your clothes feel wet. The tunnel continues
+to the north, to the west you see a hole in the floor and to the east
+there is a large cave.
+~
+40 9 3
+D0
+~
+~
+0 0 4024
+D1
+~
+~
+0 0 4023
+D3
+~
+~
+0 0 4021
+Z3
+C-1
+S
+#4023
+The large cave~
+   You are in the western part of the large cave, to the west you see
+a damp tunnel.
+~
+40 9 2
+D1
+~
+~
+0 0 4016
+D3
+~
+~
+0 0 4022
+Z3
+C-1
+S
+#4024
+The damp tunnel~
+   You are in a damp tunnel, that leads west.
+~
+40 9 3
+D2
+~
+~
+0 0 4022
+D3
+~
+~
+0 0 4059
+Z3
+C-1
+S
+#4025
+The cave~
+   You are in the north end of a cave. To the east you see some tunnels
+which leads in many directions.
+~
+40 9 2
+D1
+~
+~
+0 0 4026
+D2
+~
+~
+0 0 4018
+Z3
+C-1
+S
+#4026
+The many tunnels~
+   You are in a tunnel, that leads of in all directions.
+~
+40 9 3
+D0
+~
+~
+0 0 4028
+D1
+~
+~
+0 0 4027
+D2
+~
+~
+0 0 4019
+D3
+~
+~
+0 0 4025
+Z3
+C-1
+S
+#4027
+The tunnel~
+   You are in a north-south leading tunnel, you also notice a tunnel to
+the west. From the north you sense the fresh air!
+~
+40 9 3
+D0
+~
+~
+0 0 4029
+D2
+~
+~
+0 0 4020
+D3
+~
+~
+0 0 4026
+Z3
+C-1
+S
+#4028
+The smelly tunnel~
+   You are in a north-south leading tunnel, you see a small light
+to the north. You notice a strange smell from the north..
+~
+40 9 3
+D0
+~
+~
+0 0 4030
+D2
+~
+~
+0 0 4026
+Z3
+C-1
+S
+#4029
+The cave~
+   You are in a cave that is filled with fresh air, you sense the
+wind blowing from the north. To the south you see a small tunnel
+continue into the mountain.
+~
+40 9 2
+D0
+~
+~
+0 0 4031
+D2
+~
+~
+0 0 4027
+Z3
+C-1
+S
+#4030
+The light cave~
+   You are in a light cave, through a hole large above you, you see 
+the sky. A small tunnel to the south is the only way out.
+You notice the source of the strange smell, all around you there is
+corpses from several monsters.
+~
+40 0 2
+D2
+~
+~
+0 0 4028
+E
+corpse corpses~
+IT STINKS!
+~
+Z3
+C-1
+S
+#4031
+Ledge Overlooking a Valley~
+You are on a small ledge overlooking a peaceful valley, with a stream
+flowing from west to east to a waterfall. To the north you can see a large
+mountain range, covered in the most part by a dense forest, but with the
+snowy peaks glaeming in the light. A rough trail leads down to the valley
+floor, and to the south a dark cave opens ominously into the mountains
+of Moria....
+~
+40 4 2
+D0
+~
+~
+0 -1 4080
+D2
+~
+~
+0 -1 4029
+D4
+~
+~
+0 -1 9246
+D5
+~
+~
+0 -1 4080
+E
+cave~
+Well it doesn't look nice, but it's the only way out..
+~
+Z3
+C-1
+S
+#4050
+The tunnel~
+   You are in a tunnel, which turns here. The tunnel continues to the
+east and the south.
+~
+40 9 3
+D1
+~
+~
+0 0 4051
+D2
+~
+~
+0 0 4053
+Z3
+C-1
+S
+#4051
+The tunnel~
+   You are in an east-west leading tunnel. The tunnel is very narrow
+here.
+~
+40 9 3
+D1
+~
+~
+0 0 4052
+D3
+~
+~
+0 0 4050
+Z3
+C-1
+S
+#4052
+The tunnel~
+   You are in an east-west leading tunnel.
+~
+40 9 3
+D1
+~
+~
+0 0 4100
+D3
+~
+~
+0 0 4051
+Z3
+C-1
+S
+#4053
+The tunnel~
+   You are at a turn, the tunnel continues north and east.
+~
+40 9 3
+D0
+~
+~
+0 0 4050
+D1
+~
+~
+0 0 4054
+Z3
+C-1
+S
+#4054
+The light cave~
+   You are in a cave, to south from you there is a large fire that lights
+the entire cave, to the east and west tunnels leads off.
+~
+40 8 2
+D1
+~
+~
+0 0 4055
+D2
+~
+~
+0 0 4056
+D3
+~
+~
+0 0 4053
+Z3
+C-1
+S
+#4055
+The maze~
+   You are in a maze of small damp tunnels. Only exit is west to a 
+light cave.
+~
+40 9 3
+D3
+~
+~
+0 0 4054
+Z3
+C-1
+S
+#4056
+The light cave~
+   You are in a light cave, a large fire in front of you lights the room.
+The cave continues to the north and south.
+~
+40 8 2
+D0
+~
+~
+0 0 4054
+D2
+~
+~
+0 0 4061
+E
+fire~
+Well, errh - It looks somehow quite warm..!
+~
+Z3
+C-1
+S
+#4057
+The maze~
+   You are in a maze of small damp tunnels. Exits leads both north
+and south.
+~
+40 9 3
+D0
+~
+~
+0 0 4055
+D2
+~
+~
+0 0 4062
+Z3
+C-1
+S
+#4058
+The maze~
+   You are in a maze of small damp tunnels. Exits leads west and south.
+~
+40 9 3
+D2
+~
+~
+0 0 4063
+D3
+~
+~
+0 0 4057
+Z3
+C-1
+S
+#4059
+The tunnel~
+   You are in a tunnel, only exit is to the east. You sense that the
+tunnel leads slightly down.
+~
+40 13 3
+D1
+~
+~
+0 0 4060
+Z3
+C-1
+S
+#4060
+The tunnel~
+   You are in a small tunnel, to the west the tunnel continues and 
+to the east you see some light.
+~
+40 9 3
+D1
+~
+~
+0 0 4061
+D3
+~
+~
+0 0 4059
+Z3
+C-1
+S
+#4061
+The light cave~
+   You are in the south end of a light cave, tunnels leads of to the
+south and west.
+~
+40 8 2
+D0
+~
+~
+0 0 4056
+D2
+~
+~
+0 0 4065
+D3
+~
+~
+0 0 4060
+Z3
+C-1
+S
+#4062
+The maze~
+   You are in a maze of small damp tunnels. Exits leads east and west.
+~
+40 9 3
+D1
+~
+~
+0 0 4063
+D3
+~
+~
+0 0 4061
+Z3
+C-1
+S
+#4063
+The maze~
+   You are in a maze of small damp tunnels. Exits leads north and east.
+~
+40 9 3
+D0
+~
+~
+0 0 4054
+D1
+~
+~
+0 0 4064
+Z3
+C-1
+S
+#4064
+The tunnel~
+   You are in a tunnel, only exit is west - Only exit, well there is 
+also a hole in the ceiling.
+~
+40 9 3
+D3
+~
+~
+0 0 4063
+D4
+~
+~
+0 0 4020
+Z3
+C-1
+S
+#4065
+The maze~
+   You are in a maze of small damp tunnels. The tunnel continues east.
+To the north there is a light cave.
+~
+40 9 3
+D0
+~
+~
+0 0 4061
+D1
+~
+~
+0 0 4066
+Z3
+C-1
+S
+#4066
+The maze~
+   You are in a maze of small damp tunnels. Exits leads east and
+north. To the south is a large cave.
+~
+40 9 3
+D0
+~
+~
+0 0 4062
+D1
+~
+~
+0 0 4067
+D2
+~
+~
+0 0 4069
+Z3
+C-1
+S
+#4067
+The maze~
+   You are in a maze of small damp tunnels. Exits leads west and
+north.
+~
+40 9 3
+D0
+~
+~
+0 0 4063
+D3
+~
+~
+0 0 4066
+Z3
+C-1
+S
+#4068
+The large cave~
+   You are in the northwest end of a large cave.
+~
+40 9 2
+D1
+~
+~
+0 0 4069
+D2
+~
+~
+0 0 4070
+Z3
+C-1
+S
+#4069
+The large cave~
+   You are in the northeast end of a large cave. To the north the
+is a small damp tunnel.
+~
+40 9 2
+D0
+~
+~
+0 0 4066
+D2
+~
+~
+0 0 4071
+D3
+~
+~
+0 0 4068
+Z3
+C-1
+S
+#4070
+The large cave~
+   You are in the southwest end of a large cave.
+~
+40 9 2
+D0
+~
+~
+0 0 4068
+D1
+~
+~
+0 0 4071
+Z3
+C-1
+S
+#4071
+The large cave~
+   You are in the southeast end of a large cave. To the east you
+notice a small tunnel.
+~
+40 9 2
+D0
+~
+~
+0 0 4069
+D1
+~
+~
+0 0 4072
+D3
+~
+~
+0 0 4070
+Z3
+C-1
+S
+#4072
+The tunnel~
+   You are in a narrow tunnel, which leads both to the east and the
+south. There is also an exit towards the west, where you see a large
+cave.
+~
+40 9 3
+D1
+~
+~
+0 0 4073
+D2
+~
+~
+0 0 4074
+D3
+~
+~
+0 0 4071
+Z3
+C-1
+S
+#4073
+End of tunnel~
+   The tunnel stops here. There is no other exits than the one you
+came from.
+~
+40 9 3
+D3
+~
+~
+0 0 4072
+Z3
+C-1
+S
+#4074
+The hole~
+   You are at a small hole in the floor, you can either leave north
+or try your luck and leave down into the unknown!
+~
+40 9 3
+D0
+~
+~
+0 0 4072
+D5
+~
+~
+0 0 -1
+Z3
+C-1
+S
+#4080
+At the Valley~
+What a beautiful place !  You sigh as you hear the birds singing
+and the water from a small stream gurgle as it flows by.  You would guess
+that no-one has used this path on which you trod since the Dwarven Invasion!
+Just the thought of the dwarves makes you shudder, but they haven't been
+seen in years.  There's nothing to worry about.  The small path leads
+north and up to a ledge.  If you want to, you could also walk on the rocks
+in the stream and go south.
+~
+40 8 1
+D0
+~
+~
+0 -1 4082
+D1
+~
+~
+0 -1 4081
+D2
+~
+~
+0 -1 4031
+D4
+~
+~
+0 -1 4031
+Z3
+C-1
+S
+#4081
+By the lake~
+        Soon the rocks in the stream vanish as it grows wider.  The stream
+empties out into a small, crystal-clear lake.  The lake is surrounded by
+shear cliffs that strech from the water to the sky.
+~
+40 8 1
+D0
+~
+~
+0 -1 4083
+D3
+~
+~
+0 -1 4080
+Z3
+C-1
+S
+#4082
+By the small stream~
+        The path winds its way next to a small stream that is thrashing its
+way south.  The stream appears to be coming from the great mountain ahead.
+The sounds of nature calm your nerves as they bring pleasure to your ears.
+Still, you can't help but feel uneasy about the tall, brooding mountains
+that surround you.
+~
+40 8 1
+D0
+~
+~
+0 -1 7800
+D1
+The Arena.
+~
+~
+0 -1 4083
+D2
+The Arena.
+~
+~
+0 -1 4080
+Z3
+C-1
+S
+#4083
+At the mountians~
+        The valley ends abruptly at a large mountain.  To the West, a
+small stream splashes its way from a hole in the mountain face.  
+There must be an underground water system around here.  You feel a
+strange rumbling coming from the ground and from inside the mountain.  
+It could just be an underground waterfall, but you aren't sure.  
+The path leads up the mountain side and south to a lake.
+~
+40 8 1
+D0
+~
+~
+0 -1 6500
+D2
+~
+~
+0 -1 4081
+D3
+~
+~
+0 -1 4082
+D4
+~
+~
+0 -1 6500
+Z3
+C-1
+S
+$~

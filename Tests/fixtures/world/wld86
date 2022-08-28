@@ -1,0 +1,903 @@
+#8600
+{bo,YELLOW}Rough Landing{y}~
+Oof!  Your breath is knocked from your body as you hit the ground
+*HARD*  Miraculously nothing seems to be broken as you pick yourself
+up.  Looking around you can see that you are back on the desert planet,
+Tatoonie.
+~
+86 80 2
+D2
+~
+~
+0 -1 8601
+Z3
+C-1
+S
+#8601
+{bo,Y}Tatooine - Road to Jabba's{bo,y}~
+In the distance you can just barely make out a large cluster of
+buildings on the top of a barren hill.  The wind is beginning to
+pick up....it might be a good idea to find shelter soon.
+~
+86 80 1
+D2
+~
+~
+0 -1 8602
+Z3
+C-1
+S
+#8602
+{bo,Y}Gates to Jabba's Palace{bo,y}~
+You are standing before a large conical building.  Directly in front
+of you there is a huge set of gates, barred and locked.  A strange,
+human-like figure is guarding the door.
+~
+86 80 2
+D0
+~
+~
+0 -1 8601
+D2
+This large set of gates serves as the entrance to Jabba's palace.
+~
+gate~
+2 27620 8603
+Z3
+C-1
+S
+#8603
+{bo,BLACK}Jabba's Palace{bo,black}~
+These halls look more suited to a dungeon than a palace.  They
+are built from cold grey stone, with little decoration.  Brackets
+are set in the wall to support the torches that light up the
+corridor.  There is a door to your left.
+~
+86 8 0
+D0
+~
+gate~
+1 -1 8602
+D1
+You see a heavy wooden door.
+~
+door~
+1 -1 8604
+D2
+~
+~
+0 -1 8605
+Z3
+C-1
+S
+#8604
+{bo,BLACK} Barracks{bo,black}~
+EWWWW!  If you thought that the garbage chute back on the Death Star
+was the worst smell you have ever encountered, then this is certainly
+a close second!  this room is filled with bunks to house the palace's
+Gammorean Guards.  Clothing, rotting food, and bodily wastes are spread
+all throughout the room, and gruesome trophies decorate the walls.
+~
+86 8 0
+D3
+~
+door~
+1 -1 8603
+Z3
+C-1
+S
+#8605
+{bo,BLACK}Jabba's Palace{bo,black}~
+These halls look more suited to a dungeon than a palace.  They are
+built from cold grey stone, with little decoration.  Brackets are
+set in the wall to support the torches that light up the corridor.
+There is a door to your right, and Jabba's throne room is straight
+ahead.
+~
+86 8 0
+D0
+~
+~
+0 -1 8603
+D2
+A huge set of double doors bars your way to the throne room.
+~
+door~
+2 27621 8607
+D3
+You see a heavy wooden door.
+~
+door~
+1 -1 8606
+Z3
+C-1
+S
+#8606
+{b,M}Trophy Room{m}~
+You enter a dark room.  The only light illuminating the room is
+that from the hallway and the air vents leading to outside.  All
+around you there are various relics and trophies.  You can see some
+movement by the far wall.
+~
+86 9 0
+D1
+~
+door~
+1 -1 8605
+Z3
+C-1
+S
+#8607
+{bo,BLACK}Jabba's Throne Room{bo,black}~
+Uh oh.......now you're bantha fodder!  This room is packed full
+of low lifes, smugglers, and other such ilk, none of whom seem
+happy at your arrival.  At the back of the room there is a large
+"throne, if you can call it that, and on it sits Jabba the Hut!
+~
+86 264 0
+D0
+~
+door~
+1 -1 8605
+D5
+There is a large grate in the floor before Jabba's Throne.
+~
+grate~
+1 -1 8608
+T8608
+Z3
+C-1
+S
+#8608
+{bo,BLACK}Rancor Pit{bo,black}~
+Bones of long dead creatures are scattered about the floor of
+this rough cut cavern.  Most of the bones are human sized, but
+some are up to ten times larger!  Whatever it is that lives down
+here must have one hell of an appetite!
+~
+86 9 0
+D0
+~
+~
+0 -1 8609
+D1
+~
+~
+0 -1 8611
+D2
+~
+~
+0 -1 8610
+D3
+~
+~
+0 -1 8612
+Z3
+C-1
+S
+#8609
+{bo,BLACK}Rancor Pit{bo,black}~
+Bones of long dead creatures are scattered about the floor of
+this rough cut cavern.  Most of the bones are human sized, but
+some are up to ten times larger!  Whatever it is that lives down
+here must have one hell of an appetite!
+~
+86 9 0
+D2
+~
+~
+0 -1 8608
+Z3
+C-1
+S
+#8610
+{bo,BLACK}Rancor Pit{bo,black}~
+Bones of long dead creatures are scattered about the floor of
+this rough cut cavern.  Most of the bones are human sized, but
+some are up to ten times larger!  Whatever it is that lives down
+here must have one hell of an appetite!
+~
+86 9 0
+D0
+~
+~
+0 -1 8608
+Z3
+C-1
+S
+#8611
+{bo,BLACK}Rancor Pit{bo,black}~
+Bones of long dead creatures are scattered about the floor of
+this rough cut cavern.  Most of the bones are human sized, but
+some are up to ten times larger!  Whatever it is that lives down
+here must have one hell of an appetite!
+~
+86 9 0
+D3
+~
+~
+0 -1 8608
+Z3
+C-1
+S
+#8612
+{bo,BLACK}Rancor Pit{bo,black}~
+Bones of long dead creatures are scattered about the floor of
+this rough cut cavern.  Most of the bones are human sized, but
+some are up to ten times larger!  Whatever it is that lives down
+here must have one hell of an appetite!  You hear something up
+ahead......something big.....
+~
+86 9 0
+D1
+~
+~
+0 -1 8608
+D3
+~
+~
+0 -1 8613
+Z3
+C-1
+S
+#8613
+{bo,BLACK}Rancor Pit{bo,black}~
+Bones of long dead creatures are scattered about the floor of
+this rough cut cavern.  Most of the bones are human sized, but
+some are up to ten times larger!  Feeling a warm breeze from
+above you look up...........
+~
+86 9 0
+D1
+~
+~
+0 -1 8612
+Z3
+C-1
+S
+#8614
+{bo,G}Endor - Forest Floor{bo,g}~
+You are standing in the middle of a lush forest.  Huge trees
+shoot up all around you, but not enough to completely block out
+the sunshine from above.
+WHOOSH!    Some sort of vehicle whizzes by you at an incredible
+speed.  At the same time you notice a huge two-legged walker.
+Stormtroopers, rebels, and small furry creatures appear to be
+engaged in a heated battle.  Neither side seems to have an
+advantage.
+~
+86 0 3
+D1
+~
+~
+0 -1 8615
+D4
+~
+~
+0 -1 8620
+Z3
+C-1
+S
+#8615
+{bo,G}Endor - Forest Floor{bo,g}~
+You are standing in the middle of a lush forest.  Huge trees
+shoot up all around you, but not enough to completely block out
+the sunshine from above.
+WHOOSH!    Some sort of vehicle whizzes by you at an incredible
+speed.  At the same time you notice a huge two-legged walker.
+Stormtroopers, rebels, and small furry creatures appear to be
+engaged in a heated battle.  Neither side seems to have an
+advantage.
+~
+86 0 3
+D1
+~
+~
+0 -1 8616
+D3
+~
+~
+0 -1 8614
+D4
+~
+~
+0 -1 8621
+Z3
+C-1
+S
+#8616
+{bo,G}Endor - Forest Floor{bo,g}~
+You are standing in the middle of a lush forest.  Huge trees
+shoot up all around you, but not enough to completely block out
+the sunshine from above.
+WHOOSH!    Some sort of vehicle whizzes by you at an incredible
+speed.  At the same time you notice a huge two-legged walker.
+Stormtroopers, rebels, and small furry creatures appear to be
+engaged in a heated battle.  Neither side seems to have an
+advantage.
+~
+86 0 3
+D1
+~
+~
+0 -1 8617
+D3
+~
+~
+0 -1 8615
+D4
+~
+~
+0 -1 8630
+Z3
+C-1
+S
+#8617
+{bo,G}Endor - Forest Floor{bo,g}~
+You are standing in the middle of a lush forest.  Huge trees
+shoot up all around you, but not enough to completely block out
+the sunshine from above.
+WHOOSH!    Some sort of vehicle whizzes by you at an incredible
+speed.  At the same time you notice a huge two-legged walker.
+Stormtroopers, rebels, and small furry creatures appear to be
+engaged in a heated battle.  Neither side seems to have an
+advantage.
+~
+86 0 3
+D1
+~
+~
+0 -1 8618
+D3
+~
+~
+0 -1 8616
+D4
+~
+~
+0 -1 8628
+Z3
+C-1
+S
+#8618
+{bo,G}Endor - Forest Floor{bo,g}~
+You are standing in the middle of a lush forest.  Huge trees
+shoot up all around you, but not enough to completely block out
+the sunshine from above.
+WHOOSH!    Some sort of vehicle whizzes by you at an incredible
+speed.  At the same time you notice a huge two-legged walker.
+Stormtroopers, rebels, and small furry creatures appear to be
+engaged in a heated battle.  Neither side seems to have an
+advantage.
+~
+86 0 3
+D1
+~
+~
+0 -1 8619
+D3
+~
+~
+0 -1 8617
+D4
+~
+~
+0 -1 8629
+Z3
+C-1
+S
+#8619
+{bo,G}Endor - Shield Generator{bo,g}~
+This is a small, heavily fortified bunker.  Destroying this will
+permenantly shut down the force field that is protecting the new
+Death Star.....not that you particularily care whether or not the
+Empire is thwarted.  An Imperial Commander is sitting at the back
+of the bunker staring at a terminal, he hasn't noticed you yet.
+~
+86 8 0
+D3
+~
+~
+0 -1 8618
+Z3
+C-1
+S
+#8620
+{bo,G}Endor - Ewok Village{bo,g}~
+Don't look down.....just keep telling yourself that and you'll be
+okay.  The narrow bridges connecting the different trees together
+doesn't look very safe, but unless you want to wade through piles
+of imperial troops it looks like this is your only choice.  A few
+trees seem to have huts built into them, maybe you should go examine
+them.
+~
+86 0 3
+D1
+~
+~
+0 -1 8621
+D5
+~
+~
+0 -1 8614
+Z3
+C-1
+S
+#8621
+{bo,G}Endor - Ewok Village{bo,g}~
+Don't look down.....just keep telling yourself that and you'll be
+okay.  The narrow bridges connecting the different trees together
+doesn't look very safe, but unless you want to wade through piles
+of imperial troops it looks like this is your only choice.  A few
+trees seem to have huts built into them, maybe you should go examine
+them.
+~
+86 0 3
+D3
+~
+~
+0 -1 8620
+D4
+~
+~
+0 -1 8622
+D5
+~
+~
+0 -1 8615
+Z3
+C-1
+S
+#8622
+{bo,G}Endor - Ewok Village{bo,g}~
+Don't look down.....just keep telling yourself that and you'll be
+okay.  The narrow bridges connecting the different trees together
+doesn't look very safe, but unless you want to wade through piles
+of imperial troops it looks like this is your only choice.  A few
+trees seem to have huts built into them, maybe you should go examine
+them.
+~
+86 0 3
+D1
+~
+~
+0 -1 8624
+D4
+~
+~
+0 -1 8623
+D5
+~
+~
+0 -1 8621
+Z3
+C-1
+S
+#8623
+{bo,G}Endor - Ewok Village{bo,g}~
+Don't look down.....just keep telling yourself that and you'll be
+okay.  The narrow bridges connecting the different trees together
+don't look very safe, but unless you want to wade through piles
+of imperial troops t looks like this is your only choice.  There
+is a hut in front of you.
+~
+86 0 3
+D3
+The hut is made entirely of wood.
+~
+wood~
+2 27627 8632
+D5
+~
+~
+0 -1 8622
+Z3
+C-1
+S
+#8624
+{bo,G}Endor - Ewok Village{bo,g}~
+Don't look down.....just keep telling yourself that and you'll be
+okay.  The narrow bridges connecting the different trees together
+doesn't look very safe, but unless you want to wade through piles
+of imperial troops it looks like this is your only choice.  A few
+trees seem to have huts built into them, maybe you should go examine
+them.
+~
+86 0 3
+D1
+~
+~
+0 -1 8625
+D3
+~
+~
+0 -1 8622
+D5
+~
+~
+0 -1 8630
+Z3
+C-1
+S
+#8625
+{bo,G}Endor - Ewok Village{bo,g}~
+Don't look down.....just keep telling yourself that and you'll be
+okay.  The narrow bridges connecting the different trees together
+doesn't look very safe, but unless you want to wade through piles
+of imperial troops it looks like this is your only choice.  A few
+trees seem to have huts built into them, maybe you should go examine
+them.
+~
+86 0 3
+D1
+~
+~
+0 -1 8626
+D3
+~
+~
+0 -1 8624
+D4
+~
+~
+0 -1 8627
+Z3
+C-1
+S
+#8626
+{bo,G}Endor - Ewok Village{bo,g}~
+Don't look down.....just keep telling yourself that and you'll be
+okay.  The narrow bridges connecting the different trees together
+doesn't look very safe, but unless you want to wade through piles
+of imperial troops it looks like this is your only choice.  A few
+trees seem to have huts built into them, maybe you should go examine
+them.
+~
+86 0 3
+D3
+~
+~
+0 -1 8625
+D5
+~
+~
+0 -1 8628
+Z3
+C-1
+S
+#8627
+{bo,G}Endor - Ewok Village{bo,g}~
+Don't look down.....just keep telling yourself that and you'll be
+okay.  The narrow bridges connecting the different trees together
+don't look very safe, but unless you want to wade through piles
+of imperial troops t looks like this is your only choice.  There
+is a hut in front of you.
+~
+86 0 3
+D1
+The hut is made entirely of wood.
+~
+wood~
+2 27627 8633
+D5
+~
+~
+0 -1 8625
+Z3
+C-1
+S
+#8628
+{bo,G}Endor - Ewok Village{bo,g}~
+Don't look down.....just keep telling yourself that and you'll be
+okay.  The narrow bridges connecting the different trees together
+doesn't look very safe, but unless you want to wade through piles
+of imperial troops it looks like this is your only choice.  A few
+trees seem to have huts built into them, maybe you should go examine
+them.
+~
+86 0 3
+D1
+~
+~
+0 -1 8629
+D4
+~
+~
+0 -1 8626
+D5
+~
+~
+0 -1 8617
+Z3
+C-1
+S
+#8629
+{bo,G}Endor - Ewok Village{bo,g}~
+Don't look down.....just keep telling yourself that and you'll be
+okay.  The narrow bridges connecting the different trees together
+doesn't look very safe, but unless you want to wade through piles
+of imperial troops it looks like this is your only choice.  A few
+trees seem to have huts built into them, maybe you should go examine
+them.
+~
+86 0 3
+D3
+~
+~
+0 -1 8628
+D5
+~
+~
+0 -1 8618
+Z3
+C-1
+S
+#8630
+{bo,G}Endor - Ewok Village{bo,g}~
+Don't look down.....just keep telling yourself that and you'll be
+okay.  The narrow bridges connecting the different trees together
+don't look very safe, but unless you want to wade through piles
+of imperial troops t looks like this is your only choice.  There
+is a hut in front of you.
+~
+86 0 3
+D3
+The hut is made entirely of wood.
+~
+wood~
+2 27627 8631
+D4
+~
+~
+0 -1 8624
+D5
+~
+~
+0 -1 8616
+Z3
+C-1
+S
+#8631
+{bo,G}Endor - Ewok Hut{bo,g}~
+You enter a small wooden hut and look around.  There are two
+windows, one on either side of the room, and a skylight.  The
+furniture is about half the size of what you are used to, but
+appears incredibly sturdy.  The table is covered with assorted
+nuts and fruits.
+~
+86 8 0
+D1
+~
+wood~
+1 -1 8630
+Z3
+C-1
+S
+#8632
+{bo,G}Endor - Ewok Hut{bo,g}~
+You enter a small wooden hut and look around.  There are two
+windows, one on either side of the room, and a skylight.  The
+furniture is about half the size of what you are used to, but
+appears incredibly sturdy.  The table is covered with assorted
+nuts and fruits.
+~
+86 8 0
+D1
+~
+wood~
+1 -1 8623
+Z3
+C-1
+S
+#8633
+{bo,G}Endor - Ewok Hut{bo,g}~
+You enter a small wooden hut and look around.  There are two
+windows, one on either side of the room, and a skylight.  The
+furniture is about half the size of what you are used to, but
+appears incredibly sturdy.  The table is covered with assorted
+nuts and fruits.
+~
+86 8 0
+D3
+~
+wood~
+1 -1 8627
+Z3
+C-1
+S
+#8634
+{bo,B}Death Star{BO,W} - {bo,W}Elevator{bo,w}~
+You step out of the portal confidently to find yourself in a
+small enclosed room.  You have the sensation of moving upwards at
+a high speed.  There is a panel with dozens of brightly glowing
+buttons imbedded into one of the walls.  Suddenly the room comes
+to a stop and the door slides open.........
+~
+86 8 0
+D0
+~
+~
+0 -1 8635
+Z3
+C-1
+S
+#8635
+{bo,B}Death Star{BO,W} - {bo,W}Hallway{bo,w}~
+You are in a large, imposing corridor.  The walls are plain
+metallic grey with no decoration at all.  On either side of the
+hall you see a red clad figure.
+~
+86 8 0
+D0
+~
+~
+0 -1 8636
+Z3
+C-1
+S
+#8636
+{bo,B}Death Star{BO,W} - {bo,W}Hallway{bo,w}~
+You are in a large, imposing corridor.  The walls are plain
+metallic grey with no decoration at all.  On either side of the
+hall you see a red clad figure.
+~
+86 8 0
+D0
+~
+~
+0 -1 8637
+D2
+~
+~
+0 -1 8635
+Z3
+C-1
+S
+#8637
+{bo,B}Death Star{BO,W} - {bo,W}Hallway{bo,w}~
+You are in a large, imposing corridor.  The walls are plain
+metallic grey with no decoration at all.  On either side of the
+hall you see a red clad figure.
+~
+86 8 0
+D0
+Are you prepared to pass through the final door and challenge the
+Emperor?
+~
+door~
+2 27628 8638
+D2
+~
+~
+0 -1 8636
+Z3
+C-1
+S
+#8638
+{bo,B}Death Star{BO,W} - {bo,W}Throne Room{bo,w}~
+As you enter this room you are overwhelmed by it's immensity.
+There is a throne at the back of the room set against a large
+circular window.  Gazing out the window, you can see millions
+upon millions of stars lighting up space.  There are three
+figures in this room.
+~
+86 8 0
+D0
+~
+~
+0 -1 8639
+T8641
+Z3
+C-1
+S
+#8639
+{bo,B}Death Star{BO,W} - {bo,W}Throne Room{bo,w}~
+With Darth Vadar's blood still fresh on your sword you stride
+forward confidently.  The Emperor rises from his throne in one
+fluid motion........jump him....now!
+~
+86 8 0
+D0
+~
+~
+0 -1 8640
+T8641
+Z3
+C-1
+S
+#8640
+{bo,B}Death Star{BO,W} - {bo,W}Throne Room{bo,w}~
+Both Vadar and the Emperor are vanquished, and with them the core
+of the empire's power.  Luke Skywalker is gazing out the large
+window into space.  As you approach he turns to congradulate you
+on a job well done.........
+~
+86 4210728 0
+D0
+~
+~
+0 -1 27695
+D2
+~
+~
+0 -1 8639
+T8641
+Z3
+C-1
+S
+#8641
+{bo,BLACK}Deep Space{bo,black}~
+
+
+
+
+~
+86 0 8
+D5
+~
+~
+0 -1 3001
+Z3
+C-1
+S
+#8642
+Rahvin's Storage Room~
+
+     This is Rahvin's little room where he keeps all sorts of nifty little
+goodies.  There are shelves lining every wall packed full of odds and ends.
+Items that catch your interest right away are a stuffed whale, a 286 Compaq
+computer, a stack of Alanis Morissette CD's, and Forge's severed head.
+
+~
+86 1376264 0
+M55
+Z3
+C1
+S
+#8643
+Kary's Bedroom~
+
+    As you enter this room you feel a warm sensation pass through your body.
+You're not sure what it is, but your mind is filled with images of peace,
+tranquility, and romance.  A large bed with white, lacey pillows dominates
+one side of the room.....wouldn't it be nice to lie down and rest for a while
+without having to worry about the troubles of the outside world?  Directly
+across from the bed there is a fireplace set into the wall.  The embers from
+the last fire are still red, and a little heat radiates from them.  Above
+the fireplace on a mantle, two candles sit burning.  The soft glow they give
+off serves to illuminate the entire room.  Off in the far corner you can see
+and ordinate vase filled with more wildflowers than you every knew existed.
+Their scent fills the room, and brings images of beautiful hills, valleys,
+and streams to your mind.  This is the most perfect room you could ever
+imagine.
+
+~
+86 24712 0
+Z3
+C-1
+S
+#8644
+Mirage's Paradise~
+
+As you walk into this room you feel like you have been transported
+to another world.  The beauty of this place awes you, and you are left
+speechless by the sights that unfold before your eyes.
+
+A sparkling waterfall dominates the back of this room, filling your
+ears with the merry tinkling of thousands of water drops.  At the base of
+the waterfall there is a small, clear pool.  It is not very deep, only
+coming up to your waist at the deepest point, directly below the waterfall.
+Small waterlilies float in the pool, you can smell their sweet fragrance
+as it sneaks into your nose.  All around the pool tiny animals are gathered.
+A small chipmunk scurries about, searching for tiny berries.  A spring
+warbler sings it's joyous song, and fills your heart with hope.
+
+You wish that you could spend an eternity here, breathing in the
+beauty of this little world.....
+
+~
+86 8200 0
+Z3
+C-1
+S
+$~

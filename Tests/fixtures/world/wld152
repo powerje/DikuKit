@@ -1,0 +1,2529 @@
+#15200
+{YELLOW,BOLD}Cheezwiz's Cheezwiz Factory {RED,red}~
+{RED,red}{YELLOW}
+This is a rather ordinary factory (however ordianry those get...)
+Tubes of translucent yellow material run every whichway in this mess of
+wiring, machinery and  and rejected zone blueprints
+As you look around, you see a desk with a sign on it that reads:
+If i'm not here, I'm obviously somewhere else
+  
+{YELLOW,BOLD}Or am I? MuAhHHahAAhahAHaHAahAHha!
+{bold}
+~
+152 65536 0
+D0
+~
+door~
+0 -1 10605
+D5
+This plug is to drain the excess material from the ground
+Open it if you {RED,BOLD}DARE!!! MUAHAHAHAH!!!
+~
+plug~
+1 -1 15201
+M51
+X1
+Z3
+C0
+S
+#15201
+{GREEN,BOLD}An {GREEN,green}{GREEN}Eerie {GREEN,BOLD}Clearing{RED,red}~
+{G}
+  You don't like the look of this place.  The sky is overcast
+  and you hear an occasional crow cawing.  The clearing itself
+  also seems out of place somehow.  You can't seem to figure
+  out what exactly it is about this place that gives you the
+  creeps.  Maybe it's the TV sitting in the center of the
+  clearing.  How weird...
+{g}
+~
+152 65668 2
+D0
+~
+~
+0 -1 49712
+E
+tv television~
+
+{YELLOW,BOLD}                           THE SIMPSONS
+
+{RED,BOLD}WARNING: {RED,red}Some material in this area may be unsuitable for mudders
+
+of dual class and below.  If you plan on entering, even if you are
+
+of advanced class, your sanity still remains questionable.  Have fun!
+
+~
+Z3
+C-1
+S
+#15202
+{BLUE,BOLD}Entering Springfield {RED,red}~
+{YELLOW,BOLD}
+                  _________   _     _    ______
+                 (___   ___) | |   | |  | _____)
+                     | |     | )___| )  | |___
+                     | |     (  ____ )  |  ___)
+                     | |     | |   ( |  | |____
+                     |_|     |_)   |_|  |______)
+   ____    _   __    __   ____    ___     ___    __    _    ___
+  / ___\  | ) |  \  /  | |  _ \  / __\   / _ \  |  \  | )  / __\
+ ( (___   ( | |   \/   ) | |_) )( (__   / / \ \ |   \ ( | ( (__
+  \___ \  | ) | |\  /| | ( ___/  \__ \ ( (   ) )| |\ \| |  \__ \
+  ____) ) ( | | | \/ | ) | )      __) ) \ \_/ / ( | \   |    _) )
+ (_____/  |_) |_)    (_| |_)     (___/   \___/  |_)  \__)  (___/
+{GREEN,BOLD}
+You find yourself standing on a street leading into a town.
+You notice that the color of the sky is wrong; in fact, every
+color is wrong! Youve been trapped in a prime time cartoon! Oh no!{WHITE}
+~
+152 16777220 1
+D0
+~
+~
+0 -1 15203
+Z3
+C-1
+S
+#15203
+{MAGENTA,BOLD}A Street in Springfield{RED,red}~
+{CYAN,BOLD}This is probably one of the worst maintained streets on
+this side of the Mississippi (Whatever that side may be..)
+Potholes, trash and car parts cover almost every square inch!
+~
+152 0 1
+D0
+~
+~
+0 -1 15204
+D2
+~
+~
+0 -1 15202
+Z3
+C-1
+S
+#15204
+{MAGENTA,BOLD}A Street in Springfield{RED,red}~
+{CYAN,BOLD}
+This is probably one of the worst maintained streets on
+this side of the Mississippi (Whatever that side may be..)
+Potholes, trash and car parts cover almost every square inch!
+To the west, you can see a school
+~
+152 0 1
+D0
+~
+~
+0 -1 15228
+D2
+~
+~
+0 -1 15203
+D3
+~
+~
+0 -1 15205
+Z3
+C-1
+S
+#15205
+{WHITE,BOLD}Path to {RED}Springfield {WHITE}Elementary School{RED,red}~
+{RED,red}{CYAN}You stand before a large, yellow, dilapidated building.  An
+American flag hangs limply by a small flagpole by the entrance, and
+garbage is littered across the floor.  Over the doors to the
+institution are grim letters spelling the word{RED,BOLD} SCHOOL.
+{RED,red}{CYAN}In the distance, you can hear kids laughing and moaning,
+and the occasional scream of a staff member.
+Happy Hunting!{RED,red}
+~
+152 4 1
+D1
+~
+~
+0 -1 15204
+D3
+~
+~
+0 -1 15206
+Z3
+C-1
+S
+#15206
+{WHITE,BOLD}Entering Springfield Elementary Schoool{RED,red}~
+{CYAN,cyan}{CYAN}You are standing before the doors to this building.  The
+condition is even worse from a closer view.  You can make out broken
+windows, grafitti and the occasional homemade bomb strewn around
+carelessly.  By the looks of things, it coud almost be mistaken for a jail.
+The kids are moaning inside, but they deserve this, those little twerps!{RED,red}
+~
+152 0 1
+D1
+~
+~
+0 -1 15205
+D3
+~
+~
+0 -1 15207
+Z3
+C-1
+S
+#15207
+{RED,red}{RED}Inside the School{RED,BOLD}...{RED,red}~
+{RED,BOLD}Hmm.  Maybe coming in this building was not such a good idea.  The lighting
+is awful, as is the air.  You can hardly breathe.  Over the intercom,
+you can hear the voice of the principal, {WHITE}"TO YOUR CLASSROOMS CHILDREN!!"
+{RED}It trails off in maniacal cackling.{RED,red}
+~
+152 1053 0
+D1
+~
+~
+0 -1 15206
+D3
+~
+~
+0 -1 15208
+Z3
+C-1
+S
+#15208
+{BLUE,BOLD}A School Hallway{RED,red}~
+{MAGENTA,BOLD}You are standing in the school hallway.  Beat up lockers
+line either sides of the hall, and doors to various classrooms
+are on both sides also.{RED,red}
+~
+152 1049 0
+D0
+~
+~
+0 -1 15209
+D1
+~
+~
+0 -1 15207
+D2
+~
+~
+0 -1 15212
+Z3
+C-1
+S
+#15209
+{BLUE,BOLD}A School Hallway{RED,red}~
+{MAGENTA,BOLD}You are standing in the school hallway.  Beat up lockers
+line either sides of the hall, and doors to various classrooms
+are on both sides also.{RED,red}
+~
+152 1049 0
+D0
+~
+~
+0 -1 15210
+D1
+A door to a classroom.  Not too different from any other...
+~
+door~
+2 15202 15226
+D2
+~
+~
+0 -1 15208
+D3
+a door to a classroom.  Open if you dare..
+~
+door~
+1 -1 15219
+Z3
+C-1
+S
+#15210
+{BLUE,BOLD}A School Hallway{RED,red}~
+{MAGENTA,BOLD}You are standing in the school hallway.  Beat up lockers
+line either sides of the hall, and doors to various classrooms
+are on both sides also.{RED,red}
+~
+152 1049 0
+D0
+~
+~
+0 -1 15211
+D1
+a door to a classroom.  Open if you dare..
+~
+door~
+1 -1 15218
+D2
+~
+~
+0 -1 15209
+D3
+~
+door~
+1 -1 15217
+Z3
+C-1
+S
+#15211
+{BLUE,BOLD}End of the Hallway{RED,red}~
+{CYAN}The hallway comes to a stop at this point.  To the east and west you
+can see doors to classrooms, and to the north you can see.. oh no..
+{CYAN,BOLD}THE PRINCIPAL'S OFFICE!!! AAAUUUGGGHHH!!!
+~
+152 1049 0
+D0
+A huge door with the imposing letters
+"Seymour Skinner" inscribed upon it
+~
+door~
+2 15203 15223
+D1
+a door to a classroom.  Open if you dare..
+~
+door~
+1 -1 15216
+D2
+~
+~
+0 -1 15210
+D3
+A door to a classroom. Open if you dare..
+~
+door~
+1 -1 15215
+D5
+Hmm.  There seems to be a trapdoor here, half-hidden by
+the dust and grime on the floor
+~
+trapdoor~
+2 15213 15269
+Z3
+C-1
+S
+#15212
+{BLUE,BOLD}A School Hallway{RED,red}~
+{MAGENTA,BOLD}You are standing in the school hallway.  Beat up lockers
+line either sides of the hall, and doors to various classrooms
+are on both sides also.{RED,red}
+~
+152 1049 0
+D0
+~
+~
+0 -1 15208
+D1
+a door to a classroom.  Open if you dare..
+~
+door~
+1 -1 15220
+D2
+~
+~
+0 -1 15213
+D3
+a door to a classroom.  Open if you dare..
+~
+door~
+1 -1 15221
+Z3
+C-1
+S
+#15213
+{BLUE,BOLD}A School Hallway{RED,red}~
+{MAGENTA,BOLD}You are standing in the school hallway.  Beat up lockers
+line either sides of the hall, and doors to various classrooms
+are on both sides also.{RED,red}
+~
+152 1049 0
+D0
+~
+~
+0 -1 15212
+D1
+A door to another classroom.  You must be tired reading this.
+~
+door~
+1 -1 15225
+D2
+~
+~
+0 -1 15214
+D3
+a door to a classroom.  Open if you dare..
+~
+door~
+1 -1 15222
+Z3
+C-1
+S
+#15214
+{BLUE,BOLD}End of the Hallway{RED,red}~
+The hallway ends here. To the east and west you can see the boy's and girl's
+bathrooms. The lights overhead flicker on and off and you can hear distant
+screams of anguish. The teachers have been busy lately! To the south there
+is a glass door, but it is so dirty you can only make out some kind of
+playground through it. Obviously, the door is locked!! To the west there is
+a sealed off door with a yellow sign.
+~
+152 1049 0
+D0
+~
+~
+0 -1 15213
+D1
+The door to the boys bathroom.  Just looking at it makes you sick!
+~
+door~
+2 15204 15224
+D2
+There is a glass door to the south, but it is so
+grimy and dirty that you can't make out much besides
+the fact that there is some sort of playground to the
+south.  The door is obviously locked, to the dismay
+of all the ugly students here.
+~
+glass~
+2 15205 15227
+E
+sign west~
+
+OUT OF ORDER
+A few inches above it you spy a plaque that says "Girls"
+Doesn't seem like its gonna change anytime soon
+
+~
+E
+sign~
+           OUT OF ORDER
+
+A few inches above it you spy a plaque that says "Girls"
+Doesn't seem like its gonna change anytime soon
+~
+E
+signef~
+l at sign
+#@
+~
+E
+w~
+OUT OF ORDER.  
+
+Above it, you see a plaque that reads 'Girls'
+Doesn't seem like its gonna change anytime soon
+~
+E
+west~
+test
+~
+E
+w hi~
+eheh
+~
+E
+w we wes west~
+You wee a locked door that leads to what once was the girl's 
+bathroom.  A yellowed sign that reads "out of order' hangs on it.  Doesn't look like its going to change anytime
+soon..
+~
+Z3
+C-1
+S
+#15215
+{GREEN}Inside a classroom{RED,red}~
+{Y}The children in this classroom are generally very ugly and rowdy. They
+seem amateurishly drawn by a cartoonist who didn't know what he was doing.
+He probably didn't. The teacher is simultaneously shouting at the students
+and writing on the chalkboard.{y}
+~
+152 1033 0
+D1
+~
+door~
+0 -1 15211
+E
+board chalkboard~
+.
+           Blue       
+    Green   |  Purple    
+         \  |  /
+          > | <
+         /  |  \
+    Yellow  |  Red
+         Orange
+
+~
+Z3
+C-1
+S
+#15216
+{GREEN}Inside a classroom{RED,red}~
+{Y}The children in this classroom are generally very ugly and rowdy. They
+seem amateurishly drawn by a cartoonist who didn't know what he was doing.
+He probably didn't. The teacher is simultaneously shouting at the students
+and writing on the chalkboard.{y}
+~
+152 1033 0
+D3
+~
+door~
+0 -1 15211
+Z3
+C-1
+S
+#15217
+{GREEN}Inside a classroom{RED,red}~
+{Y}The children in this classroom are generally very ugly and rowdy. They
+seem amateurishly drawn by a cartoonist who didn't know what he was doing.
+He probably didn't. The teacher is simultaneously shouting at the students
+and writing on the chalkboard.{y}
+~
+152 1033 0
+D1
+~
+door~
+1 -1 15210
+Z3
+C-1
+S
+#15218
+{GREEN}Inside a classroom{RED,red}~
+{Y}The children in this classroom are generally very ugly and rowdy. They
+seem amateurishly drawn by a cartoonist who didn't know what he was doing.
+He probably didn't. The teacher is simultaneously shouting at the students
+and writing on the chalkboard.{y}
+~
+152 1033 0
+D3
+~
+door~
+1 -1 15210
+Z3
+C-1
+S
+#15219
+{GREEN}Inside a classroom{RED,red}~
+{Y}The children in this classroom are generally very ugly and rowdy. They
+seem amateurishly drawn by a cartoonist who didn't know what he was doing.
+He probably didn't. The teacher is simultaneously shouting at the students
+and writing on the chalkboard.{y}
+~
+152 1033 0
+D1
+~
+door~
+1 -1 15209
+Z3
+C-1
+S
+#15220
+{GREEN}Inside a classroom{RED,red}~
+{Y}The children in this classroom are generally very ugly and rowdy. They
+seem amateurishly drawn by a cartoonist who didn't know what he was doing.
+He probably didn't. The teacher is simultaneously shouting at the students
+and writing on the chalkboard.{y}
+~
+152 1033 0
+D3
+~
+door~
+1 -1 15212
+E
+chalk chalkboard~
+
+W U N
+ \|/
+ /|\
+S D E
+~
+E
+board chalkboard~
+...
+W U N
+ \|/
+ /|\
+S D E
+~
+E
+boartd chalkboard boardasdfasdfasdf~
+~
+Z3
+C-1
+S
+#15221
+{GREEN}Inside a classroom{RED,red}~
+{Y}The children in this classroom are generally very ugly and rowdy. They
+seem amateurishly drawn by a cartoonist who didn't know what he was doing.
+He probably didn't. The teacher is simultaneously shouting at the students
+and writing on the chalkboard.{y}
+~
+152 1033 0
+D1
+~
+door~
+1 -1 15212
+Z3
+C-1
+S
+#15222
+{GREEN}Inside a classroom{RED,red}~
+{Y}The children in this classroom are generally very ugly and rowdy. They
+seem amateurishly drawn by a cartoonist who didn't know what he was doing.
+He probably didn't. The teacher is simultaneously shouting at the students
+and writing on the chalkboard.{y}
+~
+152 1033 0
+D1
+~
+door~
+1 -1 15213
+Z3
+C-1
+S
+#15223
+{RED,BOLD}Principal {GREEN}Skinner's {RED}Office{RED,red}~
+{RED,BOLD}You are in principal Skinner's office.  He glares at you like you
+were a kid sent to his office for, well.. what kids do to
+get sent here.  I think you should kill him and put both of you
+out of your miseries
+~
+152 1032 0
+D2
+~
+door~
+1 -1 15211
+Z3
+C-1
+S
+#15224
+{BLUE,BOLD}Boy's Bathroom{RED,red}~
+{WHITE,BOLD}Yuck! What a mess!! This room really reeks!  There is no
+toilet paper in the dispensers, dirty paper towels littering the floor and
+the toilets, fecal matter and all are overflowing!
+Nausea city, here you come!
+~
+152 1033 0
+D3
+~
+door~
+1 -1 15214
+Z3
+C2
+S
+#15225
+{RED,BOLD}Mrs. {RED,red}Krabappel's {RED,BOLD}Fourth Grade Class{RED,red}~
+{bold}{GREEN}Another boring classroom not unlike the others in this pitiful school.
+You notice two empty desks with the name tags 'Bart' and 'Nelson.'
+Outside you can see a beautiful false-blue sky.  *Sigh*
+What a sorry way to spend such a nice day.
+~
+152 1032 0
+D3
+~
+door~
+1 -1 15213
+Z3
+C-1
+S
+#15226
+{GREEN,BOLD}Mrs. {WHITE}Hoover's {GREEN}Second Grade Class{RED,red}~
+{YELLOW,BOLD}This is one of the quietest classrooms you have ever seen.  The teacher
+conducts the class rather nicely, and the students seem rather content
+Too content...
+~
+152 1036 0
+D3
+~
+door~
+1 -1 15209
+Z3
+C-1
+S
+#15227
+{GREEN,BOLD}Playground{RED,red}~
+{GREEN}You stand in the middle of a large field.  To the north
+you can see the school.  Various play structures are
+scattered throughout the room, as are spray paint bottles and trash.
+Not being recess, the playground should be deserted, but..
+~
+152 1028 2
+D0
+~
+glass~
+1 -1 15214
+Z3
+C-1
+S
+#15228
+{MAGENTA,BOLD}A Street in Springfield{RED,red}~
+{CYAN,BOLD}This is probably one of the worst maintained streets on
+this side of the Mississippi (Whatever that side may be..)
+Potholes, trash and car parts cover almost every square inch!
+The street ends to the north, where you see a convenience store.  To the
+east lies a residential district
+~
+152 0 1
+D0
+~
+~
+0 -1 15229
+D1
+~
+~
+0 -1 15230
+D2
+~
+~
+0 -1 15204
+Z3
+C-1
+S
+#15229
+{CYAN,BOLD}Kwik{GREEN}-E-{CYAN}Mart{RED,red}~
+{RED,BOLD}You are standing in a convenience store.  The shelves are
+covered with expired foods and 70s records.
+The ground is covered with spent cartridges.  You wonder why.
+The man attending the counter asks you "May I help you"
+in an Indian accent
+~
+152 16392 0
+D0
+There appears to be some kind of door here.  A putrid aroma
+hangs in its vincinity, and you don't think you'd want
+to go in, even if you knew where to get the key...
+~
+door~
+2 15211 15267
+D2
+~
+~
+0 -1 15228
+Z3
+C-1
+S
+#15230
+{GREEN,green}{GREEN}Evergreen {GREEN,BOLD}Terrace{RED,red}~
+{MAGENTA,BOLD}You are on a narrow east to west street.  Houses line
+each side of the street and birds chirp overhead.  The false color scheme
+is driving you crazy! Maybe killing something will help
+~
+152 0 1
+D1
+~
+~
+0 -1 15231
+D3
+~
+~
+0 -1 15228
+Z3
+C-1
+S
+#15231
+{GREEN,green}{GREEN}Evergreen {GREEN,BOLD}Terrace{RED,red}~
+{MAGENTA,BOLD}You are on a narrow east to west street.  Houses line
+each side of the street and birds chirp overhead.  The false color scheme
+is driving you crazy! Maybe killing something will help
+~
+152 0 1
+D1
+~
+~
+0 -1 15232
+D3
+~
+~
+0 -1 15230
+Z3
+C-1
+S
+#15232
+{GREEN,green}{GREEN}Evergreen {GREEN,BOLD}Terrace{RED,red}~
+{C}Hmm.. you spy a rather uninteresting house to the north. You seem strangely
+attracted to it. You begin moving towards it, picking up speed. This is
+strange.. then you realize why: You've stepped on a stray skateboard and
+slide away!!{c}
+~
+152 1048580 1
+D0
+~
+~
+0 -1 15233
+Z3
+C-1
+S
+#15233
+{BLUE,BOLD}Path to House{RED,red}~
+{bold}{YELLOW,BOLD}Ooooffff!! You land with a thud as the skateboard rolls back onto
+the street, ready for its next victim.  You get up and
+brush yourself off.  You can see a normal suburban home to the
+North.  Better go see if anyone's home!{bold}
+~
+152 0 1
+D0
+~
+~
+0 -1 15234
+D2
+~
+~
+0 -1 15244
+Z3
+C-1
+S
+#15234
+{WHITE,BOLD}Entrance to the {YELLOW}H{GREEN}o{YELLOW}u{GREEN}s{YELLOW}e{bold}~
+{GREEN,BOLD}You stand before the door to the house.  The mailbox has the
+word {YELLOW}"Simpsons" {GREEN}printed on it.  Inside you can
+hear voices, so apparently someone is home.  Maybe you should knock, or
+maybe you should just break down the door{bold}
+~
+152 4 1
+D0
+~
+simpsons~
+1 -1 15235
+D2
+~
+~
+0 -1 15244
+Z3
+C-1
+S
+#15235
+{YELLOW,BOLD}Foyer{bold}~
+{BLU}{BO}You stand in the foyer of the house. A staircase leads to the second
+floor. To the west you can see a living room and to the east you can
+hear a woman humming in what appears to be a kitchen.{blu}
+~
+152 8 0
+D1
+~
+~
+0 -1 15237
+D2
+~
+simpsons~
+1 -1 15234
+D3
+~
+~
+0 -1 15236
+D4
+~
+~
+0 -1 15239
+Z3
+C-1
+S
+#15236
+{CYAN,BOLD}Living {BLUE}Room{RED,red}~
+{RED,BOLD}This room is a rather spacious living room.  You can see empty
+beer cans lying around a well-used couch.  The TV is on, although
+nobody is watching.  In it you see a deformed mouse beating up an
+equally deformed cat.  What a show!{RED,red}
+~
+152 8 0
+D1
+~
+~
+0 -1 15235
+Z3
+C-1
+S
+#15237
+{BLUE,BOLD}Dining {GREEN}Room{bold}~
+{CYAN,BOLD}There is nothing very spectacular about this room.  A
+wooden table stands in the middle of it, surrounded
+with matching chairs. (well duh..) Better leave
+before its mundaneness drives you insane.{bold}
+~
+152 8 0
+D0
+From the smell of things, it seems to be a door to
+the kitchen or something.
+~
+door~
+2 15206 15238
+D3
+~
+~
+0 -1 15235
+Z3
+C-1
+S
+#15238
+{RED,BOLD}The Kitchen{RED,red}~
+You enter a neat and tidy kitchen.  Atop the
+stove pots whistle gently, and there are no dirty dishes in the sink.
+You see a woman with a 3 foot tall blue beehive looking at
+you impassively, the least bit disturbed that you have entered her house.
+You have entered the domain of Marge Simpson.  Prepare to..
+~
+152 156 0
+D2
+~
+door~
+1 -1 15237
+Z3
+C-1
+S
+#15239
+{GREEN,BOLD}Second Floor Hallway{RED,red}~
+{M}{BO}You stand in the hallway of the second floor of the house. Ugly
+portraits and painting line the walls. In various sirections you can see
+bedrooms. You can go back down to the foyer to safety.. or you can take
+your chances up here.{m}
+~
+152 8 0
+D0
+The door to the master bedroom.
+~
+door~
+2 15207 15241
+D3
+~
+~
+0 -1 15240
+D5
+~
+~
+0 -1 15235
+Z3
+C-1
+S
+#15240
+{GREEN,BOLD}Second Floor Hallway{RED,red}~
+{MAGENTA,BOLD}You stand in the hallway of the second floor of the house.  Ugly
+portraits and paintings line the walls.  In various directions
+you can see bedrooms.
+~
+152 8 0
+D0
+~
+~
+0 -1 15242
+D1
+~
+~
+0 -1 15239
+D2
+~
+~
+0 -1 15243
+Z3
+C-1
+S
+#15241
+{YELLOW,BOLD}Homer and {BLUE}Marge's {MAGENTA}Bedroom{RED,red}~
+{GREEN,BOLD}
+A large king-size bed dominates the room.  On the nightstand
+stands a rather abused alarm clock.  On the far side of the
+room there is a crib with a baby in it.  Somehow, it
+makes you uneasy..
+~
+152 140 0
+D2
+~
+door~
+1 -1 15239
+Z3
+C-1
+S
+#15242
+{YELLOW,BOLD}Bart Simpson's {RED,BOLD}Bedroom{RED,red}~
+{RED,BOLD}You are in a typical fourth grader's room, except
+this one is one out of a cartoon.  This room is a MESS.  Reminds
+you of your own..
+~
+152 12 0
+D1
+P.U.! Boy does it stink near here.  It must be coming from this closet.
+~
+closet~
+2 15214 15270
+D2
+~
+~
+0 -1 15240
+Z3
+C-1
+S
+#15243
+{YELLOW,BOLD}Lisa Simpson's {WHITE}Bedroom{RED,red}~
+{GREEN,BOLD}You are standing in a well-lit, neat
+room.  The bookshelves are lined with trophies of all
+kinds.  The bed is made and the floor is devoid of all
+trash.  Above the bed hangs a portrait of an eight year old
+girl.  Really, though, who cares?
+~
+152 8 0
+D0
+~
+~
+0 -1 15240
+Z3
+C-1
+S
+#15244
+{RED,red}{GREEN}Evergreen {GREEN,BOLD}Terrace{RED,red}~
+{MAGENTA,BOLD}You are on a narrow east to west street.  Houses line
+each side of the street and birds chirp overhead.  The false color scheme
+is driving you crazy! Maybe killing something will help
+~
+152 0 1
+D0
+~
+~
+0 -1 15234
+D1
+~
+~
+0 -1 15245
+D3
+~
+~
+0 -1 15231
+Z3
+C-1
+S
+#15245
+{YELLOW,BOLD}End of {GREEN}Evergreen Terrace{RED,red}~
+{BLUE,BOLD}The neighborhood street ends here.  To the east you can see a
+tavern, while a large street runs northwards.  The South of
+the road seems to be closed for no apparrent reason.  Far to
+the North, you can see Nuclear cooling funnels
+~
+152 0 1
+D0
+~
+~
+0 -1 15247
+D1
+~
+~
+0 -1 15246
+D2
+There appears to be a large roadblock here.  It looks
+like its been here for a LONG time.
+~
+roadblock~
+2 15212 15268
+D3
+~
+~
+0 -1 15244
+Z3
+C-1
+S
+#15246
+{YELLOW,yellow}{YELLOW}Moe's {WHITE,white}Tavern{RED,red}~
+{GREEN}You enter into a small, poorly lit establishment.  Drunken Customers
+lay sprawled about the room, and the barkeep is muttering about something
+concerning some phone call.  Maybe you should order a beer.. Or maybe you
+should kill the barkeep and take some!{b}
+~
+152 9 0
+D3
+~
+~
+0 -1 15245
+Z3
+C-1
+S
+#15247
+{WHITE,BOLD}Road to the {CYAN}N{WHITE}u{CYAN}c{WHITE}l{CYAN}e{WHITE}a{CYAN}r {BLUE}Plant{RED,red}~
+{WHITE,BOLD}You are standing on a wide, northward road.  Run down
+warehouses line the street, but what catches your eye is the
+large Nuclear plant to the North.  You wonder what it would be like to
+shove someone down one of those cooling funnels...
+~
+152 4 1
+D0
+~
+~
+0 -1 15248
+D2
+~
+~
+0 -1 15245
+Z3
+C-1
+S
+#15248
+{WHITE,BOLD}Road to the {CYAN}N{WHITE}u{CYAN}c{WHITE}l{CYAN}e{WHITE}a{CYAN}r {BLUE}Plant{RED,red}~
+{WHITE,BOLD}You are standing on a wide, northward road.  Run down
+warehouses line the street, but what catches your eye is the
+large Nuclear plant to the North.  You wonder what it would be like to
+shove someone down one of those cooling funnels...
+~
+152 4 1
+D0
+~
+~
+0 -1 15249
+D2
+~
+~
+0 -1 15247
+Z3
+C-1
+S
+#15249
+{MAGENTA,BOLD}Entrance to {YELLOW}Parking Lot{RED,red}~
+{CYAN,BOLD}You are standing by a toll booth at the entrance to a
+parking lot, which seems to stretch for miles to the north.  You
+can see the plant looming in the distance.  The guard in the booth
+looks bored, but it doesn't look like he'll let you in.
+Might as well kill him
+~
+152 4 1
+D1
+~
+~
+0 -1 15253
+D2
+~
+~
+0 -1 15248
+Z3
+C-1
+S
+#15250
+{RED,BOLD}Nuclear Plant {MAGENTA}Parking Lot{RED,red}~
+You are standing in a huge parking lot, full of cars.  Mindless
+employees are loitering around here.  Trash covers the ground, and
+you see several vans from environmentalist organizations parked here.
+Doesn't look like this plant is ecologically friendly, or even socially
+friendly for that matter!
+~
+152 0 1
+D1
+~
+~
+0 -1 15254
+D2
+~
+~
+0 -1 15251
+Z3
+C-1
+S
+#15251
+{RED,BOLD}Nuclear Plant {MAGENTA}Parking Lot{RED,red}~
+You are standing in a huge parking lot, full of cars.  Mindless
+employees are loitering around here.  Trash covers the ground, and
+you see several vans from environmentalist organizations parked here.
+Doesn't look like this plant is ecologically friendly, or even socially
+friendly for that matter!
+~
+152 0 1
+D0
+~
+~
+0 -1 15250
+D1
+~
+~
+0 -1 15255
+D2
+~
+~
+0 -1 15252
+Z3
+C-1
+S
+#15252
+{RED,BOLD}Nuclear Plant {MAGENTA}Parking Lot{RED,red}~
+You are standing in a huge parking lot, full of cars.  Mindless
+employees are loitering around here.  Trash covers the ground, and
+you see several vans from environmentalist organizations parked here.
+Doesn't look like this plant is ecologically friendly, or even socially
+friendly for that matter!
+~
+152 0 1
+D0
+~
+~
+0 -1 15251
+D1
+~
+~
+0 -1 15256
+D2
+~
+~
+0 -1 15253
+Z3
+C-1
+S
+#15253
+{RED,BOLD}Nuclear Plant {MAGENTA}Parking Lot{RED,red}~
+You are standing in a huge parking lot, full of cars.  Mindless
+employees are loitering around here.  Trash covers the ground, and
+you see several vans from environmentalist organizations parked here.
+Doesn't look like this plant is ecologically friendly, or even socially
+friendly for that matter!
+~
+152 0 1
+D0
+~
+~
+0 -1 15252
+D1
+~
+~
+0 -1 15257
+D3
+~
+~
+0 -1 15249
+Z3
+C-1
+S
+#15254
+{RED,BOLD}Nuclear Plant {MAGENTA}Parking Lot{RED,red}~
+You are standing in a huge parking lot, full of cars.  Mindless
+employees are loitering around here.  Trash covers the ground, and
+you see several vans from environmentalist organizations parked here.
+Doesn't look like this plant is ecologically friendly, or even socially
+friendly for that matter!
+~
+152 0 1
+D1
+~
+~
+0 -1 15258
+D2
+~
+~
+0 -1 15255
+D3
+~
+~
+0 -1 15250
+Z3
+C-1
+S
+#15255
+{RED,BOLD}Nuclear Plant {MAGENTA}Parking Lot{RED,red}~
+You are standing in a huge parking lot, full of cars.  Mindless
+employees are loitering around here.  Trash covers the ground, and
+you see several vans from environmentalist organizations parked here.
+Doesn't look like this plant is ecologically friendly, or even socially
+friendly for that matter!
+~
+152 0 1
+D0
+~
+~
+0 -1 15254
+D1
+~
+~
+0 -1 15259
+D2
+~
+~
+0 -1 15256
+D3
+~
+~
+0 -1 15251
+Z3
+C-1
+S
+#15256
+{RED,BOLD}Nuclear Plant {MAGENTA}Parking Lot{RED,red}~
+You are standing in a huge parking lot, full of cars.  Mindless
+employees are loitering around here.  Trash covers the ground, and
+you see several vans from environmentalist organizations parked here.
+Doesn't look like this plant is ecologically friendly, or even socially
+friendly for that matter!
+~
+152 0 1
+D0
+~
+~
+0 -1 15255
+D1
+~
+~
+0 -1 15260
+D2
+~
+~
+0 -1 15257
+D3
+~
+~
+0 -1 15252
+Z3
+C-1
+S
+#15257
+{RED,BOLD}Nuclear Plant {MAGENTA}Parking Lot{RED,red}~
+You are standing in a huge parking lot, full of cars.  Mindless
+employees are loitering around here.  Trash covers the ground, and
+you see several vans from environmentalist organizations parked here.
+Doesn't look like this plant is ecologically friendly, or even socially
+friendly for that matter!
+~
+152 0 1
+D0
+~
+~
+0 -1 15256
+D1
+~
+~
+0 -1 15261
+D3
+~
+~
+0 -1 15253
+Z3
+C-1
+S
+#15258
+{RED,BOLD}Nuclear Plant {MAGENTA}Parking Lot{RED,red}~
+You are standing in a huge parking lot, full of cars.  Mindless
+employees are loitering around here.  Trash covers the ground, and
+you see several vans from environmentalist organizations parked here.
+Doesn't look like this plant is ecologically friendly, or even socially
+friendly for that matter!
+~
+152 0 1
+D0
+~
+~
+0 -1 15262
+D2
+~
+~
+0 -1 15259
+D3
+~
+~
+0 -1 15254
+Z3
+C-1
+S
+#15259
+{RED,BOLD}Nuclear Plant {MAGENTA}Parking Lot{RED,red}~
+You are standing in a huge parking lot, full of cars.  Mindless
+employees are loitering around here.  Trash covers the ground, and
+you see several vans from environmentalist organizations parked here.
+Doesn't look like this plant is ecologically friendly, or even socially
+friendly for that matter!
+~
+152 0 1
+D0
+~
+~
+0 -1 15258
+D2
+~
+~
+0 -1 15260
+D3
+~
+~
+0 -1 15255
+Z3
+C-1
+S
+#15260
+{RED,BOLD}Nuclear Plant {MAGENTA}Parking Lot{RED,red}~
+You are standing in a huge parking lot, full of cars.  Mindless
+employees are loitering around here.  Trash covers the ground, and
+you see several vans from environmentalist organizations parked here.
+Doesn't look like this plant is ecologically friendly, or even socially
+friendly for that matter!
+~
+152 0 1
+D0
+~
+~
+0 -1 15259
+D2
+~
+~
+0 -1 15261
+D3
+~
+~
+0 -1 15256
+Z3
+C-1
+S
+#15261
+{RED,BOLD}Nuclear Plant {MAGENTA}Parking Lot{RED,red}~
+You are standing in a huge parking lot, full of cars.  Mindless
+employees are loitering around here.  Trash covers the ground, and
+you see several vans from environmentalist organizations parked here.
+Doesn't look like this plant is ecologically friendly, or even socially
+friendly for that matter!
+~
+152 0 1
+D0
+~
+~
+0 -1 15260
+D3
+~
+~
+0 -1 15257
+Z3
+C-1
+S
+#15262
+{YELLOW,BOLD}Entrance to the {CYAN}Nuclear Plant{bold}~
+{GREEN,BOLD}Welcome to Springfield Nuclear Power Plant.  You can see a large
+glass building in front of you, behind which are the cooling funnels.
+To the North there appears to be a door leading into the bowels
+of this strange place.{bold}
+~
+152 1028 0
+D0
+~
+~
+0 -1 15271
+D2
+~
+~
+0 -1 15258
+Z3
+C-1
+S
+#15263
+{WHITE,BOLD}End of the {GREEN}Ma{GREEN,green}{GREEN}ze{RED,red}~
+{YELLOW,BOLD}So, you've found your way through the maze have you?
+Puny adventurer, you'll soon wish you'd never ventured into this town.
+If you stay here,the radiation and toxins will kill you.  You can
+go into either of the two locked doors, if you have the
+keys, but do you really want to??
+~
+152 1049 1
+D2
+You see a reinforced titanium door that's obviously
+intended to keep people out...or perhaps to keep what's inside
+from getting out....
+~
+titanium~
+2 15209 15264
+D3
+You see a tarnished metal door.  On it there is
+some sort of sign:
+
+{RED,BOLD}
+     o o o o o o o o o o
+ 
+     o      {WHITE}7  G{RED}       o
+ 
+     o o o o o o o o o o
+ 
+~
+metal~
+2 15210 15265
+X8
+Z3
+C-1
+S
+#15264
+{RED,BOLD}Mr. {YELLOW}B{RED}u{YELLOW}r{RED}n{YELLOW}'{RED}s {YELLOW}Office{RED,red}~
+{GREEN}You stand in a spacious office.  Soft carpeting covers the floor,
+and a 15 foot statue of a polar bear dominates the room.  At the far
+end of the room, you can see a frail, old man sitting at a desk, surrounded
+by.. {YELLOW,BOLD}LAWYERS!! {RED,red}{GREEN}Oh no! They charge and attack
+~
+152 1032 0
+D0
+~
+titanium~
+1 -1 15263
+X12
+Z3
+C-1
+S
+#15265
+{GREEN,BOLD}Sector {RED,red}{CYAN}7G{RED,red}~
+You have entered a corridor marked 'Sector 7G'. Your footsteps
+reverberate within the empty, sepulchral chamber. All you can hear is 
+the dripping of some toxin in the distance. At the end of the hallway,
+you see a door marked 'Safety room'. Somehow you don't feel very safe
+about going in there though.
+~
+152 17416 0
+D0
+Safety room.
+~
+door~
+1 -1 15266
+D1
+~
+metal~
+1 -1 15263
+X8
+Z3
+C-1
+S
+#15266
+{RED,BOLD}SAFETY ROOM{RED,red}~
+{RED,BOLD}You are standing in the safety monitoring station of the
+power plant.  The fat worker that's supposed to be monitoring the
+readings is eating a donut, oblivioius to the fact that
+"NUCLEAR MELTDOWN IMMENENT" is flashing on the computer screen
+He notices you here and moves in your direction...
+~
+152 140 0
+D2
+~
+door~
+1 -1 15265
+Z3
+C-1
+S
+#15267
+{RED,red}{YELLOW}Back of {YELLOW,BOLD}Kwik{RED,red}{YELLOW}-E-{YELLOW,BOLD}Mart{RED,red}~
+{RED,red}{GREEN}Hmm.  Seems that you have stumbled upon the secret back
+storage room of the convenience store.  Undescribable
+horrors meet your eyes.  You can make out what appears to
+be an alien body hanging on the far rack.  There is an unknown,
+pungent aroma in the air.  Good thing this room isn't visited much...
+~
+152 1033 0
+D2
+~
+door~
+1 -1 15229
+T15299
+Z3
+C-1
+S
+#15268
+{CYAN,BOLD}Back {BLUE,BOLD}Alleyway{RED,red}~
+{CYAN,cyan}{YELLOW}The roadblock didn't block very much.  You see a
+dirty, narrow dead-end alley in front of you.  There are some
+dumpsters around, but that's all there really is here.
+~
+152 1028 1
+D0
+~
+roadblock~
+1 -1 15245
+T15299
+Z3
+C-1
+S
+#15269
+{RED,BOLD}Vault of {WHITE}Permanent {YELLOW}Records{RED,red}~
+{CYAN,BOLD}You are in a large, spacious room with many files
+of permanent records.  You notice that three entire
+cabinets' labels are "Simpson, B."  The room is very damp and
+musky, and you imagine that several of the drawers
+are full of coal at this point...
+~
+152 1161 0
+D4
+~
+trapdoor~
+1 -1 15211
+T15299
+X8
+Z3
+C-1
+S
+#15270
+{YELLOW,BOLD}Bart {WHITE,BOLD}Simpson's {BLUE}C{RED,red}l{BLUE,BOLD}o{RED,red}s{BLUE,BOLD}e{RED,red}t{RED,red}~
+{RED,red}{YELLOW}You are standing in a dark, musty closet.  The stench of decay
+hangs in the air, and all kinds of odds and ends are piled up around you,
+making room for only one person.  The smell nauseates you, and you really
+don't want to stay here.
+~
+152 1197 0
+D3
+~
+closet~
+1 -1 15242
+T15299
+Z3
+C1
+S
+#15271
+{WHITE,BOLD}Nuc{YELLOW}lear {WHITE}Pl{YELLOW}a{WHITE}nt {CYAN}Hall{bold}~
+You enter a poorly-lit hallway running north to south. Below you
+somewhere, you can hear the hum of what must be the reactor core.
+Employees, some mindless, some maniacal and some just downright ugly,
+mill around here. You can hear water or nuclear waste dripping from the
+leaking ceiling, and you can see all kinds of trash on the floor. Not
+exactly the cleanest place in town, but what do you expect?
+~
+152 1160 0
+D0
+~
+~
+0 -1 15272
+D1
+~
+~
+0 -1 15273
+D2
+~
+~
+0 -1 15262
+T15299
+Z3
+C-1
+S
+#15272
+{WHITE,BOLD}Nuc{YELLOW}lear {WHITE}Pl{YELLOW}a{WHITE}nt {CYAN}Hall{bold}~
+You enter a poorly-lit hallway running north to south. Below you
+somewhere, you can hear the hum of what must be the reactor core.
+Employees, some mindless, some maniacal and some just downright ugly,
+mill around here. You can hear water or nuclear waste dripping from the
+leaking ceiling, and you can see all kinds of trash on the floor. Not
+exactly the cleanest place in town, but what do you expect?
+~
+152 1160 0
+D1
+~
+~
+0 -1 15274
+D2
+~
+~
+0 -1 15271
+Z3
+C-1
+S
+#15273
+{CYAN,BOLD}The {WHITE}L{CYAN}o{WHITE}u{CYAN}n{WHITE}g{CYAN}e{bold}~
+{YELLOW,BOLD}You enter into a messy lounge, where many disgruntled
+employees are milling about.  The floor is covered with coffee and
+cyanide stains, and the overhead lights are dim.  The hygeine
+habits of some of the employees are enough to make you sick.  Nice
+setting for a bloodbath, eh?{bold}
+~
+152 1161 0
+D0
+~
+~
+0 -1 15274
+D3
+~
+~
+0 -1 15271
+T15299
+Z3
+C-1
+S
+#15274
+{bold}{YELLOW}The {CYAN}Janitor's {YELLOW}Closet{bold}~
+{bold}{CYAN}You stand inside a smelly janitor's closet.  Beneath you
+sounds the unearthly hum of the fission generator.  You can see various
+cleaning implements that apparently haven't seen use for quite
+some time.  You think you see a rotting corpse with a janitor's
+uniform on in the corner.  That would make sense.{bold}
+~
+152 1161 0
+D2
+~
+~
+0 -1 15273
+D3
+~
+~
+0 -1 15272
+D5
+~
+trapdoor~
+1 -1 15275
+T15299
+Z3
+C-1
+S
+#15275
+{bold}{RED}The {RED,BOLD}Generator {bold}{RED}Room{bold}~
+{BLUE,BOLD}This room is dominated by a huge fission generator.  However,
+it seems poorly maintained and conceivably could melt down any minute.
+There are several thermal leaks in the thing, making the room almost
+unbearably hot.  The generator is covered with various safety warnings
+and 'art' by employess.  You hear many "bleep and bleeps".
+You better move on...{bold}
+~
+152 1181 0
+D4
+~
+trapdoor~
+1 -1 15274
+D5
+~
+bleep bleeps~
+3 -1 15276
+E
+generator~
+Yep.  It's vintage 1950s.  It looks like Russian surplus.
+Various remarks such as
+ 
+   *Bleep*      *Bleep*    *Bleep*
+       *BLEEP*    *BlEeP*    *bleep*
+  *bleep*  *bleep*
+         **bleep**                ******BlEEp******
+ 
+(They were not censored.  That's what it said.  Really)
+~
+T15299
+Z3
+C-1
+S
+#15276
+{BLUE,BOLD}Sub{bold}{CYAN}basement{bold}~
+{bold}{GREEN}Whew! what a relief it is to get out of that generator
+room.  Alas, it's not that much better.  You stand in a small,
+cramped subbasement with a trapdoor leading deeper underground.
+By it stands a small sign beckoning for you to read it.{bold}
+~
+152 1165 0
+D4
+~
+bleep bleeps~
+1 -1 15275
+D5
+Hmm.  There appears to be a heavy trapdoor guarding the way
+down.  Perhaps you should read the sign standing next to it.
+~
+trapdoor~
+1 15208 15277
+E
+sign~
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,                                               ,
+,  Welcome employee or environmentalist freak!  ,
+,   I have installed a state of the art maze    ,
+, that separates you from me.  If you wish to   ,
+, harass me, I want you to be at least smart    ,
+, enough to solve this maze.  I bet even school ,
+, children could do it with those new           ,
+, technologies like chalk boards, pencils and   ,
+, what's it called, paper! Why, when I was a    ,
+, child, we didn't have...blablablablabla...    ,
+, tata!                                         ,
+,   -Mr. Burns                                  ,
+,                                               ,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+~
+T15299
+Z3
+C-1
+S
+#15277
+{YELLOW,BOLD}Yellow Ceilinged, Yellow Floored Room{RED,red}~
+{CYAN}You are somewhere in the Mr. Burn's maze.
+The ground is covered with radioactive sludge and the
+air is practically unbreathable.  The cartoon scheme makes it even worse.
+Just wait till you get your hands on Mr. Burns...
+~
+152 17821 0
+D0
+~
+~
+0 -1 15293
+D1
+~
+~
+0 -1 15297
+D2
+~
+~
+0 -1 15278
+D3
+~
+~
+0 -1 15298
+D4
+~
+~
+0 -1 15293
+D5
+~
+~
+0 -1 15294
+T15299
+Z3
+C1
+S
+#15278
+{BLUE,BOLD}Blue Ceilinged, {YELLOW,BOLD}Yellow Floored Room{RED,red}~
+{CYAN}You are somewhere in the Mr. Burn's maze.
+The ground is covered with radioactive sludge and the
+air is practically unbreathable.  The cartoon scheme makes it even worse.
+Just wait till you get your hands on Mr. Burns...
+~
+152 17821 0
+D0
+~
+~
+0 -1 15293
+D1
+~
+~
+0 -1 15297
+D2
+~
+~
+0 -1 15295
+D3
+~
+~
+0 -1 15279
+D4
+~
+~
+0 -1 15297
+D5
+~
+~
+0 -1 15294
+T15299
+Z3
+C1
+S
+#15279
+{YELLOW,BOLD}Yellow Ceilinged, Yellow Floored Room{RED,red}~
+{CYAN}You are somewhere in the Mr. Burn's maze.
+The ground is covered with radioactive sludge and the
+air is practically unbreathable.  The cartoon scheme makes it even worse.
+Just wait till you get your hands on Mr. Burns...
+~
+152 17821 0
+D0
+~
+~
+0 -1 15280
+D1
+~
+~
+0 -1 15298
+D2
+~
+~
+0 -1 15280
+D3
+~
+~
+0 -1 15295
+D4
+~
+~
+0 -1 15297
+D5
+~
+~
+0 -1 15297
+T15299
+Z3
+C1
+S
+#15280
+{RED,BOLD}Red Ceilinged, Red Floored Room{RED,red}~
+{CYAN}You are somewhere in the Mr. Burn's maze.
+The ground is covered with radioactive sludge and the
+air is practically unbreathable.  The cartoon scheme makes it even worse.
+Just wait till you get your hands on Mr. Burns...
+~
+152 17821 0
+D0
+~
+~
+0 -1 15298
+D1
+~
+~
+0 -1 15281
+D2
+~
+~
+0 -1 15295
+D3
+~
+~
+0 -1 15293
+D4
+~
+~
+0 -1 15295
+D5
+~
+~
+0 -1 15297
+T15299
+Z3
+C1
+S
+#15281
+{RED,BOLD}Red Ceilinged, Red Floored Room{RED,red}~
+{CYAN}You are somewhere in the Mr. Burn's maze.
+The ground is covered with radioactive sludge and the
+air is practically unbreathable.  The cartoon scheme makes it even worse.
+Just wait till you get your hands on Mr. Burns...
+~
+152 17821 0
+D0
+~
+~
+0 -1 15294
+D1
+~
+~
+0 -1 15282
+D2
+~
+~
+0 -1 15298
+D3
+~
+~
+0 -1 15293
+D4
+~
+~
+0 -1 15296
+D5
+~
+~
+0 -1 15294
+T15299
+Z3
+C1
+S
+#15282
+{BLUE,BOLD}Blue Ceilinged, {RED,BOLD}Red Floored Room{RED,red}~
+{CYAN}You are somewhere in the Mr. Burn's maze.
+The ground is covered with radioactive sludge and the
+air is practically unbreathable.  The cartoon scheme makes it even worse.
+Just wait till you get your hands on Mr. Burns...
+~
+152 17821 0
+D0
+~
+~
+0 -1 15283
+D1
+~
+~
+0 -1 15297
+D2
+~
+~
+0 -1 15295
+D3
+~
+~
+0 -1 15296
+D4
+~
+~
+0 -1 15295
+D5
+~
+~
+0 -1 15296
+T15299
+Z3
+C1
+S
+#15283
+{RED,BOLD}Red Ceilinged, {YELLOW,BOLD}Yellow Floored Room{RED,red}~
+{CYAN}You are somewhere in the Mr. Burn's maze.
+The ground is covered with radioactive sludge and the
+air is practically unbreathable.  The cartoon scheme makes it even worse.
+Just wait till you get your hands on Mr. Burns...
+~
+152 17821 0
+D0
+~
+~
+0 -1 15293
+D1
+~
+~
+0 -1 15297
+D2
+~
+~
+0 -1 15296
+D3
+~
+~
+0 -1 15297
+D4
+~
+~
+0 -1 15294
+D5
+~
+~
+0 -1 15284
+T15299
+Z3
+C1
+S
+#15284
+{BLUE,BOLD}Blue Ceilinged, Blue Floored Room{RED,red}~
+{CYAN}You are somewhere in the Mr. Burn's maze.
+The ground is covered with radioactive sludge and the
+air is practically unbreathable.  The cartoon scheme makes it even worse.
+Just wait till you get your hands on Mr. Burns...
+~
+152 17821 0
+D0
+~
+~
+0 -1 15295
+D1
+~
+~
+0 -1 15296
+D2
+~
+~
+0 -1 15295
+D3
+~
+~
+0 -1 15298
+D4
+~
+~
+0 -1 15285
+D5
+~
+~
+0 -1 15293
+T15299
+Z3
+C1
+S
+#15285
+{RED,BOLD}Red Ceilinged, {YELLOW,BOLD}Yellow Floored Room{RED,red}~
+{CYAN}You are somewhere in the Mr. Burn's maze.
+The ground is covered with radioactive sludge and the
+air is practically unbreathable.  The cartoon scheme makes it even worse.
+Just wait till you get your hands on Mr. Burns...
+~
+152 17821 0
+D0
+~
+~
+0 -1 15294
+D1
+~
+~
+0 -1 15296
+D2
+~
+~
+0 -1 15295
+D3
+~
+~
+0 -1 15293
+D4
+~
+~
+0 -1 15296
+D5
+~
+~
+0 -1 15286
+T15299
+Z3
+C1
+S
+#15286
+{YELLOW,BOLD}Yellow Ceilinged, Yellow Floored Room{RED,red}~
+{CYAN}You are somewhere in the Mr. Burn's maze.
+The ground is covered with radioactive sludge and the
+air is practically unbreathable.  The cartoon scheme makes it even worse.
+Just wait till you get your hands on Mr. Burns...
+~
+152 17821 0
+D0
+~
+~
+0 -1 15287
+D1
+~
+~
+0 -1 15297
+D2
+~
+~
+0 -1 15287
+D3
+~
+~
+0 -1 15296
+D4
+~
+~
+0 -1 15294
+D5
+~
+~
+0 -1 15296
+T15299
+Z3
+C1
+S
+#15287
+{BLUE,BOLD}Blue Ceilinged, {YELLOW,BOLD}Yellow Floored Room{RED,red}~
+{CYAN}You are somewhere in the Mr. Burn's maze.
+The ground is covered with radioactive sludge and the
+air is practically unbreathable.  The cartoon scheme makes it even worse.
+Just wait till you get your hands on Mr. Burns...
+~
+152 17821 0
+D0
+~
+~
+0 -1 15297
+D1
+~
+~
+0 -1 15298
+D2
+~
+~
+0 -1 15293
+D3
+~
+~
+0 -1 15288
+D4
+~
+~
+0 -1 15295
+D5
+~
+~
+0 -1 15296
+T15299
+Z3
+C1
+S
+#15288
+{RED,BOLD}Red Ceilinged, {YELLOW,BOLD}Yellow Floored Room{RED,red}~
+{CYAN}You are somewhere in the Mr. Burn's maze.
+The ground is covered with radioactive sludge and the
+air is practically unbreathable.  The cartoon scheme makes it even worse.
+Just wait till you get your hands on Mr. Burns...
+~
+152 17821 0
+D0
+~
+~
+0 -1 15296
+D1
+~
+~
+0 -1 15297
+D2
+~
+~
+0 -1 15295
+D3
+~
+~
+0 -1 15294
+D4
+~
+~
+0 -1 15295
+D5
+~
+~
+0 -1 15289
+T15299
+Z3
+C1
+S
+#15289
+{BLUE,BOLD}Blue Ceilinged, Blue Floored Room{RED,red}~
+{CYAN}You are somewhere in the Mr. Burn's maze.
+The ground is covered with radioactive sludge and the
+air is practically unbreathable.  The cartoon scheme makes it even worse.
+Just wait till you get your hands on Mr. Burns...
+~
+152 17821 0
+D0
+~
+~
+0 -1 15295
+D1
+~
+~
+0 -1 15295
+D2
+~
+~
+0 -1 15294
+D3
+~
+~
+0 -1 15296
+D4
+~
+~
+0 -1 15290
+D5
+~
+~
+0 -1 15297
+T15299
+Z3
+C1
+S
+#15290
+{YELLOW,BOLD}Yellow Ceilinged, Yellow Floored Room{RED,red}~
+{CYAN}You are somewhere in the Mr. Burn's maze.
+The ground is covered with radioactive sludge and the
+air is practically unbreathable.  The cartoon scheme makes it even worse.
+Just wait till you get your hands on Mr. Burns...
+~
+152 17821 0
+D0
+~
+~
+0 -1 15294
+D1
+~
+~
+0 -1 15293
+D2
+~
+~
+0 -1 15291
+D3
+~
+~
+0 -1 15298
+D4
+~
+~
+0 -1 15296
+D5
+~
+~
+0 -1 15294
+T15299
+Z3
+C1
+S
+#15291
+{RED,BOLD}Red Ceilinged, Red Floored Room{RED,red}~
+{CYAN}You are somewhere in the Mr. Burn's maze.
+The ground is covered with radioactive sludge and the
+air is practically unbreathable.  The cartoon scheme makes it even worse.
+Just wait till you get your hands on Mr. Burns...
+~
+152 17821 0
+D0
+~
+~
+0 -1 15296
+D1
+~
+~
+0 -1 15292
+D2
+~
+~
+0 -1 15297
+D3
+~
+~
+0 -1 15294
+D4
+~
+~
+0 -1 15294
+D5
+~
+~
+0 -1 15296
+T15299
+Z3
+C1
+S
+#15292
+{BLUE,BOLD}Blue Ceilinged, {RED,BOLD}Red Floored Room{RED,red}~
+{CYAN}You are somewhere in the Mr. Burn's maze.
+The ground is covered with radioactive sludge and the
+air is practically unbreathable.  The cartoon scheme makes it even worse.
+Just wait till you get your hands on Mr. Burns...
+~
+152 17821 0
+D0
+~
+~
+0 -1 15263
+D1
+~
+~
+0 -1 15297
+D2
+~
+~
+0 -1 15297
+D3
+~
+~
+0 -1 15293
+D4
+~
+~
+0 -1 15293
+D5
+~
+~
+0 -1 15294
+T15299
+Z3
+C1
+S
+#15293
+{BLUE,BOLD}Blue Ceilinged, {RED,BOLD}Red Floored Room{RED,red}~
+{BLUE,BOLD}The floor beneath your feet suddenly starts to creak.  You take one fianl
+toxic breath before the floor collapses and sends you hurtling downwards!!
+~
+152 1066141 0
+D0
+~
+~
+0 -1 15299
+D1
+~
+~
+0 -1 15299
+D2
+~
+~
+0 -1 15299
+D3
+~
+~
+0 -1 15299
+D4
+~
+~
+0 -1 15299
+D5
+~
+~
+0 -1 15299
+Z3
+C1
+S
+#15294
+{BLUE,BOLD}Blue Ceilinged, {YELLOW,BOLD}Yellow Floored Room{RED,red}~
+{BLUE,BOLD}The floor beneath your feet suddenly starts to creak.  You take one fianl
+toxic breath before the floor collapses and sends you hurtling downwards!!
+~
+152 1066141 0
+D0
+~
+~
+0 -1 15299
+D1
+~
+~
+0 -1 15299
+D2
+~
+~
+0 -1 15299
+D3
+~
+~
+0 -1 15299
+D4
+~
+~
+0 -1 15299
+D5
+~
+~
+0 -1 15299
+Z3
+C1
+S
+#15295
+{BLUE,BOLD}Blue Ceilinged, Blue Floored Room{RED,red}~
+{BLUE,BOLD}The floor beneath your feet suddenly starts to creak.  You take one fianl
+toxic breath before the floor collapses and sends you hurtling downwards!!
+~
+152 1066141 0
+D0
+~
+~
+0 -1 15299
+D1
+~
+~
+0 -1 15299
+D2
+~
+~
+0 -1 15299
+D3
+~
+~
+0 -1 15299
+D4
+~
+~
+0 -1 15299
+D5
+~
+~
+0 -1 15299
+Z3
+C1
+S
+#15296
+{RED,BOLD}Red Ceilinged, {YELLOW,BOLD}Yellow Floored Room{RED,red}~
+{BLUE,BOLD}The floor beneath your feet suddenly starts to creak.  You take one fianl
+toxic breath before the floor collapses and sends you hurtling downwards!!
+~
+152 1066141 0
+D0
+~
+~
+0 -1 15299
+D1
+~
+~
+0 -1 15299
+D2
+~
+~
+0 -1 15299
+D3
+~
+~
+0 -1 15299
+D4
+~
+~
+0 -1 15299
+D5
+~
+~
+0 -1 15299
+Z3
+C1
+S
+#15297
+{RED,BOLD}Red Ceilinged, Red Floored Room{RED,red}~
+{BLUE,BOLD}The floor beneath your feet suddenly starts to creak.  You take one fianl
+toxic breath before the floor collapses and sends you hurtling downwards!!
+~
+152 1066141 0
+D0
+~
+~
+0 -1 15299
+D1
+~
+~
+0 -1 15299
+D2
+~
+~
+0 -1 15299
+D3
+~
+~
+0 -1 15299
+D4
+~
+~
+0 -1 15299
+D5
+~
+~
+0 -1 15299
+Z3
+C1
+S
+#15298
+{YELLOW,BOLD}Yellow Ceilinged, Yellow Floored Room{RED,red}~
+{BLUE,BOLD}The floor beneath your feet suddenly starts to creak.  You take one fianl
+toxic breath before the floor collapses and sends you hurtling downwards!!
+~
+152 1066141 0
+D0
+~
+~
+0 -1 15299
+D1
+~
+~
+0 -1 15299
+D2
+~
+~
+0 -1 15299
+D3
+~
+~
+0 -1 15299
+D4
+~
+~
+0 -1 15299
+D5
+~
+~
+0 -1 15299
+Z3
+C1
+S
+#15299
+{RED,BOLD}Nuclear Plant {RED,red}{CYAN}Holding {RED,BOLD}Cell{RED,red}~
+You land in this room with a resounding thud.  The air seems
+clearer than that in the maze.  The room is disorienting, seeming
+to have exits that lead elsewhere and nowhere at the same time.  You
+hear the sadistic voice of Mr. Burns scream, "{RED,BOLD}You've Lost! MUAHAHAH!!!{bold}"
+~
+152 16397 0
+D0
+~
+~
+0 -1 15299
+D1
+~
+~
+0 -1 15299
+D2
+~
+~
+0 -1 15299
+D3
+~
+~
+0 -1 15299
+D4
+~
+~
+0 -1 15299
+D5
+~
+~
+0 -1 15299
+Z3
+C-1
+S
+$~

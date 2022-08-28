@@ -1,0 +1,2087 @@
+#39700
+{GREEN}An Ordinary Yard...{gre}~
+ 
+   {CY}You are now standing in a rather ordinary yard.
+   The grass is neatly trimmed, there's no rubbish 
+   on the ground...there isn't even a weed to be seen!
+   Hmmm, seems a bit too perfect.... {cy}
+ 
+~
+397 1024 1
+D2
+~
+fence~
+1 -1 39603
+D3
+~
+~
+0 -1 39701
+X6291470
+Z3
+C-1
+R0
+S
+#39701
+{GREEN}An Ordinary Yard...{gre}~
+ 
+   {CY}You are now standing in a rather ordinary yard.
+   The grass is neatly trimmed, there's no rubbish 
+   on the ground...there isn't even a weed to be seen!
+   Hmmm, seems a bit too perfect.... {cy}
+ 
+~
+397 1024 1
+D0
+~
+~
+0 -1 39702
+D1
+~
+~
+0 -1 39700
+X6291470
+Z3
+C-1
+R0
+S
+#39702
+{WHIT}Around the House{whit}~
+ 
+   {CY}That suspiciously perfect yard now ends by the
+   side of the house.  You already know something
+   fishy is going on; time to find out what. {cy}
+ 
+~
+397 1024 1
+D2
+~
+~
+0 -1 39701
+D5
+~
+trapdoor~
+1 39649 39703
+X6291470
+Z3
+C-1
+R0
+S
+#39703
+{MAG,BO}A Geeky Basement{mag,bo}~
+ 
+   {CY}Merciful Zeus!  You've stumbled onto the Ultimate Geek's
+   Paradise!  An obsessive collection of geek-ware sits in
+   well-protected display cases; 1st issues of comic books
+   like Spider-Man and The Uncanny X-Men, Boba Fett action
+   figures, Babylon 5 collector plates...whoever these 
+   people are, they have a bigger collection than you do!
+   {cy}
+~
+397 17417 1
+D1
+~
+~
+0 -1 39704
+D4
+~
+trapdoor~
+1 -1 39702
+X14
+Z4
+C-1
+R0
+S
+#39704
+{YEL}Lair of the{yel} {BLACK,BO}TRIO!{black,bo}~
+{C}
+   Behold, the lair of the TRIO, the sworn arch
+   nemeses of the Slayer!  Once, they were 
+   annoying little nuisances, but together, they
+   form a slightly-larger group of annoying 
+   little nuisances!
+{c}
+~
+397 17417 1
+D3
+~
+~
+0 -1 39703
+Z5
+C-1
+R0
+S
+#39705
+{RED,BO}The Magic Box{red,bo}~
+{C}
+   Welcome to{c} {R,BO}The Magic Box{r,bo}{C}, the place to go for your
+   magical needs.  From crystal balls to eyes of newt,
+   you are sure to find the ingredients and artifacts
+   to suit your spell casting whims.
+{c}
+~
+397 13 1
+D0
+~
+~
+0 -1 39706
+D2
+~
+MagicBox~
+1 -1 39608
+Z4
+C-1
+R0
+S
+#39706
+{YEL}Aisle Between the Bookshelves{yel}~
+{C}
+   You now walk between two narrowly-spaced bookshelves.
+   All manner of mystical texts and scrolls rest neatly 
+   in place, properly categorized and placed suitably 
+   for your convenience.  Whoever runs this store knows
+   their stuff.
+{c}
+~
+397 9 1
+D0
+~
+~
+0 -1 39707
+D2
+~
+~
+0 -1 39705
+Z4
+C1
+R0
+S
+#39707
+The Shop Floor~
+{C}
+   You are now in the middle of the shop, surrounded by a 
+   veritable treasure-trove of magical relics.  The store
+   layout is very accessible; the owner has obviously worked
+   very hard to get the customers to buy.  To the east, you
+   hear the unmistakable sound of a cash register, ringing
+   up a transaction.
+{c}
+~
+397 9 1
+D1
+~
+~
+0 -1 39708
+D2
+~
+~
+0 -1 39706
+Z4
+C2
+R0
+S
+#39708
+{GREEN}Behind the Counter{green}~
+ 
+   {CY}Moving around the counter, you find{cy} {RED,BO}The Magic Box's{red,bo} {CY}cheerful,
+   odd proprietor.  She glares at you with a wicked glance as 
+   you get near the cash register....{cy} 
+ 
+~
+397 9 1
+D3
+~
+~
+0 -1 39707
+X268435968
+Z4
+C-1
+R0
+S
+#39709
+{YEL}The Stacks{yel}~
+{C}
+   The book collection at Sunnydale High School is quite
+   peculiar.  Instead of finding classic novels and 
+   textbooks, the only books you can find in this portion
+   of the library are books on the occult, demonic 
+   possession, and evil blood rituals! {c}
+{Y}
+   An unholy book, bound in animal skins and reeking of{y} {R}blood,{r}
+   {Y}lies here.
+{y}
+~
+397 9 1
+D1
+~
+~
+0 -1 39635
+E
+book~
+ 
+   {YEL}An unholy book, inked in{yel} {RED}human blood{red}{YEL}, lies opened
+   at the following passage:{yel}
+ 
+   {RED}"...the Seal of Danzalthar, the true gate to the Mouth
+   of Hell, will open only with a great sacrifice.  The{red}
+   {RED,UNDER}recently deceased{red,under} {RED}must be offered before the seal
+   can be broken..."{red}
+ 
+~
+Z6
+C-1
+R0
+S
+#39710
+{RED,BO}The Mouth of Hell{red,bo}~
+ 
+   {CY}You are now descending into the{cy} {RED,BO}Hellmouth.{red,bo}
+ 
+   {CY}This is your last chance to turn back....
+ 
+   ....or maybe not.  Whoops, too late!{cy}
+ 
+~
+397 16409 1
+D5
+~
+~
+0 -1 39711
+X6291462
+Z2
+C-1
+R0
+S
+#39711
+{W}SCREWED, You Are{w}~
+ 
+   {WHI,BO}Now you've done it.  You're screwed.{whi,bo}
+ 
+~
+397 1064985 1
+D1
+~
+~
+0 -1 39713
+D3
+~
+~
+0 -1 39712
+X6
+Z2
+C-1
+R0
+S
+#39712
+{RED}Descending into the HellMouth{red}~
+ 
+   {CY}After falling for awhile, you come to an abrupt end to your trip.
+   Funny, you'd expect to see more familiar faces in Hell.
+   Hrm, maybe this isn't your final destination...{cy}
+ 
+~
+397 16393 1
+D5
+{W,BO}
+   The path of the redeemed will lead to SALVATION.
+{w,bo}
+~
+salvation~
+1 -1 39715
+Z2
+C-1
+R0
+S
+#39713
+{RED}Descending into the HellMouth{red}~
+ 
+   {CY}After falling for awhile, you come to an abrupt end to your trip.
+   Funny, you'd expect to see more familiar faces in Hell.
+   Hrm, maybe this isn't your final destination...{cy}
+ 
+~
+397 16393 1
+D5
+{R,BO}
+   Only the hopeless shall pass, on their way to DAMNATION.
+{r,bo}
+~
+Damnation~
+1 -1 39714
+Z0
+C-1
+R0
+S
+#39714
+{RED}Falling...{red}~
+ 
+   {CY}Here we go again......{cy}
+ 
+~
+397 1048601 1
+D5
+~
+~
+0 -1 39716
+Z2
+C-1
+R0
+S
+#39715
+{RED}Falling...{red}~
+ 
+   {CY}Here we go again......{cy}
+ 
+~
+397 1048601 1
+D0
+~
+~
+0 -1 39717
+D1
+~
+~
+0 -1 39718
+D2
+~
+~
+0 -1 39719
+D3
+~
+~
+0 -1 39720
+D5
+~
+~
+0 -1 39716
+Z2
+C-1
+R0
+S
+#39716
+{RED,BO}The HellMouth{red,bo}~
+{R,BO}
+   You are now in the middle of the HellMouth, Sunnydale's very
+   own connection to countless evil dimensions!  The ruins of an
+   old church are here, defiled by the foul vampires that infest
+   it....
+{r,bo}
+~
+397 17429 1
+D0
+~
+~
+0 -1 39717
+D1
+~
+~
+0 -1 39718
+D2
+~
+~
+0 -1 39719
+D3
+~
+~
+0 -1 39720
+D5
+~
+~
+0 -1 39783
+Z6
+C-1
+R0
+S
+#39717
+{WHI,BO}The Buried Chapel{whi,bo}~
+ 
+   {WHI}Around a hundred years ago, foolish missionaries built a 
+   church right on top of the{whi} {RED,BO}HellMouth{red,bo}{WHI}, thinking that they
+   could contain the evil.  What's left of the chapel proves
+   that they were wrong.{whi}
+ 
+~
+397 16525 1
+D2
+~
+~
+0 -1 39716
+X268435456
+Z5
+C-1
+R0
+S
+#39718
+{WHI,BO}The Buried Chapel{whi,bo}~
+ 
+   {WHI}Around a hundred years ago, foolish missionaries built a 
+   church right on top of the{whi} {RED,BO}HellMouth{red,bo}{WHI}, thinking that they
+   could contain the evil.  What's left of the chapel proves
+   that they were wrong.{whi}
+ 
+~
+397 16525 1
+D3
+~
+~
+0 -1 39716
+X268435456
+Z5
+C-1
+R0
+S
+#39719
+{WHI,BO}The Buried Chapel{whi,bo}~
+ 
+   {WHI}Around a hundred years ago, foolish missionaries built a 
+   church right on top of the{whi} {RED,BO}HellMouth{red,bo}{WHI}, thinking that they
+   could contain the evil.  What's left of the chapel proves
+   that they were wrong.{whi}
+ 
+~
+397 16525 1
+D0
+~
+~
+0 -1 39716
+X268435456
+Z5
+C-1
+R0
+S
+#39720
+{WHI,BO}The Buried Chapel{whi,bo}~
+ 
+   {WHI}Around a hundred years ago, foolish missionaries built a 
+   church right on top of the{whi} {RED,BO}HellMouth{red,bo}{WHI}, thinking that they
+   could contain the evil.  What's left of the chapel proves
+   that they were wrong.{whi}
+ 
+~
+397 16525 1
+D1
+~
+~
+0 -1 39716
+X268435456
+Z5
+C-1
+R0
+S
+#39721
+{BLA}Winding Road to the Mansion{bla}~
+ 
+   {CY}You are now travelling up a winding road; a large,
+   creepy mansion looms further up the path.  It
+   looks like the type of mansion that evil masterminds
+   cook up apocalyptic schemes in...{cy}
+ 
+~
+397 4 1
+D3
+~
+door~
+1 -1 39612
+D4
+~
+~
+0 -1 39722
+Z3
+C-1
+R0
+S
+#39722
+{BLA}Winding Road to the Mansion{bla}~
+ 
+   {CY}You are now travelling up a winding road; a large,
+   creepy mansion looms further up the path.  It
+   looks like the type of mansion that evil masterminds
+   cook up apocalyptic schemes in...{cy}
+ 
+~
+397 4 1
+D1
+~
+~
+0 -1 39723
+D5
+~
+~
+0 -1 39721
+Z3
+C-1
+R0
+S
+#39723
+{RED}The{red} {BLACK}Mansion{bla} {RED}Foyer{red}~
+{CY}
+   You are now in a spacious foyer.  The vaulted ceiling seems
+   to go up for miles.  The room itself is almost completely 
+   unfurnished, except for a set of cast-iron manacles bolted
+   into a wall.  What sorts of things are going on here?! {cy}
+ 
+~
+397 137 1
+D1
+~
+~
+0 -1 39724
+Z4
+C-1
+R0
+S
+#39724
+{WHI}The Acathla{whi}~
+ 
+   {WHI}You are now in a large room of the mansion.  Like the
+   previous room, there's almost no furniture or ornamentation,
+   except for a large, demonic statue in the center of the room.
+ 
+   The mouth of the statue is open, and seems to be getting wider
+   every second.  This does not bode well for you. {whi}
+ 
+~
+397 9 1
+D0
+Is there something here?
+~
+FrenchDoors~
+3 -1 39725
+D3
+~
+~
+0 -1 39723
+X270532608
+Z4
+C-1
+R0
+S
+#39725
+{GRE}A With{gre}{YEL}ered G{yel}{BLACK}arden{bla}~
+   
+   {YEL}You are now out on what might have once been a
+   beautiful veranda.  Now, it's just a tangle of dead
+   vines covering the crumbling wall. {yel}
+ 
+~
+397 16384 1
+D2
+~
+FrenchDoors~
+1 -1 39724
+X16384
+Z3
+C-1
+R0
+S
+#39726
+{RED,BO}The Hell of Unspeakable Horrors{red,bo}~
+ 
+   {RED,BO}Welcome to Hell....again.{red,bo}
+ 
+~
+397 1048585 1
+D0
+~
+~
+0 -1 39729
+D1
+~
+~
+0 -1 39731
+D2
+~
+~
+0 -1 39730
+D3
+~
+~
+0 -1 39728
+Z8
+C-1
+R0
+S
+#39727
+{RED,BO}Streets of L.A.{red,bo}~
+  
+   {RED,BO}Los Angeles.  Hordes of lawyers prowl the street...
+ 
+   Ye Gods!  This truly is HELL!{red,bo}
+ 
+~
+397 129 1
+D0
+~
+~
+0 -1 39729
+D1
+~
+~
+0 -1 39732
+D2
+~
+~
+0 -1 39730
+D3
+~
+~
+0 -1 39728
+X14
+Z9
+C-1
+R0
+S
+#39728
+{RED,BO}Streets of L.A.{red,bo}~
+  
+   {RED,BO}Los Angeles.  Hordes of lawyers prowl the street...
+ 
+   Ye Gods!  This truly is HELL!{red,bo}
+ 
+~
+397 129 1
+D0
+~
+~
+0 -1 39727
+D1
+~
+~
+0 -1 39731
+D2
+~
+~
+0 -1 39729
+D3
+~
+~
+0 -1 39729
+X14
+Z9
+C-1
+R0
+S
+#39729
+{RED,BO}Streets of L.A.{red,bo}~
+  
+   {RED,BO}Los Angeles.  Hordes of lawyers prowl the street...
+ 
+   Ye Gods!  This truly is HELL!{red,bo}
+ 
+~
+397 129 1
+D0
+~
+~
+0 -1 39728
+D1
+~
+~
+0 -1 39731
+D2
+~
+~
+0 -1 39727
+D3
+~
+~
+0 -1 39729
+X14
+Z9
+C-1
+R0
+S
+#39730
+{RED,BO}Streets of L.A.{red,bo}~
+  
+   {RED,BO}Los Angeles.  Hordes of lawyers prowl the street...
+ 
+   Ye Gods!  This truly is HELL!{red,bo}
+ 
+~
+397 129 1
+D0
+~
+~
+0 -1 39727
+D1
+~
+~
+0 -1 39731
+D2
+~
+~
+0 -1 39728
+D3
+~
+~
+0 -1 39729
+X14
+Z9
+C-1
+R0
+S
+#39731
+{RED,BO}Streets of L.A.{red,bo}~
+  
+   {RED,BO}Los Angeles.  Hordes of lawyers prowl the street...
+ 
+   Ye Gods!  This truly is HELL!{red,bo}
+ 
+~
+397 129 1
+D0
+~
+~
+0 -1 39730
+D1
+~
+~
+0 -1 39728
+D2
+~
+~
+0 -1 39731
+D3
+~
+~
+0 -1 39729
+X14
+Z9
+C-1
+R0
+S
+#39732
+{RED,BO}Streets of L.A.{red,bo}~
+  
+   {RED,BO}Los Angeles.  Hordes of lawyers prowl the street...
+ 
+   Ye Gods!  This truly is HELL!{red,bo}
+ 
+~
+397 129 1
+D0
+~
+~
+0 -1 39727
+D1
+~
+~
+0 -1 39733
+D2
+~
+~
+0 -1 39730
+D3
+~
+~
+0 -1 39728
+X14
+Z9
+C-1
+R0
+S
+#39733
+{BLUE,BO}Hyperion Hotel{blue,bo}~
+ 
+   {BLU,BO}You are now standing in the lobby of the old Hyperion
+   Hotel.  A popular establishment in the early 1920's, it 
+   was quietly closed and condemned after a grisly
+   mass-murdering killed everyone in the building.  It 
+   appears that someone has re-opened the Hotel. {blu,bo}
+ 
+~
+397 13 1
+D1
+~
+~
+0 -1 39734
+D3
+~
+~
+0 -1 39732
+Z5
+C-1
+R0
+S
+#39734
+{WHIT,BO}Angel Investigations{whit,bo}~
+ 
+   {WHI,BO}You are now in the office of Angel Investigations.
+   A sign hangs behind a desk:
+      
+     "We help the helpless."{whi,bo}
+ 
+~
+397 137 1
+D3
+~
+~
+0 -1 39733
+X16384
+Z5
+C-1
+R0
+S
+#39735
+{Y,BO}Sunnydale{y,bo} {BLA}Cemetery{bla}~
+{C}
+   The Sunnydale Cemetery looms ahead of you, just one
+   of many such establishments in this town.  It looks
+   like the mortuary business is really good here.
+{c}
+~
+397 1025 2
+D0
+~
+~
+0 -1 39664
+D1
+~
+~
+0 -1 39736
+D2
+~
+~
+0 -1 39738
+D3
+~
+~
+0 -1 39740
+Z8
+C-1
+R0
+S
+#39736
+{WHI}Row of Tombstones{whi}~
+{CY}
+   Rows of tombstones extend as far as the eye can
+   see.  For a quiet little town, Sunnydale sure
+   has a lot of deaths.....
+{cy}
+~
+397 1025 2
+D0
+{WHI}A run-down crypt is here.{whi}
+~
+CryptDoor~
+2 39633 39782
+D1
+{WHI}A run-down crypt is here.{whi}
+~
+CryptDoor~
+2 39633 39782
+D2
+~
+~
+0 -1 39737
+D3
+~
+~
+0 -1 39735
+Z8
+C-1
+R0
+S
+#39737
+{WHI}Row of Tombstones{whi}~
+{CY}
+   Rows of tombstones extend as far as the eye can
+   see.  For a quiet little town, Sunnydale sure
+   has a lot of deaths.....
+{cy}
+~
+397 1025 2
+D0
+~
+~
+0 -1 39736
+D1
+{WHI}A run-down crypt is here.{whi}
+~
+CryptDoor~
+2 39633 39782
+D2
+{WHI}A run-down crypt is here.{whi}
+~
+CryptDoor~
+2 39633 39782
+D3
+~
+~
+0 -1 39738
+Z8
+C-1
+R0
+S
+#39738
+{WHI}Row of Tombstones{whi}~
+{CY}
+   Rows of tombstones extend as far as the eye can
+   see.  For a quiet little town, Sunnydale sure
+   has a lot of deaths.....
+{cy}
+~
+397 1025 2
+D0
+~
+~
+0 -1 39735
+D1
+~
+~
+0 -1 39737
+D2
+{WHI}A run-down crypt is here.{whi}
+~
+CryptDoor~
+2 39633 39782
+D3
+~
+~
+0 -1 39739
+Z8
+C-1
+R0
+S
+#39739
+{WHI}Row of Tombstones{whi}~
+{CY}
+   Rows of tombstones extend as far as the eye can
+   see.  For a quiet little town, Sunnydale sure
+   has a lot of deaths.....
+{cy}
+~
+397 1025 2
+D0
+~
+~
+0 -1 39740
+D1
+~
+~
+0 -1 39738
+D2
+{WHI}A run-down crypt is here.{whi}
+~
+CryptDoor~
+2 39633 39782
+D3
+{WHI}A run-down crypt is here.{whi}
+~
+CryptDoor~
+2 39633 39782
+Z8
+C-1
+R0
+S
+#39740
+{WHI}Row of Tombstones{whi}~
+{CY}
+   Rows of tombstones extend as far as the eye can
+   see.  For a quiet little town, Sunnydale sure
+   has a lot of deaths.....
+{cy}
+~
+397 1025 2
+D0
+{WHI}A run-down crypt is here.{whi}
+~
+CryptDoor~
+2 39633 39782
+D1
+~
+~
+0 -1 39735
+D2
+~
+~
+0 -1 39739
+D3
+{W}A run-down crypt is here.{w}
+~
+CryptDoor~
+2 39633 39741
+E
+west~
+{WHI}This crypt doesn't look quite as run-down as the others...{whi}
+~
+E
+w~
+~
+Z8
+C-1
+R0
+S
+#39741
+{YEL,BO}S{yel,bo}{BLA}pike's Crypt{bla}~
+ 
+   {CY}You are now in a musty crypt, sparsely furnished with
+   stuff you swear you threw out months ago!  In the
+   corner, a ragged recliner sits in front of an old
+   black-and-white{cy} {CY,BO,BLI}television{cy,bo,bli}{CY}.{cy}
+ 
+~
+397 13 1
+D1
+~
+CryptDoor~
+1 -1 39740
+D5
+{Y,BO}
+   Light streams from the cracks in the sarcophagus cover.
+{y,bo}
+~
+Cover~
+3 -1 39742
+E
+television~
+{MAG}Look, Passions is on!{mag}
+~
+X8198
+Z0
+C-1
+R0
+S
+#39742
+{YEL}Under the Sarcophagus{yel}~
+{CY}
+   Descending down the ladder in the sarcophagus, you find a
+   hidden cavern beneath this crypt!  The room is softly lit by
+   candles, and you see some sort of bizarre collage of pictures
+   on the far wall...{cy}
+ 
+~
+397 9 1
+D4
+~
+Cover~
+1 -1 39741
+E
+wall~
+ 
+   {CY}A collection of photographs and sketches of Buffy, the 
+   Vampire Slayer are posted to this wall.  Quite an 
+   impressive collection...for an obsessed stalker!{cy}
+ 
+~
+Z8
+C-1
+R0
+S
+#39743
+{MAG}Kingman's Bluff{mag}~
+ 
+   {CY}You are now atop Kingman's Bluff, a tall cliff 
+   facing the Pacific Ocean.  It's been said that an
+   evil sect once built their house of worship here,
+   praying to a malevolent force to end the world...{cy}
+ 
+~
+397 1 2
+D3
+~
+~
+0 -1 39744
+Z2
+C-1
+R0
+S
+#39744
+{MAG}The Unearthed Temple of Proserpexa{mag}~
+{CY}
+   The tip of a steeple pokes out of the ground here.  A
+   bizarre effigy of a demonic woman adorns the top.
+ 
+   The life force of the entire planet is getting sucked
+   into this evil structure!
+ 
+   ....oh crap.  Better do something, quickly!
+{cy}
+~
+397 129 5
+D1
+~
+~
+0 -1 39743
+X6
+Z2
+C-1
+R0
+S
+#39745
+{BLUE,BO}The Presidential Suite{blue,bo}~
+ 
+   {CY}The Plaza Hotel's Presidential Suite is quite possibly
+   the most luxurious room you've ever visited.  It's almost
+   fit for a god (or goddess)! {cy}
+ 
+~
+397 137 1
+D5
+~
+~
+0 -1 39674
+Z4
+C-1
+R0
+S
+#39746
+{W}The Grave{w}~
+{CY}
+   It's the end of the world...again.
+ 
+   A lone woman, gifted with supernatural strength 
+   and abilities, stands alone to fight the{cy} {RED,BO}evil{red,bo} {CY}
+   and save the world...{cy}
+ 
+~
+397 1 1
+D4
+~
+~
+0 -1 39783
+X516
+Z2
+C-1
+R0
+S
+#39747
+{YEL,BO}UC Sunnydale{yel,bo}~
+{CY}
+   You are now on the campus of UC Sunnydale, a quaint little
+   college campus on the outskirts of town.  It's surprisingly
+   peaceful here, compared to the rest of the town. Maybe
+   they have really good Campus Security?{cy}
+ 
+~
+397 1029 1
+D0
+~
+~
+0 -1 39748
+D1
+~
+~
+0 -1 39675
+Z8
+C-1
+R0
+S
+#39748
+{YEL,BO}Strolling the Campus{yel,bo}~
+{CY}
+   This campus is suspiciously quiet.  There's hardly a vampire
+   or evil demon to be seen!  What's keeping them at bay?{cy}
+ 
+~
+397 1025 1
+D0
+~
+~
+0 -1 39756
+D2
+~
+~
+0 -1 39747
+D3
+~
+~
+0 -1 39749
+Z8
+C-1
+R0
+S
+#39749
+{YEL}Lecture Hall{yel}~
+{CY}
+   You are now standing at the entrance to a large lecture
+   hall.  A voice booms over a loudspeaker with authority,
+   droning on about the id, ego, and other psychological
+   garbage.  You can also make out the faint sound of 
+   snoring in the background....{cy}
+ 
+~
+397 1029 1
+D0
+~
+~
+0 -1 39750
+D1
+~
+~
+0 -1 39748
+D2
+~
+~
+0 -1 39751
+D3
+~
+~
+0 -1 39754
+Z4
+C-1
+R0
+S
+#39750
+{YEL}Down the Aisle{yel}~
+{CY}
+   Here's an aisle between the seats, leading down to the
+   front of the lecture room.  Rows of students sit on 
+   either side of you.  Some are hanging on every word the
+   professor is saying, others seem less-than attentive.
+   You can still hear someone snoring in the background.{cy}
+ 
+~
+397 1025 1
+D2
+~
+~
+0 -1 39749
+D3
+~
+~
+0 -1 39752
+Z4
+C-1
+R0
+S
+#39751
+{YEL}Down the Aisle{yel}~
+{CY}
+   Here's an aisle between the seats, leading down to the
+   front of the lecture room.  Rows of students sit on 
+   either side of you.  Some are hanging on every word the
+   professor is saying, others seem less-than attentive.
+   You can still hear someone snoring in the background.{cy}
+ 
+~
+397 1025 1
+D0
+~
+~
+0 -1 39749
+D3
+~
+~
+0 -1 39753
+Z4
+C-1
+R0
+S
+#39752
+{YEL}Down the Aisle{yel}~
+{CY}
+   Here's an aisle between the seats, leading down to the
+   front of the lecture room.  Rows of students sit on 
+   either side of you.  Some are hanging on every word the
+   professor is saying, others seem less-than attentive.
+   You can still hear someone snoring in the background.{cy}
+ 
+~
+397 1025 1
+D1
+~
+~
+0 -1 39750
+D3
+~
+~
+0 -1 39755
+Z4
+C-1
+R0
+S
+#39753
+{YEL}Down the Aisle{yel}~
+{CY}
+   Here's an aisle between the seats, leading down to the
+   front of the lecture room.  Rows of students sit on 
+   either side of you.  Some are hanging on every word the
+   professor is saying, others seem less-than attentive.
+   You can still hear someone snoring in the background.{cy}
+ 
+~
+397 1025 1
+D1
+~
+~
+0 -1 39751
+D3
+~
+~
+0 -1 39755
+Z4
+C-1
+R0
+S
+#39754
+{YEL}Down the Aisle{yel}~
+{CY}
+   Here's an aisle between the seats, leading down to the
+   front of the lecture room.  Rows of students sit on 
+   either side of you.  Some are hanging on every word the
+   professor is saying, others seem less-than attentive.
+   You can still hear someone snoring in the background.{cy}
+ 
+~
+397 1025 1
+D1
+~
+~
+0 -1 39749
+D3
+~
+~
+0 -1 39755
+Z4
+C-1
+R0
+S
+#39755
+{YEL,UND}Head of the Class{yel,und}~
+{CY}
+   At the bottom of the lecture hall, you find a large stage.
+   A rather stern woman is here, lecturing while showing 
+   slides on a screen at the back wall.  She seems to have been
+   distracted by your movement, and is pretty upset that you're
+   messing up her class! {cy}
+ 
+~
+397 1025 1
+D1
+~
+~
+0 -1 39754
+Z4
+C-1
+R0
+S
+#39756
+{YEL,BO}Strolling the Campus{yel,bo}~
+{CY}
+   This campus is suspiciously quiet.  There's hardly a vampire
+   or evil demon to be seen!  What's keeping them at bay?{cy}
+ 
+~
+397 1025 1
+D1
+~
+~
+0 -1 39757
+D2
+~
+~
+0 -1 39748
+Z8
+C-1
+R0
+S
+#39757
+{GRE,BO}Stevenson Hall{gre,bo}~
+{CY}
+   Stevenson Hall is the notorious Men's Dormitory at UC
+   Sunnydale.  The parties held here are legendary!  It's
+   also the safest building on campus, almost as if it's
+   some sort of secret fortress or something....
+  
+   ....nah, that's just silly.  It's not like there could
+   be a secret government facility hidden here, right? {cy}
+ 
+~
+397 1037 1
+D3
+~
+~
+0 -1 39756
+D4
+~
+~
+0 -1 39758
+X16384
+Z4
+C-1
+R0
+S
+#39758
+{GRE,BO}The Upstairs Hallway{gre,bo}~
+{CY}
+   The upstairs hallway is unusually sparse.  The
+   only thing that grabs your attention is a large,
+   full-length mirror to your right. {cy}
+ 
+~
+397 9 1
+D1
+{CY}
+Hey, lookin' good!{cy}
+ 
+~
+Mirror~
+2 39635 39759
+D5
+~
+~
+0 -1 39757
+Z4
+C-1
+R0
+S
+#39759
+{BLA}A Secret Elevator{bla}~
+{CY}
+   Wow, you've found a secret elevator!  The elevator
+   doesn't seem to have any buttons, just a voice receiver
+   on the side.  A computerized voice is asking you to
+   state your identification, before security measures 
+   are activated! {cy}
+ 
+~
+397 9 1
+D5
+{CY}
+Wonder where this thing goes?
+{cy}
+~
+Elevator~
+2 39634 39760
+E
+receiver~
+{CY}
+   State your name for identification.  You have 30
+   seconds. {cy}
+ 
+~
+X8
+Z5
+C-1
+R0
+S
+#39760
+{CY,BO}Going Down!{cy,bo}~
+{CY}
+   Wow, this thing is fast!!! Going down!
+{cy}
+~
+397 1048585 1
+D5
+~
+~
+0 -1 39761
+Z5
+C1
+R0
+S
+#39761
+{BLAC}Final Destination?{bla}~
+{CY}
+   The elevator comes to a gentle halt as you reach your
+   destination.  You hope you haven't been detected yet,
+   because all this security can't be good for an intruder
+   like you.{cy}
+ 
+~
+397 9 1
+D1
+{CY}
+   The elevator doors are closed.  Should you open them
+   and see what's beyond?
+{cy}
+~
+Door~
+1 -1 39763
+D4
+~
+Hatch~
+3 -1 39762
+X8
+Z5
+C-1
+R0
+S
+#39762
+{BLA}Hiding in the Elevator Shaft{bla}~
+{BLA}
+   It's a good thing you remembered that elevators have
+   a hatch to the roof of the car.... looks like this 
+   is a safe place to wait, just in case someone's waiting
+   for you in the next room....{bla}
+ 
+~
+397 13 1
+D5
+~
+Hatch~
+1 -1 39761
+X8
+Z8
+C-1
+R0
+S
+#39763
+{GRE,BO}The I{gre,bo}{BLA}niti{bla}{GRE}ative{gre}~
+{CY}
+   You are now standing in the underground base known
+   as The Initiative!  This is the Government's answer
+   to the threat of demons and monsters... a military
+   and scientific research facility, training recruits
+   to battle the hostile sub-terrestrials.
+{cy}
+~
+397 4 1
+D1
+~
+~
+0 -1 39764
+D3
+~
+Door~
+1 -1 39761
+X8
+Z-1
+C-1
+R0
+S
+#39764
+{GRE,BO}The I{gre,bo}{BLA}niti{bla}{GRE}ative{gre}~
+{CY}
+   You are now standing in the underground base known
+   as The Initiative!  This is the Government's answer
+   to the threat of demons and monsters... a military
+   and scientific research facility, training recruits
+   to battle the hostile sub-terrestrials.
+{cy}
+~
+397 4 1
+D0
+~
+~
+0 -1 39769
+D1
+~
+~
+0 -1 39765
+D3
+~
+~
+0 -1 39763
+X8
+Z-1
+C-1
+R0
+S
+#39765
+{GRE,BO}The I{gre,bo}{BLA}niti{bla}{GRE}ative{gre}~
+{CY}
+   You are now standing in the underground base known
+   as The Initiative!  This is the Government's answer
+   to the threat of demons and monsters... a military
+   and scientific research facility, training recruits
+   to battle the hostile sub-terrestrials.
+{cy}
+~
+397 4 1
+D0
+~
+~
+0 -1 39768
+D1
+~
+~
+0 -1 39766
+D3
+~
+~
+0 -1 39764
+X8
+Z-1
+C-1
+R0
+S
+#39766
+{GRE,BO}The I{gre,bo}{BLA}niti{bla}{GRE}ative{gre}~
+{CY}
+   You are now standing in the underground base known
+   as The Initiative!  This is the Government's answer
+   to the threat of demons and monsters... a military
+   and scientific research facility, training recruits
+   to battle the hostile sub-terrestrials.
+{cy}
+~
+397 4 1
+D0
+~
+~
+0 -1 39767
+D1
+~
+~
+0 -1 39773
+D3
+~
+~
+0 -1 39765
+X8
+Z-1
+C-1
+R0
+S
+#39767
+{GRE,BO}The I{gre,bo}{BLA}niti{bla}{GRE}ative{gre}~
+{CY}
+   You are now standing in the underground base known
+   as The Initiative!  This is the Government's answer
+   to the threat of demons and monsters... a military
+   and scientific research facility, training recruits
+   to battle the hostile sub-terrestrials.
+{cy}
+~
+397 4 1
+D0
+~
+~
+0 -1 39772
+D2
+~
+~
+0 -1 39766
+D3
+~
+~
+0 -1 39768
+X8
+Z-1
+C-1
+R0
+S
+#39768
+{GRE,BO}The I{gre,bo}{BLA}niti{bla}{GRE}ative{gre}~
+{CY}
+   You are now standing in the underground base known
+   as The Initiative!  This is the Government's answer
+   to the threat of demons and monsters... a military
+   and scientific research facility, training recruits
+   to battle the hostile sub-terrestrials.
+{cy}
+~
+397 4 1
+D0
+~
+~
+0 -1 39771
+D1
+~
+~
+0 -1 39767
+D2
+~
+~
+0 -1 39765
+D3
+~
+~
+0 -1 39769
+X8
+Z-1
+C-1
+R0
+S
+#39769
+{GRE,BO}The I{gre,bo}{BLA}niti{bla}{GRE}ative{gre}~
+{CY}
+   You are now standing in the underground base known
+   as The Initiative!  This is the Government's answer
+   to the threat of demons and monsters... a military
+   and scientific research facility, training recruits
+   to battle the hostile sub-terrestrials.
+{cy}
+~
+397 4 1
+D0
+~
+~
+0 -1 39770
+D1
+~
+~
+0 -1 39768
+D2
+~
+~
+0 -1 39764
+D3
+~
+~
+0 -1 39774
+X8
+Z-1
+C-1
+R0
+S
+#39770
+{GRE,BO}The I{gre,bo}{BLA}niti{bla}{GRE}ative{gre}~
+{CY}
+   You are now standing in the underground base known
+   as The Initiative!  This is the Government's answer
+   to the threat of demons and monsters... a military
+   and scientific research facility, training recruits
+   to battle the hostile sub-terrestrials.
+{cy}
+~
+397 4 1
+D0
+{CY}
+   The Door to Room 314 is here.  Looks like you need
+   a security access card to get in.
+{cy}
+~
+Room~
+2 39636 39777
+D1
+~
+~
+0 -1 39771
+D2
+~
+~
+0 -1 39769
+X8
+Z-1
+C-1
+R0
+S
+#39771
+{GRE,BO}The I{gre,bo}{BLA}niti{bla}{GRE}ative{gre}~
+{CY}
+   You are now standing in the underground base known
+   as The Initiative!  This is the Government's answer
+   to the threat of demons and monsters... a military
+   and scientific research facility, training recruits
+   to battle the hostile sub-terrestrials.
+{cy}
+~
+397 4 1
+D1
+~
+~
+0 -1 39772
+D2
+~
+~
+0 -1 39768
+D3
+~
+~
+0 -1 39770
+X8
+Z-1
+C-1
+R0
+S
+#39772
+{GRE,BO}The I{gre,bo}{BLA}niti{bla}{GRE}ative{gre}~
+{CY}
+   You are now standing in the underground base known
+   as The Initiative!  This is the Government's answer
+   to the threat of demons and monsters... a military
+   and scientific research facility, training recruits
+   to battle the hostile sub-terrestrials.
+{cy}
+~
+397 4 1
+D0
+~
+~
+0 -1 39776
+D2
+~
+~
+0 -1 39767
+D3
+~
+~
+0 -1 39771
+X8
+Z-1
+C-1
+R0
+S
+#39773
+{RED}Security Station{red}~
+{CY}
+   You are now standing in a small room, with monitors
+   covering the walls.  You can see almost every room
+   in this facility from here! 
+  
+   You catch a brief glimpse of something large moving
+   on a camera in room 314, and notice a manual on the 
+   desk is open to a specific page....{cy}
+ 
+~
+397 4 1
+D3
+~
+~
+0 -1 39766
+E
+room314~
+{CY}
+   A large bio-mechanical monster is walking around in
+   Room 314.  What could it be up to?
+{cy}
+~
+E
+manual~
+{CY}
+   Emergency security passes are located in the desk.
+   These passes are good for one use only, but can be
+   used to access any door or lock in the Initiative.
+{cy}
+~
+X8
+Z-1
+C-1
+R0
+S
+#39774
+{BLA}P{bla}{WHI}r{whi}{BLA}i{bla}{WHI}s{whi}{BLA}o{bla}{WHI}n{whi} {BLA}H{bla}{WHI}a{whi}{BLA}l{bla}{WHI}l{whi}~
+{CY}
+   This long hallway is lined with prison cells.
+   The impenetrable glass doors contain some of the
+   ugliest monsters you've ever seen!  Oddly, it 
+   looks as though an Initiative Agent is being 
+   held in one of the cells....
+{cy}
+~
+397 0 1
+D1
+~
+~
+0 -1 39769
+D3
+~
+CellDoor~
+1 -1 39775
+X8
+Z-1
+C-1
+R0
+S
+#39775
+{WHI}P{whi}{BLA}r{bla}{WHI}i{whi}{BLA}s{bla}{WHI}o{whi}{BLA}n{bla} {WHI}C{whi}{BLA}e{bla}{WHI}l{whi}{BLA}l{bla}~
+{WHI,BO}
+   This is a small prison cell, barely enough room
+   for a few people to fit in.  It is starkly white,
+   with not so much as a bench or toilet in the
+   cramped room!
+{whi,bo}
+~
+397 16384 1
+D1
+~
+CellDoor~
+1 -1 39774
+Z-1
+C2
+R0
+S
+#39776
+{RED,BO}Th{red,bo}{RED}e A{red}{RED,BO}rm{red,bo}{RED}ory{red}~
+{CY}
+   The armory of the Initiative is well-stocked with a
+   deadly arsenal of weapons!  Racks are filled with
+   assault rifles and high-powered tazer weapons.
+   Grenades sit neatly in cases on the side.  And on
+   the wall, in a{cy} {R}locked case{r}{CY}, sits a large rocket
+   launcher....
+{cy}
+~
+397 4 1
+D2
+~
+~
+0 -1 39772
+X8
+Z-1
+C-1
+R0
+S
+#39777
+{WHI,BO}Room 314{whi,bo}~
+{W,BO}
+   Room 314 was Dr. Maggie Walsh's secret laboratory.
+   A horrific collection of demon parts lies scattered
+   about.  It seems as if certain parts were removed
+   from specific creatures....what could they possibly
+   have been doing here?
+{w,bo}
+~
+397 4 1
+D2
+~
+Room~
+1 -1 39770
+D3
+~
+~
+0 -1 39778
+X8
+Z-1
+C-1
+R0
+S
+#39778
+{WHI,BO}Room 314{whi,bo}~
+{W,BO}
+   Room 314 was Dr. Maggie Walsh's secret laboratory.
+   A horrific collection of demon parts lies scattered
+   about.  It seems as if certain parts were removed
+   from specific creatures....what could they possibly
+   have been doing here?
+{w,bo}
+~
+397 4 1
+D1
+~
+~
+0 -1 39777
+D2
+{YEL,BO}
+   Shafts of light pour out of a crack in the wall.
+{yel,bo}
+~
+Crack~
+1 -1 39779
+X8
+Z-1
+C-1
+R0
+S
+#39779
+{BLA}The Hidden Room{bla}~
+{CY}
+   Wow, you've found a hidden room behind 314!  It looks like
+   some sort of assembly line of horrors, with operating tables
+   and equipment lining the walls.  Just the sort of thing
+   you'd need to make an army of human-demon superbeings!{cy}
+ 
+~
+397 0 1
+D0
+~
+Crack~
+1 -1 39778
+D3
+~
+~
+0 -1 39780
+X8
+Z-1
+C-1
+R0
+S
+#39780
+{BLA}The Hidden Room{bla}~
+{CY}
+   Wow, you've found a hidden room behind 314!  It looks like
+   some sort of assembly line of horrors, with operating tables
+   and equipment lining the walls.  Just the sort of thing
+   you'd need to make an army of human-demon superbeings!{cy}
+ 
+~
+397 0 1
+D1
+~
+~
+0 -1 39779
+D3
+~
+~
+0 -1 39781
+X8
+Z-1
+C-1
+R0
+S
+#39781
+{WHI}The Secret Control Room{whi}~
+{CY}
+   This is a secret control room, hidden to all the Agents
+   of the Initiative.  A hulking human-demon hybrid is here,
+   pulling the strings in his plan to create a super army
+   of hideous Frankenstein-type monsters!
+{cy}
+~
+397 128 1
+D1
+~
+~
+0 -1 39780
+X8
+Z-1
+C-1
+R0
+S
+#39782
+{MAG,BO}Sorry, Try Again!{mag,bo}~
+ 
+   {CY}Whoops, this is the wrong room.  Better choose correctly,
+   before you run out of keys.{cy} 
+ 
+~
+397 16384 1
+Z-1
+C-1
+R0
+S
+#39783
+{W}Back in the cold, cold world{w}~
+
+   {W}Here you are just having dug your way out of a 
+   grave. Everything is blurry. The world seems cold
+   and dark. A rush of emotions has just went through
+   your body. You hurt a pain that can never be 
+   soothed. You where ripped out of heaven by a 
+   strong magical force. Now you are back in a world
+   of evil and pain.{w} 
+
+~
+397 4 1
+D5
+~
+~
+0 -1 39746
+Z-1
+C-1
+R0
+S
+#39784
+{BLU}The Locker Room{blu}~
+{BLU}
+   Boy, is it hot in here, or what?  Seems like someone
+   left the showers running, since there's so much steam
+   in the room.  It's making it difficult to see, and
+   the incessant running water makes it hard to hear as
+   well.
+{blue}
+~
+397 1180 1
+D2
+~
+~
+0 -1 39655
+Z-1
+C-1
+R0
+S
+#39799
+{BLU}Wi{blue}{CY}ld{cy}{WH}st{w}{BLA}ar's{bla} {R,BO}Secret Hideout! {r,bo}~
+{CY}
+   Yet another room that I'll make a decent description for later.
+{cy}
+~
+397 65536 1
+Z-1
+C-1
+R0
+S
+$~

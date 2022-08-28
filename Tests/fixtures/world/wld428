@@ -1,0 +1,76 @@
+#42800
+{W,BO}The Stage of History{w,bo}~
+{W,BO}
+   Transcending history and the world, a tale
+   of souls and swords, eternally retold.
+{w,bo}
+~
+428 16777228 1
+Z-1
+C-1
+S
+#42801
+testup~
+You are standing in nowhere !!!!
+~
+428 0 1
+D1
+~
+~
+0 -1 42802
+D5
+~
+~
+0 -1 42803
+Z-1
+C-1
+S
+#42802
+testdown~
+You are standing in nowhere !!!!
+~
+428 0 1
+D3
+~
+~
+0 -1 42801
+D4
+~
+door~
+1 -1 42803
+Z-1
+C-1
+S
+#42803
+testslide~
+You are standing in nowhere !!!!
+~
+428 1048576 1
+D4
+~
+~
+0 -1 42801
+D5
+~
+door~
+1 -1 42802
+Z-1
+C-1
+S
+#42898
+{R}Ostrheinsburg Chapel{r}~
+You are standing in nowhere !!!!
+~
+428 262144 1
+Z3
+C1
+S
+#42899
+{R,BO}Ostrheinsburg Castle{r,bo}~
+You are standing in nowhere !!!!
+~
+428 16 1
+Z3
+C1
+S
+$~

@@ -1,0 +1,2440 @@
+#22815
+{Y,BO}Level 2 Guard Booth{bo}~
+
+This is a very small room with a door to the North as the only
+apparent exit.  There are a desk and a chair.  On the desk you
+recognize what must have been the automatic door control panel 
+for this level, but it is evident that it is broken. Some dra-
+werless file cabinets are piled on  the  corner and  what  was 
+their contents lie in a disorganized heap on the floor.
+
+~
+228 0 1
+D0
+~
+bigdoor~
+1 -1 22814
+Z3
+C-1
+R0
+S
+#22805
+{Y,BO}The Entrance{bo}~
+
+You are at the entrance of a plain wide, low, concrete building.
+You are welcomed by a guard who looks very  agitated.   He says:
+Sir, I'm glad you came. The inmates have taken control of seve-
+ral of the levels, and some of the ward-guards have  lost  their
+grasp of reality  too.  I hope you'll  fix it, sir.  But I would
+rather we wait for the National Guard Emergency Squad."  Then he
+says "anyways" and opens the door for you.
+
+~
+228 0 1
+D1
+~
+~
+0 -1 22806
+D2
+~
+~
+0 -1 22804
+Z3
+C-1
+R0
+S
+#22804
+{bo,C}The Parking Lot{bo}~
+
+You are walking along a not so big parking lot, just past the 
+entrance checking point.  The lot is surrounded by a  terrain 
+covered by bright green  grass  and some short, newly planted 
+trees. A plain low building lies to the north. You think you 
+heard a muffled cry, a human cry, but you are not sure.  May-
+be it was not such a good idea to visit the  Pescadero Mental 
+Institution after all.
+
+~
+228 4 1
+D0
+~
+~
+0 -1 22805
+D2
+~
+~
+0 -1 22803
+Z3
+C-1
+R0
+S
+#22803
+{BO,Y}The Screening Booth{bo}~
+
+Here ends the wide avenue.  In front of you, separated by
+what appears to be a high electrified fence, lies a large 
+clean and nice looking terrain,  with nice groomed grass, 
+and a plain looking building in the centre.  The only way 
+in is covered by the check-up officer in his booth.  
+-
+He says: "May I see your badge, please, sirrrr?"
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22804
+D2
+~
+~
+0 -1 22802
+Z3
+C-1
+R0
+S
+#22802
+{bo,C}The Wide Paved Road{bo}~
+
+Same nice wide road, sidewalks and trees.  All is extremely 
+clean. Beyond the trees you see a carefully groomed grass.  
+You think  that  you  could come and picnic there sometime.  
+There is something on the sidewalk shining in the noon sun.
+
+~
+228 4 1
+D0
+~
+~
+0 -1 22803
+D2
+~
+~
+0 -1 22801
+Z3
+C-1
+R0
+S
+#22801
+{bo,C}The Wide Paved Road{bo}~
+
+A wide paved road, well illuminated, with nice wide sidewalks
+and beautiful well trimmed  young trees leads north.  The air
+smells of  flowers and the nice hot dry sun warms your skin.
+You see a sign by the side of the road.
+
+~
+228 4 1
+D0
+~
+~
+0 -1 22802
+D2
+~
+~
+0 -1 6008
+E
+sign~
+. ____________________________________________________    
+___| =============================================== |
+| |  Pescadero State Mental Diseases Research Centre |
+| |  =============================================== |
+| |   You are entering Military Restricted area.     |
+| |   Please, have your identification badge at hand.|
+| |                                                  |
+| |                   Director: El Zorro.            |
+| |                                                  |
+| |  (A graffitti covers the sign: MADHOUSE!)        |
+| |__________________________________________________|
+|_________________________________________________|
+~
+Z3
+C-1
+R0
+S
+#22800
+La Cueva del Zorro~
+
+This is the famous cave of El Zorro, his hideaway.  Hanging
+from the ceiling you see some Serrano-ham-legs,  along with
+garlic strings, and some hot pimentos.  Stacked by the wall 
+there are some red-wine (tintorro) barrels.  From the  back 
+of the cave some music can be heard,  you  distinguish  the 
+sound of guitars, and some voices singing gaily in Spanish.
+
+~
+228 16512 1
+Z3
+C0
+R0
+S
+#22806
+{bo,W}the Main Hallway{bo}~
+
+You are standing on a wide hallway.  It looks like a hospital
+hallway, but the smells are different.   You can hear grunts,
+cries, but cannot tell from what direction.  The guard closes
+the door behind you, now you can only go on.
+
+~
+228 4 1
+D1
+~
+~
+0 -1 22807
+Z3
+C-1
+R0
+S
+#22807
+{bo,W}the Main Hallway{bo}~
+
+The hospital-like hallway turns to the north.  To the   west you
+see the way you came.  To the south there is a  sturdy  reinfor-
+ced door.   Cries and curses can be heard coming from the  other
+side of the door.  Maybe it's not a good idea to open that door.
+
+~
+228 4 1
+D0
+~
+~
+0 -1 22812
+D2
+~
+door~
+1 -1 22808
+D3
+~
+~
+0 -1 22806
+Z3
+C-1
+R0
+S
+#22808
+{bo,G}Ward {BO}S1 {bo,G}({BO}low security area{bo,G}){bo}~
+
+You are standing at the entrance of the low security ward South,
+level one.  A  pile of  smashed  furniture lies scattered on the 
+floor. To the south some  heavy  breathing comes from the dark, 
+as the lights have been smashed.
+
+~
+228 0 1
+D0
+You see a wide door.  It is very sturdy.  Probably made with
+several wood and steel layers.  It is badly scratched and 
+smeared with what looks like a message.  Part of it is
+barely readable, it's written in ...human excrement...ack.
+It reads: "...valuable......false wall..."  Very intriguing!
+~
+door~
+1 -1 22807
+D1
+~
+~
+0 -1 22820
+D2
+~
+~
+0 -1 22809
+Z3
+C-1
+R0
+S
+#22809
+{bo,G}the {BO}S1{bo,G}-{BO}TV{bo,G} Room{bo}~
+
+You are standing in what was a television watching area for the
+immates of  this  ward.  The TV set, or rather parts of it, are
+scattered through the room.  A blood stained  poker  card  deck
+appear randomly under the beam of your flashlight.  Fear conge-
+als around you...it's so thick it can be cut with a knife!
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22808
+D2
+~
+~
+0 -1 22810
+D3
+~
+~
+0 -1 22811
+Z3
+C-1
+R0
+S
+#22810
+{bo,G}the Solitary Room {BO}S1{bo}~
+
+You are  in a very small room.  Claustrophoby  grasps you by the 
+throat. There are no windows and the walls and floor are padded.  
+A drooling  inmate  lies  on  a  cot,  restrained  and  tied by a 
+straight jacket.  The poor guy has been beaten to death, maybe by
+his own fellow patients, but more likely ... by the cruel nurses!
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22809
+Z3
+C-1
+R0
+S
+#22811
+{bo,G}the Recreation Room {BO}S1{bo}~
+
+This is a wide room, pieces of tables, chairs, desks, pocker cards,
+dominoes are scattered randomly over the floor.  On the walls the-
+re still hang some pictures of the past directors of  this  place,
+hanging on a prominent place you see the picture of the current di
+rector the enlightened and honourable El Zorro.
+
+~
+228 0 1
+D1
+~
+~
+0 -1 22809
+Z3
+C-1
+R0
+S
+#22812
+{bo,W}the Main Hallway{bo}~
+
+The hospital-like hallway continues to the West and to the South.
+To the  East  you see a reinforced door with big scratches on it    
+and what  looks  like ... BLOOD!  Grunts, cries and curses sound 
+behind the door.
+
+~
+228 4 1
+D1
+~
+door~
+1 -1 22826
+D2
+~
+~
+0 -1 22807
+D3
+~
+~
+0 -1 22813
+Z3
+C-1
+R0
+S
+#22813
+{bo,W}the Main Hallway{bo}~
+
+To the  East the hallways continues, to the south a rubber-carpeted
+ramp descends slowly to the second level.  North of here you can see
+a barred-door.  You try to peek through the bars, but it is too dark
+inside, as you get closer to the door a dozen angry hands reach out
+from the other side to catch you!!!
+
+~
+228 4 1
+D0
+~
+door~
+1 -1 22816
+D1
+~
+~
+0 -1 22812
+D2
+~
+~
+0 -1 22814
+Z3
+C-1
+R0
+S
+#22814
+{bo,G}Checkpoint to Level 2 ({C}light security{G}){bo}~
+
+To the North a rubber-carpeted ramp ascends slowly to the upper
+levels. East of here there is a barred-door, it appears to  be
+locked ... there must be a key somewhere, maybe somebody   car-
+ries it, or maybe he didn't care any more and dropped it.    To 
+the south you see a partially opened door, it is obviously dark 
+inside, insane mumbling comes from there.
+-
+There is a sign on the wall.
+
+~
+228 4 1
+D0
+~
+~
+0 -1 22813
+D1
+~
+barred-door~
+2 22807 22827
+D2
+~
+bigdoor~
+1 -1 22815
+E
+sign~
+
+__________________________________________________________
+|<<<<<<<<<<<<<<<< Light Security Level >>>>>>>>>>>>>>>>>>|                  
+|--------------------------------------------------------|
+| Only authorized personnel (those with clearance level  |
+| five or greater) are to proceed past this point.   To  |
+| check your current clearance level, type who lcb.      |
+| El Zorro.                                              |  
+|________________________________________________________|
+
+~
+Z3
+C-1
+R0
+S
+#22816
+{bo,G}Ward {BO}N1 {bo,G}({BO}low security area{bo,G}){bo}~
+
+You are standing at the entrance to another of the low security 
+wards in this building.  You stand on some slimy and foul smel-
+ling substance. When you look at it carefully you realize it is 
+a disgusting mixture of vomit and human excrement....YUCK!  
+The walls are smeared with finger paintings  made  of  the same 
+substance. The brownish foul letters read "Kill The Zorro!"
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22817
+D2
+~
+door~
+1 -1 22813
+D3
+~
+~
+0 -1 22821
+Z3
+C-1
+R0
+S
+#22817
+{bo,G}the {BO}N1{bo,G}-{BO}TV {bo,G}Room{bo}~
+
+You are standing in what was a television watching area for the 
+immates of  this  ward.  The TV set, or rather parts of it, are
+scattered through the room.  A blood stained  poker  card  deck 
+appear randomly under the beam of your flashlight.  Fear conge-
+als around you...it's so thick it can be cut with a knife!
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22818
+D1
+~
+~
+0 -1 22819
+D2
+~
+~
+0 -1 22816
+Z3
+C-1
+R0
+S
+#22818
+{bo,G}the Solitary Room {BO}N1{bo}~
+
+You are  in a very small room.  Claustrophoby  grasps you by the  
+throat. There are no windows and the walls and floor are padded.  
+A drooling  inmate  lies  on  a  cot,  restrained  and  tied by a  
+straight jacket.  The poor guy has been beaten to death, maybe by
+his own fellow patients, but more likely ... by the cruel nurses!
+
+~
+228 0 1
+D2
+~
+~
+0 -1 22817
+Z3
+C-1
+R0
+S
+#22819
+{bo,G}the Recreation Room {BO}N1{bo}~
+
+This is a wide room, pieces of tables, chairs, desks, pocker cards,
+dominoes are scattered randomly over  the floor.  On the walls the-
+re still hang some pictures of the past directors of  this  place,
+hanging on a prominent place you see the picture of the current di
+rector the enlightened and honourable El Zorro.  By his side, big
+portraits of former directors:  Forge, Unknown, Primer, Keg, LSD,
+...and many others.  Somebody painted devilish moustaches and bea-
+rd on Forge's picture.
+
+~
+228 0 1
+D3
+~
+~
+0 -1 22817
+Z3
+C-1
+R0
+S
+#22820
+{bo,G}the Bathroom {BO}S1{bo}~
+
+A wide room, with three sinks, three toilet stands and some showers
+surrounds you.  The stink is unbearable, and you have no doubt what
+the smell  is  when  you look at the thick crust now glued to your 
+soles...ack!
+
+~
+228 0 1
+D3
+~
+~
+0 -1 22808
+Z3
+C-1
+R0
+S
+#22821
+{bo,G}the Bathroom {BO}N1{bo}~
+
+A wide room, with three sinks, three toilet stands and some showers
+surrounds you.  The stink is unbearable, and you have no doubt what
+the smell  is  when  you look at the thick crust now glued to your
+soles...ack!
+
+~
+228 0 1
+D1
+~
+~
+0 -1 22816
+Z3
+C-1
+R0
+S
+#22822
+{bo,G}the {BO}Nurses Desk{bo,G} Level {BO}One{bo}~
+
+You are standing in a moderately wide room.  A small desk occupies
+it. It lies there,  upsidedown, and the corpse of a nurse sits at
+an awkward angle on it.  Protruding  from the nurses chest you see
+the metalic leg of a chair!
+
+~
+228 0 1
+D1
+~
+~
+0 -1 22824
+D2
+~
+~
+0 -1 22825
+D3
+~
+~
+0 -1 22826
+Z3
+C-1
+R0
+S
+#22823
+{bo,G}the Bathroom {BO}E1{bo}~
+
+A wide room, with three sinks, three toilet stands and some showers
+surrounds you.  The stink is unbearable, and you have no doubt what
+the smell  is  when  you look at the thick crust now glued to your
+soles...ack!
+
+~
+228 0 1
+D2
+~
+~
+0 -1 22826
+Z3
+C-1
+R0
+S
+#22824
+{bo,G}Resident Psychiatrist's Office {BO}Level One{bo}~
+
+Not much was left intact of this room.  The pictures, that once adorned
+the walls, along with a nicely framed diploma, must be somewhere under
+the pile  of  scraped paper.  A leg  can  be seen coming out of the big
+pile...you guess it's the doctor, or rather...his corpse!
+
+~
+228 0 1
+D3
+~
+~
+0 -1 22822
+Z3
+C-1
+R0
+S
+#22825
+{bo,G}the {BO}Level One{bo,G} Examination Room{bo}~
+
+You are standing on what used to be the room for examinations and
+interviews of patients.  A lonely  close-circuit TV-camera stares
+at you from a corner, near the  ceiling, the only untouched piece
+of the furniture.  The  instrument cabinets are wide open and you
+worry about what use the current holders of them may put them to.
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22822
+Z3
+C-1
+R0
+S
+#22826
+{bo,G}Office Level {BO}One{bo}~
+
+This used to be a clean, neat, well ventilated room.  Now a "a mess"
+would not be enough to describe it.  File cabinets are on the floor,
+papers all over the place.  From  under  the  heap  of paper a badly  
+battered nurse rises her voice:   "Please take us out of here...they
+...they are loose...pleeaaaase!",  she  starts  to cry,   chokes and
+drops her head to the floor...dead!
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22823
+D1
+~
+~
+0 -1 22822
+D3
+~
+door~
+1 -1 22812
+E
+corpse~
+You look closely at the still form in a white ragged dress on the
+floor. She must have been even pretty, now her remains lay there
+arms and legs spread out like a broken doll...the nurse is dead!
+
+~
+Z3
+C-1
+R0
+S
+#22827
+{bo,W}the Level 2 Hallway{bo}~
+
+The hospital-like hallway turns to the north.  To the   west you
+see the way you came.  To the south there is a  sturdy  reinfor-
+ced door.   Cries and curses can be heard coming from the  other
+side of the door.  Maybe it's not a good idea to open that door.
+
+~
+228 4 1
+D0
+~
+~
+0 -1 22833
+D2
+~
+door~
+1 -1 22828
+D3
+~
+barred-door~
+1 -1 22814
+Z3
+C-1
+R0
+S
+#22828
+{bo,G}Ward {BO}S2 {bo,G}({C}light security area{bo,G}){bo}~
+
+You are  standing at the entrance of the South ward in this level.
+A pile of  smashed furniture lies scattered  on the floor.  To the
+North a  sturdy looking door separates  you  from the corridor. To
+the South  some  heavy  breathing  comes  from the dark.  A strong
+odor permeates the air here, and it is not very pleasant, now that 
+you think about it.
+
+~
+228 0 1
+D0
+~
+door~
+1 -1 22827
+D1
+~
+~
+0 -1 22829
+D2
+~
+~
+0 -1 22830
+Z3
+C-1
+R0
+S
+#22829
+{bo,G}the Bathroom {BO}S2{bo}~
+
+A wide room, with three sinks, three toilet stands and some showers
+surrounds you.  The stink is unbearable, and you have no doubt what
+the smell  is  when  you look at the thick crust now glued to your
+soles...ack!
+
+~
+228 0 1
+D3
+~
+~
+0 -1 22828
+Z3
+C-1
+R0
+S
+#22830
+{bo,G}the {BO}S2{bo,G}-{BO}TV{bo,G} Room{bo}~
+
+You are standing in what was a television watching area for the
+immates of  this  ward.  The TV set, or rather parts of it, are
+scattered through the room.  A blood stained  poker  card  deck
+appear randomly under the beam of your flashlight.  Fear conge-
+als around you...it's so thick it can be cut with a knife!
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22828
+D2
+~
+~
+0 -1 22831
+D3
+~
+~
+0 -1 22832
+Z3
+C-1
+R0
+S
+#22831
+{bo,G}the Solitary Room {BO}S2{bo}~
+
+You are  in a very small room.  Claustrophoby  grasps you by the
+throat. There are no windows and the walls and floor are padded.
+A drooling  inmate  lies  on  a  cot,  restrained  and  tied by a
+straight jacket.  The poor guy has been beaten to death, maybe by
+his own fellow patients, but more likely ... by the cruel nurses! 
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22830
+Z3
+C-1
+R0
+S
+#22832
+{bo,G}the Recreation Room {BO}S2{bo}~
+
+This is a wide room, pieces of tables, chairs, desks, pocker cards,
+dominoes are scattered randomly over  the floor.  On the walls the-
+re still hang some pictures of the past directors of  this  place,
+hanging on a prominent place you see the picture of the current di
+rector the enlightened and honourable El Zorro.  By his side, big
+portraits of former directors:  Forge, Unknown, Primer, Keg, LSD,  
+...and many others.  Somebody painted devilish moustaches and bea- 
+rd on Forge's picture.
+
+~
+228 0 1
+D1
+~
+~
+0 -1 22830
+Z3
+C-1
+R0
+S
+#22833
+{bo,W}the Level 2 Hallway{bo}~
+
+The hospital-like hallway continues to the West and to the South.
+To the  East  you see a reinforced door with big scratches on it
+and what  looks  like ... BLOOD!  Grunts, cries and curses sound
+behind the door.
+
+~
+228 4 1
+D1
+~
+door~
+1 -1 22834
+D2
+~
+~
+0 -1 22827
+D3
+~
+~
+0 -1 22839
+Z3
+C-1
+R0
+S
+#22834
+{bo,G}Office {BO}Level Two{bo}~
+
+This used to be a clean, neat, well ventilated room.  Now a "a mess"
+would not be enough to describe it.  File cabinets are on the floor,
+papers all over the place.  From  under  the  heap  of paper a badly
+battered nurse rises her voice:   "Please take us out of here...they
+...they are loose...pleeaaaase!",  she  starts  to cry,   chokes and
+drops her head to the floor...dead!
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22835
+D1
+~
+~
+0 -1 22836
+D3
+~
+door~
+1 -1 22833
+Z3
+C-1
+R0
+S
+#22835
+{bo,G}the Bathroom {BO}Level Two{bo}~
+
+A wide room, with three sinks, three toilet stands and some showers
+surrounds you.  The stink is unbearable, and you have no doubt what
+the smell  is  when  you look at the thick crust now glued to your
+soles...ack!
+
+~
+228 0 1
+D2
+~
+~
+0 -1 22834
+Z3
+C-1
+R0
+S
+#22836
+{bo,G}the Nurses Desk {BO}Level Two{bo}~
+
+You are standing in a moderately wide room.  A small desk occupies
+it. It lies there,  upsidedown, and the corpse of a nurse sits at
+an awkward angle on it.  Protruding  from the nurses chest you see
+the metalic leg of a chair!
+
+~
+228 0 1
+D1
+~
+~
+0 -1 22837
+D2
+~
+~
+0 -1 22838
+D3
+~
+~
+0 -1 22834
+Z3
+C-1
+R0
+S
+#22837
+{bo,G}Resident Psychiatrist's Office {BO}Level Two{bo}~
+
+Not much was left intact of this room.  The pictures, that once adorned
+the walls, along with a nicely framed diploma, must be somewhere under
+the pile  of  scraped paper.  A leg  can  be seen coming out of the big
+pile...you guess it's the doctor, or rather...his corpse!
+
+~
+228 0 1
+D3
+~
+~
+0 -1 22836
+Z3
+C-1
+R0
+S
+#22838
+{bo,G}the {BO}Level Two{bo,G} Examination Room{bo}~
+
+You are standing on what used to be the room for examinations and
+interviews of patients.  A lonely  close-circuit TV-camera stares
+at you from a corner, near the  ceiling, the only untouched piece
+of the furniture.  The  instrument cabinets are wide open and you
+worry about what use the current holders of them may put them to.
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22836
+Z3
+C-1
+R0
+S
+#22839
+{bo,W}the Level 2 Hallway{bo}~
+
+
+To the  East the hallways continues, to the South a rubber-carpeted
+ramp descends slowly to the third level.  North of here you can see
+a barred-door.  The door has been welded in place, so no ugly sur-
+prises wait for you north.
+
+~
+228 4 1
+D1
+~
+~
+0 -1 22833
+D2
+~
+~
+0 -1 22840
+Z3
+C-1
+R0
+S
+#22840
+{bo,G}Checkpoint to Level 3 ({bo,Y}medium security{bo,G}){bo}~
+
+To the North a rubber-carpeted ramp ascends slowly to the upper
+levels. East of here there is a barred-door, it appears to  be
+locked ... there must be a key somewhere, maybe somebody   car-
+ries it, or maybe he didn't care any more and dropped it.    To
+the south you see a partially opened door, it is obviously dark
+inside, insane mumbling comes from there.
+-
+There is a sign on the wall.
+
+~
+228 4 1
+D0
+~
+~
+0 -1 22839
+D1
+~
+barred~
+2 22807 22841
+D2
+~
+~
+0 -1 22897
+E
+sign~
+
+__________________________________________________________
+|<<<<<<<<<<<<<<< Medium Security Level >>>>>>>>>>>>>>>>>>|
+|--------------------------------------------------------|
+| Only authorized personnel (those with clearance level  |
+| ten or greater)  are to proceed past this point.   To  |
+| check your current clearance level, type who lcb.      |
+| El Zorro.                                              |
+|________________________________________________________|
+
+~
+Z3
+C-1
+R0
+S
+#22841
+{bo,W}the Level 3 Hallway{bo}~
+
+The hospital-like hallway turns to the north.  To the   west you
+see the way you came.  To the south there is a  sturdy  reinfor-
+ced door.   Cries and curses can be heard coming from the  other
+side of the door.  Maybe it's not a good idea to open that door.
+
+~
+228 4 1
+D0
+~
+~
+0 -1 22847
+D2
+~
+door~
+1 -1 22842
+D3
+~
+barred~
+1 -1 22840
+Z3
+C-1
+R0
+S
+#22842
+{bo,G}Ward {BO}S3{bo,G} ({Y}medium security area{bo,G}){bo}~
+
+You are  standing at the entrance of the South ward in this level.
+A pile of  smashed furniture lies scattered  on the floor.  To the
+North a  sturdy looking door separates  you  from the corridor. To
+the South  some  heavy  breathing  comes  from the dark.  A strong
+odor permeates the air here, and it is not very pleasant, now that
+you think about it.
+
+~
+228 0 1
+D0
+~
+door~
+1 -1 22841
+D1
+~
+~
+0 -1 22843
+D2
+~
+~
+0 -1 22844
+Z3
+C-1
+R0
+S
+#22843
+{bo,G}the Bathroom {BO}S3{bo}~
+
+A wide room, with three sinks, three toilet stands and some showers
+surrounds you.  The stink is unbearable, and you have no doubt what
+the smell  is  when  you look at the thick crust now glued to your
+soles...ack!
+
+~
+228 0 1
+D3
+~
+~
+0 -1 22842
+Z3
+C-1
+R0
+S
+#22844
+{bo,G}the {BO}S3{bo,G}-{BO}TV{bo,G} Room{bo}~
+
+You are standing in what was a television watching area for the  
+immates of  this  ward.  The TV set, or rather parts of it, are  
+scattered through the room.  A blood stained  poker  card  deck
+appear randomly under the beam of your flashlight.  Fear conge-
+als around you...it's so thick it can be cut with a knife!
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22842
+D2
+~
+~
+0 -1 22845
+D3
+~
+~
+0 -1 22846
+Z3
+C-1
+R0
+S
+#22845
+{bo,G}the Solitary Room {BO}S3{bo}~
+
+You are  in a very small room.  Claustrophoby  grasps you by the
+throat. There are no windows and the walls and floor are padded.
+A drooling  inmate  lies  on  a  cot,  restrained  and  tied by a
+straight jacket.  The poor guy has been beaten to death, maybe by
+his own fellow patients, but more likely ... by the cruel nurses!
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22844
+Z3
+C-1
+R0
+S
+#22846
+{bo,G}the Recreation Room {BO}S3{bo}~
+
+This is a wide room, pieces of tables, chairs, desks, pocker cards,
+dominoes are scattered randomly over  the floor.  On the walls the-
+re still hang some pictures of the past directors of  this  place,
+hanging on a prominent place you see the picture of the current di
+rector the enlightened and honourable El Zorro.  By his side, big
+portraits of former directors:  Forge, Unknown, Primer, Keg, LSD,  
+...and many others.  Somebody painted devilish moustaches and bea- 
+rd on Forge's picture.
+
+~
+228 0 1
+D1
+~
+~
+0 -1 22844
+Z3
+C-1
+R0
+S
+#22847
+{bo,W}the Level 3 Hallway{bo}~
+
+The hospital-like hallway continues to the West and to the South.
+To the  East  you see a reinforced door with big scratches on it
+and what  looks  like ... BLOOD!  Grunts, cries and curses sound
+behind the door.
+
+~
+228 4 1
+D1
+~
+door~
+1 -1 22848
+D2
+~
+~
+0 -1 22841
+D3
+~
+~
+0 -1 22853
+Z3
+C-1
+R0
+S
+#22848
+{bo,G}Office {BO}Level Three{bo}~
+
+This used to be a clean, neat, well ventilated room.  Now a "a mess"
+would not be enough to describe it.  File cabinets are on the floor,
+papers all over the place.  From  under  the  heap  of paper a badly
+battered nurse rises her voice:   "Please take us out of here...they
+...they are loose...pleeaaaase!",  she  starts  to cry,   chokes and
+drops her head to the floor...dead!
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22849
+D1
+~
+~
+0 -1 22850
+D3
+~
+door~
+1 -1 22847
+Z3
+C-1
+R0
+S
+#22849
+{bo,G}the Bathroom {BO}Level Three{bo}~
+
+A wide room, with three sinks, three toilet stands and some showers
+surrounds you.  The stink is unbearable, and you have no doubt what
+the smell  is  when  you look at the thick crust now glued to your
+soles...ack!
+
+~
+228 0 1
+D2
+~
+~
+0 -1 22848
+Z3
+C-1
+R0
+S
+#22850
+{bo,G}the Nurse's Desk {BO}Level Three{bo}~
+
+You are standing in a moderately wide room.  A small desk occupies
+it. It lies there,  upsidedown, and the corpse of a nurse sits at
+an awkward angle on it.  Protruding  from the nurses chest you see
+the metalic leg of a chair!
+
+~
+228 0 1
+D1
+~
+~
+0 -1 22851
+D2
+~
+~
+0 -1 22852
+D3
+~
+~
+0 -1 22848
+Z3
+C-1
+R0
+S
+#22851
+{bo,G}Resident Psychiatrist's Office {BO}Level Three{bo}~
+
+Not much was left intact of this room.  The pictures, that once adorned
+the walls, along with a nicely framed diploma, must be somewhere under
+the pile  of  scraped paper.  A leg  can  be seen coming out of the big
+pile...you guess it's the doctor, or rather...his corpse!
+
+~
+228 0 1
+D3
+~
+~
+0 -1 22850
+Z3
+C-1
+R0
+S
+#22852
+{bo,G}the {BO}Level Three{bo,G} Examination Room{bo}~
+
+You are standing on what used to be the room for examinations and
+interviews of patients.  A lonely  close-circuit TV-camera stares
+at you from a corner, near the  ceiling, the only untouched piece
+of the furniture.  The  instrument cabinets are wide open and you
+worry about what use the current holders of them may put them to.
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22850
+Z3
+C-1
+R0
+S
+#22853
+{bo,W}the Level 3 Hallway{bo}~
+
+To the  East the hallways continues, to the South a rubber-carpeted
+ramp descends slowly to the fourth level. North of here you can see
+a barred-door. You try to peek through the bars, but it is too dark
+inside, as you get closer to the door a dozen angry hands reach out
+from the other side to catch you!!!
+
+~
+228 4 1
+D0
+~
+door~
+1 -1 22854
+D1
+~
+~
+0 -1 22847
+D2
+~
+~
+0 -1 22859
+Z3
+C-1
+R0
+S
+#22854
+{bo,G}Ward {BO}N3 {bo,G}({Y}medium security area{bo,G}){bo}~
+
+You are standing at the entrance to another of the low security
+wards in this building.  You stand on some slimy and foul smel-
+ling substance. When you look at it carefully you realize it is
+a disgusting mixture of vomit and human excrement....YUCK!
+The walls are smeared with finger paintings  made  of  the same
+substance. The brownish foul letters read "Kill The Zorro!"
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22856
+D2
+~
+door~
+1 -1 22853
+D3
+~
+~
+0 -1 22855
+Z3
+C-1
+R0
+S
+#22855
+{bo,G}the Bathroom {BO}N3{bo}~
+
+A wide room, with three sinks, three toilet stands and some showers
+surrounds you.  The stink is unbearable, and you have no doubt what
+the smell  is  when  you look at the thick crust now glued to your
+soles...ack!
+
+~
+228 0 1
+D1
+~
+~
+0 -1 22854
+Z3
+C-1
+R0
+S
+#22856
+{bo,G}the {BO}N3{bo,G}-{BO}TV{bo,G} Room{bo}~
+
+You are standing in what was a television watching area for the  
+immates of  this  ward.  The TV set, or rather parts of it, are  
+scattered through the room.  A blood stained  poker  card  deck
+appear randomly under the beam of your flashlight.  Fear conge-
+als around you...it's so thick it can be cut with a knife!
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22857
+D1
+~
+~
+0 -1 22858
+D2
+~
+~
+0 -1 22854
+Z3
+C-1
+R0
+S
+#22857
+{bo,G}the Solitary Room {BO}N3{bo}~
+
+You are  in a very small room.  Claustrophoby  grasps you by the
+throat. There are no windows and the walls and floor are padded.
+A drooling  inmate  lies  on  a  cot,  restrained  and  tied by a
+straight jacket.  The poor guy has been beaten to death, maybe by
+his own fellow patients, but more likely ... by the cruel nurses!
+
+~
+228 0 1
+D2
+~
+~
+0 -1 22856
+Z3
+C-1
+R0
+S
+#22858
+{bo,G}the Recreation Room {BO}N3{bo}~
+
+This is a wide room, pieces of tables, chairs, desks, pocker cards,
+dominoes are scattered randomly over  the floor.  On the walls the-
+re still hang some pictures of the past directors of  this  place,
+hanging on a prominent place you see the picture of the current di
+rector the enlightened and honourable El Zorro.  By his side, big
+portraits of former directors:  Forge, Unknown, Primer, Keg, LSD,  
+...and many others.  Somebody painted devilish moustaches and bea- 
+rd on Forge's picture.
+
+~
+228 0 1
+D3
+~
+~
+0 -1 22856
+Z3
+C-1
+R0
+S
+#22859
+{bo,G}Checkpoint to Level 4 ({BO,R}high security area{bo,G}){bo}~
+
+To the North a rubber-carpeted ramp ascends slowly to the upper
+levels. East of here there is a barred-door, it appears to  be
+locked ... there must be a key somewhere, maybe somebody   car-
+ries it, or maybe he didn't care any more and dropped it.    To
+the south you see a partially opened door, it is obviously dark
+inside, insane mumbling comes from there.
+-
+There is a sign on the wall.
+
+~
+228 4 1
+D0
+~
+~
+0 -1 22853
+D1
+~
+barred~
+2 22807 22860
+D2
+~
+~
+0 -1 22898
+E
+sign~
+
+__________________________________________________________
+|<<<<<<<<<<<<<<< Strong Security Level >>>>>>>>>>>>>>>>>>|
+|--------------------------------------------------------|
+| Only authorized personnel (those with clearance level  |
+| 15  or greater)  are to proceed past this point.   To  |
+| check your current clearance level, type who lcb.      |
+| El Zorro.                                              |
+|________________________________________________________|
+
+~
+Z3
+C-1
+R0
+S
+#22860
+{bo,W}the Level 4 Hallway{bo}~
+
+The hospital-like hallway turns to the north.  To the   west you
+see the way you came.  To the south there is a  sturdy  reinfor-
+ced door.   Cries and curses can be heard coming from the  other
+side of the door.  Maybe it's not a good idea to open that door.
+
+~
+228 4 1
+D0
+~
+xxx~
+1 -1 22866
+D2
+~
+door~
+1 -1 22861
+D3
+~
+barred~
+1 -1 22859
+Z3
+C-1
+R0
+S
+#22861
+{bo,G}Ward {BO}S4 {bo,G}({BO,R}high security area{bo,G}){bo}~
+
+You are  standing at the entrance of the South ward in this level.
+A pile of  smashed furniture lies scattered  on the floor.  To the
+North a  sturdy looking door separates  you  from the corridor. To
+the South  some  heavy  breathing  comes  from the dark.  A strong
+odor permeates the air here, and it is not very pleasant, now that
+you think about it.
+
+~
+228 0 1
+D0
+~
+door~
+1 -1 22860
+D1
+~
+~
+0 -1 22862
+D2
+~
+~
+0 -1 22863
+Z3
+C-1
+R0
+S
+#22862
+{bo,G}the Bathroom {BO}S4{bo}~
+
+A wide room, with three sinks, three toilet stands and some showers
+surrounds you.  The stink is unbearable, and you have no doubt what
+the smell  is  when  you look at the thick crust now glued to your
+soles...ack!
+
+~
+228 0 1
+D3
+~
+~
+0 -1 22861
+Z3
+C-1
+R0
+S
+#22863
+{bo,G}the {BO}S4{bo,G}-{BO}TV {bo,G}Room{bo}~
+
+You are standing in what was a television watching area for the  
+immates of  this  ward.  The TV set, or rather parts of it, are  
+scattered through the room.  A blood stained  poker  card  deck
+appear randomly under the beam of your flashlight.  Fear conge-
+als around you...it's so thick it can be cut with a knife!
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22861
+D2
+~
+~
+0 -1 22864
+D3
+~
+~
+0 -1 22865
+Z3
+C-1
+R0
+S
+#22864
+{bo,G}the Solitary Room {BO}S4{bo}~
+
+You are  in a very small room.  Claustrophoby  grasps you by the
+throat. There are no windows and the walls and floor are padded.
+A drooling  inmate  lies  on  a  cot,  restrained  and  tied by a
+straight jacket.  The poor guy has been beaten to death, maybe by
+his own fellow patients, but more likely ... by the cruel nurses!
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22863
+Z3
+C-1
+R0
+S
+#22865
+{bo,G}the Recreation Room {BO}S4{bo}~
+
+This is a wide room, pieces of tables, chairs, desks, pocker cards,
+dominoes are scattered randomly over  the floor.  On the walls the-
+re still hang some pictures of the past directors of  this  place,
+hanging on a prominent place you see the picture of the current di
+rector the enlightened and honourable El Zorro.  By his side, big
+portraits of former directors:  Forge, Unknown, Primer, Keg, LSD,  
+...and many others.  Somebody painted devilish moustaches and bea- 
+rd on Forge's picture.
+
+~
+228 0 1
+D1
+~
+~
+0 -1 22863
+Z3
+C-1
+R0
+S
+#22866
+{bo,W}the Level 4 Hallway{bo}~
+
+The hospital-like hallway continues to the West and to the South.
+To the  East  you see a reinforced door with big scratches on it
+and what  looks  like ... BLOOD!  Grunts, cries and curses sound
+behind the door.
+
+~
+228 4 1
+D1
+~
+door~
+1 -1 22867
+D2
+~
+xxx~
+1 -1 22860
+D3
+~
+~
+0 -1 22872
+Z3
+C-1
+R0
+S
+#22867
+{bo,G}Office {BO}Level Four{bo}~
+
+This used to be a clean, neat, well ventilated room.  Now a "a mess"
+would not be enough to describe it.  File cabinets are on the floor,
+papers all over the place.  From  under  the  heap  of paper a badly
+battered nurse rises her voice:   "Please take us out of here...they
+...they are loose...pleeaaaase!",  she  starts  to cry,   chokes and
+drops her head to the floor...dead!
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22868
+D1
+~
+~
+0 -1 22869
+D3
+~
+door~
+1 -1 22866
+Z3
+C-1
+R0
+S
+#22868
+{bo,G}the Bathroom {BO}Level Four{bo}~
+
+A wide room, with three sinks, three toilet stands and some showers
+surrounds you.  The stink is unbearable, and you have no doubt what
+the smell  is  when  you look at the thick crust now glued to your
+soles...ack!
+
+~
+228 0 1
+D2
+~
+~
+0 -1 22867
+Z3
+C-1
+R0
+S
+#22869
+{bo,G}the Nurses Desk {BO}Level Four{bo}~
+
+You are standing in a moderately wide room.  A small desk occupies
+it. It lies there,  upsidedown, and the corpse of a nurse sits at
+an awkward angle on it.  Protruding  from the nurses chest you see
+the metalic leg of a chair!
+
+~
+228 0 1
+D1
+~
+~
+0 -1 22870
+D2
+~
+~
+0 -1 22871
+D3
+~
+~
+0 -1 22867
+Z3
+C-1
+R0
+S
+#22870
+{bo,G}Resident Psychiatrist's Office {BO}Level Four{bo}~
+
+Not much was left intact of this room.  The pictures, that once adorned
+the walls, along with a nicely framed diploma, must be somewhere under
+the pile  of  scraped paper.  A leg  can  be seen coming out of the big
+pile...you guess it's the doctor, or rather...his corpse!
+
+~
+228 0 1
+D3
+~
+~
+0 -1 22869
+Z3
+C-1
+R0
+S
+#22871
+{bo,G}the {BO}Level Four {bo,G}Examination Room{bo}~
+
+You are standing on what used to be the room for examinations and
+interviews of patients.  A lonely  close-circuit TV-camera stares
+at you from a corner, near the  ceiling, the only untouched piece
+of the furniture.  The  instrument cabinets are wide open and you
+worry about what use the current holders of them may put them to.
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22869
+Z3
+C-1
+R0
+S
+#22872
+{bo,W}the Level 4 Hallway{bo}~
+
+To the  East the hallways continues, to the South a rubber-carpeted
+ramp descends slowly to the last level.   North of here you can see
+a barred-door. You try to peek through the bars, but it is too dark
+inside, as you get closer to the door a dozen angry hands reach out
+from the other side to catch you!!!
+
+~
+228 4 1
+D0
+~
+door~
+1 -1 22873
+D1
+~
+~
+0 -1 22866
+D2
+~
+~
+0 -1 22878
+Z3
+C-1
+R0
+S
+#22873
+{bo,G}Ward {BO}N4{bo,G} ({BO,R}high security area{bo,G}){bo}~
+
+You are standing at the entrance to another of the low security
+wards in this building.  You stand on some slimy and foul smel-
+ling substance. When you look at it carefully you realize it is
+a disgusting mixture of vomit and human excrement....YUCK!
+The walls are smeared with finger paintings  made  of  the same
+substance. The brownish foul letters read "Kill The Zorro!"
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22875
+D2
+~
+door~
+1 -1 22872
+D3
+~
+~
+0 -1 22874
+Z3
+C-1
+R0
+S
+#22874
+{bo,G}the Bathroom {BO}N4{bo}~
+
+A wide room, with three sinks, three toilet stands and some showers
+surrounds you.  The stink is unbearable, and you have no doubt what
+the smell  is  when  you look at the thick crust now glued to your
+soles...ack!
+
+~
+228 0 1
+D1
+~
+~
+0 -1 22873
+Z3
+C-1
+R0
+S
+#22875
+{bo,G}the {BO}N4{bo,G}-{BO}TV {bo,G}Room{bo}~
+
+You are standing in what was a television watching area for the  
+immates of  this  ward.  The TV set, or rather parts of it, are  
+scattered through the room.  A blood stained  poker  card  deck
+appear randomly under the beam of your flashlight.  Fear conge-
+als around you...it's so thick it can be cut with a knife!
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22876
+D1
+~
+~
+0 -1 22877
+D2
+~
+~
+0 -1 22873
+Z3
+C-1
+R0
+S
+#22876
+{bo,G}the Solitary Room {BO}N4{bo}~
+
+You are  in a very small room.  Claustrophoby  grasps you by the
+throat. There are no windows and the walls and floor are padded.
+A drooling  inmate  lies  on  a  cot,  restrained  and  tied by a
+straight jacket.  The poor guy has been beaten to death, maybe by
+his own fellow patients, but more likely ... by the cruel nurses!
+
+~
+228 0 1
+D2
+~
+~
+0 -1 22875
+Z3
+C-1
+R0
+S
+#22877
+{bo,G}the Recreation Room {BO}N4{bo}~
+
+This is a wide room, pieces of tables, chairs, desks, pocker cards,
+dominoes are scattered randomly over  the floor.  On the walls the-
+re still hang some pictures of the past directors of  this  place,
+hanging on a prominent place you see the picture of the current di
+rector the enlightened and honourable El Zorro.  By his side, big
+portraits of former directors:  Forge, Unknown, Primer, Keg, LSD,  
+...and many others.  Somebody painted devilish moustaches and bea- 
+rd on Forge's picture.
+
+~
+228 0 1
+D3
+~
+~
+0 -1 22875
+Z3
+C-1
+R0
+S
+#22878
+{bo,G}Checkpoint to level 5 ({BO,BLA}high security{bo,G}){bo}~
+
+To the North a rubber-carpeted ramp ascends slowly to the upper
+levels. East of here there is a barred-door, it appears to  be
+locked ... there must be a key somewhere, maybe somebody   car-   
+ries it, or maybe he didn't care any more and dropped it.    To   
+the south you see a partially opened door, it is obviously dark   
+inside, insane mumbling comes from there.
+-
+There is a RED SIGN there, flashing with a warning.
+
+~
+228 4 1
+D0
+~
+~
+0 -1 22872
+D1
+~
+barred~
+2 22807 22879
+D2
+~
+~
+0 -1 22899
+E
+sign~
+
+__________________________________________________________
+|<<<<<<<<<<<<<<<<<< TOP Security Level >>>>>>>>>>>>>>>>>>|
+|--------------------------------------------------------|
+| Do NOT ENTER if not strictly necessary.  This is the . |
+| level for Criminal Psychopaths.  (If you ever watched  | 
+| the movie "The Silence of the Lambs" you know what I'm |
+| talking about)  So, DO NOT ENTER, I repeat...NOBODY is |
+| to enter.  If you do, the administration takes no res- |
+| posnability........................................... |
+| El Zorro.                                              |
+|________________________________________________________|
+
+~
+Z3
+C-1
+R0
+S
+#22879
+{bo,W}the Level 5 Hallway{bo}~
+
+The hospital-like hallway turns to the north.  To the   west you
+see the way you came.  To the south there is a  sturdy  reinfor-
+ced door.   Cries and curses can be heard coming from the  other
+side of the door.  Maybe it's not a good idea to open that door.
+
+~
+228 4 1
+D0
+~
+~
+0 -1 22885
+D2
+~
+door~
+1 -1 22880
+D3
+~
+barred~
+1 -1 22878
+Z3
+C-1
+R0
+S
+#22880
+{BO,R}Top Security Ward{bo}~
+This is a top security ward.  Only criminal psycopaths are sent
+to this ward.  The walls are covered by a thick layer of bullet
+proof plastic.  There is no furniture since everything could be
+used as a weapon by these guys.
+
+~
+228 0 1
+D0
+~
+door~
+1 -1 22879
+D1
+~
+~
+0 -1 22881
+D2
+~
+~
+0 -1 22882
+D3
+~
+~
+0 -1 22887
+Z3
+C-1
+R0
+S
+#22881
+{BO,R}Top Security Ward{bo}~
+This is a top security ward.  Only criminal psycopaths are sent
+to this ward.  The walls are covered by a thick layer of bullet
+proof plastic.  There is no furniture since everything could be
+used as a weapon by these guys.
+
+~
+228 0 1
+D1
+~
+~
+0 -1 22887
+D2
+~
+~
+0 -1 22883
+D3
+~
+~
+0 -1 22880
+Z3
+C-1
+R0
+S
+#22882
+{BO,R}Top Security Ward{bo}~
+This is a top security ward.  Only criminal psycopaths are sent
+to this ward.  The walls are covered by a thick layer of bullet
+proof plastic.  There is no furniture since everything could be
+used as a weapon by these guys.
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22880
+D1
+~
+~
+0 -1 22883
+D3
+~
+~
+0 -1 22886
+Z3
+C-1
+R0
+S
+#22883
+{BO,R}Top Security Ward{bo}~
+This is a top security ward.  Only criminal psycopaths are sent
+to this ward.  The walls are covered by a thick layer of bullet
+proof plastic.  There is no furniture since everything could be
+used as a weapon by these guys.
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22881
+D1
+~
+~
+0 -1 22886
+D2
+~
+~
+0 -1 22881
+D3
+~
+~
+0 -1 22882
+Z3
+C-1
+R0
+S
+#22884
+the recreation room~
+This is a wide room, pieces of tables, chairs, desks, pocker cards,
+dominoes are scattered randomly over the floor.  
+~
+228 0 1
+Z3
+C-1
+R0
+S
+#22885
+{bo,W}the Level 5 Hallway{bo}~
+
+The hospital-like hallway continues to the West and to the South.
+To the  East  you see a reinforced door with big scratches on it
+and what  looks  like ... BLOOD!  Grunts, cries and curses sound
+behind the door.
+
+~
+228 4 1
+D1
+~
+door~
+1 -1 22886
+D2
+~
+~
+0 -1 22879
+D3
+~
+~
+0 -1 22891
+Z3
+C-1
+R0
+S
+#22886
+{BO,R}Top Security Ward{bo}~
+This is a top security ward.  Only criminal psycopaths are sent
+to this ward.  The walls are covered by a thick layer of bullet
+proof plastic.  There is no furniture since everything could be
+used as a weapon by these guys.
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22887
+D1
+~
+~
+0 -1 22889
+D2
+~
+~
+0 -1 22880
+D3
+~
+door~
+1 -1 22885
+Z3
+C-1
+R0
+S
+#22887
+{BO,R}Top Security Ward{bo}~
+This is a top security ward.  Only criminal psycopaths are sent
+to this ward.  The walls are covered by a thick layer of bullet
+proof plastic.  There is no furniture since everything could be
+used as a weapon by these guys.
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22882
+D1
+~
+~
+0 -1 22888
+D2
+~
+~
+0 -1 22886
+Z3
+C-1
+R0
+S
+#22888
+{BO,R}Top Security Ward{bo}~
+
+This is a top security ward.  Only criminal psycopaths are sent
+to this ward.  The walls are covered by a thick layer of bullet
+proof plastic.  There is no furniture since everything could be
+used as a weapon by these guys.  Your steps sound as if you we-
+re walking on an empty wooden trunk.
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22883
+D1
+~
+~
+0 -1 22880
+D2
+~
+~
+0 -1 22889
+D3
+~
+~
+0 -1 22887
+D5
+You see nothing special.
+
+~
+wooden~
+4 22808 22890
+Z3
+C-1
+R0
+S
+#22889
+{BO,R}Top Security Ward{bo}~
+This is a top security ward.  Only criminal psycopaths are sent
+to this ward.  The walls are covered by a thick layer of bullet
+proof plastic.  There is no furniture since everything could be
+used as a weapon by these guys.
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22888
+D1
+~
+~
+0 -1 22882
+D2
+~
+~
+0 -1 22881
+D3
+~
+~
+0 -1 22886
+Z3
+C-1
+R0
+S
+#22890
+{BO,BLA}The Hole{bo}~
+
+Used for a long time to put "pacify" violent immates, "the hole"
+still reeks  of decaded organic matter.  Some bones testify the
+fate of those  poor  souls  dropped here.  Some bricks shine wi
+th a magic light, as if they could be somehow activated by some
+magic word, you think and think, and in your mind a story takes
+shape, it's a story of revenge, a French story, of someone in a
+cell just like this one.  You cannot remember the name  of  the
+author of that story.
+
+~
+228 4 1
+D0
+~
+dumas~
+3 -1 22893
+Z3
+C-1
+R0
+S
+#22891
+{bo,W}the End of the Hallway{bo}~
+The hallways  comes to an end here.  It continues to the east.
+To the  north a bullet-proof glass  door blocks your way.  It
+does not seem wise to go there alone, maybe you could convince
+a guard to accompany you.  Now you see a small sign.
+
+~
+228 4 1
+D1
+~
+~
+0 -1 22885
+E
+sign~
+
+ATTENTION: This dangerous wing has been  condemned.
+Rumor has it that there is still, in some underground
+and undiscovered room a way to get there.  Not the
+sane thing to do, however, you are here!
+
+~
+Z3
+C-1
+R0
+S
+#22892
+{BO,W}The Shrine of Jack Nicholson{bo}~
+This is the hole in this madhouse where they put away Jack,
+after his lobotomy in "One flew over the Cookoo's nest",
+his loyal fans came here to protect him from the avid press
+...and from YOU!!! 
+
+~
+228 0 1
+Z3
+C-1
+R0
+S
+#22893
+{bo,C}a Dark and Hot Stinking Tunnel{bo}~
+
+Strange!!! This part of the Pescadero building looks rather
+like an old construction site tunnel.  But even stranger...
+it's covered on all sides with posters of old movies by
+Jack Nicholson.  There is no way to get back, but there
+is a faint light to the east, and some chanting coming
+from that direction.
+
+~
+228 0 1
+D1
+Through a dense curtain of smoke you see the silohuette...yes,
+it's him, or rather what the lobotomists left of him, it is
+Jack Nicholson and some of his fans.  Careful: They are nuts!
+
+~
+~
+0 -1 22892
+Z3
+C-1
+R0
+S
+#22894
+Zorro's Chute No. 1~
+
+This is the chute for Pescadero's low level mobs:
+22800 x 15: crazed
+22814 x 15: lunatic
+22815 x 15: schyzophrenic
+
+~
+228 0 1
+Z3
+C-1
+R0
+S
+#22895
+Chute No. 1 (Pescadero)~
+This is Zorro's Chute room to prepare invasions to Midgaard.
+~
+228 0 1
+D0
+~
+~
+0 -1 3001
+D1
+~
+~
+0 -1 3014
+D2
+~
+~
+0 -1 3025
+D3
+~
+~
+0 -1 3016
+D4
+~
+~
+0 -1 3013
+D5
+~
+~
+0 -1 3041
+Z3
+C-1
+R0
+S
+#22896
+Zorro's Chute No. 2~
+
+This is Pescadero's middle mobs' chute:
+22804: war criminals
+22805 nurses
+22806 shrinks
+22807 machists
+22808 feminists
+22809 activists.
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22856
+D1
+~
+~
+0 -1 22844
+D2
+~
+~
+0 -1 22875
+D3
+~
+~
+0 -1 22869
+D4
+~
+~
+0 -1 22850
+D5
+~
+~
+0 -1 22863
+Z3
+C-1
+R0
+S
+#22897
+{BO,Y}Level 3 Guard Booth{bo}~
+
+This is a very small room with a door to the North as the only
+apparent exit.  There are a desk and a chair.  On the desk you
+recognize what must have been the automatic door control panel
+for this level, but it is evident that it is broken. Some dra-
+werless file cabinets are piled on  the  corner and  what  was
+their contents lie in a disorganized heap on the floor.
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22840
+Z3
+C-1
+R0
+S
+#22898
+{BO,Y}Level 4 Guard Booth{bo}~
+
+This is a very small room with a door to the North as the only
+apparent exit.  There are a desk and a chair.  On the desk you
+recognize what must have been the automatic door control panel
+for this level, but it is evident that it is broken. Some dra-
+werless file cabinets are piled on  the  corner and  what  was
+their contents lie in a disorganized heap on the floor.   
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22859
+Z3
+C-1
+R0
+S
+#22899
+{BO,Y}Level 5 Guard Booth{bo}~
+
+This is a very small room with a door to the North as the only
+apparent exit.  There are a desk and a chair.  On the desk you
+recognize what must have been the automatic door control panel
+for this level, but it is evident that it is broken. Some dra-
+werless file cabinets are piled on  the  corner and  what  was
+their contents lie in a disorganized heap on the floor.   
+
+~
+228 0 1
+D0
+~
+~
+0 -1 22878
+Z3
+C-1
+R0
+S
+$~

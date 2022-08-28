@@ -1,0 +1,2604 @@
+#12300
+Poet's Abode~
+You find yourself in a spacious, comfortable-looking room.  The shelves are
+packed with books, CD's, video-cassettes, and comics.  You also notice a
+computer terminal with a strangely familiar dragon logo on the screen.
+
+A massive banner bears flowing script:
+
+"Put on the full armor of God, so that when the day of evil comes, you may be
+able to stand your ground, and after you have done everything, to stand.
+
+                                                  -- Ephesians 6:13"
+
+~
+123 65544 0
+D0
+~
+~
+0 -1 2000
+D1
+~
+~
+0 -1 20015
+D2
+~
+door~
+1 12300 17911
+D3
+~
+~
+0 -1 2016
+D4
+~
+~
+0 -1 2010
+D5
+~
+~
+0 -1 3054
+Z3
+C0
+S
+#12301
+RIFT~
+You are standing before a huge portal of magical energy.  It crackles and spits
+as it lights up the area with a soft blue glow.
+
+Huge fiery letters burn brightly in front of the gateway.
+
+~
+123 128 2
+D0
+~
+~
+0 -1 13404
+E
+letters~
+
+I opened this rift to another world, but couldn't close it again.  Enter at
+your own risk.  --Poet
+~
+Z3
+C-1
+S
+#12302
+Cavern~
+You leap excitedly through the glowing rift with anticipation and . . .
+
+Well gee, this "other" world looks just like the one you left behind.  Another
+dragon . . . ho hum.
+
+~
+123 137 0
+D4
+~
+cover~
+1 -1 12303
+D5
+~
+slab~
+1 -1 20098
+Z3
+C-1
+S
+#12303
+What the heck is this . . . THING?!~
+Perhaps this world IS alien in nature after all. Before you stands a creature
+that seems to be part man, but mostly machine.
+
+Naw, dragons are real but cyborgs are pure fantasy . . . right?
+
+~
+123 132 2
+D0
+~
+~
+0 -1 12304
+D1
+~
+~
+0 -1 12349
+D2
+~
+~
+0 -1 12355
+D3
+~
+~
+0 -1 12348
+D5
+~
+cover~
+1 -1 12302
+Z3
+C-1
+S
+#12304
+The Burbs~
+You have wandered into the outskirts of the Coalition capital.  The fortress
+city of Chi-Town is the HQ of this fascist empire of human supremacists.
+
+The massive walls loom to the north.
+
+~
+123 4 1
+D0
+~
+~
+0 -1 12305
+D1
+~
+~
+0 -1 12341
+D2
+~
+~
+0 -1 12303
+D3
+~
+~
+0 -1 12340
+Z3
+C-1
+S
+#12305
+Chi-Town~
+Chi-Town, the fortress city, towers a thousand feet above the squalor of the
+Burbs, like a man-made mountain of concrete and steel.
+
+The huge city gates are guarded by a monstrous 30 foot tall Spider Skull
+Walker Robot.
+
+~
+123 0 1
+D0
+~
+~
+0 -1 12308
+D1
+~
+~
+0 -1 12310
+D2
+~
+~
+0 -1 12304
+D3
+~
+~
+0 -1 12309
+D4
+~
+hatch~
+1 2016 12306
+D5
+~
+gates~
+2 12304 12307
+Z3
+C-1
+S
+#12306
+Inside the Skull-Walker~
+You clamber into the body of the gigantic war machine.  The controls are far
+beyond your understanding.  There are instruments for controlling the spider-
+like legs and the various weapons systems, but you haven't the foggiest idea
+how to operate them.
+
+Looking around, you realize why you got inside without being blown to bits:
+the entire crew has fallen asleep on duty.
+
+~
+123 136 9
+D5
+~
+hatch~
+1 2016 12305
+Z3
+C-1
+S
+#12307
+Inner Chi-Town~
+You hurriedly sneak into Chi-Town using your "identification", and immediately
+regret it.  You have never seen a more wretched looking city, nor have you
+ever even thought that people could live in such abject horridness.
+
+~
+123 12 1
+D0
+~
+~
+0 -1 17957
+D1
+~
+~
+0 -1 17961
+D4
+~
+gates~
+2 12304 12305
+M1
+Z3
+C-1
+S
+#12308
+The Burbs~
+You have wandered into the outskirts of the Coalition capital.  The fortress
+city of Chi-Town is the HQ of this fascist empire of human supremacists.
+
+The massive walls loom to the south.
+
+~
+123 4 1
+D0
+~
+~
+0 -1 12323
+D1
+~
+~
+0 -1 12331
+D2
+~
+~
+0 -1 12305
+D3
+~
+~
+0 -1 12330
+Z3
+C-1
+S
+#12309
+The Burbs~
+You have wandered into the outskirts of the Coalition capital.  The fortress
+city of Chi-Town is the HQ of this fascist empire of human supremacists.
+
+The massive walls loom to the east.
+
+~
+123 4 1
+D0
+~
+~
+0 -1 12330
+D1
+~
+~
+0 -1 12305
+D2
+~
+~
+0 -1 12340
+D3
+~
+~
+0 -1 12335
+Z3
+C-1
+S
+#12310
+The Burbs~
+You have wandered into the outskirts of the Coalition capital.  The fortress
+city of Chi-Town is the HQ of this fascist empire of human supremacists.
+
+The massive walls loom to the west.
+
+~
+123 4 1
+D0
+~
+~
+0 -1 12331
+D1
+~
+~
+0 -1 12336
+D2
+~
+~
+0 -1 12341
+D3
+~
+~
+0 -1 12305
+Z3
+C-1
+S
+#12311
+Xiticix Hive~
+You are standing at the base of a huge mushroom shaped hive.  You'd have to
+be stupid to go in there.
+
+~
+123 4 4
+D0
+~
+~
+0 -1 12313
+D1
+~
+~
+0 -1 12313
+D2
+~
+~
+0 -1 12319
+D3
+~
+~
+0 -1 12319
+D4
+~
+wax~
+2 12305 12312
+Z3
+C-1
+S
+#12312
+Inside the Xiticix Hive~
+
+As you peer through the darkness, you see that the walls are made of some
+cheesy substance . . . ewww!
+
+The incessant buzzing may yet drive you mad.
+
+~
+123 9 9
+D0
+~
+~
+0 -1 12363
+D1
+~
+~
+0 -1 12362
+D2
+~
+~
+0 -1 12360
+D3
+~
+~
+0 -1 12361
+D5
+~
+wax~
+2 12305 12311
+Z3
+C-1
+S
+#12313
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 4 3
+D0
+~
+~
+0 -1 12313
+D1
+~
+~
+0 -1 12314
+D2
+~
+~
+0 -1 12320
+D3
+~
+~
+0 -1 12311
+Z3
+C-1
+S
+#12314
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 4 3
+D0
+~
+~
+0 -1 12314
+D1
+~
+~
+0 -1 12315
+D2
+~
+~
+0 -1 12321
+D3
+~
+~
+0 -1 12313
+Z3
+C-1
+S
+#12315
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 4 3
+D0
+~
+~
+0 -1 12315
+D1
+~
+~
+0 -1 12316
+D2
+~
+~
+0 -1 12323
+D3
+~
+~
+0 -1 12314
+Z3
+C-1
+S
+#12316
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 4 3
+D0
+~
+~
+0 -1 12316
+D1
+~
+~
+0 -1 12317
+D2
+~
+~
+0 -1 12324
+D3
+~
+~
+0 -1 12315
+Z3
+C-1
+S
+#12317
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 4 3
+D0
+~
+~
+0 -1 12317
+D1
+~
+~
+0 -1 12318
+D2
+~
+~
+0 -1 12325
+D3
+~
+~
+0 -1 12316
+Z3
+C-1
+S
+#12318
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 0 3
+D0
+~
+~
+0 -1 12318
+D1
+~
+~
+0 -1 12318
+D2
+~
+~
+0 -1 12327
+D3
+~
+~
+0 -1 12317
+Z3
+C-1
+S
+#12319
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 4 3
+D0
+~
+~
+0 -1 12311
+D1
+~
+~
+0 -1 12320
+D2
+~
+~
+0 -1 12328
+D3
+~
+~
+0 -1 12319
+Z3
+C-1
+S
+#12320
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 0 3
+D0
+~
+~
+0 -1 12313
+D1
+~
+~
+0 -1 12321
+D2
+~
+~
+0 -1 12329
+D3
+~
+~
+0 -1 12319
+Z3
+C-1
+S
+#12321
+Tolkeen~
+Civilization!  The city of Tolkeen is a lovely oasis in the midst of barren,
+unforgiving wilderness.  This multi-racial community is the chief enemy of the
+Coalition.
+
+You are sure to be welcomed here.
+
+~
+123 4 1
+D0
+~
+~
+0 -1 12314
+D1
+~
+~
+0 -1 12323
+D2
+~
+~
+0 -1 12330
+D3
+~
+~
+0 -1 12320
+D4
+~
+gates~
+1 -1 12322
+Z3
+C-1
+S
+#12322
+Tolkeen~
+This is a pleasant city indeed.  After your sojourn through the wilderness,
+this is a veritable haven.
+
+However, your good mood is disturbed when you notice that everyone seems tense
+and that a good 50% of the populace seems to be a member of the militia.
+
+~
+123 0 1
+D0
+~
+~
+0 -1 17905
+D5
+~
+gates~
+1 -1 12321
+Z3
+C-1
+S
+#12323
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 0 3
+D0
+~
+~
+0 -1 12315
+D1
+~
+~
+0 -1 12324
+D2
+~
+~
+0 -1 12308
+D3
+~
+~
+0 -1 12321
+Z3
+C-1
+S
+#12324
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 0 3
+D0
+~
+~
+0 -1 12316
+D1
+~
+~
+0 -1 12325
+D2
+~
+~
+0 -1 12331
+D3
+~
+~
+0 -1 12323
+Z3
+C-1
+S
+#12325
+Lazlo~
+You have stumbled upon the city of Lazlo.  Magical energies are harnessed and
+utilized to power this city.
+
+The greatest advances in the study of magic have been made here.
+
+~
+123 4 1
+D0
+~
+~
+0 -1 12317
+D1
+~
+~
+0 -1 12327
+D2
+~
+~
+0 -1 12332
+D3
+~
+~
+0 -1 12324
+D4
+~
+gates~
+1 -1 12326
+Z3
+C-1
+S
+#12326
+Lazlo~
+You have entered the beautiful city of Lazlo.  This mysterious city has been
+the object of many rumours.  Lazlo is apparently a city where wonders never
+cease.  Better go check it out.
+
+~
+123 4 1
+D0
+~
+~
+0 -1 17926
+D5
+~
+gates~
+1 -1 12325
+Z3
+C-1
+S
+#12327
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 4 3
+D0
+~
+~
+0 -1 12318
+D1
+~
+~
+0 -1 12327
+D2
+~
+~
+0 -1 12333
+D3
+~
+~
+0 -1 12325
+Z3
+C-1
+S
+#12328
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 4 3
+D0
+~
+~
+0 -1 12319
+D1
+~
+~
+0 -1 12329
+D2
+~
+~
+0 -1 12334
+D3
+~
+~
+0 -1 12328
+Z3
+C-1
+S
+#12329
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 0 3
+D0
+~
+~
+0 -1 12320
+D1
+~
+~
+0 -1 12330
+D2
+~
+~
+0 -1 12335
+D3
+~
+~
+0 -1 12328
+Z3
+C-1
+S
+#12330
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 0 3
+D0
+~
+~
+0 -1 12321
+D1
+~
+~
+0 -1 12308
+D2
+~
+~
+0 -1 12309
+D3
+~
+~
+0 -1 12329
+Z3
+C-1
+S
+#12331
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 0 3
+D0
+~
+~
+0 -1 12324
+D1
+~
+~
+0 -1 12332
+D2
+~
+~
+0 -1 12310
+D3
+~
+~
+0 -1 12308
+Z3
+C-1
+S
+#12332
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 0 3
+D0
+~
+~
+0 -1 12325
+D1
+~
+~
+0 -1 12333
+D2
+~
+~
+0 -1 12336
+D3
+~
+~
+0 -1 12331
+Z3
+C-1
+S
+#12333
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 4 3
+D0
+~
+~
+0 -1 12327
+D1
+~
+~
+0 -1 12333
+D2
+~
+~
+0 -1 12337
+D3
+~
+~
+0 -1 12332
+Z3
+C-1
+S
+#12334
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 4 3
+D0
+~
+~
+0 -1 12328
+D1
+~
+~
+0 -1 12335
+D2
+~
+~
+0 -1 12338
+D3
+~
+~
+0 -1 12334
+Z3
+C-1
+S
+#12335
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 0 3
+D0
+~
+~
+0 -1 12329
+D1
+~
+~
+0 -1 12309
+D2
+~
+~
+0 -1 12339
+D3
+~
+~
+0 -1 12334
+Z3
+C-1
+S
+#12336
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 0 3
+D0
+~
+~
+0 -1 12332
+D1
+~
+~
+0 -1 12337
+D2
+~
+~
+0 -1 12342
+D3
+~
+~
+0 -1 12310
+Z3
+C-1
+S
+#12337
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 4 3
+D0
+~
+~
+0 -1 12333
+D1
+~
+~
+0 -1 12337
+D2
+~
+~
+0 -1 12343
+D3
+~
+~
+0 -1 12336
+Z3
+C-1
+S
+#12338
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 4 3
+D0
+~
+~
+0 -1 12334
+D1
+~
+~
+0 -1 12339
+D2
+~
+~
+0 -1 12345
+D3
+~
+~
+0 -1 12338
+Z3
+C-1
+S
+#12339
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 0 3
+D0
+~
+~
+0 -1 12335
+D1
+~
+~
+0 -1 12340
+D2
+~
+~
+0 -1 12346
+D3
+~
+~
+0 -1 12338
+Z3
+C-1
+S
+#12340
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 0 3
+D0
+~
+~
+0 -1 12309
+D1
+~
+~
+0 -1 12304
+D2
+~
+~
+0 -1 12348
+D3
+~
+~
+0 -1 12339
+Z3
+C-1
+S
+#12341
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 0 3
+D0
+~
+~
+0 -1 12310
+D1
+~
+~
+0 -1 12342
+D2
+~
+~
+0 -1 12349
+D3
+~
+~
+0 -1 12304
+Z3
+C-1
+S
+#12342
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 0 3
+D0
+~
+~
+0 -1 12336
+D1
+~
+~
+0 -1 12343
+D2
+~
+~
+0 -1 12350
+D3
+~
+~
+0 -1 12341
+Z3
+C-1
+S
+#12343
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+You curse as you almost fall into a hole in the ground.
+
+~
+123 4 3
+D0
+~
+~
+0 -1 12337
+D1
+~
+~
+0 -1 12351
+D2
+~
+~
+0 -1 12351
+D3
+~
+~
+0 -1 12342
+D5
+~
+hole~
+1 -1 12344
+Z3
+C-1
+S
+#12344
+Dark Tunnel~
+You drop down into the hole, only for your feet to land with a ringing metallic
+sound.  You dig away some dirt and debris, and find that the floor has been
+constructed of corrugated steel.  A red, painted arrow points south and is
+labelled, "MAINTENANCE ACCESS TUNNELS".
+
+~
+123 13 0
+D2
+~
+~
+0 -1 17986
+D4
+~
+hole~
+1 -1 12343
+Z3
+C-1
+S
+#12345
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 4 3
+D0
+~
+~
+0 -1 12338
+D1
+~
+~
+0 -1 12346
+D2
+~
+~
+0 -1 12352
+D3
+~
+~
+0 -1 12345
+Z3
+C-1
+S
+#12346
+Lone Star Laboratories~
+This is a Coalition outpost which specializes in genetic engineering.  All
+sorts of strange beasts are being created to serve as troops here.
+
+Well, the dog boys were cute enough - you wonder what other mysteries are
+hidden in the labs.
+
+~
+123 4 1
+D0
+~
+~
+0 -1 12339
+D1
+~
+~
+0 -1 12348
+D2
+~
+~
+0 -1 12353
+D3
+~
+~
+0 -1 12345
+D5
+~
+blastdoors~
+2 12304 12347
+Z3
+C-1
+S
+#12347
+Lone Star Laboratories~
+You timidly sneak through the blastdoors (which look like they could take a
+hundred Solar Flares without even being singed).  This is where the Coalition
+tinkers with genetics, creating mutated soldiers for their diabolical purposes.
+
+~
+123 13 0
+D1
+~
+~
+0 -1 14408
+D2
+~
+~
+0 -1 14410
+D4
+~
+blastdoors~
+2 12304 12346
+Z3
+C-1
+S
+#12348
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 0 3
+D0
+~
+~
+0 -1 12340
+D1
+~
+~
+0 -1 12303
+D2
+~
+~
+0 -1 12354
+D3
+~
+~
+0 -1 12346
+Z3
+C-1
+S
+#12349
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 0 3
+D1
+~
+~
+0 -1 12350
+D2
+~
+~
+0 -1 12357
+D3
+~
+~
+0 -1 12303
+Z3
+C-1
+S
+#12350
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 0 3
+D0
+~
+~
+0 -1 12342
+D1
+~
+~
+0 -1 12351
+D2
+~
+~
+0 -1 12358
+D3
+~
+~
+0 -1 12349
+Z3
+C-1
+S
+#12351
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 4 3
+D0
+~
+~
+0 -1 12343
+D1
+~
+~
+0 -1 12351
+D2
+~
+~
+0 -1 12359
+D3
+~
+~
+0 -1 12350
+Z3
+C-1
+S
+#12352
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 0 3
+D0
+~
+~
+0 -1 12345
+D1
+~
+~
+0 -1 12353
+D2
+~
+~
+0 -1 12352
+D3
+~
+~
+0 -1 12352
+Z3
+C-1
+S
+#12353
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 4 3
+D0
+~
+~
+0 -1 12346
+D1
+~
+~
+0 -1 12354
+D2
+~
+~
+0 -1 12353
+D3
+~
+~
+0 -1 12352
+Z3
+C-1
+S
+#12354
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 4 3
+D0
+~
+~
+0 -1 12348
+D1
+~
+~
+0 -1 12355
+D2
+~
+~
+0 -1 12354
+D3
+~
+~
+0 -1 12353
+Z3
+C-1
+S
+#12355
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+There is a place here where the trees thin, and a path meanders down into a
+valley.
+
+~
+123 4 3
+D0
+~
+~
+0 -1 12303
+D1
+~
+~
+0 -1 12357
+D2
+~
+~
+0 -1 12354
+D3
+~
+~
+0 -1 12354
+D5
+~
+bush~
+1 -1 12356
+Z3
+C-1
+S
+#12356
+Path Into Valley~
+You stumble down a rambling path into this hidden valley.  Odd, you'd swear
+that the entire area is glowing faintly with a blue tinge.  This is what got
+you into trouble in the first place, are you sure you want to continue?
+
+~
+123 4 4
+D0
+~
+~
+0 -1 14440
+D1
+~
+~
+0 -1 14446
+D2
+~
+~
+0 -1 14451
+D3
+~
+~
+0 -1 14445
+D4
+~
+bush~
+1 -1 12355
+Z3
+C-1
+S
+#12357
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 4 3
+D0
+~
+~
+0 -1 12349
+D1
+~
+~
+0 -1 12358
+D2
+~
+~
+0 -1 12357
+D3
+~
+~
+0 -1 12355
+Z3
+C-1
+S
+#12358
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 4 3
+D0
+~
+~
+0 -1 12350
+D1
+~
+~
+0 -1 12359
+D2
+~
+~
+0 -1 12358
+D3
+~
+~
+0 -1 12357
+Z3
+C-1
+S
+#12359
+Wilderness~
+You're trekking through barren wilderness.  Everywhere around you see nature
+slowly growing over the ancient ruins of man.
+
+~
+123 0 3
+D0
+~
+~
+0 -1 12351
+D1
+~
+~
+0 -1 12359
+D2
+~
+~
+0 -1 12359
+D3
+~
+~
+0 -1 12358
+Z3
+C-1
+S
+#12360
+Inside the Xiticix Hive~
+
+As you peer through the darkness, you see that the walls are made of some
+cheesy substance . . . ewww!
+
+The incessant buzzing may yet drive you mad.
+
+~
+123 9 9
+D0
+~
+~
+0 -1 12312
+D1
+~
+~
+0 -1 12361
+D2
+~
+~
+0 -1 12362
+D3
+~
+~
+0 -1 12363
+Z3
+C-1
+S
+#12361
+Inside the Xiticix Hive~
+
+As you peer through the darkness, you see that the walls are made of some
+cheesy substance . . . ewww!
+
+The incessant buzzing may yet drive you mad.
+
+~
+123 9 9
+D0
+~
+~
+0 -1 12362
+D1
+~
+~
+0 -1 12312
+D2
+~
+~
+0 -1 12363
+D3
+~
+~
+0 -1 12360
+Z3
+C-1
+S
+#12362
+Inside the Xiticix Hive~
+
+As you peer through the darkness, you see that the walls are made of some
+cheesy substance . . . ewww!
+
+The incessant buzzing may yet drive you mad.
+
+~
+123 9 9
+D0
+~
+~
+0 -1 12360
+D1
+~
+~
+0 -1 12363
+D2
+~
+~
+0 -1 12361
+D3
+~
+~
+0 -1 12312
+Z3
+C-1
+S
+#12363
+Inside the Xiticix Hive~
+
+As you peer through the darkness, you see that the walls are made of some
+cheesy substance . . . ewww!
+
+The incessant buzzing may yet drive you mad.
+
+~
+123 9 9
+D0
+~
+~
+0 -1 12361
+D1
+~
+~
+0 -1 12360
+D2
+~
+~
+0 -1 12312
+D3
+~
+~
+0 -1 12362
+D4
+~
+wax~
+1 -1 12364
+Z3
+C-1
+S
+#12364
+2nd Floor of Hive~
+
+As you peer through the darkness, you see that the walls are made of some
+cheesy substance . . . ewww!
+
+The incessant buzzing may yet drive you mad.
+
+~
+123 9 9
+D2
+~
+~
+0 -1 12365
+D5
+~
+wax~
+1 -1 12363
+Z3
+C-1
+S
+#12365
+2nd Floor of Hive~
+You forget all about the nasty look and feel of the hive walls when you lay
+your eyes on this room.  The disembowled bodies of humans, giants, elves,
+halflings, dwarves and gnomes litter the place.  You valiantly strugge to
+keep your lunch down.
+
+~
+123 9 9
+D0
+~
+~
+0 -1 12364
+D1
+~
+~
+0 -1 12366
+D2
+~
+~
+0 -1 12367
+Z3
+C-1
+S
+#12366
+2nd Floor of Hive~
+
+As you peer through the darkness, you see that the walls are made of some
+cheesy substance . . . ewww!
+
+The incessant buzzing may yet drive you mad.
+
+~
+123 9 9
+D0
+~
+~
+0 -1 12366
+D1
+~
+~
+0 -1 12366
+D2
+~
+~
+0 -1 12368
+D3
+~
+~
+0 -1 12365
+Z3
+C-1
+S
+#12367
+2nd Floor of Hive~
+
+As you peer through the darkness, you see that the walls are made of some
+cheesy substance . . . ewww!
+
+The incessant buzzing may yet drive you mad.
+
+~
+123 9 9
+D0
+~
+~
+0 -1 12365
+D1
+~
+~
+0 -1 12368
+D2
+~
+~
+0 -1 12367
+D3
+~
+~
+0 -1 12367
+D4
+~
+wax~
+1 -1 12369
+Z3
+C-1
+S
+#12368
+2nd Floor of Hive~
+
+As you peer through the darkness, you see that the walls are made of some
+cheesy substance . . . ewww!
+
+The incessant buzzing may yet drive you mad.
+
+~
+123 9 9
+D0
+~
+~
+0 -1 12366
+D1
+~
+~
+0 -1 12368
+D2
+~
+~
+0 -1 12368
+D3
+~
+~
+0 -1 12367
+Z3
+C-1
+S
+#12369
+3rd Floor of Hive~
+
+As you peer through the darkness, you see that the walls are made of some
+cheesy substance . . . ewww!
+
+The incessant buzzing may yet drive you mad.
+
+~
+123 9 9
+D0
+~
+~
+0 -1 12371
+D1
+~
+~
+0 -1 12372
+D3
+~
+~
+0 -1 12370
+D5
+~
+wax~
+1 -1 12367
+Z3
+C-1
+S
+#12370
+3rd Floor of Hive~
+
+As you peer through the darkness, you see that the walls are made of some
+cheesy substance . . . ewww!
+
+The incessant buzzing may yet drive you mad.
+
+~
+123 9 9
+D0
+~
+~
+0 -1 12372
+D1
+~
+~
+0 -1 12369
+Z3
+C-1
+S
+#12371
+3rd Floor of Hive~
+
+As you peer through the darkness, you see that the walls are made of some
+cheesy substance . . . ewww!
+
+The incessant buzzing may yet drive you mad.
+
+~
+123 9 9
+D1
+~
+~
+0 -1 12373
+D2
+~
+~
+0 -1 12369
+D3
+~
+~
+0 -1 12372
+Z3
+C-1
+S
+#12372
+Sarlaac Pit~
+You've stumbled into the gaping maw of the mighty Sarlaac!!!
+
+A
+ A
+  A
+   H
+    H
+     H
+      !
+       !
+        !
+
+          *GULP*
+
+~
+123 15 0
+D0
+~
+~
+0 -1 12373
+D1
+~
+~
+0 -1 12371
+D2
+~
+~
+0 -1 12370
+D3
+~
+~
+0 -1 12369
+Z3
+C-1
+S
+#12373
+3rd Floor of Hive~
+
+As you peer through the darkness, you see that the walls are made of some
+cheesy substance . . . ewww!
+
+The incessant buzzing may yet drive you mad.
+
+~
+123 9 9
+D2
+~
+~
+0 -1 12372
+D3
+~
+~
+0 -1 12371
+D4
+~
+wax~
+1 -1 12374
+Z3
+C-1
+S
+#12374
+4th Floor of Hive~
+
+As you peer through the darkness, you see that the walls are made of some
+cheesy substance . . . ewww!
+
+The incessant buzzing may yet drive you mad.
+
+~
+123 9 9
+D0
+~
+~
+0 -1 12376
+D1
+~
+~
+0 -1 12375
+D4
+~
+wax~
+1 -1 12379
+D5
+~
+wax~
+1 -1 12373
+Z3
+C-1
+S
+#12375
+4th Floor of Hive~
+
+As you peer through the darkness, you see that the walls are made of some
+cheesy substance . . . ewww!
+
+The incessant buzzing may yet drive you mad.
+
+~
+123 9 9
+D0
+~
+~
+0 -1 12377
+D3
+~
+~
+0 -1 12374
+Z3
+C-1
+S
+#12376
+4th Floor of Hive~
+
+As you peer through the darkness, you see that the walls are made of some
+cheesy substance . . . ewww!
+
+The incessant buzzing may yet drive you mad.
+
+~
+123 9 9
+D0
+~
+~
+0 -1 12378
+D1
+~
+~
+0 -1 12377
+D2
+~
+~
+0 -1 12374
+Z3
+C-1
+S
+#12377
+4th Floor of Hive~
+
+As you peer through the darkness, you see that the walls are made of some
+cheesy substance . . . ewww!
+
+The incessant buzzing may yet drive you mad.
+
+~
+123 9 9
+D2
+~
+~
+0 -1 12375
+D3
+~
+~
+0 -1 12376
+Z3
+C-1
+S
+#12378
+Writing?~
+As you peer through the darkness, you see that the walls . . . woah wait!
+
+Something is different here.  You can make out some sort of symbols on the
+wall.  Could it be some kind of Xiticix writing or art?
+
+~
+123 9 9
+D2
+~
+~
+0 -1 12376
+E
+symbols~
+
+I ma gnidloh ruoy noipmahc eht thgink-rebyc, ni a llec evoba em dna ylno eht
+thgim fo a eibwen remmah nac kcolnu it!  oD ton tpmetta a eucser - I esufer ot
+evig pu ym etirovaf llaw noitaroced!
+
+aH aH aH!!!  --xicitiX neeuQ
+
+~
+Z3
+C-1
+S
+#12379
+5th Floor of Hive~
+
+As you peer through the darkness, you see that the walls are made of some
+cheesy substance . . . ewww!
+
+The incessant buzzing may yet drive you mad.
+
+~
+123 9 9
+D2
+~
+~
+0 -1 12380
+D5
+~
+wax~
+1 -1 12374
+Z3
+C-1
+S
+#12380
+5th Floor of Hive~
+
+As you peer through the darkness, you see that the walls are made of some
+cheesy substance . . . ewww!
+
+The incessant buzzing may yet drive you mad.
+
+~
+123 9 9
+D0
+~
+~
+0 -1 12379
+D1
+~
+~
+0 -1 12381
+Z3
+C-1
+S
+#12381
+5th Floor of Hive~
+
+As you peer through the darkness, you see that the walls are made of some
+cheesy substance . . . ewww!
+
+The incessant buzzing may yet drive you mad.
+
+~
+123 9 9
+D2
+~
+~
+0 -1 12383
+D3
+~
+~
+0 -1 12380
+Z3
+C-1
+S
+#12382
+Throne Room~
+This is the throne room of the Xiticix queen.  Are you sure you want an
+audience with her?
+
+~
+123 141 9
+D1
+~
+~
+0 -1 12383
+D4
+~
+cell~
+4 2016 12384
+Z3
+C-1
+S
+#12383
+5th Floor of Hive~
+
+As you peer through the darkness, you see that the walls are made of some
+cheesy substance . . . ewww!
+
+The incessant buzzing may yet drive you mad.
+
+~
+123 9 9
+D0
+~
+~
+0 -1 12381
+D3
+~
+~
+0 -1 12382
+Z3
+C-1
+S
+#12384
+Carbonite Cell~
+This is where the valiant cyber-knight has been kept prisoner.  His eyes
+light up when he sees that you have come to rescue him.
+
+~
+123 169 9
+D5
+~
+cell~
+2 2016 12382
+Z3
+C-1
+S
+#12385
+Rubber Room~
+This is the nice, soft, padded, HAPPY room where the Tolkeen government
+has tucked away this Crazy.  He was once a mighty warrior of Tolkeen until
+the Saran Wrap incident.
+
+Ooh, look at all the cute squeeky toys!
+
+~
+123 136 0
+D2
+~
+door~
+1 12319 12386
+Z3
+C-1
+S
+#12386
+Siembieda Street~
+You have reached the end of Siembieda Street.  There appear to be private
+residences to the north and south.
+
+~
+123 0 1
+D0
+~
+door~
+1 12319 12385
+D1
+~
+~
+0 -1 12387
+D2
+~
+door~
+2 12319 12300
+Z3
+C-1
+S
+#12387
+Siembieda Street~
+You are ambulating down Siembieda Street.  There appear to be private
+residences to the north and south.
+
+~
+123 0 1
+D0
+~
+door~
+2 12319 12300
+D1
+~
+~
+0 -1 12388
+D2
+~
+door~
+2 12319 12300
+D3
+~
+~
+0 -1 12386
+Z3
+C-1
+S
+#12388
+Main Street~
+You have reached the end of Main Street.  Running west-east from here is
+Siembieda Street.
+
+~
+123 0 1
+D1
+~
+~
+0 -1 12389
+D2
+~
+~
+0 -1 12393
+D3
+~
+~
+0 -1 12387
+Z3
+C-1
+S
+#12389
+Siembieda Street~
+You are ambulating down Siembieda Street.  There appear to be private
+residences to the north and south.
+
+~
+123 0 1
+D0
+~
+door~
+2 12319 12300
+D1
+~
+~
+0 -1 12390
+D2
+~
+door~
+2 12319 12300
+D3
+~
+~
+0 -1 12388
+Z3
+C-1
+S
+#12390
+Siembieda Street~
+You have reached the end of Siembieda Street.  There appear to be private
+residences to the north and south
+
+To the east is a boarded up comic book store with a sign hanging on the door.
+
+~
+123 0 1
+D0
+~
+door~
+2 12319 12300
+D1
+~
+door~
+2 12319 12300
+D2
+~
+door~
+2 12319 12300
+D3
+~
+~
+0 -1 12389
+E
+sign~
+
+We are closed for the duration of the war with Chi-Town.  All of our stock
+has been bought up by the government for use in the training of new troops.
+(Forge, go get your X-Men comics elsewhere!)
+~
+Z3
+C-1
+S
+#12391
+Long Ave.~
+You have reached the end of Long Ave.  There appear to be private residences
+to the north and south.
+
+To the west, is the Tolkeen franchise of the World Famous Tommy's Burgers.  It
+looks closed, and there is a small sign on the door.
+
+~
+123 0 1
+D0
+~
+door~
+2 12319 12300
+D1
+~
+~
+0 -1 12392
+D2
+~
+door~
+2 12319 12300
+D3
+~
+door~
+2 12319 12300
+E
+sign~
+
+Sorry, Tommy's is closed for the duration of the war with Chi-Town.  The
+Tolkeen government has commandeered all of our chili in preparation for
+chemical warfare.
+~
+Z3
+C-1
+S
+#12392
+Long Ave.~
+You are ambulating down Long Ave.  There appear to be private residences to
+the north and south.
+
+~
+123 0 1
+D0
+~
+door~
+2 12319 12300
+D1
+~
+~
+0 -1 12393
+D2
+~
+door~
+2 12319 12300
+D3
+~
+~
+0 -1 12391
+Z3
+C-1
+S
+#12393
+Main Street~
+You are ambulating down Main Street.  Running west-east from here is Long Ave.
+
+~
+123 0 1
+D0
+~
+~
+0 -1 12388
+D1
+~
+~
+0 -1 12394
+D2
+~
+~
+0 -1 17900
+D3
+~
+~
+0 -1 12392
+Z3
+C-1
+S
+#12394
+Long Ave.~
+You are ambulating down Long Ave.  There appear to be private residences to
+the north and south.
+
+~
+123 0 1
+D0
+~
+door~
+2 12319 12300
+D1
+~
+~
+0 -1 12395
+D2
+~
+door~
+2 12319 12300
+D3
+~
+~
+0 -1 12393
+Z3
+C-1
+S
+#12395
+Long Ave.~
+You have reached the end of Long Ave.  There appear to be private residences
+to the north and south.
+
+~
+123 0 1
+D0
+~
+door~
+2 12319 12300
+D2
+~
+door~
+1 12319 12396
+D3
+~
+~
+0 -1 12394
+Z3
+C-1
+S
+#12396
+Detox~
+This is the private clinic where drugged out Juicers come when they want to
+get off the drugs.  It's not a pretty sight.
+
+~
+123 136 0
+D0
+~
+door~
+1 12319 12395
+Z3
+C-1
+S
+#12397
+Militia HQ~
+This is the headquarters of the Tolkeen militia.  Unless you have an
+appointment or intend on enlisting, you really shouldn't be here.
+
+~
+123 8 0
+D1
+~
+door~
+1 12319 12398
+Z3
+C-1
+S
+#12398
+Palladium Blvd.~
+You have reached the end of Palladium Blvd.  There appear to be private
+residences to the north and south.
+
+To the west is the Militia HQ.  Interested in enlisting?  The pay is horrible
+but you get to be officially sanctioned to off Coalition troops.
+
+~
+123 0 1
+D0
+~
+door~
+2 12319 12300
+D1
+~
+~
+0 -1 12399
+D2
+~
+door~
+2 12319 12300
+D3
+~
+door~
+1 12319 12397
+Z3
+C-1
+S
+#12399
+Palladium Blvd.~
+You are ambulating down Palladium Blvd.  There appear to be private
+residences to the north and south.
+
+~
+123 0 1
+D0
+~
+door~
+2 12319 12300
+D1
+~
+~
+0 -1 17900
+D2
+~
+door~
+2 12319 12300
+D3
+~
+~
+0 -1 12398
+Z3
+C-1
+S
+$~

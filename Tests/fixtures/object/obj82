@@ -1,0 +1,837 @@
+#8200
+key security~
+{Y,BO}A Golden Security Key{bo}~
+{bo,Y}A shiny key is lying on ground here.{bo}~
+~
+18 73728 0 16389
+1000000000 0 0 1
+1 1 1
+E
+key security~
+
+   {Y,BO}Oooh...it shines in your hand!{bo}
+
+~
+G
+50
+#8201
+pin NO MORTALS SHOULD HAVE THIS~
+{W,BO}A {bo,C}ROBOTICS {Y,BO}Inc.{W} Pin{bo}~
+{bo,Y}A glowing pin lies here.{bo}~
+~
+13 8458240 0 65536
+0 0 0 0
+200 1 1
+A
+19 100
+A
+18 100
+B
+303071232
+G
+101
+#8202
+key stock room~
+{bo,Y}Stock Room Key{bo}~
+{bo,Y}A small key lies on the ground shining...{bo}~
+~
+18 73728 0 5
+0 0 0 0
+1 1 1
+#8203
+blade~
+{BO,R}Robotic Blade {bo,R}of {BO}Mass Destruction{bo}~
+{bo,R}A dangerously sharp blade lies on the ground waiting to tear you apart{bo}~
+~
+5 17838081 0 8192
+3 20 20 3
+15 6500 2000000
+E
+blade~
+   
+   {bo,R}Power beyond comprehension lies within the steel structure and giant blade  
+of this gruesome weapon.{bo}
+
+~
+A
+19 100
+A
+18 100
+B
+302022656
+C
+7000 1
+G
+101
+M
+101
+#8204
+card key access~
+{C,BO}An Access Card{bo}~
+{C,BO}A glowing access card lies on the floor untouched...{bo}~
+~
+18 73728 0 16385
+-1 1000000000 1000000000 1000000000
+1 1 1
+E
+card key access~
+
+   {C,BO}It shimmers and shines with it's electronic circuitry...{bo}
+
+~
+G
+50
+#8205
+key small~
+{G,BO}A small key{bo}~
+{G,BO}A small key lies here waiting to be picked up...{bo}~
+~
+18 73728 0 1
+-1 0 0 0
+1 1 1
+E
+key small~
+  {BO,G}It sure is tiny...wonder what it goes to{bo}
+~
+#8206
+key laser~
+{W,BO}Laser Key{bo}~
+{BO,W}Light reflects off the laser key into your eyes and nearly blinds you!{bo}~
+~
+18 73728 0 1
+0 0 0 0
+1 1 1
+#8207
+elevator~
+{BO,bo,C}The Elevator{bo}~
+{bo,C}The elevator stands here open, waiting for you to enter.{bo}~
+~
+27 0 0 0
+8266 0 0 0
+1 1 1
+E
+elevator~
+{bo,C}It looks like all the other elevators you've seen in your life.  Wow!{bo}
+~
+#8208
+eyeball eye ball~
+{R}{BOLD}Bloody Eyeball{r}{bold}~
+{R}{BOLD}A shriveled eyeball lays in a pool of blood...{r}{bold}~
+~
+18 73728 0 17
+0 0 0 0
+1 1 1
+E
+eyeball eye ball~
+   {bo,R}It's bloody....and nasty...too disgusting for words!{bo}
+~
+#8209
+laser high powered~
+{BO,R}A High Powered {W,BLI,REV}Laser{bo}~
+{bo,R}A strange looking electronic part of a cyborg is rolling around on the ground.{bo}~
+~
+5 2147496448 3 8193
+1 20 15 13
+15 34464 5000000
+A
+19 10
+A
+18 7
+B
+1090519040
+L
+10
+C
+7000 1
+G
+80
+#8210
+Control Master Gizmo~
+{BLU,BO}Master Control{bo}~
+{BO,BLU}Some complicated gizmo with lots of knobbies lies here waiting to be played with...{bo}~
+~
+18 65536 0 1
+0 0 0 0
+1 1 1
+E
+Control Master~
+   
+   {bo,BLU}It looks complicated!  Better not break it!{bo}
+
+~
+#8211
+key vault~
+{BO,Y}A vault key{bo}~
+{BO,Y}A shiny gold key lies here, waiting to be used...{bo}~
+~
+18 65536 0 5
+0 0 0 0
+1 1 1
+E
+key vault~
+   
+   {bo,Y}As you take a closer examination you notice that it's a little scratched,
+but still SOLID GOLD!{bo}
+
+~
+#8212
+wires tangle remains cyborg steel~
+{bo,Y}A tangle of wires and steel{bo}~
+{bo,Y}Twisted metal and sparking wires are all that remain of the mighty CYBORG.{bo}~
+]{red}~
+15 6365200 0 1866465281
+300 288 300 300
+1 25922 10000
+E
+remains steel corpse~
+   
+   {BO,Y}Electricity still sparks and the body continues to twitch, as wires leap
+about the twisted steel frame.  The flesh is literally burning itself off as you watch
+until none remains.{bo}
+
+~
+#8213
+ring washer steel~
+{BO,bo,C}A Steel Washer{bo}~
+{BO,C}You see a shiny steel washer lying here, waiting to be picked up...{bo}~
+~
+9 2147487744 0 3
+10 0 0 0
+10 19264 50000
+E
+ring washer steel~
+   
+   {bo,C}The steel washer shines with light as you examine it.  It's not too large, and
+looks that it could fit perfectly on your finger!
+{bo}
+~
+A
+19 4
+A
+18 5
+B
+1174405120
+L
+20
+C
+7000 10
+G
+60
+#8214
+lens thick sharp~
+{BO,Y}a Thick Lens with Sharp Edges{bo}~
+{bo,Y}A thick lens which looks like it's from a pair of glasses is buried here in the ground.{bo}~
+~
+5 2147487744 0 8193
+3 4 13 4
+15 10000 60000
+E
+lens thick sharp~
+
+   {bo,Y}The lense is extremely thick.  It looks like the type you see
+on some dorky looking nerd, being held together by some tape.  The
+edges are extremely sharp however, and could probably slice just about
+anything!{bo}
+
+~
+E
+thick sharp lens~
+   
+   {bo,Y}The lense is extremely thick.  It looks like the type you see
+on some dorky looking nerd, being held together by some tape.  The
+~
+A
+19 5
+A
+18 5
+B
+40
+L
+20
+C
+7000 5
+G
+50
+M
+40
+#8215
+skull dredd~
+{R}The {R}{BOLD}SKULL{bold}{R} of {R}{BOL}DREDD{r}{bold}~
+{bo,W}A giant faded skull lies on the ground here.  Looks heavy!{bo}~
+~
+9 2148536321 0 17
+19 0 0 0
+20 3392 1
+E
+skull dredd~
+
+   {BO,W}The Skull of Dredd is thick and heavy.  There are small hairline   
+cracks along the skull, probably the consequence of ferocious battles
+from long ago.{bo}
+
+~
+A
+19 8
+A
+18 6
+B
+2105344
+L
+10
+C
+7000 5
+G
+100
+M
+100
+#8216
+strand wire wires sparking~
+{BO,Y}A Strand of Sparking Wires{bo}~
+{BO,Y}A long strand of wires lies here on the ground, {BLI}SPARKING LIKE MAD!{bo}~
+~
+9 2148544513 0 4097
+0 0 0 0
+8 34464 200000
+E
+strand wire wires sparking~
+   
+~
+E
+strand wire wires sparking~
+   
+   {BO,Y}Sparks fly from the multi-colored strands of wires as you examine
+them in your hands.  A thin black smoke drifts upwards, leaving you
+the smell of melted plastic wire casing.  You can feel the electrical
+charges surging through your flesh, giving you POWER!{bo}
+
+~
+A
+19 6
+A
+17 -12
+B
+17039488
+L
+10
+C
+7000 1
+M
+75
+#8217
+fist cyborg~
+{BO,B}CYBORG FIST{bo}~
+{BO,B}A Large Metallic Fist is lying here, indenting the ground!{bo}~
+~
+9 2148536832 0 129
+15 0 0 0
+10 1 1
+E
+fist cyborg~
+
+   {BO,B}This fist is made of a rare titanium alloy.  Light reflects off of
+it's shint black metallic surface.  The mechanical joints click and bend
+in a systematic manner.  You feel tempted just by looking at it to put it
+over your own hand and see how it feels.{bo}
+
+~
+A
+13 100
+A
+18 7
+B
+268435462
+L
+10
+C
+7000 1
+#8218
+flesh human suit decaying~
+{BO,bo,Y}A Suit of Decaying Flesh{bo}~
+{bo,Y}A large pile of decaying flesh lies here, emitting a foul odor...{bo}~
+~
+9 2215645696 0 9
+25 0 0 0
+10 10000 1
+E
+flesh human suit decaying~
+   
+   {bo,W}The flesh is decaying and falling apart.  How disgusting!  At the
+same time it's thickness looks extremely comforting.  The smell sure is
+awful though!
+{bo}
+~
+A
+19 5
+A
+18 6
+B
+1142423552
+L
+15
+C
+7000 5
+G
+90
+M
+80
+#8219
+skeleton mechanical mech~
+{BO,bo,C}Mechanical Skeleton{bo}~
+{bo,C}A metallic looking skeleton lies here on the ground...{bo}~
+~
+9 2148536322 0 1025
+20 7000 0 0
+8 1 1999
+E
+skeleton mechanical mech~
+
+   {bo,C}This skeleton is made of steel and other durable metal components.
+It is extremely tough and protective looking.  The gears and mechanical
+components are designed to optimize all functions of the cyborg being.
+{bo}
+~
+A
+19 6
+A
+18 6
+B
+144
+L
+10
+C
+7000 2
+G
+80
+M
+85
+#8220
+circuit board cracked~
+{BO,G}The Cracked Circuit Board{bo}~
+{BO,G}A circuit board lies here with a big crack down the middle...{bo}~
+~
+9 2148544512 0 16385
+0 0 0 0
+10 34464 1000000
+A
+13 100
+A
+17 -15
+B
+33554560
+L
+10
+C
+7000 2
+#8221
+key~
+{BO,bo,W}A Lab Key{bo}~
+{bo,W}A small key with strange writing on it lies in the ground...{bo}~
+~
+18 73856 0 1
+0 0 0 0
+1 1 1
+E
+key~
+   {BO,W}
+The small key has a bit of writing on it...
+     "Cybernetics Laboratory - Do Not Duplicate!" 
+{bo}
+~
+#8222
+test eq~
+{BO,R,BLI}TEST EQ{bo}~
+Nothing is floating around here.~
+~
+9 0 0 8041
+50 0 0 0
+1 1 1
+A
+19 50
+A
+18 50
+B
+335806654
+C
+7000 2
+#8223
+flashlight mag lite light~
+{BO,Y}A Mag-Lite Flashlight{bo}~
+{BO,BLA}A small black flashlight lies here on the ground.{bo}~
+~
+1 2148536320 0 1
+0 0 -1 2
+10 1000 10000
+E
+flashlight mag lite light~
+   
+   {BLA,BO}The mag-lite's design is compact and durable.  It's steel casing is the
+perfect design for security purposes.{bo}
+
+~
+A
+19 6
+A
+18 5
+B
+262184
+L
+15
+G
+60
+M
+75
+#8224
+suspenders dorky~
+{BO,R}A Pair of Dorky Red Suspenders{bo}~
+{bo,R}On the ground appears to be a pair of long red suspenders with metal clips at the end...{bo}~
+~
+9 2147487744 0 2049
+15 0 0 0
+5 1 1
+E
+suspenders dorky~
+
+   {bo,R}These thick cotton suspenders aren't for the tame of heart.  You'd
+have to be totally oblivious to the social norm or just a giant loser to 
+wear them, or maybe both.{bo}
+
+~
+A
+19 1
+A
+18 8
+B
+134217856
+L
+10
+C
+7000 1
+G
+40
+#8225
+pin robotics~
+{W,BO}A {bo,C}ROBOTICS {Y,BO}Inc.{W} Pin{bo}~
+{Y,BO}A glowing pin lies here...{bo}~
+~
+9 2147487744 0 1835009
+10 7000 0 0
+10 1 1
+E
+pin robotics~
+   
+   {bo,C}The Company Insignia shines in your hands.{bo}
+
+~
+A
+18 3
+A
+17 -4
+L
+30
+C
+7000 2
+G
+80
+#8226
+scrap metal steel~
+{BO,bo,C}A {BO}Scrap{bo,C} of {BO}Metal{bo}~
+{bo,C}The light reflects off of a scrap of metal lying on the ground.{bo}~
+~
+9 2148537344 0 445
+20 0 0 0
+5 2000 10000
+E
+scrap metal steel~
+   
+   {BO,C}The scrap reflects the light perfectly, giving it a marvelous shine.
+The smoothness of the metal is comforting, while the sharp edges show it's  
+strength.
+
+~
+A
+19 3
+A
+18 3
+B
+1073741824
+L
+30
+C
+7000 2
+G
+60
+#8227
+sign warning~
+{BO,R}The Warning Sign{bo}~
+{bo,R}A large red warning sign stands here, drawing your attention.{bo}~
+~
+13 0 0 0
+0 0 0 0
+1 1 1
+E
+sign warning~
+   {bo,R}Warning customers of the robotics factory.  Please stick to the display
+room of the factory.  If you need to use the restrooms they are located 
+in the hall near the entrance.  We assume no responsibility for any persons
+wandering beyond the areas specified above.  So please secure your children.
+    {BO}The Management{bo}
+~
+#8228
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8229
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8230
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8231
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8232
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8233
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8234
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8235
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8236
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8237
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8238
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8239
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8240
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8241
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8242
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8243
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8244
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8245
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8246
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8247
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8248
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8249
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8250
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8251
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8252
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8253
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8254
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8255
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8256
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8257
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8258
+nothing~
+nothing~
+Nothing is floating around here.~
+~
+13 0 0 1
+0 0 0 0
+1 1 1
+#8259
+crap timered~
+This really is a timered piece of crap~
+crap~
+~
+9 0 0 1
+0 0 0 0
+1 1 1
+C
+7000 1
+$~

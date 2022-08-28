@@ -1,0 +1,731 @@
+#30200
+A Secret Passage~
+  You are in a dank and musty corridor that smells rancid.  Small
+rodents and insects scurry by your feet making you shudder in
+disgust.  A scream can be heard in the distance making your spine
+shiver.  You attempt to ignore the creatures around you and 
+concentrate on the direction of the scream.  
+~
+302 16401 0
+D0
+~
+~
+0 -1 30201
+D2
+~
+picture~
+1 -1 5134
+Z3
+C-1
+S
+#30201
+A Secret Passage~
+  You are in a dank and musty corridor that smells rancid.  Small
+rodents and insects scurry by your feet making you shudder in
+disgust.  A scream can be heard in the distance making your spine
+shiver.  You attempt to ignore the creatures around you and 
+concentrate on the direction of the scream.  
+~
+302 16529 0
+D0
+~
+~
+0 -1 30202
+D2
+~
+~
+0 -1 30200
+Z3
+C-1
+S
+#30202
+A Prison Chamber~
+   You have come to the end of the passageway.  To the North, West
+and East lie heavy steel doors in which seem to be impenetrable from
+any sort of an attack.  The screams are now louder than ever and you
+can easily make out voices to the door to the west.  The stupid
+little rodents are pestering the hell out of you and the dark
+rancid smell is really starting to annoy you.  You feel as if your
+going to have a nervous breakdown right here until a small voice is heard
+from your feet.  "North! Go North!" a rat snickers.  What the frick?!
+A talking rodent! AHHH! Have you lost your mind?  You shrug your
+shoulders and after furiously attempting to open the western cell
+with no luck, north is your only choice.
+~
+302 128 1
+D0
+~
+~
+0 -1 30203
+D2
+~
+~
+0 -1 30201
+D3
+~
+cell~
+2 5132 30205
+Z3
+C-1
+S
+#30203
+Meeting The Little Rodents~
+   As you enter the room you notice something.. rats! heh!
+You've never seen so many rats in one spot in your life.  They seem
+to be be looking at you quite peculiar...  A crowned rat at the
+far end of the room stands and begins to clear his throat.  
+After looking at the other rats, he begins to speak in a ratherly
+odd english accent, "Have I not promised you the a delicious meal?
+Have I not foretold of the coming of the "Grazans?( thats you )
+Well, It is time for us to feast my people!" A loud cheer is heard
+from the surrounding rats.  Then the crowned rats screams at the
+top of his lungs, "ATTACK MY PEOPLE!!"
+
+Ack! What the fricka?! The rats are attacking you?! Eek!
+Quick! Get out the broom and defend yerself!
+
+~
+302 0 1
+D2
+~
+~
+0 -1 30202
+Z3
+C-1
+S
+#30204
+The Acid Worm~
+   * * * THE MOB IN THIS ROOM SPITS ACID * * * 
+
+Congragulations on getting to this room!  This is basically a 
+challenge room that you shouldnt tell many people about.  The mob in
+this room however, spits acid.  Acid mobs will destroy items in
+your inventory and will greatly reduce the armor-class of an item.
+This mob isnt aggressive and doesnt hit too hard but it does 
+spit acid.  This is just a little example of what to expect when
+you get to those high-level zones that have acid mobs.  
+
+Good Luck !!!
+
+~
+302 4 1
+D1
+~
+dangerous door~
+1 -1 30205
+Z3
+C2
+S
+#30205
+The Cell Of Queen Saliakezan~
+   Upon entrance to the room, you notice a massive man raise a
+huge axe and deliver a final blow to helpless woman.  You instantly
+jump in front of the woman and demand for it to stop at once.
+As you look deeper into the figures eyes, however, you feel a strong
+sense of fear and begin to panic.. As you attempt to flee the room
+the woman grabs hold of your legs and prevents you from moving!
+You panic and attempt to flee but to no avail.. Eek!
+
+Theres only way to get this woman off you sadly enough..
+
+~
+302 129 0
+D1
+~
+cell~
+1 -1 30202
+D3
+~
+dangerous door~
+5 1 30204
+Z3
+C-1
+S
+#30206
+Inside The Fountain~
+   It seems that you have shrunk in size upon entering the portal.
+You are about the size of the ant and are swimming in a fountain.
+You nervously splash about the fountain, hoping to find a way to
+get out of the fountain and get back to your normal size.
+~
+302 32768 6
+D3
+~
+~
+0 -1 30207
+Z3
+C-1
+S
+#30207
+Inside The Fountain~
+   It seems that you have shrunk in size upon entering the portal.
+You are about the size of the ant and are swimming in a fountain.
+You nervously splash about the fountain, hoping to find a way to
+get out of the fountain and get back to your normal size.
+~
+302 32768 6
+D1
+~
+~
+0 -1 30206
+D3
+~
+~
+0 -1 30208
+Z3
+C-1
+S
+#30208
+The Center of the Fountain~
+  You have finally made it to the center of this fountain.  I must
+admit you must have looked real cute doggie-paddling in a fountain.
+It seems however that the fish around you are displeased with you
+interfering in their environment.
+~
+302 32768 6
+D1
+~
+~
+0 -1 30207
+Z3
+C-1
+S
+#30209
+The Prison Chamber~
+Rotting corpses and decayed bodies lie about this room causing
+a rancid odor to fill this room.  The rats, however, seem to
+love this room.  Happy ! Happy ! Joy ! Joy !
+~
+302 1 0
+D3
+~
+~
+0 -1 30202
+Z3
+C-1
+S
+#30210
+The Kings Chamber~
+     You stand upon a dias behind the altar. Above you is a enormous illusion
+of a female drow turning into a giant spider and back again. There is a door 
+to the west.
+~
+302 137 0
+D1
+~
+~
+0 -1 5145
+D3
+~
+~
+0 -1 5149
+Z3
+C-1
+S
+#30211
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+302 262144 1
+D4
+~
+~
+0 -1 5193
+Z3
+C-1
+S
+#30212
+The Hidden Vault~
+~
+302 65536 0
+D4
+~
+~
+0 -1 2959
+Z3
+C-1
+S
+#30213
+{WH}{BO}The Skeleton's Cache{wh}~
+
+
+  {Y}The decaying corpse of Jarazel lies decomposing near the far right 
+  corner of this room.  Upon sight of such a grotesque sight, your 
+  last meal feels the need to come up and spread itself throughout the
+  room.  Despite the disgusting mess, you and your partner lift some 
+  boxes and search carefully every inch of the room.  You find a lot
+  of deceased people and bones in boxes, but contained within each
+  of those boxes is a hefty amount of coins which you excitedly place 
+  in your pocket.{y}
+
+
+~
+302 65536 1
+D1
+~
+jarazel~
+1 -1 2974
+Z3
+C1
+S
+#30214
+{BL}{BO}The Safe{bl}~
+
+
+  {Y}The room seems quite dusty and old with spider webs hanging from
+  every corner of the room.  There is a large black safe in the center 
+  of the room that appears almost brand new.  You start walking closer
+  to the safe peering around it, making sure there are no signs of 
+  {R}{BOLD}danger{r}{bold}{Y}.{y}
+
+
+~
+302 65544 0
+D0
+~
+~
+0 -1 30222
+D1
+~
+~
+0 -1 30216
+D2
+~
+~
+0 -1 30220
+D3
+~
+~
+0 -1 30218
+D4
+~
+passageway~
+1 -1 2963
+E
+danger~
+
+
+{Y}  A scuttling number of insects can be heard coming from inside the walls.  It
+  seems that the spiders have claimed this treasure theirs and do not want to let
+  you have it.  Maybe you should open the safe and get the hell outta dodge!
+
+
+{y}
+~
+Z3
+C-1
+S
+#30215
+{W}The {W}{BOLD}Tomb{w}{bold}{W} of the {W}{BOLD}Mummy{w}{bold}~
+
+
+  {R}{BOLD}The coffin looks dusty and old, and there appears to be a loud
+  moaning noise eminating from within.  It seems that you have 
+  somehow managed to waken the dead as the lid of the tomb falls to
+  the ground and a Mummy rises with undead powers!  You tightly  
+  grasp your weapon and take a deep breath of air, preparing to defend 
+  yourself against this lethal being.{r}{bold}
+  
+
+
+~
+302 4277272 0
+D4
+~
+tomb~
+1 -1 2927
+D5
+~
+~
+0 -1 2984
+Z15
+C2
+S
+#30216
+{GR}A Musty Hallway{gr}~
+
+
+{Y}  You are in a humid and putrid-smelling hallway.  Large cobwebs are 
+  hanging from the corner of the ceiling, adding to the overall eerie
+  mood that overwhelms you.  You jolt back as the sound of movement
+  can be heard.  {y}
+
+
+~
+302 8 0
+D1
+~
+~
+0 -1 30217
+D3
+~
+~
+0 -1 30214
+Z3
+C2
+S
+#30217
+{BL}{BO}A Dead End{bl}~
+
+
+ {Y}Bones and skulls litter the ground, none of it all that 
+ appealing to the eye. The tomb looks intact, albeit 
+ years of decay from the age of time. The tight space  
+ around you is feeling even tighter as you sense the movement
+ of small creatures progressing slowly closer to you. 
+  {y}{R}{BOLD}
+ Better grab what you can and get out of here!{r}
+
+
+~
+302 136 0
+D3
+~
+~
+0 -1 30216
+Z3
+C2
+S
+#30218
+{GR}A Musty Hallway{gr}~
+
+
+{Y}  You are in a humid and putrid-smelling hallway.  Large cobwebs are 
+  hanging from the corner of the ceiling, adding to the overall eerie
+  mood that overwhelms you.  You jolt back as the sound of movement
+  can be heard.  {y}
+
+
+~
+302 8 0
+D1
+~
+~
+0 -1 30214
+D3
+~
+~
+0 -1 30219
+Z3
+C-1
+S
+#30219
+{BL}{BO}A Dead End{bl}~
+
+
+ {Y}Bones and skulls litter the ground, none of it all that 
+ appealing to the eye. The tomb looks intact, albeit 
+ years of decay from the age of time. The tight space  
+ around you is feeling even tighter as you sense the movement
+ of small creatures progressing slowly closer to you. 
+  {y}{R}{BOLD}
+ Better grab what you can and get out of here!{r}
+
+
+~
+302 136 0
+D1
+~
+~
+0 -1 30218
+Z3
+C2
+S
+#30220
+{GR}A Musty Hallway{gr}~
+
+
+   {Y}You stand in the middle of a dank and humid hallway. The 
+   walls are of sand and dirt, and various symbols and markings
+   can be seen as blessings to the dead.  Spiders swirl around you
+   as you take too long to progress to the next room.  Your heart
+   drops as a loud groan can be heard echoing through the darkness
+   you.{y}
+
+
+~
+302 8 0
+D0
+~
+~
+0 -1 30214
+D2
+~
+~
+0 -1 30221
+Z3
+C-1
+S
+#30221
+{BL}{BO}A Dead End{bl}~
+
+
+ {Y}Bones and skulls litter the ground, none of it all that 
+ appealing to the eye. The tomb looks intact, albeit 
+ years of decay from the age of time. The tight space  
+ around you is feeling even tighter as you sense the movement
+ of small creatures progressing slowly closer to you. 
+  {y}{R}{BOLD}
+ Better grab what you can and get out of here!{r}
+
+
+~
+302 136 0
+D0
+~
+~
+0 -1 30220
+Z3
+C2
+S
+#30222
+{GR}A Musty Hallway{gr}~
+
+
+{Y}  You are in a humid and putrid-smelling hallway.  Large cobwebs are 
+  hanging from the corner of the ceiling, adding to the overall eerie
+  mood that overwhelms you.  You jolt back as the sound of movement
+  can be heard.  {y}
+
+
+~
+302 8 0
+D0
+~
+~
+0 -1 30223
+D2
+~
+~
+0 -1 30214
+Z3
+C-1
+S
+#30223
+{BL}{BO}A Dead End{bl}~
+
+
+ {Y}Bones and skulls litter the ground, none of it all that 
+ appealing to the eye. The tomb looks intact, albeit 
+ years of decay from the age of time. The tight space  
+ around you is feeling even tighter as you sense the movement
+ of small creatures progressing slowly closer to you. 
+  {y}{R}{BOLD}
+ Better grab what you can and get out of here!{r}
+
+
+~
+302 136 0
+D2
+~
+~
+0 -1 30222
+Z3
+C2
+S
+#30224
+A Dark Passage~
+
+
+{Y}  You squeeze your way through a small passageway that seems to 
+  prevent any light from penetrating within.  A collection of cobwebs dangle 
+  from the ceiling while green, slimy moss covers the surface of the  
+  walls on each side.  
+{y}
+
+~
+302 81921 1
+D3
+~
+~
+0 -1 30225
+Z6
+C1
+S
+#30225
+A Dark Passage~
+
+
+{Y}  You squeeze your way through a small passageway that seems to 
+  prevent any light from penetrating within.  A collection of cobwebs dangle 
+  from the ceiling while green, slimy moss covers the surface of the  
+  walls on each side.  
+{y}
+
+~
+302 81921 1
+D1
+~
+~
+0 -1 30224
+D3
+~
+~
+0 -1 30226
+Z7
+C1
+S
+#30226
+{BL}{BO}The Dark Chamber{bl}~
+
+
+  {R}You and your partner enter a small alcove that has less visibility 
+  than the passageway.  You shine your light up, and peer around looking 
+  for anything interesting or unusual.  A cold shiver rushes up your 
+  spine as you get an eerie feeling that your not alone.
+
+{r}
+
+~
+302 16384 1
+D1
+~
+~
+0 -1 30225
+T2999
+Z10
+C2
+S
+#30227
+{W}{BOLD}The Cro{R}{BOLD}ssro{r}{bold}{W}{BOLD}ads of{w}{bold} {BL}D{W}{BOLD}e{BL}a{W}{BOLD}t{BL}h{bl}~
+
+The Crossroads.
+~
+302 65536 1
+D0
+~
+~
+0 -1 30215
+D2
+~
+~
+0 -1 30226
+D3
+~
+~
+0 -1 30214
+D4
+~
+~
+0 -1 2912
+Z3
+C-1
+S
+#30228
+{W}{BOLD}The Cro{R}{BOLD}ssro{r}{bold}{W}{BOLD}ads of{w}{bold} {BL}D{W}{BOLD}e{BL}a{W}{BOLD}t{BL}h{bl}~
+
+The Crossroads.
+~
+302 65536 1
+D0
+~
+~
+0 -1 30232
+D1
+~
+~
+0 -1 30233
+D2
+~
+~
+0 -1 30230
+D3
+~
+~
+0 -1 30231
+Z3
+C-1
+S
+#30229
+{BL}{BO}A Dead End{bl}~
+You are standing in nowhere !!!!
+~
+302 140 0
+Z0
+C2
+S
+#30230
+{GR}A Musty Hallway{gr}~
+You are standing in nowhere !!!!
+~
+302 136 0
+D0
+~
+~
+0 -1 30228
+Z0
+C-1
+S
+#30231
+A Musty Hallway~
+You are standing in nowhere !!!!
+~
+302 0 1
+D1
+~
+~
+0 -1 30228
+Z0
+C-1
+S
+#30232
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+302 0 1
+D2
+~
+~
+0 -1 30228
+Z0
+C-1
+S
+#30233
+A Murky Hallway~
+You are standing in nowhere !!!!
+~
+302 0 1
+D3
+~
+~
+0 -1 30228
+Z0
+C-1
+S
+#30234
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+302 262144 1
+Z0
+C-1
+S
+#30235
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+302 262144 1
+Z0
+C-1
+S
+#30236
+This is nowhere.~
+You are standing in nowhere !!!!
+~
+302 0 1
+Z0
+C-1
+S
+#30237
+A Pool of Quicksand~
+   Yep, it's quicksand....have a nice day...:)
+~
+302 16777234 2
+D0
+~
+~
+0 -1 30100
+Z0
+C-1
+S
+$~

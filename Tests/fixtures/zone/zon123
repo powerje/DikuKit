@@ -1,0 +1,136 @@
+#123
+Rifts(Heathen)~
+12399 4000 2
+*
+X 722
+D 0 12300     2     0    (S:OPEN) Poet's Abode
+O 0 12319     1 12301    Rift
+M 0 12300     1 12302    The Great Horned Dragon
+D 0 12302     4     1    (U:CLOSED) Cavern
+D 0 12302     5     1    (D:CLOSED) Cavern
+M 0 12301     1 12303    The Shiny Borg
+E 1 12302     2     7    (LEGS) {BL,BO}bi{bo}{WH}on{BL,BO}ic {bo}{WH}le{BL,BO}gs{bl}
+E 1 12301     1    10    (ARMS) {BL,BO}bi{bo}{WH}on{BL,BO}ic {bo}{WH}ar{BL,BO}ms{bl}
+D 0 12303     5     1    (D:CLOSED) What the heck is this . . . THING?!
+D 0 12305     4     2    (U:LOCKED) Chi-Town
+D 0 12305     5     2    (D:LOCKED) Chi-Town
+M 0 12302     1 12306    The Coalition Technical Officer
+G 1 12303     1     0    {CY}{BOLD}c{W}y{CY}b{W}e{CY}r{W}n{CY}e{W}t{CY}i{W}c{CY} hands{cy}
+M 0 12303     1 12306    The Coalition Military Specialist
+E 1 12304     1    17    (HELD) Coalition ID - Colonel
+D 0 12306     5     2    (D:LOCKED) Inside the Skull-Walker
+D 0 12307     4     2    (U:LOCKED) Inner Chi-Town
+D 0 12311     4     2    (U:LOCKED) Xiticix Hive
+D 0 12312     5     2    (D:LOCKED) Inside the Xiticix Hive
+M 0 12308    10 12320    The Skelebot
+D 0 12321     4     1    (U:CLOSED) Tolkeen
+D 0 12322     5     1    (D:CLOSED) Tolkeen
+M 0 12304     1 12323    Xiticix Scout
+E 1 12305     1     3    (NECK) Xiticix scent gland
+M 0 12308    10 12323    The Skelebot
+D 0 12325     4     1    (U:CLOSED) Lazlo
+D 0 12326     5     1    (D:CLOSED) Lazlo
+M 0 12307    10 12329    The . . . "THING"
+M 0 12308    10 12329    The Skelebot
+M 0 12306     1 12330    The Wilderness Scout
+E 1 12307     3    12    (ABOUT) {BOLD}{G}N{BLA}a{bla}{G}r{G}{BOLD}u{G}n{BLA}i{G} C{BLA}a{bla}{G}m{G}{BOLD}o{BLA}u{G}f{BLA}la{G}ge{g}
+M 0 12308    10 12330    The Skelebot
+M 0 12307    10 12330    The . . . "THING"
+M 0 12308    10 12335    The Skelebot
+M 0 12307    10 12336    The . . . "THING"
+M 0 12307    10 12336    The . . . "THING"
+M 0 12308    10 12339    The Skelebot
+M 0 12307    10 12340    The . . . "THING"
+M 0 12307    10 12341    The . . . "THING"
+M 0 12308    10 12341    The Skelebot
+D 0 12343     5     1    (D:CLOSED) Wilderness
+D 0 12344     4     1    (U:CLOSED) Dark Tunnel
+D 0 12346     5     2    (D:LOCKED) Lone Star Laboratories
+D 0 12347     4     2    (U:LOCKED) Lone Star Laboratories
+M 0 12308    10 12348    The Skelebot
+M 0 12307    10 12348    The . . . "THING"
+M 0 12307    10 12348    The . . . "THING"
+M 0 12307    10 12349    The . . . "THING"
+M 0 12313     1 12349    The Vagabond
+E 1  3030     4     0    (LIGHT) {R}{BOLD}a torch{r}
+E 1   305     2     3    (NECK) nothing
+E 1  2016     1    16    (WIELD) a newbie hammer
+G 1  3012     8     0    {W,BO}A {M}large piece {W}of {M}cake{m,bo}
+G 1  3003     6     0    a firebreather
+M 0 12307    10 12349    The . . . "THING"
+M 0 12305     1 12349    The Coalition Elite RPA
+E 1 12306     1     5    (BODY) {BLAC}{BOLD}Strategic{R} Armor{G}{BOLD} M{BLA}i{W}l{G}i{BLA}t{W}a{G}r{BLA}y{R} Attack{BLA} Suit{bla}
+M 0 12308    10 12349    The Skelebot
+M 0 12308    10 12350    The Skelebot
+D 0 12355     5     1    (D:CLOSED) Wilderness
+D 0 12356     4     1    (U:CLOSED) Path Into Valley
+M 0 12309     5 12360    The Xiticix Worker
+M 0 12310     5 12363    The Xiticix Warrior
+D 0 12363     4     1    (U:CLOSED) Inside the Xiticix Hive
+D 0 12364     5     1    (D:CLOSED) 2nd Floor of Hive
+M 0 12309     5 12365    The Xiticix Worker
+M 0 12310     5 12367    The Xiticix Warrior
+D 0 12367     4     1    (U:CLOSED) 2nd Floor of Hive
+D 0 12369     5     1    (D:CLOSED) 3rd Floor of Hive
+M 0 12309     5 12371    The Xiticix Worker
+M 0 12310     5 12373    The Xiticix Warrior
+D 0 12373     4     1    (U:CLOSED) 3rd Floor of Hive
+M 0 12309     5 12374    The Xiticix Worker
+M 0 12310     5 12374    The Xiticix Warrior
+D 0 12374     4     1    (U:CLOSED) 4th Floor of Hive
+D 0 12374     5     1    (D:CLOSED) 4th Floor of Hive
+D 0 12379     5     1    (D:CLOSED) 5th Floor of Hive
+M 0 12309     5 12380    The Xiticix Worker
+M 0 12311     1 12382    The Xiticix Queen
+G 1 12308     3     0    Xiticix larvae
+G 1 12308     3     0    Xiticix larvae
+G 1 12308     3     0    Xiticix larvae
+D 0 12382     4     2    (U:LOCKED) Throne Room
+M 0 12310     5 12383    The Xiticix Warrior
+M 0 12312     1 12384    The Cyber-Knight
+E 1 12309     1    16    (WIELD) {W}{BOLD}o{Y}|{BL,BO}psi{Y}||{BL}{W}{___{UN}sword{un}{W,BO}____>{w}
+D 0 12384     5     2    (D:LOCKED) Carbonite Cell
+M 0 12316     1 12385    The Crazy
+E 1 12310     2     6    (HEAD) {BLU}{BOL}M{R}ind{r}-{BLU}{BOL}O{R}ver{r}-{BLU}{BOL}M{R}atter{Y}{BOL} Technology {bol}{BLA}Implant{bla}
+M 0 12315     5 12385    Tolkeen Militia
+D 0 12385     2     2    (S:LOCKED) Rubber Room
+M 0 12314     5 12386    Tolkeen Citizen
+D 0 12386     0     2    (N:LOCKED) Siembieda Street
+D 0 12386     2     2    (S:LOCKED) Siembieda Street
+M 0 12314     5 12387    Tolkeen Citizen
+D 0 12387     0     2    (N:LOCKED) Siembieda Street
+D 0 12387     2     2    (S:LOCKED) Siembieda Street
+O 0 41421     1 12388    {BLA}A Rift to the Future{bla}
+D 0 12389     0     2    (N:LOCKED) Siembieda Street
+D 0 12389     2     2    (S:LOCKED) Siembieda Street
+M 0 12315     5 12390    Tolkeen Militia
+D 0 12390     0     2    (N:LOCKED) Siembieda Street
+D 0 12390     1     2    (E:LOCKED) Siembieda Street
+D 0 12390     2     2    (S:LOCKED) Siembieda Street
+M 0 12314     5 12391    Tolkeen Citizen
+D 0 12391     0     2    (N:LOCKED) Long Ave.
+D 0 12391     2     2    (S:LOCKED) Long Ave.
+D 0 12391     3     2    (W:LOCKED) Long Ave.
+M 0 12314     5 12392    Tolkeen Citizen
+M 0 12315     5 12392    Tolkeen Militia
+D 0 12392     0     2    (N:LOCKED) Long Ave.
+D 0 12392     2     2    (S:LOCKED) Long Ave.
+M 0 12314     5 12393    Tolkeen Citizen
+M 0 12315     5 12394    Tolkeen Militia
+D 0 12394     0     2    (N:LOCKED) Long Ave.
+D 0 12394     2     2    (S:LOCKED) Long Ave.
+M 0 12315     5 12395    Tolkeen Militia
+D 0 12395     0     2    (N:LOCKED) Long Ave.
+D 0 12395     2     2    (S:LOCKED) Long Ave.
+M 0 12317     1 12396    The Juicer
+E 1 12311     1     3    (NECK) {G}{BOLD}juicer{bol}{G} collar{g}
+D 0 12396     0     2    (N:LOCKED) Detox
+M 0 12318     1 12397    The Headhunter
+E 1 12312     1    17    (HELD) {BLA}{BOLD}plas{bold}{W}ma{R}{BOL} pistol{r}{bold}
+D 0 12397     1     2    (E:LOCKED) Militia HQ
+D 0 12398     0     2    (N:LOCKED) Palladium Blvd.
+D 0 12398     2     2    (S:LOCKED) Palladium Blvd.
+D 0 12398     3     2    (W:LOCKED) Palladium Blvd.
+D 0 12399     0     2    (N:LOCKED) Palladium Blvd.
+D 0 12399     2     2    (S:LOCKED) Palladium Blvd.
+$~
