@@ -1,4 +1,4 @@
-// swift-tools-version:5.2
+// swift-tools-version:5.5
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
@@ -21,7 +21,7 @@ let package = Package(
             name: "DikuKit",
             dependencies: []
         ),
-        .target(
+        .executableTarget(
             name: "diku",
             dependencies: [
                 .product(name: "ArgumentParser", package: "swift-argument-parser"),
@@ -29,6 +29,8 @@ let package = Package(
             ]),
         .testTarget(
             name: "DikuKitTests",
-            dependencies: ["DikuKit", "Quick", "Nimble"]),
+            dependencies: ["DikuKit", "Quick", "Nimble"],
+            resources: [.process("Resources")]
+            )
     ]
 )

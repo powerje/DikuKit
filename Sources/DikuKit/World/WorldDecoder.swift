@@ -171,6 +171,7 @@ struct WorldUnkeyedDecodingContainer: UnkeyedDecodingContainer {
     }
 
     private static func isAtEnd(_ scanner: Scanner) -> Bool {
+        if scanner.remaining.starts(with: "$~") { return true }
         let endChecker = Scanner(string: scanner.string)
         endChecker.charactersToBeSkipped = CharacterSet()
         endChecker.currentIndex = scanner.currentIndex
@@ -180,8 +181,8 @@ struct WorldUnkeyedDecodingContainer: UnkeyedDecodingContainer {
         _ = endChecker.scanInt()
         _ = endChecker.scanCharacters(from: .newlines)
         let potentialEOF = endChecker.scanUpToCharacters(from: .whitespacesAndNewlines) ?? ""
-
-        return potentialEOF.contains("$~")
+        let isAtEnd = potentialEOF.contains("$~")
+        return isAtEnd
     }
 
     mutating func nestedContainer<NestedKey>(keyedBy type: NestedKey.Type) throws -> KeyedDecodingContainer<NestedKey> where NestedKey: CodingKey {
@@ -203,6 +204,7 @@ enum WorldDecodingError: Error {
 
 extension Scanner {
     var peekCharacter: Character { string[currentIndex] }
+    var remaining: String { String(string[currentIndex...]) }
 
     func consumeWhitespace() {
         while peekCharacter.isWhitespace { _ = scanCharacter() }
@@ -218,7 +220,7 @@ extension Scanner {
         return scanUpToString("\(character)")
     }
 
-    func whatsLeft(title: String = "") {
-        print("\(title):\n```\(string[currentIndex...])```\n\n")
+    func debugPrintRemaining(title: String = "") {
+        print("\(title):\n```\(remaining)```\n\n")
     }
 }

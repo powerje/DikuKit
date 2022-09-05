@@ -9,6 +9,20 @@ class WorldSpec: QuickSpec {
         let decoder = WorldDecoder()
 
         describe("World Decoder") {
+            context("given NCMUD's wld0") {
+                it("properly decodes it") {
+                    let worldData = nc_wld0.data(using: .utf8)!
+                    do {
+                        let world: World? = try decoder.decode(World.self, from: worldData)
+                        expect(world).notTo(beNil())
+                    } catch {
+                        expect(error).to(beNil())
+                    }
+                }
+            }
+        }
+
+        describe("World Decoder") {
             context("given invalid input") {
                 it("produces an error") {
                     let worldData =
@@ -263,5 +277,6 @@ class WorldSpec: QuickSpec {
                 }
             }
         }
+        
     }
 }
