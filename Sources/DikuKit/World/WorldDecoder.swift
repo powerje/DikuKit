@@ -102,7 +102,7 @@ struct WorldUnkeyedDecodingContainer: UnkeyedDecodingContainer {
         return list
     }
 
-    private mutating func roomIfDone(vnum: Int, name: String, description: String, zoneNumber: Int, zoneFlags: Int, sectorType: Int, exits: [Exit] = [], extraDescriptions: [ExtraDescription] = []) -> Room? {
+    private mutating func roomIfDone(vnum: Int, name: String, description: String, zoneNumber: Int, zoneFlags: Int, sectorType: Int, exits: [Exit] = [], darkLevel: Int = 3, extraDescriptions: [ExtraDescription] = [], maxCharacters: MaxCharacters = .infinite) -> Room? {
         guard scanner.peekCharacter == "S" else { return nil }
 
         _ = scanner.scanCharacter()
@@ -114,7 +114,7 @@ struct WorldUnkeyedDecodingContainer: UnkeyedDecodingContainer {
             currentIndex += 1
         }
 
-        return Room(virtualNumber: vnum, name: name, description: description, zoneNumber: zoneNumber, zoneFlags: zoneFlags, sectorType: sectorType, exits: exits, extraDescriptions: extraDescriptions)
+        return Room(virtualNumber: vnum, name: name, description: description, zoneNumber: zoneNumber, zoneFlags: zoneFlags, sectorType: sectorType, exits: exits, darkLevel: darkLevel, extraDescriptions: extraDescriptions, maxCharacters: maxCharacters)
     }
 
     private mutating func consumeExits(vnum: Int) throws -> [Exit] {
@@ -132,10 +132,17 @@ struct WorldUnkeyedDecodingContainer: UnkeyedDecodingContainer {
         return exits
     }
 
+    // How to handle NCMUD extensions, complete break from Diku? Make the decoder smarter?
+    private mutating func consumeDarkLevel(vnum: Int) throws -> Int? {
+        guard scanner.peekCharacter == "Z" else { return 3 }
+
+        _ = scanner.scanCharacter()
+        let darkLevel = scanner.scanInt()
+        return darkLevel
+    }
+    
     private mutating func consumeExtraDescriptions(vnum: Int) throws -> [ExtraDescription] {
-        guard scanner.peekCharacter == "E" else {
-            throw WorldDecodingError.unexpectedCharacter("\(currentIndex): Expected `E` but got `\(scanner.peekCharacter)` (VNUM #\(vnum))")
-        }
+        guard scanner.peekCharacter == "E" else { return [] }
 
         var extraDescriptions = [ExtraDescription]()
         while scanner.peekCharacter == "E" {
@@ -147,6 +154,15 @@ struct WorldUnkeyedDecodingContainer: UnkeyedDecodingContainer {
         return extraDescriptions
     }
 
+    private mutating func consumeMaxCharacters() throws -> MaxCharacters {
+        guard scanner.peekCharacter == "C" else { return .infinite }
+        _ = scanner.scanCharacter()
+        let maxCharacters = scanner.scanInt()!
+        if maxCharacters == -1 { return .infinite }
+
+        return .limited(count: maxCharacters)
+    }
+
     mutating func decode<T>(_ type: T.Type) throws -> T where T: Decodable {
         try skipHash()
         let vnum = try consumeInt(named: "VNUM")
@@ -156,6 +172,7 @@ struct WorldUnkeyedDecodingContainer: UnkeyedDecodingContainer {
         let zoneFlags = try consumeInt(named: "zoneFlags", vnum: vnum)
         let sectorType = try consumeInt(named: "sectorType", vnum: vnum)
 
+        // oof, darklevel is after these required elements, but really need it for this check
         if let room = roomIfDone(vnum: vnum, name: name, description: description, zoneNumber: zoneNumber, zoneFlags: zoneFlags, sectorType: sectorType) {
             return room as! T
         }
@@ -165,13 +182,20 @@ struct WorldUnkeyedDecodingContainer: UnkeyedDecodingContainer {
             return room as! T
         }
 
+        let darkLevel = try consumeDarkLevel(vnum: vnum)
         let extraDescriptions = try consumeExtraDescriptions(vnum: vnum)
+        scanner.consumeWhitespace() // NC adds newlines here sometimes?
+        let maxCharacters = try consumeMaxCharacters()
 
-        return roomIfDone(vnum: vnum, name: name, description: description, zoneNumber: zoneNumber, zoneFlags: zoneFlags, sectorType: sectorType, exits: exits, extraDescriptions: extraDescriptions) as! T
+        guard let room = roomIfDone(vnum: vnum, name: name, description: description, zoneNumber: zoneNumber, zoneFlags: zoneFlags, sectorType: sectorType, exits: exits, darkLevel: darkLevel ?? 3, extraDescriptions: extraDescriptions, maxCharacters: maxCharacters) as? T else {
+            fatalError("Error decoding room, next 100 characters: \(scanner.peekCharacters(count: 100))")
+        }
+        return room
     }
 
     private static func isAtEnd(_ scanner: Scanner) -> Bool {
         if scanner.remaining.starts(with: "$~") { return true }
+
         let endChecker = Scanner(string: scanner.string)
         endChecker.charactersToBeSkipped = CharacterSet()
         endChecker.currentIndex = scanner.currentIndex

@@ -8,10 +8,22 @@ class WorldSpec: QuickSpec {
     override func spec() {
         let decoder = WorldDecoder()
 
-        describe("World Decoder") {
+        describe("Decoding NCMUD world files") {
             context("given NCMUD's wld0") {
                 it("properly decodes it") {
                     let worldData = nc_wld0.data(using: .utf8)!
+                    do {
+                        let world: World? = try decoder.decode(World.self, from: worldData)
+                        expect(world).notTo(beNil())
+                    } catch {
+                        expect(error).to(beNil())
+                    }
+                }
+            }
+
+            context("given NCMUD's wld298") {
+                it("properly decodes it") {
+                    let worldData = nc_wld298.data(using: .utf8)!
                     do {
                         let world: World? = try decoder.decode(World.self, from: worldData)
                         expect(world).notTo(beNil())
