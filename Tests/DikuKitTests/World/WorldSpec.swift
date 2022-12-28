@@ -6,32 +6,67 @@ import Quick
 class WorldSpec: QuickSpec {
 
     override func spec() {
+        describe("Decoding NCMUD world files") {
+            context("given NCMUD's wld0") {
+                it("properly decodes it") {
+                    let parser = WorldParser(nc_wld0)
+                    do {
+                        let world: World? = try parser.parse()
+                        expect(world).notTo(beNil())
+                    } catch {
+                        expect(error).to(beNil())
+                    }
+                }
+            }
 
-//        describe("Decoding NCMUD world files") {
-//            context("given NCMUD's wld0") {
-//                it("properly decodes it") {
-//                    let worldData = nc_wld0.data(using: .utf8)!
-//                    do {
-//                        let world: World? = try decoder.decode(World.self, from: worldData)
-//                        expect(world).notTo(beNil())
-//                    } catch {
-//                        expect(error).to(beNil())
-//                    }
-//                }
-//            }
-//
-//            context("given NCMUD's wld298") {
-//                it("properly decodes it") {
-//                    let worldData = nc_wld298.data(using: .utf8)!
-//                    do {
-//                        let world: World? = try decoder.decode(World.self, from: worldData)
-//                        expect(world).notTo(beNil())
-//                    } catch {
-//                        expect(error).to(beNil())
-//                    }
-//                }
-//            }
-//        }
+            context("given NCMUD's wld20") {
+                it("properly decodes it") {
+                    let parser = WorldParser(nc_wld20)
+                    do {
+                        let world: World? = try parser.parse()
+                        expect(world).notTo(beNil())
+                    } catch {
+                        expect(error).to(beNil())
+                    }
+                }
+            }
+
+            context("given NCMUD's wld30") {
+                it("properly decodes it") {
+                    let parser = WorldParser(nc_wld30)
+                    do {
+                        let world: World? = try parser.parse()
+                        expect(world).notTo(beNil())
+                    } catch {
+                        expect(error).to(beNil())
+                    }
+                }
+            }
+
+            context("given NCMUD's wld146") {
+                it("properly decodes it") {
+                    let parser = WorldParser(nc_wld146)
+                    do {
+                        let world: World? = try parser.parse()
+                        expect(world).notTo(beNil())
+                    } catch {
+                        expect(error).to(beNil())
+                    }
+                }
+            }
+
+            context("given NCMUD's wld298") {
+                it("properly decodes it") {
+                    let parser = WorldParser(nc_wld298)
+                    do {
+                        let world: World? = try parser.parse()
+                        expect(world).notTo(beNil())
+                    } catch {
+                        expect(error).to(beNil())
+                    }
+                }
+            }
+        }
 
         // should add a test for a missing file termination: $~
         describe("World Decoder") {

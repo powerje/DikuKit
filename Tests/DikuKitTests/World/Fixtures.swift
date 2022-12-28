@@ -16,4 +16,7 @@ private func loadFile(name: String, extension: String = "") -> String {
 
 let tinyworld = loadFile(name: "tinyworld", extension: "wld")
 let nc_wld0 = loadFile(name: "wld0")
+let nc_wld20 = loadFile(name: "wld20")
+let nc_wld30 = loadFile(name: "wld30")
+let nc_wld146 = loadFile(name: "wld146")
 let nc_wld298 = loadFile(name: "wld298")

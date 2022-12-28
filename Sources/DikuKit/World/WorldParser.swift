@@ -62,6 +62,15 @@ public class WorldParser {
             } else if scanner.peekCharacter == "E" {
                 let extraDescriptions = try? consumeExtraDescriptions(with: scanner, virtualNumber: virtualNumber)
                 room.extraDescriptions = extraDescriptions ?? []
+            } else if scanner.peekCharacter == "Z" {
+                _ = scanner.scanCharacter()
+                room.darkLevel = try consumeInt(with: scanner, named: "dark level", virtualNumber: virtualNumber)
+            } else if scanner.peekCharacter == "X" {
+                _ = scanner.scanCharacter()
+                let specFlag0 = try consumeInt(with: scanner, named: "specflag0", virtualNumber: virtualNumber)
+            } else if scanner.peekCharacter == "T" {
+                _ = scanner.scanCharacter()
+                let dropRoom = try consumeInt(with: scanner, named: "drop room", virtualNumber: virtualNumber)
             } else {
                 throw WorldParsingError.unexpectedCharacter("Unexpected character parsing room \(virtualNumber): \(scanner.remaining)")
             }
@@ -110,7 +119,7 @@ public class WorldParser {
 extension WorldParser {
     private func consumeExits(with scanner: Scanner, virtualNumber: Int) throws -> [Exit] {
         var exits = [Exit]()
-        while scanner.peekCharacter == "D" {
+        while scanner.peekCharacter == "D" { // Mystery "F" mode in NCMUD that behaves differently, undocumented, not sure if in use.
             _ = scanner.scanCharacter()
             let exitNumber = try consumeInt(with: scanner, named: "exitNumber in exit: \(exits.count)", virtualNumber: virtualNumber)
             let generalDescription = try consumeString(with: scanner, named: "generalDescription in exit: \(exits.count)", virtualNumber: virtualNumber)
