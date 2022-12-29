@@ -25,7 +25,7 @@ public class WorldParser {
             throw WorldParsingError.unexpectedCharacter("Expected '#' to represent virtual number but got 'nil' at room index: \(index)")
         }
 
-        var room = Room(virtualNumber: 0, name: "", description: "", zoneNumber: 0, zoneFlags: 0, zresetCost: 0, sectorType: 0, exits: [], darkLevel: 3, extraDescriptions: [], maxCharacters: .infinite, maxLevel: .max, minLevel: 0, specFlags0: 0, dropRoom: nil)
+        var room = Room(virtualNumber: 0, name: "", description: "", zoneNumber: 0, roomFlags: 0, zresetCost: 0, sectorType: 0, exits: [], darkLevel: 3, extraDescriptions: [], maxCharacters: .infinite, maxLevel: .max, minLevel: 0, specFlags0: 0, dropRoom: nil)
 
         guard let virtualNumber = scanner.scanInt() else {
             throw WorldParsingError.unexpectedCharacter("\(index) missing vnum")
@@ -34,7 +34,7 @@ public class WorldParser {
         room.name = try consumeString(with: scanner, named: "name", virtualNumber: virtualNumber, finallyConsuming: .newlines)
         room.description = try consumeString(with: scanner, named: "description", virtualNumber: virtualNumber)
         room.zoneNumber = try consumeInt(with: scanner, named: "zoneNumber", virtualNumber: virtualNumber)
-        room.zoneFlags = try consumeInt(with: scanner, named: "zoneFlags", virtualNumber: virtualNumber)
+        room.roomFlags = try consumeInt(with: scanner, named: "zoneFlags", virtualNumber: virtualNumber)
         room.sectorType = try consumeInt(with: scanner, named: "sectorType", virtualNumber: virtualNumber)
 
         if scanner.peekCharacters(count: 2)  == "$~" { return room }

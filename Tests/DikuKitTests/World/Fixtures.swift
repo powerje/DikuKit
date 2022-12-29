@@ -7,9 +7,6 @@ import Foundation
 // #7439 - random 5~ doesn't appear to be used
 // The dataset has been modified for this test to match the specification.
 
-//let tinyworldURL = Bundle.module.url(forResource: "tinyworld", withExtension: "wld")!
-//let tinyworld = try! String(contentsOf: tinyworldURL)
-
 private func loadFile(name: String, extension: String = "") -> String {
     try! String(contentsOf: Bundle.module.url(forResource: name, withExtension: `extension`)!)
 }

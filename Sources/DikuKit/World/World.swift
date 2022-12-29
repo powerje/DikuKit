@@ -1,5 +1,6 @@
 import Foundation
 
+
 public struct World: Codable {
     public var rooms: [Room]
 }
@@ -9,7 +10,7 @@ public struct Room: Codable {
     public var name: String
     public var description: String
     public var zoneNumber: Int
-    public var zoneFlags: Int
+    public var roomFlags: Int
     public var zresetCost: Int
     public var sectorType: Int
     public var exits: [Exit]
