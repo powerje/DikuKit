@@ -117,7 +117,7 @@ class WorldSpec: QuickSpec {
                     expect(room.virtualNumber).to(equal(1))
                     expect(room.description).to(equal("  You don't think that you are not floating in nothing.\n"))
                     expect(room.zoneNumber).to(equal(0))
-                    expect(room.roomFlags).to(equal(8))
+                    expect(room.roomFlags).to(equal(.indoors))
                     expect(room.sectorType).to(equal(1))
                 } catch {
                     expect(error).to(beNil())
@@ -154,7 +154,7 @@ class WorldSpec: QuickSpec {
                     let room = rooms.first!
                     expect(room.virtualNumber).to(equal(0))
                     expect(room.zoneNumber).to(equal(0))
-                    expect(room.roomFlags).to(equal(8))
+                    expect(room.roomFlags).to(equal(.indoors))
                     expect(room.sectorType).to(equal(1))
 
                     expect(room.exits.count).to(equal(2))
@@ -210,7 +210,7 @@ class WorldSpec: QuickSpec {
                     let room = rooms.first!
                     expect(room.virtualNumber).to(equal(0))
                     expect(room.zoneNumber).to(equal(0))
-                    expect(room.roomFlags).to(equal(8))
+                    expect(room.roomFlags).to(equal(.indoors))
                     expect(room.sectorType).to(equal(1))
 
                     expect(room.extraDescriptions.count).to(equal(2))
@@ -303,7 +303,7 @@ class WorldSpec: QuickSpec {
                     expect(room.virtualNumber).to(equal(1))
                     expect(room.description).to(equal("  You don't think that you are not floating in nothing.\n"))
                     expect(room.zoneNumber).to(equal(0))
-                    expect(room.roomFlags).to(equal(8))
+                    expect(room.roomFlags).to(equal(.indoors))
                     expect(room.sectorType).to(equal(1))
                 } catch {
                     expect(error).to(beNil())
