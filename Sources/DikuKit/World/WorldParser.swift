@@ -25,22 +25,17 @@ public class WorldParser {
             throw WorldParsingError.unexpectedCharacter("Expected '#' to represent virtual number but got 'nil' at room index: \(index)")
         }
 
-        var room = Room(virtualNumber: 0, name: "", description: "", zoneNumber: 0, zoneFlags: 0, sectorType: 0, exits: [], darkLevel: 3, extraDescriptions: [], maxCharacters: .infinite)
+        var room = Room(virtualNumber: 0, name: "", description: "", zoneNumber: 0, zoneFlags: 0, zresetCost: 0, sectorType: 0, exits: [], darkLevel: 3, extraDescriptions: [], maxCharacters: .infinite, maxLevel: .max, minLevel: 0, specFlags0: 0, dropRoom: nil)
 
         guard let virtualNumber = scanner.scanInt() else {
             throw WorldParsingError.unexpectedCharacter("\(index) missing vnum")
         }
         room.virtualNumber = virtualNumber
-        let name = try consumeString(with: scanner, named: "name", virtualNumber: virtualNumber, finallyConsuming: .newlines)
-        room.name = name
-        let description = try consumeString(with: scanner, named: "description", virtualNumber: virtualNumber)
-        room.description = description
-        let zoneNumber = try consumeInt(with: scanner, named: "zoneNumber", virtualNumber: virtualNumber)
-        room.zoneNumber = zoneNumber
-        let zoneFlags = try consumeInt(with: scanner, named: "zoneFlags", virtualNumber: virtualNumber)
-        room.zoneFlags = zoneFlags
-        let sectorType = try consumeInt(with: scanner, named: "sectorType", virtualNumber: virtualNumber)
-        room.sectorType = sectorType
+        room.name = try consumeString(with: scanner, named: "name", virtualNumber: virtualNumber, finallyConsuming: .newlines)
+        room.description = try consumeString(with: scanner, named: "description", virtualNumber: virtualNumber)
+        room.zoneNumber = try consumeInt(with: scanner, named: "zoneNumber", virtualNumber: virtualNumber)
+        room.zoneFlags = try consumeInt(with: scanner, named: "zoneFlags", virtualNumber: virtualNumber)
+        room.sectorType = try consumeInt(with: scanner, named: "sectorType", virtualNumber: virtualNumber)
 
         if scanner.peekCharacters(count: 2)  == "$~" { return room }
 
@@ -53,12 +48,10 @@ public class WorldParser {
                 room.maxCharacters = maxCharacters == -1 ? .infinite : .limited(count: maxCharacters)
             } else if scanner.peekCharacter == "R" {
                 _ = scanner.scanCharacter()
-                let zresetCost = try? consumeInt(with: scanner, named: "zreset cost", virtualNumber: virtualNumber) ?? 0
-                // TODO: add this to rooms and store it
+                room.zresetCost = (try? consumeInt(with: scanner, named: "zreset cost", virtualNumber: virtualNumber)) ?? 0
             } else if scanner.peekCharacter == "M" {
                 _ = scanner.scanCharacter()
-                let minLevel = try? consumeInt(with: scanner, named: "min level", virtualNumber: virtualNumber) ?? 0
-                // TODO: add this to room and store it
+                room.minLevel = (try? consumeInt(with: scanner, named: "min level", virtualNumber: virtualNumber)) ?? 0
             } else if scanner.peekCharacter == "E" {
                 let extraDescriptions = try? consumeExtraDescriptions(with: scanner, virtualNumber: virtualNumber)
                 room.extraDescriptions = extraDescriptions ?? []
@@ -67,10 +60,10 @@ public class WorldParser {
                 room.darkLevel = try consumeInt(with: scanner, named: "dark level", virtualNumber: virtualNumber)
             } else if scanner.peekCharacter == "X" {
                 _ = scanner.scanCharacter()
-                let specFlag0 = try consumeInt(with: scanner, named: "specflag0", virtualNumber: virtualNumber)
+                room.specFlags0 = try consumeInt(with: scanner, named: "specflag0", virtualNumber: virtualNumber)
             } else if scanner.peekCharacter == "T" {
                 _ = scanner.scanCharacter()
-                let dropRoom = try consumeInt(with: scanner, named: "drop room", virtualNumber: virtualNumber)
+                room.dropRoom = try consumeInt(with: scanner, named: "drop room", virtualNumber: virtualNumber)
             } else {
                 throw WorldParsingError.unexpectedCharacter("Unexpected character parsing room \(virtualNumber): \(scanner.remaining)")
             }

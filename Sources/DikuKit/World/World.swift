@@ -9,12 +9,17 @@ public struct Room: Codable {
     public var name: String
     public var description: String
     public var zoneNumber: Int
-    public var zoneFlags: Int  // Many games will have multiple zoneflags probably, but Diku just has the one.
+    public var zoneFlags: Int
+    public var zresetCost: Int
     public var sectorType: Int
     public var exits: [Exit]
     public var darkLevel: Int
     public var extraDescriptions: [ExtraDescription]
     public var maxCharacters: MaxCharacters
+    public var maxLevel: Int
+    public var minLevel: Int
+    public var specFlags0: Int
+    public var dropRoom: Int?
 }
 
 public enum MaxCharacters: Codable {
