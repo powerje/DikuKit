@@ -96,14 +96,14 @@ public struct Room: Codable {
     public var zoneNumber: Int
     public var roomFlags: RoomFlags
     public var zresetCost: Int
-    public var sectorType: Int
+    public var sectorType: Int // TODO: `OptionSet`
     public var exits: [Exit]
     public var darkLevel: Int
     public var extraDescriptions: [ExtraDescription]
     public var maxCharacters: MaxCharacters
     public var maxLevel: Int
     public var minLevel: Int
-    public var specFlags0: Int
+    public var specFlags0: Int // TODO: `OptionSet`
     public var dropRoom: Int?
 }
 
@@ -116,7 +116,7 @@ public struct Exit: Codable {
     public var exitNumber: Int  // maps to a cardinal direction, game specific
     public var generalDescription: String
     public var keywords: [String]
-    public var flag: Int
+    public var flag: Int // TODO: `OptionSet`
     public var key: Int
     public var destination: Int
 }
