@@ -61,6 +61,8 @@ class WorldSpec: QuickSpec {
                     do {
                         let world: World? = try parser.parse()
                         expect(world).notTo(beNil())
+                        let room = world!.rooms.first!
+                        expect(room.roomFlags.description).to(equal("COLD NO_MOB WET"))
                     } catch {
                         expect(error).to(beNil())
                     }

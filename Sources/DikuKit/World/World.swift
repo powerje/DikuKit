@@ -5,7 +5,7 @@ public struct World: Codable {
     public var rooms: [Room]
 }
 
-public struct RoomFlags: OptionSet, Codable {
+public struct RoomFlags: OptionSet, Codable, Hashable {
     public let rawValue: Int
 
     public init(rawValue: Int) {
@@ -23,13 +23,13 @@ public struct RoomFlags: OptionSet, Codable {
     public static let dropTo = RoomFlags(rawValue: 1 << 8) // why necessary?
     public static let berserkerOnly = RoomFlags(rawValue: 1 << 9)
     public static let noHunt = RoomFlags(rawValue: 1 << 10)
-    // skipped 11, not sure why
+    public static let god = RoomFlags(rawValue: 1 << 11)
     public static let warlockOnly = RoomFlags(rawValue: 1 << 12)
     public static let peaceful = RoomFlags(rawValue: 1 << 13)
     public static let soundproof = RoomFlags(rawValue: 1 << 14)
     public static let wet = RoomFlags(rawValue: 1 << 15)
     public static let saved = RoomFlags(rawValue: 1 << 16)
-    // skipped 17, not sure why
+    public static let noWiz = RoomFlags(rawValue: 1 << 17)
     public static let unsaved = RoomFlags(rawValue: 1 << 18)
     public static let disaster = RoomFlags(rawValue: 1 << 19) // unused?
     public static let slide = RoomFlags(rawValue: 1 << 20)
@@ -44,6 +44,49 @@ public struct RoomFlags: OptionSet, Codable {
     public static let druidOnly = RoomFlags(rawValue: 1 << 29)
     public static let assassinOnly = RoomFlags(rawValue: 1 << 30)
     public static let property = RoomFlags(rawValue: 1 << 31)
+
+    public var description: String {
+        RoomFlags.names.keys
+            .filter { self.contains($0) }
+            .map { RoomFlags.names[$0] ?? "UNKNOWN_ROOMFLAG" }
+            .sorted()
+            .joined(separator: " ")
+    }
+
+    private static let names: [RoomFlags: String] = [
+        .dark: "DARK",
+        .death: "DEATH",
+        .noMob: "NO_MOB",
+        .indoors: "INDOORS",
+        .hot: "HOT",
+        .cold: "COLD",
+        .arid: "ARID",
+        .noMagic: "NO_MAGIC",
+        .dropTo: "DROP_TO",
+        .berserkerOnly: "BERSERKER_ONLY",
+        .noHunt: "NO_HUNT",
+        .god: "GOD",
+        .warlockOnly: "WARLOCK_ONLY",
+        .peaceful: "PEACEFUL",
+        .soundproof: "SOUNDPROOF",
+        .wet: "WET",
+        .saved: "SAVED",
+        .noWiz: "NO_WIZARD",
+        .unsaved: "UNSAVED",
+        .disaster: "DISASTER",
+        .slide: "SLIDE",
+        .heroOnly: "HERO_ONLY",
+        .noSummon: "NO_SUMMON",
+        .monkOnly: "MONK_ONLY",
+        .advancedClassOnly: "ADV_CLASS_ONLY",
+        .dualOnly: "DUAL_ONLY",
+        .avatarOnly: "AVATAR_ONLY",
+        .blademasterOnly: "BLADEMASTER_ONLY",
+        .archmageOnly: "ARCHMAGE_ONLY",
+        .druidOnly: "DRUID_ONLY",
+        .assassinOnly: "ASSASSIN_ONLY",
+        .property: "PROPERTY",
+    ]
 }
 
 public struct Room: Codable {
